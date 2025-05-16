@@ -1,0 +1,16 @@
+---
+id: 12372625
+data_publicacao: "2006-09-18 19:44:00"
+data_alteracao: "None"
+materia_tags: "Naomi Campbell"
+categoria: "Notícias"
+titulo: "Não vê, não ouve, não sabe e não acredita"
+sutia: "None"
+chapeu: "None"
+autor: "None"
+imagem: "None"
+---
+<p><P><FONT face=Verdana>Do <STRONG><EM><A href=\"https://www.noblat.com.br/\" target=_blank>blog</A></EM></STRONG> de Noblat<BR></FONT></P></p>
+<p><P><FONT face=Verdana>O ministro Márcio Thomas Bastos, da Justiça, revelou que Lula não acredita no envolvimento de Freud Godoy na operação de compra do dossiê que supostamente liga José Serra à Mafia dos Sanguessugas.</FONT></P></p>
+<p><P><FONT face=Verdana>Além de não ver, não ouvir e não saber nada de coisa alguma, Lula também não acredita - como passou meses repetindo que não acreditava na culpa de Antonio Palocci pela quebra do sigilo bancário do caseiro Francenildo da Costa.</FONT></P></p>
+<p><P><FONT face=Verdana>Até que em entrevista ontem a quatro jornalistas ele disse que demitiu Palocci por ter usado o cargo para investigar a vida do caseiro.</FONT></P> </p>

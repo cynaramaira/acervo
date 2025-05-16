@@ -1,0 +1,14 @@
+---
+id: 12372679
+data_publicacao: "2006-09-20 09:47:00"
+data_alteracao: "None"
+materia_tags: "Prefeitos,tempo"
+categoria: "Notícias"
+titulo: "O tempo e os efeitos"
+sutia: "None"
+chapeu: "None"
+autor: "None"
+imagem: "None"
+---
+<p><P><FONT face=Verdana>Por <STRONG>Fernando Rodrigues<BR></STRONG>Colunista da Folha de S.Paulo, no JC de hoje<BR><BR>BRAS??LIA - Nada mais fácil no caso do dossiê/entrevista da fam?lia Vedoin do que apontar o dedo para os poss?veis responsáveis. Falar sobre a incapacidade atávica de Lula de perceber o tipo de gente que o cerca -no m?nimo. Ou dizer que é necessário investigar mais o que ocorreu na área de saúde durante a gestão tucana de José Serra. <BR><BR></FONT><FONT face=Verdana>O dif?cil nesse episódio é prever o efeito real dessas not?cias nas campanhas eleitorais, sobretudo a presidencial. Faltam dez dias para a eleição. Basicamente, em tese, o que pode acontecer é alguma inversão de tendências que leve a disputa para o segundo turno. <BR><BR>Embora seja imposs?vel prever o desfecho, dada a abundância de informações e pelo que mais pode surgir, há alguns fatores já na superf?cie: 1) o noticiário pol?tico das TVs é dominado pelo tema; 2) o assunto é ainda incompreens?vel para as classes D e E -a maioria dos eleitores; 3) é n?tido que não interessa a Lula nem a Serra prolongar essa crise, pois ambos correm o risco de sair perdendo. <BR><BR></FONT><FONT face=Verdana>Alckmin vai aos poucos calibrando o discurso na TV. Começou mal ontem cedo. Foi aumentando o tom ao longo do dia. Convenhamos, é dif?cil explicar para</p>
+<p> o eleitor um caso envolvendo Freud, que foi contatado por Gedimar por uma conexão com Valdebran para negociarem uma entrevista e/ou um dossiê com a fam?lia Vedoin. Para arrematar, dizer que Freud andava para cima e para baixo com Lula há quase duas décadas. Mas Freud nega, Lula nega e a vida continua.<BR><BR></FONT><FONT face=Verdana>A chave de toda essa história é a origem dos cerca de R$ 2 milhões usados na operação. Se a identidade do financiador aparecer logo, e se for poss?vel estabelecer um v?nculo claro com Lula, a? talvez a casa possa cair. Vindo menos que isso, é arriscado prever grandes alterações no atual quadro eleitoral.</FONT></P> </p>

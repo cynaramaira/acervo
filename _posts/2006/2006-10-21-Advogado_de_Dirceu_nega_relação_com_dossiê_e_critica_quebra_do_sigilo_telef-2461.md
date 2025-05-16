@@ -1,0 +1,17 @@
+---
+id: 12373634
+data_publicacao: "2006-10-21 08:50:00"
+data_alteracao: "None"
+materia_tags: "Advogados,crítica,José Dirceu"
+categoria: "Notícias"
+titulo: "Advogado de Dirceu nega relação com dossiê e critica quebra do sigilo telefônico"
+sutia: "None"
+chapeu: "None"
+autor: "None"
+imagem: "None"
+---
+<p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG></FONT></P></p>
+<p><P><FONT face=Verdana>O advogado de José Dirceu, José Lu?s Oliveira Lima, confirmou ontem que o cliente conversou, por telefone, com Jorge Lorenzetti, mas ressaltou que o diálogo entre eles foi curto, “cerca de dois minutos???, e não abordou o dossiê Vedoin.</FONT></P></p>
+<p><P><FONT face=Verdana>Lima confirmou que Dirceu foi procurado por Lorenzetti no telefone fixo e retornou três horas depois. “O (ex) ministro José Dirceu nega qualquer participação nesse caso do dossiê???, ressaltou o advogado, afirmando que foi uma única conversa “sobre generalidades???, em data que o cliente não se lembra. </FONT></P></p>
+<p><P><FONT face=Verdana>Lima considerou uma “leviandade??? decorrente do “calor pol?tico do Pa?s??? o vazamento das informações sobre a ligação telefônica. Ele argumentou que o sigilo das investigações não foi respeitado.</FONT></P></p>
+<p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/10/21/not_205530.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P> </p>

@@ -1,0 +1,17 @@
+---
+id: 12372196
+data_publicacao: "2006-07-23 08:00:00"
+data_alteracao: "None"
+materia_tags: "Lula"
+categoria: "Notícias"
+titulo: "O pesadelo de Lula"
+sutia: "None"
+chapeu: "None"
+autor: "None"
+imagem: "None"
+---
+<p><FONT size=2></p>
+<p><P>BRAS??LIA – A Região Sul transformou-se na grande alavanca eleitoral do candidato do PSDB à Presidência, Geraldo Alckmin. No segundo turno de 2002, o presidente Luiz Inácio Lula da Silva recebeu 55% dos votos no Rio Grande do Sul, 60% no Paraná e 64% em Santa Catarina. Em 2006, o Sul transformou-se no principal pesadelo da campanha de Lula pela reeleição.</P></p>
+<p><P>Conforme o Datafolha, o candidato do PSDB vence Lula na região por 37% a 30%. Para o Instituto Sensus, a situação é de empate técnico: 34% a 32% para Lula. As pesquisas para o segundo turno mostram vantagem de Alckmin, de 52% a 34%, no Datafolha. Na do Sensus, 41% a 40%.</P></p>
+<p><P>Essa mudança do eleitorado ajuda a explicar o desempenho do candidato do PSDB em escala nacional, onde ganha mais eleitores a cada nova rodada das pesquisas, mas não chega a ser uma surpresa completa. O Sul já foi uma fortaleza do PT, que administrou várias cidades importantes na região, mas aos poucos essa força tem diminu?do.</P></p>
+<p><P>Leia <A href=\"https://www.jc.com.br/\" target=_blank><STRONG>matéria</STRONG></A> completa no JC (assinantes).</P></FONT> </p>

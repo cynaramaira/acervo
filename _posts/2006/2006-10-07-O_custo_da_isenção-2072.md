@@ -1,0 +1,13 @@
+---
+id: 12373245
+data_publicacao: "2006-10-07 08:30:00"
+data_alteracao: "None"
+materia_tags: "Isenção"
+categoria: "Notícias"
+titulo: "O custo da isenção"
+sutia: "None"
+chapeu: "None"
+autor: "None"
+imagem: "None"
+---
+<p><P><FONT face=Verdana>Por <STRONG>Fernando Castilho</STRONG><BR>No Jornal do Commercio de hoje<BR></FONT><FONT face=Verdana><BR>A Secretaria da Fazenda revelou, ontem, o custo da disputa eleitoral que separou, no primeiro turno, Mendonça Filho e Eduardo Campos, em relação ao custo tributário na conta de luz dos consumidores de baixa renda: R$ 16 milhões por ano, ou R$ 2,2 milhões neste exerc?cio. Valor baixo para um Estado cuja arrecadação vem crescendo 15% ao ano e que chega num momento em que o debate eleitoral acaba desvirtuando o sentido da medida.<BR> <BR>Isentar imposto de fam?lia com renda até dois salários é socialmente justo, mas é preciso dizer que, na maioria das contas mensais que começam a chegar em novembro, a redução vai significar, no máximo, duas passagens no sistema de transporte por ônibus na RMR no anel B. Não se pense que reduzir custo de serviço publico (qualquer que seja o valor) não é importante. Mas ninguém deve achar que, por decreto, a conta cai pela metade. O governador só manda em 25%, e priu! <BR><BR>O problema é que cobrar imposto de conta de luz virou uma festa para todos os Estados brasileiros. Podemos dizer que a Celpe, hoje, paga a folha de várias secretarias. Isenção é bom, pode dar votos, mas se o governo federal não entrar na “vaquinha???, o consumidor vai continuar sendo estropiado. O tamanho da renúncia fiscal (R$ 10 milhões com a isenção e mais R$ 6 milhões com a redução da al?quota) sobre 1,2 milhão de clientes mostra que o barulho é por muito pouco. Vai gerar um bruta frustração quando a fatura chegar. <BR><BR><STRONG>Metade dos consumidores são baixa renda <BR></STRONG><BR>A Celpe tem 1,2 milhão de consumidores classificados como de baixa renda. Eles representam 51% de todo os clientes da companhia e consomem, em média, 60 kWh por mês. Os demais clientes residenciais, somam 35% do total. Os restantes 14% são de consumidores comerciais e industrais. A Celpe tem 2,2 milhões de clientes e é a maior recolhedora de ICMS do governo do Estado. A classe residencial compra 35,6% de toda energia vendida pela empresa.</FONT></P> </p>

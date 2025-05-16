@@ -1,0 +1,18 @@
+---
+id: 12372925
+data_publicacao: "2006-09-28 19:01:00"
+data_alteracao: "None"
+materia_tags: "Lula,Naomi Campbell"
+categoria: "Notícias"
+titulo: "Lula vai ou não vai?"
+sutia: "None"
+chapeu: "None"
+autor: "None"
+imagem: "None"
+---
+<p><P><FONT face=Verdana>As últimas not?cias sobre a ida ou não do presidente Lula ao debate promovido, hoje, na TV Globo, após a novela \"Páginas da Vida\".</FONT></P><B></p>
+<p><P><FONT face=Verdana color=black>BLOG DO NOBLAT: </FONT></B><U><FONT face=Verdana color=black>Alencar espera Lula em São Paulo</FONT></P></U><B></p>
+<p><P><FONT face=Verdana color=black>G1: </FONT></B><A href=\"https://g1.globo.com/Noticias/Eleicoes/0,,AA1290319-6282,00.html\"><FONT face=Verdana color=black>Lula deixa Bras?lia sem dizer se irá a debate</FONT></A><FONT face=Verdana color=black> </FONT></P><B></p>
+<p><P><FONT face=Verdana color=black>UOL: </FONT></B><A href=\"https://eleicoes.uol.com.br/2006/ultnot/2006/09/28/ult27u58020.jhtm\"><U><FONT face=Verdana color=black>Lula decide não ir a debate, diz fonte do Planalto</FONT></U></A><FONT face=Verdana color=black> </FONT></P><B></p>
+<p><P><FONT face=Verdana color=black>TERRA:</FONT></B><FONT face=Verdana color=black> </FONT><A href=\"https://noticias.terra.com.br/mundo/interna/0,,OI1164491-EI294,00.html\"><U><FONT face=Verdana color=black>Lula decide não ir a debate, diz fonte do Planalto</FONT></U></A></P><B></p>
+<p><P><FONT face=Verdana color=black>FOLHA ONLINE:</FONT></B><FONT face=Verdana color=black> </FONT><A href=\"https://www1.folha.uol.com.br/folha/brasil/ult96u84029.shtml\"><U><FONT face=Verdana color=black>Lula teria desistido de debate; assessores culpam oposição por eventual mudança de plano</FONT></U></A></P> </p>

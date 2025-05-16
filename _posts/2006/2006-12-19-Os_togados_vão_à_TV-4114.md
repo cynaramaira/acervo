@@ -1,0 +1,14 @@
+---
+id: 12375287
+data_publicacao: "2006-12-19 18:47:00"
+data_alteracao: "None"
+materia_tags: "Galvão Bueno"
+categoria: "Notícias"
+titulo: "Os togados vão à TV"
+sutia: "None"
+chapeu: "None"
+autor: "None"
+imagem: "None"
+---
+<p><P><FONT face=Verdana>Os desembargadores do TJPE querem ficar mais próximos do povo no ano que vem. A partir da segunda quinzena</p>
+<p> de janeiro, nas noites de quintas-feiras, a TV Universitária vai exibir o programa Justiça na TV, sobre as atividades do Tribunal de Justiça de Pernambuco. <BR><BR>O então presidente em exerc?cio do TJPE, desembargador Antônio Camarotti, e o presidente da Fundação de Apoio ao Desenvolvimento da Universidade Federal de Pernambuco (Fade / UFPE), Suêldo Vita da Silveira, assinaram o convênio para a produção e veiculação do programa, na última quinta-feira, dia 14, no Palácio do Campo das Princesas. A solenidade de assinatura foi presidida pelo então governador em exerc?cio, desembargador Fausto Freitas.<BR><BR>\"O contrato com a TVU apresenta mais um passo na aproximação do Poder Judiciário estadual com toda a população pernambucana. Ao mesmo tempo, era necessário promover maior interação entre os segmentos do Tribunal, o que vamos conseguir através do programa\", justificou o desembargador Fausto Freitas. \"A população terá acesso a todas as nossas decisões jur?dicas e administrativas\", complementou Antônio Camarotti.<BR><BR>O Justiça na TV será composto por entrevistas com desembargadores, ju?zes e servidores, no intuito de mostrar o dia-a-dia da prestação jurisdicional. Terá uma duração de 30 minutos e irá abordar temas como pensão aliment?cia, divórcio, registro civil e criminalidade. <BR><BR>O programa trará também informações sobre os juizados especiais, como os juizados de pequenas causas, do idoso, da mulher e do torcedor. <BR></FONT></P> </p>

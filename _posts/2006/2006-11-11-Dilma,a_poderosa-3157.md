@@ -1,0 +1,19 @@
+---
+id: 12374330
+data_publicacao: "2006-11-11 09:33:00"
+data_alteracao: "None"
+materia_tags: "Dilma,poderosa"
+categoria: "Notícias"
+titulo: "Dilma,a poderosa"
+sutia: "None"
+chapeu: "None"
+autor: "None"
+imagem: "None"
+---
+<p><P><FONT face=Verdana>Da revista <STRONG>Época</STRONG></FONT></P></p>
+<p><P><FONT face=Verdana>Na geografia pol?tica de Bras?lia, ter gabinete no Palácio do Planalto é sinônimo de poder. Quanto maior a sala, mais influência no governo. </FONT></P></p>
+<p><P><FONT face=Verdana>Dilma Rousseff, ministra-chefe da Casa Civil, é dona do gabinete mais amplo do 4o andar do Planalto. Ela manda muito. É a gerente do governo, encarregada de fazer a burocracia funcionar e de resolver atritos entre os ministérios. </FONT></P></p>
+<p><P><FONT face=Verdana>Dos 34 ministros, ela é a que mais tempo passa ao lado do presidente Luiz Inácio Lula da Silva. Despacha todo dia com ele. Segundo assessores do Planalto, o presidente procura a opinião de Dilma sempre que há um assunto espinhoso. Sim, Dilma já tem muito poder. Mas ela quer ainda mais. </FONT></P></p>
+<p><P><FONT face=Verdana>De acordo com colegas de ministério, Dilma impôs a si mesma a meta de se transformar na porta-voz do grupo do governo insatisfeito com o desempenho fraco da economia. </FONT></P></p>
+<p><P><FONT face=Verdana>Ela tem dito que é poss?vel levar o pa?s a taxas maiores de crescimento sem abrir mão do controle da inflação e da responsabilidade com os gastos públicos. Ela deseja, portanto, influir na pol?tica econômica - a área mais sens?vel e disputada do governo. </FONT></P></p>
+<p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://revistaepoca.globo.com/Revista/Epoca/0,,EDG75727-6009-443,00.html\" target=_blank>aqui</A></EM></STRONG>.</FONT></P> </p>

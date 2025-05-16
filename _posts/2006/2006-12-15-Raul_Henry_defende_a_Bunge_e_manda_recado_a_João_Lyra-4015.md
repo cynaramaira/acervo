@@ -1,0 +1,15 @@
+---
+id: 12375188
+data_publicacao: "2006-12-15 12:27:00"
+data_alteracao: "None"
+materia_tags: "joão d,mandados,raquel lyra,Raul Henry"
+categoria: "Notícias"
+titulo: "Raul Henry defende a Bunge e manda recado a João Lyra"
+sutia: "None"
+chapeu: "None"
+autor: "None"
+imagem: "None"
+---
+<p><P><FONT face=Verdana>O deputado estadual Raul Henry, ex-secretário de Planejamento do governo Jarbas Vasconcelos e Mendonça Filho, saiu em defesa da concessão de incentivos fiscais para a multinacional Bunge Alimentos, mesmo a empresa estando em débito com a Secretaria da Fazenda e com a elevação do ICMS para as margarinas consumidas no Estado, situação que beneficia a empresa, em detrimento das concorrentes.</FONT></P></p>
+<p><P><FONT face=Verdana>“João Lyra Neto em breve vai ver como é duro atrair investimentos para o Estado. As empresas colocam condições e a gente ou atende ou perde. É a guerra fiscal. Se não dermos, perdemos os projetos para os outros. O governo do Estado tinha que dar para gerar empregos locais???, defendeu Raul Henry.</FONT></P></p>
+<p><P><FONT face=Verdana>Em entrevista na Rádio Jornal, no Programa Geraldo Freyre, Lyra havia dito que a operação era no m?nimo estranha.</FONT></P> </p>

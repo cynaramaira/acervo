@@ -1,0 +1,213 @@
+---
+id: 12372755
+data_publicacao: "2006-09-23 14:02:00"
+data_alteracao: "None"
+materia_tags: "negócio"
+categoria: "Notícias"
+titulo: "O negócio de R$ 1 milhão"
+sutia: "None"
+chapeu: "None"
+autor: "jamildo"
+imagem: "None"
+---
+<p>Saulo Batista da Silva, 25 anos, &eacute; um rapaz estranho. Ora apresenta-se como ex-militante estudantil, ora como funcion&aacute;rio concursado dos Correios, em Bras?lia, onde diz morar no Centro de Atividades n&uacute;mero</p>
+<p>5, Lago Norte.</p>
+<p>Afirmando ser representante de uma empresa de S&atilde;o Paulo chamada Conceito Consultoria em Eventos LTDA, fez uma s&eacute;rie de grava&ccedil;&otilde;es com gente da alta c&uacute;pula do Partido Socialista Brasileiro (PSB) durante reuni&otilde;es nas quais se negociaria o desvio de recursos da Petrobras, R$ 1 milh&atilde;o, destinados &agrave;s campanhas de Eduardo Campos ao governo de Pernambuco e do candidato a deputado estadual Milton Coelho, presidente estadual e membro da executiva nacional do partido.</p>
+<p>Foram cerca de 11 horas de grava&ccedil;&otilde;es com um ipod, entre 27 de julho deste ano e a quarta-feira da semana passada, dia 13, &agrave; noite. Todas no Recife. As conversas giraram em torno de um projeto da Conceito, or&ccedil;ado inicialmente em R$ 4,5 milh&otilde;es e depois ampliado para R$ 5,5 milh&otilde;es, de instala&ccedil;&atilde;o de uma pista de kart no gelo durante o Grande Pr&ecirc;mio do Brasil de F&oacute;rmula 1.</p>
+<p>O projeto teria sido recusado pela Petrobras e a empresa, afirma Saulo Batista, buscou um padrinho pol?tico para conseguir aprov&aacute;-lo. Como &eacute; de Pernambuco, diz ele, sugeriu que fosse o PSB por conta do tr&acirc;nsito que Eduardo Campos tem no Pal&aacute;cio do Planalto.</p>
+<p>Em entrevistas ao Blog, Saulo diz que o primeiro contato teria sido feito com Frederico Haeckel, que, segundo ele, fez uma ponte para chegar ao vereador do Recife Danilo Cabral, coordenador geral da campanha de Eduardo Campos. Danilo teria encaminhado Saulo para Romero Pontual, apontado como tesoureiro da campanha, e para Pedro Mendes, membro da coordena&ccedil;&atilde;o da campanha.</p>
+<p>Ao Blog, Saulo garante que todas as conversas foram gravadas desde o in?cio. Mas ele s&oacute; entregou ao Blog c&oacute;pias de dois di&aacute;logos que manteve com Milton Coelho e sua esposa, Simone, na semana passada, na quarta, 13.</p>
+<p>E nessas conversas com Milton e Simone, discute-se o seguinte. O presidente estadual do PSB buscaria a aprova&ccedil;&atilde;o do projeto na Petrobras. Em troca, receberia, ainda na semana passada, R$ 500 mil, dos quais R$ 350 mil em doa&ccedil;&atilde;o legal da pr&oacute;pria Conceito Consultoria e R$ 150 mil que seriam entregues, sem recibo, em esp&eacute;cie, &agrave;s 18h da sexta-feira da semana passada, dia 15, no Caf&eacute; do Gomes, no shopping Tacaruna (na verdade, chama-se Gomes Caf&eacute;, fica no 2&ordm; piso do shopping, na &aacute;rea nova).</p>
+<p>Na conversa com Simone, &eacute; ela quem prop&otilde;e essa divis&atilde;o, marca o dia do encontro para pegar o dinheiro em esp&eacute;cie e marca um encontro, &agrave; noite, com Milton, numa casa no bairro de Campo Grande, onde havia um evento de campanha. A reuni&atilde;o com Simone teria ocorrido por volta das 14h30, na sede do diret&oacute;rio regional do PSB, no Espinheiro.</p>
+<p>Com Milton, a conversa &eacute; mais s&eacute;ria. Ele acerta ir buscar pessoalmente o dinheiro. Combina at&eacute; a forma para que se garanta discri&ccedil;&atilde;o, no Caf&eacute; do Gomes: &ldquo;A gente vai fazer assim: voc&ecirc; leva uma sacolinha e eu levo uma sacolinha, a? a gente senta, toma um caf&eacute;, demora uns 10, 15 minutos e, na hora de ir embora, eu pego a sua sacolinha e voc&ecirc; a minha&hellip;???</p>
+<p>Noutro trecho, Milton Coelho diz que a Petrobras &eacute; complicada porque est&aacute; sob o comando do PT. Afirma que o PSB tentou conseguir recursos para a campanha de Eduardo por meio da estatal, mas s&oacute; conseguiu a promessa da libera&ccedil;&atilde;o de dinheiro ap&oacute;s a elei&ccedil;&atilde;o e para pagamento das d?vidas de campanha.</p>
+<p>Veja abaixo os principais trechos das grava&ccedil;&otilde;es. Daqui a pouco voltaremos ao assunto. O Blog inclusive aguarda um retorno do PSB sobre o assunto.</p>
+<p>MILTON COELHO</p>
+<p>Saulo Batista:</p>
+<p>A Simone tinha marcado comigo que esses primeiros 150 mil ela gostaria&hellip; ela inclusive chegou a marcar comigo as 18h&hellip;ate porque eu disse a ela que preciso de dois dias pra operar esse dinheiro, mesmo porque &eacute; uma quantia que voc&ecirc; n&atilde;o pode simplesmente sacar no banco, voc&ecirc; tem de pulveriz&aacute;-lo e depois reav&ecirc;-lo&hellip; ela disse que mandaria uma pessoa da confian&ccedil;a dela pra receber&hellip;ela ate chegou a marcar no Caf&eacute;&hellip;no Caf&eacute; do Gilson&hellip;no caf&eacute; de algu&eacute;m la no Shopping Tacaruna&hellip;</p>
+<p>Milton Coelho:</p>
+<p>Caf&eacute; do Gomes&hellip;</p>
+<p><br />Saulo Batista:</p>
+<p>Do Gomes! La no Shopping Tacaruna&hellip; e essa segunda parte que &eacute; a parte que vai entrar na cota oficial, essa pode ser operada&hellip;vou repassar amanha mesmo os dados banc&aacute;rios, peguei hoje&hellip; pra repassar amanha mesmo, pra gente estar&hellip;</p>
+<p>Milton Coelho:</p>
+<p>Quando for la no Caf&eacute; do Gomes&hellip;voc&ecirc; quem vai levar?</p>
+<p><br />Saulo Batista:</p>
+<p>Eu. Esse tipo de coisa&hellip;o dinheiro por fora&hellip;isso foi inclusive uma coisa que ela falou&hellip;que faria quest&atilde;o&hellip; que n&atilde;o operaria isso a? se fosse tratar com uma terceira pessoa, ela colocou isso assim&hellip;</p>
+<p>Milton Coelho:</p>
+<p>A gente vai fazer assim: voc&ecirc; leva uma sacolinha e eu levo uma sacolinha, a? a gente senta, toma um caf&eacute;, demora uns 10, 15 minutos e, na hora de ir embora, eu pego a sua sacolinha e voc&ecirc; a minha&hellip;</p>
+<p>Saulo Batista:</p>
+<p>Tranq&uuml;ilo.</p>
+<p>Milton Coelho:</p>
+<p>Eu boto a minha sacola no lado direito da mesa, voc&ecirc; bota a sua sacola no seu lado direito&hellip;voc&ecirc; pega a minha e sai e eu pego a sua&hellip;</p>
+<p>Saulo Batista:</p>
+<p>Perfeito, to entendendo perfeitamente como &eacute; que voc&ecirc; quer operar isso a?.</p>
+<p>(...)</p>
+<p>Milton Coelho:</p>
+<p>Veja bem o que eu vou dizer pra voc&ecirc;, pra gente deixar bem claro&hellip;em primeiro lugar eu acho que a minha campanha ta precisando desse impulso, estamos na reta final&hellip;em segundo lugar eu acho que posso ajudar nesse encaminhamento&hellip;agora voc&ecirc; sabe que existe uma taxa de risco de nos n&atilde;o lograrmos &ecirc;xito&hellip; n&atilde;o &eacute; que eu n&atilde;o va me empenhar no assunto, porque n&atilde;o &eacute; o meu&hellip;n&atilde;o &eacute; o meu comportamento&hellip;vou me empenhar no assunto, acho que tem pessoas que podem me ajudar nisso&hellip;ate porque voc&ecirc; sabe que existe, porque existe&hellip;porque o governo &eacute; do PT&hellip; e o PT &eacute; muito complicado</p>
+<p>Saulo Batista:</p>
+<p>Tenho plena convic&ccedil;&atilde;o disso. Inclusive a Petrobras ta na m&atilde;o de um Senador PTista, o Jose Eduardo Dutra, l&aacute; de Sergipe.</p>
+<p>Milton Coelho:</p>
+<p>Exatamente. Entendeu? Nos tentamos conseguir&hellip;a Petrobras ajudou v&aacute;rios candidatos do PT&hellip;nos tentamos conseguir uma ajuda pra Campanha de Eduardo aqui em Pernambuco&hellip;e eles ficaram empurrando com a barriga, empurrando, empurrando&hellip;ate que eles disseram que v&atilde;o dar depois da elei&ccedil;&atilde;o porque, sempre fica resto de campanha a pagar, e realmente fica, e ficou nessa historia&hellip;ent&atilde;o eu assumo o meu compromisso de depois nos procurarmos dar um empurr&atilde;o nisso&hellip;n&atilde;o &eacute; uma coisa assim&hellip; n&atilde;o &eacute; f&aacute;cil mas tamb&eacute;m n&atilde;o &eacute; muito dif?cil&hellip;entendeu&hellip;sou Presidente do Partido aqui&hellip;sou membro da Dire&ccedil;&atilde;o Nacional do PSB&hellip;certo?</p>
+<p><br />SIMONE</p>
+<p><br />SIMONE:</p>
+<p>S&oacute; queria que voc&ecirc; me desse depois o...coisa do seu projeto, se n&atilde;o fica ruim pra voc&ecirc;...&Eacute; s&oacute; curiosidade mesmo...</p>
+<p>SAULO:</p>
+<p>N&atilde;o, n&atilde;o &eacute; ruim, n&atilde;o...&eacute; porque realmente os tr&ecirc;s que eu tinha, um ficou com Romero Pontual, o outro foi o que foi encaminhado para a Petrobras formalmente...</p>
+<p>SIMONE:</p>
+<p>Eu vou pedir pra Romero...</p>
+<p>SAULO:</p>
+<p>Pronto, pode pedir pra Romero...</p>
+<p>SIMONE:</p>
+<p>(inaud?vel)...deve ser bem interessante...</p>
+<p>SAULO:</p>
+<p>Bem interessante...Agora preciso dos dados banc&aacute;rios...</p>
+<p>SIMONE:</p>
+<p>Vou lhe dar agora. Saulo, me diga uma coisa. Eh...quer dizer...(inaud?vel)...amanh&atilde; logo cedo...Desses valores que voc&ecirc;s v&atilde;o passar, tinha como passar algum valor em off?</p>
+<p>SAULO:</p>
+<p>Sem problemas...</p>
+<p>SIMONE:</p>
+<p>Pra eu trabalhar ao vivo...</p>
+<p>SAULO:</p>
+<p>Sem problema...</p>
+<p>SIMONE:</p>
+<p>Tem como?</p>
+<p>SAULO:</p>
+<p>&lt;FONT</p>
+<p>face=Verdana&gt;Quanto &eacute; a necessidade de se trabalhar em off?</p>
+<p>SIMONE:</p>
+<p>Eu t&ocirc; a? com uns d&eacute;bitos...</p>
+<p>SAULO:</p>
+<p>N&atilde;o, por que &eacute; isso que eu t&ocirc; falando...porque pra mim isso n&atilde;o faz diferen&ccedil;a, n&atilde;o.</p>
+<p>SIMONE:</p>
+<p>N&atilde;o faz diferen&ccedil;a?</p>
+<p>SAULO:</p>
+<p>Pra mim isso n&atilde;o faz diferen&ccedil;a nenhuma, qual &eacute; a quantidade que vai entrar...</p>
+<p>SIMONE:</p>
+<p>Como seria isso...(inaud?vel)</p>
+<p>SAULO:</p>
+<p>Para em off, acho que o melhor seria em esp&eacute;cie...</p>
+<p>SIMONE:</p>
+<p>Em esp&eacute;cie? Voc&ecirc; tem como ver isso?...</p>
+<p>SAULO:</p>
+<p>Tem, tem como ver isso atrav&eacute;s do prestador de servi&ccedil;o...ou seja, sai da minha conta...Porque &eacute; o seguinte...Como eu presto...A conceito &eacute; uma empresa de eventos, ou seja, eu tenho muita gr&aacute;fica, o pessoal de confec&ccedil;&atilde;o, que pode me passar nota e eu realmente...&eacute; feito muito pagamento em esp&eacute;cie a esse pessoal de eventos...</p>
+<p>SIMONE:</p>
+<p>Mas como seria isso? Voc&ecirc; falaria...em que tempo voc&ecirc; poderia ver isso?...</p>
+<p>SAULO:</p>
+<p>N&atilde;o, nesse final de semana...&eacute; o tempo de fazer a transfer&ecirc;ncia para cada uma gr&aacute;fica daqui, conhecida minha e tal...posso ta disponibilizando isso da?...elas v&atilde;o tirar a parte da nota e s&oacute;...</p>
+<p>SIMONE:</p>
+<p>Pegar a parte de tributos...</p>
+<p>(...)</p>
+<p>SIMONE:</p>
+<p>Militante da &aacute;rea popular!...To com medo...Eu digo, n&atilde;o tem medo, n&atilde;o...(inaud?vel)...O objetivo maior n&atilde;o &eacute; esse? &Eacute; acima de qualquer mandato, &eacute; acima de qualquer coisa &eacute; politizar o povo que t&aacute; l&aacute; no ato, n&atilde;o &eacute; n&atilde;o, Saulo? ... (inaud?vel) Mas veja s&oacute;...eu n&atilde;o gosto nem de falar assim...fico superconstrangida, acredita?...</p>
+<p>SAULO:</p>
+<p>Mas veja s&oacute;, essa &eacute; a primeira campanha, n&atilde;o &eacute;?</p>
+<p>SIMONE:</p>
+<p>&Eacute; verdade. (risos) N&atilde;o, e eu fico assim...</p>
+<p>SAULO:</p>
+<p>N&atilde;o, eu sei, &eacute; a sua primeira campanha. At&eacute; porque n&atilde;o existe, n&atilde;o tem...</p>
+<p>(...)</p>
+<p>SIMONE:</p>
+<p>O cheque tem que ser nominal a...a? eu vou botar aqui...(inaud?vel, muito baixo)...Milton Coelho, no Banco Real, o n&uacute;mero do banco &eacute; o n&uacute;mero 56...(inaud?vel)...</p>
+<p>(inaud?vel)</p>
+<p>SAULO:</p>
+<p>...Agora o mais vi&aacute;vel &eacute; fazer por TED, eu acho</p>
+<p>SIMONE:</p>
+<p>&Eacute;.</p>
+<p>SAULO:</p>
+<p>Agora me diga uma coisa. Voc&ecirc; falou que daquele montante voc&ecirc; precisaria de um valor que n&atilde;o entrasse por aqui. De qual seria o montante?</p>
+<p>SIMONE:</p>
+<p>A? veja s&oacute;, esse montante eu preferia que sa?sse de voc&ecirc;.</p>
+<p>SAULO:</p>
+<p>Sem problema, sem problema.</p>
+<p>SIMONE:</p>
+<p>Entendeu?</p>
+<p>SAULO:</p>
+<p>N&atilde;o, &eacute; porque eu to querendo saber qual &eacute; a sua necessidade disso a?, entendeu? Porque tem um planejamento. &Eacute; porque ficou 350 na empresa, que &eacute; a Conceito, e tem os 150 que &eacute; a minha empresa...</p>
+<p>SIMONE:</p>
+<p>&Eacute; a sua empresa.</p>
+<p>SAULO:</p>
+<p>Voc&ecirc; preferia que a minha empresa ela n&atilde;o entrasse...que esses 150 entrassem em esp&eacute;cie, digamos assim?</p>
+<p>SIMONE:</p>
+<p>Pode ser?</p>
+<p>SAULO:</p>
+<p>Sem problemas pra mim.</p>
+<p>SIMONE:</p>
+<p>N&atilde;o tem problema? Nem d&aacute; problema assim na...</p>
+<p>SAULO:</p>
+<p>N&atilde;o, pra mim talvez fique at&eacute; melhor do ponto de vista, digamos assim...porque o que &eacute; que tem? A gente tem um projeto que foi apresentado l&aacute;, que t&aacute; pra sair e do qual, digamos assim, eu sou organizador.</p>
+<p>SIMONE:</p>
+<p>Nem apareceria?</p>
+<p>SAULO:</p>
+<p>&Eacute; isso que eu to falando, nem apareceria como doador. Talvez pra o acordo que a gente t&aacute; fazendo fosse at&eacute; melhor porque nem apareceria meu nome como doador...porque talvez at&eacute;...o que poderia provocar problema &eacute; realmente isso, &eacute; eu t&aacute; aprovando projeto na Petrobras e aparecer como doador uma empresa que &eacute; minha, eu sou s&oacute;cio majorit&aacute;rio dela, t&aacute;...ent&atilde;o tudo bem, 150 que &eacute; da (inaud?vel), posso fazer sem problema nenhum, pode entrar...(inaud?vel)...</p>
+<p>SIMONE:</p>
+<p>Certo, agora o seguinte, como &eacute; que voc&ecirc; vai me...seguran&ccedil;a...pra que eu receba isso...e voc&ecirc; tamb&eacute;m...(inaud?vel)...voc&ecirc; tem como fazer, n&eacute;?</p>
+<p>SAULO:</p>
+<p>Tenho...agora aonde &eacute; que voc&ecirc; acha que...porque &eacute; um montante que o...o grande problema de 150 mil reais &eacute; aonde &eacute; que voc&ecirc; vai armazenar...porque at&eacute; sair da minha nota...porque eu n&atilde;o pego ele inteiro. Quer dizer, as pessoas que v&ecirc;m me entregar v&ecirc;m me entregar em partes. Agora voc&ecirc; vai guardar um valor muito grande. Isso a?... onde &eacute; que voc&ecirc; preferia que fosse feita a entrega disso a??</p>
+<p>SIMONE:</p>
+<p>Mas eu tenho como fazer isso...(inaud?vel)...voc&ecirc; receber&aacute; em partes e me entregar&aacute; em partes?...</p>
+<p>SAULO:</p>
+<p>N&atilde;o, eu recebo num dia s&oacute;, agora as pessoas v&ecirc;m me entregar...entendeu? Por exemplo, isso a?...Sexta-feira eu consigo t&aacute; com ele todo em m&atilde;os, agora onde &eacute; que eu entrego isso da??</p>
+<p>SIMONE:</p>
+<p>Pronto, mas voc&ecirc; vai receber tudo na sexta, n&atilde;o?</p>
+<p>SAULO:</p>
+<p>Provavelmente, tudo na sexta.</p>
+<p>SIMONE:</p>
+<p>Tudo na sexta?</p>
+<p>SAULO:</p>
+<p>Tudo na sexta, porque eu preciso de dois dias pra realmente isso, pra operar, digamos assim, essa rota&ccedil;&atilde;o, essa roda do dinheiro girar.</p>
+<p>SIMONE:</p>
+<p>Eu vou fazer da seguinte forma, vou botar uma pessoa da minha confian&ccedil;a...(inaud?vel)</p>
+<p>SAULO:</p>
+<p>(ri)...Essa &eacute; sua primeira campanha, n&atilde;o &eacute;? (ri)</p>
+<p>SIMONE:</p>
+<p>(inaud?vel)</p>
+<p>SAULO:</p>
+<p>Quer dizer, marca um local pra se encontrar e...</p>
+<p>SIMONE:</p>
+<p>...A gente pode marcar...Voc&ecirc; sabe onde &eacute; o caf&eacute; Gomes, do shopping Tacaruna?</p>
+<p>SAULO:</p>
+<p>N&atilde;o, mas sabendo que &eacute; no shopping Tacaruna n&atilde;o &eacute; dif?cil encontrar l&aacute;, n&atilde;o.</p>
+<p>SIMONE:</p>
+<p>Voc&ecirc; liga pra mim. (inaud?vil)</p>
+<p>SAULO:</p>
+<p>N&atilde;o, mas a gente se encontra, Caf&eacute; Gomes do Shopping Tacaruna, n&atilde;o tem segredo de achar, n&atilde;o.</p>
+<p>SIMONE:</p>
+<p>Voc&ecirc; quer deixar j&aacute; marcado esse encontro?...</p>
+<p>SAULO:</p>
+<p>Podemos deixar j&aacute; marcado esse encontro.</p>
+<p>SIMONE:</p>
+<p>N&atilde;o &eacute; melhor?</p>
+<p>SAULO:</p>
+<p>&Eacute; melhor deixar j&aacute; marcado</p>
+<p>esse encontro. Quer dizer no shopping Tacaruna...</p>
+<p>SIMONE:</p>
+<p>Que horas que voc&ecirc; acha que tem condi&ccedil;&otilde;es?</p>
+<p>SAULO:</p>
+<p>Depois do expediente banc&aacute;rio, qualquer hora. Depois das quatro da tarde, qualquer hor&aacute;rio.</p>
+<p>SIMONE:</p>
+<p>&Agrave;s 18 horas.</p>
+<p>SAULO:</p>
+<p>18h, no Caf&eacute; Gomes, shopping Tacaruna.</p>
+<p>SIMONE:</p>
+<p>Caf&eacute; Gomes, shopping Tacaruna.</p>
+<p>(sil&ecirc;ncio)</p>
+<p>SAULO:</p>
+<p>Milton t&aacute; em Recife, eh...Simone? Ou n&atilde;o, t&aacute; no interior?</p>
+<p>SIMONE:</p>
+<p>Oi?</p>
+<p>SAULO:</p>
+<p>Milton t&aacute; em Recife ou t&aacute; no interior?</p>
+<p>SIMONE:</p>
+<p>T&aacute; em Recife. Ele queria at&eacute; conversar contigo.</p>
+<p>SAULO:</p>
+<p>Seria interessante isso a? at&eacute; porque, eu vou ser muito franco com voc&ecirc;, porque o pessoal da empresa, a Conceito, que &eacute; minha s&oacute;cia, em S&atilde;o Paulo, eles est&atilde;o muito ressabiados por quest&otilde;es de como ocorreu o processo l&aacute; na majorit&aacute;ria. Porque eu at&eacute;...(inaud?vel)...porque a gente levou pra Romero, Romero passou pra Pedro, Pedro Mendes mandou pra o Marc?lio, que &eacute; um lobista, ou seja, ficou um neg&oacute;cio muito confuso, at&eacute; nem entendi...</p>
+<p>SIMONE:</p>
+<p>N&atilde;o, eu acho assim, eu acho que esse neg&oacute;cio de ter botado um lobista no meio, eu acho que prejudicaria at&eacute; voc&ecirc; depois e ia prejudicar a majorit&aacute;ria...</p>
+<p>SAULO:</p>
+<p>N&atilde;o, foi a avalia&ccedil;&atilde;o que foi feita. Ou seja, foi de forma muito difusa, assim, e o pessoal ficou...at&eacute; pediram que eu conversasse com Milton para tirar alguma d&uacute;vidas de como &eacute; que ele pretende enca...como &eacute; que...(algu&eacute;m interrompe a conversa: &ldquo;Voc&ecirc; vai sair agora????; Simone responde que n&atilde;o).</p>
+<p>SIMONE:</p>
+<p>O meu marido quer conversar com voc&ecirc;.</p>
+<p>SAULO:</p>
+<p>Quando &eacute; que ele poderia conversar?</p>
+<p>SIMONE:</p>
+<p>Eu s&oacute; posso dizer isso hoje &agrave; noite. Pra gente marcar e voc&ecirc; ter uma conversa com ele. Eu marco um lugar.</p>

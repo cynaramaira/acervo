@@ -1,0 +1,25 @@
+---
+id: 12372243
+data_publicacao: "2006-07-21 16:19:00"
+data_alteracao: "None"
+materia_tags: ""
+categoria: "Notícias"
+titulo: "O jogo é bruto na CPI"
+sutia: "None"
+chapeu: "None"
+autor: "None"
+imagem: "None"
+---
+<p><FONT size=2></p>
+<p><P><FONT face=Verdana>Não estava nos planos dos membros da CPI das Sanguessugas convocar ex-ministros da Saúde para depor. Chegaram até a combinar isso, em reunião reservada, na casa do deputado federal Raul Jungmann (PPS-PE), em Bras?lia.</FONT></P></p>
+<p><P><FONT face=Verdana>O escândalo das ambulãncias não começou agora, no governo Lula (PT). Tem origem por volta de 1999, primeiro ano da segunda gestão de Fernando Henrique Cardoso (PSDB). Passou pelos ministros José Serra, Barjas Negri, Humberto Costa, Saraiva Felipe e, agora, Agenor ??lvares.</FONT></P></p>
+<p><P><FONT face=Verdana>O esquema manteve-se razoavelmente pequeno até</p>
+<p> 2002, um ano eleitoral, quando ganhou escala e explodiu, firmando uma clientela segura, interessada em fontes de financiamento de campanha. </FONT></P></p>
+<p><P><FONT face=Verdana>Graças às eleições de 2002, 2004 e a deste ano, a Planam tornou-se exemplo incr?vel de empresa montada exclusivamente para a corrupção e o desvio de recursos públicos. Criou braços executivos em 19 estados, diz um parlamentar que participa das investigações.</FONT></P></p>
+<p><P><FONT face=Verdana>Os membros da CPI chegaram à conclusão, no encontro na casa de Jungmann, que não haveria condições de trabalhar se houvesse a convocação dos ex-ministros. O PT não aceita de maneira nenhuma ver depoimento apenas de Humberto Costa, que disputa o governo de Pernambuco.</FONT></P></p>
+<p><P><FONT face=Verdana>Poderá até permitir a ida de Antônio Alves de Souza, ex-chefe de gabinete de Humberto. Mas isso também não é simples. Alves é militante histórico do PT do Distrito Federal. Ocupou funções de destaque na secretaria de Saúde do DF, durante a gestão de Cristovam Buarque. Tem excelente trânsito no Palácio do Planalto.</FONT></P></p>
+<p><P><FONT face=Verdana>Se Humberto for convocado, haverá uma gigantesca pressão para que vá também José Serra, o l?der absoluto na disputa pelo governo de São Paulo. Dai para a CPI se tornar espaço de luta entre Lula e Alckmin é um pulo.</FONT></P></p>
+<p><P><FONT face=Verdana>Como é pouqu?ssimo provável que Serra vá, a tendência será de a CPI ficar bloqueada. Portanto, restará ainda mais intenso o jogo bruto de m?dia, com vazamentos de informações, de depoimentos, de sigilos e de todo tipo de dados que possam macular as imagens uns dos outros.</FONT></P></p>
+<p><P><FONT face=Verdana>Neste momento, por exemplo, Bras?lia ferve. </FONT></P></p>
+<p><P><FONT face=Verdana>As revistas de circulação nacional estão com cópias dos 10 dias de depoimentos de Luiz Vedoin, dono da Planam. </FONT></P></p>
+<p><P><FONT face=Verdana>Os boatos circulam rapidamente. E eles não são favoráveis a Humberto Costa.</FONT></P></FONT> </p>
