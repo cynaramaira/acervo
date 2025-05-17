@@ -1,0 +1,141 @@
+---
+title: Home
+layout: default
+background: '/img/bg-index.jpg'
+---
+
+{% if page.url == "/" %}
+<div class="rounded mb-5 hero">
+  <div class="row align-items-center justify-content-between">
+    <div class="col-md-6">
+      <h1 class="font-weight-bold mb-4 serif-font">Acervo Jamildo Melo</h1>
+      <p class="lead mb-4">Mais de 15 anos de jornalismo sério e informação precisa de volta ao ar</p>
+      <a href="{{site.baseurl}}/about" class="btn btn-dark text-white px-5 btn-lg">Sobre o acervo</a>
+    </div>
+    <div class="col-md-6 text-right pl-0 pl-lg-4">
+      <img class="intro" height="500" src="{{site.baseurl}}/assets/images/intro.svg">
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<section class="search-filter mt-5 mb-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h2>Busca e Filtros</h2>
+        <div class="input-group mb-3">
+          <input type="text" class="form-control" id="search-input" placeholder="Buscar por palavra-chave...">
+          <div class="input-group-append">
+            <button class="btn btn-primary" type="button" id="search-button">Buscar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-6">
+        <div class="form-group">
+          <label for="start-year">Ano Inicial:</label>
+          <select class="form-control" id="start-year">
+            <option value="">Todos</option>
+            <option value="2006">2006</option>
+            <option value="2007">2007</option>
+            <option value="2008">2008</option>
+            <option value="2009">2009</option>
+            <option value="2010">2010</option>
+            <option value="2011">2011</option>
+            <option value="2012">2012</option>
+            <option value="2013">2013</option>
+            <option value="2014">2014</option>
+            <option value="2015">2015</option>
+            <option value="2016">2016</option>
+            <option value="2017">2017</option>
+            <option value="2018">2018</option>
+            <option value="2019">2019</option>
+            <option value="2020">2020</option>
+            <option value="2021">2021</option>
+            <option value="2022">2022</option>
+            <option value="2023">2023</option>
+            <option value="2024">2024</option>
+          </select>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="form-group">
+          <label for="end-year">Ano Final:</label>
+          <select class="form-control" id="end-year">
+            <option value="">Todos</option>
+            <option value="2006">2006</option>
+            <option value="2007">2007</option>
+            <option value="2008">2008</option>
+            <option value="2009">2009</option>
+            <option value="2010">2010</option>
+            <option value="2011">2011</option>
+            <option value="2012">2012</option>
+            <option value="2013">2013</option>
+            <option value="2014">2014</option>
+            <option value="2015">2015</option>
+            <option value="2016">2016</option>
+            <option value="2017">2017</option>
+            <option value="2018">2018</option>
+            <option value="2019">2019</option>
+            <option value="2020">2020</option>
+            <option value="2021">2021</option>
+            <option value="2022">2022</option>
+            <option value="2023">2023</option>
+            <option value="2024">2024</option>
+          </select>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <button class="btn btn-secondary" id="clear-filters">Limpar Filtros</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="year-pills mt-4 mb-4 container">
+  <button class="year-pill active" data-year="">Todos</button>
+  <button class="year-pill" data-year="2024">2024</button>
+  <button class="year-pill" data-year="2023">2023</button>
+  <button class="year-pill" data-year="2022">2022</button>
+  <button class="year-pill" data-year="2021">2021</button>
+  <button class="year-pill" data-year="2020">2020</button>
+  <button class="year-pill" data-year="2015-2019">2015-2019</button>
+  <button class="year-pill" data-year="2010-2014">2010-2014</button>
+  <button class="year-pill" data-year="2006-2009">2006-2009</button>
+</div>
+
+<section class="row mt-5">
+  <div class="col-md-8">
+    <section class="row mt-5 news-grid" id="news-container">
+      {% for post in site.posts %}
+        <div class="col-md-4 mb-4 news-item news-card" data-year="{{ post.date | date: '%Y' }}">
+          <div class="card h-100">
+            <div class="card-content">
+              <h3 class="card-title">{{ post.name | split: '-' | slice: 3 | join: ' ' | replace: '_', ' ' | replace: '/\s\d+$/', '' | replace: '.md', '' }}</h3>
+              <a href="{{ post.url | relative_url }}" class="card-link">Ler matéria completa</a>
+            </div>
+            <div class="card-img">
+              <div class="card-date">{{ post.date | date: "%d/%m/%Y" }}</div>
+              {% if post.year %}
+              <div class="card-year-tag">{{ post.year }}</div>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </section>
+
+    <div class="bottompagination">
+      <span class="navigation" role="navigation">
+        {% include pagination.html %}
+      </span>
+    </div>
+  </div>
+  <div class="col-md-4">
+    {% include sidebar.html %}
+  </div>
+</section>
