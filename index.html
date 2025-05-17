@@ -115,7 +115,7 @@ background: '/img/bg-index.jpg'
         <div class="col-md-4 mb-4 news-item news-card" data-year="{{ post.date | date: '%Y' }}">
           <div class="card h-100">
             <div class="card-content">
-              <h3 class="card-title">{{ post.name | split: '-' | slice: 3 | join: ' ' | replace: '_', ' ' | replace: '/\s\d+$/', '' | replace: '.md', '' }}</h3>
+              <h3 class="card-title">{{ post.titulo }}</h3>
               <a href="{{ post.url | relative_url }}" class="card-link">Ler matéria completa</a>
             </div>
             <div class="card-img">
