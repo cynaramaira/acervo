@@ -49,3 +49,4 @@ plugins:
 - jekyll-sitemap
 - jekyll-feed
 - jekyll-archives
+- jekyll-seo-tag
