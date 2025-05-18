@@ -1,0 +1,13 @@
+---
+id: 12434551
+data_publicacao: "2012-02-03 17:01:00"
+data_alteracao: "None"
+materia_tags: "Assembleia Geral,carro,casa,diário oficial,Lei Seca"
+categoria: "Notícias"
+title: "Assembleia desmente que Isaltino estivesse usando carro oficial da casa,  ao ser pego em blitz da Lei Seca"
+sutia: "None"
+chapeu: "None"
+autor: "None"
+imagem: "None"
+---
+<p><p>A Assembleia Legislativa de Pernambuco informa ser inver&iacute;dica a informa&ccedil;&atilde;o de que disponibiliza para o deputado licenciado Isaltino Nascimento ve&iacute;culo locado pela casa &ndash; com contratos junto a Locavel e Recife Locadora. &ldquo;Desta forma, n&atilde;o procede a informa&ccedil;&atilde;o de que seria dos quadros da Alepe o carro usado pelo mesmo no momento de ocorr&ecirc;ncia em blitz de tr&acirc;nsito, esta semana&rdquo;, informa Paula Imperiano, da Alepe.</p></p>

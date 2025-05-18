@@ -10,5 +10,6 @@ chapeu: "None"
 autor: "jamildo"
 imagem: "None"
 ---
-<p>A campanha a deputado federal em S&atilde;o Paulo est&aacute; uma gra&ccedil;a. Dr. En&eacute;as Carneiro, do Prona, continua enf&aacute;tico e sint&eacute;tico.</p>
+<p>A campanha a deputado federal em S&atilde;o Paulo est&aacute; uma gra&ccedil;a. Dr. En&eacute;as Carneiro, do Prona, continua enf&aacute;tico e sint&eacute;tico.</p>
+
 <p>Neste v&iacute;deo do youtube.com explica rapidamente a doen&ccedil;a que teve, pede votos e porque anda sem barba.</p>

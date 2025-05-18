@@ -10,6 +10,8 @@ chapeu: "None"
 autor: "jamildo"
 imagem: "None"
 ---
-<p>Da revista Veja</p>
-<p>O senador Jos&eacute; Jorge, ex-candidato a vice na chapa do tucano Geraldo Alckmin, integrar&aacute; a equipe do governador do Distrito Federal, Jos&eacute; Roberto Arruda. Dever&aacute; ser aproveitado na estatal de eletricidade de Bras?lia.</p>
+<p>Da revista Veja</p>
+
+<p>O senador Jos&eacute; Jorge, ex-candidato a vice na chapa do tucano Geraldo Alckmin, integrar&aacute; a equipe do governador do Distrito Federal, Jos&eacute; Roberto Arruda. Dever&aacute; ser aproveitado na estatal de eletricidade de Bras?lia.</p>
+
 <p>Jos&eacute; Jorge tamb&eacute;m &eacute; forte candidato a sucess&atilde;o do presidente do PFL, Jorge Bornhausen.</p>

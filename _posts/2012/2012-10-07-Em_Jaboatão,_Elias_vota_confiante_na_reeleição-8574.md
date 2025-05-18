@@ -1,0 +1,16 @@
+---
+id: 12442144
+data_publicacao: "2012-10-07 13:50:00"
+data_alteracao: "None"
+materia_tags: "jaboatão"
+categoria: "Notícias"
+title: "Em Jaboatão, Elias vota confiante na reeleição"
+sutia: "None"
+chapeu: "None"
+autor: "None"
+imagem: "None"
+---
+<p><p style="text-align: justify;"><img width="470" height="300" src="https://jc3.uol.com.br/blogs/repositorio/fotoelias.jpg" fotonotitulo="nao" alt="" />Foto: divulga&ccedil;&atilde;o</p></p>
+<p><p style="text-align: justify;">No final da manh&atilde; deste domingo (7), o prefeito de Jaboat&atilde;o dos Guararapes - no Grande Recife - e candidato &agrave; reelei&ccedil;&atilde;o, Elias Gomes (PSDB), votou acompanhado da primeira dama, Ana Karla Gomes, e do filho Danilo. O col&eacute;gio eleitoral do tucano &eacute; o Especial, em Piedade.<br /></p>
+<p><br /></p>
+<p>&quot;A campanha este ano foi mais racional, as pessoas avaliando o passado e os avan&ccedil;os trazidos pela atual gest&atilde;o. Foi uma elei&ccedil;&atilde;o dos sete candidatos contra um. A alegria que encontramos aqui na se&ccedil;&atilde;o foi a mesma das ruas, temos sentido a popula&ccedil;&atilde;o muito animada&quot;, disse.</p></p>

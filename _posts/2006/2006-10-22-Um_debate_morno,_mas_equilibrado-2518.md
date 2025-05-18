@@ -10,5 +10,6 @@ chapeu: "None"
 autor: "jamildo"
 imagem: "None"
 ---
-<p>Sem grandes surpresas, com Eduardo e Mendon&ccedil;a buscando n&atilde;o passar uma imagem de maior agressividade, o debate na TV Jornal segue neste terceiro bloco equilibrado, com um e outro buscando desqualificar seus respectivos governos e mostrar que o advers&aacute;rio fala meias verdades.</p>
+<p>Sem grandes surpresas, com Eduardo e Mendon&ccedil;a buscando n&atilde;o passar uma imagem de maior agressividade, o debate na TV Jornal segue neste terceiro bloco equilibrado, com um e outro buscando desqualificar seus respectivos governos e mostrar que o advers&aacute;rio fala meias verdades.</p>
+
 <p>Esse jogo equilibrado favorece Eduardo Campos, que est&aacute; muito &agrave; frente nas pesquisas de inten&ccedil;&atilde;o de voto, com cerca de 28 pontos percentuais de dianteira.</p>

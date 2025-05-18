@@ -1,0 +1,23 @@
+---
+id: 12434930
+data_publicacao: "2012-02-16 15:18:00"
+data_alteracao: "None"
+materia_tags: "ficha limpa,Maioria,Supremo"
+categoria: "Notícias"
+title: "Maioria do Supremo decide pela validade da Lei da Ficha Limpa"
+sutia: "None"
+chapeu: "None"
+autor: "None"
+imagem: "None"
+---
+<p><p>Foto: Ag&ecirc;ncia Brasil<br /></p>
+<p><img height="327" width="480" alt="" fotonotitulo="nao" src="https://www.domtotal.com/img/noticias/2012-02/410682_80919.jpg" /></p></p>
+<p><p>Da Reda&ccedil;&atilde;o, com Ag&ecirc;ncia Brasil</p></p>
+<p><p>O ministro do Supremo Tribunal Federal (STF) Ayres Britto acompanhou o voto do relator, favor&aacute;vel &agrave; aplica&ccedil;&atilde;o da Ficha Limpa em 2012. Com isso chega-se ao placar de 6 a 1. Dessa maneira, j&aacute; h&aacute; votos suficientes para garantir a validade da lei em outubro deste ano. Ainda votar&atilde;o Gilmar Mendes, Marco Aur&eacute;lio Mello, Celso de Mello e Cezar Peluso,  conhecidos pelas posi&ccedil;&otilde;es conservadoras em rela&ccedil;&atilde;o a inova&ccedil;&otilde;es na  interpreta&ccedil;&atilde;o dos preceitos constitucionais.</p></p>
+<p><p>Antes, o ministro Ricardo Lewandowski reafirmou a posi&ccedil;&atilde;o j&aacute; conhecida dele pela legalidade da Lei da Ficha Limpa, no julgamento desta quinta-feira (13) no Supremo Tribunal Federal. Com o voto de Lewandowski, o placar a favor da lei est&aacute; em 5 a 1, j&aacute; computados os votos de Luiz Fux, Joaquim Barbosa, Rosa Weber e C&aacute;rmen L&uacute;cia. O &uacute;nico a votar contra foi o ministro Antonio Dias Toffoli.<br /></p>
+<p><br /></p>
+<p>Lewandowski apresentou um voto r&aacute;pido. Para o ministro, a exig&ecirc;ncia de moralidade na vida p&uacute;blica deve se sobrepor ao direito individual de ser considerado inocente at&eacute; palavra final da Justi&ccedil;a. &ldquo;N&oacute;s estamos diante de uma pondera&ccedil;&atilde;o de valores, temos dois valores de natureza constitucional de mesmo nivel&rdquo;, disse o ministro. Para Lewandowski, ao criar a Lei da Ficha Limpa, o Congresso fez a op&ccedil;&atilde;o leg&iacute;tima de aplicar o disposto constitucional que determina o zelo pela probidade administrativa e pela moralidade para exerc&iacute;cio de mandato.<br /></p>
+<p><br /></p>
+<p>O ministro Celso de Mello discordou da interpreta&ccedil;&atilde;o de Lewandowski, j&aacute; que o item que diz que ningu&eacute;m &eacute; considerado culpado at&eacute; decis&atilde;o definitiva da Justi&ccedil;a &eacute;, para ele, uma das garantias fundamentais previstas na Constitui&ccedil;&atilde;o. &ldquo;Pode o Congresso, sob pondera&ccedil;&atilde;o de valores, submeter garantias individuais&#63; Um direito fundamental &eacute; marginalizado&rdquo;, disse o ministro, sem conseguir abalar a convic&ccedil;&atilde;o do colega.<br /></p>
+<p><br /></p>
+<p>Lewandowski tamb&eacute;m n&atilde;o acatou a proposta do relator Fux de contar o per&iacute;odo de inelegibilidade de oito anos a partir da primeira condena&ccedil;&atilde;o em colegiado. A ideia &eacute; que o pol&iacute;tico n&atilde;o seja afastado da vida p&uacute;blica por muito tempo, j&aacute; que, entre essa condena&ccedil;&atilde;o e a palavra final da Justi&ccedil;a, pode se passar muito tempo. Apenas C&aacute;rmen L&uacute;cia acatou essa proposta at&eacute; agora.</p></p>

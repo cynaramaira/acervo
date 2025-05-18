@@ -10,5 +10,6 @@ chapeu: "None"
 autor: "jamildo"
 imagem: "None"
 ---
-<p>At&eacute; &agrave;s 15h de ontem, quando completamos 24 dias na rede, somamos 560.593 pages views. J&aacute; estamos entre os l&iacute;deres de audi&ecirc;ncia dos principais parceiros do JC OnLine.</p>
+<p>At&eacute; &agrave;s 15h de ontem, quando completamos 24 dias na rede, somamos 560.593 pages views. J&aacute; estamos entre os l&iacute;deres de audi&ecirc;ncia dos principais parceiros do JC OnLine.</p>
+
 <p>Muito obrigado a tod@s.</p>

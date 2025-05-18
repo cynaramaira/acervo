@@ -1,0 +1,25 @@
+---
+id: 12444099
+data_publicacao: "2012-12-20 13:49:00"
+data_alteracao: "None"
+materia_tags: "Arena Pernambuco,Internacional,projeto"
+categoria: "Notícias"
+title: "Projeto da Arena Pernambuco vence prêmio internacional"
+sutia: "None"
+chapeu: "None"
+autor: "None"
+imagem: "None"
+---
+<p><p></p>
+<p>	&nbsp;</p></p>
+<p><div style="text-align: justify;"></p>
+<p>	<img alt="" src="https://jc3.uol.com.br/blogs/repositorio/V03 - Aerea noturna vermelha_2.jpg" style="width: 470px; height: 300px;" />Imagem: divulga&ccedil;&atilde;o</div></p>
+<p><div style="text-align: justify;"></p>
+<p>	&nbsp;</div></p>
+<p><div id="cke_pastebin" style="text-align: justify;"></p>
+<p>	O projeto da Arena Pernambuco - que est&aacute; sendo constru&iacute;do em S&atilde;o Louren&ccedil;o da Mata, no Grande Recife, para a Copa das Confedera&ccedil;&otilde;es de 2013 e a do Mundo em 2014 - &nbsp;foi o considerado o melhor do mundo na categoria Best Public Service Architecture (melhor servi&ccedil;o voltado para a &aacute;rea p&uacute;blica) do pr&ecirc;mio International Property Awards.</div></p>
+<p><div id="cke_pastebin" style="text-align: justify;"></p>
+<p>	&nbsp;</div></p>
+<p><div id="cke_pastebin" style="text-align: justify;"></p>
+<p>	Realizada pela Fernandes Arquitetos, a planta concorreu com empresas de mais de 80 pa&iacute;ses e destacou-se pela inova&ccedil;&atilde;o e sustentabilidade ambiental. O an&uacute;ncio aconteceu no &uacute;ltimo dia 7, durante um jantar no Hotel Grosvenor House, na Inglaterra.</div></p>
+<p></p>
