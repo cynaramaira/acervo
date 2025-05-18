@@ -4,7 +4,7 @@ data_publicacao: "2006-08-16 12:50:00"
 data_alteracao: "None"
 materia_tags: "eduardo,programa"
 categoria: "Notícias"
-titulo: "O
+title: "O
  programa de Eduardo"
 sutia: "None"
 chapeu: "None"

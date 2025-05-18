@@ -4,7 +4,7 @@ data_publicacao: "2006-08-23 17:20:00"
 data_alteracao: "None"
 materia_tags: "Ana Arraes,Paulo,Rubem Fonseca"
 categoria: "Notícias"
-titulo: "A
+title: "A
  batalha do Siafem vem desde Arraes, diz Paulo Rubem"
 sutia: "None"
 chapeu: "None"

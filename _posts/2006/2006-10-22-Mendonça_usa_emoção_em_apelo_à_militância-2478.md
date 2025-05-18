@@ -4,7 +4,7 @@ data_publicacao: "2006-10-22 02:32:00"
 data_alteracao: "None"
 materia_tags: "mendonça"
 categoria: "Notícias"
-titulo: "Mendonça
+title: "Mendonça
  usa emoção em apelo à militância"
 sutia: "None"
 chapeu: "None"

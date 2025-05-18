@@ -4,7 +4,7 @@ data_publicacao: "2006-11-21 10:45:00"
 data_alteracao: "None"
 materia_tags: "Fórmula 1"
 categoria: "Notícias"
-titulo: "PT
+title: "PT
  busca fórmula para tirar Berzoini da presidência"
 sutia: "None"
 chapeu: "None"

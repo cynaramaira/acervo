@@ -4,7 +4,7 @@ data_publicacao: "2006-08-07 08:11:00"
 data_alteracao: "None"
 materia_tags: "Lula,mendonça"
 categoria: "Notícias"
-titulo: "Recepção
+title: "Recepção
  a Mendonça com Lula na cabeça "
 sutia: "None"
 chapeu: "None"

@@ -4,7 +4,7 @@ data_publicacao: "2006-09-18 17:30:00"
 data_alteracao: "None"
 materia_tags: "compras online,Contran,Serrana"
 categoria: "Notícias"
-titulo: "IstoÉ
+title: "IstoÉ
  nega participação em compra de dossiê contra Serra"
 sutia: "None"
 chapeu: "None"

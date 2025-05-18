@@ -4,7 +4,7 @@ data_publicacao: "2006-11-19 11:16:00"
 data_alteracao: "None"
 materia_tags: "Governo Federal,Hélder Barbalho,poderosa"
 categoria: "Notícias"
-titulo: "Jader
+title: "Jader
  Barbalho nunca teve tanto poder e cargos no governo federal quanto agora"
 sutia: "None"
 chapeu: "None"

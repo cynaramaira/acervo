@@ -4,7 +4,7 @@ data_publicacao: "2006-11-03 09:11:00"
 data_alteracao: "None"
 materia_tags: "Marco Maciel,Regulamentação"
 categoria: "Notícias"
-titulo: "Marco
+title: "Marco
  Maciel defende regulamentação do lóbi "
 sutia: "None"
 chapeu: "None"

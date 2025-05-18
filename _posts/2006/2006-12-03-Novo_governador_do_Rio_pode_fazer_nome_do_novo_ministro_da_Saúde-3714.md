@@ -4,7 +4,7 @@ data_publicacao: "2006-12-03 11:13:00"
 data_alteracao: "None"
 materia_tags: "GOVERNADORES,Ministro,novos"
 categoria: "Notícias"
-titulo: "Novo
+title: "Novo
  governador do Rio pode fazer nome do novo ministro da Saúde"
 sutia: "None"
 chapeu: "None"

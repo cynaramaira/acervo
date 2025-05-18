@@ -4,7 +4,7 @@ data_publicacao: "2006-10-01 17:35:00"
 data_alteracao: "None"
 materia_tags: "eduardo,Ibope,mendonça,Saturno"
 categoria: "Notícias"
-titulo: "Mendonça e Eduardo no
+title: "Mendonça e Eduardo no
  2º turno, diz Ibope"
 sutia: "None"
 chapeu: "None"

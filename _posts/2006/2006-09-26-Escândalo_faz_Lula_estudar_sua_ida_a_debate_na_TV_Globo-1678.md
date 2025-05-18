@@ -4,7 +4,7 @@ data_publicacao: "2006-09-26 10:30:00"
 data_alteracao: "None"
 materia_tags: "Debate,Lula,tv globo"
 categoria: "Notícias"
-titulo: "Escândalo faz
+title: "Escândalo faz
  Lula estudar sua ida a debate na TV Globo"
 sutia: "None"
 chapeu: "None"

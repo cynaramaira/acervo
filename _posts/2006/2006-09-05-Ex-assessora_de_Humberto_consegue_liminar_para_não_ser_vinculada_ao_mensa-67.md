@@ -4,7 +4,7 @@ data_publicacao: "2006-09-05 08:47:00"
 data_alteracao: "None"
 materia_tags: "Humberto Costa,Liminar,Naomi Campbell"
 categoria: "Notícias"
-titulo: "Ex-assessora de Humberto consegue liminar para não
+title: "Ex-assessora de Humberto consegue liminar para não
  ser vinculada ao mensalão"
 sutia: "None"
 chapeu: "None"

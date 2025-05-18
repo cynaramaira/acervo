@@ -4,7 +4,7 @@ data_publicacao: "2006-11-06 14:55:00"
 data_alteracao: "None"
 materia_tags: "Naomi Campbell,Serrana"
 categoria: "Notícias"
-titulo: "Serra
+title: "Serra
  viaja e não deve comparecer à CPI das Sanguessugas "
 sutia: "None"
 chapeu: "None"

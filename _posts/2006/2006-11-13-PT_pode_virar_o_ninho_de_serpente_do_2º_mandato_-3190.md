@@ -4,7 +4,7 @@ data_publicacao: "2006-11-13 08:22:00"
 data_alteracao: "None"
 materia_tags: "Boninho,serpentes"
 categoria: "Notícias"
-titulo: "PT
+title: "PT
  pode virar o ninho de serpente do 2º mandato "
 sutia: "None"
 chapeu: "None"

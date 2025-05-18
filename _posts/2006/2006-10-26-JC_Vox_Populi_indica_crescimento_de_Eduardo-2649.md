@@ -4,7 +4,7 @@ data_publicacao: "2006-10-26 18:42:00"
 data_alteracao: "None"
 materia_tags: "crescimento,eduardo,sindicato"
 categoria: "Notícias"
-titulo: "JC/Vox
+title: "JC/Vox
  Populi indica crescimento de Eduardo"
 sutia: "None"
 chapeu: "None"

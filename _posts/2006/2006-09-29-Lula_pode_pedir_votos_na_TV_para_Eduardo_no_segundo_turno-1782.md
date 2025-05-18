@@ -4,7 +4,7 @@ data_publicacao: "2006-09-29 17:52:00"
 data_alteracao: "None"
 materia_tags: "eduardo,Lula,segundo turno,Votos Nulos"
 categoria: "Notícias"
-titulo: "Lula
+title: "Lula
  pode pedir votos na TV para Eduardo no segundo turno"
 sutia: "None"
 chapeu: "None"

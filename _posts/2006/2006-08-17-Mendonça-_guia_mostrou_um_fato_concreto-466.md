@@ -4,7 +4,7 @@ data_publicacao: "2006-08-17 06:40:00"
 data_alteracao: "None"
 materia_tags: "mendonça"
 categoria: "Notícias"
-titulo: "Mendonça:
+title: "Mendonça:
  guia mostrou um fato concreto"
 sutia: "None"
 chapeu: "None"

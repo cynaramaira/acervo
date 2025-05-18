@@ -4,7 +4,7 @@ data_publicacao: "2006-07-30 09:27:00"
 data_alteracao: "None"
 materia_tags: "Colégio Salesiano"
 categoria: "Colunistas"
-titulo: "E a? ô meu freguês:/Mussarela ou calabresa? /
+title: "E a? ô meu freguês:/Mussarela ou calabresa? /
  Allan Sales"
 sutia: "None"
 chapeu: "None"

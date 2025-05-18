@@ -4,7 +4,7 @@ data_publicacao: "2006-11-09 07:35:00"
 data_alteracao: "None"
 materia_tags: "Humberto Costa"
 categoria: "Notícias"
-titulo: "Humberto
+title: "Humberto
  sem aperreio na CPI "
 sutia: "None"
 chapeu: "None"

@@ -4,7 +4,7 @@ data_publicacao: "2006-11-11 17:01:00"
 data_alteracao: "None"
 materia_tags: "Carta,minoria,Roberto Azevedo"
 categoria: "Notícias"
-titulo: "Direita
+title: "Direita
  X esquerda: as visões de Mino Carta e Reinaldo Azevedo"
 sutia: "None"
 chapeu: "None"

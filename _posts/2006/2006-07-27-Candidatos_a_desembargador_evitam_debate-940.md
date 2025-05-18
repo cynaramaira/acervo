@@ -4,7 +4,7 @@ data_publicacao: "2006-07-27 19:09:00"
 data_alteracao: "None"
 materia_tags: "candidatos,Debate,Desembargadores"
 categoria: "Notícias"
-titulo: "Candidatos a desembargador evitam
+title: "Candidatos a desembargador evitam
  debate"
 sutia: "None"
 chapeu: "None"

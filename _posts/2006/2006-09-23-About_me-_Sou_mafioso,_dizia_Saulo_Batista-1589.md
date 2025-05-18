@@ -4,7 +4,7 @@ data_publicacao: "2006-09-23 17:49:00"
 data_alteracao: "None"
 materia_tags: "Batista Lima"
 categoria: "Notícias"
-titulo: "About me: Sou
+title: "About me: Sou
  mafioso, dizia Saulo Batista"
 sutia: "None"
 chapeu: "None"

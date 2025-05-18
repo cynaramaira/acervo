@@ -4,7 +4,7 @@ data_publicacao: "2006-10-19 17:31:00"
 data_alteracao: "None"
 materia_tags: "Anavitória,mendonça"
 categoria: "Notícias"
-titulo: "Mendonça realiza a caminhada
+title: "Mendonça realiza a caminhada
  da vitória"
 sutia: "None"
 chapeu: "None"

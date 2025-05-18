@@ -4,7 +4,7 @@ data_publicacao: "2006-12-14 12:25:00"
 data_alteracao: "None"
 materia_tags: "eduardo campos,preparação,Segurança"
 categoria: "Notícias"
-titulo: "Eduardo
+title: "Eduardo
  Campos prepara surpresa para área de Segurança Pública"
 sutia: "None"
 chapeu: "None"

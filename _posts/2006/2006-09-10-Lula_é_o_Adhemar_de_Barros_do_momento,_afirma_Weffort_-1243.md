@@ -4,7 +4,7 @@ data_publicacao: "2006-09-10 10:00:00"
 data_alteracao: "None"
 materia_tags: "Lula,Rêgo Barros"
 categoria: "Notícias"
-titulo: "Lula
+title: "Lula
  é o Adhemar de Barros do momento, afirma Weffort "
 sutia: "None"
 chapeu: "None"

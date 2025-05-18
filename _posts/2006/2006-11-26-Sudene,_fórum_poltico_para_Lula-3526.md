@@ -4,7 +4,7 @@ data_publicacao: "2006-11-26 07:24:00"
 data_alteracao: "None"
 materia_tags: "Lula,sudene"
 categoria: "Notícias"
-titulo: "Sudene, fórum
+title: "Sudene, fórum
  pol?tico para Lula"
 sutia: "None"
 chapeu: "None"

@@ -4,7 +4,7 @@ data_publicacao: "2006-10-30 07:58:00"
 data_alteracao: "None"
 materia_tags: "jarbas vasconcelos"
 categoria: "Notícias"
-titulo: "Jarbas
+title: "Jarbas
  sem fazer sucessor"
 sutia: "None"
 chapeu: "None"

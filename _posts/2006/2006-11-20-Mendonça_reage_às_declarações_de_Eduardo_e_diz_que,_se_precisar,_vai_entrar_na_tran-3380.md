@@ -4,7 +4,7 @@ data_publicacao: "2006-11-20 18:56:00"
 data_alteracao: "None"
 materia_tags: "eduardo,mendonça,reagendamentos"
 categoria: "Notícias"
-titulo: "Mendonça reage às declarações de Eduardo e diz que,
+title: "Mendonça reage às declarações de Eduardo e diz que,
  se precisar, vai entrar na transição"
 sutia: "None"
 chapeu: "None"

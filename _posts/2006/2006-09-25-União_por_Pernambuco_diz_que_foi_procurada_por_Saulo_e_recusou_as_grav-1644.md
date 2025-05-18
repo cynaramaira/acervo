@@ -4,7 +4,7 @@ data_publicacao: "2006-09-25 11:25:00"
 data_alteracao: "None"
 materia_tags: "pernambuco,União"
 categoria: "Notícias"
-titulo: "União
+title: "União
  por Pernambuco diz que foi procurada por Saulo e recusou as gravações"
 sutia: "None"
 chapeu: "None"

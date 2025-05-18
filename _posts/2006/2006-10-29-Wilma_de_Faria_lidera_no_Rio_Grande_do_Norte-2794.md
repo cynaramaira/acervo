@@ -4,7 +4,7 @@ data_publicacao: "2006-10-29 18:09:00"
 data_alteracao: "None"
 materia_tags: "Julia Faria,Lagoa Grande,liderança indígena,litoral norte"
 categoria: "Notícias"
-titulo: "Wilma
+title: "Wilma
  de Faria lidera no Rio Grande do Norte"
 sutia: "None"
 chapeu: "None"

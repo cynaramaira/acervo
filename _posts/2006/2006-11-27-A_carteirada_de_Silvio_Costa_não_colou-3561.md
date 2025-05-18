@@ -4,7 +4,7 @@ data_publicacao: "2006-11-27 17:43:00"
 data_alteracao: "None"
 materia_tags: "Naomi Campbell,Silvio Costa"
 categoria: "Notícias"
-titulo: "A carteirada de Silvio Costa
+title: "A carteirada de Silvio Costa
  não colou"
 sutia: "None"
 chapeu: "None"

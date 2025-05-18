@@ -4,7 +4,7 @@ data_publicacao: "2006-11-23 14:51:00"
 data_alteracao: "None"
 materia_tags: "Lula,Oposição,Pará,partidos liberais"
 categoria: "Notícias"
-titulo: "Lula diz que partidos devem esperar 2010 para
+title: "Lula diz que partidos devem esperar 2010 para
  fazer oposição"
 sutia: "None"
 chapeu: "None"

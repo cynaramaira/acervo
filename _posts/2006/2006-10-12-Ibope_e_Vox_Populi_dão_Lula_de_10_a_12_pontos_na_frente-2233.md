@@ -4,7 +4,7 @@ data_publicacao: "2006-10-12 20:27:00"
 data_alteracao: "None"
 materia_tags: "Frente Popular,geraldão,Ibope,Lula"
 categoria: "Notícias"
-titulo: "Ibope e Vox Populi dão Lula de 10 a 12 pontos na
+title: "Ibope e Vox Populi dão Lula de 10 a 12 pontos na
  frente"
 sutia: "None"
 chapeu: "None"
