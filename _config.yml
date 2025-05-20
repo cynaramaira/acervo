@@ -6,9 +6,9 @@ permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Acervo Jamildo
-paginate: 30
-locale: en_us
-lang: en_us
+paginate: 15
+locale: pt_br
+lang: pt_br
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1

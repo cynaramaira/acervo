@@ -111,7 +111,7 @@ background: '/img/bg-index.jpg'
 <section class="row mt-5">
   <div class="col-md-8">
     <section class="row mt-5 news-grid" id="news-container">
-      {% for post in site.posts %}
+      {% for post in paginator.posts %}
         <div class="col-md-4 mb-4 news-item news-card" data-year="{{ post.date | date: '%Y' }}">
           <div class="card h-100">
             <div class="card-content">
