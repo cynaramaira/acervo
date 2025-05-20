@@ -17,12 +17,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
             newsCards.forEach(card => {
                 const title = card.querySelector('.card-title').textContent.toLowerCase();
-                const text = card.querySelector('.card-text').textContent.toLowerCase();
+                // const não existe atualmente, quem sabe no futuro const text = card.querySelector('.card-text').textContent.toLowerCase();
                 const cardYear = card.dataset.year;
                 let showCard = true;
 
                 // Filtrar por termo de busca
-                if (searchTerm && !title.includes(searchTerm) && !text.includes(searchTerm)) {
+                if (searchTerm && !title.includes(searchTerm)) {
                     showCard = false;
                 }
 
@@ -37,10 +37,20 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
 
                 // Filtrar por pill de ano
-                if (activeYearPill && activeYearPill !== '' && cardYear !== activeYearPill && !(activeYearPill.includes('-') && isYearInRange(cardYear, activeYearPill))) {
+                 // Garanta que o cardYear seja tratado como número para comparação de intervalo
+                 if (activeYearPill && activeYearPill !== '') {
+                    if (activeYearPill.includes('-')) {
+                        // Se for um intervalo (ex: "2015-2019")
+                        if (!isYearInRange(parseInt(cardYear), activeYearPill)) { // Usar parseInt aqui
                     showCard = false;
-                }
-
+                        }
+                } else {
+                     // Se for um ano único (ex: "2024")
+                     if (cardYear !== activeYearPill) {
+                    showCard = false;
+                        }
+                    }
+                }   
                 if (showCard) {
                     card.classList.remove('hidden');
                 } else {
