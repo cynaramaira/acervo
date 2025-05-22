@@ -1,13 +1,76 @@
-<nav class="pagination" role="pagination">
-    {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-            <a class="newer-posts" href="{{site.baseurl}}/" title="Previous Page">&laquo; Newer</a>
-        {% else %}
-            <a class="newer-posts" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" title="Previous Page">&laquo; Newer </a>
+<nav class="pagination" role="navigation">
+  {% if paginator.previous_page %}
+    <a class="newer-posts" href="{{ paginator.previous_page_path | relative_url }}" title="Página Anterior">
+      <i class="fa fa-angle-left"></i> Anterior
+    </a>
+  {% else %}
+    <span class="newer-posts disabled">
+      <i class="fa fa-angle-left"></i> Anterior
+    </span>
+  {% endif %}
+
+  <ul class="pagination-list">
+    {% assign current_page = paginator.page %}
+    {% assign total_pages = paginator.total_pages %}
+    {% assign num_display_pages = 5 %} {% assign num_edges = 2 %} {% assign num_around_current = 1 %} {% if total_pages > 1 %}
+      {% comment %}
+        Mostra as primeiras páginas
+      {% endcomment %}
+      {% for i in (1..num_edges) %}
+        {% if i <= total_pages %}
+          <li class="pagination-list-item {% if i == current_page %}active{% endif %}">
+            <a href="{{ site.baseurl }}{% if i == 1 %}/{% else %}/page{{ i }}/{% endif %}">{{ i }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+
+      {% comment %}
+        Mostra reticências se houver um salto após as primeiras páginas
+      {% endcomment %}
+      {% if current_page > num_edges + num_around_current + 1 and total_pages > num_display_pages %}
+        <li class="pagination-list-item disabled"><span>...</span></li>
       {% endif %}
+
+      {% comment %}
+        Mostra páginas ao redor da página atual
+      {% endcomment %}
+      {% for i in (current_page | minus: num_around_current)..(current_page | plus: num_around_current) %}
+        {% if i > num_edges and i <= total_pages | minus: num_edges %}
+          {% if i > 0 and i <= total_pages %}
+            <li class="pagination-list-item {% if i == current_page %}active{% endif %}">
+              <a href="{{ site.baseurl }}{% if i == 1 %}/{% else %}/page{{ i }}/{% endif %}">{{ i }}</a>
+            </li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+
+      {% comment %}
+        Mostra reticências se houver um salto antes das últimas páginas
+      {% endcomment %}
+      {% if current_page < total_pages | minus: num_edges | minus: num_around_current and total_pages > num_display_pages %}
+        <li class="pagination-list-item disabled"><span>...</span></li>
+      {% endif %}
+
+      {% comment %}
+        Mostra as últimas páginas
+      {% endcomment %}
+      {% for i in (total_pages | minus: num_edges | plus: 1)..total_pages %}
+        {% if i > num_edges %} <li class="pagination-list-item {% if i == current_page %}active{% endif %}">
+            <a href="{{ site.baseurl }}{% if i == 1 %}/{% else %}/page{{ i }}/{% endif %}">{{ i }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+
     {% endif %}
-    <span class="page-number d-none"> &nbsp; &nbsp; Page {{paginator.page}} of {{paginator.total_pages}} &nbsp; &nbsp; </span>
-    {% if paginator.next_page %} 
-        <a class="older-posts" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" title="Next Page">Older &raquo;</a>
-    {% endif %} 
+  </ul>
+
+  {% if paginator.next_page %}
+    <a class="older-posts" href="{{ paginator.next_page_path | relative_url }}" title="Próxima Página">
+      Próximo <i class="fa fa-angle-right"></i>
+    </a>
+  {% else %}
+    <span class="older-posts disabled">
+      Próximo <i class="fa fa-angle-right"></i>
+    </span>
+  {% endif %}
 </nav>
