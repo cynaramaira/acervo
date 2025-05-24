@@ -1,17 +1,18 @@
 ---
 id: 12374159
-date: "2006-11-03T20:28:00+00:00"
+date: "2006-11-03T20:28:00Z"
 last_modified_at: null
 tags:
-  - mendonca
+  - "mendonca"
 categories:
-  - noticias
-title: "Mendonça convoca secretariado e anuncia equipe de transição"
+  - "noticias"
+title: "Mendon\u00e7a convoca secretariado e anuncia equipe de transi\u00e7\u00e3o"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por <B>Cec?lia Ramos</B><BR>Do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>Derrotado no 2º turno por Eduardo Campos (PSB), o governador Mendonça Filho (PFL) já inicia o ritual de despedida do Palácio do Campo das Princesas. </FONT></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"Vamos discutir uma agenda com ele para esses dois últimos meses de governo. Será uma agenda diversificada. Vamos entregrar o estado muito diferente do que recebemos, com a economia em crescimento, emprego também, crescendo mais do que o Brasil\", garante o secretário de Planejamento Cláudio Marinho.</FONT></P></p>
 <p><P><FONT face=Verdana>Pelas contas de Marinho, a programação de investimentos que será entregue a Eduardo Campos é da ordem de </FONT><FONT face=Verdana>R$ 800 milhões, sendo R$ 300 mi de empréstimos nacionais e internacionais já assegurados. Esta é a previsão do Orçamento 2007.</FONT></P></p>
 <p><P><FONT face=Verdana>\"Estamos executando o plano do cenário 2 (da derrota) e vamos segui-lo ate 1º de janeiro de 2007, com tudo o que tem direito, inclusive a transição mais republicana que este estado já terá visto\", antecipa Marinho.</FONT> </P></FONT> </p>
+{\% endraw %}

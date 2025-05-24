@@ -1,19 +1,20 @@
 ---
 id: 12375172
-date: "2006-12-14T17:01:00+00:00"
+date: "2006-12-14T17:01:00Z"
 last_modified_at: null
 tags:
-  - contran
-  - parlamentares
-  - reajuste
+  - "contran"
+  - "parlamentares"
+  - "reajuste"
 categories:
-  - noticias
-title: "Apenas três parlamentares votaram contra reajuste"
+  - "noticias"
+title: "Apenas tr\u00eas parlamentares votaram contra reajuste"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Segundo reportagem da Agência Estado, o resultado da reunião, hoje, em Bras?lia, que aumentou o salário dos deputados e dos senadores para R$ 24.500, equiparando-o ao salário dos ministros do Supremo Tribunal Federal (STF), registrou apenas três votos contrários ao aumento de mais de 90% e 26 votos a favor. </FONT></P></p>
 <p><P><FONT face=Verdana>São eles:</FONT></P></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>Os l?deres do PMDB, Wilson Santiago (PB), do PFL, Rodrigo Maia (RJ), do PDT, Miro Teixeira (RJ), do PTB, José Múcio Monteiro (PE), do PCdoB, Inácio Arruda, do governo, Arlindo Chinaglia (SP), da minoria, José Carlos Aleluia (BA), do PL, Luciano Castro (RR) e o vice-l?der do PSDB, Bismarck Maia (CE).<BR><BR>Dos integrantes da Mesa da Câmara:</FONT></P></p>
 <p><P><FONT face=Verdana>Votaram pelo teto o segundo vice-presidente, Ciro Nogueira (PP-PI), o primeiro secretário, Inocêncio Oliveira (PL-PE), e os suplentes Givaldo Carimbão (PSB-AL), Mário Heringer (PDT-MG) e Jorge Alberto (PMDB-SE). </FONT></P></p>
 <p><P><FONT face=Verdana>*Também participaram da reunião e votaram a favor do teto os deputados Sandro Mabel (PL-GO), Coubert Martins (PPS-BA), Carlos Willian (PTC-MG), Sandra Rosado (PSB-RN) e Benedito de Lira (PP-AL).</FONT></FONT></P> </p>
+{\% endraw %}

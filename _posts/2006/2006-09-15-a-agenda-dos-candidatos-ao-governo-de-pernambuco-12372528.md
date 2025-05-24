@@ -1,20 +1,21 @@
 ---
 id: 12372528
-date: "2006-09-15T06:09:00+00:00"
+date: "2006-09-15T06:09:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao Governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B></p>
 <p><P><FONT face=Verdana><STRONG>Às 16h</STRONG>, em Arcoverde, realiza carreata do aeroporto rumo ao centro do munic?pio. O ex-governador Jarbas Vasconcelos (PMDB) e os senadores Sérgio Guerra (PSDB) e Marco Maciel (PFL) também participam </FONT></P></p>
@@ -34,3 +35,4 @@ imagem: null
 <p><P><FONT face=Verdana>Às 16h30</FONT></B><FONT face=Verdana>, em Camocim, carreata e com?cio relâmpago </FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 18h</FONT></B><FONT face=Verdana>, em Bezerros, carreata e com?cio relâmpago </FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 20h</FONT></B><FONT face=Verdana>, em Gravatá,<B> </B>carreata e com?cio</FONT> </P></FONT> </p>
+{\% endraw %}

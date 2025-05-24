@@ -1,19 +1,20 @@
 ---
 id: 12374091
-date: "2006-11-01T10:17:00+00:00"
+date: "2006-11-01T10:17:00Z"
 last_modified_at: null
 tags:
-  - lula
-  - naomi-campbell
-  - segunda-onda
+  - "lula"
+  - "naomi-campbell"
+  - "segunda-onda"
 categories:
-  - noticias
-title: "Acusações não devem permitir a Lula uma segunda lua-de-mel"
+  - "noticias"
+title: "Acusa\u00e7\u00f5es n\u00e3o devem permitir a Lula uma segunda lua-de-mel"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Larry Rother<BR></STRONG>Do New York Times na Folha de São Paulo</FONT></P></p>
 <p><P><FONT face=Verdana>Ao conquistar reeleição no domingo com 60,8% dos votos, Luiz Inácio Lula da Silva quase repetiu o desempenho acachapante que o tornou presidente do Brasil quatro anos atrás. Mas uma segunda lua-de-mel ou uma pausa nas acusações de corrupção e outras dificuldades que vêm prejudicando seu governo, não parecem prováveis.</FONT></P></p>
 <p><P><FONT face=Verdana>Lula enfrentará um segundo mandato dif?cil. Seu PT está debilitado por escândalos de corrupção, e ele está sob pressão para adotar pol?ticas econômicas mais populistas. Mas para conseguir aprovar seu programa legislativo, ele corre o risco de se ver forçado a aceitar acordos eticamente questionáveis, exatamente como aqueles que causaram as dificuldades que seu governo vem enfrentando.</FONT></P></p>
@@ -21,3 +22,4 @@ imagem: null
 <p> pedir seu impeachment, há processos em curso nos tribunais, e detê-los pode se provar mais dif?cil.</FONT></P></p>
 <p><P><FONT face=Verdana>Há também a questão prática de como Lula planeja administrar a máquina do governo. O PT tinha escassa experiência administrativa, para começar, e como resultado dos escândalos muitas das figuras em que ele confiava ca?ram em desgraça.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://www1.folha.uol.com.br/fsp/brasil/fc0111200616.htm\" target=_blank>aqui</A></EM></STRONG>.</FONT></P> </p>
+{\% endraw %}

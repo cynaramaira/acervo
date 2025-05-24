@@ -1,17 +1,18 @@
 ---
 id: 12373661
-date: "2006-10-22T09:40:00+00:00"
+date: "2006-10-22T09:40:00Z"
 last_modified_at: null
 tags:
-  - armas
+  - "armas"
 categories:
-  - noticias
+  - "noticias"
 title: "A hora de baixar as armas "
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Kennedy Alencar</STRONG><BR>Colunista da Folha Online</FONT></P></p>
 <p><P><FONT face=Verdana>A última semana da disputa presidencial será naturalmente tensa. O tucano Geraldo Alckmin, em desvantagem nas pesquisas, terá a sua última chance de virar o jogo. E o presidente Luiz Inácio Lula da Silva, novamente a um passo da recondução, contará os dias para o final da campanha, na esperança de que o dossiegate não ponha tudo a perder.</FONT></P></p>
 <p><P><FONT face=Verdana>Haverá dois debates, Record e Globo, muitas entrevistas, com?cios, rumores sobre a origem do dinheiro, cobranças da oposição, eventuais novos tropeços do PT.</FONT></P></p>
@@ -22,3 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>Na hipótese menos provável, Alckmin vira o jogo, surpreendendo mais uma vez. Derrotaria um presidente popular. Encontraria um PT ferido, propenso a embarcar em teorias conspiratórias. Talvez até a adotar um viés chavista na oposição.</FONT></P></p>
 <p><P><FONT face=Verdana>Nenhum dos dois cenários seria benéfico ao pa?s.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://www1.folha.uol.com.br/folha/colunas/brasiliaonline/ult2307u123.shtml\" target=_blank>aqui</A></EM></STRONG>.</FONT></P> </p>
+{\% endraw %}

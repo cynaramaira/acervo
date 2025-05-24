@@ -1,19 +1,20 @@
 ---
 id: 12373060
-date: "2006-10-01T22:02:00+00:00"
+date: "2006-10-01T22:02:00Z"
 last_modified_at: null
 tags:
-  - brasil
-  - estado
-  - governadores
+  - "brasil"
+  - "estado"
+  - "governadores"
 categories:
-  - noticias
-title: "Brasil: 13 estados definiram governadores no 1º turno"
+  - "noticias"
+title: "Brasil: 13 estados definiram governadores no 1\u00ba turno"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p>Segundo dados parciais do Tribunal Superior Eleitoral, j&aacute; somam 13 os estados que definiram a elei&ccedil;&atilde;o no 1&ordm; turno e quatro que v&atilde;o levar a disputa para o 2&ordm; turno.</p>
 <p>Veja a lista:</p>
 <p>Governadores j&aacute; eleitos</p>
@@ -21,3 +22,4 @@ imagem: null
 <p>Estados que v&atilde;o para o 2&ordm; turno</p>
 <p>Goi&aacute;s - Alcides Rodrigues (PP) e Maguito Vilela (PMDB).<br />Santa Catarina - Luiz Henrique da Silveira (PMDB) e Esperidi&atilde;o Amin (PP)<br />Paran&aacute; - Roberto Requi&atilde;o (PMDB) e Osmar Dias (PDT)<br />Pernambuco - Mendon&ccedil;a Filho (PFL) e Eduardo Campos (PSB)<br />Para?ba - C&aacute;ssio Cunha Lima (PSDB) e Jos&eacute; Maranh&atilde;o (PMDB)</p>
 <p>*Informa&ccedil;&otilde;es da Folha Online</p>
+{\% endraw %}

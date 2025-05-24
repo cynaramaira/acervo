@@ -1,19 +1,20 @@
 ---
 id: 12374632
-date: "2006-11-23T17:06:00+00:00"
+date: "2006-11-23T17:06:00Z"
 last_modified_at: null
 tags:
-  - batista-lima
-  - diversao
-  - miguel-coelho
+  - "batista-lima"
+  - "diversao"
+  - "miguel-coelho"
 categories:
-  - noticias
-title: "Nova versão de Saulo Batista busca inocentar Milton Coelho"
+  - "noticias"
+title: "Nova vers\u00e3o de Saulo Batista busca inocentar Milton Coelho"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p><span style="font-family: Verdana;">Golpista confesso, falso produtor de eventos e metido a militante estudantil, Saulo Batista apresentou uma nova vers&atilde;o para o denominado (pela Uni&atilde;o por Pernambuco) "Esc&acirc;ndalo da Sacolinha", aquele caso das grava&ccedil;&otilde;es feitas com o presidente estadual licenciado do PSB, Milton Coelho, e sua esposa, Simone Coelho.</span></p>
 <p><span style="font-family: Verdana;">Na primeira vers&atilde;o, Saulo se apresentava como representante de uma empresa de eventos que tentava aprovar um projeto de R$ 5 milh&otilde;es, em troca de R$ 1 milh&atilde;o para a campanha de Milton a deputado estadual (leia mais <strong><em>aqui</em></strong></span><span style="font-family: Verdana;">).</span></p>
 <p><span style="font-family: Verdana;">Depois de divulgar as grava&ccedil;&otilde;es em que aparece negociando com Milton e Simone o tr&aacute;fico de influ&ecirc;ncia na Petrobras, onde pretendia aprovar o projeto relativo ao patroc?nio de um evento, Saulo Batista mudou a vers&atilde;o. Busca agora inocentar o presidente licenciado. Disse que fez as grava&ccedil;&otilde;es a pedido de um grupo advers&aacute;rio de Milton dentro do PSB.</span></p>
@@ -33,3 +34,4 @@ imagem: null
 <p>"O pessoal, agora, tentou fazer uma emboscada e viu a merda que deu. Milton tentou fazer uma emboscada pra mim e viu a merda que deu", diz Saulo.</p>
 <p><span style="font-family: Verdana;"><em>Na nota entregue &agrave; imprensa na &eacute;poca, Milton informa que as conversas que teve com Saulo Batista faziam parte de um plano para prend&ecirc;-lo em flagrante. Ele se referia especialmente ao trecho da conversa mais explorado pela imprensa e por candidatos advers&aacute;rios durante a campanha, onde o socialista diz como Saulo deveria entregar-lhe R$ 350&nbsp;de caixa dois para a sua campanha, em um shopping da cidade.</em></span></p>
 <p><em><span style="font-family: Verdana;">A grava&ccedil;&atilde;o feita por Leoc&aacute;dio, um dos respons&aacute;veis pela arma&ccedil;&atilde;o contra Milton, terminou servindo de prova em favor de Milton, e o tiro, saindo pela culatra. A inten&ccedil;&atilde;o de Leoc&aacute;dio era provar a correligion&aacute;rios que estava sendo pressionado por Saulo para receber o valor correspondente ao pagamento dos servi&ccedil;os prestados.</span> </em></p>
+{\% endraw %}

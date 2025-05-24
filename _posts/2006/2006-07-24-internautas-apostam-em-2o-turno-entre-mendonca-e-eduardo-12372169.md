@@ -1,19 +1,20 @@
 ---
 id: 12372169
-date: "2006-07-24T15:34:00+00:00"
+date: "2006-07-24T15:34:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - entrega
-  - mendonca
+  - "eduardo"
+  - "entrega"
+  - "mendonca"
 categories:
-  - noticias
-title: "Internautas apostam em 2º turno entre Mendonça e Eduardo"
+  - "noticias"
+title: "Internautas apostam em 2\u00ba turno entre Mendon\u00e7a e Eduardo"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p>&nbsp;</p>
 <p>Voc&ecirc; acha que haver&aacute; segundo turno nas elei&ccedil;&otilde;es de Pernambuco?</p>
 <p>J&aacute; foram registrados 3.532 votos nos &uacute;ltimos cinco dias. Veja os resultados acumulados at&eacute; agora:</p>
@@ -22,3 +23,4 @@ imagem: null
 <p>Sim, entre Eduardo e Humberto 10% (355 votos)</p>
 <p>N&atilde;o 5% (159 votos)</p>
 <p>Vote, d&ecirc; sua opini&atilde;o na coluna ao lado.</p>
+{\% endraw %}

@@ -1,18 +1,19 @@
 ---
 id: 12373625
-date: "2006-10-21T06:48:00+00:00"
+date: "2006-10-21T06:48:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - mendonca
+  - "eduardo"
+  - "mendonca"
 categories:
-  - noticias
-title: "Eduardo mantém vantagem sobre Mendonça"
+  - "noticias"
+title: "Eduardo mant\u00e9m vantagem sobre Mendon\u00e7a"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por <STRONG>Sérgio Montenegro Filho<BR></STRONG>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>A segunda rodada da pesquisa do Instituto Vox Populi – feita com exclusividade para o Jornal do Commercio – sobre o segundo turno das eleições em Pernambuco mostrou a consolidação do quadro favorável ao candidato da Frente Popular ao governo do Estado, Eduardo Campos (PSB). De acordo com o levantamento, o socialista manteve a vantagem de 25 pontos percentuais sobre o governador Mendonça Filho (PFL), candidato da União por Pernambuco à reeleição, constatada na primeira pesquisa, na semana passada.</FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>(...)</FONT></P></p>
 <p><P><FONT face=Verdana><EM>Esta pesquisa é um levantamento quantitativo, feito nos dias 10 e 11 de outubro de 2006 pelo Instituto Vox Populi, com exclusividade para o Jornal do Commercio. Foram feitas 1.201 entrevistas domiciliares com moradores e eleitores com 16 anos de idade ou mais, em 56 munic?pios de Pernambuco.</EM></FONT></P></FONT></p>
 <p><P><FONT face=Verdana>Leia mais </FONT><A href=\"https://jc3.uol.com.br/jornal/2006/10/20/can_9.php\"><B><I><FONT color=#0000ff><FONT face=Verdana>aqui</FONT></B></I></FONT></A><FONT face=Verdana> (assinantes JC e UOL).</FONT></P> </p>
+{\% endraw %}

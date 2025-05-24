@@ -1,17 +1,18 @@
 ---
 id: 12374424
-date: "2006-11-15T10:58:00+00:00"
+date: "2006-11-15T10:58:00Z"
 last_modified_at: null
 tags:
-  - lula
+  - "lula"
 categories:
-  - noticias
+  - "noticias"
 title: "Lula quer enquadrar o PT"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\">Do <STRONG>Correio Braziliense<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></STRONG></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\"><o:p>&nbsp;</o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\">O presidente Luiz Inácio Lula da Silva vai se reunir amanhã com o conselho pol?tico do PT para enquadrar o partido na sua estratégia de governo para o segundo mandato. <o:p></o:p></SPAN></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><B style=\"mso-bidi-font-weight: normal\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\">CARGOS DO PT</SPAN></B><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\"><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\">Com essas definições, o PT vai começar a próxima semana sabendo que cargos pode disputar, já com o aval de Lula. A bancada tem um bom argumento: teve o maior número de votos nas últimas eleições. Lula vai contra-argumentar que faltou fidelidade e que alguns parlamentares do partido chegaram a assinar o pedido de CPI dos Correios, por exemplo, fonte da maior crise pol?tica do governo. <BR><B style=\"mso-bidi-font-weight: normal\"><BR>CARGOS DO PMDB<BR></B>Pelo regimento do Congresso, o PMDB tem o direito de reivindicar as presidências do Senado e da Câmara. É a maior bancada nas duas casas e pode, na votação direta e secreta, ocupar os dois cargos. A força do partido é tão grande que, além disso, pode exigir cargos nos ministérios, estatais e em outras instâncias da administração federal em troca do apoio parlamentar. O PT sonha com a presidência da Câmara a está disposto a oferecer, em troca, a primeira secretaria. <BR><BR><B style=\"mso-bidi-font-weight: normal\">GOVERNADORES ALIADOS </B><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\">Antes dessa definição, o presidente deve se reunir com os governadores eleitos que o apóiam — os petistas do Piau?, Sergipe, Bahia, Pará e Acre — o pernambucano Eduardo Campos e o capixaba Paulo Hartung, ambos do PSB, e os peemedebistas do Rio (Sérgio Cabral) e do Paraná (Roberto Requião). Com os governadores que o apoiaram, o presidente pode abrir espaço para alojar petistas que não serão nomeados na administração federal. Isto já está acontecendo no Esp?rito Santo, onde Hartung vai nomear secretários do PT, e em Pernambuco</SPAN><SPAN style=\"COLOR: black\"><FONT face=\"Times New Roman\">.</FONT></SPAN></P> </p>
+{\% endraw %}

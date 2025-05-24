@@ -1,20 +1,21 @@
 ---
 id: 12374425
-date: "2006-11-15T11:56:00+00:00"
+date: "2006-11-15T11:56:00Z"
 last_modified_at: null
 tags:
-  - amcentral
-  - apostas
-  - governo
-  - lula
+  - "amcentral"
+  - "apostas"
+  - "governo"
+  - "lula"
 categories:
-  - noticias
-title: "Aécio: Governo Lula entra em decl?nio após 2008"
+  - "noticias"
+title: "A\u00e9cio: Governo Lula entra em decl?nio ap\u00f3s 2008"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">Do blog de <B style=\"mso-bidi-font-weight: normal\">Josias de Souza</B><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><o:p>&nbsp;</o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">O governador reeleito de Minas, Aécio Neves (PSDB), acha que 2008 será o in?cio do fim do segundo governo Lula. Avalia que, passada a eleição municipal, o presidente irá \"declinar fortemente\". E “vai ser imposs?vel segurar <?xml:namespace prefix = st1 ns = \"urn:schemas-microsoft-com:office:smarttags\" /><st1:metricconverter w:st=\"on\" ProductID=\"2010.???\">2010.???</st1:metricconverter> Para o governador mineiro, potencial candidato à próxima sucessão presidencial, “as forças pol?ticas que estiverem com Lula começarão a se agregar em torno da expectativa de poder futuro.??? Aposta que o PSDB “o primeiro da fila???, representará essa expectativa. Leia abaixo entrevista de Aécio ao <EM><SPAN style=\"FONT-FAMILY: Verdana\">blog</SPAN></EM>:<o:p></o:p></SPAN></P></p>
@@ -48,3 +49,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">Sim. Quando Serra perdeu, em 2002, o PSDB continuou sendo o primeiro da fila. O mesmo desafio se impõe agora. Não podemos deixar que nos ultrapassem. Temos que explorar o desgaste do PT e a impossibilidade de reeleição do Lula. O ano de 2008 será uma espécie de final antecipado para o governo Lula.<o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><o:p>&nbsp;</o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">Leia mais <A href=\"https://josiasdesouza.folha.blog.uol.com.br/\" target=_blank><STRONG><EM>aqui</EM></STRONG></A>.</SPAN></P> </p>
+{\% endraw %}

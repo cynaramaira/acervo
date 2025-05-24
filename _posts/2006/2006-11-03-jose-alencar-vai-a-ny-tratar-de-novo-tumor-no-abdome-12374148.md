@@ -1,19 +1,20 @@
 ---
 id: 12374148
-date: "2006-11-03T10:58:00+00:00"
+date: "2006-11-03T10:58:00Z"
 last_modified_at: null
 tags:
-  - louro-jose
-  - novos
-  - tadeu-alencar
+  - "louro-jose"
+  - "novos"
+  - "tadeu-alencar"
 categories:
-  - noticias
-title: "José Alencar vai a NY tratar de novo tumor no abdome "
+  - "noticias"
+title: "Jos\u00e9 Alencar vai a NY tratar de novo tumor no abdome "
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Da Folha de São Paulo<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">O vice-presidente da República, José Alencar, vai viajar na semana que vem para os Estados Unidos, onde fará tratamento contra um novo tumor</p>
@@ -29,3 +30,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">A Folha apurou que Alencar preferiu não fazer exames durante os meses mais importantes da eleição presidencial. Candidato a vice na chapa de Luiz Inácio Lula da Silva, ele quis evitar ser alvo de especulações sobre sua saúde. Por conta disso, resolveu ser examinado somente na última segunda-feira, um dia depois de ser reeleito vice.</SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Leia mais <A href=\"https://www1.folha.uol.com.br/fsp/brasil/fc0311200605.htm\" target=_blank><EM><STRONG>aqui</STRONG></EM></A><EM>&nbsp;</EM>(assinante Folha).</SPAN></P> </p>
+{\% endraw %}

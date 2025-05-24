@@ -1,20 +1,21 @@
 ---
 id: 12371874
-date: "2006-08-08T06:22:00+00:00"
+date: "2006-08-08T06:22:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao Governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B></p>
 <p><P><FONT face=Verdana size=2>MENDONÇA FILHO (PFL)</P></B></p>
 <p><P>O governador não tem agenda de candidato hoje, apenas compromissos administrativos. </P><B></p>
@@ -29,3 +30,4 @@ imagem: null
 <p><P>EDUARDO CAMPOS (PSB)</P></p>
 <p><P>Às 16h</B>, Caminhada na Ilha de Juaneiro, em Santo Amaro</P><B></p>
 <p><P>Às 18h</B>, debate com trabalhadores urbanitários, na Biblioteca Pública Estadual, no Parque Treze de Maio </FONT></P> </p>
+{\% endraw %}

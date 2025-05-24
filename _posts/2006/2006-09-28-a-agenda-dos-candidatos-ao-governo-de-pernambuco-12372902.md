@@ -1,20 +1,21 @@
 ---
 id: 12372902
-date: "2006-09-28T07:01:00+00:00"
+date: "2006-09-28T07:01:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao Governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></p>
 <p><P><FONT face=Verdana>Às 10h</FONT></B><FONT face=Verdana>, em Bezerros, visita o comércio do munic?pio </FONT></P><B></p>
@@ -33,3 +34,4 @@ imagem: null
 <p><P><FONT face=Verdana>Às 17h30</FONT></B><FONT face=Verdana>, em Olinda, caminhada e com?cio no Largo do Amparo </FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 21h</FONT></B><FONT face=Verdana>, em Vitória de Santo Antão, grande com?cio </FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 22h30</FONT></B><FONT face=Verdana>, em Belo Jardim, com?cio de encerramento da campanha no Agreste</FONT> </P></FONT> </p>
+{\% endraw %}

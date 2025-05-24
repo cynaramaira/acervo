@@ -1,20 +1,21 @@
 ---
 id: 12373373
-date: "2006-10-11T15:07:00+00:00"
+date: "2006-10-11T15:07:00Z"
 last_modified_at: null
 tags:
-  - humberto-costa
-  - joao-d
-  - paulo
-  - responsabilidade
+  - "humberto-costa"
+  - "joao-d"
+  - "paulo"
+  - "responsabilidade"
 categories:
-  - noticias
-title: "Humberto reafirma que assume responsabilidade pela derrota e defende João Paulo"
+  - "noticias"
+title: "Humberto reafirma que assume responsabilidade pela derrota e defende Jo\u00e3o Paulo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O ex-ministro ligou agora há pouco para negar com veemência o que publicamos logo cedo (leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/10/11/index.php#2288\" target=_blank>aqui</A></EM></STRONG>) sobre a participação de João Paulo na campanha dele, no primeiro turno.</FONT></P></p>
 <p><P><FONT face=Verdana>Primeiro negou ter em qualquer momento responsabilizado João Paulo pela derrota: </FONT></P></p>
 <p><P><FONT face=Verdana>\"Já disse publicamente várias e várias vezes que assumo integralmente a responsabilidade por ela. Em nenhum momento a debitei a quem quer que seja. A derrota ocorreu pelos erros que cometi e pelo episódio da denúncia (a exploração do indiciamento dele)\".</FONT></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>Outra idéia, a de realizar mais um com?cio em Petrolina (onde Eduardo foi vitorioso), não surgiu por interesse de João Paulo. Foi proposta pela coordenação nacional da campanha de Lula, que depois desistiu dela porque a prioridade na reta final do primeiro turno passou a ser o Rio de Janeiro e São Paulo.</FONT></P></p>
 <p><P><FONT face=Verdana>Por fim, Humberto afirmou que desconhece a informação sobre reuniões na prefeitura nas quais João Paulo teria feito cr?ticas a ele.</FONT></P></p>
 <p><P><FONT face=Verdana>\"Não sei qual o objetivo dessa pessoa que passou esse tipo de informações, mas ela prestou um desserviço enorme\", criticou.</FONT></P> </p>
+{\% endraw %}

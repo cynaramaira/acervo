@@ -1,17 +1,18 @@
 ---
 id: 12372879
-date: "2006-09-27T07:11:00+00:00"
+date: "2006-09-27T07:11:00Z"
 last_modified_at: null
 tags:
-  - sem-tags
+  - "sem-tags"
 categories:
-  - noticias
-title: "O que é manchete no pa?s"
+  - "noticias"
+title: "O que \u00e9 manchete no pa?s"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana><STRONG>JORNAL DO COMMERCIO (PE):</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Justiça manda prender envolvidos com dossiê<BR><BR><STRONG>O ESTADO DE S.PAULO:</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Justiça manda prender 6 petistas ligados a dossiê</FONT></P></p>
@@ -43,3 +44,4 @@ imagem: null
 <p><P><FONT face=Verdana>Diretor da Lemos Brito é afastado</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>FOLHA DE LONDRINA (PR): </STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Grevistas podem ficar sem o 13º salário</FONT></P> </p>
+{\% endraw %}

@@ -1,17 +1,18 @@
 ---
 id: 12375033
-date: "2006-12-09T13:05:00+00:00"
+date: "2006-12-09T13:05:00Z"
 last_modified_at: null
 tags:
-  - naomi-campbell
+  - "naomi-campbell"
 categories:
-  - noticias
-title: "Eu não sou Severino, avisa Inocêncio"
+  - "noticias"
+title: "Eu n\u00e3o sou Severino, avisa Inoc\u00eancio"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Ramos</STRONG><BR>Repórter do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>\"Eu não sou Severino Cavalcanti não, sobretudo porque minha imagem não é ligada ao baixo clero. Eu circulo em todas as esferas\", garantiu o deputado Inocêncio</p>
 <p> Oliveira (PL-PE). </FONT></P></p>
@@ -22,3 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>Severino&nbsp;foi considerado a \"zebra\" na eleição da Mesa Diretora da Casa, quando o baixo clero se rebelou contra o governo&nbsp;e elegeu o pernambucano da cidade de&nbsp;Afrânio. Pouco tempo depois, ele&nbsp;se viu obrigado&nbsp;a renunciar por ter sido envolvido no esquema batizado de \"mensalinho\" (recebia um \"por fora\" para beneficiar&nbsp;o empresário&nbsp;que&nbsp;comandava&nbsp;um restuarante&nbsp;da Câmara Federal).</FONT></P></p>
 <p><P><FONT face=Verdana>Agora Severino quer de volta o seu mandato de deputado. Pede ajuda aos mais próximos, mas Inocêncio já deixou claro:</FONT></P></p>
 <p><P><FONT face=Verdana>\"Eu gosto dele como um cidadão de bem,&nbsp;como pai de fam?lia. Não tenho nenhum compromisso com ele nesse sentido\".</FONT></P> </p>
+{\% endraw %}

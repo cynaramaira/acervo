@@ -1,20 +1,21 @@
 ---
 id: 12371471
-date: "2006-08-24T16:31:00+00:00"
+date: "2006-08-24T16:31:00Z"
 last_modified_at: null
 tags:
-  - andre-rio
-  - fenomenos-astronomicos
-  - lula
-  - registro
+  - "andre-rio"
+  - "fenomenos-astronomicos"
+  - "lula"
+  - "registro"
 categories:
-  - colunistas
-title: "O fenômeno Lula: como explicá-lo? (André Régis)"
+  - "colunistas"
+title: "O fen\u00f4meno Lula: como explic\u00e1-lo? (Andr\u00e9 R\u00e9gis)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\">Por</SPAN><B><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial; mso-bidi-font-size: 12.0pt\"> André Regis*</SPAN></B><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\"><BR>Cientista pol?tico</SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\"></SPAN><FONT face=Verdana>O Presidente Lula é o maior fenômeno da comunicação de massas das democracias contemporâneas. Nisso ninguém pode ser tão bom quanto ele. Ainda não temos o devido distanciamento histórico para explicar como foi poss?vel sua recuperação.<BR><BR></FONT><FONT face=Verdana>Até agora tudo que foi dito sobre as razões do sucesso de Lula é insuficiente para justificar como é que um presidente, cujo governo acabou há quase dois anos, é franco favorito a sua própria sucessão. <BR><BR></FONT><FONT face=Verdana>A sucessão de eventos que destruiriam, normalmente, qualquer pretensão eleitoral do presidente é extensa.</FONT></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 35.4pt\"><FONT face=Verdana><BR>No campo pol?tico, as relações executivo-legislativo foram prom?scuas ao extremo. A compra de deputados, com o dinheiro obtido do setor público pela cúpula do Partido dos Trabalhadores, revelou que este governo não teve limites de natureza moral, ética ou republicana. Resultado, após as revelações de Jefferson, e o fim do mensalão, já faz mais de um ano que a oposição tomou conta do Senado e que o governo perdeu consideravelmente sua base de apoio na Câmara dos Deputados.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 35.4pt\"><FONT face=Verdana><BR>E o mais instigante para o pesquisador é que essa lista de escândalos não é exaustiva, apenas exemplificativa. Realmente, vamos precisar de muitas reflexões para que alcancemos alguma conclusão a respeito do sucesso do presidente Lula junto ao eleitorado (vale destacar, no entanto, que entre os eleitores de alta renda e alta escolaridade o desempenho do presidente é muito ruim), conforme demonstrado nas últimas pesquisas de intenção de voto.</FONT></P></p>
 <p><P class=MsoEndnoteText style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-FAMILY: Arial\"><FONT face=Verdana>&nbsp;<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></SPAN></P><SPAN><EM><STRONG>*André Regis</STRONG>, 38,&nbsp;é Ph.D. em Ciência Pol?tica pela New School For Social Research – Nova York, EUA. Doutor em Direito pela UFPE, é <FONT face=Verdana>professor de Direito Constitucional da AESO e da Escola Superior de Magistratura de Pernambuco</FONT></EM></SPAN> </p>
+{\% endraw %}

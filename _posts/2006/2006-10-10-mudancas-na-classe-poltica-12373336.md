@@ -1,17 +1,18 @@
 ---
 id: 12373336
-date: "2006-10-10T08:49:00+00:00"
+date: "2006-10-10T08:49:00Z"
 last_modified_at: null
 tags:
-  - mudancas
+  - "mudancas"
 categories:
-  - noticias
-title: "Mudanças na classe pol?tica"
+  - "noticias"
+title: "Mudan\u00e7as na classe pol?tica"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Acabei de postar na seção Artigos, na coluna ao lado, o artigo semanal do ex-secretário Luiz Otavio Cavalcanti. Abaixo, alguns trechos.</FONT></P></p>
 <p><P><FONT face=Verdana>Boa leitura.</FONT></P></p>
 <p><P><FONT face=Verdana>------------------------------</FONT></P></p>
@@ -21,3 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>1.&nbsp;Acentua-se a popularização da classe pol?tica brasileira a partir de 2002. Ela é observada na composição da Câmara Federal e na organização do primeiro ministério do governo Lula. Ali estavam treze ex-sindicalistas.</FONT></P></p>
 <p><P><FONT face=Verdana>2.&nbsp;Verifica-se na Câmara Federal redução do espaço pol?tico de parlamentares recrutados nas classes altas e aumento da participação de parlamentares vindos das classes médias e das classes populares (em menor volume).</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/10/10/not_2265.php\">aqui</A></EM></STRONG> o texto completo.</FONT></P> </p>
+{\% endraw %}

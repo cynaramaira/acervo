@@ -1,17 +1,18 @@
 ---
 id: 12371452
-date: "2006-08-25T15:06:00+00:00"
+date: "2006-08-25T15:06:00Z"
 last_modified_at: null
 tags:
-  - humberto-costa
+  - "humberto-costa"
 categories:
-  - noticias
-title: "Indignado, Humberto diz que é v?tima de articulação pol?tica para desestabilizá-lo"
+  - "noticias"
+title: "Indignado, Humberto diz que \u00e9 v?tima de articula\u00e7\u00e3o pol?tica para desestabiliz\u00e1-lo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Num gesto inusitado, o candidato do PT ao governo de Pernambuco está dando uma entrevista à imprensa, neste momento, no Recife, para dizer que a Pol?cia Federal pediu o indiciamento dele como membro da máfia dos vampiros – esquema de superfaturamento de hemoderivados desarticulado pela PF em 2004.</FONT></P></p>
 <p><P><FONT face=Verdana>Humberto acaba de dizer que decidiu se antecipar a reportagens que devem sair na imprensa (provavelmente na Veja) sobre o assunto, neste final de semana, para demonstrar a indignação dele com seu envolvimento no caso, em pleno ano eleitoral. </FONT></P></p>
 <p><P><FONT face=Verdana>A antecipação é para mostrar, segundo ele, que há uma tentativa de desestabilização do governo Lula e da candidatura dele em Pernambuco, onde o presidente apresenta um de seus melhores desempenhos nas pesquisas de intenção de voto.</FONT></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana>Afirmou ainda que a máfia dos vampiros, além de ter sido desarticulada por ação dele, teve o esquema de superfaturamento quebrado quando conseguiu reduzir os preços dos hemoderivados a um terço do valor praticado antes do governo Lula.</FONT></P></p>
 <p><P><FONT face=Verdana>\"Que chefe de gangue burro é esse que destrói o esquema com o qual essa máfia se beneficiava\", afirmou.</FONT></P></p>
 <p><P><FONT face=Verdana>Ao final, ele disse que tem certeza absoluta de que será inocentado na Justiça, mas não poderia esperar que a inocência viesse depois da eleição. \"Dizer que sou inocente depois da eleição não me interessa. Quero dizer agora\", finalizou.</FONT></P> </p>
+{\% endraw %}

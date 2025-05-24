@@ -1,17 +1,18 @@
 ---
 id: 12374541
-date: "2006-11-20T06:54:00+00:00"
+date: "2006-11-20T06:54:00Z"
 last_modified_at: null
 tags:
-  - venda-ilegal
+  - "venda-ilegal"
 categories:
-  - noticias
+  - "noticias"
 title: "Brecha legal oculta doadores de R$ 66 mi para campanhas "
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana><EM>Dos recursos recebidos por Humberto Costa (PT), que concorreu ao governo de Pernambuco, 68% são de doadores desconhecidos</EM></FONT></P></p>
 <p><P><FONT face=Verdana>Da <STRONG>Folha de S.Paulo</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Graças a uma brecha na lei eleitoral, os partidos esconderam os verdadeiros doadores de R$ 66,2 milhões que abasteceram as campanhas em todo o pa?s nas últimas eleições.</FONT></P></p>
@@ -23,3 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>A Folha procurou o ex-ministro, mas foi informada pela assessoria de imprensa do petista de que ele está de férias e não poderia ser localizado.</FONT></P></p>
 <p><P><FONT face=Verdana>Entre os petistas mais aquinhoados, abaixo de Costa aparece o ex-presidente nacional da sigla, o candidato a deputado federal Ricardo Berzoini (SP), que recebeu R$ 499,7 mil.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://www1.folha.uol.com.br/fsp/brasil/fc2011200602.htm\" target=_blank>aqui</A></EM></STRONG> (assinantes).</FONT></P> </p>
+{\% endraw %}

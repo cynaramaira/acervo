@@ -1,19 +1,20 @@
 ---
 id: 12372758
-date: "2006-09-23T17:00:00+00:00"
+date: "2006-09-23T17:00:00Z"
 last_modified_at: null
 tags:
-  - casos
-  - miguel-coelho
-  - milton
+  - "casos"
+  - "miguel-coelho"
+  - "milton"
 categories:
-  - opiniao
-title: "Caso PSB: gravação feita com Milton Coelho"
+  - "opiniao"
+title: "Caso PSB: grava\u00e7\u00e3o feita com Milton Coelho"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P align=justify><FONT face=Verdana>Esta degravação foi feita pelo próprio Saulo Batista.</FONT></P></p>
 <p><P align=justify><FONT face=Verdana>(Chegando ao local da festa, numa residência em Campo Grande, quando, na entrada da casa, encontro uma assessora da Campanha de Milton Coelho).</FONT></P></p>
 <p><P align=justify><FONT face=Verdana></FONT></P></p>
@@ -251,3 +252,4 @@ imagem: null
 <p><P align=justify><FONT face=Verdana><STRONG>Saulo Batista:<BR></STRONG></FONT><FONT face=Verdana>A verdade é essa, porque existem possibilidade de estar repactuando isso e se não sair, podemos ver outras compensações…</FONT></P></p>
 <p><P align=justify><FONT face=Verdana></FONT></P></p>
 <p><P align=justify><FONT face=Verdana><STRONG>Milton Coelho:<BR></STRONG></FONT><FONT face=Verdana>Existe um campo enorme pra gente trabalhar…</FONT></P> </p>
+{\% endraw %}

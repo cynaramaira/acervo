@@ -1,20 +1,20 @@
 ---
 id: 12374522
-date: "2006-11-19T11:16:00+00:00"
+date: "2006-11-19T11:16:00Z"
 last_modified_at: null
 tags:
-  - governo-federal
-  - helder-barbalho
-  - poderosa
+  - "governo-federal"
+  - "helder-barbalho"
+  - "poderosa"
 categories:
-  - noticias
-title: "Jader
- Barbalho nunca teve tanto poder e cargos no governo federal quanto agora"
+  - "noticias"
+title: "Jader\n Barbalho nunca teve tanto poder e cargos no governo federal quanto agora"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: justify; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\">Da <B style=\"mso-bidi-font-weight: normal\">Veja</B><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\">O deputado Jader Barbalho é um sobrevivente. Em 2001, ele foi obrigado a renunciar ao mandato de senador por causa de uma maçaroca de denúncias de corrupção. No ano seguinte, Jader chegou a ser preso e algemado por fraudes na Superintendência de Desenvolvimento da Amazônia (Sudam). <o:p></o:p></SPAN></P></p>
@@ -65,3 +65,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><B><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\">SUA FOLHA CORRIDA </SPAN></B><SPAN style=\"COLOR: black\"><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\">• <SPAN style=\"mso-bidi-font-weight: bold\">Cinco processos e dois inquéritos no Supremo Tribunal Federal por doze crimes, como corrupção, lavagem de dinheiro e formação de quadrilha</SPAN> </SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><FONT size=3><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\"><FONT size=2>• <SPAN style=\"mso-bidi-font-weight: bold\">Um processo por peculato no Superior Tribunal de Justiça</SPAN></FONT></SPAN><FONT face=\"Times New Roman\"> </FONT></FONT></P> </p>
+{\% endraw %}

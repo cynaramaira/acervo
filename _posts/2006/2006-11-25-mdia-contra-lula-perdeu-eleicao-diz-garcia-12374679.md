@@ -1,20 +1,21 @@
 ---
 id: 12374679
-date: "2006-11-25T11:29:00+00:00"
+date: "2006-11-25T11:29:00Z"
 last_modified_at: null
 tags:
-  - contran
-  - eleicao
-  - governador-de-santa-catarina
-  - lula
+  - "contran"
+  - "eleicao"
+  - "governador-de-santa-catarina"
+  - "lula"
 categories:
-  - noticias
-title: "M?dia contra Lula perdeu eleição, diz Garcia "
+  - "noticias"
+title: "M?dia contra Lula perdeu elei\u00e7\u00e3o, diz Garcia "
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN><FONT face=Verdana>Por</FONT><FONT face=Verdana><STRONG> Fábio Zanini<BR></STRONG>Da Folha de São Paulo</FONT><FONT face=Verdana><?xml:namespace prefix = st1 ns = \"urn:schemas-microsoft-com:office:smarttags\" /><st1:PersonName ProductID=\"em Bras?lia &#65532;&#65532;Presidente\" w:st=\"on\"> <BR><BR>Presidente</st1:PersonName> interino do PT, Marco Aurélio Garcia, 65, diz que o partido e seus aliados vão precisar de muito mais do que os oito anos de mandato de Luiz Inácio Lula da Silva para mudar profundamente o pa?s.</FONT> <BR style=\"mso-special-character: line-break\"><BR style=\"mso-special-character: line-break\"></SPAN><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\">(...) Leia a seguir os principais trechos da entrevista. <?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><B><I><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\"></SPAN></I></B>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><B><I><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\">FOLHA - O PT aceita o crescimento do PMDB no governo? <BR>MARCO AURÉLIO GARCIA -</SPAN></I></B><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\"> Acho positivo se o PMDB puder ter participação não mais setorial, tangencial, mas participação mais ampla. Mas vou recusar a discussão quantitativa. Acho isso secundário. <o:p></o:p></SPAN></P></p>
@@ -45,3 +46,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><B><I><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\">FOLHA - O PT vai ter que pôr dinheiro do partido para fechar as contas de Lula? O presidente tem que entregar a prestação de contas na próxima semana... <BR>GARCIA -</SPAN></I></B><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\"> Acho que a gente vai conseguir resolver, não sei se consegue resolver tudo imediatamente, mas acho que vai conseguir. O PT interaria se houver problema.<o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-FAMILY: Verdana\"><o:p><FONT face=Verdana></FONT></o:p></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-FAMILY: Verdana\"><o:p>Leia <STRONG><EM><A href=\"https://www1.folha.uol.com.br/fsp/brasil/fc2511200611.htm\" target=_blank>aqui</A></EM></STRONG> a ?ntegra da entrevista. (Assinantes Folha e UOL).&nbsp;</o:p></SPAN></P> </p>
+{\% endraw %}

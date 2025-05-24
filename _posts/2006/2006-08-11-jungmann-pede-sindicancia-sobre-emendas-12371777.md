@@ -1,18 +1,19 @@
 ---
 id: 12371777
-date: "2006-08-11T20:50:00+00:00"
+date: "2006-08-11T20:50:00Z"
 last_modified_at: null
 tags:
-  - emendas
-  - raul-jungmann
+  - "emendas"
+  - "raul-jungmann"
 categories:
-  - noticias
-title: "Jungmann pede sindicância sobre emendas"
+  - "noticias"
+title: "Jungmann pede sindic\u00e2ncia sobre emendas"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma\">Vice-presidente da CPI das Sanguessugas, o deputado</SPAN><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\"> federal Raul Jungmann (PPS-PE) disse que vai pedir a abertura de sindicância no Ministério da Ciência e Tecnologia para apurar a liberação de recursos, em nome dele, para projetos de inclusão digital do deputado Maur?cio Rands (PT-PE).<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></FONT></P></p>
 <p><P><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\">Jungmann confirmou ter destinado duas emendas, uma no valor de R$ 800 mil, outra de R$ 100 mil, para inclusão digital – programa apontado como novo foco de superfaturamento de ve?culos fornecidos pelo esquema das sanguessugas.<o:p></o:p></SPAN></P></p>
 <p><P><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\">Mas o deputado garante que jamais soube do pagamento dessas emendas. E passou a tarde mobilizando assessores para descobrir o que ocorrera.<o:p></o:p></SPAN></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\">Inicialmente, diz Jungmann, os recursos foram empenhados. Depois os empenhos teriam sido cancelados. E o deputado nunca mais tinha tido not?cias das emendas. Achava que elas haviam sido ignoradas.<o:p></o:p></SPAN></P></p>
 <p><P><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\">Hoje, quando o Blog publicou a lista dos parlamentares pernambucanos que destinaram emendas para inclusão digital, soube do destino das suas.<o:p></o:p></SPAN></P></p>
 <p><P><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\">Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/11/index.php#660\" target=_blank>aqui</A></EM></STRONG>.</SPAN></P> </p>
+{\% endraw %}

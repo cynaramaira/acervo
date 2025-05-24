@@ -1,19 +1,20 @@
 ---
 id: 12371318
-date: "2006-08-31T18:12:00+00:00"
+date: "2006-08-31T18:12:00Z"
 last_modified_at: null
 tags:
-  - anne-barreto
-  - debate
-  - uniao
+  - "anne-barreto"
+  - "debate"
+  - "uniao"
 categories:
-  - colunistas
-title: "Os efeitos do debate na TV sobre a União por Pernambuco (Túlio Velho Barreto)"
+  - "colunistas"
+title: "Os efeitos do debate na TV sobre a Uni\u00e3o por Pernambuco (T\u00falio Velho Barreto)"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p><span style="font-family: Verdana;">Por <strong>T&uacute;lio Velho Barreto*</strong><br />Cientista pol?tico e pesquisador da Funda&ccedil;&atilde;o Joaquim Nabuco<br /></span></p>
 <p><span style="font-family: Verdana;">Desde a sua realiza&ccedil;&atilde;o, na &uacute;ltima segunda-feira, o debate entre (quase todos) os candidatos ao Governo do Estado na TV Clube tem sido o tema principal da propaganda eleitoral obrigat&oacute;ria. E os seus desdobramentos t&ecirc;m pautado a m?dia local. Portanto, apesar de t&ecirc;-lo comentado em tempo real no Blog, volto ao tema para tratar de alguns de seus efeitos sobre a Uni&atilde;o por Pernambuco, que tem mantido a dianteira na disputa majorit&aacute;ria estadual.</span></p>
 <p><span style="font-family: Verdana;">Come&ccedil;o destacando a presen&ccedil;a do governador-candidato Mendon&ccedil;a Filho (PFL, Uni&atilde;o por Pernambuco) no debate. De fato, n&atilde;o &eacute; comum o primeiro lugar nas pesquisas eleitorais participar de tais eventos. Basta observar a posi&ccedil;&atilde;o do presidente-candidato Lula a respeito. E os debates em alguns estados, como, por exemplo, em S&atilde;o Paulo, onde Jos&eacute; Serra tamb&eacute;m n&atilde;o tem comparecido. </span></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><span style="font-family: Verdana;">Assim, como op&ccedil;&atilde;o eleitoral, a Uni&atilde;o por Pernambuco ainda n&atilde;o conseguiu se viabilizar sem que aquele que lhe empresta at&eacute; o nome esteja disputando o cargo. E assim como ocorreu com Cadoca em 2004, agora Mendon&ccedil;a Filho despontou como o candidato natural do ex-governador Jarbas Vasconcelos. E toda sua trajet&oacute;ria pol?tica e de gestor p&uacute;blico tem sido associada ao ex-governador, sendo este o seu maior trunfo segundo a propaganda eleitoral obrigat&oacute;ria procura ressaltar. </span></p>
 <p><span style="font-family: Verdana;">O t?mido e &agrave;s vezes vacilante comportamento do governador Mendon&ccedil;a Filho no debate de segunda-feira mostrou a dificuldade que candidatos que n&atilde;o possuem ainda brilho pr&oacute;prio t&ecirc;m tido em disputas majorit&aacute;rias, mesmo quando aparentemente os seus advers&aacute;rios t&ecirc;m mais o qu&ecirc; explicar aos eleitores que ele pr&oacute;prio. Portanto, a partir de agora, o maior desafio de Mendon&ccedil;a Filho, como primeiro lugar em todas as pesquisas de inten&ccedil;&atilde;o de votos at&eacute; aqui, ser&aacute; recuperar a confian&ccedil;a e mostrar ao eleitor que n&atilde;o &eacute; apenas o candidato do ex-governador Jarbas Vasconcelos, de quem foi vice-governador, fato que, ali&aacute;s, fez quest&atilde;o de destacar todo o tempo no debate. Caso contr&aacute;rio, poder&aacute; repetir o vacilante Cadoca de 2004, que come&ccedil;ou a se complicar exatamente ap&oacute;s o primeiro debate&nbsp;entre os candidatos a Prefeito do Recife. </span></p>
 <p><span style="font-family: Verdana;"><br /><em>*Cientista pol?tico e pesquisador da Funda&ccedil;&atilde;o Joaquim Nabuco, <strong>T&uacute;lio Velho Barreto</strong>, 48, &eacute; um dos autores dos livros Democracia e Institui&ccedil;&otilde;es Pol?ticas Brasileiras no final do S&eacute;culo XX (MCP-UFPE/Baga&ccedil;o, 1998) e Nordeste 2004 - O Voto das Capitais (Funda&ccedil;&atilde;o Konrad Adenauer, 2005). Co-organizou e participou dos livros Na Trilha do Golpe - 1964 revisitado (Editora Massangana, 2004) e A Nova Rep&uacute;blica - Vis&otilde;es da redemocratiza&ccedil;&atilde;o (Cepe/JC, 2006), que resultaram de s&eacute;ries especiais publicadas pelo Jornal do Commercio em parceria com a Funda&ccedil;&atilde;o Joaquim Nabuco.</em></span></p>
+{\% endraw %}

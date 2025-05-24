@@ -1,18 +1,19 @@
 ---
 id: 12372623
-date: "2006-09-18T19:13:00+00:00"
+date: "2006-09-18T19:13:00Z"
 last_modified_at: null
 tags:
-  - empresario
-  - voos-suspensos
+  - "empresario"
+  - "voos-suspensos"
 categories:
-  - noticias
-title: "Empresário é suspenso por 60 dias do PT"
+  - "noticias"
+title: "Empres\u00e1rio \u00e9 suspenso por 60 dias do PT"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p>Por</p>
 <p>Nelson Francisco<br />Especial para a Ag&ecirc;ncia Estado</p>
 <p>Cuiab&aacute; - O empres&aacute;rio e engenheiro el&eacute;trico Valdebran Carlos Padilha da Silva foi suspenso hoje por 60 dias do PT, ao qual &eacute; filiado desde agosto de 2004. Neste per?odo, uma comiss&atilde;o do diret&oacute;rio de Cuiab&aacute; avaliar&aacute; a conduta &eacute;tica dele e dever&aacute; expuls&aacute;-lo. Silva foi preso na sexta-feira (15) pela Pol?cia Federal (PF), num hotel de S&atilde;o Paulo, ap&oacute;s escuta telef&ocirc;nica. Ele estava com US$ 109,8 mil (R$ 236,07 mil) e R$ 758 mil.</p>
@@ -21,3 +22,4 @@ imagem: null
 <p>O empres&aacute;rio e engenheiro el&eacute;trico aparece na lista de doadores da campanha petista na cidade, com R$ 600 reais, como pessoa f?sica. J&aacute; a empresa dele, a Saneng - Saneamento e Constru&ccedil;&otilde;es, doou R$ 50 mil.</p>
 <p>No in?cio do governo do presidente Luiz In&aacute;cio Lula da Silva, Padilha da Silva foi indicado pela dire&ccedil;&atilde;o estadual da agremia&ccedil;&atilde;o para ocupar o cargo de diretor-econ&ocirc;mico e financeiro da Centrais El&eacute;tricas do Norte do Brasil (Eletronorte), estatal subordinada &agrave; Centrais El&eacute;tricas Brasileiras (Eletrobr&aacute;s), do Minist&eacute;rio das Minas e Energia.</p>
 <p>A senadora Serys Slhessarenko (PT-MT) impediu a nomea&ccedil;&atilde;o do empres&aacute;rio e engenheiro porque a dire&ccedil;&atilde;o do PT no munic?pio n&atilde;o concordou com a indica&ccedil;&atilde;o.</p>
+{\% endraw %}

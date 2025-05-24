@@ -1,20 +1,21 @@
 ---
 id: 12375375
-date: "2006-12-27T17:19:00+00:00"
+date: "2006-12-27T17:19:00Z"
 last_modified_at: null
 tags:
-  - ministerio
-  - pernambuco
-  - salarios
-  - venda-ilegal
+  - "ministerio"
+  - "pernambuco"
+  - "salarios"
+  - "venda-ilegal"
 categories:
-  - noticias
-title: "Ministério Público de Pernambuco diz que salário acima de R$ 22 mil é ilegal"
+  - "noticias"
+title: "Minist\u00e9rio P\u00fablico de Pernambuco diz que sal\u00e1rio acima de R$ 22 mil \u00e9 ilegal"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O Procurador-Geral de Justiça, Francisco Sales, procurado pelo Blog do JC, afirmou que os salários dos conselheiros do TCE e do MP de Contas que superem os R$ 22 mil (teto do funcionalismo nos estados, definido pelo STF) são ilegais e podem ser objeto de questionamento com ações.</FONT></P></p>
 <p><P><FONT face=Verdana>“O teto do funcionalismo nos estados é R$ 22 mil para todo mundo. As conclusões vocês podem tirar sozinhos???, observou Francisco Sales.</FONT></P></p>
 <p><P><FONT face=Verdana>“O TCE já vem pagando além disto desde antes. A gratificação não foi retirada. No caso do MP de contas, desde que seja pago, podemos fazer o questionamento. Em abril, quando tiver sendo</p>
@@ -29,3 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>“O problema é que não há clareza na remuneração de ninguém. Aproveitem este mote e façam uma matéria ampla sobre as remunerações nas instituições do Estado. Algo que construa???, reconhece o procurador geral de Justiça, Francisco Sales, em certo trecho da conversa com o Blog do JC. </FONT></P></p>
 <p><P><FONT face=Verdana>Segundo auditores, o TCE não tem conselho que o fiscalize, como o Conselho Nacional de Justiça, por exemplo, que derrubou a pretensão dos procuradores em ganhar acima dos R$ 22 mil há duas semana.</FONT></P></p>
 <p><P><FONT face=Verdana>Segundo a legislação sancionada por Mendonça Filho, a aplicação desta lei também é extensiva aos membros aposentados e pensionistas do Ministério Público de Contas.</FONT></P> </p>
+{\% endraw %}

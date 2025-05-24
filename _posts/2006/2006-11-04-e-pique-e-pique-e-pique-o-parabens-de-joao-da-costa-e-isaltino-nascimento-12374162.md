@@ -1,19 +1,20 @@
 ---
 id: 12374162
-date: "2006-11-04T09:59:00+00:00"
+date: "2006-11-04T09:59:00Z"
 last_modified_at: null
 tags:
-  - edson-arantes-do-nascimento-pele
-  - gal-costa
-  - joao-d
+  - "edson-arantes-do-nascimento-pele"
+  - "gal-costa"
+  - "joao-d"
 categories:
-  - noticias
-title: "É pique, é pique, é pique: o parabéns de João da Costa e Isaltino Nascimento "
+  - "noticias"
+title: "\u00c9 pique, \u00e9 pique, \u00e9 pique: o parab\u00e9ns de Jo\u00e3o da Costa e Isaltino Nascimento "
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O secretário de Planejamento e Orçamento Participativo do Recife e deputado estadual eleito, João da Costa (PT), está em festa.</FONT></P></p>
 <p><P><FONT face=Verdana>Daqui a pouco, a partir das 10h, ele começa a receber os convidados da sua festa de aniversário&nbsp;antecipado. O petista completa 44 anos segunda-feira, mas chamou os amigos para brindar com ele,&nbsp;no Clube L?bano, no bairro do Pina, no Recife. </FONT></P></p>
 <p><P><FONT face=Verdana>O convidado especial da festa não podia ser outro senão o seu maior cabo-eleitoral, o prefeito do Recife João Paulo (PT).&nbsp;</FONT><FONT face=Verdana>Mais que um amigão, João Paulo foi o principal&nbsp;responsável por&nbsp;boa parte dos 65.240 votos que o secretário obteve. </FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>Por ironia do destino, hoje o deputado estadual Isaltino Nascimento&nbsp;comemora o 43º aniversário. </FONT></P></p>
 <p><P><FONT face=Verdana>Apesar de ter sido reeleito, Isaltino foi v?tima do&nbsp;\"Fator João da Costa\". Perdeu vários l?deres comunitários para o correligionário, a quem acusa de cooptação de base eleitoral.</FONT></P></p>
 <p><P><FONT face=Verdana>Mas Isaltino preferiu um jeito mais discreto.&nbsp;Descansa na praia, em fam?lia.</FONT></P> </p>
+{\% endraw %}

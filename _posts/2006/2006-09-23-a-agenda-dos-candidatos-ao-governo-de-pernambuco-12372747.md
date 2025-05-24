@@ -1,20 +1,21 @@
 ---
 id: 12372747
-date: "2006-09-23T06:52:00+00:00"
+date: "2006-09-23T06:52:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao Governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B><B></p>
 <p><P><FONT face=Verdana>Às 9h</FONT></B><FONT face=Verdana>, café-da-manhã no mercado de São José, no Centro do Recife, acompanhado pelo ex-governador e candidato ao Senado Jarbas Vasconcelos (PMDB)</FONT></P><B></p>
@@ -42,3 +43,4 @@ imagem: null
 <p><P><FONT face=Verdana>Às 18h30</FONT></B><FONT face=Verdana>, caminhada e com?cio relâmpago em Aliança</FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 20h</FONT></B><FONT face=Verdana>, caminhada e com?cio relâmpago em Bueno Aires</FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 22h30</FONT></B><FONT face=Verdana>, faz com?cio em Paudalho</FONT></P></FONT> </p>
+{\% endraw %}

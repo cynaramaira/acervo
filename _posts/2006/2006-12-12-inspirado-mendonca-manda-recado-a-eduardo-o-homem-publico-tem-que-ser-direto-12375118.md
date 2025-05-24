@@ -1,20 +1,21 @@
 ---
 id: 12375118
-date: "2006-12-12T17:36:00+00:00"
+date: "2006-12-12T17:36:00Z"
 last_modified_at: null
 tags:
-  - diretor
-  - eduardo
-  - mandados
-  - mendonca
+  - "diretor"
+  - "eduardo"
+  - "mandados"
+  - "mendonca"
 categories:
-  - noticias
-title: "Inspirado, Mendonça manda recado a Eduardo: O homem público tem que ser direto"
+  - "noticias"
+title: "Inspirado, Mendon\u00e7a manda recado a Eduardo: O homem p\u00fablico tem que ser direto"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por <B>Cec?lia Ramos</B><BR>Repórter do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>Sem citar o nome do governador eleito Eduardo Campos (PSB), o governador Mendonça Filho deu um jeito de rebater, na tarde de hoje, as cr?ticas que tem recebido dos socialistas. O pefelista apresentou números, tabelas e dados para rebater o mantra da equipe de transição de Eduardo: \"Pernambuco tem frágil equil?brio financeiro\".</FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>Sobre o relatório elaborado pela equipe de transição socialista e entregue a Eduardo: \"Prefiro não comentar porque não li o relatório. Não estou disposto a estabelecer polêmica a partir de avaliações subjetivas. A posição de Pernambuco é de equil?brio e é um dos Estados em melhor situação do Pa?s. E me orgulho em dizer isso a população. Nunca Pernambuco viveu um momento tão positivo em pol?ticas públicas em sua história recente\". </FONT></P></p>
 <p><P><FONT face=Verdana>Sobre viver um terceiro turno: \"Encerrei o processo eleitoral no dia 29 de outubro. Reconheci e assumi a derrota. Naquele instante encerrei o debate eleitoral\".</FONT></P></p>
 <p><P><FONT face=Verdana>Com informações de Ines Andrade, repórter de Economia do JC.</FONT> </P></FONT> </p>
+{\% endraw %}

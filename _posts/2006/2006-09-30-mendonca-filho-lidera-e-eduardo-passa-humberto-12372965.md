@@ -1,19 +1,20 @@
 ---
 id: 12372965
-date: "2006-09-30T07:57:00+00:00"
+date: "2006-09-30T07:57:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - humberto-costa
-  - mendonca-filho
+  - "eduardo"
+  - "humberto-costa"
+  - "mendonca-filho"
 categories:
-  - noticias
-title: "Mendonça Filho lidera e Eduardo passa Humberto"
+  - "noticias"
+title: "Mendon\u00e7a Filho lidera e Eduardo passa Humberto"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p>Por <strong>S&eacute;rgio Montenegro Filho</strong><br />Rep&oacute;rter especial do JC</p>
 <p>A &uacute;ltima pesquisa sobre o primeiro turno da corrida pelo governo do Estado - realizada em Pernambuco pelo Instituto Vox Populi com exclusividade para o Jornal do Commercio - revela que a briga pelo segundo lugar chegou a uma defini&ccedil;&atilde;o.</p>
 <p>Durante toda a campanha, os candidatos Eduardo Campos (PSB), da Frente Popular de Pernambuco, e Humberto Costa (PT), da coliga&ccedil;&atilde;o Melhor pra Pernambuco, se alternaram na vice-lideran&ccedil;a, sempre com ?ndices bem pr&oacute;ximos.</p>
@@ -22,3 +23,4 @@ imagem: null
 <p>Mas amargou a redu&ccedil;&atilde;o da vantagem sobre os advers&aacute;rios e menos chances de vencer a disputa ainda no primeiro turno.</p>
 <p>A explica&ccedil;&atilde;o mais prov&aacute;vel para a defini&ccedil;&atilde;o do quadro pode vir do impacto das den&uacute;ncias que levaram ao indiciamento de Humberto Costa, ex-ministro da Sa&uacute;de, pelo Minist&eacute;rio P&uacute;blico, por suposto envolvimento com a m&aacute;fia dos vampiros - que superfaturava pre&ccedil;os de produtos hemoderivados comprados pelo governo federal.</p>
 <p>Leia mais <strong><em><a href="#" target="_blank" rel="noopener noreferrer">aqui</a></em></strong> (assinantes JC e UOL).</p>
+{\% endraw %}

@@ -1,19 +1,20 @@
 ---
 id: 12374254
-date: "2006-11-08T07:19:00+00:00"
+date: "2006-11-08T07:19:00Z"
 last_modified_at: null
 tags:
-  - cadoca
-  - joao-d
-  - natacao
+  - "cadoca"
+  - "joao-d"
+  - "natacao"
 categories:
-  - noticias
-title: "João Negromonte afaga Lavareda e ataca Cadoca"
+  - "noticias"
+title: "Jo\u00e3o Negromonte afaga Lavareda e ataca Cadoca"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Primeiro-secretário da Assembléia Legislativa, o deputado João Negromonte (PMDB) foi firme ontem ao criticar as declarações do deputado federal Carlos Eduardo Cadoca, que, ao avaliar a condução pol?tica da União por Pernambuco, defendeu a discussão do processo eleitoral de 2004, quando perdeu a disputa municipal para o petista João Paulo.</FONT></P></p>
 <p><P><FONT face=Verdana>“É hora de juntar os cacos, recolher as mágoas. A discussão é necessária, mas deve ser também oportuna. O fórum escolhido não tem sido o adequado. Roupa suja se lava em casa???, disparou Negromonte, em discurso, na tribuna da Casa. </FONT></P></p>
@@ -23,3 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Foi com acidez que Cadoca rebateu as declarações de Negromonte, apontando inclusive um dos problemas crônicos da eleição de 2004, o boicote das pessoas mais próximas a Jarbas Vasconcelos à candidatura dele.</FONT></P></p>
 <p><P><FONT face=Verdana>Vários peemedebistas, entre eles, o próprio Negromonte e o deputado federal eleito Raul Henry, abandonaram Cadoca completamente na disputa. Os pefelistas, como Mendonça Filho, foram mais fiéis que a turma do PMDB.</FONT></P></p>
 <p><P><FONT face=Verdana>Veja <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/11/07/index.php#3194\">aqui</A></EM></STRONG> o que disse Cadoca em resposta a Negromonte.</FONT></P> </p>
+{\% endraw %}

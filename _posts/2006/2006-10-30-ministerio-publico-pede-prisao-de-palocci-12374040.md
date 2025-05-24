@@ -1,18 +1,19 @@
 ---
 id: 12374040
-date: "2006-10-30T19:47:00+00:00"
+date: "2006-10-30T19:47:00Z"
 last_modified_at: null
 tags:
-  - ministerio
-  - prisao
+  - "ministerio"
+  - "prisao"
 categories:
-  - noticias
-title: "Ministério Público pede prisão de Palocci"
+  - "noticias"
+title: "Minist\u00e9rio P\u00fablico pede pris\u00e3o de Palocci"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT face=Verdana></p>
 <p><DIV class=txt id=mudaFonte></p>
 <p><P>Do portal <STRONG>G1</STRONG></P></p>
@@ -20,3 +21,4 @@ imagem: null
 <p><P>Outras nove pessoas relacionadas ao caso também tiveram&nbsp;as prisões pedidas. A lista de acusações inclui peculato, falsidade ideológica, formação de quadrilha e&nbsp;lavagem de dinheiro. </P></p>
 <p><P>(...) A máfia do lixo atuou em Ribeirão Preto&nbsp;durante o segundo mandato de Palocci&nbsp;como prefeito (2001-2002) e&nbsp;ao longo da gestão&nbsp;de seu&nbsp;sucessor&nbsp;Gilberto Maggioni (2002-2004).</P></p>
 <p><P>Leia mais <A href=\"https://g1.globo.com/Noticias/SaoPaulo/0,,AA1332218-5605,00.html\"><EM><STRONG>aqui</STRONG></EM></A>.</P></DIV></FONT> </p>
+{\% endraw %}

@@ -1,17 +1,18 @@
 ---
 id: 12374611
-date: "2006-11-22T19:46:00+00:00"
+date: "2006-11-22T19:46:00Z"
 last_modified_at: null
 tags:
-  - armando-monteiro
+  - "armando-monteiro"
 categories:
-  - noticias
-title: "Armando: A aliança jarbista se esgotou"
+  - "noticias"
+title: "Armando: A alian\u00e7a jarbista se esgotou"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Foi o que disse Armando Monteiro Neto (PTB), reeleito deputado federal mais votado em Pernambuco. Na avaliação do trabalhista, a aliança União por Pernambuco (PMDB/PFL/PSDB), comandada pelo senador eleito Jarbas Vasconcelos (PMDB), foi \"estreita do ponto de vista pol?tico\". </FONT></P></p>
 <p><P><FONT face=Verdana>Em entrevista a Ednaldo Santos, hoje, na Rádio Jornal, Armando, analisou a derrota do governador Mendonça Filho (PFL) para o governador eleito Eduado Campos (PSB), a atuação de Jarbas e o peso do marketing (leia-se Antônio Lavareda) na derrota do pefelista. </FONT></P><B></p>
@@ -22,3 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>O voto é sempre algo intransfer?vel. Quando você vota em alguém você vota naquilo que aquela pessoa representa e a transferência do voto é sempre algo muito dif?cil de acontecer. A experiência tem demonstrado isso. Não só em Pernambuco como em outros estados. Mas eu diria que sobretudo em Pernambuco, que é um estado politizado. Pernambuco sabe distinguir o santo do andor. Então por isso é que Pernambuco sempre pronuncia-se no sentido de poder apostar muito nessa questão da identidade do pol?tico, naquilo que cada um pode representar individualmente e não na expressão, vamos dizer, da vontade apenas de um grupo.</FONT></P><B></p>
 <p><P><FONT face=Verdana>Lavareda foi derrotado também?</FONT></P></B></p>
 <p><P><FONT face=Verdana>Quando você tem um resultado adverso, é evidente que essa derrota é coletiva. Há uma frase muito conhecida que diz que o fracasso é órfão e o sucesso tem muitos pais. Na realidade, esse é um processo em que todos que estiveram nesse projeto perdem. Agora, eu acho injusto querer debitar ao marketing algumas questões que a rigor são de natureza essencialmente pol?tica. Ou seja, o que esteve em discussão durante todo o tempo foi toda a visão de um projeto, de um modelo, de uma discussão pol?tica. Portanto, o marqueteiro, a rigor, nem ele define a eleição, como evidentemente ele não pode ser inteiramente responsabilizado por uma derrota.</FONT></FONT></P> </p>
+{\% endraw %}

@@ -1,19 +1,20 @@
 ---
 id: 12372620
-date: "2006-09-18T18:17:00+00:00"
+date: "2006-09-18T18:17:00Z"
 last_modified_at: null
 tags:
-  - humberto-costa
-  - investigacao
-  - rogerio-robalinho
+  - "humberto-costa"
+  - "investigacao"
+  - "rogerio-robalinho"
 categories:
-  - noticias
-title: "Bancada ligada a Humberto quer investigação sobre Robalinho"
+  - "noticias"
+title: "Bancada ligada a Humberto quer investiga\u00e7\u00e3o sobre Robalinho"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Os deputados federais e estaduais ligados aos ex-ministro da Saúde levantaram agora há pouco suspeitas sobre o envolvimento de Guilherme Robalinho, um dos principais ex-assessores do ex-governador Jarbas Vasconcelos (PMDB), no escândalo dos vampiros.</FONT></P></p>
 <p><P><FONT face=Verdana>No mesmo inquérito da Pol?cia Federal que gerou o indiciamento de Humberto Costa (PT), Robalinho é citado por mais de uma vez por causa dos contatos que mantinha com o empresário Jaisler Jabour, apontado como um dos principais l?deres da máfia dos vampiros e que esteve preso por conta disso.</FONT></P></p>
 <p><P><FONT face=Verdana>Jabour, segundo um dos depoimentos, teria inclusive financiado campanhas eleitorais em Pernambuco, por meio de Robalinho.</FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG><EM>Depoimento de Jouglas Abreu Bezerra Júnior, ex-presidente da Federação Brasileira de Hemofilia:</EM></STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><EM>\"Nada sabe sobre eventual influência pol?tica, salvo em relação ao Estado de Pernambuco que, segundo Jabour era bancado por ele, na pessoa de um tal ROBALINHO, tendo patrocinado campanhas pol?ticas naquele estado\".</EM></FONT></P><FONT face=Verdana></p>
 <p><P>Daqui a pouco daremos mais informações sobre essa entrevista e buscaremos&nbsp;as posições do Governo do Estado e de Guilherme Robalinho.</P></FONT> </p>
+{\% endraw %}

@@ -1,18 +1,19 @@
 ---
 id: 12372814
-date: "2006-09-25T09:40:00+00:00"
+date: "2006-09-25T09:40:00Z"
 last_modified_at: null
 tags:
-  - campanha
-  - mendonca
+  - "campanha"
+  - "mendonca"
 categories:
-  - noticias
-title: "Saulo diz que ofereceu gravações à campanha de Mendonça"
+  - "noticias"
+title: "Saulo diz que ofereceu grava\u00e7\u00f5es \u00e0 campanha de Mendon\u00e7a"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>“O jornal oferece algum tipo de compensação pelas gravações????, foi uma das primeiras coisas que Saulo Batista, 25, perguntou ao <STRONG>Blog</STRONG>, na terça-feira passada, quando apareceu pela primeira vez, e por conta própria, para falar de negociações sobre o financiamento de campanhas do PSB em Pernambuco com recursos públicos.</FONT></P></p>
 <p><P><FONT face=Verdana>“Eu já imaginava...depois desse caso da Istoé...???, respondeu Saulo, após ouvir um incisivo não, referindo-se à revista Istoé, que foi acusada, na semana passada, de ter recebido dinheiro para publicar parte do conteúdo do dossiê contra José Serra.</FONT></P></p>
 <p><P><FONT face=Verdana>Nada disso está gravado. Pelo menos não foi gravado pelo <STRONG>Blog</STRONG>. </FONT></P></p>
@@ -77,3 +78,4 @@ imagem: null
 <p><P><FONT face=Verdana><BR>3. <STRONG>PROPOSTA DE PROGRAMAÇÃO<BR></STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><EM><U>CRONOGRAMA DAS VIAGENS<BR>Data Hora Local Parcerias para as Atividades de Campanha<BR>14.09.2006 9:00h Camaragibe DEPUTADO CARLOS EDUARDO CADOCA (PMDB)<BR>14.09.2006 12:00h São Lourenco da Mata PREFEITO JAIRO PEREIRA (PMDB)<BR>14.09.2006 15:00h Paudalho PREFEITO JOSE PEREIRA (PSDB)<BR>14.09.2006 18:00h Carpina PREFEITO MANOEL BOTAFOGO (PSDB)<BR>14.09.2006 21:00h (Retorno ao Recife)<BR>15.09.2006 9:00h Nazare da Mata PREFEITO NINO (PSDB)<BR>15.09.2006 12:00h Alianca PREFEITO CARLOS FREITAS (PSDB)<BR>15.09.2006 15:00h Timbauba PREFEITO GALVÃOZINHO (PMDB)<BR>15.09.2006 18:00h Macaparana PREFEITO MAVIEL FILHO (PFL)<BR>15.09.2006 21:00h (Retorno ao Recife)<BR>16.09.2006 9:00h Paulista VICE PREFEITO DUFFLES AZEVEDO (PSDB)<BR>16.09.2006 12:00h Abreu e Lima DR. MARCOS (PMDB)<BR>16.09.2006 15:00h Igarassu MARIO RICARDO (PSDB)<BR>16.09.2006 18:00h Goiana EX - PREFEITO BETO GADELHA (PSDB)<BR>16.09.2006 21:00h (Retorno ao Recife)<BR>17.09.2006 9:00h Cabo EX-PREFEITO ELIAS GOMES (PPS)<BR>17.09.2006 12:00h Escada DEPUTADO BRUNO ARAÚJO (PSDB)<BR>17.09.2006 15:00h Ribeirao DEPUTADO BRUNO RODRIGUES (PSDB)<BR>17.09.2006 18:00h Palmares PREFEITO ENOELINO LYRA (PFL)<BR>17.09.2006 21:00h (Retorno ao Recife)<BR>18.09.2006 8:00h Jaboatao dos Guararapes GERALDO MELO (PMDB)<BR>18.09.2006 12:00h Vitoria de Santo Antao DEPUTADO ELIAS LYRA (PFL)<BR>18.09.2006 18:00h Gloria do Goita PREFEITO ZENILTO MIRANDA (PSDB)<BR>18.09.2006 21:00h (Retorno ao Recife)<BR>19.09.2006 9:00h Feira Nova PREFEITO JAIRO GONZAGA (PMDB)<BR>19.09.2006 12:00h Limoeiro PREFEITO LUIS RAIMUNDO (PSDC)<BR>19.09.2006 15:00h Orobo PREFEITO MANOEL JOAO (PSDB)<BR>19.09.2006 18:00h Casinhas PREFEITO JOÃO CAMELO (PSDB)<BR>19.09.2006 21:00h (Retorno ao Recife)<BR>20.09.2006 9:00h Gravata PREFEITO JOAQUIM NETO (PSDB)<BR>20.09.2006 14:00h Caruaru PREFEITO TONY GEL (PFL)<BR>20.09.2006 18:00h Bezerros DEPUTADO RAUL HENRY (PMDB)<BR>20.09.2006 21:00h (Retorno ao Recife)<BR>21.09.2006 8:00h Caruaru PREFEITO TONY GEL (PFL)<BR>21.09.2006 12:00h Vertentes PREFEITO ROMERO LEAL (PSDB)<BR>21.09.2006 15:00h Taquaritinga do Norte PREFEITO ZECA (PSDB)<BR>21.09.2006 18:00h Santa Cruz do Capibaribe PREFEITO ZE AUGUSTO (PMDB)<BR>21.09.2006<BR>(Pernoite em Sta. C. do<BR>Capibaribe)<BR>22.09.2006 8:00h Belo Jardim PREFEITO JOÃO MENDONÇA (PFL)<BR>22.09.2006 12:00h Pesqueira PREFEITO JOÃO EUDES (PFL)<BR>22.09.2006</p>
 <p> 18:00h Arcoverde PREFEITO ZECA (PFL)<BR>22.09.2006 (Pernoite em Arcoverde)<BR>23.09.2006 9:00h Sertania JOSE ETELVINO LINS (PSDB)<BR>23.09.2006 12:00h São Jose do Egito PREFEITO EVANDRO VALADARES (PPS)<BR>23.09.2006 16:00h Afogados da Ingazeira DEPUTADO RAUL HENRY (PMDB)<BR>23.09.2006 19:00h Serra Talhada PREFEITO CARLOS EVANDRO (PFL)<BR>23.09.2006 (Pernoite em Serra Talhada)<BR>24.09.2006 9:00H Mirandiba PREFEITO JOÃO BATISTA (PSDB)<BR>24.09.2006 12:00h Salgueiro DEPUTADO ROBERTO MAGALHAES (PFL)<BR>24.09.2006 15:00h Ouricuri PREFEITO CHICO COELHO (PFL)<BR>24.09.2006 20:00h Araripina PREFEITO VALDEIR BATISTA (PSDB)<BR>24.09.2006 (Pernoite em Araripina)<BR>25.09.2006 10:00h Santa Cruz PREFEITA ELIANE SOARES (PFL)<BR>25.09.2006 16:00h Petrolina DEPUTADO OSVALDO COELHO (PFL)<BR>25.09.2006 (Pernoite em Petrolina)<BR>26.09.2006 18:00h Santa Maria da Boa Vista PREFEITO LEANDRO DUARTE (PFL)<BR>26.09.2006 (Pernoite em Sta. M. Boa Vista)<BR>27.09.2006 10:00h Cabrobo DEPUTADO OSVALDO COELHO (PFL)<BR>27.09.2006 14:00h Belem de São Francisco PREFEITO HELIONALDO LUSTOSA (PFL)<BR>27.09.2006 18:00h Floresta PREFEITO AFONSO AUGUSTO FERRAZ (PSDB)<BR>27.09.2006 (Pernoite em Floresta)<BR>28.09.2006 9:00h Petrolandia DEPUTADO LOURIVAL SIMOES (PV)<BR>28.09.2006 14:00h Ibimirim DEPUTADO CLAUDIANO MARTINS (PMDB)<BR>28.09.2006 19:00h Aguas Belas PREFEITO NOMERIANO MARTINS (PSDB)<BR>28.09.2006 (Pernoite em Aguas Belas)<BR>29.09.2006 9:00h Garanhuns PREFEITO LUIZ CARLOS (PMDB)<BR>29.09.2006 12:00h Canhotinho PREFEITO ALVARO PORTO (PFL)<BR>29.09.2006 15:00h Cupira DEPUTADO RAUL HENRY (PMDB)<BR>29.09.2006 18:00h Caruaru PREFEITO TONY GEL (PFL)<BR>29.09.2006 (Pernoite em Caruaru)<BR>30.09.2006 10:00h Gravata PREFEITO JOAQUIM NETO (PSDB)<BR>30.09.2006 14:00h Vitoria de Santo Antão DEPUTADO ELIAS LYRA (PFL)<BR>30.09.2006 (Retorno ao Recife)</U></EM></FONT></P> </p>
+{\% endraw %}

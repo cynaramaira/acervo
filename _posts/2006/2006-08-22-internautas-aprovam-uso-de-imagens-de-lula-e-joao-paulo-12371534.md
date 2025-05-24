@@ -1,19 +1,20 @@
 ---
 id: 12371534
-date: "2006-08-22T10:01:00+00:00"
+date: "2006-08-22T10:01:00Z"
 last_modified_at: null
 tags:
-  - joao-d
-  - lula
-  - paulo
+  - "joao-d"
+  - "lula"
+  - "paulo"
 categories:
-  - noticias
-title: "Internautas aprovam uso de imagens de Lula e João Paulo"
+  - "noticias"
+title: "Internautas aprovam uso de imagens de Lula e Jo\u00e3o Paulo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>A maioria dos leitores do <STRONG>Blog</STRONG> votou a favor do uso das imagens dos dois petistas no guia eleitoral de Mendonça Filho e Jarbas Vasconcelos, que está proibido pelo TRE.</FONT></P></p>
 <p><P><FONT face=Verdana>A enquete acumulou 673 votos até agora. E se encerra aqui. Veja os resultados:</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Você acha que Jarbas e Mendonça Filho podem usar Lula e João Paulo no guia eleitoral?</STRONG></FONT></P></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><P>---------------------------------------------------<BR><BR><FONT face=Verdana>A partir de agora, iniciamos uma nova enquete. O <STRONG>Blog</STRONG> quer saber:</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Você acha que os candidatos ao governo de Pernambuco vão cumprir as promessas que estão apresentando no guia eleitoral?</STRONG></FONT></P></p>
 <p><P>Vote, dê sua opinião na coluna ao lado.</P> </p>
+{\% endraw %}

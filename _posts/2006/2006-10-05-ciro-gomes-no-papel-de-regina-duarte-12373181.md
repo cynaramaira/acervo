@@ -1,19 +1,20 @@
 ---
 id: 12373181
-date: "2006-10-05T09:32:00+00:00"
+date: "2006-10-05T09:32:00Z"
 last_modified_at: null
 tags:
-  - ciro-gomes
-  - papelao
-  - regina-duarte
+  - "ciro-gomes"
+  - "papelao"
+  - "regina-duarte"
 categories:
-  - noticias
+  - "noticias"
 title: "Ciro Gomes no papel de Regina Duarte"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Correio Braziliense</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Em 2002, o tucano José Serra usou o discurso do medo contra Lula. Com ar assustado, a atriz Regina Duarte estrelou os programas do PSDB no horário eleitoral.</FONT></P></p>
 <p><P><FONT face=Verdana>“Gente, eu estou com medo…???, dizia e depois desfiava os riscos da eleição de Lula para a economia do pa?s. </FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>O presidente poderia sofrer impeachment e jogar o pa?s em uma crise. </FONT></P></p>
 <p><P><FONT face=Verdana>Ciro tentará jogar o risco em Alckmin. Dirá que, se o tucano vencer, governará um pa?s divido entre ricos e pobres. </FONT></P></p>
 <p><P><FONT face=Verdana>“Ele não tem diálogo com os pobres???, disse Ciro a um interlocutor ontem.</FONT></P> </p>
+{\% endraw %}

@@ -1,20 +1,21 @@
 ---
 id: 12373884
-date: "2006-10-27T17:51:00+00:00"
+date: "2006-10-27T17:51:00Z"
 last_modified_at: null
 tags:
-  - guerra
-  - psdb
-  - segundo-turno
-  - sergio
+  - "guerra"
+  - "psdb"
+  - "segundo-turno"
+  - "sergio"
 categories:
-  - noticias
-title: "A lição do PSDB, segundo Sérgio Guerra"
+  - "noticias"
+title: "A li\u00e7\u00e3o do PSDB, segundo S\u00e9rgio Guerra"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Do portal <STRONG>G1</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>O PSDB deve tirar uma lição fundamental das urnas no próximo domingo (29): a necessidade de buscar uma aproximação direta com o povo e se consolidar como um partido efetivamente de centro-esquerda.</FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>Sérgio Guerra é conhecido como um pol?tico que circula bem em todas as esferas ideológicas dos partidos brasileiros. Originário de um partido mais à esquerda, o PSB, ele foi cabo eleitoral de Lula nas duas primeiras eleições presidenciais pós-democratização, de 1989 e 1994. No segundo mandato de Fernando Henrique Cardoso, juntou-se aos quadros do PSDB.</FONT></P></p>
 <p><P><FONT face=Verdana>(...)</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://g1.globo.com/Noticias/Politica/0,,AA1328323-5601,00.html\" target=_blank>aqui</A>&nbsp;</EM></STRONG>.</FONT></P></FONT> </p>
+{\% endraw %}

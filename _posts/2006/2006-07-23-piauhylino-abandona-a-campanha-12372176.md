@@ -1,17 +1,18 @@
 ---
 id: 12372176
-date: "2006-07-23T17:02:00+00:00"
+date: "2006-07-23T17:02:00Z"
 last_modified_at: null
 tags:
-  - campanha
+  - "campanha"
 categories:
-  - noticias
+  - "noticias"
 title: "Piauhylino abandona a campanha"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>O deputado federal Luiz Piauhylino de Mello Monteiro, 59, acabou fazer um anúncio no m?nimo inusitado a Sérgio Montenegro Filho, repórter especial do JC. Disse que está deixando a pol?tica e não concorrerá à reeleição.</FONT></P></p>
 <p><P><FONT face=Verdana>Sócio de uma das maiores bancas de advocacia de Pernambuco, Piauhylino disse que não tem como aceitar a confusão que a nova legislação eleitoral impôs aos candidatos neste ano.</FONT></P></p>
@@ -19,3 +20,4 @@ imagem: null
 <p><P><FONT face=Verdana>Piau, como é conhecido, diz que a confusão resultante da lei é enorme: 40% das bases dele apóiam Humberto Costa para governador; 30%, Eduardo Campos; e 30%, Mendonça Filho. </FONT></P></p>
 <p><P><FONT face=Verdana>O deputado começou sua vida parlamentar quando foi suplente do senador Mansueto de Lavor (já falecido), nos anos 80. Em 1988 e 1989, assumiu por um ano o mandato de Mansueto. Ocupa uma cadeira na Câmara há quatro legislaturas, 15 anos. Chegou lá pela primeira vez como federal em 1991.</FONT></P></p>
 <p><P><FONT face=Verdana>Nesses anos todos, passou pelo PSB, PSDB, PTB e PDT. \"Vou continuar na pol?tica e no PDT\", garante ele.</FONT></P></FONT> </p>
+{\% endraw %}

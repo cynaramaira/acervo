@@ -1,22 +1,23 @@
 ---
 id: 12374558
-date: "2006-11-21T07:04:00+00:00"
+date: "2006-11-21T07:04:00Z"
 last_modified_at: null
 tags:
-  - caminhao
-  - eduardo
-  - jarbas-vasconcelos
-  - naomi-campbell
-  - problemas-auditivos
-  - terapia
+  - "caminhao"
+  - "eduardo"
+  - "jarbas-vasconcelos"
+  - "naomi-campbell"
+  - "problemas-auditivos"
+  - "terapia"
 categories:
-  - noticias
-title: "Eduardo: Da minha parte, não terá problema nenhum tratar com Jarbas Vasconcelos"
+  - "noticias"
+title: "Eduardo: Da minha parte, n\u00e3o ter\u00e1 problema nenhum tratar com Jarbas Vasconcelos"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por <B>Cec?lia Ramos</B><BR>Repórter do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>O governador eleito Eduardo Campos (PSB) disse que vai procurar o senador eleito Jarbas Vasconcelos (PMDB) - </FONT></FONT><FONT face=Verdana size=2>de quem é adversário ferrenho de longas datas -</FONT><FONT size=2><FONT face=Verdana> para tratar as questões de interesse de Pernambuco. Mas no \"momento certo\".</FONT></P></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>O socialista contactou os três porque diz que quer manter o mesmo \"bom entendimento\" com o Senado, no seu governo. \"Agora eu não procuro Jarbas porque ele não tem nada a ver com o Orçamento Geral da União de 2007\", justificou o governador eleito. </FONT></P></p>
 <p><P><FONT face=Verdana>Mas Eduardo pretende se reunir com os senadores, assim como fez com os representantes pernambucanos na Câmara Federal. </FONT></P></p>
 <p><P><FONT face=Verdana>Ontem, ele reuniu 16 dos 25 deputados, em encontro no Recife Praia Hotel, no bairro do Pina. Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/11/20/index.php\">aqui</A></EM></STRONG>.</FONT> </P></FONT> </p>
+{\% endraw %}

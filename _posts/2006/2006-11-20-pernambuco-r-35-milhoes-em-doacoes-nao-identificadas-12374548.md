@@ -1,17 +1,18 @@
 ---
 id: 12374548
-date: "2006-11-20T14:22:00+00:00"
+date: "2006-11-20T14:22:00Z"
 last_modified_at: null
 tags:
-  - pernambuco
+  - "pernambuco"
 categories:
-  - noticias
-title: "Pernambuco: R$ 3,5 milhões em doações não identificadas"
+  - "noticias"
+title: "Pernambuco: R$ 3,5 milh\u00f5es em doa\u00e7\u00f5es n\u00e3o identificadas"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>A Folha de S.Paulo publica hoje um interessante balanço no qual aponta R$ 66 milhões como recursos não identificados nas campanhas eleitorais em todo o pa?s. Veja o que diz o jornal:</FONT></P></p>
 <p><P><FONT face=Verdana>Graças a uma brecha na lei eleitoral, os partidos esconderam os verdadeiros doadores de R$ 66,2 milhões que abasteceram as campanhas em todo o pa?s nas últimas eleições.</FONT></P></p>
 <p><P><FONT face=Verdana>O valor supera as contribuições realizadas por empreiteiras e por outros setores da economia que puderam ser identificados em levantamento feito pela Folha.</FONT></P></p>
@@ -36,3 +37,4 @@ imagem: null
 <p><P><FONT face=Verdana>Ana Arraes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R$ 89.200 do PSB</FONT></P></p>
 <p><P><FONT face=Verdana>Bruno Rodrigues&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R$ 187.125 do PSDB</FONT></P></p>
 <p><P><FONT face=Verdana>Inocêncio Oliveira&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; R$ 145.000 do PL</FONT></P></FONT> </p>
+{\% endraw %}

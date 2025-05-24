@@ -1,20 +1,21 @@
 ---
 id: 12372138
-date: "2006-07-26T08:59:00+00:00"
+date: "2006-07-26T08:59:00Z"
 last_modified_at: null
 tags:
-  - bruno-covas
-  - itaquitinga
-  - maranhao
-  - terra
+  - "bruno-covas"
+  - "itaquitinga"
+  - "maranhao"
+  - "terra"
 categories:
-  - noticias
-title: "Aqui mora Bruno Maranhão, sem-terra"
+  - "noticias"
+title: "Aqui mora Bruno Maranh\u00e3o, sem-terra"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><p>Não falta espaço no colorido apartamento do mais célebre l?der do Movimento de Libertação dos Sem-Terra (MLST). <!--?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\"</p>
 <p> ?--></p></p>
 <p><p>É um belo um-por-andar-com-200-metros-quadrados, cujo endereço preciso - peço desculpas - não vou dar para não atrair a cobiça dos sem-teto.</p></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><p>&nbsp;</p></p>
 <p><p>Por causa do incidente, esteve preso na Penitenciária da Papuda, em Bras?lia, durante 38 dias. Também foi afastado da executiva nacional do Partido dos Trabalhadores e da campanha de Lula.</p></p>
 <p><p>Foi orientado a não comparecer ao último com?cio do presidente, em Bras?lia Teimosa, no sábado, para não atrapalhá-lo.</p></p>
+{\% endraw %}

@@ -1,18 +1,19 @@
 ---
 id: 12375327
-date: "2006-12-22T12:17:00+00:00"
+date: "2006-12-22T12:17:00Z"
 last_modified_at: null
 tags:
-  - armando-monteiro
-  - neto
+  - "armando-monteiro"
+  - "neto"
 categories:
-  - noticias
+  - "noticias"
 title: "Armando Monteiro Neto chora ao falar do PTB"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Ramos</STRONG><BR>Repórter do Blog do JC</FONT></P></p>
 <p><P><FONT face=Verdana>Presidente estadual do PTB, Armando Monteiro Neto, reeleito deputado federal mais votado em Pernambuco, não conteve a emoção e chorou ao&nbsp;discursar sobre a (re)fundação do partido&nbsp;no Estado como Grupo Independente (GI). </FONT></P></p>
 <p><P><FONT face=Verdana>\"Eu agradeço àqueles que acreditaram no PTB, acreditaram num projeto, e que não esmoreceram e foram aliados fiéis\", disse o dirigente, ontem,&nbsp;durante&nbsp;confraternização do partido&nbsp;na nova sede, no&nbsp;bairro das Graças, no Recife. </FONT></P></p>
@@ -22,3 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>Ao <STRONG>Blog</STRONG>, o patriarca&nbsp;disse que estava orgulhoso do trabalho do filho à frente da sigla. \"Em Pernambuco o partido é muito sério. Agora o nacional com uma pessoa como Roberto Jefferson não pode. Não estamos satisfeitos com isso\", reclamou.</FONT></P><FONT face=Verdana></p>
 <p><P><FONT face=Verdana>Ps.: <BR>P</FONT><FONT face=Verdana>residente reeleito da Confederação Nacional da Indústria (CNI), Armando Monteiro Neto falará, daqui a pouco, sobre a \"Economia Brasileira: Desempenho e Perspectiva\", em almoço para a imprensa no restaurante Assucar&nbsp;(escrito assim mesmo), no Paço Alfândega. </FONT></P></p>
 <p><P><FONT face=Verdana>Como falamos, Armando não dispensa uma cerimônia. Diferente da maioria da classe pol?tica, sua confraternização é uma entrevista coletiva...&nbsp;&nbsp;&nbsp;</FONT></FONT></P> </p>
+{\% endraw %}

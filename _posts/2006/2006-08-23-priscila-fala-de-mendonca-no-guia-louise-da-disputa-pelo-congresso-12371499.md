@@ -1,19 +1,20 @@
 ---
 id: 12371499
-date: "2006-08-23T16:39:00+00:00"
+date: "2006-08-23T16:39:00Z"
 last_modified_at: null
 tags:
-  - congresso
-  - mendonca
-  - priscila-cruz
+  - "congresso"
+  - "mendonca"
+  - "priscila-cruz"
 categories:
-  - noticias
-title: "Priscila fala de Mendonça no guia; Louise, da disputa pelo Congresso"
+  - "noticias"
+title: "Priscila fala de Mendon\u00e7a no guia; Louise, da disputa pelo Congresso"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Acabei de publicar ao lado (clique <STRONG><EM><U><A href=\"https://jc3.uol.com.br/blogs/jc/artigos.php\">aqui</A></U></EM></STRONG>)&nbsp;o artigo semanal de <STRONG>Priscila Krause</STRONG>, 26, vereadora do Recife (PFL), e <STRONG>Louise Caroline</STRONG>, 23, vice-presidente da UNE (PT).</FONT></P></p>
 <p><P><FONT face=Verdana>Daqui a pouco publicaremos o artigo de <STRONG>Mar?lia Arraes</STRONG>, 21, estudante de Direito e neta do ex-governador Miguel Arraes.</FONT></P></p>
 <p><P><FONT face=Verdana>Juntas, elas são <STRONG>As meninas do Blog</STRONG>, colaboradoras freqüentes, que estarão aqui semanalmente analisando o andamento da campanha eleitoral deste ano.</FONT></P></p>
@@ -49,3 +50,4 @@ imagem: null
 <p><P align=justify><FONT face=Verdana>(...)</FONT></P></p>
 <p><P align=justify><FONT face=Verdana></FONT></P></p>
 <p><P align=justify><FONT face=Verdana>Por isso, quando a campanha de Jarbas Vasconcelos tenta imprimir a idéia de que a tarefa do Senador é estadual, é apoiar o Governador de Pernambuco, é trazer investimentos para o Estado, o candidato omite da população parte decisiva da tarefa de um Senador, qual seja aprovar ou não projetos de lei que regerão a vida de todo o povo brasileiro; fazer oposição ou ser da bancada de apoio do Governo Federal.</FONT></P> </p>
+{\% endraw %}

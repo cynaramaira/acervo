@@ -1,17 +1,18 @@
 ---
 id: 12373845
-date: "2006-10-26T23:07:00+00:00"
+date: "2006-10-26T23:07:00Z"
 last_modified_at: null
 tags:
-  - segundo-turno
+  - "segundo-turno"
 categories:
-  - noticias
+  - "noticias"
 title: "As farpas do segundo bloco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><U><FONT size=2></p>
 <p><P><FONT face=Verdana>De Eduardo Campos:</FONT></P></U><I></p>
 <p><P><FONT face=Verdana>\"Enquanto Mendonça lê a? esses papéis você pergunta. Cadê as propostas? Eu vou apresentar a vocês as propostas para os servidores\"</FONT></I><BR></P></B></p>
@@ -31,3 +32,4 @@ imagem: null
 <p><P><FONT face=Verdana>Na resposta sobre saúde</FONT></P><B><I></p>
 <p><P><FONT face=Verdana>\"Eduardo, seria muito mais positivo da sua parte, se você pedisse desculpas públicas aos servidores estaduais. Aproveite o momento e peça desculpas aos milhões de pernambucanos que estão nos assistindo\"</FONT></P></B></I></p>
 <p><P><FONT face=Verdana>Na tréplica sobre responsabilidade fiscal</FONT></FONT></P> </p>
+{\% endraw %}

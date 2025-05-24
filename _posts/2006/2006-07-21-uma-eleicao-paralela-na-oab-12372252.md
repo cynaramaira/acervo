@@ -1,17 +1,18 @@
 ---
 id: 12372252
-date: "2006-07-21T08:35:00+00:00"
+date: "2006-07-21T08:35:00Z"
 last_modified_at: null
 tags:
-  - eleicao
+  - "eleicao"
 categories:
-  - noticias
-title: "Uma eleição paralela na OAB"
+  - "noticias"
+title: "Uma elei\u00e7\u00e3o paralela na OAB"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P>A disputa pelo comando da Ordem dos Advogados do Brasil (OAB) em Pernambuco tem tudo para ser tão apaixonada quanto a de governador. </P></p>
 <p><P>Ainda está distante, foi marcada para a segunda quinzena de novembro. Mas já é clara a divisão entre os advogados de Mendonça Filho (PFL), Humberto Costa (PT) e Eduardo Campos (PSB). </P></p>
@@ -21,3 +22,4 @@ imagem: null
 <p><P>Segundo Antônio Campos, a posição do grupo não depende de questões partidárias. Eles devem realmente ajudar Júlio, sem fechar questão. Ou seja, permitindo que quem desejar possa escolher outro candidato. \"A gente ainda está marcando para conversar sobre isso no jur?dico do PSB\", diz ele.</P></p>
 <p><P>Na campanha de Humberto Costa, o núcleo da área jur?dica faz o mesmo, prefere Júlio. O deputado Maur?cio Rands lidera o grupo de advogados e deve reun?-lo para conversar sobre o assunto.</P></p>
 <p><P>O presidente da OAB é o nome preferido dos grandes escritórios de advocacia, com trânsito livre nos tribunais. Ele está há três anos no cargo e parte na corrida como franco favorito.</P></FONT> </p>
+{\% endraw %}

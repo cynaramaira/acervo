@@ -1,18 +1,19 @@
 ---
 id: 12372715
-date: "2006-09-21T20:22:00+00:00"
+date: "2006-09-21T20:22:00Z"
 last_modified_at: null
 tags:
-  - campanha
-  - mendonca
+  - "campanha"
+  - "mendonca"
 categories:
-  - noticias
-title: "Estratégia da campanha de Mendonça mostrou-se ineficaz"
+  - "noticias"
+title: "Estrat\u00e9gia da campanha de Mendon\u00e7a mostrou-se ineficaz"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>Os números da nova rodada do Ibope, divulgados há pouco pelo NETV 2ª Edição, da TV Globo, indicam que algo de muito sério deu errado na campanha à reeleição do governador Mendonça Filho (PFL). <?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>Eles foram recebidos na União por Pernambuco, que o apóia, com um misto de decepção e apreensão. Com razão.<o:p></o:p></FONT></SPAN></P></p>
@@ -52,3 +53,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-layout-grid-align:</p>
 <p> none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>Apresenta também uma tendência favorável a Eduardo, que já ficou num perigoso empate técnico com o pefelista.<o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></SPAN></P><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: \Times New Roman\; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA\"><FONT face=Verdana>Caso vença como indicam as pesquisas, a entrada de Lula no segundo turno em Pernambuco vai exigir muito, mas muito talento mesmo da equipe de Mendonça.</FONT></SPAN> </p>
+{\% endraw %}

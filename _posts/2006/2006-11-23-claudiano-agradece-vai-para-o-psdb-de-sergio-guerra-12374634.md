@@ -1,20 +1,21 @@
 ---
 id: 12374634
-date: "2006-11-23T18:20:00+00:00"
+date: "2006-11-23T18:20:00Z"
 last_modified_at: null
 tags:
-  - guerra
-  - para
-  - psdb
-  - sergio
+  - "guerra"
+  - "para"
+  - "psdb"
+  - "sergio"
 categories:
-  - noticias
-title: "Claudiano agradece: vai para o PSDB de Sérgio Guerra"
+  - "noticias"
+title: "Claudiano agradece: vai para o PSDB de S\u00e9rgio Guerra"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>O deputado estadual Claudiano Martins confirmou, na tarde de hoje, que trocará o PMDB pelo PSDB, conforme antecipou o <B>Blog</B>, no dia 21 de outubro. (Leia <A href=\"https://jc3.uol.com.br/blogs/jc/2006/10/21/index.php#2578\" target=_blank><STRONG><EM>aqui</EM></STRONG></A>)</FONT></P></p>
 <p><P><FONT face=Verdana>\"É um partido (o PSDB) que me agrada e vou pela amizade com Sérgio Guerra\", justificou Claudiano,&nbsp;referindo-se ao principal l?der tucano no Estado. Guerra fez o que pôde para tirá-lo da prisão, inclusive&nbsp;fazendo contatos com o ministro da Justiça, Márcio Thomaz Bastos, e no Supremo Tribunal Federal&nbsp;(STF).&nbsp;Leia mais <B><A href=\"https://jc3.uol.com.br/blogs/jc/2006/11/14/index.php\" target=_blank><EM>aqui</EM></A></B>.</FONT></P></p>
@@ -30,3 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>Claudiano tem esperanças, mas não quis avaliar o impacto que esta segunda prisão terá no seu curr?culo. </FONT></P></p>
 <p><P><FONT face=Verdana>\"Deus é quem sabe. Ninguém sabe o destino da gente na cabeça das pessoas\"</FONT></P></p>
 <p><P><FONT face=Verdana>As informações são de Gilvan Oliveira, repórter de Pol?tica do Jornal do Commercio. </FONT></P></FONT> </p>
+{\% endraw %}

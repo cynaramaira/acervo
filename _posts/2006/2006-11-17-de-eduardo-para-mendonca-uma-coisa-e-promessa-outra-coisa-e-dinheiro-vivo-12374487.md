@@ -1,21 +1,22 @@
 ---
 id: 12374487
-date: "2006-11-17T15:59:00+00:00"
+date: "2006-11-17T15:59:00Z"
 last_modified_at: null
 tags:
-  - dinheiro
-  - eduardo
-  - mendonca
-  - outra-vez
-  - promessa-de-campanha
+  - "dinheiro"
+  - "eduardo"
+  - "mendonca"
+  - "outra-vez"
+  - "promessa-de-campanha"
 categories:
-  - noticias
-title: "De Eduardo para Mendonça: Uma coisa é promessa, outra coisa é dinheiro vivo"
+  - "noticias"
+title: "De Eduardo para Mendon\u00e7a: Uma coisa \u00e9 promessa, outra coisa \u00e9 dinheiro vivo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>O clima de cordialidade é mera aparência na transição. Senão, vejamos. Para marcar posição, a equipe do governador Mendonça Filho (PFL) avisou logo que o pefelista entregará o Estado \"equilibrado\" ao governador eleito, Eduardo Campos (PSB).</FONT></P></p>
 <p><P><FONT face=Verdana>No dia 6, Cláudio Marinho - secretário de Planejamento e coordenador da equipe transição de Mendonça - explicou que Eduardo vai dispor, ao longo de 2007, de R$ 1,3 bilhão em convênios firmados com o governo federal e mais R$ 341 milhões em contratos de empréstimos com o BNDES, BID e Banco Mundial. Leia mais <A href=\"https://jc3.uol.com.br/blogs/jc/2006/11/06/index.php#3160\"><STRONG><EM>aqui</EM></STRONG></A></FONT><FONT face=Verdana>.</FONT></P></p>
@@ -32,3 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>A estatal deveria ter sa?do do papel há mais de um ano, mas nem infra-estrutura tem no terreno destinado a ela. </FONT></P></p>
 <p><P><FONT face=Verdana>\"Queremos que a Hemobras seja prioridade no próximo governo, o que não aconteceu até agora. A empresa não está nem no Orçamento de 2007, no PPA (Plano Plurianual) e o Plano Diretor não foi sequer concluido. Hoje, no local o que tem é um canavial\", disparou Baccara. </FONT></P></p>
 <p><P><FONT face=Verdana>Ainda segundo ele, \"o que coube à União (governo federal) foi feito\". </FONT></FONT><FONT size=2><FONT face=Verdana>Mas o presidente da Hemobras tenta olhar para frente e disse a Eduardo: \"O passado é passado (referindo-se ao governo Jarbas/Mendonça). O futuro agora é outra conversa\".</FONT></P></FONT> </p>
+{\% endraw %}

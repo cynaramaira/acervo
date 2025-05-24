@@ -1,19 +1,20 @@
 ---
 id: 12373153
-date: "2006-10-04T13:13:00+00:00"
+date: "2006-10-04T13:13:00Z"
 last_modified_at: null
 tags:
-  - condenacao
-  - geraldo-alckmin
-  - jarbas-vasconcelos
+  - "condenacao"
+  - "geraldo-alckmin"
+  - "jarbas-vasconcelos"
 categories:
-  - noticias
+  - "noticias"
 title: "Jarbas condena apoio de Garotinho a Alckmin"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>“Eu não queria esse apoio. Não é verdade essa história de que todo apoio é bem-vindo. Não é???, disse há pouco o ex-governador de Pernambuco e senador eleito Jarbas Vasconcelos (PMDB), durante entrevista ao programa de Geraldo Freire, na Rádio Jornal, no Recife.</FONT></P></p>
 <p><P><FONT face=Verdana>Anthony e Rosinha Garotinho, que governam o Rio de Janeiro, anunciaram ontem o apoio a Geraldo Alckmin (PMDB).</FONT></P></p>
 <p><P><FONT face=Verdana>Durante a pré-campanha eleitoral, Jarbas fez o que pôde para que o ex-governador Garotinho</p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana>Mais. Se depender de Jarbas, Alckmin continuará fora da propaganda eleitoral de Mendonça Filho neste segundo turno. \"Alckmin tem o tempo dele\", ressaltou.</FONT></P></p>
 <p><P><FONT face=Verdana>A União por Pernambuco tenta evitar a nacionalização da eleição estadual. Lula teve aqui 70,93% dos votos válidos, contra 22,86% de Alckmin.</FONT></P></p>
 <p><P><FONT face=Verdana>Mendonça disputa o governo neste segundo turno com o deputado federal Eduardo Campos (PSB), ex-ministro de Lula.</FONT></P> </p>
+{\% endraw %}

@@ -1,20 +1,21 @@
 ---
 id: 12371314
-date: "2006-09-01T06:58:00+00:00"
+date: "2006-09-01T06:58:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao Governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana><STRONG>MENDONÇA FILHO (PFL)</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>12h</STRONG>, almoço na Usina Cucaú, em Rio Formoso, com prefeitos, vereadores e lideranças da Mata Sul. </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>20h</STRONG>, reunião com lideranças de São Lourenço da Mata. Local: Clube Flamengo, na avenida Dr. Francisco Correia</FONT></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>17h</STRONG>,&nbsp;em Garanhuns, visita ao campus avançado da Universidae Federal Rural</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>19h</STRONG>, em Jurema, visita à cidade para contatos pol?ticos com lideranças locais</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>20h</STRONG>, em Lajedo,&nbsp;carreata pelas ruas centrais e com?cio</FONT></P> </p>
+{\% endraw %}

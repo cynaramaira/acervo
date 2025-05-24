@@ -1,18 +1,19 @@
 ---
 id: 12374995
-date: "2006-12-07T20:43:00+00:00"
+date: "2006-12-07T20:43:00Z"
 last_modified_at: null
 tags:
-  - decoracao-natalina
-  - recife
+  - "decoracao-natalina"
+  - "recife"
 categories:
-  - noticias
-title: "Internautas acham feia a decoração natalina do Recife"
+  - "noticias"
+title: "Internautas acham feia a decora\u00e7\u00e3o natalina do Recife"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Mas o prefeito João Paulo (PT) garantiu que os recifenses não vão se decepcionar com o \"espetáculo de luz dirigido por José Pimentel\". Disse também que o trabalho todo só vai ficar pronto amanhã.</FONT></P></p>
 <p><P><FONT face=Verdana>Bem, por enquanto, a maioria dos 263 internautas que participou da nova enquete do <STRONG>Blog do JC</STRONG> reprovou o que foi feito até aqui.</FONT></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Não tenho opinião formada&nbsp;&nbsp; 14 (5%) </FONT></P></p>
 <p><P><FONT face=Verdana>Total: 263 pessoas</FONT></P></p>
 <p><P><FONT face=Verdana>Participe, dê sua opinião na coluna ao lado! </FONT><FONT face=Verdana>Publicaremos o resultado final da enquete na segunda-feira (11).</FONT></P></FONT> </p>
+{\% endraw %}

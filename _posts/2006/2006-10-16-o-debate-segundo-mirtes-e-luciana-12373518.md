@@ -1,19 +1,20 @@
 ---
 id: 12373518
-date: "2006-10-16T23:49:00+00:00"
+date: "2006-10-16T23:49:00Z"
 last_modified_at: null
 tags:
-  - debate
-  - luciana-santos
-  - segundo-turno
+  - "debate"
+  - "luciana-santos"
+  - "segundo-turno"
 categories:
-  - noticias
+  - "noticias"
 title: "O debate segundo Mirtes e Luciana"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><I><FONT size=2></p>
 <p><P><FONT face=Verdana>\"Eduardo parece com aquele modelo antigo do pol?tico\"</FONT></P></B></I></p>
 <p><P><FONT face=Verdana>Por <B>Mirtes Cordeiro</B><BR>Secretária de Justiça do Estado e filiada ao PPS</FONT></P></p>
@@ -29,3 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>Mendonça promete mudanças, mas esquece que está há quase oito anos no governo. Se ele fala do governo Arraes, Eduardo coloca o legado de Fernando Henrique Cardoso. </FONT></P></p>
 <p><P><FONT face=Verdana>A desenvoltura de Eduardo é, sem dúvida, a melhor. Ele esteve muito bem colocado o tempo todo, tem os números do Estado. Mendonça não conseguiu deixar Eduardo sem resposta. Ele respondeu a tudo, com números, com clareza.</FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo mostrou altivez. Ele se mostra como um l?der do Nordeste. Mendonça, por sua vez, não falou para a população, mas falou como se alguém tivesse passado a lição para ele.</FONT> </P></FONT> </p>
+{\% endraw %}

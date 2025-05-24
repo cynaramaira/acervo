@@ -1,19 +1,20 @@
 ---
 id: 12373889
-date: "2006-10-28T16:01:00+00:00"
+date: "2006-10-28T16:01:00Z"
 last_modified_at: null
 tags:
-  - canto-dos-malditos-na-terra-do-nunca
-  - geraldo-alckmin
-  - para
+  - "canto-dos-malditos-na-terra-do-nunca"
+  - "geraldo-alckmin"
+  - "para"
 categories:
-  - noticias
+  - "noticias"
 title: "Para Alckmin, as codornas"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Ao longo do dia de hoje estamos republicando momentos interessantes desta campanha eleitoral. Aqui, vai mais um:</FONT></P></p>
 <p><P><FONT face=Verdana>Em 21 de agosto, fomos acompanhar uma das raras vezes em que Jarbas e Mendonça estiveram no comitê de Alckmin, no Recife. O guia eleitoral já estava no ar havia uma semana e nada de o tucano aparecer.</FONT></P></p>
 <p><P><FONT face=Verdana>Jarbas e Mendonça, na sa?da do bar do comitê, onde comeram saborosas codornas preparadas por Socorro Vasconcelos, deram explicações que ajudam a entender hoje por que Alckmin continuou, até o final do segundo turno, fora da campanha da União por Pernambuco.</FONT></P></p>
@@ -43,3 +44,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"O que é que Alckmin vai ficar mais forte entrando na campanha da gente?\"</FONT></P><B></p>
 <p><P><FONT face=Verdana>Mendonça Filho:</FONT></P></B></p>
 <p><P><FONT face=Verdana>\"Reforçando o que Jarbas disse, o histórico sempre foi esse, uma separação entre a disputa nacional e local. Isso não impede que Alckmin apareça no nosso guia\".</FONT></P> </p>
+{\% endraw %}

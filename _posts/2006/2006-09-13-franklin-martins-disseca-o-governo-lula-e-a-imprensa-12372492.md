@@ -1,19 +1,20 @@
 ---
 id: 12372492
-date: "2006-09-13T11:15:00+00:00"
+date: "2006-09-13T11:15:00Z"
 last_modified_at: null
 tags:
-  - governo
-  - imprensa
-  - lula
+  - "governo"
+  - "imprensa"
+  - "lula"
 categories:
-  - noticias
+  - "noticias"
 title: "Franklin Martins disseca o governo Lula e a imprensa"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p>Analista pol?tico dos mais respeitados no pa?s, Martins faz uma interessante avalia&ccedil;&atilde;o da hist&oacute;ria recente do Brasil, principalmente da corrup&ccedil;&atilde;o no governo Lula, em entrevista &agrave; revista Caros Amigos. Veja trechos:</p>
 <p>Da Caros Amigos</p>
 <p>Aos 14 anos ele j&aacute; se considerava comunista; s&oacute; n&atilde;o entrou para o PCB por causa do golpe militar. Escolheu a luta armada, participou do seq&uuml;estro do embaixador americano, treinou guerrilha em Cuba, caiu na clandestinidade. No fim da ditadura retomou a carreira de jornalista, chegando aos poucos &agrave;s grandes reda&ccedil;&otilde;es. Analista pol?tico consagrado, aprendeu a falar ao grande p&uacute;blico em hor&aacute;rio nobre, como comentarista do Jornal Nacional. Mas como conciliar o tom s&oacute;brio e rigoroso de suas an&aacute;lises com a cobertura da Globo do &ldquo;esc&acirc;ndalo do mensal&atilde;o???? Franklin Martins mudou de emprego e manteve as convic&ccedil;&otilde;es. Aqui, ele lan&ccedil;a luzes sobre a hist&oacute;ria recente do pa?s na pol?tica e no jornalismo.</p>
@@ -29,3 +30,4 @@ imagem: null
 <p><br />Trecho 4</p>
 <p>Jo&atilde;o de Barros - A estrat&eacute;gia do presidente de fazer compara&ccedil;&atilde;o com o governo anterior ent&atilde;o d&aacute; vantagem a ele?</p>
 <p>Evidente. Por isso ele faz. V&ecirc; se ele faz em corrup&ccedil;&atilde;o? N&atilde;o. N&atilde;o &eacute; que n&atilde;o teve, mas &eacute; que n&atilde;o &eacute; legal pra ele.</p>
+{\% endraw %}

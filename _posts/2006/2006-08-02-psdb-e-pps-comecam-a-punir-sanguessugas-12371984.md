@@ -1,17 +1,18 @@
 ---
 id: 12371984
-date: "2006-08-02T13:58:00+00:00"
+date: "2006-08-02T13:58:00Z"
 last_modified_at: null
 tags:
-  - psdb
+  - "psdb"
 categories:
-  - noticias
-title: "PSDB e PPS começam a punir sanguessugas"
+  - "noticias"
+title: "PSDB e PPS come\u00e7am a punir sanguessugas"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p>Do <strong>JC OnLine</strong><br />(<a href="http://fivenews.sjcc.com.br/&quot;https:/www.jc.com.br&quot;">www.jc.com.br</a>)</p>
 <p>Dois partidos deram in?cio nessa ter&ccedil;a-feira (1&ordm;) &agrave; puni&ccedil;&atilde;o de parlamentares de seus quadros que se envolveram com a m&aacute;fia dos sanguessugas.</p>
 <p>O PSDB abriu processo de expuls&atilde;o contra o deputado Paulo Feij&oacute; (RJ). "N&atilde;o h&aacute; d&uacute;vidas da culpa dele nesse processo", disse o presidente do PSDB, senador Tasso Jereissati (CE).</p>
@@ -21,3 +22,4 @@ imagem: null
 <p>Coment&aacute;rio meu:</p>
 <p>O PPS &eacute; aquele partido que na propaganda na TV e no r&aacute;dio, no primeiro semestre, apresentava um locutor com voz empostada, dizendo que estava limpo, n&atilde;o tinha envolvimento com o esc&acirc;ndalo do mensal&atilde;o.</p>
 <p>&nbsp;</p>
+{\% endraw %}

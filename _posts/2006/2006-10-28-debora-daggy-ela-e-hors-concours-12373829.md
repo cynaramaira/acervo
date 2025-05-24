@@ -1,17 +1,18 @@
 ---
 id: 12373829
-date: "2006-10-28T09:00:00+00:00"
+date: "2006-10-28T09:00:00Z"
 last_modified_at: null
 tags:
-  - debora-dantas
+  - "debora-dantas"
 categories:
-  - noticias
-title: "Débora Daggy: ela é hors-concours"
+  - "noticias"
+title: "D\u00e9bora Daggy: ela \u00e9 hors-concours"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p>A modelo e ex-namorada do senador eleito Jarbas Vasconcelos (PMDB) marcou intensamente as elei&ccedil;&otilde;es deste ano.</p>
 <p>Candidata a deputada estadual pelo PSB de Eduardo Campos, arquiinimigo de Jarbas, ela recebeu 418 votos.</p>
 <p>No in?cio da campanha, em 24 de julho, D&eacute;bora fez um ensaio exclusivo para o Blog e abriu o jogo sobre a pol?tica e sua rela&ccedil;&atilde;o com o ex-governador.</p>
@@ -32,3 +33,4 @@ imagem: null
 <p>O que n&atilde;o ficava bem?</p>
 <p>(Faz outra pausa)... Acho que era ruim para imagem de Jarbas.</p>
 <p>Leia mais aqui.</p>
+{\% endraw %}

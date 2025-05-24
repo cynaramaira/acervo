@@ -1,23 +1,24 @@
 ---
 id: 12372823
-date: "2006-09-25T15:57:00+00:00"
+date: "2006-09-25T15:57:00Z"
 last_modified_at: null
 tags:
-  - animais
-  - claudio-assis
-  - conjunto-muribeca
-  - humberto-costa
-  - luiz-fuz
-  - quatro-pessoas
-  - witzel-denunciado
+  - "animais"
+  - "claudio-assis"
+  - "conjunto-muribeca"
+  - "humberto-costa"
+  - "luiz-fuz"
+  - "quatro-pessoas"
+  - "witzel-denunciado"
 categories:
-  - noticias
-title: "Humberto foi denunciado junto com Delúbio, Luiz Cláudio e mais 30 pessoas"
+  - "noticias"
+title: "Humberto foi denunciado junto com Del\u00fabio, Luiz Cl\u00e1udio e mais 30 pessoas"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O procurador Gustavo Pessanha protocolou, há pouco, na 10ª Vara Federal, em Bras?lia, sua decisão de acatar o indiciamento do ex-ministro da Saúde Humberto Costa pela Pol?cia Federal na Operação Vampiro.</FONT></P></p>
 <p><P><FONT face=Verdana>\"O Humberto Costa foi denunciado hoje. Ao todo, a lista tem 33 pessoas\", informou a assessoria de Imprensa de Pessanha, a Cec?lia Ramos, repórter do <STRONG>Blog</STRONG>. </FONT></P></p>
 <p><P><FONT face=Verdana>Às 16h, o procurador federal concederá coletiva de imprensa, na Capital Federal. Aos demais jornalistas de outros estados, Pessanha afirmou que as entrevistas seriam por e-mail. E daqui há pouco publicaremos a lista completa com os 33 denunciados.</FONT></P></p>
@@ -29,3 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>As outras duas eram: </FONT></P></p>
 <p><P><FONT face=Verdana>1- Pessanha poderia concluir que os fatos eram at?picos, que não existiu crime. Da? ele pediria o arquivamento do caso. No entanto, o juiz poderia aceitar ou não o parecer de Pessanha. Também caberia recurso;</FONT></P></p>
 <p><P><FONT face=Verdana>2- Pessanha poderia concluir que os fatos colocados pela Pol?cia Federal eram insuficiantes e pedir mais informações sobre o caso. Da? ele devolveria o processo para a PF, que iria aprofundar as investigações. Se o processo voltasse para a PF também não teria prazo de conclusão.</FONT></P> </p>
+{\% endraw %}

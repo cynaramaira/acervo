@@ -1,19 +1,20 @@
 ---
 id: 12373590
-date: "2006-10-20T05:30:00+00:00"
+date: "2006-10-20T05:30:00Z"
 last_modified_at: null
 tags:
-  - ednaldo-lucena
-  - pierre-gasly
-  - resultado
+  - "ednaldo-lucena"
+  - "pierre-gasly"
+  - "resultado"
 categories:
-  - colunistas
-title: "Estratégia errada, resultado desastroso (Pierre Lucena)"
+  - "colunistas"
+title: "Estrat\u00e9gia errada, resultado desastroso (Pierre Lucena)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P align=left><FONT face=Verdana size=2>Por <B>Pierre Lucena*</B></FONT><FONT face=\"Times New Roman\" size=2><BR></FONT><FONT face=Verdana size=2>Professor e administrador <BR></FONT><A href=\"mailto:pierre.lucena@contagemweb.com.br\"><FONT face=Verdana color=#0000ff size=2>pierre.lucena@contagemweb.com.br</FONT></A></P><FONT face=Verdana size=2></p>
 <p><P align=left></P></p>
 <p><P align=left>O resultado das pesquisas no segundo turno para o Governo de Pernambuco pode ter deixado muita gente surpresa, mas basta verificar o histórico desta campanha para perceber que aconteceu o óbvio.</P></p>
@@ -51,3 +52,4 @@ imagem: null
 <p><P align=left></P><B><I></p>
 <p><P align=left>*Pierre Lucena</B>, 35, doutor em finanças pela PUC-Rio, Mestre em Economia e Administrador pela UFPE, é professor-adjunto</p>
 <p> da Universidade Federal de Pernambuco, sócio da Contagem Consultoria Estratégica e Pesquisa (</I></FONT><A href=\"https://www.contagemweb.com.br/\"><FONT face=Verdana color=#0000ff size=2>www.contagemweb.com.br</FONT></A><I><FONT face=Verdana size=2>). Foi secretário-adjunto de Educação do Estado. É Coordenador do Núcleo de Finanças e Investimentos do Departamento de Ciências Administrativas da UFPE (NEFI).</P></I></FONT> </p>
+{\% endraw %}

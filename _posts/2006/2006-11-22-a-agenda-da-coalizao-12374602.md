@@ -1,17 +1,18 @@
 ---
 id: 12374602
-date: "2006-11-22T14:27:00+00:00"
+date: "2006-11-22T14:27:00Z"
 last_modified_at: null
 tags:
-  - reagendamentos
+  - "reagendamentos"
 categories:
-  - noticias
-title: "A agenda da coalizão"
+  - "noticias"
+title: "A agenda da coaliz\u00e3o"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do <STRONG><EM><A href=\"https://www.noblat.com.br/\" target=_blank>blog</A></EM></STRONG> de Noblat</FONT></P></p>
 <p><P><FONT face=Verdana>Estes são os compromissos que Lula quer que os partidos que o apoiarem assumam no segundo mandato de seu governo:</FONT></P></p>
 <p><P><FONT face=Verdana>1 – Reforma pol?tica resultante de ampla concertação, visando garantir, no sistema pol?tico nacional, uma representação transparente e responsável para constituir bons n?veis de governabilidade;</FONT></P></p>
@@ -21,3 +22,4 @@ imagem: null
 <p><P><BR><FONT face=Verdana>5 – Consolidação das pol?ticas de transferência de renda em andamento; integração destas pol?ticas com ações de natureza educacional, técnica e superior, para abrir oportunidades de emprego ou atividade;</FONT></P></p>
 <p><P><FONT face=Verdana>6 – Fortalecimento da Federação que, além do reexame caso a caso das dificuldades fiscais dos Estados, passa pelo enfrentamento da questão de segurança pública, a ser operada com a colaboração dos três n?veis federativos;</FONT></P></p>
 <p><P><FONT face=Verdana>7 – Criação de um Conselho Pol?tico composto pelos partidos da coalizão, para acompanhamento das ações do governo.</FONT></P> </p>
+{\% endraw %}

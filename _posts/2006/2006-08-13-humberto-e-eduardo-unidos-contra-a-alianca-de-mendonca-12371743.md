@@ -1,21 +1,22 @@
 ---
 id: 12371743
-date: "2006-08-13T11:42:00+00:00"
+date: "2006-08-13T11:42:00Z"
 last_modified_at: null
 tags:
-  - contran
-  - dois-unidos
-  - eduardo
-  - humberto-costa
-  - mendonca
+  - "contran"
+  - "dois-unidos"
+  - "eduardo"
+  - "humberto-costa"
+  - "mendonca"
 categories:
-  - noticias
-title: "Humberto e Eduardo unidos contra a aliança de Mendonça"
+  - "noticias"
+title: "Humberto e Eduardo unidos contra a alian\u00e7a de Mendon\u00e7a"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT face=Verdana></p>
 <p><P><FONT face=Verdana><STRONG>No Agreste, Humberto Costa dispara contra o governo do Estado</STRONG></FONT></P></FONT></p>
 <p><P><FONT face=Verdana>Por <STRONG>Pedro Romero</STRONG><BR>Correspondente do JC</FONT></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Por <STRONG>Jamildo Melo</STRONG><BR>Repórter especial do JC</FONT></P></p>
 <p><P><FONT face=Verdana>O candidato do PSB ao governo do Estado, Eduardo Campos, disse ontem, em discurso no Sindicato dos Trabalhadores Rurais de Ipojuca, que a cidade era um s?mbolo da injustiça que reina no Estado, sob o governo da aliança jarbista. </FONT></P></p>
 <p><P><FONT face=Verdana>“Precisamos de um governo que não pense apenas em desenvolvimento, mas também no (bem-estar do) povo. Aqui, todos defendem Suape, a chegada de novas indústrias, mas esse desenvolvimento deve entrar na vida dos trabalhadores. No entanto, o que se vê é a juventude sem oportunidades de trabalho. O jovem local não tem vez. Se for assim, a gente não faz justiça social???, protestou, numa cr?tica ao discurso do desenvolvimento adotado pelo governador-candidato Mendonça Filho (PFL). “O governo estadual tem que ter senso de equil?brio, atendendo ao povo sofrido e esmagado com as injustiças sociais.???</FONT></P> </p>
+{\% endraw %}

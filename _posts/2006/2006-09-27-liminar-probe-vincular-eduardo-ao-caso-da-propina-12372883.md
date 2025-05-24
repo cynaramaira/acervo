@@ -1,20 +1,21 @@
 ---
 id: 12372883
-date: "2006-09-27T07:42:00+00:00"
+date: "2006-09-27T07:42:00Z"
 last_modified_at: null
 tags:
-  - casos
-  - eduardo
-  - liminar
-  - propina
+  - "casos"
+  - "eduardo"
+  - "liminar"
+  - "propina"
 categories:
-  - noticias
+  - "noticias"
 title: "Liminar pro?be vincular Eduardo ao caso da propina"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>O desembargador Marco Maggi, do Tribunal Regional Eleitoral, proibiu ontem, em sede de liminar, que a União por Pernambuco vincule, em sua propaganda de rádio e TV proporcional ou majoritária, a imagem do candidato ao governo Eduardo Campos (PSB) ao chamado “escândalo da sacolinha???. A decisão atendeu a um pedido protocolado ontem mesmo pela Frente Popular de Pernambuco, que apóia o socialista. </FONT></P></p>
 <p><P><FONT face=Verdana>(...)</FONT></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>MPE decide investigar “todos???. Inclusive Saulo</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>O ex-militante estudantil Saulo Batista, autor da denúncia de tentativa de desvio de verbas públicas para financiamento de campanhas, feitas contra o presidente licenciado do PSB, Milton Coelho, sua esposa Simone Coelho e mais dois dirigentes socialistas, prestou depoimento ontem no Ministério Público Eleitoral (MPE) e confirmou as acusações. Mas, ao contrário do que havia prometido, ele entregou apenas duas gravações de conversas que teria tido com os acusados, num total de 90 minutos. As mesmas que havia fornecido à imprensa. As outras oito horas e meia de gravações que Batista disse ter em seu poder não foram apresentadas. Segundo informou o procurador-regional eleitoral, Fernando Araújo, no seu depoimento o ex-militante citou várias pessoas, e todas serão investigadas, inclusive o autor das denúncias.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/09/27/not_202474.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P> </p>
+{\% endraw %}

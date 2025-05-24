@@ -1,20 +1,21 @@
 ---
 id: 12373725
-date: "2006-10-23T19:21:00+00:00"
+date: "2006-10-23T19:21:00Z"
 last_modified_at: null
 tags:
-  - animais
-  - espaco
-  - governo
-  - lula
+  - "animais"
+  - "espaco"
+  - "governo"
+  - "lula"
 categories:
-  - noticias
-title: "PSB quer mais espaço em um novo governo Lula"
+  - "noticias"
+title: "PSB quer mais espa\u00e7o em um novo governo Lula"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>L?der do governo na Câmara, o deputado federal Beto Albuquerque, do PSB do Rio Grande do Sul, defendeu hoje em Pernambuco que o partido ocupe mais espaço e tenha maior participação nas decisões fundamentais de um eventual segundo governo Lula.</FONT></P></p>
 <p><P><FONT face=Verdana>Albuquerque está em Pernambuco para ajudar na reta final da campanha de Eduardo Campos, presidente nacional licenciado do partido.</FONT></P></p>
 <p><P><FONT face=Verdana>O PSB saiu fortalecido das urnas e pode ganhar ainda mais musculatura pol?tica neste segundo turno. No primeiro, elegeu 27 deputados federais (cinco mais que em 2002) e um senador (agora serão três na bancada). Obteve 6,13% dos votos nacionais para deputado federal. Em 2002, recebeu 5,4%.</FONT></P></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>O deputado, porém, faz questão de frisar que os socialistas querem, sim, \"ter um protagonismo maior\" no governo federal, caso o petista seja reeleito. \"Queremos participar do núcleo mais pensante do governo, ajudar o governo. Não será fácil o segundo mandato. Vamos ter gente interessada em complicar as coisas desde o in?cio até o fim\", ressalta.</FONT></P></p>
 <p><P><FONT face=Verdana>Hoje, o PSB comanda os ministérios da Ciência e Tecnologia e da Integração Nacional.</FONT></P></p>
 <p><P><FONT face=Verdana>O deputado gaúcho, reeleito com a quinta maior votação do Rio Grande do Sul, vai para seu terceiro mandato na Câmara. Ele já cumpriu dois de deputado estadual. Em Pernambuco, participou hoje de um ato público em favor de Eduardo, junto com lideranças comunitárias. Amanhã, vai a Caruaru e Gravatá com o candidato ao governo de Pernambuco.</FONT></P> </p>
+{\% endraw %}

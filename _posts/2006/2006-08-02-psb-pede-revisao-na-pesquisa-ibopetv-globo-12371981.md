@@ -1,19 +1,20 @@
 ---
 id: 12371981
-date: "2006-08-02T15:30:00+00:00"
+date: "2006-08-02T15:30:00Z"
 last_modified_at: null
 tags:
-  - globo
-  - pesquisa
-  - previsao
+  - "globo"
+  - "pesquisa"
+  - "previsao"
 categories:
-  - noticias
-title: "PSB pede revisão na pesquisa Ibope/TV Globo"
+  - "noticias"
+title: "PSB pede revis\u00e3o na pesquisa Ibope/TV Globo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O presidente estadual do PSB, Milton Coelho, mandou hoje uma carta à diretora do Ibope Opinião, Márcia Cavallari, em São Paulo, protestando contra os números da primeira pesquisa do instituto sobre a disputa pelo governo de Pernambuco, divulgados ontem pela TV Globo. (Veja <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/01/index.php#430\" target=_blank>aqui</A></EM></STRONG> os resultados e <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/01/index.php#434\" target=_blank>aqui</A></EM></STRONG> o que disse Milton Coelho ontem)</FONT></P></p>
 <p><P><FONT face=Verdana>Na carta, Coelho usa um tom mais suave do que o adotado ontem, quando os socialistas ficaram indignados com os resultados mostrando Eduardo Campos com 10 pontos percentuais menos que Humberto Costa (PT).</FONT></P></p>
 <p><P><FONT face=Verdana>Coelho sugere que o Ibope errou ao apresentar o candidato dele apenas como Eduardo e não como Eduardo Campos. E&nbsp;sugere uma nova pesquisa.</FONT></P></p>
@@ -32,3 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>Certos de que a solicitação feita pela presente será devidamente considerada, despedimo-nos. </FONT></P></p>
 <p><P><FONT face=Verdana>Atenciosamente, </FONT></P></p>
 <p><P><FONT face=Verdana>MILTON COELHO<BR>PARTIDO SOCIALISTA BRASILEIRO / PSB <BR>Presidente Diretório Estadual de Pernambuco</FONT></P> </p>
+{\% endraw %}

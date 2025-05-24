@@ -1,20 +1,21 @@
 ---
 id: 12374261
-date: "2006-11-08T12:56:00+00:00"
+date: "2006-11-08T12:56:00Z"
 last_modified_at: null
 tags:
-  - caixa
-  - compesa
-  - doacoes
-  - eduardo
+  - "caixa"
+  - "compesa"
+  - "doacoes"
+  - "eduardo"
 categories:
-  - noticias
-title: "Eduardo joga na pol?tica para fazer com que a Caixa receba ações da Compesa"
+  - "noticias"
+title: "Eduardo joga na pol?tica para fazer com que a Caixa receba a\u00e7\u00f5es da Compesa"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por diversas vezes na manhã de hoje, o vice-governador eleito de Pernambuco, João Lyra Neto (PDT), usou o termo \"pol?tica\" para se referir ao conflito jur?dico entre o Estado e a Caixa Econômica em torno da venda antecipada de ações da Companhia Pernambucana de Saneamento.</FONT></P></p>
 <p><P><FONT face=Verdana>\"Nós vamos encontrar uma sa?da pol?tica para negociar a questão com a Caixa\", disse ele, numa dessas vezes, logo depois da primeira reunião de transição com a equipe do governador em exerc?cio Mendonça Filho (PFL), no Palácio do Campo das Princesas, no Recife.</FONT></P></p>
 <p><P><FONT face=Verdana>O governador eleito Eduardo Campos (PSB) quer dar à Compesa um papel de destaque em sua administração. Pretende investir pesado no abastecimento d’água para transformá-lo numa de suas principais marcas de gestão.</FONT></P></p>
@@ -32,3 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>Primeiro, consumiria recursos que poderiam ser destinados a novas obras. Segundo, reduziria ainda mais a capacidade de endividamento do Estado.</FONT></P></p>
 <p><P><FONT face=Verdana>Mas a sa?da para o problema – caso o banco rejeite de qualquer maneira o recebimento das ações – poderá ser transformar o valor numa nova d?vida com prazo longo.</FONT></P></p>
 <p><P><FONT face=Verdana>\"O que não queremos é que essa questão continue sendo tratada na Justiça. Isso pode levar tempo demais\", acrescentou João Lyra Neto, em conversa com o <STRONG>Blog</STRONG>.</FONT></P> </p>
+{\% endraw %}

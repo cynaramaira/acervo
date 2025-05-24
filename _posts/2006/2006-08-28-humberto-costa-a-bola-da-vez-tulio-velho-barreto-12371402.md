@@ -1,19 +1,20 @@
 ---
 id: 12371402
-date: "2006-08-28T15:58:00+00:00"
+date: "2006-08-28T15:58:00Z"
 last_modified_at: null
 tags:
-  - anne-barreto
-  - humberto-costa
-  - quilombolas
+  - "anne-barreto"
+  - "humberto-costa"
+  - "quilombolas"
 categories:
-  - colunistas
-title: "Humberto Costa: a bola da vez (Túlio Velho Barreto)"
+  - "colunistas"
+title: "Humberto Costa: a bola da vez (T\u00falio Velho Barreto)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Túlio Velho Barreto*</STRONG><BR></FONT><FONT face=Verdana>Cientista pol?tico e pesquisador da Fundaj<BR></FONT><A href=\"mailto:tulio@fundaj.gov.br\">tulio@fundaj.gov.br</A></P><FONT face=\"Courier New\"></p>
 <p><P><FONT face=Verdana></FONT></P></p>
 <p><P><FONT face=Verdana>Em pol?tica, nada (ou quase nada) ocorre por mero caso. Em todas (ou em quase todas) as disputa pol?tica – por exemplo, as eleitorais - os atores agem em busca de seus próprios objetivos. Para tanto, levam em consideração o que imaginam que estão pensando os seus adversários e como eles reagirão a cada iniciativa sua. E mais: sabem que estes fazem o mesmo, o tempo todo. Por isso, em geral, todos são ego?stas (pensam mais em si e em seus interesses pessoais ou partidários). E, raramente, são altru?stas (entendido aqui no sentido oposto ao indicado entre os parênteses anteriores). De forma bastante simplificada, isto é o que chamamos de \"racionalidade pol?tica\", inerente aos assim denominados \"atores pol?ticos\" – pelo menos, por aqueles que utilizam o aparato teórico da Escolha Racional para compreender e explicar as opções e ações dos atores pol?ticos quando envolvidos em disputas diversas.</FONT></P></p>
@@ -33,3 +34,4 @@ imagem: null
 <p><P><FONT face=Verdana></FONT></P></p>
 <p><P><FONT face=Verdana>Se alguém pensava ou esperava que isso não fosse acontecer foi politicamente ingênuo, ainda que racional. E não levou em consideração a recorrência de fatos semelhantes na história pol?tica pernambucana. Por exemplo, não levaram em consideração como se deu a disputa estadual em 1998, quando os seus adversários, isto é, a União por Pernambuco, chegou ao poder derrotando Miguel Arraes em 1998. Refiro-me ao chamado \"caso dos precatórios\", que, aliás, poderá voltar ao centro do debate, ainda este ano, se (e quando) Eduardo Campos se tornar \"a bola da vez\".</FONT></P></p>
 <p><P><EM><FONT face=Verdana>*Cientista pol?tico e pesquisador da Fundação Joaquim Nabuco, <STRONG>Túlio Velho Barreto</STRONG>, 48, é um dos autores dos livros Democracia e Instituições Pol?ticas Brasileiras no final do Século XX (MCP-UFPE/Bagaço, 1998) e Nordeste 2004 - O Voto das Capitais (Fundação Konrad Adenauer, 2005). Co-organizou e participou dos livros Na Trilha do Golpe - 1964 revisitado (Editora Massangana, 2004) e A Nova República - Visões da redemocratização (Cepe/JC, 2006), que resultaram de séries especiais publicadas pelo Jornal do Commercio em parceria com a Fundação Joaquim Nabuco.</FONT></EM></P></FONT> </p>
+{\% endraw %}

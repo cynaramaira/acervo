@@ -1,17 +1,18 @@
 ---
 id: 12371650
-date: "2006-08-16T19:31:00+00:00"
+date: "2006-08-16T19:31:00Z"
 last_modified_at: null
 tags:
-  - paulo-freire
+  - "paulo-freire"
 categories:
-  - noticias
-title: "Freire: Vinculação é irrelevante"
+  - "noticias"
+title: "Freire: Vincula\u00e7\u00e3o \u00e9 irrelevante"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Presidente nacional do PPS, o deputado Roberto Freire,&nbsp;diz que é \"irrelevante\" a vinculação entre o governador-candidato Mendonça Filho (PFL)&nbsp;e o&nbsp;presidenciável Geraldo Alckmin (PSDB), no programa eleitoral. </FONT></P></p>
 <p><P><FONT face=Verdana>\"Quando ele (o pefelista) julgar interessante fazer (a vinculação), ele faz. Mendonça é quem vai fazer a campanha dele. Não temos preocupação com isso, não\", disse o deputado, que é o primeiro suplente do candidato ao Senado, Jarbas Vasconcelos (PMDB).</FONT></P></p>
@@ -33,3 +34,4 @@ imagem: null
 <p><P><FONT face=Verdana>Como está seu engajamento na campanha de Alckmin?</FONT></B><FONT face=Verdana> </FONT></P></p>
 <p><P><FONT face=Verdana>Eu tenho acompanhado algumas agendas dele. Amanhã, inclusive, estou indo para o Paraná com ele. Eu chegou ao Recife no sábado. Alckmin vai voltar (ao Recife) em breve, mas a agenda não está definida. Não tenho previsão.</FONT></P></p>
 <p><P><FONT face=Verdana></FONT>&nbsp;</P></FONT> </p>
+{\% endraw %}

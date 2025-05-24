@@ -1,18 +1,19 @@
 ---
 id: 12374070
-date: "2006-10-31T18:25:00+00:00"
+date: "2006-10-31T18:25:00Z"
 last_modified_at: null
 tags:
-  - prefeitura
-  - recife
+  - "prefeitura"
+  - "recife"
 categories:
-  - noticias
+  - "noticias"
 title: "Disputa pela Prefeitura do Recife"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>A eleição para governador ainda está sendo ruminada, mas já é poss?vel fazer contas sobre a sucessão municipal no Recife. Vamos comparar alguns números de 2004 e de agora para que tenhamos uma idéia do que vem por a? em 2008.</FONT></P></p>
 <p><P><FONT face=Verdana>Na disputa de 2004, quando João Paulo (PT) venceu Carlos Eduardo Cadoca (PMDB) ainda no primeiro turno, os resultados foram os seguintes:</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>João Paulo</STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 458.846 votos (56,11% do total)</FONT></P></p>
@@ -42,3 +43,4 @@ imagem: null
 <p><P><FONT face=Verdana><BR><STRONG>Número 9: Perseverança<BR></STRONG></FONT><FONT face=Verdana><BR>Você possui a tolerância e perseverança para compreender as pessoas e situações. Suas realizações estarão ligadas à capacidade de não desistir frente aos obstáculos (<STRONG><EM>o indiciamento?</EM></STRONG>) e encontrar soluções criativas e originais para os problemas. É independente e leal, sempre pronto a lutar pelo que acredita e ajudar os que precisam. Bastante talentoso, deve aprender a aceitar o modo de vida e opiniões das outras pessoas, sem exigir a perfeição dos que o cercam. Cuidado para não se tornar ego?sta, avarento, e se fechar ao mundo por conta de timidez e falta de confiança em si mesmo. </FONT></P></p>
 <p><P><FONT face=Verdana><BR><STRONG>Eduardo Henrique Accioly Campos<BR></STRONG>(nascimento: 10/08/1965)</FONT></P></p>
 <p><P><FONT face=\"Times New Roman\"><FONT face=Verdana><BR><STRONG>Número 3: Amigável<BR></STRONG></FONT><FONT face=Verdana><BR>Você tem um dom especial para as artes, gosta de apreciar a beleza e encontra em atividades art?sticas um terreno fértil para expressar suas idéias e sentimentos. O número 3 é amigo e companheiro, tem sempre uma palavra gentil para consolar um coração partido. Entretanto, gosta de fofocas e de criticar a atitude dos outros. Possui a tendência a acreditar que sabe mais do que os outros, colocando-se acima das cr?ticas e julgando as pessoas com facilidade. É bastante criativo e intuitivo, sai-se bem em atividades que requeiram inteligência rápida. A rapidez é outra de suas caracter?sticas, e pode perder a paciência facilmente. (<EM><STRONG>Sem comentários</STRONG></EM>).</FONT></P></FONT> </p>
+{\% endraw %}

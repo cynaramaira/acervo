@@ -1,19 +1,20 @@
 ---
 id: 12374374
-date: "2006-11-13T17:02:00+00:00"
+date: "2006-11-13T17:02:00Z"
 last_modified_at: null
 tags:
-  - adilson-ramos
-  - clima
-  - esquema-criminoso
+  - "adilson-ramos"
+  - "clima"
+  - "esquema-criminoso"
 categories:
-  - opiniao
-title: "Dilson: Clima de disputa no PT começou com quem antecipou 2008"
+  - "opiniao"
+title: "Dilson: Clima de disputa no PT come\u00e7ou com quem antecipou 2008"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Sem citar nomes, o presidente estadual do PT, Dilson Peixoto, atribuiu ao prefeito do Recife, João Paulo, o atual clima de disputa dentro do partido. </FONT></P></p>
 <p><P><FONT face=Verdana>Para o vereador - candidato derrotado do PT a uma vaga na Assembléia -,&nbsp;tudo começou quando \"alguém\" resolveu individualmente antecipar a sucessão estadual de&nbsp;2008. </FONT></P></p>
 <p><P><FONT face=Verdana>Em conversa com Cec?lia Ramos, repórter do <STRONG>Blog</STRONG>, o petista garantiu que vai trabalhar \"dia e noite para desconstruir esse ambiente\". </FONT></P><B></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>Que nomes você defende para a disputar a Prefeitura do Recife?</FONT></B><FONT face=Verdana> <BR>Rands (deputado federal Maur?cio Rands), Cali (Carlos Wilson), Humberto (Costa). E fora do PT tem uma força pol?tica que tem que ser respeitada, que é Luciano Siqueira, do PCdoB, pelo desempenho dele como vice e como candidato ao senado. E o próprio João da Costa é um nome.</FONT></P><B></p>
 <p><P><FONT face=Verdana>Você está na presidência do PT até 2008, seu nome também não é cotado?</FONT></B><BR><FONT face=Verdana>Não sei. Isso é um assunto (escolha de nomes) que o partido terá que discutir. É uma escolha do grupo.</FONT></P><B></p>
 <p><P><FONT face=Verdana>Seu nome é cotado para a Secretaria de Desenvolvimento Urbano de Eduardo Campos (PSB). Existe algum entendimento dentro do partido sobre a formação do secretariado do próximo governo? </FONT></B><BR><FONT face=Verdana>Não existe nada nesse sentido. Não cabe ao PT interferir ou pressionar o governador eleito sobre a formação do secretariado. É um assunto inteiramente de Eduardo.</FONT></P> </p>
+{\% endraw %}

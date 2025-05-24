@@ -1,17 +1,18 @@
 ---
 id: 12372665
-date: "2006-09-19T19:28:00+00:00"
+date: "2006-09-19T19:28:00Z"
 last_modified_at: null
 tags:
-  - sem-tags
+  - "sem-tags"
 categories:
-  - noticias
-title: "Berzoini confirma que sabia da atuação de Bargas"
+  - "noticias"
+title: "Berzoini confirma que sabia da atua\u00e7\u00e3o de Bargas"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Blog do Noblat</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Ricardo Berzoini acaba de confirmar que sabia que um integrante da campanha, Oswaldo Bargas, teve contato com a revista Época para \"tratar de uma pauta de interesse jornal?stico\".</FONT></P></p>
 <p><P><FONT face=Verdana>Mas informa em nota que não sabia do conteúdo desse material. </FONT></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>Nota do <STRONG>Blog do JC</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>No final da tarde de hoje, Berzoini desistiu de conceder&nbsp;entrevista coletiva, em Bras?lia,&nbsp;que ele mesmo havia convocado. Optou por distribuir&nbsp;a nota acima.&nbsp;</FONT></P></p>
 <p><P><FONT face=Verdana>A explicação do presidente do PT, segundo informou o Blog do Noblat: ele n</FONT><FONT face=Verdana>ão queria ser provocado por perguntas incômodas. </FONT></P> </p>
+{\% endraw %}

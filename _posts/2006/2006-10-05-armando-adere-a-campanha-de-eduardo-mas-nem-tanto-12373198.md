@@ -1,19 +1,20 @@
 ---
 id: 12373198
-date: "2006-10-05T19:14:00+00:00"
+date: "2006-10-05T19:14:00Z"
 last_modified_at: null
 tags:
-  - armando-monteiro
-  - campanha
-  - eduardo
+  - "armando-monteiro"
+  - "campanha"
+  - "eduardo"
 categories:
-  - noticias
-title: "Armando adere à campanha de Eduardo, mas nem tanto..."
+  - "noticias"
+title: "Armando adere \u00e0 campanha de Eduardo, mas nem tanto..."
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>A participação do deputado federal mais votado de Pernambuco, Armando Monteiro Neto (PTB), na campanha do candidato do PSB ao Governo, Eduardo Campos, deverá ser m?nima. </FONT></P></p>
 <p><P><FONT face=Verdana>Ele reassume a presidência da Confederação Nacional da Indústria (CNI) segunda-feira. </FONT></P></p>
@@ -30,3 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>Caso deixe o PTB, o PMDB seria uma opção?</FONT></P></B></p>
 <p><P><FONT face=Verdana>Eu ainda não analisei essa questão. Pesará na minha decisão vários fatores. Tem a cláusula de barreira, essa questão nacional do PTB também (Jefferson), mas sobretudo eu valorizo e priorizo a conversa com o meu grupo. </FONT></P></p>
 <p><P></FONT><FONT face=Verdana color=crimson>O BLOG TEM NOVO ENDEREÇO: </FONT><A href=\"https://www.jc.com.br/blogdojc\"><U><FONT face=Verdana color=crimson>www.jc.com.br/blogdojc</FONT></U></A></P> </p>
+{\% endraw %}

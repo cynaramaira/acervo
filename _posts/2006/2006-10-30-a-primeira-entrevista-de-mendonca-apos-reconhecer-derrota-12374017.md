@@ -1,20 +1,21 @@
 ---
 id: 12374017
-date: "2006-10-30T06:16:00+00:00"
+date: "2006-10-30T06:16:00Z"
 last_modified_at: null
 tags:
-  - apostas
-  - entrevista
-  - mendonca
-  - primeira-etapa
+  - "apostas"
+  - "entrevista"
+  - "mendonca"
+  - "primeira-etapa"
 categories:
-  - noticias
-title: "A primeira entrevista de Mendonça, após reconhecer derrota"
+  - "noticias"
+title: "A primeira entrevista de Mendon\u00e7a, ap\u00f3s reconhecer derrota"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial\"><FONT face=Verdana><FONT size=2></p>
 <p><P>Veja, em tópicos, o que Mendonça Filho (PFL) disse na entrevista coletiva que ele concedeu domingo, no comitê central, no bairro da Jaqueira,&nbsp;Recife, após reconhecer a vitória de Eduardo Campos (PSB).</P></FONT></FONT></SPAN></p>
 <p><P><B><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial\"><FONT face=Verdana>Reconhecimento<BR></FONT></SPAN></B><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial\"><FONT face=Verdana>Tomei a iniciativa de ligar ao deputado Eduardo Campos para cumprimentá-lo pela vitória. desejei êxito ao seu governo, desejei que possa cumprir o programa de governo prometido à população de Pernambuco.</FONT></SPAN></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><B><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial\"><FONT face=Verdana>Transição<BR></FONT></SPAN></B><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial\"><FONT face=Verdana>Não tenho nomes para a transição. Será um processo pactuado com a equipe do governador eleito Eduardo Campos, primando pela transparência e pela responsabilidade. Entrei no Palácio pela porta da frente e sairei pela porta da frente (aplausos).</FONT></SPAN></P></p>
 <p><P><B><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial\"><FONT face=Verdana>O futuro<BR></FONT></SPAN></B><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial\"><FONT face=Verdana>Meu futuro vou analisar da forma mais imediata poss?vel, que é cumprir meu mandato até 31 de dezembro. Sou governador até lá e cumprirei essa responsabilidade. O futuro pol?tico não vou discutir neste instante.</FONT></SPAN></P></p>
 <p><P><B><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial\"><FONT face=Verdana>O PFL<BR></FONT></SPAN></B><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Arial\"><FONT face=Verdana>Quem tem maturidade pol?tica não analisa o resultado de uma eleição de forma isolada. Pol?tica é ciclo, é processo. Não há como olhar uma fotografia pol?tica a partir de um determinado momento. Não podemos, inclusive, analisar o contexto do PFL, em Pernambuco de forma isolada, até porque o partido compõe desde 94 uma frente ampla. Só tive um lado na minha vida pública, sempre tive uma posição de clareza e de lado pol?tico. Meu lado será sempre o da aliança, o dos personagens que estão aqui (aplausos).</FONT></SPAN></P> </p>
+{\% endraw %}

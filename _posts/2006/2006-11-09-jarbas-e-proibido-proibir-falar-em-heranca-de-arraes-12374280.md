@@ -1,19 +1,20 @@
 ---
 id: 12374280
-date: "2006-11-09T09:08:00+00:00"
+date: "2006-11-09T09:08:00Z"
 last_modified_at: null
 tags:
-  - ana-arraes
-  - heranca
-  - jarbas-vasconcelos
+  - "ana-arraes"
+  - "heranca"
+  - "jarbas-vasconcelos"
 categories:
-  - noticias
-title: "Jarbas: é proibido proibir falar em herança de Arraes"
+  - "noticias"
+title: "Jarbas: \u00e9 proibido proibir falar em heran\u00e7a de Arraes"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p>Jarbas Vasconcelos (PMDB), senador eleito, n&atilde;o est&aacute; nada, nada satisfeito com a pol&ecirc;mica aberta depois que o coordenador da equipe de transi&ccedil;&atilde;o do governador Mendon&ccedil;a Filho (PFL), o secret&aacute;rio Cl&aacute;udio Marinho, disse que Eduardo Campos (PSB) vai encontrar um governo equilibrado e saneado, completamente diferente daquele deixado por Miguel Arraes, em 1998.</p>
 <p>A declara&ccedil;&atilde;o de Marinho criou ru?dos na transi&ccedil;&atilde;o por ter reavivado o principal mote da campanha de Mendon&ccedil;a contra Eduardo, governador eleito.</p>
 <p>Agora h&aacute; pouco, em entrevista a Geraldo Freire, na R&aacute;dio Jornal, Jarbas disse que &eacute; natural falar na heran&ccedil;a de Arraes e mostrar que o Estado agora &eacute; outro. O senador eleito passou os &uacute;ltimos dias descansando em Portugal, onde mant&eacute;m um porto de tranq&uuml;ilidade:</p>
@@ -29,3 +30,4 @@ imagem: null
 <p>&ldquo;O que eu vi ontem com rela&ccedil;&atilde;o &agrave; figura excepcional como &eacute; a do doutor Cl&aacute;udio Marinho, n&atilde;o pega bem, pega mal???</p>
 <p>A quest&atilde;o n&atilde;o &eacute; de compara&ccedil;&atilde;o</p>
 <p>&ldquo;N&atilde;o &eacute; quest&atilde;o de compara&ccedil;&atilde;o, at&eacute; porque n&atilde;o adianta mais, por uma quest&atilde;o de intelig&ecirc;ncia, de absoluta racionalidade, n&atilde;o adianta estar resgatando tema da campanha eleitoral. Houve a elei&ccedil;&atilde;o, houve um vencedor e houve os perdedores. Dentre esses perdedores, a Uni&atilde;o por Pernambuco, onde eu me incluo como perdedor. Ent&atilde;o n&atilde;o adianta estar resgatando temas da campanha eleitoral. Agora dizer que o estado em que n&oacute;s encontramos Pernambuco era um estado de dificuldade, de dificuldade financeira, de total e completo desajuste da m&aacute;quina, n&oacute;s n&atilde;o estamos inventando, n&atilde;o estamos mentindo, n&atilde;o estamos criando uma situa&ccedil;&atilde;o. Dizer que vamos entregar o Estado com as contas ajustadas &eacute; perfeitamente natural e normal. Isso n&atilde;o pode ser levado, de forma prim&aacute;ria, de forma errada, como um resgate do passado???</p>
+{\% endraw %}

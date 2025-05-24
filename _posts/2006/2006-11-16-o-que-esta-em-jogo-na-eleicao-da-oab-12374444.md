@@ -1,18 +1,19 @@
 ---
 id: 12374444
-date: "2006-11-16T10:36:00+00:00"
+date: "2006-11-16T10:36:00Z"
 last_modified_at: null
 tags:
-  - eleicao
-  - esta
+  - "eleicao"
+  - "esta"
 categories:
-  - noticias
-title: "O que está em jogo na eleição da OAB"
+  - "noticias"
+title: "O que est\u00e1 em jogo na elei\u00e7\u00e3o da OAB"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Projeção pol?tica, influência no Poder Judiciário e numa categoria que reúne, em Pernambuco, cerca de 15 mil profissionais (cerca de 10 mil aptos a votar).</FONT></P></p>
 <p><P><FONT face=Verdana>Não são outras as razões para que tenhamos hoje no Estado uma eleição tão acirrada pela presidência local da Ordem dos Advogados do Brasil.</FONT></P></p>
 <p><P><FONT face=Verdana>Em Pernambuco, dois grupos fortes estão concorrendo. </FONT></P></p>
@@ -29,3 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>Veja <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/11/15/index.php#3353\" target=_blank>aqui</A></EM></STRONG> os resultados da última pesquisa de intenção de voto realizada</p>
 <p> pela Contagem Consultoria.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/11/16/index.php#3380\" target=_blank>aqui</A></EM></STRONG> também uma análise dos números.</FONT></P> </p>
+{\% endraw %}

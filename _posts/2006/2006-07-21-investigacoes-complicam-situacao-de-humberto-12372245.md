@@ -1,18 +1,19 @@
 ---
 id: 12372245
-date: "2006-07-21T10:04:00+00:00"
+date: "2006-07-21T10:04:00Z"
 last_modified_at: null
 tags:
-  - humberto-costa
-  - investigacoes
+  - "humberto-costa"
+  - "investigacoes"
 categories:
-  - noticias
-title: "Investigações complicam situação de Humberto"
+  - "noticias"
+title: "Investiga\u00e7\u00f5es complicam situa\u00e7\u00e3o de Humberto"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>(Do Jornal do Commercio, com Agência Estado)</FONT></P></p>
 <p><P><FONT face=Verdana></FONT><FONT size=2><FONT size=1><FONT size=2></p>
 <p><DIV id=corpo style=\"FONT-SIZE: 90%\"><FONT face=Verdana><I>Luiz Vedoin, da Planam, disse que teria pago, em 2003, despesas de assessor do então ministro Humberto Costa, no valor de R$ 22 mil</B></I></I><BR><BR></FONT><I></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Os documentos e comprovantes apresentados por Vedoin em seu depoimento ainda precisam ser checados em investigações pela Pol?cia Federal e pela CPI das Sanguessugas,</p>
 <p> que recebeu a documentação da Justiça na última semana.</B></I> </FONT></P></DIV></FONT></p>
 <p><P><FONT face=Verdana></FONT></P></FONT></FONT> </p>
+{\% endraw %}

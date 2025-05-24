@@ -1,18 +1,19 @@
 ---
 id: 12371848
-date: "2006-08-08T20:28:00+00:00"
+date: "2006-08-08T20:28:00Z"
 last_modified_at: null
 tags:
-  - lula
-  - saturno
+  - "lula"
+  - "saturno"
 categories:
-  - noticias
-title: "Lula cresce e ainda vence no 1º turno"
+  - "noticias"
+title: "Lula cresce e ainda vence no 1\u00ba turno"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Lula aumentou a vantagem sobre Alckmin. Veja os números divulgados agora no Jornal Nacional:</FONT></P></p>
 <p><P><FONT face=Verdana>(em %)</FONT></P></p>
 <p><P><FONT face=Verdana>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; jun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; jul&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; agora</FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>2º turno</FONT></P></p>
 <p><P><FONT face=Verdana>Lula&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;51&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 54</FONT></P></p>
 <p><P><FONT face=Verdana>Alckmin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;40&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 40&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;37</FONT></P> </p>
+{\% endraw %}

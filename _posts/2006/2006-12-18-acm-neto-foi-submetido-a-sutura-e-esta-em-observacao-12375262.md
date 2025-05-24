@@ -1,19 +1,20 @@
 ---
 id: 12375262
-date: "2006-12-18T17:29:00+00:00"
+date: "2006-12-18T17:29:00Z"
 last_modified_at: null
 tags:
-  - acm-neto
-  - esta
-  - observacao
+  - "acm-neto"
+  - "esta"
+  - "observacao"
 categories:
-  - noticias
-title: "ACM Neto foi submetido à sutura e está em observação"
+  - "noticias"
+title: "ACM Neto foi submetido \u00e0 sutura e est\u00e1 em observa\u00e7\u00e3o"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><DIV class=txt id=mudaFonte></p>
 <p><P><FONT face=Verdana>Do portal G1</FONT></P></p>
 <p><P><FONT face=Verdana>O Hospital da Bahia divulgou no final da tarde desta segunda (18) o seguinte boletim médico a respeito do estado de saúde do deputado Antonio Carlos Magalhães Neto, v?tima de&nbsp;agressão&nbsp;a faca em Salvador:</FONT></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>Foi conduzido ao Centro Cirúrgico onde foram realizadas inspeção e sutura da lesão, pela equipe do Dr. Izio Kowes.</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>No momento, encontra-se em observação na unidade de internação do Hospital da Bahia, lúcido e orientado, evoluindo com estabilidade dos parâmetros cl?nicos hemodinâmicos e respiratório.</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>Dr. Jadelson Andrade<BR>CRM BA 4636<BR>Diretoria Médica<BR>Superintendência\"</EM></FONT></P></DIV> </p>
+{\% endraw %}

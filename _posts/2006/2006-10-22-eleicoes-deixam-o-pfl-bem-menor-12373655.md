@@ -1,17 +1,18 @@
 ---
 id: 12373655
-date: "2006-10-22T04:20:00+00:00"
+date: "2006-10-22T04:20:00Z"
 last_modified_at: null
 tags:
-  - eleicoes
+  - "eleicoes"
 categories:
-  - noticias
-title: "Eleições deixam o PFL bem menor"
+  - "noticias"
+title: "Elei\u00e7\u00f5es deixam o PFL bem menor"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG><EM>Inaldo Sampaio</EM></STRONG><BR>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>Apesar de ter conseguido manter na Câmara</p>
 <p> praticamente o mesmo número de deputados federais da atual legislatura (tinha 65 parlamentares e conseguiu eleger 66), o Partido da Frente Liberal, sucedâneo da Arena e do PDS, que deram sustentação ao regime militar, teve a sua pior performance eleitoral dos últimos 15 anos em Pernambuco. </FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>Na eleição para os governos estaduais, o seu desempenho também foi med?ocre. Elegeu apenas um governador no primeiro turno (José Roberto Arruda, do Distrito Federal) e está no segundo com apenas dois representantes: Mendonça Filho (PE) e Roseana Sarney (MA). </FONT></P></p>
 <p><P><FONT face=Verdana>Ambos estão em desvantagem nas pesquisas de opinião e devem perder a eleição para os adversários Eduardo Campos (PSB) e Jackson Lago (PDT), respectivamente.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/10/22/not_205662.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P> </p>
+{\% endraw %}

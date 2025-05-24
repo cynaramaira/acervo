@@ -1,21 +1,22 @@
 ---
 id: 12375127
-date: "2006-12-13T09:46:00+00:00"
+date: "2006-12-13T09:46:00Z"
 last_modified_at: null
 tags:
-  - assembleia-legislativa
-  - eleicoes
-  - governo
-  - pnad-continua
-  - saturno
+  - "assembleia-legislativa"
+  - "eleicoes"
+  - "governo"
+  - "pnad-continua"
+  - "saturno"
 categories:
-  - noticias
-title: "Governo cede na Assembléia Legislativa, mas terceiro turno das eleições continua "
+  - "noticias"
+title: "Governo cede na Assembl\u00e9ia Legislativa, mas terceiro turno das elei\u00e7\u00f5es continua "
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O governador Mendonça Filho também está anunciando a retirada de pauta do Projeto de Lei nº 1.436, que permitiria ao Estado recolher as contribuições para o pagamento das despesas de dezembro dos aposentados e pensionistas apenas em janeiro. </FONT></P></p>
 <p><P><FONT face=Verdana>\"Hoje mesmo (ontem) envio of?cio (à Assembléia) pedindo devolução do projeto. Pagaremos tudo até o dia 29, mostrando que o Estado está em equil?brio\", ressaltou. </FONT></P></p>
 <p><P><FONT face=Verdana>O recolhimento das receitas previdenciárias de dezembro historicamente acontecia em janeiro, mesmo mês de pagamento dos proventos. Mas como o governo antecipou a folha este ano, enviou a matéria para modificar a legislação, que previa que o fato gerador do recolhimento deve acontecer no mesmo mês de pagamento dos inativos. </FONT></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>A proposta foi levada à Assembléia pelo secretário de Gabinete Civil, Flávio Goés, que se reuniu no final da manhã com a bancada governista. O emissários escolhidos pelo governo para conversar com os oposicionistas foram os deputado Augusto Coutinho, l?der do PFL, e o l?der do governo, Pedro Eurico (PSDB), que fizeram a oferta após almoço com o l?der da oposição, Isaltino Nascimento (PT), e o presidente em exerc?cio da Assembléia, Ettore Labanca (PMN).&nbsp;</FONT></P></p>
 <p><P><FONT face=Verdana>Diante da negativa de Isaltino Nascimento em aceitar a oferta, os governistas ameaçaram obstruir a sessão de ontem, se retirando de plenário para não dar quórum para a votação dos projetos que estavam em pauta.</FONT></P></p>
 <p><P><FONT face=Verdana>Com o acirramento de ânimos, oposicionistas e governistas trocaram farpas durante a sessão, na qual tentaram emplacar suas propostas para a votação do pacote do Executivo. A bancada de oposição queria apreciar os projetos consensuais ontem e hoje e deixar os polêmicos para serem votados a partir do dia 19, enquanto os governistas queriam que entrassem na pauta de hoje as matérias de consenso e também o maior número poss?vel de divergentes</FONT>. </P> </p>
+{\% endraw %}

@@ -1,18 +1,19 @@
 ---
 id: 12371931
-date: "2006-08-04T16:13:00+00:00"
+date: "2006-08-04T16:13:00Z"
 last_modified_at: null
 tags:
-  - geraldo-alckmin
-  - regiao
+  - "geraldo-alckmin"
+  - "regiao"
 categories:
-  - noticias
-title: "Alckmin recebido por caciques da região"
+  - "noticias"
+title: "Alckmin recebido por caciques da regi\u00e3o"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Estão lá no centro de convenções, em Olinda, para ouvi-lo falar sobre um novo Nordeste: </FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana></FONT>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana><STRONG>Os tucanos</STRONG> Tasso Jereissati, Lúcio Alcântara e Cássio Cunha Lima.</FONT></P></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Sim, claro, também apareceram o governador Mendonça Filho (PFL) e o ex Jarbas Vasconcelos (PMDB). </FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana></FONT>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Dez horas depois de Alckmin ter desembarcado em Pernambuco, eles foram lá ouvi-lo.</FONT></P> </p>
+{\% endraw %}

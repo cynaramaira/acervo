@@ -1,19 +1,20 @@
 ---
 id: 12375258
-date: "2006-12-18T16:25:00+00:00"
+date: "2006-12-18T16:25:00Z"
 last_modified_at: null
 tags:
-  - amcentral
-  - mandados
-  - seguranca
+  - "amcentral"
+  - "mandados"
+  - "seguranca"
 categories:
-  - noticias
-title: "Jungmann entra com mandado de segurança contra o aumentão de 90,7%"
+  - "noticias"
+title: "Jungmann entra com mandado de seguran\u00e7a contra o aument\u00e3o de 90,7%"
 sutia: null
 chapeu: null
 autor: "jc"
 imagem: null
 ---
+{\% raw %}
 <p>&nbsp;<br /></p>
 <p><span style="font-family: Verdana;"><span style="font-family: Verdana;">O vice-l?dre do PPS, deputado Raul Jungamann (PE)&nbsp;falou ao <strong>Blog do JC</strong>, h&aacute; pouco, de Bras?lia,&nbsp;e se&nbsp;disse esperan&ccedil;oso com o efeito do mandado de seguran&ccedil;a ingresso hoje no Supremo Tribunal Federal (STF) para tentar impedir&nbsp;a aprova&ccedil;&atilde;o do "aument&atilde;o" de 90,7% nos vencimentos de deputados e senadores, a partir de&nbsp;<span style="font-size: small;">1&ordm; </span>de fevereiro de 2007.</span></span></p>
 <p><span style="font-family: Verdana;"><span style="font-family: Verdana;">O PPS tamb&eacute;m entrou&nbsp;com uma Adin (A&ccedil;&atilde;o Direta de Inconstitucionalidade)&nbsp;no Supremo. </span></span></p>
@@ -26,3 +27,4 @@ imagem: null
 <p>Inclusive, no momento da reuni&atilde;o, o deputado afirmou que concluia o relat&oacute;rio final da CPI das&nbsp;Sanguessugas, em Bras?lia.</p>
 <p>A quem interessar, anote: <a href="#">dep.rauljungmann@camara.gov.br</a></p>
 <p>(Por Cecilia Ramos)</p>
+{\% endraw %}

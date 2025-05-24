@@ -1,19 +1,20 @@
 ---
 id: 12371555
-date: "2006-08-21T16:34:00+00:00"
+date: "2006-08-21T16:34:00Z"
 last_modified_at: null
 tags:
-  - joao-d
-  - lula
-  - paulo
+  - "joao-d"
+  - "lula"
+  - "paulo"
 categories:
-  - noticias
-title: "Lula copia João Paulo"
+  - "noticias"
+title: "Lula copia Jo\u00e3o Paulo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por <STRONG>Fernando Castilho</STRONG><BR>Colunista de Economia do JC</FONT></P></p>
 <p><P><FONT face=Verdana>Pode ser uma simples coincidência, mas uma semana de guia eleitoral já dá para mostrar que o metalúrgico Luiz Inácio Lula da Silva está seguindo, na disputa para um segundo mandato à Presidência da Republica, o mesmo caminho trilhado por um outro metarlurgico, João Paulo de Lima e Silva, na disputa para a reeleição à Prefeitura do Recife. </FONT></P></p>
@@ -33,3 +34,4 @@ imagem: null
 <p><P><FONT face=Verdana>Isso é poss?vel? Como costuma dizer uma conhecido jornalista pernambucano, agora é com o povo. </FONT></P></p>
 <p><P><FONT face=Verdana>Mas vale lembrar aqui as difculdades de João Pauo no primeiro mandato, quando fez um secretáriado cheio de notáveis, mas que, como ele mesmo já disse, só lhe permitiu tomar as rédeas da Prefeitura três anos depois.</FONT></P></p>
 <p><P><FONT face=Verdana>Você imagina como o Lula vai poder montar seu ministério se ganhar no primeiro turno?</FONT></P></FONT> </p>
+{\% endraw %}

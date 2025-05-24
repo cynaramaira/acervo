@@ -1,17 +1,18 @@
 ---
 id: 12374105
-date: "2006-11-01T15:17:00+00:00"
+date: "2006-11-01T15:17:00Z"
 last_modified_at: null
 tags:
-  - assembleia-legislativa
+  - "assembleia-legislativa"
 categories:
-  - noticias
-title: "PSB quer presidência da Assembléia Legislativa "
+  - "noticias"
+title: "PSB quer presid\u00eancia da Assembl\u00e9ia Legislativa "
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Jorge Cavalcanti<BR></STRONG>Do JC especial para o <STRONG>Blog</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>A bancada estadual eleita do PSB vai pleitear a indicação de um socialista para a presidência da Assembléia Legislativa. A decisão foi tomada agora há pouco, em um almoço no restaurante Açucar, no Paço Alfândega.</FONT></P></p>
 <p><P><FONT face=Verdana>Segundo o deputado João Fernando Coutinho, a reivindicação é leg?tima, já que o PSB - partido do governador eleito Eduardo Campos - elegeu sete parlamentares, a maior bancada ligada ao governo. Perde apenas para o PFL, que terá&nbsp;oito.</FONT></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>O presidente da Assembléia é um aliado vital para o governador do Estado. Além de definir a ordem do dia da Casa, autoriza a publicação das matérias no Diário Oficial, medida necessária para a tramitação dos projetos nas comissões. </FONT></P></p>
 <p><P><FONT face=Verdana>Na linha sucessória do governador, o presidente do Legislativo estadual é o segundo, atrás do vice-governador. </FONT><FONT face=Verdana>Entretanto, para ser eleito presidente, o deputado tem que contar com o apoio irrestrito do governo. </FONT></P></p>
 <p><P><FONT face=Verdana>\"Na verdade, é o governador que elege o presidente da Casa. A bancada governista, que sempre é maioria, segue a orientação do governo. Isso ocorre em todos os governos\", garante um deputado experiente, que integra o bloco de apoio a Eduardo.</FONT></P> </p>
+{\% endraw %}

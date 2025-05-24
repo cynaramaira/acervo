@@ -1,17 +1,18 @@
 ---
 id: 12371586
-date: "2006-08-19T16:20:00+00:00"
+date: "2006-08-19T16:20:00Z"
 last_modified_at: null
 tags:
-  - esta
+  - "esta"
 categories:
-  - noticias
-title: "O bom-mocismo está prestes a acabar"
+  - "noticias"
+title: "O bom-mocismo est\u00e1 prestes a acabar"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O que mais preocupa os principais palanques de oposição hoje em Pernambuco é a possibilidade de Mendonça Filho (PFL) se consolidar na faixa dos 40% de intenção de voto.</FONT></P></p>
 <p><P><FONT face=Verdana>Isso pode representar o fim da disputa ainda no primeiro turno.</FONT></P></p>
 <p><P><FONT face=Verdana>As equipes de campanha de Humberto Costa (PT) e de Eduardo Campos (PSB) estão mergulhadas em números de pesquisas, quantitativas e qualitativas, em avaliações profundas e cálculos para descobrir a melhor maneira</p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>Ele faz isso sem falar em Arraes. O mito tornou-se mais forte depois que morreu, um ano atrás. Tudo é feito para, no final, carimbar Eduardo como pai do caos.</FONT></P></p>
 <p><P><FONT face=Verdana>Se não correrem, Eduardo e Humberto sabem que perdem a campanha. E eles já estão correndo.</FONT></P></p>
 <p><P><FONT face=Verdana>Vocês podem esperar surpresas nesta semana.</FONT></P> </p>
+{\% endraw %}

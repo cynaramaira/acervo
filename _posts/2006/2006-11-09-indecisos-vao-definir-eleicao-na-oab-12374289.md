@@ -1,18 +1,19 @@
 ---
 id: 12374289
-date: "2006-11-09T15:28:00+00:00"
+date: "2006-11-09T15:28:00Z"
 last_modified_at: null
 tags:
-  - eleicao
-  - galvao-bueno
+  - "eleicao"
+  - "galvao-bueno"
 categories:
-  - noticias
-title: "Indecisos vão definir eleição na OAB"
+  - "noticias"
+title: "Indecisos v\u00e3o definir elei\u00e7\u00e3o na OAB"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p><span style="font-family: Verdana;">Daqui a uma semana, entre 8 mil e 10 mil profissionais decidir&atilde;o quem vai presidir a Ordem dos Advogados do Brasil (OAB) em Pernambuco nos pr&oacute;ximos tr&ecirc;s anos.</span></p>
 <p><span style="font-family: Verdana;">&Eacute; uma elei&ccedil;&atilde;o que tem tudo para reeditar em parte a disputa entre Eduardo Campos (PSB) e Mendon&ccedil;a Filho (PFL) pelo governo do Estado.</span></p>
 <p><span style="font-family: Verdana;">Est&atilde;o no p&aacute;reo J&uacute;lio Oliveira, atual presidente da Ordem, que concorre &agrave; reelei&ccedil;&atilde;o, e Jaime Asfora, ex-presidente da Ag&ecirc;ncia de Regula&ccedil;&atilde;o de Pernambuco, procurador do Estado.</span></p>
@@ -55,3 +56,4 @@ imagem: null
 <p><span style="font-family: Verdana;"><strong>Nenhum/Nulo</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0</span></p>
 <p>&nbsp;</p>
 <p><span style="font-family: Verdana;">Veja <strong><em><a href="https://jc.ne10.uol.com.br/" target="_blank" rel="noopener noreferrer">aqui</a></em></strong> mais dados da pesquisa.</span></p>
+{\% endraw %}

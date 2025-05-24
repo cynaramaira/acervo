@@ -1,18 +1,19 @@
 ---
 id: 12371327
-date: "2006-08-31T09:18:00+00:00"
+date: "2006-08-31T09:18:00Z"
 last_modified_at: null
 tags:
-  - lista
-  - pernambuco
+  - "lista"
+  - "pernambuco"
 categories:
-  - noticias
+  - "noticias"
 title: "Pernambuco na lista das 1000 maiores"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Acabei de postar na seção artigos, na coluna ao lado, o artigo semanal de Pierre Lucena, que escreve aqui sempre às quintas.</FONT></P></p>
 <p><P><FONT face=Verdana>Boa leitura para vocês.</FONT></P></p>
 <p><P><FONT face=Verdana>-------------------------------------</FONT></P></p>
@@ -21,3 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>Analisando o primeiro grupo, percebe-se que duas das empresas ainda são públicas, que é o caso da Chesf e da Compesa, e as três restantes vieram no rastro das privatizações ou concessões de serviços públicos. </FONT></P></p>
 <p><P><FONT face=Verdana>Uma delas, a Termope, só apareceu no mercado graças a um acordo draconiano à época do apagão. Numa espécie de subs?dio cruzado que provocou aquele aumento tão questionado nas contas de energia elétrica em 2005, a Termope sobrevive apenas porque os consumidores pernambucanos são obrigados a sustentá-la.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><U><A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/31/not_1130.php\">aqui</A></U></EM></STRONG> o texto completo.</FONT></P> </p>
+{\% endraw %}

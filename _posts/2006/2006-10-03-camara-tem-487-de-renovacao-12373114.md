@@ -1,17 +1,18 @@
 ---
 id: 12373114
-date: "2006-10-03T09:57:00+00:00"
+date: "2006-10-03T09:57:00Z"
 last_modified_at: null
 tags:
-  - camara
+  - "camara"
 categories:
-  - noticias
-title: "Câmara tem 48,7% de renovação"
+  - "noticias"
+title: "C\u00e2mara tem 48,7% de renova\u00e7\u00e3o"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG><BR><BR>Após uma legislatura marcada por escândalos como o do mensalão e o da máfia das sanguessugas, a população mandou de volta para casa quase a metade dos atuais deputados. </FONT></P></p>
 <p><P><FONT face=Verdana>Dos 513 parlamentares, 48,7% não voltarão ao Congresso no próximo ano. O Estado que teve o maior ?ndice de renovação foi Alagoas: sete das nove vagas. Goiás foi o Estado que menos renovou: das 17 cadeiras, apenas três mudarão de titular. </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>PMDB ficou com maioria na câmara </STRONG></FONT></P></p>
@@ -34,3 +35,4 @@ imagem: null
 <p><P><FONT face=Verdana>Outra acusada, a senadora Serys Slhessarenko (PT), ficou em terceiro lugar na disputa ao governo de Mato Grosso. </FONT></P></p>
 <p><P><FONT face=Verdana>Quanto aos mensaleiros, 5 dos 11 absolvidos pelo plenário da Câmara ganharam nova chance: foram reeleitos os paulistas João Paulo Cunha (PT), José Mentor (PT) e Vadão Gomes (PP), Sandro Mabel (PL-GO) e o Pedro Henry. </FONT></P></p>
 <p><P><FONT face=Verdana>Paulo Rocha (PT-PA) e Valdemar Costa Neto (PL-SP), que renunciaram aos mandatos no ano passado para fugir do processo de cassação, também foram eleitos. </FONT></P> </p>
+{\% endraw %}

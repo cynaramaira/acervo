@@ -1,17 +1,18 @@
 ---
 id: 12373816
-date: "2006-10-26T13:39:00+00:00"
+date: "2006-10-26T13:39:00Z"
 last_modified_at: null
 tags:
-  - lula
+  - "lula"
 categories:
-  - noticias
-title: "CNT/Sensus aponta Lula reeleito com 63,2% dos votos válidos"
+  - "noticias"
+title: "CNT/Sensus aponta Lula reeleito com 63,2% dos votos v\u00e1lidos"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Da<STRONG> Agência Estado</STRONG></FONT></P><FONT face=\"Times New Roman\"></p>
 <p><P><FONT face=Verdana>Bras?lia - Pesquisa estimulada realizada pelo CNT/Sensus entre os dias 23 e 25 de outubro, divulgada na manhã de hoje, mostrou que o presidente Luiz Inácio Lula da Silva deve ser reeleito com vantagem de 24 pontos porcentuais sobre o seu opositor, Geraldo Alckmin (PSDB). </FONT></P></p>
 <p><P><FONT face=Verdana>Segundo o levantamento, Lula deve obter 57,5% das preferências e Alckmin 33,5%. </FONT></P></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>A rejeição ao presidente Lula subiu de 27,3%, no final de setembro, para 33,6% na pesquisa de 23 a 25 de outubro. O candidato de oposição, o tucano Geraldo Alckmin, também teve aumento na sua rejeição pelos eleitores, de 41% para 45%. Segundo o diretor da Sensus, Ricardo Guedes, candidato com rejeição acima de 40% \"está fora do jogo pol?tico\". <BR><BR><STRONG>CEN??RIO REPETIDO</STRONG> </FONT></P></p>
 <p><P><FONT face=Verdana>Guedes recordou que o cenário de vitória de Lula já estava sendo mostrado ao longo das edições anteriores da pesquisa, por causa da rejeição menor. \"Ao longo das pesquisas, sab?amos que o produto eleitoral vencedor mais provável é o que</p>
 <p> está efetivamente ocorrendo\", disse Guedes. <BR><BR>A pesquisa CNT/Sensus mostra que Lula seria o único candidato em que 49,6% dos entrevistados votariam. Em setembro, esse ?ndice era de 44,3%. Já no caso de Alckmin, 32,9% dos entrevistados agora disseram que o tucano seria o único candidato em que votariam; em setembro, esse porcentual era de 18,5%.</FONT></P></FONT> </p>
+{\% endraw %}

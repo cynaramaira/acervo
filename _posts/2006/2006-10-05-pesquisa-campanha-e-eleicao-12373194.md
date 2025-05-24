@@ -1,19 +1,20 @@
 ---
 id: 12373194
-date: "2006-10-05T17:12:00+00:00"
+date: "2006-10-05T17:12:00Z"
 last_modified_at: null
 tags:
-  - campanha
-  - eleicao
-  - pesquisa
+  - "campanha"
+  - "eleicao"
+  - "pesquisa"
 categories:
-  - colunistas
-title: "Pesquisa, campanha e eleição"
+  - "colunistas"
+title: "Pesquisa, campanha e elei\u00e7\u00e3o"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Fernando Castilho</STRONG><BR>Colunista de Economia do JC</FONT></P></p>
 <p><P><FONT face=Verdana>Se os resultados das urnas tivessem refletido fielmente as pesquisas, Paulo Souto seria o novo governador da Bahia, Germano Rigoto estaria no segundo turno, no Rio Grande do Sul, Eduardo Suplicy não teria sido eleito com apenas 47,82% e, em Minas Gerais, Geraldo Alckmin não teria tido 40,80% dos votos. </FONT></P></p>
 <p><P><FONT face=Verdana>Para o publicitário e marqueteiro pol?tico Marcelo Teixeira, que antecipou aqui no Blog que a eleição iria para o segundo torno uma semana antes de as urnas confirmarem, os erros graves nas consultas prévias se devem ao fato de que elas simplesmente não levam em consideração fatores como abstenção, e não conseguem mergulhar nas peculiaridades regionais, que, no resultado geral, acabam dando essas distorções absurdas.</FONT></P></p>
@@ -32,3 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>Basta observar que Jorge Gomes e Luciano Siqueira tiveram 1,5 milhão de votos. Por que isso? Porque as candidaturas ao governo os puxaram. Isso está revelado nas eleições passadas, mas nem os institutos de pesquisa mostram nem a Imprensa faz essa advertência.</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>O caso de Guilherme Afif é emblemático. Nenhuma pesquisa detectou o movimento a favor dele. Mas se o Serra tinha a eleição assegurada, o normal era o Afif ser empurrado para cima. Ou seja, o resultado da pesquisa precisa ser acrescido de mais informação, especialmente a questão da abstenção da eleição anterior.</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>Essas ponderações poderão ajudar a Imprensa a entender o que pode acontecer no segundo turno. Nós já temos os números do primeiro turno. Temos as tendências por região, por estado e nacional. <BR></EM></FONT><FONT face=Verdana><EM><BR>Não precisa ser nenhum gênio matemático. Já sabemos que devem votar pelo menos 95 milhões de eleitores e não 125 milhões. Então é poss?vel fazer as contas fracionando os números e comparar com as pesquisas. O equivoco é não incluir mais informações e simplesmente usar o dado. E não fazer nenhuma advertência ao leitor.<BR></EM><BR>(*) Fernando Castilho, Fernando Menezes, Bruno Falcone, Eduardo Farias e Romeu Baptista</FONT></P> </p>
+{\% endraw %}

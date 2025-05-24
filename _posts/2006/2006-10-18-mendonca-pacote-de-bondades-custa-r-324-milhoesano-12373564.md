@@ -1,17 +1,18 @@
 ---
 id: 12373564
-date: "2006-10-18T17:36:00+00:00"
+date: "2006-10-18T17:36:00Z"
 last_modified_at: null
 tags:
-  - mendonca
+  - "mendonca"
 categories:
-  - noticias
-title: "Mendonça: pacote de bondades custa R$ 32,4 milhões/ano"
+  - "noticias"
+title: "Mendon\u00e7a: pacote de bondades custa R$ 32,4 milh\u00f5es/ano"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Ramos</STRONG><BR>Repórter do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>O governador-candidato Mendonça Filho (PFL) encaminhou, na tarde de hoje, projeto de lei para a Assembléia Legislativa de Pernambuco que prevê a isenção do Imposto sobre Circulação de Mercadorias e Serviços</p>
 <p> (ICMS) para pessoa natural.</FONT></P></p>
@@ -39,3 +40,4 @@ imagem: null
 <p><P><FONT face=Verdana>Total/mês: R$ 2,7 milhões</FONT></P></p>
 <p><P><FONT face=Verdana>Total/ano: R$ 32,4 milhões</FONT></P></p>
 <p><P><FONT face=Verdana>Total em quatro anos (o próximo governo): R$ 129,6 milhões</FONT></P> </p>
+{\% endraw %}

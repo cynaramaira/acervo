@@ -1,21 +1,22 @@
 ---
 id: 12374469
-date: "2006-11-17T06:30:00+00:00"
+date: "2006-11-17T06:30:00Z"
 last_modified_at: null
 tags:
-  - altas-horas
-  - apostas
-  - deputado
-  - preso
-  - transporte-interestadual
+  - "altas-horas"
+  - "apostas"
+  - "deputado"
+  - "preso"
+  - "transporte-interestadual"
 categories:
-  - noticias
-title: "Deputado estadual é solto após 52 horas preso"
+  - "noticias"
+title: "Deputado estadual \u00e9 solto ap\u00f3s 52 horas preso"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Gilvan Oliveira</STRONG> e <STRONG>Monica Crisostomo</STRONG><BR>No Jornal do Commercio de hoje</FONT></P></p>
 <p><P><FONT face=Verdana>Cinqüenta e duas horas após a prisão do deputado estadual Claudiano Martins (PMDB), pela Pol?cia Federal, no munic?pio de Caxias, no Maranhão - dentro da Operação Alcaides, que investiga desvios de verbas públicas e fraudes em licitações, entre outros crimes -, o peemedebista foi solto, às 19h50 de ontem, já na PF do Recife, por força de um habeas corpus expedido pelo ministro Nilson Naves, do Superior Tribunal de Justiça (STJ). Em rápida entrevista à imprensa, acompanhado do advogado Hélcio França e dos filhos, Claudiano disse que tem “confiança na Justiça??? e garantiu que irá “colaborar com as investigações???.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/11/17/not_208998.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Dorany divulga nota do PMDB em apoio a Claudiano e ataca PF</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Ao saber da libertação do correligionário Claudiano Martins, na noite de ontem, o presidente estadual do PMDB, Dorany Sampaio, comemorou o fato e considerou que “o Judiciário corrigiu uma ilegalidade da Pol?cia Federal???, desferindo várias cr?ticas contra a instituição. “Isso é uma prova da virulência com que age a PF???, disparou. Mais cedo, com o deputado ainda detido, o dirigente peemedebista distribuiu nota em nome do partido, prestando solidariedade a Claudiano Martins e acusando a PF de dar tratamento diferenciado a “pequenas autoridades??? e desrespeitar a imunidade parlamentar. “Isso só se admite em ditadura. Nos grandes casos desse Pa?s, a Pol?cia Federal não age???, criticou.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/11/17/not_209001.php\" target=_blank>aqui</A></EM></STRONG>.</FONT></P> </p>
+{\% endraw %}

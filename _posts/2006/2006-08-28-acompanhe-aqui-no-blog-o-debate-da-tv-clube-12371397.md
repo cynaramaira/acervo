@@ -1,19 +1,20 @@
 ---
 id: 12371397
-date: "2006-08-28T19:57:00+00:00"
+date: "2006-08-28T19:57:00Z"
 last_modified_at: null
 tags:
-  - blogs-jc
-  - debate
-  - jc-clube
+  - "blogs-jc"
+  - "debate"
+  - "jc-clube"
 categories:
-  - noticias
+  - "noticias"
 title: "Acompanhe aqui no Blog o debate da TV Clube"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Vamos estar no estúdio da TV, a partir das 21h30, acompanhando o mais importante debate entre os candidatos ao governo de Pernambuco desde que começou a campanha. </FONT></P></p>
 <p><P><FONT face=Verdana>Transmitiremos tudo em tempo real, inclusive a movimentação de candidatos e assessores nos intervalos.</FONT></P></p>
 <p><P><FONT face=Verdana>Mendonça Filho (PFL), que esteve ausente nos outros, desta vez participa</p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>No segundo bloco do programa, os participantes farão perguntas entre si. Cada um terá um minuto para fazer a pergunta e dois minutos para dar a resposta. Poderá haver réplica e tréplica, que deverão ser feitas em um minuto e 30 segundos. </FONT></P></p>
 <p><P><FONT face=Verdana>Na terceira parte do debate, os jornalistas dos Associados serão os responsáveis pelas perguntas aos candidatos, que estão limitadas a um minuto. As perguntas serão sobre temas livres. Cada candidato terá dois minutos para responder. </FONT><FONT face=Verdana>Os jornalistas não terão direito à réplica. </FONT></P></p>
 <p><P><FONT face=Verdana>No quarto bloco, será dado um minuto para que cada candidato faça as suas considerações finais.</FONT> </P></FONT> </p>
+{\% endraw %}

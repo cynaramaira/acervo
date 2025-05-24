@@ -1,23 +1,24 @@
 ---
 id: 12372953
-date: "2006-09-29T17:36:00+00:00"
+date: "2006-09-29T17:36:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - entrega
-  - ibope
-  - mendonca
-  - pesquisa
-  - saturno
-  - sinovac
+  - "eduardo"
+  - "entrega"
+  - "ibope"
+  - "mendonca"
+  - "pesquisa"
+  - "saturno"
+  - "sinovac"
 categories:
-  - noticias
-title: "Nova pesquisa Ibope também aponta 2º turno entre Mendonça e Eduardo"
+  - "noticias"
+title: "Nova pesquisa Ibope tamb\u00e9m aponta 2\u00ba turno entre Mendon\u00e7a e Eduardo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Os números da sexta rodada Ibope que serão divulgados daqui a pouco no NETV 2ª Edição, da TV Globo:</FONT></P></p>
 <p><P><FONT face=Verdana>Mendonça Filho (PFL) 35%</FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo Campos (PSB) 27%</FONT></P></p>
@@ -29,3 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>Mendonça Filho (PFL)&nbsp; 34%&nbsp;&nbsp; 32%&nbsp; 38%&nbsp;&nbsp;&nbsp;36%&nbsp; 35%</FONT></P></p>
 <p><P><FONT face=Verdana>Humberto Costa (PT)&nbsp;&nbsp; 24%&nbsp; 22%&nbsp;&nbsp;25%&nbsp;&nbsp; 25%&nbsp;&nbsp; 26% </FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo Campos (PSB) 14%&nbsp; 19%&nbsp; 21%&nbsp;&nbsp; 22%&nbsp;&nbsp; 26%</FONT></P> </p>
+{\% endraw %}

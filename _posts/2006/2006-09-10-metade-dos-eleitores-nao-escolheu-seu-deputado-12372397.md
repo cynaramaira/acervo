@@ -1,19 +1,20 @@
 ---
 id: 12372397
-date: "2006-09-10T06:59:00+00:00"
+date: "2006-09-10T06:59:00Z"
 last_modified_at: null
 tags:
-  - deputado
-  - eleitores
-  - naomi-campbell
+  - "deputado"
+  - "eleitores"
+  - "naomi-campbell"
 categories:
-  - noticias
-title: "Metade dos eleitores não escolheu seu deputado"
+  - "noticias"
+title: "Metade dos eleitores n\u00e3o escolheu seu deputado"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por </FONT><FONT face=Verdana><B>Sérgio Montenegro Filho<BR></B>Repórter especial do JC</FONT></P></p>
 <p><P><FONT face=Verdana>Faltando vinte dias para as eleições, pelo menos metade dos eleitores pernambucanos ainda não escolheu seus candidatos a deputado federal e estadual. É o que indica a pesquisa do Instituto Vox Populi, feita com exclusividade para o Jornal do Commercio, nos dias 26 e 27 de agosto. </FONT></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>Esta pesquisa&nbsp;foi&nbsp;realizada nos dias 26 e 27 de agosto de 2006. Foram feitas 800 entrevistas domiciliares com eleitores de 38 munic?pios de Pernambuco, de idade superior a 16 anos. </FONT></P></p>
 <p><P><FONT face=Verdana>O intervalo de confiança da amostragem é de 95% e a margem de erro média de 3,5 pontos percentuais, para mais ou para menos. </FONT></P></p>
 <p><P><FONT face=Verdana>A pesquisa foi registrada no TRE-PE no dia 25 de agosto de 2006, sob o número 13917/2006.</FONT></P></FONT> </p>
+{\% endraw %}

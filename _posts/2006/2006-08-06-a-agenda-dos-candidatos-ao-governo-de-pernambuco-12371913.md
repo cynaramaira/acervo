@@ -1,20 +1,21 @@
 ---
 id: 12371913
-date: "2006-08-06T07:00:00+00:00"
+date: "2006-08-06T07:00:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao Governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><STRONG><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></STRONG></P></p>
 <p><P><FONT face=Verdana><STRONG>Às 8h30</STRONG>, café-da-manhã com lideranças do Pajeú, em Serra Talhada. Local: Residência do prefeito Carlos Evandro. </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Às 16h</STRONG>, reunião interna </FONT></P></p>
@@ -30,3 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>Às 16h</FONT></B><FONT face=Verdana>, em Ferreiros, ato de filiação da prefeita Selma Veloso</FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 18h</FONT></B><FONT face=Verdana>, em Camutanga, visita ao sindicato dos trabalhadores rurais</FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 20h</FONT></B><FONT face=Verdana>, em Goiana, carreata e com?cio</FONT></P> </p>
+{\% endraw %}

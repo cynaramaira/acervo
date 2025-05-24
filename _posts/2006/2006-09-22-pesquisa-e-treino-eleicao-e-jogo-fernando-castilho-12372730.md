@@ -1,19 +1,20 @@
 ---
 id: 12372730
-date: "2006-09-22T11:27:00+00:00"
+date: "2006-09-22T11:27:00Z"
 last_modified_at: null
 tags:
-  - eleicao
-  - fernando-castilho
-  - pesquisa
+  - "eleicao"
+  - "fernando-castilho"
+  - "pesquisa"
 categories:
-  - colunistas
-title: "Pesquisa é treino, eleição é jogo (Fernando Castilho)"
+  - "colunistas"
+title: "Pesquisa \u00e9 treino, elei\u00e7\u00e3o \u00e9 jogo (Fernando Castilho)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT face=Verdana></p>
 <p><P>Por <STRONG>Fernando Castilho</STRONG><BR>Colunista de Economia do JC</P></FONT></p>
 <p><P><FONT face=Verdana>Marcelo Teixeira, que ao lado de José Nivaldo Júnior dirige a Makplan, uma das primeiras agências especializadas em marketing pol?tico e que, durante anos, só trabalhou para governos, aposta - a 10 dias das eleições - que a campanha presidencial caminha para o segundo turno, advertindo que isso está escrito nas pesquisas de todos os institutos, mas que a m?dia faz uma leitura precipitada dos resultados quando afirma que só teremos um turno.</FONT></P></p>
@@ -31,3 +32,4 @@ imagem: null
 <p><P><FONT face=Verdana>E se acontecer o que as pesquisas aparentemente mostram? Marcelo Teixeira acha que teremos um espetacular fato social para dezenas de teses acadêmicas. Mas ele não acredita que isso esteja acontecendo. \"Lula pode ganhar, mas nem terá essa votação prevista pelas pesquisas em todo o Nordeste e nem o Nordeste vai votar diferente do resto do Brasil\", insiste.</FONT></P></p>
 <p><P><FONT face=Verdana>Ele lembra que a tradição no Brasil é das pesquisas errarem por muito nos números grandes. E lembra o caso de Pernambuco aonde os jornais chegaram a machetear Roberto Magalhães como o Prefeito do Recife e vai por a?. Ou Humberto Costa com 17% das intenções de voto, no dia da eleição, quando ele obteve 35% contra Jarbas Vasconcelos. E as distorções em vários estados onde se errou até em pesquisa de boca-de-urna.</FONT></P></p>
 <p><P><FONT face=Verdana>Não é que as pesquisas não sejam importantes, adverte. Ou que não sejam válidas, esclarece. Ou ainda que não sirvam para orientar os profissionais. O equ?voco é achar que elas são a expressão do voto do eleitor. Elas indicam o caminho para os profissionais que têm métodos de leituras que não se limitam aos grandes números. O erro é achar que elas antecipam o voto do eleitor no dia da eleição.</FONT></P> </p>
+{\% endraw %}

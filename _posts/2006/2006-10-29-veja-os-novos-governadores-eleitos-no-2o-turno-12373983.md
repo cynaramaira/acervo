@@ -1,21 +1,22 @@
 ---
 id: 12373983
-date: "2006-10-29T20:16:00+00:00"
+date: "2006-10-29T20:16:00Z"
 last_modified_at: null
 tags:
-  - candidatos-eleitos
-  - cerveja
-  - governadores
-  - novos
-  - saturno
+  - "candidatos-eleitos"
+  - "cerveja"
+  - "governadores"
+  - "novos"
+  - "saturno"
 categories:
-  - noticias
-title: "Veja os novos governadores eleitos no 2º turno"
+  - "noticias"
+title: "Veja os novos governadores eleitos no 2\u00ba turno"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Com a exceção do Pará, o Tribunal Superior Eleitoral (TSE) já&nbsp;dá como eleitos&nbsp;os seguintes nomes (em negrito):</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Pernambuco<BR>Eduardo Campos (PSB) - 65,31%</STRONG></FONT><BR><FONT face=Verdana>Mendonça Filho (PFL) - 34,69%</FONT></P><B></p>
@@ -30,3 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>--------------------</FONT></P><B></p>
 <p><P><FONT face=Verdana>Pará</FONT></P></B><FONT face=Verdana><FONT size=2></p>
 <p><P>Com 87,66% das seções totalizadas no estado do Pará, o TSE ainda não confirmou a provável vitória da candidata do PT, <B>Ana Júlia (PT)</B>,<B> </B>que está com <B>54,72%</B>, sobre Almir Gabriel (PSDB), 45,28%.</FONT></FONT></P></FONT> </p>
+{\% endraw %}

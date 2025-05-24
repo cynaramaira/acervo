@@ -1,18 +1,19 @@
 ---
 id: 12372002
-date: "2006-08-01T19:13:00+00:00"
+date: "2006-08-01T19:13:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - humberto-costa
+  - "eduardo"
+  - "humberto-costa"
 categories:
-  - noticias
+  - "noticias"
 title: "Humberto abre 10 pontos sobre Eduardo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Resultados sobre as eleições em Pernambuco, divulgados agora há pouco no NETV, da Globo. </FONT></P></p>
 <p><P><FONT face=Verdana>Mendonça Filho (PFL)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 32%</FONT></P></p>
 <p><P><FONT face=Verdana>Humberto Costa (PT)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 24%</FONT></P></p>
@@ -23,3 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Não sabe e não opiniou&nbsp;&nbsp;&nbsp;&nbsp; 14%</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>METODOLOGIA</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>O levantamento foi realizado entre os dias 29 e 31 de julho. Foram ouvidas 1.806 pessoas em 78 munic?pios pernambucanos. A margem de erro é de dois pontos percentuais para mais ou para menos. A pesquisa foi registrada no Tribunal Regional Eleitoral com o número 11112/2006.<BR></P></FONT> </p>
+{\% endraw %}

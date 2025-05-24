@@ -1,19 +1,20 @@
 ---
 id: 12372399
-date: "2006-09-10T07:39:00+00:00"
+date: "2006-09-10T07:39:00Z"
 last_modified_at: null
 tags:
-  - atentado
-  - fernando-collor
-  - lula
+  - "atentado"
+  - "fernando-collor"
+  - "lula"
 categories:
-  - noticias
+  - "noticias"
 title: "Collor tenta decolar apoiando Lula"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por </FONT><FONT face=Verdana><B>Clóvis Andrade<BR></B>Repórter de Pol?cia do JC</FONT></P></p>
 <p><P><FONT face=Verdana>Na época em que fui afastado da Presidência, ele foi um dos meus maiores adversários. Por isso é que eu tenho autoridade para pedir a vocês que votem em Lula para presidente.\" <BR><BR>A frase foi dita, na última quarta-feira, por Fernando Collor de Mello, em com?cio no munic?pio alagoano de Porto Calvo, 95 quilômetros ao Norte de Maceió. Quase 14 anos após ter se afastado da Presidência da República, ele tentará, nestas eleições, voltar a Bras?lia, desta vez pelo Senado, Câmara Alta do mesmo Congresso que, na época, obrigou-o a renunciar para não sofrer o impeachment. <BR><BR>Collor protocolou sua candidatura no Tribunal Regional Eleitoral de seu Estado, pelo pequeno PRTB, no último dia 30 de agosto – dois meses após o in?cio da disputa. E desde então, tem declarado apoio à reeleição do petista, contra quem travou o histórico segundo turno de 1989, na primeira eleições presidenciais depois da ditadura.</FONT></P></p>
@@ -22,3 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>Leia mais <A href=\"https://jc3.uol.com.br/jornal/2006/09/10/not_200191.php\" target=_blank><STRONG><EM>aqui</EM></STRONG></A> (assinantes JC e UOL).<BR><BR>Veja abaixo o retorno dele no guia eleitoral. É primeiro programa, onde pede, como nos velhos tempos: \"Não me deixem só\".</FONT></P></FONT><BR><BR></p>
 <p><OBJECT height=350 width=425><PARAM NAME=\"movie\" VALUE=\"https://www.youtube.com/v/2uQw6168kVg\"></p>
 <p><embed src=\"https://www.youtube.com/v/2uQw6168kVg\" type=\"application/x-shockwave-flash\" width=\"425\" height=\"350\"></embed></OBJECT> </p>
+{\% endraw %}

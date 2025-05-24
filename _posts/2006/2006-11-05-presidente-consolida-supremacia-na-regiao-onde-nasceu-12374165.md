@@ -1,18 +1,19 @@
 ---
 id: 12374165
-date: "2006-11-05T11:04:00+00:00"
+date: "2006-11-05T11:04:00Z"
 last_modified_at: null
 tags:
-  - presidente
-  - regiao
+  - "presidente"
+  - "regiao"
 categories:
-  - noticias
-title: "Presidente consolida supremacia na região onde nasceu"
+  - "noticias"
+title: "Presidente consolida supremacia na regi\u00e3o onde nasceu"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Monica Crisostomo</STRONG><BR>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>Hegemonia. A origem é grega, mas a palavra serve para traduzir uma importante conquista do presidente reeleito, Luiz Inácio Lula da Silva (PT). </FONT></P></p>
 <p><P><FONT face=Verdana>Depois de quatro anos no comando do Executivo nacional, Lula consolidou, no último dia 29, sua supremacia na região Nordeste do Pa?s, onde obteve 77,13% dos votos válidos (19.352.049 de votos).</FONT></P></p>
@@ -20,3 +21,4 @@ imagem: null
 <p><P><FONT face=Verdana>No entanto, diferentemente do que dizem alguns dos opositores de Lula, apesar de sua hegemonia no Nordeste, a reeleição não pode ser unicamente atribu?da ao bom desempenho do petista na área. </FONT></P></p>
 <p><P><FONT face=Verdana>Afinal, basta lembrar que a única região onde Lula perdeu para o adversário, Geraldo Alckmin (PSDB) foi no Sul. Lá, o tucano alcançou 53,51% dos votos, contra 46,49% de Lula. Nas demais, Lula venceu, mas não com uma folga tão expressiva como no Nordeste.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <EM><STRONG><A href=\"https://jc3.uol.com.br/jornal/2006/11/05/can_9.php\" target=_blank>aqui</A></STRONG></EM> (assinantes JC e UOL).</FONT></P> </p>
+{\% endraw %}

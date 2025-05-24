@@ -1,17 +1,18 @@
 ---
 id: 12372357
-date: "2006-07-15T13:10:00+00:00"
+date: "2006-07-15T13:10:00Z"
 last_modified_at: null
 tags:
-  - candidatos
+  - "candidatos"
 categories:
-  - noticias
+  - "noticias"
 title: "O que dizem os candidatos"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P>Por meio de sua assessoria de imprensa, Mendonça disse que não vai comentar a pesquisa JC/Vox Populi. O blog está tentando conversar com Humberto e Eduardo, ambos em campanha no interior. Oswaldo Alves (PCO) está em Goiás e não foi localizado.</P></p>
 <p><P>Veja o que os outros candidatos disseram a Cec?lia Ramos, repórter do blog:</P></p>
 <p><P><STRONG>CLOVIS CORRÊA (Prona)</STRONG></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P>\"Isso é normal. Até porque começamos a nossa campanha a partir do dia 5. Eu não tenho m?dia, então é normal que eu não apareça na pesquisa do JC, mas a partir da próxima semana, já estaremos com a campanha nas ruas, distribuindo panfletos, adesivos e bandeiras. O guia também vai ajudar. Nao tem nenhum mito disputando estas eleições. Somos iguais. A maioria da população não sabe da nossa candidatura, quando souber&nbsp; esse quadro vai mudar.\"<BR><STRONG></STRONG></P></p>
 <p><P><STRONG>EDILSON SILVA (P-SOL)</STRONG></P></p>
 <p><P>\"Isso é fruto da grande exposição das candidaturas majoritárias. Clóvis está aparecendo porque tem criado alguns canais. Mas nossa campanha ainda não começou por conta de ajustes exigidos pela legislação eleitoral. Esse resultado não nos preoculpa.\"</P> </p>
+{\% endraw %}

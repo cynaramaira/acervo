@@ -1,17 +1,18 @@
 ---
 id: 12371753
-date: "2006-08-13T05:20:00+00:00"
+date: "2006-08-13T05:20:00Z"
 last_modified_at: null
 tags:
-  - pobres
+  - "pobres"
 categories:
-  - noticias
+  - "noticias"
 title: "Guia dos proporcionais, pobre e curto"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p><FONT face=Verdana></FONT></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><o:p><FONT face=Verdana></FONT></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>Por <STRONG>Sérgio Montenegro Filho<o:p></o:p></STRONG></FONT></SPAN></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><o:p><FONT face=Verdana>&nbsp;</FONT></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><o:p><FONT face=Verdana>&nbsp;</FONT></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>Leia mais <STRONG><EM><FONT color=crimson><A href=\"https://jc3.uol.com.br/jornal/\" target=_blank>aqui</A></FONT></EM></STRONG> (assinantes JC e UOL).</FONT></SPAN></P> </p>
+{\% endraw %}

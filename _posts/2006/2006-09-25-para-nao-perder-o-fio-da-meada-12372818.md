@@ -1,18 +1,19 @@
 ---
 id: 12372818
-date: "2006-09-25T11:35:00+00:00"
+date: "2006-09-25T11:35:00Z"
 last_modified_at: null
 tags:
-  - naomi-campbell
-  - para
+  - "naomi-campbell"
+  - "para"
 categories:
-  - noticias
-title: "Para não perder o fio da meada"
+  - "noticias"
+title: "Para n\u00e3o perder o fio da meada"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Reproduzo texto que publiquei ontem aqui para que não se perca nas investigações&nbsp;apenas do denunciante, deixando de lado as denúncias:</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG><EM>Escândalo ou armação?</EM></STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><EM>Muito provavelmente as duas coisas e mais algumas. Vejamos:</EM></FONT></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>Vou contar todos os detalhes das diversas entrevistas que Batista concedeu ao Blog entre a terça-feira da semana passada e ontem.</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>A terceira história a ser apurada é sobre como se comportou a contabilidade da campanha de Milton Coelho nos últimos meses. </EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>Há fortes ind?cios nas gravações de que ele não mediria esforços para obter recursos de caixa dois.</EM></FONT></P> </p>
+{\% endraw %}

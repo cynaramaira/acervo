@@ -1,17 +1,18 @@
 ---
 id: 12374542
-date: "2006-11-20T09:16:00+00:00"
+date: "2006-11-20T09:16:00Z"
 last_modified_at: null
 tags:
-  - raca-negra
+  - "raca-negra"
 categories:
-  - noticias
-title: "Hoje é dia da consciência negra"
+  - "noticias"
+title: "Hoje \u00e9 dia da consci\u00eancia negra"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>A cor faz a indiferença</FONT></P></p>
 <p><P><FONT face=Verdana>Por <STRONG>Paula Pacheco</STRONG><BR>Da Carta Capital</FONT></P></p>
 <p><P><FONT face=Verdana>A história é comum a muitos brasileiros. Neste caso, o relato é de Douglas Bernardo, de 27 anos, nascido na Para?ba e morador em Itapecerica da Serra (cidade-dormitório na Grande São Paulo). Resultado das misturas de cor entre a mãe negra e o pai branco, o jovem namora uma moça descendente de alemães. E tem dúvidas. </FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana><BR></FONT><FONT face=Verdana>(<EM>Abaixo, o <STRONG>Blog</STRONG> homenageia a população negra com&nbsp;o rap Jesus Negão, do grupo Racionais MC’s, dispon?vel no You Tube</EM>)</FONT></P><BR><BR></p>
 <p><OBJECT height=350 width=425><PARAM NAME=\"movie\" VALUE=\"https://www.youtube.com/v/dwmKMS4IBHo\"><PARAM NAME=\"wmode\" VALUE=\"transparent\"></p>
 <p><embed src=\"https://www.youtube.com/v/dwmKMS4IBHo\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"425\" height=\"350\"></embed></OBJECT> </p>
+{\% endraw %}

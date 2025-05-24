@@ -1,18 +1,19 @@
 ---
 id: 12372039
-date: "2006-07-31T13:13:00+00:00"
+date: "2006-07-31T13:13:00Z"
 last_modified_at: null
 tags:
-  - drive-thru
-  - semana-santa
+  - "drive-thru"
+  - "semana-santa"
 categories:
-  - noticias
+  - "noticias"
 title: "O drive pol?tico da semana (31.jul a 4.ago)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><STRONG><FONT face=Verdana></FONT></STRONG><SPAN id=txt></p>
 <p><P><STRONG><FONT face=Verdana></FONT></STRONG></p>
 <p><P><SPAN><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p><STRONG><FONT face=Verdana></FONT></STRONG></o:p></SPAN></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p> \Times New Roman\; mso-bidi-font-size: 12.0pt\"> – estréia a primeira fase do projeto EXCELÊNCIAS, o banco de dados de históricos de deputados que buscam a reeleição. Para ter acesso, entre no site da <A href=\"https://www.transparencia.org.br/\"><FONT color=#0000ff>Transparência Brasil</FONT></A>.</SPAN></FONT></P></p>
 <p><P><B style=\"mso-bidi-font-weight: normal\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-bidi-font-family: \Times New Roman\; mso-bidi-font-size: 12.0pt\"><FONT face=Verdana color=#000000><SPAN><STRONG>quarta-feira (2.ago)<BR></STRONG></SPAN></FONT></SPAN></B><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: \Times New Roman\; mso-bidi-font-size: 12.0pt\"><BR><FONT face=Verdana><B>Pesquisa Ibope</B> – nova rodada nacional foi registrada no dia 28 (sexta-feira passada). Pela lógica, está para sair o resultado.<o:p></o:p></FONT></SPAN></P></p>
 <p><P><B style=\"mso-bidi-font-weight: normal\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Arial; mso-bidi-font-family: \Times New Roman\; mso-bidi-font-size: 12.0pt\"><FONT face=Verdana color=#000000><SPAN><STRONG>sexta-feira (4.ago)<BR></STRONG></SPAN></FONT></SPAN></B><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-family: \Times New Roman\; mso-bidi-font-size: 12.0pt\"><BR><FONT face=Verdana><B>Lula</B> – o presidente deve participar, como candidato, de jantar com empresários em São Paulo. Passa o fim de semana entre paulistas, para tentar lustrar sua taxa de popularidade no Estado com o maior número de eleitores.</FONT></SPAN></P></SPAN> </p>
+{\% endraw %}

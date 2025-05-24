@@ -1,18 +1,19 @@
 ---
 id: 12373642
-date: "2006-10-21T12:03:00+00:00"
+date: "2006-10-21T12:03:00Z"
 last_modified_at: null
 tags:
-  - jarbas-vasconcelos
-  - psdb
+  - "jarbas-vasconcelos"
+  - "psdb"
 categories:
-  - noticias
-title: "Rompido com Jarbas, Edgar Moury acerta mundança para o PSDB"
+  - "noticias"
+title: "Rompido com Jarbas, Edgar Moury acerta mundan\u00e7a para o PSDB"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Ramos</STRONG><BR>Repórter do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>Deputado federal eleito pelo PMDB com 87.499 votos, Edgar Moury Fernandes prepara sua mudança para o PSDB. As conversas entre ele e o senador Sérgio Guerra, maior l?der tucano no Estado, estão avançadas. \"Ele só vai ter que segurar a pressão até ser diplomado. Mas pode confirmar a? (a troca)\", disse uma fonte ligada a Guerra. </FONT></P></p>
 <p><P><FONT face=Verdana>O <STRONG>Blog</STRONG> tentou localizar Guerra e Edgar. As assessorias de ambos informaram que eles estiveram, \"coincidentemente\", em Limoeiro, esta semana. O senador, na sua fazenda, e o deputado \"em campanha\" (no caso, empenhado na reeleição do governador Mendonça Filho/PFL). O tucano, que é coordenador nacional da campanha do presidenciável Geraldo Alckmin (PSDB), passa este final de semana no Recife.</FONT></P></p>
@@ -40,3 +41,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"O palanque de Eduardo hoje está lotado, mas a qualidade da bancada é questionável. O PSDB poderia melhorar isso. Se Eduardo repetir a estratégia do governo Arraes, em 1994, vai inchar o PSB, se não, o PSDB pode ser um escoadouro. Mas a estratégia do PSB sempre foi mesmo a de inchar a legenda\", continua o aliancista.</FONT></P></p>
 <p><P><FONT face=Verdana>Segundo ele, da bancada do PSDB, figurariam como oposição a Eduardo apenas os deputados estaduais Pedro Eurico (um ex-arraesista e que ainda mantém boas relações com Eduardo) e Teresinha Nunes - ambos muito próximos a Guerra. </FONT></P></p>
 <p><P><FONT face=Verdana>Aproximação demais com Eduardo, porém, não é muito bem-vinda a Sérgio Guerra. Em 2010, quando se terá nova eleição para o governo do Estado, acaba o mandato dele de senador. Até lá, o tucano buscará se credenciar para pleitear novamente a vaga na corrida sucessória. Este ano, ele desistiu em favor de Mendonça Filho.</FONT></P> </p>
+{\% endraw %}

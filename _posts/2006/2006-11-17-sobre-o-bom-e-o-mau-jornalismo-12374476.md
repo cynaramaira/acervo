@@ -1,17 +1,18 @@
 ---
 id: 12374476
-date: "2006-11-17T08:05:00+00:00"
+date: "2006-11-17T08:05:00Z"
 last_modified_at: null
 tags:
-  - jornalismo
+  - "jornalismo"
 categories:
-  - noticias
+  - "noticias"
 title: "Sobre o bom e o mau jornalismo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O que publicamos aqui em 21 de outubro, às 12h03:</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Rompido com Jarbas, Edgar Moury acerta mundança para o PSDB</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Deputado federal eleito pelo PMDB com 87.499 votos, Edgar Moury Fernandes prepara sua mudança para o PSDB. As conversas entre ele e o senador Sérgio Guerra, maior l?der tucano no Estado, estão avançadas. \"Ele só vai ter que segurar a pressão até ser diplomado. Mas pode confirmar a? (a troca)\", disse uma fonte ligada a Guerra.</FONT></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>De malas prontas</STRONG> - Ninguém convence mais o deputado federal eleito Edgar Moury Fernandes a ficar no PMDB. A razão? Não se bica mais com o senador eleito Jarbas Vasconcelos, com quem está rompido já tem um bom tempo. É muito provável que Moury crie bico de tucano mesmo, <STRONG>conforme esta coluna já antecipou</STRONG>.</FONT></P></p>
 <p><P><FONT face=Verdana>------------------------------------</FONT></P></p>
 <p><P><FONT face=Verdana>Um último detalhe: quando copia informações do <STRONG>Blog do JC</STRONG>, Magno não dá o devido crédito. Só quando tenta desmentir o que foi antecipado aqui.</FONT></P> </p>
+{\% endraw %}

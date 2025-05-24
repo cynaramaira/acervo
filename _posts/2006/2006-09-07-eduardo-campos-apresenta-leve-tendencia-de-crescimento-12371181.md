@@ -1,19 +1,20 @@
 ---
 id: 12371181
-date: "2006-09-07T19:37:00+00:00"
+date: "2006-09-07T19:37:00Z"
 last_modified_at: null
 tags:
-  - apresentadora
-  - crescimento
-  - eduardo-campos
+  - "apresentadora"
+  - "crescimento"
+  - "eduardo-campos"
 categories:
-  - noticias
-title: "Eduardo Campos apresenta leve tendência de crescimento"
+  - "noticias"
+title: "Eduardo Campos apresenta leve tend\u00eancia de crescimento"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>A nova pesquisa Ibope divulgada há pouco no NETV 2ª Edição, na TV Globo, mostra um quadro estável na disputa pelo governo de Pernambuco.</FONT></P></p>
 <p><P><FONT face=Verdana>Mas o candidato do PSB, Eduardo Campos, cresceu um pouco dentro da margem de erro. Foi o único que evoluiu positivamente. <BR><BR>Ele subiu um ponto percentual em relação ao último levantamento, em 31 de agosto. E cresceu três pontos desde 17 de agosto.</FONT></P></p>
 <p><P><FONT face=Verdana>O número do dia 1º, muito baixo, não conta porque a pesquisa apresentou naquele levantamento uma distorção, os questionários perguntavam sobre Eduardo e não Eduardo Campos. Isso foi corrigido no dia 17.</FONT></P></p>
@@ -55,3 +56,4 @@ imagem: null
 <p><P><FONT face=Verdana><BR></FONT></P><B></p>
 <p><P><FONT face=Verdana>METODOLOGIA</FONT></P></B></p>
 <p><P><FONT face=Verdana>O levantamento foi realizado entre os dias 04 e 06 de setembro. O Ibope ouviu 1.806 pessoas em 77 munic?pios pernambucanos. A margem de erro é de dois pontos percentuais para mais ou para menos.</FONT></P> </p>
+{\% endraw %}

@@ -1,19 +1,20 @@
 ---
 id: 12371840
-date: "2006-02-02T14:30:00+00:00"
+date: "2006-02-02T14:30:00Z"
 last_modified_at: null
 tags:
-  - jarbas-vasconcelos
-  - mendonca
-  - sem-publicidade
+  - "jarbas-vasconcelos"
+  - "mendonca"
+  - "sem-publicidade"
 categories:
-  - noticias
-title: "Jarbas e Mendonça: 300.000.000 em publicidade"
+  - "noticias"
+title: "Jarbas e Mendon\u00e7a: 300.000.000 em publicidade"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT face=\"Times New Roman\"></p>
 <p><P><FONT face=Verdana>Este é o balanço de sete anos e meio de governo.</FONT></P></p>
 <p><P><FONT face=Verdana>Foram R$ 290,9 milhões desde 1999, nas duas gestões comandadas por Jarbas Vasconcelos (PMDB) e Mendonça Filho (PFL).</FONT></P></p>
@@ -51,3 +52,4 @@ imagem: null
 <p><P><FONT face=Verdana>05&nbsp;&nbsp;&nbsp; 37.979.822,27&nbsp;&nbsp;&nbsp; 22.233.519,24&nbsp;&nbsp;&nbsp;&nbsp; 60.213.341,51</FONT></P></p>
 <p><P><FONT face=Verdana>06&nbsp;&nbsp;&nbsp; 21.658.585,11&nbsp;&nbsp;&nbsp; (Não dispon?vel)</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>TOTAL</STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 290.983.527,46</P></FONT> </p>
+{\% endraw %}

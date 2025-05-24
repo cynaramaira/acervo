@@ -1,19 +1,20 @@
 ---
 id: 12373623
-date: "2006-10-21T12:05:00+00:00"
+date: "2006-10-21T12:05:00Z"
 last_modified_at: null
 tags:
-  - anne-barreto
-  - cachorro
-  - reformas
+  - "anne-barreto"
+  - "cachorro"
+  - "reformas"
 categories:
-  - opiniao
-title: "Acho dif?cil uma reforma pol?tica (Túlio Velho Barreto)"
+  - "opiniao"
+title: "Acho dif?cil uma reforma pol?tica (T\u00falio Velho Barreto)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Cientista pol?tico e pesquisador da Fundação Joaquim Nabuco (Fundaj), colaborador freqüente do <STRONG>Blog</STRONG>, Túlio Velho Barreto, 48, avalia com desconfiança os resultados das eleições para o Congresso Nacional.</FONT></P></p>
 <p><P><FONT face=Verdana>É preciso um pouco mais tempo, diz Barreto, para que se analise com segurança as conseqüências de regras novas, como a cláusula de barreira, que reduzirá o poder dos partidos pequenos já na próxima legislatura.</FONT></P></p>
 <p><P><FONT face=Verdana>O pesquisador, no entanto, é cético. Nesta entrevista a Renato Lima, repórter de Economia do Jornal do Commercio, admite não acreditar que o próximo Congresso consiga fazer a reforma pol?tica e mude consideravelmente seu comportamento na relação com o Executivo.</FONT></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>JC - A sa?da de uma figura como Delfim Neto do parlamento pode ser encarado como uma dificuldade de se manter no poder pelo voto de opinião? O congresso sai perdendo com a mudança? </FONT></B><BR><FONT face=Verdana>TVB - De fato, a derrota eleitoral de pol?ticos como o ex-ministro Delfim Neto pode vir a representar uma mudança no sentido em que você aponta. Ou seja, pol?ticos que dependem do chamado voto de opinião, e não representam necessariamente um segmento organizado da sociedade, tendem a ter mais dificuldades para se eleger. Não sei se é exatamente o caso do deputado Delfim Neto. Até porque, é preciso lembrar, trata-se de um pol?tico conservador, inicialmente ligado ao regime militar, por exemplo, que nos últimos flertou com os petistas, sobretudo com o presidente Lula e seus colaboradores na área econômica. Quando isso ocorre – uma mudança no perfil ou nas opções de determinado pol?tico – pode haver dificuldades para que seu fiel eleitor o acompanhe, sobretudo se é um eleitor de opinião, que valoriza muito a história e a coerência pol?tica de seu representante. Mas, no caso em tela, minhas considerações são hipóteses, sem base emp?rica. O que podemos dizer, de fato, é que os pol?ticos que dependem do voto de opinião apenas estão perdendo espaço para aqueles que representam setores organizados, mas, sobretudo, para aqueles que se beneficiam da atividade profissional que desempenham, como no caso dos comunicadores de massa, e membros de igrejas evangélicas, por exemplo.Em parte isso, tal mudança tende a ser negativa para o Congresso Nacional. Mas, também nestes casos, é preciso aguardar um pouco, até porque já faz tempo que o Congresso Nacional não tem sido bom exemplo de conduta pol?tica. </FONT></P><B></p>
 <p><P><FONT face=Verdana>JC - Esse congresso que entra será mais reformista do que o que deixou? Que tipo de reformas tem mais chances de ser aprovada?</FONT></B><BR><FONT face=Verdana>TVB - É cedo para avaliar. Mas não acredito que a próxima Legislatura se diferencie muito das imediatamente anteriores. A \"renovação\" – assim mesmo entre aspas – ficou em patamar histórico, não chegou a ultrapassar marcas recentes. Inclusive, pessoalmente, prefiro usar o termo \"mudança\" que \"renovação\" na medida em que nem sempre mudar significa renovar. E, como sabemos, nem toda mudança ocorre para melhor. Portanto, é preciso esperar. De toda forma, não vejo sinais de que a atual Legislatura será melhor. Quanto às reformas, creio que as propostas e os debates ficarão restritos aos temas de sempre. Isto é, novamente, a reforma da previdência, a tributária, a trabalhista e sindical e, finalmente, a pol?tica. Como se vê, para mim, a agenda não muda. Mas, devemos lembrar, não sabemos ainda quem será o próximo presidente da República, o que muda muito a análise sobre o que ocorrerá no Congresso Nacional. Como o presidente-candidato Lula continua favorito para vencer, agora no segundo turno, e diante das enormes dificuldades de diálogo entre a oposição e o atual governo, fica cada vez mais evidente que os próximos quatro anos tenderão a ser muito parecidos aos dois últimos do primeiro governo Lula. Ou seja, muita CPI, muita Medida Provisória e parca produção parlamentar. </FONT></P><B></p>
 <p><P><FONT face=Verdana>JC- Há esperança na aprovação de uma reforma pol?tica?<BR></FONT></B><FONT face=Verdana>TVB - Acho dif?cil. Neste caso, vale igualmente o que afirmei na resposta anterior. Não vejo sinais de que uma reforma pol?tica, qualquer que seja ela, ampla ou restrita – esta mais fácil do que a outra – esteja mais próxima de ocorrer agora do que esteve nas legislaturas anteriores, inclusive a atual, nem mesmo os escândalos e as crises envolvendo diversos pol?ticos e partidos, e o Poder Legislativo, me fazem pensar diferente. Muitos afirmam, e com razão, que a reforma pol?tica é a mais dif?cil de ocorrer entre todas as reformas. Agora, é preciso dizer que isso ocorre porque os pol?ticos tendem a não legislar contra seus próprios interesses. Em pol?tica, o altru?smo é a exceção que, se existe, apenas confirma a regra. Assim, prevalece o ego?smo, resultado da racionalidade pol?tica que os movem. Isso não significa dizer que sempre existirão iniciativas isoladas no sentido de aperfeiçoar ou mudar as legislações eleitoral e partidária.</FONT> </P> </p>
+{\% endraw %}

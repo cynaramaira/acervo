@@ -1,18 +1,19 @@
 ---
 id: 12371736
-date: "2006-08-14T06:30:00+00:00"
+date: "2006-08-14T06:30:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - debates
+  - "candidatos"
+  - "debates"
 categories:
-  - noticias
+  - "noticias"
 title: "Debates sem principais candidatos"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Presidenciáveis debatem sem a presença de Lula</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>SÃO PAULO - Sem a presença do presidente e candidato à reeleição pelo PT, Luiz Inácio Lula da Silva, a TV Bandeirantes realiza hoje, com transmissão para todo o Pa?s a partir das 22h, o primeiro debate com os postulantes ao Palácio do Planalto. </FONT></P></p>
@@ -22,3 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>O governador-candidato Mendonça Filho (PFL) não vai comparecer ao debate que a TV Nova (Canal 22, UHF) realiza hoje, às 20h, na quadra da Faculdade Maur?cio de Nassau, no Bairro das Graças, no Recife, entre os postulantes ao governo do Estado. </FONT></P></p>
 <p><P><FONT face=Verdana>O comunicado da ausência foi feito no último sábado à emissora - prazo final para evitar que uma cadeira vazia com o nome do candidato fosse exibida ao vivo. </FONT></P></p>
 <p><P><FONT face=Verdana>O coordenador de imprensa da campanha do pefelista, C?cero Belmar, afirmou que a falta deve-se a compromissos assumidos, sem dar mais informações.</FONT></P> </p>
+{\% endraw %}

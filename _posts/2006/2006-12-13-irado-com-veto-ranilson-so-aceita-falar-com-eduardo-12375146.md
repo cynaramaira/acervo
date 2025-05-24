@@ -1,20 +1,21 @@
 ---
 id: 12375146
-date: "2006-12-13T17:59:00+00:00"
+date: "2006-12-13T17:59:00Z"
 last_modified_at: null
 tags:
-  - autoaceitacao
-  - eduardo
-  - emirados
-  - veto
+  - "autoaceitacao"
+  - "eduardo"
+  - "emirados"
+  - "veto"
 categories:
-  - noticias
-title: "Irado com veto, Ranilson só aceita falar com Eduardo "
+  - "noticias"
+title: "Irado com veto, Ranilson s\u00f3 aceita falar com Eduardo "
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P></p>
 <p><P><FONT face=Verdana></FONT></P><FONT face=Verdana>Por <B>Cec?lia Ramos</B><BR>Repórter do Blog</FONT> </p>
@@ -26,3 +27,4 @@ imagem: null
 <p> deverá apoiar um dos tios, Geraldo ou Osvaldo, e Ranilson apoiará a provável candidatura do deputado federal Gonzaga Patriota. </FONT></P></p>
 <p><P><FONT face=Verdana>A tarefa é como Eduardo vai desatar o nó, sem \"magoar\" um ou outro aliado. </FONT></P></p>
 <p><P><FONT face=Verdana>Arraesista histórico, Ranilson foi ex-assessor especial de Eduardo no ministério da Ciência e Tecnologia e, nesta eleição ao governo de Pernambuco, coordenou a campanha do neto de Miguel Arraes no Sertão.</FONT></P></FONT> </p>
+{\% endraw %}

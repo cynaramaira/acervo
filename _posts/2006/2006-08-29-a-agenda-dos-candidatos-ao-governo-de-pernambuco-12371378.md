@@ -1,20 +1,21 @@
 ---
 id: 12371378
-date: "2006-08-29T07:59:00+00:00"
+date: "2006-08-29T07:59:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao Governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B></p>
 <p><P><FONT face=Verdana>Tem compromissos administrativos, em Bras?lia. Às 11h, audiência com o ministro dos Transportes, Paulo Sérgio Passos. Às 15h, audiência com o ministro da Integração, Pedro Brito</FONT></P><B></p>
@@ -28,3 +29,4 @@ imagem: null
 <p> do Centro de Convenções de Pernambuco </FONT></P><B></p>
 <p><P><FONT face=Verdana>18h30, p</FONT></B><FONT face=Verdana>articipa de debate sobre o turismo em Pernambuco promovido pelo GAT. Local: Hotel Best Western Manibu, na Av. Conselheiro Aguiar, em Boa Viagem</FONT></P><B></p>
 <p><P><FONT face=Verdana>20h30</FONT></B><FONT face=Verdana>, caminhada na Cidade Tabajara, em Olinda</FONT></P></FONT> </p>
+{\% endraw %}

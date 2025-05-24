@@ -1,18 +1,19 @@
 ---
 id: 12372770
-date: "2006-09-23T20:40:00+00:00"
+date: "2006-09-23T20:40:00Z"
 last_modified_at: null
 tags:
-  - campanha
-  - mendonca
+  - "campanha"
+  - "mendonca"
 categories:
-  - noticias
-title: "A ordem partiu do comando da campanha de Mendonça"
+  - "noticias"
+title: "A ordem partiu do comando da campanha de Mendon\u00e7a"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Foi o que disse Milton Coelho, há pouco, por telefone, em entrevista a Cec?lia Ramos, repórter do <STRONG>Blog</STRONG>. </FONT></P></p>
 <p><P><FONT face=Verdana>Milton se licenciou hoje da presidência estadual do PSB por conta das denúncias apresentadas por Saulo Batista.</FONT></P></p>
 <p><P><FONT face=Verdana>A entrevista dele:</FONT></P></p>
@@ -34,3 +35,4 @@ imagem: null
 <p><P><FONT face=Verdana>Tudo o que eu falei ali, sacolinha e tudo o mais, fazia parte do plano para estimular Saulo. O que me interessava era flagrá-lo. Ele confessou a Fred que estava a mando de terceiros. </FONT></P><B></p>
 <p><P><FONT face=Verdana>Quem é Fred?</FONT></P></B></p>
 <p><P><FONT face=Verdana>Fred é uma pessoa da juventude do PSB e está desaparecido. Foi ele quem levou Saulo para o PSB.</FONT></P> </p>
+{\% endraw %}

@@ -1,17 +1,18 @@
 ---
 id: 12375321
-date: "2006-12-21T17:46:00+00:00"
+date: "2006-12-21T17:46:00Z"
 last_modified_at: null
 tags:
-  - festa
+  - "festa"
 categories:
-  - noticias
+  - "noticias"
 title: "A incr?vel festa do descarrego"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Em respeito aos leitores desta coluna eletrônica, mesmo com algum atraso,</p>
 <p> gostaria de esclarecer o episódio envolvendo o meu nome e o do governador eleito Eduardo Campos, na festa de confraternização do PSB.</FONT></P></p>
 <p><P><FONT face=Verdana>É fato que houve desentendimento entre mim e o governador, antes do final da festa de confraternização, mas em termos civilizados. Não houve barraco nem entrevero, conforme chegou a ser divulgado. Muito menos incidente. Aos 41 anos, com a maturidade que tenho hoje, aliás a mesma idade de Eduardo Campos, não perco mais a elegância facilmente e por tão pouco.</FONT></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana>Este Blog, bem como todos os ve?culos do Sistema Jornal de Comunicação, continuará fazendo jornalismo de qualidade, de maneira isenta e responsável, em defesa dos interesses&nbsp;de Pernambuco, independente de quem esteja no Poder.</FONT></P></p>
 <p><P><FONT face=Verdana>Por isso, o diretor de Redação, Ivanildo Sampaio, disse estranhar as declarações de Eduardo Campos, considerando que ele nunca deixou de frequentar as capas do JC, mesmo quando estava em baixa nas pesquisas, além de ter obtido inúmeras páginas no noticiário de Pol?tica, não apenas quando se elegeu governador, mas a partir do momento em que passou a liderar as pesquisas de opinião.</FONT></P></p>
 <p><P><FONT face=Verdana>Com isso, espero colocar um ponto final neste disse-me-disse! O mais é fococa e ti-ti-ti, que não contribuem para a discussão dos problemas do Estado (objetivo final do jornalismo que busco fazer) e não passa de desperd?cio de tempo e energia.</FONT></P> </p>
+{\% endraw %}

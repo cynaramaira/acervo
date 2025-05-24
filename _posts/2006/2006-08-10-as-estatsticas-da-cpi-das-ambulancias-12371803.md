@@ -1,17 +1,18 @@
 ---
 id: 12371803
-date: "2006-08-10T12:53:00+00:00"
+date: "2006-08-10T12:53:00Z"
 last_modified_at: null
 tags:
-  - sem-tags
+  - "sem-tags"
 categories:
-  - noticias
-title: "As estat?sticas da CPI das ambulâncias"
+  - "noticias"
+title: "As estat?sticas da CPI das ambul\u00e2ncias"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Romoaldo de Souza, correspondente da Rádio Jornal em Bras?lia, nos manda as estat?sticas do relatório da CPI das Sanguessugas.</FONT></P></p>
 <p><P><FONT face=Verdana>Veja os números:</FONT></P><B></p>
 <p><P><FONT face=Verdana>Processados</FONT></P></p>
@@ -76,3 +77,4 @@ imagem: null
 <p><P><FONT face=Verdana>Inocentados</FONT></B><FONT face=Verdana> </FONT></P></p>
 <p><P><FONT face=Verdana>11 Base do governo</FONT></P></p>
 <p><P><FONT face=Verdana>7 Oposição</FONT></P> </p>
+{\% endraw %}

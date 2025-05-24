@@ -1,17 +1,18 @@
 ---
 id: 12372494
-date: "2006-09-13T16:24:00+00:00"
+date: "2006-09-13T16:24:00Z"
 last_modified_at: null
 tags:
-  - blogs-jc
+  - "blogs-jc"
 categories:
-  - colunistas
+  - "colunistas"
 title: "MENINAS DO BLOG / Ladeira abaixo? (Louise Caroline)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B></p>
 <p><P></B><FONT face=Verdana>Por <STRONG>Louise Caroline*</STRONG><BR>Vice-presidente da UNE</FONT></P></p>
 <p><P><FONT face=Verdana><BR>Os defensores do processo eleitoral como momento máximo do confronto de opiniões sobre as relações sociais e pol?ticas têm muitos motivos para manifestar sua insatisfação com o rumo que a campanha pernambucana tomou nos últimos quinze, vinte dias.</FONT></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P align=justify><FONT face=Verdana>Para os admiradores da boa pol?tica, resta, além das dúvidas, o desejo sincero de que a população pernambucana reaja a esse tipo de campanha med?ocre da mesma forma com que tem reagido na disputa nacional. E aos pol?ticos, fica a lembrança de que governar Pernambuco é tarefa de alto n?vel, digna dos que semeiam amor, respeito e alegria.</FONT></P></p>
 <p><P align=justify><FONT face=Verdana></FONT></P></p>
 <p><P align=justify><FONT face=Verdana><BR><EM>*Louise Caroline, 23, é estudante de direito, vice-presidente da União Nacional dos Estudantes (UNE) e militante do PT.</EM></FONT></P> </p>
+{\% endraw %}

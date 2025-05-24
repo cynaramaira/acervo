@@ -1,19 +1,20 @@
 ---
 id: 12371252
-date: "2006-09-04T17:26:00+00:00"
+date: "2006-09-04T17:26:00Z"
 last_modified_at: null
 tags:
-  - balanco
-  - primeira-etapa
-  - propaganda-eleitoral
+  - "balanco"
+  - "primeira-etapa"
+  - "propaganda-eleitoral"
 categories:
-  - noticias
-title: "Um balanço da primeira metade da propaganda eleitoral obrigatória"
+  - "noticias"
+title: "Um balan\u00e7o da primeira metade da propaganda eleitoral obrigat\u00f3ria"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Acabei de publicar na seção artigos, na coluna ao lado, mais um artigo semanal do cientista pol?tico Túlio Velho Barreto, que escreve aqui às segundas e quintas.</FONT></P></p>
 <p><P><FONT face=Verdana>Boa leitura para vocês.</FONT></P></p>
 <p><P><FONT face=Verdana>--------------------------------------</FONT></P><B></p>
@@ -23,3 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>A União por Pernambuco, formada principalmente por PMDB, PFL, PSDB e PPS, como já ocorrera nas eleições de 1996, 2000 (Roberto Magalhães, ambas) e 2004 (Cadoca), optou por vincular o seu candidato Mendonça Filho ao ex-governador, e candidato favorito ao Senado, Jarbas Vasconcelos e aos seus sete anos de governo. E o slogan do Governo Mendonça Filho, que o sucedeu na condição de vice, \"A mudança continua\", transformou-se, nada sutilmente, em \"A mudança segue em frente\". </FONT></P></p>
 <p><P><FONT face=Verdana>Tratou igualmente de esconder seu palanque nacional, formado por Geraldo Alckmin (PSDB) e José Jorge (PFL), este senador pernambucano, a despeito da campanha nacional ser coordenada por outro senador local, Sérgio Guerra (PSDB), ambos sumidos na campanha local. A razão? Simples: o presidente-candidato Lula está disparado nas pesquisas de intenção de votos em Pernambuco. Da? a União recorrer à imagem de Lula e do prefeito do Recife, João Paulo, que, ao lado do presidente e de Jarbas Vasconcelos, é um dos principais indutores dos votos dos pernambucanos, segundo as mesmas pesquisas. E evitar citar o nome do ex-governador Miguel Arraes quando critica as gestões estaduais anteriores.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/09/04/not_1207.php\">aqui</A></EM></STRONG> o texto completo.</FONT></P> </p>
+{\% endraw %}

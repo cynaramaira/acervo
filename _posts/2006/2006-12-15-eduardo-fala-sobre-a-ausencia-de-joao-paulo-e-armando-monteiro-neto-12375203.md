@@ -1,21 +1,22 @@
 ---
 id: 12375203
-date: "2006-12-15T16:31:00+00:00"
+date: "2006-12-15T16:31:00Z"
 last_modified_at: null
 tags:
-  - armando-monteiro
-  - eduardo
-  - joao-d
-  - neto
-  - paulo
+  - "armando-monteiro"
+  - "eduardo"
+  - "joao-d"
+  - "neto"
+  - "paulo"
 categories:
-  - noticias
-title: "Eduardo fala sobre a ausência de João Paulo e Armando Monteiro Neto  "
+  - "noticias"
+title: "Eduardo fala sobre a aus\u00eancia de Jo\u00e3o Paulo e Armando Monteiro Neto  "
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O governador eleito Eduardo Campos saiu em defesa do prefeito do Recife, João Paulo (PT) e do deputado federal Armando Monteiro Neto (PTB), que não estão presentes na entrevista coletiva.</FONT></P></p>
 <p><P><FONT face=Verdana>A ausência foi questionada pelo jornalista Magno Martins, que perguntou também por que o PT de João Paulo não foi contemplado no governo socialista. \"Eu soube que João Paulo e Armando estariam insatisfeitos...\" </FONT></P></p>
 <p><P><FONT face=Verdana>A resposta de Eduardo:</FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>A presença f?sica de&nbsp;algumas pessoas não foi poss?vel, porque estão presas nos aeroportos. Inclusive alguns secretários...</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>Tenha certeza que você verá o deputado Armando contribuindo, ao nosso lado. Nossos adversários vão ver.</EM></FONT></P></p>
 <p><P><FONT face=Verdana>(Por Cec?lia Ramos)</FONT></P> </p>
+{\% endraw %}

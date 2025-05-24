@@ -1,18 +1,19 @@
 ---
 id: 12374496
-date: "2006-11-18T06:31:00+00:00"
+date: "2006-11-18T06:31:00Z"
 last_modified_at: null
 tags:
-  - dados
-  - eduardo-campos
+  - "dados"
+  - "eduardo-campos"
 categories:
-  - noticias
-title: "Dados da transição deixam Eduardo Campos apreensivo"
+  - "noticias"
+title: "Dados da transi\u00e7\u00e3o deixam Eduardo Campos apreensivo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Mesmo preocupado em não acabar com o clima de cordialidade que tem marcado as reuniões das equipes de transição do futuro governo e da atual gestão, o governador eleito Eduardo Campos (PSB) não escondeu, ontem, a sua preocupação com a falta de informações relativas ao funcionamento dos serviços essenciais - como os hospitais - e ao esquema traçado para o in?cio das aulas de 2007 e do Carnaval, eventos que acontecem no in?cio de sua administração. Ele demonstrou isso ao conversar com repórteres, pela manhã, mas medindo cada palavra.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/11/18/not_209157.php\" target=_blank>aqui</A></EM></STRONG> (asssinantes JC e UOL).</FONT></P></p>
@@ -23,3 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/11/18/not_209159.php\" target=_blank>aqui</A></EM></STRONG>.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Reunião com bancada federal acontece na segunda-feira <BR></STRONG><BR>Para discutir as emendas que serão apresentadas pela bancada de Pernambuco no Congresso Nacional ao Orçamento Geral da União (OGU) de 2007, o futuro governador Eduardo Campos (PSB) reúne-se, na segunda-feira à tarde, com os parlamentares federais, no Recife. O objetivo é dar prioridade à transferência de verbas que possam contribuir para viabilizar a instalação da refinaria de petróleo e do estaleiro, ambos no Porto de Suape.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/11/18/not_209160.php\" target=_blank>aqui</A></EM></STRONG>.</FONT></P> </p>
+{\% endraw %}

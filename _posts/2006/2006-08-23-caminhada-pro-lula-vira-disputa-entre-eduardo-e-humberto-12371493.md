@@ -1,21 +1,22 @@
 ---
 id: 12371493
-date: "2006-08-23T20:22:00+00:00"
+date: "2006-08-23T20:22:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - entrega
-  - humberto-costa
-  - lula
-  - pros
+  - "eduardo"
+  - "entrega"
+  - "humberto-costa"
+  - "lula"
+  - "pros"
 categories:
-  - noticias
-title: "Caminhada pró-Lula vira disputa entre Eduardo e Humberto"
+  - "noticias"
+title: "Caminhada pr\u00f3-Lula vira disputa entre Eduardo e Humberto"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Rápida, curta, realizada entre a Praça Maciel Pinheiro e o Pátio de São Pedro, no Recife, a caminhada pró-Lula, no final da tarde, acabou se tornando um ato pró-Eduardo, tal era a quantidade de bandeiras, material e militantes do socialista.</FONT></P></p>
 <p><P><FONT face=Verdana>Lula teve pouco espaço. Os militantes preferiram atiçar a disputa entre Eduardo e Humberto pela segunda colocação na corrida pela principal cadeira do Palácio das Princesas.</FONT></P></p>
 <p><P><FONT face=Verdana>Humberto considerou tudo normal. </FONT></P></p>
@@ -23,3 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Na verdade, diz a assessoria, um mês atrás, quando Lula esteve por aqui para seu primeiro com?cio de campanha, já havia 40 grandes estrelas (2 metros X 2,5 metros) confeccionadas e estão sendo usadas nas ruas.</FONT></P></p>
 <p><P><FONT face=Verdana>Elas trazem Lula na frente e Humberto no verso.</FONT></P></p>
 <p><P><FONT face=Verdana>Uma nova quantidade está sendo produzida. Desta vez com Lula e Luciano Siqueira.</FONT></P> </p>
+{\% endraw %}

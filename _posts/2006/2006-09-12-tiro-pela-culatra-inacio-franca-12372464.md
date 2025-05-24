@@ -1,19 +1,20 @@
 ---
 id: 12372464
-date: "2006-09-12T12:39:00+00:00"
+date: "2006-09-12T12:39:00Z"
 last_modified_at: null
 tags:
-  - franca
-  - multinacional
-  - tiroteio
+  - "franca"
+  - "multinacional"
+  - "tiroteio"
 categories:
-  - colunistas
-title: "Tiro pela culatra (Inácio França)"
+  - "colunistas"
+title: "Tiro pela culatra (In\u00e1cio Fran\u00e7a)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Inácio França*</STRONG><BR>Jornalista e consultor do UNICEF</FONT></P></p>
 <p><P><FONT face=Verdana>Nas últimas semanas, vários ve?culos de comunicação noticiaram que muitos dos parlamentares que se livraram da cassação no escândalo do chamado “mensalão??? poderiam ser reeleitos em outubro. Vários colunistas especializados (ou não) em pol?tica esbravejaram, espumaram indignação. Por conta disso, hoje decidi gastar alguns minutos na Internet pesquisando a situação nas pesquisas de opinião dos outros protagonistas das CPIs: os acusadores, aqueles que foram premiados com horas na telinha e fotos nas revistas semanais.</FONT></P></p>
 <p><P><FONT face=Verdana>Por ordem alfabética, comecemos pelos detentor da oratória mais furiosa da bancada tucana no Senado, Arthur Virg?lio Neto. Seria lógico imaginar que, depois de tanta exposição na m?dia, o l?der do PSDB seria um forte candidato ao Governo do seu estado. Não é isso que acontece: no Amazonas, Virg?lio está em terceiro nas pesquisas de opinião, com apenas 3% das intenções de voto segundo os institutos Sensus e Ibope. Sua rejeição é a maior entre os candidatos majoritário: incr?veis 76,3%. A mesma pesquisa aponta que, hoje, Lula teria 71% dos votos amazonenses.</FONT></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>&nbsp;É evidente que o fenômeno Lula tem inúmeras outras razões a serem bem estudadas, mas a massificação das denúncias deve ter contribu?do tanto para seu fortalecimento quanto para o desgate dos seus acusadores.&nbsp; </FONT></P></p>
 <p><P><BR><FONT face=Verdana><EM><STRONG>*Inácio França</STRONG> é jornalista&nbsp;formado pela</p>
 <p> Universidade Católica de Pernambuco, em dezembro de 1990. Repórter de Pol?cia do Diário Popular (SP), atual Diário de São Paulo. Repórter de O Globo, sucursal de São Paulo. Repórter de O Globo, sucursal de Recife. Repórter-especial do Diário de Pernambuco. Secretário de Comunicação de Olinda, durante a primeira gestão de Luciana Santos (PCdoB). Atualmente, Consultor de Comunicação do UNICEF para os estados de Alagoas, Para?ba e Pernambuco. Como repórter, conquistou o Prêmio Vladimir Herzog de Jornalismo e Dieitos Humanos, Prêmio Cristina Tavares de Jornalismo.</EM></FONT></P> </p>
+{\% endraw %}

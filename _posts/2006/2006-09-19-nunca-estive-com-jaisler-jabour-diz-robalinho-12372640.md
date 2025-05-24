@@ -1,17 +1,18 @@
 ---
 id: 12372640
-date: "2006-09-19T06:58:00+00:00"
+date: "2006-09-19T06:58:00Z"
 last_modified_at: null
 tags:
-  - rogerio-robalinho
+  - "rogerio-robalinho"
 categories:
-  - noticias
+  - "noticias"
 title: "Nunca estive com Jaisler Jabour, diz Robalinho"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O ex-secretário de Saúde de Pernambuco e um dos principais ex-assessores do ex-governador Jarbas Vasconcelos (PMDB), Guilherme Robalinho, está indignado. Mesmo assim ele consegue ver um \"lado positivo\" ao ter seu nome supostamente envolvido com pessoas ligadas ao escândalo dos vampiros.</FONT></P></p>
 <p><P><FONT face=Verdana>\"Acho até bom isso porque desmoraliza a mentira de Humberto, que diz que trouxe a Hemobrás para Pernambuco\", disse Robalinho, em entrevista a Cec?lia Ramos, repórter do <B>Blog</B>.</FONT></P></p>
 <p><P><FONT face=Verdana>Afirmando desconhecer detalhadamente a acusação contra ele, Robalinho contou que passou boa parte do dia de ontem em seu consultório médico. \"Eu fiquei sabendo (da denúncia) pela imprensa, quando os jornalistas começaram a me ligar. Estou saindo do consultório agora\", afirmou o médico, que também assegurou não ter conversado até então (eram 20h40 de ontem), com Jarbas sobre o assunto. </FONT></P></p>
@@ -37,3 +38,4 @@ imagem: null
 <p><P><FONT face=Verdana>Conheço. Ela trabalhava na pol?tica de medicamentos, era uma técnica do ministério. Meu contato com ela era pelo Lafepe. Ela ja esteve aqui no Recife. Essa senhora dirigiu um laboratório, ela é muito competente na parte de medicamentos e ajudou muito na recuperação do Lafepe. O que foi que ela disse? </FONT></P><B></p>
 <p><P><FONT face=Verdana>Edilamar relatou à PF que sabia que o senhor mantinha conversas com o lobista Jaisler Jabour para a implantação da Hemobrás.</FONT></P></B></p>
 <p><P><FONT face=Verdana>Ela deve estar equivocada, porque eu não conheço essa pessoa.<BR><BR>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/09/19/index.php#1555\">aqui</A></EM></STRONG> a entrevista completa.</FONT></P> </p>
+{\% endraw %}

@@ -1,18 +1,19 @@
 ---
 id: 12371755
-date: "2006-08-13T05:10:00+00:00"
+date: "2006-08-13T05:10:00Z"
 last_modified_at: null
 tags:
-  - fundo-eleitoral
-  - pernambucano
+  - "fundo-eleitoral"
+  - "pernambucano"
 categories:
-  - noticias
+  - "noticias"
 title: "Pernambucano criou o guia eleitoral"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p><FONT face=Verdana></FONT></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><o:p><FONT face=Verdana></FONT></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><o:p><FONT face=Verdana></FONT></o:p></SPAN></P></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>No in?cio, os programas eram simples, transmitidos ao vivo, com os candidatos dirigindo-se ao eleitor sem edições ou trucagens.&nbsp;</FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"></SPAN><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><o:p><FONT face=Verdana>&nbsp;</FONT></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>Leia mais <STRONG><EM><FONT color=crimson><A href=\"https://jc3.uol.com.br/jornal/\" target=_blank>aqui</A></FONT></EM></STRONG> (assinantes JC e UOL).</FONT></SPAN></P> </p>
+{\% endraw %}

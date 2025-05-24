@@ -1,21 +1,22 @@
 ---
 id: 12371785
-date: "2006-08-11T14:44:00+00:00"
+date: "2006-08-11T14:44:00Z"
 last_modified_at: null
 tags:
-  - emendas
-  - enem-digital
-  - inclusao
-  - raul-jungmann
-  - skate
+  - "emendas"
+  - "enem-digital"
+  - "inclusao"
+  - "raul-jungmann"
+  - "skate"
 categories:
-  - noticias
-title: "Até Jungmann apresentou emenda para inclusão digital"
+  - "noticias"
+title: "At\u00e9 Jungmann apresentou emenda para inclus\u00e3o digital"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><span style="font-family: Verdana;">Pois o vice-presidente da CPI das Sanguessugas incluiu no Orçamento Geral da União do ano passado duas emendas destinadas ao programa de inclusão digital, do Ministério da Ciência e Tecnologia.</span></p>
 <p>&nbsp;</p>
 <p><span style="font-family: Verdana;">Uma emenda tem valor total de R$ 800 mil, dos quais R$ 438 mil foram empenhados e liquidados pelo Governo Federal, segundo dados da Comissão de Orçamento do Congresso Nacional, obtidos pelo <strong>Blog</strong>.</span></p>
@@ -284,3 +285,4 @@ imagem: null
 <p><span style="font-family: Verdana;">EMPENHADO: -</span></p>
 <p>&nbsp;</p>
 <p><span style="font-family: Verdana;">LIQUIDADO: -</span></p>
+{\% endraw %}

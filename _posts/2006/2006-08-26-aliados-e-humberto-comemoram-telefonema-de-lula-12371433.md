@@ -1,18 +1,19 @@
 ---
 id: 12371433
-date: "2006-08-26T18:43:00+00:00"
+date: "2006-08-26T18:43:00Z"
 last_modified_at: null
 tags:
-  - humberto-costa
-  - lula
+  - "humberto-costa"
+  - "lula"
 categories:
-  - noticias
+  - "noticias"
 title: "Aliados e Humberto comemoram telefonema de Lula"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Da <STRONG>Agência Estado</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Fontes ligadas ao ex-ministro da Saúde afirmam ainda que o contato o deixou emocionado. A ligação do presidente aconteceu às 8 horas, quando Costa fazia campanha em Ouricuri, no Sertão do Estado. De acordo com ele, Lula afirmou que, sempre que for questionado sobre o caso, defenderá a inocência dele.</FONT></P></p>
 <p><P><FONT face=Verdana>\"O presidente disse que ficasse absolutamente tranqüilo. Ele deixou clara sua confiança em mim e fez questão de ressaltar que estava plenamente consciente de que a denúncia que chegou à Pol?cia Federal e rendeu toda essa investigação, foi, na verdade encaminhada por mim\", disse.</FONT></P></p>
@@ -22,3 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Guia de Mendonça&nbsp;pode usar o caso na segunda</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>O suposto envolvimento no caso da máfia do sangue deverá transformar-se no alvo preferencial dos adversários do ex-ministro na disputa pelo governo estadual. Interlocutores com livre trânsito no palanque do governador Mendonça Filho (PFL), candidato da Coligação União por Pernambuco (PFL-PMDB-PTN-PPS-PHS-PSDB) afirmam que os responsáveis pela publicidade da campanha pefelista correm contra o tempo para inserir o assunto na edição de segunda-feira (28) da publicidade eleitoral gratuita.</FONT></P></p>
 <p><P><FONT face=Verdana>Hoje, apesar da presença do vice-presidente José Alencar no Recife, Costa passou o dia cumprindo uma extensa programação de campanha no Sertão pernambucano.</FONT></P> </p>
+{\% endraw %}

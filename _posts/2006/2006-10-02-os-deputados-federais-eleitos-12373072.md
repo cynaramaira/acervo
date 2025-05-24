@@ -1,19 +1,20 @@
 ---
 id: 12373072
-date: "2006-10-02T00:33:00+00:00"
+date: "2006-10-02T00:33:00Z"
 last_modified_at: null
 tags:
-  - candidatos-eleitos
-  - deputados
-  - taxas-federais
+  - "candidatos-eleitos"
+  - "deputados"
+  - "taxas-federais"
 categories:
-  - noticias
+  - "noticias"
 title: "Os deputados federais eleitos"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Nomes apresentados agora pela Rádio Jornal e que devem ser confirmados como eleitos para uma vaga na bancada de Pernambuco na Câmara Federal:</FONT></P></p>
 <p><P><FONT face=Verdana>Armando Monteiro Neto</FONT></P></p>
 <p><P><FONT face=Verdana>Inocêncio Oliveira</FONT></P></p>
@@ -40,3 +41,4 @@ imagem: null
 <p><P><FONT face=Verdana>Marcos Antônio</FONT></P></p>
 <p><P><FONT face=Verdana>Wolney Queiroz</FONT></P></p>
 <p><P><FONT face=Verdana>Paulo Rubem</FONT></P> </p>
+{\% endraw %}

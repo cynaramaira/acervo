@@ -1,18 +1,19 @@
 ---
 id: 12374337
-date: "2006-11-11T19:14:00+00:00"
+date: "2006-11-11T19:14:00Z"
 last_modified_at: null
 tags:
-  - crise-sanitaria
-  - governo
+  - "crise-sanitaria"
+  - "governo"
 categories:
-  - noticias
-title: "República do Abc resiste à crise e deve permanecer no governo"
+  - "noticias"
+title: "Rep\u00fablica do Abc resiste \u00e0 crise e deve permanecer no governo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do Portal <STRONG>G1</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>A reeleição do presidente Luiz Inácio Lula da Silva assegurou a permanência de um projeto e, junto com ele, a permanência de um grupo que compartilha mais que uma visão de mundo. No governo da República Federativa do Brasil, existe outra, a “República do ABC???. Entre os principais assessores e conselheiros do presidente, encontram-se companheiros de longa data que, como Lula, fizeram carreira pol?tica no ABC paulista (Santo André, São Bernardo do Campo, São Caetano do Sul e cidades nos arredores).</FONT></P></p>
 <p><P><FONT face=Verdana>A República do ABC foi abatida por crises pol?ticas na segunda metade do primeiro mandato. Alguns de seus integrantes célebres pagaram o preço com a perda de cargos ou com a derrota nas urnas: na próxima Câmara dos Deputados, o PT do ABC vai ter um único representante, Vicente Paulo da Silva, o Vicentinho.</FONT></P></p>
@@ -23,3 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>O homem de confiança do presidente, paranaense Gilberto Carvalho, foi secretário administração do prefeito Celso Daniel, assassinado em 2002. Quando chegou ao estado de São Paulo, Gilberto viveu primeiro em Jundia? e depois alguns meses</p>
 <p> em Santo André. Embora tenha se mudado para São Paulo, onde mora sua esposa, Carvalho conta que ainda tem o pé no ABC. \"Minha base é Santo André. Na verdade, morei pouco na cidade, mas meu coração está lá\", afirma. Carvalho articulou a vitória do vice de Celso Daniel, João Avamileno, nas eleições municipais de 2004 e integra o grupo que mantém o poder local.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://g1.globo.com/Noticias/Politica/0,,AA1345843-5601-413,00.html\" target=_blank>aqui</A></EM></STRONG>.</FONT></P> </p>
+{\% endraw %}

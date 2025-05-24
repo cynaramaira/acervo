@@ -1,18 +1,19 @@
 ---
 id: 12374296
-date: "2006-11-09T20:19:00+00:00"
+date: "2006-11-09T20:19:00Z"
 last_modified_at: null
 tags:
-  - correios
-  - riscos
+  - "correios"
+  - "riscos"
 categories:
-  - noticias
-title: "Sanguessuga: CPI esfria e corre risco de fim melancólico"
+  - "noticias"
+title: "Sanguessuga: CPI esfria e corre risco de fim melanc\u00f3lico"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT face=Verdana size=2></p>
 <p><P>Da <STRONG>Agência Estado</STRONG></P></p>
 <p><P>Faltando 40 dias para acabar, a CPI dos Sanguessugas esfriou e corre o risco de terminar melancolicamente, com a aprovação de um relatório final p?fio sem apontar os culpados no Executivo pelo esquema de compra superfaturada de ambulâncias pelas prefeituras. </P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><o:p>(...) </o:p></SPAN><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">Costurado com a participação do Palácio do Planalto, o acordo visa pôr uma pedra em cima das apurações do Legislativo, deixando a cargo apenas da Pol?cia Federal e do Ministério Público o desfecho do caso. Como os fatos sob investigação alcançam também o governo FHC, PSDB e PFL participam ativamente da conspiração contra a postergação dos trabalhos da CPI.<o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><o:p>&nbsp;</o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">O acerto começou a ser surtir efeitos nesta semana, nas sessões em que foram inquiridos os ex-titulares da pasta da Saúde. Foram “convidados??? quatro ex-ministros –dois do governo FHC, José Serra e Barjas Negri; e dois da gestão Lula, Humberto Costa e Saraiva Felipe.</SPAN></P></FONT> </p>
+{\% endraw %}

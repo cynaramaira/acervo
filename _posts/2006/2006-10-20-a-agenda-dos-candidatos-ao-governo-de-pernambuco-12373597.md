@@ -1,20 +1,21 @@
 ---
 id: 12373597
-date: "2006-10-20T05:02:00+00:00"
+date: "2006-10-20T05:02:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>EDUARDO CAMPOS (PSB)</FONT></P></p>
 <p><P><FONT face=Verdana>10h</FONT></B><FONT face=Verdana>, em Caruaru, concede entrevista a Rádio Liberdade</FONT></P><B></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>16h</FONT></B><FONT face=Verdana>, em Arcoverde, caminhada com discurso ao final </FONT></P><B></p>
 <p><P><FONT face=Verdana>18h30</FONT></B><FONT face=Verdana>, em Serra Talhada, carreata e com?cio </FONT></P><B></p>
 <p><P><FONT face=Verdana>20h</FONT></B><FONT face=Verdana>, em Afogados da Ingazeira, caminhada com discurso ao final</FONT></P></FONT> </p>
+{\% endraw %}

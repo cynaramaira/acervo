@@ -1,17 +1,18 @@
 ---
 id: 12373841
-date: "2006-10-26T22:49:00+00:00"
+date: "2006-10-26T22:49:00Z"
 last_modified_at: null
 tags:
-  - primeiro-turno
+  - "primeiro-turno"
 categories:
-  - noticias
+  - "noticias"
 title: "As farpas do primeiro bloco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><U><STRONG><FONT face=Verdana>De Eduardo Campos:</FONT></STRONG></U></P><FONT size=2></p>
 <p><P><STRONG><FONT face=Verdana><EM>\"Vou falar de pol?tica de segurança. Não vou ficar discutindo questões que não interessam a você (eleitor)\" </EM></FONT></STRONG></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>------------</FONT></P><B><I></p>
 <p><P><FONT face=Verdana>\"É lamentável. Eduardo continua tratando com demagodia. Agora fala da saúde. Quem sabe o que Eduardo fez quando ele foi secretário da Fazenda, negando recurso para saúde, sabe que ele faz aqui demagogia\"</FONT></P></B></I></p>
 <p><P><FONT face=Verdana>Na tréplica sobre saúde</FONT></P></FONT> </p>
+{\% endraw %}

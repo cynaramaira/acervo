@@ -1,18 +1,19 @@
 ---
 id: 12374617
-date: "2006-11-23T07:55:00+00:00"
+date: "2006-11-23T07:55:00Z"
 last_modified_at: null
 tags:
-  - fechamento
-  - lula
+  - "fechamento"
+  - "lula"
 categories:
-  - noticias
+  - "noticias"
 title: "Lula fecha parceria com PMDB"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">Do <STRONG>Jornal do Commercio<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></STRONG></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><o:p>&nbsp;</o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">BRAS??LIA – Foi bem-sucedida a ofensiva pessoal do presidente Luiz Inácio Lula da Silva (PT) para construir um governo de coalizão com o PMDB. A proposta institucional de parceria, com divisão de responsabilidades no Executivo e votos favoráveis no Congresso, foi oficializada ontem por Lula, em reunião de mais de duas horas com o presidente nacional do partido, deputado Michel Temer (SP). Satisfeito com a conversa, Temer saiu do Planalto prevendo que a coalizão será oficialmente aprovada pelo partido na semana que vem. </SPAN></P></p>
@@ -29,3 +30,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 9pt; FONT-FAMILY: Verdana\"></SPAN><SPAN style=\"FONT-SIZE: 9pt; FONT-FAMILY: Verdana\"><FONT size=2>O próprio Temer ligou para Jarbas, assinalando o interesse do presidente em conversar com os “dissidentes??? peemedebistas.<o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana></FONT>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/11/23/not_209808.php\" target=_blank>aqui</A></EM></STRONG>.<o:p></o:p></FONT></P> </p>
+{\% endraw %}

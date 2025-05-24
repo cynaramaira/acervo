@@ -1,20 +1,21 @@
 ---
 id: 12375185
-date: "2006-12-15T08:27:00+00:00"
+date: "2006-12-15T08:27:00Z"
 last_modified_at: null
 tags:
-  - contran
-  - humberto-costa
-  - jarbas-vasconcelos
-  - mendonca
+  - "contran"
+  - "humberto-costa"
+  - "jarbas-vasconcelos"
+  - "mendonca"
 categories:
-  - noticias
-title: "A vingança de Humberto Costa contra Jarbas e Mendonça"
+  - "noticias"
+title: "A vingan\u00e7a de Humberto Costa contra Jarbas e Mendon\u00e7a"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Inocentado pela CPI das Sanguessugas, o secretário nacional de Comunicação do PT e ex-ministro da Saúde, Humberto Costa, afirmou que vai processar o governador Mendonça Filho (PFL) e o senador eleito Jarbas Vasconcelos (PMDB) por danos morais. É o que informa o repórter de Pol?tica, Jorge Cavalcanti, no JC de hoje.</FONT></P></p>
 <p><P><FONT face=Verdana>Segundo Humberto, o processo vai ser movido assim que o Ministério Público Federal se pronunciar sobre o caso de fraude na venda das ambulâncias para as prefeituras de vários Estados, o que ainda não tem prazo marcado. </FONT></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>Já sobre a denúncia da Procuradoria da República no Distrito Federal por envolvimento com a máfia dos vampiros, Humberto informou que ainda não foi notificado. </FONT></P></p>
 <p><P><FONT face=Verdana>\"Algumas pessoas já foram, mas eu ainda não. Devo estar recebendo a comunicação em breve\", disse, repetindo o argumento que foi o responsável pelo comunicado à Pol?cia Federal, que iniciou a investigação do esquema da compra superfaturada de hemoderivados, depois de ter recebido uma carta anônima.</FONT></P></p>
 <p><P><FONT face=Verdana>O ex-ministro da Saúde e o ex-tesoureiro do PT Delúbio Soares e outras onze pessoas foram denunciados no escândalo. Humberto foi acusado de prática de formação de quadrilha e corrupção passiva.</FONT></P></FONT> </p>
+{\% endraw %}

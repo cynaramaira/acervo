@@ -1,18 +1,19 @@
 ---
 id: 12374329
-date: "2006-11-11T13:20:00+00:00"
+date: "2006-11-11T13:20:00Z"
 last_modified_at: null
 tags:
-  - lula
-  - sinovac
+  - "lula"
+  - "sinovac"
 categories:
-  - noticias
+  - "noticias"
 title: "Lula: uma nova rotina na capital"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Correio Braziliense</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>O presidente Luiz Inácio Lula da Silva tem emitido sinais de que pretende governar e agir de forma mais leve e descontra?da nos próximos quatro anos. </FONT></P></p>
 <p><P><FONT face=Verdana>Se no primeiro mandato, Lula se encastelou na Granja do Torto e no Palácio da Alvorada, evitando freqüentar os locais de Bras?lia fora do horário de expediente, parece que agora terá um comportamento diferente. </FONT></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Comentário meu:</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>O Rosental é um restaurante modesto, discreto, com um único garçom, instalado no meio de um bairro popular por “seu Rosa???, o eterno cozinheiro de Juscelino Kubitschek, falecido no ano passado.</FONT></P></p>
 <p><P><FONT face=Verdana>Ali, principalmente nas sextas-feiras, é comum se encontrar figuras como Gilberto Carvalho, chefe de gabinete de Lula, comendo torresmo de entrada ou coelho ao molho de prato principal.</FONT></P> </p>
+{\% endraw %}

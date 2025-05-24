@@ -1,19 +1,20 @@
 ---
 id: 12372521
-date: "2006-09-14T14:49:00+00:00"
+date: "2006-09-14T14:49:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - humberto-costa
-  - mendonca
+  - "eduardo"
+  - "humberto-costa"
+  - "mendonca"
 categories:
-  - noticias
-title: "As perguntas que deixaram de fazer a Mendonça, Eduardo e Humberto"
+  - "noticias"
+title: "As perguntas que deixaram de fazer a Mendon\u00e7a, Eduardo e Humberto"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Para <STRONG>Francisco Filho</STRONG><BR>Comentarista freqüente do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>Caro amigo, decidi ir além na sua cobrança sobre as entrevistas dos três principais candidatos ao governo de Pernambuco no NETV 2ª Edição, da Globo.</FONT></P></p>
 <p><P><FONT face=Verdana>O Blog irá fazer aos candidatos as perguntas que não foram apresentadas no programa (leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/09/12/index.php#1390\" target=_blank>aqui</A></EM></STRONG>,<STRONG><EM>&nbsp;<A href=\"https://jc3.uol.com.br/blogs/jc/2006/09/13/index.php#1417\" target=_blank>aqui</A></EM></STRONG> e <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/09/13/index.php#1419\" target=_blank>aqui</A></EM></STRONG>). </FONT></P></p>
@@ -31,3 +32,4 @@ imagem: null
 <p><P><FONT face=Verdana>5) O que o sr. acha do indiciamento de Humberto Costa pela Pol?cia Federal? O sr. acha que ele tem condições de continuar na disputa?</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>HUMBERTO COSTA</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>1) Em tendo seu indiciamento proposto pelo Ministério Público Federal e já depois de ter sido indiciado pela Pol?cia Federal sob a acusação de envolvimento com a máfia dos vampiros, o sr. acha que é leg?timo continuar disputando o governo de Pernambuco?<BR><BR>2) O sr. teve uma pessoa da sua confiança presa como um dos l?deres da máfia dos vampiros, foi indiciado como envolvido na máfia e foi apontado como envolvido no escândalo das sanguessugas, como o sr. pretende conquistar a confiança do eleitor pernambucano?<BR><BR>3) Por diversas vezes o sr. foi apontado como um ministro ruim, que atrapalhou o governo Lula. O sr. deixou o Ministério da Saúde apontado como incompetente. O sr. se sente realmente capaz de gerir o Estado?<BR><BR>4) O sr. diz que é o candidato do presidente Lula e direciona toda a sua campanha na TV e no rádio para mostrar isso. Mas em nenhum momento o presidente, que é de seu partido, esteve aqui para pedir votos para o sr. O presidente, inclusive, levou 13 dias para dizer alguma coisa em seu favor no caso do seu indiciamento pela Pol?cia Federal. O sr. acha que os eleitores se convencerão de que o sr. é mesmo o candidato de Lula?<BR><BR>5) O sr. critica o governo Jarbas, mas o presidente Lula tentou de todas as maneiras ter Jarbas como vice dele nesta eleição. Quer dizer que o governo Jarbas é ruim para o sr., mas é considerado bom pelo presidente Lula?</FONT></P> </p>
+{\% endraw %}

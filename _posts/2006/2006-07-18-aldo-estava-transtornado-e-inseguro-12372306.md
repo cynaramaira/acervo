@@ -1,17 +1,18 @@
 ---
 id: 12372306
-date: "2006-07-18T09:29:00+00:00"
+date: "2006-07-18T09:29:00Z"
 last_modified_at: null
 tags:
-  - rivaldo
+  - "rivaldo"
 categories:
-  - noticias
+  - "noticias"
 title: "Aldo estava transtornado e inseguro"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P>Após 38 dias preso, \"sem&nbsp;direito a&nbsp;ler jornais\",&nbsp;o l?der do Movimento de Libertação dos Sem-Terra (MLST), Bruno Maranhão, pernambucano filho de usineiros, decidiu falar sobre o quebra-quebra ocorrido no in?cio de junho na Câmara dos Deputados. Em entrevista exclusiva ao <B>Blog do JC</B>, por telefone, ele responsabiliza Aldo Rebelo e \"a direita do Congresso\" pelas prisões de 612 membros do movimento e pelo \"golpe de m?dia\" que, na opinião dele, pretende aprofundar um processo de criminalização dos movimentos sociais no Brasil. Maranhão antecipa aqui boa parte das explicações que pretende dar nesta terça-feira, às 10h, na entrevista coletiva que concederá à imprensa.</P></p>
 <p><P>Maranhão foi solto no sábado, por ordem da Justiça Federal, com mais 32 integrantes do MLST. Eles estavam presos no Complexo Penitenciário da Papuda, em Bras?lia, e responderão ao processo em liberdade.</P></p>
@@ -30,3 +31,4 @@ imagem: null
 <p><P>Não, a fita não diz isso. Eu não vi a fita. A fita diz que é pra chegar no salão verde (principal salão da Câmara). Tem um documento nosso para Aldo falando que é pac?fica a manifestação nossa. O companheiro que estiver dizendo isso a? ele está contrariando o movimento e a gente vai condenar isso a?. Na fita eu soube que não tem isso. Agora ela está sendo passada centenas de vezes. Mas tem a filmagem que você sabe que é do próprio sistema de câmara que é do Congresso. Então nós vamos pedir per?cia para isso.</P><B></p>
 <p><P>Blog - Como o sr. recebeu a not?cia do seu afastamento da direção nacional do PT?</P></B></p>
 <p><P>Isso é uma discussão que vou ter. Tenho informações diferentes. Não quero comentar nada agora, só depois de me reunir com a direção. Não quero entrar nessa discussão. Vamos ter um processo de esclarecimentos. Topo deabater com seu Aldo, com quem quiser.</P></FONT> </p>
+{\% endraw %}

@@ -1,19 +1,20 @@
 ---
 id: 12371345
-date: "2006-08-30T08:34:00+00:00"
+date: "2006-08-30T08:34:00Z"
 last_modified_at: null
 tags:
-  - denuncia
-  - deputado
-  - louro-jose
+  - "denuncia"
+  - "deputado"
+  - "louro-jose"
 categories:
-  - noticias
-title: "Guia denuncia d?vida de R$ 375 milhões do deputado José Mendonça"
+  - "noticias"
+title: "Guia denuncia d?vida de R$ 375 milh\u00f5es do deputado Jos\u00e9 Mendon\u00e7a"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p>Do Jornal do Commercio</p>
 <p>Um dia depois de ter sido denunciado pelo candidato a governador do P-SOL, Edilson Silva, durante debate na TV Clube, o deputado federal Jos&eacute; Mendon&ccedil;a (PFL) - pai do governador e candidato &agrave; reelei&ccedil;&atilde;o Mendon&ccedil;a Filho (PFL) - foi novamente alvo de cr?ticas.</p>
 <p>S&oacute; que dessa vez o ataque partiu da coliga&ccedil;&atilde;o Frente Popular de Pernambuco (PSB/PDT/PL/PP/PSC), que tem como candidato ao governo o deputado Eduardo Campos (PSB).</p>
@@ -51,3 +52,4 @@ imagem: null
 <p>3 - A empresa questionou judicialmente esses c&aacute;lculos e, recentemente, para possibilitar entendimento entre as partes, em decorr&ecirc;ncia de pedido do pr&oacute;prio BNB, a Justi&ccedil;a suspendeu o processo. Essa a s?ntese do processo judicial. Tudo o mais que se diga a respeito &eacute; fruto de m&aacute;-f&eacute; ou distor&ccedil;&atilde;o da realidade;</p>
 <p>4 - A indevida, truncada e leviana explora&ccedil;&atilde;o pol?tica do fato, com o &uacute;nico intuito de atingir o Governador Mendon&ccedil;a Filho, &eacute; inaceit&aacute;vel, at&eacute; porque ele jamais teve qualquer participa&ccedil;&atilde;o na referida empresa.</p>
 <p>Renato Pinheiro Filho - Advogado</p>
+{\% endraw %}

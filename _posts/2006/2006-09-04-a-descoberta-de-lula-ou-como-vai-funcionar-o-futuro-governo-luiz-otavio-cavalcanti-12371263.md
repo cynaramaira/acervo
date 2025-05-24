@@ -1,0 +1,47 @@
+---
+id: 12371263
+date: "2006-09-04T10:50:00Z"
+last_modified_at: null
+tags:
+  - "como-jogar"
+  - "descobertas"
+  - "governo"
+  - "joao-cavalcanti"
+  - "luiz-fuz"
+  - "lula"
+categories:
+  - "colunistas"
+title: "A descoberta de Lula ou Como vai funcionar o futuro governo? (Luiz Ot\u00e1vio Cavalcanti)"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{\% raw %}
+<p><P><FONT face=Verdana>Por <STRONG>Luiz Otávio Cavalcanti<BR></STRONG></FONT><FONT face=Verdana>Ex-secretário do Planejamento e da Fazenda de Pernambuco<BR></FONT><U><FONT color=#0000ff><FONT face=Verdana><A href=\"mailto:lotavio@fsm.com.br\"><STRONG>lotavio@fsm.com.br</STRONG></A></FONT></P></U></FONT></p>
+<p><P><FONT face=Verdana><BR>Governar é aprender. O presidente Lula aprendeu rápido. Ele percebeu que precisava manter estável a economia (pois inflação alta é aliada da ingovernabilidade). Precisava também ancorar socialmente seu governo. E teria que adotar a velha conciliação brasileira para, entre avanços e recuos, chegar aonde quisesse. Essa é a chave da reeleição. Acrescentando-se alguns equ?vocos tucanos. Porque vitória não se faz só com a própria virtude. Mas com ela e com os erros alheios.</FONT></P></p>
+<p><P><FONT face=Verdana>Então, vamos lá. Controle da inflação. O presidente sabia que manter os preços sob controle era fator de estabilidade pol?tica. Não hesitou em colocar no Banco Central um deputado eleito pelo PSDB e ex-presidente do Banco de Boston, Henrique Meireles. Com a inflação abaixo de dois d?gitos, ele mostra respeito aos fundamentos econômicos e ressalta zelo com a governabilidade.</FONT></P></p>
+<p><P><FONT face=Verdana>Ancoragem social. Lula percebeu que seu governo necessitava de projeto social que justificasse o discurso pol?tico que ele assumira por décadas. Ao encarar o desastre gerencial do Fome Zero, ele rapidamente costurou alternativa que beira o assistencialismo. Mas que ampara fam?lias pobres e dá voto.</FONT></P></p>
+<p><P><FONT face=Verdana>Conciliação pol?tica. José Honório Rodrigues tem um clássico da sociologia nacional, Conciliação e reforma no Brasil, no qual mostra que o Brasil é especialista em conciliações, que não gosta de reformas e que estas são sempre obra de elite. Agora, junte-se a esta especialidade o perfil cultural do brasileiro, extra?do da tropicologia de Gilberto Freyre e que vem da miscigenação das três raças. Teremos o perfeito conciliador, o administrador que não gosta de contrariar interesses e o pol?tico que negocia, compõe e adia o futuro.</FONT></P></p>
+<p><P><FONT face=Verdana>Mas, o êxito de Lula não é constru?do apenas de suas iniciativas. Decorre também de equ?vocos dos adversários. O PSDB carrega três deles. O segundo mandato de FHC foi administrativamente pobre (com apagão) e politicamente desgastante (com as dissenções entre Serra e L.C. Mendonça de Barros). Um paulistério completo. Por outro lado, o discurso da ética, que marcou a atuação de Mario Covas e dos fundadores da social-democracia brasileira,</p>
+<p> foi empanado pelo caixa 2 da campanha em Minas de Eduardo Azeredo. E agora pelo of?cio do senador Antero Paes de Barros pedindo recurso para ambulância. Quer dizer, é caixa 2 contra caixa 2.</FONT></P></p>
+<p><P><FONT face=Verdana>Finalmente, o candidato Geraldo Alckmin não tem mostrado, até agora, carisma capaz de se opor à figura de brasileiro médio que é Lula. Na verdade, o jeito brega do presidente que envergonha bem-pensantes faz a del?cia da galera. Tudo somado e subtra?do, tem-se reeleição.<BR></FONT></P></p>
+<p><P><FONT face=Verdana>E, o futuro, como fica? Como vai ser o segundo mandato de Lula, se ele vencer como indicam as pesquisas?</FONT></P></p>
+<p><P><FONT face=Verdana>O segundo governo Lula terá as seguintes quatro caracter?sticas: </FONT></P></p>
+<p><P><FONT face=Verdana>Primeira, será um governo de coalizão partidária com o PMDB; Segunda, manterá a pol?tica de controle da inflação; Terceira, aprofundará a pol?tica social do Bolsa Fam?lia; e, Quarta, continuará exercitando a conciliação como instância de atuação pol?tica.</FONT></P></p>
+<p><P><FONT face=Verdana>Vamos por partes.<BR></FONT></P></p>
+<p><P><FONT face=Verdana>Governo de coalizão partidária. A principal base partidária, com a qual o governo Lula vai dispor, formada por PT, PMDB, PSB e PC do B, contará com cerca de 200 a 210 deputados federais. Ou seja, o governo vai precisar de mais cento e oitenta a cento e noventa votos no Congresso para aprovar reformas na Constituição. Na prática, é uma segunda base parlamentar. Portanto, governo do PT não vai existir mais. O PT não elege mais de três governadores em Estados pequenos. Será governo de composição entre Partidos que darão sustentação ao presidente.</FONT></P></p>
+<p><P><FONT face=Verdana>A necessidade de aprovar reformas constitucionais, sobretudo a reforma tributária e a reforma previdenciária, levará Lula a procurar os governadores eleitos do PSDB, J. Serra (SP) e Aécio Neves (MG), e os do PMDB, que devem chegar a dez (inclusive no RJ e SC). Lula vai precisar conversar muito, tanto com Renan Calheiros e J.Sarney, quanto com Serra, Aécio e Sérgio Cabral. Numa palavra, o segundo mandato de Lula vai ter cara de social-democracia. Mais do que o primeiro mandato.</FONT></P></p>
+<p><P><FONT face=Verdana>Controle da inflação. Henrique Meireles, que não conseguiu viabilizar sua candidatura ao governo de Goiás, vai continuar presidindo o Banco Central. Permanece o presidente do BC e continua sua pol?tica. Conservadora, prudente e alinhada aos fatores externos da globalização. É por a? que o presidente Lula garante a tranqüilidade social que forra a governabilidade pol?tica.</FONT></P></p>
+<p><P><FONT face=Verdana>Inflação abaixo de dois d?gitos é o de que Lula precisa para sinalizar à classe média e aos investidores externos que a economia caminha na direção correta. Inflação baixa estará amarrada a dois elementos: pol?tica monetária de juros apertados e pol?tica fiscal de superávits. Aqui é que o governo Lula vai botar a sociedade no sofrimento. Porque não há disposição pol?tica para reduzir gastos correntes da administração federal. Aumentar arrecadação sem elevar imposto fica cada vez mais dif?cil porque as taxas de crescimento do PIB não vão subir no n?vel em que todos queremos.</FONT></P></p>
+<p><P><FONT face=Verdana>Bolsa fam?lia. Este é o tapete moral do discurso de Lula. E é também seu caminhão de votos. O governo poderá manter este programa no feitio assistencialista em que se encontra. Ou poderá convocar inteligências, no Brasil e no exterior, para discutir aperfeiçoamentos técnicos e avaliações gerenciais na sua implementação. Ampliar a credibilidade do programa seria uma opção lúcida. E contribuição importante a pol?ticas sociais que estão sendo observadas no mundo inteiro. <BR></FONT></P></p>
+<p><P><FONT face=Verdana>A grande intervenção do governo Lula no Bolsa fam?lia estaria no tripé: gestão, avaliação e resultados. Gestão mais técnica, avaliação cont?nua de desempenho e fixação de metas com controle de resultados.</FONT></P></p>
+<p><P><FONT face=Verdana>Conciliação pol?tica. A história brasileira mostra que os presidentes da República são, quase todos, ex?mios conciliadores. </FONT></P></p>
+<p><P><FONT face=Verdana>Vargas gerou muitos Getúlios, todos conciliadores, o da CLT, o do PTB, o da pol?tica agr?cola, o do entendimento com os Aliados na Segunda Guerra Mundial.</FONT></P></p>
+<p><P><FONT face=Verdana>Juscelino foi um conciliador otimista. O presidente que sabia sorrir. Fez do otimismo uma prioridade de governo. E, da conciliação, um preceito gregoriano. Conciliou com os militares (perdoando os revoltosos de Jacareacanga e Aragarças); conciliou com a UDN, engolindo sapos retóricos jogados na rua da calúnia por Carlos Lacerda; conciliou até onde pode com José Maria Alckmin, seu amigo e ministro da Fazenda. </FONT></P></p>
+<p><P><FONT face=Verdana>FHC foi um intelectual que soube conciliar a si próprio na pol?tica. Conciliou seu saber com a sabedoria dos pol?ticos. Conciliou ministros brigões. Conciliou francos Itamares. Conciliou sua vaidade em oito anos de mandato. </FONT></P></p>
+<p><P><FONT face=Verdana>Lula construiu sua vocação para conciliar na mesa de sindicatos. A conciliação foi seu diploma de grau superior. Conciliou à direita e à esquerda. Tanto que criou um espaço de centro pol?tico nunca antes imaginado pelos petistas. Conciliou para fora do governo e para dentro da administração. </FONT></P></p>
+<p><P><FONT face=Verdana>É esse conciliador que exercerá o segundo mandato, se reeleito. Será um governo sem sustos pol?ticos (inclusive porque não é do estilo do próprio Lula). E sem grandes avanços econômicos. Um governo, com poder rateado, cuja altura será dada pela Oposição. Na verdade, governo e Oposição formarão um Brasil condominial. Para pior ou para melhor. </FONT></P></p>
+<p><P><FONT face=Verdana></FONT></P></p>
+<p><P><FONT face=Verdana><STRONG><BR><EM>*Luiz Otavio Cavalcanti</EM></STRONG></FONT><FONT face=Verdana><EM>, 60, advogado, executivo e ex-secretário do Planejamento (1975/79 e 1991/92) e da Fazenda (1983/86 e 1992/93) de Pernambuco. Recifense, Cavalcanti dirige hoje a entidade mantenedora da Faculdade Santa Maria. É autor, entre outros livros, de Como a corrupção abalou o governo Lula (Ed. Ediouro, 2005), Administradores, quem somos nós? (Ed. Bagaço, 2005) e Ensaiando Pernambuco (Ed. Bagaço, 2005).</EM></FONT></P> </p>
+{\% endraw %}

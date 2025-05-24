@@ -1,17 +1,18 @@
 ---
 id: 12371860
-date: "2006-08-08T11:11:00+00:00"
+date: "2006-08-08T11:11:00Z"
 last_modified_at: null
 tags:
-  - animais
+  - "animais"
 categories:
-  - noticias
+  - "noticias"
 title: "Desagradando gregos, troianos e mais alguns"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT face=Arial></p>
 <p><P></FONT><FONT face=\"Times New Roman\"><FONT face=Verdana>É pedagógico ler o que Ricardo Noblat publicou hoje no <STRONG><EM><A href=\"https://www.noblat.com.br/\" target=_blank>blog</A></EM></STRONG> dele. Principalmente porque aqui, em Pernambuco, a campanha promete ser marcada por emoções muito, muito fortes. </FONT></P></p>
 <p><P><FONT face=Verdana>Não foram poucos os que, nesses 24 dias desde a estréia do <STRONG>Blog do JC</STRONG>, me chamaram de <EM>Humbertista</EM>, <EM>Mendoncista</EM> e <EM>Eduardista</EM>. </FONT></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana>ACDS </FONT></B><BR><FONT face=Verdana>Blog do Fernando Rodrigues: \"JN espanca o Xuxu\". Isto é que é jornalista e não este \"genérico\" do Claudio Humberto que escreve aqui. Aprenda a ser honesto, Noblat.</FONT></P></p>
 <p><P><FONT face=Verdana>-------------------------</FONT></P></p>
 <p><P><FONT face=Verdana>Quando apanho dos dois lados, desconfio que não vou tão mal.</FONT></P></FONT> </p>
+{\% endraw %}

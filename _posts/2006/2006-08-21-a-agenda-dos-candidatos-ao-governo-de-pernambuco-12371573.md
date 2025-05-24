@@ -1,20 +1,21 @@
 ---
 id: 12371573
-date: "2006-08-21T06:10:00+00:00"
+date: "2006-08-21T06:10:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao Governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL) </FONT></P></B></p>
 <p><P><FONT face=Verdana>Reuniões internas da coordenação de campanha </FONT></P><B></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>12h</STRONG>, em Serra Talhada, inauguração do comitê de Inocêncio Oliveira </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>13h</STRONG>, em Serra Talhada, inauguração do Comitê de Ronaldo Melo</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>19h</STRONG>, em Olinda,&nbsp;caminhada na cidade Tabajara</FONT> </P></FONT> </p>
+{\% endraw %}

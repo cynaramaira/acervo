@@ -1,20 +1,21 @@
 ---
 id: 12371841
-date: "2006-08-09T06:54:00+00:00"
+date: "2006-08-09T06:54:00Z"
 last_modified_at: null
 tags:
-  - adilson-ramos
-  - miguel-coelho
-  - milton
-  - sao
+  - "adilson-ramos"
+  - "miguel-coelho"
+  - "milton"
+  - "sao"
 categories:
-  - noticias
-title: "As acusações são eleitoreiras, criticam Milton Coelho e Dilson Peixoto"
+  - "noticias"
+title: "As acusa\u00e7\u00f5es s\u00e3o eleitoreiras, criticam Milton Coelho e Dilson Peixoto"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Ramos</STRONG><BR>Repórter do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>Os presidentes estaduais do PSB, Milton Coelho, e do PT, Dilson Peixoto, </FONT><FONT face=Verdana>avaliam, nas entrevistas a seguir,&nbsp;os impactos das denúncias da CPI das Sanguessugas sobre as campanhas dos seus candidatos ao Governo de Pernambuco - Eduardo Campos (PSB) e Humberto Costa (PT).</FONT></P></p>
 <p><P><FONT face=Verdana>Eles são unânimes em criticar o deputado federal&nbsp;Raul Jungmann (PPS), vice-presidente da CPI e&nbsp;candidato à reeleição pela aliança de apoio ao governador Mendonça Filho (PFL), principal adversário de Eduardo e Humberto.</FONT></P></p>
@@ -66,3 +67,4 @@ imagem: null
 <p><P><FONT face=Verdana>O primeiro programa nós vamos fazer bem tradicional, mostrando o candidato, o que ele fez enquanto homem público e a relação dele com o presidente Lula. Agora até por ser oposição, é óbvio que vamos apontar as deficiências do Governo do Estado. Mas as cr?ticas não serão o centro. Nós vamos mostrar o nosso candidato e as propostas dele. Confiamos plenamente que por estarmos no palanque do presidente Lula será um diferencial. O depoimento de Lula para Humberto ainda não foi gravado, mas vamos ter no guia. </FONT></P><B></p>
 <p><P><FONT face=Verdana>A disputa sucessória já se mostrou acirrada desde a pré-camapanha. Como fica o pacto de não agressão entre Eduardo e Humberto?</FONT></P></B></p>
 <p><P><FONT face=Verdana>Não tem clima ruim. Está tudo transcorrendo de forma natural e na base do respeito. Eduardo é concorrente, não é adversário. No guia, por exemplo, não vamos colocar nada com ele ou contra ele.</FONT></P> </p>
+{\% endraw %}

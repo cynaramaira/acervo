@@ -1,19 +1,20 @@
 ---
 id: 12372213
-date: "2006-07-22T19:32:00+00:00"
+date: "2006-07-22T19:32:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - humberto-costa
-  - lula
+  - "eduardo"
+  - "humberto-costa"
+  - "lula"
 categories:
-  - noticias
+  - "noticias"
 title: "Lula elogia Eduardo e Humberto"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Trechos do discurso que Lula faz neste momento:</FONT></P></p>
 <p><P><FONT face=Verdana>\"</FONT><FONT size=2><FONT face=Verdana>Quero fazer alguns registros especiais. Re</FONT><FONT face=Verdana>gistrar minha alegria de estar aqui com esse intelectual que é Ariano Suassuna.</FONT></P></p>
 <p><P><FONT face=Verdana>\"E registrar a presença da nossa querida Madalena, que esteve ao longo de tantos anos ao lado de um homem como Miguel Arraes.</FONT></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"Se não tivesse mais que falar já teria ganho a noite.\"</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Em outro ponto, mandou recado para a oposição:</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>\"Quanto mais eles me acusam, me agridem, mais&nbsp;eu tenho que me aquietar.\"</FONT></P></FONT> </p>
+{\% endraw %}

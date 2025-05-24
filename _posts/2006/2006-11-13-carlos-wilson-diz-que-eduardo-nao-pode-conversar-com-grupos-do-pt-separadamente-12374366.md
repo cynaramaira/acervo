@@ -1,20 +1,21 @@
 ---
 id: 12374366
-date: "2006-11-13T11:40:00+00:00"
+date: "2006-11-13T11:40:00Z"
 last_modified_at: null
 tags:
-  - carlos-lupi
-  - eduardo
-  - naomi-campbell
-  - wilson-witzel
+  - "carlos-lupi"
+  - "eduardo"
+  - "naomi-campbell"
+  - "wilson-witzel"
 categories:
-  - noticias
-title: "Carlos Wilson diz que Eduardo não pode conversar com grupos do PT separadamente"
+  - "noticias"
+title: "Carlos Wilson diz que Eduardo n\u00e3o pode conversar com grupos do PT separadamente"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Deputado federal eleito, o ex-presidente da Infraero Carlos Wilson Campos (PT) disse há pouco, na Rádio JC/CBN, em entrevista a Marcos Araújo e César Rocha,&nbsp;que a disputa entre os grupos do ex-ministro Humberto Costa e do prefeito do Recife, João Paulo, não pode ser levada ao governo eleito de Eduardo Campos (PSB):</FONT></P></p>
 <p><P><FONT face=Verdana>\"Será um erro Eduardo fazer alguma indicação individual do grupo de quem quer que seja, por mais forte que seja\".</FONT></P></p>
 <p><P><FONT face=Verdana>E como conciliar os grupos de Humberto e de João Paulo, quis saber o <STRONG>Blog</STRONG>:</FONT></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana>Pois isso vai ser outra confusão. </FONT></P></p>
 <p><P><FONT face=Verdana>O prefeito já afirmou que sua preferência é o secretário de Planejamento Participativo, o deputado estadual eleito João da Costa. </FONT></P></p>
 <p><P><FONT face=Verdana>Mas no grupo de Humberto Costa há outros nomes - o vereador Dilson Peixoto e o deputado federal Maur?cio Rands. Sem contar o próprio Humberto, que não deve ser descartado.</FONT></P> </p>
+{\% endraw %}

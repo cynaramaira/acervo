@@ -1,22 +1,23 @@
 ---
 id: 12372551
-date: "2006-09-15T21:47:00+00:00"
+date: "2006-09-15T21:47:00Z"
 last_modified_at: null
 tags:
-  - gonzaga-patriota
-  - mendonca
-  - minis
-  - naomi-campbell
-  - prejuizos
-  - propaganda-eleitoral
+  - "gonzaga-patriota"
+  - "mendonca"
+  - "minis"
+  - "naomi-campbell"
+  - "prejuizos"
+  - "propaganda-eleitoral"
 categories:
-  - noticias
-title: "Juiz  da propaganda diz que mini-trio de Mendonça não podia ter sido apreendido"
+  - "noticias"
+title: "Juiz  da propaganda diz que mini-trio de Mendon\u00e7a n\u00e3o podia ter sido apreendido"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Até agora o Tribunal Regional Eleitoral de Pernambuco (TRE-PE) não se pronunciou sobre o caso da apreensão do mini-trio contratado pela coligação União Por Pernambuco, do governador-candidato Mendonça Filho (PFL), para tocar jingles que atacam Humberto Costa (PT). </FONT></P></FONT><FONT size=2></p>
 <p><P><FONT face=Verdana>Mas o juiz da propaganda Sérgio Marinho Falcão antecipou que a apreensão do ve?culo foi ilegal. </FONT></P></p>
@@ -30,3 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>Outra paródia é a da \"Festa do Apê\" (do cantor Latino), que também, de acordo com a médica, cita o nome do ex-ministro da Saúde.&nbsp;Teria sido o&nbsp;CD com esta música que&nbsp;o motorista do mini-trio destruiu.&nbsp;</FONT></P><B></p>
 <p><P><FONT face=Verdana>Mendonça não quis comentar o caso</FONT></P></B></p>
 <p><P><FONT face=Verdana>\"Não estou acompanhando o episódio. Não quero comentar\", disse o governador a César Rocha, editor do <B>Blog do JC</B>, em Sertânia, no Sertão pernambucano.</FONT></P></FONT> </p>
+{\% endraw %}

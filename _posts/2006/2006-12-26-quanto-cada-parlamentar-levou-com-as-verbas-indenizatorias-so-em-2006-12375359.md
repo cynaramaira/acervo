@@ -1,17 +1,18 @@
 ---
 id: 12375359
-date: "2006-12-26T16:25:00+00:00"
+date: "2006-12-26T16:25:00Z"
 last_modified_at: null
 tags:
-  - parlamentares
+  - "parlamentares"
 categories:
-  - noticias
-title: "Quanto cada parlamentar levou com as verbas indenizatórias só em 2006"
+  - "noticias"
+title: "Quanto cada parlamentar levou com as verbas indenizat\u00f3rias s\u00f3 em 2006"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><FONT size=2></p>
 <p><P align=justify><FONT face=Verdana>André de Paula (PFL)</FONT></B><BR><I><U><FONT face=Verdana>Janeiro 15.631,38<BR>Fevereiro 21.133,08<BR>Março 14.344,61<BR>Abril 12.256,08<BR>Maio 11.868,66<BR>Junho 14.766,19<BR>Julho 14.016,56<BR>Agosto 16.509,98<BR>Setembro 11.838,34<BR>Outubro 13.324,17<BR>Novembro 15.767,31<BR>Dezembro 18.543,64</FONT></I><BR></U><FONT face=Verdana><B>Total: </B><B>R$ 180.000,00</B><BR></FONT></P><B></p>
 <p><P align=justify><FONT face=Verdana>Armando Monteiro Neto (PTB)<BR></FONT></B><I><U><FONT face=Verdana>Janeiro 16.510,46<BR>Fevereiro 14.333,50<BR>Março 10.755,70<BR>Abril 13.777,13<BR>Maio 21.004,75<BR>Junho 13.384,44<BR>Julho 11.339,45<BR>Agosto 12.540,01<BR>Setembro 13.557,99<BR>Outubro 11.222,29<BR>Novembro 11.451,51<BR>Dezembro 1.026,17<BR></FONT></I></U><FONT face=Verdana><B>Total: R$ 150.903,4</B><BR></FONT></P><B></p>
@@ -44,3 +45,4 @@ imagem: null
 <p><P align=justify><BR></U><FONT face=Verdana><B>Total Geral:</B> </FONT><B><FONT face=Verdana>R$ 3.712.335,35</FONT></P></p>
 <p><P align=justify><FONT face=Verdana></FONT></P></B></p>
 <p><P><FONT face=Verdana>Fonte: www.camara.gov.br/transparencia</FONT></P></FONT> </p>
+{\% endraw %}

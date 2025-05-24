@@ -1,20 +1,21 @@
 ---
 id: 12371199
-date: "2006-09-06T20:38:00+00:00"
+date: "2006-09-06T20:38:00Z"
 last_modified_at: null
 tags:
-  - caso-banestado
-  - final
-  - mendonca-filho
-  - trabalho
+  - "caso-banestado"
+  - "final"
+  - "mendonca-filho"
+  - "trabalho"
 categories:
-  - noticias
-title: "Mendonça Filho: Nesta reta final, eu peço a vocês mais trabalho"
+  - "noticias"
+title: "Mendon\u00e7a Filho: Nesta reta final, eu pe\u00e7o a voc\u00eas mais trabalho"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Os principais caciques da aliança União por Pernambuco sa?ram satisfeitos do encontro com cerca de 800 lideranças pol?ticas do interior do estado. </FONT></P></p>
 <p><P><FONT face=Verdana>O encontro foi na Arcádia Paço Alfândega, casa de recepções chique no Bairro do Recife. Segundo a organização informou a Cec?lia Ramos, repórter do <STRONG>Blog</STRONG>, o evento teve a presença de 96 prefeitos, 64 ex-prefeitos, 19 deputados estaduais, 7 federais, 3 senadores e 115 vereadores de 134 munic?pios de Pernambuco. </FONT></P></p>
@@ -43,3 +44,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"Não imaginem que está tudo resolvido. Não está. O chamdo bolsa-fam?lia tem uma massiva presença entre nós norestinos e pernambucanos. Vocês sabiam que isso no Sul é muito pequeno? Não se compara em nada com o que é gasto aqui. E sabem por que? Porque historicamente para nós nordestinos, há muito tempo, sempre foram enviadas pol?ticas e programs sociais como essa. Para o Sul, desenvolvimento. Lá (no Sul), as pessoas pedem emprego, fundo para a agricultura, pedem recursos. Para nós, mantém uma pol?tica de assistencialismo. Importante? Sim. E Jarbas disse isso. A imporantância dessa pol?tica. Mas Pernambuco nem o Brasil vão sair da situação com pol?ticas como essa\". </FONT></P></p>
 <p><P><FONT face=Verdana>\"O Pa?s precisa ter novos rumos, novos encaminhamentos. Eu não vou nem falar dos sucessivos escândalos que ocorreram. Não é apenas um problema ético. E olhe que um problema ético é muito sério\". </FONT></P></p>
 <p><P><FONT face=Verdana>\"Não podemos entregar Pernambuco a quem vai fazer o pior para o estado. Até porque fez pior em outros lugares. Nós precisamos ter uma alternativa. Não precisamos nos conformar com aquilo que chega como contribuição e custeio da nossa miséria, do nosso subdesenvolvimento, da nossa pobreza. nós queremos alguém que aponte caminhos para que amanhã não precisemos disso (bolsa-fam?lia)\".</FONT></P></FONT> </p>
+{\% endraw %}

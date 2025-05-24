@@ -1,18 +1,19 @@
 ---
 id: 12375242
-date: "2006-12-18T10:05:00+00:00"
+date: "2006-12-18T10:05:00Z"
 last_modified_at: null
 tags:
-  - divida
-  - ultima-decada
+  - "divida"
+  - "ultima-decada"
 categories:
-  - noticias
-title: "Última chance para infernizar a vida deles!"
+  - "noticias"
+title: "\u00daltima chance para infernizar a vida deles!"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O ato das Mesas Diretoras que oficializará o polêmico reajuste de 90,7% nos salários dos deputados e senadores deve ser assinado hoje ou terça-feira, como lembrou o jornalista e blogueiro Ricardo Noblat. </FONT></P></p>
 <p><P><FONT face=Verdana>Ou seja, ainda resta algum tempo para tentar comover ao menos os parlamentares pernambucanos que disseram sim a esse presentão de fim de ano.</FONT></P></p>
 <p><P><FONT face=Verdana>E, mesmo que não resolva a causa (o que é 99% provável) – que ao menos nós mostremos nossa indignação!</FONT></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>*No dia 15, data da votação para o reajuste, Jungmann – que disse sim, na reunião, voltou atrás no final do dia. Divulgou nota dizendo que renunciaria à parcela do novo salário (de R$ 24.500), que superasse a reposição dada pela inflação do per?odo (28%).</FONT></P></p>
 <p><P><FONT face=Verdana>O ato de Jungmann e de outros que começam a seguir o exemplo&nbsp;foi visto como “blefe???. Eles sabem que não podem recusar o salário, pois não há previsão legal para isso. </FONT></P></p>
 <p><P><FONT face=Verdana>Cá para nós, se, de fato, não quisessem dobrar os próprios salários, Jungmann e seguidores deveriam ter dito isso por meio do voto.</FONT></P> </p>
+{\% endraw %}

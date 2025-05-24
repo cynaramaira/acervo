@@ -1,19 +1,20 @@
 ---
 id: 12374511
-date: "2006-11-18T20:21:00+00:00"
+date: "2006-11-18T20:21:00Z"
 last_modified_at: null
 tags:
-  - critica
-  - fernando-collor
-  - henrique-albino
+  - "critica"
+  - "fernando-collor"
+  - "henrique-albino"
 categories:
-  - noticias
-title: "“Lula nunca me convidou para o Planalto???, critica Fernando Henrique"
+  - "noticias"
+title: "\u201cLula nunca me convidou para o Planalto???, critica Fernando Henrique"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Da <STRONG>Agência Estado</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>São Paulo - Em entrevista concedida neste sábado à Rádio \"CBN\", o ex-presidente Fernando Henrique Cardoso (PSDB) disse que as pessoas estão exagerando ao falar sobre a crise do partido e afirmou que, se ela existe, é uma discussão interna, considerada saudável. </FONT></P></p>
 <p><P><FONT face=Verdana>Quanto à expressão de \"refundar\" o partido, usada pelo governador reeleito do partido em Minas Gerais, Aécio Neves, FHC argumentou ser uma expressão metafórica no sentido de voltar ao fundamento, princ?pio. </FONT></P></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>FHC criticou novamente o fato de o presidente reeleito atribuir os programas sociais à sua gestão, afirmando que eles começaram em seu governo. </FONT></P></p>
 <p><P><FONT face=Verdana>\"Primeiro mandato de Lula foi bom de bico. Mostrou grandes realizações na TV, mas na prática não foi nada consistente. O governo não tem mostrado eficácia\". </FONT></P></p>
 <p><P><FONT face=Verdana>O ex-presidente encerrou a entrevista admitindo que seu partido poderia ter \"mostrado com mais vigor\", durante a campanha eleitoral, a ineficácia do governo Lula.</FONT></P> </p>
+{\% endraw %}

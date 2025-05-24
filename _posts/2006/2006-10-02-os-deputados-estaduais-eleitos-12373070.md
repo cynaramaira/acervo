@@ -1,18 +1,19 @@
 ---
 id: 12373070
-date: "2006-10-02T00:27:00+00:00"
+date: "2006-10-02T00:27:00Z"
 last_modified_at: null
 tags:
-  - candidatos-eleitos
-  - deputados-estaduais
+  - "candidatos-eleitos"
+  - "deputados-estaduais"
 categories:
-  - noticias
+  - "noticias"
 title: "Os deputados estaduais eleitos"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Nomes apresentados agora pela Rádio Jornal e que devem ser confirmados como eleitos para uma vaga na Assembléia Legislativa do Estado:</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>BANCADA DE MENDONÇA - 11 VAGAS: </STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>MIRIAM LACERDA<BR>ROM??RIO DIAS<BR>AUGUSTO COUTINHO<BR>CLAUDIANO<BR>ELIAS LIRA<BR>CIRO COELHO<BR>MAVIAEL CAVALCANTI<BR>RICARDO TEOBALDO<BR>JOÃO NEGROMONTE<BR>GERALDO COELHO<BR>MANUEL FERREIRA </FONT></P></p>
@@ -34,3 +35,4 @@ imagem: null
 <p><P><FONT face=Verdana>CORONEL JOSÉ ALVES </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>PV – 1 VAGA:</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>LOURIVAL SIMÕES</FONT></P> </p>
+{\% endraw %}

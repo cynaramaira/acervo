@@ -1,18 +1,19 @@
 ---
 id: 12373830
-date: "2006-10-26T21:26:00+00:00"
+date: "2006-10-26T21:26:00Z"
 last_modified_at: null
 tags:
-  - bastidores
-  - debate
+  - "bastidores"
+  - "debate"
 categories:
-  - noticias
+  - "noticias"
 title: "Debate sem bastidor"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Começa daqui a pouco&nbsp;o último debate promovido pela TV Globo entre os candidatos ao Governo de Pernambuco, Eduardo Campos (PSB) e Mendonça Filho (PFL). Mas desta vez não terá bastidor.</FONT></P></p>
 <p><P><FONT face=Verdana>A emissora alegou que o estúdio é pequeno e não comporta a quantidade de repórteres e assessores presentes. Antes de começar, os jornalistas terão acesso ao espaço apenas para conferir as instalações. Depois, só quando o debate terminar é que poderão entrevistar os candidatos. </FONT></P></p>
@@ -23,3 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>O mediador, Francisco José, não concedeu. No intervalo entre os blocos, o petista reclamou. O jornalista não gostou e disse que, no debate, não iria ter \"baixaria\". </FONT></P></p>
 <p><P><FONT face=Verdana>O marqueteiro do candidato Eduardo Campos (PSB), Edson Barbosa, ouviu e acusou Francisco José de ser \"parcial\", uma vez que o socialista também não conseguiu ser atendido em seus pedidos de direito de resposta.<BR><BR>Os dois trocaram insultos verbais e quase partiram para a agressão f?sica. A turma do deixa-disso entrou em campo e tirou o marqueteiro do estúdio. </FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <A href=\"https://jc3.uol.com.br/blogs/jc/2006/09/27/index.php#1804\"><STRONG><EM>aqui</EM></STRONG></A>.</FONT> </P></FONT> </p>
+{\% endraw %}

@@ -1,20 +1,21 @@
 ---
 id: 12374381
-date: "2006-11-14T06:48:00+00:00"
+date: "2006-11-14T06:48:00Z"
 last_modified_at: null
 tags:
-  - carlos-lupi
-  - eduardo
-  - jarbas-vasconcelos
-  - wilson-witzel
+  - "carlos-lupi"
+  - "eduardo"
+  - "jarbas-vasconcelos"
+  - "wilson-witzel"
 categories:
-  - noticias
+  - "noticias"
 title: "Os conselhos de Carlos Wilson a Eduardo e Jarbas"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por <STRONG>César Rocha<BR></STRONG>Do Blog no Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>O deputado federal eleito e ex-presidente da Infraero Carlos Wilson Campos (PT) defendeu ontem que o governador eleito Eduardo Campos (PSB) fique longe das divisões internas do PT em Pernambuco. Para ele, Campos cometerá um erro grave caso decida discutir a formação de seu governo com os grupos do ex-ministro Humberto Costa e do prefeito do Recife, João Paulo, separadamente. </FONT></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>Eleição de 2008</FONT></P></B></p>
 <p><P><FONT face=Verdana>Carlos Wilson foi claro também sobre a disputa para prefeito do Recife, daqui a dois anos, quando João Paulo encerra seu segundo mandato. Com mais de 30 mil votos recebidos no munic?pio, Wilson disse que não aceita prato feito. Com essa votação, ele quer ser ouvido. Apesar de considerar extremamente prematura a discussão neste momento, a dois anos da eleição, afirma que todo o PT deve ser consultado sobre a indicação do sucessor de João Paulo.</FONT></P></FONT></p>
 <p><P><FONT face=Verdana>Leia mais </FONT><A href=\"https://jc3.uol.com.br/jornal/2006/11/14/can_9.php\" target=_blank><B><I><FONT color=#0000ff><FONT face=Verdana>aqui</FONT></B></I></FONT></A><FONT face=Verdana> (assinantes JC e UOL).</FONT></P> </p>
+{\% endraw %}

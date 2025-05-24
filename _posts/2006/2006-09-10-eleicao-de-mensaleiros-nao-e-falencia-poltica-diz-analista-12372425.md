@@ -1,19 +1,20 @@
 ---
 id: 12372425
-date: "2006-09-10T12:30:00+00:00"
+date: "2006-09-10T12:30:00Z"
 last_modified_at: null
 tags:
-  - agencia-nacional-de-vigilancia-sanitaria
-  - eleicao
-  - naomi-campbell
+  - "agencia-nacional-de-vigilancia-sanitaria"
+  - "eleicao"
+  - "naomi-campbell"
 categories:
-  - noticias
-title: "Eleição de mensaleiros não é falência pol?tica, diz analista "
+  - "noticias"
+title: "Elei\u00e7\u00e3o de mensaleiros n\u00e3o \u00e9 fal\u00eancia pol?tica, diz analista "
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Flávia Marreiro</STRONG><BR>Da Folha de S.Paulo</FONT></P></p>
 <p><P><FONT face=Verdana>Para o cientista pol?tico carioca Fabiano Santos, 41, é uma \"tolice\" considerar a eventual eleição de mensaleiros ao Congresso como um sinal de falência da pol?tica brasileira.<BR><BR>Santos defende que o caso dos pol?ticos que receberam dinheiro do valerioduto \"é diferente de corrupção pura e simples, de gatunos que foram pegos roubando\". \"Há a idéia: \"Votou-se nos mensaleiros e então realmente estamos todos acabados e o Brasil não tem jeito\". Não tenho preocupação com isso. Acho que isso é uma tolice.\" </FONT></P></p>
 <p><P><FONT face=Verdana>Santos diz que a população enxerga no PT e no governo \"ambigüidade\" quando o tema é corrupção: houve os escândalos pol?ticos mas também houve espaço para que os mecanismos de controle atuassem. O coordenador do Núcleo de Estudos do Congresso do Iuperj, que se define como de centro-esquerda e assinou um manifesto em apoio à reeleição do presidente Luiz Inácio Lula da Silva, sugeriu que o PSDB \"encare as dificuldades com tranqüilidade democrática, e sem recorrer a lacerdismos\".&nbsp;&nbsp;&nbsp; <BR><BR>FOLHA- O que representa a possibilidade de reeleição de Lula no primeiro turno? Os escândalos de corrupção não são decisivos? </FONT></P></p>
@@ -21,3 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>SANTOS - A questão da corrupção não é o principal tema, mas a população não passa ao largo dele. Quando Lula disse que o que o PT fez o que todos fazem sistematicamente, foi a admissão de que eles estavam se armando com instrumentos que os partidos conservadores sempre utilizaram. O que isso representa do ponto de vista da pedagogia pol?tica? O mais importante é o fato de que ao longo do tempo, independentemente dos governos, tenhamos aperfeiçoado os mecanismos de controle. Esses instrumentos estão trabalhando para termos mais transparência, a transparência poss?vel à nossa democracia. O PT deixou explicitado quem tinha responsabilidades. Não vi isso acontecer em outros partidos. O próprio ex-presidente FHC falou que o tratamento do PSDB em relação ao senador Azeredo não foi o mais adequado... Essa tentativa de partidarizar a questão da corrupção é um erro. E é um erro que a população não está cometendo. <BR><BR>FOLHA - O que esperar do desempenho eleitoral de candidatos sanguessugas e mensaleiros? </FONT></P></p>
 <p><P><FONT face=Verdana>SANTOS - É dif?cil prever o que vai acontecer. No caso dos mensaleiros, é diferente de corrupção pura e simples, de gatunos que foram pegos roubando. O que foi caracterizado foi o uso de recursos não-contabilizados pelas campanhas. <BR><BR>Há as imagens fortes de uma quadrilha, que se organizou para infringir a lei, mas o objetivo ali era o jogo pol?tico. Tem de ser punido pela lei. Mas como a população vai reagir? Imposs?vel saber. Mas pode haver um movimento de revanche por parte do eleitor do PT. Como se estivessem dizendo: \"Houve uma tentativa forte de desmoralizar o partido e para além daquilo que seria razoável. Agora chegou a vez de dar o nosso voto\". Há a idéia: \"Votou-se nos mensaleiros e então realmente estamos todos acabados e o Brasil não tem jeito\". Não tenho preocupação com isso. Acho que isso é uma tolice.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><U><A href=\"https://www1.folha.uol.com.br/fsp/brasil/fc1009200610.htm\" target=_blank>aqui</A></U></EM></STRONG> a entrevista completa (assinantes Folha e UOL).</FONT></P> </p>
+{\% endraw %}

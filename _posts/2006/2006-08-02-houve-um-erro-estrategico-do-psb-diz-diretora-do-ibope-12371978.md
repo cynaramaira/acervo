@@ -1,19 +1,20 @@
 ---
 id: 12371978
-date: "2006-08-02T18:45:00+00:00"
+date: "2006-08-02T18:45:00Z"
 last_modified_at: null
 tags:
-  - ibope
-  - mesa-diretora
-  - terror
+  - "ibope"
+  - "mesa-diretora"
+  - "terror"
 categories:
-  - noticias
-title: "Houve um erro estratégico do PSB, diz diretora do Ibope"
+  - "noticias"
+title: "Houve um erro estrat\u00e9gico do PSB, diz diretora do Ibope"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O <STRONG>Blog</STRONG> acaba de conversar, por telefone, com Márcia Cavallari, diretora do Ibope Opinião, em São Paulo. </FONT></P></p>
 <p><P><FONT face=Verdana>Ela admite que a pesquisa divulgada ontem pela TV Globo Nordeste pode ter apresentado preju?zo para Eduardo Campos, candidato a governador pelo PSB. </FONT></P></p>
 <p><P><FONT face=Verdana>Ele aparece com 14%, em terceiro lugar, atrás do petista Humberto Costa (24%) e do pefelista Mendonça Filho (32%). Veja <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/01/index.php#430\">aqui</A></EM></STRONG> os números.</FONT></P></p>
@@ -33,3 +34,4 @@ imagem: null
 <p> se aproxime o máximo poss?vel da realidade, a gente usa exatamente o nome como eles pedem para aparecer na urna eletrônica. Foi uma decisão estratégica equivocada deles de usar só como Eduardo. E, mesmo agora, você vai refazer como Eduardo Campos? E os outros vão reclamar porque ele não está registrado assim.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Quando sairá a próxima?</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Não posso dizer. A gente não divulga, até para os candidatos não fazerem nenhuma ação espec?fica por conta dessa data de divulgação.</FONT></P> </p>
+{\% endraw %}

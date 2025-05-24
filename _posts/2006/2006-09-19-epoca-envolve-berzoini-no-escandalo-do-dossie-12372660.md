@@ -1,17 +1,18 @@
 ---
 id: 12372660
-date: "2006-09-19T17:16:00+00:00"
+date: "2006-09-19T17:16:00Z"
 last_modified_at: null
 tags:
-  - desenvolvedores
+  - "desenvolvedores"
 categories:
-  - noticias
-title: "ÉPOCA envolve Berzoini no escândalo do dossiê"
+  - "noticias"
+title: "\u00c9POCA envolve Berzoini no esc\u00e2ndalo do dossi\u00ea"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT face=Verdana>Do <STRONG>Blog do Noblat</STRONG></FONT><A name=post25730>&nbsp; </p>
 <p><P class=fontTitulo></A><FONT face=Verdana>Acaba de ser postado no blog da revista ÉPOCA a seguinte nota sob o t?tulo \"Esclarecimento\":</FONT></P></p>
 <p><P><FONT face=Verdana>\"Em depoimento à Pol?cia Federal, o advogado Gedimar Pereira Passos - que afirma ter sido contratado pelo PT para negociar um dossiê com denúncias contra o candidato José Serra - citou a revista ÉPOCA. Diante dessa citação, ÉPOCA gostaria de esclarecer que:</FONT></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana size=2>6) No final da reunião, que durou cerca de 30 minutos, Bargas disse que voltaria a falar com o denunciante e depois entraria em contato com o repórter.</FONT></P></p>
 <p><P><FONT face=Verdana size=2>7) Naquela mesma noite, Bargas telefonou para avisar que o denunciante voltara atrás e não queria mais apresentar o material, nem dar entrevista. Uma semana depois, a revista Istoé publicou a entrevista em que Darci e Luiz Antonio Vedoin, os donos da Planan, acusavam Serra e Barjas Negri\"</FONT></P></FONT></p>
 <p><P><FONT face=Verdana><FONT size=1>(endereço do blog: </FONT><A href=\"https://www.blogbrasil.globolog.com.br/\"><FONT size=1>https://www.blogbrasil.globolog.com.br/</FONT></A><FONT size=1>)</FONT></FONT></P> </p>
+{\% endraw %}

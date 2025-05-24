@@ -1,17 +1,18 @@
 ---
 id: 12374008
-date: "2006-10-30T10:31:00+00:00"
+date: "2006-10-30T10:31:00Z"
 last_modified_at: null
 tags:
-  - naomi-campbell
+  - "naomi-campbell"
 categories:
-  - noticias
-title: "Zé Múcio: Não pude comemorar em 86. Comemoro agora"
+  - "noticias"
+title: "Z\u00e9 M\u00facio: N\u00e3o pude comemorar em 86. Comemoro agora"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O mundo gira, mas gira tanto que as pessoas sobram tontas.</FONT></P></p>
 <p><P><FONT face=Verdana>Em 1986, Pernambuco viveu uma das disputas mais ideológicas de sua história de campanhas ao governo.</FONT></P></p>
 <p><P><FONT face=Verdana>Mal t?nhamos sa?do do longo e tenebroso per?odo militar. Na arena da corrida ao Palácio do Campo das Princesas, havia dois ?cones. Um da direita. Outro da esquerda.</FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>Ontem, só faltou Jarbas.</FONT></P></p>
 <p><P><FONT face=Verdana>Quem sabe após</p>
 <p> o mandato dele no Senado, daqui a oito anos.</FONT></P> </p>
+{\% endraw %}

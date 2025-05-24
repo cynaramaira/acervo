@@ -1,19 +1,20 @@
 ---
 id: 12371867
-date: "2006-08-08T06:56:00+00:00"
+date: "2006-08-08T06:56:00Z"
 last_modified_at: null
 tags:
-  - campanha
-  - damares-alves
-  - primeira-etapa
+  - "campanha"
+  - "damares-alves"
+  - "primeira-etapa"
 categories:
-  - noticias
+  - "noticias"
 title: "Uma campanha de primeira-dama"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p>A esposa do candidato &agrave; presid&ecirc;ncia da Rep&uacute;blica, Geraldo Alckmin (PSDB), Lu Alckmin, tem uma agenda, hoje, no Recife, digna de candidata majorit&aacute;ria.</p>
 <p>S&atilde;o cinco compromissos. Todos acompanhados de perto pela primeira-dama Taciana Mendon&ccedil;a, esposa do governador-candidato Mendon&ccedil;a Filho (PFL) e por mais cinco ex-primeiras-damas de Pernambuco.</p>
 <p>Tamb&eacute;m acompanham o grupo Fernanda Avelar, esposa do candidato a vice de Mendon&ccedil;a, Evandro Avelar, e Socorro Vasconcelos - a senhora Jos&eacute; Jorge (PFL), candidato a vice na chapa de Alckmin.</p>
@@ -23,3 +24,4 @@ imagem: null
 <p>&Agrave;s 11h30, visitam o Gin&aacute;sio Pernambucano, na Rua da Aurora, Boa Vista</p>
 <p>&Agrave;s 12h, as primeiras-damas almo&ccedil;am no mais antigo e tradicional restaurante do Recife, o Leite, fundado em 1882 e frequentado por uma clientela abonada. Fica no bairro de Santo Ant&ocirc;nio, Centro do Recife</p>
 <p>&Agrave;s 14h30, visitam a Casa da Cultura, no Bairro de S&atilde;o Jos&eacute;, Centro do Recife</p>
+{\% endraw %}

@@ -1,18 +1,19 @@
 ---
 id: 12372310
-date: "2006-07-17T17:37:00+00:00"
+date: "2006-07-17T17:37:00Z"
 last_modified_at: null
 tags:
-  - mendonca
-  - seguranca
+  - "mendonca"
+  - "seguranca"
 categories:
-  - noticias
-title: "Mendonça nega ter investido pouco em Segurança"
+  - "noticias"
+title: "Mendon\u00e7a nega ter investido pouco em Seguran\u00e7a"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P>Em nota enviada há pouco ao blog, o governador disse que os números apresentados em estudo do economista José Roberto Afonso, publicado ontem pelo Globo, estão errados. O estudo mostra que Pernambuco ficou em 18º lugar no ranking de gastos por habitante/ano com Segurança Pública, apesar de o Estado estar entre os três mais violentos do Brasil. Nos sete anos e meio de gestão da União por Pernambuco foram registrados mais de 31 mil homic?dios.</P></p>
 <p><P>Os números apresentados por Mendonça, porém, não são muito melhores. A nota diz que Pernambuco, segundo levantamento da Fazenda estadual, está em 11º lugar nos gastos per capita. Ao invés de R$ 96,18 por habitante em 2005, como mostra o estudo, teriam sido R$ 150, num total de R$ 1,27 bilhão.</P></p>
@@ -20,3 +21,4 @@ imagem: null
 <p><P>Por fim, de maneira indireta, o governador admite que há no Estado um problema de gestão de pol?tica pública. Afirma que o estudo do economista José Roberto Afonso mostra que a questão da violência não diz respeito apenas ao aumento nos investimentos em infra-estrutura policial e repressiva.</P></p>
 <p><P>Na opinião de Mendonça, a questão é mais complexa. Ele considera fundamental enfrentar a violência com pol?ticas públicas preventivas, como a que desenvolve para evitar que jovens entrem na criminalidade. \"Precisamos retirar os bandidos das ruas e, ao mesmo tempo, impedir que as nossas periferias tornem-se uma fábrica de marginais\", diz ele.</P><FONT size=2></p>
 <p><P>Leia mais em </FONT><A href=\"https://oglobo.globo.com/jornal/pais/284880956.asp\" target=_blank><U><FONT color=#0000ff size=2>O Globo</U></FONT></A><FONT size=2>.</P></FONT></FONT> </p>
+{\% endraw %}

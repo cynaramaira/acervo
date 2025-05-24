@@ -1,19 +1,20 @@
 ---
 id: 12374701
-date: "2006-11-26T08:17:00+00:00"
+date: "2006-11-26T08:17:00Z"
 last_modified_at: null
 tags:
-  - briga
-  - jarbas-vasconcelos
-  - jorge-federal
+  - "briga"
+  - "jarbas-vasconcelos"
+  - "jorge-federal"
 categories:
-  - noticias
+  - "noticias"
 title: "Jarbas e Edgar, uma briga federal"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p><span style="font-family: Verdana;">Por <strong>Inaldo Sampaio</strong><br />No Jornal do Commercio de hoje</span></p>
 <p><span style="font-family: Verdana;">Um dos mais espetaculares casos de rompimento pol?tico que ocorreram em Pernambuco nos &uacute;ltimos tempos foi mantido sob sigilo durante um ano, mas acabou se tornando p&uacute;blico depois das elei&ccedil;&otilde;es gerais de 1&ordm; de outubro. Os atores desse epis&oacute;dio rumoroso s&atilde;o o senador eleito Jarbas Vasconcelos e o deputado federal eleito Edgar Moury Fernandes Sobrinho, ambos do PMDB. Edgar era amigo pessoal, conselheiro pol?tico e assessor de absoluta confian&ccedil;a do ex-governador, desde a d&eacute;cada de 70, quando os dois foram eleitos pelo velho MDB para a Assembl&eacute;ia Legislativa do Estado. H&aacute; pouco mais de um ano, todavia, viraram inimigos figadais. </span></p>
 <p><span style="font-family: Verdana;">A inimizade &eacute; de tal relev&acirc;ncia que Edgar fez sua campanha para a C&acirc;mara Federal sem participar de nenhum evento ao lado de Jarbas. Evitava encontr&aacute;-lo nos com?cios e quando acontecia de o ex-governador chegar a determinado munic?pio em que ele j&aacute; se encontrava, deixava o local e ia embora &ldquo;para n&atilde;o ter que ver a cara daquele cidad&atilde;o???. </span></p>
@@ -29,3 +30,4 @@ imagem: null
 <p><br /><span style="font-family: Verdana;"><strong>Luta por espa&ccedil;os tamb&eacute;m afasta Edgar de Cadoca </strong></span></p>
 <p><span style="font-family: Verdana;">O deputado federal eleito Edgar Moury (PMDB) tamb&eacute;m est&aacute; rompido com o correligion&aacute;rio Carlos Eduardo Cadoca (PMDB)por conta da divis&atilde;o de espa&ccedil;os pol?ticos nas elei&ccedil;&otilde;es para a C&acirc;mara Federal. A principal &ldquo;queda-de-bra&ccedil;o??? entre ambos deu-se no munic?pio de Ipojuca (Regi&atilde;o Metropolitana), cujo prefeito, Pedro Serafim, &eacute; filiado ao PMDB e muito ligado ao Pal&aacute;cio do governo.</span></p>
 <p><span style="font-family: Verdana;">Leia mais <strong><em><a href="#" target="_blank" rel="noopener noreferrer">aqui</a></em></strong> (assinantes JC e UOL).</span></p>
+{\% endraw %}

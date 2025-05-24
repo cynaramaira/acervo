@@ -1,19 +1,20 @@
 ---
 id: 12372607
-date: "2006-09-18T09:54:00+00:00"
+date: "2006-09-18T09:54:00Z"
 last_modified_at: null
 tags:
-  - anne-barreto
-  - eleicao
-  - governadores
+  - "anne-barreto"
+  - "eleicao"
+  - "governadores"
 categories:
-  - colunistas
-title: "Eleição para governador: algumas (quase) certezas (Túlio Velho Barreto)"
+  - "colunistas"
+title: "Elei\u00e7\u00e3o para governador: algumas (quase) certezas (T\u00falio Velho Barreto)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P>Por <STRONG>Túlio Velho Barreto*</STRONG><BR>Cientista Pol?tico e Pesquisador da Fundação Joaquim Nabuco<BR><A href=\"mailto:túlio@fundaj.gov.br\">túlio@fundaj.gov.br</A></P></p>
 <p><P><BR>Faltam menos duas semanas para a realização do primeiro turno das eleições de 2006. E, de acordo com as últimas pesquisas de intenção de votos dos vários institutos que têm medido as preferências do eleitorado pernambucano, em vários aspectos o quadro no estado continua indefinido. Aqui, pretendo fazer alguns breves comentários acerca dos resultados apresentados por tais institutos, sobretudo porque (aparentemente) existem relevantes contradições entre eles quanto ao candidato que se encontra no momento em segundo lugar: Humberto Costa ou Eduardo Campos. </P></p>
 <p><P>Para facilitar a exposição de meus comentários, resumi no quadro abaixo o resultado das pesquisas mais recentes desses institutos, embora reconheça que o (mais) correto seria comparar pesquisas realizadas em um mesmo intervalo de tempo. Com efeito, pesquisas realizadas em intervalos diferentes, ainda que respeitem os mesmos critérios cient?ficos, podem apresentar resultados distintos pelo simples fato do eleitorado estar exposto a novas informações, enfim, condições inexistentes anteriormente. </P></p>
@@ -107,3 +108,4 @@ imagem: null
 <p><P>O que dizer, então, de um cenário que estimula o eleitor a escolher entre dois candidatos com possuem perfis semelhantes e que estão posicionados, no momento, no segundo e terceiro lugares? Em quem votará o eleitor de Mendonça Filho, de perfil bastante distintos dos outros dois candidatos - Eduardo Campos e Humberto Costa - em um eventual segundo turno entre eles? Tais questões servem apenas para dar uma dimensão dos problemas oriundos dos esforços dos institutos em estimular as escolhas dos eleitores para os cenários ainda bastante indefinidos de segundo turno. Por isso, alguns não fazem levantamento para um eventual segundo turno ou não apresentam ao eleitor o cenário que não envolva o candidato que está mais bem colocado em seus levantamentos.</P></p>
 <p><P><FONT face=Verdana>5. e, finalmente, que, levando em consideração o quadro acima, a disputa entre Humberto Costa e Eduardo Campos, salvaguardando o surgimento de algum fato novo relevante - como a previs?vel denúncia contra o ex-ministro Humberto Costa, que o Ministério Público deverá oferecer à Justiça nos próximos dias -, só deverá se resolver às vésperas ou no dia do primeiro turno. Tal fato tornará a (ilegal) boca-de-urna ainda mais importante. E, provavelmente, fará com que as duas coligações - Melhor para Pernambuco e Frente Popular de Pernambuco - não abram mão dela.</FONT></P></p>
 <p><P><BR><EM>*Cientista pol?tico e pesquisador da Fundação Joaquim Nabuco, <STRONG>Túlio Velho Barreto</STRONG>, 48, é um dos autores dos livros “Democracia e Instituições Pol?ticas Brasileiras no final do Século XX??? (MCP-UFPE/Bagaço, 1998) e “Nordeste 2004 - O Voto das Capitais??? (Fundação Konrad Adenauer, 2005). Co-organizou e participou dos livros “Na Trilha do Golpe - 1964 revisitado??? (Editora Massangana, 2004) e “A Nova República - Visões da redemocratização??? (Cepe/JC, 2006), que resultaram de séries especiais publicadas pelo Jornal do Commercio em parceria com a Fundação Joaquim Nabuco.</EM></P> </p>
+{\% endraw %}

@@ -1,20 +1,21 @@
 ---
 id: 12373673
-date: "2006-10-22T18:01:00+00:00"
+date: "2006-10-22T18:01:00Z"
 last_modified_at: null
 tags:
-  - armando-monteiro
-  - jarbas-vasconcelos
-  - mendonca
-  - naomi-campbell
+  - "armando-monteiro"
+  - "jarbas-vasconcelos"
+  - "mendonca"
+  - "naomi-campbell"
 categories:
-  - noticias
-title: "“A derrota não é de Mendonça, mas de Jarbas???, diz Armando"
+  - "noticias"
+title: "\u201cA derrota n\u00e3o \u00e9 de Mendon\u00e7a, mas de Jarbas???, diz Armando"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Esta é a avaliação do deputado federal mais votado de Pernambuco, o presidente da Confederação Nacional das Indústrias (CNI), Armando Monteiro Neto (PTB). </FONT></P></p>
 <p><P><FONT face=Verdana>Ele não só dá como certa a vitória do candidato do PSB ao governo de Pernambuco, Eduardo Campos, como culpa o senador eleito Jarbas Vasconcelos (PMDB) por uma eventual derrota do governador-candidato Mendonça Filho (PFL). </FONT></P></p>
 <p><P><FONT face=Verdana>“Jarbas foi um péssimo gestor pol?tico. Ele não teve a capacidade de conviver e valorizar as lideranças. Ele fez um governo condominial, de grupos, estreito. E está a? o resultado. A derrota não é de Mendonça, mas de Jarbas. Essa é uma derrota dele, fundamentalmente dele???, avaliou o deputado, em entrevista à&nbsp;Cec?lia Ramos, repórter do <STRONG>Blog</STRONG>. </FONT></P></p>
@@ -29,3 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Senador eleito com votação histórica, Jarbas Vasconcelos é o maior cabo-eleitoral da União. Mesmo assim, tem sido dif?cil a transferência de votos – vide as derrotas de Roberto Magalhães (PFL) e Cadoca (PMDB), em 2002 e 2004, respectivamente, para João Paulo, na Prefeitura do Recife. Numa eventual derrota de Mendonça Filho, o senhor acredita que Jarbas sairia enfraquecido?</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Jarbas foi um péssimo gestor pol?tico. Se você avaliar o que a aliança perdeu, quantos quadros desses que estão na oposição e antes estavam na aliança vai ver que é volumoso. Se alguém contabilizar isso se terá uma expressão do ponto de vista eleitoral. E porque tantas lideranças sa?ram da aliança jarbista? Porque Jarbas é péssimo gestor. Ele não teve a capacidade de conviver e valorizar as lideranças. Ele fez um governo condominial, de grupos, estreito. E está a? o resultado. A derrota não é de Mendonça, mas de Jarbas. Essa é uma derrota dele, fundamentalmente dele. Essa derrota decorreu da forma estreita como ele geriu a pol?tica. Na minha avaliação é muito mais derrota de Jarbas Vasconcelos do que de Mendonça Filho. Mendonça foi produto da aliança, do jarbismo. Mendonça pagou o preço desse governo estreito. Jarbas desprestigiou as lideranças do interior. Jamais valorizou uma interlocução ampla, sempre ficou colocado como alguém que julgava o dono da vontade, o messias. Ta a? o resultado. Não há vitórias e derrotas absolutas na pol?tica.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Qual sua expectativa do mandato de Jarbas no Senado?<BR></STRONG>Não sei como ele chega no Senado. Mas certamente ele chega nem maior nem menor do que é. Vai chegar do tamanho que ele é. Só espero que ele possa cumprir no Senado um papel digno. Que ele se prepare para discutir assuntos que ele pouco conhece, como reforma tributária e pol?tica, e que ele não atrapalhe Pernambuco, seja Eduardo o governador ou Mendonça.</FONT></P> </p>
+{\% endraw %}

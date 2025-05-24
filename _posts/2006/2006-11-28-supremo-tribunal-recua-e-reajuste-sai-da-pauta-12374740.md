@@ -1,20 +1,21 @@
 ---
 id: 12374740
-date: "2006-11-28T06:12:00+00:00"
+date: "2006-11-28T06:12:00Z"
 last_modified_at: null
 tags:
-  - reajuste
-  - recua
-  - supremo
-  - tribunal
+  - "reajuste"
+  - "recua"
+  - "supremo"
+  - "tribunal"
 categories:
-  - noticias
+  - "noticias"
 title: "Supremo Tribunal recua e reajuste sai da pauta"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>BRAS??LIA - A repercussão negativa das propostas de aumentar os salários dos ministros do Supremo Tribunal Federal (STF) e criar um jetom para os integrantes do Conselho Nacional de Justiça (CNJ) levou o cancelamento da reunião marcada para hoje da presidente do Supremo, ministra Ellen Gracie, com o presidente da Câmara dos Deputados, Aldo Rebelo (PCdoB-SP), e os l?deres partidários. </FONT></P></p>
 <p><P><FONT face=Verdana>Os dois projetos e o que cria cargos também para o STF foram retirados ontem da pauta prevista para esta semana, na Câmara. A própria ministra Ellen Gracie pediu a Rebelo o cancelamento da reunião que ela mesma havia solicitado com o objetivo de defender junto aos l?deres a aprovação de alguns projetos de interesse do Judiciário que esperam votação no Congresso. Os projetos que tratam de questões processuais foram mantidos na pauta do plenário.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/11/28/not_210456.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).<BR></FONT></P></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Ellen Gracie promete lista dos supersalários</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>BRAS??LIA - A presidente do Conselho Nacional de Justiça (CNJ), Ellen Gracie, anunciará hoje o número de desembargadores e servidores do Poder Judiciário que ganham supersalários. Ellen Gracie, porém, não deverá revelar os nomes dos magistrados e funcionários da Justiça que recebem remunerações superiores ao teto do funcionalismo, que atualmente é R$ 24,5 mil, mas que pode passar em breve para R$ 25,7 mil. Os presidentes dos tribunais que pagam salários superiores a esse patamar serão comunicados pelo CNJ de que devem se adequar ao teto. </FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/11/28/not_210458.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P> </p>
+{\% endraw %}

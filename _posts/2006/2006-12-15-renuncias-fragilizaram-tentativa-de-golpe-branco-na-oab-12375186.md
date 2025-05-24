@@ -1,18 +1,19 @@
 ---
 id: 12375186
-date: "2006-12-15T10:30:00+00:00"
+date: "2006-12-15T10:30:00Z"
 last_modified_at: null
 tags:
-  - branco
-  - golpe
+  - "branco"
+  - "golpe"
 categories:
-  - noticias
+  - "noticias"
 title: "Renuncias fragilizaram tentativa de golpe branco na OAB"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Mais bastidores da tiroteio que abalou a OAB, ontem, até que o presidente e candidato derrotado à reeleição, Júlio Oliveira, anunciou que não assumiria o cargo, mesmo com a anulação do resultado por uma comissão eleitoral, um mês após o pleito.</FONT></P></p>
 <p><P><FONT face=Verdana>No meio da tarde, um grupo de cinco aliados de peso de Júlio Oliveira renunciaram aos seus cargos, deixando-o isolado.</FONT></P></p>
 <p><P><FONT face=Verdana>Veja a Carta Aberta às Advogadas e Advogados Pernambucanos, obtida pelo <STRONG>Blog do JC</STRONG>.</FONT></P></p>
@@ -23,3 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Djair de Sousa Farias</FONT></P></p>
 <p><P><FONT face=Verdana>Dominici Mororó</FONT></P></p>
 <p><P><FONT face=Verdana>Rodrigo Oliveira\".</FONT></P> </p>
+{\% endraw %}

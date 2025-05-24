@@ -1,21 +1,22 @@
 ---
 id: 12371326
-date: "2006-08-31T12:58:00+00:00"
+date: "2006-08-31T12:58:00Z"
 last_modified_at: null
 tags:
-  - blogs-jc
-  - debate
-  - eleitor
-  - mendonca-filho
-  - priscila-cruz
+  - "blogs-jc"
+  - "debate"
+  - "eleitor"
+  - "mendonca-filho"
+  - "priscila-cruz"
 categories:
-  - colunistas
-title: "AS MENINAS DO BLOG / Mendonça Filho no debate: respeito ao eleitor (Priscila Krause)"
+  - "colunistas"
+title: "AS MENINAS DO BLOG / Mendon\u00e7a Filho no debate: respeito ao eleitor (Priscila Krause)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Priscila Krause*</STRONG><BR>Vereadora do Recife</FONT></P></p>
 <p><P><FONT face=Verdana>Ao comparecer ao primeiro debate na TV com os demais candidatos ao Governo do Estado, o governador Mendonça Filho demonstrou esp?rito público e respeito ao eleitorado. Mendonça fez questão de estar presente no debate da última segunda-feira, mesmo com o risco de enfrentar o que se previa e se confirmou: um verdadeiro pelotão de fuzilamento, formado por seis candidatos da oposição.</FONT></P></p>
 <p><P><FONT face=Verdana>Mas nem a ironia camuflada de um, o destempero acuado de outro e o engajamento aberto dos demais foram munição suficiente para derrubar o favorito dos pernambucanos para suceder Jarbas Vasconcelos no Palácio do Campo das Princesas. </FONT></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Em posição de desvantagem numérica e dialética - já que não podia responder a tudo o que lhe era imputado, mesmo quando não foi diretamente questionado - o governador de hoje e dos próximos quatro anos teve a paciência dos que conhecem a dinâmica da pol?tica, e a consciência de quem traz, nos ombros, o encargo da responsabilidade. </FONT></P></p>
 <p><P><FONT face=Verdana>Ao enfrentar todas as adversidades, Mendonça Filho mostrou virtudes essenciais ao exerc?cio da liderança: coragem e serenidade. E como democrata, um profundo respeito ao eleitor.</FONT></P></p>
 <p><P><FONT face=Verdana><EM><STRONG>*Priscila Krause</STRONG>, 26, é vereadora do Recife pelo PFL, em primeiro mandato, estudante de jornalismo e filha do ex-ministro e ex-governador de Pernambuco Gustavo Krause.</EM></FONT></P> </p>
+{\% endraw %}

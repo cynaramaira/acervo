@@ -1,17 +1,18 @@
 ---
 id: 12371497
-date: "2006-08-23T18:17:00+00:00"
+date: "2006-08-23T18:17:00Z"
 last_modified_at: null
 tags:
-  - sem-tags
+  - "sem-tags"
 categories:
-  - noticias
-title: "KM rebate acusações de Gabeira"
+  - "noticias"
+title: "KM rebate acusa\u00e7\u00f5es de Gabeira"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>A KM Empreendimentos LTDA enviou nota comentando as acusações feitas pelo deputado federal Fernando Gabeira (PV-RJ), e publicadas no <STRONG>Blog</STRONG>, hoje cedo,&nbsp;sobre o envolvimento da empresa no escândalo das sanguessugas. A nota:</FONT></P></p>
 <p><P align=justify><FONT face=Verdana><EM>Em resposta aos fatos noticiados na imprensa escrita no dia de hoje (23.08.06), referente à entrevista do il. Deputado Fernando Gabeira, colocando o bom nome da empresa KM EMPREENDIMENTOS LTDA. como suspeita de participar de supostas irregularidades no fornecimento de ve?culos especialmente fabricados junto ao FINEP e ao MINISTÉRIO DE CIÊNCIA E TECNOLOGIA, vem a público esclarecer que:</EM></FONT></P><FONT face=Verdana></p>
 <p><P align=justify><EM></EM></P></FONT></p>
@@ -33,3 +34,4 @@ imagem: null
 <p><P align=justify><FONT face=Verdana><EM>Recife, 23 de agosto de 2006.</EM></FONT></P></p>
 <p><P align=justify><FONT face=Verdana><EM></EM></FONT></P></p>
 <p><P align=justify><FONT face=Verdana><EM>KM EMPREENDIMENTOS LTDA</EM>.</FONT></P></FONT> </p>
+{\% endraw %}

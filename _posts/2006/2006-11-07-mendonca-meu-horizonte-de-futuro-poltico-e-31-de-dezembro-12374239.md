@@ -1,19 +1,20 @@
 ---
 id: 12374239
-date: "2006-11-07T15:15:00+00:00"
+date: "2006-11-07T15:15:00Z"
 last_modified_at: null
 tags:
-  - belo-horizonte
-  - dezembro
-  - mendonca
+  - "belo-horizonte"
+  - "dezembro"
+  - "mendonca"
 categories:
-  - noticias
-title: "Mendonça: Meu horizonte de futuro pol?tico é 31 de dezembro"
+  - "noticias"
+title: "Mendon\u00e7a: Meu horizonte de futuro pol?tico \u00e9 31 de dezembro"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O governador Mendonça Filho (PFL) não quer saber de marola nestes últimos dois meses de administração e de transição. </FONT></P></p>
 <p><P><FONT face=Verdana>Pela manhã, durante inauguração de uma unidade da Honda no Recife, conversou rapidamente com os jornalistas, conforme relato de Monica Crisostomo, repórter de Pol?tica do Jornal do Commercio..</FONT></P></p>
 <p><P><FONT face=Verdana>Primeiro, fez questão de evitar conflitos com a equipe de transição do governador eleito Eduardo Campos (PSB). </FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Comentário meu:</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Está correto o pefelista. O momento agora é de fechar os oito anos de administração&nbsp;sem estresse ou algo que possa desgastar sua imagem, já enfraquecida pela derrota para Eduardo.</FONT></P></p>
 <p><P><FONT face=Verdana>Encerrado o governo, é começar a construir o caminho que pretende trilhar para que possa se credenciar, no futuro, a um outro cargo majoritário.</FONT></P> </p>
+{\% endraw %}

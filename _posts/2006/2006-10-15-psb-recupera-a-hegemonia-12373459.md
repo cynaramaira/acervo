@@ -1,17 +1,18 @@
 ---
 id: 12373459
-date: "2006-10-15T09:20:00+00:00"
+date: "2006-10-15T09:20:00Z"
 last_modified_at: null
 tags:
-  - recuperacao
+  - "recuperacao"
 categories:
-  - noticias
+  - "noticias"
 title: "PSB recupera a hegemonia"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Inaldo Sampaio</STRONG><BR>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>A exclusão do ex-ministro Humberto Costa do segundo turno da disputa estadual não reduz a importância pol?tica do PT em termos regionais, mas recoloca a legenda num patamar de inferioridade em relação ao PSB. </FONT></P></p>
 <p><P><FONT face=Verdana>De 1990 até 2000, o PSB foi o mais influente partido de esquerda de Pernambuco. Teve um desempenho p?fio em 1992 quando disputou e perdeu para Jarbas Vasconcelos (PMDB) a Prefeitura do Recife (Eduardo Campos ficou na quinta colocação). </FONT></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana>Humberto revelou que preocupa-se com a divisão interna no partido, porém, ressalta que esse não é um assunto que tratará agora, uma vez que a prioridade do momento (dele e dos petistas, conforme ressalta) é a reeleição do presidente Lula (PT) e a eleição de Eduardo Campos (PSB-Frente Popular) no Estado.</FONT></P></p>
 <p><P><FONT face=Verdana>“Qualquer questão interna do PT, só quero tratar após as eleições???, sintetizou o ex-ministro da Saúde.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/10/15/not_204760.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P> </p>
+{\% endraw %}

@@ -1,18 +1,19 @@
 ---
 id: 12375072
-date: "2006-12-11T10:15:00+00:00"
+date: "2006-12-11T10:15:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - humberto-costa
+  - "eduardo"
+  - "humberto-costa"
 categories:
-  - noticias
+  - "noticias"
 title: "Humberto quer ajudar Eduardo de novo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"mso-bookmark: 3170\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></SPAN></P><SPAN style=\"mso-bookmark: 3170\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">Quem seriam os representantes do prefeito João Paulo (PT), do ex-ministro Humberto Costa (PT) e do deputado Armando Monteiro Neto (PTB) no governo Eduardo Campos?<o:p></o:p></SPAN></SPAN></p>
 <p><P></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">Já o PT de João Paulo deve indicar o deputado estadual eleito André Campos. <o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><o:p>&nbsp;</o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">No PTB, especula-se que o escolhido seria o deputado federal José Chaves.<o:p></o:p></SPAN></P> </p>
+{\% endraw %}

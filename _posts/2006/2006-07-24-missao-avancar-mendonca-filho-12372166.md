@@ -1,18 +1,19 @@
 ---
 id: 12372166
-date: "2006-07-24T21:49:00+00:00"
+date: "2006-07-24T21:49:00Z"
 last_modified_at: null
 tags:
-  - demissao
-  - mendonca-filho
+  - "demissao"
+  - "mendonca-filho"
 categories:
-  - colunistas
-title: "Missão: avançar (Mendonça Filho)"
+  - "colunistas"
+title: "Miss\u00e3o: avan\u00e7ar (Mendon\u00e7a Filho)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P></p>
 <p><P><FONT face=Verdana>Por <STRONG>Mendonça Filho</STRONG><BR>Governador e candidato à reeleição pela União por Pernambuco</FONT></P></p>
 <p><P><FONT face=Verdana>O&nbsp;crescimento econômico e sustentável que esteja atrelado à recuperação e nossa importância regional, dentro de um processo de inclusão social que privilegie a educação, por um lado, e a interiorização do desenvolvimento, por outro, é um enorme desafio. E este desafio vem sendo encarado com sucesso pela União Por Pernambuco, liderada nos últimos oito anos pelo governador Jarbas Vasconcelos.</FONT></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>A União Por Pernambuco acredita que o desenvolvimento é uma conquista social, e não apenas econômica. Desta forma, programas e ações voltados para os direitos básicos do cidadão, são essenciais no caminho adiante. O direito à saúde, à moradia, à educação, ao emprego e à segurança precisa ser respeitado, para que o Estado entre de vez num ciclo de bom desempenho econômico, com eficiência e competitividade para as empresas, e bem-estar para a população.</FONT></P></p>
 <p><P><FONT face=Verdana>A gestão pública de qualidade é, por sua vez, condição para que as vocações floresçam, e os investimentos necessários sejam realizados. Sem um Estado competente, enxuto e ágil, dificilmente poder?amos avançar.</FONT></P></p>
 <p><P><FONT face=Verdana>Na ênfase à educação como investimento em capital humano, está o diferencial de muitas nações que observaram viradas históricas, tanto em sua economia quanto na qualidade de vida de seu povo. É no espelho de experiências bem-sucedidas no planeta que Pernambuco mira o seu futuro.</FONT></P> </p>
+{\% endraw %}

@@ -1,18 +1,19 @@
 ---
 id: 12372187
-date: "2006-07-24T11:23:00+00:00"
+date: "2006-07-24T11:23:00Z"
 last_modified_at: null
 tags:
-  - altas-horas
-  - combate
+  - "altas-horas"
+  - "combate"
 categories:
-  - noticias
-title: "Hora de cobrar combate à violência"
+  - "noticias"
+title: "Hora de cobrar combate \u00e0 viol\u00eancia"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>O eleitor pernambucano terá uma oportunidade importante para pressionar e exigir dos candidatos ao governo de Pernambuco um plano de combate à criminalidade no Estado, um dos mais violentos do pa?s.</FONT></P></p>
 <p><P><FONT face=Verdana>&nbsp;A partir do próximo dia 14, o Instituto Antônio Carlos Escobar (IACE) promoverá uma série de debates sobre segurança pública com os candidatos.</FONT></P></p>
@@ -23,3 +24,4 @@ imagem: null
 <p><P><FONT</p>
 <p> face=Verdana>O instituto tenta politizar um tema que deve cada dia mais ser politizado. O governo Jarbas Vasconcelos/Mendonça Filho fracassou no combate à violência e precisa urgentemente apresentar o plano convincente para um novo governo. </FONT></P></p>
 <p><P><FONT face=Verdana>Os demais candidatos, principalmente Eduardo Campos e Humberto Costa, ainda não apresentaram nada consistente para essa área.</FONT></P></FONT> </p>
+{\% endraw %}

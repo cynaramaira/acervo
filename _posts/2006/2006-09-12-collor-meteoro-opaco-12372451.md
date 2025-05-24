@@ -1,18 +1,19 @@
 ---
 id: 12372451
-date: "2006-09-12T08:01:00+00:00"
+date: "2006-09-12T08:01:00Z"
 last_modified_at: null
 tags:
-  - fernando-collor
-  - meteorologia
+  - "fernando-collor"
+  - "meteorologia"
 categories:
-  - noticias
+  - "noticias"
 title: "Collor, meteoro opaco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Acabei de publicar na seção artigos, na coluna ao lado, um interessante texto de Luiz Otávio Cavalcanti sobre o ex-presidente Fernando Collor. O artigo (trechos abaixo) faz parte da série que ele vem escrevendo aqui no <STRONG>Blog</STRONG> sobre nossos ex-presidentes.</FONT></P></p>
 <p><P><FONT face=Verdana>Boa leitura.</FONT></P></p>
 <p><P><FONT face=Verdana>-------------------------------</FONT></P></p>
@@ -22,3 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>a)&nbsp;Eram introspectivos, e não brasileiramente extrovertidos, reduzindo a aptidão para fazer pol?tica e construir alternativas de ação;<BR><BR>b)&nbsp;Eram populistas e não republicanos, desvalorizando mecanismos institucionais que poderiam criar densidade pol?tica em torno do governo;<BR><BR>c)&nbsp;Eram céticos e não tropicalmente otimistas, cerceando chances de mobilização social porque trabalharam mais as impossibilidades do que as viabilidades.</FONT></P></p>
 <p><P><FONT face=Verdana>Na prática, os dois foram presidentes eleitoralmente poss?veis, mas politicamente inviáveis.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/09/12/not_1367.php\">aqui</A></EM></STRONG> o texto completo.</FONT></P> </p>
+{\% endraw %}

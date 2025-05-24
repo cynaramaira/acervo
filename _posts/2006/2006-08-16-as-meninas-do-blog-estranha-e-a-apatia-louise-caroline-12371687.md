@@ -1,17 +1,18 @@
 ---
 id: 12371687
-date: "2006-08-16T10:56:00+00:00"
+date: "2006-08-16T10:56:00Z"
 last_modified_at: null
 tags:
-  - blogs-jc
+  - "blogs-jc"
 categories:
-  - colunistas
-title: "AS MENINAS DO BLOG / Estranha é a apatia (Louise Caroline)"
+  - "colunistas"
+title: "AS MENINAS DO BLOG / Estranha \u00e9 a apatia (Louise Caroline)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Louise Caroline*</STRONG><BR>Vice-presidente da UNE</FONT></P></p>
 <p><P align=justify><FONT face=Verdana></FONT></P></p>
 <p><P align=justify><FONT face=Verdana>Inicialmente, gostaria de saudar os leitores e as leitoras que, a partir de hoje até o final da campanha, irão compartilhar conosco este importante espaço de debates. Também preliminarmente, quero agradecer e parabenizar a iniciativa do jornalista César Rocha e do Blog do JC, não em meu nome, mas em nome da luta das mulheres e da juventude que se organizam na defesa de que os espaços públicos e os grandes debates pol?ticos também sejam nossos.</FONT></P></p>
@@ -38,3 +39,4 @@ imagem: null
 <p><P align=justify><FONT face=Verdana></FONT></P></p>
 <p><P><FONT face=Verdana>Os analistas e a população pernambucana podem ter certeza de que nossa campanha transbordará sentimentos e emoções. É que a militância está convicta de que Lula, Humberto Costa e Luciano Siqueira não são apenas nossos candidatos, mas a encarnação de um tanto de sonhos e esperanças que movem nossas vidas. Onde houver ataques, onde houver debates, onde houver identificação, a militância sentirá na própria pele, apaixonadamente e com a certeza de que o nosso papel nessa história não é coadjuvante.</FONT></P></p>
 <p><P><FONT face=Verdana>*Louise Caroline, 23, é estudante de direito, vice-presidente da União Nacional dos Estudantes (UNE) e militante do PT.</FONT></P> </p>
+{\% endraw %}

@@ -1,19 +1,20 @@
 ---
 id: 12372707
-date: "2006-09-21T13:49:00+00:00"
+date: "2006-09-21T13:49:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - entrega
-  - mendonca
+  - "eduardo"
+  - "entrega"
+  - "mendonca"
 categories:
-  - noticias
-title: "Internautas apostam no 2º turno entre Mendonça e Eduardo"
+  - "noticias"
+title: "Internautas apostam no 2\u00ba turno entre Mendon\u00e7a e Eduardo"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p>Este &eacute; o balan&ccedil;o parcial da enquete que o Blog est&aacute; realizando. Veja os n&uacute;meros:</p>
 <p>&nbsp;</p>
 <p>Na sua opini&atilde;o quem deve disputar o 2&ordm; turno na elei&ccedil;&atilde;o para governador de Pernambuco?</p>
@@ -28,3 +29,4 @@ imagem: null
 <p>Total de votos 6.369</p>
 <p><br /></p>
 <p>Participe, vote, d&ecirc; sua opini&atilde;o na coluna ao lado.</p>
+{\% endraw %}

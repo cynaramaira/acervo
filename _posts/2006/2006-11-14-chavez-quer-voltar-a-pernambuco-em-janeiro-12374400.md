@@ -1,18 +1,19 @@
 ---
 id: 12374400
-date: "2006-11-14T13:43:00+00:00"
+date: "2006-11-14T13:43:00Z"
 last_modified_at: null
 tags:
-  - janeiro
-  - pernambuco
+  - "janeiro"
+  - "pernambuco"
 categories:
-  - noticias
-title: "Chávez quer voltar a Pernambuco em janeiro"
+  - "noticias"
+title: "Ch\u00e1vez quer voltar a Pernambuco em janeiro"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>O presidente da Venezuela, Hugo Chávez, deve voltar a Pernambuco, em 7 de janeiro, caso reeleito, para visitar de novo o local onde será implantada a refinaria Abreu e Lima, projeto de US$ 2,8 bilhões desenvolvido numa parceria entre as estatais brasileira e venezuelana de petróleo (Petrobras e PDVSA).<o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></SPAN></P></p>
@@ -37,3 +38,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: \Times New Roman\; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA\"><FONT face=Verdana></FONT></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: \Times New Roman\; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA\"><FONT face=Verdana>Essas são algumas das questões a serem fechadas na reunião entre Lula, Chávez, Petrobras, PDVSA e governo eleito, em janeiro.</FONT></SPAN></P></p>
 <p><P><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: \Times New Roman\; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA\"><FONT face=Verdana>(<EM>Nota às 17h35: por problemas técnicos, perdemos o texto publicado aqui no in?cio da tarde. Tivemos que reescrevê-lo. O resultado é o que está acima</EM>).</FONT></SPAN></P> </p>
+{\% endraw %}

@@ -1,19 +1,20 @@
 ---
 id: 12373453
-date: "2006-10-15T07:27:00+00:00"
+date: "2006-10-15T07:27:00Z"
 last_modified_at: null
 tags:
-  - geraldo-alckmin
-  - lula
-  - pernambuco
+  - "geraldo-alckmin"
+  - "lula"
+  - "pernambuco"
 categories:
-  - noticias
+  - "noticias"
 title: "Em Pernambuco, Lula tem 77% e Alckmin, 19% "
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Se a eleição do próximo presidente da República dependesse apenas do voto dos pernambucanos, o candidato do PT à reeleição, Luiz Inácio Lula da Silva, sairia vitorioso das urnas neste segundo turno com uma diferença de 58 pontos percentuais sobre o seu adversário na disputa, o ex-governador de São Paulo Geraldo Alckmin, candidato do PSDB. </FONT></P></p>
 <p><P><FONT face=Verdana>A primeira pesquisa realizada pelo Instituto Vox Populi - com exclusividade para o Jornal do Commercio - neste segundo turno das eleições revelou - na amostragem estimulada por cartão - que 77% dos pernambucanos têm preferência pelo candidato petista, enquanto 19% votariam no tucano. </FONT></P></p>
@@ -36,3 +37,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>A pesquisa adotou a técnica de survey, que consiste na aplicação de questionários estruturados e padronizados a uma amostra representativa do universo de investigação. </EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>Foram feitas 1.200 entrevistas domiciliares com moradores e eleitores com 16 anos de idade ou mais, em 56 munic?pios de Pernambuco, selecionados pela técnica de probabilidade proporcional ao tamanho, e adotada uma amostra estratificada por cotas, calculadas de acordo com dados do IBGE, Censo de 2000 e TSE. </EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>O intervalo de confiança é de 95% e a margem de erro média é de 2,8 pontos percentuais para mais ou para menos. A pesquisa foi registrada no TRE-PE no dia 10 de outubro de 2006, sob o número 19388/2006.</EM></FONT></P> </p>
+{\% endraw %}

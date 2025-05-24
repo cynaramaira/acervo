@@ -1,22 +1,23 @@
 ---
 id: 12373697
-date: "2006-10-22T23:07:00+00:00"
+date: "2006-10-22T23:07:00Z"
 last_modified_at: null
 tags:
-  - andre-rio
-  - debate
-  - louro-jose
-  - paula-braun
-  - segundo-turno
-  - wolney-queiroz
+  - "andre-rio"
+  - "debate"
+  - "louro-jose"
+  - "paula-braun"
+  - "segundo-turno"
+  - "wolney-queiroz"
 categories:
-  - noticias
-title: "O debate segundo José Queiroz e André de Paula"
+  - "noticias"
+title: "O debate segundo Jos\u00e9 Queiroz e Andr\u00e9 de Paula"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana><EM>\"Mendonça perdeu porque insiste em requentar\"</EM></FONT></P></p>
 <p><P><FONT face=Verdana>Por <B>José Queiroz<BR></B></FONT><FONT face=Verdana><EM>Deputado estadual do PDT</EM></FONT></P></p>
@@ -32,3 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>Eduardo está na mesma linha do debate anterior, que é uma certa retranca que decorre da posição confortável nas pesquisas. </FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo tenta aparentar uma tranquilidade que não tem. E ele toda vez se exime de entrar&nbsp;em questões relevantes. E a&nbsp;agente queria ouvir com clareza, verdade e seriedade&nbsp;o que ele fez para ter uma&nbsp;gestão tão desastrosa no Governo Arraes, quando foi o secretário de Finanças.</FONT></P></p>
 <p><P><FONT face=Verdana>E hoje Eduardo&nbsp;disse um dado novo, que ele saiu do governo&nbsp;em março de 98, na transição para Jarbas. Mas todo mundo sabe que Eduardo&nbsp;comandou mesmo sem estar na cadeira. E mesmo assim&nbsp;não justifica o atraso dos salários dos servidores. </FONT><FONT face=Verdana>Então&nbsp;Eduardo falta com a verdade. No Governo Arraes, o governador foi Eduardo Campos.</FONT></P></FONT> </p>
+{\% endraw %}

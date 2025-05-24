@@ -1,18 +1,19 @@
 ---
 id: 12374771
-date: "2006-11-28T19:42:00+00:00"
+date: "2006-11-28T19:42:00Z"
 last_modified_at: null
 tags:
-  - campanha
-  - psdb
+  - "campanha"
+  - "psdb"
 categories:
-  - noticias
+  - "noticias"
 title: "Campanha: PT fez d?vida de R$ 9,8 mi; PSDB, de R$ 19,9 mi"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do portal <STRONG>G1</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>PT e PSDB gastaram mais do que arrecadaram na campanha eleitoral dos candidatos à Presidência Luiz Inácio Lula da Silva e Geraldo Alckmin.</FONT></P></p>
 <p><P><FONT face=Verdana>Segundo prestações de contas ao TSE (Tribunal Superior Eleitoral) divulgadas nesta terça (28), encerrada a campanha, a d?vida acumulada pelo PT é de R$ 9,8 milhões e a do PSDB, é o dobro, R$ 19,9 milhões.</FONT></P></p>
@@ -21,3 +22,4 @@ imagem: null
 <p><P><FONT</p>
 <p> face=Verdana><STRONG>PSDB</STRONG><BR>Em nota divulgada à imprensa, referente à prestação de contas do partido à campanha de 2006, o PSDB afirma ter uma d?vida de R$ 19.904.806,43, uma vez que gastou R$ 81.923.624,75 e arrecadou R$ 62.022.370,45.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://g1.globo.com/Noticias/Politica/0,,AA1367550-5601,00.html\" target=_blank>aqui</A></EM></STRONG>.</FONT></P> </p>
+{\% endraw %}

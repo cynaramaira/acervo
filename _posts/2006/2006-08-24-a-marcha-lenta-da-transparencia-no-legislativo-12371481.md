@@ -1,17 +1,18 @@
 ---
 id: 12371481
-date: "2006-08-24T08:50:00+00:00"
+date: "2006-08-24T08:50:00Z"
 last_modified_at: null
 tags:
-  - legislativo
+  - "legislativo"
 categories:
-  - noticias
-title: "A marcha lenta da transparência no Legislativo"
+  - "noticias"
+title: "A marcha lenta da transpar\u00eancia no Legislativo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Jorge Cavalcanti</STRONG><BR>Repórter do JC<BR>&nbsp;<BR>Os dois projetos que tratam da abertura do Sistema Integrado de Administração Financeira do Estado e Munic?pios (Siafem) - de autoria dos deputados João Fernando Coutinho (PSB) e Teresa Leitão (PT) - completam amanhã um ano paralisados na Comissão de Constituição, Legislação e Justiça da Assembléia Legislativa. </FONT></P></p>
 <p><P><FONT face=Verdana>Mas sequer possuem parecer dos relatores Adelmo Duarte (PFL) e José Queiroz (PDT), o que impede a tramitação das matérias até chegar ao plenário. </FONT></P></p>
 <p><P><FONT face=Verdana>Na prática, a assessoria jur?dica do parlamentar relator ou da comissão é quem elabora os pareceres apenas quando a matéria vai ser inclu?da na pauta de votação, definida pelo presidente.</FONT></P></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>Interesses escusos impedem que a população tenha acesso às contas públicas e possam fiscalizar a utilização do dinheiro, que é&nbsp;público.</FONT></P></p>
 <p><P><FONT face=Verdana>Com certeza, o Siafem já estaria aberto se o presidente da Assembléia, deputado e candidato à reeleição Romário Dias (PFL), se empenhasse por isso da mesma maneira que luta e lutou por conseguir, para ele mesmo, o cargo de conselheiro do Tribunal de Contas.</FONT></P></p>
 <p><P><FONT face=Verdana>Numa cruzada com taxa zero de esp?rito público, ele deseja com todas as suas forças ocupar o cargo, que é vital?cio e oferece a seus ocupantes um belo conjunto de mordomias.</FONT></P> </p>
+{\% endraw %}

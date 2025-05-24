@@ -1,19 +1,20 @@
 ---
 id: 12374466
-date: "2006-11-16T21:12:00+00:00"
+date: "2006-11-16T21:12:00Z"
 last_modified_at: null
 tags:
-  - globo
-  - mascara
-  - visita
+  - "globo"
+  - "mascara"
+  - "visita"
 categories:
-  - noticias
-title: "PT visita Vovozinha e dá de cara com Lobo Mau"
+  - "noticias"
+title: "PT visita Vovozinha e d\u00e1 de cara com Lobo Mau"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Do blog de <STRONG>Josias de Souza</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>O petismo anda abespinhado com Lula. Julga-se alijado das negociações para a composição da Esplanada do segundo mandato. Nesta quinta, o alto comando do PT foi passear na floresta do gabinete presidencial. Esperava encontrar a doce Vovozinha. Deu de cara com Lobo Mau.</FONT></P></p>
@@ -23,3 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>No Brasil dos últimos anos, pelo menos desde a presidência de José Sarney, a composição de um ministério é sempre algo inqualificável. Portanto, muito fácil de qualificar. Na essência, é um conchavo da falta de pudor com a carência de escrúpulos, do qual a ética prefere se abster.</FONT></P></p>
 <p><P><FONT face=Verdana>Lula entrega-se uma vez mais ao jogo. Se puder, irá envernizar a Esplanada com um ou outro nome digno de respeito. Mas tende a acomodar na maioria das pastas pessoas que tenham atrás de si estruturas congressuais. Se vierem acompanhados de boas biografias, tanto melhor. </FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://josiasdesouza.folha.blog.uol.com.br/\" target=_blank>aqui</A></EM></STRONG> a ?ntegra do texto.</FONT></P></FONT> </p>
+{\% endraw %}

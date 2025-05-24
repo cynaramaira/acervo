@@ -1,20 +1,21 @@
 ---
 id: 12374405
-date: "2006-11-14T19:10:00+00:00"
+date: "2006-11-14T19:10:00Z"
 last_modified_at: null
 tags:
-  - futebol
-  - jose-teles
-  - passaporte
-  - tite
+  - "futebol"
+  - "jose-teles"
+  - "passaporte"
+  - "tite"
 categories:
-  - noticias
-title: "Júlio passa Jayme, mas eles continuam em empate técnico"
+  - "noticias"
+title: "J\u00falio passa Jayme, mas eles continuam em empate t\u00e9cnico"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>A apenas um dia da eleição para presidente da OAB em Pernambuco, a disputa permanece apertad?ssima.</FONT></P></p>
 <p><P><FONT face=Verdana>É o que mostra a segunda e última rodada da pesquisa realizada pela Contagem Consultoria.</FONT></P></p>
 <p><P><FONT face=Verdana>Júlio Oliveira, atual presidente da Ordem e candidato à reeleição, ultrapassou o procurador estadual Jayme Asfora, na comparação com o último levantamento.</FONT></P></p>
@@ -35,3 +36,4 @@ imagem: null
 <p><P><FONT face=Verdana>Não sabe/Indecisos</FONT></B><FONT face=Verdana>&nbsp;&nbsp;24,8%&nbsp;(eram 34,6%)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </FONT></P><B></p>
 <p><P><FONT face=Verdana>Não quis declarar</FONT></B><FONT face=Verdana>&nbsp;&nbsp;9,8%&nbsp;(eram 7,6%)</FONT></P><B></p>
 <p><P><FONT face=Verdana>Nenhum/Nulo</FONT></B><FONT face=Verdana>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1%&nbsp;&nbsp;&nbsp;(era 1%)</FONT></P> </p>
+{\% endraw %}

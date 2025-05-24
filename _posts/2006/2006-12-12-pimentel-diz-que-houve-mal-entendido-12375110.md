@@ -1,17 +1,18 @@
 ---
 id: 12375110
-date: "2006-12-12T11:52:00+00:00"
+date: "2006-12-12T11:52:00Z"
 last_modified_at: null
 tags:
-  - sem-tags
+  - "sem-tags"
 categories:
-  - noticias
+  - "noticias"
 title: "Pimentel diz que houve mal-entendido"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Idealizador do projeto de decoração do ciclo natalino do Recife, o ator José Pimentel, que vai receber da prefeitura R$ 123,5 mil pela idéia,&nbsp;defende-se das cr?ticas. Para ele, houve um mal-entendido. </SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"><EM>“A prefeitura me chamou como iluminador de teatro. Houve atraso na entrega dos refletores, por isso colocaram as fitas antes do tempo. E a? pensaram que isso era decoração, quando a proposta é iluminar???,</EM> explicou Pimentel ao JC.&nbsp;</SPAN><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></P></p>
@@ -31,3 +32,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>O artista é apresentado pela PCR como integrante da Associação Dos Produtores De Artes Cênicas De Pernambuco (APACEPE), contratada pela PCR.</EM></FONT></P></p>
 <p><P><EM><FONT face=Verdana>A dispensa foi assinada no dia 22 de novembro último, pelo diretor-presidente da FCCR, Fernando Duarte da Fonseca.</FONT><FONT face=Verdana>&nbsp;</FONT></EM></P></p>
 <p><P><STRONG>Veja mais </STRONG><A href=\"https://jc3.uol.com.br/blogs/jc/2006/12/06/index.php\" target=_blank><EM><STRONG>aqui</STRONG></EM></A><STRONG> no Blog&nbsp;sobre a polêmica.</STRONG></P></o:p></SPAN> </p>
+{\% endraw %}

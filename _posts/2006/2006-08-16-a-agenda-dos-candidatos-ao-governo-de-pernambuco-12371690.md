@@ -1,20 +1,21 @@
 ---
 id: 12371690
-date: "2006-08-16T06:54:00+00:00"
+date: "2006-08-16T06:54:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao Governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B></p>
 <p><P><FONT face=Verdana><STRONG>Às 19h</STRONG>, participa de um encontro com representantes do setor esportivo (atletas e dirigentes). Local: Comitê central da coligação, na Av. Rosa e Silva, nº 1798, Jaqueira. O candidato a vice, Evandro Avelar (vice), e ao Senado, Jarbas Vasconcelos também participam </FONT></P></p>
@@ -29,3 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>Às 15h</FONT></B><FONT face=Verdana>, participa de caminhada no Largo de ??gua Fria e Arruda, com mini-com?cio ao final </FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 20h30</FONT></B><FONT face=Verdana>,<B> </B>visita a Faculdade Iintegrada do Recife (FIR), na Abdias de Carvalho</FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 20h30</FONT></B><FONT face=Verdana>,<B> </B>encontro com a militância para assistir ao programa eleitoral no comitê, no Torreão</FONT> </P></FONT> </p>
+{\% endraw %}

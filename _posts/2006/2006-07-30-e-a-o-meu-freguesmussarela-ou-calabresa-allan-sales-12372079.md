@@ -1,18 +1,18 @@
 ---
 id: 12372079
-date: "2006-07-30T09:27:00+00:00"
+date: "2006-07-30T09:27:00Z"
 last_modified_at: null
 tags:
-  - colegio-salesiano
+  - "colegio-salesiano"
 categories:
-  - colunistas
-title: "E a? ô meu freguês:/Mussarela ou calabresa? /
- Allan Sales"
+  - "colunistas"
+title: "E a? \u00f4 meu fregu\u00eas:/Mussarela ou calabresa? /\n Allan Sales"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por </FONT><STRONG><FONT face=Verdana>Allan Sales<BR></FONT></STRONG><A href=\"mailto:allancariri@ig.com.br\"><FONT face=Verdana>allancariri@ig.com.br</FONT></A></P></p>
 <p><P><BR><FONT face=Verdana>(1)<BR><BR>Descobriram a mutreta<BR>Mas puseram vaselina<BR>Será esta nossa sina?<BR>Deputados de veneta<BR>Caixa dois e a mala preta<BR>E muita da safadeza<BR>Canalhice e esperteza<BR>Quando será nossa vez<BR>E a? ô meu freguês:<BR>Mussarela ou calabresa?</FONT></P></p>
 <p><P><FONT face=Verdana>(2)<BR><BR>É um jogo conhecido<BR>Chamam corporativismo<BR>E sem noção de civismo<BR>O eleitor iludido<BR>Esse mundo está perdido<BR>E fazem sem sutileza<BR>Eita turminha coesa<BR>Até dancinha se fez<BR>E a? ô meu freguês:<BR>Mussarela ou calabresa?</FONT></P></p>
@@ -24,3 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>(8)<BR><BR>O voto em nossa mão<BR>Cidadão é eleitor<BR>Detona tal estupor<BR>Se escuta voz da razão<BR>Aposenta tal poltrão<BR>O voto sua defesa<BR>Façamos a correnteza<BR>Em busca da honradez<BR>E a? ô meu freguês:<BR>Mussarela ou calabresa?</FONT></P></p>
 <p><P><FONT face=Verdana>(9)<BR><BR>Meu eleitor brasileiro<BR>O fim do voto secreto<BR>No parlamento incorreto<BR>Só é bom para matreiro<BR>Votemos no verdadeiro<BR>Aquele que tem a nobreza<BR>Representa com inteireza<BR>O voto de vosmicês<BR>E a? ô meu freguês:<BR>Mussarela ou calabresa?</FONT></P></p>
 <p><P><FONT face=Verdana>(10)<BR><BR>E assim eu me despeço<BR>Do pessoal meu leitor<BR>Do cordel que tem valor<BR>Por ele me interesso<BR>O folheto que impresso<BR>Pra falar dessa baixeza<BR>Atitude de impureza<BR>De caráter a pequenez<BR>E a? ô meu freguês:<BR>Mussarela ou calabresa?</FONT></P> </p>
+{\% endraw %}

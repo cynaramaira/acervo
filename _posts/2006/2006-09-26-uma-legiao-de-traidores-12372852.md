@@ -1,17 +1,18 @@
 ---
 id: 12372852
-date: "2006-09-26T11:15:00+00:00"
+date: "2006-09-26T11:15:00Z"
 last_modified_at: null
 tags:
-  - sem-tags
+  - "sem-tags"
 categories:
-  - noticias
-title: "Uma legião de traidores"
+  - "noticias"
+title: "Uma legi\u00e3o de traidores"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Eliane Cantanhêde</STRONG><BR>Colunista da Folha de S.Paulo<BR>No JC de hoje</FONT></P></p>
 <p><P><FONT face=Verdana>BRAS??LIA - Se você acha que a campanha esquentou, ainda não viu nada. Alckmin fala em \"roubalheira e corrupção no governo\", Helo?sa Helena chama o PT de \"organização criminosa\", Cristovam Buarque prevê um \"novo calote eleitoral\" em caso de reeleição.</FONT></P></p>
 <p><P><FONT face=Verdana>E Lula, ainda favorito e alvo de todos, se compara a Jesus e a Tiradentes, como já se comparou a JK e a Getúlio. Que nada. No ?ntimo, ele se acha muito melhor do que eles.<BR><BR>Erros? Que erros? Lula insiste que foi tra?do. E quem não é? \"Numa mesa de 12, um traiu Jesus. Na reunião dos inconfidentes, um traiu Tiradentes\", lembrou. A diferença é que um traiu Cristo, outro traiu Tiradentes, mas parece que a sina de Lula, coitado, não é trair, é ser tra?do por todos, o tempo todo.</FONT></P></p>
@@ -19,3 +20,4 @@ imagem: null
 <p><P><FONT face=Verdana>A expectativa ainda é de vitória de Lula no primeiro turno, mas a diferença entre ele e seus adversários está por um fio -8 pontos no Datafolha e 3 no Ibope. Isso mexe com as emoções do eleitorado e com os nervos dos candidatos. Nesta última semana, a oposição vai bater pesado, e Lula interpretará o seu melhor personagem: o de v?tima. Do PT, da imprensa, das elites.</FONT></P></p>
 <p><P><FONT face=Verdana>Mas, vença ele no primeiro turno ou não, os \"traidores\" vão continuar firmes e fortes por a?, com todo mundo querendo saber a fonte e ver as fotos da dinheirama de R$ 1,7 milhão da compra do dossiê.</FONT></P></p>
 <p><P><FONT face=Verdana>A oposição desconfia que haja uma versão para a eleição e outra para depois dela. Sem ninguém saber, afinal, quem traiu quem.</FONT></P> </p>
+{\% endraw %}

@@ -1,19 +1,20 @@
 ---
 id: 12372863
-date: "2006-09-26T20:06:00+00:00"
+date: "2006-09-26T20:06:00Z"
 last_modified_at: null
 tags:
-  - ibope
-  - mesa-diretora
-  - pesquisa
+  - "ibope"
+  - "mesa-diretora"
+  - "pesquisa"
 categories:
-  - noticias
-title: "Ninguém vai me impedir de fazer essa pesquisa, garante diretora do Ibope"
+  - "noticias"
+title: "Ningu\u00e9m vai me impedir de fazer essa pesquisa, garante diretora do Ibope"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>A Diretora Executiva do Ibope Opinião Márcia Cavallari ficou indignada ao ser informada pelo <B>Blog do JC </B>de que a pesquisa Ibope/TV Globo foi impugnada pelo Tribunal Regional Eleitoral, na tarde de hoje. </FONT></P></p>
 <p><P><FONT face=Verdana>Márcia, aliás, não entende por que a União por Pernambuco, coligação do governador-candidato Mendonça Filho (PFL), conseguiu a impugnação de nove pesquisas de intenção de voto (leia nota postada abaixo).</FONT></P></p>
 <p><P><FONT face=Verdana>\"Eles conseguiram isso tudo? Mas a minha eles não vão conseguir. Isso eu garanto\", afirmou Márcia, por telefone, de São Paulo, a Cec?lia Ramos, repórter do <B>Blog</B>. </FONT></P></p>
@@ -38,3 +39,4 @@ imagem: null
 <p><P><FONT face=Verdana>Alegam que a pesquisa não atende aos critérios técnicos desejados, pois o plano técnico de trabalho, se divulgado, poderá resultar em evidente distorção à imagem que o povo e o eleitorado possam creditar a um dos supostos candidatos mencionados na pesquisa, podendo induzir o eleitor a erro essencial, confundindo-o e, conseqüentemente, alterando os resultados, razão pela qual pede para que não haja veiculação de seus resultados. (...) Afirma se insurgir contra a divulgação do questionário, pela possibilidade de conter resultado distorcido em desfavor de um pré-candidato, da? seu inequ?voco interesse e legitimidade.</FONT></P></p>
 <p><P><B><FONT face=Verdana><BR>O que diz Márcia Cavallari:</FONT></P></B></p>
 <p><P><FONT face=Verdana>Não existe isso. Seguimos um modelo aplicado em todo o Brasil. O pa?s inteiro tem pergunta \"espontânea\" e \"estimulada\" (nessa ordem). O procedimento é o seguinte. Começamos com uma pergunta para \"quebrar o gelo\", sobre satisfação do entrevistado com a vida. Em seguida, começa a pesquisa espontânea questionando: \"Em quem você votaria para (X) se a eleição fosse hoje? A ordem é (X): Governador-Senador-Presidente. Depois vem a estimulada. Nesta, apresentamos as opções de resposta um disco redondo, justamente para tirar o efeito de ordem dos candidatos e não privilegiar nenhum deles. É o formato \"pizza\", no qual cada fatia consta o nome de um candidato. O entrevistador pergunta, apresentando o disco: \"Se os candidatos fossem estes, em quem você votaria?\" Quanto ao nome dos candidatos que estamos usando nos questionários, é o mesmo que eles registraram na Justiça Eleitoral para aparecer na urna eletrônica.</FONT></P> </p>
+{\% endraw %}

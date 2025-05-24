@@ -1,17 +1,18 @@
 ---
 id: 12371908
-date: "2006-08-05T08:57:00+00:00"
+date: "2006-08-05T08:57:00Z"
 last_modified_at: null
 tags:
-  - humberto-costa
+  - "humberto-costa"
 categories:
-  - noticias
-title: "Comando da Fetape reforça Humberto"
+  - "noticias"
+title: "Comando da Fetape refor\u00e7a Humberto"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P></p>
 <p><P><FONT face=Verdana></FONT></P><FONT face=Verdana>Com mais de 1,5 milhão de agricultores sindicalizados, a Federação dos Trabalhadores da Agricultura de Pernambuco (Fetape) simpatiza com dois candidatos a governador: Humberto Costa (PT) e Eduardo Campos (PSB). </FONT></p>
 <p><P></P></p>
@@ -19,3 +20,4 @@ imagem: null
 <p><P><FONT face=Verdana>Ele conseguiu aparar as arestas internas e formar uma chapa única, impondo as cores de seu partido: o PT. Na composição da nova diretoria, o PSB – antes muito forte na Fetape por conta da ligação da entidade com o ex-governador Miguel Arraes – perdeu espaço. </FONT></P></p>
 <p><P><FONT face=Verdana>Dos nove membros, só fica com um: o ex-presidente José Rodrigues, que está isolado. Antes, os socialistas tinham três diretorias. Para manter as aparências, Aristides convidou Humberto e Eduardo para participarem, ontem à noite, da abertura do evento.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia o </FONT><A href=\"https://jc3.uol.com.br/jornal/\" target=_blank><B><I><U><FONT color=#0000ff><FONT face=Verdana>texto</FONT></B></I></U></FONT></A><FONT face=Verdana> completo em Pol?tica, no JC (assinantes JC e UOL).</FONT></P> </p>
+{\% endraw %}

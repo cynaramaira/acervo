@@ -1,19 +1,20 @@
 ---
 id: 12373971
-date: "2006-10-29T18:41:00+00:00"
+date: "2006-10-29T18:41:00Z"
 last_modified_at: null
 tags:
-  - android
-  - eduardo
-  - naomi-campbell
+  - "android"
+  - "eduardo"
+  - "naomi-campbell"
 categories:
-  - noticias
-title: "Eduardo festeja cantando Madeira que cupim não rói"
+  - "noticias"
+title: "Eduardo festeja cantando Madeira que cupim n\u00e3o r\u00f3i"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><DIV class=txt id=mudaFonte></p>
 <p><DIV><FONT face=Verdana></p>
 <p><DIV><FONT face=Verdana>Eduardo Campos (PSB) não conseguiu cumprir a agenda prevista. </FONT></DIV></p>
@@ -31,3 +32,4 @@ imagem: null
 <p><DIV><FONT face=Verdana>Vai falar sobre o resultado da eleição&nbsp;e fazer um balanço da sua campanha.</FONT></DIV></p>
 <p><DIV><FONT face=Verdana></FONT>&nbsp;</DIV></p>
 <p><DIV><FONT face=Verdana>O editor do <STRONG>Blog</STRONG>, César Rocha, está no local. </FONT></DIV></DIV></DIV> </p>
+{\% endraw %}

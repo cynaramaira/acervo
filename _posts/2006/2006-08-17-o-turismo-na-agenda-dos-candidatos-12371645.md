@@ -1,19 +1,20 @@
 ---
 id: 12371645
-date: "2006-08-17T12:58:00+00:00"
+date: "2006-08-17T12:58:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - reagendamentos
-  - turismo
+  - "candidatos"
+  - "reagendamentos"
+  - "turismo"
 categories:
-  - noticias
+  - "noticias"
 title: "O turismo na agenda dos candidatos"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O <STRONG>Blog</STRONG> passa a contar a partir de hoje com artigos semanais, sempre às quintas-feiras, do administrador de empresas, mestre em economia e doutor em finanças <STRONG>Pierre Lucena</STRONG>, 35.</FONT></P></p>
 <p><P><FONT face=Verdana>Consultor e professor da Universidade Federal de Pernambuco, onde coordena o </FONT><FONT face=Verdana>Núcleo</p>
 <p> de Finanças e Investimentos do Departamento de Ciências Administrativas, </FONT><FONT face=Verdana>Pierre já foi secretário-adjunto de Educação do Estado.</FONT></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P align=justify><FONT face=Verdana>A recente criação da Secretaria de Turismo do Estado dá mostras de que este será um assunto tratado seriamente durante esta campanha. Não sem razão, pois o turismo é um setor econômico fortemente baseado na geração de empregos, sendo vis?veis os problemas estruturais apresentados por Pernambuco. Percebe-se claramente que o setor anda mal.</FONT></P></p>
 <p><P><FONT face=Verdana>Vários são os fatores que levam a esta conclusão. O primeiro deles é que o turismo não está estruturado de maneira economicamente adequada, em vários n?veis. Falo isso sem cr?ticas à atual administração estadual, pois, além de ter feito parte dela, considero que este é um assunto que não foi tratado corretamente em vários mandatos. A priorização desta área é essencial para a geração de empregos, sobretudo em algumas regiões do interior, onde hoje o turismo não é prioridade, apesar do potencial, como a Região do Vale do São Francisco e o Agreste Pernambucano.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/17/not_803.php\">aqui</A></EM></STRONG> o texto completo ou na seção artigos, na coluna ao lado.</FONT><B><FONT face=\"Times New Roman\"></P></B></FONT> </p>
+{\% endraw %}

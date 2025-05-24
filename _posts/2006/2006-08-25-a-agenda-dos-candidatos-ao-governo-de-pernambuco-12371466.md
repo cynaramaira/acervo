@@ -1,20 +1,21 @@
 ---
 id: 12371466
-date: "2006-08-25T06:02:00+00:00"
+date: "2006-08-25T06:02:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao Governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B></p>
 <p><P><FONT face=Verdana><STRONG>7h</STRONG>, concede entrevista à TV Jornal. Local: estúdios da TV, na rua do Lima, Santo Amaro </FONT></P></p>
@@ -31,3 +32,4 @@ imagem: null
 <p><P><FONT face=Verdana>12h30</FONT></B><FONT face=Verdana>, em Inajá, carreata e com?cio relâmpago, seguido de almoço com o prefeito Airon Timótio </FONT></P><B></p>
 <p><P><FONT face=Verdana>15h</FONT></B><FONT face=Verdana>, em Manari, caminhada nas ruas centrais e visita a lideranças locais </FONT></P><B></p>
 <p><P><FONT face=Verdana>16h</FONT></B><FONT face=Verdana>, Ibimirim, carreata e com?cio</FONT></P><B></B></FONT> </p>
+{\% endraw %}

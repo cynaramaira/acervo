@@ -1,18 +1,19 @@
 ---
 id: 12371721
-date: "2006-08-15T10:59:00+00:00"
+date: "2006-08-15T10:59:00Z"
 last_modified_at: null
 tags:
-  - joao-cavalcanti
-  - luiz-fuz
+  - "joao-cavalcanti"
+  - "luiz-fuz"
 categories:
-  - noticias
-title: "Luiz Otavio Cavalcanti analisa Getúlio Vargas"
+  - "noticias"
+title: "Luiz Otavio Cavalcanti analisa Get\u00falio Vargas"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O</p>
 <p> <STRONG>Blog</STRONG> passa a contar, a partir de hoje, com artigos semanais de </FONT><FONT face=Verdana><STRONG>Luiz Otavio Cavalcanti</STRONG>, 60, advogado, executivo e ex-secretário do Planejamento (1975/79 e 1991/92) e da Fazenda (1983/86 e 1992/93) de Pernambuco. </FONT></P></p>
 <p><P><FONT face=Verdana>Recifense, <STRONG>Cavalcanti</STRONG> dirige hoje a entidade mantenedora da Faculdade Santa Maria. É autor, entre outros livros, de <EM>Como a corrupção abalou o governo Lula</EM> (Ed. Ediouro, 2005), <EM>Administradores, quem somos nós?</EM> (Ed. Bagaço, 2005) e <EM>Ensaiando Pernambuco</EM> (Ed. Bagaço, 2005). </FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>Vargas foi ditador de 1930 a 1945. Presidente da República eleito em 1952. Suicidando-se em Agosto de 1954. Dezessete anos de poder. Foi um oligarca que afrontou oligarquias. Entre 1937 e 1945, per?odo ditatorial do Estado Novo, patrocinou pol?tica de modernização autoritária e paternalista. Ampliou a legislação trabalhista e previdenciária. Obrigou profissionais a se sindicalizarem. Inaugurou a era dos pelegos.</FONT></P></p>
 <p><P><FONT face=Verdana>--------------------------</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/artigos.php\">aqui</A></EM></STRONG> o artigo completo ou na seção artigos, na coluna ao lado.</FONT></P> </p>
+{\% endraw %}

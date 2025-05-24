@@ -1,21 +1,22 @@
 ---
 id: 12375017
-date: "2006-12-09T10:01:00+00:00"
+date: "2006-12-09T10:01:00Z"
 last_modified_at: null
 tags:
-  - cobra
-  - eduardo
-  - pagamento
-  - precatorios
-  - teste
+  - "cobra"
+  - "eduardo"
+  - "pagamento"
+  - "precatorios"
+  - "teste"
 categories:
-  - noticias
-title: "Equipe de Eduardo cobra o pagamento dos precatórios ainda este ano"
+  - "noticias"
+title: "Equipe de Eduardo cobra o pagamento dos precat\u00f3rios ainda este ano"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O arsenal de cr?ticas da equipe do governador eleito Eduardo Campos (PSB) em relação à situação das contas públicas de Pernambuco não se esgota nos grande números divulgados na última quinta-feira, no Recife Praia Hotel.</FONT></P></p>
 <p><P><FONT face=Verdana>O vice-governador eleito e coordenador da equipe de transição socialista,&nbsp;João Lyra Neto (PDT), reclama, por exemplo, da falta de informações sobre o volume de restos a pagar (empenhos com fornecedores que serão deixados para a próxima gestão). </FONT></P></p>
 <p><P><FONT face=Verdana>\"No caso dos restos a pagar, não recebemos nem a programação\", explicou. Oficialmente, a transição foi conclu?da na quarta-feira à noite.</FONT></P></p>
@@ -34,3 +35,4 @@ imagem: null
 <p><P><FONT face=Verdana>A secretária da Fazenda, Maria José Briano, procurada pela reportagem do <STRONG>JC</STRONG>, garantiu, por meio de sua assessoria, que os débitos dos precatórios serão pagos até o final da gestão José Mendonça Filho. </FONT></P></p>
 <p><P><FONT face=Verdana>“Os recursos estão no planejamento financeiro do Estado para o pagamento até o final do ano. Eles serão pagos até o final do ano. Sobre os recursos do próximo exerc?cio, eles já estão programados no orçamento de 2007???, informou a assessoria da Sefaz.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <A href=\"https://jc3.uol.com.br/jornal/2006/11/25/not_210010.php\" target=_blank><STRONG><EM>aqui</EM></STRONG></A>.</FONT></P> </p>
+{\% endraw %}

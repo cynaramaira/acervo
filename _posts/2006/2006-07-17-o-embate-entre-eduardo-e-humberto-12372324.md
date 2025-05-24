@@ -1,19 +1,20 @@
 ---
 id: 12372324
-date: "2006-07-17T08:07:00+00:00"
+date: "2006-07-17T08:07:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - entrega
-  - humberto-costa
+  - "eduardo"
+  - "entrega"
+  - "humberto-costa"
 categories:
-  - noticias
+  - "noticias"
 title: "O embate entre Eduardo e Humberto"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P>O presidente Lula poderá ser o principal fator de desempate entre Eduardo Campos e Humberto Costa. Eles dividem o segundo lugar nas pesquisas de intenção de voto JC/Vox Populi. Eduardo tem 21%. Humberto 22%. </P></p>
 <p><P>Mudaram pouco de lugar em relação ao levantamento anterior, publicado em 7 de maio. Na época, Eduardo tinha 23%, Humberto, 21%. </P></p>
@@ -40,3 +41,4 @@ imagem: null
 <p><P>Eduardo aposta na baixa rejeição que&nbsp;apresenta nas pesquisas JC/Vox Populi. Ele tem o menor ?ndice, de 4%, contra 10% de Mendonça e 11% de Humberto. Espera poder usar Lula na TV, como já vem fazendo no material gráfico que mandou imprimir.</P></p>
 <p><P>O socialista espera um retorno elevado da estrutura que sua equipe diz ter&nbsp;no interior. O PSB contabiliza o apoio de 58 prefeitos, 75 vices, 130 ex-prefeitos e 800 vereadores. </P></p>
 <p><P>Outros indicadors importantes&nbsp;são os de desempenho&nbsp;num segundo turno. Eduardo vence Humberto e perde melhor&nbsp;contra Mendonça.</P></FONT> </p>
+{\% endraw %}

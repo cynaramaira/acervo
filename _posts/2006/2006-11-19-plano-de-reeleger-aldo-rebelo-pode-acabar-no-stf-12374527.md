@@ -1,18 +1,19 @@
 ---
 id: 12374527
-date: "2006-11-19T15:47:00+00:00"
+date: "2006-11-19T15:47:00Z"
 last_modified_at: null
 tags:
-  - aldo-rebelo
-  - plano
+  - "aldo-rebelo"
+  - "plano"
 categories:
-  - noticias
+  - "noticias"
 title: "Plano de reeleger Aldo Rebelo pode acabar no STF"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-line-height-alt: 17.0pt\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\"><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN><FONT face=Verdana>Do blog de <STRONG>Josias de Souza</STRONG></FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-line-height-alt: 17.0pt\">&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-line-height-alt: 17.0pt\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\"><o:p>Pode parar no Judiciário o plano de Lula de reeleger Aldo Rebelo (PCdoB-SP) para a presidência da Câmara. Um parlamentar do PMDB, partido que reivindica a cadeira de Aldo, informou ao blog que analisa a hipótese de ajuizar no STF um mandado de segurança para impedir a recondução do atual presidente da Câmara.</o:p></SPAN></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-line-height-alt: 17.0pt\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\"><FONT size=3><o:p><FONT size=2></FONT></o:p></FONT></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-line-height-alt: 17.0pt\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\"><FONT size=3><o:p><FONT size=2>Uma dessas ações foi protocolada justamente pelo PC do B de Aldo Rebelo. O partido argumenta que a exigência de um patamar m?nimo de votos é inconstitucional. As ações do PC do B e as demais foram juntadas num único processo. O relator é o ministro Marco Aurélio.</FONT></o:p></FONT></SPAN></P></p>
 <p><P><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\"><FONT size=3><o:p><FONT size=2>Leia mais <A href=\"https://josiasdesouza.folha.blog.uol.com.br/\" target=_blank><STRONG><EM>aqui</EM></STRONG></A>.</FONT></o:p></FONT></SPAN><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\"></P></SPAN> </p>
+{\% endraw %}

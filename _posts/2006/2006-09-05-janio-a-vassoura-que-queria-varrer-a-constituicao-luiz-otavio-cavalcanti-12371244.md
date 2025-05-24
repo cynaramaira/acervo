@@ -1,20 +1,21 @@
 ---
 id: 12371244
-date: "2006-09-05T07:54:00+00:00"
+date: "2006-09-05T07:54:00Z"
 last_modified_at: null
 tags:
-  - constituicao
-  - janeiro
-  - joao-cavalcanti
-  - luiz-fuz
+  - "constituicao"
+  - "janeiro"
+  - "joao-cavalcanti"
+  - "luiz-fuz"
 categories:
-  - colunistas
-title: "Jânio, a Vassoura que queria varrer a Constituição (Luiz Otávio Cavalcanti)"
+  - "colunistas"
+title: "J\u00e2nio, a Vassoura que queria varrer a Constitui\u00e7\u00e3o (Luiz Ot\u00e1vio Cavalcanti)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=5></p>
 <p><P></FONT><FONT face=Verdana size=2>Por <STRONG>Luiz Otávio Cavalcanti</STRONG><BR></FONT><FONT face=Verdana>Ex-secretário do Planejamento e da Fazenda de Pernambuco<BR></FONT><A href=\"mailto:lotavio@fsm.com.br\"><U><FONT color=#0000ff><FONT face=Verdana>lotavio@fsm.com.br</FONT></U></FONT></A></P></p>
 <p><P><BR><FONT face=Verdana>Os presidentes da República brasileiros têm sido conciliadores, pragmáticos e ambivalentes. Brasileiramente ambivalente, como Vargas; pragmático, como Juscelino; republicano e amb?guo, como Fernando Henrique; conciliador, como Lula.</FONT></P></p>
@@ -37,3 +38,4 @@ imagem: null
 <p><P><FONT face=Verdana>Recusar o compartilhamento democrático do poder mostrou um solitário pol?tico, um ser não-relacional no perfil Freyriano de homem brasileiro. Inclusive na linguagem que ele usava, com termos rebuscados, acentuando sotaque intercalado de mesóclises. Dispensando traços culturais de governante brasileiro, Jânio tornou-se estranho e perdedor. A derrota de Jânio, é, de certa forma, a viabilidade da cultura pol?tica brasileira.</FONT></P></p>
 <p><P><STRONG><FONT face=Verdana>Próxima semana, Collor, o meteoro opaco.</FONT></STRONG></P></p>
 <p><P><BR><EM><FONT face=Verdana><STRONG>*Luiz Otavio Cavalcanti</STRONG>, 60, advogado, executivo e ex-secretário do Planejamento (1975/79 e 1991/92) e da Fazenda (1983/86 e 1992/93) de Pernambuco. Recifense, Cavalcanti dirige hoje a entidade mantenedora da Faculdade Santa Maria. É autor, entre outros livros, de Como a corrupção abalou o governo Lula (Ed. Ediouro, 2005), Administradores, quem somos nós? (Ed. Bagaço, 2005) e Ensaiando Pernambuco (Ed. Bagaço, 2005).</FONT></EM></P> </p>
+{\% endraw %}

@@ -1,18 +1,19 @@
 ---
 id: 12374138
-date: "2006-11-03T09:26:00+00:00"
+date: "2006-11-03T09:26:00Z"
 last_modified_at: null
 tags:
-  - jarbas-vasconcelos
-  - mendonca
+  - "jarbas-vasconcelos"
+  - "mendonca"
 categories:
-  - noticias
-title: "“Excesso de Jarbas na TV encobriu Mendonça"
+  - "noticias"
+title: "\u201cExcesso de Jarbas na TV encobriu Mendon\u00e7a"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><SPAN style=\"FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\">Por <STRONG>Ana Lúcia Andrade<BR></STRONG>Do Jornal do Commercio <BR><BR>O publicitário José Roberto Berni – afastado da campanha de Mendonça Filho (PFL) por ter se desentendido com Antônio Lavareda – comentou ao JC o resultado da disputa. <?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
 <p><P><SPAN style=\"FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\">Ele revela que “já se sabia??? que o enfrentamento com Eduardo Campos (PSB) seria mais duro e assegura que Mendonça tinha como conquistar votos de Humberto Costa (PT), se não tivesse feito uma campanha “arrasa-quarteirão??? contra o petista. <o:p></o:p></SPAN></P></p>
 <p><P><SPAN style=\"FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\">Apesar da derrota impactante, Berni acredita que Mendonça sai desta eleição “maior do que entrou???, e que tem futuro porque é um pol?tico “vocacionado??? para o que faz. “Ele poderia ter se sa?do melhor, se a campanha tivesse sido bem feita. Na verdade, ele errou na estratégia???, diz Berni.<o:p></o:p></SPAN></P></p>
@@ -29,3 +30,4 @@ imagem: null
 <p><P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/11/03/can_9.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P></p>
 <p><P></P> </p>
+{\% endraw %}

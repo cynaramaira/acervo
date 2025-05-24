@@ -1,19 +1,20 @@
 ---
 id: 12373347
-date: "2006-10-10T17:03:00+00:00"
+date: "2006-10-10T17:03:00Z"
 last_modified_at: null
 tags:
-  - humberto-costa
-  - joao-d
-  - paulo
+  - "humberto-costa"
+  - "joao-d"
+  - "paulo"
 categories:
-  - noticias
-title: "Debitar a derrota de Humberto nas minhas costas é injusto, desabafa João Paulo"
+  - "noticias"
+title: "Debitar a derrota de Humberto nas minhas costas \u00e9 injusto, desabafa Jo\u00e3o Paulo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O prefeito do Recife está concedendo entrevista à imprensa neste momento. Cec?lia Ramos, repórter do <STRONG>Blog</STRONG>, está lá.</FONT></P></p>
 <p><P><FONT face=Verdana>Conforme o <B>Blog</B> antecipou, ele recusou o apelo de Humberto Costa (PT) para que pedisse licença do cargo e mergulhasse na campanha de Eduardo Campos (PSB) contra Mendonça Filho (PFL). (Leia sobre isso mais abaixo).</FONT></P></p>
 <p><P><FONT face=Verdana>Na verdade, como admitiu há pouco, não gostou nem um pouco do pedido de Humberto.</FONT></P></p>
@@ -32,3 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>Com relação à vitória de Mendonça no Recife, João Paulo disse que a oposição (a Mendonça) teve uma grande votação com a soma do que receberam Eduardo e Humberto (54,88% dos votos válidos, contra 41,76% do governador).</FONT></P></p>
 <p><P><FONT face=Verdana>\"Agora, não tivemos capacidade de catalizar isso (a votação maior para Humberto)\", admitiu.</FONT></P></p>
 <p><P><FONT face=Verdana>Defintivamente, o PT ainda vai lavar muita roupa suja.</FONT></P> </p>
+{\% endraw %}

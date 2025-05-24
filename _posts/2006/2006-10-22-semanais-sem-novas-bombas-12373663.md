@@ -1,17 +1,18 @@
 ---
 id: 12373663
-date: "2006-10-22T10:18:00+00:00"
+date: "2006-10-22T10:18:00Z"
 last_modified_at: null
 tags:
-  - sem-tags
+  - "sem-tags"
 categories:
-  - noticias
+  - "noticias"
 title: "Semanais sem novas bombas"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-FAMILY: Verdana\">Revistas semanais não trazem fatos novos bombásticos que possam alterar significativamente o quadro eleitoral ou sejam capazes de produzir efeitos mais fortes no mercado financeiro.<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-FAMILY: Verdana\"><o:p>&nbsp;</o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-FAMILY: Verdana\"><BR><B style=\"mso-bidi-font-weight: normal\">Veja</B> <o:p></o:p></SPAN></P></p>
@@ -31,3 +32,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-FAMILY: Verdana\">Época, cuja chamada é a beleza brasileira, deixa a cobertura da campanha eleitoral para o interior desta edição. Em sua principal reportagem sobre a disputa, tenta diagnosticar por que o candidato do PSDB, Geraldo Alckmin, derrapa no fim da corrida presidencial.<BR><BR>A IstoÉ, em sua publicação comemorativa de 30 anos, aponta a maturidade do Pa?s e ressalta que qualquer que seja o escolhido no pleito terá de colocar o Brasil na rota do crescimento e realizar reformas importantes. Além disso, apresenta uma comparação entre as propostas econômicas dos dois candidatos, Lula e Alckmin.</SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-FAMILY: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-FAMILY: Verdana\">Informações da Agência Estado. </SPAN></P> </p>
+{\% endraw %}

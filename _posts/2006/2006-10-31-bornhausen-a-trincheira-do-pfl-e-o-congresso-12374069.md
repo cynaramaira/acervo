@@ -1,17 +1,18 @@
 ---
 id: 12374069
-date: "2006-10-31T18:11:00+00:00"
+date: "2006-10-31T18:11:00Z"
 last_modified_at: null
 tags:
-  - congresso
+  - "congresso"
 categories:
-  - noticias
-title: "Bornhausen: A trincheira do PFL é o Congresso"
+  - "noticias"
+title: "Bornhausen: A trincheira do PFL \u00e9 o Congresso"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>O PFL divulgou nota hoje informando que continuará \"a desempenhar seu papel na oposição, fiscalizando e denunciando com rigor e determinação os equ?vocos e erros do governo\". O comunicado foi elaborado após reunião da Executiva Nacional do partido para definir a estratégia pós-eleição. </FONT></P></p>
 <p><P><FONT face=Verdana>Em entrevista coletiva depois do encontro, o presidente nacional do partido, senador Jorge Bornhausen (SC), afirmou que \"o PFL não atravessará a rua\" (entre o Congresso e o Palácio do Planalto) para dialogar com o presidente Lula. Segundo ele, a \"trincheira\" do PFL é o Congresso, onde o partido fará oposição como as urnas determinaram.</FONT></P></p>
@@ -20,3 +21,4 @@ imagem: null
 <p><P><FONT face=Verdana>A versão original da nota divulgada pelo PFL continha vários ataques ao governo e o qualificava de \"incompetente e corrupto\", mas, durante a reunião, o senador Marco Maciel (PE) ponderou sobre a inconveniência de se começar a oposição num tom tão agressivo que não haveria como aumentá-lo nos próximos quatro anos.</FONT></P></p>
 <p><P><FONT face=Verdana>Assim, o texto final da nota acabou sendo suavizado e, no primeiro parágrafo, em vez de fazer cr?ticas, o PFL reafirma que \"acata e respeita a decisão do povo brasileiro, que elegeu, por meio do voto, quem exercerá o poder em seu nome\".</FONT></P></p>
 <p><P><FONT face=Verdana>As informações são do portal G1.</FONT></P></FONT> </p>
+{\% endraw %}

@@ -1,20 +1,21 @@
 ---
 id: 12374166
-date: "2006-11-05T11:28:00+00:00"
+date: "2006-11-05T11:28:00Z"
 last_modified_at: null
 tags:
-  - comportamento
-  - eduardo
-  - lula
-  - ministerio
+  - "comportamento"
+  - "eduardo"
+  - "lula"
+  - "ministerio"
 categories:
-  - noticias
-title: "Aliados de Eduardo sonham com convite de Lula para compor ministério"
+  - "noticias"
+title: "Aliados de Eduardo sonham com convite de Lula para compor minist\u00e9rio"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Inaldo Sampaio</STRONG><BR>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>O governador eleito Eduardo Campos disse em entrevista ao JC que não pretende pressionar o presidente Lula para reservar uma das vagas no seu futuro ministério para o PSB de Pernambuco, embora considere que o partido está legitimado para continuar fazendo parte do primeiro escalão governamental.</FONT></P></p>
 <p><P><FONT face=Verdana>Apesar dessa posição cautelosa do governador eleito sobre a participação de Pernambuco no primeiro escalão do governo federal, sabe-se que há pelo menos seis pol?ticos na Frente Popular sonhando com um convite do presidente da República: Inocêncio Oliveira (PL), Armando Monteiro Neto (PTB), José Múcio (PTB), Carlos Wilson (PT), Maur?cio Rands (PT) e o prefeito de Petrolina Fernando Bezerra Coelho (PSB). </FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>MAUR??CIO RANDS<BR></STRONG></FONT><FONT face=Verdana>É</p>
 <p> o outro petista de Pernambuco com perfil de \"ministeriável\". Fez um bom mandato na Câmara Federal com integrante da \"tropa de choque\" do atual presidente, tendo chegado por seus próprios méritos à presidência da influente e estratégica Comissão de Constituição e Justiça Federal.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/11/05/can_9.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P> </p>
+{\% endraw %}

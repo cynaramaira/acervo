@@ -1,18 +1,19 @@
 ---
 id: 12371398
-date: "2006-08-28T16:02:00+00:00"
+date: "2006-08-28T16:02:00Z"
 last_modified_at: null
 tags:
-  - humberto-costa
-  - quilombolas
+  - "humberto-costa"
+  - "quilombolas"
 categories:
-  - noticias
+  - "noticias"
 title: "Humberto Costa: a bola da vez"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Acabei de publicar, ao lado, mais um artigo semanal do cientista pol?tico Túlio Velho Barreto, que escreve aqui às segundas e quintas e é colaborador freqüente do <B>Blog</B>.</FONT></P></p>
 <p><P><FONT face=Verdana>--------------------------------------</FONT></P></p>
 <p><P><FONT face=Verdana>Por <B>Túlio Velho Barreto<BR></B></FONT><FONT face=Verdana>Cientista pol?tico e pesquisador da Fundaj<BR></FONT><FONT face=Verdana><A href=\"mailto:tulio@fundaj.gov.br\">tulio@fundaj.gov.br</A></FONT></P><FONT face=\"Courier New\"></p>
@@ -21,3 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana></FONT></P></p>
 <p><P><FONT face=Verdana>Esta breve introdução serve para que se analise aqui o delicado momento vivido pelo candidato petista Humberto Costa (da coligação Melhor para Pernambuco) ao Governo Estadual. E dizer porque, assim me parece, o candidato se encontra, pelo menos no momento, entregue à sua própria sorte ou, mais precisamente, daqui para frente, ao seu esforço próprio na disputa estadual. Para tanto, vou relembrar seu caminho, suas opções e escolhas até este momento, que é, sem dúvida, o mais dif?cil de sua candidatura, em função do anúncio de seu indiciamento pela Pol?cia Federal por suposto envolvimento com o que se convencionou chamar de \"escândalo dos vampiros\".</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><U><A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/28/not_1057.php\">aqui</A></U></EM></STRONG> o artigo completo.</FONT></P></FONT> </p>
+{\% endraw %}

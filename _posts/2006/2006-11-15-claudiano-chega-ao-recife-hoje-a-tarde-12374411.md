@@ -1,18 +1,19 @@
 ---
 id: 12374411
-date: "2006-11-15T07:14:00+00:00"
+date: "2006-11-15T07:14:00Z"
 last_modified_at: null
 tags:
-  - chegada
-  - recife
+  - "chegada"
+  - "recife"
 categories:
-  - noticias
-title: "Claudiano chega ao Recife hoje à tarde"
+  - "noticias"
+title: "Claudiano chega ao Recife hoje \u00e0 tarde"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><TT><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Do <STRONG>Jornal do Commercio</STRONG></SPAN></TT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><TT><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"></SPAN></TT>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><TT><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Preso em uma fazenda no munic?pio de Caxias, no Maranhão, o deputado e ex-prefeito de Ita?ba, Claudiano Martins (PMDB) foi levado à superintendência da Pol?cia Federal em Teresina, no Piau?, e deve chegar ao final da tarde de hoje ao Recife. <?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></TT></P></p>
@@ -21,3 +22,4 @@ imagem: null
 <p><P><TT><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Segundo informou a assessoria do TRF-5ª Região, o deputado é “acusado de ser o cabeça do bando, responsável pelo planejamento e a condução de todas as etapas da ação criminosa???. </SPAN></TT><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: \Courier New\\\"><BR><BR><B style=\"mso-bidi-font-weight: normal\"><TT><SPAN style=\"FONT-FAMILY: Verdana\">Irmãos Martins já têm passagem pela pol?cia</SPAN></TT></B><TT><SPAN style=\"FONT-FAMILY: Verdana\"> </SPAN></TT><BR><BR><TT><SPAN style=\"FONT-FAMILY: Verdana\">Claudiano Martins chegou a ser detido por porte ilegal de armas e adulteração de identificação de ve?culo, em maio de 2000, pela CPI da Pistolagem, Narcotráfico e Roubo de Cargas. <o:p></o:p></SPAN></TT></SPAN></P></p>
 <p><P><TT><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">A prisão ocorreu quando o peemedebista – então prefeito de Ita?ba – se preparava para depor como suspeito de cometer alguns dos crimes investigados, entre eles o de ser o mandante do assassinato de integrantes da fam?lia Pereira, que lhe fazia oposição na cidade. </SPAN></TT><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: \Courier New\\\"><BR><BR><TT><SPAN style=\"FONT-FAMILY: Verdana\">Na época, o presidente da comissão, o deputado estadual Pedro Eurico (PSDB), foi quem deu voz de prisão ao peemedebista. <o:p></o:p></SPAN></TT></SPAN></P><TT><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA\">Hoje, Eurico preside o PSDB em Pernambuco e pode se tornar correligionário de Claudiano, que já articulou seu ingresso no partido cujo maior cacique tucano no Estado é o senador Sérgio Guerra. Ontem, Pedro Eurico até saiu em defesa do seu antigo desafeto, em pronunciamento na Assembléia. </SPAN></TT><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-fareast-font-family: \Times New Roman\;</p>
 <p> mso-bidi-font-family: \Courier New\; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA\"><BR><BR><TT><SPAN style=\"FONT-FAMILY: Verdana\">Claudiano e seu irmão, o prefeito de ??guas Belas (Agreste) Nomeriano Martins (PSDB), também foram indiciados por titulares da Delegacia Especial de Homic?dios de São Paulo, no inquérito que apurou o assassinato de Mariano Pereira, ex-candidato a prefeito de Ita?ba, ocorrido em fevereiro de 1996, na capital paulista. A investigação apontou Claudiano como o mandante e Nomeriano como um dos autores da execução. </SPAN></TT><BR><BR><TT><SPAN style=\"FONT-FAMILY: Verdana\">Já em 2003, um relatório do Tribunal de Contas do Estado (TCE), resultado de uma auditoria especial, identificou irregularidades na gestão de Claudiano como prefeito, entre as quais o pagamento de quantias vultosas em espécie a fornecedores e a constatação de notas fiscais falsas. O documento foi enviado ao Ministério Público de Pernambuco, que moveu um processo contra Claudiano.</SPAN></TT></SPAN> </p>
+{\% endraw %}

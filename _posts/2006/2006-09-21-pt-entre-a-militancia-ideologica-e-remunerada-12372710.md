@@ -1,17 +1,18 @@
 ---
 id: 12372710
-date: "2006-09-21T15:48:00+00:00"
+date: "2006-09-21T15:48:00Z"
 last_modified_at: null
 tags:
-  - entrega
+  - "entrega"
 categories:
-  - noticias
-title: "PT: entre a militância ideológica e remunerada"
+  - "noticias"
+title: "PT: entre a milit\u00e2ncia ideol\u00f3gica e remunerada"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Acabei de publicar na seção Artigos, na coluna ao lado, um novo artigo do cientista pol?tico Túlio Velho Barreto, colaborador freqüente do Blog. Abaixo, alguns trechos do texto.</FONT></P></p>
 <p><P><FONT face=Verdana>Boa Leitura.</FONT></P></p>
 <p><P><FONT face=Verdana>---------------------------------------------------</FONT></P><B></p>
@@ -23,3 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>(4) conforme tem demonstrado as poucas pesquisas realizadas a respeito das disputas proporcionais, até o momento o eleitorado pernambucano não parece estar dando a devida importância à escolha de seus representantes na Assembléia Legislativa e na Câmara Federal, o que poderá resultar, neste caso, em número recorde de votos nulos e brancos, e talvez algumas surpresas. </FONT></P></p>
 <p><P><FONT face=Verdana>(5) e, definitivamente, a militância ideológica, marca dos partidos considerados de centro-esquerda ou esquerda, como PT, PCdoB e PSB, por exemplo, foi substitu?da abertamente pela militância remunerada, t?pica dos partidos considerados de centro-direita ou direita, como PMDB, PSDB e PFL, para citar apenas os três mais representativos destes segmentos.</FONT></P></p>
 <p><P><FONT face=Verdana>A última dessas tendências – que, talvez, já conforme mesmo uma realidade – deveria ser tema de uma tese de pós-graduação. De toda forma, aqui, vou fazer alguns breves comentários a respeito, ainda que não possa aprofundá-los.<BR><BR>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/09/21/not_1629.php\">aqui</A></EM></STRONG> o texto completo.</FONT></P> </p>
+{\% endraw %}

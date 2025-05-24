@@ -1,19 +1,20 @@
 ---
 id: 12371609
-date: "2006-08-18T15:47:00+00:00"
+date: "2006-08-18T15:47:00Z"
 last_modified_at: null
 tags:
-  - andre-rio
-  - blogs-jc
-  - paula-braun
+  - "andre-rio"
+  - "blogs-jc"
+  - "paula-braun"
 categories:
-  - noticias
-title: "André de Paula diz que o Blog é contraditório"
+  - "noticias"
+title: "Andr\u00e9 de Paula diz que o Blog \u00e9 contradit\u00f3rio"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O <STRONG>Blog</STRONG> recebeu há pouco esta nota do deputado André de Paula, à respeito de outra nota publicada por nós, abaixo:</FONT></P></p>
 <p><P><FONT face=\"Times New Roman\"><FONT face=Verdana>Por <STRONG>André de Paula</STRONG><BR>Deputado federal e presidente do PFL em Pernambuco</FONT></P></p>
 <p><P><FONT face=Verdana><EM>\"O governador deu agora há pouco uma jogada de mestre no guia eleitoral da TV\".</EM></FONT></P></p>
@@ -30,3 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>Em apenas um guia eleitoral, t?nhamos uma análise superficial, marcada pela ousadia da manobra adotada pela campanha de Mendonça.</FONT></P></p>
 <p><P><FONT face=Verdana>Repetida a estratégia da aliança no guia de hoje, continuo dizendo que a manobra é inteligente. E é realmente. Ela é engenhosa.</FONT></P></p>
 <p><P><FONT face=Verdana>Mas agora também estão claras, e cada vez mais claras, as conseqüências da estratégia sobre a capacidade de o cidadão, o eleitor, tomar sua decisão com clareza e informações precisas.</FONT></P></FONT> </p>
+{\% endraw %}

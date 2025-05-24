@@ -1,18 +1,19 @@
 ---
 id: 12372634
-date: "2006-09-19T09:29:00+00:00"
+date: "2006-09-19T09:29:00Z"
 last_modified_at: null
 tags:
-  - joao-cavalcanti
-  - luiz-fuz
+  - "joao-cavalcanti"
+  - "luiz-fuz"
 categories:
-  - colunistas
-title: "Governando no trópico (Luiz Otavio Cavalcanti)"
+  - "colunistas"
+title: "Governando no tr\u00f3pico (Luiz Otavio Cavalcanti)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por </FONT><FONT face=Verdana><B>Luiz Otavio Cavalcanti*<BR></B>Ex-secretário do Planejamento e da Fazenda de Pernambuco<BR></FONT><A href=\"mailto:lotavio@fsm.com.br\"><U><FONT color=#0000ff><FONT face=Verdana>lotavio@fsm.com.br</FONT></U></FONT></A><FONT face=Verdana></FONT></P></p>
 <p><P><FONT face=Verdana>Às vésperas de nova eleição presidencial, cabe indagar: como governam os pol?ticos brasileiros? Qual seu estilo de decidir? Quais são os condicionantes culturais de sua ação?</FONT></P></p>
 <p><P><FONT face=Verdana>Gilberto Freyre, em \"Ordem e Progresso\", fixa a moldura social e as constantes culturais segundo as quais o pol?tico brasileiro incorpora e desenvolve sua visão no marco republicano. Lá estão analisados a República de 89, a base econômica, a ordem social, a transição republicana e a Monarquia, o Exército. E o tempo, na dimensão tr?bia de passado, presente e futuro.</FONT></P></p>
@@ -32,3 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>Por outro lado, não surge, durante todo o transcorrer do século XX, discussão séria e capacidade de ação no governo sobre a questão social no Pa?s. Poucos pol?ticos se debruçaram seriamente sobre o assunto. Fora as épocas de eleição. E com a exceção honrosa de Joaquim Nabuco, conservador abolicionista que defendeu os negros e a educação, a reforma agrária e a liberdade. Não há pol?tica firme e cient?fica de combate à pobreza no Brasil. Os governos são estátuas de imobilismo e o Povo pobre espera. A combinação cultural de ambigüidade pol?tica e paciência social mantém trinta milhões de brasileiros na linha das necessidades básicas.</FONT></P><FONT face=\"Times New Roman\"></p>
 <p><P><BR><I><FONT face=Verdana><STRONG>*Luiz Otavio Cavalcanti</STRONG></FONT><FONT face=Verdana>, 60, advogado, executivo e ex-secretário do Planejamento (1975/79 e 1991/92)</p>
 <p> e da Fazenda (1983/86 e 1992/93) de Pernambuco. Recifense, Cavalcanti dirige hoje a entidade mantenedora da Faculdade Santa Maria. É autor, entre outros livros, de Como a corrupção abalou o governo Lula (Ed. Ediouro, 2005), Administradores, quem somos nós? (Ed. Bagaço, 2005) e Ensaiando Pernambuco (Ed. Bagaço, 2005).</FONT></P></I></FONT> </p>
+{\% endraw %}

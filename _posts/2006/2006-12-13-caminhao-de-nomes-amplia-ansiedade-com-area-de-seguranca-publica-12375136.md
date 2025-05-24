@@ -1,21 +1,22 @@
 ---
 id: 12375136
-date: "2006-12-13T10:21:00+00:00"
+date: "2006-12-13T10:21:00Z"
 last_modified_at: null
 tags:
-  - ampliacao
-  - ansiedade
-  - caminhao
-  - nomes
-  - seguranca
+  - "ampliacao"
+  - "ansiedade"
+  - "caminhao"
+  - "nomes"
+  - "seguranca"
 categories:
-  - noticias
-title: "Caminhão de nomes amplia ansiedade com área de Segurança Pública"
+  - "noticias"
+title: "Caminh\u00e3o de nomes amplia ansiedade com \u00e1rea de Seguran\u00e7a P\u00fablica"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Perto do dia marcado para o anúncio da equipe – sexta-feira, às 14h30, no Recife Praia Hotel –, Eduardo ainda tentava ontem contornar os problemas surgidos com a \"desistência\" de um técnico convidado para ocupar o cargo de secretário de Defesa Social. </FONT></P></p>
 <p><P><FONT face=Verdana>Na edição de pol?tica de hoje, no JC, três nomes estão cotados para assumir a dif?cil missão de reduzir os ?ndices de violência do Estado. </FONT></P></p>
 <p><P><FONT face=Verdana>Dois deles são ex-superintendentes da Pol?cia Federal (PF) em Pernambuco: Wilson Damázio, que hoje está lotado no Ministério da Justiça, e Zulmar Pimentel, que é diretor da Superintendência da Pol?cia Federal em Bras?lia. O terceiro é o diretor-geral de Combate ao Crime Organizado, Getúlio Bezerra, que também está lotado na Superintendência da PF em Bras?lia. Damázio e Getúlio são pernambucanos que têm projeção nacional. Zulmar não é da terra, mas fez carreira no Estado. Eles são técnicos reconhecidos e têm bom trânsito no governo federal, o que facilitaria o trabalho conjunto que Eduardo quer implementar para o setor, vinculando as ações do Estado com os projetos desenvolvidos pela gestão Lula.</FONT></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>Durante a campanha e eitoral, o ainda candidato Eduardo Campos recusou-se a \"eleitoralizar\" a segurança pública para não cair na mesma armadilha que atrapalhou Jarbas Vasconcelos. Jarbas não só \"eleitoralizou\" o tema, apresentando no seu programa de TV o modelo de segurança adotado no Ceará pelo então governador, Tasso Jereissati, como foi um pouco mais além. Nessa área, disse ele, \"eu não posso errar\". Ju?zo de valor à parte, teve quatro secretários de defesa social ao longo dos seus sete anos de governo, de onde se conclui que as substituições foram motivadas pelos erros cometidos por essas pessoas. </FONT></P></I></p>
 <p><P><FONT face=Verdana>J<I>usto por não ter assumido compromisso nessa área, salvo o de priorizar a \"inteligência\" como arma de prevenção e combate ao crime, o governador eleito não deu ainda a mais remota pista sobre o que pretende fazer com aquela pasta, que, segundo observação dos próprios policiais, transformou-se num \"monstro\" dentro do \"monstro\". O que deveria ser uma pasta enxuta para administrar as Pol?cias Civil, Militar e Corpo de Bombeiros teria se transformado numa estrutura pesada, cara e ineficiente. </P></I></FONT></p>
 <p><P><FONT face=Verdana>A<I>inda carece de confirmação as versões de que o futuro governador estaria inclinado a colocar naquela pasta um \"estrangeiro\", isto é, alguém alheio aos seus quadros e residente fora de Pernambuco. A confirmar-se, será um jogada de alto risco</I>, <I>com maior probabilidade de erro do que de acerto.</P></I></FONT> </p>
+{\% endraw %}

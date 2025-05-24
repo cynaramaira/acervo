@@ -1,20 +1,21 @@
 ---
 id: 12372545
-date: "2006-09-15T12:28:00+00:00"
+date: "2006-09-15T12:28:00Z"
 last_modified_at: null
 tags:
-  - campanha
-  - gonzaga-patriota
-  - mendonca
-  - minis
+  - "campanha"
+  - "gonzaga-patriota"
+  - "mendonca"
+  - "minis"
 categories:
-  - noticias
-title: "Mini-trio da campanha de Mendonça foi parar na delegacia"
+  - "noticias"
+title: "Mini-trio da campanha de Mendon\u00e7a foi parar na delegacia"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Continua grande a confusão por conta da apreensão do mini-trio da campanha do governador-candidato Mendonça Filho (PFL). </FONT></P></p>
 <p><P><FONT face=Verdana>O ve?culo circulava pelo bairro na Zona Sul do Recife, no final da manhã de hoje, quando foi impedido de tocar o <EM>\"Forrozão Sanguessuga\",</EM> por uma moradora da área. </FONT></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Todos aguardavam a Pol?cia Federal, que não chegou ao local da confusão. Depois de uma hora e meia de espera, a PM decidiu, então, levar todo mundo para a delegacia.</FONT> </P></p>
 <p><P><FONT face=Verdana>O curioso é que em frente à delegacia,&nbsp;outro carro (uma Paraty) com adesivos de Mendonça e do ex-governador Jarbas Vasconcelos (PMDB), está tocando, neste momento,&nbsp;o mesmo forrozão&nbsp;que gerou a briga.</FONT></P></p>
 <p><P><FONT face=Verdana>As informações são da&nbsp;repórter&nbsp;de Pol?tica do JC, Monica Crisostomo, que está&nbsp;no local, acompanhando tudo.</FONT></P></FONT> </p>
+{\% endraw %}

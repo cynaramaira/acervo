@@ -1,20 +1,21 @@
 ---
 id: 12373589
-date: "2006-10-19T18:51:00+00:00"
+date: "2006-10-19T18:51:00Z"
 last_modified_at: null
 tags:
-  - jarbas-vasconcelos
-  - luto
-  - mendonca
-  - skate
+  - "jarbas-vasconcelos"
+  - "luto"
+  - "mendonca"
+  - "skate"
 categories:
-  - noticias
-title: "Jarbas: Agora é manter a cabeça pra cima; Mendonça: Luto e lutarei até o fim"
+  - "noticias"
+title: "Jarbas: Agora \u00e9 manter a cabe\u00e7a pra cima; Mendon\u00e7a: Luto e lutarei at\u00e9 o fim"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Apesar de animados com o tamanho da caminhada que a União por Pernambuco realizou agora há pouco pelo centro do Recife, Jarbas Vasconcelos (PMDB) e Mendonça Filho (PFL) deixaram transparecer em seus discursos, ao final, no Pátio do Carmo, o tamanho do desafio que têm pela frente.</FONT></P></p>
 <p><P><FONT face=Verdana>Mendonça está 28 pontos percentuais (votos válidos) atrás de Eduardo Campos (PSB) na pesquisa Ibope/TV Globo, divulgada ontem. </FONT></P></p>
 <p><P><FONT face=Verdana>Faltam dez dias para a eleição. Até lá, precisarão mudar as intenções de votos de 1,12 milhão de eleitores, 112 mil por dia. </FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"Enfrentei seis no primeiro debate, enfrentei cinco no segundo e enfrentei ele (Eduardo) noutro e venci. Venci não porque me considero superior. Venci porque a verdade está nesse palanque, a verdade está do nosso lado\".</FONT></P></p>
 <p><P><FONT face=Verdana>A certa altura, referiu-se aos que ele chamou de \"fracos\", os aliados que o abandonaram para apoiar Eduardo, a exemplo do deputado estadual Geraldo Coelho (PFL):</FONT></P></p>
 <p><P><FONT face=Verdana>\"Não desisto. Luto e lutarei até o fim. Não desisto. Lutou e vou à vitória com o povo de Pernambuco\".</FONT></P> </p>
+{\% endraw %}

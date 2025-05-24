@@ -1,18 +1,19 @@
 ---
 id: 12372731
-date: "2006-09-22T11:35:00+00:00"
+date: "2006-09-22T11:35:00Z"
 last_modified_at: null
 tags:
-  - eleicao
-  - pesquisa
+  - "eleicao"
+  - "pesquisa"
 categories:
-  - noticias
-title: "Pesquisa é treino, eleição é jogo"
+  - "noticias"
+title: "Pesquisa \u00e9 treino, elei\u00e7\u00e3o \u00e9 jogo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Acabei de postar na seção Artigos, na coluna ao lado, uma análise sobre as pesquisas eleitorais feita pelo jornalista Fernando Castilho, colaborador freqüente do Blog. Abaixo, alguns trechos.</FONT></P></p>
 <p><P><FONT face=Verdana>Boa leitura.</FONT></P></p>
 <p><P><FONT face=Verdana>-------------------------------------</FONT></P></p>
@@ -21,3 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>Ex-marqueteiro de uma dezena de pol?ticos de todas as matizes, indo de Leonel Brizola a Marta Suplicy, de Cristovam Buarque a Paulo Maluf, Teixeira foi autor da estratégia de campanha em mais de 70 disputas eleitorais em dezenas de estados brasileiros, vencendo a maior parte delas.</FONT></P></p>
 <p><P><FONT face=Verdana>Segundo ele, no meio dos profissionais que cuidam de campanhas pol?ticas, isso está consolidado há pelo menos duas semanas. Porque, ao contrario dos jornalistas, os marqueteiros não usam os números para dizer quem vai ganhar ou perder a eleição, mas para montar suas estratégias. Servem como ferramenta de trabalho, não como produto final para m?dia.</FONT></P><FONT face=Verdana></p>
 <p><P>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/09/22/not_1651.php\">aqui</A></EM></STRONG> o texto completo.</P></FONT> </p>
+{\% endraw %}

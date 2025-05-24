@@ -1,18 +1,19 @@
 ---
 id: 12373227
-date: "2006-10-06T17:34:00+00:00"
+date: "2006-10-06T17:34:00Z"
 last_modified_at: null
 tags:
-  - lula
-  - petrolina
+  - "lula"
+  - "petrolina"
 categories:
-  - noticias
-title: "Lula começa a discursar em Petrolina"
+  - "noticias"
+title: "Lula come\u00e7a a discursar em Petrolina"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O presidente Lula (PT) vai começar o seu discurso agora,&nbsp;no com?cio em Petrolina, tão logo cessem os fogos e o jingle da campanha que toca insistentemente.</FONT></P></p>
 <p><P><FONT face=Verdana>\"É lula de novo com a força do povo\". </FONT><FONT face=Verdana>E lá o recado é esse&nbsp;mesmo: \"vamos reeleger o presidente do povo\". </FONT></P></p>
 <p><P><FONT face=Verdana>O candidato do PSB ao Governo, Eduardo Campos, acabou de discursar, e disse: \"A minha eleição é muito importante, mas o principal, a prioridade é reeleger o presidente Lula\".</FONT></P></p>
@@ -22,3 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>Após o com?cio, está previsto, às 18h, um jantar oferecido por Bezerra Coelho ao presidente. Será na casa da mãe do prefeito, Lizete Bezerra Coelho. </FONT></P></p>
 <p><P><FONT face=Verdana>A assessoria do presidente, contudo, ainda não confirmou o jantar, porque, à</FONT><FONT face=Verdana>s 20h30, Lula fará um&nbsp;com?cio em Salvador, no Farol da Barra.</FONT></P></p>
 <p><P><FONT face=Verdana>As informações são do repórter Carlos Moraes, da Rádio Jornal. </FONT></P> </p>
+{\% endraw %}

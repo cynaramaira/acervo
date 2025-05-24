@@ -1,19 +1,20 @@
 ---
 id: 12374630
-date: "2006-11-23T16:52:00+00:00"
+date: "2006-11-23T16:52:00Z"
 last_modified_at: null
 tags:
-  - eduardo-campos
-  - miguel-coelho
-  - milton
+  - "eduardo-campos"
+  - "miguel-coelho"
+  - "milton"
 categories:
-  - opiniao
+  - "opiniao"
 title: "Caso da Sacolinha: cartas de Saulo Batista para Eduardo Campos e Milton Coelho"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p>Ao Deputado Eduardo Campos<br />Presidente Nacional do PSB</p>
 <p>A fim de esclarecer as raz&otilde;es das movimenta&ccedil;&otilde;es empreendidas por mim e que culminaram na divulga&ccedil;&atilde;o das grava&ccedil;&otilde;es que causaram tanto transtorno ao PSB, a Simone Coelho e Milton Coelho, apresento nesta carta alguns detalhes destes acontecimentos que n&atilde;o ser&atilde;o divulgados por nenhum outro meio.</p>
 <p>No dia 10 de junho de 2006, eu estava em Belo Horizonte quando recebi um contato telef&ocirc;nico de Eduardo Leoc&aacute;dio, amigo de longa data e que me disse que estava sendo candidato a deputado federal em Pernambuco.</p>
@@ -38,3 +39,4 @@ imagem: null
 <p>Pretendo com isso encerrar o assunto e seguir a minha vida, e seguir os ditames das leis de Cristo, meio no qual fui aceito.</p>
 <p>Bras?lia, 13 de outubro de 2006</p>
 <p>Saulo Batista da Silva</p>
+{\% endraw %}

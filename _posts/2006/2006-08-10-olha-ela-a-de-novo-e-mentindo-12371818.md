@@ -1,18 +1,19 @@
 ---
 id: 12371818
-date: "2006-08-10T07:49:00+00:00"
+date: "2006-08-10T07:49:00Z"
 last_modified_at: null
 tags:
-  - datafolha
-  - novos
+  - "datafolha"
+  - "novos"
 categories:
-  - noticias
+  - "noticias"
 title: "Olha ela a? de novo, e mentindo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana><STRONG>A miss quer ser deputada</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Maia</STRONG><BR>Da Istoé Gente (<A href=\"https://www.terra.com.br/istoegente/\">https://www.terra.com.br/istoegente/</A>)</FONT></P></p>
 <p><P><FONT face=Verdana>Se a campanha pol?tica em Pernambuco já está quente, imagine quando a candidata a deputada estadual pelo PSB, Débora Daggy, sair do spa onde se</p>
@@ -22,3 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"Fui miss com 16 anos\", disse ela. Ou seja, era menor quando o romance começou, e durou até sua maioridade. \"Um dia ele me pediu para dar um tempo\", disse, na época, a <I>Gente</I>. Qual não foi a surpresa de todos quando o governador logo em seguida apareceu acompanhado de outra miss, a Meyrielle Abrantes, eleita em 2003, com quem está namorando até hoje. </FONT></P></p>
 <p><P><FONT face=Verdana>\"Fui falar com ela. Não achei correto o que ela fez, afinal fui eu que apresentei os dois\", confessou Débora sem esconder a mágoa. É por isso que muitos acreditam que ela escolheu o partido do arquiinimigo de seu ex, o candidato ao governo, Eduardo Campos. \"Não é vingança, eu acredito na proposta do PSB\", diz. Vingança ou não, o fato é que Débora é vista pelos governistas como um bomba pol?tica, que pode explodir a qualquer momento.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/07/29/index.php#379\" target=_blank>aqui</A></EM></STRONG> sobre as mentiras de Débora.</FONT></P> </p>
+{\% endraw %}

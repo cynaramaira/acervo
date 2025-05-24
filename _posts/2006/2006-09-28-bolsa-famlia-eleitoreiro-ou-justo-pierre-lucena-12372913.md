@@ -1,17 +1,19 @@
 ---
 id: 12372913
-date: "2006-09-28T11:00:00+00:00"
+date: "2006-09-28T11:00:00Z"
 last_modified_at: null
 tags:
-  - bolsa
-  - ednaldo-lucena
-  - pierre-gasly
+  - "bolsa"
+  - "ednaldo-lucena"
+  - "pierre-gasly"
 categories:
-  - colunistas
+  - "colunistas"
 title: "Bolsa Fam?lia: eleitoreiro ou justo? (Pierre Lucena)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT face=Verdana>Por <STRONG>Pierre Lucena</STRONG><BR>Professor e administrador <BR></FONT><A href=\"mailto:pierre.lucena@contagemweb.com.br\"><FONT face=Verdana>pierre.lucena@contagemweb.com.br</FONT></A><BR><FONT face=Verdana><BR><BR>Na semana passada, Fernando Castilho publicava em sua coluna no JC uma análise do estudo do economista Marcelo Cortes Neri, da FGV, sobre o impacto do Bolsa-Fam?lia, e dizia que o meio acadêmico estava começando a perder o preconceito em relação a este programa social do Governo Federal.<BR><BR>Realmente Castilho tem razão. Este tipo de programa de transferência de renda no Brasil já existe há certo tempo, com diferentes nomes, em diferentes governos, mas é a primeira vez que deixou de ser um “programa-piloto??? para atingir uma meta muito ousada. São 11 milhões de fam?lias que recebem o benef?cio, o que uns chamam de eleitoreiro.<BR><BR>Sinceramente, fica dif?cil a argumentação com aqueles que ainda acham que a pobreza vota alienadamente em um candidato quando se refere, em particular, a este programa social. Primeiro, temos que deixar o preconceito de lado e analisar os dados, o que é mais importante.<BR><BR>No estudo em questão, Kakwani, Neri e Son (2006) apresentam seus pontos de vista sob a Teoria do Bem-Estar, mostrando que o aumento de renda entre os anos de 2001 e 2004 foi significativo entre o que chamamos de renda pró-pobre. Temos uma inversão na curva de crescimento das taxas de renda per capita, principalmente a partir de 2003-2004, e isto se deve em grande parte ao Programa Bolsa-Fam?lia.<BR><BR>No mesmo estudo, os autores apontam que o cenário macroeconômico acabou afetando os indicadores de desigualdade, quando se verifica a volatilidade do cenário geral com a desigualdade e pobreza. Transformando renda em bem-estar, através da função de bem-estar social, pode-se verificar no estudo que, apesar de termos per?odos de diminuição da renda per capita, entre 2001 e 2004, houve um crescimento muito bom no que os autores chamam de taxa crescimento pró-pobre, ou antipobre. <BR><BR>Observando também os programas de transferência de renda, verificando através da contribuição de renda não-proveniente do trabalho, que é onde se encaixa o Bolsa-Fam?lia, verificou-se que houve uma excessiva diminuição da desigualdade a partir de 1995. Segundo os autores, “um pequeno aumento nos programas governamentais de transferência de dinheiro parecem ter um grande impacto nas condições de vida das pessoas pobres???.<BR><BR>Sendo sincero. É preciso acabar com esse estigma de que pobre não sabe votar, e que o Presidente Lula está com altos ?ndices de popularidade porque estes são desinformados e alienados. Gostaria de saber, qual a diferença entre este voto e o de classe média? Todos estão votando de acordo com seus interesses.<BR>Fico feliz que as conclusões tenham partido de um trabalho de pesquisa sério, e que o meio acadêmico esteja acabando com o preconceito em relação aos programas de transferência de renda, em especial ao Bolsa-Fam?lia. <BR><BR>Parece que uma grande parte da população cansou do discurso “progressista??? de que temos que gerar emprego, renda e coisas do tipo. Esta parece que foi ouvida através destes programas, e contra eles dificilmente alguém tomará alguma atitude mais séria no curto prazo.<BR><BR><BR><EM><STRONG>*Pierre Lucena</STRONG>, 35, doutor em finanças pela PUC-Rio, Mestre em Economia e Administrador pela UFPE, é professor-adjunto da Universidade Federal de Pernambuco, sócio da Contagem Consultoria Estratégica e Pesquisa. Foi secretário-adjunto de Educação do Estado. É Coordenador do Núcleo de Finanças e Investimentos do Departamento de Ciências Administrativas da UFPE (NEFI).</EM></FONT> </p>
+{\% endraw %}

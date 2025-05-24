@@ -1,19 +1,20 @@
 ---
 id: 12371525
-date: "2006-08-23T06:01:00+00:00"
+date: "2006-08-23T06:01:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao Governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p>&nbsp;</p>
 <p>MENDON&Ccedil;A FILHO (PFL)</p>
 <p>9h40, apresenta suas propostas de governo a estudantes. Local: Col&eacute;gio Vera Cruz</p>
@@ -28,3 +29,4 @@ imagem: null
 <p>7h, entrevista na TV Jornal</p>
 <p>16h, caminhada Pr&oacute;-Lula com artistas. Local: Pra&ccedil;a Oswaldo Cruz</p>
 <p>19h30, em Caruaru, participa de debate na Favipe. Local: Audit&oacute;rio do Shopping Center de Caruaru</p>
+{\% endraw %}

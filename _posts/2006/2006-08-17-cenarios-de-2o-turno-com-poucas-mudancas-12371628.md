@@ -1,18 +1,19 @@
 ---
 id: 12371628
-date: "2006-08-17T19:00:00+00:00"
+date: "2006-08-17T19:00:00Z"
 last_modified_at: null
 tags:
-  - mudancas
-  - saturno
+  - "mudancas"
+  - "saturno"
 categories:
-  - noticias
-title: "Cenários de 2º turno com poucas mudanças"
+  - "noticias"
+title: "Cen\u00e1rios de 2\u00ba turno com poucas mudan\u00e7as"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Mais resultados sobre as eleições em Pernambuco, divulgados agora há pouco no NETV, da Globo:</FONT></P></p>
 <p><P><FONT face=Verdana>Cenários de 2º</FONT></FONT><FONT face=Verdana size=3> turno</FONT></P><B></p>
@@ -40,3 +41,4 @@ imagem: null
 <p><P><FONT face=Verdana>Não sabe e não opiniou&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11%</FONT></P></p>
 <p><P><B><FONT face=Verdana>METODOLOGIA</FONT></P></B></p>
 <p><P><FONT face=Verdana>O levantamento foi realizado entre os dias 14 e 16 de agosto. O Ibope&nbsp;ouviu 1.806 pessoas em 78 munic?pios pernambucanos. A margem de erro é de dois pontos percentuais para mais ou para menos.</FONT></P> </p>
+{\% endraw %}

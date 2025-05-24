@@ -1,18 +1,19 @@
 ---
 id: 12374746
-date: "2006-11-28T06:48:00+00:00"
+date: "2006-11-28T06:48:00Z"
 last_modified_at: null
 tags:
-  - crescimento
-  - governo
+  - "crescimento"
+  - "governo"
 categories:
-  - noticias
+  - "noticias"
 title: "Governo finaliza pacote para estimular crescimento do PIB "
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>BRAS??LIA - A equipe econômica está passando um aperto para conseguir fechar ainda este ano o pacote de medidas destinadas a fazer a economia crescer até 5% ao ano. “Acho que já estamos fazendo milagre, porque nós estamos avançando de forma bastante satisfatória com todos esses programas e o presidente quer que façamos isso antes que se encerre a atual legislatura???, disse o ministro da Fazenda, Guido Mantega, ao final de mais uma reunião com o presidente Luiz Inácio Lula da Silva para discutir o pacote, na qual se falou sobre a cobrança de d?vidas tributárias e sobre a implantação da nota fiscal eletrônica. </FONT></P></p>
 <p><P><FONT face=Verdana>Especula-se</p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>BRAS??LIA - Pela primeira vez, desde abril de 2001, a relação da d?vida l?quida do setor público (o resultado do que os governos federal, municipal e estadual devem e o que têm a receber de seus credores) ficou abaixo dos 50% do Produto Interno Bruto (PIB) e se situou em 49,5% do PIB, uma queda de 0,4 ponto porcentual em relação ao mês anterior. O porcentual do mês passado, segundo o chefe do Departamento Econômico (Depec) do Banco Central (BC), Altamir Lopes, foi também o menor n?vel desde os 49,29% do PIB de fevereiro de 2001. </FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/11/28/not_210375.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P> </p>
+{\% endraw %}

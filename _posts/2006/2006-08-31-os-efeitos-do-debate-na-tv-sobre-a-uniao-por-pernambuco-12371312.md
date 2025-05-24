@@ -1,20 +1,21 @@
 ---
 id: 12371312
-date: "2006-08-31T18:15:00+00:00"
+date: "2006-08-31T18:15:00Z"
 last_modified_at: null
 tags:
-  - debate
-  - pernambuco
-  - prefeitos
-  - uniao
+  - "debate"
+  - "pernambuco"
+  - "prefeitos"
+  - "uniao"
 categories:
-  - noticias
-title: "Os efeitos do debate na TV sobre a União por Pernambuco"
+  - "noticias"
+title: "Os efeitos do debate na TV sobre a Uni\u00e3o por Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Acabei de publicar na seção artigos, na coluna ao lado, mais um artigo semanal de Túlio Velho Barreto, que escreve aqui às segundas e quintas.</FONT></P></p>
 <p><P><FONT face=Verdana>Boa leitura.</FONT></P></p>
 <p><P><FONT face=Verdana>------------------------------</FONT></P></p>
@@ -23,3 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Começo destacando a presença do governador-candidato Mendonça Filho (PFL, União por Pernambuco) no debate. De fato, não é comum o primeiro lugar nas pesquisas eleitorais participar de tais eventos. Basta observar a posição do presidente-candidato Lula a respeito. E os debates em alguns estados, como, por exemplo, em São Paulo, onde José Serra também não tem comparecido. </FONT></P></p>
 <p><P><FONT face=Verdana>Mas há algumas diferenças entre os três citados, diferenças que talvez tenham pesado na decisão de Mendonça Filho de comparecer, pelo menos ao primeiro debate: o fato de Lula e Serra serem bem conhecidos dos eleitores, tendo disputado eleições similares ou até mais amplas, como no caso de Serra, e gozarem de elevado e irrefutável favoritismo. </FONT></P></p>
 <p><P><FONT face=Verdana>Lei <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/31/not_1143.php\">aqui</A></EM></STRONG> o texto completo.</FONT></P> </p>
+{\% endraw %}

@@ -1,22 +1,23 @@
 ---
 id: 12373694
-date: "2006-10-22T22:34:00+00:00"
+date: "2006-10-22T22:34:00Z"
 last_modified_at: null
 tags:
-  - cavalo-marinho
-  - claudio-assis
-  - debate
-  - fafy-siqueira
-  - luciano-juba
-  - segundo-turno
+  - "cavalo-marinho"
+  - "claudio-assis"
+  - "debate"
+  - "fafy-siqueira"
+  - "luciano-juba"
+  - "segundo-turno"
 categories:
-  - noticias
-title: "O debate segundo Cláudio Marinho e Luciano Siqueira"
+  - "noticias"
+title: "O debate segundo Cl\u00e1udio Marinho e Luciano Siqueira"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana><EM>\"Tem algumas questões que estão incomodando ele (Eduardo)\"</EM></FONT></P></p>
 <p><P><FONT face=Verdana>Por <B>Cláudio Marinho</B><BR><EM>Secretário estadual de Planejamento/Governo Mendonça e um dos coordenadores do programa de governo do pefelista</EM></FONT></P></p>
@@ -32,3 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>Eduardo está com clareza nas propostas. Ele deveria até responder menos as provocações e dedicar mais tempo nas suas propostas. Mas eles estão preocupados demais em responder as farpas.</FONT></P></p>
 <p><P><FONT face=Verdana>Tenho a impressão que Eduardo leva ligeira vantagem porque está fazendo cr?tica a um governo que já existe. Então ele está mais à vontade. </FONT></P></p>
 <p><P><FONT face=Verdana>Além disso, Eduardo&nbsp;é um candidato que está largamente na frente nas pesquisas. Está com um estado de esp?rito de quem se empatar o debate já é lucro. Para Mendonça, a tensão é porque ele tem que ganhar de qualquer jeito.</FONT> </P></FONT> </p>
+{\% endraw %}

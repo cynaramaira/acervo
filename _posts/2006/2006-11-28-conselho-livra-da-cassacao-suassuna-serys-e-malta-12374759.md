@@ -1,18 +1,19 @@
 ---
 id: 12374759
-date: "2006-11-28T12:31:00+00:00"
+date: "2006-11-28T12:31:00Z"
 last_modified_at: null
 tags:
-  - ariano-suassuna
-  - livraria
+  - "ariano-suassuna"
+  - "livraria"
 categories:
-  - noticias
-title: "Conselho livra da cassação Suassuna, Serys e Malta"
+  - "noticias"
+title: "Conselho livra da cassa\u00e7\u00e3o Suassuna, Serys e Malta"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Da <STRONG>Folha Online</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Os três senadores --Ney Suassuna (PMDB-PB), Serys Slhessarenko (PT-MT) e Magno Malta (PL-ES)-- acusados de envolvimento com a máfia sanguessuga escaparam nesta terça-feira do processo de cassação por quebra de decoro parlamentar. O Conselho de Ética aprovou somente uma advertência verbal a Suassuna. </FONT></P></p>
 <p><P><FONT face=Verdana>Para Serys e Malta, os relatores pediram o arquivamento do processo que havia contra eles por falta de provas.</FONT></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>No relatório, Demóstenes chegou a citar personagens do romance \"Dom Casmurro\", de Machado de Assis. \"Como Bentinho, tenho acompanhado o caso intrigante, que postumamente a Machado, rendeu diversas versões, muitas convincentes, mas não posso afirmar, com 100% de certeza, que Capitu fraquejou e foi dar em praias escobarianas\", disse o senador.</FONT></P></p>
 <p><P><FONT face=Verdana>No romance, Machado levanta a suspeita de que Capitu traiu o personagem Bentinho com seu melhor amigo Escobar.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://www1.folha.uol.com.br/folha/brasil/ult96u87159.shtml\" target=_blank>aqui</A></EM></STRONG>.</FONT></P> </p>
+{\% endraw %}

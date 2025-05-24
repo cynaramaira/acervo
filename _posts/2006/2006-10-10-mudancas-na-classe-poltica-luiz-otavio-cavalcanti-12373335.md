@@ -1,19 +1,20 @@
 ---
 id: 12373335
-date: "2006-10-10T08:45:00+00:00"
+date: "2006-10-10T08:45:00Z"
 last_modified_at: null
 tags:
-  - joao-cavalcanti
-  - luiz-fuz
-  - mudancas
+  - "joao-cavalcanti"
+  - "luiz-fuz"
+  - "mudancas"
 categories:
-  - colunistas
-title: "Mudanças na classe pol?tica (Luiz Otavio Cavalcanti)"
+  - "colunistas"
+title: "Mudan\u00e7as na classe pol?tica (Luiz Otavio Cavalcanti)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Luiz Otavio Cavalcanti*</STRONG><BR>Ex-secretário do Planejamento e da Fazenda de Pernambuco<BR></FONT><A href=\"mailto:lotavio@fsm.com.br\"><FONT face=Verdana>lotavio@fsm.com.br</FONT></A><FONT face=Verdana> </FONT></P></p>
 <p><P><FONT face=Verdana>A classe pol?tica brasileira vem mudando. Desde a eleição de 2002. Quem o diz é o cientista pol?tico Leôncio Martins Rodrigues, da Unicamp. Ele acaba de editar estudo sobre as modificações ocorridas na composição da Câmara dos Deputados na eleição de quatro anos atrás.</FONT></P></p>
 <p><P><FONT face=Verdana>Suas principais conclusões são:</FONT></P></p>
@@ -30,3 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>11.&nbsp;Aparentemente, segundo o autor, o processo de popularização ajuda a consolidar o sistema democrático porque incorpora classes populares. E mostra que a disputa pol?tica não é jogo apenas para elite.</FONT></P></p>
 <p><P><FONT face=Verdana>&nbsp;Agora é tomar os dados referentes à eleição de 2006 e ver para onde a classe pol?tica está caminhando.<BR></FONT></P></p>
 <p><P><FONT face=Verdana><EM><STRONG>*Luiz Otavio Cavalcanti</STRONG>, 60, advogado, executivo e ex-secretário do Planejamento (1975/79 e 1991/92) e da Fazenda (1983/86 e 1992/93) de Pernambuco. Recifense, Cavalcanti dirige hoje a entidade mantenedora da Faculdade Santa Maria. É autor, entre outros livros, de Como a corrupção abalou o governo Lula (Ed. Ediouro, 2005), Administradores, quem somos nós? (Ed. Bagaço, 2005) e Ensaiando Pernambuco (Ed. Bagaço, 2005).</EM></FONT></P> </p>
+{\% endraw %}

@@ -1,20 +1,21 @@
 ---
 id: 12372648
-date: "2006-09-19T09:23:00+00:00"
+date: "2006-09-19T09:23:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - entrega
-  - mendonca
-  - saturno
+  - "eduardo"
+  - "entrega"
+  - "mendonca"
+  - "saturno"
 categories:
-  - noticias
-title: "Internautas agora apostam em 2º turno entre Mendonça e Eduardo"
+  - "noticias"
+title: "Internautas agora apostam em 2\u00ba turno entre Mendon\u00e7a e Eduardo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Este é o resultado parcial da enquete que o Blog está realizando:</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana></FONT>&nbsp;</P></p>
 <p><P</p>
@@ -31,3 +32,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><o:p><FONT face=Verdana></FONT></o:p>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><o:p><FONT face=Verdana></FONT></o:p>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana><STRONG>Participe, vote, dê sua opinião na coluna ao lado.</STRONG></FONT></P> </p>
+{\% endraw %}

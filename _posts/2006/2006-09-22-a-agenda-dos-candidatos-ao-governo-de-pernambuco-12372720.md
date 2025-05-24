@@ -1,20 +1,21 @@
 ---
 id: 12372720
-date: "2006-09-22T06:45:00+00:00"
+date: "2006-09-22T06:45:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao Governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PF)</FONT></P></p>
 <p><P><FONT face=Verdana>Às 16h</FONT></B><FONT face=Verdana>, caminhada no comércio do centro do Recife, acompanhado do ex-governador e candidato ao Senado, Jarbas Vasconcelos (PMDB). Concentração: Camelódromo, na avenida Dantas Barreto. </FONT></P><B></p>
@@ -36,3 +37,4 @@ imagem: null
 <p><P><FONT face=Verdana>Às 14h</FONT></B><FONT face=Verdana>, em Sertânia, carreata pelas ruas centrais da cidade </FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 16h30</FONT></B><FONT face=Verdana>, em Serra Talhada, carreata pelas ruas centrais da cidade </FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 20h</FONT></B><FONT face=Verdana>, em Salgueiro, carreata pelas ruas centrais da cidade e com?cio</FONT></P></FONT> </p>
+{\% endraw %}

@@ -1,19 +1,20 @@
 ---
 id: 12374633
-date: "2006-11-23T17:45:00+00:00"
+date: "2006-11-23T17:45:00Z"
 last_modified_at: null
 tags:
-  - diversao
-  - jair
-  - milton
+  - "diversao"
+  - "jair"
+  - "milton"
 categories:
-  - noticias
-title: "Milton evita acusar Jair; Leocádio estranha nova versão"
+  - "noticias"
+title: "Milton evita acusar Jair; Leoc\u00e1dio estranha nova vers\u00e3o"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O presidente estadual licenciado do PSB, Milton Coelho, tem evitado falar sobre o \"escândalo da sacolinha\". Por telefone, faz um rápido comentário sobre a tentativa de envolvimento do jornalista Jair Pereira, seu adversário no partido, nas acusações contra ele: \"Não acuso Jair porque as provas que estão sendo mostradas não mencionam ele ativamente como responsável pela farsa, indicam outras pessoas\".</FONT></P></p>
 <p><P><FONT face=Verdana>Mais não quis falar. Mandou apenas uma nota, que publico a seguir:</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>NOTA DE MILTON COELHO</STRONG></FONT></P></p>
@@ -32,3 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>Quando foi seu último encontro com Saulo?</FONT></B><BR><FONT face=Verdana>Numa quinta-feira antes da eleição do primeiro turno (das eleições para o Governo de Pernambuco). E nesse meu último encontro com Saulo eu gravei tudo por precaução. Já disse, é só publicar a ?ntegra da transcrição real. Foi eu mesmo que gravei. </FONT></P><B></p>
 <p><P><FONT face=Verdana>Segundo Saulo Batista, a armação combinada entre você e ele seria inicialmente conta o vereador Danilo Cabral (à época, coordenador geral da campanha de Eduardo) e depois atingiria Milton Coelho (presidente estadual licenciado do PSB). Você, segundo Saulo, teria intenção de prejudicá-los. Isso procede?<BR></FONT></B><FONT face=Verdana>Eu não vou comentar sobre essas coisas. Foi como eu lhe disse, primeiro estou resolvendo as coisas com as pessoas próximas a mim dentro do partido (Leocádio é ligado a Jair Pereira, candidato a deputado estadual derrotado nesta eleição). Essa história de segregação no partido não existe. Não existe grupo de A (Jair Pereira) e nem de B (Milton Coelho). </FONT></P></p>
 <p><P><FONT face=Verdana><EM>*Eduardo Leocádio interrompeu a entrevista, afirmando que não tinha tempo de falar porque estava entrando em uma reunião. \"Depois falo mais com você para dar mais detalhes. Deixa eu falar com quem eu tenho que falar\", finalizou Leocádio.</EM></FONT></P></FONT> </p>
+{\% endraw %}

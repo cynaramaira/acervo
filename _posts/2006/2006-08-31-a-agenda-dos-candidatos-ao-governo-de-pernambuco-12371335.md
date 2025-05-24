@@ -1,20 +1,21 @@
 ---
 id: 12371335
-date: "2006-08-31T05:50:00+00:00"
+date: "2006-08-31T05:50:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao Governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></p>
 <p><P><FONT face=Verdana>20h</FONT></B><FONT face=Verdana>, entrevista ao Programa Movimento, da Rádio Jornal</FONT></P><B></p>
@@ -30,3 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>14h</FONT></B><FONT face=Verdana>, reunião com a coordenação da campaha </FONT></P><B></p>
 <p><P><FONT face=Verdana>20h</FONT></B><FONT face=Verdana>, participa de debate sobre Sistema de Segurança Pública promovido pelo Clube Oficiais. Local: Avenida João de Barros </FONT></P><B></p>
 <p><P><FONT face=Verdana>21h</FONT></B><FONT face=Verdana>, jantar de adesão à&nbsp;chapa majoritária&nbsp;de Eduardo Campos. Local: Arcádia do Paço Alfândega</FONT></P></FONT> </p>
+{\% endraw %}

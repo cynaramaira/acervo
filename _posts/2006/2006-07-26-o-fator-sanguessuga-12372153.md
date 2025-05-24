@@ -1,17 +1,18 @@
 ---
 id: 12372153
-date: "2006-07-26T09:54:00+00:00"
+date: "2006-07-26T09:54:00Z"
 last_modified_at: null
 tags:
-  - sem-tags
+  - "sem-tags"
 categories:
-  - noticias
+  - "noticias"
 title: "O fator sanguessuga"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Os principais atores da disputa pelo governo de Pernambuco esperam ter na próxima semana um quadro um pouco mais claro sobre o efeito do escândalo das sanguessugas na sucessão estadual.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>&nbsp;<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>As not?cias envolvendo o candidato do PT e ex-ministro Humberto Costa com o caso terão, certamente, repercussão na campanha.</FONT></P></p>
@@ -32,3 +33,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Os números mostrarão se há efeitos eleitorais imediatos. Humberto pode cair nas pesquisas logo ou perder pontos apenas mais adiante. Pode também não cair. Ele recebeu 22% na última JC/Vox Populi, divulgada no dia 15, contra 21% de Eduardo e 35% de Mendonça.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></P><SPAN style=\"FONT-SIZE: 12pt; FONT-FAMILY: \Times New Roman\; mso-fareast-font-family: \Times New Roman\; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA\"><FONT face=Verdana size=2>Além do preju?zo eleitoral, o ex-ministro deverá sofrer preju?zos pol?ticos. L?deres como o presidente Lula podem se distanciar dele para não serem contaminados pela crise.</FONT></SPAN> </p>
+{\% endraw %}

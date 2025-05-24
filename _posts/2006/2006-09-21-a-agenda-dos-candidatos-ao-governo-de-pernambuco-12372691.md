@@ -1,20 +1,21 @@
 ---
 id: 12372691
-date: "2006-09-21T06:45:00+00:00"
+date: "2006-09-21T06:45:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao Governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></p>
 <p><P><FONT face=Verdana>Às 10h</FONT></B><FONT face=Verdana>, visita o comércio de ??gua Fria, acompanhado do ex-governador e candidato ao Senado Jarbas Vasconcelos (PMDB). Concentração: Mercado de ??gua Fria</FONT></P><B></p>
@@ -34,3 +35,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Às 11h</STRONG>, em Escada, carreata e com?cio </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Às 16h</STRONG>, no Recife, passeata pelas ruas centrais</p>
 <p> da capital. Concentração: Praça Oswaldo Cruz</FONT> </P></FONT> </p>
+{\% endraw %}

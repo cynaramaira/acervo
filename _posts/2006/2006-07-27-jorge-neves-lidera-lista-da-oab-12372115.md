@@ -1,20 +1,21 @@
 ---
 id: 12372115
-date: "2006-07-27T06:40:00+00:00"
+date: "2006-07-27T06:40:00Z"
 last_modified_at: null
 tags:
-  - jorge-jesus
-  - lideranca-indigena
-  - lista
-  - mozart-neves
+  - "jorge-jesus"
+  - "lideranca-indigena"
+  - "lista"
+  - "mozart-neves"
 categories:
-  - noticias
+  - "noticias"
 title: "Jorge Neves lidera lista da OAB"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>A OAB de Pernambuco concluiu a apuração dos votos para escolha dos seis nomes que serão encaminhados ao Tribunal de Justiça e, depois de selecionados três, ao governador Mendonça Filho para nomeação do novo desembargador estadual.</FONT></P></p>
 <p><P><FONT face=Verdana>Veja os resultados oficiais:</FONT></P></p>
 <p><P><FONT face=Verdana>1º Jorge Neves Batista&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.381 </FONT></P></p>
@@ -35,3 +36,4 @@ imagem: null
 <p><P><FONT face=Verdana>Jorge Neves</FONT></P></B></p>
 <p><P><FONT face=Verdana>Primeiro colocado, ex-presidente da OAB por três mandatos e de fam?lia com tradição no meio jur?dico.</FONT></P></p>
 <p><P><FONT face=Verdana>As surpresas na eleição direta realizada pela OAB foram a sexta colocação de Pedro Henrique e a sétima de Carlos Gil – que era dado como certo entre os seis.</FONT></P> </p>
+{\% endraw %}

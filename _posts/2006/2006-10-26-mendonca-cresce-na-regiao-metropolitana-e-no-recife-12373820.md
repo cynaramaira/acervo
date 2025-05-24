@@ -1,20 +1,21 @@
 ---
 id: 12373820
-date: "2006-10-26T16:30:00+00:00"
+date: "2006-10-26T16:30:00Z"
 last_modified_at: null
 tags:
-  - mendonca
-  - metropolitana
-  - recife
-  - regiao
+  - "mendonca"
+  - "metropolitana"
+  - "recife"
+  - "regiao"
 categories:
-  - noticias
-title: "Mendonça cresce na Região Metropolitana e no Recife"
+  - "noticias"
+title: "Mendon\u00e7a cresce na Regi\u00e3o Metropolitana e no Recife"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Mendonça reduziu a distância que o separa de Eduardo Campos nas duas áreas e perdeu pontos no Interior. É o que mostra a última rodada Ibope neste segundo turno em Pernambuco, divulgada anteontem e cujo relatório completo saiu agora.</FONT></P></p>
 <p><P><FONT face=Verdana>O Ibope divide o Estado em três regiões: Capital (Recife), Periferia (demais cidades metropolitanas) e Interior (o restante do Estado).</FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo perdeu três pontos na Capital e dois na Periferia (votos válidos), em relação à última rodada. Em compensação, ganhou três no Interior. Mendonça segue no caminho inverso. Veja os números:</FONT></P></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Comentário meu:</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>O desempenho dos candidatos no Recife e Região Metropolitana é um indicador fundamental para analisarmos como estarão posicionadas, daqui&nbsp;a dois anos, essas mesmas forças pol?ticas que hoje disputam o governo de Pernambuco. Em 2008, elas concorrerão às prefeituras.</FONT></P></p>
 <p><P><FONT face=Verdana>Recife e RMR concentram mais de 40% do eleitorado pernambucano. É um conjunto de cidades important?ssimas. Concentra os maiores colégios eleitorais.</FONT></P> </p>
+{\% endraw %}

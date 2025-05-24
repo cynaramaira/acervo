@@ -1,18 +1,19 @@
 ---
 id: 12372865
-date: "2006-09-26T21:38:00+00:00"
+date: "2006-09-26T21:38:00Z"
 last_modified_at: null
 tags:
-  - debate
-  - esquema-criminoso
+  - "debate"
+  - "esquema-criminoso"
 categories:
-  - noticias
-title: "Quem se sairá melhor no debate, daqui a pouco?"
+  - "noticias"
+title: "Quem se sair\u00e1 melhor no debate, daqui a pouco?"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O&nbsp;<STRONG>Blog</STRONG> vai acompanhar o último embate direto entre o governador e candidato à reeleição Mendonça Filho (PFL), os ex-ministros Humberto Costa (PT) e Eduardo Campos (PSB), Clóvis Corrêa (Prona), Rivaldo Soares (PSL) e Edilson Silva (P-SOL).</FONT></P></p>
 <p><P><FONT face=Verdana>Serão cinco blocos mediados por Francisco José. No total, duas horas de duração.</FONT></P></p>
 <p><P><FONT face=Verdana>Nos dois primeiros blocos haverá perguntas entre eles, com tema livre. </FONT></P></p>
@@ -23,3 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Clóvis Corrêa, Rivaldo Soares e Ed?lson Silva são franco-atiradores, mas tendem a disparar mais contra Mendonça.</FONT></P></p>
 <p><P><FONT face=Verdana>Vamos esperar. O primeiro time (Mendonça, Eduardo e Humberto) passou o dia descansando. </FONT></P></p>
 <p><P><FONT face=Verdana>A quatro dias da eleição, nenhum deles vai entrar nesse jogo para perder. Quem se sairá melhor?</FONT></P> </p>
+{\% endraw %}

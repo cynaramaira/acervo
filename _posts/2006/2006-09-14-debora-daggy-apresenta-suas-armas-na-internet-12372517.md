@@ -1,20 +1,21 @@
 ---
 id: 12372517
-date: "2006-09-14T11:33:00+00:00"
+date: "2006-09-14T11:33:00Z"
 last_modified_at: null
 tags:
-  - apresentadora
-  - armas
-  - debora-dantas
-  - internet
+  - "apresentadora"
+  - "armas"
+  - "debora-dantas"
+  - "internet"
 categories:
-  - noticias
-title: "Débora Daggy apresenta suas armas na Internet"
+  - "noticias"
+title: "D\u00e9bora Daggy apresenta suas armas na Internet"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Depois de algumas passagens-relâmpago pelo guia eleitoral, a candidata a deputada estadual pelo PSB de Eduardo Campos e ex-miss pró-Jarbas Vasconcelos (PMDB) está distribuindo uma mensagem via Orkut pedindo votos.</FONT></P></p>
 <p><P><FONT face=Verdana>No texto, apresenta-se e diz a que veio. Selecionei alguns trechos:</FONT></P></p>
 <p><P><FONT face=Verdana><EM>(...) gostaria muito de contar com o apoio de vcs nestas eleições, o meu interesse pela pol?tica vem de muito tempo.</EM></FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>(...)</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>Acredito que minha dedicação, meu idealismo, minha determinação serão úteis a Pernambuco.</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>beijossssss</EM></FONT></P> </p>
+{\% endraw %}

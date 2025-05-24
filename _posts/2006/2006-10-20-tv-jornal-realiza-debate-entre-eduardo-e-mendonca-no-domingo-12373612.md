@@ -1,22 +1,23 @@
 ---
 id: 12373612
-date: "2006-10-20T11:34:00+00:00"
+date: "2006-10-20T11:34:00Z"
 last_modified_at: null
 tags:
-  - debate
-  - domingo-show
-  - eduardo
-  - entrega
-  - mendonca
-  - tv-jornal
+  - "debate"
+  - "domingo-show"
+  - "eduardo"
+  - "entrega"
+  - "mendonca"
+  - "tv-jornal"
 categories:
-  - noticias
-title: "TV Jornal realiza debate entre Eduardo e Mendonça no domingo"
+  - "noticias"
+title: "TV Jornal realiza debate entre Eduardo e Mendon\u00e7a no domingo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>JC OnLine</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>A nove dias do segundo turno, muitos eleitores pernambucanos ainda estão indecisos sobre em qual candidato ao governo do Estado votar. </FONT></P></p>
 <p><P><FONT face=Verdana>A TV Jornal, do Sistema Jornal do Commercio de Comunicação, vai realizar um debate fundamental para essa decisão no próximo domingo (22), a partir das 21h10. </FONT></P></p>
@@ -29,3 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>N??VEL -</STRONG> De acordo com a diretora de jornalismo da TV Jornal, Beatriz Ivo, \"por respeito ao telespectador, os candidatos devem evitar agressões pessoais, f?sicas e palavras de baixo calão. Os excessos serão punidos com direito de resposta que será decidido pela produção do programa\". </FONT></P></p>
 <p><P><FONT face=Verdana>Ela acrescenta que \"a mediadora do debate advertirá o candidato que insistir em agressões, estando a produção autorizada a desligar o microfone\".</FONT></P></p>
 <p><P><FONT face=Verdana>Além da transmissão em tempo real, a TV Jornal também disponibilizará através do JC OnLine o debate logo depois de encerrada a exibição.</FONT></P> </p>
+{\% endraw %}

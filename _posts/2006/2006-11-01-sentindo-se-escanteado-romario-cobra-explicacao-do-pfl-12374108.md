@@ -1,17 +1,18 @@
 ---
 id: 12374108
-date: "2006-11-01T17:59:00+00:00"
+date: "2006-11-01T17:59:00Z"
 last_modified_at: null
 tags:
-  - cobra
+  - "cobra"
 categories:
-  - noticias
-title: "Sentindo-se escanteado, Romário cobra explicação do PFL"
+  - "noticias"
+title: "Sentindo-se escanteado, Rom\u00e1rio cobra explica\u00e7\u00e3o do PFL"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P align=justify><FONT face=Verdana>Atual presidente da Assembléia Legislativa, o deputado Romário Dias (PFL) está se sentindo&nbsp;escanteado pelo partido. </FONT></P></p>
 <p><P align=justify><FONT face=Verdana>A queixa do pefelista é que seu&nbsp; nome não está sendo inclu?do na&nbsp;lista de parlamentares que formarão a bancada de oposição ao novo governo. A articulação é encabeçada pelo l?der do PFL na Casa, Augusto Coutinho.</FONT></P></p>
 <p><P align=justify><FONT face=Verdana>Em carta aberta distribu?da hoje à&nbsp;imprensa, Romário desabafa, critica a postura de Coutinho e do presidente estadual do PFL, André de Paula, e exige explicações do partido, ao qual, segundo ele, sempre foi fiel. </FONT></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P align=justify><FONT face=Verdana><EM>Diferentemente da iniciativa tomada pelo senador Sérgio Guerra, por exemplo. Depois da derrota da União Por Pernambuco, Guerra reuniu os seus parlamentares estaduais e federais, fez uma avaliação do processo pol?tico. É isso que se espera de um l?der, de um pol?tico comprometido com os seus princ?pios e preocupado com o futuro do Estado. </EM></FONT></P></p>
 <p><P align=justify><FONT face=Verdana></FONT></P></p>
 <p><P align=justify><FONT face=Verdana><EM>Era isso que se esperava também de um partido com a história do PFL. Infelizmente, seus dirigentes não tiveram essa visão. Espero, todavia, que o Partido se explique sobre sua desconsideração com um integrante que sempre primou pelo respeito e zelo para com o PFL\".</EM></FONT></P> </p>
+{\% endraw %}

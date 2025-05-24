@@ -1,18 +1,19 @@
 ---
 id: 12371651
-date: "2006-08-16T20:50:00+00:00"
+date: "2006-08-16T20:50:00Z"
 last_modified_at: null
 tags:
-  - lula
-  - mendonca-filho
+  - "lula"
+  - "mendonca-filho"
 categories:
-  - noticias
-title: "Lula é de Mendonça Filho"
+  - "noticias"
+title: "Lula \u00e9 de Mendon\u00e7a Filho"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O governador deu agora há pouco uma jogada de mestre no guia eleitoral da TV.</FONT></P></p>
 <p><P><FONT face=Verdana>Em dois lances perfeitos derrubou muitas e importantes peças do tabuleiro de Humberto Costa e Eduardo Campos.</FONT></P></p>
 <p><P><FONT face=Verdana>Na verdade, colocou os dois no bolso. Apropriou-se sem nenhum pudor das imagens e relações amistosas com Lula e João Paulo.</FONT></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana>Se o tucano não crescer nas pesquisas rapidamente, estará frito em Pernambuco. </FONT></P></p>
 <p><P><FONT face=Verdana>Jarbas e Mendonça farão de tudo para se apropriar de Lula.</FONT></P></p>
 <p><P><FONT face=Verdana>Essa eleição, definitivamente, é para profissionais.</FONT></P> </p>
+{\% endraw %}

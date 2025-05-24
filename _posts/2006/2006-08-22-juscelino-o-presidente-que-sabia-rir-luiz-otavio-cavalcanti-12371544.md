@@ -1,19 +1,20 @@
 ---
 id: 12371544
-date: "2006-08-22T09:00:00+00:00"
+date: "2006-08-22T09:00:00Z"
 last_modified_at: null
 tags:
-  - joao-cavalcanti
-  - luiz-fuz
-  - presidente
+  - "joao-cavalcanti"
+  - "luiz-fuz"
+  - "presidente"
 categories:
-  - colunistas
-title: "Juscelino, o presidente que sabia rir (Luiz Otávio Cavalcanti)"
+  - "colunistas"
+title: "Juscelino, o presidente que sabia rir (Luiz Ot\u00e1vio Cavalcanti)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=5></p>
 <p><P><FONT face=Verdana size=2>Por <STRONG>Luiz Otavio Cavalcanti</STRONG>*<BR>Ex-secretário do Planejamento e da Fazenda de Pernambuco<BR><A href=\"mailto:lotavio@fsm.com.br\"><U><FONT color=#0000ff><FONT face=Verdana>lotavio@fsm.com.br</FONT></U></FONT></A></FONT></FONT><FONT face=Verdana></FONT></P></p>
 <p><P><FONT face=Verdana>O presidente Lula diz que quer repetir o governo de Juscelino; o candidato Alckmin que seu modelo é Juscelino. O que teve o ex-presidente JK (Juscelino Kubitschek, presidente da República de 1955 a 1960) de tão extraordinário a ponto de unir as aspirações dos dois maiores opostos da próxima eleição presidencial?</FONT></P></p>
@@ -59,3 +60,4 @@ imagem: null
 <p><P><FONT face=Verdana>Ao deixar o governo, o refrão pol?tico mais ouvido no Brasil era JK 65, ecoando o desejo da população por sua volta ao governo. Mas esse não era o plano dos militares. JK, eleito senador por Goiás, foi cassado. Os governos militares duraram de 1964 a 1985 quando Tancredo se elegeu indiretamente. Com a morte de Tancredo, antes da posse, Sarney, vice, assumiu a presidência.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Próxima semana, FHC, o pensador que acordou presidente.</STRONG></FONT></P><FONT face=Verdana></p>
 <p><P><FONT face=Verdana><EM><STRONG>*Luiz Otavio Cavalcanti</STRONG>, 60, advogado, executivo e ex-secretário do Planejamento (1975/79 e 1991/92) e da Fazenda (1983/86 e 1992/93) de Pernambuco. Recifense, Cavalcanti dirige hoje a entidade mantenedora da Faculdade Santa Maria. É autor, entre outros livros, de Como a corrupção abalou o governo Lula (Ed. Ediouro, 2005), Administradores, quem somos nós? (Ed. Bagaço, 2005) e Ensaiando Pernambuco (Ed. Bagaço, 2005). </EM></FONT></P></FONT> </p>
+{\% endraw %}

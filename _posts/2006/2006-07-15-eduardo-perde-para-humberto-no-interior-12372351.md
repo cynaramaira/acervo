@@ -1,19 +1,20 @@
 ---
 id: 12372351
-date: "2006-07-15T16:36:00+00:00"
+date: "2006-07-15T16:36:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - humberto-costa
-  - interior
+  - "eduardo"
+  - "humberto-costa"
+  - "interior"
 categories:
-  - noticias
+  - "noticias"
 title: "Eduardo perde para Humberto no Interior"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><TABLE cellSpacing=1 cellPadding=3 width=500 bgColor=#6ca7a6 border=0></p>
 <p><TBODY></p>
 <p><TR bgColor=#e0e4e5></p>
@@ -107,3 +108,4 @@ imagem: null
 <p><DIV align=right><FONT color=#eaf0ee><STRONG><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" color=#cc0000 size=2>26%</FONT></STRONG></FONT></DIV></TD></p>
 <p><TD></p>
 <p><DIV align=right><FONT color=#eaf0ee><STRONG><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" color=#cc0000 size=2>12%</FONT></STRONG></FONT></DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE> </p>
+{\% endraw %}

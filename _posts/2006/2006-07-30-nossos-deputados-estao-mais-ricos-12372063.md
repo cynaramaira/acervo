@@ -1,18 +1,19 @@
 ---
 id: 12372063
-date: "2006-07-30T09:30:00+00:00"
+date: "2006-07-30T09:30:00Z"
 last_modified_at: null
 tags:
-  - blocos-liricos
-  - deputados
+  - "blocos-liricos"
+  - "deputados"
 categories:
-  - noticias
-title: "Nossos deputados estão mais ricos"
+  - "noticias"
+title: "Nossos deputados est\u00e3o mais ricos"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Jorge Cavalcanti<BR></STRONG></FONT><FONT face=Verdana>Repórter do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>A soma do patrimônio declarado dos deputados estaduais cresceu 89,6% em quatro anos. </FONT></P></p>
 <p><P><FONT face=Verdana>Em 2002, os bens dos parlamentares estavam avaliados em cerca de R$ 16,8 milhões, segundo as declarações apresentadas ao Tribunal Regional Eleitoral (TRE) de Pernambuco. </FONT></P></p>
@@ -21,3 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>De todos os 49 estaduais, o levantamento do JC deixou de fora apenas Adelmo Duarte (PFL), pois o processo de registro de candidatura de 2002 do pefelista não constava na biblioteca do TRE. </FONT></P></p>
 <p><P><FONT face=Verdana>Este ano, o deputado declarou cerca de R$ 279,5 mil, e garantiu que não houve acréscimo em quatro anos, embora não tenha apresentado cópia da declaração de 2002.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://www.jc.com.br/\" target=_blank>aqui</A></EM></STRONG> o texto completo (assinantes JC e UOL).</FONT></P> </p>
+{\% endraw %}

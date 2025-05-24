@@ -1,20 +1,21 @@
 ---
 id: 12373254
-date: "2006-10-07T18:20:00+00:00"
+date: "2006-10-07T18:20:00Z"
 last_modified_at: null
 tags:
-  - animais
-  - lula
-  - nordeste
-  - votos-nulos
+  - "animais"
+  - "lula"
+  - "nordeste"
+  - "votos-nulos"
 categories:
-  - noticias
+  - "noticias"
 title: "Mais votos para Lula no Nordeste"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do <STRONG><EM><A href=\"https://www.noblat.com.br/\" target=_blank>blog</A></EM></STRONG> de Noblat</FONT></P></p>
 <p><P><FONT face=Verdana>Anote a?: Lula deverá ter mais votos no Nordeste do que teve no primeiro turno. </FONT></P></p>
 <p><P><FONT face=Verdana>Na Bahia de Antonio Carlos Magalhães (PFL), por exemplo, Lula atraiu 66% dos votos válidos contra 26% de Alckmin.</FONT></P></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>Roseana Sarney (PFL) e Jackson Lago (PDT) tercerão armas pelo governo do Maranhão - mas os dois estão com Lula e não abrem.</FONT></P></p>
 <p><P><FONT face=Verdana>Teotônio Vilela Filho, governador eleito de Alagoas, está com Alckmin, candidato do seu partido. Sabe, contudo, da adesão a Lula de prefeitos que o ajudaram a se eleger governador. </FONT></P></p>
 <p><P><FONT face=Verdana>E nada pode fazer.</FONT></P> </p>
+{\% endraw %}

@@ -1,18 +1,19 @@
 ---
 id: 12371521
-date: "2006-08-22T20:20:00+00:00"
+date: "2006-08-22T20:20:00Z"
 last_modified_at: null
 tags:
-  - lideranca-indigena
-  - lula
+  - "lideranca-indigena"
+  - "lula"
 categories:
-  - noticias
-title: "Lula consolida liderança nos primeiros dias de guia"
+  - "noticias"
+title: "Lula consolida lideran\u00e7a nos primeiros dias de guia"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p>Pesquisa Datafolha divulgada h&aacute; pouco pelo Jornal Nacional e que j&aacute; traz os primeiros efeitos do guia eleitoral na TV e no r&aacute;dio mostra que o presidente Lula venceria com folga no primeiro turno.</p>
 <p>Entre o final de junho e agora, ele cresceu tr&ecirc;s pontos percentuais. Alckmin, seu principal advers&aacute;rio, caiu quatro pontos.</p>
 <p>Helo?sa Helena, que cresceu quatro pontos entre 30 de junho e 18 de julho, estabilizou na faixa dos 10 pontos.</p>
@@ -36,3 +37,4 @@ imagem: null
 <p>Ruim e p&eacute;ssimo 21 18 16</p>
 <p>---------------------------------</p>
 <p>O Ibope, segundo o JN, ouviu 6.279 eleitores em 272 munic?pios ontem e hoje. A margem de erro &eacute; de dois pontos percentuais para mais e para menos.</p>
+{\% endraw %}

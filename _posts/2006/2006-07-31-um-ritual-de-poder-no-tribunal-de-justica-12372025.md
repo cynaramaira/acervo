@@ -1,19 +1,20 @@
 ---
 id: 12372025
-date: "2006-07-31T22:51:00+00:00"
+date: "2006-07-31T22:51:00Z"
 last_modified_at: null
 tags:
-  - justica
-  - poderosa
-  - tribunal
+  - "justica"
+  - "poderosa"
+  - "tribunal"
 categories:
-  - noticias
-title: "Um ritual de poder no Tribunal de Justiça"
+  - "noticias"
+title: "Um ritual de poder no Tribunal de Justi\u00e7a"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>A escolha do novo desembargador do Tribunal de Justiça de Pernambuco foi selada numa votação secreta, conduzida pelo presidente da Corte, Fausto Freitas.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>&nbsp;<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Contados os votos dos 33 desembargadores aptos a participar da eleição, veio a surpresa. Venceu Francisco Bandeira.</FONT></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><SPAN style=\"FONT-SIZE: 12pt; FONT-FAMILY: \Times New Roman\; mso-fareast-font-family: \Times New Roman\; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA\"><FONT face=Verdana size=2>Neves acabou preterido, apesar de ter sido o mais bem votado na eleição direta da OAB e na secreta do TJ.</FONT></SPAN></P></p>
 <p><P><SPAN style=\"FONT-SIZE: 12pt; FONT-FAMILY: \Times New Roman\;</p>
 <p> mso-fareast-font-family: \Times New Roman\; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA\"><FONT face=Verdana size=2>Para entender toda essa história, clique <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/07/31/index.php#385\">aqui</A></EM></STRONG>.</FONT></SPAN></P> </p>
+{\% endraw %}

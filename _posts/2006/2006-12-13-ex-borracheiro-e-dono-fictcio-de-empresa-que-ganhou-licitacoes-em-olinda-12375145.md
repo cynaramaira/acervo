@@ -1,18 +1,19 @@
 ---
 id: 12375145
-date: "2006-12-13T17:49:00+00:00"
+date: "2006-12-13T17:49:00Z"
 last_modified_at: null
 tags:
-  - empresa
-  - olinda
+  - "empresa"
+  - "olinda"
 categories:
-  - noticias
-title: "Ex-borracheiro  é dono fict?cio de empresa que ganhou licitações em Olinda"
+  - "noticias"
+title: "Ex-borracheiro  \u00e9 dono fict?cio de empresa que ganhou licita\u00e7\u00f5es em Olinda"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O Blog do JC dá uma dica para que o Ministério Público de Olinda encontre mais um dos laranja das empresas fantasmas que atuavam na Secretaria de Obras.</FONT></P></p>
 <p><P><FONT face=Verdana>Edson Alves da Silva, o suposto sócio da&nbsp;Construtora Porteiras Ltda, uma das empresas acusadas de participar das fraudes nas licitações em Olinda, na verdade é funcionário da empresa Construtora da Silva e Filho, outra empresa envolvida nas irregularidades e a única que ainda mantém contratos formais com o munic?pio de Olinda. Edson trabalha como encarregado das obras que a empresa toca em Jardim Brasil. .</FONT></P></p>
 <p><P><FONT face=Verdana>Caso já tivesse ouvido os funcionários e os moradores da Rua Rio Grande do Sul, em Jardim Brasil, onde a Da Silva e Filho trabalha em uma obra da PCR, o MP teria constatado as relações estreitas. \"Os próprios trabalhadores nos contam que ele é o dono da Porteiras. Ele próprio confirmou isto a um dos empregados mais antigos da firma, José Manoel da Luz, mais conhecido como Bruto\", revela Heleno Pereira da Silva, morador do local. </FONT></P></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>Segundo os vizinhos, Edson seria peão de obras e ajudante de pedreiro, justamente as funções que desempenha na Da Silva e Filhos, não sendo um empresário, como os registros oficiais da Jucepe. Os dois moram em Maranguape 0 há mais de 20 anos, em um apartamento herdado da fam?lia.</P></FONT></p>
 <p><P><FONT face=Verdana>Caso aprofunde as investigações, o MP chegará ao verdadeiro dono das três empresas. A chave é o ex-borracheiro desempregado Edson Alves da Silva. Vizinhos dos dois bairros populares contaram ao JC que Edileuza Ribeiro de Lucena, mulher do Edson da Poteiras, tem uma irmã chamada Eliane Ribeiro de Lucena, casada com Idinaldo Valentin, cujo nome aparece assinando cheques em nome da Porteiras, embora oficialmente não tenha relação com a construtora.</FONT></P></p>
 <p><P><FONT face=Verdana>\"Ele diz que é v?tima. Prestava serviços para a fam?lia Idinaldo. Pediram a documentação dele para cadastrá-lo na empresa e ele não teve como dizer não, depois de passar um monte de tempo parado\", informou uma fonte do JC, pedindo anonimato</FONT></P> </p>
+{\% endraw %}

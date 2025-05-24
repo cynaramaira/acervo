@@ -1,20 +1,21 @@
 ---
 id: 12372597
-date: "2006-09-18T06:10:00+00:00"
+date: "2006-09-18T06:10:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao Governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></p>
 <p><P><FONT face=Verdana>Às 14h30</FONT></B><FONT face=Verdana>, grava entrevista para o programa do colunista João Alberto. Local: Estação Sat, Canal 14</FONT></P><B></p>
@@ -30,3 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>Às 10h</FONT></B><FONT face=Verdana>, faz caminhada nas comunidades em volta do Detran</FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 16h</FONT></B><FONT face=Verdana>,<B> </B>concede entrevista à Estação Sat</FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 19h</FONT></B><FONT face=Verdana>,<B> </B>caminhada e com?cio relâmpago no Sitio do Cardoso</FONT> </P></FONT> </p>
+{\% endraw %}

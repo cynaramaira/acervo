@@ -1,17 +1,18 @@
 ---
 id: 12375373
-date: "2006-12-27T16:39:00+00:00"
+date: "2006-12-27T16:39:00Z"
 last_modified_at: null
 tags:
-  - skate
+  - "skate"
 categories:
-  - noticias
-title: "Gratificações elevam vencimentos até R$ 28,5 mil no Tribunal de Contas do Estado"
+  - "noticias"
+title: "Gratifica\u00e7\u00f5es elevam vencimentos at\u00e9 R$ 28,5 mil no Tribunal de Contas do Estado"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O Supremo Tribunal Federal (STF) acabou de barrar, no último dia 15 de dezembro, a pretensão dos promotores e procuradores estaduais de receber salários acima dos R$ 22.111, considerando insconsitucional qualquer valor acima deste teto nos Estados. </FONT></P></p>
 <p><P><FONT face=Verdana>Em Pernambuco, no entanto, o teto está sendo descumprido até pelo Tribunal de Contas do Estado (TCE), responsável pelo julgamento das contas do Estado e munic?pios.</FONT></P></p>
 <p><P><FONT face=Verdana>Apesar do estabelecimento de um teto, a Assembléia Legislativa aprovou e o governador José Mendonça Filho (PFL) sancionou uma lei prevendo remuneração e gratificações que elevam os vencimentos totais do Procurador Geral do Ministério Público de Contas (MP de Contas) para até R$ 27,6 mil, em abril do próximo ano, já na gestão Eduardo Campos (PSB).</FONT></P></p>
@@ -31,3 +32,4 @@ imagem: null
 <p><P><FONT face=Verdana>São vantagens como essas que tanto atraem o interesse de deputados estaduais para as vagas que são abertas regularmente, com a aposentadoria dos conselheiros. </FONT></P></p>
 <p><P><FONT face=Verdana><EM>Ainda hoje vamos abordar também esse assunto.</EM></FONT></P></p>
 <p><P><FONT face=Verdana>*Leia <A href=\"https://jc3.uol.com.br/jornal/2006/12/16/not_212815.php\" target=_blank><STRONG><EM>aqui</EM></STRONG></A> a matéria: <EM>\"STF barra supersalário do Ministério Público\"</EM>, divulgada no Jornal do Commercio no último dia 16/12. </FONT></P> </p>
+{\% endraw %}

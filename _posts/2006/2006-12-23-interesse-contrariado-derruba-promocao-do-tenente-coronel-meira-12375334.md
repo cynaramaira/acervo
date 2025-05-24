@@ -1,17 +1,18 @@
 ---
 id: 12375334
-date: "2006-12-23T11:55:00+00:00"
+date: "2006-12-23T11:55:00Z"
 last_modified_at: null
 tags:
-  - palmeiras
+  - "palmeiras"
 categories:
-  - noticias
-title: "Interesse contrariado derruba promoção do tenente-coronel Meira"
+  - "noticias"
+title: "Interesse contrariado derruba promo\u00e7\u00e3o do tenente-coronel Meira"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P>O<FONT face=Verdana> que vale mais em Pernambuco ? Os direiros humanos ou interesses contrariados ? A julgar pelos fatos que acompanhamos recentemente, segundo ganha de lavada. </FONT></P></p>
 <p><P><FONT face=Verdana>Os leitores do <STRONG>Blog do JC</STRONG> sabem desde o dia 16 de dezembro que o coordenador do Movimento Nacional de Direitos Humanos (MNDH), Ivan Moraes Filho, tenta barrar a promoção do tenente-coronel Meira a coronel. </FONT></P></p>
 <p><P><FONT face=Verdana>Ontem, n</FONT><FONT face=Verdana><I>uma ação contra o comandante-geral da corporação, tenente-coronel César Juvenal de Matos, questionando a lista de promoção que inclui o coronel Luiz Meira, chefe do Batalhão de Choque, conseguiu o que a sociedade cobrava através de movimento social.</I><BR><BR></FONT><FONT face=Verdana>Veja o que escreveu o jovem e intrépido reporter de Pol?tica Jorge Cavalcanti na edição do JC de hoje.</FONT></P></p>
@@ -29,3 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"De acordo com as informações que recebemos internamente na PM, já há um boletim interno da corporacão listando o nome de Meira para promoção, ao lado do tenente-coronel Matos (ao lado de Meira, foi o comandante da operação de reintegração de posse no Engenho Prado, em Tracunhaém). Como uma pessoa que está sendo investigada por abuso de autoridade pode ser promovida ? Infelizmente, isto é a cultura que impera neste Estado. Com a ação, queremos cobrar um posicionamento da PM\", afirma o articulador local do MNDH, Ivan Moraes Júnior.</FONT></P></p>
 <p><P><FONT face=Verdana>Na semana que vem, o tenente-coronel Meira já será ouvido pelo MP local no inquérito que apura abuso de poder durante os protestos de estudantes, em novembro do ano passado.</FONT></P></p>
 <p><P><FONT face=Verdana>Só uma curiosidade adicional: a esposa do tenente-coronel Meira é prima leg?tima de Renata Campos, mulher do governador eleito Eduardo Campos (PSB).</FONT></P><FONT face=Arial></FONT> </p>
+{\% endraw %}

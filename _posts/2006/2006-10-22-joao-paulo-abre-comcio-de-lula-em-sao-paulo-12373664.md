@@ -1,20 +1,21 @@
 ---
 id: 12373664
-date: "2006-10-22T10:31:00+00:00"
+date: "2006-10-22T10:31:00Z"
 last_modified_at: null
 tags:
-  - joao-d
-  - lula
-  - paulo
-  - sao-paulo
+  - "joao-d"
+  - "lula"
+  - "paulo"
+  - "sao-paulo"
 categories:
-  - noticias
-title: "João Paulo abre com?cio de Lula em São Paulo"
+  - "noticias"
+title: "Jo\u00e3o Paulo abre com?cio de Lula em S\u00e3o Paulo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 14pt; COLOR: black; FONT-FAMILY: Verdana\"><FONT size=2></FONT></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 14pt; COLOR: black; FONT-FAMILY: Verdana\"><FONT size=2>O prefeito do Recife, João Paulo, está neste momento participando de uma caminhada pró-Lula em São Paulo. </FONT></SPAN><SPAN style=\"FONT-SIZE: 14pt; COLOR: black; FONT-FAMILY: Verdana\"><FONT size=2></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 14pt; COLOR: black; FONT-FAMILY: Verdana\"><FONT size=2></FONT></SPAN>&nbsp;</P></p>
@@ -34,3 +35,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 14pt; COLOR: black; FONT-FAMILY: Verdana\"><FONT size=2></FONT></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 14pt; COLOR: black; FONT-FAMILY: Verdana\"><FONT size=2>\"Estamos tentando encontrar alguma brecha. Vou conversar isso hoje ainda\", disse João Paulo, pedindo para encerrar a entrevista porque estava converrando com César Alvares, um dos coordenadores de campanha&nbsp;de Lula.&nbsp;\"Ele cuida da agenda do presidente\", finalizou.</FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 14pt; COLOR: black; FONT-FAMILY: Verdana\">&nbsp;<o:p></o:p></SPAN></P> </p>
+{\% endraw %}

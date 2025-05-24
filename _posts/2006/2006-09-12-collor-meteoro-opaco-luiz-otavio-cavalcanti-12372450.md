@@ -1,20 +1,21 @@
 ---
 id: 12372450
-date: "2006-09-12T08:00:00+00:00"
+date: "2006-09-12T08:00:00Z"
 last_modified_at: null
 tags:
-  - fernando-collor
-  - joao-cavalcanti
-  - luiz-fuz
-  - meteorologia
+  - "fernando-collor"
+  - "joao-cavalcanti"
+  - "luiz-fuz"
+  - "meteorologia"
 categories:
-  - colunistas
-title: "Collor, meteoro opaco (Luiz Otávio Cavalcanti)"
+  - "colunistas"
+title: "Collor, meteoro opaco (Luiz Ot\u00e1vio Cavalcanti)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Luiz Otávio Cavalcanti*<BR></STRONG>Ex-secretário do Planejamento e da Fazenda de Pernambuco<BR></FONT><A href=\"mailto:lotavio@fsm.com.br\"><FONT face=Verdana>lotavio@fsm.com.br</FONT></A></P></p>
 <p><P><BR><FONT face=Verdana>Os presidentes da República, no Brasil, têm sido conciliadores, pragmáticos, flex?veis e otimistas. Assim foram Getúlio, pragmático; Juscelino, otimista; FHC, amb?guo; e assim é Lula, flex?vel. Mas, dois deles, escaparam a esse padrão, Jânio e Collor. Sobre Jânio, falei no artigo da semana passada. A respeito de Collor, escrevo agora.</FONT></P></p>
 <p><P><FONT face=Verdana>Três caracter?sticas culturais de natureza pessoal aproximaram Jânio e Collor:</FONT></P></p>
@@ -37,3 +38,4 @@ imagem: null
 <p><P><FONT face=Verdana>Solidão feita de silêncios pol?ticos; populismo feito de inaptidão republicana; inconciliação, impasse. Retrato em preto e branco de espasmo antes colorido, jogando murro que socava o ar e não queria dizer nada. O resultado foi beco sem sa?da pol?tico: economia estagnada, colapso do sistema pol?tico, impeachment.</FONT></P></p>
 <p><P><FONT face=Verdana>Retrato pouco brasileiro, não culturalmente brasileiro, Collor presidente não alimentou as vocações nacionais de negociação e entendimento. No fundo, ele e Jânio não evitaram o c?rculo de egocentrismo em que viviam mergulhados. Assemelhados na inviabilidade pol?tica, Jânio e Collor viveram experiências diversas ao lidar com o poder. Jânio cultivou o poder no voto. Renunciando, buscava mais poder no golpe. Fingiu desprezar o poder querendo ampliá-lo. Por sua vez, Collor manipulou o poder tornando-o objeto de projeto pessoal. Mas foi sendo afastado do poder incontornavelmente. Jânio afastou-se querendo se aproximar do poder. Collor aproximou-se do poder, desfigurou-o e foi afastado. </FONT></P></p>
 <p><P><FONT face=Verdana>Ambos, por caminhos diferentes, deixaram a trilha do poder. E, na ausência de valores culturais, perderam o sentido do Brasil.<BR><BR><EM><STRONG>*Luiz Otavio Cavalcanti</STRONG>, 60, advogado, executivo e ex-secretário do Planejamento (1975/79 e 1991/92) e da Fazenda (1983/86 e 1992/93) de Pernambuco. Recifense, Cavalcanti dirige hoje a entidade mantenedora da Faculdade Santa Maria. É autor, entre outros livros, de Como a corrupção abalou o governo Lula (Ed. Ediouro, 2005), Administradores, quem somos nós? (Ed. Bagaço, 2005) e Ensaiando Pernambuco (Ed. Bagaço, 2005).</EM></FONT></P> </p>
+{\% endraw %}

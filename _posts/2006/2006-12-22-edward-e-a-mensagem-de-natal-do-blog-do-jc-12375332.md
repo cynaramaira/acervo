@@ -1,19 +1,20 @@
 ---
 id: 12375332
-date: "2006-12-22T22:44:00+00:00"
+date: "2006-12-22T22:44:00Z"
 last_modified_at: null
 tags:
-  - blogs-jc
-  - edward
-  - natal
+  - "blogs-jc"
+  - "edward"
+  - "natal"
 categories:
-  - noticias
+  - "noticias"
 title: "Edward e a mensagem de Natal do Blog do JC"
 sutia: null
 chapeu: null
 autor: "jamildo"
 imagem: null
 ---
+{\% raw %}
 <p>A mensagem de Natal que eu ofere&ccedil;o a voc&ecirc;s &eacute; inspirada no jornalista americano Edward Murrow, cuja vida profissional &eacute; exemplo de inspira&ccedil;&atilde;o para todo profissional da &aacute;rea.</p>
 <p>Nesta hora de reflex&atilde;o, gostaria de compartilhar alguns desses ensinamentos com voc&ecirc;s.</p>
 <p>Ele deu um exemplo pessoal de que se deve lutar at&eacute; cair.</p>
@@ -36,3 +37,4 @@ imagem: null
 <p>Ele era uma daquelas pessoas civilizadas, que n&atilde;o for&ccedil;am ningu&eacute;m a concordar com seus princ?pios pol?ticos como condi&ccedil;&atilde;o para uma conversa civilizada.</p>
 <p>Gente madura pode conversar e polemizar, sem ser convertida ou contaminada.</p>
 <p>Assim, eu e Cec?lia Ramos desejamos a voc&ecirc;s, leitores do Blog do JC, um bom Natal.</p>
+{\% endraw %}

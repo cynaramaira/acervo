@@ -1,17 +1,18 @@
 ---
 id: 12372239
-date: "2006-07-21T17:36:00+00:00"
+date: "2006-07-21T17:36:00Z"
 last_modified_at: null
 tags:
-  - humberto-costa
+  - "humberto-costa"
 categories:
-  - noticias
-title: "Guia começa com Oswaldo e termina com Humberto"
+  - "noticias"
+title: "Guia come\u00e7a com Oswaldo e termina com Humberto"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Acaba de sair a divisão do tempo do guia eleitoral na TV e no rádio em Pernambuco, informa Clóvis Andrade, repórter do JC. </FONT></P></p>
 <p><P><FONT face=Verdana>O guia começa em 15 de agosto e passa 45 dias no ar. Segundas, quartas e sextas teremos programas para governador, senador e deputado estadual. Terças, quintas e sábados, para federal e presidente da República.</FONT></P></p>
@@ -37,3 +38,4 @@ imagem: null
 <p><P><FONT face=Verdana>Luiz Vidal (PSDC)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21</FONT></P></p>
 <p><P><FONT face=Verdana>Rivaldo Soares (PSL)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 20</FONT></P></p>
 <p><P><FONT face=Verdana>Humberto Costa (PT)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 115</FONT></P></FONT> </p>
+{\% endraw %}

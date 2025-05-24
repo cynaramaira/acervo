@@ -1,20 +1,21 @@
 ---
 id: 12371591
-date: "2006-08-20T06:55:00+00:00"
+date: "2006-08-20T06:55:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao Governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B></p>
 <p><P><FONT face=Verdana>O candidato não tem compromisso de campanha, hoje</FONT></P><B></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>19h</STRONG>, em Flores, carreata e com?cio</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>20h30</STRONG>, em Calumbi, carreata e com?cio </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>22h</STRONG>, em Triunfo, carreta e reuniao com lideranças</FONT></P></FONT> </p>
+{\% endraw %}

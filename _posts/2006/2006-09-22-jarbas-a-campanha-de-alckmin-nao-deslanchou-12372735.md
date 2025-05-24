@@ -1,20 +1,21 @@
 ---
 id: 12372735
-date: "2006-09-22T14:36:00+00:00"
+date: "2006-09-22T14:36:00Z"
 last_modified_at: null
 tags:
-  - campanha
-  - geraldo-alckmin
-  - jarbas-vasconcelos
-  - naomi-campbell
+  - "campanha"
+  - "geraldo-alckmin"
+  - "jarbas-vasconcelos"
+  - "naomi-campbell"
 categories:
-  - noticias
-title: "Jarbas: A campanha de Alckmin não deslanchou"
+  - "noticias"
+title: "Jarbas: A campanha de Alckmin n\u00e3o deslanchou"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal><SPAN lang=PT-BR><FONT face=Verdana>Esta é a avaliação do&nbsp;ex-governador e candidato ao Senado pelo PMDB, Jarbas Vasconcelos, maior cabo-eleitoral de Geraldo Alckmin em Pernambuco.</FONT></SPAN></P></p>
 <p><P class=MsoNormal><SPAN lang=PT-BR><FONT face=Verdana>O peemedebista aconselha o presidenciável tucano&nbsp;a ser \"mais agressivo\" e diz que o guia eleitoral dele é \"burocrático\". </FONT></SPAN></P></p>
 <p><P class=MsoNormal><SPAN lang=PT-BR><FONT face=Verdana>Sobre o presidente Lula (PT), Jarbas destacou a \"competência\" do petista em se desvincular do PT, desde o episódio do mensalão.</FONT></SPAN></P></p>
@@ -30,3 +31,4 @@ imagem: null
 <p><P class=MsoNormal><SPAN lang=PT-BR><SPAN lang=PT-BR><FONT face=Verdana>“Ca?ram muitas pessoas. Quem imaginava que o capitão do time ia cair? Ele dizia que o capitão era Dirceu. O capitão foi expulso. Quem imaginava a queda do Palocci? Ministro da Fazenda poderoso que quebrou o sigilo de um caseiro???.</FONT></SPAN></SPAN></P></p>
 <p><P class=MsoNormal><SPAN lang=PT-BR><FONT face=Verdana><STRONG>SOBRE O CONVITE PARA SER VICE DE LULA:</STRONG></FONT></SPAN></P></p>
 <p><P class=MsoNormal><SPAN lang=PT-BR><FONT face=Verdana>\"A minha formação não casa com o PT???.</FONT></SPAN></P> </p>
+{\% endraw %}

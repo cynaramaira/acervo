@@ -1,18 +1,19 @@
 ---
 id: 12372151
-date: "2006-07-25T20:38:00+00:00"
+date: "2006-07-25T20:38:00Z"
 last_modified_at: null
 tags:
-  - cerveja
-  - sao-paulo
+  - "cerveja"
+  - "sao-paulo"
 categories:
-  - noticias
-title: "Veja os números no Rio e em São Paulo"
+  - "noticias"
+title: "Veja os n\u00fameros no Rio e em S\u00e3o Paulo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P style=\"LINE-HEIGHT: 12pt\"><B><SPAN style=\"FONT-SIZE: 9pt; COLOR: #2a2a2a; FONT-FAMILY: Arial\"><FONT face=Verdana><FONT size=2>1º turno<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></FONT></SPAN></B></P></p>
 <p><P style=\"LINE-HEIGHT: 12pt\"><STRONG><SPAN style=\"FONT-WEIGHT:</p>
 <p> normal; FONT-SIZE: 9pt; COLOR: #2a2a2a; FONT-FAMILY: Arial\"><o:p><FONT face=Verdana></FONT></o:p></SPAN></STRONG></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P style=\"LINE-HEIGHT: 12pt\"><SPAN style=\"FONT-SIZE: 9pt; COLOR: #2a2a2a; FONT-FAMILY: Arial\"><FONT face=Verdana><FONT size=2>Aloizio Mercadante (PT-SP)<SPAN style=\"mso-tab-count: 1\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN>13%<o:p></o:p></FONT></FONT></SPAN></P></p>
 <p><P style=\"LINE-HEIGHT: 12pt\"><SPAN style=\"FONT-SIZE: 9pt; COLOR: #2a2a2a; FONT-FAMILY: Arial\"><FONT face=Verdana><FONT size=2>Orestes Quércia (PMDB)<SPAN style=\"mso-tab-count: 2\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN><SPAN style=\"mso-spacerun: yes\">&nbsp; </SPAN>9%<o:p></o:p></FONT></FONT></SPAN></P></p>
 <p><P style=\"LINE-HEIGHT: 12pt\"><FONT face=Verdana><FONT size=2><SPAN style=\"FONT-SIZE: 9pt; COLOR: #2a2a2a; FONT-FAMILY: Arial\">&nbsp;</SPAN><SPAN style=\"FONT-SIZE: 9pt; COLOR: #2a2a2a; FONT-FAMILY: Arial\">A margem de erro é de dois pontos percentuais para mais e para menos.</SPAN></FONT></FONT></P> </p>
+{\% endraw %}

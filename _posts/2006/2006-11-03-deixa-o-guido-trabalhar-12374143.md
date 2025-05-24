@@ -1,17 +1,18 @@
 ---
 id: 12374143
-date: "2006-11-03T10:02:00+00:00"
+date: "2006-11-03T10:02:00Z"
 last_modified_at: null
 tags:
-  - sem-tags
+  - "sem-tags"
 categories:
-  - noticias
+  - "noticias"
 title: "Deixa o Guido trabalhar"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P><SPAN style=\"FONT-SIZE: 10pt; COLOR: #333333; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\">Acabei de publicar na seção Artigos, na coluna ao lado, o artigo semanal do professor Pierre Lucena, sobre o </SPAN><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold; mso-bidi-font-style: italic\">processo de fritura do Ministro da Economia, Guido Mantega</SPAN><SPAN style=\"FONT-SIZE: 10pt; COLOR: #333333; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\">. Abaixo alguns trechos do texto.</SPAN><SPAN style=\"FONT-SIZE: 10pt; COLOR: #333333; FONT-FAMILY: Arial\"><o:p></o:p></SPAN></p>
 <p><P></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P style=\"TEXT-ALIGN: justify\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold; mso-bidi-font-style: italic\"></SPAN><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold; mso-bidi-font-style: italic\">(...) Pois bem, desde que o Ministro Guido Mantega assumiu o Ministério da Economia, podemos observar uma inflexão na curva de taxa de juros, levando a mesma a patamares mais civilizados, e com perspectivas mais otimistas para a economia brasileira nos próximos anos.</SPAN></P></p>
 <p><P style=\"TEXT-ALIGN: justify\"><SPAN</p>
 <p> style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold; mso-bidi-font-style: italic\">Leia o texto completo <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/11/03/not_3087.php\">aqui</A></EM></STRONG>.</SPAN><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold; mso-bidi-font-style: italic\"><SPAN style=\"mso-tab-count: 1\">&nbsp;&nbsp;&nbsp;&nbsp;</SPAN></SPAN></P> </p>
+{\% endraw %}

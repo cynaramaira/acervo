@@ -1,18 +1,19 @@
 ---
 id: 12372507
-date: "2006-09-14T07:21:00+00:00"
+date: "2006-09-14T07:21:00Z"
 last_modified_at: null
 tags:
-  - mendonca
-  - problemas-auditivos
+  - "mendonca"
+  - "problemas-auditivos"
 categories:
-  - noticias
-title: "Mendonça descarta problemas com aliados"
+  - "noticias"
+title: "Mendon\u00e7a descarta problemas com aliados"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT</p>
 <p> size=2></p>
 <p><P><FONT face=Verdana>Por </FONT><FONT face=Verdana><B>Jorge Cavalcanti<BR></B>Do Jornal do Commercio</FONT></P></p>
@@ -21,3 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>Em uma rápida caminhada ao lado do governador, em Jaboatão Centro, Jarbas reforçou o discurso de Mendonça. \"Não existe isso. Inclusive, a reunião foi convocada para que os parlamentares que têm atuação na região metropolitana possam juntar (as campanhas) mais, para ter uma agenda comum\", afirmou. Para o peemedebista, o que há é um \"pouco de ansiedade e inquietação\" por causa da eleição. \"Mas isso é normal\", avaliou.</FONT></P></p>
 <p><P><FONT face=Verdana>(...)</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/\">aqui</A></EM></STRONG> (assinantes JC e UOL)</FONT></P></FONT> </p>
+{\% endraw %}

@@ -1,21 +1,22 @@
 ---
 id: 12373348
-date: "2006-10-10T17:15:00+00:00"
+date: "2006-10-10T17:15:00Z"
 last_modified_at: null
 tags:
-  - humberto-costa
-  - joao-d
-  - mandado-de-prisao
-  - naomi-campbell
-  - paulo
+  - "humberto-costa"
+  - "joao-d"
+  - "mandado-de-prisao"
+  - "naomi-campbell"
+  - "paulo"
 categories:
-  - noticias
-title: "De João Paulo para Humberto: Em general não se manda"
+  - "noticias"
+title: "De Jo\u00e3o Paulo para Humberto: Em general n\u00e3o se manda"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O prefeito do Recife está mesmo incomodado com Humberto Costa. Rindo, em tom de brincadeira, ele acabou de dizer o seguinte, conforme relato de Cec?lia Ramos, repórter do <STRONG>Blog</STRONG>:</FONT></P></p>
 <p><P><FONT face=Verdana>\"Humberto só esqueceu de dizer uma coisa: em general não se manda. General, no máximo, ouve\".</FONT></P></p>
 <p><P><FONT face=Verdana>Foi uma resposta ao que disse ontem o candidato derrotado do PT, durante ato de apoio a Eduardo Campos. </FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>E os problemas não pararam por a?. Com um enorme empenho pessoal, o prefeito conseguiu tornar João da Costa um dos deputados estaduais mais votados de Pernambuco. </FONT></P></p>
 <p><P><FONT face=Verdana>Muita gente no partido ficou irada com isso. João da Costa tirou voto de muitos.</FONT></P></p>
 <p><P><FONT face=Verdana>Tenho impressão de que vem por a? uma nova guerra no PT. Tem petista doido para colocar a boca no trombone.</FONT></P> </p>
+{\% endraw %}

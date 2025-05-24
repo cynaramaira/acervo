@@ -1,18 +1,19 @@
 ---
 id: 12373132
-date: "2006-10-03T19:29:00+00:00"
+date: "2006-10-03T19:29:00Z"
 last_modified_at: null
 tags:
-  - humberto-costa
-  - luta
+  - "humberto-costa"
+  - "luta"
 categories:
-  - noticias
+  - "noticias"
 title: "Continuarei na luta pol?tica, diz Humberto"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Durante entrevista coletiva, no final da tarde, o ex-ministro e candidato derrotado ao governo de Pernambuco Humberto Costa (PT) evitou falar em disputar mandato eletivo nas eleições municipais de 2008 e foi claro com relação à sucessão na Prefeitura do Recife: \"A questão de mandato é outra história. Quanto à cidade do Recife, isso é de responsabilidade do prefeito João Paulo. É ele quem vai dizer quem será o candidato do PT a prefeito\".</FONT></P></p>
 <p><P><FONT face=Verdana>Humberto deixou claro que continuará na pol?tica. \"Não constru? uma carreira profissional. Eu poderia ser rico como médico, mas vivo modestamente. Sou defensor da democracia, do socialismo, fiz pol?tica minha vida inteira e continuarei na luta pol?tica\".</FONT></P></p>
 <p><P><FONT face=Verdana>De imediato, disse que tem como missão \"provar minha inocência na Justiça\". E atacou Mendonça: \"Houve uma armação pol?tica envolvendo um delegado da Pol?cia Federal e gente do Ministério Público. Mesmo assim tive 25% dos votos, depois de mais de 30 dias do bombardeio que sofri de Mendonça Filho, Mendonça Filho, de Mendonça Filho\".</FONT></P></p>
@@ -22,3 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>Disse que a ausência não enfraquece Eduardo neste momento. Para o petista, há hoje apenas dificuldades pontuais que não permitem o engajamento imediato dos trabalhistas na campanha do socialista: \"O PTB tem outro tempo. Para nós (PT e PCdoB) não havia dificuldades e, por isso, resolvemos anunciar o apoio agora. O PTB precisa consultar suas bases\".</FONT></P></p>
 <p><P><FONT face=Verdana>O petista afirmou não acreditar que parcelas da Frente Trabalhista migrem para o palanque de Mendonça Filho.</FONT></P></p>
 <p><P><FONT face=Verdana>A certa altura mandou novos recados sobre a derrota: \"É um erro pol?tico se tentar fazer disputa pol?tica com o resultado (do primeiro turno)\".</FONT></P> </p>
+{\% endraw %}

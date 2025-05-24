@@ -1,18 +1,19 @@
 ---
 id: 12371501
-date: "2006-08-23T16:35:00+00:00"
+date: "2006-08-23T16:35:00Z"
 last_modified_at: null
 tags:
-  - blogs-jc
-  - cesar-filho
+  - "blogs-jc"
+  - "cesar-filho"
 categories:
-  - colunistas
-title: "AS MENINAS DO BLOG / A César o que é de César (Louise Caroline)"
+  - "colunistas"
+title: "AS MENINAS DO BLOG / A C\u00e9sar o que \u00e9 de C\u00e9sar (Louise Caroline)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Louise Caroline</STRONG><BR>Vice-presidente da UNE</FONT></P></p>
 <p><P><FONT face=Verdana>Nunca os brasileiros se questionaram tanto quanto à credibilidade de seus Parlamentos. Depois de quase duas décadas de vigência do atual sistema pol?tico, seu funcionamento subterrâneo veio à tona.</FONT></P></p>
 <p><P align=justify><FONT face=Verdana>Para elevar o poder legislativo ao patamar que requer a democracia, é urgente e inadiável uma Reforma Pol?tica profunda, mas, é sobretudo decisivo que também</p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P align=justify><FONT face=Verdana>O desafio está lançado: se não fizemos a opção pelo parlamentarismo, que garante necessariamente maioria ao chefe do poder executivo, devemos caminhar, então, em uma jornada pela verticalização do voto do eleitor. Não através de uma norma impositiva, mas pelo destaque, nas campanhas e na cobertura delas, à tarefa total de cada cargo e à relevância da sintonia ideológica entre o parlamento e o executivo.</FONT></P></p>
 <p><P align=justify><FONT face=Verdana></FONT></P><FONT face=Verdana></p>
 <p><P><EM><STRONG>*Louise Caroline</STRONG>, 23, é estudante de direito, vice-presidente da União Nacional dos Estudantes (UNE) e militante do PT.</EM></P></FONT> </p>
+{\% endraw %}

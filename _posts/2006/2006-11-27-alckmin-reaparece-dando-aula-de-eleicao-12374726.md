@@ -1,18 +1,19 @@
 ---
 id: 12374726
-date: "2006-11-27T10:49:00+00:00"
+date: "2006-11-27T10:49:00Z"
 last_modified_at: null
 tags:
-  - eleicao
-  - geraldo-alckmin
+  - "eleicao"
+  - "geraldo-alckmin"
 categories:
-  - noticias
-title: "Alckmin reaparece dando aula de eleição"
+  - "noticias"
+title: "Alckmin reaparece dando aula de elei\u00e7\u00e3o"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do blog de <STRONG>Fernando Rodrigues</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>O candidato derrotado a presidente da República neste ano pelo PSDB, Geraldo Alckmin, vai reaparecer publicamente em 2007 como professor de um curso da <STRONG><EM><A href=\"https://www.casadosaber.com.br/\" target=_blank>Casa do Saber</A></EM></STRONG></FONT><FONT face=Verdana>. T?tulo do curso: “Eleição e gestão pública???.</FONT></P></p>
 <p><P><FONT face=Verdana>As inscrições serão abertas em breve, mas os interessados podem entrar no site da <STRONG><EM><A href=\"https://www.casadosaber.com.br/\" target=_blank>Casa do Saber</A></EM></STRONG>&nbsp;</FONT><FONT face=Verdana>e postar um recado. O tucano dará 3 palestras na instituição que é conhecida pela forma diferenciada de ministrar seus cursos - em salas confortáveis, com cadeiras idem, além do já tradicional intervalo para uma taça de vinho.</FONT></P></p>
@@ -22,3 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>Descrição do curso: “Campanha eleitoral e experiência administrativa são examinados em detalhes em curso de alto n?vel que busca, por meio de depoimentos do ex-governador, enfocar suas experiências na administração do Estado mais rico do pa?s. O curso examina os principais temas que cercaram seu governo e a campanha para presidente. As aulas enfocam também os altos e baixos do governo numa democracia, desde as circunstâncias e bastidores da eleição até o efetivo exerc?cio do poder, sempre condicionado por disputas de interesses e o permanente teste de valores a que se submete o governante???.</FONT></P></p>
 <p><P><FONT face=Verdana>Preço para os interessados: R$ 270,00 na inscrição.</FONT></P></p>
 <p><P><FONT face=Verdana>Antes que alguém pergunte, não, o marqueteiro Luiz González não estará presente como professor assistente.</FONT></P> </p>
+{\% endraw %}

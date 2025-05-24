@@ -1,20 +1,21 @@
 ---
 id: 12374406
-date: "2006-11-15T07:02:00+00:00"
+date: "2006-11-15T07:02:00Z"
 last_modified_at: null
 tags:
-  - animais
-  - entrega
-  - interior
-  - lideranca-indigena
+  - "animais"
+  - "entrega"
+  - "interior"
+  - "lideranca-indigena"
 categories:
-  - noticias
-title: "Júlio lidera entre os mais velhos e no Interior"
+  - "noticias"
+title: "J\u00falio lidera entre os mais velhos e no Interior"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>É o que mostra a segunda e última rodada da pesquisa realizada pela Contagem Consultoria sobre a eleição para presidente da OAB em Pernambuco, que acontece amanhã.</FONT></P></p>
 <p><P><FONT face=Verdana>Júlio Oliveira, atual presidente da Ordem e candidato à reeleição, abre maior vantagem no Interior e também ganha do adversário, o procurador estadual Jayme Asfora, no Grande Recife. </FONT></P></p>
@@ -68,3 +69,4 @@ imagem: null
 <p><P><FONT face=Verdana>Não sabe/Indecisos</FONT></B><FONT face=Verdana> 24,8% (eram 34,6%) </FONT></P><B></p>
 <p><P><FONT face=Verdana>Não quis declarar</FONT></B><FONT face=Verdana> 9,8% (eram 7,6%)</FONT></P><B></p>
 <p><P><FONT face=Verdana>Nenhum/Nulo</FONT></B><FONT face=Verdana> 1% (era 1%)</FONT></P></FONT> </p>
+{\% endraw %}

@@ -1,19 +1,20 @@
 ---
 id: 12371548
-date: "2006-08-21T20:24:00+00:00"
+date: "2006-08-21T20:24:00Z"
 last_modified_at: null
 tags:
-  - canto-dos-malditos-na-terra-do-nunca
-  - geraldo-alckmin
-  - para
+  - "canto-dos-malditos-na-terra-do-nunca"
+  - "geraldo-alckmin"
+  - "para"
 categories:
-  - noticias
+  - "noticias"
 title: "Para Alckmin, as codornas"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Jarbas e Mendonça deixaram agora o Bar 45, no comitê de Alckmin, no Recife, depois de saborear as codornas preparadas por Socorro Vasconcelos, mulher de José Jorge, vice do presidenciável tucano.</FONT></P></p>
 <p><P><FONT face=Verdana>Antes de sair, eles explicaram por que ainda não inseriram Alckmin no guia eleitoral:</FONT></P><B></p>
 <p><P><FONT face=Verdana>Jarbas Vasconcelos:</FONT></P></B></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"O que é que Alckmin vai ficar mais forte entrando na campanha da gente?\"</FONT></P></p>
 <p><P><B><FONT face=Verdana>Mendonça Filho:</FONT></P></B></p>
 <p><P><FONT face=Verdana>\"Reforçando o que Jarbas disse, o histórico sempre foi esse, uma separação entre a disputa nacional e local. Isso não impede que Alckmin apareça no nosso guia\".</P></FONT> </p>
+{\% endraw %}

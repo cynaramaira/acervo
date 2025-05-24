@@ -1,20 +1,21 @@
 ---
 id: 12372558
-date: "2006-09-16T06:59:00+00:00"
+date: "2006-09-16T06:59:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao Governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B></FONT></p>
 <p><P><FONT face=Verdana><STRONG>Às 8h30</STRONG>, em Petrolina,&nbsp;visita a feira da cidade, acompanhado do ex-governador Jarbas Vasconcelos, candidato ao Senado pelo PMDB, e do senador Marco Maciel (PFL) </FONT></P></p>
@@ -33,3 +34,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Às 11h</STRONG>, em Limoeiro, caminhada pela feira livre e no centro comercial </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Às 15h</STRONG>, em Olinda, caminhada e com?cio em Ouro Preto (15h), Alto da Bondade (18h) e Rio Doce (20h) </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Às 21h</STRONG>, no Recife, caminhada e com?cio no bairro do Poço da Panela</FONT> </P></FONT> </p>
+{\% endraw %}

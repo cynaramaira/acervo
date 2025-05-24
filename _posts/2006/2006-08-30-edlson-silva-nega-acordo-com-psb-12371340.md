@@ -1,18 +1,19 @@
 ---
 id: 12371340
-date: "2006-08-30T19:24:00+00:00"
+date: "2006-08-30T19:24:00Z"
 last_modified_at: null
 tags:
-  - acordo
-  - pensilvania
+  - "acordo"
+  - "pensilvania"
 categories:
-  - noticias
+  - "noticias"
 title: "Ed?lson Silva nega acordo com PSB"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Ed?lson Silva, candidato ao Governo de Pernambuco pelo P-SOL, garante que sua candidatura é leg?tima e rechaça a hipótese de ser linha auxiliar de Eduardo Campos no caso da denúncia sobre as d?vidas do deputado federal José Mendonça (PFL), conforme publicamos aqui mais cedo.</FONT></P></p>
 <p><P><FONT face=Verdana>Hoje o P-SOL enviou a seguinte nota sobre o assunto:</FONT></P></p>
 <p><P><I><FONT face=Verdana>Esclarecimento do P-SOL à toda a sociedade pernambucana</FONT></P></p>
@@ -33,3 +34,4 @@ imagem: null
 <p><P><FONT face=Verdana>fazer de nossa candidatura um foco de denuncismo de corrupção, mas de nossas propostas e falta de compromisso dos demais candidatos com o que prometem em per?odos eleitorais.</FONT></P></p>
 <p><P><FONT face=Verdana>Durante o debate, tivemos a felicidade de sermos sorteados para fazer a primeira pergunta de candidato para candidato, escolhemos Mendoncinha e sequer tocamos no assunto. Somente quando fomos perguntados por René Patriota, também via sorteio, sobre o tema da ética, é que tocamos no assunto, como parte da nossa resposta, e não como o centro dela.</FONT></P></p>
 <p><P><FONT face=Verdana>Portanto, não há, não houve e nunca haverá nenhum tipo de negociação ou acordo do P-SOL com qualquer outro candidato nesse sentido. As denúncias que estamos fazendo e continuaremos fazendo atingirão todos aqueles que atentam contra os interesses da sociedade e que tenham relevância no debate eleitoral.</FONT></P></I> </p>
+{\% endraw %}

@@ -1,17 +1,18 @@
 ---
 id: 12372364
-date: "2006-07-15T10:29:00+00:00"
+date: "2006-07-15T10:29:00Z"
 last_modified_at: null
 tags:
-  - animais
+  - "animais"
 categories:
-  - noticias
-title: "Mais números de maio"
+  - "noticias"
+title: "Mais n\u00fameros de maio"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P>Na pesquisa feita em 7 de maio, quando as candidaturas ainda não estavam homologadas, o JC publicou o seguinte:</P></p>
 <p><P><BR><STRONG>Intenção de voto espontânea<BR></STRONG>(quando o eleitor indica o candidato sem a apresentação de listas)</P></p>
 <p><P>Mendonça&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8%</P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P>Humberto&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 18%</P></p>
 <p><P>Armando&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5%</P></p>
 <p><P>Clóvis Corrêa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1%<BR></P> </p>
+{\% endraw %}

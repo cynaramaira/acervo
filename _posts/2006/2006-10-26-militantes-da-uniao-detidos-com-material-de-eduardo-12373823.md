@@ -1,19 +1,20 @@
 ---
 id: 12373823
-date: "2006-10-26T18:53:00+00:00"
+date: "2006-10-26T18:53:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - material-escolar
-  - uniao
+  - "eduardo"
+  - "material-escolar"
+  - "uniao"
 categories:
-  - noticias
-title: "Militantes da União detidos com material de Eduardo"
+  - "noticias"
+title: "Militantes da Uni\u00e3o detidos com material de Eduardo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=\"Times New Roman\"><FONT face=Verdana>Quatro militantes da União por Pernambuco, do governador-candidato Mendonça Filho (PFL), foram detidos hoje pela Pol?cia Militar porque estavam retirando os cavaletes do candidato do PSB ao governo, Eduardo Campos. O material - com fotos de Eduardo e do presidente Lula - estava exposto na Avenida Agamenon Magalhães, no Recife. </FONT></P></p>
 <p><P><FONT face=Verdana>Foram retirados seis cavaletes de Eduardo e jogados na carroçaria de uma Saveiro, que também foi apreendida pela PM. O ve?culo, de placa KJD5976, estava adesivado com publicidade de Mendonça e do presidenciável Geraldo Alckmin (PSDB). </FONT></P></p>
 <p><P><FONT face=Verdana>Os militantes da União alegaram que estavam apenas \"dando o troco\" à militância da Frente Popular, de Eduardo Campos (PSB). Segundo eles, o pessoal do PSB teria começado primeiro, retirando sete placas de Mendonça. Os policiais informaram que foram acionados pelo \"pessoal de Eduardo\". </FONT></P></p>
@@ -23,3 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"O carro é da Interlocadora e foi locado para prestar serviço à campanha de Mendonça. Se o carro estiver em nome de algum órgão do Estado, o Detran não teria essa informação\", explicou um dos advogados da União, Leonardo Neves, a Arthur Cunha, repórter de Pol?tica do <B>JC</B>. Ele vai ingressar com uma ação no Tribunal Regional Eleitoral (TRE) pedindo a liberação do ve?culo. </FONT></P></p>
 <p><P><FONT face=Verdana>Segundo o delegado, os militantes da União apresentaram um documento de leasing do ve?culo, comprovando que a Saveiro pertence a uma locadora. \"O carro continua apreendido e o juiz da propaganda é quem vai decidir\", sentenciou Correia.</FONT></P></p>
 <p><P><FONT face=Verdana>Tudo foi devidamente registrado, em fotos, pela equipe do guia de Eduardo Campos.</FONT> </P></FONT> </p>
+{\% endraw %}

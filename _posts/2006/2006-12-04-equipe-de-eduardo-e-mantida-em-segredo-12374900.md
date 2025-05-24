@@ -1,17 +1,18 @@
 ---
 id: 12374900
-date: "2006-12-04T08:37:00+00:00"
+date: "2006-12-04T08:37:00Z"
 last_modified_at: null
 tags:
-  - eduardo
+  - "eduardo"
 categories:
-  - noticias
-title: "Equipe de Eduardo é mantida em segredo"
+  - "noticias"
+title: "Equipe de Eduardo \u00e9 mantida em segredo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por<STRONG> Mônica Crisostomo<BR></STRONG>Do Jornal do Commercio<BR></FONT></P></p>
 <p><P><FONT face=Verdana>Discrição. É com essa palavra – originada do latim (discretione) – que o governador eleito Eduardo Campos (PSB) se prepara para concluir, ao longo desta semana, as negociações para composição de sua equipe. </FONT></P></p>
 <p><P><FONT face=Verdana>Apesar dos rumores de que já teria feito vários convites, aliados com livre trânsito são unânimes em afirmar: a lista dos \"secretariáveis\" está pronta, mas somente nos próximos seis ou sete dias as conversas com os que serão convidados acontecerá. </FONT></P></p>
@@ -22,3 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>Nos bastidores, contam que o cuidado para evitar o vazamento de informações é tanto que incluirá \"esquemas especiais\". Entre as estratégias adotadas está a mudança constante dos lugares das reuniões. Quem for sondado receberá a recomendação de não falar sobre o assunto, sob pena de \"paralisar\" as negociações. A idéia é que nem mesmo os oficialmente convidados saibam os nomes dos futuros colegas. </FONT></P></p>
 <p><P><FONT face=Verdana>Ainda segundo fontes ligadas a Eduardo, a distribuição das pastas está praticamente fechada. Com o PSB devem ficar as secretarias da Fazenda, Casa Civil, Saúde, Educação, Cultura, Defesa Social e a Procuradoria Geral do Estado. As demais serão distribu?das, prioritariamente, entre PT, PL, PTB e PDT. As outras siglas – 12, ao total – serão contempladas com cargos dos segundo e terceiro escalões. </FONT></P></p>
 <p><P><FONT face=Verdana>Por isso, asseguram os socialistas, a estratégia de \"fechar as porteiras\" das secretarias, tática na qual a indicação dos principais cargos ficaria à disposição do governador, e não do secretário, será, de fato, adotada. Empresas estatais e outros órgãos servirão de auxiliares para acomodar aliados. </FONT></P> </p>
+{\% endraw %}

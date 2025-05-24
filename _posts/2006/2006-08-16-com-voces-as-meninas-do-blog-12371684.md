@@ -1,17 +1,18 @@
 ---
 id: 12371684
-date: "2006-08-16T07:49:00+00:00"
+date: "2006-08-16T07:49:00Z"
 last_modified_at: null
 tags:
-  - blogs-jc
+  - "blogs-jc"
 categories:
-  - noticias
-title: "Com vocês, as meninas do Blog"
+  - "noticias"
+title: "Com voc\u00eas, as meninas do Blog"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: #333333; FONT-FAMILY: Georgia\"><FONT face=Verdana><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-FAMILY: Georgia\"><FONT face=Verdana>Elas são jovens, militantes e cheias de idéias. <o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-FAMILY: Georgia\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></SPAN></P></p>
@@ -34,3 +35,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-FAMILY: Georgia\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-FAMILY: Georgia\"><FONT face=Verdana>Com as três, o <STRONG>Blog</STRONG> pretende enriquecer a apresentar novas perspectivas sobre este rico momento vivido pelo cidadão pernambucano.<o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-FAMILY: Georgia\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></SPAN></P><SPAN style=\"FONT-SIZE: 12pt; FONT-FAMILY: Georgia; mso-fareast-font-family: \Times New Roman\; mso-bidi-font-family: \Times New Roman\; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA\"><FONT face=Verdana size=2>Bem-vindas, meninas, e bom proveito para vocês, internautas.</FONT></SPAN> </p>
+{\% endraw %}

@@ -1,17 +1,18 @@
 ---
 id: 12371835
-date: "2006-08-09T08:46:00+00:00"
+date: "2006-08-09T08:46:00Z"
 last_modified_at: null
 tags:
-  - fundo-eleitoral
+  - "fundo-eleitoral"
 categories:
-  - noticias
+  - "noticias"
 title: "O medo das cenas no guia eleitoral"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>A cúpula do Movimento dos Trabalhadores Rurais Sem Terra (MST) classificou como irresponsável o despacho do juiz José Gilmar, ordenando que as Pol?cias Militar e Federal retirem imediatamente os cerca de 200 agricultores das terras do Engenho São João, em São Lourenço da Mata, no Grande Recife. </FONT></P></p>
 <p><P><FONT face=Verdana>De acordo com o l?der nacional do movimento, Jaime Amorim, no despacho, proferido anteontem, o magistrado incentivou o Batalhão de Choque a realizar, de qualquer forma, a reintegração de posse do local. </FONT></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>Mendonça optou pela ilegalidade, por descumprir, pura e simplesmente, a determinação judicial. </FONT></P></p>
 <p><P><FONT face=Verdana>É prefer?vel isso, na avaliação do Palácio das Princesas, a ter cenas de violência no guia eleitoral, cujo in?cio está marcado para terça-feira.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/02/index.php#457\" target=_blank>aqui</A></EM></STRONG> o que o <STRONG>Blog</STRONG> já publicou sobre o assunto.</FONT></P> </p>
+{\% endraw %}

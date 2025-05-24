@@ -1,19 +1,20 @@
 ---
 id: 12375419
-date: "2006-12-30T21:39:00+00:00"
+date: "2006-12-30T21:39:00Z"
 last_modified_at: null
 tags:
-  - ano-novo
-  - blogs-jc
-  - mensagem
+  - "ano-novo"
+  - "blogs-jc"
+  - "mensagem"
 categories:
-  - noticias
+  - "noticias"
 title: "Mensagem de Ano Novo do Blog do JC"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O meu amigo Marcelo Cavalcanti, do Blog do Torcedor, já havia alertado para o inusitado da foto do ex-vereador Jorge Chacrinha (PMDB), falecido recentemente, em um outdoor desejando um feliz 2007 para a população do Recife, em um dos principais corredores da cidade.</FONT></P></p>
 <p><P><FONT face=Verdana>Anotei a dica e guardei. Marcelo cobrou a divulgação que não saia. Eu estava esperando a melhor hora, agora. A imagem está aqui ilustrando a mensagem de Ano Novo do <STRONG>Blog do JC</STRONG>. Inusitado? Não.</FONT></P></p>
 <p><P><FONT face=Verdana>Trata-de de uma justa homenagem da empresa Bandeirantes ao amigo pol?tico e bom cliente durante anos. Também é uma homenagem para a fam?lia. Poucas pessoas e empresas praticam a virtude da gratidão.</FONT></P></p>
@@ -41,3 +42,4 @@ imagem: null
 <p><P><FONT face=Verdana>Um bom e feliz 2007, é o que desejamos eu e Cec?lia do Blog (também conhecida como Cec?lia Ramos).</FONT></P></p>
 <p><P><FONT face=Verdana>PS1: Delúbio, BOA$ FE$TA$ para você também !</FONT></P></p>
 <p><P><FONT face=Verdana>PS2: Meu muito obrigado aos leitores atentos, como Francisco Filho, Eduardo Maia, Machado Freire e tantos outros internautas que me brindaram com suas cr?ticas sagazes e construtivas - são um est?mulo permanente para nos aperfeiçoarmos.</FONT></P> </p>
+{\% endraw %}

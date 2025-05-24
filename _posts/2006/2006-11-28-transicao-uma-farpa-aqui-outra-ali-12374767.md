@@ -1,18 +1,19 @@
 ---
 id: 12374767
-date: "2006-11-28T17:43:00+00:00"
+date: "2006-11-28T17:43:00Z"
 last_modified_at: null
 tags:
-  - itaquitinga
-  - outubro-rosa
+  - "itaquitinga"
+  - "outubro-rosa"
 categories:
-  - noticias
-title: "Transição: uma farpa aqui, outra ali"
+  - "noticias"
+title: "Transi\u00e7\u00e3o: uma farpa aqui, outra ali"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Ramos<BR></STRONG>Repórter do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>Depois de um meio de campo tumultuado pela troca de farpas, as equipes de transição do governador Mendonça Filho (PFL) e do governador eleito Eduardo Campos (PSB) voltaram a se encontrar hoje. </FONT></P></p>
 <p><P><FONT face=Verdana>De lado a lado, a tentativa de mostrar que não há ressentimentos. </FONT><FONT face=Verdana>Mas, no final das contas, o clima é de \"enfim, está terminando\". </FONT></P></p>
@@ -36,3 +37,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Quinta-feira (14/12)</STRONG><BR>Organizações sociais<BR>Porto Digital<BR>Ceagepe<BR>Itep<BR>Procentro</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Terça-feira (19/12)<BR></STRONG>Lafepe</FONT></P></p>
 <p><P><FONT face=Verdana>*As reuniões das duas equipes ocorrerão às 10h, no Palácio do Campo das Princesas, no bairro de Santo Antônio, no Recife.</FONT> </P> </p>
+{\% endraw %}

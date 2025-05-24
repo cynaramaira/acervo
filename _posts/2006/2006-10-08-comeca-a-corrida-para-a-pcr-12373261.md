@@ -1,17 +1,18 @@
 ---
 id: 12373261
-date: "2006-10-08T07:41:00+00:00"
+date: "2006-10-08T07:41:00Z"
 last_modified_at: null
 tags:
-  - sem-tags
+  - "sem-tags"
 categories:
-  - noticias
-title: "Começa a corrida para a PCR"
+  - "noticias"
+title: "Come\u00e7a a corrida para a PCR"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><SPAN style=\"FONT-SIZE: 16pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\"><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p><SPAN style=\"FONT-SIZE: 16pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\"><o:p><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\"> </p>
 <p><P class=MsoNormal style=\"BACKGROUND: white; MARGIN: 0cm 0cm 0pt\"><B><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\"></SPAN></B><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial; mso-bidi-font-weight: bold\"><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"BACKGROUND: white; MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial; mso-bidi-font-weight: bold\">Por <B>Inaldo Sampaio<BR></B>Do Jornal do Commercio</SPAN><I><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\"><o:p></o:p></SPAN></I></P></p>
@@ -31,3 +32,4 @@ imagem: null
 <p><P style=\"BACKGROUND: white\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\">Contrariando as previsões dos “experts???, ele foi o segundo mais votado na capital pernambucana para a Assembléia Legislativa (26.078 votos), perdendo apenas para João da Costa (PT), que é o candidato do prefeito João Paulo.</SPAN></P></p>
 <p><P style=\"BACKGROUND: white\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\">(...)</SPAN></P></p>
 <p><P style=\"BACKGROUND: white\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\">Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/10/08/can_9.php\">aqui</A></EM></STRONG> (assinantes JC e UOL).</SPAN></P></SPAN></o:p></SPAN></o:p></SPAN> </p>
+{\% endraw %}

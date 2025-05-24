@@ -1,18 +1,19 @@
 ---
 id: 12371510
-date: "2006-08-23T09:16:00+00:00"
+date: "2006-08-23T09:16:00Z"
 last_modified_at: null
 tags:
-  - esta
-  - lula
+  - "esta"
+  - "lula"
 categories:
-  - noticias
-title: "Lula está em situação mais confortável que FHC em 98"
+  - "noticias"
+title: "Lula est\u00e1 em situa\u00e7\u00e3o mais confort\u00e1vel que FHC em 98"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Novos detalhes da pesquisa Datafolha divulgada ontem pelo Jornal Nacional e hoje pela Folha de S.Paulo mostram Lula com 56% dos votos válidos e com melhor aprovação popular que o ex-presidente tucano, quando disputou a reeleição.</FONT></P></p>
 <p><P><FONT face=Verdana>Essa á primeira pesquisa sob efeito do guia eleitoral. V</FONT><FONT face=Verdana>eja mais:</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Lula obtém aprovação recorde, a melhor desde 1990</STRONG></FONT></P></p>
@@ -35,3 +36,4 @@ imagem: null
 <p><P><FONT face=Verdana>O desempenho de Lula no horário eleitoral é considerado ótimo ou bom por 62%, regular por 22% e ruim ou péssimo por 14% dos que viram sua propaganda. <BR><BR>A avaliação de Geraldo Alckmin é semelhante: para 59% ele vem sendo ótimo ou bom, para 29% regular e para 9% ruim ou péssimo.</FONT></P></p>
 <p><P><FONT face=Verdana>O desempenho de Helo?sa Helena é aprovado por 48% dos eleitores que a viram no horário eleitoral gratuito. Para 33% ela vem sendo regular e para 15% ruim ou péssimo. </FONT></P></p>
 <p><P><FONT face=Verdana>Afirmam ter visto o desempenho de Lula no horário eleitoral 46%. Essa taxa é de 43% em relação aos programas de Geraldo Alckmin e de 40% em relação aos de Helo?sa Helena.<BR><BR>Veja <STRONG><EM><U><A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/22/index.php#930\">aqui</A></U></EM></STRONG> os números de intenção de voto.</FONT></P> </p>
+{\% endraw %}

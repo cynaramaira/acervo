@@ -1,17 +1,18 @@
 ---
 id: 12373388
-date: "2006-10-12T09:58:00+00:00"
+date: "2006-10-12T09:58:00Z"
 last_modified_at: null
 tags:
-  - geraldo-alckmin
+  - "geraldo-alckmin"
 categories:
-  - noticias
-title: "Alckmin entrou pelo “Nakano???"
+  - "noticias"
+title: "Alckmin entrou pelo \u201cNakano???"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Acabei de postar na seção Artigos, na coluna ao lado, uma interessante cr?tica de Pierre Lucena à polêmica em torno de declarações do economista cotado para o Ministério da Fazenda em um eventual governo tucano.</FONT></P></p>
 <p><P><FONT face=Verdana>Abaixo alguns trechos. Boa leitura.</FONT></P></p>
 <p><P><FONT face=Verdana>-------------------</FONT></P></p>
@@ -21,3 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>(...)</FONT></P></p>
 <p><P><FONT face=Verdana>A tentativa de desqualificação de Nakano passa pela idéia de que só a visão monetarista-liberal, predominante no Banco Central, é a que vale. T?pica da elite do mercado financeiro, que prefere ver qualquer idéia ser jogada ao léu a discutir seriamente uma proposta.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/10/12/not_2320.php\">aqui</A></EM></STRONG> o texto completo.</FONT></P> </p>
+{\% endraw %}

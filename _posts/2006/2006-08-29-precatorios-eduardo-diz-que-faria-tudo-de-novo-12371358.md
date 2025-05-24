@@ -1,19 +1,20 @@
 ---
 id: 12371358
-date: "2006-08-29T17:53:00+00:00"
+date: "2006-08-29T17:53:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - julia-faria
-  - precatorios
+  - "eduardo"
+  - "julia-faria"
+  - "precatorios"
 categories:
-  - noticias
-title: "Precatórios: Eduardo diz que faria tudo de novo"
+  - "noticias"
+title: "Precat\u00f3rios: Eduardo diz que faria tudo de novo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Esta foi a principal resposta que faltou ontem no debate entre os candidatos ao governo de Pernambuco, na TV Clube, no Recife.</FONT></P></p>
 <p><P><FONT face=Verdana>No bloco em que candidato perguntava a candidato, Mendonça Filho (PFL) decidiu partir para o ataque e se deu mal.</FONT></P></p>
 <p><P><FONT face=Verdana>Lançou contra Eduardo Campos (PSB) a seguinte questão: ele reeditaria hoje a operação dos precatórios, sim ou não e por quê?</FONT></P></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>A operação dos precatórios diz respeito ao lançamento de t?tulos públicos no valor de meio bilhão de reais, durante o governo Miguel Arraes (1994-1998). </FONT></P></p>
 <p><P><FONT face=Verdana>Os t?tulos deveriam servir ao pagamento de precatórios (quitação de d?vidas por ordem judicial), mas, num desvio ilegal de finalidade, foram usados para sanear as contas do Estado.</FONT></P></p>
 <p><P><FONT face=Verdana>A operação, realizada em outros estados e munic?pios, gerou um dos maiores escândalos do pa?s por conta das elevadas comissões pagas a corretoras e bancos responsáveis por montar a engenharia financeira da venda dos t?tulos públicos.</FONT></P> </p>
+{\% endraw %}

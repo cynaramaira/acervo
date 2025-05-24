@@ -1,18 +1,19 @@
 ---
 id: 12373297
-date: "2006-10-09T07:18:00+00:00"
+date: "2006-10-09T07:18:00Z"
 last_modified_at: null
 tags:
-  - mendonca
-  - novos
+  - "mendonca"
+  - "novos"
 categories:
-  - noticias
-title: "Mendonça reforça a equipe para novo guia"
+  - "noticias"
+title: "Mendon\u00e7a refor\u00e7a a equipe para novo guia"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Fab?ola Mendonça</STRONG><BR>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>“A expectativa faz parte do prazer???. </FONT></P></p>
 <p><P><FONT face=Verdana>Foi essa a frase que o governador Mendonça Filho (PFL), candidato à reeleição, utilizou ontem para justificar o mistério em torno do guia eleitoral de sua campanha no segundo turno. </FONT></P></p>
@@ -21,3 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>O novo guia começa hoje, com programas às 7h20 e 12h20, no rádio, e às 13h20 e 20h50, na TV.</FONT></P></p>
 <p><P><FONT face=Verdana>Para mudar a linha do programa, o comando da campanha de Mendonça Filho incorporou novos nomes na equipe. Foi buscar o marqueteiro Paulo de Tarso, que trabalhou na campanha do governador reeleito de Minas Gerais, Aécio Neves (PSDB). </FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/10/09/not_204094.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P> </p>
+{\% endraw %}

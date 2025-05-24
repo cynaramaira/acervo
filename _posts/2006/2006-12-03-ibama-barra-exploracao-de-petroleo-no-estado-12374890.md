@@ -1,21 +1,22 @@
 ---
 id: 12374890
-date: "2006-12-03T12:47:00+00:00"
+date: "2006-12-03T12:47:00Z"
 last_modified_at: null
 tags:
-  - barra
-  - estado
-  - exploracao-mineral
-  - ibama
-  - petroleo
+  - "barra"
+  - "estado"
+  - "exploracao-mineral"
+  - "ibama"
+  - "petroleo"
 categories:
-  - noticias
-title: "Ibama barra exploração de petróleo no Estado"
+  - "noticias"
+title: "Ibama barra explora\u00e7\u00e3o de petr\u00f3leo no Estado"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><I></p>
 <p><P>&nbsp;</P></p>
 <p><P><FONT face=Verdana><STRONG>Do caderno de Economia do JC de hoje</STRONG> </FONT></P></I></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>A expectativa gerada com a descoberta foi grande, e desde então, o governo se articulava para incluir Pernambuco numa rodada de exploração ofertada pela ANP. São nessas rodadas que empresas arrematam lotes para prospectar petróleo. </FONT></P></p>
 <p><P><FONT face=Verdana>No processo de organizar a rodada, a ANP fez consultas a CPRH e ao Ibama para saber quais blocos poderia oferecer. </FONT></P></p>
 <p><P><FONT face=Verdana></FONT>&nbsp;</P> </p>
+{\% endraw %}

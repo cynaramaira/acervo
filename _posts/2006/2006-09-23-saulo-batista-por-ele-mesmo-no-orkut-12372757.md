@@ -1,18 +1,19 @@
 ---
 id: 12372757
-date: "2006-09-23T16:20:00+00:00"
+date: "2006-09-23T16:20:00Z"
 last_modified_at: null
 tags:
-  - batista-lima
-  - orkut
+  - "batista-lima"
+  - "orkut"
 categories:
-  - noticias
+  - "noticias"
 title: "Saulo Batista, por ele mesmo, no Orkut"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>A primeira foto acima foi publicada (e depois tirada) por Saulo no Orkut, site de relacionamentos.</FONT></P></p>
 <p><P><FONT face=Verdana>Na legenda, ele escreveu o seguinte: Alexandre Horta, Kamyla Castro, Geraldo Alckimin, Saulo Batista e Gustavo Dias.</FONT></P></p>
 <p><P><FONT face=Verdana>As outras fotos foram feitas aqui mesmo, no JC.</P></FONT></p>
@@ -32,3 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>Tipo f?sico: </FONT></FONT><FONT face=Verdana>magro(a)</FONT></P></p>
 <p><P><FONT color=#2242c0><FONT face=Verdana>O que me atrai: </FONT></FONT><FONT face=Verdana>convicção, flertar, inteligência, demonstrações públicas de afeto</FONT></P></p>
 <p><P><FONT color=#2242c0><FONT face=Verdana>Com os relacionamentos anteriores aprendi: </FONT></FONT><FONT size=1><FONT face=Verdana size=2>O valor das coisas não está no tempo que elas duram, mas na intensidade com que acontecem. Por isso, existem momentos inesquec?veis, coisas inexplicáveis e pessoas incomparáveis.</FONT></P></FONT> </p>
+{\% endraw %}

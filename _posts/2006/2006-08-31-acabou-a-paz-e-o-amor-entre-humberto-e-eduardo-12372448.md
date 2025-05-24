@@ -1,19 +1,20 @@
 ---
 id: 12372448
-date: "2006-08-31T21:00:00+00:00"
+date: "2006-08-31T21:00:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - entrega
-  - humberto-costa
+  - "eduardo"
+  - "entrega"
+  - "humberto-costa"
 categories:
-  - noticias
+  - "noticias"
 title: "Acabou a paz e o amor entre Humberto e Eduardo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><STRONG><FONT size=4></FONT></STRONG></p>
 <p><P></p>
 <p><P><STRONG><FONT size=4></FONT></STRONG><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" size=2></p>
@@ -22,3 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"Sou contra a privatização (da 232). Dos candidatos que estão a?, fui aquele que foi contra a privatização da Celpe. Fomos contra o processo de privatização da Compesa e da Cilpe (companhia processadora de leite) e somos contra a privatização da BR-232\", atacou.</FONT></P></p>
 <p><P><FONT face=Verdana>Mais cedo, com mais tempo no rádio, disse que Eduardo Campos, no governo Miguel Arraes (1995-1998), só não privatizou a Celpe por causa de manobras de Mendonça Filho e Jarbas Vasconcelos (PMDB) no governo Fernando Henrique Cardoso (PSDB). Não fossem tais manobras, o PSB teria vendido a companhia.</FONT></P></p>
 <p><P><A href=\"https://jc3.uol.com.br/jornal/\"></A>&nbsp;</P></FONT> </p>
+{\% endraw %}

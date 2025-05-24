@@ -1,18 +1,19 @@
 ---
 id: 12374954
-date: "2006-12-06T09:50:00+00:00"
+date: "2006-12-06T09:50:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - lula
+  - "candidatos"
+  - "lula"
 categories:
-  - noticias
-title: "O candidato que se viabilizar é o meu, diz Lula"
+  - "noticias"
+title: "O candidato que se viabilizar \u00e9 o meu, diz Lula"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Do blog de <STRONG>Josias de Souza</STRONG></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">O discurso de Lula em relação à disputa pela presidência da Câmara mudou. Antes, dizia que o seu desejo era reeleger Aldo Rebelo. Agora, afirma o seguinte: “O candidato da base do governo que conseguir se viabilizar é o meu candidato.??? Diz mais: “Se o nome mais viável for o do Arlindo [Chinaglia], muito bem. Tenho grande simpatia e deposito toda a confiança nele.???<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Em resposta, Lula reconheceu que, num primeiro momento, manifestara preferência por Aldo Rebelo. Entende que, além de ser “um companheiro muito leal???, Aldo assumiu o comando da Câmara “num momento de crise.??? E portou-se “com muita competência.???</SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Leia mais <A href=\"https://josiasdesouza.folha.blog.uol.com.br/\" target=_blank><STRONG><EM>aqui</EM></STRONG></A>.</SPAN></P> </p>
+{\% endraw %}

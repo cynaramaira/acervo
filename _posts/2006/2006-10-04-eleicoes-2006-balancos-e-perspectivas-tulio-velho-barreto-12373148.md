@@ -1,18 +1,19 @@
 ---
 id: 12373148
-date: "2006-10-04T08:28:00+00:00"
+date: "2006-10-04T08:28:00Z"
 last_modified_at: null
 tags:
-  - anne-barreto
-  - eleicoes
+  - "anne-barreto"
+  - "eleicoes"
 categories:
-  - colunistas
-title: "Eleições 2006: balanços e perspectivas (Túlio Velho Barreto)"
+  - "colunistas"
+title: "Elei\u00e7\u00f5es 2006: balan\u00e7os e perspectivas (T\u00falio Velho Barreto)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Túlio Velho Barreto</STRONG><BR>Cientista pol?tico e pesquisador da Fundação Joaquim Nabuco, é colaborador freqüente do Blog<BR></FONT><A href=\"mailto:túlio@fundaj.gov.br\"><FONT face=Verdana>túlio@fundaj.gov.br</FONT></A></P></p>
 <p><P><FONT face=Verdana>Apurados os votos e proclamados os resultados, é hora de fazer um balanço preliminar das eleições 2006 e traçar as primeiras perspectivas para o segundo turno nacional (apenas o terceiro desde que o sistema foi implantado no Brasil) e no estado (este inédito). </FONT></P></p>
 <p><P><FONT face=Verdana>Tendo partido na frente na corrida eleitoral, e contando com a enorme vantagem de disputar a reeleição, o candidato-presidente Lula (PT) nunca deixou de ser o franco favorito, mesmo após mais de um ano de fortes denúncias e escândalos envolvendo seu governo e partido. As pesquisas de intenção de voto sempre apontaram como tendência uma vitória dele, inclusive no primeiro turno. Até porque a principal candidatura de oposição, formada pela dobradinha PSDB-PFL, com Geraldo Alckmin e José Jorge, não decolava nem empolgava. De fato, enquanto Lula era candidato natural à reeleição, Geraldo Alckmin e José Jorge nunca foram os preferidos pelos partidos daquela coligação. Tiveram, então, de superar enormes resistências e desconfianças internas.</FONT></P></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>Finalmente, uma última palavra sobre a relação entre as duas disputas (nacional e estadual). </FONT></P></p>
 <p><P><FONT face=Verdana>Diferentemente do que muitos analistas e pol?ticos têm professado, o candidato da oposição no segundo turno ao governo do estado, Eduardo Campos, beneficiou-se com a realização do segundo turno nacional. Com efeito, se a eleição presidencial já tivesse sido decidida, o presidente Lula começaria imediatamente a articular sua base de sustentação no Congresso Nacional e a buscar o apoio de segmentos da oposição menos refratários para garantir a governabilidade. E dificilmente iria envolver-se nas disputas</p>
 <p> estaduais, muitas delas bastante acirradas, como a de Pernambuco, que poderiam deixar seqüelas evitáveis e desgastes desnecessários. Com o segundo turno, o presidente-candidato, além de consolidar os votos já conquistados, terá que ir atrás dos votos necessários para vencer, o que o levará a se engajar mais efetivamente na campanha de Eduardo Campos. Já Alckmin, enfim, terá um palanque real (e não mais virtual) no estado. Primeiro, porque precisa avançar sobre o eleitorado nordestino; segundo, porque mostrou algum potencial de crescimento; e, por último, porque a União por Pernambuco sabe que não há terceiro turno em disputas eleitorais.&nbsp;&nbsp; <BR>&nbsp;<BR>*Cientista pol?tico e pesquisador da Fundação Joaquim Nabuco, <STRONG>Túlio Velho Barreto</STRONG>, 48, é um dos autores dos livros “Democracia e Instituições Pol?ticas Brasileiras no final do Século XX??? (MCP-UFPE/Bagaço, 1998) e “Nordeste 2004 - O Voto das Capitais??? (Fundação Konrad Adenauer, 2005). Co-organizou e participou dos livros “Na Trilha do Golpe - 1964 revisitado??? (Editora Massangana, 2004) e “A Nova República - Visões da redemocratização??? (Cepe/JC, 2006), que resultaram de séries especiais publicadas pelo Jornal do Commercio em parceria com a Fundação Joaquim Nabuco.</FONT></P> </p>
+{\% endraw %}

@@ -1,19 +1,20 @@
 ---
 id: 12374566
-date: "2006-11-21T08:41:00+00:00"
+date: "2006-11-21T08:41:00Z"
 last_modified_at: null
 tags:
-  - joao-cavalcanti
-  - luiz-fuz
-  - parlamentares
+  - "joao-cavalcanti"
+  - "luiz-fuz"
+  - "parlamentares"
 categories:
-  - colunistas
+  - "colunistas"
 title: "Im(p)unidade parlamentar (Luiz Otavio Cavalcanti)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Luiz Otavio Cavalcanti</STRONG><BR>Ex-secretário do Planejamento e da Fazenda de Pernambuco<BR></FONT><A href=\"mailto:lotavio@fsm.com.br\"><FONT face=Verdana>lotavio@fsm.com.br</FONT></A></P></p>
 <p><P><FONT face=Verdana>O instituto pol?tico da imunidade parlamentar, historicamente, nasceu em 1603, na Inglaterra. Naquela ocasião, um dos membros da Câmara dos Comuns foi preso pela autoridade real. Reinavam alternadamente os Tudor e os Stuart. Diante da prisão de um dos seus, a Câmara solicitou a soltura do preso, que foi liberado.</FONT></P></p>
 <p><P><FONT face=Verdana>Com a Revolução de 1688, foi editado o Bill of Rights, abrangendo a proteção à liberdade de expressão no Parlamento (freedom of speech) e a defesa contra a prisão de parlamentares (freedom of arrest). A origem histórica da imunidade parlamentar tem claro sentido pol?tico e não privado. É ligado ao exerc?cio do mandato, naquilo que este representa de interesse coletivo.</FONT></P></p>
@@ -32,3 +33,4 @@ imagem: null
 <p> </FONT></P></p>
 <p><P><FONT face=Verdana>Vai um recado ao estimado Jayme Asfora, recém eleito presidente da Ordem dos Advogados. Faça de seu primeiro ato a constituição de comissão de advogados para acompanhar o caso e o processo. A OAB tem trajetória de defesa da cidadania. E a sociedade civil tem ânimo para apoiá-lo.&nbsp; </FONT></P></p>
 <p><P><BR><EM><FONT face=Verdana><STRONG>*Luiz Otavio Cavalcanti</STRONG>, 60, advogado, executivo e ex-secretário do Planejamento (1975/79 e 1991/92) e da Fazenda (1983/86 e 1992/93) de Pernambuco. Recifense, Cavalcanti dirige hoje a entidade mantenedora da Faculdade Santa Maria. É autor, entre outros livros, de Como a corrupção abalou o governo Lula (Ed. Ediouro, 2005), Administradores, quem somos nós? (Ed. Bagaço, 2005) e Ensaiando Pernambuco (Ed. Bagaço, 2005).</FONT></EM></P> </p>
+{\% endraw %}

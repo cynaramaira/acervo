@@ -1,20 +1,21 @@
 ---
 id: 12372377
-date: "2006-09-08T08:50:00+00:00"
+date: "2006-09-08T08:50:00Z"
 last_modified_at: null
 tags:
-  - anne-barreto
-  - candidatos
-  - lula
-  - presidente
+  - "anne-barreto"
+  - "candidatos"
+  - "lula"
+  - "presidente"
 categories:
-  - colunistas
-title: "A influência do presidente-candidato Lula na disputa local (Túlio Velho Barreto)"
+  - "colunistas"
+title: "A influ\u00eancia do presidente-candidato Lula na disputa local (T\u00falio Velho Barreto)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Túlio Velho Barreto*</STRONG><BR>Cientista pol?tico e pesquisador da Fundação Joaquim Nabuco<BR></FONT><A href=\"mailto:túlio@fundaj.gov.br\"><FONT face=Verdana>túlio@fundaj.gov.br</FONT></A></P></p>
 <p><P><FONT face=Verdana>Em artigo anterior, publicado na última segunda, dia 4, chamei a atenção para o fato da propaganda eleitoral obrigatória no rádio e na TV ter chegado exatamente à metade. Então, procurei fazer um balanço dos principais acontecimentos até aquele momento. Em seguida, prometi escrever também sobre os seus desdobramentos e os poss?veis cenários para as últimas três semanas de campanha, enfocando as disputas local e nacional. </FONT></P></p>
 <p><P><FONT face=Verdana>Pois bem, o acontecimento mais importante desta semana envolveu as duas disputas, local e nacional, já que teve como ator principal precisamente o presidente-candidato Lula, que, como mostram as pesquisas, goza de enorme popularidade e lidera a corrida presidencial no estado, presente no mega-com?cio realizado em Caruaru, principal cidade do Agreste pernambucano. O evento e seus desdobramentos, certamente, pautarão a campanha das três alianças</p>
@@ -29,3 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>Se isto ocorrer, é evidente, Humberto Costa, que ganhou, ainda que indiretamente, o apoio mais expl?cito do presidente-candidato e companheiro de partido, deverá ser o mais favorecido. Digo indireto, porque, o mais natural, seria um depoimento gravado exclusivamente para o guia da aliança Melhor para Pernambuco apoiando e defendendo Humberto Costa. Mas o mega-com?cio foi positivo também para Eduardo Campos que, certamente, explorará a imagem dele ao lado do presidente-candidato na propaganda eleitoral. E, ainda, bom para ambos, simultaneamente, na medida em que traz a presença de Lula para a disputa estadual e força a União por Pernambuco, sobretudo o seu principal l?der, Jarbas Vasconcelos, coincidentemente o que tem o pavio mais curto, a assumir publicamente suas cr?ticas e diferenças com o governo Lula e sua candidatura à reeleição. </FONT></P></p>
 <p><P><FONT face=Verdana>Portanto, em todos os sentidos, por ora, a realização do mega-com?cio de Caruaru com a presença do presidente-candidato Lula tem tudo para se transformar em um divisor de água na disputa estadual. Ou a oposição - ou um de seus candidatos - aproveita sua repercussão e cresce definitivamente e ameaça a liderança do governador-candidato Mendonça Filho ou vai ter que suar um bocado, e até o último momento, para, pelo menos, impor um segundo turno ao candidato da União por Pernambuco. </FONT></P></p>
 <p><P><BR><FONT face=Verdana><EM>*Cientista pol?tico e pesquisador da Fundação Joaquim Nabuco, <STRONG>Túlio Velho Barreto</STRONG>, 48, é um dos autores dos livros “Democracia e Instituições Pol?ticas Brasileiras no final do Século XX??? (MCP-UFPE/Bagaço, 1998) e “Nordeste 2004 - O Voto das Capitais??? (Fundação Konrad Adenauer, 2005). Co-organizou e participou dos livros “Na Trilha do Golpe - 1964 revisitado??? (Editora Massangana, 2004) e “A Nova República - Visões da redemocratização??? (Cepe/JC, 2006), que resultaram de séries especiais publicadas pelo Jornal do Commercio em parceria com a Fundação Joaquim Nabuco.</EM></FONT></P> </p>
+{\% endraw %}

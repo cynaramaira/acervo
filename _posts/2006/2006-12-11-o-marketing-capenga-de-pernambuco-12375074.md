@@ -1,17 +1,18 @@
 ---
 id: 12375074
-date: "2006-12-11T11:00:00+00:00"
+date: "2006-12-11T11:00:00Z"
 last_modified_at: null
 tags:
-  - pernambuco
+  - "pernambuco"
 categories:
-  - noticias
+  - "noticias"
 title: "O marketing capenga de Pernambuco "
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT face=Verdana><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></p>
 <p><P></p>
 <p><P><FONT face=Verdana></FONT></P></p>
@@ -38,3 +39,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><EM>A segunda é identificar tecnicamente mercados regionais e públicos-alvo nos centros emissores de turismo nacional. Essa etapa visa preparar a divulgação de m?dias adequada ao destinatário local.Os conteúdos de m?dias estão no repertório de produtos naturais e culturais pernambucanos. Por exemplo, Porto de Galinhas, a tapioca, o caranguejo e o doce de caju com queijo assado.<o:p></o:p></EM></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><EM></EM></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><EM>A terceira iniciativa é articular esquema de financiamento com participação de empresas privadas e entidades econômicas para concretizar projeto qüinqüenal de Marketing Público do Estado. Está a? a feira de Caruaru com o rico artesanato popular de barro.<o:p></o:p></EM></SPAN></P></FONT> </p>
+{\% endraw %}

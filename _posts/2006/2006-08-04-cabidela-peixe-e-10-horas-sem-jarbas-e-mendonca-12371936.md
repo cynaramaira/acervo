@@ -1,20 +1,21 @@
 ---
 id: 12371936
-date: "2006-08-04T13:31:00+00:00"
+date: "2006-08-04T13:31:00Z"
 last_modified_at: null
 tags:
-  - altas-horas
-  - jarbas-vasconcelos
-  - mendonca
-  - peixe
+  - "altas-horas"
+  - "jarbas-vasconcelos"
+  - "mendonca"
+  - "peixe"
 categories:
-  - noticias
-title: "Cabidela, peixe e 10 horas sem Jarbas e Mendonça"
+  - "noticias"
+title: "Cabidela, peixe e 10 horas sem Jarbas e Mendon\u00e7a"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>O presidenciável tucano completará daqui a pouco dez horas de permanência em Pernambuco.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>&nbsp;<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Ele desembarcou no Recife às 4h20, foi recebido por Bruno Araújo (PSDB), deputado estadual e candidato&nbsp;a federal. </FONT></P></p>
@@ -35,3 +36,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana></FONT>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Por sinal, estava neste instante dando uma revisada no documento que sua assessoria preparou. O texto fala de Novo Nordeste.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana></FONT>&nbsp;</P> </p>
+{\% endraw %}

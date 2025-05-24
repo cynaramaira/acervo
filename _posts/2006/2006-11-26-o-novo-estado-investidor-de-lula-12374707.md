@@ -1,18 +1,19 @@
 ---
 id: 12374707
-date: "2006-11-26T10:40:00+00:00"
+date: "2006-11-26T10:40:00Z"
 last_modified_at: null
 tags:
-  - estado
-  - lula
+  - "estado"
+  - "lula"
 categories:
-  - noticias
+  - "noticias"
 title: "O novo Estado investidor de Lula"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Vin?cius Torres Freire</STRONG><BR>Na Folha de S.Paulo de hoje</FONT></P></p>
 <p><P><FONT face=Verdana>O PLANO ECONÔMICO de Lula 2 parece imitar, em miniatura, iniciativas t?picas do Estado brasileiro de antes dos anos 90 do século passado. Em vez de miniatura poder-se-ia falar em caricatura, mas não se avacalhe o pacote antes que ele venha a público, banhado e vestido (mas não maquiado). </FONT></P></p>
 <p><P><FONT face=Verdana>Lula quer que uma grande estatal, a Eletrobrás, lidere o investimento em eletricidade. Quer usar um fundo público de poupança obrigatória, o FGTS, para financiar a construção civil e subsidiar casas populares. </FONT></P></p>
@@ -22,3 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>Mas qual a alternativa ao apagão? Privatizar elétricas? Parece tolo, pois o dinheiro de novas obras seria desviado para a compra de usinas prontas. A privatização do setor elétrico virou programa de longo prazo. </FONT></P></p>
 <p><P><FONT face=Verdana>Mas a Eletrobrás, dado o problema fiscal, vai poder investir à solta, sem limites? Não. E vai precisar de sócios privados. Quem vai definir onde ficarão as novas usinas e quais serão os parceiros privados? Não vai haver mamata pol?tico-empresarial e escolhas ineficientes de investimentos? Para que a estatal invista mais, sem que se torne lugar de mumunha pol?tica e rombos, é preciso profissionalizar sua direção, melhorar a \"governança corporativa\", e vender parte de suas ações. </FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://www1.folha.uol.com.br/fsp/dinheiro/fi2611200604.htm\" target=_blank>aqui</A></EM></STRONG> (assinantes).</FONT></P> </p>
+{\% endraw %}

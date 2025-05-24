@@ -1,17 +1,18 @@
 ---
 id: 12374415
-date: "2006-11-15T09:29:00+00:00"
+date: "2006-11-15T09:29:00Z"
 last_modified_at: null
 tags:
-  - segundo-turno
+  - "segundo-turno"
 categories:
-  - noticias
+  - "noticias"
 title: "Bendito segundo turno"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Acabei de postar na seção Artigos, na coluna ao</p>
 <p> lado,&nbsp;avaliação do médico e vice-prefeito do Recife, Luciano Siqueira (PCdoB), colaborador ass?duo do <STRONG>Blog</STRONG>, sobre os benef?cios do segundo turno no pleito presidencial.</FONT></P></p>
 <p><P><FONT face=Verdana>Abaixo, alguns trechos do texto. </FONT></P></p>
@@ -22,3 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>Agora, em tempo de avaliações, é poss?vel anotar que o segundo turno foi benéfico - para o presidente reeleito e, sobretudo para o pa?s.</FONT></P></p>
 <p><P><FONT face=Verdana>Para o pa?s porque proporcionou a elevação do debate pol?tico, colocando em relevo questões que, assim, ganharam amplo conhecimento por parte da opinião pública. As consignas de Lula - desenvolvimento com distribuição de renda, integração do subcontinente sul-americano, educação de qualidade - foram questionadas à exaustão por Alckmin. </FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/11/15/not_3363.php\">aqui</A></EM></STRONG> o artigo completo.</FONT></P> </p>
+{\% endraw %}

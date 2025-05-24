@@ -1,19 +1,20 @@
 ---
 id: 12373048
-date: "2006-10-01T19:59:00+00:00"
+date: "2006-10-01T19:59:00Z"
 last_modified_at: null
 tags:
-  - ana-arraes
-  - armando-monteiro
-  - jorge-federal
+  - "ana-arraes"
+  - "armando-monteiro"
+  - "jorge-federal"
 categories:
-  - noticias
+  - "noticias"
 title: "Armando e Ana Arraes lideram para federal"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>É o que mostra apuração parcial, com 80,2% das seções de Pernambuco totalizadas:</FONT></P></p>
 <p><P><FONT face=Verdana>Armando Monteiro 165.770</FONT></P></p>
 <p><P><FONT face=Verdana>Ana Arraes 145.740</FONT></P></p>
@@ -30,3 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>Fernando Bezerra Filho 83.456</FONT></P></p>
 <p><P><FONT face=Verdana>Zé Mendonça 75.401</FONT></P></p>
 <p><P><FONT face=Verdana>Gonzaga Patriota 73.565</FONT></P></FONT> </p>
+{\% endraw %}

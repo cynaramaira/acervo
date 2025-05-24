@@ -1,20 +1,21 @@
 ---
 id: 12373481
-date: "2006-10-16T09:07:00+00:00"
+date: "2006-10-16T09:07:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - mendonca
-  - pediatras
-  - presidente
+  - "eduardo"
+  - "mendonca"
+  - "pediatras"
+  - "presidente"
 categories:
-  - noticias
-title: "Eduardo se esconde atrás do presidente, afirma Mendonça"
+  - "noticias"
+title: "Eduardo se esconde atr\u00e1s do presidente, afirma Mendon\u00e7a"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Fábio Guibu</STRONG><BR>Na Folha de S.Paulo de hoje</FONT></P></p>
 <p><P><FONT face=Verdana>Autor do projeto de emenda constitucional que permitiu a reeleição, em 1997, o governador de Pernambuco, José Mendonça Filho (PFL), 40, disputa mais quatro anos de mandato e defende a manutenção da atual legislação sobre o tema. </FONT></P></p>
 <p><P><FONT face=Verdana>Sem citar nomes, ele nega que o projeto tenha sido feito para beneficiar o então presidente Fernando Henrique Cardoso. \"Acho que [a reeleição] é um princ?pio democrático, pelo qual a população tem a oportunidade de avaliar os governantes e alongar o per?odo de governo de um mandatário do Executivo\", disse Mendonça. </FONT></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>FOLHA - No primeiro turno, sua propaganda não mencionou Alckmin. Agora, o sr. cita o tucano, mas põe Lula como parceiro do Estado. Alckmin atrapalha sua candidatura? <BR></STRONG>MENDONÇA - Não atrapalha. Meu candidato é Geraldo Alckmin. Agora, eu preciso passar para a opinião pública pernambucana que eu sou um governante moderno, atual, plural, que não governa só com os aliados. Faço isso hoje com o presidente Lula, com a Prefeitura de Recife, comandada pelo PT, com a Prefeitura de Olinda, do PC do B, entre outros. </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>FOLHA - Por que o sr. só reduziu o imposto da energia elétrica às vésperas da eleição? <BR></STRONG>MENDONÇA - A grande dificuldade foi o desequil?brio financeiro herdado do governo do PSB. Reduzimos o imposto da carne, do diesel, para baratear passagem de ônibus, e criamos a tarifa social da água. A seqüência do projeto foi a redução de ICMS na conta de luz.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://www1.folha.uol.com.br/fsp/brasil/fc1610200621.htm\" target=_blank>aqui</A></EM></STRONG> a entrevista completa (assinantes Folha e UOL).</FONT></P> </p>
+{\% endraw %}

@@ -1,17 +1,18 @@
 ---
 id: 12372897
-date: "2006-09-27T17:17:00+00:00"
+date: "2006-09-27T17:17:00Z"
 last_modified_at: null
 tags:
-  - sem-tags
+  - "sem-tags"
 categories:
-  - noticias
+  - "noticias"
 title: "Sem medo de ser feliz"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P align=left><FONT face=Verdana>Acabei de postar na seção Artigos, na coluna ao lado, mais uma contribuição semanal de Louise Caroline, 23, vice-presidente da UNE e militante petista. Ela é parte do trio que apelidamos de As meninas do Blog. <BR><BR>Infelizmente, as outras duas, a estudante Mar?lia Arraes, 21, e a vereadora Priscila Krause, 26, mergulharam nas campanhas de seus candidatos. Breve deverão voltar a colaborar.</FONT></P></p>
 <p><P align=left><FONT face=Verdana>Abaixo alguns trechos do texto de Louise. Boa leitura.</FONT></P></p>
 <p><P align=left><FONT face=Verdana>----------------------</FONT></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P align=left><FONT face=Verdana>Feitas tais considerações, levanto uma dificuldade espec?fica desta semana: de quarta-feira até hoje, sobram acontecimentos que merecem a centralidade deste último texto antes do primeiro turno, confirmando a tradição de que, quanto mais próximos dos momentos finais, mais os acontecimentos têm impacto e grandiosidade.</FONT></P></p>
 <p><P align=left><FONT face=Verdana>Em especial, três questões são fortes candidatas ao \"tema da semana\": A armação amadora de Saulo Batista, trambiqueiro famoso nas rodas do Movimento Estudantil de Pernambuco e, atualmente, diretor nacional da juventude do PSDB e assessor do Senador Sérgio Guerra; as decisões cada vez menos compreens?veis e parciais do Tribunal Regional Eleitoral; e o debate entre os candidatos ao Governo de Pernambuco realizado ontem pela TV Globo, que comprovou a fraqueza de Mendonça Filho quando fora dos estúdios e da tutela de Jarbas.</FONT></P></p>
 <p><P align=left><FONT face=Verdana>Leia </FONT><A href=\"https://jc3.uol.com.br/blogs/jc/2006/09/27/not_1819.php\"><B><I><U><FONT color=#0000ff><FONT face=Verdana>aqui</FONT></B></I></U></FONT></A><FONT face=Verdana> o texto completo.</FONT></P> </p>
+{\% endraw %}

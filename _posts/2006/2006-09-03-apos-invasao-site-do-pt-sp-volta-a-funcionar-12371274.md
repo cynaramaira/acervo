@@ -1,17 +1,18 @@
 ---
 id: 12371274
-date: "2006-09-03T14:41:00+00:00"
+date: "2006-09-03T14:41:00Z"
 last_modified_at: null
 tags:
-  - apostas
+  - "apostas"
 categories:
-  - noticias
-title: "Após invasão, site do PT-SP volta a funcionar"
+  - "noticias"
+title: "Ap\u00f3s invas\u00e3o, site do PT-SP volta a funcionar"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><TABLE class=corponoticias cellSpacing=5 cellPadding=0 width=\"100%\" border=0></p>
 <p><TBODY></p>
 <p><TR></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><TR></p>
 <p><TD></p>
 <p><P><FONT face=Verdana><FONT size=2><EM></EM></FONT></FONT>&nbsp;</P></TD></TR></TBODY></TABLE> </p>
+{\% endraw %}

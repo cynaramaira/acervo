@@ -1,20 +1,21 @@
 ---
 id: 12373200
-date: "2006-10-05T21:53:00+00:00"
+date: "2006-10-05T21:53:00Z"
 last_modified_at: null
 tags:
-  - caso-banestado
-  - eduardo
-  - lula
-  - sexta-feira-13
+  - "caso-banestado"
+  - "eduardo"
+  - "lula"
+  - "sexta-feira-13"
 categories:
-  - noticias
-title: "Eduardo é o anfitrião de Lula nesta sexta"
+  - "noticias"
+title: "Eduardo \u00e9 o anfitri\u00e3o de Lula nesta sexta"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Enfim, o candidato do PSB ao governo de Pernambuco, Eduardo Campos, poderá fazer fazer jus ao seu slogan \"Lula <I>é</I> Eduardo\", usado à exaustão desde o in?cio da campanha. </FONT></P></p>
 <p><P><FONT face=Verdana>Sem o candidato do PT ao governo -&nbsp;derrotado no 1º turno -&nbsp;Humberto Costa, no páreo, o socialista é o \"anfitrião\" do presidente Lula, nesta sexta-feira.</FONT></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana>Às 18h, está previsto um jantar oferecido por Bezerra Coelho ao presidente. Será na casa da mãe do prefeito, Lizete Bezerra Coelho. </FONT></P></p>
 <p><P><FONT face=Verdana>Às 20h30, o presidente-candidato faz com?cio em Salvador, no Farol da Barra.</FONT></P></p>
 <p><P><FONT face=Verdana><EM>*Acompanhe a entrevista coletiva que o presidente Lula concede, às 8h, de Bras?lia, a quatro rádios nordestinas, entre elas a <B>Rádio Jornal do Commercio</B>.&nbsp;Ouça <STRONG><A href=\"https://jc3.uol.com.br/radiojornal/\" target=_blank>aqui</A></STRONG>, ao vivo.</EM></FONT></P></FONT> </p>
+{\% endraw %}

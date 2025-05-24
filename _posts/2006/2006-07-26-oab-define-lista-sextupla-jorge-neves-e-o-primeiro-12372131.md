@@ -1,21 +1,22 @@
 ---
 id: 12372131
-date: "2006-07-26T19:45:00+00:00"
+date: "2006-07-26T19:45:00Z"
 last_modified_at: null
 tags:
-  - jorge-jesus
-  - lista
-  - mozart-neves
-  - primeiro-turno
-  - undefined
+  - "jorge-jesus"
+  - "lista"
+  - "mozart-neves"
+  - "primeiro-turno"
+  - "undefined"
 categories:
-  - noticias
-title: "OAB define lista sêxtupla. Jorge Neves é o primeiro"
+  - "noticias"
+title: "OAB define lista s\u00eaxtupla. Jorge Neves \u00e9 o primeiro"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>A OAB de Pernambuco acaba de concluir a apuração dos votos para escolha dos seis nomes que serão encaminhados ao Tribunal de Justiça e, depois de selecionados três, ao governador Mendonça Filho para nomeação do novo desembargador estadual.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>&nbsp;<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>O resultado é o seguinte:</FONT></P></p>
@@ -50,3 +51,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Primeiro colocado, ex-presidente da OAB por três mandatos e de fam?lia com tradição no meio jur?dico.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana><o:p></o:p></FONT>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>As surpresas na eleição direta realizada pela OAB foram a&nbsp;quinta colocação de Pedro Henrique e a sétima de Carlos Gil – que era dado como certo entre os seis.</FONT></P> </p>
+{\% endraw %}

@@ -1,17 +1,18 @@
 ---
 id: 12373704
-date: "2006-10-23T06:41:00+00:00"
+date: "2006-10-23T06:41:00Z"
 last_modified_at: null
 tags:
-  - eduardo
+  - "eduardo"
 categories:
-  - noticias
-title: "“Mendonça insiste na inverdade??? , diz Eduardo"
+  - "noticias"
+title: "\u201cMendon\u00e7a insiste na inverdade??? , diz Eduardo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><STRONG><FONT size=4></FONT></STRONG></p>
 <p><P><FONT size=2><FONT size=1><FONT size=2></p>
 <p><DIV style=\"FONT-SIZE: 90%\"><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG></FONT></DIV></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P style=\"FONT-SIZE: 90%\"><FONT face=Verdana></FONT></p>
 <p><P style=\"FONT-SIZE: 90%\"><B><FONT face=Verdana>FINANÇAS PÚBLICAS </FONT></p>
 <p><P style=\"FONT-SIZE: 90%\"></B><FONT face=Verdana>Ao responder pergunta de Mendonça sobre “como conseguiu quebrar o Estado???, Eduardo afirmou que o pefelista insistia “numa inverdade??? e recorreu a uma entrevista de Jarbas Vasconcelos em 1994, quando explicou que não ia disputar o governo porque “Pernambuco estava quebrado e não queria governar só para pagar a folha salarial???. </FONT></FONT></P></FONT></FONT> </p>
+{\% endraw %}

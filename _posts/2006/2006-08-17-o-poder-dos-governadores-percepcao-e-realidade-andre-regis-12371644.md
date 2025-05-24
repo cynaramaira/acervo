@@ -1,20 +1,21 @@
 ---
 id: 12371644
-date: "2006-08-17T09:30:00+00:00"
+date: "2006-08-17T09:30:00Z"
 last_modified_at: null
 tags:
-  - andre-rio
-  - governadores
-  - poderosa
-  - registro
+  - "andre-rio"
+  - "governadores"
+  - "poderosa"
+  - "registro"
 categories:
-  - colunistas
-title: "O Poder dos Governadores: percepção e realidade (André Régis)"
+  - "colunistas"
+title: "O Poder dos Governadores: percep\u00e7\u00e3o e realidade (Andr\u00e9 R\u00e9gis)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por<STRONG> André Regis*</STRONG><BR>Cientista pol?tico</FONT></P></p>
 <p><P align=right><FONT face=Verdana></FONT></P></p>
 <p><P align=justify><FONT face=Verdana>A disputa pelo governo de Pernambuco já está a pleno vapor. Tenho observado que até agora, os principais candidatos apresentam discursos semelhantes. Por isso, muito provavelmente, seus programas deverão ser relativamente iguais. Certamente, eles serão recheados com muitas promessas, e marcados pelo pouco compromisso com a realidade. </FONT></P></p>
@@ -30,3 +31,4 @@ imagem: null
 <p><P align=justify><FONT face=Verdana>Por tudo isso, é preciso redimensionar o poder real dos governadores para que os eleitores possam distinguir as propostas exeqü?veis das fantasiosas. Em nome da tradição pol?tica de Pernambuco, e, principalmente, do legado de Joaquim Nabuco, é fundamental um debate substantivo em torno das plataformas de governo. Assim, por um lado, os candidatos devem se cercar de quadros qualificados para a elaboração de verdadeiros programas. E, por outro, os eleitores devem se qualificar melhor para exigir plataformas comprometidas, ao mesmo tempo, com o futuro e com a realidade. Confesso que isso não deve acontecer, uma vez que na ignorância e na ficção, todos os candidatos tendem a ser excelentes. </FONT></P></p>
 <p><P align=justify><FONT face=Verdana></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>*André Regis</STRONG> é Ph.D. em Ciência Pol?tica pela New School For Social Research – Nova York, EUA. Doutor em Direito pela UFPE</FONT></P> </p>
+{\% endraw %}

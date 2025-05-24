@@ -1,20 +1,21 @@
 ---
 id: 12374753
-date: "2006-11-28T08:41:00+00:00"
+date: "2006-11-28T08:41:00Z"
 last_modified_at: null
 tags:
-  - contas-bancarias
-  - estatais
-  - filho
-  - lula
+  - "contas-bancarias"
+  - "estatais"
+  - "filho"
+  - "lula"
 categories:
-  - noticias
+  - "noticias"
 title: "Verbas de estatais ajudam a bancar TV de filho de Lula"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Da <STRONG>Folha de S.Paulo</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>A Gamecorp, da qual é sócio Fábio Luiz Lula da Silva, 31, filho do presidente Luiz Inácio Lula da Silva, compartilha com o Grupo Bandeirantes de Comunicação o faturamento l?quido obtido com verbas do governo federal em anúncios veiculados pela Play TV (ex-Rede 21), inclusive os de interesse da Presidência da República.</FONT></P></p>
 <p><P><FONT face=Verdana>Isso é o que estabelece contrato sigiloso firmado em abril último pela Rede 21 Comunicações Ltda, do grupo Bandeirantes, e a Gamecorp, que produz programas sobre games e conteúdo para celular.</FONT></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"O governo federal, assim como procede em relação às demais redes de televisão do Pa?s, também compra espaços na Rede 21 para veiculação de publicidade pública. As redes em que o governo anuncia são empresas que, por direito, podem exercer sua autonomia firmando contratos com outros entes privados, sem qualquer ingerência do poder público. Assim, a Secom não tem acesso a eventuais contratos das emissoras com terceiros\", diz a nota.</FONT></P></p>
 <p><P><FONT face=Verdana>Além disso, o governo afirmou que os órgãos federais estão diminuindo os repasses para a Rede 21 em relação a 2005.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://www1.folha.uol.com.br/fsp/brasil/fc2811200604.htm\" target=_blank>aqui</A></EM></STRONG> (assinantes).</FONT></P> </p>
+{\% endraw %}

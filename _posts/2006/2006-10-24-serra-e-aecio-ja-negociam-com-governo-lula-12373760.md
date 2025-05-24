@@ -1,19 +1,20 @@
 ---
 id: 12373760
-date: "2006-10-24T10:56:00+00:00"
+date: "2006-10-24T10:56:00Z"
 last_modified_at: null
 tags:
-  - governo
-  - lula
-  - serrana
+  - "governo"
+  - "lula"
+  - "serrana"
 categories:
-  - noticias
-title: "Serra e Aécio já negociam com governo Lula"
+  - "noticias"
+title: "Serra e A\u00e9cio j\u00e1 negociam com governo Lula"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Da <STRONG>Folha de S.Paulo</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Os governadores tucanos José Serra e Aécio Neves já começaram a negociar nesta semana futuras parcerias com a União considerando a possibilidade de reeleição do presidente Luiz Inácio Lula da Silva.</FONT></P></p>
 <p><P><FONT face=Verdana>Os acertos prévios visam à cooperação econômica. No caso de São Paulo, Serra teve nesta semana reuniões para agilizar uma plano comum de segurança pública. Aécio negocia parcerias em obras rodoviárias.</FONT></P></p>
@@ -21,3 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>Para o ministro, \"a vida muda completamente depois da eleição\". Em relação a Minas, a idéia da União é transferir a responsabilidade de gestão de algumas rodovias federais para o Estado. Em troca, poderia haver compensação por meio de repasses maiores de CPMF.</FONT></P></p>
 <p><P><FONT face=Verdana>\"Minas é o Estado que mais contém rodovias federais. Até já começamos a conversar com o governador sobre a possibilidade de administração das rodovias federais pelo governo estadual\", revelou Mantega. As conversas, segundo ele, serão intensificadas após a eleição.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://www1.folha.uol.com.br/folha/brasil/ult96u85697.shtml\" target=_blank>aqui</A></EM></STRONG>.</FONT></P> </p>
+{\% endraw %}

@@ -1,19 +1,20 @@
 ---
 id: 12371251
-date: "2006-09-04T18:02:00+00:00"
+date: "2006-09-04T18:02:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - humberto-costa
-  - lula
+  - "eduardo"
+  - "humberto-costa"
+  - "lula"
 categories:
-  - noticias
-title: "Humberto e Eduardo têm conversa com Lula"
+  - "noticias"
+title: "Humberto e Eduardo t\u00eam conversa com Lula"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Humberto Costa (PT) e Eduardo Campos (PSB) não perdem tempo na hora de disputar o apoio do presidente Lula (PT). </FONT></P></p>
 <p><P><FONT face=Verdana>Ambos viajam a Bras?lia com o objetivo de vir no \"Aerolula\", amanhã, para Caruaru, no Agreste de Pernambuco, onde Lula fará um com?cio.</FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo já segue para Bras?lia hoje à noite, segundo informou sua assessoria de imprensa. Já Humberto viaja à Capital Federal amanhã, pela manhã.</FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>O com?cio foi articulado pela Confederação Nacional dos Trabalhadores na Agricultura (Contag).</FONT></P></p>
 <p><P><FONT face=Verdana>O presidente da Contag, Manoel Santos, já está em Caruaru, cuidando dos preparativos. Ele aguarda a presença das nove federações da região no evento.</FONT></P></p>
 <p><P><FONT face=Verdana>A Contag vai fazer um balanço das ações do Governo Federal, principalmente a reforma agrária, a agricultura familiar e o acesso ao crédito. </FONT></P> </p>
+{\% endraw %}

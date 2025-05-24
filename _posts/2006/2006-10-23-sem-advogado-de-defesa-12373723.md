@@ -1,18 +1,19 @@
 ---
 id: 12373723
-date: "2006-10-23T17:50:00+00:00"
+date: "2006-10-23T17:50:00Z"
 last_modified_at: null
 tags:
-  - advogados
-  - defesa
+  - "advogados"
+  - "defesa"
 categories:
-  - noticias
+  - "noticias"
 title: "Sem advogado de defesa"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do <STRONG><EM><A href=\"https://www.noblat.com.br/\" target=_blank>blog</A></EM></STRONG> de Noblat</FONT></P></p>
 <p><P><FONT face=Verdana>Foi um vexame na verdade o desempenho de Alckmin no debate da última quinta-feira promovido pelo SBT.</FONT></P></p>
 <p><P><FONT face=Verdana>Avaliado em cima do laço, não havia me pareciedo um vexame. Mas pensando melhor, foi.</FONT></P></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>A maioria de tais programas foi inventada nos dois governos de FHC. Lula ampliou-os porque eles existiam.</FONT></P></p>
 <p><P><FONT face=Verdana>Alckmin se arrisca a sair menor do que entrou no segundo turno.</FONT></P></p>
 <p><P><FONT face=Verdana>Menor já saiu o PSDB. Não teve um candidato a presidente capaz de defender sua herança com argumentos razoáveis e algum brilho.</FONT></P> </p>
+{\% endraw %}

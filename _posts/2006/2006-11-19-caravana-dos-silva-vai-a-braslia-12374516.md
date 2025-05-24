@@ -1,17 +1,18 @@
 ---
 id: 12374516
-date: "2006-11-19T09:11:00+00:00"
+date: "2006-11-19T09:11:00Z"
 last_modified_at: null
 tags:
-  - pensilvania
+  - "pensilvania"
 categories:
-  - noticias
+  - "noticias"
 title: "Caravana dos Silva vai a Bras?lia "
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 12pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Por <STRONG>Verônica Almeida<BR></STRONG>Do Jornal do Commercio</SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Conterrâneos do presidente Luiz Inácio Lula da Silva já começaram a se organizar para acompanhar, em Bras?lia, a solenidade de in?cio do segundo mandato do petista. A idéia é que a caravana Avança Brasil deixe o Agreste pernambucano no próximo dia 28 de dezembro, com 54 pessoas, cinco a mais que a de 2002, e chegue lá no dia 30. Marlos Duarte, ex-vereador de Garanhuns, membro do diretório do PSB e organizador da viagem, planeja montar uma tenda no Planalto Central e fazer uma exposição sobre o lugar onde Lula nasceu. <?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"></SPAN>&nbsp;</P></p>
@@ -20,3 +21,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Segundo Marlos, os parentes do presidente reeleito terão prioridade na viagem, que será feita de ônibus. A hospedagem está sendo buscada junto à Confederação dos Trabalhadores na Agricultura (Contag), que tem um centro <?xml:namespace prefix = st1 ns = \"urn:schemas-microsoft-com:office:smarttags\" /><st1:PersonName w:st=\"on\" ProductID=\"em Bras?lia. Na\">em Bras?lia. Na</st1:PersonName> primeira caravana, 19 parentes do presidente percorreram mais de dois mil quilômetros para assistir à posse. Muitos deles pretendem voltar nessa segunda edição. </SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/11/19/not_209302.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL). </SPAN></P> </p>
+{\% endraw %}

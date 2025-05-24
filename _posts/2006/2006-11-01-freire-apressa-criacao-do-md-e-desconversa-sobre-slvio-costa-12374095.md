@@ -1,19 +1,20 @@
 ---
 id: 12374095
-date: "2006-11-01T11:29:00+00:00"
+date: "2006-11-01T11:29:00Z"
 last_modified_at: null
 tags:
-  - gal-costa
-  - paulo-freire
-  - recriacao
+  - "gal-costa"
+  - "paulo-freire"
+  - "recriacao"
 categories:
-  - noticias
-title: "Freire apressa criação do MD e desconversa sobre S?lvio Costa"
+  - "noticias"
+title: "Freire apressa cria\u00e7\u00e3o do MD e desconversa sobre S?lvio Costa"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Jorge Cavalcanti<BR></STRONG>Do JC especial para o <STRONG>Blog</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>O PPS e o PMN vão tentar definir hoje a data para a convenção individual em que será votada a fusão dos dois partidos com o PHS para formar o Movimento Democrático (MD) e superar a cláusula de barreira.</FONT></P></p>
 <p><P><FONT face=Verdana>Segundo o presidente nacional do PPS, deputado federal Roberto Freire, primeiro suplente do senador eleito Jarbas Vasconcelos (PMDB), cada sigla tem que aprovar a medida separadamente. E, em uma convenção conjunta, selar a fusão.</FONT></P></p>
@@ -31,3 +32,4 @@ imagem: null
 <p><P><B><FONT face=Verdana>Oposição ao segundo governo Lula</FONT></P></B></p>
 <p><P><FONT face=Verdana>Antes mesmo do presidente Lula iniciar o seu segundo mandato, Freire já defende que o MD faça oposição ao novo governo. ??cido cr?tico de Lula, o deputado diz que o petista promoveu um assistencialismo \"que beirou a compra de votos\". \"Ele substituiu os antigos coronéis pelo cartão do Bolsa-Fam?lia\", dispara.</FONT></P></p>
 <p><P><FONT face=Verdana>Freire analisa que o eleitor, ao votar em Lula, priorizou \"um pouco mais de comida na mesa hoje, apesar da frouxidão moral do seu governo\". Para o deputado, a vinculação do governador eleito Eduardo Campos (PSB) a Lula ajudou muito na sua vitória sobre Mendonça, mas não foi determinante.</FONT></P> </p>
+{\% endraw %}

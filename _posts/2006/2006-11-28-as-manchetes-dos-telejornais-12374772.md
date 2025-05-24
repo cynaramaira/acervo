@@ -1,17 +1,18 @@
 ---
 id: 12374772
-date: "2006-11-28T20:02:00+00:00"
+date: "2006-11-28T20:02:00Z"
 last_modified_at: null
 tags:
-  - sem-tags
+  - "sem-tags"
 categories:
-  - noticias
+  - "noticias"
 title: "As manchetes dos telejornais "
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Da <STRONG>Folha Online</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Jornal Nacional (Rede Globo)</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Exclusivo: documentos oficiais revelam que o caos no tráfego aéreo já tinha sido previsto há meses. Dois Brigadeiros que previram foram afastados na semana passada.</FONT></P></p>
@@ -40,3 +41,4 @@ imagem: null
 <p><P><FONT face=Verdana>Emoção na despedida ao ator Jece Valadão, o mais famoso \"cafajeste\" do cinema brasileiro.</FONT></P></p>
 <p><P><FONT face=Verdana>Exclusivo: entrevista com o piloto brasileiro que viu a morte de perto. Christiano da Mata se recupera, no Brasil, do acidente que sofreu há quatro meses nos Estados Unidos.</FONT></P></p>
 <p><P><FONT face=Verdana>As imagens de mais um dia de chuva e alagamentos em São Paulo.</FONT></P> </p>
+{\% endraw %}

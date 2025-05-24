@@ -1,19 +1,20 @@
 ---
 id: 12371704
-date: "2006-08-15T07:21:00+00:00"
+date: "2006-08-15T07:21:00Z"
 last_modified_at: null
 tags:
-  - contran
-  - lula
-  - metodos-contraceptivos
+  - "contran"
+  - "lula"
+  - "metodos-contraceptivos"
 categories:
-  - noticias
+  - "noticias"
 title: "Todos contra Lula no guia"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P></p>
 <p><DIV id=corpo style=\"FONT-SIZE: 90%\"><FONT face=Verdana size=2>Do <STRONG>Jornal do Commercio</STRONG></FONT></DIV></p>
 <p><DIV style=\"FONT-SIZE: 90%\"><FONT face=Verdana size=2></FONT>&nbsp;</DIV></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><DIV style=\"FONT-SIZE: 90%\"><FONT face=Verdana size=2>Não esperem muita pancadaria hoje e amanhã. Deve ter, mas pouca. </FONT></DIV></p>
 <p><DIV style=\"FONT-SIZE: 90%\"><FONT face=Verdana size=2></FONT>&nbsp;</DIV></p>
 <p><DIV style=\"FONT-SIZE: 90%\"><FONT face=Verdana size=2>Nestes primeiros dias, os candidatos aproveitam para se apresentar aos eleitores. Mas até a próxima semana começa a porrada.</FONT></DIV> </p>
+{\% endraw %}

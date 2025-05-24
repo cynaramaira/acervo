@@ -1,18 +1,19 @@
 ---
 id: 12371363
-date: "2006-08-29T10:59:00+00:00"
+date: "2006-08-29T10:59:00Z"
 last_modified_at: null
 tags:
-  - debate
-  - naomi-campbell
+  - "debate"
+  - "naomi-campbell"
 categories:
-  - noticias
-title: "O debate não foi de um vitorioso, mas de um derrotado"
+  - "noticias"
+title: "O debate n\u00e3o foi de um vitorioso, mas de um derrotado"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Ainda sobre o debate na TV Clube, não resta dúvidas de que Mendonça Filho foi o maior prejudicado.</FONT></P></p>
 <p><P><FONT face=Verdana>Não houve um vencedor. </FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo Campos saiu-se muito bem no momento mais quente do programa, quando reverteu com competência o ataque de Mendonça sobre os precatórios.</FONT></P></p>
@@ -32,3 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>Até René Patriota, que caiu de pára-quedas no debate (graças a uma liminar), partiu para cima do governador pedindo-lhe de volta o Partido Verde - atra?do pela União por Pernambuco para sua aliança.</FONT></P></p>
 <p><P><FONT face=Verdana>Mendonça vai realmente precisar de uma melhor preparação para os próximos debates, caso não queira perder pontos nas pesquisas de intenção de voto.</FONT></P></p>
 <p><P><FONT face=Verdana>Voltar atrás, desistir de novos debates,&nbsp;não pode mais. Haveria um desgaste grande. Ele já se comprometeu nesta madrugada, na sa?da da TV Clube, a participar dos demais.</FONT></P> </p>
+{\% endraw %}

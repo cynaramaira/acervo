@@ -1,19 +1,20 @@
 ---
 id: 12372386
-date: "2006-09-09T10:50:00+00:00"
+date: "2006-09-09T10:50:00Z"
 last_modified_at: null
 tags:
-  - banda
-  - sao
-  - sucesso
+  - "banda"
+  - "sao"
+  - "sucesso"
 categories:
-  - noticias
-title: "A banda Os Vampiros e o Forrozão Sanguessuga são um sucesso"
+  - "noticias"
+title: "A banda Os Vampiros e o Forroz\u00e3o Sanguessuga s\u00e3o um sucesso"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>O pessoal do PT e&nbsp;o ex-ministro&nbsp;Humberto Costa devem estar odiando, mas a campanha agressiva da União por Pernambuco, do governador&nbsp;Mendonça Filho (PFL),&nbsp;ganhou um interessante toque de humor no guia eleitoral dos deputados c</FONT><FONT face=Verdana>om uma versão&nbsp;divertid?ssima da música <EM>Você Não Vale Nada</EM>, da banda Solteirões do Forró (clique <STRONG><EM><A href=\"https://www.planetaforro.com.br/solteiroes2.htm\">aqui</A></EM></STRONG> para saber mais sobre a banda).</FONT></P></p>
 <p><P><FONT face=Verdana>A versão tem tudo para pegar. Até porque, normalmente, são as versões mesmo que restam, e não os fatos.</FONT></P></p>
 <p><P><FONT face=Verdana>Abaixo, o jornalista e colaborador freqüente do <STRONG>Blog</STRONG> Fernando Castilho apresenta uma firme defesa de mais humor na sucessão estadual de Pernambuco. Para ele, a campanha está muito chata:</FONT></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Com todo o respeito pelos condutores das campanhas, mas estamos precisando, nestes 15 dias finais, de uma gréa geral. Será que Mendonça Filho, Humberto Costa e Eduardo Campos não disseram nada nos programas que não desse um mote para uma tirada de humor?</FONT></P></p>
 <p><P><FONT face=Verdana>Isso aqui está parecendo eleição de pa?s desenvolvido, onde os debates são feito programas de partido. Como aqui no Brasil a gente não tem partido, essa conversa de eleição propositiva fica uma chatice insustentável.</FONT></P></p>
 <p><P><FONT face=Verdana>Repito: precisamos de uma gréa. Senão corremos o risco de ter uma eleição que no futuro ninguém vai se lembrar da música, de um personagem, de uma piada. Será que temos um time de marqueteiros que sofrem do figado, úlceras e cólicas eleitorais?</FONT></P> </p>
+{\% endraw %}

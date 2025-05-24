@@ -1,17 +1,18 @@
 ---
 id: 12371811
-date: "2006-08-10T10:36:00+00:00"
+date: "2006-08-10T10:36:00Z"
 last_modified_at: null
 tags:
-  - acao
+  - "acao"
 categories:
-  - noticias
-title: "MST convoca mil agricultores para resistir à ação de despejo "
+  - "noticias"
+title: "MST convoca mil agricultores para resistir \u00e0 a\u00e7\u00e3o de despejo "
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG><BR><BR>O Movimento dos Trabalhadores Rurais Sem Terra (MST) informou, na tarde de ontem, que vai mobilizar mil agricultores de quatro acampamentos para engrossar a linha de resistência à ação de despejo do Engenho São João, em São Lourenço da Mata, na Região Metropolitana do Recife. </FONT></P></p>
 <p><P><FONT face=Verdana>Os trabalhadores devem começar a chegar ao imóvel ainda esta semana. De acordo com o MST, mulheres grávidas e crianças também vão permanecer na área. </FONT></P></p>
 <p><P><FONT face=Verdana>Ontem à tarde, a Secretaria de Defesa Social (SDS) e a Pol?cia Federal (PF) voltaram a informar que ainda não foram notificadas a respeito da decisão judicial proferida pelo juiz da 2ª Vara de São Lourenço da Mata, José Gilmar da Silva. </FONT></P></p>
@@ -19,3 +20,4 @@ imagem: null
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/08/10/not_195934.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Comentário meu:</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Há muitos interesses pol?ticos nesse jogo. Da oposição e do governo. Dificilmente esses sem-terra serão despejados antes do fim das eleições - incluindo o 2º turno, no final de outubro.</FONT></P> </p>
+{\% endraw %}

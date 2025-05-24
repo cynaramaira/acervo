@@ -1,18 +1,19 @@
 ---
 id: 12372904
-date: "2006-09-27T21:02:00+00:00"
+date: "2006-09-27T21:02:00Z"
 last_modified_at: null
 tags:
-  - ibope
-  - lula
+  - "ibope"
+  - "lula"
 categories:
-  - noticias
-title: "IBOPE também dá a Lula 6 pontos de vantagem"
+  - "noticias"
+title: "IBOPE tamb\u00e9m d\u00e1 a Lula 6 pontos de vantagem"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><A name=post26067><FONT face=Verdana></FONT></A></p>
 <p><P class=fontPadrao><FONT face=Verdana></FONT></p>
 <p><P><FONT face=Verdana>Do <STRONG>Blog do Noblat</STRONG></FONT></P></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><P><U><FONT face=Verdana>Simulação de segundo turno</FONT></U></P></p>
 <p><P><FONT face=Verdana>Lula - 52%<BR></FONT><FONT face=Verdana>Alckmin - 40%<BR></FONT></P></p>
 <p><P><FONT face=Verdana>A margem de erro das pesquisas IBOPE e Datafolha é de 2 pontos percentuais para mais ou para menos.</FONT></P> </p>
+{\% endraw %}

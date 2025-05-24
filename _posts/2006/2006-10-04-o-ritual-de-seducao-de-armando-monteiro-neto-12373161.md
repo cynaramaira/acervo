@@ -1,18 +1,19 @@
 ---
 id: 12373161
-date: "2006-10-04T17:30:00+00:00"
+date: "2006-10-04T17:30:00Z"
 last_modified_at: null
 tags:
-  - armando-monteiro
-  - neto
+  - "armando-monteiro"
+  - "neto"
 categories:
-  - noticias
-title: "O ritual de sedução de Armando Monteiro Neto"
+  - "noticias"
+title: "O ritual de sedu\u00e7\u00e3o de Armando Monteiro Neto"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Restaram poucos caminhos ao deputado federal Armando Monteiro Neto (PTB), campeão de votos em Pernambuco e principal l?der da Frente Trabalhista (PTB e PMN) no Estado.</FONT></P></p>
 <p><P><FONT face=Verdana>Caberá a ele, por delegação da Frente, decidir quem apoiará neste segundo turno - se Eduardo Campos (PSB) ou Mendonça Filho (PFL).</FONT></P></p>
 <p><P><FONT face=Verdana>Houve muitas romarias desde ontem até o escritório dele, na Ilha do Leite, no Recife. Muitos telefonemas. Dezenas o procuraram para conversar.</FONT></P></p>
@@ -34,3 +35,4 @@ imagem: null
 <p><P><FONT face=Verdana>Ele vai cobrar isso amanhã, pessoalmente, durante encontro com o socialista. </FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo volta de Bras?lia hoje à noite e, pela manhã, só tem um horário fechado, às 10h - uma visita ao prefeito João Paulo (PT).</FONT></P></p>
 <p><P><FONT face=Verdana>Mas nas agendas, tanto dele quanto de Armando, há um horário especialmente vago: 11h30.</FONT></P> </p>
+{\% endraw %}

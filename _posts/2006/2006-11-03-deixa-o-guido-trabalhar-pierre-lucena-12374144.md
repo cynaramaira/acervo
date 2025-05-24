@@ -1,18 +1,19 @@
 ---
 id: 12374144
-date: "2006-11-03T10:02:00+00:00"
+date: "2006-11-03T10:02:00Z"
 last_modified_at: null
 tags:
-  - ednaldo-lucena
-  - pierre-gasly
+  - "ednaldo-lucena"
+  - "pierre-gasly"
 categories:
-  - colunistas
+  - "colunistas"
 title: "Deixa o Guido trabalhar (Pierre Lucena)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><SPAN style=\"FONT-SIZE: 10pt; COLOR: #333333; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\">Por <B>Pierre Lucena</B><BR>Professor e administrador <BR></SPAN><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><A href=\"mailto:pierre.lucena@contagemweb.com.br\"><SPAN style=\"COLOR: #333333; FONT-FAMILY: Verdana\">pierre.lucena@contagemweb.com.br</SPAN></A><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><o:p>&nbsp;</o:p></SPAN><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold; mso-bidi-font-style: italic\">Há alguns dias, uma parte do mercado financeiro iniciou um processo de fritura do Ministro da Economia, Guido Mantega. Esse processo teve in?cio com poss?veis especulações de substitutos no segundo mandato do Presidente Lula, e deve se intensificar nos próximos dias.<o:p></o:p></SPAN></P></p>
 <p><P style=\"TEXT-ALIGN: justify\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold; mso-bidi-font-style: italic\">O que mais impressiona nisso tudo é que, em nenhum momento, houve uma sinalização negativa do Presidente em relação ao desempenho do seu Ministro, muito pelo contrário, o principal motivo da reeleição de Lula foi o bom momento econômico pelo qual o pa?s vive.<o:p></o:p></SPAN></P></p>
@@ -31,3 +32,4 @@ imagem: null
 <p><P style=\"TEXT-ALIGN: justify\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold; mso-bidi-font-style: italic\">Adivinha onde esse porta-voz trabalha. Com certeza em algum banco.<o:p></o:p></SPAN></P></p>
 <p><P style=\"TEXT-ALIGN: justify\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold; mso-bidi-font-style: italic\">Como bem disse o Ministro Tarso Genro: “A Era Palocci acabou???.<o:p></o:p></SPAN></P></p>
 <p><P style=\"TEXT-ALIGN: justify\"><B><I><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">*Pierre Lucena</SPAN></I></B><I><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">, 35, doutor em finanças pela PUC-Rio, Mestre em Economia e Administrador pela UFPE, é professor-adjunto da Universidade Federal de Pernambuco, sócio da Contagem Consultoria Estratégica e Pesquisa (</SPAN></I><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><A href=\"https://www.contagemweb.com.br/\">www.contagemweb.com.br</A><I>). Foi secretário-adjunto de Educação do Estado. É Coordenador do Núcleo de Finanças e Investimentos do Departamento de Ciências Administrativas da UFPE (NEFI).<o:p></o:p></I></SPAN></P> </p>
+{\% endraw %}

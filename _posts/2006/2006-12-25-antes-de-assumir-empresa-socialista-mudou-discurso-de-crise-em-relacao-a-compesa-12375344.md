@@ -1,21 +1,22 @@
 ---
 id: 12375344
-date: "2006-12-25T17:48:00+00:00"
+date: "2006-12-25T17:48:00Z"
 last_modified_at: null
 tags:
-  - compesa
-  - crise-sanitaria
-  - discurso
-  - empresa
-  - variantes
+  - "compesa"
+  - "crise-sanitaria"
+  - "discurso"
+  - "empresa"
+  - "variantes"
 categories:
-  - noticias
-title: "Antes de assumir empresa, socialista mudou discurso de crise em relação à Compesa"
+  - "noticias"
+title: "Antes de assumir empresa, socialista mudou discurso de crise em rela\u00e7\u00e3o \u00e0 Compesa"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>No programa de governo do candidato socialista Eduardo Campos, o PSB afirma que a Compesa tinha sérios problemas gerenciais e precisava ser remodelada.</FONT></P></p>
 <p><P><FONT face=Verdana>Passada a eleição, o discurso de campanha já não é mais o mesmo.</FONT></P></p>
 <p><P><FONT face=Verdana>\"Luiz Gonzaga Perazo fez um trabalho de resgate e recuperação empresarial na empresa. Ele zerou o déficit financeiro\", afirmou o novo secretário de Recursos H?dricos, João Bosco de Almeida, em programa na JC/CBN.</FONT></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Danilo Cabral lembrou que o reajuste da Celpe ainda não havia sido aplicado e não poderia ser usado como referência no cálculo da Compesa. \"Faço um apelo a ARPE para adiar o reajuste ou refazer o cálculo sem</p>
 <p> levar em consideração o aumento da tarifa de energia\". <BR></FONT><FONT face=Verdana><STRONG>Novo nome</STRONG></P></FONT></p>
 <p><P><FONT face=Verdana>O nome do novo presidente da estatal, aliás, já pode estar definido. \"Vou sentar com o governador eleito e bater o martelo neste final de semana\", despistava, na última sexta-feira.</FONT></P> </p>
+{\% endraw %}

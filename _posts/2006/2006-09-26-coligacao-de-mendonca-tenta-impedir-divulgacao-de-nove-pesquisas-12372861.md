@@ -1,21 +1,22 @@
 ---
 id: 12372861
-date: "2006-09-26T17:20:00+00:00"
+date: "2006-09-26T17:20:00Z"
 last_modified_at: null
 tags:
-  - atentado
-  - divulgacao
-  - mendonca
-  - novela
-  - pesquisas
+  - "atentado"
+  - "divulgacao"
+  - "mendonca"
+  - "novela"
+  - "pesquisas"
 categories:
-  - noticias
-title: "Coligação de Mendonça tenta impedir divulgação de nove pesquisas"
+  - "noticias"
+title: "Coliga\u00e7\u00e3o de Mendon\u00e7a tenta impedir divulga\u00e7\u00e3o de nove pesquisas"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Com a disputa apertada e Mendonça Filho (PFL) estagnado no mesmo patamar (em torno dos 35%) desde o in?cio da campanha, os advogados da União por Pernambuco fazem o poss?vel para impedir que novas pesquisas possam interferir no jogo nesta reta final.</FONT></P></p>
 <p><P><FONT face=Verdana>Apontando falhas metodológicas, eles pediram ao Tribunal Regional Eleitoral que proibisse a realização de nove pesquisas apenas neste mês.</FONT></P></p>
 <p><P><FONT face=Verdana>Foram três da Brasmarket, uma do Sensus (TV Tribuna), outra do Campus, três da Databrain e a última do Ibope.</FONT></P></p>
@@ -40,3 +41,4 @@ imagem: null
 <p><P><FONT face=Verdana>Eduardo Campos&nbsp;&nbsp;&nbsp; 18,8%</FONT></P></p>
 <p><P><FONT face=Verdana>Foram 469 entrevistas e a margem de erro é de 5%.</FONT></P></p>
 <p><P><FONT face=Verdana>O instituto <STRONG>Campus</STRONG> faz pesquisas para o PSB de Eduardo Campos. No último levantamento, o socialista estaria a nove pontos de Mendonça e com o dobro de Humberto.</FONT></P> </p>
+{\% endraw %}

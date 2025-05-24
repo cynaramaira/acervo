@@ -1,20 +1,20 @@
 ---
 id: 12371500
-date: "2006-08-23T17:20:00+00:00"
+date: "2006-08-23T17:20:00Z"
 last_modified_at: null
 tags:
-  - ana-arraes
-  - paulo
-  - rubem-fonseca
+  - "ana-arraes"
+  - "paulo"
+  - "rubem-fonseca"
 categories:
-  - noticias
-title: "A
- batalha do Siafem vem desde Arraes, diz Paulo Rubem"
+  - "noticias"
+title: "A\n batalha do Siafem vem desde Arraes, diz Paulo Rubem"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Recebi há pouco o e-mail abaixo do deputado federal Paulo Rubem Santiago (PT), candidato à reeleição e que há anos tenta ter acesso às contas estaduais.</FONT></P></p>
 <p><P><FONT face=Verdana>O acesso ao sistema de administração financeira tem sido fundamental para que a imprensa acompanhe de perto, por exemplo,&nbsp;os gastos do governo federal. </FONT></P></p>
 <p><P><FONT face=Verdana>É por meio dele, por exemplo, que a população fica sabendo como o governo Lula é generoso com os aliados na hora de liberar recursos de emendas parlamentares. E como tem favorecido os prefeitos e governadores da base mandando verbas.</FONT></P></p>
@@ -30,3 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>Hoje deputado federal, Paulo Rubem (PT/PE) tentou durante oito anos, através da Assembléa Legislativa, que a medida fosse tomada, sem sucesso. A Secretaria de Fazenda do Estado negava aos parlamentares o acesso às contas estaduais, alegando razões técnicas. </FONT></P></p>
 <p><P><FONT face=Verdana>A batalha pol?tica pela liberação da senha travada por Rubem atravessou os governos Arraes (do qual Eduardo Campos foi secretário) e Jarbas (de quem Mendonça foi vice por dois mandatos) e foi levada adiante por outros parlamentares, sendo sempre combatida por membros e aliados do Governo. </FONT></P></p>
 <p><P><FONT face=Verdana>Agora, repentinamente e nas vésperas da escolha do novo governador, o comando do Estado defende a proposta, certamente preocupado com a demanda da sociedade, ávida pela transparência e fiscalização das contas públicas. É, eleição realmente faz milagre.</FONT></P></I></FONT> </p>
+{\% endraw %}

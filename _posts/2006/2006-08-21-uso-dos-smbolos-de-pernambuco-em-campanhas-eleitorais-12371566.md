@@ -1,17 +1,18 @@
 ---
 id: 12371566
-date: "2006-08-21T11:29:00+00:00"
+date: "2006-08-21T11:29:00Z"
 last_modified_at: null
 tags:
-  - pernambuco
+  - "pernambuco"
 categories:
-  - noticias
+  - "noticias"
 title: "Uso dos s?mbolos de Pernambuco em campanhas eleitorais"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><FONT face=\"Courier New\"></p>
 <p><P><FONT face=Verdana>Por <STRONG>Túlio Velho Barreto</STRONG><BR>Cientista pol?tico da Fundaj e colaborador do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>No chat sobre as eleições de 2006 promovido pelo JC OnLine, na última quinta-feira, dia 17, do qual participei e respondi às perguntas e aos comentários dos internautas, critiquei o que considero uso indevido dos s?mbolos do Estado de Pernambuco, em especial do nosso Hino. </FONT></P></p>
@@ -43,3 +44,4 @@ imagem: null
 <p><P><FONT face=Verdana>Portanto, não é correto nem legal que alguém, indiv?duo ou coletivo, use-os segundo sua conveniência nem porque foi o primeiro a ter a idéia de usá-los. </FONT></P></p>
 <p><P><FONT face=Verdana></FONT></P><FONT face=Verdana></p>
 <p><P>Em se tratando do tema em tela, considero, enfim, que esta é a única lógica que deveria nortear os atores pol?ticos e gestores públicos, sobretudo os que buscam referências teóricas para as suas ações nos clássicos do liberalismo pol?tico, sobretudo nos contratualistas (Hobbes, Rousseau e Locke), o que aparentemente é o caso dos que lideram a União por Pernambuco. Ou para ela elaboram.</P></FONT> </p>
+{\% endraw %}

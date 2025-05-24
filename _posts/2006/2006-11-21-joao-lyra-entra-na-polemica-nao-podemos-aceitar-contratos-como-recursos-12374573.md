@@ -1,21 +1,22 @@
 ---
 id: 12374573
-date: "2006-11-21T11:55:00+00:00"
+date: "2006-11-21T11:55:00Z"
 last_modified_at: null
 tags:
-  - amcentral
-  - contratos
-  - joao-d
-  - raquel-lyra
-  - recursos
+  - "amcentral"
+  - "contratos"
+  - "joao-d"
+  - "raquel-lyra"
+  - "recursos"
 categories:
-  - noticias
-title: "João Lyra entra na polêmica: “Não podemos aceitar contratos como recursos???"
+  - "noticias"
+title: "Jo\u00e3o Lyra entra na pol\u00eamica: \u201cN\u00e3o podemos aceitar contratos como recursos???"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Agora acabou de vez o tal do clima de cordialidade entre as equipes de transição de Mendonça Filho (PFL) e Eduardo Campos (PSB).</FONT></P></p>
 <p><P><FONT face=Verdana>O vice-governador eleito, João Lyra Neto (PDT), coordenador da equipe do socialista, bateu duro nos números divulgados pelo grupo coordenado pelo secretário estadual de Planejamento, Cláudio Marinho.</FONT></P></p>
 <p><P><FONT face=Verdana>“Divulgar que tem R$ 1,3 bilhão e esse dinheiro não está em banco, isso não significa nada. (...) Por que não liberaram o dinheiro do Prodetur????, atacou Lyra, em entrevista há pouco à Rádio Folha.</FONT></P></p>
@@ -36,3 +37,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Resumo de tudo:</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Se alguém desceu do palanque, não foi aqui em Pernambuco.</FONT></P></p>
 <p><P><FONT face=Verdana>(<EM>Vamos conversar daqui a pouco com a equipe do governador, que já agendou nova reunião de transição para amanhã, às 10h, no Palácio das Princesas</EM>).</FONT></P> </p>
+{\% endraw %}

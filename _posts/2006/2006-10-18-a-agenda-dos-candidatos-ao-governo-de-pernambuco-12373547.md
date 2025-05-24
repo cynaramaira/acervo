@@ -1,20 +1,21 @@
 ---
 id: 12373547
-date: "2006-10-18T06:30:00+00:00"
+date: "2006-10-18T06:30:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "A agenda dos candidatos ao governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana><STRONG>EDUARDO CAMPOS (PSB)<BR></STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>6h30</STRONG>, no Recife, participa de encontro com portuários. Local: Porto do Recife </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>9h</STRONG>, no Recife, participa de encontro com lideranças evangélicas. Local: Recife Praia Hotel, no Pina </FONT></P></p>
@@ -30,3 +31,4 @@ imagem: null
 <p><DIV><FONT face=Verdana><STRONG>19h30</STRONG>, caminhada em Jardim São Paulo</FONT></DIV></p>
 <p><DIV><FONT face=Verdana></FONT>&nbsp;</DIV></p>
 <p><DIV><FONT face=Verdana><STRONG>20h30</STRONG>, caminhada e com?cio em Vitória de Santo Antão</FONT></DIV> </p>
+{\% endraw %}

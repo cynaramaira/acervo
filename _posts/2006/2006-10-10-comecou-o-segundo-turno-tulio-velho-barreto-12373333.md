@@ -1,18 +1,19 @@
 ---
 id: 12373333
-date: "2006-10-10T10:30:00+00:00"
+date: "2006-10-10T10:30:00Z"
 last_modified_at: null
 tags:
-  - anne-barreto
-  - segundo-turno
+  - "anne-barreto"
+  - "segundo-turno"
 categories:
-  - colunistas
-title: "Começou o segundo turno (Túlio Velho Barreto)"
+  - "colunistas"
+title: "Come\u00e7ou o segundo turno (T\u00falio Velho Barreto)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Túlio Velho Barreto*</STRONG><BR>Cientista Pol?tico e Pesquisador da Fundação Joaquim Nabuco<BR></FONT><A href=\"mailto:tulio@fundaj.gov.br\"><FONT face=Verdana>tulio@fundaj.gov.br</FONT></A></P></p>
 <p><P><FONT face=Verdana>Os últimos três dias - sábado, domingo e segunda - marcaram o in?cio do segundo turno eleitoral para governador de Pernambuco e presidente da República. Em cada dia tivemos um fato que o tornou relevante para as respectivas disputas. Aqui, vou tratar de tais acontecimentos e de suas repercussões sobre os primeiros dias da disputa que vai até 29 de outubro próximo, dia do segundo turno.&nbsp; </FONT></P></p>
 <p><P><FONT face=Verdana>De fato, no sábado, dia 7, a Folha de São Paulo publicou a primeira e única pesquisa de intenção de votos da disputa presidencial realizada e divulgada antes do in?cio da propaganda eleitoral obrigatória no rádio e na TV, que só começará na próxima quinta, dia 12. A pesquisa foi feita pelo Instituto DataFolha e também divulgada pela Rede Globo. No domingo, dia 8, ocorreu o primeiro debate entre os candidatos a presidente, agora envolvendo apenas o presidente-candidato Lula (PT) e o oposicionista Geraldo Alckmin (PSDB). E na segunda, ontem, dia 9, começou a propaganda dos dois candidatos que disputam a preferência do eleitorado pernambucano para&nbsp; governar o estado nos próximos quatro anos.</FONT></P></p>
@@ -35,3 +36,4 @@ imagem: null
 <p><P><FONT face=Verdana>Como a votação da oposição somada (Eduardo Campos-Frente Popular do Recife e Humberto Costa-Melhor para Pernambuco) no primeiro turno superou em 20% a votação alcançada pelo governador-candidato Mendonça Filho, é de se esperar que a campanha da União por Pernambuco seja mais agressiva e incisiva, assim como a de Alckmin, pois são os dois candidatos que têm que tirar votos de seus respectivos adversários. Para tanto, todo recurso de marketing será usado. Dou dois exemplos de como isso já começou a ser feito em Pernambuco. De fato, no rádio e na TV, o guia da União por Pernambuco recomeçou recheado de frases que visam claramente confundir o eleitorado da oposição: “Agora é 25??? ou “É Mendonça Filho???, apropriando-se da principal marca da campanha de Eduardo Campos, e “Mendonça Filho... melhor pra Pernambuco???, fazendo o mesmo com o nome da coligação que teve à frente o petista Humberto Costa na disputa do primeiro turno. </FONT></P></p>
 <p><P><FONT face=Verdana>Portanto, o eleitorado não deve esperar muita coisa no segundo turno, além de denúncias e agressões, a não ser, é claro, muito marketing.&nbsp;<BR>&nbsp;<BR></FONT><FONT face=Verdana><BR><EM>*Cientista pol?tico e pesquisador da Fundação Joaquim Nabuco, <STRONG>Túlio Velho Barreto</STRONG>, 48, é um dos autores dos livros “Democracia e Instituições Pol?ticas Brasileiras no final do Século XX??? (MCP-UFPE/Bagaço, 1998) e “Nordeste 2004 - O Voto das Capitais??? (Fundação Konrad Adenauer, 2005). Co-organizou e participou dos livros “Na Trilha do Golpe - 1964 revisitado??? (Editora Massangana, 2004) e “A Nova República - Visões da redemocratização??? (Cepe/JC, 2006), que resultaram de</p>
 <p> séries especiais publicadas pelo Jornal do Commercio em parceria com a Fundação Joaquim Nabuco.</EM></FONT></P> </p>
+{\% endraw %}

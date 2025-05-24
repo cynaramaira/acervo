@@ -1,20 +1,21 @@
 ---
 id: 12371231
-date: "2006-09-05T20:44:00+00:00"
+date: "2006-09-05T20:44:00Z"
 last_modified_at: null
 tags:
-  - assalto
-  - imprensa
-  - lula
-  - pesquisas
+  - "assalto"
+  - "imprensa"
+  - "lula"
+  - "pesquisas"
 categories:
-  - noticias
+  - "noticias"
 title: "De salto alt?ssimo, animado com as pesquisas, Lula ironiza a imprensa"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Já havia começado o com?cio de Caruaru quando Lula deixou o palanque para falar ao telefone. Recebia ali uma ligação com os resultados da última pesquisa Datafolha, divulgada há pouco no Jornal Nacional (veja os números abaixo, publicados no <STRONG><EM><U><A href=\"https://www.noblat.com.br/\" target=_blank><FONT color=crimson>blog</FONT></A></U></EM></STRONG> de Noblat).</FONT></P></p>
 <p><P><FONT face=Verdana>Lula voltou muito animado, informa Cec?lia Ramos, repórter do <STRONG>Blog</STRONG>. Fez a multidão rir o tempo inteiro e por várias vezes referiu-se&nbsp;à imprensa, fazendo graça porque os números não refletem as cr?ticas que recebe diariamente.</FONT></P></p>
 <p><P><FONT face=Verdana>A certa altura, viu que uma mulher portava um cartaz dizendo \"A alemanha está aqui\". Foi a deixa: \"Onde é que vocês viram um com?cio internacional em Caruaru? Vire a?, minha filha, para a imprensa ver\".</FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana size=2>Se comparada com a pesquisa Datafolha anterior aplicada no último dia 29, a pesquisa divulgada há pouco pelo Jornal Nacional mostra que Lula subiu um ponto, Alckmin ficou onde estava e Helo?sa perdeu um ponto. </FONT></P></p>
 <p><P><FONT face=Verdana size=2>Já&nbsp;foram&nbsp;ao ar 10 programas de propaganda dos candidatos a presidente (sempre às terças, quintas e sábados). Fora dezenas de comerciais de 30 segundos veiculados diariamente. </FONT></P></p>
 <p><P><FONT face=Verdana size=2>Faltam 10 programas - sem contar o que está entrando no ar neste momento.</FONT></P></FONT> </p>
+{\% endraw %}

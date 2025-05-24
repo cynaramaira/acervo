@@ -1,20 +1,21 @@
 ---
 id: 12373657
-date: "2006-10-22T07:29:00+00:00"
+date: "2006-10-22T07:29:00Z"
 last_modified_at: null
 tags:
-  - blogs-jc
-  - eduardo
-  - mendonca
-  - tv-jornal
+  - "blogs-jc"
+  - "eduardo"
+  - "mendonca"
+  - "tv-jornal"
 categories:
-  - noticias
-title: "Eduardo e Mendonça duelam hoje na TV Jornal. O Blog estará lá"
+  - "noticias"
+title: "Eduardo e Mendon\u00e7a duelam hoje na TV Jornal. O Blog estar\u00e1 l\u00e1"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>A uma semana do segundo turno das eleições, a TV Jornal coloca hoje, frente a frente, os dois candidatos finalistas na disputa pelo governo do Estado. </FONT></P></p>
 <p><P><FONT face=Verdana>A partir das 21h10 - e até as 22h40 - Eduardo Campos (PSB), da Frente Popular de Pernambuco, e Mendonça Filho (PFL), da União por Pernambuco, se enfrentam num debate que tem tudo para esquentar de vez o clima dos últimos dias da campanha. </FONT></P></p>
@@ -41,3 +42,4 @@ imagem: null
 <p><P><FONT face=Verdana>O programa poderá ser acompanhado também pela Rádio Jornal e suas difusoras espalhadas pelo Estado, bem como pelo JC OnLine. </FONT></P></p>
 <p><P><FONT face=Verdana>Além disso, o <STRONG>Blog do JC</STRONG> estará acompanhando em tempo real e com espaço para comentários do eleitor. </FONT></P></p>
 <p><P><FONT face=Verdana>O leitor terá ainda a cobertura completa do debate na edição de amanhã do Jornal do Commercio, que inclusive trará informações de bastidores, análises e entrevistas com os candidatos feitas após o programa.</FONT></P> </p>
+{\% endraw %}

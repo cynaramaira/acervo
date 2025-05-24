@@ -1,19 +1,20 @@
 ---
 id: 12373831
-date: "2006-10-28T09:30:00+00:00"
+date: "2006-10-28T09:30:00Z"
 last_modified_at: null
 tags:
-  - bruno-covas
-  - maranhao
-  - terra
+  - "bruno-covas"
+  - "maranhao"
+  - "terra"
 categories:
-  - noticias
-title: "Aqui mora Bruno Maranhão, sem-terra"
+  - "noticias"
+title: "Aqui mora Bruno Maranh\u00e3o, sem-terra"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><span style="font-family: Verdana;">Ao longo do dia de hoje estamos republicando momentos interessantes desta campanha eleitoral. </span></p>
 <p><span style="font-family: Verdana;">Aqui, vai mais um:</span></p>
 <p><span style="font-family: Verdana;">Em 25 de julho, ap&oacute;s uma entrevista exclusiva ao <strong>Blog</strong> (leia <strong><em><a href="https://jc3.uol.com.br/blogs/jc/2006/07/18/index.php#117" target="_blank" rel="noopener noreferrer">aqui</a></em></strong>), na qual falou pela primeira vez &agrave; imprensa do Brasil sobre sua pris&atilde;o e o quebra-quebra promovido pelos sem-terra liderados por ele na C&acirc;mara dos Deputados, Bruno Maranh&atilde;o abriu sua casa para conversar com os jornalistas.</span></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><span style="font-family: Verdana;">Na entrevista, voltou a eximir o MLST da responsabilidade pelo quebra-quebra promovido na C&acirc;mara dos Deputados no in?cio de junho.</span></p>
 <p><span style="font-family: Verdana;">Por causa do incidente, esteve preso na Penitenci&aacute;ria da Papuda, em Bras?lia, durante 38 dias. Tamb&eacute;m foi afastado da executiva nacional do Partido dos Trabalhadores e da campanha de Lula.</span></p>
 <p><span style="font-family: Verdana;">Foi orientado a n&atilde;o comparecer ao &uacute;ltimo com?cio do presidente, em Bras?lia Teimosa, no s&aacute;bado, para n&atilde;o atrapalha-lo.</span></p>
+{\% endraw %}

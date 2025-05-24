@@ -1,19 +1,20 @@
 ---
 id: 12372596
-date: "2006-09-17T17:59:00+00:00"
+date: "2006-09-17T17:59:00Z"
 last_modified_at: null
 tags:
-  - contran
-  - fechamento
-  - jose-serra
+  - "contran"
+  - "fechamento"
+  - "jose-serra"
 categories:
-  - noticias
-title: "Fecha o cerco contra José Serra"
+  - "noticias"
+title: "Fecha o cerco contra Jos\u00e9 Serra"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Do Blog de Josias de Souza</FONT></P></p>
 <p><P><A name=2006_09-17_17_22_24-10045644-0><FONT face=Verdana><STRONG>CPI decide investigar gestão de Serra na Saúde</STRONG></FONT></A></P></p>
 <p><P><FONT face=Verdana>A CPI das Sanguessugas requisitará nesta segunda-feira ao Ministério Público e à Justiça Federal de Mato Grosso todos os dados dispon?veis sobre as gestões de José Serra e de Barjas Negri no Ministério da Saúde durante o governo FHC. É o que informa o vice-presidente da comissão, deputado Raul Jungmann (PPS-PE). “Irei pessoalmente a Bras?lia nesta segunda-feira para providenciar a requisição???, disse Jungmann ao <I style=\"mso-bidi-font-style: normal\">blog</I>.</FONT></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-size: 12.0pt\">“Desde o in?cio dos seus trabalhos, a CPI fixou uma espécie de súmula???, disse Jungmann. “Não corremos atrás da palavra do [Luiz Antônio] Vedoin. Sabemos que ele se transformou, por assim dizer, num pistoleiro de aluguel. Mas não podemos desconhecer os documentos e comprovantes levados formalmente ao Ministério Público e à Justiça. Temos a obrigação de analisar os dados, para saber se têm consistência???.</SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-size: 12.0pt\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-size: 12.0pt\">Leia mais <A href=\"https://josiasdesouza.folha.blog.uol.com.br/\"><STRONG><EM>aqui</EM></STRONG></A>.</SPAN></P> </p>
+{\% endraw %}

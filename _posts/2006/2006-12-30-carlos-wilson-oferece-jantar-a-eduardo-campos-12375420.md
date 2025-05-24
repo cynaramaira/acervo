@@ -1,20 +1,21 @@
 ---
 id: 12375420
-date: "2006-12-30T22:13:00+00:00"
+date: "2006-12-30T22:13:00Z"
 last_modified_at: null
 tags:
-  - carlos-lupi
-  - eduardo-campos
-  - jantar
-  - wilson-witzel
+  - "carlos-lupi"
+  - "eduardo-campos"
+  - "jantar"
+  - "wilson-witzel"
 categories:
-  - noticias
+  - "noticias"
 title: "Carlos Wilson oferece jantar a Eduardo Campos "
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Ramos<BR></STRONG>Repórter do Blog do JC</FONT></P></p>
 <p><P><FONT face=Verdana>Não&nbsp;foi só o ex-tesoureiro do PT, Delúbio Soares, que escolheu a bela praia de Porto de Galinhas, no munic?pio de</p>
 <p> Ipojuca (PE),&nbsp;como refúgio.</FONT></P></p>
@@ -27,3 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>Nos bastidores, Cali não teria gostado do troca-troca. </FONT><FONT face=Verdana>A depender da conversa que ocorre agora, André ainda pode figurar no 2. escalão do novo governo. </FONT></P></p>
 <p><P><FONT face=Verdana>A&nbsp;dois dias da posse, Eduardo&nbsp;ainda corre para fechar a equipe. </FONT><FONT face=Verdana>Portanto,&nbsp;no jantar&nbsp;deste sábado, na bela casa de Cali,&nbsp;o menu vai além do&nbsp;peixinho e camarão...&nbsp;</FONT></P></p>
 <p><P><FONT face=Verdana>Ps.:<BR>A propósito, se não mudou de idéia, Eduardo Campos passa a virada do ano com a fam?lia,&nbsp;na praia de Candeias, no munic?pio de Jaboatão dos Guararapes. </FONT></P> </p>
+{\% endraw %}

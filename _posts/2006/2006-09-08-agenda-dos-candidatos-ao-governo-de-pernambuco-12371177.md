@@ -1,20 +1,21 @@
 ---
 id: 12371177
-date: "2006-09-08T06:58:00+00:00"
+date: "2006-09-08T06:58:00Z"
 last_modified_at: null
 tags:
-  - candidatos
-  - governo
-  - pernambuco
-  - reagendamentos
+  - "candidatos"
+  - "governo"
+  - "pernambuco"
+  - "reagendamentos"
 categories:
-  - noticias
+  - "noticias"
 title: "Agenda dos candidatos ao Governo de Pernambuco"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana><STRONG>MENDONÇA FILHO (PFL)</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>19h</STRONG>, carreata e inauguração do Comitê da União por Pernambuco do munic?pio de Bom Jardim</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>20h20</STRONG>, carreata nas ruas do centro do munic?pio de Limoeiro</FONT></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>15h</STRONG>, Terra Nova: reunião com o grupo pol?tico do prefeito Pedro Freire</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>17h</STRONG>, Santa Maria: Carreata pelas ruas centrais e com?cio com o ex-prefeito Rogério Jr. e ato pol?tico de adesão do ex-prefeito Mendonça (PCdoB)</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>21h</STRONG>, Lagoa Grande: caminhada pelas ruas centrais e com?cio</FONT></P> </p>
+{\% endraw %}

@@ -1,18 +1,19 @@
 ---
 id: 12371309
-date: "2006-09-01T09:54:00+00:00"
+date: "2006-09-01T09:54:00Z"
 last_modified_at: null
 tags:
-  - contran
-  - eduardo
+  - "contran"
+  - "eduardo"
 categories:
-  - noticias
+  - "noticias"
 title: "Os astros conspiram contra Eduardo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Os números da pesquisa Ibope/TV Globo, divulgados ontem, podem ter influ?do fortemente nos astros e mudado o rumo do dia de hoje na vida dos três principais candidatos ao governo de Pernambuco (Veja <STRONG><EM><U><A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/31/index.php\" target=_blank>aqui</A></U></EM></STRONG> os números completos da pesquisa).</FONT></P></p>
 <p><P><FONT face=Verdana>No levantamento, Mendonça Filho cresceu dois pontos percentuais acima da margem de erro (está com 38%) - ele esperava mais, mas foi ótimo.</FONT></P></p>
 <p><P><FONT face=Verdana>Humberto Costa (PT) manteve o segundo lugar, crescendo um ponto acima da margem (tem agora 25%). </FONT></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana color=mediumblue>Leão</FONT></P></p>
 <p><P><FONT face=Verdana>De 23/7 a 22/8 </FONT></P></p>
 <p><P><FONT face=Verdana>Talvez você sofra uma rejeição afetiva, o que pode abalar o seu equil?brio emocional. Desconforto. Os acontecimentos parecem se articular completamente independentes da sua vontade. Saúde vulnerável: cuide-se. Evite a negligência a todo custo. Momento restrito, mas não desanime.</FONT></P> </p>
+{\% endraw %}

@@ -1,18 +1,19 @@
 ---
 id: 12372992
-date: "2006-10-01T06:53:00+00:00"
+date: "2006-10-01T06:53:00Z"
 last_modified_at: null
 tags:
-  - cerveja
-  - votacao
+  - "cerveja"
+  - "votacao"
 categories:
-  - noticias
-title: "Veja os locais de votação das três principais chapas majoritárias"
+  - "noticias"
+title: "Veja os locais de vota\u00e7\u00e3o das tr\u00eas principais chapas majorit\u00e1rias"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><U><FONT face=Verdana>UNIÃO POR PERNAMBUCO</FONT></U></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)<BR></FONT></B><FONT face=Verdana>Local: Colégio Anchieta, na Ernesto de Paula Santos, 607, em Boa Viagem<BR>Horário: 11h<BR>Seção: 35ª<BR>Zona: 149ª</FONT></P><B></p>
 <p><P><FONT face=Verdana>EVANDRO AVELAR (PSDB)<BR></FONT></B><FONT face=Verdana>Local: Colégio Imaculada Conceição, Bairro Novo, em Olinda<BR>Horário: 12h<BR>Seção: 45ª<BR>Zona: 10ª <BR></FONT></P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P><FONT</p>
 <p> face=Verdana>AUGUSTO CÉSAR (PTB)<BR></FONT></B><FONT face=Verdana>Local: Faculdade de Serra Talhada, em Serra Talhada<BR>Horário:11h<BR>Seção: 37ª<BR>Zona: 71ª</FONT></P><B></p>
 <p><P><FONT face=Verdana>LUCIANO SIQUEIRA (PCdoB)<BR></FONT></B><FONT face=Verdana>Local: Escola Mário Melo, Campo<BR>Horário: 14h30<BR>Seção: 35ª<BR>Zona: 8ª</FONT></P></FONT> </p>
+{\% endraw %}

@@ -1,19 +1,20 @@
 ---
 id: 12372792
-date: "2006-09-24T18:54:00+00:00"
+date: "2006-09-24T18:54:00Z"
 last_modified_at: null
 tags:
-  - investigacao
-  - ministerio
-  - partido-verde
+  - "investigacao"
+  - "ministerio"
+  - "partido-verde"
 categories:
-  - noticias
-title: "Partido pede investigação do Ministério Público e da PF sobre gravações"
+  - "noticias"
+title: "Partido pede investiga\u00e7\u00e3o do Minist\u00e9rio P\u00fablico e da PF sobre grava\u00e7\u00f5es"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Transcrevo abaixo cópia do pedido apresentado hoje pelos advogados do PSB:</FONT></P></p>
 <p><P><FONT face=Verdana><EM>EXMO. SR. PROCURADOR REGIONAL ELEITORAL DO TRIBUNAL REGIONAL ELEITORAL DE PERNANBUCO.</EM></FONT></P></p>
 <p><P><BR><FONT face=Verdana><EM>A COLIGAÇÃO FRENTE POPULAR DE PERNAMBUCO, vem, respeitosamente, através de seu representante, delegados e advogados devidamente infra-assinados, NOT??CIAR FATOS E REQUERER PROVIDÊNCIAS URGENTES, expondo e requerendo a V. Exa. o que se segue:</EM></FONT></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>HÉLIO GURGEL<BR>OAB/PE 10.484</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>RODRIGO PELLEGRINO<BR>OAB/PE 12.040</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>PEDRO HENRIQUE BEZERRA<BR>OAB/PE 23.140</EM></FONT></P> </p>
+{\% endraw %}

@@ -1,18 +1,19 @@
 ---
 id: 12374752
-date: "2006-11-28T08:21:00+00:00"
+date: "2006-11-28T08:21:00Z"
 last_modified_at: null
 tags:
-  - democracia
-  - segundo-turno
+  - "democracia"
+  - "segundo-turno"
 categories:
-  - noticias
+  - "noticias"
 title: "A democracia segundo o lulo-petismo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Acabei de postar na seção Artigos, na coluna ao lado, um artigo do deputado Roberto Magalhães, do PFL,&nbsp;sobre o governo Lula, publicado hoje no Jornal do Commercio.</FONT></P></p>
 <p><P><FONT face=Verdana>Abaixo, alguns trechos do texto. Boa leitura.</FONT></P></p>
 <p><P><FONT face=Verdana>---------------------------------------</FONT></P></p>
@@ -25,3 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Recentemente, em Guarulhos, São Paulo, Lula citou os obstáculos que ele visualiza para “os canais de desenvolvimento do Pa?s???: as leis, as questões ambientais, a burocracia, a oposição, o Congresso, o Ministério Público e o Tribunal de Contas (Folha de S.Paulo, 1º caderno, edição de 27/11/2006). </FONT></P></p>
 <p><P><FONT face=Verdana>Esqueceu o presidente que as leis e as instituições citadas são indispensáveis ao funcionamento do Estado de direito? </FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/11/28/not_3694.php\">aqui</A></EM></STRONG> o texto completo.</FONT></P> </p>
+{\% endraw %}

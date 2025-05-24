@@ -1,21 +1,22 @@
 ---
 id: 12374941
-date: "2006-12-06T08:30:00+00:00"
+date: "2006-12-06T08:30:00Z"
 last_modified_at: null
 tags:
-  - celso-furtado
-  - fafy-siqueira
-  - governo
-  - luciano-juba
-  - lula
+  - "celso-furtado"
+  - "fafy-siqueira"
+  - "governo"
+  - "luciano-juba"
+  - "lula"
 categories:
-  - colunistas
-title: "Celso Furtado, Lula e o governo de coalizão (Luciano Siqueira)"
+  - "colunistas"
+title: "Celso Furtado, Lula e o governo de coaliz\u00e3o (Luciano Siqueira)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <B>Luciano Siqueira*</B><BR>Vice-prefeito do Recife</FONT></P><FONT size=2></p>
 <p><P><FONT face=Verdana>Em <B><I>A Fantasia Desfeita</B></FONT></I><FONT face=Verdana> (Paz e Terra, 3ª edição, 1999), Celso Furtado registra sua frustração face a indiferença com que as principais lideranças pol?ticas alinhadas com Jango, em 1962, receberam um Programa M?nimo, por ele redigido, a pedido do presidente, para dar conteúdo à ampla frente que se formava com o fim de restabelecer o presidencialismo. \"Os l?deres progressistas faziam um jogo pessoal, preocupados cada um em ampliar a área própria de influência\", escreveu. E cita alguns destes lideres, entre os quais San Tiago Dantas, Magalhães Pinto e Leonel Brizola.</FONT></P></p>
 <p><P><FONT face=Verdana>Agora, quarenta e quatro anos depois, um texto semelhante ao apresentado por Celso Furtado - a Agenda M?nima para um Governo de Coalizão - serve de base às negociações do presidente Lula com os partidos que se dispõem a apoiá-lo no segundo mandato. </FONT></P></p>
@@ -24,3 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>Uma agenda pró-desenvolvimento que, independentemente da inclinação pol?tico-ideológica de cada um, merece ser aplaudida, assim como incentivada dever ser a prática dos partidos e do presidente de a tomarem como referência na montagem do novo ministério. Depois, é acompanhar, cobrar e avaliar</p>
 <p> resultados.</FONT></P></FONT><B><I></p>
 <p><P><FONT face=Verdana>*Luciano Siqueira</FONT></B><FONT face=Verdana>, 60, médico, é vice-prefeito do Recife há duas gestões. Foi candidato a senador pelo PCdoB, na última eleição, e deputado estadual em Pernambuco nos anos 80.</FONT></P></I> </p>
+{\% endraw %}

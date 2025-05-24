@@ -1,20 +1,21 @@
 ---
 id: 12373400
-date: "2006-10-12T16:38:00+00:00"
+date: "2006-10-12T16:38:00Z"
 last_modified_at: null
 tags:
-  - ana-arraes
-  - eduardo
-  - precatorios
-  - raquel-lyra
+  - "ana-arraes"
+  - "eduardo"
+  - "precatorios"
+  - "raquel-lyra"
 categories:
-  - noticias
-title: "Eduardo usa Arraes, Lyra e Briano para se defender na questão dos precatórios"
+  - "noticias"
+title: "Eduardo usa Arraes, Lyra e Briano para se defender na quest\u00e3o dos precat\u00f3rios"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>A campanha de Eduardo Campos (PSB) recorreu à credibilidade do ex-ministro da Justiça Fernando Lyra, presidente da Fundação Joaquim Nabuco, para defendê-lo dos ataques relacionados ao caso dos precatórios.</FONT></P></p>
 <p><P><FONT face=Verdana>Em tom grave e emotivo, Lyra procura rebater todas as acusações do guia de Mendonça Filho (PFL) em relação ao escândalo. Fez isso agora à tarde e deve repetir nesta noite, no horário pol?tico da TV.</FONT></P></p>
 <p><P><FONT face=Verdana>Lyra, primeiro, usa e abusa do nome de Miguel Arraes, falecido há mais de um ano e governador à época da operação dos precatórios.</FONT></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p> central da munição usada pela União por Pernambuco para tentar abater Eduardo Campos.</FONT></P></p>
 <p><P><FONT face=Verdana>O socialista tem hoje 20 pontos percentuais à frente de Mendonça (56% a 36%), segundo pesquisa Ibope divulgada ontem.</FONT></P></p>
 <p><P><FONT face=Verdana>Com os argumentos e a forma utilizados pela campanha do socialista para se defender, a disputa pode ficar ainda mais desfavorável a Mendonça.</FONT></P> </p>
+{\% endraw %}

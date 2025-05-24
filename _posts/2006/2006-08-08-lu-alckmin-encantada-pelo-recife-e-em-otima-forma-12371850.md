@@ -1,19 +1,20 @@
 ---
 id: 12371850
-date: "2006-08-08T18:17:00+00:00"
+date: "2006-08-08T18:17:00Z"
 last_modified_at: null
 tags:
-  - geraldo-alckmin
-  - recife
-  - reformas
+  - "geraldo-alckmin"
+  - "recife"
+  - "reformas"
 categories:
-  - noticias
-title: "Lu Alckmin, encantada pelo Recife e em ótima forma"
+  - "noticias"
+title: "Lu Alckmin, encantada pelo Recife e em \u00f3tima forma"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Elogiada</p>
 <p> pela boa forma f?sica, Lu Alckmin está no Recife conhecendo um pouco mais de Pernambuco.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT>&nbsp;</P></p>
@@ -26,3 +27,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Depois das visitas, foram almoçar no Leite, belo restaurante no centro do Recife. À noite, o deputado estadual Pedro Eurico (PSDB) oferece jantar para a senhora Alckmin, na residência dele...</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Amanhã, Lu vai a Tracunhaém e Carpina, na Mata Norte.</FONT></P> </p>
+{\% endraw %}

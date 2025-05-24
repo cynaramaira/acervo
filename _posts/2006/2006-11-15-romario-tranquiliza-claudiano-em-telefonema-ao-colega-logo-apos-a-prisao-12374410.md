@@ -1,18 +1,19 @@
 ---
 id: 12374410
-date: "2006-11-15T07:09:00+00:00"
+date: "2006-11-15T07:09:00Z"
 last_modified_at: null
 tags:
-  - apostas
-  - prisao
+  - "apostas"
+  - "prisao"
 categories:
-  - noticias
-title: "Romário tranquiliza Claudiano, em telefonema ao colega logo após a prisão"
+  - "noticias"
+title: "Rom\u00e1rio tranquiliza Claudiano, em telefonema ao colega logo ap\u00f3s a pris\u00e3o"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><TT><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"></SPAN></TT><TT><SPAN style=\"FONT-SIZE: 14pt; COLOR: black; FONT-FAMILY: Verdana\"><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p> </p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: \Courier New\\\"><TT><SPAN style=\"FONT-FAMILY: Verdana\">Do <STRONG>Jornal do Commercio</STRONG></SPAN></TT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: \Courier New\\\"><TT><SPAN style=\"FONT-FAMILY: Verdana\"></SPAN></TT></SPAN>&nbsp;</P></p>
@@ -22,3 +23,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><TT><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"><o:p>&nbsp;</o:p></SPAN></TT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><TT><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">“Foi muito rápido. Ele estava tranqüilo e eu lhe disse que tinha tomado todas as medidas por aqui???, informou o deputado. </SPAN></TT><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: \Courier New\\\"><BR><BR><TT><SPAN style=\"FONT-FAMILY: Verdana\">Romário contratou dois advogados criminalistas para atuarem junto com a procuradoria da Assembléia na defesa de Claudiano. Ontem mesmo foi pedido ao desembargador federal Francisco Barros o relaxamento da prisão. Hoje, deve ser ajuizado um habeas corpus no Superior Tribunal de Justiça (STJ), em Bras?lia. </SPAN></TT><BR style=\"mso-special-character: line-break\"><BR style=\"mso-special-character: line-break\"><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><TT><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Leia mais <A href=\"https://jc3.uol.com.br/jornal/2006/11/15/can_9.php\" target=_blank><EM><B><SPAN style=\"FONT-FAMILY: Verdana; mso-bidi-font-family: \Courier New\\\">aqui</SPAN></B></EM></A> (assinantes JC e UOL).</SPAN></TT></o:p></SPAN></TT></P> </p>
+{\% endraw %}

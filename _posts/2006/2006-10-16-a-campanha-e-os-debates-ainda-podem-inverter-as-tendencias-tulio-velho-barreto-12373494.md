@@ -1,19 +1,20 @@
 ---
 id: 12373494
-date: "2006-10-16T18:44:00+00:00"
+date: "2006-10-16T18:44:00Z"
 last_modified_at: null
 tags:
-  - anne-barreto
-  - campanha
-  - debates
+  - "anne-barreto"
+  - "campanha"
+  - "debates"
 categories:
-  - colunistas
-title: "A campanha e os debates ainda podem inverter as tendências? (Túlio Velho Barreto)"
+  - "colunistas"
+title: "A campanha e os debates ainda podem inverter as tend\u00eancias? (T\u00falio Velho Barreto)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><B><FONT size=4></p>
 <p><P></B></FONT><FONT color=#333333><FONT face=Verdana>Por </FONT><FONT face=Verdana><B>Túlio Velho Barreto<BR></B>Cientista pol?tico e pesquisador da Fundação Joaquim Nabuco, colaborador freqüente do <B>Blog<BR></B></FONT></FONT><A href=\"mailto:tulio@fundaj.gov.br\"><U><FONT color=#0000ff><FONT face=Verdana>tulio@fundaj.gov.br</FONT></U></FONT></A></P></p>
 <p><P><FONT face=Verdana>Hoje, a partir das 22h, a TV Clube, Canal 9, ocorre o primeiro debate entre o governador-candidato Mendonça Filho (PFL) e o oposicionista Eduardo Campos (PSB). E acontece no momento em que o socialista lidera, com enorme folga, todas as pesquisas de intenção de voto no Estado. Pesquisas que foram realizadas na semana passada e divulgadas até ontem, dia 15.</FONT></P></p>
@@ -32,3 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>Isso não significa, no entanto, que a disputa esteja liquidada a favor do socialista, mas, apenas, que para inverter uma diferença de 20% é necessário inverter todas as tendências identificadas até o momento. Os debates podem até ajudar a mudar o quadro, mas só alguns <I>tsunamis, e </I>de grandes proporções, parecem ser capaz, a pouco menos de duas semanas do segundo turno, a cambiar tais tendências. E o governador Mendonça Filho e seu estafe sabem que a primeira das parcas chances de que dispõe é o debate de hoje, na TV Clube. Vamos aguardá-lo. </FONT></P><I><FONT face=\"Times New Roman\"></p>
 <p><P><FONT face=Verdana>*Cientista pol?tico e pesquisador da Fundação Joaquim Nabuco, <B>Túlio Velho Barreto</B>, 48, é um dos autores dos livros \"Democracia</p>
 <p> e Instituições Pol?ticas Brasileiras no final do Século XX\" (MCP-UFPE/Bagaço, 1998) e \"Nordeste 2004 - O Voto das Capitais\" (Fundação Konrad Adenauer, 2005). Co-organizou e participou dos livros \"Na Trilha do Golpe - 1964 revisitado\" (Editora Massangana, 2004) e \"A Nova República - Visões da redemocratização\" (Cepe/JC, 2006), que resultaram de séries especiais publicadas pelo Jornal do Commercio em parceria com a Fundação Joaquim Nabuco.</FONT></P></I></FONT> </p>
+{\% endraw %}

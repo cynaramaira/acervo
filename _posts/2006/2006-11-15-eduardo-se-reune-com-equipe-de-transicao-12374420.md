@@ -1,17 +1,18 @@
 ---
 id: 12374420
-date: "2006-11-15T10:04:00+00:00"
+date: "2006-11-15T10:04:00Z"
 last_modified_at: null
 tags:
-  - eduardo
+  - "eduardo"
 categories:
-  - noticias
-title: "Eduardo se reúne com equipe de transição"
+  - "noticias"
+title: "Eduardo se re\u00fane com equipe de transi\u00e7\u00e3o"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\">O governador eleito Eduardo Campos (PSB) retorna hoje, de Bras?lia, a tempo de se reunir com sua equipe de transição, comandada pelo vice, João Lyra. <SPAN style=\"mso-spacerun: yes\">&nbsp;</SPAN><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\"</p>
 <p> /><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\"><o:p>&nbsp;</o:p></SPAN></P></p>
@@ -42,3 +43,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\">Cansados de esperar pela liberação dos R$ 15 milhões previstos no Orçamento Geral da União (OGU) deste ano para as obras de prevenção nos morros dos 14 munic?pios da RMR, eles pediram para Eduardo interceder junto ao presidente Lula para agilizar o repasse dos recursos. <o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\">Eles acreditam que o alinhamento pol?tico do ex-ministro da Ciência e Tecnologia faça a diferença.</SPAN><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\"><o:p></o:p></SPAN></P> </p>
+{\% endraw %}

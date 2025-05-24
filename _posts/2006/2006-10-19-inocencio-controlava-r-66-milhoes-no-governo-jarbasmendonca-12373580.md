@@ -1,17 +1,18 @@
 ---
 id: 12373580
-date: "2006-10-19T09:47:00+00:00"
+date: "2006-10-19T09:47:00Z"
 last_modified_at: null
 tags:
-  - governo
+  - "governo"
 categories:
-  - noticias
-title: "Inocêncio controlava R$ 66 milhões no governo Jarbas/Mendonça"
+  - "noticias"
+title: "Inoc\u00eancio controlava R$ 66 milh\u00f5es no governo Jarbas/Mendon\u00e7a"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Segundo deputado federal mais votado de Pernambuco, Inocêncio Oliveira (PL) tornou-se s?mbolo de uma turma que todo mundo quer ter no palanque - pelo menos queria -, mas faz de tudo para que isso aconteça em segredo ou sem grande publicidade.</FONT></P></p>
 <p><P><FONT face=Verdana>A turma é composta principalmente por Severino Cavalcanti e Pedro Corrêa (PP). São dois ex-deputados federais que se enrolaram, e muito, com escândalos no Congresso Nacional.</FONT></P></p>
 <p><P><FONT face=Verdana>Cavalcanti precisou renunciar à presidência da Câmara e ao mandato para não ser cassado, depois de ter sido apontado como beneficiário de um mensalinho.</FONT></P></p>
@@ -28,3 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana>Agora é socialista desde criancinha. E é Lula até debaixo d’água.</FONT></P><BR><BR></p>
 <p><OBJECT height=350 width=425><PARAM NAME=\"movie\" VALUE=\"https://www.youtube.com/v/95rEDnqD6WU\"><PARAM NAME=\"wmode\" VALUE=\"transparent\"></p>
 <p><embed src=\"https://www.youtube.com/v/95rEDnqD6WU\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"425\" height=\"350\"></embed></OBJECT> </p>
+{\% endraw %}

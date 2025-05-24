@@ -1,20 +1,21 @@
 ---
 id: 12371814
-date: "2006-08-09T21:02:00+00:00"
+date: "2006-08-09T21:02:00Z"
 last_modified_at: null
 tags:
-  - depressao
-  - educacao
-  - fatima-quin
-  - william-bonner
+  - "depressao"
+  - "educacao"
+  - "fatima-quin"
+  - "william-bonner"
 categories:
-  - noticias
-title: "A Educação perdeu-se na pressão de Bonner e Fátima"
+  - "noticias"
+title: "A Educa\u00e7\u00e3o perdeu-se na press\u00e3o de Bonner e F\u00e1tima"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Esse modelo de entrevistas do Jornal Nacional, definitivamente, fracassou.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>&nbsp;<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>A ânsia por colocar os candidatos contra a parede levou a situações como a de Helo?sa Helena, ontem, quando ela, com o talento verborrágico que tem, meteu Bonner e Fátima Bernardes no bolso.</FONT></P></p>
@@ -36,3 +37,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Sem esse suporte, dificilmente conseguirá realizá-los, mesmo que venha a ser eleito.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Desse mal, aliás, também padece HH.</FONT></P> </p>
+{\% endraw %}

@@ -1,18 +1,19 @@
 ---
 id: 12373606
-date: "2006-10-20T07:35:00+00:00"
+date: "2006-10-20T07:35:00Z"
 last_modified_at: null
 tags:
-  - eduardo
-  - esta
+  - "eduardo"
+  - "esta"
 categories:
-  - noticias
-title: "“Jarbas está cansativo e agressivo???, diz Eduardo"
+  - "noticias"
+title: "\u201cJarbas est\u00e1 cansativo e agressivo???, diz Eduardo"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Sheila Borges</STRONG><BR>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>O candidato a governador da Frente Popular, Eduardo Campos (PSB), usou a ironia, ontem, para rebater o longo depoimento do ex-governador e senador eleito Jarbas Vasconcelos (PMDB) no guia eleitoral do seu adversário, o governador-candidato Mendonça Filho (PFL). </FONT></P></p>
 <p><P><FONT face=Verdana>O socialista disse que Jarbas está sendo “cansativo e agressivo??? quando repete, mais uma vez, na TV, o discurso da “herança maldita??? que diz ter herdado da gestão do ex-governador Miguel Arraes (PSB). </FONT></P></p>
@@ -22,3 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>“Meus adversários devem cuidar do guia deles, que eu cuido do meu. Eles cometeram crime eleitoral ao utilizar imagens sem autorização???, afirmou, dizendo que não será pautado por Mendonça Filho. </FONT></P></p>
 <p><P><FONT face=Verdana>O ex-ministro, no entanto, lembrou que, até o in?cio deste ano, Corrêa e Cavalcanti estavam na coligação que dá governabilidade à gestão do pefelista. “Agora eles criticam. Oito meses atrás, os dois estavam do lado de lá. Participaram da chapa e do atual governo, romperam para apoiar minha candidatura???, frisou.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/10/20/not_205388.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P> </p>
+{\% endraw %}

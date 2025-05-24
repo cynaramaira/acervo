@@ -1,20 +1,21 @@
 ---
 id: 12374387
-date: "2006-11-14T08:56:00+00:00"
+date: "2006-11-14T08:56:00Z"
 last_modified_at: null
 tags:
-  - brasileirao
-  - copa-sul-americana
-  - joao-cavalcanti
-  - luiz-fuz
+  - "brasileirao"
+  - "copa-sul-americana"
+  - "joao-cavalcanti"
+  - "luiz-fuz"
 categories:
-  - colunistas
-title: "Governabilidade, opções brasileira e americana (Luiz Otavio Cavalcanti)"
+  - "colunistas"
+title: "Governabilidade, op\u00e7\u00f5es brasileira e americana (Luiz Otavio Cavalcanti)"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Luiz Otavio Cavalcanti*</STRONG><BR>Ex-secretário do Planejamento e da Fazenda de Pernambuco <BR></FONT><A href=\"mailto:lotavio@fsm.com.br\"><FONT face=Verdana>lotavio@fsm.com.br</FONT></A></P></p>
 <p><P><FONT face=Verdana>No Brasil, o presidente Lula é reeleito para o segundo mandato. Para garantir condições de aprovação a seus projetos no Congresso Nacional, começa a discutir com lideranças de outros Partidos a composição de seu ministério. </FONT></P></p>
 <p><P><FONT face=Verdana>O objetivo pol?tico dessa articulação é formar governo de coalizão interpartidária, assegurando maioria de votos nas duas Casas legislativas. Sob esse aspecto, ponto importante é a presença, na presidência da Câmara dos Deputados, de um aliado. Porque lhe cabe a atribuição legal de deferir ou não deferir pedidos de impedimento do presidente da República. Neste momento, há vinte pedidos de impeachment em tramitação no Legislativo e no Judiciário.</FONT></P></p>
@@ -32,3 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>De acordo com Arend Lipjhart (Modelos de democracia, Editora Civilização Brasileira, 2003, Rio de Janeiro), a democracia consensual é mais representativa do que a democracia majoritária. Porque, na prática pol?tica que renova permanentemente o diálogo entre governo e oposição, ela é mais inclusiva do que a majoritária.</FONT></P></p>
 <p><P><FONT face=Verdana>Voltando à arena banhada por nosso sol tropical, vemos que pode haver tons e semitons na democracia majoritária brasileira. Um aperto de mão, o olhar direto e pessoal, além de desarmar esp?ritos, é gesto coerente com nossa cultura. Não o compreende quem não consegue maturidade pol?tica para conviver com o outro.</FONT></P></p>
 <p><P><BR><FONT face=Verdana><EM><STRONG>*Luiz Otavio Cavalcanti</STRONG>, 60, advogado, executivo e ex-secretário do Planejamento (1975/79 e 1991/92) e da Fazenda (1983/86 e 1992/93) de Pernambuco. Recifense, Cavalcanti dirige hoje a entidade mantenedora da Faculdade Santa Maria. É autor, entre outros livros, de Como a corrupção abalou o governo Lula (Ed. Ediouro, 2005), Administradores, quem somos nós? (Ed. Bagaço, 2005) e Ensaiando Pernambuco (Ed. Bagaço, 2005).</EM></FONT></P> </p>
+{\% endraw %}

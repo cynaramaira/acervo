@@ -1,19 +1,20 @@
 ---
 id: 12373531
-date: "2006-10-17T10:20:00+00:00"
+date: "2006-10-17T10:20:00Z"
 last_modified_at: null
 tags:
-  - democracia
-  - joao-cavalcanti
-  - luiz-fuz
+  - "democracia"
+  - "joao-cavalcanti"
+  - "luiz-fuz"
 categories:
-  - colunistas
+  - "colunistas"
 title: "Entraves da democracia no Brasil (Luiz Otavio Cavalcanti)"
 sutia: null
 chapeu: null
 autor: "jc"
 imagem: null
 ---
+{\% raw %}
 <p>Por <strong>Luiz Otavio Cavalcanti*</strong><br />Ex-secret&aacute;rio do Planejamento e da Fazenda de Pernambuco<br /><a href="#">lotavio@fsm.com.br</a></p>
 <p>Nesses tempos de reinaugura&ccedil;&atilde;o pol?tica vale a pena visitar as li&ccedil;&otilde;es de quem estuda a opera&ccedil;&atilde;o institucional no Pa?s. Trata-se de Barry Ames, em Os Entraves da Democracia no Brasil (Editora FGV, 2003, Rio de Janeiro).</p>
 <p>Ele indaga: por que as institui&ccedil;&otilde;es brasileira s&atilde;o t&atilde;o ineficazes? E, mais adiante, acrescenta outra pergunta: se os presidentes da Rep&uacute;blica brasileiros t&ecirc;m tanto poder, por que &eacute; t&atilde;o dif?cil governar?</p>
@@ -27,3 +28,4 @@ imagem: null
 <p>De acordo com B. Ames, o drama do sistema pol?tico brasileiro n&atilde;o est&aacute; no fato de se aproveitarem dele as elites. N&atilde;o. O problema, segundo o autor, &eacute; que o sistema pol?tico beneficia antes de tudo a ele mesmo, aos pol?ticos clientelistas e &agrave;s corpora&ccedil;&otilde;es p&uacute;blicas autof&aacute;gicas. Tr&ecirc;s fatos recentes confirmam a teoria: a proposta de aumento de noventa por cento &agrave; remunera&ccedil;&atilde;o dos deputados; a improdutividade no esfor&ccedil;o para concretizar as reformas estacionadas h&aacute; mais de cinco anos no Congresso; e o recuo na pol?tica de ag&ecirc;ncias reguladoras partidarizando a burocracia e criando instabilidade ao mercado.</p>
 <p>Haja paci&ecirc;ncia !</p>
 <p><em><strong>*Luiz Otavio Cavalcanti</strong>, 60, advogado, executivo e ex-secret&aacute;rio do Planejamento (1975/79 e 1991/92) e da Fazenda (1983/86 e 1992/93) de Pernambuco. Recifense, Cavalcanti dirige hoje a entidade mantenedora da Faculdade Santa Maria. &Eacute; autor, entre outros livros, de Como a corrup&ccedil;&atilde;o abalou o governo Lula (Ed. Ediouro, 2005), Administradores, quem somos n&oacute;s? (Ed. Baga&ccedil;o, 2005) e Ensaiando Pernambuco (Ed. Baga&ccedil;o, 2005).</em></p>
+{\% endraw %}

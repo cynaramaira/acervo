@@ -1,18 +1,19 @@
 ---
 id: 12371756
-date: "2006-08-13T04:55:00+00:00"
+date: "2006-08-13T04:55:00Z"
 last_modified_at: null
 tags:
-  - fundo-eleitoral
-  - superterca
+  - "fundo-eleitoral"
+  - "superterca"
 categories:
-  - noticias
-title: "Guia eleitoral começa na terça"
+  - "noticias"
+title: "Guia eleitoral come\u00e7a na ter\u00e7a"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Clóvis Andrade</STRONG><BR>Repórter de Pol?tica do JC</FONT></P></p>
 <p><P><FONT face=Verdana>Da próxima terça-feira até o dia 28 de setembro, o eleitorado pernambucano terá a oportunidade de conhecer melhor, pelo rádio e pela televisão, os sete candidatos a presidente, nove a governador e nove a senador que disputarão o pleito de 1º de outubro no Estado, além de centenas de postulantes às 25 vagas na Câmara Federal e às 49 da Assembléia Legislativa. </FONT></P></p>
 <p><P><FONT face=Verdana>Os presidenciáveis e os candidatos a deputado federal aparecerão às terças, quintas e sábados, duas vezes ao dia, totalizando 40 programas em cada m?dia. Já os candidatos a governador, deputado estadual e senador terão 38 programas, a serem exibidos às segundas, quartas e sextas, também divididos em dois horários. </FONT></P></p>
@@ -39,3 +40,4 @@ imagem: null
 <p><P><FONT face=Verdana>Hélio Cabral (PSTU), Delta Farias (PRTB), Breno Rocha (PCO) e Alu?sio Figueirôa (PCB)<STRONG> 22???</STRONG> cada um</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><FONT color=crimson><A href=\"https://jc3.uol.com.br/jornal/\" target=_blank>aqui</A></FONT></EM></STRONG> (assinantes JC e UOL).</FONT></P></p>
 <p><P>&nbsp;</P> </p>
+{\% endraw %}

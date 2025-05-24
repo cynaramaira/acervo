@@ -1,18 +1,19 @@
 ---
 id: 12372342
-date: "2006-07-16T06:03:00+00:00"
+date: "2006-07-16T06:03:00Z"
 last_modified_at: null
 tags:
-  - goiana
-  - prefeito
+  - "goiana"
+  - "prefeito"
 categories:
-  - noticias
+  - "noticias"
 title: "Goiana escolhe novo prefeito"
 sutia: null
 chapeu: null
 autor: null
 imagem: null
 ---
+{\% raw %}
 <p><P>Os 51,5 mil eleitores de Goiana, na Zona da Mata Norte do Estado, voltam às urnas hoje para escolher novamente o prefeito e vice, durante eleição suplementar, convocada depois da cassação de Beto Gadelha, condenado por propaganda irregular e abuso de poder econômico, como informa Cláudia Vasconcelos, repórter do Jornal do Commercio (www.jc.com.br), em matéria publicada na edição deste domingo. Saiba um pouco mais sobre quem são os candidatos na disputa.</P></p>
 <p><TABLE cellSpacing=1 cellPadding=3 width=500 bgColor=#6ca7a6 border=0></p>
 <p><TBODY></p>
@@ -58,3 +59,4 @@ imagem: null
 <p><TD vAlign=top width=\"4%\"><IMG height=60 src=\"https://www2.uol.com.br/JC/sites/blogdaseleicoes/imagens/foto_henrique_fenelon.gif\" width=60 align=middle border=1></TD></p>
 <p><TD width=\"96%\"></p>
 <p><P><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" size=1><STRONG><FONT size=2><EM>Henrique Fenelon (PC do B)</EM></FONT></STRONG><EM><FONT size=2><BR>Nos 40 dias em que esteve à frente da prefeitura como interino, o presidente da Câmara de Goiana afirmou que fez mais obras que o antecessor, como a pavimentação de estradas e a reativação do São João da cidade. Acredita que esse é o maior trunfo de sua campanha.</FONT></EM></FONT></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE> </p>
+{\% endraw %}
