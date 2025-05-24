@@ -12,54 +12,76 @@
   <ul class="pagination-list">
     {% assign current_page = paginator.page %}
     {% assign total_pages = paginator.total_pages %}
-    {% assign num_display_pages = 5 %} {% assign num_edges = 2 %} {% assign num_around_current = 1 %} {% if total_pages > 1 %}
-      {% comment %}
-        Mostra as primeiras páginas
-      {% endcomment %}
-      {% for i in (1..num_edges) %}
-        {% if i <= total_pages %}
+    {% assign num_around_current = 1 %} 
+    {% assign num_edge_pages = 1 %} 
+    {% assign min_pages_for_ellipsis = (num_edge_pages * 2) + (num_around_current * 2) + 3 %}
+
+    {% if total_pages > 1 %}
+
+      {% comment %} Link para a PRIMEIRA página (1) {% endcomment %}
+      {% if total_pages > min_pages_for_ellipsis and current_page > (num_edge_pages + num_around_current + 1) %}
+        <li class="pagination-list-item">
+          <a href="{{ site.baseurl }}/">1</a>
+        </li>
+      {% endif %}
+
+      {% comment %} Reticências após a primeira página (se houver um salto) {% endcomment %}
+      {% if total_pages > min_pages_for_ellipsis and current_page > (num_edge_pages + num_around_current + 2) %}
+        <li class="pagination-list-item disabled"><span>...</span></li>
+      {% endif %}
+
+      {% comment %} Loop principal para os números de página {% endcomment %}
+      {% for i in (1..total_pages) %}
+        {% assign show_page = false %}
+
+        {% comment %} Sempre mostra a página atual {% endcomment %}
+        {% if i == current_page %}
+          {% assign show_page = true %}
+        {% endif %}
+
+        {% comment %} Mostra páginas ao redor da página atual {% endcomment %}
+        {% if i >= current_page | minus: num_around_current and i <= current_page | plus: num_around_current %}
+          {% assign show_page = true %}
+        {% endif %}
+
+        {% comment %} Mostra páginas nas extremidades (1 e total_pages), mas evita duplicar se já foi exibida {% endcomment %}
+        {% if i <= num_edge_pages or i > total_pages | minus: num_edge_pages %}
+          {% assign show_page = true %}
+        {% endif %}
+
+        {% comment %} Lógica para não mostrar 1 e última página se já aparecerem por serem "ao redor da atual" {% endcomment %}
+        {% if i == 1 and current_page <= (num_edge_pages + num_around_current + 1) %}
+          {% assign show_page = true %}
+        {% elsif i == total_pages and current_page >= (total_pages | minus: num_edge_pages | minus: num_around_current) %}
+          {% assign show_page = true %}
+        {% elsif i == 1 and current_page > (num_edge_pages + num_around_current + 1) %}
+          {% assign show_page = false %} 
+        {% elsif i == total_pages and current_page < (total_pages | minus: num_edge_pages | minus: num_around_current) %}
+          {% assign show_page = false %} 
+        {% endif %}
+
+        {% comment %}
+          Finalmente, exibe o link se a página deve ser mostrada e não for 1 ou total_pages
+          se elas já foram ou serão explicitamente exibidas como links de extremidade.
+        {% endcomment %}
+        {% if show_page %}
           <li class="pagination-list-item {% if i == current_page %}active{% endif %}">
             <a href="{{ site.baseurl }}{% if i == 1 %}/{% else %}/page{{ i }}/{% endif %}">{{ i }}</a>
           </li>
         {% endif %}
       {% endfor %}
 
-      {% comment %}
-        Mostra reticências se houver um salto após as primeiras páginas
-      {% endcomment %}
-      {% if current_page > num_edges + num_around_current + 1 and total_pages > num_display_pages %}
+      {% comment %} Reticências antes da última página (se houver um salto) {% endcomment %}
+      {% if total_pages > min_pages_for_ellipsis and current_page < (total_pages | minus: num_edge_pages | minus: num_around_current | minus: 1) %}
         <li class="pagination-list-item disabled"><span>...</span></li>
       {% endif %}
 
-      {% comment %}
-        Mostra páginas ao redor da página atual
-      {% endcomment %}
-      {% for i in (current_page | minus: num_around_current)..(current_page | plus: num_around_current) %}
-        {% if i > num_edges and i <= total_pages | minus: num_edges %}
-          {% if i > 0 and i <= total_pages %}
-            <li class="pagination-list-item {% if i == current_page %}active{% endif %}">
-              <a href="{{ site.baseurl }}{% if i == 1 %}/{% else %}/page{{ i }}/{% endif %}">{{ i }}</a>
-            </li>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-
-      {% comment %}
-        Mostra reticências se houver um salto antes das últimas páginas
-      {% endcomment %}
-      {% if current_page < total_pages | minus: num_edges | minus: num_around_current and total_pages > num_display_pages %}
-        <li class="pagination-list-item disabled"><span>...</span></li>
+      {% comment %} Link para a ÚLTIMA página {% endcomment %}
+      {% if total_pages > min_pages_for_ellipsis and current_page < (total_pages | minus: num_edge_pages | minus: num_around_current) %}
+        <li class="pagination-list-item">
+          <a href="{{ site.baseurl }}/page{{ total_pages }}/">{{ total_pages }}</a>
+        </li>
       {% endif %}
-
-      {% comment %}
-        Mostra as últimas páginas
-      {% endcomment %}
-      {% for i in (total_pages | minus: num_edges | plus: 1)..total_pages %}
-        {% if i > num_edges %} <li class="pagination-list-item {% if i == current_page %}active{% endif %}">
-            <a href="{{ site.baseurl }}{% if i == 1 %}/{% else %}/page{{ i }}/{% endif %}">{{ i }}</a>
-          </li>
-        {% endif %}
-      {% endfor %}
 
     {% endif %}
   </ul>
