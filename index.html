@@ -113,19 +113,25 @@ background: '/img/bg-index.jpg'
     <section class="row mt-5 news-grid" id="news-container">
       {% for post in paginator.posts %}
         <div class="col-md-4 mb-4 news-item news-card" data-year="{{ post.date | date: '%Y' }}">
-          <div class="card h-100">
-            <div class="card-content">
-              <h3 class="card-title">{{ post.title }}</h3>
-              <a href="{{ post.url | relative_url }}" class="card-link">Ler matéria completa</a>
-            </div>
-            <div class="card-img">
-              <div class="card-date">{{ post.date | date: "%d/%m/%Y" }}</div>
-              {% if post.year %}
-              <div class="card-year-tag">{{ post.year }}</div>
-              {% endif %}
-            </div>
-          </div>
-        </div>
+  <div class="card h-100">
+    <div class="card-content">
+      <h3 class="card-title">
+        <a href="{{ post.url | relative_url }}">
+          {% if post.title %}
+            {{ post.title }}
+          {% else %}
+            . {% endif %}
+        </a>
+      </h3>
+      </div>
+    <div class="card-img">
+      <div class="card-date">{{ post.date | date: "%d/%m/%Y" }}</div>
+      {% if post.year %}
+      <div class="card-year-tag">{{ post.year }}</div>
+      {% endif %}
+    </div>
+  </div>
+</div>
       {% endfor %}
     </section>
 

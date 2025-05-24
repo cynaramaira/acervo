@@ -1,8 +1,8 @@
 title: "Acervo Jamildo"
 email: jamildo.com@gmail.com
-timezone: UTC
+timezone: America/Sao_Paulo
 baseurl: "/acervo"
-permalink: "/:title/"
+permalink: "/:year/:month/:day/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Acervo Jamildo
@@ -50,3 +50,13 @@ plugins:
 - jekyll-feed
 - jekyll-archives
 - jekyll-seo-tag
+
+# Configuração para jekyll-archives (para páginas de tags e categorias)
+jekyll-archives:
+  enabled:
+    - tags
+    - categories
+  layout: 'archive'
+  permalinks:
+    tag: '/tag/:name/'
+    category: '/category/:name/'

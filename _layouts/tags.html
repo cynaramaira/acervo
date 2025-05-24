@@ -1,0 +1,24 @@
+---
+title: Todas as Tags
+layout: default
+permalink: /tags/
+---
+
+<div class="container mt-5">
+  <header class="section-title text-center">
+    <h1>Todas as Tags</h1>
+  </header>
+
+  <div class="row mt-4">
+    <div class="col-md-12">
+      {% assign tags = site.tags | sort %}
+      {% for tag in tags %}
+        {% assign tag_name = tag | first %}
+        {% assign posts = tag | last %}
+        <a href="{{ site.baseurl }}/tag/{{ tag_name | slugify }}/" class="badge badge-dark p-2 m-1">
+          {{ tag_name | capitalize }} ({{ posts | size }})
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</div>

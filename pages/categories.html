@@ -2,4 +2,23 @@
 layout: categories
 title: Categories
 permalink: "/categories/"
----
+------
+
+<div class="container mt-5">
+  <header class="section-title text-center">
+    <h1>Todas as Categorias</h1>
+  </header>
+
+  <div class="row mt-4">
+    <div class="col-md-12">
+      {% assign categories = site.categories | sort %}
+      {% for category in categories %}
+        {% assign category_name = category | first %}
+        {% assign posts = category | last %}
+        <a href="{{ site.baseurl }}/category/{{ category_name | slugify }}/" class="badge badge-dark p-2 m-1">
+          {{ category_name | capitalize }} ({{ posts | size }})
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
