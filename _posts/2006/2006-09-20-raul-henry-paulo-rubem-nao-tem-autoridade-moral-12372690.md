@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>O deputado estadual Raul Henry (PMDB-PE), candidato de Jarbas Vasconcelos a deputado federal, foi o escolhido pela União por Pernambuco para responder ao deputado Paulo Rubem Santiago (PT-PE). </FONT></P></p>
 <p><P><FONT face=Verdana>Em nota enviada ao <B>Blog</B> pela assessoria de imprensa de Jarbas, agora há pouco, Raul diz: \"O deputado Paulo Rubem não tem autoridade moral para fazer questionamentos a Jarbas Vasconcelos\". </FONT></P></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>3 – Por que Paulo Rubem permaneceu no PT, após ter \"chorado\" no plenário da Câmara dos Deputados, ao ver o depoimento de Duda Mendonça confirmando que o PT usou caixa dois na campanha presidencial de 2002? </FONT></P></p>
 <p><P><FONT face=Verdana>4 – Na época, Paulo Rubem afirmou que a crise era muito grave e que \"as coisas estão fora do controle\". Diante da nova crise envolvendo petistas e integrantes do Governo do PT, Paulo Rubem acha que \"as coisas estão sob controle\"?</FONT></P></p>
 <p><P><FONT face=Verdana>5 – Paulo Rubem acredita que Humberto Costa não sabia de nada do que Luis Cláudio fazia no Ministério, diante do fato de que o \vampiro\ era o homem que cuidava das finanças da Secretaria de Saúde do Recife, quando o candidato do PT comandava a Pasta?\"</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Não resta dúvidas de que reeleito ou não no domingo, o presidente Lula tem potencial para ser um fort?ssimo cabo eleitoral para o candidato da oposição que for ao segundo turno contra Mendonça Filho (PFL).</FONT></P></p>
 <p><P><FONT face=Verdana>Até agora as pesquisas de intenção de voto mostram Lula com desempenho melhor que o de Jarbas Vasconcelos (PMDB), ex-governador popular e que deve chegar ao Senado entre os mais votados do pa?s.</FONT></P></p>
 <p><P><FONT face=Verdana>A dúvida agora é saber até que ponto Lula estará engajado na campanha da oposição a Mendonça – pesquisas indicam que o adversário do governador deverá ser Eduardo Campos (PSB) - veja os números abaixo.</FONT></P></p>
@@ -39,4 +39,4 @@ imagem: null
 <p><P><FONT face=Verdana>Mais ligado a Marco Maciel e com alguma experiência nacional, Mendonça também poderia – é o que alguns crêem – ajudar no entendimento com setores do PFL.</FONT></P></p>
 <p><P><FONT face=Verdana>Abrir canais com a oposição, dizem, interessa muito a Lula. Ele inclusive já andou mandando emissários para conversar com Maciel.</FONT></P></p>
 <p><P><FONT face=Verdana>Isso também faz parte do jogo para assegurar a governabilidade nos próximos quatro anos, principalmente com as sucessivas crises que o governo dele vem vivendo há quase dois.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

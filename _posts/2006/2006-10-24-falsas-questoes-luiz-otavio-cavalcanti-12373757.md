@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Luiz Otavio Cavalcanti*</STRONG><BR>Ex-secretário do Planejamento e da Fazenda de Pernambuco<BR></FONT><A href=\"mailto:lotavio@fsm.com.br\"><FONT face=Verdana>lotavio@fsm.com.br</FONT></A><FONT face=Verdana> </FONT></P></p>
 <p><P><FONT face=Verdana>A campanha para presidência da República poderia ter tido outro brilho. Com apresentação de temas inovadores sobre as ações de governo. Com propostas mais ousadas a respeito da estrutura e funcionamento do governo.</FONT></P></p>
 <p><P><FONT face=Verdana>Gente, estamos no século XXI! E a regra de ouro de uma economia globalizada é a inovação. É com base nela que empresas e pa?ses avançam no mercado, ampliando oportunidades de emprego e elevando a renda.&nbsp;</FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>A segunda falsa questão é corte de investimentos. O governo diz que não corta investimento e não diminui gasto corrente, com a quantidade de 33 ministérios. Possivelmente o Pa?s está entre as cinco Repúblicas que têm maior número de ministérios. Aliás, esta é uma caracter?stica das antigas repúblicas do Leste europeu, nos anos 50, cuja estrutura administrativa refletia sua incursão do dom?nio econômico.</FONT></P></p>
 <p><P><FONT face=Verdana>Sem dúvida que o crescimento do PIB, em 2007, não será capaz de gerar sobras fiscais para cobrir as necessidades de orçamento. A arrecadação está sobre dimensionada na proposta orçamentária da União. A Reforma do Estado, que poderia contribuir para tornar mais eficiente o uso de recursos públicos, não foi mencionada por nenhum dos candidatos. Do ponto de vista de conteúdo programático, essa eleição realizou-se em 1960.</FONT></P></p>
 <p><P><FONT face=Verdana><EM><STRONG>*Luiz Otavio Cavalcanti</STRONG>, 60, advogado, executivo e ex-secretário do Planejamento (1975/79 e 1991/92) e da Fazenda (1983/86 e 1992/93) de Pernambuco. Recifense, Cavalcanti dirige hoje a entidade mantenedora da Faculdade Santa Maria. É autor, entre outros livros, de Como a corrupção abalou o governo Lula (Ed. Ediouro, 2005), Administradores, quem somos nós? (Ed. Bagaço, 2005) e Ensaiando Pernambuco (Ed. Bagaço, 2005).</EM></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

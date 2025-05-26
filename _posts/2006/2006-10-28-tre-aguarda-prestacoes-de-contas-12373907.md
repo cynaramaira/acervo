@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Terminada a eleição de amanhã, será hora de dar satisfações à Justiça Eleitoral. Candidatos majoritários e proporcionais e os comitês financeiros dos partidos terão até o próximo dia 31 (terça-feira) para prestar contas dos gastos de campanha. As únicas exceções são Mendonça Filho (PFL) e Eduardo Campos (PSB), que, por estarem no segundo turno, terão esse prazo estendido para 28 de novembro. </FONT></P></p>
@@ -22,4 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>Até terça, o comitê financeiro do PFL também terá que entregar a documentação e, mais tarde, deverá fazer uma prestação complementar, relativa ao segundo turno. O PSB, por sua vez, formou quatro comitês financeiros, um para cada cargo em disputa. Nesta primeira data, portanto, só vencerá o prazo para três deles, enquanto o comitê constitu?do para a disputa governamental terá até 28 de novembro para quitar suas obrigações. </FONT></P></p>
 <p><P></FONT><FONT face=Verdana>Leia mais </FONT><A href=\"https://jc3.uol.com.br/jornal/2006/10/28/can_9.php\"</p>
 <p> target=_blank><B><I><FONT color=#0000ff><FONT face=Verdana>aqui</FONT></B></I></FONT></A><FONT face=Verdana> (assinantes JC e UOL).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

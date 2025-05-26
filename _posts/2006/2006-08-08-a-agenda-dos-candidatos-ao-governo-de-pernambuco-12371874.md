@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B></p>
 <p><P><FONT face=Verdana size=2>MENDONÇA FILHO (PFL)</P></B></p>
 <p><P>O governador não tem agenda de candidato hoje, apenas compromissos administrativos. </P><B></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P>EDUARDO CAMPOS (PSB)</P></p>
 <p><P>Às 16h</B>, Caminhada na Ilha de Juaneiro, em Santo Amaro</P><B></p>
 <p><P>Às 18h</B>, debate com trabalhadores urbanitários, na Biblioteca Pública Estadual, no Parque Treze de Maio </FONT></P> </p>
-{\% endraw %}
+{% endraw %}

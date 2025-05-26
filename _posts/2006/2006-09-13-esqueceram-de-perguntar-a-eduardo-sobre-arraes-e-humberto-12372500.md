@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O ex-ministro Eduardo Campos (PSB) foi o entrevistado desta noite no NETV 2ª Edição, da TV Globo, mas sem apertos nem polêmicas, apesar das declarações dele.</FONT></P></p>
 <p><P><FONT face=Verdana>O que faltou perguntar a Eduardo, entre outras coisas:<BR><BR></FONT><FONT face=Verdana>1) O sr. diz que em mais de 30 anos a população dobrou, mas nenhum hospital foi constru?do para acompanhar esse crescimento. O sr. está prometendo construir três novos. Mas por que o PSB e o governo Arraes não constru?ram hospitais? Nesses 30 anos Arraes foi governador do Estado por duas vezes.<BR><BR></FONT><FONT face=Verdana>2) O sr. promete valorizar o servidor público, mas no último governo Arraes havia atrasos de salários e as últimas folhas de pagamento de 1998 ficaram pendentes. Isso não é uma contradição, já que o sr. ocupou funções relevantes na administração estadual, inclusive foi secretário da Fazenda?<BR><BR></FONT><FONT face=Verdana>3) O governo Arraes só não privatizou a Celpe porque Jarbas e Mendonça atuaram para impedir isso. Não é contraditório agora acusar o governador de ter prejudicado a população com a venda da Celpe?<BR><BR></FONT><FONT face=Verdana>4) O ex-ministro Humberto Costa apontou essa contradição. O que o sr. acha de ele ter dito isso?<BR><BR></FONT><FONT face=Verdana>5) O que o sr. acha do indiciamento de Humberto Costa pela Pol?cia Federal? O sr. acha que ele tem condições de continuar na disputa?</FONT></P></p>
 <p><P><FONT face=Verdana color=#333333>Leia mais sobre a entrevista:</P></FONT></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana><FONT size=2><B>Construção de três hospitais</B><BR><BR>Cada hospital custa R$ 15 milhões, fizemos estudos e levantamos os números. Para mantê-los, custa R$ 1 milhão. Os três hospitais juntos vão ter uma capacidade equivalente ao que o Hospital da Restauração tem hoje. Vamos fazer esses hospitais nas três principais entradas da Região Metropolitana do Recife. Os recursos vamos buscar no orçamento. Temos R$ 400 milhões para investir por ano e parte deles vão para esses hospitais. Vamos buscar recursos em Bras?lia.</FONT></FONT></P></p>
 <p><P><FONT face=Verdana><FONT size=2><B>Apoio no segundo turno</B><BR><BR>Vou buscar apoio com a história</p>
 <p> pol?tica que carregamos e com o programa de governo. Vamos buscar apoio em todos os partidos de oposição e do presidente Lula, espero que já eleito, pois ele conhece o meu trabalho quando fui ministro de Ciência e Tecnologia. Quanto a não ir para o segundo turno, sinceramente não trabalho com essa hipótese pela empolgação que vejo nas ruas.</FONT></FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

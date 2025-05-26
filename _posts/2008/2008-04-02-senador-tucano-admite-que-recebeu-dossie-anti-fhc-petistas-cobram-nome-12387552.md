@@ -1,0 +1,29 @@
+---
+id: 12387552
+date: "2008-04-02T20:51:00Z"
+last_modified_at: null
+tags:
+  - "antifa"
+  - "senadores"
+categories:
+  - "noticias"
+title: "Senador tucano admite que recebeu dossi\u00ea anti-FHC; petistas cobram nome de espi\u00e3o "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Da Folha Online, em Bras&iacute;lia </font></p></p>
+<p><p><font face=\"Verdana\">O senador &Aacute;lvaro Dias (PSDB-PR) disse nesta quarta-feira que recebeu o suposto dossi&ecirc; elaborado por funcion&aacute;rios da Casa Civil com informa&ccedil;&otilde;es sobre gastos sigilosos do ex-presidente Fernando Henrique Cardoso (PDSB) com cart&otilde;es corporativos. Dias, entretanto, n&atilde;o admitiu ser o respons&aacute;vel pelo vazamento do dossi&ecirc; para a imprensa. </font></p></p>
+<p><p><font face=\"Verdana\">Em seguida, argumentou que a Constitui&ccedil;&atilde;o Federal permite que os parlamentares usem dados que chegam &agrave;s suas m&atilde;os como acharem mais conveniente, inclusive para repass&aacute;-los para a imprensa. &quot;Os senadores n&atilde;o s&atilde;o obrigados a prestar informa&ccedil;&otilde;es sobre o que recebem. Se um parlamentar vazou informa&ccedil;&otilde;es para a imprensa, o fez dentro das suas atribui&ccedil;&otilde;es parlamentares&quot;, afirmou. </font></p></p>
+<p><p><font face=\"Verdana\">Em nenhum momento do discurso no plen&aacute;rio do Senado, Dias admitiu o vazamento. Mas deixou claro, ap&oacute;s ser questionado pelo senador Ti&atilde;o Viana (PT-AC), que a Constitui&ccedil;&atilde;o concede liberdade para que os parlamentares usem ou divulguem as informa&ccedil;&otilde;es que recebem. </font></p></p>
+<p><p><font face=\"Verdana\">O presidente Luiz In&aacute;cio Lula da Silva disse hoje que o respons&aacute;vel pelo vazamento deveria dizer logo quem foi o autor do suposto dossi&ecirc;. &quot;N&atilde;o quero acusar ningu&eacute;m, porque &eacute; muito ruim voc&ecirc; acusar sem saber. Hoje tem jornais que j&aacute; dizem que teve senadores que participaram disso. Eu ainda n&atilde;o li a mat&eacute;ria, mas acho lament&aacute;vel&quot;, disse Lula se referindo &agrave; reportagem publicada hoje pelo jornal &quot;O Globo&quot;, que informa que o dossi&ecirc; chegou ao Congresso antes da instala&ccedil;&atilde;o da CPI dos Cart&otilde;es. </font></p></p>
+<p><p><font face=\"Verdana\">&quot;N&oacute;s estamos tranq&uuml;ilos, obviamente que tristes, porque quem recebeu [o suposto dossi&ecirc;] na imprensa sabe quem foi. N&oacute;s vamos ter que fazer uma investiga&ccedil;&atilde;o e, possivelmente, nunca saberemos quem foi que pegou documento de um banco de dados e vendeu como se fosse dossi&ecirc;. Isso &eacute; lament&aacute;vel para o pa&iacute;s&quot;, afirmou Lula. &quot;S&oacute; tem algumas pessoas que sabem: os jornalistas que receberam o tal do documento, que era do banco de dados e foi transformado em dossi&ecirc;, e o cidad&atilde;o, a cidad&atilde;, sei l&aacute; quem, que pegou esse documento.&quot; </font></p></p>
+<p><p><font face=\"Verdana\">Dias cobrou explica&ccedil;&otilde;es do Pal&aacute;cio do Planalto sobre o vazamento dos dados que deram origem ao dossi&ecirc;. &quot;Eu tenho certeza absoluta que o senador [TI&Atilde;O VIANA]n&atilde;o me imagina travestido de James Bond, forjando senhas e bisbilhotando computadores do governo. Essas virtudes hollywoodianas eu n&atilde;o tenho. Eu afirmei que tinha visto o dossi&ecirc;. Mas por ordem da ministra Dilma Rousseff [CASA CIVIL]se elaborava um relat&oacute;rio de gastos do governo Fernando Henrique&quot;, afirmou. </font></p></p>
+<p><p><font face=\"Verdana\">Revanche </font></p></p>
+<p><p><font face=\"Verdana\">L&iacute;deres governistas no Senado afirmaram que as palavras de Dias mostram que o governo n&atilde;o &eacute; o &quot;algoz&quot; no epis&oacute;dio do dossi&ecirc;, mas v&iacute;tima da oposi&ccedil;&atilde;o que usou informa&ccedil;&otilde;es do banco de dados da Casa Civil montado para detalhar gastos da gest&atilde;o Fernando Henrique Cardoso (PSDB) com cart&otilde;es corporativos. </font></p></p>
+<p><p><font face=\"Verdana\">Os governistas desafiaram o tucano a revelar o nome da pessoa que lhe encaminhou o dossi&ecirc; --que supostamente seria um funcion&aacute;rio da Casa Civil. &quot;N&atilde;o adianta o PSDB apresentar requerimento para acompanhar a comiss&atilde;o de sindic&acirc;ncia do Pal&aacute;cio do Planalto [que investiga o vazamento de informa&ccedil;&otilde;es]. Est&aacute; nas m&atilde;os do senador &Aacute;lvaro Dias dizer quem lhe mostrou o documento, quem lhe deu o documento&quot;, disse a l&iacute;der do PT no Senado, Ideli Salvatti (SC). </font></p></p>
+<p><p><font face=\"Verdana\">O l&iacute;der do governo no Senado, Romero Juc&aacute; (PMDB-RR), afirmou que o banco de dados do governo sobre cart&otilde;es corporativos foi &quot;espionado&quot;. &quot;Temos aqui um caso de espionagem. Se o senador &Aacute;lvaro Dias n&atilde;o quer que se punam inocentes, acho que deveria declinar o nome da pessoa que vazou o material. Algu&eacute;m do governo ou do Pal&aacute;cio do Planalto pegou os dados e repassou ao senador &Aacute;lvaro Dias.&quot; </font></p></p>
+<p><p><font face=\"Verdana\">O tucano, por sua vez, negou ter conhecimento do funcion&aacute;rio que vazou as informa&ccedil;&otilde;es. &quot;Se eu soubesse quem vazou, eu diria. N&atilde;o sei quem vazou as informa&ccedil;&otilde;es. Mas eu sei quem &eacute; respons&aacute;vel maior, isso eu sei, por aqueles inclu&iacute;dos entre os suspeitos de vazar as informa&ccedil;&otilde;es. Eu n&atilde;o disse que foi a ministra Dilma respons&aacute;vel pelo vazamento, mas por administrar o setor&quot;, afirmou. </font></p> </p>
+{% endraw %}

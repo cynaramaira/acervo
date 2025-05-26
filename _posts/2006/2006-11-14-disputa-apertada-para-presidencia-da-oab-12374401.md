@@ -12,8 +12,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Daqui a pouco publicaremos os primeiros e principais números da nova rodada da pesquisa de intenção de voto para a presidência da Ordem dos Advogados do Brasil em Pernambuco.</FONT></P></p>
 <p><P><FONT face=Verdana>A pesquisa, realizada pela Contagem Consultoria,&nbsp;indica empate entre Júlio Oliveira, presidente e candidato à reeleição, e o procurador estadual Jayme Asfora.</FONT></P></p>
 <p><P><FONT face=Verdana>Amanhã publicaremos os números completos.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

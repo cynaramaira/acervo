@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O jornalista Diego Escosteguy, autor da reportagem que começa a circular na revista Veja, a partir de amanhã, sobre a Operação Vampiro, conversou há pouco, por telefone, de Bras?lia, com Cec?lia Ramos, repórter do <B>Blog</B>.</FONT></P></p>
 <p><P><FONT face=Verdana>\"Passei meses investigando o caso. Tudo o que vamos falar está documentado. São provas obtidas durante a investigação da Pol?cia Federal\", informa Diego, antecipando que a reportagem trará algumas imagens da documentação.</FONT></P></p>
 <p><P><FONT face=Verdana>Questionado</p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>A revista trouxe matéria de capa, no final de julho, cujo t?tulo foi \"A Lista da Vergonha\". Entre as informações - também de capa -, estava: \"A história completa de como o ex-ministro da Saúde Humberto Costa ajudou a liberar dinheiro para os mafiosos\".</FONT></P></p>
 <p><P><FONT face=Verdana>Apesar de evitar antecipar mais detalhes da matéria, Diego disse ter cópia de um vasto material de investigação da Pol?cia Federal. Contou que a matéria não é de capa, mas terá destaque. </FONT></P><FONT face=Verdana></p>
 <p><P>\"É uma investigação que vem de muito tempo. O advogado dele (Humberto) teve acesso e não posso adiantar mais nada, além do que o ex-ministro falou para vocês na coletiva de hoje\".</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

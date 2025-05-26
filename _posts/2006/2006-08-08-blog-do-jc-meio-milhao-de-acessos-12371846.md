@@ -12,8 +12,8 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>&nbsp;</p>
 <p>At&eacute; &agrave;s 15h de hoje, quando completamos 24 dias na rede, somamos 560.593 pages views. J&aacute; estamos entre os l&iacute;deres de audi&ecirc;ncia dos principais parceiros do JC OnLine.</p>
 <p>Muito obrigado a tod@s.</p>
-{\% endraw %}
+{% endraw %}

@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Ramos</STRONG><BR>Repórter do Blog do JC</FONT></P></p>
 <p><P><FONT face=Verdana>Todo mundo&nbsp;sabe que o&nbsp;prefeito do Recife, João Paulo (PT), é mestre em sair pela tangente quando quer desconversar.</FONT></P></p>
 <p><P><FONT face=Verdana>Questionado pelo repórter de Pol?tica do JC, Jorge Cavalcanti, sobre poss?veis mudanças no secretariado municipal, neste segundo mandato, João Paulo saiu-se com esta:</FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>Os repórteres insistiram no assunto&nbsp;- do secretariado, claro - e o prefeito, enfim, mesmo pela tangente, respondeu:</FONT></P></p>
 <p><P><FONT face=Verdana>\"Não tem nada ainda não. Deixa decantar mais um pouquinho. Ainda vem o segundo escalão de Eduardo (Campos, o governador eleito pelo PSB), com Armando (Monteiro Neto, presidente nacional do PTB), com o PCdoB\".</FONT></P></p>
 <p><P><FONT face=Verdana>As declarações - ou o <EM>pocket show</EM> - foram feitas durante a visita do ex-governador e senador eleito Jarbas Vasconcelos (PMDB) a João Paulo, no in?cio da tarde de hoje, no Terminal Mar?timo de Passageiros, onde está funcionando temporariamente a PCR.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

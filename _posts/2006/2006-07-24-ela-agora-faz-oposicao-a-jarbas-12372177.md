@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Ramos<BR></STRONG>Repórter do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>Ela é linda, jovem, solteira e candidata a uma vaga na Assembléia Legislativa de Pernambuco. Aos 21 anos, Débora Daggy resolveu que quer seguir carreira pol?tica. Trocou os antigos trajes m?nimos por tailleur e agora freqüenta as reuniões de partido. </FONT></P></p>
 <p><P><FONT face=Verdana>Nesta entrevista exclusiva ao <B>Blog do JC</B>, ela confessa que foi miss Pernambuco aos 16 anos, quando a idade m?nima permitida era 18. Para todos dizia ser mais velha.</FONT></P></p>
@@ -75,4 +75,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Profissão</STRONG>: modelo e aluna do 4º per?odo de Direito</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Homem bonito</STRONG>: Tom Cruise</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Homem ideal</STRONG>: carinhoso, leal, companheiro e educado</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

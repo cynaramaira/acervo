@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B></p>
 <p><P><FONT face=Verdana><STRONG>9h</STRONG>, caminhada na Imbiribeira, Recife. Roteiro: Dancing Days, S?tio Grande e Salina</FONT></P></p>
@@ -38,4 +38,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>13h</STRONG>, em Petrolina, almoço de adesão de Fernando Bezerra Filho, candidato a deputado federal </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>17h</STRONG>, em Ouricuri, carreata e com?cio </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>20h30</STRONG>, em Ipubi, caminhada e com?cio</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

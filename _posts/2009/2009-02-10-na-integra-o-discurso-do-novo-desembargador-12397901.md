@@ -1,0 +1,40 @@
+---
+id: 12397901
+date: "2009-02-10T09:38:29Z"
+last_modified_at: null
+tags:
+  - "desembargadores"
+  - "discurso"
+  - "novos"
+categories:
+  - "noticias"
+title: "Na \u00edntegra o discurso do novo desembargador"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>&quot;Agrade&ccedil;o a presen&ccedil;a de todos que compareceram a esta solenidade, vindo a prestigi&aacute;-la. Cumprimento todos os magistrados presentes na pessoa do Exmo.Desembargador Presidente Jovaldo Nunes Gomes. Aos membos do Minist&eacute;rio P&uacute;blico cumprimento-os na pessoa do procurador Fernando Ara&uacute;jo.&nbsp; Aos advogados fa&ccedil;o o cumprimento na pessoa do nosso Presidente Jayme Asfora.</p></p>
+<p><p>Minhas Senhoras, meus Senhores: Permitam-me chamar a todos por amigos. Amigos porque ao dizer de Saint Exupery, de alguma forma, aqui ou alhures, mas em algum lugar de nossas vidas, guardei comigo um pouco de cada um dos Senhores. De uns mais, de outros menos, mas todos necess&aacute;rios ao que hoje represento, ao meu pr&oacute;prio eu.</p></p>
+<p><p>Passo, a partir de hoje, a integrar esta Corte em um momento de claras mudan&ccedil;as sociais e pol&iacute;ticas. No campo social, n&atilde;o h&aacute; negar, o Pa&iacute;s vive uma distribui&ccedil;&atilde;o de riquezas na classe dos menos favorecidos, inobstante a imensa desigualdade social que transcende as nossas exist&ecirc;ncias.</p></p>
+<p><p>O nosso Pernambuco adentrou em glorioso momento de sua hist&oacute;ria econ&ocirc;mica e empresarial, que levar&aacute; a um incremento na qualidade de vida do nosso povo, cuja auto-estima se resgata a olhos vistos e onde a certeza de que chegou a nossa vez n&atilde;o se dissipar&aacute; no tempo.</p></p>
+<p><p>Para mim, portanto, n&atilde;o nos &eacute; dado o direito de n&atilde;o contribuir naquilo que nos for poss&iacute;vel fazer, sob pena de incorrermos em crime de lesa p&aacute;tria. E &eacute; nesse toar que&nbsp; come&ccedil;o por reafirmar minha lealdade para com o nosso Estado, para comigo mesmo e aos meus pr&oacute;prios princ&iacute;pios, pois s&oacute; assim poderei ser leal a esta Corte e ao honroso cargo em que ora sou investido. Reafirmo tamb&eacute;m o desejo por mudan&ccedil;as.</p></p>
+<p><p>Mudan&ccedil;as no Judici&aacute;rio Estadual, Presidente Jovaldo, com o seu fortalecimento,&nbsp; o afastamento dos maus ju&iacute;zes e a efetiva&ccedil;&atilde;o da sempre esperada celeridade processual.</p></p>
+<p><p>Mas, enquanto n&atilde;o funcionarmos nos dois turnos, ju&iacute;zes relegarem o exerc&iacute;cio da magistratura a um segundo plano, se recusarem a cumprir o expediente e a atender satisfatoriamente os advogados, por mais que seja o esfor&ccedil;o de V.Exa., da mesa diretora do Tribunal e de tantos outros magistradores que se empenham por essas mudan&ccedil;as, ficar&aacute; dif&iacute;cil sairmos da inc&ocirc;moda posi&ccedil;&atilde;o recentemente apontada pelo Conselho Nacional de Justi&ccedil;a.</p></p>
+<p><p>Mudan&ccedil;as na OAB, Presidente Jayme, onde muitos de n&oacute;s que pugnam pelo fim da reelei&ccedil;&atilde;o para os cargos de Presidente, Governador, Prefeito, e bradam pela representatividade das minorias no parlamento s&atilde;o os mesmos que se contrap&otilde;em ao fim da reelei&ccedil;&atilde;o na nossa Ordem e que n&atilde;o aceitam sequer a representa&ccedil;&atilde;o das mesm&iacute;ssimas minorias em nossos pr&oacute;prios Conselhos.</p></p>
+<p><p>Precisamos, aqui, nos unir contra essa excresc&ecirc;ncia, e empunharmos nacionalmente a bandeira da mudan&ccedil;a tamb&eacute;m na Casa do advogado, levando, sob o comando do nosso presidente nacional Cezar Britto, um democrata e transformador por natureza, o tema &agrave; discuss&atilde;o.</p></p>
+<p><p>Mudan&ccedil;as na pol&iacute;tica, meus caros amigos, onde a sociedade j&aacute; n&atilde;o mais ag&uuml;enta ver os atentados contra a cidadania serem tramados nas portas dos pal&aacute;cios e, j&aacute; agora, castelos. Vivenciamos tempos estranhos. A falta de escr&uacute;pulos est&aacute; levando a sociedade, perplexa, a um fosso moral e &eacute;tico. De um lado, pessoas de bem, que acreditam que podem mudar o Pa&iacute;s. De outro, sempre buscando as teias intestinas do poder, uma turba que se apossa como um c&acirc;ncer das riquezas da Na&ccedil;&atilde;o.</p></p>
+<p><p>E essa Corte Eleitoral, que traz em seu bojo essencialmente a pol&iacute;tica, entendida esta como a arte do bem servir, n&atilde;o h&aacute; de fazer, como n&atilde;o faz,ouvidos moucos aos anseios da popula&ccedil;&atilde;o. De uma popula&ccedil;&atilde;o que n&atilde;o mais assiste inerte assaltos aos cofres p&uacute;blicos. Que j&aacute; n&atilde;o suporta os estelionatos eleitorais. Que n&atilde;o mais ag&uuml;enta candidato ficha-suja.</p></p>
+<p><p>Sei de nossas limita&ccedil;&otilde;es enquanto julgadores, onde n&atilde;o basta apenas a nossa vontade e onde a lei &eacute; o nosso limite. Mas os exemplos reconfortantes dados por esta Corte e pelo TSE contribuir&atilde;o para um novo modo de se fazer pol&iacute;tica em nosso Brasil.</p></p>
+<p><p>E &eacute; reafirmando a independ&ecirc;ncia no julgar, sem contemporiza&ccedil;&otilde;es, que analisarei os fatos tais como se apresentar&atilde;o, e com base na lei, e somente nela, haverei de me posicionar, sabedor que sou que o bom julgador &eacute; aquele que n&atilde;o se deixa influenciar por aspectos extra-autos.</p></p>
+<p><p>E aqui entro na imparcialidade. Jamais aceitaria este encargo de Desembargador Eleitoral se me prestasse a servir a poderes constitu&iacute;dos ou n&atilde;o. A Situa&ccedil;&atilde;o ou Oposi&ccedil;&atilde;o. Os meus anos de milit&acirc;ncia na OAB, onde sempre busquei o bom combate,&nbsp; atestam minha insurg&ecirc;ncia contra aqueles que pretenderam submeter a Institui&ccedil;&atilde;o a um ou outro. E assim continuarei a agir. L&aacute; e aqui.</p></p>
+<p><p>Creio que &eacute; hora de encerrar essas brev&iacute;ssimas palavras, j&aacute; que defensor da celeridade n&atilde;o me permito retardar o in&iacute;cio, pela Corte, da sess&atilde;o de julgamentos.Mas n&atilde;o sem antes agradecer.</p></p>
+<p><p>Agradecer a V.Exa., Presidente Jovaldo, pela maneira sempre afetuosa a que a mim se dirige, e pelo incentivo conjunto com v&aacute;rios Desembargadores do nosso honrado Tribunal de Justi&ccedil;a, no sentido de que aceitasse representar a classe dos advogados nesta Augusta Corte.</p></p>
+<p><p>Agradecer aos amigos de primeira hora Jo&atilde;o Campos, Ademar Rigueira, M&aacute;rcio Alves, Eduardo Pugliesi, Bruno Ariosto, Gustavo Paes, Louren&ccedil;o Oliveira&nbsp; e Rog&eacute;rio Favreto, pelo empenho para que aqui chegasse.</p></p>
+<p><p>Agradecer, pela confian&ccedil;a em mim depositada, ao Governador Eduardo Campos, Ministro Jos&eacute; M&uacute;cio, Deputados Maur&iacute;cio Rands e Armando Monteiro Neto, e ao ex-Prefeito Jo&atilde;o Paulo, os quais, embora pouco me conhecendo, referendaram meu nome junto ao Presidente Luis In&aacute;cio Lula da Silva, ainda que conscientes de que aqui poderei julgar contra eventuais interesses seus.</p></p>
+<p><p>Agrade&ccedil;o a todos os amigos presentes, aos quais reafirmo que da nossa honrada e prestimosa profiss&atilde;o de advogado jamais me afastarei. Ao contr&aacute;rio. Al&eacute;m da minha atua&ccedil;&atilde;o no Conselho Federal da OAB serei, aqui, um seu guardi&atilde;o.</p></p>
+<p><p>Finalmente, agrade&ccedil;o ao reconfort&aacute;vel apoio dos meus pais, irm&atilde;os, colegas de Escrit&oacute;rio, a minha esposa Fl&aacute;via, a Henrique e Andr&eacute;, meus filhos e raz&atilde;o de tudo, que desde cedo aprenderam que a vida sempre nos apresenta dois caminhos, onde o certo ser&aacute; sempre o da Justi&ccedil;a. Muito obrigado!&quot;</p></p>
+<p><p><br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

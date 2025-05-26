@@ -1,0 +1,30 @@
+---
+id: 12387834
+date: "2008-04-11T08:42:00Z"
+last_modified_at: null
+tags:
+  - "governo-federal"
+categories:
+  - "noticias"
+title: "O Fim da CPMF e as medidas de compensa\u00e7\u00e3o do Governo Federal "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p></p>
+<p><p><font face=\"Verdana\">Com a extin&ccedil;&atilde;o da cobran&ccedil;a da Contribui&ccedil;&atilde;o Provis&oacute;ria sobre Movimenta&ccedil;&atilde;o Financeira - CPMF, o Governo Federal se apressou em editar um &quot;pacote&quot; de medidas para repor, ainda que parcialmente, as perdas decorrentes da extin&ccedil;&atilde;o desse tributo, estimadas pelo Governo Federal em 40 bilh&otilde;es de reais, apenas para este ano de 2008. </font></p></p>
+<p><p><font face=\"Verdana\">Nesse epis&oacute;dio, impressiona a velocidade da rea&ccedil;&atilde;o do Governo Federal, que lan&ccedil;ou m&atilde;o de solu&ccedil;&otilde;es de efeito imediato e sem a participa&ccedil;&atilde;o do Poder Legislativo, visando compensar as perdas de receita estimadas para o ano de 2008, o que demonstra a enorme suscetibilidade do contribuinte brasileiro &agrave; majora&ccedil;&atilde;o de tributos sem grandes entraves formais. </font></p></p>
+<p><p><font face=\"Verdana\">Essa flexibilidade legislativa permite, por exemplo, no caso da Uni&atilde;o Federal, que a majora&ccedil;&atilde;o de tributos se d&ecirc; com base em uma mera &quot;canetada&quot; do Senhor Presidente da Rep&uacute;blica, como &eacute; o caso das medidas provis&oacute;rias, uma esp&eacute;cie de &quot;lei &agrave;s avessas&quot;, cujos efeitos podem se dar no mesmo dia da sua edi&ccedil;&atilde;o, n&atilde;o sendo exagerado afirmar que, no Brasil, o cidad&atilde;o pode &quot;ir dormir&quot; sob uma realidade tribut&aacute;ria e &quot;acordar&quot; sob outra. </font></p></p>
+<p><p><font face=\"Verdana\">Foi assim que, nesse caso da reposi&ccedil;&atilde;o das perdas da CPMF, o Governo editou atos de efeitos imediatos e aut&ocirc;nomos, sem necessidade de aprecia&ccedil;&atilde;o do Congresso Nacional, que se estima resultar em um incremento da ordem de 10 bilh&otilde;es de reais aos cofres p&uacute;blicos federais neste ano. </font></p></p>
+<p><p><font face=\"Verdana\">Dentre as altera&ccedil;&otilde;es que integram esse &quot;pacote de recupera&ccedil;&atilde;o de perdas da CPMF&quot;, pode-se destacar a eleva&ccedil;&atilde;o da CSLL (Contribui&ccedil;&atilde;o sobre o Lucro L&iacute;quido) das institui&ccedil;&otilde;es financeiras e a eleva&ccedil;&atilde;o nas al&iacute;quotas do IOF nas opera&ccedil;&otilde;es de cr&eacute;dito, o que atinge diversas atividades e servi&ccedil;os, resultando em eleva&ccedil;&atilde;o do custo de diversos servi&ccedil;os no Pa&iacute;s. </font></p></p>
+<p><p><font face=\"Verdana\">Paralelamente a tais medidas de &quot;recupera&ccedil;&atilde;o do caixa&quot;, a Secretaria da Receita Federal editou, mais recentemente, a Resolu&ccedil;&atilde;o n&ordm;. 807/2007, que determina &agrave;s institui&ccedil;&otilde;es financeiras que repassem informa&ccedil;&otilde;es de todos os seus correntistas que tenham movimenta&ccedil;&atilde;o semestral global no valor m&iacute;nimo de R$ 5.000,00, nos casos de pessoas f&iacute;sicas e R$ 10.000,00, nos casos de pessoas jur&iacute;dicas, identificando os titulares das contas e os valores por eles movimentados, sempre que superados os referidos limites. </font></p></p>
+<p><p><font face=\"Verdana\">Na pr&aacute;tica, trata-se da malsinada quebra do sigilo banc&aacute;rio dos cidad&atilde;os brasileiros, por interm&eacute;dio de ato administrativo, que afronta as disposi&ccedil;&otilde;es contidas nos incisos X e XII do art. 5&ordm;., da Constitui&ccedil;&atilde;o Federal de 1988, referentes ao direito fundamental &agrave; inviolabilidade da intimidade e da vida privada de todo e qualquer cidad&atilde;o brasileiro. </font></p></p>
+<p><p><font face=\"Verdana\">De fato, a Constitui&ccedil;&atilde;o Federal erigiu a prote&ccedil;&atilde;o ao sigilo banc&aacute;rio ao posto de direito fundamental, como parte integrante do direito &agrave; inviolabilidade da intimidade e da vida privada do cidad&atilde;o, n&atilde;o sendo poss&iacute;vel a viola&ccedil;&atilde;o a tal direito fundamental por ato praticado com evidente finalidade arrecadat&oacute;ria, como &eacute; o caso da norma da Receita Federal adotada como suced&acirc;neo da CPMF. </font></p></p>
+<p><p><font face=\"Verdana\">Mas, essas medidas adotadas em substitui&ccedil;&atilde;o &agrave; CPMF, por provoca&ccedil;&atilde;o de diversos setores da sociedade, est&atilde;o agora sob a criteriosa an&aacute;lise do Supremo Tribunal Federal, o qual, como guardi&atilde;o maior da Constitui&ccedil;&atilde;o Federal, dever&aacute;, muito em breve, definir sobre a validade de tais medidas, corrigindo os excessos e proclamando a real efetiva&ccedil;&atilde;o dos princ&iacute;pios constitucionais postos &agrave; prova. </font></p></p>
+<p><p><font face=\"Verdana\">De tudo isso, resta a constata&ccedil;&atilde;o de que o fim da CPMF, muito embora os esfor&ccedil;os desmedidos do Governo Federal para que tal fato n&atilde;o resulte em qualquer ganho social ou financeiro aos cidad&atilde;os, representa um epis&oacute;dio hist&oacute;rico de amadurecimento da sociedade brasileira, no combate &agrave; elevada carga tribut&aacute;ria que assola o Pa&iacute;s e que tem levado cada vez mais doutrinadores e especialistas em direito tribut&aacute;rio a reconhecer o seu ineg&aacute;vel efeito confiscat&oacute;rio atual, que alcan&ccedil;ou, em 2007, a incr&iacute;vel marca de 36 % (trinta e seis por cento) do PIB (Produto Interno Bruto) nacional. </font></p></p>
+<p><p><font face=\"Verdana\">PS: Roberto Pimentel - advogado tributarista Siqueira Castro Advogados </font></p></p>
+<p></p></p>
+<p><p><font face=\"Times New Roman\"><font face=\"Verdana\">Por Roberto Pimentel</font></font></p> </p>
+{% endraw %}

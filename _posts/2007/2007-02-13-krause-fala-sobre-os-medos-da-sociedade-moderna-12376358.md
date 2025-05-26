@@ -1,0 +1,33 @@
+---
+id: 12376358
+date: "2007-02-13T10:40:00Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "noticias"
+title: "Krause fala sobre os medos da sociedade moderna"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><P><FONT face=Verdana><STRONG>Gustavo Krause*</STRONG></FONT></P></p>
+<p><P><FONT face=Verdana>Há uma frase memorável de Franklin Roosevelt ao assumir a presidência dos EE.UU, diante nos enormes desafios daquela época: “Não temos nada a temer a não ser o próprio medo”. </FONT></P></p>
+<p><P><FONT face=Verdana>Uma família carbonizada no automóvel e o martírio do menino João Hélio são dois contundentes exemplos que disseminam o medo e justificam uma pergunta que nada tem de metafísica: qual a graça e, até mesmo, o prazer de viver sob ameaça ou sob impacto da permanente dor pessoal ou universal que nos fere com a crueldade praticada contra nossos semelhantes? Nenhum. </FONT></P></p>
+<p><P><FONT face=Verdana>A razão é simples: maior temor do Presidente americano em relação ao seu povo tomou conta dos brasileiros, o medo, o medo das coisas simples como sair de casa ou, em casa, receber a visita indesejável do assaltante e da bala perdida; o medo da convivência; o medo da vida cotidiana ameaçada por uma violência sem limites. E quando o mal da violência atinge uma criança, a revolta é incontrolável e a dor, insuportável. </FONT></P></p>
+<p><P><FONT face=Verdana>A bem da verdade, as nossas crianças estão desprotegidas por nós, pais e cidadãos, aqui e agora, a quem não basta a responsabilidade de bem criar as famílias, famílias que irão conviver em sociedade assustadoramente perversa da qual fazemos parte.</FONT></P></p>
+<p><P><FONT face=Verdana>Por outro lado, as nossas crianças estão ameaçadas, no futuro, por um projeto de civilização inviável e, sem qualquer exagero, suicida que nós, pais e cidadãos, construímos. </FONT></P></p>
+<p><P><FONT face=Verdana>Neste sentido, dois eventos ocuparam a mídia neste mês de fevereiro: o trucidamento de João e o relatório do Painel Intergovernamental de Mudança Climática (IPCC/ONU). Parecem não ter qualquer relação. Mas têm. Ambos ameaçam a vida em sentido amplo; comprometem o futuro próximo e remoto; acendem responsabilidades coletivas; criam dois tipos distintos de medo. </FONT></P></p>
+<p><P><FONT face=Verdana>Como o risco da violência é próximo, visível, concreto, o medo é instintivo e gera alguma reação, privada ou púbica, ainda que inócuas; como o risco do desastre ambiental parece distante no tempo e no espaço, o medo não é visceral porque se fecham os olhos para a gravidade das águas enfurecidas, das secas impiedosas, das doenças epidêmicas, dos furacões devastadores. Afinal, o Brasil é “Gigante pela própria natureza” e “nossos bosques têm mais vida e nossas vidas no teu seio mais amores”.&nbsp; </FONT></P></p>
+<p><P><FONT face=Verdana>Ledo engano. Os humanos estão destruindo sua morada, a Terra; uma casa viva, frágil e pequena para a cobiça incontida dos seus habitantes. Está com febre e febre alta anunciando uma grave enfermidade: o aquecimento global. </FONT></P></p>
+<p><P><FONT face=Verdana>Pelo menos três recentes publicações nos ajudam a entender a dimensão do fenômeno.&nbsp;</FONT></P></p>
+<p><P><FONT face=Verdana>A primeira é o relatório já mencionado. As conclusões, cientificamente embasadas, demonstram que a mão do homem tem jogado na atmosfera quantidades de dióxido de carbono, metano e óxido nitroso tão volumosas que as perturbações darão razão ao cancioneiro nordestino: “o sertão vai virar mar” (Vê site: </FONT><A href=\"https://www.ipcc.ch/SPM2feb07.pdf\"><FONT face=Verdana>www.ipcc.ch/SPM2feb07.pdf</FONT></A><FONT face=Verdana>).&nbsp;</FONT></P></p>
+<p><P><FONT face=Verdana>A segunda é o livro de autoria de Al Gore (também filme documentário) com o título: Uma Verdade Inconveniente. Depois de “repensar toda a vida – e minhas prioridades”, a partir de um grave acidente com o filho, o ex-Vice-Presidente de Clinton faz um consistente alerta, citando Luther King: “O amanhã já chegou”. Apesar do dramático diagnóstico, Al Gore acredita na superação das dificuldades desde que o compromisso a ser assumido transcenda o político e seja “sobretudo, moral, ético, espiritual” e medidas urgentes e concretas sejam tomadas.&nbsp;&nbsp;</FONT></P></p>
+<p><P><FONT face=Verdana>A terceira – A vingança de Gaia – é de autoria de um dos mais respeitados pensadores do nosso tempo, o inglês, quase nonagenário, James Lovelock. Ele é o autor, ao lado de Lynn Margulis, da “Hipótese ou Teoria de Gaia” que alia teoria científica a uma metáfora para explicar a visão segundo a qual a Terra é um organismo vivo e não “algo inanimado como a infame ‘Espaçonave Terra’”. Lovelock tem desafiado a tradição científica e o ambientalismo ortodoxo. Todavia para ele, sua tese “é a base de um ambientalismo coerente e prático” e, dada a iminência da catástrofe, propõe uma “retirada ordenada” para salvar a civilização pela expansão da energia nuclear “como um pequeno preço a pagar” o que deixa de cabelo em pé, na sua definição, o “romantismo verde”.&nbsp;&nbsp;</FONT></P></p>
+<p><P><FONT face=Verdana>Desta forma, a questão ambiental volta e volta com toda força como tema central da agenda internacional. Questão que sempre foi central para a humanidade e periférica para os governos, contradição que senti na própria pele quando exerci o cargo de Ministro do Meio Ambiente.&nbsp;&nbsp;</FONT></P></p>
+<p><P><FONT face=Verdana>Para os menos sensíveis a força da questão ambiental, em cuja base está a vida dos nossos filhos, é a força do medo, difuso, porém crescente, de não assegurar-lhes a sobrevivência no futuro; para os mais sensíveis e clarividentes é a força de solene compromisso político, ético e espiritual para com os nossos descendentes.&nbsp;</FONT></P></p>
+<p><P><FONT face=Verdana>Caso contrário, a história escreverá, mais uma vez, o patético epitáfio, já escrito, sobre os escombros das várias civilizações destruídas: tarde demais.&nbsp;&nbsp;</FONT></P><FONT face=Verdana></p>
+<p><P><FONT face=Verdana><EM>*<STRONG>Gustavo Krause</STRONG>, 60, iniciou sua carreira pol?tica em 1975. Foi prefeito do Recife (79/82), vice-governador e assumiu o governo quando o Magalhães deixou o cargo para disputar o Senado, em 86.&nbsp;<FONT face=Verdana>Assumiu o Ministério da Fazenda do Brasil durante o governo Itamar Franco, em 1992. Em 1995, durante o governo Fernando Henrique Cardoso, assumiu o Ministério do Meio Ambiente, onde permaneceu até 1998.&nbsp;</FONT></EM></FONT></P></FONT> </p>
+{% endraw %}

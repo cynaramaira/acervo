@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O ex-governador acabou falando praticamente todo o último bloco da entrevista na JC/CBN, que se encerrou há pouco, sobre por que a violência é um problema tão grave em Pernambuco.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Do que disse, no que ele tem razão?</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>De tudo o que utiliza para fundamentar seu discurso sobre o assunto, tem razão quando afirma que o problema da segurança é nacional, precisa ser resolvido de forma articulada em todo o pa?s.</FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>A agenda era outra, eis a razão</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>A agenda de Jarbas nos dois mandatos dele foi outra: a da requalificação da infra-estrutura econômica e recuperação do poder de compra do Estado. </FONT></P></p>
 <p><P><FONT face=Verdana>Para essa agenda se voltou toda a máquina e a capacidade de elaboração técnica e pol?tica do governo.<BR><BR>Uma avaliação dos sucessos e fracassos das administrações Jarbas é igual àquela história do copo meio cheio e meio vazio.<BR><BR>Os otimistas só querem ver o meio cheio, as importantes obras de infra-estrutura econômica e reforma administrativa.<BR><BR>Mas a sociedade deve se preocupar - e cobrar -&nbsp;com a metade vazia, aquela metade dos resultados t?midos na segurança púlbica, por exemplo.<BR><BR>Essa metade ainda precisa ser conquistada. Só assim o Estado avança.<BR><BR>A outra parcela, a cheia, de claros sucessos, já foi incorporada ao patrimônio da população.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

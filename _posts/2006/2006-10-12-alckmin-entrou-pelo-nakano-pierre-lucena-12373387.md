@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Pierre Lucena*</STRONG><BR>Professor e administrador <BR></FONT><A href=\"mailto:pierre.lucena@contagemweb.com.br\"><FONT face=Verdana>pierre.lucena@contagemweb.com.br</FONT></A><BR><FONT face=Verdana>&nbsp;<BR>Em um evento na última terça-feira, o economista Yoshiaki Nakano, ex-secretário da fazenda de Mário Covas e professor da FGV-SP, defendeu uma intervenção na pol?tica cambial, e relatou algumas idéias pessoais a respeito do funcionamento do “mercado???.</FONT></P></p>
 <p><P><FONT face=Verdana>Qual o problema disso? Absolutamente nenhum, se o professor não participasse da formulação do Programa de Governo de Geraldo Alckmin.</FONT></P></p>
 <p><P><FONT face=Verdana>Em resumo, Nakano apenas explicitou algumas idéias que alguns consideram totalmente plaus?veis, como o que aqui escreve. Ele propôs uma intervenção direta no câmbio, através de um fundo de estabilização que permitisse ao Governo administrar o humor do mercado cambial.</FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Quando aparece alguém querendo debater alguma proposta séria, eis que aparece o “mercado??? e a “campanha??? para atrapalhar. Ao contrário do que disse o economista, projeto de banqueiro, Nakano já prestou muito mais serviço ao Pa?s como secretário da fazenda do que o ex-membro da equipe econômica, que conseguiu a façanha de aumentar os juros com o risco Brasil em baixa.</FONT></P></p>
 <p><P><FONT face=Verdana>E em relação ao futuro de Nakano em um Governo do PSDB? Bom, depois dessa celeuma toda, infelizmente será candidato a virar um “aspone??? com o tucanato, que sempre foi refém do “mercado???.</FONT></P></p>
 <p><P><FONT face=Verdana><EM><STRONG>*Pierre Lucena</STRONG>, 35, doutor em finanças pela PUC-Rio, Mestre em Economia e Administrador pela UFPE, é professor-adjunto da Universidade Federal de Pernambuco, sócio da Contagem Consultoria Estratégica e Pesquisa. Foi secretário-adjunto de Educação do Estado. É Coordenador do Núcleo de Finanças e Investimentos do Departamento de Ciências Administrativas da UFPE (NEFI).</EM></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

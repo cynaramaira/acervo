@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><I></p>
 <p><P>&nbsp;</P></p>
 <p><P><FONT face=Verdana><STRONG>Do caderno de Economia do JC de hoje</STRONG> </FONT></P></I></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>A expectativa gerada com a descoberta foi grande, e desde então, o governo se articulava para incluir Pernambuco numa rodada de exploração ofertada pela ANP. São nessas rodadas que empresas arrematam lotes para prospectar petróleo. </FONT></P></p>
 <p><P><FONT face=Verdana>No processo de organizar a rodada, a ANP fez consultas a CPRH e ao Ibama para saber quais blocos poderia oferecer. </FONT></P></p>
 <p><P><FONT face=Verdana></FONT>&nbsp;</P> </p>
-{\% endraw %}
+{% endraw %}

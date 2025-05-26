@@ -13,6 +13,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Candidata a deputada estadual pelo PSB de Eduardo Campos, Débora Daggy fez este ensaio exclusivo para o JC OnLine quatro anos e meio atrás, quando ficou famosa por namorar o então governador Jarbas Vasconcelos (PMDB).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

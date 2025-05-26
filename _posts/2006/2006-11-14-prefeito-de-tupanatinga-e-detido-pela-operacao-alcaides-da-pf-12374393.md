@@ -14,7 +14,7 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Do JC OnLine<br />Com informa&ccedil;&otilde;es da R&aacute;dio Jornal e da TV Jornal</p>
 <p>O prefeito de Tupanatinga, Manoel</p>
 <p>Ferreira dos Santos, foi o primeiro prefeito a ser detido pela Opera&ccedil;&atilde;o Alcaides, realizada pela Pol?cia Federal (PF), desde a madrugada desta ter&ccedil;a-feira (14) em Pernambuco. A Opera&ccedil;&atilde;o Alcaides investiga desvio de verba p&uacute;blica nas prefeituras do interior do Estado.</p>
@@ -28,4 +28,4 @@ imagem: null
 <p>Uma coletiva &agrave; imprensa deve ser realizada por volta das 15h na sede da Pol?cia Federal (PF), no Cais do Apolo, para divulgar o balan&ccedil;o da Opera&ccedil;&atilde;o, que deve terminar entre as 13h e 15h, segundo informou o chefe de comunica&ccedil;&atilde;o social da PF, Aldemir Lucena.</p>
 <p>Desde 2005. a Controladoria Geral da Uni&atilde;o vem investigando esses munic?pios e as den&uacute;ncias de fraudes nas prefeituras do interior do Estado.</p>
 <p>R&Ecirc;MORA - A Pol?cia Federal (PF) realiza no Par&aacute; e no Amaz&ocirc;nas uma opera&ccedil;&atilde;o semelhante &agrave; Alcaides. A Opera&ccedil;&atilde;o R&ecirc;mora investiga fraudes em licita&ccedil;&otilde;es e na arrecada&ccedil;&atilde;o da receita previdenci&aacute;ria. Ainda n&atilde;o se sabe se algu&eacute;m j&aacute; foi detido nessa opera&ccedil;&atilde;o.</p>
-{\% endraw %}
+{% endraw %}

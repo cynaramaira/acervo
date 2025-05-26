@@ -14,9 +14,9 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Jarbas Vasconcelos só chegou no final do almoço, no Mourisco, em Olinda.</FONT></P></p>
 <p><P><FONT face=Verdana>Itamar, não. O ex-presidente comeu com Alckmin e&nbsp;se divertiu. Os dois estão de muito bom humor.</FONT></P></p>
 <p><P><FONT face=Verdana>Estão saindo agora para o centro de convenções, onde o tucano vai apresentar suas promessas de um novo</p>
 <p> Nordeste, ao lado do senador José Jorge (à esquerda).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do portal <STRONG>G1</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Depois do descanso no feriado, na Bahia, o presidente Luiz Inácio Lula da Silva retoma o trabalho e inicia a fase de articulações pol?ticas para garantir a governabilidade no próximo mandato.</FONT></P></p>
 <p><P><FONT face=Verdana>Lula conversa com partidos aliados, discute o espaço que as legendas terão na futura equipe ministerial e encontra governadores eleitos. Ele também deve procurar, pessoalmente, lideranças da oposição ao longo da semana para tentar criar pontes de diálogos com PSDB e PFL.</FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>A Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle do Senado faz audiência pública, às 11h, sobre as apurações do acidente aéreo com avião da Gol. O presidente companhia, Constantino Júnior, especialistas em aviação e representante dos familiares das foram convidados. </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>QUARTA-FEIRA<BR></STRONG>O vice-presidente, José Alencar, viaja a Nova York para tratar um tumor na região do abdome.</FONT></P></p>
 <p><P><FONT face=Verdana>Dois ex-ministros da Saúde do governo Lula também foram convidados a prestar esclarecimentos à CPI dos Sanguessugas. Estão previstos os depoimentos de <STRONG>Humberto Costa</STRONG> e Saraiva Felipe.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

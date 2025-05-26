@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Não é apenas no guia eleitoral da União por Pernambuco, de Jarbas Vasconcelos (PMDB) e Mendonça Filho (PFL),&nbsp;onde o presidenciável tucano Geraldo Alckmin (PSDB)&nbsp;está sendo&nbsp;solenemente ignorado.</FONT></P></p>
 <p><P><FONT face=Verdana>O guia fez sua estréia hoje, dia reservado aos programas dos presidenciáveis e candidatos a deputado federal.</FONT></P></p>
 <p><P><FONT face=Verdana>No rádio, pela manhã e ao meio-dia, Alckmin foi apenas citado por alguns candidatos a deputado federal da União. Na TV, também. </FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana><A href=\"https://www.raulhenry.com.br/\"><STRONG>https://www.raulhenry.com.br</STRONG></A></FONT></P></p>
 <p><P><FONT face=Verdana>O mesmo ocorre no site de Cadoca, federal mais votado em 2002, candidato à reeleição:</FONT></P></p>
 <p><P><FONT face=Verdana><A href=\"https://www.cadoca1515.can.br/\"><STRONG>https://www.cadoca1515.can.br/</STRONG></A></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

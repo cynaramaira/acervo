@@ -13,8 +13,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>O guia de Humberto manteve o mesmo mote e a linha geral dos programas anteriores. Sem surpresas.</P></p>
 <p><P>O do PSB começou novamente apresentando Eduardo e o trabalho dele na</p>
 <p> Ciência e Tecnologia.</P> </p>
-{\% endraw %}
+{% endraw %}

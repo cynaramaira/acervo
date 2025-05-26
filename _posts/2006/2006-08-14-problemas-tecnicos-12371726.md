@@ -12,6 +12,6 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Por problemas t&eacute;cnicos no servidor do UOL, estivemos foram do ar durante algum tempo. Pedimos desculpas.</p>
-{\% endraw %}
+{% endraw %}

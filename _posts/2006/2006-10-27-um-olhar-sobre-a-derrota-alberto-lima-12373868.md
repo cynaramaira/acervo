@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Alberto Lima</STRONG><BR>Jornalista<BR></FONT><A href=\"mailto:limalberto@gmail.com\"><FONT face=Verdana>limalberto@gmail.com</FONT></A></P></p>
 <p><P><FONT face=Verdana>O próximo domingo deve entrar para a recente história pol?tica de Pernambuco como um simbólico ponto de mudança na correlação de forças do Estado. A partir da zerézima, os computadores da Justiça Eleitoral devem ir confirmando, momento a momento, o fim das aspirações do governador Mendonça Filho de se manter no cargo e, abraçados à derrota dele, sucumbirão a União por Pernambuco e o combalido PFL local.</FONT></P></p>
 <p><P><FONT face=Verdana>Esse quadro, no entanto, não começou a ser pintado nessas eleições e, verdade seja dita, acabou acentuado pela conjuntura nacional. Pragmaticamente, pode-se identificar, nessa análise, alguns pontos bem objetivos. </FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p> ao cargo. Quem sabe Raul Henry já não esteja preparado? E, se não estiver, por que não a volta triunfal do próprio Jarbas? Logo, que interesse há, para esse pessoal, na reeleição de Mendonça?</FONT></P></p>
 <p><P><FONT face=Verdana>5 - Para finalizar, não vamos aqui, também, querer desprezar a competência da oposição. Ela, sem dúvida, soube explorar muito bem as fissuras da aliança para escancará-las publicamente. Aos poucos, foi usando as tensões da base para corroer a sustentação governista e impingir-lhe muitas derrotas. O sucesso de Eduardo Campos transformou-se, apenas, na cereja do bolo, que aumentou ainda mais a sangria na União por Pernambuco, levando até nomes tradicionais como Geraldo Coelho a abandonar a candidatura de Mendonça.</FONT></P></p>
 <p><P><FONT face=Verdana>Enfim, contrariando o ditado que diz que a vitória tem muitos pais e a derrota é órfã, em Pernambuco o provável insucesso de Mendonça Filho nas urnas, no próximo domingo, deve ser analisado não como um drama pessoal, mas como uma tragédia encenada por muitos atores.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

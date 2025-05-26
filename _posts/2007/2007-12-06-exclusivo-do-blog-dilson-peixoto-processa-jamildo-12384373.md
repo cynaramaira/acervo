@@ -1,0 +1,36 @@
+---
+id: 12384373
+date: "2007-12-06T17:20:00Z"
+last_modified_at: null
+tags:
+  - "adilson-ramos"
+  - "alimentos-ultraprocessados"
+  - "blogs-jc"
+categories:
+  - "noticias"
+title: "Exclusivo do Blog: Dilson Peixoto processa Jamildo "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">O presidente da Empresa Metropolitana de Transportes Urbanos (EMTU), Dilson Peixoto, est&aacute; movendo uma A&ccedil;&atilde;o Indenizat&oacute;ria de Danos Morais contra o sr. &quot;Jamildo Melo Pereira J&uacute;nior&quot;, que vem a ser o editor deste Blog. No processo pede, inclusive, que o Blog seja desativado. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A a&ccedil;&atilde;o foi impetrada na Primeira Vara C&iacute;vil da Capital e a cita&ccedil;&atilde;o para Jamildo chegou &agrave; reda&ccedil;&atilde;o do JC On Line na tarde desta quarta (5). No despacho, determina-se o prazo de 15 dias para que seja oferecida a defesa. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Junto com a carta de cita&ccedil;&atilde;o da Primeira Vara, chegou anexado o documento de 11 p&aacute;ginas em que o advogado Ricardo de Castro e Silva Dalle historia fatos que seriam o motivo da a&ccedil;&atilde;o: basicamente, textos publicados por Jamildo neste Blog e coment&aacute;rios feitos por leitores, que Peixoto considerou ofensivos a sua reputa&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&quot;Por se tratar de um pol&iacute;tico dos mais conceituados e importantes do Estado Pernambucano, o Autor (Peixoto), atualmente vereador da cidade do Recife, presidente estadual do Partido dos Trabalhadores - PT e diretor presidente da EMTU/ Recife, sempre relevou as provoca&ccedil;&otilde;es do R&eacute;u (Jamildo), que n&atilde;o foram poucas&quot;, diz um trecho do documento. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">E continua: &quot;Ocorre que, no &uacute;ltimo dia 11 de setembro, o R&eacute;u, mais uma vez, passou dos limites, quando publicou algumas mat&eacute;rias em seu blog. Desta vez a nota publicada n&atilde;o tratava sobre a EMTU, mas sim de um contrato do ano de 2003 entre a Prefeitura do Recife e a empresa Geraldo J. Coan, fornecedora de merenda escolar&quot;. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Mais: &quot;Pelo conte&uacute;do da mat&eacute;ria fica claro que, muitas das mais de 60 (sessenta) mat&eacute;rias divulgadas no blog s&oacute; no ano de 2007 sobre o Autor, t&ecirc;m cunho pessoal, e n&atilde;o jornal&iacute;stico&quot;. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A tal Geraldo J. Coan lembrada pela a&ccedil;&atilde;o de Peixoto, figurou em mat&eacute;ria publicada no jornal Folha de S. Paulo, no dia 11 de setembro, como sendo alvo de investiga&ccedil;&atilde;o, em v&aacute;rios pontos do pa&iacute;s, por &oacute;rg&atilde;os como Controladoria-Geral da Uni&atilde;o, Tribunal de Contas da Uni&atilde;o e Minist&eacute;rio P&uacute;blico da Uni&atilde;o e dos Estados. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Jamildo descobriu que a Geraldo J. Coan tamb&eacute;m mantinha contrato com a Prefeitura do Recife desde 2003 e publicou o fato em primeira m&atilde;o, no mesmo dia 11 de setembro. Lembrou que, &agrave; &eacute;poca da assinatura do contrato, Dilson Peixoto era o secret&aacute;rio de Servi&ccedil;os P&uacute;blicos da PCR - &agrave; qual era ligada a Csurb, estatal respond&aacute;vel pela contrata&ccedil;&atilde;o. N&atilde;o o acusou de qualquer irregularidade. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Peixoto n&atilde;o gostou. E, no mesmo dia, enviou ao Blog uma nota de resposta (leia <strong><a target=\"_blank\" href=\"https://jc3.uol.com.br/blogs/blogdejamildo/2007/09/11/index.php#11209\">aqui</a></strong>) acusando Jamildo de n&atilde;o ter o &quot;m&iacute;nimo de esmero profissional&quot;. Sua nota foi publicada na &iacute;ntegra. E Jamildo respondeu (leia no link anterior) - o que contrariou o presidente da EMTU. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A PCR tamb&eacute;m enviou nota, prontamente publicada na &iacute;ntegra (leia <strong><a target=\"_blank\" href=\"https://jc3.uol.com.br/blogs/blogdejamildo/2007/09/11/index.php#11213\">aqui</a></strong>), sem ataques pessoais ou reparos &agrave; atua&ccedil;&atilde;o do jornalista. Afinal, &eacute; fun&ccedil;&atilde;o da imprensa manter a sociedade informada sobre os atos do poder p&uacute;blico. E obriga&ccedil;&atilde;o do ocupante de cargo p&uacute;blico prestar esclarecimentos &agrave; comunidade em que atua - ainda mais quando se notabiliza por sua import&acirc;ncia. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Mas o epis&oacute;dio da merenda escolar e o que chama de &quot;cunho pessoal&quot; das mat&eacute;rias publicadas sobre ele no Blog, levaram Peixoto a mover a a&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>BLOG DESATIVADO</strong> </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">N&atilde;o satisfeito em pedir indeniza&ccedil;&atilde;o por danos morais, ele tamb&eacute;m solicitou &agrave; Justi&ccedil;a que o Blog &quot;fique desativado pelo tempo que for necess&aacute;rio at&eacute; o cadastramento pr&eacute;vio dos usu&aacute;rios que tecem coment&aacute;rios acerca dos artigos publicados pelo R&eacute;u&quot;, sob pena de multa di&aacute;ria a ser arbitrada pelo juiz. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">No documento, o advogado Ricardo Dalle lembra que tramita no Senado Federal um projeto de lei do senador Delc&iacute;dio Amaral (PT-MS), que prev&ecirc; o cadastramento pr&eacute;vio de internautas que fazem coment&aacute;rios. Ou seja: ainda n&atilde;o existe lei regulamentando a mat&eacute;ria. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Mesmo assim, no texto da a&ccedil;&atilde;o diz-se que n&atilde;o se pode esperar pela lei. &quot;Sem d&uacute;vida que a iniciativa do Senador deve ser elogiada, mas n&atilde;o podemos esperar que a lei esteja em vigor para que se possam tomar provid&ecirc;ncias contra as falsas atitudes de pessoas an&ocirc;nimas&quot;, diz o advogado, a certa altura do documento encaminhado &agrave; Justi&ccedil;a. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Dilson requer ainda a retrata&ccedil;&atilde;o de Jamildo, atrav&eacute;s do mesmo meio de comunica&ccedil;&atilde;o que usou para, no seu entender, ofend&ecirc;-lo. No caso, o pr&oacute;prio Blog. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Quanto ao valor da indeniza&ccedil;&atilde;o, deixa para arb&iacute;trio do juiz da Primeira Vara Civil, estabelecendo para efeitos fiscais o total de R$ 10 mil. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A defesa legal de Jamildo ser&aacute; feita no tempo, local e pelos meios apropriados. Aqui vai apenas a not&iacute;cia. Fatos que interessam aos leitores e &agrave;queles que gostam de comentar os fatos.&nbsp;</font></p> </p>
+{% endraw %}

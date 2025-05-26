@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Mesmo consagrado no Nordeste,&nbsp;o presidente Luiz Inácio Lula da Silva (PT) vai fazer um com?cio de encerramento da sua campanha na região.</FONT></P></p>
 <p><P><FONT face=Verdana>Lula está decidindo entre Juazeiro, na Bahia,&nbsp;e Petrolina, no Sertão pernambucano.</FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"O presidente está fazendo um grande trabalho de mobilização. O com?cio no Nordeste é para reforçar a candidatura dele. Não é por conta das candidaturas nos estados não\", analisou.</FONT></P></p>
 <p><P><FONT face=Verdana>João Paulo afirmou que não conversou com Lula sobre a o quadro atual da corrida sucessória&nbsp;pelo Governo de Pernambuco. \"Não deu tempo. Nos falamos muito rápido\". </FONT></P></p>
 <p><P><FONT face=Verdana>O prefeito retorna de Bras?lia amanhã, pela manhã. Ele participou, hoje, à tarde, de reunião com o presidente Lula com cerca de 500 prefeitos de todo o Brasil. </FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

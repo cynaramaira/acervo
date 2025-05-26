@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Luiz Otavio Cavalcanti*</STRONG><BR>Ex-secretário do Planejamento e da Fazenda de Pernambuco<BR></FONT><A href=\"mailto:lotavio@fsm.com.br\"><FONT face=Verdana>lotavio@fsm.com.br</FONT></A></P></p>
 <p><P><FONT face=Verdana>Perder não é feio. Feio é perder a linha. Essa pode ser a mudança especial que distingue o pensamento e a ação de duas gerações de pol?ticos em Pernambuco.</FONT></P></p>
 <p><P><FONT face=Verdana>Para uma geração mais antiga, nos idos dos anos 40, o comportamento pol?tico ditava a máxima de que feio era perder. Assim pensavam os coronéis pessedistas.</FONT></P></p>
@@ -30,4 +30,4 @@ imagem: null
 <p> estilos, formas de pensar e objetivos a alcançar. Dá-se chance à confluência. Penso que podemos fazer a boa aposta. Mendonça amadureceu na paciente espera de uma obra adiada. Cresceu no embate consciente que consagra valores pessoais, pol?ticos e sociais. Essa é uma das obsessões pernambucanas. A linha que demarca o próprio e o impróprio, o oportuno e o inoportuno. A linha que fixa uma estética pol?tica, de fazer bem feito. Linha reta. </FONT></P></p>
 <p><P><FONT face=Verdana>Uma linha n?tida na atuação pernambucanamente azul de Mendonça Filho.</FONT></P></p>
 <p><P><FONT face=Verdana><EM><STRONG>*Luiz Otavio Cavalcanti</STRONG>, 60, advogado, executivo e ex-secretário do Planejamento (1975/79 e 1991/92) e da Fazenda (1983/86 e 1992/93) de Pernambuco. Recifense, Cavalcanti dirige hoje a entidade mantenedora da Faculdade Santa Maria. É autor, entre outros livros, de Como a corrupção abalou o governo Lula (Ed. Ediouro, 2005), Administradores, quem somos nós? (Ed. Bagaço, 2005) e Ensaiando Pernambuco (Ed. Bagaço, 2005).</EM></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

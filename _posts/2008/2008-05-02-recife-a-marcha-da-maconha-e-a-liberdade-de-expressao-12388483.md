@@ -1,0 +1,44 @@
+---
+id: 12388483
+date: "2008-05-02T11:20:00Z"
+last_modified_at: null
+tags:
+  - "liberdade"
+  - "maconha"
+  - "recife"
+categories:
+  - "eleicoes"
+title: "Recife, a Marcha da Maconha e a liberdade de express\u00e3o"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Por <strong>Edilson Silva<img height=\"160\" src=\"https://www2.uol.com.br/JC/blogs/blogdejamildo/imagens/selo_recife2008.jpg\" width=\"130\" align=\"right\" alt=\"\" /></strong></font></p></p>
+<p><p><font face=\"Verdana\">No pr&oacute;ximo dia 4 de maio, domingo, acontecer&aacute; em mais de 200 cidades do mundo todo um evento que j&aacute; ocorre h&aacute; v&aacute;rios anos: a Marcha Mundial da Maconha, que prop&otilde;e o debate sobre a descriminaliza&ccedil;&atilde;o espec&iacute;fica desta droga.</font></p></p>
+<p><p><font face=\"Verdana\">O Brasil est&aacute; entre os pa&iacute;ses com forte participa&ccedil;&atilde;o na atividade, que dever&aacute; se realizar em mais de 10 cidades, dentre as quais Recife. </font></p></p>
+<p><p><font face=\"Verdana\">Mas, o que este evento tem a ver com o debate sobre os problemas municipais, discutidos nesta s&eacute;rie de artigos entre os prefeitur&aacute;veis de Recife? Tudo.</font></p></p>
+<p><p><font face=\"Verdana\">Tanto pela forma preconceituosa como os organizadores e potenciais participantes do evento est&atilde;o sendo tratados por alguns segmentos do Estado, como pela ess&ecirc;ncia do tema em quest&atilde;o. Como venho colocando sempre nos modestos artigos escritos neste espa&ccedil;o, o munic&iacute;pio &eacute; onde as pessoas moram, trabalham, estudam.</font></p></p>
+<p><p><font face=\"Verdana\">O munic&iacute;pio &eacute; onde a vida acontece no seu cotidiano, onde o sal&aacute;rio &eacute; pouco ou razo&aacute;vel, onde o desemprego causa agonia e desespero, onde a seguran&ccedil;a p&uacute;blica funciona ou n&atilde;o, onde a escola ou o atendimento &agrave; sa&uacute;de presta ou n&atilde;o, enfim, onde os efeitos das macro-decis&otilde;es econ&ocirc;micas e pol&iacute;ticas s&atilde;o concretizadas.</font></p></p>
+<p><p><font face=\"Verdana\">Portanto, a &quot;par&oacute;quia&quot; e seus moradores s&atilde;o os que t&ecirc;m mais legitimidade e autoridade moral e pol&iacute;tica dentre os demais entes federativos, obviamente dentro de um pacto democr&aacute;tico e justo, solid&aacute;rio e harm&ocirc;nico com estes, para sugerir, reivindicar ou exigir, por exemplo, altera&ccedil;&otilde;es ou reformas no ordenamento jur&iacute;dico que estabelece os direitos e deveres ao conjunto da sociedade.</font></p></p>
+<p><p><font face=\"Verdana\">Os usos e costumes de uma popula&ccedil;&atilde;o ou grupo social, ainda n&atilde;o contemplados na superestrutura jur&iacute;dica de uma sociedade, mas que j&aacute; se materializam enquanto cultura e como fato consumado, sempre tiveram e sempre ter&atilde;o nas cidades de maior porte uma maior e melhor acolhida, desenvolvendo-se nestas com mais desenvoltura, o que as tornam vanguardas na luta pela adapta&ccedil;&atilde;o das leis &agrave;s novas realidades.</font></p></p>
+<p><p><font face=\"Verdana\">Foi assim com o div&oacute;rcio, est&aacute; sendo assim com a uni&atilde;o civil entre pessoas do mesmo sexo, com os debates sobre o aborto, sobre a utiliza&ccedil;&atilde;o de c&eacute;lulas-tronco de embri&otilde;es em pesquisas cient&iacute;ficas, e n&atilde;o seria diferente com um tema t&atilde;o pol&ecirc;mico como a descriminaliza&ccedil;&atilde;o da maconha.</font></p></p>
+<p><p><font face=\"Verdana\">Esta din&acirc;mica neste &acirc;mbito das rela&ccedil;&otilde;es sociais, que em muito tem a ver com o caminhar da humanidade e da civiliza&ccedil;&atilde;o, torna-se sempre menos traum&aacute;tica quando as liberdades individuais s&atilde;o minimamente garantidas. </font></p></p>
+<p><p><font face=\"Verdana\">Felizmente, fruto de muita luta pol&iacute;tica, em momentos em que a &quot;Lei&quot; dizia que era proibida &quot;qualquer aglomera&ccedil;&atilde;o&quot;, conquistamos a democracia que temos no Brasil, e est&atilde;o consagrados na Constitui&ccedil;&atilde;o Federal alguns direitos individuais.</font></p></p>
+<p><p><font face=\"Verdana\">Artigo 5&ordm;: Todos s&atilde;o iguais perante a lei, sem distin&ccedil;&atilde;o de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no Pa&iacute;s a inviolabilidade do direito &agrave; vida, &agrave; liberdade, &agrave; igualdade, &agrave; seguran&ccedil;a e &agrave; propriedade, nos termos seguintes: (...)</font></p></p>
+<p><p><font face=\"Verdana\">II - ningu&eacute;m ser&aacute; obrigado a fazer ou deixar de fazer alguma coisa sen&atilde;o em virtude de lei;</font></p></p>
+<p><p><font face=\"Verdana\">IV - &eacute; livre a manifesta&ccedil;&atilde;o do pensamento, sendo vedado o anonimato;</font></p></p>
+<p><p><font face=\"Verdana\">IX - &eacute; livre a express&atilde;o da atividade intelectual, art&iacute;stica, cient&iacute;fica e de comunica&ccedil;&atilde;o, independentemente de censura ou licen&ccedil;a; </font></p></p>
+<p><p><font face=\"Verdana\">XVI - todos podem reunir-se pacificamente, sem armas, em locais abertos ao p&uacute;blico, independentemente de autoriza&ccedil;&atilde;o, desde que n&atilde;o frustrem outra reuni&atilde;o anteriormente convocada para o mesmo local, sendo apenas exigido pr&eacute;vio aviso &agrave; autoridade competente;&quot;.</font></p></p>
+<p><p><font face=\"Verdana\">Baseado, sem trocadilho, nesses direitos, os brasileiros podem ir &agrave;s ruas defender altera&ccedil;&otilde;es nas pr&oacute;prias leis, para tornar o ilegal legal ou vice-versa, para fazer press&atilde;o sobre as institui&ccedil;&otilde;es e para tentar dialogar e convencer a sociedade a respeito dos seus pontos de vista sobre os mais variados temas. </font></p></p>
+<p><p><font face=\"Verdana\">Sou radicalmente contra a pena de morte, por exemplo, que n&atilde;o &eacute; amparada legalmente no Brasil.</font></p></p>
+<p><p><font face=\"Verdana\">Mas isto n&atilde;o me d&aacute; o direito, assim como n&atilde;o d&aacute; ao Estado, de impedir seus defensores de se expressarem publicamente, como o fazem, ali&aacute;s, sem nenhum inconveniente por parte das autoridades e da Justi&ccedil;a, que n&atilde;o v&ecirc; nesta atitude, fartamente encontrada em propagandas eleitorais, apologia &agrave; pr&aacute;tica de homic&iacute;dio.</font></p></p>
+<p><p><font face=\"Verdana\">Assim, faria muito bem &agrave; nossa democracia, &agrave; consolida&ccedil;&atilde;o de uma cultura democr&aacute;tica cada dia mais avan&ccedil;ada, que o prefeito da cidade do Recife, assim como das outras cidades, enquanto lideran&ccedil;as pol&iacute;ticas locais, cercassem a Marcha Mundial da Maconha de solidariedade, n&atilde;o necessariamente se somando &agrave; causa defendida pelos seus organizadores, mas pela simbologia que isto representaria na garantia dos seus direitos constitucionais, de poderem ocupar o espa&ccedil;o da cidade com plena liberdade para expressar suas id&eacute;ias. </font></p></p>
+<p><p><font face=\"Verdana\">Sobre a ess&ecirc;ncia da proposta desta marcha, o tema envolve, al&eacute;m da quest&atilde;o dos direitos individuais e coletivos, seguran&ccedil;a p&uacute;blica, sa&uacute;de p&uacute;blica, educa&ccedil;&atilde;o, juventude, direitos humanos, dinamiza&ccedil;&atilde;o econ&ocirc;mica e gera&ccedil;&atilde;o de impostos, e v&aacute;rios outros t&oacute;picos correlatos.</font></p></p>
+<p><p><font face=\"Verdana\">H&aacute; na organiza&ccedil;&atilde;o da marcha, dentre outros, organiza&ccedil;&otilde;es muito s&eacute;rias que trabalham diuturnamente por pol&iacute;ticas p&uacute;blicas para a redu&ccedil;&atilde;o de danos pelo uso de &aacute;lcool, cigarro e outras drogas. </font></p></p>
+<p><p><font face=\"Verdana\">Trata-se, portanto, longe da desqualifica&ccedil;&atilde;o moral e da ilegalidade que alguns setores tentam impor, como se a marcha tivesse o objetivo de fazer apologia ao uso da maconha, de uma iniciativa absolutamente leg&iacute;tima e importante, como m&iacute;nimo pelo car&aacute;ter pedag&oacute;gico e pela reflex&atilde;o coletiva que proporciona.</font></p></p>
+<p><p><font face=\"Verdana\">PS:Presidente do PSOL/PE, &eacute; pr&eacute;-candidato &agrave; prefeitura do Recife em 2008. </font></p></p>
+<p><p><font face=\"Verdana\">Leia mais<strong>: E<a href=\"https://jc3.uol.com.br/blogs/blogdejamildo/2007/10/19/index.php#12413\">se as bebidas alco&oacute;licas fossem drogas ilegais no Brasil?</a></strong></font></p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

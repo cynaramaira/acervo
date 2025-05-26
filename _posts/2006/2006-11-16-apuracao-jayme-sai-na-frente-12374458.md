@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Confira a apuração da eleição do presidente da OAB. São 36 urnas no Recife.</FONT></P></p>
 <p><P><FONT face=Verdana>Urna 1<BR>Jayme Asfora - 141 (votos)<BR>Júlio Oliveira&nbsp;- 89<BR></FONT></P></p>
@@ -22,4 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>Urna 3<BR>Jayme - 136<BR>Júlio - 102</FONT></P></p>
 <p><P><FONT face=Verdana>Urna 4<BR>Jayme - 138 <BR>Júlio - 89</FONT></P></p>
 <p><P><FONT face=Verdana>Urna 5 <BR>Jayme - 132<BR>Júlio - 98</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

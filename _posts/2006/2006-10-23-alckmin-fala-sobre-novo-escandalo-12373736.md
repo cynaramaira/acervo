@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>O tucano perguntou: \"Como Lula explica o superfaturamento de R$ 100 milhões só no aeroporto de São Paulo?\"</P></p>
 <p><P>Lula: \"O Ministério Público aqui por conta das eleições foi muito rápido. Não tem nenhum julgamento do Tribunal de Contas. Não dá para resolver os problemas durante o processo eleitoral, como você quer.\"</P> </p>
-{\% endraw %}
+{% endraw %}

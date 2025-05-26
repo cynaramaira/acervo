@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana size=2></p>
 <p><P>Por <STRONG>Cec?lia Ramos</STRONG><BR>Repórter do Blog do JC</P></p>
 <p><P>Coordenador da equipe de transição do governo Mendonça Filho, o secretário de Planejamento Cláudio Marinho contactou o <B>Blog</B> para informar que a transição ocorre, sim, em harmonia.<BR></P></FONT><FONT face=Verdana size=2></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"Dinheiro em contrato de empréstimo assinado é dinheiro vivo; dinheiro que vem da redução do pagamento da d?vida é dinheiro vivo; dinheiro que vem do contrato da conta única é dinheiro vivo; </FONT></FONT><FONT face=Verdana><FONT size=2>dinheiro que o governo consegue poupar para investir, programado para 2007, também é dinheiro vivo, azul-e-branco. </FONT><FONT color=#545454 size=2>S</FONT><FONT size=2>omando tudo dá mais de R$ 1 bilhão\".</P></p>
 <p><P>Marinho lembra, ainda, a garantia de Eduardo de que \"já foram desmontados os&nbsp;palanques\":</FONT></FONT></P><FONT face=Verdana size=2></p>
 <p><P>\"Estamos fazendo uma transição tranquila e civilizada, vamos completar as informações que faltam, de forma democrática. O governador Mendonça nos deu orientações precisas nesse sentido e vamos cumpri-las. Também entendi das palavras do governador eleito que é esse o clima que ele deseja, ao falar que já foram desmontados os palanques\".</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

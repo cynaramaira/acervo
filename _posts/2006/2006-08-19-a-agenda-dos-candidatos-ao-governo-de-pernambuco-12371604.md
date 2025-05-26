@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B></p>
 <p><P><FONT face=Verdana><STRONG>9h</STRONG>, em Jaboatão dos Guararapes, visita ao comércio livre de Cavaleiro (concentração na Praça Murilo Braga, estação do metrô, com término na Praça Rita Coelho) </FONT></P></p>
@@ -36,4 +36,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>19h</STRONG>, em Tabira, participa do ato de filiação de Dinca </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>20h30</STRONG>, Afogados da Ingazeira, carreata e visita aos jogos escolares </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>23h</STRONG>, Afogados da Ingazeira, prestigia a festa da padroeira e faz caminhada nas ruas centrais</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

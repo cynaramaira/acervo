@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDON</FONT></FONT><FONT face=Verdana><FONT size=2>Ç</FONT><FONT size=2>A FILHO (PFL)</P></FONT></FONT><FONT size=2></p>
 <p><P><FONT face=Verdana>À</FONT></FONT><FONT size=2><FONT face=Verdana>s 19h30</FONT></B><FONT face=Verdana>, inaugura</FONT></FONT><FONT face=Verdana><FONT size=2>çã</FONT><FONT size=2>o do comit</FONT><FONT size=2>ê</FONT><FONT size=2> do deputado federal Carlos Eduardo Cadoca. Local: Rua Arquimedes de Oliveira, 255, Santo Amaro </P></FONT></FONT><B><FONT size=2></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>EDUARDO CAMPOS (PSB)</FONT></P></B></p>
 <p><P></FONT><B><FONT face=Verdana><FONT size=2>À</FONT><FONT size=2>s 16h</B>, caminhada no Pina e mini-com</FONT><FONT size=2>?</FONT><FONT size=2>cio na Tribuna 40. Concentra</FONT><FONT size=2>çã</FONT></FONT><FONT size=2><FONT face=Verdana>o: Largo da Igreja do Pina, na Avenida Herculano Bandeira </FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 19h</FONT></B><FONT face=Verdana>, missa de primeiro anivers</FONT></FONT><FONT face=Verdana size=2>á</FONT><FONT size=2><FONT face=Verdana>rio da morte de Miguel Arraes</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

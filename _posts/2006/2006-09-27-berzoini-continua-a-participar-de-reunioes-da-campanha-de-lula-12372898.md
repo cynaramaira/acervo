@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por<STRONG> Jander Ramon<BR></STRONG>Da Agência Estado</FONT></P><FONT face=Verdana></p>
 <p><P>São Paulo - O presidente nacional do PT, deputado Ricardo Berzoini (SP), continua a participar das reuniões da campanha pela reeleição do presidente Luiz Inácio Lula da Silva, candidato da Coligação A Força do Povo (PT-PRB-PC do B), após ter sido desligado do cargo de coordenador-geral, na semana passada. <BR><BR>A informação foi dada hoje pelo coordenador-geral da campanha petista, Marco Aurélio Garcia, que afirmou que a ida de Berzoini aos encontros acontece porque ele é presidente nacional do PT.</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Será escolhido hoje mais um membro do Tribunal de Justiça de Pernambuco. É o 37º desembargador, cargo vago desde o in?cio do ano, em função da aposentadoria de Dário Rocha.</FONT></P></p>
 <p><P><FONT face=Verdana>Em sete anos e sete meses de gestão, este será o oitavo membro do Poder Judiciário nomeado pela dupla Jarbas Vasconcelos (PMDB)/Mendonça Filho (PFL). Nenhum outro governo nomeou tantos desembargadores quanto o atual.</FONT></P></p>
 <p><P><FONT face=Verdana>-------------------------------</FONT></P></p>
@@ -48,4 +48,4 @@ imagem: null
 <p><P><FONT face=Verdana>Também contam com maioria no Poder Legislativo. Maioria na Assembléia, maioria dos deputados federais e toda a bancada de senadores - são três: Marco Maciel, Sérgio Guerra e José Jorge. </FONT></P></p>
 <p><P><FONT face=Verdana>Em 2007, Jarbas deve substituir Jorge, que encerra o mandato de oito anos. Maciel e Guerra têm mais quatro anos.</FONT></P><FONT face=Verdana></p>
 <p><P>Se alguém acha que eles se contentam com isso, esse alguém está enganado. Em 2008, a aliança quer recuperar o Recife e as principais prefeituras da Região Metropolitana.</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

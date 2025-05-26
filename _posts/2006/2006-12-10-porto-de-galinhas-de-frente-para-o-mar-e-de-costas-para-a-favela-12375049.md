@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><STRONG><SPAN style=\"FONT-SIZE: 13.5pt; FONT-FAMILY: Arial\"><FONT color=#333333></FONT></SPAN></STRONG></P></p>
 <p><P><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><FONT color=#333333>Por <STRONG><SPAN style=\"FONT-FAMILY: Verdana; mso-bidi-font-family: \Arial Unicode MS\\\">Pierre Lucena</SPAN></STRONG><BR>Professor e administrador <BR></FONT><A href=\"mailto:pierre.lucena@contagemweb.com.br\"><FONT color=#333333>pierre.lucena@contagemweb.com.br</FONT></A><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 35.4pt; TEXT-ALIGN: justify\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-size: 12.0pt\">Em 2003, o <B style=\"mso-bidi-font-weight: normal\">UM-Habitat</B>, Programa das Nações Unidas para as Favelas, lançou um relatório chamado <I style=\"mso-bidi-font-style: normal\">The Challenge of Slums</I>, algo como “O Desafio das Favelas???, retratando as mazelas das sociedades tomadas pelos assentamentos de baixa renda.<o:p></o:p></SPAN></P></p>
@@ -49,4 +49,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 35.4pt; TEXT-ALIGN: justify\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-size: 12.0pt\"><o:p>&nbsp;</o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 35.4pt; TEXT-ALIGN: justify\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-size: 12.0pt\">O triste é ver isso acontecer e saber onde vai chegar. Não podemos aceitar a favela como o futuro urbano de Porto de Galinhas. Muito menos olhar para o mar, ficando de costas para a favela.<o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 35.4pt; TEXT-ALIGN: justify\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-size: 12.0pt\"><o:p>&nbsp;</o:p></SPAN></P><STRONG><I><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-fareast-font-family: \Times New Roman\; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA\">*Pierre Lucena</SPAN></I></STRONG><EM><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-fareast-font-family: \Times New Roman\; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA\">, 35, doutor em finanças pela PUC-Rio, Mestre em Economia e Administrador pela UFPE, é professor-adjunto da Universidade Federal de Pernambuco, sócio da Contagem Consultoria Estratégica e Pesquisa. Foi secretário-adjunto de Educação do Estado. É Coordenador do Núcleo de Finanças e Investimentos do Departamento de Ciências Administrativas da UFPE (NEFI)</SPAN></EM> </p>
-{\% endraw %}
+{% endraw %}

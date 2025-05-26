@@ -14,8 +14,8 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>O governador e candidato &agrave; reelei&ccedil;&atilde;o decidiu processar o advers&aacute;rio petista por cal&uacute;nia e difama&ccedil;&atilde;o, conforme apurou Jorge Cavalcanti, rep&oacute;rter do JC.</p>
 <p>Humberto acusou Mendon&ccedil;a, na semana passada, de firmar conv&ecirc;nios fantasmas com prefeituras, sem verba em caixa, interessado apenas em atrair apoios &agrave; reelei&ccedil;&atilde;o dele.</p>
 <p>A a&ccedil;&atilde;o vai tramitar na Justi&ccedil;a comum.</p>
-{\% endraw %}
+{% endraw %}

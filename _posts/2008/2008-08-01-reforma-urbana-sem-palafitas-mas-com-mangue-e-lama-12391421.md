@@ -1,0 +1,34 @@
+---
+id: 12391421
+date: "2008-08-01T10:58:05Z"
+last_modified_at: null
+tags:
+  - "mangue"
+  - "reformas"
+  - "urbana-pe"
+categories:
+  - "eleicoes"
+title: "Reforma Urbana, sem palafitas, mas com mangue e lama"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Edilson Silva</p></p>
+<p><p>O F&oacute;rum Estadual de Reforma Urbana de Pernambuco &ndash; FERU, realizou ato esta semana para entregar aos prefeitur&aacute;veis de Recife sua plataforma *Direito &agrave; Cidade 2008* com propostas para melhorar as condi&ccedil;&otilde;es de vida em nossa cidade. Todos os candidatos foram convidados, mas apenas o candidato do PSOL e do PT compareceram. O PSTU mandou seu candidato a vice.</p></p>
+<p><p>A aus&ecirc;ncia dos outros candidatos, principalmente aqueles cuja imprensa d&aacute; quase exclusividade em suas coberturas, &eacute; digna de registro, pelo desrespeito ao debate democr&aacute;tico. Mas o objetivo deste artigo &eacute; outro.</p></p>
+<p><p>N&atilde;o me causou surpresa a plataforma apresentada pelo FERU para ser assumida pelos prefeitur&aacute;veis. S&oacute; n&atilde;o era id&ecirc;ntica &agrave;s plataformas entregues em 2004 aos candidatos &agrave; &eacute;poca, e em 2006 aos candidatos ao governo estadual (esta eu recebi na condi&ccedil;&atilde;o de candidato), por que algumas propostas foram subdivididas e um ou outro aspecto n&atilde;o estrutural foi acrescentado.</p></p>
+<p><p>As propostas se subdividem, como nos anos anteriores, em quatro eixos fundamentais: Gest&atilde;o Democr&aacute;tica; Habita&ccedil;&atilde;o e Solo Urbano; Transporte, Tr&acirc;nsito e Mobilidade; e Saneamento e Meio Ambiente. O detalhamento das propostas em cada eixo denuncia o &oacute;bvio: em oito anos de gest&atilde;o, a administra&ccedil;&atilde;o municipal do PT manteve intactas as prec&aacute;rias condi&ccedil;&otilde;es estruturais de vida de nossa popula&ccedil;&atilde;o.</p></p>
+<p><p>Na Gest&atilde;o Democr&aacute;tica da atual administra&ccedil;&atilde;o, sobra o marketing, os elementos meramente simb&oacute;licos, com um Or&ccedil;amento Participativo fraudulento e confer&ecirc;ncias e conselhos desprovidos de poder de decis&atilde;o. Na Habita&ccedil;&atilde;o e Solo Urbano, numa cidade que possui, segundo o FERU, cerca de 80 mil fam&iacute;lias sem-teto, em oito anos a administra&ccedil;&atilde;o petista alcan&ccedil;ou a proeza de encaminhar a constru&ccedil;&atilde;o de 2.930 moradias, estas em grande medida para afastar fam&iacute;lias pobres de &aacute;reas nobres destinadas &agrave; especula&ccedil;&atilde;o imobili&aacute;ria.</p></p>
+<p><p>No Transporte, Tr&acirc;nsito e Mobilidade, a gest&atilde;o petista abriu m&atilde;o de disciplinar com firmeza o transporte alternativo, permitindo a desordem de forma programada para na seq&uuml;&ecirc;ncia impor a ordem do cartel e do monop&oacute;lio das empresas de &ocirc;nibus. No Meio Ambiente e Saneamento, pelos dados da pr&oacute;pria prefeitura, R$ 40 milh&otilde;es foram investidos em saneamento b&aacute;sico em oito anos, o equivalente a 1 (um) carnaval de 2008 (contando com o subs&iacute;dio &agrave; Mangueira), ou 1,3 Parque Dona Lindu, ou 2 decora&ccedil;&otilde;es do passeio da Praia de Boa Viagem, ou 2 aventuras com a FINATEC, ou ainda 40 shows de Sandy &amp; Junior e Fat Boy Slim. Nossa cidade n&atilde;o merece isso.</p></p>
+<p><p>&Eacute; por isto que a plataforma do FERU n&atilde;o se altera, por que a vida n&atilde;o mudou estruturalmente para as pessoas. A prefeitura do Recife tem um or&ccedil;amento anual que gira em torno de R$ 2 bilh&otilde;es, gasta horrores com obras e servi&ccedil;os n&atilde;o priorit&aacute;rios e inclusive desnecess&aacute;rios, gasta horrores com a hospedagem de cargos de confian&ccedil;a na administra&ccedil;&atilde;o, enquanto a cidade pena, sobretudo os mais pobres, com a inobserv&acirc;ncia de seus direitos fundamentais.</p></p>
+<p><p>O candidato do PT, no tempo que lhe foi dado para falar, disse que as vidas de Dona Maria e Dona Irene mudaram na gest&atilde;o petista, por que tiraram o p&eacute; da lama. Disse ainda que Rafael tamb&eacute;m teve sua vida mudada, pois passou a tomar banho de chuveiro. Recife n&atilde;o merece um prefeito que trate a nossa lama como se fosse um problema. &Eacute; um desrespeito.</p></p>
+<p><p>N&atilde;o podemos pensar uma Reforma Urbana em Recife sem nos reportarmos a Josu&eacute; de Castro e a Chico Science, que conseguiram, cada um a seu modo e em seu tempo, dar &agrave; lama um sentido distinto. Lama em Recife &eacute; cultura, &eacute; modo de viver, &eacute; sustentabilidade material, e isto deve ser respeitado.</p></p>
+<p><p>Assumi, diante do FERU e dos presentes ao ato de entrega da plataforma, meu compromisso com suas propostas. Mas nossa candidatura tem um compromisso ainda mais profundo com as transforma&ccedil;&otilde;es de nossa cidade. Em nossa Reforma Urbana vamos buscar acabar sim com as palafitas, mas de forma alguma vamos colocar homens, mulheres e jovens &quot;caranguejos&quot; em pequenos apartamentos distantes das mar&eacute;s e mangues. Estas popula&ccedil;&otilde;es usam canoas e pequenas embarca&ccedil;&otilde;es para se locomover e para trabalhar, por exemplo, e precisam ser compreendidas nos seus direitos de preserva&ccedil;&atilde;o de sua cultura.</p></p>
+<p><p>Mais que isso, reafirmamos:</p></p>
+<p><p>1) Vamos investir prioritariamente at&eacute; a &uacute;ltima moeda dispon&iacute;vel do Tesouro Municipal para melhorar as condi&ccedil;&otilde;es materiais de vida das popula&ccedil;&otilde;es mais esquecidas de nossa cidade, localizadas nas periferias;</p></p>
+<p><p>2) Vamos combater com a mais dura intransig&ecirc;ncia a corrup&ccedil;&atilde;o, os favorecimentos e os apadrinhados pol&iacute;ticos na administra&ccedil;&atilde;o p&uacute;blica, governando com os servidores de carreira, qualificando-os e valorizando-os, para fazermos uma revolu&ccedil;&atilde;o na administra&ccedil;&atilde;o p&uacute;blica, transitando com firmeza para uma gest&atilde;o efetivamente participativa, com confer&ecirc;ncias abertas, conselhos populares din&acirc;micos, plebiscitos e referendos sendo propostos sempre que um tema de relev&acirc;ncia extrema esteja na pauta da cidade, integrando estas iniciativas ao funcionamento do Legislativo Municipal;</p></p>
+<p><p>3) Vamos radicalizar na luta ambiental em nossa cidade, que deixar&aacute; de ser conhecida como a capital da viol&ecirc;ncia e do pior ensino p&uacute;blico para ser conhecida como uma cidade que se dedica com todas as suas for&ccedil;as para defender o nosso meio ambiente e nossos ecossistemas.</p></p>
+<p><p>PS: Presidente do PSOL/PE e candidato &agrave; Prefeitura do Recife.</p> </p>
+{% endraw %}

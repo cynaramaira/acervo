@@ -13,6 +13,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>Apesar dos números, o presidente do PDT está entusiasmado. Diz que&nbsp;Eduardo tem mais chances de crescimento por ter o menor ?ndice de rejeição e uma estrutura ampla no interior. Ele acredita que o socialista chegará ao segundo turno contra Mendonça.</P> </p>
-{\% endraw %}
+{% endraw %}

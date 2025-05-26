@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Angela Lacerda</STRONG><BR>Da Agência Estado</FONT></P></p>
 <p><P><FONT face=Verdana>Recife - O presidente regional do PSB pernambucano, membro da direção nacional do partido, deputado estadual Milton Coelho, pediu afastamento do cargo, na noite de sábado, depois de denúncia de seu envolvimento na tentativa de articulação de um suposto esquema de desvio de recursos públicos no valor de R$ 1 milhão para financiamento da sua campanha.</FONT></P></p>
 <p><P><FONT face=Verdana>A denúncia foi feita pelo ex-militante estudantil Saulo Batista da Silva, de 25 anos, que prometeu entregar nesta segunda-feira, ao Ministério Público Federal e Ministério Público Eleitoral do Estado, gravações de conversas suas com Milton Coelho e com a mulher dele, Simone Coelho. As fitas revelariam a intenção de recebimento de propina em troca de intermediação do PSB para aprovação, junto à Petrobrás, de um projeto da empresa paulista Conceito Consultoria em Eventos Ltda de instalação de uma pista de kart no gelo durante o Grande Prêmio Brasil de Fórmula 1. Orçado inicialmente em R$ 4,5 milhões, o projeto seria superfaturado para R$ 5,5 milhões. <BR><BR>De acordo com Saulo Batista, que representa a empresa, o projeto já havia sido apresentado à Petrobrás, que não demonstrou interesse Orientado a buscar apoio pol?tico ao projeto, procurou o PSB pernambucano, em julho, através de um amigo ligado à legenda, que o apresentou a integrantes do partido. Depois dos primeiros contatos, disse ter passado a gravar as conversas, ao perceber que os socialistas queriam dinheiro para a campanha.<BR><BR>Numa das conversas, Simone Coelho teria pedido R$ 1 milhão. Metade do valor seria adiantado - R$ 350 mil como contribuição legal à campanha do marido e R$ 150 mil por fora, sem recibo, em espécie. Os outros R$ 500 mil seriam pagos depois da aprovação do projeto.</FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>O dirigente do PSB disse ter contado com a ajuda de um agente da Pol?cia Federal, seu amigo pessoal - não citou o nome -, que o instruiu a estimular as negociações com Saulo Batista, a fim de fazer um flagrante e prendê-lo no momento da entrega dos R$ 150 mil. Ele disse não ter prestado queixa formal à Pol?cia Federal porque queria sigilo no caso. \"Todos os processos que têm corrido no Pa?s estão na imprensa\", justificou irritado, na entrevista que encerrou antes de os jornalistas esgotarem suas dúvidas.</FONT></P></p>
 <p><P><FONT face=Verdana>Sobre Saulo Batista da Silva, ele disse ser \"um maltrapilho, um louco\" e garantiu que \"ele (Saulo) propôs a sacolinha\".</p>
 <p> Desde o in?cio, segundo Milton Coelho, ficou configurado, segundo disse, que se tratava de \"um agente plantado\" a serviço de adversários e que sua intenção era a de desmascarar a trama.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

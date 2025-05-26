@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Da <STRONG>Agência Estado</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>PMDB conquista maior bancada na Câmara<BR></STRONG><BR>Bras?lia - O PMDB se tornou a maior bancada da Câmara dos Deputados nesta eleição e terá o direito de pleitear a presidência da Casa.<BR><BR>Com 89 parlamentares eleitos, o partido superou o PT, que ficou com 83 deputados. <BR><BR>O resultado das urnas mostra que, em um eventual segundo mandato, o presidente Luiz Inácio Lula da Silva vai precisar ainda mais do apoio do fragmentado PMDB, que dificilmente vota unido. <BR><BR>Além dos votos necessários para avançar nas matérias de interesse do governo, a importância do partido cresce porque é nas mãos do presidente da Câmara que fica a decisão de acatar e dar prosseguimento ou não a pedidos de impeachment do presidente da República.</FONT></P></p>
 <p><P><FONT face=Verdana>Os partidos que apóiam o governo Lula (PT, PL, PP, PSB, PCdoB, PSC, PTB e PTC) somam 223 votos, encolhendo em relação à bancada atual, de 257 deputados. <BR><BR>Sem o PMDB, o governo não alcança sequer a maioria simples dos deputados e, muito menos tem número suficiente para aprovar emendas constitucionais - como a prorrogação da CPMF e da Desvinculação das Receitas da União (DRU) -, que exigem no m?nimo 308 votos. <BR><BR>Incluindo o PMDB, a poss?vel nova base governista, que vai funcionar no ano que vem, teria 312 parlamentares. Para ter mais sobra, o governo deve jogar para atrair partidos nanicos, que juntos somarão 8 deputados.</FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>O PMDB poderá chegar a 17 senadores caso o senador José Maranhão (PMDB-PB), que disputa o governo do Estado em segundo turno não se eleja e volte ao Senado. <BR><BR>A vaga dele está sendo ocupada pelo suplente Roberto Cavalcanti (PRB).</FONT></P></p>
 <p><P><FONT face=Verdana>Além disso, o PMDB poderá crescer se o senador Leonel Pavan (PSDB-SC) for eleito vice-governador no segundo turno abrindo a vaga para o suplente do PMDB. <BR>Dependendo do segundo turno para o governo do Pará, o PT poderá perder a senadora Ana Júlia Carepa. Caso a senadora seja eleita, assumirá o suplente José Nery, do PSOL.</FONT></P></p>
 <p><P><FONT face=Verdana>Em uma eventual vitória na disputa pela presidência da República o candidato tucano, Geraldo Alckmin, também terá de negociar apoios. O Senado mantêm-se dividido entre governistas e oposicionistas.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

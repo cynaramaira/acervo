@@ -14,7 +14,7 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>&nbsp;</p>
 <p>MENDON&Ccedil;A FILHO (PFL)</p>
 <p>9h40, apresenta suas propostas de governo a estudantes. Local: Col&eacute;gio Vera Cruz</p>
@@ -29,4 +29,4 @@ imagem: null
 <p>7h, entrevista na TV Jornal</p>
 <p>16h, caminhada Pr&oacute;-Lula com artistas. Local: Pra&ccedil;a Oswaldo Cruz</p>
 <p>19h30, em Caruaru, participa de debate na Favipe. Local: Audit&oacute;rio do Shopping Center de Caruaru</p>
-{\% endraw %}
+{% endraw %}

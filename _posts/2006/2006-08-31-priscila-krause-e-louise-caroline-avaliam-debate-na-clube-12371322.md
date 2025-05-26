@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Com agendas cheias, mergulhadas nas campanhas de seus candidatos, as meninas do <STRONG>Blog</STRONG> não puderam enviar ontem seus artigos semanais, publicados sempre às quartas.</FONT></P></p>
 <p><P><FONT face=Verdana>Publicamos a seguir trechos dos artigos da vereadora Priscila Krause (PFL), 26,&nbsp;e da vice-presidente da UNE, Louise Caroline (PT), 23. Mais tarde teremos o de Mar?lia Arraes, 21, neta de Miguel Arraes e estudante de Direito.</FONT></P></p>
 <p><P><FONT face=Verdana>Os textos completos já estão postados na seção artigos, na coluna ao lado. Boa leitura.</FONT></P></p>
@@ -38,4 +38,4 @@ imagem: null
 <p><TR></p>
 <p><TD><FONT face=Verdana size=1>&nbsp;Louise Caroline</FONT></TD></TR></TBODY></TABLE></p>
 <p><P><FONT face=Verdana>Uma máxima usada na pol?tica, de Maquiavel ao facismo, é que o importante são as versões e não os fatos. Em cima dessa idéia, o marketing contemporâneo explora a certeza de que a forma e a massificação dela podem facilmente se sobrepor ao conteúdo.<BR><BR>Anteontem, quem passasse pela Avenida Agamenon Magalhães era abordado por militantes da União por Pernambuco e recebia um panfleto intitulado “MENDONÇA VENCE DEBATE DA TV CLUBE???.<BR>&nbsp;<BR>Nas disputas do Movimento Estudantil, esse tipo de nota é distribu?da pelo candidato que não se sai bem no debate. Na grande pol?tica não é diferente. Mendonça foi derrotado no primeiro encontro com os demais candidatos a que compareceu. Inicialmente, pela postura insegura e frágil que apresenta quando fora das edições publicitárias e da sombra de Jarbas Vasconcelos. Depois, pela estratégia equivocada de atacar Eduardo Campos e Humberto Costa quando a vidraça é ele. Por ter começado os ataques, o governador-candidato perdeu o argumento de que foi agredido.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

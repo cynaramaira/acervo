@@ -1,0 +1,25 @@
+---
+id: 12381166
+date: "2007-08-16T10:38:00Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "noticias"
+title: "EMTU reduz n\u00famero de \u00f4ninus nas ruas"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font size=\"2\"><em><font face=\"Verdana\">Por <strong>Roberta Soares</strong>, em Cidades</font></em></font></p></p>
+<p><p><font face=\"Verdana\">O n&uacute;mero de &ocirc;nibus circulando na Regi&atilde;o Metropolitana do Recife est&aacute; menor. Na tentativa de equilibrar as contas do sistema de transporte, a frota foi reduzida em 3,5% pela Empresa Metropolitana de Transportes Urbanos (EMTU) desde o in&iacute;cio do m&ecirc;s. Na pr&aacute;tica, a redu&ccedil;&atilde;o representa 900 viagens a menos por dia e uma m&eacute;dia de cem &ocirc;nibus fora das ruas. Como cada coletivo transporta, diariamente, cerca de 550 pessoas, estima-se que 55 mil passageiros estejam se espremendo nos outros ve&iacute;culos que comp&otilde;em a frota do Grande Recife, que at&eacute; junho era de 2.650 &ocirc;nibus em opera&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\">Nos bastidores do setor, comenta-se que a redu&ccedil;&atilde;o foi ainda maior, chegando a 5%, o que significaria a retirada de 125 ve&iacute;culos. A EMTU contesta a informa&ccedil;&atilde;o e diz que a redu&ccedil;&atilde;o foi de 3,3%, representando 82 &ocirc;nibus a menos. A informa&ccedil;&atilde;o de que o percentual &eacute; de 3,5% &eacute; do Sindicato das Empresas de Transporte de Passageiros de Pernambuco (Setrans), que representa as operadoras do Grande Recife. </font></p></p>
+<p><p><font face=\"Verdana\">&quot;Esse &eacute; apenas um dos impactos da crise que o sistema est&aacute; enfrentando desde o ano passado e que temos denunciado. Precisamos equilibrar as contas. E isso &eacute; feito de duas formas: com a desonera&ccedil;&atilde;o tarif&aacute;ria, o que reduziria custos, ou com o enxugamento do servi&ccedil;o&quot;, explica o diretor-executivo do Setrans, Alberto Almeida. Segundo o dirigente, as operadoras absorveram dois reajustes salariais dos motoristas e cobradores de &ocirc;nibus, em 2006 e este ano, sem qualquer aumento das passagens. </font></p></p>
+<p><p><font face=\"Verdana\">A decis&atilde;o de reduzir a frota do sistema de transporte foi tomada pela EMTU depois do per&iacute;odo de f&eacute;rias escolares, quando h&aacute; um diminui&ccedil;&atilde;o hist&oacute;rica de 10% na quantidade de &ocirc;nibus em circula&ccedil;&atilde;o. No in&iacute;cio de agosto, quando a frota deveria voltar ao normal, a EMTU autorizou as operadoras a deixarem parte dos ve&iacute;culos fora de circula&ccedil;&atilde;o. O argumento do diretor de opera&ccedil;&otilde;es do &oacute;rg&atilde;o, Manoel Marinho, &eacute; de que o ajuste teve como base pesquisas de demanda de passageiros e foi feito em apenas algumas linhas da rede de transporte. </font></p></p>
+<p><p><font face=\"Verdana\">&quot;A medida que tomamos teve como objetivo, realmente, equilibrar as contas do sistema, porque h&aacute; um d&eacute;ficit. Existe a press&atilde;o dos empres&aacute;rios, mas nada foi feito sem crit&eacute;rios t&eacute;cnicos e tudo est&aacute; sendo acompanhado diariamente. Das 354 linhas em opera&ccedil;&atilde;o, promovemos uma redu&ccedil;&atilde;o, em m&eacute;dia de um &ocirc;nibus, em apenas 69 linhas. E porque s&atilde;o itiner&aacute;rios que apresentaram condi&ccedil;&otilde;es para a redu&ccedil;&atilde;o de acordo com a demanda&quot;, explicou Marinho. </font></p></p>
+<p><p><font face=\"Verdana\">A redu&ccedil;&atilde;o virou den&uacute;ncia na Assembl&eacute;ia Legislativa, anteontem, em pronunciamento do deputado Pedro Eurico, presidente estadual do PSDB. &quot;A EMTU reduziu 5% da frota e tirou 125 &ocirc;nibus das ruas. Isso foi feito para acalmar os empres&aacute;rios, j&aacute; que o aumento das passagens n&atilde;o foi autorizado pelo governador Eduardo Campos. A EMTU at&eacute; queria dar o reajuste, mas o governador n&atilde;o admitiu&quot;, atacou Pedro Eurico. </font></p></p>
+<p><p><font face=\"Verdana\">Nas ruas, a popula&ccedil;&atilde;o reclama da superlota&ccedil;&atilde;o dos &ocirc;nibus, embora n&atilde;o consiga apontar em quais linhas a situa&ccedil;&atilde;o est&aacute; mais cr&iacute;tica. &quot;O que n&oacute;s vemos s&atilde;o ve&iacute;culos cheios e a gente andando como sardinhas espremidas numa lata. &Agrave; noite &eacute; que a situa&ccedil;&atilde;o est&aacute; pior. Se &eacute; para reduzir o n&uacute;mero de &ocirc;nibus, que ent&atilde;o baixem a passagem. S&atilde;o problemas que o Estado tem que resolver, sem sobrar para o povo&quot;, criticou o porteiro Lucas Le&atilde;o, que diariamente sai de Olinda para o Centro do Recife. </font></p></p>
+<p><p><font face=\"Arial\" size=\"2\"><em>Leia <strong><a href=\"https://jc3.uol.com.br/blogs/blogdejamildo/2007/08/10/index.php#10179\">aqui</a></strong> a informa&ccedil;&atilde;o divulgada em primeira m&atilde;o pelo Blog de Jamildo, no &uacute;ltimo dia 10.</em></font>&nbsp;</p> </p>
+{% endraw %}

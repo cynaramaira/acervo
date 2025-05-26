@@ -12,7 +12,7 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>&nbsp;</p>
 <p>"Meu nome &eacute; &Eacute;dino Fonseca! Est&aacute; no youtube.com. Enf&aacute;tico assim, o deputado estadual do Rio (Prona) e pastor evang&eacute;lico se apresenta aos cariocas.</p>
 <p>Ao lado dele, est&aacute; En&eacute;as Carneiro, do Prona, o deputado federal mais votado do Brasil, em 2002, com 1,5 milh&atilde;o de votos.</p>
@@ -22,4 +22,4 @@ imagem: null
 <p>&Eacute;dino ficou famoso no Brasil por apresentar projeto de lei que obriga o governo do Rio a criar um "programa de aux?lio &agrave;s pessoas que, voluntariamente, optarem pela mudan&ccedil;a da homossexualidade para a heterossexualidade".</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-{\% endraw %}
+{% endraw %}

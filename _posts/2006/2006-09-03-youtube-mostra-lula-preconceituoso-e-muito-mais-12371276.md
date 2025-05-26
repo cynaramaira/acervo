@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Da <B>Agência Estado</P></B></FONT></p>
 <p><P><FONT face=Verdana>Para escapar da legislação eleitoral, candidatos estão levando para o site de v?deos www.youtube.com gravações proibidas pelas cortes eleitorais que constrangem ou atacam seus oponentes. </FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>E se, no caso de renunciar para concorrer a outro mandato, Serra aconselha o eleitor a não votar mais nele. “Se o senhor renunciar, vai aconselhar os que votaram no senhor a não mais o fazerem???? Serra responde: “Assumo o compromisso.??? </FONT></P></p>
 <p><P><FONT face=Verdana>O tucano, como se sabe, renunciou e é o favorito ao governo paulistaelhar os que votaram no senhor a não mais o fazerem???? Serra responde: “Assumo o compromisso.??? O tucano, como se sabe, renunciou e é o favorito ao governo paulista.</FONT></P></p>
 <p><P>&nbsp;</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

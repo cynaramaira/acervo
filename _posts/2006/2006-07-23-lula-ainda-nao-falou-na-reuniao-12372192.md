@@ -14,6 +14,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>O presidente chegou cedo à Academia Santa Gertrudes, em Olinda. Divide a mesa com Ciro Gomes, Aldo Rebelo, dona Mariza, Luciana Santos e Ricardo Berzoini.</P> </p>
-{\% endraw %}
+{% endraw %}

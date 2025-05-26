@@ -1,0 +1,28 @@
+---
+id: 12404877
+date: "2009-08-19T20:04:27Z"
+last_modified_at: null
+tags:
+  - "candidatos"
+  - "governadores"
+categories:
+  - "noticias"
+title: "Reviravolta pode colocar Kassab como candidato a governador"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Da Ag&ecirc;ncia Estado</p></p>
+<p><p>A corrida eleitoral para o governo paulista pode caminhar para uma reviravolta, com as articula&ccedil;&otilde;es, nos bastidores, para que o prefeito Gilberto Kassab (DEM), de S&atilde;o Paulo, e o de Campinas (SP), H&eacute;lio de Oliveira Santos (PDT), o Dr. H&eacute;lio, sejam candidatos &agrave; sucess&atilde;o do governador paulista Jos&eacute; Serra (PSDB). O nome de Kassab ganhou for&ccedil;a com o seu bom desempenho nas pesquisas eleitorais e H&eacute;lio seria uma aposta do PMDB, que j&aacute; fez um convite para que ele deixe o PDT. Neste cen&aacute;rio, ambos poderiam angariar um apoio importante, do tucano Jos&eacute; Serra, um dos nomes cotados para disputar a Presid&ecirc;ncia da Rep&uacute;blica pelo PSDB. <br /></p>
+<p>&nbsp;<br /></p>
+<p>Indagado sobre a aposta do PMDB para lan&ccedil;ar o seu nome ao Pal&aacute;cio dos Bandeirantes, H&eacute;lio desconversa e diz que pode at&eacute; ser candidato ao governo paulista, desde que seja por uma ampla frente partid&aacute;ria de oposi&ccedil;&atilde;o, ungida pelo presidente Luiz In&aacute;cio Lula da Silva (PT), com a finalidade de tirar o PSDB do comando do Estado. Por&eacute;m, admite que seria uma &quot;deseleg&acirc;ncia&quot; dizer um n&atilde;o ao convite do PMDB feito pelo ex-governador e presidente estadual da sigla, Orestes Qu&eacute;rcia, e ratificado pelo presidente nacional, Michel Temer. &quot;O convite &eacute; natural, j&aacute; que o PMDB j&aacute; foi o meu partido&quot;, afirmou em entrevista &agrave; Ag&ecirc;ncia Estado.</p></p>
+<p><p>Al&eacute;m dessa afirmativa, o prefeito de Campinas garante que se Kassab, um dos principais aliados do governador Serra em S&atilde;o Paulo, for candidato ao governo paulista, ir&aacute; apoi&aacute;-lo. &quot;Se o DEM suscitar o nome do Kassab eu vou ap&oacute;ia-lo&quot;, disse o prefeito, em entrevista &agrave; Ag&ecirc;ncia Estado. Em S&atilde;o Paulo, PMDB e DEM, com Qu&eacute;rcia e Kassab na lideran&ccedil;a, j&aacute; definiram que estar&atilde;o juntos na corrida ao governo paulista. E ambos j&aacute; fecharam apoio &agrave; candidatura presidencial de Serra nas elei&ccedil;&otilde;es 2010.</p></p>
+<p><p>Num contraponto aos elogios a Kassab, H&eacute;lio criticou o ex-governador e atual secret&aacute;rio de Desenvolvimento do Estado de S&atilde;o Paulo, Geraldo Alckmin, por ele ter apoiado o deputado federal Carlos Sampaio (PSDB-SP) nas elei&ccedil;&otilde;es municipais de 2008 e 2004, vencidas pelo pedetista. Ainda nas cr&iacute;ticas, o prefeito de Campinas n&atilde;o poupou tamb&eacute;m a eventual candidatura do deputado federal Ciro Gomes (PSB-CE) ao governo paulista, classificada por ele de aventura.</p></p>
+<p><p>A defesa do Dr. H&eacute;lio a Kassab chegou a constranger o ministro do Trabalho e presidente nacional do PDT, Carlos Luppi, em um evento anteontem em Campinas, justamente uma pr&eacute;via da pr&eacute;-candidatura de H&eacute;lio ao governo. Luppi disse que n&atilde;o deveria ter ido ao evento se soubesse que iria ouvir do prefeito a defesa da alian&ccedil;a com Kassab e o Democratas. O ministro falou abertamente que Campinas foi, depois de S&atilde;o Paulo, a cidade que mais recebeu recursos do governo federal, cerca de R$ 2 bilh&otilde;es, e destacou a presen&ccedil;a constante do presidente Luiz In&aacute;cio Lula da Silva na cidade paulista.</p></p>
+<p><p>O presidente estadual do PDT paulista, deputado federal Paulo Pereira da Silva, afirmou que &quot;o PDT jamais estar&aacute; em uma alian&ccedil;a com o PSDB e o DEM em 2010&quot; e que &quot;se o H&eacute;lio n&atilde;o quiser ser candidato ao governo pelo partido, o PDT apoiar&aacute; a frente de esquerda que se forma com PT, PSB, PC do B e at&eacute; mesmo o PP&quot;. Na sexta-feira (21), o partido deve realizar um ato oficial, &agrave;s 18 horas, na capital paulista, para lan&ccedil;ar a pr&eacute;-candidatura de H&eacute;lio ao governo. &quot;Eu n&atilde;o vou por ser contra a pr&eacute;-candidatura e tamb&eacute;m porque estarei na reuni&atilde;o da Frente Nacional de Prefeitos&quot;, rebateu o prefeito de Campinas.</p></p>
+<p><p>Dentro do PT, que tenta liderar a frente de oposi&ccedil;&atilde;o para tirar o PSDB do governo paulista, a avalia&ccedil;&atilde;o &eacute; que o discurso de H&eacute;lio revelou as pretens&otilde;es do governador Serra de repetir, no Estado, o apoio a Kassab contra Alckmin, verificado nas elei&ccedil;&otilde;es municipais do ano passado na capital paulista.</p></p>
+<p><p>O PT prefere n&atilde;o esperar o avan&ccedil;o no namoro de H&eacute;lio com o PMDB e o Democratas e j&aacute; iniciou internamente, e com cautela, uma &quot;opera&ccedil;&atilde;o abafa&quot; para n&atilde;o perder seu principal palanque no interior de S&atilde;o Paulo, tanto para o pleito local como para dar suporte &agrave; pr&eacute;-candidata &agrave; Presid&ecirc;ncia, ministra Dilma Rousseff.</p></p>
+<p><p>O presidente estadual do PT Edinho Silva adotou o discurso conciliador, disse que o partido reconhece a lideran&ccedil;a de H&eacute;lio e defendeu a participa&ccedil;&atilde;o do prefeito no projeto alternativo ao PSDB em S&atilde;o Paulo. &quot;O H&eacute;lio &eacute; uma grande lideran&ccedil;as e n&oacute;s defendemos abertamente que ele esteja conosco no nosso projeto alternativo para o governo paulista em 2010.</p> </p>
+{% endraw %}

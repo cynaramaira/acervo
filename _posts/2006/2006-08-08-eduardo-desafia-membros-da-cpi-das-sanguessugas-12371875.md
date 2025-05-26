@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><DIV><FONT face=Verdana><EM>Por <STRONG>Sheila Borges</STRONG></EM></FONT></DIV></p>
 <p><DIV><FONT face=Verdana><EM>Repórter de Pol?tica do JC</EM></FONT></DIV></p>
 <p><DIV><FONT face=Verdana></FONT>&nbsp;</DIV></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><DIV><FONT face=Verdana></FONT>&nbsp;</DIV></p>
 <p><DIV><FONT face=Verdana>“Não vamos tolerar a tentativa de nos envolver neste palco eleitoral que está sendo montado. É uma provocação eleitoral baixa. Vamos continuar fazendo a campanha de forma tranqüila. Não utilizamos critérios partidários e pol?ticos para fazer projetos. Em Pernambuco, a prefeitura que mais recebeu apoio do ministério foi uma do PFL. No Pa?s, o Estado mais beneficiado foi o de Minas Gerais, do PSDB???, falou, sem citar o nome da prefeitura.</FONT></DIV></p>
 <p><DIV><FONT face=Verdana><BR>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/08/07/not_195585.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL)</FONT></DIV> </p>
-{\% endraw %}
+{% endraw %}

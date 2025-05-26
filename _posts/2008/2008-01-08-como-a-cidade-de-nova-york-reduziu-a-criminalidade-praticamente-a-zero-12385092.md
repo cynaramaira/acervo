@@ -1,0 +1,32 @@
+---
+id: 12385092
+date: "2008-01-08T19:48:00Z"
+last_modified_at: null
+tags:
+  - "cidades"
+  - "como-jogar"
+  - "nova-york"
+  - "recife"
+categories:
+  - "noticias"
+title: "Como a cidade de Nova York reduziu a criminalidade praticamente a zero. Li\u00e7\u00f5es para o Recife"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>O <font face=\"Verdana\">melhor show de Nova York </font></p></p>
+<p><p><font face=\"Verdana\">Por Gilberto Dimenstein (</font><a href=\"mailto:gdimen@uol.com.br\"><font face=\"Verdana\">gdimen@uol.com.br</font></a><font face=\"Verdana\">)</font></p></p>
+<p><p><font face=\"Verdana\">EM 1963, NOVA YORK registrou 500 assassinatos -&eacute; o mais antigo registro oficial dispon&iacute;vel. Essa estat&iacute;stica, que completou 44 anos, foi o que orientou minha contagem regressiva para a passagem de ano na cidade, por revelar um fato de impacto n&atilde;o apenas para Nova York, especialmente valiosa aos brasileiros, metidos numa inseguran&ccedil;a generalizada.</font></p></p>
+<p><p><font face=\"Verdana\">Na segunda-feira, v&eacute;spera do R&eacute;veillon, a marca de homic&iacute;dios estava em 494 casos, seguindo uma tend&ecirc;ncia praticamente ininterrupta de 15 anos. At&eacute; o momento em que escrevo esta coluna, Nova York tinha registrado menos do que as 500 mortes, motivo de comemora&ccedil;&atilde;o coletiva. Mas as autoridades se mostraram ainda mais ambiciosas: prometeram, para o pr&oacute;ximo ano, mais progressos, com aumento do policiamento nos bairros mais violentos. Na minha primeira coluna de 2008, uso esse resultado para mostrar a engenhosidade do poder local, que deveria inspirar os candidatos neste ano eleitoral. </font></p></p>
+<p><p><font face=\"Verdana\">Quando morava em Nova York, no final da d&eacute;cada de 1990, muita gente aqui n&atilde;o acreditava que a queda do crime fosse consistente, imaginando que se tratava de fato passageiro. Demorou um bom tempo at&eacute; que toda a sociedade se convencesse da tend&ecirc;ncia, produzida gra&ccedil;as a uma serie de fatores, como mudan&ccedil;as demogr&aacute;ficas, cont&iacute;nuo crescimento econ&ocirc;mico e fim da &quot;epidemia do crack&quot;. </font></p></p>
+<p><p><font face=\"Verdana\">Montou-se um sistema de policiamento baseado num sofisticado monitoramento de informa&ccedil;&otilde;es, e estabeleceram-se metas de crime por regi&atilde;o, responsabilizando os delegados. Periodicamente, esse sistema &eacute; aprimorado. Atualmente, quando ocorre um crime numa determinada rua, os policiais recebem imediatamente dados sobre todos os suspeitos daquela vizinhan&ccedil;a, o que tem facilitado as investiga&ccedil;&otilde;es. </font></p></p>
+<p><p><font face=\"Verdana\">Simultaneamente, coordenou-se uma s&eacute;rie de a&ccedil;&otilde;es de melhoria das escolas, para reduzir a viol&ecirc;ncia. Partiu-se da id&eacute;ia de que, sem seguran&ccedil;a, os professores e alunos jamais teriam condi&ccedil;&otilde;es de aprender. Isso se traduziu em novos programas aos alunos &quot;dif&iacute;ceis&quot;, escolas menores, reconhecimento aos professores eficientes, atrac&atilde;o de talentos para dar aulas nos piores bairros. H&aacute; um esfor&ccedil;o para seduzir os melhores universit&aacute;rios e convenc&ecirc;-los a lecionar, mesmo que seja temporariamente. </font></p></p>
+<p><p><font face=\"Verdana\">Significou tamb&eacute;m arrecadar dinheiro de empres&aacute;rios para ajudar em novos projetos educacionais; em 2007, arrecadaram-se cerca de R$ 700 milh&otilde;es em doa&ccedil;&otilde;es, o que daria para construir, em S&atilde;o Paulo, cerca de 40 CEUs (Centros de Educa&ccedil;&atilde;o Unificados). Parte desse dinheiro &eacute; destinada a um fundo, a ser aplicado neste ano, destinado a premiar os professores das escolas mais problem&aacute;ticas, cujos alunos tenham demonstrado progressos. Esse pr&ecirc;mio &eacute; dado com o apoio do sindicato dos professores, pressionado pela opini&atilde;o p&uacute;blica. </font></p></p>
+<p><p><font face=\"Verdana\">Institui&ccedil;&otilde;es privadas aceitam gerir escolas p&uacute;blicas, comprometendo-se com metas r&iacute;gidas de desempenho, desde que tenham autonomia para contratar e demitir, a seu crit&eacute;rio, diretores, professores e supervisores. As notas dessas escolas, geridas pela comunidade, s&atilde;o especialmente animadoras e beneficiam justamente os mais pobres entre os mais pobres. </font></p></p>
+<p><p><font face=\"Verdana\">Para ajudar os alunos, ajudam-se tamb&eacute;m seus pais, tentando envolv&ecirc;-los na educa&ccedil;&atilde;o dos filhos. Na &aacute;rea social, Nova York, mais do que ampliar a assist&ecirc;ncia, passou a exigir mais contrapartidas das fam&iacute;lias beneficiadas. Para cada d&oacute;lar recebido, existe uma obriga&ccedil;&atilde;o voltada a cuidados com higiene, sa&uacute;de, educa&ccedil;&atilde;o e prepara&ccedil;&atilde;o profissional. </font></p></p>
+<p><p><font face=\"Verdana\">Ex-chefes de gangues e ex-drogados s&atilde;o recrutados para contar suas hist&oacute;rias de vida aos adolescentes, que v&ecirc;m ganhando mais espa&ccedil;os alternativos para tentar desenvolver habilidades. Como quebrou-se a norma da impunidade, t&atilde;o comum nas d&eacute;cadas de 1970 e 1980, ficou um pouco menos dif&iacute;cil enfrentar as gangues e seus dom&iacute;nios nos bairros e nas escolas. </font></p></p>
+<p><p><font face=\"Verdana\">Com apoio de empresariado, desenvolveram projetos de gera&ccedil;&atilde;o de empregos nos bairros mais desolados, criando-se voca&ccedil;&otilde;es locais. Voltei a visitar algumas regi&otilde;es mais desoladas e, agora, est&atilde;o quase irreconhec&iacute;veis, com novas lojas, pr&eacute;dios e centros de lazer. </font></p></p>
+<p><p><font face=\"Verdana\">N&atilde;o se v&ecirc;, na cidade, acomoda&ccedil;&atilde;o; os resultados ainda s&atilde;o considerados insatisfat&oacute;rios. Mas o recorde de estat&iacute;stica de assassinatos &eacute;, em ess&ecirc;ncia, a s&iacute;ntese de um esfor&ccedil;o coletivo em diversas &aacute;reas. Tais conquistas seriam imposs&iacute;veis se o prefeito n&atilde;o fosse um grande articulador de recursos e de energias, colocando a cidade como sua grande meta, n&atilde;o como um trampolim, como ocorre no Brasil. Portanto, o melhor show de Nova York n&atilde;o &eacute; o que passa em seus teatros, mas em suas ruas. </font></p> </p>
+{% endraw %}

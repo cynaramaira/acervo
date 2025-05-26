@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Jarbas e Mendonça deixaram agora o Bar 45, no comitê de Alckmin, no Recife, depois de saborear as codornas preparadas por Socorro Vasconcelos, mulher de José Jorge, vice do presidenciável tucano.</FONT></P></p>
 <p><P><FONT face=Verdana>Antes de sair, eles explicaram por que ainda não inseriram Alckmin no guia eleitoral:</FONT></P><B></p>
 <p><P><FONT face=Verdana>Jarbas Vasconcelos:</FONT></P></B></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"O que é que Alckmin vai ficar mais forte entrando na campanha da gente?\"</FONT></P></p>
 <p><P><B><FONT face=Verdana>Mendonça Filho:</FONT></P></B></p>
 <p><P><FONT face=Verdana>\"Reforçando o que Jarbas disse, o histórico sempre foi esse, uma separação entre a disputa nacional e local. Isso não impede que Alckmin apareça no nosso guia\".</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

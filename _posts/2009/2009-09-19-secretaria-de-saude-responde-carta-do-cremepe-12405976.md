@@ -1,0 +1,30 @@
+---
+id: 12405976
+date: "2009-09-19T13:43:00Z"
+last_modified_at: null
+tags:
+  - "carta"
+  - "cremepe"
+categories:
+  - "noticias"
+title: "Secretaria de Sa\u00fade responde carta do Cremepe"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>NOTA SES<br /></p>
+<p>&nbsp;<br /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br /></p>
+<p>Caro Jamildo,&nbsp;<br /></p>
+<p>&nbsp;<br /></p>
+<p>A Secretaria de Sa&uacute;de de Pernambuco esclarece aos profissionais de sa&uacute;de, entidades representantes de trabalhadores e sociedade em geral que est&aacute; adotando as medidas necess&aacute;rias e urgentes para melhorar a gest&atilde;o e qualidade de atendimento no Sistema &Uacute;nico de Sa&uacute;de. Foi justamente pensando nas reivindica&ccedil;&otilde;es de profissionais de sa&uacute;de e, sobretudo, dos usu&aacute;rios do sistema p&uacute;blico, que buscamos em todo o Brasil as mais bem-sucedidas e consolidadas experi&ecirc;ncias na administra&ccedil;&atilde;o de unidades hospitalares p&uacute;blicas.<br /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br /></p>
+<p>Imbu&iacute;da desses objetivos e assumindo seu papel de &oacute;rg&atilde;o coordenador e gestor do SUS em Pernambuco, com fun&ccedil;&otilde;es delegadas pela grande maioria do povo pernambucano, a Secretaria Estadual de Sa&uacute;de encontrou em centros mais avan&ccedil;ados na presta&ccedil;&atilde;o de servi&ccedil;o de sa&uacute;de, entre eles S&atilde;o Paulo, o modelo das Organiza&ccedil;&otilde;es Sociais (OS). Uma realidade que nem mesmo no Nordeste &eacute; novidade &ndash; a Bahia j&aacute; bastante avan&ccedil;ada nessa &aacute;rea. At&eacute; mesmo arcabou&ccedil;o legal jur&iacute;dico para a gest&atilde;o via OS temos em Pernambuco, atrav&eacute;s da lei estadual n&ordm; 11.743, de 20 de janeiro de 2000. O que n&atilde;o saiu do papel h&aacute; 9 anos, o Governo Eduardo Campos edifica agora.&nbsp;&nbsp;</p></p>
+<p><p>As OS s&atilde;o entidades sem fins lucrativos e que, algumas das que atuam hoje no Brasil na &aacute;rea da sa&uacute;de, j&aacute; provaram sua experi&ecirc;ncia e capacidade administrativa. Dentre todas as atuantes hoje no Pa&iacute;s, Pernambuco abriu concorr&ecirc;ncia para administrar o Hospital Metropolitano Norte Miguel Arraes (Paulista) e as Unidades de Pronto-Atendimento de Olinda, Igarassu e Paulista, que ser&atilde;o inaugurados em dezembro deste ano. A entidade que apresentar a melhor proposta e reunir as melhores condi&ccedil;&otilde;es, vai gerir uma nova rede de pronto-atendimento cuja inexist&ecirc;ncia atual na regi&atilde;o faz com que mais de 3 milh&otilde;es de pessoas peregrinem em busca de socorro m&eacute;dico no Recife, muitas vezes sem sucesso.</p></p>
+<p><p>Antes de pr&eacute;-julgamentos, os profissionais e usu&aacute;rios do SUS podem ter uma certeza: alteraremos a forma de gerir - com mais qualidade, otimiza&ccedil;&atilde;o de recursos, agilidade na aquisi&ccedil;&atilde;o de insumos, contrata&ccedil;&atilde;o de profissionais, aten&ccedil;&atilde;o ao usu&aacute;rio -, mas todo o atendimento &eacute; P&Uacute;BLICO e GRATUITO. A popula&ccedil;&atilde;o &ndash; sem qualquer distin&ccedil;&atilde;o de classe social &ndash; continuar&aacute; recebendo o atendimento durante 24 horas, do mesmo jeito como procura ou &eacute; encaminhada para Hospital da Restaura&ccedil;&atilde;o, Get&uacute;lio Vargas, Agamenon Magalh&atilde;es, Ot&aacute;vio de Freitas, Bar&atilde;o de Lucena e os regionais. Tamb&eacute;m deixamos claro que n&atilde;o haver&aacute; qualquer mudan&ccedil;a no modelo de gest&atilde;o ou regime de trabalho para os profissionais que j&aacute; atual nos hospitais da rede estadual. Ao fazer a op&ccedil;&atilde;o pela OS, o Estado n&atilde;o delega ou terceiriza, como vem sendo falado. Ao contr&aacute;rio, continua gerindo toda a rede de hospitais, por&eacute;m com maior apoio t&eacute;cnico e aproveitando boas experi&ecirc;ncias em prol de quem mais clama por uma assist&ecirc;ncia r&aacute;pida, eficiente e integral.</p></p>
+<p><p>Com rela&ccedil;&atilde;o ao Termo de Compromisso, firmado pela SES com as entidades m&eacute;dicas, informamos que a convoca&ccedil;&atilde;o dos m&eacute;dicos, aprovados no &uacute;ltimo concurso, est&aacute; dentro do cronograma - considerando que um concurso p&uacute;blico tem validade 2 anos (prorrog&aacute;vel por mais 2 anos) - e ir&aacute; convocar, at&eacute; o final do ano, 343 m&eacute;dicos aprovados. Outros 197 j&aacute; foram chamados e refor&ccedil;aram as &aacute;reas de maior car&ecirc;ncia dentro da rede, como os plant&otilde;es de ortopedia e neurocirurgia.</p></p>
+<p><p>O concurso p&uacute;blico foi, justamente, uma das a&ccedil;&otilde;es j&aacute; previstas dentro do projeto do Governo do Estado e que tamb&eacute;m era uma reivindica&ccedil;&atilde;o dos m&eacute;dicos. Entre outras medidas acordadas no Termo de Compromisso assinado com a categoria, foram executadas: A) Contrata&ccedil;&atilde;o tempor&aacute;ria (2 anos com prorroga&ccedil;&atilde;o de mais 2 anos) de 191 m&eacute;dicos; B) Realizados semin&aacute;rios de urg&ecirc;ncia e emerg&ecirc;ncia e de mortalidade materno-infantil; C) Realiza&ccedil;&atilde;o de reuni&otilde;es mensais de avalia&ccedil;&atilde;o do Termo com as entidades m&eacute;dicas; D) Cria&ccedil;&atilde;o do cargo de m&eacute;dico inspetor sanit&aacute;rio na Apevisa; E) institui&ccedil;&atilde;o de uma comiss&atilde;o para construir uma nova proposta de gratifica&ccedil;&atilde;o por produtividade&nbsp; e F) Reativa&ccedil;&atilde;o e reestrutura&ccedil;&atilde;o da Escola de Sa&uacute;de P&uacute;blica, possibilitando melhor reciclagem dos profissionais.</p></p>
+<p><p>&nbsp;Al&eacute;m de reiterar seu compromisso com a sa&uacute;de dos pernambucanos e com os profissionais da rede, a SES se coloca &agrave; inteira disposi&ccedil;&atilde;o das entidades m&eacute;dicas para maiores explica&ccedil;&otilde;es, refor&ccedil;ando o que vem sido discutido mensalmente com as entidades signat&aacute;rias do Termo de Compromisso.</p> </p>
+{% endraw %}

@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Derrotado com uma margem de votos avassaladora, superior a 1,2 milhão de votos, Mendonça Filho (PFL) sai desta disputa maior do que entrou por uma razão simples e por mais que isso possa parecer paradoxal.</FONT></P></p>
 <p><P><FONT face=Verdana>O governador foi transformado nas duas administrações Jarbas Vasconcelos (PMDB) em um quase-técnico, em um gestor de projetos. Foi condenado, na verdade, a um papel secundário nos sete anos e três meses de vice.</FONT></P></p>
 <p><P><FONT face=Verdana>Essa foi sua primeira disputa majoritária comandando uma chapa. Com ela, passou por uma experiência que nunca</p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>A vitória menor do socialista na capital&nbsp;ocorreu a despeito do apoio de l?deres com forte inserção aqui, a começar do prefeito João Paulo (PT), que mergulhou na campanha de Eduardo até com mais intensidade&nbsp;do que na de Humberto Costa (PT), no primeiro turno.</FONT></P></p>
 <p><P><FONT face=Verdana>Mendonça não está morto. Poderá ser um ator importante da oposição, se e quando conseguir se recuperar da derrota.</FONT></P></p>
 <p><P><FONT face=Verdana>Um passo importante nessa recuperação será seu posicionamento já na disputa para prefeito do Recife, em 2008.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -12,6 +12,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Veja a reportagem da TV Jornal com as imagens da megaoperação realizada pela Secretaria de Defesa Social e que servirão ao guia eleitoral do governador Mendonça Filho. </p>
-{\% endraw %}
+{% endraw %}

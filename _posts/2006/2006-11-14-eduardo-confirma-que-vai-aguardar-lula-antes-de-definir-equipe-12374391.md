@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Em conversa por telefone com o <STRONG>Blog</STRONG>, Eduardo Campos (PSB) disse que praticamente todos os governadores eleitos, aliados do presidente, estão em compasso de espera. Aguardam que Lula indique seu novo ministério e equipes para, só depois,&nbsp;escolher secretários.</FONT></P></p>
 <p><P><FONT face=Verdana>\"Temos que aguardar um pouco a definição de Lula. Tem gente que pode virar ministro e não secretário\", disse ele, de Bras?lia, onde reúne-se neste momento com prefeitos da Região Metropolitana do Recife e, à tarde, tem encontro com a diretoria da Caixa Econômica Federal.</FONT></P></p>
 <p><P><FONT</p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>As conversas vão ser as necessárias. Institucionais elas têm que ser...Vamos falar com o conjunto e cada partido vai construir seu design em torno da participação. A gente não vive essa tarefa aqui em torno do governo federal?</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Você esteve com o presidente Lula na Venezuela. O que ele disse em relação a participação de Pernambuco no segundo governo dele?</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Há uma disposição muito grande de ajudar...mas ele também só vai tomar decisões quando voltar da Nigéria, só em dezembro.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

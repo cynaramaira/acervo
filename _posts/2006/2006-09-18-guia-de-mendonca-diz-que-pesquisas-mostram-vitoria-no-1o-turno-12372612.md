@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O programa do governador-candidato no rádio falou há pouco dos resultados das últimas pesquisas publicadas nos jornais locais.</FONT></P></p>
 <p><P><FONT face=Verdana>E interpretou os números como ninguém o fez até agora. Disse que os institutos mostram vitória de Mendonça no 1º turno.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

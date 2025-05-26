@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>A TV Tribuna, do Recife, divulgou hoje a mais nova pesquisa de intenção de voto para governador de Pernambuco.</FONT></P></p>
 <p><P><FONT face=Verdana>Os números mostram Mendonça Filho com 7,4 pontos percentuais acima de Humberto e 13,5 pontos sobre Eduardo. No segundo turno, fica todo mundo empatado tecnicamente. </FONT></P></p>
 <p><P><FONT face=Verdana>A pesquisa foi realizada entre os dias 10 e 12 de agosto com 1,5 mil entrevistados. A margem de erro é de três pontos percentuais para mais ou para menos.</FONT></P></p>
@@ -41,4 +41,4 @@ imagem: null
 <p><P><FONT face=Verdana>Mendonça&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 27,6%</FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 25,2%</FONT></P></p>
 <p><P><FONT face=Verdana><BR>Amanhã, a TV divulga números para o Senado e na sexta da disputa presidencial.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Da <B>Agência Estado</P></B></FONT></p>
 <p><P><FONT face=Verdana>O PT conseguiu arrecadar até agora R$ 22,683 milhões para a campanha do presidente Luiz Inácio Lula da Silva à reeleição. Segundo informações divulgadas hoje pelo partido, já foram gastos R$ 20,143 milhões. Para o presidente do partido, deputado Ricardo Berzoini (SP), se a arrecadação continuar nesse ritmo, o PT vai conseguir a quantia prevista no primeiro turno - entre R$ 50 milhões e R$ 55 milhões<BR><BR>Berzoini lembrou que o teto de gasto da campanha de Lula, na soma das despesas dos dois turnos, é de R$ 89 milhões. Na avaliação do dirigente do PT, a campanha atual é mais barata do que as anteriores, porque eventos que exigem muitos gastos, como showm?cios e outdoors, foram proibidos pela Justiça Eleitoral<BR><BR>De acordo com os dados do PT, os gastos com transporte e deslocamentos de Lula em campanha já totalizaram R$ 1.657.923 51. Desse total, R$ 950.516 foram gastos em deslocamentos pelo pa?s no mês de agosto, pagos em quatro parcelas. Em julho, o PT divulgou a informação de que havia gasto R$ 158 mil com os deslocamentos do presidente-candidato.</FONT></P></p>
@@ -32,4 +32,4 @@ imagem: null
 <p><P><FONT face=Verdana>R$ 1,5 milhão</FONT></P></p>
 <p><P><FONT face=Verdana>Pesquisas eleitorais</FONT></P></p>
 <p><P><FONT face=Verdana>R$ 1,1 milhão</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

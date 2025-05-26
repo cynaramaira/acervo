@@ -1,0 +1,28 @@
+---
+id: 12390970
+date: "2008-07-21T15:46:00Z"
+last_modified_at: null
+tags:
+  - "lula"
+categories:
+  - "noticias"
+title: "Ju\u00edzes pedem a Lula veto a restri\u00e7\u00e3o de busca em escrit\u00f3rios"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Ju&iacute;zes federais e membros do Minist&eacute;rio P&uacute;blico pediram ao presidente Luiz In&aacute;cio Lula da Silva que vete a proposta que restringe as hip&oacute;teses de buscas e apreens&otilde;es de documentos e materiais nos escrit&oacute;rios de advocacia. O Projeto de Lei 36/2006, aprovado h&aacute; dez dias pelo Senado, aguarda san&ccedil;&atilde;o presidencial.</p></p>
+<p><p>Para entidades de classe da magistratura e do MP, se for sancioada como est&aacute;, a lei permitir&aacute; que o crime fique &ldquo;substancialmente mais f&aacute;cil&rdquo;, porque &ldquo;os criminosos poder&atilde;o fazer uso de escrit&oacute;rios de advocacia para esconder provas do cometimento de seus crimes, tornando-os imunes &agrave; a&ccedil;&atilde;o da pol&iacute;cia, do Minist&eacute;rio P&uacute;blico e do Poder Judici&aacute;rio&rdquo;.</p></p>
+<p><p>A Associa&ccedil;&atilde;o dos Ju&iacute;zes Federal do Brasil (Ajufe), a Associa&ccedil;&atilde;o Nacional dos Procuradores da Rep&uacute;blica (ANPR) e a Associa&ccedil;&atilde;o Nacional dos Membros do Minist&eacute;rio P&uacute;blico (Conamp) produziram nota t&eacute;cnica que ser&aacute; encaminhada &agrave; Casa Civil, ao presidente da Rep&uacute;blica, &agrave; Advocacia-Geral da Uni&atilde;o e ao Minist&eacute;rio da Justi&ccedil;a contra o projeto.</p></p>
+<p><p>O projeto aprovado altera o artigo 7&ordm;, do Estatuto da Ordem dos Advogados do Brasil, para dar a garantia da inviolabilidade do escrit&oacute;rio do advogado. A nova lei veta tamb&eacute;m a utiliza&ccedil;&atilde;o dos documentos, das m&iacute;dias e dos objetos pertencentes a clientes do advogado investigado, bem como dos demais instrumentos de trabalho que contenham informa&ccedil;&otilde;es sobre clientes.</p></p>
+<p><p>Para a Ajufe, ANPR e Conamp &ldquo;a prevalecer o pretendido no projeto, n&atilde;o poderiam ser decretadas a busca e a apreens&atilde;o em escrit&oacute;rio de advogado mesmo se surgissem ind&iacute;cios veementes de que o local estaria sendo utilizado para ocultar a arma, um rev&oacute;lver ou uma faca, utilizada para a pr&aacute;tica de um homic&iacute;dio&rdquo;.</p></p>
+<p><p>&ldquo;Essa imunidade &agrave; investiga&ccedil;&atilde;o n&atilde;o encontra similares na ordem constitucional e legal vigente para nenhum outro p&uacute;blico ou privado detentor de informa&ccedil;&otilde;es sigilosas de terceiros, como &eacute; o caso das institui&ccedil;&otilde;es financeiras, de sa&uacute;de, de ensino, de imprensa ou mesmo das casas legislativas&rdquo;, afirmam as entidades.</p></p>
+<p><p>As buscas e apreens&otilde;es em escrit&oacute;rios s&atilde;o alvos constantes de reclama&ccedil;&otilde;es da advocacia. Em 2005, por exemplo, a Pol&iacute;cia Federal deflagrou a Opera&ccedil;&atilde;o Cevada, que atingiu diversos escrit&oacute;rios de advocacia. Na ocasi&atilde;o, a PF afirmou que fora a maior opera&ccedil;&atilde;o de combate &agrave; sonega&ccedil;&atilde;o fiscal j&aacute; feita no Brasil. A opera&ccedil;&atilde;o envolvia a cervejaria Schincariol.</p></p>
+<p><p>Outra megaopera&ccedil;&atilde;o foi a Monte &Eacute;den, deflagrada no mesmo ano. Nesta, a PF prendeu 24 pessoas, entre advogados e empres&aacute;rios, e promoveu buscas e apreens&otilde;es em cinco escrit&oacute;rios de advocacia. No mesmo ano, o presidente da seccional paulista da OAB, Luiz Flavio Borges D&rsquo;Urso, chegou a pedir ao STJ para n&atilde;o permitir a invas&atilde;o de escrit&oacute;rios com mandados gen&eacute;ricos para apreender documentos de clientes.</p></p>
+<p><p>Na ocasi&atilde;o, o Minist&eacute;rio da Justi&ccedil;a, para regulamentar a busca e apreens&atilde;o nos escrit&oacute;rios de advocacia, editou a Portaria 1.288. A portaria, que at&eacute; hoje serve para orientar o trabalho da Pol&iacute;cia Federal, determina que o fato de o local de busca e apreens&atilde;o ser um escrit&oacute;rio de advocacia &ldquo;constar&aacute; expressamente&rdquo; na representa&ccedil;&atilde;o formulada pela Pol&iacute;cia Federal para expedi&ccedil;&atilde;o do mandato. A autoridade policial respons&aacute;vel pelo cumprimento do mandato comunicar&aacute; previamente a OAB, que poder&aacute; acompanhar a execu&ccedil;&atilde;o da dilig&ecirc;ncia.</p></p>
+<p><p>A portaria tamb&eacute;m estabelece que &ldquo;salvo expressa determina&ccedil;&atilde;o judicial em contr&aacute;rio, n&atilde;o ser&atilde;o objeto de busca e apreens&atilde;o em escrit&oacute;rio de advocacia: documentos relativos a outros clientes do advogado ou da sociedade de advogados, que n&atilde;o tenham rela&ccedil;&atilde;o com os fatos investigados; documentos preparados com o concurso do advogado ou da sociedade de advogados, no exerc&iacute;cio regular de sua atividade profissional, ainda que para o investigado ou r&eacute;u; contratos, inclusive na forma epistolar, celebrados entre o cliente e o advogado ou sociedade de advogados, relativos &agrave; atua&ccedil;&atilde;o profissional destes; objetos, dados ou documentos em poder de outros profissionais que n&atilde;o o(s) indicado(s) no mandado de busca e apreens&atilde;o, exceto quando se referirem diretamente ao objeto da dilig&ecirc;ncia; e cartas, fac-s&iacute;miles, correspond&ecirc;ncia eletr&ocirc;nica (e-mail) ou outras formas de comunica&ccedil;&atilde;o entre advogado e cliente protegidas pelo sigilo profissional&rdquo;.</p></p>
+<p><p>Da Revista Consultor Jur&iacute;dico<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

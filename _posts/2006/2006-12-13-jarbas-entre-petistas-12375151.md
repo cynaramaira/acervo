@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana></p>
 <p><P>O senador Jarbas Vasconcelos que se cuide no Senado, em Bras?lia. Não é só no plenário que o PT vai marcá-lo de perto. No mesmo andar em que está situado seu gabinete, funcionam também os gabinetes de Eduardo Suplicy e Alo?zio Mercadante, ambos do PT.</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

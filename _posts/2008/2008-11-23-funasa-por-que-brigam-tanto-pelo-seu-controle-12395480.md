@@ -1,0 +1,28 @@
+---
+id: 12395480
+date: "2008-11-23T13:00:00Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "noticias"
+title: "Funasa: por que brigam tanto pelo seu controle"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><a href="https://veja.abril.com.br/261108/p_070.shtml">Deu na Veja desta semana</a><br /></p>
+<p><br /></p>
+<p>Em apenas seis dias, o ministro da Sa&uacute;de, Jos&eacute; Gomes Tempor&atilde;o, migrou de um discurso virulento contra a farra realizada pelo PMDB na Funda&ccedil;&atilde;o Nacional de Sa&uacute;de (Funasa) para um sil&ecirc;ncio sepulcral a respeito do tema. Em uma reuni&atilde;o do Conselho Nacional de Sa&uacute;de, Tempor&atilde;o afirmou sem meias palavras que a gest&atilde;o da Funasa era &quot;de baixa qualidade e corrupta&quot;.</p></p>
+<p><p>Foi uma resposta &agrave;s cr&iacute;ticas que recebeu por ter enviado ao Congresso um projeto para retirar da funda&ccedil;&atilde;o uma de suas principais atribui&ccedil;&otilde;es: a assist&ecirc;ncia &agrave; sa&uacute;de de 400 000 ind&iacute;genas. Por esse motivo, Tempor&atilde;o passou a ser alvejado pelos caciques do PMDB, partido ao qual &eacute; filiado e respons&aacute;vel pela tal gest&atilde;o &quot;de baixa qualidade e corrupta&quot; da Funasa. Chegaram mesmo a pedir sua cabe&ccedil;a.</p></p>
+<p><p>O presidente Luiz In&aacute;cio Lula da Silva n&atilde;o cedeu a essa press&atilde;o. Cedeu a outra. Orientou Tempor&atilde;o a fumar o cachimbo da paz com os chefes do PMDB na &uacute;ltima ter&ccedil;a-feira. Simultaneamente, injetou 1,6 bilh&atilde;o de reais no Minist&eacute;rio da Sa&uacute;de. Enfim, deu ao PMDB e ao seu ministro o que todos, afinal, queriam de verdade: mais dinheiro.</p></p>
+<p><p>Para quem acompanhou o q&uuml;iproqu&oacute; a uma certa dist&acirc;ncia, pode at&eacute; parecer que todos estavam muito preocupados com a manuten&ccedil;&atilde;o da sa&uacute;de dos &iacute;ndios e apenas discordavam quanto &agrave; melhor maneira de continuar a faz&ecirc;-lo. Ingenuidade. Se o epis&oacute;dio da Funasa guarda uma li&ccedil;&atilde;o &eacute; a de mostrar por que os pol&iacute;ticos se digladiam por postos no governo. Em alguns (raros) casos, a ocupa&ccedil;&atilde;o se d&aacute; para atender a exig&ecirc;ncias t&eacute;cnicas ou program&aacute;ticas.</p></p>
+<p><p>Na mas-sacrante maioria das vezes, por&eacute;m, &eacute; apenas para empregar aliados e, assim, alocar verbas a seus redutos eleitorais. Ou, pior, para financiar campanhas eleitorais. Ou, ainda muito pior, para pura e simplesmente surrupiar dinheiro p&uacute;blico. Antes de o PT assumir o poder, cerca de 1 000 cargos federais eram preenchidos de acordo com escolhas pol&iacute;ticas. No atual governo, estima-se que s&oacute; o partido do presidente tenha indicado 5 000 funcion&aacute;rios.</p></p>
+<p><p>Criada h&aacute; dezoito anos, a Funasa j&aacute; tinha um hist&oacute;rico de loteamento de cargos e tamb&eacute;m de corrup&ccedil;&atilde;o. Em 2000, o governo Fernando Henrique Cardoso tentou moraliz&aacute;-la com um decreto que restringia os cargos de diretoria a funcion&aacute;rios de carreira com mais de cinco anos em postos de chefia. Uma das primeiras medidas adotadas pelo governo do PT em 2003 foi revogar o decreto. Reabriu, assim, o caminho para a bandalheira na funda&ccedil;&atilde;o.</p></p>
+<p><p>Desde ent&atilde;o, j&aacute; se desviou dinheiro do combate &agrave; mal&aacute;ria no Amap&aacute; e de conv&ecirc;nios com &iacute;ndios de Roraima. Nos &uacute;ltimos tr&ecirc;s anos, quarenta crian&ccedil;as da etnia guarani-caiov&aacute; morreram de desnutri&ccedil;&atilde;o em Mato Grosso do Sul. A Funasa poderia ter evitado o mortic&iacute;nio se n&atilde;o tivesse uma administra&ccedil;&atilde;o inepta e os pol&iacute;ticos que a controlavam n&atilde;o pensassem apenas naquilo &ndash; dinheiro.</p></p>
+<p><p>Duas caracter&iacute;sticas fazem com que a Funasa seja um dos &oacute;rg&atilde;os mais ambicionados por pol&iacute;ticos: verbas polpudas &ndash; 4 bilh&otilde;es de reais por ano &ndash;, muitos cargos (33 000 funcion&aacute;rios, ao todo) e uma enorme capilaridade. Al&eacute;m dos &iacute;ndios, a funda&ccedil;&atilde;o responde por obras de saneamento e a&ccedil;&otilde;es de sa&uacute;de no interior. Nos estados mais pobres, ela tem um papel essencial. No Acre, por exemplo, seu or&ccedil;amento s&oacute; &eacute; menor que o do governo estadual e o da prefeitura da capital, Rio Branco.</p></p>
+<p><p>O PMDB assumiu o seu controle em 2005, quando o senador alagoano Renan Calheiros indicou Paulo Lustosa para presidi-la. Lustosa caiu depois que se descobriu, entre outras coisas, que ele resolvera fazer uma emissora de TV para a Funasa, que custaria o dobro do canal privado Futura, da Rede Globo. Foi sucedido por um de seus diretores, Danilo Forte, afilhado do deputado Eun&iacute;cio de Oliveira e sustentado pelos senadores do partido e pelo l&iacute;der na C&acirc;mara, Henrique Alves.</p></p>
+<p><p>Por esse motivo, os caciques estrilaram quando Tempor&atilde;o se voltou contra ele. &quot;Eu n&atilde;o me referi &agrave; atual gest&atilde;o da Funasa, mas &agrave;s anteriores&quot;, desdisse-se o ministro nos jornais (a reportagem de VEJA o procurou por tr&ecirc;s vezes e n&atilde;o teve retorno). Como a gest&atilde;o anterior tamb&eacute;m era do PMDB, a emenda saiu pior do que o soneto. &quot;O ministro prevaricou. Ele deveria ter tomado provid&ecirc;ncias contra os corruptos&quot;, diz o deputado Raul Jungmann (PPS), que pediu ao Minist&eacute;rio P&uacute;blico e ao TCU que investigassem a Funasa.</p> </p>
+{% endraw %}

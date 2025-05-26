@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>O passado bate à porta, na Empetur.</P></p>
 <p><P><FONT face=Verdana>Neste semana que começa, os</p>
 <p> funcionários da Empetur vão procurar a nova equipe de governo para falar da estatal e pedir a apuração de denúncia de desvios de recursos, ainda na gestão do ex-presidente Kleber Dantas.</FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>Na época, a direção da Empetur disse que foi a agência Gruponove que fez a campanha, mas solicitado a apresentar as peças da campanha, Dantas disse que os trabalhos seriam apresentadas em 30 dias, ao Conselho de Administração. Até hoje não vieram a público. </FONT></P></p>
 <p><P><FONT face=Verdana>Segundo a Empetur, as peças teriam sido feitas pela Gruponove, que atende a conta da estatal, sob a coordenação da empresa MCI, do marqueteiro Antônio Lavareda. </FONT></P></p>
 <p><P><FONT face=Verdana>A desculpa apresentada pela Blue Brazil não faz sentido, considerando que, se tivesse passageiro, eles poderiam trazer com outra empresa aérea. \"O problema é que eles não eram do ramo. O negócio era mal-amanhado desde o começo. Agora, quem pariu Mateus, que o balance\", disse um assessor bastante próximo ao governador Jarbas Vasconcelos, na época. A melhor comprovação disto é a pouca surpresa de um dos diretores da Varig Airlines, no Rio de Janeiro, com o cancelamento. \"Conforme prev?amos o Jim cancelou a operação. Veja a carta em anexo (confidencial)\", diz o executivo</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

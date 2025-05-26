@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por </FONT><FONT face=Verdana><B>Renato Lima<BR></B>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>Autoridades do Estado reagiram à declaração do presidente Lula de que Pernambuco não teria capacidade de endividamento e estaria em situação tão dramática quanto o Estado do Rio Grande do Sul. Com base nos números do balancete do quinto bimestre, publicado no Diário Oficial de ontem, e da própria Secretaria do Tesouro Nacional (STN), tanto o governador Mendonça Filho (PFL) quanto a secretária da Fazenda, Maria José Briano, chamaram Lula de \"mal informado\".</FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p> Monteiro Neto à presidência da Confederação Nacional da Indústria (CNI). </FONT></P></p>
 <p><P><FONT face=Verdana>(...) \"O Rio Grande do Sul está três vezes pior do que Pernambuco. Não faz sentido esse tipo de comparação\", reagiu Briano. </FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <A href=\"https://jc3.uol.com.br/jornal/2006/12/01/can_11.php\" target=_blank><STRONG><EM>aqui</EM></STRONG></A>&nbsp;(assinantes JC e UOL).</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

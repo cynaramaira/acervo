@@ -1,0 +1,25 @@
+---
+id: 12390590
+date: "2008-07-11T12:26:00Z"
+last_modified_at: null
+tags:
+  - "pobres"
+categories:
+  - "eleicoes"
+title: "Compromisso com os mais pobres"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Mendon&ccedil;a Filho*<img height="160" alt="" src="https://www2.uol.com.br/JC/blogs/blogdejamildo/imagens/selo_recife2008.jpg" width="130" align="right" /></p></p>
+<p><p>Oficialmente nossa caminhada come&ccedil;ou no &uacute;ltimo domingo. Digo &quot;oficialmente&quot; no sentido jur&iacute;dico, uma vez que foi a data estipulada pela Justi&ccedil;a Eleitoral para que os candidatos pudessem ir &agrave;s ruas como tais. Mas meu di&aacute;logo com o povo do Recife vem de muito tempo, desde que comecei minha carreira pol&iacute;tica. Nasci no Recife, cresci, fiz amigos, formei fam&iacute;lia e educo meus filhos aqui. Quando governador trabalhei por todo o Estado e pela minha cidade com projetos inovadores como os Centros de Ensino Experimental e o Porto Digital.</p></p>
+<p><p>H&aacute; cerca de um ano, decidi intensificar o contato pessoal como o povo do Recife e percorrer a cidade para ouvir o que se espera de uma administra&ccedil;&atilde;o p&uacute;blica municipal. Percorri durante esse tempo uma cidade de contrastes, bela, mas que carece de um olhar mais sens&iacute;vel para os reais problemas da maioria da sua popula&ccedil;&atilde;o. E para marcar o in&iacute;cio oficial da nossa campanha decidi por um exemplo que me pareceu emblem&aacute;tico do meu compromisso com a minha cidade: o bairro dos Coelhos.</p></p>
+<p><p>Ali, em condi&ccedil;&otilde;es inaceit&aacute;veis de habita&ccedil;&atilde;o, saneamento e acesso a servi&ccedil;os p&uacute;blicos de educa&ccedil;&atilde;o e sa&uacute;de, vivem cerca de 7 mil pessoas. Espremidas entre o rio e a cidade &quot;desenvolvida&quot;, essas pessoas ainda clamam por um real cuidado. Nos Coelhos, 25% dos adolescentes entre 15 e 17 anos est&atilde;o fora da escola, quando a m&eacute;dia do Recife &eacute; de 15%. L&aacute; o rendimento m&eacute;dio l&iacute;quido &eacute; de R$ 180, menos da metade de um sal&aacute;rio m&iacute;nimo. Nos Coelhos 30% das pessoas n&atilde;o alcan&ccedil;am os 60 anos. Trata-se de um lugar que pede socorro.</p></p>
+<p><p>Ouvi v&aacute;rios desses pedidos de socorro durante a caminhada do &uacute;ltimo domingo. Relatos desesperados de m&atilde;es que perderam os filhos para a criminalidade e de outras que estavam com medo de que isso acontecesse aos jovens do local. Pequenos comerciantes que reclamavam do prec&aacute;rio estado das vias e dos acessos ao bairro, o que atrapalha sensivelmente o com&eacute;rcio. Jovens cuja &uacute;nica coisa que pediam na vida era a oportunidade de estudar e trabalhar.</p></p>
+<p><p>A falta de saneamento provoca o avan&ccedil;o de doen&ccedil;as de pele e verminoses. Doen&ccedil;as sexualmente transmiss&iacute;veis e a gravidez precoce t&ecirc;m, nos Coelhos, ocorr&ecirc;ncias alarmantes. &Eacute; para mudar essa realidade que nossa campanha pretende trabalhar. Temos propostas pr&aacute;ticas para cada problema enfrentado pela comunidade. Nossa grande marcha pela educa&ccedil;&atilde;o pode levar aos Coelhos, bem como a v&aacute;rias outras localidades, a Escola em Tempo Integral, aproveitando o espa&ccedil;o do Centro Social Urbano, hoje degradado. A amplia&ccedil;&atilde;o e a cria&ccedil;&atilde;o de outra creche &eacute; um compromisso que assumi com as m&atilde;es do bairro.</p></p>
+<p><p>Para os alunos da rede p&uacute;blica teremos o Poupan&ccedil;a Educa&ccedil;&atilde;o, uma amplia&ccedil;&atilde;o do Bolsa Fam&iacute;lia no sentido de complementar a renda das fam&iacute;lias que mantiverem os filhos da escola e com bom rendimento. O projeto Jovem Campe&atilde;o, uma vez implantando, daria oportunidade da pr&aacute;tica de esportes a v&aacute;rios jovens, afastando-os dos flagelos do crime e das drogas que, infelizmente, rondam a juventude.</p></p>
+<p><p>Os moradores dos Coelhos - como todos das demais comunidades pobres do Recife - t&ecirc;m orgulho de onde vivem. N&atilde;o pretendem sair de l&aacute;, apenas desejam o &oacute;bvio: que sua amada comunidade seja olhada com mais carinho e sensibilidade por quem ocupa as cadeiras do poder. Por que raz&atilde;o o poder p&uacute;blico municipal ainda n&atilde;o acordou para isso, eis uma pergunta que precisa de resposta.</p></p>
+<p><p>E, uma vez respondida a quest&atilde;o da inoper&acirc;ncia, &eacute; hora de trabalhar para um futuro melhor. Para os Coelhos, para o Ibura, para o Coque, para o Chi&eacute;, para o Tot&oacute;. Para todo o Recife, priorizando os mais pobres e mais carentes. O meu compromisso com o Recife &eacute; fazer mais e melhor para que a nossa cidade tenha cada vez mais qualidade de vida.</p> </p>
+{% endraw %}

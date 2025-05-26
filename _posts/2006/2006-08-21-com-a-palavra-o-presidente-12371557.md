@@ -13,7 +13,7 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Do <strong><em><a href="#">site</a></em></strong> Aprendiz</p>
 <p>Por Alan Meguerditchian</p>
 <p>De agressivo e acusador a moderado e conciliador, sempre encaixando o discurso sobre o tema do emprego &agrave;s id&eacute;ias dominantes do per?odo, conseguindo assim, nos &uacute;ltimos anos, atrair as classes econ&ocirc;micas alta e baixa, mas afastando a m&eacute;dia. Esta &eacute; a estrat&eacute;gia do presidente da Rep&uacute;blica, Luiz In&aacute;cio Lula da Silva, durante seus discursos sobre emprego, identificada pela pesquisadora Luciana Panke em sua tese de doutorado defendida na Escola de Comunica&ccedil;&otilde;es e Artes da Universidade de S&atilde;o Paulo (USP).</p>
@@ -24,4 +24,4 @@ imagem: null
 <p>Por fim, a &uacute;ltima fase come&ccedil;a na campanha eleitoral de 2002 e segue durante o ano seguinte. "Neste momento, Lula j&aacute; aceita os acordos e as condi&ccedil;&otilde;es impostas pelo mercado internacional. N&atilde;o acusa mais os empres&aacute;rios, mas sim divide a responsabilidade pela cria&ccedil;&atilde;o de novos postos de trabalho".</p>
 <p>&nbsp;</p>
 <p><br />Leia <strong><a href="#"><em>aqui</em></a></strong> o texto completo.</p>
-{\% endraw %}
+{% endraw %}

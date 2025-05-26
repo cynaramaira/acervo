@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana size=2></p>
 <p><P>Segundo o prefeito João Paulo, coordenador da campanha do presidente em Pernambuco, Lula estará em Petrolina (PE) e Juazeiro (BA) no dia 14 de agosto. Cumprirá uma agenda de campanha nas duas cidades vizinhas, que juntas têm quase meio milhão de habitantes e influência sobre todo o submédio São Francisco.</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

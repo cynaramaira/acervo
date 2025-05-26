@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Não será fácil o final de semana para os 36 desembargadores do Tribunal de Justiça de Pernambuco. </FONT></P></p>
 <p><P><FONT face=Verdana>Eles escolherão na segunda-feira os advogados que comporão lista tr?plice a ser encaminhada ao governador Mendonça Filho (PFL) para nomeação do 37º desembargador - cargo vago hoje em função da aposentadoria de Dário Rocha.</FONT></P></p>
 <p><P><FONT face=Verdana>A pressão sobre eles já começou e deve se intensificar. Todo o governo, com Jarbas Vasconcelos e Mendonça Filho à frente, faz o poss?vel e o imposs?vel para assegurar a entrada de Pedro Henrique Reinaldo Alves na lista tr?plice. </FONT></P></p>
@@ -38,4 +38,4 @@ imagem: null
 <p><P><FONT face=Verdana>Neves foi presidente da OAB por três mandatos e tem tradição familiar no meio jur?dico estadual.</FONT></P></p>
 <p><P><FONT face=Verdana>Bandeira é ligad?ssimo ao senador Marco Maciel, homem de fortes relações com o Judiciário. Moury Neto também conta com boas relações, mas principalmente por méritos próprios.</FONT></P></p>
 <p><P><FONT face=Verdana>Se entrar na lista tr?plice, não há dúvidas, Pedro Henrique será o próximo desembargador, apesar de 6º colocado na sêxtupla.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

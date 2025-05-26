@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>A Justiça Federal acolheu a denúncia na qual o ex-ministro Humberto Costa, o ex-tesoureiro do PT Delúbio Soares e outras 11 pessoas são acusadas de envolvimento no esquema de fraudes para a compra de medicamentos no Ministério da Saúde. </FONT></P></p>
 <p><P><FONT face=Verdana>A máfia foi descoberta na Operação Vampiro, da Pol?cia Federal. A Justiça acatou a denúncia quinta-feira. </FONT></P></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana>O esquema teria vigorado entre 1998 e 2004. À época, foram presos servidores da pasta, lobistas e empresários. Com base em gravações e depoimentos colhidos pela PF, o MP aponta que Costa teria conhecimento do esquema de fraude e daria respaldo a servidores acusados.<BR></FONT></P></p>
 <p><P><FONT face=Verdana>Os acusados ainda não foram notificados. Em outras ocasiões, negaram envolvimento. O advogado Celso Vilardi, que representa Delúbio Soares em outro processo no Supremo Tribunal Federal, disse que não recebeu cópia da denúncia.</FONT></P></p>
 <p><P><FONT face=Verdana>As informações são da Agência Folha.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

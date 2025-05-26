@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>(degravação de metade da gravação com Simone, esposa de Milton&nbsp;Coelho, feita pelo Blog)</FONT></P><B></p>
 <p><P><FONT face=Verdana>SIMONE:</FONT></P></B></p>
 <p><P><FONT face=Verdana>Você estava em Porto de Galinhas, agora gostou de lá e ficou empolgado com Porto e...vai trabalhar em Porto de Galinhas...</FONT></P><B></p>
@@ -297,4 +297,4 @@ imagem: null
 <p><P><FONT face=Verdana>É como uma rebelde sem solução...</FONT></P><B></p>
 <p><P><FONT face=Verdana>SAULO:</FONT></P></B></p>
 <p><P><FONT face=Verdana>A? fica um negócio feito adolescente...e é exatamente isto...os eleitores dela é esse, é universitários, é alguma...(inaud?vel)...populares, mas não pega a classe média, ela não aponta um caminho. Ela conseguiu, tanto é que subiu de três pra onze por cento...porque ela conseguiu encarnar...Cristovam Buarque percebeu isso a?, tanto é que na última pesquisa dele ele já subiu...(inaud?vel)...porque é que quem rouba uma carteira é ladrão e quem desvia um milhão é só corrupto. Todo mundo percebeu isso a?. Agora eu acho que, inclusive hoje, já no fim da campanha, que um cara como Serra teria dado mais trabalho, porque ele é mais incisivo. Agora eu não sei como é que ia ser o ?ndice de rejeição dele, é outra história, entendeu? Quer dizer se o candidato fosse ele se iam explorar o fato de que a máfia dos vampiros existia desde a época da gestão dele</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

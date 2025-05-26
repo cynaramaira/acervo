@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>&nbsp;<FONT face=Verdana><STRONG>ÉPOCA</STRONG></FONT></p>
 <p> </p>
 <p><P><FONT face=Verdana size=3>Os companheiros sanguessugas</FONT></P></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana>O caso da máfia dos sanguessugas já era, na semana passada, um dos maiores escândalos de corrupção descobertos no pa?s. Nada menos do que 57 parlamentares estavam sob suspeita de ter recebido suborno de uma empresa de ambulâncias, a Planam, para destinar recursos do Orçamento federal a prefeituras compradoras dos ve?culos. Na quinta-feira passada, porém, descobriu-se que tanto o número de envolvidos no esquema quanto o seu alcance haviam sido subestimados. Os parlamentares acusados de participar da máfia dos sanguessugas ultrapassam uma centena – o número exato é 112 –, e o Legislativo não é o único poder atingido por ela. </FONT></P></p>
 <p><P><FONT face=Verdana>O rastro do suborno e do tráfico de influência alcança também o Executivo federal – mais precisamente a porta do gabinete do ex-ministro da Saúde Humberto Costa, hoje candidato ao governo de Pernambuco pelo PT. As revelações foram feitas pelo empresário Luiz Antônio Vedoin, um dos sócios da Planam, ao longo de uma série de depoimentos sigilosos prestados à Justiça Federal nas duas últimas semanas. </FONT></P><FONT size=2></p>
 <p><P><FONT face=Verdana>Leia <U><STRONG><A href=\"https://veja.abril.uol.com.br/260706/p_056.html\" target=_blank>aqui</A></STRONG></FONT></U><FONT face=Verdana> matéria completa da revista Veja.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Terra Magazine</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Após o debate de ontem (quinta) à noite no SBT, em uma conversa ainda nos estúdios da rede de televisão, o presidente nacional do PPS, Roberto Freire, foi incisivo e confirmou que o governador reeleito do Mato Grosso, Blairo Maggi, está desfiliado do partido.</FONT></P></p>
 <p><P><FONT face=Verdana>- Nós não temos 1 bilhão para comprar o Blairo e por isso ele apoiou o Lula. Quer apoiar o Lula, vai. Mas vai em outro lugar. </FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>Freire enfatiza que quem manda no partido é ele: </FONT></P></p>
 <p><P><FONT face=Verdana>- Ele é um l?der regional. Eu sou o l?der nacional do partido (...) Já botei ministro para fora, boto governador e boto quem eu quiser...</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://terramagazine.terra.com.br/interna/0,,OI1202319-EI6578,00.html\" target=_blank>aqui</A></EM></STRONG>.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

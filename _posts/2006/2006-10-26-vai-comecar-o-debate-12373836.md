@@ -12,6 +12,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Eduardo Campos e Mendonça Filho já estão a postos. O jornalista Francisco José, o mediador, explica as regras.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Romoaldo de Souza, correspondente da Rádio Jornal em Bras?lia, nos manda as estat?sticas do relatório da CPI das Sanguessugas.</FONT></P></p>
 <p><P><FONT face=Verdana>Veja os números:</FONT></P><B></p>
 <p><P><FONT face=Verdana>Processados</FONT></P></p>
@@ -77,4 +77,4 @@ imagem: null
 <p><P><FONT face=Verdana>Inocentados</FONT></B><FONT face=Verdana> </FONT></P></p>
 <p><P><FONT face=Verdana>11 Base do governo</FONT></P></p>
 <p><P><FONT face=Verdana>7 Oposição</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

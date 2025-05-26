@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O ex-tesoureiro do Partido dos Trabalhadores (PT), Delúbio Soares, não estava brincando quando, na festa de seus 50 anos, em outubro do ano passado, prometeu que iria viver pelo menos três vezes mais (em termos de qualidade de vida).</FONT></P></p>
 <p><P><FONT face=Verdana>Pivô e combust?vel da maior crise pol?tica do governo Luiz Inácio Lula da Silva, o homem acaba de desembarcar em Pernambuco para as festas de Ano Novo e vai passar o réveillon em Porto de Galinhas.</FONT></P></p>
 <p><P><FONT face=Verdana>A visita a um balneário tão famoso é a prova de que Delúbio não estava errado quando pediu calma aos companheiros, no auge da crise do Mensalão. </FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>O próprio aniversariante aspergiu, com uma mangueira, água do caminhão-pipa da prefeitura de Buriti Alegre. No calor do cerrado, ele procurava refrescar os convidados enquanto a festa não começava. </FONT></P></p>
 <p><P><FONT face=Verdana>Na festa de Buriti Alegre, mostrando que ainda tinha força pol?tica, foi o próprio Delúbio&nbsp;quem conseguiu&nbsp;o caminhão-pipa da prefeitura que levou água à fazenda.</FONT></P></p>
 <p><P><FONT face=Verdana>Não se sabe se o ex-tesoureiro terá essa mesma moral com o prefeito de Ipojuca, Pedro Serafim Filho (PMDB)... Mas publicitários costumam fazer até tijolo voar!</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

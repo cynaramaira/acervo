@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-FAMILY: Verdana\">Por <B style=\"mso-bidi-font-weight: normal\">Cec?lia Ramos</B><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-FAMILY: Verdana\">Repórter do Blog<o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-FAMILY: Verdana\">&nbsp;<o:p></o:p></SPAN></P></p>
@@ -49,4 +49,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-FAMILY: Verdana\">Eles estreitaram laços com a disputa sucessória estadual. Ambos apoiaram, no 1º turno, o candidato do PT ao governo de Pernambuco, Humberto Costa. <o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-FAMILY: Verdana\"><o:p>&nbsp;</o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-FAMILY: Verdana\">Silvio Costa desconversa. \"Esse assunto (mudança de partido) só a partir de dezembro. Não pode mudar até 19 de dezembro, que é a data da diplomação\", despistou, em entrevista ao <B style=\"mso-bidi-font-weight: normal\">Blog</B>, no último dia 27. Leia <A href=\"https://jc3.uol.com.br/blogs/jc/2006/10/27/index.php#2821\"><STRONG>aqui</STRONG></A>.&nbsp;</SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

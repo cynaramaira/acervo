@@ -1,0 +1,33 @@
+---
+id: 12386161
+date: "2008-02-15T07:29:00Z"
+last_modified_at: null
+tags:
+  - "carnaval"
+  - "falcao"
+  - "recife"
+  - "sucesso"
+categories:
+  - "noticias"
+title: "Lygia Falc\u00e3o rebate cr\u00edticas e diz que Carnaval do Recife foi um sucesso"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font size=\"2\"></p>
+<p><p><font face=\"Verdana\">Por Lygia Falc&atilde;o, na p&aacute;gina de Opini&atilde;o do JC de hoje </font></p></p>
+<p></font></p></p>
+<p><p><font face=\"Verdana\">O Carnaval Multicultural do Recife este ano foi tratado com uma defer&ecirc;ncia jamais vista. Quase uma centena de jornais e sites do exterior dedicaram elogios &agrave; folia da cidade, enfatizando especialmente sua riqueza musical e seu car&aacute;ter democr&aacute;tico. A ag&ecirc;ncia Associated Press (AP), por exemplo, afirmou que o frevo &quot;&eacute; um dos melhores segredos guardados do Brasil&quot; e que os foli&otilde;es t&ecirc;m acesso gratuito a todas as atra&ccedil;&otilde;es. O correspondente que assinou a mat&eacute;ria, Michael Astor, n&atilde;o conhecia nossa cultura de perto. Mas a viagem de uma semana ao Recife, em meados de janeiro, e a presen&ccedil;a no desfile da Mangueira, na madrugada de segunda-feira (4/02), deram ao jornalista a possibilidade de juntar os dois p&oacute;los que representam espetacularmente a maior festa brasileira - o frevo e o samba. </font></p></p>
+<p><p><font face=\"Verdana\">Independentemente do resultado do desfile no Samb&oacute;dromo - sempre sujeito &agrave; subjetividade da interpreta&ccedil;&atilde;o dos jurados -, o patroc&iacute;nio &agrave; Mangueira ajudou a ampliar a visibilidade do Carnaval do Recife. Queiram ou n&atilde;o seus cr&iacute;ticos. A cidade, sua cultura e seu turismo certamente sa&iacute;ram ganhando com a intensa repercuss&atilde;o positiva na m&iacute;dia nacional e internacional. Pelo menos 40 jornalistas brasileiros e do exterior vieram ao Recife especialmente para a cobertura carnavalesca. As TVs aumentaram o n&uacute;mero de flashes ao vivo e algumas delas contabilizaram um total de mais de 24 horas de transmiss&atilde;o. Mesmo assim, no &acirc;mbito local, um dos assuntos de destaque neste ano de elei&ccedil;&otilde;es foi o patroc&iacute;nio &agrave; Mangueira, com resist&ecirc;ncias e retic&ecirc;ncias antes e depois do desfile. Nos jornais, alguns disseram que o frevo nada tem a ver com o samba, outros reclamaram do patroc&iacute;nio em si, e houve formadores de opini&atilde;o que simplesmente sentiram falta de certa literalidade na apresenta&ccedil;&atilde;o da Mangueira, como se os enredos das escolas cariocas n&atilde;o fossem, historicamente, caracterizados por uma vis&atilde;o aleg&oacute;rica e quase on&iacute;rica dos temas que abordam - talvez como forma de fugir da obviedade. </font></p></p>
+<p><p><font face=\"Verdana\">O mais importante, no entanto, &eacute; o que o Recife realizou um Carnaval sem precedentes em sua hist&oacute;ria. Enquanto no Rio o frevo mostrava sua cara ao mundo - cerca de 2 bilh&otilde;es de telespectadores assistiram ao desfile -, nossa cidade apresentava n&uacute;meros recordes em todas as frentes. O jornal Zero Hora, de Porto Alegre, chegou a observar que o pernambucano &eacute; mesmo exagerado - principalmente na folia. N&atilde;o &eacute; para menos. Tivemos mais de 350 artistas em a&ccedil;&atilde;o nos dias de Carnaval (90% deles pernambucanos), que fizeram mais de 400 apresenta&ccedil;&otilde;es. No centro e nas imedia&ccedil;&otilde;es do Marco Zero desfilaram 400 agremia&ccedil;&otilde;es e o Bairro do Recife recebeu, nos cinco dias de Carnaval, 1,5 milh&atilde;o de pessoas - uma m&eacute;dia de 300 mil foli&otilde;es por dia. Os oito p&oacute;los descentralizados foram freq&uuml;entados por 150 mil foli&otilde;es e 90 mil passaram pelos polinhos. </font></p></p>
+<p><p><font face=\"Verdana\">O resultado da amplia&ccedil;&atilde;o do Carnaval (criamos mais oito p&oacute;los nos bairros de maior concentra&ccedil;&atilde;o de foli&otilde;es e aumentamos o n&uacute;mero de polinhos para 40) p&ocirc;de ser sentido na movimenta&ccedil;&atilde;o tur&iacute;stica. O n&uacute;mero de turistas em nossa cidade chegou a 600 mil nos cinco dias de Carnaval, com um aumento de 20% em rela&ccedil;&atilde;o ao ano passado, quando houve um fluxo de 500 mil. Dessa forma, os hot&eacute;is trabalharam com uma ocupa&ccedil;&atilde;o pr&oacute;xima dos 100%, alguns com lota&ccedil;&atilde;o completa, segundo o presidente do Recife Convention &amp; Visitors Bureau e da ABIH-PE, Jos&eacute; Ot&aacute;vio Meira Lins. No per&iacute;odo carnavalesco, o Aeroporto Internacional do Recife/Guararapes-Gilberto Freyre recebeu 285 v&ocirc;os - 274 dom&eacute;sticos e 11 internacionais -, num total de 50 mil desembarques. </font></p></p>
+<p><p><font face=\"Verdana\">O crescimento do Carnaval do Recife &eacute; um fen&ocirc;meno que vem sendo observado - dentro e fora de Pernambuco - desde os primeiros anos deste s&eacute;culo, quando a atual gest&atilde;o adotou o modelo dos p&oacute;los de anima&ccedil;&atilde;o, criou o conceito multicultural e procedimentos para os patroc&iacute;nios, investiu na democratiza&ccedil;&atilde;o da folia e aumentou os incentivos para as agremia&ccedil;&otilde;es - algumas delas passaram a receber 700% a mais em subven&ccedil;&otilde;es do que recebiam no passado. Al&eacute;m disso, ao longo de 2007 e in&iacute;cio de 2008, a prefeitura promoveu o projeto 100 Anos do Frevo, que fortaleceu o nosso ritmo mais popular com a execu&ccedil;&atilde;o de mais de 40 projetos - entre realiza&ccedil;&otilde;es e apoios. </font></p></p>
+<p><p><font face=\"Verdana\">Nada foi feito ao acaso. Houve planejamento e estrat&eacute;gia - inclusive em rela&ccedil;&atilde;o ao desfile da Mangueira. Foram anos de estudo, adapta&ccedil;&otilde;es e imenso trabalho. Tivemos apoio de t&eacute;cnicos competentes, das empresas e da m&iacute;dia. Criamos um produto cultural para al&eacute;m da nossa administra&ccedil;&atilde;o. Com olhos voltados para os resultados econ&ocirc;micos de m&eacute;dio e longo prazos e, acima de tudo, para a alegria do foli&atilde;o recifense. </font></p></p>
+<p><p><em></p>
+<p><p><font face=\"Verdana\">&raquo; Lygia Falc&atilde;o &eacute; secret&aacute;ria de Gest&atilde;o Estrat&eacute;gica e Comunica&ccedil;&atilde;o da Prefeitura do Recife.</font></p></p>
+<p></em></p></p>
+<p><p><font face=\"Verdana\"> </font></p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

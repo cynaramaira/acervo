@@ -1,0 +1,42 @@
+---
+id: 12380110
+date: "2007-07-08T23:56:00Z"
+last_modified_at: null
+tags:
+  - "edson-fachin"
+  - "loteria"
+  - "martins-fontes"
+  - "naomi-campbell"
+  - "secretaria-da-faz"
+categories:
+  - "noticias"
+title: "N\u00e3o sei se Romeu da Fonte teria conhecimento t\u00e9cnico para assumir a secretaria, afirma Edson Matos"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">Por <strong>Ana L&uacute;cia Andrade</strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Da <strong>Editoria de Pol&iacute;tica do JC</strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Formado em Administra&ccedil;&atilde;o de Empresas, o novo titular das Finan&ccedil;as em Jaboat&atilde;o, Edson Matos, vinha atuando na secretaria de Planejamento do munic&iacute;pio. E j&aacute; assume a&nbsp;pasta criticando o conselheiro aposentado do TCE, Romeu da Fonte, que n&atilde;o aceitou convite do prefeito Newton Carneiro para&nbsp;integrar o sec</font><font face=\"Verdana\" size=\"2\">retariado municipal. Matos foi funcion&aacute;rio do Bandepe por 16 anos quando o banco pertencia ao Estado. Seu primeiro cargo p&uacute;blico de comando foi como diretor da&nbsp;</font><font face=\"Verdana\" size=\"2\">Companhia Integrada de Servi&ccedil;os Agropecu&aacute;rios de Pernambuco (Cisagro), no 2&ordm; governo Arraes. Ele tamb&eacute;m&nbsp;f</font><font face=\"Verdana\" size=\"2\">ez parte da Ag&ecirc;ncia&nbsp;de Regula&ccedil;&atilde;o&nbsp;de Pernambuco (Arpe) no governo Jarbas Vasconcelos (PMDB). Ainda&nbsp;na gest&atilde;o do peemedebista, trabalhou no Prorural e foi diretor administrativo e financeiro da Secretaria de Cultura e da Fundarpe. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>JORNAL DO COMMERCIO - Assumir as Finan&ccedil;as de Jaboat&atilde;o dos Guararapes, um munic&iacute;pio problem&aacute;tico, &eacute; assumir um abacaxi? </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>EDSON MATOS -</strong> N&atilde;o. Do ponto de vista administrativo e financeiro, Jaboat&atilde;o est&aacute; muito bem. Agora, com pequenos ajustes, o prefeito avan&ccedil;a na administra&ccedil;&atilde;o dele. &Eacute; um munic&iacute;cpio que n&atilde;o deve nenhuma folha. J&aacute; pagamos 50% do d&eacute;cimo terceiro. N&atilde;o devemos nenhum fornecedor. Precisamos apenas de alguns ajustes que j&aacute; estamos providenciando.&nbsp;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>JC - Que ajustes?</strong> </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>MATOS -</strong> Estamos com um recadastramento em andamento e providenciando uma nova planta gen&eacute;rica dos valores pagos ao munc&iacute;pio que deve ser encaminhada &agrave; C&acirc;mara Municipal ainda esse ano. Devemos fazer tamb&eacute;m alguns ajustes no custeio da m&aacute;quina para que o prefeito tenha mais recursos para investimentos. &Eacute; s&oacute; isso que precisamos. Os investimentos at&eacute; agora n&atilde;o apareceram por causa de quest&otilde;es de administra&ccedil;&otilde;es anteriores. N&oacute;s levamos dois anos e tr&ecirc;s meses para ter as certid&otilde;es previdenci&aacute;rias. Eu era secret&aacute;rio de Planejamento, desde julho de 2005, por isso falo com tanta propriedade sobre os n&uacute;meros. Planejamento e Financas se confundem muito.&nbsp;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>JC - E quanto &agrave;s raz&otilde;es das recusas &agrave; pasta de Finan&ccedil;as, inclusive as supostas press&otilde;es reveladas pelo ex-presidente do TCE Romeu da Fonte, o senhor tem conhecimento desse tipo de dificuldade? </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>MATOS -</strong> Com todo respeito que tenho pelo ilustr&iacute;ssmo presidente do TCE, n&atilde;o sei se ele teria conhecimento t&eacute;cnico para assumir uma pasta que &eacute; eminentemente t&eacute;cnica. Presidente de TCE &eacute; um cargo muito pol&iacute;tico. Quanto aos auditores, h&aacute; um equ&iacute;voco do nobre presidente. Eduardo Maia, um dos elementos a quem ele se referiu, foi quem instalou a central de licita&ccedil;&otilde;es do munic&iacute;pio de forma muito competente. Se houve press&atilde;o contra Eduardo Maia foi para que ele permanecesse, n&atilde;o para que ele sa&iacute;sse. Ele n&atilde;o aceitou continuar porque quando aceitou ir para o governo j&aacute; tinha data certa para sair. Eduardo Maia era uma unanimidade do governo para continuar, mas ele tinha um compromisso com o Tribunal. Quanto a Aldermar Santos, sou testemnhua da capacidade dele. Mas est&aacute; entre as atribui&ccedil;&otilde;es do prefeito escolher com quem quer trabalhar. Mudan&ccedil;as em governo s&atilde;o coisas naturais. S&oacute; n&atilde;o &eacute; em Jaboat&atilde;o. <br /></p>
+<p><br /></p>
+<p><strong>JC - Por que n&atilde;o? </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>MATOS -</strong> Quanto ao epis&oacute;dio de Mariza Carneiro, pergunte a ela. Entendo que ela deu por encerrado o seu ciclo na administra&ccedil;&atilde;o. Fez um excelente trabalho e est&aacute; querendo descansar. O resto &eacute; uma quest&atilde;o pol&iacute;tica. Nenhum munic&iacute;pio de Pernambuco tem 13 pr&eacute;-candidatos. Voc&ecirc; conhece algum? Ent&atilde;o qualquer coisa que aconte&ccedil;a nesse munic&iacute;pio, mesmo que seja corriqueira, vai se transformar em manchete mesmo. E se puderem colocar uma pimentazinha nesse tempero v&atilde;o colocar. <br /></p>
+<p><br /></p>
+<p><strong>JC - O senhor est&aacute; dizendo que os problemas de Jaboat&atilde;o s&atilde;o fruto de uma disputa pol&iacute;tica n&atilde;o s&atilde;o fatos concretos? </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>MATOS -</strong> Em sua maioria n&atilde;o s&atilde;o. Eles tomam uma dimens&atilde;o maior do que t&ecirc;m. Em qualquer outro lugar, seriam fatos corriqueiros de uma administra&ccedil;&atilde;o que seriam resolvidos da melhor forma. N&oacute;s n&atilde;o. Temos que enfrentar 13 pr&eacute;-candidatos e que n&atilde;o s&atilde;o qualquer um: s&atilde;o parlamentares, comunicadores, pessoas que t&ecirc;m alcance na m&iacute;dia e que podem deturpar alguns fatos.&nbsp;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>JC - E houve deturpa&ccedil;&atilde;o? </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>MATOS -</strong> Houve. No pr&oacute;prio fato da sa&iacute;da de Mariza. Alguns pr&eacute;-candidatos fizeram parecer que o mundo iria cair e que o governo seria um caos. Quando ser&aacute; apenas a substitui&ccedil;&atilde;o de uma excelente t&eacute;cnica, que fez um excelente trabalho, o que poderia acontecer em qualquer lugar. Mas como &eacute; Jaboat&atilde;o, com 13 pr&eacute;-candidatos que t&ecirc;m tribuna, transforma-se isso num caos.&nbsp;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>JC - E essas supostas interfer&ecirc;ncias da deputada Elina Carneiro na administra&ccedil;&atilde;o? </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>MATOS</strong> - Nunca houve. Qualquer governante tem seu grupo de conselho pol&iacute;tico. Se o cara &eacute; prefeito e tem uma filha parlamentar ela n&atilde;o pode ser sua conselheira? Agora, entre ser conselheira e a pessoa mais influente ou a que vai tomar o lugar do pai vai uma dist&acirc;ncia muito grande. Ela &eacute; uma conselheira de prest&iacute;gio, com interfer&ecirc;ncias fortes, claro! At&eacute; pelo seu grau de parentesco. Como tamb&eacute;m &eacute; a secret&aacute;ria que est&aacute; saindo (Mariza Carneiro &eacute; sobrinha do prefeito). Agora, muitas pessoas acham que Elina &eacute; quem manda e o prefeito n&atilde;o sabe o que faz. Se houvesse press&atilde;o familiar, Mariza n&atilde;o estaria saindo. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>JC - Como o senhor chegou no governo Newton Carneiro? </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>MATOS - </strong>Recebi um convite do pr&oacute;prio prefeito. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Leia o que publicamos sobre Edson Matos, neste domingo, <strong><a href=\"https://jc3.uol.com.br/blogs/blogdejamildo/2007/07/08/index.php#9266 \">aqui</a></strong>.</font></p> </p>
+{% endraw %}

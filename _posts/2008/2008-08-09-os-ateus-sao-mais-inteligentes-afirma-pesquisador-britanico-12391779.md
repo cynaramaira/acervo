@@ -1,0 +1,46 @@
+---
+id: 12391779
+date: "2008-08-09T13:25:00Z"
+last_modified_at: null
+tags:
+  - "mateus-solano"
+  - "pesquisadores"
+  - "sao"
+categories:
+  - "opiniao"
+title: "'Os ateus s\u00e3o mais inteligentes', afirma pesquisador brit\u00e2nico"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Entrevista da Revista &Eacute;poca</p></p>
+<p><p>O pesquisador brit&acirc;nico Richard Lynn dedicou mais de meio s&eacute;culo &agrave; an&aacute;lise da intelig&ecirc;ncia humana. Nesse tempo, publicou quatro best-sellers e se tornou um dos maiores especialistas no assunto. Nos &uacute;ltimos 20 anos, passou a investigar as rela&ccedil;&otilde;es entre ra&ccedil;a, religi&atilde;o e intelig&ecirc;ncia.</p></p>
+<p><p>Ao publicar um trabalho na revista cient&iacute;fica Nature, que sugeria que os homens s&atilde;o mais inteligentes, um grupo feminista o recepcionou em casa com o que ele chamou de salva de ovos. O mesmo aconteceu quando disse que os orientais s&atilde;o os mais inteligentes do planeta. &ldquo;Faz parte do of&iacute;cio de um cientista revelar o que as pessoas n&atilde;o est&atilde;o prontas para receber&rdquo;, diz.</p></p>
+<p><p>Ao analisar mais de 500 estudos, Lynn disse estar convencido da rela&ccedil;&atilde;o entre Q.I. alto e ate&iacute;smo. &ldquo;Em cerca de 60% dos 137 pa&iacute;ses avaliados, os mais crentes s&atilde;o os de Q.I. menor&rdquo;, disse. Seu trabalho ser&aacute; publicado em outubro na revista cient&iacute;fica Intelligence.</p></p>
+<p><p>Por que o senhor diz que pessoas inteligentes n&atilde;o acreditam em Deus&#63;</p></p>
+<p><p>Richard Lynn &ndash; Os mais inteligentes s&atilde;o mais propensos a questionar dogmas religiosos. Em geral, o n&iacute;vel de educa&ccedil;&atilde;o tamb&eacute;m &eacute; maior entre as pessoas de Q.I. maior (um Q.I. m&eacute;dio varia de 91 a 110). Se a pessoa &eacute; mais educada, ela tem acesso a teorias alternativas de cria&ccedil;&atilde;o do mundo. Por isso, entendo que um Q.I. alto levar&aacute; &agrave; falta de religiosidade. O estudo que ser&aacute; publicado reuniu dados de diversas pesquisas cient&iacute;ficas. E posso afirmar que &eacute; o mais completo sobre o assunto.</p></p>
+<p><p>Segundo seu estudo, h&aacute; pa&iacute;ses em que a m&eacute;dia de Q.I. &eacute; alta, assim como o n&uacute;mero de pessoas religiosas.</p></p>
+<p><p>Lynn &ndash; Sim, mas s&atilde;o exce&ccedil;&otilde;es. A m&eacute;dia da popula&ccedil;&atilde;o dos Estados Unidos, por exemplo, tem Q.I. 98, alto para o padr&atilde;o mundial, e ao mesmo tempo cerca de 90% das pessoas acreditam em Deus. A explica&ccedil;&atilde;o &eacute; que houve um grande fluxo de imigrantes de pa&iacute;ses cat&oacute;licos, como M&eacute;xico, o que ajuda a manter &iacute;ndices altos de religiosidade nas pesquisas. Mas, se tirarmos as imigra&ccedil;&otilde;es ao longo dos &uacute;ltimos anos, a popula&ccedil;&atilde;o americana teria um &iacute;ndice bem maior de ateus, parecido com o de pa&iacute;ses como Inglaterra (41,5%) e Alemanha (42%).</p></p>
+<p><p>Cuba &eacute; um pa&iacute;s mais ateu que os Estados Unidos, mas o n&iacute;vel de Q.I. n&atilde;o &eacute; t&atilde;o alto.</p></p>
+<p><p>Lynn &ndash; Voc&ecirc; tem raz&atilde;o. &Eacute; outra exce&ccedil;&atilde;o. Pela porcentagem de ateus (40%), o Q.I. (85) dos cubanos deveria ser mais alto que o dos americanos. Mas h&aacute; tamb&eacute;m a&iacute; um fen&ocirc;meno n&atilde;o natural que interferiu no resultado. L&aacute;, o comunismo for&ccedil;ou a popula&ccedil;&atilde;o a se converter. Houve uma propaganda forte contra a cren&ccedil;a religiosa. N&atilde;o se chegou ao ate&iacute;smo pela intelig&ecirc;ncia. A popula&ccedil;&atilde;o cubana n&atilde;o se tornou at&eacute;ia porque passou a questionar a religi&atilde;o. Foi uma imposi&ccedil;&atilde;o do sistema de governo.</p></p>
+<p><p>E o Brasil, como est&aacute;&#63;</p></p>
+<p><p>Lynn &ndash; O Brasil segue a l&oacute;gica, um porcentual baix&iacute;ssimo de ateus (1%) e Q.I. mediano (87). &Eacute; um pa&iacute;s muito miscigenado e sofreu forte influ&ecirc;ncia do catolicismo de Portugal e dos negros da &Aacute;frica. Fica dif&iacute;cil mensurar a participa&ccedil;&atilde;o de cada ra&ccedil;a no Q.I. atual. O que posso dizer &eacute; que a hist&oacute;ria do pa&iacute;s se reflete em sua intelig&ecirc;ncia.</p></p>
+<p><p>O senhor quer dizer que a miscigena&ccedil;&atilde;o influenciou nosso Q.I.&#63;</p></p>
+<p><p>Lynn &ndash; Sim, &eacute; uma hip&oacute;tese em an&aacute;lise ainda. Os japoneses s&atilde;o os indiv&iacute;duos que na m&eacute;dia t&ecirc;m o maior Q.I. (105) entre as ra&ccedil;as estudadas. &Eacute; mais alto que o dos europeus e dos americanos. Em negros da &Aacute;frica Subsaariana, o resultado foi 70. Em negros americanos, esse valor &eacute; maior (85). Isso pode ser explicado pelos 25% dos genes da ra&ccedil;a branca que os negros americanos possuem.</p></p>
+<p><p>O senhor est&aacute; sugerindo que &iacute;ndios, brancos e negros t&ecirc;m Q.I. diferente entre si&#63;</p></p>
+<p><p>Lynn &ndash; Exatamente. Isso se explica pela hist&oacute;ria da humanidade. Quando os primeiros humanos migraram da &Aacute;frica para a Eur&aacute;sia, eles encontraram dificuldade para sobreviver em temperaturas t&atilde;o frias. Esse problema se tornou especialmente ruim na era do gelo. As plantas usadas como alimento n&atilde;o estavam mais dispon&iacute;veis o ano inteiro, o que os obrigou a ca&ccedil;ar, confeccionar armas e roupas e fazer fogo. Ao exercitar o c&eacute;rebro na solu&ccedil;&atilde;o desses problemas, tornaram-se mais inteligentes. H&aacute; tamb&eacute;m uma muta&ccedil;&atilde;o gen&eacute;tica que teria acontecido entre asi&aacute;ticos e dado uma vantagem competitiva a essa ra&ccedil;a.</p></p>
+<p><p>O senhor chegou a alguma conclus&atilde;o sobre a intelig&ecirc;ncia das ra&ccedil;as&#63;</p></p>
+<p><p>Lynn &ndash; Sim. Os asi&aacute;ticos s&atilde;o os mais inteligentes. Chineses, japoneses e coreanos t&ecirc;m o Q.I. mais alto (105) da humanidade. E isso acontece onde quer que esses indiv&iacute;duos estejam, seja no Brasil, nos Estados Unidos, na Europa ou em seu pa&iacute;s de origem. Em seguida, v&ecirc;m europeus (100) e nas &uacute;ltimas posi&ccedil;&otilde;es est&atilde;o os abor&iacute;genes australianos (62) e os pigmeus do Congo (54).</p></p>
+<p><p>Se fosse assim, seria mais f&aacute;cil encontrar um g&ecirc;nio entre os japoneses ateus, n&atilde;o&#63;</p></p>
+<p><p>Lynn &ndash; N&atilde;o. Os asi&aacute;ticos t&ecirc;m Q.I. alto, mas s&atilde;o um grupo mais homog&ecirc;neo. H&aacute; menos extremos positivos e negativos. Eu n&atilde;o diria que &eacute; mais f&aacute;cil nem mais dif&iacute;cil. Na verdade, n&atilde;o sei. Os g&ecirc;nios aparecem em todos os povos, em todos os pa&iacute;ses, mas &eacute; dif&iacute;cil medi-los. E n&atilde;o &eacute; porque se &eacute; religioso que se &eacute; menos inteligente. Mas h&aacute; uma tend&ecirc;ncia de encontrar Q.I. mais alto em pessoas n&atilde;o-religiosas. Em minha opini&atilde;o, isso acontece porque a intelig&ecirc;ncia aprimorada leva ao questionamento da religi&atilde;o.</p></p>
+<p><p>H&aacute; outras habilidades relacionadas ao sucesso profissional e &agrave; felicidade, al&eacute;m do Q.I.&#63;</p></p>
+<p><p>Lynn &ndash; Os testes de Q.I. n&atilde;o devem ser tomados como a coisa mais importante da vida. H&aacute; muito de cultural nesses testes. E isso se reflete no mau desempenho de tribos rurais. H&aacute; tamb&eacute;m a t&atilde;o alardeada intelig&ecirc;ncia emocional e uma s&eacute;rie de caracter&iacute;sticas sociais que geram vantagem nos tempos modernos. Mas insisto que o Q.I. &eacute; um item fundamental para medir a intelig&ecirc;ncia de uma pessoa.</p></p>
+<p><p>Que outras conclus&otilde;es podemos tirar a partir do teste de Q.I.&#63;</p></p>
+<p><p>Lynn &ndash; In&uacute;meras. &Eacute; uma &aacute;rea de estudos muito produtiva hoje em dia. Acredita-se que pessoas com Q.I. elevado tenham menores &iacute;ndices de mortalidade e menos doen&ccedil;as gen&eacute;ticas. Aparentemente, h&aacute; uma rela&ccedil;&atilde;o forte entre sa&uacute;de e Q.I. alto. Os indiv&iacute;duos mais inteligentes tamb&eacute;m apresentam menos risco de sofrer de depress&atilde;o, estresse p&oacute;s-traum&aacute;tico e esquizofrenia.</p></p>
+<p><p>Qual &eacute; seu Q.I.&#63;</p></p>
+<p><p>Lynn &ndash; Meu Q.I. &eacute; 145 (Lynn seria superdotado de acordo com a escala mais popular de Q.I. ). &Eacute; um n&uacute;mero alto, eu sei, mas n&atilde;o destoa entre os colegas da academia. H&aacute; Q.I.s mais altos que o meu na Academia de Ci&ecirc;ncias dos EUA. Mas l&aacute; tamb&eacute;m vale a regra. O n&uacute;mero de ateus chega a 70%.</p></p>
+<p><p>Como o senhor v&ecirc; o papel da religi&atilde;o na sociedade&#63;</p></p>
+<p><p>Lynn &ndash; A religi&atilde;o &eacute; um instinto, o homem primitivo tem cren&ccedil;a religiosa e isso, por algumas raz&otilde;es, se manteve at&eacute; hoje. Mas, acredito, somos capazes de superar isso com a raz&atilde;o.</p> </p>
+{% endraw %}

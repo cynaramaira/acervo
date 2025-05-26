@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>G1</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Pela segunda vez consecutiva, a imprensa ficou de fora de um evento do presidente Luiz Inácio Lula da Silva. </FONT></P></p>
 <p><P><FONT face=Verdana>Depois de a crise do dossiê chegar ao Palácio do Planalto e à campanha de reeleição, os eventos tiveram acesso limitado apenas aos cinegrafistas e fotógrafos.</FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>Os assessores do presidente, seja no Palácio ou na campanha, tentam evitar que os repórteres façam perguntas diretas a Lula sobre o envolvimento do PT no dossiê para incriminar o tucano José Serra à máfia das ambulâncias.</FONT></P></p>
 <p><P><FONT face=Verdana>(...)</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <A href=\"https://g1.globo.com/Noticias/Politica/0,,AA1280147-5601,00.html\" target=_blank><EM><STRONG>aqui</STRONG></EM></A>.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

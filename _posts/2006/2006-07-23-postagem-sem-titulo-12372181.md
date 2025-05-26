@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><STRONG>\"Queria ser reitor para ser chamado de magn?fico\"</STRONG></P></p>
 <p><P>Luiz Inácio Lula da Silva, em reunião com intelectuais, agora há pouco, em Olinda</P> </p>
-{\% endraw %}
+{% endraw %}

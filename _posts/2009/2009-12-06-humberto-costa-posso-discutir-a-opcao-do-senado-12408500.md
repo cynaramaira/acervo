@@ -1,0 +1,79 @@
+---
+id: 12408500
+date: "2009-12-06T16:57:00Z"
+last_modified_at: null
+tags:
+  - "humberto-costa"
+  - "senado"
+categories:
+  - "opiniao"
+title: "Humberto Costa: 'Posso discutir a op\u00e7\u00e3o do Senado'"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><span style="font-size: smaller;"><img height="348" width="520" src="https://jc3.uol.com.br/blogs/repositorio/AS060809012(1).jpg" alt="" /><br /></p>
+<p>(Foto: Alexandre Severo / JC Imagem)</span><br /></p>
+<p><br /></p>
+<p>Por <a href="mailto:smontenegro@jc.com.br">S&eacute;rgio Montenegro Filho</a>, de Pol&iacute;tica /JC <br /></p>
+<p><br /></p>
+<p>Quem pensa que o cargo no primeiro escal&atilde;o estadual toma todas as aten&ccedil;&otilde;es do petista Humberto Costa, est&aacute; enganado. Embora empenhado nos projetos da Secretaria das Cidades &ndash; que, de quebra, lhe garantem boa visibilidade pol&iacute;tica no Estado &ndash; ele n&atilde;o tira o olho da corrida eleitoral de 2010, nem descuida do mapeamento de espa&ccedil;os no PT. Seu grupo, o Construindo um Novo Brasil (CNB), venceu as elei&ccedil;&otilde;es internas e manteve a hegemonia na legenda. <br /></p>
+<p><br /></p>
+<p>Mas a queda de bra&ccedil;o com a corrente do ex-prefeito Jo&atilde;o Paulo &ndash; o Campo de Esquerda Unificado (CEU) &ndash; continua. Tanto que, nesta entrevista ao JC, Humberto manda v&aacute;rios recados aos rivais. <br /></p>
+<p><br /></p>
+<p>Avisa que levar&aacute; &agrave; comiss&atilde;o de &eacute;tica do PT as den&uacute;ncias &ldquo;infundadas&rdquo; das quais diz ter sido v&iacute;tima durante o Processo de Elei&ccedil;&otilde;es Diretas (PED) no partido, acusa o CEU de promover a disc&oacute;rdia na sigla, e vai al&eacute;m: embora afirme que o mais importante n&atilde;o &eacute; o PT disputar o Senado, mas sim ajudar a consolidar a elei&ccedil;&atilde;o de Dilma Rousseff para presidente e a reelei&ccedil;&atilde;o do governador Eduardo Campos (PSB), ele admite que, se for &ldquo;convocado&rdquo;, pode sim discutir a hip&oacute;tese de assumir uma vaga na chapa majorit&aacute;ria governista.<br /></p>
+<p><br /></p>
+<p>JC &ndash; Depois de tantas brigas e com o clima de acirramento predominante entre as correntes, qual a sua perspectiva de futuro para o PT&#63;<br /></p>
+<p><br /></p>
+<p>HUMBERTO COSTA &ndash; &Eacute; uma perspectiva positiva. Tivemos uma participa&ccedil;&atilde;o grande no PED, 30 mil pessoas no Estado votaram. O resultado &eacute; inquestion&aacute;vel, at&eacute; pela margem. Ganhamos o diret&oacute;rio estadual com mais de 50%, temos maioria sozinhos, ganhamos a elei&ccedil;&atilde;o para presidente do partido com uma diferen&ccedil;a de 4.200 votos. Politicamente, o PT continua sendo um ator importante no Estado. Seja por nossa boa administra&ccedil;&atilde;o na Prefeitura do Recife, que &eacute; nossa principal vitrine, e tamb&eacute;m nas outras prefeituras, seja pelo desempenho dos nossos parlamentares, e seja pelo trabalho no governo Eduardo Campos, que o PT tem feito.<br /></p>
+<p><br /></p>
+<p>JC &ndash; Vai haver mesmo briga nas inst&acirc;ncias nacionais e na Justi&ccedil;a, ou h&aacute; chances de se contornar o confronto no Estado&#63;<br /></p>
+<p><br /></p>
+<p>HUMBERTO &ndash; N&oacute;s tamb&eacute;m recebemos v&aacute;rias den&uacute;ncias. A nossa diferen&ccedil;a para esse pessoal &eacute; que n&atilde;o vamos aos jornais fazer acusa&ccedil;&otilde;es sem provas. Isso &eacute; grav&iacute;ssimo. Por exemplo, no epis&oacute;dio em que Fernando Ferro disse que havia uso da m&aacute;quina, que no dia do PED tinha umas kombis colocando gasolina num posto que tinha conv&ecirc;nio com a secretaria (das Cidades). Esse tipo de conv&ecirc;nio h&aacute; muito tempo n&atilde;o existe. A gente bota gasolina com um cart&atilde;o que tem um chip vinculado ao carro. N&atilde;o h&aacute; possibilidade de usar o dinheiro da secretaria para isso. Vamos levar essas coisas &agrave; Comiss&atilde;o de &Eacute;tica porque entendemos que esse tipo de den&uacute;ncia termina desgastando a imagem do partido. J&aacute; as den&uacute;ncias que recebemos contra eles, apresentamos aos diret&oacute;rios municipal, estadual e nacional. A diferen&ccedil;a &eacute; que eles v&atilde;o &agrave; imprensa com acusa&ccedil;&otilde;es sem comprova&ccedil;&atilde;o, e n&oacute;s levamos as coisas ao partido e &agrave; Justi&ccedil;a.<br /></p>
+<p><br /></p>
+<p>JC &ndash; &Eacute; poss&iacute;vel retomar o di&aacute;logo e construir uma unidade para 2010 no partido&#63; Quem tem que tomar a iniciativa&#63;<br /></p>
+<p><br /></p>
+<p>HUMBERTO &ndash; Acredito que sim, at&eacute; porque tivemos brigas muito mais pesadas que essas e o partido conseguiu se unir. Em 1998, por exemplo, na defini&ccedil;&atilde;o de apoio a Miguel Arraes, no N&aacute;utico, terminou numa briga que voou cadeira e tudo. Em 2000, estivemos juntos apoiando a candidatura de Jo&atilde;o Paulo e ganhamos as elei&ccedil;&otilde;es. Eu diria que nosso grupo tem muito mais esp&iacute;rito partid&aacute;rio que outros companheiros do PT, que &agrave;s vezes, num embate eleitoral, n&atilde;o t&ecirc;m um empenho num candidato que n&atilde;o seja ligado a eles.<br /></p>
+<p><br /></p>
+<p>JC &ndash; Petistas mais antigos, que ajudaram a construir o partido, afirmam que o PT deixou de lado as discuss&otilde;es ideol&oacute;gicas e partiu para a briga por poder. O senhor concorda com essa tese&#63;<br /></p>
+<p><br /></p>
+<p>HUMBERTO &ndash; &Eacute; &oacute;bvio que h&aacute; diferentes concep&ccedil;&otilde;es pol&iacute;ticas e ideol&oacute;gicas no PT. Aqui, o que nos opunha historicamente ao CEU era a pol&iacute;tica de alian&ccedil;as. Sempre fomos defensores da Frente Popular, brigamos para apoiar Arraes em mais de um epis&oacute;dio. Em 1996, renunciei &agrave; minha candidatura a prefeito porque o partido impediu que eu fizesse uma coliga&ccedil;&atilde;o mais ampla. Essas diverg&ecirc;ncias t&ecirc;m como fundo concep&ccedil;&otilde;es ideol&oacute;gicas, que n&atilde;o deixaram de existir. Mas reconhe&ccedil;o que, hoje em dia, a disputa por espa&ccedil;o pol&iacute;tico termina se sobrepondo &agrave;s quest&otilde;es partid&aacute;rias. E isso est&aacute; enfraquecendo o PT. Imagine se todos estiv&eacute;ssemos unidos, Jo&atilde;o Paulo, Jo&atilde;o da Costa, nosso grupo. Ter&iacute;amos muito mais poder para exercer influ&ecirc;ncia no Estado.<br /></p>
+<p><br /></p>
+<p>JC &ndash; Como fica a rela&ccedil;&atilde;o entre CNB e CEU no Estado a menos de um ano das elei&ccedil;&otilde;es&#63;<br /></p>
+<p><br /></p>
+<p>HUMBERTO &ndash; N&oacute;s n&atilde;o estamos intrigados de ningu&eacute;m. Tentamos fazer pol&iacute;tica com racionalidade, com a cabe&ccedil;a e n&atilde;o com o f&iacute;gado, mesmo tendo sido caluniados. Sabemos que o partido est&aacute; acima disso. Vamos tentar o caminho da unidade. &Oacute;bvio que &eacute; preciso deixar a poeira sentar, mas vamos tentar retomar o di&aacute;logo com Jo&atilde;o Paulo, Jo&atilde;o da Costa, e pensar o futuro do PT.<br /></p>
+<p><br /></p>
+<p>JC &ndash; O senhor relaciona a decis&atilde;o de Jo&atilde;o Paulo de entregar a secretaria com uma tentativa de se desvencilhar do controle do governador Eduardo Campos&#63; Ou foi mesmo uma disputa pol&iacute;tica com Fernando Bezerra Coelho&#63;<br /></p>
+<p><br /></p>
+<p>HUMBERTO &ndash; S&oacute; posso julgar pelo que Jo&atilde;o Paulo disse, que sa&iacute;a por raz&otilde;es de ordem pessoal. E quando algu&eacute;m usa isso como argumento, n&atilde;o h&aacute; como se contestar ou julgar. Eu tive oportunidade de falar com ele dois dias antes, e ele me falou que estava pensando em sair do governo, mas n&atilde;o apresentou a raz&atilde;o. Apenas ponderei que seria ruim para o PT, mas respeito as raz&otilde;es dele. N&atilde;o tenho como avaliar.<br /></p>
+<p><br /></p>
+<p>JC &ndash; O ex-prefeito Jo&atilde;o Paulo diz que a candidatura dele ao Senado est&aacute; descartada, porque o CNB advertiu que quem vai escolher o nome &eacute; a corrente majorit&aacute;ria no partido. Afinal, quem decidir&aacute; o nome do candidato majorit&aacute;rio&#63;<br /></p>
+<p><br /></p>
+<p>HUMBERTO &ndash; Quem vai decidir, primeiro, &eacute; o partido, que est&aacute; organizado e vai dar uma palavra. Mas vamos ouvir todos os partidos da Frente Popular, o governador, o PT nacional, o pr&oacute;prio Lula e Dilma. N&atilde;o vai ser uma decis&atilde;o solit&aacute;ria. Ao contr&aacute;rio, nossa corrente se pauta sempre por n&atilde;o amesquinhar o processo no PT. N&oacute;s apoiamos Jo&atilde;o Paulo em 1996, em 2000, em 2004. Abrimos m&atilde;o de pr&eacute;vias em 2008 e marchamos com Jo&atilde;o da Costa. N&atilde;o seria diferente agora. N&atilde;o h&aacute; isso de que o CNB &eacute; quem vai decidir. At&eacute; porque a candidatura &eacute; um detalhe. O importante &eacute; o projeto, que envolve a elei&ccedil;&atilde;o de Dilma e de Eduardo Campos. Quem vai representar o PT na chapa majorit&aacute;ria n&atilde;o pode ser algu&eacute;m imposto, tem que ter espa&ccedil;o na sociedade, entre os aliados. Tem que somar.<br /></p>
+<p><br /></p>
+<p>JC &ndash; Jo&atilde;o Paulo desistiu de brigar pela indica&ccedil;&atilde;o argumentando que n&atilde;o tem chances de ser indicado. E no momento seguinte, prop&ocirc;s seu nome para o Senado. O senhor est&aacute; disposto a entrar na disputa&#63; O que levou seu correligion&aacute;rio a levantar essa proposta&#63;<br /></p>
+<p><br /></p>
+<p>HUMBERTO &ndash; Em nenhum momento me apresentei como candidato a senador, por essas raz&otilde;es que eu falei. Estou me preparando para ser candidato a deputado federal, estou buscando apoios para isso, construindo isso de forma a n&atilde;o gerar nenhum constrangimento para o governo. Mas da mesma forma que, em outros momentos, eu n&atilde;o fugi de uma convoca&ccedil;&atilde;o do PT, se mais &agrave; frente o partido, o governador, a Frente Popular ou Lula entenderem que meu nome pode contribuir nesse processo, posso discutir a hip&oacute;tese. Mas eu nem lancei meu nome como senador nem renunciei a nada.<br /></p>
+<p><br /></p>
+<p>JC &ndash; H&aacute; quem afirme que o senhor tem agido como quem pretende disputar uma elei&ccedil;&atilde;o majorit&aacute;ria, acompanhando o governador pelo Estado, inaugurando obras da sua pasta. As Academias da Cidade, por exemplo, s&atilde;o obras de grande visibilidade pol&iacute;tica...<br /></p>
+<p><br /></p>
+<p>HUMBERTO &ndash; Da mesma forma como trabalhei no governo Lula, trabalho no governo Eduardo Campos. No caso de Lula &eacute;ramos todos do PT, mas no caso de Eduardo, que &eacute; de outro partido, minha dedica&ccedil;&atilde;o &eacute; ainda maior. A Academia da Cidade, constru&ccedil;&atilde;o de moradias, PAC, CNH Popular, tudo isso &eacute; a&ccedil;&atilde;o do governo e melhora a imagem do governo. Se indiretamente isso pode me ajudar, pode ser como candidato a deputado. O fato de eu viajar com o governador, tentar construir a&ccedil;&otilde;es em todos os lugares n&atilde;o quer dizer que eu esteja almejando uma candidatura majorit&aacute;ria.<br /></p>
+<p><br /></p>
+<p>JC &ndash; Aliados seus afirmam, nos bastidores, que no caso de uma decis&atilde;o da Justi&ccedil;a em seu favor, o absolvendo no caso da M&aacute;fia dos Vampiros, o senhor poderia estar mais pr&oacute;ximo de uma majorit&aacute;ria. Existe essa rela&ccedil;&atilde;o&#63;<br /></p>
+<p><br /></p>
+<p>HUMBERTO &ndash; Eu n&atilde;o estou preocupado com isso. At&eacute; porque, n&atilde;o acredito que em Pernambuco algu&eacute;m tenha acreditado que aquilo fosse uma coisa s&eacute;ria. Foi colocado no per&iacute;odo eleitoral e, passada a elei&ccedil;&atilde;o, meus acusadores n&atilde;o continuam a repetir isso. E judicialmente eu j&aacute; obtive v&aacute;rias repara&ccedil;&otilde;es. Foi o caso do DEM, e agora do PTN, com quem estamos fechando um acordo para eles se retratarem da utiliza&ccedil;&atilde;o daquele epis&oacute;dio. H&aacute; outros que estou processando e que com certeza terei um resultado positivo muito breve. Al&eacute;m do mais n&atilde;o estou preocupado porque em nenhum momento eu me lancei candidato majorit&aacute;rio. O processo judicial &eacute; uma repara&ccedil;&atilde;o que quero que seja feita diante da sociedade. Quero provar ao povo que n&atilde;o me envolvi em nenhum ato de corrup&ccedil;&atilde;o.<br /></p>
+<p><br /></p>
+<p>JC &ndash; Com a perspectiva de lan&ccedil;amento de dois candidatos governistas &agrave; Presid&ecirc;ncia da Rep&uacute;blica, colocando em palanques diferentes o PT e o PSB, como fica a alian&ccedil;a entre petistas e socialistas no Estado&#63; &Eacute; poss&iacute;vel manter um s&oacute; palanque&#63;<br /></p>
+<p><br /></p>
+<p>HUMBERTO &ndash; N&atilde;o acredito nem em dois palanques em n&iacute;vel nacional. Tudo que Eduardo Campos tem dito, al&eacute;m da conversa que tive com Ciro Gomes no Sert&atilde;o, indicam que essa candidatura dele s&oacute; vai prosperar se for interessante para o nosso projeto. Para dar continuidade ao projeto do governo Lula. Mas se o entendimento &eacute; de que ela venha a criar dificuldades, ela n&atilde;o acontecer&aacute;. E se acontecer, ser&aacute; t&atilde;o negociada que aqui em Pernambuco n&atilde;o vamos estar obrigados a ter uma candidatura do PT a governador. O PT teve um papel fundamental na elei&ccedil;&atilde;o de Eduardo Campos no segundo turno, para que ele vencesse com a margem que ele venceu. E dentro do governo temos contribu&iacute;do para a gest&atilde;o dar certo. Temos nos colocado de uma forma que a nossa lealdade &eacute; inquestion&aacute;vel. O PT, pelo fato de ter grandes lideran&ccedil;as, pode contribuir para um bom resultado em 2010. Por que raz&atilde;o ter&iacute;amos uma disputa na esquerda&#63; Ter duas candidaturas aqui seria algo artificial, n&atilde;o seria uma estrat&eacute;gia ditada pela pol&iacute;tica.<br /></p>
+<p><br /></p>
+<p>JC &ndash; Caso Jo&atilde;o Paulo decida ser candidato a deputado federal, existe a possibilidade de o PT formar uma chapinha, podendo repetir o que Miguel Arraes fez em 1990, quando elegeu mais cinco parlamentares&#63;<br /></p>
+<p><br /></p>
+<p>HUMBERTO &ndash; Ningu&eacute;m descartou a candidatura de Jo&atilde;o Paulo a um cargo majorit&aacute;rio. A nossa vit&oacute;ria no PED n&atilde;o elimina ningu&eacute;m. Vai fazer com que a discuss&atilde;o aconte&ccedil;a dentro de um contexto pol&iacute;tico. Acho que o PT dever&aacute; ter espa&ccedil;o na chapa majorit&aacute;ria, at&eacute; por um reconhecimento da Frente Popular. E a nossa contribui&ccedil;&atilde;o para a continuidade do projeto tem que ser ampla e generosa. O melhor caminho &eacute; o PT estar com os outros partidos em uma ou duas grandes chapas proporcionais. L&oacute;gico que n&atilde;o decido pelo partido, mas n&atilde;o vejo nenhum desenho em que o PT tivesse como sair em uma chapinha.<br /></p>
+<p><br /></p>
+<p>JC &ndash; O senhor tem falado muito no nome do prefeito Jo&atilde;o da Costa, que nem &eacute; do seu grupo. Ele j&aacute; est&aacute; firmado como lideran&ccedil;a do PT ou o senhor est&aacute; dando impulso a isso&#63;<br /></p>
+<p><br /></p>
+<p>HUMBERTO &ndash; Vejo Jo&atilde;o da Costa como uma lideran&ccedil;a real. Um prefeito de uma capital como o Recife de forma alguma &eacute; uma lideran&ccedil;a secund&aacute;ria. Depois, seria muito bom para o PT se pud&eacute;ssemos quebrar essa polariza&ccedil;&atilde;o que a imprensa cristalizou. Vejo Jo&atilde;o da Costa como um interlocutor a mais no partido, mas n&atilde;o temos nenhum desejo de coopta&ccedil;&atilde;o. Queremos que o PT seja plural, que essa polariza&ccedil;&atilde;o seja esquecida e que surjam novas lideran&ccedil;as.</p> </p>
+{% endraw %}

@@ -1,0 +1,30 @@
+---
+id: 12404088
+date: "2009-07-29T11:56:00Z"
+last_modified_at: null
+tags:
+  - "contas-externas"
+  - "fundacao-renova"
+  - "ministerio"
+categories:
+  - "noticias"
+title: "Minist\u00e9rio P\u00fablico reprova contas da Funda\u00e7\u00e3o Sarney e decide intervir"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Deu no Estad&atilde;o</p></p>
+<p><p>O Minist&eacute;rio P&uacute;blico Estadual do Maranh&atilde;o reprovou as contas apresentadas pela Funda&ccedil;&atilde;o Jos&eacute; Sarney entre 2004 e 2007 e decidiu intervir na entidade, que tem como presidente vital&iacute;cio o senador Jos&eacute; Sarney (PMDB-AP). Auditoria nas presta&ccedil;&otilde;es de contas descobriu at&eacute; que parte da verba repassada &agrave; funda&ccedil;&atilde;o pela Petrobr&aacute;s acabou virando investimento: foi parar em aplica&ccedil;&otilde;es banc&aacute;rias. Por causa das irregularidades, o Minist&eacute;rio P&uacute;blico vai indicar representantes para o conselho curador e para a diretoria executiva da funda&ccedil;&atilde;o.</p></p>
+<p><p>Ao Estado, a promotora Sandra Mendes Alves Elouf, titular da Promotoria Especializada em Funda&ccedil;&otilde;es e Entidades de Interesse Social de S&atilde;o Lu&iacute;s, afirmou que a decis&atilde;o tem por base as irregularidades detectadas pela auditoria. Encarregado de fiscalizar as funda&ccedil;&otilde;es com sede em S&atilde;o Lu&iacute;s, o &oacute;rg&atilde;o iniciou a auditoria ano passado.</p></p>
+<p><p>Por quase um m&ecirc;s, auditores do Minist&eacute;rio P&uacute;blico se debru&ccedil;aram sobre as presta&ccedil;&otilde;es da contas da funda&ccedil;&atilde;o. Na segunda-feira, o Di&aacute;rio Oficial do Maranh&atilde;o publicou o resultado, com a reprova&ccedil;&atilde;o das contas. O relat&oacute;rio dos auditores aponta desvio de finalidade na aplica&ccedil;&atilde;o dos recursos que a funda&ccedil;&atilde;o recebeu de &oacute;rg&atilde;os p&uacute;blicos e empresas privadas.</p></p>
+<p><p>Dentre os valores auditados est&aacute; o contrato de patroc&iacute;nio de R$ 1,3 milh&atilde;o repassado &agrave; Funda&ccedil;&atilde;o Sarney pela Petrobr&aacute;s. Conforme revelou o Estado, R$ 500 mil foram parar em contas de firmas fantasmas, em nome de aliados pol&iacute;ticos da fam&iacute;lia Sarney, e em empresas do cl&atilde;. A auditoria incluiu, ainda, recursos que a funda&ccedil;&atilde;o recebeu da Secretaria de Cultura do Maranh&atilde;o e, indiretamente, da Companhia Vale do Rio Doce.</p></p>
+<p><p>O relat&oacute;rio fala em triangula&ccedil;&atilde;o de recursos entre a Funda&ccedil;&atilde;o Jos&eacute; Sarney e outra entidade comandada por aliados da fam&iacute;lia, a Associa&ccedil;&atilde;o do Bom Menino das Merc&ecirc;s (Abom). &Eacute; o caso, por exemplo, do patroc&iacute;nio que a Abom recebeu da Vale para custear um festival de quadrilhas no Convento das Merc&ecirc;s, pr&eacute;dio hist&oacute;rico de S&atilde;o Lu&iacute;s que serve de sede &agrave; funda&ccedil;&atilde;o - o dinheiro entrou na conta da associa&ccedil;&atilde;o e, em seguida, foi repassado para a funda&ccedil;&atilde;o.</p></p>
+<p><p>A Abom justifica o repasse como pagamento de aluguel pelo uso das instala&ccedil;&otilde;es do convento. O que chamou aten&ccedil;&atilde;o dos analistas, por&eacute;m, foi que no mesmo per&iacute;odo houve movimento de recursos no sentido inverso - da Funda&ccedil;&atilde;o Sarney para as contas da Abom. &quot;Al&eacute;m da triangula&ccedil;&atilde;o, constatamos que recursos recebidos pela funda&ccedil;&atilde;o acabaram desviados para outras finalidades, como pagamento de pessoal&quot;, disse a promotora.</p></p>
+<p><p>Com base nas irregularidades, Sandra poderia solicitar at&eacute; a extin&ccedil;&atilde;o da funda&ccedil;&atilde;o, mas optou pela interven&ccedil;&atilde;o. &quot;Na minha avalia&ccedil;&atilde;o, a entidade tem condi&ccedil;&otilde;es de sobrevida. Para isso, basta remover os administradores&quot;, disse. A promotora afirmou que a interven&ccedil;&atilde;o se dar&aacute; no conselho curador e na diretoria executiva da funda&ccedil;&atilde;o. Ambos s&atilde;o hoje ocupados por amigos e aliados de Sarney. Num primeiro momento, disse a promotora, o Minist&eacute;rio P&uacute;blico tentar&aacute; fazer a interven&ccedil;&atilde;o administrativa. Se houver resist&ecirc;ncia do atual comando da entidade, pedir&aacute; a interven&ccedil;&atilde;o judicialmente.</p></p>
+<p><p>&quot;Foi a melhor sa&iacute;da que encontramos&quot;, afirmou Sandra. &quot;A extin&ccedil;&atilde;o seria como se estiv&eacute;ssemos premiando os respons&aacute;veis pela funda&ccedil;&atilde;o, que recebeu dinheiro p&uacute;blico.&quot; Pelo estatuto da funda&ccedil;&atilde;o, em caso de extin&ccedil;&atilde;o todos os bens da entidade deveriam ser incorporados ao patrim&ocirc;nio de Sarney.</p></p>
+<p><p>As irregularidades nas contas da funda&ccedil;&atilde;o n&atilde;o s&atilde;o o &uacute;nico problema que a entidade tem. Desde o ano passado, o Minist&eacute;rio P&uacute;blico tenta propor mudan&ccedil;as no estatuto da funda&ccedil;&atilde;o. Sem sucesso. Uma das raz&otilde;es da cr&iacute;tica da promotoria estava justamente nos itens do estatuto que p&otilde;em a funda&ccedil;&atilde;o como extens&atilde;o do patrim&ocirc;nio da fam&iacute;lia Sarney. &quot;Tem de haver oxigena&ccedil;&atilde;o nas funda&ccedil;&otilde;es. N&atilde;o se pode confundir a figura do instituidor com a funda&ccedil;&atilde;o.&quot;</p></p>
+<p><p>Em resposta &agrave; minuta encaminhada pelo Minist&eacute;rio P&uacute;blico com as sugest&otilde;es de mudan&ccedil;a no estatuto, a funda&ccedil;&atilde;o enviou outra minuta, em que concordava em retirar os poderes de Sarney, mas estabelecia que a entidade seria controlada por um &quot;conselho honor&aacute;rio&quot;, indicado pela fam&iacute;lia do senador. O Minist&eacute;rio P&uacute;blico recusou.</p></p>
+<p><p>Agora, com a interven&ccedil;&atilde;o, a promotora acredita que ser&aacute; poss&iacute;vel promover as mudan&ccedil;as. &quot;A proposta que apresentaram seria como trocar 12 por uma d&uacute;zia.&quot;</p> </p>
+{% endraw %}

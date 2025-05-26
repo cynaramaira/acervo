@@ -14,6 +14,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Já bateram em Mendonça e no governo do Estado: Humberto Costa, Clóvis Corrêa e Ed?lson Silva. Os dois últimos numa dobradinha.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

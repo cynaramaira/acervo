@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por </FONT><FONT face=Verdana><STRONG>Ana Lúcia Andrade<BR></STRONG>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>Representante da aliança em duas disputas pela Prefeitura do Recife (2000 e 2004), o deputado federal Roberto Magalhães (PFL) não aposta na permanência do grupo após a derrota ao governo do Estado. </FONT></P></p>
 <p><P><FONT face=Verdana>Em entrevista ao JC, por telefone, ele observa um ambiente muito mais de \"dispersão\" do que de \"união\". Magalhães recente-se de um certo abandono da aliança para com sua reeleição e atesta: \"Não sei até onde a aliança me ajudou\". </FONT></P></p>
@@ -39,4 +39,4 @@ imagem: null
 <p><P></P></p>
 <p><P><FONT face=Verdana>\"Mendonça provou que foi um bom candidato. Era quem mais conhecia Pernambuco e a máquina estadual, o que é natural que assim fosse. Mostrou que está à altura de um cargo majoritário. Foi bravo, teve uma coisa que é terr?vel que é ter contra si sucessivas pesquisas (contrárias) mas não esmoreceu, lutou até o final. Ele sai bem maior politicamente do que entrou: mais conhecido, sai como um candidato que não se intimidou e que lutou até o último minuto. E o fundamental, é jovem, isso é importante para ter tempo\".</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/11/04/can_9.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

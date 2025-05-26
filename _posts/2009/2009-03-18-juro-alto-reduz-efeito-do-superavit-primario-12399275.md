@@ -1,0 +1,29 @@
+---
+id: 12399275
+date: "2009-03-18T08:18:50Z"
+last_modified_at: null
+tags:
+  - "juros"
+  - "prefeito"
+  - "superavit-primario"
+categories:
+  - "noticias"
+title: "Juro alto reduz efeito do super\u00e1vit prim\u00e1rio "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Silvio Peccioli</p></p>
+<p><p>Foi um tanto negativo para os 5.564 munic&iacute;pios brasileiros o recente an&uacute;ncio do Governo Federal de que, devido &agrave; crise financeira, seriam cortados mais R$ 37,2 bilh&otilde;es no Or&ccedil;amento Geral da Uni&atilde;o em 2009. Para algumas cidades, em especial as que arrecadam pouco com o IPTU e ISS, as perdas s&atilde;o significativas, em especial nas &aacute;reas do fomento econ&ocirc;mico, esportes e cultura. A decis&atilde;o, &eacute; preciso lembrar, soma-se a um esfor&ccedil;o imenso das prefeituras, em 2008, no sentido de contribuir para o estabelecimento do super&aacute;vit prim&aacute;rio recorde do setor p&uacute;blico nacional, de R$ 118 bilh&otilde;es.</p></p>
+<p><p>Com esses recursos, equivalentes a 4,07% do PIB, Governo Federal, estados e munic&iacute;pios t&ecirc;m, em tese, melhores condi&ccedil;&otilde;es para pagar os exorbitantes juros da imensa d&iacute;vida p&uacute;blica, que se aproxima de R$ 1,4 trilh&atilde;o. Segundo dados do Banco Central, a Uni&atilde;o contribuiu com R$ 71,3 bilh&otilde;es. Os estados e munic&iacute;pios arcaram com R$ 30,5 bilh&otilde;es e as estatais, 16 bilh&otilde;es. Expressivo, portanto, o resultado do esfor&ccedil;o das unidades federativas, em especial se considerarmos que a maior fatia do bolo da receita tribut&aacute;ria &eacute; abocanhada por Bras&iacute;lia.</p></p>
+<p><p>Analisando o outro lado da moeda nesse processo de redu&ccedil;&atilde;o dos recursos municipais (seja pelo esfor&ccedil;o em prol do super&aacute;vit prim&aacute;rio ou pelos cortes nos repasses federais), trata-se de algo saud&aacute;vel em termos fiscais, principalmente numa conjuntura de crise como a atual. Nestas circunst&acirc;ncias, cabe aos gestores do setor p&uacute;blico multiplicar o empenho no sentido de reduzir despesas, ante uma previs&iacute;vel queda da arrecada&ccedil;&atilde;o.</p></p>
+<p><p>Feita a ressalva, &eacute; preciso questionar, por&eacute;m, se o Pa&iacute;s n&atilde;o estaria fazendo esta li&ccedil;&atilde;o de casa de um modo burro. Explica-se: todo o esfor&ccedil;o fiscal, com n&uacute;meros absolutos bonitos de se ver (R$ 118 bilh&otilde;es de super&aacute;vit prim&aacute;rio!!!), &eacute; corro&iacute;do pela mais alta taxa de juros reais do mundo. Com a Selic a 12,75% ao ano, o servi&ccedil;o da d&iacute;vida torna-se um imenso sorvedouro do dinheiro p&uacute;blico. Na verdade, o que se est&aacute; fazendo &eacute; transferir ao sistema financeiro parte significativa dos impostos pagos pela sociedade.</p></p>
+<p><p>Seria muito oportuno, independentemente da necess&aacute;ria reforma tribut&aacute;ria, que os respons&aacute;veis pela pol&iacute;tica econ&ocirc;mica fizessem essa conta de chegar entre o que o setor p&uacute;blico tem poupado no esfor&ccedil;o fiscal em prol do super&aacute;vit prim&aacute;rio e o que despende no pagamento dos juros da d&iacute;vida. Nesta equa&ccedil;&atilde;o, obviamente, deve ser considerada, tamb&eacute;m, a prem&ecirc;ncia de se estimular os investimentos privados e o consumo, na luta contra a crise e o risco de recess&atilde;o. Na ponta do l&aacute;pis, com certeza, seria constatado o car&aacute;ter descabido desse c&iacute;rculo financeiro vicioso.</p></p>
+<p><p>N&atilde;o h&aacute; d&uacute;vidas quanto &agrave; necessidade de Uni&atilde;o, estados e munic&iacute;pios realizarem grande empenho fiscal neste momento de adversidades e incertezas. Entretanto, n&atilde;o &eacute; menos verdade que o investimento p&uacute;blico torna-se essencial para o est&iacute;mulo ao n&iacute;vel de atividade. Assim, o corte de despesas de custeio em favorecimento de investimentos capazes de fomentar a economia e atender de modo mais amplo &agrave;s prioridades sociais constitui-se em dever de prefeitos, governadores e presidente da Rep&uacute;blica. Esta &eacute; a atitude que se espera de pol&iacute;ticos eleitos pelo voto direto da popula&ccedil;&atilde;o para represent&aacute;-la na gest&atilde;o p&uacute;blica.</p></p>
+<p><p>A redu&ccedil;&atilde;o dos juros contribuiria muito para que todos, inclusive a pr&oacute;pria Uni&atilde;o, conseguissem cumprir de modo eficaz essa li&ccedil;&atilde;o de casa t&atilde;o essencial na presente conjuntura. N&atilde;o h&aacute; mais porque manter no Brasil as mais elevadas taxas do mundo, considerando que os &iacute;ndices inflacion&aacute;rios aproximam-se rapidamente do centro da meta. Ademais, a prioridade &eacute; mitigar a crise. Pois bem, n&atilde;o seria melhor conciliar esse objetivo crucial com uma substantiva redu&ccedil;&atilde;o do volume de dinheiro destinado ao servi&ccedil;o da d&iacute;vida, com a economia de recursos e a manuten&ccedil;&atilde;o de n&iacute;veis adequados de investimentos p&uacute;blicos&#63;</p></p>
+<p><p>Esta &eacute; a pergunta que, certamente, devem estar fazendo todos os prefeitos que percebem o significado do investimento p&uacute;blico nos munic&iacute;pios, onde o retorno &eacute; muito r&aacute;pido, vis&iacute;vel e eficaz como est&iacute;mulo &agrave; economia. Portanto, &eacute; urgente parar de enxugar - com a bem-vinda toalha do super&aacute;vit prim&aacute;rio - o gelo da d&iacute;vida estatal produzido pelos juros superlativos.</p></p>
+<p><p>PS:Silvio Peccioli, advogado, &eacute; o prefeito de Santana de Parna&iacute;ba (SP). <br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

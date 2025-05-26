@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Fernando Castilho</STRONG><BR>Colunista de Economia do JC</FONT></P></p>
 <p><P><FONT face=Verdana>É, mas eu vou votar no Lula.<BR><BR>Silva, amigo meu de quase 20 anos, casado, pai de um filho, ex-militante do velho PCB, encerra a conversa me sugerindo, irônico, a votar no Picolé de Chuchu quando lhe disse que a sociedade não poderia assinar um cheque em branco concordando, no primeiro turno, com tudo que vimos nos últimos dois anos.</FONT></P></p>
 <p><P><FONT face=Verdana>A conversa começou com a frustração comum de que, há quatro anos, o pa?s votara no Lula para, exatamente, fazer diferente. Por um Brasil decente, e que o problema não era a má qualidade da gestão, mas constatação de que a corrupção de baixa qualidade havia se \"democratizado\" e chegado a n?veis do sub-mundo e que chocava pela desfaçatez. <BR><BR>E, também, porque t?nhamos inaugurado um per?odo em que pessoas que passaram anos construindo uma imagem de seriedade no nosso inconsciente, agora falavam que o Governo apenas repetia o que os tucanos e o pefelê já faziam há décadas. E que a única diferença é que agora Policia Federal prendia figurões.</FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>O que não pode é o torcedor achar que não vale mais a pena ir a campo porque um dirigente pode ter comprado o juiz, o presidente da federação, emboçado o dinheiro da renda e o goleiro ter sido vendido ao time adversário porque parte da diretoria não quer que time ganhe porque pensa em disputar as eleições da agremiação na outra temporada.</FONT></P></p>
 <p><P><FONT face=Verdana>Quando a gente leva um filho para o campo está influenciando ele a torcer pelo mesmo time que nosso pai torcia. É educativo porque a gente está mostrando que o jogo tem um sentido de competição democrático. O filho pode até nem passar a torcer pelo time da gente. Mas tem que acreditar que é importante disputar o campeonato. Perder ou ganhar faz parte.</FONT></P></p>
 <p><P><FONT face=Verdana>O ruim é achar que porque um cartola decidiu subornar tudo mundo a gente vai achar isso normal. E as cores do time como ficam? Se a gente não se indignar e protestar na arquibancada e exigir seriedade. Se agente achar que é tudo normal, comprado e corruptivel, o dirigente ladrão vai querer ficar no time para sempre.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

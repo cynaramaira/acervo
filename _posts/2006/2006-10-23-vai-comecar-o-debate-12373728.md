@@ -12,6 +12,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana>Lula e Alckmin vão se apresentar agora e depois farão perguntas um ao outro.</FONT> </p>
-{\% endraw %}
+{% endraw %}

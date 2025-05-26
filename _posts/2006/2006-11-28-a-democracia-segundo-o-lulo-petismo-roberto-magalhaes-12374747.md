@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Roberto Magalhães</STRONG><BR>Deputado federal</FONT></P></p>
 <p><P><FONT face=Verdana><BR>O presidente Lu?s Inácio da Silva continua falando demais para quem é chefe de estado e de governo de uma nação. </FONT></P></p>
 <p><P><FONT face=Verdana>Agora, de forma preocupante. </FONT></P></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>Tudo isso torna cinzento e incerto o futuro em médio prazo do Brasil e revela como são frágeis as convicções democráticas daqueles que se diziam os arautos da liberdade, em tempos não muito distantes. </FONT></P></p>
 <p><P><FONT face=Verdana>Além dessas manifestações de autoritarismo e continu?smo, Marco Aurélio Garcia também investe contra a imprensa em declarações que se tornaram manchetes em vários jornais, afirmando que a m?dia contra Lula perdeu a eleição, e mais, que uma parte da imprensa hoje perdeu enormemente a credibilidade. </FONT></P></p>
 <p><P><FONT face=Verdana>É de se prever que a oposição parlamentar venha a se reduzir numericamente, pela cooptação do governo através da partilha do poder e do adesismo de muitos. Mas quanto menor ela seja, mais relevante será a sua luta contra o autoritarismo, o populismo e a arrogância.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

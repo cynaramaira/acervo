@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do <STRONG><EM><A href=\"https://blogdoalon.blogspot.com/\" target=_blank>blog</A></EM></STRONG> de Alon Feuerwerker</FONT></P></p>
 <p><P><FONT face=Verdana>O jornalista e blogueiro Josias de Souza tem a </FONT><FONT face=Verdana>coragem de abrir um debate saudável, sobre o que ele chama de irrelevância da m?dia. </FONT></P></p>
 <p><P><FONT face=Verdana>(...)</FONT></P></p>
@@ -21,4 +21,4 @@ imagem: null
 <p><P><FONT face=Verdana>Para entrar nessa discussão, eu diria que a m?dia não se tornou exatamente irrelevante, mas tem relevância apenas para um pedaço do público (e do eleitorado). </FONT></P></p>
 <p><P><FONT face=Verdana>Uma das razões é que lhe falta pluralismo. Vou usar o mesmo caso usado pelo Josias. </FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://blogdoalon.blogspot.com/\" target=_blank>aqui</A></EM></STRONG> o texto completo e o <STRONG><EM><A href=\"https://josiasdesouza.folha.blog.uol.com.br/\" target=_blank>blog</A></EM></STRONG> de Josias.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Da <STRONG>Agência Estado</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>As derrotas do senador Antonio Carlos Magalhães (PFL) na Bahia e do ex-presidente José Sarney - com sua filha Roseana - no Maranhão, nas últimas eleições, refletem </FONT><FONT face=Verdana>os choques entre o velho coronelismo e um eleitorado de cultura cada vez mais urbana, mas são conseqüência, também, do fenômeno eleitoral Luiz Inácio Lula da Silva. </FONT></P></p>
 <p><P><FONT</p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Pernambuco sempre teve um movimento de esquerda mais ativo, com a figura de Arraes. O autoritarismo no interior subsiste?<BR></STRONG>JA - E</FONT><FONT face=Verdana>m Pernambuco os traços do coronelismo foram desaparecendo por causa da esquerda, que sempre trabalhou com frentes e ia procurar dissidentes nas áreas rurais. Miguel Arraes fez isso por muito tempo. Mas ele não conseguiu dar um salto, pois retomou os métodos de clientela dos coronéis. Deu-lhes um verniz ideológico, mas eram projetos t?picos do clientelismo. </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>É diferente em outros Estados?<BR></STRONG>JA - </FONT><FONT face=Verdana>O Ceará tem de tudo, grandes centros urbanos e áreas de muita pobreza. Mas o que fez Tasso Jereissati, presidente nacional do PSDB, ex-governador? Ele abandonou o seu candidato no Estado para apoiar o do partido que é seu adversário no plano nacional. É a submissão ao poder de mando local. No Rio Grande do Norte é mais conjuntural. Tanto Garibaldi Alves (PMDB) como Wilma de Faria (PSB) pertencem a fam?lias com força no eleitorado urbano e têm um pé nas hierarquias rurais. O que definiu foi o apoio de Lula.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Onde entra, nesse cenário, o Bolsa-Fam?lia?<BR></STRONG>JA - </FONT><FONT face=Verdana>Dá mais autonomia ao eleitor em relação ao chefete local. O cartão, que é sua fonte de sustento, vem de uma relação com um banco. Mas o cadastramento é feito pelos prefeitos e o governo Lula fez ponte direta com eles. No governo FHC eram utilizados para o Peti (Programa de Erradicação do Trabalho Infantil) e o Bolsa-Escola os canais institucionais.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

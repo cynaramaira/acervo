@@ -1,0 +1,29 @@
+---
+id: 12398245
+date: "2009-02-18T16:42:00Z"
+last_modified_at: null
+tags:
+  - "augusto-aras"
+  - "kassio-nunes"
+categories:
+  - "noticias"
+title: "A espl\u00eandida solid\u00e3o de um incorrupt\u00edvel. Por Augusto Nunes"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Augusto Nunes</p></p>
+<p><p>Parece mentira, mas existe a oposi&ccedil;&atilde;o parlamentar que o Brasil decente merece. Chama-se Jarbas Vasconcelos, &eacute; senador pelo PMDB de Pernambuco, pertence &agrave; esp&eacute;cie em extin&ccedil;&atilde;o dos pol&iacute;ticos incorrupt&iacute;veis e desde o come&ccedil;o da semana, como conv&eacute;m a raridades admir&aacute;veis, est&aacute; exposto &agrave; visita&ccedil;&atilde;o p&uacute;blica nas p&aacute;ginas amarelas da revista Veja. Vale a pena conhecer algu&eacute;m que v&ecirc; as coisas como as coisas s&atilde;o (&quot;O Bolsa Fam&iacute;lia &eacute; o maior programa oficial de compra de votos do mundo&quot;).</p></p>
+<p><p>Vale a pena conhecer algu&eacute;m que conta o caso como o caso foi (&quot;A maioria dos peemedebistas se especializou em manipula&ccedil;&atilde;o de licita&ccedil;&otilde;es, contrata&ccedil;&otilde;es dirigidas, corrup&ccedil;&atilde;o em geral. Boa parte do PMDB quer mesmo &eacute; corrup&ccedil;&atilde;o&quot;). E que diz sem medo o que pensa. &quot;Um governo que deixou a &eacute;tica de lado, que n&atilde;o fez as reformas nem fez nada pela infraestrutura tem como bandeira o PAC, que &eacute; um amontoado de projetos velhos reunidos num pacote eleitoreiro.&quot;</p></p>
+<p><p>Anestesiado pelo que o entrevistado chama de &quot;banaliza&ccedil;&atilde;o do esc&acirc;ndalo&quot;, rendido &agrave; &quot;mediocridade que contamina&quot;, feliz com um presidente que &quot;n&atilde;o tem nenhum compromisso com as reformas ou com a &eacute;tica&quot;, o Brasil do faz-de-conta continuou esperando os pesquisadores do Sensus para informar que o coro dos contentes passou de 90%. Decididos a n&atilde;o melindrar o advers&aacute;rio de estima&ccedil;&atilde;o, os partidos de oposi&ccedil;&atilde;o se solidarizaram silenciosamente com os culpados. E os acusados tiveram de engolir as verdades indesment&iacute;veis.</p></p>
+<p><p>Nascido e criado na Zona da Mata, Jarbas tinha 12 anos quando ouviu do pai, um funcion&aacute;rio p&uacute;blico rude e reto, a frase que ficaria marcada a ferro na mem&oacute;ria. &quot;Nunca volte para casa com marcas de briga nem dizendo que achou dinheiro na rua.&quot; O menino assimilou a li&ccedil;&atilde;o pela metade: foi sempre irretocavelmente honesto, mas jamais fugiu de briga boa. Na d&eacute;cada de 1970, o deputado estadual que fundara o MDB pernambucano brigava pela ressurrei&ccedil;&atilde;o da democracia e contra a ditadura. Aos 66 anos, briga pela restaura&ccedil;&atilde;o da &eacute;tica, da moralidade e de outros valores revogados pela alian&ccedil;a dos fora-da-lei.</p></p>
+<p><p>&quot;Os fatos! Os fatos!&quot;, resolveram cobrar jornalistas aparentemente alcan&ccedil;ados pela epidemia de cegueira conveniente. &quot;Os nomes! Os nomes!&quot;, exclamaram nas colunas de leitores alguns idiotas da objetividade. &Eacute; s&oacute; teclar as palavras &quot;corrup&ccedil;&atilde;o&quot; e &quot;partidos&quot; nos sites de busca na internet, poderia ter sugerido Jarbas na entrevista coletiva em que reafirmou o que dissera &agrave; Veja.</p></p>
+<p><p>Dispensara-se de acusa&ccedil;&otilde;es detalhadas, informou, por falta de espa&ccedil;o para tantas. Caso continuem ofendidos, os que viram nas constata&ccedil;&otilde;es feitas por Jarbas uma afronta sem fundamento a legendas imaculadas est&atilde;o novamente convidados a buscar al&iacute;vio na internet. Os simpatizantes do PMDB podem digitar no Google nomes como Valdir Raupp, Renan Calheiros, Romero Juc&aacute; - ou apenas a sigla do partido. Para os petistas, basta uma palavra: mensal&atilde;o.</p></p>
+<p><p>&quot;O PMDB n&atilde;o tem nada a ver com o partido que combateu o regime militar&quot;, constatou Jarbas. Por que n&atilde;o muda de sigla&#63; &quot;Para onde irei&#63;&quot;, respondeu o senador com outra pergunta. Melhor esperar a hora de fundar algo melhor no partido obrigado a tolerar o dissidente. Sobram-lhe amigos no PSDB, mas falta o que chama de &quot;forma&ccedil;&atilde;o tucana&quot;. E est&aacute; cada vez mais distante do PT e do presidente.</p></p>
+<p><p>&quot;O Partido dos Trabalhadores se apresentou como templo da moralidade at&eacute; chegar ao poder&quot;, lembrou. &quot;Quando deixou cair a m&aacute;scara, abriu a porta para a corrup&ccedil;&atilde;o.&quot; No fim de 2002, animado com o triunfo de &quot;um ex-oper&aacute;rio que havia se comprometido com a sociedade a promover reformas e governar com &eacute;tica&quot;, prop&ocirc;s que o PMDB apoiasse Lula &quot;sem cargos nem benesses&quot;. N&atilde;o demorou a decepcionar-se com o presidente que prefere fazer amigos e conquistar aliados por outros meios.</p></p>
+<p><p>&quot;Sempre houve corrup&ccedil;&atilde;o, mas o governo Lula provocou a banaliza&ccedil;&atilde;o do esc&acirc;ndalo&quot;, registrou. &quot;O M&eacute;dici tamb&eacute;m era endeusado no Nordeste, mas ningu&eacute;m desistiu de combater a ditadura por isso&quot;, argumentou para justificar o desembara&ccedil;o com que atravessa o samba-exalta&ccedil;&atilde;o composto por institutos de pesquisa de opini&atilde;o. <br /></p>
+<p>Em tr&ecirc;s p&aacute;ginas, Jarbas resumiu a extensa plataforma que deveria ser encampada pelos partidos de oposi&ccedil;&atilde;o. Isso se ainda existissem. <br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

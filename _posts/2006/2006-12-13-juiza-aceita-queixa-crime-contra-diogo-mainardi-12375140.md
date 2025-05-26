@@ -17,7 +17,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=\"Times New Roman\"><FONT face=Verdana>Do site Comunique-se</FONT></P></p>
 <p><P><FONT face=Verdana>O jornalista Paulo Henrique Amorim conseguiu que sua queixa-crime contra o colunista Diogo Mainardi fosse aceita. O apresentador da Rede Record processa o colunista da Veja por causa do texto \"A A voz do PT\", que afirma que ele e Mino Carta se aliaram pelo lulismo.</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

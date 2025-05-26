@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Um mês depois das eleições para a presidência da Ordem dos Advogados do Brasil (OAB), a situação deu um golpe na oposição vitoriosa. </FONT></P></p>
 <p><P><FONT face=Verdana>No in?cio desta tarde, a comissão eleitoral, formada por um presidente e mais três membros, decidiu, por um placar de três a um, julgar ilegal a eleição do advogado Jayme Asfora e proclamar eleito o atual presidente e candidato derrotado Júlio Oliveira. </FONT></P></p>
 <p><P><FONT face=Verdana>O voto a favor de Jayme Asfora foi dado pelo jurista e procurador da República Joaquim Dias, presidente da comissão eleitoral</FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>O novo presidente, que assume o posto em 1º de janeiro, era tratado como azarão mas teve</p>
 <p> a candidatura alavancada com a proposta de diminuição da anuidade da OAB em 30%. Para Asfora, os eleitores acreditaram na viabilidade da redução.</FONT></P></p>
 <p><P><FONT face=Verdana>O novo presidente da seccional da Ordem dos Advogados do Brasil (OAB) em Pernambuco é Jayme Asfora, 36 anos. Candidato da oposição, ele ganhou com uma vantagem de 8,94% em relação ao segundo colocado. Ficou com 54,45%, enquanto Júlio Oliveira, que disputava a reeleição, teve 45,54% de aprovação. O resultado oficial foi divulgado às 22h45h. Mesmo assim, desde às 20h a militância da oposição já comemorava a vitória.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

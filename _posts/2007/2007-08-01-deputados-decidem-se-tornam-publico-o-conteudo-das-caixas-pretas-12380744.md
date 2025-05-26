@@ -1,0 +1,46 @@
+---
+id: 12380744
+date: "2007-08-01T11:05:00Z"
+last_modified_at: null
+tags:
+  - "caixas-termicas"
+  - "deputado"
+categories:
+  - "noticias"
+title: "Deputados decidem se tornam p\u00fablico o conte\u00fado das caixas-pretas"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">Os deputados que comp&otilde;em a CPI do Apag&atilde;o A&eacute;reo discutem, neste momento, em Bras&iacute;lia, se tornam p&uacute;blico o conte&uacute;do das caixas-pretas do avi&atilde;o da TAM que se acidenteou no dia 17 do m&ecirc;s passado.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Alguns parlamentares chegaram a afirmar que as fitas degravadas s&atilde;o um verdadeiro filme de terror e resistiam &agrave; divulga&ccedil;&atilde;o para preservar as fam&iacute;lias.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Mas diante do vazamento do conte&uacute;do para a Follha de S. Paulo que, nesta quarta (1), publicou mat&eacute;ria refor&ccedil;ando a tese de falha humana, os deputados reavaliam a quest&atilde;o.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Leia a mat&eacute;ria da Folha.&nbsp;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>&quot;A caixa-preta do Airbus-A320 da TAM que caiu em S&atilde;o Paulo no dia 17 indica que houve erro do piloto na opera&ccedil;&atilde;o da alavanca de acelera&ccedil;&atilde;o das turbinas, al&eacute;m de captar o desespero dos pilotos em tentar frear o avi&atilde;o no solo. Embora menos prov&aacute;vel, uma pane no computador do avi&atilde;o tamb&eacute;m n&atilde;o pode ser descartada, isoladamente ou em conjunto com o prov&aacute;vel erro humano. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>A Folha teve acesso aos dados, que chegaram ontem (ter&ccedil;a, 31)&nbsp;ao Congresso em um CD-ROM com cerca de 60 arquivos de dados e &aacute;udio. </em></font></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">A primeira falha, cuja hip&oacute;tese havia sido antecipada pela Folha na semana passada, ocorreu pouco antes do pouso, quando o manete de controle do motor direito foi mantido numa posi&ccedil;&atilde;o de acelera&ccedil;&atilde;o.&nbsp;</font><font face=\"Verdana\" size=\"2\">Deveria estar em ponto morto, como o outro manete. </font></em></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>Ao pousar, os sistemas eletr&ocirc;nicos interpretaram esse procedimento como um desejo do piloto de acelerar. As duas turbinas passaram a acelerar automaticamente. Os freios aerodin&acirc;micos n&atilde;o foram acionados. O freio autom&aacute;tico dos pneus tamb&eacute;m n&atilde;o funcionou. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>Pode ter contribu&iacute;do para a acelera&ccedil;&atilde;o anormal um segundo erro: apenas o manete da turbina esquerda foi colocado na posi&ccedil;&atilde;o de reverso m&aacute;ximo. Essa turbina estava com o reversor, equipamento que auxilia a frenagem ao inverter o fluxo de ar na turbina, funcionando -a outra, n&atilde;o. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>Mesmo com o reversor inoperante na turbina direita, o procedimento correto deveria ter sido colocar ambos os manetes em reverso. Mas o direito permaneceu acelerando, segundo o registro. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>A Airbus divulgou comunicado na semana passada alertando operadores de seus avi&otilde;es justamente sobre a necessidade de cumprir essas duas opera&ccedil;&otilde;es, baseada j&aacute; em dados preliminares da caixa-preta. Houve outros acidentes semelhantes com o A320 atribu&iacute;dos a falha do piloto. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>O avi&atilde;o da TAM estava com o reversor direito desativado havia quatro dias, em raz&atilde;o de um problema hidr&aacute;ulico. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>Perdendo o controle, o piloto ent&atilde;o tentou parar o avi&atilde;o pressionando os dois pedais &agrave; sua frente, freando os pneus do trem de pouso. Ao mesmo tempo, com as m&atilde;os, segurou o quanto p&ocirc;de o mecanismo interno que controla a dire&ccedil;&atilde;o da bequilha, a roda da frente do equipamento. Mas as turbinas continuaram a acelerar. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>Na semana passada, o brigadeiro respons&aacute;vel pela investiga&ccedil;&atilde;o, Jorge Kersul, disse que n&atilde;o est&aacute; exclu&iacute;da a hip&oacute;tese de falha nos computadores. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>&quot;O dado do par&acirc;metro pode indicar que o manete estava em tal posi&ccedil;&atilde;o, mas quem prova que o problema n&atilde;o foi eletr&ocirc;nico? O manete pode estar em outra posi&ccedil;&atilde;o e o problema ser de sinal eletr&ocirc;nico que o computador est&aacute; emitindo. A gente pode ouvir algo [no gravador de voz] que o manete n&atilde;o sai do lugar, est&aacute; enroscado&quot;, disse &agrave; CPI do Apag&atilde;o A&eacute;reo. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>O arquivo de &aacute;udio a que a Folha teve acesso revela que o piloto e o co-piloto emitem frases lac&ocirc;nicas, mas importantes. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>Ao tocar o ch&atilde;o na pista principal de Congonhas, uma voz na cabine diz: &quot;Reverso um apenas&quot;. Ou seja, o piloto e o co-piloto sabiam que s&oacute; um reversor estava operante. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>Em seguida, outra frase: &quot;Spoiler nada...&quot;. Ou seja, os spoilers (freios aerodin&acirc;micos na parte de cima das asas), que abrem automaticamente no pouso, n&atilde;o funcionaram. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>O tom fica dram&aacute;tico: &quot;Desacelera, desacelera, desacelera!&quot;. Aumenta o p&acirc;nico: &quot;N&atilde;o d&aacute;, n&atilde;o d&aacute;, n&atilde;o d&aacute;&quot;. Por fim, a frase j&aacute; conhecida: &quot;Vira, vira, vira&quot;. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>Quem ouviu as grava&ccedil;&otilde;es completas e repassou o conte&uacute;do &agrave; Folha n&atilde;o quis revelar as palavras finais captadas dentro da cabine de comando, segundos antes de o avi&atilde;o explodir, matando 199 pessoas. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>Os dados ser&atilde;o analisados&nbsp;nesta quarta&nbsp;pelos deputados com aux&iacute;lio de t&eacute;cnicos da FAB. <br /></p>
+<p>Al&eacute;m da falha humana e eventualmente de computadores, h&aacute; uma terceira hip&oacute;tese derivada das anteriores. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>O piloto teria realmente puxado os dois manetes para a posi&ccedil;&atilde;o correta na hora do pouso -a posi&ccedil;&atilde;o conhecida como &quot;idle&quot;, ou &quot;ponto morto&quot;, em portugu&ecirc;s. Por algum defeito, o manete direito n&atilde;o teria se encaixado o suficiente para emitir o sinal eletr&ocirc;nico para o computador de bordo. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>Quando um avi&atilde;o como o Airbus-A320 se aproxima da pista para fazer um pouso, o piloto e o co-piloto devem introduzir nos comandos da cabine os dados a respeito da aterrissagem. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>Nesse momento, os manetes podem ainda ficar na posi&ccedil;&atilde;o chamada &quot;climb&quot;, que significa &quot;subir&quot;. O computador sabe que o v&ocirc;o est&aacute; no final e desacelera as turbinas. Ao tocar o solo, entretanto, &eacute; importante que os dois manetes estejam ent&atilde;o na posi&ccedil;&atilde;o &quot;idle&quot;. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>As caixas-pretas indicam que o manete da direita estava ainda na posi&ccedil;&atilde;o &quot;climb&quot;, ou ainda &quot;near idle&quot; (quase desacelerada) quando o Airbus tocou a pista. Nessas horas, quando o peso da aeronave aciona os sistemas hidr&aacute;ulicos do trem de pouso, o computador est&aacute; programado para acionar os freios aerodin&acirc;micos (flaps e spoiler) e o freio dos pneus. S&oacute; que nada disso aconteceu. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>Assim que o Airbus tocou o solo, as duas turbinas voltaram a ser acionadas. Uma delas estava com o reversor acionado (do lado esquerdo) e o fluxo de ar passou a ser invertido, ajudando a frear um pouco o equipamento. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>Do lado direito, por&eacute;m, a turbina continuou a aumentar a for&ccedil;a, como se o avi&atilde;o tivesse de fazer nova decolagem. Pela tentativa do piloto em &quot;segurar&quot; o avi&atilde;o, &eacute; poss&iacute;vel que ele tenha adernado &agrave; esquerda j&aacute; no come&ccedil;o do pouso. </em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>Sobre a pista de Congonhas, as caixas-pretas ainda n&atilde;o encerram a pol&ecirc;mica. Mas o fato de o piloto ter conseguido manter o avi&atilde;o na pista indica que a ader&ecirc;ncia n&atilde;o poderia estar muito abaixo do padr&atilde;o.&quot;</em></font></p> </p>
+{% endraw %}

@@ -1,0 +1,34 @@
+---
+id: 12393282
+date: "2008-09-12T19:26:25Z"
+last_modified_at: null
+tags:
+  - "clima"
+  - "flavio-dino"
+  - "katia-abreu"
+categories:
+  - "noticias"
+title: "Em Abreu e Lima, coliga\u00e7\u00e3o advers\u00e1ria rebate Fl\u00e1vio Gagelha"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Prezado Jamildo Melo;</p></p>
+<p><p>A Coliga&ccedil;&atilde;o Abreu e Lima para todos, que tem como candidato ao Cargo de Prefeito do Munic&iacute;pio de Abreu e Lima, o Ex-Prefeito Jer&ocirc;nimo Gadelha, vem, invocando, inclusive, o constitucional direito de resposta, trazer a este conceituado Blog aslguns aspectos que considera importantes.</p></p>
+<p><p>Antes de mais nada, &eacute; bom destacar que, ao contr&aacute;rio do que disse o advogado do candidato a vereador C&iacute;cero Moraes, a A&ccedil;&atilde;o de Busca e Apreens&atilde;o que, em boa hora, foi proposta pelo Minist&eacute;rio P&uacute;blico Eleitoral, teve como substrato, n&atilde;o uma &quot;peti&ccedil;&atilde;o ap&oacute;crifa&quot; , mas sim, uma Not&iacute;cia Crime que foi protocolizada pela Coliga&ccedil;&atilde;o Abreu e Lima para todos no dia 04 de setembro de 2008, devidamente assinada pelo seu representante legal. <br /></p>
+<p>Outro aspecto que cabe relato &eacute; o fato do Sr. Advogado, assinando nota dirigida a este Blog, ter tentado diminuir n&atilde;o s&oacute; os fatos nos quais o seu cliente est&aacute; envolvido, mas tamb&eacute;m e, principalmente, o pr&oacute;prio Poder Judicia&aacute;rio, quando diz que a a apreens&atilde;o do material de campanha pol&iacute;tica encontrado dentro da Caixa Econ&ocirc;mica Federal, deu-se por interm&eacute;dio de &quot; um despacho ilegal da Ju&iacute;za de Abreu e Lima&quot;.</p></p>
+<p><p>A lei &eacute; clara quando assevera :<br /></p>
+<p>Constitui crime, pun&iacute;vel com<br /></p>
+<p>deten&ccedil;&atilde;o de 6 meses a 1 ano, com a alternativa de presta&ccedil;&atilde;o de servi&ccedil;os &agrave; comunidade pelo mesmo per&iacute;odo, e multa no valor de R$10.641,00 (dez mil seiscentos e quarenta e um reais) a R$ 21.282,00 (vinte e um mil duzentos e oitenta e dois reais), o uso, na propaganda eleitoral, de s&iacute;mbolos, frases ou imagens, associadas ou semelhantes &agrave;s empregadas por &oacute;rg&atilde;o de governo, empresa p&uacute;blica ou sociedade de economia mista (Resolu&ccedil;&atilde;o do T.S.E. n. 22.718/2008 &ndash; Art. 47, artigo 40 da Lei 9.504/97, Lei das Elei&ccedil;&otilde;es)</p></p>
+<p><p>Toda e qualquer Decis&atilde;o Judicial que vise resguardar a eq&uuml;idade e o equil&iacute;brio do pleito, al&eacute;m de ser manifesta e incotestavelmente legal, &eacute; de ser louvada e, acima de tudo, respeitada. Agir na contra-m&atilde;o deste racioc&iacute;nio &eacute; agridir o Estado Democr&aacute;tico de Direito.</p></p>
+<p><p>No que tange &agrave; participa&ccedil;&atilde;o do candidato a Prefeito, o Sr. Fl&aacute;vio Gadelha, o mesmo, de igual modo, vinha se beneficiando deste engodo eleitoral que outro objetivo n&atilde;o tinha, se n&atilde;o o de tentar, de modo criminoso, passar para os eleitores de Abreu e Lima, de sobremodo aqueles mais incautos, a impress&atilde;o que a campanha de ambos tinha, como que, o patroc&iacute;nio da Caixa Econ&ocirc;mica Federal. Ressaltamos, por pertinente, que sabemos da seriedade daquela Institui&ccedil;&atilde;o Banc&aacute;ria Oficial e que a Caixa Econ&ocirc;mica Federal, ao tomar conhecimento de tal pr&aacute;tica, vai cuidar em envidar esfor&ccedil;os no sentido de estancar a pr&aacute;tica criminosa at&eacute; ent&atilde;o perpetrada pelos candidatos envolvidos neste caso. Todo material de campanha utilizado pelo candidato proporcional faz alus&atilde;o a Fl&aacute;vio Gadelha. O crime denunciado (uso do slogan, cores da caixa, s&iacute;mbolo da caixa e, de sobremaneira, do espa&ccedil;o f&iacute;sico da ag&ecirc;ncia da Caixa Econ&ocirc;mica de Abreu e Lima) foi, efetivamente, praticado por todo e qualquer candidato que dele (o crime) tenha se servido, beneficiado e, do ponto de vista eleitoral, colhido frutos. Isto &eacute; inconteste.</p></p>
+<p><p>Falar em denuncia&ccedil;&atilde;o caluniosa &eacute;, sincera e francamente, brincar com a consci&ecirc;ncia m&eacute;dia do eleitor de Pernambuco. Basta ver o material de campanha. Basta ver as fotos. O uso do slogan &eacute; expl&iacute;cito!! O uso da marca da Caixa &eacute; absurso!!! E o que dizer das cores&#63;&#63;&#63; Saibam voc&ecirc;s que l&ecirc;em esta Nota que o candidato a Vereador tem se apresentado, ao lado do candidato a Prefeito Fl&aacute;vio Gadelha (com a elabora&ccedil;&atilde;o de um jornal de campanha) com a seguinte frase de efeito: C&Iacute;CERO MORAES, O HOMEM DAS CASAS, isto em alus&atilde;o expl&iacute;cita a um conv&ecirc;nio firmado entre a CEF e a Prefeitura Municipal de Abreu e Lima, cujo objeto foi a constru&ccedil;&atilde;o de casas populares. Isto &eacute;, sim, apropria&ccedil;&atilde;o criminosa de programa federal com vistas a obten&ccedil;&atilde;o de voto. &Eacute; crime Eleitoral e como tal deve ser tratado. Este fato classifica-se naquilo que a Doutrina chama de Abuso do Poder Pol&iacute;tico e capta&ccedil;&atilde;o ilegal de sufr&aacute;gio. Se n&atilde;o vejamos:<br /></p>
+<p>&quot;Abuso de poder pol&iacute;tico &eacute; o uso indevido de cargo ou fun&ccedil;&atilde;o p&uacute;blica, com a finalidade de obter votos para determinado candidato. Sua gravidade consiste na utiliza&ccedil;&atilde;o do munus p&uacute;blico para influenciar o eleitorado, com desvio de finalidade&quot; (Adriano Soares da Costa)</p></p>
+<p><p>Eis o art. 41-A da Lei 9.504/97:<br /></p>
+<p>&ldquo;Ressalvado<br /></p>
+<p>o disposto no art. 26 e seus incisos, constitui capta&ccedil;&atilde;o de sufr&aacute;gio, vedada por esta lei, o candidato doar, oferecer, prometer ou entregar, ao eleitor, com o fim de obter-lhe o voto, bem ou vantagem pessoal de qualquer natureza, inclusive, emprego ou fun&ccedil;&atilde;o p&uacute;blica, desde o registro da candidatura, at&eacute; o dia da elei&ccedil;&atilde;o, inclusive, sob pena de multa de mil a cinq&uuml;enta mil UFIRs, e cassa&ccedil;&atilde;o do registro ou do diploma, observado o procedimento previsto no art. 22 da Lei Complementar n.&ordm; 64, de 18 de maio de 1990.&rdquo;</p></p>
+<p><p>De mais a mais, antecipar resultado de elei&ccedil;&atilde;o, h&aacute; mais de vinte dias do pleito, &eacute; desrespeitar, de modo absurdo e leviano, a liberdade do povo. Temos a firme consci&ecirc;ncia da atual posi&ccedil;&atilde;o que nos encontramos nas pesquisas e nem por isso estamos a vilipendiar a vontade do eleitor de Abreu e Lima, fazendo festa antes da hora. A festa vir&aacute;, com certeza, por&eacute;m na hora exata participaremos, junto com todos os eleitores de Abreu e Lima, de seu inteiro regozijo.</p></p>
+<p><p>Coliga&ccedil;&atilde;o Abreu e Lima para todos.</p> </p>
+{% endraw %}

@@ -1,0 +1,27 @@
+---
+id: 12407346
+date: "2009-11-01T15:31:14Z"
+last_modified_at: null
+tags:
+  - "arte"
+  - "escola"
+  - "fotos"
+categories:
+  - "noticias"
+title: "Fotos do PAC em escola de arte causam pol\u00eamica"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Da Ag&ecirc;ncia Estado</p></p>
+<p><p>Ainda inacabadas, as obras do Programa de Acelera&ccedil;&atilde;o do Crescimento (PAC) em favelas do Rio de Janeiro s&atilde;o tema de exposi&ccedil;&atilde;o organizada pelo governo do Estado. Foi inaugurada na semana passada a mostra de fotografia Mem&oacute;rias do PAC na Escola de Artes Visuais (EAV) do Parque Lage, na zona sul. Fundada em 1975 por Rubens Gerchman, a EAV foi palco, em 1984, da grande exposi&ccedil;&atilde;o &quot;Como Vai Voc&ecirc;, Gera&ccedil;&atilde;o 80&#63;&quot;, um marco na hist&oacute;ria das artes pl&aacute;sticas, que reuniu artistas como Daniel Senise, Leonilson e Luiz Zerbini.</p></p>
+<p><p>Fotografias exibem oper&aacute;rios trabalhando, logotipos dos governos federal e estadual, escavadeiras, etc. N&atilde;o h&aacute; registros sobre viol&ecirc;ncia. No cat&aacute;logo, a maioria dos coment&aacute;rios de moradores s&atilde;o elogiosos &agrave;s obras do PAC, mas h&aacute; cr&iacute;ticas. &quot;Moro numa casa grande e fico preocupada de ir para uma menor. Minha preocupa&ccedil;&atilde;o &eacute; de morar l&aacute; num lugar pequenininho. J&aacute; vi a casa-padr&atilde;o, e minha cozinha d&aacute; tr&ecirc;s dessa casa!&quot;, diz uma moradora de Manguinhos. &quot;Esse tal de PAC t&aacute; quebrando tudo por aqui. Dizem que &eacute; o progresso, que a favela vai ganhar cidadania, quero estar vivo para ver. Espero que esse cabra n&atilde;o quebre tudo e deixe a gente na lama&quot;, diz outro, do Pav&atilde;o-Pav&atilde;ozinho.</p></p>
+<p><p>&quot;Uma escola de arte tem de mostrar a produ&ccedil;&atilde;o dela. N&atilde;o deve divulgar nada do governo. N&atilde;o &eacute; para ter uma exposi&ccedil;&atilde;o como essa na EAV. Acho lament&aacute;vel&quot;, disse Senise. &quot;A atual secret&aacute;ria de Cultura (Adriana Rattes) fez muito pelo Parque Lage, mas isso n&atilde;o justifica que a escola seja usada para fazer propaganda do governo federal&quot;, acrescentou o artista. Em maio, o parque foi cedido pelo governo federal ao Estado, que apresentou cronograma de obras para melhorar a estrutura da EAV.</p></p>
+<p><p>A mostra &eacute; resultado de oficina realizada pela Secretaria de Cultura e pela ONG Observat&oacute;rio de Favelas, com recursos do Pronasci, do Minist&eacute;rio da Justi&ccedil;a. Dos 94 moradores dos complexos do Alem&atilde;o e de Manguinhos e das favelas da Rocinha e Pav&atilde;o-Pav&atilde;ozinho/Cantagalo inicialmente inscritos no projeto, 40 cumpriram os 10 meses de estudo e pr&aacute;tica.</p></p>
+<p><p>Aluna na d&eacute;cada de 1970 e diretora da EAV h&aacute; um ano, Claudia Saldanha destacou a import&acirc;ncia social do trabalho. Para ela, a mostra de fotografias &quot;n&atilde;o &eacute; uma exposi&ccedil;&atilde;o de obras de arte, e n&atilde;o tem essa pretens&atilde;o&quot;. J&aacute; a secret&aacute;ria de Cultura do Estado escreveu no cat&aacute;logo do trabalho que &quot;a uni&atilde;o de for&ccedil;as importantes - talento, criatividade, t&eacute;cnica, perseveran&ccedil;a e recursos - gera arte e fotojornalismo de verdade&quot;.</p></p>
+<p><p>Claudia defendeu o uso do sal&atilde;o nobre e das principais galerias da mans&atilde;o, projetada em 1920, onde funciona a EAV. &quot;A escola tem como fun&ccedil;&atilde;o divulgar a obra n&atilde;o apenas de artistas de vanguarda, mas trabalhos em processo, jovens artistas e projetos externos. N&atilde;o deve ser vista como museu ou galeria de arte&quot;, disse. A diretora defendeu &quot;uso mais amplo&quot; da EAV. &quot;Antes, j&aacute; houve uma mostra de alunos da Universidade do Estado (Uerj). A escola sempre foi do governo, mas adquiriu pr&aacute;ticas privadas. O que estamos tentando fazer &eacute; resgatar o sentido de escola p&uacute;blica. Portanto, &eacute; natural e leg&iacute;timo mostrar um projeto da secretaria&quot;, argumentou.</p></p>
+<p><p>Professor da EAV h&aacute; 18 anos, Jo&atilde;o Magalh&atilde;es &eacute; contra a exposi&ccedil;&atilde;o. &quot;A escola &eacute; respeitada por sua hist&oacute;ria, constru&iacute;da com independ&ecirc;ncia, autonomia e liberdade. N&atilde;o pode correr o risco de se perder abrigando exposi&ccedil;&otilde;es que n&atilde;o sejam estritamente de arte.&quot; Ele defendeu a cria&ccedil;&atilde;o de uma curadoria para futuras escolhas. &quot;A decis&atilde;o sobre a exposi&ccedil;&atilde;o foi apenas comunicada. Rar&iacute;ssimos professores compareceram &agrave; inaugura&ccedil;&atilde;o.&quot;</p></p>
+<p><p>Claudia afirmou que a interpreta&ccedil;&atilde;o de que h&aacute; propaganda embutida &quot;mostra preconceito em rela&ccedil;&atilde;o ao acesso de camadas pobres da popula&ccedil;&atilde;o a um lugar como o Parque Lage, na zona sul&quot;. Para Senise, o importante n&atilde;o &eacute; a discuss&atilde;o sobre a qualidade dos trabalhos, mas &quot;o uso do nome PAC numa escola de arte&quot;. As informa&ccedil;&otilde;es s&atilde;o do jornal O Estado de S. Paulo.</p> </p>
+{% endraw %}

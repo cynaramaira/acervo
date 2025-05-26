@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p><FONT face=Verdana></FONT></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><o:p><FONT face=Verdana></FONT></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>Por <STRONG>Monica Crisostomo<o:p></o:p></STRONG></FONT></SPAN></P></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>“Nosso trabalho, de certa forma, serviu como uma catalisador da angústia e indignação de nosso público. O brasileiro está cansado dessa roubalheira e dessa história de horário eleitoral obrigatório\", afirmou. <o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><o:p><FONT face=Verdana>&nbsp;</FONT></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>Leia mais <STRONG><EM><FONT color=crimson><A href=\"https://jc3.uol.com.br/jornal/\" target=_blank>aqui</A></FONT></EM></STRONG> (assinantes JC e UOL).</FONT></SPAN><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><o:p>&nbsp;</o:p></SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

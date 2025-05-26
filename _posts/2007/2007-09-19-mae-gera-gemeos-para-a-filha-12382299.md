@@ -1,0 +1,23 @@
+---
+id: 12382299
+date: "2007-09-19T08:30:00Z"
+last_modified_at: null
+tags:
+  - "mae"
+categories:
+  - "noticias"
+title: "M\u00e3e gera g\u00eameos para a filha"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Da Editoria de Cidades</font></p></p>
+<p><p><font face=\"Verdana\">Um dos momentos mais duros na vida da agente de sa&uacute;de Rosinete Palmeira Serr&atilde;o, 51 anos, foi saber que a &uacute;nica filha, Cl&aacute;udia Michelle, 27, nunca poderia gerar uma crian&ccedil;a. Seu &uacute;tero n&atilde;o &eacute; desenvolvido o suficiente para suportar uma gesta&ccedil;&atilde;o. Surpreendente foi a maneira encontrada para realizar o sonho da fam&iacute;lia. Rosinete est&aacute; gr&aacute;vida dos netos g&ecirc;meos, ap&oacute;s aceitar ser a barriga de aluguel de Michelle. Ser&aacute; a primeira av&oacute; brasileira a dar &agrave; luz os netos ap&oacute;s gravidez gemelar. Mais do que fato in&eacute;dito, um ato de amor, coragem e sublima&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\">Ant&ocirc;nio Bento e Vitor Gabriel podem nascer a qualquer momento, at&eacute; o dia 12 de outubro. Quatro anos atr&aacute;s, a comerciante Michelle e o marido, Ant&ocirc;nio de Brito, n&atilde;o imaginavam que estariam decorando o quarto dos beb&ecirc;s. Tentaram todos os tratamentos poss&iacute;veis. Enfrentaram in&uacute;meras decep&ccedil;&otilde;es. Tudo come&ccedil;ou com uma reportagem de TV sobre reprodu&ccedil;&atilde;o assistida, que inundou a jovem de esperan&ccedil;a. Telefonou para o m&eacute;dico entrevistado no programa e descobriu que um especialista do Recife poderia ajud&aacute;-la. &quot;Passei por tr&ecirc;s m&eacute;dicos e n&atilde;o conseguia engravidar. Entrei em depress&atilde;o. Depois de um ano, meu marido insistiu para voltarmos ao m&eacute;dico.&quot; </font></p></p>
+<p><p><font face=\"Verdana\">O especialista em quest&atilde;o era Cl&aacute;udio Leal Ribeiro, professor de ginecologia da Universidade Federal de Pernambuco (UFPE), que dessa vez lan&ccedil;ou a proposta tentadora: uma parente em primeiro ou segundo grau poderia gestar o beb&ecirc;, fecundado em laborat&oacute;rio com o &oacute;vulo de Michelle e o espermatoz&oacute;ide de Ant&ocirc;nio, a t&eacute;cnica da fertiliza&ccedil;&atilde;o in vitro. O problema era que a comerciante n&atilde;o tem irm&atilde;s, e sim dois irm&atilde;os. Nenhuma prima estaria disposta. O Conselho Regional de Medicina de Pernambuco (Cremepe) tampouco autorizou recorrer a uma pessoa sem la&ccedil;os familiares. </font></p></p>
+<p><p><font face=\"Verdana\">Michelle respirou fundo e fez a proposta &agrave; m&atilde;e, ap&oacute;s sugest&atilde;o do m&eacute;dico. &quot;O tema era t&atilde;o delicado que pensei que ela n&atilde;o iria aceitar.&quot; Rosinete n&atilde;o titubeou ao responder. &quot;Ela perguntou: &lsquo;mainha, voc&ecirc; faria isso por mim?&rsquo; Eu disse: &lsquo;faria, n&atilde;o, fa&ccedil;o. &Eacute; s&oacute; voc&ecirc; me pedir&rsquo;. E o que parecia brincadeira virou coisa s&eacute;ria. N&atilde;o sabia que teria essa coragem toda, mas n&atilde;o tinha quem me proibisse. A felicidade dos meus filhos vem em primeiro lugar&quot;, emociona-se a av&oacute; coruja. </font></p></p>
+<p><p><font face=\"Verdana\">Em janeiro deste ano, Michelle iniciou o tratamento para estimular a ovula&ccedil;&atilde;o. O ginecologista implantou quatro embri&otilde;es no &uacute;tero de Rosinete, que fez reposi&ccedil;&atilde;o hormonal. De l&aacute; para c&aacute;, a vida da fam&iacute;lia gira em torno dos garotos e da av&oacute; coragem, que mora em Paulista, Grande Recife. Com tantos cuidados, ela tem uma gravidez tranq&uuml;ila, sem problemas comuns &agrave;s gestantes de alto risco, como hipertens&atilde;o e diabete. </font></p></p>
+<p><p><font face=\"Verdana\">Trinta e sete semanas depois, m&atilde;e e filha dividem a alegria da chegada dos g&ecirc;meos. &quot;Estou felic&iacute;ssima. N&atilde;o queria correr o risco de outra pessoa ser a barriga de aluguel e depois fazer chantagem emocional com minha filha. Tenho certeza absoluta que os dois s&atilde;o meus netos, como Mateus, de 3 anos, e Jo&atilde;o Artur, que vai nascer em um m&ecirc;s&quot;, diz. &Agrave;s v&eacute;speras de realizar seu sonho, Michelle quase n&atilde;o tem palavras para expressar o quanto o gesto da m&atilde;e significa. &quot;Minha m&atilde;e &eacute; mais que tudo para mim.&quot;&nbsp;</font></p> </p>
+{% endraw %}

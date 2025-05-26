@@ -13,6 +13,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>A Rádio Jornal está transmitindo agora. Ouça <STRONG><EM><A href=\"https://jc3.uol.com.br/radiojornal/\" target=_blank>aqui</A></EM></STRONG>. </p>
-{\% endraw %}
+{% endraw %}

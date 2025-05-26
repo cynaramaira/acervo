@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Louise Caroline*</STRONG><BR>Vice-presidente da UNE</FONT></P></p>
 <p><P><FONT face=Verdana>Desde que inicamos esses debates no Blog das Eleições, tenho saudado a iniciativa de César Rocha convidar três jovens para debater o grande processo de eleições em Pernambuco. Ousada a atitude de escolher mulheres para falar sobre um tema tão \"recomendado\" aos homens. E ousada também a valorização da juventude como agente capaz de interferir nas questões gerais.</FONT></P></p>
 <p><P align=justify><FONT face=Verdana>Ainda, por não sermos jornalistas – sequer estudantes do curso -, este espaço reafirma que todas as pessoas devem ter suas opiniões respeitadas, seja qual for sua formação acadêmica, sua condição social, sua idade. Todos e todas têm contribuições importantes a dar, de seu modo, de seu mundo, sobre qualquer tema proposto. </FONT></P></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P align=justify><FONT face=Verdana>Sonhar com um mundo melhor é nosso instinto. Constru?-lo, nosso desafio.</FONT></P></p>
 <p><P align=justify><FONT face=Verdana></FONT></P></p>
 <p><P><BR><I><FONT face=\"Times New Roman\"><FONT face=Verdana><STRONG>*Louise Caroline</STRONG>, 23, é estudante de direito, vice-presidente da União Nacional dos Estudantes (UNE) e militante do PT.</FONT></P></I></FONT> </p>
-{\% endraw %}
+{% endraw %}

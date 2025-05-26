@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Mendonça Filho (PFL) estagnou, conforme nova pesquisa Vox Populi, que o <EM>Jornal do Commercio</EM> publica em sua edição deste domingo, à venda nesta tarde, nas ruas do Recife. (Veja alguns números abaixo).</FONT></P></p>
 <p><P><FONT face=Verdana>Mesmo com toda a máquina do governo do Estado em favor dele e com três semanas de guia eleitoral, o candidato de Jarbas Vasconcelos (PMDB) não conseguiu sair do patamar em que estava, em 15 de julho, quando publicamos o levantamento anterior.</FONT></P></p>
 <p><P><FONT face=Verdana>Desde então, em 45 dias, Mendonça subiu apenas dois pontos percentuais, dentro da margem de erro de 3,5 pontos para mais ou para menos.</FONT></P></p>
@@ -58,4 +58,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>Foram feitas 800 entrevistas domiciliares com Moradores e eleitores de 38 munic?pios de Pernambuco, de idade superior a 16 anos, e adotada uma amostra estratificada por cotas de gênero, escolaridade, renda familiar e situação perante o trabalho, calculadas de acordo com dados do IBGE, Censo de 2000 e TSE. </EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>O intervalo de confiança da amostragem é de 95% e a margem de erro média de 3,5 pontos percentuais, para mais ou para menos. A pesquisa foi registrada no TRE-PE no dia 25 de agosto de 2006, sob o número 13917/2006.</EM></FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><U><A href=\"https://jc3.uol.com.br/especiais/eleicoes2006/2006/07/15/not_249.php\" target=_blank>aqui</A></U></EM></STRONG> sobre as pesquisas anteriores.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

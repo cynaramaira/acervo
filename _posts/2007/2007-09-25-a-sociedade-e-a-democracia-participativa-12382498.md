@@ -1,0 +1,28 @@
+---
+id: 12382498
+date: "2007-09-25T08:20:00Z"
+last_modified_at: null
+tags:
+  - "democracia"
+categories:
+  - "noticias"
+title: "A sociedade e a democracia participativa"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p align=\"justify\"><font face=\"Verdana\">Por Isaltino Nascimento</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Fa&ccedil;o coro aos defensores da democracia participativa, ou seja, &agrave; luta daqueles que entendem a import&acirc;ncia de aproximar a sociedade das arenas decis&oacute;rias do poder. Explico meu prop&oacute;sito. H&aacute; quem pense os problemas apenas a partir de suas perspectivas pessoais, construindo solu&ccedil;&otilde;es baseadas unicamente em seus interesses. N&atilde;o penso assim. Para mim, a mobiliza&ccedil;&atilde;o da sociedade &eacute; imprescind&iacute;vel para que os cidad&atilde;os reivindiquem espa&ccedil;os e avancem em suas conquistas.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Neste contexto, ressalto a import&acirc;ncia do papel das confer&ecirc;ncias, conselhos, sindicatos, organiza&ccedil;&otilde;es n&atilde;o-governamentais, entidades de classe, movimentos sociais, e todas as formas de organiza&ccedil;&atilde;o que almejam uma sociedade mais justa. Acredito no poder da cr&iacute;tica construtiva e da press&atilde;o por mudan&ccedil;as que beneficiem os coletivos sociais. &Eacute; dentro destes princ&iacute;pios que venho norteando a minha trajet&oacute;ria pol&iacute;tica.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">A luta contra a Ditadura Militar, a mobiliza&ccedil;&atilde;o pela redemocratiza&ccedil;&atilde;o do Brasil e o movimento pelas Diretas-J&aacute; culminaram com a mobiliza&ccedil;&atilde;o da sociedade pela elabora&ccedil;&atilde;o da Constitui&ccedil;&atilde;o de 1988. A Carta &eacute; marco do avan&ccedil;o de direitos sociais importantes como sa&uacute;de e educa&ccedil;&atilde;o p&uacute;blicas, bem como do conceito da democracia direta.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Em fun&ccedil;&atilde;o desta abertura, vivemos hoje um momento em que parte significativa da sociedade compreende a import&acirc;ncia dos espa&ccedil;os democr&aacute;ticos de decis&atilde;o das a&ccedil;&otilde;es de pol&iacute;ticas p&uacute;blicas. E muitos gestores, mesmo comungando de vis&otilde;es ideol&oacute;gicas neoliberais e conservadoras, s&atilde;o obrigados a adotarem modelos de gest&atilde;o com a participa&ccedil;&atilde;o da sociedade.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Destacamos as confer&ecirc;ncias, espa&ccedil;os culminantes de decis&otilde;es e delibera&ccedil;&otilde;es entre os segmentos sociais, de trabalhadores da &aacute;rea, e gestores p&uacute;blicos, nas quais se busca avaliar as a&ccedil;&otilde;es, consolidar e avan&ccedil;ar em direitos.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Os conselhos tamb&eacute;m s&atilde;o parte deste processo e vivenciam o cotidiano das a&ccedil;&otilde;es do setor p&uacute;blico. &Eacute; verdade que h&aacute; dificuldades para que os mesmos cumpram suas fun&ccedil;&otilde;es prec&iacute;puas. Entretanto, est&atilde;o em um processo de aprimoramento em que as dificuldades se tornam meios para a sua consolida&ccedil;&atilde;o.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Mesmo com os avan&ccedil;os, ainda h&aacute; quem vire o nariz para aqueles que incentivam a sociedade a organizar-se, a lutar pelos seus direitos e a ampliar e consolidar espa&ccedil;os democr&aacute;ticos dentro do Estado. </font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Apesar dos mais de 20 anos de transi&ccedil;&atilde;o, os resqu&iacute;cios da Ditadura Militar ainda mant&ecirc;m na cabe&ccedil;a de muitos a postura anti-democr&aacute;tica e conservadora de endemonizar os movimentos sociais e suas bandeiras de luta. Tal atitude condena muitos cidad&atilde;os de nosso Pa&iacute;s a viverem sem a dimens&atilde;o da import&acirc;ncia deste tipo de instrumento para a melhoria de suas vidas. </font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">N&oacute;s, pol&iacute;ticos, temos o dever de ampliar as experi&ecirc;ncias positivas de participa&ccedil;&atilde;o popular nas decis&otilde;es governamentais, seja no Legislativo ou no Executivo. Mesmo que, em determinados momentos, sejamos obrigados a rever os nossos pontos de vista. Vale ressaltar que os instrumentos de democracia direta previstos na Constitui&ccedil;&atilde;o de 1988 &ndash; como o plebiscito, o referendo e os projetos de lei de iniciativa popular &ndash; s&atilde;o os mais dif&iacute;ceis de serem usados no dia-a-dia. </font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Cabe trabalharmos para, cada vez mais, afastarmo-nos da cl&aacute;ssica vis&atilde;o de poder. E termos a percep&ccedil;&atilde;o de que a pol&iacute;tica transcende o voto. Desta forma, poderemos caminhar em dire&ccedil;&atilde;o aos preceitos da democracia participativa. Aquela que entende que a delibera&ccedil;&atilde;o e a participa&ccedil;&atilde;o popular s&atilde;o fundamentais para na&ccedil;&otilde;es modernas. Estaremos verdadeiramente &agrave; frente quando colocarmos o exerc&iacute;cio da cidadania como nosso maior compromisso.</font></p></p>
+<p><p><font face=\"Verdana\">PS: Isaltino Nascimento &eacute; deputado estadual pelo PT (<a href=\"https://www.isaltinopt.com.br\">www.isaltinopt.com.br</a>) e l&iacute;der do Governo Eduardo Campos na AL. Escreve todas as ter&ccedil;as no Blog de Jamildo.</font></p> </p>
+{% endraw %}

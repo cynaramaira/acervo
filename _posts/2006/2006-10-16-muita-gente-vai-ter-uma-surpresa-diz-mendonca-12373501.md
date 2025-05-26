@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>De Mendonça Filho, agora há pouco, logo depois de chegar ao estúdio da TV Clube:</FONT></P></p>
 <p><P><FONT face=Verdana>\"A gente vai ganhar a eleição. Muita gente vai ter uma surpresa!\"</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

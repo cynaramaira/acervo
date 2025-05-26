@@ -14,7 +14,7 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>&nbsp;</p>
 <p>Voc&ecirc; acha que haver&aacute; segundo turno nas elei&ccedil;&otilde;es de Pernambuco?</p>
 <p>J&aacute; foram registrados 3.532 votos nos &uacute;ltimos cinco dias. Veja os resultados acumulados at&eacute; agora:</p>
@@ -23,4 +23,4 @@ imagem: null
 <p>Sim, entre Eduardo e Humberto 10% (355 votos)</p>
 <p>N&atilde;o 5% (159 votos)</p>
 <p>Vote, d&ecirc; sua opini&atilde;o na coluna ao lado.</p>
-{\% endraw %}
+{% endraw %}

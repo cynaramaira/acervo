@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><B><U><FONT face=Verdana>UNIÃO POR PERNAMBUCO</FONT></P></U></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)<BR></FONT></B><FONT face=Verdana>Local: Colégio Anchieta, na Ernesto de Paula Santos, 607, em Boa Viagem<BR>Horário: 11h<BR>Seção: 35ª<BR>Zona: 149ª</FONT></P><B></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>HUMBERTO COSTA (PT)<BR></FONT></B><FONT face=Verdana>Local: Fundação Joaquim Nabuco<BR>Horário: 14h<BR>Seção: 53ª<BR>Zona: 4ª</FONT></P><B></p>
 <p><P><FONT face=Verdana>AUGUSTO CÉSAR (PTB)<BR></FONT></B><FONT face=Verdana>Local: Faculdade de Serra Talhada, em Serra Talhada<BR>Horário:11h<BR>Seção: 37ª<BR>Zona: 71ª</FONT></P><B></p>
 <p><P><FONT face=Verdana>LUCIANO SIQUEIRA (PCdoB)<BR></FONT></B><FONT face=Verdana>Local: Escola Mário Melo, Campo<BR>Horário: 14h30<BR>Seção: 35ª<BR>Zona: 8ª</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Elio Gaspari</STRONG><BR>Na Folha de S.Paulo de hoje</FONT></P></p>
 <p><P><FONT face=Verdana>Lula não deve</p>
 <p> reclamar de Geraldo Alckmin. Precisa calçar as sandálias da humildade para o próximo debate, pois afogou-se na poça de platitudes de um adversário previs?vel, frio como papa-defunto. Alckmin tem razão: \"De onde é que veio o dinheiro?\" </FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>Alguns, como Fernando Henrique Cardoso, têm senso de humor para rir das portas que se abrem sozinhas. Outros acreditam que porta fechada é desaforo. O livro \"Viagens com o presidente\", dos jornalistas Leonencio Nossa e Eduardo Scolese, mostra que Lula está nessa categoria.</FONT></P></p>
 <p><P><FONT face=Verdana>O companheiro vive nesse mundo encantado e, numa bela noite de domingo, vê-se diante de Geraldo Alckmin: \"De onde veio o dinheiro?\" Lula parecia um boxeador insultado porque o adversário o atacava. </FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://www1.folha.uol.com.br/fsp/brasil/fc1110200615.htm\" target=_blank>aqui</A></EM></STRONG> o texto completo (assinantes Folha e UOL).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

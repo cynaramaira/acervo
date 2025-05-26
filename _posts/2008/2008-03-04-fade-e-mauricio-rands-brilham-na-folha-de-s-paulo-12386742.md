@@ -1,0 +1,46 @@
+---
+id: 12386742
+date: "2008-03-04T12:59:00Z"
+last_modified_at: null
+tags:
+  - "datafolha"
+  - "mauricio"
+  - "paulo"
+categories:
+  - "noticias"
+title: "Fade e Maur\u00edcio Rands brilham na Folha de S. Paulo"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">Nesta segunda (3), o Blog antecipou, com exclusividade, que j&aacute; em 2001, ainda como secret&aacute;rio de Assuntos Jur&iacute;dicos da PCR na primeira gest&atilde;o de Jo&atilde;o Paulo, o hoje deputado federal Maur&iacute;cio Rands deu aval aos primeiros contratos da PCR com a Fade (Funda&ccedil;&atilde;o de Apoio ao Desenvolvimento da UFPE). <br /></p>
+<p><br /></p>
+<p>Em apenas tr&ecirc;s deles, a funda&ccedil;&atilde;o recebeu R$ 1,7 milh&atilde;o dos cofres municipais. Nada relacionado com a pesquisa ou educa&ccedil;&atilde;o. Maur&iacute;cio &eacute; irm&atilde;o do economista Alexandre que,&nbsp;segundo a&nbsp;Folha de S. Paulo desta ter&ccedil;a (4),&nbsp;relaciona emseucurrr&iacute;culo um &quot;v&iacute;nculo institucional&quot; com a Fade. Leia abaixo a mat&eacute;ia completa da Folha.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>Quatro ONGs na mira de CPI t&ecirc;m elos com pol&iacute;ticos </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Classificada como morna nos &uacute;ltimos meses, a CPI das ONGs tem pela frente um tema espinhoso: o elo de organiza&ccedil;&otilde;es n&atilde;o-governamentais com pol&iacute;ticos. Levantamento feito pela Folha mostra pelo menos quatro entidades na mira da CPI que receberam dinheiro p&uacute;blico e t&ecirc;m liga&ccedil;&otilde;es pol&iacute;ticas. Requerimentos ainda n&atilde;o aprovados de senadores da CPI pedem investiga&ccedil;&otilde;es e quebras de sigilos dessas entidades. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>Em um dos documentos, o senador Raimundo Colombo (DEM-SC), presidente da CPI, pediu a quebra dos sigilos da Fade (Funda&ccedil;&atilde;o de Apoio ao Desenvolvimento da Universidade Federal de Pernambuco). </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>A funda&ccedil;&atilde;o, sediada em Recife (PE), manteve contratos de consultoria com o economista Alexandre Rands, irm&atilde;o do l&iacute;der do PT na C&acirc;mara, Maur&iacute;cio Rands (PE). No seu curr&iacute;culo, Alexandre diz ter &quot;v&iacute;nculo institucional&quot; com a institui&ccedil;&atilde;o. </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>Os conv&ecirc;nios feitos com a Fade s&atilde;o alvo de inqu&eacute;rito do Minist&eacute;rio P&uacute;blico de Pernambuco. &quot;H&aacute; conv&ecirc;nios e contratos celebrados ao arrepio da lei. As atividades da funda&ccedil;&atilde;o v&ecirc;m sendo monitoradas minuciosamente e os dados coletados at&eacute; agora no inqu&eacute;rito civil instaurado dep&otilde;em, e muito, contra a Fade&quot;, afirmou o promotor Ulisses de Ara&uacute;jo e S&aacute; Jr. </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>Segundo o site do governo federal Portal da Transpar&ecirc;ncia (www.transparencia.gov.br), a Fade recebeu, em 2007, R$ 16,4 milh&otilde;es, menos que os R$ 19,12 milh&otilde;es de 2006. Em 2005 e 2004 foram R$ 8,16 milh&otilde;es e R$ 4,3 milh&otilde;es, respectivamente. Os maiores valores vieram do Minist&eacute;rio de Ci&ecirc;ncia e Tecnologia, que repassou R$ 15 milh&otilde;es em 2007. </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>Alexandre Rands tamb&eacute;m &eacute; s&oacute;cio da empresa Datam&eacute;trica, que presta servi&ccedil;os &agrave; Fade. Na sexta-feira, ele disse que levantaria o valor dos contratos entre a Fade e a Datam&eacute;trica, mas que eram de cerca de R$ 270 mil. At&eacute; o fechamento desta edi&ccedil;&atilde;o, n&atilde;o ligou de volta. </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>A Datam&eacute;trica tem ainda dois contratos para administrar o &quot;call center&quot; do INSS (Instituto Nacional do Seguro Social) de Recife e Salvador. </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>A empresa recebeu do instituto R$ 17,2 milh&otilde;es em 2006 e R$ 26,9 milh&otilde;es em 2007. &quot;Nossas &aacute;reas s&atilde;o pesquisa de opini&atilde;o, consultoria econ&ocirc;mica e principalmente telemarketing&quot;, disse Alexandre, que, em 2006, doou R$ 600 como pessoa f&iacute;sica ao irm&atilde;o e R$ 16.841 por meio da Datam&eacute;trica. A Folha ligou para Maur&iacute;cio Rands e sua assessoria, mas n&atilde;o conseguiu falar com ele. <br /></p>
+<p></strong><br /></p>
+<p>Paracatu </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Outra ONG ligada a petistas &eacute; a Conscienciarte, de Paracatu (MG). De 2003 at&eacute; agora, ela recebeu R$ 2,67 milh&otilde;es de oito minist&eacute;rios e da Secretaria da Igualdade Racial. Em 2007, recebeu mais de R$ 1 milh&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Os motivos s&atilde;o diversos, como a valoriza&ccedil;&atilde;o de manifesta&ccedil;&otilde;es culturais africanas, capacita&ccedil;&atilde;o de catadores na atividade de coleta seletiva dos munic&iacute;pios Vespasiano e Jabuticatubas e promo&ccedil;&atilde;o e divulga&ccedil;&atilde;o do turismo interno, como a 8&ordf; feira da cacha&ccedil;a artesanal e de derivados da cana-de-a&ccedil;&uacute;car. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O deputado estadual Almir Paraca (PT), um dos fundadores da ONG, foi prefeito de Paracatu at&eacute; 2000. Um requerimento da CPI cita o nome de Paraca. Em 2006, o petista doou a si mesmo mais de R$ 110 mil para a campanha a deputado. Ele disse &agrave; Folha que tinha renda para fazer as doa&ccedil;&otilde;es. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O vice-prefeito da gest&atilde;o de Paraca, Udelton da Paix&atilde;o, aparecia, at&eacute; sexta, como membro do conselho fiscal no site da institui&ccedil;&atilde;o. A diretoria tinha mais dois diretores ligados ao PT, mas o site foi atualizado. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A tesoureira, Vanda Soares, fez parte, no ano passado, da mesma chapa estadual de Paraca no PED (processo de elei&ccedil;&atilde;o direta do PT). O diretor-executivo, Jader Silva Neiva, foi candidato a vereador em 2004. <br /></p>
+<p><br /></p>
+<p>Piau&iacute; </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O presidente da CPI das ONGs tamb&eacute;m pediu dados do Cepac (Centro Piauiense de A&ccedil;&atilde;o Cultural). Entre 2005 e 2007, a ONG recebeu R$ 1,09 milh&atilde;o. Os conv&ecirc;nios s&atilde;o principalmente com o Minist&eacute;rio do Desenvolvimento Agr&aacute;rio. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O coordenador do Cepac &eacute; D&eacute;cio Solano Nogueira, que foi candidato a vereador pelo PT em 2004. D&eacute;cio aparece como doador, em 2006, de quase R$ 10 mil ao deputado federal licenciado Antonio Jos&eacute; Medeiros (PT-PI), que tamb&eacute;m foi do conselho do Cepac e hoje &eacute; secret&aacute;rio de Educa&ccedil;&atilde;o do Estado. O governador do Piau&iacute;, Wellington Dias, &eacute; outro que tem no curr&iacute;culo participa&ccedil;&atilde;o no conselho do Cepac, em 1996. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Outro caso citado na CPI foi o da Funda&ccedil;&atilde;o Amadeu Filomeno, de Itapipoca (CE). Desde 2004, R$ 3,7 milh&otilde;es foram liberados pela Diretoria Executiva do Fundo Nacional de Sa&uacute;de. Um requerimento pedindo informa&ccedil;&otilde;es da funda&ccedil;&atilde;o chegou a ser redigido, mas foi retirado pelo autor, Raimundo Colombo. A Folha n&atilde;o conseguiu localiz&aacute;-lo ontem &agrave; noite para saber o motivo da retirada. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A funda&ccedil;&atilde;o foi citada no esc&acirc;ndalo dos &quot;an&otilde;es do Or&ccedil;amento&quot;, que veio &agrave; tona em 1993. Os recursos atuais s&atilde;o para a mesma obra pela qual a entidade foi alvo de den&uacute;ncias h&aacute; dez anos, a constru&ccedil;&atilde;o do Hospital Regional de Itapipoca. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O deputado federal An&iacute;bal Ferreira Gomes (PMDB) era o presidente da funda&ccedil;&atilde;o na &eacute;poca das acusa&ccedil;&otilde;es dos &quot;an&otilde;es&quot; e chegou a ser condenado pelo TCU, em 2002. Atualmente, a ONG &eacute; presidida por Jos&eacute; Silveira Ponte, que, segundo An&iacute;bal, n&atilde;o tem liga&ccedil;&otilde;es com ele. <br /></p>
+<p>Em contato telef&ocirc;nico com a funda&ccedil;&atilde;o, a secret&aacute;ria disse que se tratava de um &quot;escrit&oacute;rio de contabilidade&quot;. Questionada pela Folha, disse que a funda&ccedil;&atilde;o tamb&eacute;m ficava ali.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">PS: ainda hoje, o Blog de Jamildo, sempre com exclusividade, far&aacute; uma ampla cobertura sobre os contratos da Fade.</font></p> </p>
+{% endraw %}

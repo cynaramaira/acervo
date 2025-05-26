@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana></p>
 <p><DIV align=RIGTH><FONT face=\"Verdana, Arial, Helvetica, sans-serif\">Por <STRONG>Cec?lia Ramos</STRONG><BR>Repórter do Blog do JC</FONT></DIV></FONT></p>
 <p><P><FONT face=Verdana>Atendendo a pedidos dos leitores do <STRONG>Blog do JC</STRONG> e à curiosidade geral das pessoas que não tiveram oportunidade de comparecer ao evento, socializamos as imagens da confraternização de fim de ano do governador eleito Eduardo Campos (PSB). </FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>6- Banquete com saladas, pães, frios e até ostras frescas;<BR></FONT></P></p>
 <p><P><FONT face=Verdana>7- Eduardo exibe o quadro que ganhou do fotógrafo Antônio Melcop, que reproduziu imagem de Ariano Suassuna, tendo ao fundo os olhos azuis do socialista;<BR></FONT></P></p>
 <p><P><FONT face=Verdana>8- O casal Renata e Eduardo Campos dançando no salão ao som de <EM>Madeira do Rosarinho </EM>(<EM>Madeira que cupim não rói</EM>, do mestre Capiba), que virou o hino da campanha&nbsp;do socialista.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

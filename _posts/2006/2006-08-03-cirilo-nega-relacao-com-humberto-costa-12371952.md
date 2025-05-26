@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do <STRONG><EM><A href=\"https://www.jc.com.br/\" target=_blank>blog</A></EM></STRONG> de Noblat</FONT></P></p>
 <p><P><FONT face=Verdana>(Trecho de entrevista exclusiva de José Airton Cirilo, ex-candidato ao governo do Ceará pelo PT, acusado de facilitar a liberação de recursos do Ministério da Saúde para a máfia das ambulâncias)</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Qual a relação do senhor com o ex-ministro da saúde Humberto Costa?</STRONG></FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>O senhor intermediou junto ao Ministério da Saúde o pagamento de uma d?vida de R$ 8 milhões da Planam como contou Luiz Antônio Vedoin em depoimento à Justiça?</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Nunca ouvi falar desses R$ 8 milhões que a Planam tinha a receber. Isso é mentira, é mentira.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Leia a entrevista completa no blog de Noblat.</STRONG></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

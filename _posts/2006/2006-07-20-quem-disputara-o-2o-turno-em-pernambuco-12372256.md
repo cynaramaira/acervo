@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>A maioria dos que votaram até agora aposta numa disputa Mendonça X Eduardo. Veja os números (arredondados)&nbsp;da enquete postada no menu, ao lado:</P></p>
 <p><P>Você acha que haverá segundo turno na eleição para governador de Pernambuco?</P></p>
 <p><P>Sim, entre Mendonça e Eduardo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 82%&nbsp; (411 votos)</P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P>&nbsp;</P></p>
 <p><P>Total de votos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;503</P></p>
 <p><P>&nbsp;</P> </p>
-{\% endraw %}
+{% endraw %}

@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Estivemos fora do ar por problemas técnicos no servidor do UOL. Pedimos desculpas. </FONT></P></p>
 <p><P><FONT face=Verdana>Nossos técnicos estão trabalhando para superar dificuldades que têm provocado esses problemas.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

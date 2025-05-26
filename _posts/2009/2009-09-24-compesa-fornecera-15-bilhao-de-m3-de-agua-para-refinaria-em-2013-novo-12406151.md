@@ -1,0 +1,25 @@
+---
+id: 12406151
+date: "2009-09-24T19:45:00Z"
+last_modified_at: null
+tags:
+  - "compesa"
+categories:
+  - "noticias"
+title: "Compesa fornecer\u00e1 1,5 bilh\u00e3o de m3 de \u00e1gua para refinaria em 2013. Novo cliente vai gerar receita de R$ 3 milh\u00f5es j\u00e1 em 2010 "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>No site <a href="https://www.aesbe.org.br">www.aesbe.org.br</a>.</p></p>
+<p><p><br /></p>
+<p>A Companhia Pernambucana de Saneamento (Compesa) firmou contrato junto &agrave; Refinaria do Nordeste - Abreu e Lima para o fornecimento de &aacute;gua tratada e bruta. A refinaria est&aacute; sendo instalada no Complexo Industrial de Suape, no munic&iacute;pio de Ipojuca, na Regi&atilde;o Metropolitana do Recife. A demanda ir&aacute; crescer de forma gradual e em 2013 ir&aacute; atingir 70 m3 de &aacute;gua tratada e de 1,5 milh&atilde;o de m3 ou seja 450 litros por segundo (l/s) de &aacute;gua bruta por m&ecirc;s. Este consumo equivale ao abastecimento de uma cidade de 150 mil habitantes, a exemplo de Garanhuns, no agreste. O novo cliente tamb&eacute;m vai gerar receita para a companhia, com um acr&eacute;scimo de R$ 3 milh&otilde;es j&aacute; em 2010 e de R$ 9 milh&otilde;es por ano, a partir de 2013, quando estiver em pleno consumo.</p></p>
+<p><p>Com isto, a Refinaria Abreu e Lima passa a ser a maior consumidor de &aacute;gua da Compesa, posto que est&aacute; ocupado atualmente pelo Estaleiro Atl&acirc;ntico Sul, para onde s&atilde;o fornecidos 150 mil m3 de &aacute;gua por m&ecirc;s, cerca de 45 l/s. A refinaria come&ccedil;a a receber &aacute;gua tratada em janeiro e &aacute;gua bruta em julho, mas atualmente j&aacute; fornece &aacute;gua tratada em pouca quantidade para a empresa, que &eacute; utilizada em trabalhos no canteiro de obras. &quot;Esse contrato significa o aumento de nossa responsabilidade em manter um sistema operacional seguro e eficiente para aquela atender aquela &aacute;rea economicamente estrat&eacute;gica para Pernambuco&quot;, comenta o secret&aacute;rio de Recursos H&iacute;dricos e presidente da Compesa, Jo&atilde;o Bosco de Almeida.</p></p>
+<p><p>O contrato foi assinado nesta quarta-feira (23), pelo secret&aacute;rio Jo&atilde;o Bosco e pelo diretor corporativo da refinaria Abreu e Lima, Jo&atilde;o Batista Aquino, com a presen&ccedil;a da presidente da Associa&ccedil;&atilde;o Brasileira de Engenharia Sanit&aacute;ria &ndash; ABES, Cassilda Teixeira e de diretores da Compesa, em sala do Centro de Conven&ccedil;&otilde;es, onde ocorre o 25&ordm; Congresso Brasileiro de Engenharia Sanit&aacute;ria.</p></p>
+<p><p>A refinaria ser&aacute; abastecida pelas barragens Bita e Utinga, que atualmente s&atilde;o respons&aacute;veis pela oferta de &aacute;gua no Complexo de Suape. Na cerim&ocirc;nia de assinatura do contrato, os diretores da Compesa fizeram uma apresenta&ccedil;&atilde;o sobre a atual produ&ccedil;&atilde;o de &aacute;gua e os principais aspectos dos sistemas produtores que abastecem a RMR e em especial para aquela regi&atilde;o. Uma das a&ccedil;&otilde;es mostradas prev&ecirc; a implanta&ccedil;&atilde;o de a&ccedil;&otilde;es que fazem com que em 2011 o sistema produtor de Suape ser&aacute; ampliado em cerca de 600 litros por segundo l/s, a partir de uma capta&ccedil;&atilde;o na Bacia do Rio Ipojuca, mas foram mostradas outras metas, que garante o aumento da oferta de &aacute;gua para aquela regi&atilde;o em curto, m&eacute;dio e longo prazo. Para fechar o contrato, a Compesa criou tarifas diferenciadas, que tamb&eacute;m poder&atilde;o ser utilizadas por outros clientes da mesma faixa de consumo. A refinaria come&ccedil;ar&aacute; pagando R$ 0,53 por m3 e o valor cair&aacute; para R$ 0,40 por m3 m 2013.</p></p>
+<p><p>Essa &eacute; a primeira vez que a Petrobr&aacute;s firma um contrato com uma concession&aacute;ria de &aacute;gua, segundo Jo&atilde;o Aquino. &ldquo;Nas outras refinarias instaladas em zonas rurais, mais isoladas, tivemos que implantar capta&ccedil;&atilde;o pr&oacute;pria. Aqui contamos com toda a com uma infra-estrutura portu&aacute;ria adequada e com uma zona industrial estruturada&quot;, destacou o diretor. As obras de instala&ccedil;&atilde;o da refinaria encontram-se atualmente em fase de conclus&atilde;o da terraplanagem e chegada de equipamentos. Or&ccedil;ada em US$ 2,8 milh&otilde;es, a refinaria dever&aacute; entrar em opera&ccedil;&atilde;o no segundo semestre de 2011, processando 200 mil barris de petr&oacute;leo por dia, que atender&atilde;o todo o Norte e Nordeste. Os produtos gerados ser&atilde;o o diesel, g&aacute;s de cozinha, nafta petroqu&iacute;mica, que &eacute; a mat&eacute;ria-prima para a produ&ccedil;&atilde;o de resinas pl&aacute;sticas. O maior gasto de &aacute;gua do empreendimento &eacute; com evapora&ccedil;&atilde;o. &ldquo;O petr&oacute;leo &eacute; aquecido e depois resfriado. Pormais que seja melhor aproveitada a energia, tem grande perda de &aacute;gua com o resfriamento&rdquo;, conta Jo&atilde;o Aquino.</p></p>
+<p><p><br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

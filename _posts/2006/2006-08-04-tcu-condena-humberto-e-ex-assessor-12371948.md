@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Arial></p>
 <p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG><BR>(com Agência Estado)</FONT></P></p>
 <p><P><FONT face=Verdana>O plenário do Tribunal de Contas da União (TCU) determinou, em sessão sigilosa, que o jornalista Laércio Portela Delgado, assessor-adjunto de Imprensa do governo, e o candidato a governador de Pernambuco Humberto Costa (PT), da Coligação Melhor pra Pernambuco (PT-PRB-PT-PTB-PAN-PMN-PC do B), paguem multa de R$ 5 mil e R$ 13 mil, respectivamente, por fazer uso pessoal do programa \"Rádio Saúde\", do Ministério da Saúde.</FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p> do programa, de dois minutos de duração, de outubro de 2004 a abril de 2005, em dias úteis. </FONT></P></p>
 <p><P><FONT face=Verdana>Delgado disse que recorrerá. \"Discordo desta decisão do TCU, que carece de qualquer fundamento, e vou recorrer, administrativamente e judicialmente\", afirmou.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/\" target=_blank>aqui</A></EM></STRONG> o texto completo (assinates JC e UOL).</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

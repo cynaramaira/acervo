@@ -13,8 +13,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Eduardo Campos (PSB)&nbsp;e Mendonça Filho (PFL)&nbsp;já estão na TV Clube, no bairro de Santo Amaro, no Recife.</FONT></P></p>
 <p><P><FONT face=Verdana>O governador-candidato Mendonça Filho foi o primeiro a chegar. </FONT></P></p>
 <p><P><FONT face=Verdana>Ausência de militância no entorno da TV. Bem diferente do cenário dos debates no 1º turno.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

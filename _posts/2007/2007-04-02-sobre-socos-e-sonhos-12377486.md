@@ -1,0 +1,31 @@
+---
+id: 12377486
+date: "2007-04-02T19:23:00Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "noticias"
+title: "Sobre socos e sonhos"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><OBJECT height=350 width=425><PARAM NAME=\"movie\" VALUE=\"https://www.youtube.com/v/uxEQhcZNHfM\"><PARAM NAME=\"wmode\" VALUE=\"transparent\"></p>
+<p><embed src=\"https://www.youtube.com/v/uxEQhcZNHfM\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"425\" height=\"350\"></embed></OBJECT><FONT size=2></p>
+<p><P><FONT face=Verdana><STRONG>AMANDA TAVARES</STRONG><BR>Especial para o<STRONG> Blog</STRONG></FONT></P></p>
+<p><P><FONT face=Verdana>Jamildo disse aqui no Blog que o filme Pro Dia Nascer Feliz é “um soco no estômago”. Eu respondi que, há pouco mais de dois anos, todo dia, “levo um soco”. Eu e milhares de professores, alunos e funcionários que vivem a realidade da escola pública no Brasil. </FONT></P></p>
+<p><P><FONT face=Verdana>As primeiras imagens do filme não são novidade para mim, afinal referem-se ao cotidiano dos jovens do interior pernambucano e as escolas da capital são bem parecidas com as de lá. Mesmo vendo aquilo todo dia, me impressionei. É que eu estava acostumada a discutir apenas com pessoas cujo dia-a-dia é bem parecido com o meu. Como já vejo tantas pessoas “de fora” tratarem do assunto com desdém, ver João Jardim abordando de maneira tão detalhada, me encheu de esperanças. Quando pessoas “de fora” tocam no assunto, geralmente é por curiosidade. Sempre me perguntam coisas como: “Você recebe ameaças?”; “Você não tem medo de enfrentar meninos tão violentos?”; “Como é que se tem coragem de trabalhar para ganhar tão pouco?”</FONT></P></p>
+<p><P><FONT face=Verdana>É impressionante a falta de conhecimento das pessoas. O pior é que freqüentemente se estampam as notícias nos jornais, todo mundo sabe que o problema existe, mas, enquanto não incomoda a todos, os mais bem-sucedidos vão achando que a solução é colocar seus filhos em escolas particulares e está tudo resolvido. Ninguém se interessa em resolver o problema de verdade.</FONT></P></p>
+<p><P><FONT face=Verdana>Quando apareceram as imagens de uma escola no Rio de Janeiro, fiquei surpresa. Não sabia que, mesmo em estados mais desenvolvidos, a situação era tão semelhante. Tinha a impressão de que nesses lugares a realidade era um pouco melhor.</FONT></P></p>
+<p><P><FONT face=Verdana>Ver uma educadora mandando os alunos de uma turma de volta para casa antes da primeira aula porque não tinha professor. Observar que, no conselho de classe, alguns professores acabam aprovando alunos despreparados para enfrentar a próxima série para evitar que eles se submetam à progressão parcial, maneira comprovadamente ineficaz de aprovação. Assistir a professores implorando aos alunos para prestarem atenção às aulas. Tudo isso me fez perceber que o problema é bem mais grave do que eu pensava.</FONT></P></p>
+<p><P><FONT face=Verdana>Agora, o que esperar de jovens que “levam socos” em casa, no bairro onde moram e ainda chegam na escola e encontram uma realidade como essa? Antes de criticá-los, quem o faz deveria procurar entender o seu lado. Sabe onde está o problema? Quem não estuda em escola pública, acha que não precisa se envolver tanto com o assunto. João Jardim mostra isso no filme. Em São Paulo, estudantes da classe média afirmam “se preocupar” com tudo, mas não se dispõem a deixar o seu conforto para tomar alguma atitude. Quando assisti à cena no cinema, tive a impressão de que já a tinha visto algumas vezes, em alguns lugares...</FONT></P></p>
+<p><P><FONT face=Verdana>Outra preocupação do diretor, é dar voz aos professores. Por que se falta tanto? Porque não se cumprem os horários? “Falto porque fico cansada. Uma vez por mês vou ao psiquiatra. Faço terapia para conseguir lidar com essa realidade”, resumiu uma professora de São Paulo, que, pela aparência, não deve ter ainda 30 anos de idade. Acho que não preciso de mais argumentos para defender a minha classe. Todo mundo sabe que é raro encontrar um professor de escola pública que tenha apenas aquele emprego. Geralmente se trabalha os três horários para se conseguir pagar as contas. É, no mínimo, desumano.</FONT></P></p>
+<p><P><FONT face=Verdana>Tenho duas turmas de segundo ano do ensino médio. Semana passada, numa aula sobre Romantismo, citei Canção do Exílio, de Gonçalves Dias. Nas próximas aulas, sem dúvida, irei citar o exemplo de Valéria, estudante de Manari que escreve poesias e, parafraseando o autor romântico, aparece já no final do filme recitando um poema de sua autoria, criado porque a professora de português pediu. O texto é perfeito. E Marília emociona ao recitar. Darei o exemplo a meus alunos porque acredito que, apesar de tanta gente aparecer para frustrar seus sonhos, posso influenciá-los a voltar a sonhar. Posso fazê-los acreditar que, apesar dos “socos”, eles podem, sim, ser poetas, médicos, jornalistas, professores, advogados, ou o que quiserem ser. E quem não acreditar, é só assistir ao filme. Marília prova que isso é possível.</FONT></P></p>
+<p><P><FONT face=Verdana>Não deixei de acreditar na educação pública. Aliás, no dia que isso acontecer, provavelmente não irei mais à sala de aula. Triste do professor que se declara desacreditado. Esse, jamais, pode se dizer educador.</FONT></P></p>
+<p><P><FONT face=Verdana>Afinal, o governo pode decepcionar, as atitudes de algumas pessoas também, mas, sempre que chego em sala de aula, encontro vários rostos (bem parecidos com os que são expostos no final do filme), com sede de aprendizado. E o que um mestre desacreditado vai passar de positivo para essas criaturas? Apesar de todas as dificuldades, é covardia incentivá-los a desistir. Penso assim e procuro fazer a minha parte. Para ver se consigo evitar de ver cenas como a que fecha o filme, com crianças, tão inocentes, já provando, literalmente, o gosto amargo da vida na escola pública.</FONT></P></p>
+<p><P><FONT face=Verdana>PS: <EM>Amanda Tavares é repórter do JC e professora do Ensino Médio em uma escola pública.</EM></FONT></P></p>
+<p><P><EM><FONT face=Verdana>PS: Veja a resenha inicial <A href=\"https://jc3.uol.com.br/blogs/blogdejamildo/2007/03/18/index.php#6254\">aqui</A></FONT></EM></P> </p>
+{% endraw %}

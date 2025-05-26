@@ -1,0 +1,51 @@
+---
+id: 12383807
+date: "2007-11-13T17:27:00Z"
+last_modified_at: null
+tags:
+  - "artigo"
+  - "auditoria"
+  - "desculpas"
+  - "jarbas-vasconcelos"
+  - "licitacao"
+  - "mendonca"
+  - "paulo"
+  - "presidios"
+  - "rubem-fonseca"
+categories:
+  - "noticias"
+title: "Em artigo, Paulo Rubem culpa gest\u00e3o Jarbas e Mendon\u00e7a por motins nos pres\u00eddios e cita auditoria da CGU"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">ANIBAL BRUNO : Algumas quest&otilde;es urgentes</font></p></p>
+<p><p><font face=\"Verdana\">Por <strong>Paulo Rubem Santiago</strong></font></p></p>
+<p><p><font face=\"Verdana\">A rebeli&atilde;o ocorrida no Pres&iacute;dio Anibal Bruno no Recife, nos &uacute;ltimos dois dias, pode ser vista de v&aacute;rias maneiras.</font></p></p>
+<p><p><font face=\"Verdana\">A primeira delas, com os olhos focados nas telas de TV, sobretudo nos programas ditos &quot; policiais&quot;, certamente tratar&aacute; o fato como mais uma manifesta&ccedil;&atilde;o da insatisfa&ccedil;&atilde;o de bandidos e criminosos que n&atilde;o merecem moleza ou facilidades. </font></p></p>
+<p><p><font face=\"Verdana\">Outra vis&atilde;o poder&aacute; enfocar o fato tratando apenas das falhas do sistema prisional, j&aacute; que o Pres&iacute;dio Anibal Bruno est&aacute; superlotado e isso gera uma certa quantidade de p&oacute;lvora acumulada, com elevado risco de rebeli&atilde;o, mais viol&ecirc;ncia e mais homic&iacute;dios. </font></p></p>
+<p><p><font face=\"Verdana\">O que certamente n&atilde;o ser&aacute; observado &eacute; que o sistema prisional &eacute; o reflexo de um conjunto de responsabilidades e omiss&otilde;es, fun&ccedil;&otilde;es, a&ccedil;&otilde;es e metas, muitas vezes n&atilde;o atendidos plenamente pelos poderes de estado respons&aacute;veis pela mat&eacute;ria. </font></p></p>
+<p><p><font face=\"Verdana\">Em primeiro lugar deve-se destacar a viol&ecirc;ncia cometida pelo estado contra os presos, antes deles terem cometido quaisquer crimes. </font></p></p>
+<p><p><font face=\"Verdana\">A maioria da popula&ccedil;&atilde;o carcer&aacute;ria brasileira, sobretudo no nordeste, &eacute; negra ou de origem afro-brasileira, n&atilde;o tem sequer as s&eacute;ries iniciais do antigo 1&ordm; grau ou ainda &eacute; analfabeta. N&atilde;o teve qualquer forma&ccedil;&atilde;o profissional. Muitos, de origem rural, migraram para a cidade em busca do emprego que nunca apareceu e, por todas essas raz&otilde;es, findaram cometendo o primeiro delito, muitas vezes residindo em bairros insalubres, localidades paup&eacute;rrimas, ao lado de elegantes edif&iacute;cios e portentosos shoppings.</font></p></p>
+<p><p><font face=\"Verdana\">Em segundo lugar observa-se que do ponto de vista criminal, o Poder Judici&aacute;rio n&atilde;o tem a quantidade suficiente de Varas para fazer com que os processos sejam agilizados, sobretudo com o crescimento vertiginoso das ocorr&ecirc;ncias nas &uacute;ltimas duas d&eacute;cadas.</font></p></p>
+<p><p><font face=\"Verdana\">O Poder Judici&aacute;rio, como os demais, tamb&eacute;m est&aacute; amarrado a limites de gastos de pessoal, segundo a m&iacute;ope Lei de Responsabilidade Fiscal-LRF, Lei Complementar 101, de 2000.</font></p></p>
+<p><p><font face=\"Verdana\">Por outro lado, observa-se que a Lei de Execu&ccedil;&otilde;es Penais, Lei 7210, de 11 de julho de 1984, estabelece direitos para os presos no seu artigo 41 e no artigo 42 trata da situa&ccedil;&atilde;o dos presos em regime provis&oacute;rio.</font></p></p>
+<p><p><font face=\"Verdana\">Pergunta-se :</font></p></p>
+<p><p><font face=\"Verdana\">- A aplica&ccedil;&atilde;o da Lei &eacute; efetiva em ambos os casos ?</font></p></p>
+<p><p><font face=\"Verdana\">- Por que Pernambuco &eacute; o Estado da federa&ccedil;&atilde;o com o maior percentual de presos em regime provis&oacute;rio, tendo apenas 15% dos quase 17.000 presos inscritos em programas de ressocializa&ccedil;&atilde;o ?</font></p></p>
+<p><p><font face=\"Verdana\">Em terceiro lugar, deve-se observar que n&atilde;o h&aacute; defensores p&uacute;blicos em quantidade suficiente, na maioria dos estados para acompanhar a situa&ccedil;&atilde;o carcer&aacute;ria dos presos pobres (a maioria), que n&atilde;o podem pagar advogados nem, por isso mesmo, t&ecirc;-los acompanhando cada passo da progress&atilde;o de sua pena. Quem nunca ouviu falar em presos cuja pena j&aacute; foi cumprida e que permanecem nos pres&iacute;dios ?</font></p></p>
+<p><p><font face=\"Verdana\">Recentemente, em audi&ecirc;ncia na CPI da Situa&ccedil;&atilde;o Carcer&aacute;ria, na C&acirc;mara Federal, a Promotora que atua na Vara de Execu&ccedil;&otilde;es Penais, Dra. Cleonice Resende, de Bras&iacute;lia, denunciou que o governo do Distrito Federal n&atilde;o contrata defensores p&uacute;blicos alegando falta de verbas no or&ccedil;amento. </font></p></p>
+<p><p><font face=\"Verdana\">Checamos a informa&ccedil;&atilde;o no site da Secretaria do Tesouro Nacional e vimos que enquanto a Lei de Responsabilidade Fiscal estabelece o limite de gastos de pessoal em 49% da receita corrente l&iacute;quida, o governo do GDF gastava 34,6 % dessa receita, com folga evidente para abrir concurso e contratar mais defensores p&uacute;blicos.</font></p></p>
+<p><p><font face=\"Verdana\">Preso que n&atilde;o tem assist&ecirc;ncia jur&iacute;dica corre o risco de morrer de velho na pris&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\"><strong>Qual ser&aacute; a situa&ccedil;&atilde;o de Pernambuco ?</strong></font></p></p>
+<p><p><font face=\"Verdana\">Ainda em rela&ccedil;&atilde;o a situa&ccedil;&atilde;o da Defensoria, est&aacute; ficando de cabelos brancos na C&acirc;mara dos Depuatdos a proposta de emenda constitucional que concede autonomia a Defensoria P&uacute;blica, o que defendemos. Mas por que n&atilde;o se aprova a mat&eacute;ria ? </font></p></p>
+<p><p><font face=\"Verdana\"><strong>Em quarto lugar (e Pernambuco herdou esse quadro do governo que tivemos entre 1999 e 2006) a Pol&iacute;cia Militar foi substitu&iacute;da nos pres&iacute;dios por pessoal tempor&aacute;rio, os GETS-Guardas Especiais Tempor&aacute;rios, ganhando um sal&aacute;rio m&iacute;nimo, sem carreira, sem profiss&atilde;o definida, com contratos que se renovam &quot;ad infinitum&quot; e que agora tentam se beneficiar com uma proposta de Emenda Constitucional que visa sua efetiva&ccedil;&atilde;o, outra manobra que tenta corrigir uma injusti&ccedil;a praticando uma inconstitucionalidade</strong>.</font></p></p>
+<p><p><font face=\"Verdana\">Em quinto lugar observa-se que tamb&eacute;m o Minsit&eacute;rio P&uacute;blico est&aacute; de m&atilde;os atadas pelos mesmos limites de gastos da LRF. O or&ccedil;amento do MP para 2007 n&atilde;o comtemplou mais recursos para assegurar o provimento de cargo por concurso de mais de 80 Promotores, para a as vagas existentes em seu quadro de pessoal. A quem interessa a escassez de Promotores num estado marcado pelos &iacute;ndices de viol&ecirc;ncia e criminalidade ?</font></p></p>
+<p><p><font face=\"Verdana\">Em sexto e, por fim, &uacute;ltimo lugar, deve-se salientar a aus&ecirc;ncia de di&aacute;logo, constru&ccedil;&atilde;o de planos conjuntos, defini&ccedil;&atilde;o de or&ccedil;amentos convergentes, metas a serem atendidas, aus&ecirc;ncia de presta&ccedil;&atilde;o de contas desses planos e metas &agrave; sociedade, que paga impostos e paga sal&aacute;rios aos ju&iacute;zes, aos promotores, aos defensores p&uacute;blicos, aos agentes penitenci&aacute;rios e a n&oacute;s, que fazemos as leis.</font></p></p>
+<p><p><font face=\"Verdana\">Na esteira de todas essas lacunas prosperam as rebeli&otilde;es, o estado paralelo nos pres&iacute;dios, a seguran&ccedil;a privada nos bairros e os grupos de exterm&iacute;nio em v&aacute;rias regi&otilde;es de Pernambuco e do Pa&iacute;s.</font></p></p>
+<p><p><font face=\"Verdana\">S&oacute; com a converg&ecirc;ncia da atua&ccedil;&atilde;o dos org&atilde;os de estado respons&aacute;veis pela pol&iacute;tica penitenci&aacute;ria, com recursos or&ccedil;ament&aacute;rios que asseguram o cumprimento da Lei de Execu&ccedil;&otilde;es Penais, com a efetiva&ccedil;&atilde;o de todos os cargos de pessoal previstos em lei e com a permanente avalia&ccedil;&atilde;o desses resultados, se poder&aacute; atingir um sistema prisional efetivo, cuja fun&ccedil;&atilde;o seja garantir seguran&ccedil;a &agrave; sociedade, priva&ccedil;&atilde;o da liberdade aos presos, assegurando, sobretudo, sua integridade e, durante o cumprimento da pena, a corre&ccedil;&atilde;o das aus&ecirc;ncias praticadas contra eles e elas, antes do crime, por um estado que abandonou sua popula&ccedil;&atilde;o mais pobre, que n&atilde;o lhe assegurou educa&ccedil;&atilde;o fundamental, forma&ccedil;&atilde;o profissional, emprego e renda, apesar de praticar nos &uacute;ltimos anos a mais alta carga tribut&aacute;ria da hist&oacute;ria republicana e de reservar para o or&ccedil;amento federal de 2008, R$ 152 bilh&otilde;es apenas para pagar juros da d&iacute;vida p&uacute;blica. </font></p></p>
+<p><p><font face=\"Verdana\">Agora em 2007 cada governo estadual prepara seu primeiro or&ccedil;amento ( para 2008 ) j&aacute; no exerc&iacute;cio do cargo, assim como est&aacute; nas Assembl&eacute;ia Legislativas a proposta de Lei para o Plano Plurianual 2008-2011, o mesmo acontecendo no Congresso Nacional para o segundo mandato de governo do Presidente Lula. </font></p></p>
+<p><p><font face=\"Verdana\">Momentos importantes, portanto, para que a sociedade analise os n&uacute;meros, as receitas, as metas e os mecanismos de avalia&ccedil;&atilde;o que ser&atilde;o implementados daqui por diante, sobretudo agora quando os conv&ecirc;nios assinados com transfer&ecirc;ncia de verbas pelo Governo Federal com os Estados, nos &uacute;ltimos anos, apresentaram diversos ind&iacute;cios de irregularidades, inclusive superfaturamento na compra de equipamentos e constru&ccedil;&atilde;o ou reforma de delegacias e pres&iacute;dios, como pode ser observado nos relat&oacute;rios da Controladoria Geral da Uni&atilde;o (ver em </font><a href=\"https://www.cgu.gov.br\"><font face=\"Verdana\">www.cgu.gov.br</font></a><font face=\"Verdana\">, estados sorteados).</font></p> </p>
+{% endraw %}

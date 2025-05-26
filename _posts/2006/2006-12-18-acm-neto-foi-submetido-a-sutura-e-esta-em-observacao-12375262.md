@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><DIV class=txt id=mudaFonte></p>
 <p><P><FONT face=Verdana>Do portal G1</FONT></P></p>
 <p><P><FONT face=Verdana>O Hospital da Bahia divulgou no final da tarde desta segunda (18) o seguinte boletim médico a respeito do estado de saúde do deputado Antonio Carlos Magalhães Neto, v?tima de&nbsp;agressão&nbsp;a faca em Salvador:</FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>Foi conduzido ao Centro Cirúrgico onde foram realizadas inspeção e sutura da lesão, pela equipe do Dr. Izio Kowes.</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>No momento, encontra-se em observação na unidade de internação do Hospital da Bahia, lúcido e orientado, evoluindo com estabilidade dos parâmetros cl?nicos hemodinâmicos e respiratório.</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>Dr. Jadelson Andrade<BR>CRM BA 4636<BR>Diretoria Médica<BR>Superintendência\"</EM></FONT></P></DIV> </p>
-{\% endraw %}
+{% endraw %}

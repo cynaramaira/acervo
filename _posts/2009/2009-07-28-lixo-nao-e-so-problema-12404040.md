@@ -1,0 +1,27 @@
+---
+id: 12404040
+date: "2009-07-28T10:49:51Z"
+last_modified_at: null
+tags:
+  - "lixo"
+  - "naomi-campbell"
+  - "problemas-auditivos"
+categories:
+  - "colunistas"
+title: "Lixo n\u00e3o \u00e9 s\u00f3 problema"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Editorial do Jornal do Commercio desta ter&ccedil;a<br /></p>
+<p><br /></p>
+<p>A destina&ccedil;&atilde;o do lixo, de origem dom&eacute;stica ou industrial, &eacute; uma quest&atilde;o que envolve e preocupa o mundo inteiro. Os pa&iacute;ses mais desenvolvidos tamb&eacute;m o enfrentam e at&eacute; recorrem a solu&ccedil;&otilde;es colonialistas indefens&aacute;veis para civilizados, como exportar lixo, inclusive hospitalar, para pa&iacute;ses com menor grau de desenvolvimento. Recentemente, as autoridades descobriram cont&ecirc;ineres com lixo proveniente sobretudo da Inglaterra em portos da regi&atilde;o Sul. As guias de exporta&ccedil;&atilde;o usadas s&atilde;o fraudulentas e a fraude envolve empresas de l&aacute; e nacionais. Ora, j&aacute; temos suficientes problemas com o lixo produzido nacionalmente. Dispensamos essa estranha &ldquo;colabora&ccedil;&atilde;o&rdquo; da Europa. Ser&aacute; que n&atilde;o bastaram os s&eacute;culos de coloniza&ccedil;&atilde;o&#63;<br /></p>
+<p><br /></p>
+<p>A Uni&atilde;o Europeia tem uma rigorosa legisla&ccedil;&atilde;o sobre destina&ccedil;&atilde;o de res&iacute;duos, o que &eacute; corret&iacute;ssimo. Mas, e da&iacute;&#63; Para bancar os civilizados l&aacute;, seus pa&iacute;ses membros v&atilde;o mandar o lixo para c&aacute;&#63; J&aacute; t&iacute;nhamos o precedente de exporta&ccedil;&atilde;o para o Brasil de pneus velhos. Agora aparece essa nova modalidade. N&oacute;s j&aacute; estamos &agrave;s voltas com graves problemas de lix&otilde;es sem tratamento adequado, de lixo hospitalar sem manuseio e destina&ccedil;&atilde;o corretos, de baixa ades&atilde;o &agrave; reciclagem de res&iacute;duos aproveit&aacute;veis. No primeiro semestre deste ano, o Recife penou com ac&uacute;mulo de lixo, problema legado ao novo prefeito pela administra&ccedil;&atilde;o anterior, apesar de tanto o ex-prefeito Jo&atilde;o Paulo como o atual Jo&atilde;o da Costa serem do mesmo partido. Depois surgiu a quest&atilde;o do lix&atilde;o da Muribeca, afinal desativado.</p></p>
+<p><p>Bons estudos sobre o tema e boas propostas de solu&ccedil;&atilde;o n&atilde;o faltam. A maior dificuldade &eacute; o estilo brasileiro de administra&ccedil;&atilde;o, que privilegia a pol&iacute;tica partid&aacute;ria e o aparelhamento do Estado, em detrimento da boa governan&ccedil;a. Em recente edi&ccedil;&atilde;o do Jornal do Commercio, nossa rep&oacute;rter Angela Fernanda Belfort mostra como o lixo pode ser fonte de lucro. Num momento em que o Recife enfrenta tantos problemas na &aacute;rea, a nossa pioneira e cinquenten&aacute;ria hidrel&eacute;trica fez um estudo mostrando que o lixo pode se tornar uma fonte de receita para os munic&iacute;pios. O estudo gerou o Projeto Piloto para Recupera&ccedil;&atilde;o Energ&eacute;tica do Biog&aacute;s no Aterro da Muribeca. O lixo pode ser rent&aacute;vel gerando energia com a queima do metano produzido e atrav&eacute;s da venda de cr&eacute;dito de carbono.</p></p>
+<p><p>Sem se contentar com teoria, a Chesf j&aacute; implantou projeto experimental na Muribeca, que est&aacute; usando 38 mil metros c&uacute;bicos de lixo aterrado para gerar energia para 150 fam&iacute;lias pobres com m&eacute;dia de consumo de 100 kw/hora. Mas, se o projeto for implantado em larga escala, o aterro tem capacidade avaliada de produzir energia para abastecer mais de 70 mil fam&iacute;lias em id&ecirc;nticas condi&ccedil;&otilde;es. Se estudos como esse forem levados a s&eacute;rio pelos poderes p&uacute;blicos, a perspectiva &eacute; muito boa, tanto para resolver o problema de destina&ccedil;&atilde;o de res&iacute;duos, como para diversificar a matriz energ&eacute;tica brasileira. Ressalte-se que, ao ser queimado, o g&aacute;s metano vira energia e n&atilde;o vai para o meio ambiente contribuindo para o efeito estufa. No Brasil, j&aacute; existem projetos semelhantes. Na Alemanha, j&aacute; se transforma quase todo o lixo org&acirc;nico em energia.</p></p>
+<p><p>Al&eacute;m das vantagens enumeradas, a gera&ccedil;&atilde;o de receita com a venda de energia a partir do lixo e com cr&eacute;ditos de carbono tamb&eacute;m poderia aliviar a sociedade de grandes despesas com o servi&ccedil;o de coleta de lixo. O dinheiro ganho poderia pagar ao menos parte desse servi&ccedil;o, que sofre acusa&ccedil;&otilde;es de superfaturamento. Enquanto n&atilde;o progridem projetos do g&ecirc;nero, &eacute; importante intensificar a educa&ccedil;&atilde;o da popula&ccedil;&atilde;o no sentido de praticar e intensificar a reciclagem. Muitos ainda n&atilde;o a praticam por inconsciente comodismo. A educa&ccedil;&atilde;o ambiental das crian&ccedil;as nas escolas contribui para mudar essa mentalidade.</p></p>
+<p><p>Pa&iacute;ses mais desenvolvidos e, no Brasil, Estados como o Cear&aacute; j&aacute; desenvolvem projetos de energia e&oacute;lica. Em Pernambuco, tudo indica que o projeto da UFPE, em terreno da Marinha &agrave; margem da Avenida Olinda, n&atilde;o prosperou. Lembramos que s&oacute; o lixo dom&eacute;stico produzido diariamente no Brasil (cerca de 150 mil toneladas), se transformado em energia, poderia significar um faturamento anual em torno de R$ 17 bilh&otilde;es.</p> </p>
+{% endraw %}

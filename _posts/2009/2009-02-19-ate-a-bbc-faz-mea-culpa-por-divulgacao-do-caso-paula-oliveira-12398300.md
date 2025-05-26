@@ -1,0 +1,32 @@
+---
+id: 12398300
+date: "2009-02-19T17:20:00Z"
+last_modified_at: null
+tags:
+  - "casos"
+  - "desculpas"
+  - "divulgacao"
+  - "jorge-oliveira"
+  - "paula-braun"
+  - "skate"
+categories:
+  - "noticias"
+title: "At\u00e9 a BBC faz mea culpa por divulga\u00e7\u00e3o do caso Paula Oliveira"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><br /></p>
+<p>Caso Paula e o poder da d&uacute;vida</p></p>
+<p><p>Por Rog&eacute;rio Sim&otilde;es, no Blog do Editor</p></p>
+<p><p>H&aacute; quem n&atilde;o acredite na imprensa. Sei que algumas pessoas dizem n&atilde;o acreditar em praticamente nada do que l&ecirc;em em jornais, revistas, ouvem no r&aacute;dio ou v&ecirc;em na televis&atilde;o. Tal pensamento representa para n&oacute;s, jornalistas, um desafio. Mas tamb&eacute;m deveria servir de inspira&ccedil;&atilde;o. Afinal, a d&uacute;vida, ou muitas vezes at&eacute; o ceticismo, &eacute; uma das maiores armas do bom jornalismo. Qualquer rep&oacute;rter, ao receber no colo uma informa&ccedil;&atilde;o nova, deveria fazer duas coisas: em primeiro lugar, duvidar; em segundo, correr atr&aacute;s das fontes pertinentes para saber se sua d&uacute;vida tem, ou n&atilde;o, fundamento. &Eacute; preciso se mexer, mas sem abandonar seu papel de questionador.</p></p>
+<p><p>O caso envolvendo a brasileira Paula Oliveira, que afirmava ter sido atacada por tr&ecirc;s neo-nazistas na Su&iacute;&ccedil;a, deixou o governo brasileiro e boa parte da imprensa do pa&iacute;s em situa&ccedil;&atilde;o delicada. O epis&oacute;dio chocou a opini&atilde;o p&uacute;blica por causa da tortura que teria sido aplicada, com cortes em v&aacute;rias partes do corpo da v&iacute;tima, e porque o suposto ataque teria provocado o fim de uma gravidez de g&ecirc;meos. Mas pouco depois peritos su&iacute;&ccedil;os comprovaram que Paula n&atilde;o estava gr&aacute;vida no dia em que disse ter sido agredida e disseram que os cortes podem ter sido infligidos por ela mesma. Na ter&ccedil;a-feira, dia 17, a advogada foi indiciada e impedida de deixar a Su&iacute;&ccedil;a, sob acusa&ccedil;&atilde;o de &quot;induzir autoridades ao erro&quot;.</p></p>
+<p><p>O problema da maioria da cobertura jornal&iacute;stica desse caso no Brasil foi a falta de d&uacute;vida de muitos jornalistas. As palavras ditas pelo pai da suposta v&iacute;tima foram apresentadas por grande parte da m&iacute;dia como a verdade absoluta. Para piorar, o governo brasileiro as abra&ccedil;ou completamente e as revendeu a ve&iacute;culos de imprensa, entre eles a BBC Brasil, como um fato comprovado e digno do selo presidencial.</p></p>
+<p><p>N&oacute;s, aqui na BBC, somos pagos para duvidar. Constantemente a BBC se v&ecirc; no dilema entre dar uma not&iacute;cia rapidamente ou esperar alguma confirma&ccedil;&atilde;o adicional. Nossa obriga&ccedil;&atilde;o &eacute; optar pela confirma&ccedil;&atilde;o, o que faz com que a BBC pare&ccedil;a &quot;lenta&quot; em algumas not&iacute;cias levadas ao ar imediatamente por outros ve&iacute;culos. No caso da brasileira na Su&iacute;&ccedil;a, n&oacute;s ficamos sabendo do suposto ataque na noite de quarta-feira, dia 11. &quot;Quem est&aacute; dando a not&iacute;cia&#63;&quot;, perguntei ao redator que me ligara de S&atilde;o Paulo para a reda&ccedil;&atilde;o aqui de Londres. &quot;Est&aacute; na TV.&quot; Fomos checar em ag&ecirc;ncias de not&iacute;cias, e nada. A parte em ingl&ecirc;s da BBC desconhecia. Aqui, se o caso n&atilde;o foi apurado diretamente por n&oacute;s, precisamos de pelo menos duas fontes para public&aacute;-lo no site ou lev&aacute;-lo ao ar. Ou alguma fonte de credibilidade a que possamos atribuir as informa&ccedil;&otilde;es. Mas n&atilde;o t&iacute;nhamos nada isso e n&atilde;o pod&iacute;amos nos basear apenas num canal de televis&atilde;o, que por sua vez se baseava em um blog. Preferimos esperar para saber se o governo brasileiro se pronunciaria sobre o assunto.</p></p>
+<p><p>Ainda naquela noite, depois de falar com um porta-voz do Itamaraty, publicamos nosso texto. Atribu&iacute;mos tudo ao Minist&eacute;rio das Rela&ccedil;&otilde;es Exteriores. Em nove curtos par&aacute;grafos, nosso redator Caio Quero teve o cuidado de dizer seis vezes que o Itamaraty era o respons&aacute;vel pelas informa&ccedil;&otilde;es. O texto ainda se referia aos agressores como &quot;supostos neonazistas&quot;. Foram cuidados editoriais importantes, que resultaram em um texto correto. O governo brasileiro estava divulgando um caso chocante como verdade, o que era uma not&iacute;cia que n&atilde;o poder&iacute;amos ignorar. Mas n&atilde;o apresentamos nada como fato consumado. Tudo o que descrevemos eram hip&oacute;teses, tudo era &quot;segundo o Itamaraty&quot;. Onde poder&iacute;amos ter feito melhor foi no t&iacute;tulo. &quot;Brasileira gr&aacute;vida de g&ecirc;meos &eacute; agredida na Su&iacute;&ccedil;a e perde beb&ecirc;s&quot;, dissemos. Mas o melhor teria sido algo como &quot;Brasileira diz ter sido agredida na Su&iacute;&ccedil;a e perdido beb&ecirc;s&quot; ou &quot;Itamaraty denuncia agress&atilde;o a brasileira na Su&iacute;&ccedil;a&quot;.</p></p>
+<p><p>Na manh&atilde; seguinte, ao chegar &agrave; reda&ccedil;&atilde;o fui informado que nosso rep&oacute;rter em Berlim, Marcio Damasceno, nos alertava para o fato de que na Alemanha uma mulher havia sido condenada por acusar neonazistas de atac&aacute;-la, quando na verdade ela mesma tinha se cortado. N&atilde;o publicamos isso, mas a informa&ccedil;&atilde;o serviu como um fator a mais para alimentar nossa d&uacute;vida. Confesso que fui pego de surpresa. Apesar do cuidado da noite anterior, minha tend&ecirc;ncia naquele momento era achar que a hist&oacute;ria fosse ver&iacute;dica. Ficamos ent&atilde;o ainda mais atentos para n&atilde;o abra&ccedil;&aacute;-la indevidamente. O caso segue sendo investigado na Su&iacute;&ccedil;a, e ainda n&atilde;o est&aacute; provado se o suposto ataque ocorreu ou n&atilde;o.</p></p>
+<p><p>O epis&oacute;dio traz certamente muitas li&ccedil;&otilde;es para a imprensa. No caso da BBC Brasil, olhando para tr&aacute;s sempre se pode dizer que poder&iacute;amos ter feito melhor. Mas acredito que fizemos, em grande parte do processo, o que todo jornalista deveria quando se depara com um fato novo em suas m&atilde;os: duvidar sempre, enquanto corre atr&aacute;s dos fatos para esclarecer sua d&uacute;vida.<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

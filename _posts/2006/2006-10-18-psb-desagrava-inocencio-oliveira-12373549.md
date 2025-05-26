@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Em um gesto de desagravo ao deputado federal reeleito Inocêncio Oliveira (PL), que foi acusado pelo governador-candidato Mendonça Filho (PFL) de ter exigido duas secretarias (Saúde e Produção Rural) em troca do seu apoio na campanha, o candidato da Frente Popular, Eduardo Campos (PSB), transferiu ontem, da sede do seu partido para o escritório do parlamentar, uma solenidade de novas adesões de lideranças do interior ao seu palanque. No ato, Inocêncio rebateu com ataques e ironias a acusação do ex-aliado pefelista, feita no debate de segunda-feira à noite.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>André reafirma acusação de Mendonça ao deputado</STRONG></FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>O candidato a vice-governador na chapa de Eduardo Campos (PSB), o ex-prefeito de Caruaru e ex-deputado estadual João Lyra Neto (PDT), entrou com uma interpelação judicial, ontem, na 13ª Vara Criminal da Justiça Estadual, contra o governador-candidato Mendonça Filho (PFL), da coligação União por Pernambuco. </FONT></P></p>
 <p><P><FONT face=Verdana>O pefelista acusou Lyra de ter d?vidas adquiridas em empréstimos com bancos oficiais, durante o debate da TV Clube, anteontem. “Mendonça vai ter que provar, em ju?zo, o que ele disse contra mim. E eu desafio, na petição, que ele comprove que eu tomei empréstimo. Dei entrada na ação hoje (ontem). Ele tem 48 horas para responder\". </FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/10/18/not_205124.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

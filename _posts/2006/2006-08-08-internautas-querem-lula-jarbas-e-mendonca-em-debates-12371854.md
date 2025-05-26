@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Enquete realizada pelo <STRONG>Blog</STRONG> mostra que os internautas rejeitam a ausência dos três nos debates eleitorais.</FONT></P></p>
 <p><P><FONT face=Verdana>Veja os resultados parciais:</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Você acha que Lula, Jarbas e Mendonça Filho devem participar dos debates no primeiro turno?</STRONG></FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Sim, isso é fundamental&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 19 (22%)</FONT></P></p>
 <p><P><FONT face=Verdana>Não, apenas no 2º turno&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15 (18%)</FONT></P></p>
 <p><P><FONT face=Verdana>Participe, dê sua opinião na coluna ao lado.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

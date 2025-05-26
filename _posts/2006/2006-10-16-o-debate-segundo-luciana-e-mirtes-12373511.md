@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana><EM><STRONG>\"Eduardo está dando um banho. Mendonça está forçado\"</STRONG></EM></FONT></P></p>
 <p><P><FONT face=Verdana>Por <B>Luciana Azevedo</B><BR>Vereadora do PT e l?der do partido na Câmara</FONT></P></p>
@@ -35,4 +35,4 @@ imagem: null
 <p><P><FONT face=Verdana>Por outro lado, Eduardo se defende o tempo todo da operação dos precatórios. Está no papel dele, mas ele não esclarece. </FONT></P></p>
 <p><P><FONT face=Verdana>Os dois ficaram tensos em determinados momentos, mas Mendonça ganhou pontos porque foi afirmativo, colocando para a população onde o Estado avançou. Eduardo ficou na defensiva. </FONT></P></p>
 <p><P><FONT face=Verdana>A questão familiar não deveria estar no debate. Mendonça fala de Edaurdo no Governo Arraes, e não do avô dele. Eduardo era o comandante do governo, afinal era secretário da Fazenda. Colocar isso no debate não é apelar para a questão familiar. Isso é diferente de falar do pai de Mendonça, como fez Eduardo.</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

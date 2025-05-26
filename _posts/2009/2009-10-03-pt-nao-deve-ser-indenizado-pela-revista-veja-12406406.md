@@ -1,0 +1,36 @@
+---
+id: 12406406
+date: "2009-10-03T22:00:00Z"
+last_modified_at: null
+tags:
+  - "cerveja"
+  - "naomi-campbell"
+  - "revista"
+categories:
+  - "noticias"
+title: "PT n\u00e3o deve ser indenizado pela revista Veja"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Fernando Porf&iacute;rio, no site Consultor Jur&iacute;dico</p></p>
+<p><p>A revista Veja, da Editora Abril, n&atilde;o deve indenizar o Partido dos Trabalhadores por parcialidade e persegui&ccedil;&atilde;o. A decis&atilde;o &eacute; do Tribunal de Justi&ccedil;a de S&atilde;o Paulo, que negou pedido do PT. Nesta quinta-feira (1&ordm;/10), a 4&ordf; C&acirc;mara de Direito Privado descartou a tese de conspira&ccedil;&atilde;o apresentada pelo advogado do PT&nbsp; e manteve entendimento de primeira inst&acirc;ncia. Cabe recurso.</p></p>
+<p><p>A a&ccedil;&atilde;o movida pelo partido se fundamentou na alega&ccedil;&atilde;o de que a revista Veja teria aberto campanha sistem&aacute;tica com o intuito de denegrir a imagem do PT. A persegui&ccedil;&atilde;o, segundo o partido, tomou forma em capas com chamadas e reportagens ofensivas, escandalosas e tendenciosas.</p></p>
+<p><p>A defesa da Veja foi feita pelos advogados Alexandre Fidalgo e Rafael de Carvalho Kozma, do escrit&oacute;rio Lourival J. Santos. O PT foi representado pelo advogado Jos&eacute; Diogo Bastos Neto, do Chiaparini e Bastos Advogados. No julgamento desta quinta-feira na 4&ordf; C&acirc;mara, Alexandre Fidalgo e Diogo Bastos fizeram sustenta&ccedil;&atilde;o oral.</p></p>
+<p><p>O partido contestou reportagens de, pelo menos, oito capas da revista. Sustentou que a Veja, desde janeiro de 2005, repete reportagens de capas de forma sucessiva com o objetivo de mostrar negativamente a imagem do partido e de seus militantes, constituindo um robusto conjunto de ofensas. O partido alega que a revista teve &ldquo;a n&iacute;tida inten&ccedil;&atilde;o em ferir a imagem e o nome do partido&rdquo;.</p></p>
+<p><p>As edi&ccedil;&otilde;es da revista trataram de temas como a contribui&ccedil;&atilde;o do grupo guerrilheiro colombiano Farc para campanhas de pol&iacute;ticos ligados ao partido; do esc&acirc;ndalo do mensal&atilde;o, da quebra da imagem &eacute;tica do PT, de suposto financiamento de Cuba &agrave; campanha presidencial de Luiz In&aacute;cio Lula da Silva e do assassinato do prefeito de Santo Andr&eacute;, Celso Daniel, e de poss&iacute;veis implica&ccedil;&otilde;es de membros do partido com a morte.</p></p>
+<p><p>Em primeira inst&acirc;ncia, a ju&iacute;za Ana Carolina Vaz Pacheco de Castro, da 5&ordf; Vara C&iacute;vel do F&oacute;rum de Pinheiros, negou indeniza&ccedil;&atilde;o por dano moral ao partido pela s&eacute;rie de reportagens supostamente ofensivas. Insatisfeito, o partido apelou ao Tribunal de Justi&ccedil;a para pedir a reforma da senten&ccedil;a.</p></p>
+<p><p>A 4&ordf; C&acirc;mara de Direito Privado reconheceu que as chamadas de capa das edi&ccedil;&otilde;es da revista eram fortes, somadas &agrave;s graves den&uacute;ncias e cr&iacute;ticas severas n&atilde;o apenas ao partido como a pol&iacute;ticos integrantes do governo. A turma julgadora, no entanto, entendeu que as reportagens estavam acobertadas pelo direito da liberdade de informa&ccedil;&atilde;o e express&atilde;o.</p></p>
+<p><p>&ldquo;O ponto fundamental para o julgamento do recurso, assim, est&aacute; em saber n&atilde;o propriamente se as capas e reportagens s&atilde;o ofensivas, mas sim se as ofensas est&atilde;o cobertas por excludente de antijuricidade de estrutura constitucional&rdquo;, declarou no in&iacute;cio de seu voto o desembargador Francisco Loureiro, relator da apela&ccedil;&atilde;o.</p></p>
+<p><p>Loureiro entendeu que a ilicitude de reportagem, do ponto de vista da responsabilidade civil, n&atilde;o acontece pela inten&ccedil;&atilde;o ou isen&ccedil;&atilde;o de quem escreve e divulga, mas pelo interesse p&uacute;blico, somado &agrave; veracidade da informa&ccedil;&atilde;o e da pertin&ecirc;ncia do conte&uacute;do.</p></p>
+<p><p>Ele disse o quanto &eacute; relativa a imparcialidade da imprensa e aproveitou para lembrar a posi&ccedil;&atilde;o do jornal New York Times, que dias antes da &uacute;ltima elei&ccedil;&atilde;o presidencial americana recomendou expressamente aos seus leitores o voto em determinado candidato, expondo as raz&otilde;es de sua posi&ccedil;&atilde;o.</p></p>
+<p><p>&ldquo;Nem por isso, todas as mat&eacute;rias veiculadas em tais jornais, com assumida defesa de certa linha ideol&oacute;gica ou pol&iacute;tica, ou acirrada cr&iacute;tica &agrave; posi&ccedil;&atilde;o oposta, s&atilde;o por si s&oacute; il&iacute;cita&rdquo;, defendeu o relator. &ldquo;Pode-se discordar ou concordar com os textos, fatos, tom das mat&eacute;rias, temperatura das cr&iacute;ticas e chamadas de capa, mas inegavelmente todos eles se revestem de ineg&aacute;vel interesse p&uacute;blico&rdquo;, completou Loureiro agora se referindo &agrave;s reportagens contestadas pelo Partido dos Trabalhadores.</p></p>
+<p><p>O relator tamb&eacute;m entendeu que estava presente o requisito de veracidade nos textos jornal&iacute;sticos. Segundo ele, as reportagens tiveram como lastro fatos objetivos, com origem em fitas gravadas por &oacute;rg&atilde;os do pr&oacute;prio governo, em inqu&eacute;ritos policiais, pris&otilde;es em flagrante e conclus&atilde;o de Comiss&atilde;o Parlamentar de Inqu&eacute;rito.</p></p>
+<p><p>&ldquo;N&atilde;o foram mera conjecturas desprovidas de qualquer fundamento, mas, ao contr&aacute;rio, cal&ccedil;adas em fatos concretos ou em investiga&ccedil;&otilde;es policiais e judiciais em andamento&rdquo;, completou o relator.</p></p>
+<p><p>O desembargador &Ecirc;nio Zuliani, revisor do recurso, destacou que a imprensa n&atilde;o julga, apenas informa fatos e sua fun&ccedil;&atilde;o prim&aacute;ria &eacute; difundir ideias e pensamentos para que o p&uacute;blico, a partir da leitura, reflita sobre os temas de interesse p&uacute;blico e os julgue. Para ele, o papel da imprensa no fortalecimento da cidadania, apesar das queixas contra jornais e revistas que atuam no combate da corrup&ccedil;&atilde;o, &eacute; extremamente vantajoso para o fortalecimento do estado democr&aacute;tico de direito.</p></p>
+<p><p>Zuliani reconheceu que a imprensa erra e que quando assim se comporta destr&oacute;i reputa&ccedil;&otilde;es, com les&otilde;es de valores morais que n&atilde;o s&atilde;o remediados satisfatoriamente. Mas destacou que esse n&atilde;o &eacute; o caso discutido nos autos. Para o revisor, ficou provado no processo movido pelo PT que as reportagens n&atilde;o tinham o sentido predat&oacute;rio de uma campanha aberta e sistem&aacute;tica com o objetivo &uacute;nico de destruir a imagem da agremia&ccedil;&atilde;o pol&iacute;tica.</p></p>
+<p><p>Zuliani lembrou que a revista Veja foi igualmente vigilante com outros governos, como o de Fernando Collor de Mello e o de Fernando Henrique Cardoso.</p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

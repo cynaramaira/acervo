@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>O editor do <STRONG>Blog do JC</STRONG>, César Rocha, está acompanhando, hoje,&nbsp;os atos de campanha do governador e candidato Mendonça Filho (PFL), nos munic?pios de Arcoverde, Sertânia e Bu?que, no sertão pernambucano.&nbsp;E apurou o seguinte:</FONT></P></p>
 <p><P><FONT face=Verdana>Um time com oito dos seus mais importantes candidatos a deputado federal é a aposta da União por Pernambuco para tentar reeleger o governador Mendonça Filho (PFL) no primeiro turno. </FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>A idéia é justamente fazê-los migrar para Mendonça, enfraquecendo os adversários. E é também para conquistar parte dos indecisos. </FONT></P></p>
 <p><P><FONT face=Verdana>A União por Pernambuco faz mais esse esforço final para tentar mudar o quadro eleitoral, estabilizado desde o in?cio. </FONT></P></p>
 <p><P><FONT face=Verdana>O objetivo é fazer Mendonça mudar de patamar, ultrapassando a barreira dos 40%.</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

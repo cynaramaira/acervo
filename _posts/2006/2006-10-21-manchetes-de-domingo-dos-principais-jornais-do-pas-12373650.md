@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana><STRONG>Jornal do Commercio</STRONG> </FONT></P></p>
 <p><P><FONT face=Verdana>- Escolas dão desconto para garantir alunos</FONT></P></p>
 <p><P><FONT face=Verdana>- TV Jornal é palco de grande duelo </FONT></P></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Estado de Minas</STRONG> - Lula x Alckmin: Guerra de nervos</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Correio Popular</STRONG> - Projetos fixam regras para conter o abuso de outdoors</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Gazeta do Povo</STRONG> - Lula e Alckmin dizem o que pretendem fazer pelo Paraná</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

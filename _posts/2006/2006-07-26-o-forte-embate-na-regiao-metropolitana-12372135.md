@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>Humberto Costa (PT) e Mendonça Filho (PFL) decidiram centrar fogo nos próximos dias na área metropolitana, onde estão mais de 40% dos eleitores de Pernambuco. Veja nas reportagens do Jornal do Commercio de hoje: </P></p>
 <p><P><STRONG>Jarbas injeta ânimo à militância </STRONG></P></p>
 <p><P>A campanha do governador e candidato à reeleição Mendonça Filho (PFL) vai ganhar um ritmo intenso na Região Metropolitana do Recife depois da reunião de ontem à noite, no comitê central, com 200 l?deres comunitários que atuam nessa área. </P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P>Disposta ainda a tomar a iniciativa para neutralizar qualquer ameaça de dano à candidatura de Humberto, em razão das denúncias da revista Veja de favorecimento do petista à Máfia das Sanguessugas, quando no Ministério da Saúde – o que foi desmentido pelo advogado Otto Medeiros, defensor dos empresários Darcy e Luiz Antônio Vedoin, donos da Planam e mentores do esquema –, a coordenação decidiu marcar o in?cio da estratégia com uma grande mobilização. </P></p>
 <p><P>A frente agendou para amanhã, a partir das 16h, a primeira caminhada, com a presença da majoritária, dos candidatos proporcionais e do l?der da ex-Frente Trabalhista, Armando Monteiro Neto. </P></p>
 <p><P>A idéia é realizar uma caminhada que repercuta, percorrendo as Ruas da Imperatriz e Nova até a Praça da Independência. \"Preparamos uma intensa campanha de rua. Vamos priorizar a RMR e dedicar os finais de semana ao interior\", detalhou Gustavo Couto, da coordenação da campanha.</P> </p>
-{\% endraw %}
+{% endraw %}

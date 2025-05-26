@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Como bem lembrou o blogueiro Ricardo Noblat, ainda há tempo de mostrar sua indignação ao reajuste imoral dos parlamentares.</FONT></P></p>
 <p><P><FONT face=Verdana>Deputados e senadores&nbsp;se reúnem em instantes&nbsp;para rediscutir o próprio reajuste salarial. </FONT></P></p>
 <p><P><FONT face=Verdana>A idéia de elevar o salário em 91% permanece. E como o reajuste só será votado no plenário nesta quarta-feira, dá tempo de pressionar.</FONT></P></p>
@@ -45,4 +45,4 @@ imagem: null
 <p><P><FONT face=Verdana color=black>Tião Viana (PT-AC)<BR></FONT><A href=\"mailto:tiao.viana@senador.gov.br\"><U><FONT face=Verdana color=black>tiao.viana@senador.gov.br</FONT></U></A><FONT face=Verdana color=black> - vice-presidente do Senado</FONT></P></p>
 <p><P><FONT face=Verdana color=black>Ney Suassuna (PMDB-PB)<BR></FONT><A href=\"mailto:neysuassun@senador.gov.br\"><U><FONT face=Verdana color=black>neysuassun@senador.gov.br</FONT></U></A><FONT face=Verdana color=black> - l?der</FONT></P></p>
 <p><P><FONT face=Verdana color=black>Ideli Salvatti (PT-SC)<BR></FONT><A href=\"mailto:ideli.salvatti@senadora.gov.br\"><U><FONT face=Verdana color=black>ideli.salvatti@senadora.gov.br</FONT></U></A><FONT face=Verdana color=black> - l?der</FONT> </P> </p>
-{\% endraw %}
+{% endraw %}

@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></p>
 <p><P><FONT face=Verdana>Às 9h</FONT></B><FONT face=Verdana>, visita o comércio de Beberibe, acompanhado do ex-governador e candidato ao Senado Jarbas Vasconcelos (PMDB). Concentração: Mercado de Beberibe</FONT></P><B></p>
@@ -38,4 +38,4 @@ imagem: null
 <p><P><FONT face=Verdana>Às 14h30</FONT></B><FONT face=Verdana>, em Barreiros, carreata da entrada às ruas centrais da cidade e com?cio relâmpago </FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 16h30</FONT></B><FONT face=Verdana>, em Palmares, carreata da entrada às ruas centrais da cidade e com?cio relâmpago </FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 19h30</FONT></B><FONT face=Verdana>, em Quipapá, carreata da entrada às ruas centrais da cidade e com?cio relâmpago</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

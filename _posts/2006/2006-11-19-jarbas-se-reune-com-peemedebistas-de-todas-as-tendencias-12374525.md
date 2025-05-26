@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: justify; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN><FONT face=Verdana>Por</FONT><FONT face=Verdana><STRONG> Cec?lia Ramos<BR></STRONG>Repórter do Blog<B style=\"mso-bidi-font-weight: normal\"><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></B></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: justify; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: justify; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\">Esta é a primeira vez que o ex-governador Jarbas Vasconcelos (PMDB) vai a Bras?lia, depois de eleito para o Senado com 2,031 milhões de votos.<o:p></o:p></SPAN></P></p>
@@ -64,4 +64,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0.9pt 0pt 0cm; tab-stops: 36.0pt; mso-layout-grid-align: none\"><I style=\"mso-bidi-font-style: normal\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: \MS Shell Dlg\\\">“</SPAN></I><I style=\"mso-bidi-font-style: normal\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold; mso-bidi-font-family: \Palatino Linotype\\\">Se ele (Lula) quer ampliar o PMDB governista, acho que ele tem condições de ampliar, porque o pessoal geralmente tem um atrativo muito grande por cargos. Mas eu não vou fazer parte dessa base???. <o:p></o:p></SPAN></I></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0.9pt 0pt 0cm; tab-stops: 36.0pt; mso-layout-grid-align: none\"><I style=\"mso-bidi-font-style: normal\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold; mso-bidi-font-family: \Palatino Linotype\\\"><o:p>&nbsp;</o:p></SPAN></I></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0.9pt 0pt 0cm; tab-stops: 36.0pt; mso-layout-grid-align: none\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold; mso-bidi-font-family: \Palatino Linotype\\\"><FONT size=3><FONT size=2>*As declarações acima foram dadas por Jarbas no último dia 9, no programa Supermanhã (TV Jornal), de Geraldo Freire.</FONT> <SPAN style=\"mso-spacerun: yes\">&nbsp;</SPAN></FONT><o:p></o:p></SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana size=2>Do <STRONG><U><A href=\"https://www.noblat.com.br/\" target=_blank>blog</A></U> </STRONG>de Noblat</P></p>
 <p><P>O candidato Geraldo Alckmin acaba de receber em São Lu?s do Maranhão, onde se encontra, os principais números da mais recente pesquisa eleitoral do IBOPE que deverá ser divulgada ainda hoje pelo Jornal Nacional da Rede Globo.</P></p>
 <p><P>* Lula cai dos 48% registrados em pesquisa aplicada entre 5 e 7 de junho passado para 41%;</P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P>O PSDB de Alckmin no Maranhão apóia a candidatura ao governo de Aderson Lago. E o PT de Lula apóia a de Edson Vidigal (PSB), ex-presidente do Superior Tribunal de Justiça.</P></p>
 <p><P>Roseana e o pai dela são alvos de pesados ataques desferidos pelo PT local, Vidigal e o governador José Reinaldo, do PTB. O senador Sarney (PMDB-AP) apóia a reeleição de Lula. Mas parte do PFL de Roseana começa a apoiar Alckmin.</P></p>
 <p><P>José Reinaldo ajuda como pode a candidatura ao governo do Amapá do ex-senador João Capiberibe, desafeto de Sarney. </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

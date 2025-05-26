@@ -1,0 +1,37 @@
+---
+id: 12393851
+date: "2008-09-29T12:54:00Z"
+last_modified_at: null
+tags:
+  - "cartorio"
+categories:
+  - "noticias"
+title: "Oficiala \u00e9 afastada de cart\u00f3rio por deixar de recolher mais de R$ 400 mil"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>&nbsp;</p></p>
+<p><p>Foi publicado hoje no Di&aacute;rio Oficial do Estado, a instaura&ccedil;&atilde;o de Processo Administrativo Disciplinar contra a delegat&aacute;ria do Cart&oacute;rio de Registro Civil de Pessoas Naturais do 1&ordm; Distrito da Capital, Roseane Andrade Porto Virg&iacute;nio, afastando-a das suas fun&ccedil;&otilde;es, juntamente com os seus substitutos.</p></p>
+<p><p>Dentre as irregularidades apontadas pela Corregedoria, consta o n&atilde;o recolhimento aos Cofres P&uacute;blicos de valor superior a R$: 400.000,00 (quatrocentos mil reais), configurando, em tese, crime de apropria&ccedil;&atilde;o ind&eacute;bita.</p></p>
+<p><p>Foi determinada ainda a remessa de c&oacute;pia dos processos Administrativos ao Minist&eacute;rio P&uacute;blico para &quot;as provid&ecirc;ncias orientadas pelo interesse p&uacute;blico e pela lei&quot;</p></p>
+<p><p>O afastamento da Oficiala Roseane perdurar&aacute; por 90 dias, enquanto se espera a conclus&atilde;o do Processo. Confira abaixo o Ato da Corregedoria.</p></p>
+<p><p><font face="Times New Roman">PORTARIA N&ordm; 124/2008 </font></p></p>
+<p><p>EMENTA. Determina a abertura de processo administrativo disciplinar contra a delegada dos servi&ccedil;os de Registro Civil das Pessoas Naturais do 1&ordm; Distrito Judici&aacute;rio da Comarca da Capital, notadamente em raz&atilde;o do n&atilde;o recolhimento aos cofres p&uacute;blicos de valor corresponde a R$ 425.871,76 (quatrocentos e vinte e cinco mil, oitocentos e setenta e um reais, e setenta e seis centavos), sendo R$ 329.667,27 (trezentos e vinte e nove mil, seiscentos e sessenta e sete reais, e vinte e sete centavos) relativos &agrave; TSNR e R$ 96.204,49 (noventa e seis mil, duzentos e quatro reais, e quarenta e nove centavos) em rela&ccedil;&atilde;o ao FERC, e d&aacute; outras provid&ecirc;ncias.</p></p>
+<p><p>O Desembargador Jos&eacute; Fernandes de Lemos, Corregedor-Geral da Justi&ccedil;a, no uso das suas atribui&ccedil;&otilde;es, e</p></p>
+<p><p>CONSIDERANDO que o relat&oacute;rio final da inspe&ccedil;&atilde;o realizada nos dias 05 e 06 de agosto de 2008, na serventia do Registro Civil das Pessoas Naturais do 1&ordm; Distrito Judici&aacute;rio da Comarca da Capital, aponta para uma evidente des&iacute;dia da oficiala de registro Roseane Andrade Porto Virg&iacute;nio em rela&ccedil;&atilde;o aos Livros dos servi&ccedil;os que lhes foram delegados;</p></p>
+<p><p>CONSIDERANDO que a desordem em rela&ccedil;&atilde;o aos Livros viola o dever legal previsto no art 30, inciso I, da Lei n. 8.935/94 e atenta contra a institui&ccedil;&atilde;o notarial e de registro (art 31, inciso I, da Lei n. 8.935/94), notadamente quando n&atilde;o cont&ecirc;m a lavratura dos termos de abertura e encerramento, falta a rubrica das suas folhas e a delegat&aacute;ria deixa de assinar diversos termos de nascimento;</p></p>
+<p><p>CONSIDERANDO, ainda, que a inobserv&acirc;ncia prolongada das normas da Corregedoria Geral da Justi&ccedil;a, no tocante &agrave; remessa do controle mensal dos selos de autenticidade e fiscaliza&ccedil;&atilde;o e &agrave; tomada de empr&eacute;stimo de selos de outra serventia, afronta a obriga&ccedil;&atilde;o legal prevista no art 30, inciso XIV, da Lei n. 8.935/94 e configura infra&ccedil;&atilde;o disciplinar (art. 31, inciso I, da Lei n. 8.935/94);</p></p>
+<p><p>CONSIDERANDO que caracteriza infra&ccedil;&atilde;o disciplinar grave a cobran&ccedil;a indevida ou excessiva de emolumentos (art. 31, inciso III, da Lei n. 8.935/94);</p></p>
+<p><p>CONSIDERANDO que constitui falta grav&iacute;ssima deixar de recolher, com manifesta ci&ecirc;ncia e consci&ecirc;ncia da ilicitude da conduta, valor de tributo cobrado de terceiro e que deveria ter repassado aos cofres p&uacute;blicos, o que, al&eacute;m de il&iacute;cito administrativo, configura, em tese, crime de apropria&ccedil;&atilde;o ind&eacute;bita.</p></p>
+<p><p>CONSIDERANDO que o pagamento da d&iacute;vida tribut&aacute;ria, por si s&oacute;, n&atilde;o elide o il&iacute;cito administrativo e, via de conseq&uuml;&ecirc;ncia, a possibilidade de abertura de processo administrativo para verificar se o delegat&aacute;rio do servi&ccedil;o notarial e de registro ainda re&uacute;ne condi&ccedil;&otilde;es para continuar credenciado pelo Estado para exercer a fun&ccedil;&atilde;o p&uacute;blica outorgada, mormente quando a postura de n&atilde;o recolher a TSNR e o FERC vem acompanhada de in&uacute;meras viola&ccedil;&otilde;es &agrave;s outras obriga&ccedil;&otilde;es impostas por Lei;</p></p>
+<p><p>CONSIDERANDO, por fim, que o valor da apropria&ccedil;&atilde;o ind&eacute;bita corresponde R$ 425.871,76 (quatrocentos e vinte e cinco mil, oitocentos e setenta e um reais, e setenta e seis centavos), sendo R$ 329.667,27 (trezentos e vinte e nove mil, seiscentos e sessenta e sete reais, e vinte e sete centavos) relativos &agrave; TSNR e R$ 96.204,49 (noventa e seis mil, duzentos e quatro reais, e quarenta e nove centavos) em rela&ccedil;&atilde;o ao FERC.</p></p>
+<p><p>RESOLVE: Art. 1&ordm; Determinar a abertura de processo administrativo disciplinar contra a oficiala de registro Roseane Andrade Porto Virg&iacute;nio, assegurando-lhe o direito da ampla defesa. Art 2&ordm; Designar o Exmo Sr. Dr. F&aacute;bio Eug&ecirc;nio Oliveira Lima, juiz auxiliar da Corregedoria Geral da Justi&ccedil;a, para presidir a comiss&atilde;o processante, que ser&aacute; integrada ainda pelos servidores Maria Augusta Costa Bacelar Carneiro Le&atilde;o, matr&iacute;cula n&ordm; 1813862, e Carlos Antonio Lima de Andrade, matr&iacute;cula n&ordm; 1773933, para apurar, com maior profundidade, a responsabilidade da delegat&aacute;ria, no que tange aos fatos indicados na decis&atilde;o proferida nos autos dos procedimentos administrativos n&ordm; 217/08 &ndash; CA/E e n&ordm; 037/07 &ndash; CA/E. Art. 3&ordm; Determinar o afastamento imediato da titular do Registro Civil das Pessoas Naturais do 1&ordm; Distrito Judici&aacute;rio da Comarca da Capital e seus substitutos, pelo prazo de 90 dias. Art. 4&ordm; Designar o oficial titular do Registro Civil das Pessoas Naturais do 8&ordm; Distrito Judici&aacute;rio da Comarca da Capital, Lourival Brito Pereira, para atuar, na qualidade de interventor, junto &agrave; serventia do Registro Civil das Pessoas Naturais do 1&ordm; Distrito Judici&aacute;rio da Comarca da Capital, pelo prazo de 90 dias.</p></p>
+<p><p>Art. 5&ordm; Fixar o prazo de 90 dias para a conclus&atilde;o do Processo Administrativo Disciplinar, contados da publica&ccedil;&atilde;o desta Portaria.</p></p>
+<p><p>Art. 6&ordm; Determinar a remessa do inteiro teor dos procedimentos administrativos n&ordm; 217/08 &ndash; CA/E e n&ordm; 037/07 &ndash; CA/E ao Minist&eacute;rio P&uacute;blico estadual para as provid&ecirc;ncias orientadas pelo interesse p&uacute;blico e pela Lei. Art. 7&ordm;</p></p>
+<p><p>Esta Portaria entra em vigor na data de sua publica&ccedil;&atilde;o.</p></p>
+<p><p>Recife, 16 de setembro de 2008</p></p>
+<p><p>Des. Jos&eacute; Fernandes de Lemos Corregedor-Geral da Justi&ccedil;a</p> </p>
+{% endraw %}

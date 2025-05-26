@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>A revista fez um levantamento na semana passada, nos dias 2, 3 e 4, em 33 munic?pios do Estado. Ouviu 820 pessoas. </FONT></P></p>
 <p><P><FONT face=Verdana>A margem de erro é de 3,5 pontos percentuais para mais ou para menos e o estudo é do instituto Databrain.</FONT></P></p>
 <p><P><FONT face=Verdana>Os números, publicados na edição desta semana, são os seguintes:</FONT></P></p>
@@ -36,4 +36,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Disputa pelo Senado<BR></STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>No caso do Senado, Jarbas Vasconcelos (PMDB) mantém a folgada liderança em relação aos demais candidatos, com 62,6%. </FONT></P></p>
 <p><P><FONT face=Verdana>Luciano Siqueira (PCdoB) teria 8,9% e, no terceiro lugar, há uma estranha dianteira de Delta Farias (PRTB), com 5%, sobre Jorge Gomes (PSB), com 4%.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

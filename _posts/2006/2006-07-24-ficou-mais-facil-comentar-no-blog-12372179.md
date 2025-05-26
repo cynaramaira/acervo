@@ -13,8 +13,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana size=2></p>
 <p><P>Fizemos mudanças no cadastro para simplificar o acesso àqueles que quiserem comentar not?cias postadas aqui. </P></p>
 <p><P>Deixe seu comentário.</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

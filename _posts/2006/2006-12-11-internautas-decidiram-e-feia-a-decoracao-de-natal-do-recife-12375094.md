@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><FONT face=Verdana>Foi o que mostrou o resultado da enquete do <STRONG>Blog do JC</STRONG>. </FONT><FONT face=Verdana>64% dos internautas que participaram não gostaram do \"espetáculo de luz\" do prefeito do Recife João Paulo (PT).</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><FONT face=Verdana></FONT>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><FONT face=Verdana>O projeto, que faz homenagem ao Pastoril, é do ator e produtor&nbsp;José Pimentel, o eterno Cristo da Paixão.&nbsp; </FONT></P></p>
@@ -39,4 +39,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"mso-bookmark: 3960\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: #333333; FONT-FAMILY: Verdana\">Não tenho opinião formada&nbsp;&nbsp;17 (4%) <o:p></o:p></SPAN></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"mso-bookmark: 3960\"><SPAN style=\"COLOR: #333333\"><FONT size=3><FONT face=\"Times New Roman\">&nbsp;<o:p></o:p></FONT></FONT></SPAN></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"mso-bookmark: 3960\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: #333333; FONT-FAMILY: Verdana\">Total: 379 pessoas<o:p></o:p></SPAN></SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

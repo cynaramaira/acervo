@@ -1,0 +1,27 @@
+---
+id: 12390834
+date: "2008-07-17T20:46:58Z"
+last_modified_at: null
+tags:
+  - "cidades"
+  - "recife"
+categories:
+  - "colunistas"
+title: "A cidade do Recife e a viol\u00eancia"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Jayme Asfora</p></p>
+<p><p>N&atilde;o &eacute; poss&iacute;vel deixar de lado, em ano de elei&ccedil;&otilde;es para prefeito e vereadores, o tema da viol&ecirc;ncia. Principalmente, se tratando do Recife - capital campe&atilde; em assassinatos no Pa&iacute;s e a nona colocada entre todos os 5.564 munic&iacute;pios brasileiros-segundo a pesquisa Mapa da Viol&ecirc;ncia dos Munic&iacute;pios Brasileiros 2008 realizada pela Rede de Informa&ccedil;&atilde;o Tecnol&oacute;gica Latino Americana (RITLA), o Instituto Sangari, o Minist&eacute;rio da Sa&uacute;de e o Minist&eacute;rio da Justi&ccedil;a.</p></p>
+<p><p>Tanto do ponto de vista da constru&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas concretas de inclus&atilde;o social - com foco maior na popula&ccedil;&atilde;o de crian&ccedil;as e adolescentes - quanto em rela&ccedil;&atilde;o &agrave; diminui&ccedil;&atilde;o da criminalidade propriamente dita, a discuss&atilde;o sobre a viol&ecirc;ncia no Recife deve funcionar como um ponto de inflex&atilde;o na campanha eleitoral deste ano. Acreditamos que o desenvolvimento de projetos para &aacute;rea deve servir como um dos principais par&acirc;metros para a futura gest&atilde;o da cidade, seja quem for o vencedor do pleito.</p></p>
+<p><p>Exemplos da forte atua&ccedil;&atilde;o municipal no combate &agrave; viol&ecirc;ncia podem ser observados em cidades como Nova York e Boston - nos Estados Unidos - e Bogot&aacute;, na Col&ocirc;mbia. O n&uacute;mero de homic&iacute;dios em Nova York, por exemplo, caiu 70% em um prazo de dez anos, ap&oacute;s a implanta&ccedil;&atilde;o do programa &quot;Toler&acirc;ncia Zero&quot; lan&ccedil;ado pelo ex-prefeito Rudolph Giuliani. Em Boston, o trabalho municipal se voltou para a parceria com a comunidade, combatendo o crime ao mesmo tempo em que se constru&iacute;a uma rela&ccedil;&atilde;o de confian&ccedil;a com a pol&iacute;cia.</p></p>
+<p><p>Em Bogot&aacute;,na Col&ocirc;mbia, a luta contra a criminalidade passou por investimentos em projetos como recupera&ccedil;&atilde;o de &aacute;reas centrais, retirada de camel&ocirc;s de &aacute;reas tur&iacute;sticas, constru&ccedil;&otilde;es de boas escolas em bairros populosos e reforma e amplia&ccedil;&atilde;o das existentes - al&eacute;m de uma n&iacute;tida preocupa&ccedil;&atilde;o em oferecer cultura e equipamentos de lazer de qualidade nas comunidades mais pobres. Segundo o respons&aacute;vel pelo projeto, Hugo Acero, a proximidade com a comunidade tamb&eacute;m foi essencial para garantir a recupera&ccedil;&atilde;o da credibilidade da pol&iacute;cia e redu&ccedil;&atilde;o do n&uacute;mero de homic&iacute;dios que passou de 75 para cada 100 mil habitantes, em 1993, para 18 por 100 mil habitantes no ano passado.</p></p>
+<p><p>E &eacute; com a preocupa&ccedil;&atilde;o em garantir a inser&ccedil;&atilde;o da viol&ecirc;ncia na pauta dos debates para as elei&ccedil;&otilde;es deste ano que a Ordem dos Advogados do Brasil (OAB-PE), o IACE (Instituto &Acirc;nt&ocirc;nio Carlos Escobar) e a ADECON (Associa&ccedil;&atilde;o em de Defesa do Consumidor), realizar&atilde;o, a partir do dia 23 de julho, pr&oacute;xima quarta-feira, uma s&eacute;rie de debates com os candidatos a prefeito do Recife. Intitulados &quot;A Cidade do Recife e a Viol&ecirc;ncia&quot;, os debates ser&atilde;o realizados sempre &agrave;s quartas no audit&oacute;rio da OAB-PE, a partir das 17h, at&eacute; o dia 3 de setembro.</p></p>
+<p><p>A proposta &eacute; discutir a preven&ccedil;&atilde;o e repress&atilde;o ao crime do ponto de vista da municipalidade. Com o mais elevado prop&oacute;sito de fazer o novo Prefeito do Recife se comprometer com a cidade a partir de uma de suas maiores chagas, gravaremos todos os debates para, ao final, elaborarmos um documento p&uacute;blico que ser&aacute;, inclusive, entregue aos candidatos e ao vencedor do pleito. O Prefeito do Recife n&atilde;o pode ser um mero espectador das cenas de guerra civil que presenciam e vivenciam os cidad&atilde;os e cidad&atilde;s recifenses. Deve,ao contr&aacute;rio, sem se refugiar no f&aacute;cil argumento &quot;constitucional&quot; de que &quot;seguran&ccedil;a p&uacute;blica &eacute; atribui&ccedil;&atilde;o dos estados...&quot; ser um l&iacute;der empenhado, com ousadia e firmeza, em buscar solu&ccedil;&otilde;es para Recife mudar de posi&ccedil;&atilde;o nos rankings sobre viol&ecirc;ncia acima citados,ouvindo a todos,pessoas e entidades.</p></p>
+<p><p>Vamos cobrar isto dos candidatos a partir da pr&oacute;xima quarta-feira, 23 de julho; al&eacute;m de tudo, porque os gestores municipais s&atilde;o aqueles que mais conhecem (ou deveriam conhecer) a realidade s&oacute;cio-econ&ocirc;mica de cada regi&atilde;o pol&iacute;tico-administrativa em que moramos e as causas e conseq&uuml;&ecirc;ncias dessas situa&ccedil;&otilde;es no incremento da criminalidade.</p></p>
+<p><p>PS: Jayme Asfora &eacute; presidente da OAB-PE<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

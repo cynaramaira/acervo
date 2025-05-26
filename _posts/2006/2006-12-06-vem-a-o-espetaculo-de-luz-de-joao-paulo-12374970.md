@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P></p>
 <p><P><FONT face=Verdana></FONT></P><FONT face=Verdana>Por </FONT><FONT face=Verdana><B>Cec?lia Ramos<BR></B>Repórter do Blog do JC</FONT> </p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"A luz precisa de um anteparo, de algo para refletir. Por isso elas estarão direcionadas para destacarem a cidade, refletindo-se no rio, nas árvores, nos detalhes arquitetônicos dos edif?cios, praças e pontes, e nos pandeiros e pingentes de fitas metálicas que fazem um link com o tema deste ano, o Pastoril\", explica Duarte. </FONT></P></p>
 <p><P><FONT face=Verdana>O projeto prevê, ainda, a instalação de uma árvore de Natal flutuante, de 30m de altura, montada sobre uma balsa, no Rio Capibaribe (altura do Cine São Luiz, Cais da Aurora). Ela é feita em estrutura metálica e contém luzes coloridas programadas seqüencialmente. No topo haverá uma estrela de 2m de diâmetro. </FONT></P></p>
 <p><P><FONT face=Verdana>A iluminação ficará montada na cidade até o dia 6 de janeiro quando acontece a tradicional Queima da Lapinha. O custo total do projeto é de R$ 1.187.000,00\".</FONT> </P></I></FONT> </p>
-{\% endraw %}
+{% endraw %}

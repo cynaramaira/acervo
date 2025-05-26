@@ -1,0 +1,36 @@
+---
+id: 12381439
+date: "2007-08-24T16:55:00Z"
+last_modified_at: null
+tags:
+  - "condenacao"
+  - "naomi-campbell"
+categories:
+  - "noticias"
+title: "STF n\u00e3o condena criminalmente ningu\u00e9m desde 1998"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Da <strong>&Eacute;poca</strong></font></p></p>
+<p><p><font face=\"Verdana\">Um estudo divulgado no in&iacute;cio deste m&ecirc;s pela Associa&ccedil;&atilde;o&nbsp; dos Magistrados Brasileiros (AMB) mostra que, desde 1988, o Supremo Tribunal Federal (STF) n&atilde;o condenou criminalmente nenhuma autoridade brasileira. A conclus&atilde;o veio da an&aacute;lise das 130 a&ccedil;&otilde;es que ingressaram no STF, entre 1998 e junho de 2007 (data de conclus&atilde;o da pesquisa). De todas elas, quase a metade, cerca de 40%, ainda estava em tramita&ccedil;&atilde;o. Outras 35% haviam sido enviadas para inst&acirc;ncias inferiores, 10% prescreveram, e, das que realmente foram julgadas, nenhuma resultou em condena&ccedil;&atilde;o. Desse total de a&ccedil;&otilde;es, 34% eram contra a administra&ccedil;&atilde;o p&uacute;blica. </font></p></p>
+<p><p><font face=\"Verdana\">Os dados analisados pela AMB s&atilde;o do pr&oacute;prio STF e levam em conta a&ccedil;&otilde;es indicadas como penais, que incluem crimes contra a honra, contra a administra&ccedil;&atilde;o p&uacute;blica e contra o patrim&ocirc;nio, al&eacute;m de crimes eleitoral, fiscal e ambiental, entre outros. </font></p></p>
+<p><p><font face=\"Verdana\">Para a AMB, o foro privilegiado &ndash; que garante que as mais altas autoridades brasileiras sejam julgadas apenas pelo STF &ndash; perdeu sua caracter&iacute;stica original, que era a de garantir a possibilidade de defesa, e passou a ser um privil&eacute;gio. Por isso, a entidade defende a extin&ccedil;&atilde;o do benef&iacute;cio em todas as suas esferas. </font></p></p>
+<p><p><font face=\"Verdana\">Atualmente, t&ecirc;m direito a direito ao benef&iacute;cio autoridades como presidente e vice-presidente da Rep&uacute;blica, deputados federais, senadores, ministros, procuradores da rep&uacute;blica, comandantes da ex&eacute;rcito, marinha e aeron&aacute;utica, governadores, desembargadores, promotores, prefeitos, entre outros. </font></p></p>
+<p><p><font face=\"Verdana\">Em entrevista a &Eacute;POCA, o presidente da AMB, Rodrigo Colla&ccedil;o, diz que &eacute; preciso acabar com o foro privilegiado no Brasil e que a sociedade n&atilde;o aceitar&aacute; medidas que atrasem a resolu&ccedil;&atilde;o do caso Mensal&atilde;o.</font></p></p>
+<p><p><font face=\"Verdana\"><strong>&Eacute;POCA</strong> - O foro privilegiado d&aacute; &agrave;s autoridades brasileiras uma sensa&ccedil;&atilde;o de impunidade? </font></p></p>
+<p><p><font face=\"Verdana\"><strong>Rodrigo Colla&ccedil;o</strong> &ndash; O estudo revela que essa quest&atilde;o vai muito al&eacute;m da &ldquo;sensa&ccedil;&atilde;o&rdquo;. O quadro &eacute; de real impunidade. No Brasil, h&aacute; uma aus&ecirc;ncia de julgamento para esses casos, n&atilde;o existe nem condena&ccedil;&atilde;o e nem absolvi&ccedil;&atilde;o. Isso, seguramente, leva algumas pessoas a buscar cargos para se privilegiar da impunidade. </font></p></p>
+<p><p><font face=\"Verdana\"><strong>&Eacute;POCA</strong> &ndash; Mas &eacute; o caso de abolir a exist&ecirc;ncia do foro privilegiado? </font></p></p>
+<p><p><font face=\"Verdana\"><strong>Colla&ccedil;o</strong> &ndash; Acredito que essa seja a melhor solu&ccedil;&atilde;o. Na maioria dos pa&iacute;ses do mundo n&atilde;o existe esse tipo de benef&iacute;cio ou, se existe, est&aacute; restrito aos cargos como presidente da Rep&uacute;blica e presidente do Congresso. No Brasil, a quest&atilde;o est&aacute; generalizada, excessiva. E a melhor forma de acabar com isso &eacute;, de fato, acabar com o foro privilegiado de vez. </font></p></p>
+<p><p><font face=\"Verdana\"><strong>&Eacute;POCA</strong> &ndash; De que maneira isso pode ser feito? Como o Judici&aacute;rio deve se organizar? </font></p></p>
+<p><p><font face=\"Verdana\"><strong>Colla&ccedil;o</strong> &ndash; Sabemos que n&atilde;o &eacute; uma quest&atilde;o f&aacute;cil. A AMB tem sugerido que o Supremo Tribunal Federal e os Superiores Tribunais de Justi&ccedil;a convoquem ju&iacute;zes de diversos Estados para agilizar o andamento desses processos. O Tribunal de Justi&ccedil;a do Rio Grande do Sul, por exemplo, criou uma C&acirc;mara Criminal s&oacute; para julgar prefeitos, e l&aacute; os resultados s&atilde;o melhores do que em outros Estados brasileiros, ou seja, as autoridades s&atilde;o julgadas. </font></p></p>
+<p><p><font face=\"Verdana\"><strong>&Eacute;POCA</strong> &ndash; O Supremo Tribunal Federal est&aacute; preparado para julgar um caso como o do Mensal&atilde;o? </font></p></p>
+<p><p><font face=\"Verdana\"><strong>Colla&ccedil;o</strong> &ndash; O STF e os STJs n&atilde;o est&atilde;o preparados para esse tipo de julgamento. O Supremo &eacute; um Tribunal que julga inconstitucionalidades. Ele ter&aacute; de parar todo seu trabalho para funcionar como se fosse uma vara criminal: ter&aacute; que ouvir testemunhas, acusados. N&atilde;o &eacute; uma falta de vontade do STF. &Eacute; que realmente n&atilde;o &eacute; uma fun&ccedil;&atilde;o dele. &Eacute; preciso mudar a Constitui&ccedil;&atilde;o para que o Supremo possa delegar esse tipo de processo a ju&iacute;zes de outros Estados. N&atilde;o podemos ficar na depend&ecirc;ncia dos ministros. </font></p></p>
+<p><p><font face=\"Verdana\"><strong>&Eacute;POCA </strong>&ndash; O que se pode esperar na decis&atilde;o do Supremo no Mensal&atilde;o? </font></p></p>
+<p><p><font face=\"Verdana\"><strong>Colla&ccedil;o </strong>&ndash; O julgamento que come&ccedil;a nesta quarta-feira &eacute; muito preliminar. Ser&aacute; decidido somente se a den&uacute;ncia contras os envolvidos ser&aacute; aceita ou n&atilde;o. Esse processo criminal, se aceito, dever&aacute; demorar anos. Mas, se a den&uacute;ncia n&atilde;o for aceita, todos os envolvidos ser&atilde;o automaticamente absolvidos. Acredito que o Supremo ir&aacute; julgar bem. Os ministros s&atilde;o competentes e ir&atilde;o decidir com justi&ccedil;a.</font></p></p>
+<p><p><font face=\"Verdana\"><strong>&Eacute;POCA </strong>&ndash; O STF acaba de condenar o deputado federal Paulo Maluf por uma irregularidade ocorrida no in&iacute;cio dos anos 70, durante seu governo no Estado de S&atilde;o Paulo. O processo do Mensal&atilde;o, se aceito, deve demorar o mesmo tempo para ser julgado? </font></p></p>
+<p><p><font face=\"Verdana\"><strong>Colla&ccedil;o</strong> &ndash; Acho que n&atilde;o chega a esse ponto. O processo do Mensal&atilde;o deve demorar 4 ou 5 anos. &Eacute; preciso ouvir as testemunhas, os acusados, analisar as provas, etc. &Eacute; um trabalho demorado. Por outro lado, existe a press&atilde;o da sociedade para que isso se resolva logo. Manobras protelat&oacute;rias n&atilde;o ser&atilde;o bem aceitas pelas pessoas. Esse &eacute; um processo importante para a sociedade e merece ser resolvido.<br /></p>
+<p></font></p> </p>
+{% endraw %}

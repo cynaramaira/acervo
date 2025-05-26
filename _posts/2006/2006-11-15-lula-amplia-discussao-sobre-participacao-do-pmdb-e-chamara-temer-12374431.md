@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Da <STRONG>Agência Estado</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Bras?lia - Preocupado com o andamento das negociações com o PMDB que pode implodir seu projeto de coalização, o presidente Luiz Inácio Lula da Silva decidiu chamar ao Planalto o presidente nacional da legenda, deputado Michel Temer (SP), para tratar da participação do partido no futuro governo de coalizão. </FONT></P></p>
 <p><P><FONT face=Verdana>Para que o encontro não fique restrito a Temer, com quem Lula está rompido há mais de um ano, a idéia é fazer uma reunião com toda a executiva nacional, abrindo a negociação institucional com o partido ao mesmo tempo em que o presidente amplia sua interlocução com os peemedebistas</FONT></P></p>
@@ -38,4 +38,4 @@ imagem: null
 <p><P><FONT face=Verdana>Segundo outro interlocutor de Lula, foi um recado ao trio formado por Renan, Sarney e Jader, que, na avaliação do próprio presidente, já estaria muito bem representado no ministério e não ampliará o espaço de poder no segundo governo. </FONT></P></p>
 <p><P><FONT face=Verdana>Em reunião, as bancadas do PT na Câmara e Senado também decidiram brigar por mais espaço no segundo mandato. No Senado, o PT está pressionando Lula para devolver ao partido o cargo de l?der do governo. </FONT></P></p>
 <p><P><FONT face=Verdana>O nome mais cotado é o do senador Tião Viana (PT-AC), que tem bom trânsito na oposição. Na semana passada, porém, o próprio Lula confirmou o senador Romero Jucá (PMDB-RR) no posto.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

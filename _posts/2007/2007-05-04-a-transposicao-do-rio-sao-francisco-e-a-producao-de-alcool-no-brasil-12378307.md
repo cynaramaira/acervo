@@ -1,0 +1,48 @@
+---
+id: 12378307
+date: "2007-05-04T10:00:00Z"
+last_modified_at: null
+tags:
+  - "alcool"
+  - "brasil"
+  - "producao"
+  - "rio-sao-francisco"
+  - "transposicao"
+categories:
+  - "colunistas"
+title: "A transposi\u00e7\u00e3o do Rio S\u00e3o Francisco e a produ\u00e7\u00e3o de \u00e1lcool no Brasil "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><FONT size=2></p>
+<p><P>Por <STRONG>Adriano Espíndola Cavalheiro</STRONG></P></p>
+<p><P>Apesar das promessas presidenciais em sentido contrário – principalmente no sentido de realizar um maior debate com a sociedade organizada acerca do polêmico projeto da transposição do Rio São Francisco, quando da greve de fome do Bispo Dom Luiz Flávio Cáppio – o governo Lula, através do Ibama, assinou, no último dia 23 de março, licença ambiental para o projeto de transposição. Neste mesmo mês, lançou edital de licitação para a primeira fase da obra.</P></p>
+<p><P>Conforme já denunciando em artigo no qual sou autor [1], a verdade é que nem mesmo houve tempo suficiente para uma discussão acerca dos impactos ambientais, entendendo-se meio ambiente no sentido mais amplo da palavra, como a própria Lei da Política Nacional do Meio Ambiente (Lei 6.938/1981) determina.</P></p>
+<p><P>Não é mera coincidência que, ao mesmo tempo em que o governo dá o sinal verde para essa obra, que longe de resolver os problemas que afligem a população pobre nordestina pode causar impactos ambientais gravíssimos, são negociados acordos comerciais, através dos quais o Brasil pode assumir o papel de principal fornecedor dos chamados biocombustíveis, mormente de etanol, para as principais potências do planeta.</P></p>
+<p><P>Voltando a destacar os sérios problemas que a transposição pode trazer, citamos, entre outros, a possibilidade real e concreta de interferência nas populações indígenas, aumento e aparecimento de novas doenças, visto que a água é um excelente vetor; perda de terras potencialmente agricultáveis; desapropriações e todos conflitos que decorrem desta;</P></p>
+<p><P>especulação imobiliária nas várzeas potencialmente irrigáveis no entorno dos canais; interferência com o patrimônio cultural das populações atingidas; perda e fragmentação de áreas com vegetação nativa, de habitats e ecossistemas; modificação da composição e risco de redução da biodiversidade das comunidades biológicas aquáticas nativas das bacias receptoras; risco de introdução de espécies invasoras; maior número de ocorrência de acidentes com animais peçonhentos; aceleração do processo erosivo e de carreamento de sedimentos; modificação no Regime Fluvial do Rio São Francisco; eutrofização dos novos reservatórios.</P></p>
+<p><P>Ademais, como boa parte dos rios brasileiros, pelos descasos da maioria absoluta dos governantes das três esferas (municipal, estadual e federal), que nunca se preocuparam realmente com a questão ambiental, o Rio São Francisco está com sua saúde extremamente comprometida.</P></p>
+<p><P>Como denuncia Luiz Flávio Cappio, o bispo de Barra desprezado por Lula, em recente artigo publicado no jornal O Estado de S. Paulo, dos 5.400km de margens do Rio São Francisco, apenas 5% das matas ciliares estão preservadas. Cappio afirma, ainda, que numa caminhada por ele realizada \"da nascente à foz do rio, de outubro de 1992 a outubro de 1993, foram</P></p>
+<p><P>detectados todos os tipos de agressão, como a destruição das fontes, a morte das lagoas e dos brejos e o desmatamento das matas ciliares que protegem os barrancos. O assoreamento é cada vez maior, com queda dos barrancos e poluição das águas pelos dejetos sanitários das cidades, pelos dejetos químicos das indústrias e pelos agrotóxicos de grandes projetos de</P></p>
+<p><P>irrigação\".</P></p>
+<p><P>Mas nada disso interessa, pois como dizem os coronéis nordestinos, os latifundiários, ou melhor, os \"agrobusines\", ou seja, essa gente que vem lucrando com a expansão de cultura da cana, não se pode obstar o progresso. No caso em discussão, isso significa mais e mais áreas para o cultivo da principal matéria-prima, no Brasil, do combustível equivocadamente chamado de \"ecologicamente correto\".</P></p>
+<p><P>Para entender bem a situação que estamos enfrentando, é preciso destacar que, para o agronegócio, essa gente que em sua maioria não se importa com nada para garantir seus lucros (refiro-me aos velhos, mas não abandonados,</P></p>
+<p><P>métodos dos latifundiários), está colocada uma oportunidade, diga-se de passagem, de ouro, que dificilmente será perdida, pois as principais potências econômicas, as maiores responsáveis pela degradação do meio ambiente – em especial Estados Unidos, União Européria e Japão – têm como meta substituir, nos próximos treze anos, no mínimo, 20% de seu consumo de</P></p>
+<p><P>combustíveis derivados de petróleo pelo chamado biocombustível.</P></p>
+<p><P>Vejam que, de acordo com projeções de entidades patronais do setor, o número de usinas de etanol deve crescer 30% no país em apenas cinco anos - pulando das atuais 248 para 325 unidades de produção na safra de 2012/2013. Dados fornecidos pelo Banco Nacional de Desenvolvimento Econômico e Social (BNDES) apontam pedidos de financiamento no valor de R$7,2 bilhões. O total de investimentos para a construção de novas usinas está estimado em R$ 12,2 bilhões. Caso tais previsões se confirmem, a área ocupada pela cana crescerá mais de 50%, chegando a quase 10 milhões de hectares em meados da próxima década.</P></p>
+<p><P>Como apontado em artigo publicado por Marcos Rogério de Souza, mestre em Direito pela Unesp e advogado em Brasília (DF) \"o problema é que a cana, a soja e o eucalipto são produzidos em regime de extensas monoculturas com sérios impactos negativos. Desde as plantations até as grandes propriedades do agronegócio, os efeitos são os mesmos e têm se</P></p>
+<p><P>intensificado nos últimos anos: desmatamento ilegal para dar lugar ao plantio de cana, soja e eucalipto; aumento da violência no campo decorrente da expulsão de camponeses e posseiros; ampliação da concentração fundiária; multiplicação do uso de agrotóxicos e demais agroquímicos, prejudicando a saúde humana e o ecossistema; pobreza rural e urbana, decorrente do êxodo e da baixa incorporação de trabalho; aumento das importações de produtos historicamente produzidos pelo Brasil, como arroz, trigo, cebola, batata, feijão. Importante considerar que o desmatamento é uma das principais causas do efeito estufa, conforme demonstrou relatório da ONU divulgado recentemente\".</P></p>
+<p><P>Não restam dúvidas, portanto, que a transposição do rio São Francisco está inserida neste contexto de geopolítica internacional e é mais um destes projetos, que a despeito do discurso oficial, servem para beneficiar as elites de sempre.</P></p>
+<p><P>Novamente, citando Dom Cáppio, \"o projeto de transposição do rio São Francisco desrespeita a realidade ao considerarmos que o rio está em franco processo de morte. Trata-se de um projeto altamente agressor, ecologicamente e socialmente injusto. Ao invés de levar as águas do rio para o povo e garantir a vida da fauna e da flora, o projeto prioriza grandes projetos agroindustriais, privilegiando pequeno grupo em detrimento da grande massa que continuará sem acesso à água. É socialmente</P></p>
+<p><P>injusto e ecologicamente agressivo\".</P></p>
+<p><P>Além do impacto ambiental produzido pela própria obra, teremos ainda aqueles acima decorrentes da monocultura latifundiária do agronegócio, causados entre outros, no caso do cultivo da cana-de-açúcar, pelo uso da grande quantidade de agrotóxicos durante todo ciclo de cultura, do uso de vinhoto (rejeito industrial da cana altamente poluente) para adubação do</P></p>
+<p><P>solo e das queimadas para a colheita, sendo que tanto a cultura da cana como a do eucalipto aceleram o processo de desertificação, uma vez que absorvem demasiadas quantidades de água do solo e subsolo.</P></p>
+<p><P>Como bem observou Éden Pereira Magalhães, Secretário executivo do Conselho Indigenista Missionário (Cimi), em entrevista publicada no Portal do PSTU \"o compromisso que Lula assumiu após a greve de fome de Dom Cáppio, de</P></p>
+<p><P>abrir o diálogo real, não foi assumido apenas com o bispo, mas com a sociedade brasileira. E é este compromisso que o governo optou por ignorar\".</P></p>
+<p><P>Mas se Lula tem, faz algum tempo, ignorado os compromissos feitos com a sociedade organizada, junto a qual construiu sua história, é porque considera os usineiros de cana (mas também os banqueiros e os grandes industriais, para sermos justos) seus novos heróis e estes, como bem observou um dos bilionários do álcool do mundo, consideram, Lula, um grande amigo a qual todos (os usineiros) devem gratidão.</P></p>
+<p><P>Mais do que nunca está nas mãos das entidades dos trabalhadores e dos movimentos sociais organizados a tarefa de barrar este projeto de transposição que, se efetivado poderá causar impactos de grande monta ao clima e à saúde de nosso planeta.</P></p>
+<p><P>(*) ADRIANO ESPÍNDOLA CAVALHEIRO, Advogado de entidade sindicais na Região do Triângulo Mineiro /MG, especialista em Direito do Trabalho, membro do coletivo jurídico da Coordenação Nacional de Lutas (Conlutas) e militante do PSTU. E-Mail: </FONT><A href=\"https://jc3.uol.com.br/src/compose.php?send_to=defesadotrabalhador%40terra.com.br\"><U><FONT color=#0000ff size=2>defesadotrabalhador@terra.com.br</U></FONT></A></P> </p>
+{% endraw %}

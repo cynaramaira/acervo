@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana><STRONG>EDUARDO CAMPOS (PSB)</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Às 12h</STRONG>, no Recife, reúne-se com representantes do UNICEF em Pernambuco</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Às 13h</STRONG>, no Recife, participa da festa do Dia da Criança, com artistas plásticos, na Praça de Casa Forte</FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Às 17h30</STRONG>, participa de caminhada em Ita?ba</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Às 20h</STRONG>, participa de caminhada em Tupanatinga</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Às 21h10</STRONG>, participa de com?cio em Bu?que</FONT> <BR></P> </p>
-{\% endraw %}
+{% endraw %}

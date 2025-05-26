@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana><STRONG>MENDONÇA</p>
 <p> FILHO (PFL)</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>11h30</STRONG>, entrevista à TV Tribuna. Local: estúdios da TV, em Ouro Preto, Olinda</FONT></P></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>12h</STRONG>, gravação para o guia eleitoral</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>19h</STRONG>, em Belém do São Francisco, participa de carreata pelas ruas centrais da cidade, finalizando com com?cio. Em seguida, visita a faculdade municipal</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>22h</STRONG>, em Floresta, participa de carreata pelas ruas centrais da cidade, finalizando com com?cio. Depois, visita a feira agro-pecuára</FONT><BR></P> </p>
-{\% endraw %}
+{% endraw %}

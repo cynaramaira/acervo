@@ -1,0 +1,36 @@
+---
+id: 12405764
+date: "2009-09-15T12:41:00Z"
+last_modified_at: null
+tags:
+  - "blogs-jc"
+  - "deputado"
+  - "esportes"
+categories:
+  - "noticias"
+title: "Secret\u00e1rio de Esportes rebate den\u00fancia publicada pelo Blog e questiona deputado"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: center"><img height="390" alt="" width="520" src="https://jc3.uol.com.br/blogs/repositorio/pista_caminhada_e_alambrado.JPG" /></p></p>
+<p><p>Caro Jamildo,</p></p>
+<p><p>Mesmo sabendo que o post feito hoje no seu blog foi feito pelo pr&oacute;prio deputado Augusto Coutinho, gostar&iacute;amos de contar com a possibilidade de dispor do mesmo espa&ccedil;o dispensado a ele. Estamos &agrave; sua disposi&ccedil;&atilde;o para qualquer tipo de esclarecimento que se fa&ccedil;a necess&aacute;rio.</p></p>
+<p><p>Segue abaixo a resposta da secretaria, e em anexo seguem as fotos do que realmente foi feito no Centro e c&oacute;pia de documento enviado ao Deputado Augusto Coutinho esclarecendo detalhes sobre o andamento da obra.</p></p>
+<p><p>Desde j&aacute; agradecidos,<br /></p>
+<p>Secret&aacute;rio e demais componentes da Secretaria Especial de Esportes<br /></p>
+<p>----------------------------------------------------------------------------------------------------------<br /></p>
+<p>Com rela&ccedil;&atilde;o ao conte&uacute;do da coluna intitulada &ldquo;Oposi&ccedil;&atilde;o detona: Grande obra de coisa nenhuma&rdquo;, veiculada nesta segunda-feira (14) por este Blog, a Secretaria Especial de Esportes esclarece que enviou of&iacute;cio datado de 7 de Agosto do corrente ao Deputado Augusto Coutinho contendo documenta&ccedil;&atilde;o detalhada sobre onde e como est&aacute; sendo aplicado o recurso de R$ 1, 2 milh&atilde;o (e n&atilde;o R$1,3 milh&atilde;o) liberado pelo Governo Federal em favor do Centro de Esportes e Lazer Santos Dumont, assim como as justificativas pela demora para o in&iacute;cio das obras.</p></p>
+<p><p>Por este motivo, a Secretaria se p&otilde;e perplexa com o fato do dign&iacute;ssimo Deputado se referir a espa&ccedil;os que n&atilde;o estavam inclu&iacute;dos nessa primeira etapa da reforma, visto que o recurso, apesar de significativo, n&atilde;o &eacute; suficiente para tornar o Santos Dumont&nbsp; num Centro de Excel&ecirc;ncia, como de fato pretendem ( e est&atilde;o trabalhando para isso!) o governo Eduardo Campos e o Ministro do Esporte, Orlando Silva.</p></p>
+<p><p>O projeto de reforma do Centro, conforme vem sendo divulgado desde 2007, prev&ecirc; v&aacute;rias etapas e, neste momento, a Secretaria Especial de Esportes est&aacute; concluindo apenas a primeira delas, o que inclui a acessibilidade do local, reforma do doj&ocirc;, requalifica&ccedil;&atilde;o da pista, constru&ccedil;&atilde;o do alambrado, da pista de passeio, da quadra poliesportiva e reforma da &aacute;rea externa da piscina e do muro lateral. Este &uacute;ltimo inclusive, ainda em fase de conclus&atilde;o, pois foi necess&aacute;rio aguardar que terminasse o per&iacute;odo de chuvas para refazer a base do muro.</p></p>
+<p><p style="text-align: center"><img alt="" src="https://jc3.uol.com.br/blogs/repositorio/quadra_poliesportiva.JPG" /></p></p>
+<p><p>Diante disso, se faz imperativo esclarecer que o Centro ainda est&aacute; em obras e que limpar a &aacute;gua da piscina e deslocar trabalhadores e m&aacute;quinas para cortar o mato n&atilde;o s&atilde;o, neste momento, a&ccedil;&otilde;es de extrema import&acirc;ncia.</p></p>
+<p><p>Ressaltamos portanto que, o valor do recurso liberado n&atilde;o incluiu aquisi&ccedil;&atilde;o de equipamentos para pr&aacute;tica de gin&aacute;stica e muscula&ccedil;&atilde;o, assim como a reforma do pr&eacute;dio onde funciona a administra&ccedil;&atilde;o. Por&eacute;m, j&aacute; est&aacute; em curso o aditamento de valor desse contrato em R$ 290.000,00 (duzentos e noventa mil reais) que vai contemplar o servi&ccedil;o de drenagem das &aacute;reas de alagamento do Centro, cobertura do gin&aacute;sio, reforma da sala de xadrez e projeto de jardinagem. Tamb&eacute;m est&aacute; em curso a elabora&ccedil;&atilde;o de um edital de licita&ccedil;&atilde;o a ser realizado pela Secretaria Estadual de Educa&ccedil;&atilde;o no valor de R$ 750.000,00 para contrata&ccedil;&atilde;o de empresa especializada em elaborar projetos executivos referentes a reforma do pr&eacute;dio da administra&ccedil;&atilde;o do Centro e sua transforma&ccedil;&atilde;o em Museu do Esporte, al&eacute;m de constru&ccedil;&atilde;o de uma piscina de aquecimento e outra de salto, constru&ccedil;&atilde;o de alojamentos para atletas em treinamento no Centro, instala&ccedil;&atilde;o de piso compat&iacute;vel com as normas definidas pela Federa&ccedil;&atilde;o Internacional de Atletismo, constru&ccedil;&atilde;o de um novo gin&aacute;sio, entre outras interven&ccedil;&otilde;es que facilitar&atilde;o a capta&ccedil;&atilde;o de recursos para a execu&ccedil;&atilde;o dessas obras, elevando assim, o Santos Dumont &agrave; categoria de Centro de Excel&ecirc;ncia Esportiva.</p></p>
+<p><p>Outro ponto que a Secretaria Especial de Esportes faz a mais absoluta quest&atilde;o de lembrar &agrave; popula&ccedil;&atilde;o e tamb&eacute;m ao Deputado Augusto Coutinho &eacute; que em qualquer estado, os atletas v&ecirc;m e v&atilde;o, e que ao mesmo tempo que, de fato, alguns atletas deixaram as nossas pistas, outros n&atilde;o menos significativos voltaram a treinar pelo nosso Estado usando, inclusive, as instala&ccedil;&otilde;es do referido Centro para executarem seus treinos, a exemplo de T&acirc;nia Silva, atleta de destaque nacional na modalidade salto triplo: ela est&aacute; entre as tr&ecirc;s primeiras do ranking nacional. Sem citar outras iniciativas do Governo em favor do esporte como, o Bolsa Atleta que &eacute; atualmente a &uacute;nica ajuda financeira de que disp&otilde;e Yane Marques, atleta do Pentatlo que dispensa apresenta&ccedil;&otilde;es e que no &uacute;ltimo final de semana levou Pernambuco ao p&oacute;dio da final da Copa do Mundo de Pentatlo Moderno. Um orgulho para n&oacute;s, pernambucanos e gestores, que levamos o esporte a s&eacute;rio!</p></p>
+<p><p>Seria, portanto, imposs&iacute;vel finalizar, sem lembrar aos ilustres leitores desse conceituado blog que na gest&atilde;o passada, quando o deputado Augusto Coutinho era &ldquo;situa&ccedil;&atilde;o&rdquo; a secretaria de desenvolvimento econ&ocirc;mico recebeu R$ 500 mil do Minist&eacute;rio do Esporte em favor do Santos Dumont, recurso este que foi devolvido ao &oacute;rg&atilde;o de origem por impossibilidade de execu&ccedil;&atilde;o, o que houve Deputado&#63;</p></p>
+<p><p>PS do Blog: Ao contr&aacute;rio do que afirma a secretaria, o deputado n&atilde;o escreve posts aqui. Ele assina artigos todas as segundas feiras, como l&iacute;der da oposi&ccedil;&atilde;o. Da mesma forma que hoje, ter&ccedil;a-feira, assina o l&iacute;der do governo Eduardo, Isaltino Nascimento. &Eacute; uma pr&aacute;tica comum no blog mais plural da pra&ccedil;a local, que nunca se recusa a divulgar esclarecimentos de quem quer que seja. Foi sempre assim e ser&aacute;.</p></p>
+<p><p><img height="390" width="520" alt="" src="https://jc3.uol.com.br/blogs/repositorio/Gaiola.JPG" /></p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

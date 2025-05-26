@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <B>Túlio Velho Barreto</B>*<BR>Cientista pol?tico e pesquisador da Fundaj</P></FONT></p>
 <p><P><FONT face=Verdana>Na última quinta, dia 17, participei de um chat promovido pelo JC OnLine (www.jc.com.br) sobre as eleições de 2006, em especial acerca dos programas eleitorais gratuitos no rádio e na TV. O guia eleitoral começara apenas dois dias antes e uma das questões mais recorrentes levantadas pelos internautas foi sobre a utilização de imagens e áudios do presidente-candidato Lula (PT) no guia da União por Pernambuco (PMDB, PFL, PSDB e PPS) e de seu candidato ao Governo do Estado, Mendonça Filho (PFL). Na ocasião, expus minha posição a respeito. Aqui, pretendo fazer uma análise mais apurada sobre o tema, que se transformou na primeira batalha envolvendo as diversas coligações estaduais, e até a disputa nacional, na medida em que envolveu diretamente o presidente-candidato Lula.</FONT></P></p>
 <p><P><FONT face=Verdana></FONT></P></p>
@@ -47,4 +47,4 @@ imagem: null
 <p><P><FONT face=Verdana></FONT></P></p>
 <p><P><FONT face=Verdana>Ora, considerando que os atores pol?ticos costumam agir racionalmente de forma mais ego?sta e menos altru?sta, sobretudo quando envolvidos em disputas que podem implicar em sua sobrevivência, é absolutamente plaus?vel inferir que a vitória de Mendonça Filho não implicará em uma derrota, pelo menos em termos absoluta, do prefeito João Paulo. Muito pelo contrário. Neste cenário, conclu?da a apuração, o prefeito passaria a ser, desde que mantidas as condições pol?ticas atuais, em especial se o presidente Lula for reeleito, o mais forte, se não o único, candidato natural da oposição à sucessão estadual em 2010, mesmo que o PT não queira. A esta altura de sua vida pública, já um pol?tico testado e experiente, o prefeito João Paulo sabe bem disso.</FONT></P><B></p>
 <p><P><FONT face=Verdana><EM>*</EM></FONT></B><FONT face=Verdana><EM>Cientista pol?tico e pesquisador da Fundação Joaquim Nabuco, <B>Túlio Velho Barreto</B>, 48,&nbsp;é um dos autores dos livros Democracia e Instituições Pol?ticas Brasileiras no final do Século XX (MCP-UFPE/Bagaço, 1998) e Nordeste 2004 - O Voto das Capitais (Fundação Konrad Adenauer, 2005). Organizou e participou dos livros Na Trilha do Golpe - 1964 revisitado (Editora Massangana, 2004) e A Nova República - Visões da Redemocratização (Cepe/JC, 2006), que resultaram de séries especiais publicadas pelo Jornal do Commercio em parceria com a Fundação Joaquim Nabuco.</EM></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

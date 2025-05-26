@@ -1,0 +1,28 @@
+---
+id: 12388418
+date: "2008-04-30T11:15:00Z"
+last_modified_at: null
+tags:
+  - "alemanha"
+  - "cidades"
+  - "problemas-auditivos"
+categories:
+  - "eleicoes"
+title: "Ir al\u00e9m do imediato na abordagem dos problemas da cidade"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Por Luciano Siqueira<img height=\"160\" alt=\"\" width=\"130\" align=\"right\" src=\"https://www2.uol.com.br/JC/blogs/blogdejamildo/imagens/selo_recife2008.jpg\" /></font></p></p>
+<p><p><font face=\"Verdana\">O gestor p&uacute;blico &eacute; chamado cotidianamente a imitar os bons poetas &ndash; ou seja, a perceber em cada detalhe da vida na cidade, alguns aparentemente sem maior import&acirc;ncia ou ef&ecirc;meros, o que h&aacute; de essencial (e estrutural). Imitar os bons poetas exatamente por isso: um Drummond, um Vin&iacute;cius, um Carlos Pena Filho, dentre muitos, enxerga num fato fortuito o que vemos e n&atilde;o enxergamos, revelando aos olhos dos simples mortais, o que h&aacute; ali de universal...</font></p></p>
+<p><p><font face=\"Verdana\">Neste instante da vida do pa&iacute;s, quando se aproxima o pleito municipal, atores pol&iacute;ticos dos mais diversos matizes se debru&ccedil;am sobre os problemas das cidades e s&atilde;o chamados &ndash; tenham ou na consci&ecirc;ncia disso &ndash; a uma </font><font face=\"Verdana\">abordagem que v&aacute; al&eacute;m do imediatamente percept&iacute;vel, na formula&ccedil;&atilde;o do diagn&oacute;stico e na busca de solu&ccedil;&atilde;o.</font></p></p>
+<p><p><font face=\"Verdana\">Desse modo, faz-se oportuno assinalar a &iacute;ntima rela&ccedil;&atilde;o entre o padr&atilde;o de vida em nossas cidades e a natureza do desenvolvimento do pa&iacute;s. O Brasil hoje &eacute; essencialmente urbano. Em apenas cinco d&eacute;cadas, processou-se uma fant&aacute;stica invers&atilde;o da rela&ccedil;&atilde;o entre a popula&ccedil;&atilde;o rural e a urbana, motivada pela industrializa&ccedil;&atilde;o que come&ccedil;ou a tomar corpo nos anos 30 e pela aus&ecirc;ncia de uma reforma agr&aacute;ria distributiva &ndash; ambos fatores de transfer&ecirc;ncia acelerada de popula&ccedil;&otilde;es da &aacute;rea rural para as cidades. Em 1940 residiam nas cidades apenas 31% dos brasileiros; por volta dos anos 80, nas cidades j&aacute; se encontravam mais de 75% da popula&ccedil;&atilde;o. Em 2000, j&aacute; se estimava em 82% a popula&ccedil;&atilde;o urbana, segundo os crit&eacute;rios do IBGE. </font></p></p>
+<p><p><font face=\"Verdana\">Essa r&aacute;pida ocupa&ccedil;&atilde;o do territ&oacute;rio urbano se deu (com rar&iacute;ssimas exce&ccedil;&otilde;es) de maneira desordenada e desigual, refletindo os tra&ccedil;os essenciais do capitalismo de tipo dependente, precocemente monopolizado, concentrador da produ&ccedil;&atilde;o, da renda e da riqueza e socialmente excludente que aqui se desenvolveu. O crescimento industrial se apoiou em grande medida no baixo </font><font face=\"Verdana\">valor da m&atilde;o de obra abundantemente dispon&iacute;vel, sem a contrapartida de oferta suficiente de habita&ccedil;&atilde;o, equipamentos e servi&ccedil;os e condi&ccedil;&otilde;es sanit&aacute;rias que propiciassem qualidade de vida aos trabalhadores. </font></p></p>
+<p><p><font face=\"Verdana\">A dimens&atilde;o territorial do drama urbano brasileiro fica mais evidente quando se considera a exist&ecirc;ncia de grandes aglomerados urbanos, dos quais vinte e seis det&ecirc;m o status de Regi&atilde;o Metropolitana, correspondendo a pouco mais de 460 munic&iacute;pios, que compartilham problemas estruturais como o d&eacute;ficit habitacional, a precariedade dos transportes e de saneamento, o desemprego e a crescente viol&ecirc;ncia criminal.</font></p></p>
+<p><p><font face=\"Verdana\">Nesse contexto, problemas estruturais vivenciados por cidades lim&iacute;trofes ou integrantes de uma mesma regi&atilde;o reclamam solu&ccedil;&otilde;es que envolvam os tr&ecirc;s entes federativos &ndash; a Uni&atilde;o, os Estados e os Munic&iacute;pios. O que se tornou poss&iacute;vel com a Lei 11.107, de 6 de abril de 2005, que disp&otilde;e sobre normas gerais de contrata&ccedil;&atilde;o de cons&oacute;rcios p&uacute;blicos, regulamentada pelo Decreto 6.017, de 17 de janeiro de 2007 procura responder a essa demanda. </font></p></p>
+<p><p><font face=\"Verdana\">&Eacute; a denominada Lei dos Cons&oacute;rcios P&uacute;blicos, que possibilita quatro tipos de cons&oacute;rcios: entre Munic&iacute;pios; entre os Munic&iacute;pios e o Estado; entre o Estado e a Uni&atilde;o; entre os tr&ecirc;s entes, Uni&atilde;o, Estado e Munic&iacute;pio &ndash; mediante ades&atilde;o volunt&aacute;ria e submiss&atilde;o a regras de funcionamento que preservam a autonomia de cada ente federado consignada na Constitui&ccedil;&atilde;o.</font></p></p>
+<p><p><font face=\"Verdana\">Tenho acentuado essa quest&atilde;o no debate sobre os problemas do Recife que, cidade-p&oacute;lo que &eacute; de nossa Regi&atilde;o Metropolitana, reflete e concentra os problemas fundamentais do conjunto das cidades que a comp&otilde;em, que reclamam </font><font face=\"Verdana\">solu&ccedil;&otilde;es consorciadas.</font></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">PS: Luciano Siqueira &eacute; vice-prefeito e pr&eacute;-candidato do PCdoB &agrave; Prefeitura do Recife, escreve para o Blog &agrave;s quartas, dentro da s&eacute;rie &quot;Recife 2008. Debate com os prefeitur&aacute;veis&quot;.</font></em>&nbsp;</p> </p>
+{% endraw %}

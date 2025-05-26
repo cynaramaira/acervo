@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P></p>
 <p><P><FONT face=Verdana><B></P></B></FONT><FONT face=Verdana>O ministro da Defesa, Waldir Pires, disse, em entrevista nesta tarde,&nbsp;que o Judiciário é quem definirá de quem é a incumbência sobre&nbsp;poss?veis preju?zos sofridos por passageiros em atrasos de vôos.&nbsp;</FONT> </p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Pires disse que fará todas as medidas que forem convenientes para melhorar o trabalho. \"A aspiração deles é trabalhar como civis\". Hoje os controladores trabalham em uma hierarquia militar. \"Eu vou trabalhar para conseguir isso para eles\", prometeu. </FONT></P></p>
 <p><P><FONT face=Verdana>O ministro reafirmou que estão sendo feito convites a controladores aposentados, para que todos \"dêem as mãos e possam se reerguer emocionalmente\".</FONT> </P></p>
 <p><P><FONT face=Verdana>As informações são do portal Terra.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

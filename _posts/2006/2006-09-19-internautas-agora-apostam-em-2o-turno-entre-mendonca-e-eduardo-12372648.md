@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Este é o resultado parcial da enquete que o Blog está realizando:</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana></FONT>&nbsp;</P></p>
 <p><P</p>
@@ -32,4 +32,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><o:p><FONT face=Verdana></FONT></o:p>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><o:p><FONT face=Verdana></FONT></o:p>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana><STRONG>Participe, vote, dê sua opinião na coluna ao lado.</STRONG></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

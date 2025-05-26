@@ -13,9 +13,9 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>Foram abertas até agora 28% das urnas da 25ª zona eleitoral do munic?pio. Essa é a maior das duas zonas de Goiana. Reúne cerca de 70% do eleitorado.&nbsp;O que foi apurado até agora está dividido da seguinte forma:</P></p>
 <p><P>Fenelon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 40%</P></p>
 <p><P>Edval&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;35%</P></p>
 <p><P>&nbsp;</P> </p>
-{\% endraw %}
+{% endraw %}

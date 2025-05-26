@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Durante toda a fase de pré-campanha eleitoral, no primeiro semestre, foi extremamente dif?cil a relação entre Eduardo Campos (PSB), à época pré-candidato ao governo de Pernambuco, e Armando Monteiro Neto (PTB), que estava na disputa como candidato da Frente Trabalhista (PTB, PDT e PMN).</FONT></P></p>
 <p><P><FONT face=Verdana>Armando ficou indignado com o avanço dos socialistas sobre as bases dele no estado inteiro. Chegou mesmo a bater duro em uma das principais propostas de Eduardo nesta campanha, a de construir três hospitais no Interior e Região Metropolitana do Recife.</FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo, pelo menos uma vez, bateu duro em Armando. De quebra, bateu também em Humberto Costa (PT), o agora aliado, que até bem pouco tempo atrás era apresentado pelos socialistas como um obstáculo, dentro da base do governo Lula, à candidatura de Eduardo.</FONT></P></p>
@@ -34,4 +34,4 @@ imagem: null
 <p><P><FONT face=\"Times New Roman\"><FONT face=Verdana color=black><STRONG>Eduardo Campos:</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana color=black><EM>\"Não sei por que o incômodo. Essas são propostas importantes e o povo sabe\"</EM></FONT></P></p>
 <p><P><FONT face=Verdana color=black>Eduardo, em 1º de maio, rebate as cr?ticas de Armando sobre o programa do PSB. Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/05/01/not_182271.php\" target=_blank>aqui</A></EM></STRONG>.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

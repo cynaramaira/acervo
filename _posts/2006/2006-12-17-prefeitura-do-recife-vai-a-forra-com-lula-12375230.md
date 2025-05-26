@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>A equipe do prefeito João Paulo (PT) mantém no maior sigilo os motivos do Carnaval de 2007. Já se sabe que as peças de decoração da cidade serão inspiradas na obra do magistral pintor Lula Cardoso Ayres Filho, mas o secretário de Cultura, Roberto Peixe, por enquanto, não adianta nada, além de um sentimento de revide humorado. </FONT></P></p>
 <p><P><FONT face=Verdana>\"Vamos à forra. Com juros e correção monetária\", diz, brincando, numa</p>
 <p> referência direta às cr?ticas que a iluminação de Natal vem recebendo.</FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>Falecido em 1987, a homenagem é uma grande oportunidade para divulgar mais a obra deste grande artista pernambucano, também programador visual além de artista plástico de vanguarda.</FONT></P></p>
 <p><P><FONT face=Verdana>Um parênteses: na equipe do petista, a escolha do nome do pintor já serve até para galhofa com os adversários pol?ticos. \"É Lula de novo. Com a força do povo\", brinca o assessor especial do prefeito, Herc?lio Maciel.</FONT></P></p>
 <p><P><FONT face=Verdana>Além do pintor, o outro homenageado do Carnaval 2007 é o maestro Nunes. </FONT></P> </p>
-{\% endraw %}
+{% endraw %}

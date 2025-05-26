@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do </FONT><A href=\"https://www.noblat.com.br/\"><B><I><U><FONT color=#0000ff><FONT face=Verdana>blog</FONT></B></I></U></FONT></A><FONT face=Verdana> de Noblat<BR><BR>Menos de 24 horas depois do debate de ontem à noite na TV Bandeirantes, Lula reconheceu que foi surpreendido por um Alckmin agressivo, brigador e que não o deixou respirar sossegado um só instante. Promete se preparar melhor para as próximas ocasiões.</FONT></P></p>
 <p><P><FONT face=Verdana>É recomendável que se prepare, sim.</FONT></P></p>
 <p><P><FONT face=Verdana>Lula compareceu ao debate como presidente da República - e, como tal, imaginou que seria tratado. Saiu dali como candidato - favorito ainda, mas candidato. Alckmin entrou no debate como o anti-Lula, escalado por seus pares apenas para cumprir tabela e perder a eleição.</FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p> colar a imagem de Alckmin à imagem do governo anterior que \"vendeu o patrimônio nacional para pagar d?vidas\". E foi também quando martelou a idéia de que seu governo cuidou melhor dos pobres.</FONT></P></p>
 <p><P><FONT face=Verdana>Alckmin jogou o tempo todo de olho nos eleitores indecisos e naqueles que ainda admitem mudar seu voto. O alvo preferencial de Alckmin foi o eleitor do Sul, Sudeste e Centro-Oeste - algo como 66% do total de eleitores.</FONT></P></p>
 <p><P><FONT face=Verdana>Se Lula tivesse dado ontem um passeio em cima de Alckmin, a eleição teria terminado na prática. Como ficou em desvantagem, a eleição continuará.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

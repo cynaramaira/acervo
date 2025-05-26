@@ -1,0 +1,29 @@
+---
+id: 12387861
+date: "2008-04-11T18:10:00Z"
+last_modified_at: null
+tags:
+  - "pobreza"
+categories:
+  - "eleicoes"
+title: "Sa\u00fade para reduzir a pobreza "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">Por Raul Henry*<img height=\"160\" src=\"https://www2.uol.com.br/JC/blogs/blogdejamildo/imagens/selo_recife2008.jpg\" width=\"130\" align=\"right\" alt=\"\" /></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&ldquo;A melhoria da sa&uacute;de dos povos &eacute; compreendida como condi&ccedil;&atilde;o essencial para o sucesso de toda e qualquer estrat&eacute;gia de redu&ccedil;&atilde;o da pobreza, de diminui&ccedil;&atilde;o de desigualdades e de garantia e prote&ccedil;&atilde;o dos direitos humanos&rdquo;. A partir deste paradigma da Unesco - Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas para Educa&ccedil;&atilde;o, Ci&ecirc;ncia e Cultura - &eacute; f&aacute;cil perceber: a Prefeitura do Recife n&atilde;o est&aacute; fazendo corretamente o seu dever de casa, na promo&ccedil;&atilde;o da sa&uacute;de p&uacute;blica de qualidade. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">As condi&ccedil;&otilde;es sub-humanas onde residem 1/3 da nossa popula&ccedil;&atilde;o (cerca de 500 mil pessoas), com renda abaixo de meio sal&aacute;rio m&iacute;nimo, e a falta de saneamento concorrem para a gravidade do problema. Hoje apenas 32,6% dos domic&iacute;lios do Recife t&ecirc;m saneamento b&aacute;sico, segundo o Sistema Nacional de Informa&ccedil;&otilde;es sobre Saneamento. <br /></p>
+<p>S&atilde;o condi&ccedil;&otilde;es adversas, nas quais se nota claramente a falta de uma a&ccedil;&atilde;o mais eficaz do poder p&uacute;blico municipal. Tudo isso somado, revela-nos uma cidade onde os servi&ccedil;os de sa&uacute;de n&atilde;o est&atilde;o sendo realizados de maneira adequada. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O Recife hoje apresenta n&uacute;meros preocupantes na &aacute;rea da sa&uacute;de. Basta observar as taxas de mortalidade infantil (16,6), de &oacute;bitos por doen&ccedil;as cardio-vasculares (67,3) e de c&acirc;ncer (15,4) para cada grupo de 100 mil habitantes. Os dados s&atilde;o do Datasus. <br /></p>
+<p>A grita &eacute; geral. Nos bairros mais pobres, tenho escutado sobre o sufoco do atendimento nos postos de sa&uacute;de e policl&iacute;nicas, a falta de rem&eacute;dios, a demora na marca&ccedil;&atilde;o de consultas e a precariedade dos equipamentos. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Os postos n&atilde;o apresentam capacidade de resolver problemas de baixa complexidade. Sendo assim, as emerg&ecirc;ncias dos grandes hospitais &ndash; Restaura&ccedil;&atilde;o, Get&uacute;lio Vargas e Ot&aacute;vio de Freitas - ficam com o atendimento comprometido. Atualmente, Recife &eacute; a &uacute;nica capital no Pa&iacute;s que n&atilde;o disp&otilde;e de um hospital municipal de refer&ecirc;ncia. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">No SAMU, as falhas s&atilde;o as mais variadas. Hoje ele funciona em uma &uacute;nica base, quando deveria ter pelo menos seis, para que o socorro fosse mais r&aacute;pido. A frota atual de 18 ambul&acirc;ncias n&atilde;o &eacute; suficiente. &Eacute; preciso aumentar o quantitativo, deixando seis exclusivas para atendimento dos casos mais graves (UTIs). Al&eacute;m disso, faltam macas, j&aacute; que muitas vezes s&atilde;o deixadas nos hospitais por falta de leitos. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A situa&ccedil;&atilde;o dos agentes comunit&aacute;rios tamb&eacute;m n&atilde;o &eacute; das melhores. Recentemente, a C&acirc;mara Federal aprovou a regulamenta&ccedil;&atilde;o da profiss&atilde;o, atrav&eacute;s de um projeto de lei do deputado federal Maur&iacute;cio Rands (PT). Mas, at&eacute; agora, a Prefeitura n&atilde;o se posicionou. Tamb&eacute;m falta qualifica&ccedil;&atilde;o para os agentes. Ser&aacute; nosso compromisso corrigir essa situa&ccedil;&atilde;o da melhor maneira poss&iacute;vel. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Recife hoje cumpre o m&iacute;nimo repasse or&ccedil;ament&aacute;rio exigido por lei (15,2%) para a &aacute;rea. Esse total, n&atilde;o &eacute; empregado apenas com sa&uacute;de, mas tamb&eacute;m com despesas da Defesa Civil, o que diminui os investimentos na sa&uacute;de municipal. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&Eacute; preciso criar um modelo gerencial e verdadeiramente inovador, onde se tenha informa&ccedil;&otilde;es cadastradas sobre a situa&ccedil;&atilde;o de cada usu&aacute;rio da rede municipal de sa&uacute;de. Hoje, por exemplo, Recife tem cadastrado apenas 15% dos seus diab&eacute;ticos. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">De acordo com a OMS &ndash; Organiza&ccedil;&atilde;o Mundial de Sa&uacute;de - cada um d&oacute;lar investido em preven&ccedil;&atilde;o gera uma economia de cerca de cinco d&oacute;lares nas despesas com sa&uacute;de. Ou seja: est&aacute; mais do que claro que o grande rem&eacute;dio &eacute; a preven&ccedil;&atilde;o. Essa a&ccedil;&atilde;o, aliada a uma boa infra-estrutura (descentralizada e informatizada), profissionais qualificados e vontade pol&iacute;tica resultar&atilde;o em uma rede p&uacute;blica municipal eficiente. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>*Deputado federal e pr&eacute;-candidato do PMDB &agrave; Prefeitura do Recife, escreve &agrave;s sextas para o Blog, dentro da s&eacute;rie &quot;Recife 2008. Debate com os prefeitur&aacute;veis&quot;.</em></font></p> </p>
+{% endraw %}

@@ -1,0 +1,37 @@
+---
+id: 12381006
+date: "2007-08-10T11:53:00Z"
+last_modified_at: null
+tags:
+  - "lula"
+  - "psol"
+categories:
+  - "noticias"
+title: "Funda\u00e7\u00f5es: Covardemente, Lula quer privatizar sa\u00fade p\u00fablica, acusa PSOL"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p></p>
+<p><p>&nbsp;</p></p>
+<p></p></p>
+<p><p>&nbsp;</p></p>
+<p><p><font face=\"Verdana\">Por <strong>Ed&iacute;lson Silva</strong></font></p></p>
+<p><p><font face=\"Verdana\">Tramita no Congresso Nacional um Projeto de Lei Complementar, articulado pelo governo Lula, que pretende criar Funda&ccedil;&otilde;es para administrar hospitais p&uacute;blicos. O objetivo do governo, nas palavras do Ministro da Sa&uacute;de, Jos&eacute; Gomes Tempor&atilde;o, &eacute; tirar a &aacute;rea de sa&uacute;de da situa&ccedil;&atilde;o de fal&ecirc;ncia e, como sempre, melhorar o atendimento &agrave; popula&ccedil;&atilde;o. Nada mais falso.</font></p></p>
+<p><p><font face=\"Verdana\">Na pr&aacute;tica, estas Funda&ccedil;&otilde;es poder&atilde;o administrar hospitais p&uacute;blicos, captar recursos privados e contratar funcion&aacute;rios fora do regime estatut&aacute;rio, ou seja, sem estabilidade no emprego, via CLT.</font></p></p>
+<p><p><font face=\"Verdana\">Os riscos imediatos:a) os funcion&aacute;rios destas Funda&ccedil;&otilde;es tornarem-se moeda de troca por votos, como acontece no servi&ccedil;o p&uacute;blico de Olinda, onde os funcion&aacute;rios contratados via CLT (mais de 3,5 mil funcion&aacute;rios), est&atilde;o devidamente cadastrados e controlados pelo governo de plant&atilde;o, transformados em cabos eleitorais for&ccedil;ados; b) os hospitais podem passar a ter duas portas de entrada: uma para os que podem pagar um pouquinho e outra para os que s&atilde;o &quot;totalmente&quot; SUS; c) a combina&ccedil;&atilde;o gradual dos riscos &quot;a&quot; e &quot;b&quot; atacam ferozmente a estrutura do servi&ccedil;o p&uacute;blico, privatizando o espa&ccedil;o f&iacute;sico e os </font><font face=\"Verdana\">funcion&aacute;rios.</font></p></p>
+<p><p><font face=\"Verdana\">Portanto, esta medida do governo Lula &eacute; mais um passo no aprofundamento do neoliberalismo petista. Trata-se de uma tentativa descarada de avan&ccedil;ar no processo de privatiza&ccedil;&atilde;o da pouca sa&uacute;de p&uacute;blica que resta aos brasileiros.</font></p></p>
+<p><p><font face=\"Verdana\">O processo de sucateamento criminoso da sa&uacute;de, patrocinado por sucessivos governos e continuado com esmero por Lula e seu PT, &eacute; o combust&iacute;vel do crescimento quase inacredit&aacute;vel dos planos de sa&uacute;de privados no Brasil, assim como da rede privada de hospitais na &uacute;ltima d&eacute;cada. Recife &eacute; um dos exemplos do resultado desta pol&iacute;tica, com o crescimento do chamado &quot;p&oacute;lo </font><font face=\"Verdana\">m&eacute;dico&quot;.</font></p></p>
+<p><p><font face=\"Verdana\">S&oacute; se submete &agrave; rede p&uacute;blica de sa&uacute;de quem n&atilde;o tem as m&iacute;nimas condi&ccedil;&otilde;es de pagar um plano privado. Al&eacute;m disso, v&aacute;rios servi&ccedil;os simplesmente est&atilde;o &quot;quebrados&quot; na rede p&uacute;blica, abrindo o caminho para o credenciamento de servi&ccedil;os prestados pela rede privada, como um tom&oacute;grafo do Hospital das Cl&iacute;nicas da UFPE que passou pelo menos 2 anos parado por falta de </font><font face=\"Verdana\">manuten&ccedil;&atilde;o, direcionando pacientes para cl&iacute;nicas privadas. Uma forma &quot;sofisticada&quot; de privatiza&ccedil;&atilde;o misturada com corrup&ccedil;&atilde;o.</font></p></p>
+<p><p><font face=\"Verdana\">&Eacute; na esteira deste processo ao mesmo tempo silencioso e invis&iacute;vel aos olhos da maioria da popula&ccedil;&atilde;o, que surge a proposta de criar Funda&ccedil;&otilde;es. A privatiza&ccedil;&atilde;o em um setor como a sa&uacute;de n&atilde;o pode ser feita num leil&atilde;o, como fizeram com a Vale do Rio Doce e com a maioria do patrim&ocirc;nio do povo brasileiro. O processo na sa&uacute;de &eacute; gradual, perene, cruel e covarde. E o </font><font face=\"Verdana\">governo Lula adaptou-se como uma luva a ele.</font></p></p>
+<p><p><font face=\"Verdana\">Para al&eacute;m destes problemas, existem outros que permeiam esta quest&atilde;o. O Conselho Nacional de Sa&uacute;de, que representa, entre outros atores, a articula&ccedil;&atilde;o da sociedade civil na gest&atilde;o da sa&uacute;de p&uacute;blica no Brasil, est&aacute; contr&aacute;rio a esta medida. No entanto, o governo Lula passa por cima de todos e tenta impor a vontade dos empres&aacute;rios sobre os interesses da maioria da </font><font face=\"Verdana\">popula&ccedil;&atilde;o. Um problema de democracia elementar.</font></p></p>
+<p><p><font face=\"Verdana\">Outro fato que n&atilde;o podemos deixar de lembrar neste momento &eacute; a exist&ecirc;ncia da CPMF, que foi criada em 1992, com o nome de IPMF, para exatamente diminuir o caos na sa&uacute;de p&uacute;blica. A receita obtida com a CPMF em 2007 pode chegar a R$</font></p></p>
+<p><p><font face=\"Verdana\">35 bilh&otilde;es. Por&eacute;m, este dinheiro, nestes 15 anos, at&eacute; hoje n&atilde;o chegou &agrave; sa&uacute;de. Est&aacute; sendo utilizado em primeiro lugar para lustrar o sorriso dos agiotas oficiais, que s&oacute; em 2006 usurparam R$ 275 bilh&otilde;es dos cofres p&uacute;blicos. Em segundo lugar est&aacute; sendo utilizado para lubrificar as engrenagens da corrup&ccedil;&atilde;o que envergonha nosso pa&iacute;s.</font></p></p>
+<p><p><font face=\"Verdana\">O ministro Tempor&atilde;o, a exemplo de Lula, gostam de falar em democracia. Chegaram inclusive a cogitar plebiscito popular para definir se o Estado iria ou n&atilde;o descriminalizar o aborto. Nada mais hip&oacute;crita. Jogada de marketing para desviar o foco da hemorragia principal por qual passa a sa&uacute;de p&uacute;blica no pa&iacute;s.</font></p></p>
+<p><p><font face=\"Verdana\">Que tal um plebiscito para definir se os recursos da CPMF ser&atilde;o integralmente utilizados na sa&uacute;de ou n&atilde;o? Que tal um plebiscito para definir se o povo quer a privatiza&ccedil;&atilde;o da sa&uacute;de p&uacute;blica, via Funda&ccedil;&otilde;es? Chegaram a fazer um plebiscito para discutir o desarmamento, ent&atilde;o porque n&atilde;o o fazem para um tema t&atilde;o ou mais relevante e urgente? N&atilde;o o fazem e n&atilde;o o far&atilde;o por que a solu&ccedil;&atilde;o para o povo n&atilde;o &eacute; a solu&ccedil;&atilde;o para os magnatas da sa&uacute;de.</font></p></p>
+<p><p><font face=\"Verdana\">Neste quadro de terror, patrocinado hoje por Lula, pelo PT e seus partidos aliados, mais iniciado pelo PSDB e seu antigo sat&eacute;lite PFL, hoje DEM, cabe ao povo, &agrave; sociedade civil organizada, aos trabalhadores, setores m&eacute;dios e comprometidos com o bem-estar da maioria da popula&ccedil;&atilde;o, cair em campo e derrotar mais esta manobra rasteira do governo Lula. Os m&eacute;dicos de </font><font face=\"Verdana\">Pernambuco mostraram o caminho ao derrotar a mesquinhez neoliberal de Eduardo Campos. S&oacute; alcan&ccedil;a quem vai buscar.</font></p></p>
+<p><p><font face=\"Verdana\">PS: Edilson Silva &eacute; presidente do PSOL/PE, foi candidato ao governo do Estado em 2006 e escreve &aacute;s sextas para o Blog do Jamildo.</font></p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

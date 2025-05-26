@@ -1,0 +1,36 @@
+---
+id: 12394897
+date: "2008-11-04T15:50:00Z"
+last_modified_at: null
+tags:
+  - "galeria-virtual"
+  - "joao-d"
+  - "processos"
+categories:
+  - "noticias"
+title: "Jo\u00e3o Targino esclarece que juizado virtual resolve processos em tr\u00eas meses"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><br /></p>
+<p>Imo Sr.<br /></p>
+<p>Jamildo Melo.<br /></p>
+<p>Editor do Blog do Jamildo.</p></p>
+<p><p>Cumpre-me na condi&ccedil;&atilde;o de Coordenador dos Juizados Especiais do Estado de Pernambuco, tecer coment&aacute;rios, a t&iacute;tulo de esclarecimento, quanto &agrave; mat&eacute;ria veiculada no Blog, nesta data, intitulada - Juizado virtual j&aacute; marca audi&ecirc;ncia para mar&ccedil;o de 2009.</p></p>
+<p><p>Principiando, fa&ccedil;o o tal coment&aacute;rio por acreditar tratar-se o dito portal de not&iacute;cias de ambiente s&eacute;rio no qual h&aacute; espa&ccedil;o para respostas, estas muitas vezes esclarecedoras a tantos quantos fazem ju&iacute;zo de valor, quase sempre sem escutar a vers&atilde;o da parte em face da qual a not&iacute;cia &eacute; publicada.</p></p>
+<p><p>O estado de Pernambuco, tantas vezes vanguardista nos mais diversos empreendimentos, lamentavelmente, no quesito juizado virtual, tornou-se caudat&aacute;rio, ou seja, foi a ultima unidade da Federa&ccedil;&atilde;o a ver instalado o tal modelo. E este passo, bastante significativo no caminho da modernidade, diga-se, sem nenhum orgulho, deu-se na gest&atilde;o do signat&aacute;rio.</p></p>
+<p><p>Pelo que me consta n&atilde;o foi despendido 01 (um) s&oacute; centavo no quesito propaganda ou em qualquer outro que se possa observar, porquanto todos os equipamentos utilizados pela unidade judici&aacute;ria cujos processos est&atilde;o virtualizados - Boa Vista, foram doados pelo Conselho Nacional de Justi&ccedil;a - CNJ, que tamb&eacute;m arcou com o treinamento de ju&iacute;zes e servidores. Assim sendo, nenhum 01 (um) s&oacute; centavo de propaganda foi gasto, nem tamb&eacute;m de equipamentos ou treinamentos.</p></p>
+<p><p>&Eacute; a mais pura verdade o noticiado de que, &quot;o chamado juizado virtual est&aacute; designando audi&ecirc;ncias para (acreditem!) o final de mar&ccedil;o de 2009&quot;. No entanto, embora esteja a pauta de audi&ecirc;ncias para 4 (quatro) meses e alguns dias, imperioso que se diga, a fim de que n&atilde;o seja o blog do Jamildo divulgador de meias verdades que, a referida audi&ecirc;ncia &eacute; una, ou seja, concilia&ccedil;&atilde;o seguida de instru&ccedil;&atilde;o. Isto significa que, na data daquela audi&ecirc;ncia o processo ficar&aacute; devidamente instru&iacute;do - pronto para julgamento (acredite!).</p></p>
+<p><p>Em que pese &agrave; cr&iacute;tica, trago ao conhecimento de Vossa Senhoria para que divulgue esta verdade e saiba que o Juizado Virtual veio para trazer benef&iacute;cios, a saber: que, desde sua cria&ccedil;&atilde;o (02.06.08) o mesmo j&aacute; recebeu 2644 processos, numa m&eacute;dia de 530 feitos mensais - superior &agrave; distribui&ccedil;&atilde;o de todos os Juizados de Pernambuco. Mais ainda, que nesse tempo 516 processos j&aacute; foram arquivados, o que significa dizer - resolvidos. E mais, pode acreditar! Que o tempo m&eacute;dio de tramita&ccedil;&atilde;o de um processo naquela Unidade Judici&aacute;ria &eacute; de 78 dias. A&iacute; est&aacute; uma mostra, sem nenhuma fabrica&ccedil;&atilde;o de dados, a que veio o Juizado!</p></p>
+<p><p>O Juizado Virtual, ora criticado, pelos n&uacute;meros acima mencionados, expressa um sentimento de aceita&ccedil;&atilde;o perante a comunidade jur&iacute;dica - advogados, tanto &eacute; verdade que, quase 900 caus&iacute;dicos j&aacute; se cadastraram, encontrando-se aptos a peticionarem dos seus pr&oacute;prios escrit&oacute;rios. Somente a t&iacute;tulo de ilustra&ccedil;&atilde;o, informo &agrave; Vossa Senhoria que, entre os dias 25 a 27 de outubro (de um s&aacute;bado a uma segunda-feira), portanto, sem que houvesse expediente forense, foram ajuizadas mais de 15 a&ccedil;&otilde;es por advogados do conforto dos seus lares ou mesmo de seus escrit&oacute;rios.</p></p>
+<p><p>Outra informa&ccedil;&atilde;o imprescind&iacute;vel ao julgamento de Vossa Senhoria &eacute; a de que, quando o Juizado da Boa Vista trabalhava t&atilde;o somente com processos f&iacute;sicos, o tempo m&eacute;dio de tramita&ccedil;&atilde;o entre os anos de 2006 e 2007, foi de 307 dias. Veja que diferen&ccedil;a! Um processo demorava, em m&eacute;dia, 307 dias para ter a sua instru&ccedil;&atilde;o conclu&iacute;da, enquanto o outro - virtual, ora criticado, gasta t&atilde;o somente 78 dias para chegar ao ponto de receber uma senten&ccedil;a. Decida Vossa Senhoria o que lhe parece melhor&#63;</p></p>
+<p><p>O que fere de morte no meu entendimento, no pertinente ao tempo de dura&ccedil;&atilde;o de um processo nos demais Juizados Especiais &eacute; a dupla pauta de audi&ecirc;ncias, ou seja, concilia&ccedil;&atilde;o em uma data e instru&ccedil;&atilde;o em outra, que nunca &eacute; pr&oacute;xima. Explicando melhor: Em geral, no estado de Pernambuco, quando uma pessoa presta queixa, tem a audi&ecirc;ncia de concilia&ccedil;&atilde;o marcada, em m&eacute;dia, para 60 dias. Neste ato, havendo acordo, d&aacute;-se a homologa&ccedil;&atilde;o; Se n&atilde;o ocorrer a concilia&ccedil;&atilde;o &eacute; designada audi&ecirc;ncia de instru&ccedil;&atilde;o e julgamento que, dependendo do juizado pode ser para 03, 06, 09 meses, ou mesmo para 1 ou at&eacute; 2 anos.</p></p>
+<p><p>Portanto, creio que, se Vossa Senhoria soubesse da realidade do Juizado Virtual de realizar audi&ecirc;ncia una, por certo, teria intitulado sua mat&eacute;ria de &quot;Juizado virtual resolve processos em aproximadamente 3 (tr&ecirc;s) meses&quot; e, ao confrontar &agrave;quela situa&ccedil;&atilde;o com a dos outros Juizados citados, com audi&ecirc;ncias de instru&ccedil;&atilde;o e julgamento em Olinda: 2010/2011; Candeias: fevereiro de 2010; Pina: mar&ccedil;o de 2010; Camaragibe: 2010 e; Paulista: julho de 2010, teria conclu&iacute;do, sem sombra de d&uacute;vidas que -A credibilidade pela celeridade est&aacute; otimizando os trabalhos do Juizado Virtual. Outra, portanto, seria a conota&ccedil;&atilde;o dada &agrave; mat&eacute;ria divulgada. Veja como importante &eacute; um esclarecimento!</p></p>
+<p><p>Por fim, ressalto que, justi&ccedil;a tardia n&atilde;o &eacute; um mal que assola t&atilde;o somente os juizados especiais de Pernambuco, mas, sim, como bem sabe V. Sra. todas as esferas e inst&acirc;ncias do Judici&aacute;rio brasileiro. A virtualiza&ccedil;&atilde;o do Juizado da Boa Vista, assim como a introdu&ccedil;&atilde;o das audi&ecirc;ncias una nas demais unidades, s&atilde;o ingredientes que, n&atilde;o tenho d&uacute;vidas, muito contribuir&atilde;o para o aperfei&ccedil;oamento do sistema dos Juizados e, conseq&uuml;entemente para a redu&ccedil;&atilde;o do tempo m&eacute;dio de tramita&ccedil;&atilde;o do processo.</p></p>
+<p><p>Cordialmente,<br /></p>
+<p>Jo&atilde;o Jos&eacute; Rocha Targino. Coordenador dos Juizados.<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

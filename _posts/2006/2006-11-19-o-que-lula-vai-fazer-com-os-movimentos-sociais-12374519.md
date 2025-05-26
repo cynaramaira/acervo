@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do<STRONG> Painel</STRONG> da F. São Paulo</FONT> </p>
 <p><P><FONT face=Verdana><B>Embrulho </B></FONT></P></p>
 <p><P><FONT face=Verdana>O PT encontrou um discurso para justificar a resistência em abrir mão de parte significativa dos cargos que ocupa na máquina federal em benef?cio de aliados, notadamente o PMDB. Trata-se da tese da \"governabilidade social\", vocalizada na reunião com Lula e ouvida aqui e ali de integrantes do partido. </FONT></P></p>
@@ -21,4 +21,4 @@ imagem: null
 <p><P><FONT face=Verdana><B>Abre-alas.</B> O evento inaugural dos movimentos sociais para exigir de Lula uma \"guinada à esquerda\" no segundo mandato acontecerá no dia 4 de dezembro na capital</p>
 <p> paulista, com João Pedro Stédile, do MST, puxando o refrão \"fora Meirelles\". Este, no entanto, deve continuar à frente do Banco Central. </FONT></P></p>
 <p><P><FONT face=Verdana><B>Reprise.</B> Um aliado que teve assento privilegiado na montagem do primeiro governo observa que Lula está, novamente, \"tentando comer o PMDB pelas bordas\", método fadado ao fracasso porque, no final, obrigará o presidente a pagar por uma mercadoria que já chegará vencida.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

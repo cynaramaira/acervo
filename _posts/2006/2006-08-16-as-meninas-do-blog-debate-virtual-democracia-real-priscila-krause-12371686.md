@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Priscila Krause*</STRONG><BR>Vereadora do Recife</FONT></P></p>
 <p><P><FONT face=Verdana>A Internet abre um espaço concreto de participação pol?tica ao cidadão. No meio virtual, a informação reina democrática e em tempo real. Isto significa maior poder</p>
 <p> para a cidadania, exercida cada vez mais sobre os pressupostos da transparência e da responsabilidade.</FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Com a busca pelos votos em cena, de um lado, e o desgaste da classe pol?tica brasileira em decorrência de seguidos casos de corrupção noticiados pela imprensa, de outro, acredito que o Blog do JC será de imensa valia para o cidadão.</FONT></P></p>
 <p><P><FONT face=Verdana>È com este pensamento e esta disposição que irei pautar a minha colaboração, no acompanhamento do processo eleitoral, na defesa do ideário liberal e no posicionamento sobre a conjuntura nacional e estadual – com a certeza de que o debate, no clima da campanha, será norteado pelos valores da tolerância e do pluralismo intr?nsecos à democracia.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>*Priscila Krause</STRONG>, 26, é vereadora do Recife pelo PFL, em primeiro mandato,&nbsp;estudante de jornalismo e filha do ex-ministro e ex-governador de Pernambuco Gustavo Krause.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

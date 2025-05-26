@@ -1,0 +1,25 @@
+---
+id: 12388404
+date: "2008-04-29T17:11:00Z"
+last_modified_at: null
+tags:
+  - "bahia"
+  - "eventos"
+categories:
+  - "noticias"
+title: "MP da Bahia alegou que evento decreta anarquia no pa\u00eds"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>&nbsp;</p></p>
+<p><p><font face=\"Verdana\">Com o objetivo de defender a ordem jur&iacute;dica e os interesses sociais, protegendo a sa&uacute;de p&uacute;blica e evitando graves transtornos aos princ&iacute;pios &eacute;ticos e morais da sociedade baiana, o Minist&eacute;rio P&uacute;blico estadual ajuizou hoje, dia 28, na 2&ordf; Vara de T&oacute;xico e Entorpecentes, em uma A&ccedil;&atilde;o Cautelar Inominada com Pedido de Liminar, requerendo a suspens&atilde;o da &lsquo;marcha da maconha&rsquo;, programada para acontecer em 4 de maio pr&oacute;ximo, &agrave;s 14 horas, na Pra&ccedil;a do Campo Grande</font>&nbsp;</p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">O coordenador do Grupo de Atua&ccedil;&atilde;o Especial de Combate &agrave;s Organiza&ccedil;&otilde;es Criminosas e de Investiga&ccedil;&otilde;es Criminais do MP (Gaeco), promotor de Justi&ccedil;a Paulo Gomes J&uacute;nior, esclarece que tomou conhecimento da exist&ecirc;ncia do site </font><a href=\"https://www.marchadamaconha.org/\"><u><font color=\"#0000ff\"><font face=\"Verdana\">https://www.marchadamaconha.org</font></font></u></a><font face=\"Verdana\"> - atrav&eacute;s do qual est&atilde;o sendo veiculadas not&iacute;cias tentando convencer e incrementar a legalidade da droga, bem como informar sobre a realiza&ccedil;&atilde;o da marcha em v&aacute;rias outras localidades do pa&iacute;s, no mesmo dia e hor&aacute;rio programados para Salvador -, instaurando logo em seguida procedimento investigat&oacute;rio criminal.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">O procedimento investigat&oacute;rio, explica o promotor de Justi&ccedil;a, visa a apura&ccedil;&atilde;o de crime previsto na Lei 11.343/06, que preconiza que &quot;induzir, instigar ou auxiliar algu&eacute;m ao uso indevido de droga acarreta pena de deten&ccedil;&atilde;o de um a tr&ecirc;s anos, e multa de cem a trezentos dias-multa, al&eacute;m de outras infra&ccedil;&otilde;es que porventura sejam elucidadas no decorrer das investiga&ccedil;&otilde;es, a exemplo de forma&ccedil;&atilde;o de quadrilha e tr&aacute;fico de drogas&quot;. </font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">O representante do MP salienta que &quot;n&atilde;o se quer aqui cogitar proibi&ccedil;&atilde;o &agrave; liberdade de express&atilde;o, vez que vivemos em um Estado Democr&aacute;tico de Direito, no entanto, imaginar que se possa induzir e instigar crime contra a sa&uacute;de p&uacute;blica como forma de liberdade de express&atilde;o significa decretar a anarquia no pa&iacute;s e usurpar a ordem jur&iacute;dica e os interesses socias da na&ccedil;&atilde;o&quot;. Paulo Gomes sugere que, &quot;se querem discutir a legalidade da maconha, que tal discuss&atilde;o ocorra nas universidades, nas depend&ecirc;ncias das casas legislativas, n&atilde;o em pra&ccedil;a p&uacute;blica, ao sabor dos &lsquo;morr&otilde;es&rsquo; acesos, numa atitude il&iacute;cita em que envergonha os nossos antepassados e nossos filhos&quot;.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Informando que inexiste registro de dom&iacute;nios para a internet no Brasil do <em>site</em> da &lsquo;marcha da maconha&quot;, Paulo Gomes acredita tratar-se de <em>site</em> clandestino, que pode estar acobertando a pr&aacute;tica de infra&ccedil;&otilde;es penais, &quot;j&aacute; que qualquer cidad&atilde;o do planeta ter&aacute; acesso a p&aacute;ginas que induzem o ser humano ao uso indevido de droga&quot;. O coordenador do Gaeco ressalta que os autores do <em>site</em> criminoso se escondem atr&aacute;s da tecnologia avan&ccedil;ada, que impede, de imediato, saber quem s&atilde;o e o que realmente querem, &quot;da&iacute; a exist&ecirc;ncia de fortes ind&iacute;cios de crimes, talvez patrocinados por traficantes de drogas, pois a eles interessa auferir lucro f&aacute;cil &agrave; merc&ecirc; da mis&eacute;ria e da debilidade da sa&uacute;de do povo brasileiro&quot;.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Caso seja concedida a liminar, &quot;o que se espera e confia haja vista a urg&ecirc;ncia que o caso requer&quot;, Paulo Gomes pede que seja dado conhecimento ao Comando Geral da Pol&iacute;cia Militar e &agrave; Prefeitura Municipal, por interm&eacute;dio da Secretaria Municipal de Servi&ccedil;os P&uacute;blicos (Sesp) e Superintend&ecirc;ncia de Engenharia de Tr&aacute;fego (SET), para que adotem as medidas legais cab&iacute;veis, al&eacute;m de encaminhamento ao Departamento de T&oacute;xicos e Entorpecentes (DTE), com requisi&atilde;o de instaura&ccedil;&atilde;o de inqu&eacute;rito policial.</font>&nbsp;</p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

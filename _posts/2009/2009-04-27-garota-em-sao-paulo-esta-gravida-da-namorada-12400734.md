@@ -1,0 +1,29 @@
+---
+id: 12400734
+date: "2009-04-27T22:06:00Z"
+last_modified_at: null
+tags:
+  - "esta"
+  - "garota-vip"
+  - "gravida"
+  - "sao-paulo"
+categories:
+  - "noticias"
+title: "Garota em S\u00e3o Paulo est\u00e1 gr\u00e1vida da namorada"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Na &Eacute;poca</p></p>
+<p><p>Munira Khalil El Ourra n&atilde;o vai dar &agrave; luz, mas &eacute; m&atilde;e de duas crian&ccedil;as que v&atilde;o nascer at&eacute; a primeira semana de maio. Quem est&aacute; na 31&ordf; semana de gesta&ccedil;&atilde;o &eacute; sua companheira, Adriana Tito Maciel. A barriga &eacute; de Adriana. Os &oacute;vulos fecundados que grudaram no &uacute;tero dela pertenciam a Munira. Os beb&ecirc;s j&aacute; t&ecirc;m nome: Eduardo e Ana Lu&iacute;sa. Ser&atilde;o paridos e amamentados por Adriana, de pele marrom e cabelo que nasce crespo. Mas ter&atilde;o a cara de Munira, branquinha e de cabelo liso.</p></p>
+<p><p>Para a lei, m&atilde;e biol&oacute;gica &eacute; quem carrega a crian&ccedil;a no ventre. Mas um exame de DNA mostraria o contr&aacute;rio. Nem Adriana nem Munira pretendem disputar na Justi&ccedil;a a guarda das crian&ccedil;as. O que elas querem &eacute; sair da maternidade juntas, com um documento que permita registrar as crian&ccedil;as no cart&oacute;rio com o sobrenome de cada uma e o nome das duas m&atilde;es na certid&atilde;o de nascimento. Como qualquer fam&iacute;lia normal.</p></p>
+<p><p>O sonho de ter filhos era antigo para as mo&ccedil;as de 20 e poucos anos que se conheceram em Carapicu&iacute;ba, na regi&atilde;o metropolitana de S&atilde;o Paulo. A decis&atilde;o de namorar s&eacute;rio foi influenciada por esse interesse em comum. Em poucos meses, estavam dividindo um apartamento e fazendo planos. Algum tempo depois, Adriana descobriu no ginecologista que seu &uacute;tero estava amea&ccedil;ado por uma doen&ccedil;a que j&aacute; lhe tinha arrancado um ov&aacute;rio: a endometriose. &ldquo;Fiz tratamento desde os 18 anos&rdquo;, diz Adriana. &ldquo;Na &eacute;poca, achavam que era c&oacute;lica menstrual e medicavam com morfina. Quando descobriram, j&aacute; tinha perdido o ov&aacute;rio direito. E as dores continuavam.&rdquo; O m&eacute;dico disse a ela que uma gravidez reduziria o problema em 80% e ainda lhe daria a chance de ter um filho antes que o &uacute;tero ficasse inv&aacute;lido.</p></p>
+<p><p>Apesar do relacionamento ainda recente, Munira e Adriana aceitaram a ideia e procuraram um especialista em reprodu&ccedil;&atilde;o humana no Hospital Santa Joana para fazer a insemina&ccedil;&atilde;o artificial. &ldquo;A gente achava que iria comprar esperma, levar para casa e aplicar com uma seringa&rdquo;, diz Munira. Os planos mudaram quando o novo m&eacute;dico descobriu que Adriana s&oacute; tinha metade do ov&aacute;rio esquerdo e j&aacute; n&atilde;o podia engravidar com os pr&oacute;prios &oacute;vulos. Ele sugeriu que Munira cedesse os seus. Se usassem o s&ecirc;men de um homem de mesmos tra&ccedil;os que Adriana, o filho seria parecido com as duas m&atilde;es.</p></p>
+<p><p>As duas mo&ccedil;as se animaram com a possibilidade de ter um filho que tivesse um pouco de cada uma. Ainda hoje, Adriana se emociona ao contar essa parte da hist&oacute;ria. Tinha sido muito dolorido receber a not&iacute;cia de que n&atilde;o poderia ter filhos do seu pr&oacute;prio sangue, e o gesto de Munira foi mais que bem-vindo. &ldquo;Foi a maior prova de amor que ela poderia me dar.&rdquo;</p></p>
+<p><p>Decis&atilde;o tomada, era preciso fazer alguns exames e come&ccedil;ar o tratamento hormonal para estimular os ov&aacute;rios de Munira e sincronizar os ciclos menstruais das duas. Os &oacute;vulos de Munira deveriam estar prontos para a insemina&ccedil;&atilde;o artificial (em laborat&oacute;rio) na mesma &eacute;poca em que o &uacute;tero de Adriana estivesse pronto para fixar os embri&otilde;es. Munira se queixava dos percal&ccedil;os do tratamento. De abril a agosto do ano passado, as inje&ccedil;&otilde;es di&aacute;rias na barriga, a oscila&ccedil;&atilde;o de humor que parecia uma TPM constante, a ultrassonografia vaginal toda semana, o ac&uacute;mulo de l&iacute;quido no corpo e o ganho de peso eram o pre&ccedil;o que ela tinha de pagar pela b&ecirc;n&ccedil;&atilde;o de ser m&atilde;e. Em breve, seria a vez de Adriana suportar a gravidez.</p></p>
+<p><p>Quando essa fase chegou, Munira diz ter sentido em seu corpo muitos dos sintomas da gravidez da companheira. &ldquo;Parecia que eu tinha ficado gr&aacute;vida tamb&eacute;m.&rdquo; Ela diz ter sentido enjoos, estrias que nunca haviam existido, mau humor, dores nas costas, dor nas pernas, cansa&ccedil;o de dia, ins&ocirc;nia de noite e at&eacute; desejos estranhos. Fernando Prado, o ginecologista das duas, diz n&atilde;o ter explica&ccedil;&atilde;o para essa sintonia. Ele n&atilde;o descarta que Munira possa at&eacute; mesmo ter leite quando os beb&ecirc;s nascerem.</p></p>
+<p><p>Dos exames &agrave; gravidez, todo o processo funcionou at&eacute; melhor que o esperado. &ldquo;Eu n&atilde;o imaginava que daria certo de primeira&rdquo;, diz Prado. Segundo ele, a chance de uma insemina&ccedil;&atilde;o desse tipo vingar &eacute; de 50%, levando em considera&ccedil;&atilde;o a idade das pacientes e outras condi&ccedil;&otilde;es de sa&uacute;de. Como Adriana ainda tinha miomas no &uacute;tero por causa da endometriose, imaginou que seria preciso retir&aacute;-los antes. Mas eles nem fizeram c&oacute;cegas. Para ajudar, em vez dos dez a 15 &oacute;vulos esperados ap&oacute;s o tratamento hormonal, Munira rendeu mais de 20. <br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold\">“A ética por tudo o que esse Governo Lula representa e o futuro porque é Alckmin quem vai governar e não FHC???, explica o deputado federal Raul Jungmann (PPS-PE). <?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold\"><o:p>&nbsp;</o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold\">Ele integrou a equipe que “treinou??? o presidenciável Geraldo Alckmin para o debate promovido pela TV Bandeirantes, hoje, das </SPAN><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\">20h30 até às 22h40.<o:p></o:p></SPAN></P></p>
@@ -42,4 +42,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><B><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"><o:p>&nbsp;</o:p></SPAN></B></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><B><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Qual foi seu papel no treinamento do presidenciável Geraldo Alckmin (PSDB) para o debate de hoje?</SPAN></B><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold\"><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold\">A mim coube falar sobre a área da reforma agrária, por eu já ter sido ministro (do Governo FHC), e também sobre a área da segurança pública, que é o setor que tenho me dedicado bastante enquanto parlamentar. Posso garantir que ele está muito bem preparado nesses dois pontos. O </SPAN><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">Paulo Renato de Souza (ex-ministro da Educação) e o Eliseu Padilha (Transportes) também participaram, contribuindo em suas respectivas áreas.&nbsp;</SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

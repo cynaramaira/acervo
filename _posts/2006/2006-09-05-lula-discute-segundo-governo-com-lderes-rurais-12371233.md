@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O presidente e candidato à reeleição vai chegar atrasado a Caruaru, informa Cec?lia Ramos, repórter do <STRONG>Blog</STRONG>. </FONT></P></p>
 <p><P><FONT face=Verdana>Ele saiu pouco depois das 15h de Bras?lia e deve desembarcar por volta das 18h no Aeroporto Oscar Laranjeira.</FONT></P></p>
 <p><P><FONT face=Verdana>Lula vem de novo a Pernambuco para fortalecer as relações do governo dele com os trabalhadores rurais. </FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>A vinda de Lula também não tem relação direta com as campanhas ao governo de Pernambuco de seus dois aliados no Estado – Humberto Costa (PT) e Eduardo Campos (PSB).</FONT></P></p>
 <p><P><FONT face=Verdana>O com?cio em Caruaru poderá ajudá-los, mas isso não é prioridade para Lula, que prefere manter-se distante da disputa estadual.</FONT></P></p>
 <p><P><FONT face=Verdana>Além de conversar com dirigentes da Fetape e Contag, Lula terá um encontro com o bispo de Caruaru, <FONT face=Arial><FONT face=Verdana>Dom Bernardino Marchió. A igreja é outro setor fundamental para a governabilidade em uma segunda administração petista.</FONT></P></FONT></FONT> </p>
-{\% endraw %}
+{% endraw %}

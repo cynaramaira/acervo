@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>“Veja a?, João Paulo foi pro guia de Mendoncinha e não foi pro de Humberto???.</FONT></P></p>
 <p><P><FONT face=Verdana>A frase, de um cidadão comum, ouvida ontem à noite e analisada em profundidade por marqueteiros até o in?cio da madrugada, dá bem a dimensão dos preju?zos que o guia eleitoral de Mendonça Filho (PFL) pode causar à candidatura de Humberto Costa (PT) ao governo de Pernambuco.</FONT></P></p>
 <p><P><FONT face=Verdana>Mendonça utilizou no programa imagens do prefeito do Recife, João Paulo (PT), coordenador geral da campanha de Humberto.</FONT></P></p>
@@ -43,4 +43,4 @@ imagem: null
 <p><P><FONT face=Verdana>É a senha para o que vem por a?: artilharia pesada contra Eduardo, que, este sim, será associado ao caos, apontado como responsável pelo que houve de ruim, visto que assumiu postos-chave no governo Arraes (foi secretário de Governo e da Fazenda).</FONT></P></p>
 <p><P><FONT face=Verdana>Humberto e Eduardo vão precisar fazer profundas mudanças de estratégia.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/16/index.php\">aqui</A></EM></STRONG> sobre o assunto.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

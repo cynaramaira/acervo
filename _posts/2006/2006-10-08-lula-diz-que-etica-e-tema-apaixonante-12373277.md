@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-FAMILY: Verdana\">O presidente Lula (PT) disse que achará “ótimo??? discutir sobre ética no confronto desta noite. </SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-FAMILY: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-FAMILY: Verdana\"></SPAN><SPAN style=\"FONT-FAMILY: Verdana\">\\\Não há tema mais apaixonante que essa questão. Acho</p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-FAMILY: Verdana\"><FONT size=3></FONT></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-FAMILY: Verdana\"><FONT size=3><FONT size=2>As declarações de Lula foram dadas agora há pouco,&nbsp; no saguão do hotel na Zona Sul de São Paulo, onde ele&nbsp;está hospedado desde às 13h de hoje. As informações são do portal G1.</FONT></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-FAMILY: Verdana\"><FONT size=3></FONT></SPAN>&nbsp;</P> </p>
-{\% endraw %}
+{% endraw %}

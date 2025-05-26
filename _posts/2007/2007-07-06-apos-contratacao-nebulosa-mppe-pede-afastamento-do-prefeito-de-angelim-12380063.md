@@ -1,0 +1,24 @@
+---
+id: 12380063
+date: "2007-07-06T18:13:00Z"
+last_modified_at: null
+tags:
+  - "aposentadoria"
+  - "improbidade-administrativa"
+  - "mppe"
+  - "prefeito"
+categories:
+  - "noticias"
+title: "Ap\u00f3s contrata\u00e7\u00e3o nebulosa, MPPE pede afastamento do prefeito de Angelim por improbidade "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>O Minist&eacute;rio P&uacute;blico de Pernambuco (MPPE) ingressou na manh&atilde; desta sexta-feira (6) com uma a&ccedil;&atilde;o civil contra o prefeito de Angelim, a comiss&atilde;o permanente de licita&ccedil;&atilde;o da Prefeitura e o escrit&oacute;rio de advocacia Jonas Moura Advogados. O Promotor de Justi&ccedil;a Romualdo Siqueira Fran&ccedil;a solicitou o afastamento do prefeito Samuel Salgado Cavalcanti de Albuquerque e de todos os membros da comiss&atilde;o por improbidade administrativa. O Promotor pediu ainda a indisponibilidade dos bens de todos os r&eacute;us.</p></p>
+<p><p>A a&ccedil;&atilde;o movida pelo MPPE &eacute; o resultado da investiga&ccedil;&atilde;o da Promotoria de Angelim acerca de um contrato firmado entre o munic&iacute;pio e o escrit&oacute;rio Jonas Moura Advogados. O inqu&eacute;rito civil apontou absoluta ilegalidade na contrata&ccedil;&atilde;o do escrit&oacute;rio, em setembro de 2006, al&eacute;m da montagem criminosa do processo licitat&oacute;rio. Na &eacute;poca em que os servi&ccedil;os foram contratados n&atilde;o foi realizado qualquer processo de licita&ccedil;&atilde;o, o qual &eacute; exigido legalmente. Tal processo s&oacute; foi deflagrado em janeiro deste ano sob a modalidade de inexigibilidade, apesar da manifesta&ccedil;&atilde;o contr&aacute;ria da Procuradoria do Munic&iacute;pio &agrave; contrata&ccedil;&atilde;o dos servi&ccedil;os nestes moldes.</p></p>
+<p><p>&ldquo;Na verdade, o processo licitat&oacute;rio serviu para contratar uma empresa que na pr&aacute;tica j&aacute; estava contratada&rdquo;, explicou o Promotor Romualdo Siqueira. &ldquo;A montagem do processo de inexigibilidade se deu de forma criminosa e foi t&atilde;o grosseiro que se chegou ao ponto de lan&ccedil;ar um parecer jur&iacute;dico como se fosse lavrado pelo Procurador do Munic&iacute;pio, o qual dignamente se recusou a subscrev&ecirc;-lo&rdquo;, ressaltou. A empresa de advocacia foi contratada para ingressar na Justi&ccedil;a objetivando um incremento no valor do Fundo de Participa&ccedil;&atilde;o dos Munic&iacute;pios, diante do ajustamento do coeficiente populacional de Angelim. A remunera&ccedil;&atilde;o acordada pela presta&ccedil;&atilde;o dos servi&ccedil;os foi de R$ 480 mil, divididos em dez vezes.</p></p>
+<p><p>&ldquo;Al&eacute;m de tudo, o Munic&iacute;pio come&ccedil;ou a pagar as parcelas antes da decis&atilde;o final da Justi&ccedil;a, com tr&acirc;nsito em julgado, em desacordo com o que determina o Tribunal de Contas&rdquo;, declarou Romualdo. A Prefeitura iniciou o pagamento dos honor&aacute;rios com base apenas numa decis&atilde;o liminar pass&iacute;vel de recurso. A a&ccedil;&atilde;o proposta pelo Munic&iacute;pio j&aacute; foi, inclusive, julgada improcedente pelo Ju&iacute;zo 23&ordf; Vara Federal, com sede em Garanhuns. &ldquo;H&aacute; de se imaginar o preju&iacute;zo que pode advir aos cofres p&uacute;blicos se por acaso n&atilde;o forem estancados os pagamentos ao escrit&oacute;rio de advocacia&rdquo;, frisou o Promotor. &ldquo;Tudo foi feito com o prop&oacute;sito de desviar os recursos &ndash; j&aacute; pouqu&iacute;ssimos &ndash; do Munic&iacute;pio de Angelim, com a dolosa participa&ccedil;&atilde;o do prefeito e dos membros da Comiss&atilde;o Permanente de Licita&ccedil;&atilde;o, todos devidamente advertidos pelo Procurador Jur&iacute;dico do Munic&iacute;pio acerca da ilegalidade da contrata&ccedil;&atilde;o&rdquo;, concluiu.</p></p>
+<p><p>Diante do desvio de dinheiro e do preju&iacute;zo causado ao er&aacute;rio, o Promotor solicitou a indisponibilidade dos bens dos r&eacute;us. Na a&ccedil;&atilde;o, Siqueira considera que n&atilde;o h&aacute; como conduzir a prova dos autos com os r&eacute;us ocupando os cargos p&uacute;blicos. A improbidade administrativa se configura aos membros da comiss&atilde;o &ndash; Carlos Luciano de Couto Silva, Izabete do Nascimento Ramos e Amaro Teixeira das Neves J&uacute;nior &ndash;, no sentido de terem desencadeado, examinado e aprovado os atos da licita&ccedil;&atilde;o e contrata&ccedil;&atilde;o irregular. O escrit&oacute;rio Jonas Moura Advogados, por sua vez, &eacute; apontado como r&eacute;u por ter se beneficiado de forma direta da improbidade ent&atilde;o praticada com o ato de inexigibilidade.</p> </p>
+{% endraw %}

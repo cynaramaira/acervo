@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></p>
 <p><P><FONT face=Verdana>Às 10h</FONT></B><FONT face=Verdana>, visita o comércio de Paratibe, acompanhado do ex-governador e candidato ao Senado, jarbas Vasconcelos (PMDB). Concentração: Praça das Três Rodinhas, logo após o Sesi de Paratibe, na rua Lindolfo Collor (próximo ao Campo do Magueirão) </FONT></P><B></p>
@@ -34,4 +34,4 @@ imagem: null
 <p><P><FONT face=Verdana>Às 19h</FONT></B><FONT face=Verdana>, debate sobre pol?ticas de educação promovido pela UEP. Local: auditório da Faculdade Universo, na Imbiribeira&nbsp;</FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 21h</FONT></B><FONT face=Verdana>, concede entrevista ao programa de Ednaldo Santos. Local: Estúdio da Rádio Jornal, em Santo Amaro&nbsp;</FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 22h</FONT></B><FONT face=Verdana>, jantar de adesão à candidatura de Ana Arraes a deputada estadual. Local: Arcádia de Apipucos, em Boa Viagem&nbsp;</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

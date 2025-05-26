@@ -14,8 +14,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana size=2></p>
 <p><P>A queda do PIB nacional,&nbsp;a&nbsp;sucessão municipal de 2008 ou&nbsp;o&nbsp;secretáriado de Eduardo Campos?</P></p>
 <p><P>O presidente da CNI, deputado federal Armando Monteiro Neto,&nbsp;foi flagrado \"pescando\", durante&nbsp; reunião do PTB, hoje.</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

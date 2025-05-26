@@ -1,0 +1,33 @@
+---
+id: 12404740
+date: "2009-08-17T10:04:00Z"
+last_modified_at: null
+tags:
+  - "imoveis"
+  - "senado"
+  - "skate"
+  - "texto-base"
+categories:
+  - "noticias"
+title: "Na esb\u00f3rnia do Senado, at\u00e9 a base aliada quer explica\u00e7\u00f5es de Sarney sobre im\u00f3veis"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>No Estado de S&atilde;o Paulo</p></p>
+<p><p>Senadores de partidos de oposi&ccedil;&atilde;o e da pr&oacute;pria base governista querem investigar a conex&atilde;o da fam&iacute;lia do presidente do Senado, Jos&eacute; Sarney (PMDB-AP), com a construtora Holdenn Constru&ccedil;&otilde;es, Assessoria e Consultoria Ltda., cujo principal nicho de neg&oacute;cios &eacute; o setor el&eacute;trico, &aacute;rea em que o senador exerce influ&ecirc;ncia.</p></p>
+<p><p>Reportagem publicada ontem pelo Estado mostra que dois dos tr&ecirc;s apartamentos ocupados pela fam&iacute;lia na Alameda Franca, na regi&atilde;o dos Jardins, em S&atilde;o Paulo, est&atilde;o em nome da empresa, antes batizada de Aracati Constru&ccedil;&otilde;es, Assessoria e Consultoria Ltda.</p></p>
+<p><p>O presidente do PSDB, senador S&eacute;rgio Guerra (PE), afirma que seria &quot;simpl&oacute;rio&quot; atribuir a uma coincid&ecirc;ncia a liga&ccedil;&atilde;o da empreiteira com os im&oacute;veis. &quot;Tenho certeza que n&atilde;o &eacute; isso, mas n&atilde;o vou pr&eacute;-julgar&quot;, diz. &quot;O certo &eacute; que n&atilde;o deve pairar nenhuma d&uacute;vida sobre essa quest&atilde;o, sob pena de o processo de investiga&ccedil;&atilde;o se estender at&eacute; o setor el&eacute;trico.&quot; Para Guerra, os fatos em si &quot;s&atilde;o extremamente graves&quot;.</p></p>
+<p><p>O presidente da Comiss&atilde;o de Constitui&ccedil;&atilde;o e Justi&ccedil;a (CCJ), senador Dem&oacute;stenes Torres (DEM-GO), &eacute; categ&oacute;rico ao defender que as &quot;evid&ecirc;ncias&quot; de troca de favores s&atilde;o motivo de sobra para instaurar uma investiga&ccedil;&atilde;o. &quot;Est&atilde;o sobrando evid&ecirc;ncias, e n&atilde;o d&aacute; para desconhecer&quot;, alegou. &quot;Quantas den&uacute;ncias mais ele ag&uuml;enta&#63;&quot;, questionou. Pela avalia&ccedil;&atilde;o do senador de oposi&ccedil;&atilde;o, os fatos divulgados at&eacute; agora pela imprensa, como abuso de poder, nepotismo e a suspeita de corrup&ccedil;&atilde;o, fragilizaram n&atilde;o apenas o presidente do Senado, mas tamb&eacute;m a institui&ccedil;&atilde;o e os demais parlamentares.</p></p>
+<p><p>&quot;O Congresso n&atilde;o pode fechar os olhos ao que tem sa&iacute;do (na imprensa) relacionado ao presidente Sarney&quot;, defendeu. &quot;&Eacute; necess&aacute;rio que o Conselho de &Eacute;tica se manifeste, em vez de arquivar as den&uacute;ncias.&quot; Na opini&atilde;o dele, a situa&ccedil;&atilde;o chegou a tal ponto que at&eacute; mesmo os aliados do presidente do Senado deveriam &quot;come&ccedil;ar a se manifestar e a pensar no pr&oacute;prio Sarney&quot;. Para Torres, a situa&ccedil;&atilde;o &eacute; insustent&aacute;vel. &quot;Na medida em que as den&uacute;ncias avan&ccedil;am, suas v&iacute;sceras ficam expostas e ele se desgasta cada dia mais&quot;, afirma. &quot;Agora, n&atilde;o &eacute; mais um desgaste pessoal, &eacute; de todos no Senado e todos os senadores ficam afetados&quot;.</p></p>
+<p><p>O senador Walter Pereira (PMDB-MS), da base governista, disse esperar que Sarney d&ecirc; as explica&ccedil;&otilde;es sobre a compra ou o uso dos apartamentos em S&atilde;o Paulo. Segundo ele, em tese, Sarney pode estar recebendo favores. O senador lembrou que Sarney, como presidente do Senado, tem verba de representa&ccedil;&atilde;o para se hospedar em hot&eacute;is em S&atilde;o Paulo. &quot;Por que ele preferiu o apartamento&#63; Isso precisa ser esclarecido&quot;, disse o senador.</p></p>
+<p><p>A reportagem do Estado revelou que um dos apartamentos foi utilizado por Sarney, por exemplo, em junho passado, quando o presidente do Senado viajou a S&atilde;o Paulo para acompanhar a recupera&ccedil;&atilde;o da filha, Roseana, operada para corre&ccedil;&atilde;o de um aneurisma cerebral.</p></p>
+<p><p>&quot;Mesmo que n&atilde;o tenha a eiva de qualquer envolvimento pecaminoso e de qualquer troca de favores, tem de esclarecer. Se foi levantada a d&uacute;vida, ele (Sarney) precisa esclarecer. &Eacute; o &ocirc;nus de quem exerce o mandato popular. Vale para Sarney, para mim e para todos os que foram eleitos. Todo homem p&uacute;blico tem o dever de prestar contas no que envolve suas a&ccedil;&otilde;es&quot;, disse Pereira.</p></p>
+<p><p>O l&iacute;der do DEM, senador Jos&eacute; Agripino (RN), considerou que a liga&ccedil;&atilde;o de Sarney com a empreiteira no caso dos apartamentos agrava ainda mais a situa&ccedil;&atilde;o do presidente do Senado. Para Agripino, as quest&otilde;es que foram levantadas contra o presidente do Senado at&eacute; agora j&aacute; s&atilde;o suficientes para a instaura&ccedil;&atilde;o de processo por quebra de decoro parlamentar. &quot;&Eacute; uma sequ&ecirc;ncia inomin&aacute;vel de den&uacute;ncias grav&iacute;ssimas&quot;, disse. O l&iacute;der de oposi&ccedil;&atilde;o afirmou que a abertura de processo contra Sarney no Conselho de &Eacute;tica do Senado depende dos votos governistas. &quot;Vamos ver se ser&atilde;o sensibilizados pelos fatos ou pelos argumentos de Lula&quot;, disse.</p></p>
+<p><p>O senador Renato Casagrande (PSB-ES), que integra partido governista, afirma n&atilde;o ter d&uacute;vida que o &quot;grande equ&iacute;voco&quot; do Senado tem sido o de impedir as investiga&ccedil;&otilde;es de epis&oacute;dios relacionados ao presidente da Casa. Segundo ele, a estrat&eacute;gia da tropa de choque tem dado resultado oposto ao esperado.</p></p>
+<p><p>&quot;E a cada vez que se abre m&atilde;o da investiga&ccedil;&atilde;o, o presidente Sarney fica numa posi&ccedil;&atilde;o de fragilidade, porque n&atilde;o tem como argumentar sua inoc&ecirc;ncia&quot;, afirma. &quot;O ideal seria que essas suspeitas e essas d&uacute;vidas pudessem ser investigadas naturalmente.&quot; No entanto, considerou Casagrande, se n&atilde;o houver condi&ccedil;&otilde;es pol&iacute;ticas de o Senado prosseguir com as investiga&ccedil;&otilde;es, ele aguarda que o Minist&eacute;rio P&uacute;blico leve adiante a apura&ccedil;&atilde;o.</p></p>
+<p><p>&nbsp;</p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

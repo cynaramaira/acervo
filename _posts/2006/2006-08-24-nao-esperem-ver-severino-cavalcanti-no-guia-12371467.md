@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O ex-presidente da Câmara dos Deputados, principal nome do Partido Progressista em Pernambuco, não apareceu hoje nem vai aparecer qualquer dia no guia eleitoral.</FONT></P></p>
 <p><P><FONT face=Verdana>Há um acerto para que ele fique fora da propagada na TV e no rádio.</FONT></P></p>
 <p><P><FONT face=Verdana>Severino renunciou ao mandato e à presidência da Câmara 11 meses atrás. </FONT></P></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana>Ele espera ganhar a eleição nas ruas, com um time amplo de cabos eleitorais no interior – incluindo aqueles pagos por meio de cargos comissionados que ainda controla na Câmara.</FONT></P></p>
 <p><P><FONT face=Verdana>Severino, porém, fez uma exigência. </FONT></P></p>
 <p><P><FONT face=Verdana>Pediu que a filha, a deputada estadual Ana Cavalcanti, tivesse um tempo maior no guia. Ela precisa mais, visto que concentra sua campanha na Região Metropolitana do Recife.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

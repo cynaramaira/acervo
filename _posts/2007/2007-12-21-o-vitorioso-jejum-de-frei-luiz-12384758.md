@@ -1,0 +1,31 @@
+---
+id: 12384758
+date: "2007-12-21T16:00:00Z"
+last_modified_at: null
+tags:
+  - "luiz-fuz"
+  - "paulo-freire"
+categories:
+  - "noticias"
+title: "O vitorioso jejum de Frei Luiz"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Por <strong>Ed&iacute;lson Silva</strong></font></p></p>
+<p><p><font face=\"Verdana\">Frei Luiz, como &eacute; carinhosamente chamado pelos amigos o Bispo de Barra (BA), Dom Luiz Fl&aacute;vio Cappio, encerrou no dia de ontem, 20/12, seu jejum em defesa do Rio S&atilde;o Francisco. A decis&atilde;o do frei foi tomada ap&oacute;s s&eacute;rias complica&ccedil;&otilde;es em seu quadro de sa&uacute;de que o levaram a internamento na UTI do Hospital Memorial de Petrolina no dia 19/12. Frei Luiz atendeu apelos de seus familiares e amigos mais pr&oacute;ximos.</font></p></p>
+<p><p><font face=\"Verdana\">Nestes vinte e tr&ecirc;s dias de jejum de Frei Luiz, que do ponto de vista pol&iacute;tico era uma greve de fome, tive a honra e o privil&eacute;gio de acompanhar um pouco mais de perto sua luta e tamb&eacute;m conhecer um pouco do homem que colocou seu gesto e sua causa na pauta pol&iacute;tica do pa&iacute;s. Delegado pelo PSOL para acompanhar esta luta, aprendi a admir&aacute;-lo. Frei Luiz &eacute; um homem dedicado &agrave; vida e aos pobres. H&aacute; mais de 30 anos convive com o Rio S&atilde;o Francisco e as popula&ccedil;&otilde;es ribeirinhas.</font></p></p>
+<p><p><font face=\"Verdana\">Para aqueles que lhe conhecem e a sua luta, seu jejum foi quase um gesto natural e absolutamente compreens&iacute;vel. Para aqueles que n&atilde;o o conhecem e desconhecem sua luta, por ignor&acirc;ncia ou interesse pr&oacute;prio, talvez ele possa at&eacute; ser chamado de bispo suicida, ou algu&eacute;m capaz de devorar melancias nas madrugadas durante o jejum.</font></p></p>
+<p><p><font face=\"Verdana\">O jejum de Frei Luiz tinha como meta material a paralisa&ccedil;&atilde;o das obras da transposi&ccedil;&atilde;o. Contudo, o que ele sempre reivindicou do governo Lula foi o estabelecimento de um amplo debate com a sociedade sobre um verdadeiro projeto de conviv&ecirc;ncia com a seca para as popula&ccedil;&otilde;es do semi-&aacute;rido e tamb&eacute;m de revitaliza&ccedil;&atilde;o do Rio S&atilde;o Francisco.</font></p></p>
+<p><p><font face=\"Verdana\">Ent&atilde;o, o jejum de Frei Luiz foi vitorioso, pois sua luta garantiu por tr&ecirc;s semanas um debate nacional sobre a transposi&ccedil;&atilde;o, envolvendo v&aacute;rios segmentos da sociedade, v&aacute;rias personalidades, autoridades. A m&iacute;dia vendida, paga pelos an&uacute;ncios das grandes corpora&ccedil;&otilde;es capitalistas e dos governos, n&atilde;o p&ocirc;de ignorar o gesto de Frei Luiz.</font></p></p>
+<p><p><font face=\"Verdana\">&Eacute; ineg&aacute;vel que ap&oacute;s o jejum a luta em defesa do Rio S&atilde;o Francisco est&aacute; em outro patamar. O governo, para suportar o debate p&uacute;blico, teve que ampliar as mentiras em torno do seu projeto. Subiu num palanque &eacute; agiu como em campanha eleitoral, fazendo as costumeiras promessas.</font></p></p>
+<p><p><font face=\"Verdana\">A partir de agora, os setores envolvidos nesta luta est&atilde;o compromissados em manter as batalhas contra este projeto. V&aacute;rias a&ccedil;&otilde;es judiciais est&atilde;o em andamento. V&aacute;rias a&ccedil;&otilde;es pol&iacute;ticas, com base nas informa&ccedil;&otilde;es oficiais sobre projetos alternativos para o semi-&aacute;rido e para a revitaliza&ccedil;&atilde;o do Velho Chico est&atilde;o na pauta. A fiscaliza&ccedil;&atilde;o das obras, sobre as quais pesam suspeitas de que seria um grande esquema de arrecada&ccedil;&atilde;o de recursos, tamb&eacute;m est&aacute; na pauta.</font></p></p>
+<p><p><font face=\"Verdana\">Na missa que aconteceu em Sobradinho no dia 20/12, em que Frei Luiz informou sua decis&atilde;o de cessar o seu jejum, uma outra vit&oacute;ria foi destacada. O jejum mostrou para muita gente quem est&aacute; realmente do lado do povo e quem est&aacute; do outro lado, junto com os poderosos e com as elites. Um recado certeiro para Lula, seu governo e seu partido, o PT.</font></p></p>
+<p><p><font face=\"Verdana\">Mas o jejum de Frei Luiz nos deixou ainda mais saldos positivos. Seu gesto foi pedag&oacute;gico, em todos os sentidos. Em tempos de movimentos sociais vendidos ao governo e controlados pelos partidos da base do governo, como PT e PC do B, a atitude de Frei Luiz recoloca na ordem do dia a mobiliza&ccedil;&atilde;o popular como instrumento fundamental na luta pol&iacute;tica do nosso pa&iacute;s. A sociedade civil, os trabalhadores, os pobres, as classes m&eacute;dias, podem e devem organizar-se em defesa de suas demandas, pois o quadro da democracia representativa est&aacute; dominado por interesses estranhos aos da maioria da popula&ccedil;&atilde;o.</font></p></p>
+<p><p><font face=\"Verdana\">O ano de 2007 termina com este bom exemplo de amor &agrave; vida patrocinado por Frei Luiz. Seu gesto foi incompreendido por muitos, &eacute; verdade, pois escapa do individualismo, da concorr&ecirc;ncia predat&oacute;ria, da competi&ccedil;&atilde;o covarde, da falta de solidariedade, elementos t&atilde;o caros para o bom funcionamento do sistema que lamentavelmente ainda preside nossa sociedade.</font></p></p>
+<p><p><font face=\"Verdana\">Para n&atilde;o fugir do *script* de final de ano, desejamos, em nome do PSOL, muita sa&uacute;de para Frei Luiz no ano que se inicia daqui a alguns dias. Precisaremos de sua for&ccedil;a e autoridade moral e pol&iacute;tica para seguirmos ainda mais firmes na luta em defesa da dignidade do povo nordestino.</font></p></p>
+<p><p><font face=\"Verdana\">Para os leitores do blog, sobretudo &agrave;queles que nos acompanham, elogiando, criticando, nos mandando passagens para Cuba e Venezuela, sem volta, desejamos muita sa&uacute;de, paz, sabedoria e a busca honesta de uma s&iacute;ntese capaz de revelar o caminho para uma sociedade verdadeiramente justa e democr&aacute;tica, com socialismo e liberdade. </font></p></p>
+<p><p><font face=\"Verdana\">PS: Edilson Silva &eacute; presidente do PSOL/PE e escreve &agrave;s sextas para o Blog do Jamildo.</font></p> </p>
+{% endraw %}

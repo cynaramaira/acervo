@@ -1,0 +1,35 @@
+---
+id: 12382860
+date: "2007-10-07T09:22:00Z"
+last_modified_at: null
+tags:
+  - "jose-teles"
+categories:
+  - "noticias"
+title: "Eles s\u00f3 querem trabalhar"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\"><em>Por <strong>Giovanni Sandes</strong> e <strong>Renato Lima</strong> <br /></p>
+<p>Da editoria de Economia do JC <br /></p>
+<p></em><br /></p>
+<p>No Estaleiro Atl&acirc;ntico Sul, ser&atilde;o 5 mil empregos. Na Refinaria Abreu e Lima, surgir&atilde;o at&eacute; 20 mil vagas na constru&ccedil;&atilde;o e 1.500 na opera&ccedil;&atilde;o. Na planta petroqu&iacute;mica de Suape, 1.700 empregos s&atilde;o esperados para o pico da obra e 500 na opera&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Al&eacute;m das milhares de vagas a preencher, o que esses empreendimentos t&ecirc;m em comum &eacute; chegar praticamente ao mesmo tempo em uma mesma &aacute;rea do Estado, Suape, principal complexo portu&aacute;rio e industrial de Pernambuco. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">No v&aacute;cuo da forte gera&ccedil;&atilde;o de empregos, os megaprojetos trazem esperan&ccedil;a de trabalho formal e renda ao ex&eacute;rcito de 311 mil desempregados da Regi&atilde;o Metropolitana do Recife (RMR), c&aacute;lculo do Departamento Intersindical de Estat&iacute;stica e Estudos Socioecon&ocirc;micos (Dieese). </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Dos projetos que est&atilde;o chegando, o estaleiro ser&aacute; o que vai demandar mais trabalhadores. &Eacute; uma ind&uacute;stria intensiva em m&atilde;o-de-obra, que usa muitos soldadores. Mas Pernambuco n&atilde;o tem experi&ecirc;ncia no setor naval, o que for&ccedil;ou a empresa que implantar&aacute; o estaleiro a preparar meticulosamente um plano de qualifica&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&Eacute; justamente esse, dos grandes projetos, que ficar&aacute; pronto primeiro, e precisa, urgentemente, do planejamento de funcion&aacute;rios para cumprir o contrato de entrega de dez grandes navios petroleiros para a Petrobras, a partir de julho de 2010. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Ao surgirem as primeiras ofertas maci&ccedil;as de emprego, investidores e governo estadual descobriram que boa parte dos candidatos a um posto de trabalho tem reduzida qualifica&ccedil;&atilde;o profissional e precisa passar por cursos de capacita&ccedil;&atilde;o t&eacute;cnica. Mas isso s&oacute; n&atilde;o seria suficiente. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Governo e empresas tamb&eacute;m perceberam que, a despeito da escolaridade dos candidatos no papel, o dom&iacute;nio de conhecimentos era muito baixo. Eles precisam reaprender o b&aacute;sico: portugu&ecirc;s e matem&aacute;tica de 4&ordf; s&eacute;rie. Surgiu, ent&atilde;o, o projeto Refor&ccedil;o de Escolaridade, iniciado na semana passada com 5 mil alunos. Ser&atilde;o 50 dias de aulas. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A sele&ccedil;&atilde;o dos beneficiados pelo projeto foi por concurso p&uacute;blico, realizado no &uacute;ltimo dia 23. Foram 7.265 candidatos. O Jornal do Commercio acompanhou 60 dessas milhares de pessoas. Nas entrevistas, foi aplicado ao grupo um question&aacute;rio elaborado em conjunto com a Consultoria Econ&ocirc;mica e de Planejamento (Ceplan). Entre as surpresas, gente com n&iacute;vel superior completo disputando uma vaga no Refor&ccedil;o de Escolaridade, na &acirc;nsia de conseguir em Suape um emprego melhor do que o atual. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Isso al&eacute;m das hist&oacute;rias de frustra&ccedil;&atilde;o na busca por trabalho formal e a esperan&ccedil;a de ter &ecirc;xito nessa procura, finalmente. &ldquo;Deixo curr&iacute;culos em lojas do Centro do Recife, em shoppings, onde der. Fui at&eacute; v&iacute;tima de propaganda enganosa. Uma conhecida me indicou uma ag&ecirc;ncia de emprego onde paguei R$ 10 para me inscrever. Uma semana depois, o dono foi preso por estelionato&rdquo;, lembra Fabiana Dias, 27 anos. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Ela batalha por um emprego h&aacute; dois anos. &ldquo;Tenho experi&ecirc;ncia na &aacute;rea de escrit&oacute;rio e recep&ccedil;&atilde;o. &Eacute; com isso que espero trabalhar em Suape&rdquo;, afirma. Entre os entrevistados, h&aacute; quem j&aacute; passou mais de tr&ecirc;s d&eacute;cadas trabalhando e quer recome&ccedil;ar, aprender uma nova profiss&atilde;o &ndash; como o ferralheiro Juscelino de Oliveira Gomes, 56 anos, que procura emprego desde 1996. &ldquo;Fiz curso de eletricista, mas posso trabalhar com outra coisa&rdquo;, argumenta. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">H&aacute; ainda os jovens que conclu&iacute;ram o ensino m&eacute;dio e ainda n&atilde;o tiveram sua carteira de trabalho assinada. &ldquo;S&oacute; n&atilde;o sou casado no papel. Tenho um filho, moro com minha mulher. A situa&ccedil;&atilde;o &eacute; complicada e minha m&atilde;e de vez em quando ajuda. Minha mulher fez a prova, tamb&eacute;m. Eu n&atilde;o tenho prefer&ecirc;ncia por um trabalho espec&iacute;fico. Quero um emprego&rdquo;, destaca Sandro Jos&eacute; de Santana, 21 anos. Pelo menos na carteira, ele n&atilde;o tem registro de experi&ecirc;ncia de trabalho. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Do grupo dos 60, 56% j&aacute; passaram por capacita&ccedil;&atilde;o e qualifica&ccedil;&atilde;o profissional. Ainda assim, 66% se declararam desempregados. Cerca de 42% nunca tiveram carteira assinada e 40% eram pais ou m&atilde;es de fam&iacute;lia. A idade m&eacute;dia foi de 29 anos. A maioria se inscreveu no projeto quase sem informa&ccedil;&otilde;es sobre o objetivo ou o funcionamento do Refor&ccedil;o de Escolaridade. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O entendimento foi apenas o de que uma vaga no projeto &eacute; o caminho para Suape. A Ag&ecirc;ncia do Trabalho fez o cadastramento para o concurso do Refor&ccedil;o e possui um banco com os dados de todos os candidatos. Por&eacute;m, n&atilde;o havia detalhamento das informa&ccedil;&otilde;es.&nbsp;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A&nbsp;pedido do JC, a Ag&ecirc;ncia tratou os dados e apurou que 56% eram homens e 44% mulheres. A maior parte, 63%, possui segundo grau completo. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Apesar do baixo peso no universo de candidatos, um grupo de 147 inscritos chamou a aten&ccedil;&atilde;o pela iniciativa de participar de um projeto destinado a incrementar portugu&ecirc;s e matem&aacute;tica de 4&ordf; s&eacute;rie: 109 dos candidatos t&ecirc;m n&iacute;vel superior incompleto e 38 possuem&nbsp;o canudo de terceiro grau. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>PS: A reportagem completa, no JC deste domingo. E toda a s&eacute;rie, ao longo desta semana.</em> </font></p> </p>
+{% endraw %}

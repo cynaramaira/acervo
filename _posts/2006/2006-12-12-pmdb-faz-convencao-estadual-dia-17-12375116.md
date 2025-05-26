@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>E antes que&nbsp;apareça qualquer especulação, o presidente estadual do PMDB, Dorany Sampaio, antecipa que continua no cargo. Aliás, há mais de uma década ele está no posto.</FONT></P></p>
 <p><P><FONT face=Verdana>\"Permaneço sim. Posso assegurar. Este é um evento de rotina\", disse Dorany a Cec?lia Ramos, repórter do <STRONG>Blog do JC</STRONG>. </FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>02- Eleição, por voto direto e secreto, dos delegados e respectivos suplentes à Convenção Nacional, para o biênio 2006 a 2008; </FONT></P></p>
 <p><P><FONT face=Verdana>03- Eleição, por voto direto e secreto, do Conselho de Ética e seus respectivos suplentes para o biênio 2006 a 2008; </FONT></P></p>
 <p><P><FONT face=Verdana>04- Eleição, por voto direto e secreto, do Conselho Fiscal e seus respectivos suplentes para o biênio 2006 a 2008. </FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

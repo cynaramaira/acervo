@@ -13,8 +13,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana size=2></p>
 <p><P>Esqueceram de avisar a Taciana Mendonça, mulher do governador Mendonça Filho, de que haveria hoje o anúncio da equipe de coordenação da campanha. </P></p>
 <p><P>Ela é da ala feminina. Acabou chegando no final e passou um bom tempo com uma baita tromba. Ao sentar, durante entrevista organizada pelo vice Evandro Avelar, foi logo perguntando a um dos colegas: \"Por que não me avisaram?\"</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

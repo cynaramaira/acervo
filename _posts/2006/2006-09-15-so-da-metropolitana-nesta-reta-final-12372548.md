@@ -14,10 +14,10 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>O candidato do PT, Humberto Costa, e do PSB, Eduardo Campos, também investem na Região Metropolitana do Recife (RMR). </FONT></P></p>
 <p><P><FONT face=Verdana>Amanhã, às 15h, eles disputam os eleitores em Olinda.</FONT></P></p>
 <p><P><FONT face=Verdana>Humberto&nbsp;participa de carreata, partindo da<B>&nbsp;</B>Avenida Olinda, no bairro de Santa Teresa (sentido Igarassu).</FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo faz caminhada e com?cio em Ouro Preto, seguindo para o&nbsp;Alto da Bondade e Rio Doce.</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

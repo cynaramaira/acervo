@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B></p>
 <p><P></B><FONT face=Verdana>Por</FONT><FONT face=Verdana><B> Inácio França*<BR></B>Jornalista e consultor do UNICEF<BR></FONT><FONT face=Verdana><BR>Depois de ser assediado por dezenas de captadores recursos de campanhas, decidi dar um tempo nos artigos sobre a relação entre m?dia e pol?tica e publicar essas breves dicas de sobrevivência para o eleitor moderno… </FONT></P></p>
 <p><P><FONT face=Verdana>Até há pouco tempo, quando alguém cruzava por acaso com algum conhecido, colega ou amigo candidato a deputado, fazia questão de cumprimentá-lo. Se o eleitor estivesse acompanhado de uma namorada ou paquera, se exibiria demonstrando alguma intimidade com o pol?tico. Ao pedido de voto, o eleitor garantia seu compromisso, mesmo que, no dia seguinte, fizesse a mesma promessa para um antigo colega de faculdade, também candidato. </FONT></P></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>Se o sujeito insistir, dizendo que dá um jeito, você para o contra-ataque e arremata: \"Sou ético, não posso ser conivente com qualquer tipo de irregularidade\". Com receio de perder seu voto, o candidato desistirá do assédio. </FONT></P></p>
 <p><P><FONT face=Verdana>O problema é que, se todos descobrirem essa sa?da, em breve eles vão pedir ao TRE para adaptar a urna eletrônica para receber cartão magnético. Assim, o amigo-candidato poderá dizer que, como o comitê fez convênio com o banco 24 horas, você terá a opção de usar seu cartão de banco em vez do t?tulo eleitoral. A?, a solução será encontrar o deputado mais em conta.<BR><BR><BR></FONT></P><B><I></p>
 <p><P><FONT face=Verdana>*Inácio França</FONT></B><FONT face=Verdana> é jornalista formado pela Universidade Católica de Pernambuco, em dezembro de 1990. Repórter de Pol?cia do Diário Popular (SP), atual Diário de São Paulo. Repórter de O Globo, sucursal de São Paulo. Repórter de O Globo, sucursal de Recife. Repórter-especial do Diário de Pernambuco. Secretário de Comunicação de Olinda, durante a primeira gestão de Luciana Santos (PCdoB). Atualmente, Consultor de Comunicação do UNICEF para os estados de Alagoas, Para?ba e Pernambuco. Como repórter, conquistou o Prêmio Vladimir Herzog de Jornalismo e Dieitos Humanos, Prêmio Cristina Tavares de Jornalismo.</FONT></P></I> </p>
-{\% endraw %}
+{% endraw %}

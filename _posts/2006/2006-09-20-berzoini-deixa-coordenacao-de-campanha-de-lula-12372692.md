@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><DIV class=txt id=mudaFonte></p>
 <p><P><FONT face=Verdana>Do <STRONG>G1</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Marco Aurélio Garcia e o novo coordenador da campanha do presidente Lula à reeleição. </FONT></P></p>
@@ -22,4 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Nota do Blog:</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Marco Aurélio Garcia&nbsp;era assessor especial do presidente Lula. </FONT></P></DIV></p>
 <p><P><FONT face=Verdana>Em reunião com Berzoini e com o ministro de Relações Institucionais, Tarso Genro, na tarde de hoje, Lula teria ficado \"irritado\" com o fato do presidente do PT ter admitido que já sabia do dossiê. </FONT></P> </p>
-{\% endraw %}
+{% endraw %}

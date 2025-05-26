@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Levantamento feito entre os dias 11, 12 e 13 e publicados na edição (apenas na impressa) da revista IstoÉ, com 1 mil entrevistados, apresenta os seguintes resultados:</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Governador </STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hoje&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; semana passada </FONT></P></p>
@@ -32,4 +32,4 @@ imagem: null
 <p><P><FONT face=Verdana>As pesquisas do Diario de Pernambuco e Folha de Pernambuco, divulgadas entre hoje e segunda, devem apontar também Eduardo à frente.</FONT></P></p>
 <p><P><FONT face=Verdana>É interessante esperar nos próximos dias a pesquisa Ibope/TV Globo, a maior de todas elas, com 1.800 questionários, cujos números mostram quadro semelhante ao do JC/Vox Populi, com Humberto à frente. Aqui cabe uma observação: o quadro se assemelha nas posições de ambos, mas nas duas últimas rodadas do Ibope Humberto estabilizou nos 25%. Na JC/Vox Populi, ele cresceu acima da margem de erro.</FONT></P></p>
 <p><P><FONT face=Verdana>Em todas elas, no entanto, os cenários apontam para a consolidação do 2º turno.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

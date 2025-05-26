@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <B>Inácio França<BR></B></FONT><FONT face=Verdana>Jornalista e consultor do UNICEF</FONT></P></p>
 <p><P><FONT face=Verdana>Quando César Rocha teve a idéia de me convidar para escrever aqui no <STRONG>Blog do JC</STRONG>, sua intenção era me convencer a escrever artigos ou crônicas que ajudassem a analisar como os temas sociais estavam sendo tratados na campanha eleitoral. Ele botou na cabeça que meu atual ganha-pão como consultor do UNICEF me dava moral para tanto.</FONT></P></p>
 <p><P><FONT face=Verdana>Não me animei. Falar das temáticas sociais num estado com ongueiros saindo pelo ladrão, não-sei-quantos especialistas em saúde pública e outros tantos educadores ligados emocional ou historicamente a Freire? Seria arrumar muita sarna pra se coçar.</FONT></P></p>
@@ -33,4 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>E só não revelo meu voto completo porque ainda tenho dúvidas em alguns cargos em disputa.</FONT></P></p>
 <p><P><FONT face=Verdana></FONT>&nbsp;</P></p>
 <p><P><EM><FONT face=Verdana>*<B>Inácio França</B> é jornalista profissional, formado pela Universidade Católica de Pernambuco, em dezembro de 1990. Repórter de Pol?cia do Diário Popular (SP), atual Diário de São Paulo. Repórter de O Globo, sucursal de São Paulo. Repórter de O Globo, sucursal de Recife. Repórter-especial do Diário de Pernambuco. Secretário de Comunicação de Olinda, durante a primeira gestão de Luciana Santos (PCdoB). Atualmente, Consultor de Comunicação do UNICEF para os estados de Alagoas, </FONT><FONT face=Verdana>Para?ba e Pernambuco. Como repórter, conquistou o Prêmio Vladimir Herzog de Jornalismo e Dieitos Humanos, Prêmio Cristina Tavares de Jornalismo.</P></FONT></EM> </p>
-{\% endraw %}
+{% endraw %}

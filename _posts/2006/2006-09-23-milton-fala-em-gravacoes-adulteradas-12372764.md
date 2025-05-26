@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>O presidente estadual do PSB, Milton Coelho, começou assim a entrevista que concede agora na sede do partido, no Recife:</P></p>
 <p><P>\"Supostas gravações ou gravações adulteradas noticiadas pelo Blog do JC...\"</P> </p>
-{\% endraw %}
+{% endraw %}

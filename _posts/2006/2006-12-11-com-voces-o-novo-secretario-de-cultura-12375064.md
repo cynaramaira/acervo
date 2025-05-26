@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p><FONT color=#333333></FONT></o:p></SPAN></P><PRE><SPAN style=\"FONT-FAMILY: Verdana\"><o:p></o:p></SPAN></PRE></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P><SPAN style=\"mso-bookmark: 2898\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Concordou apenas em ser o primeiro suplente do deputado federal Jorge Gomes, candidato a senador na chapa de Eduardo.<o:p></o:p></SPAN></SPAN></P></p>
 <p><P><SPAN style=\"mso-bookmark: 2898\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Ao longo da campanha, porém, Ariano conquistou de tal forma a simpatia dos eleitores que, na verdade, transformou-se numa espécie de suplente de mito, suplente de Miguel Arraes.<o:p></o:p></SPAN></SPAN></P></p>
 <p><P><SPAN style=\"mso-bookmark: 2898\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Por onde andou, ao lado de Eduardo, animou com?cios e carreatas. </SPAN></SPAN><FONT color=#333333><SPAN style=\"mso-bookmark: 2898\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">Mesmo com sua famosa voz rouca e ruim, conseguiu fazer da canção </SPAN></SPAN><SPAN style=\"mso-bookmark: 2898\"></SPAN></FONT><EM><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-weight: bold\"><A href=\"https://capiba.letras.terra.com.br/letras/174179/\" target=_blank><SPAN style=\"COLOR: black; TEXT-DECORATION: none; text-underline: none\">\"Madeira que cumpim não rói\"</SPAN></A></SPAN></EM><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">,</SPAN><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><FONT color=#333333> de Capiba,&nbsp;o hino da campanha do socialista.</FONT></SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

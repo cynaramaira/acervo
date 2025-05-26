@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Projeção pol?tica, influência no Poder Judiciário e numa categoria que reúne, em Pernambuco, cerca de 15 mil profissionais (cerca de 10 mil aptos a votar).</FONT></P></p>
 <p><P><FONT face=Verdana>Não são outras as razões para que tenhamos hoje no Estado uma eleição tão acirrada pela presidência local da Ordem dos Advogados do Brasil.</FONT></P></p>
 <p><P><FONT face=Verdana>Em Pernambuco, dois grupos fortes estão concorrendo. </FONT></P></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>Veja <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/11/15/index.php#3353\" target=_blank>aqui</A></EM></STRONG> os resultados da última pesquisa de intenção de voto realizada</p>
 <p> pela Contagem Consultoria.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/11/16/index.php#3380\" target=_blank>aqui</A></EM></STRONG> também uma análise dos números.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

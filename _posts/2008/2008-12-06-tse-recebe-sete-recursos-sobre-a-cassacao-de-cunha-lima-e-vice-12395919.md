@@ -1,0 +1,47 @@
+---
+id: 12395919
+date: "2008-12-06T12:08:32Z"
+last_modified_at: null
+tags:
+  - "clima"
+  - "recursos"
+  - "thiago-cunha"
+categories:
+  - "noticias"
+title: "TSE recebe sete recursos sobre a cassa\u00e7\u00e3o de Cunha Lima e vice"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>O Tribunal Superior Eleitoral (TSE) recebeu, na noite desta sexta-feira (5), sete recursos relacionados &agrave; decis&atilde;o da Corte que cassou o mandato do governador da Para&iacute;ba, C&aacute;ssio Cunha Lima (PSDB), e de seu vice, Jos&eacute; Lacerda Neto (DEM), no &uacute;ltimo dia 20 de novembro.</p></p>
+<p><p>Eles foram cassados por abuso de poder econ&ocirc;mico e pol&iacute;tico exercido durante a campanha eleitoral em 2006. Os dois teriam distribu&iacute;do cerca de R$ 3,5 milh&otilde;es em cheques para eleitores por meio de programa assistencial.</p></p>
+<p><p>Os recursos foram apresentados pelo governador, pelo vice, por seus respectivos partidos e tamb&eacute;m pelo PSOL (Partido Socialismo e Liberdade), pelo PCB (Partido Comunista Brasileiro) e por Gilmar Aureliano, ex-presidente da Funda&ccedil;&atilde;o A&ccedil;&atilde;o Comunit&aacute;ria (FAC), entidade de assist&ecirc;ncia social do estado envolvida nas irregularidades que levaram &agrave; cassa&ccedil;&atilde;o.</p></p>
+<p><p>C&aacute;ssio Cunha Lima</p></p>
+<p><p>O governador cassado, C&aacute;ssio Cunha Lima, pede em seu recurso que o Tribunal reconhe&ccedil;a omiss&otilde;es, obscuridades e contradi&ccedil;&otilde;es no julgamento. Pede tamb&eacute;m que sejam determinadas novas elei&ccedil;&otilde;es para os cargos de governador e vice-governador. Al&eacute;m disso, quer que o processo retorne ao Tribunal Regional Eleitoral (TRE-PB) para que o vice-governador Jos&eacute; Lacerda Neto, tamb&eacute;m cassado, apresente defesa e produza provas. Pede tamb&eacute;m que seja realizada nova prova pericial e novo julgamento, al&eacute;m de que seja considerada improcedente a investiga&ccedil;&atilde;o judicial eleitoral realizada, por inexistir abuso de poder.</p></p>
+<p><p>Sua defesa diz ainda que a cassa&ccedil;&atilde;o por parte do TSE foi baseada em dados equivocados e premissas falsas. Afirma que os autos registram que o programa Ciranda de Servi&ccedil;os foi encerrado antes do in&iacute;cio do per&iacute;odo eleitoral, em 21 de junho de 2006, o que n&atilde;o caracteriza conduta vedada.</p></p>
+<p><p>Sustenta que o uso de imagens de a&ccedil;&otilde;es governamentais em hor&aacute;rio pol&iacute;tico n&atilde;o configura conduta proibida, com base em entendimento do TSE. Assim, o argumento de que teria ocorrido uso promocional do programa assistencial no v&iacute;deo do hor&aacute;rio eleitoral gratuito n&atilde;o se sustenta juridicamente.</p></p>
+<p><p>Ressalta tamb&eacute;m que, ao contr&aacute;rio do que consta na decis&atilde;o do TSE, o programa social desenvolvido pela Funda&ccedil;&atilde;o de Assist&ecirc;ncia Comunit&aacute;ria (FAC) teve previs&atilde;o legal e or&ccedil;ament&aacute;ria.</p></p>
+<p><p>Jos&eacute; Lacerda</p></p>
+<p><p>O vice-governador Jos&eacute; Lacerda afirma, em seu recurso, que n&atilde;o houve a sua cita&ccedil;&atilde;o como parte no processo. Por essa raz&atilde;o, segundo ele, n&atilde;o teve oportunidade para apresentar defesa, produzir provas, nem de contraditar os argumentos que levaram &agrave; sua cassa&ccedil;&atilde;o, juntamente com a do governador. Desse modo, Jos&eacute; Lacerda pede que o TSE declare o processo nulo por v&iacute;cio insan&aacute;vel.O vice-governador informou que foi inclu&iacute;do na a&ccedil;&atilde;o somente posteriormente como assistente.</p></p>
+<p><p>Afirma ainda que n&atilde;o conseguiu designar testemunhas a serem ouvidas, n&atilde;o indiciou assistente t&eacute;cnico e n&atilde;o formulou argumentos. Ressalta tamb&eacute;m que apenas o governador C&aacute;ssio Cunha Lima e o presidente da FAC apresentaram suas alega&ccedil;&otilde;es finais. Ou seja, Lacerda afirma que &quot;nas fases probat&oacute;rias importantes e determinantes&quot; ele n&atilde;o figurava no processo, sequer como assistente, condi&ccedil;&atilde;o na qual foi admitido mais tarde.</p></p>
+<p><p>DEM</p></p>
+<p><p>O Democratas (DEM) &eacute; o partido de Jos&eacute; Lacerda e, na ocasi&atilde;o do julgamento, os ministros rejeitaram a sua participa&ccedil;&atilde;o como parte no processo. Nesse recurso, o partido pede a anula&ccedil;&atilde;o do julgamento desde a cita&ccedil;&atilde;o sob o argumento de que, como detentor do mandato pol&iacute;tico, conforme a Resolu&ccedil;&atilde;o 22. 610 do TSE, ele teria o direito de fazer parte do processo.</p></p>
+<p><p>Entre outros argumentos, o DEM sustenta que o Minist&eacute;rio P&uacute;blico emitiu pareceres divergentes e questiona se o mandato pol&iacute;tico pertence ao partido pol&iacute;tico somente em determinadas situa&ccedil;&otilde;es e em outras n&atilde;o. Questiona tamb&eacute;m se a regra v&aacute;lida para a desfilia&ccedil;&atilde;o partid&aacute;ria n&atilde;o se estende &agrave; cassa&ccedil;&atilde;o ou declara&ccedil;&atilde;o de inelegibilidade.</p></p>
+<p><p>Diz ainda que &eacute; &ldquo;necess&aacute;rio que tais respostas sejam respondidas &agrave; luz do suscitado direito ao contradit&oacute;rio e &agrave; ampla defesa&rdquo; e que a pretens&atilde;o n&atilde;o &eacute; substituir o filiado cassado &ndash; Jos&eacute; Lacerda &ndash; por outro, mas apenas participar do processo para defender o mandato na condi&ccedil;&atilde;o de parte.</p></p>
+<p><p>Por fim, o partido citou o caso do governador de Santa Catarina, Luiz Henrique, em que o TSE anulou o julgamento por falta de cita&ccedil;&atilde;o do vice governador. Ao fazer a compara&ccedil;&atilde;o, pede a anula&ccedil;&atilde;o do processo uma vez que lhe foi negado o direito de contestar acusa&ccedil;&atilde;o e apresentar provas &ldquo;em processo que incidiu diretamente contra seu patrim&ocirc;nio pol&iacute;tico&rdquo;.</p></p>
+<p><p>PSDB</p></p>
+<p><p>Em seu recurso, o Partido da Social Democracia Brasileira (PSDB) reclama que, por ser o partido pol&iacute;tico o titular do mandato eletivo, a agremia&ccedil;&atilde;o deveria integrar o processo, desde a origem, como uma das partes interessadas. Como tal pedido n&atilde;o foi aceito no julgamento do TSE, o partido do governador Cunha Lima renova o apelo e pede que o Tribunal extinga a a&ccedil;&atilde;o que resultou na cassa&ccedil;&atilde;o de Cunha Lima e de seu vice, sem julgamento do m&eacute;rito, ou que o anule desde a cita&ccedil;&atilde;o. O PSDB participa do processo na condi&ccedil;&atilde;o de assistente.</p></p>
+<p><p>PCB</p></p>
+<p><p>O Partido Comunista Brasileiro (PCB) pede a anula&ccedil;&atilde;o de todo o processo eleitoral de 2006 no estado para o cargo de governador. Sustenta que &ldquo;diante da confirma&ccedil;&atilde;o dos graves fatos demonstrados e confirmados por esta Corte&rdquo;, as elei&ccedil;&otilde;es foram viciadas na origem.</p></p>
+<p><p>De acordo com o partido, a participa&ccedil;&atilde;o de C&aacute;ssio Cunha Lima na elei&ccedil;&atilde;o, &ldquo;prejudicou todos os outros candidatos, ferindo os princ&iacute;pios constitucionais da igualdade, proporcionalidade e soberania popular&rdquo;.</p></p>
+<p><p>O PCB diz, ainda, n&atilde;o concordar com a decis&atilde;o tomada pelo TSE no sentido de que, cassado o mandato de C&aacute;ssio Cunha Lima, seja empossado o segundo colocado. Sustenta que essa decis&atilde;o &ldquo;despreza a relev&acirc;ncia garantida pela Constitui&ccedil;&atilde;o Federal ao princ&iacute;pio da maioria&rdquo;.</p></p>
+<p><p>O pedido do partido se baseia na conclus&atilde;o de que quando o vencedor de uma elei&ccedil;&atilde;o tem sua vota&ccedil;&atilde;o anulada por decis&atilde;o judicial que reconhece irregularidade, &ldquo;o povo tem que ser consultado de novo, para que emita nova manifesta&ccedil;&atilde;o de vontade, desta vez, sem o v&iacute;cio constatado&rdquo;.</p></p>
+<p><p>PSOL</p></p>
+<p><p>O Partido Socialismo e Liberdade (PSOL) pede para ser admitido no processo e tamb&eacute;m que, sendo confirmada a cassa&ccedil;&atilde;o do primeiro colocado e de seu vice, sejam convocadas novas elei&ccedil;&otilde;es em vez de empossar o segundo mais votado. Pede portanto, para &ldquo;prestigiar o princ&iacute;pio da soberania do voto popular, determinando novas elei&ccedil;&otilde;es, diretas, para que o povo possa exercer o seu direito republicano e constitucional de determinar os seus destinos, atrav&eacute;s da express&atilde;o da vontade de seus cidad&atilde;os&rdquo;.</p></p>
+<p><p>Ex-presidente da FAC</p></p>
+<p><p>J&aacute; o recurso de Gilmar Aureliano, ex-presidente da FAC, salienta que no andamento do processo houve omiss&atilde;o no exame de ponto abordado pela defesa, que pedia a nulidade de per&iacute;cia cont&aacute;bil por &quot;erro metodol&oacute;gico&quot;. Ele afirma que houve cerceamento da defesa e que a per&iacute;cia para apurar os procedimentos de concess&atilde;o dos aux&iacute;lios financeiros n&atilde;o poderia ter sido feita por amostragem, mas na sua totalidade. Gilmar solicita que a Corte declare improcedente a a&ccedil;&atilde;o de investiga&ccedil;&atilde;o judicial ou nulo o processo. Se o TSE n&atilde;o concordar, pede pelo menos que a a&ccedil;&atilde;o seja anulada, a partir da per&iacute;cia.<br /></p>
+<p><br /></p>
+<p>Informa&ccedil;&otilde;es do TSE</p> </p>
+{% endraw %}

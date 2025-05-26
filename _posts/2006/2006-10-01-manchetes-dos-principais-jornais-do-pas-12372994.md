@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana><STRONG>JORNAL DO COMMERCIO (PE):<BR></STRONG><BR>Tragédia no vôo 1907. Desespero e esperança<BR><BR><STRONG>O ESTADO DE S.PAULO:</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Dividido, Brasil decide se eleição de presidente vai para o 2º turno</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>JORNAL DA TARDE:</STRONG></FONT></P></p>
@@ -37,4 +37,4 @@ imagem: null
 <p><P><FONT face=Verdana>O que está em jogo nas urnas</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>GAZETA DO POVO (PR):</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Paraná pode ter 2º turno ao governo, apontam pesquisas</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

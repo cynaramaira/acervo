@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por <B>Cec?lia Ramos</B><BR>Repórter do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>Para quem achava que o ator e agora decorador José Pimentel ia passar um Natal sem o seu inseparável personagem, enganou-se. A partir de hoje ele volta a encarnar Cristo, no <I>Auto de Natal - A História do Nascimento de Jesus. </I>E é dois em um: ele vive o papel principal e também dirige o espetáculo. </FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>Vale aqui&nbsp;um registro do cunho social do \"Verão Total do Frevo\". O projeto começou no último dia 16 e segue até o dia 11 de fevereiro, com extensa programação cultural e esportiva: de cantata natalina&nbsp;à oficina de gastronomia, aula de ginástica, massagem e jogo de futebol. É tudo gratuito. </FONT></P></p>
 <p><P><FONT face=Verdana>As atrações e atividades ocorrem diariamente na mesma arena onde Pimentel viverá, pela enésima vez,&nbsp;Jesus Cristo. Tem programação também em vários bairros do Recife, como Boa Vista, Ibura, Bras?lia Teimosa, Macaxeira e Areias.</FONT></P></p>
 <p><P><FONT face=Verdana>Quem for conferir, comente a experiência com o Blog do JC. </FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

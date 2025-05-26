@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL) </FONT></P></p>
 <p><P><FONT face=Verdana>10h</FONT></B><FONT face=Verdana>, caminhada no Córrego do Joaquim. Local: Rua Córrego do Joaquim (terminal do ônibus)</FONT></P><B></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>11h</FONT></B><FONT face=Verdana>, em Petrolina, agenda com o Vice Presidente José Alencar, caminhada no comércio, inaugurações dos comitês de Gonzaga Patriota e Sargento Quirino </FONT></P><B></p>
 <p><P><FONT face=Verdana>19h</FONT></B><FONT face=Verdana>, em Belo Jardim, inauguração do Comitê de Cintra Galvão </FONT></P><B></p>
 <p><P><FONT face=Verdana>21h</FONT></B><FONT face=Verdana>, em Tacaimbó, carreata e com?cio</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

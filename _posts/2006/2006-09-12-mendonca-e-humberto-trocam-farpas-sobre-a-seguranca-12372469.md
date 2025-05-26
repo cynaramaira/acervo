@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O feriadão com o trágico balanço de 55 mortos, incluindo execuções e mais mulheres assassinadas, esquentou o guia eleitoral e continua nos debates por onde têm passado os candidatos ao governo de Pernambuco, principalmente Mendonça Filho (PFL) e Humberto Costa (PT).</FONT></P></p>
 <p><P><FONT face=Verdana>Veja o que eles disseram hoje:</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Humberto, na Universidade Federal de Pernambuco, no Recife:</STRONG></FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>\"Todos sabem do nosso esforço nessa área e não vou entrar neste bate-boca.\"</EM></FONT></P></p>
 <p><P><FONT face=Verdana>(<STRONG>Sobre o acirramento da campanha</STRONG>):</FONT></P></p>
 <p><P><FONT face=Verdana><EM>\"Eu não agredi ninguém, agredi? Eu tenho uma caracter?stica de ser muito afirmativo nas minhas colocações, transparente, muito direto, muito objetivo nas minhas colocações. E vou permanecer assim.\"</EM></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

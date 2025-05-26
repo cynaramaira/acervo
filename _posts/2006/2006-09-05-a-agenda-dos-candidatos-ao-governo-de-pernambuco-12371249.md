@@ -14,7 +14,7 @@ chapeu: null
 autor: "jc"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>&nbsp;<br /></p>
 <p>MENDON&Ccedil;A FILHO (PFL)</p>
 <p>10h, debate com alunos do Col&eacute;gio Motivo, em</p>
@@ -26,4 +26,4 @@ imagem: null
 <p>16h, em Caruaru, com?cio com Lula promovido pela dire&ccedil;&atilde;o da Contag. Local: Avenida Rui Barbosa &ndash; Centro (em frente ao pr&eacute;dio INSS)</p>
 <p>EDUARDO CAMPOS (PSB)</p>
 <p>17h, em Caruaru, com?cio com Lula promovido pela dire&ccedil;&atilde;o da Contag. Local: Avenida Rui Barbosa &ndash; Centro (em frente ao pr&eacute;dio INSS)</p>
-{\% endraw %}
+{% endraw %}

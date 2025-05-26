@@ -12,8 +12,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Acabou agora a reunião entre o governador Mendonça Filho e o advogado Francisco Bandeira, novo desembargador do Tribunal de Justiça.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>&nbsp;<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Após a conversa, na qual Bandeira foi comunicado da nomeação dele, Mendonça telefonou para o presidente do TJ, Fausto Freitas, com quem esteve no in?cio da noite, para reconfirmar a escolha.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

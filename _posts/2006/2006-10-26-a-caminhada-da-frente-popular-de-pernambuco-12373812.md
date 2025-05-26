@@ -13,6 +13,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana>O deputado federal e candidato ao governo de Pernambuco pelo PSB Eduardo Campos promoveu ontem uma caminhada pelo centro do Recife, seu maior ato de campanha, que reuniu cerca de 60 mil pessoas.</FONT> </p>
-{\% endraw %}
+{% endraw %}

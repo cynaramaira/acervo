@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>EDUARDO CAMPOS (PSB)</FONT></P></B></p>
 <p><P><FONT face=Verdana><STRONG>9h</STRONG>, em Goiana, carreata pelas principais ruas da cidade e com?cio</FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>16h30</STRONG>, em Olinda, \"Caminhada da Virada\". Concentração: Avenida Getulio Vargas, em Olinda, em frente ao antigo Quartel da PE</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>19h</STRONG>, em Olinda, com?cio no Largo do Amparo, Olinda, ao final da \"Caminhada da Virada\"</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>21h30</STRONG>, em Belo Jardim, com?cio</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

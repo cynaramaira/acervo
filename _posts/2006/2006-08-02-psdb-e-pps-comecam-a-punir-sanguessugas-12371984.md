@@ -12,7 +12,7 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Do <strong>JC OnLine</strong><br />(<a href="http://fivenews.sjcc.com.br/&quot;https:/www.jc.com.br&quot;">www.jc.com.br</a>)</p>
 <p>Dois partidos deram in?cio nessa ter&ccedil;a-feira (1&ordm;) &agrave; puni&ccedil;&atilde;o de parlamentares de seus quadros que se envolveram com a m&aacute;fia dos sanguessugas.</p>
 <p>O PSDB abriu processo de expuls&atilde;o contra o deputado Paulo Feij&oacute; (RJ). "N&atilde;o h&aacute; d&uacute;vidas da culpa dele nesse processo", disse o presidente do PSDB, senador Tasso Jereissati (CE).</p>
@@ -22,4 +22,4 @@ imagem: null
 <p>Coment&aacute;rio meu:</p>
 <p>O PPS &eacute; aquele partido que na propaganda na TV e no r&aacute;dio, no primeiro semestre, apresentava um locutor com voz empostada, dizendo que estava limpo, n&atilde;o tinha envolvimento com o esc&acirc;ndalo do mensal&atilde;o.</p>
 <p>&nbsp;</p>
-{\% endraw %}
+{% endraw %}

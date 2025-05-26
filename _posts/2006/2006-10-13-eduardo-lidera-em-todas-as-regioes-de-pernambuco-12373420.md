@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>A primeira pesquisa sobre a disputa pelo governo de Pernambuco, neste segundo turno, indica que o deputado federal Eduardo Campos (PSB) mantém entre 14 e 26 pontos percentuais (votos válidos) de dianteira em relação ao governador Mendonça Filho (PFL), dependendo da região pesquisada pelo Ibope.</FONT></P></p>
 <p><P><FONT face=Verdana>Encomendada pela Globo Nordeste, a pesquisa divide o Estado em três regiões distintas: o Recife, a Periferia (demais munic?pios da Região Metropolitana do Recife) e Interior.</FONT></P></p>
 <p><P><FONT face=Verdana>Em todo o Estado, Eduardo aparece com 56% e Mendonça, 36% dos votos totais (incluindo nulos, brancos e abstinência). </FONT></P></p>
@@ -37,4 +37,4 @@ imagem: null
 <p><P><FONT face=Verdana>Ainda pode mudar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;14%<BR>É definitivo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 84%<BR>Não sabe/não opinou&nbsp;&nbsp; 2%</FONT></P></p>
 <p><P><FONT face=Verdana>O Ibope ouviu 2.002 eleitores em 86 munic?pios do Estado entre os dias 8 e 10 de outubro. A margem de erro é de dois pontos percentuais para mais ou para menos.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://www.ibope.com.br/Eleicoes/2006/download/Opp398_pernambuco_out06.pdf\" target=_blank>aqui</A></EM></STRONG> </FONT><FONT face=Verdana>a pesquisa completa.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Rouco,&nbsp;procurando aproveitar&nbsp;o pouco tempo desta primeira fase, Humberto Costa (PT) reforçou agora, no debate da Faculdade Maur?cio de Nassau/TV Nova (Canal 22), a vinculação&nbsp;com o presidente Lula.</FONT></P></p>
 <p><P><FONT face=Verdana>Ressaltou&nbsp;ter tido participação direta&nbsp;nas decisões do governo federal de investir, por exemplo, na construção da refinaria e da Hemobras em Pernambuco.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

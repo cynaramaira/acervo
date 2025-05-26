@@ -1,0 +1,28 @@
+---
+id: 12400587
+date: "2009-04-23T17:32:00Z"
+last_modified_at: null
+tags:
+  - "conflito"
+  - "gilmar-mendes"
+  - "procuradoria-geral-da-republica"
+categories:
+  - "noticias"
+title: "Conflito reflete desconforto com Mendes, diz procuradora"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Da Ag&ecirc;ncia Estado</p></p>
+<p><p>O confronto entre os ministros do Supremo Tribunal Federal (STF) Joaquim Barbosa e Gilmar Mendes reflete um desconforto de Barbosa com a postura do presidente da Casa e suas manifesta&ccedil;&otilde;es p&uacute;blicas. A avalia&ccedil;&atilde;o &eacute; da procuradora regional chefe da Rep&uacute;blica em S&atilde;o Paulo, Luiza Cristina Fonseca Frischeisen, e do subprocurador-geral da Rep&uacute;blica Wagner Gon&ccedil;alves, que participaram do debate &quot;Pol&iacute;cia, Justi&ccedil;a e Estado de Direito - H&aacute; excessos das autoridades no combate ao crime do colarinho branco&#63;&quot;, promovido pelo Grupo Estado na capital paulista.</p></p>
+<p><p>&quot;&Eacute; muito importante que se diga que muitas vezes o ministro Gilmar se apresenta como o Supremo e o Supremo n&atilde;o &eacute; o ministro Gilmar. O Supremo &eacute; composto por 11 ministros e alguns dos ministros n&atilde;o concordam com coisas que o ministro Gilmar fala, n&atilde;o nos processos, mas as opini&otilde;es dele sobre o mundo em geral&quot;, afirmou Luiza. &quot;O que o ministro Gilmar fala n&atilde;o representa necessariamente a opini&atilde;o dos outros ministros, e eu acho que isso ele deve levar em considera&ccedil;&atilde;o para suas pr&oacute;prias falas e n&atilde;o usar a institui&ccedil;&atilde;o para respaldar aquilo que ele pensa.&quot;</p></p>
+<p><p>Para Gon&ccedil;alves, as opini&otilde;es de Mendes muitas vezes deixam d&uacute;vidas sobre sua postura em rela&ccedil;&atilde;o ao combate &agrave; impunidade, e foi isso que causou o bate-boca dos ministros. &quot;N&atilde;o resta a menor d&uacute;vida de que as coloca&ccedil;&otilde;es de Mendes, no que se refere ao combate &agrave; impunidade, t&ecirc;m fragilizado o debate, porque parece que tudo &eacute; direito de defesa. Quando h&aacute; manifesta&ccedil;&atilde;o sobre o combate &agrave; criminalidade, s&atilde;o casos que envolvem pessoas poderosas. Fica aquela d&uacute;vida. Quer se combater a impunidade ou quer se combater a investiga&ccedil;&atilde;o de determinadas pessoas&#63;&quot;, disse.</p></p>
+<p><p>O subprocurador-geral da Rep&uacute;blica lembrou que j&aacute; houve manifesta&ccedil;&otilde;es contra as opini&otilde;es de Gilmar Mendes pela Associa&ccedil;&atilde;o dos Ju&iacute;zes Federais do Brasil (Ajufe), quando o ministro afirmou haver uma rela&ccedil;&atilde;o concertada entre Justi&ccedil;a, Minist&eacute;rio P&uacute;blico e Pol&iacute;cia Federal para desmoralizar o STF, e pelo procurador-geral da Rep&uacute;blica Antonio Fernando Souza, quando o ministro disse que o controle externo das atividades da PF pelo MP era algo &quot;litero-po&eacute;tico-recreativo&quot;.</p></p>
+<p><p>&quot;Os ju&iacute;zes de primeira inst&acirc;ncia est&atilde;o se sentindo incomodados. Parece que o ministro Gilmar Mendes, com o poder que tem na m&atilde;o hoje, na presid&ecirc;ncia do Conselho Nacional de Justi&ccedil;a (CNJ) e do STF, podendo editar s&uacute;mulas vinculantes e seu voluntarismo nas atitudes, tem gerado inseguran&ccedil;a&quot;, citou Gon&ccedil;alves. &quot;Isso n&atilde;o faz sentido num Estado democr&aacute;tico, republicano, de equil&iacute;brio de poderes. &Eacute; preciso haver respeito a todas as institui&ccedil;&otilde;es. Se h&aacute; erros na PF e MPF, eles n&atilde;o podem ser generalizados porque a&iacute; atingem todo mundo e &eacute; injusto. Erros precisam ser coibidos e apurados, mas n&atilde;o podem ser generalizados, ao se dizer que o MPF est&aacute; mancomunado com a PF, com o Judici&aacute;rio. Essa n&atilde;o &eacute; a realidade do Pa&iacute;s&quot;, continuou.</p></p>
+<p><p>Exagero</p></p>
+<p><p>Na avalia&ccedil;&atilde;o da procuradora, o ministro Joaquim Barbosa externou uma tens&atilde;o com o presidente do STF de uma maneira &quot;um pouco acima do tom&quot;, em resposta &agrave;s &quot;provoca&ccedil;&otilde;es&quot; de Mendes. Para o subprocurador-geral da Rep&uacute;blica, as declara&ccedil;&otilde;es de Barbosa, de que Mendes destr&oacute;i a credibilidade do Judici&aacute;rio, foram dadas &quot;em um momento de desabafo, no calor da emo&ccedil;&atilde;o&quot;. Ainda assim, a procuradora ressaltou que Mendes &quot;exagera&quot; ao opinar sobre assuntos que n&atilde;o dizem respeito ao processo judicial.</p></p>
+<p><p>&quot;Sob a perspectiva de um presidente de poder, ele tem de ser o mais contido dos presidentes dos poderes porque sua legitimidade vem exatamente da sua a&ccedil;&atilde;o nos processos ou como coordenador de uma atividade administrativa. Ao se colocar sobre determinadas quest&otilde;es que n&atilde;o s&atilde;o da administra&ccedil;&atilde;o do Judici&aacute;rio ou do processo judici&aacute;rio, eu acho que ele muitas vezes exagera, e &eacute; isso que levou, no final das contas, &agrave; parte mais r&iacute;spida da discuss&atilde;o&quot;, afirmou Luiza.</p></p>
+<p><p>&quot;Isso para o sistema judicial como um todo n&atilde;o &eacute; agrad&aacute;vel porque o exerc&iacute;cio da fun&ccedil;&atilde;o de presidente do STF pressup&otilde;e serenidade, tranquilidade, como o exerc&iacute;cio de qualquer fun&ccedil;&atilde;o p&uacute;blica dessa relev&acirc;ncia e de todos os ministros do STF&quot;, acrescentou Gon&ccedil;alves.</p> </p>
+{% endraw %}

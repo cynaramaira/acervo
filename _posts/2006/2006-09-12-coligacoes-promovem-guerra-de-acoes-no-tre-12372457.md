@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><DIV><FONT face=Arial size=2><FONT face=Verdana>Por <STRONG>Clóvis Andrade<BR></STRONG>Repórter de Pol?tica do JC</FONT></FONT></DIV></p>
 <p><DIV><FONT face=Verdana></FONT>&nbsp;</DIV></p>
 <p><DIV><FONT face=Arial size=2><FONT face=Verdana>A União por Pernambuco, do governador-candidato Mendonça Filho (PFL), e a coligação Melhor pra Pernambuco, de Humberto Costa (PT), digladiaram-se ontem</p>
@@ -27,4 +27,4 @@ imagem: null
 <p><DIV>No contra-ataque, a Melhor pra Pernambuco acusa a União de caluniar Humberto em seus guias de rádio do último dia 9, tanto de manhã como à tarde, ao “imputar-lhe a prática de crime, com o objetivo de confundir o eleitorado???. As peças radiofônicas teriam lembrado o indiciamento do petista pela PF, por suposto envolvimento com a máfia dos vampiros, ao dizer, entre outras coisas, que “o povo não é burro. Humberto precisa provar que não está envolvido em formação de quadrilha, como diz a Pol?cia Federal???. </DIV></p>
 <p><DIV>&nbsp;</DIV></p>
 <p><DIV>Na representação, é pedido o direito de resposta em ambos os horários do guia proporcional da frente governista e, liminarmente, a suspensão imediata dos programas.</FONT></FONT></DIV> </p>
-{\% endraw %}
+{% endraw %}

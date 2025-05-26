@@ -1,0 +1,29 @@
+---
+id: 12387014
+date: "2008-03-13T20:11:00Z"
+last_modified_at: null
+tags:
+  - "marco-aurelio-mello"
+categories:
+  - "noticias"
+title: "Bancada do PT pede penalidade para Marco Aur\u00e9lio Mello "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Do <strong>site do PT</strong></font></p></p>
+<p><p><font face=\"Verdana\">Ap&oacute;s protocolar reclama&ccedil;&atilde;o contra o presidente do Tribunal Superior Eleitoral (TSE) e ministro do Supremo Tribunal Federal (STF), Marco Aur&eacute;lio Mello, o l&iacute;der do PT na C&acirc;mara, deputado Maur&iacute;cio Rands (PT-PE), explicou que &quot;n&atilde;o se trata de uma reclama&ccedil;&atilde;o contra o Poder Judici&aacute;rio, e sim contra um ato de excesso cometido por um de seus membros&quot;. </font></p></p>
+<p><p><font face=\"Verdana\">A a&ccedil;&atilde;o, protocolada no Conselho Nacional de Justi&ccedil;a (CNJ), nesta quinta-feira (13), pede aplica&ccedil;&atilde;o de &ldquo;penalidades compat&iacute;veis&rdquo; com a falha funcional do ministro, por ter exorbitado de suas fun&ccedil;&otilde;es constitucionais,o que, segundo o l&iacute;der, fere dispositivos da Lei Org&acirc;nica da Magistratura Nacional e da Carta Federal. </font></p></p>
+<p><p><font face=\"Verdana\">&quot;Queremos fazer um debate sobre como se deve dar o equil&iacute;brio entre os tr&ecirc;s poderes da Rep&uacute;blica. Avaliamos que a &uacute;ltima manifesta&ccedil;&atilde;o do ministro Marco Aur&eacute;lio exorbitou as atribui&ccedil;&otilde;es dos magistrados. Ele se pronunciou sobre uma mat&eacute;ria que depois viria ao tribunal para um julgamento do qual ele participaria. Queremos que o CNJ avalie o acontecido para que haja um debate no pa&iacute;s sobre os limites do papel do julgador&quot;, afirmou Rands. </font></p></p>
+<p><p><font face=\"Verdana\">A representa&ccedil;&atilde;o decidida pela bancada foi tomada com base em sugest&atilde;o dos deputados Fernando Ferro (PE) e Jos&eacute; Eduardo Cardozo (SP), que &eacute; tamb&eacute;m secret&aacute;rio-geral do partido. A reclama&ccedil;&atilde;o, assinada por 70 deputados petistas, foi motivada por um coment&aacute;rio do ministro sobre rec&eacute;m-lan&ccedil;ado Programa Territ&oacute;rios da Cidadania. </font></p></p>
+<p><p><font face=\"Verdana\">O ministro sugeriu a possibilidade de o programa ser contestado judicialmente por se tratar de um ano eleitoral. A declara&ccedil;&atilde;o, segundo Rands, teve repercuss&atilde;o jur&iacute;dica e gerou uma contesta&ccedil;&atilde;o do programa por parte da oposi&ccedil;&atilde;o. &ldquo;As declara&ccedil;&otilde;es do ministro foram quase um pr&eacute;-julgamento e serviram como senha para que os partidos de oposi&ccedil;&atilde;o questionassem o programa na Justi&ccedil;a&quot;, sublinhou o l&iacute;der do PT. &quot;Ao Judici&aacute;rio cabe controlar a legalidade dos atos dos demais poderes. Recebemos muitas manifesta&ccedil;&otilde;es de membros do pr&oacute;prio Judici&aacute;rio discordando dessas manifesta&ccedil;&otilde;es do ministro&rdquo;.</font></p></p>
+<p><p><font face=\"Verdana\">Rands lembrou que n&atilde;o &eacute; a primeira vez que o ministro extrapola suas atribui&ccedil;&otilde;es de julgador. Segundo ele, Marco Aur&eacute;lio Mello tem sido &ldquo;recorrente&rdquo; na falta. &ldquo;Ele se pronunciou sobre a CPFM e o Bolsa Fam&iacute;lia, ou seja, ele tem extrapolado, repetidas vezes, suas atribui&ccedil;&otilde;es como julgador. Essa representa&ccedil;&atilde;o vem com um &acirc;nimo pedag&oacute;gico e n&atilde;o retaliat&oacute;rio&quot;, explicou. </font></p></p>
+<p><p><font face=\"Verdana\">Interfer&ecirc;ncia<br /></p>
+<p>O deputado Marco Maia (PT-RS), que tamb&eacute;m comp&ocirc;s o grupo de parlamentares petistas que foi ao CNJ, criticou a postura do ministro. &quot;Cada poder tem que cumprir o seu papel da melhor maneira poss&iacute;vel. Cada um tem que assumir suas responsabilidade, seus erros e seus acertos. O que estamos assistindo &eacute; uma exorbita&ccedil;&atilde;o de um indiv&iacute;duo de um Poder que acaba se posicionando sobre quest&otilde;es que dizem respeito ao Legislativo e ao Executivo&quot;, reclamou. Marco Maia deixou claro que a reclama&ccedil;&atilde;o n&atilde;o deve ser vista como uma censura ao Judici&aacute;rio.</font></p></p>
+<p><p><font face=\"Verdana\">O deputado Fernando Ferro (PT-PE) classificou como inadequado o coment&aacute;rio do ministro a respeito do programa Territ&oacute;rios da Cidadania. &quot;N&atilde;o foi um fato isolado, mas sim, o ac&uacute;mulo de um comportamento de um membro da Corte que consideramos inadequado e incab&iacute;vel para uma Rep&uacute;blica que requer democracia. Um juiz da Suprema Corte tem que ter, acima de tudo, responsabilidade e credibilidade para julgar. N&atilde;o pode ficar emitindo pr&eacute;-julgamentos&quot;, disse.</font></p></p>
+<p><p><font face=\"Verdana\">A expectativa, segundo o deputado Miguel Correa Jr. (PT-MG), &eacute; que o CNJ tome as medidas cab&iacute;veis ao caso. &quot;A bancada cumpriu o seu papel ao apresentar a reclama&ccedil;&atilde;o contra o ministro Marco Aur&eacute;lio Mello. O que est&aacute; dentro da nossa compet&ecirc;ncia n&oacute;s fizemos, agora &eacute; obvio que o CNJ &eacute; que vai se pronunciar e propor alguma san&ccedil;&atilde;o administrativa ou n&atilde;o&quot;, afirmou. Os deputados petistas Luiz Couto (PB), Z&eacute; Geraldo (PA) e Eduardo Valverde (RO) tamb&eacute;m foram ao CNJ para protocolar a reclama&ccedil;&atilde;o. <br /></p>
+<p></font></p></p>
+<p><p><font face=\"Verdana\">Veja <a href=\"https://www.ptnacamara.org.br/noticia.php?id=582\"><strong>aqui a representa&ccedil;&atilde;o.</strong></a></font></p> </p>
+{% endraw %}

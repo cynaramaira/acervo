@@ -1,0 +1,25 @@
+---
+id: 12394432
+date: "2008-10-15T12:51:53Z"
+last_modified_at: null
+tags:
+  - "propaganda-eleitoral"
+categories:
+  - "noticias"
+title: "TSE deve alterar resolu\u00e7\u00e3o sobre propaganda eleitoral na web"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Um mandado de seguran&ccedil;a apresentado pelo jornal Estado de S&atilde;o Paulo S/A e pela Ag&ecirc;ncia Estado Ltda. questionando a constitucionalidade da resolu&ccedil;&atilde;o do TSE que disciplina a propaganda eleitoral e as condutas vedadas aos agentes p&uacute;blicos em campanha eleitoral (Resolu&ccedil;&atilde;o TSE 22.718/2008), levar&aacute; o TSE a alterar parte da norma para esclarecer que a veda&ccedil;&atilde;o restringe-se &agrave;s emissoras de r&aacute;dio e televis&atilde;o e a seus s&iacute;tios na internet.</p></p>
+<p><p>No mandado de seguran&ccedil;a, as empresas do Grupo Estado questionaram as restri&ccedil;&otilde;es impostas pelo artigo 21 da resolu&ccedil;&atilde;o quanto &agrave; veicula&ccedil;&atilde;o, na internet, de propaganda eleitoral, al&eacute;m da proibi&ccedil;&atilde;o de difus&atilde;o de opini&atilde;o favor&aacute;vel ou contr&aacute;ria a candidato, partido pol&iacute;tico ou coliga&ccedil;&atilde;o, a seus &oacute;rg&atilde;os e representantes, nas elei&ccedil;&otilde;es municipais de 2008.</p></p>
+<p><p>Embora o artigo questionado trate das restri&ccedil;&otilde;es relativas &agrave; programa&ccedil;&atilde;o normal e o notici&aacute;rio no r&aacute;dio e na TV, seu &uacute;ltimo par&aacute;grafo afirma que &ldquo;as disposi&ccedil;&otilde;es deste artigo aplicam-se &agrave;s p&aacute;ginas mantidas pelas empresas de comunica&ccedil;&atilde;o social na internet e demais redes destinadas &agrave; presta&ccedil;&atilde;o de servi&ccedil;os de telecomunica&ccedil;&otilde;es de valor adicionado&rdquo;.</p></p>
+<p><p>A defesa das empresas argumentou que, embora n&atilde;o perten&ccedil;am &agrave; categoria de radiodifus&atilde;o, det&eacute;m sitos na internet (dom&iacute;nios &lsquo;lim&atilde;o.com.br&rsquo;, &lsquo;estadao.com.br&rsquo;, &lsquo;estado.com.br&rsquo;, &lsquo;jornaldatarde.com.br&rsquo;, &lsquo;agestado.com.br&rsquo;, &lsquo;ae.com.br&rsquo;, &lsquo;agenciaestado.com.br&rsquo; e &lsquo;jt.com.br&rsquo;), e a restri&ccedil;&atilde;o quanto aos s&iacute;tios mantidos pelas empresas de comunica&ccedil;&atilde;o social na internet violam seu&nbsp; direito &agrave; livre informa&ccedil;&atilde;o e opini&atilde;o.</p></p>
+<p><p>Embora o ministro relator, Marcelo Ribeiro, tenha negado seguimento ao mandado de seguran&ccedil;a por quest&otilde;es processuais (j&aacute; que n&atilde;o &eacute; cab&iacute;vel mandado de seguran&ccedil;a contra lei em tese), e essa decis&atilde;o tenha sido confirmada hoje pelo plen&aacute;rio do TSE, o julgamento do agravo levou o presidente do Tribunal Superior Eleitoral, ministro Carlos Ayres Britto (foto), a propor, por meio de quest&atilde;o de ordem ap&oacute;s um pedido de vista, a altera&ccedil;&atilde;o da Resolu&ccedil;&atilde;o 22.718/2008 para torn&aacute;-la mais clara.</p></p>
+<p><p>Segundo o ministro Ayres Britto, na qualidade de ve&iacute;culos de comunica&ccedil;&atilde;o que se dedicam &agrave; imprensa escrita, as empresas do Grupo Estado n&atilde;o dependem de licen&ccedil;a governamental, ao contr&aacute;rio de emissoras de r&aacute;dio e televis&atilde;o, que s&atilde;o servi&ccedil;os p&uacute;blicos outorgados por meio de concess&atilde;o ou permiss&atilde;o pelo governo federal. Por esse motivo, &eacute; vedado &agrave;s emissoras de r&aacute;dio e TV exercer qualquer influ&ecirc;ncia nas disputas eleitorais.</p></p>
+<p><p>&ldquo;Ao contr&aacute;rio das emissoras de r&aacute;dio e televis&atilde;o, a imprensa escrita desfruta do mais desembara&ccedil;ado tratamento jur&iacute;dico em tema de liberdade de pensamento, de comunica&ccedil;&atilde;o e de informa&ccedil;&atilde;o. Da&iacute; n&atilde;o me parecer constitucionalmente defens&aacute;vel&nbsp; submet&ecirc;-la &agrave; veda&ccedil;&atilde;o do par&aacute;grafo quinto do artigo 21 da Resolu&ccedil;&atilde;o 22.718&rdquo;, afirmou o presidente do TSE, ressaltando a import&acirc;ncia da liberdade de imprensa, especialmente em per&iacute;odo eleitoral.</p></p>
+<p><p>O ministro Carlos Ayres Britto sugeriu que dois dispositivos da resolu&ccedil;&atilde;o sejam alterados de modo a esclarecer que as veda&ccedil;&otilde;es restringem-se &agrave;s emissoras de r&aacute;dio e TV: o par&aacute;grafo terceiro do artigo 20 e o par&aacute;grafo quinto do artigo 21. As altera&ccedil;&otilde;es na reda&ccedil;&atilde;o ser&atilde;o propostas pelo presidente do TSE na sess&atilde;o administrativa na pr&oacute;xima quinta-feira (16).&nbsp;</p></p>
+<p><p>Informa&ccedil;&otilde;es do TSE</p> </p>
+{% endraw %}

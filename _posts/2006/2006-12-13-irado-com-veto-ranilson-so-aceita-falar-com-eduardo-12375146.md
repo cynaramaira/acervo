@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P></p>
 <p><P><FONT face=Verdana></FONT></P><FONT face=Verdana>Por <B>Cec?lia Ramos</B><BR>Repórter do Blog</FONT> </p>
@@ -27,4 +27,4 @@ imagem: null
 <p> deverá apoiar um dos tios, Geraldo ou Osvaldo, e Ranilson apoiará a provável candidatura do deputado federal Gonzaga Patriota. </FONT></P></p>
 <p><P><FONT face=Verdana>A tarefa é como Eduardo vai desatar o nó, sem \"magoar\" um ou outro aliado. </FONT></P></p>
 <p><P><FONT face=Verdana>Arraesista histórico, Ranilson foi ex-assessor especial de Eduardo no ministério da Ciência e Tecnologia e, nesta eleição ao governo de Pernambuco, coordenou a campanha do neto de Miguel Arraes no Sertão.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Ficaram clar?ssimos os tons que Mendonça Filho (PFL) e Eduardo Campos (PSB) darão às suas campanhas neste segundo turno da disputa pelo governo de Pernambuco.</FONT></P></p>
 <p><P><FONT face=Verdana>A propaganda eleitoral desta noite, no horário mais importante da TV, encerrada há pouco, mostrou bem isso. </FONT></P></p>
 <p><P><FONT face=Verdana>Enquanto Eduardo carrega na emoção, ressalta os apoios, a unidade da oposição e de Lula em torno dele, Mendonça busca mostrar-se como um governador de fato, com obras próprias - além das de Jarbas - e ataca a oposição em pelo menos dois fronts bem definidos.</FONT></P></p>
@@ -37,4 +37,4 @@ imagem: null
 <p><P><FONT face=Verdana>A de Eduardo seguirá pelo caminho inverso, do bom humor, do alto astral, da soma, do olhar para o futuro.</FONT></P></p>
 <p><P><FONT face=Verdana>Agora é esperar os próximos lances e os resultados que cada programa trará. </FONT></P></p>
 <p><P><FONT face=Verdana>Campanha pol?tica tem vida própria, vai se construindo e se modificando a cada lance novo.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

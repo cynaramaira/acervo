@@ -14,6 +14,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana>O bom nesse debate é a imagem de um e outro que ouve a pergunta do adversário.</FONT> </p>
-{\% endraw %}
+{% endraw %}

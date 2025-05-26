@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por<STRONG> Luciano Siqueira<BR></STRONG>Vice-prefeito do Recife</FONT></P></p>
 <p><P><FONT face=Verdana>O segundo turno no pleito presidencial teve, num primeiro momento, um impacto negativo entre as forças pol?ticas e sociais que defendiam a reeleição do presidente Lula. Em pouco mais de uma semana a diferença tanto em relação a Alckmin como aos demais concorrentes, que era larga e suficiente para liquidar a parada já no primeiro turno, se reduziu consideravelmente, causando uma impressão de que a ascensão do tucano prosseguiria. </FONT></P></p>
 <p><P><FONT face=Verdana>A tradição de pleitos muito disputados indica que quem passa ao turno seguinte em desvantagem, mas crescendo, ultrapassa o adversário e vence. Salvo quando a distância é muito dilatada, como ocorreu entre o próprio Lula e Serra, em 2002.</FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>A popularização desses temas contribui sensivelmente para a elevação do n?vel de compreensão pol?tica da população.</FONT></P></p>
 <p><P><FONT face=Verdana>Para o presidente reeleito o segundo turno ensejou que alargasse a frente pol?tica e social que o apoiava, além de conquistar consagradores 58 milhões de votos. Elegeu-se, então, com base de sustentação muito mais sólida do que há quatro anos atrás. E também com compromissos mais n?tidos perante o eleitorado. O que lhe confere uma renovada e mais consistente responsabilidade histórica.</FONT></P></p>
 <p><P><FONT face=Verdana>*<STRONG>Luciano Siqueira</STRONG>, 60, médico, é vice-prefeito do Recife há duas gestões. Foi candidato a senador pelo PCdoB, na última eleição, e deputado estadual em Pernambuco nos anos 80.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

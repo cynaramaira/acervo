@@ -1,0 +1,30 @@
+---
+id: 12388357
+date: "2008-04-29T08:20:00Z"
+last_modified_at: null
+tags:
+  - "divida"
+  - "trabalho"
+categories:
+  - "noticias"
+title: "Sa\u00fade e qualidade de vida no trabalho"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Por <strong>Isaltino Nascimento</strong></font></p></p>
+<p><p><font face=\"Verdana\">Ao refletir que passamos a maior parte do tempo no trabalho &eacute; f&aacute;cil constatar o quanto &eacute; importante que neste ambiente sejam proporcionadas condi&ccedil;&otilde;es necess&aacute;rias para o nosso bem-estar. Assim, vemos o quanto trabalho e sa&uacute;de est&atilde;o intimamente ligados. Por isso, a import&acirc;ncia de estar atento ao espa&ccedil;o laboral e lutar sempre para evitar que condi&ccedil;&otilde;es f&iacute;sicas, ps&iacute;quicas e sociais sejam afetadas. Isso garante qualidade de vida.</font></p></p>
+<p><p><font face=\"Verdana\">A discuss&atilde;o sobre a tem&aacute;tica n&atilde;o &eacute; nova. Pelo contr&aacute;rio, &eacute; uma bandeira empunhada por trabalhadores do mundo inteiro h&aacute; d&eacute;cadas. Contudo, ainda h&aacute; um longo caminho a percorrer para que a oferta de condi&ccedil;&otilde;es dignas de trabalho seja regra e n&atilde;o exce&ccedil;&atilde;o, como foi cobrado ontem, no Dia Mundial em Mem&oacute;ria das V&iacute;timas de Doen&ccedil;as e Acidentes de Trabalho, em audi&ecirc;ncia p&uacute;blica na Assembl&eacute;ia Legislativa. </font></p></p>
+<p><p><font face=\"Verdana\">Prova disso s&atilde;o os n&uacute;meros alarmantes divulgados pelo Minist&eacute;rio da Sa&uacute;de, que s&oacute; dizem respeito a um ter&ccedil;o da Popula&ccedil;&atilde;o Economicamente Ativa (PEA) do Pa&iacute;s, ou seja, os profissionais de carteira assinada. Pelos dados, cerca de 500 mil pessoas, por ano, sofrem por conta de acidente ou enfermidade causada pela atividade que exercem. De 1999 a 2005 foram registrados 3.133 milh&otilde;es de acidentes de trabalho, com 23.514 mortes e 111.963 casos de incapacidade permanente.</font></p></p>
+<p><p><font face=\"Verdana\">Vale lembrar que entre as notifica&ccedil;&otilde;es de enfermidades h&aacute; aquelas provocadas pelo ass&eacute;dio moral, ou seja, conseq&uuml;entes dos danos sofridos por quem &eacute; submetido a situa&ccedil;&otilde;es repetitivas de constrangimento e humilha&ccedil;&atilde;o no ambiente de trabalho. Que s&atilde;o mais comuns do que imaginamos. Por isso, a import&acirc;ncia de leis r&iacute;gidas para conter este e outros tipos de infra&ccedil;&otilde;es que muitas vezes p&otilde;em em risco a vida dos trabalhadores.</font></p></p>
+<p><p><font face=\"Verdana\">No caso do ass&eacute;dio moral, Pernambuco deu um passo importante com a regulamenta&ccedil;&atilde;o da Lei 13.314/07, de minha autoria, que co&iacute;be a pr&aacute;tica no servi&ccedil;o p&uacute;blico estadual. Desta forma, passou &agrave; condi&ccedil;&atilde;o de primeiro Estado do Pa&iacute;s a ter instrumento legal de combate ao ass&eacute;dio moral. Rio de Janeiro e S&atilde;o Paulo possuem legisla&ccedil;&atilde;o semelhante, mas que n&atilde;o est&aacute; sendo aplicada por falta de regulamenta&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\">A lei visa a impedir que os servidores estaduais tenham o desempenho de suas fun&ccedil;&otilde;es prejudicado por danos provocados &agrave; integridade f&iacute;sica ou ps&iacute;quica em fun&ccedil;&atilde;o de casos de abuso de autoridade, prevendo que as den&uacute;ncias sejam investigadas por uma comiss&atilde;o no &oacute;rg&atilde;o onde foi gerada a den&uacute;ncia, e punidas caso sejam comprovadas.</font></p></p>
+<p><p><font face=\"Verdana\">Um outro passo foi o lan&ccedil;amento, ontem, pela Secretaria Estadual de Sa&uacute;de (SES) do Programa Sentinela, que capacitar&aacute; profissionais da &aacute;rea hospitalar com vistas a obter um maior controle estat&iacute;stico sobre as principais causas e tratamentos relacionados aos problemas de sa&uacute;de do trabalhador. A necessidade de mais informa&ccedil;&otilde;es se deve ao fato da SES trabalhar apenas com dados baseados nos informes do Instituto Nacional do Seguro Social (INSS), que s&oacute; incluem parte dos trabalhadores registrados na Previd&ecirc;ncia Social com carteira assinada.</font></p></p>
+<p><p><font face=\"Verdana\">Os sentinelas, ou seja, profissionais capacitados para identificar este tipo de problema, v&atilde;o atuar em 30 unidades hospitalares, de Fernando de Noronha &agrave; Petrolina. A miss&atilde;o deles &eacute; identificar, prevenir e tratar as doen&ccedil;as que afetam a sa&uacute;de do trabalhador, numa parceria com o governo federal, que pretende aumentar o controle do informe destas incid&ecirc;ncias. </font></p></p>
+<p><p><font face=\"Verdana\">Entre os atendimentos cl&iacute;nicos e emergenciais, o foco estar&aacute; no ass&eacute;dio moral, acidentes de trabalho e nas doen&ccedil;as relacionadas ao trabalho, como dermatites e at&eacute; mesmo o c&acirc;ncer. Cada unidade Sentinela ser&aacute; composta por enfermeiros, assistentes sociais, m&eacute;dicos, t&eacute;cnicos de enfermagem, digitadores e recepcionistas, num investimento de R$ 3,3 milh&otilde;es.</font></p></p>
+<p><p><font face=\"Verdana\">Estes s&atilde;o avan&ccedil;os significativos, mas como disse no in&iacute;cio deste artigo &eacute; preciso estar atento e exigir condi&ccedil;&otilde;es dignas de trabalho. Afinal, sa&uacute;de &eacute; um direito de todos. </font></p></p>
+<p><p><font face=\"Verdana\">PS: Isaltino Nascimento (</font><a href=\"https://www.isaltinopt.com.br\"><font face=\"Verdana\">www.isaltinopt.com.br</font></a><font face=\"Verdana\">), deputado estadual pelo PT e l&iacute;der do governo na Assembl&eacute;ia Legislativa, escreve para o Blog todas &agrave;s ter&ccedil;as-feiras. <br /></p>
+<p></font></p> </p>
+{% endraw %}

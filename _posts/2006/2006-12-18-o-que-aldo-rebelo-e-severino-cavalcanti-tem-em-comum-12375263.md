@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana><FONT size=2></p>
 <p><P><FONT face=Verdana><EM>\"Vista em perspectiva, a eleição de Severino Cavalcanti, em 2005, foi a expressão sintomática do camelódromo em que a Câmara se transformara. A farra do baixo clero que ele representava teve vida curta. Mas o que representam hoje Aldo (Rebelo) e Renan (Calheiros), senão a \"severinização\" do Congresso como instituição?\"</EM></FONT></P></p>
 <p><P>A frase é do jornalista Fernando de Barros e Silva, na Folha de São Paulo de hoje (postamos mais cedo no Blog do JC).</P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P>O presidente da Câmara&nbsp;jogou para&nbsp;os l?deres partidários a responsabilidade de&nbsp;colocar ou não na pauta de votações do plenário do projeto de decreto legislativo do deputado Walter Pinheiro (PT-BA) que propõe anular a decisão das Mesas da Câmara e do Senado de reajustar os salários dos parlamentares em 90,7%. </P></p>
 <p><P>A idéia de Pinheiro é a de vincular a correção dos salários dos parlamentares ao ?ndice da inflação. \"O que vier com o apoio dos l?deres eu ponho na pauta. Eu tenho conduzido os trabalhos com o apoio dos l?deres\", afirmou Rebelo. <FONT size=1>(Fonte: Agência Estado)</FONT></P></p>
 <p><P>(Por Cec?lia Ramos)</P></FONT></FONT> </p>
-{\% endraw %}
+{% endraw %}

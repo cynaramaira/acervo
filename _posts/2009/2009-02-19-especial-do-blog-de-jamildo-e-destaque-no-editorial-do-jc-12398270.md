@@ -1,0 +1,29 @@
+---
+id: 12398270
+date: "2009-02-19T11:16:00Z"
+last_modified_at: null
+tags:
+  - "blogs-jc"
+  - "editorial"
+  - "google-destaques"
+  - "grupo-especial"
+categories:
+  - "noticias"
+title: "Especial do Blog de Jamildo \u00e9 destaque no editorial do JC"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Responsabilidade social</p></p>
+<p><p>O sistema penitenci&aacute;rio brasileiro &eacute; dos mais obsoletos sob o aspecto da oportunidade de ressocializa&ccedil;&atilde;o dos apenados. E sabemos que o delinquente n&atilde;o &eacute; sentenciado &agrave; pris&atilde;o unicamente para pagar pelo seu erro, ser punido, mas tamb&eacute;m para passar por um processo de reintegra&ccedil;&atilde;o &agrave; sociedade. Na realidade, o que acontece entre n&oacute;s &eacute; que o prisioneiro sai da pris&atilde;o revoltado, magoado com injusti&ccedil;as praticadas por diretores e carcereiros e, frequentemente, predisposto &agrave; reincid&ecirc;ncia no crime, com raras exce&ccedil;&otilde;es. Ao recuperar a liberdade, fica marcado pelo estigma de haver passado pela pris&atilde;o e &eacute; rejeitado na busca de emprego e no conv&iacute;vio social. Nas pris&otilde;es brasileiras, al&eacute;m disso, estabeleceu-se um costume peculiar em que criminosos continuam praticando crimes e at&eacute; comandando quadrilhas, o que &eacute; muito comum no setor do crime organizado.<br /></p>
+<p><br /></p>
+<p>Normalmente, as chances de um ex-detento conseguir vaga no mercado de trabalho s&atilde;o raras. E &eacute; com satisfa&ccedil;&atilde;o que saudamos a exce&ccedil;&atilde;o revelada no <b>Blog do Jamildo</b>, &agrave; qual tamb&eacute;m o<b> Jornal do Commercio</b> dedicou, h&aacute; poucos dias, uma reportagem. Sabemos que o nosso Estado carrega uma estat&iacute;stica cruel e vergonhosa: &eacute; onde se matam mais seres humanos no Pa&iacute;s. Infelizmente, quanto a isso, ainda prevalecem discursos, sem solu&ccedil;&otilde;es pr&aacute;ticas capazes de combater eficazmente e conter a criminalidade em geral. Certamente a recupera&ccedil;&atilde;o e ressocializa&ccedil;&atilde;o do detento dariam uma grande contribui&ccedil;&atilde;o no sentido de afastar o ex-preso do mundo do crime, sobretudo se ele for bem acolhido na sua volta ao conv&iacute;vio social e ao mercado de trabalho.</p></p>
+<p><p>Pelas revela&ccedil;&otilde;es de que falamos acima, ficamos sabendo que numa ind&uacute;stria t&ecirc;xtil pernambucana, a Brastex, se criou um clima para que aqueles que foram condenados, presos e recuperaram a liberdade tenham uma oportunidade de resgatar sua autoestima e cidadania atrav&eacute;s do trabalho. Os respons&aacute;veis por essa empresa, situada em Paulista, imbu&iacute;dos do esp&iacute;rito de responsabilidade social, al&eacute;m de utilizar a m&atilde;o de obra dos ainda apenados, assumiu o compromisso de assinar a carteira de trabalho daqueles que prestaram servi&ccedil;os na f&aacute;brica e depois foram libertados.</p></p>
+<p><p>O diretor Ant&ocirc;nio Cl&aacute;udio Cavalcanti J&uacute;nior leva muito a s&eacute;rio esse compromisso social, que j&aacute; herdou de seu antecessor no controle da ind&uacute;stria, S&iacute;lvio Chaves. Chega a dar prefer&ecirc;ncia para contrata&ccedil;&atilde;o a ex-detentos que cometeram homic&iacute;dios, por serem &ldquo;os que mais precisam, aqueles que foram l&aacute; no fundo do po&ccedil;o mesmo, fizeram o pior que podia ser feito&rdquo;. Apesar de haver quem considere essa preocupa&ccedil;&atilde;o social um caminho certo para o fracasso empresarial, a Brastex faturou, no ano passado, R$ 10 milh&otilde;es, e o planejamento para este ano prev&ecirc; o dobro. O diretor planeja tamb&eacute;m aumentar o n&uacute;mero de contrata&ccedil;&otilde;es de ex-detentos, fazer crescer a exporta&ccedil;&atilde;o de tecidos para outros Estados e para o exterior, e ainda diversificar a produ&ccedil;&atilde;o.</p></p>
+<p><p>Quando vemos um exemplo como este de responsabilidade social, somos confrontados com a realidade da obsolesc&ecirc;ncia do nosso sistema penitenci&aacute;rio. E ficamos assombrados com a grande quantidade de pessoas comprovadamente e confessadamente criminosas que ser&atilde;o restitu&iacute;das ao conv&iacute;vio social, sem nenhuma reeduca&ccedil;&atilde;o, ap&oacute;s a recente decis&atilde;o do Supremo Tribunal Federal (STF) de permitir que r&eacute;us j&aacute; condenados continuem em liberdade, ou voltem &agrave; liberdade, at&eacute; se esgotarem todas as possibilidades de recurso. Com a lentid&atilde;o com que se move a Justi&ccedil;a no Brasil, criminosos at&eacute; flagrados e confessos poder&atilde;o conviver em sociedade a vida inteira, pois a &uacute;ltima senten&ccedil;a, quando a condena&ccedil;&atilde;o transita em julgado, n&atilde;o os alcan&ccedil;ar&aacute; em vida.</p></p>
+<p><p>Essa &eacute; a opini&atilde;o at&eacute; de ministros do STF que votaram contra a decis&atilde;o. Mas a OAB a classifica como &ldquo;coerente com o Estado democr&aacute;tico de Direito&rdquo;. Grande parte dos advogados ganha a vida defendendo criminosos e cavando a protela&ccedil;&atilde;o de decis&otilde;es judiciais. Essa decis&atilde;o do Supremo pode at&eacute; desafogar, ou esvaziar, nossas pris&otilde;es. Mas suspeita-se que tamb&eacute;m ser&aacute; um incentivo &agrave; impunidade de quem pode pagar um bom advogado. <br /></p>
+<p><br /></p>
+<p>Leia <b><a href="https://jc3.uol.com.br/blogs/blogjamildo/canais/especial/index.php">aqui</a></b> o especial do Blog&nbsp;&quot;Trabalho, arma para recupera&ccedil;&atilde;o social&quot;</p> </p>
+{% endraw %}

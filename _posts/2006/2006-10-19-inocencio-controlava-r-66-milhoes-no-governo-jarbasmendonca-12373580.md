@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Segundo deputado federal mais votado de Pernambuco, Inocêncio Oliveira (PL) tornou-se s?mbolo de uma turma que todo mundo quer ter no palanque - pelo menos queria -, mas faz de tudo para que isso aconteça em segredo ou sem grande publicidade.</FONT></P></p>
 <p><P><FONT face=Verdana>A turma é composta principalmente por Severino Cavalcanti e Pedro Corrêa (PP). São dois ex-deputados federais que se enrolaram, e muito, com escândalos no Congresso Nacional.</FONT></P></p>
 <p><P><FONT face=Verdana>Cavalcanti precisou renunciar à presidência da Câmara e ao mandato para não ser cassado, depois de ter sido apontado como beneficiário de um mensalinho.</FONT></P></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana>Agora é socialista desde criancinha. E é Lula até debaixo d’água.</FONT></P><BR><BR></p>
 <p><OBJECT height=350 width=425><PARAM NAME=\"movie\" VALUE=\"https://www.youtube.com/v/95rEDnqD6WU\"><PARAM NAME=\"wmode\" VALUE=\"transparent\"></p>
 <p><embed src=\"https://www.youtube.com/v/95rEDnqD6WU\" type=\"application/x-shockwave-flash\" wmode=\"transparent\" width=\"425\" height=\"350\"></embed></OBJECT> </p>
-{\% endraw %}
+{% endraw %}

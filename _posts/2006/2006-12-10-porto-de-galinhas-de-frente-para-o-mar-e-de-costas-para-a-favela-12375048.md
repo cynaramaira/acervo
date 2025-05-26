@@ -14,7 +14,7 @@ chapeu: null
 autor: "jc"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>&nbsp;<br /></p>
 <p>Por <strong>Pierre Lucena*</strong><br />Professor e administrador <br /><a href="#">pierre.lucena@contagemweb.com.br</a></p>
 <p align="justify"><em>Em 2003, o <strong>UM-Habitat</strong>, Programa das Na&ccedil;&otilde;es Unidas para as Favelas, lan&ccedil;ou um relat&oacute;rio chamado The Challenge of Slums, algo como "O Desafio das Favelas", retratando as mazelas das sociedades tomadas pelos assentamentos de baixa renda.</em></p>
@@ -50,4 +50,4 @@ imagem: null
 <p align="justify"><em>O triste &eacute; ver isso acontecer e saber onde vai chegar. N&atilde;o podemos aceitar a favela como o futuro urbano de Porto de Galinhas. Muito menos olhar para o mar, ficando de costas para a favela.</em></p>
 <p>&nbsp;<br /></p>
 <p><em>*Pierre Lucena, 35, doutor em finan&ccedil;as pela PUC-Rio, Mestre em Economia e Administrador pela UFPE, &eacute; professor-adjunto da Universidade Federal de Pernambuco, s&oacute;cio da Contagem Consultoria Estrat&eacute;gica e Pesquisa. Foi secret&aacute;rio-adjunto de Educa&ccedil;&atilde;o do Estado. &Eacute; Coordenador do N&uacute;cleo de Finan&ccedil;as e Investimentos do Departamento de Ci&ecirc;ncias Administrativas da UFPE (NEFI).</em></p>
-{\% endraw %}
+{% endraw %}

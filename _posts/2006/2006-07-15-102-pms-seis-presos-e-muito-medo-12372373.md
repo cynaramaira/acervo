@@ -13,6 +13,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>O cinegrafista é do guia. O resto, do Estado. </p>
-{\% endraw %}
+{% endraw %}

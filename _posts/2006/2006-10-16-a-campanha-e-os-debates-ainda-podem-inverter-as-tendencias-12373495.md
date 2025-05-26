@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Acabei de postar na seção artigos, na coluna ao lado, uma análise de Túlio Velho Barreto sobre as expectativas para o debate desta noite, na TV Clube, o primeiro do segundo turno&nbsp;entre Eduardo Campos (PSB) e Mendonça Filho (PFL).</FONT></P></p>
 <p><P><FONT face=Verdana>Abaixo alguns trechos do texto. Boa leitura.</FONT></P><FONT face=Verdana></p>
 <p><P>-----------------------------</P></FONT><FONT color=#333333></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Isso não significa, no entanto, que a disputa esteja liquidada a favor do socialista, mas, apenas, que para tirar uma diferença de 20% ou mais é necessário inverter todas as tendências identificadas até o momento por diferentes institutos de pesquisa. Os debates podem até ajudar a mudar um pouco o quadro, mas só alguns <I>tsunamis, e </I>de grandes proporções, parecem ser capaz, a pouco menos de duas semanas do segundo turno, a alterar tais tendências. E o governador Mendonça Filho e seu estafe sabem bem que a primeira das raras chances de que dispõem é o debate de hoje, na TV Clube. Portanto, vamos aguardá-lo. A noite promete. </FONT></P><I></p>
 <p><P><FONT face=Verdana>PS. No último dia 12, escrevi um artigo para este <B>Blog</B> destacando que a m?dia impressa pernambucana agiu de forma desigual em relação à pesquisa do Ibope/Rede Globo sobre a eleição no Estado divulgada no dia anterior. E citei o fato de o Diario não ter feito qualquer menção à referida pesquisa. Posteriormente, fui informado que, desde a criação do Data Associados, o Diario não mais publica os resultados de pesquisas que não sejam realizadas pelo instituto de pesquisa do Grupo Associados, do qual faz parte.</FONT></P></I></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/10/16/not_2429.php\" target=_blank>aqui</A></EM></STRONG> o artigo completo.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

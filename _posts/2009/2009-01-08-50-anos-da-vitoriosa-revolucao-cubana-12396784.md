@@ -1,0 +1,24 @@
+---
+id: 12396784
+date: "2009-01-08T12:07:43Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "noticias"
+title: "50 anos da vitoriosa revolu\u00e7\u00e3o cubana"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Expedito Solaney*</p></p>
+<p><p>O companheiro Raul Castro, ante a realidade atual e consciente da perspectiva de dar continuidade ao legado da revolu&ccedil;&atilde;o, diz que tem de trabalhar unido para seguir adiante com o mesmo esp&iacute;rito de luta e firmeza destes 50 anos de conquistas, resist&ecirc;ncia, avan&ccedil;os e, sobretudo da solidariedade. Cuba est&aacute; saindo de per&iacute;odo dif&iacute;cil por motivos dos desastres naturais, foi fortemente atingida por tr&ecirc;s furac&otilde;es de grandes propor&ccedil;&otilde;es em 2008, destruindo parte de sua infraestrutura e habita&ccedil;&otilde;es. O mundo inteiro se solidarizou num gesto de reciprocidade com um pa&iacute;s que tem a solidariedade como marca. Cuba sobreviveu a outras longas e piores tentativa de destrui&ccedil;&atilde;o, sair&aacute; desta tamb&eacute;m!</p></p>
+<p><p>Influenciados por um modelo ou padr&atilde;o de not&iacute;ciais, a imprensa tem pautado o anivers&aacute;rio da revolu&ccedil;&atilde;o cubana com dois eixos, o primeiro que n&atilde;o existe democracia na ilha e o segundo que o novo presidente dos Estados Unidos pretende rever embargo com uma condi&ccedil;&atilde;o: garantir a democracia na ilha. Nenhuma mat&eacute;ria fala dos indicadores sociais nem da felicidade e orgulhos que os cubanos tem da revolu&ccedil;&atilde;o, &eacute; incr&iacute;vel, as mat&eacute;rias sempre tratam de denegrir a imagem de Cuba e das conquistas resultantes da revolu&ccedil;&atilde;o, tentam passar a imagem de mis&eacute;ria e dizer que existe ali uma ditadura. O povo cubano n&atilde;o &eacute; passivo e a revolu&ccedil;&atilde;o foi constru&iacute;da justamente para derrubar um despota que transformou a ilha em um cassino.</p></p>
+<p><p>Os cubanos t&ecirc;m um n&iacute;vel cultural bem acima da m&eacute;dia do povo brasileiro, essa &eacute; uma constata&ccedil;&atilde;o irrefut&aacute;vel. Tive a oportunidade de ir a Cuba recentemente para participar do VII encontro hemisf&eacute;rico contra os tratados de livre com&eacute;rcio &ndash; promovido pela Alian&ccedil;a Social Continental e organizado pela Central de Trabalhadores de Cuba, e, nesta oportunidade conheci escolas, entrei em diversos lugares, conversei com cubanos de forma tranq&uuml;ila e fui muito bem recebido por aquele educado e culto povo.</p></p>
+<p><p>Procurei crian&ccedil;as e adultos de p&eacute;s no ch&atilde;o, mendigando, dormindo debaixo de marquises, casas miser&aacute;veis. Mas, como bem informa o governo em vistosas propagandas que s&oacute; elevam a autoestima daquele povo:&rdquo;Esta noite, 200 milh&otilde;es de crian&ccedil;as dormir&atilde;o nas ruas do mundo. Nenhuma &eacute; cubana&quot;. Outra: &quot;A cada ano, 80 mil crian&ccedil;as morrem v&iacute;timas de doen&ccedil;as evit&aacute;veis. Nenhuma delas &eacute; cubana&quot;. Sabemos que milhares delas s&atilde;o brasileiras, a 8&ordf; economia do mundo.</p></p>
+<p><p>O processo eleitoral, onde se elege o Parlamento, contou com 95% de participa&ccedil;&atilde;o no processo eleitoral em 2008, e l&aacute; o voto n&atilde;o &eacute; obrigat&oacute;rio. O Partido Comunista Cubano n&atilde;o &eacute; uma organiza&ccedil;&atilde;o eleitoral e, portanto, n&atilde;o se apresenta nas elei&ccedil;&otilde;es e nem postula candidatos. Os candidatos s&atilde;o tirados diretamente de assembl&eacute;ias p&uacute;blicas nas diversas formas de organiza&ccedil;&otilde;es existentes: do bairro, das mulheres, jovens, estudantes, campesinas, que depois v&atilde;o se reunindo por regi&atilde;o, Estado e finalmente, no n&iacute;vel nacional. Estes representantes nacionais elegem o presidente e o vice.</p></p>
+<p><p>&nbsp;Todos os representantes podem ser destitu&iacute;dos, a qualquer momento, pelas suas bases, caso n&atilde;o estejam respondendo ao projeto de sua elei&ccedil;&atilde;o. No processo de 2008, 46% dos eleitos s&atilde;o mulheres (e no Brasil conseguimos as cotas de 30% para concorrer!!). As estruturas de funcionamento s&atilde;o mais pr&oacute;ximas de uma democracia direta e participativa. Parece-me um contra-senso chamar este processo de anti-democratico ou de ditadura. Seguramente, &eacute; diferente da democracia burguesa, em que ap&oacute;s colocar o voto na urna &quot;finda&quot; a obriga&ccedil;&atilde;o do eleitor.</p></p>
+<p><p>Continua abaixo</p> </p>
+{% endraw %}

@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O senador Marco Maciel (PFL), cotado para assumir a presidência do Senado e pela primeira vez vivendo na oposição nos três n?veis (federal, estadual e municipal - Recife), foi homenageado ontem, em Pernambuco, pelos seus 40 anos de vida pública.</FONT></P></p>
 <p><P><FONT face=Verdana>Veja o que ele disse ao repórter especial Sérgio Montenegro Filho, publicado no Jornal do Commercio de hoje:</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>PFL PÓS-DERROTA </STRONG></FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>PRESIDÊNCIA DO SENADO</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>“Não me coloquei como candidato (à presidência da Casa). Meu nome tem sido lembrado não por algum gesto meu ou por iniciativa minha ou de amigos meus. Meu nome surge em conseqüência de lembranças de algumas pessoas e do noticiário dos jornais. Quero deixar claro isso: não estou postulando???.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/11/09/not_208013.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

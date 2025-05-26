@@ -15,8 +15,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Começou o guia eleitoral no rádio para governador, senador e deputado estadual. É o primeiro.</FONT></P></p>
 <p><P><FONT face=Verdana>O pessoal de Eduardo Campos não mandou o programa.&nbsp;Deve ter tido algum problema sério.</FONT></P></p>
 <p><P><FONT face=Verdana>E o programa de Mendonça começou forte, investindo na área social - o avanço, segundo o programa, a partir dos inestimentos feitos por Jarbas.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

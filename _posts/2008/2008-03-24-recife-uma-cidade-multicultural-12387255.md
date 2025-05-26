@@ -1,0 +1,36 @@
+---
+id: 12387255
+date: "2008-03-24T08:28:00Z"
+last_modified_at: null
+tags:
+  - "cidades"
+  - "recife"
+categories:
+  - "eleicoes"
+title: "Recife, uma cidade multicultural"
+sutia: null
+chapeu: null
+autor: "jc"
+imagem: null
+---
+{% raw %}
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p align="">Por Jo&atilde;o da Costa</p>
+<p align="">O Recife acaba de comemorar seus 471 anos em alto estilo. O ponto alto da comemora&ccedil;&atilde;o foi a apresenta&ccedil;&atilde;o da Orquestra Sinf&ocirc;nica da nossa cidade junto com Edu Lobo no Cais da Alf&acirc;ndega. Num dos espa&ccedil;os mais significativos da nossa mem&oacute;ria hist&oacute;rica e arquitet&ocirc;nica, saudamos mais um ano de vida de uma cidade marcada por sua diversidade cultural, com qualidade musical e rever&ecirc;ncia &agrave;s suas formas.</p>
+<p align="">Mas, de onde surge a forma das cidades? A forma das cidades n&atilde;o pertence nem &agrave; geometria nem ao conhecimento arquitet&ocirc;nico. Ela sempre se desenvolve, ao longo do tempo, a partir de seus valores culturais.</p>
+<p align="">Mesmo diante de um modelo global de reprodu&ccedil;&atilde;o de cidades baseado na tecnologia e organiza&ccedil;&atilde;o espacial em que os valores culturais s&atilde;o submetidos cotidianamente a pasteuriza&ccedil;&atilde;o, a diferencia&ccedil;&atilde;o continua se dando a partir daquilo que &eacute; espec&iacute;fico e caracter&iacute;stico de cada lugar.</p>
+<p>Por isso mesmo a prioridade que a gest&atilde;o do prefeito Jo&atilde;o Paulo tem dado &agrave; pol&iacute;tica cultural. Valorizando os aspectos tradicionais da nossa cultura, sem perder de vista nossa voca&ccedil;&atilde;o cosmopolita, ela tem consolidado uma pol&iacute;tica cultural baseada nos princ&iacute;pios da democratiza&ccedil;&atilde;o, da descentraliza&ccedil;&atilde;o e da multiculturalidade.</p>
+<p>Democratiza&ccedil;&atilde;o que permitiu a partir do F&oacute;rum Tem&aacute;tico de Cultura do Or&ccedil;amento Participativo convocar tr&ecirc;s confer&ecirc;ncias municipais de cultura; democratizar o Conselho Municipal de Pol&iacute;ticas Culturais que passou de 9 para 40 membros, sendo 20 da sociedade civil eleitos diretamente atrav&eacute;s de urnas eletr&ocirc;nicas.</p>
+<p align="">O programa multicultural desenvolve oficinas e cursos junto &agrave;s comunidades pobres, trabalhando a cultura como vetor de desenvolvimento econ&ocirc;mico e promovendo inclus&atilde;o social. Os cursos de inicia&ccedil;&atilde;o &agrave; produ&ccedil;&atilde;o e gest&atilde;o cultural, bem como oficinas dos ciclos carnavalescos e juninos, t&ecirc;m possibilitado a profissionaliza&ccedil;&atilde;o de dezenas de jovens e a forma&ccedil;&atilde;o de redes de cultura locais, a exemplo da Rede Rea&ccedil;&atilde;o do Ibura.</p>
+<p align="">A&nbsp;descentraliza&ccedil;&atilde;o cultural tem sido fundamental no acesso democr&aacute;tico &agrave; produ&ccedil;&atilde;o cultural, n&atilde;o s&oacute; a local como tamb&eacute;m a nacional. No carnaval multicultural j&aacute; s&atilde;o 16 p&oacute;los e 37 polinhos distribu&iacute;dos por toda a cidade; no S&atilde;o Jo&atilde;o, al&eacute;m dos cinco p&oacute;los descentralizados, ap&oacute;iam-se 332 arraiais populares; no ciclo natalino, s&atilde;o 10 descentralizados. Al&eacute;m de peri&oacute;dicas apresenta&ccedil;&otilde;es da Orquestra Sinf&ocirc;nica e dos festivais de teatro e de cinema e apresenta&ccedil;&otilde;es teatrais nos bairros onde mora a popula&ccedil;&atilde;o mais pobre da cidade.</p>
+<p align="">As refinarias multiculturais do S&iacute;tio da Trindade e do Nascedouro de Peixinhos e as reformas das casas do p&aacute;tio de S&atilde;o Pedro, al&eacute;m da reabertura do Teatro Santa Isabel e as recentes reformas que est&atilde;o sendo feitas nos teatros do Parque e Barreto J&uacute;nior v&atilde;o estruturando os espa&ccedil;os necess&aacute;rios para a consolida&ccedil;&atilde;o da pol&iacute;tica cultural desenvolvida na gest&atilde;o Jo&atilde;o Paulo.</p>
+<p align="">O complexo tur&iacute;stico-cultural Recife-Olinda &eacute; um projeto estruturador e estrat&eacute;gico que ajudar&aacute; a fortalecer a economia da cultura. A primeira etapa, realizada em parceria com o governo Eduardo Campos j&aacute; come&ccedil;a a ser viabilizada atrav&eacute;s da licita&ccedil;&atilde;o dos armaz&eacute;ns do Porto do Recife.</p>
+<p align="">Esta gest&atilde;o est&aacute; aliando a valoriza&ccedil;&atilde;o dos nossos valores culturais, a exemplo da valoriza&ccedil;&atilde;o das nossas agremia&ccedil;&otilde;es carnavalescas, do concurso de m&uacute;sicas para o carnaval, da abertura da festa de Momo com Nan&aacute; e na&ccedil;&otilde;es de maracatu, do apoio &agrave; Ter&ccedil;a Negra e &agrave; retomada do S&atilde;o Jo&atilde;o p&eacute;-de-serra com uma pol&iacute;tica que busca, na integra&ccedil;&atilde;o com outras culturas, reafirmar nossa voca&ccedil;&atilde;o cosmopolita e a valora&ccedil;&atilde;o universal da nossa multiculturalidade.</p>
+<p align="">Como exemplo, devemos lembrar o acordo de coopera&ccedil;&atilde;o Recife-Nantes (Fran&ccedil;a) que resultou na vinda do projeto Produire au Sud ao Recife. O Produire ofereceu um curso destinado aos diretores e produtores de cinema, como tamb&eacute;m uma mostra com nove filmes.</p>
+<p align="">Assim tamb&eacute;m, tem sido muito importante a consolida&ccedil;&atilde;o do Rec Beat no nosso carnaval e a realiza&ccedil;&atilde;o de diversos eventos culturais em nossa cidade a exemplo do Festival Internacional de Dan&ccedil;a, Festival do Circo Internacional, Festival Recifense de Literatura, Todos Ver&atilde;o Teatro, da Semana de Fotografia do Recife e da Semana de Artes Visuais.</p>
+<p align="">Mas tem sido o nosso carnaval a s&iacute;ntese do sucesso de nossa pol&iacute;tica cultural. Consolidado como o mais democr&aacute;tico, descentralizado e culturalmente diversificado, o conceito de carnaval multicultural tornou-se refer&ecirc;ncia no pa&iacute;s e no mundo, voltando a colocar o Recife no centro da produ&ccedil;&atilde;o cultural brasileira, agora a partir da valoriza&ccedil;&atilde;o dos seus aspectos caracter&iacute;sticos, como o frevo e o maracatu, sem deixar de dialogar com outras manifesta&ccedil;&otilde;es culturais.</p>
+<p align="">Quero reafirmar o meu compromisso com todos os princ&iacute;pios que baseiam a implementa&ccedil;&atilde;o da atual pol&iacute;tica cultural no Recife. Hoje j&aacute; somos a capital que proporcionalmente mais investe em cultura (passamos de 1,33% para 4% do or&ccedil;amento) e assim vai continuar a ser.</p>
+<p align="">De forma democr&aacute;tica, com a participa&ccedil;&atilde;o de todos os que produzem cultura em nossa cidade, vamos aprofundar os caminhos percorridos at&eacute; agora, corrigir o que for preciso e aperfei&ccedil;oar o que for necess&aacute;rio, sempre no sentido de afirmar a nossa voca&ccedil;&atilde;o de sermos culturalmente uma cidade universal, por&eacute;m a partir da afirma&ccedil;&atilde;o das particularidades culturais que nos identificam como lugar &uacute;nico no mundo.</p>
+<p align="">PS:&nbsp;Jo&atilde;o da Costa - Secret&aacute;rio de Planejamento Participativo da Cidade do Recife e deputado estadual licenciado pelo PT.</p>
+{% endraw %}

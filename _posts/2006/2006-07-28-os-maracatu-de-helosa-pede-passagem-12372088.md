@@ -13,8 +13,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>A senadora do P-SOL esbanjou simpatia e frases de efeito na passagem pelo Recife.</P></p>
 <p><P>Também&nbsp;lançou ao vento tudo o que defende contra o capital e seus asseclas. </P></p>
 <p><P>Retomou, com intensidade,&nbsp;toda a pol?tica defendida por Lula (cinco eleições atrás).</P> </p>
-{\% endraw %}
+{% endraw %}

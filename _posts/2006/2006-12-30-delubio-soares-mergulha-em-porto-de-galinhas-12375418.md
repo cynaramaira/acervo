@@ -14,6 +14,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Será que Delúbio Soares viu as placas do Ministério Público Federal alertando contra a presença de tubarões (outra espécie de peixes grandes) no litoral pernambucano ? </p>
-{\% endraw %}
+{% endraw %}

@@ -1,0 +1,26 @@
+---
+id: 12394749
+date: "2008-10-28T12:13:00Z"
+last_modified_at: null
+tags:
+  - "oposicao"
+categories:
+  - "noticias"
+title: "Oposi\u00e7\u00e3o sim, mas pautada na realidade"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Isaltino Nascimento<font face="Times New Roman"> </font></p></p>
+<p><p>Por j&aacute; ter exercido o papel de l&iacute;der da Oposi&ccedil;&atilde;o &ndash; nos &uacute;ltimos anos do governo Jarbas/Mendon&ccedil;a &ndash; sei muito bem que quem ocupa esta fun&ccedil;&atilde;o tem que estar permanentemente atento aos atos do Executivo. E deve cumprir a miss&atilde;o de cobrar a execu&ccedil;&atilde;o das a&ccedil;&otilde;es prometidas pelo governo, denunciando o que por ventura esteja sendo descumprido.</p></p>
+<p><p>Contudo, &eacute; preciso tamb&eacute;m estar conectado com a realidade. Desde a &uacute;ltima quinta-feira o deputado Augusto Coutinho (DEM), que a partir de janeiro de 2009 ocupar&aacute; a lideran&ccedil;a da Oposi&ccedil;&atilde;o na Assembl&eacute;ia Legislativa, cobra do governador Eduardo Campos a libera&ccedil;&atilde;o da senha do Sistema Integrado de Administra&ccedil;&atilde;o Financeira dos Estados e Munic&iacute;pios (Siafem).</p></p>
+<p><p>S&oacute; que o nobre parlamentar democrata esqueceu de dizer que a sua cobran&ccedil;a &eacute; in&oacute;cua. Ou por pura desinforma&ccedil;&atilde;o ou por omiss&atilde;o. N&atilde;o h&aacute; mais como liberar a senha do Siafem &ndash; que o pr&oacute;prio Augusto Coutinho barrou de ser liberada &agrave; nossa ent&atilde;o bancada de oposi&ccedil;&atilde;o no ano de 2006. Isso porque o Siafem n&atilde;o existe mais. Exatamente, caros leitores.</p></p>
+<p><p>O Siafem deixou de existir desde o m&ecirc;s de dezembro de 2007. Ou seja, h&aacute; quase um ano. O que considero um ponto para a reflex&atilde;o &eacute; que fiz, na &uacute;ltima sexta-feira, a divulga&ccedil;&atilde;o de que este sistema n&atilde;o mais existia. E mesmo assim, outras pessoas desinformadas da bancada de oposi&ccedil;&atilde;o ou tamb&eacute;m adeptas da pr&aacute;tica da omiss&atilde;o, insistem em cobrar do governador Eduardo Campos a libera&ccedil;&atilde;o da tal senha do sistema inexistente. N&atilde;o me furto de dar informa&ccedil;&otilde;es mais detalhadas &agrave;queles que porventura desconheciam esta informa&ccedil;&atilde;o. O que aconteceu foi que o Governo do Estado conta com um novo sistema de gest&atilde;o das finan&ccedil;as p&uacute;blicas, o E-fisco.</p></p>
+<p><p>O novo programa &eacute; um avan&ccedil;o em rela&ccedil;&atilde;o ao Siafem, pois al&eacute;m de registrar a movimenta&ccedil;&atilde;o financeira do Estado, &eacute; uma importante ferramenta de gest&atilde;o or&ccedil;ament&aacute;ria, fiscal e de acompanhamento dos programas de governo. O E-fisco substituiu o Siafem, voltado para a &aacute;rea cont&aacute;bil, melhorando ainda mais a qualidade do servi&ccedil;o p&uacute;blico. Al&eacute;m disso, est&aacute; dando maior funcionalidade &agrave;s a&ccedil;&otilde;es, atrav&eacute;s da integra&ccedil;&atilde;o dos procedimentos planejamento, or&ccedil;amento e execu&ccedil;&atilde;o.</p></p>
+<p><p>O E-fisco Financeiro j&aacute; est&aacute; dispon&iacute;vel, conforme decis&atilde;o do governo estadual, tendo entre seus usu&aacute;rios os &oacute;rg&atilde;os e entidades do Poder Executivo, dos demais Poderes, inclusive do Tribunal de Contas do Estado, bem como do Minist&eacute;rio P&uacute;blico. As vantagens do sistema que funciona h&aacute; quase um ano s&atilde;o a integra&ccedil;&atilde;o dos processos internos e externos das institui&ccedil;&otilde;es p&uacute;blicas do Estado, maior controle dos gastos p&uacute;blicos e melhoria da qualidade dos servi&ccedil;os ofertados, agilidade na execu&ccedil;&atilde;o dos processos produtivos das institui&ccedil;&otilde;es (com a elimina&ccedil;&atilde;o de retrabalho), transpar&ecirc;ncia da gest&atilde;o p&uacute;blica (com a democratiza&ccedil;&atilde;o das informa&ccedil;&otilde;es) e modernidade tecnol&oacute;gica, atrav&eacute;s do uso dos recursos de internet, a partir de uma base de dados &uacute;nica.</p></p>
+<p><p>Uma pena que membros da bancada de oposi&ccedil;&atilde;o al&eacute;m de desinformados tamb&eacute;m parecem estar desmemoriados, pois esqueceram a import&acirc;ncia da iniciativa do governador Eduardo Campos, que logo nos primeiros dias de sua gest&atilde;o disponibilizou para a sociedade pernambucana todos os dados da execu&ccedil;&atilde;o or&ccedil;ament&aacute;ria do Estado atrav&eacute;s o Portal da Transpar&ecirc;ncia, que &eacute; outro instrumento importante de valoriza&ccedil;&atilde;o da cidadania. Oposi&ccedil;&atilde;o &eacute; importante, deve existir, mas tem que se pautar na realidade.</p></p>
+<p><p>Sen&atilde;o, perde a credibilidade de suas cobran&ccedil;as.</p></p>
+<p><p>PS: Isaltino Nascimento (www.isaltinopt.com.br), deputado estadual pelo PT e l&iacute;der do governo na Assembl&eacute;ia Legislativa, escreve para o Blog todas &agrave;s ter&ccedil;as-feiras.</p> </p>
+{% endraw %}

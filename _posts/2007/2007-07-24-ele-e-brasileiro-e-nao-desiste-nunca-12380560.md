@@ -1,0 +1,31 @@
+---
+id: 12380560
+date: "2007-07-24T21:41:00Z"
+last_modified_at: null
+tags:
+  - "brasileiros"
+  - "naomi-campbell"
+categories:
+  - "noticias"
+title: "Ele \u00e9 brasileiro e n\u00e3o desiste nunca!"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">O alagoano Renan Calheiros (PMDB), presidente do Senado, ainda tenta dar um &quot;jeitinho brasileiro&quot; no mar de lama em que ele mesmo se jogou. Em pleno recesso parlamentar, distribuiu o que ele chamou de &quot;O Dossi&ecirc; Ignorado&quot; entre senadores e jornalistas. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>Josias de Souza</em>, da Folha Online, recebeu e atestou: &quot;Em nova defesa, Renan usa dados velhos e ignora a Pol&iacute;cia Federal&quot;. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Veja a mat&eacute;ria completa do <strong><em>Blog de Josias</em></strong>:</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&quot;Renan Calheiros (PMDB-AL) aproveita o recesso parlamentar para tentar reverter a atmosfera de suspei&ccedil;&atilde;o que lhe r&oacute;i o prest&iacute;gio. Nos &uacute;ltimos dias, enviou a um grupo de senadores e jornalistas uma nova pe&ccedil;a de defesa. Chama-se &quot;O Dossi&ecirc; Ignorado&quot;. A despeito do nome, n&atilde;o cont&eacute;m um m&iacute;sero dado desconhecido. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Al&eacute;m de batido, o &quot;dossi&ecirc;&quot; de Renan &eacute; seletivo. Mostra o que conv&eacute;m e esconde o que remanesce sem resposta. Por exemplo: incorpora, em anexo, as seis folhas resultantes da per&iacute;cia feita em sua documenta&ccedil;&atilde;o pela Secretaria de Controle Interno do Senado. Mas n&atilde;o faz desconhece as 20 p&aacute;ginas da vistoria que a Pol&iacute;cia Federal realizou no mesmo papel&oacute;rio.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">As duas per&iacute;cias foram encomendadas pelo Conselho de &Eacute;tica. Foram feitas em escassas 48 horas. O trabalho do Senado, mais superficial, limitou-se a atestar a &quot;autenticidade&quot; dos pap&eacute;is apresentados por Renan. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A an&aacute;lise da PF, embora preliminar, detectou 20 &quot;inconsist&ecirc;ncias&quot; nas transa&ccedil;&otilde;es bovinas do senador. E pediu prazo de 20 dias para aprofundar a averigua&ccedil;&atilde;o. No &uacute;ltimo s&aacute;bado (21), a PF recebeu parte da documenta&ccedil;&atilde;o a ser perscrutada. Pediu mais pap&eacute;is. Deve receb&ecirc;-los at&eacute; quinta-feira (26). S&oacute; ent&atilde;o come&ccedil;ar&aacute; a contar o novo prazo.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O &quot;dossi&ecirc;&quot; de Renan foi elaborado pela banca advocat&iacute;cia Eduardo Ferr&atilde;o-Baeta Neves, contratada pelo senador. Sustenta, em ess&ecirc;ncia, que a representa&ccedil;&atilde;o do PSOL contra Renan &quot;&eacute; sustentada por recortes de not&iacute;cias&quot;, enquanto &quot;a defesa do senador &eacute; sustentada por documentos&quot;. Anota: &quot;Essa defesa tem sido ignorada&quot;.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">S&atilde;o listados no documento dados que, longe de ser ignorados, foram fartamente noticiados. A principal tese repisada no texto &eacute; a de que Renan dispunha de recursos pr&oacute;prios para bancar a pens&atilde;o aliment&iacute;cia da filha nascida da rela&ccedil;&atilde;o extraconjugal com a jornalista M&ocirc;nica Veloso. N&atilde;o precisaria, portanto, servir-se nem a recursos da Mendes J&uacute;nior nem de Cl&aacute;udio Gontijo, diretor da construtora.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">No cap&iacute;tulo &quot;Provas Cont&aacute;beis&quot;, o &quot;dossi&ecirc;&quot; de Renan volta a mencionar a origem do dinheiro do senador. Sua principal fonte de renda seria a venda de bois: R$ 1,9 milh&atilde;o entre 2003 e 2006. &Eacute; justamente sobre essas transa&ccedil;&otilde;es que se debru&ccedil;aram os peritos do Instituto de Criminal&iacute;stica da PF. Levantaram-se d&uacute;vidas eloq&uuml;entes. A &quot;nova defesa&quot; de Renan n&atilde;o contrap&ocirc;s nenhum dado capaz de afastar os questionamentos.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">S&atilde;o tr&ecirc;s os principais questionamentos levantados pela PF: 1) aus&ecirc;ncia de notas fiscais que comprovem a venda de 244 cabe&ccedil;as de gado no ano de 2004; 2) diverg&ecirc;ncias entre as notas fiscais e GTAs (Guia de Tr&acirc;nsito Animal, documento exigido para o transporte dos bois); 3) ind&iacute;cios de inidoneidade nas empresas que, segundo Renan, adquiriram bois de suas fazendas.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Pelas contas preliminares da PF, resultou sem comprova&ccedil;&atilde;o a venda de 1.060 bois. Em dinheiro, corresponde a cerca de R$ 1 milh&atilde;o, mais da metade do faturamento que o presidente do Senado diz ter tido com os seus neg&oacute;cios agropecu&aacute;rios. O sil&ecirc;ncio do dossi&ecirc; de Renan sobre esses questionamentos pode ser um pren&uacute;ncio da disposi&ccedil;&atilde;o do senador de questionar o aprofundamento da per&iacute;cia da PF. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O documento da pol&iacute;cia vai fundamentar a decis&atilde;o do processo contra o senador no Conselho de &Eacute;tica, que volta a trabalhar em 1&ordm; de agosto, depois do recesso. Em privado, Renan e sua tropa de choque afirmam que, sem autoriza&ccedil;&atilde;o expressa do STF, a PF n&atilde;o pode investigar o presidente do Senado. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Ouvido pelo blog, o ministro Tarso Genro (Justi&ccedil;a) diverge desse entendimento. Afirma que a PF est&aacute; apenas atendendo a uma solicita&ccedil;&atilde;o da Mesa do Senado, por provoca&ccedil;&atilde;o do Conselho de &Eacute;tica. A an&aacute;lise dos documentos n&atilde;o constitui, na opini&atilde;o de Tarso, uma investiga&ccedil;&atilde;o cl&aacute;ssica. Da&iacute; a desnecessidade de autoriza&ccedil;&atilde;o do Supremo&quot;.</font></p> </p>
+{% endraw %}

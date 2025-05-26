@@ -13,6 +13,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>O debate começar daqui a quatro minutos. </p>
-{\% endraw %}
+{% endraw %}

@@ -1,0 +1,39 @@
+---
+id: 12375874
+date: "2007-01-23T13:30:00Z"
+last_modified_at: null
+tags:
+  - "economia"
+  - "federal-reserve"
+  - "lula"
+  - "naomi-campbell"
+categories:
+  - "noticias"
+title: "Krause: PAC n\u00e3o desempaca economia e s\u00f3 serve para fazer populismo em favor de Lula"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><P><FONT face=Verdana>Em seu artigo de estréia no Blog do JC, o ex-ministro Gustavo Krause analisa o programa de aceleração da economia lançado ontem pelo presidente Lula, classificado por ele&nbsp;como pai dos pobres contra as elites brancas.</FONT></P></p>
+<p><P><FONT face=Verdana><STRONG>Gustavo Krause*</STRONG></FONT></P></p>
+<p><P><FONT face=Verdana>Economia empacada? PAC nela. É a receita aviada pelo governo Lula para a economia emergente de crescimento mais med?ocre do planeta. <BR>Por ocasião de lançamentos de pacotes, programas e \"embrulhos\" econômicos, é praxe ouvir pol?ticos, economistas, cientistas sociais, sindicalistas etc..., etc... Todos opinam com ar de inteligência e sapiência, mais ou menos simpatia, mais ou menos adulação, o que vai determinar maior ou menor otimismo em relação aos efeitos do programa. </FONT></P></p>
+<p><P><FONT face=Verdana>No meu caso, não tenho a menor simpatia pelo governo, muito menos razão para adular; faltam-me a sapiência e a inteligência dos doutos; mas, como o personagem de Guimarães Rosa, Riobaldo, \"quase que nada sei, mas desconfio de muita coisa\".</FONT></P></p>
+<p><P><FONT face=Verdana>A primeira desconfiança: não estamos diante de um programa econômico; estamos, sim, diante de mais uma estratégia do lulismo. A propósito, o lulismo, vertente da matriz populista latino-americana, é uma forma de enfrentar a realpolitik, constru?da pelo presidente, Lula que tem ponto de contatos com o populismo clássico, mas, cabe reconhecer, tem uma marcante dose de originalidade. </FONT></P></p>
+<p><P><FONT face=Verdana>Em comum com o populismo \"cucaracho\", o lulismo viceja no desprest?gio das instituições da democracia representativa e se alimenta do desencanto popular com a classe pol?tica. E a? valeu tudo e continua valendo para assegurar os arranjos da governabilidade.</FONT></P></p>
+<p><P><FONT face=Verdana>Na mesma linha a notável intuição presidencial percebeu que o que ganha eleição é o bolso e a bolsa dos eleitores. O eleitor é pragmático e, portanto, muito mais sens?vel ao que responde às suas necessidades e ambições do que o enunciado pomposo e bem intencionado de idéias. </FONT></P></p>
+<p><P><FONT face=Verdana>Os ricos recebem juros; os muito pobres, o bolsa-fam?lia e uma parcela dos pol?ticos aliados, mensalão. Parte da classe média, que paga a conta, não perdeu o encanto como o pobre migrante que chegou ao poder e, ainda por cima, expia a consciência culpada e vota em quem \"faz\" pelos mais necessitados. Afinal, Lula é o \"pai dos pobres\", Getúlio, o avô. </FONT></P></p>
+<p><P><FONT face=Verdana>Outro ponto em comum é o competente uso da comunicação pol?tica. No caso brasileiro, a imagem de Lula que chega ao povo mistura simbologia, ora do Grande Pai, ora do Irmão Mais Velho, ora da Grande Mãe, pronta para amamentar seus filhos com as tetas da \"Loba Republicana\". E, assim, a prática pol?tica do Presidente consagra traços da sociologia brasileira - a cordialidade e o familismo - que misturam, sem cerimônia, o público com o privado. </FONT></P></p>
+<p><P><FONT face=Verdana>Curiosamente o que distingue o lulismo da matriz populista latino-americana é a racionalidade que conduz a pol?tica econômica brasileira, maldita pela bravata da oposição petista, não só mantida, como aprofundada pelo atual governo e gerenciada pelos mecanismos de governança econômica. Disciplinadamente, segue as linhas básicas da receita ortodoxa: superávit primário, câmbio flutuante, juros altos e metas r?gidas de inflação, carga tributária em elevação e endividamento público sob controle.</FONT></P></p>
+<p><P><FONT face=Verdana>É a? que surge o PAC. Sua serventia ao lulismo é a seguinte: primeiro, reacender as esperanças no novo \"espetáculo do crescimento\" com nova embalagem, mas sob \"a mesma direção\"; segundo ratificar o compromisso com as</p>
+<p> regiões mais pobres e com as pessoas mais pobres (com respostas eleitorais mais eficazes) ao anunciar (requentar anúncios) investimentos em regiões e em setores sociais (saneamento e habitação) ainda que a moeda seja virtual e dependa de muitas variáveis, inclusive, da estabilidade de regras no saneamento e de uma robusta e lerda burocracia da Caixa Econômica no caso da habitação; terceiro, e agora vem o que é considerado fundamental para o governo no meio desta zoada toda: prorrogar o imposto sobre o cheque e a prorrogação da DRU (Desvinculação da Receita da União).</FONT></P></p>
+<p><P><FONT face=Verdana>O lulismo faz populismo microeconômico, mas não abre mão da racionalidade macroeconômica. Não importa que em passado recente tenha se colocado frontalmente contra o plano real (os ideólogos da economia petista sempre tiveram uma atração irresist?vel por uma \"inflaçãozinha\" até que a intuição de Lula compreendeu que inflação baixa melhora a renda do trabalhador e que a cultura da estabilidade consolidou-se no comportamento coletivo dos agentes econômicos); jamais permitiriam a qualquer governo cobrar o imposto sobre movimentação financeira e, muito menos, colocar nas mãos do Presidente receitas sem destinação constitucional, o oposto do dogma bestial da vinculação de receitas. </FONT></P></p>
+<p><P><FONT face=Verdana>Todo esforço pol?tico do governo vai se concentrar na aprovação dessas duas medidas que exigem o quorum para mudanças no texto constitucional. E tem bode na sala: o preju?zo fiscal para os estados da desoneração fiscal e as moedas correntes dos investimentos públicos, solenemente, reiterados.</FONT></P></p>
+<p><P><FONT face=Verdana>A segunda desconfiança: com os n?veis atuais de investimentos, os gargalos da infra-estrutura, estado perdulário e sem aprofundamento de reformas estruturais, é muito dif?cil cumprir as metas de um crescimento sustentado em torno de 5% ao ano. A aposta está feita. Se der certo, a glória; se der errado, o inferno são os outros.</FONT></P></p>
+<p><P><FONT face=Verdana>A terceira desconfiança: não sei se o PAC desempaca a economia. No entanto, o PAC confirma que Lula falou sério quando afirmou que ser de esquerda é coisa de gente de miolo mole; ser de direita é coisa de gente de coração duro. Às favas, idéias, princ?pios, valores. </FONT></P></p>
+<p><P><FONT face=Verdana>O que vale é se dar bem, a qualquer preço, principalmente para quem provou o travo de três derrotas e as del?cias de ser inquilino do Palácio do Planalto vencendo duas vezes o seu velho inimigo e novo xodó: as elites brancas. </FONT></P></p>
+<p><P><FONT face=Verdana>PS: Como é um espaço cada vez mais plural, nesta quinta-feira teremos a estréia também de Fernando Lyra, ex-ministro da Justiça e atual presidente da Fundaj. Nas quartas-feiras, continua nos brindando com sua argúcia o comunista Luciano Siqueira, vice-prefeito do Recife. </FONT></P></p>
+<p><P><FONT face=Verdana>Será que vão defender Lula ?]</FONT></P></p>
+<p><P><FONT face=Verdana><EM>*<STRONG>Gustavo Krause</STRONG>, 60, iniciou sua carreira pol?tica em 1975. Foi prefeito do Recife (79/82), vice-governador e assumiu o governo quando o Magalhães deixou o cargo para disputar o Senado, em 86.&nbsp;<FONT face=Verdana>Assumiu o Ministério da Fazenda do Brasil durante o governo Itamar Franco, em 1992. Em 1995, durante o governo Fernando Henrique Cardoso, assumiu o Ministério do Meio Ambiente, onde permaneceu até 1998. </FONT></EM></P></FONT> </p>
+{% endraw %}

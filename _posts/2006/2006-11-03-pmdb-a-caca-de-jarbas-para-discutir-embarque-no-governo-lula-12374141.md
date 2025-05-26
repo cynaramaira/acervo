@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: justify; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\">Por <STRONG>Cec?lia Ramos<BR></STRONG>Do Blog<BR></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: justify; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: justify; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\">O senador eleito Jarbas Vasconcelos (PMDB) está incomunicável desde que viajou para Lisboa, no dia 31 de outubro. </SPAN></P></p>
@@ -44,4 +44,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: justify; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\">Se isso ocorrer, Jarbas poderá estar ainda <?xml:namespace prefix = st1 ns = \"urn:schemas-microsoft-com:office:smarttags\" /><st1:PersonName ProductID=\"em Portugal. Ele\" w:st=\"on\">em Portugal. Ele</st1:PersonName> só retorna de férias sexta-feira, dia 10.<SPAN style=\"mso-spacerun: yes\">&nbsp; </SPAN><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: justify; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; TEXT-ALIGN: justify; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana\">O senador eleito chega a Bras?lia no dia 20, quando se integrará às negociações em torno da presidência do Senado e da posição do PMDB ao Governo Lula.<o:p></o:p></SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

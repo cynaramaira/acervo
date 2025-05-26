@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Presidente estadual do PFL, o deputado André de Paula responde aqui às cr?ticas dos presidentes estaduais do PT e do PSB, Dilson Peixoto e Milton Coelho, respectivamente, publicadas, ontem, pelo <B>Blog</B>. </FONT></P></p>
 <p><P><FONT face=Verdana>O petista e o socialista acusam os adversários de fazerem uso pol?tico</p>
 <p> da CPI das Sanguessugas. \"Isso é escapismo.&nbsp;Como disse o próprio Lula, Palocci e Zé Dirceu eram seus irmãos. Diante disso, nós estamos fazendo uso pol?tico?\", disparou André de Paula. </FONT></P></p>
@@ -43,4 +43,4 @@ imagem: null
 <p><P><FONT face=Verdana>Diziam que a gente não estaria unido, e estamos; diziam que Guerra (o senador Sérgio Guerra - PSDB) não estaria com Mendonça e ele está; diziam que Mendonça não ia se diferenciar de Jarbas, à frente do Governo, e está se diferenciando; diziam que Mendonça não ia decolar e ele decolou. Isso tudo sem Jarbas estar na campanha de fato, o que começou a ocorrer mais intensamente agora. Por isso tudo, digo, com tranqüilidade, que a campanha de Mendoncinha começa sua trajetória de ascensão agora. Hoje ele tem uma autonomia de vôo e vai aumentar ainda mais com a presença de Jarbas, que tem uma aprovação excepcional nas pesquisas. Não sou chegado a fazer previsão, mas estou otimista que Mendonça Filho vai avançar muito mais.</FONT></P><B></p>
 <p><P><FONT face=Verdana>Qual será a linha do guia eleitoral de Mendonça?</FONT></P></B></p>
 <p><P><FONT face=Verdana>Não estou acompanhando. Até onde eu sei, é uma linha propositiva, com prestação de contas, mostrando a importância do projeto dele para Pernambuco e tocar em frente as mudanças. Até eu, que sou o presidente estadual do partido, não sei qual será o formato do guia nem os autores (dos pol?ticos que gravarão mensagem para Mendonça). Os depoimentos estão sendo guardados com muita reserva.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

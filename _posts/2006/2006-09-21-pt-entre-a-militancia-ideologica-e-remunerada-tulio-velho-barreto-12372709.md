@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=4></FONT></p>
 <p><P><FONT face=Verdana>Por</FONT><FONT face=Verdana><B> Túlio Velho Barreto*<BR></B>Cientista Pol?tico e Pesquisador da Fundação Joaquim Nabuco<BR></FONT><A href=\"mailto:túlio@fundaj.gov.br\"><U><FONT color=#0000ff><FONT face=Verdana>túlio@fundaj.gov.br</FONT></U></FONT></A></P></p>
 <p><P><FONT face=Verdana>Estamos a apenas dez dias da eleição. A partir das pesquisas de intenção de votos nas últimas semanas, podemos observar algumas fortes tendências em relação às disputas nacional e local. As principais podem ser resumidas assim:</FONT></P></p>
@@ -33,4 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>A militância petista histórica, aquela movida por ideologia, certamente, está desencantada, apesar de não admitir votar na oposição ao governo Lula formada pelo PSDB e PFL. Assim, possivelmente, votará no presidente-candidato Lula. Ou votará em partidos que identifica mais à esquerda do que o próprio PT. Mas, em ambos os casos, manterá silêncio e apenas observará a boca-de-urna profissional atuando no dia 1º de outubro. Ou, quem sabe, votará mesmo em branco ou nulo.</FONT></P></p>
 <p><P><FONT face=Verdana>De toda forma, enquanto parte dela não terá mais disposição para novas lutas e batalhas, outra, estará sempre pronta a assumi-las novamente, com novo fôlego, ainda que não mais sob a legenda petista.</FONT></P><SUP></p>
 <p><P><BR><FONT face=Verdana>*<I>Cientista pol?tico e pesquisador da Fundação Joaquim Nabuco, </I><STRONG>Túlio Velho Barreto</STRONG><I>, 48, é um dos autores dos livros \"Democracia e Instituições Pol?ticas Brasileiras no final do Século XX\" (MCP-UFPE/Bagaço, 1998) e \"Nordeste 2004 - O Voto das Capitais\" (Fundação Konrad Adenauer, 2005). Co-organizou e participou dos livros \"Na Trilha do Golpe - 1964 revisitado\" (Editora Massangana, 2004) e \"A Nova República - Visões da redemocratização\" (Cepe/JC, 2006), que resultaram de séries especiais publicadas pelo Jornal do Commercio em parceria com a Fundação Joaquim Nabuco.</I></FONT></SUP></P> </p>
-{\% endraw %}
+{% endraw %}

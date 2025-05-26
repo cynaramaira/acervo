@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-style: italic\">Por <STRONG>Inaldo Sampaio<BR></STRONG>Colunista de Pol?tica do JC<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><I><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"><o:p>&nbsp;</o:p></SPAN></I></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><I><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">O deputado federal não-reeleito Joaquim Francisco (PFL) afirma, nesta entrevista ao JC, que uma das causas da derrota do governador Mendonça Filho (PFL) diante do socialista Eduardo Campos foi o seu excesso de subordinação aos marqueteiros da campanha. (...)<o:p></o:p></SPAN></I></P></p>
@@ -51,4 +51,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><B><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">JOAQUIM</SPAN></B><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"> -<I> Eu acho que houve um certo isolamento do chamado “campo decisório???. Todos ao passos dados na campanha foram decididos por um pequeno grupo, que não permitiu ou não aceitou a opinião e a sugestão de outros membros do PFL. Roberto Magalhães já se pronunciou a esse respeito e o caso do senador Marco Maciel também é flagrante. Havia um núcleo que tomava as decisões sem considerar o ponto de vista daquelas pessoas que estavam nas ruas visitando as bases, participando de debates, conversando no dia a dia com a população. Isso isolou o núcleo decisório e resultou nesse insucesso eleitoral a que estamos assistindo hoje. <o:p></o:p></I></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Leia <A href=\"https://jc3.uol.com.br/jornal/2006/11/19/not_209301.php\" target=_blank><STRONG><EM>aqui</EM></STRONG></A> a ?ntegra da entrevista (assinantes JC e UOL). </SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

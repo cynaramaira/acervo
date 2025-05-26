@@ -13,6 +13,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana>Com o número de seu t?tulo de eleitor em mãos, confira <STRONG><EM><A href=\"https://jc3.uol.com.br/especiais/eleicoes2006/canal.php?canal=26&amp;pai=6\" target=_blank>aqui</A></EM></STRONG> onde você vai votar amanhã.</FONT> </p>
-{\% endraw %}
+{% endraw %}

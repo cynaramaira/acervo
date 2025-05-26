@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Inaldo Sampaio</STRONG><BR>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>Dono do segundo maior eleitorado do Pa?s e região na qual o presidente reeleito Luiz Inácio Lula da Silva teve mais de 70% dos votos válidos, o Nordeste será administrado, a partir de 1º de janeiro, por governadores alinhados com o Palácio do Planalto.</FONT></P></p>
 <p><P><FONT face=Verdana>Mesmo os que não foram eleitos com apoio do presidente, como Cássio Cunha Lima (PSDB-PB) e Teotônio Vilela Filho (PSDB-AL), não se colocaram durante a campanha como seus adversários inconciliáveis.</FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P></P></p>
 <p><P></p>
 <p><P><FONT face=Verdana>Leia mais <EM><STRONG><A href=\"https://jc3.uol.com.br/jornal/2006/11/05/can_9.php\" target=_blank>aqui</A></STRONG></EM> (assinantes JC e UOL).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

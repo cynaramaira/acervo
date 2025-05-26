@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana><STRONG>\"Doutor Arraes está sepultado mas ainda é puxador de votos. Eu e ele somos os mitos do Recife\" </STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Prefeito Newton Carneiro, entusiasmado com a caminhada de Eduardo Campos em Jaboatão</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Allan Sales</STRONG><BR></FONT><A href=\"mailto:allancariri@ig.com.br\"><FONT face=Verdana>allancariri@ig.com.br</FONT></A></P></p>
 <p><P align=justify><FONT face=Verdana></FONT></P></p>
 <p><P align=justify><FONT face=Verdana>(1)<BR><BR>Meu cidadão brasileiro<BR>Amigo e trabalhador<BR>Você que é eleitor<BR>Batalhador e ordeiro<BR>Querem fazê-lo cordeiro<BR>Turvar a sua visão<BR>Fazer manipulação<BR>Do voto que coisa feia<BR>É o canto de sereia<BR>Nos tempos de eleição</FONT></P></p>
@@ -38,4 +38,4 @@ imagem: null
 <p><P align=justify><FONT face=Verdana>(9)<BR><BR>Escondendo seu passado<BR>Quem financia o partido<BR>É pelego empedernido<BR>Quer dar o golpe o safado<BR>No seu voto interessado<BR>Pra garantir a exclusão<BR>Disfarça a sua feição<BR>Feito aranha tece a teia<BR>É o canto de sereia<BR>Nos tempos de eleição</FONT></P></p>
 <p><P align=justify><FONT face=Verdana></FONT></P></p>
 <p><P align=justify><FONT face=Verdana>(10)<BR><BR>Perpetuar indigência<BR>Para manter o poder<BR>Consegue se eleger<BR>Dando esmola na emergência<BR>Exclusão é indecência<BR>A miséria escravidão<BR>Pois humilha o cidadão<BR>E o seu avanço freia<BR>É o canto de sereia<BR>Nos tempos de eleição</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

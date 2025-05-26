@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Claudio Julio Tognolli</STRONG><BR>Do <EM><STRONG><A href=\"https://conjur.estadao.com.br/static/text/48406,1\" target=_blank>site</A></STRONG></EM> Consultor Jur?dico</FONT></P></p>
 <p><P><FONT face=Verdana>A Pol?cia Federal pretende tomar depoimento, ainda nesta segunda-feira (18/9), de um dos assessores do presidente Luiz Inácio Lula da Silva, um policial federal chamado Freud Godoy. Em depoimento à PF, o advogado Gedimar Passos, preso na semana passada, mencionou o nome de Freud Godoy como o integrante do PT responsável pela operação de compra de documentos que comprometeriam os candidatos José Serra e Geraldo Alckmin.</FONT></P></p>
 <p><P><FONT face=Verdana>Freud Godoy teria ordenado o pagamento de R$ 1,7 milhão por documentos e informações que envolveriam os pol?ticos tucanos no esquema de venda de ambulâncias superfaturadas, que ganhou o nome de Máfia dos Sanguessugas.</FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>O site que trata das Universidades do Brasil, o Universia, (</FONT><A href=\"https://www.universia.com.br/html/noticia/noticia_clipping_bjaij.html\" target=_blank><U><FONT color=#0000ff><FONT face=Verdana>veja aqui</FONT></U></FONT></A><FONT face=Verdana>,) cita Freud Godoy como \"assessor especial da Presidência lotado no gabinete de Marisa\", e diz que ele \"encaminhou ao MEC um pedido de informações sobre o processo de descredenciamento da Fags — Faculdades Garcia Silveira, de Bras?lia. ‘Não há intenção de influenciar ou favorecer ninguém’, afirma Freud, que foi segurança pessoal de Lula nas quatro eleições presidenciais disputadas pelo petista\".</FONT></P></p>
 <p><P><FONT face=Verdana>Em entrevista ao <I>Jornal Hoje</I>, da TV Globo, o assessor do presidente Lula afirmou que esteve quatro vezes com Gedimar, mas para tratar exclusivamente de assuntos relacionados à segurança da campanha à reeleição de Lula. Freud rejeita a afirmação de que mandou comprar documentos de Luiz Antônio Vedoin. \"Quero ver como ele prova isso\", disse.</FONT></P></p>
 <p><P><FONT face=Verdana>O primeiro encontro, segundo Freud, foi há cerca de um mês, no diretório nacional do PT. Nos encontros seguintes, eles acertaram como seria feita a varredura nos telefones do comitê nacional do PT, em busca de grampos. O assessor afirmou que se apresentará para depor nesta segunda, às 17h, na sede da PF em São Paulo.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

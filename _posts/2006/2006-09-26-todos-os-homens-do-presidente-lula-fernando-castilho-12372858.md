@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Arial><FONT face=Verdana>Por <STRONG>Fernando Castilho</STRONG><BR>Colunista de Economia do JC</FONT></P></p>
 <p><P><FONT face=Verdana>Há uma cruel coincidência nos últimos dias vividos pelo presidente Lula da Silva, neste mês de setembro, em relação ao episódio Watergate, que levou o presidente dos Estados Unidos Richard Nixon a renunciar ao cargo após ser reeleito (no dia 7de novembro de 1972) com mais de 60% do votos: o descarte de auxiliares próximos e amigos de longas datas. </FONT></P></p>
 <p><P><FONT face=Verdana>Como Nixon - que se desfez do seu conselheiro pol?tico Dean Burch, depois de seu procurador geral Richard Kleindenst e do seu Chefe da Casa Civil, Bob Haldeman -, Lula vem se desfazendo de auxiliares igualmente importantes como Delúbio Soares, José Dirceu e agora de Ricardo Berzoini. Alguns até de forma cruel e humilhante.</FONT></P></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>Sim, Nixon, como Lula, também se queixava e muito da imprensa, especialmente do Washington Post, embora em pelo menos uma oportunidade (isso acontece lá) a Casa Branca tenha que ter pedido desculpas aos jornalistas Bob Woodward e Carl Bernstien. De Lula, recentemente: \"Se a nossa querida imprensa brasileira houvesse tido comigo a condescendência que teve com FHC, eu teria 70% dos votos\".</FONT></P></p>
 <p><P><FONT face=Verdana>Ha outras coincidências. Em setembro de 1972, quando Nixon foi reeleito, o escândalo Watergate era apenas um capricho de dois jornalistas da editoria de cidades e mais um editor da área metropolitana - todos brigando com as estrelas que cobriam o setor de pol?tica nacional.</FONT></P></p>
 <p><P><FONT face=Verdana>Não havia elementos suficientes para o impeachment, embora Nixon estivesse debatendo estratégias de acorbertamento. Resta saber se a história de coincidências entre Lula e Nixon vai continuar nos próximos meses.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -1,0 +1,62 @@
+---
+id: 12383614
+date: "2007-11-05T21:59:00Z"
+last_modified_at: null
+tags:
+  - "deputado"
+  - "discurso"
+  - "jorge-federal"
+  - "roberto-alvim"
+  - "vera-magalhaes"
+categories:
+  - "colunistas"
+title: "Discurso proferido pelo deputado federal Roberto Magalh\u00e3es, DEM/PE"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Senhor Presidente,</font></p></p>
+<p><p><font face=\"Verdana\">Senhoras Deputadas,</font></p></p>
+<p><p><font face=\"Verdana\">Senhores Deputados,</font></p></p>
+<p><p><font face=\"Verdana\">O Governo estar&aacute; encaminhando ao Congresso, brevemente, um projeto de lei com a cria&ccedil;&atilde;o de novas bolsas, em raz&atilde;o de acordo de lideran&ccedil;as que excluiu tal proposta apresentada por medida provis&oacute;ria.</font></p></p>
+<p><p><font face=\"Verdana\">A primeira destinando-se a amparar jovens que derem baixa do servi&ccedil;o militar; a segunda, &quot;m&atilde;es da paz&quot;, a preparar lideran&ccedil;as comunit&aacute;rias; e, talvez, a terceira, a &quot;bolsa protejo&quot;, a beneficiar menores infratores, apelidada de &quot;bolsa bandido&quot;.</font></p></p>
+<p><p><font face=\"Verdana\">Se a bolsa aos recrutas visa trein&aacute;-los para milit&acirc;ncia comunit&aacute;ria, cabe indagar se tal milit&acirc;ncia n&atilde;o ter&aacute; vi&eacute;s pol&iacute;tico-partid&aacute;rio. Melhor seria qualific&aacute;-los profissionalmente, o que as For&ccedil;as Armadas j&aacute; praticam independentemente da propaganda oficial.</font></p></p>
+<p><p><font face=\"Verdana\">Ser&aacute; que as pessoas mais esclarecidas n&atilde;o se apercebem que n&atilde;o podemos nos transformar no pa&iacute;s das bolsas e que um pa&iacute;s se constr&oacute;i com sa&uacute;de, educa&ccedil;&atilde;o, trabalho e forma&ccedil;&atilde;o &eacute;tica?</font></p></p>
+<p><p><font face=\"Verdana\">N&atilde;o faltam brasileiros de vis&atilde;o que sabem que o populismo de esquerda com vi&eacute;s autorit&aacute;rio se alastra pela Am&eacute;rica Latina. A opini&atilde;o p&uacute;blica percebe que o &quot;Bolivarianismo&quot; ditatorial de Hugo Ch&aacute;vez j&aacute; exerce clara ascend&ecirc;ncia sobre a Bol&iacute;via e Equador, e alguma influ&ecirc;ncia noutros pa&iacute;ses do Continente.</font></p></p>
+<p><p><font face=\"Verdana\">O ingresso da Venezuela no MERCOSUL dar&aacute; ao sucessor de Fidel Castro, no Continente, o que ele mais deseja: a presen&ccedil;a simult&acirc;nea em dois blocos de pa&iacute;ses, o Andino e o do Sul.<br /></p>
+<p>As bolsas e outras formas de assistencialismo t&ecirc;m revelado excepcional efic&aacute;cia eleitoral em favor do PT, aliados e adesistas, e provavelmente influenciar&aacute; o resultado de futuras elei&ccedil;&otilde;es.<br /></p>
+<p>Mas agora parece estar em pauta uma &quot;nova estrat&eacute;gia&quot;: o terceiro mandato presidencial. A imprensa, neste fim de semana, faz uma ampla cobertura da mat&eacute;ria, em especial as revistas VEJA e ISTO &Eacute;.</font></p></p>
+<p><p><font face=\"Verdana\">A Oposi&ccedil;&atilde;o precisa se preparar, desde logo, para combater uma prov&aacute;vel campanha ostensiva pelo terceiro mandato, que dever&aacute; assumir a forma de Revis&atilde;o Restrita da Constitui&ccedil;&atilde;o.<br /></p>
+<p>Muitos se iludem, imaginando que golpe contra a Constitui&ccedil;&atilde;o somente se configura atrav&eacute;s de militares, tanques e canh&otilde;es... Ora, esse &eacute; um modelo que pertence ao passado e est&aacute; superado no Brasil.</font></p></p>
+<p><p><font face=\"Verdana\">Todas as vezes que um Presidente da Rep&uacute;blica usar a sua maioria ampla e submissa no Congresso para adaptar a Constitui&ccedil;&atilde;o a suas ambi&ccedil;&otilde;es pol&iacute;ticas, e em preju&iacute;zo da ordem democr&aacute;tica, estar&aacute; cometendo um golpe, chame-se ele Lula, Jos&eacute; ou Joaquim. Esse &eacute; o modelo de golpe na atualidade, como j&aacute; demonstraram Hugo Ch&aacute;vez (Venezuela), Rafael Correa (Equador) e Evo Morales (Bol&iacute;via).</font></p></p>
+<p><p><font face=\"Verdana\">Minhas homenagens ao ilustre presidente da OAB Nacional, Cezar Britto, que em entrevista na ISTO &Eacute; de 30 de outubro adverte: TERCEIRO MANDATO &Eacute; GOLPE. E mais, &quot;Para n&oacute;s n&atilde;o basta a palavra de Lula&quot;, de que n&atilde;o pretende nova reelei&ccedil;&atilde;o.</font></p></p>
+<p><p><font face=\"Verdana\">Tenho ouvido de deputados de partidos diversos nesta Casa, opini&atilde;o contr&aacute;ria ao terceiro mandato, todos firmes e perempt&oacute;rios.</font></p></p>
+<p><p><font face=\"Verdana\">Mas antevejo o cen&aacute;rio de 2009 / 2010 do PT sem Lula e sem um candidato presidencial competitivo, e as press&otilde;es que surgir&atilde;o do petismo e aderentes que n&atilde;o querem perder o poder e suas mordomias.</font></p></p>
+<p><p><font face=\"Verdana\">S&oacute; o tempo ter&aacute; a resposta, ao correr dos anos 2008 / 2009. Por enquanto, o melhor ser&aacute; cuidarmos do que &eacute; necess&aacute;rio e urgente: apontar a ilegitimidade jur&iacute;dica e pol&iacute;tica de uma poss&iacute;vel reelei&ccedil;&atilde;o para o terceiro mandato presidencial.</font></p></p>
+<p><p><font face=\"Verdana\">Comecemos pelo texto da Carta Magna de 1988.</font></p></p>
+<p><p><font face=\"Verdana\">O seu art. 60, &sect; 4o, estabelece que n&atilde;o ser&aacute; objeto de delibera&ccedil;&atilde;o a proposta de emenda tendente a abolir:</font></p></p>
+<p><p><font face=\"Verdana\">I - a forma federativa de Estado;<br /></p>
+<p>II - o voto direto, secreto, universal e peri&oacute;dico;<br /></p>
+<p>III - a separa&ccedil;&atilde;o dos Poderes;<br /></p>
+<p>IV - os direitos e garantias individuais.</font></p></p>
+<p><p><font face=\"Verdana\">Poder-se-ia dizer que, a partir de uma interpreta&ccedil;&atilde;o meramente literal e n&atilde;o sistem&aacute;tica, a proposta de um terceiro mandato seria admiss&iacute;vel atendendo aos requisitos estabelecidos pelo legislador constituinte, no referido art. 60 da Constitui&ccedil;&atilde;o Federal.</font></p></p>
+<p><p><font face=\"Verdana\">Mas esta &eacute; uma vis&atilde;o estreita dos conceitos de Democracia e Estado de Direito, assim como distante da interpreta&ccedil;&atilde;o sistem&aacute;tica dos comandos diversos da Carta Constitucional.</font></p></p>
+<p><p><font face=\"Verdana\">Na verdade, h&aacute; cl&aacute;usulas p&eacute;treas expl&iacute;citas, aquelas referidas no art. 60, &sect; 4o, j&aacute; citadas, mas tamb&eacute;m existem cl&aacute;usulas impl&iacute;citas, que igualmente n&atilde;o s&atilde;o suscet&iacute;veis de restri&ccedil;&atilde;o ou revoga&ccedil;&atilde;o, como por exemplo:</font></p></p>
+<p><p><font face=\"Verdana\">1)a Rep&uacute;blica, j&aacute; confirmada pelo plebiscito de 1993;<br /></p>
+<p>2)o Estado Democr&aacute;tico de Direito, que estabelece o car&aacute;ter democr&aacute;tico do Estado e do Governo; e<br /></p>
+<p>3)o titular do poder constituinte, que &eacute; o povo.</font></p></p>
+<p><p><font face=\"Verdana\">Essas tr&ecirc;s cl&aacute;usulas est&atilde;o compreendidas no art. 1o da Constitui&ccedil;&atilde;o, que disp&otilde;e ser a Rep&uacute;blica Federativa do Brasil formada pela uni&atilde;o indissol&uacute;vel dos Estados e Munic&iacute;pios e do Distrito Federal e constitu&iacute;da em Estado Democr&aacute;tico de Direito. E, no seu par&aacute;grafo &uacute;nico, que &quot;todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos temos desta Constitui&ccedil;&atilde;o&quot;.</font></p></p>
+<p><p><font face=\"Verdana\">Vejamos o que diz o mestre JOS&Eacute; AFONSO DA SILVA, em seu &quot;Coment&aacute;rio Contextual &agrave; Constitui&ccedil;&atilde;o&quot;, p&aacute;g. 33, sobre este artigo 1o da nossa Carta:</font></p></p>
+<p><p><font face=\"Verdana\">&quot;(...) O artigo definido \a\ na express&atilde;o \a Rep&uacute;blica Federativa do Brasil\, que inicia o articulado da Constitui&ccedil;&atilde;o, tem fun&ccedil;&atilde;o sint&aacute;tica de refer&ecirc;ncia hist&oacute;rica. Exprime um ju&iacute;zo de preexist&ecirc;ncia, que denota que a Constitui&ccedil;&atilde;o n&atilde;o instituiu a Rep&uacute;blica Federativa, mas a tem como um signo do passado, e como tal a recebe e pereniza. Nela se descobrem duas proposi&ccedil;&otilde;es: \o Brasil &eacute; uma Rep&uacute;blica\ e \o Brasil &eacute; uma Federa&ccedil;&atilde;o\ - e s&oacute; a esta &uacute;ltima se refere a cl&aacute;usula \formada pela uni&atilde;o indissol&uacute;vel dos Estados e Munic&iacute;pios e do Distrito Federal\, que denota um elemento essencial da Federa&ccedil;&atilde;o, forma do Estado, e n&atilde;o da Rep&uacute;blica, forma de governo. A cl&aacute;usula, assim, insere-se no contexto hist&oacute;rico. Seu valor normativo est&aacute; no fato de que ela significa que o Brasil mant&eacute;m a Rep&uacute;blica e a Federa&ccedil;&atilde;o, como enunciava a Constitui&ccedil;&atilde;o de 1946, que foram proclamadas pelo Decreto 1, de 15.11.1889, e adotadas, em definitivo, pela Constitui&ccedil;&atilde;o de 1891.&quot; </font></p></p>
+<p><p><font face=\"Verdana\">Podemos afirmar que dos dispositivos constitucionais citados se al&ccedil;a um dos princ&iacute;pios fundamentais da Democracia, que &eacute; o da Rotatividade (ou altern&acirc;ncia) do Poder.<br /></p>
+<p>Sem a altern&acirc;ncia do poder entre Governo e Oposi&ccedil;&atilde;o, estaria comprometido o Estado Democr&aacute;tico de Direito. O Professor AUGUSTO DE FRANCO, em recente artigo , faz oportuna observa&ccedil;&atilde;o ao dizer: </font></p></p>
+<p><p><font face=\"Verdana\">&quot;As regras que decorrem do princ&iacute;pio da rotatividade dizem respeito &agrave; efetiva possibilidade de altern&acirc;ncia no poder entre situa&ccedil;&atilde;o e oposi&ccedil;&atilde;o. Essa quest&atilde;o &eacute; chave para distinguir as democracias das autocracias e, inclusive, dos arremedos de democracia (ou seja, das democracias parasitadas por for&ccedil;as autorit&aacute;rias, aparentemente democr&aacute;ticas, mas que na verdade querem restringi-la ou restringem-na objetivamente, seja por meio de um processo claramente protoditatorial, seja por meio de obscura manipula&ccedil;&atilde;o pol&iacute;tica, em geral de natureza populista). Assumir a rotatividade ou a altern&acirc;ncia num sentido mais ampliado significa tamb&eacute;m, como assinalou Felipe Gonz&aacute;lez (2007), promover &agrave; categoria de princ&iacute;pio \a aceitabilidade da derrota como elemento essencial do funcionamento democr&aacute;tico\&quot;.</font></p></p>
+<p><p><font face=\"Verdana\">Por tudo isso, acreditamos que a cl&aacute;usula p&eacute;trea impeditiva da admissibilidade de emendas constitucionais, assecurat&oacute;ria do voto direto, secreto, universal e peri&oacute;dico, foi inspirada no princ&iacute;pio da rotatividade ou altern&acirc;ncia do Poder.</font></p></p>
+<p><p><font face=\"Verdana\">Afinal de contas, &eacute; pelo voto popular que se pode democraticamente assegurar a mudan&ccedil;a peri&oacute;dica de governo.</font></p></p>
+<p><p><font face=\"Verdana\">Embora sejam as presentes considera&ccedil;&otilde;es superficiais, ante um tema t&atilde;o complexo quanto relevante em mat&eacute;ria constitucional e pol&iacute;tica, ousamos afirmar que qualquer proposta de emenda constitucional que pretenda tornar ilimitada, no tempo, a reelei&ccedil;&atilde;o para os cargos de presidente, governador ou prefeito, ser&aacute; incompat&iacute;vel com a Rep&uacute;blica e o Estado Democr&aacute;tico de Direito que se constituem princ&iacute;pios fundamentais da Na&ccedil;&atilde;o brasileira, nos termos do art. 1o da Carta Constitucional de 1988.</font></p></p>
+<p><p><font face=\"Verdana\"><br /></p>
+<p>Esta &eacute; a hora para a reflex&atilde;o e uni&atilde;o de todos os democratas, acima dos partidos, a fim de que n&atilde;o sejamos, no futuro, surpreendidos pelo pior.</font></p></p>
+<p><p><font face=\"Verdana\">&Eacute; tamb&eacute;m o momento para a reflex&atilde;o do Presidente Lula, que tem a responsabilidade de decidir se quer entrar para a Hist&oacute;ria pela porta da frente, como o primeiro oper&aacute;rio no Brasil a tornar-se Presidente da Rep&uacute;blica, ou pela porta dos fundos, como mais um caudilho desta estigmatizada Am&eacute;rica Latina.</font></p> </p>
+{% endraw %}

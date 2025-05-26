@@ -1,0 +1,31 @@
+---
+id: 12387619
+date: "2008-04-04T16:33:00Z"
+last_modified_at: null
+tags:
+  - "educacao"
+  - "recife"
+categories:
+  - "eleicoes"
+title: "Educa\u00e7\u00e3o de qualidade para transformara realidade do Recife "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">Por Raul Henry*<img height=\"160\" src=\"https://www2.uol.com.br/JC/blogs/blogdejamildo/imagens/selo_recife2008.jpg\" width=\"130\" align=\"right\" alt=\"\" /></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Embora minha forma&ccedil;&atilde;o seja na &aacute;rea de Economia, sempre fui um entusiasta da Educa&ccedil;&atilde;o, por entender que, somente atrav&eacute;s dela, poderemos verdadeiramente transformar a vida de uma popula&ccedil;&atilde;o. A minha paix&atilde;o pelo tema cresceu ainda mais quando tive a oportunidade de ser secret&aacute;rio estadual de Educa&ccedil;&atilde;o, no Governo Jarbas Vasconcelos. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Nessa mesma &eacute;poca, por&eacute;m, tive a no&ccedil;&atilde;o exata do quanto &eacute; dif&iacute;cil mudar uma realidade que se arrasta por anos. Dif&iacute;cil, mas n&atilde;o imposs&iacute;vel. Um exemplo claro disso s&atilde;o os Centros Experimentais de Ensino, criados no Governo Jarbas e que a gest&atilde;o Eduardo Campos est&aacute; dando continuidade. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Escolas em tempo integral, os centros hoje s&atilde;o refer&ecirc;ncia para os demais estados do Pa&iacute;s pelos excelentes resultados que v&ecirc;m alcan&ccedil;ando. S&oacute; para se ter uma id&eacute;ia, no Exame Nacional do Ensino M&eacute;dio - Enem 2007, os alunos dos Centros obtiveram m&eacute;dia acima da nacional e das escolas privadas. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Com a experi&ecirc;ncia dos Centros Experimentais de Ensino constatamos que qualidade &eacute; fundamental. E &eacute; esse o principal problema da rede p&uacute;blica de ensino do Recife. &Eacute; bastante surpreendente o d&eacute;ficit de aprendizado dos alunos das nossas escolas municipais. Os levantamentos dos v&aacute;rios instrumentos de pesquisa deixam isso bastante claro. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">De acordo com a Prova Brasil, realizada pelo Minist&eacute;rio da Educa&ccedil;&atilde;o, o Recife tem a pior educa&ccedil;&atilde;o do Pa&iacute;s, entre as 27 capitais brasileiras. A 4&ordf; s&eacute;rie da nossa rede p&uacute;blica municipal obteve as menores notas, tanto em Portugu&ecirc;s (148,78), quanto em Matem&aacute;tica (157,13). Os nossos alunos n&atilde;o alcan&ccedil;aram nem a metade do total de pontos poss&iacute;veis nas provas, que &eacute; de 350. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Segundo o &Iacute;ndice de Desenvolvimento da Educa&ccedil;&atilde;o B&aacute;sica (Ideb), na avalia&ccedil;&atilde;o de 1&ordf; a 4&ordf; s&eacute;ries, Recife apresenta o 6&ordm; pior desempenho entre as capitais, com 3.2, ao lado de Fortaleza (CE). A escala vai de zero a dez. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">No Censo Escolar realizado pelo Instituto Nacional de Estudos e Pesquisas Educacional An&iacute;sio Teixeira (INEP), a capital pernambucana apresenta &iacute;ndices expressivos de desist&ecirc;ncia e reprova&ccedil;&atilde;o. Para se ter uma id&eacute;ia, foram registradas, em 2005, 70.851 matr&iacute;culas, nos anos iniciais do ensino fundamental (1&ordf; a 4&ordf; s&eacute;ries), e apenas 27.179,&nbsp;nos anos finais (5&ordf; a 8&ordf; s&eacute;ries).&nbsp;&nbsp; </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">S&atilde;o informa&ccedil;&otilde;es vergonhosas e, conseq&uuml;entemente, devem chamar a sociedade &agrave; raz&atilde;o para a gravidade desse problema. A atual gest&atilde;o n&atilde;o tem cumprido sequer sua obriga&ccedil;&atilde;o constitucional de aplicar o m&iacute;nimo de 25% do seu Or&ccedil;amento em educa&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Na &uacute;ltima segunda-feira, tivemos a oportunidade de receber dois grandes nomes da Educa&ccedil;&atilde;o no Brasil para debater o tema, visando &agrave; constru&ccedil;&atilde;o de nosso plano de governo - Marcos Magalh&atilde;es, ex-presidente da Phillips no Brasil e atual presidente do Instituto de Co-responsabilidade pela Educa&ccedil;&atilde;o, e o professor mineiro Jo&atilde;o Batista Oliveira, presidente do Instituto Alfa e Beto.&nbsp;&nbsp; </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O que ficou claro, ao final do debate, &eacute; que, embora a falta de qualidade da educa&ccedil;&atilde;o seja um problema dos v&aacute;rios n&iacute;veis de governo (Federal, Estadual e Municipal), a Prefeitura tem um papel fundamental, j&aacute; que &eacute; respons&aacute;vel pelos primeiros anos de aprendizado de uma crian&ccedil;a &ndash; a base de tudo. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Em quatro anos de gest&atilde;o, &eacute; poss&iacute;vel dar dignidade &agrave;s escolas municipais (infra-estrutura, limpeza, seguran&ccedil;a); alfabetizar de fato os alunos (n&atilde;o permitindo que os mesmos passem de ano sem saberem ler e escrever); al&eacute;m de desenvolver pol&iacute;ticas p&uacute;blicas voltadas para crian&ccedil;as de 0 a 3 anos (Primeira Inf&acirc;ncia Melhor, j&aacute; tratada em artigo anterior) e para a juventude (de 15 a 25 anos). Para isso, a qualifica&ccedil;&atilde;o e valoriza&ccedil;&atilde;o dos professores &eacute; algo fundamental, assim como a&ccedil;&otilde;es que envolvam a fam&iacute;lia. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O desafio &eacute; grande e, por isso mesmo, o empresariado e a sociedade t&ecirc;m papel determinante nessa luta, a exemplo do que aconteceu com os Centros Experimentais de Ensino. Como lembrou Marcos Magalh&atilde;es: &ldquo;O c&uacute;mulo da insensatez &eacute; continuar fazendo as coisas exatamente iguais e esperar resultados diferentes&rdquo;.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>*Deputado federal e pr&eacute;-candidato do PMDB &agrave; prefeitura do Recife, escreve &agrave;s sextas para o Blog, dentro da s&eacute;rie &quot;Recife 2008. Debate com os prefeitur&aacute;veis&quot;.</em></font></p> </p>
+{% endraw %}

@@ -14,7 +14,7 @@ chapeu: null
 autor: "jc"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>A pol&ecirc;mica dos tubar&otilde;es na cidade do Recife n&atilde;o causa danos apenas ao turismo da cidade e aos empres&aacute;rios do setor.</p>
 <p>Nesta segunda-feira, em terra mesmo, a mais nova v?tima dos tubar&otilde;es foi o coronel Neyff Souza da Silva, comandante de Bombeiros da Regi&atilde;o Metropolitana do Recife (CBRMR).</p>
 <p>Sem nenhum alarde, o PM foi exonerado de seu cargo pelo governador Jos&eacute; Mendon&ccedil;a Filho, a pedido do comandante geral do Corpo de Bombeiros Militar de Pernambuco.</p>
@@ -34,4 +34,4 @@ imagem: null
 <p>&sect; 1&ordm;. - O Oficial, ao ser submetido a Conselho de Justifica&ccedil;&atilde;o, poder&aacute; ser afastado do exerc?cio de suas fun&ccedil;&otilde;es, automaticamente ou a crit&eacute;rio do Comandante-Geral da Pol?cia Militar conforme estabelecido em lei espec?fica.</p>
 <p>O bombeiro afastado, enquanto perdurar o afastamento, ficar&aacute; &agrave; disposi&ccedil;&atilde;o da Diretoria de Recursos Humanos do Corpo de Bombeiros Militar do Estado de Pernambuco, sob a subordina&ccedil;&atilde;o hier&aacute;rquica da autoridade competente.</p>
 <p>Pelo regimento, a identifica&ccedil;&atilde;o funcional, armas e utens?lios funcionais, que se encontrem &agrave; disposi&ccedil;&atilde;o do bombeiro, devem ser recolhidos no prazo de 24 horas &agrave; Diretoria de Recursos Humanos do Corpo de Bombeiros Militar do Estado de Pernambuco, l&aacute; permanecendo enquanto durar o afastamento.</p>
-{\% endraw %}
+{% endraw %}

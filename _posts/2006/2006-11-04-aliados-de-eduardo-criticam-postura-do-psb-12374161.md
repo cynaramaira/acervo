@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Jorge Cavalcanti</STRONG><BR>Do JC especial para o <STRONG>Blog</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>A decisão da bancada do PSB de pleitear a presidência da Assembléia Legislativa foi interpretada por vários deputados ligados à base de apoio do governador eleito Eduardo Campos (PSB) como uma tentativa pessoal de João Fernando Coutinho (PSB) ganhar o cargo. </FONT></P></p>
 <p><P><FONT face=Verdana>Categóricos, os parlamentares afirmam que qualquer nome do PSB teria dificuldade de se viabilizar devido à falta de \"perfil\" para a função.</FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>A preferência de Eduardo&nbsp;tenderá a ser seguida, no m?nimo,&nbsp;pela maioria dos deputados da sua bancada, mesmo que o escolhido não tenha a simpatia da Casa.</FONT></P></p>
 <p><P><FONT face=Verdana>Para o governador eleito, a eleição de um presidente alinhado com seus interesses é vital para os quatro anos à frente do Executivo. É o presidente da Assembléia quem define a pauta de votação da Casa e autoriza a tramitação das propostas nas comissões, entre outras atribuições.</FONT></P></p>
 <p><P><FONT face=Verdana>A eleição para os sete cargos da Mesa Diretora&nbsp;será no dia 1º de fevereiro de 2007.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

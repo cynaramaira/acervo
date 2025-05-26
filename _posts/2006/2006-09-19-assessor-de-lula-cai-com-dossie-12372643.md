@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 9pt; FONT-FAMILY: Verdana\"><FONT size=2>Do <STRONG>Jornal do Commercio</STRONG><BR style=\"mso-special-character: line-break\"><BR style=\"mso-special-character: line-break\"></FONT></SPAN><SPAN style=\"FONT-SIZE: 9pt; FONT-FAMILY: Verdana\"><FONT size=2>BRAS??LIA - O assessor particular do presidente Luiz Inácio Lula da Silva no Planalto Freud Godoy pediu demissão do cargo ontem, após ser acusado pelo advogado Gedimar Pereira Passos de ser o responsável pela compra de dossiê sobre o envolvimento de tucanos na máfia das ambulâncias.<BR><BR></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 9pt; FONT-FAMILY: Verdana\"><FONT size=2>A demissão foi aceita depois de o presidente conversar por telefone, na manhã de ontem, com Freud, seu antigo segurança, companheiro e assessor particular. Lula tinha pressa em tomar a decisão porque, no final da manhã de ontem embarcou para Nova Iorque, para participar da cerimônia de abertura da reunião da Assembléia-Geral das Nações Unidas.<BR><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN><FONT face=Verdana><STRONG><BR>Alckmin pede que Lula seja investigado<BR></STRONG><BR>BRAS??LIA – O candidato à Presidência Geraldo Alckmin (PSDB) pediu ontem ao Tribunal Superior Eleitoral que abra investigação eleitoral contra o presidente Lula. Pede também que, ao final da investigação, casse o registro da candidatura de Lula ou novo mandato se comprovado o envolvimento dele na tentativa de compra do dossiê contra Alckmin e José Serra.<o:p></o:p></FONT></SPAN></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><B><SPAN style=\"FONT-SIZE: 9pt; COLOR: windowtext; FONT-FAMILY: Verdana\"><FONT size=2>ESTRESSE</FONT></SPAN></B><SPAN style=\"FONT-SIZE: 9pt; COLOR: windowtext; FONT-FAMILY: Verdana\"><BR><BR><FONT size=2>A divulgação de que Freud Godoy estaria envolvido na compra do dossiê Vedoin deixou o presidente Lula e seus principais assessores extremamente estressados. A preocupação com o caso foi tão grande que a assessoria do Planalto cancelou a participação</p>
 <p> dos repórteres na cerimônia de concessão de certificado de entidade para fins filantrópicos na área da Saúde, que teria a presença de Lula, ontem pela manhã. <o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/09/19/not_201359.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

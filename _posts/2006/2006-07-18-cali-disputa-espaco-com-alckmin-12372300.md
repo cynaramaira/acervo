@@ -14,9 +14,9 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>A campanha eleitoral deste ano não vai&nbsp;dar certo na Rua Barão de Itamaracá, no Espinheiro, no Recife. </P></p>
 <p><P>O ex-presidente da Infraero, Carlos Wilson Campos (PT),&nbsp;inaugura ali, no começo da noite, o comitê da campanha dele a deputado federal.</P></p>
 <p><P>O problema é que na frente do imóvel vai funcionar o comitê em Pernambuco do presidenciável tucano Geraldo Alckmin, principal adversário de Lula, amigo-irmão de Wilson.</P></p>
 <p><P>&nbsp;</P> </p>
-{\% endraw %}
+{% endraw %}

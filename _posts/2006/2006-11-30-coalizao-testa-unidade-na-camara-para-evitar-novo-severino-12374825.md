@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Da agência <STRONG>Reuters</STRONG>, citado no G1</FONT></P></p>
 <p><P><FONT face=Verdana>A indicação de candidato único a uma vaga de ministro no Tribunal de Contas da União (TCU), na próxima semana, será o primeiro teste da coalizão liderada pelo PT e PMDB, antecipando a prova de fogo que vai ser a eleição do presidente da Câmara, em fevereiro.</FONT></P></p>
 <p><P><FONT face=Verdana>O Palácio do Planalto não quer repetir o desastre pol?tico das eleições para a presidência da Câmara em 2005, quando lançou dois candidatos e perdeu para Severino Cavalcanti (PP-PE).</FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>O presidente Luiz Inácio Lula da Silva tem dito aos aliados que vai esperar a definição do comando do Congresso para compor o ministério da coalizão.</FONT></P></p>
 <p><P><FONT face=Verdana>Além de PT, PMDB, PSB, PDT, PCdoB e PRB na coalizão, Lula deve dar cargos ao PTB, PL, PP e PV em troca de apoio das bancadas.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais </FONT><A href=\"https://g1.globo.com/Noticias/Politica/0,,AA1370653-5601,00.html\" target=_blank><FONT face=Verdana><STRONG><EM>aqui</EM></STRONG></FONT></A><FONT face=Verdana>.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

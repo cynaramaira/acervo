@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Ana Lúcia Andrade</STRONG><BR>Repórter de Pol?tica do JC</FONT></P></p>
 <p><P><FONT face=Verdana>Uma semana depois de afastado da coordenação de comunicação da campanha do governador e candidato à reeleição, Mendonça Filho (PFL), o publicitário José Roberto Berni rompeu o silêncio. Ontem, em entrevista por telefone do Paraná, explicou as razões da sa?da. Berni não mediu palavras. Acusou o coordenador de marketing da campanha,</p>
 <p> Antônio Lavareda, de ter tentado fazer dele o seu “laranja???, porque não pretendia assumir a linha de frente da campanha depois de a aliança ter sofrido duas derrotas eleitorais (2000 e 2004) sob o seu comando.</FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>(...)</FONT></P></p>
 <p><P><FONT face=Verdana>“Devem lembrar as conquistas e avanços importantes promovidos pelo grupo. Até porque são com essas credenciais que o grupo pleiteia mais quatro anos no governo. O que não se pode fazer é uma campanha pautada nisso. Tem que olhar para frente. As pessoas estão interessadas no que Mendonça vai fazer. Elas o conhecem de nome, não o conhecem bem. Os grupos de discussão a que assisti nas pesquisas qualitativas, estão interessados nas propostas, nas idéias dele, no que ele tem a dizer???.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><U><FONT color=crimson><A href=\"https://jc3.uol.com.br/jornal/2006/08/14/not_196585.php\" target=_blank>aqui</A></FONT></U></EM></STRONG> (assinantes JC e UOL).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

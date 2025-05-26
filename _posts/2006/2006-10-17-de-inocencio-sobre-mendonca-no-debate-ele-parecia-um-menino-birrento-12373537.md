@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Alvo de um duro ataque de Mendonça Filho (PFL) no debate de ontem à noite, na TV Clube, o deputado federal Inocêncio Oliveira (PL) está neste momento no escritório dele, na Imbiribeira, no Recife, destilando e despejando tudo o que passou preso na garganta ao longo da madrugada e do dia de hoje.</FONT></P></p>
 <p><P><FONT face=Verdana>No debate com Eduardo Campos (PSB), Mendonça disse que Inocêncio só faz aliança na base do fisiologismo, da troca de apoio por cargos públicos. </FONT></P></p>
 <p><P><FONT face=Verdana>Acusou o deputado de ter condicionado sua permanência na União por Pernambuco à indicação dos secretários de Saúde e Produção Rural do Estado. Mendonça diz que recusou e, por isso, perdeu seu apoio.</FONT></P></p>
@@ -36,4 +36,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"Não tenho cheques protestados nem d?vidas com nenhum banco.\"</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Derrota</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>\"Foi um revide pessoal, porque ele está desesperado, não tem mais jeito, ele está morto, tá do bagaço pra lá.\"</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

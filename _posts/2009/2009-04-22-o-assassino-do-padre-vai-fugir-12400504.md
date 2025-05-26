@@ -1,0 +1,30 @@
+---
+id: 12400504
+date: "2009-04-22T11:50:00Z"
+last_modified_at: null
+tags:
+  - "padre-alessandro"
+categories:
+  - "noticias"
+title: "O assassino do padre vai fugir!"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Gustavo Escobar</p></p>
+<p><p>O t&iacute;tulo deste artigo n&atilde;o pretende ser uma profecia. &Eacute; apenas fruto da constata&ccedil;&atilde;o de nossa rotina, referente &agrave; reclus&atilde;o de menores infratores. &Eacute; sabido e ressabido que o sistema de &ldquo;pris&atilde;o&rdquo; destes menores, infelizmente, n&atilde;o funciona h&aacute; muito tempo em Pernambuco.</p></p>
+<p><p>Mais uma vez, at&ocirc;nitos, acompanhamos as not&iacute;cias sobre outra morte brutal, praticada por um menor. Desta vez, a v&iacute;tima foi o padre espanhol Ramiro Lude&ntilde;a, de 64 anos. Morreu com um tiro de espingarda calibre 12!</p></p>
+<p><p>O assassino, assim como em outros tantos casos, estava armado, assaltando em via p&uacute;blica e n&atilde;o perdoou a v&iacute;tima. N&atilde;o respeitou a idade ou o valor da vida alheia. Tem 15 anos de idade e estupidamente vitimou o padre com uma arma &ldquo;emprestada&rdquo;. N&atilde;o sabe ele que a morte do padre simboliza tamb&eacute;m o esmaecimento da esperan&ccedil;a na sua pr&oacute;pria recupera&ccedil;&atilde;o, a chamada &ldquo;ressocializa&ccedil;&atilde;o&rdquo;, vez que esse era o mister de vida do religioso: cuidar e recuperar menores em situa&ccedil;&atilde;o de risco, o que fez at&eacute; o fim tr&aacute;gico de sua vida, paradoxalmente, pelas m&atilde;os de um menor.</p></p>
+<p><p>No mesmo dia deste infeliz evento, a imprensa noticiou a morte de &ldquo;Kena&rdquo;, assassino confesso do meu tio, Ant&ocirc;nio Carlos de Escobar.</p></p>
+<p><p>As duas mortes possuem muitas caracter&iacute;sticas em comum, sejam em rela&ccedil;&atilde;o aos assassinos &ndash; ambos menores, &agrave; forma do crime &ndash; roubo em via p&uacute;blica, ou ainda em rela&ccedil;&atilde;o &agrave;s v&iacute;timas &ndash; pessoas humanistas e que viviam para auxiliar o pr&oacute;ximo. Mas as coincid&ecirc;ncias, infelizmente, n&atilde;o param por a&iacute;.</p></p>
+<p><p>O menor que matou o padre foi logo apreendido e recluso na nossa &ldquo;estrutura prisional&rdquo; para menores, ou seja, Funase, Fundac, etc. Entretanto, o que quero dizer &eacute; que este n&atilde;o &eacute; o fim. Ainda ouviremos falar deste jovem. Sob a tutela do Estado ele ficar&aacute; recluso, possivelmente continuando a usar drogas, com a complac&ecirc;ncia estatal. Al&eacute;m disso, se aperfei&ccedil;oar&aacute; no crime e, por rotineiros maus-tratos, aumentar&aacute; seu vazio existencial. Sua revolta e seu &oacute;dio ser&atilde;o agu&ccedil;ados.&nbsp; Em s&iacute;ntese, perder&aacute; eventual resqu&iacute;cio de humanidade e virar&aacute; um &ldquo;animal&rdquo; feroz e indom&aacute;vel.</p></p>
+<p><p>Depois desse &ldquo;est&aacute;gio&rdquo; patrocinado pelo Estado, em uma pr&oacute;xima rebeli&atilde;o, escalada ou buraco no muro, assim como o assassino do meu tio fez v&aacute;rias vezes, inclusive quando o matou, fugir&aacute; e voltar&aacute; ao mundo do crime. Poder&aacute; matar novamente, mas tamb&eacute;m, assim como o &ldquo;Kena&rdquo;, encontrar&aacute; o &aacute;pice de sua &ldquo;carreira&rdquo; sendo morto numa briga de galeras, antes dos 25 anos de idade. E outros iguais vir&atilde;o para substitu&iacute;-lo.</p></p>
+<p><p>Agora, a n&oacute;s, &ldquo;cidad&atilde;os pensantes&rdquo;, inertes, acomodados e omissos da sociedade, resta refletir sobre o &ldquo;porqu&ecirc;&rdquo; disso&#63; Se eu que n&atilde;o sou especialista, consigo, com base na simples observa&ccedil;&atilde;o das rotineiras not&iacute;cias de jornais, prever o que acima expus, ser&aacute; que as autoridades n&atilde;o sabem&#63;</p></p>
+<p><p>A resposta &eacute; complexa, mas &ndash; especificamente sobre as fugas de menores infratores &ndash; tenho certeza que a quest&atilde;o passa pela impunidade. E n&atilde;o &eacute; s&oacute; a impunidade dos pr&oacute;prios infratores, o que &eacute; b&aacute;sico, mas sim pela impunidade dos gestores das unidades respons&aacute;veis por estes menores. Se um menor perigoso como estes foge, algu&eacute;m tem culpa e deve ser punido exemplarmente, para que isso n&atilde;o volte a ocorrer. Pergunto eu, voc&ecirc;s j&aacute; viram isto acontecer&#63;</p></p>
+<p><p>Pelos crimes cometidos por estes jovens &ldquo;fugados&rdquo;, o Estado &eacute; respons&aacute;vel e deve ser acionado e condenado pela sua reiterada omiss&atilde;o e condescend&ecirc;ncia. Mas quem &eacute; o Estado&#63; N&oacute;s&#63;!</p></p>
+<p><p>Como os &ldquo;quadros&rdquo; que gerem estas unidades s&atilde;o pol&iacute;ticos, est&atilde;o l&aacute;, n&atilde;o por um longo hist&oacute;rico de trabalhos na &aacute;rea e/ou por merecimento t&eacute;cnico, mas sim, por serem considerados de &ldquo;confian&ccedil;a&rdquo;. Por isso, fica dif&iacute;cil e constrangedor, para o Governo, punir e &ldquo;demitir&rdquo; os apadrinhados, que tamb&eacute;m tem suas pretens&otilde;es pol&iacute;ticas. Desta maneira, busca-se um bode-expiat&oacute;rio (os guardas que n&atilde;o foram para as guaritas) e tudo continua como est&aacute;.</p></p>
+<p><p>Por mais que tentemos entender, n&atilde;o conseguimos. Entra e sai governo e a l&oacute;gica (ou falta dela) n&atilde;o se inverte. Enquanto isso, vidas s&atilde;o ceifadas. Este &eacute; o pre&ccedil;o que estamos pagando pela maneira ineficaz com que este assunto &eacute; conduzido. Precisamos de algu&eacute;m que tenha coragem de inovar e romper com essa estrutura esp&uacute;ria. Enquanto isto n&atilde;o acontecer, ainda que torcendo pelo contr&aacute;rio, posso afirmar: o assassino do padre vai fugir!</p></p>
+<p><p>Gustavo Escobar &eacute; advogado&nbsp;e sobrinho de Antonio Carlos Escobar, tamb&eacute;m assassinado.&nbsp;</p> </p>
+{% endraw %}

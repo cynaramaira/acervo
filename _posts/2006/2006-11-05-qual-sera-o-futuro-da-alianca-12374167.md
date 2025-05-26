@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Sérgio Montenegro Filho</STRONG><BR>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>O fracasso da candidatura do governador Mendonça Filho (PFL) à reeleição joga, inevitavelmente, uma pá de dúvidas sobre o futuro da aliança governista – formada inicialmente pelo PMDB e PFL e, posteriormente, engordada com o ingresso de outras legendas, entre elas, o PSDB. </FONT></P></p>
 <p><P><FONT face=Verdana>Derrotado e prestes a deixar o poder dentro de dois meses, o bloco enfrenta o fantasma das deserções. Embalados pela necessidade de estarem sempre próximos ao poder, não serão poucos os prefeitos e l?deres pol?ticos, sobretudo interioranos, a aderir ao conjunto de forças que vai, a partir de janeiro, respaldar – e participar – do governo de Eduardo Campos (PSB).</FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P></FONT><FONT size=2><FONT face=Verdana>O&nbsp;ex-ministro Gustavo Krause, um dos principais ideólogos do PFL em Pernambuco e no Pa?s, avisa aos desertores:</FONT></FONT></P></p>
 <p><P><FONT size=2><FONT face=Verdana>“É preciso ouvir o recado singelo das urnas: fomos mandados para a oposição. Quem não entender isso e insistir em se manter no poder por interesses pequenos, se transformará em uma massa de manobra disforme e manipulável, e terminará por fazer parte do lixo da história???.<BR><BR><STRONG>Guerra&nbsp;nega&nbsp;adesão do</STRONG></FONT><FONT face=Verdana><STRONG>&nbsp;PSDB ao Governo Eduardo Campos</STRONG></FONT></FONT></P></p>
 <p><P><FONT size=2><FONT face=Verdana>“Essa história de dizer que vamos aderir ao PSB é uma fraude, coisa de gente primitiva, de dinossauros da pol?tica que não merecem respeito. Sou amigo de Eduardo Campos e da fam?lia, mas a relação termina a?. Não quer dizer apoio\".<BR><BR></FONT></FONT><FONT face=Verdana>Leia&nbsp;a ?ntegra da reportagem&nbsp;<EM><STRONG><A href=\"https://jc3.uol.com.br/jornal/2006/11/04/can_9.php\" target=_blank>aqui</A></STRONG></EM> (assinantes JC e UOL).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -1,0 +1,31 @@
+---
+id: 12406083
+date: "2009-09-23T10:56:00Z"
+last_modified_at: null
+tags:
+  - "congresso"
+  - "janeiro"
+  - "jarbas-vasconcelos"
+  - "lula"
+categories:
+  - "noticias"
+title: "No Rio de Janeiro, Jarbas responsabiliza Lula pelas crises no Congresso"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>O senador Jarbas Vasconcelos (PMDB-PE) participou na noite da &uacute;ltima segunda-feira (21.09), no Rio, da 1&ordf; s&eacute;rie do Ciclo Debates Republicanos, que teve como tema &ldquo;A crise no Senado e a degrada&ccedil;&atilde;o da Rep&uacute;blica&rdquo;, promovido pelas Faculdades Integradas H&eacute;lio Alonso (Facha). Jarbas responsabilizou o presidente Luiz In&aacute;cio Lula da Silva pelas crises sistem&aacute;ticas que atingiram o Congresso Nacional nos &uacute;ltimos seis anos.</p></p>
+<p><p>&ldquo;H&aacute; uma heran&ccedil;a perversa do Governo Lula no campo pol&iacute;tico, com seu apoio &agrave; cultura da impunidade, o seu incentivo &agrave; fragmenta&ccedil;&atilde;o partid&aacute;ria e a troca da &eacute;tica pelos interesses meramente eleitorais&rdquo;, argumentou o senador pernambucano. &ldquo;O presidente teve a oportunidade &uacute;nica de reformar o quadro pol&iacute;tico brasileiro, mas, em nome da governabilidade, buscou alian&ccedil;as com lideran&ccedil;as ultrapassadas. Exatamente aqueles que havia apontado como 300 picaretas&rdquo;.</p></p>
+<p><p>Tamb&eacute;m participaram como palestrantes, o jornalista e comentarista pol&iacute;tico Merval Pereira (de &ldquo;O Globo&rdquo;), o cientista pol&iacute;tico Luiz Werneck Vianna e o presidente da Associa&ccedil;&atilde;o dos Magistrados do Brasil (AMB), Mozart Valadares Pires. A mesa foi coordenada pelo jornalista Mauricio Az&ecirc;do, presidente da Associa&ccedil;&atilde;o Brasileira de Imprensa (ABI).</p></p>
+<p><p>Jarbas citou recente artigo do economista, diplomata e ex-ministro da Fazenda Rubens Ricupero, em artigo publicado na *&ldquo;Folha de S.Paulo&rdquo;*, do &uacute;ltimo dia 13, intitulado &ldquo;Corrup&ccedil;&atilde;o e governabilidade&rdquo;.&nbsp; O senador lembrou frase de Ricupero, que considera um resumo do atual quadro pol&iacute;tico brasileiro: &ldquo;A corrup&ccedil;&atilde;o passou a ser condi&ccedil;&atilde;o da governabilidade. &eacute; essa a justificativa de dirigentes de partidos do governo para sua cumplicidade no enterro dos esc&acirc;ndalos parlamentares. a diferen&ccedil;a com o regime militar &eacute; uma s&oacute;: substitu&iacute;ram-se a viol&ecirc;ncia e a tortura pela corrup&ccedil;&atilde;o como suposta<br /></p>
+<p>condi&ccedil;&atilde;o para ter seguran&ccedil;a e governar.&rdquo;</p></p>
+<p><p>Jarbas Vasconcelos elogiou a iniciativa da Facha e da AMB. Para o senador de Pernambuco, os debates pol&iacute;ticos s&atilde;o hoje uma das grandes car&ecirc;ncias do Brasil, que se v&ecirc; em meio &agrave; degrada&ccedil;&atilde;o n&atilde;o apenas do Senado, mas da pol&iacute;tica como um todo. Jarbas lembrou que foi muito t&iacute;mida a rea&ccedil;&atilde;o da sociedade &agrave; censura imposta ao jornal &ldquo;O Estado de S.Paulo&rdquo;, que foi proibido pela Justi&ccedil;a de publicar detalhes da investiga&ccedil;&atilde;o da Pol&iacute;cia Federal sobre a fam&iacute;lia do presidente do Senado, Jos&eacute; Sarney (PMDB-AP).</p></p>
+<p><p>&ldquo;N&atilde;o se pode continuar formando uma base de apoio &agrave; custa do toma l&aacute; da c&aacute;&rdquo;, advertiu Jarbas Vasconcelos. O parlamentar voltou a defender a Reforma Pol&iacute;tica como a &uacute;nica sa&iacute;da para a degrada&ccedil;&atilde;o da pol&iacute;tica no Brasil. &ldquo;Uma Reforma que promova mudan&ccedil;as estruturais, como a exig&ecirc;ncia de fidelidade partid&aacute;ria sem janelas de infidelidade, cl&aacute;usula de desempenho e o fim das coliga&ccedil;&otilde;es proporcionais. A reforma pol&iacute;tica &eacute; a m&atilde;e de todas as reformas&rdquo;, argumentou Jarbas.</p></p>
+<p><p>A opini&atilde;o de Jarbas foi endossada pelo jornalista Merval Pereira. &ldquo;Qualquer candidato que vier a assumir a Presid&ecirc;ncia ter&aacute; que atacar esse tema. N&atilde;o d&aacute; para continuar com a pr&aacute;tica do fisiologismo&rdquo;, defendeu. O jornalista tamb&eacute;m falou da necessidade de uma reforma partid&aacute;ria, que possa fazer surgir um novo grande partido, com caracter&iacute;sticas de centro-esquerda. E brincou: &ldquo;precisamos tamb&eacute;m de um partido de direita porque o Brasil &eacute; o &uacute;nico pa&iacute;s no mundo em que ningu&eacute;m se assume de direita&rdquo;, disse.</p></p>
+<p><p>Para Mozart, presidente da AMB, qualquer proposta de mudan&ccedil;a precisa, necessariamente, passar pela press&atilde;o social. &ldquo;Foi assim na Constitui&ccedil;&atilde;o, foi assim no *impeachment* do presidente Collor e foi assim na pr&oacute;pria redemocratiza&ccedil;&atilde;o do Pa&iacute;s. O fim da ditadura n&atilde;o foi um presente dos militares, mas uma conquista da sociedade&rdquo;.</p></p>
+<p><p>Mozart lembrou que j&aacute; nos primeiros esc&acirc;ndalos pol&iacute;ticos do governo atual, a AMB lan&ccedil;ou campanhas em defesa da &eacute;tica e contra a corrup&ccedil;&atilde;o. Mais recentemente, foi a vez da campanha Elei&ccedil;&otilde;es Limpas, que contou com a ades&atilde;o maci&ccedil;a da magistratura na promo&ccedil;&atilde;o de um embate eleitoral pautado pela &eacute;tica e, principalmente, pela liberdade do eleitor em escolher o melhor candidato, baseado em informa&ccedil;&otilde;es que lhe s&atilde;o devidas por direito.</p></p>
+<p><p>O cientista pol&iacute;tico Luiz Werneck Vianna afirmou que a crise das institui&ccedil;&otilde;es ainda traz reflexo dos anos de ditadura. &ldquo;A sociedade ainda n&atilde;o se recuperou totalmente. Um per&iacute;odo como aquele afeta gera&ccedil;&otilde;es. No entanto, caminhamos para um pa&iacute;s cada vez mais forte em todos os aspectos, inclusive o econ&ocirc;mico. Este aqui n&atilde;o &eacute; um pa&iacute;s qualquer, declarou. Nesse processo, o rem&eacute;dio para a crise est&aacute; na mobiliza&ccedil;&atilde;o social. N&atilde;o se pode usurpar a soberania popular&rdquo;, defendeu.</p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

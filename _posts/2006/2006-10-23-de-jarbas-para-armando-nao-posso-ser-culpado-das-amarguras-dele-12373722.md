@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana><FONT size=2></p>
 <p><P>O senador eleito Jarbas Vasconcelos (PMDB) rebateu, hoje, as declarações do deputado&nbsp;federal&nbsp;Armando</p>
 <p> Monteiro Neto.</P></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><EM>O nosso Governo foi amplo, tanto na montagem pol?tica, quanto na interlocução com a sociedade, por meio do Governo nos Munic?pios e do Fórum do Pacto 21, por exemplo. </EM></P></p>
 <p><P><EM>Nunca fizemos uma pol?tica personalista, sempre privilegiamos a equipe. Se fizemos um grande Governo, foi exatamente fruto dessa linha de trabalho. </EM></P></p>
 <p><P><EM>Até para ser adversário, Armando Neto tem que ter elegância, conteúdo e respeito. Ao agir dessa forma destemperada, ele apequena o seu mandato de deputado e o papel que tem como presidente de uma instituição importante como a CNI\". </EM></FONT></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

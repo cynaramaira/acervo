@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>UOL</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Pesquisa Datafolha divulgada na noite deste sábado, véspera das eleições, pela TV Globo, confirma a reeleição do presidente Luiz Inácio Lula da Silva (PT).</FONT></P></p>
 <p><P><FONT face=Verdana>Segundo a Globo, considerando os votos válidos - que exclui brancos e nulos -, Lula soma 61% da preferência do eleitorado contra 39% de Geraldo Alckmin (PSDB).</FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>O presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, manteve a liderança na disputa e prossegue com 58% das intenções de voto, segundo pesquisa Ibope, divulgada pelo Jornal Nacional nesta noite de sábado (28/10). A vantagem do petista é de 22 pontos percentuais em relação ao adversário Geraldo Alckmin (PSDB), de acordo com o levantamento. </FONT></P></p>
 <p><P><FONT face=Verdana>Alckmin oscilou positivamente, passando de 35% para 36% dos votos. Pelos votos válidos (sem contar os brancos e nulos), Lula fica com 61% contra 39% de Alckmin.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://eleicoes.uol.com.br/2006/campanha/ultnot/2006/10/28/ult3750u1997.jhtm\" target=_blank>aqui</A></EM></STRONG>.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

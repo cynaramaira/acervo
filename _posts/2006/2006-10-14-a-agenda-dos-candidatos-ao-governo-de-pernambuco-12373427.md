@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana><STRONG>Eduardo Campos (PSB)</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>9h</STRONG>, carreata e com?cio relâmpago em Camaragibe</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>11h</STRONG>, carreata e com?cio relâmpago em Paudalho</FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Mendonça Filho (PFL)</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>9h30</STRONG>, caminhada no bairro de Três Carneiros, no Recife. Concentração: Terminal de ônibus.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>10h30</STRONG>, caminhada nos Curados IV e II, na Região Metropolitana do Recife. Concentração: Terminal de ônibus.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

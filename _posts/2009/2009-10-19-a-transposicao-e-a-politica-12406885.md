@@ -1,0 +1,25 @@
+---
+id: 12406885
+date: "2009-10-19T09:28:30Z"
+last_modified_at: null
+tags:
+  - "politica"
+  - "transposicao"
+categories:
+  - "colunistas"
+title: "A transposi\u00e7\u00e3o e a pol\u00edtica"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Editorial do Jornal do Commercio desta segunda<br /></p>
+<p><br /></p>
+<p>Agora que n&atilde;o tem mais como ficar reduzida a objeto de contenda judicial e de questionamento ecol&oacute;gico, a transposi&ccedil;&atilde;o do Rio S&atilde;o Francisco entra em uma etapa de extrema import&acirc;ncia para o Nordeste, independente das encena&ccedil;&otilde;es pol&iacute;tico-eleitorais que sempre foram a cruz dos nordestinos, documentada desde os primeiros anos de coloniza&ccedil;&atilde;o portuguesa, como descrito pelo padre Fern&atilde;o Cardim. De t&atilde;o recorrentes, os relatos das trag&eacute;dias da seca &ndash; &ldquo;desceram do Sert&atilde;o apertados pela fome, socorrendo-se aos brancos, quatro ou cinco mil &iacute;ndios&rdquo;, entre 1580 e 1583 &ndash;, j&aacute; deixaram de ter for&ccedil;a liter&aacute;ria ou acad&ecirc;mica. S&atilde;o partes de uma hist&oacute;ria que deveria ter sido mudada desde o Imp&eacute;rio, inclusive com a transposi&ccedil;&atilde;o do S&atilde;o Francisco, trabalho que ficou para um nordestino v&iacute;tima de tremenda seca, fugitivo da mis&eacute;ria h&aacute; pouco mais de meio s&eacute;culo.<br /></p>
+<p><br /></p>
+<p>Ao visitar as obras de transposi&ccedil;&atilde;o do rio, o presidente Lula chegou com a mesma desenvoltura com que tem se sa&iacute;do de ocasi&otilde;es igualmente complexas, que envolvem rela&ccedil;&otilde;es de dif&iacute;cil gerenciamento. Ele passou ao largo, por exemplo, dos questionamentos postos pelos que se opuseram &agrave;s obras desde os anos 80, quando o antigo Departamento Nacional de Obras e Saneamento produziu o anteprojeto de engenharia de transposi&ccedil;&atilde;o. De l&aacute; para c&aacute;, a soma de questionamentos cresceu, chegou ao &aacute;pice com o protesto com greve de fome, para virar o que &eacute; hoje, pura mat&eacute;ria de palanque, a que o sertanejo d&aacute; pouca aten&ccedil;&atilde;o, preocupado que est&aacute; com a chegada da &aacute;gua e pereniza&ccedil;&atilde;o de rios capazes de mudar o cen&aacute;rio do Semi&aacute;rido.</p></p>
+<p><p>Mesmo ao se transformar apenas em mat&eacute;ria de palanque a quest&atilde;o n&atilde;o deixa de ser complexa, como tendem a ser empreendimentos p&uacute;blicos de grande vulto. A mistura das obras com datas eleitorais, nomes e partidos pol&iacute;ticos termina sendo inevit&aacute;vel. E de certa forma tende a tornar mais complicado o processo eleitoral que est&aacute; pr&oacute;ximo, pelo uso do que deveria ser apenas uma obra importante para o Pa&iacute;s e, principalmente, para o Nordeste, deixando no ar uma d&uacute;vida que nos preocupa: a forma com que os que questionam as obras poderiam trat&aacute;-la uma vez chegando ao poder. Mudariam o curso, estagnariam, mudariam as prioridades, submeteriam os nordestinos mais uma vez &agrave; incerteza diante das adversidades clim&aacute;ticas&#63; N&atilde;o s&atilde;o quest&otilde;es impertinentes, principalmente porque poderiam se abrigar por tr&aacute;s de que j&aacute; foi produzido at&eacute; hoje contra o processo de transposi&ccedil;&atilde;o.</p></p>
+<p><p>Fica no ar a d&uacute;vida, mas torcemos para que tudo n&atilde;o passe de encena&ccedil;&atilde;o, como costuma ser o processo pol&iacute;tico-eleitoral, dependendo do tempo e dos personagens. Assim, podemos relatar personagens e obras que foram execrados no passado por pertencerem a determinada legenda e que hoje gozam de generosas avalia&ccedil;&otilde;es porque subiram no mesmo palanque. O que n&atilde;o pode &eacute; misturar os v&iacute;cios eleitorais com as necessidades fundamentais de milh&otilde;es de nordestinos, para os quais n&atilde;o cabe mais ret&oacute;rica. O que permanece como uma curiosidade &eacute; a simplicidade com que pol&iacute;ticos contr&aacute;rios &agrave; obra tendem a questionar o que entendem por uso eleitoral. Desde que n&atilde;o estejam eles no poder, claro.</p></p>
+<p><p>Enquanto isso n&atilde;o acontece, melhor ser&aacute; deixar as filigranas de lado e partir para o essencial quando se trata de uma quest&atilde;o vital como &eacute; a do nosso Semi&aacute;rido. N&atilde;o cabe mais sugerir que essa ou aquela solu&ccedil;&atilde;o seria melhor para manter o sertanejo em suas terras, produzindo e gerando riquezas como &eacute; feito na terra irrigada pelo S&atilde;o Francisco e poder&aacute; ser feito nos bra&ccedil;os que ele estender&aacute; por leitos de rios que secaram ou terras em processo de desertifica&ccedil;&atilde;o. O fundamental est&aacute; posto, as obras est&atilde;o em andamento e apontam para uma enorme responsabilidade da sociedade civil organizada: fiscalizar, cobrar, exigir, impedir que o jogo pol&iacute;tico-eleitoral atrapalhe o que poder&aacute; ser a reden&ccedil;&atilde;o para milh&otilde;es de nordestinos.</p> </p>
+{% endraw %}

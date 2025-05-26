@@ -13,8 +13,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Da <STRONG>Agência Estado</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Tinha tudo para ser um com?cio do PT de alguns anos atrás. Na Praça dos Trabalhadores, em São Bernardo do Campo (SP). </FONT></P></p>
 <p><P><FONT face=Verdana>Cr?ticas ao desemprego e à corrupção. Só que, desta vez, quem usou a saudação \"companheiros e companheiras\", expressão t?pica dos petistas, foi o candidato à Presidência pelo PSDB, Geraldo Alckmin.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

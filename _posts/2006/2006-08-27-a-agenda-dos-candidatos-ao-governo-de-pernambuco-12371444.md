@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana><STRONG>MENDONÇA FILHO (PFL)</STRONG></FONT></P><B></p>
 <p><P><FONT face=Verdana>13h</FONT></B><FONT face=Verdana>, vai à feijoada promovida por militantes jovens da União por Pernambuco. Local: Casa de Recepções Personalité, na avenida Conde da Boa Vista</FONT></P></p>
 <p><P><FONT face=Verdana></FONT></P><B></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>11h</FONT></B><FONT face=Verdana>, em Itamaracá, carreata passando pelos munic?pios de Itapissuma, Igarassu e Abreu e Lima </FONT></P><B></p>
 <p><P><FONT face=Verdana>15h</FONT></B><FONT face=Verdana>, em Cachoeirinha, caminhada pelas ruas centrais e com?cio </FONT></P><B></p>
 <p><P><FONT face=Verdana>18h30</FONT></B><FONT face=Verdana>, em Santa Cruz Capibaribe, carreata pelas ruas centrais e com?cio</FONT> </P> </p>
-{\% endraw %}
+{% endraw %}

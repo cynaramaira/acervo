@@ -1,0 +1,27 @@
+---
+id: 12397920
+date: "2009-02-10T13:43:08Z"
+last_modified_at: null
+tags:
+  - "obama"
+categories:
+  - "noticias"
+title: "Protecionismo Democrata em tempos de Obama "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Evandro Silveira Neto</p></p>
+<p><p>Desde o pedido de concordata do Lehman Brothers em 15 de setembro de 2008 at&eacute; os dias atuais, se v&atilde;o considera&ccedil;&otilde;es indel&eacute;veis. Citei esta data, pois, a Hist&oacute;ria, apesar de n&atilde;o mais seguir os &ldquo;factualismos&rdquo; de sua fase marxista, tende fortemente a se apegar em datas para promover reflex&otilde;es temporais mais consistentes. N&atilde;o obstante, a data supracitada marca o in&iacute;cio do colapso global que se abateu sobre o mundo capitalista. De l&aacute; para c&aacute;, a volatilidade das bolsas de valores mundo a fora sempre gerou grande tens&atilde;o nos pa&iacute;ses centrais e perif&eacute;ricos.<br /></p>
+<p>&nbsp;<br /></p>
+<p>Pouco a pouco, a escassez de cr&eacute;dito tomou conta do setor financeiro e, por conseguinte, levou a uma queda dr&aacute;stica na produ&ccedil;&atilde;o industrial mundial. Os dados sobre tal fen&ocirc;meno s&atilde;o dos mais variados. Na&ccedil;&otilde;es como Reino Unido, Alemanha e Jap&atilde;o mostram sinais recessivos. Os EUA, epicentro da crise global (desencadeado pela crise do subprime ou hipoteca de risco), enfrenta um dos piores per&iacute;odos econ&ocirc;micos de sua hist&oacute;ria, chegando alguns estudiosos a afirmarem que se aproxima e muito dos tempos negros p&oacute;s-1929. Enfim, tra&ccedil;ar uma &uacute;nica linha de estudo sobre a repercuss&atilde;o da crise capitalista atual &eacute; um tanto ing&ecirc;nuo.</p></p>
+<p><p>Desta feita, este artigo versar&aacute; sobre o Buy American (uma das cl&aacute;usulas descritas no mais recente pacote anti-crise norte-americano). Em tradu&ccedil;&atilde;o livre, Buy American significa: compre produtos americanos. Todavia, a tradu&ccedil;&atilde;o livre desta cl&aacute;usula n&atilde;o esclarece o que viria a ser este ponto, em espec&iacute;fico, da mais nova emenda anti-crise anunciado pelo Executivo ianque. Com efeito, o Buy American suscita d&uacute;vidas sobre seu teor protecionista, por determinar que somente a&ccedil;o, ferro e manufaturados produzidos nos EUA sejam usados em projetos de incentivo econ&ocirc;mico anunciados pelo Tesouro daquele pa&iacute;s. &Agrave; reboque da cl&aacute;usula Buy American, a Uni&atilde;o Europ&eacute;ia, atrav&eacute;s de seu embaixador em Washington, John Bruton, foi veemente em criticar este suposto protecionismo. O Canad&aacute; tamb&eacute;m se manifestou atrav&eacute;s de sua embaixada, aludindo que tal medida abre um precedente perigoso nas rela&ccedil;&otilde;es comerciais globais.</p></p>
+<p><p>Sendo assim, se faz de suma import&acirc;ncia tecer algumas reflex&otilde;es sobre tal medida e os impactos desta num mundo globalizado. Para tanto, outra necessidade premente &eacute; lan&ccedil;ar uma luz sobre a funda&ccedil;&atilde;o do Partido Democrata americano e em que contexto o mesmo surgiu, para assim, fazermos um link com o presente e entendermos suas a&ccedil;&otilde;es e conseq&uuml;&ecirc;ncias.</p></p>
+<p><p>O Partido Democrata, fundado ainda no s&eacute;culo XIX, por Andrew Jackson, foi e &eacute;, uma das maiores for&ccedil;as pol&iacute;ticas dos EUA. Notadamente um partido sulista, possu&iacute;a em sua &eacute;poca de funda&ccedil;&atilde;o, uma ideologia conservadora. Sua base representativa, constava, sobretudo, latifundi&aacute;rios confederados. Estes, em sua grande maioria, divergiam fortemente dos nortistas republicanos (antiescravistas), por defenderem uma legisla&ccedil;&atilde;o escravista e agro-protecionista. De certo, muito do velho partido se manteve nos dias atuais. A classe latifundi&aacute;ria ianque, via de regra, &eacute; filiada ao Partido Democrata. Por tanto, aos olhos dos historiadores e estudiosos pol&iacute;ticos, n&atilde;o &eacute; de se estranhar o envio da cl&aacute;usula Buy American para aprecia&ccedil;&atilde;o dos congressistas.</p></p>
+<p><p>Muito provavelmente, salvo por fortes press&otilde;es internacionais, esta cl&aacute;usula anti-crise deve ser aprovada. O clima de esperan&ccedil;a, quase messi&acirc;nico, que aportou nos EUA p&oacute;s-20 de janeiro, em virtude da posse de Obama, &eacute; um forte componente para a aprova&ccedil;&atilde;o do Buy American. Em se confirmar tal cen&aacute;rio, pa&iacute;ses perif&eacute;ricos como o Brasil (grandes exportadores) podem sofrer ainda mais com a redu&ccedil;&atilde;o da demanda internacional anunciada pelos &uacute;ltimos balancetes. Sobretudo em os EUA serem nosso principal parceiro comercial em v&aacute;rios setores como evidencia a tabela abaixo do Minist&eacute;rio do Desenvolvimento:</p></p>
+<p><p>A bancada legislativa pernambucana, estadual e federal, tem o dever c&iacute;vico de pressionar o Governo do Estado e o Itamaraty, por maiores esclarecimentos e a&ccedil;&otilde;es de press&atilde;o contra a medida protecionista norte-americana. Pois, do contr&aacute;rio, as medidas anunciadas pela gest&atilde;o Obama pode ser respons&aacute;vel por uma dr&aacute;stica baixa na balan&ccedil;a comercial brasileira como os dados acima evidenciam.&nbsp;&nbsp;&nbsp;<br /></p>
+<p>&nbsp;&nbsp; <br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

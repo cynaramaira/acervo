@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Cláudia Vasconcelos</STRONG><BR>Repórter do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>Ela é uma das mais jovens candidatas a deputada estadual nestas eleições, milita pelo PSTU (Partido socialista dos Trabalhadores Unificado) há dois anos e tem como principal bandeira a educação pública de qualidade.</FONT></P></p>
 <p><P><FONT face=Verdana>Estudante de geografia na Universidade Federal de Pernambuco, formada em jornalismo pela Universidade Católica, declarou modestos R$ 5 mil como gastos de campanha ao Tribunal Regional Eleitoral (TRE). </FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>Renata faz questão de evitar, entretanto, qualquer comparação ou vinculação com a mãe e o pai no terreno pol?tico. </FONT></P></p>
 <p><P><FONT face=Verdana>\"No começo, principalmente, minha decisão rendeu alguns problemas com minha mãe, mas com o tempo nossa relação amadureceu. Discordo completamente das idéias pol?ticas dela, mas tenho total entendimento de que não posso interferir na vida dela. E ela também não pode na minha. Minha diferença com minha mãe não é pessoal, é pol?tica\", ressaltou.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://www.jc.com.br/\" target=_blank>aqui</A></EM></STRONG> o texto completo (assinante JC e UOL).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

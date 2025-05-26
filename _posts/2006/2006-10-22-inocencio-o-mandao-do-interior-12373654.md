@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Jorge Cavalcanti</STRONG><BR>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>Segundo mais votado na eleição proporcional em Pernambuco, com 181,1 mil votos, o presidente estadual do PL e deputado federal Inocêncio Oliveira conseguiu ser o primeiro colocado nas urnas no maior número de munic?pios entre os candidatos à Câmara dos Deputados. </FONT></P></p>
 <p><P><FONT face=Verdana>Das 184 cidades pernambucanas, o parlamentar foi o majoritário em 27, segundo o levantamento do Jornal do Commercio, com base no resultado final do Tribunal Superior Eleitoral (TSE). Inocêncio ainda foi o segundo colocado em 19 munic?pios e o terceiro em oito. </FONT></P></p>
@@ -32,4 +32,4 @@ imagem: null
 <p><P><FONT face=Verdana>Já o correligionário Osvaldo Coelho, com quatro décadas de Congresso Nacional, foi o primeiro em cinco cidades: Ouricuri, Petrolina, Santa Maria da Boa Vista, Serrita e Verdejante. </FONT></P></p>
 <p><P><FONT face=Verdana>(...) Severino conseguiu, porém, manter-se majoritário em seis das cidades em que possui bases: Bom Jardim, Cumaru, João Alfredo, Machados, São Vicente Férrer e Tupanatinga.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/10/22/not_205665.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

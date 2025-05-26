@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT color=#545454 size=2></p>
 <p><P><FONT face=Verdana>Para contrapor os números divulgados pela pesquisa&nbsp;Ibope/TV Globo, o PSB&nbsp;garante&nbsp;ter uma pesquisa interna, com 1.500 questionários, realizada no mesmo per?odo da do Ibope, mas que aponta cenários bem diferentes. </FONT></P></p>
 <p><P><FONT face=Verdana>Segundo a assessoria de imprensa do partido,&nbsp;o levantamento dos socialistas aponta os seguintes números:</FONT></P><FONT color=#545454 size=2></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><FONT size=2><FONT face=Verdana>HUMBERTO COSTA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4,6%</FONT></FONT></P></p>
 <p><P><FONT face=Verdana size=2>Ainda segundo a assessoria de Eduardo Campos, a pesquisa interna do PSB será devidamente registrada, informa Jorge Cavalcanti, repórter do <STRONG>JC</STRONG>. (Ver tópico 6 da nota do PSB à Imprensa, abaixo).</FONT></P></p>
 <p><P><FONT size=2></FONT><BR>&nbsp;</P></FONT><B><FONT face=Arial size=2></B></FONT> </p>
-{\% endraw %}
+{% endraw %}

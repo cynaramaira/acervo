@@ -12,7 +12,7 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>A modelo e ex-namorada do senador eleito Jarbas Vasconcelos (PMDB) marcou intensamente as elei&ccedil;&otilde;es deste ano.</p>
 <p>Candidata a deputada estadual pelo PSB de Eduardo Campos, arquiinimigo de Jarbas, ela recebeu 418 votos.</p>
 <p>No in?cio da campanha, em 24 de julho, D&eacute;bora fez um ensaio exclusivo para o Blog e abriu o jogo sobre a pol?tica e sua rela&ccedil;&atilde;o com o ex-governador.</p>
@@ -33,4 +33,4 @@ imagem: null
 <p>O que n&atilde;o ficava bem?</p>
 <p>(Faz outra pausa)... Acho que era ruim para imagem de Jarbas.</p>
 <p>Leia mais aqui.</p>
-{\% endraw %}
+{% endraw %}

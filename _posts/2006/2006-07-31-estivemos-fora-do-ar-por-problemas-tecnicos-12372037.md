@@ -12,6 +12,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Perdão, <A href=\"mailto:amig@s\">amig@s</A>. </p>
-{\% endraw %}
+{% endraw %}

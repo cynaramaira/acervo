@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do <STRONG><EM><A href=\"https://www.noblat.com.br/\" target=_blank>blog</A></EM></STRONG> de Noblat</FONT></P></p>
 <p><P><FONT face=Verdana>A pesquisa CNT/Sensus divulgada hoje mostra a queda dos ?ndices de intenção de voto em Alckmin nas cinco regiões do pa?s. No Sul, Lula conseguiu abrir vantagem ampla sobre ele. A margem de erro da pesquisa é de três pontos percentuais para mais ou para menos:</FONT></P></p>
 <p><P><BR><FONT face=Verdana><U>Nordeste</U> </FONT></P></p>
@@ -33,4 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>Lula – <B>47,4%</B> (em julho, 40,5%)</FONT></P></p>
 <p><P><FONT face=Verdana>Alckmin – <B>22,8%</B> (em julho, 29,1%)</FONT></P></p>
 <p><P><FONT face=Verdana>Helo?sa Helena – <B>10%</B> (em julho 5,9%)</FONT><FONT face=Verdana></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

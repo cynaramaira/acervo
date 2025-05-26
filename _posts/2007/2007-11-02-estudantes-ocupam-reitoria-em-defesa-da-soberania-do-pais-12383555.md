@@ -1,0 +1,45 @@
+---
+id: 12383555
+date: "2007-11-02T15:00:00Z"
+last_modified_at: null
+tags:
+  - "defesa"
+  - "estudantes"
+categories:
+  - "noticias"
+title: "Estudantes ocupam reitoria em defesa da soberania do pa\u00eds"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Por <strong>Ed&iacute;lson Silva</strong></font></p></p>
+<p><p><font face=\"Verdana\">Adam Smith, pensador escoc&ecirc;s do s&eacute;culo 18, em sua principal obra, &quot;A origem da riqueza das na&ccedil;&otilde;es&quot;, cravou um ponto de inflex&atilde;o no processo de constru&ccedil;&atilde;o do pensamento econ&ocirc;mico. </font></p></p>
+<p><p><font face=\"Verdana\">Ali ele apresentava ao mundo, entre outras famosas teses, como a *Teoria da M&atilde;o Invis&iacute;vel*, a sua *Teoria do Valor Trabalho*. Smith assim explicava por que as teses mercantilistas foram um desastre econ&ocirc;mico e pol&iacute;tico. Ao mesmo tempo enterrava as teorias da jovem e bem intencionada &quot;Escola Fisiocrata&quot;, ent&atilde;o baseada na Fran&ccedil;a.</font></p></p>
+<p><p><font face=\"Verdana\">A Teoria do Valor Trabalho seria mais tarde aprimorada por outro brilhante economista ingl&ecirc;s, David Ricardo. Mais adiante, Karl Marx, j&aacute; na primeira metade do s&eacute;culo 19, construiria sua cr&iacute;tica ao Capital a partir das descobertas de Smith e Ricardo no campo econ&ocirc;mico, &quot;fundindo-as&quot; com o melhor da filosofia alem&atilde; e do pensamento socialista franc&ecirc;s. </font></p></p>
+<p><p><font face=\"Verdana\">Em tempos de alt&iacute;ssimo desenvolvimento das for&ccedil;as produtivas, do uso de avan&ccedil;adas tecnologias no processo de produ&ccedil;&atilde;o de mercadorias, a Teoria do Valor Trabalho de Smith, t&atilde;o caras para Ricardo e Marx, passa por questionamentos profundos no meio intelectual e acad&ecirc;mico. </font></p></p>
+<p><p><font face=\"Verdana\">H&aacute; quem defenda que esta teoria perdeu sua utilidade, pois o valor das mercadorias se explicaria agora a partir da &quot;quantidade&quot; de informa&ccedil;&atilde;o e conhecimento concentrados nelas.</font></p></p>
+<p><p><font face=\"Verdana\">Se Smith, Ricardo e Marx pudessem dar um palpite nesta pol&ecirc;mica, creio que diriam que a riqueza oriunda da informa&ccedil;&atilde;o e do conhecimento n&atilde;o pode originar-se de uma balan&ccedil;a comercial positiva na transa&ccedil;&atilde;o de patentes, nem t&atilde;o pouco brotaria da terra, como poderiam supor os mercantilistas e fisiocratas, respectivamente. </font></p></p>
+<p><p><font face=\"Verdana\">Essa riqueza, do ponto de vista da busca de uma teoria do valor, tamb&eacute;m pode ser decomposta em trabalho humano. </font></p></p>
+<p><p><font face=\"Verdana\">Um trabalho, antes de mais nada, intelectual, e cuja mensura&ccedil;&atilde;o exige o aprofundamento dos conceitos &quot;puros&quot; de *Valor de Troca* e *Valor de Uso*das mercadorias, presentes nas teorias de Ricardo e de Marx. </font></p></p>
+<p><p><font face=\"Verdana\">Contudo, apesar da complexidade, trata-se indiscutivelmente de trabalho humano. Portanto, &eacute; bastante razo&aacute;vel se pensar que a &quot;origem da riqueza das na&ccedil;&otilde;es&quot; ainda vem da sua capacidade de incorporar trabalho humano ao processo de produ&ccedil;&atilde;o de bens e servi&ccedil;os necess&aacute;rios &agrave; nossa complexa e diversa civiliza&ccedil;&atilde;o.</font></p></p>
+<p><p><font face=\"Verdana\">Podemos concluir tamb&eacute;m que se um dia, l&aacute; nos tempos de Smith e Marx, informa&ccedil;&atilde;o e conhecimento j&aacute; eram determinantes, nos dias atuais, quando informa&ccedil;&atilde;o e conhecimento s&atilde;o ingredientes ainda mais indispens&aacute;veis na determina&ccedil;&atilde;o da riqueza de uma na&ccedil;&atilde;o, o dom&iacute;nio das ci&ecirc;ncias e t&eacute;cnicas de produ&ccedil;&atilde;o de bens e servi&ccedil;os tornou-se ainda mais estrat&eacute;gico. </font></p></p>
+<p><p><font face=\"Verdana\">Fiz esta breve introdu&ccedil;&atilde;o para criticar o programa REUNI do governo Lula, pois entendo que este d&aacute; mais um passo no desembarque da universidade brasileira dos padr&otilde;es de qualidade necess&aacute;rios para a consolida&ccedil;&atilde;o de centros avan&ccedil;ados de estudo, pesquisa e extens&atilde;o, sem os quais o Brasil se distancia de sua plena capacidade de gerar conhecimento pr&oacute;prio, ou do m&iacute;nimo de protagonismo no processo de constru&ccedil;&atilde;o multinacional de conhecimento. </font></p></p>
+<p><p><font face=\"Verdana\">A depend&ecirc;ncia cient&iacute;fica torna o Brasil um dependente cr&ocirc;nico de outras na&ccedil;&otilde;es, principalmente as pot&ecirc;ncias capitalistas, que n&atilde;o abrem m&atilde;o de sua capacidade de gerar novos conhecimentos, e usam sua superioridade para submeter econ&ocirc;mica e politicamente as demais na&ccedil;&otilde;es.</font></p></p>
+<p><p><font face=\"Verdana\">O REUNI tenta impor &agrave;s universidades federais uma l&oacute;gica de mercado e de submiss&atilde;o &agrave;s na&ccedil;&otilde;es mais avan&ccedil;adas no terreno da ci&ecirc;ncia e da tecnologia. </font></p></p>
+<p><p><font face=\"Verdana\">Abre-se m&atilde;o da qualidade em nome da mensura&ccedil;&atilde;o de diplomas entregues. Quanto mais diplomas, mais dinheiro, na melhor das hip&oacute;teses 20% a mais que as verbas j&aacute; recebidas pela institui&ccedil;&atilde;o que aderir ao programa. </font></p></p>
+<p><p><font face=\"Verdana\">Esta l&oacute;gica j&aacute; foi aplicada no ensino fundamental no Brasil. O resultado mais vis&iacute;vel foram alunos chegando &agrave; 4&ordf; s&eacute;rie fundamental sem saber ler e escrever.</font></p></p>
+<p><p><font face=\"Verdana\">No REUNI o aumento do n&uacute;mero de alunos por professor torna-se uma meta. A l&oacute;gica &eacute; sufocar a universidade na sua miss&atilde;o de pesquisar, com o &quot;nobre&quot; e sutil argumento de que &quot;Professor &eacute; para estar em sala de aula, repassando conhecimento!&quot;. </font></p></p>
+<p><p><font face=\"Verdana\">Qualquer semelhan&ccedil;a com documentos publicados pelo Banco Mundial, afirmando que pa&iacute;ses como o Brasil n&atilde;o precisam de universidades que formem massa cr&iacute;tica e muito menos conhecimento n&atilde;o &eacute; mera coincid&ecirc;ncia. </font></p></p>
+<p><p><font face=\"Verdana\">Para o Banco Mundial, pa&iacute;ses como Brasil e Gana n&atilde;o podem e nem precisam &quot;gastar&quot; com produ&ccedil;&atilde;o de conhecimento. Estes &quot;gastos&quot; j&aacute; s&atilde;o feitos pelas na&ccedil;&otilde;es mais ricas, como os Estados Unidos, Jap&atilde;o e Alemanha, e caberia a pa&iacute;ses como Brasil e Gana apenas construir institui&ccedil;&otilde;es de ensino que repassem estes conhecimentos para seus alunos.</font></p></p>
+<p><p><font face=\"Verdana\">As universidade p&uacute;blicas federias, assim como as p&uacute;blicas estaduais, precisam ampliar suas vagas, abrigar mais e melhor os estudantes trabalhadores, com mais e melhores cursos noturnos, por exemplo. </font></p></p>
+<p><p><font face=\"Verdana\">Por&eacute;m, esta busca n&atilde;o pode acontecer em detrimento da qualidade e do papel estrat&eacute;gico da universidade na consolida&ccedil;&atilde;o da soberania e da independ&ecirc;ncia do nosso pa&iacute;s.</font></p></p>
+<p><p><br /></p>
+<p><font face=\"Verdana\">No momento em que escrevo este artigo h&aacute; centenas de estudantes revezando-se numa her&oacute;ica ocupa&ccedil;&atilde;o das depend&ecirc;ncias f&iacute;sicas da reitoria da UFPE, mobilizados contra a decis&atilde;o de parte do Conselho Universit&aacute;rio em aprovar o ingresso da UFPE no REUNI. </font></p></p>
+<p><p><font face=\"Verdana\">Os estudantes querem a realiza&ccedil;&atilde;o de um plebiscito na comunidade universit&aacute;ria para decidir se aceitam ou n&atilde;o este programa. Assim como em Pernambuco, outras 16 universidades federais encontram-se com suas reitorias ocupadas pelos mesmos motivos.</font></p></p>
+<p><p><font face=\"Verdana\">Os estudantes sabem o que est&aacute; em jogo. N&atilde;o se trata de uma luta pol&iacute;tica pontual, contra um Reitor, contra um governo, ou contra um programa governamental. Trata-se de uma luta com dimens&atilde;o estrat&eacute;gica, que n&atilde;o pode ser apenas dos estudantes, mas de toda a comunidade universit&aacute;ria e toda a sociedade brasileira. </font></p></p>
+<p><p><font face=\"Verdana\">Os alunos lutam por uma na&ccedil;&atilde;o soberana e independente, e merecem toda nossa solidariedade e apoio.</font></p></p>
+<p><p><font face=\"Verdana\">PS: Edilson Silva &eacute; presidente do PSOL/PE, escreve &agrave;s sextas para o Blog de Jamildo</font></p></p>
+<p><p><font face=\"Verdana\">PS2: Veja <strong><a href=\"https://jc3.uol.com.br/blogs/blogdejamildo/2007/10/27/index.php#12650\">aqui</a></strong> a pol&ecirc;mica que o caso tomou, depois que o intr&eacute;pido S&iacute;lvio Burle chamou os estudantes de meninos no jardim da inf&acirc;ncia.</font></p> </p>
+{% endraw %}

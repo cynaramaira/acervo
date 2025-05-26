@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Acabei de postar um interessante artigo do cientista pol?tico Túlio Velho Barreto, colaborador freqüente do <STRONG>Blog</STRONG>, sobre a sucessão estadual. O texto completo você lê na seção artigos, na coluna ao lado. Abaixo, alguns trechos.</FONT></P></p>
 <p><P><FONT face=Verdana>Boa leitura.</FONT></P></p>
 <p><P><FONT face=Verdana>---------------------------</FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>(...)</FONT></P></p>
 <p><P><FONT face=Verdana>Mas o que ficou ainda mais evidente na passagem do presidente-candidato no Agreste pernambucano foi a sua enorme força pol?tica e eleitoral. E a influência que ele ainda pode exercer sobre o resultado da disputa local.&nbsp; Isso ajuda a entender por que a União por Pernambuco e seus principais candidatos, Mendonça Filho e Jarbas Vasconcelos, desprezam tão acintosamente a candidatura de Geraldo Alckmin à Presidência da República, apesar das presenças do senador José Jorge e do PFL na chapa e na campanha nacional.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/09/08/not_1292.php\">aqui</A></EM></STRONG> o texto completo.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

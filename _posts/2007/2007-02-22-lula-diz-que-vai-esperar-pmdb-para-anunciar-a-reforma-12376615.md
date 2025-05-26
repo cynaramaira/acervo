@@ -1,0 +1,19 @@
+---
+id: 12376615
+date: "2007-02-22T15:11:00Z"
+last_modified_at: null
+tags:
+  - "lula"
+  - "reformas"
+categories:
+  - "noticias"
+title: "Lula diz que vai esperar PMDB para anunciar a reforma"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><P><FONT face=Verdana>Da<STRONG> Folha Online</STRONG></FONT></P></p>
+<p><P><FONT face=Verdana>O presidente Luiz Inácio Lula da Silva vai esperar as eleições internas do PMDB --que vão eleger o novo presidente do partido-- para anunciar a reforma ministerial. Durante reunião na manhã de hoje com o comando do PSB, Lula deixou claro que vai tornar pública a escolha de seus novos ministros somente depois da segunda quinzena de março. <BR><BR>A convenção nacional do PMDB para a escolha do novo presidente está marcada para 11 de março.<BR><BR>\"A decisão do PMDB é o ponto final para o presidente comunicar ao país o seu novo ministério. Todo bom jogador de xadrez pensa muito antes de mexer suas peças\", disse o líder do governo na Câmara, deputado Beto Albuquerque (PSB-RS).<BR><BR>A escolha do novo presidente do PMDB é considerada estratégica pelo governo. O atual presidente da legenda, Michel Temer (SP), disputa a presidência do partido com o ex-presidente do STF (Supremo Tribunal Federal) Nelson Jobim. Temer tem o apoio da bancada do partido na Câmara, enquanto o nome de Jobim é endossado pelos senadores Renan Calheiros (PMDB-AL) e José Sarney (PMDB-AP). Lula não descarta acomodar o nome derrotado nas eleições do PMDB no primeiro escalão do governo.<BR><BR>A reunião de Lula com a cúpula do PSB durou quase quatro horas, mas os integrantes do partido negaram que tenham pedido cargos ao presidente --apenas deixaram claro que o PSB quer manter o espaço que ocupa no primeiro escalão do governo. Atualmente, o PSB tem o comando dos Ministérios da Integração Nacional e Ciência e Tecnologia.<BR><BR>Segundo o presidente do PSB, Eduardo Campos, o presidente reiterou no encontro o convite para que a legenda permaneça no governo --sem, no entanto, revelar qual será o tamanho do espaço da legenda. \"Não chegamos a colocar a exigência da participação do PSB no governo. O presidente vai tomar sua decisão. Mas ele vai ficar à vontade para decidir se o partido fica ou não à frente das duas pastas\", afirmou Campos.<BR><BR>Apesar de negarem oficialmente, os integrantes do PSB reivindicaram a Lula cargos no segundo escalão do governo, como o comando da Sudene (Superintendência de Desenvolvimento do Nordeste) e do BNB (Banco do Nordeste do Brasil). \"O partido cresceu, tem compromissos com o governo do presidente Lula, o que nos permite reivindicar participação igual a que temos hoje\", disse o líder do PSB no Senado, Renato Casagrande (ES).<BR><BR><B>Ciro Gomes</B><BR><BR>O presidente defendeu, no encontro, o nome do ex-ministro da Integração Nacional Ciro Gomes para ocupar uma das pastas do partido em seu segundo mandato. Os integrantes do PSB reconheceram, no entanto, que Ciro deseja permanecer na Câmara dos Deputados --embora não tenham descartado a possibilidade de o ex-ministro mudar de posição. <BR><BR>\"Vamos conversar com o Ciro sobre essa questão. O desejo do presidente é ter o Ciro no governo. Precisamos resolver essa equação dentro do PSB\", afirmou Albuquerque.<BR><BR>Na tarde de hoje, Lula se reúne com a cúpula do PC do B para continuar as discussões sobre a reforma ministerial. Na semana que vem, será a vez do PT. Lula reconheceu a interlocutores que deixou o seu partido por último por considerar \"difícil\" a conversa com os petistas --que reivindicam um amplo espaço no primeiro escalão, enquanto Lula trabalha para acomodar os 11 partidos aliados em seu governo.</FONT><BR></P> </p>
+{% endraw %}

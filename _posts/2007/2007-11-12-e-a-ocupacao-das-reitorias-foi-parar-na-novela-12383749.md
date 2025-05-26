@@ -1,0 +1,44 @@
+---
+id: 12383749
+date: "2007-11-12T01:00:00Z"
+last_modified_at: null
+tags:
+  - "novela"
+  - "ocupacao"
+categories:
+  - "noticias"
+title: "E a ocupa\u00e7\u00e3o das reitorias foi parar na novela "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">RID&Iacute;CULA,&nbsp;GLOBO ENCENA OCUPA&Ccedil;&Atilde;O DE REITORIA<br /></p>
+<p><br /></p>
+<p><em>Por <strong>Ed&iacute;lson Silva*</strong></em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Nas &uacute;ltimas semanas estudantes universit&aacute;rios de v&aacute;rias partes do pa&iacute;s ocuparam as reitorias de suas respectivas universidades. Lutam contra o aprofundamento da l&oacute;gica de mercado no tratamento das universidades federais, proposto pelo governo Lula atrav&eacute;s do REUNI. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Como j&aacute; exposto em outro artigo escrito por este articulista, o REUNI segue os caminhos propostos por organismos multilaterais, como o Banco Mundial, segundo os quais o Brasil n&atilde;o precisa gastar recursos na produ&ccedil;&atilde;o de conhecimento, pois existem outros pa&iacute;ses em melhores condi&ccedil;&otilde;es para faz&ecirc;-lo. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Os estudantes lutam, em ess&ecirc;ncia, contra a transforma&ccedil;&atilde;o das universidades em grandes escol&otilde;es, fabricando diplomas voltados para um mercado fict&iacute;cio. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Al&eacute;m do problema residente na ess&ecirc;ncia do REUNI, h&aacute; ainda a quest&atilde;o da democracia na comunidade universit&aacute;ria. Os reitores, atra&iacute;dos pela cenoura colocada &agrave; frente do nariz pelo governo Lula, n&atilde;o est&atilde;o consultando as comunidades universit&aacute;rias para definir a ades&atilde;o a este programa. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Ent&atilde;o, h&aacute; tamb&eacute;m a luta para que o debate democr&aacute;tico seja minimamente realizado, para que as comunidades se apropriem dos pr&oacute;s e contras contidos neste programa e possam assim decidir, atrav&eacute;s de plebiscito, a ades&atilde;o ou n&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Ao optar por aderir ao REUNI em reuni&atilde;o esvaziada em seu gabinete, o Reitor Amaro Lins, da UFPE, exp&otilde;e sua voca&ccedil;&atilde;o anti-democr&aacute;tica e assume que n&atilde;o tem seguran&ccedil;a de que&nbsp;o REUNI &eacute; o melhor para a universidade, pois se nega a debate-lo abertamente. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Portanto, trata-se de uma luta justa e o m&eacute;todo de ocupa&ccedil;&atilde;o pac&iacute;fica e organizada das reitorias &eacute; absolutamente leg&iacute;timo. Apesar de pequenos equ&iacute;vocos, como n&atilde;o construir canais de di&aacute;logo com meios de comunica&ccedil;&atilde;o, no caso da ocupa&ccedil;&atilde;o da reitoria da UFPE, em que os estudantes militantes do PSOL foram voto vencido, &eacute; ineg&aacute;vel que esta movimenta&ccedil;&atilde;o chamou minimamente a aten&ccedil;&atilde;o da sociedade. N&atilde;o fossem as ocupa&ccedil;&otilde;es, um n&uacute;mero ainda menor de brasileiros saberia o que &eacute; o REUNI e o que ele representa. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A saud&aacute;vel rebeldia dos estudantes causou uma rea&ccedil;&atilde;o das elites que se beneficiam do atual estado de coisas em nosso pa&iacute;s. E esta elite se expressa pelos meios de comunica&ccedil;&atilde;o de massa, pela m&iacute;dia empresarial, cuja neutralidade sempre foi uma obra de fic&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">V&aacute;rias mat&eacute;rias pat&eacute;ticas t&ecirc;m sido veiculadas por v&aacute;rios jornais. No entanto, nos &uacute;ltimos dias, um ve&iacute;culo de comunica&ccedil;&atilde;o passou tanto dos limites que caiu no rid&iacute;culo. A Rede Globo, atrav&eacute;s de uma de suas telenovelas, mostrou cenas de ocupa&ccedil;&atilde;o da reitoria de uma faculdade privada, que faz parte da trama assinada por Aguinaldo Silva. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Na ocupa&ccedil;&atilde;o da &quot;reitoria da Globo&quot;, os estudantes s&atilde;o sujeitos manipulados e alucinados, que rasgam livros aleatoriamente. Recebem apoio de militantes sem-teto que, tamb&eacute;m alucinados, entram na reitoria quebrando tudo que v&ecirc;em pela frente. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Mesmo neste cen&aacute;rio, a reitora caminha entre os ocupantes sem ser incomodada. O professor que apoiava a ocupa&ccedil;&atilde;o mostra-se arrependido diante das cenas de insensatez. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O l&iacute;der dos estudantes, devidamente trajado com camiseta vermelha debaixo de uma jaqueta que lembra a dos militares, &eacute; um sujeito idiota que solta frases desconectadas em tom prof&eacute;tico. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Os cartazes e as palavras de ordem gritadas pelos &quot;baderneiros&quot; s&atilde;o &quot;contra o capital&quot;. N&atilde;o h&aacute; uma reivindica&ccedil;&atilde;o imediata. Uma palha&ccedil;ada. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">No final da ocupa&ccedil;&atilde;o, a reitora d&aacute; o seu recado: os sem-teto t&ecirc;m teto sim, ou seja, s&atilde;o baderneiros profissionais, e L&ecirc;nin (o l&iacute;der genial da Revolu&ccedil;&atilde;o Russa que completou 90 anos nestes dias) n&atilde;o passa de uma m&uacute;mia. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O l&iacute;der estudantil, o tal idiota, num di&aacute;logo surreal com a reitora, n&atilde;o consegue superar os &quot;argumentos&quot; da porta voz dos interesses Globais. Nada mais direto. Um recado de classe.&nbsp;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O&nbsp;nome da reitora &eacute; bastante simb&oacute;lico e adequado ao papel: Branca. Na vida real, a reitora Branca &eacute; Suzana Vieira, aquela que vive estampada nas capas de Caras, revista de conte&uacute;do indiscutivelmente emburrecedor. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Quem acompanha as atividades dos estudantes sabe que as coisas n&atilde;o s&atilde;o assim e que&nbsp;a Globo fez uma caricatura de mal-gosto, intencional, com o indisfar&ccedil;&aacute;vel objetivo de angariar antipatia popular para a justa luta dos estudantes. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Mas, vindo da Globo, n&atilde;o se trata de novidade. A RCTV, aquela da Venezuela, que n&atilde;o teve sua concess&atilde;o renovada pelo democr&aacute;tico e leg&iacute;timo governo bolivariano, atuava de forma semelhante. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A ousadia dos estudantes que ocupam as universidades incomoda as elites. Incomoda aqueles que querem impor &agrave; sociedade os limites da falsa democracia representativa, em que o poder econ&ocirc;mico compra mandatos e submete o povo aos interesses mesquinhos de minorias e da corrup&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Ao defenderem a universidade enquanto espa&ccedil;o de ensino, pesquisa e extens&atilde;o, p&uacute;blico e de qualidade, os estudantes est&atilde;o indiretamente remando contra a mar&eacute; que imp&otilde;e ao Brasil sangrar quase 40% de seu or&ccedil;amento anual em pagamentos de juros e amortiza&ccedil;&otilde;es ao sistema financeiro. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A Globo e outras m&iacute;dias representam estes interesses econ&ocirc;micos, por isso t&ecirc;m interesse em ridicularizar os estudantes. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">As ocupa&ccedil;&otilde;es est&atilde;o cumprindo seu papel, e os estudantes conscientes de sua estrat&eacute;gia sabem que estas ocupa&ccedil;&otilde;es n&atilde;o s&atilde;o um fim em si mesmo, mas sim um meio de chamar a aten&ccedil;&atilde;o da sociedade e colocar o tema na pauta sob uma &oacute;tica distinta. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Com o foco inequ&iacute;voco na revers&atilde;o dos aspectos negativos do REUNI, o movimento deve agora buscar penetrar fortemente nas salas de aula, ganhar a sociedade e angariar mais aliados dentro e fora dos muros das universidades. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>*Presidente do PSOL/PE, escreve&nbsp;&agrave;s sextas no Blog de Jamildo. Este artigo, no entanto, vai&nbsp;publicado excepcionalmente nesta segunda. Na pr&oacute;xima sexta, Ed&iacute;lson Silva retoma o espa&ccedil;o habitual.</em></font></p> </p>
+{% endraw %}

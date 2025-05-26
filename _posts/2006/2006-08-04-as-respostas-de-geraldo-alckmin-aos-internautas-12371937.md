@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Daqui a pouco vamos postar tudo o que o presidenciável tucano disse em resposta a vocês que nos enviaram&nbsp;perguntas ontem e hoje.</FONT></P></p>
 <p><P><FONT face=Verdana>Tem coisas muito interessantes.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

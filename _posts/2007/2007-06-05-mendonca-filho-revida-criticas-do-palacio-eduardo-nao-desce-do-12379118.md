@@ -1,0 +1,28 @@
+---
+id: 12379118
+date: "2007-06-05T20:08:00Z"
+last_modified_at: null
+tags:
+  - "bento-alquerque"
+  - "eduardo"
+  - "mendonca-filho"
+  - "naomi-campbell"
+categories:
+  - "noticias"
+title: "Mendon\u00e7a Filho revida cr\u00edticas do Pal\u00e1cio: Eduardo n\u00e3o desce do palanque e quer transferir responsabilidades"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">A assessoria de imprensa do Governo Mendon&ccedil;a Filho acaba de divulgar uma nova nota em torno da implanta&ccedil;&atilde;o da Escola Penitenci&aacute;ria do Estado, cuja cria&ccedil;&atilde;o est&aacute; sendo atrasada por conta de problemas burocr&aacute;ticos. A gest&atilde;o passada diz que deixou o projeto pronto e houve incompet&ecirc;ncia para tirar do papel. Segundo o atual governo, o projeto poderia sair mais cedo, caso o ex-governador n&atilde;o tivesse se recusado a assinar o projeto com a Uni&atilde;o, quase seis meses ap&oacute;s o fim da gest&atilde;o passada. Neste novo documento, o governo Mendon&ccedil;a Filho diz que Eduardo Campos n&atilde;o desce do palanque e que a cobran&ccedil;a da assinatura &eacute; surrealista.</font></p></p>
+<p><p><font face=\"Verdana\">NOTA AOS PERNAMBUCANOS</font></p></p>
+<p><p><font face=\"Verdana\"><em>1 &ndash; Como contra fatos n&atilde;o h&aacute; argumentos, o pr&oacute;prio Governo reconhece, em nota oficial, que houve atraso no cronograma de instala&ccedil;&atilde;o da Escola Penitenci&aacute;ria do Estado. Projeto elaborado, aprovado e deixado pronto pela gest&atilde;o Mendon&ccedil;a Filho, a Escola Penitenci&aacute;ria para tornar-se realidade dependia apenas da &ldquo;compet&ecirc;ncia&rdquo; da equipe do atual Governo para liberar os recursos junto ao Governo Federal;</em></font></p></p>
+<p><p><font face=\"Verdana\"><em>2 &ndash; Se tivesse feito uma r&aacute;pida consulta &agrave; Procuradoria Geral do Estado teria constatado que a assinatura do ex-governador Mendon&ccedil;a Filho seria dispens&aacute;vel. Bastava utilizar o instrumento de &ldquo;ratifica&ccedil;&atilde;o&rdquo; ou &ldquo;reratifica&ccedil;&atilde;o&rdquo;, recurso jur&iacute;dico simples, o qual qualquer iniciante em Direito domina. Portanto, n&atilde;o &eacute; verdade que o prazo para libera&ccedil;&atilde;o da verba pelo Governo Federal foi descumprido porque faltou a assinatura do ex-governador Mendon&ccedil;a Filho na documenta&ccedil;&atilde;o. O prazo foi perdido porque o atual Governo &ldquo;desconhece&rdquo; no&ccedil;&otilde;es b&aacute;sicas de gest&atilde;o p&uacute;blica;</em></font></p></p>
+<p><p><font face=\"Verdana\"><em>3 - A execu&ccedil;&atilde;o do projeto n&atilde;o foi &ldquo;transferida&rdquo; pela Gest&atilde;o de Mendon&ccedil;a para o atual Governo como afirma a nota enviada pelo Pal&aacute;cio das Princesas. O projeto de Escola Penitenci&aacute;ria foi uma das muitas a&ccedil;&otilde;es da pol&iacute;tica de seguran&ccedil;a de Estado do Governo Mendon&ccedil;a e que, por motivos &oacute;bvios, deveria ser continuada pelo atual Governo;</em></font></p></p>
+<p><p><font face=\"Verdana\"><em>4 &ndash; As informa&ccedil;&otilde;es sobre o aluguel de uma mans&atilde;o em Casa Forte por R$ 4 mil mensais para a abertura da Escola e a realiza&ccedil;&atilde;o de um semin&aacute;rio sobre a Escola Penitenci&aacute;ria foram repassadas &agrave; Imprensa por fontes do Governo atual na tentativa de confundir a opini&atilde;o p&uacute;blica &ldquo;jogando&rdquo; para o Governo passado a responsabilidade pelo n&atilde;o cumprimento de promessas feitas &agrave; popula&ccedil;&atilde;o;</em></font></p></p>
+<p><p><font face=\"Verdana\"><em>5 &ndash; Reafirmamos que o ex-governador Mendon&ccedil;a Filho foi solicitado, pelo atual Governo a assinar o documento, praticamente seis meses ap&oacute;s deixar o cargo. O que significaria assinar com data retroativa, uma vez que constitucionalmente existe um governador respondendo pelo Governo desde o dia 1 de janeiro. Transferir para o governo passado a responsabilidade pela perda de prazo para libera&ccedil;&atilde;o de verba, com seis meses de Governo, &eacute; um recurso um tanto surrealista;</em></font></p></p>
+<p><p><font face=\"Verdana\"><em>6 &ndash; Voltamos a lamentar que o atual Governo, diante do n&atilde;o cumprimento de promessas feitas aos pernambucanos, insista na pr&aacute;tica de tentar confundir a opini&atilde;o p&uacute;blica manipulando dados e apresentando informa&ccedil;&otilde;es falsas; </em></font></p></p>
+<p><p><font face=\"Verdana\"><em>7 - Por fim, n&atilde;o &eacute; verdade que o atual Governo recebeu o Estado com d&eacute;ficit. Basta ver o balan&ccedil;o financeiro do Estado de Pernambuco de 2006, publicado no Di&aacute;rio Oficial do Estado, pela equipe do atual Governo, no dia 11/04/2007. Nele pode-se constatar que Mendon&ccedil;a Filho deixou as finan&ccedil;as equilibradas, tanto que Pernambuco apresentou em 2006 um super&aacute;vit consolidado de R$ 168 milh&otilde;es. A nota enviada pela assessoria do Governador fala de &iacute;ndices recordes de viol&ecirc;ncia na gest&atilde;o passada, usando politicamente o problema da viol&ecirc;ncia em nosso Estado. Tanto que &ldquo;esqueceu&rdquo; dos n&uacute;meros da viol&ecirc;ncia neste primeiro semestre deste &ldquo;novo&rdquo; Governo. &Iacute;ndices que n&atilde;o conferem ao atual Governo autoridade para falar sobre viol&ecirc;ncia, muito menos tratar uma quest&atilde;o t&atilde;o s&eacute;ria, que envolve a seguran&ccedil;a da popula&ccedil;&atilde;o, como se ainda estivesse em cima de um palanque.&nbsp; </em></font></p> </p>
+{% endraw %}

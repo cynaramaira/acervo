@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Restaram poucos caminhos ao deputado federal Armando Monteiro Neto (PTB), campeão de votos em Pernambuco e principal l?der da Frente Trabalhista (PTB e PMN) no Estado.</FONT></P></p>
 <p><P><FONT face=Verdana>Caberá a ele, por delegação da Frente, decidir quem apoiará neste segundo turno - se Eduardo Campos (PSB) ou Mendonça Filho (PFL).</FONT></P></p>
 <p><P><FONT face=Verdana>Houve muitas romarias desde ontem até o escritório dele, na Ilha do Leite, no Recife. Muitos telefonemas. Dezenas o procuraram para conversar.</FONT></P></p>
@@ -35,4 +35,4 @@ imagem: null
 <p><P><FONT face=Verdana>Ele vai cobrar isso amanhã, pessoalmente, durante encontro com o socialista. </FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo volta de Bras?lia hoje à noite e, pela manhã, só tem um horário fechado, às 10h - uma visita ao prefeito João Paulo (PT).</FONT></P></p>
 <p><P><FONT face=Verdana>Mas nas agendas, tanto dele quanto de Armando, há um horário especialmente vago: 11h30.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

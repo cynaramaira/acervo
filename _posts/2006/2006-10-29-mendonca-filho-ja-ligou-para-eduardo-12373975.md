@@ -13,8 +13,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O governador e candidato derrotado à reeleição Mendonça Filho (PFL) já telefonou para Eduardo Campos (PSB) reconhecendo a derrota e desejando sorte no novo governo.</FONT></P></p>
 <p><P><FONT face=Verdana>O teor da conversa entre eles, no entanto, só será conhecido daqui a pouco, na entrevista que Eduardo concederá.</FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo está neste momento num apartamento do Recife Monte Hotéis, em Boa Viagem, Recife, com toda a fam?lia.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

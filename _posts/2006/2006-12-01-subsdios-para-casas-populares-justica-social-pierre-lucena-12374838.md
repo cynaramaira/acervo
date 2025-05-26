@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Pierre Lucena*</STRONG><BR>Professor e administrador <BR></FONT><A href=\"mailto:pierre.lucena@contagemweb.com.br\"><FONT face=Verdana>pierre.lucena@contagemweb.com.br</FONT></A></P></p>
 <p><P><FONT face=Verdana><BR>O anúncio do Ministro Guido Mantega de que o Governo iria disponibilizar entre 10 e 15 bilhões de reais para subsidiar a construção de moradias populares veio em boa hora.</FONT></P></p>
 <p><P><FONT face=Verdana>A idéia seria auxiliar a população que ganha até 5 salários m?nimos através de um subs?dio direto, com a União assumindo dois terços da prestação, e o beneficiário um terço.</FONT></P></p>
@@ -34,4 +34,4 @@ imagem: null
 <p><P><FONT face=Verdana>Estou vendo muito economista dizer que a classe média deveria estar inclu?da neste pacote. Ora, o recurso não dá pra todo mundo. O ideal é diminuir as favelas, e não fica financiando apartamento em Boa Viagem para quem pode se programar.O que a classe média precisa é de um plano para ter taxas mais decentes de financiamento, onde a taxa de juros seja menor que a rentabilidade dos aluguéis.</FONT></P></p>
 <p><P><FONT face=Verdana>Já tinha gente sonhando em subs?dio para viver à beira-mar.</FONT></P></p>
 <p><P><FONT face=Verdana><EM><STRONG>*Pierre Lucena</STRONG>, 35, doutor em finanças pela PUC-Rio, Mestre em Economia e Administrador pela UFPE, é professor-adjunto da Universidade Federal de Pernambuco, sócio da Contagem Consultoria Estratégica e Pesquisa (</EM></FONT><A href=\"https://www.contagemweb.com.br\"><FONT face=Verdana><EM>www.contagemweb.com.br</EM></FONT></A><FONT face=Verdana><EM>). Foi secretário-adjunto de Educação do Estado. É Coordenador do Núcleo de Finanças e Investimentos do Departamento de Ciências Administrativas da UFPE (NEFI).</EM></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

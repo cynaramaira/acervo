@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><span style="font-family: Verdana;">Da <strong>Folha de S.Paulo</strong></span></p>
 <p><span style="font-family: Verdana;">Cinco empreiteiras associadas da Abemi (Associa&ccedil;&atilde;o Brasileira de Engenharia Industrial) e que mant&ecirc;m contratos com a Petrobras doaram, juntas, R$ 2,5 milh&otilde;es para pol?ticos do PT em v&aacute;rios Estados.</span></p>
 <p><span style="font-family: Verdana;">As empresas UTC, Genpro, Engevix, Potencial e Odebrecht mant&ecirc;m pelo menos R$ 775,6 milh&otilde;es em neg&oacute;cios com a petroleira, segundo levantamento feito pela Folha.</span></p>
@@ -22,4 +22,4 @@ imagem: null
 <p><span style="font-family: Verdana;">(...) Depois do PT, o partido que mais recebeu da Engevix foi o PMDB, com R$ 150 mil. O governador reeleito do Esp?rito Santo, Paulo Hartung, aliado do presidente Luiz In&aacute;cio Lula da Silva, ficou com R$ 100 mil.</span></p>
 <p><span style="font-family: Verdana;">Do grupo de cinco empresas, a construtora Odebrecht foi a &uacute;nica que n&atilde;o privilegiou pol?ticos do PT. Ela doou, ao todo, R$ 1,5 milh&atilde;o, dos quais R$ 325 mil foram para candidatos do PT, principalmente para o candidato derrotado ao governo de S&atilde;o Paulo, Aloizio Mercadante (R$ 300 mil). Outros R$ 657 mil foram doados a pol?ticos do PSDB e R$ 180 mil para nomes do PMDB.</span></p>
 <p><span style="font-family: Verdana;">Leia mais <strong><em><a href="http://fivenews.sjcc.com.br/https:/www1.folha.uol.com.br/fsp/brasil/fc2111200602.htm" target="_blank" rel="noopener noreferrer">aqui</a></em></strong> (assinantes).</span></p>
-{\% endraw %}
+{% endraw %}

@@ -1,0 +1,25 @@
+---
+id: 12379221
+date: "2007-06-09T15:03:00Z"
+last_modified_at: null
+tags:
+  - "inovacao"
+categories:
+  - "noticias"
+title: "PAC e Inova\u00e7\u00e3o Tecnol\u00f3gica "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Por <em><strong>M&ocirc;nica Lustosa </strong></em></font></p></p>
+<p><p><font face=\"Verdana\">Enquanto a China cresce, aproximadamente, 8% ao ano e Cor&eacute;ia e Taiwan, mais de 7%, desde 1970, nos &uacute;ltimos anos, o Brasil tem atingido um crescimento anual, em m&eacute;dia, de 2% ao ano. Na tentativa de mudar essa realidade, em 22 de janeiro de 2007, o governo brasileiro lan&ccedil;ou o Programa de Acelera&ccedil;&atilde;o do Crescimento (PAC), que cont&eacute;m um conjunto de medidas que visa criar condi&ccedil;&otilde;es para eleva&ccedil;&atilde;o da taxa de crescimento econ&ocirc;mico do Pa&iacute;s. Para tanto, o governo pretende estimular o cr&eacute;dito e o financiamento; aumentar o investimento em infra-estrutura, desonerar o sistema tribut&aacute;rio, entre outras medidas. </font></p></p>
+<p><p><font face=\"Verdana\">Entretanto, o PAC n&atilde;o pode ser considerado um plano de desenvolvimento sustentado, vez que o mesmo n&atilde;o apresenta medidas que induzam as empresas brasileiras a agregar valor &agrave; sua produ&ccedil;&atilde;o tecnol&oacute;gica, proporcionando-lhes competitividade e, conseq&uuml;entemente, maior inser&ccedil;&atilde;o no mercado internacional. O desenvolvimento do Pa&iacute;s demanda a ado&ccedil;&atilde;o de uma pol&iacute;tica macroecon&ocirc;mica que contemple um programa voltado para a forma&ccedil;&atilde;o de profissionais empreendedores, bem como para a inova&ccedil;&atilde;o tecnol&oacute;gica e inclus&atilde;o social. </font></p></p>
+<p><p><font face=\"Verdana\">O m&eacute;rito do PAC seria colocar o Estado como patrocinador do crescimento econ&ocirc;mico, gra&ccedil;as aos investimentos em infra-estrutura, todavia, com mais de 100 dias de cria&ccedil;&atilde;o, o Programa s&oacute; aplicou 12% do valor or&ccedil;ado para obras: 47,5% das obras e projetos est&atilde;o atrasadas. Al&eacute;m do mais, ainda que os recursos prometidos fossem cumpridos, n&atilde;o podemos esquecer que o Brasil &eacute; complexo demais para ser consertado por decreto e o Programa s&oacute; poder&aacute; impactar positivamente no mundo real se houver mudan&ccedil;as culturais e ampla participa&ccedil;&atilde;o da sociedade, sobretudo, da classe empresarial, j&aacute; que o setor privado &eacute; o &uacute;nico que pode, efetivamente, gerar crescimento. </font></p></p>
+<p><p><font face=\"Verdana\">Para que o Brasil volte a crescer, &eacute; indispens&aacute;vel que as empresas nacionais tenham maior participa&ccedil;&atilde;o no mercado internacional e, para tanto, &eacute; necess&aacute;rio que nossos produtos tenham maior valor agregado e que isso se converta em vantagem competitiva, o que s&oacute; &eacute; poss&iacute;vel se os empres&aacute;rios tiverem esp&iacute;rito empreendedor. </font></p></p>
+<p><p><font face=\"Verdana\">A capacidade empreendedora das empresas &eacute; t&atilde;o importante para o desenvolvimento que, em 1998, nos Estados Unidos, mais de mil universidades j&aacute; haviam inclu&iacute;do a disciplina de empreendedorismo nos cursos de gradua&ccedil;&atilde;o e, atualmente, a disciplina &eacute; obrigat&oacute;ria, tamb&eacute;m no primeiro grau, em cinco estados americanos. </font></p></p>
+<p><p><font face=\"Verdana\">Necess&aacute;ria, ainda a prote&ccedil;&atilde;o da propriedade intelectual, imprescind&iacute;vel para assegurar, ao investidor, direito exclusivo de explora&ccedil;&atilde;o econ&ocirc;mica do objeto da sua criatividade. A express&atilde;o propriedade intelectual abrange marcas, patentes, desenhos industriais, transfer&ecirc;ncia de tecnologia, direitos autorais e conexos, softwares, nomes de dom&iacute;nio, denomina&ccedil;&otilde;es empresariais e repress&atilde;o &agrave; concorr&ecirc;ncia desleal. </font></p></p>
+<p><p><font face=\"Verdana\">Empreendedorismo, inova&ccedil;&atilde;o e prote&ccedil;&atilde;o da propriedade intelectual despontam, assim, como indispens&aacute;vel a qualquer empresa de sucesso. Entretanto, deve-se ressaltar que o produto ou servi&ccedil;o beneficiado com a inova&ccedil;&atilde;o precisa estar voltado para o mercado, ou seja, precisa atender &agrave;s necessidades de consumo da sociedade a que se destina, antecipando-se &agrave;s demandas reais e potenciais do mercado internacional para, assim, alavancar a empresa inovadora e proporcionar desenvolvimento sustentado ao seu pa&iacute;s de origem. </font></p></p>
+<p><p><font face=\"Verdana\">PS: M&ocirc;nica Lustosa &eacute; advogada especialista em Direito Empresarial e Propriedade Intelectual e s&oacute;cia da Siqueira Castro Advogados/PE </font></p> </p>
+{% endraw %}

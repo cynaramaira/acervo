@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B></p>
 <p><P><FONT face=Verdana><STRONG>9h</STRONG>, carreata na Zona Oeste do Recife. Roteiro: Engenho do Meio, Roda de Fogo, San Martin, Mangueira e Mustardinha. Concentração: por trás da antiga Sudene </FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>11h</FONT></B><FONT face=Verdana>, caminhada na praia de Boa Viagem </FONT></P><B></p>
 <p><P><FONT face=Verdana>14h</FONT></B><FONT face=Verdana>, reunião com lideranças pol?ticas da Região Metropolitana do Recife. Local: Clube Internacional do Recife </FONT></P><B></p>
 <p><P><FONT face=Verdana>19h</FONT></B><FONT face=Verdana>, concede entrevista ao Programa Esporte no 11</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><STRONG><FONT face=Verdana>Louise Caroline:</FONT></STRONG></P></p>
 <p><P><FONT face=Verdana>Os primeiros programas têm sido para a apresentação dos candidatos, de seus aliados e suas propostas. Acho que o programa de Humberto foi feliz ao deixar evidente quem em Pernambuco representa o projeto nacional de Lula, não simplesmente por ser seu aliado, mas por ser do mesmo partido, da mesma história, de todos os tempos e não apenas dos bons momentos. </FONT></P></p>
 <p><P><FONT face=Verdana>A União manteve a linha de colocar Jarbas como carro-chefe de todas as candidaturas, na tentativa de repetir o sucesso da vinculação que elegeu Marco Maciel e Sérgio Guerra. Acho que com o decorrer do guia a associação a Alckmin será inevitável e poderá estragar a estratégia. </FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Achei os guias majoritários propositivos, com um n?vel elevado. </FONT></P></p>
 <p><P><FONT face=Verdana>Os três candidatos foram previs?veis. </FONT></P></p>
 <p><P><FONT face=Verdana>Observei o fato de que nenhum deles tocou no assunto dos escândalos envolvendo o Governo Federal, o mensalão, essas coisas. Não faço juizo de valor sobre isso - se é bom ou ruim - mas é um fato. E, em algum momento da campanha, esse assunto virá à tona. Não sei de que forma e como será, mas é um tema que será muito falado.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

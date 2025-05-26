@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O candidato petista acaba de mostrar que não vê problemas em falar no programa de urgências, depois do escândalo do superfaturamento de ambulâncias, no qual tentam envolvê-lo.</FONT></P></p>
 <p><P><FONT face=Verdana>O SAMU teve papel de destaque na apresentação das realizações do ex-ministro da Saúde no primeiro guia eleitoral, que está no ar.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

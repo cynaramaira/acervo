@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por<B> Ana Lúcia Andrade</B><BR>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>SERRA TALHADA - Visivelmente cansado, quase sem voz e exibindo um entusiasmo bem diferente do que demonstrou na chamada \"caminhada da vitória\", quinta-feira, no Recife, o governador-candidato Mendonça Filho (PFL) fez, ontem à noite, uma breve carreata, seguida de um rápido e improvisado com?cio, nesta cidade do Sertão do Pajeú, onde perdeu para os dois postulantes ao governo do Estado no primeiro turno: Eduardo Campos (PSB) e Humberto Costa (PT). </FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Em uma rápida mensagem aos eleitores de Serra Talhada, Mendonça falou muito mais da importância de reeleger o prefeito Carlos Evandro, em 2008 – num gesto de extrema gratidão ao aliado – do que em favor de sua reeleição. </FONT></P></p>
 <p><P><FONT face=Verdana>Mas repetiu a necessidade de um \"esforço redobrado\", nessa última semana de campanha, e pediu, num discurso de menos de dez minutos em frente à sede de seu comitê, que a militância não se deixe levar pela</p>
 <p> impressão de que a eleição já está decidida, em função da desvantagem que apresenta em todas as pesquisas divulgadas até agora. \"Ninguém ganha eleição de véspera. Tem de trabalhar todo dia, até o dia da eleição\", recomendou.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

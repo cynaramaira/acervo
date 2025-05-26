@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do blog de <STRONG>Alon Feuerwerker</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Vou propor que no próximo debate da Globo com o formato de ontem os indecisos sejam advertidos a respeito das atribuições do Presidente da República. Ou então que a emissora escolha pessoas com indecisões do seguinte tipo:</FONT></P></p>
 <p><P><FONT face=Verdana>1) O orçamento federal deve ser impositivo ou autorizativo?</FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>9) O voto para o Legislativo deve ser distrital puro, distrital misto, proporcional uninominal (é assim que chama?) ou proporcional em lista? Nesse ultimo caso, a lista deve ser estadual ou nacional?</FONT></P></p>
 <p><P><FONT face=Verdana>10) O pa?s deve ou não flexibilizar regionalmente a legislação tributária e trabalhista, para promover a industrialização forçada das regiões menos desenvolvidas, por meio de zonas especiais de exportação?</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://blogdoalon.blogspot.com/\" target=_blank>aqui</A></EM></STRONG>.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

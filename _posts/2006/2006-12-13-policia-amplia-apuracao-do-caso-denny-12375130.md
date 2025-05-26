@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>A Gerência de Pol?cia da Criança e do Adolescente (GPCA) vai investigar se há relação entre as denúncias de abuso sexual feitas contra o ex-apresentador da <I>TV Jornal</I> Denny Olliveira e as que envolvem o produtor de moda Roque da Silva Costa, preso no último dia 16 de novembro, por pedofilia, em Vitória de Santo Antão, na Zona da Mata do Estado. </FONT></P></p>
 <p><P><FONT face=Verdana>O produtor, detido atualmente no Pres?dio da cidade, entregou ao promotor da Vara de Execuções Penais, Marcellus Ugiette, duas cartas endereçadas ao ex-apresentador. </FONT></P></p>
 <p><P><FONT face=Verdana>Entre agosto e outubro deste ano, Roque da Silva Costa esteve dez vezes na <I>TV Jornal </I>para levar crianças que participariam do programa Muito Mais, comandado por Denny. </FONT></P></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>No depoimento, Christiano negou ter conhecimento de práticas de abuso sexual nos bastidores do Muito Mais, mas admitiu ter telefonado, a pedido de Denny Olliveira, para a mãe de uma das meninas que o denunciou, para marcar um encontro. O maestro disse, ainda, que a reunião teria sido efetivamente marcada, já pelo próprio Denny, mas que não sabia do resultado. </FONT></P></p>
 <p><P><FONT face=Verdana>\"Para mim, essa história toda foi um baque muito grande. Não tenho conhecimento nenhum dessas acusações. As crianças que iam ao programa participavam dos concursos e nada mais\", assegurou Christiano, na GPCA. </FONT></P></p>
 <p><P><FONT face=Verdana>O depoimento do auxiliar administrativo e de palco Na M?dia pouco acrescentou à investigação. Ele também frisou que nunca soube do envolvimento de Denny com abuso sexual e negou qualquer envolvimento com o crime. Não há previsão de quando o ex-apresentador será intimado a depor. </FONT></P> </p>
-{\% endraw %}
+{% endraw %}

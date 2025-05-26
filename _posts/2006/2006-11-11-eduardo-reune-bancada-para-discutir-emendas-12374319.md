@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>A primeira reunião do governador eleito Eduardo Campos (PSB) com a bancada federal de Pernambuco ocorrerá na próxima terça, em Bras?lia. </FONT></P></p>
 <p><P><FONT face=Verdana>Com a ajuda dos parlamentares, o socialista pretende avaliar como está a situação do repasse de verbas contingenciadas para o Estado no Orçamento Geral da União (OGU) deste ano. Ele quer saber o que foi realizado, o que está pendente e o que não foi liberado. </FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Comentário meu:</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>O convite para o encontro é apenas aos parlamentares no exerc?cio do mandato, incluindo os 25 deputados federais e os três senadores - Sérgio Guerra (PSDB), Marco Maciel e José Jorge (PFL).</FONT></P></p>
 <p><P><FONT face=Verdana>“Jarbas é um problema para o próximo ano???, foi o que me disse um auxiliar de Eduardo.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

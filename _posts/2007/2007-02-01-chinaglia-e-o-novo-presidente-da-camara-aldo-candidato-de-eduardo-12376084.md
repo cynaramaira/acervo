@@ -1,0 +1,23 @@
+---
+id: 12376084
+date: "2007-02-01T19:45:00Z"
+last_modified_at: null
+tags:
+  - "camara"
+  - "candidatos"
+  - "eduardo-campos"
+  - "novo-presidente"
+  - "rivaldo"
+  - "saturno"
+categories:
+  - "noticias"
+title: "Chinaglia \u00e9 o novo presidente da C\u00e2mara. Aldo, candidato de Eduardo Campos, ainda levou disputa para 2\u00ba turno"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><P><FONT face=Verdana>Da <STRONG>Folha Online</STRONG></FONT></P></p>
+<p><P><FONT face=Verdana>Apoiado por um megabloco partidário, o petista Arlindo Chinaglia (SP) venceu a eleição para a presidência da Câmara. Com 261 votos, Chinaglia superou Aldo Rebelo (PC do B-SP) no segundo turno da eleição.<BR><BR>O megabloco de Chinaglia é formado por PMDB, PT, PP, PR, PTB, PSC, PTC e PT do B. Essa costura foi criticada por tradicionais aliados do presidente Luiz Inácio Lula da Silva, como o deputado Beto Albuquerque (PSB-RS). \"O presidente Lula disse que queria um eixo de centro-esquerda no seu governo. Nós levamos isso a sério. O PT não fez eixo de centro-esquerda, mas de centro-direita\", afirmou ele ontem.<BR><BR>O racha na base aliada foi criticado por aliados fiéis de Lula. O deputado Ciro Gomes (PSB-CE), ex-ministro da Integração Nacional, disse temer que \"feridas insuperáveis\" apareçam após a disputa pelo comando da Casa, o que poderia colocar em risco a coalizão proposta pelo presidente Lula.<BR><BR>Antes disso, ele já havia pregado um entendimento entre Aldo e Chinaglia para evitar um racha ainda maior na base aliada. \"Estou preocupado porque a eleição para a Mesa da Câmara não é a única discussão que está em jogo aqui. O que está em discussão é a qualidade do governo Lula, que dependerá de um bom cimento político que nós estamos tentando montar. Nesta perspectiva, acho uma insensatez que duas forças políticas aliadas não encontrem uma fórmula, ainda que complexa, de sairmos desse episódio unidos\", disse ele na terça-feira passada. <BR><BR>O desgaste na base ficou evidente nesta semana durante debate promovido pela TV Câmara, quando Aldo afirmou que não \"julga prudente nem equilibrado a concentração de poder\" nas mãos de um só partido. \"Não creio que se deva dar mais força a um único partido. Não julgo prudente para o próprio PT a concentração de poder\", disse.<BR><BR>A declaração de Aldo foi prontamente criticada por integrantes do PT. O presidente nacional do PT, Ricardo Berzoini (SP), disse que a atitude de Aldo foi \"inadequada e deselegante\" com o partido aliado. \"Não foi um gesto elegante. Elegância é bom para consolidar lideranças. Ele tentou criar um ambiente de rejeição ao PT que não existe\", disse o presidente do partido.<BR><BR><B>Perfil</B><BR><BR>Chinaglia diz que foi ele quem iniciou o ex-ministro Antonio Palocci na política, nos anos 70, quando presidia o Sindicato dos Médicos de São Paulo. \"De lá para cá o Palocci se tornou um craque. Não porque é inteligente, mas porque é calmo. Isso é um perigo\", afirma.<BR><BR>A calma do antigo pupilo é um objetivo que Chinaglia persegue e não alcança. Às vezes, parece sofrer de \"dupla personalidade política\". Dentro do PT, é um articulador hábil, que convive bem com todas as tendências, sem grandes inimigos internos. Uma façanha.<BR><BR>Fora das instâncias partidárias, Chinaglia é explosivo. Mandou Aécio Neves (PSDB) \"calar a boca\" numa discussão em 1998. Ameaçou \"dar porrada\" em José Lourenço (PFL-BA) numa sessão sobre reforma da Previdência. Já trocou barrigadas com Inocêncio Oliveira (PR-PE) no plenário.<BR><BR>Em 1995, o ano em que estreou na mídia nacional, denunciou fraudes no caso Sivam e derrubou o então secretário de Acompanhamento Econômico, José Milton Dallari.<BR><BR>No governo FHC, se havia alguma chance de CPI, era com ele. Tentou emplacar várias, geralmente sem sucesso.<BR><BR>A experiência lhe valeu um lugar de destaque na operação-abafa montada em 2005, quando estourou o escândalo nos Correios. \"Eu já estive do outro lado, sei do poder que o governo tem\", disse, à época.<BR><BR>Petistas o classificam como um obstinado, mas que toma cuidado para não avançar a um ponto que não permita reconciliação futura. Já esteve do lado oposto a figuras de proa do partido: José Dirceu, Marta Suplicy, José Genoino, e Ricardo Berzoini. Hoje, todos o apóiam. Nomeou Cândido Vaccarezza (PT-SP), antigo rival, coordenador da campanha.</FONT><BR></P> </p>
+{% endraw %}

@@ -14,7 +14,7 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>&nbsp;</p>
 <p>Foi o que disse o senador S&eacute;rgio Guerra (PSDB), ao deixar a sede da Pol?cia Federal, no Cais do Apolo, Bairro do Recife, no final da tarde de hoje. O tucano estava acompanhado do deputado federal Bruno Rodrigues (PSDB), dos deputados estaduais Lourival Sim&otilde;es (PV) e Henrique Queiroz (PP) e do vice-prefeito de Paulista, Dufles Pires (PSDB).</p>
 <p>"A pris&atilde;o de um deputado estadual o pr&oacute;prio poder Legislativo considera ilegal. A n&atilde;o ser que fosse em flagrante delito, que n&atilde;o foi o caso", disse o tucano, referindo-se &agrave; pris&atilde;o do deputado estadual reeleito pelo PMDB, Claudiano Martins, hoje, em Caxias, no Maranh&atilde;o, pela Pol?cia Federal na Opera&ccedil;&atilde;o Alcaides.</p>
@@ -33,4 +33,4 @@ imagem: null
 <p>As empresas vencedoras da licita&ccedil;&atilde;o n&atilde;o prestavam o servi&ccedil;o ou n&atilde;o entregavam o material comprado, mas apresentavam notas fiscais falsas &agrave;s prefeituras para que os governos municipais pudessem elaborar presta&ccedil;&otilde;es de contas fraudulentas.</p>
 <p>Com essas presta&ccedil;&otilde;es, a verba era liberada pela Uni&atilde;o e o dinheiro era sacado pelos pr&oacute;prios prefeitos, tesoureiros, secret&aacute;rios de Finan&ccedil;as ou terceiros que n&atilde;o tinham liga&ccedil;&otilde;es com as empresas supostamente contratadas.</p>
 <p>No dicion&aacute;rio, Alcaide &eacute; uma palavra do portugu&ecirc;s antigo que quer dizer antigo governador de castelo, prov?ncia ou comarca, com jurisdi&ccedil;&atilde;o civil e militar; atualmente, autoridade da administra&ccedil;&atilde;o espanhola com fun&ccedil;&otilde;es que correspondem &agrave;s de prefeito.</p>
-{\% endraw %}
+{% endraw %}

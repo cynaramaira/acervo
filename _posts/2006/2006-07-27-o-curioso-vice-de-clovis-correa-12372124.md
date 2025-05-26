@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O nome dele é Antônio Passos Ferreira, 39 anos, candidato a vice-governador na chapa do Partido da Reedificação da Ordem Nacional (Prona), comandada por Clóvis Corrêa, ex-presidente do Tribunal Regional do Trabalho.</FONT></P></p>
 <p><P><FONT face=Verdana>Toninho, como é mais conhecido, tornou-se um fenômeno no interior de Pernambuco.</FONT></P></p>
 <p><P><FONT face=Verdana>Nos últimos dois anos, depois que perdeu a eleição para vereador de Petrolina, assumiu o comando de um conglomerado de sindicatos. São 46 e mais 50 entidades associadas. Todos com o objetivo de ajudar quem queira se aposentar.</FONT></P></p>
@@ -138,4 +138,4 @@ imagem: null
 <p><P><FONT face=Verdana>Não!!! Oxe!!!! Todo dia, não!!! A gente não faz empréstimo todo dia!!! Ah, se fosse...ah, que bênção se nós vendesse empréstimo todo dia!!!! Seria bom! A gente fizemos muitos. Só que agora caiu em todos os lugares. Onde você imaginar caiu o empréstimo. Caiu assim...porque todo mundo já fez. E quem fez ainda está pagando. A? o INSS não libera. Tá entendendo?</FONT></P><B></p>
 <p><P><FONT face=Verdana>E Toninho autoriza os empréstimos?</FONT></P></B></p>
 <p><P><FONT face=Verdana>Olhe, Toninho ele é daqui dessa parte geral do Sintaap, porque ele é o presidente do sindicato. Tudo passa pela mão dele. Menos esse empréstimo, que é o rapaz que trabalha aqui que faz esses empréstimos.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

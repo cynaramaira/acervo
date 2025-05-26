@@ -1,0 +1,27 @@
+---
+id: 12394421
+date: "2008-10-15T10:00:00Z"
+last_modified_at: null
+tags:
+  - "pistolas"
+categories:
+  - "noticias"
+title: "E se Kassab fosse gay? O que Marta tem a ver com isto?"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>&nbsp;</p></p>
+<p><p>O dever da resist&ecirc;ncia</p></p>
+<p><p>Por Reinaldo Azevedo, em seu blog</p></p>
+<p><p>Inser&ccedil;&atilde;o do PT na TV indaga se o prefeito Gilberto Kassab &eacute; casado e tem filhos. A cidade inteira sabe que a resposta &eacute; &quot;n&atilde;o&quot; e &quot;n&atilde;o&quot;. Ent&atilde;o por que a pergunta&#63; &Eacute; &oacute;bvio que se tenta fazer um questionamento sub-rept&iacute;cio, covarde como s&oacute;i na turma, sobre a sua sexualidade, que n&atilde;o interessa a ningu&eacute;m, a n&atilde;o ser a ele pr&oacute;prio. Seria rid&iacute;culo sustentar isso ou aquilo, asseverar esta ou aquela condi&ccedil;&atilde;o. Corresponderia a fazer o jogo da canalha que tenta transformar preconceitos em escolha pol&iacute;tica.</p></p>
+<p><p>E se ele fosse gay&#63; Isso o impediria de ser o grande prefeito que &eacute;&#63; O PT chafurda na lama, na propaganda mais odienta, na escolha mais desprez&iacute;vel, na discrimina&ccedil;&atilde;o mais asquerosa. Ao mesmo tempo em que assim procede, tenta criminalizar o DEM, como se o partido n&atilde;o tivesse direito de existir. &Eacute; o fim da linha. No partido de Celso Daniel, de Santo Andr&eacute;, e de Toninho do PT, de Campinas, tudo &eacute; permitido, tudo vale, tudo pode. Eis a campanha que est&aacute; sob o gerenciamento de Gilberto Carvalho, bra&ccedil;o direito de Lula - o mesmo Carvalho que era bra&ccedil;o direito de... Celso Daniel.</p></p>
+<p><p>Algu&eacute;m poderia indagar: &quot;Mas a pr&oacute;pria Marta n&atilde;o foi v&iacute;tima de preconceito por ter-se separado de Eduardo Suplicy e casado com o argentino Felipe Belis&aacute;rio Wermus&#63;&quot; Eu acho que sim. J&aacute; escrevi isso aqui. E tamb&eacute;m observei &agrave; &eacute;poca que seus acertos e seus erros nada tinham a ver com a sua op&ccedil;&atilde;o. Mas h&aacute; algumas diferen&ccedil;as a&iacute;. Quem levou o drama de alcova do trio para a pra&ccedil;a p&uacute;blica foi um dos v&eacute;rtices do tri&acirc;ngulo: o marido agravado. Ningu&eacute;m foi escarafunchar a vida de Marta ou perguntar se ela primeiro se divorciou para, ent&atilde;o, ficar com seu novo amor. Mais: Belis&aacute;rio Wermus, que prefere ser chamado de Lu&iacute;s Favre, fez quest&atilde;o se tornar uma esp&eacute;cie de assessor especial de marta e de participar do debate p&uacute;blico brasileiro. Kassab n&atilde;o ofereceu a sua vida privada ao escrut&iacute;nio de ningu&eacute;m.</p></p>
+<p><p>Muitos dir&atilde;o que este texto n&atilde;o deixa de ser conseq&uuml;&ecirc;ncia da estrat&eacute;gia vil do petismo. Errado. A quest&atilde;o est&aacute; dada. Recebi ontem oito telefonemas de amigos - dois deles de esquerda, eleitores (ser&atilde;o ainda&#63;) de Marta - que est&atilde;o absolutamente enojados. Os leitores come&ccedil;aram a comentar no blog antes mesmo que eu escrevesse qualquer coisa a respeito. A campanha de Marta comete uma dupla canalhice &eacute;tica.</p></p>
+<p><p>A primeira, evidentemente, &eacute; especular, sem que lhe tenha sido dada licen&ccedil;a, sobre a condi&ccedil;&atilde;o sexual de algu&eacute;m, o que &eacute; inaceit&aacute;vel; a segunda &eacute; sugerir que, se fosse verdadeira a ila&ccedil;&atilde;o, seria uma m&aacute;cula. N&atilde;o! Kassab, acreditem, n&atilde;o est&aacute; sendo pessoalmente atingido. Mas todos os gays do pa&iacute;s est&atilde;o. Marta quer lhes cassar a cidadania com uma campanha covarde e homof&oacute;bica, que nem mesmo ousa dizer seu nome. Justo ela, que iniciou a sua carreira pol&iacute;tica fazendo proselitismo entre os homossexuais. Mais uma farsa se revela - ou uma &quot;bravata&quot;, para usar express&atilde;o do presidente Lula: os gays serviram para dar visibilidade a Marta Suplicy. Agora, se preciso, ela os manda para a fogueira para conquistar os votos evang&eacute;licos. Foram usados e agora s&atilde;o jogados fora. No PT, vale tudo para se eleger. Sempre valeu.</p></p>
+<p><p>No dia 10 de julho de 2006, o jornal O Globo registrava uma fala emblem&aacute;tica. Indagaram a Marco Aur&eacute;lio Top Top Garcia, ent&atilde;o presidente interino do PT, se n&atilde;o era constrangedor para Lula dividir o palanque com mensaleiros. Sabem o que ele respondeu&#63; &quot;Constrangedor &eacute; n&atilde;o ter voto&quot;. &Eacute; o vale-tudo.</p></p>
+<p><p>V&atilde;o silenciar&#63;</p></p>
+<p><p>Imaginem se um partido considerado &quot;de direita&quot; pela imprensa fizesse com um petista o que a campanha do PT fez ontem com o dito &quot;conservador&quot; Kassab&#63; Voc&ecirc;s j&aacute; imaginaram a rea&ccedil;&atilde;o da imprensa e das falanges do politicamente correto&#63; Maria Rita Kehl escreveria, claro, um artigo indignad&iacute;ssimo, mostrando qu&atilde;o suja pode ser a direita... Mas, desta feita, o sil&ecirc;ncio deve gritar a pusilanimidade dessa gente. Porque eles n&atilde;o s&oacute; tem o monop&oacute;lio da representa&ccedil;&atilde;o de supostas minorias, como tamb&eacute;m reivindicam o direito de discrimin&aacute;-las se isso for &uacute;til &agrave; sua causa. Ali&aacute;s, em mat&eacute;ria de preconceito, Marta est&aacute; se tornando um caso de estudo. Ontem, no debate da Band, s&oacute; faltou pedir que declarem a ilegalidade do DEM.</p> </p>
+{% endraw %}

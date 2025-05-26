@@ -13,7 +13,7 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Do candidato petista na entrevista que concede &agrave; R&aacute;dio Jornal agora:</p>
 <p>"N&atilde;o vou fazer campanha de den&uacute;ncias, vou fazer como sempre fiz, campanha propositiva, de id&eacute;ias, mas com cr?ticas administrativas."</p>
-{\% endraw %}
+{% endraw %}

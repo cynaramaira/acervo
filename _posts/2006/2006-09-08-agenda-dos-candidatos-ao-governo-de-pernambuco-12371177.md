@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana><STRONG>MENDONÇA FILHO (PFL)</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>19h</STRONG>, carreata e inauguração do Comitê da União por Pernambuco do munic?pio de Bom Jardim</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>20h20</STRONG>, carreata nas ruas do centro do munic?pio de Limoeiro</FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>15h</STRONG>, Terra Nova: reunião com o grupo pol?tico do prefeito Pedro Freire</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>17h</STRONG>, Santa Maria: Carreata pelas ruas centrais e com?cio com o ex-prefeito Rogério Jr. e ato pol?tico de adesão do ex-prefeito Mendonça (PCdoB)</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>21h</STRONG>, Lagoa Grande: caminhada pelas ruas centrais e com?cio</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

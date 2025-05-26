@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana size=2></p>
 <p><P>É grande a concentração de eleitores de Eduardo Campos (PSB) na praça do Marco Zero, Bairro do Recife, centro da cidade. Os eleitores de Lula também estão indo para lá comemorar a vitória do presidente.</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

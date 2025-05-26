@@ -12,6 +12,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Pouco depois de fechadas as urnas, Eduardo Campos, candidato do PSB ao governo de Pernambuco, foi encontrar a militância em clima de festa na Praça de Casa Forte, zona norte do Recife. <BR><BR>Fez ali mesmo uma comemoração antecipada pela ida ao segundo turno contra Mendonça Filho (PFL).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

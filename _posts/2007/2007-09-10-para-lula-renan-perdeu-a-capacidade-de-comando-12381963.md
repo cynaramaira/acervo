@@ -1,0 +1,29 @@
+---
+id: 12381963
+date: "2007-09-10T17:49:00Z"
+last_modified_at: null
+tags:
+  - "procuradoria-geral-da-republica"
+  - "renan-calheiros"
+categories:
+  - "noticias"
+title: "Para Lula, Renan perdeu a capacidade de comando"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Do <strong>Blog do Josias</strong></font></p></p>
+<p><p><font face=\"Verdana\">A lideran&ccedil;a pol&iacute;tica de Renan Calheiros est&aacute;, na opini&atilde;o de Lula, ferida de morte. O presidente cr&ecirc; que, ainda que salve o mandato na sess&atilde;o secreta desta quarta-feira (12), o senador ser&aacute; compelido a deixar a cadeira de presidente do Senado. Sob pena de continuar na zona de tiro. O que n&atilde;o serve aos interesses do governo. </font></p></p>
+<p><p><font face=\"Verdana\">As opini&otilde;es de Lula foram exprimidas, em privado, numa conversa que teve com um de seus ministros. Deu-se na &uacute;ltima sexta-feira (7). No s&aacute;bado, o ministro contou o que ouvira a um senador governista, com quem o blog conversou na noite deste domingo (9).</font></p></p>
+<p><p><font face=\"Verdana\">Os racioc&iacute;nios expostos pelo presidente ajudam a explicar as declara&ccedil;&otilde;es que ele vem pronunciando em p&uacute;blico. Em contraste com a solidariedade esbo&ccedil;ada entre quatro paredes, Lula como que lava as m&atilde;os em p&uacute;blico. Disse em duas oportunidades que o Renangate &eacute; problema do Congresso. Esfor&ccedil;a-se para simular distanciamento.</font></p></p>
+<p><p><font face=\"Verdana\">O presidente parece preocupado com o grau de envenenamento das rela&ccedil;&otilde;es pol&iacute;ticas no Senado. Afirmou que, antes da crise, Renan trafegava com not&aacute;vel desenvoltura em todas as legendas. Cultivava boas rela&ccedil;&otilde;es inclusive com a oposi&ccedil;&atilde;o. O que era bom para o governo.<br /></p>
+<p>Depois que foi soterrado por um desmoronamento de suspei&ccedil;&otilde;es variadas, Renan perdeu, na opini&atilde;o de Lula, a capacidade de interlocu&ccedil;&atilde;o. O presidente receia que o senador j&aacute; n&atilde;o re&uacute;na for&ccedil;as para recompor os liames rompidos. O que &eacute;, disse ele, muito ruim para o governo, &agrave;s voltas com a urg&ecirc;ncia de aprovar a renova&ccedil;&atilde;o da CPMF, o imposto do cheque.<br /></p>
+<p>Lula cobre Renan de elogios. Exalta a gana, o sangue frio com que o senador vem se portando diante da trovoada que lhe chove sobre a cabe&ccedil;a. Chegou mesmo a dizer que, pelo esfor&ccedil;o que empreende para provar-se inocente, Renan merece ser absolvido. O melhor, diz ele, seria que a an&aacute;lise do m&eacute;rito das acusa&ccedil;&otilde;es fosse feita pelo Minist&eacute;rio P&uacute;blico e pelo Judici&aacute;rio. Mas acha que o resgate do mandato, a essa altura, ter&aacute; um valor meramente pessoal. Em termos pol&iacute;ticos, significar&aacute; pouco.</font></p></p>
+<p><p><font face=\"Verdana\">De acordo com o relato feito pelo ministro ao senador ouvido pelo rep&oacute;rter, o presidente parece convencido de que a absolvi&ccedil;&atilde;o, em vez de p&ocirc;r fim &agrave; crise, pode tonific&aacute;-la. A oposi&ccedil;&atilde;o, disse Lula, n&atilde;o dar&aacute; tr&eacute;gua a Renan. A convic&ccedil;&atilde;o de Lula parece fazer nexo. Em telefonemas trocados neste final de semana, lideran&ccedil;as da oposi&ccedil;&atilde;o esbo&ccedil;aram um cerco a Renan caso ele venha a ser poupado pela maioria dos colegas na escurid&atilde;o do voto secreto. </font></p></p>
+<p><p><font face=\"Verdana\">&lsquo;Demos&rsquo; e tucanos tramam fustigar Renan com as outras tr&ecirc;s representa&ccedil;&atilde;o que tramitam contra ele. Em especial aquela em que &eacute; acusado de adquirir empresas de comunica&ccedil;&atilde;o em Alagoas por meio de s&oacute;cios-laranjas, com verbas n&atilde;o-declaradas &agrave; Receita Federal. &ldquo;Vamos empurrar as tr&ecirc;s representa&ccedil;&otilde;es em cima dele&rdquo;, disse a um interlocutor, por exemplo, Jos&eacute; Agripino Maia (RN), o l&iacute;der do DEM. Agripino aproveitou o feriad&atilde;o para descansar no Chile. Manteve-se, por&eacute;m, pendurado ao celular. &ldquo;E vir&aacute; a quarta representa&ccedil;&atilde;o, a quinta...&rdquo;, exagerou.</font></p></p>
+<p><p><font face=\"Verdana\">Os l&iacute;deres oposicionistas trocaram id&eacute;ias tamb&eacute;m sobre o comportamento que ir&atilde;o adotar caso Renan, na &uacute;ltima volta do rel&oacute;gio, resolva anunciar ao plen&aacute;rio a inten&ccedil;&atilde;o de afastar-se do comando do Senado. A avalia&ccedil;&atilde;o generalizada &eacute; a de que, a essa altura, trocar o mandato pelo compromisso de ren&uacute;ncia ou de licen&ccedil;a implicaria a desmoraliza&ccedil;&atilde;o do Senado perante a opini&atilde;o p&uacute;blica.</font></p></p>
+<p><p><font face=\"Verdana\">Afirma-se que a costura do grupo de Renan &eacute; tardia. Recorda-se que h&aacute; na pra&ccedil;a o relat&oacute;rio</font><font face=\"Verdana\">&nbsp;em que o Conselho de &Eacute;tica atestou a quebra de decoro do senador. S&atilde;o contr&aacute;rios &agrave; negocia&ccedil;&atilde;o tempor&atilde;, entre outros, Agripino; Jarbas Vasconcelos (PMDB-PE); Renato Casagrande (ES), l&iacute;der do PSB; Arthur Virg&iacute;lio (AM) e Tasso Jereissati (CE), respectivamente l&iacute;der e presidente do PSDB. </font></p></p>
+<p><p><font face=\"Verdana\">Para desassossego do grupo, estima-se que um eventual movimento de Renan rumo &agrave; porta de sa&iacute;da da presid&ecirc;ncia do Senado pode sensibilizar entre meia d&uacute;zia e dez senadores que hoje pendem pela cassa&ccedil;&atilde;o. &Eacute; algo que, em meio &agrave; justeza que marca a guerra de n&uacute;meros do Senado, pode significar a preserva&ccedil;&atilde;o da cabe&ccedil;a de Renan.</font></p> </p>
+{% endraw %}

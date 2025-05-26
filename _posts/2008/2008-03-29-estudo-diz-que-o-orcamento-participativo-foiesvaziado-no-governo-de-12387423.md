@@ -1,0 +1,37 @@
+---
+id: 12387423
+date: "2008-03-29T14:49:00Z"
+last_modified_at: null
+tags:
+  - "estudo"
+  - "governo"
+  - "orcamento"
+  - "roberto-alvim"
+  - "vera-magalhaes"
+categories:
+  - "noticias"
+title: "Estudo diz que o Or\u00e7amento Participativo foiesvaziado no governo de Roberto Magalh\u00e3es "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">O estudo sobre a experi&ecirc;ncia do Or&ccedil;amento Participativo no primeiro mandato de Jo&atilde;o Paulo (leia <strong><u><a target=\"_blank\" href=\"https://jc3.uol.com.br/blogs/blogdejamildo/2008/03/28/index.php#16768 \">aqui</a></u></strong> as mat&eacute;rias que publicamos nessa sexta, 28) tamb&eacute;m faz cr&iacute;ticas &agrave; orienta&ccedil;&atilde;o que o programa recebeu quando Roberto Magalh&atilde;es governou o Recife, de 1997 a 2000. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Os pesquisadores Evanildo Barbosa da Silva, historiador e mestre em planejamento urbano e regional pela UFPE, e Ana Cl&aacute;udia Teixeira, cientista social e mestra em ci&ecirc;ncia pol&iacute;tica pela Unicamp, lembram que o governo do ent&atilde;o PFL (hoje DEM) manteve o programa Prefeitura nos Bairros/ Or&ccedil;amento Participativo (PPB/OP) que vinha da administra&ccedil;&atilde;o de Jarbas Vasconcelos (1993-96). Mas o peso do PPB/ OP foi diminuindo ao longo da administra&ccedil;&atilde;o de Magalh&atilde;es, que havia recebido apoio de Jarbas na elei&ccedil;&atilde;o de 1996. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&quot;O que se pode resumir da experi&ecirc;ncia do PPB/ OP durante a gest&atilde;o de Roberto Magalh&atilde;es &eacute; o fato da imprensa, o governo, os delegados do PPB/ OP, as lideran&ccedil;as comunit&aacute;rias e as ONGs n&atilde;o terem desenvolvido uma leitura convergente sobre aquilo que se autodenominara or&ccedil;amento participativo&quot;, escrevem os autores na p&aacute;gina 137 do livro Olhar cr&iacute;tico sobre participa&ccedil;&atilde;o e cidadania, volume 1, lan&ccedil;ado nessa sexta (28), no Recife. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Segundo eles, &quot;algumas entidades denunciavam que os mecanismos participativos de formula&ccedil;&atilde;o e delibera&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas n&atilde;o haviam conquistado tanta centralidade e import&acirc;ncia administrativa - conforme insistia o discurso oficial - na estrutura de planejamento e gest&atilde;o do Recife&quot;. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Evanildo da Silva e Ana Cla&uacute;dia Teixeira destacam que uma avalia&ccedil;&atilde;o feita no &uacute;ltimo ano da administra&ccedil;&atilde;o por lideran&ccedil;as comunit&aacute;rias e membros da coordena&ccedil;&atilde;o do PPB/ OP apontou a exist&ecirc;ncia de gargalos que amea&ccedil;avam esvaziar o programa. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&quot;Em primeiro lugar, havia, indiscutivelmente, uma press&atilde;o sobre o instrumento Or&ccedil;amento Participativo advinda de vereadores da base aliada do governo pefelista, insatisfeitos com sua exist&ecirc;ncia&quot;, diz o texto do estudo. Os vereadores entendiam que estavam sendo substitu&iacute;dos pelos delegados do PPB/ OP nas indica&ccedil;&otilde;es e acompanhamento de obras. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&quot;A radicalidade da cr&iacute;tica e da press&atilde;o dos vereadores chegou ao ponto de eles amea&ccedil;arem publicamente acabar com o PPB/ OP, fato que gerou grande pol&ecirc;mica na base de sustenta&ccedil;&atilde;o do governo no Legislativo, promovendo o vis&iacute;vel desgaste pol&iacute;tico e minando a reelei&ccedil;&atilde;o de Roberto Magalh&atilde;es&quot;, ressaltam os pesquisadores. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>DJALMA CORIOLANO</strong> </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Nessa sexta (28), postei aqui no Blog duas mat&eacute;rias sobre o estudo feito pelos pesquisadores Evanildo da Silva e Ana Cl&aacute;udia Teixeira, intitulado &quot;A experi&ecirc;ncia do Or&ccedil;amento Participativo do Recife&quot;, que saiu no livro &quot;Olhar Cr&iacute;tico sobre participa&ccedil;&atilde;o e cidadania: a constru&ccedil;&atilde;o de uma governan&ccedil;a democr&aacute;tica e participativa a partir do local&quot;. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O livro, publicado pela editora Express&atilde;o Popular, com sede em S&atilde;o Paulo, e pela ONG ActionAid Brasil, com sede no Rio de Janeiro, foi lan&ccedil;ado tamb&eacute;m nessa sexta, em um semin&aacute;rio no Recife. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Al&eacute;m do ensaio sobre o OP, re&uacute;ne outros tr&ecirc;s estudos feitos sobre experi&ecirc;ncias em outros Estados do Pa&iacute;s. O Blog n&atilde;o &quot;correu atr&aacute;s&quot; de informa&ccedil;&otilde;es&nbsp;que desabonassem o OP. Os organizadores da publica&ccedil;&atilde;o &eacute; que enviaram o livro ao Blog. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Mas &eacute; claro que o caso que chamou minha aten&ccedil;&atilde;o foi o que fala sobre o Or&ccedil;amento Participativo, porque est&aacute; ligado ao Recife. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Por isso, n&atilde;o &eacute; poss&iacute;vel aceitar o que diz o leitor Djalma Coriolano em seu coment&aacute;rio ao post &quot;Livro de ONG inglesa faz cr&iacute;ticas ao Or&ccedil;amento Participativo, menina dos olhos de Jo&atilde;o Paulo&quot;, que publiquei &agrave;s 16h25 da sexta (28). </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Escreve&nbsp;Coriolano: &quot;O interessante &eacute; que esse blog correu atr&aacute;s de informa&ccedil;&otilde;es logo sobre o or&ccedil;amento participativo, que &eacute; a marca do pr&eacute;-candidato jo&atilde;o da costa. Pq ser&aacute; que isso est&aacute; sendo trazido &aacute; tona? pra fortalecer outros pr&eacute;-candidatos?? eis ai uma reflex&atilde;o que deve ser feita sobre a m&iacute;dia.&quot; </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Como&nbsp;insinuar que somos parciais se, h&aacute; cerca de um ano, o vice-prefeito do Recife, Luciano Siqueira, tem um espa&ccedil;o fixo para escrever o que quiser no Blog? </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Como afirmar que beneficiamos este ou aquele candidato se, h&aacute; cerca de um m&ecirc;s, iniciamos a publica&ccedil;&atilde;o de artigos di&aacute;rios assinados pelos prefeitur&aacute;veis do Recife? Com este debate contribuem tanto Mendon&ccedil;a Filho (DEM), Raul Henry (PMDB), Raul Jungmann (PPS) e Cadoca (PSC) quanto Ed&iacute;lson Silva (PSOL), Luciano Siqueira (PCdoB) e o pr&oacute;prio petista Jo&atilde;o da Costa, que escreve &agrave;s segundas. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Com todo o respeito &agrave; opini&atilde;o de todos os leitores, inclusive &agrave; daqueles que &agrave;s vezes ultrapassam os limites do bom senso, nos reservamos tamb&eacute;m o direito de ter opini&atilde;o. E de publicar aqui o que julgamos relevante. Independentemente de agradar ou desagradar os eleitores do candidato A ou B ou C ou D ou E. </font></p> </p>
+{% endraw %}

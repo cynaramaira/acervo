@@ -14,7 +14,7 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Por S&eacute;rgio Montenegro Filho<br />Rep&oacute;rter especial do JC e colunista do JC OnLine</p>
 <p>Era uma vez, no Planalto da Transilv&acirc;nia, um vampiro mau, que gostava de sugar o dinheiro p&uacute;blico. Ali tamb&eacute;m havia sanguessugas tenebrosas, que se deliciavam com recursos do or&ccedil;amento da Uni&atilde;o. Eles chegaram muito tarde e s&oacute; pegaram sobras, deixadas pelos seus inimigos mortais, os malvados tucanos carn?voros, que tamb&eacute;m viviam por l&aacute;.</p>
 <p>Apesar do tom infantil, "lendas" como estas andam povoando os pesadelos do brasileiro comum. Gra&ccedil;as aos esfor&ccedil;os dos pol?ticos, que n&atilde;o mais se empenham em apresentar propostas e solu&ccedil;&otilde;es para os problemas do cotidiano do cidad&atilde;o comum. A onda, agora, &eacute; esmiu&ccedil;ar o passado dos advers&aacute;rios, montar dossi&ecirc;s e denunci&aacute;-los na m?dia, n&atilde;o importando se isso vai ou n&atilde;o mudar alguma coisa na vida dos pobres eleitores, absolutamente entediados com o novo "estilo".</p>
@@ -24,4 +24,4 @@ imagem: null
 <p>Nenhum deles est&aacute; na pris&atilde;o. Alguns at&eacute; estiveram, mas deram um jeitinho de sair logo. No palanque advers&aacute;rio, tamb&eacute;m h&aacute; problemas. O vale-tudo eleitoral acaba de envolver os ex-ministros tucanos Jos&eacute; Serra e Barjas Negri na sujeira da m&aacute;fia das ambul&acirc;ncias. Se eles t&ecirc;m ou n&atilde;o culpa, &eacute; o que menos importa para quem quer mesmo &eacute; jogar lama na imagem do presidenci&aacute;vel tucano Geraldo Alckmin e seus aliados. Isso inclui o ex-presidente Fernando Henrique Cardoso, que recentemente perdeu a pose de novo e partiu para o ataque a Lula.</p>
 <p>Isso sem falar na bossa de outras "vestais", como o senador Ant&ocirc;nio Carlos Magalh&atilde;es (PFL-BA), que assumiu a ponta de lan&ccedil;a das cr?ticas &agrave; corrup&ccedil;&atilde;o no governo petista. Logo ele, que fez hist&oacute;ria no Congresso Nacional, com direito a cassa&ccedil;&atilde;o por quebra de decoro parlamentar e a um retorno festivo bancado pelas urnas dos fi&eacute;is eleitores baianos.</p>
 <p>Algu&eacute;m ainda lembra de tudo isso? O caso ACM, assim como in&uacute;meros outros ocorridos na pol?tica nacional, terminaram impunes, ningu&eacute;m pagou o pato. N&atilde;o passaram de mat&eacute;ria-prima para den&uacute;ncias que povoaram os guias eleitorais por uns tempos e depois ca?ram no esquecimento. Algo que, lamentavelmente, deve se repetir dentro de mais alguns meses, ap&oacute;s o calor das elei&ccedil;&otilde;es de outubro.</p>
-{\% endraw %}
+{% endraw %}

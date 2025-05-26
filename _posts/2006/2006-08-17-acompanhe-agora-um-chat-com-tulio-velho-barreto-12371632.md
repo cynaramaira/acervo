@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O cientista pol?tico e pesquisador da Fundação Joaquim Nabuco participa, neste momento, de um bate-papo no JC OnLine (<A href=\"https://www.jc.com.br\">www.jc.com.br</A>) sobre o in?cio da propaganda eleitoral no rádio e na TV.</FONT></P></p>
 <p><P><FONT face=Verdana>Participe.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

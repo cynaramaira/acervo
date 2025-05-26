@@ -1,0 +1,28 @@
+---
+id: 12391515
+date: "2008-08-04T13:31:00Z"
+last_modified_at: null
+tags:
+  - "depoimento"
+  - "preso"
+categories:
+  - "noticias"
+title: "Investigado que mentir ou se negar a falar em depoimento a CPI pode ser preso"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>O convocado por comiss&otilde;es parlamentares de inqu&eacute;rito (CPI) que mentir ou n&atilde;o responder &agrave;s perguntas formuladas pelos parlamentares durante depoimento ao colegiado poder&aacute; ser condenado a at&eacute; tr&ecirc;s anos de reclus&atilde;o. A medida consta de projeto apresentado pela CPI Mista dos Correios que tramita na Comiss&atilde;o de Constitui&ccedil;&atilde;o, Justi&ccedil;a e Cidadania (CCJ) e poder&aacute; ser votado em reuni&atilde;o prevista para esta quarta-feira (6), &agrave;s 10h.</p></p>
+<p><p>A proposi&ccedil;&atilde;o (PLS 226/06) altera ainda o C&oacute;digo Penal (Decreto-Lei 2.848/1940) para tornar crime calar a verdade ou fazer afirma&ccedil;&atilde;o falsa tamb&eacute;m em inqu&eacute;rito civil e administrativo. De acordo com a legisla&ccedil;&atilde;o vigente, tais atitudes j&aacute; s&atilde;o consideradas crime quando praticadas em processos judiciais e inqu&eacute;ritos policiais.</p></p>
+<p><p>Favor&aacute;vel ao projeto, o senador Alvaro Dias (PSDB-PR), relator da mat&eacute;ria na CCJ, afirma que muitos investigados pelas CPIs adotam o sil&ecirc;ncio ou a mentira &quot;como estrat&eacute;gia de defesa, at&eacute; porque isso n&atilde;o constitui crime&quot;, referindo-se ao fato de as condutas n&atilde;o estarem tipificadas na legisla&ccedil;&atilde;o brasileira. Para o senador, o direito constitucional ao sil&ecirc;ncio e o princ&iacute;pio da presun&ccedil;&atilde;o de inoc&ecirc;ncia, segundo o qual ningu&eacute;m &eacute; obrigado a produzir prova contra si mesmo, n&atilde;o devem permitir que acusados &quot;criem vers&otilde;es falsas com o intuito de dificultar as investiga&ccedil;&otilde;es&quot;.</p></p>
+<p><p>- A experi&ecirc;ncia das CPIs no Congresso mostra que existe muita dificuldade em apurar a verdade em raz&atilde;o desses artif&iacute;cios que s&atilde;o utilizados constantemente, sobretudo o artif&iacute;cio da mentira. Temos que trabalhar para a moderniza&ccedil;&atilde;o da legisla&ccedil;&atilde;o, para dificultar a utiliza&ccedil;&atilde;o dessa arma, freq&uuml;entemente usada por criminosos e corruptos - frisou Alvaro Dias, durante debate da mat&eacute;ria em reuni&atilde;o da CCJ realizado em julho.</p></p>
+<p><p>Na mesma reuni&atilde;o, o senador Eduardo Suplicy (PT-SP) ponderou que a cria&ccedil;&atilde;o de mecanismo legal para incentivar a obten&ccedil;&atilde;o da verdade n&atilde;o pode ferir direitos assegurados pela Constitui&ccedil;&atilde;o. Frente a tal preocupa&ccedil;&atilde;o, Suplicy e os senadores Antonio Carlos J&uacute;nior (DEM-BA) e Ideli Salvatti (PT-SC) encaminharam pedido de vista da mat&eacute;ria, concedido pelo presidente do colegiado, senador Marco Maciel (DEM-PE). O projeto volta &agrave; agenda da CCJ nesta quarta-feira e, ap&oacute;s vota&ccedil;&atilde;o, segue para delibera&ccedil;&atilde;o pelo Plen&aacute;rio.</p></p>
+<p><p><b>ALGEMAS - </b>Tamb&eacute;m consta da pauta da comiss&atilde;o, formada por 22 itens, substitutivo do senador Jos&eacute; Maranh&atilde;o (PMDB-PB) a projeto de Dem&oacute;stenes Torres (DEM-GO) que regulamenta o emprego de algemas (PLS 185/04). Ao propor altera&ccedil;&otilde;es ao texto, o relator buscou detalhar as situa&ccedil;&otilde;es nas quais o uso da conten&ccedil;&atilde;o &eacute; autorizado - flagrante delito, transporte, condu&ccedil;&atilde;o e transfer&ecirc;ncia de presos.</p></p>
+<p><p>No substitutivo, Maranh&atilde;o veda o uso de algemas por tempo excessivo e como forma de castigo, mantendo a proibi&ccedil;&atilde;o do uso do instrumento quando o investigado se apresentar espontaneamente &agrave; autoridade policial ou judicial, prevista no projeto de Dem&oacute;stenes.</p></p>
+<p><p>Em casos de pris&atilde;o em flagrante ou por determina&ccedil;&atilde;o judicial, a proposta permite o uso de algemas apenas quando houver resist&ecirc;ncia ou tentativa de fuga do acusado. Para o transporte de presos, o texto restringe a medida a casos de prisioneiros que praticaram faltas graves, cometeram atos de viol&ecirc;ncia ou amea&ccedil;a durante o processo penal e que participam de organiza&ccedil;&atilde;o criminosa, al&eacute;m de situa&ccedil;&otilde;es nas quais exista risco iminente de agress&atilde;o aos agentes policiais e de fuga dos encarcerados. O projeto ter&aacute; decis&atilde;o terminativa na CCJ.</p></p>
+<p><p><b>FIM DE SIGILOS -</b>&nbsp;Consta ainda da agenda do colegiado substitutivo de Pedro Simon (PMDB-RS) &agrave; Proposta de Emenda &agrave; Constitui&ccedil;&atilde;o (PEC) 47/05, que abre os sigilos banc&aacute;rio e fiscal de todos os servidores p&uacute;blicos. De autoria do senador Cristovam Buarque (PDT-DF) e tamb&eacute;m assinada por outros 27 senadores, a PEC previa a suspens&atilde;o de sigilos apenas para ocupantes de fun&ccedil;&otilde;es de confian&ccedil;a e cargos em comiss&atilde;o.</p></p>
+<p><p>Conforme argumenta Simon, na justifica&ccedil;&atilde;o de seu substitutivo, a mudan&ccedil;a sugerida por ele representa uma contribui&ccedil;&atilde;o para com a inten&ccedil;&atilde;o legislativa de conferir maior transpar&ecirc;ncia &agrave; gest&atilde;o de recursos p&uacute;blicos e mais agilidade nas investiga&ccedil;&otilde;es de poss&iacute;veis desvios. A proposta segue para Plen&aacute;rio, ap&oacute;s vota&ccedil;&atilde;o na CCJ.</p></p>
+<p><p>Informa&ccedil;&otilde;es da&nbsp;Ag&ecirc;ncia Senado</p> </p>
+{% endraw %}

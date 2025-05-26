@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>EDUARDO CAMPOS (PSB)</FONT></P></p>
 <p><P><FONT face=Verdana>11h</FONT></B><FONT face=Verdana>, em Triunfo, participa de encontro regional do PTB.&nbsp;Lideranças ligadas ao&nbsp;deputado Augusto César&nbsp; declaram apoio à candidatura de Eduardo Campos </FONT></P><B></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>19h15</FONT></B><FONT face=Verdana>, caminhada em Joaquim Nabuco, a 111 quilômetros do Recife</FONT></P><B></p>
 <p><P><FONT face=Verdana>20h40</FONT></B><FONT face=Verdana>, caminhada em Jaqueira, a 142 quilômetros do Recife</FONT></P><B></p>
 <p><P><FONT face=Verdana>21h40</FONT></B><FONT face=Verdana>, com?cio em Palmares, 116 quilômetros do Recife</FONT></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O comando da campanha de Mendonça Filho (PFL)&nbsp;decidiu reforçar a defesa no horário eleitoral da TV.</FONT></P></p>
 <p><P><FONT face=Verdana>Partiu para uma posição de retranca, com uma reação&nbsp;mais agressiva.</FONT></P></p>
 <p><P><FONT face=Verdana>No in?cio do guia eleitoral desta noite, Humberto Costa (PT) dedicou todo o programa dele à insegurança em Pernambuco. Criticou o combate ineficaz à violência e os elevados ?ndices de homic?dios no Estado.</FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Ficou claro que o desgaste com as estat?sticas do feriadão pautaram o programa da União. </FONT></P></p>
 <p><P><FONT face=Verdana>Nos últimos dias foram registrados 56&nbsp;mortes em Pernambuco. Foi um dos feriados mais violentos, segundo a Secretaria de Desefesa Social. Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/2006/09/11/not_119311.php\" target=_blank>aqui</A></EM></STRONG>.</FONT></P></p>
 <p><P><FONT face=Verdana>No guia de Eduardo Campos (PSB) continuaram os ataques relacionados aos aumentos das tarifas de energia elétrica após a privatização da Celpe (leia mais abaixo). Este assunto também deverá provocar nova reação defensiva da União.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

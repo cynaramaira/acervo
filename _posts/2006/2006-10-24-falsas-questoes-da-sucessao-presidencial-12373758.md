@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Acabei de postar na seção Artigos, na coluna ao lado, o artigo semanal do ex-secretário Luiz Otavio Cavalcanti. Ele mostra como foi atrasada, do ponto de vista programático, a campanha presidencial.</FONT></P></p>
 <p><P><FONT face=Verdana>Abaixo, alguns trechos do texto. Boa leitura.</FONT></P></p>
 <p><P><FONT face=Verdana>-------------------------------------</FONT></P></p>
@@ -22,4 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>Não vimos nada de novo no discurso dos candidatos. Lula esperava levar no primeiro turno e, contrafeito, tendo que ir ao segundo, sequer agradeceu os votos recebidos na primeira rodada. Incorporou discurso divisionista e fez do Bolsa Fam?lia uma bandeira solta sem contrapartidas individuais e sem sentido pedagógico para os beneficiários.</FONT></P></p>
 <p><P><FONT face=Verdana>Por sua vez, Alckmin poderia ter aprofundado algumas questões que afetam o cidadão no dia a dia. A questão do transporte, por exemplo. Mas ele ficou repetindo frases abstratas. Ele é um candidato tão compenetrado que perde o encanto. Ficou uma campanha moral sem discurso. O oposto de Lula.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/10/24/not_2695.php\">aqui</A></EM></STRONG> o artigo completo.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

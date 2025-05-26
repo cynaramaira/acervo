@@ -13,6 +13,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Confira <STRONG><EM><A href=\"https://jc3.uol.com.br/especiais/eleicoes2006/2006/07/11/not_38.php\" target=_blank>aqui</A></EM></STRONG>, no site de eleições do JC, a lista completa dos candidatos.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

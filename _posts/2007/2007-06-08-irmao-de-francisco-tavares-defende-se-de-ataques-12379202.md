@@ -1,0 +1,48 @@
+---
+id: 12379202
+date: "2007-06-08T16:54:00Z"
+last_modified_at: null
+tags:
+  - "irmaos-safdie"
+  - "papa-francisco"
+categories:
+  - "opiniao"
+title: "Irm\u00e3o de Francisco Tavares defende-se de ataques"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Caro Jamildo,</font></p></p>
+<p><p><font face=\"Verdana\">Meu nome &eacute; P&eacute;ricles Tavares, sou irm&atilde;o do prefeito injustamente cassado da cidade de Verdejante.</font></p></p>
+<p><p><font face=\"Verdana\">Fui citado assim como esposa e fam&iacute;lia atrav&eacute;s de difama&ccedil;&otilde;es, prejorativas v&aacute;rias vezes, nos coment&aacute;rios atrav&eacute;s do seu blog, blog este que tenho respeito e considerava que fosse um ve&iacute;culo para o bem da comunidade, mas est&aacute; sendo utilizado para divulgar inverdades e mentiras a pessoas honestas, por pessoas de baixo n&iacute;vel, e sem rosto.</font></p></p>
+<p><p><font face=\"Verdana\">Gostaria que voce me concedesse esse direito de resposta na &iacute;ntegra. Resposta essa que gostaria que fosse em n&iacute;vel de respeito e n&atilde;o trocando farpas e idiotices atrav&eacute;s de coment&aacute;rios.</font></p></p>
+<p><p><font face=\"Verdana\">As palavras que seguem no texto abaixo s&oacute; ser&atilde;o entendidas pelos moradores de Verdejante, os quais est&atilde;o passando por dias dif&iacute;ceis e incertos. </font></p></p>
+<p><p><font face=\"Verdana\">Sou casado, tenho dois filhos e pega muito mal os coment&aacute;rios me chamando de ladr&atilde;o (pelos internautas, n&atilde;o pelo blogueiro) &nbsp;veiculado pelo seu blog.</font></p></p>
+<p><p><font face=\"Verdana\">Sou projetista industrial e trabalho desde os dezessete anos, atuo no setor em todo o Brasil e tenho trabalhos tamb&eacute;m no exterior. Sou competente no que fa&ccedil;o. </font></p></p>
+<p><p><font face=\"Verdana\">Vou menos do que devo a Verdejante devido minha carga de trabalho, mas a cada folga que tenho vou para ficar no conv&iacute;vio dos meus pais e dos meus irm&atilde;os. Gosto de praia sim, mas o descanso e lazer da minha fam&iacute;lia &eacute; pago com o meu suor, suor este que n&atilde;o carrega nenhum resqu&iacute;cio do fumo, do pico e nem da maconha, me submeto a fazer exame m&eacute;dico para isso, s&oacute; n&atilde;o sei se quem escreveu cr&iacute;ticas a mim pode. A bola que gosto &eacute; a do futebol, coisa que ainda pratico.</font></p></p>
+<p><p><font face=\"Verdana\">N&atilde;o tenho pretens&otilde;es pol&iacute;ticas, nunca tive, meu nome n&atilde;o &eacute; p&uacute;blico, quem tiver que resolver algum assunto comigo vai ter de ser no lado pessoal, com as minhas armas, da minha forma, de cara aberta, sem covardia comigo nem com a minha fam&iacute;lia. </font></p></p>
+<p><p><font face=\"Verdana\"><strong>Sobre a religi&atilde;o<br /></p>
+<p></strong>Sou cat&oacute;lico e a fam&iacute;lia da minha esposa &eacute; esp&iacute;rita kardecista n&atilde;o existe nenhum constrangimento nem mist&eacute;rio nisso. N&atilde;o somos macumbeiros como comentaram no blog. Se f&oacute;ssemos macumbeiros seria motivo de orgulho, pois a macumba &eacute; uma religi&atilde;o que foi trazida da &Aacute;frica pelos nossos irm&atilde;os negros. Em Verdejante, pelo que sei, n&atilde;o existe nenhum terreiro, mas se tivesse n&atilde;o teria nenhum problema de visit&aacute;-lo pois o que faz uma religi&atilde;o s&atilde;o as pessoas e n&atilde;o o templo. Tenho amigos ateus, budistas, evang&eacute;licos, rosa-cruz e at&eacute; bahaus. Assisti em Verdejante a pouco tempo uma passeata de evang&eacute;licos e parei com respeito para prestigiar o evento deles, achei muito bonito. Quem fez este triste coment&aacute;rio em rela&ccedil;&atilde;o a macumba, tem pouco conhecimento de uma das maiores religi&otilde;es do mundo, &eacute; puro preconceito da nossa afro decend&ecirc;ncia, considero racismo, afinal tem grandes religi&otilde;es no planeta que s&atilde;o desconhecidas para n&oacute;s. N&atilde;o votei em Lula e sou cat&oacute;lico, mas apoio o seu pronunciamento ao Papa afirmando que nosso pa&iacute;s &eacute; laico, ou seja as pessoas tem que ter o livre arb&iacute;trio.</font></p></p>
+<p><p><font face=\"Verdana\"><strong>Sobre os 42 anos de poder da minha fam&iacute;lia</strong></font></p></p>
+<p><p><font face=\"Verdana\">Entre estes 42 anos est&aacute; 8 anos de Ildefonso Torres de S&aacute; e algo em torno de 12 anos de Luiz Monteiro Lima (falecido), os quais ou representantes deles hoje est&atilde;o juntos com o Adailton Monteiro, mas foram descartados do nosso palanque porque sempre tinham uma pol&iacute;tica de beneficiar pessoas de Salgueiro e n&atilde;o da comunidade de Verdejante.<br /></p>
+<p>Esse tempo de poder, n&atilde;o &eacute; m&eacute;rito s&oacute; da nossa compet&ecirc;ncia pol&iacute;tica e administrativa, mas porque o nosso palanque sempre foi forte e formado por pessoas que tem compromisso de amor por Verdejante. Os nossos vereadores est&atilde;o sempre dispostos a ajudar o munic&iacute;pio. O nosso palanque sempre foi do bem e para o bem da comunidade de Verdejante.<br /></p>
+<p></font></p></p>
+<p><p><font face=\"Verdana\"><strong>Sobre o prefeito a ser empossado</strong></font></p></p>
+<p><p><font face=\"Verdana\">Conheci o Adaiton na minha inf&acirc;ncia fui amigo do seu pai e da fam&iacute;lia dele, a grande fachada do discurso dele &eacute; que ele &eacute; engenheiro, na sua biografia diz que ele sempre combateu os Tavares. &Eacute; mentira, a fam&iacute;lia dele sempre votou com o nosso palanque, o pai dele sempre foi amigo do meu. Adailton come&ccedil;ou na pol&iacute;tica em 1982, e ficou contra o nosso palanque porque o tio dele Luiz Monteiro Lima n&atilde;o cedeu espa&ccedil;o para ele se canditadar, mas n&atilde;o pelo nosso veto. </font></p></p>
+<p><p><font face=\"Verdana\">Hoje eles est&atilde;o juntos dizendo que nos combatem h&aacute; 42 anos. &Eacute; pura mentira, cinismo, eles eram dos nossos. Sobre a engenharia acho que o diploma dele deve estar mofado com o suor do seu suvaco, pois para quem entende, a engenharia n&atilde;o &eacute; igual a sociologia que depura a filolsofia, engenheiro tem que ter acervo t&eacute;cnico, conhecimento em ci&ecirc;ncias exatas, enfim tem que ter obras concretas, n&atilde;o tenho conhecimento de nenhuma obra desse engenheiro. Ele foi diretor do Dnocs no passado, cargo importante, mas n&atilde;o sei de nenhum benef&iacute;cio para Verdejante, acho que quem deveria dar o parecer sobre a compet&ecirc;ncia dele s&atilde;o as pessoas do &oacute;rg&atilde;o, pois o que saiu no jornal envergonha os seus conter&acirc;neos. Na elei&ccedil;&atilde;o passada, atingiu a casa dos 14% do eleitorado gra&ccedil;as aos seus vereadores que est&atilde;o carregando pedra para ele, enquanto ele toma &aacute;gua de coco.</font></p></p>
+<p><p><font face=\"Verdana\">Como n&atilde;o havia meios legais de elei&ccedil;&atilde;o, optou por alimentar o &oacute;dio do Ildefonso Torres de S&aacute; contra o meu irm&atilde;o.</font></p></p>
+<p><p><font face=\"Verdana\">Me assusta como o atual governador Eduardo Campos, em quem n&atilde;o votei, um homem jovem e com um futuro brilhante na pol&iacute;tica, inclusive nacional, esteja dando guarida a esse tipo de comportamento.</font></p></p>
+<p><p><font face=\"Verdana\"><strong>Sobre Ildefonso Torres de S&aacute;</strong></font></p></p>
+<p><p><font face=\"Verdana\">Este Sr. &eacute; meu padrinho de S&atilde;o Jo&atilde;o, foi meu amigo de inf&acirc;ncia e era uma pessoa que me adorava, pessoa que eu guardava toda uma considera&ccedil;&atilde;o, tanto &eacute; que convidei-o para padrinho do meu casamento. Infelizmente hoje tenho a grande decep&ccedil;&atilde;o e vergonha de t&ecirc;-lo convidado. </font></p></p>
+<p><p><font face=\"Verdana\">N&atilde;o &eacute; exemplo para mim nem para os meus filhos. N&atilde;o sei como ser&aacute; da pr&oacute;xima vez que nos encontrarmos, temo muito por isso. Sempre acreditei que quando um homem chega a uma idade superior a sessenta anos, ele tenha adquirido um m&iacute;nimo de sabedoria de vida, e inicie o seu caminho para a &uacute;ltima etapa de vida com dignidade. O que vejo no Ildefonso &eacute; o contr&aacute;rio, a cultura do &oacute;dio e do dinheiro &eacute; sobrepujante nas suas a&ccedil;&otilde;es, pois com a riqueza que ele j&aacute; acumulou no seu tempo de trabalho, eu pessoalmente, j&aacute; teria conhecido o mundo inteiro. O dinheiro n&atilde;o &eacute; eterno, a vida sim. Voc&ecirc; s&oacute; muda a margem do rio.</font></p></p>
+<p><p><font face=\"Verdana\">Dizerem que sou ladr&atilde;o no seu blog, caro Jamildo, &eacute; t&atilde;o leviano quanto que dizer que o meu querido primo Ildefonso J&uacute;nior, vende combust&iacute;vel adulterado, ou seja, eu assim como J&uacute;nior n&atilde;o temos nada a ver com isso, somos as primeiras v&iacute;timas do &oacute;dio, espero que n&atilde;o haja mais. A pol&iacute;tica tem que ficar na pol&iacute;tica. &Agrave; nossas fam&iacute;lia, o conforto.</font></p></p>
+<p><p><font face=\"Verdana\">Senhores, a minha roupa j&aacute; foi lavada em todas as lavanderias por onde passei, e s&atilde;o<br /></p>
+<p>muitas.</font></p></p>
+<p><p><font face=\"Verdana\">Lavem as suas. Em &aacute;guas limpas.<br /></p>
+<p></font></p></p>
+<p><p><font face=\"Verdana\">Obrigado, Um abra&ccedil;o.<br /></p>
+<p>P&eacute;ricles Tavares.<br /></p>
+<p></font></p> </p>
+{% endraw %}

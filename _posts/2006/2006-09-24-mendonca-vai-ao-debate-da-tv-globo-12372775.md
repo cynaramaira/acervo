@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=\"Microsoft Sans Serif\" size=2></p>
 <p><P><FONT face=Verdana>Com as pesquisas de intenção de voto confirmando a tendência de segundo turno,&nbsp;o governador de Pernambuco e candidato à reeleição Mendonça Filho (PFL) achou por bem ir ao debate da TV Globo, que será realizado nesta terça-feira, 26. </FONT></P></p>
 <p><P><FONT face=Verdana></FONT></P></FONT><FONT size=2></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"O cenário é favorável para Mendonça\", avaliou a fonte. \"Ele conversou hoje (ontem) com assessores mais próximos e com Jarbas, que é favorável a ida dele para o debate\", completou o aliancista.</FONT></P></p>
 <p><P><FONT face=Verdana>Até a semana passada, o pefelista estava quase certo de que não participaria do debate da TV Globo. A avaliação dos seus assessores era a de que seria um \"desgaste\" para o pefelista&nbsp;ser \"alvo\" de seus dois principais adversários, Humberto Costa (PT) e Eduardo Campos (PSB), a exemplo do que ocorreu no debate promovido pela TV Clube, no dia 28 de agosto. Leia <A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/28/index.php#1075\"><EM><STRONG>aqui</STRONG></EM></A>. </FONT></P></p>
 <p><P><FONT face=Verdana>A pesquisa Ibope/ TV Globo, divulgada no último dia 21,&nbsp;apresentou Mendonça Filho com 35%&nbsp;e Humberto Costa e Eduardo Campos empatados com 26%.</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

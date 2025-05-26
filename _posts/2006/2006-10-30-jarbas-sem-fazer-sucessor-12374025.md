@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por&nbsp;<STRONG>Sérgio Montenegro Filho</STRONG><BR>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>A derrota de Mendonça Filho (PFL) diante de Eduardo Campos (PSB) não significa apenas uma troca de comando no Estado, que volta às mãos da oposição. Representa, também, o terceiro fracasso consecutivo de um formato de campanha que prima pelo marketing pesado, por ataques diretos aos adversários e pela centralização das forças em uma só pessoa. </FONT></P></p>
@@ -32,4 +32,4 @@ imagem: null
 <p><P><FONT face=Verdana>Nos bastidores da aliança, porém, pelo menos uma cr?tica tem circulado desde o final do primeiro turno das eleições: priorizar Humberto Costa (PT) como adversário, deixando Eduardo Campos (PSB) de lado foi um erro grave, que culminou na derrota. </FONT></P></p>
 <p><P><FONT face=Verdana>A opção pelos petistas como principal ameaça ao projeto de reeleição de Mendonça Filho, segundo aliancistas, teria partido de Lavareda, com o aval de Jarbas Vasconcelos (PMDB) e alguns \"conselheiros\" do grupo mais restrito da campanha.</FONT></P><FONT face=Verdana><FONT size=2></p>
 <p><P>Leia mais </FONT><A href=\"https://jc3.uol.com.br/jornal/2006/10/30/can_9.php\" target=_blank><B><I><FONT color=#0000ff size=2>aqui</B></I></FONT></A><FONT size=2> (assinantes JC e UOL).</FONT></FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

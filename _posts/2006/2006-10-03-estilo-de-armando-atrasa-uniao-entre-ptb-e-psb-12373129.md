@@ -15,9 +15,9 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>O PSB diz que já levantou todas as possibilidades de conflitos entre as bases de Eduardo Campos e Armando Monteiro Neto (PTB). </FONT></P></p>
 <p><P><FONT face=Verdana>E garante que&nbsp;a única dificuldade - o estranhamento entre&nbsp;Augusto César e Inocêncio Oliveira (PL)&nbsp;- já foi superada.</FONT></P></p>
 <p><P><FONT face=Verdana>O&nbsp;PSB diz que a questão, agora, é somente o \"estilo\"&nbsp;de Armando&nbsp;Monteiro Neto. </FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

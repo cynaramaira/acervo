@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>FRASES DE LULA<BR><BR><STRONG><EM>“Meu adversário utiliza o hábito daqueles que decoram chavões para participar dos debates.??? </EM></STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG><EM>“Por que nenhuma das 69 CPIs (na Assembléia Legislativa de São Paulo) foi implantada???? </EM></STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG><EM>“Não tive tempo de ficar decorando pergunta. Parece que o governador passou por curso de psicodrama para o debate.??? </EM></STRONG></FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p> face=Verdana><STRONG><EM>“É claro que eles sabem (de onde saiu o dinheiro para a compra do dossiê Vedoin). Não precisa torturar ninguém. É só chamar os seus amigos e perguntar, candidato.??? </EM></STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG><EM>“A primeira diferença (entre os candidatos) é de caráter. Eu assumo minhas responsabilidades, as responsabilidades do meu governo.??? </EM></STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG><EM>“Ele (Lula) não disse se sabia ou não sabia (sobre o dossiê) e não fala a verdade.??? </EM></STRONG></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>(Do Jornal do Commercio, com Agência Estado)</FONT></P></p>
 <p><P><FONT face=Verdana></FONT><FONT size=2><FONT size=1><FONT size=2></p>
 <p><DIV id=corpo style=\"FONT-SIZE: 90%\"><FONT face=Verdana><I>Luiz Vedoin, da Planam, disse que teria pago, em 2003, despesas de assessor do então ministro Humberto Costa, no valor de R$ 22 mil</B></I></I><BR><BR></FONT><I></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Os documentos e comprovantes apresentados por Vedoin em seu depoimento ainda precisam ser checados em investigações pela Pol?cia Federal e pela CPI das Sanguessugas,</p>
 <p> que recebeu a documentação da Justiça na última semana.</B></I> </FONT></P></DIV></FONT></p>
 <p><P><FONT face=Verdana></FONT></P></FONT></FONT> </p>
-{\% endraw %}
+{% endraw %}

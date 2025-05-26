@@ -12,6 +12,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>&nbsp;</P> </p>
-{\% endraw %}
+{% endraw %}

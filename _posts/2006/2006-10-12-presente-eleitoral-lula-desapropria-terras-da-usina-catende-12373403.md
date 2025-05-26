@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Amanhã vamos estar a apenas 16 dias da eleição. </FONT></P></p>
 <p><P><FONT face=Verdana>Pois justo amanhã, ao meio-dia, o presidente Lula estará assinando, no Palácio do Planalto, em Bras?lia, decretos para formalizar a desapropriação das terras da Usina Catende, empresa que, desde 1995, é controlada por seus quase três mil empregados.</FONT></P></p>
 <p><P><FONT face=Verdana>A usina é um projeto bem-sucedido de auto-gestão. Conseguiu isso graças ao forte apoio financeiro recebido durante o governo Miguel Arraes (1995-1998), no qual Eduardo Campos (PSB) ocupou funções relevantes (secretário da Fazenda e de Governo).</FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>Claro que tudo isso será devidamente registrado para o guia eleitoral e explorado com vigor pela campanha do socialista.</FONT></P></p>
 <p><P><FONT face=Verdana>Liderando a disputa com 20 pontos percentuais de vantagem sobre Mendonça, Eduardo vai trabalhar intensamente nos próximos dias para estar ainda mais vinculado a Lula, que recebeu 70% dos votos válidos dos pernambucanos no primeiro turno.</FONT></P></p>
 <p><P><FONT face=Verdana>A desapropriação é um presente de Lula.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

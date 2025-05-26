@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></p>
 <p><P><FONT face=Verdana>Às 18h15</FONT></B><FONT face=Verdana>, concede entrevista ao NETV 2ª Edição. Local: Estúdio da Rede Globo Nordeste, Morro do Peludo, em Olinda </FONT></P><B></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>Às 16h</FONT></B><FONT face=Verdana>, em Abreu e Lima, caminhada e com?cio </FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 17h</FONT></B><FONT face=Verdana>, no Recife, debate na sede da Federação das Indústrias de Pernambuco (Fiepe) </FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 18h30</FONT></B><FONT face=Verdana>, no Recife, caminhada no campus da Universidade Católica de Pernambuco (Unicap), acompanhado do escritor Ariano Suassuna</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

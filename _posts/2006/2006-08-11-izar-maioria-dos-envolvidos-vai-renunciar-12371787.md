@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Blog do Noblat</STRONG></FONT><A name=post24203><FONT face=Verdana> </FONT></P></p>
 <p><P class=fontTitulo><FONT face=Verdana>As renúncias vão aumentar</FONT></P></A></p>
 <p><P class=fontPadrao><FONT face=Verdana></FONT></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><STRONG><FONT face=Verdana>Izar - Com as renúncias e com os candidatos que vão desistir de disputar as eleições, vão sobrar 20 ou 30 processos para o ano que vem.</FONT></STRONG></P></p>
 <p><P><FONT face=Verdana>Mas os processos podem ser reabertos se sanguessugas se reelegerem em outubro, não é?</FONT></P></p>
 <p><P><STRONG><FONT face=Verdana>Izar - Sim, qualquer partido pode representar e reabrir o processo</FONT></STRONG></P> </p>
-{\% endraw %}
+{% endraw %}

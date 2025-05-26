@@ -1,0 +1,35 @@
+---
+id: 12385447
+date: "2008-01-23T09:03:00Z"
+last_modified_at: null
+tags:
+  - "apagao"
+  - "brasil"
+  - "critica"
+  - "galvao-bueno"
+  - "naomi-campbell"
+  - "papelao"
+categories:
+  - "noticias"
+title: "Usinas de papel n\u00e3o v\u00e3o salvar Brasil do apag\u00e3o, critica sindicalista"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Por <strong>Antonio Carlos dos Reis &quot;Salim&quot;</strong></font></p></p>
+<p><p><font face=\"Verdana\">H&aacute; generalizado consenso de que a economia brasileira, considerada a conjuntura mundial, tem crescido aqu&eacute;m das possibilidades. Os principais obst&aacute;culos pontuais, como se sabe, s&atilde;o os juros e impostos exagerados, al&eacute;m do c&acirc;mbio sobrevalorizado. </font></p></p>
+<p><p><font face=\"Verdana\">No entanto, toda vez que os setores produtivos, as empresas e os trabalhadores, num esfor&ccedil;o de supera&ccedil;&atilde;o, &quot;amea&ccedil;am&quot; vencer essas barreiras e promover evolu&ccedil;&atilde;o mais substantiva do PIB, como parece estar ocorrendo neste segundo semestre de 2007, uma nefasta amea&ccedil;a volta a pairar: o risco de apag&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\">Para o Brasil crescer a taxas de pelo menos 5% ao ano, &iacute;ndice m&iacute;nimo ante o passivo social e a necessidade de atender &agrave; expans&atilde;o demogr&aacute;fica vegetativa, &eacute; imprescind&iacute;vel acrescentar cerca de 10 mil megawatts por ano ao sistema gerador de eletricidade. Isto significa que, nos pr&oacute;ximos dez anos, o Pa&iacute;s precisa duplicar a sua capacidade instalada, de aproximadamente 100 mil megawatts. </font></p></p>
+<p><p><font face=\"Verdana\">Na verdade, dever&iacute;amos produzir 20 milh&otilde;es de quilowatts, mas estamos construindo usinas com&nbsp; capacidade somada de apenas dois milh&otilde;es. Portanto, a defasagem &eacute; imensa. </font></p></p>
+<p><p><font face=\"Verdana\">Assim, se o quadro n&atilde;o for alterado, com r&aacute;pida rea&ccedil;&atilde;o, h&aacute; s&eacute;rio risco de nova crise de energia, revivendo-se os penosos momentos do racionamento de 2001, quando as autoridades, alertadas por n&oacute;s, ignoravam que tal fato pudesse ocorrer. </font></p></p>
+<p><p><font face=\"Verdana\">H&aacute; cerca de 50 barragens hidrel&eacute;tricas em constru&ccedil;&atilde;o no Brasil, mas n&atilde;o ser&atilde;o suficientes para evitar o risco do apag&atilde;o, e as previs&otilde;es de gera&ccedil;&atilde;o de energia para os pr&oacute;ximos anos s&atilde;o negativas. Caso n&atilde;o se registrem &iacute;ndices pluviom&eacute;tricos em n&iacute;vel adequado, a crise de oferta de eletricidade pode ocorrer at&eacute; mesmo em 2008 ou daqui a dois anos. Ou seja, em termos hidrel&eacute;tricos, n&atilde;o temos o volume que o Pa&iacute;s precisa para responder aos anseios de crescimento econ&ocirc;mico dos setores produtivos. </font></p></p>
+<p><p><font face=\"Verdana\">Continuamos na depend&ecirc;ncia da chuva. </font></p></p>
+<p><p><font face=\"Verdana\">Segundo relat&oacute;rio de fiscaliza&ccedil;&atilde;o da Ag&ecirc;ncia Nacional de Energia El&eacute;trica (Aneel), h&aacute; 23 usinas licitadas desde 2002, significando capacidade instalada que soma 5.157 megawatts. Dessas, 12 ainda esperam a libera&ccedil;&atilde;o ambiental pr&eacute;via e cinco aguardam a licen&ccedil;a de instala&ccedil;&atilde;o. &Eacute; lament&aacute;vel constatar que, na pr&aacute;tica, nada est&aacute; acontecendo. Parece que o Brasil est&aacute; fazendo usinas apenas no papel. &Eacute; n&iacute;tido o descompasso entre o discurso oficial do governo e a realidade. </font></p></p>
+<p><p><font face=\"Verdana\">Assim, respeitando-se os preceitos ecol&oacute;gicos e a sustentabilidade dos projetos, &eacute; necess&aacute;rio agilizar todo esse processo de licenciamento ambiental. Da mesma forma, &eacute; impreter&iacute;vel &quot;acelerar&quot; o Programa de Acelera&ccedil;&atilde;o do Crescimento (PAC), pois a morosidade de alguns investimentos est&aacute; comprometendo o seu cronograma, e infra-estrutura &eacute; uma prioridade nacional! O mais grave &eacute; que a amea&ccedil;a de oferta de energia soma-se a outros problemas s&eacute;rios, em especial no tocante ao setor de transportes, configurando-se uma equa&ccedil;&atilde;o preocupante. </font></p></p>
+<p><p><font face=\"Verdana\">Recente estudo da Universidade Federal do Rio de Janeiro (UFRJ), sob o t&iacute;tulo &quot;Projeto Brasil Competitivo&quot;, mostra que o Pa&iacute;s perde quase US$ 100 bilh&otilde;es (precisamente US$ 99,2 bilh&otilde;es) por ano devido &agrave; defici&ecirc;ncia de log&iacute;stica. Isso representa 12,4% do Produto Interno Bruto, de US$ 800 bilh&otilde;es. Segundo a UFRJ, &eacute; poss&iacute;vel reduzir a perda em 36%, ou seja US$ 36 bilh&otilde;es. Economia de US$ 16 bilh&otilde;es viria do transporte de carga; US$ 16,4 bilh&otilde;es seriam cortados em estoque; US$ 2 bilh&otilde;es em armazenagem e US$ 1,6 bilh&atilde;o em administra&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\">Al&eacute;m de cobrar as autoridades competentes, &eacute; preciso buscar alternativas pr&aacute;ticas, como fez a Federa&ccedil;&atilde;o e Centro das Ind&uacute;strias do Estado de S&atilde;o Paulo (Fiesp/Ciesp), que firmou conv&ecirc;nio com o Governo do Estado, visando ao lan&ccedil;amento do Programa Paulista de Co-gera&ccedil;&atilde;o de Energia. Esta iniciativa inclui alternativas de biomassa e biog&aacute;s, fontes renov&aacute;veis, cuja amplia&ccedil;&atilde;o na matriz energ&eacute;tica brasileira &eacute; bastante vi&aacute;vel. Esse projeto tem como objetivos desburocratizar o setor e buscar, perante a Aneel, uma regulamenta&ccedil;&atilde;o adequada e linhas de cr&eacute;dito que possibilitem dar sustenta&ccedil;&atilde;o financeira ao crescimento da co-gera&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\">&Eacute; intoler&aacute;vel qualquer gesto de resigna&ccedil;&atilde;o diante da defici&ecirc;ncia da infra-estrutura, em especial no tocante &agrave; gera&ccedil;&atilde;o de eletricidade, no pa&iacute;s com a mais volumosa reserva h&iacute;drica do mundo e a maior &aacute;rea dispon&iacute;vel para o cultivo de cana-de-a&ccedil;&uacute;car e oleaginosas, as grandes promessas da matriz energ&eacute;tica deste s&eacute;culo. Empres&aacute;rios e trabalhadores j&aacute; t&ecirc;m feito &quot;milagres&quot; para vencer os equ&iacute;vocos dos impostos, dos juros, do c&acirc;mbio e do &quot;Custo Brasil&quot;. Parece, contudo, que ter&atilde;o de aprender a dan&ccedil;a da chuva para conseguir a energia el&eacute;trica de que a Na&ccedil;&atilde;o precisa para o seu desenvolvimento...</font></p></p>
+<p><p><font face=\"Verdana\"><em>PS: Antonio Carlos dos Reis &quot;Salim&quot; &eacute; presidente do Sindicato dos Eletricit&aacute;rios de S&atilde;o Paulo (Stieesp) e da Federaluz e vice-presidente da Uni&atilde;o Geral dos Trabalhadores (UGT).</em></font></p> </p>
+{% endraw %}

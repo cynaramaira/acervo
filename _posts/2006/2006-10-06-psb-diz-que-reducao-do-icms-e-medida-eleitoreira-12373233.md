@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>O comando da campanha de Eduardo Campos (PSB) divulgou nota, há pouco, condenando as medidas anunciadas hoje pelo governador-candidato Mendonça Filho (PFL) para reduzir as tarifas de luz da população de baixa renda. </FONT></P></p>
 <p><P><FONT face=Verdana>Eis a nota: </FONT></P></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>º Acima de 500 quilowatts: 25%</EM></FONT></P></p>
 <p><P><EM><FONT face=Verdana>Vale a pena salientar que a faixa até 300 kilowatts de consumo médio mensal corresponde à maioria esmagadora da população. É esta parcela, a classe média e as pequenas unidades</p>
 <p> empresariais, que está sendo duramente penalizada pela pol?tica tributária imposta pelo atual governo ao povo de Pernambuco.</FONT> </EM></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

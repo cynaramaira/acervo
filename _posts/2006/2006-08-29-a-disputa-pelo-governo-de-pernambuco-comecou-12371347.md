@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Arial></p>
 <p><P><FONT face=Verdana>A partir de agora, último mês de propaganda na TV e no rádio, ficará completamente conflagrada a sucessão estadual.</FONT></P></p>
 <p><P><FONT face=Verdana>Nesta noite, o PSB decidiu romper aquele esquema propositivo que vinha mantendo em todo o guia e partir com tudo para cima de Mendonça Filho (PFL), candidato à reeleição e l?der na disputa.</FONT></P></p>
@@ -33,4 +33,4 @@ imagem: null
 <p><P align=justify><FONT face=Verdana><EM>4 – A indevida, truncada e leviana exploração pol?tica do fato, com o único intuito de atingir o Governador Mendonça Filho, é inaceitável, até porque ele jamais teve qualquer participação na referida empresa.</EM></FONT></P></p>
 <p><P align=justify><FONT face=Verdana><EM></EM></FONT></P></p>
 <p><P align=justify><FONT face=Verdana><EM>Renato Pinheiro Filho - Advogado</EM></FONT><FONT face=Arial></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

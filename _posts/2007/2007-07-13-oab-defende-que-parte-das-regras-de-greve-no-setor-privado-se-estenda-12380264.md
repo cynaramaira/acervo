@@ -1,0 +1,31 @@
+---
+id: 12380264
+date: "2007-07-13T14:55:00Z"
+last_modified_at: null
+tags:
+  - "ensino-privado"
+  - "greve"
+  - "regras"
+  - "setor-cultural"
+categories:
+  - "noticias"
+title: "OAB defende que parte das regras de greve no setor privado se estenda ao setor p\u00fablico "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><strong><font face=\"Verdana\">Ag&ecirc;ncia Brasil </font></strong></p></p>
+<p><p><font face=\"Verdana\">A proposta para regulamenta&ccedil;&atilde;o das greves apresentada pela seccional de S&atilde;o Paulo da Ordem dos Advogados do Brasil (OAB) baseia-se, em grande parte, no que vale hoje para o setor privado. A informa&ccedil;&atilde;o est&aacute; na exposi&ccedil;&atilde;o de direitos do anteprojeto, encaminhado pelo presidente da Ordem dos Advogados do Brasil em S&atilde;o Paulo (OAB-SP), Luiz Fl&aacute;vio Borges D&rsquo;Urso, ao presidente da Rep&uacute;blica, Luiz In&aacute;cio Lula da Silva, e &agrave; presidente do Supremo Tribunal Federal (STF), Ellen Gracie.</font></p></p>
+<p><p><font face=\"Verdana\">O texto cita a Lei 7.783, de 28 de junho de 1989, que regulamentou o direito de greve na iniciativa privada menos de um ano ap&oacute;s a promulga&ccedil;&atilde;o da Constitui&ccedil;&atilde;o de 1988. Quase 19 anos depois, ainda n&atilde;o ocorreu no setor p&uacute;blico essa regulamenta&ccedil;&atilde;o (prevista no artigo 37, inciso 7&ordm;, da Constitui&ccedil;&atilde;o).</font></p></p>
+<p><p><font face=\"Verdana\">A manifesta&ccedil;&atilde;o da OAB representa uma contribui&ccedil;&atilde;o ao debate aberto por servidores p&uacute;blicos e pelo governo, por meio do ministro do Planejamento, Paulo Bernardo, que prometeu na semana passada que, dentro de quatro meses, o governo encaminhar&aacute; ao Congresso proposta regulamentado a greve no servi&ccedil;o p&uacute;blico.</font></p></p>
+<p><p><font face=\"Verdana\">A OAB-SP prev&ecirc; o direito de greve dos servidores p&uacute;blicos civis da administra&ccedil;&atilde;o direta, bem como a a&ccedil;&atilde;o declarat&oacute;ria de rito especial sobre abusividade ou n&atilde;o abusividade da greve, sendo considerada como servidor p&uacute;blico a pessoa f&iacute;sica investida em cargo p&uacute;blico, ocupante de emprego p&uacute;blico ou exercente de fun&ccedil;&atilde;o p&uacute;blica. Administra&ccedil;&atilde;o p&uacute;blica, pela proposta, entende-se como administra&ccedil;&atilde;o direita ou indireta, funda&ccedil;&otilde;es institu&iacute;das e mantidas pelo poder p&uacute;blico, de qualquer dos poderes da Uni&atilde;o, dos estados, do Distrito Federal e dos munic&iacute;pios, exceto as empresas p&uacute;blicas e as sociedades de economia mista, quando n&atilde;o dependentes de or&ccedil;amento da administra&ccedil;&atilde;o direta.</font></p></p>
+<p><p><font face=\"Verdana\">Uma das novidades previstas no anteprojeto de lei da entidade &eacute; que, diante da poss&iacute;vel omiss&atilde;o da administra&ccedil;&atilde;o p&uacute;blica, a sociedade poder&aacute; questionar a legalidade da paralisa&ccedil;&atilde;o. Para isso, apresentar&aacute; a&ccedil;&atilde;o declarat&oacute;ria de abusividade e poder&aacute; ser representada pelos chefes dos Poderes Executivo e Legislativo, Minist&eacute;rio P&uacute;blico, partidos pol&iacute;ticos representados no Congresso Nacional, entidades sindicais ou de classe e pela OAB.</font></p></p>
+<p><p><font face=\"Verdana\">Para os fins da proposta &eacute; considerado leg&iacute;timo o direito de greve por meio da suspens&atilde;o coletiva, tempor&aacute;ria e pac&iacute;fica, total ou parcial, da presta&ccedil;&atilde;o pessoal do servi&ccedil;o. Caber&aacute; &agrave; entidade representativa dos servidores p&uacute;blicos convocar a greve, e a decis&atilde;o de lev&aacute;-la adiante dever&aacute; ser comunicada &agrave; administra&ccedil;&atilde;o p&uacute;blica com anteced&ecirc;ncia de dez dias.</font></p></p>
+<p><p><font face=\"Verdana\">Quando da declara&ccedil;&atilde;o da greve deve haver acordo para manuten&ccedil;&atilde;o dos servi&ccedil;os, mas se as partes n&atilde;o conclu&iacute;rem por um acordo ser&aacute; mantido um percentual m&iacute;nimo de 30% de servidores em atividade, para dar continuidade aos servi&ccedil;os prestados &agrave; comunidade. Os servidores convocados n&atilde;o poder&atilde;o recusar-se a manter a continuidade dos servi&ccedil;os, sob pena de exonera&ccedil;&atilde;o.</font></p></p>
+<p><p><font face=\"Verdana\">Tanto a entidade respons&aacute;vel pela greve quanto a administra&ccedil;&atilde;o p&uacute;blica poder&aacute; requerer em ju&iacute;zo a abusividade ou n&atilde;o abusividade da greve. Se a greve for considerada abusiva, imediatamente ser&aacute; suspenso o pagamento de sal&aacute;rios, se a categoria n&atilde;o mantiver o m&iacute;nimo de 30% de funcion&aacute;rios em atividade.</font></p></p>
+<p><p><font face=\"Verdana\">Se a greve for considerada n&atilde;o-abusiva, o pagamento ser&aacute; retomado e os servidores poder&atilde;o ficar parados at&eacute; que seja apresentado o projeto de lei concessivo da vantagem pelo &oacute;rg&atilde;o legislativo respectivo ou at&eacute; o atendimento das reivindica&ccedil;&otilde;es se n&atilde;o houver necessidade de lei. Caso declarada a abusividade da greve, os dias parados n&atilde;o ser&atilde;o pagos, sob qualquer forma, e se determinar&aacute; uma pena pecuni&aacute;ria di&aacute;ria, para for&ccedil;ar a entidade respons&aacute;vel pela paralisa&ccedil;&atilde;o a suspend&ecirc;-la.</font></p></p>
+<p><p><font face=\"Verdana\">A proposta prev&ecirc; ainda que o direito de greve ser&aacute; exercido de forma pac&iacute;fica e que se punir&atilde;o os atos que procurem retirar o direito de um funcion&aacute;rio p&uacute;blico de &ldquo;furar&rdquo; a greve (ou seja, n&atilde;o participar dela). A OAB prev&ecirc; um prazo de 90 dias, entre a cria&ccedil;&atilde;o da lei, ap&oacute;s aprova&ccedil;&atilde;o no Congresso e san&ccedil;&atilde;o presidencial, e a sua entrada em pr&aacute;tica. <br /></p>
+<p></font></p> </p>
+{% endraw %}

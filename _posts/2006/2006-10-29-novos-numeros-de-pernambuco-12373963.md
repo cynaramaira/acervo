@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Total apurado até agora: </FONT><FONT face=Verdana>227.231 votos (4,75% do total)</FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo 71,23%<BR></FONT><FONT face=Verdana>Mendonça 28,77%</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

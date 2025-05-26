@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Esse modelo de entrevistas do Jornal Nacional, definitivamente, fracassou.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>&nbsp;<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>A ânsia por colocar os candidatos contra a parede levou a situações como a de Helo?sa Helena, ontem, quando ela, com o talento verborrágico que tem, meteu Bonner e Fátima Bernardes no bolso.</FONT></P></p>
@@ -37,4 +37,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Sem esse suporte, dificilmente conseguirá realizá-los, mesmo que venha a ser eleito.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Desse mal, aliás, também padece HH.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

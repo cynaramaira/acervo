@@ -13,8 +13,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana size=2></p>
 <p><P>Saiu todo mundo do Recife Praia. Não houve muito papo com o presidente, nem entrevista. Ficou todo mundo esperando numa sala. E ele desceu já pronto para ir para Bras?lia Formosa.</P></p>
 <p><P>No palco, toca Vermelho, com Fafá de Belém.</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

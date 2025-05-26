@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Coordenador executivo da campanha do governador e candidato à reeleição, Mendonça Filho, Charles Ribeiro disse que a União por Pernambuco ignora a acusação do presidente licenciado do PSB, Milton Coelho.</FONT></P></p>
 <p><P><FONT face=Verdana>O socialista afirmou, hoje, que a ordem para sabotá-lo \"partiu do comando de campanha de Mendonça\". </FONT></P></p>
 <p><P><FONT face=Verdana>\"A União desconhece o fato, desconhece Saulo. A União não usa desse subterfúgio para atacar o adversário. O presidente do PSB deve estar desesperado\", disse Ribeiro, agora há pouco, a Cec?lia Ramos, repórter do <B>Blog</B>. </FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Questionado se a coligação iria tomar providências judiciais sobre a acusação de Milton Coelho, o coordenador desdenhou. </FONT></P></p>
 <p><P><FONT face=Verdana>\"Quem tem que tomar providência é o PSB, que está sendo acusado. Vamos ignorá-los. Quem tem que responder à população é o PSB, é o cidadão Milton Coelho, que é uma das pessoas mais próximas a Eduardo Campos. Aliás, Eduardo também deve dar explicações. A providência da União é ganhar a eleição\", arrematou Charles Ribeiro. </FONT></P></p>
 <p><P><FONT face=Verdana>Mendonça Filho (PFL) cumpre agenda de campanha pelo interior do Estado. Neste momento, participa de caminhada em Pesqueira. Segundo sua assesoria de imprensa, o governador-candidato não teria condições de falar em virtude do evento. </FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>O deputado João Negromonte (PMDB), primeiro-secretário da Assembléia Legislativa de Pernambuco, não deixou barato as declarações do deputado Carlos Eduardo Cadoca (PMDB), em entrevista publicada hoje pelo Diário de Pernambuco. </FONT></P></p>
 <p><P><FONT face=Verdana>Cadoca falou do \"fim de um ciclo\" da aliança União por Pernambuco (PMDB/PFL/PSDB), antecipou que \"no PMDB, ninguém aceitará prato feito\" na eleição de 2008\", e, segundo a reportagem, \"colocou contra a parede\" até o maior l?der do PMDB, o senador eleito Jarbas Vasconcelos. Só evitou comentar a derrota do governador Mendonça Filho (PFL), alegando que era assunto para ser tratado \"internamente\".</FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Depois de desabafar na tribuna, Negromonte reforçou aos jornalistas a mesma posição. \"O nome era Raul Henry em 2004. Ele representava uma força eleitoral maior que o outro (Cadoca).&nbsp;Quando ele (Cadoca)&nbsp;fala isso (sobre 2004 e que não aceita \"prato feito\")&nbsp;já se coloca como candidato em 2008\".&nbsp;</FONT></P></p>
 <p><P><FONT face=Verdana>Enquanto isso, Jarbas descansa em Portugal, de onde só retorna</p>
 <p> sexta-feira. No dia 20, segue para Bras?lia. Nesse intervalo, a lavanderia&nbsp;deverá funcionar a todo vapor. &nbsp;</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

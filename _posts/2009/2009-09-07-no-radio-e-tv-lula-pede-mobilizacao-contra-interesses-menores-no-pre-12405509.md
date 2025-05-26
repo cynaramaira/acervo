@@ -1,0 +1,31 @@
+---
+id: 12405509
+date: "2009-09-07T10:07:14Z"
+last_modified_at: null
+tags:
+  - "contran"
+  - "lula"
+  - "pre"
+  - "radio"
+categories:
+  - "noticias"
+title: "No r\u00e1dio e TV, Lula pede mobiliza\u00e7\u00e3o contra 'interesses menores' no pr\u00e9-sal"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/NiCRjvVIIHY&hl=pt-br&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/NiCRjvVIIHY&hl=pt-br&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+<p><p><br /></p>
+<p>De O Estado de S.Paulo</p></p>
+<p><p>Uma semana depois de fazer um discurso pr&oacute;-estatista e defender maior presen&ccedil;a do governo no controle dos neg&oacute;cios com o petr&oacute;leo do pr&eacute;-sal, o presidente Luiz In&aacute;cio Lula da Silva fez neste domingo, 6, um pronunciamento em cadeia de r&aacute;dio e TV pedindo que os brasileiros se &quot;mobilizem&quot; e pressionem deputados e senadores para que os &quot;interesses menores&quot; da oposi&ccedil;&atilde;o n&atilde;o ven&ccedil;am no Congresso e &quot;retardem ou desviem a marcha do futuro&quot;.</p></p>
+<p><p>O pronunciamento alusivo aos 187 anos da Independ&ecirc;ncia foi integralmente usado para fazer um alerta em tom de amea&ccedil;a: se o Congresso n&atilde;o apoiar o modelo da partilha na explora&ccedil;&atilde;o do pr&eacute;-sal, proposto para aprova&ccedil;&atilde;o do Congresso em quatro projetos de lei, a &quot;riqueza do pr&eacute;-sal&quot; vai &quot;escapar das m&atilde;os dos brasileiros&quot; e deixar de ser um instrumento &quot;para pagar a imensa d&iacute;vida que o Pa&iacute;s tem com a educa&ccedil;&atilde;o e a pobreza&quot;.</p></p>
+<p><p>Seria &quot;um erro grave&quot;, disse Lula, usar no pr&eacute;-sal o modelo da concess&atilde;o, adotado em 1997, &quot;quando n&atilde;o sab&iacute;amos da exist&ecirc;ncia de grandes reservas e o Pa&iacute;s n&atilde;o tinha recursos para explorar seu petr&oacute;leo&quot;. A partilha, acrescentou, &quot;garante que o Estado e o povo continuem donos da maior parte do petr&oacute;leo e do g&aacute;s mesmo depois da extra&ccedil;&atilde;o&quot;. O modelo novo &quot;impede que qualquer governante gaste de forma irrespons&aacute;vel os recursos&quot; do pr&eacute;-sal, afirmou o presidente, repetindo que o dinheiro ir&aacute; para &quot;a educa&ccedil;&atilde;o, ci&ecirc;ncia e tecnologia, cultura, defesa do meio ambiente e combate &agrave; pobreza&quot;.</p></p>
+<p><p>A &aacute;rea ambiental s&oacute; entrou no rol dos gastos depois que a ex-ministra Marina Silva (Meio Ambiente) deixou o governo e o PT e criticou o Planalto e a pr&eacute;-candidata de Lula, a ministra Dilma Rousseff (Casa Civil), por lan&ccedil;arem programas de desenvolvimento da infraestrutura sacrificando por exemplo as normas de controle de desmatamento. Como no discurso da segunda-feira retrasada, quando foi anunciado o marco regulat&oacute;rio do pr&eacute;-sal, Lula repetiu ontem as tr&ecirc;s diretrizes b&aacute;sicas: 1) a partilha &eacute; para manter o petr&oacute;leo e o g&aacute;s nas &quot;m&atilde;os do povo&quot;; 2) o Brasil n&atilde;o ser&aacute; um exportador de &oacute;leo cru; deve agregar valor industrial ao petr&oacute;leo e exportar os derivados; 3) &quot;n&atilde;o vamos nos deslumbrar e sair por a&iacute; torrando dinheiro em bobagens&quot;.</p></p>
+<p><p>No pronunciamento &agrave; Na&ccedil;&atilde;o, Lula repetiu 14 vezes a ideia de que se o Congresso n&atilde;o escolher &quot;o melhor (modelo)para o Brasil&quot;, a explora&ccedil;&atilde;o das &quot;gigantes jazidas de petr&oacute;leo e g&aacute;s do pr&eacute;-sal&quot; vai comprometer &quot;o futuro de nossos filhos e netos&quot;, n&atilde;o vai manter a riqueza &quot;nas m&atilde;os dos brasileiros&quot; e n&atilde;o vai &quot;trazer progresso para o povo&quot;. A palavra &quot;futuro&quot; foi usada sete vezes; &quot;independ&ecirc;ncia&quot; e &quot;nova independ&ecirc;ncia&quot;, quatro vezes; &quot;riqueza&quot;, outras quatro; al&eacute;m de ter usado tr&ecirc;s vezes o termo &quot;soberania&quot;.</p></p>
+<p><p>Como no in&iacute;cio da semana passada, Lula voltou a associar a riqueza do pr&eacute;-sal a uma chance do Pa&iacute;s para celebrar &quot;uma nova independ&ecirc;ncia&quot;. Pediu que a sociedade e o Congresso n&atilde;o fiquem &quot;presos a dogmas, modelos fechados e falsas verdades&quot;, e acrescentou que apesar de &quot;acreditar no livre mercado, (acredita) tamb&eacute;m no papel do Estado como indutor do desenvolvimento&quot;.</p></p>
+<p><p>Encerrando o discurso com uma frase de efeito, o presidente disse: &quot;A independ&ecirc;ncia n&atilde;o &eacute; um quadro na parede nem um grito congelado na hist&oacute;ria. A independ&ecirc;ncia &eacute; uma constru&ccedil;&atilde;o do dia a dia. A reinven&ccedil;&atilde;o permanente de uma Na&ccedil;&atilde;o. A caminhada segura e soberana para o futuro&quot;.</p></p>
+<p><p>As reservas do pr&eacute;-sal j&aacute; haviam sido objeto do pronunciamento oficial no 7 de Setembro do ano passado. Em 2008, Lula disse que &quot;vislumbrava&quot; um novo futuro com as reservas descobertas e prometeu que os recursos seriam canalizados, &quot;prioritariamente, para a educa&ccedil;&atilde;o e a erradica&ccedil;&atilde;o da pobreza&quot;.</p></p>
+<p><p>No domingo, Lula admitiu que ainda n&atilde;o se pode dizer com exatid&atilde;o quantos bilh&otilde;es de barris de petr&oacute;leo existem no pr&eacute;-sal. Ao fazer uma descri&ccedil;&atilde;o did&aacute;tica da prov&iacute;ncia petrol&iacute;fera, afirmou que as reservas se espalham por uma &aacute;rea do tamanho do Estado do Cear&aacute;, com as jazidas ficando embaixo de uma l&acirc;mina d'&aacute;gua e de uma camada de sal que, em alguns pontos, a profundidade &quot;corresponde a dez morros do Corcovado empilhados.</p> </p>
+{% endraw %}

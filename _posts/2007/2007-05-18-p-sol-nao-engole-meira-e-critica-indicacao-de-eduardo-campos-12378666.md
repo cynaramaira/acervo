@@ -1,0 +1,33 @@
+---
+id: 12378666
+date: "2007-05-18T10:00:00Z"
+last_modified_at: null
+tags:
+  - "critica"
+  - "eduardo-campos"
+  - "naomi-campbell"
+  - "palmeiras"
+categories:
+  - "noticias"
+title: "P-Sol n\u00e3o engole Meira e critica indica\u00e7\u00e3o de Eduardo Campos"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Governo Eduardo Campos retrocede na Seguran&ccedil;a P&uacute;blica</font></p></p>
+<p><p><font face=\"Verdana\">Por <strong>Edilson Silva</strong></font></p></p>
+<p><p><font face=\"Verdana\">H&aacute; pouco mais de um m&ecirc;s fizemos neste blog um balan&ccedil;o pontual do governo Eduardo Campos, relativo aos seus primeiros cem dias de gest&atilde;o. Ao contr&aacute;rio do que muitos esperavam, n&atilde;o fizemos um balan&ccedil;o atacando cegamente o governo. Chegamos inclusive a apontar avan&ccedil;os na &aacute;rea de seguran&ccedil;a p&uacute;blica. </font></p></p>
+<p><p><font face=\"Verdana\">Medidas como o fim da Lei Seca, reestrutura&ccedil;&atilde;o da Pol&iacute;cia Civil e o Pacto pela Vida, este &uacute;ltimo envolvendo uma ampla gama de atores sociais, apontavam um caminho acertado, rumo a uma pol&iacute;tica de seguran&ccedil;a p&uacute;blica constru&iacute;da de forma minimamente democr&aacute;tica, integrada com a sociedade civil e, portanto, aberta ao controle social, medida que para n&oacute;s &eacute; absolutamente indispens&aacute;vel para a constru&ccedil;&atilde;o de uma pol&iacute;cia respons&aacute;vel perante a sociedade. </font></p></p>
+<p><p><font face=\"Verdana\">Lamentavelmente, em menos de um m&ecirc;s, o governo Eduardo Campos deu conta de frustrar nossas esperan&ccedil;as. A promo&ccedil;&atilde;o do oficial Meira, que assumiu recentemente o Comando Geral de Opera&ccedil;&otilde;es da Pol&iacute;cia Militar de Pernambuco, dinamita os alicerces do que poderia vir a ser uma pol&iacute;tica conseq&uuml;ente de seguran&ccedil;a p&uacute;blica em nosso Estado. </font></p></p>
+<p><p><font face=\"Verdana\">N&atilde;o somente pela figura do novo Comandante, mas pela simbologia do gesto de sua promo&ccedil;&atilde;o, por toda concep&ccedil;&atilde;o de seguran&ccedil;a p&uacute;blica que o gesto encerra. N&atilde;o se trata aqui de fazer mais uma s&eacute;rie de cr&iacute;ticas ao comportamento j&aacute; bastante conhecido do referido oficial. Trata-se de analisar e tirar as necess&aacute;rias conclus&otilde;es deste gesto de responsabilidade &uacute;nica e exclusiva do governo estadual. </font></p></p>
+<p><p><font face=\"Verdana\">Se por um lado o governo n&atilde;o pode resolver imediatamente os problemas ligados &agrave; seguran&ccedil;a p&uacute;blica, dado a complexidade das quest&otilde;es envolvidas, por outro est&aacute; ao seu alcance dar &agrave;s for&ccedil;as policiais uma face mais humanizada e solid&aacute;ria com a sociedade, sobretudo com as parcelas mais empobrecidas, principais v&iacute;timas e ref&eacute;ns da viol&ecirc;ncia. </font></p></p>
+<p><p><font face=\"Verdana\">Ao optar pelo caminho da for&ccedil;a, em detrimento do di&aacute;logo franco e horizontal, o governo Eduardo Campos continua semeando na popula&ccedil;&atilde;o um sentimento de medo das pol&iacute;cias. E medo, neste caso, n&atilde;o significa respeito. A realidade tem nos mostrado que pode at&eacute; significar dissimula&ccedil;&atilde;o, conspira&ccedil;&atilde;o, descren&ccedil;a na Institui&ccedil;&atilde;o, div&oacute;rcio com a sociedade, e at&eacute; simpatia com aqueles que enfrentam e desafiam as pol&iacute;cias. </font></p></p>
+<p><p><font face=\"Verdana\">Se o governo estadual optasse pelo outro caminho, que seria dar radicalidade e coer&ecirc;ncia ao Pacto pela Vida, dando &agrave; face das pol&iacute;cias tra&ccedil;os human&iacute;sticos mais robustos e integrando-as profundamente com a sociedade, n&atilde;o estaria apenas dando mais aten&ccedil;&atilde;o &agrave;s quest&otilde;es de direitos humanos. Estaria dando passos firmes no sentido do fortalecimento da intelig&ecirc;ncia policial, em sua capacidade de combate &agrave; criminalidade, pois teria nas comunidades pessoas acreditando nas pol&iacute;cias, e n&atilde;o com medo destas. </font></p></p>
+<p><p><font face=\"Verdana\">Um outro aspecto que circunda a quest&atilde;o &eacute; a desmoraliza&ccedil;&atilde;o que o governo imp&otilde;e aos movimentos, entidades e Institui&ccedil;&otilde;es que lutam pelo respeito aos direitos humanos, como o Minist&eacute;rio P&uacute;blico. Esses atores, que desenvolvem muitas vezes um trabalho her&oacute;ico, v&ecirc;m buscando edificar ao longo de muitos anos uma cultura de combate aos excessos do Estado contra a sociedade. Ao promover um oficial questionad&iacute;ssimo por seus excessos cometidos, inclusive pelo Minist&eacute;rio P&uacute;blico, Eduardo Campos promove um grave retrocesso na correla&ccedil;&atilde;o de for&ccedil;as entre a sociedade civil e o nada positivo corporativismo da Pol&iacute;cia Militar, dando a n&iacute;tida impress&atilde;o de que a redoma que garante a impunidade &agrave;queles que cometem excessos nesta Institui&ccedil;&atilde;o foi renovada e fortalecida. </font></p></p>
+<p><p><font face=\"Verdana\">Al&eacute;m disso, Eduardo Campos n&atilde;o foi nenhum pouco respeitoso com as entidades e personalidades atuantes no &acirc;mbito dos direitos humanos, que apoiaram sua candidatura e hipotecaram apoio ao seu governo em seus primeiros dias. O governo tinha ao seu dispor um elenco de oficiais que evitariam este constrangimento. Sabemos que as solu&ccedil;&otilde;es na &aacute;rea de seguran&ccedil;a p&uacute;blica s&atilde;o de m&eacute;dio e longo prazo, e envolvem quest&otilde;es estruturais, como a gera&ccedil;&atilde;o de emprego e renda, socializa&ccedil;&atilde;o da riqueza, educa&ccedil;&atilde;o, desconstru&ccedil;&atilde;o da cultura da viol&ecirc;ncia em todos os seus focos de irradia&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\">Os agentes de seguran&ccedil;a do Estado devem estar com sua auto-estima em alta, o que significa boas condi&ccedil;&otilde;es de trabalho e sal&aacute;rios compat&iacute;veis. No entanto, este gesto do governador n&atilde;o s&oacute; atrasou um poss&iacute;vel cronograma de solu&ccedil;&otilde;es, dentro de uma poss&iacute;vel agenda positiva, como voltou no tempo um processo que ultrapassa os limites de seu governo. Prestou um desservi&ccedil;o hist&oacute;rico &agrave; sociedade. </font></p></p>
+<p><p><font face=\"Verdana\">PS: <em>Edilson Silva &eacute; presidente do PSOL/PE, foi candidato ao Governo do Estado em 2006 e escreve todas as sextas-feiras para o Blog do Jamildo.</em></font></p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

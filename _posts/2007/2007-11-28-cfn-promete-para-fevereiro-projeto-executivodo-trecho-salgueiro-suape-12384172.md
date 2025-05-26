@@ -1,0 +1,31 @@
+---
+id: 12384172
+date: "2007-11-28T06:30:00Z"
+last_modified_at: null
+tags:
+  - "projeto"
+  - "salgueiro"
+categories:
+  - "noticias"
+title: "CFN promete para fevereiro projeto executivodo trecho Salgueiro-Suape"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\"><em>Da editoria de <strong>Economia</strong> do JC</em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O presidente da Companhia Ferrovi&aacute;ria do Nordeste (CFN), Tufi Daher Filho, disse ontem que vai entregar o projeto executivo do trecho Salgueiro-Suape da Ferrovia Transnordestina no dia 28 de fevereiro de 2008. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A informa&ccedil;&atilde;o foi dada numa reuni&atilde;o que ocorreu no minist&eacute;rio da Casa Civil, em Bras&iacute;lia, e que contou com a participa&ccedil;&atilde;o dos governadores de Pernambuco, Eduardo Campos (PSB); do Cear&aacute;, Cid Gomes (PSB), e do Piau&iacute;, Wellington Dias (PT). &Eacute; a primeira vez que a CFN estabelece uma data de entrega para o projeto.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Geralmente, o projeto executivo &eacute; um documento importante para que a obra saia do papel. As informa&ccedil;&otilde;es do projeto executivo s&atilde;o usadas para fazer o pedido de licenciamento ambiental (da obra). Somente depois da licen&ccedil;a &eacute; que as obras podem ser iniciadas. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A Ferrovia Transnordestina ter&aacute; 1.860 quil&ocirc;metros, come&ccedil;ando da cidade de Eliseu Martins, no Sul do Piau&iacute;, e indo at&eacute; os portos de Pec&eacute;m, no Cear&aacute;, e de Suape. Deste total, mais de 900 quil&ocirc;metros ser&atilde;o de linhas novas. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Tufi Daher Filho tamb&eacute;m afirmou que o projeto executivo do trecho Miss&atilde;o Velha-Pec&eacute;m ficar&aacute; pronto no dia 31 de mar&ccedil;o de 2008. Ainda na reuni&atilde;o, os governadores tamb&eacute;m aprovaram a cria&ccedil;&atilde;o de um grupo de trabalho com representantes dos governos de Pernambuco, Piau&iacute; e Cear&aacute;, al&eacute;m do Departamento Nacional de Infra-Estrutura de Transportes (DNIT) e da Companhia Ferrovi&aacute;ria do Nordeste (CFN), para propor solu&ccedil;&otilde;es que agilizem o ritmo das obras da Transnordestina. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Na reuni&atilde;o tamb&eacute;m ficou acertado que os representantes estaduais do grupo de trabalho far&atilde;o uma reuni&atilde;o, na pr&oacute;xima semana, com os diretores do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renov&aacute;veis (Ibama) para discutir o que pode ser feito para agilizar a licen&ccedil;a ambiental dos trechos da ferrovia. Tamb&eacute;m dever&atilde;o participar da discuss&atilde;o os representantes das ag&ecirc;ncias estaduais do meio ambiente dos tr&ecirc;s Estados.&nbsp;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O&nbsp;resultado da discuss&atilde;o ser&aacute; apresentado &agrave; ministra Dilma Rousseff numa videoconfer&ecirc;ncia que ter&aacute; a participa&ccedil;&atilde;o dos tr&ecirc;s governadores na pr&oacute;xima quarta-feira. A ministra j&aacute; chegou at&eacute; a amea&ccedil;ar a CFN com a cassa&ccedil;&atilde;o da concess&atilde;o para explorar a malha ferrovi&aacute;ria do Nordeste, caso as obras da Ferrovia Transnordestina n&atilde;o sejam aceleradas. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Al&eacute;m de Dilma, participou da reuni&atilde;o o ministro dos Transportes, Alfredo Nascimento. Desde 1998, a CFN explora a antiga Malha Nordeste, que vai de Propri&aacute;, em Sergipe, at&eacute; a cidade de S&atilde;o Lu&iacute;s, capital do Maranh&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">As obras da Ferrovia Transnordestina foram iniciadas em junho do ano passado, mas at&eacute; agora n&atilde;o ultrapassaram os 10 primeiros quil&ocirc;metros. O trecho que est&aacute; em constru&ccedil;&atilde;o tem 110 quil&ocirc;metros e vai de Salgueiro, no sert&atilde;o de Pernambuco, &agrave; cidade de Miss&atilde;o Velha, no Sert&atilde;o do Cear&aacute;. As dificuldades para acelerar as obras est&atilde;o relacionadas &agrave;s desapropria&ccedil;&otilde;es e tamb&eacute;m ao licenciamento ambiental, segundo informa&ccedil;&otilde;es do governo federal. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">As obras da Transnordestina custar&atilde;o R$ 4,5 bilh&otilde;es, dos quais mais de R$ 3 bilh&otilde;es ser&atilde;o bancados por recursos p&uacute;blicos &ndash; como o Fundo de Desenvolvimento do Nordeste (FDNE) e o extinto Fundo de Investimentos do Nordeste (Finor). A CFN vai entrar com cerca de R$ 1 bilh&atilde;o, dos quais uma parte ser&aacute; emprestado pelo Banco Nacional de Desenvolvimento Econ&ocirc;mico e Social (BNDES). Somente a engenharia financeira do projeto passou mais de oito anos para ser fechada. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>ESTRUTURADOR </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O projeto &eacute; encarado como estruturador, porque vai melhorar a infra-estrutura da regi&atilde;o e colocar um meio de transporte mais barato do que o rodovi&aacute;rio. A ferrovia ser&aacute; usada para escoar a produ&ccedil;&atilde;o do gesso do Araripe, dos gr&atilde;os produzidos no Sul do Piau&iacute; e tamb&eacute;m poder&aacute; ser usado pelos produtores de frutas irrigadas do Vale do S&atilde;o Francisco.&nbsp;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A&nbsp;ferrovia tamb&eacute;m poder&aacute; ser um meio de transporte mais barato para levar combust&iacute;veis, fertilizantes e outros produtos utilizados no sert&atilde;o. O setor gesseiro faz estimativas de que poder&aacute; aumentar a produ&ccedil;&atilde;o, caso a ferrovia saia do papel. O projeto de fazer uma ferrovia ligando o litoral do Nordeste ao sert&atilde;o &eacute; centen&aacute;rio e surgiu, pela primeira vez, na &eacute;poca em que o Brasil era governado pelo imperador D. Pedro II. </font></p> </p>
+{% endraw %}

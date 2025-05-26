@@ -14,6 +14,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>O petista tomou café da manhã há pouco, no Hotel Plaza, em Salgueiro, na companhia do deputado estadual Ciro Coelho, do PFL de Petrolina, aliado de Mendonça. Segundo Ayrton Maciel, da equipe de Pol?tica do JC, o pefelista explicou aos repórteres surpresos: \"É só coincidência. Por enquanto.\"</P> </p>
-{\% endraw %}
+{% endraw %}

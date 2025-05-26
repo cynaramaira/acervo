@@ -1,0 +1,31 @@
+---
+id: 12384965
+date: "2008-01-03T08:30:00Z"
+last_modified_at: null
+tags:
+  - "serasa"
+  - "tv-brasil"
+categories:
+  - "noticias"
+title: "TV Brasil: o que ser\u00e1 que ser\u00e1"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Por <strong>Jos&eacute; Paulo Cavalcanti Filho</strong><br /></p>
+<p></font></p></p>
+<p><p><font face=\"Verdana\">No &iacute;ntimo de todos e cada um de n&oacute;s, h&aacute; duas d&uacute;vidas principais sobre a EBC (Empresa Brasil de Comunica&ccedil;&atilde;o), mais conhecida como TV Brasil. 1) Ela vai fazer propaganda do governo? 2) Em pa&iacute;s socialmente carente, como o nosso, vale a pena transferir recursos p&uacute;blicos para uma televis&atilde;o? </font></p></p>
+<p><p><font face=\"Verdana\">A primeira d&uacute;vida &eacute; f&aacute;cil de responder. E essa resposta &eacute;: n&atilde;o se sabe. Em mais vasto horizonte de tempo, ningu&eacute;m poder&aacute; mesmo garantir que n&atilde;o possa estar a servi&ccedil;o de interesses pol&iacute;ticos. Mas &eacute; tamb&eacute;m f&aacute;cil dizer que n&atilde;o est&aacute; sendo montada para esse fim. As biografias do ministro Franklin Martins; da presidente da TV, Tereza Cruvinel, e sua equipe; do presidente Luiz Belluzzo e dos demais membros do Conselho Curador n&atilde;o autorizam admitir que essa TV seja usada, hoje, como chapa-branca -assim se referem a ela alguns jornais. </font></p></p>
+<p><p><font face=\"Verdana\">Ocorre que, no fundo, a verdadeira independ&ecirc;ncia da TV Brasil s&oacute; ser&aacute; garantida com o rigoroso cumprimento do seu or&ccedil;amento. J&aacute; se sabendo que restri&ccedil;&otilde;es nos recursos corresponder&atilde;o &agrave; morte da iniciativa. Ao menos, &agrave; sua morte como um projeto independente. E, nesse ponto, a sociedade ser&aacute; parceira para que funcione, n&atilde;o como TV estatal, mas verdadeiramente como p&uacute;blica. </font></p></p>
+<p><p><font face=\"Verdana\">A segunda quest&atilde;o &eacute; mais complexa. Que, em pa&iacute;s de sa&uacute;de e educa&ccedil;&atilde;o prec&aacute;rias, transferir recursos a uma televis&atilde;o certamente produz (alguma) perplexidade. E a essa d&uacute;vida, mais &eacute;tica que pol&iacute;tica, n&atilde;o se responde apenas fazendo uma boa televis&atilde;o. Ou uma boa televis&atilde;o independente. </font></p></p>
+<p><p><font face=\"Verdana\">&Eacute; pouco. A TV Brasil tem que ser isso, claro. S&oacute; que deve ser mais. E, aqui, o futuro aponta em duas linhas de a&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\">Primeiro, deve ser a cara do pa&iacute;s. O Brasil deve se reconhecer nela, com todos os seus sotaques e cores. Compreendendo que tantas diferen&ccedil;as nos enriquecem. Funcionando &agrave; margem da &quot;l&oacute;gica de rede&quot;, que preside a programa&ccedil;&atilde;o das grandes corpora&ccedil;&otilde;es privadas. </font></p></p>
+<p><p><font face=\"Verdana\">Na pr&aacute;tica, j&aacute; se vendo, n&atilde;o deve ser uma emissora do Rio ou de S&atilde;o Paulo que transmita programas das diversas regi&otilde;es do pa&iacute;s. Mas estimulando que programas sejam produzidos em cada um desses lugares. Integrando TVs educativas, culturas ou universit&aacute;rias j&aacute; presentes em (quase) todo o pa&iacute;s. Aqui, a tenta&ccedil;&atilde;o de concentra&ccedil;&atilde;o deve ser fortemente evitada. </font></p></p>
+<p><p><font face=\"Verdana\">A segunda linha exige pensar grande. Come&ccedil;ando por reconhecer que a l&oacute;gica da informa&ccedil;&atilde;o mudou. At&eacute; a d&eacute;cada de 90, era basicamente compreendida em sua dimens&atilde;o nacional; sendo a principal preocupa&ccedil;&atilde;o as rela&ccedil;&otilde;es entre as corpora&ccedil;&otilde;es de comunica&ccedil;&atilde;o e a democracia. Mas, agora, vale tamb&eacute;m como soberania. Importante sobretudo porque vivemos a internacionaliza&ccedil;&atilde;o dessa informa&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\">Nesse campo, a resposta da TV Brasil deve ser buscar parceiros na Am&eacute;rica Latina, em a&ccedil;&atilde;o mais ampla. A Federal Communication Commission americana, por exemplo, passou, nos anos 2000, a apoiar a forma&ccedil;&atilde;o de fortes conglomerados de m&iacute;dia. Por compreender que o jogo se jogar&aacute;, agora, fora dos Estados Unidos. O mundo &eacute; o mercado. Tudo sugerindo que o ambiente dos meios de comunica&ccedil;&atilde;o vive mudan&ccedil;a extrema, para a qual talvez n&oacute;s n&atilde;o estejamos preparados. </font></p></p>
+<p><p><font face=\"Verdana\">Por tudo, cabe agora produzir conte&uacute;do que expresse nosso verdadeiro rosto. E, para al&eacute;m, decidir tamb&eacute;m se vamos jogar esse jogo de uma m&iacute;dia internacional ou continuaremos no papel passivo e subalterno que at&eacute; agora exercemos. Decidir se estamos dispostos a fazer parte desse conjunto de extraordin&aacute;rias transforma&ccedil;&otilde;es prometidas pelos meios de comunica&ccedil;&atilde;o eletr&ocirc;nica. Um desafio que, bem visto, une interesses de TVs p&uacute;blicas e privadas brasileiras. </font></p></p>
+<p><p><font face=\"Verdana\">A TV Brasil est&aacute; em seus prim&oacute;rdios, &eacute; certo; que s&oacute; poder&aacute; se afirmar em um ambiente digital, ainda em forma&ccedil;&atilde;o no pa&iacute;s. Belo projeto, concebido como espa&ccedil;o de afirma&ccedil;&atilde;o dos compromissos previstos na Constitui&ccedil;&atilde;o Federal (artigo 221), com educa&ccedil;&atilde;o e diversidade cultural. Amanh&atilde;, poderemos at&eacute; concluir n&atilde;o ter valido a pena. Mas &eacute; cedo para previs&otilde;es pessimistas, senhores. </font></p></p>
+<p><p><font face=\"Verdana\">(*) <em>Jos&eacute; Paulo Cavalcanti Filho, 59, advogado, p&oacute;s-graduado pela Universidade Harvard (EUA), &eacute; membro do Conselho Curador da TV Brasil. Foi presidente do Cade (Conselho Administrativo de Defesa Econ&ocirc;mica) e da Empresa Brasileira de Not&iacute;cias, al&eacute;m de secret&aacute;rio-geral do Minist&eacute;rio da Justi&ccedil;a (governo Sarney).</em></font></p> </p>
+{% endraw %}

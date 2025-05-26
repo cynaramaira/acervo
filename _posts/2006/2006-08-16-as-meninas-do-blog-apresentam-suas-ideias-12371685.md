@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>A partir de hoje, sempre às quartas-feiras, Mar?lia Arraes, 21, Priscila Krause, 26, e Louise Caroline, 23, farão uma análise da disputa eleitoral em Pernambuco. Daqui a pouco, às 13h, elas irão analisar em tempo real o primeiro&nbsp;guia de governador, senador e deputado estadual.</P></p>
 <p><P>A seguir, suas primeiras colaborações. Boa leitura para vocês.</P></p>
 <p><P>&nbsp;</P></p>
@@ -52,4 +52,4 @@ imagem: null
 <p><P align=justify><FONT face=Verdana></FONT></P></p>
 <p><P align=justify><FONT face=Verdana>Quarta-feira passada, o Diretório Central dos Estudantes da UFPE organizou o primeiro debate entre os candidatos ao Governo de Pernambuco. Com base nas manifestações dos estudantes e militantes que participavam do debate, seguiram-se os mais diversos comentários de que \"selvageria\", \"brigas\", \"confusão\" tomaram conta da discussão e inviabilizaram o confronto das idéias.</FONT></P></p>
 <p><P>Leia&nbsp;<STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/artigos.php\">aqui</A></EM></STRONG> o texto completo ou&nbsp;na seção artigos,&nbsp;ao lado.</P> </p>
-{\% endraw %}
+{% endraw %}

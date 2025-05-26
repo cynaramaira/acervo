@@ -1,0 +1,49 @@
+---
+id: 12408342
+date: "2009-12-01T14:25:00Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "colunistas"
+title: "A culpabilidade de rob\u00f4s"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Ruy Jos&eacute; Guerra Barretto de Queiroz<br /></p>
+<p><br /></p>
+<p>Tendo sido utilizados em aplica&ccedil;&otilde;es industriais desde os anos 1960&rsquo;s, foi somente na d&eacute;cada de 1980 que surgiram os primeiros rob&ocirc;s de uso n&atilde;o-industrial, sobretudo em aplica&ccedil;&otilde;es nas quais a tarefa correspondente n&atilde;o poderia ser executada manualmente em raz&atilde;o de ser inaceit&aacute;vel ou demasiado perigosa para um ser humano execut&aacute;-la, ou at&eacute; mesmo porque a precis&atilde;o e/ou a for&ccedil;a exigida n&atilde;o poderia ser alcan&ccedil;ada manualmente. S&atilde;o os chamados rob&ocirc;s de servi&ccedil;o, que hoje j&aacute; s&atilde;o utlilizados em servi&ccedil;os pessoais e tarefas dom&eacute;sticas tais como controlar um aspirador de p&oacute; ou um cortador de grama. <br /></p>
+<p><br /></p>
+<p>Alguns avan&ccedil;os tecnol&oacute;gicos t&ecirc;m deixado bem claro que seu potencial de aplicabilidade nessas &aacute;reas &eacute; de fato inesgot&aacute;vel. Segundo Paul Saffo (professor da Stanford Univ, futurista, e jornalista de tecnologia), nos &uacute;ltimos dez anos tem ocorrido uma importante mudan&ccedil;a tecnol&oacute;gica, crucial &agrave; rob&oacute;tica, no desenvolvimento de dispositivos sensores de baixo custo. Trata-se de sensores que s&atilde;o capazes de tirar proveito do poder computacional do chip e viabilizar melhoras significativas nos elementos de sensoriamento, movimento e locomo&ccedil;&atilde;o.<br /></p>
+<p><br /></p>
+<p>A sofistica&ccedil;&atilde;o de sensores leva ao que poder&iacute;amos chamar de rob&ocirc;s genu&iacute;nos, capazes de servir em &aacute;reas como terapia f&iacute;sica ou psicol&oacute;gica, educa&ccedil;&atilde;o, cuidados ao idoso, explora&ccedil;&atilde;o, negocia&ccedil;&atilde;o de ref&eacute;ns, resgate, entretenimento, e seguran&ccedil;a residencial. Muito provavelmente a popula&ccedil;&atilde;o que hoje est&aacute; mais pr&oacute;xima de se beneficiar desses rob&ocirc;s de servi&ccedil;os pessoais s&atilde;o os idosos ou deficientes que precisam de assist&ecirc;ncia em domic&iacute;lio, al&eacute;m dos casos j&aacute; concretos de aplica&ccedil;&atilde;o na assist&ecirc;ncia a crian&ccedil;as com autismo.<br /></p>
+<p><br /></p>
+<p>N&atilde;o obstante o ar futurista que tudo isso invoca, o fato &eacute; que, antes restritos a f&aacute;bricas e ao dom&iacute;nio da fic&ccedil;&atilde;o cient&iacute;fica, rob&ocirc;s est&atilde;o cada vez mais entrando no cotidiano das pessoas. Al&eacute;m dos avan&ccedil;os na tecnologia de sensores, as descobertas na &aacute;rea do racioc&iacute;nio automatizado e tomada de decis&atilde;o t&ecirc;m se traduzido em funcionalidades e autonomia cada vez mais amplas. <br /></p>
+<p><br /></p>
+<p>H&aacute; um sentimento geral de que no momento o mercado da rob&oacute;tica pessoal se parece com o mercado do computador pessoal nos anos 1970&rsquo;s: muitas empresas de pequeno porte com maior expertise em pesquisa e desenvolvimento do que em marketing est&atilde;o tentando criar um produto para o qual outros desenvolver&atilde;o aplica&ccedil;&otilde;es. E, tal qual ocorreu com PC&rsquo;s, muitas aplica&ccedil;&otilde;es dever&atilde;o surgir a partir da criatividade e da engenhosidade do usu&aacute;rio. Especifica&ccedil;&otilde;es propriet&aacute;rias aos poucos cedem lugar a solu&ccedil;&otilde;es padronizadas, especialmente na parte alta do mercado onde o rob&ocirc; ter&aacute; um computador completo seja a bordo ou conectado via 3G a um PC ou a um servidor de computa&ccedil;&atilde;o nas nuvens.<br /></p>
+<p><br /></p>
+<p>Conforme um relat&oacute;rio recente da ABI Research intitulado &ldquo;Personal Robotics 2009: Task, Security &amp; Surveillance/Telepresence, Entertainment and Education Robot, and Robotic Components Markets Through 2015&rdquo;, o mercado global de rob&ocirc;s pessoais dever&aacute; crescer de menos de 9 milh&otilde;es de unidades perfazendo US$1,28 bi em 2009, para mais de 25 milh&otilde;es de unidades no valor de US$5,26 bi em 2015. O maior mercado para os rob&ocirc;s pessoais &eacute; a Am&eacute;rica do Norte, ficando a &Aacute;sia-Pac&iacute;fico em segundo lugar, em grande medida devido ao Jap&atilde;o, onde a cultura &eacute; extremamente receptiva a rob&ocirc;s.<br /></p>
+<p><br /></p>
+<p>Al&eacute;m dos benef&iacute;cios que traz, o rob&ocirc;&nbsp; de servi&ccedil;o pessoal introduz novos riscos &agrave; seguran&ccedil;a e &agrave;&nbsp; privacidade do cidad&atilde;o, al&eacute;m de suscitar quest&otilde;es legais inusitadas que v&atilde;o al&eacute;m do campo da les&atilde;o corporal e dos danos &agrave; propriedade, passando inclusive pelo terreno das leis civis e criminais. No campo de batalha, quem deveria ser responsabilizado no caso de uma arma controlada por um rob&ocirc; vir a matar um civil&#63; <br /></p>
+<p><br /></p>
+<p>A quem cabe a culpa se um desses carros controlados por rob&ocirc;s se atirar contra um grupo de pedestres&#63; No caso de um rob&ocirc; programado para auxiliar um idoso nas tarefas de higiene pessoal provocar sua morte afogando-o na banheira, quem deveria ser processado&#63; Em painel realizado em 12/11/09 na Fac. de Direito da Stanford Univ intitulado &ldquo;Legal Challenges in an Age of Robotics&rdquo;, especialistas discutiram os novos desafios que estar&atilde;o postos &agrave; medida em que a disponibilidade de rob&ocirc;s sofisticados alcance n&iacute;veis verdadeiramente amplos.<br /></p>
+<p><br /></p>
+<p>Em mat&eacute;ria no seu blog intitulada &ldquo;Robotics &amp; The Law: Liability for Personal Robots&rdquo; (25/11/09), Ryan Calo, um dos idealizadores do encontro procura esclarecer sua posi&ccedil;&atilde;o no que tange &agrave; imunidade dos fabricantes de rob&ocirc;s. Calo havia declarado que &ldquo;na aus&ecirc;ncia de uma boa reflex&atilde;o sobre a quest&atilde;o da culpabilidade, teremos casos de grande repercuss&atilde;o que mover&atilde;o o p&uacute;blico contra os rob&ocirc;s ou esfriar&atilde;o a inova&ccedil;&atilde;o e tornar&atilde;o menos prov&aacute;vel que engenheiros entrem na &aacute;rea e menos prov&aacute;vel que o capital venha a fluir no setor.&rdquo; <br /></p>
+<p><br /></p>
+<p>Entendendo que pode ter sido mal interpretado no sentido que estaria advogando que os fabricantes de rob&ocirc;s pessoais deveriam gozar de total imunidade pelos rob&ocirc;s que constroem e vendem, simplesmente porque do contr&aacute;rio esfriar-se-ia a inova&ccedil;&atilde;o, Calo afirma que os fabricantes deveriam sim ser imunes de certas teorias de culpabilidade civil &ndash; particularmente aquelas baseadas no escopo da funcionalidade de um rob&ocirc;. <br /></p>
+<p><br /></p>
+<p>Embora n&atilde;o acredite que a lei deva impedir a responsabiliza&ccedil;&atilde;o dos &ldquo;roboticistas&rdquo; em todos os casos, sua convic&ccedil;&atilde;o reside na necessidade urgente de se trazer essas quest&otilde;es &agrave; tona para a devida reflex&atilde;o, pois do contr&aacute;rio estaremos ignorando avan&ccedil;os tecnol&oacute;gicos em escala global que t&ecirc;m potencial para melhorar significativamente a qualidade de vida do cidad&atilde;o.<br /></p>
+<p><br /></p>
+<p>Todavia, enquanto dispositivo eletr&ocirc;nico dotado de software, &eacute; de se esperar que um rob&ocirc; esteja suscet&iacute;vel a falhas e vulnerabilidades. Com toda a sofistica&ccedil;&atilde;o tecnol&oacute;gica que se espera, a ind&uacute;stria de rob&ocirc;s pessoais de um modo geral prima por uma abordagem &ldquo;centrada no ser humano&rdquo;, o que significa a busca por sensores, motores e material que diminuam o risco de les&atilde;o ativa ou passiva. <br /></p>
+<p><br /></p>
+<p>Por&eacute;m &eacute; inevit&aacute;vel que algu&eacute;m ou alguma propriedade sofrer&aacute; algum tipo de dano ou les&atilde;o, seja por erros no desenho do equipamento, ou neglig&ecirc;ncia ou m&aacute; inten&ccedil;&atilde;o de quem det&eacute;m o controle do rob&ocirc;. E a culpabilidade do rob&ocirc; tende a ser um caso dif&iacute;cil de lidar, n&atilde;o apenas pela complexidade do personagem em si, mas pela tend&ecirc;ncia de simpatia ao(s) lesionado(s), que com boas chances vir&atilde;o do grupo dos desprivilegiados (idosos ou carentes de cuidados espec&iacute;ficos). <br /></p>
+<p><br /></p>
+<p>Em aplica&ccedil;&otilde;es militares j&aacute; existe a imunidade para o fabricante, por&eacute;m o mesmo n&atilde;o ocorre no universo dom&eacute;stico. Por outro lado, n&atilde;o parece razo&aacute;vel seguir os mesmos princ&iacute;pios da imunidade ao fabricante de software para PC&rsquo;s, que o isenta de responsabilidade pelos eventuais danos decorrentes de erros e vulnerabilidades em seus produtos.&nbsp; Como diz Calo, uma coisa &eacute; n&atilde;o ser capaz de processar a Microsoft pelo fato de o Word ou o Windows ter dado um erro e termos perdido um documento; outra coisa &eacute; n&atilde;o poder processar um fabricante de rob&ocirc; cujo produto bateu contra um objeto ou uma pessoa.<br /></p>
+<p><br /></p>
+<p>O desafio est&aacute; posto. Como preservar os incentivos n&atilde;o apenas para o desenvolvimento da tecnologia dos rob&ocirc;s, mas para que esses produtos sejam t&atilde;o vers&aacute;teis e seguros quanto poss&iacute;vel&#63;<br /></p>
+<p><br /></p>
+<p>PS:&nbsp; Ruy &eacute; professor associado do Centro de Inform&aacute;tica da UFPE e escreve para o Blog semanalmente.</p> </p>
+{% endraw %}

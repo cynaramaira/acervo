@@ -1,0 +1,26 @@
+---
+id: 12399418
+date: "2009-03-21T02:01:00Z"
+last_modified_at: null
+tags:
+  - "gente"
+categories:
+  - "noticias"
+title: "Um tiro que feriu muita gente"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Do caderno de JC</p></p>
+<p><p>Foram&nbsp;20 anos dedicados exclusivamente aos adolescentes em situa&ccedil;&atilde;o de risco, grande parte deles infratores da comunidade de Socorro, em Jaboat&atilde;o dos Guararapes, no Grande Recife. A exemplar miss&atilde;o do padre espanhol Ramiro Lude&ntilde;o y Amigo, 64 anos, no Brasil desde 1974, foi estupidamente interrompida por um jovem de 15 anos. Justamente com o mesmo perfil daqueles que o religioso estava acostumado a salvar. Preso na manh&atilde; de ontem quando deixava a Escola Estadual Jos&eacute; Mariano Teixeira, no bairro de Areias, na Zona Oeste do Recife, bem perto do local do assassinato, o adolescente, dependende de coca&iacute;na e maconha, confessou o crime. Disse que tentou realizar um assalto quando o padre manobrava a Hilux no cruzamento das Avenidas Doutor Villas Boas e Aur&eacute;lio Maia. Contou que, quando o religioso tocou no c&acirc;mbio do ve&iacute;culo, pensou que ele iria reagir. O assassinato ocorreu &agrave;s 20h da quinta-feira.</p></p>
+<p><p>O garoto afirmou que ficou assustado. &ldquo;Ele nos disse que n&atilde;o sabia manusear direito a arma de fabrica&ccedil;&atilde;o caseira (espingarda 12) e que o tiro foi acidental. Como ele &eacute; bem magro, ap&oacute;s o disparo, chegou a cair no ch&atilde;o&rdquo;, informou o delegado-titular do Departamento de Homic&iacute;dio e Prote&ccedil;&atilde;o &agrave; Pessoa (DHPP), Joselito Amaral. O assaltou tinha um motivo: o adolescente queria dinheiro para pagar d&iacute;vidas de droga. Em depoimento na sede do Departamento de Homic&iacute;dio e Prote&ccedil;&atilde;o &agrave; Pessoa (DHPP), informou que, al&eacute;m de usu&aacute;rio, era tamb&eacute;m traficante. &ldquo;Ele nunca teve passagem pela pol&iacute;cia&rdquo;, declarou Joselito Amaral. A delegada Silvana Lellis conduziu as investiga&ccedil;&otilde;es.</p></p>
+<p><p>Sentado no banco traseiro da viatura da Pol&iacute;cia Militar, o adolescente disse que n&atilde;o queria falar sobre o crime. &ldquo;Quero falar sobre isso n&atilde;o.&rdquo; A Pol&iacute;cia Civil informou que o infrator morava com os pais no bairro de Areias. &ldquo;Os familiares disseram que n&atilde;o sabiam que ele praticava assaltos.&rdquo; Ap&oacute;s o disparo, fugiu a p&eacute; sem levar nada. Foi para casa normalmente e, na manh&atilde; seguinte, estava na escola. &ldquo;Ele seguiu a rotina por acreditar que n&atilde;o seria pego.&rdquo;</p></p>
+<p><p>Depois da pris&atilde;o, duas mulheres que estavam no carro no momento do crime reconheceram o jovem como sendo o assassino. Ele utilizou uma mochila escolar azul para esconder a espingarda. O &uacute;nico tiro foi disparado na altura do ombro e acabou transfixando o t&oacute;rax do religioso. Encaminhado a um hospital particular do Recife, padre Ramiro n&atilde;o resistiu aos ferimentos. Morreu antes mesmo de chegar &agrave; unidade de sa&uacute;de.</p></p>
+<p><p>Logo ap&oacute;s o homic&iacute;dio, equipes das Pol&iacute;cias Civil e Militar iniciaram investiga&ccedil;&otilde;es no local. Inicialmente, a hip&oacute;tese mais prov&aacute;vel era que se tratava de um crime de mando em raz&atilde;o do trabalho social desenvolvido pelo padre. &ldquo;A gente acreditava que poderia ter alguma vincula&ccedil;&atilde;o com as atividades desempenhadas por ele. Descobrimos que o padre trabalhava com adolescentes infratores&rdquo;, explicou o delegado. No entanto, na manh&atilde; de ontem, ap&oacute;s receber uma informa&ccedil;&atilde;o de que o jovem infrator estava assistindo aula na Escola Estadual Jos&eacute; Mariano Teixeira, no bairro de Areias, policiais do servi&ccedil;o reservado montaram uma opera&ccedil;&atilde;o para prend&ecirc;-lo.</p></p>
+<p><p>V&aacute;rios policiais &agrave; paisana entraram no col&eacute;gio, por volta das 10h, e, com ajuda de um informante, identificarem o jovem. Do lado de fora, uma equipe da PM esperou o sinal dos outros policiais e, no momento em que o adolescente passou pelo port&atilde;o, a pris&atilde;o foi realizada. Ele n&atilde;o esbo&ccedil;ou nenhuma rea&ccedil;&atilde;o. A arma artesanal s&oacute; foi localizada pela pol&iacute;cia no fim da tarde de ontem. Estava escondida na resid&ecirc;ncia onde o garoto morava com os pais. A pol&iacute;cia n&atilde;o quis informar a origem da arma para n&atilde;o atrapalhar as investiga&ccedil;&otilde;es. &ldquo;Outras pessoas podem ser presas&rdquo;, assegurou o delegado.<br /></p>
+<p><br /></p>
+<p>Padre Ramiro Lude&lt;/CF&gt;&ntilde;a y Amigo era natural de Toledo, na Espanha. Chegou ao Brasil em 1974. H&aacute; 20 anos, fundou a Ong Movimento de Apoio aos Meninos de Rua de Jaboat&atilde;o dos Guararapes (Mamer), que realiza trabalho de capacita&ccedil;&atilde;o e empregabilidade com crian&ccedil;as e adolescentes em situa&ccedil;&atilde;o de risco na comunidade de Socorro.</p></p>
+<p><p>O religioso era vig&aacute;rio no munic&iacute;pio de Ribeir&atilde;o, na Zona da Mata Sul de Pernambuco. Todos os fins de semana, ele celebrava missas em comunidades pobres da regi&atilde;o.</p> </p>
+{% endraw %}

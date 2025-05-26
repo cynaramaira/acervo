@@ -1,0 +1,36 @@
+---
+id: 12408424
+date: "2009-12-03T11:07:00Z"
+last_modified_at: null
+tags:
+  - "cidades"
+  - "dinheiro"
+  - "emendas"
+  - "festas"
+categories:
+  - "noticias"
+title: "Dinheiro para as festas da Empetur veio de emendas do PTB, majorit\u00e1rio nas cidades beneficiadas Apenas coincid\u00eancia?"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>&nbsp;</p></p>
+<p><p>Trabalhistas e as emendas para festas</p></p>
+<p><p>Jos&eacute; M&uacute;cio, S&iacute;lvio Costa e Armando Monteiro Neto lideraram, em 2008, a destina&ccedil;&atilde;o de emendas para programa que foi alvo de den&uacute;ncia da oposi&ccedil;&atilde;o</p></p>
+<p><p>Por Cec&iacute;lia Ramos e Manoel Medeiros Neto</p></p>
+<p><p><br /></p>
+<p>O Minist&eacute;rio do Turismo desembolsou R$ 15,08 milh&otilde;es para o programa &ldquo;Promo&ccedil;&atilde;o de Eventos para Divulga&ccedil;&atilde;o do Turismo Interno em Pernambuco&rdquo; em 2008. O recurso liberado &eacute; proveniente de emendas individuais assinadas por parlamentares da bancada federal de Pernambuco no Or&ccedil;amento da Uni&atilde;o. No ranking dos que mais destinaram recursos para o referido programa lideram, pela ordem: Jos&eacute; M&uacute;cio Monteiro (&agrave; &eacute;poca no PTB e desde setembro desfiliado do partido para assumir cargo de ministro do TCU) e S&iacute;lvio Costa (&agrave; &eacute;poca no PMN, hoje no PTB) &ndash; empatados com emendas de R$ 4 milh&otilde;es cada &ndash; e o presidente estadual do PTB, Armando Monteiro Neto, com R$ 2,48 milh&otilde;es.</p></p>
+<p><p>O levantamento realizado pelo JC no site Contas Abertas aponta tamb&eacute;m que o programa para promo&ccedil;&atilde;o de eventos do Turismo figura entre os que mais conseguiram libera&ccedil;&atilde;o efetiva da verba federal no or&ccedil;amento de 2008. Diferente, por exemplo, de programas referentes &agrave; infraestrutura tur&iacute;stica no Estado, que n&atilde;o obtiveram o mesmo sucesso. Est&aacute; na origem deste programa &ldquo;Promo&ccedil;&atilde;o de Eventos para Divulga&ccedil;&atilde;o do Turismo Interno em Pernambuco&rdquo; a den&uacute;ncia da oposi&ccedil;&atilde;o de ind&iacute;cios de superfaturamento em contratos da Empetur com empresas promotoras de shows para os eventos &ldquo;Festejos Natalinos 2008&rdquo; e &ldquo;Ver&atilde;o Pernambuco 2008&rdquo;. A den&uacute;ncia derrubou o secret&aacute;rio de Turismo Silvio Costa Filho (PTB), o executivo Tom&eacute; Franca, e o presidente da Empetur Jos&eacute; Ricardo Diniz, na ter&ccedil;a-feira.</p></p>
+<p><p>Pelo modus operandi do Minist&eacute;rio do Turismo &ndash; cujo titular &eacute; Luiz Barretto (da cota do PTB) &ndash;, as verbas da pasta s&atilde;o repassadas aos Estados por dois caminhos. Atrav&eacute;s de realoca&ccedil;&otilde;es de verbas no decorrer do ano ou de emendas votadas no Congresso, como no caso de Pernambuco. Da Alemanha, onde integra comitiva do presidente Lula (PT), o presidente estadual do PTB, Armando Monteiro, informou ao JC que, no entanto, n&atilde;o houve uma &ldquo;a&ccedil;&atilde;o partid&aacute;ria&rdquo; para emplacar tais emendas. &ldquo;O deputado tem uma cota de emendas (para 2008, o valor foi de R$ 8 milh&otilde;es para cada), as prefeituras demandam os pedidos e se for um hospital, eu vou pedir emenda na Sa&uacute;de, se for de festa, no Turismo&rdquo;. Armando fez quest&atilde;o de destacar que os R$ 2,48 milh&otilde;es sugeridos por ele nada tem a ver com os conv&ecirc;nios questionados pela oposi&ccedil;&atilde;o no Estado. E, por meio da assessoria, enviou ao JC documenta&ccedil;&atilde;o que comprova que os munic&iacute;pios beneficiados por ele s&atilde;o diferentes dos envolvidos no esc&acirc;ndalo da Empetur.</p></p>
+<p><p>Procurado pelo JC, S&iacute;lvio Costa silenciou. &ldquo;Eu j&aacute; estou h&aacute; dez dias calado. E vou permanecer assim. Vai chegar a hora certa para eu falar&rdquo;. Jos&eacute; M&uacute;cio n&atilde;o retornou &agrave;s liga&ccedil;&otilde;es.</p></p>
+<p><p>&nbsp;<br /></p>
+<p>PTB &eacute; majorit&aacute;rio nos munic&iacute;pios</p></p>
+<p><p>De um lado, a Empresa de Turismo de Pernambuco (Empetur) e a afirma&ccedil;&atilde;o de que 11 munic&iacute;pios do interior do Estado foram beneficiados com 32 shows, ao custo de R$ 2,5 milh&otilde;es, no dia 27 de dezembro de 2008. Os shows fazem parte do conv&ecirc;nio Festejos Natalinos 2008, em parceria com o Minist&eacute;rio do Turismo. Do outro, questionamentos a respeito da exist&ecirc;ncia dos eventos. Acusa&ccedil;&otilde;es, inclusive, de que as apresenta&ccedil;&otilde;es seriam &ldquo;fantasmas&rdquo;. No meio da crise, bases eleitorais majoritariamente dominadas pelo PTB, sigla que mais viabilizou emendas or&ccedil;ament&aacute;rias para o programa &ldquo;promo&ccedil;&atilde;o de eventos para divulga&ccedil;&atilde;o do turismo interno no Estado de Pernambuco&rdquo; em 2008 e onde milita atualmente o ex-secret&aacute;rio de Turismo S&iacute;lvio Costa Filho.<br /></p>
+<p>Nas elei&ccedil;&otilde;es municipais de 2008, o PTB foi vitorioso em dez dos onze munic&iacute;pios, cinco deles representados pela cabe&ccedil;a de chapa. O partido elegeu prefeitos em Araripina (Lula Sampaio), Bel&eacute;m de Maria (Dinho), Jucati (Gerson de Melo), Sirinha&eacute;m (Fernando Urquiza) e S&atilde;o Jo&atilde;o (Pedro Barbosa). Apoiou o candidato eleito em Condado, Ipubi, Itamb&eacute;, Jupi e Palmeirina. S&oacute; foi derrotado em Capoeiras, onde Dudu de Souza (PR) venceu Lula Melo (PTB).</p></p>
+<p><p>Se relembradas as vota&ccedil;&otilde;es para deputados federais e estaduais em 2006 nesses 11 munic&iacute;pios beneficiados pelo conv&ecirc;nio Festejos Natalinos 2008, parlamentares eleitos pelo PTB s&atilde;o os mais votados. No &acirc;mbito federal, o ex-deputado Jos&eacute; M&uacute;cio Monteiro, que hoje &eacute; ministro do Tribunal de Contas da Uni&atilde;o (TCU), est&aacute; entre os tr&ecirc;s mais votados em nove cidades (Araripina, Bel&eacute;m de Maria, Capoeiras, Ipubi, Itamb&eacute;, Jucati, Palmeirina, Sirinha&eacute;m e S&atilde;o Jo&atilde;o).</p></p>
+<p><p>Na disputa estadual, mais vit&oacute;rias petebistas em 2006 no mesmo grupo de munic&iacute;pios. Deputados estaduais petebistas, como Clodoaldo Magalh&atilde;es, Iza&iacute;as R&eacute;gis, Marcant&ocirc;nio Dourado e S&iacute;lvio Costa Filho, por exemplo, tamb&eacute;m figuram nas listas dos mais votados em Bel&eacute;m de Maria, Capoeiras, Condado, Itamb&eacute;, Jucati, Jupi, Palmeirina, Sirinha&eacute;m e S&atilde;o Jo&atilde;o.</p></p>
+<p><p>As disputas municipais nessas cidades no ano passado tamb&eacute;m atestam avan&ccedil;os locais da legenda trabalhista em detrimento de partidos advers&aacute;rios. Em Araripina, por exemplo, o PTB avan&ccedil;ou sobre o PSDB e imp&ocirc;s derrota ao grupo do senador S&eacute;rgio Guerra, que comandava o munic&iacute;pio sertanejo. Em Jupi, o PMDB deixou o comando e abriu espa&ccedil;o para o partido de Armando Monteiro Neto. Na cidade, Celina do Cart&oacute;rio (PDT) &ndash; apoiada pelos petebistas &ndash; venceu Vav&aacute; Prot&aacute;sio (PSB). (M.M.N.)</p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

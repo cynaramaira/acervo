@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Ramos<BR></STRONG>Repórter do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>O governador eleito Eduardo Campos (PSB) disse, há pouco,&nbsp;em reunião da executiva nacional do partido, no hotel Recife Palace,&nbsp;o nome de duas pastas que ele vai modificar, quando assumir o lugar de Mendonça Filho (PFL) no Palácio do Campo das Princesas.</FONT></P></p>
 <p><P><FONT face=Verdana>O socialista anunciou que as atuais secretarias de Desenvolvimento Social e&nbsp;Cidadania e de Justiça e Direitos Humanos&nbsp;serão unificadas sob o nome de&nbsp;\"Desenvolvimento Social\".</FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Mais uma vez sem citar nomes, o socialista quis dizer que se o vereador Danilo Cabral (exemplo do Blog) for anunciado para a Educação</p>
 <p> é porque desde sempre era esse o lugar dele. E para ficar só nesse caso, registramos aqui que as especulações já deram&nbsp;conta de Cabral na Fazenda, Administração&nbsp;e Gabinete Civil.&nbsp;</FONT></P></p>
 <p><P><FONT face=Verdana>As informações são da repórter Sheila Borges, de Pol?tica do JC. </FONT></P> </p>
-{\% endraw %}
+{% endraw %}

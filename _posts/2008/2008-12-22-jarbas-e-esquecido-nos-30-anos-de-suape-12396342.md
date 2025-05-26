@@ -1,0 +1,28 @@
+---
+id: 12396342
+date: "2008-12-22T10:00:00Z"
+last_modified_at: null
+tags:
+  - "jarbas-vasconcelos"
+categories:
+  - "noticias"
+title: "Jarbas \u00e9 esquecido nos 30 anos de Suape"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><div><embed style="width: 400px; height: 320px" align="middle" name="flashticker" flashvars="cy=bb&amp;il=1&amp;channel=2738188573461023892&amp;site=widget-94.slide.com" wmode="transparent" salign="l" scale="noscale" quality="high" src="https://widget-94.slide.com/widgets/slideticker.swf"></embed></p>
+<p><div style="width: 400px; text-align: left"><a target="_blank" href="https://www.slide.com/pivot&#63;cy=bb&amp;at=un&amp;id=2738188573461023892&amp;map=1"><img ismap="ismap" border="0" alt="" src="https://widget-94.slide.com/p1/2738188573461023892/bb_t000_v000_s0un_f00/images/xslide1.gif" /></a> <a target="_blank" href="https://www.slide.com/pivot&#63;cy=bb&amp;at=un&amp;id=2738188573461023892&amp;map=2"><img ismap="ismap" border="0" alt="" src="https://widget-94.slide.com/p2/2738188573461023892/bb_t000_v000_s0un_f00/images/xslide2.gif" /></a> <a target="_blank" href="https://www.slide.com/pivot&#63;cy=bb&amp;amp;at=un&amp;amp;id=2738188573461023892&amp;amp;map=2"><img ismap="ismap" border="0" alt="" src="https://widget-94.slide.com/m/2738188573461023892/bb_t000_v000_s0un_f00/images/xslide9_1.gif" /></a> <a target="_blank" href="https://www.slide.com/pivot&#63;cy=bb&amp;at=un&amp;id=2738188573461023892&amp;map=F"><img ismap="ismap" border="0" alt="" src="https://widget-94.slide.com/p4/2738188573461023892/bb_t000_v000_s0un_f00/images/xslide42.gif" /></a></div></p>
+<p></div></p>
+<p><p><br /></p>
+<p>Por <a href="mailto&#63;.ramos@jc.com.br">Cec&iacute;lia Ramos</a>, de Pol&iacute;tica / JC<br /></p>
+<p><br /></p>
+<p>A comemora&ccedil;&atilde;o dos 30 anos do Complexo Portu&aacute;rio e Industrial de Suape reuniu seis ex-governadores, no &uacute;ltimo s&aacute;bado, na Oficina Cer&acirc;mica Brennand, na V&aacute;rzea. O evento foi marcado pela aus&ecirc;ncia do ex-governador e senador Jarbas Vasconcelos (PMDB), advers&aacute;rio do governador Eduardo Campos (PSB), que comandou a festa. Tanto o anfitri&atilde;o do evento como o senador S&eacute;rgio Guerra (PSDB), o aliado e amigo pessoal do peemedebista, n&atilde;o mencionaram o governo Jarbas (1998-2006) em seus discursos. O tucano, inclusive, cometeu uma gafe e n&atilde;o citou o ex-governador Mendon&ccedil;a Filho (DEM), presente &agrave; festa.</p></p>
+<p><p>Apenas o deputado federal Roberto Magalh&atilde;es, que governou Pernambuco entre 83 e 86, fez quest&atilde;o de citar os feitos de todos os ex-governadores, incluindo os de Jarbas, que assinou o contrato da Refinaria Abreu e Lima, em 2005. Na ocasi&atilde;o, ele recebeu a visita do presidente Brasil, Luiz In&aacute;cio Lula da Silva, e da Venezuela, Hugo Ch&aacute;vez, no Recife. Magalh&atilde;es tamb&eacute;m destacou o papel do governo Lula. &ldquo;Ele &eacute; um pol&iacute;tico mais paulista, por&eacute;m foi quem mais olhou para Pernambuco.&rdquo; O deputado foi escolhido pelo atual presidente de Suape, o secret&aacute;rio de Desenvolvimento, Fernando Bezerra Coelho (PSB), para discursar em nome dos ex-governadores. Eduardo levantou-se para cumprimentar Magalh&atilde;es, ap&oacute;s o discurso.</p></p>
+<p><p>Jarbas n&atilde;o compareceu alegando &ldquo;compromissos pessoais&rdquo;. Foi representado pelo ex-secret&aacute;rio Cl&aacute;udio Marinho. Na festa, o coment&aacute;rio era o de que Jarbas n&atilde;o foi temendo ser hostilizado. Quando recebeu Ch&aacute;vez no Recife, o peemedebista foi vaiado pela claque do PT. Lula precisou intervir, pedindo sil&ecirc;ncio.</p></p>
+<p><p>Eduardo disse que n&atilde;o citou o rival porque ele estava &ldquo;ausente&rdquo;. &ldquo;Eu tamb&eacute;m n&atilde;o citei Doutor Arraes&rdquo;, referindo-se ao av&ocirc; e ex-governador Miguel Arraes, representado na ocasi&atilde;o pela filha, Ana Arraes, m&atilde;e de Eduardo. &ldquo;Aqui n&atilde;o tem vaia. Suape &eacute; de todos. E quem compareceu mostrou esp&iacute;rito p&uacute;blico&rdquo;, completou o governador.</p></p>
+<p><p>S&eacute;rgio Guerra, que integrou o conselho de Suape, alegou que esqueceu. Mas lembrou de ser justo com o presidente Lula. &ldquo;Eu n&atilde;o seria honesto se n&atilde;o mencionasse que Suape deve muito ao governo Lula. Ele apontou para Pernambuco ao escolher o Estado para sediar a refinaria&rdquo;, discursou. Apesar da unidade for&ccedil;ada em nome de Suape, o clima n&atilde;o era hostil. Apenas protocolar. Eduardo cumprimentou todos os ex-governadores no in&iacute;cio e no final da festa. Disse, ao discursar, estar &ldquo;emocionado por chegar aos 40 anos podendo aplaudir Marco Maciel, Roberto Magalh&atilde;es, Mendon&ccedil;a Filho, Gustavo Krause, Joaquim Francisco (todos do DEM e presentes na festa) e Jos&eacute; Ramos&rdquo;. Ele citou tamb&eacute;m Eraldo Gueiros (idealizador de Suape), j&aacute; falecido.</p></p>
+<p><p>Os ex-governadores s&oacute; assistiram &agrave; cerim&ocirc;nia e n&atilde;o ficaram para a festa. Marco Maciel conversou rapidamente com Eduardo. &ldquo;Foi muito bonito o gesto de voc&ecirc;s&rdquo;, disse o governador para o senador, que desejou um &ldquo;2009 produtivo&rdquo;. Nenhum deles quis comentar a aus&ecirc;ncia de Jarbas, mas todos destacaram as contribui&ccedil;&otilde;es do peemedebista.</p> </p>
+{% endraw %}

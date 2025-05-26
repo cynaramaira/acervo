@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN><FONT face=Verdana>Do<STRONG> Jornal do Commercio</STRONG><BR><BR>Os projetos de lei de autoria da Mesa Diretora da Assembléia Legislativa que autorizam a transferência de R$ 10.153,60 da verba indenizatória para a de gabinete estão tramitando com a anuência de todos os partidos da base governista e da oposição. </FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN><FONT face=Verdana></FONT></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN><FONT face=Verdana>De acordo com o 1º secretário, deputado João Negromonte (PMDB), o assunto foi tratado pessoalmente pelo presidente da Casa, Romário Dias (PFL), com todos os integrantes da Mesa e os l?deres dos partidos. As propostas foram aceitas por unanimidade em reunião na última terça. <?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></SPAN></P></p>
@@ -32,4 +32,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial; mso-bidi-font-weight: bold\">(...)<o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Leia mais <A href=\"https://jc3.uol.com.br/jornal/2006/11/25/can_9.php\" target=_blank><STRONG><EM>aqui</EM></STRONG></A> (assinantes JC e UOL).</SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

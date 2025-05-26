@@ -1,0 +1,29 @@
+---
+id: 12387075
+date: "2008-03-15T13:41:00Z"
+last_modified_at: null
+tags:
+  - "desempreg"
+  - "eduardo-campos"
+  - "esta"
+  - "paulista"
+categories:
+  - "noticias"
+title: "\u201cA m\u00e1quina est\u00e1 moendo para o lado dos que sempre perderam\u201d, garante Eduardo Campos em Paulista"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Do site do governo do Estado</font></p></p>
+<p><p><font face=\"Verdana\">O governador Eduardo Campos assinou, nesta sexta-feira (14), a Ordem de Servi&ccedil;o que d&aacute; in&iacute;cio &agrave;s obras de urbaniza&ccedil;&atilde;o da comunidade de Chega Mais, no munic&iacute;pio de Paulista, na Regi&atilde;o Metropolitana do Recife. O evento aconteceu na comunidade e reuniu o secret&aacute;rio das cidades, Humberto Costa, o prefeito de Paulista, Yves Ribeiro, e o presidente da CEHAB, Jorge Carrero, entre outras autoridades.</font></p></p>
+<p><p><font face=\"Verdana\">&ldquo;&Eacute; uma satisfa&ccedil;&atilde;o muito grande voltar &agrave; Paulista para dar continuidade &agrave;s a&ccedil;&otilde;es do nosso plano de Governo e fazer a m&aacute;quina moer para o lado dos que sempre perderam. Esse projeto aqui &eacute; de urbaniza&ccedil;&atilde;o, mas envolve diversos outros aspectos. Por exemplo, a urbaniza&ccedil;&atilde;o dessa comunidade inclui a constru&ccedil;&atilde;o de &aacute;reas de lazer o que j&aacute; integra esse projeto ao Pacto Pela Vida. Sem falar que s&oacute; a obra vai gerar 300 postos de trabalho diretos para os moradores de Paulista&rdquo;, explicou Eduardo Campos.</font></p></p>
+<p><p><font face=\"Verdana\">Os investimentos ser&atilde;o da ordem de R$ 14,5 milh&otilde;es em obras e servi&ccedil;os de infra-estrutura como abastecimento d&rsquo;&aacute;gua e liga&ccedil;&otilde;es domiciliares; esgotamento sanit&aacute;rio; drenagem e pavimenta&ccedil;&atilde;o de vias; ilumina&ccedil;&atilde;o p&uacute;blica e domiciliar; constru&ccedil;&atilde;o e melhoria de habita&ccedil;&otilde;es; constru&ccedil;&atilde;o de equipamentos sociais como creche, escola, centro de forma&ccedil;&atilde;o e atividades m&uacute;ltiplas, pra&ccedil;a de esportes/quadra poliesportiva, pra&ccedil;a e bosque. Al&eacute;m disso, a comunidade ser&aacute; beneficiada com a regulariza&ccedil;&atilde;o fundi&aacute;ria e projetos de desenvolvimento comunit&aacute;rio como apoio &agrave; mobiliza&ccedil;&atilde;o e organiza&ccedil;&atilde;o comunit&aacute;ria; educa&ccedil;&atilde;o sanit&aacute;ria e ambiental e cursos profissionalizantes.</font></p></p>
+<p><p><font face=\"Verdana\">Humberto Costa destacou que o governador est&aacute; cumprindo com os compromissos assumidos ainda em tempos de campanha eleitoral, provando que seus compromissos s&atilde;o os mesmos da &eacute;poca em que era candidato. &ldquo;Eduardo prova com esta a&ccedil;&atilde;o, e muitas outras, que o foco do seu governo &eacute; efetivamente para aqueles que mais precisam. Mostra tamb&eacute;m um compromisso com programas habitacionais essenciais para a vida das pessoas&rdquo;, afirmou Humberto. O prefeito Yves fez coro com o secret&aacute;rio: &ldquo;Eduardo est&aacute; dando qualidade de vida &agrave;s pessoas mais pobres. Aqui em Paulista, a melhoria &eacute; enorme, gra&ccedil;as &agrave; disposi&ccedil;&atilde;o e atitude pol&iacute;tica do governador&rdquo;, complementou o prefeito. </font></p></p>
+<p><p><font face=\"Verdana\">A a&ccedil;&atilde;o beneficiar&aacute; 1.018 fam&iacute;lias residentes numa &aacute;rea de 31,6 hectares, cerca de 29 campos de futebol, situada em parte dos Loteamentos Nossa Senhora da Concei&ccedil;&atilde;o e Costa Rica. A obra faz parte do Programa de Urbaniza&ccedil;&atilde;o de Assentamentos Prec&aacute;rios, conv&ecirc;nio firmado entre o Minist&eacute;rio das Cidades, atrav&eacute;s da Caixa Econ&ocirc;mica Federal, e o Governo do Estado. Est&atilde;o inclu&iacute;das, tamb&eacute;m, a&ccedil;&otilde;es de recupera&ccedil;&atilde;o e preserva&ccedil;&atilde;o ambiental. A previs&atilde;o de dura&ccedil;&atilde;o da obra f&iacute;sica &eacute; de 12 meses e mais seis meses para as a&ccedil;&otilde;es sociais.</font></p></p>
+<p><p><font face=\"Verdana\">&ldquo;Estamos chegando onde os outros governos n&atilde;o chegavam. Estamos aqui em Chega Mais e em outras comunidades pobres como Tururu, tamb&eacute;m em Paulista. As nossas prioridades n&atilde;o ficam s&oacute; no discurso. Nossas palavras se transformam em a&ccedil;&otilde;es no dia-a-dia das pessoas. Estamos unidos, sem fazer aquela pol&iacute;tica mi&uacute;da de outros tempos, e trabalhando para construir um Pernambuco mais equilibrado&rdquo;, finalizou o governador.</font></p></p>
+<p><p><font face=\"Verdana\">Tururu e S&atilde;o Pedro &ndash; Tamb&eacute;m est&aacute; previsto para Paulista obras de urbaniza&ccedil;&atilde;o nas comunidades Tururu e S&atilde;o Pedro, em Paulista. Os projetos est&atilde;o inseridos no PAC e receber&atilde;o R$ 47.714 em recursos. Desse montante, cerca de R$ 39,1 milh&otilde;es s&atilde;o do Governo Federal e R$ 8,6 milh&otilde;es do Governo do Estado.</font></p></p>
+<p><p><font face=\"Verdana\">A verba ser&aacute; destinada para a constru&ccedil;&atilde;o de 152 unidades habitacionais, abertura de calha de revestimento do canal Ant&ocirc;nio Miranda, revestimento e assoreamento da Lagoa em Tururu, constru&ccedil;&atilde;o de equipamentos comunit&aacute;rios e urbaniza&ccedil;&atilde;o das comunidades (Tururu, S&atilde;o Pedro, Rua do Meio e Novo Loteamento). Ao todo ser&atilde;o beneficiadas 18.990 fam&iacute;lias. A obra est&aacute; sob a responsabilidade da Prefeitura de Paulista com supervis&atilde;o da CEHAB (empresa vinculada &agrave; Secretaria das Cidades). A previs&atilde;o de dura&ccedil;&atilde;o da obra f&iacute;sica &eacute; de 24 meses e mais seis meses para as a&ccedil;&otilde;es sociais. <br /></p>
+<p></font></p> </p>
+{% endraw %}

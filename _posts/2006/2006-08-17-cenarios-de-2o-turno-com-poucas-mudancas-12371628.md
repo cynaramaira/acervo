@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Mais resultados sobre as eleições em Pernambuco, divulgados agora há pouco no NETV, da Globo:</FONT></P></p>
 <p><P><FONT face=Verdana>Cenários de 2º</FONT></FONT><FONT face=Verdana size=3> turno</FONT></P><B></p>
@@ -41,4 +41,4 @@ imagem: null
 <p><P><FONT face=Verdana>Não sabe e não opiniou&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11%</FONT></P></p>
 <p><P><B><FONT face=Verdana>METODOLOGIA</FONT></P></B></p>
 <p><P><FONT face=Verdana>O levantamento foi realizado entre os dias 14 e 16 de agosto. O Ibope&nbsp;ouviu 1.806 pessoas em 78 munic?pios pernambucanos. A margem de erro é de dois pontos percentuais para mais ou para menos.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

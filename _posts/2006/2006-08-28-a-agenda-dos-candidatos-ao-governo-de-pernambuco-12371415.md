@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana><STRONG>MENDONÇA FILHO (PFL)</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>8h</STRONG>, despachos internos no gabinete do governador</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>22h</STRONG>, participa de debate na TV Clube, canal 9. Local: auditório da TV, na rua do Veiga, 600, Santo Amaro</FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>11h</STRONG>, no Recife, entrevista na Rádio Folha</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>22h</STRONG>, participa de debate na TV Clube</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>23h</STRONG>, no Recife, participa de jantar de adesão em favor da candidatura de Wolney Queiroz</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

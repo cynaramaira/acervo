@@ -13,7 +13,7 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Por <strong>Pierre Lucena*</strong><br />Professor e administrador <br />pierre.lucena@contagemweb.com.br</p>
 <p align="justify">O t?tulo deste artigo &eacute; o nome de um dos maiores cl&aacute;ssicos do faroeste, dirigido por Sergio Leone, e estrelado por Clint Eastwood. O filme &eacute; conhecido aqui no Brasil como "Tr&ecirc;s Homens em Conflito", tendo seu ponto forte o final, quando os tr&ecirc;s advers&aacute;rios duelam entre si.</p>
 <p>&nbsp;<br /></p>
@@ -64,4 +64,4 @@ imagem: null
 <p align="justify"><span style="font-family: Verdana;">Na fic&ccedil;&atilde;o de Sergio Leone, logicamente o "mocinho" acabou ganhando o duelo. Na vida real das elei&ccedil;&otilde;es as coisas n&atilde;o funcionam bem assim. N&atilde;o h&aacute; "Bom", "Mau" ou "Feio", s&oacute; estrat&eacute;gias vencedoras e perdedoras.</span></p>
 <p>&nbsp;<br /></p>
 <p><span style="font-family: Verdana;">*Pierre Lucena</span><span style="font-family: Verdana;">, 35, doutor em finan&ccedil;as pela PUC-Rio, Mestre em Economia e Administrador pela UFPE, &eacute; professor-adjunto da Universidade Federal de Pernambuco, s&oacute;cio da Contagem Consultoria Estrat&eacute;gica e Pesquisa (</span><a href="https://jc.ne10.uol.com.br/"><span style="color: #333333; font-family: Verdana;">www.contagemweb.com.br</span></a><em><span style="font-family: Verdana;">). Foi secret&aacute;rio-adjunto de Educa&ccedil;&atilde;o do Estado. &Eacute; Coordenador do N&uacute;cleo de Finan&ccedil;as e Investimentos do Departamento de Ci&ecirc;ncias Administrativas da UFPE (NEFI).</span></em></p>
-{\% endraw %}
+{% endraw %}

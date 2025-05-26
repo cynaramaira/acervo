@@ -13,7 +13,7 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>&nbsp;</p>
 <p>Por Sheila Borges<br />Rep&oacute;rter de Pol&iacute;tica do JC</p>
 <p>Depois de quatro anos exercendo o segundo mandato como governador do Estado, Jarbas Vasconcelos (PMDB) deixou o governo registrando um crescimento patrimonial de R$ 291,9 mil.</p>
@@ -83,4 +83,4 @@ imagem: null
 <p>* Apartamento em Boa Viagem - R$ 100 mil</p>
 <p>* Autom&oacute;vel Fiat Uno/98 - R$ 9 mil</p>
 <p>Aluisio de Ara&uacute;jo Figueir&ocirc;a (PCB), Severino Jos&eacute; Belarmino Silva (PTdoB), H&eacute;lio Cabral Lima (PSTU) e Breno Rocha Soares (PCO) dizem n&atilde;o ter bens a declarar.</p>
-{\% endraw %}
+{% endraw %}

@@ -1,0 +1,30 @@
+---
+id: 12392729
+date: "2008-08-29T14:47:00Z"
+last_modified_at: null
+tags:
+  - "medicos"
+  - "para"
+categories:
+  - "noticias"
+title: "Para m\u00e9dicos, exonera\u00e7\u00f5es representam fim das emerg\u00eancias"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Nota oficial - 21 m&eacute;dicos exonerados: situa&ccedil;&atilde;o ficar&aacute; incontrol&aacute;vel</p></p>
+<p><p>O Governo do Estado exonerou 21 m&eacute;dicos da rede p&uacute;blica que haviam pedido demiss&atilde;o. A decis&atilde;o foi publicada no Di&aacute;rio Oficial do Estado desta sexta-feira (29.08). Os m&eacute;dicos exonerados s&atilde;o das emerg&ecirc;ncias dos Hospitais da Restaura&ccedil;&atilde;o, Get&uacute;lio Vargas e Ot&aacute;vio de Freitas. &quot;S&atilde;o m&eacute;dicos cirurgi&otilde;es, da emerg&ecirc;ncia e da eletiva&quot;, alertou o presidente do Sindicato dos M&eacute;dicos de Pernambuco, Ant&ocirc;nio Jord&atilde;o, durante entrevista ao programa Super Manh&atilde;, de Geraldo Freire, na R&aacute;dio Jornal.</p></p>
+<p><p>&quot;A situa&ccedil;&atilde;o vai ficar incontrol&aacute;vel e o Simepe n&atilde;o se responsabiliza pelo que vai acontecer a partir de agora. O governador Eduardo Campos ter&aacute; sobre ele toda a responsabilidade de tudo o que acontecer nos hospitais. Com essa exonera&ccedil;&atilde;o, o governador est&aacute; decretando o fim do atendimento nas emerg&ecirc;ncias&rdquo;.</p></p>
+<p><p>Questionado por Geraldo Freire sobre uma poss&iacute;vel greve, o presidente do Simepe descartou essa possibilidade. &quot;Os m&eacute;dicos n&atilde;o fazem greve h&aacute; mais de 10 anos. Com os pedidos de demiss&atilde;o n&oacute;s estamos tentando for&ccedil;ar uma negocia&ccedil;&atilde;o com o governo para melhorar as condi&ccedil;&otilde;es de trabalho e garantir o atendimento &agrave; popula&ccedil;&atilde;o&rdquo;.</p></p>
+<p><p>Segundo o presidente do Simepe, essa decis&atilde;o do Governo est&aacute; unindo ainda mais a classe m&eacute;dica. &ldquo;Quem ainda n&atilde;o havia pedido demiss&atilde;o est&aacute; pedindo a partir de hoje. Os m&eacute;dicos est&atilde;o ligando, se solidarizando com o movimento.&rdquo; Cerca de 300 m&eacute;dicos j&aacute; encaminharam aos hospitais e &agrave; secretaria de Sa&uacute;de os seus pedidos de demiss&atilde;o.</p></p>
+<p><p>Os m&eacute;dicos que ainda n&atilde;o foram exonerados, mas que j&aacute; pediram demiss&atilde;o, tamb&eacute;m v&atilde;o deixar seus postos de trabalho. &ldquo;Essa foi uma decis&atilde;o dos m&eacute;dicos durante as &uacute;ltimas assembl&eacute;ias da categoria. Os colegas entraram em acordo e resolveram, caso o estado exonerasse algum m&eacute;dico antes de negociar, que o restante tamb&eacute;m entregaria os cargos&rdquo;, explicou Jord&atilde;o.</p></p>
+<p><p>Isso significa que a partir de agora as grandes emerg&ecirc;ncias ficar&atilde;o sem m&eacute;dicos para atender a demanda da popula&ccedil;&atilde;o. &quot;Significa tamb&eacute;m que a situa&ccedil;&atilde;o vai ficar incontrol&aacute;vel, mas se o governador fez isso &eacute; porque tem condi&ccedil;&otilde;es de encontrar novos m&eacute;dicos para ocupar as vagas que ficaram em aberto&quot;, enfatizou Jord&atilde;o.</p></p>
+<p><p>&ldquo;Os m&eacute;dicos est&atilde;o conscientes porque, ao entregar a demiss&atilde;o, deram um prazo de 30 dias ao governo. Se o governo n&atilde;o negocia e exonera &eacute; porque tem condi&ccedil;&otilde;es de fazer a substitui&ccedil;&atilde;o dos profissionais&rdquo;, destaca o secret&aacute;rio geral do Simepe M&aacute;rio Jorge.</p></p>
+<p><p>O movimento da classe m&eacute;dica n&atilde;o &eacute; exclusivo dos m&eacute;dicos. &ldquo;N&oacute;s n&atilde;o estamos olhando somente para n&oacute;s, para os m&eacute;dicos. O nosso compromisso &eacute; com o bem-estar social. A nossa preocupa&ccedil;&atilde;o maior &eacute; com os pacientes e com a sociedade&rdquo;, assegura Jord&atilde;o. O Simepe entrou com uma a&ccedil;&atilde;o civil p&uacute;blica na justi&ccedil;a, pedindo a garantia do atendimento aos pacientes desassistidos e aos que precisam de leitos de UTI. De acordo com a decis&atilde;o judicial, esses pacientes devem ser tratados nos hospitais particulares.</p></p>
+<p><p><b>NEGOCIA&Ccedil;&Otilde;ES&nbsp;- </b>Para o movimento m&eacute;dico o governo est&aacute; sendo intransigente ao insistir numa negocia&ccedil;&atilde;o com os m&eacute;dicos junto com os demais servidores que j&aacute; negociaram e tiveram seu pleito atendido. Segundo Ant&ocirc;nio Jord&atilde;o, &ldquo;h&aacute; mais de 10 anos que os m&eacute;dicos negociam em separado e isso sempre ocorreu de forma tranq&uuml;ila. Essa mesa, a qual o governo insiste que os m&eacute;dicos participem, atende todos os servidores que j&aacute; negociaram. A finaliza&ccedil;&atilde;o das negocia&ccedil;&otilde;es ocorre sempre fora da mesa. Porqu&ecirc; com os m&eacute;dicos vai ser diferente&#63;&rdquo;</p></p>
+<p><p>A situa&ccedil;&atilde;o est&aacute; t&atilde;o preocupante que os m&eacute;dicos falam at&eacute; numa interven&ccedil;&atilde;o nacional em Pernambuco. &ldquo;N&atilde;o h&aacute; nada que impe&ccedil;a que o Governo Federal intervenha aqui no nosso estado&rdquo;, alertou Jord&atilde;o.</p></p>
+<p><p><b>REUNI&Atilde;O -</b> No final da manh&atilde; desta sexta-feira (29) representantes do Simepe, Cremepe, AMPE, Fecem e sociedades de especialidades, se reuniram, convocados pelo Simepe, para falar sobre o projeto que cria as funda&ccedil;&otilde;es p&uacute;blicas de direito privado. Ao final do encontro todas as sociedades de especialidades se comprometeram em refor&ccedil;ar o movimento dos m&eacute;dicos, em todas as suas reivindica&ccedil;&otilde;es.</p></p>
+<p><p>Os m&eacute;dicos t&ecirc;m uma nova Assembl&eacute;ia na pr&oacute;xima ter&ccedil;a-feira (02) no audit&oacute;rio da Associa&ccedil;&atilde;o M&eacute;dica de Pernambuco, na Pra&ccedil;a Oswaldo Cruz, 396, Boa Vista.</p> </p>
+{% endraw %}

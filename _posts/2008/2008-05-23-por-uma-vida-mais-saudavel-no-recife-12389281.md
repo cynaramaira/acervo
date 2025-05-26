@@ -1,0 +1,27 @@
+---
+id: 12389281
+date: "2008-05-23T18:01:00Z"
+last_modified_at: null
+tags:
+  - "recife"
+  - "vida-saudavel"
+categories:
+  - "eleicoes"
+title: "Por uma vida mais saud\u00e1vel no Recife "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Por Raul Henry<img height=\"160\" alt=\"\" width=\"130\" align=\"right\" src=\"https://www2.uol.com.br/JC/blogs/blogdejamildo/imagens/selo_recife2008.jpg\" /></font></p></p>
+<p><p><font face=\"Verdana\">Protagonista de lindos cart&otilde;es postais, o mau cheiro crescente na capital pernambucana - no passado uma das mais bem servidas do Pa&iacute;s em termos de sistema de esgotos - tem incomodado cada vez mais a popula&ccedil;&atilde;o, acarretando problemas no meio ambiente, sa&uacute;de e economia. Esse triste cen&aacute;rio se d&aacute; porque embora tenha uma extens&atilde;o territorial de apenas 220 quil&ocirc;metros quadrados, somente 30% desse territ&oacute;rio possui rede coletora p&uacute;blica de esgotos, 10% s&atilde;o tratados e 3% s&atilde;o depurados como deveriam. </font></p></p>
+<p><p><font face=\"Verdana\">Os reflexos negativos dessa situa&ccedil;&atilde;o geram doen&ccedil;as, espantam os turistas, e prejudicam o desenvolvimento de atividades tur&iacute;sticas e econ&ocirc;micas, bem como afeta o belo patrim&ocirc;nio paisag&iacute;stico composto pelos rios que cortam a cidade. Vale destacar, ainda, o s&eacute;rio comprometimento das estruturas de drenagem pelo lan&ccedil;amento indevido de esgotos sanit&aacute;rios nesses locais.</font></p></p>
+<p><p><font face=\"Verdana\">O abastecimento de &aacute;gua tamb&eacute;m deixa a desejar. Apesar de 88% dos domic&iacute;lios estarem ligados &agrave; rede geral, 9,6% s&atilde;o atendidos por po&ccedil;os ou nascentes, muitos dos quais sem canaliza&ccedil;&atilde;o; cerca de 35 mil pessoas consomem &aacute;gua de fontes sem qualquer controle de qualidade; e h&aacute; locais onde o racionamento cr&ocirc;nico j&aacute; dura mais de 20 anos. O estoque de &aacute;gua de forma inadequada, na maioria dos casos, tem contribu&iacute;do, inclusive, para a prolifera&ccedil;&atilde;o da dengue, t&atilde;o em evid&ecirc;ncia atualmente. </font></p></p>
+<p><p><font face=\"Verdana\">Como podemos constatar, nesta r&aacute;pida an&aacute;lise, a situa&ccedil;&atilde;o &eacute; bastante preocupante: o abastecimento de &aacute;gua &eacute; insuficiente pela quantidade ofertada, irregular por sua intermit&ecirc;ncia, prec&aacute;rio na qualidade, comprometida pela ocorr&ecirc;ncia de infiltra&ccedil;&otilde;es nas canaliza&ccedil;&otilde;es motivadas pelo enche e esvazia das paradas do racionamento. As perdas tamb&eacute;m s&atilde;o escandalosas e aumentam cada vez mais: atualmente chegam a quase 65% na Regi&atilde;o Metropolitana do Recife. </font></p></p>
+<p><p><font face=\"Verdana\">A quest&atilde;o do saneamento, durante anos, foi uma das mais dif&iacute;ceis de serem solucionadas pelo gestor p&uacute;blico. Desde 1986, com a extin&ccedil;&atilde;o do BNH, n&atilde;o havia no Pa&iacute;s uma pol&iacute;tica nacional de saneamento. N&oacute;s mesmos vivenciamos esse cen&aacute;rio nas gest&otilde;es municipais de Jarbas Vasconcelos e Roberto Magalh&atilde;es. A &aacute;rea, por&eacute;m, tem hoje o seu momento mais prop&iacute;cio: em 2005, Governo do Estado, Compesa e Prefeitura do Recife assinaram um Conv&ecirc;nio de Coopera&ccedil;&atilde;o e Contrato de Programa para promover a gest&atilde;o compartilhada dos servi&ccedil;os de saneamento na cidade; em 2007, o Governo Federal aprovou, enfim, o Marco Regulat&oacute;rio do Saneamento e destinou R$ 44 bilh&otilde;es para a &aacute;rea, nos pr&oacute;ximos quatro anos; al&eacute;m disso, foram criadas linhas de investimento pelo BNDES e Caixa Econ&ocirc;mica Federal. </font></p></p>
+<p><p><font face=\"Verdana\">Esse &eacute; um assunto que deve assumir car&aacute;ter de prioridade no nosso programa de governo, pois entendemos que a urbaniza&ccedil;&atilde;o de &aacute;reas pobres e degradadas - outra de nossas propostas de primeira hora - deve ser precedida dos servi&ccedil;os de saneamento b&aacute;sico. </font></p></p>
+<p><p><font face=\"Verdana\">Propomos que a Prefeitura passe a exercer o efetivo papel de concedente, estabelecendo junto &agrave; Compesa um programa de a&ccedil;&otilde;es que devem ser acompanhadas de perto, a exemplo de: elabora&ccedil;&atilde;o dos Planos Diretores de &aacute;gua e esgoto do Recife; fixa&ccedil;&atilde;o de metas para cobertura pelos sistemas de esgotos e redu&ccedil;&atilde;o das perdas de &aacute;gua; participa&ccedil;&atilde;o direta na readequa&ccedil;&atilde;o do sistema tarif&aacute;rio e tamb&eacute;m na elei&ccedil;&atilde;o de prioridades.</font></p></p>
+<p><p><font face=\"Verdana\">A implementa&ccedil;&atilde;o de um programa, visando o aumento da cobertura de esgotos, tamb&eacute;m &eacute; imprescind&iacute;vel. Atrav&eacute;s dessas a&ccedil;&otilde;es daremos n&atilde;o s&oacute; condi&ccedil;&otilde;es de moradias mais dignas &agrave; maioria de nossa popula&ccedil;&atilde;o, mas tamb&eacute;m asseguraremos o sagrado direito a uma vida mais saud&aacute;vel. </font></p></p>
+<p><p><font face=\"Verdana\">PS: Deputado federal e pr&eacute;-candidato do PMDB a prefeito do Recife, escreve para o Blog &agrave;s sextas dentro da s&eacute;rie &quot;Recife 2008. Debate com os prefeitur&aacute;veis&quot;.</font></p> </p>
+{% endraw %}

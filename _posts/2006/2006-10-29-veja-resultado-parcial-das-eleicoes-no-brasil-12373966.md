@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Resultado parcial em sete estados do Brasil, segundo o Tribunal Superior Eleitoral (TSE):</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Pernambuco</STRONG></FONT><BR><FONT face=Verdana>Eduardo Campos (PSB) - 69,03% <BR>Mendonça Filho (PFL) - 30,97%<BR>Seções totalizadas: 2.046 (12,16%)</FONT></P></p>
 <p><P><FONT face=Verdana><B>Goiás<BR></B>Alcides Rodrigues (PP) - 58,74% <BR>Maguito Vilela (PMDB) - 41,26%<BR></FONT></P></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>-----------------------------</FONT></P></p>
 <p><P><FONT face=Verdana>Não há informação ainda sobre a apuração no </FONT><FONT face=Verdana><STRONG>Rio Grande do Norte</STRONG>, onde o governo é disputado entre </FONT><FONT face=Verdana>Wilma de Faria (PSB)&nbsp;e Garibaldi Alves (PMDB).</FONT> </P><FONT face=\"Times New Roman\"></p>
 <p><P></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Mendonça Filho e Eduardo Campos deram hoje entrevistas com um recado claro: vão disputar com vigor parcelas dos votos recebidos por Humberto Costa (1.008.842 de votos, 25,14% do total).</FONT></P></p>
 <p><P><FONT face=Verdana>Ambos fizeram referências diretas aos eleitores do petista em entrevistas concedidas à Rádio Jornal e à TV Jornal.</FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo disse não acreditar que o eleitor de Humberto migre para a candidatura de Mendonça neste segundo turno.</FONT></P></p>
@@ -32,4 +32,4 @@ imagem: null
 <p><P><FONT face=Verdana>Elogiou Humberto, chamou João Paulo de \"meu amigo pessoal\", pediu a Armando Monteiro para esquecer os conflitos da pré-campanha e olhar para frente. </FONT></P></p>
 <p><P><FONT face=Verdana>Finalmente, falou que pretende governar com todo \"o conjunto de forças\" da oposição a Mendonça e Jarbas.</FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo acredita na vitória com a unidade da oposição. Juntos, ele e Humberto tiveram 58,95% dos votos válidos do Estado.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

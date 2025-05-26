@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT color=#800000></p>
 <p><P><FONT face=Verdana>Anedota que corre na internet sobre as respostas de três pol?ticos famosos. </FONT></P></p>
 <p><P><FONT face=Verdana>Eles são perguntados com quem gostariam de se casar, acaso fossem solteiros ? Como sempre, há sempre um bêbado, neste caso, representando o inconsciente coletivo de milhares</FONT></P></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana>O bêbado, aprontando um baita estardalhaço, respondeu lá de trás:</FONT></P></p>
 <p><P><FONT face=Verdana>- É isso ai, muito bom, isso que é homem honrado: f..., tem que casar...!!!</FONT></P></p>
 <p><P><FONT face=Verdana>Que coisa mais sem graça, gente. Mais respeito. Afinal, o homem não é demagogo, nunca.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

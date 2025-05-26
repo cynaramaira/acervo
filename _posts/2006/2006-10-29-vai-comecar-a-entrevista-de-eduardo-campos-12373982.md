@@ -13,6 +13,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Os deputados e l?deres pol?ticos já começaram a ser convidados a ocupar seus lugares. </p>
-{\% endraw %}
+{% endraw %}

@@ -1,0 +1,34 @@
+---
+id: 12397651
+date: "2009-02-02T15:53:48Z"
+last_modified_at: null
+tags:
+  - "edilson-vieira"
+  - "mundial"
+  - "pensilvania"
+  - "social1"
+categories:
+  - "noticias"
+title: "Um outro F\u00f3rum Social Mundial \u00e9 poss\u00edvel. Por Edilson Silva"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Ed&iacute;lson Silva</p></p>
+<p><p>Entre os dias 27 de janeiro e 1&ordm; de fevereiro aconteceu em Bel&eacute;m do Par&aacute; mais uma edi&ccedil;&atilde;o do F&oacute;rum Social Mundial, evento anual que teve in&iacute;cio em 2001, quando foi inaugurado em Porto Alegre, para se contrapor ao F&oacute;rum Econ&ocirc;mico Mundial, que acontece tamb&eacute;m anualmente em Davos, na Su&iacute;&ccedil;a, sempre em janeiro.</p></p>
+<p><p>Enquanto em Davos re&uacute;ne-se a nata capitalista para discutir como manter e ampliar os lucros das suas corpora&ccedil;&otilde;es, no F&oacute;rum Social Mundial re&uacute;nem-se organiza&ccedil;&otilde;es, movimentos e indiv&iacute;duos de todos os cantos do planeta para debater alternativas &agrave; globaliza&ccedil;&atilde;o neoliberal.</p></p>
+<p><p>Em suas nove edi&ccedil;&otilde;es o FSM j&aacute; viajou o mundo, acontecendo j&aacute; na Gr&eacute;cia, na Venezuela e de forma descentralizada nos v&aacute;rios continentes. Nesta quase d&eacute;cada, a conjuntura pol&iacute;tica e econ&ocirc;mica no planeta se alterou consideravelmente.</p></p>
+<p><p>O mundo viu os ataques terroristas daquele 11 de setembro de 2001 &agrave;s torres g&ecirc;meas em Nova Iorque servir de senha para a escalada neofascista de George W. Bush, que desencadeou uma her&oacute;ica resist&ecirc;ncia do povo iraquiano. Viu a Am&eacute;rica Latina consolidar importantes governos nacionalistas de esquerda e anti-globaliza&ccedil;&atilde;o neoliberal. Viu a ONU, atrav&eacute;s do IPCC, divulgar seus relat&oacute;rios comprovando a devasta&ccedil;&atilde;o do planeta e o aquecimento global como subproduto da anarquia capitalista. Viu ainda a derrota pol&iacute;tica e eleitoral acachapante de Bush, dando lugar ao primeiro negro presidente dos Estados Unidos, Barack Obama, com uma campanha e um discurso negando a era Bush. Por fim, ainda coube nesta quase d&eacute;cada a &quot;queda do muro&quot; do neoliberalismo, com o capitalismo vivendo uma crise econ&ocirc;mica de porte semelhante ou superior &agrave;quela de 1929.</p></p>
+<p><p>Nestes poucos anos, portanto, a hist&oacute;ria vem desenhando um veredicto que atesta que as preocupa&ccedil;&otilde;es e id&eacute;ias debatidas no FSM estavam e est&atilde;o corretas, eram e s&atilde;o pertinentes, e que os princ&iacute;pios de Davos s&atilde;o t&atilde;o reais e verdadeiros como as a&ccedil;&otilde;es que evaporaram nas bolsas de valores nos &uacute;ltimos meses. &Eacute; como se o planeta gritasse: um outro mundo &eacute; poss&iacute;vel, necess&aacute;rio e urgente.</p></p>
+<p><p>Contudo, a edi&ccedil;&atilde;o amaz&ocirc;nica do F&oacute;rum Social Mundial n&atilde;o acontece somente com o vento soprando suas velas. Este mesmo vento exige mais ou quase toda a aten&ccedil;&atilde;o dos &quot;tripulantes&quot; para o leme, para a dire&ccedil;&atilde;o da embarca&ccedil;&atilde;o, exigindo defini&ccedil;&otilde;es pol&iacute;ticas m&iacute;nimas. E &eacute; neste ponto, na conjuga&ccedil;&atilde;o e na soma dos diversos vetores que atuam no FSM, na sistematiza&ccedil;&atilde;o de milhares de relat&oacute;rios de grupos de discuss&atilde;o, oficinas, vis&otilde;es, buscando lhes canalizar para um norte concreto, que est&aacute; uma das principais, sen&atilde;o a maior contradi&ccedil;&atilde;o do FSM.</p></p>
+<p><p>Esta contradi&ccedil;&atilde;o fere profundamente a capacidade do FSM em se transformar em um espa&ccedil;o de maior for&ccedil;a pol&iacute;tica, com suas declara&ccedil;&otilde;es tendo mais relev&acirc;ncia junto aos atores que gravitam em torno de posi&ccedil;&otilde;es de esquerda em todo o mundo. Um claro exemplo desta contradi&ccedil;&atilde;o &eacute; a rela&ccedil;&atilde;o que os setores silenciosamente hegem&ocirc;nicos do FSM t&ecirc;m com o governo brasileiro.</p></p>
+<p><p>N&atilde;o foi por acaso que o FSM nasceu no Brasil, mais especificamente em Porto Alegre, governada pelo PT por quatro gest&otilde;es. O Brasil &eacute; como se fosse a casa do FSM por conta das expectativas que amplos setores ligados &agrave; esquerda mundial tinham em torno da constru&ccedil;&atilde;o de uma institucionalidade diferenciada no Brasil, com democracia participativa, com governos centrados nos direitos humanos e, portanto, anti-neoliberais.</p></p>
+<p><p>As expectativas foram frustradas com a posse de Lula em 2003. Lula transformou-se no amiguinho de Bush, ocupou o Haiti, liberou os transg&ecirc;nicos, privatizou a Amaz&ocirc;nia, est&aacute; transpondo as &aacute;guas do Rio S&atilde;o Francisco, estancou a luta pela reforma agr&aacute;ria mantendo a MP de FHC que impede novas ocupa&ccedil;&otilde;es, pratica uma pol&iacute;tica econ&ocirc;mica no campo da ortodoxia neoliberal, taxou os aposentados, faz um governo afastado do campo &eacute;tico, no entanto, este governo n&atilde;o recebe do FSM o mesmo tratamento que fora dispensado a FHC.</p></p>
+<p><p>Pelo contr&aacute;rio, nada menos que 11 ministros de Lula estavam transitando e participando de eventos pelo F&oacute;rum de 2009, inclusive o pr&oacute;prio Lula. &Eacute; como se esta hegemonia silenciosa tivesse sofrido do mesmo processo de coopta&ccedil;&atilde;o vivido por movimentos e organiza&ccedil;&otilde;es como a CUT e a UNE, que se sentem e s&atilde;o parte do governo.</p></p>
+<p><p>&Eacute; preciso reconhecer que nesta edi&ccedil;&atilde;o parte dos movimentos sociais afastaram-se sensivelmente desta contradi&ccedil;&atilde;o, como a Via Campesina, que reuniu quatro presidentes em um evento e recusou-se a convidar Lula. Mas esta ainda &eacute; uma posi&ccedil;&atilde;o minorit&aacute;ria no territ&oacute;rio pol&iacute;tico do FSM.</p></p>
+<p><p>Enquanto estas contradi&ccedil;&otilde;es n&atilde;o forem superadas em maior medida, o FSM n&atilde;o avan&ccedil;ar&aacute; para al&eacute;m de um excelente espa&ccedil;o para discuss&atilde;o e amadurecimento de id&eacute;ias e socializa&ccedil;&atilde;o de experi&ecirc;ncias. A se manter com estas contradi&ccedil;&otilde;es, a pequena fama de disneyl&acirc;ndia da esquerda ou piquenique mundial anti-globaliza&ccedil;&atilde;o tende a se cristalizar. Mas, otimista que sou, continuo participando ativamente e acreditando que um outro F&oacute;rum Social Mundial tamb&eacute;m &eacute; poss&iacute;vel.</p></p>
+<p><p>Presidente do PSOL/PE<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

@@ -1,0 +1,27 @@
+---
+id: 12379643
+date: "2007-06-23T12:15:00Z"
+last_modified_at: null
+tags:
+  - "jornal"
+  - "jornal-do-commercio"
+categories:
+  - "noticias"
+title: "O Jornal do Commercio, O CRACK E\u2026E AGORA?"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Por <strong>Gustavo Krause</strong></font></p></p>
+<p><p><font face=\"Verdana\">O JC prestou um grande servi&ccedil;o &agrave; sociedade pernambucana.</font></p></p>
+<p><p><font face=\"Verdana\">A s&eacute;rie de artigos sobre a invas&atilde;o do crack tem a marca do profissionalismo de uma equipe liderada pela rep&oacute;rter Ciara Carvalho de reconhecida compet&ecirc;ncia, mas que n&atilde;o imaginava t&atilde;o destemida. Destemor e compromisso p&uacute;blico, exemplos de que n&oacute;s, cidad&atilde;os e autoridades, estamos carecendo (uma ressalva: este artigo est&aacute; assinado por um cidad&atilde;o, impactado, assustado, sem qualquer conota&ccedil;&atilde;o pol&iacute;tico-partid&aacute;ria e disposto a participar de uma luta coletiva).</font></p></p>
+<p><p><font face=\"Verdana\">Crack, palavra de origem inglesa transplantada do turfe para qualificar ex&iacute;mios jogadores de futebol ou onomatop&eacute;ia para significar ru&iacute;do de desmoronamento e de crise econ&ocirc;mica, &eacute;, tamb&eacute;m, devastador subproduto da coca&iacute;na, uma droga da pesada que, a partir da consistente reportagem passa a ser sin&ocirc;nimo de trag&eacute;dia social.</font></p></p>
+<p><p><font face=\"Verdana\">Com efeito, a reportagem &eacute; um trabalho jornal&iacute;stico completo. Investigativo. Ocupa-se de todos os &acirc;ngulos da epidemia. Enxerga fundo o que est&aacute; na superf&iacute;cie do cotidiano. Clama pela assun&ccedil;&atilde;o de responsabilidades. E mais: revela tr&ecirc;s aspectos que agravam a dimens&atilde;o do problema exposto.</font></p></p>
+<p><p><font face=\"Verdana\">O primeiro. A facilidade com que a rep&oacute;rter penetrou nas entranhas do submundo da marginalidade. Ciara viu tudo. Fotografou. Comprou a droga. Entrevistou os elos que comp&otilde;em a cadeia do crime. Mostrou que o teatro da delinq&uuml;&ecirc;ncia e todos os seus atores est&atilde;o juntos de n&oacute;s e se voltam contra pacatas pessoas sob as mais diversas formas de viol&ecirc;ncia. Em s&iacute;ntese: exp&ocirc;s uma realidade que &eacute; f&aacute;cil de ver e dif&iacute;cil de combater.</font></p></p>
+<p><p><font face=\"Verdana\">O segundo. A fal&ecirc;ncia do sistema prisional. Ineficiente e corrupto. O que explica a incapacidade de combater. O sistema prisional abriga o criminoso e lhe oferece &agrave; custa do contribuinte: casa, comida, roupa lavada, sexo e celular. E o que &eacute; mais grave e ir&ocirc;nico: oferece seguran&ccedil;a para que o delinq&uuml;ente, dentro dos pres&iacute;dios, pratique sossegadamente a a&ccedil;&atilde;o criminosa. Em outras palavras: a distor&ccedil;&atilde;o &eacute; de tal ordem que o Estado, por meio dos seus agentes venais, &eacute; parceiro no crime. Como bem disse a rep&oacute;rter: &quot;O escrit&oacute;rio do tr&aacute;fico de crack em Pernambuco tem endere&ccedil;o certo. Funciona dentro dos pres&iacute;dios e penitenci&aacute;rias do Estado&quot;.</font></p></p>
+<p><p><font face=\"Verdana\">O terceiro. O tr&aacute;fico &eacute; rentabil&iacute;ssimo e o crack, uma droga &quot;democr&aacute;tica&quot;: est&aacute; ao alcance de pobres, remediados e ricos proporcionando ao usu&aacute;rio o &quot;efeito fissura&quot; que nem maconha, nem a coca&iacute;na oferecem. O neg&oacute;cio do crack &eacute; t&atilde;o lucrativo que o dinheiro das drogas concorrentes se transforma em mixaria. O ex-presidi&aacute;rio entrevistado diz o seguinte: &quot;Voc&ecirc; compra 5 gramas de crack por 150 reais. Consegue vender por 500 reais&quot;. Ou seja, o crime compensa. Uma lista enorme de crimes &eacute; praticada a partir do cotejo c&aacute;lculo/risco econ&ocirc;mico e da rela&ccedil;&atilde;o custo/ben&eacute;fico. Se h&aacute; retorno econ&ocirc;mico compensador e certeza da impunidade, o crime vai acontecer. Na sonega&ccedil;&atilde;o, no estelionato, nos crimes do colarinho branco, nos crimes contra a vida, no tr&aacute;fico de drogas etc... tudo funciona com o mesmo crit&eacute;rio dos neg&oacute;cios: se vale a pena, o neg&oacute;cio se realiza. S&oacute; que no caso das drogas milhares de v&iacute;timas ficam pelo caminho. </font></p></p>
+<p><p><font face=\"Verdana\">E agora? A experi&ecirc;ncia ensina que os jornais t&ecirc;m dois destinos: embrulhar peixe ou mudar a hist&oacute;ria. Neste caso, sua nobre miss&atilde;o &eacute; mudar a hist&oacute;ria. N&atilde;o pode cair no esquecimento tudo que chegou ao conhecimento p&uacute;blico. N&atilde;o se trata de um esc&acirc;ndalo midi&aacute;tico que esmaece frente &agrave; seq&uuml;&ecirc;ncia rotineira dos novos esc&acirc;ndalos. Trata-se da revela&ccedil;&atilde;o de grave doen&ccedil;a que acomete o organismo social; trata-se de amea&ccedil;a concreta ao que resta de seguran&ccedil;a e paz social.</font></p></p>
+<p><p><font face=\"Verdana\">A expectativa &eacute; que, de um lado, as autoridades, cientes do problema, cumpram com seus deveres e, de outra parte, a sociedade n&atilde;o somente cobre, como se mobilize no apoio &agrave;s medidas concretas de combate ao crime hediondo do tr&aacute;fico de drogas.</font></p> </p>
+{% endraw %}

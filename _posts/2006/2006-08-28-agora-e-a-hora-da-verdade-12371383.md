@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana></p>
 <p><P>Candidato pergunta a candidato. Vamos ver quem ataca quem e como.</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

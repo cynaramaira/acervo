@@ -17,7 +17,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Ricardo Brandt</STRONG> e <STRONG>Ana Paula Scinocca</STRONG><BR>Da Agência Estado<BR><BR>São Paulo - Na reta final da disputa eleitoral, cresceu o número de Estados em que o futuro governador pode ser definido hoje, sem a necessidade de um segundo turno.<BR><BR>As últimas pesquisas de intenção de voto do Ibope apontam que em 19 das 27 unidades da federação a disputa pode ser definida em apenas um turno. Até uma semana atrás, 17 Estados estavam nessa situação.</FONT></P></p>
 <p><P><FONT face=Verdana>Há ainda os casos de Santa Catarina e do Rio Grande do Norte, onde os l?deres na disputa estão no limite para decidi-la. <BR><BR>Veja como estão os principais estados do Nordeste:</FONT></P></p>
 <p><P><FONT face=Verdana size=3><STRONG><BR>Pernambuco verá Lula contra Jarbas no segundo turno</STRONG></FONT></P></p>
@@ -38,4 +38,4 @@ imagem: null
 <p><P><FONT face=Verdana>João Pessoa - Na Para?ba, a disputa pelo governo do Estado é apertada entre o atual governador Cássio Cunha Lima (PSDB) e o senador José Targino Maranhão (PMDB), que já foi governador por duas vezes. <BR>Antigos aliados, Cunha Lima e Maranhão estiveram no mesmo grupo pol?tico até as eleições de 1998. O rompimento se deu porque o pai do atual governador, Ronaldo Cunha Lima, queria disputar o governo, mas perdeu na convenção para Maranhão. </FONT></P></p>
 <p><P><BR><FONT face=Verdana><STRONG><FONT size=3>Piau?: apesar de denúncia, Wellington lidera</FONT> <BR></STRONG><BR>Teresina - Apesar de citado pela máfia dos sanguessugas ter um relatório do Tribunal de Contas da União alegando repasses irregulares para o Piau? e recomendando a cassação do registro de sua candidatura, o governador Wellington Dias (PT) seria reeleito em</p>
 <p> primeiro turno, segundo as pesquisas. Wellington venceria o senador Mão Santa (PMDB), tornando-se o primeiro governador eleito consecutivamente em primeiro turno.<BR><BR><BR><STRONG><FONT size=3>Maranhão: Roseana é alvo de todos</FONT><BR></STRONG><BR>São Luiz - Na tentativa de assumir pela terceira vez o governo do Maranhão - e com 60% das intenções de votos que a deixam prestes a ganhar a disputa ainda no primeiro turno -, Roseana Sarney Murad percorreu 198 dos 217 munic?pios do Estado e participou de 218 eventos, entre com?cios, caminhadas e carreatas. Em todos os palanques, foi chamada pelos aliados de \"guerreira, mãe, avó\". </FONT></P> </p>
-{\% endraw %}
+{% endraw %}

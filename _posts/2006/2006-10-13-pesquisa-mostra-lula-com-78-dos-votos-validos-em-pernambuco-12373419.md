@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O <STRONG>Blog</STRONG> mergulhou nos números da pesquisa Ibope divulgada pela TV Globo, anteontem - a primeira deste segundo turno no Estado.</FONT></P></p>
 <p><P><FONT face=Verdana>Os números mostram que Lula ampliou, em intenções de votos, o resultado que apresentou em Pernambuco, no primeiro turno.</FONT></P></p>
 <p><P><FONT face=Verdana>Em 1º de outubro, o presidente recebeu aqui 70.93% dos votos válidos (sem contar nulos, brancos e abstinência). Alckmin ficou com 22,86%.</FONT></P></p>
@@ -34,4 +34,4 @@ imagem: null
 <p><P><FONT face=Verdana>Lula&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 72%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;78%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 79%<BR>Alckmin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;28%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 22%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21%</FONT></P></p>
 <p><P><FONT face=Verdana>O Ibope ouviu 2.002 eleitores em 86 munic?pios do Estado entre os dias 8 e 10 de outubro. A margem de erro é de dois pontos percentuais para mais ou para menos.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://www.ibope.com.br/Eleicoes/2006/download/Opp398_pernambuco_out06.pdf\" target=_blank>aqui</A></EM></STRONG> a pesquisa completa.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

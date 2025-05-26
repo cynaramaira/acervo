@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Por <STRONG>Clóvis Andrade</STRONG><BR>Do Jornal do Commercio</SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Lembra da minirreforma pol?tica aprovada pelo Congresso Nacional meses antes da eleição deste ano? Por meio dela, foram proibidos alguns tipos de publicidade, tais como o outdoor e a confecção de camisas pelos candidatos, com o objetivo de reduzir os custos das campanhas eleitorais. Mas pelo jeito as mudanças não surtiram tanto efeito, a julgar pelas receitas e despesas declaradas à Justiça Eleitoral pelos que representarão Pernambuco em Bras?lia, a partir do próximo ano. <?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
@@ -36,4 +36,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Reeleito para a Câmara, Raul Jungmann (PPS) foi, dos que comporão a bancada pernambucana na Casa pelos próximos quatro anos, quem mais desembolsou, relativamente, para garantir o mandato. Foram R$ 13,09 para cada voto depositado para ele nas urnas. Ele é seguido por José Múcio (PTB), para quem cada eleitor custou R$ 11,95, Fernando Bezerra Filho (PSB), R$ 9,46, José Chaves (PTB), com R$ 9,18 por voto, e Armando Monteiro Neto PTB), para quem o valor foi de R$ 9,15. </SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"><o:p></o:p></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Leia mais <A href=\"https://jc3.uol.com.br/jornal/2006/11/19/not_209300.php\" target=_blank><STRONG><EM>aqui</EM></STRONG></A> (assinantes JC e UOL).&nbsp;</SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

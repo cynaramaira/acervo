@@ -1,0 +1,33 @@
+---
+id: 12393370
+date: "2008-09-16T12:04:00Z"
+last_modified_at: null
+tags:
+  - "estudantes"
+  - "geraldao"
+  - "medicina"
+  - "medicos"
+  - "nota"
+categories:
+  - "noticias"
+title: "Em nota, estudantes de Medicina d\u00e3o apoio ao movimento dos m\u00e9dicos"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Prezado Jamildo,</p></p>
+<p><p>Os Estudantes de medicina da Universidade Federal de Pernambuco &ndash; UFPE gostar&iacute;amos de parabenizar o Sindicato dos M&eacute;dicos de Pernambuco &ndash; SIMEPE &ndash; e manifestar nossa gratid&atilde;o pelo esfor&ccedil;o realizado para a melhoria da sa&uacute;de p&uacute;blica do nosso estado e por melhores condi&ccedil;&otilde;es de trabalho para n&oacute;s, futuros m&eacute;dicos, que seremos v&iacute;timas desse novo modelo de gest&atilde;o que o Sr Eduardo Campos pretende implantar.</p></p>
+<p><p>Enche-nos de orgulho, saber que a prepot&ecirc;ncia e o despreparo desse governo ao negociar com a classe m&eacute;dica tenham demonstrado a for&ccedil;a destes profissionais e estimulado novos deles a aderirem ao movimento.</p></p>
+<p><p>Se de um lado enfrentamos a ang&uacute;stia de saber que grandes nomes da medicina em nosso estado est&atilde;o se demitindo dos servi&ccedil;os p&uacute;blicos e que n&oacute;s, futuros m&eacute;dicos, talvez n&atilde;o tenhamos mais os grandes preceptores de sempre, de outro h&aacute; a satisfa&ccedil;&atilde;o de saber que a cada vez que o governo se nega a negociar outros profissionais se sentem motivados a n&atilde;o conviver mais com essa situa&ccedil;&atilde;o e decidem por se demitirem. A preocupa&ccedil;&atilde;o maior reside no fato de que grande parte desses profissionais s&atilde;o pessoas que n&atilde;o dependem dos &quot;enormes&quot; sal&aacute;rios oferecidos pelo governo do estado, j&aacute; que lidam com filas quilom&eacute;tricas em seus consult&oacute;rios particulares de pacientes que aguardam meses para serem atendidos. Esses profissionais trabalham em nossos servi&ccedil;os p&uacute;blicos por amor &agrave; medicina, pela vontade de ensinar, pelo bem da ci&ecirc;ncia. At&eacute; quando n&atilde;o estar&aacute; ferido o ego destes profissionais&#63; Qual o limite para que essa situa&ccedil;&atilde;o n&atilde;o seja irremedi&aacute;vel&#63;</p></p>
+<p><p>Este &eacute; um assunto s&eacute;rio, j&aacute; que representa um preju&iacute;zo incalcul&aacute;vel para o ensino m&eacute;dico em Pernambuco, uma vez que o governo que ai est&aacute; certamente n&atilde;o dura mais que 4 anos, mas a forma&ccedil;&atilde;o m&eacute;dica em nosso estado ainda h&aacute; de durar mil&ecirc;nios.</p></p>
+<p><p>N&atilde;o queremos envolver no m&eacute;rito da quest&atilde;o as p&eacute;ssimas condi&ccedil;&otilde;es a que est&atilde;o submetidos os estudantes que s&atilde;o jogados todos os dias nos hospitais p&uacute;blicos do estado, bem como a falta de alimenta&ccedil;&atilde;o, de dormit&oacute;rio, entre outros, porque isso se comparado &agrave;s condi&ccedil;&otilde;es prec&aacute;rias de atendimento que recebe a nossa popula&ccedil;&atilde;o &eacute; insignificante. Vivemos sob exposi&ccedil;&atilde;o di&aacute;ria a infec&ccedil;&otilde;es, em contato com secre&ccedil;&otilde;es de pacientes que sequer conhecemos a proced&ecirc;ncia, passamos in&uacute;meras noites sem dormir, mas nada disso se compara &agrave; dor de uma m&atilde;e que perde seu filho que sofreu um acidente e foi colocado num respirador, que por falta de manuten&ccedil;&atilde;o deixou de funcionar.</p></p>
+<p><p>T&atilde;o cruel quanto enfrentar essa realidade no nosso dia a dia &eacute; perceber como a nossa quest&atilde;o - a vida humana - &eacute; tratada com desprezo pelo governador do estado, que parece ter apoio de parte da imprensa e daqueles que deveriam representar a voz da justi&ccedil;a e lutar pelos direitos dos que n&atilde;o t&ecirc;m condi&ccedil;&otilde;es.</p></p>
+<p><p>O Sr Eduardo Campos, afirma que a classe m&eacute;dica n&atilde;o quer negociar, mas quando se espera que ele, como chefe de estado, esteja &agrave; frente das negocia&ccedil;&otilde;es, deixando de lado o totalitarismo e prepot&ecirc;ncia do seu vice Jo&atilde;o Lyra Neto, vemos not&iacute;cias como esta do seu blog: &quot;Eduardo Campos entra de cabe&ccedil;a na disputa eleitoral das elei&ccedil;&otilde;es municipais a partir de hoje&quot;. Mais uma prova de que pra ele a situa&ccedil;&atilde;o do nosso estado est&aacute; muito boa e que sua prioridade sempre foi e sempre ser&aacute; o discurso pol&iacute;tico, assim como o foi h&aacute; 2 anos quando se elegeu prometendo &agrave; nossa popula&ccedil;&atilde;o a constru&ccedil;&atilde;o de 3 grandes hospitais de emerg&ecirc;ncia no nosso Estado.</p></p>
+<p><p>Metade do seu governo j&aacute; se passou... e at&eacute; agora, o que tem feito Eduardo pela Sa&uacute;de&#63;</p></p>
+<p><p>Oferecer gratifica&ccedil;&otilde;es (que qualquer um pode tirar) parceladas ate o ano de 2010 (em que certamente ele nem ser&aacute; mais governador, QUEIRA DEUS!) e n&atilde;o propor solu&ccedil;&otilde;es objetivas para resolver o descaso com a sa&uacute;de do nosso estado (j&aacute; que ao nosso ver a privatiza&ccedil;&atilde;o da sa&uacute;de p&uacute;blica n&atilde;o resolve a quest&atilde;o) &eacute; muito pouco para quem se diz n&atilde;o estar de bra&ccedil;os cruzados. O governador ao afirmar que est&aacute; preocupado em apoiar seus candidatos na elei&ccedil;&atilde;o pra prefeito reafirma a sua falta de compromisso com a popula&ccedil;&atilde;o, que sofre sem seguran&ccedil;a, sa&uacute;de e educa&ccedil;&atilde;o.</p></p>
+<p><p>Para concluirmos, queremos agradecer pelo apoio que voc&ecirc; tem dado ao povo pernambucano e parabenizar mais uma vez o nosso sindicato, assim como os demais profissionais da &aacute;rea da sa&uacute;de que nos &uacute;ltimos dias tamb&eacute;m t&ecirc;m se mobilizado a fim de n&atilde;o aceitar passivamente as imposi&ccedil;&otilde;es daqueles que governam o nosso estado. N&oacute;s, estudantes, e futuros profissionais da &aacute;rea de sa&uacute;de, estamos engajados nessa luta que tamb&eacute;m &eacute; nossa e repudiamos fortemente as atitudes do governo Eduardo Campos que n&atilde;o pode ser chamado de outra forma, sen&atilde;o ditador! Se j&aacute; n&atilde;o bastassem as semelhan&ccedil;as entre as nossas condi&ccedil;&otilde;es de trabalho e a vida de um escravo n&atilde;o h&aacute; como compreender que em pleno s&eacute;culo XXI um ser humano possa ser proibido de pedir demiss&atilde;o do seu trabalho.</p></p>
+<p><p>Estudantes de medicina da UFPE</p></p>
+<p><p>15 de setembro de 2008</p> </p>
+{% endraw %}

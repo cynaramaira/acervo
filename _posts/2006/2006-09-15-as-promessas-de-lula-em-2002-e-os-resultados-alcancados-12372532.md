@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><span style="font-family: Verdana;">Acabei de postar na se&ccedil;&atilde;o Artigos, na coluna ao lado, outra an&aacute;lise interessante do cientista pol?tico T&uacute;lio Velho Barreto. Abaixo, alguns trechos.</span></p>
 <p><span style="font-family: Verdana;">Boa leitura.</span></p>
 <p><span style="font-family: Verdana;">-----------------------</span></p>
@@ -21,4 +21,4 @@ imagem: null
 <p><span style="font-family: Verdana;">Como o presidente Lula &eacute; candidato &agrave; reelei&ccedil;&atilde;o, e como estamos praticamente a apenas duas semanas do pleito, resolvi reler o artigo para comparar o que foi prometido com o que foi executado. E a partir dele escrever um artigo para este Blog. Fiquei espantado com o resultado.</span></p>
 <p><span style="font-family: Verdana;">De fato, foi uma experi&ecirc;ncia e tanto observar o distanciamento entre o que se promete, mesmo em uma elei&ccedil;&atilde;o presidencial, que exige a aten&ccedil;&atilde;o de todo o eleitorado do pa?s, e n&atilde;o apenas de uma parte, e o que se executa. E mais: &eacute; impressionante constatar que, no atacado e no varejo, isso n&atilde;o tem feito muita diferen&ccedil;a para o eleitorado, que, no caso do presidente-candidato Lula, n&atilde;o s&oacute; manteve o apoio como o ampliou. E, assim, o presidente-candidato Lula pode alcan&ccedil;ar no primeiro turno desta elei&ccedil;&atilde;o o ?ndice s&oacute; alcan&ccedil;ado no segundo turno de 2002, quando s&oacute; havia dois candidatos em disputa.</span></p>
 <p><span style="font-family: Verdana;">Leia <strong><em><a href="http://fivenews.sjcc.com.br/https:/jc3.uol.com.br/blogs/jc/2006/09/15/not_1448.php">aqui</a></em></strong> o texto completo.</span></p>
-{\% endraw %}
+{% endraw %}

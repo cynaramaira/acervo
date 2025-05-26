@@ -1,0 +1,28 @@
+---
+id: 12390312
+date: "2008-06-29T12:16:00Z"
+last_modified_at: null
+tags:
+  - "eleicao"
+categories:
+  - "noticias"
+title: "Elei\u00e7\u00e3o ou corrida de cavalos? "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">Por Edilson Silva*<img height=\"160\" alt=\"\" width=\"130\" align=\"right\" src=\"https://www2.uol.com.br/JC/blogs/blogdejamildo/imagens/selo_recife2008.jpg\" /></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">As elei&ccedil;&otilde;es municipais em Recife perderam mais dois candidatos nos &uacute;ltimos dias. Luciano Siqueira foi para o palanque de Jo&atilde;o da Costa, e Raul Jungmam direcionou-se a Cadoca. Os discursos de despedida e de ades&atilde;o s&atilde;o t&atilde;o cheios de verdade quanto eram verdadeiras suas propostas para a cidade.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Estes epis&oacute;dios pol&iacute;ticos s&atilde;o reveladores do pragmatismo que faz com que os processos eleitorais tornem-se uma esp&eacute;cie de corrida de cavalos. O tamanho da suposta dianteira de tal ou qual candidato imp&otilde;e uma for&ccedil;a centr&iacute;peta sobre os fr&aacute;geis de convic&ccedil;&atilde;o e demasiadamente sens&iacute;veis ao cheiro do poder. O resultado &eacute; um amontoado de &quot;apostadores&quot; torcendo pela vit&oacute;ria do supostamente favorito e, obviamente, pela reparti&ccedil;&atilde;o do pr&ecirc;mio.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">N&atilde;o estivesse o poder p&uacute;blico, a prefeitura do Recife no caso, seq&uuml;estrada pelo descontrole p&uacute;blico, entregue aos interesses e caprichos de grupos pol&iacute;ticos, intermedi&aacute;rios de interesses privados, talvez os processos eleitorais cumprissem um distinto papel na sociedade brasileira. Talvez o que predominasse fosse o debate de id&eacute;ias e propostas para a nossa cidade.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Mas n&atilde;o. O que predomina &eacute; a matem&aacute;tica eleitoral buscando uma resultante mais vantajosa financeiramente. Uma nuvem de cabos eleitorais, organizados ou n&atilde;o em partidos, de grandes empres&aacute;rios a inexpressivas lideran&ccedil;as de comunidades, todos &aacute;vidos pela reparti&ccedil;&atilde;o do pr&ecirc;mio: cargos, empregos, facilidades, contratos milion&aacute;rios, sociedade privilegiada com o dinheiro p&uacute;blico.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&Eacute; por isso que o PSOL defende uma revolu&ccedil;&atilde;o democr&aacute;tica na prefeitura do Recife, um choque de &eacute;tica. Os cargos de confian&ccedil;a ou comissionados, porta de entrada de cabos eleitorais no servi&ccedil;o p&uacute;blico, precisam ser extintos imediatamente, a partir do segundo escal&atilde;o. S&oacute; nesta medida j&aacute; diminu&iacute;mos em muito o &quot;pr&ecirc;mio&quot; dos delinq&uuml;entes da pol&iacute;tica.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Defendemos a democratiza&ccedil;&atilde;o e transpar&ecirc;ncia real da destina&ccedil;&atilde;o dos recursos da prefeitura. Nada de privil&eacute;gios para cart&eacute;is, como das empresas de transporte coletivo, coleta e tratamento de lixo, ou consultorias, como a FINATEC. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A rela&ccedil;&atilde;o da prefeitura com o setor privado deve ser transparente, com preg&otilde;es eletr&ocirc;nicos e p&uacute;blicos, com licita&ccedil;&otilde;es baseadas n&atilde;o somente no pre&ccedil;o, mas na responsabilidade social e ambiental. S&oacute; nesta outra medida j&aacute; tiramos mais um peda&ccedil;o robusto do &quot;pr&ecirc;mio&quot; dos assaltantes do dinheiro p&uacute;blico.</font></p></p>
+<p><p><font size=\"2\"><font face=\"Verdana\">Medidas simples como estas, por&eacute;m corajosas, j&aacute; tornariam os processos eleitorais menos vulner&aacute;veis ao poder econ&ocirc;mico, constrangendo enormemente a privatiza&ccedil;&atilde;o da pol&iacute;tica e a corrup&ccedil;&atilde;o inevit&aacute;vel que vem na sua esteira. </font><font face=\"Verdana\">Talvez assim, os dois desistentes citados no primeiro par&aacute;grafo, mantivessem suas candidaturas para expressar num momento t&atilde;o importante da cidade e da democracia suas id&eacute;ias, propostas, convic&ccedil;&otilde;es, se &eacute; que eles as tinham realmente. </font></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Ou talvez eles nem tivessem se aventurado, permitindo uma visualiza&ccedil;&atilde;o mais n&iacute;tida por parte da sociedade dos reais projetos &agrave; sua disposi&ccedil;&atilde;o. Mas, o poder econ&ocirc;mico vai impondo uma esp&eacute;cie de pr&eacute;-turno nas elei&ccedil;&otilde;es. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A pr&eacute;-campanha vai servindo para transparecer quais os competidores est&atilde;o em supostas melhores condi&ccedil;&otilde;es de vencer o p&aacute;reo. O PSOL luta contra esta l&oacute;gica. Disputamos e apostamos sim, na &eacute;tica, no poder das id&eacute;ias, no aprofundamento da democracia como fator indispens&aacute;vel para a constru&ccedil;&atilde;o de uma cidade e um mundo melhores.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>*Presidente estadual e pr&eacute;-candidato do PSOL a prefeito do Recife, escreve para o Blog &agrave;s sextas, dentro da s&eacute;rie &quot;Recife 2008. Debate com os prefeitur&aacute;veis&quot;.</em></font></p> </p>
+{% endraw %}

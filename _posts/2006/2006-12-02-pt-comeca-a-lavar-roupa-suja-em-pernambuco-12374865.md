@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Paulo Sérgio Scarpa, na coluna Repórter JC de hoje</FONT></P></p>
 <p><P><FONT face=Verdana>O PT faz reunião, amanhã, para detectar o que provocou a derrota de Humberto Costa nas eleições e analisar em quais condições o PT toparia participar do governo Eduardo Campos (PSB). Além disso, muita roupa suja será lavada.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

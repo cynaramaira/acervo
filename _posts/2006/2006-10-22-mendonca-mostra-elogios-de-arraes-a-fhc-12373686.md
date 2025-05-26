@@ -14,6 +14,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O governador rebateu as cr?ticas de Eduardo sobre o suposto boicote do governo federal ao governo Arraes com declarações dadas por Arraes, elogiando FHC pelos investimentos feitos no Estado, no Aeroporto do Recife.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

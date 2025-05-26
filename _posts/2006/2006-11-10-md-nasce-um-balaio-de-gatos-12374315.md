@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Uma legenda que surge para unir o deputado estadual S?lvio Costa (PMN) e o federal Roberto Freire (PPS) não pode dar certo.</FONT></P></p>
 <p><P><FONT face=Verdana>Mas é o que eles vão tentar.</FONT></P></p>
 <p><P><FONT face=Verdana>S?lvio Costa procurou explicar há pouco, em seu gabinete, na Assembléia Legislativa de Pernambuco, a fusão do PPS (ex-Partido Comunista Brasileiro) com o PMN (Partido da Mobilização Nacional) e PHS (Partido Humanista da Solidariedade). Cec?lia Ramos, repórter do Blog, acompanhou a conversa dele.</FONT></P></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>O primeiro disse que não abre mão de apoiar Lula nacionalmente e Eduardo Campos (PSB) em Pernambuco. Freire não cede, fica na oposição aos dois, junto com PFL e PSDB.</FONT></P></p>
 <p><P><FONT face=Verdana>Silvio Costa quer ser presidente estadual da nova legenda. Freire, o nacional.</FONT></P></p>
 <p><P><FONT face=Verdana>Enfim, vai ser uma aliança para PMDB nenhum botar defeito.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

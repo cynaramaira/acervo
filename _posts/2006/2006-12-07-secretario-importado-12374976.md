@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Paulo Sérgio Scarpa<BR></STRONG>Na coluna Repórter JC</FONT></P></p>
 <p><P><FONT face=Verdana>Se for correta a informação de que o governador eleito Eduardo Campos (PSB) entregará a segurança pública a um técnico/policial de outro Estado, como ficam os petistas e socialistas que criticaram duramente o governador Mendonça Filho (PFL) por importar o secretário Rodney Miranda (SDS)? Pedirão desculpas ou foi só bravata eleitoral?</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

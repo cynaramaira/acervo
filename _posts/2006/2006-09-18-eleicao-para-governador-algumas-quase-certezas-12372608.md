@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Acabei de postar na seção Artigos, na coluna ao lado, outra análise do cientista pol?tico Túlio Velho Barreto, colaborador freqüente do Blog, sobre a acirrada disputa pelo governo de Pernambuco. Abaixo, alguns trechos.</FONT></P></p>
 <p><P><FONT face=Verdana>Boa leitura.</FONT></P></p>
 <p><P><FONT face=Verdana>--------------------------</FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>(...)</FONT></P></p>
 <p><P><FONT face=Verdana>5. e, finalmente, que, levando em consideração o quadro acima, a disputa entre Humberto Costa e Eduardo Campos, salvaguardando o surgimento de algum fato novo relevante - como a previs?vel denúncia contra o ex-ministro Humberto Costa, que o Ministério Público deverá oferecer à Justiça nos próximos dias -, só deverá se resolver às vésperas ou no dia do primeiro turno. Tal fato tornará a (ilegal) boca-de-urna ainda mais importante. E, provavelmente, fará com que as duas coligações - Melhor para Pernambuco e Frente Popular de Pernambuco - não abram mão dela.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/09/18/not_1524.php\">aqui</A></EM></STRONG> o texto completo.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

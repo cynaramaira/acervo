@@ -1,0 +1,36 @@
+---
+id: 12384055
+date: "2007-11-23T11:43:00Z"
+last_modified_at: null
+tags:
+  - "olinda"
+categories:
+  - "noticias"
+title: "Caos na sa\u00fade: comunismo \u00e0s avessas em Olinda"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>&nbsp;</p></p>
+<p><p>&nbsp;</p></p>
+<p><p>&nbsp;</p></p>
+<p><p><font face=\"Verdana\">Por Ed&iacute;lson Silva</font></p></p>
+<p><p>&nbsp;</p></p>
+<p><p><font face=\"Verdana\">Esta semana os servidores da &aacute;rea de sa&uacute;de de Olinda iniciaram uma campanha denominada &quot;Fora Jo&atilde;o Veiga&quot;. O dito cujo &eacute; nada menos que o secret&aacute;rio de sa&uacute;de do munic&iacute;pio. Exageram os servidores? Tudo indica que n&atilde;o.</font></p></p>
+<p><p><font face=\"Verdana\">A lista de reclama&ccedil;&otilde;es dos servidores &eacute; extensa e algumas foram bastante divulgadas pela m&iacute;dia. Um dos casos mais comentados foram os tapurus </font><font face=\"Verdana\">encontrados na alimenta&ccedil;&atilde;o dos plantonistas da secretaria, por&eacute;m este caso &eacute; dos menos graves. Um dossi&ecirc; que est&aacute; sendo preparado pelo SISMO, Sindicato </font><font face=\"Verdana\">dos Servidores Municipais de Olinda, revela uma situa&ccedil;&atilde;o quase inacredit&aacute;vel na sa&uacute;de do munic&iacute;pio.</font></p></p>
+<p><p><font face=\"Verdana\">Na ponta do sistema, no atendimento aos cidad&atilde;os, pobres em sua quase totalidade, est&aacute; a situa&ccedil;&atilde;o mais dram&aacute;tica. Faltam m&eacute;dicos e medicamentos, </font><font face=\"Verdana\">uma situa&ccedil;&atilde;o que n&atilde;o &eacute; exclusividade de Olinda, &eacute; certo. Mas em Olinda as ambul&acirc;ncias do SAMU circulam com pacientes assistidos apenas com a</font><font face=\"Verdana\">uxiliares de enfermagem, quando o procedimento correto seria com no m&iacute;nimo um m&eacute;dico e um enfermeiro, mais o auxiliar.</font></p></p>
+<p><p><font face=\"Verdana\">Os poucos m&eacute;dicos que est&atilde;o resistindo &agrave;s duras condi&ccedil;&otilde;es de trabalho o fazem em protesto, chegando a trabalhar de preto em algumas ocasi&otilde;es para </font><font face=\"Verdana\">demonstrar a insatisfa&ccedil;&atilde;o. Os sal&aacute;rios s&atilde;o arrochados, faltam medicamentos elementares e at&eacute; papel para prescri&ccedil;&atilde;o de medicamentos, procedimento que </font><font face=\"Verdana\">est&aacute; sendo feito em pequenos peda&ccedil;os de papel, muitas vezes solicitados dos pr&oacute;prios pacientes.</font></p></p>
+<p><p><font face=\"Verdana\">A maternidade e os SPAs est&atilde;o funcionando precariamente, muitas vezes chegam a fechar as portas por absoluta falta de condi&ccedil;&otilde;es m&iacute;nimas para abrir as </font><font face=\"Verdana\">portas. Nessas horas, quando os pacientes pensam que a secretaria de sa&uacute;de providenciar&aacute; o transporte para outras unidades, sobretudo para Recife, </font><font face=\"Verdana\">s&atilde;o avisados que as ambul&acirc;ncias est&atilde;o quebradas.</font></p></p>
+<p><p><font face=\"Verdana\">Al&eacute;m dos problemas na ponta, o secret&aacute;rio &eacute; responsabilizado por uma gest&atilde;o truculenta e desastrosa nos recursos humanos. Os sal&aacute;rios arrochados s&atilde;o </font><font face=\"Verdana\">um problema mais de responsabilidade do conjunto do Executivo Municipal, mas a gest&atilde;o interna da secretaria revela o toque pessoal de Jo&atilde;o Veiga e sua </font><font face=\"Verdana\">equipe.</font></p></p>
+<p><p><font face=\"Verdana\">O secret&aacute;rio foi o respons&aacute;vel pela demiss&atilde;o de duas profissionais de sa&uacute;de que integravam o Conselho Municipal de Sa&uacute;de, instrumento de fiscaliza&ccedil;&atilde;o </font><font face=\"Verdana\">da sociedade sobre a gest&atilde;o da sa&uacute;de municipal. As duas conselheiras eram das &uacute;nicas que cobravam explica&ccedil;&otilde;es e solu&ccedil;&otilde;es para os graves problemas da </font><font face=\"Verdana\">sa&uacute;de em Olinda. Simultaneamente, a secretaria n&atilde;o faz sua presta&ccedil;&atilde;o de contas financeira. Uma mistura perigosa: falta de presta&ccedil;&atilde;o de contas e de </font><font face=\"Verdana\">fiscaliza&ccedil;&atilde;o.</font></p></p>
+<p><p><font face=\"Verdana\">Os servidores tamb&eacute;m denunciam a transforma&ccedil;&atilde;o da secretaria de sa&uacute;de num grande cabide de emprego. S&atilde;o centenas de contratos tempor&aacute;rios, que </font><font face=\"Verdana\">contrastam com a coloca&ccedil;&atilde;o &agrave; disposi&ccedil;&atilde;o de servidores de carreira e concursados.</font></p></p>
+<p><p><font face=\"Verdana\">H&aacute; v&aacute;rios casos de a&ccedil;&otilde;es junto ao Minist&eacute;rio P&uacute;blico, solicitando ajustes contra ass&eacute;dio moral praticado pelos gerentes da equipe de Jo&atilde;o Veiga.</font></p></p>
+<p><p><font face=\"Verdana\">Estes ass&eacute;dios se d&atilde;o em forma de transfer&ecirc;ncias, desvios for&ccedil;ados de fun&ccedil;&atilde;o, que s&atilde;o na verdade persegui&ccedil;&otilde;es contra os que se queixam dos desmandos e do </font><font face=\"Verdana\">caos instalado.</font></p></p>
+<p><p><font face=\"Verdana\">Os gerentes s&atilde;o trocados com freq&uuml;&ecirc;ncia, obedecendo indica&ccedil;&otilde;es pol&iacute;ticas e desintegrando qualquer possibilidade de coer&ecirc;ncia gerencial. Cada gerente </font><font face=\"Verdana\">que chega estabelece uma rotina, novos procedimentos, desorganizando qualquer planejamento e aprofundando o caos.</font></p></p>
+<p><p><font face=\"Verdana\">As v&aacute;rias associa&ccedil;&otilde;es que atuam no &acirc;mbito da secretaria v&ecirc;m h&aacute; tempos buscando solu&ccedil;&otilde;es negociadas, reuni&otilde;es infind&aacute;veis j&aacute; foram realizadas, no </font><font face=\"Verdana\">entanto a intransig&ecirc;ncia e o uso da for&ccedil;a tem sido a base do di&aacute;logo alcan&ccedil;ado.</font></p></p>
+<p><p><font face=\"Verdana\">Neste cen&aacute;rio, a sociedade civil, os cidad&atilde;os olindenses, as pessoas preocupadas n&atilde;o s&oacute; com a sa&uacute;de p&uacute;blica em Olinda, mas tamb&eacute;m com a sa&uacute;de </font><font face=\"Verdana\">da democracia, precisam estar ao lado dos servidores e dos usu&aacute;rios.</font>&nbsp;</p></p>
+<p><p><font face=\"Verdana\">&quot;Especialistas&quot; na pol&iacute;tica de Olinda falam abertamente na cidade que Jo&atilde;o Veiga n&atilde;o cai por que det&eacute;m em sua secretaria muitos votos e cabos </font><font face=\"Verdana\">eleitorais, num esquema montado a partir das contrata&ccedil;&otilde;es tempor&aacute;rias. Caber&aacute;, portanto, &agrave; prefeita Luciana Santos o &ocirc;nus ou o b&ocirc;nus de manter ou </font><font face=\"Verdana\">n&atilde;o um secret&aacute;rio fartamente denunciado por sua incompet&ecirc;ncia e conduta &eacute;tica. A sociedade civil est&aacute; fazendo a sua parte.</font></p></p>
+<p><p><font face=\"Verdana\">PS: Edilson Silva &eacute; presidente do PSOL/PE e escreve &agrave;s sextas para o Blog do Jamildo.</font></p> </p>
+{% endraw %}

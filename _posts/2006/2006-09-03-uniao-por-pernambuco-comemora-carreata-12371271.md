@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P align=justify><FONT face=Verdana>O governador-candidato Mendonça Filho (PFL) ri à toa. A União por Pernambuco contabilizou, hoje, a maior carreata desta campanha, na Zona Norte do Recife. </FONT></P></p>
 <p><P align=justify><FONT face=Verdana>Está no site do pefelista: mais de mil carros e 100 motos seguiram a carreata, que teve in?cio na avenida Agamenon Magalhães, por volta das 11h.</FONT></P></p>
@@ -22,4 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>Os candidatos proporcionais também fizeram a festa, \"munidos\" de militância jovem, carros de som e bandeiras. Estavam lá Raul Henry, Terezinha Nunes, Bebeto e Augusto Coutinho. </FONT></P></p>
 <p><P><FONT face=Verdana>Bandeiras, adesivos, fotos e panfletos lembravam o candidato à Presidência da República do PSDB, Geraldo Alckmin. </FONT></P></p>
 <p><P>&nbsp;</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

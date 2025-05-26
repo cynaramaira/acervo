@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>Ganha um brinde quem conseguir identificar o rosto do vice de Mendonça Filho, o engenheiro Evandro Avelar, no <STRONG><A href=\"https://www.mendonca25.can.br/\" target=_blank>site</A></STRONG> da campanha.</P></p>
 <p><P>Amanhã deve ser inaugurado o site de Eduardo Campos. O de Humberto Costa ainda não tem data definida para entrar na rede.</P> </p>
-{\% endraw %}
+{% endraw %}

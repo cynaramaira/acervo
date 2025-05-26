@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P></p>
 <p><P><STRONG><FONT size=4></FONT></STRONG><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" size=2></p>
 <p><P><FONT face=Verdana>Mendonça Filho (PFL) estagnou, conforme nova pesquisa Vox Populi, que o <EM>Jornal do Commercio</EM> publica em sua edição deste domingo. (Veja alguns números abaixo).</FONT></P></p>
@@ -60,4 +60,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>Foram feitas 800 entrevistas domiciliares com Moradores e eleitores de 38 munic?pios de Pernambuco, de idade superior a 16 anos, e adotada uma amostra estratificada por cotas de gênero, escolaridade, renda familiar e situação perante o trabalho, calculadas de acordo com dados do IBGE, Censo de 2000 e TSE. </EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>O intervalo de confiança da amostragem é de 95% e a margem de erro média de 3,5 pontos percentuais, para mais ou para menos. A pesquisa foi registrada no TRE-PE no dia 25 de agosto de 2006, sob o número 13917/2006.</EM></FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/especiais/eleicoes2006/2006/07/15/not_249.php\" target=_blank>aqui</A></EM></STRONG> sobre as pesquisas anteriores.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

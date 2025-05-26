@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>A pesquisa JC/Vox Populi traz um dado curioso sobre a corrida ao Senado, como informa Sérgio Montenegro Filho, repórter especial do JC. A soma dos ?ndices dos adversários de Jarbas, mais os eleitores que pretendem votar em branco ou anular o voto (14%) e os indecisos (11%) totaliza 34%.&nbsp;Pouco mais da&nbsp;metade do percentual do ex-governador (66%).</P></p>
 <p><TABLE cellSpacing=1 cellPadding=3 width=500 bgColor=#6ca7a6 border=0></p>
 <p><TBODY></p>
@@ -207,4 +207,4 @@ imagem: null
 <p><TD><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" size=2><STRONG>NS / NR</STRONG></FONT></TD></p>
 <p><TD></p>
 <p><DIV align=right><FONT color=#eaf0ee><STRONG><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" color=#cc0000 size=2>69%</FONT></STRONG></FONT></DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE> </p>
-{\% endraw %}
+{% endraw %}

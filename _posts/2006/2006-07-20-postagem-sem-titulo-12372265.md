@@ -12,6 +12,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>O escândalo das sanguessugas, segundo Humberto, do JC. Tem gente doida para colocar o carimbo do Samu nessa ambulância e associá-la a Humberto, do PT.</P> </p>
-{\% endraw %}
+{% endraw %}

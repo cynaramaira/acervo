@@ -14,7 +14,7 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Chega agora a 36 pontos percentuais a dianteira de Eduardo Campos (PSB) sobre Mendon&ccedil;a Filho (PFL), na &uacute;ltima rodada da pesquisa DIARIO DATA Associados, que o Diario de Pernambuco publica em sua edi&ccedil;&atilde;o de domingo.</p>
 <p>Confira os n&uacute;meros (votos v&aacute;lidos - sem nulos, brancos e indecisos):</p>
 <p>Eduardo 68% (tinha 62% h&aacute; 15 dias)</p>
@@ -24,4 +24,4 @@ imagem: null
 <p>Lula X Alckmin</p>
 <p>Na disputa presidencial, segundo a pesquisa, Lula teria consagradores 83% dos votos v&aacute;lidos, contra apenas 17% de Alckmin.</p>
 <p>O instituto ouviu 1,1 mil pessoas na quarta e na quinta. A margem de erro &eacute; de tr&ecirc;s pontos percentuais para mais ou para menos.</p>
-{\% endraw %}
+{% endraw %}

@@ -12,8 +12,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>É o que diz o deputado federal Raul Jungmann (PPS), vice-presidente da CPI das Sanguessugas. Os prefeitos, além de 105 parlamentares, devem ser indiciados pela comissão por envolvimento no escândalo das ambulâncias.</FONT></P></p>
 <p><P><FONT face=Verdana>Ouça entrevista do deputado em Geraldo Freire, hoje cedo, na Rádio Jornal.</FONT></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

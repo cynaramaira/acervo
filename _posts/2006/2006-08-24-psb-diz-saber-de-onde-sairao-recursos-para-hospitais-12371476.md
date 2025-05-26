@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Sobre nota publicada <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/22/index.php#913\">aqui</A></EM></STRONG>, anteontem, a assessoria de imprensa de Eduardo Campos garante saber, sim, quanto custarão e de onde serão tirados recursos para construir os três hospitais prometidos no guia eleitoral.</FONT></P></p>
 <p><P><FONT face=Verdana>Em nota, o PSB diz o seguinte:</FONT></P></p>
 <p><P><FONT face=Verdana><EM>“A construção dos três novos hospitais de emergência da Região Metropolitana do Recife, para desafogar o HR, é uma necessidade imperiosa que o próprio candidato do governo passou a reconhecer agora.</EM></FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>“O pessoal que trabalhará nos novos hospitais será em parte remanejado de outras unidades. Também serão feitas novas contratações.</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>“Os recursos financeiros para o custeio (excluindo despesas com pessoal) serão de aproximadamente R$ 1 milhão ao mês para cada unidade, resultantes do remanejamento dos tetos de custeio das unidades - HR, HGV etc - que passarão por uma descompressão com a entrada em operação das novas unidades (haverá uma diminuição dos atendimentos de média complexidade naqueles hospitais).</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>“O restante virá do Fundo Nacional de Saúde, negociado com o Ministério da Saúde com o aumento do teto financeiro do estado.???</EM></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

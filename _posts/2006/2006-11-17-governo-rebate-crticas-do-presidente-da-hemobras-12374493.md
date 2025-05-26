@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=4></p>
 <p><P><FONT face=Verdana size=2>A assessoria de imprensa do governador Mendonça Filho (PFL) enviou há pouco a seguinte resposta aos ataques de João Paulo Baccara (leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/11/17/index.php#3434\">aqui</A></EM></STRONG>):</FONT></P></p>
 <p><P><FONT face=Verdana size=2><STRONG>Presidente da Hemobras quer justificar porque o Governo Federal&nbsp;não fez a obra</STRONG> </FONT></P></FONT><FONT face=\"Times New Roman\"></p>
@@ -22,4 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>Segundo Guilherme, o plano diretor está sendo elaborado para todo o complexo de hemoderivados e fármacos. \"O terreno da Hemobrás está definido, as informações necessárias para o projeto de engenharia da Hemobrás, como estudo de solo e topográfico, assim como, o zoneamento da área já foram entregues\", afirma, ressaltando que até agora a licitação da tecnologia a ser utilizada pela Hemobrás não foi conclu?da. Segundo Guilherme, a licitação da tecnologia não depende do plano diretor. &nbsp;</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>O presidente da AD-DIPER ressalta, ainda, que a Hemobrás sequer tem recursos no Orçamento Federal deste ano para a execução da obra. \"O pólo de hemoderivados e fármacos é um distrito industrial como os demais existentes no Estado e a ausência de uma rubrica no PPA espec?fica para a Hemobrás não impede a execução de obras de infra-estrutura necessárias para este empreendimento\", explica.&nbsp; </EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>Com relação a elaboração do plano diretor, Guilherme explica que a AD-DIPER cumpriu todos os processos burocráticos e legais necessários e, atualmente, segue rigorosamente o cronograma estabelecido no contrato. \"Para atender solicitação espec?fica da presidência da Hemobrás, alteramos a ordem das etapas do plano diretor, viabilizando a entrega antecipada do documento que segue para a Câmara de Vereadores de Goiana\", afirmou Guilherme.</EM></FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

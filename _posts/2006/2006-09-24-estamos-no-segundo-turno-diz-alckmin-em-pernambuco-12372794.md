@@ -14,8 +14,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O tucano está em Carpina, a 49 quilômetros do Recife. Participa de grande ato, um com?cio. </FONT></P></p>
 <p><P><FONT face=Verdana>A praça Murilo Silva, no centro da cidade, lotou. </FONT></P></p>
 <p><P><FONT face=Verdana>Após dez minutos sem luz e som no palco, tudo voltou ao normal. À imprensa, Alckmin acabou de dizer: “Estamos no segundo turno, a minha candidatura está crescendo no momento certo e vai crescer mais no Nordeste???.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Pois é. O governador eleito de Pernambuco Eduardo Campos (PSB) também resolveu passar o feriadão na Bahia, assim como o presidente Lula (PT). O socialista está com a mulher, Renata, e os quatro filhos. </FONT></P></p>
 <p><P><FONT face=Verdana>Desde quinta-feira Lula e Eduardo estão na terra de Antônio Carlos Magalhães.&nbsp;O presidente&nbsp;está com a mulher, Marisa Let?cia, na praia de Inema, área privativa da Marinha, a 40 quilômetros do centro de Salvador.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><A href=\"https://jc3.uol.com.br/blogs/jc/2006/11/02/index.php\"><EM>aqui</EM></A></STRONG> no <STRONG>Blog</STRONG> sobre a folga do presidente, criticada com destaque pelo Correio da&nbsp;Bahia, jornal da fam?lia ACM. </FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"Em um momento cr?tico da crise entre Uruguai e Argentina, exatamente quando os dois pa?ses anunciam que foi interrompido o diálogo, Lula, presidente \pro tempore\ do Mercosul, tornou-se motivo de piadas e cr?ticas na televisão e nos jornais uruguaios por ter sido fotografado de sunga, descansando em uma praia.</FONT></P></p>
 <p><P><FONT face=Verdana>O questionamento estava também nos corredores da cúpula, segundo contaram diplomatas, e se tornou um dos principais assuntos do encontro. O presidente uruguaio, Tabaré Vázquez, afirmou ter recebido telefonema de Lula em que ele teria alegado indicação médica para descansar, após o desgaste das eleições, e prometido uma visita ao Uruguai em um mês.</FONT></P></p>
 <p><P><FONT face=Verdana>Na imprensa uruguaia e argentina, porém, analistas afirmaram ontem que a ausência traria um custo pol?tico ao presidente, que teria \fugido a suas responsabilidades\ e, assim, beneficiaria a Argentina\".</FONT> </P> </p>
-{\% endraw %}
+{% endraw %}

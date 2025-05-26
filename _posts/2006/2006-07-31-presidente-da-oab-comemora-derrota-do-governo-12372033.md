@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Júlio Oliveira, presidente da OAB em Pernambuco, comemora a derrota do governo na eleição da lista tr?plice para nomeação do novo desembargador do Tribunal de Justiça. (Leia mais, abaixo,&nbsp;na nota <EM><STRONG>Os três poderes de Jarbas e Mendonça</STRONG></EM>).</FONT></P></p>
 <p><P><FONT face=Verdana>Ele trabalhou desde o primeiro momento para excluir Pedro Henrique Alves, candidato de Jarbas e Mendonça, das listas sêxtupla e tr?plice.</FONT></P></p>
 <p><P><FONT face=Verdana>Chegou até a montar uma chapinha, com seis nomes, e por pouco não deixou PH fora. Ele ficou em 6º, a poucos votos do sétimo, Carlos Gil Rodrigues (leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/07/28/index.php#316\" target=_blank>aqui</A></EM></STRONG> sobre a eleição na OAB).</FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Quem é o seu preferido agora, Francisco Bandeira, que é seu sócio?</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Bandeira é meu sócio há 16 anos -&nbsp;é uma sociedade formal, devidamente constitu?da. Ele é uma pessoa que tem qualificações, mas minha ligação com Jorge Neves também é muito importante. Me sinto representado com quem for</p>
 <p> nomeado. Todos três representam nosso grupo pol?tico.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

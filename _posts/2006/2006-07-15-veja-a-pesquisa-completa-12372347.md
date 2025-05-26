@@ -13,6 +13,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>No site de eleições do JC. Clique <A href=\"https://jc3.uol.com.br/especiais/eleicoes2006/2006/07/15/not_249.php\" target=_blank>aqui</A> para ver.</P> </p>
-{\% endraw %}
+{% endraw %}

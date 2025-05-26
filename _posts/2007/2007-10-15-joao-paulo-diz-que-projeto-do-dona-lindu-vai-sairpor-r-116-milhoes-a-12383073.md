@@ -1,0 +1,33 @@
+---
+id: 12383073
+date: "2007-10-15T01:00:00Z"
+last_modified_at: null
+tags:
+  - "dona"
+  - "joao-d"
+  - "paulo"
+  - "projeto"
+categories:
+  - "noticias"
+title: "Jo\u00e3o Paulo diz que projeto do Dona Lindu vai sairpor R$ 11,6 milh\u00f5es a mais que a estimativa "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\"><em>Da editoria de <strong>Cidades</strong> do JC</em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A implanta&ccedil;&atilde;o do Parque Dona Lindu, em Boa Viagem, Zona Sul do Recife, que estava estimada em R$ 18 milh&otilde;es, custar&aacute; R$ 29.662,711. O or&ccedil;amento final da obra, que ficou R$ 11,6 milh&otilde;es mais cara, foi divulgado, ontem, pelo prefeito Jo&atilde;o Paulo Lima e Silva (PT) em entrevista por telefone, do Rio de Janeiro. Segundo ele, o valor, reajustado em pouco mais de 60%, inclui a constru&ccedil;&atilde;o do parque, equipamentos, decora&ccedil;&atilde;o e mob&iacute;lia. &quot;Enfim, tudo para o espa&ccedil;o entrar em funcionamento.&rdquo; </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&Eacute; praticamente o mesmo valor investido na urbaniza&ccedil;&atilde;o da orla de Bras&iacute;lia Teimosa (engorda da praia, refor&ccedil;o no muro de conten&ccedil;&atilde;o do avan&ccedil;o do mar, pista, paisagismo, quiosques, estacionamento, parques e arena esportiva), aquisi&ccedil;&atilde;o do terreno do Casar&atilde;o do Cordeiro e constru&ccedil;&atilde;o, no local, do conjunto habitacional com 704 apartamentos e 56 casas. Tudo isso custou R$ 30 milh&otilde;es. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Na avalia&ccedil;&atilde;o do prefeito, o valor da obra n&atilde;o deve provocar espanto. &ldquo;Havia uma estimativa de custo, que foi atualizada com o detalhamento dos servi&ccedil;os. Quem conhece o audit&oacute;rio de Oscar Niemeyer no Parque do Ibirapuera, em S&atilde;o Paulo, entende a dimens&atilde;o das propostas do arquiteto. Estamos criando, na beira-mar, um cart&atilde;o-postal do Brasil.&rdquo; </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A prefeitura pretende utilizar recursos pr&oacute;prios e estabelecer parcerias. O Dona Lindu &eacute; um projeto de Oscar Niemeyer e, se for implantado, ser&aacute; a primeira obra do arquiteto no Recife. Amanh&atilde;, a prefeitura divulga o edital de licita&ccedil;&atilde;o para escolha da empresa que executar&aacute; o trabalho. &ldquo;Creio que at&eacute; o fim de 2008 (quando termina o mandato de Jo&atilde;o Paulo) o parque estar&aacute; pronto para ser inaugurado&rdquo;, declara. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Ele disse que o parque ser&aacute; administrado por um conselho, com representantes do munic&iacute;pio e da comunidade. &ldquo;A proposta da gest&atilde;o compartilhada est&aacute; pronta, para ser regulamentada. O audit&oacute;rio do Ibirapuera &eacute; gerido de forma conjunta entre a prefeitura e&nbsp;o povo&rdquo;, informa Jo&atilde;o Paulo. Sobre as cr&iacute;ticas ao projeto, o prefeito disse que est&aacute; tranq&uuml;ilo porque &ldquo;questionamentos sempre existir&atilde;o numa sociedade democr&aacute;tica.&rdquo; </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Anunciado em mar&ccedil;o &uacute;ltimo, o projeto contempla teatro, sala de exposi&ccedil;&otilde;es e esplanada para eventos. Na ocasi&atilde;o, moradores de Boa Viagem, arquitetos e ambientalistas questionaram a pouca quantidade de &aacute;rea verde no local. Em junho, a prefeitura apresentou uma nova vers&atilde;o, com 73% de &aacute;rea verde e solo natural (sem impermeabiliza&ccedil;&atilde;o) e 27% de &aacute;rea constru&iacute;da. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A &aacute;rea de lazer ocupar&aacute; dois terrenos com 33 mil metros quadrados, entre a Avenida Boa Viagem e a Visconde de Jequitinhonha. Os im&oacute;veis pertenciam &agrave; Aeron&aacute;utica e foram cedidos ao munic&iacute;pio pela Uni&atilde;o, no ano passado.&nbsp;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>AMPARQUE</strong>&nbsp;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Petr&ocirc;nio Martins, presidente da Associa&ccedil;&atilde;o Amigos do Parque (Amparque), acredita que o valor da obra vai acender mais ainda a pol&ecirc;mica em torno do Parque Dona Lindu. &ldquo;J&aacute; havia reclamos com o custo de R$ 20 milh&otilde;es (R$ 2 milh&otilde;es correspondem ao valor do projeto)&rdquo;, pondera. Ele acrescenta, por&eacute;m, que esse n&atilde;o &eacute; o foco da quest&atilde;o, agora. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">No momento, a entidade questiona o lan&ccedil;amento do edital de licita&ccedil;&atilde;o antes do desenrolar da den&uacute;ncia contra o parque, feita ao Minist&eacute;rio P&uacute;blico Estadual pela Associa&ccedil;&atilde;o. O grupo cobra o estudo de viabilidade e de impacto de vizinhan&ccedil;a decorrentes da implanta&ccedil;&atilde;o do parque naquele trecho do bairro. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&ldquo;A prefeitura est&aacute; avan&ccedil;ando etapas, antes de abrir licita&ccedil;&atilde;o &eacute; preciso esperar a discuss&atilde;o da viabilidade no Minist&eacute;rio P&uacute;blico e a aprova&ccedil;&atilde;o do projeto&rdquo;, destaca Petr&ocirc;nio Martins. &ldquo;Acho que esse &eacute; mais um gesto pol&iacute;tico, para dizer &agrave; sociedade que o munic&iacute;pio est&aacute; pronto para licitar o parque&rdquo;, comenta. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Ele discorda do percentual de &aacute;rea verde divulgado pela prefeitura, na nova vers&atilde;o do projeto. &ldquo;O trecho destinado a plantio de &aacute;rvores e grama n&atilde;o chega a 40% do terreno. A pe&ccedil;a de grande porte &eacute; o equipamento do centro cultural&rdquo;, diz. Esta semana, a associa&ccedil;&atilde;o formaliza nova den&uacute;ncia no Minist&eacute;rio P&uacute;blico, sobre a&ccedil;&otilde;es realizadas no terreno pelo munic&iacute;pio.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>PS: com a palavra o Minist&eacute;rio P&uacute;blico. Passou da hora da prefeitura explicar detalhadamente como esse dinheiro vai ser gasto. Passou da hora de apresentar os estudos sobre o impacto na vizinhan&ccedil;a. Como &eacute; que uma estimativa sofre um reajuste desta magnitude? O prefeito n&atilde;o se espanta com o valor da obra simplesmente&nbsp;porque est&aacute; gastando um dinheiro que n&atilde;o &eacute; dele.</em> </font></p> </p>
+{% endraw %}

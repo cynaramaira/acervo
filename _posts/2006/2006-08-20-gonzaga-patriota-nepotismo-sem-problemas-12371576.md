@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por Fab?ola Góis e Lúcio Vaz<BR>Do Correio Brasiliense </FONT></P></p>
 <p><P><FONT face=Verdana>Filho, mulher, cunhada. Empregam-se parentes na Câmara dos Deputados em cargos de natureza especial (CNES), destinados a áreas administrativas e técnicas. Levantamento com os indicantes de 600 cargos de confiança, ao qual o Correio teve acesso com exclusividade, indica que pelo menos 11 deputados praticam nepotismo. </FONT></P></p>
 <p><P><FONT face=Verdana>Ignoram entendimento do Supremo Tribunal Federal (STF), que baniu a contratação de parentes no Judiciário. Outro deputado e um ex-parlamentar indicam dois filhos de outros parlamentares. Todos eles custam aos cofres públicos R$ 35 mil por mês, ou R$ 418 mil por ano. <BR><BR>(...)<BR><BR>Há quem mude de atitude, mas os parlamentares que não consideram ilegal contratar familiares continuam a defender a prática. É o caso do deputado Gonzaga Patriota (PSB-PE), que tem a filha Ganhy Lua de Queiroz Andrade Patriota como funcionária do gabinete. </FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>Tudo em fam?lia<BR></FONT></B><FONT face=Verdana>Gonzaga Patriota (PSB/PE) <BR>Ganhy Lua de Queiroz Andrade Patriota (filha do deputado) - CNE 15 (salário: </FONT><FONT face=Verdana>R$ 1.952,12) </FONT><BR><FONT face=Verdana>Lotação Oficial: Coordenação de Registro Funcional <BR>Lotação Efetiva: Gabinete do deputado Gonzaga Patriota </FONT></P></p>
 <p><P><FONT face=Verdana>Leia texto na ?ntegra&nbsp;<A href=\"https://www2.correioweb.com.br/cbonline/politica/pri_pol_365.htm\"><EM><STRONG>aqui</STRONG></EM></A>&nbsp;(assinantes)</FONT><BR></P><FONT face=\"Times New Roman\"></p>
 <p><P><BR></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

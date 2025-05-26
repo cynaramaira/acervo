@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Ramos<BR></STRONG>Repórter do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>O ministro do Desenvolvimento Social e Combate&nbsp;à Fome, Patrus Ananias,&nbsp;não fez cerimônia&nbsp;e se fartou, hoje,&nbsp;no almoço de inauguração&nbsp;d</FONT><FONT face=Verdana>a Cozinha Comunitária do Lar Fabiano de Cristo, no bairro da Várzea, no Recife.</FONT></P></p>
 <p><P><FONT face=Verdana>Ananias se rendeu ao bandeijão e comeu de tudo um pouco. Já o anfitrião, o prefeito do Recife&nbsp;João Paulo (PT) - adepto da cozinha macrobiótica&nbsp;-</p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>O ministro do Combate à Fome, por sua vez, estava com a lição de História na ponta da l?ngua. Em longo discurso, enalteceu o histórico revolucionário de Pernambuco e citou de Felipe Camarão a Dom Hélder. </FONT></P></p>
 <p><P><FONT face=Verdana>De quebra, anunciou que apresenta agora em janeiro ao presidente Lula (PT) proposta de reajuste do Bolsa Fam?lia. Hoje, o benef?cio varia de R$ 15 a R$ 95.</FONT></P></p>
 <p><P><FONT face=Verdana>*Com informações da repórter de Cidades do JC&nbsp;Veronica Almeida.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

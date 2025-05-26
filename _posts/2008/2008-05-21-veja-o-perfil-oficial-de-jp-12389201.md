@@ -1,0 +1,27 @@
+---
+id: 12389201
+date: "2008-05-21T21:55:00Z"
+last_modified_at: null
+tags:
+  - "cerveja"
+  - "diario-oficial"
+categories:
+  - "colunistas"
+title: "Veja o perfil oficial de JP"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Jo&atilde;o Paulo Lima e Silva: Uma Hist&oacute;ria de Lutas e Vit&oacute;rias</font></p></p>
+<p><p><font face=\"Verdana\">Jo&atilde;o Paulo Lima e Silva, 55 anos, primeiro prefeito reeleito da hist&oacute;ria do Recife, nasceu em Olinda, na fam&iacute;lia do cobrador de &ocirc;nibus Manoel Messias Lima e Silva e da dona-de-casa Maria de Lourdes Lima e Silva, j&aacute; falecidos. &Eacute; casado com Luzia Jeanne com quem tem tr&ecirc;s filhos: Jo&atilde;o Paulo Filho, Helder, Pedro, e uma neta, Ana. Tem forma&ccedil;&atilde;o t&eacute;cnica em Edifica&ccedil;&otilde;es e Mec&acirc;nica (pela Escola T&eacute;cnica Estadual Professor Agamenon Magalh&atilde;es &ndash; Etepam) e cursa Economia na Faculdade Boa Viagem. </font></p></p>
+<p><p><font face=\"Verdana\">Na vida e na pol&iacute;tica, Jo&atilde;o Paulo trilhou uma trajet&oacute;ria de luta pelos ideais socialistas de um mundo mais justo e solid&aacute;rio. Sua atua&ccedil;&atilde;o come&ccedil;ou na &eacute;poca da ditadura militar, engajando-se nos movimentos sociais como a Juventude Cat&oacute;lica Oper&aacute;ria (JOC) e, posteriormente, a A&ccedil;&atilde;o Cat&oacute;lica Oper&aacute;ria (ACO). No bairro do Ibura, onde construiu parte da sua hist&oacute;ria de luta, foi presidente da Associa&ccedil;&atilde;o de Moradores. </font></p></p>
+<p><p><font face=\"Verdana\">Em 1978, Jo&atilde;o Paulo foi incentivado pelo mestre Paulo Freire, recebendo uma bolsa de estudos pelo Centro de Estudos da Am&eacute;rica Latina. Ele participou de cursos de capacita&ccedil;&atilde;o em Pol&iacute;tica Sindical na Fran&ccedil;a, It&aacute;lia, B&eacute;lgica, Espanha e em Portugal. Na volta ao Brasil, Jo&atilde;o Paulo se engajou no movimento sindical, na &eacute;poca em grande efervesc&ecirc;ncia pol&iacute;tica com as manifesta&ccedil;&otilde;es do ABC Paulista, e se filiou ao Partido Comunista Revolucion&aacute;rio (PCR). </font></p></p>
+<p><p><font face=\"Verdana\">Sua forte atua&ccedil;&atilde;o no movimento sindical, inicialmente organizando a oposi&ccedil;&atilde;o metal&uacute;rgica e, depois, como membro da diretoria do Sindicato da categoria, o conduziu &agrave; presid&ecirc;ncia do Sindicato dos Metal&uacute;rgicos de Pernambuco, que, na &eacute;poca, chegou a contar com 10 mil filiados. Jo&atilde;o Paulo foi o primeiro presidente da Central &Uacute;nica dos Trabalhadores no Estado, al&eacute;m de ser um dos fundadores da CUT nacional. </font></p></p>
+<p><p><font face=\"Verdana\">Em 1979, Jo&atilde;o Paulo ajudou a criar o Partido dos Trabalhadores no Estado. Em 1988, &eacute; eleito o primeiro vereador do PT no Recife, com 2.723 votos. Dois anos depois, ele conquistou o mandato de deputado estadual, com 11 mil votos. Nessa legislatura, Jo&atilde;o Paulo passa por um dos momentos mais dif&iacute;ceis da sua vida. Em solidariedade a luta pela posse da terra dos moradores de S&iacute;tio Grande, entra em conflito com a Pol&iacute;cia e tem tr&ecirc;s costelas quebradas e um dos pulm&otilde;es perfurado. Ele se recupera e, em 1992, disputa sua primeira elei&ccedil;&atilde;o para o executivo, candidatando-se a prefeito de Jaboat&atilde;o dos Guararapes. </font></p></p>
+<p><p><font face=\"Verdana\">Em 1994 ele sai das urnas como o deputado estadual mais votado da hist&oacute;ria de Pernambuco, com cerca de 50 mil votos. Em 1996, foi candidato a prefeito do Recife, ficando em terceiro lugar na disputa. Dois anos depois, disputa uma nova vaga no legislativo estadual, sendo, novamente, o candidato mais votado de Pernambuco, ultrapassando os 50 mil votos. Na Casa Jos&eacute; Mariano, teve destacada atua&ccedil;&atilde;o como presidente da Comiss&atilde;o de Defesa da Cidadania. </font></p></p>
+<p><p><font face=\"Verdana\">Nas elei&ccedil;&otilde;es municipais de 2000, Jo&atilde;o Paulo &eacute; o candidato da Frente de Esquerda do Recife, tendo como seu vice, o m&eacute;dico Luciano Siqueira (PCdoB). Numa disputa muito acirrada, Jo&atilde;o Paulo &eacute; eleito, no segundo turno, tornando-se o primeiro prefeito oper&aacute;rio da hist&oacute;ria do Recife, com 382 mil 988 votos. Em 2004, candidata-se novamente e vence no primeiro turno, com 56,11% dos votos v&aacute;lidos (458 mil 846 votos), sendo vitorioso em todas as zonas eleitorais da cidade. A elei&ccedil;&atilde;o torna-se um marco na cidade com a primeira reelei&ccedil;&atilde;o de um prefeito na hist&oacute;ria do Recife. </font></p></p>
+<p><p><font face=\"Verdana\">A trajet&oacute;ria do prefeito Jo&atilde;o Paulo tamb&eacute;m &eacute; marcada pela sua elei&ccedil;&atilde;o para a presid&ecirc;ncia da Frente Nacional de Prefeitos (FNP), em 2005, entidade que congrega prefeituras de todo o Brasil. Em 2007, ele &eacute; reeleito para o cargo, durante a 49&ordf; Reuni&atilde;o Geral da FNP, que aconteceu em mar&ccedil;o daquele ano, no Recife. A nova diretoria tem mandato de 2 anos. &Agrave; frente da FNP, Jo&atilde;o Paulo tem uma atua&ccedil;&atilde;o destacada na condu&ccedil;&atilde;o da Marcha a Bras&iacute;lia em Defesa dos Munic&iacute;pios e na articula&ccedil;&atilde;o e defesa dos interesses municipais junto ao Governo Federal e ao Congresso Nacional.</font></p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

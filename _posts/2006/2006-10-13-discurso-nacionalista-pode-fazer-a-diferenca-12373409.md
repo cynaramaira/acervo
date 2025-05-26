@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Inaldo Sampaio</STRONG><BR>Colunista de Pol?tica do JC</FONT></P></p>
 <p><P><FONT face=Verdana>Consultor da campanha de Alckmin, Lavareda disse ao PSDB que Lula introduziu um novo componente em seu discurso que poderá fazer a diferença: o nacionalismo e a não privatização de estatais. Para outros analistas, o “dossiê Vedoin??? envelheceu.</FONT> </P> </p>
-{\% endraw %}
+{% endraw %}

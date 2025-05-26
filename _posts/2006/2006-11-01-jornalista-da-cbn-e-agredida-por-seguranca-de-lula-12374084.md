@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Cláudio Humberto<BR></STRONG>No Jornal do Commercio&nbsp;</FONT></P></p>
 <p><P><B><FONT face=Verdana>Fascismo<BR></FONT></B><FONT face=Verdana>Pescoço imobilizado e cinco dias de repouso. É o resultado da agressão de petistas à jornalista Roseann Kennedy, da rádio CBN, que tentou entrevistar o presidente Lula, segunda-feira, na Base Aérea de Bras?lia.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -17,7 +17,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>A Conceito é uma empresa que se dividiu no in?cio do ano.</FONT></P></p>
 <p><P><FONT face=Verdana>A área de eventos ficou com Rose Oliveira, parceira de Saulo nas gravações com Milton Coelho, presidente licenciado do PSB. Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/09/23/index.php#1676\" target=_blank>aqui</A></EM></STRONG>.</FONT></P></p>
 <p><P><FONT face=Verdana>O dono da marca Conceito, Marcelo Corrêa, nos enviou de São Paulo, por e-mail, a seguinte nota:</FONT></P></p>
@@ -33,4 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>Em razão disso, as empresas Conceito Soluções e Conceito Intelligence, bem como seus acionistas e cotistas, declaram formalmente que desde 06 de abril de 2005 não possuem quaisquer ligações com a empresa Conceito Consultoria em Eventos ou com sua nova proprietária. Também declaram nunca terem tido qualquer espécie de contato, ou sequer terem conhecimento, dos personagens envolvidos - exceto sobre a nova proprietária da empresa. </EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>Lamentamos, profundamente, que o nome da Conceito - pequena empresa com vinte e um anos de mercado, atuando na área de informática - tenha sido envolvido indevidamente com negociações duvidosas derivadas do fato da nova proprietária da Conceito Eventos continuar a utilizar-se da marca \"Conceito\", apesar disso estar absolutamente vetado no alteração do contrato social. As medidas jur?dicas adequadas estão sendo analisadas, a fim de reparar os danos morais e materiais sofridos. </EM></FONT></P><B></p>
 <p><P><EM><FONT face=Verdana>Marcelo Corrêa </FONT><BR></EM></B><FONT face=Verdana><EM>Sócio-Diretor <BR>Conceito Intelligence</EM></FONT><EM><FONT face=Verdana> <BR></FONT><FONT face=Arial><FONT face=Verdana>Conceito Solucões</FONT> </P></FONT></EM> </p>
-{\% endraw %}
+{% endraw %}

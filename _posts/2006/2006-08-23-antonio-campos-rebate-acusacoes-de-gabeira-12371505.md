@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Recebi há pouco do advogado Antônio Campos, irmão de Eduardo Campos e coordenador jur?dico de sua campanha, a seguinte nota de esclarecimento sobre acusações feitas, em Bras?lia, pelo deputado federal Fernando Gabeira (PV-RJ) e que reproduzi em nota postada mais cedo:</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG><EM>NOTA DE ESCLARECIMENTO</EM></STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><EM>A CAMPOS ADVOGADOS, através de seu advogado titular Antônio Campos, em razão de recentes declarações do Deputado Fernando Gabeira, vem esclarecer o seguinte:</EM></FONT></P></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>8. O Deputado Fernando Gabeira já está sendo interpelado judicialmente perante o SUPREMO TRIBUNAL FEDERAL e também iremos tomar todas as medidas judiciais cab?veis no sentido de restabelecer a verdade e defender o instituto da advocacia.</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>Recife, 23 de agosto de 2006.</EM></FONT></P></p>
 <p><P><EM><FONT face=Verdana>CAMPOS ADVOGADOS<BR>Antônio Campos</FONT><BR></EM></P> </p>
-{\% endraw %}
+{% endraw %}

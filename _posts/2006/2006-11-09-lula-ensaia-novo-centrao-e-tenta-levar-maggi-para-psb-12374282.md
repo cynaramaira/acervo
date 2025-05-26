@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Kennedy Alencar</STRONG><BR>Na Folha de S.Paulo de hoje</FONT></P></p>
 <p><P><FONT face=Verdana>O presidente Luiz Inácio Lula da Silva articula diretamente a sua maioria parlamentar no Congresso com expedientes que lembram o \"Centrão\" da Assembléia Nacional Constituinte de 1987-1988. </FONT></P></p>
 <p><P><FONT face=Verdana>O eixo do \"centrão de Lula\" deve ser o PMDB. Terá, à direita, aliados do primeiro mandato enfraquecidos com a crise do mensalão, como PP, PL e PTB. </FONT></P></p>
@@ -22,4 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>Diferentemente do primeiro mandato, no qual abandonou gradativamente o contato com os Estados, desta vez Lula trabalha para assegurar o apoio de pelo menos 17 dos 27 futuros governadores. </FONT></P></p>
 <p><P><FONT face=Verdana>Eles serão vitais para o sucesso da articulação, e em troca deverão ganhar apoio a seus pleitos e verbas federais. O PDT, surpresa eleitoral em outubro com dois governadores eleitos, também está sendo atra?do para a coalizão. Isolado, o PT continuará a resistir ao inchaço. </FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://www1.folha.uol.com.br/fsp/brasil/fc0911200602.htm\" target=_blank>aqui</A></EM></STRONG> (assinantes).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

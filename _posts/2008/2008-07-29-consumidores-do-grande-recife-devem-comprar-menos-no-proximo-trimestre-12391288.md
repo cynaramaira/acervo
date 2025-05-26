@@ -1,0 +1,30 @@
+---
+id: 12391288
+date: "2008-07-29T10:28:00Z"
+last_modified_at: null
+tags:
+  - "fenomenos-astronomicos"
+  - "grande-recife"
+categories:
+  - "noticias"
+title: "Consumidores do Grande Recife devem comprar menos no pr\u00f3ximo trimestre "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face="Times New Roman">Desaquecimento tradicional do com&eacute;rcio varejista no per&iacute;odo, alta de pre&ccedil;os dos alimentos e aumento no valor do Bolsa Fam&iacute;lia. </font></p></p>
+<p><p>Estes foram os tr&ecirc;s fatores que orientaram as conclus&otilde;es do ranking do &Iacute;ndice de Inten&ccedil;&atilde;o de Compras na Regi&atilde;o Metropolitana do Recife - ICR/Fafire, lan&ccedil;ado pelo Grupo de Estudos do Macroambiente Empresarial de Pernambuco (Gemepe), em julho.</p></p>
+<p><p>A quarta edi&ccedil;&atilde;o da pesquisa, referente ao terceiro trimestre de 2008 (julho/agosto/setembro), apresentou redu&ccedil;&atilde;o em nove dos dez itens consultados, comparado ao segundo trimestre do ano.</p></p>
+<p><p>Mais uma vez, as roupas lideram o ranking (53,81%), seguidas por celular (30,09%).</p></p>
+<p><p>O estudo foi realizado entre os dias 3, 4, 5 e 7 de julho e considerou 565 consumidores com idade a partir dos 16 anos, da Regi&atilde;o Metropolitana do Recife. A eles, foi repassado um question&aacute;rio com perguntas sobre o interesse na compra de bens e servi&ccedil;os at&eacute; o final de setembro.</p></p>
+<p><p>A an&aacute;lise dos dados contou com a colabora&ccedil;&atilde;o da professora Regina Coeli, do curso de Administra&ccedil;&atilde;o, da Fafire. Ao avaliar a inten&ccedil;&atilde;o de compras entre os entrevistados, por renda, nota-se uma redu&ccedil;&atilde;o moderada nas classes C e D. Estas apresentaram uma diminui&ccedil;&atilde;o de 1 a 5 pontos percentual aproximadamente, em um maior n&uacute;mero de produtos, quando comparado ao ICR/Fafire anterior (abril/maio/junho).</p></p>
+<p><p>Na &eacute;poca, elas se destacaram por apresentar uma elevada inten&ccedil;&atilde;o de compras na RMR. A pesquisa associa a queda na inten&ccedil;&atilde;o de compras a dois fen&ocirc;menos: o desaquecimento natural do per&iacute;odo e a infla&ccedil;&atilde;o dos alimentos, j&aacute; que - com o aumento dos gastos nas fam&iacute;lias de baixa renda - a disponibilidade financeira para comprar outros bens e servi&ccedil;os foi reduzida. &quot;Esta hip&oacute;tese, entretanto, s&oacute; poder&aacute; ser confirmada com mais seguran&ccedil;a na pr&oacute;xima edi&ccedil;&atilde;o do ICR/Fafire, ao se compararem as inten&ccedil;&otilde;es em per&iacute;odos iguais (4&ordm; trimestre de 2007 com 4&ordm; trimestre de 2008). Por enquanto, pode-se dizer que h&aacute; fortes ind&iacute;cios a respeito da sua conseq&uuml;&ecirc;ncia para as compras, principalmente de bens dur&aacute;veis (autom&oacute;vel e im&oacute;vel), entre as classes m&eacute;dia baixa e pobre &quot;, explica o coordenador t&eacute;cnico da pesquisa e do Gemepe, Uranilson Carvalho.</p></p>
+<p><p>A pesquisa identifica que o interesse no consumo est&aacute; concentrado (83%) entre os que recebem mensalmente at&eacute; cinco sal&aacute;rios m&iacute;nimos. Os 17% complementares est&atilde;o distribu&iacute;dos entre as fam&iacute;lias com renda superior a R$ 2.150,00. Isso significa que a cada 10 consumidores, respondendo positivamente &agrave; inten&ccedil;&atilde;o de consumo, 8 est&atilde;o entre as faixas de renda mais baixas (C, D e E).</p></p>
+<p><p>Surpresa nessa an&aacute;lise foi o fato da classe E (abaixo de R$ 415,00) apresentar um crescimento percentual em nove itens. &quot;A suposi&ccedil;&atilde;o &eacute; que a infla&ccedil;&atilde;o dos alimentos deva ter sido compensada pelo an&uacute;ncio do aumento no valor do Bolsa Fam&iacute;lia.</p></p>
+<p><p>O reajuste m&eacute;dio do programa federal ficar&aacute; em 8%, de forma que o benef&iacute;cio m&iacute;nimo sobe de R$18,00 para R$20,00 e o m&aacute;ximo vai de R$172,00 para R$182,00&quot;, afirma ainda Uranilson Carvalho. A aquisi&ccedil;&atilde;o de celular foi o segundo colocado na inten&ccedil;&atilde;o de compras e o item que apresentou uma leve amplia&ccedil;&atilde;o de 29,49% para 30,09%. As quedas mais expressivas foram as dos bens dur&aacute;veis. As inten&ccedil;&otilde;es de compras de im&oacute;vel (7,61%), autom&oacute;vel (9,91%) e eletrodom&eacute;stico (28,50%) apresentaram o menor percentual desde a primeira edi&ccedil;&atilde;o do ICR/Fafire (no &uacute;ltimo trimestre de 2007).</p></p>
+<p><p>Em rela&ccedil;&atilde;o ao item viagem, 24,25% dos consumidores consultados afirmaram ter inten&ccedil;&atilde;o de viajar. O principal destino continua sendo o interior de Pernambuco (48,20%), enquanto 39,57% apresentaram como resposta a inten&ccedil;&atilde;o de sair do Estado.</p></p>
+<p><p>Quando apresentado um roteiro de viagem, com destaque &agrave;s praias do litoral pernambucano, apenas 6,47% sentiram-se atra&iacute;dos. Dentre os demais itens, reforma do im&oacute;vel atingiu 26,19% das inten&ccedil;&otilde;es de compras; livros 23,19%; computadores, acess&oacute;rios e/ou software, 22,65% e m&oacute;veis, 29,03%. Gemepe - Desde fevereiro de 2007, o Grupo de Estudos do Macroambiente Empresarial de Pernambuco (Gemepe) acompanha e discute os efeitos dos investimentos estruturadores para a atividade produtiva dos diversos munic&iacute;pios da Regi&atilde;o Nordeste e, mais especificamente, do Estado de Pernambuco.</p></p>
+<p><p>As pesquisas j&aacute; abrangeram desde o p&oacute;lo de f&aacute;rmacos e hemoderivados de Goiana at&eacute; a baixa competitividade de Pernambuco em rela&ccedil;&atilde;o ao mercado externo, passando por estudos sobre o torcedor pernambucano e os &Iacute;ndices de Compras da Regi&atilde;o Metropolitana do Recife ICR/Fafire.</p> </p>
+{% endraw %}

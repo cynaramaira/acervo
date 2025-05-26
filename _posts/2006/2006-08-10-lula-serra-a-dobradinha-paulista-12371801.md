@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Arial></p>
 <p><P><FONT face=Verdana>Do <STRONG><EM><A href=\"https://uolpolitica.blog.uol.com.br/\" target=_blank>blog</A></EM></STRONG> de Fernando Rodrigues</FONT></P></p>
 <p><P><FONT face=Verdana>O prefeito de São José do Rio Preto, Edinho Araújo (PPS), acaba de anunciar que vai apoiar a insólita chapa Lula-Serra. Para presidente da República, o petista Lula. Para o governo paulista, o tucano José Serra.</FONT></P></p>
@@ -22,4 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>Ex-deputado federal pelo PMDB, Edinho entrou no PPS em 1999. Em 2000, foi eleito prefeito de Rio Preto. Em 2004, reeleito. Governa a segunda maior cidade do PPS no pa?s –só perde para Porto Alegre.</FONT></P></p>
 <p><P><FONT face=Verdana>Rio Preto tem 411 mil habitantes e mais 260 mil eleitores –ou seja, é maior do que Roraima.</FONT></P></p>
 <p><P><FONT face=Verdana>O que significa esse apoio a Lula e a Serra no interior de São Paulo? Mais um dado concreto a respeito da decantação do quadro eleitoral.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

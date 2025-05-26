@@ -12,6 +12,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>A guerra entre Lula e Alckmin, segundo Humberto, do JC </p>
-{\% endraw %}
+{% endraw %}

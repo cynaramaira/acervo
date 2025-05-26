@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana size=2><FONT face=Verdana size=2><B></p>
 <p><P>MENDONÇA FILHO (PFL)</P><FONT face=Verdana size=2></p>
 <p><P>Às 9h</B>, visita o centro comercial de Peixinhos </P><B></p>
@@ -34,4 +34,4 @@ imagem: null
 <p><P>Às 12h30</B>, no Recife, almoça na praça da alimentação de um dos shoppings da cidade</P><B></p>
 <p><P>Às 15h</B>, no Recife, participa de carreata em Camaragibe e São Lourenço da Mata</P><B></p>
 <p><P>Às 19h</B>, no Recife, participa de carreata na Zona Norte</FONT></FONT></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

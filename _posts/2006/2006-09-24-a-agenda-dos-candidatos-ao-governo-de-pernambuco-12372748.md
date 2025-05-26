@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></p>
 <p><P><FONT face=Verdana>Às 10h, </FONT></B><FONT face=Verdana>carreata na orla de Piedade e Boa Viagem, acompanhado pelo ex-governador e candidato ao Senado Jarbas Vasconcelos (PMDB)</FONT></P><B></p>
@@ -33,4 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>Às 15h</FONT></B><FONT face=Verdana>,</p>
 <p> carreata em Jaboatão dos Guararapes</FONT></P></p>
 <p><P><FONT face=Verdana><B>Às 20h</B>, carreata no Ibura e Jordão, no Recife</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

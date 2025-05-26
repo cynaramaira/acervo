@@ -1,0 +1,28 @@
+---
+id: 12388497
+date: "2008-05-02T14:33:00Z"
+last_modified_at: null
+tags:
+  - "brasil"
+  - "reformas"
+categories:
+  - "noticias"
+title: "Ag\u00eancia que elevou o Brasil \u00e0 condi\u00e7\u00e3o de investment grade diz que \u00e9 preciso continuar reformas"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">Da Ag&ecirc;ncia Estado</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A diretora para ratings soberanos da ag&ecirc;ncia de classifica&ccedil;&atilde;o de risco Standard &amp; Poor\s (S&amp;P), Lisa Schineller, enfatizou hoje a necessidade do Brasil de perseguir reformas econ&ocirc;micas que contribuam para a redu&ccedil;&atilde;o da carga da d&iacute;vida p&uacute;blica. Segundo ela, mesmo com a rela&ccedil;&atilde;o entre a d&iacute;vida e Produto Interno Bruto (PIB) acima do n&iacute;vel de 40%, estimado como ideal para um pa&iacute;s que j&aacute; tenha um grau de investimento, &quot;o Brasil pode ser grau de investimento&quot; por causa &quot;do maior grau de confian&ccedil;a na capacidade e disposi&ccedil;&atilde;o do governo de reduzir esta d&iacute;vida&quot;. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">De acordo com seus c&aacute;lculos, esta rela&ccedil;&atilde;o no Brasil &eacute; da ordem de 47%. Entretanto, ela destacou que &quot;os esfor&ccedil;os para trazer a pol&iacute;tica fiscal para mais perto de outros pa&iacute;ses que t&ecirc;m grau de investimento s&atilde;o chave para o Brasil continuar a subir na escala das notas de cr&eacute;dito de risco (ratings)&quot;. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Lisa defendeu pol&iacute;ticas que reforcem um decl&iacute;nio na rela&ccedil;&atilde;o d&iacute;vida/PIB, chamando aten&ccedil;&atilde;o para o fato de que suas previs&otilde;es s&atilde;o de que esta rela&ccedil;&atilde;o deve ter um &quot;decl&iacute;nio muito lento&quot;. &quot;A pol&iacute;tica fiscal brasileira &eacute; expansionista&quot;, disse, enfatizando que a expans&atilde;o na arrecada&ccedil;&atilde;o e o ambiente econ&ocirc;mico t&ecirc;m facilitado as altas taxas de gastos.&nbsp;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A&nbsp;diretora da S&amp;P citou que a recomposi&ccedil;&atilde;o dos gastos e a redu&ccedil;&atilde;o em algumas despesas podem levar a uma forte redu&ccedil;&atilde;o da d&iacute;vida. &quot;Pol&iacute;ticas para estimular ainda mais o crescimento tamb&eacute;m podem contribuir para a redu&ccedil;&atilde;o da d&iacute;vida como porcentual do PIB&quot;, reconheceu. Para Lisa, a taxa de crescimento do Brasil est&aacute; mais forte do que era at&eacute; recentemente, mas o ritmo ainda &eacute; fraco quando comparado ao de outros pa&iacute;ses emergentes. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&quot;N&oacute;s acreditamos que claramente houve um aumento nos gastos, acompanhado de um aumento na arrecada&ccedil;&atilde;o. Isso n&atilde;o &eacute; algo que simplesmente aconteceu nos &uacute;ltimos dois anos, isso tem sido uma tend&ecirc;ncia dos &uacute;ltimos dez anos&quot;, disse. A diretora da ag&ecirc;ncia de ratings afirmou que prev&ecirc; uma desacelera&ccedil;&atilde;o no ritmo de crescimento da arrecada&ccedil;&atilde;o e, se isto se confirmar, &quot;o crescimento dos gastos tamb&eacute;m deve desacelerar&quot;. Ela ressaltou que este &eacute; um &quot;componente chave que n&oacute;s inclu&iacute;mos em nosso conceito de uma abordagem pragm&aacute;tica de pol&iacute;tica progressiva&quot;. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Segundo Lisa, esta din&acirc;mica fiscal brasileira &quot;n&atilde;o &eacute; algo novo&quot;. &quot;Isso vem ocorrendo desde o fim dos anos 1990, e n&atilde;o &eacute; algo que deve mudar rapidamente&quot;, avaliou, chamando aten&ccedil;&atilde;o para a quest&atilde;o das reformas. &quot;Seja uma reforma da Previd&ecirc;ncia Social, seja uma reforma mais profunda em dire&ccedil;&atilde;o a outros tipos de composi&ccedil;&atilde;o de gastos governamentais&quot;, citou. Para ela, &quot;isso seria muito importante para manter o Brasil na sua trajet&oacute;ria de alta na escala dos ratings&quot;, afirmou, em rela&ccedil;&atilde;o a mudan&ccedil;as nos gastos do governo. &quot;Em termos ideais, n&oacute;s gostar&iacute;amos de ver a carga da d&iacute;vida cair mais rapidamente&quot;, declarou. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">REFORMA TRIBUT&Aacute;RIA</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Para Lisa, o projeto de reforma tribut&aacute;ria que est&aacute; sendo discutido no Congresso &eacute; &quot;um forte proposta&quot;. Em sua vis&atilde;o, a medida &quot;aumentaria a efici&ecirc;ncia e as perspectivas econ&ocirc;micas&quot; do Pa&iacute;s, contribuiria para diminuir a d&iacute;vida e ainda poderia melhorar as perspectivas de investimentos no Pa&iacute;s. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">INVESTIMENTOS</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Apesar de defender a redu&ccedil;&atilde;o dos gastos p&uacute;blicos, Lisa v&ecirc; tamb&eacute;m uma &quot;forte necessidade&quot; de infra-estrutura. Neste contexto, ela destacou que a chave desta quest&atilde;o &eacute; a participa&ccedil;&atilde;o do setor privado nos investimentos necess&aacute;rios, citando como exemplo a concess&atilde;o de rodovias. </font></p> </p>
+{% endraw %}

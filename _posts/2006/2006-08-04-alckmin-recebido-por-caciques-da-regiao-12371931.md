@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Estão lá no centro de convenções, em Olinda, para ouvi-lo falar sobre um novo Nordeste: </FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana></FONT>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana><STRONG>Os tucanos</STRONG> Tasso Jereissati, Lúcio Alcântara e Cássio Cunha Lima.</FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Sim, claro, também apareceram o governador Mendonça Filho (PFL) e o ex Jarbas Vasconcelos (PMDB). </FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana></FONT>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Dez horas depois de Alckmin ter desembarcado em Pernambuco, eles foram lá ouvi-lo.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

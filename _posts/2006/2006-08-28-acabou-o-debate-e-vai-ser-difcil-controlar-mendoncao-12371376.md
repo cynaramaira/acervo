@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>O governador Mendonça Filho e seu comando de campanha vão ter dificuldades para conter a conhecida incontinência verbal do pai dele, deputado federal José Mendonça.</FONT></P></p>
 <p><P><FONT face=Verdana>Edilson Silva já repetiu várias vezes a acusação de que Mendonção deve cerca de meio bilhão de reais ao Banco do Nordeste e não quer pagar.</FONT></P></p>
@@ -20,4 +20,4 @@ imagem: null
 <p><P><FONT face=Verdana>Ele poderia apontar a provocação como ataque pessoal e conseguir alguns minutos de direito de resposta.</FONT></P></p>
 <p><P><FONT face=Verdana>Amanhã não vai ser fácil segurar Mendonção.</FONT></P></p>
 <p><P>&nbsp;</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

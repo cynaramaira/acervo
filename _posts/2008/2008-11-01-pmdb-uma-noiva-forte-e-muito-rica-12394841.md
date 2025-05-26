@@ -1,0 +1,24 @@
+---
+id: 12394841
+date: "2008-11-01T15:14:55Z"
+last_modified_at: null
+tags:
+  - "forte-orange"
+categories:
+  - "noticias"
+title: "PMDB: uma noiva forte e muito rica"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Na Veja desta semana</p></p>
+<p><p>O rosto rechonchudo e risonho do ministro Geddel Vieira Lima, da Integra&ccedil;&atilde;o Nacional, &eacute; a melhor tradu&ccedil;&atilde;o para o atual momento do PMDB. O partido foi o grande vencedor das elei&ccedil;&otilde;es municipais. Com 18 milh&otilde;es de votos no primeiro turno e 4 milh&otilde;es no segundo &ndash; n&uacute;meros muito maiores que os da concorr&ecirc;ncia &ndash;, o PMDB conquistou 1&thinsp;201 prefeituras, incluindo seis capitais. Juntos, os or&ccedil;amentos dessas cidades alcan&ccedil;am 48 bilh&otilde;es de reais.</p></p>
+<p><p>A cifra &eacute; apenas uma parte do imp&eacute;rio peemedebista, que inclui ainda 296 bilh&otilde;es de reais dos governos estaduais e federal. Se o PMDB fosse um pa&iacute;s, seu PIB seria de 344 bilh&otilde;es de reais, igual ao do Chile. O partido gosta de aplicar a dinheirama em obras de visibilidade, que ajudam a legenda a ganhar ainda mais votos &ndash; e mais recursos para administrar. &Eacute; o ciclo da pol&iacute;tica peemedebista. Por isso, esque&ccedil;a saneamento b&aacute;sico e prioridades afins. Sabe como &eacute;, coisas que ficam debaixo do ch&atilde;o n&atilde;o costumam render vit&oacute;ria nas urnas.</p></p>
+<p><p>Se o PMDB ter&aacute; um pib&atilde;o para gastar, o sorridente Geddel ter&aacute; seu pr&oacute;prio pibinho. Ele elegeu 114 prefeitos em seu estado, a Bahia, incluindo o de Salvador. A soma dos or&ccedil;amentos dessas cidades com o de seu minist&eacute;rio dar&aacute; a ele influ&ecirc;ncia sobre 16 bilh&otilde;es de reais. Al&eacute;m disso, 35% do eleitorado baiano vive em cidades que ser&atilde;o administradas por seus aliados. Com tanto poder e influ&ecirc;ncia, Geddel multiplicou seu peso &ndash; calma, o eleitoral.</p></p>
+<p><p>&quot;Ele foi o integrante do partido que mais encorpou nas urnas&quot;, avalia Michel Temer, presidente da legenda. O momento dourado de Geddel faz com que ele seja apontado pelos baianos como &quot;o novo ACM&quot;, em refer&ecirc;ncia a Antonio Carlos Magalh&atilde;es, morto em 2007, que, por mais de quarenta anos, mandou na pol&iacute;tica do estado. Geddel detesta a compara&ccedil;&atilde;o (seu pai saiu no tapa com ACM em 1983), mas, claro, adora ser visto como o pol&iacute;tico mais poderoso da Bahia.</p></p>
+<p><p>O aumento de for&ccedil;as colocou Geddel &ndash; assim como todo o PMDB &ndash; diante de um dilema: o que fazer em 2010, quando ser&atilde;o eleitos os pr&oacute;ximos governadores e o presidente da Rep&uacute;blica&#63; Como o PMDB n&atilde;o tem entre seus quadros inchados um nome com densidade eleitoral para disputar o Planalto, o jeito &eacute; fazer como sempre fez: trabalhar para ficar no poder por meio de outro partido, n&atilde;o importa qual. Isso &eacute; f&aacute;cil por sua natureza, digamos, macuna&iacute;mica &ndash; trata-se de uma agremia&ccedil;&atilde;o sem nenhum car&aacute;ter ideol&oacute;gico.</p></p>
+<p><p>H&aacute; duas op&ccedil;&otilde;es para o partido: forjar uma alian&ccedil;a com o PT &ndash; de cujo governo o PMDB &eacute; base de apoio &ndash; ou embarcar na prov&aacute;vel candidatura de Jos&eacute; Serra, do PSDB. Geddel personifica essa bifurca&ccedil;&atilde;o. Na Bahia, ajudou a eleger o governador Jaques Wagner, do PT, em 2006. Wagner ser&aacute; candidato &agrave; reelei&ccedil;&atilde;o, mas Geddel, agora poderoso, tamb&eacute;m sonha com o cargo. &Eacute; poss&iacute;vel um cen&aacute;rio em que Geddel, ministro de Lula, se lance candidato contra o PT em seu estado e, para firmar posi&ccedil;&atilde;o, ap&oacute;ie o candidato tucano &agrave; Presid&ecirc;ncia. Essa diverg&ecirc;ncia de interesses entre PT e PMDB tende a se repetir em outros estados.</p></p>
+<p><p>Por enquanto, os peemedebistas ficar&atilde;o como est&atilde;o: incrustados no governo Lula, mas batalhando por seus pr&oacute;prios interesses. &quot;Entendo que haja uma expectativa de setores do PT para que a gente se defina logo. Mas estamos a dois anos da elei&ccedil;&atilde;o. N&atilde;o &eacute; hora de decidir nada&quot;, diz Geddel. O ministro abre ainda mais seu sorriso para explicar que seu partido jamais deixar&aacute; o governo por vontade pr&oacute;pria, mesmo que decida confrontar o PT nas elei&ccedil;&otilde;es. &quot;Se na Bahia, por exemplo, o governo desejar romper com o PMDB, caber&aacute; a ele a decis&atilde;o. A caneta est&aacute; em suas m&atilde;os. &Eacute; s&oacute; usar o Di&aacute;rio Oficial. N&oacute;s n&atilde;o vamos sair.&quot; Esse &eacute; Geddel. Essa &eacute; a cara do PMDB.</p> </p>
+{% endraw %}

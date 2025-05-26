@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Este é o resultado da parcial divulgada agora, com 85,52% das seções totalizadas:</FONT></P></p>
 <p><P><FONT face=Verdana>Cleiton Collins 80.744</FONT></P></p>
 <p><P><FONT face=Verdana>Milian Lacerda 62.564</FONT></P></p>
@@ -32,4 +32,4 @@ imagem: null
 <p><P><FONT face=Verdana>Aglailson Júnior 39.835</FONT></P></p>
 <p><P><FONT face=Verdana>João Negromonte 39.219</FONT></P></p>
 <p><P><FONT face=Verdana>Antônio Morais 38.447</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

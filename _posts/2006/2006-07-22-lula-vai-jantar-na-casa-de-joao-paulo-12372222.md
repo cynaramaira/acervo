@@ -16,8 +16,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Lula vai falar com a imprensa depois do com?cio. Mais tarde, passa no hotel e segue para jantar no apartamento do prefeito João Paulo, nas Graças.</FONT></P></p>
 <p><P></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

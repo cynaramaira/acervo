@@ -17,7 +17,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana></p>
 <p><P>Em sua coluna no JC de hoje, o jornalista Cláudio Humberto registra que o presidente Lula decidiu convidar um velho amigo para um papo a dois, na próxima semana: o senador eleito Jarbas Vasconcelos (PMDB-PE). Será olho no olho.</P></p>
 <p><P>---------</P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>\"Lula tem dito às pessoas que quer falar comigo, mas não diz a mim. Fica usando essas pontes. Basta ele me chamar que eu vou\"</EM></FONT></P></p>
 <p><P><FONT face=Verdana>O senador eleito, advertiu, porém, que não pretende deixar de ser oposição ao novo governo do petista. </FONT></P></p>
 <p><P><FONT face=Verdana><EM>\"Não torço pelo pior, mas se Lula tivesse um governo exitoso, não precisava de coalizão\".</EM></FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

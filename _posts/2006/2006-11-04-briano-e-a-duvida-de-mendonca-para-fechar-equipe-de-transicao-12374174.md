@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"BACKGROUND: white; MARGIN: 0cm 0cm 0pt\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\">Por <B style=\"mso-bidi-font-weight: normal\">Ana Lúcia Andrade<BR></B>Do Jornal do Commercio<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"BACKGROUND: white; MARGIN: 0cm 0cm 0pt\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\"><o:p>&nbsp;</o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"BACKGROUND: white; MARGIN: 0cm 0cm 0pt\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\">O governador Mendonça Filho (PFL) anuncia na segunda-feira (6) os integrantes da equipe que fará a transição para o futuro governo de Eduardo Campos (PSB). Os nomes serão apresentados logo após a reunião de secretariado, marcada para às 15h, no Palácio do Campos das Princesas. <o:p></o:p></SPAN></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P class=MsoNormal style=\"BACKGROUND: white; MARGIN: 0cm 0cm 0pt\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\">Há uma preocupação entre eles de que, no momento em que ocorre uma transição de governo, também se deflagra um ambiente da disputa eleitoral seguinte. Essa contaminação do ambiente administrativo pelo eleitoral leva a uma “distorção??? – definição de um colaborador do governador – dos fatos sobre a realidade do Estado, principalmente a do quadro financeiro.<BR><BR>(...) Na reunião de secretariado, que realiza na segunda, Mendonça também vai definir o cronograma de obras para os últimos 60 dias de seu governo.<o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"BACKGROUND: white; MARGIN: 0cm 0cm 0pt\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\"><o:p>&nbsp;</o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"BACKGROUND: white; MARGIN: 0cm 0cm 0pt\"><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\">Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/11/03/index.php#3102\">aqui</A></EM></STRONG> no <STRONG>Blog</STRONG> e <B style=\"mso-bidi-font-weight: normal\"><I style=\"mso-bidi-font-style: normal\"><A href=\"https://jc3.uol.com.br/jornal/2006/11/04/can_9.php\">aqui</A></I></B> (assinantes JC e UOL).</SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

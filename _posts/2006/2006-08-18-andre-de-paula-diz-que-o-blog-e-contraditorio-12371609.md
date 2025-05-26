@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O <STRONG>Blog</STRONG> recebeu há pouco esta nota do deputado André de Paula, à respeito de outra nota publicada por nós, abaixo:</FONT></P></p>
 <p><P><FONT face=\"Times New Roman\"><FONT face=Verdana>Por <STRONG>André de Paula</STRONG><BR>Deputado federal e presidente do PFL em Pernambuco</FONT></P></p>
 <p><P><FONT face=Verdana><EM>\"O governador deu agora há pouco uma jogada de mestre no guia eleitoral da TV\".</EM></FONT></P></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>Em apenas um guia eleitoral, t?nhamos uma análise superficial, marcada pela ousadia da manobra adotada pela campanha de Mendonça.</FONT></P></p>
 <p><P><FONT face=Verdana>Repetida a estratégia da aliança no guia de hoje, continuo dizendo que a manobra é inteligente. E é realmente. Ela é engenhosa.</FONT></P></p>
 <p><P><FONT face=Verdana>Mas agora também estão claras, e cada vez mais claras, as conseqüências da estratégia sobre a capacidade de o cidadão, o eleitor, tomar sua decisão com clareza e informações precisas.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

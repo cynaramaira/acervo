@@ -1,0 +1,28 @@
+---
+id: 12407345
+date: "2009-11-01T15:29:53Z"
+last_modified_at: null
+tags:
+  - "estudantes"
+categories:
+  - "noticias"
+title: "Planalto estuda criar \u00f3rg\u00e3o que ficar\u00e1 acima do TCU"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Do Estad&atilde;o<br /></p>
+<p><br /></p>
+<p>O governo j&aacute; estuda a cria&ccedil;&atilde;o de uma c&acirc;mara t&eacute;cnica para resolver pend&ecirc;ncias relacionadas com a paralisa&ccedil;&atilde;o de obras diretamente com o Tribunal de Contas da Uni&atilde;o (TCU). O ministro do Planejamento, Paulo Bernardo, levou a proposta ao presidente do &oacute;rg&atilde;o, Ubiratan Aguiar, e ao ministro Jos&eacute; M&uacute;cio Monteiro e aguarda uma manifesta&ccedil;&atilde;o. O Pal&aacute;cio do Planalto considera o TCU uma esp&eacute;cie de c&eacute;lula da oposi&ccedil;&atilde;o, visto que, dos nove membros, cinco s&atilde;o ex-pol&iacute;ticos oposicionistas.</p></p>
+<p><p>O presidente Luiz In&aacute;cio Lula da Silva deu tamb&eacute;m ordem para que sejam respondidos imediatamente todos os questionamentos em rela&ccedil;&atilde;o &agrave;s obras do Programa de Acelera&ccedil;&atilde;o do Crescimento (PAC), o conjunto de empreendimentos que dever&aacute; servir de alavanca para a candidatura da ministra-chefe Dilma Rousseff &agrave; Presid&ecirc;ncia, no ano que vem. A determina&ccedil;&atilde;o de Lula levou a Casa Civil, que supervisiona o PAC, a rebater um a um todos os questionamentos quanto a 15 itens do programa.</p></p>
+<p><p>Aguiar, ex-deputado pelo PSDB, disse que ainda n&atilde;o foi procurado pelo governo para tratar da c&acirc;mara t&eacute;cnica. &quot;Tudo o que sei a esse respeito veio da imprensa&quot;, afirmou. A assessoria do TCU complementou a informa&ccedil;&atilde;o, dizendo que a ideia &eacute; uma repeti&ccedil;&atilde;o da iniciativa de Rui Barbosa, de um &oacute;rg&atilde;o independente para fiscalizar o Executivo - ou seja, o pr&oacute;prio TCU.</p></p>
+<p><p>De acordo com um auxiliar de Lula, h&aacute; no Planalto uma tentativa de &quot;enquadrar a garotada&quot; que teria tomado conta do TCU e do Minist&eacute;rio P&uacute;blico, paralisando obras sem seguir crit&eacute;rios nem atentar para os preju&iacute;zos. H&aacute; at&eacute; a decis&atilde;o de buscar mecanismos que levem os respons&aacute;veis por suspens&otilde;es sem necessidade a responder a sindic&acirc;ncias administrativas.</p></p>
+<p><p>&quot;Queremos que a fiscaliza&ccedil;&atilde;o continue, mas com crit&eacute;rios. A ideia da c&acirc;mara t&eacute;cnica, que reunir&aacute; integrantes do Executivo e do TCU e, quando for o caso, do Minist&eacute;rio P&uacute;blico, n&atilde;o &eacute; para fazer acertos, mas para resolver as pend&ecirc;ncias de forma mais r&aacute;pida e transparente, com ata e o que for necess&aacute;rio. Chega de penalizar a sociedade com embargos de obras para depois concluir que n&atilde;o havia irregularidade&quot;, disse Bernardo.</p></p>
+<p><p>No &uacute;ltimo dia 23, Lula aproveitou a cerim&ocirc;nia de troca de comando da Advocacia-Geral da Uni&atilde;o (AGU) para lan&ccedil;ar a proposta. Irritado, disse que estava preparando um relat&oacute;rio para mostrar ao Brasil os desvios de fun&ccedil;&atilde;o. &quot;As coisas mais absurdas. Obras paralisadas durante dez meses, cinco meses, um ano e depois s&atilde;o autorizadas sem que as pessoas que as paralisaram tenham qualquer puni&ccedil;&atilde;o. Quem faz est&aacute; subordinado a todas as leis e quem d&aacute; ordem para parar n&atilde;o est&aacute; a nenhuma&quot;, afirmou.</p></p>
+<p><p>O Planejamento est&aacute; levantando casos considerados absurdos e j&aacute; tem exemplos. Ao Estado, o ministro citou dois. &quot;O TCU paralisou uma obra do Minist&eacute;rio da Integra&ccedil;&atilde;o porque a empresa vitoriosa pagaria sal&aacute;rio de R$ 9 mil para um engenheiro. Disseram que era muito alto. Eu respondi: n&atilde;o me cabe interferir no que uma empresa paga a seus funcion&aacute;rios. Al&eacute;m do mais, se o sal&aacute;rio for comparado aos do Executivo, pode at&eacute; ser alto. Mas, se for comparado aos do TCU, &eacute; baixo.&quot; No TCU, o sal&aacute;rio &eacute; de R$ 15 mil.</p></p>
+<p><p>O segundo caso ocorreu em Minas Gerais. &quot;O TCU paralisou uma obra de R$ 120 milh&otilde;es sob a alega&ccedil;&atilde;o de que havia sobrepre&ccedil;o de R$ 9 milh&otilde;es, menos de 9%. Passados dois anos, concluiu que o sobrepre&ccedil;o era de R$ 900 mil, menos de 1% e, mesmo assim, com d&uacute;vidas. O preju&iacute;zo para a sociedade foi muito grande. N&atilde;o pode continuar.&quot;</p></p>
+<p><p>Na Casa Civil, a determina&ccedil;&atilde;o &eacute; para que todos os questionamentos do PAC sejam imediatamente respondidos. A primeira rea&ccedil;&atilde;o veio neste m&ecirc;s, logo depois de o TCU anunciar que tinha embargado 15 obras do programa por irregularidades, como superfaturamento.</p></p>
+<p><p>Segundo a pasta, nenhuma dessas obras deveria estar na lista negra. Alegou que tr&ecirc;s j&aacute; estavam exclu&iacute;das da lista pelo pr&oacute;prio TCU, uma n&atilde;o era do PAC, duas j&aacute; estavam com os contratos rescindidos, seis tiveram as justificativas entregues - sem que obtivessem respostas -, duas estariam em fase de nova licita&ccedil;&atilde;o e, na &uacute;ltima, o questionamento &eacute; quanto &agrave; supervis&atilde;o, n&atilde;o &agrave; obra.</p> </p>
+{% endraw %}

@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Eduardo Campos (PSB) está, neste momento, na sede do PSB, no bairro do Espinheiro, no Recife, </FONT><FONT face=Verdana>recebendo o apoio de Clóvis Corrêa (Prona).</FONT></P></p>
 <p><P><FONT face=Verdana>Corrêa, derrotado no&nbsp;primeiro turno das eleições ao Governo, era do PSB antes de entrar no Prona.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

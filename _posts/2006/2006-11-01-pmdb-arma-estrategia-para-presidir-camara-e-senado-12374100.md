@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">Do blog de <STRONG>Josias de Souza</STRONG><BR>&nbsp;</SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">Cortejado por Lula, o PMDB traça uma estratégia para tornar-se força hegemônica no Congresso. Na legislatura que começa em 2007, o partido almeja presidir, a um só tempo, a Câmara e o Senado. Na primeira Casa, elegeu a maior bancada -89 deputados. Na segunda, acaba de igualar-se ao PFL, que emergira das urnas com&nbsp;18 senadores, um a mais que o PMDB.<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><o:p>&nbsp;</o:p></SPAN></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p> ex-vice-presidente da República, e Agripino Maia, atual l?der do partido no Senado. O pefelismo não está alheio às cooptações do PMDB. Num movimento que deve se prolongar até fevereiro, também o PFL tenta atrair para os seus quadros senadores eleitos por outras legendas.<o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><o:p>&nbsp;</o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">Leia mais <STRONG><EM><A href=\"https://josiasdesouza.folha.blog.uol.com.br/\">aqui</A>.&nbsp;</EM></STRONG></SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

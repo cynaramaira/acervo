@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Pois é essa conta que todo mundo costuma fazer. Quer dizer, quase todo mundo.</FONT></P></p>
 <p><P><FONT face=Verdana>Os candidatos à reeleição que têm larga vantagem de intenção de voto em relação aos adversários costumam não comparecer aos debates no primeiro turno porque fazem a conta do menor preju?zo.</FONT></P></p>
 <p><P><FONT face=Verdana>Lula calculou o seguinte em relação ao debate que acontece agora na Band – e aos demais previstos. </FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Às vésperas do in?cio do guia eleitoral, não conseguiu abrir uma vantagem larga sobre os adversários, principalmente Humberto Costa (PT) e Eduardo Campos (PSB).</FONT></P></p>
 <p><P><FONT face=Verdana>Isso amplia os riscos de preju?zo maior. Ele tem pouca gordura para queimar faltando a debates.</FONT></P></p>
 <p><P><FONT face=Verdana>Pode até escolher aonde pretende ir. Não foi hoje ao da Faculdade Maur?cio de Nassau/TV Nova. Mas dificilmente deixará de ir aos demais.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

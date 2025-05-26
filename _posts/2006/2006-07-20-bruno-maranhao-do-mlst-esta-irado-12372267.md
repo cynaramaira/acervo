@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Está irado com o veto da cúpula do PT à subida dele no palanque de Lula, no com?cio programado para sábado, em Bras?lia Teimosa, no Recife. O comandante do Movimento</p>
 <p> de Libertação dos Sem Terra foi afastado da executiva nacional do partido, há um mês, depois que os militantes do MLST promoveram um quebra-quebra na Câmara dos Deputados.</FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Inicialmente quem atendeu o telefone foi outra pessoa. Ela tentou se passar por Bruno Maranhão e chegou a responder por ele sobre o com?cio. \"Não penso em participar, não\", disse. Foi quando o l?der dos sem-terra tomou o telefone. </FONT></P></p>
 <p><P><FONT face=Verdana>Ele vem num vôo da Gol e deve repetir o que disse ao Blog, em entrevista exclusiva (<B><A href=\"https://jc3.uol.com.br/blogs/jc/2006/07/18/index.php#117\">leia aqui</A></B>), no in?cio da semana. Depois de 38 dias preso, acusou a \"direita do Congresso\" e o presidente da Câmara, Aldo Rebelo (PCdoB-SP), de serem os verdadeiros responsáveis pelo quebra-quebra.</FONT></P></p>
 <p><P><FONT face=Verdana>Em reportagem do JC, publicada hoje, o secretário nacional de comunicação do PT, Humberto Costa, diz que Bruno Maranhão está fora da lista dos convidados.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

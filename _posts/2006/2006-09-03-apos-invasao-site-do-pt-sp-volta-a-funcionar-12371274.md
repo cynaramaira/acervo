@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><TABLE class=corponoticias cellSpacing=5 cellPadding=0 width=\"100%\" border=0></p>
 <p><TBODY></p>
 <p><TR></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><TR></p>
 <p><TD></p>
 <p><P><FONT face=Verdana><FONT size=2><EM></EM></FONT></FONT>&nbsp;</P></TD></TR></TBODY></TABLE> </p>
-{\% endraw %}
+{% endraw %}

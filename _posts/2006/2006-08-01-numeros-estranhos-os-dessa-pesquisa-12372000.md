@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Os resultados da pesquisa da TV Globo contrariam todos os levantamentos feitos até agora.</FONT></P></p>
 <p><P><FONT face=Verdana>Não surgiram, nas últimas semanas, fatos pol?ticos que pudessem alterar significativamente o quadro na disputa pelo governo de Pernambuco.</FONT></P></p>
 <p><P><FONT face=Verdana>Houve o envolvimento de Humberto com o escândalo das sanguessugas. Mas, nesse caso, na pior das hipóteses,&nbsp;a interferência poderia ser no sentido de reduzir as intenções de voto dele.</FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Por conta de um equ?voco meu na primeira nota postada, republico a metodologia da Ibope/TV Globo:</FONT></P></p>
 <p><P><STRONG><FONT face=Verdana>METODOLOGIA</FONT></STRONG></P></p>
 <p><P><FONT face=Verdana>O levantamento foi realizado entre os dias 29 e 31 de julho. Foram ouvidas 1.806 pessoas em 78 munic?pios pernambucanos. A margem de erro é de dois pontos percentuais para mais ou para menos. A pesquisa foi registrada no Tribunal Regional Eleitoral com o número 11112/2006.<BR></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

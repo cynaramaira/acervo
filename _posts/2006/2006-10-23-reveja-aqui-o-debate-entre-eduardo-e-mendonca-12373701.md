@@ -14,6 +14,6 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Clique&nbsp;<strong><em><a href="#" target="_blank" rel="noopener noreferrer">aqui</a></em></strong> para ver o debate completo&nbsp;entre Eduardo Campos (PSB) e Mendon&ccedil;a Filho (PFL), candidatos ao governo de Pernambuco, ontem &agrave; noite, na TV Jornal.</p>
-{\% endraw %}
+{% endraw %}

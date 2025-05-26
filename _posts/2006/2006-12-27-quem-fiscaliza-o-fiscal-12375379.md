@@ -14,10 +14,10 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana></FONT>&nbsp;</P></p>
 <p><P><FONT face=Verdana>Saiba das principais not?cias que publicamos hoje, no Blog do JC, assistindo ao v?deo que acabamos de&nbsp;disponibilizar para vocês.</FONT></P></p>
 <p><P><FONT face=Verdana>Em breve, vamos estreitar este relacionamento virtual, com novos v?deos, convidados&nbsp;e not?cias comentadas.</FONT></P></p>
 <p><P><FONT face=Verdana>Deixe aqui sua opinião ou sugestão!</FONT></P></p>
 <p><P><FONT face=Verdana></FONT>&nbsp;</P> </p>
-{\% endraw %}
+{% endraw %}

@@ -14,7 +14,7 @@ chapeu: null
 autor: "jc"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>&nbsp;<br /></p>
 <p>Por <strong>Cec?lia Ramos</strong><br />Rep&oacute;rter do Blog</p>
 <p>A&nbsp;placa alertando para o risco de ataques de tubar&atilde;o nas praias do Recife, Olinda e Jaboat&atilde;o foi colocada em local errado (BR 232) e j&aacute; foi devidamente removida (para a BR 101).</p>
@@ -31,4 +31,4 @@ imagem: null
 <p><strong>Laedson Bezerra</strong> - Secret&aacute;rio de Turismo de Pernambuco:<br /><em>"Fomos pego de surpresa. Est&aacute; havendo um exagero por parte do Minist&eacute;rio P&uacute;blico Federal, j&aacute; que n&atilde;o s&atilde;o em todas as praias dessas cidades (Recife, Olinda e Jaboat&atilde;o)&nbsp;que tem ataques de tubar&atilde;o, mas s&oacute; em alguns trechos. Amanh&atilde; vou entrar em contato com o Minist&eacute;rio P&uacute;blico para&nbsp;que a&nbsp;posi&ccedil;&atilde;o seja revista"</em></p>
 <p><strong>Jos&eacute; Ot&aacute;vio Meira Lins</strong> - presidente da Assossia&ccedil;&atilde;o Brasileira da Ind&uacute;stria Hoteleira (ABIH) e integrante do Comit&ecirc; Estadual de Monitoramento aos Incidentes com Tubar&otilde;es (CEMIT):<br /><em>"Isso &eacute; um absurdo. Primeiro porque as placas n&atilde;o se adequam ao padr&atilde;o do CEMIT. Um incidente com tubar&atilde;o provoca danos, mas o impacto com essa medida para o Turismo pode ser maior ainda".</em></p>
 <p><strong>F&aacute;bio Hazin</strong> - presidente do CEMIT:<br /><em>"N&atilde;o tenho o que falar sobre o assunto, porque o CEMIT n&atilde;o foi chamado para debater o assunto. Mas com certeza vamos discutir isso na pr&oacute;xima reuni&atilde;o do comit&ecirc;"</em></p>
-{\% endraw %}
+{% endraw %}

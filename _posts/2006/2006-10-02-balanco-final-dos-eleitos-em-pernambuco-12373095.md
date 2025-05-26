@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana><STRONG>GOVERNADOR</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Mendonça Filho (PFL) - 1.578.001 votos (39,32%)<BR>Eduardo Campos (PSB) - 1.356.950</p>
 <p> votos (33,81%)<BR>Humberto Costa (PT) - 1.008.842 votos (25,14%)</FONT></P></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>DEPUTADO FEDERAL</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Armando Monteiro (PTB) – 205.212 votos (4,90%)<BR>Inocêncio Oliveira (PL) – 181.126 votos (4,32%)<BR>Ana Arraes (PSB) – 178.467 votos (4,26%)<BR>Cadoca (PMDB) – 157.909 votos (3,77%)<BR>Maur?cio Rands (PT) – 149.206 votos (3,56%)<BR>Carlos Wilson (PT) – 141.203 votos (3,37%)<BR>Raul Henry (PMDB) – 138.841 votos (3,31%)<BR>Bruno Araújo (PSDB) – 138.498 votos (3,31%)<BR>José Múcio (PTB) – 120.398 votos (2,87%)<BR>Fernando Bezerra Coelho Filho (PSB) – 117.720 votos (2,81%)<BR>Eduardo da Fonte (PP) -– 110.061 votos (2,63%)<BR>Roberto Magalhaes (PFL) – 106.150 votos (2,53%)<BR>Renildo Calheiros (PCdoB) – 103.364 votos (2,47%)<BR>Zé Mendonça (PFL) – 96.561 votos (2,30%)<BR>Gonzaga Patriota (PSB) – 92.652 votos (2,21%)<BR>André de Paula (PFL) – 88.854 votos (2,12%)<BR>Raul Jungmann (PPS) – 88.757 votos (2,12%)<BR>Edgar Moury (PMDB) – 87.499 votos (2,09%)<BR>Pedro Eugênio (PT) – 85.140 votos (2,03%)<BR>Jose Chaves (PTB) – 84.143 votos (2,01%)<BR>Bruno Rodrigues (PSDB) – 80.065 votos (1,91%)<BR>Fernando Ferro (PT) – 73.009 votos (1,74%)<BR>Marcos Antônio (PSC) – 62.019 votos (1,48%)<BR>Wolney Queiroz (PDT) – 56.645 votos (1,35%)<BR>Paulo Rubem (PT) – 56.247 votos (1,34%)</FONT></P></p>
 <p><P><FONT face=Verdana>Brancos - 427.430 votos (8,96%)<BR>Nulos - 153.267 votos (3,21%)</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Esse é o resultado parcial da enquente que o <STRONG>Blog</STRONG> está realizando. </FONT></P></p>
 <p><P><FONT face=Verdana>Um dos dois candidatos aliados de Lula, Humberto Costa (PT) e Eduardo Campos (PSB), deve disputar o segundo turno com o governador Mendonça Filho (PFL), aliado de Jarbas.</FONT></P></p>
 <p><P><FONT face=Verdana>A questão é a seguinte:</FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>Lula&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 310 (62%)</FONT></P></p>
 <p><P><FONT face=Verdana>Participe, vote, dê sua opinião</p>
 <p> na coluna ao lado.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

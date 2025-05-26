@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Veja o quadro geral das últimas pesquisas divulgadas nos dez estados onde acontece hoje o segundo turno:</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Pernambuco</STRONG><BR>Eduardo Campos (PSB) - 63% <BR>Mendonça Filho (PFL) - 37%<BR>(votos válidos, sem brancos, nulos e indecisos)<BR>Instituto: Ibope</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Goiás<BR></STRONG>Alcides Rodrigues (PP) - 56% <BR>Maguito Vilela (PMDB) - 44%<BR>(votos válidos)<BR>Instituto: Ibope</FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Rio Grande do Norte<BR></STRONG>Wilma de Faria (PSB) - 52% <BR>Garibaldi Alves (PMDB) - 42%<BR>(votos válidos)<BR>Instituto: Ibope</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Rio Grande do Sul<BR></STRONG>Ol?vio Dutra (PT) - 45%<BR>Yeda Crusius (PSDB) - 55%<BR>(votos válidos)<BR>Instituto: Ibope</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Santa Catarina<BR></STRONG>Luiz Henrique (PMDB) - 57%<BR>Espiridião Amin (PP) - 43%<BR>(votos válidos)<BR>Instituto: Ibope </FONT></P> </p>
-{\% endraw %}
+{% endraw %}

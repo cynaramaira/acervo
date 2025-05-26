@@ -1,0 +1,25 @@
+---
+id: 12407340
+date: "2009-11-01T12:11:18Z"
+last_modified_at: null
+tags:
+  - "alepe"
+  - "orcamento"
+categories:
+  - "noticias"
+title: "Or\u00e7amento da Alepe subiu 98% em 4 anos"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por <a href="mailto:mmedeiros@jc.com.br">Manoel Medeiros Neto</a>, de Pol&iacute;tica / JC<br /></p>
+<p><br /></p>
+<p>O material de divulga&ccedil;&atilde;o da Assembleia Legislativa de Pernambuco (Alepe) caracteriza o Poder como &ldquo;a casa de todos os pernambucanos&rdquo;. Se o slogan fosse levado literalmente em conta, a situa&ccedil;&atilde;o financeira da totalidade dos cidad&atilde;os do Estado n&atilde;o estaria mal. Crise econ&ocirc;mica, ajuste de contas, demiss&atilde;o de comissionados: express&otilde;es t&iacute;picas do dicion&aacute;rio da administra&ccedil;&atilde;o p&uacute;blica no Brasil, este ano, passaram longe da Casa de Joaquim Nabuco. O fato &eacute; que, num per&iacute;odo de quatro anos, o or&ccedil;amento destinado &agrave; Alepe cresceu 98%, caracterizando o custo do Parlamento pernambucano como um dos mais altos do Pa&iacute;s. Em 2010, a despesa equivalente a uma das 49 vagas de parlamentares em Pernambuco se aproximar&aacute; do custo de um dos 513 gabinetes na C&acirc;mara Federal.</p></p>
+<p><p>A perspectiva de amplo crescimento num curto espa&ccedil;o de tempo dobrou a capacidade da Alepe para os investimentos, al&eacute;m de &ldquo;abrir as portas&rdquo; para o incha&ccedil;o no quadro de funcion&aacute;rios. A disponibilidade de verba ocorre porque, diferente de outros per&iacute;odos da hist&oacute;ria recente, a infla&ccedil;&atilde;o no Pa&iacute;s est&aacute; sob controle: entre 2006 e 2010, o IBGE prev&ecirc; uma infla&ccedil;&atilde;o acumulada de cerca de 25%, apenas um quarto do engrandecimento financeiro dos cofres da Assembleia, no mesmo per&iacute;odo.</p></p>
+<p><p>Para se ter uma ideia mais concreta do crescimento do or&ccedil;amento na Casa de Joaquim Nabuco neste per&iacute;odo, basta comparar o custo equivalente, em 2006 e 2010, de um gabinete parlamentar na Assembleia e na C&acirc;mara Federal. H&aacute; quatro anos, o mandato de um deputado federal no ano custou ao Pa&iacute;s R$ 5,79 milh&otilde;es. Na Assembleia, o valor, no mesmo per&iacute;odo, foi de R$ 2,75 milh&otilde;es. J&aacute; no ano que vem, o custo de um mandato estadual se aproximar&aacute; dos custos de um mandato federal: a perspectiva &eacute; que o gasto represente R$ 6,62 milh&otilde;es em Bras&iacute;lia, e R$ 5,45 milh&otilde;es na Assembleia. &ldquo;Se voc&ecirc; questionar qualquer dona de casa sobre o impacto de um aumento assim, elas demonstrariam melhor o peso disso num or&ccedil;amento&rdquo;, comparou o coordenador de projetos da ONG Transpar&ecirc;ncia Brasil, Fabiano Ang&eacute;lico.</p></p>
+<p><p>De acordo com o 1&ordm; secret&aacute;rio da Alepe, Jo&atilde;o Fernando Coutinho (PSB), a eleva&ccedil;&atilde;o do duod&eacute;cimo permitiu diversos avan&ccedil;os. &ldquo;Estabelecemos o plano de cargos e servidores, que onerou a Alepe esse ano em R$ 1 milh&atilde;o por m&ecirc;s. Tamb&eacute;m fizemos investimentos em tecnologia, com um volume de gastos significativo (Coutinho citou, neste momento, a compra de computadores para os gabinetes)&rdquo;. Cerca de R$ 20 milh&otilde;es estariam reservados para a constru&ccedil;&atilde;o de um novo pr&eacute;dio. Antes previstas para come&ccedil;arem este ano, as obras da nova estrutura foram adiadas.</p></p>
+<p><p>Entre 2006 e 2010, o maior crescimento percentual da verba destinada ao Legislativo ocorreu na virada de 2008 para 2009. Diferente dos 5,9% da infla&ccedil;&atilde;o registrada em 2008 - segundo registrou o &Iacute;ndice de Pre&ccedil;os ao Consumidor Amplo (IPCA) -, o incremento do caixa no Legislativo estadual, no per&iacute;odo, foi de 32%. Se aprovado no plen&aacute;rio, como de costume, a Lei Or&ccedil;ament&aacute;ria Anual (LOA) para 2010 prev&ecirc; um acr&eacute;scimo de 10,6% na verba destinada &agrave; Alepe ano que vem. Na pr&aacute;tica, ser&atilde;o R$ 25,6 milh&otilde;es a mais em compara&ccedil;&atilde;o com este ano. Hoje, a LOA est&aacute; sob an&aacute;lise da Comiss&atilde;o de Finan&ccedil;as e ser&aacute; votada no dia 3 de dezembro.</p></p>
+<p><p>Jo&atilde;o Fernando Coutinho tamb&eacute;m afirmou que em alguns anos ainda foram necess&aacute;rias suplementa&ccedil;&otilde;es or&ccedil;ament&aacute;rias. Em 2008, por exemplo, a Assembleia gastou R$ 201,2 milh&otilde;es &ndash; cerca de 10% a mais do que o registrado na Lei Or&ccedil;ament&aacute;ria para aquele ano. &ldquo;Teve ano que precisamos fazer seis suplementa&ccedil;&otilde;es&rdquo;, lembrou. A verba depositada nos cofres da Assembleia est&aacute; diretamente atrelada &agrave; arrecada&ccedil;&atilde;o do Estado. Assim, &eacute; o crescimento das receitas do Estado que permite a eleva&ccedil;&atilde;o do dinheiro depositado no cofre da &ldquo;casa de todos os pernambucanos&rdquo;.</p> </p>
+{% endraw %}

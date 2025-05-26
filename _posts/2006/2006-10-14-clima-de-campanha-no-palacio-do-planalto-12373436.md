@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>O candidato a governador da Frente Popular, Eduardo Campos (PSB), suspendeu ontem a agenda de campanha no Estado para participar, em Bras?lia, ao lado do presidente Lula (PT), da solenidade de assinatura do decreto de desapropriação de 23 dos 48 engenhos da Usina Catende, localizada no munic?pio de Catende, na Mata Sul do Estado. </FONT></P></p>
 <p><P><FONT face=Verdana>A iniciativa atende a uma das principais reivindicações dos trabalhadores que, desde a falência da Usina, em 1995, administram a massa falida, de forma cooperada, com a empresa Harmonia. </FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Ele se identificava com a iniciativa dos canavieiros que, depois da falência da usina, em 1995, não queriam perder os empregos. </FONT></P></p>
 <p><P><FONT face=Verdana>Era comum ver Arraes visitando os engenhos, mesmo depois que deixou o governo, e participando das solenidades promovidas pelos trabalhadores.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/10/14/not_204665.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

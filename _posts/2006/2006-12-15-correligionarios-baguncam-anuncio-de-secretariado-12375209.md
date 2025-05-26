@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>A coletiva de imprensa marcada para anunciar o novo secretariado foi dominada pela bagunça.</FONT></P></p>
 <p><P><FONT face=Verdana>Convocada para às 14h30, só começou com duas horas de atraso.</FONT></P><FONT face=Verdana></p>
 <p><P>Eduardo jogou a culpa na sua assessoria. “Desculpem pelo atraso. Não chequei na hora porque fui colocado para gravar uma mensagem de final de ano???.<BR></P></p>
@@ -21,4 +21,4 @@ imagem: null
 <p><P>“A organização merece zero???, reclamava a colunista eletrônica Divane Carvalho.<BR></P></p>
 <p><P>O governador eleito, questionado pelo Blog do JC, pediu que o repórter se dirigisse ao assessor de imprensa, Evaldo Costa, responsável pela organização. “Infelizmente, não dá para segurar tanta gente assim???, justificou-se.<BR></P></p>
 <p><P>Com a lotação para lá de esgotada, os repórteres do interior eram os que mais sofriam. Um deles, de Caruaru, chegou a perguntar ao repórter do Blog do JC se era um dos secretários. “É tanta gente que eu nem sei???, justificou-se Edivaldo</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

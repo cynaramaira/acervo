@@ -13,6 +13,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>A direção da Rádio Jornal explica que problemas operacionais inviabilizaram a entrada no ar, hoje cedo, do primeiro programa eleitoral do PSB de Eduardo Campos. A razões foram detalhadas em carta encaminhada ao partido pela manhã.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

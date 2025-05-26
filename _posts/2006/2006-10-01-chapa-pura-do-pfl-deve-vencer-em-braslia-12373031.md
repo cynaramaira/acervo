@@ -12,10 +12,10 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Boca-de-urna feita pelo Ibope e divulgada agora há pouco pela TV Globo:</FONT></P></p>
 <p><P><FONT face=Verdana>José Roberto Arruda&nbsp;(PFL) 52% (o vice é Paulo Otávio, PFL)</FONT></P></p>
 <p><P><FONT face=Verdana>Maria Abadia (PSDB) 22%</FONT></P></p>
 <p><P><FONT face=Verdana>Arlete Sampaio (PT) 21%</FONT></P></p>
 <p><P><FONT face=Verdana>A margem de erro da pesquisa é de dois pontos percentuais para mais ou para menos.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

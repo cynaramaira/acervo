@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Da <STRONG>Folha de São Paulo</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Apesar de disputarem a eleição desgastados pelo maior escândalo do governo de Luiz Inácio Lula da Silva, a maior parte dos chamados mensaleiros teve arrecadação quase milionária, segundo dados divulgados ontem pelo TSE (Tribunal Superior Eleitoral).</FONT></P></p>
 <p><P><FONT face=Verdana>Dos 7 que conseguiram a reeleição, 2 tiveram arrecadações superiores a R$ 1 milhão e outros 4 arrecadaram montantes de, em média, R$ 700 mil. Além desses sete, o ex-presidente do PT José Genoino, afastado do cargo por conta do mensalão, obteve receita de R$ 742.661 para sua campanha.</FONT></P></p>
@@ -22,4 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>Já Paulo Rocha (PT-PA) foi o que conseguiu menos dinheiro para a campanha entre os chamados mensaleiros reeleitos. Ele juntou R$ 594.172. E gastou cerca de R$ 140 mil a mais. Outro petista que teve arrecadação quase milionária foi José Mentor (PT-SP), R$ 914.040.</FONT></P></p>
 <p><P><FONT face=Verdana>O deputado Professor Luizinho (PT-SP) gastou R$ 861.875 mas não conseguiu se reeleger. Entre os que não foram reeleitos, ele é o l?der de arrecadação: conseguiu exatos R$ 848.560.</FONT></P></p>
 <p><P><FONT face=Verdana>Para o ex-ministro do TSE Torquato Jardim, o alto volume de gastos na campanha deveria reabrir a discussão sobre o modelo eleitoral. \"Os marqueteiros diziam que brindes e outdoors representavam 32% dos gastos. Com a minirreforma eleitoral de maio, o custo das campanhas deveria cair.\"</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -1,0 +1,24 @@
+---
+id: 12406129
+date: "2009-09-24T11:46:18Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "colunistas"
+title: "Exterm\u00ednio de miser\u00e1veis"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Jayme Asfora</p></p>
+<p><p>A sa&uacute;de p&uacute;blica em Pernambuco vem perdendo a sua luta por melhores condi&ccedil;&otilde;es de atendimento &agrave; popula&ccedil;&atilde;o mais carente. V&iacute;tima de doen&ccedil;a cr&ocirc;nica que perpassa governos e estados, a pol&iacute;tica de atendimento m&eacute;dico-hospitalar sofre dos mesmos males daqueles que n&atilde;o t&ecirc;m condi&ccedil;&otilde;es de arcar com um atendimento privado: descaso, abandono, sucateamento e falta de tratamento adequado.</p></p>
+<p><p>Passado mais um ano da assinatura do Termo de Compromisso firmado por cinco secret&aacute;rios estaduais (Administra&ccedil;&atilde;o; Planejamento e Gest&atilde;o; Controladoria Geral; Procuradoria Geral do Estado e Secretaria Executiva de Pessoal e Rela&ccedil;&otilde;es Institucionais), o Sindicato dos M&eacute;dicos de Pernambuco, o Conselho Regional de Medicina (Cremepe) e com a media&ccedil;&atilde;o da OAB, boa parte dos itens acordados n&atilde;o foram cumpridos. O restante foi cumprido apenas parcialmente.</p></p>
+<p><p>Um dos itens mais significativos, a contrata&ccedil;&atilde;o atrav&eacute;s de concurso p&uacute;blico, por exemplo, est&aacute; muito aqu&eacute;m do que foi colocado no Termo de Compromisso. Enquanto o d&eacute;ficit calculado pelas entidades m&eacute;dicas (em janeiro passado) era de 1.500 vagas para garantir um atendimento digno nas 27 unidades hospitalares do Estado, o concurso foi feito para contratar 544 m&eacute;dicos. Mesmo assim, at&eacute; agora, apenas 197 foram chamados e de apenas cinco especialidades. Quanto a isto, deve-se ressaltar que o pr&oacute;prio Superior Tribunal de Justi&ccedil;a (STJ) j&aacute; adotou o entendimento de que n&atilde;o &eacute; faculdade da administra&ccedil;&atilde;o p&uacute;blica e sim sua obriga&ccedil;&atilde;o constitucional, e direito subjetivo dos candidatos, a nomea&ccedil;&atilde;o dos aprovados no certame de acordo com o n&uacute;mero de vagas estipulado no edital.</p></p>
+<p><p>Outro ponto inclu&iacute;do no acordo foi o &ldquo;aprimoramento da pol&iacute;tica e distribui&ccedil;&atilde;o de medicamentos com planejamento e racionalidade, buscando manter permanente estoque de produtos essenciais&rdquo;. N&atilde;o foram poucas as ocasi&otilde;es, nesse per&iacute;odo, em que a pr&oacute;pria m&iacute;dia denunciou a verdadeira via crucis por qual passam centenas de pernambucanos &ndash; muitas vezes portadores de doen&ccedil;as cr&ocirc;nicas que, se n&atilde;o tratadas adequadamente, causam sofrimento e at&eacute; o falecimento &ndash; para obter seus rem&eacute;dios. Pacientes e familiares, em in&uacute;meros casos, precisam superar a dor e a preocupa&ccedil;&atilde;o para se deslocarem, de hospital em hospital, em busca desses medicamentos.</p></p>
+<p><p>E assim, seguindo uma escala paralela &agrave; da medicina, chegamos &agrave; quest&atilde;o dos pacientes mais graves e que, nessa cruzada, significa &agrave; situa&ccedil;&atilde;o cr&iacute;tica da falta de leitos. Al&eacute;m do d&eacute;ficit de 1.000 leitos normais na rede p&uacute;blica de atendimento &ndash; que nem de longe ser&aacute; atendida com a inaugura&ccedil;&atilde;o de apenas um novo hospital -, existe um d&eacute;ficit de 500 a 600 leitos somente de Unidades de Terapia Intensiva (UTIs). Sem o internamento condizente com a gravidade de seus quadros cl&iacute;nicos, as pessoas est&atilde;o morrendo &agrave; m&iacute;ngua, em uma situa&ccedil;&atilde;o que a pr&oacute;pria medicina j&aacute; se encarregou de definir como mistan&aacute;sia &ndash; que denomina a morte miser&aacute;vel, fora e antes da hora. Essa mistan&aacute;sia pode ser vista diariamente nas emerg&ecirc;ncias e nos hospitais p&uacute;blicos, onde se presencia a agonia dos pacientes que sofrem junto com seus familiares a espera de leitos vagos nas UTIs. Um verdadeiro exterm&iacute;nio de miser&aacute;veis nas palavras precisas ditas, recentemente, pelo presidente do Cremepe.</p></p>
+<p><p>Enquanto na medicina privada surgem, a cada ano, especialistas em prover solu&ccedil;&otilde;es aos doentes terminais para que os mesmos tenham um fim de vida mais confort&aacute;vel, na p&uacute;blica, o que vemos &eacute; o desespero, as dores e as seq&uuml;elas se estenderem a um n&uacute;mero cada vez maior de pacientes. Essa &eacute; situa&ccedil;&atilde;o da popula&ccedil;&atilde;o carente de nosso Estado. Essa &eacute; a situa&ccedil;&atilde;o da sa&uacute;de p&uacute;blica de nosso Estado. Que n&atilde;o usufruem nem do direito &agrave; vida e nem ao de uma morte mais digna.</p></p>
+<p><p>Jayme Asfora &eacute; presidente da OAB-PE e escreve para o blog &agrave;s quintas.&nbsp;&nbsp;</p> </p>
+{% endraw %}

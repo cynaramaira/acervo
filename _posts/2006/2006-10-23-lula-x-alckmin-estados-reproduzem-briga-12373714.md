@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Correio Braziliense</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>A disputa pelo governo nos 10 estados que terão segundo turno reproduz o confronto da eleição presidencial. De um lado, o PT e os pol?ticos aliados ao presidente Luiz Inácio Lula da Silva. De outro, a aliança entre PFL e PSDB, de Geraldo Alckmin. </FONT></P></p>
 <p><P><FONT face=Verdana>Por enquanto, segundo as pesquisas, os oposicionistas levam vantagem em quatro estados: Rio Grande do Sul, Santa Catarina, Goiás e Para?ba. Os aliados de Lula estão na frente no Rio de Janeiro, Maranhão e Pernambuco. Nos outros três estados - Paraná, Rio Grande do Norte e Pará -, é imposs?vel saber qual lado sairá vencedor. </FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Dos 17 governadores eleitos, nove tendem ao alinhamento com Lula, caso este seja reeleito. São quatro do PT, dois do PMDB, um do PDT, um do PSB e Blairo Maggi, do Mato Grosso, eleito pelo oposicionista PPS e expulso do partido por apoiar Lula no segundo turno. </FONT></P></p>
 <p><P><FONT face=Verdana>Os outros oito fecham com Alckmin. A lista inclui quatro governadores do PSDB, dois do PMDB, um do PPS e um do PFL. Os tucanos venceram nos dois maiores colégios eleitorais do Brasil, São Paulo e Minas Gerais.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://www2.correioweb.com.br/cbonline/politica/pri_pol_159.htm?\" target=_blank>aqui</A></EM></STRONG> (assinantes do Correio).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

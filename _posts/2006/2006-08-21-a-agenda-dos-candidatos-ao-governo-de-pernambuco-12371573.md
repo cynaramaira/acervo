@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL) </FONT></P></B></p>
 <p><P><FONT face=Verdana>Reuniões internas da coordenação de campanha </FONT></P><B></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>12h</STRONG>, em Serra Talhada, inauguração do comitê de Inocêncio Oliveira </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>13h</STRONG>, em Serra Talhada, inauguração do Comitê de Ronaldo Melo</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>19h</STRONG>, em Olinda,&nbsp;caminhada na cidade Tabajara</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

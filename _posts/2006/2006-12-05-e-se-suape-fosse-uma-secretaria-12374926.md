@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P></p>
 <p><P><FONT face=Verdana></FONT></P><FONT face=Verdana>Por <STRONG>Luiz Otavio Cavalcanti</STRONG><BR>Ex-secretário do Planejamento e da Fazenda de Pernambuco<BR></FONT><A href=\"mailto:lotavio@fsm.com.br\"><FONT face=Verdana>lotavio@fsm.com.br</FONT></A></P></p>
 <p><P><FONT face=Verdana>Pernambuco precisa intensificar olhares. Olhar mais de dentro para fora do Estado. E ser mais olhado de fora para dentro. Precisa se globalizar. Se quiser que seu PIB descole do PIB nacional. Nos últimos trinta anos, eles caminharam em linhas paralelas. Porque a economia pernambucana não dispõe de condições próprias para crescer de forma autônoma. Mais aceleradamente do que a do Pa?s.</FONT></P></p>
@@ -22,4 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>A terceira medida é programática. Definir um Plano Quinqüenal para Investimentos Externos em Pernambuco (2007/2017), atualizado anualmente. Trata-se de gerar conhecimento, criar ambiente e dar estabilidade aos objetivos de pol?tica de captação de investidores externos, em centros internacionais de negócios.</FONT></P></p>
 <p><P><FONT face=Verdana>Por sua parte, a Secretaria de Indústria e Comércio, tradicional,continuaria a cuidar das pol?ticas produtivas nas demais áreas do Estado, distritos industriais, agronegócio e incentivos fiscais.</FONT></P></p>
 <p><P><FONT face=Verdana>A propósito, em 1976, a Assembléia Legislativa aprovou o Plano e Desenvolvimento de Pernambuco – PDE. Foi elaborado pelo Condepe com a colaboração técnica de professores do Pimes da UFPe. É documento precioso. Não só por seu valor histórico, como documento da vida administrativa de Pernambuco. Mas também porque lançou olhar antecipado sobre o futuro do Estado. Estão lá a refinaria, o estaleiro, Suape e os pólos de serviços técnicos. Só faltou a Secretaria de Assuntos Internacionais.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

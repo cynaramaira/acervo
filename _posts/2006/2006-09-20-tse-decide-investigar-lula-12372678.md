@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>BRAS??LIA - O ministro do Tribunal Superior Eleitoral (TSE) e corregedor-geral da Justiça Eleitoral Cesar Asfor Rocha decidiu abrir ontem uma investigação contra o presidente Luiz Inácio Lula da Silva, o ministro da Justiça, Márcio Thomaz Bastos, o presidente do PT, Ricardo Berzoini, o ex-assessor da Presidência Freud Godoy, o empresário Valdebran Padilha, e o advogado Gedimar Passos. Aberta a pedido da coligação formada por PSDB e PFL, a investigação tem o objetivo de apurar a suposta participação de cada um no episódio do dossiê Vedoin - em razão da tentativa de compra de um dossiê contra o candidato do PSDB à Presidência, Geraldo Alckmin, e a governador de São Paulo José Serra (PSDB). Se ficar comprovado o envolvimento de Lula, o presidente poderá até ser declarado ineleg?vel.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Juiz nega pedido de prisão de Freud</STRONG></FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Oposição no Senado abre guerra contra o governo </STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>BRAS??LIA - A oposição no Senado centrou ataque ontem contra o presidente Luiz Inácio Lula da Silva no caso da suposta compra, por integrantes do PT, de dossiê envolvendo José Serra, Geraldo Alckmin e Barjas Negri (PSDB) na máfia das ambulâncias. “É dinheiro roubado do governo???, denunciou o presidente nacional do PSDB, senador Tasso Jereissati (CE), que exigiu explicações sobre a origem do R$ 1,7 milhão apreendido com petistas.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/09/20/not_201498.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

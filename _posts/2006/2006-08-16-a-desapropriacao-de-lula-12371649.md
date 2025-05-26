@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O guia de Mendonça Filho (PFL) na TV tem outra marca importante. Ao utilizar imagens e falas de Lula elogiando Jarbas (ver nota abaixo), o filme dilui ainda mais o peso que o presidente pode ter nesta eleição.</FONT></P></p>
 <p><P><FONT face=Verdana>Para o eleitor já não era muito dif?cil identificar um candidato de Lula em Pernambuco. Aliás, ele não tem um, tem dois.</FONT></P></p>
 <p><P><FONT face=Verdana>Humberto e Eduardo usam e abusam da relação com o petista para se fortalecer no Estado.</FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>O programa da União está promovendo a desapropriação de Lula.</FONT></P></p>
 <p><P><FONT face=Verdana>----------------------------------------------------</FONT></P></p>
 <p><P><FONT face=Verdana>Para entender o assunto, leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/15/not_746.php\" target=_blank>aqui</A></EM></STRONG> o artigo do cientista pol?tico Túlio Velho Barreto, colaborador do Blog.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

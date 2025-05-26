@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <B>Louise Caroline*</B><BR>Vice-presidente da UNE</FONT></P></p>
 <p><P><FONT face=Verdana>Há cerca de um mês e meio, estamos compartilhando algumas idéias neste espaço democrático aberto pelo jornalista César Rocha através do Blog das Eleições. Foram seis artigos, se não me falha a memória atordoada nessas últimas horas antes do dia 1º, e, com este, encerramos o combinado de \"As Meninas do Blog\" escreverem até o final do primeiro turno. </FONT></P></p>
 <p><P align=justify><FONT face=Verdana>Sendo assim, é importante registrar que aqui escreve não uma jornalista observadora do processo eleitoral. E sim uma militante, de movimento social, de partido pol?tico, com um lado bem definido no embate e com as vinte quatro horas do dia, todos esses dias, dedicadas à eleição de meus candidatos. Digo isso para compartilhar que a cada semana ficou mais dif?cil manter a publicação dos artigos. Mas a obstinação por fazê-los, mesmo na madrugada, mesmo na estrada, sustenta-se na vitória democrática que é garantir que o outro lado do processo eleitoral, o lado militante, o lado da juventude, das mulheres, dos estudantes, possa também estar presente nos c?rculos que, tantas vezes, são habitados apenas pelos representantes, os engravatados ou os diplomados.</FONT></P></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P align=justify><FONT face=Verdana>Sei que a história da luta da esquerda, da fundação do PT, da resistência dos movimentos sociais, da chegada de Lula à Presidência é conhecida de todos. Mas não há melhor momento para reafirmá-la do que a quatro dias das eleições gerais. Porque essa é a hora de se mover pelo mais importante. De sair de casa com a convicção do que representamos, das nossas esperanças, dos nossos sonhos. </FONT></P></p>
 <p><P align=justify><FONT face=Verdana>Daqui até domingo vamos pensar nas boas coisas, nas mudanças, nas pessoas. Vamos eleger Lula e Luciano Siqueira, chegar bem com Humberto no segundo turno e ampliar nossa representação no parlamento. Única e exclusivamente porque nossa sina é mudar o mundo.</FONT></P></p>
 <p><P><B><I><FONT face=Verdana><BR>*Louise Caroline</FONT></B><FONT face=Verdana>, 23, é estudante de direito, vice-presidente da União Nacional dos Estudantes (UNE) e militante do PT.</FONT></P></I> </p>
-{\% endraw %}
+{% endraw %}

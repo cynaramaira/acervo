@@ -1,0 +1,39 @@
+---
+id: 12403863
+date: "2009-07-22T09:33:00Z"
+last_modified_at: null
+tags:
+  - "gatos"
+  - "louro-jose"
+  - "senado"
+categories:
+  - "noticias"
+title: "Grava\u00e7\u00f5es ligam Jos\u00e9 Sarney a Agaciel e atos secretos no Senado"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Deu no Estad&atilde;o</p></p>
+<p><p>Uma sequencia de di&aacute;logos gravados pela Pol&iacute;cia Federal com autoriza&ccedil;&atilde;o judicial, durante a Opera&ccedil;&atilde;o Boi Barrica, revela a pr&aacute;tica de nepotismo expl&iacute;cito pela fam&iacute;lia Sarney no Senado e amarra o presidente da Casa, Jos&eacute; Sarney (PMDB-AP), ao ex-diretor-geral Agaciel Maia na presta&ccedil;&atilde;o de favores concedidos por meio de atos secretos. Em uma das conversas, o empres&aacute;rio Fernando Sarney, filho do parlamentar, diz &agrave; filha, Maria Beatriz Sarney, que mandou Agaciel reservar uma vaga para o namorado dela, Henrique Dias Bernardes.<br /></p>
+<p>&nbsp; <br /></p>
+<p><a href="https://jc.uol.com.br/canal/cotidiano/politica/noticia/2009/07/22/gravacoes-ligam-sarney-a-agaciel-e-a-atos-secretos-194162.php">Ou&ccedil;a os di&aacute;logos que ligam Sarney a atos secretos e a favores de Agaciel</a>.</p></p>
+<p><p>Em conversa com o filho, alvo da investiga&ccedil;&atilde;o, Sarney caiu na intercepta&ccedil;&atilde;o. Segundo a grava&ccedil;&atilde;o, o senador se compromete a falar com Agaciel para sacramentar a nomea&ccedil;&atilde;o. O namorado da neta foi nomeado oito dias depois, por ato secreto.</p></p>
+<p><p>Segundo a PF, a mobiliza&ccedil;&atilde;o da fam&iacute;lia come&ccedil;a na tarde de 30 de mar&ccedil;o de 2008, quando a neta do senador liga para o pai, indagando se n&atilde;o dava &quot;pro Henrique (seu namorado) entrar na vaga&quot;. Bernardo Brand&atilde;o Cavalcanti Gomes, irm&atilde;o de Bia por parte de m&atilde;e, acabara de pedir demiss&atilde;o do Senado, onde estava desde 2003. &quot;Podemos trabalhar isso, sim&quot;, respondeu Fernando &agrave; filha.</p></p>
+<p><p>J&aacute; na primeira conversa, Fernando demonstra conhecer o caminho para efetivar a nomea&ccedil;&atilde;o. &quot;Amanh&atilde; de manh&atilde; cedo tu tem que me ligar, pra eu falar com Agaciel&quot;, diz. Referia-se a Agaciel Maia, o ent&atilde;o todo-poderoso diretor-geral do Senado, al&ccedil;ado ao posto em 1995 pelas m&atilde;os de Jos&eacute; Sarney, em sua primeira passagem pela presid&ecirc;ncia da Casa.</p></p>
+<p><p>No di&aacute;logo, pai e filha tratam da vaga como se fosse propriedade da fam&iacute;lia. Fernando cumpre o prometido. No dia seguinte, diz: &quot;J&aacute; falei com o Agaciel. Pe&ccedil;a ao Bernardo pra procurar o Agaciel.&quot; E passa a relatar a conversa com o diretor-geral. &quot;Eu disse: mas pelo menos, &ocirc; Agaciel, segura a vaga.&quot;</p></p>
+<p><p>Segundo Fernando, Agaciel lhe pediu que conversasse sobre o assunto com Sarney, porque a nomea&ccedil;&atilde;o dependia, formalmente, da chancela de Garibaldi Alves (PMDB-RN), &agrave; &eacute;poca presidente do Senado. &quot;Eu vou falar com o papai ou mesmo com o Garibaldi amanh&atilde; a&iacute; em Bras&iacute;lia, quando eu for, amanh&atilde; ou depois, pessoalmente, porque &eacute; o &uacute;nico jeito de resolver.&quot; Fernando finaliza o telefonema dando uma orienta&ccedil;&atilde;o &agrave; filha - ao pedir para levarem a Agaciel o curr&iacute;culo do namorado de Bia, ele pede para informar: &quot;&Oacute;, a pessoa que o Fernando quer botar &eacute; essa aqui.&quot;</p></p>
+<p><p>Foram quatro dias de troca de telefonemas at&eacute; o assunto ser resolvido. No terceiro dia, Bia liga para Fernando. Diz que o irm&atilde;o, de sa&iacute;da do Senado, j&aacute; tinha ido at&eacute; Agaciel, conforme orienta&ccedil;&atilde;o do pai. O ex-diretor n&atilde;o ficara com o curr&iacute;culo do namorado, repetindo o discurso de que era preciso, primeiro, autoriza&ccedil;&atilde;o de Garibaldi.</p></p>
+<p><p>SARNEY EM CENA</p></p>
+<p><p>Fernando recorre, ent&atilde;o, a um atalho: &quot;Vai l&aacute; em casa hoje &agrave; noitinha, e entrega pro ajudante de ordem do seu av&ocirc;, ou o Picollo ou o Alu&iacute;sio, o curr&iacute;culo do Henrique&quot;, orienta. A neta entende que era preciso de uma m&atilde;ozinha do av&ocirc;.</p></p>
+<p><p>Ainda naquele dia, ap&oacute;s a visita &agrave; casa do av&ocirc; para levar o curr&iacute;culo, Bia telefona novamente para o pai. &quot;Falei com vov&ocirc;&quot;, diz. Em seguida, relata ao pai que Sarney mostrara contrariedade por n&atilde;o ter sido avisado com anteced&ecirc;ncia sobre a demiss&atilde;o de Bernardo: &quot;Ele falou assim: Ah, voc&ecirc; tinha que ter falado antes pra eu j&aacute; agilizar.&quot;</p></p>
+<p><p>No dia seguinte, 2 de abril de 2008, quarta-feira, Fernando pega o telefone e liga para um dos ajudantes de ordem de Sarney, Alu&iacute;sio Mendes Filho, e explica a situa&ccedil;&atilde;o. Ele queria que o pai desse a ordem a Agaciel para efetivar a nomea&ccedil;&atilde;o.</p></p>
+<p><p>A explica&ccedil;&atilde;o de Fernando &eacute; o resumo de uma confiss&atilde;o do nepotismo: &quot;O irm&atilde;o da Bia, quando papai era presidente do Senado, eu arrumei um emprego pra ele l&aacute;. Ele agora t&aacute; saindo e eu liguei pro Agaciel pra ver a possibilidade de botar o namorado da Bia l&aacute;, porque me ajuda, viu, &eacute; uma forma e tal de dar uma for&ccedil;a pra mim. E o irm&atilde;o t&aacute; saindo, &eacute; uma vaga que podia ser nossa.&quot; No fim, ele diz o que faltava para a nomea&ccedil;&atilde;o: &quot;Uma liga&ccedil;&atilde;o de papai pro Agaciel.&quot;</p></p>
+<p><p>Menos de uma hora depois, o pr&oacute;prio Sarney liga para o filho. &quot;Olha, voc&ecirc; n&atilde;o tinha me falado o neg&oacute;cio da Bia&quot;, protesta. Na vis&atilde;o do senador, a demiss&atilde;o n&atilde;o deveria ter sido solicitada at&eacute; que a nomea&ccedil;&atilde;o do namorado de Bia estivesse resolvida. &quot;Mas ele (Bernardo) entrou logo com um pedido de demiss&atilde;o&quot;, reclama. Sarney pergunta: &quot;J&aacute; falou com Agaciel&#63;&quot; Recebe uma resposta afirmativa e promete interceder. &quot;T&aacute; bom. Eu vou falar com ele.&quot;</p></p>
+<p><p>NOMEA&Ccedil;&Atilde;O</p></p>
+<p><p>A conversa entre pai e filho se deu &agrave;s 10h32 de 2 de abril, segundo a PF. No dia 10 do mesmo m&ecirc;s, foi assinado o ato que nomeou Henrique, namorado de Bia, para assessor parlamentar 3, com sal&aacute;rio de R$ 2,7 mil.</p></p>
+<p><p>Os di&aacute;logos foram captados no curso da Opera&ccedil;&atilde;o Boi Barrica, rebatizada pela Pol&iacute;cia Federal de Opera&ccedil;&atilde;o Faktor depois de reclama&ccedil;&otilde;es do conjunto folcl&oacute;rico maranhense que inspirou o nome da a&ccedil;&atilde;o. O grupo de boi-bumb&aacute; Boizinho Barrica tem os Sarney como padrinhos.</p></p>
+<p><p>A opera&ccedil;&atilde;o, iniciada h&aacute; quase tr&ecirc;s anos para investigar neg&oacute;cios envolvendo empresas da fam&iacute;lia no Maranh&atilde;o, acabou por esbarrar em suspeitas de corrup&ccedil;&atilde;o em &oacute;rg&atilde;os do governo federal comandados por apadrinhados de Sarney.</p></p>
+<p><p>O caso da nomea&ccedil;&atilde;o do namorado da neta de Sarney n&atilde;o &eacute; &uacute;nico. Desde que o Estado revelou, em junho, a exist&ecirc;ncia de centenas de atos editados secretamente pelo Senado para esconder nomea&ccedil;&otilde;es de parentes de senadores e outras decis&otilde;es impopulares, apareceram v&aacute;rios familiares e agregados do presidente do Senado pendurados na folha de pagamento da Casa. A lista inclui, por exemplo, irm&atilde;o, cunhada, sobrinhas e neto de Sarney.</p> </p>
+{% endraw %}

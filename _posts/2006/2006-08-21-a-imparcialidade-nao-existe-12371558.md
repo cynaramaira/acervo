@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O <B>Blog</B> passa a contar, a partir de hoje, com artigos semanais do premiado jornalista <STRONG>Inácio França</STRONG>, 37, consultor de comunicação do UNICEF para os estados de Alagoas, Para?ba e Pernambuco.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Inácio</STRONG> escreverá aqui sempre às segundas e, principalmente, sobre a relação entre m?dia e pol?tica.</FONT></P></p>
 <p><P><FONT face=Verdana>Ex-secretário de Comunicação da Prefeitura de Olinda, durante a primeira gestão de Luciana Santos (PCdoB), <STRONG>Inácio França</STRONG> já exerceu a função de repórter no Diário de São Paulo (ex-Diário Popular); em O Globo (sucursais de São Paulo e Recife); e no Diario de Pernambuco. Conquistou prêmios importantes como o Vladimir Herzog de Jornalismo e Direitos Humanos (nacional) e o Cristina Tavares (local).</FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Atitudes para aplaudir de pé.</FONT></P></p>
 <p><P><FONT face=Verdana>A partir do instante em que publicaram tais editoriais, os ve?culos deixaram claro para todos que não estavam dispostos a enganar ninguém. Seus leitores ficaram cientes que as reportagens, os artigos, os comentários dos colunistas ou as notinhas das seções da Carta ou do velho Estadão não foram publicadas gratuitamente, mas, sim, sob o aval de uma linha editorial transparente.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/21/not_895.php\">aqui</A></EM></STRONG> o artigo completo ou na seção artigos, na coluna ao lado.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

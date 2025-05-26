@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=1></p>
 <p><P><FONT face=Verdana size=2>Era tudo o que o governador-candidato Mendonça Filho (PFL) queria. Deixar exatamente para depois da eleição um conflito que poderia gerar imagens de confronto entre a PM e os sem-terra:</FONT></P></p>
 <p><P><FONT face=Verdana size=2>Do <STRONG>Jornal do Commercio</STRONG></FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana size=2>\"A decïsão de suspender o despacho foi a mais sensata poss?vel. Não havia necessidade de retirar as fam?lias se está havendo uma negociação entre a União (através do Instituto de Colonização e Reforma Agrária - Incra) e os donos das terras (Grupo Votorantim). É preciso esperar mais um pouco, porque as fam?lias já estão há dois anos no Engenho\", elogiou Francisco Sales. </FONT></P></p>
 <p><P></FONT><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/09/index.php#609\" target=_blank>aqui</A> </EM></STRONG>o que o <STRONG>Blog</STRONG> publicou sobre o assunto.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Embora negue que o PSB esteja negociando cargos no segundo Governo Lula, o l?der do partido na Câmara, Beto Albuquerque (RS) espera que a legenda tenha o \"reconhecimento à altura do que representa\". </FONT></P></p>
 <p><P><FONT face=Verdana>O socialista esteve, na tarde de hoje,&nbsp;no Palácio do Planalto, onde confirmou uma reunião com o presidente Lula (PT), na próxima terça-feira. </FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"Ciro tem dito reiteradamente que não quer ser ministro. O projeto dele é 2010. Então para ele é mais interessante que ele fique livre de amarras de um cargo\", destacou Beto Albuquerque.</FONT></P></p>
 <p><P><FONT face=Verdana>Na lista de ministeriáveis de Lula, o l?der do PSB na Câmara colocou o nome dele próprio, do deputado federal e senador eleito Renato Casagrande, do Esp?rito Santo, e do deputado federal Alexandre Cardoso, do Rio de Janeiro. \"Primeiro Lula diz o que quer de nós. A partir da? vamos ver quem se encaixa, quem tem o perfil (para o cargo)\", explicou Beto.</FONT></P></p>
 <p><P><FONT face=Verdana>Atualmente, o PSB responde apenas pelo Ministério da Ciência e Tecnologia, com Sérgio Resende, já que perdeu o ministério da Integração Nacional, com a sa?da de Ciro Gomes para disputar a eleição para a Câmara dos Deputados.</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

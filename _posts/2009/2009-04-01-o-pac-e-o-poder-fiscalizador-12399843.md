@@ -1,0 +1,30 @@
+---
+id: 12399843
+date: "2009-04-01T21:15:53Z"
+last_modified_at: null
+tags:
+  - "poderosa"
+categories:
+  - "noticias"
+title: "O PAC e o poder fiscalizador"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Andr&eacute; de Paula</p></p>
+<p><p>&ldquo;Qualquer poder sem fiscaliza&ccedil;&atilde;o enlouquece&rdquo;. Esta frase &eacute; de autoria de Alain, pseud&ocirc;nimo do livre-pensador franc&ecirc;s &Eacute;mile-Auguste Chartier (1868-1951), que desdobrava o seu racioc&iacute;nio, indagando: &ldquo;Onde est&aacute;, pois, a democracia, sen&atilde;o naquele terceiro poder que a ci&ecirc;ncia pol&iacute;tica n&atilde;o definiu e que eu chamo a fiscaliza&ccedil;&atilde;o&#63;&rdquo; E definia a f&oacute;rmula simples de fiscaliza&ccedil;&atilde;o como a permanente vigil&acirc;ncia &ldquo;do eleitor sobre o eleito, do eleito sobre o ministro&rdquo;, para arrematar com o conceito de &ldquo;bom deputado&rdquo; como &ldquo;aquele que amea&ccedil;a, n&atilde;o o que fere, mas o que obriga o ministro a trabalhar, e n&atilde;o o que o demite. Esta arte de fazer estalar o chicote define o partido do futuro, a que chamarei partido de oposi&ccedil;&atilde;o governamental&rdquo;.</p></p>
+<p><p>O referido pensador antecipava uma das faces da democracia moderna que &eacute; a democracia de controle exercida pelos representantes eleitos no &acirc;mbito da democracia representativa e pela cidadania ativa por meio dos m&uacute;ltiplos meios de responsabiliza&ccedil;&atilde;o e presta&ccedil;&atilde;o de contas, mecanismos que d&atilde;o suporte &agrave;s atividades de vigiar e denunciar aqueles que periodicamente assumem o poder e afetam o destino das pessoas.</p></p>
+<p><p>Com efeito, estas breves considera&ccedil;&otilde;es recha&ccedil;am a an&aacute;lise rasa de setores da m&iacute;dia que, ora criticam a ina&ccedil;&atilde;o dos partidos de oposi&ccedil;&atilde;o ou, quando eles agem, confundem a leg&iacute;tima a&ccedil;&atilde;o fiscalizadora com marketing. De outra parte, o inc&ocirc;modo revelado pelos atuais ocupantes do poder com a oposi&ccedil;&atilde;o padece de um surto de amn&eacute;sia em rela&ccedil;&atilde;o ao espet&aacute;culo deprimente dos que, hoje no governo, entoaram um &ldquo;fora FHC&rdquo; ou que na porta dos Institutos de Medicina Legal, alheios &agrave;s dores das fam&iacute;lias, contavam os mortos para mostrar a inefici&ecirc;ncia da seguran&ccedil;a p&uacute;blica.</p></p>
+<p><p>Ora, &ldquo;A caravana da transpar&ecirc;ncia, fiscalizando o PAC&rdquo;, iniciada em Pernambuco, no dia 30 de mar&ccedil;o, pelo Democratas, &eacute; uma a&ccedil;&atilde;o pol&iacute;tica que faz parte das regras do jogo democr&aacute;tico. E mais: exerce a vigil&acirc;ncia e o controle sobre o que pertence ao povo, o dinheiro p&uacute;blico; cobra e pressiona para que as promessas de governo sejam cumpridas em benef&iacute;cio da coletividade; defende que o desenvolvimento econ&ocirc;mico seja acelerado para o bem de todos e responsabiliza, com fundamento, os que transformam a a&ccedil;&atilde;o de governo em propaganda eleitoral antecipada da candidata-m&atilde;e do PAC.</p></p>
+<p><p>Acelerar o desenvolvimento &eacute; o que o pa&iacute;s precisa e o que o povo deseja. Este &eacute;, ou deveria ser, o compromisso do PAC, tendo como objetivo realizar investimentos estruturadores. No entanto, quando se analisa o PAC tudo &eacute; grandioso, nebuloso e ineficaz porque mistura, repita-se, o que &eacute; estruturador com o que &eacute; eleitoreiro.</p></p>
+<p><p>O PAC Brasil prev&ecirc; recursos na ordem de 646 bilh&otilde;es de reais; 90,5% est&atilde;o fora do Or&ccedil;amento Geral da Uni&atilde;o (OGU, 2007-2009) e do controle do SIAFI; de obras pendentes ou n&atilde;o-iniciadas, existem 17,3 bilh&otilde;es de reais de &ldquo;restos a pagar&rdquo; (2007-2008).</p></p>
+<p><p>O PAC &eacute; uma salada: cabe tudo. Desde a refinaria Abreu e Lima (que a esta altura n&atilde;o se sabe o valor exato) &agrave; readequa&ccedil;&atilde;o da VIA DE ACESSO &Agrave; GRANJA DO TORTO, passando por dota&ccedil;&otilde;es de Assist&ecirc;ncia T&eacute;cnica a Munic&iacute;pios no valor de 20 mil reais.</p></p>
+<p><p>Porque cabe tudo, o PAC Pernambuco contempla 695 a&ccedil;&otilde;es com valor inferior a hum milh&atilde;o de reais; apenas 77 projetos disp&otilde;em de dota&ccedil;&otilde;es or&ccedil;ament&aacute;rias espec&iacute;ficas e padecem de significativo atraso na execu&ccedil;&atilde;o.</p></p>
+<p><p>Observem os &ldquo;Dez Casos do PAC em Pernambuco&rdquo;: est&atilde;o atrasados a Refinaria Abreu e Lima, a Transposi&ccedil;&atilde;o do Rio S&atilde;o Francisco, a Ferrovia Transnordestina, a BR-101, Metr&ocirc; Linha Sul, Via Mangue, urbaniza&ccedil;&atilde;o do canal Jord&atilde;o/Maria Irene, BR-104, paralisado, o Projeto Irriga&ccedil;&atilde;o do Pontal e, para confirmar a regra, com o cronograma em dia, o Sistema Pirapama&ndash;Adutora .</p></p>
+<p><p>Mais grave do que o atraso, &eacute; confundir o que &eacute; estruturador para acelerar o crescimento com o vi&eacute;s eleitoreiro que se manifesta em tr&ecirc;s momentos: o palanque-m&oacute;vel que percorre o pa&iacute;s; a n&atilde;o transpar&ecirc;ncia dos dados dispon&iacute;veis que impedem o conhecimento preciso do andamento dos projetos; e, por fim, a propaganda enganosa gerada pela publicidade institucional e pela produ&ccedil;&atilde;o de fact&oacute;ides que criam no imagin&aacute;rio popular a sensa&ccedil;&atilde;o do real quando tudo n&atilde;o passa de fantasia virtual.</p></p>
+<p><p>O Governo Federal que &eacute; o campe&atilde;o de lan&ccedil;amento de pedras fundamentais perdeu a oportunidade hist&oacute;rica lan&ccedil;ar a pedra fundamental da acelera&ccedil;&atilde;o do crescimento, aproveitando os bons ventos da economia internacional e a solidez dos fundamentos econ&ocirc;micos, herdada de governos anteriores.</p></p>
+<p><p>PS: Andr&eacute; de Paula &eacute; Deputado Federal / DEM - L&iacute;der da Minoria na C&acirc;mara dos Deputados<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

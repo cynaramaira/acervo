@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Acabei de postar na seção Artigos, na coluna ao lado, o artigo semanal de Louise Caroline, 23, vice-presidente da União Nacional dos Estudantes (UNE)&nbsp;e colaboradora freqüente do Blog. Abaixo, alguns trechos do texto.</FONT></P></p>
 <p><P><FONT face=Verdana>Boa leitura.</FONT></P></p>
 <p><P><FONT face=Verdana>--------------------------------</FONT></P></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P>Perceber que a juventude representa uma fatia muito grande do eleitorado e que suas demandas no campo das pol?ticas públicas são significativas é fácil. Os jovens representam 40% dos votantes no Brasil, sendo que, no nordeste, atinge o ?ndice de 46%. O número de jovens de 16 e 17 anos, (cujo voto é facultativo), que tirou o t?tulo para as eleições de 1º de Outubro é recorde: serão mais de três milhões de adolescentes, um milhão a mais que em 2002. Um aumento de 45%. </P></p>
 <p><P align=justify></FONT><FONT</p>
 <p> face=Verdana>Leia&nbsp;<STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/09/20/not_1605.php\">aqui</A></EM></STRONG> o artigo completo.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

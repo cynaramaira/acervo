@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P></p>
 <p><P><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\"><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P><o:p><FONT face=\"Times New Roman\" size=3><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma; mso-bidi-font-weight: bold\">O candidato do PT ao Governo, derrotado no 1º turno, Humberto Costa, não quer nem ouvir falar em participação num eventual governo de Eduardo Campos (PSB). Pelo menos não agora.<o:p></o:p></SPAN></p>
 <p><P></P></p>
@@ -37,4 +37,4 @@ imagem: null
 <p><P><B><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\"><o:p></o:p></SPAN></B></P></p>
 <p><P><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma; mso-bidi-font-weight: bold\">Humberto Costa gostou do debate deste domingo, promovido pela TV Jornal. Elogiou a postura dos candidatos e achou que houve mais espaço para a discussão de propostas. <o:p></o:p></SPAN></P></p>
 <p><P><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma; mso-bidi-font-weight: bold\">\"Gostei do debate. Foi um n?vel melhor que o anterior. Desta vez, Mendonça veio bem menos agressivo e isso permitiu que o debate circulasse entre programa de governo e propostas. Eduardo estava bem, firme, seguro. Foi bem a contento pra gente\".</SPAN></FONT></o:p></P> </p>
-{\% endraw %}
+{% endraw %}

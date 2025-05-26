@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana><FONT size=2></p>
 <p><P>Resultados sobre as eleições em Pernambuco, divulgados agora há pouco no NETV, da&nbsp;Globo.</P></p>
 <p><P>Cenários de 2º</FONT></FONT><FONT face=Verdana> turno</FONT></P></p>
@@ -36,4 +36,4 @@ imagem: null
 <p> face=Verdana>Eduardo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 28%</FONT></P></p>
 <p><P><FONT face=Verdana>Brancos e nulos&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 15%</FONT></P></p>
 <p><P><FONT face=Verdana>Não sabe, não opinou&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13%</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

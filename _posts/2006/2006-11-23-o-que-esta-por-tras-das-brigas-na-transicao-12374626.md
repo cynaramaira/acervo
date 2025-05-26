@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>É muito mais do que um mero e chato bate-boca esse confronto entre as equipes de transição de Eduardo Campos (PSB) e Mendonça Filho (PFL), observado nos últimos dias.</FONT></P></p>
 <p><P><FONT face=Verdana>Há hoje uma luta para formar opiniões. E ela é fundamental para tornar mais ou menos eficaz, no futuro, o discurso da oposição ao governo Eduardo.</FONT></P></p>
 <p><P><FONT face=Verdana>Não são apenas rusgas, restos sentimentais de campanha, ressentimentos. Tem isso tudo também. Mas o confronto é de imagens.</FONT></P></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>Para investir nas áreas sociais e cumprir suas promessas, o novo governo terá que cortar recursos de várias áreas. Haverá um aperto geral para garantir investimentos em setores que demandam muito recurso, como Educação, Segurança e Saúde.</FONT></P></p>
 <p><P><FONT face=Verdana>O esforço feito até hoje pelos governos Jarbas/Mendonça é fenomenal, mas o equil?brio econômico-financeiro de Pernambuco ainda é frágil. Estamos muito próximos, por exemplo, do limite estabelecido pela Lei de Responsabilidade Fiscal para os gastos com funcionários (somando-se as contas do Executivo, Legislativo e Judiciário).</FONT></P></p>
 <p><P><FONT face=Verdana>Enfim, esse embate não é algo passageiro. Talvez tenhamos que conviver com ele ao longo dos próximos quatro anos.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

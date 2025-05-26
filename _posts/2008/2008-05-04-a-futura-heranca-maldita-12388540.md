@@ -1,0 +1,27 @@
+---
+id: 12388540
+date: "2008-05-04T10:34:00Z"
+last_modified_at: null
+tags:
+  - "heranca"
+categories:
+  - "noticias"
+title: "A futura heran\u00e7a maldita"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">Por Cesar Benjamim *</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Da Folha de S.Paulo, edi&ccedil;&atilde;o de 3/5/2008</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A economia brasileira n&atilde;o fez outra coisa, nas &uacute;ltimas d&eacute;cadas, a n&atilde;o ser adaptar-se aos ciclos do capital financeiro internacional. Na d&eacute;cada de 1970, absorvemos, sob a forma de d&iacute;vida, uma fra&ccedil;&atilde;o do excesso de liquidez provocado pelo ac&uacute;mulo dos petrod&oacute;lares. <br /></p>
+<p>Na d&eacute;cada de 1980, com o governo dos Estados Unidos enxugando essa liquidez, fomos convocados a remeter ao exterior um m&uacute;ltiplo do que hav&iacute;amos recebido; iniciamos um longo per&iacute;odo de crise. Na d&eacute;cada de 1990, quando o sistema financeiro retornou a uma posi&ccedil;&atilde;o emprestadora, fomos chamados a renegociar a &quot;d&iacute;vida velha&quot;, para voltar a receber recursos novamente dispon&iacute;veis. Gra&ccedil;as a eles, durante v&aacute;rios anos, sustentamos d&eacute;ficits em transa&ccedil;&otilde;es correntes, o verdadeiro lastro do Plano Real. Uma nova crise cambial, alguns anos depois, mostrou como tudo era fr&aacute;gil.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O problema estrutural da economia brasileira &eacute; sua condi&ccedil;&atilde;o de &quot;economia reflexa&quot;, que apenas se adapta a ciclos externos e, por isso, n&atilde;o constitui um projeto pr&oacute;prio de desenvolvimento. A express&atilde;o n&atilde;o &eacute; minha, mas de Eug&ecirc;nio Gudin, cunhada na d&eacute;cada de 1950. Aprofundamos essa condi&ccedil;&atilde;o ao nos inserir no processo de globaliza&ccedil;&atilde;o, principalmente, pelos fluxos financeiros, ao contr&aacute;rio das economias asi&aacute;ticas, que privilegiaram a inser&ccedil;&atilde;o pela produ&ccedil;&atilde;o e o com&eacute;rcio. Elas sempre selecionaram os investimentos que consideram desej&aacute;veis, aqueles que fortalecem as economias locais, e recusaram os indesej&aacute;veis, o endividamento irracional e predador, que prepara desequil&iacute;brios e crises. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">N&oacute;s nos atrelamos a capitais que mant&ecirc;m conosco v&iacute;nculos t&ecirc;nues, ligados a oportunidades de realizar bons neg&oacute;cios no curto prazo. Como o espa&ccedil;o de manobra desses capitais ultrapassa amplamente o espa&ccedil;o da sociedade nacional, perdemos a capacidade de controlar o nosso processo de desenvolvimento. A abertura financeira, iniciada por Collor e conclu&iacute;da por Lula, entregou a eles o nosso destino.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A primeira conseq&uuml;&ecirc;ncia &eacute; a fraca capacidade de nossa sociedade de disciplinar o impulso de acumula&ccedil;&atilde;o de capital, compatibilizando-o com o equacionamento da quest&atilde;o social e o fortalecimento da soberania nacional, em bases economicamente sustent&aacute;veis. A segunda conseq&uuml;&ecirc;ncia &eacute; o aprofundamento da tend&ecirc;ncia a realizar ajustes passivos aos ciclos internacionais. A conjuntura favor&aacute;vel dos &uacute;ltimos anos -um gigantesco &quot;choque externo positivo&quot;- tem servido para legitimar essa op&ccedil;&atilde;o.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A coliga&ccedil;&atilde;o rentista, que nos governa, est&aacute; em festa: para a Standard &amp; Poor\s, somos &quot;investment grade&quot;. Mais capital especulativo ficar&aacute; dispon&iacute;vel para opera&ccedil;&otilde;es de arbitragem. As empresas poder&atilde;o tomar mais recursos l&aacute; fora, a juros reais negativos, para aplic&aacute;-los nos pap&eacute;is mais rent&aacute;veis do mundo, remunerados pelo Estado brasileiro. <br /></p>
+<p>N&atilde;o importa em quanto aumentar&aacute; o nosso passivo externo l&iacute;quido - imenso, por&eacute;m discreto, pois n&atilde;o contabilizado na forma de uma d&iacute;vida tradicional. N&atilde;o importa que, com uma nova rodada de aprecia&ccedil;&atilde;o cambial, aprofunde-se a tend&ecirc;ncia ao desequil&iacute;brio em conta corrente e se consolide uma economia baseada em ind&uacute;strias maquiadoras e na produ&ccedil;&atilde;o de commodities, as atividades mais adaptadas a esse ambiente. N&atilde;o importa saber que uma revers&atilde;o do ciclo internacional nos impor&aacute; alt&iacute;ssimo pre&ccedil;o, como j&aacute; imp&ocirc;s no passado. Essas s&atilde;o quest&otilde;es do futuro, um tempo em que os especuladores de hoje n&atilde;o estar&atilde;o mais aqui.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Recebemos de presente uma ma&ccedil;&atilde; envenenada. Uma heran&ccedil;a maldita est&aacute; a caminho.&nbsp;</font></p></p>
+<p><p><font size=\"2\"><strong>* CESAR BENJAMIN</strong> , 53, editor da Editora Contraponto e doutor honoris causa da Universidade Bicenten&aacute;ria de Aragua (Venezuela), &eacute; autor de &quot;Bom Combate&quot; (Contraponto, 2006).</font></p> </p>
+{% endraw %}

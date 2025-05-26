@@ -1,0 +1,38 @@
+---
+id: 12386038
+date: "2008-02-12T08:10:00Z"
+last_modified_at: null
+tags:
+  - "carnaval"
+categories:
+  - "noticias"
+title: "Carnaval de aplausos"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Por Isaltino Nascimento</font></p></p>
+<p><p><font face=\"Verdana\">O ano de 2008 foi especial para o Carnaval de Pernambuco. N&atilde;o apenas pela sua beleza, magia, espontaneidade e riqueza de tradi&ccedil;&otilde;es, mas porque o foli&atilde;o percebeu de fato que houve menos viol&ecirc;ncia. Quem brincou a Festa de Momo sentiu que a pol&iacute;cia estava atenta nas ruas, de forma organizada, estrat&eacute;gica, operativa. </font></p></p>
+<p><p><font face=\"Verdana\">A atua&ccedil;&atilde;o da pol&iacute;cia, inclusive, foi alvo de aplausos estrondosos em diversos focos, onde foli&otilde;es demonstraram orgulho pela forma &aacute;gil e eficiente do trabalho executado. </font></p></p>
+<p><p><font face=\"Verdana\">Os n&uacute;meros divulgados pela Secretaria de Defesa Social, logo ap&oacute;s o encerramento da festa, referendaram o que a popula&ccedil;&atilde;o havia presenciado. Houve redu&ccedil;&atilde;o de 34% nos n&uacute;meros de homic&iacute;dios em rela&ccedil;&atilde;o ao mesmo per&iacute;odo do ano passado. Foram 88 assassinatos em 2007 contra 58 ocorridos neste ano. Em 2006 o n&uacute;mero de homic&iacute;dios no mesmo per&iacute;odo foi de 92.</font></p></p>
+<p><p><font face=\"Verdana\">Chamo a aten&ccedil;&atilde;o que a a&ccedil;&atilde;o policial vista no Carnaval n&atilde;o foi um fato isolado, mas o resultado de um trabalho que vem sendo executado com compet&ecirc;ncia pela pasta respons&aacute;vel pela seguran&ccedil;a p&uacute;blica no Estado. E &eacute; importante que todos fiquem atentos a este aspecto.</font></p></p>
+<p><p><font face=\"Verdana\">Como bem frisou o secret&aacute;rio de Defesa Social, Servilho Paiva, a redu&ccedil;&atilde;o nos n&uacute;meros de homic&iacute;dios durante o Carnaval n&atilde;o se deve a um &uacute;nico fator e, sim, a v&aacute;rios fatores. Vamos a eles:</font></p></p>
+<p><p><font face=\"Verdana\">Houve aumento no n&uacute;mero de policiais nas ruas, com a forma&ccedil;&atilde;o de mais de 800 novos soldados. O n&uacute;mero de viaturas tamb&eacute;m foi ampliado - hoje s&atilde;o 330.</font></p></p>
+<p><p><font face=\"Verdana\">Foi criada a Central de Monitoramento na SDS, com a instala&ccedil;&atilde;o de 50 c&acirc;meras, sendo 20 delas em Olinda e 30 no Recife. Essa central funcionou 24 horas, com operadores e policiais militares identificando atitudes suspeitas, vendas de drogas, e acionando imediatamente, via r&aacute;dio, policiais a p&eacute; ou em viaturas, que se encontravam estrategicamente localizados e agiam de maneira r&aacute;pida. O custo da Central foi de R$ 2,6 milh&otilde;es.</font></p></p>
+<p><p><font face=\"Verdana\">Melhor ainda &eacute; o que teremos em breve: o projeto prev&ecirc; a instala&ccedil;&atilde;o de mais 150 c&acirc;meras na &aacute;rea do 16&ordm; BPM - Recife. A licita&ccedil;&atilde;o para esse servi&ccedil;o j&aacute; est&aacute; em curso.</font></p></p>
+<p><p><font face=\"Verdana\">Outro fator a ser destacado: a SDS vem trabalhando desde o Carnaval do ano passado com um comit&ecirc; de grandes eventos, que planeja a forma de atua&ccedil;&atilde;o em todos os festejos realizados durante o ano no Estado. A experi&ecirc;ncia exitosa do Carnaval de 2007 foi ampliada este ano, possibilitando planejamento minucioso das a&ccedil;&otilde;es que foram postas em pr&aacute;tica durante a festa de 2008. </font></p></p>
+<p><p><font face=\"Verdana\">Desta forma, os envolvidos (Minist&eacute;rio P&uacute;blico, secret&aacute;rias de governo, prefeituras, empres&aacute;rios, Pol&iacute;cia Militar, Pol&iacute;cia Civil, Bombeiros Militares e outros &oacute;rg&atilde;os da SDS) realizaram diversas reuni&otilde;es ao longo do ano para a organiza&ccedil;&atilde;o do Carnaval 2008, principalmente para a a&ccedil;&atilde;o no Galo da Madrugada.</font></p></p>
+<p><p><font face=\"Verdana\">Al&eacute;m disso, foram instalados cont&ecirc;ineres em Olinda e Recife, em parceria com a Secretaria de Turismo, para desafogar as delegacias de plant&atilde;o, melhorando o atendimento ao p&uacute;blico. Outra grande iniciativa foi a instala&ccedil;&atilde;o do Juizado do Foli&atilde;o, em parceria com o Tribunal e Minist&eacute;rio P&uacute;blico, para o Galo da Madrugada.</font></p></p>
+<p><p><font face=\"Verdana\">Tamb&eacute;m houve monitoramento dos grandes corredores da cidade com viaturas, evitando a depreda&ccedil;&atilde;o de &ocirc;nibus e inibindo os assaltos.</font></p></p>
+<p><p><font face=\"Verdana\">O trabalho dos agentes de seguran&ccedil;a p&uacute;blica foi valorizado com aumento no valor das di&aacute;rias para os PMs. Os soldados receberam R$ 70 reais e oficiais, R$ 80. O que foi est&iacute;mulo para muitos profissionais se apresentarem espontaneamente para trabalhar no evento. </font></p></p>
+<p><p><font face=\"Verdana\">Sem falar do empenho dos comandantes de batalh&otilde;es, que foram pessoalmente &agrave;s ruas orientar suas tropas, dando efetividade e direcionamento estrat&eacute;gico ao policiamento de rua. </font></p></p>
+<p><p><font face=\"Verdana\">Vale destacar que o policiamento estava presente n&atilde;o apenas nos grandes focos de folia, mas tamb&eacute;m nos bairros, onde a visibilidade da m&iacute;dia n&atilde;o chega. A presen&ccedil;a policial tamb&eacute;m foi sentida nos espa&ccedil;os de veraneio e no Interior do Estado. </font></p></p>
+<p><p><font face=\"Verdana\">E n&atilde;o foi apenas a Seguran&ccedil;a P&uacute;blica que obteve bons resultados. Menos coletivos foram depredados no Carnaval de 2008. Neste ano foram registradas 741 avarias em coletivos, contra 965 do ano anterior. Assim, houve redu&ccedil;&atilde;o no valor do preju&iacute;zo causado pela depreda&ccedil;&atilde;o, calculado este ano em R$ 55.300,00 contra R$ 70.275,00 em 2007.</font></p></p>
+<p><p><font face=\"Verdana\">J&aacute; a Secretaria de Sa&uacute;de registrou uma redu&ccedil;&atilde;o de 12% no n&uacute;mero de atendimentos nas emerg&ecirc;ncias da Regi&atilde;o Metropolitana e do Interior, no per&iacute;odo das 19h da sexta-feira at&eacute; &agrave;s 7h da Quarta-feira de Cinzas. Foram 10.895 atendimentos, contra 12.376 do ano passado e 11.372 de 2006.</font></p></p>
+<p><p><font face=\"Verdana\">Tudo isso fez com que nosso Carnaval se destacasse ainda mais em sua multiculturalidade, afastando dos espa&ccedil;os de m&iacute;dia not&iacute;cias desagrad&aacute;veis. Abrindo visibilidade apenas para o lado bonito da festa, rica em seus mais variados aspectos. Assim, brilhamos no turismo, na imagem que mostramos para aqueles que vieram prestigiar os nossos passistas, maracatus, caboclinhos, bois, la ursas, caiporas, caretas, papangus, blocos l&iacute;ricos. Enfim, houve espa&ccedil;o para toda diversidade de ritmo e sons que faz do nosso Carnaval um dos maiores e melhores do mundo. </font></p></p>
+<p><p><font face=\"Verdana\">O que comprova que o investimento em seguran&ccedil;a p&uacute;blica executado pelo governo do Estado &eacute; de fato merecedor de aplausos. </font></p></p>
+<p><p><font face=\"Verdana\">PS: Isaltino Nascimento (</font><a href=\"https://www.isaltinopt.com.br\"><font face=\"Verdana\">www.isaltinopt.com.br</font></a><font face=\"Verdana\">), deputado estadual pelo PT e l&iacute;der do Governo na Assembl&eacute;ia Legislativa, escreve para o Blog todas &agrave;s ter&ccedil;as<br /></p>
+<p></font></p> </p>
+{% endraw %}

@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Inácio França*</STRONG><BR>Jornalista e consultor do UNICEF</FONT></P></p>
 <p><P><FONT face=Verdana>Ao emergir da ditadura militar, na segunda metade dos anos 80, as forças pol?ticas brasileiras passaram a atuar num cenário completamente diferente daquele que existia no momento da submersão, em 1964. Naquela época, as empresas de m?dia aceleravam o processo de consolidação que resultaria na atual onipresença.</FONT></P></p>
 <p><P><FONT face=Verdana>Antes do golpe, não havia nada parecido com a Globo. Sem contar os jornalões e revistas de variedades de circulação nacional. Instrumentos do poder e, ao mesmo tempo, atores pol?ticos e econômicos com interesses próprios, os ve?culos de comunciação imediatamente se transformaram também no cenário, no “lugar??? onde a pol?tica acontece.</FONT></P></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana>Isso não quer dizer que a m?dia não seja a ferramenta capaz de amplificar a discussão sobre o Brasil. O problema é que, com suas regras, não há qualquer possibilidade de aprofundá-la. A sociedade e os pol?ticos precisam assumir a responsabilidade de conceber e impor uma nova lógica que vá além do telejornal, além do entretenimento, além dos três minutos e da mediação do apresentador.</FONT></P></p>
 <p><P><FONT face=Verdana>Não dá para deixar tudo nas mãos de William Bonner e de S?lvio Santos. A indústria da m?dia e seus profissionais não têm mandato para determinar como a população deve discutir e refletir sobre seu destino. Isso cabe à sociedade civil e aos eleitos.</FONT></P></p>
 <p><P><FONT face=Verdana><EM><STRONG>*Inácio França</STRONG> é jornalista formado pela Universidade Católica de Pernambuco, em dezembro de 1990. Repórter de Pol?cia do Diário Popular (SP), atual Diário de São Paulo. Repórter de O Globo, sucursal de São Paulo. Repórter de O Globo, sucursal de Recife. Repórter-especial do Diário de Pernambuco. Secretário de Comunicação de Olinda, durante a primeira gestão de Luciana Santos (PCdoB). Atualmente, Consultor de Comunicação do UNICEF para os estados de Alagoas, Para?ba e Pernambuco. Como repórter, conquistou o Prêmio Vladimir Herzog de Jornalismo e Dieitos Humanos, Prêmio Cristina Tavares de Jornalismo.</EM></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

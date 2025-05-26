@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Quase tudo se repete e, com freqüência, as situações&nbsp;se invertem em disputas eleitorais.</FONT></P></p>
 <p><P><FONT face=Verdana>Na sucessão presidencial, a campanha de Lula iniciou uma estratégia do medo contra Alckmin, acusando-o de pretender privatizar o Banco do Brasil e uma série de outras estatais, além de acabar com o Bolsa Fam?lia.</FONT></P></p>
 <p><P><FONT face=Verdana>Na eleição estadual, é Mendonça Filho, aliado de Alckmin, quem toca o terror contra Eduardo, candidato de Lula, apontando-o como alguém que irá deixar os servidores sem salários e Pernambuco sem investimentos privados.</FONT></P></p>
@@ -48,4 +48,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>A de Eduardo seguirá pelo caminho inverso, do bom humor, do alto astral, da soma, do olhar para o futuro.</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>Agora é esperar os próximos lances e os resultados que cada programa trará. </EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>Campanha pol?tica tem vida própria, vai se construindo e se modificando a cada lance novo.</EM></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

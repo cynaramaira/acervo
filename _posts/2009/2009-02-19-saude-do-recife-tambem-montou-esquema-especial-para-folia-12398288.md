@@ -1,0 +1,26 @@
+---
+id: 12398288
+date: "2009-02-19T14:00:15Z"
+last_modified_at: null
+tags:
+  - "esquema-criminoso"
+  - "folia"
+  - "grupo-especial"
+  - "recife"
+categories:
+  - "noticias"
+title: "Sa\u00fade do Recife tamb\u00e9m montou esquema especial para folia"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>A Secretaria Municipal de Sa&uacute;de preparou um esquema para atender &agrave; popula&ccedil;&atilde;o e conscientizar os foli&otilde;es sobre o consumo de alimentos, &aacute;lcool, fumo e outras drogas, assegurando o bem-estar e diminuindo a vulnerabilidade ao HIV e demais doen&ccedil;as sexualmente transmiss&iacute;veis durante o Carnaval Multicultural 2009, organizado pela Prefeitura do Recife. Al&eacute;m da ampla estrutura da rede municipal, o p&uacute;blico contar&aacute; com o refor&ccedil;o de 800 profissionais, que trabalhar&atilde;o em regime de plant&atilde;o nos dias da festa (de 20 a 25), nas mais diversas fun&ccedil;&otilde;es.</p></p>
+<p><p>&quot;Os foli&otilde;es que pretendem aproveitar o Carnaval Multicultural da Prefeitura do Recife podem ficar tranq&uuml;ilos, pois vamos oferecer a mais completa assist&ecirc;ncia poss&iacute;vel. As a&ccedil;&otilde;es, em diferentes abordagens, tiveram in&iacute;cio antes mesmo do evento, e ser&atilde;o intensificadas durante a realiza&ccedil;&atilde;o da maior festa do munic&iacute;pio. Esperamos que a folia seja marcada pela anima&ccedil;&atilde;o, mas, havendo necessidade, a popula&ccedil;&atilde;o contar&aacute; com uma cobertura estruturada para contemplar os usu&aacute;rios de forma &aacute;gil, eficiente e segura&quot;, afirmou o secret&aacute;rio municipal de Sa&uacute;de, Gustavo Couto.</p></p>
+<p><p>J&aacute; na sexta-feira (20), a partir das 19h, dois postos de sa&uacute;de estar&atilde;o montados no Centro da cidade: um no Marco Zero (em frente ao Armaz&eacute;m 11) e outro na Pra&ccedil;a da Independ&ecirc;ncia (mais conhecida como Pra&ccedil;a do Diario). Especificamente no s&aacute;bado do Galo da Madrugada (21), haver&aacute; um refor&ccedil;o com mais duas unidades: na rua Floriano Peixoto (nas instala&ccedil;&otilde;es da Csurb) e na rua do Sol (ao lado dos Correios), que funcionar&atilde;o das 8h &agrave;s 20h do S&aacute;bado de Z&eacute; Pereira. Tamb&eacute;m exclusivamente no dia do desfile do clube de m&aacute;scaras, quatro ambul&acirc;ncias do Servi&ccedil;o de Atendimento M&oacute;vel de Urg&ecirc;ncia (Samu Recife) ficar&atilde;o de prontid&atilde;o nas pra&ccedil;as do Diario e S&eacute;rgio Loreto e ruas do Sol e Floriano Peixoto.</p></p>
+<p><p>O servi&ccedil;o de pronto-atendimento municipal ser&aacute; refor&ccedil;ado durante o Carnaval Multicultural conforme a especialidade m&eacute;dica. Na &aacute;rea cl&iacute;nica, o foli&atilde;o poder&aacute; procurar as policl&iacute;nicas Dr. Amaury Coutinho (Campina do Barreto), Professor Barros Lima (Casa Amarela), Professor Arnaldo Marques (Ibura) e Agamenon Magalh&atilde;es (Afogados), al&eacute;m do Hospital Oscar Coutinho (rede conveniada). Em pediatria, o atendimento poder&aacute; ser feito nas policl&iacute;nicas Amaury Coutinho, Barros Lima e Arnaldo Marques, nos hospitais pedi&aacute;tricos Helena Moura (Tamarineira) e Maria Cravo Gama (Afogados) e no Hospital Infantil Maria Lucinda (rede conveniada).</p></p>
+<p><p>Em traumato-ortopedia, para procedimentos que n&atilde;o exijam sutura ou anestesia, a refer&ecirc;ncia &eacute; para a Policl&iacute;nica Amaury Coutinho e o Hospital Oscar Coutinho. Em obstetr&iacute;cia, o encaminhamento &eacute; para a Maternidade Professor Bandeira Filho (Afogados), exclusivamente para casos de baixo risco, e as policl&iacute;nicas Barros Lima e Arnaldo Marques. Se a demanda for em sa&uacute;de bucal, a popula&ccedil;&atilde;o deve procurar o Servi&ccedil;o Odontol&oacute;gico de Urg&ecirc;ncia (SOU) da Prefeitura do Recife, com unidades instaladas nas policl&iacute;nicas Amaury Coutinho, Barros Lima, Agamenon Magalh&atilde;es e Arnaldo Marques. Durante toda a folia, a popula&ccedil;&atilde;o ainda poder&aacute; recorrer ao Samu Recife pelo telefone 192. Al&eacute;m das viaturas m&eacute;dicas de suporte b&aacute;sico e com UTI m&oacute;vel, estar&aacute; &agrave; disposi&ccedil;&atilde;o do p&uacute;blico a ambul&acirc;ncia a&eacute;rea (helic&oacute;ptero).</p></p>
+<p><p>O planejamento da Secretaria tamb&eacute;m envolve t&eacute;cnicos das vigil&acirc;ncias Sanit&aacute;ria, Epidemiol&oacute;gica e Ambiental e agentes de redu&ccedil;&atilde;o de danos do Programa Mais Vida na Folia. A mobiliza&ccedil;&atilde;o ainda inclui a mobiliza&ccedil;&atilde;o de equipes e arte-educadores da Coordena&ccedil;&atilde;o Municipal de DST/Aids, que contar&aacute; com um estande na Central do Carnaval, instalada no Terminal Mar&iacute;timo de Passageiros (Armaz&eacute;m 12 - Marco Zero).</p></p>
+<p><p>Como suporte &agrave;s a&ccedil;&otilde;es, haver&aacute; a entrega de material educativo, al&eacute;m de mais de um milh&atilde;o de preservativos masculinos e femininos, sach&ecirc;s de gel lubrificante, porta-documentos, bandanas, adesivos e garrafas descart&aacute;veis.</p> </p>
+{% endraw %}

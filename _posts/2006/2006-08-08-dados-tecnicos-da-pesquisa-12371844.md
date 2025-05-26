@@ -13,6 +13,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Foram entrevistadas 6.960 pessoas e a margem de erro é de dois pontos percentuais para mais&nbsp;ou para menos.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

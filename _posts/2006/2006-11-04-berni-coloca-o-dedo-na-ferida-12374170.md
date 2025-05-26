@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-FAMILY: Verdana; mso-bidi-font-family: Verdana\">Do colunista <STRONG>Inaldo Sampaio<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></STRONG></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-FAMILY: Verdana; mso-bidi-font-family: Verdana\">do Jornal do Commercio<o:p></o:p></SPAN></P></p>
 <p><P</p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-FAMILY: Verdana; mso-bidi-font-family: Verdana\">Vale também salientar que Mendonça foi alertado por muita gente quanto ao equ?voco do seu marketing pol?tico, mas não levou isso em consideração. Apostou tudo em Antonio Lavareda.</SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-FAMILY: Verdana; mso-bidi-font-family: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-FAMILY: Verdana; mso-bidi-font-family: Verdana\">Leia mais <EM><STRONG><A href=\"https://jc3.uol.com.br/jornal/2006/11/04/can_9.php\" target=_blank>aqui</A></STRONG></EM> (assinante Jc e UOL).</SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

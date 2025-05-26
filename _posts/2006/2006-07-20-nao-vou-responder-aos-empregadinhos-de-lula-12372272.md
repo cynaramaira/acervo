@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>A senadora Helo?sa Helena (P-SOL) esnobou os ataques que recebeu do ministro Tarso Genro, das Relações Institucionais. Após ver a ex-petista crescer nas pesquisas de intenção de voto de 6% para 10% (Datafolha), Genro questionou se a candidatura de Helo?sa era mesmo \"de esquerda\". \"Que candidatura de esquerda é essa que é contra pobre entrar na universidade? Que candidatura se apresenta como popular e é contra o Bolsa Fam?lia?\", questionou o ministro.</FONT></P></p>
 <p><P><FONT face=Verdana>\"Eu não vou responder aos empregadinhos-ministros do presidente Lula. Eu quero é ir para o debate com o patrão deles\", disparou a senadora, por telefone, de Fortaleza, em entrevista exclusiva a Cec?lia Ramos, repórter do Blog do JC.</FONT></P></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>Estou fazendo um esforço muito grande para ir para o segundo turno. E não tem segredo. É trabalhar, trabalhar, trabalhar. Ao contrário de um que tem o aerolula, o outro, jatinhos e helicópteros à disposição, a gente tem avião de carreira. Nós não conseguimos estar em muitos lugares ao mesmo tempo, mas vamos a todos os Estados. Não me interessa o número de votos que cada lugar tem, eu quero falar para as pessoas o nosso projeto. Não tenho medo de luta. Fui uma menina pobre do sertão do Alagoas e cheguei até aqui. </FONT></P><B></p>
 <p><P><FONT face=Verdana>Qual é a sua avaliação do governo Lula? </FONT></P></B></p>
 <p><P><FONT face=Verdana>O governo é a propaganda triunfalista do neoliberalismo. Lula é uma continuação piorada do governo anterior. E ainda copiou e aperfeiçoou o banditismo da elite pol?tica brasileira.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por <B>Cec?lia Ramos</B><BR>Repórter do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>Foi o que disse, há pouco, o ex-ministro da Saúde e candidato do PT derrotado ao governo de Pernambuco, </FONT><FONT face=Verdana>Humberto Costa (PT), ao ser questionado se aceitaria um convite do governador eleito Eduardo Campos (PSB) para ocupar uma secretaria. Ele concedeu entrevista&nbsp;a Rádio CBN Recife.</FONT></P></p>
@@ -32,4 +32,4 @@ imagem: null
 <p><P><FONT face=Verdana>Com a experiência de não ter sido um nome de \"consenso\" dentro do partido para disputar o governo, Humberto sentiu nas costas o peso de carregar sua candidatura sem o apoio total e irrestrito da maior liderança petista em Pernambuco, João Paulo. O prefeito abriu mão de disputar a \"vaga\" para o companheiro. </FONT></P></p>
 <p><P><FONT face=Verdana>\"Da próxima vez que eu me candidatar, que seja em nome do consenso\", avaliou Humberto, citando a dificuldade quando isso não ocorre. Na análise dele, sua candidatura poderia ter empolgado mais a militância e ter mobilizado mais o partido, caso contasse com uma \"unidade de fato\". </FONT></P></p>
 <p><P><FONT face=Verdana>\"Nós temos que ter o cuidado de construir uma unidade de fato, porque vamos ter uma eleição muito dura (2008)\", finalizou.</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -1,0 +1,34 @@
+---
+id: 12388820
+date: "2008-05-12T13:07:00Z"
+last_modified_at: null
+tags:
+  - "brasilia"
+  - "prefeitos"
+  - "reforma-tributaria"
+categories:
+  - "eleicoes"
+title: "Reforma Tribut\u00e1ria e a Marcha dos Prefeitos a Bras\u00edlia"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Por Edilson Silva<img height=\"160\" alt=\"\" width=\"130\" align=\"right\" src=\"https://www2.uol.com.br/JC/blogs/blogdejamildo/imagens/selo_recife2008.jpg\" /></font></p></p>
+<p><p><font face=\"Verdana\">Nos dias 15 a 17 de abril de 2008 aconteceu a XI Marcha a Bras&iacute;lia em Defesa dos Munic&iacute;pios. O evento anual re&uacute;ne milhares de prefeitos h&aacute; 11 edi&ccedil;&otilde;es. Nesta, estavam presentes representantes de mais de 4 mil munic&iacute;pios.</font></p></p>
+<p><p><font face=\"Verdana\">Como nas edi&ccedil;&otilde;es anteriores, esta &uacute;ltima tamb&eacute;m iniciou com reivindica&ccedil;&otilde;es e prioridades e aprovou ao final uma carta, refletindo os resultados concretos, que geralmente dizem respeito a miudezas, e tamb&eacute;m um conjunto robusto de inten&ccedil;&otilde;es e compromissos abstratos por parte do Governo Federal e Congresso Nacional, estes sobre temas menos mi&uacute;dos.</font></p></p>
+<p><p><font face=\"Verdana\">A impress&atilde;o que se tem &eacute; que os prefeitos v&atilde;o fingindo que s&atilde;o atendidos e que o presidente Lula e seu governo v&atilde;o fingindo que atendem &agrave;s reivindica&ccedil;&otilde;es. A Marcha em Defesa dos Munic&iacute;pios, tudo indica, virou a </font><font face=\"Verdana\">Marcha dos Prefeitos buscando espa&ccedil;o para tirar fotos com o presidente.</font></p></p>
+<p><p><font face=\"Verdana\">A XI Marcha a Bras&iacute;lia em Defesa dos Munic&iacute;pios, que deveria como m&iacute;nimo abrir seus trabalhos cobrando de Lula e seu governo os compromissos assumidos nas edi&ccedil;&otilde;es anteriores, tornou-se na verdade um palanque para bajula&ccedil;&otilde;es vergonhosas e injustific&aacute;veis ao governo federal.</font></p></p>
+<p><p><font face=\"Verdana\">O prefeito Jo&atilde;o Paulo, que participou da Marcha n&atilde;o s&oacute; como prefeito do Recife, mas como Presidente da Frente Nacional de Prefeitos, iniciou os trabalhos afirmando que nunca na hist&oacute;ria deste pa&iacute;s um Presidente da Rep&uacute;blica fez tanto pelos munic&iacute;pios. Aproveitou ainda a oportunidade para defender nacionalmente um terceiro mandato para Lula. Lament&aacute;vel.</font></p></p>
+<p><p><font face=\"Verdana\">Para piorar a situa&ccedil;&atilde;o, a carta aprovada pela XI Marcha afirma como acertado o diagn&oacute;stico feito para se chegar ao projeto de reforma tribut&aacute;ria feito pelo Executivo e como positiva a ess&ecirc;ncia da PEC (Projeto de Emenda </font><font face=\"Verdana\">Constitucional) 233/2008, que trata da Reforma Tribut&aacute;ria, e que foi enviada </font><font face=\"Verdana\">pelo Executivo ao Congresso Nacional em fevereiro &uacute;ltimo.</font></p></p>
+<p><p><font face=\"Verdana\">Pobre dos munic&iacute;pios e dos cidad&atilde;os que neles residem. A PEC 233/2008 mant&eacute;m intacta a estrutura tribut&aacute;ria injusta que vem sangrando a economia do pa&iacute;s, massacrando a classe m&eacute;dia e perpetuando um quadro imoral de forte concentra&ccedil;&atilde;o de renda em favor de uma minoria j&aacute; bastante favorecida.</font></p></p>
+<p><p><font face=\"Verdana\">A PEC 233 n&atilde;o altera de onde sai a maior parte dos tributos do pa&iacute;s - consumo e sal&aacute;rios, e nem altera quem consome parasitariamente estes tributos &ndash; grandes empresas e o sistema financeiro.</font></p></p>
+<p><p><font face=\"Verdana\">Enquanto em pa&iacute;ses como Estados Unidos, Fran&ccedil;a, Canad&aacute;, Jap&atilde;o, Reino Unido, Alemanha, dentre outros, os tributos sobre o consumo de bens e servi&ccedil;os s&atilde;o em m&eacute;dia 30% da carga tribut&aacute;ria total, no Brasil o consumo &eacute; respons&aacute;vel pelo dobro da carga, cerca de 60%.</font></p></p>
+<p><p><font face=\"Verdana\">A diferen&ccedil;a n&atilde;o poderia ser outra quando analisamos a tributa&ccedil;&atilde;o sobre a renda. Enquanto &quot;l&aacute; fora&quot; os tributos sobre a renda atingem em m&eacute;dia 46% da carga total, no Brasil est&aacute; em 26% (dados da Auditoria Cidad&atilde; da D&iacute;vida, publicados em relat&oacute;rios do economista Rodrigo Vieira &Aacute;vila, assessor da bancada do PSOL na C&acirc;mara dos Deputados).</font></p></p>
+<p><p><font face=\"Verdana\">Esta situa&ccedil;&atilde;o continua com a PEC 233/2008, que mant&eacute;m regras absurdas, como a isen&ccedil;&atilde;o de Imposto de Renda sobre a distribui&ccedil;&atilde;o de lucros de empresas aos seus s&oacute;cios; mant&eacute;m a imoral isen&ccedil;&atilde;o de impostos sobre exporta&ccedil;&otilde;es para empresas como a Vale do Rio Doce, que s&oacute; em 2007 lucrou R$ 20 bilh&otilde;es; mant&eacute;m a isen&ccedil;&atilde;o de Imposto de Renda aos especuladores estrangeiros que negociam com a d&iacute;vida interna brasileira; e ainda mant&eacute;m intacta as grandes </font><font face=\"Verdana\">fortunas, que continuam sem pagar impostos no Brasil. Alguma proposta para subir substancialmente a tabela do Imposto de Renda da Pessoa F&iacute;sica? Nem pensar!</font></p></p>
+<p><p><font face=\"Verdana\">Como pode esta reforma tribut&aacute;ria ser positiva para os munic&iacute;pios, como afirmou a Marcha? Talvez ela seja positiva para os prefeitos e seus partidos, como Jo&atilde;o Paulo e seu PT, para seus esquemas de poder, mas &eacute; p&eacute;ssima para a sociedade.</font></p></p>
+<p><p><font face=\"Verdana\">Desonerar a carga tribut&aacute;ria sobre os trabalhadores mais pobres e sobre as classes m&eacute;dias &eacute; permitir o aumento da capacidade de consumo interno do pa&iacute;s, dando condi&ccedil;&otilde;es de crescimento econ&ocirc;mico simultaneamente com desenvolvimento social real e sustent&aacute;vel, fato que tem rebatimento direto no fortalecimento da economia dos munic&iacute;pios e na melhoria da qualidade de vida de seus moradores.</font></p></p>
+<p><p><font face=\"Verdana\">O PSOL &eacute; contra esta reforma tribut&aacute;ria e a favor de uma outra reforma, justa, solid&aacute;ria, que premie o trabalho e tribute fortemente a especula&ccedil;&atilde;o e as grandes fortunas, operando sobre o princ&iacute;pio da progressividade.</font></p></p>
+<p><p><font face=\"Verdana\">PS: Presidente do PSOL/PE e pr&eacute;-candidato &agrave; prefeitura do Recife em 2008.</font></p> </p>
+{% endraw %}

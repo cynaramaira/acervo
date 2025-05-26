@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=1></p>
 <p><P><FONT face=Verdana size=2>É o que mostram os resultados da enquete que o <STRONG>Blog</STRONG> encerrou há pouco. Veja os números:</FONT></P></p>
 <p><P><FONT face=Verdana size=2><STRONG>Na sua opinião, quem parte na frente na disputa pelo governo de Pernambuco?</STRONG></FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana size=2>Também iniciamos uma nova enquete. É a seguinte:</FONT></P></FONT></p>
 <p><P><FONT face=Verdana><STRONG>Você acha que os debates na TV podem mudar os rumos da eleição em Pernambuco?</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Participe, dê sua opinião na coluna ao lado.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

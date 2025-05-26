@@ -14,6 +14,6 @@ chapeu: null
 autor: "jc"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Algu&eacute;m a? ouviu algo sobre Geraldo Alckmin (PSDB) no programa de Mendon&ccedil;a Filho (PFL). N&atilde;o ouvi nada. Fizeram como ontem, na propaganda de deputado estadual.</p>
-{\% endraw %}
+{% endraw %}

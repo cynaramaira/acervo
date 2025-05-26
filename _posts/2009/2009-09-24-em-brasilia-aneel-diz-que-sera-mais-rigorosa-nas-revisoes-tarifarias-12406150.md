@@ -1,0 +1,29 @@
+---
+id: 12406150
+date: "2009-09-24T19:35:00Z"
+last_modified_at: null
+tags:
+  - "aneel"
+  - "brasilia"
+  - "serasa"
+categories:
+  - "noticias"
+title: "Em Bras\u00edlia, Aneel diz que ser\u00e1 mais rigorosa nas revis\u00f5es tarif\u00e1rias"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Wellington Bahnemann, da Ag&ecirc;ncia Estado</p></p>
+<p><p>S&Atilde;O PAULO - Com a proximidade do fim do segundo ciclo de revis&atilde;o tarif&aacute;ria das distribuidoras, a Ag&ecirc;ncia Nacional de Energia El&eacute;trica (Aneel) j&aacute; inicia o debate para definir as metodologias que ir&atilde;o nortear o terceiro ciclo, previsto para ter in&iacute;cio em 2011. E o diretor-geral da Aneel, Nelson Hubner, j&aacute; manifestou que a ag&ecirc;ncia reguladora ser&aacute; muito mais rigorosa neste pr&oacute;ximo ciclo de revis&atilde;o, evitando distor&ccedil;&otilde;es que onerem a conta de luz dos consumidores. As novas regras devem ser definidas at&eacute; o final de 2010. Uma das novidades ser&aacute; a abertura de todos os ativos da base de remunera&ccedil;&atilde;o. &quot;Temos uma d&iacute;vida com a sociedade, porque existiram erros no c&aacute;lculo da base na primeira revis&atilde;o&quot;, disse Hubner, que participou de evento, em S&atilde;o Paulo, promovido pela Apimec-SP e a Abradee.</p></p>
+<p><p>De acordo com o regulador, h&aacute; uma percep&ccedil;&atilde;o na ag&ecirc;ncia de que algumas distribuidoras est&atilde;o com a base de remunera&ccedil;&atilde;o regulat&oacute;ria (BRR) superestimada - a BRR &eacute; um dos par&acirc;metros usados pela Aneel para fixar a tarifa. Esse fato levou a Aneel a fiscalizar algumas distribuidoras recentemente.</p></p>
+<p><p>Outra pr&aacute;tica que tem sido notada pela Aneel &eacute; uma manipula&ccedil;&atilde;o nas informa&ccedil;&otilde;es concedidas pelas distribuidoras. Como exemplo, Hubner cita que os custos de opera&ccedil;&atilde;o e manuten&ccedil;&atilde;o est&atilde;o sendo tratados pelas empresas como investimento. &quot;Algumas companhias est&atilde;o aumentando os investimentos e reduzindo os custos de opera&ccedil;&atilde;o e manuten&ccedil;&atilde;o. Para a Aneel, &eacute; muito dif&iacute;cil fiscalizar esse tipo de pr&aacute;tica&quot;, afirmou. Ao classificar a troca de um transformador como um investimento, a empresa amplia a sua BRR, o que tamb&eacute;m acaba elevando sua tarifa.</p></p>
+<p><p>De acordo com Hubner, as empresas ganham duas vezes com essa medida. Al&eacute;m de obter uma tarifa mais elevada por causa da maior base de ativos, as concession&aacute;rias ganham na empresa de refer&ecirc;ncia. Isso porque o custo de opera&ccedil;&atilde;o e manuten&ccedil;&atilde;o fica abaixo do par&acirc;metro reconhecido nas tarifas pela Aneel, capturando para si essa diferen&ccedil;a. &quot;Algumas empresas est&atilde;o com um custo operacional cont&aacute;bil baixo&quot;, afirmou Hubner. Com a reabertura da base, a ag&ecirc;ncia espera equacionar essa distor&ccedil;&atilde;o que afeta a conta de luz.</p></p>
+<p><p>Outro instrumento que visa tamb&eacute;m reduzir o problema &eacute; a aplica&ccedil;&atilde;o de uma metodologia de benchmarking. Segundo Hubner, esse mecanismo j&aacute; foi usado em algumas distribuidoras neste segundo ciclo de revis&atilde;o tarif&aacute;ria. Por&eacute;m, a quest&atilde;o n&atilde;o foi discutida abertamente com os agentes do setor. &quot;Essa metodologia n&atilde;o estava amadurecida. Mas no terceiro ciclo, teremos uma audi&ecirc;ncia p&uacute;blica espec&iacute;fica para discutir o benchmarking com o setor&quot;, disse.</p></p>
+<p><p>Na pr&aacute;tica, o benchmarking serve para analisar a consist&ecirc;ncia da empresa de refer&ecirc;ncia criada pela Aneel para cada concession&aacute;ria. Se a ag&ecirc;ncia reguladora concluir que h&aacute; problemas em uma determinada empresa de refer&ecirc;ncia, a autarquia reajusta as premissas, influenciando na tarifa final a ser repassada ao consumidor.</p></p>
+<p><p>Segundo o presidente da Associa&ccedil;&atilde;o Brasileira dos Distribuidores de Energia El&eacute;trica (Abradee), Luiz Carlos Guimar&atilde;es, o mecanismo &eacute; bem-vindo desde que a Aneel n&atilde;o estabele&ccedil;a benchmarks extremamente elevados que impe&ccedil;am as concession&aacute;rias de atingir as metas estabelecidas.</p></p>
+<p><p>Hubner tamb&eacute;m comentou que a Aneel ser&aacute; mais rigorosa na fiscaliza&ccedil;&atilde;o dos investimentos declarados pelas concession&aacute;rias. Segundo o regulador, a proje&ccedil;&atilde;o de aportes das empresas para o segundo ciclo de revis&atilde;o tarif&aacute;ria superou fortemente o hist&oacute;rico do setor. Em raz&atilde;o disso, o chamado o Fator X, que apura os ganhos de produtividade das empresas e os repassa aos consumidores, ficou pr&oacute;ximo a zero no ciclo tarif&aacute;rio atual - o Fator X &eacute; usado para abater o reajuste da Parcela B, que determina a rentabilidade das companhias.</p></p>
+<p><p>Para evitar que as empresas declarem investimentos mais elevados para reduzir o Fator X, Hubner afirmou que a metodologia a ser adotada no terceiro ciclo de revis&atilde;o tarif&aacute;ria prev&ecirc; que o indicador seja recalculado conforme os investimentos realizados - no modelo atual, o Fator X &eacute; fixo ao longo do ciclo tarif&aacute;rio, que dura quatro anos, independentemente do valor dos investimentos das concession&aacute;rias. Al&eacute;m disso, diretor da Aneel informou que, caso o aporte realizado no segundo ciclo for inferior ao declarado, a diferen&ccedil;a ser&aacute; incorporada como redutor da Parcela B das distribuidoras no terceiro ciclo de revis&atilde;o tarif&aacute;ria.</p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

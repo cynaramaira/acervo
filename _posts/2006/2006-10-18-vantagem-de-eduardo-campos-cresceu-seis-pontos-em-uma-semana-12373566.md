@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Eis os números completos da segunda rodada da pesquisa Ibope sobre as intenções de votos para governador de Pernambuco, neste segundo turno, divulgada há pouco no NETV 2ª Edição:</FONT></P><B></p>
 <p><P><FONT face=Verdana>Dados com votos totais, incluindo brancos, nulos e indecisos:</FONT></P></B></p>
 <p><P><FONT face=Verdana>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11/10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; hoje</FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>Mendonça Filho&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;39%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 36%<BR></FONT></P></p>
 <p><P><FONT face=Verdana>O Ibope ouviu 2002 eleitores em 83 munic?pios de Pernambuco entre os dias 15 e 17 deste mês.</FONT></P></p>
 <p><P><FONT face=Verdana>A margem de erro é de dois pontos percentuais para mais ou para menos.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>O presidente Lula (PT) marcou para quarta-feira (22) uma reunião com o presidente do PMDB, deputado Michel Temer (SP). Quer iniciar os entendimentos para estabelecer com o PMDB os termos de uma \"coalizão\" governamental. </FONT></P></p>
 <p><P><FONT face=Verdana>Temer recebeu o chamado presidencial hoje, quando o ministro Tarso Genro (Relações Institucionais) o telefonou a pedido do presidente da República. </FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>O senador eleito Jarbas Vasconcelos (PMDB) chega a Bras?lia na segunda-feira. Vai conhecer o seu gabinete - herdado de José Jorge (PFL) - e escolher o apartamento funcional onde vai residir.</FONT></P></p>
 <p><P><FONT face=Verdana>Jarbas já antecipou que o presidente não vai ter o \"PMDB todo\", se depender dele. O ex-governador não arredará o pé da oposição.</FONT></P></p>
 <p><P><FONT face=Verdana>Ele fica em Bras?lia até terça-feira, ou seja, volta ao Recife antes da reunião de Temer com Lula.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

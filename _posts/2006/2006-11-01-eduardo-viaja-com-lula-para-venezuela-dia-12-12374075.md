@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por <B>Sheila Borges<BR></B></FONT><FONT face=Verdana>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>Mesmo antes de tomar posse, o governador eleito de Pernambuco, Eduardo Campos (PSB), quer acompanhar de perto o processo de implantação da refinaria Abreu e Lima, que será instalada em uma parceria dos governos do Brasil e da Venezuela. </FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>O socialista aproveitou a oportunidade para defender a reconstrução da Sudene.</FONT></P></p>
 <p><P><FONT face=Verdana>\"(...) A&nbsp;guerra fiscal, apresentada por nossos adversários como único instrumento de pol?tica de desenvolvimento quebrou a solidariedade entre os nordestinos e nos enfraqueceu a todos. Chegou a hora de devolver ao Nordeste uma Sudene forte, com recursos para investir no desenvolvimento equilibrado da região\", acrescentou.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/11/01/can_9.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

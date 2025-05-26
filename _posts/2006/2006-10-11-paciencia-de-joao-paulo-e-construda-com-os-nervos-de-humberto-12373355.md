@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><SPAN style=\"FONT-FAMILY: Verdana\"><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p><FONT size=3></FONT></o:p></SPAN></P></p>
 <p><P><SPAN style=\"FONT-FAMILY: Verdana\">Sabe o que o prefeito do Recife, João Paulo (PT), fazia durante o debate entre os candidatos ao governo de Pernambuco promovido pela Globo, no 1º turno? </SPAN></P></p>
 <p><P><SPAN style=\"FONT-FAMILY: Verdana\">Jogava paciência no seu <I style=\"mso-bidi-font-style: normal\">palm top</I>.<o:p></o:p></SPAN></P></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\">5 - Em reuniões com diretores da Prefeitura do Recife e de órgãos públicos federais geridos por petistas em Pernambuco, João Paulo teria feito cr?ticas veladas não só à estratégia, mas ao próprio</p>
 <p> Humberto. Isso ocorreu por mais de uma vez e&nbsp;Humberto ficou sabendo;</SPAN></P></p>
 <p><P><SPAN style=\"COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\"><FONT size=3><FONT size=2>6 - João Paulo teria trabalhado não apenas contra a candidatura de Humberto, mas contra a de Dilson Peixoto, presidente estadual do PT e candidato derrotado a deputado estadual. Dentro do PT, Dilson é um dos pol?ticos mais próximos a Humberto. João Paulo pediu voto abertamente para João da Costa, o seu candidato a deputado estadual, inclusive indo a redutos eleitorais de Dilson.</FONT></FONT></SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

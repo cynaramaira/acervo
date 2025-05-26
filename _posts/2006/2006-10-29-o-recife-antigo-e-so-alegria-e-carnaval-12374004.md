@@ -13,6 +13,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana>Embalados pelas vitórias de Lula e de Eduardo, milhares de militantes tomaram o Recife Antigo e o Marco Zero para festa, festa e mais festa.</FONT> </p>
-{\% endraw %}
+{% endraw %}

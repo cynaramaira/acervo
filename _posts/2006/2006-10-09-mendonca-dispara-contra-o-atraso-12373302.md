@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Fab?ola Mendonça</STRONG><BR>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>Uma semana após o primeiro turno das eleições, o governador-candidato Mendonça Filho (PFL) escolheu a Região Metropolitana para fazer o primeiro grande evento de campanha do segundo turno.</FONT></P></p>
 <p><P><FONT face=Verdana>Ontem pela manhã, fez caminhada em Jardim Paulista Baixo, em Paulista, e, em seguida, uma carreata em Abreu e Lima. Nos dois munic?pios, Mendonça ganhou o primeiro turno com mais de 38% dos votos válidos. </FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p> a eleição de Mendonça governador. </FONT></P></p>
 <p><P><FONT face=Verdana>Ao atacar o adversário, Jarbas repetiu que encontrou Pernambuco “quebrado??? e que “o outro lado (Eduardo Campos) está macumunado com o que existe de pior em Pernambuco???.</FONT></P></p>
 <p><P><FONT face=Verdana>“Mendonça foi um vice honesto, tem as mãos limpas. Pernambuco tem que escolher entre o avanço e o recuo, o progresso e o atraso, o caminhar e o andar para trás???, discursou Jarbas.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -1,0 +1,27 @@
+---
+id: 12402470
+date: "2009-06-12T13:15:00Z"
+last_modified_at: null
+tags:
+  - "camara"
+  - "maioria"
+categories:
+  - "noticias"
+title: "C\u00e2mara anuncia medidas para garantir maior controle e transpar\u00eancia"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/uTy-LN1B-gY&hl=pt-br&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/uTy-LN1B-gY&hl=pt-br&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+<p><p style="text-align: justify">&nbsp;A C&acirc;mara de Vereadores do Recife anunciou na manh&atilde; desta sexta-feira quatro medidas que, nas palavras do presidente da casa, M&uacute;cio Magalh&atilde;es (PT), &quot;est&atilde;o sendo preparadas dentro dessa movimenta&ccedil;&atilde;o geral de garantir maior controle e tr&acirc;nspar&ecirc;ncia&quot;. O an&uacute;ncio acontece quatro meses depois de a 2&ordf; C&acirc;mara do Tribunal de Contas do Estado (TCE) ter julgado o esc&acirc;ndalo das notas frias.</p></p>
+<p><p style="text-align: justify">A primeira delas &eacute; a chegada de um auditor do Tesouro Municipal para reestruturar a comiss&atilde;o de Controle Interno. Trata-se de Emanuel Ismael de Louvor Pereira. Atualmente, ele tamb&eacute;m &eacute; membro do conselho fiscal da Reciprev, entidade previdenci&aacute;ria municipal,&eacute; membro da equipe de desenvolvimento do Sistema de Custos da Prefeitura do Recife (PCR), &eacute; co-autor do Plano de Contas &Uacute;nico da PCR, membro titular da equipe do Sistema Sofin (sistema municipal que controla a execu&ccedil;&atilde;o or&ccedil;ament&aacute;ria, financeira e cont&aacute;bil), al&eacute;m de ser instrutor municipal nas &aacute;reas de contabilidade e finan&ccedil;as e diretor de divis&atilde;o na prefeitura.</p></p>
+<p><p style="text-align: justify">&quot;Ele vai se integrar &agrave; comiss&atilde;o de Controle (Interno), sendo o chefe dela e reestruturando seus funcionamento e din&acirc;mica&quot;, explica o presidente.</p></p>
+<p><p style="text-align: justify">A segunda medida &eacute; a convoca&ccedil;&atilde;o de um concurso p&uacute;blico para a comiss&atilde;o de Controle - recomenda&ccedil;&atilde;o do TCE-&nbsp; e outras &aacute;reas como assessoria t&eacute;cnica e departamento de preserva&ccedil;&atilde;o da mem&oacute;ria da Casa de Jos&eacute; Mariano. O Tribunal de Contas do Estado entende que o colegiado de Controle Interno n&atilde;o pode ser constitu&iacute;do por funcion&aacute;rios escalados pelos pr&oacute;prios parlamentares, atrav&eacute;s dos cargos comissionados, como ocorre hoje.</p></p>
+<p><p style="text-align: justify">Um estudo, a cargo da mesa diretora, est&aacute; em curso para avaliar todas as necessidades e custos. Por isso, ainda n&atilde;o foram estabelecidos n&uacute;mero de vagas e data para a realiza&ccedil;&atilde;o da sele&ccedil;&atilde;o. &quot;O concurso ser&aacute; limitado pelo tamanho do nosso or&ccedil;amento. N&oacute;s temos a&iacute; o corte proporcionado pela PEC 47 (Projeto de Emenda Constitucional que estabelece uma redu&ccedil;&atilde;o de 10% dos repasses das verbas que alimentam o er&aacute;rio da Casa) e temos a efetiva queda de receitas, que j&aacute; se confirma este ano e vai repercutir no ano que vem. Isso pode diminuir o alcance desse concurso. Mas ele ser&aacute; feito, com toda certeza&quot;, disse o M&uacute;cio.</p></p>
+<p><p style="text-align: justify">A terceira medida &eacute; a cria&ccedil;&atilde;o de um preg&atilde;o eletr&ocirc;nico, j&aacute; publicado no Di&aacute;rio Oficial, e de um portal de contas apresentando os gastos da Casa. A promessa &eacute; de que todos os gastos v&atilde;o estar na internet.&quot;O preg&atilde;o entra em funcionamento j&aacute; esses dias e o portal, logo depois&quot;.</p></p>
+<p><p style="text-align: justify">A &uacute;ltima medida apresentada hoje faz que a Tesouraria Geral assuma, progressivamente, os gastos pagos atualmente com as verbas indenizat&oacute;rias. &quot;A ideia &eacute; reduzir no material de expediente, servi&ccedil;os gr&aacute;ficos e transporte. &Eacute; para acontecer ainda este ano&quot;, garantiu.</p></p>
+<p><p style="text-align: justify">O montante poupado ser&aacute; utilizado para a aplica&ccedil;&atilde;o das medidas. &quot;Vai representar economia em alguns aspectos porque voc&ecirc; pode padronizar materiais.Voc&ecirc; pode comprar no atacado e baratear. Mas tamb&eacute;m, do ponto de vista de moderniza&ccedil;&atilde;o do servi&ccedil;o - voc&ecirc; padronizar equipamentos - vai exigir gastos. &Eacute; uma equa&ccedil;&atilde;o de gastos por um lado e economia por outro. A gente espera que fique dentro do nosso limite or&ccedil;ament&aacute;rio, mas que garanta modernidade, efici&ecirc;ncia, tranpar&ecirc;ncia e democratiza&ccedil;&atilde;o da informa&ccedil;&atilde;o para a sociedade de tudo o que &eacute; gasto aqui na Casa de Jos&eacute; Mariano&quot;.</p></p>
+<p><p style="text-align: justify">Segundo M&uacute;cio, at&eacute; agora, a receptividade dos parlamentares tem sido positiva.</p> </p>
+{% endraw %}

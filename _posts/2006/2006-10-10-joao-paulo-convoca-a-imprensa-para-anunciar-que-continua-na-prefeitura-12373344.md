@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O prefeito do Recife não gostou nem um pouco da convocação feita ontem, publicamente, por Humberto Costa (PT) para que pedisse licença do cargo durante 20 dias e se engajasse de cabeça na campanha de Eduardo Campos (PSB).</FONT></P></p>
 <p><P><FONT face=Verdana>A convocação foi uma forma clara de provocá-lo. Foi como se disse: \"Vamos lá, será que você vai fazer alguma coisa neste segundo turno?\"</FONT></P></p>
 <p><P><FONT face=Verdana>Nos bastidores, Humberto tem dado sinais de que ficou insatisfeito com a participação de João Paulo em sua campanha, no primeiro turno.</FONT></P></p>
@@ -36,4 +36,4 @@ imagem: null
 <p><P><FONT face=Verdana>Mesmo assim, diz uma&nbsp;fonte ouvida pelo <STRONG>Blog</STRONG>, o prefeito não se colocou como empecilho à entrada de Humberto na disputa. Ele poderia ter batido chapa numa prévia interna, no PT. Não o fez. Aceitou a decisão.</FONT></P></p>
 <p><P><FONT face=Verdana>Durante a campanha, apurou o <STRONG>Blog</STRONG>, o prefeito também teria tido muitas de suas sugestões rejeitadas ou simplesmente ignoradas. Ele ficou à margem de tal forma que só veio aparecer no guia eleitoral do meio para o final.</FONT></P></p>
 <p><P><FONT face=Verdana>Pois bem. Agora vamos esperar o que João Paulo vai dizer daqui a pouco, às 16h, no gabinete dele, no Terminal Mar?timo, no Porto do Recife, onde receberá a imprensa.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

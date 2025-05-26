@@ -1,0 +1,45 @@
+---
+id: 12388474
+date: "2008-05-01T17:59:00Z"
+last_modified_at: null
+tags:
+  - "co-capibaribe"
+  - "crime-ambiental"
+  - "indices-economicos"
+  - "social1"
+categories:
+  - "eleicoes"
+title: "Capibaribe, um resgate social, econ\u00f4mico e ambiental"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><span style="font-family: '&quot;Verdana&quot;';">Por Mendonça Filho*<img class="alignnone" src="https://www2.uol.com.br/JC/blogs/blogdejamildo/imagens/selo_recife2008.jpg" alt="\&quot;\&quot;" width="\&quot;130\&quot;" height="\&quot;160\&quot;" align="\&quot;right\&quot;" /></span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">Qual de nós recifenses não disse orgulhosamente, pelo menos uma vez na vida, que o Recife é a Veneza Brasileira, numa referência ao fato de nossa cidade ser cortada por rios, em especial o Capibaribe, fato que a torna mais bonita e atrativa? </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">Com mais de 50% de sua área territorial banhada pela Bacia do Capibaribe, o Recife, cidade das águas, infelizmente, deu as costas para o Rio e acostumou-se a vê-lo apenas como parte da paisagem urbana. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">Um dos mais significativos símbolos da nossa cidade, o Capibaribe está poluído e abandonado, assim como, a população que mora nas duas mil palafitas nas suas margens nos bairros Coelhos, Joana Bezerra, Coque, Torre, Caiçara, Iputinga, Apipucos e Monteiro. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">Fonte de inspiração dos nossos poetas e escritores, o Capibaribe tem grande importância histórica e social na formação e no desenvolvimento de Pernambuco e do Recife. Tanto que mais de 50% das Zonas Especiais do Patrimônio Histórico e Cultural (ZEPH) da nossa cidade estão próximas ao rio, comprovando que o Capibaribe foi um fator importante de desenvolvimento urbano da cidade. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">Um dos nossos desafios é recuperar a identidade do Recife com o Rio e fortalecer a ligação de raiz entre o cidadão e a água. A importância do Rio Capibaribe para o Recife requer uma proposta de intervenção que vá além da constatação de que a cidade deu as costas para o rio. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">Um trabalho que começa por dar vida ao Capibaribe e dele extrair benefícios como a atividade turística, amenização ambiental, o seu uso como conduto para a mobilidade das pessoas. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">Mas nada disso será possível se não pensarmos no homem que habita nas suas margens em condições subumanas, oferecendo àquelas famílias alternativa de habitação digna, oportunidade de trabalho e serviços públicos eficientes. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">Consolidei ainda mais essa minha posição ao fazer um passeio de barco pelo Capibaribe, no último domingo, e escutar de moradores das palafitas um clamor: “tirem a gente daqui”. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">Frase que resume o drama de cidadãos que, apesar de todas as dificuldades que enfrentam para sobreviver, não perderam o direito de se indignar com aquelas condições, assim como a esperança de viver em melhores condições. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">O passeio pelo Capibaribe não foi o primeiro que fiz pelo Rio acompanhado de técnicos, para ver de perto seu patrimônio urbano e arquitetônico, sua diversidade ambiental, as possibilidades paisagísticas e o drama social que envolve as comunidades ribeirinhas, a sua deterioração, o sucateamento de suas margens, os manguezais, a situação de suas pontes. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">A partir desses passeios e de discussões com especialistas, eu e minha equipe chegamos a cinco propostas que estão em desenvolvimento. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">No plano ambiental, a prioridade é a despoluição das águas, desde sua nascente até a foz. O Capibaribe, como todos sabem, nasce no Agreste e seu curso tem cerca de 250 quilômetros, banhando mais de 30 municípios, sendo os principais Toritama, Santa Cruz do Capibaribe, Salgadinho, Limoeiro, Paudalho, São Lourenço da Mata e o Recife. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">A Prefeitura do Recife, com a representatividade de ser a Capital do Estado, deve incorporar-se pra valer ao Comitê da Bacia do Rio Capibaribe, fomentando o seu pleno funcionamento, mobilizando os prefeitos dos municípios que compõem a bacia e a comunidade para uma cruzada pela despoluição, recomposição das mata ciliares e de sua navegabilidade. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">Para isso, como já disse, é preciso cuidar de verdade das pessoas que moram nas palafitas, removendo essas famílias e oferecendo moradia digna e melhores condições de vida. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">No plano da navegabilidade, a nossa proposta é atuar em dois eixos: o primeiro com a implantação do Circuito Turístico do Capibaribe com construção de sete píers de atracação em pontos de interesse – local central de recepção no Cinco Pontas, o Marco Zero, o Parque das Esculturas, a Casa da Cultura, a Praça da Jaqueira, O Poço da Panela e o Açude de Apipucos. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">No entorno desses píers serão criados espaços públicos para suporte ao turista (informação, quiosques, locais de contemplação), incentivando o turismo nas Zonas Especiais do Patrimônio Histórico e Cultural (ZEPH) que existem às margens do rio, como os conjuntos urbanos de Apipucos e do Benfica, os antigos do Poço da Panela e do Bairro do Recife, e na vizinhança imediata, como a Casa de Brennand. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">O segundo eixo de intervenção refere-se aos estudos imediatos para avaliar as condições de implantação da Linha Fluvial Grande Hotel/Brasília Teimosa/Pina/Afogados, recuperando o trecho original Grande Hotel/Brasília Teimosa que funcionou até o final dos anos 70, oferecendo uma alternativa de transporte entre a Zona Sul e o Centro. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">Esses estudos devem contemplar a identificação dos canais de navegação na Bacia do Pina, os fluxos de passageiros entre estes locais e a modelagem institucional para concessão do serviço ao setor privado. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">A linha fluvial deve representar ganho de tempo para a população na locomoção, além de aumentar o contato com o rio que se restringe hoje a travessia das pontes. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">Do consumo racional dos recursos hídricos ao respeito ambiental pelos leitos, margens e mananciais, é dever do gestor municipal devolver à cidade a convivência harmoniosa com o seu maior elo natural. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">Para isso, é fundamental a participação da comunidade para que o recifense tenha não apenas pelo Capibaribe, mas pelos seus rios, o zelo que eles merecem. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">É nossa proposta criar o Movimento das Crianças do Capibaribe – os comitês mirins – em todos os bairros por onde passa o Rio, nas escolas, nas associações, nas ONGs, nos Clubes de Serviços, visando promover uma consistente ação pela vida do Capibaribe, como cuidado, limpeza, conhecimento geográfico e histórico refletindo sua importância para o Recife. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">Exemplo que pode ser replicado para um trabalho permanente de resgate de outros cursos D’água, em especial os rios Beberibe, Morno, Tejipió, Jiquiá, Moxotó, Camaragibe, Pina e Jordão. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';">Os rios estão ligado da maneira muito íntima à história do Recife, assim como as pontes que são elos de ligação entre passado, presente e futuro. Pensar o futuro do Recife é discutir a cidade a partir de seus vários aspectos: o Capibaribe e as pessoas que habitam em seu entorno são aspectos fundamentais para a integração entre políticas públicas de </span><span style="font-family: '&quot;Verdana&quot;';">inclusão social, preservação do meio ambiente, desenvolvimento econômico, geração de emprego e renda, lazer e qualidade de vida. </span></p></p>
+<p><p><span style="font-family: '&quot;Verdana&quot;';"><em>*Presidente estadual do DEM e pré-candidato a prefeito do Recife, escreve para o Blog às quintas, dentro da série "Recife 2008. Debate com os prefeituráveis".</em></span></p></p>
+{% endraw %}

@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B><B></p>
 <p><P><FONT face=Verdana>Às 9h</FONT></B><FONT face=Verdana>, café-da-manhã no mercado de São José, no Centro do Recife, acompanhado pelo ex-governador e candidato ao Senado Jarbas Vasconcelos (PMDB)</FONT></P><B></p>
@@ -43,4 +43,4 @@ imagem: null
 <p><P><FONT face=Verdana>Às 18h30</FONT></B><FONT face=Verdana>, caminhada e com?cio relâmpago em Aliança</FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 20h</FONT></B><FONT face=Verdana>, caminhada e com?cio relâmpago em Bueno Aires</FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 22h30</FONT></B><FONT face=Verdana>, faz com?cio em Paudalho</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Monica Crisostomo</STRONG><BR>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>CARUARU - Emoção. Essa foi a palavra que deu a tônica, ontem, de um dos mais longos eventos de campanha do governador-candidato Mendonça Filho (PFL).</FONT></P></p>
 <p><P><FONT face=Verdana>Durante as mais de nove horas de programação, que incluiu uma carreata, com um total&nbsp;estimado de seis mil ve?culos,&nbsp;iniciada no Recife, passando por outras cinco cidades até chegar em Caruaru, e um com?cio, o pefelista pediu à militância um “grande esforço concentrado??? na última semana de campanha. Mesmo cansado, o governador, se mostrou animado. </FONT></P></p>
@@ -21,4 +21,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Traições</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Um dos destaques foi o prefeito de Caruaru, Tony Gel (PFL), fiel aliado de Mendonça. Irritado com as recentes baixas no palanque da União, que desde o fim do primeiro turno vem sofrendo com a debandada de prefeitos, vereadores e lideranças pol?ticas, <STRONG>Tony Gel</STRONG> fez um pronunciamento forte:</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG><EM>“Ingratidão é muito ruim. Magoa. Mas tenha piedade desses traidores, Mendonça. Eles estão indo sozinhos, não levam para o lado errado a população. O povo sabe quem tem condições de cuidar de Pernambuco???.</EM></STRONG></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

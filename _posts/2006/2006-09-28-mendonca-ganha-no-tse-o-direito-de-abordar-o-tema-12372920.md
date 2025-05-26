@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O Tribunal Superior Eleitoral (TSE) liberou a União por Pernambuco, coligação do governador-candidato Mendonça Filho (PFL), para falar sobre o caso dos precatórios contra o candidato do PSB ao Governo, Eduardo Campos.</FONT></P></p>
 <p><P><FONT face=Verdana>Mas não o que ela quiser. </FONT><FONT face=Verdana>Não pode, por exemplo, questionar a legalidade da operação. </FONT></P></p>
 <p><P><FONT face=Verdana>\"O nosso recurso especial nos dá o direito de criticar o assunto administrativamente. Ou seja, podemos dizer se ele foi bom ou ruim para Pernambuco\", explicou um dos advogados da União, Lêucio Lemos, em entrevista a Cec?lia Ramos, repórter do <B>Blog</B>. </FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>O Jur?dico da Frente Popular de Pernambuco vem esclarecer que o TSE deu provimento parcial ao recurso da Coligação União Por Pernambuco, no caso dos precatórios, no sentido apenas de evitar censura prévia, ou seja, a proibição total do tema, mas que, diante da absolvição de Eduardo Campos por todas as instâncias, caso o tema venha a ser explorado de forma ofensiva ou com conotação il?cita, poderá ensejar direito de resposta e a suspensão do programa ofensivo.</FONT></P></p>
 <p><P><FONT face=Verdana>Frente Popular de Pernambuco</FONT></P></p>
 <p><P><FONT face=Verdana>ANTÔNIO CAMPOS<BR></FONT><FONT face=Verdana>IZAEL NOBREGA</FONT></P></I> </p>
-{\% endraw %}
+{% endraw %}

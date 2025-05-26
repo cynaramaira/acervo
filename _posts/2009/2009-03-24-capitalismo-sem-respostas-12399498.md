@@ -1,0 +1,31 @@
+---
+id: 12399498
+date: "2009-03-24T11:20:00Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "colunistas"
+title: "Capitalismo sem respostas"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Edilson Silva</p></p>
+<p><p>Em artigo assinado na revista Veja desta semana o economista e ex-ministro da Fazenda Ma&iacute;lson da N&oacute;brega busca convencer seus leitores de que o capitalismo &eacute; o melhor que as sociedades podem produzir em mat&eacute;ria de<br /></p>
+<p>civiliza&ccedil;&atilde;o.</p></p>
+<p><p>Segundo o ex-ministro, &quot;n&atilde;o h&aacute; alternativa ao sistema capitalista. Nenhum outro libera tanto as energias produtivas da sociedade nem o supera na gera&ccedil;&atilde;o de renda, emprego e bem-estar&quot;. Para n&atilde;o falar apenas a partir de seus supostos conhecimentos, o autor tira da cartola o indiano Amartya Sen, pr&ecirc;mio Nobel de Economia de 1998, para quem a atual crise &ldquo;n&atilde;o requer um &lsquo;novo capitalismo&rsquo;, mas a reinterpreta&ccedil;&atilde;o de velhas id&eacute;ias e institui&ccedil;&otilde;es para produzir um mundo mais decente.&rdquo;</p></p>
+<p><p>&Oacute;bvio que o tamanho do artigo n&atilde;o permitiria falar muito sobre o que seria esta tal reinterpreta&ccedil;&atilde;o de velhas id&eacute;ias, mas poderia ao menos ter sa&iacute;do do mantra manjado de que se deve preservar a supostamente virtuosa fun&ccedil;&atilde;o sist&ecirc;mica do capitalismo, que seria a aloca&ccedil;&atilde;o dos escassos recursos dispon&iacute;veis aos fins mais produtivos. Se for esta a base da reinterpreta&ccedil;&atilde;o do indiano, a crise do capitalismo &eacute; realmente maior do que andam dizendo por a&iacute;.</p></p>
+<p><p>Houve um tempo em que a Lei de Say, segundo a qual a oferta cria sua pr&oacute;pria demanda, era amplamente aceita no mundo da &ldquo;ci&ecirc;ncia econ&ocirc;mica&rdquo;. Hoje h&aacute; os que acreditam na Lei da Escassez, segundo a qual s&atilde;o limitados os meios dispon&iacute;veis para satisfazer as necessidades das pessoas. Esta suposta lei &eacute; o ponto de partida de economistas como Ma&iacute;lson da N&oacute;brega e seu indiano premiado com o Nobel. Com todo respeito, ambos devem acreditar tamb&eacute;m em Papai Noel.</p></p>
+<p><p>Mas, armado com velhas, testadas e falidas id&eacute;ias, o artigo insurge-se para o centro do tatame para desenvolver sua principal miss&atilde;o: desqualificar o socialismo como alternativa ao capitalismo que agoniza em pra&ccedil;a p&uacute;blica.</p></p>
+<p><p>Para tanto, segue uma receita tamb&eacute;m manjada: pega uma caricatura de Marx, acrescenta Cuba e Cor&eacute;ia do Norte da forma mais rasa, em seguida coloca uma cobertura da Venezuela de Hugo Chaves e pronto. Conclui que o socialismo n&atilde;o presta e tudo o que temos pela frente, pelo resto de nossas vidas, &eacute; o capitalismo.</p></p>
+<p><p>F&ocirc;ssemos t&atilde;o rasos como Ma&iacute;lson da N&oacute;brega, pegar&iacute;amos o Haiti e a Eti&oacute;pia e os relat&oacute;rios da FAO (ONU) para simplificar o que vem significando o capitalismo para a humanidade, ou mesmo o processo desenfreado de faveliza&ccedil;&atilde;o travestido de urbaniza&ccedil;&atilde;o que o mundo vem passando nas &uacute;ltimas d&eacute;cadas, com todas as consequ&ecirc;ncias conhecidas por todos. Mas os socialistas t&ecirc;m melhores argumentos e t&ecirc;m interesse em elevar o n&iacute;vel do debate.</p></p>
+<p><p>Os defensores do capitalismo nunca responderam e nem se preocuparam em responder satisfatoriamente aos problemas da fome brutal, do desemprego, das desigualdades sociais gritantes num mundo com tanta capacidade de produ&ccedil;&atilde;o de bens e servi&ccedil;os. N&atilde;o seria agora, em meio a uma crise estrutural, que estas respostas viriam.</p></p>
+<p><p>No entanto, o que os capitalistas precisam como m&iacute;nimo responder ao mundo &eacute; como v&atilde;o resolver o problema da insufici&ecirc;ncia de demanda para a sua superprodu&ccedil;&atilde;o de mercadorias, que &eacute; o centro do seu problema, e n&atilde;o da maioria da sociedade, que tem outras demandas. Deixemos de fora, somente neste exerc&iacute;cio, a quest&atilde;o da manuten&ccedil;&atilde;o dos n&iacute;veis de produ&ccedil;&atilde;o com a garantia de sustentabilidade ambiental.</p></p>
+<p><p>Nem para esta quest&atilde;o t&atilde;o simples, sob a &oacute;tica da tal Lei da Escassez, os capitalistas t&ecirc;m respostas. E n&atilde;o as t&ecirc;m porque o funcionamento do seu sistema expulsa naturalmente os trabalhadores, potenciais consumidores, do mundo do trabalho; porque a renda necess&aacute;ria para equilibrar minimamente a produ&ccedil;&atilde;o e o consumo concentra-se na poupan&ccedil;a imoral de uns poucos; porque os mecanismos antic&iacute;clicos keynesianos de &ldquo;corre&ccedil;&atilde;o&rdquo; da demanda via gastos estatais exigiria na atual conjuntura a desfigura&ccedil;&atilde;o do pr&oacute;prio capitalismo; porque n&atilde;o h&aacute; outras fronteiras geogr&aacute;ficas a serem exploradas como aconteceu na d&eacute;cada de 1990 ap&oacute;s a queda do Muro de Berlim; porque n&atilde;o h&aacute; no curto prazo a perspectiva de um novo setor econ&ocirc;mico para dar impulso &agrave; economia de conjunto, como o foi a revolu&ccedil;&atilde;o na inform&aacute;tica e nas telecomunica&ccedil;&otilde;es nos &uacute;ltimos 15 anos; porque a cria&ccedil;&atilde;o de demanda fict&iacute;cia atrav&eacute;s de cr&eacute;dito ilimitado s&oacute; adia e agrava o problema, como acontece agora; porque patrocinar uma guerra mundial, como o fizeram em 1939, poderia ser o fim da nossa esp&eacute;cie.</p></p>
+<p><p>N&atilde;o &eacute; dif&iacute;cil perceber que os capitalistas chegaram e levaram consigo a sociedade mundial a um precip&iacute;cio. O que lhes causa um constrangimento a mais, e certamente medo, &eacute; que l&aacute; encontraram, intacto, um senhor barbudo, apontando em outra dire&ccedil;&atilde;o, com uma placa numa das m&atilde;os, datada de 1848, com uma mensagem em alem&atilde;o: eu avisei!<br /></p>
+<p><br /></p>
+<p>PS: Edilson &eacute; presidente do PSOL/PE e escreve para o Blog de Jamildo.</p> </p>
+{% endraw %}

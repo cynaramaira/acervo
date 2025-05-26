@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Acabei de publicar na seção artigos, na coluna ao lado, o artigo semanal de Luiz Otávio Cavalcanti. Abaixo, alguns trechos do texto.</FONT></P></p>
 <p><P><FONT face=Verdana>Boa leitura.</FONT></P></p>
 <p><P><FONT face=Verdana>-------------------------------</FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>Por três razões: primeira, é grande o número de atores pol?ticos que interferem sobre as decisões na estrutura institucional brasileira com poder de obstrução.</FONT></P></p>
 <p><P><FONT face=Verdana>Com efeito, as negociações parlamentares, envolvendo esses agentes pol?ticos, se realizam em três frentes simultâneas: a) negociações dentro de cada Partido Pol?tico de modo a retirar posições partidárias em relação a votações de projetos de lei e Medidas Provisórias; b) negociações entre Partidos Pol?ticos de maneira a ajustar acordos interpartidários na relação governo x oposição a respeito de propostas submetidas ao Congresso; c) negociações entre os Poderes Executivo e Legislativo visando obter acordo sobre projetos encaminhados pelo governo para votação e aprovação no Parlamento.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/10/17/not_2466.php\">aqui</A></EM></STRONG> o artigo completo.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

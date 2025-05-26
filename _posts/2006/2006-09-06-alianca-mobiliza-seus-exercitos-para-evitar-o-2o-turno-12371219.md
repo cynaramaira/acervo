@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>A disputa pelo governo de Pernambuco entra agora na sua reta final.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>&nbsp;<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>A União por Pernambuco, de Jarbas Vasconcelos (PMDB) e Mendonça Filho (PFL), está toda reunida, no Recife, com batalhões de lideranças do interior.</FONT></P></p>
@@ -35,4 +35,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Com a popularidade que tem aqui, Lula poderá ser o diferencial na briga com Mendonça.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></P><SPAN style=\"FONT-SIZE: 12pt; FONT-FAMILY: \Times New Roman\; mso-fareast-font-family: \Times New Roman\; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA\"><FONT face=Verdana size=2>É por isso que a aliança parte para o tudo ou nada. Fará o poss?vel e o imposs?vel para liquidar essa fatura já em 1º de outubro.</FONT></SPAN> </p>
-{\% endraw %}
+{% endraw %}

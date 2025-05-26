@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></p>
 <p><P><FONT face=Verdana>Às 9h30</FONT></B><FONT face=Verdana>, visita o comércio de Prazeres, acompanhado pelo ex-governador e candidato ao Senado Jarbas Vasconcelos (PMDB) e pelo senador Marco Maciel (PFL). Concentração: Avenida Barreto de Menezes, em frente ao Supermercado Todo Dia </FONT></P><B></p>
@@ -39,4 +39,4 @@ imagem: null
 <p><P><FONT face=Verdana>Às 9h</FONT></B><FONT face=Verdana>, no Recife, grava para o seu guia eleitoral </FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 14h</FONT></B><FONT face=Verdana>, em Jaboatão dos Guararapes, caminhada e com?cio relâmpago ao final, no Curado (II, III e IV). Concentração: Praça do Curado II</FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 16h</FONT></B><FONT face=Verdana>, em Moreno, caminhada e com?cio relâmpago. Local de concentração: antigo Sesi de Moreno, zona central da Cidade</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -1,0 +1,30 @@
+---
+id: 12392203
+date: "2008-08-18T10:46:02Z"
+last_modified_at: null
+tags:
+  - "janeiro"
+  - "lula"
+categories:
+  - "noticias"
+title: "Lula fez promessas em Suape em janeiro de 2007"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Ind&uacute;stria t&ecirc;xtil vai renascer em Suape</p></p>
+<p><p>Do Jornal do Commercio, em 3 de janeiro de 2007<br /></p>
+<p>&nbsp;<br /></p>
+<p>Uma moderna ind&uacute;stria t&ecirc;xtil no Brasil nascer&aacute; em Pernambuco, com a produ&ccedil;&atilde;o de fios de poli&eacute;ster no p&oacute;lo petroqu&iacute;mico de Suape, projeto lan&ccedil;ado ontem com a presen&ccedil;a do presidente Luiz In&aacute;cio Lula da Silva. O objetivo do p&oacute;lo &eacute; produzir mat&eacute;ria-prima moderna e competitiva para a ind&uacute;stria t&ecirc;xtil nacional, que vem sofrendo com a concorr&ecirc;ncia de produtos asi&aacute;ticos. Lula tamb&eacute;m participou da inaugura&ccedil;&atilde;o da maior f&aacute;brica de resina PET do mundo, constru&iacute;da pela italiana Mossi &amp; Ghisolfi.</p></p>
+<p><p>&quot;O projeto &eacute; para salvar a ind&uacute;stria t&ecirc;xtil do Brasil e competir com os chineses&quot;, diz o presidente da Companhia T&ecirc;xtil Integrada do Nordeste (Citene), Pedro Cerri. A Citene, junto com a Petroquisa (empresa da Petrobras), est&aacute; investindo US$ 862 milh&otilde;es (R$ 1,77 bilh&atilde;o pelo c&acirc;mbio de ontem) no projeto, que envolve uma f&aacute;brica de &aacute;cido tereft&aacute;lico purificado (PTA) e de fio de poli&eacute;ster. &quot;Pernambuco vai entrar no rol dos Estados industrializados. N&atilde;o vai depender s&oacute; da cana&quot;, afirmou o presidente Lula, destacando a import&acirc;ncia do p&oacute;lo para o Nordeste.</p></p>
+<p><p>A id&eacute;ia das f&aacute;bricas lan&ccedil;adas &eacute; produzir no Brasil o poli&eacute;ster que &eacute; crescentemente utilizado nas confec&ccedil;&otilde;es do mundo todo. Atualmente, a China &eacute; a l&iacute;der desse mercado de t&ecirc;xteis, com US$ 147 bilh&otilde;es de venda. &quot;Nos &uacute;ltimos anos, a ind&uacute;stria t&ecirc;xtil do Brasil perdeu 1,5 milh&atilde;o de empregos, quase a metade do total. Se a gente n&atilde;o fizesse nada, o restante acabaria&quot;, diz Cerri. As duas fibras mais utilizadas na ind&uacute;stria t&ecirc;xtil s&atilde;o o algod&atilde;o (que o Brasil exporta) e o poli&eacute;ster. Com suprimento competitivo de mat&eacute;ria-prima, aliada a uma atualiza&ccedil;&atilde;o tecnol&oacute;gica das confec&ccedil;&otilde;es e malharias, o Brasil poder&aacute; novamente brigar pelo mercado t&ecirc;xtil.</p></p>
+<p><p>O PTA &eacute; uma mat&eacute;ria-prima utilizada na fabrica&ccedil;&atilde;o do poli&eacute;ster, que pode tanto servir para a produ&ccedil;&atilde;o de fio de poli&eacute;ster - como far&aacute; a Companhia T&ecirc;xtil Integrada de Pernambuco (Citepe)-, quanto para embalagens de garrafas, como far&aacute; a M&amp;G. As f&aacute;bricas de fios de poli&eacute;ster e de PTA ser&atilde;o feitas em conjunto pela Petroquisa e pela Citene, holding que re&uacute;ne empresas t&ecirc;xteis como a Vicunha, FIT e Pelca.<br /></p>
+<p>Na Petroqu&iacute;mica Suape, que far&aacute; o PTA, o investimento ser&aacute; meio a meio entre os grupos. J&aacute; na empresa t&ecirc;xtil, a Citene ter&aacute; 60% e a Petroquisa 40%. As duas plantas juntas ocupar&atilde;o 55 hectares ao lado da Refinaria Abreu e Lima. Algumas opera&ccedil;&otilde;es ser&atilde;o compartilhadas com a pr&oacute;pria refinaria.</p></p>
+<p><p>Ontem, foi assinado o contrato de tecnologia entre a Petroqu&iacute;mica Suape e a inglesa Invista, que det&eacute;m tecnologia de fabrica&ccedil;&atilde;o de PTA. O primeiro empreendimento a come&ccedil;ar suas obras ser&aacute; a f&aacute;brica de fio de poli&eacute;ster, a partir de abril deste ano.</p></p>
+<p><p>A f&aacute;brica de PTA ainda aguarda a licen&ccedil;a pr&eacute;via e de instala&ccedil;&atilde;o para dar in&iacute;cio &agrave; constru&ccedil;&atilde;o. Cerca de 4.500 empregos diretos ser&atilde;o gerados com a constru&ccedil;&atilde;o das ind&uacute;strias. J&aacute; na fase de opera&ccedil;&atilde;o ser&atilde;o 1.600 empregos diretos gerados. Mas o maior rebatimento ser&aacute; produzido com a capta&ccedil;&atilde;o de mais ind&uacute;strias t&ecirc;xteis da ponta da cadeia, como tecelagens, malharias e confec&ccedil;&otilde;es.</p></p>
+<p><p>O governo do Estado e a Citene pretendem induzir a instala&ccedil;&atilde;o de quatro unidades-modelo de confec&ccedil;&otilde;es integradas, com US$ 50 milh&otilde;es de investimento cada uma e gerando 4.000 empregos diretos. Tais f&aacute;bricas se localizariam em Paulista, Timba&uacute;ba, Petrolina e Caruaru. Segundo Cerri, a primeira ser&aacute; em Paulista e cada uma produzir&aacute; um tipo de tecido diferente. Essas unidades v&atilde;o aproveitar a m&atilde;o-de-obra mais competitiva (sal&aacute;rios mais baixos) que existem no Nordeste para competir com a produ&ccedil;&atilde;o asi&aacute;tica.</p></p>
+<p><p>REFINARIA - Na ocasi&atilde;o, o governador Eduardo Campos, que participou ao lado de Lula da solenidade de ontem, assinou memorandos de entendimento com a Petrobras sobre a Refinaria Abreu e Lima. O governo se comprometeu a viabilizar obras de infra-estrutura, como a remo&ccedil;&atilde;o de uma linha de transmiss&atilde;o que passa pelo terreno da refinaria e a realoca&ccedil;&atilde;o da Estrada da Pedreira em Suape at&eacute; o in&iacute;cio da terraplenagem do empreendimento, previsto para agosto deste ano. Tamb&eacute;m h&aacute; o compromisso de Pernambuco doar os restantes 210 hectares que ser&atilde;o desapropriados da Usina Salgado para a Petrobras, t&atilde;o logo a Caixa Econ&ocirc;mica termine a avalia&ccedil;&atilde;o que est&aacute; fazendo do terreno. <br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Com a disputa apertada e Mendonça Filho (PFL) estagnado no mesmo patamar (em torno dos 35%) desde o in?cio da campanha, os advogados da União por Pernambuco fazem o poss?vel para impedir que novas pesquisas possam interferir no jogo nesta reta final.</FONT></P></p>
 <p><P><FONT face=Verdana>Apontando falhas metodológicas, eles pediram ao Tribunal Regional Eleitoral que proibisse a realização de nove pesquisas apenas neste mês.</FONT></P></p>
 <p><P><FONT face=Verdana>Foram três da Brasmarket, uma do Sensus (TV Tribuna), outra do Campus, três da Databrain e a última do Ibope.</FONT></P></p>
@@ -41,4 +41,4 @@ imagem: null
 <p><P><FONT face=Verdana>Eduardo Campos&nbsp;&nbsp;&nbsp; 18,8%</FONT></P></p>
 <p><P><FONT face=Verdana>Foram 469 entrevistas e a margem de erro é de 5%.</FONT></P></p>
 <p><P><FONT face=Verdana>O instituto <STRONG>Campus</STRONG> faz pesquisas para o PSB de Eduardo Campos. No último levantamento, o socialista estaria a nove pontos de Mendonça e com o dobro de Humberto.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

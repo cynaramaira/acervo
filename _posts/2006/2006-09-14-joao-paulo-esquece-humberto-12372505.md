@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por </FONT><FONT face=Verdana><B>Monica Crisostomo<BR></B>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>Um dia após receber uma nova missão na campanha do candidato do PT ao governo estadual, Humberto Costa – a de acelerar o ritmo e comandar a descentralização das atividades na Região Metropolitana do Recife –, o prefeito João Paulo (PT) parece não ter incorporado o apelo pelo esforço concentrado feito pela coordenação da coligação Melhor pra Pernambuco. </FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>(...)</FONT></P></p>
 <p><P><FONT face=Verdana>Ao ser informado da omissão do prefeito, Humberto Costa minimizou. \"Não vejo problema. Foi um almoço oferecido a um proporcional. Às vezes, eu mesmo esqueço de citar o meu candidato ao Senado, Luciano Siqueira, nos eventos\", desconversou. </FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais </FONT><A href=\"https://jc3.uol.com.br/jornal/\"><STRONG><EM><FONT face=Verdana>aqui</FONT></EM></STRONG></A><FONT face=Verdana> (assinantes JC e UOL).</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Com quase seis milhões de eleitores,&nbsp;o Estado é roteiro obrigatório para os candidatos a presidente da República.</FONT></P></p>
 <p><P><FONT face=Verdana>Saiba do roteiro dos três em reportagem de Glauce Correia, da JC/CBN.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

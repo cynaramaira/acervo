@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Por <B style=\"mso-bidi-font-weight: normal\">Helayne Boaventura<BR></B>Do Correio Braziliense<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"><o:p>&nbsp;</o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">As urnas nem tinham sido apuradas no segundo turno quando o ministro de Relações Institucionais, Tarso Genro, expôs um dilema do próximo mandato do presidente Luiz Inácio Lula da Silva: a necessidade de ajustes fiscais ainda mais rigorosos ou a flexibilização da pol?tica econômica para investir na área social. <o:p></o:p></SPAN></P></p>
@@ -38,4 +38,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><B><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">A pauta de reivindicações</SPAN></B><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><BR><BR><!--<br><font class=\"sutia\"></font><br> --><!--<br> <font class=\"assinatura\"></font><br> --><!-- <font class=\"complassinatura\"></font><br> --><!--  --><SPAN style=\"COLOR: black; mso-bidi-font-weight: bold\">Mudança na equipe econômica; </SPAN><SPAN style=\"COLOR: black\"><BR><SPAN style=\"mso-bidi-font-weight: bold\">Redução do superávit primário; </SPAN><BR><SPAN style=\"mso-bidi-font-weight: bold\">Redução agressiva de juros; </SPAN><BR><SPAN style=\"mso-bidi-font-weight: bold\">Reajuste do salário m?nimo; </SPAN><BR><SPAN style=\"mso-bidi-font-weight: bold\">Pol?tica de geração de emprego; </SPAN><BR><SPAN style=\"mso-bidi-font-weight: bold\">Investimentos em reforma agrária e educação.</SPAN></SPAN></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><SPAN style=\"COLOR: black\"><SPAN style=\"mso-bidi-font-weight: bold\"></SPAN></SPAN></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><SPAN style=\"COLOR: black\"><SPAN style=\"mso-bidi-font-weight: bold\">Leia mais <A href=\"https://dyn1.correioweb.com.br/cbonline/politica/pri_pol_214.htm?\" target=_blank><STRONG><EM>aqui</EM></STRONG></A> (assinantes do Correio).</SPAN></SPAN></SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

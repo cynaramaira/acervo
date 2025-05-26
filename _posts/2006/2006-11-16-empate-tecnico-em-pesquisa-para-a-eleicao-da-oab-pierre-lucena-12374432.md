@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Pierre Lucena*</STRONG><BR>Professor e administrador <BR></FONT><A href=\"mailto:pierre.lucena@contagemweb.com.br\"><FONT face=Verdana>pierre.lucena@contagemweb.com.br</FONT></A></P></p>
 <p><P><FONT face=Verdana>Quem acompanhou a eleição para a OAB este ano está impressionado com os resultados das pesquisas divulgadas pela Contagem Consultoria Estratégica e Pesquisa, apontando um empate técnico entre as candidaturas de Jayme Asfora e Julio Oliveira.</FONT></P></p>
 <p><P><FONT face=Verdana>Na verdade, quando a campanha se iniciou, Jayme era tratado como um candidato azarão, apenas para compor a oposição, em uma eleição praticamente perdida.</FONT></P></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>Outro fato que chama a atenção é a grande expectativa de vitória de Julio (44,3 contra 22% para Jayme). A expectativa de vitória neste caso é muito maior do que a intenção de votos, o que pode ser considerado normal, já que Jayme era considerado um azarão no in?cio da disputa, e tomou um fôlego impressionante na reta final. </FONT></P></p>
 <p><P><FONT face=Verdana>Como dito, o relatório está à disposição dos interessados, e boa sorte aos dois candidatos. Espero que tenhamos contribu?do para o debate e para o interesse na eleição da OAB. </FONT></P></p>
 <p><P><FONT face=Verdana><EM>*<STRONG>Pierre Lucena</STRONG>, 35, doutor em finanças pela PUC-Rio, Mestre em Economia e Administrador pela UFPE, é professor-adjunto da Universidade Federal de Pernambuco, sócio da Contagem Consultoria Estratégica e Pesquisa. Foi secretário-adjunto de Educação do Estado. É Coordenador do Núcleo de Finanças e Investimentos do Departamento de Ciências Administrativas da UFPE (NEFI).</EM></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

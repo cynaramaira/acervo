@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por várias vezes, Humberto Costa bateu na mesa e, exaltado, demonstrou indignação. </FONT></P></p>
 <p><P><FONT face=Verdana>Ao lado dele, a cúpula da coligação que o apóia -&nbsp;João Paulo (PT), Luciano Siqueira (PCdoB), Armando Monteiro Neto (PTB) e S?lvio Costa (PMN) - fez discursos defendendo-o e garantindo que a campanha não será atingida pelo indiciamento. </FONT></P></p>
 <p><P><FONT face=Verdana>Todos buscaram mostrar que Costa chegará ao segundo turno na disputa pelo governo de Pernambuco.</FONT></P></p>
@@ -39,4 +39,4 @@ imagem: null
 <p><P><FONT face=Verdana>Com certeza, o pedido de indiciamento dele estará em breve no guia eleitoral.</FONT></P></p>
 <p><P><FONT face=Verdana>Agora é esperar para ver como isso vai repercutir nas pesquisas eleitorais, nos próximos dias. </FONT></P></p>
 <p><P><FONT face=Verdana>Humberto divide com Eduardo Campos (PSB) o segundo lugar na corrida pelo Palácio das Princesas, atrás do governador Mendonça Filho (PFL), que disputa a reeleição. Veja <STRONG><EM><U><A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/17/index.php#823\" target=_blank>aqui</A></U></EM></STRONG> os resultados da última pesquisa Ibope.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Confirmando as expectativas, o ex-ministro Ciro Gomes (PSB) já tem 325.605 votos para deputado federal em apenas 48,4% das seções totalizadas. </FONT></P></p>
 <p><P><FONT face=Verdana>Ele recebeu até agora 16,31% dos votos válidos para deputado no Ceará.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

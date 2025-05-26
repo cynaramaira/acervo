@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana><STRONG>MENDONÇA FILHO (PFL)</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Às 19h</STRONG>,&nbsp;reúne-se com Jarbas&nbsp;Vasconcelos (candidato ao Senado) e lideranças religiosas no terreiro do Pai Moacir, na rua Madri, sem número, Ipsep, Recife.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Às 20h30</STRONG>,&nbsp;tem reunião com lideranças pol?ticas de Olinda, ligadas à deputada estadual Jacilda Urquisa, no Espaço Dayse</p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Às 19h30</STRONG>, realiza caminhada no Recife, saindo da Praça da Torre com destino ao casarão do Cordeiro.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>EDUARDO CAMPOS (PSB)</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Está em Bras?lia, devido a compromissos na Câmara Federal. Só retorna amanhã.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

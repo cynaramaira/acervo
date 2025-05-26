@@ -13,8 +13,8 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Por Cida Fontes e Fabio Graner<br />Da Ag&ecirc;ncia Estado</p>
 <p>Bras?lia - Pesquisa CNT/Sensus, divulgada hoje, apontou que 78,9% dos entrevistados consideram que o presidente Luiz In&aacute;cio Lula da Silva deveria participar dos debates eleitorais.</p>
 <p>Apenas 14,6% avaliam que ele n&atilde;o deveria participar dos debates.</p>
-{\% endraw %}
+{% endraw %}

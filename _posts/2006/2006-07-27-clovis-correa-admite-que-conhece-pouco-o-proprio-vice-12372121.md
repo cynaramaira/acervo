@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por telefone, o ex-juiz do trabalho e candidato a governador pelo Prona (Partido da Reedificação da Ordem Nacional) disse não acreditar no envolvimento de Antônio Passos Ferreira, 39 anos, o vice dele, em irregularidades. </FONT></P></p>
 <p><P><FONT face=Verdana>Toninho, como é conhecido, comanda um conjunto de 46 sindicatos no Estado. Conforme o <B>Blog</B> apurou (<STRONG><U><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/07/27/index.php#304\">leia aqui</A></EM></U></STRONG> texto postado mais cedo), os sindicatos têm como público as pessoas em idade de se aposentar. Facilitam o processo de aposentadoria, mas aproveitam para oferecer o chamado empréstimo consignado - com desconto em folha. Veja o que disse Corrêa:</FONT></P><B></p>
 <p><P><FONT face=Verdana>Publicamos aqui que seu vice dirige 46 sindicatos e que nestas instituições os ssociados conseguem a aposentadoria e também empréstimos consignados. O você sabia disso?</FONT></P></B></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana>Rapaz, eu soube que ele tem um só, o sindicato dos aposentados. Agora, ele me disse que o pessoal lá da Fetape (Federal dos Trabalhadores na Agricultura de Pernambuco) tem ódio a ele porque ele já trouxe um bucado de filiado da Fetape para ele, parece que foi 8 mil ou foi 10 mil. Eu sei que ele tem 30 mil filiados. Ele tem ligações lá com aqueles sindicatos do Vale do São Francisco. Tanto que até mandei fazer 100 mil cartazes, meu retrato e o retrado dele, dizendo: \"Pernambuco agora tem vez\". E levamos uma fotografia do sertão, dizendo \"Toninho do sindicato\" e eu, no ombro do meu paletó, dizendo juiz do trabalho. Então é uma união perfeita, não é?</FONT></P><B></p>
 <p><P><FONT face=Verdana>Você está tranqüilo em relação a ele?</FONT></P></B></p>
 <p><P><FONT face=Verdana>Estou porque não tive nenhuma...Ele me disse que fizeram denúncia contra ele já, por conta de ele estar fazendo aposentadoria desse pessoal. Gente que tem raiva dele. Mas me pareceu uma pessoa extremamente humilde, o rosto limpo, não senti nenhuma safadeza por parte dele. Ao que me consta eu estou tranqüilo.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

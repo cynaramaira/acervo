@@ -1,0 +1,28 @@
+---
+id: 12393937
+date: "2008-10-01T16:00:00Z"
+last_modified_at: null
+tags:
+  - "brasil"
+  - "crise-sanitaria"
+  - "reformas"
+categories:
+  - "noticias"
+title: "Crise \u00e9 oportunidade para Brasil promover reformas"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>O Brasil tem de aproveitar o momento da crise para retomar a agenda das principais reformas estruturais, como a tribut&aacute;ria, de modo a se tornar mais competitivo e n&atilde;o depender da evolu&ccedil;&atilde;o da economia mundial para garantir o seu pr&oacute;prio crescimento. A avalia&ccedil;&atilde;o foi feita nesta ter&ccedil;a-feira, 30 de setembro, pelo presidente da Confedera&ccedil;&atilde;o Nacional da Ind&uacute;stria (CNI), Armando Monteiro Neto, durante a cerim&ocirc;nia de entrega da Medalha do Conhecimento 2008, em Bras&iacute;lia. O empres&aacute;rio disse ainda que o Brasil tem for&ccedil;a para enfrentar a crise, mas dever&aacute; ter uma redu&ccedil;&atilde;o do crescimento do PIB no ano que vem.</p></p>
+<p><p>&ldquo;Vamos aproveitar a crise para o Brasil retomar uma agenda que perdemos, para fazer o dever de casa em vez de ficar sempre imaginando que o cen&aacute;rio externo ser&aacute; muito benigno, favor&aacute;vel como foi nos &uacute;ltimos&rdquo;, avaliou Monteiro Neto. Segundo ele, o crescimento econ&ocirc;mico deste ano dever&aacute; ser de 5%, aproximadamente. &ldquo;Mas vai haver desacelera&ccedil;&atilde;o em 2009. Em que n&iacute;vel ningu&eacute;m pode prever&rdquo;, ressaltou.</p></p>
+<p><p>Monteiro Neto disse que a CNI prev&ecirc; um crescimento da economia entre 3,5% e 4% no ano que vem, mesmo patamar em que deve ficar o PIB industrial. &ldquo;A CNI j&aacute; projetava um crescimento menor mesmo antes desse pico da crise&rdquo;, salientou. De acordo com o presidente da CNI, o governo deve ficar atento para tomar as medidas necess&aacute;rias para estancar a crise e amenizar seus reflexos. &ldquo;Temos uma s&eacute;rie de instrumentos de cr&eacute;dito, financiamento, desburocratiza&ccedil;&atilde;o, de desonera&ccedil;&otilde;es que podem ser promovidas. &Eacute; uma agenda extensa&rdquo;, disse. Ele lembrou que &eacute; preciso atuar para manter as exporta&ccedil;&otilde;es, que tinham queda nos volumes embarcados antes do in&iacute;cio da crise. &ldquo;&Eacute; uma agenda que precisa de aten&ccedil;&atilde;o permanente, porque as exporta&ccedil;&otilde;es representam para o Brasil uma op&ccedil;&atilde;o estrat&eacute;gica. O pa&iacute;s n&atilde;o pode perder participa&ccedil;&atilde;o no com&eacute;rcio mundial&rdquo;, argumentou.</p></p>
+<p><p>Monteiro Neto informou que as empresas industriais j&aacute; est&atilde;o sentindo os efeitos da crise, sobretudo em rela&ccedil;&atilde;o a linhas de financiamento. Segundo ele, esses reflexos s&atilde;o para todos os setores industriais. Por isso, o presidente da CNI defendeu que o governo reduza, por exemplo, os compuls&oacute;rios banc&aacute;rios (recolhimento obrigat&oacute;rio de parte dos recursos poupados nos bancos), tanto para os dep&oacute;sitos &agrave; vista quanto para os a prazo. &ldquo;Vamos ter mais recursos para financiamento&rdquo;, disse, ao lembrar que as empresas j&aacute; est&atilde;o pagando juros mais altos e que os bancos aumentaram os spreads (diferen&ccedil;a entre o valor de capta&ccedil;&atilde;o do dinheiro e o pre&ccedil;o cobrado do tomador).</p></p>
+<p><p>O ministro de Desenvolvimento, Ind&uacute;stria e Com&eacute;rcio Exterior, Miguel Jorge, disse, durante a entrega da Medalha do Conhecimento 2008, que o governo est&aacute; elaborando medidas para dar mais linhas de cr&eacute;dito ao exportador brasileiro. Segundo ele, as propostas ser&atilde;o entregues ao presidente Luiz In&aacute;cio Lula da Silva semana que vem.</p></p>
+<p><p>Miguel Jorge disse que &eacute; uma preven&ccedil;&atilde;o para que, num eventual agravamento da crise, os instrumentos de cr&eacute;dito j&aacute; estejam prontos. Segundo o ministro, as medidas podem envolver mais recursos para o PROEX, mais<br /></p>
+<p>dinheiro para os Adiantamentos de Contrato de C&acirc;mbio (ACCs) e mesmo mais recursos para o Banco Nacional de Desenvolvimento Econ&ocirc;mico e Social (BNDES). Para ele, essas s&atilde;o as medidas &oacute;bvias. &ldquo;Mas precisamos, num momento como esse, ter criatividade&rdquo;, afirmou. Miguel Jorge lembrou que mais da metade das exporta&ccedil;&otilde;es brasileiras s&atilde;o financiadas, por isso as linhas de cr&eacute;dito para os exportadores n&atilde;o podem secar.</p></p>
+<p><p>O vice-presidente da Rep&uacute;blica, Jos&eacute; Alencar, que tamb&eacute;m participou da cerim&ocirc;nia de entrega da Medalha do Conhecimento 2008, afirmou que entre as medidas necess&aacute;rias para o pa&iacute;s enfrentar a crise financeira internacional est&aacute; o fortalecimento do BNDES. &quot;Ele &eacute; um banco raro. S&atilde;o poucos os bancos que t&ecirc;m seus recursos e est&atilde;o emprestando dinheiro a 6,25% ao ano&quot;, disse o vice-presidente.</p></p>
+<p><p>Alencar afirmou que o Brasil tem condi&ccedil;&otilde;es excepcionais de atravessar a crise, mas, para garantir boas condi&ccedil;&otilde;es durante a turbul&ecirc;ncia, precisa fortalecer seu mercado interno e n&atilde;o deixar faltar recursos para financiar as exporta&ccedil;&otilde;es e tamb&eacute;m a produ&ccedil;&atilde;o interna.</p></p>
+<p><p>Com informa&ccedil;&otilde;es da CNI</p> </p>
+{% endraw %}

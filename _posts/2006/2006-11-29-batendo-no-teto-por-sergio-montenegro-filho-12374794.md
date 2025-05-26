@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por <B>Sérgio Montenegro Filho </B><BR>Repórter especial do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>Dias atrás, os congressistas brasileiros foram surpreendidos - se é que isso ainda é poss?vel lá pelo Cerrado - com uma reportagem do jornal espanhol El Pa?s, que os classifica de \"afortunados\". A matéria situou os nossos deputados e senadores entre os mais bem pagos do mundo, e apresentou provas: uma remuneração mensal de R$ 12.400, mais R$ 50.000 para pagamento de assessores, R$ 3.000 para bancar despesas com moradia em Bras?lia, R$ 4.200 para envio de correspondências, R$ 15.000 reservados para \"indenizações\", outros R$ 15.000 para sustentar um escritório em sua base eleitoral, além de R$ 8.300 para custeio de passagens de avião. </FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>De acordo com Ellen Gracie, o CNJ vai oficiar os tribunais para que façam os devidos \"ajustes\". Dito isto, vale a pena fazer um</p>
 <p> rápido cálculo, tomando como base o salário m?nimo do Pa?s, que hoje é de R$ 350,00. Se cada um desses marajás do Judiciário receber apenas o teto máximo de R$ 24,5 mil - e nenhum centavo acima, sem ilegalidades -, terá direito, mensalmente, à bagatela de 70 salários m?nimos. Valor que um trabalhador braçal levaria quase seis anos para juntar, sem gastar um tostão. Não precisa dizer mais nada. </FONT></P></p>
 <p><P><FONT face=Verdana>* A coluna desta semana é dedicada ao grande Puccini </FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

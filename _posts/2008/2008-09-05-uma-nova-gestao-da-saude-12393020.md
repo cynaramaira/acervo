@@ -1,0 +1,29 @@
+---
+id: 12393020
+date: "2008-09-05T05:00:00Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "colunistas"
+title: "Uma nova gest\u00e3o da sa\u00fade"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><span id="fck_dom_range_temp_1220642419285_43">O problema da sa&uacute;de p&uacute;blica em Pernambuco chega ao limite. N&atilde;o se trata mais de limite toler&aacute;vel ou intoler&aacute;vel. Simplesmente chegamos ao fundo do po&ccedil;o e h&aacute; de se tirar dessa situa&ccedil;&atilde;o uma sa&iacute;da, porque aos que precisam de hospitais sustentados com o dinheiro do contribuinte n&atilde;o h&aacute; como pedir mais paci&ecirc;ncia.</span></p></p>
+<p><p><span id="fck_dom_range_temp_1220642419285_43">Ela j&aacute; se esgotou h&aacute; muito tempo, desde quando servi&ccedil;o p&uacute;blico de sa&uacute;de passou a ser sin&ocirc;nimo de demora, inc&uacute;ria, falta de equipamentos e de medicamentos. Desde quando come&ccedil;aram a se expandir os planos de sa&uacute;de e a assist&ecirc;ncia privada, contrastando e aprofundando a diferen&ccedil;a com o atendimento a quem n&atilde;o pode recorrer a esses planos.</span></p></p>
+<p><p><span id="fck_dom_range_temp_1220642419285_43">Agora, com mais esta amea&ccedil;a de uma sexta-feira fatal para a sa&uacute;de dos mais pobres em Pernambuco, a parte maior e mais fr&aacute;gil da sociedade espera que governo e classe m&eacute;dica deixem de lado recrimina&ccedil;&otilde;es e atentem para a evid&ecirc;ncia de que &eacute; a vida de seres humanos que est&aacute; sendo posta na mesa de negocia&ccedil;&atilde;o. </span></p></p>
+<p><p><span>Os pernambucanos devem ouvir com muita aten&ccedil;&atilde;o o protesto dos m&eacute;dicos por melhor remunera&ccedil;&atilde;o, como v&ecirc;m fazendo h&aacute; muitos anos e, claro, t&ecirc;m que ser ouvidos pela import&acirc;ncia de seu trabalho. Mas tamb&eacute;m se deve prestar aten&ccedil;&atilde;o &agrave; gravidade do ultimato que eles est&atilde;o dando, ao anunciar que deixar&atilde;o as emerg&ecirc;ncias dos hospitais p&uacute;blicos nesta sexta-feira.</span></p></p>
+<p><p><span>Essa amea&ccedil;a n&atilde;o atinge a entidade governo do Estado, burocracia, administra&ccedil;&atilde;o p&uacute;blica. Ela bate imediata e duramente nos que precisam do servi&ccedil;o p&uacute;blico de sa&uacute;de. Da&iacute; se tira que h&aacute; uma evidente precipita&ccedil;&atilde;o da classe m&eacute;dica atrav&eacute;s de suas lideran&ccedil;as de classe.</span></p></p>
+<p><p><span>A seguran&ccedil;a dos pobres que recorrem aos hospitais do Estado n&atilde;o pode depender de percentuais de reajustes de gratifica&ccedil;&atilde;o de plantonistas ou diaristas. Essa &eacute; uma condi&ccedil;&atilde;o limite que, de t&atilde;o grave, deve fugir at&eacute; da compet&ecirc;ncia de governantes e profissionais e passar para a al&ccedil;ada da Justi&ccedil;a, com a interven&ccedil;&atilde;o do Minist&eacute;rio P&uacute;blico.</span></p></p>
+<p><p><span>Um lado da quest&atilde;o que precisa ficar mais vis&iacute;vel &eacute; a resposta que o governo do Estado d&aacute; ao problema. Num ato de coragem, deve-se reconhecer, o governo anuncia um choque de gest&atilde;o na sa&uacute;de p&uacute;blica, com a determina&ccedil;&atilde;o de tentar mudar uma estrutura que contabiliza muitos erros h&aacute; muitos anos. N&atilde;o apenas neste ou no governo anterior, mas em muitos outros.</span></p></p>
+<p><p><span>A crise da sa&uacute;de &eacute; um somat&oacute;rio de problemas, agravado pelo adensamento da Regi&atilde;o Metropolitana do Recife, pelo crescimento urbano e pelas solu&ccedil;&otilde;es dos governantes n&atilde;o acompanharem as dificuldades.</span></p></p>
+<p><p><span>O que prop&otilde;e agora o Estado como resposta: a cria&ccedil;&atilde;o de uma funda&ccedil;&atilde;o para gerir os grandes hospitais de Pernambuco, um modelo que j&aacute; provou efic&aacute;cia no Esp&iacute;rito Santo, em S&atilde;o Paulo e Minas Gerais.</span> <span>E que vai contra o nosso modelo, cartorialista, eivado de feudos, com funcion&aacute;rios que fingem trabalhar, descontrole de gastos, compras descentralizadas e muitas outras mazelas que a nova proposta pretende combater.</span></p></p>
+<p><p><span>O primeiro grande impacto &eacute; o clamor de que assim o governo de Pernambuco quer privatizar a sa&uacute;de p&uacute;blica. O vice-governador e secret&aacute;rio da Sa&uacute;de foi &agrave; Comiss&atilde;o de Constitui&ccedil;&atilde;o e Justi&ccedil;a da Assembl&eacute;ia Legislativa para dizer que n&atilde;o &eacute; assim.</span></p></p>
+<p><p><span>O governo quer criar uma funda&ccedil;&atilde;o 100% p&uacute;blica, onde servidor s&oacute; entrar&aacute; atrav&eacute;s de concurso p&uacute;blico, e sujeita &agrave; fiscaliza&ccedil;&atilde;o do Tribunal de Contas do Estado. Os servidores atuais continuam porque t&ecirc;m direito adquirido e somente os que entrarem com a funda&ccedil;&atilde;o &eacute; que estar&atilde;o sujeitos ao regime da CLT, significa dizer: mesmo s&oacute; entrando com concurso p&uacute;blico podem ser demitidos se n&atilde;o trabalharem como devem.</span></p></p>
+<p><p><span>Do jeito que est&aacute; &eacute; que n&atilde;o pode continuar, com um d&eacute;ficit de 180 mil consultas por m&ecirc;s na Regi&atilde;o Metropolitana do Recife, apenas um dos males grav&iacute;ssimos do diagn&oacute;stico da sa&uacute;de p&uacute;blica no Estado.</span></p></p>
+<p><p><span>N&oacute;s torcemos por Pernambuco e desejamos que a crise na sa&uacute;de possa ser minorada com a id&eacute;ia da funda&ccedil;&atilde;o, sem perder de vista que os corredores dos hospitais est&atilde;o cheios neste momento e para os doentes devem se voltar todas as aten&ccedil;&otilde;es, independente de mesas de negocia&ccedil;&atilde;o, planos de mudan&ccedil;a ou protestos.</span></p> </p>
+{% endraw %}

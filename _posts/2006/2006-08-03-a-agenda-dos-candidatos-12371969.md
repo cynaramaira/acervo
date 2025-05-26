@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><B><FONT size=2><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B></FONT><FONT size=2></p>
 <p><P><FONT face=Verdana><B>Às 20h30</B>, janta com lideranças pol?ticas de Pesqueira, no Hotel Estação Cruzeiro. Acompanham Mendonça o candidato a vice-governador, Evandro Avelar, e o candidato ao Senado, Jarbas Vasconcelos (PMDB). </FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 22h</FONT></B><FONT face=Verdana>, participa das festividades do Circuito do Frio de Pesqueira. </FONT></P></FONT><B><FONT face=Verdana size=2></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>EDUARDO CAMPOS (PSB)</FONT></P></B></p>
 <p><P><FONT face=Verdana><STRONG>Às 9h</STRONG>, promove caminhada na feira Santo Elias (Prazeres) e pelas ruas de Cajueiro Seco, em Jaboatão dos Guararapes. A concentração é em frente ao Bandepe da Avenida Barreto de Menezes.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Às 18h</STRONG>, participa da inauguração do comitê da candidata a deputada federal Ana Arraes, na Rua Dianópolis, 93, Cordeiro.<BR><BR><STRONG>Às 19h</STRONG>, participa da inauguração do comitê do candidato a deputado estadual Waldemar Borges.<BR><BR><STRONG>Às 20h</STRONG>, participa da inauguração do comitê do candidato a deputado federal Fernando Bezerra Filho, na Estrada do Encanamento, Casa Forte.</FONT></P></FONT><A href=\"https://www.jc.com.br/\" target=_blank><STRONG><EM></EM></STRONG></A> </p>
-{\% endraw %}
+{% endraw %}

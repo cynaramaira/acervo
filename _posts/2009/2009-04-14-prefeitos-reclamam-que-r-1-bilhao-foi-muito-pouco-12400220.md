@@ -1,0 +1,36 @@
+---
+id: 12400220
+date: "2009-04-14T11:39:00Z"
+last_modified_at: null
+tags:
+  - "prefeitos"
+categories:
+  - "noticias"
+title: "Prefeitos reclamam que R$ 1 bilh\u00e3o foi muito pouco"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Diante do enxugamento de recursos, os prefeitos amea&ccedil;am acabar com parcerias em programas do Governo Federal. Quem faz o alerta &eacute; o presidente da Confedera&ccedil;&atilde;o Nacional de Munic&iacute;pios (CNM), Paulo Ziulkoski, &agrave; frente da entidade h&aacute; 12 anos.&nbsp; <br /></p>
+<p>&nbsp;<br /></p>
+<p>Na noite de ontem, o ministro do Planejamento, Paulo Bernardo, fez, ao lado do presidente Lula e do ministro das Rela&ccedil;&otilde;es Institucionais, Jos&eacute; M&uacute;cio Monteiro, o an&uacute;ncio de um aporte de at&eacute; R$ 1 bilh&atilde;o para as prefeituras. A inten&ccedil;&atilde;o do governo &eacute; igualar o repasse deste ano do Fundo de Participa&ccedil;&atilde;o dos Munic&iacute;pios (FPM) ao montante do ano passado.</p></p>
+<p><p>A estimativa de arrecada&ccedil;&atilde;o do FPM em 2009 passou de R$ 58 bilh&otilde;es &ndash; antes do an&uacute;ncio da crise econ&ocirc;mica &ndash; para, no m&aacute;ximo, R$ 51 bilh&otilde;es.</p></p>
+<p><p>Segundo a equipe econ&ocirc;mica do governo, em 2008 o FPM recebeu R$ 51,3 bilh&otilde;es. &ldquo;Essa decis&atilde;o rep&otilde;e o direito dos prefeitos de receber quantia igual &agrave; do ano passado&rdquo;, afirmou Lula no discurso de ontem.</p></p>
+<p><p>O presidente da CNM disse receber com preocupa&ccedil;&atilde;o o an&uacute;ncio do governo. &ldquo;N&atilde;o sei qual ser&aacute; a rea&ccedil;&atilde;o dos prefeitos&rdquo;, avisou Ziulkoski. A entidade esperava que o governo assegurasse repasse ao Fundo de valor igual &agrave; arrecada&ccedil;&atilde;o no ano passado, mais corre&ccedil;&atilde;o calculada sobre o &Iacute;ndice de Pre&ccedil;os ao Consumidor Amplo (IPCA). Al&eacute;m disso, os prefeitos reivindicam a revis&atilde;o de d&iacute;vidas dos munic&iacute;pios com a Uni&atilde;o.</p></p>
+<p><p>Segundo o presidente da CNM, os prefeitos poderiam optar por &ldquo;devolver&rdquo; ao governo federal os programas que hoje contam com a participa&ccedil;&atilde;o dos munic&iacute;pios, para ganhar algum &ldquo;f&ocirc;lego&rdquo; e colocar as contas em ordem. &ldquo;Tem gente que diz que os munic&iacute;pios vivem de favor de repasse. Isso &eacute; uma grande mentira. Quem vive nas costas dos munic&iacute;pios &eacute; a Uni&atilde;o, que n&atilde;o produz nada. O principal bra&ccedil;o executor desses programas federais somos n&oacute;s. N&atilde;o tem Bolsa Fam&iacute;lia sem os munic&iacute;pios na ponta&rdquo;, defendeu&nbsp; Ziulkoski.</p></p>
+<p><p>Em entrevista ao Congresso em Foco, na tarde de ontem, o presidente do CNM disse que os programas do governo acabaram inflando os gastos dos munic&iacute;pios. &ldquo;O governo cria um programa, o Bolsa Fam&iacute;lia, por exemplo. Ele diz: &eacute; tanto para cada um, est&aacute; aqui o cart&atilde;o e voc&ecirc;s (munic&iacute;pios) que se virem&#63; Nada disso. Quem &eacute; que suja a m&atilde;o l&aacute; na ponta&#63; Quem &eacute; que bota funcion&aacute;rio, combust&iacute;vel, papel&#63; Somos n&oacute;s&rdquo;, declarou. <br /></p>
+<p>&nbsp;<br /></p>
+<p>&ldquo;Se no auge da arrecada&ccedil;&atilde;o nos estimularam a assumir responsabilidades, que mantenham isso funcionando. Ou ent&atilde;o, qual &eacute; o caminho do prefeito&#63; Devolver esses programas&rdquo;, continuou Ziulkoski, respondendo &agrave;s cr&iacute;ticas de que, na verdade, a arrecada&ccedil;&atilde;o municipal cresceu muito em 2008 &ndash; mais de 20% se comparado a 2007.</p></p>
+<p><p>O ponto mais complicado para as prefeituras &eacute; o endividamento dos munic&iacute;pios com o INSS. &ldquo;No &uacute;ltimo dia 9, foram repassados R$ 2,05 bilh&otilde;es, da primeira parcela mensal do FPM. Nesse mesmo dia, o governo passou a m&atilde;o na parte que entende que &eacute; dele, por conta das d&iacute;vidas dos munic&iacute;pios. Por isso, centenas de munic&iacute;pios no Brasil, nos dias 10 e 20, recebem zerado o FPM&rdquo;, argumentou Ziulkoski.</p></p>
+<p><p>No entendimento dos prefeitos, &eacute; a Uni&atilde;o quem deve aos munic&iacute;pios e a reten&ccedil;&atilde;o de recursos do Fundo como forma de pagamento de d&iacute;vida inviabiliza os caixas municipais. &ldquo;N&oacute;s estamos afirmando, com base em decis&otilde;es do Supremo Tribunal Federal, que a Uni&atilde;o deve mais a n&oacute;s do que n&oacute;s devemos ao INSS&rdquo;, explicou Ziulkoski.</p></p>
+<p><p>Segundo os c&aacute;lculos do representante dos prefeitos, enquanto as d&iacute;vidas dos munic&iacute;pios com o INSS somam R$ 22,2 bilh&otilde;es, as da Uni&atilde;o com as prefeituras chegam a R$ 25,5 bilh&otilde;es. &ldquo;O que eu quero &eacute; que haja um encontro de contas, para saber quem deve para quem. N&atilde;o &eacute; favor aos munic&iacute;pios, n&atilde;o &eacute; pacote de benesses. N&atilde;o estou pedindo perd&atilde;o de d&iacute;vida. Quero o que diz a lei&rdquo;, sustentou o presidente da CNM.</p></p>
+<p><p>&ldquo;Aumento de sal&aacute;rio m&iacute;nimo &eacute; irresponsabilidade&rdquo;</p></p>
+<p><p>A Confedera&ccedil;&atilde;o Nacional dos Munic&iacute;pios acrescentam outros dados para sustentar o argumento de que algumas prefeituras est&atilde;o para fechar as portas. O piso salarial do magist&eacute;rio, estabelecido em janeiro em R$ 950, e o aumento no sal&aacute;rio m&iacute;nimo &ndash; de R$ 450 para R$ 465 &ndash; fixado pelo governo, por exemplo, receberam pesadas cr&iacute;ticas dos prefeitos.</p></p>
+<p><p>&ldquo;Isso &eacute; uma irresponsabilidade. No Nordeste, entre 30% e 40%, da folha de cada prefeitura ganha at&eacute; um sal&aacute;rio m&iacute;nimo. Tem quase 30 mil servidores do Brasil que ganham meio sal&aacute;rio m&iacute;nimo, entre os cinco milh&otilde;es e 15 mil que temos nas prefeituras de todo o pa&iacute;s. No momento em que o governo sentiu a gripe da crise, nos j&aacute; estamos na cama&rdquo;, protestou o presidente do CNM.</p></p>
+<p><p>Ziulkoski tamb&eacute;m chama a aten&ccedil;&atilde;o para as isen&ccedil;&otilde;es tribut&aacute;rias, anunciadas pelo governo no in&iacute;cio do ano, e para a redu&ccedil;&atilde;o de alguns impostos, como o Imposto sobre Produtos Industrializados (IPI), que tem parte destinada ao Fundo de Participa&ccedil;&atilde;o dos Munic&iacute;pios. &ldquo;Porque n&atilde;o fez a isen&ccedil;&atilde;o na Cofins (Contribui&ccedil;&atilde;o para o Financiamento da Seguridade Social), que &eacute; s&oacute; dele&#63;&rdquo;, questionou.</p></p>
+<p><p>Apesar das reclama&ccedil;&otilde;es, o presidente Lula tenta manter o discurso de solidariedade aos prefeitos, importantes cabos eleitorais em qualquer elei&ccedil;&atilde;o. No &uacute;ltimo dia 24, disse que os prefeitos estavam&ldquo;comendo o p&atilde;o que o Diabo amassou&rdquo;.</p></p>
+<p><p><br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

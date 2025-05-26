@@ -1,0 +1,30 @@
+---
+id: 12378229
+date: "2007-05-01T15:26:00Z"
+last_modified_at: null
+tags:
+  - "lotofacil"
+  - "presidios"
+  - "tostao"
+categories:
+  - "noticias"
+title: "Por que \u00e9 t\u00e3o f\u00e1cil desviar as verbas dos pres\u00eddios?"
+sutia: null
+chapeu: null
+autor: "jc"
+imagem: null
+---
+{% raw %}
+<p>O Presidente do Sindicato dos Agentes e Servidores no Sistema Penitenci&aacute;rio do Estado de Pernambuco (SINDASP), Breno Rocha, em artigo escrito para o Blog,.explica que a bandalheira com recursos p&uacute;blicos em nossas cadeias vem de longe e enfrenta a omiss&atilde;o de nossas autoridades.</p>
+<p>O texto na &iacute;ntegra est&aacute; publicado na &aacute;rea especifica de artigos. Veja alguns pontos selecionados abaixo:</p>
+<p><br /><em>N&atilde;o &eacute; por menos que as irregularidades observadas pela Controladoria Geral da Uni&atilde;o &ndash; CGU &ndash; se repitam escandalosamente sempre no &acirc;mbito do Sistema Penitenci&aacute;rio, quer seja no Estado do Par&aacute; (onde se constatou, entre outras coisas, 300% de superfaturamento na constru&ccedil;&atilde;o de um pres&iacute;dio), em Minas Gerais, com refer&ecirc;ncia &agrave; aquisi&ccedil;&atilde;o de equipamentos de v&iacute;deo e em Pernambuco, referente a v&aacute;rios itens, inclusive superfaturamento de reformas de Unidades Prisionais e aquisi&ccedil;&atilde;o de equipamentos.</em></p>
+<p><em>: como pena aos brancos. A estes o degredo para a &Aacute;frica e o confisco de bens se imp&ocirc;s como regra, restando o c&aacute;rcere quase que invariavelmente aos negros e ao branco POBRE &ndash; aquele que, segundo Joaquim Nabuco, sofria quase tanto quanto o negro, as agruras de um regime de exce&ccedil;&atilde;o racista.</em></p>
+<p><em>O caso em quest&atilde;o, ora pautado pela CGU, no que se refere especialmente a Pernambuco &eacute; verdadeiramente escandaloso. E n&atilde;o apenas pela &ldquo;excentricidade&rdquo; dos fatos (afinal, comprar c&acirc;maras que filmam em preto e branco e pagar por equipamentos coloridos, em si, j&aacute; &eacute; um esc&acirc;ndalo), mas, pela leni&ecirc;ncia geral de nossa virtuosa sociedade para com o problema.</em></p>
+<p><em>A CGU denuncia os desvios das verbas federais, pois, s&atilde;o essas que lhe competem investigar. Por&eacute;m, essas s&atilde;o apenas a pontinha de um imenso iceberg, o qual, inexplicavelmente, insiste em permanecer invis&iacute;vel aos poderes locais. </em></p>
+<p><em>No ano passado, por exemplo, o deputado Isaltino Nascimento, a partir de den&uacute;ncias nossas, fez pronunciamento na tribuna da Assembl&eacute;ia Legislativa no qual denunciou a compra de CARNE DE PRIMEIRA para o pres&iacute;dio de Igarassu que recebeu, em seu lugar, RETRA&Ccedil;O DE CARNE. O caso constava do pr&oacute;prio Boletim Interno da SERES e, at&eacute; hoje, nenhuma provid&ecirc;ncia foi tomada. </em></p>
+<p><em>Apesar de ter comprado carne pelo custo de R$ 5,00 (cinco reais) o Kg e ter recebido material que custava &agrave; &eacute;poca menos de R$ 1,00 (um real), ningu&eacute;m foi punido. Nem a empresa, nem os respons&aacute;veis pelo recebimento... ningu&eacute;m. A ALEPE ouviu as den&uacute;ncias do deputado Isaltino e nenhuma medida adotou. Essa e outras den&uacute;ncias, como, por exemplo, o desvio de alimenta&ccedil;&atilde;o na Barreto Camp&ecirc;lo &ndash; alimenta&ccedil;&atilde;o licitada e paga com o dinheiro de nossos impostos &ndash; para festas em quart&eacute;is da Pol&iacute;cia Militar foram enviadas por n&oacute;s para &oacute;rg&atilde;os como a Corregedoria da SDS e o Minist&eacute;rio P&uacute;blico Estadual e, apesar de j&aacute; se fazer UM ANO do seu protocolamento, NINGUEM EST&Aacute;, SEQUER, INDICIADO. A Corregedoria OMISSA e o Minist&eacute;rio P&uacute;blico CALADO.</em></p>
+<p><em>Por nossas den&uacute;ncias (que somam mais de 1500 p&aacute;ginas) fomos desdenhados, chamados de lamoriosos, de radicais, acusados de estar usando os fatos &ldquo;politicamente&rdquo; e at&eacute; de &ldquo;loucos&rdquo;. Mas, agora, a CGU confirma, na parte que lhes toca, as irregularidades criminosas no Sistema Penitenci&aacute;rio pernambucano. E quanto ao que toca o Minist&eacute;rio P&uacute;blico? E quanto ao que toca &agrave; Corregedoria da SDS? Ao Tribunal de Contas do Estado?</em></p>
+<p><em>Chegamos, no in&iacute;cio do Governo Eduardo, a entregar aos atuais gestores do Sistema Prisional c&oacute;pias de todas as den&uacute;ncias encaminhadas ao Minist&eacute;rio P&uacute;blico Estadual, solicitando que se instalasse uma investiga&ccedil;&atilde;o geral sobre os fatos apresentados nas 1500 p&aacute;ginas de documentos e, para nossa surpresa, os Secret&aacute;rios Rold&atilde;o Joaquim (SDSDH), Humberto Vianna (SERES) e Fernando Matos (SEDH) foram un&iacute;ssonos em responder: &ldquo;O Governo Eduardo n&atilde;o far&aacute; ca&ccedil;a &agrave;s bruxas&rdquo;... como se apurar, entre outras coisas, a mal versa&ccedil;&atilde;o do er&aacute;rio p&uacute;blico fosse algum tipo de &ldquo;ca&ccedil;a &agrave;s bruxas&rdquo;!</em></p>
+<p><em>E o desdobramento nos foi ainda mais &ldquo;intrigante&rdquo;: temos assistido a manuten&ccedil;&atilde;o em seus cargos de todos aqueles que se viram envolvidos, direta ou indiretamente, com as den&uacute;ncias aludidas.(!) Isto &eacute;, n&atilde;o houve &ldquo;ca&ccedil;a &agrave;s bruxas&rdquo;, mas, o prest&iacute;gios e a manunten&ccedil;&atilde;o dos acusados. (Os quais, s&oacute; para ser propositadamente redundante, n&atilde;o foram investigados, para que n&atilde;o se promova nenhum tipo de &ldquo;ca&ccedil;a &agrave;s bruxas&rdquo;)</em></p>
+<p><em>Diante dos fatos, solicitaremos ao Lider do Governo na Assembl&eacute;ia Legislativa a imediata instala&ccedil;&atilde;o de uma CPI DO SISTEMA PENITENCI&Aacute;RIO, solicita&ccedil;&atilde;o esta que, dado que o Lider do Governo &eacute; o mesmo Deputado Isaltino Nascimento, o qual conhece muitas das den&uacute;ncias de irregularidades ocorridas, acreditamos n&atilde;o ter&aacute; dificuldade em ser instalada.</em></p>
+{% endraw %}

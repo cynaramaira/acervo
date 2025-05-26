@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=\"Courier New\"><FONT face=Verdana>O deputado Roberto Magalhães (PFL), advogado e jurista, discorda das declarações dos tucanos Geraldo Alckmin e José Serra sobre o seqüestro de funcionários da TV Globo por gente do PCC.</FONT></P></p>
 <p><P><FONT face=Verdana>Alckmin e Serra trataram o caso como terrorismo pol?tico-eleitoral. </FONT></P></p>
 <p><P><FONT face=Verdana>Mas o deputado pernambucano acha que o Pa?s precisa deixar de tratar o assunto como uma questão \"eleitoral e partidária\".</FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>O ex-governador acentua que lhe chamou a atenção alguns erros na mensagem do PCC que, para ele, foram cometidos de propósito para encobrir o verdadeiro autor da mensagem. </FONT></P></p>
 <p><P><FONT face=Verdana>\"Ela foi escrita por um intelectual, que forçou erros, como a expressão ilusionismo no lugar de iluminismo, para conduzir a interpretação de que o texto é de um bandido\". </FONT></P></p>
 <p><P><FONT face=Verdana>Para Magalhães, as denúncias de falcatruas no Legislativo e Executivo devem ter \"apressado o desmantelamento da ordem pública\".</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

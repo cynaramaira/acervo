@@ -14,7 +14,7 @@ chapeu: null
 autor: "jc"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>&nbsp;<br /></p>
 <p>Boa parte da equipe do governador eleito de Pernambuco, Eduardo Campos (PSB), j&aacute; foi da "cozinha" do av&ocirc; dele, o ex-governador Miguel Arraes (PSB).</p>
 <p>Se as especula&ccedil;&otilde;es se confirmarem hoje, &agrave;s 14h30, quando o socialista anunciar&aacute; o secretariado em entrevista coletiva no Recife Praia Hotel, no Pina, pelo menos 9 nomes j&aacute; trabalharam nas gest&otilde;es Miguel Arraes, sobretudo no terceiro governo (1995 - 1998).</p>
@@ -42,4 +42,4 @@ imagem: null
 <p><strong>Planejamento </strong>&ndash; Geraldo J&uacute;lio, Ex-secret&aacute;rio de Finan&ccedil;as de Petrolina</p>
 <p>Ci&ecirc;ncia e Tecnologia &ndash; Aristides Monteiro, economista do Instituto de Pesquisas Econ&ocirc;micas Aplicadas (IPEA)</p>
 <p>(Por Cec?lia Ramos)</p>
-{\% endraw %}
+{% endraw %}

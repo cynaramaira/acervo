@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Da <STRONG>Folha de S.Paulo</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Durou pouco o susto do senador José Sarney (PMDB), de acordo com pesquisa do Ibope sobre as eleições no Amapá. Sua reeleição pareceu ameaçada há duas semanas pelo crescimento da candidata Cristina Almeida (PSB), mas agora a vantagem alcança 13 pontos.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Maranhão: Roseana pede votos para Lula</STRONG></FONT></P></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Paraná: Requião e Dias devem ir ao segundo turno</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>O governador licenciado do Paraná, Roberto Requião (PMDB), almoçou no principal shopping de Curitiba e depois percorreu as lojas atrás dos votos dos indecisos, na tentativa de reverter a tendência de segundo turno apontada pelo Datafolha.<BR><BR>A pesquisa registrou queda de Requião de 48% para 44% e oscilação de Osmar Dias (PDT) de 26% para 28%. <BR><BR>A campanha de Dias procura incutir nos apoiadores a crença no segundo turno. Ontem a coordenação central mobilizava as 23 regionais para a organização de passeatas e carreatas.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://www1.folha.uol.com.br/fsp/brasil/fc3009200636.htm\" target=_blank>aqui</A></EM></STRONG> (assinantes Folha e UOL).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

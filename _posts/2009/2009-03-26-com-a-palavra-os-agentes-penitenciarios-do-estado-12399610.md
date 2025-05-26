@@ -1,0 +1,43 @@
+---
+id: 12399610
+date: "2009-03-26T18:34:19Z"
+last_modified_at: null
+tags:
+  - "agentes"
+  - "estado"
+categories:
+  - "noticias"
+title: "Com a palavra, os agentes penitenci\u00e1rios do Estado"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Prezado Jamildo,</p></p>
+<p><p>&Eacute; realmente inconceb&iacute;vel o que vem ocorrendo na escandalosa administra&ccedil;&atilde;o do Sistema Penitenci&aacute;rio do nosso Estado. Nossas pris&otilde;es - que nunca foram modelo de administra&ccedil;&atilde;o eficiente - ap&oacute;s terem se transformado num &quot;neg&oacute;cio de fam&iacute;lia&quot;, colecionam as mais vergonhosas refer&ecirc;ncias do pa&iacute;s: s&atilde;o fugas em massa, rebeli&otilde;es preanunciadas, homic&iacute;dios sem apura&ccedil;&atilde;o, narcotr&aacute;fico sem repress&atilde;o, venda de artigos &quot;piratas&quot; debaixo dos narizes das autoridades, usurpa&ccedil;&atilde;o de cargo p&uacute;blico, muros sem sentinela, preso custodiando preso: enfim, uma esculhamba&ccedil;&atilde;o nunca antes vista em tamanha propor&ccedil;&atilde;o.</p></p>
+<p><p>Dessa esculhamba&ccedil;&atilde;o, os pernambucanos j&aacute; t&ecirc;m conhecimento; em maior ou menor grau. O que n&atilde;o se sabe e de como esse mafu&aacute; administrativo t&ecirc;m se alastrado pelos &oacute;rg&atilde;os governamentais.</p></p>
+<p><p>A hist&oacute;ria que vamos narrar a seguir parece retirada da mais fant&aacute;stica literatura: coisa digna (ou, indigna) da obra de Orwell (1984) ou Kafka (O processo), mas, infelizmente, &eacute; tecida com as linhas da mais pura e verdadeira verdade.</p></p>
+<p><p>Tudo come&ccedil;ou quando o senhor Isaac Viana, primo do secret&aacute;rio Humberto Viana, nos escalou para uma cust&oacute;dia hospitalar no Hospital Ot&aacute;vio de Freitas. L&aacute; chegando encontramos a seguinte situa&ccedil;&atilde;o: o n&uacute;mero de presos era maior do que o de escoltantes (o que n&atilde;o &eacute; permitido pela Lei), o armamento utilizado n&atilde;o possu&iacute;a registro (o que n&atilde;o &eacute; permitido por Lei), n&atilde;o havia qualquer infraestrutura para o servi&ccedil;o ser realizado (o que n&atilde;o &eacute; permitido por Lei), a carga hor&aacute;ria era de 24 horas ininterruptas no setor de pneumologia - doen&ccedil;a obviamente infecto contagiosa (o que n&atilde;o &eacute; permitido por Lei), n&atilde;o havia coletes &agrave; prova de balas para nossa prote&ccedil;&atilde;o e nossos exames psicol&oacute;gicos par o uso de armamento de fogo - que deve ser renovado a cada tr&ecirc;s anos - se encontravam VENCIDOS.</p></p>
+<p><p>Diante dessas condi&ccedil;&otilde;es fizemos exatamente o que a LEI (neste caso, o Estatuto dos Servidores P&uacute;blicos) determina: solicitamos POR ESCRITO ao senhor Isaac Viana que se pronunciasse sobre a realiza&ccedil;&atilde;o do trabalho naquelas condi&ccedil;&otilde;es.</p></p>
+<p><p>A LEI reza que o senhor Isaac teria o prazo de 30 dias para nos responder. Ao inv&eacute;s de cumprir a LEI o senhor Isaac Viana passou a nos amea&ccedil;ar, vezes de forma direta, prometendo-nos demiss&atilde;o, vezes de forma indireta, &quot;insinuando&quot; que &quot;algo de ruim nos iria acontecer...&quot;</p></p>
+<p><p>V&iacute;timas de suas amea&ccedil;as e desestabilizados emocionalmente - afinal, est&aacute;vamos sendo amea&ccedil;ados por um Coronel de Pol&iacute;cia! - fizemos o que todo cidad&atilde;o procura fazer: arrimados na LEI de ass&eacute;dio moral, juntamos a documenta&ccedil;&atilde;o necess&aacute;ria e denunciamos as amea&ccedil;as ao primo do senhor Issac Viana, o senhor Humberto Viana.</p></p>
+<p><p>A LEI reza que, uma vez efetuada a den&uacute;ncia a autoridade tem um prazo de 30 dias para abrir processo e afastar os denunciantes das garras do denunciado. Ao inv&eacute;s disso, isto &eacute;, de cumprir a LEI, o Coronel Humberto Viana, primeiro se omitiu, depois, juntou-se ao seu primo e passou tamb&eacute;m a nos perseguir e amea&ccedil;ar.</p></p>
+<p><p>Buscando, ent&atilde;o, solu&ccedil;&atilde;o para o nosso problema - que s&oacute; se agravava - reunimos mais uma vez a documenta&ccedil;&atilde;o e a remetemos ao senhor Rold&atilde;o Joaquim, autoridade hierarquicamente superior aos dois outros citados. Mais uma vez esperamos os 30 dias determinados POR LEI para as provid&ecirc;ncias; mais uma vez a LEI foi desprezada.</p></p>
+<p><p>J&aacute; havia, assim, uma cole&ccedil;&atilde;o de autoridades a negligenciarem a LEI: dois coron&eacute;is e um delegado: dois secret&aacute;rios e um superintendente...</p></p>
+<p><p>Fomos, ent&atilde;o, ao Minist&eacute;rio P&uacute;blico - o autoproclamado FISCAL DA LEI - era l&aacute;, finalmente, que encontrar&iacute;amos guarida para nossas graves den&uacute;ncias. .. triste engano. Peregrinamos dias, semanas, meses pelo Minist&eacute;rio P&uacute;blico e s&oacute; encontramos quem se esquivasse do problema. Uma s&oacute; intima&ccedil;&atilde;o... Um s&oacute; ajuste de conduta... Uma s&oacute; vistoria ou averigua&ccedil;&atilde;o formal &agrave;s nossas den&uacute;ncias: isto nos deixaria mais tranquilos... Ao contr&aacute;rio: NADA, NADA E NADA! Nada foi feito! At&eacute; aquela tal de Comiss&atilde;o de Fiscaliza&ccedil;&atilde;o das Pol&iacute;cias, se quer moveu uma palha...</p></p>
+<p><p>Fomos, ent&atilde;o, &agrave; delegacia. Prestamos uma queixa formal: N A D A!</p></p>
+<p><p>Resolvemos ir &agrave; corregedoria geral da SDS: N A D A ! L&aacute;, entretanto, o senhor Isaac Viana foi intimado, mas nunca compareceu.</p></p>
+<p><p>Assim, entre idas e vindas, de uma autoridade omissa para outra, passou-se n&atilde;o trinta dias, mas, 365! Um ano ap&oacute;s questionarmos ao senhor Isaac Viana sobre a legalidade da tarefa que ele nos dispensara ele come&ccedil;ou a cumprir suas promessas e passou a determinar a ilegal e vilipendiosa subtra&ccedil;&atilde;o do nosso sal&aacute;rio, retirando de nossa mesa o p&atilde;o e da escola os nossos filhos.</p></p>
+<p><p>Mas, veja bem, Jamildo: o senhor Isaac Viana n&atilde;o abriu nenhum processo administrativo para apurar nossa postura profissional. Ele, na mais genu&iacute;na arrog&acirc;ncia, na mais nauseabunda arbitrariedade, simplesmente ORDENOU a retirada dos nossos sal&aacute;rios, sem nunca ter nos respondido se dever&iacute;amos ou n&atilde;o custodiar os presos por 24 horas ininterruptas em um ambiente hospitalar infectocontagioso, com armas irregulares e com exames psicol&oacute;gicos de validade expirada.</p></p>
+<p><p>Neste momento, confessamos que apelamos: fomos procurar suporte pol&iacute;tico (j&aacute; que as autoridades judiciais e policiais esquivaram-se de seus deveres). Procuramos, primeiramente, o magn&acirc;nimo condutor do PACTO PELA VIDA, Jos&eacute; Luiz Ratton. Dele, ap&oacute;s narrarmos todo o ocorrido, ouvimos simplesmente &quot;eu retorno essa liga&ccedil;&atilde;o daqui &agrave; pouco&quot;... faz dois meses que esperamos!</p></p>
+<p><p>Ent&atilde;o procuramos o L&iacute;der do Governo na Assembl&eacute;ia Legislativa, Deputado Isaltino Nascimento, afinal, ele propagandeia-se o PAI da LEI de ass&eacute;dio moral. Relatamos nossa hist&oacute;ria aos seus assessores, que ficaram de marcar uma reuni&atilde;o entre ele e n&oacute;s. Mas, o Deputado Isaltino nunca teve agenda para ouvir de n&oacute;s o pedido de ajuda a fim de fazer cumprir a LEI que ele pr&oacute;prio projetara.</p></p>
+<p><p>Do gabinete do Deputado Isaltino, fomos ao Pal&aacute;cio das Princesas. Conversamos com o senhor Paulo Pereira da Silva, assessor do Governador. Relatamos toda nossa odiss&eacute;ia... E, mais uma vez, NADA!</p></p>
+<p><p>Ainda estamos at&ocirc;nitos com essa nossa trajet&oacute;ria percorrida pelas antesalas de ju&iacute;zes, promotores, delegados, coron&eacute;is, assessores especiais, pol&iacute;ticos...</p></p>
+<p><p>N&atilde;o sabemos mais a quem recorrer. Pensamos no candombl&eacute;, ou em enviarmos uma carta ao clero, pedindo a excomunh&atilde;o dos Vianna. Talvez, se as autoridades religiosas encarem os problemas que fazem as autoridades civis se esquivarem.</p></p>
+<p><p>Do vivenciado por n&oacute;s podemos, at&eacute; agora, concluir apenas o seguinte: a LEI, em Pernambuco, &eacute; uma mentira; e o seu sistema operativo um caro e hip&oacute;crita embuste de raz&atilde;o ornamental.</p></p>
+<p><p>Newton Albuquerque<br /></p>
+<p>Ricardo Valen&ccedil;a</p></p>
+<p><p>Agentes de Seguran&ccedil;a Penitenci&aacute;ria<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

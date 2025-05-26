@@ -1,0 +1,34 @@
+---
+id: 12398619
+date: "2009-03-02T10:27:00Z"
+last_modified_at: null
+tags:
+  - "cereal"
+  - "elcio-franco"
+  - "forte-orange"
+  - "gustavo"
+  - "segurado"
+categories:
+  - "noticias"
+title: "Gustavo Franco diz que PAC \u00e9 fic\u00e7\u00e3o e real forte desde FHC \u00e9 que segura marolinha"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Plano Real, 15</p></p>
+<p><p>Por Gustavo Franco, na p&aacute;gina de opini&atilde;o da folha de s&atilde;o paulo</p></p>
+<p><p>ONTEM, dia 28 de fevereiro de 2009, completamos 15 anos da publica&ccedil;&atilde;o da medida provis&oacute;ria n&ordm; 434, que introduziu a URV (Unidade Real de Valor), uma formid&aacute;vel inova&ccedil;&atilde;o que assumiu a forma de segunda moeda nacional, por&eacute;m, como uma moeda apenas de conta -ou &quot;para servir exclusivamente como padr&atilde;o de valor monet&aacute;rio&quot;.</p></p>
+<p><p>Em seu artigo 2&ordm;, a MP 434 j&aacute; determinava que, quando a URV fosse emitida em forma de c&eacute;dulas -e assim passasse a servir para pagamentos-, o cruzeiro real seria extinto e a URV teria seu nome mudado para real. A URV, portanto, era o real, que nasceu naquele momento e, quatro meses depois, em 1&ordm; de julho, teve a sua gradua&ccedil;&atilde;o bem-sucedida quando as novas c&eacute;dulas e moedas do real foram colocadas em circula&ccedil;&atilde;o.</p></p>
+<p><p>Na &eacute;poca, dizia-se que o Plano Real, diferentemente dos outros planos econ&ocirc;micos, era um processo e que compreendia uma extensa agenda de a&ccedil;&otilde;es contemplando os chamados fundamentos econ&ocirc;micos da estabiliza&ccedil;&atilde;o e do desenvolvimento. Era uma linguagem inovadora para uma &eacute;poca em que as pessoas ainda acreditavam em milagres. Essa agenda era o cerne do programa. A passagem do tempo e a altern&acirc;ncia no poder s&oacute; tornaram mais claro que est&aacute;vamos adotando paradigmas j&aacute; bem assentados no tocante &agrave; disciplina monet&aacute;ria, &agrave; responsabilidade fiscal e &agrave; sustentabilidade financeira do Estado.</p></p>
+<p><p>N&atilde;o eram princ&iacute;pios t&atilde;o pol&ecirc;micos como a cr&iacute;tica da &eacute;poca fazia supor que fossem e, possivelmente, alguns de seus desdobramentos mais importantes naquelas dif&iacute;ceis circunst&acirc;ncias -<b>como a privatiza&ccedil;&atilde;o, a reforma na Previd&ecirc;ncia e o Proer- poderiam ter passado mais tranquilamente, sobretudo se a oposi&ccedil;&atilde;o soubesse que governaria a seguir e que desfrutaria dos benef&iacute;cios desses programas.</b></p></p>
+<p><p><b>Mas a pol&iacute;tica &eacute; o reino das vers&otilde;es retorcidas, uma das quais -a tese da &quot;heran&ccedil;a maldita&quot;- seguramente merece o Oscar no quesito efeitos especiais maliciosos e na categoria ingratid&atilde;o. </b>O fato &eacute; que, <b>quando a oposi&ccedil;&atilde;o efetivamente virou governo, em 2002, e nada mudou nas linhas b&aacute;sicas dos princ&iacute;pios e programas acima enunciados, ficou claro que t&iacute;nhamos experimentado uma esp&eacute;cie de converg&ecirc;ncia no plano das pol&iacute;ticas macroecon&ocirc;micas. </b>Na verdade, esse foi o grande enredo do d&eacute;cimo anivers&aacute;rio em 2004: t&iacute;nhamos uma moeda digna desse nome sem que isso se transformasse em evento partid&aacute;rio.</p></p>
+<p><p>Aos 15 anos, tudo isso &eacute; ainda mais verdadeiro -e confuso. Permanece ainda mais desafiador um sofisma de autoria que pode ser descrito nos seguintes termos: <b>o PT construiu uma vers&atilde;o falsa do que foi a coisa, que o partido atacou e depois, ao herd&aacute;-la, &quot;consertou&quot; para o que &eacute; hoje e, assim, toma a obra como sua. J&aacute; o PSDB gagueja ao reafirmar que a coisa era o que realmente era -e que era sua- e era o que &eacute; hoje, pois, ao defender o que &eacute; seu, alinha-se ao que o PT hoje tem como seu</b>. Complexo, n&atilde;o&#63;</p></p>
+<p><p>Mais complexo &eacute; atinar para o seguinte: se os governos s&atilde;o dif&iacute;ceis de serem diferenciados quando se trata de princ&iacute;pios macroecon&ocirc;micos b&aacute;sicos, se o Banco Central e o Tesouro n&atilde;o s&atilde;o cargos partid&aacute;rios, onde est&aacute;, afinal, a diferen&ccedil;a&#63; Agora que j&aacute; estamos aquecendo os motores para a sucess&atilde;o do presidente Lula, essas perguntas se tornam mais pertinentes. E as respostas precisam come&ccedil;ar com as circunst&acirc;ncias, que, na pol&iacute;tica, s&atilde;o tudo ou 80% de tudo.</p></p>
+<p><p>Os governos bons acabam sendo do tamanho dos desafios que enfrentam, exceto quando ganham na loteria e praticam o surfe. &Eacute; claro que o surfe &eacute; popular, basta olhar &agrave; nossa volta, na vizinhan&ccedil;a latina, e ver as flores da bolha internacional, a pl&ecirc;iade de fanfarr&otilde;es e populistas torrando o que poderia ser a oportunidade de um salto qualitativo. Felizmente, n&atilde;o &eacute; o nosso caso. A despeito de alguns pecadilhos, &eacute; bastante claro o compromisso do presidente Lula nos terrenos da disciplina monet&aacute;ria, da responsabilidade fiscal e da sustentabilidade financeira do Estado. Uma express&atilde;o operacional desse compromisso -a &quot;tr&iacute;ade&quot; que compreende metas de infla&ccedil;&atilde;o, c&acirc;mbio flutuante e super&aacute;vit prim&aacute;rio- vinha e vem sendo adotada &agrave; risca desde que foi introduzida em 1999 no contexto do acordo com o FMI.</p></p>
+<p><p>&Eacute; claro que Lula, como FHC, tem prioridades adicionais no campo social, mas ambos aprenderam que nenhuma pol&iacute;tica social ter&aacute; efetividade se produzir, simultaneamente, um imposto sobre o pobre na forma de infla&ccedil;&atilde;o<b>. &Eacute; fato que, at&eacute; agora, estamos nos saindo relativamente bem na crise, mas n&atilde;o devemos perder de vista que isso tem pouco a ver com o PAC ou com o Fundo Soberano do Brasil: tem a ver com o fato de termos seguido pol&iacute;ticas ortodoxas e reformas gerais e setoriais, com destaque para o Proer, que vem melhorando nossos fundamentos h&aacute; 15 anos. </b>Essa consist&ecirc;ncia, nada comum na nossa hist&oacute;ria recente, vale celebrar sem preconceitos.</p></p>
+<p><p>GUSTAVO FRANCO , economista e empres&aacute;rio, doutor em economia pela Universidade de Harvard (EUA), &eacute; s&oacute;cio e diretor da Rio Branco Investimentos e professor do Departamento de Economia da PUC-RJ. Foi diretor de assuntos internacionais (1993-1997) e presidente do Banco Central do Brasil (1997-1999).</p></p>
+<p><p>&nbsp;</p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O partido já retirou de uma das comunidades pró-Eduardo Campos informações sobre o indiciamento de Humberto Costa pela Pol?cia Federal.</FONT></P></p>
 <p><P><FONT face=Verdana>Segundo o PSB, o autor da publicação (ver nota abaixo) é alguém não identificável.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

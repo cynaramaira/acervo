@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Ramos</STRONG><BR>Repórter do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>Na reunião com o secretariado, hoje, o governador Mendonça Filho (PFL) definiu prioridades para a agenda positiva que está sendo elaborada para estes dois últimos meses de governo. Pediu a cada um dos 15 secretários um levantamento sobre obras e projetos em andamento ou em conclusão. </FONT></P></p>
 <p><P><FONT face=Verdana>De acordo com o secretário de Planejamento e coordenador da equipe de transição, Cláudio Marinho, Mendonça faz questão de inaugurar escolas e quadras. </FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"Este centro tem a ver com a pol?tica de log?stica que implantamos, de atração de empresas\", frisou Cláudio Marinho. </FONT></P></p>
 <p><P><FONT face=Verdana>No caso da montadora japonesa, o governo entrou com incentivos fiscais, via Prodepe, o Programa de Desenvolvimento de Pernambuco. </FONT></P></p>
 <p><P><FONT face=Verdana>O</FONT><FONT face=Verdana> projeto exigiu investimentos da ordem de R$ 43 milhões. A previsão da Honda é que, em 2007, os novos centros de treinamento técnico e de pilotagem forme sete mil profissionais em pós-venda de motocicletas e automóveis.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

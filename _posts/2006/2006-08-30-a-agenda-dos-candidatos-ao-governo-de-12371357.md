@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B></p>
 <p><P><FONT face=Verdana><STRONG>19h30</STRONG>, caminhada no Alto do Moura, em Caruaru. Concentração: próximo ao Restaurante Lengo Tengo</FONT></P></p>
@@ -33,4 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>20h</FONT></B><FONT face=Verdana>, inauguração do Comitê de Eduardo da Fonte, em Afogados </FONT></P><B></p>
 <p><P><FONT face=Verdana>21h</FONT></B><FONT face=Verdana>, jantar de adesão à reeleição do deputado estadual João Fernando Coutinho com comunidade cient?fica. Local: Restaurante Boi Preto, no Pina </FONT></P><B></p>
 <p><P><FONT face=Verdana>23h</FONT></B><FONT face=Verdana>, participa da festa de aniversário do deputado estadual Sebastião Oliveira. Local: Restaurante Soho</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

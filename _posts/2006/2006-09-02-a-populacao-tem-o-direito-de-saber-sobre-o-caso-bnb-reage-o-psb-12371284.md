@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>A Frente Popular de Pernambuco, que apóia Eduardo Campos, o candidato do PSB ao governo do Estado, divulgou a seguinte nota sobre a ordem do Tribunal Regional Eleitoral de busca e apreensão de panfletos produzidos por Milton Coelho que tratam das d?vidas do deputado José Mendonça e da fam?lia dele com o Banco do Nordeste:</P></p>
 <p><P><BR><FONT face=Verdana><EM>NOTA OFICIAL </EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>A Frente Popular de Pernambuco, por seu colegiado de coordenação, denuncia à sociedade pernambucana acontecimentos de extrema gravidade, diante dos quais a consciência democrática não pode silenciar. </EM></FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>Alerta, ainda, que a ação dos nossos adversários no episódio revela, com toda a clareza, o caráter intrinsecamente autoritário do grupo pol?tico atualmente no poder em Pernambuco, apoiador de primeira hora do regime militar e certamente nostálgico do tempo em que podia silenciar a verdade por meio da força. Não nos silenciarão. </EM></FONT></P></p>
 <p><P><FONT</p>
 <p> face=Verdana><EM>Por fim, apela às autoridades constitu?das para que assegurem as condições para a livre expressão do pensamento e para o amplo debate pol?tico, sem o que estarão seriamente comprometidos o próprio estado de direito democrático e o processo eleitoral em curso em Pernambuco.</EM></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

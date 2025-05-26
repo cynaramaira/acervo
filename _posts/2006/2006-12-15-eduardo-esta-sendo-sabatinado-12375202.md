@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O governador eleito está sendo sabatinado há meia hora&nbsp;pelos jornalistas que ocupam boa parte do Salão Boa Vista, do Recife Praia Hotel.</FONT></P></p>
 <p><P><FONT face=Verdana>Muita gente se acotovela para ver o governador... O salão está quente. Muito quente... O arcondicionado não dá vencimento...</FONT></P></p>
 <p><P><FONT face=Verdana>Voltando à coletiva... Eduardo já falou sobre segurança, turismo, desenvolvimento do Interior de Pernambuco, Suape, acomodação dos partidos no governo...</FONT></P></p>
@@ -22,4 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"Pernambuco era o único Estado que não tinha secretaria de Recursos H?dricos. Nós temos o pior balanço h?drico de todo o Nordeste\".&nbsp;</FONT></P></p>
 <p><P><FONT face=Verdana>A entrevista coletiva continua...&nbsp;</FONT></P></p>
 <p><P><FONT face=Verdana>(Por Cec?lia Ramos)</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

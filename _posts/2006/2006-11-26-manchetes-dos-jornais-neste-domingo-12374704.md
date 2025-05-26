@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>JORNAL DO COMMERCIO:</FONT></P></p>
 <p><P><FONT face=Verdana>Tiros e morte no Espinheiro</FONT></P></p>
 <p><P><FONT face=Verdana>O ESTADO DE S.PAULO:</FONT></P></p>
@@ -39,4 +39,4 @@ imagem: null
 <p><P><FONT face=Verdana>Uma nova idade para a aposentadoria?</FONT></P></p>
 <p><P><FONT face=Verdana>GAZETA DO POVO (PR):</FONT></P></p>
 <p><P><FONT face=Verdana>Violência urbana afasta curitibanos dos vizinhos</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

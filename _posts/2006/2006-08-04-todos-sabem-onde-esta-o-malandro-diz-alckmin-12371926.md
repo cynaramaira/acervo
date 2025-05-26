@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Ana Paula Scinocca</STRONG> e <STRONG>Angela Lacerda</STRONG><BR>Da Agência Estado</FONT></P></p>
 <p><P><FONT face=Verdana>O candidato do PSDB à Presidência, Geraldo Alckmin, prometeu hoje, em Pernambuco, um trabalho \"duro\" no combate à corrupção e partiu para uma ousada provocação ao presidente Luiz Inácio Lula da Silva, ao dizer - sem citar nomes - que \"todo mundo sabe onde está o malandro\".</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

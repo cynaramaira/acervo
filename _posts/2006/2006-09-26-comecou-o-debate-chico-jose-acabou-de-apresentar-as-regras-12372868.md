@@ -15,6 +15,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Quem vai vencer? Será morno ou quente este debate? Vamos lá. </p>
-{\% endraw %}
+{% endraw %}

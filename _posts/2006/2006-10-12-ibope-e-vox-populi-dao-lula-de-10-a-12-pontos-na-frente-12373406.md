@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do <STRONG><EM><A href=\"https://www.noblat.com.br/\" target=_blank>blog</A></EM></STRONG> de Noblat</FONT></P></p>
 <p><P><FONT face=Verdana>Pesquisa Ibope que o Jornal Nacional divulgará daqui a pouco:<BR>&nbsp;<BR>Lula - 52% do total de votos<BR>Alckmin - 40%<BR>&nbsp;<BR>O Jornal da Band divulgou há pouco a mais recente pesquisa do Instituto Vox Populi:<BR>&nbsp;<BR>Lula - 51%<BR>Alckmin - 41%</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

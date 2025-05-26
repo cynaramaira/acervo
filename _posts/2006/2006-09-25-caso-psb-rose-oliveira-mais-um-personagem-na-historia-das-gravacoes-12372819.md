@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Desde o primeiro contato, Saulo Batista tem se apresentado como representante, informal, da empresa Conceito Consultoria em Eventos LTDA, de São Paulo.</FONT></P></p>
 <p><P><FONT face=Verdana>E garantido que o contato dele lá dentro é Rose Oliveira, apresentada como sócia da Conceito, que funcionaria no seguinte endereço: Rua Pedro de Toledo, 130, CJ 23, Jardim Luzitânia, São Paulo.</FONT></P></p>
 <p><P><FONT face=Verdana>A empresa, porém, não está na internet. No documento que Rose Oliveira encaminhou ao <STRONG>Blog</STRONG> informando que Saulo era seu representante nas conversações com gente do PSB, há um endereço sem qualquer relação com a Conceito: </FONT><A href=\"https://www.conceito.inf.br/\"><FONT face=Verdana><STRONG><EM>www.conceito.inf.br</EM></STRONG></FONT></A>.</P></p>
@@ -45,4 +45,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Rose</STRONG> - Então, assim...nós temos...o que está acontecendo...depois do que eu li do que foi publicado, eu prefiro que você triangule isso. É que o que eu disse acabou não saindo da forma que foi colocada e, bem, é melhor a gente triangular e você falar com uma pessoa só e essa pessoa te fornece as informações. Tá bom?</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Blog</STRONG> - Tá bom. Mas Saulo está se tornando sócio da empresa?</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Rose</STRONG> - Vocês...por favor, triangule as informações e a? o que ele te disser, se você precisar de confirmação, eu te faço isso.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

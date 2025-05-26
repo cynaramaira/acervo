@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><STRONG><FONT size=4></FONT></STRONG></p>
 <p><P><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" size=2><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" size=1><FONT size=2></p>
 <p><DIV style=\"FONT-SIZE: 90%\">Do <STRONG>Jornal do Commercio</STRONG></DIV></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><DIV style=\"FONT-SIZE: 90%\">&nbsp;</DIV></p>
 <p><DIV style=\"FONT-SIZE: 90%\">A ação judicial pediria o envio imediato do documento à CPI, conforme determinou a Justiça de Mato Grosso. “Estamos diante de um caso de obstrução da investigação por parte da Pol?cia Federal. Eles não nos enviaram sequer uma folha de papel. O relatório que eu tenho aqui me foi entregue pela imprensa. Nem sei se é verdadeiro???, protestou o deputado. </DIV></p>
 <p><P style=\"FONT-SIZE: 90%\">Leia mais <A href=\"https://jc3.uol.com.br/jornal/2006/10/23/not_205832.php\" target=_blank><STRONG><EM>aqui</EM></STRONG></A>&nbsp;(assinantes JC e UOL). </FONT></P></FONT></FONT> </p>
-{\% endraw %}
+{% endraw %}

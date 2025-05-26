@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Pierre Lucena*</STRONG><BR>Professor e administrador <BR></FONT><A href=\"mailto:pierre.lucena@contagemweb.com.br\"><FONT face=Verdana>pierre.lucena@contagemweb.com.br</FONT></A><FONT face=Verdana> </FONT></P></p>
 <p><P><FONT face=Verdana>A eleição para a Presidência da Ordem dos Advogados do Brasil, em Pernambuco, vem chamando atenção pela forte disputa, que até certo ponto seria surpresa, pelo fato de os candidatos de situação normalmente sa?rem na frente e terem uma certa folga até o fim da campanha.</FONT></P></p>
 <p><P><FONT face=Verdana>Neste ano, estamos assistindo a uma eleição muito dura, com campanhas bem direcionadas, com o clima de disputa eleitoral ganhando força a cada dia entre a categoria.</FONT></P></p>
@@ -29,4 +29,4 @@ imagem: null
 <p> estes proporcionaram na eleição.</FONT></P></p>
 <p><P><FONT face=Verdana>Estamos decidindo se na semana que vem fazemos outra pesquisa, com resultado mais consolidado. Quero deixar aberto para os candidatos a proposição de aperfeiçoamento da mesma, já que o único objetivo é auferir bons resultados. O resultado detalhado desta pesquisa foi apresentado pessoalmente às duas candidaturas, e a discussão da metodologia da próxima também estará à disposição. </FONT></P></p>
 <p><P><FONT face=Verdana><EM><STRONG>*Pierre Lucena</STRONG>, 35, doutor em finanças pela PUC-Rio, Mestre em Economia e Administrador pela UFPE, é professor-adjunto da Universidade Federal de Pernambuco, sócio da Contagem Consultoria Estratégica e Pesquisa (</EM></FONT><A href=\"https://www.contagemweb.com.br/\"><FONT face=Verdana><EM>www.contagemweb.com.br</EM></FONT></A><FONT face=Verdana><EM>). Foi secretário-adjunto de Educação do Estado. É Coordenador do Núcleo de Finanças e Investimentos do Departamento de Ciências Administrativas da UFPE (NEFI).</EM></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

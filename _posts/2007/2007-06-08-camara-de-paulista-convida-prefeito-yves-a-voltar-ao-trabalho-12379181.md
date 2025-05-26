@@ -1,0 +1,33 @@
+---
+id: 12379181
+date: "2007-06-08T08:10:00Z"
+last_modified_at: null
+tags:
+  - "camara"
+  - "paulista"
+  - "prefeito"
+  - "trabalho"
+  - "yves-ribeiro"
+categories:
+  - "noticias"
+title: "C\u00e2mara de Paulista convida prefeito Yves a voltar ao trabalho"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>&nbsp;</p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Da <strong>Editoria de Pol&iacute;tica do JC</strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Aproveitando viagem do prefeito Yves&nbsp;</font><font face=\"Verdana\" size=\"2\">Ribeiro &agrave; Europa, a C&acirc;mara Municipal de Paulista aprovou, na &uacute;ltima&nbsp;</font><font face=\"Verdana\" size=\"2\">ter&ccedil;a-feira (5), um requerimento convidando o chefe do Executivo a &ldquo;voltar&nbsp;</font><font face=\"Verdana\" size=\"2\">ao trabalho&rdquo;. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">De acordo com os vereadores, Yves n&atilde;o freq&uuml;enta a&nbsp;</font><font face=\"Verdana\" size=\"2\">Prefeitura desde muito antes de embarcar. Segundo o vereador Jo&atilde;o&nbsp;</font><font face=\"Verdana\" size=\"2\">Mendon&ccedil;a (PAN), autor da medida, o requerimento foi aprovado por quase&nbsp;</font><font face=\"Verdana\" size=\"2\">todos os integrantes do Legislativo municipal, inclusive pela bancada&nbsp;</font><font face=\"Verdana\" size=\"2\">governista. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Entre os 12 presentes&nbsp;&agrave; sess&atilde;o, apenas o l&iacute;der&nbsp;</font><font face=\"Verdana\" size=\"2\">governista, N&eacute;lson Falc&atilde;o, n&atilde;o teria dado o seu apoio. Jo&atilde;o Mendon&ccedil;a contou que h&aacute; mais de 90 dias Yves Ribeiro n&atilde;o&nbsp;</font><font face=\"Verdana\" size=\"2\">aparece na Prefeitura. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&quot;Todo mundo j&aacute; estava notando, mas eu pedi a um&nbsp;</font><font face=\"Verdana\" size=\"2\">assessor meu para constatar. O assessor ia l&aacute; todo dia, perguntava&nbsp;</font><font face=\"Verdana\" size=\"2\">pelo prefeito e era informado de que ele n&atilde;o se encontrava. Soubemos&nbsp;</font><font face=\"Verdana\" size=\"2\">ent&atilde;o que o prefeito estava despachando na casa de amigos, em&nbsp;</font><font face=\"Verdana\" size=\"2\">restaurantes e hot&eacute;is. Por isso resolvi fazer o requerimento apelando&nbsp;</font><font face=\"Verdana\" size=\"2\">para ele voltar ao trabalho&rdquo;, explicou. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O vereador avalia que a aus&ecirc;ncia do prefeito na sede da Prefeitura tem&nbsp;</font><font face=\"Verdana\" size=\"2\">incomodado todo mundo, tanto que a pr&oacute;pria bancada governista votou a&nbsp;</font><font face=\"Verdana\" size=\"2\">favor do requerimento. &ldquo;Se existe um pr&eacute;dio, uma estrutura f&iacute;sica para&nbsp;</font><font face=\"Verdana\" size=\"2\">o prefeito exercer sua fun&ccedil;&atilde;o, n&atilde;o &eacute; certo ele ficar despachando onde&nbsp;</font><font face=\"Verdana\" size=\"2\">bem entender&rdquo;, criticou. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Ele informou ainda que o requerimento ser&aacute; enviado &agrave; Prefeitura, na&nbsp;</font><font face=\"Verdana\" size=\"2\">pr&oacute;xima ter&ccedil;a-feira, quando Yves j&aacute; ter&aacute; voltado da Europa, onde est&aacute;&nbsp;</font><font face=\"Verdana\" size=\"2\">desde o &uacute;ltimo dia 25. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&ldquo;O que a gente sabe &eacute; que, mesmo quando ele&nbsp;</font><font face=\"Verdana\" size=\"2\">est&aacute; no Estado, n&atilde;o freq&uuml;enta o gabinete. Se o chefe do Executivo n&atilde;o&nbsp;</font><font face=\"Verdana\" size=\"2\">aparece na Prefeitura, n&atilde;o tem como atender &agrave; popula&ccedil;&atilde;o e &agrave;s pr&oacute;prias </font><font face=\"Verdana\" size=\"2\">demandas do cargo. Secret&aacute;rios, vereadores e comunidades nunca o </font><font face=\"Verdana\" size=\"2\">encontram&rdquo;, refor&ccedil;ou a cr&iacute;tica o vereador Andr&eacute; Gustavo, que est&aacute; para&nbsp;</font><font face=\"Verdana\" size=\"2\">ingressar no PMDB.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Outro integrante da C&acirc;mara, Br&aacute;s Seabra (PTB), se queixa de que as&nbsp;</font><font face=\"Verdana\" size=\"2\">solicita&ccedil;&atilde;o dos vereadores, que repassam as necessidades das&nbsp;</font><font face=\"Verdana\" size=\"2\">comunidades, n&atilde;o t&ecirc;m sido atendidas. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&ldquo;A gest&atilde;o n&atilde;o tem resolvido&nbsp;</font><font face=\"Verdana\" size=\"2\">nossos pedidos, que v&ecirc;m da pr&oacute;pria popula&ccedil;&atilde;o, e isso tem gerado&nbsp;</font><font face=\"Verdana\" size=\"2\">desgaste. N&atilde;o posso garantir que ele (Yves) n&atilde;o tem ido trabalhar,&nbsp;</font><font face=\"Verdana\" size=\"2\">apenas que ele n&atilde;o tem resolvido nossos pleitos&rdquo;, minimizou, apesar de&nbsp;</font><font face=\"Verdana\" size=\"2\">ter votado a favor do requerimento.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Para a secret&aacute;ria de Governo, Terezinha Mousinho, as cr&iacute;ticas ao&nbsp;</font><font face=\"Verdana\" size=\"2\">prefeito n&atilde;o fazem sentido. &ldquo;Yves tem um estilo pr&oacute;prio. N&atilde;o &eacute; um&nbsp;</font><font face=\"Verdana\" size=\"2\">prefeito de gabinete. Fica muito fora da Prefeitura, mas &eacute; porque est&aacute;&nbsp;</font><font face=\"Verdana\" size=\"2\">na rua, visitando obras, conhecendo a realidade da cidade, cobrando&nbsp;</font><font face=\"Verdana\" size=\"2\">dos secret&aacute;rios&rdquo;, defende. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Disse ainda que, como o munic&iacute;pio &eacute; grande,&nbsp;</font><font face=\"Verdana\" size=\"2\">&ldquo;o prefeito atende tamb&eacute;m na Secretaria de Turismo, que fica no Janga,&nbsp;</font><font face=\"Verdana\" size=\"2\">para poder ficar perto do pessoal que mora nas praias. Mas ele tamb&eacute;m&nbsp;</font><font face=\"Verdana\" size=\"2\">recebe a popula&ccedil;&atilde;o na Prefeitura. As pessoas querem que ele fique no&nbsp;</font><font face=\"Verdana\" size=\"2\">centro o tempo todo, mas n&atilde;o pode, ele tem que estar na rua,&nbsp;</font><font face=\"Verdana\" size=\"2\">trabalhando&rdquo;.</font></p> </p>
+{% endraw %}

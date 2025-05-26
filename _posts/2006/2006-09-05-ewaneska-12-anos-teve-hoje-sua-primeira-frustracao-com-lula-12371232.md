@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Ela tem um nome estranho, forte, chama-se Ewaneska Emanoelamisena. </FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>&nbsp;<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Está com 12 anos e passou as últimas três horas e meia esperando por Lula no aeroporto de Caruaru. </FONT></P></p>
@@ -42,4 +42,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>A garota lamenta ver os avós tentando reformar a casa pobre sem conseguir. Dona Josefa até pediu um empréstimo no banco. Sem sucesso. O casal</p>
 <p> não tem renda suficiente para isso. Recebe apenas dois salários m?nimos mensais.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></P><SPAN style=\"FONT-SIZE: 12pt; FONT-FAMILY: \Times New Roman\; mso-fareast-font-family: \Times New Roman\; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA\"><FONT face=Verdana size=2>Ewaneska vai ter que ser mais paciente.</FONT></SPAN> </p>
-{\% endraw %}
+{% endraw %}

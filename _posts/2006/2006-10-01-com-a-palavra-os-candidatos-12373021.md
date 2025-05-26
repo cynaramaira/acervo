@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana size=2></p>
 <p><P></FONT><FONT face=\"Times New Roman\"><FONT face=Verdana>Do <STRONG><EM><A href=\"https://www.noblat.com.br/\" target=_blank>blog</A></EM></STRONG> de Noblat</FONT></P></p>
 <p><P><FONT face=Verdana>Veja o que disse cada um dos principais candidatos à Presidência depois de votar.</FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>- O PSOL vai ter posição definida para o segundo turno após o resultado da eleição. Mas nossos eleitores são homens e mulheres livres, com liberdade de escolha.</FONT></P><B></p>
 <p><P><FONT face=Verdana>Cristovam Buarque (PDT)</FONT></P></B></p>
 <p><P><FONT face=Verdana>- Para o Brasil, é bom que tenha um segundo turno (...) Dos candidatos que estiverem no segundo turno, vamos ver quais deles vão estar mais comprometidos com a democracia, com a educação e com os direitos trabalhistas. A? nós vamos escolher um deles. Não será uma escolha pessoal, será uma escolha do partido.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

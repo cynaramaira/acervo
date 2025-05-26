@@ -16,8 +16,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>O ex-governador bateu duro na oposição e fez referências diretas a Humberto Costa (PT), no discurso que acaba de proferir na inauguração do comitê cental da União por Pernambuco, no Recife.</P></p>
 <p><P>Segundo Jorge Cavalcanit, repórter do JC, Jarbas Vasconcelos (PMDB) disparou:</P></p>
 <p><P>\"Mendonça é o melhor e o mais limpo para Pernambuco. Não devemos votar em sanguessugas, ladrões e em gente que não presta\".</P> </p>
-{\% endraw %}
+{% endraw %}

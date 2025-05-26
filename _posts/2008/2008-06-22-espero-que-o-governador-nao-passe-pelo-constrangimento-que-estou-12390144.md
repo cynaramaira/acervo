@@ -1,0 +1,38 @@
+---
+id: 12390144
+date: "2008-06-22T13:24:00Z"
+last_modified_at: null
+tags:
+  - "governadores"
+  - "naomi-campbell"
+  - "repasse"
+categories:
+  - "noticias"
+title: "\"Espero que o governador n\u00e3o passe pelo constrangimento que estou passando\"         "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">Por Ana L&uacute;cia Andrade<br /></p>
+<p>De Pol&iacute;tica do JC, enviada especial a Petrolina</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>JORNAL DO COMMERCIO &ndash; O senhor est&aacute; otimista com a conven&ccedil;&atilde;o deste domingo? </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>ODACY AMORIM</strong> - Tirei um tempinho na sexta-feira e s&aacute;bado para visitar alguns eleitores porque o partido aqui est&aacute; muito forte. Mas estou confiante em Deus de que vou ganhar essa batalha. &Eacute; uma luta de Davi contra Golias. Ele &eacute; deputado h&aacute; muito tempo, tem o monop&oacute;lio do partido, criou problema com as nossas filia&ccedil;&otilde;es, retirou algumas, impugnou outras, o partido aqui &eacute; muito fechado. Mas tudo bem, isso &eacute; coisa que se supera. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>JC - Mas em contrapartida o senhor tem o apoio de um secret&aacute;rio forte do governo, Fernando Bezerra Coelho, e do governador Eduardo campos. </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>ODACY</strong> - Eu sei que tenho a solidariedade do governador, mas essa &eacute; uma luta que &eacute; feita aqui dentro. E essa batalha n&oacute;s vamos fechar hoje. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>JC - E nessa batalha ter a solidariedade do governador n&atilde;o faz a diferen&ccedil;a? </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>ODACY -</strong> O apoio do governador &eacute; importante. Mas &eacute; porque n&oacute;s n&atilde;o esper&aacute;vamos que fosse chegar a isso, a bater chapa. Termina sendo realmente uma luta em que, por mais que o governador queira, ele n&atilde;o tem como fazer grandes interven&ccedil;&otilde;es. At&eacute; porque se trata de pessoas que t&ecirc;m liga&ccedil;&otilde;es com ele e com o partido. Mas &eacute; bom que se registre que eu fui o primeiro vereador do PSB em Petrolina. Quando me elegi aos 20 anos (em 92), Gonzaga era do PDT. Ent&atilde;o tamb&eacute;m tenho uma trajet&oacute;ria no partido, tinha uma liga&ccedil;&atilde;o com doutor Arraes, com Ranilson Ramos e com Fernando Bezerra. Existe esse debate, essa luta, e meu grande problema &eacute; que n&atilde;o gosto muito de aparecer. Gosto &eacute; de trabalhar. Minha lideran&ccedil;a ser&aacute; consolidada agora. Nessa hist&oacute;ria de Davi e Golias, Davi j&aacute; consegue ter 16 partidos, 9 vereadores, 1 deputado federal, 2 estaduais. O PDT &eacute; que ainda est&aacute; resistente, mas tamb&eacute;m n&atilde;o luto para t&ecirc;-lo no meu partido. N&atilde;o quero nada for&ccedil;ado. J&aacute; fiz um apelo a Jos&eacute; Queiroz, ao vice-governador Jo&atilde;o Lyra, e ao PDT local. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>JC - O senhor reconhece que chegar &agrave; conve&ccedil;&atilde;o, ao bater chapa mostrou a for&ccedil;a de Gonzaga Patriota? </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>ODACY </strong>- &Eacute;. Mas acho que nem sempre &eacute; bom medir for&ccedil;a. Todo mundo tem for&ccedil;a. E &agrave;s vezes quando se mede for&ccedil;a termina-se perdendo for&ccedil;a. O caminho &eacute; juntar for&ccedil;a. Petrolina tem dois deputados federais e o que eles devem fazer &eacute; prestar contas do que fazem. Porque na ponta, no meio e no centro de tudo isso &eacute; o povo. E o povo cobra de mim e vai cobrar dos deputados essa coisa de j&aacute; entrar numa elei&ccedil;&atilde;o pensando na outra. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>JC -Que cen&aacute;rio o senhor imagina para o PSB ap&oacute;s esse embate deste domingo?</strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>ODACY -</strong> Acho que o partido vai sair forte. Agora poderia sair mais forte. Porque era para ter tido um entendimento, n&atilde;o precisava chegar a esse ponto. Mas, como dizem, fam&iacute;lia grande n&atilde;o presta nem para tirar retrato... Ent&atilde;o talvez seja isso que est&aacute; acontecendo em Petrolina. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>JC - O senhor acredita que se vencer ter&aacute; o apoio de Patriota? O partido seguir&aacute; unido no caminho que a conven&ccedil;&atilde;o indicar? </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>ODACY </strong>- O melhor caminho &eacute; a uni&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>JC - Ent&atilde;o o senhor, derrotado na conven&ccedil;&atilde;o, ap&oacute;ia Patriota? </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>ODACY </strong>- O caminho &eacute; a uni&atilde;o. O melhor nome para ganhar a elei&ccedil;&atilde;o &eacute; o meu. Pela capacidade de aglutina&ccedil;&atilde;o de for&ccedil;as pol&iacute;ticas em torno do meu nome. Essa era a leitura que o partido tinha que ter feito. O partido cobrou de mim tudo, e eu dei tudo que o partido pediu. N&oacute;s somos a cidade mais din&acirc;mica do Estado, reconhecida pela Gazeta Mercantil, do projeto que o governo tem defendido com unhas e dentes, o de seguran&ccedil;a p&uacute;blica, Petrolina &eacute; a cidade que ofereceu a melhor solu&ccedil;&atilde;o. Enquanto o Estado reduziu em 7 % o &iacute;ndice de viol&ecirc;ncia, Petrolina reduziu em 40%. Estamos para inaugurar o mais importante hospital do interior do Nordeste, o de traumas, no dia 30, e estamos trazendo o IMIP para administrar o Dom Malan, inclusive numa parceria com o Estado. Ent&atilde;o, infelizmente, eu n&atilde;o esperava passar por uma prova de fogo t&atilde;o grande como estou passando. Mas aceito, porque minha vida sempre foi feita de muita luta e Deus nunca me faltou. E &eacute; dele que eu dependo totalmente. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>JC - O senhor se ressente de uma falta de reciprocidade na rela&ccedil;&atilde;o com o partido? </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>ODACY -</strong> Gostaria de fazer a ressalva de que entendo o gesto do presidente Milton Coelho, do governador, mas s&oacute; fa&ccedil;o uma reflex&atilde;o: imagine que o governador, daqui a dois anos, para disputar a reelei&ccedil;&atilde;o, tenha que ir para um bate chapa em uma conven&ccedil;&atilde;o. Eu n&atilde;o acho isso normal. Espero que o governador n&atilde;o passe pelo constrangimento que estou passando. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>JC - As pesquisas podem ter influenciado o partido em ter permitido chegar ao bate chapa? </strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>ODACY</strong> - N&atilde;o. Eu fa&ccedil;o pesquisa constantemente e estou oito pontos atr&aacute;s do deputado, que passou dois anos usando seus meios de comunica&ccedil;&atilde;o para fazer oposi&ccedil;&atilde;o ao meu governo e ao do governador Eduardo Campos. Sou uma pessoa de grupo, de partido, e essa minha condi&ccedil;&atilde;o faz com que eu esteja nas horas f&aacute;ceis e nas dif&iacute;ceis. Quando eu aceite ser vice de Fernando, aceitei em nome de um projeto de grupo. Fernando estava em terceiro lugar nas pesquisas e eu aceitei. Eu tinha uma reelei&ccedil;&atilde;o de vereador mais ou menos garantida. </font></p> </p>
+{% endraw %}

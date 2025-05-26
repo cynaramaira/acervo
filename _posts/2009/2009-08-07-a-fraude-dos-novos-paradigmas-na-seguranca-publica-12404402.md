@@ -1,0 +1,31 @@
+---
+id: 12404402
+date: "2009-08-07T11:44:15Z"
+last_modified_at: null
+tags:
+  - "fraude"
+  - "novos"
+  - "seguranca"
+categories:
+  - "colunistas"
+title: "A fraude dos novos paradigmas na seguran\u00e7a p\u00fablica"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Edilson Silva</p></p>
+<p><p>Nas &uacute;ltimas semanas alguns epis&oacute;dios envolvendo o tema da seguran&ccedil;a p&uacute;blica em Pernambuco nos ajudaram a compreender melhor o alcance e a honestidade das supostas transforma&ccedil;&otilde;es que o governo estadual advoga estar operando na &aacute;rea. S&atilde;o eles a Confer&ecirc;ncia Estadual de Seguran&ccedil;a P&uacute;blica, realizada entre os dias 22 e 24 de julho; a Audi&ecirc;ncia P&uacute;blica promovida pelo Minist&eacute;rio P&uacute;blico Estadual para debater a qualidade da forma&ccedil;&atilde;o dos novos policiais militares, convocada pela Promotoria de Justi&ccedil;a de Defesa da Cidadania e Direitos Humanos, realizada no &uacute;ltimo dia 31/07 e protagonizada pelo promotor Westey Conde; e a chegada &agrave;s ruas dos novos policiais formados &agrave;s pressas pela Pol&iacute;cia Militar.</p></p>
+<p><p>A Confer&ecirc;ncia Estadual de Seguran&ccedil;a P&uacute;blica, que deveria se constituir como momento e espa&ccedil;o de interlocu&ccedil;&atilde;o entre sociedade civil e Poder P&uacute;blico para a busca de alternativas &agrave; fal&ecirc;ncia do modelo de seguran&ccedil;a p&uacute;blica atual, transformou-se j&aacute; na sua abertura numa demonstra&ccedil;&atilde;o por parte do governador da nega&ccedil;&atilde;o do di&aacute;logo. <br /></p>
+<p><br /></p>
+<p>A abertura da confer&ecirc;ncia foi marcada por um pared&atilde;o do batalh&atilde;o de choque da PM em frente &agrave; entrada principal do centro de conven&ccedil;&otilde;es onde acontecia uma grande mesa &ldquo;plural e afinada&rdquo; em defesa de um novo paradigma de seguran&ccedil;a p&uacute;blica. De frente ao pared&atilde;o da tropa de choque, algumas dezenas de professores que ap&oacute;s fechados todos os canais de negocia&ccedil;&atilde;o manifestavam em greve seu descontentamento com a postura do governador Eduardo Campos.</p></p>
+<p><p>A sociedade civil presente &agrave; confer&ecirc;ncia redigiu uma mo&ccedil;&atilde;o de rep&uacute;dio e coletou assinaturas contra a presen&ccedil;a descabida dos policiais da tropa de choque, mas a leitura da mo&ccedil;&atilde;o foi protelada pela outra tropa de choque do governador, formada pelo deputado estadual Isaltino Nascimento (PT) e pelo assessor especial do governador, Luiz Ratton, com o objetivo de coloc&aacute;-la &agrave; aprecia&ccedil;&atilde;o quando a confer&ecirc;ncia j&aacute; estava esvaziada da sociedade civil e formada majoritariamente por subordinados do governo. Uma manobra vergonhosa. A sociedade civil foi brutalmente desrespeitada no exato momento e local em que ela supostamente teria um m&iacute;nimo de protagonismo.</p></p>
+<p><p>J&aacute; a Audi&ecirc;ncia do Minist&eacute;rio P&uacute;blico conseguiu desnudar os riscos e a irresponsabilidade do governo estadual ao colocar nas ruas policiais absolutamente despreparados. Certamente ciente de suas insufici&ecirc;ncias, o governo do estado n&atilde;o enviou &agrave; audi&ecirc;ncia o secret&aacute;rio de Defesa Social, Sevilho Paiva, que sequer se dignou a ir ao Minist&eacute;rio P&uacute;blico prestar esclarecimentos quando foi chamado. O inqu&eacute;rito aberto ainda aguarda a oitiva.</p></p>
+<p><p>Presente estava Rodrigo Pelegrino, Secret&aacute;rio Estadual de Desenvolvimento Social e Direitos Humanos, que diante dos muitos questionamentos do promotor Westey Conde se limitou a afirmar que n&atilde;o conhecia os dados apresentados, momento em que foi informado pela promotoria que os dados apresentados pelo Minist&eacute;rio P&uacute;blico foram coletados na pr&oacute;pria Secretaria de Defesa Social. Um constrangimento.</p></p>
+<p><p>O governo n&atilde;o soube responder se &eacute; correto um policial militar ter menos carga hor&aacute;ria de tiro que um seguran&ccedil;a de banco, tendo apenas 30 horas de treinamento de tiro seletivo quando o m&iacute;nimo para conferir um aprendizado elementar &eacute; 120 horas. Se &eacute; correto um policial em 2001 ser formado com 2.162 horas de treinamento e em 2009 ir &agrave;s ruas com apenas 760 horas. Se com apenas 3 horas/aula &eacute; poss&iacute;vel aprendizado sobre preserva&ccedil;&atilde;o de prova. Se com apenas 18 horas/aula &eacute; poss&iacute;vel ter no&ccedil;&otilde;es minimamente s&oacute;lidas sobre respeito aos direitos humanos.</p></p>
+<p><p>S&atilde;o estes &ldquo;policiais&rdquo;, fardados e armados, que est&atilde;o nas ruas do nosso estado. O principal argumento do governo &eacute; que &eacute; ruim com eles, mas pior sem eles. Um argumento irrespons&aacute;vel &eacute; eleitoreiro, de quem n&atilde;o pensa a seguran&ccedil;a p&uacute;blica como um processo que tem que se guiar por uma boa base de forma&ccedil;&atilde;o e valoriza&ccedil;&atilde;o dos profissionais da &aacute;rea, pensando obviamente nos impactos imediatos, mas tamb&eacute;m de m&eacute;dio e longo prazos. Estes novos policiais foram formados tendo que pagar pelo seu fardamento, alimenta&ccedil;&atilde;o e material de apoio. &Eacute; uma trag&eacute;dia anunciada.</p></p>
+<p><p>Por fim, a chegada destes policiais &agrave;s ruas n&atilde;o deixa d&uacute;vidas sobre as inten&ccedil;&otilde;es do governo. Com todo o respeito aos policiais, que s&atilde;o tamb&eacute;m v&iacute;timas de todo este processo, mas o governo do estado est&aacute; utilizando-os como outdoors vivos. S&atilde;o policiais outdoors. Colocados estrategicamente nos principais corredores da regi&atilde;o metropolitana, na orla, duplas espalhadas onde a classe m&eacute;dia passa, onde o pov&atilde;o, espremido em &ocirc;nibus, passa e pode ver mais policiais. S&oacute; isso.</p></p>
+<p><p>Talvez a analogia n&atilde;o seja a melhor, mas a sujeira continua sendo jogada para debaixo do tapete, enquanto o corredor onde o padre passa recebeu uma guaribada. Lament&aacute;vel.</p></p>
+<p><p>PS: Edilson &eacute; presidente do PSOL-PE e escreve semanalmente para o Blog de Jamildo.</p> </p>
+{% endraw %}

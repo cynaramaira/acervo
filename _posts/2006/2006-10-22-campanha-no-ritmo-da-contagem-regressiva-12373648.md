@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do <STRONG>Jornal do Commercio</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Os dois candidatos ao governo do Estado, o ex-ministro Eduardo Campos (PSB) e o governador Mendonça Filho (PFL), terão um domingo sem atividades de campanha de rua, dedicando o tempo para descansar e se preparar para o debate de hoje à noite, na TV Jornal. </FONT></P></p>
 <p><P><FONT face=Verdana>Para a última semana antes do domingo da eleição (29), no entanto, a ordem - comum aos dois palanques - é organizar eventos em cidades-pólos de todas as regiões do Estado.</FONT></P></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>(...)</FONT></P></p>
 <p><P><FONT face=Verdana>Empolgados com a caminhada da última quinta-feira pelo centro do Recife e o entusiasmo e a disposição de lutar até o fim demonstrada por Mendonça, a coordenação decidiu que a estratégia final passará pelo Sertão do São Francisco, o Agreste Meridional, a Zona da Mata, na área norte do Recife e dois grandes atos, um em Olinda e outro em Paulista. </FONT></P></p>
 <p><P><FONT face=Verdana>O coordenador Charles Ribeiro admitiu que carreatas como a realizada ontem, saindo de Recife com destino a Caruaru, poderão se repetir, mas no sentido inverso: vindo da Zona da Mata em direção à Capital.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O governador negou há pouco, na Rádio Folha, que tivesse escondido o candidato dele a presidente da República, Geraldo Alckmin (PSDB), no primeiro turno.</FONT></P></p>
 <p><P><FONT face=Verdana>Justificou o fato de Alckmin não ter aparecido nenhum único dia no guia eleitoral com uma decisão do Tribunal Superior Eleitoral, que chegou a punir o presidente Lula pelo tempo que apareceu em programas de candidatos a governador em diversos estados.</FONT></P></p>
 <p><P><FONT face=Verdana>A decisão do TSE, porém, foi tomada no final da campanha. E quem apareceu mesmo na propaganda de Mendonça foi Lula.</FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Alckmin recebeu praticamente metade: 964,7 mil (22,86%).</FONT></P></p>
 <p><P><FONT face=Verdana>Ou seja, a maioria dos eleitores de Mendonça votou em Lula, não em Alckmin.</FONT></P></p>
 <p><P><FONT face=Verdana color=crimson>O BLOG TEM NOVO ENDEREÇO: </FONT><A href=\"https://www.jc.com.br/blogdojc\"><FONT face=Verdana color=crimson>www.jc.com.br/blogdojc</FONT></A><FONT color=crimson> </FONT></P> </p>
-{\% endraw %}
+{% endraw %}

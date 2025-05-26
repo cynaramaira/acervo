@@ -1,0 +1,52 @@
+---
+id: 12391241
+date: "2008-07-28T09:27:22Z"
+last_modified_at: null
+tags:
+  - "cidades"
+  - "estado"
+categories:
+  - "noticias"
+title: "O Estado, a cidade e a viol\u00eancia"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p align="justify">Por Roberto Numeriano</p></p>
+<p><p align="justify">Desde antes do come&ccedil;o da campanha, as elei&ccedil;&otilde;es acenderam os debates em torno da seguran&ccedil;a p&uacute;blica em Pernambuco, dado o grau elevado da viol&ecirc;ncia que sofremos. Como candidato do Partido Comunista Brasileiro (PCB) &agrave; prefeitura do Recife, considero a viol&ecirc;ncia como um dos mais graves desafios pol&iacute;tico-sociais do pa&iacute;s, da nossa cidade e do Estado brasileiro. Uma viol&ecirc;ncia que nivelou em um mesmo desespero a massa de an&ocirc;nimos exclu&iacute;dos mortos nas periferias &agrave;s pessoas de classe m&eacute;dia, antes apenas raramente v&iacute;timas de assaltos e homic&iacute;dios.</p></p>
+<p><p align="justify">&nbsp;</p></p>
+<p><p align="justify">Se a sensibilidade de alguns n&atilde;o &eacute; eleitoreira, trata-se do reconhecimento sobre a natureza e o alcance da viol&ecirc;ncia em todos os seus matizes (principalmente, no aspecto criminal). Pernambuco e nossa cidade s&atilde;o violentos em um grau equipar&aacute;vel &agrave;s zonas de guerra. Do crime dito por &quot;motivo f&uacute;til&quot; at&eacute; os assaltos organizados por quadrilhas, a viol&ecirc;ncia social explode como sintoma de causas v&aacute;rias.</p></p>
+<p><p align="justify">&nbsp;</p></p>
+<p><p align="justify">Dentre tantas, importa-nos aqui ressaltar a rela&ccedil;&atilde;o entre a viol&ecirc;ncia, a cidade e o Estado. Sim, sobretudo o Estado como aparato jur&iacute;dico, pol&iacute;tico e social. A pergunta essencial, &eacute;: ainda existe o Estado no Brasil&#63; Em outras palavras, al&eacute;m do seu papel (diria, cada vez mais <i>legalmente extorsivo</i>) de coletor de impostos, o Estado est&aacute; cumprindo sua parte no contrato social, que &eacute; guardar a vida e prover a seguran&ccedil;a do cidad&atilde;o&#63;</p></p>
+<p><p align="justify">&nbsp;</p></p>
+<p><p align="justify">A pergunta, sob formas e inspira&ccedil;&otilde;es diversas, imp&otilde;e-se necessariamente quando quisermos refletir a viol&ecirc;ncia como terror social concreto ou uma possibilidade de terror. Para somar &agrave; discuss&atilde;o algumas quest&otilde;es que julgamos relevantes, relacionamos a seguir alguns temas, sobre os quais desde j&aacute; tomamos uma posi&ccedil;&atilde;o, sem o vezo, &eacute; claro, de que pretendamos estar com a resposta.</p></p>
+<p><p align="justify">&nbsp;</p></p>
+<p><p align="justify">Em primeiro lugar, o Brasil vive o que chamamos de paradoxo de Weber. A tese de Max Weber de que o Estado det&eacute;m o monop&oacute;lio do uso legal da for&ccedil;a n&atilde;o se aplica hoje ao Estado brasileiro, em termos concretos. E n&atilde;o se aplica pelo fato de que a inefetividade das leis torna nula a confian&ccedil;a entre os agentes p&uacute;blicos e o cidad&atilde;o. Quando o Estado n&atilde;o &eacute; capaz de efetivar a seguran&ccedil;a, tende a se anular como inst&acirc;ncia legal que se auto-legitima para exercer a for&ccedil;a pelo fato de ser o Estado.</p></p>
+<p><p align="justify">&nbsp;</p></p>
+<p><p align="justify">Outro ponto trata do mito da impunidade. Nossas cadeias e pres&iacute;dios est&atilde;o abarrotados de acusados e criminosos. Outros milhares de mandados de pris&atilde;o expedidos pela Justi&ccedil;a diariamente tramitam nos cart&oacute;rios. Pune-se muito, no Brasil. Mas as leis atuais s&atilde;o eficazes e efetivas para penalizar os delinq&uuml;entes, em um grau justo face aos seus delitos&#63; O Estado pode socializ&aacute;-los&#63; Nossa resposta &eacute; negativa, pois em ambos os casos seria preciso existir aquele Estado do ideal weberiano.</p></p>
+<p><p align="justify">&nbsp;</p></p>
+<p><p align="justify">Tamb&eacute;m &eacute; necess&aacute;rio refletir sobre o mito da paz. Nenhuma sociedade capitalista que viva graves contradi&ccedil;&otilde;es econ&ocirc;micas ser&aacute; pacificada em termos ideais. Ali&aacute;s, cada vez mais <i>ser da paz</i> virou uma grife da moda para oportunistas ou bem intencionados desfilarem seu proselitismo. Todavia, em qualquer sociedade na qual o Estado cumpre minimamente seu papel de provedor da seguran&ccedil;a e da vida, na rela&ccedil;&atilde;o entre grau de viol&ecirc;ncia e grau de pacifismo, o peso maior deve ser o da paz social. Sem cair na ilus&atilde;o de que um dia poderemos sair pelas ruas totalmente sem medo de um assalto, seq&uuml;estro ou tiro, devemos saber que ao Estado cabe tornar muito remota estas possibilidades de agress&atilde;o.</p></p>
+<p><p align="justify">&nbsp;</p></p>
+<p><p align="justify">Por fim, vivemos o que chamo de banaliza&ccedil;&atilde;o do mal. Trata-se do mais grave sintoma de uma sociedade doente. O maior sintoma desse mal est&aacute; numa <i>naturaliza&ccedil;&atilde;o</i> do terror que amea&ccedil;a, estropia e tira vidas. O crime apenas nos assusta, mas n&atilde;o nos mobiliza social e politicamente. &Eacute; como se a viol&ecirc;ncia, mesmo no grau em que est&aacute;, fosse um dado natural na luta pela sobreviv&ecirc;ncia, semelhante ao ato de ir trabalhar.</p></p>
+<p><p align="justify">&nbsp;</p></p>
+<p><p align="justify">Estamos em uma guerra. E se o Estado s&oacute; existe para exercer sua extors&atilde;o legal de impostos, a nossa elite social e pol&iacute;tica, em seus &quot;bunkers&quot; caseiros e carros blindados, podia pensar em um percentual da arrecada&ccedil;&atilde;o para aparelhar tecnologicamente, aumentar os efetivos militares e civis, al&eacute;m da capacidade operacional no combate ao crime. Seria um imposto de guerra arrancado ao pr&oacute;prio Estado. Talvez assim ele come&ccedil;asse a enxergar a gravidade do terror social que nos envolve.</p></p>
+<p><p align="justify">&nbsp;</p></p>
+<p><p align="justify">Da&iacute; ser necess&aacute;rio encarar a viol&ecirc;ncia como um problema (tamb&eacute;m) da cidade, a seu modo um micro-Estado. E &eacute; como Oficial de Intelig&ecirc;ncia, tendo uma compreens&atilde;o t&eacute;cnica e operacional sobre o crime e a criminalidade, que propusemos as seguintes id&eacute;ias no nosso programa de governo:</p></p>
+<p><p align="justify">&nbsp;</p></p>
+<p><p align="justify">1. Realizar concurso para aumentar o efetivo da Guarda Municipal, que dever&aacute; atuar tamb&eacute;m nos espa&ccedil;os p&uacute;blicos, sob o conceito de for&ccedil;a auxiliar da Pol&iacute;cia Militar. A Guarda Municipal dever&aacute; reunir as condi&ccedil;&otilde;es log&iacute;sticas e operacionais para prover a seguran&ccedil;a dos recifenses. Quanto ao uso de arma no desempenho de sua fun&ccedil;&atilde;o, vamos propor uma consulta popular para decidir;<br /></p>
+<p><br /></p>
+<p>2. Construir N&uacute;cleos da Cidadania em &aacute;reas com alta freq&uuml;&ecirc;ncia de homic&iacute;dios e de tr&aacute;fico de drogas. Os NUCs seriam integrados por Defensores P&uacute;blicos, Assistentes Sociais e Psic&oacute;logos;</p></p>
+<p><p align="justify"><br /></p>
+<p>3. Come&ccedil;ar a Reforma Urbana (preconizada pelo Plano Diretor) nas comunidades degradadas, priorizando as a&ccedil;&otilde;es nas &aacute;reas de Sa&uacute;de, Educa&ccedil;&atilde;o e Transporte;<br /></p>
+<p><br /></p>
+<p>4. Criar um programa de ilumina&ccedil;&atilde;o p&uacute;blica e de inclus&atilde;o social postal; e</p></p>
+<p><p align="justify">&nbsp;</p></p>
+<p><p align="justify">5. Instalar c&acirc;meras em todos os &ocirc;nibus que circulam no Recife.</p></p>
+<p><p align="justify">&nbsp;</p></p>
+<p><p align="justify">&nbsp;</p></p>
+<p><p><font size="2"></p>
+<p><p>&nbsp;</p></p>
+<p></font></p> </p>
+{% endraw %}

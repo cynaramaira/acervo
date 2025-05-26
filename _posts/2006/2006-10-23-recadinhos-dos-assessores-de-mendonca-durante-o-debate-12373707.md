@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Da coluna <STRONG>Cena Pol?tica</STRONG><BR>No Jornal do Commercio de hoje</FONT></P></p>
 <p><P><FONT face=Verdana>Várias vezes durante o debate da TV Jornal os assessores do governador-candidato pediam à organização do encontro para entregar bilhetinhos, contendo instruções sobre o tema em debate.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

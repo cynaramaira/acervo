@@ -1,0 +1,32 @@
+---
+id: 12383113
+date: "2007-10-16T12:26:00Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "noticias"
+title: "Somos a favor da CPMF"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font size=\"2\"><font face=\"Verdana\">Por Isaltino Nascimento</font></font></p></p>
+<p><p><font face=\"Verdana\">O debate sobre a prorroga&ccedil;&atilde;o ou n&atilde;o da Contribui&ccedil;&atilde;o Provis&oacute;ria sobre Movimenta&ccedil;&atilde;o Financeira (CPMF) tem gerado discuss&otilde;es acaloradas. O que vemos agora, neste outubro de 2007, quando o projeto que prorroga o imposto at&eacute; 2011 j&aacute; foi aprovado na C&acirc;mara Federal e segue para avalia&ccedil;&atilde;o do Senado, s&atilde;o posicionamentos que parecem ter se invertido.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Os oposicionistas do DEM (ex-PFL) e do PSDB &ndash; que apoiaram a cria&ccedil;&atilde;o da CPMF ainda no governo Itamar Franco e sua continuidade nos dois mandatos do ex-presidente Fernando Henrique Cardoso &ndash; agora bradam contra a manuten&ccedil;&atilde;o do imposto. </font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">N&oacute;s do PT, que criticamos na mesma &eacute;poca a cria&ccedil;&atilde;o da CPMF, viemos, na voz do pr&oacute;prio presidente da Rep&uacute;blica, Luiz In&aacute;cio Lula da Silva, dizer de p&uacute;blico que mudamos de opini&atilde;o. E listamos motivos de estarmos defendendo a prorroga&ccedil;&atilde;o do imposto. </font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">N&atilde;o tivemos vergonha disso. E digo porque. A CPMF &eacute; um imposto que apenas 14% dos 186 milh&otilde;es de brasileiros pagam. Mais de 150 milh&otilde;es de pessoas, ou seja, 80% desta mesma popula&ccedil;&atilde;o, recebem os benef&iacute;cios de sua aplica&ccedil;&atilde;o. E sabe como? Dos 0,38 % da al&iacute;quota da CPMF, 0,20 % s&atilde;o destinados a a&ccedil;&otilde;es de sa&uacute;de p&uacute;blica, 0,10 % para a Previd&ecirc;ncia Social e 0,08 % para o Fundo de Erradica&ccedil;&atilde;o da Pobreza.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Isso quer dizer que o dinheiro arrecadado &eacute; destinado ao Sistema &Uacute;nico de Sa&uacute;de, &agrave; Previd&ecirc;ncia Social e a programas como o Bolsa-Fam&iacute;lia, que tem sido elogiado e apoiado nos principais f&oacute;runs de combate &agrave; pobreza em todo o mundo. </font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Vou listar mais alguns argumentos. A CPMF &eacute; uma contribui&ccedil;&atilde;o insoneg&aacute;vel &mdash; s&oacute; ela, no nosso arcabou&ccedil;o tribut&aacute;rio, tem essa caracter&iacute;stica fundamental. Ou seja, ningu&eacute;m fica livre de sua cobran&ccedil;a. Vale lembrar que os que a pagam s&atilde;o os que utilizam o sistema financeiro, a maioria com renda tribut&aacute;vel.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Al&eacute;m disso, a CPMF &eacute; o imposto mais eficiente e mais produtivo. A produtividade de um imposto se d&aacute; pela melhor arrecada&ccedil;&atilde;o e pela menor al&iacute;quota, e nenhum outro tributo ou contribui&ccedil;&atilde;o tem a capacidade de arrecadar com menor al&iacute;quota como a CPMF.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Outro dado n&atilde;o pode ser desconsiderado. &Eacute; plaus&iacute;vel dizermos que nenhum Governo pode abrir m&atilde;o, de um ano para o outro, de R$ 40 bilh&otilde;es para manter a sustentabilidade das contas p&uacute;blicas e da economia do Pa&iacute;s.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Aqueles que hoje est&atilde;o na oposi&ccedil;&atilde;o, contudo, como bem enfatizou recentemente o deputado federal Ant&ocirc;nio Palocci, n&atilde;o apresentaram at&eacute; agora nenhum argumento que descaracterizasse a CPMF pelas suas principais peculiaridades e pela necessidade de sua manuten&ccedil;&atilde;o. </font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Pelo contr&aacute;rio, com seus discursos agressivos e &quot;moralistas&quot;, os oposicionistas mascaram a injusti&ccedil;a fiscal que ainda existe neste Pa&iacute;s, com os mais ricos encontrando formas jur&iacute;dicas de sonega&ccedil;&atilde;o e os menos abastados &ndash; a classe m&eacute;dia e os trabalhadores &ndash; sendo penalizados com a ainda pesada carga tribut&aacute;ria. Ou seja, jogam para debaixo do tapete o debate sobre um problema cr&ocirc;nico, que todos n&oacute;s que temos que trabalhar para combater. </font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">N&atilde;o dizem que devemos &eacute; tratar de discutir a reforma tribut&aacute;ria, que ser&aacute; a grande oportunidade de dar passos seguros no sentido de simplificar o nosso sistema e reduzir o peso dos tributos. </font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Os mesmos cr&iacute;ticos escondem que com os dados da cobran&ccedil;a da CPMF ficou mais f&aacute;cil para a Pol&iacute;cia Federal (PF) encontrar ind&iacute;cios de fraudes. Escondem que 54% das opera&ccedil;&otilde;es feitas ultimamente pela PF foram poss&iacute;veis por causa do rastreamento de movimenta&ccedil;&otilde;es de grandes somas no sistema financeiro.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Mudar de opini&atilde;o n&atilde;o &eacute; problema. Mas mudar apenas para se contrapor a uma pol&iacute;tica bem sucedida &eacute; lament&aacute;vel. N&oacute;s mudamos. Mas em nome do que est&aacute; podendo ser feito com estes recursos. E nos justificamos em alto e bom som.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Com o dinheiro arrecado com a CPMF, o governo Lula tem conseguido mais justi&ccedil;a social, mantido o equil&iacute;brio das contas p&uacute;blicas e a evolu&ccedil;&atilde;o positiva da nossa economia e, principalmente, minimizado os desvios financeiros. E isso &eacute; fundamental para a gera&ccedil;&atilde;o de empregos e o desenvolvimento. N&atilde;o podemos ficar contra.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">PS: Isaltino Nascimento (www.isaltinopt.com.br) &eacute; deputado estadual pelo PT e l&iacute;der do governo na Assembl&eacute;ia Legislativa.</font></p> </p>
+{% endraw %}

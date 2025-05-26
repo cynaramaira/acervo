@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Luiz Otávio Cavalcanti*</STRONG><BR>Ex-secretário do Planejamento e da Fazenda de Pernambuco<BR></FONT><A href=\"mailto:lotavio@fsm.com.br\"><FONT face=Verdana>lotavio@fsm.com.br</FONT></A></P></p>
 <p><P><FONT face=Verdana>Por que Fernando Henrique Cardoso não se engaja na campanha de Alckmin a presidente? Certamente por causa da baixa aprovação com a qual encerrou sua gestão. E como se explica a queda de prest?gio popular de um presidente que se reelegeu na solidez de um plano (Real) de estabilização econômica?</FONT></P></p>
 <p><P><FONT face=Verdana>Sociólogo, professor da USP, autor de livros no Brasil e no exterior, FHC tinha roteiro de vida apontado para a academia. Mas veio a pol?tica. Com ela, a fundação do PSDB, Partido da Social Democracia Brasileira.</FONT></P></p>
@@ -36,4 +36,4 @@ imagem: null
 <p><P><FONT face=Verdana>Curioso observar que o sociólogo Fernando Henrique Cardoso nem sempre concordou com as teses do humanismo tropical de Gilberto Freyre. Mas, o presidente FHC encarnou, na prática, alguns dos traços culturais do homem brasileiro de Gilberto.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Próxima semana, Jânio, a Vassoura que queria varrer a Constituição.</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>*Luiz Otavio Cavalcanti</STRONG>, 60, advogado, executivo e ex-secretário do Planejamento (1975/79 e 1991/92) e da Fazenda (1983/86 e 1992/93) de Pernambuco. Recifense, Cavalcanti dirige hoje a entidade mantenedora da Faculdade Santa Maria. É autor, entre outros livros, de Como a corrupção abalou o governo Lula (Ed. Ediouro, 2005), Administradores, quem somos nós? (Ed. Bagaço, 2005) e Ensaiando Pernambuco (Ed. Bagaço, 2005).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

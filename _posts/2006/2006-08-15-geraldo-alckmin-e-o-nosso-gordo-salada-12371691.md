@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT color=#333333></p>
 <p><P><FONT face=Verdana>Pois é, acabou o guia eleitoral desta noite e Alckmin continuou com o mesmo desempenho do in?cio do dia: abandonado pela União por Pernambuco. </FONT></P></p>
 <p><P><FONT face=Verdana>Quase ninguém lembrou dele. Quem lembrou falou pouco, muito pouco mesmo.</FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p> \"Não tenham dúvidas disso\".</FONT></P></p>
 <p><P><FONT face=Verdana>Alckmin, finalmente, (no guia dele próprio, é claro) encontrou uma nova definição para ética: \"Eficiência\".</FONT></P></FONT></p>
 <p><P><FONT face=Verdana>Amanhã pode ser mais animado.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -1,0 +1,32 @@
+---
+id: 12394637
+date: "2008-10-23T19:34:00Z"
+last_modified_at: null
+tags:
+  - "casos"
+  - "midia"
+  - "papelao"
+categories:
+  - "colunistas"
+title: "GAJOP questiona papel da m\u00eddia no caso Elo\u00e1"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>A repercuss&atilde;o do caso Elo&aacute; e de Jos&eacute; Roberto versus as viola&ccedil;&otilde;es aos direitos humanos&nbsp;</p></p>
+<p><p>Por Vald&ecirc;nia Brito Monteiro</p></p>
+<p><p>O Brasil parou diante do seq&uuml;estro de Elo&aacute; Pimentel (15 anos) realizado por Lindembergue Alves, seu&nbsp; ex-namorado. Ap&oacute;s cinco dias de negocia&ccedil;&otilde;es sem sucesso, veio o tr&aacute;gico fim da jovem: morte cerebral. Na mesma semana, o tenente-coronel, Jos&eacute; Roberto de Amaral Louren&ccedil;o, diretor do pres&iacute;dio Bangu-3 (de seguran&ccedil;a m&aacute;xima), foi emboscado e executado com mais de 60 tiros. Ele &eacute; o s&eacute;timo dirigente de pres&iacute;dio morto no Rio desde 2000. Al&eacute;m desses dois epis&oacute;dios, os jornais n&atilde;o deixaram de estampar todos os outros casos cotidianos de viol&ecirc;ncia. O fato &eacute; que os &uacute;ltimos acontecimentos s&atilde;o&nbsp; apenas parte de um processo mais complexo do tema viol&ecirc;ncia e como esta tem interferido na vida das pessoas em todo o Pa&iacute;s.</p></p>
+<p><p>&Eacute; importante ressaltar o sentimento de consterna&ccedil;&atilde;o e&nbsp; impot&ecirc;ncia diante de fatos t&atilde;o nefastos. Quem n&atilde;o sentiu a dor vivida pelos pais da adolescente&#63;&nbsp; Quem n&atilde;o experimentou momentos de pavor,&nbsp; raiva, &oacute;dio, vingan&ccedil;a diante da situa&ccedil;&atilde;o&#63;&nbsp; No caso espec&iacute;fico do diretor do pres&iacute;dio, quem n&atilde;o se incomodou com&nbsp; a falta de limites das&nbsp; pessoas que est&atilde;o no mundo da criminalidade&#63; Quem n&atilde;o se abalou com os requintes de crueldades utilizados pelos bandidos&#63;&nbsp;</p></p>
+<p><p>S&atilde;o sentimentos que fazem parte do humano, do ser gente e do estar no mundo. Em momentos de perdas de entes queridos diante de uma brutalidade tamanha, a indigna&ccedil;&atilde;o &eacute; um processo normal. Ficar indiferente diante das situa&ccedil;&otilde;es mostradas causaria&nbsp; estranheza. Somos humanos.</p></p>
+<p><p>Os fatos nos remetem a nossa (in) seguran&ccedil;a p&uacute;blica, que nos causa intranq&uuml;ilidade, medo, falta de prote&ccedil;&atilde;o e de efetiva&ccedil;&atilde;o de garantias. Diante da como&ccedil;&atilde;o social de infinita grandeza, os acontecimentos foram objeto de discuss&otilde;es de v&aacute;rios segmentos. Esquecemos a crise mundial e as repercuss&otilde;es na bolsa, o pouco senso da esfera p&uacute;blica, os prefeitur&aacute;veis da cidade de S&atilde;o Paulo, as retifica&ccedil;&otilde;es e justificativas dos n&uacute;meros da viol&ecirc;ncia no Estado de Pernambuco, entre outros fatos.</p></p>
+<p><p>O fato &eacute; que todos n&oacute;s demos palpites sobre quais deveriam ter sido os procedimentos da pol&iacute;cia, a falha dos pais na educa&ccedil;&atilde;o, o retorno da amiga Nayara ao cativeiro &ndash; a pedido do seq&uuml;estrador -, o papel do atirador de elite, a pol&iacute;cia paulistana considerada &ldquo;a mais preparada do Brasil&rdquo;, a negocia&ccedil;&atilde;o da ref&eacute;m que durou cinco dias, entre tantas outras situa&ccedil;&otilde;es.</p></p>
+<p><p>Os epis&oacute;dios trazem v&aacute;rias reflex&otilde;es para quem trabalha com direitos humanos e cidadania. Estamos at&ocirc;nitos, buscando novas estrat&eacute;gias de como colocar o tema na cena p&uacute;blica e, ao mesmo tempo, como repensar a crise que assola a seguran&ccedil;a de todos. Estamos frustrados por n&atilde;o conseguir entoar o canto de uma seguran&ccedil;a cidad&atilde; diante da opini&atilde;o p&uacute;blica, bem como trazer ao debate o papel da m&iacute;dia brasileira em situa&ccedil;&otilde;es de &ldquo;guerras&nbsp; declaradas&rdquo;.</p></p>
+<p><p>No caso espec&iacute;fico de Elo&aacute;, a m&iacute;dia foi a que menos contribuiu para o debate p&uacute;blico sobre o pr&oacute;prio desfecho e a quest&atilde;o da seguran&ccedil;a. Rep&oacute;rter fazendo papel de investigador, deslegitimando a fun&ccedil;&atilde;o de intelig&ecirc;ncia da pol&iacute;cia, a contribui&ccedil;&atilde;o da m&iacute;dia na valoriza&ccedil;&atilde;o do exibicionista criminoso... Quem n&atilde;o quis assistir a reprise do caso teve que se (des) ligar. Por outro lado, a condu&ccedil;&atilde;o da pol&iacute;cia, com muito cuidado, at&eacute; para n&atilde;o ser taxada de incompetente, mostrou a falta de preparo para o gerenciamento de crise. Como puderam aceitar o pedido do seq&uuml;estrador e permitir que Nayara voltasse ao cativeiro&#63;</p></p>
+<p><p>Como foi poss&iacute;vel o telespectador ficar assistindo as cenas de espancamento e n&atilde;o entender porque a&nbsp; pol&iacute;cia de elite n&atilde;o atuou&#63; Por que a m&iacute;dia esqueceu a morte tr&aacute;gica&nbsp; do diretor do pres&iacute;dio&#63; O que a fez ganhar tanto ibope e, em alguns momentos, chegar a prestar um desfavor ao trabalho policial&#63; S&atilde;o perguntas sem respostas diante de nossa incapacidade de buscar solu&ccedil;&otilde;es para esta quest&atilde;o que envolve a seguran&ccedil;a p&uacute;blica do cidad&atilde;o.</p></p>
+<p><p>E quanto aos operadores do direito &ndash; que t&ecirc;m por objetivo o respeito aos princ&iacute;pios fundamentais -, se faz necess&aacute;rio ter mais cuidado nos discursos, porque n&atilde;o &eacute; poss&iacute;vel separar o cliente que comete delitos (e que&nbsp; faz preciso &agrave; defesa de seus direitos fundamentais), e ao mesmo tempo, em outro momento, exigir pared&atilde;o para outros.</p></p>
+<p><p>Precisamos (re) pensar a pol&iacute;tica de enfrentamento da criminalidade no Brasil. O Estado Penal - que cada vez mais se consolida no mundo - com &ecirc;nfase sem precedentes na repress&atilde;o penal, parece corresponder a &ldquo;justi&ccedil;a&rdquo;, mas tem se mostrado incapaz de trazer a seguran&ccedil;a desejada por todos n&oacute;s.</p></p>
+<p><p>Na realidade, a crise brasileira &eacute; mais profunda e n&atilde;o se resolver&aacute; somente atrav&eacute;s do Direito Penal.</p></p>
+<p><p>*Vald&ecirc;nia Brito Monteiro &eacute; advogada, professora da Unicap e Universo e faz parte da Coordena&ccedil;&atilde;o Colegiada do GAJOP</p> </p>
+{% endraw %}

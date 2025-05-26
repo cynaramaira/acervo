@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Mesmo com a possibilidade concreta de chegar ao segundo turno contra o governador Mendonça Filho (PFL), está cada vez mais evidente a dificuldade financeira da campanha do petista Humberto Costa.</FONT></P></p>
 <p><P><FONT face=Verdana>Algumas semanas atrás, publicamos aqui com exclusividade informações sobre uma greve-relâmpago da equipe do guia eleitoral dele. <BR><BR>Há alguns dias foi a vez de donos de carro de som exigirem pagamento (alegou-se que estes não estavam com a documentação em dia).</FONT></P></p>
 <p><P><FONT face=Verdana>Agora é o atraso na prestação de contas (de novo problemas de documentação) e o volume de dinheiro que a coordenação da campanha diz ter arrecadado.</FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>Segundo informações de técnicos da Coordenadoria de Controle Interno (Cocin), do TRE não há punição para quem deixa de atender a resolução da Justiça. </FONT></P></p>
 <p><P><FONT face=Verdana>(...)</FONT></P></p>
 <p><P><FONT face=Verdana>&nbsp;Os valores de receitas e despesas a serem declarados pelo PT é o menor entre as três candidaturas. Senão vejamos: Mendonça Filho contabilizou R$ 2.782.799,20 de receitas e R$ 2.388.344,17 de despesas. A parcial está concentrada na conta do comitê do PFL. Eduardo Campos mostra o seguinte balancete: R$ 1.233.535,21 de doações e R$ 1.052.839,96 de gastos.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -13,9 +13,9 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Da coluna <STRONG>Brasil D/F</STRONG><BR>Do Correio Braziliense</FONT></P></p>
 <p><P><FONT face=Verdana>Senador eleito por Pernambuco, Jarbas Vasconcelos (PMDB) não quer saber de conversa com o Palácio do Planalto. </FONT></P></p>
 <p><P><FONT face=Verdana>Viajou para a Europa e avisou a alguns colegas do partido que ficará por lá enquanto o partido negocia espaço no governo Lula. </FONT></P></p>
 <p><P><FONT face=Verdana>Caso o PMDB entre em bloco no governo, Lula gostaria de tê-lo entre seus ministros.</FONT> </P> </p>
-{\% endraw %}
+{% endraw %}

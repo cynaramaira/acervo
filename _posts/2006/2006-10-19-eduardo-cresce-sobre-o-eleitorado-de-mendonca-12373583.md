@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>A segunda rodada da pesquisa Ibope/TV Globo, neste 2º turno, divulgada ontem, indica que Eduardo Campos (PSB) pode ter conseguido atrair o equivalente a todo o eleitorado de Humberto Costa (PT), dos demais candidatos que disputaram o 1º turno e, agora, parte dos votos do próprio Mendonça Filho (PFL).</FONT></P></p>
 <p><P><FONT face=Verdana>Veja <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/10/18/index.php#2501\" target=_blank>aqui</A></EM></STRONG> os números da pesquisa.</FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo e Humberto, juntos, tiveram no 1º turno 58,95% dos votos válidos (sem nulos, brancos e indecisos), que são os considerados pela Justiça Eleitoral para proclamar os resultados.</FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Resumo da ópera:</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo cresceu 3,31 pontos acima da soma dos votos de todos os candidados, excetuando-se Mendonça.</FONT></P></p>
 <p><P><FONT face=Verdana>Mendonça caiu 3,32 pontos em relação ao que recebeu efetivamente nas urnas.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

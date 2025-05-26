@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Assim que desembarcar no Recife, no sábado, após três dias em Portugal, o governador eleito Eduardo Campos (PSB) entra na reta final para definir os nomes que comporão sua equipe.</FONT></P></p>
 <p><P><FONT face=Verdana>Na segunda-feira, à noite, conversou longamente com o prefeito do Recife, João Paulo (PT), no escritório da equipe de transição, no Recife.</FONT></P></p>
 <p><P><FONT face=Verdana>Discutiu como poderia contemplar o PT no secretariado sem que a briga entre os grupos de João Paulo e Humberto Costa contamine o governo.</FONT></P></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>3) Definir o que precisa ser feito para implementar os novos programas.</FONT></P></p>
 <p><P><FONT face=Verdana>Com essas questões resolvidas, definidos o norte e as prioridades para cada área, pode concluir as conversas pol?ticas sem o risco de promover um puro e simples loteamento dos cargos do governo entre os aliados (pelo menos em tese).</FONT></P></p>
 <p><P><FONT face=Verdana>“Todos terão participação. Faremos uma boa composição pol?tica porque vamos evitar a criação de ilhas dentro do governo???, promete um dos mais próximos (e otimistas) auxiliares de Eduardo.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

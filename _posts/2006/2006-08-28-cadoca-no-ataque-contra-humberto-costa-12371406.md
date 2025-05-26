@@ -15,8 +15,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Da coluna <STRONG>Cena Pol?tica</STRONG><BR>Por Márcio Didier, subeditor de Pol?tica do JC</FONT></P></p>
 <p><P><FONT</p>
 <p> face=Verdana>De Cadoca sobre o indiciamento de Humberto Costa pela PF: “Humberto está em todas. No mensalão, com a sua secretária. No caso dos vampiros, com Luiz Cláudio. E é citado nas sanguessugas???.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

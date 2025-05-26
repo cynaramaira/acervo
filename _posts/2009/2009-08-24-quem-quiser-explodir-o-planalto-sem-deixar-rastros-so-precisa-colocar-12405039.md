@@ -1,0 +1,27 @@
+---
+id: 12405039
+date: "2009-08-24T15:55:00Z"
+last_modified_at: null
+tags:
+  - "esquema-criminoso"
+categories:
+  - "noticias"
+title: "Quem quiser explodir o Planalto sem deixar rastros s\u00f3 precisa colocar a bomba com 32 dias de anteced\u00eancia"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>No blog de Augusto Nunes</p></p>
+<p><p>O &ocirc;nus da prova cabe ao acusador, cobrou o ministro Franklin Martins j&aacute; na primeira linha da reportagem que noticiou o embara&ccedil;oso encontro entre Lina Vieira e Dilma Rousseff no fim do ano passado. A rigor, a ex-secret&aacute;ria da Receita Federal n&atilde;o fez nenhuma acusa&ccedil;&atilde;o expl&iacute;cita &agrave; chefe da Casa Civil. Mas o desmentido e os desdobramentos do caso transformaram em r&eacute; a candidata &agrave; Presid&ecirc;ncia.</p></p>
+<p><p>Ao refor&ccedil;ar a suspeita de que por tr&aacute;s da m&atilde;e do PAC h&aacute; uma serial killer da verdade, Lina tornou-se, na pr&aacute;tica, uma acusadora. Cad&ecirc; as provas&#63;, quis saber o chefe da Secretaria de Comunica&ccedil;&atilde;o de Governo. Est&atilde;o no Pal&aacute;cio do Planalto, respondeu a interrogada no Senado. Ela entrou pela garagem, a placa do carro foi anotada, passou pelo detector de metais, deixou o nome na portaria, subiu pelo elevador, esperou na sala ao lado de duas pessoas, caminhou pelo andar. &ldquo;&Eacute; s&oacute; requisitar as filmagens&rdquo;, sugeriu. &ldquo;N&atilde;o sou fantasma&rdquo;.</p></p>
+<p><p>Acabou de saber que &eacute;, sim &mdash; ao menos para o Gabinete de Seguran&ccedil;a Institucional da Presid&ecirc;ncia da Rep&uacute;blica (GSI, para os &iacute;ntimos). Quem circula pela sede do governo federal vira fantasma um m&ecirc;s depois da visita, informou a espantosa nota oficial. Um m&ecirc;s depois de divulgada a &uacute;ltima da Dilma, os supersherloques explicaram que &ldquo;o per&iacute;odo m&eacute;dio de armazenamento das imagens das c&acirc;meras de seguran&ccedil;a do Planalto &eacute; de 30 dias&rdquo;. Ou porque &eacute; assim mesmo, ou porque acaba de consumar-se outra criminosa queima de arquivo, o fato &eacute; que as imagens do entra-e-sai de novembro e dezembro n&atilde;o existem mais.</p></p>
+<p><p>E os registros na garagem&#63; Esses nunca existiram. Como o servi&ccedil;o de seguran&ccedil;a &agrave; brasileira acredita na palavra, tanto as placas dos carros oficiais quanto a identidade de quem zanza por ali n&atilde;o s&atilde;o arquivadas em pap&eacute;is ou computadores. O porteiro limita-se a perguntar ao motorista se h&aacute; uma autoridade a bordo. O governo n&atilde;o tem como saber, portanto, se Lina Vieira esteve ou n&atilde;o esteve l&aacute;. Nem ela nem ningu&eacute;m. Quem quiser explodir o pr&eacute;dio sem deixar rastros s&oacute; precisa colocar a bomba com 32 dias de anteced&ecirc;ncia.</p></p>
+<p><p>A descoberta de que o sistema de prote&ccedil;&atilde;o instalado no cora&ccedil;&atilde;o do poder &eacute; uma piada coincidiu com a volta &agrave; cena de Franklin Martins. Avesso a entrevistas, apareceu sem convite para comunicar &agrave; na&ccedil;&atilde;o o que pensa do caso. &ldquo;A Lina est&aacute; mentindo&rdquo;, acusou. E a prova&#63; &ldquo;Por que n&atilde;o diz em que dia foi esse encontro&#63; Qual a hora&#63;&rdquo;, repetiu a cantilena. Mas tinha uma novidade: ao ouvir dizer que Lina deixara escapar que o encontro ocorreu em 19 de dezembro, promovera investiga&ccedil;&otilde;es que haviam desmontado a fantasia.</p></p>
+<p><p>&ldquo;Nesse dia, a ministra estava numa reuni&atilde;o no Conselho de Administra&ccedil;&atilde;o da Petrobras. &Agrave; tarde, pegou um avi&atilde;o e foi para Natal gozar uns dias de f&eacute;rias&rdquo;, afirmou. (Vai gozar mais alguns dias agora, fez que n&atilde;o sabe. O padrinho quer a afilhada longe do cen&aacute;rio do pecado). A vers&atilde;o de Franklin n&atilde;o se ampara em filmagens (apagadas pelo governo), nem em registros na garagem (dispensados pelo governo), nem sequer na agenda de Dilma, parcialmente amputada por falhas t&eacute;cnicas bem no dia 19.</p></p>
+<p><p>Bastou-lhe a palavra da ministra que mente como quem respira para reiterar a acusa&ccedil;&atilde;o: &ldquo;A Lina est&aacute; mentindo. N&atilde;o sei a servi&ccedil;o de quem&rdquo;. Se n&atilde;o provar o que diz, estar&aacute; provado que Franklin mentiu. A servi&ccedil;o do governo, como compete a quem, seja qual for a inscri&ccedil;&atilde;o na plaqueta pendurada na porta da sala, exerce as fun&ccedil;&otilde;es de assessor de imprensa de Lula. O dono do emprego deve cuidar da imagem do chefe e dos que o rodeiam. N&atilde;o est&aacute; l&aacute; para informar, mas para administrar not&iacute;cias.</p></p>
+<p><p>&ldquo;O que &eacute; ruim a gente esconde, o que &eacute; bom a gente fatura&rdquo;, resumiu em 1994 o ministro Rubens Ricupero, sem saber que o aquecimento para a entrevista &agrave; TV Globo, captado por sat&eacute;lite, estava no ar. Os governos brasileiros, com maior ou menor intensidade, costumam adotar a f&oacute;rmula. Mas h&aacute; um abismo entre todos os outros e o atual.</p></p>
+<p><p>Nenhum nem de longe faturou not&iacute;cias favor&aacute;veis com mais frequ&ecirc;ncia, barulho e exageros que o governo Lula. Nenhum escondeu com tamanha desfa&ccedil;atez o que n&atilde;o lhe conv&eacute;m. Nenhum acobertou delinqu&ecirc;ncias companheiras com tanto descaramento e tanto cinismo.<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

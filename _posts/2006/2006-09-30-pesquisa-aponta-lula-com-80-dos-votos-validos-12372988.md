@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Mais dados da pesquisa DIARIO DATA Associados, publicada na edição deste domingo do Diario</p>
 <p> de Pernambuco:</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Presidente - intenção de voto (estimulada/votos válidos)</STRONG></FONT></P></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>Jarbas Vasconcelos (PMDB)&nbsp;74%</FONT></P></p>
 <p><P><FONT face=Verdana>Luciano Siqueira (PCdoB) 14%</FONT></P></p>
 <p><P><FONT face=Verdana>Jorge Gomes (PSB) 10%</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -12,6 +12,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Luiz Inácio Lula da Silva, presidente </p>
-{\% endraw %}
+{% endraw %}

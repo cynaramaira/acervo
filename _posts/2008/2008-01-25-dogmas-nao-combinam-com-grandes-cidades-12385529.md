@@ -1,0 +1,32 @@
+---
+id: 12385529
+date: "2008-01-25T14:12:00Z"
+last_modified_at: null
+tags:
+  - "cidades"
+  - "naomi-campbell"
+categories:
+  - "noticias"
+title: "Dogmas n\u00e3o combinam com grandes cidades "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\"><em>Por <strong>Ed&iacute;lson Silva*</strong></em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A Arquidiocese de Recife e Olinda, atrav&eacute;s da sua Pastoral da Sa&uacute;de, divulgou que vai acionar o Minist&eacute;rio P&uacute;blico contra a Prefeitura do Recife. Motivo: a PCR anunciou a distribui&ccedil;&atilde;o de preservativos e p&iacute;lulas contraceptivas de emerg&ecirc;ncia durante o carnaval.&nbsp;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A&nbsp;secret&aacute;ria de sa&uacute;de de Recife, Tereza Campos, j&aacute; informou que a distribui&ccedil;&atilde;o ser&aacute; mantida. Entidades da sociedade civil, que lutam pelos direitos humanos e das mulheres, assim como entidades da &aacute;rea m&eacute;dica, como o SIMEPE &ndash; Sindicato dos M&eacute;dicos de Pernambuco, colocaram-se ao lado da Prefeitura e anunciaram que tamb&eacute;m acionar&atilde;o o Minist&eacute;rio P&uacute;blico contra a Arquidiocese de Recife e Olinda. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Para alguns, como eu, a pol&ecirc;mica nos remete ao F&oacute;rum da Raz&atilde;o, da Revolu&ccedil;&atilde;o Francesa do s&eacute;culo XVIII. Como aceitar esses dogmas da igreja? N&atilde;o pode usar camisinha, n&atilde;o pode usar a p&iacute;lula do dia seguinte, n&atilde;o pode abortar... E a&iacute;? </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Sejamos realistas: se em conventos e outros ambientes similares n&atilde;o se consegue disciplinar determinados desejos e a consuma&ccedil;&atilde;o destes em rela&ccedil;&otilde;es carnais, como querer disciplin&aacute;-los em pleno carnaval no ver&atilde;o tropical de Recife? </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A Prefeitura do Recife, neste caso, age com sabedoria e esp&iacute;rito p&uacute;blico, colocando o tema na esfera da sa&uacute;de p&uacute;blica, respeitando o car&aacute;ter laico do nosso Estado, organizado e aceito amplamente pelo conjunto da sociedade brasileira, atrav&eacute;s da Constitui&ccedil;&atilde;o Federal, e que d&aacute; conta, minimamente, de colocar sob sua superestrutura jur&iacute;dica as mais variadas manifesta&ccedil;&otilde;es de f&eacute;. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Contudo, esta pol&ecirc;mica nos remete tamb&eacute;m a um outro debate. N&atilde;o basta um ordenamento jur&iacute;dico para se enfrentar dogmas e institui&ccedil;&otilde;es tradicionais, fortes, hegemonicamente conservadoras, como a Igreja Cat&oacute;lica. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Imaginem se o prefeito de uma cidadezinha do interior de Pernambuco resolvesse imitar o prefeito Jo&atilde;o Paulo nesta pol&iacute;tica de distribuir camisinhas e contraceptivos. Sob um mesmo ordenamento jur&iacute;dico os desdobramentos pol&iacute;ticos seriam outros. Faltaria ao prefeito amparo na cultura do povo. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Esta realidade demonstra o papel estrat&eacute;gico e revolucion&aacute;rio que os grandes centros e cidades t&ecirc;m no desenvolvimento da cultura, dos usos e costumes dos cidad&atilde;os, e consequentemente do conjunto da sociedade. A vida acontece nas cidades, e nas grandes cidades este viver &eacute; mais intenso, inquietante, pois novas demandas se abrem constantemente, &eacute; um convite &agrave; movimenta&ccedil;&atilde;o, &agrave; constante transforma&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">As &quot;tend&ecirc;ncias&quot; nascem e s&atilde;o experimentadas nas grandes cidades, espalhando-se posteriormente para outras localidades. Foi assim que em s&eacute;culos o capitalismo foi sendo gestado, com &ecirc;nfase em novas formas de produ&ccedil;&atilde;o, enterrando gradativamente o feudalismo e a parasit&aacute;ria monarquia, ganhando hegemonia de baixo pra cima para dar o golpe de miseric&oacute;rdia a partir de guilhotinas bem afiadas na Fran&ccedil;a revolucion&aacute;ria do s&eacute;culo XVIII. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Tudo indica que o papel hist&oacute;rico das grandes cidades &eacute; estar &agrave; frente de seu tempo, quebrando dogmas e regras sociais e jur&iacute;dicas que impedem ou oprimem a liberdade e a plena democracia, os avan&ccedil;os sociais, propondo e lutando pela institucionaliza&ccedil;&atilde;o destes avan&ccedil;os. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Recife &eacute; uma grande cidade, uma metr&oacute;pole, com todas as principais caracter&iacute;sticas de uma grande cidade, o que d&aacute; a qualquer gestor p&uacute;blico as condi&ccedil;&otilde;es para enfrentar o dogmatismo cat&oacute;lico e outros de natureza distinta e com ess&ecirc;ncia igualmente bizantina. Mas n&atilde;o podemos nos esquecer que j&aacute; tivemos muito recentemente um prefeito que adentrou na reda&ccedil;&atilde;o de um jornal com um revolver na cintura, buscando, no m&iacute;nimo, intimidar um jornalista que escrevera algo que lhe desagradou. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Felizmente j&aacute; sa&iacute;mos desta fase, caso contr&aacute;rio a Arquidiocese, na atual pol&ecirc;mica, n&atilde;o acionaria o Minist&eacute;rio P&uacute;blico contra a atual gest&atilde;o municipal, mas talvez chamasse um inquisidor de Roma para empalar ou queimar numa fogueira os respons&aacute;veis pela insubordina&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O fato da pol&ecirc;mica agora ir parar no Minist&eacute;rio P&uacute;blico &eacute; um bom sinal. Faz jus &agrave; grande cidade que &eacute; Recife, mas demonstra tamb&eacute;m que existem espa&ccedil;os no imagin&aacute;rio popular para se avan&ccedil;ar muito em rela&ccedil;&atilde;o ao que se tem feito at&eacute; aqui, para tanto &eacute; necess&aacute;rio que as gest&otilde;es municipais desfa&ccedil;am-se n&atilde;o somente das amarras com a igreja, mas tamb&eacute;m com os grupos econ&ocirc;micos que parasitam o poder municipal. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>*Presidente do PSOL/PE, escreve para o Blog &agrave;s sextas.</em></font></p> </p>
+{% endraw %}

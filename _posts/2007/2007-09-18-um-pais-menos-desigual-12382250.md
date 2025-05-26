@@ -1,0 +1,31 @@
+---
+id: 12382250
+date: "2007-09-18T08:10:00Z"
+last_modified_at: null
+tags:
+  - "desigualdades"
+  - "fenomenos-astronomicos"
+categories:
+  - "noticias"
+title: "Um pa\u00eds menos desigual"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Por <strong>Isaltino Nascimento</strong></font></p></p>
+<p><p><font face=\"Verdana\">A Pesquisa Nacional por Amostra de Domic&iacute;lios (Pnad), divulgada na &uacute;ltima sexta-feira pelo Instituto Brasileiro de Geografia e Estat&iacute;stica (IBGE), mostra como a pol&iacute;tica do governo Lula vem propiciando avan&ccedil;os significativos no Pa&iacute;s. Os dados, referentes a 2006, apontam melhorias na educa&ccedil;&atilde;o, expectativa de vida e renda dos brasileiros.</font></p></p>
+<p><p><font face=\"Verdana\">Observemos os dados do IBGE. A taxa de escolariza&ccedil;&atilde;o foi recorde. No referido ano, 96,7% das crian&ccedil;as com idade entre 7 e 14 anos estavam na escola. E n&atilde;o foi s&oacute; isso. O n&uacute;mero de estudantes com idade entre 5 e 6 anos aumentou em 3%, resultado direto da lei que obriga meninos e meninas a entrarem um ano mais cedo na escola. O que deve continuar crescendo, j&aacute; que o prazo para implementar esta obrigatoriedade vai at&eacute; 2010.</font></p></p>
+<p><p><font face=\"Verdana\">A pesquisa tamb&eacute;m verificou aumento da popula&ccedil;&atilde;o mais velha - devido ao crescimento da expectativa de vida - e redu&ccedil;&atilde;o da mais jovem. Tamb&eacute;m que os brasileiros est&atilde;o tendo menos filhos: a m&eacute;dia caiu de 2,1 filhos por mulher em 2005 para 2 em 2006. </font></p></p>
+<p><p><font face=\"Verdana\">No ano passado, tamb&eacute;m tivemos um Brasil menos desigual, fato influenciado, segundo o instituto, pelo aumento de 13,3% no sal&aacute;rio m&iacute;nimo. A renda m&eacute;dia real da popula&ccedil;&atilde;o teve recupera&ccedil;&atilde;o de 7,2%, a maior desde 1995, beneficiando principalmente aqueles que ganhavam menos. E vale destacar: o maior aumento no rendimento m&eacute;dio real do trabalho apurado em 2006 ante 2005 ocorreu no Nordeste (12,1%) e no Norte (7,1%).</font></p></p>
+<p><p><font face=\"Verdana\">Poder&iacute;amos aqui destacar uma s&eacute;rie de outros avan&ccedil;os, registrados ao longo destes quase cinco anos de governo Lula. Mas o que quero ressaltar aqui &eacute; que o presidente petista vem, ano ap&oacute;s ano, frustrando as expectativas daqueles que tinham &quot;medo&quot; e apostavam na &quot;incapacidade&quot; de Luiz In&aacute;cio Lula da Silva.</font></p></p>
+<p><p><font face=\"Verdana\">Pois bem, o tempo passou e estamos vendo o Nordeste - regi&atilde;o sistematicamente esquecida pelos governos - ter seu lugar de protagonista na hist&oacute;ria desde a elei&ccedil;&atilde;o do pernambucano para a Presid&ecirc;ncia. Gra&ccedil;as &agrave; consolida&ccedil;&atilde;o de uma nova vis&atilde;o pol&iacute;tica, que deixou de privilegiar a oligarquia rural, e as elites urbanas e pol&iacute;ticas, que por s&eacute;culos se alimentaram da desigualdade.</font></p></p>
+<p><p><font face=\"Verdana\">Desigualdade que vem caindo, segundo a mesma pesquisa do IBGE. O &iacute;ndice Gini (indicador internacional de desigualdade que vai de 0 a 1) vem sendo reduzido desde 1993 e no ano passado recuou mais 0,003, indo para 0,541. O n&uacute;mero pode parecer pequeno, mas mostra consist&ecirc;ncia na melhora das diferen&ccedil;as de renda da popula&ccedil;&atilde;o. O que se traduz em mais crian&ccedil;as na escola, mais jovens no ensino t&eacute;cnico e nas universidades, mais trabalhadores com carteira assinada, maior n&uacute;mero de contribuintes da Previd&ecirc;ncia Social, maior consumo e, conseq&uuml;entemente, maior riqueza para o Brasil.</font></p></p>
+<p><p><font face=\"Verdana\">Neste novo contexto, repito, Nordeste e Norte passaram a ter outro papel, com institui&ccedil;&otilde;es p&uacute;blicas como o BNDES, Banco do Nordeste, Banco do Brasil, Caixa Econ&ocirc;mica e Petrobr&aacute;s passando a servir &agrave; sociedade e n&atilde;o a grupos patrimonialistas. Testemunhando investimentos em &aacute;reas estrat&eacute;gicas para o crescimento, abertura de acesso &agrave; forma&ccedil;&atilde;o superior aos mais pobres e gera&ccedil;&atilde;o de mais empregos.</font></p></p>
+<p><p><font face=\"Verdana\">Pernambuco, agora, est&aacute; inserido neste cen&aacute;rio promissor. Capitaneado pelo governador Eduardo Campos - que demonstra habilidade em otimizar as a&ccedil;&otilde;es do governo Lula -, o Estado est&aacute; caminhando para recuperar lugar de destaque na economia do Pa&iacute;s. A&ccedil;&otilde;es n&atilde;o faltam. O in&iacute;cio das obras da Refinaria Abreu e Lima, do Estaleiro, da Hemobras, com perspectiva de gera&ccedil;&atilde;o de milhares de empregos, e a atra&ccedil;&atilde;o de novos investimentos para o Estado, como a f&aacute;brica da Perdig&atilde;o, em Bom Conselho, no Agreste, s&atilde;o bons exemplos.</font></p></p>
+<p><p><font face=\"Verdana\">Sem falar no fechamento do acordo com a Caixa Econ&ocirc;mica, que p&ocirc;s fim ao impasse gerado pela d&iacute;vida contra&iacute;da pela Compesa com a institui&ccedil;&atilde;o financeira desde 1999, e viabiliza a celeridade na execu&ccedil;&atilde;o das obras de saneamento e habita&ccedil;&atilde;o do PAC.</font></p></p>
+<p><p><font face=\"Verdana\">Aos cr&iacute;ticos, aos descrentes, aos que apostam na pol&iacute;tica do &quot;quanto pior melhor&quot;, ignorando os anseios da popula&ccedil;&atilde;o pernambucana, n&atilde;o h&aacute; melhor exemplo que os resultados expressivos do governo Lula. Como o pr&oacute;prio presidente costuma repetir, ainda estamos longe do Pa&iacute;s (e do Pernambuco) que sonhamos, mas trabalhamos por isso. </font></p></p>
+<p><p><font face=\"Verdana\"><em>PS: Isaltino Nascimento &eacute; deputado estadual pelo PT e l&iacute;der do governo na Assembl&eacute;ia Legislativa. Escreve todas as ter&ccedil;as-feiras no Blog de Jamildo, al&eacute;m do Isaltinopt.com.br<br /></p>
+<p></em></font></p> </p>
+{% endraw %}

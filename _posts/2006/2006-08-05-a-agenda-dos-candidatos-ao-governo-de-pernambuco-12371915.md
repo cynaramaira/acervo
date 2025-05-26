@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=\"Times New Roman\"></p>
 <p><P><STRONG><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></STRONG></P></p>
 <p><P><FONT face=Verdana><STRONG>Às 11h</STRONG>, inaugura comitê de proporcional. Local: Rua Montevidéu, 170, Boa Vista</FONT></P></p>
@@ -35,4 +35,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Às 12h</STRONG>, em Palmares, ato pol?tico para receber o apoio da vice-prefeita Luciana Miranda</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Às 16h</STRONG>, inauguração do comitê da deputada estadual Ceça Ribeiro</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Às 20</STRONG>, em Pesqueira, participa do circuito do frio</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Para financiar legalmente as campanhas, os doadores priorizaram, no primeiro turno, aqueles candidatos ao governo estadual que poderiam, de alguma forma, aquecer a economia local</FONT></P></p>
 <p><P><FONT face=Verdana>Por <STRONG>Lúcio Vaz <BR></STRONG>Do Correio </FONT></P></p>
 <p><P><FONT face=Verdana>O perfil dos doadores de campanha revela o modelo econômico de cada estado. Em São Paulo, os candidatos são financiados por bancos, indústrias pesadas e empreiteiras. Em Minas, por mineradoras e siderúrgicas. No Amazonas, as indústrias da Zona Franca de Manaus fazem grandes doações. Em Alagoas, destaque para as usinas de açúcar a álcool. No Distrito Federal, aparecem as empresas prestadoras de serviço para órgãos públicos, especialmente na área de informática. </FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Distrito Federal <BR></STRONG>José Roberto Arruda (PFL), R$ 8 milhões <BR>Diretório Nacional do PFL, R$ 3,5 milhões; JBS SA, R$ 500 mil; MSA Informática, R$ 400 mil; Medial Saúde, R$ 300 mil; Banco Mercantil de São Paulo, R$ 200 mil; CTIS Informática, R$ 250 mil; Politec Informática, R$ 250 mil; Ciplan, R$ 200 mil; Phidias, R$ 200 mil; Construtora Barbosa, R$ 200 mil </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Alagoas <BR></STRONG>Teotônio Vilela Filho (PSDB), R$ 7,7 milhões <BR>Cooperativa dos Produtores de Açúcar e ??lcool, R$ 1,82 milhão; Usinas Reunidas Seresta, R$ 1 milhão; Asa Indústria e Comércio, R$ 930 mil; Sococo, R$ 640 mil; Maria Fernando Vilela, R$ 290 mil; Construtora OAS, R$ 200 mil; Banco Mercantil de São Paulo, R$ 200 mil; Cander Construções e Empreendimentos, R$ 200 mil </FONT></P></p>
 <p><P><BR><FONT face=Verdana>Leia ?ntegra da reportagem <A href=\"https://dyn1.correioweb.com.br/cbonline/politica/pri_pol.htm\" target=_blank><STRONG><EM>aqui</EM></STRONG></A> (Assinante Correio)</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

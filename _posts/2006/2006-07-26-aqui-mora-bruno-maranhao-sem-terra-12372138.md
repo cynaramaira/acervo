@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><p>Não falta espaço no colorido apartamento do mais célebre l?der do Movimento de Libertação dos Sem-Terra (MLST). <!--?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\"</p>
 <p> ?--></p></p>
 <p><p>É um belo um-por-andar-com-200-metros-quadrados, cujo endereço preciso - peço desculpas - não vou dar para não atrair a cobiça dos sem-teto.</p></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><p>&nbsp;</p></p>
 <p><p>Por causa do incidente, esteve preso na Penitenciária da Papuda, em Bras?lia, durante 38 dias. Também foi afastado da executiva nacional do Partido dos Trabalhadores e da campanha de Lula.</p></p>
 <p><p>Foi orientado a não comparecer ao último com?cio do presidente, em Bras?lia Teimosa, no sábado, para não atrapalhá-lo.</p></p>
-{\% endraw %}
+{% endraw %}

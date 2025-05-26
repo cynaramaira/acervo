@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Acaba de sair a divisão do tempo do guia eleitoral na TV e no rádio em Pernambuco, informa Clóvis Andrade, repórter do JC. </FONT></P></p>
 <p><P><FONT face=Verdana>O guia começa em 15 de agosto e passa 45 dias no ar. Segundas, quartas e sextas teremos programas para governador, senador e deputado estadual. Terças, quintas e sábados, para federal e presidente da República.</FONT></P></p>
@@ -38,4 +38,4 @@ imagem: null
 <p><P><FONT face=Verdana>Luiz Vidal (PSDC)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21</FONT></P></p>
 <p><P><FONT face=Verdana>Rivaldo Soares (PSL)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 20</FONT></P></p>
 <p><P><FONT face=Verdana>Humberto Costa (PT)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 115</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

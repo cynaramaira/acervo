@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Bastante irritado com as provocações de Kátia Teles (PSTU)&nbsp;e Edilson Silva (P-SOL), o candidato do PT ao governo de Pernambuco, Humberto Costa (PT), foi enfático ao se defender das acusações que o envolvem no escândalo das sanguessugas.</FONT></P></p>
 <p><P><FONT face=Verdana>Kátia e Edilson aproveitaram o momento em que, por sorteio, foram escolhidos para fazer pergunta um ao outro, e atacaram Humberto. </FONT></P></p>
 <p><P><FONT face=Verdana>Kátia perguntou se, assim como Lula, o ex-ministro da Saúde sabia ou não da compra superfaturada de ambulâncias.</FONT></P></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana></FONT>&nbsp;</P></DIR></DIR></p>
 <p><P><FONT face=Verdana>O&nbsp;ex-ministro ainda apontou Kátia e Edilson como levianos. E disse: </FONT></P></p>
 <p><P><FONT face=Verdana>\"Não sou corrupto, apenas cumpri o que a lei exige. As pessoas têm que ter uma postura mais séria. Não tiveram o m?nimo cuidado de conhecer melhor o assunto.\"</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

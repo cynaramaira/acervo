@@ -1,0 +1,31 @@
+---
+id: 12404254
+date: "2009-08-03T20:34:00Z"
+last_modified_at: null
+tags:
+  - "acao"
+  - "casa-civil"
+  - "contran"
+  - "paulo-maluf"
+  - "prefeito"
+categories:
+  - "noticias"
+title: "MP prop\u00f5e a\u00e7\u00e3o civil contra ex-prefeito Paulo Maluf"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><img height="390" alt="" width="520" src="https://www.mp.sp.gov.br/portal/page/portal/noticias/publicacao_noticias/Fotos/MALUFEUCATEX.jpg" /></p></p>
+<p><p><b><a href="https://www.mp.sp.gov.br/portal/page/portal/home">No site do MP de S&atilde;o Paulo</a></b></p></p>
+<p><p>O Minist&eacute;rio P&uacute;blico, por meio da Promotoria de Justi&ccedil;a do Patrim&ocirc;nio P&uacute;blico e Social, ajuizou, no in&iacute;cio da noite desta segunda-feira (3), a&ccedil;&atilde;o civil p&uacute;blica contra o ex-prefeito de S&atilde;o Paulo Paulo Maluf. A a&ccedil;&atilde;o &eacute; proposta ainda contra a mulher de Maluf, Sylvia; os filhos Fl&aacute;vio, Ot&aacute;vio, L&iacute;gia e Lina; a ex-nora Jacquelline de Lourdes Coutinho Torres, ex-esposa de Fl&aacute;vio; tr&ecirc;s empresas off-shore sediadas nas Ilhas Virgens Brit&acirc;nicas, e a Eucatex, empresa da fam&iacute;lia Maluf. Na a&ccedil;&atilde;o, os promotores de Justi&ccedil;a S&iacute;lvio Antonio Marques e Saad Mazloum pedem que todos sejam condenados a devolver mais de R$ 300 milh&otilde;es, resultado de superfaturamento de obras p&uacute;blicas, dinheiro que foi ilegalmente remetido ao exterior e utilizado para a compra de a&ccedil;&otilde;es da Eucatex, em um esquema fraudulento envolvendo doleiros e &ldquo;laranjas&rdquo;.</p></p>
+<p><p>A&ccedil;&atilde;o Civil tem 55 mil documentos, distribu&iacute;dos em 277 volumes<br /></p>
+<p>A a&ccedil;&atilde;o tem 120 p&aacute;ginas e 277 volumes de documentos, totalizando cerca de 55 mil p&aacute;ginas que, segundo os promotores, comprovam o esquema, investigado pelo Minist&eacute;rio P&uacute;blico desde julho de 2001. Os documentos mostram que, entre 1993 e 1998, o hoje deputado federal Paulo Maluf desviou cerca de US$ 160 milh&otilde;es dos cofres p&uacute;blicos municipais, por meio de superfaturamento de pre&ccedil;os das obras da Avenida &Aacute;gua Espraiada (hoje Avenida Jornalista Roberto Marinho) e do T&uacute;nel Ayrton Senna, ambas realizadas quando Maluf era prefeito de S&atilde;o Paulo (1992-96). Segundo a promotoria, Maluf recebeu recursos indevidamente at&eacute; dois anos depois de ter deixado o cargo.</p></p>
+<p><p>O dinheiro foi remetido ilegalmente para contas secretas no exterior, especialmente em bancos dos Estados Unidos, Su&iacute;&ccedil;a, Inglaterra, Ilhas Jersey, Fran&ccedil;a e Luxemburgo, por meio de empresas offshore controladas por familiares de Maluf. Entre 1997 e 1998 a maior parte desse dinheiro retornou ao Brasil, na forma de investimento. Documentos enviados pelos pa&iacute;ses em que as opera&ccedil;&otilde;es foram realizadas mostram que fundos de investimento controlados pelas empresas offshore da fam&iacute;lia Maluf adquiriram a&ccedil;&otilde;es da Eucatex, empresa de Maluf no Brasil. Outros valores foram repatriados por meio de empr&eacute;stimo, compra de valores mobili&aacute;rios e pagamento de adiantamento a contrato de exporta&ccedil;&atilde;o, todos favorecendo a Eucatex. Essa opera&ccedil;&atilde;o movimentou mais de US$ 165 milh&otilde;es, o correspondente a mais de R$ 310 milh&otilde;es ao c&acirc;mbio desta segunda-feira.</p></p>
+<p><p>Toda a movimenta&ccedil;&atilde;o do dinheiro foi rastreada com a colabora&ccedil;&atilde;o de governos estrangeiros, por meio de coopera&ccedil;&atilde;o jur&iacute;dica internacional inaugurada com essa investiga&ccedil;&atilde;o. A Promotoria de Justi&ccedil;a fez um Pedido de Aux&iacute;lio Direto &agrave; Inglaterra, com base na Conven&ccedil;&atilde;o da Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas Contra a Corrup&ccedil;&atilde;o (Conven&ccedil;&atilde;o de M&eacute;rida), o que resultou no envio de milhares de documentos. Durante anos, a documenta&ccedil;&atilde;o foi analisada por assistentes t&eacute;cnicos do Centro de Apoio Operacional &agrave;s Execu&ccedil;&otilde;es (CAEX) do Minist&eacute;rio P&uacute;blico, coordenados por M&ocirc;nica Szegede Semeraro, especialista em administra&ccedil;&atilde;o p&uacute;blica e administra&ccedil;&atilde;o de empresas, resultando em um parecer t&eacute;cnico de 250 p&aacute;ginas que est&aacute; anexado &agrave; a&ccedil;&atilde;o, junto com os 277 volumes de documentos reunidos ao longo dos &uacute;ltimos oito anos.</p></p>
+<p><p>As investiga&ccedil;&otilde;es do Minist&eacute;rio P&uacute;blico sobre um suposto esquema de corrup&ccedil;&atilde;o envolvendo o ex-prefeito Paulo Maluf come&ccedil;aram em 2001, quando foi instaurado um inqu&eacute;rito civil. As apura&ccedil;&otilde;es resultaram em seis a&ccedil;&otilde;es cautelares, por meio da qual foi obtida a quebra do sigilo fiscal e banc&aacute;rio de Maluf e de seus familiares. Em 2004, o Minist&eacute;rio P&uacute;blico moveu uma a&ccedil;&atilde;o de improbidade que resultou no bloqueio judicial dos bens da fam&iacute;lia Maluf, decis&atilde;o mantida pelo Tribunal de Justi&ccedil;a, pelo Superior Tribunal de Justi&ccedil;a (STJ) e pelo Supremo Tribunal de Justi&ccedil;a (STF).</p></p>
+<p><p>Os documentos obtidos pelo MP nessas a&ccedil;&otilde;es levaram a Prefeitura de S&atilde;o Paulo a propor a&ccedil;&atilde;o judicial para a obten&ccedil;&atilde;o de mais documenta&ccedil;&atilde;o, na qual Maluf foi condenado. O ex-prefeito tamb&eacute;m foi indiciado, juntamente com o filho Fl&aacute;vio e outras tr&ecirc;s pessoas, pela Promotoria de Nova York, que conseguiu na Justi&ccedil;a norte-americana a decreta&ccedil;&atilde;o da pris&atilde;o de todos eles, ainda em vigor. Maluf e familiares tamb&eacute;m tiveram dinheiro bloqueado nas Ilhas Jersey, onde foram indiciados.</p></p>
+<p><p>Na a&ccedil;&atilde;o impetrada nesta segunda-feira, os promotores pedem a repatria&ccedil;&atilde;o e devolu&ccedil;&atilde;o dos mais de US$ 165 milh&otilde;es, bem como o congelamento de bens dos envolvidos no Brasil e nas Ilhas Jersey.<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

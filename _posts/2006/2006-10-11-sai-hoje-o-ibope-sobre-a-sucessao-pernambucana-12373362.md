@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Inaldo Sampaio</STRONG><BR>Na coluna Pinga Fogo, do JC</FONT></P></p>
 <p><P><FONT face=Verdana>Hoje tem pesquisa do Ibope sobre a sucessão pernambucana. O candidato que partir na frente terá enormes dificuldades para administrar as adesões, tal como ocorreu aqui em 86 e 98.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Comentário meu:</STRONG></FONT></P></p>
@@ -34,4 +34,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>Procurado pelo <STRONG>Blog</STRONG>, Raimundo Luedi tentou minimizar o problema. Disse que deixou a campanha por dificuldades particulares, estaria, segundo ele, com problemas na fam?lia, que mora em Bras?lia.</EM></FONT></P></p>
 <p><P><EM><FONT face=Verdana>\"Saio num momento bom da campanha porque precisava sair. Não há nada de brigas com meu sócio. </FONT><FONT face=Verdana>Continuamos sócios e amigos. Eu preciso voltar para Brasilia agora\", justificou.</FONT></EM></P></p>
 <p><P><FONT face=Verdana><EM>A assessoria de imprensa de Eduardo dá resposta semelhante sobre o problema.</EM></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

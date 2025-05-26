@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana><EM><STRONG>\"Não tenho que concordar com tudo o que Mendonça diz\"</STRONG></EM></FONT></P></p>
 <p><P><FONT face=Verdana>O governador eleito Eduardo Campos (PSB) recebeu, hoje,&nbsp;a empresária Viviane Senna, presidente da Fundação Ayrton Senna, para um almoço&nbsp;na casa dele, no bucólico Bairro de Dois Irmãos, no Recife.</FONT></P></p>
@@ -34,4 +34,4 @@ imagem: null
 <p> que chegava. Isso é público, está nos jornais. É só observar. Agora, se eu ficar discutindo 98 eu não vou poder fazer um 2006, 2007 que eu vou ter que fazer. </FONT></P><B></p>
 <p><P><FONT face=Verdana>E qual sua avaliação da afirmação do governador Mendonça Filho de que dinheiro de contrato é dinheiro em caixa sim? </FONT></P></B></p>
 <p><P><FONT face=Verdana>Eu não vou entrar nessa discussão.</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

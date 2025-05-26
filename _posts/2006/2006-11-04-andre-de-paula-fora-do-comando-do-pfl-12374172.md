@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-FAMILY: Verdana; mso-bidi-font-family: Verdana\">Da coluna <STRONG>Pinga-fogo</STRONG></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-FAMILY: Verdana; mso-bidi-font-family: Verdana\">Do Jornal do Commercio</SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-FAMILY: Verdana; mso-bidi-font-family: Verdana\"></SPAN>&nbsp;</P><SPAN style=\"FONT-FAMILY: Verdana; mso-bidi-font-family: Verdana\"></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-FAMILY: Verdana; mso-bidi-font-family: Verdana\">Nota do <STRONG>Blog</STRONG></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-FAMILY: Verdana; mso-bidi-font-family: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-FAMILY: Verdana; mso-bidi-font-family: Verdana\">Mais especulações dão conta que o governador e candidato derrotado à reeleição Mendonça Filho (PFL) assumiria o posto no lugar de André de Paula. </SPAN></SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

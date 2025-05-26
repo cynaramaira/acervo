@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Fernando Rodrigues</STRONG><BR>No Jornal do Commercio, hoje</FONT></P></p>
 <p><P><FONT face=Verdana>BRAS??LIA - O avanço das urnas eletrônicas e a rapidez na apuração dos resultados impõem novos desafios para a Justiça Eleitoral. Medidas simples, que independem de lei, elevariam o n?vel de transparência para um padrão de excelência talvez inédito em pa?ses subdesenvolvidos como o Brasil. </FONT></P></p>
 <p><P><FONT face=Verdana>O Tribunal Superior Eleitoral (TSE) ajudará a democracia se considerar duas providências: </FONT></P></p>
@@ -22,4 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>2) financiamento: determinar aos pol?ticos que indiquem o setor da economia ao qual pertence cada um de seus doadores. Esse tipo de informação ainda não está dispon?vel. Os cerca de 20 mil candidatos deste ano - como em ocasiões anteriores - apenas informam o nome da empresa, o CNPJ correspondente e o valor recebido. <BR>É impraticável para os eleitores verificarem na internet, a partir do CNPJ, o que fazem todas as milhares de empresas citadas. </FONT></P></p>
 <p><P><FONT face=Verdana>Tudo melhora se a Justiça Eleitoral exigir o dado já na prestação de contas. O público saberia de maneira agregada quais são os interesses gerais do “grande dinheiro??? financiando a eleição. </FONT></P></p>
 <p><P><FONT face=Verdana>São duas decisões quase prosaicas. Mas aumentarão muito a qualidade do processo eleitoral. Dependem da boa vontade do TSE.</FONT> </P> </p>
-{\% endraw %}
+{% endraw %}

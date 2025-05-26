@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P>A disputa pelo comando da Ordem dos Advogados do Brasil (OAB) em Pernambuco tem tudo para ser tão apaixonada quanto a de governador. </P></p>
 <p><P>Ainda está distante, foi marcada para a segunda quinzena de novembro. Mas já é clara a divisão entre os advogados de Mendonça Filho (PFL), Humberto Costa (PT) e Eduardo Campos (PSB). </P></p>
@@ -22,4 +22,4 @@ imagem: null
 <p><P>Segundo Antônio Campos, a posição do grupo não depende de questões partidárias. Eles devem realmente ajudar Júlio, sem fechar questão. Ou seja, permitindo que quem desejar possa escolher outro candidato. \"A gente ainda está marcando para conversar sobre isso no jur?dico do PSB\", diz ele.</P></p>
 <p><P>Na campanha de Humberto Costa, o núcleo da área jur?dica faz o mesmo, prefere Júlio. O deputado Maur?cio Rands lidera o grupo de advogados e deve reun?-lo para conversar sobre o assunto.</P></p>
 <p><P>O presidente da OAB é o nome preferido dos grandes escritórios de advocacia, com trânsito livre nos tribunais. Ele está há três anos no cargo e parte na corrida como franco favorito.</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><B><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B></p>
 <p><P><FONT face=Verdana><STRONG>Às 14h</STRONG>, participa do lançamento das propostas&nbsp;de Geraldo Alckmin para&nbsp;o desenvolvimento do Nordeste, no Teatro Beberibe do Centro de Convenções de Pernambuco, em Olinda</P></p>
@@ -34,4 +34,4 @@ imagem: null
 <p><P><FONT face=Verdana>Às 20h</FONT></B><FONT face=Verdana>, participa do 7º Congresso Estadual de Trabalhadores Rurais – FETAPE, no Teatro da UFPE – Centro de Convenções </FONT></P></FONT></p>
 <p><P><FONT face=Verdana></FONT>&nbsp;</P></p>
 <p><P><FONT face=Verdana></FONT>&nbsp;</P> </p>
-{\% endraw %}
+{% endraw %}

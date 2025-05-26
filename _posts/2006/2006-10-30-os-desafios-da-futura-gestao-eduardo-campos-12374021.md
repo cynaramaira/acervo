@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>De </FONT><FONT face=Verdana><B>Jamildo Melo<BR></B>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>Com as finanças</p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>O presidente interino do PSB, Roberto Amaral, disse ao JC que o novo governador não pode fazer uma administração amadora em sua volta ao poder estadual. \"Com a experiência que Eduardo Campos acumulou, ele não pode ter uma administração amadora. Tenho a certeza de que ele deve convocar quadros experientes, em todas as frentes. Não pode fazer ensaios\", declarou.</FONT></P></p>
 <p><P><FONT face=Verdana>O prefeito João Paulo (PT), outro aliado dos socialistas, diz que a gestão será um desafio para o PSB. \"A cobrança será grande, pois a sociedade tem uma expectativa grande também. No entanto, eu acredito que Eduardo Campos vai se sair bem porque vai contar com um alinhamento planetário. Nenhum governador teve a oportunidade histórica de apoio da União e da Prefeitura da Cidade do Recife ao mesmo tempo, em um per?odo de grandes investimentos como a refinaria e o estaleiro. Com a experiência dos erros do governo passado, com seu amadurecimento, a responsabilidade que ele sabe que tem nas mãos, o novo governador só vai chamar para compor seu governo as pessoas que possam dar uma contribuição definitiva para seu êxito.\"</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais </FONT></FONT><A href=\"https://jc3.uol.com.br/jornal/2006/10/30/can_9.php\"><B><I><FONT color=#0000ff size=2><FONT face=Verdana>aqui</FONT></B></I></FONT></A><FONT size=2><FONT face=Verdana> (assinantes JC e UOL).</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

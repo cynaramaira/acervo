@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do <EM><STRONG><A href=\"https://noblat1.estadao.com.br/noblat/index.html\" target=_blank>Blog</A></STRONG></EM> de Noblat</FONT></P></p>
 <p><P><FONT face=Verdana>Está cada vez mais claro que o PT quer a cabeça do presidente do Banco Central, Henrique Meirelles. </FONT></P></p>
 <p><P><FONT face=Verdana>Acham os petistas que um novo nome no BC e a manutenção de Guido Mantega no Ministério da Fazenda pode acelerar o crescimento da economia e diminuir a ortodoxia da Era Palocci.</FONT></P></p>
@@ -20,4 +20,4 @@ imagem: null
 <p><P><FONT face=Verdana>E o Meirelles? </FONT></P></p>
 <p><P><FONT face=Verdana>\"Eu não tenho uma avaliação sobre ele\".</FONT></P></p>
 <p><P><FONT face=Verdana>No governo, porém, a avaliação é distinta. Meirelles pode sim continuar no Banco Central, desde que atenda às determinações pol?ticas de Lula. Nesse sentido, a autonomia do BC está cada vez mais distante.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

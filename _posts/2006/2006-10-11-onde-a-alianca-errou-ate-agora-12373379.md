@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O governador Mendonça Filho (PFL) fez quase tudo correto nesta eleição, em Pernambuco. Acertou desde quando ainda disputava com o senador Sérgio Guerra (PSDB) a indicação como candidato da União por Pernambuco.</FONT></P></p>
 <p><P><FONT face=Verdana>Partiu na frente empurrado pelos altos ?ndices de popularidade dos dois governos Jarbas/Mendonça e pela força da coligação que representa.</FONT></P></p>
 <p><P><FONT face=Verdana>Onde, afinal, a União errou?</FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>A 18 dias da eleição, vai ser preciso muito mais do que calma e sangue frio na União para se tomar as decisões corretas e se fazer ajustes na campanha.</FONT></P></p>
 <p><P><FONT face=Verdana>Eleição, como até Severino Cavalcanti já está careca de saber, não se define em pesquisas. Só nas urnas.</FONT></P></p>
 <p><P><FONT face=Verdana>O jogo, portanto, não está perdido – como sonham levas e levas de socialistas -, muito menos será ganho na base do mão-na-cara-pé-no-bucho.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

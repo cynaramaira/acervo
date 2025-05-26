@@ -1,0 +1,26 @@
+---
+id: 12400805
+date: "2009-04-29T12:22:00Z"
+last_modified_at: null
+tags:
+  - "primeiro-turno"
+  - "producao-industrial"
+categories:
+  - "noticias"
+title: "Marolinha na ind\u00fastria. Produ\u00e7\u00e3o industrial do primeiro trimestre \u00e9 a pior desde 1999"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>A crise externa derrubou a atividade da ind&uacute;stria brasileira. No primeiro&nbsp; trimestre deste ano, a produ&ccedil;&atilde;o caiu para 36,1 pontos, o pior n&iacute;vel desde&nbsp;&nbsp; 1999.&nbsp; Com&nbsp; isso, a utiliza&ccedil;&atilde;o da capacidade instalada recuou para 68%, o&nbsp; mais&nbsp; baixo&nbsp; n&iacute;vel&nbsp; desde&nbsp; 1999.&nbsp; O&nbsp; emprego&nbsp; tamb&eacute;m caiu e ficou em 39,2&nbsp;&nbsp; pontos,&nbsp; informa&nbsp; a&nbsp; Sondagem Industrial do primeiro trimestre, divulgada hoje&nbsp; pela&nbsp; Confedera&ccedil;&atilde;o&nbsp; Nacional&nbsp; da ind&uacute;stria (CNI). &ldquo;O desempenho da&nbsp;&nbsp; ind&uacute;stria&nbsp; no&nbsp; primeiro trimestre de 2009 foi ainda pior que o registrado&nbsp; no ultimo trimestre de 2008&rdquo;, diz a pesquisa.</p></p>
+<p><p>O&nbsp; estudo&nbsp; revela que os efeitos da crise internacional se intensificaram&nbsp;&nbsp; no in&iacute;cio deste ano em todos os portes e atividades industriais. Todos os&nbsp;&nbsp; 27&nbsp; setores&nbsp; da&nbsp; ind&uacute;stria&nbsp; de&nbsp; transforma&ccedil;&atilde;o&nbsp; pesquisados&nbsp; e a ind&uacute;stria&nbsp;&nbsp; extrativa&nbsp; diminu&iacute;ram&nbsp; o&nbsp; n&uacute;mero&nbsp; de empregados. Com exce&ccedil;&atilde;o da ind&uacute;stria&nbsp;&nbsp; farmac&ecirc;utica,&nbsp; as demais atividades reduziram a produ&ccedil;&atilde;o. Os setores cuja&nbsp;&nbsp; produ&ccedil;&atilde;o teve maiores quedas foram os de madeira, em que indicador recuou&nbsp;&nbsp; para&nbsp; 21,2 pontos, e o de metalurgia b&aacute;sica, em que o indicador caiu para&nbsp;&nbsp; 21,7&nbsp; pontos.&nbsp; De&nbsp; acordo com a pesquisa, os indicadores variam de zero a&nbsp;&nbsp; cem. N&uacute;meros abaixo de 50 indicam evolu&ccedil;&atilde;o ou perspectivas negativas.</p></p>
+<p><p>A&nbsp; Sondagem Industrial mostra ainda que as empresas continuam encontrando&nbsp;&nbsp; dificuldades&nbsp; com&nbsp; os&nbsp; financiamentos.&nbsp; O&nbsp; indicador de acesso ao cr&eacute;dito&nbsp;&nbsp; ficou&nbsp; em 32,4 pontos no primeiro trimestre do ano e acumula uma queda de&nbsp;&nbsp; 15,2&nbsp; pontos em rela&ccedil;&atilde;o ao mesmo per&iacute;odo de 2008. Conforme a pesquisa, as&nbsp;&nbsp; dificuldades&nbsp; de&nbsp; acesso&nbsp; ao&nbsp; cr&eacute;dito e os estoques altos comprometeram a&nbsp;&nbsp; situa&ccedil;&atilde;o&nbsp; financeira das empresas. &ldquo;O &iacute;ndice de satisfa&ccedil;&atilde;o com a situa&ccedil;&atilde;o&nbsp;&nbsp; financeira&nbsp; registrou&nbsp; o&nbsp; terceiro&nbsp; recuo consecutivo e situou-se em 43,3&nbsp;&nbsp; pontos.&nbsp; O&nbsp; valor&nbsp; &eacute;&nbsp; 3,1&nbsp; pontos&nbsp; inferior&nbsp; ao&nbsp; registrado&nbsp; no trimestre&nbsp;&nbsp; anterior&rdquo;, informa a Sondagem Industrial.</p></p>
+<p><p>As&nbsp; empresas&nbsp; tamb&eacute;m enfrentam a retra&ccedil;&atilde;o do consumo. &ldquo;A falta de demanda&nbsp;&nbsp; foi&nbsp; escolhida&nbsp; como&nbsp; um&nbsp; dos&nbsp; tr&ecirc;s&nbsp; principais&nbsp; problemas&nbsp; por 56,4% dos&nbsp;&nbsp; empres&aacute;rios&nbsp; de&nbsp; pequenas&nbsp; ind&uacute;strias, 49,7% de m&eacute;dias e 48,3% de grandes&nbsp;&nbsp; empresas&rdquo;,&nbsp; afirma o estudo. Os outros obst&aacute;culos &agrave; expans&atilde;o dos neg&oacute;cios&nbsp;&nbsp; citados&nbsp; pelos industriais s&atilde;o a elevada carga tribut&aacute;ria e o acirramento&nbsp;&nbsp; da competi&ccedil;&atilde;o.</p></p>
+<p><p>Apesar&nbsp;&nbsp; da&nbsp; retra&ccedil;&atilde;o&nbsp; registrada&nbsp; no&nbsp; primeiro&nbsp; trimestre&nbsp; de&nbsp; 2009,&nbsp; as&nbsp;&nbsp; estimativas&nbsp; dos&nbsp; industriais&nbsp; em&nbsp; rela&ccedil;&atilde;o&nbsp; ao desempenho da economia nos&nbsp;&nbsp; pr&oacute;ximos&nbsp; seis meses s&atilde;o menos pessimistas. O indicador de perspectiva de&nbsp;&nbsp; demanda subiu de 39,7 pontos no &uacute;ltimo trimestre de 2008 para 48,3 pontos&nbsp;&nbsp; no in&iacute;cio deste ano.</p></p>
+<p><p>Tamb&eacute;m&nbsp; melhoraram&nbsp; as expectativas em rela&ccedil;&atilde;o ao emprego, cujo indicador&nbsp;&nbsp; subiu&nbsp; de&nbsp; 40,5&nbsp; pontos&nbsp; para&nbsp; 44,8&nbsp; pontos,&nbsp; e as previs&otilde;es de compra de&nbsp;&nbsp; mat&eacute;ria-prima, que passou que 38,9 pontos para 46,9 pontos entre o &uacute;ltimo&nbsp;&nbsp; trimestre de 2008 e o primeiro trimestre deste ano.</p></p>
+<p><p>Mas&nbsp; as&nbsp; previs&otilde;es&nbsp; para&nbsp; as exporta&ccedil;&otilde;es continuam caindo. O indicador de&nbsp;&nbsp; expectativa&nbsp; de&nbsp; exporta&ccedil;&otilde;es&nbsp; recuou&nbsp; de 41,7 no &uacute;ltimo trimestre de 2008 pontos para 39,8 pontos agora. &Eacute; o menor valor desde janeiro de 2002.</p></p>
+<p><p>A Sondagem Industrial foi feita entre os dias 1&ordm; e 27 de abril, com 1.329&nbsp;&nbsp; empresas.&nbsp; Dessas,&nbsp; 740&nbsp; s&atilde;o&nbsp; de&nbsp; pequeno porte, 386 s&atilde;o m&eacute;dias e 203 s&atilde;o&nbsp;&nbsp; grandes empresas.<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

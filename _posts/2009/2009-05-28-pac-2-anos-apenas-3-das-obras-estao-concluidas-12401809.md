@@ -1,0 +1,26 @@
+---
+id: 12401809
+date: "2009-05-28T14:33:00Z"
+last_modified_at: null
+tags:
+  - "obras"
+  - "planos"
+categories:
+  - "noticias"
+title: "PAC 2 anos: apenas 3% das obras est\u00e3o conclu\u00eddas"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>No site <b><a href="https://contasabertas.uol.com.br/noticias/auto=2686.htm">Contas Abertas</a></b></p></p>
+<p><p>Levantamento in&eacute;dito realizado pelo Contas Abertas, com base nos relat&oacute;rios estaduais divulgados pelo comit&ecirc; gestor do programa, aponta que de um total de 10.914 empreendimentos distribu&iacute;dos nas 27 unidades federativas do pa&iacute;s, apenas 3% foram conclu&iacute;dos e 74% sequer sa&iacute;ram do papel dos dois primeiros anos do PAC. As informa&ccedil;&otilde;es englobam investimentos previstos pela Uni&atilde;o, empresas estatais e iniciativa privada - per&iacute;odo 2007-2010 e p&oacute;s 2010 - atualizados at&eacute; dezembro de 2008.</p></p>
+<p><p>Em rela&ccedil;&atilde;o &agrave; quantidade global de empreendimentos, o estado de S&atilde;o Paulo &eacute; o mais bem contemplado pelo PAC, com 1.051 projetos exclusivos do programa. Tamb&eacute;m &eacute; o estado com o maior n&uacute;mero de obras em andamento (287) e com a maior por&ccedil;&atilde;o de projetos conclu&iacute;dos em rela&ccedil;&atilde;o &agrave;s demais unidades federativas (39).</p></p>
+<p><p>Apesar disso, outros 725 empreendimentos no estado mais rico do pa&iacute;s ainda est&atilde;o no papel; em fase de contrata&ccedil;&atilde;o ou contratado, licita&ccedil;&atilde;o ou apenas no est&aacute;gio de a&ccedil;&atilde;o preparat&oacute;ria. O trem de alta velocidade que ligar&aacute; as cidades do Rio de Janeiro, S&atilde;o Paulo e Campinas, por exemplo, ainda est&aacute; listado como a&ccedil;&atilde;o preparat&oacute;ria, tal como outros quatro projetos para o aeroporto de Viracopos, em Campinas, e dois para o aeroporto internacional de Guarulhos.</p></p>
+<p><p>J&aacute; o estado de origem da ministra-chefe da Casa Civil e &quot;m&atilde;e do PAC&quot;, Dilma Rousseff, &eacute; o segundo em quantidade de obras previstas e o terceiro em empreendimentos conclu&iacute;dos. Em Minas, s&atilde;o 1.005 projetos, dos quais 776 ainda est&atilde;o no papel, o equivalente a 77% do total de obras no estado, como a constru&ccedil;&atilde;o da pista dupla do contorno de Belo Horizonte, BR-381, que est&aacute; em fase de a&ccedil;&atilde;o preparat&oacute;ria. Outros 204 projetos est&atilde;o em andamento. De acordo com o relat&oacute;rio estadual, 25 obras exclusivas para Minas Gerais foram finalizadas.</p></p>
+<p><p>A Bahia ocupa o terceiro lugar na lista de estados mais favorecidos pelo programa em rela&ccedil;&atilde;o &agrave; quantidade de obras. S&atilde;o 917 empreendimentos previstos para a unidade federativa, das quais 80% n&atilde;o passaram das fases licitat&oacute;ria, de contrata&ccedil;&atilde;o, em contrata&ccedil;&atilde;o ou de a&ccedil;&atilde;o preparat&oacute;ria. Outros 168 projetos j&aacute; inauguraram o canteiro de obras, e somente 16 projetos, o que representa 2% do total, foram conclu&iacute;dos. Entre os j&aacute; inaugurados est&atilde;o o campo de g&aacute;s natural de Manati, no sul do estado, e a amplia&ccedil;&atilde;o e readequa&ccedil;&atilde;o do sistema vi&aacute;rio de acesso ao aeoporto de Salvador.</p></p>
+<p><p>O Mato Grosso do Sul, por sua vez, &eacute; o terceiro estado com o maior n&uacute;mero de obras conclu&iacute;das (26), atr&aacute;s de S&atilde;o Paulo e Minas Gerais. Com apenas 300 empreendimentos previstos, o estado tem 104 obras em andamento e 170 ainda em fases precedentes. Somados, os projetos conclu&iacute;dos apenas nestes tr&ecirc;s estados (MS, SP e MG), 90 no total, equivalem ao mesmo n&uacute;mero de obras conclu&iacute;das em toda a regi&atilde;o Nordeste mais as cinco menores unidades federativas do Norte &ndash; Acre, Amap&aacute;, Rond&ocirc;nia, Roraima e Tocantins.</p></p>
+<p><p>No Nordeste, a prop&oacute;sito, todos os estados apresentam percentual de obras conclu&iacute;das inferior a 2% em rela&ccedil;&atilde;o ao total de empreendimentos em cada unidade federativa. O Maranh&atilde;o, por exemplo, tem o pior desempenho, com apenas tr&ecirc;s obras finalizadas, de um total de 385 empreendimentos previstos para o estado. Mais de 320 deles ainda est&atilde;o em fase inicial no estado, como a linha de transmiss&atilde;o A&ccedil;ail&acirc;ndia-Presidente Dutra e a constru&ccedil;&atilde;o do ber&ccedil;o 108 no porto de Itaqui.</p></p>
+<p><p>No Piau&iacute;, dos 418 projetos previstos, mais de 87% das obras tamb&eacute;m continuam no papel. Tamb&eacute;m no Nordeste, o estado natal do presidente da Rep&uacute;blica, Pernambuco, &eacute; o segundo com o maior &iacute;ndice de projetos que ainda n&atilde;o est&atilde;o em fase de execu&ccedil;&atilde;o f&iacute;sica. Cerca de 86% dos 679 empreendimentos distribu&iacute;dos pelo estado se encontram nessa situa&ccedil;&atilde;o.</p> </p>
+{% endraw %}

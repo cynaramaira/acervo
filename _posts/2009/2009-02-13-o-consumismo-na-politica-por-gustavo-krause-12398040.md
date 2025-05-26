@@ -1,0 +1,34 @@
+---
+id: 12398040
+date: "2009-02-13T09:59:00Z"
+last_modified_at: null
+tags:
+  - "gustavo"
+  - "politica"
+categories:
+  - "colunistas"
+title: "O consumismo na Pol\u00edtica. Por Gustavo Krause"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Gustavo Krause</p></p>
+<p><p>Para a natureza humana, consumir &eacute; um ato prosaico e indispens&aacute;vel para a sobreviv&ecirc;ncia da esp&eacute;cie. Que o diga o oxig&ecirc;nio e a &aacute;gua, hoje, nem t&atilde;o puros, nem t&atilde;o abundantes; ou o p&atilde;o e o leite que, outrora, chegavam cedinho na casa dos consumidores.</p></p>
+<p><p>Para a economia, o consumo &eacute; um agregado macroecon&ocirc;mico que se forma a partir da decis&atilde;o dos indiv&iacute;duos que, por prefer&ecirc;ncias racionais ou est&iacute;mulos emocionais, buscam a satisfa&ccedil;&atilde;o de necessidades reais ou artificiais, observadas, em princ&iacute;pio, as leis da oferta e da procura.</p></p>
+<p><p>Na atualidade, esta defini&ccedil;&atilde;o foi pro espa&ccedil;o; nem toda sociedade, atesta a hist&oacute;ria, se confunde com o consumo, parte do todo, mas a sociedade contempor&acirc;nea &eacute;, por excel&ecirc;ncia, a sociedade do consumo, ou seja, nela, a parte tomou conta do todo.</p></p>
+<p><p>Neste sentido, o soci&oacute;logo polon&ecirc;s Zygmunt Baumann, faz a distin&ccedil;&atilde;o: &ldquo;A sociedade dos nossos predecessores era, na sua fase industrial, uma &lsquo;sociedade de produtores&rsquo; (....) A maneira como a sociedade atual molda seus membros &eacute; ditada primeiro e acima de tudo pelo dever de desempenhar o papel de consumidor&rdquo;. A diferen&ccedil;a &eacute; profunda: numa se consome para viver, noutra se vive para consumir.</p></p>
+<p><p>No entanto, as diferen&ccedil;as n&atilde;o param por a&iacute;. Na sociedade da produ&ccedil;&atilde;o, as rela&ccedil;&otilde;es eram mais s&oacute;lidas e seguras; na sociedade do consumo, s&atilde;o l&iacute;quidas e flu&iacute;das; na sociedade da produ&ccedil;&atilde;o se apostava na durabilidade do longo prazo; na sociedade do consumo, reina a cultura &ldquo;agorista&rdquo;, o tempo &eacute; o instante do desejo satisfeito, imediatamente substitu&iacute;do por uma avalanche de desejos sempre intensos, crescentes e insaci&aacute;veis. Ansioso e apressado, exagerado e perdul&aacute;rio, o consumista descarta e substitui o bem que, para ele, j&aacute; nasce um quase-lixo. <br /></p>
+<p><br /></p>
+<p>Nesta &ldquo;esteira hedonista&rdquo;, surge o tra&ccedil;o mais grave da louca aventura do consumo: sujeito e objeto se fundem e fazem nascer o ser-mercadoria. N&oacute;s somos mercadorias, comandados pela &iacute;ndole social do &ldquo;compro, logo existo&rdquo;, ou dos imperativos: est&aacute; de mal com voc&ecirc; e com a vida&#63; Ent&atilde;o, coma! Est&aacute; depressivo&#63; Ent&atilde;o deseje o desejo, indo ao pr&oacute;ximo Shopping Center!</p></p>
+<p><p>Ao gerar o ser-mercadoria e o cidad&atilde;o acr&iacute;tico que engole o espet&aacute;culo da imagem sob o comando da propaganda, o consumismo nos transforma em marqueteiros de n&oacute;s mesmos. Do mais simples profissional liberal ao mais famoso pop star, torna-se imprescind&iacute;vel ser visto e projetar a imagem que o &ldquo;mercado&rdquo; compre porque &eacute; assim que funciona o espet&aacute;culo da vida moderna. A invisibilidade equivale &agrave; morte em todas as esferas das rela&ccedil;&otilde;es sociais.</p></p>
+<p><p>Na pol&iacute;tica n&atilde;o &eacute; diferente: id&eacute;ias e valores foram trocados pela &ldquo;persona&rdquo;, m&aacute;scara, imagem-produto. O ponto de partida &eacute; a fixa&ccedil;&atilde;o da imagem junto ao p&uacute;blico. Imagem &eacute; &ldquo;marca&rdquo;; candidato &eacute; &ldquo;produto&rdquo;, tal qual um biscoito ou um dentifr&iacute;cio, que pode ser &ldquo;vendido&rdquo; no &ldquo;mercado pol&iacute;tico&rdquo; cuja &ldquo;moeda&rdquo; de troca &eacute; o voto.</p></p>
+<p><p>&nbsp;Desta forma, o pol&iacute;tico assume o personagem em cuja pele se meteu. O que passa a valer &eacute; a produ&ccedil;&atilde;o de s&iacute;mbolos e mitos. E n&atilde;o importa sua rela&ccedil;&atilde;o com a realidade e muito menos que o pol&iacute;tico se torne escravo do mito. O importante &eacute; fazer o p&uacute;blico acreditar. O mito se basta.</p></p>
+<p><p>Entre ser e parecer, a op&ccedil;&atilde;o &eacute; parecer. Hannah Arendt, em Da Mentira em Pol&iacute;tica, ensina: &ldquo;A pol&iacute;tica &eacute; feita, em parte, da fabrica&ccedil;&atilde;o de certa &lsquo;imagem&rsquo; e, em parte, da arte de levar a acreditar na realidade dessa imagem&rdquo;.</p></p>
+<p><p>Com efeito, a arte de mentir, apoiada na ind&uacute;stria do marketing, registrou feitos not&aacute;veis na recente hist&oacute;ria pol&iacute;tica do Brasil.</p></p>
+<p><p>Vem da&iacute; um dos grandes males da democracia que &eacute; sua deforma&ccedil;&atilde;o em &ldquo;teatrocracia&rdquo;, oferecendo ilus&atilde;o ao distra&iacute;do p&uacute;blico. O rem&eacute;dio para o consumismo pol&iacute;tico est&aacute; na forma&ccedil;&atilde;o de uma cidadania cr&iacute;tica e participava. Ali&aacute;s, com a autoridade de quem exerceu a vida p&uacute;blica sem fazer a m&iacute;nima concess&atilde;o ao primado do embuste segundo o qual &ldquo;o que parece &eacute;, mesmo n&atilde;o sendo&rdquo;, o Senador Marco Maciel, em excelente artigo publicado no JC (edi&ccedil;&atilde;o de 05/02/09, sob o t&iacute;tulo Os males da democracia) afirma: &ldquo;A democracia participativa n&atilde;o &eacute; uma utopia e menos ainda uma aspira&ccedil;&atilde;o inalcan&ccedil;&aacute;vel. S&oacute; depende de n&oacute;s. Enquanto tivermos ojeriza aos partidos, desprezo pelas institui&ccedil;&otilde;es que nos governam, desinteresse pelos assuntos que nos dizem respeito e avers&atilde;o &agrave; pol&iacute;tica, corremos o risco de, na guerra dos interesses, tornarmo-nos ref&eacute;ns de press&otilde;es leg&iacute;timas ou esp&uacute;rias que se aproveitam da omiss&atilde;o dos cidad&atilde;os, do compromisso de alguns e da aliena&ccedil;&atilde;o de muitos. Na era da informa&ccedil;&atilde;o, todos n&oacute;s temos recursos, instrumentos e meios para mantermo-nos informados sobre o desempenho dos nossos representantes em nossas cidades, em nossos Estados e no Congresso Nacional&rdquo;.&nbsp;</p></p>
+<p><p>Trocando em mi&uacute;dos: em economia, o cidad&atilde;o consumista compra gato por lebre e paga, sozinho, pelo erro; em pol&iacute;tica, o eleitor consumista elege rato por lebre. A&iacute; todos pagam.<br /></p>
+<p><br /></p>
+<p>PS: Gustavo Krause, &eacute; ex-ministro da Fazenda e escreve neste Blog quando Deus d&aacute; bom tempo.</p> </p>
+{% endraw %}

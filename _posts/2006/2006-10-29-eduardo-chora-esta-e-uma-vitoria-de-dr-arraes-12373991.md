@@ -15,6 +15,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana>O governador eleito não conteve há pouco&nbsp;a emoção e com os olhos ainda mais marejados disse: \"Esta é uma vitória de dr. Arraes e de Luiz Inácio Lula da Silva, meu companheiro e meu amigo\".</FONT> </p>
-{\% endraw %}
+{% endraw %}

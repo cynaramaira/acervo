@@ -12,8 +12,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>Estivemos fora da rede por problemas técnicos no provedor. </FONT></P></p>
 <p><P><FONT face=Verdana>Pedimos desculpas.</FONT> </P></B></FONT> </p>
-{\% endraw %}
+{% endraw %}

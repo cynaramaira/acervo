@@ -14,9 +14,9 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Ramos</STRONG><BR>Repórter do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>Jarbas Vasconcelos (PMDB) e Mendonça Filho (PFL) assistem ao primeiro programa do guia eleitoral da União por Pernambuco no dia 16 de agosto, no comitê da Rosa e Silva, no Recife.</FONT></P></p>
 <p><P><FONT face=Verdana>A propaganda eleitoral na TV e no rádio começa dia 15, mas com a campanha presidencial.</FONT></P></p>
 <p><P><FONT face=Verdana>O peemedebista, maior estrela da aliança e puxador de votos, é quem abre o v?deo, que tem coordenação do marqueteiro Antônio Lavareda, da MCI.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

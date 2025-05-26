@@ -1,0 +1,30 @@
+---
+id: 12390418
+date: "2008-07-04T10:18:00Z"
+last_modified_at: null
+tags:
+  - "direito"
+  - "estado"
+  - "metodos-contraceptivos"
+categories:
+  - "colunistas"
+title: "Direito de todos, dever do Estado"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Jayme Asfora*</p></p>
+<p><p>A palavra CIDADANIA &eacute; origin&aacute;ria do latim &quot;civitas&quot;, que quer dizer cidade. Foi usada na Roma antiga para indicar a situa&ccedil;&atilde;o pol&iacute;tica de uma pessoa e os direitos que a mesma tinha ou podia exercer. O artigo 6&ordm; da Constitui&ccedil;&atilde;o Federal do Brasil disp&otilde;e sobre os direitos sociais de todo cidad&atilde;o como os direitos &quot;&agrave; educa&ccedil;&atilde;o, &agrave; SA&Uacute;DE, ao trabalho, &agrave; moradia, ao lazer, &agrave; seguran&ccedil;a&quot;, entre outros. J&aacute; o artigo 196 da Constitui&ccedil;&atilde;o, determina que &quot;A sa&uacute;de &eacute; direito de todos e dever do Estado, garantindo mediante pol&iacute;ticas sociais e econ&ocirc;micas que visem &agrave; redu&ccedil;&atilde;o do risco de doen&ccedil;a e de outros agravos e ao acesso universal igualit&aacute;rio &agrave;s a&ccedil;&otilde;es e servi&ccedil;os para a sua promo&ccedil;&atilde;o, prote&ccedil;&atilde;o e recupera&ccedil;&atilde;o.&quot;</p></p>
+<p><p>Diante deste pre&acirc;mbulo, podemos afirmar, sem qualquer sombra de d&uacute;vida, que o direito &agrave; sa&uacute;de &eacute; um dos direitos fundamentais conferidos &agrave; cidadania previstos firmemente em nossa Carta Constitucional de 1988 e, como corol&aacute;rio, o Estado tem a obriga&ccedil;&atilde;o de prover o sistema de sa&uacute;de p&uacute;blica de recursos (humanos, inclusive) e infra-estrutura necess&aacute;rios para atender a todas estas normas. </p></p>
+<p><p>&Eacute; de conhecimento geral que a sa&uacute;de p&uacute;blica no Brasil tem sido, numa escalada perversa, especialmente a partir da d&eacute;cada de 80,&nbsp; relegada a plano secund&aacute;rio e n&atilde;o vem recebendo os investimentos necess&aacute;rios para garantir uma assist&ecirc;ncia pelo menos razo&aacute;vel a toda popula&ccedil;&atilde;o. Em Pernambuco, a situa&ccedil;&atilde;o vem piorando a cada dia e a expectativa de que houvesse uma melhora na infra-estrutura e uma remunera&ccedil;&atilde;o mais condizente para os m&eacute;dicos &ndash; como foi garantido, h&aacute; exatamente um ano atr&aacute;s, diante do movimento que levou ao pedido de demiss&atilde;o de dezenas e dezenas de profissionais &ndash; acabou frustrada. &nbsp;</p></p>
+<p><p>O total e completo descaso com a dignidade humana fere os olhos de quem chega, por exemplo, no Hospital da Restaura&ccedil;&atilde;o onde, no &uacute;ltimo dia 2 de junho, havia 20 pessoas aguardando tratamento intensivo. Durante uma visita, neste mesmo dia, em que a OAB-PE acompanhou o Cremepe e o Simepe, foram encontrados 200 leitos improvisados na emerg&ecirc;ncia, em macas, cadeiras e len&ccedil;ol no ch&atilde;o. </p></p>
+<p><p>O problema se repete nas emerg&ecirc;ncias dos outros hospitais do Estado. Pacientes idosos, com problemas de fratura, muitas vezes grav&iacute;ssimas, passam semanas aguardando uma cirurgia e, com isso, correndo intenso risco de morte. E o pior &eacute; que, muitas vezes, PASMEM, essas defici&ecirc;ncias provocam n&atilde;o s&oacute; o &oacute;bito do paciente como ainda levam m&eacute;dicos e enfermeiros a serem processados por neglig&ecirc;ncia.</p></p>
+<p><p>Os m&eacute;dicos que pediram, desesperadamente, demiss&atilde;o do servi&ccedil;o p&uacute;blico estadual (em 2007) est&atilde;o buscando n&atilde;o apenas pressionar o Estado a atender suas muito mais que leg&iacute;timas reivindica&ccedil;&otilde;es. Mas, principalmente, alertar a sociedade para o descumprimento pelo Poder P&uacute;blico dos deveres que lhe s&atilde;o impostos por comandos e princ&iacute;pios constitucionais, como o Princ&iacute;pio da Dignidade Humana &ndash; cada vez mais consagrado pelo Direito Brasileiro.</p></p>
+<p><p>A intoler&aacute;vel omiss&atilde;o estatal em face de suas obriga&ccedil;&otilde;es morais e &eacute;ticas n&atilde;o pode ser negada com tergiversa&ccedil;&otilde;es e sofismas - como atribuir esta situa&ccedil;&atilde;o de CALAMIDADE P&Uacute;BLICA ao fim da CPMF. Vale lembrar que&nbsp; segundo o &sect;1&ordm; do art. 198, tamb&eacute;m da Constitui&ccedil;&atilde;o Federal, o Sistema &Uacute;nico de Sa&uacute;de (SUS) ser&aacute; financiado com o or&ccedil;amento da seguridade social, da Uni&atilde;o, dos Estados, do Distrito Federal, dos Munic&iacute;pios e de outras fontes. Ou seja, n&atilde;o se pode remeter ao fim da CPMF o caos vivido pela sa&uacute;de p&uacute;blica brasileira. </p></p>
+<p><p>As fontes de financiamento previstas, inicialmente, j&aacute; eram outras. E nos 10 anos em que vigorou (inclu&iacute;do a&iacute; o ano de 2007), a CPMF pouco fez para impedir que a crise no setor se tornasse cr&ocirc;nica e o quadro, aparentemente, irrevers&iacute;vel. Foi eficaz, sim, para finalidades outras como engordar o j&aacute; muit&iacute;ssimo robusto caixa do super&aacute;vit prim&aacute;rio, t&atilde;o acalentado pelo Governo Federal.</p></p>
+<p><p>Por fim, a luta que deveria ser abra&ccedil;ada por todos os homens p&uacute;blicos do Pa&iacute;s, com responsabilidade e a&ccedil;&atilde;o conseq&uuml;ente, &eacute; a da REGULAMENTA&Ccedil;&Atilde;O DA EMENDA CONSTITUCIONAL 29 (mediante a qual 15% do or&ccedil;amento dos munic&iacute;pios, 12% do dos Estados e 10% do or&ccedil;amento da Uni&atilde;o deveriam ir para o financiamento p&uacute;blico do sistema de sa&uacute;de). De maneira civilizada, ouvindo-se as entidades m&eacute;dicas e os setores da sociedade historicamente comprometidos com o Estado Democr&aacute;tico de Direito.</p></p>
+<p><p><i>*Presidente da OAB-PE</i><br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

@@ -12,9 +12,9 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Lula falou meia hora. Terminou o discurso com um frase para Eduardo e Humberto:</FONT></P></p>
 <p><P><FONT face=Verdana>\"Eu tenho esses dois meninos aqui como filhos\", disse, dirigindo-se para os dois: \"Por favor, vamos fazer com que tenha valido a pena o povo confiar na gente.\"</FONT></P></p>
 <p><P><FONT face=Verdana>Ele está descendo do palanque para falar com a imprensa.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

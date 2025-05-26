@@ -1,0 +1,39 @@
+---
+id: 12380253
+date: "2007-07-13T11:53:00Z"
+last_modified_at: null
+tags:
+  - "cobertura-vacinal"
+  - "investimentos"
+  - "sociais"
+categories:
+  - "noticias"
+title: "PAC: recheio neoliberal com uma fina cobertura de investimentos sociais"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Courier New\" size=\"2\"></p>
+<p><p><font face=\"Verdana\">Por <strong>Ed&iacute;lson Silva</strong></font></p></p>
+<p><p><font face=\"Verdana\">O Presidente Lula esteve em Recife ontem (12 de julho) para re-anunciar o PAC, agora na vers&atilde;o estadual. Os supostos investimentos no Estado ser&atilde;o da ordem de R$1,673 Bilh&atilde;o.</font></p></p>
+<p><p><font face=\"Verdana\">O PAC, at&eacute; aqui, tem se mostrado apenas um poderoso instrumento de marketing pol&iacute;tico-eleitoral, alicerce para palanques e com&iacute;cios fora de &eacute;poca. J&aacute; escrevemos em outros momentos que este plano traz pouco dinheiro novo em rela&ccedil;&atilde;o ao que j&aacute; estava previsto em or&ccedil;amentos j&aacute; votados pelo Congresso Nacional, e que o &quot;grosso&quot; dos investimentos s&atilde;o para viabilizar corredores de exporta&ccedil;&atilde;o, estrat&eacute;gia distante da constru&ccedil;&atilde;o das necess&aacute;rias e inadi&aacute;veis soberanias que precisamos conquistar.</font></p></p>
+<p><p><font face=\"Verdana\">Contudo, o PAC traz, no seu p&aacute;ra-choque, supostos investimentos em moradia, saneamento, urbaniza&ccedil;&atilde;o. E quem &eacute; louco de falar contra investimentos nestas &aacute;reas, ainda mais em Pernambuco? O problema &eacute; que onze entre dez pol&iacute;ticos </font><font face=\"Verdana\">vivem falando em educa&ccedil;&atilde;o, sa&uacute;de, moradia, seguran&ccedil;a, cidadania, etc. A quest&atilde;o n&atilde;o est&aacute;, portanto, no conte&uacute;do das promessas, mas na sua veracidade. O PAC sofre do mesmo mal. Fala-se disso aos quatro ventos, h&aacute; seis meses pelo menos, no entanto, nada ainda saiu do papel.</font></p></p>
+<p><p><font face=\"Verdana\">Lula j&aacute; alertou ontem que as obras em infra-estrutura urbana poder&atilde;o atrasar ainda mais, por causa da burocracia, que, segundo ele, n&atilde;o sabe &quot;botar ovo&quot; como as galinhas. Pediu mais paci&ecirc;ncia.</font></p></p>
+<p><p><font face=\"Verdana\">Para a infelicidade geral da na&ccedil;&atilde;o, a burocracia do Minist&eacute;rio da Fazenda e do Banco Central n&atilde;o s&oacute; botam muitos ovos, como botam ovos de ouro, para os banqueiros. S&oacute; em 2006 foram R$ 275 Bilh&otilde;es transferidos para os cofres da agiotagem oficial. Uma verdadeira granja que funciona em escala industrial.</font></p></p>
+<p><p><font face=\"Verdana\">Portanto, os supostos investimentos na infra-estrutura urbana s&atilde;o em tese positivos, mas, mesmo que se concretizem, s&atilde;o irris&oacute;rios diante do gigantesco mecanismo de concentra&ccedil;&atilde;o de renda operado pela &aacute;rea econ&ocirc;mica do governo.</font></p></p>
+<p><p><font face=\"Verdana\">Ao redor do Presidente, na referida cerim&ocirc;nia, um bocado de Vossas Excel&ecirc;ncias, das pequenas e das gra&uacute;das. Com tanto dinheiro sendo anunciado, isso &eacute; uma temeridade. Para Olinda foram anunciados R$ 280 milh&otilde;es.</font></p></p>
+<p><p><font face=\"Verdana\">Segundo Lula, a prefeita Luciana Santos (PC do B) ter&aacute; que comprar um avental daqueles de vendedoras de &quot;pastel&quot;, cheio de bolsos, para guardar tanto dinheiro. Brincadeira de mau-gosto de Lula. Acho que ele n&atilde;o sabe que Luciana Santos &eacute; um dos maiores exemplos de descontrole social em Pernambuco. Tudo indica que ela j&aacute; comprou o tal avental h&aacute; muito tempo.</font></p></p>
+<p><p><font face=\"Verdana\">Em Olinda o Conselho de Previd&ecirc;ncia n&atilde;o funciona por inger&ecirc;ncia da prefeitura. O Conselho Municipal de Sa&uacute;de tem as Conselheiras de base demitidas pela prefeitura, por exigirem transpar&ecirc;ncia na utiliza&ccedil;&atilde;o dos recursos. O Conselho do extinto FUNDEB, que agora virou FUNDEF, est&aacute; cheio de graves pend&ecirc;ncias. A prefeitura tenta criar um novo sindicato entre os servidores, de chapa branca, por que n&atilde;o consegue calar e nem cooptar o sindicato aut&ecirc;ntico.</font></p></p>
+<p><p><font face=\"Verdana\">O exemplo de Olinda nos mostra que o Minist&eacute;rio P&uacute;blico e a Pol&iacute;cia Federal, que andam cumprindo o papel exercer o &quot;controle social&quot; sobre os agentes p&uacute;blicos, ter&atilde;o muito trabalho pela frente.</font></p></p>
+<p><p><font face=\"Verdana\">Mas a visita de Lula serviu tamb&eacute;m para mostrar um outro lado do PAC. Do lado de fora do audit&oacute;rio principal do Centro de Conven&ccedil;&otilde;es de Pernambuco, algumas centenas de manifestantes protestavam contra as &quot;autoridades&quot; presentes, blindadas contra o povo organizado.</font></p></p>
+<p><p><font face=\"Verdana\">Lula Cabral, prefeito do Cabo, enfrenta uma greve dos servidores h&aacute; v&aacute;rias semanas. Luciana Santos, de Olinda, enfrenta uma greve de mais de 30 dias e a f&uacute;ria dos moradores da Ilha do Maruim, que foram desalojados de suas casas com a promessa de novas moradias desde 2004 e at&eacute; hoje n&atilde;o foram atendidos.</font></p></p>
+<p><p><font face=\"Verdana\">O governador Eduardo Campos tamb&eacute;m enfrenta uma dura greve no setor de educa&ccedil;&atilde;o e tamb&eacute;m manifesta&ccedil;&otilde;es dos trabalhadores da Compesa, al&eacute;m dos concursados da Secretaria de Educa&ccedil;&atilde;o que ainda n&atilde;o foram efetivados. Jo&atilde;o Paulo, prefeito do Recife, s&oacute; n&atilde;o estava com os professores da PMR na porta do audit&oacute;rio por que sofreu uma recente derrota na tentativa de castigar a categoria com o pagamento dos dias de greve durante o recesso escolar.</font></p></p>
+<p><p><font face=\"Verdana\">Os servidores da UFPE tamb&eacute;m estavam presentes, protestando contra o congelamento salarial por 10 anos imposto pelo PAC aos servidores federais e contra a Lei anti-greve de Lula, que visa exatamente evitar que os servidores se organizem para lutar contra este congelamento salarial criminoso.</font></p></p>
+<p><p><font face=\"Verdana\">Ou seja, do lado de dentro do audit&oacute;rio, cercado por um robusto esquema de seguran&ccedil;a, estava o Brasil do &quot;nunca antes nesse pa&iacute;s&quot;, do marketing, o Brasil que est&aacute; &quot;melhorando&quot;. Do lado de fora, a dura realidade do povo.</font></p></p>
+<p><p><font face=\"Verdana\">Estive presente nesta manifesta&ccedil;&atilde;o, enquanto militante do meu partido, o PSOL. E l&aacute; fui abordado por um antigo colega de milit&acirc;ncia, hoje contratado por umas das prefeituras de &quot;esquerda&quot; de nosso Estado. Ele me disse que ter&iacute;amos que reconhecer que as coisas estavam mudando pra melhor no Brasil, e que t&iacute;nhamos que dar mais tempo para os efeitos do governo Lula aparecerem.</font></p></p>
+<p><p><font face=\"Verdana\">Olhei bem pra ele, com sua camisa de bot&atilde;o, por dentro da cal&ccedil;a, manga comprida, sapato vistoso, barba impec&aacute;vel e uma chave de carro pendurada no bolso da cal&ccedil;a. E lembrei-me dele h&aacute; uns quatro anos atr&aacute;s, com sua camiseta de malha surrada, por fora da cal&ccedil;a, cal&ccedil;a jeans desbotada, uma sand&aacute;lia de couro e um cart&atilde;o de passe-f&aacute;cil na carteira. A resposta foi inevit&aacute;vel: &quot;as coisas mudaram para voc&ecirc;, n&atilde;o para o povo&quot;.</font></p></p>
+<p><p><font face=\"Verdana\">PS: Edilson Silva &eacute; presidente do PSOL/PE, foi candidato ao Governo do Estado em 2006 e escreve &agrave;s sextas para o <strong>Blog de Jamildo</strong></font></p></p>
+<p></font></p> </p>
+{% endraw %}

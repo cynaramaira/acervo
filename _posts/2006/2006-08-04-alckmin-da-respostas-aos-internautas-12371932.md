@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>O <STRONG>Blog</STRONG> pediu ontem e hoje aos internautas para apresentar o que gostariam de perguntar a Geraldo Alckmin, presidenciável do PSDB.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>&nbsp;<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana>Recebemos mais de 20 questões. Apenas uma parte delas pôde ser apresentada a Alckmin, durante a vista dele ao <EM>Jornal do Commercio</EM>, no final da manhã.</FONT></P></p>
@@ -49,4 +49,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><STRONG><SPAN style=\"FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"><STRONG>Pergunta de quem assinou Bloquear Celulares nos Pres?dios</STRONG>:</SPAN></STRONG><STRONG><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"> </SPAN></STRONG><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">\"Sou Engenheiro Eletrônico da USP. Embutir chapas de metal nos muros dos pres?dios e cobrir os forros e telhados com telas metálicas resolveriam o problema. Qualquer professor mediano de telecomunicações sabe disso ( princ?pio gaiola de faraday - século XVIII ). O custo é baixo e a implantação fácil. Porque isso ainda não foi feito?\"</SPAN><SPAN style=\"COLOR: black\"><o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"COLOR: black\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><FONT face=Verdana><STRONG>Alckmin -</STRONG> Esse é o grande desafio. Nas penitenciárias de segurança máxima, não tem acesso (aos celulares). Agora, nas penitenciárias maiores, perto de 800, 900 presos, é mais dif?cil. Então o caminho é o tecnológico. Os bloqueadores de celulares não têm agido com tanta eficiência. Tecnologicamente você consegue um bom resultado, por exemplo, numa sala de cinema, num teatro, mas numa penitenciária que é praticamente uma cidade, é mais dif?cil. Eu entendo que a Anatel e as concessionárias de telefonia precisam ajudar mais no sentido de bloquear essas áreas de pres?dio. Isso ajudaria muito a quebrar essa comunicação do crime.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

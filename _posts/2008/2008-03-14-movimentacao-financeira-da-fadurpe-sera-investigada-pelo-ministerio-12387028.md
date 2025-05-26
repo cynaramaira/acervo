@@ -1,0 +1,28 @@
+---
+id: 12387028
+date: "2008-03-14T09:56:00Z"
+last_modified_at: null
+tags:
+  - "ministerio"
+  - "movimentacao"
+  - "serasa"
+categories:
+  - "noticias"
+title: "Movimenta\u00e7\u00e3o financeira da Fadurpe ser\u00e1 investigada pelo Minist\u00e9rio P\u00fablico"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">Sheila Borges (</font><a href=\"mailto:sborges@jc.com.br\"><font face=\"Verdana\" size=\"2\">sborges@jc.com.br</font></a><font face=\"Verdana\" size=\"2\">)</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Do Jornal do Commercio&nbsp;</font></p></p>
+<p><div id=\"corpo\" style=\"font-size: 90%\"></p>
+<p><p><font face=\"Verdana\" size=\"2\">O Minist&eacute;rio P&uacute;blico de Pernambuco (MPPE) decidiu instaurar, ontem, inqu&eacute;rito civil para investigar a movimenta&ccedil;&atilde;o financeira e as atividades da Funda&ccedil;&atilde;o Apol&ocirc;nio Salles de Desenvolvimento Educacional (Fadurpe) durante os &uacute;ltimos cinco anos. O promotor de Funda&ccedil;&otilde;es e Entidades de Interesse Social, Ulisses S&aacute;, realizar&aacute; este &ldquo;pente-fino&rdquo; em fun&ccedil;&atilde;o da rejei&ccedil;&atilde;o da presta&ccedil;&atilde;o de contas de 2006 e dos conte&uacute;dos do relat&oacute;rio da Corregedoria-Geral da Uni&atilde;o (CGU) e do ac&oacute;rd&atilde;o do Tribunal de Contas da Uni&atilde;o (TCU), que apontam irregularidades na atua&ccedil;&atilde;o da funda&ccedil;&atilde;o, ligada &agrave; Universidade Federal Rural de Pernambuco (UFRPE). Criada em 1984, a Fadurpe d&aacute; apoio aos trabalhos de pesquisa e extens&atilde;o da Rural. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Quando julgaram a presta&ccedil;&atilde;o de contas da UFRPE de 2002, no ano passado, os ministros da 2&ordf; C&acirc;mara do TCU identificaram irregularidades na rela&ccedil;&atilde;o mantida entre a institui&ccedil;&atilde;o de ensino e a Fadurpe. O tribunal determinou a revis&atilde;o de todos os pactos firmados entre as duas entidades e a realiza&ccedil;&atilde;o de licita&ccedil;&atilde;o para a contrata&ccedil;&atilde;o dos servi&ccedil;os e a aquisi&ccedil;&atilde;o de material que &ldquo;est&atilde;o indevidamente a cargo&rdquo; da funda&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">No ac&oacute;rd&atilde;o do TCU, o ministro relator do processo, Aroldo Cedraz, n&atilde;o deixa d&uacute;vidas sobre o desvirtuamento da atua&ccedil;&atilde;o da Fadurpe. &ldquo;Na maior parte dos contratos, cujos objetos eram &ldquo;apoio &agrave; execu&ccedil;&atilde;o de projetos&rdquo;, o que ocorria de fato n&atilde;o era a execu&ccedil;&atilde;o de atividades de apoio, mas a pr&oacute;pria execu&ccedil;&atilde;o total das atividades previstas pela Fadurpe, com subcontrata&ccedil;&atilde;o de empresas e servi&ccedil;os em grande parte sem nexo com a natureza da funda&ccedil;&atilde;o&rdquo;. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O relat&oacute;rio da Controladoria-Geral da Uni&atilde;o de 2002, por sua vez, tamb&eacute;m apresenta elementos neste sentido. A auditoria constatou, por exemplo, que a Apol&ocirc;nio Salles utilizou, naquele ano, o escrit&oacute;rio da representa&ccedil;&atilde;o da Rural em Bras&iacute;lia. A funda&ccedil;&atilde;o alegou, em sua defesa, que fez isso apenas para remeter documentos e, como contrapartida, assumiu algumas despesas de manuten&ccedil;&atilde;o do escrit&oacute;rio. A CGU recomendou que a UFRPE cobrasse pela utiliza&ccedil;&atilde;o do local. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Ainda segundo a CGU, em 2002, a Fadurpe foi respons&aacute;vel pela venda de manual e pelo recebimento da taxa de inscri&ccedil;&atilde;o das pessoas interessadas em participar dos cursos oferecidos pelo Col&eacute;gio Agr&iacute;cola Dom Agostinho, ligado &agrave; Rural. A impress&atilde;o do material ocorreu na gr&aacute;fica da UFRPE. Nenhum recurso proveniente da venda e da inscri&ccedil;&atilde;o, no entanto, foi repassado para a Rural. A funda&ccedil;&atilde;o alegou que o material usado n&atilde;o era da universidade e que os servidores da gr&aacute;fica trabalharam fora do hor&aacute;rio do expediente. &ldquo;Esses dois fatos evidenciam a utiliza&ccedil;&atilde;o de patrim&ocirc;nio e pessoal da UFRPE pela Fadurpe sem repasse de receitas &agrave; mesma&rdquo;, diz o relat&oacute;rio. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Para apurar essas e outras irregularidades o MPPE solicitou a documenta&ccedil;&atilde;o que possa comprovar os repasses de verbas da Uni&atilde;o, do Estado e de munic&iacute;pios &agrave; funda&ccedil;&atilde;o desde 2003, encaminhando of&iacute;cios &agrave; CGU, &agrave; Contadoria-Geral do Estado de Pernambuco e &agrave;s Secretarias de Finan&ccedil;as do Recife e de Olinda. O promotor pediu informa&ccedil;&otilde;es sobre os pagamentos, a data dos repasses, o n&uacute;mero dos empenhos e os &oacute;rg&atilde;os de origem. O Minist&eacute;rio P&uacute;blico tamb&eacute;m requisitou ao Laborat&oacute;rio Farmac&ecirc;utico de Pernambuco (Lafepe) as c&oacute;pias dos conv&ecirc;nios e contratos de presta&ccedil;&atilde;o de servi&ccedil;os celebrados com a funda&ccedil;&atilde;o. Na pr&oacute;xima semana, o promotor Ulisses S&aacute; recebe, em audi&ecirc;ncia, o secret&aacute;rio executivo da institui&ccedil;&atilde;o, Ant&ocirc;nio Faustino. </font></p></p>
+<p></div> </p>
+{% endraw %}

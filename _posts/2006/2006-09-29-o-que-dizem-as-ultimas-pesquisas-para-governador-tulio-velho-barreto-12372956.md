@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Túlio Velho Barreto</STRONG><BR>Cientista Pol?tico, Pesquisador da Fundação Joaquim Nabuco e colaborador freqüente do <B>Blog </B><BR></FONT><A href=\"https://mail2.uol.com.br/cgi-bin/webmail.exe?Act_V_Compo=1&amp;mailto=tulio@fundaj.gov.br&amp;ID=IvEwN9MTxnN8PI2ZHqeF34ewT0SoF1iNbKkA1Rq&amp;R_Folder=b3V0Ym94&amp;msgID=1103&amp;Body=0\"><U><FONT color=#0000ff><FONT face=Verdana>tulio@fundaj.gov.br</FONT></U></FONT></A><FONT face=Verdana> </FONT></P></p>
 <p><P><BR><FONT face=Verdana>Analisando os resultados que vêm sendo apresentados desde ontem pelos diversos institutos de pesquisas - Opine/Folha de Pernambuco, divulgada ontem; Databrain/Isto É, Vox Populi/JC e Ibope/Rede Globo, todas hoje -, que têm medido a intenção de voto para governador em Pernambuco, lembrei de um artigo que publiquei aqui, neste <B>Blog</B>, no último dia 18, portanto há mais de dez dias. </FONT></P></p>
 <p><P><FONT face=Verdana>Abaixo, destaco alguns trechos de minhas conclusões a respeito das tendências apontadas por alguns dos institutos naquela ocasião para compará-las ao quadro atual. E observar a manutenção ou a mudança de algumas tendências. </FONT></P></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>E como todos os institutos apontam Mendonça Filho no segundo turno, apesar de estancado em um mesmo patamar desde o começo dos levantamentos, apostaria minhas fichas na realizaçào de um segundo turno entre o governador-candidato e o candidato socialista. </FONT></P></p>
 <p><P><FONT face=Verdana>Importante: todas as pesquisas divulgadas ontem e hoje mediram (1) a intenção de voto após a formalização da denúncia contra Humberto Costa por seu suposto envolvimento com a \"máfia dos vampiros\" e a suposta tentativa de formação de caixa dois e de tráfico de influência envolvendo o presidente licenciado do PSB, Milton Coelho, e (2) as repercussões do debate da Rede Globo com os candidatos ao governo do estado. </FONT></P></p>
 <p><P><FONT face=Verdana>Portanto, até domingo não há razão aparente para que este quadro mude significativamente: Mendonça Filho no segundo turno, e Eduardo Campos e Humberto Costa ainda em uma acirrada disputa na boca-de-urna visando a outra vaga, que, pelas razões que expus, está mais próxima de Eduardo Campos.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

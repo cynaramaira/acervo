@@ -1,0 +1,22 @@
+---
+id: 12378150
+date: "2007-04-27T11:33:00Z"
+last_modified_at: null
+tags:
+  - "edilson-vieira"
+  - "pensilvania"
+categories:
+  - "noticias"
+title: "Edilson Silva, sem perder a ternura"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><P><FONT face=Verdana>Erickson Luna: um poema andante.</FONT></P></p>
+<p><P><FONT face=Verdana>Por Edilson Silva</FONT></P></p>
+<p><P><FONT face=Verdana>Encontrava-o quase sempre nos bares da rua do Hospício ou no Mercado da Boa Vista, ambos no bairro da Boa Vista. Mais raramente em outras quebradas, como o bar Curupira, na UFRPE, ou nas imediações do antigo bar do Seu Rainha, na rua da Moeda.<BR><BR>Sempre que já estava embriagado, me recebia assim: \"Meu Lênin de ébano!\". Quando não estava tão embriagado, dizia simplesmente: \"e aí companheiro?\"</FONT></P></p>
+<p><P><FONT face=Verdana>Mas este segundo cumprimento era muito raro. O primeiro, absolutamente abundante, era sucedido por comentários ácidos, inteligentes, provocativos e por um grande sorriso sem dentes, com os olhos bem apertados. Uma simpatia, um tanto quanto exótica, mas uma simpatia.<BR><BR>Certa vez na Rua da Moeda, no Bairro do Recife, em um de nossos incontáveis e memoráveis papos, quando percebeu o aperreio do garçom do boteco com uns clientes inconvenientes, fez a desafiadora ligação da situação com o fato de o garçom sofrer de uma indisfarçável hidrocélis (doença do \"ovão\"). Na primeira oportunidade chamou o inocente e disparou: \" tem que<BR>ter muito saco nessa profissão, né?\" Fiquei entre o riso máximo e o contido, aguardando a reação do garçom, que após alguns segundos de introspecção para sacar o humor refinado e a ousadia da piada também não se agüentou e caiu na gargalhada, nos liberando para fazer o mesmo.<BR><BR>Sujeito indecifrável. Suas roupas sujas, esfarrapadas, seu corpo com a higiene a dever, poderiam anunciá-lo como mais um desafortunado das ruas, mas com ele não era assim. Aquilo era um disfarce.<BR><BR>Os que lhe conheciam um pouco poderiam defini-lo como poeta. Mas ao conhecê-lo um pouco mais saberiam que esta era uma definição que ele próprio não aceitava. Dizia-se simplesmente um homem capaz de poesia. E ao conhecer sua poesia verifica-se que ele era muito capaz dela.<BR><BR>Vagabundo? Marginal? De jeito nenhum! Suas concepções particulares sobre as relações dos centros com as periferias e margens da sociedade eram sólidas e não permitiam encaixá-lo nestes clichês. Sem falar na desenvoltura com que esgrimava, na teoria e na prática, em favor do ócio revolucionário enquanto<BR>fator indispensável para a elevação da condição humana.<BR><BR>Louco? Também não. Para tirar a dúvida, certa vez ele mesmo se auto-internou numa clínica psiquiátrica. Após algumas semanas internado e muitos exames e testes, comprovaram que ele tinha as faculdades mentais na mais perfeita ordem.<BR><BR>O futuro não lhe atraia. Não o futuro distante, mas o amanhã mesmo, o depois de hoje, ou a noite que cairia logo mais. Em \"3 X Não\", um de seus escritos, publicado no seu único livro, \"Do moço e do bêbado\", sentencia: \"Não creia em mim. Não há futuro. Não me deixo pra depois\".<BR><BR>Em \"Do Tédio\", outro escrito da sua única coletânea, mais um pouco de sua concepção de vida: \"Se é pra morrer de tédio, que eu morra mais cedo\". <BR><BR>Cedo ou tarde, o fato é que na última quinta-feira, 19 de abril, o corpo de Erickson Luna foi sepultado. Morreu vítima de graves problemas de saúde que vinham lhe incomodando há algum tempo.<BR><BR>Sentiremos saudades deste sujeito que já fazia parte da paisagem \"natural\" da Rua do Hospício. Uma escultura móvel, pensante, instigante.<BR><BR>Sujeito indecifrável. Não-poeta, não-louco, não-marginal, não-vagabundo, quase advogado, quase jornalista, quase engenheiro de pesca.<BR><BR>Para Erickson, seus poemas eram apenas registros, que carregavam consigo sentimentos e reflexões muito mais profundas. Talvez esteja aí a explicação do que ele realmente era: um poema. Com sua morte, então, foi-se apenas o registro. Ficaram os sentimentos, as reflexões e os ensinamentos mais<BR>profundos. Valeu seu registro, grande Erickson.<BR><BR>Edilson Silva é presidente do P-SOL/PE e escreve todas as sextas feiras para o Blog de Jamildo</FONT></P></p>
+<p><P><FONT face=Verdana>* Confira no site<A href=\"https://www.interpoetica.com/erickson_luna.htm\"> Interpoetica</A> um pouco da obra de Luna.</FONT></P> </p>
+{% endraw %}

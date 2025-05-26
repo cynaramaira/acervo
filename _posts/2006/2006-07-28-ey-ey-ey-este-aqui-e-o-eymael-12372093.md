@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>O presidenciável José Maria Eymael não conseguiu arrastar multidões hoje pelas ruas do Recife, mas foi simpático.</P></p>
 <p><P>Ele percorreu o centro da cidade acompanhado do candidato a governador pelo PSDC, vereador Luiz Vidal.</P> </p>
-{\% endraw %}
+{% endraw %}

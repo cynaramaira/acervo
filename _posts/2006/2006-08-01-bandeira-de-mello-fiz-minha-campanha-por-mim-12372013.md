@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Ramos</STRONG><BR>Repórter do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>Nomeado desembargador do Tribunal de Justiça de Pernambuco (TJPE) pelo governador e candidato à reeleição Mendonça Filho (PFL), o advogado Francisco Bandeira de Mello&nbsp;foi evasivo ao comentar, em conversa com o <STRONG>Blog</STRONG>, a vitória dele sobre Pedro Henrique Alves, preferido de Mendonça e de Jarbas Vasconcelos.</FONT></P></p>
 <p><P><FONT face=Verdana>\"Não posso supor a escolha do governador. Só ele pode falar\", disse, ao ser questionado sobre os motivos que pesaram para a nomeação dele - Jorge Neves e Edgar Moury Neto também faziam parte da lista tr?plice encaminhada a Mendonça.</FONT></P></p>
@@ -34,4 +34,4 @@ imagem: null
 <p><P><FONT face=Verdana>O senhor está comemorando, neste momento (a entrevista foi concedida ontem à noite)? </FONT></P></B></p>
 <p><P><FONT face=Verdana>Estou jantando com amigos. Não é exatamente comemoração, até porque não teve tempo hábil para isso. Estão aqui comigo alguns amigos que vieram me parabenizar. No momento, Júlio (Oliveira) não está, mas ele ficou de vir. </FONT></P></p>
 <p><P><FONT face=Verdana>*Bandeira de Mello pede desculpas por interromper a entrevista. \"Agora tenho que desligar, para dar um abraço em um amigo que concorreu comigo. Edgar Moury Neto acabou de chegar\" </FONT></P> </p>
-{\% endraw %}
+{% endraw %}

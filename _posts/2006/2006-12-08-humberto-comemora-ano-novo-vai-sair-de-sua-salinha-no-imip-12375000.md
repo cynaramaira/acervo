@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><FONT color=black>O ex-ministro da Saúde Humberto Costa (PT)&nbsp;garantiu emprego em 2007: será secretário do governo Eduardo Campos (PSB), em Pernambuco. </FONT></SPAN></P></p>
 <p><P><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\"><FONT color=black>É o que revela Cláudio Humberto em sua coluna de hoje no Jornal do Commercio.</FONT></SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -18,7 +18,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Os números da sexta rodada Ibope que serão divulgados daqui a pouco no NETV 2ª Edição, da TV Globo:</FONT></P></p>
 <p><P><FONT face=Verdana>Mendonça Filho (PFL) 35%</FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo Campos (PSB) 27%</FONT></P></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>Mendonça Filho (PFL)&nbsp; 34%&nbsp;&nbsp; 32%&nbsp; 38%&nbsp;&nbsp;&nbsp;36%&nbsp; 35%</FONT></P></p>
 <p><P><FONT face=Verdana>Humberto Costa (PT)&nbsp;&nbsp; 24%&nbsp; 22%&nbsp;&nbsp;25%&nbsp;&nbsp; 25%&nbsp;&nbsp; 26% </FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo Campos (PSB) 14%&nbsp; 19%&nbsp; 21%&nbsp;&nbsp; 22%&nbsp;&nbsp; 26%</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

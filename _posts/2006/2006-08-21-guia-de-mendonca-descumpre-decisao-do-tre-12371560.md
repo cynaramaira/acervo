@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O programa de TV do governador-candidato Mendonça Filho descumpriu agora a determinação judicial de não veicular imagens do presidente Lula.</FONT></P></p>
 <p><P><FONT face=Verdana>Lula voltou a ser mostrado com Mendonça na inauguração das obras da Ferrovia Transnordestina, no Ceará. </FONT></P></p>
 <p><P><FONT face=Verdana>Lula também foi citado como parceiro do governo de Pernambuco.</FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Na última sexta, o tribunal já tinha vetado o uso da imagem do presidente nos guias e inserções de Jorge Gomes e Jarbas Vasconcelos, candidatos ao Senado pela Frente Popular e União Por Pernambuco, respectivamente. </FONT></P></p>
 <p><P><FONT face=Verdana>Com a resolução de ontem, Eduardo perdeu o direito de explorar eleitoralmente a figura de Lula na sua campanha eletrônica. </FONT></P></p>
 <p><P><FONT face=Verdana>Somente Humberto poderá estampar a figura do petista no guia, o que pode ajudar a consolidar sua imagem como o único candidato de Lula no Estado, embora o presidente já tenha declarado, no com?cio em Bras?lia Teimosa, que apóia os dois candidatos.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

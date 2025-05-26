@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Ramos</STRONG><BR>Repórter do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>O governador-candidato Mendonça Filho (PFL) encaminhou, na tarde de hoje, projeto de lei para a Assembléia Legislativa de Pernambuco que prevê a isenção do Imposto sobre Circulação de Mercadorias e Serviços</p>
 <p> (ICMS) para pessoa natural.</FONT></P></p>
@@ -40,4 +40,4 @@ imagem: null
 <p><P><FONT face=Verdana>Total/mês: R$ 2,7 milhões</FONT></P></p>
 <p><P><FONT face=Verdana>Total/ano: R$ 32,4 milhões</FONT></P></p>
 <p><P><FONT face=Verdana>Total em quatro anos (o próximo governo): R$ 129,6 milhões</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

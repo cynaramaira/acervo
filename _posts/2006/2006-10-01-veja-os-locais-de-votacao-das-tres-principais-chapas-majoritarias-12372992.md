@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><U><FONT face=Verdana>UNIÃO POR PERNAMBUCO</FONT></U></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)<BR></FONT></B><FONT face=Verdana>Local: Colégio Anchieta, na Ernesto de Paula Santos, 607, em Boa Viagem<BR>Horário: 11h<BR>Seção: 35ª<BR>Zona: 149ª</FONT></P><B></p>
 <p><P><FONT face=Verdana>EVANDRO AVELAR (PSDB)<BR></FONT></B><FONT face=Verdana>Local: Colégio Imaculada Conceição, Bairro Novo, em Olinda<BR>Horário: 12h<BR>Seção: 45ª<BR>Zona: 10ª <BR></FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT</p>
 <p> face=Verdana>AUGUSTO CÉSAR (PTB)<BR></FONT></B><FONT face=Verdana>Local: Faculdade de Serra Talhada, em Serra Talhada<BR>Horário:11h<BR>Seção: 37ª<BR>Zona: 71ª</FONT></P><B></p>
 <p><P><FONT face=Verdana>LUCIANO SIQUEIRA (PCdoB)<BR></FONT></B><FONT face=Verdana>Local: Escola Mário Melo, Campo<BR>Horário: 14h30<BR>Seção: 35ª<BR>Zona: 8ª</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

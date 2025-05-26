@@ -1,0 +1,28 @@
+---
+id: 12382825
+date: "2007-10-05T17:25:00Z"
+last_modified_at: null
+tags:
+  - "renan-calheiros"
+categories:
+  - "noticias"
+title: "O que fez Renan. E o que ele \u00e9"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Por <strong>Ricardo Noblat</strong> </font></p></p>
+<p><p><font face=\"Verdana\">Debrucei-me durante a madrugada sobre um volume pu&iacute;do do dicion&aacute;rio do Aur&eacute;lio &agrave; procura de uma palavra que definisse com razo&aacute;vel precis&atilde;o o ato de Renan Calheiros de defenestrar da Comiss&atilde;o de Constitui&ccedil;&atilde;o e Justi&ccedil;a do Senado seus colegas Pedro Simon (RS) e Jarbas Vasconcelos - ambos fundadores do PMDB. O lugar deles ser&aacute; ocupado por Almeida Lima (SE) e Paulo Duque (RJ), clientes de favores e servos fi&eacute;is de Renan. </font></p></p>
+<p><p><font face=\"Verdana\">Sim, porque foi Renan que decidiu substituir Simon e Jarbas. Ou voc&ecirc;s duvidam que ele segue mandando em quase todos os senadores do PMDB e em senadores de outros partidos ref&eacute;ns dos seus dossi&ecirc;s? Por acaso Valdir Raupp (RO), l&iacute;der do partido e executor da ordem contra Simon e Jarbas, &eacute; algo al&eacute;m de um reles tarefeiro de Renan - assim como tarefeiro e reles &eacute; tamb&eacute;m Leomar Quintanilha (TO), presidente do Conselho de &Eacute;tica do Senado? </font></p></p>
+<p><p><font face=\"Verdana\">Pensei em classificar o ato de Renan de deboche. Deboche com a minha, com a sua e com a cara de todo mundo. Afinal, Simon e Jarbas s&atilde;o tidos por correligion&aacute;rios e advers&aacute;rios como exemplos de pol&iacute;ticos corretos, decentes. E a Comiss&atilde;o de Constitui&ccedil;&atilde;o e Justi&ccedil;a, presidida por outro pol&iacute;tico correto e decente, Marco Maciel (DEM-PE), &eacute; a mais importante Comiss&atilde;o do Senado. Por isso mesmo costuma acolher o que os partidos t&ecirc;m de melhor. </font></p></p>
+<p><p><font face=\"Verdana\">Deboche quer dizer devassid&atilde;o, libertinagem. Creio que est&aacute; aqu&eacute;m do verdadeiro significado do gesto de Renan. </font></p></p>
+<p><p><font face=\"Verdana\">Ent&atilde;o me detive na palavra esc&aacute;rnio. Gosto dela. &Eacute; sonora, insolente, redonda. Sempre que posso eu a uso, principalmente quando estou indignado com alguma coisa. Para pronunci&aacute;-la, &eacute; preciso abrir os l&aacute;bios e mostrar os dentes com express&atilde;o de c&oacute;lera ou de riso - no caso em exame, de c&oacute;lera. Ocorre que esc&aacute;rnio parece ser uma palavra mais pesada do que de fato &eacute;. Nem de longe corresponde aos seus sin&ocirc;nimos mais usuais. <br /></p>
+<p>Esc&aacute;rnio quer dizer menosprezo, zombaria, desd&eacute;m. &Eacute; pouco para caracterizar o que fez Renan.</font></p></p>
+<p><p><font face=\"Verdana\">De pronto, desprezei a palavra pequenez. Convenhamos, &eacute; fraqu&iacute;ssima. N&atilde;o est&aacute; &agrave; altura da fa&ccedil;anha de Renan. Pela mesma raz&atilde;o passei ao largo de descabido. Que apenas quer dizer inconveniente, impr&oacute;prio, inoportuno. Por comum, vulgar, n&atilde;o perdi tempo com sem-vergonha. Vi-me tentado, confesso, a troc&aacute;-la por sem pudor, sem brio - mas esses s&atilde;o termos que soam elegantes, digamos assim. Renan n&atilde;o merece ser associado a eles. </font></p></p>
+<p><p><font face=\"Verdana\">Esbarrei na palavra reles. Sem d&uacute;vida, a decis&atilde;o tomada por Renan foi ordin&aacute;ria, vil, reles. Mas se voc&ecirc;s se derem ao trabalho de voltar ao in&iacute;cio desta nota ver&atilde;o que taxei de reles os senadores Raupp e Quintanilha. N&atilde;o me agrada repetir palavras quando posso me socorrer de outras. Tanto mais em ocasi&otilde;es em que me sinto &agrave; vontade para escrever sem pressa. O portugu&ecirc;s &eacute; uma l&iacute;ngua riqu&iacute;ssima. Por que n&atilde;o desfrutarmos de sua riqueza? </font></p></p>
+<p><p><font face=\"Verdana\">Quando adolescente, descobri a express&atilde;o r&eacute;s-do-ch&atilde;o em um romance franc&ecirc;s. No in&iacute;cio do s&eacute;culo XIX, um dos personagens do romance levava vida modesta ao r&eacute;s-do-ch&atilde;o de um pardieiro em Paris. Estamos de acordo que o Senado est&aacute; sendo empurrado por Renan para o andar t&eacute;rreo mais enlameado de sua hist&oacute;ria, n&atilde;o estamos? Mas o que isso tem a ver com o golpe aplicado por Renan em Simon e Jarbas? Tudo, ora. </font></p></p>
+<p><p><font face=\"Verdana\">Do r&eacute;s-do-ch&atilde;o onde se encontra, e para onde procura atrair seus colegas, Renan cometeu uma patifaria &ndash; mais uma. Alv&iacute;ssaras! Imagino finalmente ter encontrado a palavra certa para definir a a&ccedil;&atilde;o de Renan - patifaria. Autor de patifaria &eacute; patife. E patife quer dizer velhaco, pusil&acirc;nime ou covarde, algu&eacute;m capaz de mandar todos os escr&uacute;pulos &agrave;s favas para alcan&ccedil;ar seus objetivos por quaisquer meios - de prefer&ecirc;ncia os il&iacute;citos. </font></p></p>
+<p><p><font face=\"Verdana\">O ir&ocirc;nico &eacute; que quanto mais forte Renan parece estar, mais fraco se revela. N&atilde;o se arrisca a passear na rua ou a freq&uuml;entar shoppings. N&atilde;o tem peito de voar em avi&atilde;o comercial. Vive cercado de seguran&ccedil;as na resid&ecirc;ncia oficial do presidente do Senado. A essa altura, depois de manipular a maioria dos seus pares e o governo nos &uacute;ltimos cinco meses, &eacute; um pol&iacute;tico desmoralizado. Que quer dizer, segundo Aur&eacute;lio, desacreditado, estragado, pervertido, depravado ou corrupto.</font></p> </p>
+{% endraw %}

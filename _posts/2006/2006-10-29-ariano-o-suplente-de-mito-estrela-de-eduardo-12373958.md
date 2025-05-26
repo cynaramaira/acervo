@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Convidado para disputar o Senado contra Jarbas Vasconcelos, o eleito, recusou. Concordou apenas em ser o primeiro suplente do deputado federal Jorge Gomes, candidato a senador na chapa de Eduardo Campos.</FONT></P></p>
 <p><P><FONT face=Verdana>Ao longo da campanha, porém, o escritor Ariano Suassuna, 80, conquistou de tal forma a simpatia dos eleitores que, na verdade, transformou-se numa espécie de suplente de mito, suplente de Miguel Arraes.</FONT></P></p>
 <p><P><FONT face=Verdana>Por onde andou, ao lado de Eduardo, mexeu com multidões. Animou com?cios e carreatas. </FONT></P></p>
@@ -40,4 +40,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"Jarbas tem um temperamento assim, briga com muita gente, mas comigo ele nunca brigou. Tem um relacionamento excelente comigo. Eu nunca levei em conta essa brigas. Agora, nunca deixei de afirmar claramente minhas posições pol?ticas. Politicamente estava ao lado de Dr. Arraes, sempre afirmei isso, nunca vacilei e não vacilo.\" </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>O PAI</STRONG> </FONT></P></p>
 <p><P><FONT face=Verdana>\"O assassinato (em 1930, no Rio, resultado dos conflitos da Revolução de 30) afetou e afeta até hoje. Eu via muito em Dr. Arraes a figura do meu pai. Ele tinha sido um governador sertanejo (da Para?ba) como Arraes e foi perseguido no fim da vida como Arraes. Tanto que no dia em que resolvi apoiar Dr. Arraes (1995), pedi para marcar uma audiência numa quinta-feira. Depois vi que o dia era 9 de outubro, que é a data da morte de meu pai. Terminei o romance A Pedra do Reino no dia 9 de outubro de 1970. É um fato muito presente em minha vida. Eu tenho mais facilidade em rezar a Ave Maria do que o Pai Nosso, porque o Pai Nosso tem um pedaço que eu acho muito duro. É aquele que diz \"perdoai as nossas ofensas assim como nós perdoamos aqueles que nos tenham ofendido\". Pois bem, toda noite, quando vou rezar com minha mulher, quando chega nesse momento, eu peço a Deus... eu peço a Deus que me ajude a perdoar os que mataram meu pai (aqui, momento em que perde a voz e contém as lágrimas)\". </FONT></P> </p>
-{\% endraw %}
+{% endraw %}

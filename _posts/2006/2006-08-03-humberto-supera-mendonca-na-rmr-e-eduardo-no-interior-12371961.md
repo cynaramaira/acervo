@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O <STRONG>Blog</STRONG> analisou os números detalhados da primeira pesquisa realizada pelo Ibope sobre a disputa pelo governo de Pernambuco. </FONT></P></p>
 <p><P><FONT face=Verdana>Encomendada pela TV Globo, ela foi divulgada na terça à noite e mostrou Mendonça Filho (PFL) com 32% de intenções de votos, Humberto Costa (PT), 24%, e Eduardo Campos (PSB), 14%. </FONT></P></p>
 <p><P><FONT face=Verdana>Os dados sobre aspectos espec?ficos da disputa mostram que Humberto tem seu melhor ?ndice de intenção de voto no Recife (32%), onde supera Mendonça (30%) e Eduardo (11%).</FONT></P></p>
@@ -59,4 +59,4 @@ imagem: null
 <p><P><FONT face=Verdana>Humberto&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 19%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 26%&nbsp;&nbsp;&nbsp;&nbsp; 28%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;27% </FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 16%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 17%</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/08/01/index.php#430\" target=_blank>aqui</A></EM></STRONG> sobre a pesquisa</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

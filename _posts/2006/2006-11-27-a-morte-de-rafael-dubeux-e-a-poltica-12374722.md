@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><span style="font-family: Verdana;">Com forte poder para influenciar a opini&atilde;o p&uacute;blica, a classe m&eacute;dia e os ricos de Pernambuco toleram de maneira incr?vel a viol&ecirc;ncia, o estado permanente de inseguran&ccedil;a, o toque de recolher. N&atilde;o querem saber de confronto. Principalmente pol?tico.</span></p>
 <p><span style="font-family: Verdana;">S&oacute; saem &agrave;s ruas se for para uma sess&atilde;o de catarse. Vez ou outra caminham pedindo paz, assim, de maneira gen&eacute;rica e assistem emocionados aos minutos de dor profunda e choro das fam?lias atingidas por essa trag&eacute;dia pernambucana que &eacute; a viol&ecirc;ncia.</span></p>
 <p><span style="font-family: Verdana;">Quando seus filhos n&atilde;o s&atilde;o abatidos por um crime b&aacute;rbaro como o que vitimou Rafael, viol&ecirc;ncia n&atilde;o &eacute; problema deles. </span></p>
@@ -49,4 +49,4 @@ imagem: null
 <p><span style="font-family: Verdana;">Uma irm&atilde; minha levou um tiro de dois bandidos, em uma moto, em plena Avenida Boa Viagem, numa quinta-feira, 3h da tarde. Em qualquer pa?s civilizado, dois condutores de uma moto sem capacete seriam abordados, revistados e teriam o ve?culo apreendido. </span></p>
 <p><span style="font-family: Verdana;">(...) Em Pernambuco, vivemos uma guerra civil urbana. Todos os dias, em todos os lugares, cidad&atilde;os s&atilde;o assaltados por bandidos armados, nas principais vias p&uacute;blicas de nossa cidade. E n&atilde;o se trata de crime organizado. &Eacute; delinq&uuml;&ecirc;ncia mesmo. </span></p>
 <p><span style="font-family: Verdana;">Leia mais <strong><em><a href="https://jc3.uol.com.br/jornal/2006/11/27/not_210296.php" target="_blank" rel="noopener noreferrer">aqui</a></em></strong> (assinantes JC e UOL).</span></p>
-{\% endraw %}
+{% endraw %}

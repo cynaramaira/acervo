@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B></p>
 <p><P></FONT><B><FONT face=Verdana>12h</FONT></B><FONT face=Verdana>, é entrevistado no programa NETV Primeira Edição. Local: Rede Globo, no Morro do Peludo, Ouro Preto, em Olinda</FONT></P><B></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>EDUARDO CAMPOS (PSB)</FONT></P></B><FONT face=\"Times New Roman\"></p>
 <p><P><SPAN style=\"FONT-FAMILY: Arial\"><FONT face=Verdana><STRONG>19h</STRONG>,&nbsp;participa de debate sobre segurança pública, promovido pelo Instituto Antônio Escobar (IACE). Local: auditório da Unicap</FONT> </SPAN><SPAN><FONT face=\"Times New Roman\"></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"BACKGROUND: white\"><SPAN><FONT face=\"Times New Roman\"></FONT></SPAN>&nbsp;</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

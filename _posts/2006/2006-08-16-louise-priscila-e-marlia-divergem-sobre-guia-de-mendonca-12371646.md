@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><TABLE cellSpacing=5 cellPadding=0 width=110 align=right border=0></p>
 <p><TBODY></p>
 <p><TR></p>
@@ -51,4 +51,4 @@ imagem: null
 <p><P>Sobre o Governo Arraes é preciso lembrar que ele foi quem pegou o estado quebrado. Arraes se virou para pagar uma folha de pagamento mirabolante aos servidores, por conta de um aumento de Joaquim Francisco, além de muitas outras deficiências herdadas. Se Mendonça fala de Arraes, ele poderia lembrar do Governo Fernando Henrique Cardoso. Ele boicotou os investimentos para Pernambuco. FHC esqueceu que foi eleito para servir ao povo e colocou a questão pol?tica sempre acima. FHC também esqueceu a luta de esquerda que ele fez ao lado de Arraes. </P></p>
 <p><P>E FHC teve ainda a ajuda do seu vice, Marco Maciel, e de Mendonça Filho, quando deputado, no boicote ao estado. O que eles trouxeram para cá? Bem diferente de Lula. Mesmo adversário de Mendonça, de Jarbas, foi o Governo Federal que mais investiu em Pernambuco. E Eduardo foi o ministro que mais trouxe recursos para o estado, principalmente na área de Educação, mesmo ele sendo ministro da Ciência e Tecnologia. </P></p>
 <p><P>Eu quero saber por que Marco Maciel, que foi vice de FHC, esqueceu o Estado. Não investiu no social, acabou com o programa de incentivo ao pequeno produtor e investiu em grande obra sem capacitar a população local. Eu pergunto aos eleitores: é esse o Pernambuco que eles querem?</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

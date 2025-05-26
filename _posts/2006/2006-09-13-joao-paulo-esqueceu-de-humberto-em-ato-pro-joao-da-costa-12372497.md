@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P align=justify><FONT face=Verdana>Um dia depois de assumir uma nova função na campanha de Humberto Costa (PT), a de dividir a&nbsp; agenda pol?tica com&nbsp;o companheiro, o prefeito João Paulo parece ter feito \"ouvido de mercador\".</FONT></P></p>
 <p><P><FONT face=Verdana>Hoje, durante o almoço-homenagem do Caxangá ??gape a João da Costa, o prefeito sequer mencionou o nome de Humberto em seu discurso. O que, certamente, deve provocar ainda mais a ciumeira entre os petistas.</FONT></P></p>
 <p><P><FONT face=Verdana>\"Eu vim aqui (no evento) para uma homenagem a João da Costa e por isso dediquei a intervenção (o discurso) para ele\", esquivou-se João Paulo, na ocasião. </FONT></P></p>
@@ -33,4 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>E não falta esse debate e discussão de propostas na rua, em eventos? </FONT></P></B></p>
 <p><P><FONT face=Verdana>Nós temos. Mas temos tido pouco tempo, a não ser mais nos debates. Do ponto de vista do programa eleitoral, temos que dedicar mais (tempo) às propostas. Já dedicamos parte significativa do nosso (programa) majoritário e proporcional para a defesa.</FONT></P><FONT face=Arial></p>
 <p><P align=justify>&nbsp;</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

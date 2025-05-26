@@ -1,0 +1,34 @@
+---
+id: 12383580
+date: "2007-11-03T18:38:00Z"
+last_modified_at: null
+tags:
+  - "divida"
+  - "impacto"
+  - "obras"
+categories:
+  - "noticias"
+title: "Pacto pela vida: uma obra de fic\u00e7\u00e3o"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>&nbsp;</p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong><em><u>Seis meses ap&oacute;s o lan&ccedil;amento do programa, 70% dos projetos propostos pelo governo do Estado para diminuir a viol&ecirc;ncia ainda n&atilde;o sa&iacute;ram do papel. S&atilde;o apenas promessas</u></em></strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>Por Eduardo Machado</strong><br /></p>
+<p><em>Da editoria de Cidades do Jornal do Commercio</em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&quot;Subprograma&nbsp;1.1.1., projeto M: &ldquo;constru&ccedil;&atilde;o de oito delegacias e reforma de tr&ecirc;s unidades j&aacute; existentes.&quot; Seis meses ap&oacute;s o lan&ccedil;amento do Pacto pela Vida, esse &eacute; apenas um dos projetos cujo prazo de implementa&ccedil;&atilde;o j&aacute; expirou e que n&atilde;o passou de uma id&eacute;ia no papel. Nenhuma nova delegacia foi constru&iacute;da em Pernambuco, nem qualquer reforma foi iniciada nas delegacias citadas no projeto. Os equipamentos da Pol&iacute;cia Militar tamb&eacute;m permanecem os mesmos. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Subprograma 1.1.2., projeto E: &ldquo;constru&ccedil;&atilde;o de tr&ecirc;s batalh&otilde;es e uma companhia independente&rdquo;. Nenhuma obra foi iniciada. Assim como esses dois projetos, 70% do planejado n&atilde;o transp&ocirc;s a barreira entre a fic&ccedil;&atilde;o e a realidade.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Em resposta por escrito, o governo do Estado elencou quais dos 117 projetos, cujo prazo expira esta semana, tiveram andamento. S&atilde;o 36 classificados como atividade realizada. Isso significa que somente 30% do planejado foi executado. Mesmo assim, v&aacute;rias das iniciativas dadas como realizadas pelo governo s&atilde;o de dif&iacute;cil comprova&ccedil;&atilde;o como, por exemplo, o subprograma 1.1.1., projeto H: &ldquo;a&ccedil;&atilde;o integrada da Pol&iacute;cia Civil&rdquo;. O que comprovaria isso seriam &ldquo;a&ccedil;&otilde;es diversas em &aacute;reas integradas de seguran&ccedil;a com Pol&iacute;cias Militar, Rodovi&aacute;ria Federal e Federal&rdquo;. Nada que se possa conferir ou que seja diferente de centenas de opera&ccedil;&otilde;es conjuntas j&aacute; ocorridas em Pernambuco.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Outro exemplo &eacute; o subprograma 1.1.1., projeto F: &ldquo;Cria&ccedil;&atilde;o da Delegacia de Preven&ccedil;&atilde;o e Repress&atilde;o aos Crimes Eletr&ocirc;nicos&rdquo;. Diferentemente do comunicado oficial, o diretor de Pol&iacute;cia Judici&aacute;ria, Newson Motta, informa que essa delegacia n&atilde;o foi criada.<br /></p>
+<p>Com rela&ccedil;&atilde;o &agrave; constru&ccedil;&atilde;o de delegacias e batalh&otilde;es, os comandantes dos &oacute;rg&atilde;os operativos explicaram a quantas andam os projetos. &ldquo;Estamos na fase de or&ccedil;amento das obras. J&aacute; temos projetos arquitet&ocirc;nicos, mas as obras n&atilde;o foram iniciadas&rdquo;, revelou o chefe de Pol&iacute;cia Civil, Manoel Carneiro. &ldquo;A obra da Companhia de Limoeiro est&aacute; perto de come&ccedil;ar. O 11&ordm; batalh&atilde;o ser&aacute; transferido para Casa Forte. J&aacute; temos um im&oacute;vel em vista, mas, por enquanto, n&atilde;o foi iniciada a adapta&ccedil;&atilde;o do pr&eacute;dio&rdquo;, detalhou o comandante da Pol&iacute;cia Militar, Iturbson dos Santos.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Al&eacute;m de elencar 138 projetos, o Pacto pela Vida estabeleceu uma meta de redu&ccedil;&atilde;o de homic&iacute;dios de 12% em um ano, a contar de maio de 2007. Isso significa que em um ano 519 vidas precisam ser poupadas para que o patamar seja alcan&ccedil;ado. Nesses seis primeiros meses, considerando dados oficiais e do site contador de homic&iacute;dios PEbodycount, a redu&ccedil;&atilde;o foi de 31 assassinatos, ou 1,4%.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Isso significa que, at&eacute; maio de 2008, a m&eacute;dia mensal de redu&ccedil;&atilde;o tem que ser de 88 homic&iacute;dios com rela&ccedil;&atilde;o aos mesmos per&iacute;odos do ano anterior. A maior redu&ccedil;&atilde;o registrada at&eacute; agora foi de 38 assassinatos comparando outubro de 2007 com outubro de 2006. Vale ressaltar que os n&uacute;meros oficiais de homic&iacute;dios de outubro s&oacute; devem ser divulgados ap&oacute;s o dia 15 de novembro.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">PEN&Uacute;RIA<br /></p>
+<p>&ldquo;Coordenei uma pesquisa sobre as condi&ccedil;&otilde;es estruturais e de atendimento em 15 delegacias da Regi&atilde;o Metropolitana do Recife. A situa&ccedil;&atilde;o &eacute; de pen&uacute;ria. Falta o b&aacute;sico na absoluta maioria delas&rdquo;, destacou o cientista pol&iacute;tico e coordenador do N&uacute;cleo de Estudos de Institui&ccedil;&otilde;es Coercitivas da Universidade Federal de Pernambuco, Jorge Zaverucha.<br /></p>
+<p>&ldquo;N&atilde;o vejo uma preocupa&ccedil;&atilde;o do governo em divulgar as a&ccedil;&otilde;es do Pacto, nem em explicar o andamento dos trabalhos. Nem sabemos como eles estabeleceram essa meta de redu&ccedil;&atilde;o de homic&iacute;dios de 12%. Os crit&eacute;rios at&eacute; hoje n&atilde;o ficaram claros&rdquo;, frisou Zaverucha.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&ldquo;Gostaria que o governo apontasse que a&ccedil;&otilde;es foram realizadas e quais os resultados esperados. Dizer que houve uma redu&ccedil;&atilde;o de 1% no n&uacute;mero de homic&iacute;dios n&atilde;o &eacute; nada sem sabermos como &eacute; que isso foi obtido&rdquo;, ponderou a pesquisadora da Funda&ccedil;&atilde;o Joaquim Nabuco Ronidalva Melo.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&ldquo;Nem sei quais os projetos que o governo afirmou que j&aacute; foram executados, mas sei que existe um totalmente falho. O &uacute;ltimo item do Pacto, o 138&ordm;, diz que as a&ccedil;&otilde;es implantadas ser&atilde;o amplamente divulgadas. Desconhe&ccedil;o qualquer iniciativa que tenha ganho notoriedade. Pelo contr&aacute;rio, esta semana foram anunciadas 200 c&acirc;meras para o Centro do Recife sem prazo, sem or&ccedil;amento e sem justificativa. Infelizmente parece que, mais uma vez, nos deparamos com as mesmas estrat&eacute;gias numa &aacute;rea t&atilde;o vital quanto a da seguran&ccedil;a p&uacute;blica&rdquo;, opinou Jos&eacute; Carlos Escobar, presidente do Instituto Ant&ocirc;nio Carlos Escobar.</font></p> </p>
+{% endraw %}

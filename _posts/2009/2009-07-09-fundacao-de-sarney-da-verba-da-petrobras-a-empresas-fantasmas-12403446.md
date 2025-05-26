@@ -1,0 +1,39 @@
+---
+id: 12403446
+date: "2009-07-09T10:28:00Z"
+last_modified_at: null
+tags:
+  - "empresas"
+  - "fundacao-renova"
+  - "petrobras"
+categories:
+  - "noticias"
+title: "Funda\u00e7\u00e3o de Sarney d\u00e1 verba da Petrobras a empresas fantasmas"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: center"><img height="289" alt="" width="450" src="https://jc3.uol.com.br/blogs/repositorio/AUTO_son.jpg" /><br /></p>
+<p><span style="font-size: smaller">(Chargeonline.com.br)</span></p></p>
+<p><p>Deu no Estad&atilde;o<br /></p>
+<p><br /></p>
+<p>A Funda&ccedil;&atilde;o Jos&eacute; Sarney - entidade privada institu&iacute;da pelo presidente do Senado, Jos&eacute; Sarney (PMDB-AP), para manter um museu com o acervo do per&iacute;odo em que foi presidente da Rep&uacute;blica - desviou para empresas fantasmas e outras da fam&iacute;lia do pr&oacute;prio senador dinheiro da Petrobras repassado em forma de patroc&iacute;nio para um projeto cultural que nunca saiu do papel.</p></p>
+<p><p>Do total de R$ 1,3 milh&atilde;o repassado pela estatal, pelo menos R$ 500 mil foram parar em contas de empresas prestadoras de servi&ccedil;o com endere&ccedil;os fict&iacute;cios em S&atilde;o Lu&iacute;s (MA) e at&eacute; em uma conta paralela que nada tem a ver com o projeto. Uma parcela do dinheiro, R$ 30 mil, foi para a TV Mirante e duas emissoras de r&aacute;dio, a Mirante AM e a Mirante FM, de propriedade da fam&iacute;lia Sarney, a t&iacute;tulo de veicula&ccedil;&atilde;o de comerciais sobre o projeto fict&iacute;cio.</p></p>
+<p><p>A verba foi transferida em 2005, ap&oacute;s ato solene com a participa&ccedil;&atilde;o de Sarney e do presidente da Petrobras, Jos&eacute; S&eacute;rgio Gabrielli. A Petrobras repassou o dinheiro &agrave; Funda&ccedil;&atilde;o Sarney pela Lei Rouanet, que garante incentivos fiscais &agrave;s empresas que aceitam investir em projetos culturais. Mas esse caso foi uma exce&ccedil;&atilde;o. Apenas 20% dos projetos aprovados conseguem captar recursos.</p></p>
+<p><p>O projeto de Sarney foi aprovado pelo Minist&eacute;rio da Cultura em 2005 e est&aacute; em fase de presta&ccedil;&atilde;o de contas na pasta. Antes da aprova&ccedil;&atilde;o, o pr&oacute;prio Sarney chegou a enviar um bilhete ao ent&atilde;o secret&aacute;rio executivo e hoje ministro da pasta, Juca Ferreira, pedindo para apressar a tramita&ccedil;&atilde;o. Em 14 de dezembro, o minist&eacute;rio comunicou que o projeto estava aprovado e, no dia seguinte, a Petrobr&aacute;s anunciou a libera&ccedil;&atilde;o do dinheiro. Procurada pelo Estado, a Petrobr&aacute;s informou que a funda&ccedil;&atilde;o foi inclu&iacute;da no programa de patroc&iacute;nio como &quot;convidada&quot; e por isso n&atilde;o teve de passar pelo processo de sele&ccedil;&atilde;o.</p></p>
+<p><p>O objetivo do patroc&iacute;nio, que a funda&ccedil;&atilde;o recebeu sem participar de concorr&ecirc;ncia p&uacute;blica, que a estatal faz para selecionar projetos, era digitalizar os documentos do museu. &quot;Processamento t&eacute;cnico e automa&ccedil;&atilde;o do acervo bibliogr&aacute;fico&quot;, como diz um relat&oacute;rio de contas.</p></p>
+<p><p>Pela proposta original, que previa o cumprimento das metas at&eacute; abril de 2007, computadores seriam instalados nos corredores do museu, sediado num convento centen&aacute;rio no centro hist&oacute;rico de S&atilde;o Lu&iacute;s, para que os visitantes pudessem consultar online documentos como despachos assinados por Sarney na &eacute;poca em que ocupava o Pal&aacute;cio do Planalto. At&eacute; ontem, n&atilde;o havia um &uacute;nico computador &agrave; disposi&ccedil;&atilde;o dos visitantes.</p></p>
+<p><p>Nos &uacute;ltimos dias, o Estado analisou notas fiscais e percorreu os endere&ccedil;os das empresas que a funda&ccedil;&atilde;o afirma ter contratado para prestar servi&ccedil;os ao projeto. Na rela&ccedil;&atilde;o de despesas, foram anexados at&eacute; recibos da pr&oacute;pria entidade para justificar o saque de R$ 145 mil da conta aberta para movimentar o dinheiro do patroc&iacute;nio.</p></p>
+<p><p>RECIBO</p></p>
+<p><p>Em recibo de 23 de mar&ccedil;o de 2006, em papel timbrado da funda&ccedil;&atilde;o, Raimunda Santos Oliveira declara ter recebido R$ 35 mil por &quot;servi&ccedil;os prestados de elabora&ccedil;&atilde;o do projeto de preserva&ccedil;&atilde;o e recupera&ccedil;&atilde;o do acervo&quot; do museu. Procurada ontem pelo Estado, ela disse que j&aacute; trabalhou na funda&ccedil;&atilde;o, mas nos anos 90. &quot;Eu trabalhei l&aacute; de 1990 a 1995&quot;, disse. Sobre o recibo, n&atilde;o quis comentar: &quot;N&atilde;o sei do que voc&ecirc; est&aacute; falando.&quot;</p></p>
+<p><p>A lista de empresas que emitiram as notas revela atua&ccedil;&atilde;o entre amigos no esfor&ccedil;o para justificar o uso do dinheiro. Uma delas, a A&ccedil;&atilde;o Livros e Eventos, tinha como s&oacute;cia at&eacute; pouco tempo atr&aacute;s a mulher de Ant&ocirc;nio Carlos Lima, o &quot;Pipoca&quot;, ex-secret&aacute;rio de Comunica&ccedil;&atilde;o da governadora Roseana Sarney (PMDB) e atual assessor do ministro das Minas e Energia, Edison Lob&atilde;o, aliado da fam&iacute;lia.</p></p>
+<p><p>Das 34 notas fiscais emitidas pela A&ccedil;&atilde;o, que somam R$ 70 mil, 30 s&atilde;o sequenciais - &eacute; como se a firma tivesse apenas a Funda&ccedil;&atilde;o Jos&eacute; Sarney como cliente. Mais: uma das s&oacute;cias, Alci Maria Lima, que assina recibos anexados &agrave; presta&ccedil;&atilde;o de contas, nem sabe dizer que tipo de servi&ccedil;o a empresa prestou. &quot;Eu assinei o recibo, mas n&atilde;o sei o que foi que a empresa fez, n&atilde;o.&quot;</p></p>
+<p><p>&quot;Pipoca&quot; &eacute; irm&atilde;o de F&eacute;lix Alberto Lima, dono de outra empresa, a Clara Comunica&ccedil;&atilde;o, que teria prestado servi&ccedil;os ao projeto da funda&ccedil;&atilde;o. As notas da Clara totalizam R$ 103 mil.</p></p>
+<p><p>Ao Estado, F&eacute;lix Lima disse num primeiro momento que prestou servi&ccedil;os de divulga&ccedil;&atilde;o das atividades da funda&ccedil;&atilde;o. Ele n&atilde;o soube explicar a rela&ccedil;&atilde;o disso com o projeto patrocinado pela Petrobr&aacute;s. &quot;N&atilde;o sei de projeto, me chamaram para fazer esse trabalho e cumpri isso profissionalmente&quot;, disse. Mais tarde, em outro telefonema, tentou retificar o que dissera: afirmou que a Clara foi contratada para divulgar o projeto.</p></p>
+<p><p>Outra empresa cujas notas foram anexadas na presta&ccedil;&atilde;o de contas, o Centro de Excel&ecirc;ncia Humana Shalom, n&atilde;o existe nos endere&ccedil;os declarados &agrave; Receita Federal. Por &quot;servi&ccedil;os de consultoria&quot;, teria recebido R$ 72 mil da Funda&ccedil;&atilde;o Jos&eacute; Sarney. &Agrave; &eacute;poca, a Shalom tinha como &quot;sede&quot; a casa da professora Joila Moraes, em bairro de classe m&eacute;dia de S&atilde;o Lu&iacute;s. &quot;A empresa &eacute; de um amigo meu, mas nunca funcionou aqui. Eu s&oacute; emprestei o endere&ccedil;o&quot;, disse Joila. Ela &eacute; irm&atilde; de Jomar Moraes, integrante do Conselho Curador da Funda&ccedil;&atilde;o Jos&eacute; Sarney e amigo do senador.</p></p>
+<p><p>ENDERE&Ccedil;O</p></p>
+<p><p>Uma terceira empresa, a MC Consultoria, destinat&aacute;ria de R$ 40 mil, nunca existiu no endere&ccedil;o no qual foi registrada na Receita. Funcion&aacute;rios do pr&eacute;dio jamais ouviram falar dela.</p></p>
+<p><p>Na presta&ccedil;&atilde;o de contas, h&aacute; at&eacute; notas referentes &agrave; compra de quentinhas num restaurante na rua do museu. A funda&ccedil;&atilde;o pagou R$ 15 mil pelas marmitas. Pelo valor unit&aacute;rio, R$ 4,50, o restaurante teria fornecido mais de 3 mil quentinhas.</p> </p>
+{% endraw %}

@@ -13,8 +13,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>De Lula, pouco antes de encerrar o discurso:</FONT></P></p>
 <p><P><FONT face=Verdana>\"Não baixarei o n?vel como presidente, meçam suas l?nguas, nós também temos l?ngua. Respeito é bom e se eles não agem com respeito, podem ter certeza que não ficaremos mais quietos.\"</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

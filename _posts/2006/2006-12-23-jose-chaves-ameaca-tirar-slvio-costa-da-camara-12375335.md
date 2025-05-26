@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O deputado federal José Chaves (PTB) não pára de brincar com o deputado estadual S?lvio Costa, que vai assumir uma cadeira na Câmara dos Deputados, com a indicação de Chaves para o cargo de secretário de Turismo de Eduardo Campos (PSB).</FONT></P></p>
 <p><P><FONT face=Verdana>\"Tá muito afoito. Tá muito saliente. Vou acabar desistindo\", declara, antes de dar uma gargalhada, na festa de confraternização do PT com a imprensa, na sexta-feira.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

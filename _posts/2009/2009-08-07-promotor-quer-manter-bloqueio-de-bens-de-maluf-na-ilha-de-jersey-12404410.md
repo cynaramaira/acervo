@@ -1,0 +1,31 @@
+---
+id: 12404410
+date: "2009-08-07T14:45:00Z"
+last_modified_at: null
+tags:
+  - "a-ilha"
+  - "bens-industriais"
+  - "bloqueio"
+  - "paulo-maluf"
+categories:
+  - "noticias"
+title: "Promotor quer manter bloqueio de bens de Maluf na Ilha de Jersey"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Da Ag&ecirc;ncia Brasil</p></p>
+<p><p>O promotor de Justi&ccedil;a de S&atilde;o Paulo, Silvio Antonio Marques, vai encaminhar na segunda-feira (10) &agrave; prefeitura de S&atilde;o Paulo a peti&ccedil;&atilde;o inicial e a decis&atilde;o do juiz que determinaram o bloqueio de bens do deputado federal Paulo Maluf. O objetivo &eacute; que a prefeitura de S&atilde;o Paulo possa ajudar no envio desses documentos &agrave; Ilha de Jersey &ndash; onde, segundo a Justi&ccedil;a de S&atilde;o Paulo, est&aacute; parte do dinheiro desviado por Maluf de obras p&uacute;blicas constru&iacute;das durante seu mandato como prefeito da capital paulista &ndash; para tentar manter o bloqueio dos bens do deputado que est&atilde;o l&aacute;.</p></p>
+<p><p>&ldquo;Deverei encaminhar para a prefeitura [de S&atilde;o Paulo] a peti&ccedil;&atilde;o inicial e a decis&atilde;o do juiz para que sejam tomadas as provid&ecirc;ncias em Jersey visando &agrave; manuten&ccedil;&atilde;o do bloqueio [dos bens de Maluf] l&aacute;&rdquo;, afirmou ontem (6) o promotor &agrave; Ag&ecirc;ncia Brasil. Segundo Marques, em mar&ccedil;o deste ano, a prefeitura de Jersey j&aacute; havia pedido o bloqueio de US$ 22 milh&otilde;es de Maluf e que foi atendido pela Justi&ccedil;a de l&aacute;.</p></p>
+<p><p>Na &uacute;ltima segunda-feira (3), o Minist&eacute;rio P&uacute;blico ajuizou uma a&ccedil;&atilde;o civil p&uacute;blica contra Paulo Maluf pedindo que o ex-prefeito de S&atilde;o Paulo, a mulher dele, Sylvia Maluf, e os filhos Fl&aacute;vio, Ot&aacute;vio, L&iacute;gia e Lina, sua ex-nora Jacquelline de Lourdes Coutinho Torres, tr&ecirc;s empresas offshore instaladas nas Ilhas Virgens Brit&acirc;nicas e a Eucatex, empresa da fam&iacute;lia Maluf, devolvam a S&atilde;o Paulo mais de R$ 300 milh&otilde;es. Esse valor teria sido remetido ilegalmente por Maluf ao exterior e usado para compras de a&ccedil;&otilde;es da Eucatex, ap&oacute;s ind&iacute;cios de superfaturamentos em obras p&uacute;blicas. A Eucatex &eacute; uma empresa que atua no segmento de constru&ccedil;&atilde;o civil, m&oacute;veis e agroind&uacute;stria.</p></p>
+<p><p>&ldquo;Foi proposta uma a&ccedil;&atilde;o civil p&uacute;blica de ressarcimento de preju&iacute;zos causados ao er&aacute;rio de S&atilde;o Paulo tendo em vista que, comprovadamente, o ex-prefeito e alguns familiares e assessores desviaram milh&otilde;es e milh&otilde;es de d&oacute;lares dos cofres do munic&iacute;pio de S&atilde;o Paulo&rdquo;, explicou o promotor Silvio Marques.</p></p>
+<p><p>As investiga&ccedil;&otilde;es mostraram que entre 1993 e 1998, Maluf teria desviado cerca de US$ 166 milh&otilde;es dos cofres municipais, superfaturando as obras da Avenida &Aacute;gua Espraiada (hoje chamada de Jornalista Roberto Marinho) e do T&uacute;nel Ayrton Senna. As duas obras foram realizadas enquanto Maluf exercia o cargo de prefeito de S&atilde;o Paulo (1992-1996).</p></p>
+<p><p>O dinheiro superfaturado nas obras p&uacute;blicas, segundo a Justi&ccedil;a de S&atilde;o Paulo, foi enviado ilegalmente para contas secretas no exterior, especialmente em bancos dos Estados Unidos, Su&iacute;&ccedil;a, Inglaterra, Ilhas Jersey, Fran&ccedil;a e Luxemburgo. Entre 1997 e 1998, grande parte desse dinheiro &ndash; cerca de US$ 93 milh&otilde;es, segundo o promotor &ndash; voltou ao Brasil em forma de investimento, com a compra de a&ccedil;&otilde;es da Eucatex, empresa controlada por Maluf. Outra parte do dinheiro foi repatriado por meio de empr&eacute;stimo, compra de valores mobili&aacute;rios e pagamento de adiantamento a contrato de exporta&ccedil;&atilde;o, sempre favorecendo a Eucatex.</p></p>
+<p><p>&ldquo;Quando o dinheiro estava na Ilha de Jersey, foi investido em debentures, convertidas em a&ccedil;&otilde;es da Eucatex, que &eacute; uma empresa da fam&iacute;lia do ex-prefeito Paulo Maluf. E os detentores desses fundos s&atilde;o empresas pertencentes aos filhos dele. Ele entregou o dinheiro aos filhos e os filhos compraram debentures convertidas em a&ccedil;&otilde;es. &Eacute; dinheiro p&uacute;blico que entrou na Eucatex&rdquo;, afirmou o promotor.</p></p>
+<p><p>Na quarta-feira (5), o juiz Al&eacute;ssio Martins Gon&ccedil;alves, da 4&ordf; Vara da Fazenda P&uacute;blica de S&atilde;o Paulo, aceitou a den&uacute;ncia feita pelo promotor, excluindo apenas a Eucatex de ter seus bens indispon&iacute;veis, alegando que o fato poderia ocasionar a fal&ecirc;ncia da empresa. O promotor, por sua vez, disse &agrave; Ag&ecirc;ncia Brasil que pretende pedir ao juiz que reveja essa sua decis&atilde;o e bloqueie tamb&eacute;m os bens da Eucatex.</p></p>
+<p><p>&ldquo;Vamos pedir [isso] porque a Eucatex foi a empresa que recebeu o dinheiro desviado dos cofres p&uacute;blicos. E tamb&eacute;m porque ela tem condi&ccedil;&otilde;es de pagar esse valor de R$ 300 milh&otilde;es porque o patrim&ocirc;nio dela &eacute; muito maior que isso. E eu n&atilde;o pedi o bloqueio total [da Eucatex]: pedi o bloqueio do valor suficiente para ressarcir os preju&iacute;zos dos cofres p&uacute;blicos&rdquo;, disse Marques.</p></p>
+<p><p>Em nota, a assessoria de Maluf, informou que os advogados de Maluf v&atilde;o recorrer da senten&ccedil;a do juiz, pois os argumentos usados pelo Minist&eacute;rio P&uacute;blico s&atilde;o &ldquo;meras repeti&ccedil;&otilde;es de falsas acusa&ccedil;&otilde;es apresentadas desde 2001, at&eacute; hoje nunca provadas e algumas at&eacute; arquivadas, como a exist&ecirc;ncia de contas de Maluf na Su&iacute;&ccedil;a ou irregularidades na constru&ccedil;&atilde;o do t&uacute;nel Ayrton Senna&rdquo;.</p></p>
+<p><p>A assessoria tamb&eacute;m negou que Paulo Maluf tenha remetido d&oacute;lares para o exterior entre 1997 e 1998, dizendo que neste per&iacute;odo ele j&aacute; n&atilde;o era mais prefeito da cidade.</p> </p>
+{% endraw %}

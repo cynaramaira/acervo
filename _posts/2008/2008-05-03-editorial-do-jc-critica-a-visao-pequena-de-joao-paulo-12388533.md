@@ -1,0 +1,28 @@
+---
+id: 12388533
+date: "2008-05-03T12:35:00Z"
+last_modified_at: null
+tags:
+  - "critica"
+  - "editorial"
+  - "joao-d"
+  - "paulo"
+  - "pequenas-industrias"
+  - "previsao"
+categories:
+  - "noticias"
+title: "Editorial do JC critica a Vis\u00e3o pequena de Jo\u00e3o Paulo"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Do editorial do JC de hoje&nbsp;</p></p>
+<p><p><font face=\"Verdana\">Chega a ser assombroso que o prefeito de uma capital da dimens&atilde;o do Recife tenha a coragem de pretender interpretar a vontade do povo brasileiro em torno de uma das mais conden&aacute;veis express&otilde;es de uma na&ccedil;&atilde;o que se pretende democr&aacute;tica: a manuten&ccedil;&atilde;o do poder nas m&atilde;os de um homem por entender que se trata do &uacute;nico capaz de manter as conquistas sociais. &Eacute; um racioc&iacute;nio t&atilde;o primitivo e contest&aacute;vel que fica dif&iacute;cil n&atilde;o extrem&aacute;-lo. Se Lula &eacute; hoje o &uacute;nico brasileiro que pode governar como est&aacute; governando, com a aprova&ccedil;&atilde;o da maioria de seu povo, quem haveria de contestar, quatro anos depois do seu terceiro mandato &ndash; se chegasse a tanto &ndash; que as condi&ccedil;&otilde;es seriam as mesmas, isto &eacute;, o pernambucano Lu&iacute;s In&aacute;cio Lula da Silva como o &uacute;nico cidad&atilde;o capaz de governar o Pa&iacute;s?</font></p></p>
+<p><p><font face=\"Verdana\">Esse racioc&iacute;nio peca pelo absurdo e pela aus&ecirc;ncia de um m&iacute;nimo de sensibilidade no que se pretendia ser um aglomerado de pessoas de esquerda, politicamente corretas, motivadas por princ&iacute;pios &eacute;ticos, compromisso com os direitos humanos, irredut&iacute;veis em sua determina&ccedil;&atilde;o de mudar o Brasil, a come&ccedil;ar pelas reformas fundamentais como a agr&aacute;ria, a pol&iacute;tica, a educacional e por a&iacute; vai. Hoje sabemos que n&atilde;o &eacute; bem assim, mas agredir a consci&ecirc;ncia e intelig&ecirc;ncia nacionais com o argumento p&iacute;fio de que dos quase 200 milh&otilde;es de brasileiros apenas um est&aacute; habilitado a governar melhor, tenha paci&ecirc;ncia!</font></p></p>
+<p><p><font face=\"Verdana\">N&atilde;o &eacute; preciso diploma de cientista pol&iacute;tico ou qualquer outro t&iacute;tulo universit&aacute;rio para entender o sucesso do presidente. N&atilde;o h&aacute; apenas uma explica&ccedil;&atilde;o, mas v&aacute;rias, a come&ccedil;ar pelo seu jeito de pov&atilde;o no falar, no tratar com a imprensa, no comunicar-se. Ele aprendeu, e muito bem, nas grandes assembl&eacute;ias sindicais, quando se fala costumeiramente o que a maioria quer ouvir. O l&iacute;der sindical pode at&eacute; ter um pouco de d&uacute;vida do que est&aacute; defendendo, mas para se fazer ouvir tem que ser firme no discurso, suas palavras devem ser as de um ventr&iacute;loquo das massas. Assim tamb&eacute;m o l&iacute;der popular, e n&atilde;o h&aacute; nisso nenhuma novidade.</font></p></p>
+<p><p><font face=\"Verdana\">Vamos considerar que seja o caso do nosso presidente a empatia, a forma de se comunicar que faz os grandes comunicadores. Como foi outro pernambucano, Chacrinha, que dominava seu p&uacute;blico como ningu&eacute;m foi capaz at&eacute; hoje. Alie-se a esse talento uma administra&ccedil;&atilde;o voltada com &ecirc;nfase para quem nunca teve governo &ndash; ou o teve em alguns momentos excepcionais, como no tempo de Get&uacute;lio Vargas &ndash; e chegamos &agrave; decodifica&ccedil;&atilde;o de um outro fator de tanta aprova&ccedil;&atilde;o popular. O homem n&atilde;o &eacute; apenas de origem comum &agrave; maioria dos brasileiros, mas fala sua linguagem e atende a suas necessidades b&aacute;sicas. O que mais para ter tanto sucesso? Talvez um toque m&aacute;gico do imagin&aacute;rio popular, orgulhoso de ver seu presidente, um ex-oper&aacute;rio, conversando no mesmo n&iacute;vel com reis, rainhas, presidentes de pa&iacute;ses ricos.</font></p></p>
+<p><p><font face=\"Verdana\">Tudo bem, n&atilde;o h&aacute; como questionar, sequer discutir essa conflu&ecirc;ncia de virtudes, mas da&iacute; a achar que se trata do &uacute;nico entre todos, h&aacute; uma grande, uma enorme dist&acirc;ncia. At&eacute; porque tudo o que o presidente est&aacute; fazendo tem a chancela de alguma autoridade na mat&eacute;ria. Pois n&atilde;o &eacute; que ele atribui &agrave; ministra Dilma Rousseff a maternidade de um dos seus mais importantes programas? Por que, ent&atilde;o, n&atilde;o admite o prefeito do Recife que a ministra &eacute; capaz de dar continuidade &ndash; e at&eacute; melhorar &ndash; a tudo o que Lula fez at&eacute; hoje? Talvez por um motivo muito simples: a contagem dos votos.</font></p></p>
+<p><p><font face=\"Verdana\">De fato, numa elei&ccedil;&atilde;o hoje dificilmente algu&eacute;m ganharia do presidente Lula. Mas h&aacute; d&uacute;vida, dentro do PT, se o presidente ter&aacute;, em 2010, poder de transfer&ecirc;ncia de votos. A quase unanimidade de aprova&ccedil;&atilde;o nacional &eacute; um patrim&ocirc;nio pessoal ou conquista da administra&ccedil;&atilde;o? A resposta a essa quest&atilde;o &eacute; que explicar&aacute; o andar do andor. Se o PT insistir na reelei&ccedil;&atilde;o &eacute; porque estar&aacute; com pesquisas nas m&atilde;os dizendo que Lula n&atilde;o transfere sua for&ccedil;a eleitoral. O que &eacute; mais grave ainda, porque estariam tentando escrever a hist&oacute;ria de uma na&ccedil;&atilde;o, a express&atilde;o de suas institui&ccedil;&otilde;es, a partir de um mito e, sem ele, o caos.</font></p> </p>
+{% endraw %}

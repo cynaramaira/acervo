@@ -1,0 +1,42 @@
+---
+id: 12405345
+date: "2009-09-01T20:52:00Z"
+last_modified_at: null
+tags:
+  - "candidatos"
+  - "presidente"
+  - "propaganda-eleitoral"
+categories:
+  - "noticias"
+title: "S\u00f3 candidatos a presidente poder\u00e3o ter propaganda paga na web"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Na Ag&ecirc;ncia Senado</p></p>
+<p><p>Os relatores do projeto de lei (PLC 141/09) que institui a reforma eleitoral reuniram-se nesta ter&ccedil;a-feira (1&ordm;) com senadores de v&aacute;rios partidos e conseguiram consenso em torno de itens pol&ecirc;micos da proposi&ccedil;&atilde;o. Os senadores Marco Maciel (DEM-PE), relator na Comiss&atilde;o de Constitui&ccedil;&atilde;o, Justi&ccedil;a e Cidadania (CCJ), e o senador Eduardo Azeredo (PSDB-MG), relator na Comiss&atilde;o de Ci&ecirc;ncia, Tecnologia, Inova&ccedil;&atilde;o, Comunica&ccedil;&atilde;o e Inform&aacute;tica (CCT), v&atilde;o apresentar um relat&oacute;rio conjunto nas duas comiss&otilde;es. At&eacute; a tarde de segunda-feira (31) haviam sido apresentadas 125 emendas ao texto.</p></p>
+<p><p>As Comiss&otilde;es realizam audi&ecirc;ncia conjunta nesta quarta-feira (2) e, aprovada a mat&eacute;ria, esta ser&aacute; levada ao Plen&aacute;rio em regime de urg&ecirc;ncia, para ser votada no mesmo dia. O que n&atilde;o for consensual ser&aacute; decidido no voto. Al&eacute;m dos relatores, participaram da reuni&atilde;o os senadores Aloizio Mercadante (PT-SP), Ant&ocirc;nio Carlos Valadares (PSB-SE), Dem&oacute;stenes Torres (DEM-GO), In&aacute;cio Arruda (PCdoB-CE), Jos&eacute; Agripino (DEM-RN), S&eacute;rgio Zambiasi (PTB-RS) e Serys Slhessarenko (PT-MT).</p></p>
+<p><p>Primeiro a falar na entrevista coletiva ap&oacute;s a reuni&atilde;o, Mercadante salientou que a propaganda ser&aacute; obrigat&oacute;ria para todas as r&aacute;dios e televis&otilde;es abertas, mas n&atilde;o para a TV por assinatura. As TVs comunit&aacute;rias tamb&eacute;m poder&atilde;o exibir a propaganda pol&iacute;tica, uma vez que, em muitos lugares, como lembrou Marco Maciel, elas s&atilde;o o &uacute;nico canal com a popula&ccedil;&atilde;o.</p></p>
+<p><p>Outro consenso obtido na reuni&atilde;o foi a proibi&ccedil;&atilde;o aos governos de criarem novos projetos de assist&ecirc;ncia social, ou ampliar os j&aacute; existentes, durante a campanha. Ficam preservados os reajustes dos pagamentos desses projetos. Foi mantida a proibi&ccedil;&atilde;o de participa&ccedil;&atilde;o de candidatos em inaugura&ccedil;&otilde;es de obras p&uacute;blicas.</p></p>
+<p><p>Internet<br /></p>
+<p>Al&eacute;m da publicidade gratuita em p&aacute;ginas criadas na internet para a propaganda eleitoral, j&aacute; prevista no projeto aprovado na C&acirc;mara dos Deputados, os senadores decidiram que os sites noticiosos, cujo conte&uacute;do se assemelhe aos jornais impressos, poder&atilde;o publicar propagandas pagas de candidatos. Mas, ao contr&aacute;rio dos jornais de papel, somente veicular&atilde;o an&uacute;ncios de candidatos a presidente da Rep&uacute;blica. A regra &eacute; a mesma que vale para os jornais: no m&aacute;ximo dez an&uacute;ncios, em datas diferentes, at&eacute; dois dias antes da elei&ccedil;&atilde;o, no formato de at&eacute; um oitavo de p&aacute;gina de um jornal formato standard.</p></p>
+<p><p>- &Eacute; um projeto piloto - afirmou Dem&oacute;stenes Torres.</p></p>
+<p><p>Para Mercadante, trata-se de um primeiro passo para ver como ser&aacute; a aceita&ccedil;&atilde;o da propaganda paga na internet. Segundo ele, seria imposs&iacute;vel liberar a campanha nos portais noticiosos da internet para os cerca de 20 mil candidatos que disputar&atilde;o a pr&oacute;xima elei&ccedil;&atilde;o.</p></p>
+<p><p>Primeiro a sair da reuni&atilde;o, In&aacute;cio Arruda manifestou-se contr&aacute;rio &agrave; decis&atilde;o:</p></p>
+<p><p>- Querem publicidade paga at&eacute; na internet, o &uacute;nico instrumento que tem alguma equidade. Um absurdo! S&oacute; os milion&aacute;rios poder&atilde;o fazer campanha - protestou.</p></p>
+<p><p>Outra modifica&ccedil;&atilde;o aceita pelos senadores foi a possibilidade de doa&ccedil;&otilde;es pela internet mediante d&eacute;bito na conta telef&ocirc;nica. Tamb&eacute;m poder&atilde;o ser feitas doa&ccedil;&otilde;es por meio de cart&atilde;o de d&eacute;bito e por boleto banc&aacute;rio, e n&atilde;o mais apenas por cart&atilde;o de cr&eacute;dito, como previsto no projeto aprovado na C&acirc;mara. Foi mantida a possibilidade de doa&ccedil;&otilde;es apenas ao partido, sem especificar o candidato.</p></p>
+<p><p>Polui&ccedil;&atilde;o</p></p>
+<p><p>Para baixar os custos da campanha e gerar menos polui&ccedil;&atilde;o visual, os senadores concordaram em proibir a pintura de muros de propriedades particulares, assim como a fixa&ccedil;&atilde;o de cartazes, placas ou inscri&ccedil;&otilde;es. Foram mantidas a permiss&atilde;o, no entanto, para cartazes n&atilde;o colantes, banners n&atilde;o afixados e faixas.</p></p>
+<p><p>Por quest&atilde;o de seguran&ccedil;a e economia, os senadores decidiram acabar com o voto em tr&acirc;nsito para presidente da Rep&uacute;blica, previsto pelos deputados. Eduardo Azeredo explicou que, como as urnas n&atilde;o s&atilde;o interligadas, um mesmo eleitor poderia votar, por exemplo, de manh&atilde; em Bras&iacute;lia e de tarde em Goi&acirc;nia. A interliga&ccedil;&atilde;o das urnas teria um custo proibitivo.</p></p>
+<p><p>Tamb&eacute;m houve acordo para que as d&iacute;vidas de candidatos sejam mantidas na inst&acirc;ncia partid&aacute;ria a ela correlata. Assim, caso um candidato a deputado estadual n&atilde;o tenha pagado uma d&iacute;vida, esta ser&aacute; de responsabilidade dele, em primeiro lugar, e da executiva estadual do partido, em segundo. A dire&ccedil;&atilde;o nacional do partido poder&aacute; assumir a d&iacute;vida, mas apenas se concordar expressamente com isso.</p></p>
+<p><p>Os senadores chegaram ainda a um consenso para impedir a impress&atilde;o de votos pelas urnas eletr&ocirc;nicas, com destina&ccedil;&atilde;o a auditagem de 2% das urnas de cada se&ccedil;&atilde;o eleitoral, norma de seguran&ccedil;a prevista no projeto aprovado pelos deputados. As urnas, no entanto, manter&atilde;o o registro digital dos votos por at&eacute; seis meses, para qualquer confer&ecirc;ncia determinada pela Justi&ccedil;a Eleitoral.</p></p>
+<p><p>Tamb&eacute;m houve acordo sobre a destina&ccedil;&atilde;o de 5% do Fundo Partid&aacute;rio para incentivar a participa&ccedil;&atilde;o feminina nas elei&ccedil;&otilde;es. Foram mantidos o percentual m&iacute;nimo de 30% de candidatas do sexo feminino, assim como 10% do tempo da propaganda eleitoral partid&aacute;ria - aquela feita tamb&eacute;m em anos n&atilde;o eleitorais - para as mulheres.</p></p>
+<p><p>Reforma poss&iacute;vel</p></p>
+<p><p>O senador Marco Maciel lembrou que as mudan&ccedil;as introduzidas no Senado determinam que o projeto seja for&ccedil;osamente reexaminado pela C&acirc;mara dos Deputados, que pode derrubar todas as altera&ccedil;&otilde;es feitas. Ele observou, no entanto, que h&aacute; &quot;um clima favor&aacute;vel&quot; para essas altera&ccedil;&otilde;es.</p></p>
+<p><p>Marco Maciel lamentou que as pr&oacute;ximas elei&ccedil;&otilde;es ser&atilde;o feitas sem a reforma pol&iacute;tica, que possibilitaria &quot;um sistema eleitoral mais compat&iacute;vel com a democracia no pa&iacute;s&quot;. Ele defende &quot;reformas institucionais essenciais &agrave; governabilidade&quot;, a come&ccedil;ar pela mudan&ccedil;a do sistema de vota&ccedil;&atilde;o proporcional em listas abertas, que &quot;n&atilde;o vincula o eleitor ao partido&quot;. Para ele, &eacute; necess&aacute;rio outro sistema no qual o eleitor fa&ccedil;a uma op&ccedil;&atilde;o program&aacute;tica.</p></p>
+<p><p>Eduardo Azeredo afirmou que o projeto que veio da C&acirc;mara &quot;&eacute; um projeto bom, &eacute; um projeto poss&iacute;vel&quot;. Segundo ele, uma reforma eleitoral mais profunda tem de ser feita no in&iacute;cio de governo, o que n&atilde;o ocorreu nos dois mandatos do presidente Luiz In&aacute;cio Lula da Silva nem nos dois mandatos do presidente Fernando Henrique Cardoso.</p></p>
+<p><p>- N&atilde;o &eacute; que o governo tenha de passar &agrave; frente do Legislativo, mas o governo tem de puxar o processo - afirmou Azeredo.<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

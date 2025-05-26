@@ -13,7 +13,7 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Do <strong><em><a href="http://fivenews.sjcc.com.br/&quot;https:/www.noblat.com.br/&quot;">blog</a></em></strong> de Noblat</p>
 <p>&nbsp;</p>
 <p>Ou &eacute; sabotagem ou &eacute; produto importado.</p>
@@ -26,4 +26,4 @@ imagem: null
 <p>A alian&ccedil;a jarbista prefere um apoio burocr&aacute;tico a Alckmin. Lula tem quase 70% de inten&ccedil;&otilde;es de votos em Pernambuco. Alckmin, pouco mais de 10%.</p>
 <p>Ou seja, boa parte dos eleitores de Jarbas e Mendon&ccedil;a vota em Lula, n&atilde;o em Alckmin. Ningu&eacute;m na alian&ccedil;a quer contrariar os eleitores.</p>
 <p>Leia mais <strong><em><a href="http://fivenews.sjcc.com.br/&quot;https:/jc3.uol.com.br/blogs/jc/2006/07/29/index.php#343&quot;">aqui</a></em></strong>.</p>
-{\% endraw %}
+{% endraw %}

@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Lula reinicia a campanha dele à reeleição em Petrolina, no Sertão do São Francisco, Pernambuco. </FONT></P></p>
 <p><P><FONT face=Verdana>Ele desembarca no munic?pio às 15h de sexta-feira. </FONT></P></p>
 <p><P><FONT face=Verdana>Do aeroporto segue em carreata para Juazeiro (BA), do outro lado do Rio São Francisco, cruzando o centro de Petrolina.</FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Depois passou numa reunião do comando da campanha presidencial e agora está com a executiva nacional do PSB.</FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo volta hoje à noite para Pernambuco. </FONT></P></p>
 <p><P><FONT face=Verdana>Amanhã ele deve receber o apoio de Armando Monteiro Neto (PTB) e da Frente Trabalhista, que estiveram com Humberto Costa (PT) no primeiro turno.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

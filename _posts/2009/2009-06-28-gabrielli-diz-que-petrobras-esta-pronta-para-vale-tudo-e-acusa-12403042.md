@@ -1,0 +1,42 @@
+---
+id: 12403042
+date: "2009-06-28T09:50:00Z"
+last_modified_at: null
+tags:
+  - "congresso"
+  - "esta"
+  - "imprensa"
+  - "petrobras"
+categories:
+  - "noticias"
+title: "Gabrielli diz que Petrobras est\u00e1 pronta para 'vale-tudo' e acusa imprensa e Congresso de criar 'fatos artificiais'"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: right"><span style="font-size: smaller"><img height="361" width="518" alt="" src="https://jc3.uol.com.br/blogs/repositorio/1400RP0393.jpg" /><br /></p>
+<p>(Foto: Roosewelt Pinheiro/ABr)</span><br /></p>
+<p>&nbsp;</p></p>
+<p><p>De O Estado de S.Paulo<br /></p>
+<p><br /></p>
+<p>&Agrave;s v&eacute;speras da instala&ccedil;&atilde;o da comiss&atilde;o parlamentar de inqu&eacute;rito (CPI), criada no Senado em 15 de maio para apurar um rol de cinco den&uacute;ncias de irregularidades envolvendo a Petrobras, o presidente da estatal, Jos&eacute; S&eacute;rgio Gabrielli, afirma que h&aacute; uma campanha de cria&ccedil;&atilde;o de &ldquo;fatos artificiais&rdquo; para justific&aacute;-la.</p></p>
+<p><p>Em entrevista exclusiva ao Estado na noite de sexta-feira, na sede da empresa, Gabrielli citou os maiores jornais e revistas do Pa&iacute;s como participantes de uma esp&eacute;cie de ciranda, na qual parlamentares de oposi&ccedil;&atilde;o alimentariam de den&uacute;ncias a imprensa para depois reproduzir as acusa&ccedil;&otilde;es no Congresso, pedindo inclus&atilde;o na CPI. &ldquo;Ser&aacute; que h&aacute; algum esquema de cria&ccedil;&atilde;o de fatos artificiais&#63;&rdquo;, indaga, para emendar em seguida com a resposta: &ldquo;N&atilde;o h&aacute; d&uacute;vida.&rdquo;</p></p>
+<p><p>Para o presidente da Petrobras, o ambiente de instala&ccedil;&atilde;o da CPI estaria imerso numa esp&eacute;cie de &ldquo;vale-tudo&rdquo; e avisa que est&aacute; preparado para embarcar no jogo: &ldquo;N&oacute;s estamos preparados para um vale-tudo! N&oacute;s estamos preparados. N&oacute;s n&atilde;o atacamos ningu&eacute;m ainda. S&oacute; temos nos defendido.&rdquo; E arremata: &ldquo;O ataque tamb&eacute;m faz parte da defesa&rdquo;.</p></p>
+<p><p>A seguir, a &iacute;ntegra da parte relacionada &agrave; CPI do Senado na entrevista de cerca de duas horas concedida pelo presidente da Petrobras ao Estado na noite da &uacute;ltima sexta-feira:</p></p>
+<p><p>A expectativa da Petrobras &eacute; de instala&ccedil;&atilde;o da CPI esta semana&#63;</p></p>
+<p><p>N&atilde;o sei. Acho que o Congresso vai decidir o que fazer. Imagino que a din&acirc;mica interna parlamentar vai determinar o que os congressistas v&atilde;o decidir. Eu n&atilde;o tenho a menor opini&atilde;o hoje, nesse momento, sobre se vai instalar ou n&atilde;o.</p></p>
+<p><p>O senhor ainda tem d&uacute;vidas se vai instalar ou n&atilde;o&#63;</p></p>
+<p><p>N&atilde;o sou senador. Sou o presidente da Petrobras.</p></p>
+<p><p>O senhor percorre os gabinetes do Senado para tentar dissuadir os parlamentares da cria&ccedil;&atilde;o da CPI. Qual foi a sua sensa&ccedil;&atilde;o dessas conversas&#63;</p></p>
+<p><p>Os parlamentares conclu&iacute;ram que precisavam criar a CPI porque veio o pedido de instala&ccedil;&atilde;o que foi lido no plen&aacute;rio. Portanto, do ponto de vista do ritual e do processual legislativo, devia ser instalada. Conversei com os senadores e alguns acharam que n&atilde;o havia necessidade. Mas, os senadores da oposi&ccedil;&atilde;o acharam que tinha que ter uma CPI. Nossa argumenta&ccedil;&atilde;o, muito expl&iacute;cita desde aquele momento, &eacute; que os temas que est&atilde;o nos requerimentos est&atilde;o sob investiga&ccedil;&atilde;o neste momento por &oacute;rg&atilde;os competentes para isso, a Pol&iacute;cia Federal, o Minist&eacute;rio P&uacute;blico, o TCU, a Receita Federal, os diversos &oacute;rg&atilde;os de investiga&ccedil;&atilde;o da companhia. Portanto, a investiga&ccedil;&atilde;o que a CPI poderia trazer, do ponto de vista legal, contribuiria muito pouco. O que poderia trazer problema &eacute; a cria&ccedil;&atilde;o de um clima nacional de den&uacute;ncia para buscar den&uacute;ncia para criar possibilidade de investigar coisas que v&atilde;o aparecer. Isso, na l&iacute;ngua portuguesa antiga chama-se coscuvilhice. A CPI legalmente tem de ser criada para fato determinado. Mas, uma vez criada a CPI temos de obedecer, atender aos requisitos da CPI ponto. N&atilde;o tem alternativa para n&oacute;s.</p></p>
+<p><p>Nesse sentido est&aacute; surgindo um discuss&atilde;o com rela&ccedil;&atilde;o &agrave; remunera&ccedil;&atilde;o dos executivos da Petrobras.</p></p>
+<p><p>Pois &eacute;, isso &eacute; um exemplo. Infelizmente at&eacute; o Estad&atilde;o entrou nessa mat&eacute;ria muito rid&iacute;cula. Uma mat&eacute;ria que n&atilde;o tem fato novo nenhum porque, inclusive, a divulga&ccedil;&atilde;o disso &eacute; da nossa pr&oacute;pria assembleia geral, que &eacute; p&uacute;blica. A informa&ccedil;&atilde;o refere-se &agrave; remunera&ccedil;&atilde;o dos dirigentes da companhia de forma bastante truncada, envolve um claro ind&iacute;cio de crime de quebra de sigilo fiscal, porque, aparentemente, o rep&oacute;rter que fez a mat&eacute;ria pelo Correio Braziliense obteve de forma fraudulenta informa&ccedil;&otilde;es fiscais protegidas por sigilo. Dessa maneira, portanto, de um lado ela &eacute; evid&ecirc;ncia de um crime. De outro lado, do ponto de vista de valor, os valores s&atilde;o bastante modestos, comparados com empresas do mesmo porte. Todos os dirigentes da Petrobras receberam R$ 7,108 milh&otilde;es no ano de 2007. O Ita&uacute; teve R$ 244 milh&otilde;es; o Bradesco, R$ 170 milh&otilde;es; o Unibanco R$ 153 milh&otilde;es, o Gerdau, R$ 59 milh&otilde;es; Vale, R$ 43 milh&otilde;es; Sadia, R$ 16 milh&otilde;es; Perdig&atilde;o, R$ 14 milh&otilde;es; Aracruz, R$ 9 milh&otilde;es, CSN, R$ 9,5 milh&otilde;es. Portanto, a Petrobras &eacute; a menor de todas. Se comparar com empresas internacionais, ent&atilde;o, a Exxon teve US$ 13,7 milh&otilde;es, a BP, US$ 4,2 milh&otilde;es. Ent&atilde;o &eacute; absolutamente pequeno o tamanho da Petrobras...</p></p>
+<p><p>O que tem se questionado n&atilde;o &eacute; tanto o valor, mas o reajuste de 90% num per&iacute;odo em que a infla&ccedil;&atilde;o acumulou 33,92%...</p></p>
+<p><p>O valor dos dirigentes da Petrobras &eacute; o teto da carreira. O presidente ganha 15% acima do sal&aacute;rio do maior gerente e os diretores, 10% acima. Ent&atilde;o se voc&ecirc; tem um sal&aacute;rio que &eacute; baixo para diretores, achata toda a cadeia de sal&aacute;rios da companhia. Isso torna mais vulner&aacute;veis os profissionais da companhia &agrave;s atra&ccedil;&otilde;es de mercado. Evitamos isso com uma pol&iacute;tica de reten&ccedil;&atilde;o de talentos, que envolve carreira profissional de longo prazo, treinamento, condi&ccedil;&otilde;es de trabalho adequada. Isso faz com que as pessoas gostem de trabalhar na companhia e queiram fica na companhia, mesmo ganhando menos. O reajuste dos sal&aacute;rios dos diretores da Petrobras acompanhou os acordos coletivos. O reajuste dos trabalhadores da Petrobras n&atilde;o &eacute; relacionado &agrave; infla&ccedil;&atilde;o. Houve aumento real, sim, nestes &uacute;ltimos anos. Os trabalhadores ganharam, inclusive, mais do que o reajuste dos diretores. Particularmente, a partir de 2008, o sal&aacute;rio dos diretores est&aacute; congelado; o dos trabalhadores vai depender do acordo coletivo. N&atilde;o h&aacute; nada que motive um esc&acirc;ndalo. Os maiores gerentes da Petrobras ganham menos do que os equivalentes sal&aacute;rios de mercado. O que est&atilde;o fazendo &eacute; exclusivamente coscuvilhice, &eacute; tentativa de criar fofoca muitas vezes repetida para virar verdade.</p></p>
+<p><p>A empresa se recusou a divulgar os sal&aacute;rios individuais dos executivos. Mas, n&atilde;o seria mais transparente pelo menos divulgar as remunera&ccedil;&otilde;es dos conselheiros&#63;</p></p>
+<p><p>Vou pedir o sal&aacute;rio total e individual da diretoria do Estad&atilde;o. Os conselheiros da Petrobras ganham 10% do que o que os diretores recebem. E n&atilde;o &eacute; sobre tudo: n&atilde;o t&ecirc;m PLR, 13&ordm; ou f&eacute;rias.<br /></p>
+<p><br /></p>
+<p><a href="https://www.estadao.com.br/noticias/nacional,gabrielli-diz-que-petrobras-esta-pronta-para-vale-tudo,394075,0.htm">Leia a &iacute;ntegra da entrevista.</a></p> </p>
+{% endraw %}

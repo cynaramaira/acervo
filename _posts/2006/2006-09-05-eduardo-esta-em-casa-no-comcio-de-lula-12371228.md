@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O candidato do PSB ao governo de Pernambuco é de longe o mais festejado em Caruaru, informa Cec?lia Ramos, repórter do <STRONG>Blog</STRONG>.</FONT></P></p>
 <p><P><FONT face=Verdana>A cidade é o principal reduto da chapa socialista. Os candidatos ao Senado e a vice-governador, Jorge Gomes e João Lyra Neto, são de Caruaru.</FONT></P></p>
 <p><P><FONT face=Verdana>Juntos, conseguiram levar grande quantidade de militantes, bandeiras e cartazes para reforçar o nome de Eduardo.</FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>Lula ainda não discursou nem concedeu entrevistas. Divide o palanque com Humberto e Eduardo e mais um time amplo de l?deres pol?ticos locais.</FONT></P></p>
 <p><P><FONT face=Verdana>Há uma expectativa no comando da campanha de Humberto de que o presidente fale alguma coisa para TVs, rádios e jornais em defesa do candidato petista, que foi indiciado pela Pol?cia Federal sob acusação de envolvimento com a máfia dos vampiros.</FONT></P></p>
 <p><P><FONT face=Verdana>Entre os que discursaram até agora, só Luciano Siqueira (PCdoB), candidato ao Senado na chapa petista, defendeu Humberto, dizendo que ele vem sendo agredido pelos adversários, como acontece com Lula desde o ano passado.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

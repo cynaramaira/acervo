@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><PRE><SPAN style=\"FONT-SIZE: 12pt; FONT-FAMILY: \Times New Roman\; mso-fareast-font-family: \Times New Roman\; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA\">Por <STRONG>Oswaldo Alves</STRONG><BR>Candidato a governador pelo PCO</SPAN></PRE></p>
 <p><P><FONT face=Verdana>Nossa campanha abordará três temáticas: salário, trabalho e terra. Oswaldo Alves, o candidato ao governo do Estado, é técnico em contabilidade, tem 41 anos, destes 20 anos como empregado dos Correios e 6 deles como dirigente sindical no per?odo de 1998 a 2004. </FONT></P></p>
 <p><P><FONT face=Verdana>Natural de Gravatá, filho do ex-vereador pelo MDB Antonio Alves (ou Arábias) e da professora (aposentada) Inês Alves. Comparece ao pleito no cargo de Carteiro, onde recebeu diversos convites e indicações, sendo os mais importantes: Diretor Regional, ARGET (Assessor de Relações de Gestão do Trabalho), Coordenador de Relações Sindicais, Gerência de Agência, Supervisor Operacional, todos nos Correios, ainda participei de seminário e grupo de estudo sindical sobre os temas: PL 1491/99 - Privatização da ECT e Banco Postal. </FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Não viria ao caso se a discussão não passasse pelo minifúndio que motiva e justifica o exôdo no campo. Recentemente acompanhamos a tragédia na rua velha semelhante a tantas outras na cidade e no campo, que ocorre e nossos representantes municipais não abrem CPI. </FONT></P></p>
 <p><P><FONT face=Verdana>Em nosso governo procuraremos o dono de imóveis abandonados para negociar a desapropriação em prol de programa de habitação popular. Pois, ninguém se CANDIDATA a compra-los e ou desapropria-los. A terra deve ser ocupada antes que outras palafitas, vila do morcego, viaduto sejam constru?das e ocupadas, de outro lado sabemos que vários sindicatos estão comprometidos com o poder executivo e outros tantos não são ouvidos. </FONT></P></p>
 <p><P><FONT face=Verdana>Portanto, nós do Partido da Causa Operária comparecemos ao pleito de 1º de outubro de 2006 com as candidaturas ao Governo do Estado de Oswaldo Alves 29 e ao Senado Federal Breno Rocha 291.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

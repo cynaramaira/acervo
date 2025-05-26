@@ -1,0 +1,49 @@
+---
+id: 12381034
+date: "2007-08-11T09:00:00Z"
+last_modified_at: null
+tags:
+  - "estudo"
+  - "greve"
+  - "medicos"
+  - "pernambuco"
+  - "renovacao"
+categories:
+  - "noticias"
+title: "A renova\u00e7\u00e3o da CPMF e a greve dos m\u00e9dicos de Pernambuco. Tudo a ver"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Que triste destino deram &agrave; CPMF!</font></p></p>
+<p><p><font face=\"Verdana\"><strong>Por Carlos Chaparro (*)</strong></font></p></p>
+<p><p><font face=\"Verdana\">XIS DA QUEST&Atilde;O - O governo quer os 36 bilh&otilde;es/ano da CPMF, n&atilde;o por causa das car&ecirc;ncias da &aacute;rea da sa&uacute;de, mas para manter o equil&iacute;brio or&ccedil;ament&aacute;rio sem precisar reduzir os gastos (principalmente com pessoal), que n&atilde;o param de crescer, inflados, tamb&eacute;m, pelos superfaturamentos da corrup&ccedil;&atilde;o. Enquanto isso, em Pernambuco, at&eacute; gaze falta nos pronto-socorros. </font></p></p>
+<p><p><font face=\"Verdana\">1. Nutrindo tetas sugadas...<br /></p>
+<p>Chega a ser ir&ocirc;nico, perversamente ir&ocirc;nico, que na mesma semana em que a televis&atilde;o exp&ocirc;s ao Brasil a dramaticidade do descalabro da sa&uacute;de p&uacute;blica em alguns estados do Nordeste, os jornais nos digam que o governo faz no Congresso jogos pol&iacute;ticos na base do mais tradicional e rasteiro &ldquo;toma l&aacute; d&aacute; c&aacute;&rdquo;, para conseguir prorrogar a CPMF por mais quatro anos. E faz isso com justificativas que nada t&ecirc;m a ver com as raz&otilde;es que levaram o dr. Jatene a propor em 1996, e a implantar em 1997, o famigerado imposto do cheque.</font></p></p>
+<p><p><font face=\"Verdana\">O dr. Jatene idealizou essa contribui&ccedil;&atilde;o sobre a movimenta&ccedil;&atilde;o financeira como forma tempor&aacute;ria de financiamento de um bom modelo de sa&uacute;de p&uacute;blica. Mas a CPMF teve a vida alongada por sucessivas renova&ccedil;&otilde;es, traindo o pr&oacute;prio nome e as finalidades que a justificavam na origem. Deixou de ser provis&oacute;ria e nada mais tem a ver com Sa&uacute;de P&uacute;blica. <br /></p>
+<p>O governo luta pelos 36 bilh&otilde;es/ano que o imposto lhe garante, mas n&atilde;o por causa de investimentos e melhorias que t&atilde;o urgentes s&atilde;o na &aacute;rea da Sa&uacute;de. O governo quer esses 36 bilh&otilde;es/ano, sem partilhas, para manter o equil&iacute;brio or&ccedil;ament&aacute;rio, sem precisar reduzir os gastos (principalmente com pessoal), que n&atilde;o param de crescer. E porque assim &eacute;, enquanto falta dinheiro para cuidar da sa&uacute;de do povo, dinheiro jamais falta nas tetas sugadas pelo empreguismo e pelos superfaturamentos da corrup&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\">Triste e vergonhoso destino teve a CPMF, idealizada para outros fins pelo dr. Jatene. </font></p></p>
+<p><p><font face=\"Verdana\"><strong>Caos criminoso</strong></font></p></p>
+<p><p><font face=\"Verdana\"><strong>Entretanto, em Pernambuco, foi preciso que os m&eacute;dicos plantonistas nas emerg&ecirc;ncias hospitalares fizessem um movimento radical, com auto-demiss&otilde;es em massa, para o governo estadual descobrir a situa&ccedil;&atilde;o ca&oacute;tica das condi&ccedil;&otilde;es em que se fazia o atendimento de urg&ecirc;ncia da popula&ccedil;&atilde;o. </strong></font></p></p>
+<p><p><font face=\"Verdana\"><strong>Eles conseguiram, pelo menos, nos mostrar que, quando morrem pessoas (e n&atilde;o &eacute; caso raro) nos pronto-socorros devido &agrave; precariedade das condi&ccedil;&otilde;es de atendimento, os culpados por essas mortes n&atilde;o s&atilde;o os m&eacute;dicos, mas os governantes.</strong></font></p></p>
+<p><p><font face=\"Verdana\"><strong>Entre as pessoas de Recife com quem, sobre o assunto, hoje conversei por telefone, um motorista de t&aacute;xi me garantiu que a popula&ccedil;&atilde;o ficou ao lado dos m&eacute;dicos, por entender que, al&eacute;m da justa reivindica&ccedil;&atilde;o por melhores sal&aacute;rios, eles lutavam pela melhoria das condi&ccedil;&otilde;es de atendimento &agrave; popula&ccedil;&atilde;o. Nas unidades de atendimentos de emerg&ecirc;ncia n&atilde;o eram s&oacute; as camas, as macas e o espa&ccedil;o f&iacute;sico que faltavam. Faltava gaze, algod&atilde;o, medicamentos, equipamentos, higiene, pessoal nas equipes de plant&atilde;o. </strong></font></p></p>
+<p><p><font face=\"Verdana\"><strong>Para que os meus leitores possam fazer id&eacute;ia da gravidade do caos a que a sa&uacute;de p&uacute;blica chegou por l&aacute;, conto-lhes algo espantoso &ndash; e aferi a informa&ccedil;&atilde;o em v&aacute;rias fontes. <br /></p>
+<p>Um problema novo hoje existente em Pernambuco &eacute; a falta de macas nas ambul&acirc;ncias dos bombeiros. H&aacute; relatos de casos em que, no atendimento a acidentes, a falta de maca na ambul&acirc;ncia de resgate impediu os bombeiros de fazer o transporte das v&iacute;timas para o hospital mais pr&oacute;ximo.</strong></font></p></p>
+<p><p><font face=\"Verdana\"><strong>E sabem voc&ecirc;s porque faltam macas nas ambul&acirc;ncias dos bombeiros? Porque, frequentemente, em opera&ccedil;&otilde;es de socorro, junto com o paciente, os bombeiros s&atilde;o obrigados a deixar tamb&eacute;m a maca, por n&atilde;o haver, no pronto-socorro, macas dispon&iacute;veis para receber pacientes. Por l&aacute; ficam as macas das ambul&acirc;ncias, at&eacute; que os doentes que as ocuparam tenham alta. E nem todas voltam...</strong></font></p></p>
+<p><p><font face=\"Verdana\">Uma vergonha! E vergonha maior, por tudo isso acontecer num pa&iacute;s obrigado a assistir &agrave; internacionaliza&ccedil;&atilde;o de discursos ufanistas do tipo &ldquo;nosso biocombust&iacute;vel vai mudar o mundo&rdquo;. <br /></p>
+<p>Que bom seria se o milagre do biocombust&iacute;vel servisse, ao menos, para mudar este Brasil de dores e humilha&ccedil;&otilde;es, um peda&ccedil;o do qual os m&eacute;dicos plantonistas de Pernambuco conseguiram expor ao mundo. <br /></p>
+<p>***<br /></p>
+<p><strong>Nem todos os m&eacute;dicos plantonistas envolvidos no movimento voltaram atr&aacute;s, na decis&atilde;o de se demitir do servi&ccedil;o p&uacute;blico. Mas o acordo feito trouxe de volta aos hospitais os que acreditaram nas boas inten&ccedil;&otilde;es do governo, que se comprometeu n&atilde;o somente em melhorias salariais. Prometeu, tamb&eacute;m, reduzir drasticamente as car&ecirc;ncias que justificaram o movimento dos m&eacute;dicos pernambucanos. </strong></font></p></p>
+<p><p><font face=\"Verdana\">Vamos ver...<br /></p>
+<p>Quem te viu, quem te v&ecirc;...</font></p></p>
+<p><p><font face=\"Verdana\">Entretanto, nos teares da negocia&ccedil;&atilde;o parlamentar, os entendimentos est&atilde;o sendo tecidos em bastidores protegidos, para garantir aos cofres do professor Mantega os 36 bilh&otilde;es do CPMF j&aacute; previstos nos c&aacute;lculos or&ccedil;ament&aacute;rios de receitas. O que significa dizer que a prorroga&ccedil;&atilde;o do providencial imposto j&aacute; eram favas contadas, nas contas do governo. </font></p></p>
+<p><p><font face=\"Verdana\">Que a CPMF vai ser prorrogada, ningu&eacute;m mais duvida. Dos acordos feitos para que assim seja, os mais nojentos talvez nem tenham sido noticiados. Mas o que os jornais informam hoje j&aacute; &eacute; suficiente para lamentarmos que nada tenha melhorado na pol&iacute;tica brasileira, depois que o PT se recostou nos espaldares palacianos. Ficou igualzinho aos outros. Por isso, na hora de ajustar interesses, todos se entendem t&atilde;o bem...</font></p></p>
+<p><p><font face=\"Verdana\">Pelo que os jornais dizem, em troca do voto na prorroga&ccedil;&atilde;o, e entre outras &ldquo;generosas trocas&rdquo;, as hostes governistas aceitam votar um projeto de fidelidade partid&aacute;ria que &ldquo;anistie&rdquo; os 38 parlamentares que mudaram de partido depois de eleitos em 2006, e que est&atilde;o amea&ccedil;ados de perder os mandatos, por decis&atilde;o do TSE. </font></p></p>
+<p><p><font face=\"Verdana\">***<br /></p>
+<p>Em resumo: a refestelan&ccedil;a nas salas, ante-salas e cozinhas do poder transforma para pior n&atilde;o somente as pessoas, mas tamb&eacute;m os partidos. Por isso, temos de tomar como coisa normal ver o mesmo PT que, l&aacute; atr&aacute;s, tanto brigou contra a cria&ccedil;&atilde;o da CPMF, ocupar hoje posi&ccedil;&atilde;o de vanguarda nas a&ccedil;&otilde;es e nos argumentos em favor da prorroga&ccedil;&atilde;o. E assinando em baixo, com punho firme e sorriso no rosto, acordos que, em idos tempos de oposi&ccedil;&atilde;o, repudiaria com alarde noticiante &ndash; que para isso serviam os discursos carregados de ornamentos supostamente &eacute;ticos. <br /></p>
+<p>Quem te viu, quem te v&ecirc;...</font></p></p>
+<p><p><font face=\"Verdana\"><em>(*) Manuel Carlos Chaparro &eacute; doutor em Ci&ecirc;ncias da Comunica&ccedil;&atilde;o e professor livre-docente (aposentado) do Departamento de Jornalismo e Editora&ccedil;&atilde;o, na Escola de Comunica&ccedil;&otilde;es e Artes, da Universidade de S&atilde;o Paulo, onde continua a orientar teses. &Eacute; tamb&eacute;m jornalista, desde 1957. Com trabalhos individuais de reportagem, foi quatro vezes distinguido no Pr&ecirc;mio Esso de Jornalismo. No percurso acad&ecirc;mico, dedicou-se ao estudo do discurso jornal&iacute;stico, em projetos de pesquisa sobre g&ecirc;neros jornal&iacute;sticos, teoria do acontecimento e a&ccedil;&atilde;o das fontes. Tem quatro livros publicados, sobre jornalismo. E um livro-reportagem, lan&ccedil;ado em 2006 pela Hucitec. Foi presidente da Intercom, entre 1989-1991. &Eacute; conselheiro da ABI em S&atilde;o Paulo e membro do Conselho de &Eacute;tica da Abracom.<br /></p>
+<p></em></font></p> </p>
+{% endraw %}

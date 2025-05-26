@@ -1,0 +1,25 @@
+---
+id: 12389512
+date: "2008-05-30T18:59:00Z"
+last_modified_at: null
+tags:
+  - "maioria"
+  - "recife"
+categories:
+  - "eleicoes"
+title: "Descentraliza\u00e7\u00e3o da gest\u00e3o para uma maior efici\u00eancia da administra\u00e7\u00e3o do Recife"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Por Raul Henry<img height=\"160\" alt=\"\" width=\"130\" align=\"right\" src=\"https://www2.uol.com.br/JC/blogs/blogdejamildo/imagens/selo_recife2008.jpg\" /></font></p></p>
+<p><p><font face=\"Verdana\">Com grandes problemas para serem solucionados - sa&uacute;de, educa&ccedil;&atilde;o, transporte, etc -, &eacute; comum o Executivo acabar negligenciando coisas menores, a exemplo de uma rua esburacada, lixo na cal&ccedil;ada ou uma fossa estourada, que incomodam, e muito, quem mora nas redondezas. Em grandes cidades como S&atilde;o Paulo e Rio de Janeiro, as prefeituras criam subdivis&otilde;es nos bairros que ajudam na administra&ccedil;&atilde;o da cidade e se preocupam justamente com essas pequenas quest&otilde;es.</font></p></p>
+<p><p><font face=\"Verdana\">As subprefeituras, como s&atilde;o chamadas essas unidades nesses dois munic&iacute;pios, funcionam como elos de liga&ccedil;&atilde;o entre a popula&ccedil;&atilde;o e os &oacute;rg&atilde;os p&uacute;blicos. Elas s&atilde;o respons&aacute;veis por resolver problemas ligados &agrave; comunidade e tamb&eacute;m promovem atividades para melhorar o bem-estar dos moradores da regi&atilde;o onde est&atilde;o instaladas. Trata-se de um modelo que estimula a participa&ccedil;&atilde;o da sociedade, onde o cidad&atilde;o pode reivindicar, fazer reclama&ccedil;&otilde;es, receber informa&ccedil;&otilde;es sobre os servi&ccedil;os prestados pelo munic&iacute;pio e, principalmente, participar da gest&atilde;o em seu bairro.</font></p></p>
+<p><p><font face=\"Verdana\">Ao subprefeito cabe a imedia&ccedil;&atilde;o entre os problemas da comunidade e a m&aacute;quina administrativa da Prefeitura. Ele deve representar pol&iacute;tica e administrativamente a Prefeitura na regi&atilde;o. O subprefeito &eacute; uma esp&eacute;cie de s&iacute;ndico de uma &aacute;rea da cidade. Mais pr&oacute;ximo da comunidade, recebe as reclama&ccedil;&otilde;es, repassa as quest&otilde;es &agrave; secretaria competente e cobra solu&ccedil;&atilde;o r&aacute;pida e eficiente. </font></p></p>
+<p><p><font face=\"Verdana\">Entre os servi&ccedil;os que podem ser solicitados est&atilde;o: cascalhamento e nivelamento de ruas; coleta de lixo, varri&ccedil;&atilde;o de ruas, limpeza de feiras livres e remo&ccedil;&atilde;o de entulho; constru&ccedil;&atilde;o de cal&ccedil;ad&otilde;es, passeios e escadarias hidr&aacute;ulicas em &aacute;reas p&uacute;blicas; constru&ccedil;&atilde;o, conserva&ccedil;&atilde;o e reforma de pra&ccedil;as; lavagem de vias p&uacute;blicas; limpeza e conserva&ccedil;&atilde;o de bocas de lobo, c&oacute;rregos, po&ccedil;os de visita e galerias de &aacute;guas pluviais; pavimenta&ccedil;&atilde;o de ruas (fiscaliza&ccedil;&atilde;o); plantio, poda e remo&ccedil;&atilde;o de &aacute;rvores nas vias p&uacute;blicas; rebaixamento de guias e abertura de passagem de &aacute;gua pluvial na guia; recolhimento de ve&iacute;culos abandonados nas vias p&uacute;blicas; retirada de ca&ccedil;ambas de entulho colocadas irregularmente nas vias p&uacute;blicas; tapa-buraco, capeamento e recapeamento asf&aacute;ltico; autoriza&ccedil;&atilde;o para realiza&ccedil;&atilde;o de um evento em um local p&uacute;blico; autoriza&ccedil;&atilde;o de ocupa&ccedil;&atilde;o do espa&ccedil;o p&uacute;blico (por bancas de jornais ou qualquer outro tipo de atividade).</font></p></p>
+<p><p><font face=\"Verdana\">Em S&atilde;o Paulo, s&atilde;o 31 subprefeituras. J&aacute; no Rio, s&atilde;o 19. Para o Recife, a id&eacute;ia inicial &eacute; ter uma unidade de gest&atilde;o descentralizada em cada uma das seis Regi&otilde;es Pol&iacute;tico-Administrativas (RPAs) e mais a do Centro do Recife, envolvendo os bairros do Recife, Santo Ant&ocirc;nio, S&atilde;o Jos&eacute; e Boa Vista. Nessa &uacute;ltima, dever&aacute; ser dada &ecirc;nfase especial &agrave; infra-estrutura (principalmente acessibilidade) dos bairros, requalificando o espa&ccedil;o edificado (habita&ccedil;&atilde;o, equipamentos urbanos) para a atra&ccedil;&atilde;o de servi&ccedil;os modernos (inclusive educacionais).</font></p></p>
+<p><p><font face=\"Verdana\">Descentralizar a gest&atilde;o no Recife significa maior participa&ccedil;&atilde;o popular, proximidade entre o poder p&uacute;blico e o cidad&atilde;o, a&ccedil;&atilde;o integrada das diversas &aacute;reas da Prefeitura, desenvolvimento local. Ou seja, maior efici&ecirc;ncia da administra&ccedil;&atilde;o municipal.</font></p></p>
+<p><p><font face=\"Verdana\"><em>PS: Deputado federal e pr&eacute;-candidato do PMDB a prefeito do Recife, escreve para o Blog &agrave;s sextas dentro da s&eacute;rie &quot;Recife 2008. Debate com os prefeitur&aacute;veis&quot;.</em></font></p> </p>
+{% endraw %}

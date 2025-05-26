@@ -1,0 +1,25 @@
+---
+id: 12399500
+date: "2009-03-24T11:50:28Z"
+last_modified_at: null
+tags:
+  - "crise-sanitaria"
+  - "esta"
+categories:
+  - "colunistas"
+title: "A crise est\u00e1 chegando "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Editorial do JC desta ter&ccedil;a-feira<br /></p>
+<p><br /></p>
+<p>O governo come&ccedil;a a reconhecer nas decis&otilde;es mais duras que acaba de tomar que a crise financeira mundial inclui o Brasil. A marolinha fica registrada como parte de uma frase infeliz do presidente da Rep&uacute;blica, que tentou com todas as for&ccedil;as de seu poder de comunica&ccedil;&atilde;o impedir que se abatesse sobre a Na&ccedil;&atilde;o o desespero de uma crise com caracter&iacute;sticas semelhantes &agrave; quebradeira de 1929 e aos trope&ccedil;os que fizeram dos anos 80 uma d&eacute;cada perdida. Agora o tsunami bate em nossas fronteiras, atinge o Produto Interno Bruto (PIB), reduz a receita tribut&aacute;ria, abate-se sobre os empregos formais, reproduz todos os sintomas da pandemia econ&ocirc;mica mundial e todos parecem estar de acordo que a quest&atilde;o deixou de ser tirar o Brasil da rela&ccedil;&atilde;o das v&iacute;timas, mas agir para que o desastre entre n&oacute;s seja o menor poss&iacute;vel.<br /></p>
+<p><br /></p>
+<p>Essa pandemia come&ccedil;ou nos Estados Unidos onde o desemprego forma um enorme ex&eacute;rcito de m&atilde;o de obra ociosa em filas de seguro, e tem sua express&atilde;o mais forte na Europa em recess&atilde;o, onde os lugares das filas s&atilde;o tomados por massas de trabalhadores &ndash; um milh&atilde;o segundo as estimativas mais modestas ocuparam as ruas das principais cidades da Fran&ccedil;a &ndash; para dizer que querem preservar seus empregos. O Brasil estava aparentemente poupado desse cen&aacute;rio preocupante, mas agora ter&aacute; que correr para evitar que a inquieta&ccedil;&atilde;o tamb&eacute;m chegue a nossas ruas.</p></p>
+<p><p>Todas as avalia&ccedil;&otilde;es t&eacute;cnicas diziam que ser&iacute;amos poupados dos sintomas mais graves da doen&ccedil;a, mas que ela se abateria infalivelmente tamb&eacute;m sobre o Brasil, pelo que cabiam iniciativas rigorosas de uma economia de guerra. O discurso oficial nos poupou do susto no primeiro momento, mas a queda de todos os indicadores econ&ocirc;micos exige uma revis&atilde;o de tudo que foi dito at&eacute; agora. Estamos, sim, no mesmo curso de um mal cuja cura &eacute; apontada para o ano que vem, sem nada que indique uma nova era de crescimento que recomponha o capitalismo nos moldes dos melhores momentos da hegemonia norte-americana e do Estado m&iacute;nimo. A interven&ccedil;&atilde;o estatal na atividade privada, brutal heresia at&eacute; recentemente, &eacute; hoje a &uacute;nica medica&ccedil;&atilde;o conhecida para combater a doen&ccedil;a que se espalhou pelo sistema financeiro.</p></p>
+<p><p>Em nosso caso, a economia encontrou um ponto de resist&ecirc;ncia como raras outras na&ccedil;&otilde;es, mas n&atilde;o estava imune, como est&aacute; provado, cabendo um tratamento de urg&ecirc;ncia. Sabia-se, por exemplo, que o governo precisava continuar investindo e controlando os seus gastos, n&atilde;o apenas o Executivo, mas todos os Poderes. Agora esse &eacute; um prop&oacute;sito oficial, como outros dever&atilde;o fazer parte da agenda governamental, bem mais pr&oacute;xima do que se faz l&aacute; fora, como, por exemplo, a redu&ccedil;&atilde;o da incr&iacute;vel taxa de juros que nos coloca em desonroso primeir&iacute;ssimo lugar, na contram&atilde;o do que ocorre no resto do mundo. A economia nos gastos do governo vai muito al&eacute;m desta ou de qualquer outra crise. Ela &eacute; um componente fundamental para todos os momentos como cultura, como pol&iacute;tica administrativa fundada na qualidade, no bom senso, no respeito aos princ&iacute;pios mais elementares de uma boa administra&ccedil;&atilde;o, com o que n&atilde;o combina &ndash; para argumentar &ndash; a exist&ecirc;ncia de quase 40 Minist&eacute;rios, o dobro do que atenderia inteiramente &agrave;s necessidades da Na&ccedil;&atilde;o.</p></p>
+<p><p>N&atilde;o pode nem deve haver j&uacute;bilo entre os que em algum momento advertiram para o descompasso dos nossos governantes diante da crise global. Todos estamos no mesmo barco, nunca ser&aacute; demais lembrar, independente de colora&ccedil;&atilde;o partid&aacute;ria, de simpatizar, ou n&atilde;o, com os governantes. O problema &eacute; social, com grave repercuss&atilde;o sobre os de hoje e as gera&ccedil;&otilde;es que est&atilde;o chegando ao mercado de trabalho e encontram as portas fechadas, em um cen&aacute;rio onde quase tudo est&aacute; por ser feito, desde o atendimento aos direitos constitucionais de moradia, sa&uacute;de, educa&ccedil;&atilde;o, transporte e seguran&ccedil;a. Da&iacute; entendermos que poder&aacute; se caracterizar oportunismo eleitoral confrontar toda e qualquer iniciativa oficial no sentido de amenizar o impacto da crise sobre todos os brasileiros. O momento &eacute; de consenso, de parceria para impedir que o nosso barco so&ccedil;obre.</p> </p>
+{% endraw %}

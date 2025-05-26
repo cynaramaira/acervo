@@ -1,0 +1,24 @@
+---
+id: 12384911
+date: "2007-12-30T21:34:00Z"
+last_modified_at: null
+tags:
+  - "servico"
+categories:
+  - "noticias"
+title: "Em 2007, 64 jornalistas foram assassinados em servi\u00e7o"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">O ano que est&aacute; acabando foi o que mais jornalistas foram assassinados em uma d&eacute;cada. Os dados s&atilde;o do Comit&ecirc; para a Prote&ccedil;&atilde;o dos Jornalistas e foram publicados pelo Observat&oacute;rio da Imprensa. Em todo o mundo, 64 jornalistas morreram no cumprimento de seu trabalho ao longo do ano &ndash; oito a mais que em 2006. O CPJ ainda investiga as mortes de outros 22 rep&oacute;rteres para determinar se est&atilde;o relacionadas com seu trabalho jornal&iacute;stico. O CPJ registrou somente um ano com um n&uacute;mero maior de v&iacute;timas fatais: 1994, quando 66 jornalistas morreram, muitos deles nos conflitos da Arg&eacute;lia, B&oacute;snia e Ruanda.<br /></p>
+<p>O Iraque foi o pa&iacute;s mais letal para a imprensa. Foram 31 v&iacute;timas, muitas foram alvo de ataques e assassinatos, como o rep&oacute;rter do Washington Post Salih Saif Aldin, que morreu em Bagd&aacute; com um &uacute;nico tiro na cabe&ccedil;a. Pistoleiros n&atilde;o identificados, ataques suicidas e opera&ccedil;&otilde;es dos militares norte-americanas constitu&iacute;ram uma s&eacute;rie de riscos letais para os jornalistas iraquianos. Todos, exceto um dos 31 jornalistas mortos, eram cidad&atilde;os iraquianos. Quase todos trabalhavam para meios de comunica&ccedil;&atilde;o locais. Doze profissionais que trabalhavam para meios de comunica&ccedil;&atilde;o, como seguran&ccedil;as ou motoristas, tamb&eacute;m morreram no Iraque. Desde o in&iacute;cio da guerra, em mar&ccedil;o de 2004, 124 jornalistas e 49 funcion&aacute;rios de meios de comunica&ccedil;&atilde;o morreram, convertendo este conflito no mais letal para a imprensa na hist&oacute;ria recente. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A Som&aacute;lia foi o segundo pa&iacute;s mais mortal para os meios de comunica&ccedil;&atilde;o em 2007, com sete jornalistas mortos por seu trabalho. Entre as sete mortes na Som&aacute;lia encontram-se os assassinatos em seq&uuml;&ecirc;ncia de dois conhecidos jornalistas. Mahad Ahmed Elmi, diretor da r&aacute;dio Capital Voice em Mogad&iacute;scio, morreu ap&oacute;s receber quatro tiros na cabe&ccedil;a. Horas depois, uma mina terrestre remotamente detonada tirou a vida de Ali Iman Sharmarke, um dos donos do HornAfrik Media, quando este sa&iacute;a do funeral de Elmi. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Por outro lado, na Col&ocirc;mbia, pela primeira vez em mais de 15 anos, nenhum jornalista morreu em decorr&ecirc;ncia de seu trabalho. E n&atilde;o houve mortes de jornalistas vinculadas ao trabalho informativo nas Filipinas pela primeira vez desde 1999. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">No Paquist&atilde;o e no Sri Lanka, cinco jornalistas foram mortos. Ataques suicidas provocaram tr&ecirc;s das cinco mortes no Paquist&atilde;o, incluindo a de Muhammad Arif, da emissora de televis&atilde;o ARY One Word TV, que estava entre as 139 pessoas que morreram quando bombas explodiram durante a celebra&ccedil;&atilde;o pelo retorno da ex-primeira Ministra Benazir Bhutto ao pa&iacute;s (a pr&oacute;pria Benazir morreria dois meses depois, assassinada).</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">No Sri Lanka, avi&otilde;es de combate da for&ccedil;a a&eacute;rea bombardearam a esta&ccedil;&atilde;o de r&aacute;dio Voice of Tigers, causando a morte de tr&ecirc;s funcion&aacute;rios. Um assassinato foi registrado nos Estados Unidos, quando um homem armado mascarado atirou contra o editor do jornal Oakland Post, Chauncey Bailey, quando ele caminhava para o trabalho.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Milh&otilde;es de pessoas em todo o mundo foram testemunhas do assassinato do fot&oacute;grafo japon&ecirc;s Kenji Nagai por tropas birmanesas durante a investida contra manifestantes antigovernamentais em Rang&uacute;n. Aparentemente, n&atilde;o foram realizadas a&ccedil;&otilde;es para levar o assassino &agrave; justi&ccedil;a. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O CPJ foi fundado em 1981 e em seu site publica uma listagem preliminar dos jornalistas mortos por seu trabalho em 2007, com um relato sobre cada caso. Al&eacute;m disso, h&aacute; informes sobre cada um dos casos n&atilde;o confirmados que o CPJ continua investigando. Uma lista final ser&aacute; divulgada em 2 de janeiro de 2008.</font></p> </p>
+{% endraw %}

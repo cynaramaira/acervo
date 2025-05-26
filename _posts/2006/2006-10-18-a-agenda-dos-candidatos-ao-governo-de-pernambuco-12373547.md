@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana><STRONG>EDUARDO CAMPOS (PSB)<BR></STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>6h30</STRONG>, no Recife, participa de encontro com portuários. Local: Porto do Recife </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>9h</STRONG>, no Recife, participa de encontro com lideranças evangélicas. Local: Recife Praia Hotel, no Pina </FONT></P></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><DIV><FONT face=Verdana><STRONG>19h30</STRONG>, caminhada em Jardim São Paulo</FONT></DIV></p>
 <p><DIV><FONT face=Verdana></FONT>&nbsp;</DIV></p>
 <p><DIV><FONT face=Verdana><STRONG>20h30</STRONG>, caminhada e com?cio em Vitória de Santo Antão</FONT></DIV> </p>
-{\% endraw %}
+{% endraw %}

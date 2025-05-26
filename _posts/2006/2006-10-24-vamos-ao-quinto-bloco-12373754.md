@@ -12,6 +12,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>Este é o último bloco e será dedicado às considerações finais </p>
-{\% endraw %}
+{% endraw %}

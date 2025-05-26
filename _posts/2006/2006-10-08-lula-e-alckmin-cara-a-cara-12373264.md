@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><SPAN style=\"FONT-SIZE: 14pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\"><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\">O presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) e o presidenciável Geraldo Alckmin (PSDB) participam hoje à noite do primeiro debate entre os candidatos neste <SPAN style=\"mso-spacerun: yes\">&nbsp;</SPAN>segundo turno das eleições. <o:p></o:p></SPAN></P></p>
 <p><P class=MsoNormal style=\"BACKGROUND: white; MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\"><o:p>&nbsp;</o:p></SPAN></P></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P style=\"BACKGROUND: white\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\">* Geraldo Alckmin participou de debates com os candidatos nas emissoras de TV Gazeta, Bandeirantes e Globo, no primeiro turno das eleições. <o:p></o:p></SPAN></P></p>
 <p><P style=\"BACKGROUND: white\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma\">* Já o presidente petista não compareceu a nenhum dos confrontos diretos com seus</p>
 <p> concorrentes promovidos no primeiro turno. Com isso, Lula tornou-se o principal alvo dos ataques dos adversários na televisão. </SPAN></o:p></SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

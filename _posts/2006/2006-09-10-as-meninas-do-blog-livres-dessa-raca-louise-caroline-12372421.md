@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Louise Caroline*</STRONG><BR>Estudante de direito e vice-presidente da UNE</FONT></P></p>
 <p><P><FONT face=Verdana><EM><FONT size=1>\"O senhor não está desencantado com tudo isso que acontece no Brasil?\"<BR><BR>\"Desencantado? Pelo contrário. Estou é encantado, porque estaremos livres dessa raça pelos próximos 30 anos.\"<BR></FONT></EM>&nbsp;<BR>Assim o Senador Jorge Bornhausen, presidente nacional do PFL, analisou o quadro pol?tico brasileiro há exatamente um ano. Naquele momento, os principais cientistas, jornalistas e pol?ticos concordavam com esse vatic?nio. Roberto Freire, presidente nacional do PPS, chegou a afirmar em inserções de rádio e televisão que o Governo havia acabado e apontava sugestões para a imediata sucessão. O fato estava dado, o PT acabado e a direita se considerava de volta ao poder. </FONT></P></p>
 <p><P><FONT face=Verdana>A quem me lê, adianto</p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>O povo miserável que sempre dependeu de se subjugar ao poder coercitivo da cesta básica no per?odo eleitoral está livre para decidir quem o representa, porque a comida chega o ano inteiro, como pol?tica pública, e não como assistencialismo eleitoreiro. </FONT></P></p>
 <p><P><FONT face=Verdana>A consciência de que a classe trabalhadora pode dirigir o pa?s de forma soberana e democrática é mais uma liberdade para os que sempre foram tratados como incapazes e \"raça\" inferior.</FONT></P></p>
 <p><P><FONT face=Verdana>Essas conquistas são bons elementos para que os sociólogos, cientistas pol?ticos e jornalistas iniciem um novo método de análise e para que a direita brasileira aprenda a ler a realidade crua, sem os temperos de uma falsa \"opinião pública\" inventada por seus pares. <BR><BR>Liberdade, ainda que tardia!<BR><BR><STRONG>*Louise Caroline</STRONG>, 23, é estudante de direito, vice-presidente da União Nacional dos Estudantes (UNE) e militante do PT.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

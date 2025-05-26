@@ -12,6 +12,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>O ex-deputado federal Roberto Jefferson, aquele que denunciou o mensalão, pode dar uma colaboração com o enredo, já que tem boa experiência em acordos. Não se sabe se cobrará cachê, desta vez. </p>
-{\% endraw %}
+{% endraw %}

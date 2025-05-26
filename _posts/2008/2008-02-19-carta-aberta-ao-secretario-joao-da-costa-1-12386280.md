@@ -1,0 +1,38 @@
+---
+id: 12386280
+date: "2008-02-19T09:47:00Z"
+last_modified_at: null
+tags:
+  - "boca-aberta"
+  - "carta"
+  - "gal-costa"
+  - "joao-d"
+categories:
+  - "eleicoes"
+title: "Carta aberta ao secret\u00e1rio Jo\u00e3o da Costa 1"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p align=\"justify\">&nbsp;</p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Secret&aacute;rio Jo&atilde;o da Costa,<img height=\"160\" src=\"https://www2.uol.com.br/JC/blogs/blogdejamildo/imagens/selo_recife2008_raul.jpg\" width=\"130\" align=\"right\" alt=\"\" /></font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Dirijo-lhe esta Carta Aberta para convid&aacute;-lo a abrirmos o debate sobre o futuro da nossa cidade do Recife, na medida em que, acredito, somos os &uacute;nicos candidatos definidos at&eacute; o momento.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Diferentemente do que pensam outras lideran&ccedil;as, inclusive do seu partido, n&atilde;o o desqualifico por querer disputar o honroso cargo de Prefeito do Recife. Tenho a certeza de que assim como outros postulantes, o senhor tem o direito de disputar a cadeira m&aacute;xima do administrador de nossa cidade. Ainda que o seu processo de indica&ccedil;&agrave;o, comandado de forma autorit&aacute;ria pelo atual Prefeito, tenha marginalizado biografias importantes em seu partido, a exemplo de Humberto Costa, Maur&iacute;cio Rands e Pedro Eug&ecirc;nio.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Acredito, por&eacute;m, que j&aacute; est&aacute; mais que na hora de abrirmos o debate em torno do futuro do Recife e dos recifenses. At&eacute; porque o senhor ter&aacute; que responder, durante esta campanha, a algumas perguntas que incomodam a mim enquanto cidad&atilde;o, que incomodam e exasperam o povo do Recife e que deveria incomodar o senhor e toda a equipe que hoje faz parte da atual gest&atilde;o municipal.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Tenho dito, atrav&eacute;s de palestras, reuni&otilde;es e entrevistas &agrave; imprensa, que nossa cidade est&aacute; sem rumo, que n&atilde;o planeja seu futuro. A gest&atilde;o da qual o senhor faz parte h&aacute; sete anos, n&atilde;o apontou os caminhos que o Recife deve trilhar para se inserir no mundo globalizado, onde as grandes cidades (entre as quais est&aacute; a nossa) t&ecirc;m que apresentar a sua voca&ccedil;&atilde;o e, a partir dela, construir o seu futuro. Hoje o Recife est&aacute; sem futuro e sem rumo.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Nesta gest&atilde;o, da qual o senhor foi imposto como o &uacute;nico que tem a prerrogativa de dar continuidade, a sa&uacute;de foi abandonada. As doen&ccedil;as se alastram pelos bairros pobres, e o esgoto a c&eacute;u aberto &ndash; paisagem comum nas comunidades carentes-, faz com que os vetores de in&uacute;meras doen&ccedil;as se proliferem de modo a ferir e a matar a nossa popula&ccedil;&atilde;o mais desprotegida. Estamos na imin&ecirc;ncia de convivermos com uma epidemia de filariose e de tuberculose. E isso em pleno s&eacute;culo XXI!. O Recife est&aacute; enfermo.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Tamb&eacute;m nesta gest&atilde;o, a educa&ccedil;&atilde;o est&aacute; agonizando. A Prefeitura n&atilde;o tem aplicado o m&iacute;nimo constitucional de 25%, neste que deve ser o bem mais importante de uma na&ccedil;&atilde;o, a educa&ccedil;&atilde;o. Os &iacute;ndices do ensino b&aacute;sico colocam o Recife em &uacute;ltimo lugar entre as capitais do Brasil, segundo dados do pr&oacute;prio minist&eacute;rio da Educa&ccedil;&atilde;o.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Que condi&ccedil;&otilde;es pode ter o Recife para se inserir entre as maiores e melhores cidades do mundo, o que &eacute; a nossa voca&ccedil;&atilde;o hist&oacute;rica, se seus jovens n&atilde;o est&atilde;o tendo a educa&ccedil;&atilde;o merecida e se, justamente por isso, n&atilde;o conseguem fazer parte de uma sociedade informada e capacitada profissionalmente? Desta forma, n&atilde;o h&aacute; chances de sermos competitivos na era do conhecimento, senhor Secret&aacute;rio. O Recife est&aacute; carente de educa&ccedil;&atilde;o.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Nosso p&eacute;ssimo ensino &eacute; um desastre humano, que castiga sobretudo os mais carentes, e um crime contra o nosso futuro. Al&eacute;m de contribuir para que o Recife seja a capital campe&atilde; da viol&ecirc;ncia e onde uma juventude que, sem uma escola de qualidade e sem emprego, torna-se vulner&aacute;vel aos apelos da criminalidade. Ali&aacute;s, Secret&aacute;rio, na nossa administra&ccedil;&atilde;o, vamos assumir responsabilidades na &aacute;rea da seguran&ccedil;a p&uacute;blica, cooperando com os governos estadual e federal e com a sociedade. O Recife&nbsp;est&aacute; inseguro e violento.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Esta sua gest&atilde;o, secret&aacute;rio Jo&atilde;o da Costa, cuidou apenas de problemas pontuais, buscando apresentar solu&ccedil;&otilde;es superficiais, tempor&aacute;rias e perfumadas, para um Recife que fede, que adoece e que n&atilde;o cuida da educa&ccedil;&atilde;o de seus jovens. Desafio-lhe a demonstrar que um &uacute;nico dos nossos graves problemas estruturais &ndash; saneamento, transporte, lixo, educa&ccedil;&atilde;o, sa&uacute;de &ndash; foi resolvido ou sequer teve encaminhado o rumo para a sua supera&ccedil;&atilde;o nesses quase oito anos de gest&atilde;o.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Fazer uma obra aqui, outra ali, mais outra acol&aacute; pode at&eacute; ser bom para a vista de quem passa pela rua e pode tamb&eacute;m dar votos. Mas n&atilde;o resolve nossos problemas estruturais. Durante estes sete anos, o prefeito da cidade n&atilde;o se disp&ocirc;s a liderar um movimento metropolitano capaz de reunir os gestores das nossas cidades vizinhas. </font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Faz-se necess&aacute;rio um pacto metropolitano, um entendimento para resolver problemas importantes que n&atilde;o dizem respeito apenas ao Recife, mas a todas as cidades da Regi&atilde;o Metropolitana. E quem deve liderar este movimento &eacute; o prefeito da Capital, o prefeito do Recife. Mas o Recife est&aacute; sem lideran&ccedil;a.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Resultado: o Recife est&aacute; ficando para tr&aacute;s, reduzindo sua pobreza e mis&eacute;ria num ritmo inaceit&aacute;vel e sendo ultrapassado pelas outras capitais do Pa&iacute;s. O Recife perde terreno.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Secret&aacute;rio, o senhor ter&aacute; que responder a esta e a muitas outras perguntas inconvenientes, mas avbsolutamente razo&aacute;veis aos olhos dos recifenses. Ter&aacute;, enfim, que enfrent&aacute;-as, agora ou em breve. Eu vou cobrar-lhe estas respostas, o povo do Recife vai cobrar-lhe estas respostas.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Bem vindo ao debate.</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Raul Jungmann</font></p></p>
+<p><p align=\"justify\"><font face=\"Verdana\">Deputado Federal - PPS</font>&nbsp;</p></p>
+<p><p align=\"justify\"><em><font face=\"Verdana\" size=\"2\">PS: o texto de Jungmann abre a s&eacute;rie de artigos dos prefeitur&aacute;veis, publicados aqui no Blog.</font></em></p> </p>
+{% endraw %}

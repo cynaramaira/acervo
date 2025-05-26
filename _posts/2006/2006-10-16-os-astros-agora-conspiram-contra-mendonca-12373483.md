@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Nesta noite teremos o primeiro confronto direto entre Eduardo Campos e Mendonça Filho. Eles vão estar cara a cara na TV Clube, a partir das 22h, participando do primeiro debate do segundo turno.</FONT></P></p>
 <p><P><FONT face=Verdana>Hoje, por isso, é um dia de muita tensão, muita energia e imensa curiosidade sobre quem vai se sair melhor. Quem ganhará essa batalha?</FONT></P></p>
 <p><P><FONT face=Verdana>Sem conseguir conter a ansiedade e interessados em tentar antecipar o resultado do embate, decidimos apelar para os astros, conferindo o horóscopo do Jornal do Commercio (veja <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/\" target=_blank>aqui</A></EM></STRONG>).</FONT></P></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana color=blue><STRONG>Câncer</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>De 21/6 a 22/7 </FONT></P></p>
 <p><P><FONT face=Verdana>Se você está se sentindo exausto é porque você tem feito muitas coisas ao mesmo tempo. Corpo e mente agüentam até certo ponto. Preste atenção e veja se você não está se ocupando além do necessário para escapar de certos questionamentos com os quais não está querendo lidar agora.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

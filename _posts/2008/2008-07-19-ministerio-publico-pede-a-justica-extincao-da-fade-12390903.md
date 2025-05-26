@@ -1,0 +1,33 @@
+---
+id: 12390903
+date: "2008-07-19T11:11:18Z"
+last_modified_at: null
+tags:
+  - "justica"
+  - "ministerio"
+categories:
+  - "noticias"
+title: "Minist\u00e9rio P\u00fablico pede \u00e0 Justi\u00e7a extin\u00e7\u00e3o da Fade"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Sheila Borges<br /></p>
+<p>De Pol&iacute;tica do JC</p></p>
+<p><p>Ap&oacute;s quatro anos investigando den&uacute;ncias que o Minist&eacute;rio P&uacute;blico de Pernambuco (MPPE) recebeu contra a Funda&ccedil;&atilde;o de Apoio ao Desenvolvimento (Fade), da Universidade Federal de Pernambuco (UFPE), o promotor de Funda&ccedil;&otilde;es, Entidades e Organiza&ccedil;&otilde;es Sociais, Ulisses S&aacute; J&uacute;nior, entrou ontem com uma a&ccedil;&atilde;o civil p&uacute;blica pedindo a sua extin&ccedil;&atilde;o. Ao analisar o trabalho da Fade, concluiu que houve um desvirtuamento das atividades: de entidade sem fins lucrativos para dar assist&ecirc;ncia &agrave; UFPE se transformou em uma &ldquo;m&aacute;quina de burlar processos licitat&oacute;rios&rdquo;. A a&ccedil;&atilde;o foi distribu&iacute;da para a 11&ordf; Vara C&iacute;vel do Recife, cujo titular &eacute; o juiz Robson Jos&eacute; de Albuquerque Lima.</p></p>
+<p><p>No pedido de liminar, o promotor solicita a suspens&atilde;o das atividades da funda&ccedil;&atilde;o &ldquo;para que se estanque essa s&eacute;rie intermin&aacute;vel de ilegalidades&rdquo; at&eacute; o julgamento. Requisita, ainda, que a Receita Federal suspenda a inscri&ccedil;&atilde;o da entidade no Cadastro Nacional de Pessoas Jur&iacute;dicas (CNPJ). No m&eacute;rito, o MPPE espera que o juiz feche a Fade, determinando que os seus bens sejam incorporados ao patrim&ocirc;nio da UFPE.</p></p>
+<p><p>O inqu&eacute;rito civil, comandado por Ulisses S&aacute; J&uacute;nior, &eacute; minucioso, tem 18 volumes. Na a&ccedil;&atilde;o, fez um resumo dos principais fatos. O promotor juntou informa&ccedil;&otilde;es relativas &agrave; Fade de investiga&ccedil;&otilde;es promovidas pelos Minist&eacute;rios P&uacute;blicos Federal e do Trabalho, pela Controladoria-Geral da Uni&atilde;o e pelo Tribunal de Contas de Pernambuco, mostrando, assim, a diversifica&ccedil;&atilde;o dos servi&ccedil;os da funda&ccedil;&atilde;o, que n&atilde;o ficava restrita a apoiar os trabalhos de pesquisa e extens&atilde;o da UFPE.</p></p>
+<p><p>A Controladoria da Uni&atilde;o apontou nove irregularidades praticadas pela Fade, como a assinatura de contratos e conv&ecirc;nios que n&atilde;o est&atilde;o claramente identificados e quantificados, a realiza&ccedil;&atilde;o de vestibular e a manuten&ccedil;&atilde;o e limpeza patrimonial. O Minist&eacute;rio P&uacute;blico Federal questiona a participa&ccedil;&atilde;o da funda&ccedil;&atilde;o no processo de compra de um equipamento de U$$ 4,4 milh&otilde;es para o Hospital das Cl&iacute;nicas. O dinheiro p&uacute;blico era oriundo do Sistema &Uacute;nico de Sa&uacute;de. Mas para chegar &agrave; Philips, detentora do equipamento, a verba passava da UFPE para a Fade.</p></p>
+<p><p>Ao identificar o esquema operacional da funda&ccedil;&atilde;o, o MPPE comparou a institui&ccedil;&atilde;o a uma outra &ldquo;m&aacute;quina de burlar processos licitat&oacute;rios&rdquo;: a Funda&ccedil;&atilde;o de Empreendimentos Cient&iacute;ficos e Tecnol&oacute;gicos (Finatec), que &eacute; vinculada &agrave; Universidade de Bras&iacute;lia (UnB). A Finatec &eacute; investigada pelo Minist&eacute;rio P&uacute;blico do Distrito Federal. De acordo com Ulisses de S&aacute; J&uacute;nior, as duas entidades de direito privado s&atilde;o contratadas, na maioria das vezes, sem licita&ccedil;&atilde;o para movimentar recursos p&uacute;blicos.</p></p>
+<p><p>Sem corpo profissional adequado, subcontratam outras empresas, terceirizando o servi&ccedil;o. N&atilde;o se restringem a prestar apoio &agrave;s atividades de ensino, pesquisa e extens&atilde;o das universidades p&uacute;blicas.</p></p>
+<p><p>A Fade foi criada em 1981. &Eacute; apresentada como uma entidade que conta com uma &ldquo;estrutura &aacute;gil, flex&iacute;vel e experiente&rdquo;. E que faz diversos tipos de trabalho, como desenvolver e aprimorar tecnologias e produto, pesquisar, promover vestibulares, formar e treinar pessoal e at&eacute; organizar concurso.</p></p>
+<p><p>Na internet, a Fade deixa claro que o seu principal cart&atilde;o de visitas &eacute; o atrelamento institucional com a universidade p&uacute;blica. Por isso, &ldquo;coloca &agrave; disposi&ccedil;&atilde;o da sociedade o grande potencial produtivo da UFPE&rdquo; com seus 52 departamentos e 1.700 professores.</p></p>
+<p><p>INVESTIGA&Ccedil;&Atilde;O</p></p>
+<p><p>Nos &uacute;ltimos doze anos, segundo o Minist&eacute;rio P&uacute;blico de Pernambuco, a Funda&ccedil;&atilde;o de Apoio ao Desenvolvimento (Fade) recebeu R$ 300 milh&otilde;es em recursos federais, isso sem contar com os repasses feitos por governos estaduais e municipais. Como &eacute; uma entidade privada sem fins lucrativos que d&aacute; apoio &agrave; UFPE, a Fade firma a maioria de seus contratos sem licita&ccedil;&atilde;o.</p></p>
+<p><p>O promotor de Funda&ccedil;&otilde;es, Ulisses de S&aacute; J&uacute;nior, verificou que a entidade terceirizava os servi&ccedil;os. &ldquo;Informou que s&oacute; tinha 119 empregados, como poderia realizar tantos contratos e fazer os trabalhos&#63;&rdquo;, indagou, citando, como exemplo, contratos firmados para constru&ccedil;&atilde;o e reforma de pr&eacute;dios p&uacute;blicos, execu&ccedil;&atilde;o do Carnaval Multicultural do Recife, limpeza e jardinagem do c&acirc;mpus da UFPE.</p></p>
+<p><p>At&eacute; servidores da universidade eram subcontratados. &ldquo;S&atilde;o admitidos em regime de dedica&ccedil;&atilde;o exclusiva, mas realizam constantemente trabalhos para a Fade. A funda&ccedil;&atilde;o criou uma esp&eacute;cie de servidores diferenciados&rdquo;, descreve.</p></p>
+<p><p>A Fade foi contratada, sem licita&ccedil;&atilde;o, at&eacute; pela Prefeitura de Nova Igua&ccedil;u (RJ), em 2006, por R$ 2 milh&otilde;es. O objetivo era modernizar a m&aacute;quina p&uacute;blica. A funda&ccedil;&atilde;o, segundo o processo, subcontratou 90% desse servi&ccedil;o, que ficou sendo realizado pela Simplestec Inform&aacute;tica, empresa sediada em Jo&atilde;o Pessoa (PB).</p></p>
+<p><p>Em 2002, a entidade tamb&eacute;m foi contratada para prestar consultoria &agrave; Ag&ecirc;ncia Nacional de Petr&oacute;leo por R$ 3,6 milh&otilde;es. Nesse caso, subcontratou a Datam&eacute;trica, dos professores da UFPE Alexandre Rands &ndash; irm&atilde;o do l&iacute;der do PT na C&acirc;mara, Maur&iacute;cio Rands &ndash; e Analice Amazonas.</p> </p>
+{% endraw %}

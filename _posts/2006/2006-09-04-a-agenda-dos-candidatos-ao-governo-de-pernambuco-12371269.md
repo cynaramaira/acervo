@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B></p>
 <p><P><FONT face=Verdana><STRONG>11h</STRONG>, entrevista à Rádio Liberdade de Caruaru, por telefone </FONT></P></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>13h</FONT></B><FONT face=Verdana>,<B> </B>no Cabo de Santo Agostinho, almoço com lideranças empresariais</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>15h</STRONG>, no Cabo de Santo Agostinho, d</FONT><FONT face=Verdana>ebate sobre programa de governo com movimento de jovens</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>19h</STRONG>, d</FONT><FONT face=Verdana>ebate sobre programa de governo na área cultural. Local: Armazém 14</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

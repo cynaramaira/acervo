@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana><STRONG>MENDONÇA FILHO (PFL)</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>19h</STRONG>, participa de um debate promovido pelo IASC sobre Segurança Pública. Local: Universidade Católica de Pernambuco (Unicap), auditório do bloco G </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>20h30</STRONG>, participa da inauguração do comitê do deputado estadual Augusto Coutinho. Local: Rua Montevidéu, 85, Boa Vista. </FONT></P></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>15h30</STRONG>, em Olinda, participa de caminhada com o deputado André Luiz de Farias, o Alf, em Peixinhos</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>18h</STRONG>, participa de caminhada na Universidade Rural de Pernambuco (URFPE) e, ao final, assiste à palestra do escritor Ariano Suassuna </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>21h</STRONG>, prestigia o jantar de adesão de Jair Pereira, na Blue Angel</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

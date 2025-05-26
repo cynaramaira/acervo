@@ -1,0 +1,42 @@
+---
+id: 12378144
+date: "2007-04-27T00:13:00Z"
+last_modified_at: null
+tags:
+  - "mendonca"
+  - "recife"
+categories:
+  - "noticias"
+title: "Mendon\u00e7a mant\u00e9m estilo contido na volta ao Recife"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><P><FONT face=Verdana>Depois de três meses estudando na Universidade de Harvard, nos Estados Unidos, o ex-governador Mendonça Filho voltou ao Recife nesta quinta (26). </FONT></P></p>
+<p><P><FONT face=Verdana>Ele foi recebido por deputados, ex-secretários, assesores e militantes do Democratas que formaram um grupo de mais de 200 pessoas no Aeroporto Internacional do Recife. </FONT></P></p>
+<p><P><FONT face=Verdana>A&nbsp;manifestação lembrou momentos da campanha ao governo no ano passado. Mendonça&nbsp;se manteve cauteloso em sua primeira entrevista. E não quis responder às críticas disparadas nas últimas semanas pelo governador Eduardo Campos.</FONT></P></p>
+<p><P><FONT face=Verdana>Leia os principais trechos.</FONT></P></p>
+<p><P><STRONG><FONT face=Verdana>CRÍTICAS DE EDUARDO</FONT></STRONG></P></p>
+<p><P><FONT face=Verdana>“Eu não vou dizer que estou absolutamente desinformado com relação à política local porque seria hipocrisia. Mas todo o acompanhamento que eu tive com relação aos desdobramentos políticos desses três meses em que estive fora foi muito à distância, acompanhamento não sistemático. É diferente de se sentir a temperatura, o calor humano do povo de Pernambuco, a realidade política no dia-a-dia. Seria uma precipitação fazer qualquer avaliação nesses instante que acabo de chegar”.</FONT></P></p>
+<p><P><STRONG><FONT face=Verdana>HORA DE REBATER</FONT></STRONG></P></p>
+<p><P><FONT face=Verdana>“Eu serei o político que sempre fui: afirmativo, direto e sintonizado com o povo de Pernambuco que é a terra que eu amo, respeito e tenho um carinho todo especial. É dessa forma que eu vou me conduzir. Sempre me conduzi dessa maneira, com ética e responsabilidade e é dessa maneira que vou continuar me conduzindo”. </FONT></P></p>
+<p><P><STRONG><FONT face=Verdana>DIREÇÃO DOS DEMOCRATAS</FONT></STRONG></P></p>
+<p><P><FONT face=Verdana>“Vou assumir a presidência do partido, já está inclusive homologado pela executiva nacional. Mantive contato, durante esse período, com o deputado André de Paula, com o senador Marco Maciel, com vários parlamentares do ex-PFL, e a gente vai trabalhar de forma articulada, organizada, visando a estruturação do partido em todo o território estadual”.</FONT></P></p>
+<p><P><STRONG><FONT face=Verdana>PRIMEIROS PASSOS</FONT></STRONG></P></p>
+<p><P><FONT face=Verdana>“Como todo trabalho, é preciso ter planejamento. É preciso ter uma rota a ser seguida, objetivos muito claros e a gente quer fazer com que o Democratas possa ter a maior e mais eficaz sintonia e inserção social dentro da realidade política pernambucana. Nós vamos trabalhar nesse sentido e com esse propósito”.</FONT></P></p>
+<p><P><STRONG><FONT face=Verdana>FIM DA ALIANÇA</FONT></STRONG></P></p>
+<p><P><FONT face=Verdana>“Eu acho que ele (Sérgio Guerra) tem razão&nbsp;no sentido de que esse momento novo da política exige uma discussão a partir de uma nova realidade. Vai ao encontro da estratégia de cada partido de discutir seus rumos eleitorais para 2008 de forma interna para que depois se possa estabelecer canais de comunicação em nível de outros partidos. O processo eleitoral de 2008 tem uma longa história pela frente. E aí a gente tem que ter primeiro discussões internas, dentro do Democratas, e depois a gente estabelece comunicação e diálogo com outras forças políticas que compõem as forças da oposição em Pernambuco. Os partidos conversarem individualmente é a lógica normal da política, cada partido discutir internamente sua estratégia, seu rumo, o seu caminho, e a partir daí você pode ter sintonia que finalize e que signifique amplitude em termos de universo das forças oposicionistas”.</FONT></P></p>
+<p><P><STRONG><FONT face=Verdana>CANDIDATURA EM 2008</FONT></STRONG></P></p>
+<p><P><FONT face=Verdana>“Eu mal saí de uma eleição. O que eu coloco claramente é que o Democratas terá uma inserção política muito importante no processo eleitoral de 2008. E dentro do Recife nós temos nomes de peso, de tradição, alguns deles tiveram inclusive a oportunidade de ser prefeito e governador, como é o caso de Roberto Magalhães, Joaquim Francisco, Krause...Dentro dessa nova geração tem figuras como o próprio André de Paula. A gente discute isso oportunamente. Eu não tenho pressa para discutir esses temas, até porque mais de um ano em política, quem acompanha política sabe que é muito tempo. E a gente tem muito tempo pela frente. O que vocês podem esperar de mim é muito trabalho, muita dedicação, muita luta em favor e em defesa dos maiores e mais representativos interesses de Pernambuco”.</FONT></P></p>
+<p><P><STRONG><FONT face=Verdana>DERROTA EM 2006</FONT></STRONG></P></p>
+<p><P><FONT face=Verdana>“A derrota nunca me desanimou em nada. Nunca, nunca na vida. Nada me desanima.”</FONT></P></p>
+<p><P><STRONG><FONT face=Verdana>CURSO NO EXTERIOR</FONT></STRONG></P></p>
+<p><P><FONT face=Verdana>“Eu tive atuação nas áreas de macro-economia e de governo na área teórica. Foi um ambiente muito interessante porque abre oportunidades para que você tenha espaço de discussão dos mais variados temas. Muito freqüentemente você acompanha workshops e seminários de temas relevantes que, em alguns casos, têm muita compatibilidade com a realidade do Brasil. Por exemplo, um dos palestrantes foi o prefeito de Bogotá (Colombia) sobre o tema da violência, que contou com uma presença muito grande da comunidade latina. Outros&nbsp;mais ligados à psicologia social, como é o caso do Daniel Godman, autor do livro Inteligência Emocional. Então eu aproveitei também para me inserir em termos de transporte, infra-estrutura, energia, que pudessem ter a ver com meu histórico de vida, de trabalho, minha experiênica de homem público. Eu sempre fui um homem público que guardou um espaço para me reciclar, renovar conhecimentos, olhar o mundo em perspectiva. É a terceira vez que vou para uma universidade e dessa vez eu tive oportunidades de aproveitar ao máximo a grande oferta de conhecimento proporcionada por um grande centro de conhecimento que é a Universidade de Harvard”.</FONT></P></p>
+<p><P><STRONG><FONT face=Verdana>FIM DA REELEIÇÃO</FONT></STRONG></P></p>
+<p><P><FONT face=Verdana>“Eu não vejo uma discussão sadia como ela está sendo posta. Ela está sendo posta a partir do interesse particular dos querem casar o modelo institucional do País com a sua vontade pessoal. E para mim isso é terrível. A discussão que se dá com relação à rediscussão da emenda da reeleição é uma discussão que sempre se dá tendo como base o contexto pessoal, o interesse pessoal, de um governador ‘a’ que quer ser candidato a presidente em tal ano e quer ter um pacto para ter outro governador como sucessor; o retorno do atual presidente da República em 2014. E&nbsp;eu acho que a institucionalidade do País não pode depender de pessoas, de vontades de pessoais. Ela tem que ser além de pessoas. Quando eu apresentei a emenda da reeleição, no que pese sempre muita polêmica sobre o interesse de ‘a’, ‘b’ ou ‘c’ com relação a sua aprovação, eu sempre pensei dentro do contexto institucional, da modernização institucional”.</FONT></P></p>
+<p><P><STRONG><FONT face=Verdana>MANDATO DE CINCO ANOS</FONT></STRONG></P></p>
+<p><P><FONT face=Verdana>“Não é uma discussão fácil de ser estabelecida. Eu, particulamente, sou contrário. A tendência no mundo é de mandatos até mais curtos. Nos Estados Unidos se tem mandato de dois anos.&nbsp;O povo hoje já tem pouca sintonia de acompanhamento do trabalho do Parlamento com uma eleição renovada a cada quatro anos. O&nbsp;que dirá com cinco anos? Não vejo como organizar esse calendário eleitoral de forma tão fácil como alguns estão dizendo. Com eleição de cinco em cinco anos, casar eleição municipal com a estadual, é uma complicação muito grande. A democracia brasileira é jovem, ela precisa de maturação, de tempo. E eu sou um exemplo de que a reeleição não significa renovação direta de mandato”.</FONT></P></p>
+<p><P><FONT face=Verdana><EM>(Com Ana Lúcia Andrade, da Editoria de Política do JC)</EM></FONT></P> </p>
+{% endraw %}

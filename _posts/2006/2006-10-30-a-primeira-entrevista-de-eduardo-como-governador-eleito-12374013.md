@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Veja, em tópicos, o que Eduardo Campos (PSB)&nbsp;disse na entrevista coletiva que ele concedeu no domingo, no Recife Monte Hotel, em Boa Viagem, logo após confirmada sua vitória nas urnas. </FONT></P></p>
 <p><P><FONT face=Verdana>Do </FONT><B><FONT face=Verdana>Jornal do Commercio</FONT></P></p>
@@ -32,4 +32,4 @@ imagem: null
 <p><P><FONT face=Verdana>REFORMA DO ESTADO</FONT></B><BR><FONT face=Verdana>Vamos estruturar uma equipe técnica de transição. As pessoas irão fazer um levantamento inicial. Em princ?pio, não temos grandes alterações a não ser criar espaço para a Cultura. O Estado que tem uma cena como a nossa não pode deixar de ter uma secretaria. Não faremos grandes alterações. Minha preocupação é com o conteúdo.</FONT></P><B></p>
 <p><P><FONT face=Verdana>SECRETARIADO</FONT></B><BR><FONT face=Verdana>Começa agora o puxa-encolhe. Especulação aqui e acolá. Só vou decidir equipe em dezembro. Em novembro, vou tomar pé da situação. Temos muita gente capaz para as vagas que temos. Vamos ver o perfil para cada secretaria.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia na ?ntegra </FONT></FONT><A href=\"https://jc3.uol.com.br/jornal/2006/10/30/can_9.php\" target=_blank><B><I><FONT color=#0000ff size=2><FONT face=Verdana>aqui</FONT></B></I></FONT></A><FONT size=2><FONT face=Verdana> (assinantes JC e UOL).</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

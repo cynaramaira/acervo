@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><TABLE cellSpacing=10 cellPadding=0 width=\"100%\" border=0></p>
 <p><TBODY></p>
 <p><TR></p>
@@ -190,4 +190,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana><STRONG>COMENT??RIO MEU:<o:p></o:p></STRONG></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-pagination: none; mso-layout-grid-align: none\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></SPAN></P><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: \Times New Roman\; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA\"><FONT face=Verdana>Gente dentro da Videoteipe garante que faltou mesmo foi dinheiro. E continua faltando.</FONT></SPAN></FONT><FONT face=\"Times New Roman\"> </FONT></p>
 <p><P></P></A></TD></TR></TBODY></TABLE> </p>
-{\% endraw %}
+{% endraw %}

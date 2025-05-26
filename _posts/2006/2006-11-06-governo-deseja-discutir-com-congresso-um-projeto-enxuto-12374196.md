@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Da <STRONG>Agência Estado</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Nos últimos anos, o Congresso se dividiu sobre o conteúdo de uma proposta de reforma pol?tica. Propostas pontuais, como a criação da cláusula de barreira para partidos, têm sido aprovadas sem nunca produzir consenso. </FONT></P></p>
 <p><P><FONT face=Verdana>Por saber dessa realidade, o governo pretende discutir com o Congresso, em 2007, uma reforma pol?tica enxuta, restrita a quatro pontos: fidelidade partidária, financiamento público de campanhas, sistema distrital e voto em listas partidárias.</FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>Além disso, não se sabe ainda ao certo como ficarão os partidos para o próximo ano. Por conta dos efeitos da cláusula de barreira, que restringe as vantagens e o funcionamento dos partidos que tiveram menor votação, alguns processos de fusão de legendas estão em curso para driblar a nova lei. </FONT></P></p>
 <p><P><FONT face=Verdana>(...)</FONT></P></p>
 <p><P><FONT face=Verdana>Outro ponto de incertezas é o financiamento público de campanhas O assunto divide opiniões no Congresso, já que os parlamentares temem uma reação negativa da opinião pública com a aprovação de gastos públicos para custear campanhas pol?ticas. Além disso, não existe a certeza de que a proposta represente o fim do uso </FONT><FONT face=Verdana>do caixa 2 para arrecadar recursos de campanha.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

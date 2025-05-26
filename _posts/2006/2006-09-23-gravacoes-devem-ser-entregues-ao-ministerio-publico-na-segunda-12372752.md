@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>Pois bem, as gravações citadas no post abaixo serão encaminhadas ao Ministério Público Eleitoral na segunda-feira.</P></p>
 <p><P>Mas, segundo me informaram, os três principais palanques ao governo de Pernambuco já sabem há alguns dias do que se trata.</P> </p>
-{\% endraw %}
+{% endraw %}

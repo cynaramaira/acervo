@@ -16,8 +16,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O pesquisador Fábio Hazim foi acusado pelo Ministério Público Federal de promover pesca predatória de tubarões no nosso litoral.</FONT></P></p>
 <p><P><FONT face=Verdana>Se é verdade ou não, não é poss?vel afirmar com segurança.</FONT></P></p>
 <p><P><FONT face=Verdana>No entanto, alguns leitores atentos do Blog do JC relataram a presença de um grande tubarão branco nas águas de Porto de Galinhas.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

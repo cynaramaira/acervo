@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Ramos<BR></STRONG>Repórter do Blog </FONT></P></p>
 <p><P><FONT face=Verdana>As contas do Estado serão o principal objeto de estudo da equipe do governador eleito, Eduardo Campos (PSB), neste per?odo de transição. Foi o que ficou decidido, hoje, em reunião no 6º andar do Banco do Brasil, liderada pelo vice-governador eleito e coordenador do grupo, João Lyra Neto. </FONT></P></p>
@@ -42,4 +42,4 @@ imagem: null
 <p><P><FONT face=Verdana>Eduardo Campos</FONT></P></B></p>
 <p><P><FONT face=Verdana>Desde quinta-feira descansando no litoral baiano, o socialista volta ao batente nesta terça-feira, mas, segundo sua assessoria de imprensa, ele não tem agenda pública. Continuará \"mergulhado\" em reuniões internas.</FONT></P></p>
 <p><P><FONT face=Verdana>De acordo com João Lyra, paralalamente à transição Eduardo receberá prefeitos no seu gabinete provisório, no Banco do Brasil. Ouvirá as demandas deles, dando especial atenção àqueles cujos pedidos não podem esperar a posse do socialista, no dia 1º de janeiro.</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -13,6 +13,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>O<FONT face=Verdana> senado da República acaba de aprovar a ampliação de capacidade de financiamento para que a Transpetro possa contratar os navios do estaleiro da Camargo Correa.</FONT>  </p>
-{\% endraw %}
+{% endraw %}

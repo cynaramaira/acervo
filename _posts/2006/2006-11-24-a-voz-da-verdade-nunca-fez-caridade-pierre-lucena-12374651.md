@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Pierre Lucena*</STRONG><BR>Professor e administrador <BR></FONT><A href=\"mailto:pierre.lucena@contagemweb.com.br\"><FONT face=Verdana>pierre.lucena@contagemweb.com.br</FONT></A></P></p>
 <p><P><FONT face=Verdana>A vitória de Jayme Asfora para Presidente da OAB na semana passada foi encarada por muitos como surpresa, porém estávamos alertando, há 2 semanas, que a eleição era imprevis?vel, e que Julio Oliveira poderia não renovar seu mandato na Ordem, conforme pesquisa da Contagem Consultoria Estratégica e Pesquisa.</FONT></P></p>
 <p><P><FONT face=Verdana>Podemos tirar várias conclusões dessa eleição, mas a primeira delas é que a disputa na OAB se travou por classes, com suas exceções, logicamente. Julio tinha vantagem no interior, e entre os mais velhos, e Jayme entre os mais novos. Quem ficou na apuração no Chevrolet Hall percebeu esse detalhe.</FONT></P></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>O resultado está a?. Como dizia Roberto Frejat em uma música do Barão Vermelho: “A voz da verdade nunca fez caridade???. Nas urnas, a vontade do povo aparece, e contra ela não há o que fazer.</FONT></P></p>
 <p><P><FONT face=Verdana>Boa sorte a Jayme e Eduardo, e parabéns aos advogados de Pernambuco, que participaram com entusiasmo desta eleição.</FONT></P></p>
 <p><P><EM><FONT face=Verdana><STRONG>*Pierre Lucena</STRONG>, 35, doutor em finanças pela PUC-Rio, Mestre em Economia e Administrador pela UFPE, é professor-adjunto da Universidade Federal de Pernambuco, sócio da Contagem Consultoria Estratégica e Pesquisa (</FONT></EM><A href=\"https://www.contagemweb.com.br\"><EM><FONT face=Verdana>www.contagemweb.com.br</FONT></EM></A><EM><FONT face=Verdana>). Foi secretário-adjunto de Educação do Estado. É Coordenador do Núcleo de Finanças e Investimentos do Departamento de Ciências Administrativas da UFPE (NEFI).</FONT></EM></P> </p>
-{\% endraw %}
+{% endraw %}

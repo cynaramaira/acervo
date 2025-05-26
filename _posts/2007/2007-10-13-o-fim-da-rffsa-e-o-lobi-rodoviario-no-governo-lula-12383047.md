@@ -1,0 +1,37 @@
+---
+id: 12383047
+date: "2007-10-13T11:30:00Z"
+last_modified_at: null
+tags:
+  - "governo"
+  - "lula"
+  - "rodoviarios"
+categories:
+  - "noticias"
+title: "O fim da RFFSA e o l\u00f3bi rodovi\u00e1rio no governo Lula"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\"><em>Por <strong>Ed&iacute;lson Silva*</strong></em><br /></p>
+<p><br /></p>
+<p>Em maio de 1987 ingressei pela primeira vez numa oficina ferrovi&aacute;ria. Iniciaria ali um de meus est&aacute;gios do curso de t&eacute;cnico eletromec&acirc;nico. Na conversa com o engenheiro respons&aacute;vel pela supervis&atilde;o do est&aacute;gio, um quadro na sala me chamou a aten&ccedil;&atilde;o, com uma foto de uma imponente locomotiva GE e uma frase logo acima: &quot;30 anos de vida. A RFFSA vai longe&quot;. E eu vou junto, pensei, do &quot;alto&quot; dos meus 19 anos. Ingressei no quadro efetivo da empresa e nela permaneci at&eacute; o ano 2000, especializando-me neste per&iacute;odo na manuten&ccedil;&atilde;o de locomotivas e seus componentes.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O quadro na sala do engenheiro fazia parte de uma iniciativa do governo Jos&eacute; Sarney, em comemora&ccedil;&atilde;o aos 30 anos de funda&ccedil;&atilde;o da RFFSA &ndash; Rede Ferrovi&aacute;ria Federal. Em 30 de setembro de 1957, o Estado brasileiro definiu criar a RFFSA, encampando e unificando as muitas ferrovias regionais existentes a &eacute;poca, em sua maioria constru&iacute;das ainda no &quot;per&iacute;odo dos ingleses&quot;, respons&aacute;veis pela chegada ao Brasil da tecnologia ferrovi&aacute;ria.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Os objetivos de cria&ccedil;&atilde;o da RFFSA eram ao mesmo tempo corretos e vision&aacute;rios. Unificar a malha ferrovi&aacute;ria nacional, normatizar procedimentos de ordem&nbsp;t&eacute;cnico- operacional, reduzir custos, elevar a produtividade, integrar e interligar o pa&iacute;s pelos trilhos, o meio de transporte terrestre mais barato que se conhece.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Dez anos ap&oacute;s o meu ingresso na estatal, em 1997, a cria&ccedil;&atilde;o da RFFSA completava 40 anos. Diferentemente de um quadro imponente comemorando a data e avisando que a empresa iria longe, a comunidade ferrovi&aacute;ria debatia-se contra a privatiza&ccedil;&atilde;o. A empresa tinha sobrevivido aos governos Collor e Itamar, mas n&atilde;o conseguia demover o governo FHC da id&eacute;ia fixa de dar uma marcha-r&eacute; na matriz de transporte do pa&iacute;s, fragmentando a j&aacute; fr&aacute;gil unidade ferrovi&aacute;ria nacional.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Para al&eacute;m dos aspectos de concep&ccedil;&atilde;o de gest&atilde;o e papel do Estado na organiza&ccedil;&atilde;o da vida econ&ocirc;mica do pa&iacute;s, a proposta de privatiza&ccedil;&atilde;o da RFFSA era particularmente perversa. O modelo apresentado dividia a malha ferrovi&aacute;ria em seis peda&ccedil;os, sem definir compromissos com a manuten&ccedil;&atilde;o de uma pol&iacute;tica de integra&ccedil;&atilde;o ferrovi&aacute;ria do pa&iacute;s, sem compromisso com a filosofia que norteou a cria&ccedil;&atilde;o da RFFSA. Era a exacerba&ccedil;&atilde;o da panac&eacute;ia neoliberal, colocando nas m&atilde;os do mercado o futuro de uma &aacute;rea estrat&eacute;gica e<br /></p>
+<p>que precisa de planejamento de longo prazo, sempre.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A malha ferrovi&aacute;ria foi fatiada, atrav&eacute;s de concess&otilde;es de 30 anos de uso para setores privados. O governo argumentava que a privatiza&ccedil;&atilde;o se justificava pela falta de recursos p&uacute;blicos para investir na malha, contudo, as empresas concession&aacute;rias foram buscar em fundos p&uacute;blicos, como o BNDES, recursos para fazer os &quot;investimentos privados&quot;.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">No &uacute;ltimo dia 30 de setembro a RFFSA completaria 50 anos, mas foi liquidada antes disso, em 31 de maio de 2007, sob o comando do governo Lula e sob os protestos da comunidade ferrovi&aacute;ria, da imensa &quot;fam&iacute;lia&quot; ferrovi&aacute;ria, &agrave; qual me incluo.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O transporte ferrovi&aacute;rio nacional privatizado mergulhou completamente na l&oacute;gica do mercado. O transporte social e como fator de integra&ccedil;&atilde;o nacional e regional acabou-se, dando lugar &agrave; quase exclusividade de corredores altamente lucrativos, geralmente em dire&ccedil;&atilde;o aos portos e para exporta&ccedil;&atilde;o.<br /></p>
+<p><br /></p>
+<p>Em Pernambuco, o fechamento da Linha Centro, que ligava Recife ao Agreste, e sobre a qual corria o Trem do Forr&oacute;, &eacute; um exemplo concreto desta op&ccedil;&atilde;o dos governantes de nosso pa&iacute;s. Uma empresa privada n&atilde;o quer saber se esta linha&nbsp;&eacute; estrat&eacute;gica ou interessante para a sociedade, se pode dinamizar o turismo regional, transportar estudantes, desafogar o tr&aacute;fego de ve&iacute;culos na BR 232, diminuindo assim o custo elevado com manuten&ccedil;&atilde;o rodovi&aacute;ria. O que importa &eacute; o lucro privado, de curto prazo.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Entro neste tema esta semana por que no &uacute;ltimo dia 09/10, ter&ccedil;a-feira, na Bolsa de Valores de S&atilde;o Paulo, o governo federal privatizou sete trechos de rodovias federais, que passar&atilde;o a ter ped&aacute;gios. A irracionalidade continua, e se aprofunda.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">A &quot;filosofia&quot; ferrovi&aacute;ria sempre teve no Brasil inimigos poderosos, organizados no que chamamos de &quot;l&oacute;bi rodovi&aacute;rio&quot;. Interesses econ&ocirc;micos de distribuidoras de combust&iacute;veis, fabricantes de autope&ccedil;as, pneus, ve&iacute;culos pesados, empreiteiras que adoram tapar buracos, etc., se fazem refletir nas op&ccedil;&otilde;es pol&iacute;ticas sobre a matriz de transporte no Brasil, sobretudo de carga.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Num pa&iacute;s com a nossa topografia, com nosso potencial de mercado interno e com nossas demandas, fazer a op&ccedil;&atilde;o pelo modal rodovi&aacute;rio &eacute; de uma irracionalidade inconceb&iacute;vel. A economia do pa&iacute;s perde em custo direto, pois o transporte ferrovi&aacute;rio consome, em m&eacute;dia, 20 vezes menos combust&iacute;vel que o rodovi&aacute;rio. H&aacute; ainda custos adicionais com acidentes, ru&iacute;dos, polui&ccedil;&atilde;o, seguros, dentre outros.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Para a infelicidade do pa&iacute;s, o governo Lula n&atilde;o reestabeleceu a RFFSA e n&atilde;o cobra das concession&aacute;rias ferrovi&aacute;rias as poucas metas que assumiram no momento dos leil&otilde;es de privatiza&ccedil;&atilde;o. Ao contr&aacute;rio, segue a l&oacute;gica rodoviarista e, pior, com aprofundamento das privatiza&ccedil;&otilde;es, deixando patente seu radicalismo neoliberal.<br /></p>
+<p><br /></p>
+<p><em>*Edilson Silva &eacute; presidente do PSOL-PE e escreve &agrave;s sextas para o Blog do Jamildo (excepcionalmente, esta semana, o post do seu artigo foi publicado no s&aacute;bado). Ele &eacute; tamb&eacute;m um dos articulistas do especial Tropa de Elite, que voc&ecirc; confere na barra do lado esquerdo.</em></font></p> </p>
+{% endraw %}

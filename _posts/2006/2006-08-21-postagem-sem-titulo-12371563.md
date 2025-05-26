@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana><STRONG>\"Eu tenho um arrependimento em minha vida pol?tica, o de nunca ter votado em Dr. Arraes. Quero resgatar essa d?vida ajudando a eleger Eduardo\"</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Do deputado <STRONG>Inocêncio Oliveira</STRONG>, durante ato de campanha com Eduardo Campos, no final de semana, em Afogados da Ingazeira</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

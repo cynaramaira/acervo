@@ -1,0 +1,28 @@
+---
+id: 12405647
+date: "2009-09-11T00:49:00Z"
+last_modified_at: null
+tags:
+  - "pre"
+categories:
+  - "noticias"
+title: "Indigest\u00e3o de pr\u00e9-sal"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>por Renato Lima, dos EUA especial para o Blog de Jamildo</p></p>
+<p><p>Depois de 2 anos cozinhando-a internamente, o governo mandou para o Congresso a sua proposta para o marco regulat&oacute;rio da explora&ccedil;&atilde;o do petr&oacute;leo na camada pr&eacute;-sal. Em democracias s&eacute;rias, agora &eacute; que o debate teria in&iacute;cio, com os representantes do povo analisando o que deveria ser n&atilde;o mais do que uma sugest&atilde;o. Mas aqui em Bruzundangas, o Congresso tem o papel apenas de referendar o que o caudilho Lula mandou. A ordem do Executivo &eacute; urg&ecirc;ncia e votar em 45 dias.</p></p>
+<p><p>&Eacute; no m&iacute;nimo um acinte passar dois anos em debates fechados e querer que o Congresso vote um tema sobre o futuro do pa&iacute;s sem tempo para refletir e ponderar alternativas. O PT gostava de fazer audi&ecirc;ncia p&uacute;blica para construir um cal&ccedil;amento de rua atrav&eacute;s de plen&aacute;ria do Or&ccedil;amento Participativo nas prefeituras. J&aacute; bilh&otilde;es, deixa que o Executivo em Bras&iacute;lia gaste da forma que lhe aprouver.</p></p>
+<p><p>O pr&eacute;-sal sempre foi tratado com nacionalismo retr&oacute;grado e grandiloq&uuml;&ecirc;ncia id&iacute;lica. Do an&uacute;ncio &agrave; rid&iacute;cula id&eacute;ia do pa&iacute;s integrar a OPEP, o assunto foi marcado mais por devaneios do que seriedade &ndash; pelo menos dentro do governo e da aparelhada ANP. O Brasil do pr&eacute;-sal &eacute; Pas&aacute;rgada. Mas cuidado, Bandeira: l&aacute;, Lula &eacute; que &eacute; o rei.</p></p>
+<p><p>Eu mesmo entrevistei algumas vezes tanto a ministra chefe da Casa Civil, Dilma Roussef, quanto o ministro das Minas e Energias, Edison Lob&atilde;o (sarneyzista de carteirinha), sobre o tal estudo do marco regulat&oacute;rio. Nessas ocasi&otilde;es &mdash; na assinatura de algum protocolo, um palanque para discurso, quando os jornalistas abordam as autoridades para perguntar sobre diversos temas &mdash;foi poss&iacute;vel registrar algum depoimento sobre o processo dos debates internos. De resto, foi tudo totalmente sem transpar&ecirc;ncia.</p></p>
+<p><p>Por v&aacute;rias vezes, Lob&atilde;o disse que o programa estava praticamente pronto, que ia ser levado para o presidente dar a palavra final. N&atilde;o mais do que pitadas de id&eacute;ias eram jogadas nesse tempo &mdash; mas j&aacute; suficiente para levar cr&iacute;ticas, por sinal. Em setembro de 2008, no auge da crise econ&ocirc;mica, a tal comiss&atilde;o de s&aacute;bios do governo teve que voltar atr&aacute;s e perceber que o pre&ccedil;o do petr&oacute;leo tamb&eacute;m podia cair. Os &acirc;nimos refrearam um pouco e o projeto deixou de ser enviado logo. Depois, voltaram a discutir e apresentaram agora a proposta. Que, vale ressaltar outra vez, em Pa&iacute;s decente seria apenas uma proposta, um in&iacute;cio de conversa, um ponto de partida para muitos debates em audi&ecirc;ncias p&uacute;blicas, imprensa, Congresso e inclusive tema de debate para a elei&ccedil;&atilde;o presidencial do pr&oacute;ximo ano.</p></p>
+<p><p>O que seria mais urgente para o Pais, votar sem ler um marco regulat&oacute;rio do pr&eacute;-sal ou concluir uma reforma tribut&aacute;ria, sobre h&aacute; qual se fala h&aacute; mais de uma d&eacute;cada&#63; Criar a Petrosal ou construir os pres&iacute;dios federais e de fato combater a alt&iacute;ssima criminalidade nas cidades brasileiras&#63; Por sinal, onde est&atilde;o as prometidas PPPs, de que Guido Mantega falava desde quando foi comandar o BNDES em 2004&#63;</p></p>
+<p><p>O pr&eacute;-sal &eacute; uma &ldquo;ben&ccedil;&atilde;o&rdquo; da abertura do setor de petr&oacute;leo de 1997, da sacudida de que a Petrossauro necessitou para come&ccedil;ar a competir. Antes disso, nossas reservas de petr&oacute;leo estavam deitadas em ber&ccedil;o espl&ecirc;ndido. Agora, querem oficializar a Petrossauro com uma pequena variante: Petrosal. Seria para rir, n&atilde;o fosse eu me lembrar que estou falando do meu pa&iacute;s. Pois tenho algumas r&aacute;pidas sugest&otilde;es para debater o assunto.</p></p>
+<p><p>Devemos criar uma estatal para isso, tendo j&aacute; uma empresa de produ&ccedil;&atilde;o (Petrobras) e um &oacute;rg&atilde;o regulador (ANP)&#63; Os recursos advindos da extra&ccedil;&atilde;o n&atilde;o poderiam ser usados para capitalizar nosso passivo de previd&ecirc;ncia p&uacute;blica e migrar paulatinamente os segurados de hoje de reparti&ccedil;&atilde;o para capitaliza&ccedil;&atilde;o&#63; Adianta colocar em educa&ccedil;&atilde;o com a atual inefici&ecirc;ncia da escola p&uacute;blica&#63; A acreditar em um d&eacute;cimo do potencial do pr&eacute;-sal que o governo diz que tem, &eacute; assunto s&eacute;rio que n&atilde;o &eacute; para ser tratado no tempo em que se cria um galeto.</p></p>
+<p><p>Nessa discuss&atilde;o, h&aacute; muito sal e pouca prote&iacute;na. Do jeito que o governo quer, estamos condenados a um debate intelectualmente subnutrido e uma atrofia estatal. Que n&atilde;o nos atropele o direito de decidir o futuro.<br /></p>
+<p>&nbsp;</p></p>
+<p><p>PS: Renato Lima &eacute; mestrando da Universidade de Illinois</p> </p>
+{% endraw %}

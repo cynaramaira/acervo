@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Conforme o Blog antecipou no sábado, a oposição a Mendonça Filho começou a reagir e partiu para o confronto, deixando de lado os programas apenas propositivos e biográficos.</FONT></P></p>
 <p><P><FONT face=Verdana>Quem começou a reação foi Eduardo Campos, logo cedo, no guia eleitoral do rádio.</FONT></P></p>
 <p><P><FONT face=Verdana>Ele atacou os problemas da Educação. Veiculou depoimentos que apontam o descaso em relação ao ensino profissionalizante.</FONT></P></p>
@@ -34,4 +34,4 @@ imagem: null
 <p><P><FONT face=Verdana>Ele faz isso sem falar em Arraes. O mito tornou-se mais forte depois que morreu, um ano atrás. Tudo é feito para, no final, carimbar Eduardo como pai do caos.</FONT></P></p>
 <p><P><FONT face=Verdana>Se não correrem, Eduardo e Humberto sabem que perdem a campanha. E eles já estão correndo.</FONT></P></p>
 <p><P><FONT face=Verdana>Vocês podem esperar surpresas nesta semana.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

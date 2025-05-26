@@ -15,8 +15,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Veja&nbsp;resultado parcial,&nbsp;segundo o Tribunal Superior Eleitoral (TSE):</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Rio Grande do Norte</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Wilma de Faria (PSB) - 54,33%&nbsp;<BR>Garibaldi Alves (PMDB) - 45,67%<BR>Seções totalizadas: 2.269 (36,46%)</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

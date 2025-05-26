@@ -13,8 +13,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por falar na morte de Sadam, o pessoal do programa Geraldo Freire fez uma enquete no ar e pediu que os ouvintes apresentassem alguns nomes para o cadafalso.</FONT></P></p>
 <p><P><FONT face=Verdana>Jarbas Vasconcelos, ACM, Denny Oliveira e até Parreira foram alguns nomes citados.</FONT></P></p>
 <p><P><FONT face=Verdana>Os ouvintes de rádio são pessoas muito espirituosas mesmo.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

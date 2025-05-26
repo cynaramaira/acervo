@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Virou mantra das lideranças pol?ticas de Pernambuco dizer que o governador Mendonça Filho (PFL) foi derrotado, mas saiu da campanha à reeleição maior do que entrou.</FONT></P></p>
 <p><P><FONT face=Verdana>Saiu mesmo em diversos aspectos. Disputou sua primeira eleição majoritária na condição de l?der da chapa e obteve votações expressivas no Recife e em Olinda, principais cidades da Região Metropolitana.</FONT></P></p>
 <p><P><FONT face=Verdana>Mendonça tem dito a quem o procura que só fala sobre seu futuro pol?tico depois de encerrar o mandato, em 31 de dezembro. Até lá só quer saber de cumprir sua missão sem problemas.</FONT></P></p>
@@ -34,4 +34,4 @@ imagem: null
 <p><P><FONT face=Verdana>Um de seus filhos adolescentes, porém, começou a receber no Orkut mensagens de despedida e de saudades.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Veja uma delas:</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>“...vai pra california viver a vida sobre as ondas...todas vez que me lembro disso, fico tão triste.. mas quando lembro que 6 meses não é nada para uma amizade como a nossa, fico feliz só de pensar que num instante passa...???</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

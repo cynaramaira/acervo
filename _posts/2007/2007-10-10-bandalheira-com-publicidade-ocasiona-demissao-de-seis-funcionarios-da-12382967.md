@@ -1,0 +1,34 @@
+---
+id: 12382967
+date: "2007-10-10T11:53:00Z"
+last_modified_at: null
+tags:
+  - "demissao"
+  - "eramos-seis"
+  - "infraero"
+  - "sem-publicidade"
+categories:
+  - "noticias"
+title: "Bandalheira com publicidade ocasiona demiss\u00e3o de seis funcion\u00e1rios da Infraero "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font size=\"2\"></p>
+<p><p>&nbsp;</p></p>
+<p></font></p></p>
+<p><p><font face=\"Verdana\">A Controladoria-Geral da Uni&atilde;o (CGU) determinou a demiss&atilde;o por justa causa de tr&ecirc;s ex-diretores e de tr&ecirc;s outros funcion&aacute;rios nos n&iacute;veis de superintend&ecirc;ncia, ger&ecirc;ncia e procuradoria, da Empresa Brasileira de Infra-Estrutura Aeroportu&aacute;ria (Infraero), al&eacute;m de penas de advert&ecirc;ncia para outros quatro funcion&aacute;rios da empresa, por envolvimento em irregularidades na contrata&ccedil;&atilde;o, sem licita&ccedil;&atilde;o, da empresa FS3 Comunica&ccedil;&atilde;o e Sistemas Ltda, para implanta&ccedil;&atilde;o de um software de gerenciamento de espa&ccedil;os publicit&aacute;rios em aeroportos.&nbsp;</font></p></p>
+<p><p><font face=\"Verdana\">A decis&atilde;o, que decorreu de uma sindic&acirc;ncia, foi publicada na edi&ccedil;&atilde;o desta quarta-feira do Di&aacute;rio Oficial da Uni&atilde;o (DOU).</font></p></p>
+<p><p><font face=\"Verdana\">Os ex-diretores demitidos s&atilde;o Jos&eacute; Wellington de Moura e Fernando de Almeida Brendaglia (ex-diretores comerciais) e Adenauher Figueira Nunes (ex-diretor financeiro). Os tr&ecirc;s funcion&aacute;rios tamb&eacute;m demitidos s&atilde;o M&aacute;rcia Gon&ccedil;alves Chaves (ex-superintendente comercial); Mari&acirc;ngela Russo (ex-gerente de desenvolvimento mercadol&oacute;gico) e M&aacute;rio de Ururahy Mac&ecirc;do Neto.</font></p></p>
+<p><p><font face=\"Verdana\">J&aacute; os punidos com pena de advert&ecirc;ncia s&atilde;o Josefina Valle de Oliveira Pinha (ent&atilde;o chefe da Procuradoria Jur&iacute;dica); &Eacute;rica Silvestri Duttweiller (advogada da empresa); &Aacute;lvaro Luiz Costa (ex-chefe da Superintend&ecirc;ncia de Auditoria) e Oz&oacute;rio Lucas Ferreira da Silva (ex-chefe da &Aacute;rea de Licita&ccedil;&otilde;es e Contratos).</font></p></p>
+<p><p><font face=\"Verdana\">Fernando Brendaglia e M&aacute;rcia Gon&ccedil;alves Chaves j&aacute; tinham sido punidos anteriormente por determina&ccedil;&atilde;o da pr&oacute;pria CGU em conseq&uuml;&ecirc;ncia de envolvimento em irregularidades na concess&atilde;o, sem licita&ccedil;&atilde;o, de uma &aacute;rea para funcionamento de um posto de combust&iacute;veis no Aeroporto de Bras&iacute;lia. Brendaglia foi demitido por justa causa e M&aacute;rcia Chaves suspensa por trinta dias. </font></p></p>
+<p><p><font face=\"Verdana\">J&aacute; Adenauher Figueira Nunes tinha sido demitido por justa causa, tamb&eacute;m por determina&ccedil;&atilde;o da CGU, em conseq&uuml;&ecirc;ncia de enriquecimento il&iacute;cito. Desta vez a apura&ccedil;&atilde;o feita pela CGU decorreu de solicita&ccedil;&atilde;o do ent&atilde;o ministro da Defesa Waldir Pires e compreendeu tanto a contrata&ccedil;&atilde;o propriamente dita da FS3, abordando a modalidade e os pre&ccedil;os praticados, quanto a &quot;decis&atilde;o administrativa de n&atilde;o utilizar o bem adquirido, que acabou por significar a manuten&ccedil;&atilde;o da preexistente sistem&aacute;tica de comercializa&ccedil;&atilde;o de espa&ccedil;os publicit&aacute;rios, de question&aacute;vel regularidade&quot;. </font></p></p>
+<p><p><font face=\"Verdana\">A FS3 foi contratada pelo valor de R$ 26.840.520,82, dos quais, no in&iacute;cio das apura&ccedil;&otilde;es, j&aacute; tinham sido pagos R$ 20 milh&otilde;es. A extens&atilde;o dos il&iacute;citos continua sendo apurada em auditoria pela CGU que, preliminarmente, j&aacute; constatou a pr&aacute;tica de irregularidades na contrata&ccedil;&atilde;o e descobriu tamb&eacute;m que n&atilde;o s&atilde;o ver&iacute;dicas as raz&otilde;es apresentadas para justificar a ruptura do contrato e a suspens&atilde;o dos pagamentos. </font></p></p>
+<p><p><font face=\"Verdana\">Se a contrata&ccedil;&atilde;o da FS3 se deu de forma irregular, a inexist&ecirc;ncia de um sistema de gerenciamento dos espa&ccedil;os publicit&aacute;rios nos aeroportos causa tamb&eacute;m grande preju&iacute;zos &agrave; Infraero. A auditoria j&aacute; apurou, tamb&eacute;m, que o software da FS3 ou outro similar, se em funcionamento regular, &eacute; capaz de trazer in&uacute;meras vantagens para o gerenciamento da comercializa&ccedil;&atilde;o dos espa&ccedil;os publicit&aacute;rios pela Infraero, com potencial de receita que pode chegar a R$ 100 milh&otilde;es ao ano, quando a m&eacute;dia anual atual &eacute; da ordem de R$ 30 milh&otilde;es. Segundo a conclus&atilde;o da sindic&acirc;ncia da CGU, os seis demitidos incorreram na pr&aacute;tica de improbidade administrativa. </font></p></p>
+<p><p><font face=\"Verdana\">O ex-diretor Fernando Brendaglia simulou processo de pesquisa, j&aacute; tendo, desde o in&iacute;cio de 2003, conhecimento da ferramenta que iria contratar, bem como induziu a erro a Diretoria Executiva da Infraero ao n&atilde;o informar sobre a exist&ecirc;ncia de outros softwares no mercado internacional. </font></p></p>
+<p><p><font face=\"Verdana\">O ex-diretor financeiro Adenauher Nunes, segundo as conclus&otilde;es da sindic&acirc;ncia, atuou de forma desidiosa ao n&atilde;o analisar os documentos em que se embasava a realiza&ccedil;&atilde;o do contrato, enquanto Jos&eacute; Wellington, tamb&eacute;m ex-diretor comercial, devolveu &agrave; empresa FS3 garantia contratual sem ter causa que justificasse tal devolu&ccedil;&atilde;o, pois o processo encontrava-se sob suspeita de irregularidade ap&oacute;s a realiza&ccedil;&atilde;o de per&iacute;cia. </font></p></p>
+<p><p><font face=\"Verdana\">A decis&atilde;o da CGU, assinada pelo ministro-chefe da CGU, Jorge Hage, foi encaminhada nesta ter&ccedil;a-feira &agrave; Presid&ecirc;ncia da Infraero para adotar as medidas no prazo de cinco dias. C&oacute;pias do relat&oacute;rio da Comiss&atilde;o de Sindic&acirc;ncia e do parecer jur&iacute;dico da CGU, bem como da decis&atilde;o do ministro, foram enviadas tamb&eacute;m &agrave; Pol&iacute;cia Federal, ao Tribunal de Contas da Uni&atilde;o e ao Minist&eacute;rio P&uacute;blico Federal. </font></p></p>
+<p><p><font face=\"Verdana\">Na sua decis&atilde;o, o ministro Jorge Hage determina ainda a cria&ccedil;&atilde;o de outra comiss&atilde;o de sindic&acirc;ncia para apurar as responsabilidades de outros seis funcion&aacute;rios da Infraero nas irregularidades envolvendo a contrata&ccedil;&atilde;o da FS3 e a comercializa&ccedil;&atilde;o de espa&ccedil;os publicit&aacute;rios em aeroportos.</font></p> </p>
+{% endraw %}

@@ -1,0 +1,24 @@
+---
+id: 12377229
+date: "2007-03-21T18:27:00Z"
+last_modified_at: null
+tags:
+  - "cerveja"
+  - "jaboatao"
+  - "prejuizos"
+categories:
+  - "noticias"
+title: "Veja a decis\u00e3o do juiz de Jaboat\u00e3o afastando parentes de Newton"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><P><FONT face=Verdana>Veja trecho da decisão do juiz de Direito Marcus Vinícius Nonato Rabelo Torres atendendo o pedido do Ministério Público e determinando o afastamento dos parentes que trabalham na administração de Jaboatão.</FONT></P></p>
+<p><P><FONT face=Verdana>A decisão foi dada hoje, 21 de março de 2007, na primeira vara da Fazenda Municipal de Jaboatão dos Guararapes. Cabe recurso.</FONT></P></p>
+<p><P><FONT face=Verdana></FONT>&nbsp;</P></p>
+<p><P><STRONG><FONT face=Verdana>O trecho da decisão:</FONT></STRONG></P></p>
+<p><P><BR><EM><FONT face=Verdana>Pelo exposto, considerando presentes os requisitos autorizadores da medida jurisdicional perseguida, CONCEDO A ANTECIPAÇÃO DA TUTELA pleiteada para determinar que o Município de Jaboatão dos Guararapes, na pessoa do Exmo. Sr. Prefeito Newton D\emery Carneiro, promova o afastamento de Luiz Carlos de Souza Tomé; bem como de todos os parentes consangüíneos e afins, até o terceiro grau, do Sr. Prefeito Municipal e dos Senhores Secretários Municipais, bem como dos ocupantes de cargos de chefia, direção e assessoramento, relacionados no quadro constante da presente ação (fls. 05/06), que atualmente ocupam cargos comissionados ou funções de confiança ou mantenham com o Município contrato temporário firmado por excepcional interesse público, se abstendo, ainda, de proceder novas contratações para cargos em comissão e funções de confiança de cônjuge, companheiro, parente afim ou consangüíneo, em linha reta ou colateral, até o terceiro grau, de Prefeito, Vice-Prefeito, Secretário Municipal, ocupante de cargo de chefia, direção ou assessoramento, excetuando-se aqueles titulares de cargos efetivos no âmbito do Executivo Municipal, cujo nível de escolaridade seja compatível com a qualificação exigida para o exercício do correspondente cargo de provimento em comissão ou função de confiança, vedada a subordinação hierárquica, se estendendo tal abstenção de contratação a novas nomeações que visem ajuste para burlar esta decisão mediante reciprocidade nas nomeações ou designações com outros Poderes. Determino, ainda, que o Município demandado se abstenha de contratar diretamente, mediante dispensa ou inexigibilidade de licitação, pessoa jurídica cujos sócios sejam cônjuges, companheiros ou parentes consangüíneos ou afins, até o terceiro grau, do Senhor Prefeito, do Senhor Vice-Prefeito, dos Senhores Secretários Municipais, e demais agentes públicos investidos nas atribuições de chefia, direção e assessoramento no âmbito dos Poderes Executivo e Legislativo ou celebrar, manter, aditar ou prorrogar contrato de prestação de serviço com empresa que venha a contratar empregado que seja cônjuge, companheiro ou parente consangüíneo ou afim, até o terceiro grau, dos agentes públicos já adredemente nominados, bem como dos Senhores Vereadores. <BR>Tal proibição deve ser estendida, também à contratação, por tempo determinado para atender necessidade temporária e excepcional de interesse público, de pessoas que sejam parentes consangüíneos ou afins, até o terceiro grau, das autoridades anteriormente mencionadas, ressalvada a hipótese de submissão a regular processo seletivo amparado por lei, devendo se exigir, como requisito à nomeação para cargo de provimento em comissão ou função de confiança, quando da posse, declaração por escrito de não ser cônjuge, companheiro ou parente consangüíneo ou afim, até o terceiro grau, do Senhor Prefeito, Senhor vice-Prefeito, dos Senhores Secretários Municipais, dos Senhores Vereadores , bem como de todos os demais agentes públicos investidos nas atribuições de chefia, direção e assessoramento, no âmbito de cada um dos Poderes Executivo e Legislativo. Concedo ao Município, na pessoa do Exmo. Sr. Prefeito Newton D\emery Carneiro, o prazo de quinze dias para efetivo cumprimento desta decisão sob pena de, não fazendo, ser-lhe aplicada multa diária no importe de R$ 10.000,00 (dez mil reais), sem prejuízo das demais medidas constritivas e legais que fizerem necessárias para o fiel cumprimento desta decisão.<BR>Cumpra-se.<BR>Intimem-se.<BR>Oficie-se ao Município de Jaboatão dos Guararapes, na pessoa do Exmo. Sr. Prefeito, para imediato cumprimento da tutela concedida, sob as <BR>penas da lei.<BR>Jaboatão dos Guararapes, 21 de março de 2007.<BR>Marcus Vinícius Nonato Rabelo Torres <BR>Juiz de Direito</FONT></EM></P></p>
+<p><P><EM><FONT face=Verdana>Veja o link da decisão completa <A href=\"https://www.tjpe.gov.br/processos/ole_busca_processos_numero_texto.asp?num=2222007000767300&amp;data=2007/03/21%2009:51\" target=_blank>aqui.</A></FONT></EM></P> </p>
+{% endraw %}

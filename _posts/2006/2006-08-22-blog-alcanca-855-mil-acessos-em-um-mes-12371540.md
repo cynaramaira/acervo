@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma; mso-bidi-font-weight: bold\">Obrigado internautas.<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
 <p><P><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma; mso-bidi-font-weight: bold\">Completamos um mês no último dia 15. Só agora fechamos o balanço de acessos (page </SPAN><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>views) desde o lançamento, em 15 de julho.<o:p></o:p></FONT></SPAN></P></p>
 <p><P><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>Foram 855.287 page views, segundo levantamento apresentado pelo UOL e aferido pelo Ibope. Isso dá uma média de 26,7 mil por dia.</FONT></SPAN></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>Obrigado ainda aos colaboradores do Blog: Luiz Otávio Cavalcanti, Túlio Velho Barreto, João Freire, André Régis, Pierre Lucena, Priscila Krause, Louise Caroline e Mar?lia Arraes.<o:p></o:p></FONT></SPAN></P></p>
 <p><P><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>E, em especial, a todo o pessoal de Benira Maia no JC OnLine e de Lúcio Poncioni, na coordenação de tecnologia.<o:p></o:p></FONT></SPAN></P></p>
 <p><P><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><FONT face=Verdana>É isso. Vamos trabalhar, os l?deres pol?ticos estão soltos por a?.</FONT></SPAN><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-bidi-font-family: Tahoma; mso-bidi-font-weight: bold\"><o:p></o:p></SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

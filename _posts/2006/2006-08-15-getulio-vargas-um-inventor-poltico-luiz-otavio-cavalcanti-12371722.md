@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Luiz Otavio Cavalcanti</STRONG>*<BR>Ex-secretário do Planejamento e da Fazenda de Pernambuco<BR></FONT><A href=\"mailto:lotavio@fsm.com.br\"><U><FONT color=#0000ff><FONT face=Verdana>lotavio@fsm.com.br</FONT></U></FONT></A><FONT face=Verdana></FONT></P></p>
 <p><P><FONT face=Verdana>Olá, amigos.</FONT></P></p>
 <p><P><FONT face=Verdana>Passo a colaborar, às terças, neste <STRONG>Blog do JC</STRONG>, a convite de César Rocha. Vou tratar preferencialmente do Brasil. E do estilo pol?tico dos homens que fazem do Pa?s a República tal como ela é.</FONT></P></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>Getúlio só não foi brasileiro no episódio final de sua trajetória quando atirou contra o próprio peito. Cenário trágico demais para um Povo alegre que chorou nas ruas a perda do Pai dos Pobres.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Próxima semana tem Juscelino, o Presidente Que Sabia Rir.</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>*Luiz Otavio Cavalcanti, 60, advogado, executivo e ex-secretário do Planejamento (1975/79 e 1991/92) e da Fazenda (1983/86 e 1992/93) de Pernambuco. Recifense, Cavalcanti dirige hoje a entidade mantenedora da Faculdade Santa Maria. É autor, entre outros livros, de <EM>Como a corrupção abalou o governo Lula</EM> (Ed. Ediouro, 2005), <EM>Administradores, quem somos nós?</EM> (Ed. Bagaço, 2005) e <EM>Ensaiando Pernambuco</EM> (Ed. Bagaço, 2005). </FONT></P> </p>
-{\% endraw %}
+{% endraw %}

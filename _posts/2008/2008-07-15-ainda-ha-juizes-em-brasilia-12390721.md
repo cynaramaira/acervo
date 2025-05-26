@@ -1,0 +1,31 @@
+---
+id: 12390721
+date: "2008-07-15T15:36:00Z"
+last_modified_at: null
+tags:
+  - "brasilia"
+categories:
+  - "colunistas"
+title: "Ainda h\u00e1 ju\u00edzes em Bras\u00edlia?"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Sergio Gardenghi Suiama e Ana L&uacute;cia Amaral</p></p>
+<p><p>O advogado de um dos presos da Opera&ccedil;&atilde;o Satiagraha, Alberto Z. Toron, publicou neste espa&ccedil;o no &uacute;ltimo domingo um artigo em defesa do ministro Gilmar Mendes. Disse que Mendes foi v&iacute;tima de um &quot;covarde e s&oacute;rdido ataque&quot; e enalteceu a forma &quot;independente e corajosa&quot; com que determinou a soltura de &quot;algu&eacute;m que calha ser banqueiro&quot;.</p></p>
+<p><p>Curiosamente, o artigo passa ao largo de uma das mais importantes garantias do devido processo legal, que &eacute; a id&eacute;ia de que todo cidad&atilde;o tem o direito de ser julgado por um juiz constitucionalmente competente.</p></p>
+<p><p>No nosso direito, as regras estabelecem que, exceto casos de foro especial previstos na Constitui&ccedil;&atilde;o, todos os cidad&atilde;os devem ser julgados por um juiz de primeira inst&acirc;ncia e, contra as decis&otilde;es deste, podem recorrer a um tribunal de segunda inst&acirc;ncia.</p></p>
+<p><p>Se a defesa perder o recurso, pode depois impetrar habeas corpus no STJ (Superior Tribunal de Justi&ccedil;a). O STF (Supremo Tribunal Federal), &oacute;rg&atilde;o presidido pelo ministro Gilmar Mendes, &eacute; competente para julgar habeas corpus apenas quando a decis&atilde;o impugnada for do STJ, de outro tribunal superior ou quando o coator ou paciente for autoridade sujeita &agrave; jurisdi&ccedil;&atilde;o do STF. O desrespeito a essas regras n&atilde;o prejudica s&oacute; o acusado, prejudica todo o sistema de Justi&ccedil;a, na medida em que d&aacute; margem &agrave; viola&ccedil;&atilde;o da imparcialidade do juiz.</p></p>
+<p><p>Por esse motivo, o STF e o STJ t&ecirc;m centenas de decis&otilde;es rejeitando o que em &quot;juridiqu&ecirc;s&quot; chamamos de &quot;supress&atilde;o de inst&acirc;ncia&quot;, isto &eacute;, o recurso direto a um tribunal superior sem que a quest&atilde;o tenha sido previamente discutida por um tribunal inferior. O pr&oacute;prio ministro Gilmar, em mais de 30 casos, teve a oportunidade de rejeitar habeas corpus impetrados no STF sob o argumento de &quot;supress&atilde;o de inst&acirc;ncia&quot;.</p></p>
+<p><p>Em uma dessas ocasi&otilde;es, o r&eacute;u havia sido preso acusado de matar a mulher. O Tribunal de Justi&ccedil;a anulou a decis&atilde;o da ju&iacute;za de primeiro grau, mas manteve a pris&atilde;o. O advogado do caso (coincidentemente, Toron) impetrou habeas corpus no STJ alegando que seu cliente estava preso havia mais tempo do que deveria. Como essa quest&atilde;o n&atilde;o havia sido anteriormente discutida, o STJ se recusou a examinar o recurso.</p></p>
+<p><p>Inconformado com a decis&atilde;o do STJ, o advogado impetrou outro habeas corpus, agora no STF. O relator do processo, ministro Gilmar Mendes, manteve a decis&atilde;o do STJ, argumentando que, &quot;de fato, n&atilde;o se encontravam dentre as alega&ccedil;&otilde;es do recurso o excesso de prazo da pris&atilde;o preventiva.</p></p>
+<p><p>Desse modo, n&atilde;o havia nenhuma obriga&ccedil;&atilde;o de o TJ reconhec&ecirc;-lo. Qualquer manifesta&ccedil;&atilde;o nesse sentido por outro &oacute;rg&atilde;o, seja o STJ, seja o STF, caracterizaria supress&atilde;o de inst&acirc;ncia, vedada pelo ordenamento jur&iacute;dico&quot; (HC 82.297-5/SP. A decis&atilde;o, p&uacute;blica, est&aacute; no site do STF).</p></p>
+<p><p>No caso da pris&atilde;o daquele que &quot;calhou de ser banqueiro&quot;, todavia, o ministro decidiu de forma diferente. Uma reportagem deste ano dizia que Daniel Dantas estava sendo investigado pela PF &quot;em raz&atilde;o de fortes ind&iacute;cios de crimes financeiros&quot;. Com esse fundamento (a reportagem), seus advogados impetraram sucessivos habeas corpus para conseguir um &quot;salvo-conduto&quot; ao poderoso cliente.</p></p>
+<p><p>Nenhuma das a&ccedil;&otilde;es chegou a ser definitivamente julgada; o mero indeferimento liminar do pedido em uma era causa para a impetra&ccedil;&atilde;o de outro habeas corpus em tribunal mais elevado. O STJ, por duas vezes, indeferiu o pedido de liminar formulado pelos advogados. Novo pedido estava pendente no STF quando sobreveio a pris&atilde;o tempor&aacute;ria de Dantas.O decreto expedido pelo juiz de primeira inst&acirc;ncia faz refer&ecirc;ncia a fatos que nunca foram debatidos nos tr&ecirc;s habeas corpus anteriores.</p></p>
+<p><p>Portanto, jamais poderia o presidente do STF avali&aacute;-los em uma liminar concedida durante o recesso forense, nem muito menos &quot;pular&quot; a compet&ecirc;ncia do Tribunal Regional Federal e do STJ para decidir sobre a pris&atilde;o decretada por um juiz de primeira inst&acirc;ncia.</p></p>
+<p><p>Igualmente teratol&oacute;gica foi a decis&atilde;o seguinte, pela qual o presidente do STF avocou a si decidir sobre pris&atilde;o preventiva de algu&eacute;m suspeito de tentar corromper o delegado respons&aacute;vel pela investiga&ccedil;&atilde;o. Tal decis&atilde;o, vale repetir, contraria centenas de outros julgados do STF, inclusive relatados pelo pr&oacute;prio ministro Gilmar.</p></p>
+<p><p>Eventuais atentados &agrave;s liberdades dos investigados devem ser apurados com rigor, mas n&atilde;o podem servir de pretexto para que o presidente da mais alta corte do pa&iacute;s avoque a decis&atilde;o de soltar liminarmente um cidad&atilde;o comum que, pelo acaso da Fortuna, vem a ser um banqueiro, suspeito de corrup&ccedil;&atilde;o e lavagem de dinheiro, e n&atilde;o um dos milhares de r&eacute;us pobres esquecidos pela justi&ccedil;a dos homens nas infectas penitenci&aacute;rias do Brasil.</p></p>
+<p><p>PS: Sergio Gardenghi Suiama, 36, &eacute; procurador da Rep&uacute;blica em S&atilde;o Paulo.&nbsp; Foi defensor p&uacute;blico criminal. Ana L&uacute;cia Amaral, 56, &eacute; procuradora&nbsp; regional da Rep&uacute;blica da 3&ordf; Regi&atilde;o.</p> </p>
+{% endraw %}

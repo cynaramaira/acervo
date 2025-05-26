@@ -1,0 +1,26 @@
+---
+id: 12380887
+date: "2007-08-06T16:57:00Z"
+last_modified_at: null
+tags:
+  - "mandados"
+  - "ministerio"
+  - "recife"
+categories:
+  - "noticias"
+title: "Minist\u00e9rio P\u00fablico manda acabar com farra do concreto intertravado no Recife"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">O munic&iacute;pio do Recife deve paralisar imediatamente as obras de substitui&ccedil;&atilde;o das pedras portuguesas at&eacute; a elabora&ccedil;&atilde;o e apresenta&ccedil;&atilde;o de estudo t&eacute;cnico do Departamento de Preserva&ccedil;&atilde;o do Patrim&ocirc;nio Cultural (DPPC), da pr&oacute;pria Prefeitura. O munic&iacute;pio tem dez dias para informar ao Minist&eacute;rio P&uacute;blico de Pernambuco (MPPE) sobre o acatamento dos termos da recomenda&ccedil;&atilde;o, assinada na &uacute;ltima quinta-feira (02) pela Promotora de Defesa do Meio Ambiente e Patrim&ocirc;nio Hist&oacute;rico-Cultural, Alda Virg&iacute;nia de Moura. </font></p></p>
+<p><p><font face=\"Verdana\">Alda Virg&iacute;nia diz que n&atilde;o houve uma an&aacute;lise t&eacute;cnica do &oacute;rg&atilde;o municipal respons&aacute;vel pela preserva&ccedil;&atilde;o do patrim&ocirc;nio cultural. &ldquo;Na audi&ecirc;ncia que realizamos, a Prefeitura disse que estava fazendo as obras por causa da acessibilidade. N&oacute;s somos a favor da acessibilidade, mas isso n&atilde;o pode ser feito sem planejamento. Depois dessa audi&ecirc;ncia, pedimos um laudo t&eacute;cnico de v&aacute;rios &oacute;rg&atilde;os respons&aacute;veis pela preserva&ccedil;&atilde;o hist&oacute;rica, que foram contra as obras da forma que est&atilde;o sendo feitas, sem preserva&ccedil;&atilde;o da mem&oacute;ria da cidade. Deve-se ter em vista a preserva&ccedil;&atilde;o ambiental, paisag&iacute;stica, arquitet&ocirc;nica, art&iacute;stica e cultural. O pr&oacute;prio departamento da Prefeitura respons&aacute;vel por essa quest&atilde;o n&atilde;o foi chamado para fazer um levantamento&rdquo;, afirma a Promotora. </font></p></p>
+<p><p><font face=\"Verdana\">Ela ainda acrescenta que as obras envolvem zonas de preserva&ccedil;&atilde;o hist&oacute;rica em &acirc;mbito n&atilde;o s&oacute; municipal, mas tamb&eacute;m estadual e federal.</font></p></p>
+<p><p><font face=\"Verdana\">A Promotora fez a recomenda&ccedil;&atilde;o ap&oacute;s um Procedimento de Investiga&ccedil;&atilde;o Preliminar (PIP) instaurado pelo MPPE para apurar uma representa&ccedil;&atilde;o formulada pela Organiza&ccedil;&atilde;o N&atilde;o Governamental (ONG) Associa&ccedil;&atilde;o Pernambucana de Defesa da Natureza (ASPAN) contra a Secretaria de Servi&ccedil;os P&uacute;blicos, em virtude da substitui&ccedil;&atilde;o das pedras portuguesas por blocos intertravados de concreto no munic&iacute;pio do Recife. </font></p></p>
+<p><p><font face=\"Verdana\">Ela tamb&eacute;m levou em conta um parecer t&eacute;cnico elaborado conjuntamente pela Funda&ccedil;&atilde;o de Patrim&ocirc;nio Hist&oacute;rico e Art&iacute;stico de Pernambuco (Fundarpe), Coordenadoria do Curso de Arquitetura e Urbanismo da Universidade Cat&oacute;lica de Pernambuco (Unicap), pelo Instituto do Patrim&ocirc;nio Hist&oacute;rico e Art&iacute;stico Nacional (Iphan) e pelo Departamento de Arquitetura e Urbanismo da Universidade Federal de Pernambuco (UFPE).</font></p></p>
+<p><p><font face=\"Verdana\">O parecer t&eacute;cnico diz que as cal&ccedil;adas em pedras portuguesas, junto com os edif&iacute;cios e monumentos, &eacute; caracter&iacute;stica marcante da cidade, sendo marco fundamental da sua identidade. O parecer ainda cita o artigo 10 da Lei Municipal de preserva&ccedil;&atilde;o (13.957/79), que pro&iacute;be o uso de revestimento superficial nos logradouros p&uacute;blicos onde ainda n&atilde;o o tenha, bem como a substitui&ccedil;&atilde;o do revestimento existente ou seu capeamento com material de natureza diversa do original, para a preserva&ccedil;&atilde;o do s&iacute;tio formado por bens de valor cultural.</font></p></p>
+<p><p><font face=\"Verdana\">O artigo 15 da Lei Municipal 16.176/96 diz que as Zonas Especiais de Preserva&ccedil;&atilde;o do Patrim&ocirc;nio Hist&oacute;rico-Cultural (ZEPH) requerem par&acirc;metros e requisitos urban&iacute;sticos espec&iacute;ficos de uso e ocupa&ccedil;&atilde;o do solo, em fun&ccedil;&atilde;o de suas caracter&iacute;sticas especiais. Essa lei se aplica &agrave;s obras de infra-estrutura, urbaniza&ccedil;&atilde;o, reurbaniza&ccedil;&atilde;o, constru&ccedil;&atilde;o, reconstru&ccedil;&atilde;o, reforma e amplia&ccedil;&atilde;o de edifica&ccedil;&otilde;es, instala&ccedil;&atilde;o de usos e atividades, inclusive aprova&ccedil;&atilde;o de projetos, concess&atilde;o de licen&ccedil;as de constru&ccedil;&atilde;o, de alvar&aacute;s de localiza&ccedil;&atilde;o e de funcionamento, entre outros. As ZEPH se dividem em setor de Preserva&ccedil;&atilde;o Rigorosa (SPR) e Setor de Preserva&ccedil;&atilde;o Ambiental (SPA), sendo o primeiro constitu&iacute;do por &aacute;reas de importante significado hist&oacute;rico e/ou cultural que requerem sua manuten&ccedil;&atilde;o, restaura&ccedil;&atilde;o ou compatibiliza&ccedil;&atilde;o com o s&iacute;tio integrante do conjunto.<br /></p>
+<p></font></p> </p>
+{% endraw %}

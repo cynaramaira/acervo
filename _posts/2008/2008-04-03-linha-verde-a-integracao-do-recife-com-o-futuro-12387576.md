@@ -1,0 +1,44 @@
+---
+id: 12387576
+date: "2008-04-03T16:03:00Z"
+last_modified_at: null
+tags:
+  - "arcoverde"
+  - "lulinha"
+  - "recife"
+categories:
+  - "eleicoes"
+title: "Linha Verde: a integra\u00e7\u00e3o do Recife com o futuro"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Por Mendon&ccedil;a Filho<img height=\"160\" src=\"https://www2.uol.com.br/JC/blogs/blogdejamildo/imagens/selo_recife2008.jpg\" width=\"130\" align=\"right\" alt=\"\" /></font></p></p>
+<p><p></p>
+<p><p>&nbsp;</p></p>
+<p><p>&nbsp;</p></p>
+<p></p></p>
+<p><p><br /></p>
+<p>Recife tem tudo para ser uma cidade melhor: tem cultura, tem hist&oacute;ria, tem beleza, tem tecnologia, tem um povo trabalhador e uma economia forte, robustecida com a retomada do desenvolvimento econ&ocirc;mico de Pernambuco.</p></p>
+<p><p>A partir de tr&ecirc;s pilares - infra-estrutura, atra&ccedil;&atilde;o de investimentos e pol&iacute;ticas sociais &ndash; o governo Jarbas/Mendon&ccedil;a conseguiu em oito anos resgatar posi&ccedil;&atilde;o econ&ocirc;mica de destaque no presente e abrir um cen&aacute;rio futuro muito pr&oacute;spero a partir de Suape.</p></p>
+<p><p>Nesse contexto, o Recife do futuro pode manter a sua relev&acirc;ncia ou percorrer o inaceit&aacute;vel caminho do esvaziamento econ&ocirc;mico, caso n&atilde;o se integre a esse novo eixo de desenvolvimento.</p></p>
+<p><p><br /></p>
+<p>Se hoje essa coloca&ccedil;&atilde;o pode parecer &ldquo;alarmista&rdquo;, uma r&aacute;pida olhada no passado permite constatar que fen&ocirc;meno parecido ocorreu com Olinda que perdeu relev&acirc;ncia econ&ocirc;mica para a nossa capital, em fun&ccedil;&atilde;o do desenvolvimento gerado pelo Porto do Recife.</p></p>
+<p><p>A preocupa&ccedil;&atilde;o com o futuro do Recife esbarra na triste constata&ccedil;&atilde;o de que a nossa cidade n&atilde;o tem planejamento estrat&eacute;gico para pens&aacute;-la a longo prazo, independente de governos, porque a atual gest&atilde;o arquivou o que havia sido planejado at&eacute; ent&atilde;o. Tecnologia de planejamento e t&eacute;cnicos qualificados n&oacute;s temos em abund&acirc;ncia, basta sensibilidade pol&iacute;tica e compromisso com pensar o Recife al&eacute;m do per&iacute;odo de um governo.</p></p>
+<p><p>Apenas para relembrar, em 1975 surgiu o primeiro tra&ccedil;ado da proposta de uma via costeira metropolitana, elaborado pela FIDEM, para promover a integra&ccedil;&atilde;o do processo de urbaniza&ccedil;&atilde;o do litoral. Passadas mais de tr&ecirc;s d&eacute;cadas da proposta contida no ent&atilde;o Plano de Transporte da Regi&atilde;o Metropolitana, percebe-se n&atilde;o apenas sua relev&acirc;ncia como a vis&atilde;o estrat&eacute;gica dos planejadores dos anos setenta.</p></p>
+<p><p>Neste per&iacute;odo, o lado norte da RMR foi beneficiado com tr&ecirc;s interven&ccedil;&otilde;es que comp&otilde;em o sistema vi&aacute;rio estrutural da RMR &ndash; o Eixo de Integra&ccedil;&atilde;o Paulista/Igarassu, o projeto de requalifica&ccedil;&atilde;o da PE-01, trecho Olinda/Maria Farinha (deixamos licitado e o contrato assinado), a duplica&ccedil;&atilde;o da PE-22, trecho PE-15/Maria Farinha e a triplica&ccedil;&atilde;o da PE-15, trecho Olinda/Paulista. Estas duas obras realizadas nos Governo Jarbas Vasconcelos/Mendon&ccedil;a Filho.</p></p>
+<p><p>Na &aacute;rea central da RMR, a Avenida Agamenon Magalh&atilde;es se insere na proposta da FIDEM como parte da via costeira proposta, interligando a Joana Bezerra a Igarassu. Por outro lado, a din&acirc;mica urbana da metr&oacute;pole consagrou a Zona Sul do Recife como fronteira de expans&atilde;o predominante, territ&oacute;rio de adensamento habitacional, de com&eacute;rcio e servi&ccedil;os de car&aacute;ter regional.</p></p>
+<p><p>Por essa raz&atilde;o, os fluxos gerados pelos movimentos entre o centro do Recife/Zona Sul e intermunicipais, constituem um problema grave para a mobilidade da popula&ccedil;&atilde;o, requerendo uma urgente a&ccedil;&atilde;o estruturadora.</p></p>
+<p><p>Assim, h&aacute; que se cuidar da implanta&ccedil;&atilde;o de via expressa no trecho Joana Bezerra/Suape, conferindo ao projeto o conceito metropolitano e, ao mesmo tempo, focando no Recife a prioridade da interven&ccedil;&atilde;o, porque &eacute; aqui que os fluxos se somam e provocam os congestionamentos di&aacute;rios.</p></p>
+<p><p>Por isso, insisto na necessidade da retomada do Projeto da Linha Verde, elaborado na gest&atilde;o do Prefeito Roberto Magalh&atilde;es e engavetado na atual gest&atilde;o. A sua substitui&ccedil;&atilde;o pela Via Mangue, quatro anos ap&oacute;s o abandono da Linha Verde, cont&eacute;m dois equ&iacute;vocos &ndash; no plano da decis&atilde;o pol&iacute;tica, ao retardar a solu&ccedil;&atilde;o do problema por mais de 10 anos, a custos incalcul&aacute;veis para o povo do Recife; e, no que se refere ao planejamento, ao propor uma via urbana local para resolver uma quest&atilde;o intermunicipal;</p></p>
+<p><p>Agravando estes equ&iacute;vocos, a atual gest&atilde;o descartou a modelagem de viabiliza&ccedil;&atilde;o financeira da Linha Verde, a partir de Parceria P&uacute;blico Privada (PPP). Na contram&atilde;o desta equa&ccedil;&atilde;o financeira, a Via Mangue seria executada com recursos p&uacute;blicos, onerando o Tesouro Municipal em mais de R$ 300 milh&otilde;es que poderiam ser aplicados nas &aacute;reas carentes da cidade e no pr&oacute;prio sistema vi&aacute;rio local. A Via Mangue reflete uma invers&atilde;o de prioridades e o mau uso dos recursos p&uacute;blicos numa obra vi&aacute;ria que n&atilde;o resolve o problema da mobilidade na Zona Sul.</p></p>
+<p><p>A proposta da Via Sul Metropolitana se insere no conceito da Linha Verde, incorporando no seu primeiro trecho benef&iacute;cios complementares, dos quais se destacam: a cria&ccedil;&atilde;o do corredor exclusivo de &ocirc;nibus ou de ve&iacute;culo leve sobre trilhos na Av. Domingos Ferreira e Av. Jequitinhonha; a requalifica&ccedil;&atilde;o da Av. Boa Viagem, dando-lhe um car&aacute;ter proeminente de lazer; a incorpora&ccedil;&atilde;o &agrave; cidade de &aacute;reas estagnadas ou subutilizadas localizadas no trajeto da nova via; a cria&ccedil;&atilde;o do anel de prote&ccedil;&atilde;o ao Parque dos Manguezais, bem como a remo&ccedil;&atilde;o das palafitas do seu entorno pela constru&ccedil;&atilde;o de habita&ccedil;&otilde;es para as fam&iacute;lias; e ainda, a integra&ccedil;&atilde;o com projetos estruturadores como a Linha Sul do Metr&ocirc;, o Aeroporto dos Guararapes e o Complexo Tur&iacute;stico do Paiva.</p></p>
+<p><p>Al&eacute;m desses aspectos, &eacute; urgente a integra&ccedil;&atilde;o Recife-Suape, em virtude do novo territ&oacute;rio de oportunidades e sua escala regional. A integra&ccedil;&atilde;o de fluxos de pessoas e de transporte, de trocas e de servi&ccedil;os entre o Recife e Suape &eacute; decisiva para a apropria&ccedil;&atilde;o dos ganhos econ&ocirc;micos decorrentes dos investimentos em Suape, principalmente na gera&ccedil;&atilde;o de empregos.</p></p>
+<p><p>Se o poder p&uacute;blico n&atilde;o oferecer ao trabalhador condi&ccedil;&otilde;es de deslocamento do Recife para buscar novas oportunidades de emprego e melhoria de vida no eixo de Suape, nossa cidade pode enfrentar um processo de migra&ccedil;&atilde;o da sua popula&ccedil;&atilde;o para cidades como Cabo e Ipojuca.</p></p>
+<p><p>N&atilde;o podemos permitir que o Recife se torne um territ&oacute;rio apartado desse ciclo de desenvolvimento, ficando &agrave; margem em decorr&ecirc;ncia de equ&iacute;vocos pol&iacute;ticos e de vis&atilde;o excludente.</p></p>
+<p><p>A Via Sul Metropolitana n&atilde;o s&oacute; est&aacute; parcialmente implantada, mas em execu&ccedil;&atilde;o nos munic&iacute;pios de Jaboat&atilde;o dos Guararapes e do Cabo de Santo Agostinho, atrav&eacute;s de Parceria P&uacute;blico-Privada firmada em nosso per&iacute;odo de Governo, visando &agrave; viabiliza&ccedil;&atilde;o do Projeto Paiva e da liga&ccedil;&atilde;o com SUAPE.</p></p>
+<p><p>Recife j&aacute; vive hoje um processo de esvaziamento econ&ocirc;mico segmentado no setor de turismo, quando um parcela representativa do turista de lazer que desembarca no Aeroporto dos Guararapes segue direto para Porto de Galinhas e litoral sul e depois deixa nosso Estado sem conhecer a beleza, a hist&oacute;ria e a hospitalidade do povo recifense. Temos que discurtir alternativas para garantir a Recife integra&ccedil;&atilde;o ao novo p&oacute;lo de desenvolvimento do Estado.</p></p>
+<p><p>&Eacute; meu compromisso com o povo do Recife evitar o erro estrat&eacute;gico, retomando o Projeto da Linha Verde e reinserindo o Recife no tempo da antecipa&ccedil;&atilde;o do futuro, t&atilde;o bem projetada pelos nossos planejadores.</p> </p>
+{% endraw %}

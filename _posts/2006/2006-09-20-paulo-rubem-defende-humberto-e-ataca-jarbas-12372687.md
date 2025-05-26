@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>O deputado federal Paulo Rubem Santiago (PT-PE) saiu hoje em defesa do candidato do PT ao Governo de Pernambuco, o ex-ministro da Saúde, Humberto Costa, duramente criticado, ontem, por caciques da União Por Pernambuco, a coligação do governador-candidato Mendonça Filho (PFL). </FONT></P></p>
 <p><P><FONT face=Verdana>Paulo Rubem enviou uma nota ao <B>Blog</B>, questionando a transação para a criação da Companhia Pernambucana de Hemoderivados (CPH), durante o Governo Jarbas-Mendonça. Segundo ele, o processo se deu \"sem licitação e em flagrante conflito com as normas constitucionais\". </FONT></P></p>
@@ -33,4 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana>_______________________</FONT></P></p>
 <p><P><FONT face=Verdana><EM><STRONG>O </STRONG>Blog <STRONG>procurou o ex-governador Jarbas Vasconcelos, mas segundo sua assessoria de imprensa, um deputado da União por Pernambuco é quem responderá a nota de Paulo Rubem Santiago.</STRONG></EM></FONT></P></p>
 <p><P><FONT face=Verdana>*Leia </FONT><A href=\"https://jc3.uol.com.br/blogs/jc/2006/09/19/index.php\"><STRONG><FONT face=Verdana>aqui</FONT></STRONG></A><FONT face=Verdana>&nbsp;a entrevista&nbsp;concedida ao Blog do JC pelo&nbsp;ex-secretário de Saúde&nbsp;no Governo Jarbas, Guilherme Robalinho.</FONT></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

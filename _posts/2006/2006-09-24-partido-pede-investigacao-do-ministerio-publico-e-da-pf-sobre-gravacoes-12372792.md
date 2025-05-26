@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Transcrevo abaixo cópia do pedido apresentado hoje pelos advogados do PSB:</FONT></P></p>
 <p><P><FONT face=Verdana><EM>EXMO. SR. PROCURADOR REGIONAL ELEITORAL DO TRIBUNAL REGIONAL ELEITORAL DE PERNANBUCO.</EM></FONT></P></p>
 <p><P><BR><FONT face=Verdana><EM>A COLIGAÇÃO FRENTE POPULAR DE PERNAMBUCO, vem, respeitosamente, através de seu representante, delegados e advogados devidamente infra-assinados, NOT??CIAR FATOS E REQUERER PROVIDÊNCIAS URGENTES, expondo e requerendo a V. Exa. o que se segue:</EM></FONT></P></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>HÉLIO GURGEL<BR>OAB/PE 10.484</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>RODRIGO PELLEGRINO<BR>OAB/PE 12.040</EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>PEDRO HENRIQUE BEZERRA<BR>OAB/PE 23.140</EM></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

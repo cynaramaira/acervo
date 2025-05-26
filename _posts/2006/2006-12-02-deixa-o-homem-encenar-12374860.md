@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>Os jornais de hoje revelam que o cineasta e produtor Lu?s Carlos Barreto planeja começar as filmagens da biografia do presidente Lula, a partir do próximo ano. Realmente, não faltava mais nada. Onde estava este artista que não teve esta idéia genial antes ?</P></p>
 <p><P><FONT face=Verdana>Em Bras?lia, a segunda seleção do presidente ainda não saiu, mas alguns nomes já são dados como certos para a nova empreitada.</FONT></P></p>
 <p><P><FONT face=Verdana>A captação de recursos para a produção deve ficar a cargo de Delúbio Soares e Marcos Valério</FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Patroc?nio cultural não será problema para a Petrobras. No Nordeste, a boa e velha Chesf pode dar sua ajudinha.</FONT></P></p>
 <p><P><FONT face=Verdana>Para a escolha do nome do filme, ninguém melhor do que o nosso prefeito João Paulo, com alguma coisa como O Filho da Mãe Lindu</FONT></P></p>
 <p><P><FONT face=Verdana>Espetáculo do crescimento, que é bom, nada ainda. Pelo menos, neste segundo caso, você não precisa pagar para ver...</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

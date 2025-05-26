@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>As equipes de transição do governador eleito Eduardo Campos (PSB) e do governador Mendonça Filho (PFL) acabaram há pouco sua primeira reunião de trabalho para a troca de informações sobre o funcionamento da máquina administrativa estadual.</FONT></P></p>
 <p><P><FONT face=Verdana>Entre as primeiras medidas concretas acertadas, os assessores de Mendonça concordaram em marter nos cargos parte dos 7,5 mil servidores que ocupam funções comissionadas e gratificadas.</FONT></P></p>
 <p><P><FONT face=Verdana>Houve um consenso entre eles de que, pelo menos por algum tempo, no in?cio do novo governo, é preciso manter uma parcela desse pessoal onde está para evitar qualquer risco de descontinuidade na prestação dos serviços públicos.</FONT></P></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>O coordenador da transição pelo lado do governo, o secretário de Planejamento, Cláudio Marinho, explicou que haverá um esforço concentrado para que o maior número poss?vel de informações técnicas seja repassado já no próximo encontro da transição, marcado para quinta-feira da próxima semana, às 9h30.</FONT></P></p>
 <p><P><FONT face=Verdana>Segundo Marinho, os dois grupos têm uma preocupação comum, que é garantir o abastecimento de áreas com serviços públicos essenciais. Da? o interesse da equipe de Eduardo em relação aos contratos. \"Estamos atentos principalmente à garantia de abastecimento nas áreas de Educação e Saúde, dos hospitais, entre outras\", lembrou o secretário.</FONT></P></p>
 <p><P><FONT face=Verdana>Outra preocupação importante, segundo Marinho e Lyra, é com as estatais, as empresas da administração indireta. Ao longo dos próximos encontros da transição, os presidentes das estatais - como Compesa (saneamento), Suape (Porto) e Copergas (gás natural) - serão convidados para fazer apresentações espec?ficas e aprofundadas sobre suas estruturas, composições acionárias, mercados e dificuldades operacionais ou técnicas.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

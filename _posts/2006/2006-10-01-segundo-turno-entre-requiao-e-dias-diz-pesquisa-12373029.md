@@ -15,9 +15,9 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Pesquisa de boca-de-urna divulgada agora pela TV Globo:</FONT></P></p>
 <p><P><FONT face=Verdana>Roberto Requião (PMDB) 44%</FONT></P></p>
 <p><P><FONT face=Verdana>Osmar dias (PDT) 37%</FONT></P></p>
 <p><P><FONT face=Verdana>A margem de erro da pesquisa é de dois pontos para mais ou para menos.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -1,0 +1,28 @@
+---
+id: 12387631
+date: "2008-04-04T19:27:00Z"
+last_modified_at: null
+tags:
+  - "dilma"
+categories:
+  - "noticias"
+title: "Dilma enrolou, enrolou e... enrolou"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Do Blog de Noblat</font></p></p>
+<p><p><font face=\"Verdana\">Foi uma entrevista que nada esclareceu, essa da ministra Dilma Rousseff, da Casa Civil, a prop&oacute;sito de reportagem publicada, hoje, pela Folha de S&atilde;o Paulo (leia notas a respeito mais abaixo). Ela estava visivelmente nervosa. E n&atilde;o conseguiu disfar&ccedil;ar o tom arrogante que costuma imprimir ao que diz.</font></p></p>
+<p><p><font face=\"Verdana\">Registre-se tamb&eacute;m que foi p&iacute;fio o desempenho dos jornalistas reunidos para entrevist&aacute;-la. Perguntaram pouco. E poucas foram as perguntas de fato pertinentes e destinadas a jogar luz sobre determinados aspectos do epis&oacute;dio.</font></p></p>
+<p><p><font face=\"Verdana\">Dilma insistiu em negar que tenha sido montado um dossi&ecirc; sobre despesas do per&iacute;odo de governo do ex-presidente Fernando Henrique Cardoso. E negou que tal dossi&ecirc; (ela evita pronunciar esse nome) se destinasse a constranger ou chantagear quem quer que fosse. Insinuou que ele serve aos prop&oacute;sitos de quem n&atilde;o se conforma com a boa performance do governo e com a situa&ccedil;&atilde;o favor&aacute;vel da economia.</font></p></p>
+<p><p><font face=\"Verdana\">Admitiu, com base no que ouviu de assessores, que 90% dos casos de vazamentos de informa&ccedil;&otilde;es se devem &agrave; a&ccedil;&atilde;o de quem tem acesso &agrave;s informa&ccedil;&otilde;es. Ou seja: indiretamente quis dizer que &eacute; forte a possibilidade de algum funcion&aacute;rio da Casa Civil ter fornecido as informa&ccedil;&otilde;es ou montado o que n&oacute;s, os idiotas, insistimos em chamar de dossi&ecirc;.</font></p></p>
+<p><p><font face=\"Verdana\">Mas n&atilde;o revelou quantos funcion&aacute;rios da Casa Civil t&ecirc;m acesso ao banco de dados de onde foram extra&iacute;das as informa&ccedil;&otilde;es reunidas no dossi&ecirc;. Muito menos, &eacute; claro, citou o nome de qualquer um deles.</font></p></p>
+<p><p><font face=\"Verdana\">Para Dilma, o dossi&ecirc; (perd&atilde;o: documento montado com informa&ccedil;&otilde;es vazadas de dentro da Casa Civil) n&atilde;o passa da &quot;escandaliza&ccedil;&atilde;o do nada&quot;. A express&atilde;o &quot;escandaliza&ccedil;&atilde;o do nada&quot; foi cunhada pelo ministro Jorge Hage, da Controladoria Geral da Uni&atilde;o. Caiu no gosto dos colegas dele. J&aacute;, j&aacute;, vai acabar rivalizando com outras express&otilde;es originais como &quot;Nunca antes na hist&oacute;ria deste pa&iacute;ses&quot; e &quot;Eu n&atilde;o sabia&quot;.</font></p></p>
+<p><p><font face=\"Verdana\">&Eacute; claro que a ministra prometeu investigar &quot;com rigor&quot; o que de fato aconteceu. (Imaginei que isso j&aacute; estivesse sendo feito.) E at&eacute; se disp&ocirc;s a conversar com Tarso Genro, ministro da Justi&ccedil;a, &quot;para avaliar&quot; o que fazer daqui por diante. Tarso disse mais cedo que a Pol&iacute;cia Federal entrar&aacute; no caso &quot;se alguma autoridade solicitar&quot;. Dilma &eacute; autoridade, por suposto.<br /></p>
+<p>A eventual entrada em cena da Pol&iacute;cia Federal n&atilde;o significar&aacute; grande coisa. Ela foi acionada pelo governo para apurar no segundo semestre de 2006 o caso do &quot;Dossi&ecirc; dos Aloprados&quot; - a tentativa de se prejudicar a campanha de Jos&eacute; Serra (PSDB) ao governo de S&atilde;o Paulo e de Geraldo Alckmin (PSDB) &agrave; presid&ecirc;ncia da Rep&uacute;blica por meio da divulga&ccedil;&atilde;o de falsas informa&ccedil;&otilde;es contra eles.</font></p></p>
+<p><p><font face=\"Verdana\">Os &quot;aloprados&quot;, assim chamados por Lula, eram funcion&aacute;rios do comit&ecirc; de campanha dele. O coordenador da campanha era o atual presidente do PT, deputado Ricardo Berzoini. O caso teve mala de dinheiro, encontros secretos em Cuiab&aacute; e em S&atilde;o Paulo, pris&atilde;o de bagrinhos flagrados em a&ccedil;&atilde;o - mas ao fim e ao cabo ficou por isso mesmo. A Pol&iacute;cia Federal n&atilde;o conseguiu desvendar a autoria do crime. </font></p></p>
+<p><p><font face=\"Verdana\">Se o que hoje foi publicado pela Folha n&atilde;o contribuir para garantir uma sobrevida &agrave; CPI Mista do Cart&atilde;o Corporativo formada por senadores e deputados, &eacute; poss&iacute;vel que sirva para desentocar a proposta de cria&ccedil;&atilde;o de uma CPI similar restrita ao Senado. Ali a maioria de votos do governo &eacute; escassa.</font></p></p>
+<p><p><font face=\"Verdana\">PS do Blog de Jamildo: Por mais que o governo e os &aacute;ulicos de plant&atilde;o na m&iacute;dia digital digam o contr&aacute;rio, Dilma perdeu uma boa oportunidade de negar-se a falar com a imprensa. A sua entrevista n&atilde;o convenceu e s&oacute; serviu para esbanjar a habitual arrog&acirc;ncia, reconhecida at&eacute; por aliados mais l&uacute;cidos. Se fosse um governo s&eacute;rio, Dilma teria sido demitida na mesma semana em que negou a exist&ecirc;ncia do dossi&ecirc;, apresentado pela Veja. Como estamos no governo da desfa&ccedil;atez, da mentira, das meias verdades, a m&atilde;e do PAC vai continuar enbromando at&eacute; que o caso seja esquecido.</font></p> </p>
+{% endraw %}

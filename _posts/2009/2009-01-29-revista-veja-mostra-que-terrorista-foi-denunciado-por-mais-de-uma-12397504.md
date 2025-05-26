@@ -1,0 +1,28 @@
+---
+id: 12397504
+date: "2009-01-29T11:57:00Z"
+last_modified_at: null
+tags:
+  - "animais"
+  - "cerveja"
+  - "felippe-pessoa"
+  - "mostra"
+  - "revista"
+  - "witzel-denunciado"
+categories:
+  - "noticias"
+title: "Revista Veja mostra que terrorista foi denunciado por mais de uma pessoa"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><span class="revistasCorpo">Na Carta ao Leitor de sua &uacute;ltima edi&ccedil;&atilde;o, VEJA deu cr&eacute;dito a Tarso Genro, ministro da Justi&ccedil;a, que, depois de &quot;estudo cuidadoso&quot; dos processos italianos, disse n&atilde;o ter encontrado neles provas concretas que colocassem Cesare Battisti na cena dos quatro homic&iacute;dios pelos quais ele havia sido condenado &agrave; pris&atilde;o perp&eacute;tua em seu pa&iacute;s. Battisti, agraciado por Genro com o status de refugiado pol&iacute;tico no Brasil, foi um dos l&iacute;deres do grupo extremista Prolet&aacute;rios Armados pelo Comunismo (PAC), desbaratado h&aacute; mais de vinte anos pela Justi&ccedil;a italiana gra&ccedil;as &agrave; dela&ccedil;&atilde;o premiada de Pietro Mutti, um de seus fundadores. A reportagem de VEJA refez na semana passada o mesmo estudo que Tarso Genro garantiu ter feito. Al&eacute;m de ler os autos de cinco tribunais internacionais, a revista entrevistou magistrados italianos diretamente respons&aacute;veis pela investiga&ccedil;&atilde;o dos crimes de Battisti. Os resultados obtidos desmentem em sua ess&ecirc;ncia todos os argumentos do ministro da Justi&ccedil;a brasileiro. Havia a possibilidade de Tarso estar certo, mas agora h&aacute; a certeza de que ele est&aacute; errado.</span></p></p>
+<p><p><span class="revistasCorpo">Ao contr&aacute;rio do que sustentou Tarso Genro, Battisti teve amplo direito de defesa e as provas contra ele vieram de testemunhos de diversas pessoas, e n&atilde;o apenas da dela&ccedil;&atilde;o premiada de Mutti. O ministro brasileiro colocou em suspei&ccedil;&atilde;o as confiss&otilde;es de Mutti por duas raz&otilde;es. Primeiro, por entender que ele se beneficiou delas ao p&ocirc;r toda a culpa sobre os ombros de Battisti. Segundo, porque Mutti estaria vivendo sob identidade falsa e n&atilde;o poderia ser encontrado para eventualmente inocentar Battisti no caso de o processo ser reaberto. Os fatos desmentem Tarso Genro em ambos os casos. Primeiro, Mutti cumpriu oito anos de cadeia por sua parceria terrorista com Battisti e nada teria a ganhar incriminando injustamente o colega, j&aacute; que delatou o grupo todo. Segundo, Mutti n&atilde;o mudou de identidade e pode ser facilmente encontrado &ndash; como efetivamente o foi na semana passada por rep&oacute;rteres da revista italiana <i>Panorama,</i> que, depois de saberem da decis&atilde;o e dos argumentos do ministro brasileiro, tamb&eacute;m foram atr&aacute;s do ex-terrorista para elucidar o caso. </span></p></p>
+<p><p><span class="revistasCorpo">Ficou claro como cristal que:</span></p></p>
+<p><p><span class="revistasCorpo">&bull;<b> Battisti teve direito a ampla defesa.</b> O hist&oacute;rico da defesa &eacute; narrado em min&uacute;cias no documento em que a Corte Europeia de Direitos Humanos, em Estrasburgo, justifica a decis&atilde;o de extraditar o terrorista para a It&aacute;lia. </span></p></p>
+<p><p><span class="revistasCorpo">&bull;<b> A condena&ccedil;&atilde;o de Battisti n&atilde;o se deu com base em um &uacute;nico testemunho.</b> &quot;Numerosos terroristas confirmaram as declara&ccedil;&otilde;es de Mutti, assim como outras testemunhas&quot;, afirmou a VEJA o procurador da Rep&uacute;blica de Mil&atilde;o Armando Spataro. A revista <i>Panorama</i> reproduz o depoimento de uma dessas testemunhas. Maria Cec&iacute;lia B, ex-namorada do terrorista, relatou &agrave;s autoridades italianas: &quot;Na primavera de 1979, Battisti, ao descrever-me a experi&ecirc;ncia de matar uma pessoa, fez refer&ecirc;ncia ao homic&iacute;dio de Santoro <i>(o agente penitenci&aacute;rio Antonio Santoro)</i> indicando a si mesmo como um dos autores&quot;. Em documento da Justi&ccedil;a italiana obtido por VEJA, testemunhas oculares relatam a presen&ccedil;a de Battisti em dois dos homic&iacute;dios.</span></p></p>
+<p><p><span class="revistasCorpo">&bull; <b>Mutti, o delator premiado, n&atilde;o mudou de identidade nem est&aacute; desaparecido.</b> Entrevistado por <i>Panorama,</i> relatou como ele e Battisti mataram um agente penitenci&aacute;rio.</span></p></p>
+<p><p><span class="revistasCorpo">A pol&ecirc;mica est&aacute; longe de terminar. O presidente Lula j&aacute; disse &agrave; It&aacute;lia que o Brasil n&atilde;o vai recuar da decis&atilde;o. O governo italiano avisou que vai usar todos os recursos jur&iacute;dicos para conseguir a extradi&ccedil;&atilde;o. No m&ecirc;s que vem, quando termina o recesso do Judici&aacute;rio, os ministros do Supremo Tribunal Federal ter&atilde;o de responder a uma pergunta fundamental para o desfecho do caso: pode o Executivo definir se um crime &eacute; ou n&atilde;o pol&iacute;tico, como fez Tarso&#63; A resposta a essa quest&atilde;o &eacute; crucial, uma vez que, pela lei brasileira, quem comete crime pol&iacute;tico tem direito a ref&uacute;gio e n&atilde;o pode ser extraditado. Assim, se o STF decidir que n&atilde;o cabe ao Executivo, ou seja, a Tarso Genro, decidir sobre a natureza dos crimes de Battisti, a consequ&ecirc;ncia da a&ccedil;&atilde;o do ministro &ndash; a concess&atilde;o do ref&uacute;gio &ndash; perder&aacute; validade. Nesse caso, a decis&atilde;o de abrigar ou n&atilde;o o terrorista no pa&iacute;s ficar&aacute; a cargo do STF. Estar&aacute; em melhores m&atilde;os.</span></p> </p>
+{% endraw %}

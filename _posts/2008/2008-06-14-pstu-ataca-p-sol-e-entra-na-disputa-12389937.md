@@ -1,0 +1,23 @@
+---
+id: 12389937
+date: "2008-06-14T10:06:00Z"
+last_modified_at: null
+tags:
+  - "amcentral"
+  - "natacao"
+categories:
+  - "noticias"
+title: "PSTU ataca P-SOL e entra na disputa"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"2\"><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"1\"><font size=\"2\">O PSTU est&aacute; lan&ccedil;ando candidatura majorit&aacute;ria no Recife. O nome da prefeitur&aacute;vel, no entanto, s&oacute; ser&aacute; definido na conven&ccedil;&atilde;o do partido, no pr&oacute;ximo dia 28. As indicadas s&atilde;o K&aacute;tia Telles, que disputou o governo do Estado em 2006, e Cl&aacute;udia Ribeiro, candidata a deputada estadual na &uacute;ltima elei&ccedil;&atilde;o. A esperan&ccedil;a que o partido tinha de repetir, nas elei&ccedil;&otilde;es municipais deste ano, a frente formada em 2006 para sustentar a candidatura de Helo&iacute;sa Helena &agrave; Presid&ecirc;ncia da Rep&uacute;blica &ndash; com o P-SOL e o PCB &ndash; foi por terra com o apoio de Cl&oacute;vis Corr&ecirc;a ao postulante do P-SOL, Edilson Silva.</font></font></font></p></p>
+<p><p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"2\"><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"1\"><font size=\"2\">Cl&oacute;vis Corr&ecirc;a tamb&eacute;m concorria &agrave; Prefeitura do Recife at&eacute; a semana passada, quando teve a candidatura rifada pelo presidente estadual do PSDC, vereador Luiz Vidal. Como j&aacute; passou por partidos considerados &ldquo;de direita&rdquo; pelo PSTU (PSDB, PSDC, PRONA e PSB), o apoio de Cl&oacute;vis n&atilde;o &eacute; considerado bem-vindo. &ldquo;Infelizmente, o P-SOL preferiu o apoio de Corr&ecirc;a ao nosso. O P-SOL tem se afastado de n&oacute;s, dos trabalhadores, para se aproximar dos partidos patronais. Eles est&atilde;o seguindo a mesma linha do PT&rdquo;, disparou um dos dirigentes do PSTU, Guilherme Fonseca.</font></font></font></p></p>
+<p><p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"2\"><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"1\"><font size=\"2\">&ldquo;N&oacute;s temos diferen&ccedil;as, mas isso n&atilde;o impede que formemos a frente de esquerda, desde que o P-SOL rompa com Cl&oacute;vis Corr&ecirc;a&rdquo;, ressaltou Cl&aacute;udia Ribeiro. Segundo Edilson Silva, entretanto, o P-SOL n&atilde;o tem nenhum interesse em compor com o PSTU. &ldquo;Queremos ser uma esquerda expressiva e n&atilde;o essa esquerda folclorizada, pequena e sem express&atilde;o. Queremos fazer uma campanha de massa no Recife&rdquo;, afirmou.</font></font></font></p></p>
+<p><p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"2\"><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"1\"><font size=\"2\">Para Edilson, o passado de Cl&oacute;vis n&atilde;o &eacute; o que pesa. &ldquo;N&atilde;o estamos fazendo coliga&ccedil;&atilde;o eleitoral. Ele est&aacute; trazendo seu apoio incondicional. Todos os setores que quiserem nos apoiar, desde que n&atilde;o sejam picaretas ou corruptos, ser&atilde;o bem recebidos&rdquo;, disse, fechando quest&atilde;o.</font></font></font></p></p>
+<p><p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"2\"><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"1\"><font size=\"2\">Os desentendimentos entre dois dos partidos mais atuantes da ultra-esquerda, por&eacute;m, antecederam a interven&ccedil;&atilde;o de Corr&ecirc;a no processo. J&aacute; em 2006 o P-SOL negou a vice nacional ao PSTU alegando &ldquo;diferen&ccedil;as&rdquo;. Na forma&ccedil;&atilde;o da chapa recifense, este ano, a alian&ccedil;a ficou comprometida desde que uma carta aberta foi lan&ccedil;ada pelo PSTU. No texto, a exposi&ccedil;&atilde;o das diverg&ecirc;ncias e as cobran&ccedil;as p&uacute;blicas com rela&ccedil;&atilde;o &agrave; avalia&ccedil;&atilde;o do governo Jo&atilde;o Paulo e ao leque de apoios a serem aceitos minaram as rela&ccedil;&otilde;es entre os dois partidos.</font></font></font></p></p>
+<p><p><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"2\"><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"1\"><font size=\"2\"><font size=\"+0\"><font size=\"+0\"><em><a name=\"19127\"><font size=\"+0\"><font face=\"Verdana, Arial, Helvetica, sans-serif\" size=\"2\"><font face=\"Verdana\"><font size=\"2\"><em>Do caderno de Pol&iacute;tica do JC</em></font></font></font></font></a></em></font></font></font></font></font></p> </p>
+{% endraw %}

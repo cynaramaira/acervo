@@ -1,0 +1,35 @@
+---
+id: 12389006
+date: "2008-05-16T14:59:00Z"
+last_modified_at: null
+tags:
+  - "lula"
+  - "marina-lima"
+categories:
+  - "noticias"
+title: "Lula, o bagre e Marina (Joana DArc cabocla)"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\"><strong>Por Gustavo Krause</strong></font></p></p>
+<p><p><font face=\"Verdana\">A ministra Marina Silva teve motivos de sobra para, h&aacute; mais tempo, deixar o governo. &Eacute; leg&iacute;timo supor que n&atilde;o o fez por conta dos s&oacute;lidos compromissos com a causa ambiental e pela t&ecirc;mpera pessoal de resistir e superar uma vida marcada por enormes dificuldades.</font></p></p>
+<p><p><font face=\"Verdana\">Lula pintou e bordou com ela: contrariou princ&iacute;pios; criticou a&ccedil;&otilde;es; desautorizou iniciativas; faltou-lhe com o devido respeito em duas ocasi&otilde;es que foram gotas d\&aacute;gua para fazer esborrar um pote, at&eacute; aqui, de decep&ccedil;&otilde;es.</font></p></p>
+<p><p><font face=\"Verdana\">A primeira ocasi&atilde;o foi, em abril de 2007, quando o Presidente, numa de suas freq&uuml;entes falas, afirmou que o licenciamento ambiental das usinas hidrel&eacute;tricas de Jirau e Santo Antonio, no rio Madeira, estava travado &quot;Por causa do bagre. Jogaram o bagre no colo do Presidente&quot;.</font></p></p>
+<p><p><font face=\"Verdana\">De fato, n&atilde;o entra em &quot;cabe&ccedil;as de bagre&quot; o significado dos impactos ambientais das referidas usinas sobre o ambiente aqu&aacute;tico, sobre a cadeia da biodiversidade e sobre a amea&ccedil;a de extin&ccedil;&atilde;o de quatrocentas esp&eacute;cies de peixe, entre eles, o dourado.</font></p></p>
+<p><p><font face=\"Verdana\">Os idiotas da objetividade, que adoram esta falsa polariza&ccedil;&atilde;o entre desenvolvimento e meio ambiente, com a baba bovina escorrendo sobre gravatas importadas, aduladores de plant&atilde;o, &aacute;ulicos de sempre, comentaram embevecidos &quot;Que not&aacute;vel capacidade de comunica&ccedil;&atilde;o! Que beleza de compara&ccedil;&atilde;o! O povo entende. Este Presidente &eacute; um arretado!&quot;.</font></p></p>
+<p><p><font face=\"Verdana\">A segunda ocasi&atilde;o foi marcada pelo constrangimento final: o Presidente entregou a coordena&ccedil;&atilde;o do Plano Amaz&ocirc;nia Sustent&aacute;vel a Mangabeira Unger, isto mesmo, ao cidad&atilde;o repatriado e rec&eacute;m-convertido &agrave; Teoria e Pr&aacute;tica do Governo Aloprado. Mangabeira n&atilde;o tem nada a ver com cupua&ccedil;u, a&ccedil;a&iacute;, bacuri, tucum&atilde;; &eacute; arvoreta da fam&iacute;lia das apocin&aacute;ceas, afei&ccedil;oada ao litoral nordestino; s&oacute; d&aacute; mangaba, frutinha estranha ao bioma amaz&ocirc;nico. </font></p></p>
+<p><p><font face=\"Verdana\">No discurso da solenidade, Marina passou o recibo: &quot;Fui considerada a ministra dos bagres&quot;; e n&atilde;o engoliu a exonera&ccedil;&atilde;o de fato e, o que &eacute; pior, p&uacute;blica. Nada estranho a um governo que demite ministro por telefone.</font></p></p>
+<p><p><font face=\"Verdana\">Como Gabeira, Marina sonhou o &quot;sonho errado&quot;; serviu como um selo verde para efeito internacional; depois, tornou-se um estorvo para o espet&aacute;culo do crescimento a qualquer pre&ccedil;o, inclusive o da degrada&ccedil;&atilde;o ambiental. Agora, o Presidente, com popularidade em alta e subservi&ecirc;ncia ajoelhada ao redor, dispensa valores e princ&iacute;pios.</font></p></p>
+<p><p><font face=\"Verdana\">Por outro lado, a sa&iacute;da da ministra exp&otilde;e o que a experi&ecirc;ncia tem me ensinado:&nbsp;</font><font face=\"Verdana\">Primeiro, a quest&atilde;o ambiental &eacute; central para a humanidade e perif&eacute;rica para os governos; segundo, o discurso oficial promete o desenvolvimento sustent&aacute;vel, mas a pol&iacute;tica econ&ocirc;mica financia a insustentabilidade; terceiro, o gestor ambiental sofre de solid&atilde;o pol&iacute;tica, largado no centro do conflito entre interesses imediatos e espec&iacute;ficos e interesses mediatos e difusos. Sem o m&iacute;nimo apoio, trava uma luta desigual.</font></p></p>
+<p><p><font face=\"Verdana\">Nos cinco anos e meio de gest&atilde;o, estes desgastantes conflitos manifestaram-se em v&aacute;rias oportunidades, dentro e fora do governo: nos confrontos com a &aacute;rea de ci&ecirc;ncia e tecnologia (transg&ecirc;nicos), setor el&eacute;trico (inclusive com a Ministra Dilma), com o ministro da agricultura (agroneg&oacute;cio), com os governadores Zeca do PT, Ivo Cassol, Blairo Maggi, especialmente, em dois explosivos assuntos, o desmatamento da Amaz&ocirc;nia e o licenciamento ambiental da obras do PAC.</font></p></p>
+<p><p><font face=\"Verdana\">Na quest&atilde;o do desmatamento, alguns desavisados, espertas e cooptadas Organiza&ccedil;&otilde;es N&atilde;o-governamentais ou, mais adequadamente, Organiza&ccedil;&otilde;es Neo-Governamentais (linhas auxiliares e aut&ecirc;nticas unidades or&ccedil;ament&aacute;rias do governo em in&uacute;meras &aacute;reas do terceiro setor e dos movimentos sociais), contribu&iacute;ram com um equ&iacute;voco que custou caro &agrave; ministra: atribu&iacute;ram o cr&eacute;dito da redu&ccedil;&atilde;o dos &iacute;ndices de desmatamento &agrave; a&ccedil;&atilde;o fiscalizadora do governo e &agrave; cria&ccedil;&atilde;o de &aacute;reas protegidas.</font></p></p>
+<p><p><font face=\"Verdana\">Senhoras e senhores, maior ou menor desmatamento &eacute; fun&ccedil;&atilde;o do crescimento econ&ocirc;mico e, no caso, agravado com o pre&ccedil;o nas alturas da carne e da soja.</font></p></p>
+<p><p><font face=\"Verdana\">Estruturalmente, o desmatamento &eacute; o efeito perverso de um modelo econ&ocirc;mico que d&aacute; mais valor &agrave; madeira, &agrave; terra nua do que &agrave; floresta em p&eacute;. </font></p></p>
+<p><p><font face=\"Verdana\">Elementar, para compreender, dific&iacute;limo para por em pr&aacute;tica. O desmatamento cresceu e vai crescer; a &aacute;rea ambiental pagou e vai pagar o pato.</font></p></p>
+<p><p><font face=\"Verdana\">Na quest&atilde;o do licenciamento, a burocracia n&atilde;o &eacute; inocente. &Eacute; lerda. &Eacute; incompetente. N&atilde;o raras vezes, como todas as burocracias, corruptas. Uns, o governo, os empreendedores, querem pressa; outros, os burocratas, os bons, obedi&ecirc;ncia &agrave; lei e os ruins, a obstru&ccedil;&atilde;o.</font></p></p>
+<p><p><font face=\"Verdana\">Foi nesta monumental fogueira que Lula, ex&iacute;mio na arte de fritar e elogiar delinq&uuml;entes, jogou, impiedosamente, sua Joana D\Arc cabocla.</font></p></p>
+<p><p><font face=\"Verdana\">O Deputado Andr&eacute; de Paula fez uma s&iacute;ntese admir&aacute;vel do epis&oacute;dio: na gest&atilde;o de Lula, os membros importantes do governo ou saem envergonhando, ou saem envergonhados... do governo, &eacute; claro. A respeit&aacute;vel Ministra e Senadora Marina Silva se encaixa na segunda hip&oacute;tese. </font></p> </p>
+{% endraw %}

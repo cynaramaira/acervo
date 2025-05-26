@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>A reunião das duas equipes de transição, marcada para amanhã, foi transferida para quarta-feira. </FONT></P></p>
 <p><P><FONT face=Verdana>Segundo informou o secretário de Planejamento e coordenador da equipe de transição do governador Mendonça Filho (PFL), Cláudio Marinho, o motivo é a ausência do presidente do Porto de Suape, Matheus Antunes. Ele está em Bras?lia e não chegará a tempo.</FONT></P></p>
 <p><P><FONT face=Verdana>Sem Antunes, o encontro não faz sentido. Isso porque Suape é a \"ordem do dia\" e deverá, certamente, render muito \"pano pra manga\". </FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>Quinta-feira (14/12)<BR>Organizações sociais<BR>Porto Digital<BR>Ceagepe<BR>Itep<BR>Procentro</FONT></P></p>
 <p><P><FONT face=Verdana>Terça-feira (19/12)<BR>Lafepe</FONT></P></p>
 <p><P><FONT face=Verdana>*As reuniões ocorrerão às 10h, no Palácio do Campo das Princesas, no bairro de Santo Antônio, no Recife.</FONT> </P> </p>
-{\% endraw %}
+{% endraw %}

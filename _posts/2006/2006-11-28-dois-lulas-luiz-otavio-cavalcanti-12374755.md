@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Luiz Otavio Cavalcanti*</STRONG><BR>Ex-secretário do Planejamento e da Fazenda de Pernambuco<BR></FONT><A href=\"mailto:lotavio@fsm.com.br\"><FONT face=Verdana>lotavio@fsm.com.br</FONT></A></P></p>
 <p><P><FONT face=Verdana><BR>Há dois Lulas. O do Pa?s real. E o do Pa?s formal. Há o Lula que fala ao Pa?s e ao povo que trabalha, come e vota, em com?cios e inaugurações. E há o Lula que administra o governo, autoriza despesas, discute pol?ticas públicas e quer crescimento anual da economia de 5%. Como eles vão se encontrar na prática administrativa?</FONT></P></p>
 <p><P><FONT face=Verdana>A eleição deste ano mostrou grande mudança na relação entre Partidos Pol?ticos e eleitores. Muitos pol?ticos, em geral perplexos, não compreenderam o que se passa. Os Partidos ficaram quase paralisados. Não houve debate objetivo sobre os principais problemas do Pa?s. Lula o evitou e Alckmin não o produziu. Mas, o Pa?s está se modernizando. A economia continua estável. A sociedade está mais complexa.</FONT></P></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>Por outro lado, a queda de esperanças em relação à aposta eleitoral feita em liderança carismática e forte, como Lula, gera frustrações populares. O caminho do desencanto pol?tico pode ser a sedução em favor de alternativas não convencionais. Foi assim com Collor. </FONT></P></p>
 <p><P><FONT face=Verdana>Por isso, mesmo arcando com todas as arengas de coalizões partidárias, o Presidente tem que preparar melhor sua gestão, qualificar sua equipe, construir pol?ticas consistentes e formular um pensamento estratégico para o Pa?s. Ele não terá outra chance.</FONT></P></p>
 <p><P><BR><FONT face=Verdana><EM><STRONG>*Luiz Otavio Cavalcanti</STRONG>, 60, advogado, executivo e ex-secretário do Planejamento (1975/79 e 1991/92) e da Fazenda (1983/86 e 1992/93) de Pernambuco. Recifense, Cavalcanti dirige hoje a entidade mantenedora da Faculdade Santa Maria. É autor, entre outros livros, de Como a corrupção abalou o governo Lula (Ed. Ediouro, 2005), Administradores, quem somos nós? (Ed. Bagaço, 2005) e Ensaiando Pernambuco (Ed. Bagaço, 2005).</EM></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

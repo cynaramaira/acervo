@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Eduardo mal conseguiu andar nos munic?pios de Palmares e Catende, na Zona da Mata Norte, onde participou, hoje, de duas caminhadas. </FONT></P></p>
 <p><P align=justify><FONT face=Verdana>O socialista circulou por quase duas horas em cima de um pequeno caminhão. Nas ruas, festa e declarações de apoio. Teve até mini-trio elétrico e seis carros de som. </FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P align=justify><FONT face=Verdana>Sem poder realizar com?cios - a legislação eleitoral não permite às vésperas do pleito - o socialista cancelou dois com?cios, por orientação da equipe jur?dica. </FONT></P></p>
 <p><P align=justify><FONT face=Verdana></FONT></P></p>
 <p><P><FONT face=Verdana>As informações são de Monica Crisostomo, repórter de Pol?tica do Jornal do Commercio.</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -15,6 +15,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>Veja <STRONG><EM><A href=\"https://jc3.uol.com.br/tvjornal/open.php?path=https://www2.uol.com.br/JC/integracao/media/videos/manha_270609_2.wmv\" target=_blank>aqui</A></EM></STRONG>, em reportagem do TV Jornal Manhã, como será garantida a segurança em 1º de outubro, no Recife e interior de Pernambuco.</P> </p>
-{\% endraw %}
+{% endraw %}

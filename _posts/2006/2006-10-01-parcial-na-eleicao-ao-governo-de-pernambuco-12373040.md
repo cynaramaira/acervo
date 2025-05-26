@@ -14,9 +14,9 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Estes são os números com 37,03% das seções totalizadas:</FONT></P></p>
 <p><P><FONT face=Verdana>Mendonça Filho 558.792 votos (39,11%)</FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo Campos 501.050 votos (35,07%)</FONT></P></p>
 <p><P><FONT face=Verdana>Humberto Costa 346.941 votos (24,28%)</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

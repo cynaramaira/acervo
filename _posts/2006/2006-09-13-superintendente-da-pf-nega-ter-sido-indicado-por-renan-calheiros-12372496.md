@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P align=justify><FONT face=Verdana></FONT></P></p>
 <p><P align=left><FONT face=Verdana>O <STRONG>Blog</STRONG> conversou há pouco com o superintendente da Pol?cia Federal em Pernambuco, Bergson Toledo Silva, que está sendo acusado pelo Ministério Público Federal de ter vazado informações sobre uma operação policial de busca de documentos no Senado, conforme noticiou ontem o Jornal Nacional.</FONT></P></p>
 <p><P</p>
@@ -51,4 +51,4 @@ imagem: null
 <p><P align=left><FONT face=Verdana>A PF e o Senado são instituições públicas e só devem e podem se relacionar de maneira institucional.</FONT></P></p>
 <p><P align=left><FONT face=Verdana></FONT></P></p>
 <p><P align=left><FONT face=Verdana>Mas Bergson reafirma que apenas cumpriu uma missão. \"Tudo não passou de uma fatalidade. Eu não tinha como vazar informações até porque desconhecia os detalhes da operação e das investigações\", ressalta.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

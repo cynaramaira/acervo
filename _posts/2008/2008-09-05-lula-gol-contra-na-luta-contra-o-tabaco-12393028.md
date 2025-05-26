@@ -1,0 +1,35 @@
+---
+id: 12393028
+date: "2008-09-05T21:22:36Z"
+last_modified_at: null
+tags:
+  - "contran"
+  - "lula"
+  - "luta"
+categories:
+  - "noticias"
+title: "Lula: gol contra na luta contra o tabaco"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Alberto Jos&eacute; de Ara&uacute;jo</p></p>
+<p><p>Lament&aacute;vel sob todos os aspectos o fato de o presidente Lula defender o fumo em todo e qualquer lugar. Nunca antes nesse pa&iacute;s um presidente perdeu tanto os sentidos essenciais a quem foi delegado, pelo voto, o destino da administra&ccedil;&atilde;o da &quot;coisa p&uacute;blica&quot;, das res-publica como diria Plat&atilde;o, mas que anda na contram&atilde;o da hist&oacute;ria, na res-privada, como neste posicionamento eivado de ret&oacute;rica t&iacute;pica do autoritarismo latino ou do coronelismo ainda vigente oriundo dos antigos mandat&aacute;rios.&nbsp;</p></p>
+<p><p>Esta fala se soma a outras colecionadas nestes seis anos de governo, carregadas de personalismo, egocentrismo, de prepot&ecirc;ncia, arrog&acirc;ncia e despreparo para administrar o que &eacute; de &quot;interesse p&uacute;blico&quot;, portanto, de todos.</p></p>
+<p><p>Um governo que se caracteriza por n&atilde;o ver, por n&atilde;o saber quem mandou escutar e, agora n&atilde;o &quot;sente&quot; a fuma&ccedil;a do tabaco, certamente n&atilde;o ir&aacute; considerar os preju&iacute;zos para a sa&uacute;de p&uacute;blica, pois, radicalizou em um projeto de defesa dos interesses econ&ocirc;micos das grandes corpora&ccedil;&otilde;es e, a ind&uacute;stria do tabaco n&atilde;o foge &agrave; regra.</p></p>
+<p><p>Ser&aacute; preciso ressuscitar a famosa &oacute;pera-rock do &quot;The Who&quot; - Tommy - com o ou&ccedil;a-me, toque-me, sinta-me, para que o presidente que se orgulha de suas origens, reconhe&ccedil;a (ou seja, assessorado a tal) que o tabaco est&aacute; matando exatamente aqueles mais desprovidos de recursos&#63; Aqueles que ele imagina estar defendendo os direitos&#63; S&atilde;o milhares deles corintianos - como o presidente - flamenguistas, atleticanos, gremistas etc. e fumam. E, em fumando, tornam v&iacute;timas seus filhos, seu c&ocirc;njuge, seus colegas de trabalho.</p></p>
+<p><p>Se a l&oacute;gica do presidente - na minha sala sou eu que mando - for assimilada pelos fumantes (felizmente uma grande parte hoje est&aacute; mais consciente dos danos do tabaco), ele estar&aacute; dando um cheque em branco para que qualquer cidad&atilde;o, independentemente do posto que ocupe, possa argumentar que afinal &quot;se o pr&oacute;prio presidente se arroga o direito de fumar sua cigarrilha em seu local de trabalho&quot;, como serei impedido de faz&ecirc;-lo&#63; <br /></p>
+<p>Assim, uma vez mais, para manter o seu v&iacute;cio, um governante atropela a ci&ecirc;ncia, rasga a Conven&ccedil;&atilde;o Quadro de Controle do Tabaco que o Congresso a duras penas ratificou e ele pr&oacute;prio assinou; o desejo de ampla maioria (88% da popula&ccedil;&atilde;o &eacute; a favor do banimento do tabaco nos ambientes fechados) dos eleitores; joga a culpa no indiv&iacute;duo &quot;s&oacute; fuma quem &eacute; viciado&quot;, e defende &quot;o fumo em qualquer lugar&quot;.</p></p>
+<p><p>Al&eacute;m de suas pr&oacute;prias e malfadadas convic&ccedil;&otilde;es, certamente interesses econ&ocirc;micos poderosos estar&atilde;o por tr&aacute;s de sua postura - um retrocesso na hist&oacute;ria de lutas da sociedade e do estado brasileiro contra o tabaco, e uma n&oacute;doa em sua biografia t&atilde;o enaltecida.</p></p>
+<p><p>Cad&ecirc; a defesa intransigente dos direitos dos trabalhadores, dos exclu&iacute;dos, dos oprimidos, dos doentes e incapacitados&#63; Como pode um presidente com a assessoria de pessoas do quilate do Ministro da Sa&uacute;de ainda ignorar (ser&aacute; que n&atilde;o est&aacute; vendo de novo) que morrem 24 pessoas pelo tabagismo ativo no pa&iacute;s a cada hora e que outras seis sucumbam pelo tabagismo passivo - seja na sala do presidente, na reparti&ccedil;&atilde;o p&uacute;blica ou privada, na casa do cidad&atilde;o. A loquacidade das palavras e a ret&oacute;rica do discurso n&atilde;o escondem mais do que a op&ccedil;&atilde;o pelo econ&ocirc;mico em detrimento do social. Esta tr&aacute;gica mudan&ccedil;a entre o que se prometia e o que se faz com a &quot;coisa de interesse p&uacute;blico&quot;.</p></p>
+<p><p>O presidente - de todos os brasileiros, da minoria de fumantes ativos como ele e para a maioria de fumantes passivos - precisa de tratamento do tabagismo. Fumar n&atilde;o combina com a postura de estadista que &eacute; modelo de comportamento - urge, oferecer apoio para que possa sair deste est&aacute;gio pr&eacute;-contemplativo e motivar-se a dar, pelo menos, um exemplo, especialmente para as pessoas mais humildes que representam o grande universo de fumantes em pa&iacute;ses como o nosso, a partir de seu gabinete para que n&atilde;o se fume pr&oacute;ximo a outras pessoas.</p></p>
+<p><p>&Agrave; postura de contram&atilde;o do presidente, em sentido diametralmente oposto, vem um posicionamento firme e respons&aacute;vel do governador de S&atilde;o Paulo, Jos&eacute; Serra, de proibir o fumo em qualquer ambiente fechado, p&uacute;blico ou privado.</p></p>
+<p><p>Em se tratando da analogia com o meio futebol&iacute;stico, o presidente literalmente pisou na bola e fez um gol contra. Mas como o jogo est&aacute; em andamento, ainda h&aacute; tempo para recuperar e mudar de estrat&eacute;gia, francamente se continuar jogando assim, na retranca, ir&aacute; levar outros gols, do infarto, do derrame, do c&acirc;ncer de pulm&atilde;o, do enfisema, das aposentadorias e pens&otilde;es precoces. Haja pr&eacute;-sal para dar conta de tanto rombo na &quot;defesa t&atilde;o vulner&aacute;vel do time da sa&uacute;de&quot;, que de tanto ser vazado, acabar&aacute; se transformando no &quot;time da doen&ccedil;a&quot;.</p></p>
+<p><p>Talvez, em linguagem futebol&iacute;stica, algu&eacute;m comprometido com o destino da sa&uacute;de de milh&otilde;es de brasileiros, possa ter uma conversa franca, amistosa, emp&aacute;tica e acolhedora com o &quot;paciente presidente&quot; para que ele fa&ccedil;a um gesto nobre - ainda que siga fumando - e admita que fumar n&atilde;o &eacute; bom para ele, para sua esposa, sua secret&aacute;ria e assessores e que este gesto de humildade &quot;nunca antes visto na hist&oacute;ria deste pa&iacute;s&quot; possa ser multiplicado em todos os gabinetes dos tr&ecirc;s poderes da rep&uacute;blica, em todos os restaurantes e hot&eacute;is, em todas as escolas e hospitais, em todas as empresas p&uacute;blicas e privadas, em todas as casas.</p></p>
+<p><p>Quem sabe faz a hora, n&atilde;o espera acontecer (G. Vandr&eacute;). Contra o fumo em todos os gabinetes, fumar faz mal ao presidente e a voc&ecirc; que respira a fuma&ccedil;a em qualquer ambiente fechado.</p></p>
+<p><p><br /></p>
+<p>M&eacute;dico Pneumologista, Sanitarista e do Trabalho da Alian&ccedil;a de Controle do Tabagismo, Diretor do N&uacute;cleo de Estudos e Tratamento do Tabagismo - UFRJ<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

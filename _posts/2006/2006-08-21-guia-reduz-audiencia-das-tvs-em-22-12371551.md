@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana></p>
 <p><P>Esta é a média de queda durante os programas eleitorais das 13h às 13h50 e das 20h30 às 21h20.</P></p>
 <p><P>Muita gente prefere desligar a TV no horário eleitoral. Deve estar faltando molho nos programas. </P></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P>20h00-21h20</B>: 2.059.893 pessoas </P><B></p>
 <p><P>Total do Horário</B>: 3.799.983 pessoas (este número é maior que o universo pesquisado porque muita gente estaria ligada na TV nos dois horários)</P></p>
 <p><P>Nesse balanço, constata-se uma \"fuga\" de 881 mil pessoas e uma queda média de 22% na audiência.</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

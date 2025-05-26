@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Marisa Gibson</STRONG> na coluna Diário Pol?tico</FONT></P></p>
 <p><P><FONT face=Verdana>Caso o prefeito João Paulo não seja convocado para um ministério, como se especula, o PT em Pernambuco vai ser eclipsado por Eduardo, no que diz respeito ao presidente Lula.</FONT> </P> </p>
-{\% endraw %}
+{% endraw %}

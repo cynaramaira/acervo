@@ -18,7 +18,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Luiz Otavio Cavalcanti</STRONG>*<BR>Ex-secretário do Planejamento e da Fazenda de Pernambuco<BR></FONT><A href=\"mailto:lotavio@fsm.com.br\"><FONT face=Verdana>lotavio@fsm.com.br</FONT></A></P></p>
 <p><P><BR><FONT face=Verdana>Quatro fatos acentuam a atual crise pol?tica e ética no Pa?s. O primeiro fato, no âmbito das relações entre os Poderes Executivo e Legislativo, foi o “mensalão???, com pagamento de propina a deputados federais em troca de voto em projetos de interesse do governo.</FONT></P></p>
 <p><P><FONT face=Verdana>O segundo fato, no Ministério da Saúde, indicou a existência de “quadrilha dos vampiros???, com rede de corrupção e participação de funcionários públicos na aquisição pelo governo de produtos</p>
@@ -39,4 +39,4 @@ imagem: null
 <p><P><FONT face=Verdana>O cerne da corrupção encontra-se tanto em práticas clientelistas e patrimonialistas, quanto na impunidade. A experiência internacional mostra que clientelismo tende a diminuir em ambientes onde prevalecem prosperidade econômica, instituições democráticas e controle da sociedade sobre funcionamento do governo. Com efeito, o ?ndice de percepção da corrupção - IPC, constru?do pela Transparência Global, coloca Finlândia, Dinamarca, Nova Zelândia, Suécia e Canadá como pa?ses de menor IPC. E situa Nigéria, Iugoslávia, Ucrânia, Azerbaijão e Indonésia como pa?ses de maior IPC. O Brasil está no 59. lugar, pior que a Argentina e melhor que a Venezuela. Os pa?ses com menor IPC são os que apresentam maior ??ndice de Desenvolvimento Humano - IDH.</FONT></P></p>
 <p><P><FONT face=Verdana>Reformar o Estado brasileiro, para defender a sociedade de atos de corrupção, contribui para alcançar três objetivos principais: no mercado, ajuda a consolidar ambiente saudável para realização de negócios e de investimentos; na área pol?tica, fortalece o sistema democrático e estimula a confiança do Povo nas instituições sociais, favorecendo a governabilidade; e na operação governamental, ajuda a garantir o atingimento de metas de superávit fiscal, mediante enfrentamento da corrupção e bloqueio de pontos de evasão de recursos públicos.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>*Luiz Otavio Cavalcanti</STRONG>, 60, advogado, executivo e ex-secretário do Planejamento (1975/79 e 1991/92) e da Fazenda (1983/86 e 1992/93) de Pernambuco. Recifense, Cavalcanti dirige hoje a entidade mantenedora da Faculdade Santa Maria. É autor, entre outros livros, de Como a corrupção abalou o governo Lula (Ed. Ediouro, 2005), Administradores, quem somos nós? (Ed. Bagaço, 2005) e Ensaiando Pernambuco (Ed. Bagaço, 2005).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

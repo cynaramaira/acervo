@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Luiz Otavio Cavalcanti</STRONG><BR>Ex-secretário do Planejamento e da Fazenda de Pernambuco<BR></FONT><A href=\"mailto:lotavio@fsm.com.br\"><FONT face=Verdana>lotavio@fsm.com.br</FONT></A></P></p>
 <p><P><FONT face=Verdana>O resultado dessa eleição em 2006 é a imagem de um Pa?s dividido. Socialmente e regionalmente separado. O Sudeste e o Sul votaram em Alckmin. O Nordeste e o Norte votaram em Lula. As classes de menor renda votaram em Lula. A classe média alta votou em Alckmin. Fica evidente que o Brasil de Lula é um. E o Brasil de Alckmin é outro. </FONT></P></p>
 <p><P><FONT face=Verdana>Esse dado de apartação pol?tica não é benigno para a governabilidade. E renova a necessidade de se pensar em pol?tica pública diferenciada para o Norte/Nordeste. Capaz de reduzir as desigualdades interregionais.</FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>5.&nbsp;A geração de l?deres anterior a 64 acentua o decl?nio de seus representantes, após o desaparecimento de Brizola, Arraes e Tancredo Neves. Saem derrotados Amazonino Mendes no Amazonas, Siqueira Campos em Tocantins e, contra todos os prognósticos, Antônio Carlos Magalhães, que perde a eleição para governador da Bahia com Paulo Souto, superado por Jacques Wagner do PT. </FONT></P></p>
 <p><P><FONT face=Verdana>6.&nbsp;Finalmente, o mecanismo democrático devolve a Fernando Collor a chance de retornar à vida pública com mandato de senador por Alagoas. Depois de cumprir pena pol?tica determinada pela legislação, Collor volta à cena pública brasileira. Certamente sem o arroubo de dezesseis anos atrás, pois ele deve carregar cabelos brancos (mesmo tingidos) de maturidade. Num momento especialmente delicado da vida republicana em que o diálogo entre opostos será imperativo para a estabilidade democrática.</FONT></P></p>
 <p><P><FONT face=Verdana><EM><STRONG>*Luiz Otavio Cavalcanti</STRONG>, 60, advogado, executivo e ex-secretário do Planejamento (1975/79 e 1991/92) e da Fazenda (1983/86 e 1992/93) de Pernambuco. Recifense, Cavalcanti dirige hoje a entidade mantenedora da Faculdade Santa Maria. É autor, entre outros livros, de Como a corrupção abalou o governo Lula (Ed. Ediouro, 2005), Administradores, quem somos nós? (Ed. Bagaço, 2005) e Ensaiando Pernambuco (Ed. Bagaço, 2005).</EM></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

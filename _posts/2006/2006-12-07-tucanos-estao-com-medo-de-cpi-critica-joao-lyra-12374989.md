@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O vice-presidente eleito, João Lyra (PDT), reagiu a uma proposta que dificulta a aprovação de abertura de CPIs, na Assembléia Legislativa, para 2007, na esteira da reforma do regimento interno da Casa. </FONT></P></p>
 <p><P><FONT face=Verdana>A sugestão consta do projeto de reforma do regimento interno que será apresentado pelo tucano Bruno Rodrigues, no apagar das luzes do governo da Aliança por Pernambuco (PSDB e PFL, principalmente), no apagar das luzes do governo da Aliança por Pernambuco (PSDB e PFL, principalmente). </FONT></P></p>
 <p><P><FONT face=Verdana>\"Os tucanos estão com medo do que ? Eu acho isto um equ?voco e muito estranho\", declarou João Lyra.</FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Pelo regimento atual, os pedidos são aceitos automaticamente, necessitando apenas que estejam subscritos por 17 parlamentares. Caso a reforma do regimento seja aprovada, a solicitação de CPI, em 2007 (um presente para a gestão Eduardo Campos ?), terá que passar pela análise do Plenário, por maioria de votos. <BR></FONT></P></p>
 <p><P><FONT face=Verdana>Os 49 deputados da Casa já receberam cópia do documento, para análise. </FONT></P></p>
 <p><P><FONT face=Verdana>No próximo dia 19 de dezembro, a CCLJ, presidida pelo tucano Bruno Rodrigues, promove reunião para apresentação e discussão do projeto.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

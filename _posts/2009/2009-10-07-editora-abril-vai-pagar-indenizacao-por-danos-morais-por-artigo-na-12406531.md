@@ -1,0 +1,27 @@
+---
+id: 12406531
+date: "2009-10-07T10:45:07Z"
+last_modified_at: null
+tags:
+  - "artigo"
+  - "danny-morais"
+  - "editoras"
+  - "indenizacao"
+categories:
+  - "noticias"
+title: "Editora Abril vai pagar indeniza\u00e7\u00e3o por danos morais por artigo na Playboy "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Do STJ</p></p>
+<p><p>Por unanimidade a Terceira Turma do Superior Tribunal de Justi&ccedil;a (STJ) decidiu que a Editora Abril pagar&aacute; indeniza&ccedil;&atilde;o por danos morais &agrave; dentista que apareceu em mat&eacute;ria da revista Playboy. A mulher n&atilde;o autorizou que uma foto sua ilustrasse a mat&eacute;ria &ldquo;Ranking Playboy Qualidade de Vida &ndash; As 10 melhores cidades brasileiras para a popula&ccedil;&atilde;o masculina heterossexual viver, beber e transar&rdquo;. A Turma tamb&eacute;m entendeu n&atilde;o ser poss&iacute;vel acumular juros remunerat&oacute;rios e morat&oacute;rios em condena&ccedil;&atilde;o por danos morais, seguindo o entendimento da relatora, ministra Nancy Andrighi.</p></p>
+<p><p>A mat&eacute;ria, publicada em abril de 2001, descrevia as cidades brasileiras e era ilustrada com fotos de mulheres tiradas em praias, boates, etc... No caso, a dentista foi fotografada numa praia em Natal (RN), em trajes de banho.</p></p>
+<p><p>A mulher entrou com a&ccedil;&atilde;o de indeniza&ccedil;&atilde;o, aceita em primeira inst&acirc;ncia. A Editora Abril foi condenada a pagar 50 sal&aacute;rios-m&iacute;nimos, com juros morat&oacute;rios desde a publica&ccedil;&atilde;o do artigo, mais juros compensat&oacute;rios de 1%. Ambas as partes apelaram. O Tribunal de Justi&ccedil;a do Rio Grande do Norte (TJRN) elevou a indeniza&ccedil;&atilde;o para 100 sal&aacute;rios m&iacute;nimos e manteve a cumula&ccedil;&atilde;o dos juros morat&oacute;rios e remunerat&oacute;rios.</p></p>
+<p><p>No recurso ao STJ, a defesa da Editora Abril alegou que, com base no artigo 944 do C&oacute;digo Civil (CC), haveria excesso na fixa&ccedil;&atilde;o da indeniza&ccedil;&atilde;o em rela&ccedil;&atilde;o ao dano, devendo-se reduzir o valor. Tamb&eacute;m alegou ofensa aos artigos 406 e 407 do CC, que definem a cobran&ccedil;a dos juros morat&oacute;rios, e os artigos 458 e 475, letra J, do C&oacute;digo de Processo Civil (CPC), que, respectivamente, obriga a fundamenta&ccedil;&atilde;o da senten&ccedil;a e regula a multa em caso de atraso em pagamento de quantia certa. Afirmou ainda haver diss&iacute;dio jurisprudencial, quanto &agrave; acumula&ccedil;&atilde;o dos juros.</p></p>
+<p><p>No seu voto, a ministra Nancy Andrighi apontou que, na &eacute;poca da publica&ccedil;&atilde;o da revista, ainda valia o CC de 1916. Apesar de o STJ aceitar o uso de artigos do C&oacute;digo atual, v&aacute;lido desde 2002, n&atilde;o haveria correspond&ecirc;ncia entre o artigo 944 do novo C&oacute;digo na lei anterior. Portanto, ponderou a ministra, n&atilde;o seria poss&iacute;vel para o Tribunal analisar o recurso nesse ponto. Na quest&atilde;o do excesso na fixa&ccedil;&atilde;o da indeniza&ccedil;&atilde;o, a ministra Andrighi considerou o valor adequado, ressaltando o fato de esse n&atilde;o ser o &uacute;nico embate judicial quanto &aacute; mat&eacute;ria. Em outros casos, o valor da indeniza&ccedil;&atilde;o foi mantido. Ela reconheceu que a foto seria de tamanho m&iacute;nimo, n&atilde;o haveria a cita&ccedil;&atilde;o de nomes e que n&atilde;o poria a dentista em situa&ccedil;&atilde;o vexat&oacute;ria. &ldquo;Por outro lado, a reportagem traz express&otilde;es injuriosas. A exist&ecirc;ncia de ofensa &eacute; ineg&aacute;vel, mesmo se levado em considera&ccedil;&atilde;o o tom jocoso da reportagem&rdquo;, adicionou.</p></p>
+<p><p>Na quest&atilde;o da cumula&ccedil;&atilde;o de juros, apontou que o TJRN considerou que uma vez que a indeniza&ccedil;&atilde;o foi concedida, tornou-se um &ldquo;capital&rdquo; para a v&iacute;tima, devendo, portanto, ser remunerado de acordo. O tribunal potiguar afirmou tamb&eacute;m haver jurisprud&ecirc;ncia no STJ para a aplica&ccedil;&atilde;o das duas taxas. Para a magistrada n&atilde;o haveria raz&atilde;o alguma para a cumula&ccedil;&atilde;o dos juros diferentes, j&aacute; que o morat&oacute;rio &eacute; a puni&ccedil;&atilde;o para a inadimpl&ecirc;ncia e o remunerat&oacute;rio &eacute; o pagamento por um capital. Afirmou tamb&eacute;m que os juros legais podem ser tanto remunerat&oacute;rios como morat&oacute;rios, sendo estes &uacute;ltimos definidos com mais amplitude na legisla&ccedil;&atilde;o.</p></p>
+<p><p>A ministra, entretanto, destacou que os juros remunerat&oacute;rios s&atilde;o previstos apenas para contratos de m&uacute;tuo para fins econ&ocirc;micos &ldquo;Ou seja: ainda que n&atilde;o haja conven&ccedil;&atilde;o espec&iacute;fica sobre os juros remunerat&oacute;rios, eles s&oacute; podem incidir nessa situa&ccedil;&atilde;o espec&iacute;fica prevista pelo legislador&rdquo;, explicou. Para a ministra, n&atilde;o haveria pedido da dentista para o pagamento dessa taxa e, al&eacute;m disso, estaria sendo criado um contrato onde este n&atilde;o existiria. Com essa fundamenta&ccedil;&atilde;o, a ministra manteve a indeniza&ccedil;&atilde;o e os juros morat&oacute;rios, mas afastou os juros remunerat&oacute;rios.</p> </p>
+{% endraw %}

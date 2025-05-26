@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><STRONG>\"Vamos reimplantá-la, a Sudene\"</STRONG></P></p>
 <p><P>Geraldo Alckmin, candidato à presidência da República pelo PSDB de Fernando Henrique Cardoso, que fechou a autarquia</P> </p>
-{\% endraw %}
+{% endraw %}

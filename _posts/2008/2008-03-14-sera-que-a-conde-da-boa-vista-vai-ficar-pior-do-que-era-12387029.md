@@ -1,0 +1,32 @@
+---
+id: 12387029
+date: "2008-03-14T10:01:00Z"
+last_modified_at: null
+tags:
+  - "alpha-conde"
+  - "revista"
+  - "serasa"
+categories:
+  - "noticias"
+title: "Ser\u00e1 que a Conde da Boa Vista vai ficar pior do que era?"
+sutia: null
+chapeu: null
+autor: "jamildo"
+imagem: null
+---
+{% raw %}
+<p><span style="font-family: '&quot;Verdana&quot;';">Roberta Soares (</span><a href="#"><span style="font-family: '&quot;Verdana&quot;';">rsoares@jc.com.br</span></a><span style="font-family: '&quot;Verdana&quot;';">)</span></p>
+<p><span style="font-family: '&quot;Verdana&quot;';">Do Jornal do Commercio</span></p>
+<p><span style="font-family: '&quot;Verdana&quot;';">A 17 dias de ser entregue oficialmente pela Prefeitura do Recife, uma das mais emblem&aacute;ticas obras da gest&atilde;o do prefeito Jo&atilde;o Paulo, a constru&ccedil;&atilde;o do Corredor Leste-Oeste, no Centro, est&aacute; gerando pol&ecirc;mica entre a popula&ccedil;&atilde;o. Pessoas que trabalham ou circulam pela Avenida Conde da Boa Vista, via mais beneficiada pelo projeto, duvidam da principal efici&ecirc;ncia da obra: reduzir o tempo de viagem nos &ocirc;nibus e, conseq&uuml;entemente, aliviar o tr&acirc;nsito na avenida. A travessia de pedestres entre a cal&ccedil;ada e as paradas dos coletivos tamb&eacute;m &eacute; outra dificuldade apontada com as mudan&ccedil;as. </span></p>
+<p><span style="font-family: '&quot;Verdana&quot;';">O maior questionamento dos usu&aacute;rios das 107 linhas de &ocirc;nibus que passam pela Conde da Boa Vista &eacute; o espa&ccedil;o deixado para a ultrapassagem dos coletivos nos pontos de embarque e desembarque. As pessoas afirmam que os &ocirc;nibus n&atilde;o t&ecirc;m conseguido fazer a manobra, formando filas quilom&eacute;tricas nos hor&aacute;rios de maior movimento &ndash; in&iacute;cio da manh&atilde; e &agrave; noite. O fato de a obra ainda estar sendo conclu&iacute;da, n&atilde;o consegue amenizar o temor do povo. </span></p>
+<p><span style="font-family: '&quot;Verdana&quot;';">&ldquo;Basta olhar para perceber que n&atilde;o h&aacute; espa&ccedil;o suficiente para um &ocirc;nibus cortar o outro. N&atilde;o tem como. A prefeitura pode at&eacute; dizer que vai caber, mas eu duvido. Reconhe&ccedil;o as vantagens da obra, principalmente a recupera&ccedil;&atilde;o das cal&ccedil;adas e o conforto proporcionado nas paradas, s&oacute; que o engarrafamento vai continuar&rdquo;, afirma a gr&aacute;fica Cynthia Gon&ccedil;alves, 23 anos. </span></p>
+<p><span style="font-family: '&quot;Verdana&quot;';">Pelo projeto do corredor, os &ocirc;nibus t&ecirc;m uma &aacute;rea de seis metros (tr&ecirc;s metros em cada faixa) para acomodar dois coletivos paralelos na altura das paradas, que agora ficam no meio da via. Tecnicamente, o espa&ccedil;o &eacute; suficiente para a ultrapassagem, mas ser&aacute; necess&aacute;rio empenho por parte dos motoristas para embarcar ou desembarcar os passageiros. Anteontem, por volta das 18h30, quando a reportagem percorreu a Conde da Boa Vista, o que se viu foram filas de &ocirc;nibus. </span></p>
+<p><span style="font-family: '&quot;Verdana&quot;';">A falta de espa&ccedil;o estaria se refletindo no tempo de viagem que, segundo os passageiros, aumentou em 20 minutos. &ldquo;Eu desisti de passar pela Conde da Boa Vista. Mesmo tendo mais op&ccedil;&atilde;o, prefiro caminhar at&eacute; a Rua da Aurora e pegar um coletivo l&aacute;&rdquo;, disse a corretora de seguros Valdete Menino, 46, que trabalha na avenida. A dist&acirc;ncia entre as novas paradas &ndash; cerca de 500 metros &ndash; tamb&eacute;m foi criticada pela popula&ccedil;&atilde;o. </span></p>
+<p><span style="font-family: '&quot;Verdana&quot;';">O Corredor Leste-Oeste &eacute; uma faixa exclusiva para &ocirc;nibus ligando a Zona Oeste ao Centro. Ter&aacute; continuidade a partir da Avenida Caxang&aacute;, seguindo pela Rua Benfica, Derby, at&eacute; a Rua da Aurora. Tem custo de R$ 12 milh&otilde;es e beneficiar&aacute; 900 mil passageiros di&aacute;rios. </span></p>
+<p><span style="font-family: '&quot;Verdana&quot;';"><strong>N&uacute;mero de &ocirc;nibus na avenida n&atilde;o vai ser reduzido</strong></span></p>
+<p><span style="font-family: '&quot;Verdana&quot;';">O receio das pessoas em rela&ccedil;&atilde;o &agrave; perman&ecirc;ncia do engarrafamento na Avenida Conde da Boa Vista depois da conclus&atilde;o do Corredor Leste-Oeste parece ter fundamento. Isso porque a quantidade de &ocirc;nibus que trafega diariamente pela avenida n&atilde;o vai mudar. A redu&ccedil;&atilde;o no n&uacute;mero de linhas e coletivos ficar&aacute; para uma segunda etapa. A via continuar&aacute; recebendo, por hora, 596 &ocirc;nibus, que fazem 6.974 viagens di&aacute;rias em 107 linhas. </span></p>
+<p><span style="font-family: '&quot;Verdana&quot;';">Ontem, a Empresa Metropolitana de Transportes Urbanos (EMTU) informou que a revis&atilde;o da rede e a conseq&uuml;ente racionaliza&ccedil;&atilde;o das linhas que superlotam a Conde da Boa Vista ser&aacute; feita posteriormente, caso haja necessidade. &ldquo;A prefeitura encomendou um estudo que mostrou ser vi&aacute;vel o funcionamento do corredor com as linhas existentes. Vamos iniciar a opera&ccedil;&atilde;o assim e, caso aconte&ccedil;a algum problema, faremos ajustes. Com a conclus&atilde;o da reforma no Terminal da Caxang&aacute;, a rede ser&aacute; revista e haver&aacute; uma racionaliza&ccedil;&atilde;o das linhas&rdquo;, explicou a coordenadora de planejamento da EMTU, Cristina Aroucha. </span></p>
+<p><span style="font-family: '&quot;Verdana&quot;';">O terminal da Caxang&aacute; est&aacute; sendo reformado pela prefeitura e dever&aacute; ficar pronto em junho, ao custo de R$ 1,3 milh&atilde;o. No caso de mudan&ccedil;as no Leste-Oeste, as primeiras linhas a serem retiradas da Conde da Boa Vista ser&atilde;o as que trafegam pela via sem fazer paradas. Os pontos s&atilde;o apenas a partir da Rua dos Hosp&iacute;cio, no sentido sub&uacute;rbio-Centro. </span></p>
+<p><span style="font-family: '&quot;Verdana&quot;';">A Prefeitura do Recife limitou-se a comentar os questionamentos da popula&ccedil;&atilde;o sobre o Leste-Oeste pela assessoria de imprensa. Garantiu que a ultrapassagem dos &ocirc;nibus ser&aacute; poss&iacute;vel nas paradas e que os pedestres ter&atilde;o faixas para fazer a travessia com seguran&ccedil;a.</span></p>
+<p>&nbsp;</p>
+{% endraw %}

@@ -1,0 +1,36 @@
+---
+id: 12387400
+date: "2008-03-28T15:34:00Z"
+last_modified_at: null
+tags:
+  - "belo-horizonte"
+  - "jovens"
+  - "recife"
+categories:
+  - "eleicoes"
+title: "Um novo horizonte para os jovens do Recife"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Por <strong>Raul Henry</strong> <img height=\"160\" alt=\"\" width=\"130\" align=\"right\" src=\"https://www2.uol.com.br/JC/blogs/blogdejamildo/imagens/selo_recife2008.jpg\" /></font></p></p>
+<p><p><font face=\"Verdana\">Hoje o desafio mais urgente do Recife &eacute; enfrentar o dram&aacute;tico crescimento da sua viol&ecirc;ncia urbana. Os n&uacute;meros s&atilde;o estarrecedores. At&eacute; o meio-dia desta sexta-feira, o contador do Blog PEbodycount marcava 1083 assassinatos durante os tr&ecirc;s primeiros meses do ano. Deste total, 493 foram cometidos na capital. </font></p></p>
+<p><p><font face=\"Verdana\">A maioria dessas mortes foi registrada entre jovens de 16 a 24 anos. Meninos que por abandono familiar e total aus&ecirc;ncia do poder p&uacute;blico entraram para um mundo ingrato, onde matar ou morrer virou rotina de vida. A juventude que assalta a classe m&eacute;dia nos sinais de tr&acirc;nsito &eacute; a mesma assassinada por traficantes e grupos de exterm&iacute;nio, nas &aacute;reas mais pobres da cidade.</font></p></p>
+<p><p><font face=\"Verdana\">Essa perversa realidade transformou o Recife na capital mais sangrenta do Brasil, segundo o Mapa da Viol&ecirc;ncia dos Munic&iacute;pios Brasileiros 2008 - estudo divulgado no &uacute;ltimo dia 29 de janeiro pela Unesco. A pesquisa aponta uma taxa de 90.5 homic&iacute;dios por 100 mil habitantes. Das 5.564 cidades analisadas, a capital pernambucana &eacute; a nona no ranking dos assassinatos. </font></p></p>
+<p><p><font face=\"Verdana\">Todos os munic&iacute;pios &agrave; frente do Recife s&atilde;o de porte m&eacute;dio e pequeno, com popula&ccedil;&atilde;o inferior a 400 mil habitantes, quando a nossa j&aacute; supera a marca de 1,5 milh&atilde;o. Os &oacute;bitos levantados junto ao Minist&eacute;rio da Sa&uacute;de demonstram uma estat&iacute;stica desoladora, muitas vezes pior do que a de pa&iacute;ses em guerra declarada. </font></p></p>
+<p><p><font face=\"Verdana\">De acordo com o IBGE, a Regi&atilde;o Metropolitana do Recife tem hoje mais de 29 mil jovens desempregados e fora da sala de aula. Sem nenhuma perspectiva de futuro e auto-estima, acabam envolvidos com a criminalidade, colocando em risco a pr&oacute;pria vida e a de seus familiares.</font></p></p>
+<p><p><font face=\"Verdana\">A situa&ccedil;&atilde;o &eacute; grave. Mas tem solu&ccedil;&atilde;o, desde que o problema seja tratado de forma integrada, com decis&atilde;o pol&iacute;tica, seriedade e continuidade. Alguns n&atilde;o entenderam, ou tentaram politizar, quando, no &uacute;ltimo dia 3 de mar&ccedil;o, levei o ex-secret&aacute;rio de Seguran&ccedil;a Cidad&atilde; de Bogot&aacute; e consultor do Programa das Na&ccedil;&otilde;es Unidas para o Desenvolvimento (Pnud), Hugo Acero, para uma audi&ecirc;ncia com Eduardo Campos, no Pal&aacute;cio das Princesas. </font></p></p>
+<p><p><font face=\"Verdana\">Embora eu e o governador estejamos em campos opostos na pol&iacute;tica, entendo que o combate &agrave; viol&ecirc;ncia urbana n&atilde;o pode ser partidarizado. Mais que isso: precisa se dar atrav&eacute;s de uma a&ccedil;&atilde;o conjunta entre os governos federal, estadual e municipal, mesmo que constitucionalmente n&atilde;o seja atribui&ccedil;&atilde;o desse &uacute;ltimo.</font></p></p>
+<p><p><font face=\"Verdana\">O novo prefeito do Recife precisa ter participa&ccedil;&atilde;o ativa nessa luta. Ciente disso, em 2007, fui ver de perto o exemplo de cidades latino-americanas que tomaram como prioridade m&aacute;xima o combate &agrave; viol&ecirc;ncia. </font></p></p>
+<p><p><font face=\"Verdana\">Pelas m&atilde;os de Hugo Acero, tive a oportunidade de conhecer a nova realidade das colombianas Bogot&aacute; e Medell&iacute;n e da equatoriana Guayaquil, que reduziram os seus &iacute;ndices de viol&ecirc;ncia de forma r&aacute;pida e eficaz.</font></p></p>
+<p><p><font face=\"Verdana\">Em 1991, 9.463 pessoas foram assassinadas em Medell&iacute;n. J&aacute; em 2005, esse n&uacute;mero despencou para 782, numa incr&iacute;vel redu&ccedil;&atilde;o da taxa de homic&iacute;dios de 384 para 32.8 por 100 mil habitantes. </font></p></p>
+<p><p><font face=\"Verdana\">Nas tr&ecirc;s cidades visitadas, &eacute; claramente observada a presen&ccedil;a do poder municipal atrav&eacute;s de pol&iacute;ticas p&uacute;blicas focadas no bem-estar da popula&ccedil;&atilde;o. S&atilde;o equipamentos de alto padr&atilde;o entre escolas e bibliotecas, qualifica&ccedil;&atilde;o profissional para os jovens, centros de apoio ao cidad&atilde;o, entre outras a&ccedil;&otilde;es, que resgataram a qualidade de vida da popula&ccedil;&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\">Tamb&eacute;m se investiu, amplamente, no alargamento das cal&ccedil;adas, na ilumina&ccedil;&atilde;o p&uacute;blica e na melhoria do transporte coletivo. Depois das interven&ccedil;&otilde;es urbanas, Guayaquil, por exemplo, passou a ser considerada paradigma em desenvolvimento humano pela ONU. </font></p></p>
+<p><p><font face=\"Verdana\">No m&ecirc;s passado, voltei a visitar as comunidades do Coque e de Santo Amaro, desta vez na companhia de Hugo Acero. Ele me disse ter ficado impressionado com a semelhan&ccedil;a geogr&aacute;fica e social entre o Recife e Guayaquil. Tamb&eacute;m comprovou o que eu havia dito, anteriormente, sobre o descaso da administra&ccedil;&atilde;o municipal com as &aacute;reas mais degradadas da cidade.</font></p></p>
+<p><p><font face=\"Verdana\">Diante daquele triste cen&aacute;rio, vislumbramos um novo futuro para o Recife. Acero &eacute; um dos respons&aacute;veis pela proposta de combate &agrave; viol&ecirc;ncia que apresentaremos em nosso programa de governo. Hoje ele est&aacute; novamente na cidade, participando do F&oacute;rum Brasileiro de Seguran&ccedil;a P&uacute;blica, para deixar aqui a sua contribui&ccedil;&atilde;o.</font></p></p>
+<p><p><font face=\"Verdana\">Volto a afirmar que as iniciativas citadas neste artigo podem e devem ser coordenadas pela administra&ccedil;&atilde;o municipal em conjunto com os governos Federal e Estadual, o Minist&eacute;rio P&uacute;blico, o Poder Judici&aacute;rio e a sociedade organizada. N&atilde;o h&aacute; nenhum del&iacute;rio ou contra-senso em adotar um exemplo vitorioso e concebido para uma realidade bastante parecida com a nossa, cujo modelo &eacute; reconhecido mundo afora. Quem critica, faz por despreparo ou demagogia.</font></p></p>
+<p><p><font face=\"Verdana\">Portanto, a Prefeitura do Recife n&atilde;o far&aacute; mais do que a sua obriga&ccedil;&atilde;o ao oferecer mais qualidade de vida para o seu povo e assim resgatar milhares de vidas que atualmente est&atilde;o entregues &agrave; pr&oacute;pria sorte. <br /></p>
+<p></font></p> </p>
+{% endraw %}

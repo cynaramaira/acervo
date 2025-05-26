@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Em nota divulgada agora, o presidente estadual do PSB, Milton Coelho, diz que já havia desconfiado das intenções de Saulo Batista e que permitiu o andamento das conversações com ele única e exclusivamente para desmascará-lo.</FONT></P></p>
 <p><P><FONT face=Verdana>Ele também informa ter pedido licença temporária do cargo.</FONT></P></p>
 <p><P><FONT face=Verdana>A ?ntegra da nota:</FONT></P></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>3. Solicitarei à Comissão de Ética do Diretório Estadual de Pernambuco a apuração do caso. </EM></FONT></P></p>
 <p><P><FONT face=Verdana><EM>No sentido de que sejam garantidas a total isenção e imparcialidade na apuração dos fatos, estou neste momento solicitando meu licenciamento temporário da presidência do diretório estadual do PSB, até que não restem dúvidas sobre a lisura do meu comportamento e no comportamento da minha fam?lia em todo o desenrolar da presente campanha eleitoral. </EM></FONT></P><B></p>
 <p><P><FONT face=Verdana><EM>Milton Coelho</EM></FONT></B></P> </p>
-{\% endraw %}
+{% endraw %}

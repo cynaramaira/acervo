@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O governador Mendonça Filho, candidato à reeleição e há&nbsp;menos de&nbsp;cinco meses no cargo, anunciou há pouco a antecipação da primeira parcela do 13º salários dos cerca de 185 mil servidores ativos e inativos do Estado.</FONT></P></p>
 <p><P><FONT face=Verdana>Medida inédita. </FONT></P></p>
 <p><P><FONT face=Verdana>É a primeira vez que se paga a primeira parcela em setembro. Já houve antecipações em 2000 e 2005, mas nunca antes de outubro.</FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Questionado sobre a escolha do momento eleitoral para pagamento das antecipações, o governador Mendonça Filho disse o seguinte:</FONT></P></p>
 <p><P><FONT face=Verdana>\"Ninguém pode criticar uma not?cia que caracteriza a saúde</p>
 <p> financeira do Estado\".</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

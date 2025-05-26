@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Por<STRONG> Kennedy Alencar</STRONG><BR>Da Folha de São Paulo<BR><BR>O presidente Luiz Inácio Lula da Silva articula uma marcha dos movimentos sociais para sua festa de posse no segundo mandato. Desistiu de realizar a solenidade em duas datas e fará todas as cerimônias em 1º de janeiro de 2007, num evento mais modesto que o de 2003.<BR></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Devido ao feriado, Lula cogitava fazer uma \"segunda posse\" em 15 de janeiro para facilitar a vinda de autoridades estrangeiras que teriam dificuldades para viajar no Ano Novo.<BR></P></SPAN></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">O presidente deixará o Congresso e fará desfile em carro aberto com a primeira-dama, Marisa Let?cia. Sua intenção é percorrer uma Esplanada dos Ministérios recheada por militantes dos movimentos sociais. </SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\"></SPAN>&nbsp;</P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana\">Leia mais <STRONG><EM><A href=\"https://www1.folha.uol.com.br/fsp/brasil/fc2511200614.htm\" target=_blank>aqui</A></EM></STRONG> (assinantes Folha e UOL).</SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

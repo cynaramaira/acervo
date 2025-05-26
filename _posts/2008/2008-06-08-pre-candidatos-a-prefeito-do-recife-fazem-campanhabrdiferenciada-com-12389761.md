@@ -1,0 +1,36 @@
+---
+id: 12389761
+date: "2008-06-08T10:59:00Z"
+last_modified_at: null
+tags:
+  - "candidatos"
+  - "pre"
+  - "prefeito"
+  - "recife"
+categories:
+  - "noticias"
+title: "Pr\u00e9-candidatos a prefeito do Recife fazem campanha<br>diferenciada com apresenta\u00e7\u00e3o de propostas"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">Por Ana L&uacute;cia Andrade <br /></p>
+<p>De Pol&iacute;tica, do JC</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Com base na an&aacute;lise de 150 elei&ccedil;&otilde;es, o soci&oacute;logo Alberto Carlos de Almeida tra&ccedil;ou a l&oacute;gica que orienta o eleitor brasileiro na hora de escolher seu candidato. A conclus&atilde;o aponta para um crit&eacute;rio simples. Desprovidamente simples. &ldquo;O brasileiro vota a favor do governo ou do candidato do governo se considera que sua vida est&aacute; boa ou melhorou. E no candidato da oposi&ccedil;&atilde;o se considera que sua vida est&aacute; ruim ou piorou&rdquo;. Ou seja, o eleitor est&aacute; para menos blablabl&aacute;. E mais, muito mais, para o pragmatismo. N&atilde;o quer correr riscos. S&oacute; dep&otilde;e contra o que est&aacute; posto, se estiver insatisfeito. Ou se for plenamente convencido de que pode ter algo melhor. <br /></p>
+<p><br /></p>
+<p>Em ano de elei&ccedil;&otilde;es municipais, a conclus&atilde;o de Almeida chega &agrave;s bancas no livro A cabe&ccedil;a do eleitor (Editora Record) e parece explicar, em parte, o que estamos assistindo no per&iacute;odo pr&eacute;-eleitoral para a Prefeitura do Recife. Ao contr&aacute;rio de outros pleitos, esta disputa vem sendo prematuramente marcada por propostas para melhorar a cidade. O bate-boca, de t&atilde;o pr&oacute;prio do embate eleitoral, ainda n&atilde;o perdeu totalmente seu espa&ccedil;o. Mas o tom &eacute; outro. E muito antes do programa eleitoral come&ccedil;ar, e abrir alas para que as propostas se vistam da magia televisiva, a disputa para a Prefeitura do Recife tem exibido pr&eacute;-candidatos atentos &agrave; agenda administrativa. E que t&ecirc;m dito o que pretendem fazer pela cidade (veja em quadros algumas das sugest&otilde;es). <br /></p>
+<p><br /></p>
+<p>Cientistas pol&iacute;ticos ouvidos pelo JC concordam que esta elei&ccedil;&atilde;o do Recife deve mesmo ser menos pirot&eacute;cnica e mais propositiva &ndash; termo que j&aacute; vem endossando a promessa de comportamento de v&aacute;rios dos postulantes ao cargo de prefeito. As explica&ccedil;&otilde;es para se prever um &ldquo;novo&rdquo; debate eleitoral n&atilde;o residem apenas no ponto levantado pelo livro de Carlos de Almeida. Embora concordem com a tese, o perfil dos pr&eacute;-candidatos em disputa contribue muito, segundo os estudiosos, para um debate mais qualificado. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O cientista pol&iacute;tico da UFPE, Michel Zaidan, &eacute; um dos que destaca esse aspecto, associando-o ao fato de que essa ser&aacute; uma elei&ccedil;&atilde;o muito competitiva, sem favorito, o que ajuda na qualifica&ccedil;&atilde;o do embate. &ldquo;Essa n&atilde;o &eacute; uma disputa de cartas marcadas e os candidatos, cada um de um jeito, j&aacute; tiveram experi&ecirc;ncia administrativa, t&ecirc;m proposta a apresentar, t&ecirc;m servi&ccedil;o prestado &agrave; cidade ou ao Estado. Ent&atilde;o tudo concorre para que a elei&ccedil;&atilde;o seja melhor. Mas cabe &agrave; imprensa, &agrave; Justi&ccedil;a Eleitoral e &agrave; popula&ccedil;&atilde;o fiscalizarem para que eles cumpram o esp&iacute;rito que est&aacute; a&iacute;, de uma campanha menos demag&oacute;gica&rdquo;, alerta. <br /></p>
+<p><br /></p>
+<p>A qualidade da gest&atilde;o do prefeito Jo&atilde;o Paulo (PT) tamb&eacute;m &eacute; apontada como um fator que contribuir&aacute; para uma elei&ccedil;&atilde;o marcada pelo debate, na avalia&ccedil;&atilde;o de Zaidan. Falhas &agrave; parte, o governo do petista, segundo ele, &eacute; um somat&oacute;rio de experi&ecirc;ncias positivas que os demais candidatos &ldquo;n&atilde;o v&atilde;o querer voltar atr&aacute;s&rdquo;. &ldquo;Isso ajuda a elevar o debate. Os candidatos ter&atilde;o que ter ter um discurso pragm&aacute;tico e perto do que vem sendo colocado em pr&aacute;tica. N&atilde;o v&atilde;o inventar coisas imposs&iacute;veis de fazer. Podem fazer cr&iacute;ticas pontuais, mas recuperando o que tem de positivo nesses programas. E h&aacute;, de certa maneira, um amadurecimento dos candidatos. Eles estudaram a pauta do que &eacute; a administra&ccedil;&atilde;o municipal&rdquo;, acredita. <br /></p>
+<p><br /></p>
+<p>Cientista Pol&iacute;tico da Universidade Cat&oacute;lica, o professor Thales Castro tamb&eacute;m credita &agrave; &ldquo;experi&ecirc;ncia&rdquo; e &agrave; &ldquo;maturidade&rdquo;, no exerc&iacute;cio de algum cargo eletivo, dos principais pr&eacute;-candidatos as chances de termos uma elei&ccedil;&atilde;o com menos ataques pessoais e mais propostas. Mas &eacute; a passagem do PT por oito anos de governo da capital &ndash; fato que, segundo ele, gerou um &ldquo;estilha&ccedil;amento&rdquo; da disputa &ndash; que pode contribuir mais com esse cen&aacute;rio. &ldquo;Sempre se viveu pleitos polarizados no Recife. Esse n&atilde;o. &Eacute; um pleito estilha&ccedil;ado de candidaturas. Isso exige um debate de id&eacute;ias. Os candidatos v&atilde;o precisar se afirmar junto ao eleitorado&rdquo;, avalia. <br /></p>
+<p><br /></p>
+<p>O cientista pol&iacute;tico Andr&eacute; R&eacute;gis tamb&eacute;m abona o perfil dos pr&eacute;-candidatos de pol&iacute;ticos mais voltados para o debate e menos para a troca de agress&atilde;o, como uma caracter&iacute;stica que marca o pleito do Recife e favorece um debate eleitoral qualificado. Chama a aten&ccedil;&atilde;o, entretanto, para a possibilidade de que essa fase propositiva pode ficar restrita a esse momento da campanha, direcionada, segundo ele, apenas para a classe m&eacute;dia. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&ldquo;Essa fase &eacute; voltada para o eleitor mais esclarecido. Esse &eacute; o eleitor que est&aacute; atento a pr&eacute;-campanha, o que pensa a cidade. Mas elei&ccedil;&atilde;o &eacute; um jogo de dois tempos. E, fatalmente, quando o guia come&ccedil;ar, come&ccedil;a tamb&eacute;m o debate do imagin&aacute;rio. Ao contr&aacute;rio do que ocorre agora, que &eacute; o debate do real. Quando come&ccedil;a o guia, os candidatos, de certa forma, abandonam o eleitor mais exigente e se voltam para o menos esclarecido&rdquo;. <br /></p>
+<p><br /></p>
+<p>O professor R&eacute;gis pode at&eacute; estar certo. Mas como prega o publicit&aacute;rio Duda Mendon&ccedil;a, o eleitor sabe que todos dizem o que querem. Por isso, lembra Duda, &ldquo;a crebilidade da propaganda diminui muito durante a campanha&rdquo;. E mais, pontua o publicit&aacute;rio em seu livro Casos e Coisas (Editora Globo): &ldquo;Quem bate, perde&rdquo;. </font></p> </p>
+{% endraw %}

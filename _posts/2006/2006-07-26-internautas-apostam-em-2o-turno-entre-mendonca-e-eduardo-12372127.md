@@ -14,7 +14,7 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>&nbsp;</p>
 <p>Com 3.773 votos, a enquete do Blog terminou da seguinte forma:</p>
 <p>Voc&ecirc; acha que haver&aacute; segundo turno nas elei&ccedil;&otilde;es para governador de Pernambuco?</p>
@@ -26,4 +26,4 @@ imagem: null
 <p>NOVA ENQUENTE</p>
 <p>Voc&ecirc; acha que haver&aacute; segundo turno na elei&ccedil;&atilde;o para presidente da Rep&uacute;blica?</p>
 <p>Acabamos de post&aacute;-la. D&ecirc; sua opini&atilde;o, vote na coluna ao lado.</p>
-{\% endraw %}
+{% endraw %}

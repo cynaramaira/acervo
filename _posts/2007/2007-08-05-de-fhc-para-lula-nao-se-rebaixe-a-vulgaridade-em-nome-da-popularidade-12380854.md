@@ -1,0 +1,25 @@
+---
+id: 12380854
+date: "2007-08-05T12:12:00Z"
+last_modified_at: null
+tags:
+  - "lula"
+  - "naomi-campbell"
+  - "nomes"
+categories:
+  - "noticias"
+title: "De FHC para Lula: N\u00e3o se rebaixe \u00e0 vulgaridade em nome da popularidade "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\"><font size=\"2\">O&nbsp;ex-presidente Fernando Henrique Cardoso (PSDB) &quot;desceu a lenha&quot; no Lula presidente, mas chega a elogiar o Lula sindicalista no seu artigo semanal para o Blog de Noblat, intitulado &quot;Simbolismo e Lideran&ccedil;a&quot;. </font></font></p></p>
+<p><p><font face=\"Verdana\"><font face=\"Verdana\"><font size=\"2\">&quot;Migrante nordestino, corajoso e lutador que superou barreiras sociais. Tinha-o, e ainda o tenho, como um homem de boa &iacute;ndole, que em termos gerais deseja o bem do povo&quot;, disse FHC, que foi&nbsp;presidente da Rep&uacute;blica de 1995 a 2002.</font></font></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Leia abaixo trecho do artigo de FHC e <a href=\"https://oglobo.globo.com/pais/noblat/post.asp?cod_Post=68515&amp;a=112\"><strong><em>aqui</em></strong></a> a &iacute;ntegra. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&quot;O presidente Lula s&oacute; faz autocr&iacute;tica indiretamente, sem assumir responsabilidade pelas decis&otilde;es que toma. Apenas lamenta &ldquo;a quantidade de coisas que eu falei e falava porque era moda falar, mas que n&atilde;o tinha subst&acirc;ncia para sustentar na hora em que voc&ecirc; pega no concreto&rdquo;. No exerc&iacute;cio do governo, sempre que pode, se refugia nas frases vagas, na cobran&ccedil;a gen&eacute;rica de responsabilidades, no jogar toda culpa no passado e se contenta com elogios f&aacute;ceis a si mesmo, do tipo &ldquo;nunca neste pa&iacute;s...&rdquo; Em parte a ret&oacute;rica presidencial &eacute; certa: nunca houve tantos esc&acirc;ndalos e, o que &eacute; pior, nunca qualquer outro presidente passou tanto a m&atilde;o na cabe&ccedil;a dos envolvidos (&ldquo;n&atilde;o se comprovou nada, s&atilde;o aloprados e n&atilde;o criminosos, errar &eacute; humano&rdquo;).</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">De conseq&uuml;&ecirc;ncias ainda mais funestas do que a atitude leniente, talvez seja a falta de compreens&atilde;o hist&oacute;rica do governo e de seu l&iacute;der. No af&atilde; de aumentar a popularidade e de iludir quem n&atilde;o tem acesso &agrave; melhor informa&ccedil;&atilde;o, governo e presidente assumem como pr&oacute;prio o que herdaram. Pouco importa, se for para o Brasil continuar avan&ccedil;ando. Mas importa sim, e muito, que estejam desperdi&ccedil;ando uma oportunidade hist&oacute;rica excepcional para que o Brasil d&ecirc; um salto de qualidade, assegurando em benef&iacute;cio desta e das gera&ccedil;&otilde;es futuras. Aqui sim cabe a frase: nunca neste pa&iacute;s houve maior apag&atilde;o ideol&oacute;gico e maior des&iacute;dia frente ao interesse p&uacute;blico. O que vemos &eacute; um quadro de paralisia governamental, de desconex&atilde;o, de imprevid&ecirc;ncia e de incompet&ecirc;ncia, recheada com uma ret&oacute;rica irrespons&aacute;vel. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Digo com l&aacute;stima, sinceridade e franqueza: jamais imaginei que cheg&aacute;ssemos a tal ponto de degrada&ccedil;&atilde;o. Fui testemunha da a&ccedil;&atilde;o inovadora de Lula no sindicato e corajosa na pol&iacute;tica, quando ainda n&atilde;o era o presidente Luiz In&aacute;cio Lula da Silva. Nunca o considerei, nem naquela &eacute;poca, um l&iacute;der excepcional, pois faltava-lhe firmeza para contrapor-se &agrave; opini&atilde;o da maioria ocasional, mas o tinha por um s&iacute;mbolo: migrante nordestino, corajoso e lutador que superou barreiras sociais. Tinha-o, e ainda o tenho, como um homem de boa &iacute;ndole, que em termos gerais deseja o bem do povo. Mas me decepciona v&ecirc;-lo desperdi&ccedil;ar a oportunidade que tem nas m&atilde;os. Opus-me aos que, em 2005, cogitaram de propor o impeachment, n&atilde;o porque faltassem argumentos jur&iacute;dicos nem porque quisesse v&ecirc;-lo sangrar aos poucos, mas porque acreditava, como continuo acreditando, que o conte&uacute;do simb&oacute;lico de sua lideran&ccedil;a &eacute; um patrim&ocirc;nio do pa&iacute;s que n&atilde;o deve ser destru&iacute;do. Lamento v&ecirc;-lo agora destruir por suas pr&oacute;prias palavras e atos o capital de credibilidade que conquistou. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Presidente: em nome da sua e da hist&oacute;ria de nosso pa&iacute;s, n&atilde;o se rebaixe &agrave; vulgaridade em nome da popularidade, resguarde-se de dizer tantos improp&eacute;rios que machucam o bom senso, a solidariedade e a democracia. Por favor, tenha um pouco mais de grandeza, de que tanto necessitamos!&quot;</font></p> </p>
+{% endraw %}

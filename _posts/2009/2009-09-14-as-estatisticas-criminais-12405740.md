@@ -1,0 +1,28 @@
+---
+id: 12405740
+date: "2009-09-14T17:30:00Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "noticias"
+title: "As estat\u00edsticas criminais "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Gerard Viader Sauret</p></p>
+<p><p>No &uacute;ltimo m&ecirc;s de agosto, o F&oacute;rum Brasileiro de Seguran&ccedil;a P&uacute;blica lan&ccedil;ou o seu terceiro Anu&aacute;rio Estat&iacute;stico, compilando informa&ccedil;&otilde;es de todos os Estados da Federa&ccedil;&atilde;o sobre ocorr&ecirc;ncias criminais e investimentos p&uacute;blicos em seguran&ccedil;a. Um avan&ccedil;o importante &eacute; que desta vez, nas compara&ccedil;&otilde;es estat&iacute;sticas do f&oacute;rum, os Estados foram classificados em dois grupos distintos: no primeiro, aqueles considerados compiladores de estat&iacute;sticas de qualidade sobre crimes. No segundo, os que ainda est&atilde;o aqu&eacute;m do desej&aacute;vel na contabilidade deste tipo de ocorr&ecirc;ncias.&nbsp;</p></p>
+<p><p>Um fato do qual podemos nos orgulhar &eacute; que Pernambuco &eacute; o &uacute;nico Estado do Nordeste que aparece no primeiro grupo, ou seja, entre os mais avan&ccedil;ados do Brasil. Nem Estados &ldquo;concorrentes&rdquo; no cen&aacute;rio regional, como a Bahia e o Cear&aacute;, escaparam do crivo severo da classifica&ccedil;&atilde;o, ficando na &ldquo;segunda divis&atilde;o&rdquo; das estat&iacute;sticas criminais.</p></p>
+<p><p>&Eacute; claro que ainda h&aacute; o que melhorar na qualidade dos dados em nosso Estado. Contudo, no quesito apura&ccedil;&atilde;o de mortes violentas intencionais, atualmente o indicador de maior relev&acirc;ncia, Pernambuco disp&otilde;e de uma metodologia de coleta e valida&ccedil;&atilde;o de informa&ccedil;&otilde;es extremamente rigorosa e in&eacute;dita do Brasil.</p></p>
+<p><p>A originalidade do m&eacute;todo est&aacute; em n&atilde;o se deter apenas nos dados de homic&iacute;dios coletados pelas Pol&iacute;cias Civil e Militar. Pois essas duas fontes t&ecirc;m s&eacute;rias dificuldades para notificar casos cujas mortes n&atilde;o se consumam no local do crime, mas em unidade hospitalar. Para contornar esse problema, criou-se o banco de dados de homic&iacute;dios, dentro do Sistema de Informa&ccedil;&otilde;es Policiais (Infopol-SDS), onde os dados da PC e da PM s&atilde;o diariamente cruzados com os relat&oacute;rios do IML, que recebe os corpos de v&iacute;timas de mortes violentas, inclusive os de proced&ecirc;ncia hospitalar.&nbsp;</p></p>
+<p><p>Essa nova metodologia, portanto, resolveu o problema da sub-notifica&ccedil;&atilde;o. Entretanto, abriu brechas a poss&iacute;vel supernotifica&ccedil;&atilde;o. Pois na hora de realizar o cruzamento das informa&ccedil;&otilde;es, foi verificado um risco latente, pequeno mas real, de que os t&eacute;cnicos cometam o erro de contar duas vezes um mesmo caso. Isso pode acontecer quando a v&iacute;tima do homic&iacute;dio tem sido informada com nomes diferentes, inclusive com locais de crime distintos pelas diversas fontes de informa&ccedil;&atilde;o.</p></p>
+<p><p>&Eacute; por isso que, em junho de 2009, a Secretaria de Defesa Social (SDS), por iniciativa da Ger&ecirc;ncia de An&aacute;lise Criminal e Estat&iacute;stica e respaldo da Ger&ecirc;ncia Geral de Pol&iacute;cia Cient&iacute;fica, implantou o Projeto Pulseira de Identifica&ccedil;&atilde;o de Cad&aacute;ver. No caso, os peritos do Instituto de Criminal&iacute;stica (IC) vinculados &agrave;s tr&ecirc;s For&ccedil;a Tarefa de Homic&iacute;dios, do Departamento de Homic&iacute;dios e Prote&ccedil;&atilde;o &agrave; Pessoa (DHPP) est&atilde;o incumbidos de colocar nos cad&aacute;veres periciados pulseiras lacradas, devidamente numeradas.</p></p>
+<p><p>Mediante um sofisticado processo de notifica&ccedil;&atilde;o, todos os &oacute;rg&atilde;os operativos e as pol&iacute;cias cient&iacute;ficas devem incorporar o n&uacute;mero da pulseira nos seus relat&oacute;rios di&aacute;rios de homic&iacute;dios. Assim, os dados chegam aos t&eacute;cnicos da estat&iacute;stica, de forma segura, permitindo a identifica&ccedil;&atilde;o de diverg&ecirc;ncias entre as fontes e a apura&ccedil;&atilde;o de duplicidades. O projeto, que tamb&eacute;m foi implantado no Hospital da Restaura&ccedil;&atilde;o, em parceria com a Secret&aacute;ria de Sa&uacute;de, em breve ser&aacute; expandido no interior do Estado e nos demais hospitais de emerg&ecirc;ncia.</p></p>
+<p><p>O in&iacute;cio do projeto coincidiu com a ocorr&ecirc;ncia do acidente do avi&atilde;o da Air France, dia 30 de maio deste ano, quando o sistema da pulseira tamb&eacute;m foi utilizado pela Pol&iacute;cia Cient&iacute;fica de Pernambuco no processo de identifica&ccedil;&atilde;o das v&iacute;timas. O m&eacute;todo foi elogiado pelos peritos criminais e legistas estrangeiros, que reconheceram a utilidade desse instrumento no referido trabalho.</p></p>
+<p><p>Assim, fica claro que n&atilde;o &eacute; por acaso que Pernambuco est&aacute; no grupo de Estados com estat&iacute;stica segura e confi&aacute;vel sobre mortes violentas. Isso se d&aacute; pela permanente preocupa&ccedil;&atilde;o com a fidedignidade das informa&ccedil;&otilde;es, extremamente relevante para a execu&ccedil;&atilde;o, monitoramento e avalia&ccedil;&atilde;o do Pacto Pela Vida. Pol&iacute;tica P&uacute;blica que visa o enfrentamento efetivo da criminalidade violenta em nosso Estado.</p></p>
+<p><p>&nbsp;Gerard Viader Sauret &eacute; soci&oacute;logo e gerente de an&aacute;lise criminal e estat&iacute;stica da SDS-PE <br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

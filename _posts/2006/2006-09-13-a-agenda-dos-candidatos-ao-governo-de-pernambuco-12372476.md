@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></p>
 <p><P><FONT face=Verdana>Às 10h</FONT></B><FONT face=Verdana>, caminhada em Jaboatão Centro, acompanhado do ex-governador e candidato ao Senado Jrabas Vasconcelos (PMDB). Local: concentração no estacionamento em frente ao Shopping Yapoatan Center (depois da antiga sede da prefeitura) </FONT></P><B></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>Às 19h</FONT></B><FONT face=Verdana>, no Recife, concede entrevista ao programa NE-TV 2ª Edição, da Rede Globo </FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 20h</FONT></B><FONT face=Verdana>, no Recife, participa de debate sobre pol?ticas públicas para o segmento GLS na boite Metrópole, em Boa Viagem </FONT></P><B></p>
 <p><P><FONT face=Verdana>Às 22h</FONT></B><FONT face=Verdana>, no Recife, participa de jantar com representantes do setor de informática&nbsp;em apoio à&nbsp;candidatura a deputado estadual de Waldemar Borges Filho. Local: Restaurante Spettus</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

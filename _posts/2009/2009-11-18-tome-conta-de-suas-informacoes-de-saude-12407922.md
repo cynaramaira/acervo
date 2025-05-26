@@ -1,0 +1,50 @@
+---
+id: 12407922
+date: "2009-11-18T09:46:43Z"
+last_modified_at: null
+tags:
+  - "ariano-suassuna"
+  - "impostometro"
+categories:
+  - "colunistas"
+title: "Tome conta de suas informa\u00e7\u00f5es de sa\u00fade"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Ruy Jos&eacute; Guerra Barretto de Queiroz<br /></p>
+<p><br /></p>
+<p>Esse &eacute; o convite da Google para usar seu produto Google Health, um servi&ccedil;o gratuito, baseado na web, para a administra&ccedil;&atilde;o do &ldquo;prontu&aacute;rio eletr&ocirc;nico de sa&uacute;de&rdquo; do usu&aacute;rio: &ldquo;Tome conta de suas informa&ccedil;&otilde;es de sa&uacute;de. &Eacute; seguro e gratuito. (&hellip;) A Google armazena suas informa&ccedil;&otilde;es de forma segura e privada, mas voc&ecirc; sempre controla como elas s&atilde;o utilizadas. Nunca venderemos seus dados. Voc&ecirc; est&aacute; no controle. Voc&ecirc; escolhe o que voc&ecirc; quer compartilhar e o que voc&ecirc; quer manter privado.&rdquo; <br /></p>
+<p><br /></p>
+<p>Al&eacute;m de propiciar ao seu usu&aacute;rio ferramentas para o gerenciamento de todo o seu hist&oacute;rico de sa&uacute;de, o servi&ccedil;o tamb&eacute;m conta com um sistema de monitoramento eletr&ocirc;nico que ajuda o usu&aacute;rio a identificar situa&ccedil;&otilde;es de risco tais como incompatibilidade do medicamento recomendado pelo profissional da &aacute;rea m&eacute;dica com outras medica&ccedil;&otilde;es constantes do hist&oacute;rico, al&eacute;m de condi&ccedil;&otilde;es decorrentes de uma doen&ccedil;a cr&ocirc;nica.<br /></p>
+<p><br /></p>
+<p>&Eacute; forte a tend&ecirc;ncia de crescimento do uso de tecnologia na ind&uacute;stria da sa&uacute;de. Os custos da assist&ecirc;ncia m&eacute;dica continuam a crescer, n&atilde;o somente pelo crescimento da popula&ccedil;&atilde;o em n&uacute;mero e em longevidade, mas tamb&eacute;m devido ao fato de que a tecnologia empregada se torna cada vez mais sofisticada. <br /></p>
+<p><br /></p>
+<p>Embora historicamente a ind&uacute;stria da sa&uacute;de n&atilde;o tenha estado sempre &agrave; frente no que diz respeito ao uso da tecnologia da informa&ccedil;&atilde;o, todos os indicadores apontam para uma mudan&ccedil;a dram&aacute;tica nessa tend&ecirc;ncia, n&atilde;o apenas nos EUA onde os esfor&ccedil;os se redobram na busca por um equacionamento dos problemas no sistema de assist&ecirc;ncia &agrave; sa&uacute;de, mas em todo o mundo. <br /></p>
+<p><br /></p>
+<p>O fato &eacute; que a tecnologia da informa&ccedil;&atilde;o &eacute; vista como uma ferramenta de redu&ccedil;&atilde;o de custos assim como de melhoria da qualidade da assist&ecirc;ncia e da seguran&ccedil;a do paciente em todo o ecossistema de assist&ecirc;ncia m&eacute;dica. Tal qual em diversos outros setores, o maior foco tem sido no investimento em tecnologia da informa&ccedil;&atilde;o interativa.<br /></p>
+<p><br /></p>
+<p>As fronteiras entre os agentes integrantes do ecossistema de assist&ecirc;ncia &agrave; sa&uacute;de, a saber os setores das ci&ecirc;ncias da vida, os provedores e os pagantes, continuam a se tornar cada vez menos cristalinas &agrave; medida em que cada um &eacute; for&ccedil;ado a melhorar a qualidade e a seguran&ccedil;a do paciente ao mesmo tempo em que reduz custos. A tend&ecirc;ncia &eacute; uma busca por maior automa&ccedil;&atilde;o da coleta de dados e da integra&ccedil;&atilde;o de informa&ccedil;&otilde;es em todo o ecossistema: surge a figura dos &ldquo;registros eletr&ocirc;nicos de sa&uacute;de&rdquo; (em ingl&ecirc;s, &ldquo;electronic health records&rdquo;). <br /></p>
+<p><br /></p>
+<p>Conforme a HIMSS, organiza&ccedil;&atilde;o sem fins lucrativos dedicada &agrave; promo&ccedil;&atilde;o do melhor uso da tecnologia da informa&ccedil;&atilde;o e dos sistemas de gerenciamento nos cuidados com a sa&uacute;de, &ldquo;o EHR &eacute; um registro eletr&ocirc;nico longitudinal de informa&ccedil;&otilde;es de sa&uacute;de do paciente gerado por um ou mais encontros em qualquer cen&aacute;rio de provimento de cuidados m&eacute;dicos. Inclu&iacute;das nessas informa&ccedil;&otilde;es est&atilde;o demografia do paciente, notas de progresso, problemas, medica&ccedil;&otilde;es, sinais vitais, hist&oacute;ria m&eacute;dica passada, imuniza&ccedil;&otilde;es, dados laboratoriais, e relat&oacute;rios radiol&oacute;gicos. <br /></p>
+<p><br /></p>
+<p>O EHR automatiza e padroniza o fluxo de trabalho do cl&iacute;nico geral, e tem a capacidade de gerar um registro completo de um encontro cl&iacute;nico do paciente, assim como dar suporte a outras atividades relacionadas aos cuidados m&eacute;dicos direta ou indiretamente via interface&mdash;incluindo suporte &agrave; decis&atilde;o baseada em evid&ecirc;ncia, gerenciamento da qualidade, e produ&ccedil;&atilde;o de relat&oacute;rio de resultados.&rdquo;<br /></p>
+<p><br /></p>
+<p>O plano de Obama &eacute; investir um total de US$20 bilh&otilde;es de fundos de est&iacute;mulo em hospitais e consult&oacute;rios m&eacute;dicos que possam provar at&eacute; Outubro de 2010 que usam EHR certificado &ldquo;de forma significativa&rdquo;. Os hospitais e consult&oacute;rios que se qualificarem se habilitam a receber incentivos do Medicare e do Medicaid at&eacute; 2014, o que especialistas dizem ser de, em m&eacute;dia, US$7 milh&otilde;es por ano por hospital. Os que n&atilde;o usam EHR at&eacute; 2015 ter&atilde;o seus recursos do Medicare reduzidos. Em Julho passado, David Blumenthal, coordenador nacional para a tecnologia da informa&ccedil;&atilde;o na sa&uacute;de do Department of Health, encarregado de supervisionar o projeto de implanta&ccedil;&atilde;o do EHR em escala nacional, declarou que acreditava que &ldquo;os EHRs se tornar&atilde;o parte t&atilde;o integrante da medicina quanto o estetosc&oacute;pio.&rdquo;<br /></p>
+<p><br /></p>
+<p>Considerado crucial para o sucesso da reforma radical e tecnol&oacute;gica no sistema de sa&uacute;de dos EUA, para os analistas o projeto de implanta&ccedil;&atilde;o de EHRs na escala desejada &eacute; um grande desafio, no m&iacute;nimo devido aos grandes obst&aacute;culos enfrentados pelos hospitais e cl&iacute;nicas: equipamentos caros, educa&ccedil;&atilde;o e treinamento dos profissionais de cl&iacute;nica m&eacute;dica, garantia da privacidade do paciente, interoperabilidade entre m&uacute;ltiplas plataformas, ader&ecirc;ncia a um padr&atilde;o ainda-a-ser-determinado, e o curto espa&ccedil;o de tempo, dado o planejamento do governo americano no que concerne ao prazo para realiza&ccedil;&atilde;o da reforma pretendida. <br /></p>
+<p><br /></p>
+<p>A bem da verdade, o uso de tecnologia da informa&ccedil;&atilde;o no gerenciamento de prontu&aacute;rios m&eacute;dicos nos EUA n&atilde;o &eacute; novidade. Segundo a Wikipedia, em 2005, 25% dos cl&iacute;nicos gerais se diziam utilizando sistemas de registros medicos eletr&ocirc;nicos (em ingl&ecirc;s, &ldquo;electronic medical records&rdquo;, abrev. &ldquo;EMR&rdquo;), um crescimento de quase um ter&ccedil;o em rela&ccedil;&atilde;o aos 18,2% reportados em 2001. O EMR, segundo a National Alliance for Health Information Technology, &eacute; &ldquo;o registro eletr&ocirc;nico de informa&ccedil;&otilde;es de sa&uacute;de de um indiv&iacute;duo que &eacute; criado, reunido, gerenciado, e consultado por cl&iacute;nicos e staff licenciados de uma &uacute;nica organiza&ccedil;&atilde;o que est&atilde;o envolvidos nos cuidados m&eacute;dicos ao indiv&iacute;duo.&rdquo; Em suma, o EHR &eacute; o EMR com interoperabilidade.<br /></p>
+<p><br /></p>
+<p>Seguindo a tend&ecirc;ncia das chamadas tecnologias sociais &ndash; uma tend&ecirc;ncia social na qual as pessoas usam tecnologias para obter as coisas das quais necessitam umas das outras, ao inv&eacute;s de apelar para institui&ccedil;&otilde;es tradicionais como corpora&ccedil;&otilde;es, surge o EHR de controle pessoal, denominado de &ldquo;personal health record&rdquo; (PHR). Segundo o portal myPHR.com, &ldquo;o PHR &eacute; uma ferramenta que voc&ecirc; pode usar para coletar, rastrear e compartilhar informa&ccedil;&otilde;es atuais e passadas sobre sua sa&uacute;de ou a sa&uacute;de de algu&eacute;m a quem voc&ecirc; quer bem.&rdquo; <br /></p>
+<p><br /></p>
+<p>Um PHR &eacute; normalmente um arquivo ou registro eletr&ocirc;nico de informa&ccedil;&otilde;es de sa&uacute;de e servi&ccedil;os recentes referentes a um indiv&iacute;duo, tais como as condi&ccedil;&otilde;es m&eacute;dicas, alergias, medica&ccedil;&otilde;es, e visitas ao m&eacute;dico ou ao hospital, que podem ser armazenadas em um &uacute;nico lugar, e depois compartilhadas com outros, &agrave; escolha do pr&oacute;prio indiv&iacute;duo. &Eacute; ele quem decide como as informa&ccedil;&otilde;es em seu PHR s&atilde;o usadas e quem tem acesso a elas. <br /></p>
+<p><br /></p>
+<p>O portal myPHR.com revela que no momento existem 23 sistemas de PHR gratuitos pela internet, entre os quais est&aacute; o Google Health. Em depoimento como usu&aacute;ria e admiradora do Google Health, uma m&eacute;dica ginecologista chama &agrave; aten&ccedil;&atilde;o para a transfer&ecirc;ncia de poder sobre os registros m&eacute;dicos que o sistema propicia ao indiv&iacute;duo. Segundo ela, passa a haver um maior engajamento, assim como uma maior responsabilidade com o gerenciamento da pr&oacute;pria sa&uacute;de.<br /></p>
+<p><br /></p>
+<p>N&atilde;o obstante a atribui&ccedil;&atilde;o do controle total do gerenciamento de seus dados de sa&uacute;de ao indiv&iacute;duo, pairam, no entanto, quest&otilde;es sobre a propriedade das informa&ccedil;&otilde;es, sobretudo aquelas produzidas por profissionais de sa&uacute;de (diagn&oacute;sticos, pareceres, prescri&ccedil;&otilde;es, etc.).<br /></p>
+<p><br /></p>
+<p>PS: Ruy &eacute; professor associado do Centro de Inform&aacute;tica da UFPE e escreve para o Blog semanalmente.</p> </p>
+{% endraw %}

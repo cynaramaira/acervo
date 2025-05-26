@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>Na pesquisa feita em 7 de maio, quando as candidaturas ainda não estavam homologadas, o JC publicou o seguinte:</P></p>
 <p><P><BR><STRONG>Intenção de voto espontânea<BR></STRONG>(quando o eleitor indica o candidato sem a apresentação de listas)</P></p>
 <p><P>Mendonça&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8%</P></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P>Humberto&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 18%</P></p>
 <p><P>Armando&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5%</P></p>
 <p><P>Clóvis Corrêa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1%<BR></P> </p>
-{\% endraw %}
+{% endraw %}

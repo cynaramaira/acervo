@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT</p>
 <p> face=Verdana>O repórter de Economia do JC Renato Lima mostra na edição de hoje, que, apesar das cr?ticas da equipe de transição do governador eleito&nbsp;Eduardo Campos (PSB), números mostram&nbsp;Pernambuco com crescimento de receita real, redução de despesa e enquadramento na Lei de Responsabilidade Fiscal. E agora?</FONT></P></p>
 <p><P><FONT face=Verdana>Por <STRONG>Renato Lima<BR></STRONG>Do Jornal do Commercio</FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>Pernambuco cumpre todos os itens do Programa de Ajuste Fiscal, acordado com o governo federal. Trata-se de uma medida que vai além do simples enquadramento nos ?ndices máximos da Lei de Responsabilidade Fiscal (LRF). </FONT></P></p>
 <p><P><FONT face=Verdana>Como Pernambuco cumpre esses ?ndices, é a própria Secretaria do Tesouro Nacional que reconhece o equil?brio das contas estaduais. </FONT></P></p>
 <p><P><FONT face=Verdana>Pernambuco tem o desafio de aumentar sua capacidade de investimento – o que de resto é verdade também em todos os outros Estados e para a própria União. Mas esse obstáculo é mais fácil quando se está enquadrado em tudo da LRF, quando sobra capacidade de endividamento e com as despesas com pessoal estão sob controle. </FONT></P> </p>
-{\% endraw %}
+{% endraw %}

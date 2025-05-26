@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Enquanto Eduardo Campos (PSB) comemora na Conde da Boa Vista, no Recife, Mendonça Filho (PFL)&nbsp;termina agora a \"Caminhada da Vitoria\", em Olinda. </FONT></P></p>
 <p><P><FONT face=Verdana>São 35 mil pessoas, segundo informa a Pol?cia Militar. A Cidade Alta ficou engarrafada desde o final da tarde.</FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"Eu não me impressiono com pesquisas. Está a? a Bahia... Quando o povo quer, demonstra sua posição. Vocês conhecem a minha disposicão. Eu nunca titubiei\", disse o pefelista. </FONT></P></p>
 <p><P><FONT face=Verdana>O senador eleito Jarbas Vasconcelos (PMDB), maior cabo-eleitoral de Mendonça, foi o primeiro a falar. Agradeceu os votos que recebeu no dia 1º turno (2.031.261 / 56,4% dos votos válidos). E pediu voto.</FONT></P></p>
 <p><P><FONT face=Verdana>\"A vitória só será completa com a eleição de Mendonça. No próximo dia 29, vamos decidir o destino de Pernambuco. Mendonça é um candidato sério, determinado e de mãos limpas. Se Pernambuco quer ver um filme que já viu, um filme de terror, vota no nosso adversário\".</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

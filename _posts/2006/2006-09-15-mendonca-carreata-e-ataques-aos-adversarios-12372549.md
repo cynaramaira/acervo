@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana>É hora de dar volume às campanhas de rua, de ocupar espaços e de dar visibilidade aos candidatos.&nbsp;É o que estão fazendo os três principais concorrentes ao Governo de Pernambuco.</FONT></p>
 <p><P><FONT face=Verdana>Eles vêm realizando eventos curtos, rápidos e no maior número de cidades poss?vel. </FONT></P><FONT size=2></p>
 <p><P><FONT face=Verdana>Foi o que fez agora há pouco o governador-candidato&nbsp;Mendonça Filho (PFL), durante cerca de uma hora, em Arcoverde, no Sertão pernambucano.</FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"Não vamos entregar o governo a quem foi indiciado, nem a quem quebrou o estado com os precatórios. Um foi o pior ministro da Saúde do pa?s e o outro quase acabou com Pernambuco quando foi secretário\".</FONT></P></p>
 <p><P><FONT face=Verdana>A caravana de Mendonça faz, agora, carreata em&nbsp; Sertânia. Depois segue para Bu?que. </FONT></P></p>
 <p><P><FONT face=Verdana>O editor do <STRONG>Blog do JC</STRONG>, César Rocha, acompanha a programação. &nbsp;</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">Do portal <STRONG>G1<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></STRONG></SPAN></P></p>
 <p><P><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">O diretório nacional do PT aprovou neste sábado (25) uma resolução pol?tica em que o partido defende \"um governo de coalizão programática expresso na reunião das forças que constru?ram o caminho da vitória e todos aqueles que estejam de acordo com o programa de transformações econômicas, sociais e pol?ticas defendido durante a campanha eleitoral e com a continuidade no avanço do combate à corrupção\". <o:p></o:p></SPAN></P></p>
 <p><P><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana\">O texto atende ao interesse do presidente Luiz Inácio Lula da Silva, que tem defendido a obtenção de uma ampla maioria no Congresso. O presidente nacional do PT, Marco Aurélio Garcia, deixou a reunião demonstrando bom humor. \"Houve um movimento convergente\", afirmou. \"Há muito tempo não tinhamos uma reunião do diretório nacional tão positiva.\"<o:p></o:p></SPAN></P></p>
@@ -37,4 +37,4 @@ imagem: null
 <p><P><I><SPAN lang=PT style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-ansi-language: PT\">O PT proporá ao Partido Socialista Brasileiro e ao Partido Comunista do Brasil um processo de discussões que permita estabelecer uma ação mais coordenada das forças de esquerda que apóiam o Governo. <o:p></o:p></SPAN></I></P></p>
 <p><P><I><SPAN lang=PT style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-ansi-language: PT\">Será de fundamental importância, igualmente, o funcionamento regular de um Conselho Pol?tico, composto por todos os partidos da base do Governo, reproduzindo a experiência exitosa da campanha eleitoral. (...)<o:p></o:p></SPAN></I></P></p>
 <p><P><SPAN lang=PT style=\"FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Verdana; mso-ansi-language: PT\">Leia <A href=\"https://noticias.terra.com.br/brasil/interna/0,,OI1268727-EI7896,00.html\" target=_blank><STRONG><EM>aqui</EM></STRONG></A> a ?ntegra do documento.</SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

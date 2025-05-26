@@ -1,0 +1,27 @@
+---
+id: 12378812
+date: "2007-05-23T17:40:00Z"
+last_modified_at: null
+tags:
+  - "naomi-campbell"
+  - "seguranca"
+categories:
+  - "noticias"
+title: "Quest\u00e3o da seguran\u00e7a n\u00e3o pode ser politizada, afirma especialista colombiano"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">O soci&oacute;logo colombiano e especialista internacional em seguran&ccedil;a p&uacute;blica, Hugo Acero, disse nesta quarta (23)</font><font face=\"Verdana\" size=\"2\"> que &quot;a quest&atilde;o da seguran&ccedil;a n&atilde;o&nbsp;</font><font face=\"Verdana\" size=\"2\">pode ser politizada. A viol&ecirc;ncia n&atilde;o &eacute; de&nbsp;</font><font face=\"Verdana\" size=\"2\">direita e nem de esquerda. Os criminosos n&atilde;o&nbsp;</font><font face=\"Verdana\" size=\"2\">s&atilde;o de direita ou de esquerda&quot;, ensinou.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Segundo ele,&nbsp;na Col&ocirc;mbia os &iacute;ndices de&nbsp;v</font><font face=\"Verdana\" size=\"2\">iol&ecirc;ncia foram reduzidos tamb&eacute;m porque a </font><font face=\"Verdana\" size=\"2\">pol&iacute;tica partid&aacute;ria foi deixada de lado: &quot;um&nbsp;</font><font face=\"Verdana\" size=\"2\">presidente, um governador, um prefeito se&nbsp;</font><font face=\"Verdana\" size=\"2\">entendem na seguran&ccedil;a, independente do partido&nbsp;</font><font face=\"Verdana\" size=\"2\">que representam&quot;.&nbsp;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Secret&aacute;rio de Seguran&ccedil;a de Bogot&aacute;&nbsp;</font><font face=\"Verdana\" size=\"2\">durante oito anos e hoje consultor do <font face=\"Verdana\" size=\"2\">Programa das Na&ccedil;&otilde;es Unidas para o </font><font face=\"Verdana\" size=\"2\">Desenvolvimento (PNUD),&nbsp;</font></font><font face=\"Verdana\" size=\"2\">ele mostrou que a cidade de maiores &iacute;ndices de&nbsp;</font><font face=\"Verdana\" size=\"2\">viol&ecirc;ncia atualmente na Am&eacute;rica Latina&nbsp;&eacute; Caracas, na Venezuela. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Em Bogot&aacute;, o &iacute;ndice de viol&ecirc;ncia&nbsp;</font><font face=\"Verdana\" size=\"2\">que era de 80 mortos&nbsp;por 100 mil habitantes em 1995 caiu&nbsp;</font><font face=\"Verdana\" size=\"2\">para 18 por 100 mil em 2003.&nbsp;E o objetivo, segundo Acero,&nbsp;</font><font face=\"Verdana\" size=\"2\">&eacute; chegar dentro de cinco ou seis anos a 5 ou 6&nbsp;</font><font face=\"Verdana\" size=\"2\">por 100 mil. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O soci&oacute;logo afirmou que&nbsp;u</font><font face=\"Verdana\" size=\"2\">m policial na Col&ocirc;mbia&nbsp;</font><font face=\"Verdana\" size=\"2\">ganha igual a um policial brasileiro: em torno&nbsp;</font><font face=\"Verdana\" size=\"2\">de 500 d&oacute;lares. &quot;A diferen&ccedil;a &eacute; que, ao&nbsp;</font><font face=\"Verdana\" size=\"2\">contr&aacute;rio daqui, l&aacute; os policiais t&ecirc;m resid&ecirc;ncia&nbsp;</font><font face=\"Verdana\" size=\"2\">pr&oacute;pria, em local pr&oacute;prio, e as fam&iacute;lias contam&nbsp;</font><font face=\"Verdana\" size=\"2\">com uma boa assist&ecirc;ncia m&eacute;dica&quot;. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Mais alguns pontos foram&nbsp;</font><font face=\"Verdana\" size=\"2\">ressaltados por ele. Em primeiro lugar o grande </font><font face=\"Verdana\" size=\"2\">investimento feito. Apontou que em oito anos&nbsp;</font><font face=\"Verdana\" size=\"2\">foram investidos US$ 200 milh&otilde;es na seguran&ccedil;a&nbsp;</font><font face=\"Verdana\" size=\"2\">em Bogot&aacute;. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Al&eacute;m disso, foram constru&iacute;das&nbsp;</font><font face=\"Verdana\" size=\"2\">escolas de primeiro mundo nas favelas e&nbsp;</font><font face=\"Verdana\" size=\"2\">realizadas diversas obras urbanas para melhorar&nbsp;</font><font face=\"Verdana\" size=\"2\">a condi&ccedil;&atilde;o de vida das pessoas residentes nas&nbsp;</font><font face=\"Verdana\" size=\"2\">&aacute;reas mais pobres. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&quot;Pobreza n&atilde;o &eacute; sin&ocirc;nimo de viol&ecirc;ncia&quot;, afirmou.&nbsp;&quot;</font><font face=\"Verdana\" size=\"2\">Mas, &eacute; necess&aacute;rio que nas &aacute;reas&nbsp;</font><font face=\"Verdana\" size=\"2\">pobres sejam dadas condi&ccedil;&otilde;es de educa&ccedil;&atilde;o, sa&uacute;de&nbsp;</font><font face=\"Verdana\" size=\"2\">e conviv&ecirc;ncia para que a popula&ccedil;&atilde;o recupere a&nbsp;</font><font face=\"Verdana\" size=\"2\">sua auto-estima e se distancie do crime&nbsp;</font><font face=\"Verdana\" size=\"2\">organizado&quot;. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Acero tamb&eacute;m destacou a import&acirc;ncia da Lei Seca implatada na cidade e do maior rigor com motoristas alcoolizados.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Em menos de 24 horas, o colombiano Hugo Acero foi ouvido por plat&eacute;ias lotadas em duas oportunidades no Recife. Na&nbsp;noite da ter&ccedil;a (22), falou na Faculdade Maur&iacute;cio de Nassu no lan&ccedil;amento oificial do blog PEbodycount. Na manh&atilde; desta quarta (23), fez palestra na Assembl&eacute;ia Legislativa, a convite da Comiss&atilde;o de&nbsp;C</font><font face=\"Verdana\" size=\"2\">idadania.&nbsp;</font></p> </p>
+{% endraw %}

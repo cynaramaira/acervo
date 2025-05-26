@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Acabei de postar na seção Artigos, na coluna ao lado, uma interessante análise do cientista pol?tico Túlio Velho Barreto, colaborador freqüente do <STRONG>Blog</STRONG>, sobre os dois escândalos que estouraram nos últimos dias, o do dossiê contra José Serra e o das fitas gravadas pelo nebuloso Saulo Batista contra dirigentes do PSB ligados a Eduardo Campos.</FONT></P></p>
 <p><P><FONT face=Verdana>Abaixo, alguns trechos. Boa leitura.</FONT></P></p>
 <p><P><FONT face=Verdana>-----------------------</FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>(...)</FONT></P></p>
 <p><P><FONT face=Verdana>2. E se, no plano nacional, as “Organizações Tabajaras??? fazem a alegria da oposição, pois podem levar a disputa presidencial para um imprevisto e imprevis?vel segundo turno, no plano estadual, as “Armações Ilimitadas??? fazem a alegria da situação, pois podem ser o empurrão que faltava para brecar o crescimento das candidaturas de oposição ou fazê-las descer ladeira abaixo. </FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/09/25/not_1721.php\">aqui</A></EM></STRONG> o texto completo.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

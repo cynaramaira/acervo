@@ -1,0 +1,33 @@
+---
+id: 12386324
+date: "2008-02-20T08:12:00Z"
+last_modified_at: null
+tags:
+  - "democracia"
+  - "recife"
+categories:
+  - "eleicoes"
+title: "O Recife e a democracia"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\"><em>Por <strong>Luciano Siqueira*<img height=\"160\" src=\"https://www2.uol.com.br/JC/blogs/blogdejamildo/imagens/selo_recife2008_luciano.jpg\" width=\"130\" align=\"right\" alt=\"\" /></strong></em></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Brasil e Portugal s&atilde;o, obviamente, pa&iacute;ses muito diferentes. As experi&ecirc;ncias de governo, idem. Mas o di&aacute;logo com gestores p&uacute;blicos locais, assim mesmo, implica constata&ccedil;&otilde;es importantes. &Eacute; o que fazemos desde ontem, a convite do Partido Comunista Portugu&ecirc;s - o secret&aacute;rio nacional de Rela&ccedil;&otilde;es Institucionais e Pol&iacute;ticas P&uacute;blicas do PCdoB, Ronald Freitas, e eu. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Uma quest&atilde;o veio &agrave; tona em nosso primeiro dia de trabalho &ndash; a democratiza&ccedil;&atilde;o da gest&atilde;o p&uacute;blica. De pronto, Jorge Cordeiro, do Secretariado Nacional do PCP, explica que os Munic&iacute;pios e as Freguesias, que conformam a administra&ccedil;&atilde;o local, n&atilde;o gozam de plena autonomia financeira, da&iacute; por que o or&ccedil;amento participativo n&atilde;o &eacute; vi&aacute;vel. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O Estado portugu&ecirc;s &eacute; unit&aacute;rio, diferente do sistema federativo do Brasil. As principais pol&iacute;ticas p&uacute;blicas s&atilde;o da al&ccedil;ada do governo central, sobrando ao poder local tarefas de menor porte, acess&oacute;rias, que realiza com dota&ccedil;&atilde;o or&ccedil;ament&aacute;ria reduzida, quase exclusivamente para o custeio. Da&iacute; a pr&aacute;tica democr&aacute;tica se centrar no debate e na decis&atilde;o sobre o plano de atividades. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">E h&aacute; casos em que h&aacute; uma consider&aacute;vel mobiliza&ccedil;&atilde;o do povo nesse sentido, como veremos ainda hoje, quarta-feira, em Moura, ao norte de Lisboa, onde h&aacute; um movimento de defesa da &aacute;gua p&uacute;blica. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O contraste, de outra parte, real&ccedil;a o quanto temos avan&ccedil;ado no Brasil, desde a Constitui&ccedil;&atilde;o de 1988, na pr&aacute;tica de mecanismos democr&aacute;ticos de relacionamento entre a sociedade e os governos locais. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Recife &eacute; um exemplo emblem&aacute;tico. O nosso Or&ccedil;amento Participativo tem sido uma experi&ecirc;ncia muito rica. Em sete anos envolveu, cumulativamente, cerca de 700 mil pessoas e deliberou sobre quase 300 milh&otilde;es de reais de investimentos diretos, aproximadamente a metade de todas as interven&ccedil;&otilde;es feitas com recursos pr&oacute;prios. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Nem se compara com o que encontramos da gest&atilde;o que nos antecedeu, onde apenas uma nesga dos investimentos passava pelo crivo da sociedade. Nem caiu do c&eacute;u, &eacute; cria&ccedil;&atilde;o peculiar do nosso governo, a partir mesmo de 2001. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Levamos em considera&ccedil;&atilde;o a tradi&ccedil;&atilde;o participativa do povo da cidade, que vem desde os governos de Pel&oacute;pidas da Silveira e Miguel Arraes, antes do Golpe Militar de 1964, e entre 1985 e 1988, no primeiro governo do ent&atilde;o prefeito Jarbas Vasconcelos. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Observamos tamb&eacute;m experi&ecirc;ncias bem sucedidas de outras cidades do Pa&iacute;s, sem contudo copi&aacute;-las. E buscamos nosso pr&oacute;prio formato &ndash; para o que tem sido muito importante a contribui&ccedil;&atilde;o do secret&aacute;rio Jo&atilde;o da Costa e da equipe de governo. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Mais: quase que duplicamos os Conselhos Setoriais e lhes demos um car&aacute;ter democr&aacute;tico, parit&aacute;rio entre o governo e a sociedade civil. Tornamos as Confer&ecirc;ncias Municipais uma rotina de avalia&ccedil;&atilde;o cr&iacute;tica, de proposi&ccedil;&otilde;es novas e de debate com a sociedade no intuito de aprimorarmos as pol&iacute;ticas p&uacute;blicas. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O prefeito e o vice-prefeito participam diretamente da media&ccedil;&atilde;o de conflitos entre diferentes setores da sociedade e da abordagem de pleitos que nos chegam, &agrave;s vezes em desacordo com op&ccedil;&otilde;es administrativas que adotamos. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">H&aacute; defici&ecirc;ncias. Ainda &eacute; necess&aacute;rio aprimorar o OP e assegurar dinamismo aos Conselhos (o que depende n&atilde;o apenas do governo, mas da iniciativa das parcelas da sociedade neles envolvidas). Corrigir falhas e insufici&ecirc;ncias. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Por&eacute;m tem sido um aprendizado e tanto a democratiza&ccedil;&atilde;o da gest&atilde;o p&uacute;blica em nossa cidade. E um esfor&ccedil;o s&eacute;rio para inserir na vida social e pol&iacute;tica parcelas do povo economicamente exclu&iacute;das, ajudando-as a que lutem pela sua emancipa&ccedil;&atilde;o mediante a presen&ccedil;a ativa nos espa&ccedil;os p&uacute;blicos constitu&iacute;dos para sediar os conflitos na sociedade. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Num Pa&iacute;s como o nosso, onde em 119 anos de Rep&uacute;blica t&ecirc;m predominado governos autorit&aacute;rios, e por isso a pr&aacute;tica da democracia jamais se consolidou (desde 1985, d&aacute;-se o lapso de tempo mais prolongado de vig&ecirc;ncia do Estado de direito democr&aacute;tico), o que realizamos no Recife tem, assim, um valor estrat&eacute;gico para eleva&ccedil;&atilde;o da consci&ecirc;ncia pol&iacute;tica dos seus habitantes. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><em>*Vice-prefeito do Recife, &eacute; pr&eacute;-candidato &agrave; prefeitura pelo PCdoB e escreve &agrave;s quartas para o Blog dentro da s&eacute;rie com os prefeitur&aacute;veis &quot;Recife 2008&quot;.</em></font></p> </p>
+{% endraw %}

@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><U><FONT size=2></p>
 <p><P><FONT face=Verdana>De Eduardo Campos:</FONT></P></U><I></p>
 <p><P><FONT face=Verdana>\"Veja você. O ministro José Dirceu foi alvo de todas as acusações que o Mendonça fala. Foram buscar pessoas (testemunhas) respeitadas como o ministro da Justiça, Márcio Tomás Bastos, o presidente da Câmara, Aldo Rebelo, o jornalista Fernando Moraes, o l?der do governo, Arlindo Chinaglia, e encontraram a mim para prestar os esclarecimentos. Fui lá e contribui com o</p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>\"Pois é. O deputado desconhece o site do próprio ministério que ele atuou, que coloca Pernambuco em quinto lugar na área de Ciência e Tecnologia\"</FONT></P></B></I></p>
 <p><P><FONT face=Verdana>Na tréplica sobre Ciência e Tecnologia</FONT></P><B><I></p>
 <p><P><FONT face=Verdana>\"Alguém que quer governar o estado testemunhou contra uma pessoa acusada pelo procurador-geral do Governo Lula\"</FONT></B></I><BR><FONT face=Verdana>Na tréplica sobre a defesa do ex-ministro José Dirceu</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

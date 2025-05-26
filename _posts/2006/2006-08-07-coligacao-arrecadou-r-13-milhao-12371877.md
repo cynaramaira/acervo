@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O governador e candidato à reeleição Mendonça Filho (PFL) já encaminhou para o Tribunal Regional Eleitoral a primeira prestação de contas da campanha.</FONT></P></p>
 <p><P><FONT face=Verdana>Os números são os seguintes (em R$):</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Arrecadação total</STRONG>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.384.172,40</FONT></P></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana>De acordo com a assessoria petista, a legislação permite que sejam celebrados contratos e estipulados prazos para pagamentos futuros, da? o déficit no relatório. </FONT></P></FONT></p>
 <p><P><FONT face=Verdana>Já a campanha de Eduardo Campos (PSB) informou ao TRE ter arrecadado bem mais do que a do petista: R$ 868 mil. O total de gastos no per?odo – a maior parte com a produção do guia eleitoral – foi de R$ 756 mil.</FONT></P></p>
 <p><P><FONT face=Verdana>Os gastos/receitas estimados pelo PSB são de R$&nbsp;8 milhões. E os da coligação de Mendonça, R$ 15 milhões.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

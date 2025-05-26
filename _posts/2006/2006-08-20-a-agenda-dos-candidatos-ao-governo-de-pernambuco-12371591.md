@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B></p>
 <p><P><FONT face=Verdana>O candidato não tem compromisso de campanha, hoje</FONT></P><B></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>19h</STRONG>, em Flores, carreata e com?cio</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>20h30</STRONG>, em Calumbi, carreata e com?cio </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>22h</STRONG>, em Triunfo, carreta e reuniao com lideranças</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

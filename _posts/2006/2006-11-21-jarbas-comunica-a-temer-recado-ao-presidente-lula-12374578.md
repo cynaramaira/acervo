@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Ramos</STRONG><BR>Repórter do Blog</FONT></P></p>
 <p><P><FONT face=Verdana>O senador eleito e ex-governador de Pernambuco Jarbas Vasconcelos (PMDB) encerrou, há pouco, reunião com os senadores peemedebistas Joaquim Roriz (DF), Almeida Lima (SE), Garibaldi Alves (RN), Mão Santa (PI) e Geraldo Mesquita Júnior (AC). Pedro Simon (RS) não estava presente, mas integra a ala oposicionista ao Governo Lula. </FONT></P></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>Mesmo assim, Jarbas tentará conversar com&nbsp;Renan ainda hoje,&nbsp;sobre&nbsp;</FONT><FONT face=Verdana size=2>o apoio&nbsp;do&nbsp;PMDB ao segundo mandato de Lula.&nbsp;</FONT></P></p>
 <p><P><FONT face=Verdana size=2>Também na pauta,&nbsp;a eleição para a Mesa do Senado. Renan quer ser reeleito e é o preferido de Lula - e da ala governista do PMDB.</P></p>
 <p><P>Jarbas seguiu para o gabinete do senador Sérgio Guerra (PSDB-PE), de onde concederá entrevista.</P></FONT></FONT> </p>
-{\% endraw %}
+{% endraw %}

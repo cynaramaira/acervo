@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>É o que mostra apuração parcial, com 80,2% das seções de Pernambuco totalizadas:</FONT></P></p>
 <p><P><FONT face=Verdana>Armando Monteiro 165.770</FONT></P></p>
 <p><P><FONT face=Verdana>Ana Arraes 145.740</FONT></P></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>Fernando Bezerra Filho 83.456</FONT></P></p>
 <p><P><FONT face=Verdana>Zé Mendonça 75.401</FONT></P></p>
 <p><P><FONT face=Verdana>Gonzaga Patriota 73.565</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

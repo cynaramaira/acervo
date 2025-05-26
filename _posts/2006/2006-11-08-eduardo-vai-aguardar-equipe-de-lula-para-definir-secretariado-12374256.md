@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O governador eleito de Pernambuco, Eduardo Campos (PSB), disse há pouco a Geraldo Freire, na Rádio Jornal, que ainda não definiu os nomes de sua equipe e deixou claro que isso deverá ser feito depois que o presidente Lula remontar seu ministério.</FONT></P></p>
 <p><P><FONT face=Verdana>“A escolha federal tem implicações aqui???, afirmou Eduardo.</FONT></P></p>
 <p><P><FONT face=Verdana>Esse é mais um sinal de que o socialista deve realizar uma administração extremamente sintonizada com o governo Lula. E não apenas por afinidade pol?tica.</FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>“Nomes nós temos muitos, na frente que nos apóia, na sociedade???, explicou, acrescentando que defini-los agora significa deixar de lado a construção sólida do novo governo para montar um mero “personograma???.</FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo informou que segue hoje para o Rio de Janeiro, onde discutirá amanhã com a direção da Petrobras a implantação da refinaria em Pernambuco. Em seguida, ele vai a Bras?lia para, no domingo, partir com Lula para a Venezuela, que deve ser parceira no empreendimento.</FONT></P></p>
 <p><P><FONT face=Verdana>O governador eleito voltou a dizer que deseja tocar a transição com o governador Mendonça Filho (PFL) sem dificuldades ou “marolas???.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

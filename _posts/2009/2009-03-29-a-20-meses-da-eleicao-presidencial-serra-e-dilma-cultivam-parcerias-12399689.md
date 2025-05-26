@@ -1,0 +1,34 @@
+---
+id: 12399689
+date: "2009-03-29T14:04:20Z"
+last_modified_at: null
+tags:
+  - "dilma"
+  - "eleicao"
+  - "serrana"
+categories:
+  - "noticias"
+title: "A 20 meses da elei\u00e7\u00e3o presidencial, Serra e Dilma cultivam parcerias"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Do Estad&atilde;o deste domingo</p></p>
+<p><p>Advers&aacute;rios pol&iacute;ticos e poss&iacute;veis rivais em 2010, a ministra da Casa Civil, Dilma Rousseff (PT), e o governador de S&atilde;o Paulo, Jos&eacute; Serra (PSDB), avan&ccedil;aram para al&eacute;m da atual ret&oacute;rica amistosa e passaram a firmar parceiras na esfera administrativa, na contram&atilde;o da conflituosa rela&ccedil;&atilde;o entre tucanos e petistas.</p></p>
+<p><p>Sob Serra, o governo paulista aprofundou a rela&ccedil;&atilde;o com o Pal&aacute;cio do Planalto. O resultado &eacute; vis&iacute;vel n&atilde;o s&oacute; na quantidade de projetos firmados entre governos federal e estadual, recentemente, mas tamb&eacute;m no total de recursos repassados. Entre 2007 e 2008, primeiros anos de gest&atilde;o de Serra, S&atilde;o Paulo recebeu 58% a mais de transfer&ecirc;ncias volunt&aacute;rias da Uni&atilde;o que entre 2005 e 2006, dois &uacute;ltimos anos de Geraldo Alckmin (PSDB). Em termos reais, descontada a infla&ccedil;&atilde;o, foram R$ 814 milh&otilde;es no bi&ecirc;nio Alckmin contra R$ 1,23 bilh&atilde;o nos dois anos de Serra, segundo dados do Tesouro Nacional.</p></p>
+<p><p>O governador e a ministra, que se conhecem &quot;h&aacute; mais de 30 anos&quot;, como diz Dilma, conversam por telefone com frequ&ecirc;ncia e mant&ecirc;m rela&ccedil;&atilde;o respeitosa. &quot;Realmente &eacute; uma rela&ccedil;&atilde;o amistosa e cordial. &Eacute; algu&eacute;m com quem eu gosto muito de conversar&quot;, afirmou Serra. H&aacute; cerca de 20 dias, ele deu uma carona a Dilma no helic&oacute;ptero do governo. Ambos estavam em um evento em S&atilde;o Bernardo do Campo e tinham reuni&atilde;o no Pal&aacute;cio dos Bandeirantes para discutir projetos.</p></p>
+<p><p>Das parcerias entre o Estado e a Uni&atilde;o, uma das mais emblem&aacute;ticas &eacute; a execu&ccedil;&atilde;o do trecho sul do Rodoanel, conjunto de vias que vai circundar a capital paulista e ajudar a reduzir o tr&aacute;fego urbano de caminh&otilde;es. A obra, que custar&aacute; R$ 4 bilh&otilde;es, receber&aacute; R$ 1,2 bilh&atilde;o da Uni&atilde;o. E o dinheiro est&aacute; pingando todo trimestre, em parcelas de R$ 75 milh&otilde;es. &quot;N&atilde;o podemos reclamar&quot;, comenta o secret&aacute;rio dos Transportes, Mauro Arce.</p></p>
+<p><p>A pontualidade nos repasses &eacute; uma novidade. Na campanha de 2006, Alckmin, ent&atilde;o candidato do PSDB &agrave; Presid&ecirc;ncia, acusou Lula de n&atilde;o ter transferido &quot;um centavo&quot; para a obra vi&aacute;ria mais importante do Estado.</p></p>
+<p><p>A habita&ccedil;&atilde;o &eacute; outra &aacute;rea em que a aproxima&ccedil;&atilde;o entre Dilma e Serra tem ajudado. Conv&ecirc;nios assinados at&eacute; agora j&aacute; somam R$ 49,6 milh&otilde;es de investimentos da Uni&atilde;o. A contrapartida estadual &eacute; de R$ 30,9 milh&otilde;es. A parceria mais simb&oacute;lica, entretanto, aconteceu no in&iacute;cio deste m&ecirc;s, quando o governo paulista entregou no Pal&aacute;cio do Planalto as diretrizes do programa que &eacute; a menina dos olhos dele na habita&ccedil;&atilde;o: o Cidade Legal, que prev&ecirc; a regulariza&ccedil;&atilde;o de cerca de 800 mil im&oacute;veis no Estado e redu&ccedil;&atilde;o em at&eacute; 90% dos custos em cart&oacute;rio para fam&iacute;lias carentes.</p></p>
+<p><p>A medida atraiu a aten&ccedil;&atilde;o de Dilma e a levou a discutir pessoalmente o assunto com Serra. Na quarta-feira passada, a ministra anunciou a inclus&atilde;o do mesmo benef&iacute;cio no mais novo programa habitacional de Lula.</p></p>
+<p><p>O programa de invers&atilde;o das fases de licita&ccedil;&atilde;o do governo do Estado, que visa a dar mais agilidade ao processo de compras governamentais, tamb&eacute;m despertou interesse. O Planalto pediu mais detalhes ao governo paulista, que sugeriu o envio de uma medida provis&oacute;ria ao Congresso para tratar do assunto.</p></p>
+<p><p>Outra parceria que contou com o aval de Dilma foi a compra da Nossa Caixa pelo Banco do Brasil. A negocia&ccedil;&atilde;o rendeu R$ 5,4 bilh&otilde;es ao Tesouro estadual e irritou os petistas, que acham que Serra se beneficia dos cofres cheios em tempos de crise. &quot;Isso &eacute; uma vis&atilde;o ultrapassada. Esse tipo de pol&iacute;tica, eu diria mesquinha, n&atilde;o tem espa&ccedil;o em um Brasil moderno&quot;, comentou Dilma &agrave; &eacute;poca.</p></p>
+<p><p>&quot;H&aacute; uma boa vontade rec&iacute;proca entre os dois&quot;, afirmou o secret&aacute;rio da Casa Civil de Serra, Aloysio Nunes Ferreira.</p></p>
+<p><p>MESMA MATRIZ</p></p>
+<p><p>Dilma e Serra t&ecirc;m em comum o fato de serem economistas e de fazer parte da gera&ccedil;&atilde;o que atuou no movimento estudantil contra a ditadura. &quot;PT e PSDB t&ecirc;m a mesma matriz. Mas tiveram de se diferenciar para sobreviver eleitoralmente&quot;, analisa o cientista pol&iacute;tico Luiz Werneck Vianna. &quot;Dilma e Serra n&atilde;o t&ecirc;m a marca da pol&iacute;tica predominante no Lula e presente em Fernando Henrique. O que os caracteriza &eacute; serem pessoas de administra&ccedil;&atilde;o e a aus&ecirc;ncia de carisma evidente.&quot;</p></p>
+<p><p>&quot;O Lula tem rela&ccedil;&atilde;o pessoal boa com o Serra, comigo. Isso n&atilde;o impede de darmos nossas bicadinhas de vez em quando. O PSDB, no entanto, deveria ser mais frontal na cr&iacute;tica, sem d&uacute;vida. Mas n&atilde;o cabe aos governadores externarem isso. Cabe, sim, ao partido&quot;, declarou ao Estado o ex-presidente Fernando Henrique Cardoso.</p></p>
+<p><p>&quot;Dilma tem uma rela&ccedil;&atilde;o boa e administrativamente correta e civilizada com Serra&quot;, afirmou Fernando Pimentel, ex-prefeito de Belo Horizonte, que manteve parceria administrativa com tucanos durante sua gest&atilde;o na capital mineira.</p></p>
+<p><p>Serra tem dito que, em raz&atilde;o da crise, o seu papel &eacute; trabalhar com o governo federal para garantir emprego e renda. &quot;Estamos trabalhando em sintonia&quot;, disse recentemente. Em discurso durante a inaugura&ccedil;&atilde;o de casas populares, h&aacute; cerca de 20 dias, o governador destacou a parceria com o governo federal e afirmou que n&atilde;o h&aacute; &quot;concorr&ecirc;ncia&quot;. &quot;Na vida p&uacute;blica, a gente pega ideia dos outros. N&atilde;o tem patente&quot;, disse.</p> </p>
+{% endraw %}

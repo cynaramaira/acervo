@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Sérgio Montenegro Filho</STRONG><BR>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>Se o segundo turno das eleições para governador do Estado acontecesse hoje, o candidato da Frente Popular de Pernambuco, Eduardo Campos (PSB), estaria eleito com 58% dos votos. </FONT></P></p>
 <p><P><FONT face=Verdana>Foi o que constatou a primeira pesquisa realizada pelo Instituto Vox Populi - com exclusividade para o Jornal do Commercio - nesta segunda etapa da campanha estadual. </FONT></P></p>
@@ -36,4 +36,4 @@ imagem: null
 <p><P><FONT face=Verdana>Nesse caso, em que não é apresentada ao entrevistado qualquer lista com os nomes dos candidatos, Eduardo Campos surge como o mais citado por 53%, enquanto Mendonça Filho aparece com 31%. </FONT></P></p>
 <p><P><FONT face=Verdana>Nenhum outro nome foi citado, 12% dos eleitores permanecem indecisos e 4% disseram que vão votar em branco ou anular o voto. </FONT></P></p>
 <p><P><FONT face=Verdana>O próximo quesito avaliado pela pesquisa JC/Vox Populi confirma os dados obtidos na pergunta espontânea. <BR>Quando o instituto pediu uma opinião sobre quem seria o candidato com mais chances de vitória - independente de ser o concorrente votado pelo entrevistado - Eduardo Campos apareceu com 57% das citações e Mendonça Filho com 31%.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

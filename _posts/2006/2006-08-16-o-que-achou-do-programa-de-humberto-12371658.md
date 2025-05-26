@@ -13,8 +13,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana size=2></p>
 <p><P><STRONG>Priscila Krause:</STRONG></P></p>
 <p><P>Humberto cola a imagem em Lula e tenta se apropriar de coisas que não é o único responsável. Fala em continuidade junto a Lula, como se essa dobradinha fosse a única capaz de trazer coisas para Pernambuco. Fica claro um tom de ameaça ao pernambucano, como se Pernambuco fosse ser punido pelo Governo Federal, caso Huberto não seja eleito.</P></FONT> </p>
-{\% endraw %}
+{% endraw %}

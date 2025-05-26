@@ -14,6 +14,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>Veja <A href=\"https://www.mendonca25.can.br/\" target=_blank><STRONG>aqui </STRONG></A>o site.</P> </p>
-{\% endraw %}
+{% endraw %}

@@ -1,0 +1,27 @@
+---
+id: 12404247
+date: "2009-08-03T17:37:00Z"
+last_modified_at: null
+tags:
+  - "venezuela"
+categories:
+  - "noticias"
+title: "Venezuela a um passo do sil\u00eancio total "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Augusto Coutinho</p></p>
+<p><p>O ditador da Venezuela, Hugo Ch&aacute;vez, aprontou mais uma. Neste fim de semana, encerrou as atividades de tr&ecirc;s r&aacute;dios tidas como &ldquo;oposicionistas&rdquo;. &Eacute; o novo passo do regime em dire&ccedil;&atilde;o a mais plena ditadura. Mas a fome de Ch&aacute;vez para calar todas as vozes n&atilde;o chavistas est&aacute; longe ainda de ser abrandada. Fala-se que est&atilde;o na lista negra do presidente em torno de mais de cem emissoras de r&aacute;dio e pelo menos mais uma de TV aberta, a Globovisi&oacute;n, cujo presidente deu uma reveladora entrevista &agrave; Revista Veja desta semana.</p></p>
+<p><p>Na Venezuela, a democracia continua seu longo caminho em dire&ccedil;&atilde;o a um fim vergonhoso. Seu algoz tem nome e sobrenome e o apoio irrestrito de alguns dinossauros da pol&iacute;tica que infelizmente ainda circulam por a&iacute;. Inclusive no Brasil. Silenciosa e c&uacute;mplice, a esquerda brasileira observa a agonia da democracia venezuelana. Sem vergonha alguma, muitos comemoram. Outros, simplesmente dizem que n&atilde;o se deve interferir em assuntos do pa&iacute;s vizinho. A maioria mal disfar&ccedil;a que se pudesse gostaria de ver um regime similar por aqui.</p></p>
+<p><p>O petismo, regra geral, parece ter uma esp&eacute;cie de devo&ccedil;&atilde;o especial ao muy amigo Ch&aacute;vez. N&atilde;o uma nem duas, mas todas as vezes que o caudilho destila sua persegui&ccedil;&atilde;o &agrave; liberdade de express&atilde;o e aos pilares mais b&aacute;sicos da democracia, a turma do PT concorda, defende ou simplesmente deixa pra l&aacute;.</p></p>
+<p><p>N&atilde;o consigo entender. A esquerda brasileira atual, sobretudo o PT, nasceu na luta contra o regime militar de 64. Defendiam e professavam os ideais democr&aacute;ticos. Lutaram, e se vangloriam disso, para acabar com a ditadura brasileira. Por que, ent&atilde;o, rendem louros e gl&oacute;rias ao chavismo&#63;</p></p>
+<p><p>Guillermo Zuloaga, o presidente da amea&ccedil;ad&iacute;ssima Globovisi&oacute;n, d&aacute; uma dica: Ch&aacute;vez minou a capacidade produtiva do Pa&iacute;s. Em dez anos de tormentos, os venezuelanos viram o n&uacute;mero de suas ind&uacute;strias cair 40%. Como decorr&ecirc;ncia, hoje, a importa&ccedil;&atilde;o de produtos brasileiros foi multiplicada por dez, enquanto as exporta&ccedil;&otilde;es estacionaram. O rombo na balan&ccedil;a comercial favor&aacute;vel ao Brasil, para o empres&aacute;rio venezuelano, seria uma das explica&ccedil;&otilde;es para a coniv&ecirc;ncia do nosso presidente com os desmandos de Ch&aacute;vez. Pode ser. Mas n&atilde;o explica tudo. N&atilde;o explica, por exemplo, a disfar&ccedil;atez de Lula quando afirmou certa vez que &ldquo;Ch&aacute;vez pode ser criticado por v&aacute;rias coisas, menos por falta de democracia na Venezuela&rdquo;. Incr&iacute;vel, n&atilde;o&#63; O homem l&aacute; fecha tvs, manda e desmanda no judici&aacute;rio e no congresso, persegue a liberdade de express&atilde;o, golpeia a constitui&ccedil;&atilde;o, perpetra persegui&ccedil;&otilde;es pessoais abjetas (exemplos de cada uma dessas coisas n&atilde;o falta, o Google pode mostrar centenas), mas para Lula Ch&aacute;vez &eacute; um democrata.</p></p>
+<p><p>Para Lula, s&oacute; para Lula, o ditador dos Andes foi um democrata tamb&eacute;m quando se negou a renovar a concess&atilde;o da RCTV, a maior rede de tv aberta da Venezuela, alegando simplesmente que o canal apoiara o suposto golpe de 2002. Disse o presidente brasileiro na &eacute;poca que a n&atilde;o renova&ccedil;&atilde;o era plenamente democr&aacute;tica. Com isso, deve achar que a persegui&ccedil;&atilde;o sem fim aos meios de comunica&ccedil;&atilde;o n&atilde;o chavistas ainda em curso tamb&eacute;m &eacute; a mais pura democracia. Ancora-se num sofisma: o fechamento da RCTV foi apoiado nas leis venezuelanas. Esquecem o PT e o resto da esquerda, por&eacute;m, que uma ditadura n&atilde;o se caracteriza pela aus&ecirc;ncia de leis. Mas, ao contr&aacute;rio, pelo uso arbitr&aacute;rio delas. Em Roma, a voz do imperador era lei. Na Alemanha nazista, os judeus eram perseguidos e mortos totalmente dentro das leis anti-semitas. Na &Aacute;frica do Sul, o Apartheid possu&iacute;a um sistema legal que o amparava.</p></p>
+<p><p>Zuloaga pinta um quadro muito diferente do que os petistas veem na Venezuela. Fala em persegui&ccedil;&atilde;o a pessoas, a institui&ccedil;&otilde;es e &ndash; muito sintom&aacute;tico e comum nas autocracias mais b&aacute;rbaras: nazismo, fascismo, comunismo e afins &ndash; expurgo de livros das bibliotecas.</p></p>
+<p><p>At&eacute; quando Ch&aacute;vez continuar&aacute; a destruir a democracia na Venezuela, se &eacute; que ainda resta algo a ser destru&iacute;do, ningu&eacute;m sabe. Mas a coniv&ecirc;ncia da esquerda brasileira com o que acontece por l&aacute; &eacute; algo que continuar&aacute; sem explica&ccedil;&atilde;o por muito tempo.</p></p>
+<p><p>Deputado Augusto Coutinho (DEM) &eacute; L&iacute;der da Oposi&ccedil;&atilde;o<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

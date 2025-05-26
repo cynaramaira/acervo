@@ -13,6 +13,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O candidato do PSB acabou de dizer aos eleitores que tem gente que só sabe difamar e destruir e falou, referindo-se à União por Pernambuco: \"Eles vão começar a nos acusar de tudo\".</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

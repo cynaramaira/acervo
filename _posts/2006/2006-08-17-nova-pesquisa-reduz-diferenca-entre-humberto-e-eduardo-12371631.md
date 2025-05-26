@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Resultados da mais nova pesquisa de intenção de voto para o governo e o Senado em Pernambuco, que serão divulgados daqui a pouco no NETV 2ª Edição, da TV Globo:</FONT></P></p>
 <p><P><FONT face=Verdana>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1º/ago&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hoje</FONT></P></p>
 <p><P><FONT face=Verdana>Mendonça Filho (PFL)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 32%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;34%</FONT></P></p>
@@ -32,4 +32,4 @@ imagem: null
 <p><P><FONT face=Verdana>A primeira pesquisa foi toda feita utilizando-se apenas o Eduardo, conforme o registro no TRE.</FONT></P></p>
 <p><P><FONT face=Verdana>O PSB correu para mudar o registro no tribunal e agregar o sobrenome.</FONT></P></p>
 <p><P><FONT face=Verdana>Agora, está a? o resultado. O outro levantamento estava realmente errado. A diferença entre Humberto e Eduardo caiu para apenas três pontos, um empate técnico.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

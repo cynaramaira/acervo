@@ -14,8 +14,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Com 100% das seções totalizadas (16.822), este é o resultado final da eleição para o governo de Pernambuco:</FONT></P></p>
 <p><P><STRONG><FONT face=Verdana>Eduardo - 65,36% (</FONT><FONT face=Verdana>2.623.297 votos)</FONT></STRONG><BR><FONT face=Verdana>Mendonça - 34,64% (</FONT><FONT face=\"Times New Roman\"><FONT face=Verdana>1.390.273 votos)</FONT></FONT></P></p>
 <p><P><FONT face=\"Times New Roman\"><FONT face=Verdana size=1>*Fonte: Tribunal Regional Eleitoral (às 21h45)</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

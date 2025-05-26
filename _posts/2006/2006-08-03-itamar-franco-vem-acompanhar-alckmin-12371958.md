@@ -14,6 +14,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>O ex-presidente, ex-embaixador e, no momento, desafeto de Lula, estará integrado à comitiva de Geraldo Alckmin, na visita que o tucano faz nesta sexta&nbsp;ao Recife.</P> </p>
-{\% endraw %}
+{% endraw %}

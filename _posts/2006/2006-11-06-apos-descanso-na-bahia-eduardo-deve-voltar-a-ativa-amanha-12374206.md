@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>A não ser que mude idéia até mais tarde, o governador eleito de Pernambuco, Eduardo Campos (PSB), só deve retomar o trabalho de montagem e organização do novo governo amanhã.</FONT></P></p>
 <p><P><FONT face=Verdana>Desde quinta-feira, Eduardo está no litoral sul da Bahia, descansando com a fam?lia. Volta hoje e deve manter contatos com alguns assessores mais próximos.</FONT></P></p>
 <p><P><FONT face=Verdana>Antes de embarcar para a Bahia, o socialista tomou sua primeira iniciativa administrativa, ainda na quarta-feira, quando se encontrou com Maria Fernanda Ramos Coelho, presidente da Caixa Econômica, em Bras?lia, depois de contatos com a direção nacional do PSB e de um almoço reservado com o presidente Lula.</FONT></P></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>Enquanto Eduardo não retorna ao Estado, a equipe de transição nomeada por ele e coordenada pelo vice-governador eleitor, João Lyra Neto (PDT), recebe daqui a pouco as instalações cedidas pelo Banco do Brasil, no centro do Recife, para que possa trabalhar ao longo dos próximos dois meses. É um andar inteiro do prédio.</FONT></P></p>
 <p><P><FONT face=Verdana>Mais tarde, após reunião com seu secretariado, Mendonça Filho indicará seus representantes na transição. São os técnicos que transmitirão ao grupo do governo eleito as informações básicas sobre o funcionamento da máquina estadual.</FONT></P></p>
 <p><P><FONT face=Verdana>O coordenador da equipe de Mendonça deverá ser o secretário de Gabinete Civil, Flávio Góes. Desde o in?cio da semana passada, o governador havia decidido que indicaria o secretário de Planejamento, Cláudio Marinho, se a equipe de Eduardo fosse coordenada por um técnico. No caso de um pol?tico (João Lyra), o comando ficaria com Flávio Góes.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

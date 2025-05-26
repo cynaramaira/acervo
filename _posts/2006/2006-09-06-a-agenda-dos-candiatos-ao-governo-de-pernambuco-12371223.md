@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></p>
 <p><P><FONT face=Verdana>9h30</FONT></B><FONT face=Verdana>, visita ao comércio de Camaragibe,a companhado pelo ex-governador Jarbas Vasconcelos (PMDB), candidato ao Senado</FONT></P><B></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>10h</FONT></B><FONT face=Verdana>, palestra na Faculdade de Economia da Universidade Federal de Pernambuco </FONT></P><B></p>
 <p><P><FONT face=Verdana>17h</FONT></B><FONT face=Verdana>, em Goiana, participa de carreata pelas ruas centrais e finaliza com com?cio</FONT></P><B></p>
 <p><P><FONT face=Verdana>20h30</FONT></B><FONT face=Verdana>, em Carpina, participa de carreata pelas ruas centrais e com?cio</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

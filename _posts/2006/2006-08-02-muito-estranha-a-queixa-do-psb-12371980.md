@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt\"><FONT face=Verdana><?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt\"><FONT face=Verdana>Questionar os resultados da pesquisa Ibope/TV Globo é normal. Todo mundo ficou realmente surpreso com os números.<o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></SPAN></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt\"><FONT face=Verdana>Isso, enfim, é o que se chama de o <EM>jus esperniandi</EM> do PSB. O velho e bom direito de espernear.<o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt\"><FONT face=Verdana><STRONG>Leia&nbsp;nota&nbsp;abaixo para entender o caso</STRONG>.<o:p></o:p></FONT></SPAN></P> </p>
-{\% endraw %}
+{% endraw %}

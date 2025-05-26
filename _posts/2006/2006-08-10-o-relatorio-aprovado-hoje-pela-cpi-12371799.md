@@ -14,6 +14,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://www2.uol.com.br/JC/sites/blogdaseleicoes/relatorio_sanguessugas.pdf\" target=_blank>aqui</A></EM></STRONG> o documento completo, enviado pelo correspondente da <EM>Rádio Jornal</EM> em Bras?lia, Romoaldo de Souza.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

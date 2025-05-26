@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Do <STRONG><EM><A href=\"https://www.noblat.com.br/\" target=_blank>blog</A></EM></STRONG> de Noblat</FONT></P></p>
 <p><P><FONT face=Verdana>Sob o t?tulo \"Carne Nova\", publiquei às 15h47 de hoje nota que começava assim:</FONT></P></p>
 <p><P><FONT face=Verdana>\"Tem nome novo no escândalo da venda superfaturada de ambulâncias para prefeituras: Duncan Sample, ex-funcionário da Casa Civil quando ali pontificava o ministro José Dirceu.</FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>Com a sa?da de Aldo do governo em fevereiro de 2005, assumiu a chefia do gabinete do ministro da Saúde Humberto Costa. </FONT></P></p>
 <p><P><FONT face=Verdana>Deixou o cargo pouco antes de Humberto deixar o dele em julho de 2005. Então virou assessor especial do ministro das Relações Institucionais Jacques Wagner.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://www.noblat.com.br/\" target=_blank>aqui</A></EM></STRONG> o texto completo.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

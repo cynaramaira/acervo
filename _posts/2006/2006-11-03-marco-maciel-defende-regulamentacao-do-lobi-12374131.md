@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Da coluna </FONT><FONT face=Verdana><STRONG>Repórter JC<BR></STRONG>Do Jornal do Commercio</FONT></P></p>
 <p><P><FONT face=Verdana>Marco Maciel (PFL) quer que a Câmara vote projeto de sua autoria que regulamenta o lóbi no Pa?s. O projeto tramita há 17 anos. \"Se estivesse regulamentado, muitos escândalos teriam sido evitados, com as devidas punições\", acredita o senador.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

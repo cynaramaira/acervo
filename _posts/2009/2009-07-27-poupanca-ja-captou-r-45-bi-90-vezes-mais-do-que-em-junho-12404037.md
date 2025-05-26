@@ -1,0 +1,24 @@
+---
+id: 12404037
+date: "2009-07-27T18:31:58Z"
+last_modified_at: null
+tags:
+  - "poupanca"
+categories:
+  - "noticias"
+title: "Poupan\u00e7a j\u00e1 captou R$ 4,5 bi, 90 vezes mais do que em junho"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Da Ag&ecirc;ncia Estado</p></p>
+<p><p>A caderneta de poupan&ccedil;a registrou dep&oacute;sitos l&iacute;quidos (aplica&ccedil;&otilde;es menos resgates) de R$ 4,5 bilh&otilde;es em julho (at&eacute; dia 21), per&iacute;odo que corresponde aos primeiros 15 dias &uacute;teis do m&ecirc;s, segundo dados do Banco Central. Nesse mesmo intervalo de dias no m&ecirc;s passado, a capta&ccedil;&atilde;o da poupan&ccedil;a foi de R$ 49 milh&otilde;es. Ou seja, o resultado de julho (at&eacute; o dia 21) supera em mais de 90 vezes o de junho. No dia 21 deste m&ecirc;s, o saldo de recursos depositados na caderneta somava R$ 287,9 bilh&otilde;es, frente aos R$ 279,9 bilh&otilde;es no mesmo dia de junho.</p></p>
+<p><p>No m&ecirc;s de julho inteiro de 2008, a poupan&ccedil;a recebeu um total l&iacute;quido de R$ 2,2 bilh&otilde;es e no mesmo m&ecirc;s de 2007, os dep&oacute;sitos foram de R$ 3,5 bilh&otilde;es.</p></p>
+<p><p>Dentre os fundos de investimentos mais conservadores, os referenciados DI registravam dep&oacute;sitos l&iacute;quidos de R$ 215 milh&otilde;es em julho at&eacute; dia 21. J&aacute; os de curto prazo tiveram resgates l&iacute;quidos de R$ 389 milh&otilde;es, segundo os dados compilados pelo site financeiro Fortuna (<a href="https://www.fortuna.com.br">www.fortuna.com.br</a>). Estas duas categorias de fundos, cuja rentabilidade segue de perto o desempenho da taxa b&aacute;sica de juros, s&atilde;o as que potencialmente mais disputam com a poupan&ccedil;a no quesito retorno. Na semana passada, o Banco Central reduziu novamente a Selic, em meio ponto porcentual, para 8,75% ao ano. Os fundos de renda fixa, que compram prioritariamente t&iacute;tulos de d&iacute;vida prefixados, registram capta&ccedil;&atilde;o positiva de R$ 3,8 bilh&otilde;es no m&ecirc;s.</p></p>
+<p><p>&quot;De maneira geral, fundos conservadores com aplica&ccedil;&atilde;o inicial baixa est&atilde;o perdendo cotistas&quot;, afirma o diretor do site Fortuna, Marcelo D'Agosto. Os referenciados DI, por exemplo, registram a sa&iacute;da de 6,8 mil investidores neste m&ecirc;s (at&eacute; dia 21), segundo informa&ccedil;&otilde;es do Fortuna. No mesmo per&iacute;odo, os fundos de renda fixa tiveram o ingresso de 297 cotistas e os de curto prazo, de 5,7 mil. &quot;Em princ&iacute;pio, parece que n&atilde;o existe uma corrida desenfreada de aplicadores deixando os fundos para investir na poupan&ccedil;a, mas a sa&iacute;da de cotistas dos fundos de varejo &eacute; uma sinaliza&ccedil;&atilde;o de que poupan&ccedil;a est&aacute; mesmo competitiva&quot;, diz.</p></p>
+<p><p>&Eacute; o que ressalta o s&oacute;cio da consultoria AZ Investimentos, Ricardo Zeno. &quot;Fundos p&oacute;s-fixados, principalmente os atrelados ao CDI (Certificado de Dep&oacute;sito Interbanc&aacute;rio), tendem a acompanhar a Selic&quot;, explica. &quot;Contando com a taxa de administra&ccedil;&atilde;o e a incid&ecirc;ncia de Imposto de Renda, est&atilde;o remunerando menos que a poupan&ccedil;a, ent&atilde;o &eacute; natural que o investidor observe esta vantagem e migre ao menos parte dos recursos para a caderneta&quot;, afirma. A poupan&ccedil;a &eacute; isenta do IR e n&atilde;o tem taxa de administra&ccedil;&atilde;o.</p></p>
+<p><p>&quot;Certamente a poupan&ccedil;a est&aacute; mais atrativa que os fundos DI mais acess&iacute;veis&quot;, concorda D'Agosto. Ele pondera que isto n&atilde;o &eacute; fator suficiente para desestabilizar o mercado financeiro, nem ind&iacute;cio de que ocorrer&aacute; a temida migra&ccedil;&atilde;o em massa de investidores para a poupan&ccedil;a, mas a sa&iacute;da de cotistas dos fundos voltados ao varejo mostra que a ind&uacute;stria est&aacute; encontrando dificuldades para enfrentar a boa e velha caderneta. &quot;Como chamariz para posteriores aplica&ccedil;&otilde;es mais sofisticadas, as carteiras conservadoras acess&iacute;veis n&atilde;o est&atilde;o cumprindo seu papel, o que pode trazer problemas no longo prazo.&quot;</p></p>
+<p><p>Durante o m&ecirc;s de julho inteiro de 2008, os fundos DI tiveram resgates de R$ 1,3 bilh&atilde;o, os de renda fixa perderam R$ 3,5 bilh&otilde;es e os de curto prazo tiveram dep&oacute;sitos l&iacute;quidos de R$ 913 milh&otilde;es. No mesmo m&ecirc;s de 2007, os fundos DI perderam R$ 3,1 bilh&otilde;es, os de curto prazo R$ 524 milh&otilde;es e os de renda fixa tiveram aplica&ccedil;&otilde;es de R$ 678 milh&otilde;es.</p> </p>
+{% endraw %}

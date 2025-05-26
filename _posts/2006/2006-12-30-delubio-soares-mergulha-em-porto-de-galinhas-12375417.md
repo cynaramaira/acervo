@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>Se cumpriu à risca a promessa de não abrir a boca para dedurar companheiros petistas, o fiel ex-caixa do PT parece que descontou na comida.</P></p>
 <p><P>Não sei se é verdade, mas dizem que ansiedade engorda ...</P> </p>
-{\% endraw %}
+{% endraw %}

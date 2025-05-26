@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 16.0pt; mso-bidi-font-weight: bold\"><FONT face=Verdana>Numa série de artigos que o <STRONG>Blog</STRONG> publica hoje, seis dos nove candidatos a governador de Pernambuco explicam seus projetos e tentam mostrar porque representam a melhor opção para o Estado.<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 16.0pt; mso-bidi-font-weight: bold\"><FONT face=Verdana>&nbsp;<o:p></o:p></FONT></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 16.0pt; mso-bidi-font-weight: bold\"><FONT face=Verdana>Eduardo Campos (PSB), Clóvis Corrêa (Prona) e Edilson Silva (P-SOL) foram contatados, mas ainda não enviaram&nbsp;seus artigos.</FONT></SPAN></P></p>
@@ -50,4 +50,4 @@ imagem: null
 <p><P><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\">&nbsp;<SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 16.0pt; mso-bidi-font-weight: bold\"><FONT face=Verdana>-----------------------</FONT></SPAN></SPAN></P></p>
 <p><P><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\"><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 16.0pt; mso-bidi-font-weight: bold\"><FONT face=Verdana></FONT></SPAN><o:p><STRONG>Compromisso com o povo</STRONG></o:p></SPAN></P></p>
 <p><P><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial\">Por <STRONG>Rivaldo Soares</STRONG><BR>Candidato a governador pelo PSL</SPAN><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Arial\"><o:p></o:p></SPAN></P><SPAN style=\"FONT-SIZE: 10pt; FONT-FAMILY: Verdana; mso-bidi-font-family: Arial; mso-fareast-font-family: \Times New Roman\; mso-ansi-language: PT-BR; mso-fareast-language: PT-BR; mso-bidi-language: AR-SA\">O carisma, a postura e a firmeza de ação dos pol?ticos são importantes. Mais importante, no entanto, é sua filiação partidária, o que denota a aceitação de um certo ideário pol?tico. Se isso ainda não é totalmente verdadeiro, temos que seguir nesta direção. Democracia é um processo. Vota-se equivocadamente no boa-pinta, no parente, no que fotografa bem, no mais bem vestido, penteado e barbeado, no que pediu o voto, no vizinho, naquele que a gente espera um favor, no falastrão e noutros tipos de plumagem da nossa variada fauna pol?tica. A maioria dos candidatos pol?ticos promete no per?odo eleitoral e passado este momento, o candidato pol?tico esquece seu compromisso com o povo.</SPAN> </p>
-{\% endraw %}
+{% endraw %}

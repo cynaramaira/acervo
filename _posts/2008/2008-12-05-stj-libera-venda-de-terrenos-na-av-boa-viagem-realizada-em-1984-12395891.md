@@ -1,0 +1,31 @@
+---
+id: 12395891
+date: "2008-12-05T09:53:24Z"
+last_modified_at: null
+tags:
+  - "boa-viagem"
+  - "liberacao"
+  - "venda"
+categories:
+  - "noticias"
+title: "STJ libera venda de terrenos na Av. Boa Viagem realizada em 1984"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>O&nbsp;Superior Tribunal de Justi&ccedil;a (STJ) confirmou a prescri&ccedil;&atilde;o da a&ccedil;&atilde;o movida em 1993 pelo esp&oacute;lio de Moyses Chvarts para anular a venda de dois terrenos localizados no loteamento Pina de Dentro, na Avenida Boa Viagem, em Recife (PE), realizada em 1984 por inventariante dativo mediante alvar&aacute; judicial. Os herdeiros alegaram que, diante da venda a non domino &ndash; realizada por quem n&atilde;o tem poder de disposi&ccedil;&atilde;o sobre a coisa &ndash;, a escritura p&uacute;blica de compra e venda deve ser anulada.</p></p>
+<p><p>O ac&oacute;rd&atilde;o do Tribunal de Justi&ccedil;a de Pernambuco afastou a hip&oacute;tese de venda a non domino e aplicou a prescri&ccedil;&atilde;o quadrienal prevista no artigo 178, par&aacute;grafo 9&ordm;, inciso V, al&iacute;nea b, do C&oacute;digo Civil de 1916, uma vez que o inventariante dativo praticou os atos de aliena&ccedil;&atilde;o imobili&aacute;ria em nome do esp&oacute;lio, no pleno exerc&iacute;cio da inventarian&ccedil;a, conforme nomea&ccedil;&atilde;o e termo de compromisso firmado em decis&atilde;o judicial que n&atilde;o foi impugnada pelos herdeiros.</p></p>
+<p><p>No recurso ao STJ, a defesa de Clara, Ruth e Leon Chvarts sustentou que a aliena&ccedil;&atilde;o do im&oacute;vel n&atilde;o caracterizou neg&oacute;cio jur&iacute;dico anul&aacute;vel, como entendeu o Tribunal pernambucano, e sim ato jur&iacute;dico nulo de pleno direito, que n&atilde;o &eacute; alcan&ccedil;ado pela prescri&ccedil;&atilde;o quadrienal. Segundo os autores, a venda dos im&oacute;veis foi promovida por inventariante ad hoc, que n&atilde;o representava corretamente o esp&oacute;lio e induziu a erro o ju&iacute;zo do invent&aacute;rio, de tal modo que o alvar&aacute; expedido para a aliena&ccedil;&atilde;o &eacute; nulo ou anul&aacute;vel.</p></p>
+<p><p>Em seu voto, o relator do recurso, ministro Lu&iacute;s Felipe Salom&atilde;o, rejeitou a tese de que o ato jur&iacute;dico praticado pelo inventariante seria nulo de pleno direito uma vez que a venda a non domino se caracteriza pela falta de legitima&ccedil;&atilde;o do alienante, que consiste na inaptid&atilde;o especifica para determinado neg&oacute;cio jur&iacute;dico ou na incapacidade de realizar atos da vida civil em geral.</p></p>
+<p><p>Para o relator, os autos comprovam que a venda dos bens ocorreu quando o inventariante dativo estava em pleno exerc&iacute;cio das fun&ccedil;&otilde;es a ele atribu&iacute;das e com a devida autoriza&ccedil;&atilde;o judicial, raz&otilde;es por que a tese de que o inventariante teria usurpado o seu of&iacute;cio n&atilde;o prospera.</p></p>
+<p><p>&ldquo;A hip&oacute;tese &eacute; de, no m&aacute;ximo, aus&ecirc;ncia de consentimento dos herdeiros para o deferimento do alvar&aacute;, o que, definitivamente, n&atilde;o torna nulo o neg&oacute;cio jur&iacute;dico realizado em seq&uuml;&ecirc;ncia, m&aacute;xime porque n&atilde;o houve qualquer recurso no &acirc;mbito do invent&aacute;rio&rdquo;, ressaltou o ministro em seu voto, acrescentando que a pretens&atilde;o de anular a escritura p&uacute;blica de compra e venda deveria ter sido manifestada dentro do prazo previsto pelo C&oacute;digo Civil.</p></p>
+<p><p>Segundo o ministro Lu&iacute;s Felipe Salom&atilde;o, o Tribunal reconheceu corretamente que o prazo prescricional &eacute; de quatro anos: &ldquo;neste caso ocorreu mesmo a prescri&ccedil;&atilde;o, j&aacute; que a escritura da venda &eacute; datada de 11 de junho de 1984 e a demanda foi proposta em 19 de novembro de 1993&rdquo;. Seu voto foi acompanhado por unanimidade.</p></p>
+<p><p>Resumo do caso</p></p>
+<p><p>Clara Chvarts &ndash; inventariante e vi&uacute;va meeira &ndash; e a filha Ruth Chvarts receberam os im&oacute;veis no invent&aacute;rio de Moyses Chvarts. Com o ajuizamento de execu&ccedil;&otilde;es fiscais pelo munic&iacute;pio de Recife, o herdeiro habilitado Leon Chvarts requereu a remo&ccedil;&atilde;o da inventariante por suposta in&eacute;rcia em saldar as d&iacute;vidas do esp&oacute;lio. Como n&atilde;o houve concilia&ccedil;&atilde;o entre os herdeiros, o juiz do invent&aacute;rio nomeou inventariante dativo para representar o esp&oacute;lio na execu&ccedil;&atilde;o fiscal.</p></p>
+<p><p>Diante de poss&iacute;veis dificuldades para preserva&ccedil;&atilde;o do patrim&ocirc;nio, o inventariante dativo apontou a necessidade da venda dos lotes para cobrir d&eacute;bitos fiscais e outros porventura existentes. O ju&iacute;zo da sucess&atilde;o autorizou a venda para saldar os mencionados d&eacute;bitos fiscais e determinou o dep&oacute;sito do saldo remanescente. A parcela depositada foi sacada pelos herdeiros para custeio de despesas m&eacute;dico-hospitalares da vi&uacute;va e para pagamento de outras d&iacute;vidas do esp&oacute;lio.</p></p>
+<p><p>Na &eacute;poca, Clara e Ruth manifestaram discord&acirc;ncia tanto com o pre&ccedil;o quanto com a venda em si, mas n&atilde;o manejaram qualquer recurso. Assim, o inventariante ad hoc comunicou ao ju&iacute;zo a concretiza&ccedil;&atilde;o da aliena&ccedil;&atilde;o dos lotes, com escritura de compra e venda registrada em cart&oacute;rio de registro imobili&aacute;rio em 11 de junho de 1984, nos precisos termos do alvar&aacute; passado nos autos do invent&aacute;rio.</p></p>
+<p><p>Em 19 de novembro de 1993, Clara Chvarts, por si e na qualidade de inventariante do esp&oacute;lio, ajuizou a&ccedil;&atilde;o para anular a escritura p&uacute;blica de compra e venda e o registro imobili&aacute;rio relativos aos lotes 5 e 6 da quadra 20 do loteamento Pina de Dentro, com frente para a avenida Boa Viagem, em Recife (PE).</p></p>
+<p><p>Com informa&ccedil;&otilde;es do STJ</p> </p>
+{% endraw %}

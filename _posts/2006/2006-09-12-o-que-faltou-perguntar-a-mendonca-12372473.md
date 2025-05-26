@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O governador Mendonça Filho (PFL) foi o entrevistado de hoje à noite no NETV 2ª Edição, da TV Globo, mas nem parecia que ele está administrando o Estado há quase oito anos.</FONT></P></p>
 <p><P><FONT face=Verdana>O que faltou perguntar a ele, entre outras coisas:</FONT></P></p>
 <p><P><FONT face=Verdana>1)&nbsp;Por que a redução do ICMS sobre energia elétrica não ocorreu antes e só está sendo prometida agora, em plena reta final do processo eleitoral?</FONT></P></p>
@@ -33,4 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Redução da tarifa de energia elétrica<BR></STRONG><BR>Primeiro precisamos deixar claro que a questão da fixação da conta de luz é feita pela Aneel, que é um órgão do Governo Federal. Apresentamos uma proposta para reduzir o valor do ICMS e isso vai repercutir no valor da conta de luz para os consumidores de baixa renda, aqueles que consomem até 60 quilowatts. Esses consumidores mais populares precisam desse tratamento mais diferenciado.</FONT></P></p>
 <p><P><FONT face=Verdana>Arrecadação de recursos para suprir a redução do ICMS<BR>Podemos celebrar que a arrecadação do Estado está crescendo. Em 2006 tivemos um acréscimo de 10% na arrecadação do Estado em relação a 2005. E se continuar nesse ritmo, ficará fácil abrir mão desse beneficio em apoio a essa população.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Privatização da&nbsp;Compesa e da BR-232<BR></STRONG><BR>Não vamos privatizar a Compesa. Não vamos privatizar a BR-232. Uma das ações mais importantes do Governo Jarbas foi a criação do Fundo Rodoviário que visa manter as rodovias e toda a estrutura viária de Pernambuco. Então temos recursos para manter a malha viária do Estado incluindo a? a BR-232.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

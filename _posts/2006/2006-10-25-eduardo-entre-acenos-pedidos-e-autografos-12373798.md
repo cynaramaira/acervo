@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Impulssionado pelas pesquisas de intenção de voto, o candidato do PSB ao governo, Eduardo Campos participa agora do maior ato de toda sua campanha. </FONT></P></p>
 <p><P><FONT face=Verdana>O locutor fala em 100 mil pessoas, na caminhada que acontece agora na Conde da Boa Vista, no Recife. Até uma hora atrás ele dizia que eram 70 mil.</FONT></P></p>
@@ -23,4 +23,4 @@ imagem: null
 <p><P><FONT face=Verdana>Toda a oposição ao governador-candidato Mendonça Filho (PFL), como o deputado federal Armando Monteiro Neto (PTB) e o prefeito do Recife, João Paulo (PT), participa do ato. </FONT></P></p>
 <p><P><FONT face=Verdana>De outros estados estão os governadores eleitos do Ceará, Cid Gomes (PSB), de Sergipe, Marcelo Déda (PT), e o ministro da Defesa, Waldir Pires (PT-BA).</FONT></P></p>
 <p><P><FONT face=Verdana>César Rocha, editor do <STRONG>Blog do JC</STRONG>, acompanha o evento.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

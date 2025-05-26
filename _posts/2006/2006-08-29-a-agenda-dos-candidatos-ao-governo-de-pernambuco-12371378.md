@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B></p>
 <p><P><FONT face=Verdana>Tem compromissos administrativos, em Bras?lia. Às 11h, audiência com o ministro dos Transportes, Paulo Sérgio Passos. Às 15h, audiência com o ministro da Integração, Pedro Brito</FONT></P><B></p>
@@ -29,4 +29,4 @@ imagem: null
 <p> do Centro de Convenções de Pernambuco </FONT></P><B></p>
 <p><P><FONT face=Verdana>18h30, p</FONT></B><FONT face=Verdana>articipa de debate sobre o turismo em Pernambuco promovido pelo GAT. Local: Hotel Best Western Manibu, na Av. Conselheiro Aguiar, em Boa Viagem</FONT></P><B></p>
 <p><P><FONT face=Verdana>20h30</FONT></B><FONT face=Verdana>, caminhada na Cidade Tabajara, em Olinda</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

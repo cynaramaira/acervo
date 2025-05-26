@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana><STRONG><EM>Um Pa?s sem Justiça</EM></STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Do blog de <STRONG>Mino Carta</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Tenho vergonha de viver no Brasil. Trata-se, em primeiro lugar, de um Pa?s sem Justiça. Onde um pé rapado, mesmo o último dos imbecis, pode acusar os semelhantes de crimes hediondos sem correr risco algum. Onde pessoas honradas são ofendidas, insultadas, caluniadas sem prova. </FONT></P></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>Curioso: Mino não gostou da sentença do juiz e se solidarizou com o agressor (Sader), não com a v?tima (Bornhausen). Só posso entender aquele trecho que abre este post como um ato de contrição, de arrependimento, um mea-culpa. Entendi que o senador Bornhausen se encaixa perfeitamente no perfil das “pessoas honradas [que] são ofendidas, insultadas, caluniadas sem prova??? por “pés-rapados??? e “imbecis???.</FONT></P></p>
 <p><P><FONT face=Verdana>É isso a?, Vamos dar todo o nosso apoio ao senador, Mino! Para você se solidarizar com Bornhausen, experiente jornalista, envie um e-mail para </FONT><A href=\"mailto:euapoioalei@pfl.org.br\"><FONT face=Verdana>euapoioalei@pfl.org.br</FONT></A><FONT face=Verdana>. Chega de “imbecis??? ofendendo “pessoas honradas??? neste pa?s!!!</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://veja.abril.com.br/blogs/reinaldo/\" target=_blank>aqui</A></EM></STRONG>.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

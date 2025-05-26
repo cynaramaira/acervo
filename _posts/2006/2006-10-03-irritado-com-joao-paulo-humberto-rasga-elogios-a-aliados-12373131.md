@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>O candidato do PT ao governo de Pernambuco, derrotado no primeiro turno, foi sutil há pouco nas cr?ticas à atuação do prefeito do Recife, João Paulo, em sua campanha.</FONT></P></p>
 <p><P><FONT face=Verdana>João Paulo era o coordenador geral, o principal l?der da coligação Melhor pra Pernambuco, prefeito popular no Recife. Mas não mergulhou na campanha. </FONT></P></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P><FONT face=Verdana>À militància do PT;</FONT></P></p>
 <p><P><FONT face=Verdana>E, por fim, a João Paulo: \"Quero salientar o papel do prefeito João Paulo, que esteve conosco em todo esse processo, dividindo a responsabilidade de coordenar a campanha de Lula. Ele também foi importante para o bom resultado que tivemos aqui no Recife\".</FONT></P></p>
 <p><P><FONT face=Verdana>No final, Humberto tomou para si toda a responsabilidade pela derrota e disse que ninguém procure \"bode expiatório\" para justificá-la.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

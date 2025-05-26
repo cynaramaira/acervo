@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></B></p>
 <p><P><FONT face=Verdana><STRONG>10h</STRONG>, apresenta suas propostas de campanha a estudantes. Local: Colégio Americano Batista</FONT></P></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>15h</STRONG>, em Paulista, caminhada em Jardim Maranguape com Yves e Ceça Ribeiro</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>19h</STRONG>, no Recife, participa de entrevista com jovens lideranças organizado pelo site Bob Flash</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>20h</STRONG>, participa de encontro com as Mulheres da Frente Popular com a participação da senadora Patr?cia Sabóia (PSB/CE) e da deputada federal Luiza Erundina (PSB/SP). Local: Casa de Shows Caldeirão. Rua Carlos Gomes, 390, Prado</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

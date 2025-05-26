@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><p><font face=\"Verdana\">Por </font><font face=\"Verdana\"><strong>Arnaldo Carvalho <br /></p>
 <p></strong>Editor-assistente da JC Imagem <br /></p>
 <p></font></p></p>
@@ -53,4 +53,4 @@ imagem: null
 <p><p><font face=\"Verdana\"><em>O Blog tamb&eacute;m desafia voc&ecirc;, internauta, a dar sua contribui&ccedil;&atilde;o para o pr&oacute;ximo Natal. </em></font></p></p>
 <p><p><em><font face=\"Verdana\">Publicaremos as&nbsp;duas melhores id&eacute;ias aqui. </font><font face=\"Verdana\">Envie sua sugest&atilde;o para o seguinte e-mail: cecilia.ramos@jc.com.br</font></em></p></p>
 <p></strong></p> </p>
-{\% endraw %}
+{% endraw %}

@@ -12,7 +12,7 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><span style="font-family: Verdana;">Acabei de publicar na se&ccedil;&atilde;o Artigos, na coluna ao lado, uma interessante an&aacute;lise de <strong>Luiz Otavio Cavalcanti</strong>, colaborador freq&uuml;ente do <strong>Blog</strong>, sobre como governam nossos l?deres pol?ticos. Abaixo alguns trechos do texto.</span></p>
 <p><span style="font-family: Verdana;">Boa leitura.</span></p>
 <p><span style="font-family: Verdana;">-------------------------------------------<br /></span><span style="font-family: Verdana;">Por </span><span style="font-family: Verdana;"><strong>Luiz Ot&aacute;vio Cavalcanti</strong><br />Ex-secret&aacute;rio do Planejamento e da Fazenda de Pernambuco<br /></span></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><span style="font-family: Verdana; font-size: small;">. Quest&atilde;o social.</span></p>
 <p><span style="font-family: Verdana; font-size: small;">As altera&ccedil;&otilde;es sociais, pol?ticas e econ&ocirc;micas trazidas pela Rep&uacute;blica foram m?nimas. A pr&aacute;tica republicana manteve o regime mon&aacute;rquico da ordem. Autoridade numa sociedade que se desatava socialmente. Esse p&ecirc;ndulo continuaria a funcionar em todo o s&eacute;culo XX. E constitui uma das chaves de moderniza&ccedil;&atilde;o do Pa?s no s&eacute;culo XXI.</span></p>
 <p><span style="font-family: Verdana; font-size: small;">Leia o texto completo.</span></p>
-{\% endraw %}
+{% endraw %}

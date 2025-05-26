@@ -14,7 +14,7 @@ chapeu: null
 autor: "jamildo"
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p>&nbsp;</p>
 <p>Acabei de publicar na se&ccedil;&atilde;o Artigos, na coluna ao lado, o artigo semanal do professor Pierre Lucena, outra instigante avalia&ccedil;&atilde;o dos erros da Uni&atilde;o por Pernambuco de Mendon&ccedil;a Filho nestas elei&ccedil;&otilde;es, a partir da Teoria dos Jogos. Abaixo alguns trechos do texto.</p>
 <p>Boa leitura.</p>
@@ -25,4 +25,4 @@ imagem: null
 <p>(...) As chances de sobreviv&ecirc;ncia do candidato mais fraco s&atilde;o maiores que se pensa. A estrat&eacute;gia dominante dos dois mais fortes &eacute; atirar entre si. &Eacute; sempre pior atirar no mais fraco na primeira rodada.</p>
 <p>(...) Eduardo Campos soube se localizar bem na arena eleitoral, esperando seus oponentes se engalfinharem. O candidato at&eacute; ent&atilde;o favorito, Mendon&ccedil;a Filho, por falta de uma estrat&eacute;gia adequada, sofreu muito desgaste no primeiro turno ficando com a sua candidatura fragilizada no segundo turno.</p>
 <p>Leia aqui o artigo completo.</p>
-{\% endraw %}
+{% endraw %}

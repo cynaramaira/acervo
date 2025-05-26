@@ -16,7 +16,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Primeiros resultados oficiais apurados em 52 seções de Pernambuco, que correspondem a 0,31% do total:</FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo da Fonte (PP) 1.360 votos</FONT></P></p>
 <p><P><FONT face=Verdana>Armando Monteiro (PTB) 979 votos</FONT></P></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><FONT face=Verdana>André de Paula (PFL) 361 votos</FONT></P></p>
 <p><P><FONT face=Verdana>Maur?cio Rands (PT) 416 votos</FONT></P></p>
 <p><P><FONT face=Verdana>Raul Jungmann (PPS) 361 votos</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Vice-campeão de votos para deputado federal em Pernambuco, Inocêncio Oliveira (PL) pode até não comandar cargos em um&nbsp;provável governo Eduardo Campos (PSB), mas continua dando as cartas no poderoso Ministério dos Transportes de Lula.</FONT></P></p>
 <p><P><FONT face=Verdana>Escolhido por indicação de Inocêncio, o ministro Paulo Sérgio Passos esteve ontem em Pernambuco para iniciar as obras de duplicação da BR-101 Sul, entre o Cabo de Santo Agostinho, Região Metropolitana do Recife, e Palmares, na Zona da Mata Sul do Estado.</FONT></P></p>
 <p><P><FONT face=Verdana>Inocêncio, óbvio, estava lá. Na verdade, foi a estrela do evento. Teve até assinatura dele na ordem de serviços entregue às construtoras Queiroz Galvão, Odebrecht, Andrade Gutierrez, Barbosa Melo, OAS, Camargo Corrêa e Mendes Júnior.</FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>A ordem de serviço foi assinada pelo ministro dos Transportes, Paulo Sérgio Passos, durante solenidade em Escada, uma das cidades beneficiadas pela intervenção. </FONT></P></p>
 <p><P><FONT face=Verdana>A entrega dos 20 primeiros quilômetros duplicados, entretanto, só deverá ocorrer no fim do primeiro semestre de 2007.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/2006/10/25/not_206034.php\" target=_blank>aqui</A></EM></STRONG> (assinantes JC e UOL).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

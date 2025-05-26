@@ -1,0 +1,43 @@
+---
+id: 12391187
+date: "2008-07-25T21:20:00Z"
+last_modified_at: null
+tags:
+  - "declaracao"
+  - "joao-d"
+  - "prejuizos"
+  - "servidores-publicos"
+categories:
+  - "noticias"
+title: "Servidores do TJ reclamam de juiz Jo\u00e3o Targino por declara\u00e7\u00e3o ofensiva \u00e0 classe"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><object width="425" height="344"><param name="movie"value="https://www.youtube.com/v/Zv7NBFPdGhE&hl=pt-br&fs=1"></param><paramname="allowFullScreen" value="true"></param><embed src="https://www.youtube.com/v/Zv7NBFPdGhE&hl=pt-br&fs=1"type="application/x-shockwave-flash" allowfullscreen="true" width="425"height="344"></embed></object></p>
+<p><p>No in&iacute;cio da pr&oacute;xima semana,&nbsp;a Associa&ccedil;&atilde;o&nbsp;dos Serventu&aacute;rios do Poder Judici&aacute;rio&nbsp;pretende encaminhar ao presidente do TJ, desembargador Jones Figueiredo, uma carta pedindo provid&ecirc;ncias contra o juiz coordenador dos Juizados Especais, Jo&atilde;o Targino.</p></p>
+<p><p>A entidade reclama de declara&ccedil;&atilde;o feita pelo magistrado em entrevista concedida no &uacute;ltimo dia 10, a Aldo Vilela, da r&aacute;dio JC/ CBN. Durante a conversa, ele elogiava o sistema Projudi, que permite o acompanhamento virtual dos processos.</p></p>
+<p><p>Com isso, segundo Targino, os advogados &nbsp;podem&nbsp;evitar filas e tamb&eacute;m a &quot;descortesia&quot; e at&eacute; a &quot;desonestidade&quot; de servidores nas varas e juizados. A seguir, a carta da associa&ccedil;&atilde;o.</p></p>
+<p><p>&quot;Exmo. Sr Presidente do Tribunal de Justi&ccedil;a de Pernambuco<br /></p>
+<p>Recife, 26 de julho de 2008</p></p>
+<p><p>Exmo Sr. Presidente</p></p>
+<p><p>A Associa&ccedil;&atilde;o dos Serventu&aacute;rios do Poder Judici&aacute;rio vem mui respeitosamente, perante V. Excia, na condi&ccedil;&atilde;o de representantes dos servidores deste Poder Judici&aacute;rio Estadual requerer as necess&aacute;rias provid&ecirc;ncias no sentido de que seja o Exmo. Sr. Juiz de Direito, Dr. Jo&atilde;o Jos&eacute; Targino interpelado administrativamente para confirmar ou negar as declara&ccedil;&otilde;es por ele prestadas na R&aacute;dio JC CBN Recife (90,3 MHz), no programa CBN TOTAL, apresentado pelo radialista Aldo Vilela, na tarde de 10 de julho de 2008, quando do an&uacute;ncio da cria&ccedil;&atilde;o do Juizado Especial Virtual e do Sistema Projudi, cuja grava&ccedil;&atilde;o segue anexa.</p></p>
+<p><p>A&nbsp;entrevista durou exatos 07 (sete) minutos e 49 (quarenta e nove) segundos e aos 05&rsquo;12&rdquo; &eacute; poss&iacute;vel ouvir a declara&ccedil;&atilde;o do Coordenador dos Juizados Especiais, abaixo transcrita e degravada:</p></p>
+<p><p>&ldquo;Diferentemente, Aldo, do processo f&iacute;sico, que as pessoas t&ecirc;m que se aglomerarem nas Secretarias das Varas, nos Juizados, &agrave;s vezes at&eacute; pedindo favor a funcion&aacute;rios (pausa) [eeeeeeee] QUE N&Atilde;O TRATAM BEM, DESCORTESES ou at&eacute; <br /></p>
+<p>DESONESTOS mesmo, para serem atendidos&rdquo;</p></p>
+<p><p>Exatamente neste importante momento que a nossa institui&ccedil;&atilde;o vive, com a renova&ccedil;&atilde;o da sua Presid&ecirc;ncia, com o an&uacute;ncio de novos projetos que visam conferir melhorias e vantagens ao corpo funcional, declara&ccedil;&otilde;es como esta terminam por comprometer a rela&ccedil;&atilde;o existente entre Tribunal e servidores. Na entrevista em tela fica n&iacute;tida a vis&atilde;o que o <br /></p>
+<p>Magistrado tem, de forma gen&eacute;rica dos servidores do TJPE, informando a sociedade que n&atilde;o tratamos bem as partes e os Advogados. Justificar a cria&ccedil;&atilde;o do juizado virtual, dentre outras raz&otilde;es, por conta de funcion&aacute;rios descorteses e desonestos agride a toda a institui&ccedil;&atilde;o.</p></p>
+<p><p>&Eacute; de muita admira&ccedil;&atilde;o uma declara&ccedil;&atilde;o como esta partir de um membro da Magistratura com vasta experi&ecirc;ncia dentre os diversos setores administrativos do Tribunal, tendo sido inclusive Corregedor-Auxiliar para a 2&ordf; Regi&atilde;o, quando este teve, certamente, oportunidade de manter contato com diversos Magistrados e Servidores de todo o Estado e, decerto, p&ocirc;de conferir que a maioria daqueles que trabalham no Tribunal de Justi&ccedil;a podem at&eacute; n&atilde;o viver o tempo todo com o sorriso estampado no rosto, mas procuram cumprir sua miss&atilde;o com urbanidade, comprometimento e zelo, sem que para isso incorram em transgress&otilde;es funcionais ou at&eacute; mesmo se deixem contaminar pelo v&iacute;rus da desonestidade, como quis dar a entender o Dr. Jo&atilde;o Jos&eacute; Targino, at&eacute; porque, fica dif&iacute;cil para o empregador cobrar simpatia do seu corpo funcional, quando a remunera&ccedil;&atilde;o n&atilde;o se mostra compat&iacute;vel com a import&acirc;ncia da fun&ccedil;&atilde;o exercida e quando comparada a outros Tribunais, evidencia ser uma das piores.</p></p>
+<p><p>Deveria, no nosso entender, o Eminente Magistrado evitar expor suas considera&ccedil;&otilde;es pessoais, principalmente no respeito &agrave; idoneidade, &eacute;tica e car&aacute;ter dos Servidores do TJPE, at&eacute; porque ele quando concedeu a entrevista a um meio de massa como &eacute; o r&aacute;dio, falou representando uma institui&ccedil;&atilde;o que n&atilde;o pode admitir conviver com servidores desonestos e, n&atilde;o deveria externar na imprensa um sentimento que desvaloriza a todos. Certamente n&atilde;o traduz o pensamento dos Magistrados, que, no dia-a-dia forense, se mostram, solid&aacute;rios com dedica&ccedil;&atilde;o e comprometimento dos servidores. Inclusive, muitos dos Ju&iacute;zes hipotecaram apoio ao &uacute;ltimo movimento paredista, de agosto do ano passado. Nessa, infeliz, declara&ccedil;&atilde;o o servidor foi condenado e executado sumariamente.</p></p>
+<p><p>Requeremos, portanto, caso seja confirmado o conte&uacute;do da reportagem mencionada, retrata&ccedil;&atilde;o por parte do Dr. Jo&atilde;o Jos&eacute; Targino, na mesma emissora e programa e que ele utilize o mesmo tempo para esclarecer que a sua fala n&atilde;o corresponde em nenhum momento com a palavra oficial da Presid&ecirc;ncia do TJPE, at&eacute; para que a sociedade pernambucana n&atilde;o venha a acreditar que uma Institui&ccedil;&atilde;o como o Poder Judici&aacute;rio utiliza a criatividade do sistema virtual como forma de impedir que os desonestos atuem.</p></p>
+<p><p>Em nenhum momento &eacute; dado ao gestor p&uacute;blico o direito de generaliza&ccedil;&atilde;o. N&atilde;o pode estender a todos um comportamento descortez e desonesto. &Eacute; grave e perigosa a observa&ccedil;&atilde;o do Juiz, principalmente, quando usou a descortesia e a desonestidade para justificar, dentre outros motivos, o beneficio do sistema virtual. Se h&aacute; desonestos estes devem ser punidos atrav&eacute;s de processo legal.</p></p>
+<p><p>N&atilde;o ser&aacute; nos chamando de descorteses e desonestos (os mais fracos dentro da cadeia jurisdicional), que a Coordena&ccedil;&atilde;o dos Juizados Especiais conseguir&aacute; enaltecer as vantagens e m&eacute;ritos do Processo Virtual, muito menos do Projudi ou de qualquer outra inova&ccedil;&atilde;o que venha a ser disponibilizada.</p></p>
+<p><p>&Eacute; um lament&aacute;vel equ&iacute;voco, que causou consider&aacute;vel mal-estar na categoria funcional.Os servidores que tem na honestidade o maior valor, n&atilde;o por considerar um favor, mas por ter a certeza de ser esse o &uacute;nico caminho para <br /></p>
+<p>constru&ccedil;&atilde;o de uma sociedade melhor, se sente muito ofendido com tal declara&ccedil;&atilde;o.</p></p>
+<p><p>&Eacute; de extrema injusti&ccedil;a atacar os mais fracos que vivem com margem consign&aacute;vel negativa, em seus contracheques, por considerar a honestidade um valor absoluto.</p></p>
+<p><p>Somos seres imperfeitos e podemos errar mas o agir honesto ou desonesto &eacute; uma quest&atilde;o de op&ccedil;&atilde;o e n&atilde;o optamos por ser desonestos. Optamos para constru&ccedil;&atilde;o de uma sociedade livre, justa e solid&aacute;ria com judici&aacute;rio forte e eficiente para que o pa&iacute;s cesse de propiciar guetos de pobreza como o Coque punido, eficazmente, todos os desonestos.</p></p>
+<p><p>Nestes Termos, pedimos e esperamos deferimento</p></p>
+<p><p>Recife, 26 de julho de 2008&quot;</p> </p>
+{% endraw %}

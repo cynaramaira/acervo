@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P><FONT face=Verdana>MENDONÇA FILHO (PFL)</FONT></P></p>
 <p><P><FONT face=Verdana>11h</FONT></B><FONT face=Verdana>, em Santa Maria da Boa Vista, caminhada e reunião. Local: Concentração na entrada da cidade até o Clube AABB </FONT></P><B></p>
@@ -33,4 +33,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>16h</STRONG>, em Iati, visita lideranças pol?ticas locais</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>18h</STRONG>, em Paranatama, caminhada e ato pol?tico para inaguração de comitê </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>20h</STRONG>, em São Bento do Una, carreata e com?cio</FONT> </P></FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -1,0 +1,45 @@
+---
+id: 12379873
+date: "2007-07-01T16:56:00Z"
+last_modified_at: null
+tags:
+  - "artigo"
+  - "brasileirao"
+  - "diplomacia"
+  - "esta"
+  - "globo"
+  - "raul-jungmann"
+categories:
+  - "noticias"
+title: "Em artigo no Globo, Jungmann diz que diplomacia brasileira est\u00e1 sem comando"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">O texto&nbsp;abaixo&nbsp;&eacute; assinado por Merval Pereira, do jornal&nbsp;O Globo, e foi publicado na edi&ccedil;&atilde;o deste domingo (1). Nele, o deputado federal Raul Jungmann (PPS-PE), que integra a Comiss&atilde;o de Rela&ccedil;&otilde;es Exteriores da C&acirc;mara, aparece&nbsp;fazendo cr&iacute;ticas duras ao Itamaraty na condu&ccedil;&atilde;o das rela&ccedil;&otilde;es com a Bol&iacute;via. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Segundo o deputado, os problemas com o pa&iacute;s de Evo Morales v&atilde;o muito al&eacute;m do g&aacute;s (embora esse continue sendo um enorme entrave) e v&aacute;rias&nbsp;das pessoas&nbsp;com que manteve contato em recente viagem&nbsp;&agrave; Bol&iacute;via chegaram a falar em&nbsp;guerra civil. Confira.</font></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">&quot;O deputado federal Raul Jungmann, do PPS, esteve recentemente na Bol&iacute;via, junto com outros dois deputados &mdash; Ruy Pauletti, do PSDB, e Dr. Rosinha, do PT &mdash;, numa miss&atilde;o da Comiss&atilde;o de Rela&ccedil;&otilde;es Exteriores da C&acirc;mara, e voltou preocupado com o contencioso \de uma gravidade que parece n&atilde;o estar sendo bem avaliada pelo governo brasileiro\.</font></em></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">Para ele, a agenda bilateral \&eacute; ampla, densa e de elevado grau conflitivo\, e vai muito al&eacute;m dos problemas com a Petrobras. Impressionou a Jungmann o fato de que \quase todos os interlocutores, em algum momento, falam em conflito generalizado e na possibilidade de guerra civil, mesmo ressalvando que essa possibilidade est&aacute; distante e &eacute; improv&aacute;vel que se concretize\. Mas s&oacute; o fato de haver cogita&ccedil;&otilde;es sobre isso \j&aacute; d&aacute; uma dimens&atilde;o da gravidade do que est&aacute; acontecendo l&aacute;\, comenta o deputado.&quot;</font></em></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>FRONTEIRA</strong></font></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">&quot;Inicialmente, a pauta da visita dizia respeito apenas &agrave; quest&atilde;o dos brasileiros que vivem na faixa de fronteira, estimados em dez a 15 mil, pequenos agricultores que se encontravam em vias de serem expulsos porque o governo boliviano resolveu fazer cumprir o artigo 25 da Constitui&ccedil;&atilde;o, que veda expressamente a exist&ecirc;ncia de posse ou propriedade de terras em m&atilde;os de estrangeiros na faixa de 50 quil&ocirc;metros da linha de fronteira. Foi criado um programa conjunto de reconvers&atilde;o produtiva destinado aos agricultores, e para tanto o presidente Lula enviou e o Congresso aprovou recursos de US$ 10 milh&otilde;es.</font></em></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">Por&eacute;m, lembra Jungmann, agricultores de outras nacionalidades, sobretudo peruanos, na mesma condi&ccedil;&atilde;o, n&atilde;o est&atilde;o sendo molestados.Tamb&eacute;m existem bolivianos na nossa faixa de fronteira, onde h&aacute; o mesmo princ&iacute;pio de proibi&ccedil;&atilde;o de posse e/ou propriedade, e o Brasil nada faz. Tamb&eacute;m os sojicultores e criadores de gado, em n&uacute;mero aproximado de 800, concentrados no departamento de Santa Cruz de La Sierra, se encontram muito inseguros com o amplo processo de reforma agr&aacute;ria que se iniciar&aacute;.</font></em></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">Jungmann lembra que, em 2005, Brasil e Bol&iacute;via assinaram acordo visando &agrave; regulariza&ccedil;&atilde;o de estrangeiros vivendo em situa&ccedil;&atilde;o irregular em ambos os territ&oacute;rios. \De l&aacute; para c&aacute;, ressalta ele, dos mais de 80 mil bolivianos residentes e irregulares no Brasil, sobretudo em S&atilde;o Paulo e concentrados no ramo t&ecirc;xtil, mas de 50 mil foram regularizados. Em contrapartida, dos 35 mil brasileiros vivendo em situa&ccedil;&atilde;o id&ecirc;ntica na Bol&iacute;via, nenhum de que se tenha not&iacute;cia\.&quot;</font></em></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>HIDREL&Eacute;TRICA</strong></font></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">&quot;No caso das hidrel&eacute;tricas do Rio Madeira, o vice-presidente, &Aacute;lvaro Linera, foi direto ao afirmar que o gabinete presidencial acompanha atentamente a quest&atilde;o. Segundo ele, caso o Brasil decida n&atilde;o levar os projetos adiante, o assunto morre a&iacute;. Caso contr&aacute;rio, eles pretendem discutir o impacto decorrente, sob o ponto de vista ambiental e das compensa&ccedil;&otilde;es econ&ocirc;micas necess&aacute;rias.</font></em></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">\Pelo que nos foi dado escutar, o assunto tem potencial para se transformar em algo similar ao contencioso das &lsquo;papeleras&rsquo; que op&otilde;em o Uruguai e a Argentina. E, at&eacute; aqui e ao que se saiba, sem ter despertado qualquer a&ccedil;&atilde;o preventiva ou explorat&oacute;ria, ao menos, da nossa diplomacia\, comenta o deputado do PPS.</font></em></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">Enquanto os deputados estavam na Bol&iacute;via, Cuiab&aacute; e boa parte do Estado de Mato Grosso encontravam-se &agrave;s escuras.</font></em></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">&Eacute; que a Bol&iacute;via/YPFB estava despachando apenas 0,6 dos 2,2 milh&otilde;es de metros c&uacute;bicos contratados. A Bol&iacute;via est&aacute; no limite m&aacute;ximo de sua capacidade de produ&ccedil;&atilde;o, algo ao redor de 45mm c&uacute;bicos/dia.</font></em></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">Como 30 mm s&atilde;o despachados pelo Gasbol para S&atilde;o Paulo, sete milh&otilde;es para a Argentina e o consumo interno boliviano explodiu, foram feitos cortes no volume despachado para Mato Grosso e tamb&eacute;m para a Argentina.&quot;</font></em></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>G&Aacute;S</strong></font></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">&quot;Em conseq&uuml;&ecirc;ncia, Kirchner fechou com o presidente Evo Morales um contrato ampliando a oferta de g&aacute;s &agrave; Argentina para 27 mm, e passou a pagar mais pelo g&aacute;s despachado da Bol&iacute;via, US$ 5 por mm c&uacute;bico. E o Chile, que igualmente sofre escassez de g&aacute;s, teria sondado o governo boliviano, oferecendo um piso de at&eacute; US$ 8 por mm, segundo o presidente do Senado boliviano disse aos deputados brasileiros.</font></em></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">\Tal cen&aacute;rio coloca a Bol&iacute;via em situa&ccedil;&atilde;o de leiloar o g&aacute;s dispon&iacute;vel entre vizinhos, com efeitos imprevis&iacute;veis em termos contratuais e de abastecimento. Ao mesmo tempo em que implora por mais investimentos da Petrobras, usando a PDVSA de Ch&aacute;vez como amea&ccedil;a\, analisa Jungmann.&quot;</font></em></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>COCA&Iacute;NA</strong></font></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">&quot;Outra grav&iacute;ssima quest&atilde;o &eacute; o tr&aacute;fico de coca&iacute;na. Segundo o deputado, s&oacute; nos tr&ecirc;s primeiros meses deste ano, a Pol&iacute;cia Federal apreendeu mais de 1,5 tonelada de pasta de coca e coca&iacute;na refinada na fronteira com a Bol&iacute;via, equivalente ao total apreendido durante todo o ano de 2006.</font></em></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">Calcula-se que, hoje, mais de 80% da coca&iacute;na produzida na Bol&iacute;via esteja sendo exportada para o nosso pa&iacute;s.</font></em></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">\A dedu&ccedil;&atilde;o &eacute; que &eacute; daquele pa&iacute;s que prov&eacute;m o grosso da coca&iacute;na que abastece o crime organizado no Rio e em S&atilde;o Paulo, com todo o impacto de viol&ecirc;ncia, mortes e poder decorrentes\.</font></em></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>ITAMARATY</strong></font></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">&quot;Existem pend&ecirc;ncias em todos os pontos da agenda e nenhuma solu&ccedil;&atilde;o &agrave; vista, acusa Raul Jungmann, para quem \inexiste um comando ou uma clara orienta&ccedil;&atilde;o por parte da nossa diplomacia\.</font></em></p></p>
+<p><p><em><font face=\"Verdana\" size=\"2\">Jungmann critica o que seria uma divis&atilde;o informal de tarefas no Itamaraty, ficando a Am&eacute;rica Latina a cargo do assessor especial Marco Aur&eacute;lio Garcia, com o ministro Celso Amorim se encarregando dos f&oacute;runs multilaterais.&quot;</font></em></p> </p>
+{% endraw %}

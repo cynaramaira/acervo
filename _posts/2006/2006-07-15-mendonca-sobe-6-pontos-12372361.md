@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>Pesquisa do Vox Populi, cujos resultados estarão publicados daqui a pouco, com exclusividade, na edição de domingo do Jornaldo Commercio, mostra que o governador Mendonça Filho (PFL) conseguiu ampliar a vantagem sobre seus dois principais concorrentes, Humberto Costa (PT) e Eduardo Campos (PSB).</P></p>
 <p><P>A pesquisa ouviu 800 pessoas entre os dias 7 e 8 e tem 3,5% de margem de erro para mais ou para menos. Estimulados a apontar numa lista com os nove candidatos a governador de Pernambuco quais seriam seus escolhidos, os eleitores se dividiram da seguinte forma:</P></p>
 <p><TABLE cellSpacing=1 cellPadding=3 width=400 bgColor=#6ca7a6 border=0></p>
@@ -130,4 +130,4 @@ imagem: null
 <p><TD bgColor=#eaf0ee><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" size=2>Rivaldo Soares (PSL) </FONT></TD></p>
 <p><TD vAlign=top bgColor=#eaf0ee></p>
 <p><DIV align=right><STRONG><FONT face=\"Verdana, Arial, Helvetica, sans-serif\" size=4>3%</FONT></STRONG></DIV></TD></TR></TBODY></TABLE> </p>
-{\% endraw %}
+{% endraw %}

@@ -14,8 +14,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O preju?zo da Arpe com a proibição dos bingos, agora em 2006, chega a mais de R$ 12 milhões.</FONT></P></p>
 <p><P><FONT face=Verdana>Atualmente, a agência de regulação arrecada mais de R$ 1 milhão por mês com os jogos no Estado.</FONT></P></p>
 <p><P><FONT face=Verdana>No ano passado, a receita somou R$ 8 milhões, mas está em crescimento com a profissionalização da atividade no Estado, desde a regulamentação.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

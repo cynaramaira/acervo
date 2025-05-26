@@ -14,6 +14,6 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=Verdana>Começou o guia eleitoral. Será que a União por Pernambuco vai mostrar Lula de novo? Em outras situações?</FONT> </p>
-{\% endraw %}
+{% endraw %}

@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Todo mundo falou disso hoje no rádio e na TV, pela manhã, à tarde e à noite: Eduardo, Humberto, Mendonça e alguns nanicos.</FONT></P></p>
 <p><P><FONT face=Verdana>A razão é simples. </FONT></P></p>
 <p><P><FONT face=Verdana>O PSB decidiu apostar alto nas cr?ticas à privatização da companhia energética e aos aumentos nas tarifas de luz porque pesquisas qualitativas mostram que esse assunto desgasta e muito o governo Jarbas-Mendonça.</FONT></P></p>
@@ -22,4 +22,4 @@ imagem: null
 <p><P><FONT face=Verdana>Mas as pesquisas do PSB&nbsp;apontam para o sucesso da estratégia adotada até agora. E pelo que se viu hoje Humberto deve pegar carona nos ataques e intensificá-los.</FONT></P></p>
 <p><P><FONT face=Verdana>A oposição a Mendonça Filho quer de todas as maneiras evitar que o governador cresça nas&nbsp;intenções de votos. A meta é consolidar o segundo turno. </FONT></P></p>
 <p><P><FONT face=Verdana>Mendonça segue há 45 dias congelado nas pesquisas, no entorno dos 35%. Se ele crescer e superar os 40% poderá, na reta final, fechar a fatura já no primeiro turno.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

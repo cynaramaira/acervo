@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Cec?lia Ramos<BR></STRONG></FONT><FONT face=Verdana>No Jornal do Commercio de hoje</FONT></P></p>
 <p><P><FONT face=Verdana>Os recifenses, enfim, poderão avaliar o “espetáculo de luz??? garantido pelo prefeito do Recife João Paulo (PT) para o ciclo natalino. Hoje, a prefeitura promete apresentar a conclusão do projeto de decoração e tentará colocar um ponto final na polêmica causada pelas fitinhas metálicas</p>
 <p> e pandeiros pendurados nas árvores da cidade, numa alusão ao Pastoril. </FONT></P></p>
@@ -25,4 +25,4 @@ imagem: null
 <p><P><FONT face=Verdana>Duarte informou ainda que as árvores, fitas e pandeiros serão realçados por “potentes refletores de 1000 watts, nas cores vermelha e azul???. </FONT></P></p>
 <p><P><FONT face=Verdana>Ele destacou também a árvore de Natal flutuante, de 30 metros de altura, montada sobre uma balsa, no Rio Capibaribe (altura do Cine São Luiz, no Cais da Aurora). Feita em estrutura metálica, terá luzes coloridas programadas seqüencialmente. No topo, uma estrela de 2 metros de diâmetro. </FONT></P></p>
 <p><P><FONT face=Verdana>A conferir, então, o \"espetáculo de luz dirigido por José Pimentel\", conforme diz a nota da assessoria da PCR. Ou, como disse o vice-prefeito Luciano Siqueira (PCdoB), ao Blog, “vamos esperar para ver no que vai dar\".</FONT>&nbsp;</P> </p>
-{\% endraw %}
+{% endraw %}

@@ -1,0 +1,25 @@
+---
+id: 12377852
+date: "2007-04-17T15:55:00Z"
+last_modified_at: null
+tags:
+  - "editorial"
+categories:
+  - "noticias"
+title: "O editorial do Estad\u00e3o"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><FONT size=2></p>
+<p><P><FONT face=Verdana>O editorial de hoje do Estadão, O apagão da Infraero..., não perda nem a primeira-dama Marisa Letícia da Silva. </FONT></P></p>
+<p><P><FONT face=Verdana>É instrutivo. Vale a pena lê-lo:</FONT></P></p>
+<p><P><FONT face=Verdana><EM>Em abril de 2005, o brigadeiro Edilberto Teles Sirotheau Corrêa decidiu deixar a função de superintendente de Segurança Aeroportuária da Infraero, a estatal vinculada ao Ministério da Defesa, com 33 postos de comando e 10 mil funcionários de carreira, que administra 67 aeroportos, 32 terminais de carga e 81 unidades de apoio à navegação aérea em todo o País. Apesar dos apelos e pressões para que saísse sem criar turbulência, o oficial denunciou na carta de demissão a \"obsessiva prioridade (dada pela direção da empresa) às obras que proporcionam ‘visibilidade’, em detrimento das necessidades operacionais\". O inevitável resultado dessa deformação administrativa, escreveu profeticamente, seriam \"ocorrências graves em futuro próximo\". Dezessete meses depois, em setembro de 2006, um Boeing e um Legacy colidiram na Amazônia, matando 154 pessoas, no maior desastre da aviação comercial brasileira. Seguiu-se o apagão aéreo. </EM></FONT></P></p>
+<p><P><FONT face=Verdana><EM>A denúncia e a previsão foram reveladas domingo neste jornal pela repórter Christiane Samarco - num meticuloso sobrevôo do processo de loteamento da cúpula da empresa de que dependem os 83 milhões de passageiros anuais do País, com o seu </EM></FONT><FONT face=Verdana><EM>séquito de politicagem, incompetência e corrupção. A reportagem contém os elementos essenciais para um devastador estudo de caso - embora longe de ser único - sobre a praga aparentemente inerradicável que infesta o Estado nacional em quase todos os seus setores e esferas: o arrendamento da administração direta e indireta, em regime de consórcio, aos partidos e suas caciquias. Em regra, a presidência da estatal, as suas 5 diretorias e 27 superintendências nacionais e regionais, foram ocupadas por apadrinhados de chefes políticos de 6 partidos - do PT ao ex-PFL (atual DEM), passando pelo PMDB, PTB, PSB e PR (ex-PL). O retalhamento da estrutura dirigente da Infraero inclui detalhes nada menos que escabrosos, do ponto de vista do funcionamento desejado da empresa. </EM></FONT></P></p>
+<p><P><FONT face=Verdana><EM>Tome-se o caso do seu próprio presidente, brigadeiro José Carlos Pereira, conhecido pelos funcionários como Jota Carlos. Diretor de Operações na gestão anterior, a do esperto político pernambucano Carlos Wilson, que começou na Arena e pousou não faz muito no PT, Jota Carlos tinha um trunfo de primeira classe para sucedê-lo: a amizade de sua ex-mulher com a primeira-dama Marisa Letícia da Silva. Em vez de nomear para o cargo que deixava outro oficial da reserva da FAB, como os que tinham bom diálogo com os sargentos controladores de vôo, atendeu a uma demanda do PMDB e entregou o posto a um civil, Rogério Amado Barzellay, que não só não entendia patavina de aviação, mas foi impedido de ocupar a direção da Companhia Docas do Pará, para a qual o convidara o presidente Fernando Henrique, porque o então governador tucano do Estado ameaçou deixar o partido. Outro exemplo foi o desmembramento da regional Nordeste da Infraero, apenas para acomodar na nova </EM></FONT><FONT face=Verdana><EM>regional Centro-Leste uma indicação do senador Antonio Carlos Magalhães. </EM></FONT></P></p>
+<p><P><FONT face=Verdana><EM>O resto foi decorrência, um replay do escândalo de outra estatal loteada - o Correio, como lembra o deputado gaúcho Onyx Lorenzoni, do DEM, que presidiu a respectiva CPI em 2005. Em ambas se descobriram licitações fraudulentas, redução de</EM></FONT></P></p>
+<p><P><FONT face=Verdana><EM>exigências para as empresas contratadas, pagamentos vultosos por serviços fictícios e superfaturamento em contratos. Denúncias envolvendo a Infraero se empilham no Tribunal de Contas (TCU) e na Controladoria-Geral da União (CGU). O centro das maracutaias é a diretoria comercial da empresa que controla todas as concessões nas áreas dos aeroportos, incluindo postos de abastecimento, comércio e espaços para publicidade. Na semana passada, decerto para tirar o gás da CPI do Apagão Aéreo - que muito provavelmente será criada na Câmara, por decisão judicial, ou no Senado, onde a oposição também já colheu as assinaturas necessárias -, o governo demitiu 4 medalhões daquela diretoria. Com o mesmo intuito, a Polícia Federal recebeu ordem de investigar a estatal. </EM></FONT></P></p>
+<p><P><FONT face=Verdana><EM>Fica cada vez mais claro que o foco da crise aérea não está primariamente nas salas de controle de vôo dos aeroportos, mas nos gabinetes da Infraero que o governo arrendou aos políticos. Sabia o que dizia, o brigadeiro Sirotheau.</EM></FONT></P></FONT> </p>
+{% endraw %}

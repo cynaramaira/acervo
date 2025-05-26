@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana>Por <B>Cec?lia Ramos</B><BR>Repórter do Blog </FONT></P></p>
 <p><P><FONT face=Verdana>A fusão PPS-PHS-PMN não vai ser fácil em Pernambuco. Presidente estadual do PMN, Silvio Costa já faz suas ponderações e adverte que o projeto ainda está em análise. </FONT></P></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana><STRONG>Silvio Costa no PTB</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Nos bastidores, fala-se que Silvio Costa estaria cogitando trocar o PMN pelo PTB. Ele é próximo ao presidente estadual do PTB, o deputado federal Armando Monteiro Neto, com quem estreitou laços com a disputa sucessória estadual. Ambos apoiaram, no 1º turno, o candidato do Pt ao governo, Humberto Costa, hoje também no palanque de Eduardo. </FONT></P></p>
 <p><P><FONT face=Verdana>Silvio Costa despista. \"Esse assunto (mudança de partido) só a partir de dezembro. Não pode mudar de partido até 19 de dezembro, que é a data da diplomação\".</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

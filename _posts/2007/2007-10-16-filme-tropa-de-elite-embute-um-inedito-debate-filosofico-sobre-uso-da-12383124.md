@@ -1,0 +1,44 @@
+---
+id: 12383124
+date: "2007-10-16T17:16:00Z"
+last_modified_at: null
+tags:
+  - "debate"
+  - "filme"
+  - "maconha"
+  - "nacional"
+  - "poliomielite"
+  - "tropas-federais"
+categories:
+  - "noticias"
+title: "Filme Tropa de Elite embute um in\u00e9dito debate filos\u00f3fico sobre uso da maconha pela elite nacional"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Na visita que fez ao Recife, o roteirista do filme Tropa de Elite disse que achou a cobertura de Veja sobre o filme reacion&aacute;ria, mas observou ao <strong>Blog de Jamildo</strong> que concordava com a an&aacute;lise feita pelo blogueiro Reinaldo Azevedo.</font></p></p>
+<p><p><font face=\"Verdana\">Por falta de tempo, n&atilde;o havia feito ainda um resumo do texto, caudaloso, mas importante para entender o quanto h&aacute; de sociologia na discuss&atilde;o do pol&ecirc;mico filme.</font></p></p>
+<p><p><font face=\"Verdana\"><strong>Veja aqui um resumo:</strong></font></p></p>
+<p><p><font face=\"Verdana\"><strong>Capit&atilde;o Nascimento bate no Bonde do Foucault</strong> </font></p></p>
+<p><p><font face=\"Verdana\">Por <strong>Reinaldo Azevedo</strong></font></p></p>
+<p><p><font face=\"Verdana\">Nunca antes neste pa&iacute;s <strong>um produto cultural foi objeto de cerco t&atilde;o covarde</strong> como Tropa de Elite, o filme do diretor Jos&eacute; Padilha. Os donos dos morros dos cadernos de cultura dos jornais, investidos do papel de aiatol&aacute;s das utopias permitidas, resolveram inciner&aacute;-lo antes que fosse lan&ccedil;ado e emitiram a sua fatwa, a sua senten&ccedil;a: <strong>&quot;Ele &eacute; reacion&aacute;rio e precisa ser destru&iacute;do&quot;. </strong></font></p></p>
+<p><p><font face=\"Verdana\">E houve quem n&atilde;o resistisse, cravando a palavra m&aacute;gica: <strong>&quot;&Eacute; de direita&quot;.</strong> Nem chegaram a dizer se o filme &ndash; que &eacute; entretenimento, n&atilde;o tratado de sociologia &ndash; &eacute; bom ou n&atilde;o. </font></p></p>
+<p><p><font face=\"Verdana\">Seq&uuml;estrado pelo Bonde do Foucault (j&aacute; explico o que &eacute; isso), Padilha foi libertado pelo povo. A pirataria transformou seu filme num fen&ocirc;meno. </font></p></p>
+<p><p><font face=\"Verdana\"><strong>A esquerda intelectual, organizada em bando para assaltar a reputa&ccedil;&atilde;o alheia (como de h&aacute;bito), j&aacute; n&atilde;o podia fazer mais nada</strong>. Pouco importava o que dissesse ou escrevesse, o filme era um sucesso. Derrotada, restou-lhe arrancar, como veremos, do indiv&iacute;duo Padilha o que o cineasta Padilha n&atilde;o confessou. Por que tanta f&uacute;ria? A resposta &eacute; simples: <strong>Tropa de Elite comete a ousadia de propor um dilema moral e de oferecer uma resposta. Em tempos de triunfo do analfabetismo tamb&eacute;m moral, &eacute; uma ofensa grave. </strong></font></p></p>
+<p><p><br /></p>
+<p><font face=\"Verdana\">Qual dilema? N&atilde;o h&aacute; como ressuscitar <strong>o fil&oacute;sofo alem&atilde;o Immanuel Kant (1724-1804</strong>), mas podemos consultar a sua obra e ent&atilde;o indagar ao consumidor de droga:&nbsp; &quot;<strong>Se todos, na sociedade, seguirem o seu exemplo, o Brasil ser&aacute; um bom lugar para viver?&quot;. </strong></font></p></p>
+<p><p><font face=\"Verdana\">O que o pensamento politicamente correto n&atilde;o suporta no Capit&atilde;o Nascimento, o anti-her&oacute;i com muito car&aacute;ter, n&atilde;o &eacute; a sua trucul&ecirc;ncia, mas a sua clareza; n&atilde;o &eacute; o seu defeito, mas a sua qualidade. Ele n&atilde;o padece de psicose dial&eacute;tica, <strong>uma brotoeja te&oacute;rica que nasce na esquerda e que faz o bem brotar do mal, e o mal, do bem. Nascimento cultua &eacute; o bom paradoxo. </strong></font></p></p>
+<p><p><font face=\"Verdana\">A cena do filme j&aacute; &eacute; famosa: numa incurs&atilde;o &agrave; favela, o Bope mata um traficante. No grupo de marginais, h&aacute; um &quot;estudante&quot;. Aos safan&otilde;es, Nascimento lhe pergunta, depois de enfiar a sua cara no abd&ocirc;men estuporado do cad&aacute;ver: &quot;Quem matou esse cara?&quot;. Alguns tapas na cara depois, acaba respondendo: &quot;Foram voc&ecirc;s&quot;. E ouve do capit&atilde;o a resposta que mais irritou o Bonde do Foucault: &quot;<strong>N&atilde;o! Foi voc&ecirc;, seu maconheiro</strong>&quot;. </font></p></p>
+<p><p><font face=\"Verdana\"><strong>Nascimento, quem diria?, &eacute; um disc&iacute;pulo de Kant</strong>. Um pouco desastrado, mas &eacute;. </font></p></p>
+<p><p><font face=\"Verdana\">Num dado momento, ele faz uma indaga&ccedil;&atilde;o: &quot;Quantas crian&ccedil;as n&oacute;s vamos perder para o tr&aacute;fico para que o playboy possa enrolar o seu baseado?&quot;. </font></p></p>
+<p><p><font face=\"Verdana\">Trata-se de uma mentira torpe a acusa&ccedil;&atilde;o de que o filme faz a apologia da tortura. Ocorre que o &oacute;dio que a patrulha ideol&oacute;gica passou a devotar &agrave; obra n&atilde;o deriva da&iacute;. Isso &eacute; pretexto. O que os &quot;playboys&quot; do relativismo rejeitam &eacute; a evoca&ccedil;&atilde;o da responsabilidade dos consumidores de droga na trag&eacute;dia social brasileira. Nascimento invadiu a praia do Posto 9, em Ipanema. </font></p></p>
+<p><p><font face=\"Verdana\">J&aacute; empreguei duas vezes a express&atilde;o &quot;<strong>Bonde do Foucault</strong>&quot; para me referir &agrave; quadrilha ideol&oacute;gica que tentou p&ocirc;r um saco da verdade na cabe&ccedil;a de Padilha: fa&ccedil;o alus&atilde;o tamb&eacute;m a uma passagem em que universit&aacute;rios &ndash; alguns deles militantes de uma ONG e, de fato, aliados do tr&aacute;fico &ndash; participam de uma aula-semin&aacute;rio sobre o <strong>fil&oacute;sofo franc&ecirc;s Michel Foucault</strong> (1926-1984). Falam sobre o livro Vigiar e Punir, em que o autor discorre sobre a evolu&ccedil;&atilde;o da legisla&ccedil;&atilde;o penal ao longo da hist&oacute;ria e caracteriza, de modo muito cr&iacute;tico, os m&eacute;todos coercitivos e punitivos do estado. </font></p></p>
+<p><p><font face=\"Verdana\">No filme, aluna e professor fazem um pastiche de seu pensamento, e isso serve de pretexto para um severo ataque &agrave; pol&iacute;cia, abominada pelos bacanas como for&ccedil;a de repress&atilde;o a servi&ccedil;o do estado e suas injusti&ccedil;as. Foucault era pior do que isso. Em Vigiar e Punir, ele fica a um passo de sugerir que o castigo f&iacute;sico &eacute; prefer&iacute;vel &agrave;s formas que entende veladas de repress&atilde;o postas em pr&aacute;tica pelo estado moderno. Lixo. </font></p></p>
+<p><p><font face=\"Verdana\">O personagem Matias, um policial que faz o curso de direito, &eacute; o elo entre o Capit&atilde;o Nascimento, o kantiano r&uacute;stico, e esse n&uacute;cleo universit&aacute;rio. A seq&uuml;&ecirc;ncia em que essas duas &eacute;ticas se confrontam desmoraliza o discurso progressista sobre as drogas e revela n&atilde;o a conviv&ecirc;ncia entre as diferen&ccedil;as, <strong>mas a coniv&ecirc;ncia com o crime de uma franja da sociedade que pretende, a um s&oacute; tempo, ser benefici&aacute;ria de todas as vantagens do estado de direito e de todas as transgress&otilde;es da delinq&uuml;&ecirc;ncia</strong>. </font></p></p>
+<p><p><font face=\"Verdana\">Por isso o<strong> &quot;Bonde do Foucault&quot; da imprensa</strong> <strong>tentou fazer um arrast&atilde;o ideol&oacute;gico</strong> <strong>contra Tropa de Elite</strong>. Quem consome droga il&iacute;cita p&otilde;e uma arma na m&atilde;o de uma crian&ccedil;a. &Eacute; simples. &Eacute; fato. &Eacute; objetivo. <strong>Cheirar ou n&atilde;o cheirar &eacute; uma quest&atilde;o individual, moral, mas &eacute; tamb&eacute;m uma quest&atilde;o &eacute;tica, voltada para o coletivo</strong>: em qual sociedade o consumidor de drogas escolheu viver? Posso assegurar: n&atilde;o h&aacute; livro de Foucault que nos ajude a responder. </font></p></p>
+<p><p><font face=\"Verdana\">Derrotada, a elite da tropa esquerdopata n&atilde;o desistiu. Jos&eacute; Padilha e o ator Wagner Moura foram convocados a ir al&eacute;m de suas sand&aacute;lias.&nbsp; </font></p></p>
+<p><p><font face=\"Verdana\">Mas o que interessa &eacute; o filme. E o filme submete a um justo rid&iacute;culo a sociologia vagabunda que tenta ver a pol&iacute;cia e o bandido como lados opostos (&agrave;s vezes unidos), mas de id&ecirc;ntica legitimidade, de um conflito inerente ao estado burgu&ecirc;s. O kantiano r&uacute;stico &quot;pegou geral&quot; o Bonde do Foucault. <br /></p>
+<p></font></p> </p>
+{% endraw %}

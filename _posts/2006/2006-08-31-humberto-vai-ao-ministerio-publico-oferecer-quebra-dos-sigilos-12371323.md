@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Conforme o <STRONG>Blog</STRONG> noticiou ontem, à tarde, às 16h38, o candidato do PT ao governo de Pernambuco esteve hoje em Bras?lia para oferecer seus sigilos ao Ministério Público.</FONT></P></p>
 <p><P><FONT face=Verdana>Veja o que diz a Folha hoje:</FONT></P></p>
 <p><P><FONT face=Verdana>Por <STRONG>Gabriela Guerreiro</STRONG><BR>Da Folha Online, em Bras?lia</FONT></P></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Costa disse que há motivações pol?ticas para o seu indiciamento. Ele acusou o delegado da Pol?cia Federal Marcelo Moselli, responsável por investigar o caso, de ter se precipitado nas investigações. \"Há uma armação pol?tica por trás disso. A Pol?cia Federal é uma instituição séria, mas isso não implica que um delegado não possa cometer erros\", criticou.</FONT></P></p>
 <p><P><FONT face=Verdana>O ex-ministro disse que está sendo punido justamente por ter denunciado a máfia dos vampiros enquanto esteve no Ministério da Saúde. \"Era preciso que eu fosse uma pessoa muito burra para denunciar a máfia e meus próprios comparsas.\"</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://www1.folha.uol.com.br/folha/brasil/ult96u82298.shtml\" target=_blank>aqui</A></EM></STRONG>.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

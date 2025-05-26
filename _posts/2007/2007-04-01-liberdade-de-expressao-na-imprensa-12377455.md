@@ -1,0 +1,27 @@
+---
+id: 12377455
+date: "2007-04-01T19:47:00Z"
+last_modified_at: null
+tags:
+  - "imprensa"
+  - "liberdade"
+categories:
+  - "noticias"
+title: "Liberdade (?) de express\u00e3o na imprensa"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><P><FONT face=Verdana>Do <STRONG>Comunique-se</STRONG></FONT></P></p>
+<p><P><FONT face=Verdana>Freqüentes solicitações de espaços para resposta em veículos de comunicação brasileiros apontam para uma tendência ao mesmo tempo democrática e perigosa para a imprensa. Enquanto algumas pessoas, entidades ou órgãos públicos realizam acordos baseados na liberdade de expressão, outros aproveitam as idéias publicadas em colunas, editoriais e em reportagens para criar uma indústria de processos judiciais capazes não apenas de provocar rombos orçamentários nas redes, mas também de intimidar o bom jornalismo.</FONT></P></p>
+<p><P><FONT face=Verdana>“Os editoriais refletem a opinião da empresa de comunicação como um todo, enquanto as colunas são escritas por profissionais contratados especialmente para darem opiniões pessoais”, aponta Telmo Flor, diretor de Redação do Correio do Povo, de Porto Alegre (RS). Segundo ele, o problema é que, com os constantes processos indenizatórios contra revistas e jornais, quem perde é o leitor. “Muitas vezes a justiça entende uma crítica publicada como ofensa ou crime, condenando financeiramente os veículos. Já são raros os processos que solicitam apenas direitos de resposta, justamente porque o que se quer, atualmente, é calar a imprensa por meio desse tipo de ameaça.” </FONT></P></p>
+<p><P><FONT face=Verdana>A discussão é ampla e merece reflexão. “Trata-se de uma situação nova na comunicação social, que sofreu durante muitos anos com a ditadura militar”, acredita o advogado Carlos Josias Menna de Oliveira, que atuou em casos de Lei de Imprensa durante 20 anos. Para ele, devido ao histórico repressivo que perpassa toda a sociedade do País, todos querem executar ao máximo seus direitos. “Os meios de comunicação se tornaram ávidos pela informação e pela opinião, às vezes sem medir as conseqüências de uma única frase. Já a sociedade passou a reclamar sempre que se sente lesada por qualquer tipo de agressão, inclusive as críticas.” Assim, segundo Menna de Oliveira, foi-se instituindo a “febre do dano moral”.</FONT></P></p>
+<p><P><FONT face=Verdana><STRONG>Cada caso, um caso</STRONG></FONT></P></p>
+<p><P><FONT face=Verdana>Conforme apuração da revista Consultor Jurídico, só em 2003 havia mais processos contra os grandes grupos jornalísticos do que jornalistas nas redações, o que mostra a necessidade de um entendimento deste cenário. Incluindo apenas o grupo Globo, as editoras Abril e Três e os jornais Folha de S. Paulo e O Estado de S. Paulo, foram contabilizadas 3.342 ações judiciais em andamento naquele ano, a maioria de natureza indenizatória. De acordo com a revista, se todas as ações fossem perdidas pelos veículos, eles teriam que pagar, juntos, quase R$ 65 milhões.</FONT></P></p>
+<p><P><FONT face=Verdana>Impedir a punição pela publicação errônea de informações não é uma possibilidade, previne o advogado. “Até porque já tivemos muitos casos de pessoas que tiveram suas vidas destruídas por causa de acusações da imprensa que, posteriormente, se mostraram infundadas.” O que deve ser revisto, então, é até que ponto devem ir os veículos de comunicação e aqueles que se sentem prejudicados por publicações. “Talvez o tempo e a experiência sejam uma escola para todos, mas é preciso reeducar os envolvidos para que não haja esse choque de interesses”, sugere o advogado, lembrando que uma opinião não pode ser ofensiva e que uma idéia não pode ser interpretada como julgamento.</FONT></P></p>
+<p><P><FONT face=Verdana>Paulo Santana, colunista da Zero Hora que já foi processado 12 vezes, acredita que a solução esteja no profissionalismo. “Sempre ganhei na Justiça porque não faço acusações levianas. Meu trabalho se apóia em fatos que podem ser provados e na liberdade de imprensa”, enfatiza. Mesmo assim, ele admite que suas palavras não soam bem a todos os ouvidos. “Ao emitirmos uma opinião, inevitavelmente estaremos gerando animosidade. O importante é pensar no bem geral e no que importa aos leitores. </FONT></P></p>
+<p><P><FONT face=Verdana>Esse foi o pensamento de David Coimbra, colunista que cedeu espaço para uma resposta da prefeitura de Porto Alegre em sua coluna no jornal Zero Hora de 18/02, após uma reclamação do órgão público à direção do veículo. “Escrevi uma crítica sobre o excesso do termo gestão nos discursos da prefeitura e eles não gostaram. Como eu entendo que as opiniões sempre causam divergências, não vi problema em dar espaço para que eles respondessem, mas informei que haveria um comentário meu logo acima do texto enviado”, conta Coimbra. Na opinião dele, não há mal em permitir esse tipo de manifestação, desde que não vire um hábito. </FONT></P></p>
+<p><P><FONT face=Verdana>Conforme o colunista, reflexos como esse, que não envolvem a Justiça e são firmados de forma pacífica e sem segundas intenções, mostram que a imprensa está cumprindo o seu papel de provocar a reflexão. “Esse caso repercutiu tanto na Prefeitura quanto entre os leitores, que continuaram a enviar e-mails sobre o assunto por dias. Isso mostra que todos consideram o que eu digo. Se ninguém comentasse, aí sim é que eu me preocuparia com a qualidade da minha opinião.”</FONT></P> </p>
+{% endraw %}

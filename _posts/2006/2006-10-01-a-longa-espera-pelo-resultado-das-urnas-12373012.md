@@ -13,9 +13,9 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O governador e candidato à reeleição Mendonça Filho (PFL) iniciou o dia, no Recife, com a fam?lia, à espera da hora de votar. Tomou café com a mulher, Taciana, e com os três filhos.</FONT></P></p>
 <p><P><FONT face=Verdana>O deputado federal e ex-ministro da Ciência e Tecnologia Eduardo Campos (PSB) também reuniu a fam?lia e os amigos para um café, na casa dele, no Recife. </FONT></P></p>
 <p><P><FONT face=Verdana>Eduardo e Mendonça estão muito próximos nas pesquisas de intenção de voto e devem disputar o segundo turno, a partir de amanhã.</FONT></P></p>
 <p><P><FONT face=Verdana>Já o petista Humberto Costa, ex-ministro da Saúde, percorre o Recife com os aliados, principalmente o prefeito João Paulo, para tentar reverter nas horas finais a desvantagem nas pesquisas. Ele é o terceiro, atrás de Eduardo.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

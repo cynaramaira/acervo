@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O novo envolvimento de Humberto Costa no escândalo dos vampiros ainda não chegou ao guia eleitoral. </FONT></P></p>
 <p><P><FONT face=Verdana>A propaganda de governador na TV acabou há pouco e nada foi dito sobre o indiciamento dele pela Pol?cia Federal.</FONT></P></p>
 <p><P><FONT face=Verdana>Mas a guerra da contrapropaganda no Internet já começou. E começou batendo forte.</FONT></P></p>
@@ -29,4 +29,4 @@ imagem: null
 <p><P><FONT face=Verdana><EM>+ Vampiro<BR>+ Sanguessuga<BR>+ Mensalão</EM></FONT></P></p>
 <p><P><BR><FONT face=Verdana><EM>LULA + HUMBERTO<BR>É RUIM PARA O BRASIL<BR>É PIOR PRA PERNAMBUCO</EM></FONT></P></p>
 <p><P><EM><FONT face=Verdana>* espalhe esta not?cia //</FONT> </EM></P> </p>
-{\% endraw %}
+{% endraw %}

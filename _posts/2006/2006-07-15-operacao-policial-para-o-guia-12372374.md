@@ -12,7 +12,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P>Por pouco não passa despercebida a megaoperação montada pela Secretaria de Defesa Social, na quinta-feira, para prender seis pessoas, um cachimbo de crack, uma trouxinha de maconha e um facão. Foi tudo feito sob medida para a&nbsp;equipe do guia eleitoral do governador Mendonça Filho. </P></p>
 <p><P>Para quem não sabe, a segurança pública é, não um calo, mas um grav?ssimo problema do Estado. Mais de 31 mil pessoas foram assassinadas em Pernambuco nos últimos sete anos e meio. Toda a sociedade vive um permanente estado de insegurança por falta de medidas eficazes para conter a banalização do crime. Imagens da pol?cia em ação ajudam no esforço para esvaziar a agenda da oposição contra Mendonça.</P></p>
 <p><P>Para quem deseja conhecer melhor essa história, segue aqui a coluna JC nas Ruas, escrita por Ciara Carvalho, repórter especial de Cidades do Jornal do Commercio e publicada nesta sexta-feira: </P></p>
@@ -28,4 +28,4 @@ imagem: null
 <p><P><BR>Santo nome em vão </P></p>
 <p><P>O ex-secretário da SDS, João Braga, nega que tenha bancado um ônibus para levar ao cemitério parentes de um rapaz morto, no Ibura. “Ninguém me procurou, não paguei e desconheço esse fato???, garantiu. Braga disse que, se usaram o nome dele, foi sem o seu conhecimento e aprovação. </P></p>
 <p><P><BR>&nbsp;</P> </p>
-{\% endraw %}
+{% endraw %}

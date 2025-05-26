@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Por <STRONG>Luciano Siqueira*</STRONG><BR>Vice-prefeito do Recife</FONT></P></p>
 <p><P><FONT face=Verdana>Já escrevemos sobre o assunto noutra oportunidade. É tema, inclusive, de um dos sessenta e cinco artigos contidos na coletânea que compõe o livro <EM>O Vermelho é Verde-Amarelo</EM>, editado pela Anita Garibaldi em 2005.</FONT></P></p>
 <p><P><FONT face=Verdana>Os tempos de governo são implacáveis? Para quem começa, para quem já vai adiantado. Em qualquer circunstância constituem desafio a ser observado por todo bom governante.</FONT></P></p>
@@ -27,4 +27,4 @@ imagem: null
 <p><P><FONT face=Verdana>Nesta quinta-feira (28), o prefeito João Paulo reunirá todo o secretariado para um balanço do que foi realizado até agora e para acertar o passo para o per?odo restante. O prefeito sabe, todos sabemos, que rigorosamente teremos mais um ano e meio de ação administrativa efetiva, pois no último semestre, em 2008, a campanha eleitoral assumirá a centralidade das atenções da sociedade e de quem governa.</FONT></P></p>
 <p><P><FONT face=Verdana>Eis o nosso desafio? De João Paulo e de todos os que fazemos o governo da cidade: assegurar ritmo, celeridade e eficiência nessa reta derradeira. Mesmo que para tanto seja necessário fazer mudanças na equipe, para ajustá-la à nova conjuntura pol?tica e para injetar mais élan.</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG><EM>&nbsp;</EM></STRONG>*Luciano Siqueira<EM>, 60, médico, é vice-prefeito do Recife há duas gestões. Foi candidato a senador pelo PCdoB, na última eleição, e deputado estadual em Pernambuco nos anos 80.</EM></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

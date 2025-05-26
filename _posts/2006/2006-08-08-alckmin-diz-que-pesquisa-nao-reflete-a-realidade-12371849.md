@@ -14,9 +14,9 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT face=\"Times New Roman\"></p>
 <p><P><FONT face=Verdana>De <STRONG>O Globo</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana>Rio – O candidato do PSDB a presidente da República, Geraldo Alckmin, ironizou agora há pouco os números da pesquisa CNT/Sensus divulgada na manhã desta terça-feira, que mostra uma queda de 7,5 pontos percentuais nas suas intenções de voto.</FONT></P></p>
 <p><P><FONT face=Verdana>\"Essa pesquisa não mostra a realidade. Eu só trato de coisa séria\", disse Alckmin, depois de posar com crianças no Madureira Esporte Clube, no subúrbio do Rio.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

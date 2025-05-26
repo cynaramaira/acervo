@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Nomes apresentados agora pela Rádio Jornal e que devem ser confirmados como eleitos para uma vaga na bancada de Pernambuco na Câmara Federal:</FONT></P></p>
 <p><P><FONT face=Verdana>Armando Monteiro Neto</FONT></P></p>
 <p><P><FONT face=Verdana>Inocêncio Oliveira</FONT></P></p>
@@ -41,4 +41,4 @@ imagem: null
 <p><P><FONT face=Verdana>Marcos Antônio</FONT></P></p>
 <p><P><FONT face=Verdana>Wolney Queiroz</FONT></P></p>
 <p><P><FONT face=Verdana>Paulo Rubem</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

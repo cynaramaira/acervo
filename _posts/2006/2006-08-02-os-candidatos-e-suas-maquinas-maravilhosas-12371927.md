@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P></p>
 <p><P><FONT face=Verdana>Por </FONT><FONT face=Arial><FONT face=Verdana><STRONG>S?lvio Menezes</STRONG><BR>Repórter de Economia/Ve?culos do JC</FONT></P></p>
 <p><P></P></p>
@@ -35,4 +35,4 @@ imagem: null
 <p><P><FONT face=Verdana>E com orçamento apertado e previsão de gasto máximo na campanha estimado em R$ 15 mil (cada um deles), o Partido Socialista dos Trabalhadores Unificado (PSTU) improvisam nesta eleição para cumprir a agenda. </FONT></P></p>
 <p><P><FONT face=Verdana>Vão a compromissos de carona no carro de amigos, em ve?culos bastante usados e até de ônibus.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/jornal/\" target=_blank>aqui</A></EM></STRONG> o texto completo (assinantes JC e UOL).</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

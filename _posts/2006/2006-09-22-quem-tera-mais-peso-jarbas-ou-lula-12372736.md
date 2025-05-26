@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>As pesquisas mostram que o quadro eleitoral em Pernambuco se consolidou e deveremos ter mesmo 2º turno na disputa pelo governo do Estado. </FONT></P></p>
 <p><P><FONT face=Verdana>O <B>Blog</B> inicia agora uma nova enquete e quer saber de vocês quem virá com o palanque eleitoral mais forte. </FONT></P></p>
 <p><P><FONT face=Verdana>Será Mendonça Filho (PFL) com o ex-governador Jarbas Vasconcelos (PMDB), que provavelmente estará eleito senador com uma votação consagradora? </FONT></P></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>Mendonça e Humberto&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 381 (6%) </FONT></P></p>
 <p><P><FONT face=Verdana>Mendonça e Eduardo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.570 (55%)</FONT></P></p>
 <p><P><FONT face=Verdana>Não haverá 2º turno, <BR>Mendonça vencerá no 1º&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.541 (39%)</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

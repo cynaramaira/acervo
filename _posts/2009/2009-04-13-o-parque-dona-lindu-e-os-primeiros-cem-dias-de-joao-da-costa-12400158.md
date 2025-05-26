@@ -1,0 +1,30 @@
+---
+id: 12400158
+date: "2009-04-13T10:30:32Z"
+last_modified_at: null
+tags:
+  - "fred-dias"
+  - "gal-costa"
+  - "joao-d"
+  - "parque-dona-lindu"
+categories:
+  - "colunistas"
+title: "O Parque Dona Lindu e os primeiros cem dias de Jo\u00e3o da Costa"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Edilson Silva</p></p>
+<p><p>Chegamos aos primeiros cem dias da gest&atilde;o de Jo&atilde;o da Costa &agrave; frente da prefeitura do Recife. A pergunta &eacute; inevit&aacute;vel: qual a marca que ficou deste simb&oacute;lico per&iacute;odo&#63; Em minha opini&atilde;o, o Parque Dona Lindu &eacute; o melhor retrato. Convido os leitores a darem uma passada l&aacute; e constatarem o que digo.</p></p>
+<p><p>Eu mesmo estive no parque no s&aacute;bado, 11/04. N&atilde;o se trata mais apenas de um parque pol&ecirc;mico, constru&iacute;do a um custo milion&aacute;rio numa cidade de popula&ccedil;&atilde;o miser&aacute;vel, que por isso mesmo dividiu a sociedade; um parque que foi inaugurado com toda pompa pelo presidente da Rep&uacute;blica, sem estar conclu&iacute;do. N&atilde;o. Trata-se agora de um Taj Mahal, como o batizou seu idealizador, em forma de entulho em plena beira mar de Boa Viagem.</p></p>
+<p><p>A obra d&aacute; sinais de come&ccedil;ar a entrar em ru&iacute;nas. Madeiras apodrecendo espalhadas pelo ch&atilde;o, ferrugem corroendo as ferragens expostas, mato alto tomando conta do espa&ccedil;o. As tabelas de basquete da quadra de esportes tiveram seus aros arrancados. Os banheiros parecem j&aacute; servir a todo tipo de vandalismo, com fezes pelo ch&atilde;o e pelas paredes logo na sua entrada. A obra est&aacute; paralisada praticamente desde que foi &ldquo;inaugurada&rdquo;.</p></p>
+<p><p>Um &uacute;nico guarda municipal mantinha-se a frente do parque durante minha visita, obviamente incapaz de cuidar de todo aquele patrim&ocirc;nio, mas pousando ing&ecirc;nuo para os que passam pela beira mar, como que dando a impress&atilde;o de espa&ccedil;o cuidado. Do cal&ccedil;ad&atilde;o ou da avenida, a grama verde da fachada, estrategicamente cuidada, e a bela escultura dos retirantes d&atilde;o a impress&atilde;o errada sobre o que se encontra de fato ali.</p></p>
+<p><p>Mas, obviamente, a administra&ccedil;&atilde;o Jo&atilde;o da Costa nestes cem dias n&atilde;o se resume ao Parque Dona Lindu. Os servidores p&uacute;blicos puderam experimentar logo de sa&iacute;da o amargo da retirada do benef&iacute;cio do recebimento do 13&ordm; quando do gozo das f&eacute;rias e declara&ccedil;&otilde;es infelizes do novo prefeito de que os servidores estariam acostumados com regalias. Os ambulantes de Boa Viagem foram v&iacute;timas da tentativa de retirar-lhes de forma irrespons&aacute;vel seu ganha-p&atilde;o, em mais um rompante elitista da gest&atilde;o petista.</p></p>
+<p><p>Os postos de sa&uacute;de da prefeitura est&atilde;o entrando em colapso. Onde j&aacute; faltavam m&eacute;dicos e medicamentos, agora falta tamb&eacute;m seguran&ccedil;a diante de uma popula&ccedil;&atilde;o que d&aacute; sinais de impaci&ecirc;ncia com o caos. No posto de sa&uacute;de do Barro, por exemplo, crian&ccedil;as dividem espa&ccedil;o com pacientes com hansen&iacute;ase, denuncia uma moradora. Na mesma regi&atilde;o, uma &uacute;nica bomba d&rsquo;&aacute;gua reveza-se entre tr&ecirc;s postos de sa&uacute;de, pois a prefeitura alega n&atilde;o ter pouco mais de R$ 100,00 para adquirir um equipamento pr&oacute;prio para cada unidade.</p></p>
+<p><p>&Eacute; a crise, poder&aacute; gritar o primeiro governista de plant&atilde;o. N&atilde;o, n&atilde;o &eacute; a crise. Se o governo anterior n&atilde;o tivesse gasto tanto com obras secund&aacute;rias, para dizer o m&iacute;nimo, como a mudan&ccedil;a do passeio da orla de Boa Viagem, o pr&oacute;prio Dona Lindu, o t&uacute;nel do Pina que at&eacute; hoje encontra-se sem serventia, e tantas outras obras e servi&ccedil;os, como a consultoria da FINATEC e caros carnavais, talvez hoje as comunidades do Barro, de Coqueiral, de Afogados, do Chi&eacute;, e tantas outras, tivessem ao menos bomba d&rsquo;&aacute;gua para levar &aacute;gua &agrave;s torneiras de seus postos de sa&uacute;de e instala&ccedil;&otilde;es perto de adequadas para as comunidades. Talvez tivessem mais profissionais de sa&uacute;de e de seguran&ccedil;a para garantir um atendimento minimamente digno para os que se utilizam dos servi&ccedil;os.</p></p>
+<p><p>Como Jo&atilde;o &eacute; Jo&atilde;o, eis a grande obra apresentando seus efeitos de m&eacute;dio prazo. Portanto, nada de colocar a conta somente nas costas, sem trocadilho, do segundo Jo&atilde;o. A crise s&oacute; antecipou os efeitos, que se fazem sentir com for&ccedil;a nestes primeiros cem dias da gest&atilde;o do novo prefeito de uma velha administra&ccedil;&atilde;o.</p></p>
+<p><p>Em tempo: sugiro ao prefeito que se n&atilde;o puder concluir a obra do Dona Lindu, que ao menos coloque mais um guarda municipal circulando no espa&ccedil;o; que coloque uma equipe para cuidar da parte que j&aacute; pode ser utilizada pela popula&ccedil;&atilde;o, tanto da jardinagem como da pista de caminhada, quadra, brinquedos e banheiros. Sugiro tamb&eacute;m que melhore o aspecto da obra, para que ela pare&ccedil;a que foi organizadamente paralisada, e n&atilde;o abandonada, afinal de contas, &eacute; o dinheiro p&uacute;blico que est&aacute; ali, al&eacute;m de ser esteticamente menos conden&aacute;vel. Por fim, sugiro que tenha a coragem de s&oacute; colocar mais um &uacute;nico centavo naquela obra ap&oacute;s dar condi&ccedil;&otilde;es para que os postos de sa&uacute;de da prefeitura funcionem com um m&iacute;nimo de dignidade.</p></p>
+<p><p>PS: Edilson &eacute; presidente do PSOL-PE e escreve para o Blog de Jamildo sempre &agrave;s segundas.</p> </p>
+{% endraw %}

@@ -1,0 +1,27 @@
+---
+id: 12404218
+date: "2009-08-03T10:10:29Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "colunistas"
+title: "Esvaziamento dos TCEs"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Editorial do Jornal do Commercio desta segunda<br /></p>
+<p><br /></p>
+<p>Os nossos tribunais, inclusive superiores, vivem abarrotados de processos a apreciar e julgar. A tramita&ccedil;&atilde;o demasiado lenta desses processos atrasa muito o andamento da Justi&ccedil;a, criando na sociedade descr&eacute;dito no seu exerc&iacute;cio, e gerando um clima de impunidade, por protela&ccedil;&otilde;es, apela&ccedil;&otilde;es, prescri&ccedil;&otilde;es. Agora mesmo, o Tribunal de Justi&ccedil;a de Pernambuco (TJPE) suspendeu as f&eacute;rias dos magistrados entre agosto e dezembro deste ano, na tentativa de agilizar o julgamento de processos iniciados antes de janeiro de 2006. <br /></p>
+<p><br /></p>
+<p>Atende a recomenda&ccedil;&otilde;es do Conselho Nacional e Justi&ccedil;a (CNJ). A medida se insere em um conjunto de a&ccedil;&otilde;es estabelecidas pelo TJPE com a finalidade de diminuir atrasos em julgamentos. &Eacute; verdade que, como alega a Associa&ccedil;&atilde;o dos Magistrados de Pernambuco, somente a suspens&atilde;o de f&eacute;rias n&atilde;o garante a agiliza&ccedil;&atilde;o do tr&acirc;mite dos processos, pois ela depende tamb&eacute;m do Minist&eacute;rio P&uacute;blico, de advogados, da Pol&iacute;cia.<br /></p>
+<p><br /></p>
+<p>A Justi&ccedil;a pernambucana &eacute; vista, pelo CNJ, como uma das mais morosas do Pa&iacute;s. Mas a entidade tamb&eacute;m est&aacute; preocupada com o desempenho de outros tribunais, como o TRF da 1&ordf; Regi&atilde;o, com sede em Bras&iacute;lia. Ali, de cada 100 processos recebidos, 67 ficam parados nas prateleiras, e cada juiz &eacute; respons&aacute;vel, em m&eacute;dia, por 12 mil deles. O CNJ determinou inspe&ccedil;&atilde;o naquela corte. A informatiza&ccedil;&atilde;o dos tribunais vem sendo feita com muita lentid&atilde;o. O TJPE est&aacute; no processo de informatiza&ccedil;&atilde;o do Judici&aacute;rio e garante que, at&eacute; setembro, todas as comarcas estar&atilde;o conectadas &agrave; sua rede.</p></p>
+<p><p>&Eacute; dentro desse contexto que se deve prestar aten&ccedil;&atilde;o a decis&atilde;o a ser tomada, pelo Supremo Tribunal Federal (STF), quanto &agrave; compet&ecirc;ncia dos tribunais de contas estaduais (TCEs) para julgar e punir maus gestores de verbas p&uacute;blicas municipais. Esses &oacute;rg&atilde;os auxiliares do Poder Legislativo ficar&atilde;o esvaziados se o STF acatar decis&otilde;es do Superior Tribunal de Justi&ccedil;a (STJ) e do Tribunal Superior Eleitoral (TSE), que s&atilde;o favor&aacute;veis ao esvaziamento das atribui&ccedil;&otilde;es dos TCEs. Com tal diminui&ccedil;&atilde;o de fun&ccedil;&otilde;es, eventuais queixas, que n&atilde;o s&atilde;o poucas, contra os mais de 5 mil prefeitos brasileiros ir&atilde;o para a Justi&ccedil;a ordin&aacute;ria, onde facilmente cair&atilde;o em prescri&ccedil;&atilde;o com as costumeiras apela&ccedil;&otilde;es e morosidade.</p></p>
+<p><p>Conselheiros e t&eacute;cnicos dos TCEs perderiam, caso o STF julgue em conson&acirc;ncia com aqueles tribunais superiores, o poder de punir os privatizadores de dinheiro p&uacute;blico, comprometendo uma das principais atribui&ccedil;&otilde;es dos tribunais de contas, que &eacute; o controle externo. Eles ficariam impedidos de cobrar dos prefeitos, que acumulam a fun&ccedil;&atilde;o de ordenadores de despesas com a de chefes do Executivo, a devolu&ccedil;&atilde;o do que foi gasto indevidamente. E tamb&eacute;m n&atilde;o poderiam mais determinar-lhes multas por irregularidades tecnicamente insan&aacute;veis. Nesse caso, os julgamentos pol&iacute;ticos das C&acirc;maras Municipais v&atilde;o prevalecer e as puni&ccedil;&otilde;es arbitradas pelos TCEs poder&atilde;o ser perdoadas, naquele compadrio e cumplicidade habituais entre prefeitos e vereadores (as exce&ccedil;&otilde;es s&atilde;o poucas).</p></p>
+<p><p>As c&acirc;maras costumam desconsiderar os pareceres dos TCEs. A pol&iacute;tica clientelista &eacute; estimulada. Nas cidades, sobretudo do interior, boa parte das c&acirc;maras de vereadores atua como institui&ccedil;&otilde;es que se limitam a chancelar as a&ccedil;&otilde;es do Poder Executivo. A confirma&ccedil;&atilde;o pelo STF do que j&aacute; decidiram os referidos tribunais superiores vai na dire&ccedil;&atilde;o oposta ao que fez a Controladoria Geral da Uni&atilde;o, que editou uma cartilha ensinando os vereadores a exercerem sua fun&ccedil;&atilde;o constitucional de fiscalizar os gastos p&uacute;blicos das prefeituras de suas cidades.</p></p>
+<p><p>N&atilde;o h&aacute; d&uacute;vida de que, se o Supremo mantiver o entendimento do STJ e do TSE, que s&atilde;o favor&aacute;veis ao esvaziamento das atribui&ccedil;&otilde;es dos TCEs, haver&aacute; um grande retrocesso nos mecanismos hoje dispon&iacute;veis de fiscaliza&ccedil;&atilde;o dos gastos p&uacute;blicos municipais. Se a corrup&ccedil;&atilde;o hoje atinge at&eacute; o Senado Federal, onde se descobriram inclusive atos secretos, uma aberra&ccedil;&atilde;o antirrepublicana s&oacute; compar&aacute;vel aos decretos secretos da ditadura militar, imagine-se se o STF esvaziar os TCEs e confiar a c&acirc;maras c&uacute;mplices a puni&ccedil;&atilde;o de prefeitos faltosos.</p> </p>
+{% endraw %}

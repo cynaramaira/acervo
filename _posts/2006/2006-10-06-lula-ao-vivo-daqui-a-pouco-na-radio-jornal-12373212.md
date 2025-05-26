@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O presidente e candidato à reeleição será o entrevistado de Geraldo Freire, a partir das 11h.</FONT></P></p>
 <p><P><FONT face=Verdana>Ouça <STRONG><EM><A href=\"https://jc3.uol.com.br/radiojornal/\" target=_blank>aqui</A></EM></STRONG>, ao vivo.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

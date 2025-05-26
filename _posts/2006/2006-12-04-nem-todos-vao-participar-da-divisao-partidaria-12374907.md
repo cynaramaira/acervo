@@ -13,8 +13,8 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Mais sobre o BNB, sempre de acordo com Cláudio Humberto:</FONT></P></p>
 <p><P><FONT face=Verdana>Uma diretoria do BNB será indicada pelo PMDB paraibano, que terá de levar em conta a opinião do senador José Sarney (PMDB-AP). </FONT></P></p>
 <p><P><FONT face=Verdana>O governador do Piau?, Welington Dias (PT), ficou de fora do rateio no BNB. Indicará a diretoria da Codevasf, antes confiada ao ex-ministro Ciro Gomes.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

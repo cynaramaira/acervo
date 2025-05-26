@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><FONT size=2></p>
 <p><P><FONT face=Verdana><STRONG>MENDONÇA FILHO (PFL)</STRONG></FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Às 9h</STRONG>, realiza carreata no Ibura, acompanhado do ex-governador Jarbas Vasconcelos (PMDB), e dos senadores Sérgio Guerra (PSDB) e Marco Maciel (PFL). Concentração: Avenida Dom Hélder Câmara, próximo ao Posto de Segurança Comunitária da avenida Recife&nbsp; <BR><BR><STRONG>Às 19h30</STRONG>,&nbsp;&nbsp;concede entrevista ao programa Esporte no 11, da TV Universitária <BR></P></FONT></p>
@@ -30,4 +30,4 @@ imagem: null
 <p><P><FONT face=Verdana>Às 11h</FONT></B><FONT face=Verdana>, no Recife, carreata. Local de concentração: Fábrica Tacaruna </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Às 17h</STRONG>, em São Caetano, caminhada e com?cio </FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Às 20h</STRONG>, em Belo Jardim, caminhada e com?cio </FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

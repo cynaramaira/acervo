@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Assim como nas comunidades de apoio a Mendonça Filho no <STRONG><EM><A href=\"https://www.orkut.com/\" target=_blank>Orkut</A></EM></STRONG>, os aliados de Eduardo Campos começaram a detonar Humberto Costa.</FONT></P></p>
 <p><P><FONT face=Verdana>Na comunidade <EM>Juventude 40 - Eduardo Campos</EM>, que tem 483 membros, foram inclu?das as mesmas informações que aparecem nos fóruns&nbsp;dos grupos pró-Mendonça.<BR><BR></FONT><FONT face=Verdana>Leia nota abaixo.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

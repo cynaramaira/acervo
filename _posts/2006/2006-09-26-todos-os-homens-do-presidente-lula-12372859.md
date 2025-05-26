@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Acabei de postar na seção Artigos, na coluna ao lado, uma interessante análise do jornalista Fernando Castilho, colaborador freqüente do Blog, sobre a situação vivida hoje por Lula&nbsp;- depois de ter perdido seus principais auxiliares, nos últimos meses,&nbsp;abatidos por sucessivos escândalos. Abaixo, alguns trechos do texto.</FONT></P></p>
 <p><P><FONT face=Verdana>Boa leitura.</FONT></P></p>
 <p><P><FONT face=Verdana>-------------------------------------</FONT></P><FONT face=Arial></p>
@@ -24,4 +24,4 @@ imagem: null
 <p><P><FONT face=Verdana>Como Nixon, Lula nega que tivesse conhecimento dos fatos que levaram aos escândalos. Nixon, também, negou que tivesse conhecimento da invasão do prédio da sede do Partido Democrata e só mais tarde admitiu que criara um sistema de gravação de suas conversas. E, alegando privilégio executivo, negou-se a entregar as fitas que provariam suas conversas até ter que renunciar.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia <STRONG><EM><A href=\"https://jc3.uol.com.br/blogs/jc/2006/09/26/not_1781.php\">aqui</A></EM></STRONG></p>
 <p> o texto completo.</FONT></P></FONT> </p>
-{\% endraw %}
+{% endraw %}

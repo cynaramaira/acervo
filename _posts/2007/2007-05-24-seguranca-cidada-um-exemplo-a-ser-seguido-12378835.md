@@ -1,0 +1,26 @@
+---
+id: 12378835
+date: "2007-05-24T13:24:00Z"
+last_modified_at: null
+tags:
+  - "cidadania"
+  - "seguranca"
+categories:
+  - "noticias"
+title: "Seguran\u00e7a cidad\u00e3 - um exemplo a ser seguido"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font size=\"2\"><em>Por Jayme Asfora *</em></font></p></p>
+<p><p align=\"justify\"><font size=\"2\">O ex-secret&aacute;rio de Seguran&ccedil;a Cidad&atilde; de Bogot&aacute;, Hugo Acero, foi a grande vedete dos &uacute;ltimos dias em Pernambuco, cuja capital ocupa o quinto lugar no ranking latino-americano de homic&iacute;dios. Participou de diversas palestras, onde mostrou como conseguiu reduzir a um ter&ccedil;o o n&uacute;mero de homic&iacute;dios naquela cidade em menos de uma d&eacute;cada. O resultado &eacute;, de fato, impressionante. Mas, sem querer em nenhum momento diminuir o enorme m&eacute;rito desse not&aacute;vel administrador p&uacute;blico, que f&oacute;rmula m&aacute;gica ele nos trouxe? </font></p></p>
+<p><p align=\"justify\"><font size=\"2\">A pol&iacute;tica implementada pelo ex-secret&aacute;rio &eacute; pautada em pontos importantes como lideran&ccedil;a forte e leg&iacute;tima, investimentos maci&ccedil;os em educa&ccedil;&atilde;o, reavalia&ccedil;&atilde;o do quadro funcional das pol&iacute;cias e implementa&ccedil;&atilde;o de um sistema carcer&aacute;rio eficaz.</font></p></p>
+<p><p align=\"justify\"><font size=\"2\">H&aacute; quanto nossa popula&ccedil;&atilde;o clama por l&iacute;deres que demonstrem determina&ccedil;&atilde;o no enfrentamento da quest&atilde;o da viol&ecirc;ncia? Temos que entender de uma vez por todas, que nossos &iacute;ndices de viol&ecirc;ncia s&atilde;o compar&aacute;veis aos de pa&iacute;ses que vivem em estado de guerra civil, e destarte &eacute; preciso que nossos governantes, em todas as esferas, n&atilde;o tenham medo de falar grosso com aliados ou advers&aacute;rios. Um l&iacute;der &ndash; em um pa&iacute;s democr&aacute;tico como nosso &ndash; foi colocado nessa posi&ccedil;&atilde;o pelo povo, em todas as esferas da administra&ccedil;&atilde;o, para atender aos seus anseios. E qual &eacute; o maior desejo hoje, de todos os brasileiros, que n&atilde;o o fim da viol&ecirc;ncia? </font></p></p>
+<p><p align=\"justify\"><font size=\"2\">H&aacute; quanto se discute a necessidade de revis&atilde;o de nosso sistema educacional p&uacute;blico? Precisamos de boas escolas, que ofere&ccedil;am muito mais do que o curr&iacute;culo tradicional. Aqui aproveito para elogiar a experi&ecirc;ncia desenvolvida pelo ex-secret&aacute;rio de Educa&ccedil;&atilde;o e atual deputado Federal Raul Henry que criou o programa Escola Aberta que oferecia atividades extra-curriculares inclusive nos finais de semana.</font></p></p>
+<p><p align=\"justify\"><font size=\"2\">H&aacute; quanto se discute a necessidade de se tomar medidas dr&aacute;sticas em rela&ccedil;&atilde;o aos maus policiais? Acero tamb&eacute;m mostrou que &eacute; preciso cortar na pr&oacute;pria carne. Ou seja, expurgar das pol&iacute;cias os maus policiais. A Corregedoria da Secretaria de Defesa Social precisa agir com rigor e agilidade como n&atilde;o tem agido, servindo como exemplo de atua&ccedil;&atilde;o forte e imparcial contra uma minoria que macula a imagem da corpora&ccedil;&atilde;o. Basta apenas que seja seguido o exemplo preconizado pela Comiss&atilde;o Parlamentar de Inqu&eacute;rito (CPI) do Narcotr&aacute;fico de 2001 &ndash; da qual fiz parte - que previa uma Corregedoria supracorporativa, forte, independente e, na qual, o Minist&eacute;rio P&uacute;blico teria assento e as comiss&otilde;es mais importantes &ndash; como a que apura den&uacute;ncias contra delegados &ndash; fossem presididas por Procuradores do Estado. </font></p></p>
+<p><p align=\"justify\"><font size=\"2\">E chegamos ao processo de puni&ccedil;&atilde;o dos criminosos. Os direitos humanos precisam ser respeitados. Ali&aacute;s, segundo Acero, &quot;os direitos humanos dever ser garantia e fundamento da seguran&ccedil;a&quot;. Mas os direitos humanos s&atilde;o para todos os cidad&atilde;os: pobres, classe m&eacute;dia e mais abastados. H&aacute; quanto nos revoltamos com as reportagens dos telejornais mostrando os verdadeiros resorts montados dentro das penitenci&aacute;rias? &Eacute; preciso acabar com as col&ocirc;nias de f&eacute;rias sustentadas com o dinheiro p&uacute;blico. A liberdade de a&ccedil;&atilde;o dentro dos pres&iacute;dios &eacute; inaceit&aacute;vel. Nas penitenci&aacute;rias brasileiras, n&atilde;o &eacute; administra&ccedil;&atilde;o carcer&aacute;ria que manda. E sim as organiza&ccedil;&otilde;es mafiosas que atuam dentro e fora das grades, comandadas por nomes como Marcola e Fernandinho Beira-Mar.</font></p></p>
+<p><p align=\"justify\"><font size=\"2\">Acredito, portanto, que Hugo Acero nos trouxe a mais valorosa das contribui&ccedil;&otilde;es. Ele mostrou que &eacute; poss&iacute;vel se fazer, e fazer r&aacute;pido, pois, com certeza, no momento em que muitos assistiam sua palestra, uma nova v&iacute;tima da viol&ecirc;ncia urbana do Recife entrava para nossas cru&eacute;is estat&iacute;sticas.</font></p></p>
+<p><p align=\"justify\"><font size=\"2\">* <em>Jayme Asfora &eacute; presidente da OAB-PE e escreve para o blog &agrave;s quintas.</em></font></p> </p>
+{% endraw %}

@@ -1,0 +1,45 @@
+---
+id: 12388803
+date: "2008-05-11T19:31:00Z"
+last_modified_at: null
+tags:
+  - "dilma"
+  - "governo"
+categories:
+  - "noticias"
+title: "Governo dos EUA encomendou dossi\u00ea sobre Dilma"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\" size=\"2\">Do Blog de Josias</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O documento tem quatro folhas. Traz o carimbo de &ldquo;sens&iacute;vel&rdquo;. Tem cara de dossi&ecirc;. Um dossi&ecirc; sobre Dilma Rousseff. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Produzido pelo Consulado dos EUA em S&atilde;o Paulo, foi ao banco de dados do Departamento de Estado norte-americano, em Washington. A migra&ccedil;&atilde;o ocorreu em 21 de junho de 2005. </font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Na v&eacute;spera, Dilma assumira a chefia da Casa Civil de Lula. &ldquo;Ela ocupou o lugar de Jos&eacute; Dirceu, que caiu fora, semana passada, por causa de um esc&acirc;ndalo de corrup&ccedil;&atilde;o&rdquo;, anota o texto remetido a Washington.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">O documento foi obtido pelo di&aacute;rio ga&uacute;cho &ldquo;Zero Hora&rdquo;, que o publicou em sua edi&ccedil;&atilde;o deste domingo. Coisa fina. Cont&eacute;m oito t&oacute;picos. Lendo-os, descobre-se que Dilma foi virada do avesso pela equipe de informa&ccedil;&atilde;o do consulado paulistano dos EUA.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Varreram a biografia de Dilma do nascimento, em 14 de dezembro de 1947, no Estado de Minas Gerais, &agrave; chegada ao Planalto. No geral, &eacute; apresentada como um cacto. Abundam no texto os adjetivos h&iacute;spidos: &ldquo;durona&rdquo;, &ldquo;exigente&rdquo;, &ldquo;workaholic&rdquo;.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">N&atilde;o escaparam, por&eacute;m, os detalhes mais l&uacute;dicos e prosaicos: &ldquo;Ela gosta de cinema e m&uacute;sica cl&aacute;ssica. Recentemente, ela perdeu peso, depois de [...] adotar a dieta do presidente [Lula]&rdquo;.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Nos trechos dedicados &agrave; mocidade da ministra, o documento esbo&ccedil;a o retrato de uma mocinha dona de agressivas certezas dogm&aacute;ticas. Foi ao c&aacute;rcere da ditadura precedida de inquietante legenda.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">Diz o documento, a certa altura: &ldquo;Ela foi capturada pelo Regime e aprisionada por tr&ecirc;s anos (o oficial se referiu a ela como Joana D\arc dos subversivos)&rdquo;. Padeceu &ldquo;22 dias de brutal tortura de eletrochoque&rdquo;.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">V&atilde;o abaixo algumas das informa&ccedil;&otilde;es guardadas nos arquivos de Washington:</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>Joana d\Arc dos subversivos torna-se chefe da Casa Civil</strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&Eacute; esse o subt&iacute;tulo do item dois do &ldquo;dossi&ecirc; Dilma&rdquo;. Anota: &ldquo;No dia 21 de Julho [de 2005], o presidente Lula nomeou Dilma Rousseff, 57, como sua nova ministra-chefe da Casa Civil. Ela ocupou o lugar de Jos&eacute; Dirceu, que caiu fora, semana passada, por causa de um esc&acirc;ndalo de corrup&ccedil;&atilde;o. Dirceu estava envolvido profundamente nas estrat&eacute;gias pol&iacute;ticas da administra&ccedil;&atilde;o, mas Rousseff anunciou na sua cerim&ocirc;nia de posse que tem a inten&ccedil;&atilde;o de se focar mais em colocar em andamento a agenda pol&iacute;tica administrativa [...]&rdquo;;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>Gestora durona</strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&ldquo;Rousseff entrou para o PT em 2001 e trabalhou no processo de transi&ccedil;&atilde;o de governo em 2002. Ela &eacute; uma gestora durona e exigente, que vai perseguir a qualifica&ccedil;&atilde;o da implementa&ccedil;&atilde;o de pol&iacute;ticas administrativas. Ela est&aacute; menos para o pol&iacute;tico de holofote, como [Jos&eacute;] Dirceu, de ringue pol&iacute;tico, por ser mais focada em atacar a &quot;burocracia&quot;.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>Assaltos a banco e guerrilha</strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&ldquo;Dilma Vana Rousseff nasceu em 14 de dezembro de 1947, o Estado de Minas Gerais. Seu pai era um promotor b&uacute;lgaro, que se naturalizou e tinha cidadania brasileira. Ela se tornou ativamente envolvida com a oposi&ccedil;&atilde;o ao regime da dtadura mlitar em 1967, aos 19 anos, enquanto cursava Economia em Minas Gerais. Entrou para v&aacute;rios grupos clandestinos, organizou tr&ecirc;s assaltos a banco e ent&atilde;o foi co-fundadora do grupo de guerrilha chamado Vanguarda Revolucion&aacute;ria Armada de Palmares&rdquo;;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>&quot;Theft of Adhemar&rsquo;s Safe&quot;</strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&quot;Em 1969, ela planejou um assalto lend&aacute;rio conhecido como &lsquo;o roubo do cofre de Adhemar&rsquo;. A opera&ccedil;&atilde;o arrombou o apartamento carioca da amante do ent&atilde;o governador de S&atilde;o Paulo, Adhemar de Barros, recolhendo US$ 2,5 milh&otilde;es que Ademar guardava no local&quot;;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>Marido seq&uuml;estrador e eletrocoques</strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&ldquo;Rousseff se separou do primeiro marido, Cl&aacute;udio Linhares, que, em janeiro de 1970, seq&uuml;estrou um avi&atilde;o para Cuba e permaneceu l&aacute;. Naquele mesmo m&ecirc;s, ela foi capturada pelo Regime e aprisionada por tr&ecirc;s anos (o oficial se referiu a ela como Joana D\arc dos subversivos), incluindo 22 dias de brutal tortura de eletrochoque&rdquo;;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>Forma&ccedil;&atilde;o acad&ecirc;mica e gostos pessoais</strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&ldquo;Rousseff tem grau de mestre em Teoria Econ&ocirc;mica pela Universidade de Campinas e um doutorado n&atilde;o conclu&iacute;do em Economia. Em 1992, ela participou como visitante de um programa internacional nos EUA. Ela est&aacute; atualmente separada do seu segundo marido (que tamb&eacute;m era um militante da oposi&ccedil;&atilde;o). Ela tem uma filha, Paula, em Porto Alegre, onde ela passa os finais de semana. Ela gosta de cinema e m&uacute;sica cl&aacute;ssica. Recentemente ela perdeu peso, depois de, alega-se, adotar a dieta do presidente&rdquo;;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>Da desconfian&ccedil;a aos elogios</strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&ldquo;Com seu background t&eacute;cnico e um estilo no-nonsense, Rousseff recebeu respeito relutante do setor da Energia. Enquanto as Cias. norte-americanas estavam inicialmente desconfiadas quando ela foi designada para o cargo de [ministra das Minas e] Energia, agora admitem que ela fez um trabalho competente. Em particular eles a sa&uacute;dam por sua disposi&ccedil;&atilde;o em ouvir e responder posi&ccedil;&otilde;es e id&eacute;ias, mesmo quando est&aacute; inclinada a uma conclus&atilde;o diferente. Ela tem a uma reputa&ccedil;&atilde;o de negociadora dura, ser persistente e de prestar muita aten&ccedil;&atilde;o aos detalhes. Adjetivos usados aqui por aqueles que trabalham com ela incluem exigente e workaholic&rdquo;;</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>Inapet&ecirc;ncia pol&iacute;tica</strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&ldquo;Diferentemente de Jos&eacute; Dirceu, Rousseff nunca foi eleita para cargo p&uacute;blico e seus contatos com o Congresso s&atilde;o limitados, o que sugere que a coordena&ccedil;&atilde;o pol&iacute;tica da administra&ccedil;&atilde;o ser&aacute; tarefa de outros. A imprensa diz que Lula espera que ela produza um &quot;choque de gest&atilde;o&quot; na administra&ccedil;&atilde;o, a qual, por causa da inefici&ecirc;ncia administrativa, entraves burocr&aacute;ticos e, mais recentemente, pelos muitos esc&acirc;ndalos de corrup&ccedil;&atilde;o, encontra-se estagnada.</font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\"><strong>Queixas de aliados</strong></font></p></p>
+<p><p><font face=\"Verdana\" size=\"2\">&ldquo;Alguns no Congresso reclamam que Rousseff n&atilde;o entende de pol&iacute;tica partid&aacute;ria. Em abril [de 2005], o Senado rejeitou [uma] nomea&ccedil;&atilde;o para a Ag&ecirc;ncia Nacional de Combust&iacute;veis em retalia&ccedil;&atilde;o pela oposi&ccedil;&atilde;o dela &agrave; nomea&ccedil;&atilde;o de um aliado do partido PMDB para uma subsidi&aacute;ria da Eletrobr&aacute;s, Companhia Estatal de Eletricidade (Rousseff optou por dar a posi&ccedil;&atilde;o para Adhemar Palocci, irm&atilde;o do [ent&atilde;o] ministro Ant&ocirc;nio Palocci)&rdquo;.</font></p> </p>
+{% endraw %}

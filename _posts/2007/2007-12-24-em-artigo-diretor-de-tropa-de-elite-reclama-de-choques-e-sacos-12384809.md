@@ -1,0 +1,35 @@
+---
+id: 12384809
+date: "2007-12-24T17:06:00Z"
+last_modified_at: null
+tags:
+  - "artigo"
+  - "diretor"
+  - "poliomielite"
+  - "tropas-federais"
+categories:
+  - "noticias"
+title: "Em artigo, diretor de Tropa de Elite reclama de choques e sacos pl\u00e1sticos em delegacias"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font face=\"Verdana\">Cultura e viol&ecirc;ncia</font></p></p>
+<p><p><font face=\"Verdana\">Por <strong>Jos&eacute; Padrilha</strong></font></p></p>
+<p><p><font face=\"Verdana\">TODA NOITE , milhares de brasileiros n&atilde;o conseguem dormir por falta de espa&ccedil;o. Eles vivem em celas superlotadas, projetadas para tr&ecirc;s ou quatro pessoas, mas ocupadas por mais de 20. A maioria est&aacute; doente e sofre de dist&uacute;rbios mentais. S&atilde;o mal alimentados e subjugados por organiza&ccedil;&otilde;es criminosas. E est&atilde;o sob a tutela do Estado. </font></p></p>
+<p><p><font face=\"Verdana\">Todo dia, dezenas de brasileiros s&atilde;o asfixiados em sacos pl&aacute;sticos, submetidos a choques el&eacute;tricos, espancados. S&atilde;o jovens favelados, muitos deles traficantes que foram capturados por agentes do Estado, policiais civis ou militares. </font></p></p>
+<p><p><font face=\"Verdana\">Neste ano, de acordo com as estat&iacute;sticas oficiais, mais de 1.300 jovens foram mortos por policiais no Estado do Rio de Janeiro. Em S&atilde;o Paulo, cerca de 500. A maioria deles com sinais inequ&iacute;vocos de execu&ccedil;&atilde;o. Para ter uma id&eacute;ia de qu&atilde;o estarrecedores s&atilde;o esses n&uacute;meros, nos EUA, um pa&iacute;s que tem 300 milh&otilde;es de habitantes, a pol&iacute;cia mata cerca 200 pessoas por ano. O que n&oacute;s brasileiros fazemos ante tamanha brutalidade? Infelizmente, acho que a resposta &eacute; muito pouco ou quase nada. N&atilde;o nos revoltamos. N&atilde;o organizamos protestos nem marchamos em dire&ccedil;&atilde;o ao Pal&aacute;cio do Planalto. Aceitamos a viol&ecirc;ncia do Estado e de seus agentes com estranha passividade. Ser&aacute; que n&atilde;o nos importamos com os direitos humanos? </font></p></p>
+<p><p><font face=\"Verdana\">Postas assim, essas quest&otilde;es parecem pertencer exclusivamente ao campo da &eacute;tica. Todavia, tenho a impress&atilde;o de que a forma pela qual reagimos &agrave; viol&ecirc;ncia tem uma forte rela&ccedil;&atilde;o com a pr&oacute;pria exist&ecirc;ncia dessa viol&ecirc;ncia. Suspeito que a nossa passividade perante a viol&ecirc;ncia do Estado seja uma de suas causas. </font></p></p>
+<p><p><font face=\"Verdana\">A antropologia evolutiva parece corroborar essa tese. O comportamento humano foi moldado ao longo de milhares de anos de evolu&ccedil;&atilde;o. Na maior parte desse per&iacute;odo, vivemos em pequenos grupos sociais, as tribos. Eram grupos em que todos os indiv&iacute;duos se conheciam mutuamente e precisavam cooperar para sobreviver. Por isso, muitos bi&oacute;logos defendem a id&eacute;ia de que a coopera&ccedil;&atilde;o e a compaix&atilde;o, instintos que se op&otilde;em &agrave; agressividade, evolu&iacute;ram para operar s&oacute; entre indiv&iacute;duos de uma mesma tribo, indiv&iacute;duos que se conhecem. </font></p></p>
+<p><p><font face=\"Verdana\">Para tais bi&oacute;logos, esses instintos n&atilde;o operam fortemente entre desconhecidos. Diz o famoso zo&oacute;logo Desmond Morris: &quot;Uma rela&ccedil;&atilde;o despersonalizada n&atilde;o &eacute; uma rela&ccedil;&atilde;o biologicamente humana&quot;. E Edmund Wilson, professor de Harvard: &quot;Do ponto de vista da biologia, o que precisa de explica&ccedil;&atilde;o &eacute; a paz, n&atilde;o a guerra&quot;. </font></p></p>
+<p><p><font face=\"Verdana\">A julgar pela forma como reagimos &agrave; situa&ccedil;&atilde;o da seguran&ccedil;a p&uacute;blica no Brasil, Morris e Wilson t&ecirc;m raz&atilde;o. A maioria de n&oacute;s n&atilde;o conhece pessoalmente as v&iacute;timas usuais da viol&ecirc;ncia no Brasil, que s&atilde;o miser&aacute;veis e favelados. Talvez por isso n&atilde;o nos importemos tanto assim com as viola&ccedil;&otilde;es de seus direitos humanos. A coisa muda de figura, claro, quando a v&iacute;tima &eacute; nosso parente ou vizinho. A&iacute; a biologia entra em campo e ficamos revoltados a ponto de protestar ostensivamente. Mas, nesse caso, vale notar, n&atilde;o protestamos por raz&otilde;es culturais, mas sim por instinto. </font></p></p>
+<p><p><font face=\"Verdana\">Se &eacute; verdade que n&atilde;o temos fortes instintos biol&oacute;gicos de compaix&atilde;o e coopera&ccedil;&atilde;o para com indiv&iacute;duos que n&atilde;o conhecemos, como &eacute; que algumas sociedades conseguem controlar a viol&ecirc;ncia em geral e a viol&ecirc;ncia do Estado em particular? </font></p></p>
+<p><p><font face=\"Verdana\">Creio que existe um forte componente cultural associado ao controle da viol&ecirc;ncia e que este controle funciona melhor onde existe uma &eacute;tica social que valoriza o respeito ao indiv&iacute;duo e as liberdades individuais. As rea&ccedil;&otilde;es sociais &agrave; viol&ecirc;ncia do Estado n&atilde;o parecem se fundar nas id&eacute;ias de coletividade e coopera&ccedil;&atilde;o, mas na id&eacute;ia de que os indiv&iacute;duos n&atilde;o devem tolerar um Estado que pratique viol&ecirc;ncia contra os seus cidad&atilde;os sob pena de eles serem a pr&oacute;xima v&iacute;tima. </font></p></p>
+<p><p><font face=\"Verdana\">Isso explicaria por que os Estados que se constitu&iacute;ram a partir de id&eacute;ias totalit&aacute;rias associadas &agrave; coletividade foram, ao longo da hist&oacute;ria, muito violentos. Vide a China de Mao Tse-tung, a Alemanha nacionalista de Hitler ou a Uni&atilde;o Sovi&eacute;tica de St&aacute;lin. </font></p></p>
+<p><p><font face=\"Verdana\">Por outro lado, os Estados modernos que aliaram a democracia ao respeito ao indiv&iacute;duo, como Inglaterra e Fran&ccedil;a, foram muito menos violentos. Se esse racioc&iacute;nio est&aacute; correto, o problema da viol&ecirc;ncia urbana no Brasil tem um forte componente cultural e est&aacute; associado ao fato de n&atilde;o termos uma tradi&ccedil;&atilde;o expl&iacute;cita de respeito aos direitos e &agrave;s liberdades individuais. </font></p></p>
+<p><p><font face=\"Verdana\">Nesse cen&aacute;rio, podemos imaginar que a grande interfer&ecirc;ncia dos governos brasileiros na economia, a alta carga tribut&aacute;ria que pagamos sem protestar e a nossa grande toler&acirc;ncia com a corrup&ccedil;&atilde;o tenham muito a ver com a morte do garoto de 15 anos que tomou 30 choques el&eacute;tricos pelo corpo e com a pris&atilde;o da adolescente em meio a homens no Par&aacute; -ambos sob a tutela do Estado. </font></p></p>
+<p><p><font face=\"Verdana\">PS: Jos&eacute; Padilha, 40, &eacute; cineasta, diretor dos filmes &quot;&Ocirc;nibus 174&quot; e &quot;Tropa de Elite&quot;.<br /></p>
+<p></font></p> </p>
+{% endraw %}

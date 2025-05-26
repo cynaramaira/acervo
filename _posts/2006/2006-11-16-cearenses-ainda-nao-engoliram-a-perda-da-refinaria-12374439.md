@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>Pois eles estão indignados, irados mesmo com o presidente Lula, que tomou a decisão pol?tica de transferir o projeto para Pernambuco.</FONT></P></p>
 <p><P><FONT face=Verdana>Veja o que o jornal O Povo publicou nesta quarta-feira:</FONT></P></p>
 <p><P><FONT face=Verdana><STRONG>Petrobras em Pernambuco desrespeita o Ceará</STRONG></FONT></P></p>
@@ -26,4 +26,4 @@ imagem: null
 <p><P><BR><FONT face=Verdana><STRONG>É HORA DOS NOSSOS REPRESENTANTES AGIREM</STRONG> </FONT></P></p>
 <p><P><FONT face=Verdana>E de quem devemos cobrar? De todos os nossos representantes. Principalmente dos lulistas de primeira e de segunda hora. Cid Gomes, mais que Lúcio, deve ser cobrado. Ele ainda não assumiu o cargo de governador, mas já tem legitimidade e influência para agir. Devem ser cobrados, e muito, todos os petistas. É hora de largar o osso já ro?do das pequenas e politiqueiras benesses federais e tratar de grandes temas. Dos temas que de fato importam. É hora de cobrar da dita esquerda. É hora de cobrar do futuro deputado federal Ciro Gomes, o mais votado do Brasil, o ex-ministro de Lula que pensou a nova Sudene, a transposição, a Transnordestina. É hora de cobrar de Eun?cio Oliveira, outro ex-ministro reeleito federal com grande votação. É hora de cobrar dos mais e dos menos votados.</FONT></P></p>
 <p><P><FONT face=Verdana>Leia mais <STRONG><EM><A href=\"https://www.opovo.com.br/opovo/colunas/politica/647660.html\" target=_blank>aqui</A></EM></STRONG>.</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

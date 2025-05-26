@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><FONT face=Verdana>Mais da metade dos internautas classifica de&nbsp;\"feia\" a decoração natalina da Prefeitura do Recife.</FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><FONT face=Verdana>&nbsp;</FONT><FONT face=Verdana></FONT></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><FONT face=Verdana>Hoje, no final do dia,&nbsp;encerraremos a votação. Participe!&nbsp;D<FONT color=#333333>ê sua opinião na coluna ao lado! </FONT></FONT></P></p>
@@ -36,4 +36,4 @@ imagem: null
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"mso-bookmark: 3960\"><SPAN style=\"COLOR: #333333\"><FONT size=3><FONT face=\"Times New Roman\">&nbsp;<o:p></o:p></FONT></FONT></SPAN></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"mso-bookmark: 3960\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: #333333; FONT-FAMILY: Verdana\">Total: 360 pessoas<o:p></o:p></SPAN></SPAN></P></p>
 <p><P class=MsoNormal style=\"MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto\"><SPAN style=\"mso-bookmark: 3960\"><SPAN style=\"FONT-SIZE: 10pt; COLOR: #333333; FONT-FAMILY: Verdana\"></SPAN></SPAN>&nbsp;</P> </p>
-{\% endraw %}
+{% endraw %}

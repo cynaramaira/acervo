@@ -15,7 +15,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><B><FONT size=2></p>
 <p><P></B><FONT face=Verdana>O Departamento de Comunicação da Pol?cia Federal informou que estão liberadas, desde às 17h desta sexta-feira (17), as 16 pessoas presas durante a Operação Alcaides, deflagrada pela PF para investigar fraudes em licitações e desvio de verbas em prefeituras do Agreste de Pernambuco. </FONT></P></p>
 <p><P></p>
@@ -34,4 +34,4 @@ imagem: null
 <p><P><FONT face=Verdana>As empresas vencedoras da licitação não prestavam o serviço ou não entregavam o material comprado, mas apresentavam notas fiscais falsas às prefeituras para que os governos municipais pudessem elaborar prestações de contas fraudulentas.</FONT></P></p>
 <p><P><FONT face=Verdana>Com essas prestações, a verba era liberada pela União e o dinheiro era sacado pelos próprios prefeitos, tesoureiros, secretários de Finanças ou terceiros que não tinham ligações com as empresas supostamente contratadas.</FONT></P></p>
 <p><P><FONT face=Verdana>No dicionário, <B>Alcaide</B> é uma palavra do português antigo que quer dizer antigo governador de castelo, prov?ncia ou comarca, com jurisdição civil e militar; atualmente, autoridade da administração espanhola com funções que correspondem às de prefeito.</FONT></FONT></P> </p>
-{\% endraw %}
+{% endraw %}

@@ -13,7 +13,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><FONT face=Verdana>O ex-governador Miguel Arraes faleceu há pouco mais de um ano e, se já era tratado como mito, mitificou-se ainda mais após a morte.</FONT></P></p>
 <p><P><FONT face=Verdana>Não foi por outra razão que o guia eleitoral da União por Pernambuco, coligação que apóia o governador e candidato à reeleição Mendonça Filho (PFL), em nenhum momento o atacou diretamente.</FONT></P></p>
 <p><P><FONT face=Verdana>A União bateu</p>
@@ -39,4 +39,4 @@ imagem: null
 <p><P><FONT face=Verdana>Além disso, alguma munição, por exemplo, denúncias relacionadas à administração do Estado, foram guardadas no primeiro turno, quando o segundo mostrou-se mais claro nos cenários da reta final.</FONT></P></p>
 <p><P><FONT face=Verdana>No geral, no entanto, a campanha de Eduardo continuará propositiva, na base da paz, do amor e do alto astral.</FONT></P></p>
 <p><P><FONT face=Verdana>No segundo turno, a partir de amanhã, haverá espaço para as três coisas. Inclusive porque os dois candidatos terão o mesmo tempo no guia eleitoral (dez minutos cada um).</FONT></P> </p>
-{\% endraw %}
+{% endraw %}

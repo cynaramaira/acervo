@@ -14,7 +14,7 @@ chapeu: null
 autor: null
 imagem: null
 ---
-{\% raw %}
+{% raw %}
 <p><P><SPAN style=\"FONT-FAMILY: Verdana\">Do portal G1<?xml:namespace prefix = o ns = \"urn:schemas-microsoft-com:office:office\" /><o:p></o:p></SPAN></P></p>
 <p><P><SPAN style=\"FONT-FAMILY: Verdana\">Com um discurso contundente na abertura da reunião do Diretório Nacional do PT, o presidente Luiz Inácio Lula da Silva pregou neste sábado,<SPAN style=\"COLOR: black\"> <?xml:namespace prefix = st1 ns = \"urn:schemas-microsoft-com:office:smarttags\" /><st1:PersonName w:st=\"on\" ProductID=\"em São Paulo\">em São Paulo</st1:PersonName>,</SPAN> a unidade do partido e disse que os petistas não podem aceitar divergências e \"provocações\" feitas por adversários sobre a montagem do governo. <o:p></o:p></SPAN></P></p>
 <p><P><SPAN style=\"FONT-FAMILY: Verdana\">Lula afirmou que o PT precisa corrigir seus erros, mas não deve cair em armadilhas criadas pela oposição nem se perder em disputas pequenas. \"Para mim, não tem essa discussão se vai ter mais PT, menos PT, mais PMDB, menos PMDB, menos PL, mais PL. Vamos discutir isso no momento apropriado. Não podemos aceitar essas divergências que tentam colocar na nossa boca e a gente passa a respondê-las\", disse o presidente.<o:p></o:p></SPAN></P></p>
@@ -31,4 +31,4 @@ imagem: null
 <p><P><B style=\"mso-bidi-font-weight: normal\"><SPAN style=\"FONT-FAMILY: Verdana\">APELO <o:p></o:p></SPAN></B></P></p>
 <p><P><SPAN style=\"FONT-FAMILY: Verdana\">Lula fez, ainda, um \"apelo\", para que o PT \"volte a ser exemplo\" no Brasil. Argumentou que precisa da ajuda do partido para \"destravar\" o Pa?s e fazer as reformas necessárias. \"Hoje não temos mais o FMI dando palpite na economia. É só a gente ter coragem de fazer o que precisa ser feito\", disse. Depois, olhando para o ministro da Fazenda,</p>
 <p> Guido Mantega, brincou: \"O Mantega está ali com uma cara de preocupado\". Foi uma risada geral.<o:p></o:p></SPAN></P> </p>
-{\% endraw %}
+{% endraw %}
