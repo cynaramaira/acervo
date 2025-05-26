@@ -1,0 +1,55 @@
+---
+id: 12450338
+date: "2013-06-28T13:52:00Z"
+last_modified_at: null
+tags:
+  - "brasileirao"
+  - "estudantes"
+  - "pernambucanos"
+categories:
+  - "colunistas"
+title: "A primavera brasileira e a volta dos estudantes pernambucanos \u00e0s ruas"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;"></p>
+<p>	Por Pedro Henrique Reynaldo Alves, presidente da OAB-PE<br /></p>
+<p>	<br /></p>
+<p>	Assistimos perplexos e maravilhados, nas &uacute;ltimas semanas, eclodirem nas ruas das principais cidades de nosso Pa&iacute;s, mobiliza&ccedil;&otilde;es e passeatas aglutinando multid&otilde;es, movidas pelas mais variadas causas e bandeiras e igualmente imbu&iacute;dos de sentimentos e prop&oacute;sitos dos mais diversos. Indigna&ccedil;&atilde;o, frustra&ccedil;&atilde;o, descren&ccedil;a, raiva, patriotismo, entusiasmo v&ecirc;m animando manifestantes de v&aacute;rias &ldquo;tribos&rdquo; a ganharem as ruas e transformarem o Brasil. Transformar exatamente no que e de que forma eles, assim como todos n&oacute;s, ainda n&atilde;o sabem, mas o pr&oacute;prio levante em si mesmo j&aacute; constitui uma transforma&ccedil;&atilde;o ben&eacute;fica, que nos leva a crer que &ldquo;nada do que foi ser&aacute; de novo do jeito que j&aacute; foi um dia&rdquo;.<br /></p>
+<p>	<br /></p>
+<p>	Na condi&ccedil;&atilde;o de eterno estudante, n&atilde;o ousarei decifrar as causas e conseq&uuml;&ecirc;ncias desse fen&ocirc;meno s&oacute;cio-pol&iacute;tico, que tem ocupado as mentes bem mais brilhantes de nossos cientistas pol&iacute;ticos, fil&oacute;sofos e soci&oacute;logos, mas quero me deter aqui na animadora e determinante participa&ccedil;&atilde;o de nossas lideran&ccedil;as estudantis, que sempre tiveram um papel de grande influ&ecirc;ncia na transforma&ccedil;&atilde;o de nossa sociedade.<br /></p>
+<p>	<br /></p>
+<p>	Por muito tempo o movimento estudantil parecia adormecido ou entorpecido num sono let&aacute;rgico, deixando de se manifestar sobre temas palpitantes e que dizem respeito a suas bandeiras hist&oacute;ricas de luta. Nos &uacute;ltimos anos, foram muitos temas e fatos que propiciaram f&eacute;rteis discuss&otilde;es e rea&ccedil;&otilde;es de setores da sociedade civil, em raz&atilde;o da atua&ccedil;&atilde;o do Governo Federal, onde o embara&ccedil;oso sil&ecirc;ncio das lideran&ccedil;as estudantis colocou em d&uacute;vida a autonomia dos diret&oacute;rios e uni&otilde;es de estudantes, que sempre tiveram estreita liga&ccedil;&atilde;o com partidos pol&iacute;ticos da chamada esquerda.<br /></p>
+<p>	<br /></p>
+<p>	Foi assim, por exemplo, com os ensaios de Estado Policial que se instaurou no Pa&iacute;s em 2005, ou mesmo nas ex&oacute;ticas id&eacute;ias de limita&ccedil;&atilde;o da imprensa livre, periodicamente suscitadas, nos escandalosos casos de corrup&ccedil;&atilde;o (valerioduto, mensal&atilde;o etc.), e ainda, mais recentemente, nas (necess&aacute;rias) privatiza&ccedil;&otilde;es de equipamentos de infraestrutura, como aeroportos, portos e rodovias, onde n&atilde;o se ouviu ou vislumbrou qualquer cr&iacute;tica ou rea&ccedil;&atilde;o mais veemente dos estudantes.<br /></p>
+<p>	<br /></p>
+<p>	As suspeitas de coopta&ccedil;&atilde;o pol&iacute;tico-partid&aacute;ria chegaram a colocar em xeque a pr&oacute;pria credibilidade dos diret&oacute;rios e uni&otilde;es acad&ecirc;micas, que se limitaram por algum tempo a tratar de quest&otilde;es intestinas das faculdades, se afastando dos grandes temas da sociedade que sempre deram vida a tais institui&ccedil;&otilde;es.<br /></p>
+<p>	<br /></p>
+<p>	A presen&ccedil;a novamente do povo nas ruas e em especial dos estudantes pernambucanos, nos encheu de alegria e esperan&ccedil;a j&aacute; que o nosso Brasil carece de mudan&ccedil;as profundas, e estas n&atilde;o se d&atilde;o sem uma participa&ccedil;&atilde;o efetiva da nossa juventude, a quem cabe veicular, com a for&ccedil;a de sua paix&atilde;o, todos os anseios da nova gera&ccedil;&atilde;o por uma na&ccedil;&atilde;o mais justa, fraterna e solid&aacute;ria.<br /></p>
+<p>	<br /></p>
+<p>	Certamente que nem tudo s&atilde;o flores nessas manifesta&ccedil;&otilde;es que v&ecirc;m envolvendo grandes massas, ocorrendo reprov&aacute;veis excessos por parte de alguns manifestantes, ou mesmo de v&acirc;ndalos infiltrados nas mobiliza&ccedil;&otilde;es.&nbsp; Na dispers&atilde;o da passeata realizada no Recife na &uacute;ltima quarta-feira, cenas de quebra-quebra e enfrentamento destoaram do clima harm&ocirc;nico e pac&iacute;fico no qual se deram as diversas manifesta&ccedil;&otilde;es em territ&oacute;rio pernambucano.<br /></p>
+<p>	<br /></p>
+<p>	O resultado de tal enfrentamento revelou alguns danos ao patrim&ocirc;nio privado e p&uacute;blico, e, ainda foram vitimados alguns poucos policiais, alvejados com pedras no cumprimento de seu dever. Isso, contudo, por mais cruel que pare&ccedil;a, faz parte dos riscos da atividade policial, inerentes a essa importante miss&atilde;o p&uacute;blica, e portanto n&atilde;o pode justificar abuso de autoridade muito menos o uso injustificado de viol&ecirc;ncia em uma manifesta&ccedil;&atilde;o predominantemente pac&iacute;fica.<br /></p>
+<p>	<br /></p>
+<p>	Da mesma forma que acho ris&iacute;vel se criticar o trabalho das Comiss&otilde;es da Verdade em todo Pa&iacute;s, por n&atilde;o se ocuparem dos fatos violentos perpetrados pelos militantes de esquerda contra agentes do establishment, tamb&eacute;m recha&ccedil;o aqueles que pretendem justificar viol&ecirc;ncia e arbitrariedade policial em raz&atilde;o de agress&otilde;es ou amea&ccedil;as sofridas pelos agentes da pol&iacute;cia. A l&oacute;gica para desconstruir essas duas equivocadas e reacion&aacute;rias vis&otilde;es &eacute; a mesma: o Estado deve servir ao cidad&atilde;o, inclusive propiciando-lhe seguran&ccedil;a, sempre pautado pela lei e respeito &agrave;s garantias individuais constitucionalmente asseguradas.<br /></p>
+<p>	<br /></p>
+<p>	Enquanto compete ao pr&oacute;prio Estado, atrav&eacute;s da Pol&iacute;cia, Minist&eacute;rio P&uacute;blico e Poder Judici&aacute;rio, perseguir e punir, de acordo com a lei, aqueles que agridem pessoas (policiais ou n&atilde;o), n&atilde;o &eacute; dado &agrave; sociedade exercer suas pr&oacute;prias raz&otilde;es para perseguir e punir agentes do Estado que tamb&eacute;m incorram em agress&atilde;o.&nbsp;&nbsp; &nbsp;<br /></p>
+<p>	<br /></p>
+<p>	L&iacute;deres estudantis com suas caras pintadas de verde amarelo, ou azul e branco, bradando gritos de ordem, seja com que mensagem for, desde que de conte&uacute;do pac&iacute;fico, n&atilde;o podem ser confundidos com v&acirc;ndalos e criminosos, que geralmente se escondem atr&aacute;s de m&aacute;scaras ou camisas amarradas ao rosto. Coloc&aacute;-los num mesmo &ldquo;balaio&rdquo; e dispensar-lhes igual tratamento &eacute; querer negar a hist&oacute;ria de nossa democracia, constru&iacute;da com a for&ccedil;a motriz da juventude e em especial dos estudantes brasileiros.<br /></p>
+<p>	<br /></p>
+<p>	O recolhimento de uma l&iacute;der estudantil para o Pres&iacute;dio Bom Pastor pelo fato de supostamente portar uma bolsa com bombinhas de S&atilde;o Jo&atilde;o &ndash; que certamente no jarg&atilde;o policial assumir&atilde;o o car&aacute;ter de artefatos explosivos &ndash; &eacute; uma medida desarrazoada e de flagrante equ&iacute;voco, que p&otilde;e a perder todo o esfor&ccedil;o das autoridades de seguran&ccedil;a em lidar com essas mobiliza&ccedil;&otilde;es.<br /></p>
+<p>	<br /></p>
+<p>	Procurei alertar as autoridades competentes sobre esse equ&iacute;voco, mas n&atilde;o fui ouvido. Preferiram seguir cegamente as balizas de seus protocolos, ignorando as nuances do caso e, sobretudo, desconsiderando a dimens&atilde;o do atual momento pol&iacute;tico de nossa na&ccedil;&atilde;o, que vem sendo chacoalhada pela for&ccedil;a de nossa inconformada juventude. Espero que esse epis&oacute;dio seja objeto de reflex&atilde;o pelas autoridades de nosso Estado, para que possam aprender com seus erros e n&atilde;o repeti-los, posto que, do contr&aacute;rio, em nada estar&atilde;o contribuindo para a almejada cessa&ccedil;&atilde;o dessas passeatas, que j&aacute; cumpriram com seu objetivo maior de for&ccedil;ar nossos governantes e agentes pol&iacute;ticos a uma reforma legislativa, institucional e comportamental em nosso Pa&iacute;s.<br /></p>
+<p>	<br /></p>
+<p>	Creio que neste momento a hora &eacute; de traduzir todas as mensagens vindas das ruas em uma pauta de reivindica&ccedil;&atilde;o concreta, para melhoria dos servi&ccedil;os p&uacute;blicos, notadamente os de sa&uacute;de, educa&ccedil;&atilde;o, seguran&ccedil;a e transporte, e tamb&eacute;m para um profunda reforma de nosso sistema pol&iacute;tico e eleitoral, sem a qual dificilmente haver&aacute; uma reconcilia&ccedil;&atilde;o do povo (origem de todo o poder) com seus representantes nos parlamentos.<br /></p>
+<p>	<br /></p>
+<p>	A OAB/PE, atenta ao seu papel institucional, cumpriu at&eacute; ent&atilde;o um papel de observadora dessas manifesta&ccedil;&otilde;es, de forma a pugnar pela liberdade de associa&ccedil;&atilde;o para fins pac&iacute;ficos, visando garantir a livre express&atilde;o democr&aacute;tica dos manifestantes, e tamb&eacute;m como fiscalizadora do respeito &agrave;s prerrogativas profissionais dos advogados que est&atilde;o assistindo juridicamente aqueles que s&atilde;o justa ou injustamente detidos pela Pol&iacute;cia.<br /></p>
+<p>	<br /></p>
+<p>	Agora, com o decantar de tantas e novas informa&ccedil;&otilde;es, em sintonia com o Conselho Federal da OAB, aliado a diversas igualmente importantes entidades, como CNBB, ABI, Movimento de Combate &agrave; Corrup&ccedil;&atilde;o e tantas outras, buscaremos articular as id&eacute;ias e propostas em projetos de lei de iniciativa popular, para que tenhamos a indispens&aacute;vel reforma de nosso sistema pol&iacute;tico-eleitoral, al&eacute;m de mudan&ccedil;as estruturais na sa&uacute;de e educa&ccedil;&atilde;o.<br /></p>
+<p>	<br /></p>
+<p>	O primeiro ato p&uacute;blico da OAB/PE j&aacute; est&aacute; agendado para o dia 10/07/2013, onde coletaremos assinaturas de ades&atilde;o ao Projeto de Lei Sa&uacute;de+10, para que a sa&uacute;de p&uacute;blica em nosso Pa&iacute;s seja tratada com a devida prioridade or&ccedil;ament&aacute;ria. Os estudantes de Pernambuco ser&atilde;o muito bem-vindos a este ato, assim como o s&atilde;o sempre em nossa institui&ccedil;&atilde;o, que tamb&eacute;m poder&aacute; se prestar como ve&iacute;culo para suas reivindica&ccedil;&otilde;es, de forma a n&atilde;o dispersarem sua energia transformadora e nem desperdi&ccedil;arem essa oportunidade hist&oacute;rica de fazer prevalecer a vontade popular em nossa na&ccedil;&atilde;o.</p></p>
+<p></p>
+{% endraw %}

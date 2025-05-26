@@ -1,0 +1,27 @@
+---
+id: 12448498
+date: "2013-05-13T16:30:00Z"
+last_modified_at: null
+tags:
+  - "voluntarios"
+categories:
+  - "noticias"
+title: "Carrascos volunt\u00e1rios"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p></p>
+<p>	Por Michel Zaidan<br /></p>
+<p>	<br /></p>
+<p>	Estamos vivendo uma &eacute;poca de franco retrocesso das conquistas garantistas e protetivas dos direitos humanos. A lei Maria da Penha, o RPDD e a tentativa de antecipa&ccedil;&atilde;o da maioridade penal dos adolscentes e infantes, na opini&atilde;o dos especialistas, acrescentando-se a equivocada tentativa de mudan&ccedil;a do Estatuto da Crian&ccedil;a e do Adolescente (ECA) &eacute; uma prova disso. Tempos duros e dif&iacute;ceis: a lei e os direitos s&atilde;o responsabilizados pela delinqu&ecirc;ncia infanto-juvenil. E outras leis s&atilde;o apontados como a solu&ccedil;&atilde;o para os crimes e a viol&ecirc;ncia. Se a solu&ccedil;&atilde;o para a criminalidade violenta (e cada vez mais precoce), o pa&iacute;s de maior popula&ccedil;&atilde;o carcer&aacute;ria do mundo (os EE.UU.) teria diminuido o n&uacute;mero de crimes e de criminosos, com o apoio do rigor e a dureza da legisla&ccedil;&atilde;o penal. E no entanto, s&oacute; aumentam os crimes e os criminosos e a periculosidade dos crimes.<br /></p>
+<p>	<br /></p>
+<p>	Talvez o enfoque devesse ser outro: pesquisar as causas, n&atilde;o as consequencias. O horror das consequencias tem sido bom para vender jornais, aumentar a audiencia, ajudar a gestores em crise de popularidade e cortejar o sentimento de vingan&ccedil;a e retalia&ccedil;&atilde;o da classe m&eacute;dia urbana brasileira. Mas n&atilde;o ajuda a entender o que se passa nas grandes cidades brasileiras, onde a crise da fam&iacute;lia, a crise da escola e as disfun&ccedil;&otilde;es do mercado de trabalho est&atilde;o presentes. O crime &eacute; uma met&aacute;fora social, como disse muito bem uma colunista da Folha de S&atilde;o Paulo, a prop&oacute;sito do rumoroso sequestro do publicit&aacute;rio W. Olivetto. &Eacute; uma met&aacute;fora porque o &quot;instinto maligno&quot; ou a personalidade criminosa n&atilde;o s&atilde;o inatos ou heredit&aacute;rios, como alguns desinformados costumam pensar. Por outro lado, h&aacute; muito tempo que a origem do direito penal est&aacute; associada &agrave; vindinta ou a retalia&ccedil;&atilde;o, desde os costumes b&aacute;rbaros dos god os e visigodos no in&iacute;cio da era crist&atilde;. Sendo a legisla&ccedil;&atilde;o moderna uma racionaliza&ccedil;&atilde;o dessa vindinta ou retalia&ccedil;&atilde;o. O fil&oacute;sofo alem&atilde;o Nietzsche tamb&eacute;m disse o mesmo em &quot;a genealogia da moral&quot;, justificando a viol&ecirc;ncia dos fortes contra os fracos.<br /></p>
+<p>	<br /></p>
+<p>	De toda maneira, a &eacute;tica crist&atilde; &eacute; que inaugurou a id&eacute;ia, n&atilde;o da vingan&ccedil;a mas do perd&atilde;o, da compreens&atilde;o, da sublima&ccedil;&atilde;o do &oacute;dio em face da dor de uma perda de um ente querido ou familiar. E outro grande reformador do direito, Beccaria, foi quem instituiu a grada&ccedil;&atilde;o racional dos delitos e das penas. O passo seguinte foi pensar o castigo e a pris&atilde;o como espa&ccedil;o de ressocializa&ccedil;&atilde;o das atitudes humanas, no sentido na reinser&ccedil;&atilde;o produtivo dos apenados &agrave; sociedade. De toda maneira, quando se compara a chamada &quot;era dos direitos&quot; e a universaliza&ccedil;&atilde;o da dignidade humana como valor, em lugar da honra e do status, a sensa&ccedil;&atilde;o que fica &eacute; que todo o avan&ccedil;o na compreens&atilde;o do crime e do criminoso ficou para atr&aacute;s. A impot&ecirc;ncia da sociedade (e do seu aparelho de seguran&ccedil;a) diante do desajuste social e de suas institui&ccedil;&otilde;es de controle (a fam&iacute;lia, a escola, a igreja e o trabalho), conduziu a uma pato logiza&ccedil;&atilde;o e criminaliza&ccedil;&atilde;o do desajuste social,sem querer colocar em causa os valores, a mentalidade, a forma de vida, os padr&otilde;es de sucesso e realiza&ccedil;&atilde;o pessoal das pessoas. Que sociedade &eacute; essa que condena crian&ccedil;as e adolescentes ao encaceramento precoce, sem se perguntar por que deliquem, por que roubam ou matam&#63;<br /></p>
+<p>	<br /></p>
+<p>	Talvez porque seja mais f&aacute;cil e mais c&ocirc;modo acusar as v&iacute;timas do que apontar as causas sociais. Talvez n&atilde;o se queira admitir, em fun&ccedil;&atilde;o de um perverso mecanismo de defesa, que h&aacute; muita coisa errada na organiza&ccedil;&atilde;o desta sociedade, sempre pronta a punir pobres, pretos, homossexuais e prostitutas, do que a aceitar que a desigualdade, o efeito de demonstra&ccedil;&atilde;o da sociedade de consumo e os modelos de exito e reconhecimento social est&atilde;o errados. Que as pol&iacute;ticas p&uacute;blicas n&atilde;o est&atilde;o produzindo os efeitos desejados e o discursos de pol&iacute;ticos, psiquiatras, desembargadores, publicistas e outros em torno da maioridade penal, s&atilde;o muito semelhantes ao dos carracos volunt&aacute;rios, da Alemanha nazista. Sejam claros e direitos e defendam abertamente a faxina social, a limpeza &eacute;tnica ou o exterm&iacute;nio dos pobres e miser&aacute;veis, para ver se dormem em paz durante a noite, sem ouvir os gritos e os apelos dos que sof rem, dos que n&atilde;o t&ecirc;m onde dormir ou o que comer.</p></p>
+<p></p>
+{% endraw %}

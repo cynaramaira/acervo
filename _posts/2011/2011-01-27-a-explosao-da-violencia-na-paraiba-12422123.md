@@ -1,0 +1,32 @@
+---
+id: 12422123
+date: "2011-01-27T15:59:00Z"
+last_modified_at: null
+tags:
+  - "explosao"
+  - "paraiba"
+categories:
+  - "noticias"
+title: "A explos\u00e3o da viol\u00eancia na Para\u00edba"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Jos&eacute; Maria N&oacute;brega, especial para o Blog de Jamildo<br /></p>
+<p>Doutor em Ci&ecirc;ncia Pol&iacute;tica, professor da Universidade Federal de Campina Grande</p></p>
+<p><p>Nos &uacute;ltimos tempos acontecimentos nunca dantes vistos nas cidades interioranas da Para&iacute;ba passaram a ser mat&eacute;ria constante nos programas jornal&iacute;sticos e nos jornais impressos do nosso cotidiano. Atentados aos caixas eletr&ocirc;nicos executados por bandidos de alta periculosidade e, tamb&eacute;m, com alto n&iacute;vel de sofistica&ccedil;&atilde;o da pr&aacute;tica criminosa passaram a ser corriqueiros. Crime contra o patrim&ocirc;nio que vem deixando a popula&ccedil;&atilde;o paraibana com medo, mudando seus h&aacute;bitos e atentando contra o direito mais b&aacute;sico do cidad&atilde;o, o direito de ir e vir.</p></p>
+<p><p>Contudo, essas a&ccedil;&otilde;es podem ser reflexo da inefic&aacute;cia das institui&ccedil;&otilde;es coercitivas da Para&iacute;ba. Digo suas pol&iacute;cias, o Minist&eacute;rio P&uacute;blico, a Justi&ccedil;a e o seu d&eacute;bil Sistema Carcer&aacute;rio. Na verdade, a criminalidade e a viol&ecirc;ncia vistas crescentes nos &uacute;ltimos anos &eacute; uma trag&eacute;dia anunciada. Desde, pelo menos, 2001 os n&uacute;meros absolutos de crimes violentos letais e intencionais (ou, simplesmente homic&iacute;dios), v&ecirc;m crescendo linearmente e sem interrup&ccedil;&atilde;o no estado da Para&iacute;ba.</p></p>
+<p><p>Em 2001 foram 484 assassinatos em todo o estado, o que foi crescendo em ritmo consider&aacute;vel nos anos subsequentes: 2002 = 607; 2003 = 615; 2004 = 675; 2005: 745; 2006: 824; 2007: 861; 2008 = 1.027; e 2009 = 1.251. Entre 2001 e 2009 o incremento percentual nos n&uacute;meros absolutos de homic&iacute;dios foi de 158%, mais que dobrando os n&uacute;meros.</p></p>
+<p><p>A taxa de homic&iacute;dios, que corresponde ao impacto proporcional dessas mortes em rela&ccedil;&atilde;o &agrave; popula&ccedil;&atilde;o, praticamente triplicou. Ou seja, entre 2001 e 2009 a taxa de homic&iacute;dios na Para&iacute;ba saltou de um patamar de um pouco mais de 13 homic&iacute;dios por cem mil habitantes, para mais de 33 homic&iacute;dios por cem mil: uma verdadeira explos&atilde;o! As Na&ccedil;&otilde;es Unidas consideram insuport&aacute;vel quando este dado ultrapassa os 10 homic&iacute;dios por cem mil habitantes, afirmando, quando isto acontece, que o estado ou regi&atilde;o apresenta n&uacute;meros de mortes por agress&atilde;o compar&aacute;veis a pa&iacute;ses em guerra.</p></p>
+<p><p>Jo&atilde;o Pessoa e Campina Grande, as duas cidades mais importantes da Para&iacute;ba tanto em termos de indicadores socioecon&ocirc;micos como no aspecto eleitoral, v&ecirc;m no mesmo ritmo do estado como um todo. Jo&atilde;o Pessoa, em 2001, teve 227 pessoas assassinadas. Em 2009, &uacute;ltimo ano dispon&iacute;vel da s&eacute;rie hist&oacute;rica, esse dado foi de 427 mortes, praticamente dobrando as mortes. J&aacute; em Campina Grande, em 2001 teve 106 pessoas assassinadas, e em 2009 este dado foi de 152 assassinatos, com 45% de incremento percentual.</p></p>
+<p><p>As taxas de homic&iacute;dios refletem o n&iacute;vel de viol&ecirc;ncia nessas cidades. Em 2009, Jo&atilde;o Pessoa computou mais de 60 homic&iacute;dios por cem mil habitantes, enquanto Campina Grande teve o impacto de 39,6 &oacute;bitos por agress&atilde;o por cada cem mil habitantes residente nesta cidade. N&uacute;meros de guerra civil n&atilde;o declarada!</p></p>
+<p><p>A taxa de homic&iacute;dios em Campina Grande est&aacute; acima da m&eacute;dia da taxa medida para cidades do seu mesmo porte populacional. Esta m&eacute;dia &eacute; de 32,3 homic&iacute;dios por cem mil. Outro ponto de destaque &eacute; que, entre as cidades de 350 a 400 mil habitantes, Campina Grande fica atr&aacute;s apenas de Porto Velho, com um agravante, enquanto esta cidade apresenta tend&ecirc;ncia de queda nos &uacute;ltimos anos, Campina Grande segue caminho inverso numa escala de crescimento constante da viol&ecirc;ncia homicida, podendo, em curto prazo, passar a frente de Porto Velho e alcan&ccedil;ar o primeiro lugar nesse perigoso ranking.</p></p>
+<p><p>Nesta realidade, os jovens s&atilde;o os mais vitimados. Dos 1.251 assassinatos ocorridos no ano de 2009 na Para&iacute;ba, 970 deles foram de pessoas entre 15 e 39 anos de idade, ou 77,5% do total. O destaque vai para o grupo entre 20 e 29 anos de idade, com 487 assassinatos, o que corresponde a 39% de todos os &oacute;bitos por agress&atilde;o. Pessoas em idade produtiva est&atilde;o sendo ceifadas em suas vidas, o que, sem d&uacute;vida, prejudica consideravelmente o desenvolvimento econ&ocirc;mico e social paraibano.</p></p>
+<p><p>Urge estudos mais s&eacute;rios sobre as rela&ccedil;&otilde;es e as causas da criminalidade violenta nos munic&iacute;pios paraibanos.</p></p>
+<p><p>O estado como monop&oacute;lio da for&ccedil;a e da viol&ecirc;ncia legal &eacute; o principal ator pol&iacute;tico para dirimir esta realidade sangrenta na Para&iacute;ba. O crescimento ou decr&eacute;scimo do efetivo policial, o decr&eacute;scimo ou crescimento das pris&otilde;es, maior produ&ccedil;&atilde;o de inqu&eacute;ritos policiais e investiga&ccedil;&otilde;es efetivas e eficazes, melhoria consider&aacute;vel do aparato carcer&aacute;rio, dentre outros elementos, nem sempre tem rela&ccedil;&atilde;o com o crescimento ou decr&eacute;scimo da viol&ecirc;ncia homicida quando n&atilde;o &eacute; levada em considera&ccedil;&atilde;o a gest&atilde;o qualificada. Somente com estudos pontuais, analisando os contextos locais nas microrregi&otilde;es e nos munic&iacute;pios poder&atilde;o nos d&aacute; respostas a crescente onda de viol&ecirc;ncia, sobretudo a homicida, no estado da Para&iacute;ba. De toda a forma, as institui&ccedil;&otilde;es pol&iacute;tico-p&uacute;blicas respons&aacute;veis pelo controle e administra&ccedil;&atilde;o dos conflitos t&ecirc;m papel fundamental neste desafio.</p></p>
+<p><p>Jos&eacute; Maria N&oacute;brega Jr.<br /></p>
+<p><a href="https://www.josemarianobrega.blogspot.com">www.josemarianobrega.blogspot.com</a> <br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

@@ -1,0 +1,29 @@
+---
+id: 12431801
+date: "2011-10-22T18:46:00Z"
+last_modified_at: null
+tags:
+  - "campanha"
+  - "lancamento"
+  - "ministerio"
+  - "prevencao"
+categories:
+  - "noticias"
+title: "Minist\u00e9rio da Sa\u00fade lan\u00e7a campanha de mobiliza\u00e7\u00e3o para preven\u00e7\u00e3o \u00e0 osteoporose"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Da Ag&ecirc;ncia Brasil</p></p>
+<p><p>O Minist&eacute;rio da Sa&uacute;de lan&ccedil;ou hoje (22) no Parque da Cidade uma campanha nacional de mobiliza&ccedil;&atilde;o para a preven&ccedil;&atilde;o &agrave; osteoporose. A osteoporose &eacute; uma doen&ccedil;a que deixa os ossos fracos a ponto de quebrarem ao m&iacute;nimo esfor&ccedil;o. As principais formas de osteoporose s&atilde;o a p&oacute;s-menopausa, a senil e a secund&aacute;ria, que atinge pessoas com doen&ccedil;a renal hep&aacute;tica, end&oacute;crina, hematol&oacute;gica ou que usam medicamentos como cortic&oacute;ides. O excesso de fumo, &aacute;lcool e caf&eacute; tamb&eacute;m s&atilde;o fatores que podem levar &agrave; osteoporose.</p></p>
+<p><p>O objetivo da campanha &eacute; mostrar que a preven&ccedil;&atilde;o &eacute; a melhor arma no combate &agrave; osteoporose e deve come&ccedil;ar na inf&acirc;ncia. Para Manter Ossos Sempre Fortes &Eacute; Preciso Prevenir &eacute; o tema da campanha. &ldquo;Queremos mostrar a import&acirc;ncia do fortalecimento dos ossos com h&aacute;bitos saud&aacute;veis desde cedo. Por isso, &eacute; importante a conscientiza&ccedil;&atilde;o. N&atilde;o s&oacute; para as pessoas idosas, mas para as crian&ccedil;as, para os gestores p&uacute;blicos, para todos. Acho que os profissionais de sa&uacute;de tamb&eacute;m devem estar atentos para a quest&atilde;o da osteoporose&rdquo;, disse Luiza Machado, coordenadora nacional de Sa&uacute;de do Idoso do Minist&eacute;rio da Sa&uacute;de.</p></p>
+<p><p>Para ela, iniciar a preven&ccedil;&atilde;o na inf&acirc;ncia tornar&aacute; a velhice da popula&ccedil;&atilde;o mais saud&aacute;vel. &ldquo;A preven&ccedil;&atilde;o deve come&ccedil;ar na fase intra&uacute;tero. Aquela m&atilde;e que faz um bom pr&eacute;-natal, que cuida da sua crian&ccedil;a, que amamenta e que mant&eacute;m, durante toda a inf&acirc;ncia, uma alimenta&ccedil;&atilde;o de qualidade e, com h&aacute;bitos saud&aacute;veis, vai contribuir para que essa crian&ccedil;a seja um adulto sem problemas e, consequentemente, uma pessoa idosa com melhor qualidade de vida&rdquo;, informou.</p></p>
+<p><p>A coordenadora destaca ainda que pais com h&aacute;bitos saud&aacute;veis tamb&eacute;m levam os filhos a adotar as mesmas pr&aacute;ticas na maioria das vezes. Por outro lado, crian&ccedil;as sedent&aacute;rias, que ficam muitas horas usando o computador ou assistindo &agrave; televis&atilde;o, n&atilde;o brincam ao ar livre e n&atilde;o ficam expostas ao sol, n&atilde;o ter&atilde;o uma vida saud&aacute;vel no futuro. &ldquo;Os nossos ossos s&atilde;o formados com exerc&iacute;cios f&iacute;sicos e pelos bons h&aacute;bitos, como uma alimenta&ccedil;&atilde;o que contenha c&aacute;lcio encontrado em alimentos como o leite e derivados e, tamb&eacute;m, em outras fontes como hortali&ccedil;as escuras, por exemplo&rdquo;, destacou. A preven&ccedil;&atilde;o da osteoporose engloba medidas como praticar atividades f&iacute;sicas, mas tamb&eacute;m ter uma nutri&ccedil;&atilde;o adequada, com dieta rica em c&aacute;lcio, evitar quedas, n&atilde;o fumar e evitar o excesso de &aacute;lcool, caf&eacute; e sal.</p></p>
+<p><p>Pelos c&aacute;lculos de Luiza Machado, 10 milh&otilde;es de pessoas t&ecirc;m osteoporose no Brasil. A doen&ccedil;a, segundo ela, &eacute; irrevers&iacute;vel, mas &eacute; poss&iacute;vel reduzir seus efeitos. Ela lembra que, ao contr&aacute;rio do que se pensa, n&atilde;o atinge s&oacute; as mulheres, mas tamb&eacute;m os homens. &Eacute; silenciosa e muitas vezes s&oacute; &eacute; detectada ap&oacute;s uma queda.</p></p>
+<p><p>&ldquo;Uma das preocupa&ccedil;&otilde;es no Minist&eacute;rio da Sa&uacute;de &eacute; com a redu&ccedil;&atilde;o de interna&ccedil;&otilde;es e com a fratura de f&ecirc;mur. Por isso, a gente vem trabalhando com oficinas de capta&ccedil;&atilde;o para os profissionais da rede de sa&uacute;de e profissionais do Sistema &Uacute;nico de Sa&uacute;de (SUS), por meio das coordena&ccedil;&otilde;es estaduais para identificar os idosos que t&ecirc;m risco de cair, sofrer quedas&rdquo;.</p></p>
+<p><p>Maria da Concei&ccedil;&atilde;o Pinheiro Veras, de 64 anos, era uma das mais animadas durante o lan&ccedil;amento da campanha. Ela acompanhava o grupo de anima&ccedil;&atilde;o que estava no evento e fez quest&atilde;o de declarar que sempre se cuida e acha importante que outras pessoas fa&ccedil;am exames de sa&uacute;de peri&oacute;dicos. Mesmo sob a chuva e o frio de aproximadamente 15&ordm;C, ela era uma das centenas de idosos que foram ao Parque da Cidade, neste s&aacute;bado.</p></p>
+<p><p>&ldquo;&Eacute; importante mostrar &agrave;s pessoas o perigo da osteoporose e os cuidados que elas devem ter para se prevenir da doen&ccedil;a. &Eacute; o que eu venho fazendo desde cedo. Continuo caminhando e mantenho uma alimenta&ccedil;&atilde;o saud&aacute;vel. Eu vivo 24 horas em lua de mel comigo mesmo&rdquo;, disse Lu&iacute;sa C&eacute;sar, de 69 anos.</p></p>
+<p><p>Um dos poucos homens presentes ao evento, Pedro Pereira da Silva, de 67 anos, considera sua presen&ccedil;a importante como exemplo para mostrar que a osteoporose n&atilde;o &eacute; uma doen&ccedil;a&nbsp; apenas de mulheres. &ldquo;Depende da estrutura de cada um. Se cuidar bem permitir&aacute; uma vida mais saud&aacute;vel. Mas se n&atilde;o, com o passar dos anos, vai sentir as dificuldades. Tenho uma vida saud&aacute;vel&rdquo;, disse.</p></p>
+{% endraw %}

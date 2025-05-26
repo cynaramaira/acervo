@@ -1,0 +1,22 @@
+---
+id: 12428729
+date: "2011-07-18T14:22:00Z"
+last_modified_at: null
+tags:
+  - "prefeituras"
+categories:
+  - "noticias"
+title: "MP no TCE pressiona prefeituras para realizarem concursos p\u00fablicos"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><font size="3"><span style="font-size: 12pt">O Minist&eacute;rio P&uacute;blico de Contas com atua&ccedil;&atilde;o no TCE protocolou ao longo dos &uacute;ltimos trinta dias 34 Representa&ccedil;&otilde;es perante o Conselho da institui&ccedil;&atilde;o contra munic&iacute;pios do interior que n&atilde;o est&atilde;o realizando concurso p&uacute;blico e abusando de contrata&ccedil;&otilde;es tempor&aacute;rias para suprir car&ecirc;ncias de pessoal.</span></font></p></p>
+<p><div><font size="3"><span style="font-size: 12pt">A pr&oacute;pria procuradora geral do MPCO, Eliana Maria Lapenda de Moraes Guerra, com base na Lei Org&acirc;nica do TCE, representou contra as Prefeituras de Bel&eacute;m de Maria, Igarassu, Itamarac&aacute;, Itapissuma, Itaquitinga e Tamandar&eacute;. A maioria desses munic&iacute;pios, disse ela, realizou o &uacute;ltimo concurso p&uacute;blico h&aacute; mais de 10 anos e sempre alega &quot;necessidade tempor&aacute;ria de excepcional interesse p&uacute;blico&quot; para fazer contrata&ccedil;&otilde;es de pessoal por prazo determinado. </span></font></div></p>
+<p><div>&nbsp;</div></p>
+<p><div><font size="3"><span style="font-size: 12pt">Admiss&atilde;o de pessoal por &quot;excepcional interesse p&uacute;blico&quot;, diz a Representa&ccedil;&atilde;o da procuradora, &quot;s&oacute; tem raz&atilde;o de ser perante situa&ccedil;&otilde;es realmente excepcionais, pois 'excepcional' significa situa&ccedil;&atilde;o an&ocirc;mala, de exce&ccedil;&atilde;o, de repercuss&otilde;es imprevis&iacute;veis. N&atilde;o demonstrada a excepcionalidade, a nulidade da contrata&ccedil;&atilde;o dever&aacute; ser declarada&quot;. Al&eacute;m disso, afirma a procuradora geral do MPCO, a Constitui&ccedil;&atilde;o estabelece em seu artigo 37, IX, que o v&iacute;nculo dos contratados temporariamente deve ser de natureza transit&oacute;ria, devendo haver prazo certo no contrato de forma que o ingresso excepcional na administra&ccedil;&atilde;o dure somente o tempo necess&aacute;rio para atender &agrave;s necessidades que ensejaram a contrata&ccedil;&atilde;o. Contrata&ccedil;&otilde;es para suprir car&ecirc;ncias de professores, auxiliares administrativos, vigias, merendeiras, porteiro de reparti&ccedil;&otilde;es p&uacute;blicas, etc., dever&atilde;o abranger unicamente o per&iacute;odo necess&aacute;rio &agrave; prepara&ccedil;&atilde;o do concurso p&uacute;blico, sob pena de haver desrespeito ao mandamento constitucional, acrescentou Eliana Lapenda.</span></font></div></p>
+<p><div>&nbsp;</div></p>
+<p><div>No caso espec&iacute;fico de Bel&eacute;m de Maria, diz a Representa&ccedil;&atilde;o da procuradora geral, &quot;j&aacute; se passaram mais de 15 anos da realiza&ccedil;&atilde;o do &uacute;ltimo concurso, havendo sempre novas contrata&ccedil;&otilde;es tempor&aacute;rias sem uma solu&ccedil;&atilde;o definitiva para suprir o d&eacute;ficit de servidores&quot;. Tal postura, acrescentou, &quot; configura evidente desobedi&ecirc;ncia aos preceitos constitucionais da isonomia, boa gest&atilde;o da coisa p&uacute;blica, efici&ecirc;ncia da administra&ccedil;&atilde;o e amplo acesso aos cargos, empregos e fun&ccedil;&otilde;es p&uacute;blicas, visto que o n&uacute;mero reiterado de contrata&ccedil;&otilde;es tempor&aacute;rias denota falta de planejamento da administra&ccedil;&atilde;o p&uacute;blica e desvirtua o car&aacute;<span id="OBJ_PREFIX_DWT2981_com_zimbra_date">ter</span> excepcional da necessidade de provimento de cargos&quot;. Eliana Lapenda pede formalmente aos conselheiros do Tribunal de Contas&nbsp; que determinem a essas prefeituras que promovam de imediato um levantamento sobre suas necessidades de pessoal e que fixem um prazo determinado para realiza&ccedil;&atilde;o de concurso p&uacute;blico sob pena de as futuras contrata&ccedil;&otilde;es serem julgadas irregulares, aplica&ccedil;&atilde;o de multa ao gestor e remessa de representa&ccedil;&atilde;o ao Minist&eacute;rio P&uacute;blico Estadual pela pr&aacute;tica de improbidade administrativa.</div></p>
+{% endraw %}

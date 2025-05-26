@@ -1,0 +1,41 @@
+---
+id: 12430148
+date: "2011-09-02T15:48:00Z"
+last_modified_at: null
+tags:
+  - "combate"
+categories:
+  - "noticias"
+title: "Combate ao aviltamento dos honor\u00e1rios advocat\u00edcios"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><img height="330" width="400" src="https://jc3.uol.com.br/blogs/repositorio/henrique_mariano_2.jpg" alt="" /></p></p>
+<p><p>Por Henrique Mariano<br /></p>
+<p><br /></p>
+<p>A Ordem dos Advogados do Brasil &ndash; Seccional Pernambuco iniciar&aacute;, nos pr&oacute;ximos dias, uma batalha direta contra um dos principais males que atingem a advocacia brasileira: o aviltamento dos honor&aacute;rios sucumbenciais.<br /></p>
+<p>&nbsp;<br /></p>
+<p>A interven&ccedil;&atilde;o da Seccional em tais casos foi objeto de estudo, a pedido da OAB/PE, do advogado Leonardo Carneiro da Cunha que &eacute; P&oacute;s-Doutor pela Universidade de Lisboa, professor-adjunto da Faculdade de Direito do Recife e autor de not&oacute;rias obras jur&iacute;dicas, principalmente no &acirc;mbito do processo civil.<br /></p>
+<p><br /></p>
+<p>A atua&ccedil;&atilde;o da OAB-PE ter&aacute; como base o art. 49 da Lei n&ordm; 8.906/94, que diz: &ldquo;Os Presidentes dos Conselhos e das Subse&ccedil;&otilde;es da OAB t&ecirc;m legitimidade para agir, judicial e extrajudicialmente, contra qualquer pessoa que infringir as disposi&ccedil;&otilde;es ou os fins desta lei.&rdquo;. E prossegue em seu par&aacute;grafo &uacute;nico: &ldquo;As autoridades mencionadas no caput deste artigo t&ecirc;m, ainda, legitimidade para intervir, inclusive como assistentes, nos inqu&eacute;ritos e processos em que sejam indiciados, acusados ou ofendidos os inscritos na OAB.&rdquo; Concluiu ent&atilde;o o parecerista pela possibilidade de interven&ccedil;&atilde;o da OAB-PE nos processos judiciais em que sejam concedidos aos advogados honor&aacute;rios sucumbenciais reconhecidamente aviltantes, interven&ccedil;&atilde;o esta que se dar&aacute; na qualidade de Assistente Simples. <br /></p>
+<p><br /></p>
+<p>O assistente pode ser litisconsorcial ou simples. No primeiro caso, o terceiro (assistente) possui alguma rela&ccedil;&atilde;o jur&iacute;dica com o advers&aacute;rio da causa, que pode ser afetada pela senten&ccedil;a &ndash; o assistente litisconsorcial possui autonomia, figurando como litisconsorte da parte. J&aacute; o assistente simples tem a finalidade de efetivamente auxiliar a parte assistida a ganhar a causa. Como auxiliar, ele n&atilde;o pode praticar atos incompat&iacute;veis com a vontade do assistido. &ldquo;Realmente, n&atilde;o pode o assistente simples impedir que o assistido pratique atos de disposi&ccedil;&atilde;o de vontade, como reconhecer a proced&ecirc;ncia do pedido, transigir, desistir da a&ccedil;&atilde;o ou do recurso, renunciar &agrave; a&ccedil;&atilde;o ou ao recurso. N&atilde;o lhe &eacute; permitido, de igual modo, suscitar exce&ccedil;&atilde;o de incompet&ecirc;ncia, oferecer reconven&ccedil;&atilde;o ou propor a&ccedil;&atilde;o declarat&oacute;ria incidental.&rdquo;, afirmou o professor Leonardo Cunha em seu parecer apresentado &agrave; OAB-PE.<br /></p>
+<p><br /></p>
+<p>Cuidou o parecer, ainda, de esclarecer que a figura do assistente n&atilde;o se confunde com a do amicus curiae. Este n&atilde;o tem v&iacute;nculo com qualquer das partes &ndash; ele atua como auxiliar do ju&iacute;zo, buscando apresentar argumentos, dados ou elementos, oriundos de seus pr&oacute;prios estudos sobre a quest&atilde;o, que contribuam para a prola&ccedil;&atilde;o de uma melhor decis&atilde;o, contribuindo para que o julgador tenha uma vis&atilde;o mais ampla do tema, a fim de ponderar v&aacute;rios pontos de vista. Seu interesse &eacute; que uma ideologia, opini&atilde;o, posi&ccedil;&atilde;o, orienta&ccedil;&atilde;o seja acolhida pelo juiz, por se tratar de uma ideia que ele pr&oacute;prio (o amicus curiae) defende em sua atua&ccedil;&atilde;o institucional. Ele pretende ver a decis&atilde;o proferida com fundamentos t&eacute;cnicos que lhe sejam mais apropriados. N&atilde;o importa para o amicus curiae qual das partes seja vencedora da demanda: o que importa &eacute; que sua tese prevale&ccedil;a. <br /></p>
+<p><br /></p>
+<p>J&aacute; o assistente tem todo o interesse na vit&oacute;ria de uma parte em espec&iacute;fico, pois isso repercute em sua esfera jur&iacute;dica. &ldquo;N&atilde;o &eacute; o conte&uacute;do t&eacute;cnico da decis&atilde;o que lhe interessa; o que lhe interessa &eacute; um s&oacute; resultado: a vit&oacute;ria de uma das partes. A atividade do assistente desenvolve-se no sentido de ajudar essa parte a sagrar-se vitoriosa.&rdquo;, ensina Cunha.<br /></p>
+<p><br /></p>
+<p>Como cedi&ccedil;o, cabe &agrave; OAB-PE o dever e interesse institucional em defender prerrogativas, garantias e direitos de advogados e &eacute; esse interesse que a habilita a intervir em processos judiciais com a finalidade de contribuir para que a senten&ccedil;a seja favor&aacute;vel a seu membro e, com isso, seja favor&aacute;vel &agrave; pr&oacute;pria Institui&ccedil;&atilde;o. &ldquo;Quando, em determinado caso, o juiz ou o tribunal fixa honor&aacute;rios de sucumb&ecirc;ncia em valor irris&oacute;rio, &iacute;nfimo ou inexpressivo, sua decis&atilde;o repercute na esfera jur&iacute;dica daquele advogado, mas ganha propor&ccedil;&otilde;es maiores, pois passar&aacute; a ser um precedente que poder&aacute; marcar toda uma orienta&ccedil;&atilde;o local e repercutir em outros casos.&rdquo;, notou o professor. Em casos assim, a OAB n&atilde;o pretende ver uma opini&atilde;o, posi&ccedil;&atilde;o ou tese acolhida, de sorte que n&atilde;o comparece na condi&ccedil;&atilde;o de amicus curiae. O que pretende &eacute; ver o advogado sagrar-se vitorioso, eis que lhe cabe defender, com exclusividade, o direito dos advogados (conforme art. 44, II, da Lei 8.906/94). <br /></p>
+<p><br /></p>
+<p>A senten&ccedil;a que fixa honor&aacute;rios em valor m&oacute;dico repercute na rela&ccedil;&atilde;o jur&iacute;dica que a OAB mant&eacute;m com seu inscrito: &agrave; OAB cabe assegurar o respeito aos direitos e prerrogativas do advogado. E essa sua rela&ccedil;&atilde;o com seu inscrito sofre repercuss&atilde;o direta da senten&ccedil;a que fixa os honor&aacute;rios em valor aviltante, atentando contra a pr&oacute;pria dignidade profissional e pessoal.<br /></p>
+<p><br /></p>
+<p>Assim, considerando a disposi&ccedil;&atilde;o do Estatuto da Advocacia e da OAB e a din&acirc;mica do processo civil, concluiu o consultor que &ldquo;a OAB-PE pode, sim, intervir nos processos em que haja fixa&ccedil;&atilde;o de honor&aacute;rios de sucumb&ecirc;ncia em valores m&oacute;dicos, irris&oacute;rios ou inexpressivos, a fim de auxiliar o advogado na defesa de um direito seu. Tal interven&ccedil;&atilde;o identifica-se como uma assist&ecirc;ncia simples, podendo a OAB-PE auxiliar o advogado, com a apresenta&ccedil;&atilde;o de defesa, interposi&ccedil;&atilde;o de recursos, formula&ccedil;&atilde;o de sustenta&ccedil;&atilde;o oral, enfim, com todos os atos processuais, desde que n&atilde;o contrariem atos de disposi&ccedil;&atilde;o de vontade do assistido.&rdquo;.<br /></p>
+<p><br /></p>
+<p>A partir dessa an&aacute;lise jur&iacute;dica sobre o tema, a OAB-PE j&aacute; decidiu que vai atuar como assistente dos advogados, sempre que estes discutirem judicialmente aviltantes honor&aacute;rios de sucumb&ecirc;ncia. Essa &eacute; uma quest&atilde;o fundamental na busca pelo maior fortalecimento da nossa advocacia. Os honor&aacute;rios aviltantes representam o pr&oacute;prio desrespeito, a pr&oacute;pria desvaloriza&ccedil;&atilde;o da profiss&atilde;o do advogado. E como deixou bem claro a Ministra do STJ, Nancy Andrighi, pondera-se &ldquo;a necessidade de uma nova postura quanto &agrave; mat&eacute;ria&rdquo; (REsp 1.063.669, julgado em 18 de agosto de 2011). Assim, a OAB-PE pretende garantir que se fa&ccedil;a Justi&ccedil;a tamb&eacute;m aos advogados pernambucanos.<br /></p>
+<p><br /></p>
+<p>Henrique Mariano &eacute; presidente da OAB-PE<br /></p>
+<p>&nbsp;</p></p>
+{% endraw %}

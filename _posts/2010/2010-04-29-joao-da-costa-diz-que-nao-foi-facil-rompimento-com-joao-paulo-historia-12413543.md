@@ -1,0 +1,40 @@
+---
+id: 12413543
+date: "2010-04-29T19:17:00Z"
+last_modified_at: null
+tags:
+  - "gal-costa"
+  - "historia"
+  - "joao-d"
+  - "lotofacil"
+  - "naomi-campbell"
+  - "paulo"
+categories:
+  - "noticias"
+title: "Jo\u00e3o da Costa diz que n\u00e3o foi f\u00e1cil rompimento com Jo\u00e3o Paulo. Hist\u00f3ria completa s\u00f3 deve aparecer no futuro"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: center;"><img alt="" src="https://arrodeio.files.wordpress.com/2008/10/prefeitos-meditando.jpg" /></p></p>
+<p><p>Em entrevista &agrave; R&aacute;dio Folha na manh&atilde; desta quinta-feira (29), o prefeito do Recife Jo&atilde;o da Costa (PT) falou sobre como anda hoje sua rela&ccedil;&atilde;o com o ex-prefeito Jo&atilde;o Paulo. Afirmou que n&atilde;o se considera um traidor, diz que n&atilde;o foi f&aacute;cil se distanciar do antigo amigo e que a hist&oacute;ria completa s&oacute; deve aparecer no futuro.<br /></p>
+<p><br /></p>
+<p>Leia o que disse ele:<br /></p>
+<p><br /></p>
+<p>&quot;Eu n&atilde;o vou nominar as pessoas (que me chamam de traidor). Quem tem comentado sabe quem t&aacute; falando. O que saiu como declara&ccedil;&atilde;o p&uacute;blica &eacute; que eu tinha me afastado de um projeto pol&iacute;tico. Essa &eacute; uma tradi&ccedil;&atilde;o para mim desta express&atilde;o. Se eu abandonei um projeto pol&iacute;tico, eu t&ocirc; traindo esse projeto. Como isso n&atilde;o t&aacute; qualificado politicamente, muitas pessoas disseram por que que eu teria abandonado um projeto pol&iacute;tico, em que termos&#63; Tenho reafirmado qualitativamente que tudo o que eu assumi de compromisso, falei ontem, reafirmo hoje, n&oacute;s montamos uma frente de esquerda, a frente do Recife para concorrer as elei&ccedil;&otilde;es. Foram 16 partidos. At&eacute; hoje nenhum desses partidos questionou o prefeito ou deixou o governo afirmando que o programa ou o projeto n&atilde;o estava sendo cumprido. Todos os que comp&otilde;e o governo, que representam politicamente, como todas as for&ccedil;as do PT,todas, como todos os 16 partidos, ningu&eacute;m saiu dizendo 'olha, n&oacute;s estamos saindo porque o prefeito rompeu com o projeto que foi apresentado nas elei&ccedil;&otilde;es. Ent&atilde;o eu n&atilde;o me considero, nem vi o PT enquanto partido, colocar que eu como representante do partido no governo, tenha me afastado do projeto pol&iacute;tico da frente de esquerda. N&atilde;o me considero que esteja rompido com o projeto pol&iacute;tico. Por isso n&atilde;o aceito nem a coloca&ccedil;&atilde;o de afastamento do projeto, nem que digam que eu seja um traidor desse projeto. Digo isso n&atilde;o &eacute; para assumir carapu&ccedil;a como andaram dizendo por a&iacute;. &Eacute; porque em diversas declara&ccedil;&otilde;es, n&atilde;o minhas, eu li um artigo num blog desta semana de que t&ecirc;m declara&ccedil;&otilde;es sobre mim at&eacute; impublic&aacute;veis. Se declara&ccedil;&otilde;es impublic&aacute;veis est&atilde;o sendo ditas, imagina dizer que eu sou um traidor. Eu n&atilde;o estou inventando isso. Agora era preciso esclarecer a popula&ccedil;&atilde;o porque tenho uma trajet&oacute;ria de 30 anos de milit&acirc;ncia. Fiz uma op&ccedil;&atilde;o. Todo mundo sabe que meu pai era do PFL, que foi prefeito, vereador. Eu podia ter seguido outro caminho. Segui o caminho mais dif&iacute;cil na minha vida. Foi romper com isso, brigar com meu pai, fazer uma op&ccedil;&atilde;o pol&iacute;tica. Meu pai entendeu minha posi&ccedil;&atilde;o pol&iacute;tica e respeitou.</p></p>
+<p><p style="text-align: center;"><img height="348" width="520" alt="" src="https://jc3.uol.com.br/blogs/repositorio/joao_da_costa.jpg" /></p></p>
+<p><p style="text-align: left;"><br /></p>
+<p><br /></p>
+<p>Eu precisava fazer um esclarecimento para quem estava ouvindo um programa de r&aacute;dio, que voc&ecirc; tem que sintetizar e falar de uma forma diferente. Dei essa declara&ccedil;&atilde;o e disse tamb&eacute;m que minha prioridade n&atilde;o era fazer disso um debate na cidade. A cidade tem outras prioridades, estou preocupado com outras coisas. Acho que esta situa&ccedil;&atilde;o est&aacute; esclarecida e n&atilde;o &eacute; desejo meu ficar alimentando isso. O ex-prefeito Jo&atilde;o Paulo &eacute; uma grande lideran&ccedil;a do PT, talvez a maior lideran&ccedil;a, com certeza. Tem sua legitimidade, eu o respeito enquanto a sua trajet&oacute;ria pol&iacute;tica. Essa situa&ccedil;&atilde;o que levou a um afastamento e hoje um rompimento eu diria n&atilde;o pol&iacute;tico, do partido ou de um projeto maior, mas do processo da gest&atilde;o da prefeitura n&atilde;o &eacute; uma coisa f&aacute;cil para mim. N&atilde;o fa&ccedil;o pol&iacute;tica s&oacute; pelo exerc&iacute;cio do poder. Tenho uma rela&ccedil;&atilde;o afetiva com o que eu fa&ccedil;o. Voc&ecirc; chegar ao est&aacute;gio de se afastar de um amigo de 20 anos n&atilde;o &eacute; uma coisa f&aacute;cil. Isso n&atilde;o tem sido f&aacute;cil para mim. Cheguei a um limite do ponto de vista pol&iacute;tico e pessoal que eu tinha que tomar uma atitude que eu achava, do meu ponto de vista, correto com a cidade, correto com o projeto que eu assumi e correto comigo mesmo. Isso n&atilde;o quer dizer que eu tenha que, permanentemente, estar em confronto com o ex-prefeito Jo&atilde;o Paulo, arrumar uma briga sistematicamente sobre isso. Acho que isso t&aacute; esclarecido. N&atilde;o foi f&aacute;cil do ponto de vista emocional nem pol&iacute;tico eu assumir essa posi&ccedil;&atilde;o. Acho que a gente tem que ter responsabilidade com as lideran&ccedil;as e com as pessoas. N&atilde;o fa&ccedil;o pol&iacute;tica querendo destruir ningu&eacute;m, nem &eacute; meu desejo secundarizar o papel de ningu&eacute;m. Jo&atilde;o Paulo tem o seu papel na hist&oacute;ria da cidade do Recife, do Estado de Pernambuco, tem um futuro enorme pela frente. Desejo que ele possa estar crescendo sempre porque o PT e o povo ainda precisa da lideran&ccedil;a dele. O problema que a gente teve na Prefeitura j&aacute; est&aacute; claro o que foi e espero que o tempo possa fazer com que a gente se reaproxime mais para frente&quot;.<br /></p>
+<p><br /></p>
+<p>Questionado sobre quando o afastamento come&ccedil;ou, Jo&atilde;o da Costa afirmou:<br /></p>
+<p><br /></p>
+<p>&quot;A hist&oacute;ria as vezes a gente escreve no presente e as vezes no futuro. Quem sabe no futuro a&iacute;, num livro de mem&oacute;rias, voc&ecirc;s saibam a&iacute; tudo o que aconteceu. Acho que isso n&atilde;o &eacute; relevante agora&quot;.</p></p>
+<p><p style="text-align: center;"><img height="348" width="520" alt="" src="https://jc3.uol.com.br/blogs/repositorio/joao%20paulo1.jpg" /></p></p>
+<p><p style="text-align: left;">TEND&Ecirc;NCIA</p></p>
+<p><p style="text-align: left;">&quot;Tomei uma decis&atilde;o de n&atilde;o, dentro do PT, n&atilde;o me articular mais por dentro do CEU, que &eacute; uma articula&ccedil;&atilde;o que foi criada h&aacute; uns tr&ecirc;s anos atr&aacute;s, sob a lideran&ccedil;a do ex-prefeito Jo&atilde;o Paulo. Achei que a exist&ecirc;ncia dessa articula&ccedil;&atilde;o j&aacute; tinha cumprido seu papel. Eu n&atilde;o estava me sentindo politicamente confort&aacute;vel nesse ambiente e resolvi sair. Isso n&atilde;o quer dizer que o CEU esteja desarticulado ou que ele acabou. Eu tomei uma posi&ccedil;&atilde;o que foi pessoal. Vou procurar dentro do partido trabalhar pelo di&aacute;logo amplo com todo mundo. E as pessoas que queiram tamb&eacute;m, ou que concordem com esse caminho, que queira estar neste processo, v&atilde;o estar junto. N&atilde;o necessariamente &eacute; uma tend&ecirc;ncia, porque n&atilde;o vejo esse caminho para o PT.<br /></p>
+<p><br /></p>
+<p>Eu sou contra tend&ecirc;ncia. Acho que isso limita muito a vida dentro do PT. Termina acontecendo que o que acontece hoje no PT voc&ecirc; &eacute; rotulado, ou &eacute; a favor ou contra. &Eacute; feito pastoril: ou &eacute; vermelho ou &eacute; azul. Acho que a vida tem outras cores&quot;.</p> </p>
+{% endraw %}

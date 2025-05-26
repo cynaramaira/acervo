@@ -1,0 +1,39 @@
+---
+id: 12447006
+date: "2013-04-02T11:01:00Z"
+last_modified_at: null
+tags:
+  - "papa-francisco"
+categories:
+  - "noticias"
+title: "O Papa Francisco e o serm\u00e3o comunista"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p></p>
+<p>	<img alt="" src="https://jc3.uol.com.br/blogs/repositorio/papa-francisco-10.jpg" style="width: 480px; height: 294px;" />Foto: reprodu&ccedil;&atilde;o</p></p>
+<p><p></p>
+<p>	Por Roberto Numeriano<br /></p>
+<p>	<br /></p>
+<p>	Uma das causas claras da sobreviv&ecirc;ncia e longevidade de sistemas e regimes pol&iacute;ticos e religiosos &eacute; a capacidade de adapta&ccedil;&atilde;o em cada tempo hist&oacute;rico vivido. E &eacute; sempre o ser humano quem se adapta, movendo suas institui&ccedil;&otilde;es para ora resistir, ora recuar, ora avan&ccedil;ar. Trata-se, em ess&ecirc;ncia, de saber batalhar diante das velhas condi&ccedil;&otilde;es objetivas de cada luta, conforme suas armas (ideol&oacute;gicas e pol&iacute;ticas) e suas &ldquo;tropas&rdquo; no terreno de combate.<br /></p>
+<p>	&nbsp;<br /></p>
+<p>	Dia desses, a Igreja Cat&oacute;lica Apost&oacute;lica Romana escolheu em conclave o cardeal argentino Jorge Mario Bergoglio para novo Papa, o qual decidiu se chamar Francisco &ndash; inspirando-se em S&atilde;o Francisco de Assis. Mal se dissipou nos c&eacute;us de Roma a fuma&ccedil;a branca que anunciou a escolha, li v&aacute;rios artigos de militantes de esquerda sobre o evento &ndash; quase todos com an&aacute;lises rebaixadas, ofensivas e preconceituosas quanto &agrave; escolha do cardeal, &agrave; Igreja Cat&oacute;lica como institui&ccedil;&atilde;o e aos seus ritos e doutrina. Um desses artigos &eacute; da lavra de um dirigente do Comit&ecirc; Central do PCB, Mauro Iasi, e pode ser considerado um &ldquo;resumo da &oacute;pera&rdquo; dessas an&aacute;lises enviesadas.<br /></p>
+<p>	&nbsp;<br /></p>
+<p>	Em tom de arenga, o texto sai predicando contra a Igreja Cat&oacute;lica como se esta institui&ccedil;&atilde;o fosse um todo institucional homog&ecirc;neo que, nos termos do texto, em nada contribui ou contribuiu de positivo para a hist&oacute;ria humana. Li e reli para entender o que inspira um intelectual de renome a n&atilde;o enxergar o que s&atilde;o as institui&ccedil;&otilde;es e seus atores. Se assim fizesse, perceberia certas similitudes em ambas as institui&ccedil;&otilde;es (PCB e Igreja Cat&oacute;lica, n&atilde;o nos termos, &eacute; claro, de suas vis&otilde;es ideol&oacute;gicas sobre o mundo e o homem), quanto ao que &eacute; comum aos agrupamentos nas suas contradi&ccedil;&otilde;es intr&iacute;nsecas de natureza pol&iacute;tica e ideol&oacute;gica. Tanto quanto a Igreja Cat&oacute;lica, o PCB tem seus ritos e doutrinas pol&iacute;tico-ideol&oacute;gicas, bem como, desde h&aacute; alguns anos, uma vis&iacute;vel tend&ecirc;ncia ao dogmatismo na interpreta&ccedil;&atilde;o do legado marxiano, o qual des&aacute;gua no esquerdismo pueril e auto-referente.<br /></p>
+<p>	&nbsp;<br /></p>
+<p>	Como explicar a g&ecirc;nese intelectual desse artigo (que, numa das frases, chama o Papa Em&eacute;rito, Bento XVI, de &ldquo;nazista&rdquo;) pela m&atilde;o de um intelectual do PCB, partido que nos anos 40, por iniciativa de projeto de lei do ent&atilde;o deputado federal Jorge Amado conseguiu aprovar no Congresso Nacional a liberdade de culto religioso no Brasil&#63; Como explic&aacute;-lo num partido que teve entre seus quadros um homem do povo como Sobreira, comunista at&eacute; &agrave; medula, que foi um dos criadores/promotores da chamada Companhia do Quilo, da caridade kardecista&#63; Como, sobretudo, entender que um partido da hist&oacute;ria do PCB, o qual abrigou algumas das mentes mais brilhantes da intelectualidade brasileira, esteja sendo rebaixado por semelhantes textos de ran&ccedil;o pequeno-burgu&ecirc;s, tresandando raiva e incoer&ecirc;ncia pol&iacute;tico-ideol&oacute;gica&#63;<br /></p>
+<p>	<br /></p>
+<p>	O serm&atilde;o comunista a ter&ccedil;ar armas contra a Igreja Cat&oacute;lica &eacute; uma das coisas mais v&atilde;s numa sociedade secularizada. Comunica, no m&aacute;ximo e mal, para dentro das fileiras partid&aacute;rias. E o faz, sem d&uacute;vida, ferindo os sentimentos religiosos dos militantes e filiados, cat&oacute;licos, sobretudo. Sob essa pr&eacute;dica farisaica, o militante comunista, uma vez praticante cat&oacute;lico, est&aacute; irrevogavelmente condenado/vetado em sua livre express&atilde;o religiosa, pois esse marxismo dogm&aacute;tico busca instituir o partido como uma esfera/mundivid&ecirc;ncia substituta que &agrave; partida n&atilde;o reconhece a subjetividade do ser militante. Na pr&aacute;tica, esse marxismo sem dial&eacute;tica quer faz&ecirc;-lo um &ldquo;fiel&rdquo; comunista, doutrinado por um outro tipo de f&eacute;.&nbsp; Em nenhum pa&iacute;s do mundo essa pretens&atilde;o reacion&aacute;ria de esquerda deu certo: cedo ou tarde, esta e outras causas foram a raz&atilde;o de sua derrocada pol&iacute;tica, ideol&oacute;gica e social.<br /></p>
+<p>	&nbsp;<br /></p>
+<p>	Esse &eacute; um dos problemas cr&ocirc;nicos dos partidos de filia&ccedil;&atilde;o comunista com serm&atilde;o revolucion&aacute;rio petrificado no passado, na teoria e na pr&aacute;tica: possuem poucos &ldquo;fi&eacute;is&rdquo; ideol&oacute;gicos e ainda pretendem que aqueles com pr&aacute;tica religiosa se tornem religiosamente &ldquo;desalmados&rdquo;. Pretendem (do mesmo modo como fez/faz a velha direita) &ldquo;pregar&rdquo; pela metade a frase marxiana: &ldquo;A religi&atilde;o &eacute; o &oacute;pio do povo&rdquo;. Sem lembrar o complemento da mesma: &ldquo;&Eacute; o suspiro da criatura oprimida&rdquo;. Est&aacute; aqui, impl&iacute;cito, o reconhecimento marxiano dessa necessidade humana sob as condi&ccedil;&otilde;es de sua mis&eacute;ria material.<br /></p>
+<p>	<br /></p>
+<p>	O artigo, talvez imaginando que todos somos (trabalhadores, assalariados ou n&atilde;o) possivelmente assimil&aacute;veis de modo absoluto ao laicismo do tempo (que, cada vez mais, parece-nos uma nova e radical religi&atilde;o da modernidade), parece pretender que esse movimento se d&ecirc; nos termos de uma ideologia de esquerda que, em ess&ecirc;ncia, est&aacute; se degradando justamente porque a maioria dos seus intelectuais dirigentes formula e escreve dogmaticamente sobre os processos pol&iacute;ticos, sociais e econ&ocirc;micos. Vivo fosse, certamente Marx enxotaria semelhantes &ldquo;ap&oacute;stolos&rdquo; que transformam a raz&atilde;o dial&eacute;tica em dogma doutrin&aacute;rio.<br /></p>
+<p>	&nbsp;<br /></p>
+<p>	A rigor, se h&aacute; um sinal da dial&eacute;tica das mudan&ccedil;as nas institui&ccedil;&otilde;es, um desses sinais foi dado pela elei&ccedil;&atilde;o do Papa Francisco. Claro, n&atilde;o estamos aqui fazendo ju&iacute;zos avalorativos nem a imaginar/prever mudan&ccedil;as em tal ou qual sentido na Igreja Cat&oacute;lica, que est&aacute; dando sinais de adapta&ccedil;&atilde;o para possivelmente renovar-se junto aos seus fi&eacute;is, abrindo-se tamb&eacute;m para o di&aacute;logo ecum&ecirc;nico. N&atilde;o &eacute; apenas por for&ccedil;a da mensagem crist&atilde; que a institui&ccedil;&atilde;o cat&oacute;lica chegou a dois mil anos de exist&ecirc;ncia. Enquanto isso, certo comunismo de Guerra Fria continua condicionado aos mesmos tipos de combates e (em alguns casos) erros vitais do passado ao analisar o ser do homem e suas media&ccedil;&otilde;es sociais e espirituais numa clave reducionista, mesquinha. O serm&atilde;o comunista ao qual nos referimos &eacute; bem a medida de quem prega id&eacute;ias desertas num deserto de id&eacute;ias.<br /></p>
+<p>	<br /></p>
+<p>	Roberto Numeriano &eacute; cientista pol&iacute;tico, professor e jornalista</p></p>
+<p></p>
+{% endraw %}

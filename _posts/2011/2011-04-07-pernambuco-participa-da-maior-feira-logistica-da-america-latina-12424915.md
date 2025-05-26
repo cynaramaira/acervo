@@ -1,0 +1,61 @@
+---
+id: 12424915
+date: "2011-04-07T11:32:00Z"
+last_modified_at: null
+tags:
+  - "america-latina"
+  - "feira"
+  - "maioria"
+  - "participantes-professores"
+  - "pernambuco"
+categories:
+  - "noticias"
+title: "Pernambuco participa da maior feira log\u00edstica da Am\u00e9rica Latina"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;">Da Secretaria<br /></p>
+<p><br /></p>
+<p>O Complexo Industrial Portu&aacute;rio de Suape, localizado no estado de Pernambuco, est&aacute; participando da 17&ordf; edi&ccedil;&atilde;o da maior e mais importante feira de log&iacute;stica na Am&eacute;rica Latina, a Intermodal South America.&nbsp; O evento acontece no Transam&eacute;rica Expo Center, S&atilde;o Paulo, e&nbsp; re&uacute;ne, em tr&ecirc;s dias de realiza&ccedil;&atilde;o, os principais players do setor de log&iacute;stica, com&eacute;rcio exterior e transporte mundial. A feira conta com expositores nacionais e internacionais vindos da Am&eacute;rica Latina, Am&eacute;rica do Norte, Europa e &Aacute;sia. Mais de 45 pa&iacute;ses estar&atilde;o representados no evento, com mais de 550 empresas expositoras e um p&uacute;blico que promete chegar &agrave; casa dos 43 mil participantes.<br /></p>
+<p><br /></p>
+<p>Na oportunidade, o Secret&aacute;rio de Desenvolvimento Econ&ocirc;mico do Estado e Presidente de Suape, Geraldo Julio, o vice-presidente do Porto de Suape, Frederico Amancio, junto &agrave; diretoria e coordenadores da empresa, apresentaram as novas oportunidades de neg&oacute;cios geradas no Complexo de Suape e no estado de Pernambuco, com destaque para o Projeto Suape Global, que visa transformar Pernambuco em um polo provedor de bens e servi&ccedil;os para a ind&uacute;stria de petr&oacute;leo, g&aacute;s, offshore e naval.<br /></p>
+<p><br /></p>
+<p>As estat&iacute;sticas da administra&ccedil;&atilde;o em 2010, ano no qual Suape completou 32 anos, tamb&eacute;m v&ecirc;m sendo divulgadas. Suape est&aacute; localizado no estande B44 e, no local, uma equipe formada por diretores e coordenadores est&aacute; divulgando o potencial deste que &eacute; o maior canteiro de obras do Brasil, apresentando seus projetos para a &aacute;rea industrial e para a &aacute;rea portu&aacute;ria.<br /></p>
+<p><br /></p>
+<p>Suape Global - O Complexo Industrial Portu&aacute;rio tem suas atividades voltadas para novos neg&oacute;cios, especialmente aqueles voltados para o foco de sua atua&ccedil;&atilde;o. Para isso, criou uma s&eacute;rie de incentivos para facilitar a atra&ccedil;&atilde;o de novos investimentos nas mais diversas atividades econ&ocirc;micas.<br /></p>
+<p><br /></p>
+<p>E para ampliar os contatos com investidores o Governo de Pernambuco ousou, criando o Projeto Suape Global, reunindo entidades governamentais, privadas, acad&ecirc;micas e bancos p&uacute;blicos (BNDES, BNB, BB e CEF) com o objetivo de fazer do Estado de Pernambuco um polo mundial provedor de bens e servi&ccedil;os para as ind&uacute;strias de petr&oacute;leo, g&aacute;s, offshore e naval, participando assim das oportunidades advindas do descobrimento de imensas reservas de petr&oacute;leo da camada do pr&eacute;-sal brasileiro.<br /></p>
+<p><br /></p>
+<p>Esse Projeto j&aacute; atraiu 24 empresas envolvendo investimentos de US$ 1,58 bilh&atilde;o, com a gera&ccedil;&atilde;o de mais de 12 mil empregos diretos e 22 mil indiretos. O Complexo Industrial Portu&aacute;rio de Suape &eacute; hoje o maior destino de investimentos privados do Brasil, beneficiado pela sua posi&ccedil;&atilde;o log&iacute;stica privilegiada e infraestrutura completa para atender &agrave;s necessidades dos mais diversos empreendimentos. Suape &eacute; hoje um grande centro concentrador e distribuidor de cargas da regi&atilde;o, com importantes polos industriais em desenvolvimento, destacando-se o polo naval, o petroqu&iacute;mico, refino de petr&oacute;leo, sider&uacute;rgico, e&oacute;lico, automotivo, log&iacute;stico, e de alimentos e bebidas. S&atilde;o mais de 100 empresas instaladas e 30 em fase de implanta&ccedil;&atilde;o, o que representa cerca de R$ 50 bilh&otilde;es em investimentos p&uacute;blicos e privados. Tudo isso transforma os 13,5 mil hectares do Complexo na maior locomotiva econ&ocirc;mica do nordeste.<br /></p>
+<p><br /></p>
+<p>A constru&ccedil;&atilde;o de navios, o refino de petr&oacute;leo e a sua ampla cadeia produtiva representam uma grande oportunidade para o desenvolvimento da ind&uacute;stria local. Dentro do seu Plano de A&ccedil;&otilde;es, Suape tamb&eacute;m desenvolve e articula parcerias para a qualifica&ccedil;&atilde;o profissional e inser&ccedil;&atilde;o das micro e pequenas empresas no fornecimento de bens e servi&ccedil;os para os grandes empreendimentos. As obras da Refinaria Abreu e Lima e das tr&ecirc;s plantas da Petroqu&iacute;mica Suape est&atilde;o a todo vapor. O Estaleiro Atl&acirc;ntico Sul lan&ccedil;ou ao mar o seu primeiro navio, representando a retomada da ind&uacute;stria naval brasileira.<br /></p>
+<p><br /></p>
+<p>No final do ano de 2010, o Complexo Industrial Portu&aacute;rio comemorou mais duas grandes conquistas: a chegada da Companhia Sider&uacute;rgica Suape (CSS), com investimentos de R$ 1,5 bilh&atilde;o e capacidade para produzir um milh&atilde;o de toneladas de a&ccedil;os por ano e, sem pisar no freio, atraiu a FIAT, que ir&aacute; construir no estado uma planta capaz de produzir 200 mil ve&iacute;culos por ano, atraindo ainda mais de 50 empresas fornecedoras e representando um investimento total na cadeia automobil&iacute;stica de R$ 8 bilh&otilde;es.<br /></p>
+<p><br /></p>
+<p>Porto do Recife tamb&eacute;m marca presen&ccedil;a<br /></p>
+<p><br /></p>
+<p>Aproveitando o bom momento econ&ocirc;mico que Pernambuco vive, o Porto do Recife tamb&eacute;m est&aacute; presente na Intermodal. O diretor-presidente Pedro Mendes, acompanhado do diretor de Opera&ccedil;&otilde;es e Engenharia, Hermes Delgado, e de Rela&ccedil;&otilde;es Comerciais, Alfredo Menezes, al&eacute;m do gerente de Neg&oacute;cios, Carlos Vilar, tem a miss&atilde;o de atrair novas empresas para operar no ancoradouro recifense.<br /></p>
+<p>&nbsp;<br /></p>
+<p>Grandes neg&oacute;cios j&aacute; foram fechados durante a feira, e este ano n&atilde;o deve ser diferente. Em 2010, por exemplo, o Porto do Recife fechou acordo com a Rodrimar, empresa paulista que come&ccedil;a a operar cont&ecirc;ineres ainda este m&ecirc;s no cais. O neg&oacute;cio representou um grande passo para a renova&ccedil;&atilde;o do Porto do Recife, que h&aacute; quase seis anos n&atilde;o embarcava cargas conteinerizadas. A expectativa &eacute; que movimenta&ccedil;&atilde;o traga um incremento de R$ 3,2 milh&otilde;es na receita do ancoradouro, um acr&eacute;scimo de quase 15% no balan&ccedil;o anual.<br /></p>
+<p><br /></p>
+<p>A Intermodal &eacute; uma excelente vitrine para mostrar ao p&uacute;blico as transforma&ccedil;&otilde;es em curso no cais recifense. O Governo do Estado est&aacute; investindo cerca de R$ 8,5 milh&otilde;es na reforma de armaz&eacute;ns e p&aacute;tios de cont&ecirc;ineres, recupera&ccedil;&atilde;o das vias terrestres, moderniza&ccedil;&atilde;o do silo portu&aacute;rio, constru&ccedil;&atilde;o da Esta&ccedil;&atilde;o de Transbordo e da segunda parte do Terminal Mar&iacute;timo de Passageiros e manuten&ccedil;&atilde;o da dragagem. A obra de aprofundamento, conclu&iacute;da no final de 2009, com recursos do PAC do Governo Federal, foi o primeiro passo da retomada das opera&ccedil;&otilde;es de grandes cargas no Porto do Recife. O aumento do calado, agora com 11,5 metros, tornou o canal de acesso e a bacia novamente adequada para receber grandes navios e estimulou o crescimento de novas opera&ccedil;&otilde;es no cais.<br /></p>
+<p><br /></p>
+<p>As obras estruturadoras est&atilde;o dando mais vitalidade &agrave; parte operacional do Porto do Recife, tornando-o mais competitivo e estrat&eacute;gico. Resultado disso &eacute; que a cada m&ecirc;s o ancoradouro vem ampliando o embarque e desembarque de cargas. Nos tr&ecirc;s primeiros meses de 2011, houve um acr&eacute;scimo de 10,5% nas toneladas movimentadas no cais.<br /></p>
+<p><br /></p>
+<p>Ad-Diper leva informa&ccedil;&otilde;es sobre plataforma multimodal de Salgueiro &agrave; Intermodal<br /></p>
+<p><br /></p>
+<p>Localizada no cruzamento das BR 232 com a BR 116, a sede do munic&iacute;pio de Salgueiro, a 520 quil&ocirc;metros da capital Recife, se coloca numa posi&ccedil;&atilde;o favor&aacute;vel aos empreendimentos que t&ecirc;m como objetivo atender a mercados de bens e servi&ccedil;os das regi&otilde;es Nordeste e Centro-Oeste. &Eacute; justamente nesse munic&iacute;pio, cravado no &ldquo;cora&ccedil;&atilde;o nordestino&rdquo;, que o Governo de Pernambuco aposta para ser o novo p&oacute;lo log&iacute;stico do Brasil, atrav&eacute;s da viabiliza&ccedil;&atilde;o da Plataforma Log&iacute;stica Multimodal Miguel Arraes de Alencar.<br /></p>
+<p><br /></p>
+<p>A plataforma est&aacute; sendo desenvolvida combinando o conceito de central de intelig&ecirc;ncia log&iacute;stica com o de multimodalidade, telem&aacute;tica e otimiza&ccedil;&atilde;o de fretes. Ela ser&aacute; erguida numa &aacute;rea de 301,5 hectares, no entroncamento da BR-232, BR-116 e Ferrovia Transnordestina, tendo tudo para ser o centro articulador do vasto espa&ccedil;o da fronteira agr&iacute;cola do Nordeste, que, em contato com a ferrovia Norte-Sul promover&aacute; a integra&ccedil;&atilde;o do Nordeste com o Centro-Oeste.<br /></p>
+<p><br /></p>
+<p>A Plataforma Log&iacute;stica de Salgueiro pode ser encarada como um projeto de desenvolvimento regional que tem entre seus objetivos atrair plantas industriais apoiada em v&aacute;rios elementos, como os projetos estruturadores nordestinos: a Integra&ccedil;&atilde;o das Bacias do Rio S&atilde;o Francisco, o Canal do Sert&atilde;o, a Hidrovia do S&atilde;o Francisco e a Ferrovia Transnordestina, todos de grande potencial para fornecimento de insumos industriais. A excelente posi&ccedil;&atilde;o log&iacute;stica, o oferecimento de facilidades alfandeg&aacute;rias, com a exist&ecirc;ncia de uma Esta&ccedil;&atilde;o Aduaneira interna &agrave; Plataforma, e os lotes reservados &agrave; implanta&ccedil;&atilde;o de um parque agroindustrial, com 68,94 hectares, tamb&eacute;m contribuem para os diferenciais do projeto pernambucano.<br /></p>
+<p><br /></p>
+<p>Com essa configura&ccedil;&atilde;o, a Plataforma Log&iacute;stica Multimodal garantir&aacute; uma rede log&iacute;stica nacional integrada, com a participa&ccedil;&atilde;o dos modais rodovi&aacute;rio, ferrovi&aacute;rio, aeroportu&aacute;rio em Salgueiro, articulado com o mar&iacute;timo no Complexo Industrial Portu&aacute;rio de Suape, na Regi&atilde;o Metropolitana do Recife, e o hidrovi&aacute;rio em Petrolina, munic&iacute;pio do Sert&atilde;o do S&atilde;o Francisco.<br /></p>
+<p><br /></p>
+<p>As potencialidades da plataforma fazem o Governo de Pernambuco projet&aacute;-la como &ldquo;a Suape do Sert&atilde;o&rdquo;, numa analogia ao melhor porto do Brasil, localizado entre os munic&iacute;pios de Ipojuca e Cabo de Santo Agostinho, cujo crescimento segue em ritmo espantoso nos &uacute;ltimos quatro anos. O &ldquo;boom&rdquo; do Complexo Industrial Portu&aacute;rio de Suape tem forte influ&ecirc;ncia de empreendimentos como a Refinaria Abreu e Lima, as plantas petroqu&iacute;micas de POY, PTA e PET, o Estaleiro Atl&acirc;ntico Sul e, mais recentemente, a montadora Fiat e a sider&uacute;rgica CSS, que, juntos, somam US$ 19 bilh&otilde;es em investimentos.<br /></p>
+<p><br /></p>
+<p>&ldquo;Salgueiro &eacute; onde o Sert&atilde;o vai virar porto. Estamos sendo bem demandados por empresas de v&aacute;rios setores e ramos de atividade. J&aacute; temos plano diretor e estamos fazendo os projetos b&aacute;sicos e executivos da plataforma log&iacute;stica&rdquo;, afirma M&aacute;rcio Stefanni, diretor-presidente da Ag&ecirc;ncia de Desenvolvimento Econ&ocirc;mico de Pernambuco (AD Diper), &oacute;rg&atilde;o vinculado &agrave; Secretaria Estadual de Desenvolvimento Econ&ocirc;mico respons&aacute;vel pela implanta&ccedil;&atilde;o do empreendimento.&nbsp;&nbsp; </p> </p>
+{% endraw %}

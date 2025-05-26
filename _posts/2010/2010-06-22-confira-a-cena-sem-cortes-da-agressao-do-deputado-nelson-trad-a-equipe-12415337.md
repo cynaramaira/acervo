@@ -1,0 +1,22 @@
+---
+id: 12415337
+date: "2010-06-22T17:46:00Z"
+last_modified_at: null
+tags:
+  - "agressao"
+  - "cenario"
+  - "deputado"
+  - "lula-cortes"
+  - "nelson-teich"
+  - "trade"
+categories:
+  - "noticias"
+title: "Confira a cena sem cortes da agress\u00e3o do deputado Nelson Trad \u00e0 equipe do CQC"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="512" height="446" id="PlayerBand" align="middle"><param name="allowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="movie" value="https://videos.band.com.br/Player/PlayerBand.swf" /><param name="loop" value="false" /><param name="menu" value="false" /><param name="quality" value="high" /><param name="bgcolor" value="#000000" /><param name="scale" value="noScale" /><param name="salign" value="LT" /><param name="flashvars" value="startPaused=true&configsLocation=https://videos.band.com.br/Player/ConfigsEmbed/&video_id=61944" /><embed src="https://videos.band.com.br/Player/PlayerBand.swf" loop="false" menu="false" quality="high" bgcolor="#000000" width="512" height="446"name="PlayerBand" align="middle" allowscriptaccess="always" allowfullscreen="true" scale="noScale" salign="lt" type="application/x-shockwave-flash" pluginspage="https://www.adobe.com/go/getflashplayer" flashvars="startPaused=true&configsLocation=https://videos.band.com.br/Player/ConfigsEmbed/&video_id=61944" /></object> </p>
+{% endraw %}

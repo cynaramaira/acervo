@@ -1,0 +1,50 @@
+---
+id: 12415594
+date: "2010-07-01T16:03:00Z"
+last_modified_at: null
+tags:
+  - "nota"
+  - "piscinas-naturais"
+categories:
+  - "noticias"
+title: "Nota P\u00fablica: Cat\u00e1strofes nem tanto Naturais"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Produzida por organiza&ccedil;&otilde;es da sociedade civil pertencentes &agrave; ABONG, Articula&ccedil;&atilde;o AIDS Pernambuco, Articula&ccedil;&atilde;o de Entidade da Zona da Mata , F&oacute;rum de Mulheres de Pernambuco e F&oacute;rum Estadual da Reforma Urbana sobre as enchentes ocorridas no estado. Essas organiza&ccedil;&otilde;es est&atilde;o trabalhando conjuntamente tanto nas quest&otilde;es emergenciais relativas ao atendimento &agrave;s v&iacute;timas, com doa&ccedil;&otilde;es de materiais de seguran&ccedil;a, roupas, alimentos etc; como pretendem abrir um di&aacute;logo pol&iacute;tico sobre as causas e conseq&uuml;&ecirc;ncias desta trag&eacute;dia.</p></p>
+<p><p>Dez anos atr&aacute;s, as popula&ccedil;&otilde;es da Zona da Mata de Pernambuco sofreram com enchentes que destru&iacute;ram casas, com&eacute;rcio, planta&ccedil;&otilde;es, pr&eacute;dios p&uacute;blicos, ruas, caminhos. A&ccedil;&otilde;es emergenciais e de reconstru&ccedil;&atilde;o foram feitas. Assim, tudo voltou ao seu lugar.</p></p>
+<p><p>Dez anos depois, as chuvas do inverno nordestino provocaram enchentes em propor&ccedil;&otilde;es infinitamente mais devastadoras do que em 2000. Uma trag&eacute;dia da natureza&#63; N&atilde;o. Uma cat&aacute;strofe social, pol&iacute;tica, econ&ocirc;mica e ambiental. Uma cat&aacute;strofe nem um pouco natural.</p></p>
+<p><p>Os n&uacute;meros, ainda imprecisos e incompletos, nos d&atilde;o a dimens&atilde;o do que deixou de ser feito, do que continua a se perpetuar por muito tempo. A cidade de Barreiros, na Zona da Mata de Pernambuco tem 68, 3% de sua popula&ccedil;&atilde;o desabrigada. &Aacute;gua Preta, na mesma &aacute;rea, tem 41,4% de popula&ccedil;&atilde;o desabrigada. Em Murici, no estado de Alagoas, o percentual &eacute; de 55,7%.</p></p>
+<p><p>Olhar esses n&uacute;meros nos provoca estarrecimento. Ser parte desses n&uacute;meros significa um sofrimento intenso, sofrimento que atravessa todas as dimens&otilde;es do tempo: passado, presente e futuro. E, para n&oacute;s, &eacute; na perspectiva dessas milhares e milhares de pessoas que devemos analisar, entender e construir estrat&eacute;gias pol&iacute;ticas de atua&ccedil;&atilde;o emergencial e de incid&ecirc;ncia pol&iacute;tica para que nada volte ao lugar de sempre, marcado por precariedade, exclus&atilde;o e aus&ecirc;ncia de direitos.</p></p>
+<p><p>Sabemos que o que causou uma trag&eacute;dia de t&atilde;o grande propor&ccedil;&atilde;o foi a aus&ecirc;ncia de pol&iacute;ticas estruturadoras como, por exemplo, planos de habita&ccedil;&atilde;o e regulariza&ccedil;&atilde;o fundi&aacute;ria para &aacute;reas urbanas e rurais; pol&iacute;ticas de saneamento ambiental , onde estejam inclu&iacute;das as dimens&otilde;es de esgotamento sanit&aacute;rio, drenagem, coleta regular e efetiva do lixo; pol&iacute;ticas econ&ocirc;micas e de trabalho que eliminem a precariedade das/ os trabalhadoras/es vinculadas/ os &agrave; ind&uacute;stria da cana de a&ccedil;&uacute;car; reforma agr&aacute;ria em seu sentido pleno.</p></p>
+<p><p>&Eacute; a aus&ecirc;ncia dessas pol&iacute;ticas que tem afetado, inclusive, as a&ccedil;&otilde;es emergenciais realizadas tanto pelo estado, quanto pela sociedade civil em que pesem os esfor&ccedil;os que est&atilde;o sendo realizados. As prec&aacute;rias condi&ccedil;&otilde;es das estradas e, em especial, o acesso as &aacute;reas rurais fazem com que n&atilde;o se tenha nem informa&ccedil;&otilde;es precisas do que se passa com essas popula&ccedil;&otilde;es e impe&ccedil;am a chegada das doa&ccedil;&otilde;es. Muitas localidades ainda n&atilde;o t&ecirc;m a energia el&eacute;trica restabelecida. A limpeza das vias p&uacute;blicas se d&aacute; de modo muito lento, dada a insufici&ecirc;ncia de equipamentos e pessoal. Os abrigos p&uacute;blicos, geralmente em locais inadequados, n&atilde;o podem receber mais ningu&eacute;m, o que faz com que muitas pessoas estejam abrigadas em casas de parentes e amigos/as. Dessa forma, h&aacute; o risco de uma responsabilidade p&uacute;blica se transformar em uma quest&atilde;o privada.</p></p>
+<p><p>A situa&ccedil;&atilde;o de sa&uacute;de dessas popula&ccedil;&otilde;es se encontra vulnerabilizada, n&atilde;o s&oacute; em fun&ccedil;&atilde;o das enfermidades e epidemias t&iacute;picas de momentos como este, mas tamb&eacute;m dos riscos de agravamento de doen&ccedil;as cr&ocirc;nicas, dado que, em muitas situa&ccedil;&otilde;es, &eacute; imposs&iacute;vel ter acesso aos medicamentos necess&aacute;rios via rede p&uacute;blica de sa&uacute;de porque essas est&atilde;o com suas estruturas destru&iacute;das ou comprometidas.</p></p>
+<p><p>As escolas que n&atilde;o foram destru&iacute;das servem de abrigo, o que significa a impossibilidade de retorno das /dos estudantes &agrave;s escolas, o que afeta n&atilde;o apenas seus aprendizados, mas tamb&eacute;m significa vulnerabilidade nutricional, j&aacute; que, para muitas fam&iacute;lias, a alimenta&ccedil;&atilde;o fornecida pela escola &eacute; a garantia de alimento di&aacute;rio para as crian&ccedil;as e adolescentes.</p></p>
+<p><p>A situa&ccedil;&atilde;o econ&ocirc;mica dessas popula&ccedil;&otilde;es se j&aacute; era bastante grave, torna-se absolutamente ca&oacute;tica. Isso porque tanto agricultura familiar perdeu grande parte ou a totalidade da sua produ&ccedil;&atilde;o, como as mulheres e homens que trabalhavam penosa e precariamente na cana de a&ccedil;&uacute;car n&atilde;o t&ecirc;m mais onde trabalhar, pois v&aacute;rias usinas da regi&atilde;o foram tamb&eacute;m afetadas fortemente pelas enchentes. O com&eacute;rcio dessas cidades &eacute; praticamente inexistente e antes das enchentes era, em sua maioria, informal. Ou seja, a maioria da popula&ccedil;&atilde;o atingida pelas enchentes n&atilde;o tem nenhum FGTS para sacar, em que pese a libera&ccedil;&atilde;o feita pelo governo federal.</p></p>
+<p><p>N&atilde;o podemos esquecer que se essa trag&eacute;dia afeta toda a popula&ccedil;&atilde;o dessas cidades, s&atilde;o as mulheres que recebem seus mais fortes impactos, pois, dada a divis&atilde;o sexual do trabalho que marca a nossa sociedade, s&atilde;o elas as respons&aacute;veis pela alimenta&ccedil;&atilde;o, cuidado com a sa&uacute;de, limpeza, aten&ccedil;&atilde;o &agrave;s crian&ccedil;as e idosos/as. Sabemos que os homens em v&aacute;rias dessas localidades come&ccedil;am a migrar para outros locais em busca de alguma condi&ccedil;&atilde;o de exist&ecirc;ncia, deixando para tr&aacute;s as mulheres em situa&ccedil;&otilde;es de crua exist&ecirc;ncia.</p></p>
+<p><p>Fazemos essas considera&ccedil;&otilde;es por termos a convic&ccedil;&atilde;o pol&iacute;tica que n&atilde;o &eacute; poss&iacute;vel tratar a trag&eacute;dia que se abate sobre os estados de Pernambuco e Alagoas como sendo algo da ordem da natureza e que se divide em etapas de emerg&ecirc;ncia e reconstru&ccedil;&atilde;o, como se fosse poss&iacute;vel que tudo possa voltar ao mesmo lugar; como se a emerg&ecirc;ncia ficasse restrita as horas em que a chuva cai, os rios enchem, as pessoas se desabrigam, a sociedade se mobiliza com doa&ccedil;&otilde;es e o Estado distribui e limpa e cria pol&iacute;ticas emergenciais. E ai, depois desse momento, quase sempre breve - o tempo em que duram as manchetes de jornais - a vida volta ao normal em sua reconstru&ccedil;&atilde;o.</p></p>
+<p><p>Para n&oacute;s, as urg&ecirc;ncias dessas popula&ccedil;&otilde;es existem h&aacute; muito mais do que 10 dias ou 10 anos. S&atilde;o mulheres e homens que vivem seus cotidianos em estado de emerg&ecirc;ncia h&aacute; muito tempo. O momento da reconstru&ccedil;&atilde;o s&oacute; far&aacute; sentido humano se suas a&ccedil;&otilde;es alterarem radicalmente as condi&ccedil;&otilde;es de vida dessas pessoas e as nossas condi&ccedil;&otilde;es de vida. Isso porque essa &eacute; uma trag&eacute;dia que diz respeito a todas e todos. &Eacute; um problema nosso.</p></p>
+<p><p>&Eacute; preciso compreender que n&atilde;o h&aacute; exatamente o que reconstruir. N&atilde;o &eacute; um recome&ccedil;o porque as pessoas perderam n&atilde;o apenas bens materiais, os parcos bens materiais que duramente conquistaram. As pessoas perderam suas hist&oacute;rias, seus trajetos, lembran&ccedil;as, mem&oacute;rias, refer&ecirc;ncias. N&atilde;o h&aacute; lugar para voltar. &Eacute; preciso, portanto, come&ccedil;ar de novo, criar novos lugares, criar outras condi&ccedil;&otilde;es de exist&ecirc;ncia, possibilitar n&atilde;o vidas cruas, mas vidas dignas.</p></p>
+<p><p>Essa &eacute; a nossa luta e o nosso compromisso. Esse &eacute; o sentido das a&ccedil;&otilde;es pol&iacute;ticas que estamos fazendo, tanto no plano das a&ccedil;&otilde;es diretas, junto &agrave;s popula&ccedil;&otilde;es, quanto e especialmente na a&ccedil;&atilde;o dirigida ao Estado. O que foi perdido n&atilde;o volta, mas sabemos que a&ccedil;&atilde;o pol&iacute;tica comprometida com a igualdade e a dignidade para todos e todas &eacute; o &uacute;nico caminho para possibilitar a essas mulheres e homens horizontes e futuros.</p></p>
+<p><p>Assinam essa nota:<br /></p>
+<p>Casa da Mulher do Nordeste<br /></p>
+<p>Centro de Mulheres de Joaquim Nabuco<br /></p>
+<p>Centro das Mulheres do Cabo<br /></p>
+<p>Centro de Cultura Luiz Freire<br /></p>
+<p>Centro Sabi&aacute;<br /></p>
+<p>CEAS<br /></p>
+<p>CENDHEC<br /></p>
+<p>ETAPAS<br /></p>
+<p>FASE<br /></p>
+<p>F&oacute;rum de Mulheres de Pernambuco<br /></p>
+<p>Grupo Curumim<br /></p>
+<p>Grupo de Trabalho em Preven&ccedil;&atilde;o PosiHIVa<br /></p>
+<p>Grupo Loucas de Pedra Lil&aacute;s<br /></p>
+<p>Instituto PAPAI<br /></p>
+<p>Habitat para Humanidade Brasil<br /></p>
+<p>SOS CORPO Instituto Feminista para a Democracia.<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

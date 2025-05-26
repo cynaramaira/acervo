@@ -1,0 +1,25 @@
+---
+id: 12418742
+date: "2010-11-06T15:57:00Z"
+last_modified_at: null
+tags:
+  - "empresarios"
+  - "entrega"
+  - "lagoa-grande"
+categories:
+  - "noticias"
+title: "Palocci, do escand\u00e2lo do mensal\u00e3o, tem grande credibilidade entre empres\u00e1rios"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Da ISTO&Eacute;</p></p>
+<p><p><input height="314" width="500" type="image" src="https://content-portal.istoe.com.br/istoeimagens/imagens/mi_6068858423703820.jpg" /></p></p>
+<p><p>Se uma &uacute;nica palavra for capaz de definir o que empres&aacute;rios, pol&iacute;ticos da oposi&ccedil;&atilde;o, analistas econ&ocirc;micos e representantes de diversos setores da sociedade pensam a respeito do ex-ministro Ant&ocirc;nio Palocci, esta palavra &eacute; credibilidade. Entre os quadros do PT, provavelmente ningu&eacute;m &eacute; capaz de rivalizar com Palocci na capacidade de dialogar com interlocutores t&atilde;o d&iacute;spares quanto o presidente de uma multinacional ou um sindicalista. Melhor do que isso: Palocci &eacute; visto como um profundo conhecedor de assuntos econ&ocirc;micos, um t&eacute;cnico que sabe o que &eacute; preciso para fazer uma pasta da administra&ccedil;&atilde;o andar, um gestor habituado a lidar com os meandros do governo, um homem afeito a resolver problemas. Enfim, Palocci &eacute; considerado algu&eacute;m eficiente demais para n&atilde;o estar por perto. Por isso mesmo, a presidente eleita Dilma Rousseff o escolheu para comandar o exaustivo trabalho de transi&ccedil;&atilde;o. &ldquo;Ele &eacute; um dos melhores quadros da Rep&uacute;blica&rdquo;, disse na semana passada o presidente Lula. &ldquo;&Eacute; uma garantia para ter boas rela&ccedil;&otilde;es internas e externas.&rdquo;<br /></p>
+<p><br /></p>
+<p>Os cr&iacute;ticos podem argumentar que Lula &eacute; amigo de Palocci, tanto que o escolheu para comandar o Minist&eacute;rio da Fazenda no primeiro mandato. Mas os elogios v&ecirc;m de todos os lados. Inclusive de opositores. Na semana passada, ISTO&Eacute; entrevistou 30 personalidades de diversas &aacute;reas, pessoas que s&atilde;o refer&ecirc;ncia em seus setores de atua&ccedil;&atilde;o (leia depoimentos nos quadros). O resultado &eacute; espantoso. Palocci, revelaram as consultas, &eacute; genuinamente admirado. O economista Roberto Giannetti da Fonseca, um dos fundadores do PSDB, partido derrotado por Dilma na elei&ccedil;&atilde;o, lembra de um epis&oacute;dio singular. &ldquo;Em janeiro de 2003, dez dias depois da posse do presidente Lula, fui chamado para uma reuni&atilde;o com o Palocci&rdquo;, diz Giannetti. &ldquo;Ele me pediu sugest&otilde;es para resolver a desvaloriza&ccedil;&atilde;o do real. Enquanto eu falava, ele anotava tudo em um caderno.&rdquo; Detalhe: Giannetti tinha sido secret&aacute;rio-executivo da Camex (secretaria ligada ao Minist&eacute;rio da Fazenda) no governo Fernando Henrique Cardoso. &ldquo;Achei a atitude um exemplo de humildade&rdquo;, afirma o economista. &ldquo;O Palocci atua com bom senso, sem preconceitos ideo&shy;l&oacute;gicos, e por isso acho que a presen&ccedil;a dele no governo &eacute; garantia de que o que &eacute; bom para o Brasil ser&aacute; feito.&rdquo; At&eacute; pol&iacute;ticos da oposi&ccedil;&atilde;o, acostumados ao ringue partid&aacute;rio, s&atilde;o s&oacute; elogios. &ldquo;&Eacute; muito mais f&aacute;cil conversar com Palocci do que com outros membros do PT&rdquo;, diz o deputado federal (DEM-BA) Ant&ocirc;nio Carlos Magalh&atilde;es Neto.<br /></p>
+<p><br /></p>
+<p>No meio empresarial, n&atilde;o &eacute; exagero afirmar que seu nome &eacute; quase uma unanimidade. Na &uacute;ltimas semanas, ele foi o centro das aten&ccedil;&otilde;es em jantares promovidos por pesos-pesados, como Abilio Diniz, dono do Grupo P&atilde;o de A&ccedil;&uacute;car, e Fl&aacute;vio Rocha, dono da Riachuelo. Durante a campanha, estavam entre os seus interlocutores pessoas como Luiz Trabuco, presidente do Bradesco, Marcelo Odebrecht, do Grupo Odebrecht, e Benjamim Steinbruch, da CSN. &ldquo;O Palocci &eacute; um avalista institucional, entende o sentido de urg&ecirc;ncia da iniciativa privada e traduz isso para o governo&rdquo;, disse &agrave; ISTO&Eacute; Hor&aacute;cio Lafer Piva, s&oacute;cio da Klabin e ex-presidente da Federa&ccedil;&atilde;o das Ind&uacute;strias de S&atilde;o Paulo. &ldquo;Palocci sabe conversar com a classe empresarial e sua participa&ccedil;&atilde;o no futuro governo &eacute; vista de maneira muito positiva&rdquo;, afirma M&aacute;rio Anseloni, presidente da Itautec. No mercado de capitais, sens&iacute;vel a qualquer sinal de turbul&ecirc;ncia, Palocci desfruta de id&ecirc;ntica credibilidade. &ldquo;Ele traz tranquilidade aos mercados&rdquo;, diz Edemir Pinto, presidente da BM&amp;FBovespa. Estrategista-chefe do banco WestLB, Roberto Padovani traduz o que uma parcela expressiva de analistas pensa a respeito do homem forte de Dilma. &ldquo;Palocci simboliza a racionalidade econ&ocirc;mica.&rdquo;</p> </p>
+{% endraw %}

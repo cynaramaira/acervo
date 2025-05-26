@@ -1,0 +1,45 @@
+---
+id: 12420913
+date: "2010-12-29T10:44:00Z"
+last_modified_at: null
+tags:
+  - "senado"
+categories:
+  - "noticias"
+title: "Senado vai exonerar mais de 1,2 mil aos servidores"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;">Edson Sardinha, do site Congresso em Foco<br /></p>
+<p><br /></p>
+<p>O Senado ter&aacute; de exonerar, at&eacute; o final de janeiro, pelo menos 1.062 funcion&aacute;rios que ocupam atualmente cargos de confian&ccedil;a nos gabinetes de 37 senadores que n&atilde;o se reelegeram em outubro.&nbsp; As exonera&ccedil;&otilde;es tamb&eacute;m atingir&atilde;o outros 196 servidores que trabalham em secretarias da Mesa Diretora comandadas por parlamentares n&atilde;o reeleitos. O sal&aacute;rio desses 1.258 funcion&aacute;rios comissionados, que n&atilde;o fazem parte do quadro fixo da Casa, varia de R$ 1,5 mil a R$ 11,3 mil. As demiss&otilde;es, por&eacute;m, n&atilde;o implicar&atilde;o necessariamente corte de gastos: a maioria deles ser&aacute; substitu&iacute;da por pessoas indicadas pelos novos senadores. Alguns devem continuar no Congresso por meio de indica&ccedil;&otilde;es pol&iacute;ticas.<br /></p>
+<p><br /></p>
+<p>Quase metade dos servidores a serem exonerados n&atilde;o registra o ponto em Bras&iacute;lia, mas nos chamados escrit&oacute;rios de apoio nos respectivos estados dos senadores, onde h&aacute; menos controle sobre a lista de frequ&ecirc;ncia dos servidores. A lista tem 542 nomes nessa condi&ccedil;&atilde;o. Dezenove parlamentares n&atilde;o reeleitos t&ecirc;m hoje mais funcion&aacute;rios comissionados em suas bases eleitorais do que em Bras&iacute;lia. O mesmo ocorre com 20 senadores que seguir&atilde;o no Senado. A pr&aacute;tica de transferir pessoal para os estados ganha for&ccedil;a nos anos eleitorais, como 2010. A falta de fiscaliza&ccedil;&atilde;o sobre o trabalho desses servidores abre caminho para a utiliza&ccedil;&atilde;o de funcion&aacute;rios pagos com dinheiro p&uacute;blico como cabos eleitorais. <br /></p>
+<p><br /></p>
+<p>De todos os 81 senadores, ningu&eacute;m tem mais subordinados em cargos de confian&ccedil;a do que o atual primeiro-secret&aacute;rio, Her&aacute;clito Fortes (DEM-PI). S&atilde;o 68 ao todo. Quarto colocado na disputa ao Senado deste ano, Her&aacute;clito caminha para o fim do mandato tendo &agrave; sua disposi&ccedil;&atilde;o 32 comissionados em seu gabinete parlamentar e outros 36 na Primeira Secretaria. Dos funcion&aacute;rios lotados no gabinete, 25 n&atilde;o est&atilde;o lotados em Bras&iacute;lia, mas no Piau&iacute;.<br /></p>
+<p><br /></p>
+<p>Antecessor de Her&aacute;clito na Primeira Secretaria, o senador Efraim Morais (DEM-PB) &eacute; o segundo em n&uacute;mero de cargos de confian&ccedil;a no Senado. Assim como o colega de partido, ele n&atilde;o voltar&aacute; ao Senado a partir de fevereiro. Terceiro colocado na disputa ao Senado, Efraim tem 66 comissionados sob seu comando. Desses, 52 est&atilde;o lotados na Para&iacute;ba. O gabinete do paraibano &eacute; suspeito de contratar funcion&aacute;rios fantasmas. O envolvimento do parlamentar ainda &eacute; alvo de investiga&ccedil;&atilde;o.<br /></p>
+<p><br /></p>
+<p>Depois de Efraim, quem mais emprega gente em cargos de confian&ccedil;a &eacute; o senador M&atilde;o Santa (PSC-PI). O piauiense tem 21 comissionados sob sua subordina&ccedil;&atilde;o na Terceira Secretaria e outros 41 em seu gabinete. Desses, 33 est&atilde;o lotados no Piau&iacute;. Nas elei&ccedil;&otilde;es deste ano, o ex-governador n&atilde;o conseguiu renovar o mandato no Senado. Foi o terceiro colocado. Atual segundo suplente da Mesa Diretora, Adelmir Santana (DEM-DF) emprega 56 servidores em cargos de confian&ccedil;a. Seis aparecem nos registros da Segunda Supl&ecirc;ncia e 50 na rela&ccedil;&atilde;o de servidores do gabinete. Desses, 40 est&atilde;o lotados em seu escrit&oacute;rio pol&iacute;tico, na pr&oacute;pria capital federal.<br /></p>
+<p><br /></p>
+<p>R$ 100 mil repartidos<br /></p>
+<p><br /></p>
+<p>Todo m&ecirc;s o Senado gasta entre R$ 80 mil e R$ 100 mil com a remunera&ccedil;&atilde;o de funcion&aacute;rios de confian&ccedil;a dos senadores. Em tese, cada senador tem direito a 11 cargos comissionados e outros nove efetivos. Os parlamentares, por&eacute;m, fizeram ajustes nas regras para permitir a subdivis&atilde;o dos 11 cargos de confian&ccedil;a. Com isso, na pr&aacute;tica, cada senador pode empregar at&eacute; 79 comissionados em seu gabinete desde que o valor gasto n&atilde;o ultrapasse o teto estipulado. Nenhum senador se arriscou a esticar a corda at&eacute; o limite: isso porque quanto maior o n&uacute;mero de funcion&aacute;rios, mais baixo &eacute; o sal&aacute;rio e menor tende a ser qualidade do servi&ccedil;o prestado.<br /></p>
+<p><br /></p>
+<p>Atualmente, o Senado disp&otilde;e de 2.964 servidores comissionados n&atilde;o efetivos, ou seja, funcion&aacute;rios que n&atilde;o fazem parte do quadro fixo da Casa por n&atilde;o terem entrado por meio de concurso p&uacute;blico ap&oacute;s a Constitui&ccedil;&atilde;o de 1988 nem pelos chamados &ldquo;trens da alegria&rdquo;, que permitiram a efetiva&ccedil;&atilde;o de n&atilde;o concursados. De todos os comissionados, quase 2.400 est&atilde;o distribu&iacute;dos entre os gabinetes dos 81 senadores. Juntos, os senadores que continuar&atilde;o o mandato em 2011 empregam atualmente 1.173 comissionados. Desses, 573 est&atilde;o lotados nas bases eleitorais dos parlamentares.<br /></p>
+<p><br /></p>
+<p>Outros 136 comissionados que trabalhavam para os cinco senadores que renunciaram ao mandato para assumir o governo de seus estados devem, pelo menos em princ&iacute;pio, continuar no Senado, sob as ordens dos suplentes recentemente empossados. Servidores que estavam lotados nos gabinetes de Marconi Perillo (PSDB-GO) e Ti&atilde;o Viana (PT-AC), por exemplo, j&aacute; aparecem nos quadros dos novatos Cyro Miranda (PSDB-GO) e An&iacute;bal Diniz (PT-AC). Destino semelhante devem ter os funcion&aacute;rios de Rosalba Ciarlini (DEM-RN), Renato Casagrande (PSB-ES) e Raimundo Colombo (DEM-SC) &ndash; os outros tr&ecirc;s senadores que abriram m&atilde;o de quatro anos de mandato para comandar seus estados.<br /></p>
+<p><br /></p>
+<p>O levantamento do Congresso em Foco foi feito com base em dados dispon&iacute;veis no Portal da Transpar&ecirc;ncia, do Senado. A pesquisa n&atilde;o levou em conta os cargos de confian&ccedil;a dos gabinetes das lideran&ccedil;as nem os cargos comissionados da Presid&ecirc;ncia, da 2&ordf; Secretaria e da 3&ordf; supl&ecirc;ncia da Mesa Diretora. Haver&aacute; elei&ccedil;&atilde;o para todos esses postos em fevereiro. Mas os senadores respons&aacute;veis por eles continuar&atilde;o no mandato e poder&atilde;o tentar a reelei&ccedil;&atilde;o.<br /></p>
+<p><br /></p>
+<p>Den&uacute;ncia de fantasmas<br /></p>
+<p><br /></p>
+<p>A contrata&ccedil;&atilde;o de funcion&aacute;rios ainda rende dor de cabe&ccedil;a ao senador Efraim Morais. A Procuradoria Geral da Rep&uacute;blica apura ind&iacute;cio de envolvimento dele na contrata&ccedil;&atilde;o de fantasmas em seu gabinete. As investiga&ccedil;&otilde;es iniciais foram feitas por uma sindic&acirc;ncia no Senado e encaminhadas ao Supremo Tribunal Federal (STF), que acionou a PGR para analisar o caso. O procurador-geral da Rep&uacute;blica ainda n&atilde;o se manifestou sobre o assunto. Mesmo fora do Senado, o ex-primeiro-secret&aacute;rio continuar&aacute; a ter subordinados no servi&ccedil;o p&uacute;blico: foi anunciado como secret&aacute;rio de Infraestrutura pelo governador eleito da Para&iacute;ba, Ricardo Coutinho (PSB).<br /></p>
+<p><br /></p>
+<p>Duas irm&atilde;s afirmaram que s&atilde;o funcion&aacute;rias fantasmas do senador. Sem emprego fixo, Kelriany e Kelly Nascimento da Silva declararam receber o que acreditavam ser uma bolsa de estudos de R$ 100 da Universidade de Bras&iacute;lia (UnB). As duas disseram &agrave; Pol&iacute;cia Legislativa que entregaram a uma amiga documentos e autoriza&ccedil;&atilde;o para a abertura de uma conta de banco, mas que o dinheiro era entregue em casa. Kelriany disse ter descoberto que era funcion&aacute;ria do Senado ao tentar abrir uma conta, logo depois de ter conseguido um emprego. O sal&aacute;rio era de R$ 3.800.<br /></p>
+<p><br /></p>
+<p>As irm&atilde;s e a funcion&aacute;ria que teria pedido os documentos foram exonerados pelo senador assim que surgiu a den&uacute;ncia. Em depoimento, uma ex-chefe-de-gabinete de Efraim disse que ele tinha conhecimento das contrata&ccedil;&otilde;es. O senador nega. Com base no depoimento da ex-assessora, a Pol&iacute;cia Legislativa pediu ao Supremo uma investiga&ccedil;&atilde;o direta contra o parlamentar. O relator do caso, ministro Celso de Mello, aguarda manifesta&ccedil;&atilde;o da PGR. </p> </p>
+{% endraw %}

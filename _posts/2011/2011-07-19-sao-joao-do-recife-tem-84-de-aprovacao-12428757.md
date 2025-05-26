@@ -1,0 +1,24 @@
+---
+id: 12428757
+date: "2011-07-19T11:17:00Z"
+last_modified_at: null
+tags:
+  - "recife"
+  - "sao-joao"
+categories:
+  - "noticias"
+title: "S\u00e3o Jo\u00e3o do Recife tem 84% de aprova\u00e7\u00e3o "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Esse foi o resultado da in&eacute;dita pesquisa encomendada pela Prefeitura do Recife, por meio da Secretaria de Turismo, para avaliar o grau de satisfa&ccedil;&atilde;o dos turistas e recifenses durante o per&iacute;odo junino. O levantamento foi realizado entre os dias 23 e 27 de junho, nos polos do Parque Dona Lindu, Arsenal da Marinha, P&aacute;tio de S&atilde;o Pedro, S&iacute;tio Trindade, Pracinha de Boa Viagem, al&eacute;m de alguns hot&eacute;is do Recife, Aeroporto e Terminal Integrado de Passageiros (TIP).</p></p>
+<p><p>&quot;A aprova&ccedil;&atilde;o da popula&ccedil;&atilde;o &eacute; um reflexo do sucesso do S&atilde;o do Recife, que prioriza as atra&ccedil;&otilde;es locais e vem se consolidando como um dos principais polos de anima&ccedil;&atilde;o junina do Pa&iacute;s. Esperamos que nos pr&oacute;ximos dois, tr&ecirc;s anos, o Recife seja uma dos mais procurados destinos do per&iacute;odo, chegando ao patamar de cidades como Caruaru e Campina Grande&quot;, disse o prefeito do Recife, Jo&atilde;o da Costa.</p></p>
+<p><p>A anima&ccedil;&atilde;o dos polos foi destaque na an&aacute;lise do Instituto de Pesquisa de Opini&atilde;o. Dos entrevistados, 89% assinalaram esse item como bom ou &oacute;timo. A pesquisa tamb&eacute;m mostrou que 87% dos turistas vieram direto de sua cidade de origem ao Recife. E, apenas 9% pernoitou em uma cidade fora da capital. A grande novidade deste S&atilde;o Jo&atilde;o, a inclus&atilde;o dos polos do Parque Dona Lindu e o Arraial do Turista, na Pracinha de Boa Viagem, foi aprovada n&atilde;o s&oacute; por turistas, como pelos recifenses. Dos entrevistados, 44% escolheram o Dona Lindu para brincar o S&atilde;o Jo&atilde;o. J&aacute; 27% escolheram a Pracinha de Boa Viagem.</p></p>
+<p><p>Para o secret&aacute;rio de Turismo Andr&eacute; Campos, a cidade comprovou mais uma vez que faz o S&atilde;o Jo&atilde;o mais aut&ecirc;ntico de todo o Nordeste. &quot;Os artistas escolhidos com a inclus&atilde;o de m&uacute;sicos tradicionais atra&iacute;ram n&atilde;o s&oacute; o turista de outro Estado, como tamb&eacute;m de outras cidades pernambucanas&quot;, afirma. Dos turistas entrevistados no Aeroporto, TIP e nos hot&eacute;is da cidade, 38% vieram do Nordeste (exceto Pernambuco) e 35% da Regi&atilde;o Sudeste. &quot;Tamb&eacute;m foi um acerto por parte da Prefeitura do Recife a inclus&atilde;o dos polos juninos em Boa Viagem, bairro onde se concentra a maioria dos hot&eacute;is do Recife&quot;, conclui o secret&aacute;rio.</p></p>
+<p><p>Considerando o universo total de pessoas que responderam ao question&aacute;rio, a pesquisa mostrou que 40% estiveram na cidade atra&iacute;dos pela festa. Atrav&eacute;s dos n&uacute;meros da pesquisa, ficou comprovado que o S&atilde;o Jo&atilde;o agradou a todos que participaram dos festejos juninos. 98% dos turistas entrevistados informaram que pretendem retornar &agrave; cidade para participar de outro S&atilde;o Jo&atilde;o. J&aacute; 97% disseram que recomendaria a cidade como destino tur&iacute;stico de lazer para parentes e amigos. &quot;O resultado da pesquisa comprova, de maneira inquestion&aacute;vel, a qualidade art&iacute;stica do S&atilde;o Jo&atilde;o do Recife e a excel&ecirc;ncia da infraestrutura montada para a festa&quot;, afirma Renato L, secret&aacute;rio de Cultura do Recife.</p></p>
+<p><p>A perman&ecirc;ncia m&eacute;dia nos hot&eacute;is do Recife tamb&eacute;m vem crescendo ao longo dos anos. Em 2010, os turistas ficaram quatro dias na capital pernambucana. Neste S&atilde;o Jo&atilde;o, 30% dos h&oacute;spedes permaneceram de 3 a 5 dias no Recife. Outro item que aumenta a cada ano &eacute; a ocupa&ccedil;&atilde;o hoteleira. Segundo dados da Associa&ccedil;&atilde;o Brasileira da Ind&uacute;stria Hoteleira (ABIH), a ocupa&ccedil;&atilde;o durante o per&iacute;odo junino girou em torno de 75%.</p></p>
+<p><p>&quot;A repercuss&atilde;o da programa&ccedil;&atilde;o art&iacute;stica e a organiza&ccedil;&atilde;o em todos os polos atestam que tanto os turistas de fora como os pr&oacute;prios cidad&atilde;s e cidad&atilde;os recifenses puderam apreciar um leg&iacute;timo S&atilde;o Jo&atilde;o tradicional na capital do estado. Neste ciclo junino, investimos mais ainda em estrutura, seguran&ccedil;a e &oacute;timos shows, tornando o Recife o melhor destino para quem procurava os aut&ecirc;nticos valores da tradi&ccedil;&atilde;o nordestina&quot;, afirma Luciana F&eacute;lix, presidente da Funda&ccedil;&atilde;o de Cultura Cidade do Recife</p></p>
+{% endraw %}

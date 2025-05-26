@@ -1,0 +1,34 @@
+---
+id: 12428918
+date: "2011-07-23T12:54:00Z"
+last_modified_at: null
+tags:
+  - "amcentral"
+  - "mostra"
+  - "nacional"
+  - "propina"
+categories:
+  - "noticias"
+title: "Ag\u00eancia Nacional da Propina: \u00c9poca mostra que ANP virou central de extors\u00e3o"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>&nbsp;<span class="Apple-style-span" style="color: rgb(51, 51, 51); font-family: georgia; line-height: 16px; ">&Eacute;POCA obteve v&iacute;deos, documentos e cheques que revelam como o aparelhamento partid&aacute;rio transformou a Ag&ecirc;ncia Nacional do Petr&oacute;leo numa central de achaque e extors&atilde;o</span><span class="Apple-style-span" style="color: rgb(51, 51, 51); font-family: arial; line-height: 16px; "></p>
+<p><div class="materiaCredito" style="font-family: tahoma; font-size: 0.9em; text-align: left; color: rgb(152, 152, 152); margin-top: 14px; margin-right: 0px; margin-bottom: 14px; margin-left: 0px; text-transform: uppercase; clear: both; ">DIEGO ESCOSTEGUY, COM MURILO RAMOS</div></p>
+<p><div id="materiaContainer" style="font-family: arial; font-size: 1em; text-align: left; color: rgb(51, 51, 51); margin-top: 25px; margin-bottom: 15px; "></p>
+<p><div class="fotoMateria box650" style="font-family: tahoma; font-size: 1em; text-align: left; color: rgb(51, 51, 51); margin-top: 0px; margin-right: 0px; margin-bottom: 15px; margin-left: 0px; width: 650px; clear: both; "><img class="foto" height="350" alt="   Reprodu&ccedil;&atilde;o" width="650" src="https://revistaepoca.globo.com/Revista/Epoca/foto/0,,53783611,00.jpg" style="font-family: tahoma; font-size: 1em; text-align: left; color: rgb(51, 51, 51); border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; display: block; " /></p>
+<p><div class="descricao" style="font-family: tahoma; font-size: 0.9em; text-align: left; color: rgb(51, 51, 51); padding-top: 7px; padding-right: 10px; padding-bottom: 7px; padding-left: 10px; background-image: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: rgb(246, 246, 246); background-position: initial initial; background-repeat: initial initial; "><strong style="font-family: tahoma; font-size: 1em; text-align: left; color: rgb(201, 18, 20); ">PROVAS DA EXTORS&Atilde;O</strong><br style="font-family: tahoma; font-size: 1em; text-align: left; color: rgb(51, 51, 51); " /></p>
+<p>Com a ajuda do MP, a advogada Vanuza Sampaio gravou um encontro que manteve com dois assessores da ANP, que exigem propina de R$ 40 mil para resolver um problema de um cliente dela. Abaixo, trecho do depoimento prestado pela advogada ao MP, no qual ela detalha o caso, e o cheque que um dos assessores da ANP recebeu de um advogado ligado ao maior adulterador de combust&iacute;vel do pa&iacute;s</div></p>
+<p></div></p>
+<p><br style="font-family: tahoma; font-size: 1em; text-align: left; color: rgb(51, 51, 51); " /></p>
+<p><div class="fotoMateria box650" style="font-family: tahoma; font-size: 1em; text-align: left; color: rgb(51, 51, 51); margin-top: 0px; margin-right: 0px; margin-bottom: 15px; margin-left: 0px; width: 650px; clear: both; "><img class="foto" height="650" alt="   Reprodu&ccedil;&atilde;o" width="650" src="https://revistaepoca.globo.com/Revista/Epoca/foto/0,,53783872,00.jpg" style="font-family: tahoma; font-size: 1em; text-align: left; color: rgb(51, 51, 51); border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; border-width: initial; border-color: initial; display: block; " /></div></p>
+<p><p style="font-family: tahoma; font-size: 1em; text-align: left; color: rgb(51, 51, 51); ">&Agrave;s 16h23 do dia 5 de maio de 2008, uma segunda-feira, dois assessores da Ag&ecirc;ncia Nacional do Petr&oacute;leo (ANP) encaminharam-se discretamente ao escrit&oacute;rio da advogada Vanuza Sampaio, no centro do Rio de Janeiro. Os dois, Antonio Jos&eacute; Moreira e Daniel Carvalho de Lima, acomodaram-se na sala de reuni&otilde;es do escrit&oacute;rio, tomaram cafezinho e conversaram por alguns minutos sobre amenidades. Ato cont&iacute;nuo, a advogada Vanuza assomou &agrave; porta. Vanuza &eacute; a advogada com mais volume de processos na ANP; conhece profundamente a ag&ecirc;ncia. Tem como clientes distribuidoras de combust&iacute;vel, postos e empres&aacute;rios do setor de petr&oacute;leo e g&aacute;s &ndash; todos dependem da ANP para tocar seus neg&oacute;cios. Depender da ANP, conforme investigou &Eacute;POCA nos &uacute;ltimos dois meses, significa sofrer continuamente o ass&eacute;dio de tipos como Moreira e Daniel. N&atilde;o s&atilde;o os &uacute;nicos. H&aacute; muitos como eles. Mas, para a turma que transformou a ANP num cart&oacute;rio de extors&atilde;o, aquela n&atilde;o era uma segunda-feira t&atilde;o ordin&aacute;ria. Daquela vez, dois deles foram gravados em v&iacute;deo, em pleno expediente subterr&acirc;neo. &Eacute;POCA obteve c&oacute;pia dessa grava&ccedil;&atilde;o, que integra uma investiga&ccedil;&atilde;o sigilosa do Minist&eacute;rio P&uacute;blico Federal e da Pol&iacute;cia Federal.</p></p>
+<p><p style="font-family: tahoma; font-size: 1em; text-align: left; color: rgb(51, 51, 51); ">A pedido de &Eacute;POCA, a autenticidade do v&iacute;deo foi atestada pelo perito Ricardo Molina. &ldquo;A grava&ccedil;&atilde;o &eacute; aut&ecirc;ntica e n&atilde;o sofreu nenhuma manipula&ccedil;&atilde;o&rdquo;, disse Molina. O v&iacute;deo tem 53 minutos, tr&ecirc;s personagens e um repert&oacute;rio espantoso de ilegalidades, abusos e escracho com a coisa p&uacute;blica. S&atilde;o 53 minutos de corrup&ccedil;&atilde;o exposta em seu sentido mais puro. N&atilde;o h&aacute; nenhum vest&iacute;gio de decoro. O eventual medo de ser pilhado desaparece e cede lugar ao deboche. N&atilde;o h&aacute; di&aacute;logo em c&oacute;digo ou fraseado evasivo. &Eacute; tudo dito na lata. Esse descaso pode ser explicado pela impunidade com que a longeva m&aacute;fia dos combust&iacute;veis atua no pa&iacute;s. Nos &uacute;ltimos anos, a PF e o MP j&aacute; produziram provas robustas contra expoentes desse grupo. At&eacute; o Congresso criou uma CPI para investigar os crimes &ndash; que engendrou ainda mais corrup&ccedil;&atilde;o.</p></p>
+<p><p style="font-family: tahoma; font-size: 1em; text-align: left; color: rgb(51, 51, 51); "><b>&raquo; <a target="_blank" href="https://revistaepoca.globo.com/Revista/Epoca/0,,EMI251432-15223,00-AGENCIA+NACIONAL+DA+PROPINA+TRECHO.html">Veja mais informa&ccedil;&otilde;es e assistas aos v&iacute;deos</a></b></p></p>
+<p><div>&nbsp;</div></p>
+<p></div></p>
+<p></span></p></p>
+{% endraw %}

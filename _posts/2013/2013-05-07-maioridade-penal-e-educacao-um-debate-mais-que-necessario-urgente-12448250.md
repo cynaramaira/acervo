@@ -1,0 +1,59 @@
+---
+id: 12448250
+date: "2013-05-07T12:39:00Z"
+last_modified_at: null
+tags:
+  - "debate"
+  - "educacao"
+  - "policia-penal"
+categories:
+  - "noticias"
+title: "Maioridade Penal e educa\u00e7\u00e3o: um debate mais que necess\u00e1rio, urgente"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;"></p>
+<p>	<img alt="" src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash4/313382_276970832327095_939593901_n.jpg" style="width: 470px; height: 675px;" /><br /></p>
+<p>	<br /></p>
+<p>	Por No&eacute;lia Brito, advogada e procuradora judicial do Munic&iacute;pio do Recife, especial para o Blog de Jamildo<br /></p>
+<p>	<br /></p>
+<p>	Tenho visto muitas manifesta&ccedil;&otilde;es de apoio &agrave; redu&ccedil;&atilde;o da maioridade penal. Observo tamb&eacute;m que os que assim se manifestam, quero dizer, a favor dessa redu&ccedil;&atilde;o, em geral, fazem-no movidos por um certo sentimento de &oacute;dio, revolta que jamais deveriam ser a for&ccedil;a motriz desse ou de qualquer outro debate sobre Direito.<br /></p>
+<p>	<br /></p>
+<p>	Quem &eacute; movido pelo &oacute;dio &eacute; o ser humano quando este se deixa levar por sentimentos inferiores e mesquinhos. O Estado jamais deve faz&ecirc;-lo. Estado que se move pelo &oacute;dio insano acaba se tornando o que a Alemanha de Hitler se tornou. &Eacute; preciso cuidado, portanto, para que o &oacute;dio, a insanidade ou o fascismo de alguns n&atilde;o contamine todo o Estado.<br /></p>
+<p>	<br /></p>
+<p>	Impressionada com a falta de argumentos coerentes, muitas vezes por pura ignor&acirc;ncia, noutras por evidente fascismo, de alguns defensores da redu&ccedil;&atilde;o da maioridade penal em nosso pa&iacute;s, tomei o cuidado de investigar quais seriam os mentores das tais PECs que tramitam no Congresso e que estariam trazendo &agrave; tona tal discuss&atilde;o sem, entretanto, trazer consigo, o devido debate sobre os porqu&ecirc;s da delinqu&ecirc;ncia entre os jovens e qual o papel e as responsabilidades do pr&oacute;prio Estado, diante dessa delinqu&ecirc;ncia que se pretende solucionar com algo que n&atilde;o se mostra eficiente nem para adultos, para quem o Sistema Prisional, como mecanismo de recupera&ccedil;&atilde;o e reinser&ccedil;&atilde;o social tamb&eacute;m se mostra totalmente falido.<br /></p>
+<p>	<br /></p>
+<p>	Descobri, ent&atilde;o, que n&atilde;o era s&oacute; o &oacute;dio insano que movia os defensores de tais projetos, mas interesses inconfess&aacute;veis de mentes, essas sim, criminosas. Tramitam pelo menos sete Propostas de Emendas &agrave; Constitui&ccedil;&atilde;o, cujo objetivo &eacute; a redu&ccedil;&atilde;o da maioridade penal. Entre os proponentes figuras bem conhecidas de nossa pol&iacute;tica nacional: os senadores Romero Juc&aacute;, Roberto Arruda (chegou a apresentar duas PECs sobre esse tema), &Iacute;ris Resende, Eduardo Azeredo, Magno Malta e Papaleo Paes.<br /></p>
+<p>	<br /></p>
+<p>	Em 2007, todas essas PECs que sugeriam imputabilidade penal para jovens de 13 anos, como no caso da proposta do Senador Magno Malta, ou at&eacute; sem limites m&iacute;nimos de idade, como no caso da proposta do senador Papaleo Paes, foram relatadas pelo ent&atilde;o senador Dem&oacute;stenes Torres que prop&ocirc;s suas rejei&ccedil;&otilde;es pela Comiss&atilde;o de Constitui&ccedil;&atilde;o e Justi&ccedil;a, sugerindo, em seu relat&oacute;rio, a aprova&ccedil;&atilde;o apenas da PEC 20/1999, do ex-senador Roberto Arruda, com a qual o art. 228, da Constitui&ccedil;&atilde;o Federal passaria a ter o seguinte texto:<br /></p>
+<p>	<br /></p>
+<p>	&ldquo;Art. 228. S&atilde;o penalmente inimput&aacute;veis os menores de dezesseis anos, sujeitos &agrave;s normas da legisla&ccedil;&atilde;o especial. Par&aacute;grafo &uacute;nico. Os menores de dezoito anos e maiores de dezesseis anos:<br /></p>
+<p>	<br /></p>
+<p>	I &ndash; somente ser&atilde;o penalmente imput&aacute;veis quando, ao tempo da a&ccedil;&atilde;o ou omiss&atilde;o, tinham plena capacidade de entender o car&aacute;ter il&iacute;cito do fato e de determinar- se de acordo com esse entendimento, atestada por laudo t&eacute;cnico, elaborado por junta nomeada pelo juiz;<br /></p>
+<p>	<br /></p>
+<p>	II &ndash; cumprir&atilde;o pena em local distinto dos presos maiores de dezoito anos;<br /></p>
+<p>	<br /></p>
+<p>	III &ndash; ter&atilde;o a pena substitu&iacute;da por uma das medidas socioeducativas, previstas em lei, desde que n&atilde;o estejam incursos em nenhum dos crimes referidos no inciso XLIII, do art. 5&ordm; desta Constitui&ccedil;&atilde;o.&rdquo;<br /></p>
+<p>	<br /></p>
+<p>	Desde a aprova&ccedil;&atilde;o do relat&oacute;rio de Dem&oacute;stenes Torres, na CCJC, todas essas PECs foram inclu&iacute;das na ordem do dia do Senado, podendo ser votadas a qualquer momento, bastando, para tanto, um acordo de lideran&ccedil;as que as coloque na pauta de vota&ccedil;&atilde;o.<br /></p>
+<p>	<br /></p>
+<p>	No momento, ent&atilde;o, a favor da redu&ccedil;&atilde;o da maioridade penal, temos um parecer feito por um ex-senador, do DEM, cassado por ter sido um dos mentores de um dos maiores esc&acirc;ndalos de corrup&ccedil;&atilde;o de que se tem not&iacute;cia neste Pa&iacute;s, que praticava tr&aacute;fico de influ&ecirc;ncia com a maior desenvoltura, com o intuito de beneficiar o esquema mafioso do bicheiro Carlinhos Cachoeira e da Construtora Delta, recomendando a aprova&ccedil;&atilde;o de uma Proposta de Emenda &agrave; Constitui&ccedil;&atilde;o de um outro ex-senador, flagrado quebrando o sigilo do painel de vota&ccedil;&otilde;es do Senado, quando na presid&ecirc;ncia da Casa e mais, que recentemente comandou outro gigantesco esc&acirc;ndalo de corrup&ccedil;&atilde;o, o chamado Mensal&atilde;o do DEM, quando governava o Distrito Federal e distribu&iacute;a propinas para deputados e pol&iacute;ticos para aprova&ccedil;&atilde;o dos projetos de interesse de seu governo.<br /></p>
+<p>	<br /></p>
+<p>	Ali&aacute;s, foi nesse caso, o do Mensal&atilde;o do DEM, comandado por Roberto Arruda, que uma deputada corrupta foi filmada rezando, em agradecimento &agrave;s propinas recebidas.<br /></p>
+<p>	<br /></p>
+<p>	Se o Parecer n&ordm; 478/2007 n&atilde;o fosse da lavra do ex-senador Dem&oacute;stenes Torres, eu at&eacute; me impressionaria com o cinismo do texto, mas sendo o relator quem &eacute;, sendo o relator uma pessoa que vestia a m&aacute;scara de vestal e defensor p&uacute;blico n&ordm; 1 da moralidade, para esconder sua verdadeira face de bandido de colarinho branco, n&atilde;o &eacute; de causar surpresas que para justificar a redu&ccedil;&atilde;o da maioridade penal tenha se utilizado de argumentos dos mais falaciosos para ocultar a fal&ecirc;ncia do Estado que sempre o protegeu e ainda o protege com uma aposentadoria de mais de R$ 24 mil mensais, como procurador de Justi&ccedil;a vital&iacute;cio que &eacute;, apesar de cassado como senador por corrup&ccedil;&atilde;o. Dem&oacute;stenes Torres, assim como aqueles que representou e ainda representa transferiu todos os &ocirc;nus dessa fal&ecirc;ncia estatal para os jovens, que antes de se tornarem algozes, foram v&iacute;timas da falta de pol&iacute;ticas p&uacute;blicas decorrente dos desvios de dinheiro p&uacute;blico cometidos por corruptos como o pr&oacute;prio autor da PEC da Menoridade Penal e o pr&oacute;prio relator desta.<br /></p>
+<p>	<br /></p>
+<p>	Em seu relat&oacute;rio, Dem&oacute;stenes Torres afirma que a maioridade penal aos 18 anos &eacute; respons&aacute;vel pelo uso de menores por quadrilhas organizadas que os utilizam como escudo contra o Judici&aacute;rio. Afirma, ainda, que no Rio de Janeiro e em S&atilde;o Paulo, 1% da popula&ccedil;&atilde;o estaria envolvida com o tr&aacute;fico de drogas e que em sua maioria seriam os jovens os envolvidos com esse crime. Esses, portanto, seriam os motivos, que, no entender do ex-senador, cassado por tr&aacute;fico de influ&ecirc;ncia em favor de empreiteiras e suas obras superfaturadas, justificariam a redu&ccedil;&atilde;o da maioridade penal para dezesseis anos.<br /></p>
+<p>	<br /></p>
+<p>	&Eacute; natural que quem se beneficia do dinheiro desviado das pol&iacute;ticas p&uacute;blicas para os cofres polpudos de empreiteiras, por meio de obras superfaturadas, fa&ccedil;a uso de um argumento desses. Ora, porque chamar a aten&ccedil;&atilde;o de todos para os reais motivos da situa&ccedil;&atilde;o de nossas crian&ccedil;as e de nossos jovens&#63; Isso seria o mesmo que chamar a aten&ccedil;&atilde;o para os vergonhosos &iacute;ndices de nossa educa&ccedil;&atilde;o b&aacute;sica, para a pol&iacute;tica educacional que manda aprovar crian&ccedil;as sequer alfabetizadas de uma s&eacute;rie para outra, para que n&atilde;o se comprometam os &iacute;ndices de aprova&ccedil;&atilde;o, as metas. Seria o mesmo que chamar a aten&ccedil;&atilde;o da popula&ccedil;&atilde;o para o fato de que, nas escolas p&uacute;blicas, a merenda &eacute; de p&eacute;ssima qualidade porque est&aacute; entregue a empresas mafiosas, j&aacute; flagradas em opera&ccedil;&otilde;es policiais cometendo todo tipo de fraude, como &eacute; o caso das empresas paulistas que fornecem merenda para as crian&ccedil;as da Rede Municipal do Recife, a Geraldo J, Coan e a SP Alimenta&ccedil;&atilde;o.<br /></p>
+<p>	<br /></p>
+<p>	Se traficantes de drogas e quadrilheiros est&atilde;o se aproveitando de nossas crian&ccedil;as e de nossos jovens para a pr&aacute;tica de seus crimes &eacute; porque outros tipos de criminosos, os de colarinho branco, os que traficam influ&ecirc;ncia e formam quadrilhas para assaltar o Er&aacute;rio desviam os recursos que deveriam ser investidos na educa&ccedil;&atilde;o e na forma&ccedil;&atilde;o desses jovens. Ent&atilde;o a solu&ccedil;&atilde;o evidentemente &eacute; a de sempre: punir o mais fraco, o que n&atilde;o tem como se defender e com isso jogar mais fuma&ccedil;a sobre o verdadeiro &ldquo;x&rdquo; do problema.<br /></p>
+<p>	<br /></p>
+<p>	A quest&atilde;o da delinqu&ecirc;ncia entre jovens, que alguns chamam de criminalidade, &eacute; quest&atilde;o afeta &agrave; seara das pol&iacute;ticas p&uacute;blicas, &eacute; quest&atilde;o social e n&atilde;o penal. Tenho visto alguns debates sobre a transfer&ecirc;ncia das Escolas Profissionalizantes da Rede Municipal de Ensino da Secretaria de Educa&ccedil;&atilde;o para a Secretaria da Juventude da Prefeitura. Pretendo evidentemente, num futuro pr&oacute;ximo, aprofundar-me mais sobre esse assunto espec&iacute;fico, mas ap&oacute;s ler a <a href="https://especiais.ne10.uol.com.br/por_tras_do_muro/index.html"><strong>mat&eacute;ria publicada hoje no Portal NE10, sobre a situa&ccedil;&atilde;o da FUNASE</strong></a>, em Pernambuco, grav&iacute;ssima, como todos sabemos e que &eacute; a maior prova da falta de pol&iacute;ticas p&uacute;blicas para jovens em nosso Estado, fico me questionando o porqu&ecirc; de uma Secretaria da Juventude n&atilde;o se preocupar em instalar suas pr&oacute;prias escolas profissionalizantes dentro dessas Unidades, que, segundo a mat&eacute;ria do NE10, n&atilde;o as possuem, ficando os internos no mais absoluto &oacute;cio, em vez de querer tomar posse de escolas j&aacute; administradas pela Secretaria de Educa&ccedil;&atilde;o e que incluem, em seu p&uacute;blico, n&atilde;o apenas jovens, mas tamb&eacute;m adultos de todas as idades. Qual o prop&oacute;sito disso, afinal&#63;<br /></p>
+<p>	<br /></p>
+<p>	Como podemos observar, a quest&atilde;o &eacute; bem mais complexa e envolve interesses muito maiores do que os singelamente postos at&eacute; o momento pelos defensores dessa ideia.</p></p>
+<p></p>
+{% endraw %}

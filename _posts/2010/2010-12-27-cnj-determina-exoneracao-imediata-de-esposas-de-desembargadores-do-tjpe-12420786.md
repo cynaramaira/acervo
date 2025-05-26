@@ -1,0 +1,39 @@
+---
+id: 12420786
+date: "2010-12-27T09:50:00Z"
+last_modified_at: null
+tags:
+  - "desembargadores"
+  - "exoneracao"
+  - "tjpe"
+categories:
+  - "noticias"
+title: "CNJ determina exonera\u00e7\u00e3o imediata de esposas de desembargadores do TJPE"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><div id="__ss_6379632" style="width: 477px"><strong style="display: block; margin: 12px 0px 4px"><a title="Decis&atilde;o de Eliana Calmon no CNJ" href="https://www.slideshare.net/blogdejamildo/deciso-de-eliana-calmon-no-cnj">Decis&atilde;o de Eliana Calmon no CNJ</a></strong><object id="__sse6379632" width="477" height="510"><param name="movie" value="https://static.slidesharecdn.com/swf/doc_player.swf&#63;doc=decisodeelianacalmonnocnj-101227071536-phpapp01&stripped_title=deciso-de-eliana-calmon-no-cnj&userName=blogdejamildo" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse6379632" src="https://static.slidesharecdn.com/swf/doc_player.swf&#63;doc=decisodeelianacalmonnocnj-101227071536-phpapp01&stripped_title=deciso-de-eliana-calmon-no-cnj&userName=blogdejamildo" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="477" height="510"></embed></object></p>
+<p><div style="padding-right: 0px; padding-left: 0px; padding-bottom: 12px; padding-top: 5px">View more <a href="https://www.slideshare.net/">documents</a> from <a href="https://www.slideshare.net/blogdejamildo">Jamildo Melo</a>.</div></p>
+<p></div></p>
+<p><p>No Conselho Nacional de Justi&ccedil;a (CNJ), a Corregedoria-Geral, na pessoa da ministra Eliana Calmon, encarregou-se de analisar uma provoca&ccedil;&atilde;o encaminhada ainda em 2009 dando conta que, dentre outros casos de nepotismo, duas mereciam relevo e destaque.</p></p>
+<p><p>A den&uacute;ncia surgiu em plena audi&ecirc;ncia p&uacute;blica, ocorrida no meio do ano, quando uma miss&atilde;o do CNJ desembarcou no Recife e compilou uma s&eacute;rie de den&uacute;ncias de irregularidades.</p></p>
+<p><p>O primeiro caso tratava da servidora Maria Ism&ecirc;nia, esposa de um desembargador do TJPE, atual diretor da ESMAPE (Escola da Magistratura de Pernambuco), diretor da Central de Concilia&ccedil;&atilde;o, Media&ccedil;&atilde;o e Arbitragem da Capital. Desde 1991, Maria Ism&ecirc;nia&nbsp;ocupa cargo comissionado no Tribunal.</p></p>
+<p><p>Quando o atual presidente, Jos&eacute; Fernandes de Lemos, era Corregedor Geral de Justi&ccedil;a, Maria Ism&ecirc;nia trabalhava na CGJ, diretamente com Fernandes. Desde que virou presidente, Fernandes levou Maria Ism&ecirc;nia da Corregedoria para o Pal&aacute;cio da Justi&ccedil;a, sendo sua assessora direta.</p></p>
+<p><p>O segundo caso refere-se &agrave; esposa do pr&oacute;prio presidente do TJPE, Juliana Dias Lemos, que come&ccedil;ou sua carreira como estagi&aacute;ria e det&eacute;m cargo comissionado, estando lotada no gabinete do desembargador Leopoldo Raposo.</p></p>
+<p><p>Com a assun&ccedil;&atilde;o de Jos&eacute; Fernandes &agrave; Presid&ecirc;ncia, Raposo assumiu a Dire&ccedil;&atilde;o da Escola da Magistratura e ent&atilde;o Juliana Dias Lemos passou a trabalhar na ESMAPE, al&eacute;m de representar a ACMEPE, a Associa&ccedil;&atilde;o das Esposas e C&ocirc;njuges dos Magistrados, que funciona no F&oacute;rum Paula Batista e que &eacute; motivo de outra reclama&ccedil;&atilde;o protocolada no CNJ, por ser uma entidade privada ocupando espa&ccedil;o p&uacute;blico.</p></p>
+<p><p>O Conselho Nacional de Justi&ccedil;a recebeu o pedido de provid&ecirc;ncias, requereu informa&ccedil;&otilde;es, analisou e decidiu que o presidente do Tribunal deveria promover a exonera&ccedil;&atilde;o imediata das duas comissionadas, sob pena de apura&ccedil;&atilde;o de responsabilidade, nas pessoas do presidente, Jos&eacute; Fernandes, seu vice, desembargador. Jovaldo Nunes, e&nbsp;o diretor da ESMAPE, desembargador Leopoldo Raposo.</p></p>
+<p><p>As fichas funcionais de ambos foi solicitada para aplica&ccedil;&atilde;o de eventual san&ccedil;&atilde;o, em caso de desobedi&ecirc;ncia. N&atilde;o houve necessidade.</p></p>
+<p><p>Sem alarde, o vice-presidente, Jovaldo Nunes, assinou no dia 18 de novembro &uacute;ltimo o ato exonerando as duas. Veja a reprodu&ccedil;&atilde;o l&aacute; embaixo.</p></p>
+<p><p>O TJPE chegou a recorrer da decis&atilde;o, em documento datado de 05 de novembro de 2010, alegando que o CNJ estaria violando o direito &agrave; intimidade das partes, suscitando decis&otilde;es de outros Tribunais, em que era relativizado, at&eacute; de forma permissiva o nepotismo, e sustentando que a rela&ccedil;&atilde;o estabelecida entre as autoridades e suas esposas n&atilde;o era nepotismo.</p></p>
+<p><p>Em 10 de dezembro, o desembargador Jones Figueir&ecirc;do, ocupando interinamente a Presid&ecirc;ncia, atrav&eacute;s de of&iacute;cio n&uacute;mero 1102/2010 - GP cumpriu a miss&atilde;o de formalizar a desist&ecirc;ncia do recurso que reclamava invas&atilde;o &agrave; privacidade dos casais.</p></p>
+<p><p>Houve ainda um Mandado de Seguran&ccedil;a, interposto pelas servidoras, perante o STF, sob o no. 29.933, e que mereceu aten&ccedil;&atilde;o da ministra Carmen Lucia, em 22 de novembro de 2010. Ela indeferiu a liminar pleiteada pelas esposas dos desembargadores e foi mais al&eacute;m, estampando que deveria o TJPE, t&atilde;o logo tomou conhecimento da situa&ccedil;&atilde;o, ter ele mesmo, sem a necessidade de interfer&ecirc;ncia externa, regularizado a situa&ccedil;&atilde;o.</p></p>
+<p><div id="__ss_6379654" style="width: 477px"><strong style="display: block; margin: 12px 0px 4px"><a title="Recurso do TJPE" href="https://www.slideshare.net/blogdejamildo/recurso-do-tjpe">Recurso do TJPE</a></strong><object id="__sse6379654" width="477" height="510"><param name="movie" value="https://static.slidesharecdn.com/swf/doc_player.swf&#63;doc=recursodotjpe-101227071828-phpapp01&stripped_title=recurso-do-tjpe&userName=blogdejamildo" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse6379654" src="https://static.slidesharecdn.com/swf/doc_player.swf&#63;doc=recursodotjpe-101227071828-phpapp01&stripped_title=recurso-do-tjpe&userName=blogdejamildo" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="477" height="510"></embed></object></p>
+<p><div style="padding-right: 0px; padding-left: 0px; padding-bottom: 12px; padding-top: 5px">View more <a href="https://www.slideshare.net/">documents</a> from <a href="https://www.slideshare.net/blogdejamildo">Jamildo Melo</a>.</div></p>
+<p></div></p>
+<p><div id="__ss_6379946" style="width: 477px"><strong style="display: block; margin: 12px 0px 4px"><a title="A exonera&ccedil;&atilde;o" href="https://www.slideshare.net/blogdejamildo/a-exonerao">A exonera&ccedil;&atilde;o</a></strong><object id="__sse6379946" width="477" height="510"><param name="movie" value="https://static.slidesharecdn.com/swf/doc_player.swf&#63;doc=exonerao-101227072627-phpapp01&stripped_title=a-exonerao&userName=blogdejamildo" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse6379946" src="https://static.slidesharecdn.com/swf/doc_player.swf&#63;doc=exonerao-101227072627-phpapp01&stripped_title=a-exonerao&userName=blogdejamildo" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="477" height="510"></embed></object></p>
+<p><div style="padding-right: 0px; padding-left: 0px; padding-bottom: 12px; padding-top: 5px">View more <a href="https://www.slideshare.net/">documents</a> from <a href="https://www.slideshare.net/blogdejamildo">Jamildo Melo</a>.</div></p>
+<p></div> </p>
+{% endraw %}

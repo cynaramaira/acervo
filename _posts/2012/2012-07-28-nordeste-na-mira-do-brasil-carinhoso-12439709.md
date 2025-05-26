@@ -1,0 +1,38 @@
+---
+id: 12439709
+date: "2012-07-28T14:00:00Z"
+last_modified_at: null
+tags:
+  - "brasil"
+  - "emirados"
+  - "nordeste"
+categories:
+  - "noticias"
+title: "Nordeste na mira do Brasil Carinhoso"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;"><img width="470" height="300" alt="" fotonotitulo="nao" src="https://jc3.uol.com.br/blogs/repositorio/BS270712020.jpg" />Foto: Bernardo Soares/JC Imagem</p></p>
+<p><p style="text-align: justify;">Gabriela L&oacute;pez<br /></p>
+<p><br /></p>
+<p>A ministra de Desenvolvimento Social e Combate &agrave; Fome, Tereza Campelo, esteve no Recife para um evento do Movimento Pr&oacute;-Crian&ccedil;a nessa sexta-feira (28). Em entrevista exclusiva ao <b>Blog de Jamildo</b>, ela falou sobre o Programa Brasil Carinhoso. Lan&ccedil;ado em junho deste ano, o programa visa crian&ccedil;as com idade entre 0 e 6 anos. A meta &eacute; tirar este p&uacute;blico da extrema pobreza, fazendo com que a renda da fam&iacute;lia supere R$ 70 por membro.</p></p>
+<p><p style="text-align: justify;"><b>LEIA TAMB&Eacute;M:</b> <a href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2012/07/27/ministra_de_dilma_diz_que_quer_participar_da_campanha_de_humberto_no_recife_135154.php"><b>Ministra de Dilma diz que quer participar da campanha de Humberto no Recife</b></a><br /></p>
+<p><br /></p>
+<p><b>BLOG DE JAMILDO &ndash; Qual &eacute; a meta do Brasil Carinhoso em Pernambuco&#63;<br /></p>
+<p>TEREZA CAMPELO</b> &ndash; O Brasil Carinhoso &eacute; um programa dentro do Brasil Sem Mis&eacute;ria que atende crian&ccedil;as com idade entre 0 e 6 anos. Nossa grande preocupa&ccedil;&atilde;o &eacute; que a maior parte dos extremamente pobres s&atilde;o jovens, crian&ccedil;as, e observamos que, entre este p&uacute;blico, n&atilde;o s&oacute; h&aacute; muitos pobres como h&aacute; muita gente fora da escola, sem acesso a merenda escolar nem est&iacute;mulo. Consideramos em extrema pobreza quem ganha abaixo de R$ 70, ent&atilde;o queremos fazer todo mundo ganhar acima disso.&lt;CF270&gt; Como o pagamento come&ccedil;ou em junho, podemos dizer que j&aacute; tiramos 69% das crian&ccedil;as da extrema pobreza e, como ao tirar a crian&ccedil;a, tiramos tamb&eacute;m a fam&iacute;lia, 43% da popula&ccedil;&atilde;o do Estado em extrema pobreza saiu desta situa&ccedil;&atilde;o. Isto no que diz respeito &agrave; renda, porque extrema pobreza envolve outras coisas, como assist&ecirc;ncia odontol&oacute;gica.<br /></p>
+<p><br /></p>
+<p><b>BLOG &ndash; H&aacute; cr&iacute;ticas de que programas de transfer&ecirc;ncia de renda, como o Brasil Carinhoso, s&atilde;o assistencialistas, n&atilde;o h&aacute; pol&iacute;ticas p&uacute;blicas estruturadoras. <br /></p>
+<p>TEREZA</b> &ndash; N&atilde;o achamos assistencialista. O Brasil Carinhoso est&aacute; dentro do Brasil Sem Mis&eacute;ria e este tem v&aacute;rias medidas estruturadoras, como oferta de cursos de qualifica&ccedil;&atilde;o profissional, s&atilde;o 198 tipos de atividade. Em Pernambuco, oferecemos 18 mil vagas para este ano. Agora, precisamos desmistificar algumas coisas. As pessoas acham que quem tem o Bolsa Fam&iacute;lia n&atilde;o trabalha e isto n&atilde;o &eacute; verdade. Cinquenta e seis por cento das pessoas do Bolsa Fam&iacute;lia t&ecirc;m menos de 18 anos de idade, ent&atilde;o elas n&atilde;o podem trabalhar, seria trabalho infantil. Entre os adultos, 72% trabalham, mas, &agrave;s vezes, a pessoa n&atilde;o tem renda suficiente para sair da pobreza. Aqui em Pernambuco, por exemplo, muitos trabalham na colheita da cana e s&oacute; recebem quatro meses de sal&aacute;rio. Outro exemplo: tem gente que ganha um sal&aacute;rio m&iacute;nimo, mas tem oito filhos, ent&atilde;o vive na extrema pobreza. No Nordeste, os lugares onde mais cresceu o n&uacute;mero de emprego s&atilde;o os que mais t&ecirc;m cobertura do Bolsa Fam&iacute;lia. Tamb&eacute;m diziam que as pessoas iam ter mais filhos. Hoje sabemos que a taxa de fecundidade diminuiu no Brasil. Terceiro: diziam que as pessoas n&atilde;o iriam saber gastar o dinheiro, mas hoje sabemos que o dinheiro &eacute; usado para comprar alimentos e produtos de higiene.<br /></p>
+<p><br /></p>
+<p><b>BLOG&ndash; Pernambuco est&aacute; em quinto lugar no ranking dos dez Estados com maior concentra&ccedil;&atilde;o de extrema pobreza. Como &eacute; este cen&aacute;rio aqui comparado com os outros estados&#63;<br /></p>
+<p>TEREZA</b> &ndash; Pernambuco tem 1,38 milh&atilde;o de pessoas na extrema pobreza. Isto &eacute; o estoque dos 500 anos de Brasil e n&atilde;o dos &uacute;ltimos dez anos. Houve &eacute;pocas em que o Brasil esteve estagnado economicamente e outras em que o desenvolvimento era concentrado no Sul e Sudeste. As taxas de crescimento do Nordeste crescem acima das outras regi&otilde;es hoje, mas, at&eacute; igualar o n&uacute;mero de desigualdade, vai demorar um tempo. A parcela da popula&ccedil;&atilde;o adulta, idosa, em situa&ccedil;&atilde;o de analfabetismo, por exemplo, &eacute; dif&iacute;cil de mudar. Na parte do que estamos fazendo, dos servi&ccedil;os que estamos oferecendo, a Regi&atilde;o Nordeste &eacute; disparada a que recebe mais esfor&ccedil;os nossos, porque precisa mais. Exemplo: no Brasil de modo geral, o n&uacute;mero de escolas que tem mais de 50% de alunos integrando o Bolsa Fam&iacute;lia cresceu 53% entre 2011 e 2012. Em Pernambuco especificamente, este aumento salta para 72%. Estamos fazendo todo um esfor&ccedil;o de amplia&ccedil;&atilde;o no Nordeste. O Bolsa Fam&iacute;lia representa s&oacute; 0,46% do PIB brasileiro. Ou seja, o gasto com o programa &eacute; quase nenhum, porque h&aacute; um retorno. Quando as pessoas compram alimentos com o dinheiro do Bolsa Fam&iacute;lia estimulam o com&eacute;rcio. Por outro lado, o governo federal repassa para Pernambuco R$ 1,7 bilh&atilde;o, que &eacute; 1,76% do PIB do Estado. &Eacute; um investimento significativo.<br /></p>
+<p><br /></p>
+<p><b>BLOG &ndash; Qual &eacute; a garantia de continuidade do programa&#63; Por exemplo, se mudar de governo, corre o risco de algu&eacute;m querer acabar com o programa.<br /></p>
+<p>TEREZA</b> &ndash; O Bolsa Fam&iacute;lia e o Brasil Carinhoso s&atilde;o lei. Eu acho dif&iacute;cil depois do governo Dilma algu&eacute;m ter coragem de acabar com eles. Ningu&eacute;m vai fazer isso. Est&aacute; comprovada a efic&aacute;cia do Bolsa Fam&iacute;lia. O mundo todo vem nos copiar e n&oacute;s vamos acabar&#63;<br /></p>
+<p><br /></p>
+<p><b>BLOG &ndash; Tamb&eacute;m acusaram o Brasil Carinhoso de ter car&aacute;ter eleitoral, j&aacute; que foi lan&ccedil;ado em ano de elei&ccedil;&atilde;o.<br /></p>
+<p>TEREZA</b> &ndash; Disseram isto no Bolsa Fam&iacute;lia tamb&eacute;m. O que tenho a falar &eacute;: atinge todos o munic&iacute;pios, n&atilde;o depende de partido do prefeito, n&atilde;o depende de nada. Al&eacute;m disso, ningu&eacute;m precisa pedir para entrar no Brasil Carinhoso. Todas as fam&iacute;lias que ganham o Bolsa Fam&iacute;lia e t&ecirc;m pelo menos um filho com at&eacute; 6 anos recebem automaticamente. Se tivesse que pedir para entrar, a&iacute; algu&eacute;m ainda podia dizer &ldquo;n&atilde;o, eu te dou e em troca voc&ecirc; faz isso ou aquilo&rdquo;, mas n&atilde;o precisa. Tamb&eacute;m n&atilde;o depende de pleito, &eacute; um benef&iacute;cio impessoal. Ent&atilde;o, a pergunta que fazemos &eacute;: uma crian&ccedil;a mal alimentada deveria esperar as elei&ccedil;&otilde;es passarem&#63; O Brasil deve parar seis meses e as crian&ccedil;as continuarem na extrema pobreza s&oacute; porque &eacute; elei&ccedil;&atilde;o&#63;</p></p>
+{% endraw %}

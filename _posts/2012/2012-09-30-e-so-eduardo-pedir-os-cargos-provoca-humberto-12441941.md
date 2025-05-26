@@ -1,0 +1,31 @@
+---
+id: 12441941
+date: "2012-09-30T12:42:00Z"
+last_modified_at: null
+tags:
+  - "eduardo"
+  - "humberto-costa"
+categories:
+  - "noticias"
+title: "\u00c9 s\u00f3 Eduardo pedir os cargos, provoca Humberto"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;"><img width="470" height="300" src="https://jc3.uol.com.br/blogs/repositorio/Alto do Ceu.jpg" fotonotitulo="nao" alt="" />Foto: S&eacute;rgio Figueiredo/divulga&ccedil;&atilde;o</p></p>
+<p><p style="text-align: justify;">D&eacute;bora Duque, no <b>Jornal do Commercio</b> deste domingo (30)</p></p>
+<p><p style="text-align: justify;">Mesmo com a radicaliza&ccedil;&atilde;o da campanha entre PSB e PT na disputa do Recife, os petistas n&atilde;o cogitam abandonar voluntariamente os cargos que ocupam no governo do Estado. Tampouco est&atilde;o dispostos a ceder &agrave;s &ldquo;press&otilde;es veladas&rdquo; para sair da gest&atilde;o estadual, o que s&oacute; deve acontecer caso haja uma ordem expressa do governador Eduardo Campos (PSB). Pelo menos esse foi o tom do recado dado, nesse s&aacute;bado (29), pelo senador Humberto Costa (PT) em rea&ccedil;&atilde;o &agrave; not&iacute;cia de que o socialista estaria liderando uma movimenta&ccedil;&atilde;o silenciosa para induzir secret&aacute;rios e funcion&aacute;rios filiados ao PT a pedirem exonera&ccedil;&atilde;o.</p></p>
+<p><p style="text-align: justify;"><a href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2012/09/29/pt_de_malas_prontas_para_deixar_o_governo_139067.php&#63;rand=1150764456"><b>PT de malas prontas para deixar o governo</b></a></p></p>
+<p><p style="text-align: justify;">O assunto, segundo Humberto, n&atilde;o est&aacute; sendo tratado pelo partido. Entretanto, ele fez quest&atilde;o de refor&ccedil;ar que o governador tem &ldquo;autonomia&rdquo; para realizar trocas na administra&ccedil;&atilde;o. &ldquo;Ele n&atilde;o precisa fazer press&atilde;o, nem mandar recados. &Eacute; s&oacute; pedir os cargos de volta&rdquo;, resumiu. Como o desembarque do governo do Estado consolidaria o rompimento pol&iacute;tico entre PT e PSB, a estrat&eacute;gia petista &eacute; &ldquo;jogar no colo&rdquo; do governador a responsabilidade pelo fim da alian&ccedil;a. Ao mesmo tempo, Eduardo trabalha nos bastidores para levar os petistas a se autodemitirem e, assim, n&atilde;o capitalizar esse desgaste pol&iacute;tico.</p></p>
+<p><p style="text-align: justify;">Humberto lembrou que o PSB faz parte das gest&otilde;es do PT no Recife e no governo federal na tentativa de justificar a perman&ecirc;ncia do PT na m&aacute;quina estadual. &ldquo;Por conta da elei&ccedil;&atilde;o municipal, o PSB n&atilde;o est&aacute; saindo do governo federal nem do municipal. Por que o PT vai fazer essa discuss&atilde;o agora&#63; Mas o governador tem toda liberdade de mexer na hora que considerar melhor. Os cargos s&atilde;o dele&rdquo;, provocou.</p></p>
+<p><p style="text-align: justify;">O petista tamb&eacute;m explicou a decis&atilde;o de levar ao guia eleitoral da sexta-feira (28) o rompimento com o prefeito Jo&atilde;o da Costa (PT). No programa, ele declarou com todas as letras que o gestor apoia o candidato Geraldo Julio (PSB), embora o partido esperasse do prefeito que ele adotasse, no m&iacute;nimo, uma &ldquo;posi&ccedil;&atilde;o de neutralidade&rdquo;.</p></p>
+<p><p style="text-align: justify;">&ldquo;Ele (Jo&atilde;o da Costa) est&aacute; claramente engajado na campanha do candidato do PSB e dos candidatos a vereador ligados a ele. Por isso, a gente teve que dizer claramente que o candidato do PSB tem o apoio do prefeito e a responsabilidade com a gest&atilde;o atual&rdquo;, justificou Humberto, ap&oacute;s participar de uma caminhada, ontem, na praia de Boa Viagem.</p></p>
+<p><p style="text-align: justify;"><b>ALIAN&Ccedil;A</b> - Para &ldquo;compensar&rdquo; a aus&ecirc;ncia da presidente Dilma e do ex-presidente Lula no palanque, Humberto Costa (PT) recebeu, nesse s&aacute;bado (29), o bra&ccedil;o-direito das duas principais lideran&ccedil;as do PT: o ministro da secretaria-geral da Presid&ecirc;ncia, Gilberto Carvalho. Sua miss&atilde;o foi refor&ccedil;ar a campanha do aliado, mas o pr&oacute;prio ministro deixou claro o motivo pelo qual Dilma e Lula optaram por n&atilde;o pisar no Recife: a preserva&ccedil;&atilde;o da alian&ccedil;a nacional com o PSB.<br /></p>
+<p><br /></p>
+<p>&ldquo;A presidente Dilma est&aacute; muito cuidadosa e, por isso, n&atilde;o veio aqui nem gravou para Humberto. N&atilde;o &eacute; porque n&atilde;o deseja a elei&ccedil;&atilde;o dele, mas ela sabe que h&aacute; vida depois das elei&ccedil;&otilde;es e ela tem que contar com o apoio da base&rdquo;, disse. Em rela&ccedil;&atilde;o &agrave; aus&ecirc;ncia de Lula, Gilberto Carvalho alegou os problemas de sa&uacute;de enfrentados pelo ex-presidente, mas reconheceu que o enfrentamento com o PSB tamb&eacute;m pesou.<br /></p>
+<p><br /></p>
+<p>&ldquo;A elei&ccedil;&atilde;o de Humberto &eacute; importante para os dois. Mas h&aacute; um cuidado que outros deveriam ter tamb&eacute;m. Essa alian&ccedil;a (com o PSB) &eacute; muito cara para n&oacute;s, o que n&atilde;o significa que n&atilde;o haja debates radicalizados em cada munic&iacute;pio&rdquo;, minimizou.</p></p>
+<p><p style="text-align: justify;">Ao mesmo tempo em que se esfor&ccedil;ou para demonstrar o apoio da dire&ccedil;&atilde;o nacional do PT a Humberto, o ministro pediu &ldquo;cautela&rdquo; para n&atilde;o &ldquo;prejudicar o projeto nacional do partido&rdquo;. &ldquo;Tem que se ter maturidade na pol&iacute;tica, n&atilde;o ir com muita sede ao pote. O projeto nacional &eacute; t&atilde;o importante que n&atilde;o podemos sacrific&aacute;-lo em fun&ccedil;&atilde;o de determinados interesses. Agora, insisto, o melhor candidato &eacute; Humberto. N&atilde;o vim para falar mal do outro, mas para falar bem do melhor&rdquo;, contemporizou. Gilberto Carvalho tomou caf&eacute; da manh&atilde; na casa de Humberto e, em seguida, gravou depoimentos para o guia eleitoral.</p></p>
+{% endraw %}

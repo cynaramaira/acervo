@@ -1,0 +1,34 @@
+---
+id: 12416126
+date: "2010-07-22T13:21:00Z"
+last_modified_at: null
+tags:
+  - "adelio-bispo"
+  - "contran"
+  - "dilma"
+  - "guarulhos"
+  - "missas"
+  - "orientacoes"
+categories:
+  - "noticias"
+title: "Bispo de Guarulhos orienta padres a pregar nas missas voto contra Dilma"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>No G1</p></p>
+<p><p>O bispo de Guarulhos (SP), dom Luiz Gonzaga Bergonzini, disse em entrevista ao <b>G1</b> que orientar&aacute; os padres da cidade a pregar nas missas o voto contra a candidata do PT &agrave; Presid&ecirc;ncia, Dilma Rousseff. O motivo, segundo ele, &eacute; a defesa da legaliza&ccedil;&atilde;o do aborto nos congressos de 2007 e 2010 do partido.</p></p>
+<p><p>Guarulhos &eacute; o segundo munic&iacute;pio mais populoso do estado de S&atilde;o Paulo (1,3 milh&atilde;o de habitantes, segundo o IBGE), atr&aacute;s somente da capital paulista (11 milh&otilde;es). O prefeito da cidade &eacute; o petista Sebasti&atilde;o Almeida. Cinquenta padres s&atilde;o subordinados &agrave; diocese local, de acordo com o site da institui&ccedil;&atilde;o.</p></p>
+<p><p>&quot;Vou mandar uma circular para os padres da diocese pedindo que eles fa&ccedil;am o pedido na missa, para que os nossos fi&eacute;is n&atilde;o votem na candidata do PT e em nenhum outro candidato que defenda o aborto. Desde o Antigo Testamento, temos que &eacute; proibido matar. Uma pessoa que defende o aborto n&atilde;o pode ser eleita. Eu tenho obriga&ccedil;&atilde;o de orientar meus fi&eacute;is pelo que est&aacute; certo e o que est&aacute; errado&quot;, disse o bispo, de 74 anos, ao <b>G1</b>.</p></p>
+<p><p>Em entrevista na manh&atilde; desta quinta (22) &agrave; r&aacute;dio Marano, de Garanhuns (PE), Dilma negou defender o aborto. &quot;Tanto eu como presidente Lula n&atilde;o somos pessoas que acham que o aborto seja algo para se falar &lsquo;eu defendo o aborto&rsquo;. Por qu&ecirc;&#63; Porque o aborto &eacute; uma viol&ecirc;ncia contra o corpo da mulher. Agora, n&oacute;s reconhecemos uma outra coisa, que &eacute; uma quest&atilde;o de sa&uacute;de p&uacute;blica. O que n&oacute;s n&atilde;o podemos &eacute; deixar que mulheres que t&ecirc;m maior poder aquisitivo tenham acesso a cl&iacute;nicas [e] mulheres com menor poder aquisitivo utilizem m&eacute;todos que n&atilde;o s&oacute; amea&ccedil;am a sa&uacute;de delas, mas at&eacute; a vida&quot;, afirmou.</p></p>
+<p><p>Vou mandar uma circular para os padres da diocese pedindo que eles fa&ccedil;am o pedido na missa, para que os nossos fi&eacute;is n&atilde;o votem na candidata do PT e em nenhum outro candidato que defenda o aborto. Desde o Antigo Testamento temos que &eacute; proibido matar. Uma pessoa que defende o aborto n&atilde;o pode ser eleita. Eu tenho obriga&ccedil;&atilde;o de orientar meus fi&eacute;is pelo que est&aacute; certo e o que est&aacute; errado&quot;</p></p>
+<p><p>Dom Luiz Gonzaga Bergonzini, bispo de Guarulhos</p></p>
+<p><p>&Agrave; r&aacute;dio, a presidenci&aacute;vel petista se disse favor&aacute;vel &agrave; legisla&ccedil;&atilde;o. &quot;Defendemos &eacute; o cumprimento estrito da lei. A lei prev&ecirc; casos em que o aborto dever&aacute; ser feito e garantido pelo estado. Ent&atilde;o, n&atilde;o se trata de uma convic&ccedil;&atilde;o pessoal. Porque eu n&atilde;o conhe&ccedil;o uma mulher, pelo menos das que eu conhe&ccedil;o, que acha o aborto uma coisa fant&aacute;stica e maravilhosa. N&atilde;o &eacute;. &Eacute; uma viol&ecirc;ncia, coloca a mulher em risco de vida. O que defendemos &eacute; que se trate essa quest&atilde;o n&atilde;o como uma quest&atilde;o religiosa, mas sim de sa&uacute;de p&uacute;blica e obedi&ecirc;ncia legal.&quot;</p></p>
+<p><p>No &uacute;ltimo dia 1&ordm;, dom Luiz Bergonzini j&aacute; havia publicado no <a href="https://www.diocesedeguarulhos.org.br/miolo.asp&#63;fs=menu&amp;seq=690&amp;gid=950"><u><font color="#0000ff">site da Diocese de Guarulhos</font></u></a> o artigo intitulado &quot;Dai a C&eacute;sar o que &eacute; de C&eacute;sar e a Deus o que &eacute; de Deus&quot;. No artigo, o bispo pedia aos crist&atilde;os para n&atilde;o votarem na candidata petista. Segundo o texto, o PT e Dilma se posicionaram &quot;p&uacute;blica e abertamente a favor da legaliza&ccedil;&atilde;o do aborto, contra os valores da fam&iacute;lia e contra a liberdade de consci&ecirc;ncia&quot;. At&eacute; o in&iacute;cio da noite desta quarta (21), o texto estava reproduzido no site da Confedera&ccedil;&atilde;o Nacional dos Bispos do Brasil (CNBB), mas, &agrave;s 23h40, quando o <b>G1</b> fez nova consulta, j&aacute; tinha sido retirado.</p></p>
+<p><p>&quot;Sou apartid&aacute;rio, tenho o direito de me manifestar livremente e a obriga&ccedil;&atilde;o de orientar meus fi&eacute;is. Por isso deixei muito clara a posi&ccedil;&atilde;o de que n&atilde;o devem votar na Dilma. Nem nela e em nenhum outro candidato que defenda a legaliza&ccedil;&atilde;o do aborto&quot;, disse o bispo ao <b>G1</b>.</p></p>
+<p><p>O bispo diz argumentar tamb&eacute;m com base no Plano Nacional de Direitos Humanos (PNDH), que, quando lan&ccedil;ado em 2009, defendia o aborto. Em maio deste ano, por meio de um decreto, o presidente Luiz In&aacute;cio Lula da Silva fez algumas <a href="https://g1.globo.com/politica/noticia/2010/05/presidente-altera-trechos-polemicos-do-plano-de-direitos-humanos.html"><u><font color="#0000ff">modifica&ccedil;&otilde;es em trechos considerados pol&ecirc;micos</font></u></a>, entre os quais o artigo que tratava da defesa do aborto. O texto original previa &quot;apoiar o projeto de lei que descriminaliza o aborto&quot;. A nova reda&ccedil;&atilde;o diz apenas que o plano visa &quot;considerar o aborto como tema de sa&uacute;de p&uacute;blica, com a garantia do acesso aos servi&ccedil;os de sa&uacute;de&quot;.</p></p>
+<p><p><a href="https://g1.globo.com/Noticias/Politica/0,,MUL1062034-5601,00-DILMA+DEFENDE+LEGALIZACAO+DO+ABORTO+E+DISTRIBUICAO+DE+RENDA.html"><u><font color="#0000ff">Durante o lan&ccedil;amento do PNHD</font></u></a>, Dilma Rousseff, que na ocasi&atilde;o ainda ocupava o cargo de ministra da Casa Civil e n&atilde;o tinha sido oficializada candidata, manifestou posi&ccedil;&atilde;o sobre o aborto. &quot;Abortar n&atilde;o &eacute; f&aacute;cil para mulher alguma. Duvido que algu&eacute;m se sinta confort&aacute;vel em fazer um aborto. Agora, isso n&atilde;o pode ser justificativa para que n&atilde;o haja uma legaliza&ccedil;&atilde;o&quot;, disse. &quot;O aborto &eacute; uma quest&atilde;o de sa&uacute;de p&uacute;blica. H&aacute; uma quantidade enorme de mulheres brasileiras que morre porque tenta abortar em condi&ccedil;&otilde;es prec&aacute;rias&quot;, afirmou</p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

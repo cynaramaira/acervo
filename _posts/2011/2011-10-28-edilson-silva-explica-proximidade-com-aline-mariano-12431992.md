@@ -1,0 +1,43 @@
+---
+id: 12431992
+date: "2011-10-28T09:32:00Z"
+last_modified_at: null
+tags:
+  - "aline-riscado"
+  - "edilson-vieira"
+  - "pensilvania"
+  - "proximidade"
+categories:
+  - "noticias"
+title: "Edilson Silva explica proximidade com Aline Mariano"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Caro Jamildo, <br /></p>
+<p><br /></p>
+<p>parabenizo a equipe do blog pela cobertura &agrave; Audi&ecirc;ncia P&uacute;blica realizada na C&acirc;mara de Vereadores do Recife no &uacute;ltimo dia 27/10. Aproveito esta para trazer aos seus leitores algumas observa&ccedil;&otilde;es que julgamos relevantes em rela&ccedil;&atilde;o aos desdobramentos da referida audi&ecirc;ncia.<br /></p>
+<p><br /></p>
+<p>1 &ndash; A Audi&ecirc;ncia foi coroada de &ecirc;xito, como poucas das que j&aacute; tive a oportunidade de alguma forma participar. O debate foi bem nivelado, bem conduzido pela vereadora Aline Mariano (PSDB) e ao mesmo tempo esclarecedor;<br /></p>
+<p><br /></p>
+<p>2 &ndash; A audi&ecirc;ncia, que teve nossa participa&ccedil;&atilde;o em sua articula&ccedil;&atilde;o enquanto agente pol&iacute;tico-partid&aacute;rio e do movimento social e popular da cidade, atrav&eacute;s da Comiss&atilde;o de Direitos Humanos da C&acirc;mara, presidida pela vereadora Aline Mariano, teve o objetivo de esclarecer a sociedade sobre a real exist&ecirc;ncia do projeto Avenida Beira Rio, diante do fato de que em nome deste projeto in&uacute;meros despejos e demoli&ccedil;&otilde;es estavam e est&atilde;o em curso na cidade, ao mesmo tempo em que no tra&ccedil;ado da suposta avenida empreendimentos de grandes construtoras e empres&aacute;rios locais est&atilde;o sendo erguidos, sob o sil&ecirc;ncio c&uacute;mplice do poder p&uacute;blico;<br /></p>
+<p><br /></p>
+<p>3 &ndash; Ficou evidenciado, gravado, conclu&iacute;do, que a PCR n&atilde;o tem e nem nunca teve projeto de Avenida Beira Rio. O Sr. Milton Botler, presidente do Instituto Pel&oacute;pidas da Silveira, escalado pela PCR para falar sobre o suposto projeto, diante dos insistentes e bem focados questionamentos, viu-se obrigado a admitir que a PCR deixou de considerar a viabilidade e exeq&uuml;ibilidade de um tra&ccedil;ado pensado para um suposto projeto j&aacute; em 2002, dois anos ap&oacute;s o in&iacute;cio da primeira gest&atilde;o petista na cidade. Segundo Botler, esta decis&atilde;o da PCR se deu por conta da aprova&ccedil;&atilde;o da Lei Municipal dos 12 bairros, em 2002, e por conta de altera&ccedil;&otilde;es na legisla&ccedil;&atilde;o ambiental. Desta afirma&ccedil;&atilde;o, categ&oacute;rica, foram tiradas pelo menos duas importantes conclus&otilde;es:<br /></p>
+<p><br /></p>
+<p>a)&nbsp;&nbsp;&nbsp; A Prefeitura do Recife estava indo &agrave; imprensa, desde 2007 como m&iacute;nimo, rechear as p&aacute;ginas dos jornais com mera pirotecnia, marketing puro e simples, como aconteceu h&aacute; cerca de 2 meses, quando o pr&oacute;prio Sr. Milton Botler foi &agrave;s p&aacute;ginas do Jornal do Comm&eacute;rcio (Caderno Cidades), no dia 24 de agosto de 2011, afirmar a altera&ccedil;&atilde;o do tra&ccedil;ado da suposta Avenida Beira Rio do lado norte para o lado oeste do Rio Capibaribe;<br /></p>
+<p><br /></p>
+<p>b)&nbsp;&nbsp;&nbsp; A Prefeitura estava utilizando-se de forma enganosa de um suposto projeto &ndash; que nunca existiu - para usufruir de suas prerrogativas de desobstru&ccedil;&atilde;o de espa&ccedil;os p&uacute;blicos, no caso logradouros, visto que em in&uacute;meros processos que correm na Justi&ccedil;a ap&oacute;s o ano de 2009 a PCR utiliza n&atilde;o s&oacute; o argumento de que os moradores ou empreendedores despejados ou com im&oacute;veis demolidos estavam localizados em espa&ccedil;os p&uacute;blicos e n&atilde;o edificantes &ndash; caso do trecho entre as pontes da Capunga e da Torre e outros -, como tamb&eacute;m vinha emprestando a estes processos judiciais&nbsp; &ndash; portanto, induzindo a jurisdi&ccedil;&atilde;o a erro, o que &eacute; grav&iacute;ssimo -, c&oacute;pias das plantas planejadas pela URB datadas de 1996, ou seja, plantas que segundo o pr&oacute;prio Milton Botler foram abandonadas por inexequibilidade j&aacute; em 2002. Diante desta constata&ccedil;&atilde;o, os advogados presentes &agrave; audi&ecirc;ncia, representantes legais de cidad&atilde;os que v&ecirc;m tendo seus direitos desrespeitados pela PCR por conta deste suposto projeto, solicitaram formalmente da C&acirc;mara de Vereadores as informa&ccedil;&otilde;es oficiais obtidas pela audi&ecirc;ncia e estas informa&ccedil;&otilde;es ser&atilde;o anexadas aos processos em curso;<br /></p>
+<p><br /></p>
+<p>4 &ndash; Para al&eacute;m das conclus&otilde;es objetivas j&aacute; constatadas, foi solicitado por n&oacute;s que a C&acirc;mara de Vereadores, como desdobramento natural da Audi&ecirc;ncia, solicite da PCR os processos de licenciamento ambiental de arranha-c&eacute;us rec&eacute;m constru&iacute;dos ou em constru&ccedil;&atilde;o &agrave;s margens do Capibaribe, com o objetivo n&atilde;o de derrubar os pr&eacute;dios, mas para apurar responsabilidades e coibir novas infra&ccedil;&otilde;es similares. Foi solicitado tamb&eacute;m por n&oacute;s os processos que liberaram a constru&ccedil;&atilde;o e o funcionamento de pr&eacute;dios da Faculdade Maur&iacute;cio de Nassau, que segundo a PCR afirmou na audi&ecirc;ncia, tem medidas mitigat&oacute;rias a realizar para compensar a cidade. Estas medidas t&ecirc;m o objetivo de frear a pol&iacute;tica do fato consumado, que pode ser praticada por maus empreendedores, que constroem de forma irregular na cidade, n&atilde;o raro com a coniv&ecirc;ncia do Poder P&uacute;blico;&nbsp; <br /></p>
+<p><br /></p>
+<p>5 &ndash; Ficou evidente tamb&eacute;m que a demoli&ccedil;&atilde;o do Bar Garagem foi uma das maiores arbitrariedades cometidas pela PCR neste processo todo. Mesmo as plantas da URB, obtidas mediante exig&ecirc;ncia da Audi&ecirc;ncia P&uacute;blica, mostram que as dimens&otilde;es onde se localiza o terreno em que funcionava o bar demolido pela PCR est&atilde;o completamente fora do tra&ccedil;ado de uma suposta via, tratando-se de &aacute;rea inequivocamente privada. Foi este absurdo que nos motivou a questionar duramente o Sr. Amir Schwartz, ex-Secret&aacute;rio de Planejamento e hoje Secret&aacute;rio da Copa da PCR, patrocinador e fiscal zeloso desta a&ccedil;&atilde;o flagrantemente inconstitucional. Nosso racioc&iacute;nio &eacute; que se fazem isto com um estabelecimento cercado de holofotes midi&aacute;ticos em nossa cidade, o que n&atilde;o fazem com pobres sem condi&ccedil;&atilde;o de se defender&#63;<br /></p>
+<p><br /></p>
+<p>6 &ndash; Por fim, Jamildo, mas n&atilde;o menos importante, n&atilde;o pude deixar de notar o post no seu blog em que somos &ldquo;flagrados&rdquo; atuando em bastante sintonia com a vereadora Aline, que &eacute; do PSDB, e com quem tivemos a grata satisfa&ccedil;&atilde;o de somar for&ccedil;as nesta batalha em torno do esclarecimento do suposto projeto da Avenida Beira Rio. Reafirmo aqui o nosso compromisso, enquanto ator pol&iacute;tico-partid&aacute;rio ou do movimento social, de atuarmos em torno de causas e objetivos concretos, pois nosso socialismo se constr&oacute;i com sonhos, mas com interven&ccedil;&atilde;o concreta e resolutiva na realidade do nosso povo. Assim, podemos ser vistos trabalhando juntos ao deputado Paulo Rubem (PDT) na Frente em Defesa da SUS; podemos ser vistos juntos com o ex-deputado e atual presidente do PT em Recife, Oscar Barreto, ou com o deputado Jo&atilde;o Paulo (PT), ou mesmo com o deputado Waldemar Borges (PSB) &ndash; l&iacute;der do governo Eduardo Campos, na luta em defesa de uma festa popular, como a Festa da Lavadeira. Podemos ainda ser vistos com o deputado Daniel Coelho (ex-PV, hoje PSDB), parceiro de primeira hora na luta que estamos empreendendo neste momento contra a instala&ccedil;&atilde;o de usinas nucleares em PE; ou ent&atilde;o com o deputado Raul Henry (PMDB) e com o ex-deputado Raul Jungmann (PPS), que conosco hoje trabalham com muita sintonia numa frente contra a instala&ccedil;&atilde;o da maior usina suja do mundo em Pernambuco (Suape III). Da mesma forma podemos ser vistos em unidade com o PSTU e com o PCB fazendo a luta ideol&oacute;gica anti-capitalista; ou junto aos muitos movimentos sociais, nas greves de trabalhadores, nas lutas da nossa juventude. &Eacute; assim que estamos fazendo nossa milit&acirc;ncia pol&iacute;tica.<br /></p>
+<p><br /></p>
+<p>Presidente do PSOL-PE e membro do Movimento Ecossocialista de PE<br /></p>
+<p>twitter.com/EdilsonPSOL<br /></p>
+<p>edilsonpsol.blogspot.com<br /></p>
+<p>facebook.com/EdilsonPSOL</p></p>
+{% endraw %}

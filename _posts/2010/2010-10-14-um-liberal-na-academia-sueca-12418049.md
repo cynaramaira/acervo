@@ -1,0 +1,29 @@
+---
+id: 12418049
+date: "2010-10-14T15:24:00Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "noticias"
+title: "Um Liberal na Academia Sueca"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><img height="639" width="520" alt="" src="https://www.monkey-studio.com/portal/images/caricaturas/famosos/vargas-llosa-big.jpg" /></p></p>
+<p><p>Por Gustavo Krause</p></p>
+<p><p>Os perfeitos idiotas latino-americanos est&atilde;o furiosos. N&atilde;o &eacute; para menos.</p></p>
+<p><p>Ultimamente, t&ecirc;m sofrido reveses, contrariedades e passam o recibo de um sil&ecirc;ncio eloq&uuml;ente e ressentido. Que reveses e contrariedades&#63;</p></p>
+<p><p>Antes de enumer&aacute;-los, por&eacute;m, algumas breves explica&ccedil;&otilde;es do que vem a ser &ldquo;O perfeito idiota latino-americano&rdquo;. Este personagem &eacute; alvo de um livro s&eacute;rio, bem-humorado, escrito por tr&ecirc;s ex-idiotas latino-americanos: o colombiano Plinio Mendoza, o cubano Carlos Alberto Montaner e o peruano &Aacute;lvaro Vargas Llosa. &ldquo;Ex&rdquo;, porque esta doen&ccedil;a &eacute; contagiosa, mas n&atilde;o &eacute; incur&aacute;vel. Todos foram contaminados pela &ldquo;doen&ccedil;a infantil do esquerdismo&rdquo;. Em algum momento da vida, abdicaram da faculdade de pensar por conta pr&oacute;pria; tornaram-se beatos da religi&atilde;o dominante, o marxismo e, levados pela corrente, aceitaram estere&oacute;tipos e repetiram maquinalmente o lugar-comum dos clich&ecirc;s.</p></p>
+<p><p>Montaner foi revolucion&aacute;rio cubano e os outros, mais jovens, eram militantes ativos de um substrato cultural que adocica com &ldquo;ismos&rdquo; a idiotice solene: estatismo, nacionalismo, protecionismo, estruturalismo, sob os quais florescem o patrimonialismo, o paternalismo, o populismo e a incontrol&aacute;vel corrup&ccedil;&atilde;o. Felizmente, abandonaram a vis&atilde;o conspirat&oacute;ria, determinante do pobrismo que &eacute;, de acordo com esta vis&atilde;o, obra dos outros e n&atilde;o o resultado da pr&oacute;pria in&eacute;rcia empreendedora, da descren&ccedil;a na livre iniciativa associadas &agrave; expectativa escatol&oacute;gica segundo a qual, um belo dia, o Estado, o ogro filantr&oacute;pico, resolve; o caudilho conduz &agrave; terra prometida; o Messias salva. Embora publicado em 96, os autores perceberam, em 2007, um perigoso surto no continente e lan&ccedil;aram um novo livro mostrando que O idiota est&aacute; de volta.</p></p>
+<p><p>Pois bem, em recentes epis&oacute;dios, a resistente idiotia range os dentes, mas n&atilde;o d&aacute; a l&iacute;ngua a torcer. Vamos aos fatos.</p></p>
+<p><p>1. A derrota pol&iacute;tica do idiota-mor, Hugo Ch&aacute;vez, cada vez mais carcomido e mais parecido com o Trujillo, o Bode. Ou negocia ou acaba com a oposi&ccedil;&atilde;o, golpeando o que resta de suspiros democr&aacute;ticos na terra do petr&oacute;leo.</p></p>
+<p><p>2. A demiss&atilde;o de 500 mil funcion&aacute;rios cubanos que recebiam, no m&aacute;ximo, o equivalente a 30 reais por m&ecirc;s, jogados na arena dos microneg&oacute;cios do chamado &ldquo;cuentapropismo&rdquo;, depois do disse-n&atilde;o-disse de Fidel sobre a fal&ecirc;ncia do modelo cubano (ah, sim, o modelo exportador de revolu&ccedil;&atilde;o cubana na vers&atilde;o fidelista). Afora, os permanentes maus tratos infligidos aos dissidentes.</p></p>
+<p><p>3. A concess&atilde;o do pr&ecirc;mio Nobel da Paz ao dissidente chin&ecirc;s, bravo defensor dos direitos humanos, Liu Xiaobo, condenado a 11 anos de pris&atilde;o por ter sido signat&aacute;rio de uma peti&ccedil;&atilde;o subscrita por dez mil compatriotas exigindo reformas pol&iacute;ticas. A esposa est&aacute; em &ldquo;pris&atilde;o domiciliar&rdquo; e segregada do mundo.</p></p>
+<p><p>4. Por fim, a Academia Sueca rompe a tend&ecirc;ncia dominante da linha ideol&oacute;gica na concess&atilde;o de pr&ecirc;mios liter&aacute;rios e faz justi&ccedil;a a um dos mais brilhantes escritores da humanidade, Mario Vargas Llosa, (que j&aacute; tinha perdido e esperan&ccedil;a de vir a ser agraciado). Surpresa maior foi a &ecirc;nfase pol&iacute;tica dada &agrave; raz&atilde;o do pr&ecirc;mio: &ldquo;Por sua cartografia das estruturas de poder e mordazes imagens de resist&ecirc;ncia, rebeli&atilde;o e derrota do indiv&iacute;duo&quot;. Do antigo e desiludido militante de esquerda ao moderno liberal de s&oacute;lidas convic&ccedil;&otilde;es democr&aacute;ticas, a verdade &eacute; que o escritor Llosa tem brindado seus leitores com obras de refinado estilo liter&aacute;rio, profundidade social, densidade cultural, lucidez pol&iacute;tica e elegant&iacute;ssimo senso de humor que d&aacute; sabor especial ao Elogio da madrasta.</p></p>
+<p><p>Diante dos fatos, as autoridades brasileiras mant&ecirc;m um ensurdecedor sil&ecirc;ncio. Covarde&#63; Conivente&#63; Pragm&aacute;tico&#63; Nem mesuras diplom&aacute;ticas, nem comunicados an&oacute;dinos do Itamaraty, nenhuma palavra foi dita diante dos riscos que correm os alicerces da democracia: a liberdade individual, a liberdade econ&ocirc;mica, a liberdade de express&atilde;o, o estado de direito, exatamente quando o Brasil vive uma competi&ccedil;&atilde;o democr&aacute;tica em que todos estes valores devem ser claramente debatidos e firmemente assumidos.</p></p>
+<p><p>De concreto, um gesto merece registro: nunca antes na hist&oacute;ria deste pa&iacute;s, a sele&ccedil;&atilde;o canarinha jogara contra o Ir&atilde;. O jogo foi um mimo do amigo Lula para o tiranete-chefe de estado iraniano que amea&ccedil;a duplamente a humanidade: com a destrui&ccedil;&atilde;o em massa pelo uso da bomba at&ocirc;mica e com a destrui&ccedil;&atilde;o do sagrado direito &agrave; vida da mulher pelo ritual cruel das pedras insensatas.</p> </p>
+{% endraw %}

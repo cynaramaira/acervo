@@ -1,0 +1,32 @@
+---
+id: 12452335
+date: "2013-08-19T17:12:00Z"
+last_modified_at: null
+tags:
+  - "congresso"
+  - "dilma"
+  - "fgts"
+  - "governo"
+  - "joao-campos"
+  - "multa"
+  - "sao"
+categories:
+  - "noticias"
+title: "Em S\u00e3o Bernardo do Campos, Dilma admite que governo pode sofrer derrota no Congresso com multa do FGTS"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p></p>
+<p>	A presidenta da Rep&uacute;blica, Dilma Rousseff, concedeu uma entrevista &agrave;s r&aacute;dios ABC e Brasil Atual FM, nesta segunda-feira, em S&atilde;o Paulo-SP, onde falou da rea&ccedil;&atilde;o &agrave;s ruas e de temas indigestos, como o fator prebidenci&aacute;rio e o veto &agrave; derrubada do projeto d elei que acabaou com a multa adicional de 10% paga pelas empresas em caso de demiss&otilde;es sem justa causa.</p></p>
+<p><p></p>
+<p>	&ldquo;As centrais sindicais, elas defendem o fim do fator previdenci&aacute;rio e s&atilde;o contra a terceiriza&ccedil;&atilde;o, n&eacute;&#63; Por que &eacute; que o governo admite no texto que est&aacute; sendo negociado na Comiss&atilde;o de Constitui&ccedil;&atilde;o e Justi&ccedil;a, na mesa quadripartite, a terceiriza&ccedil;&atilde;o na atividade principal da empresa, reconhecida como aquela atividade-fim, se as entidades especializadas, o mundo sindical e a magistratura trabalhista condenam essa pr&aacute;tica&#63; E por que &eacute; que o governo n&atilde;o acaba com o fator previdenci&aacute;rio ou adota um mecanismo para amenizar gradualmente o seu impacto, levando-se em conta a queda de renda e o aumento de despesas nessa fase da vida, que compromete a qualidade de vida dos aposentados&#63; Portanto, a&iacute; uma dividida em duas: terceiriza&ccedil;&atilde;o e fator previdenci&aacute;rio. Ent&atilde;o, deixa eu te responder sobre a terceiriza&ccedil;&atilde;o&rdquo;.<br /></p>
+<p>	<br /></p>
+<p>	&ldquo;Primeiro, &eacute; algo que est&aacute; bastante disseminado no Congresso. Hoje, a posi&ccedil;&atilde;o que a gente... a avalia&ccedil;&atilde;o do governo &eacute; que h&aacute; uma posi&ccedil;&atilde;o bem forte pr&oacute;-terceiriza&ccedil;&atilde;o dentro do Congresso, e eu queria informar que o governo n&atilde;o pode definir o que o Congresso aprova ou n&atilde;o aprova. Tem hora que n&oacute;s conseguimos, tem hora que n&oacute;s n&atilde;o conseguimos. O que o governo pode fazer &eacute; ensejar e fazer a media&ccedil;&atilde;o. N&oacute;s chamamos uma mesa de negocia&ccedil;&otilde;es quadripartite, como voc&ecirc; disse, e essa mesa tem de colocar as entidades sindicais &ndash; as centrais &ndash;, o Congresso, as entidades patronais e o governo. O que &eacute; que n&oacute;s buscamos nessa mesa&#63; N&oacute;s buscamos o consenso poss&iacute;vel para evitar derrotas que voc&ecirc; n&atilde;o consegue depois controlar, at&eacute; por que h&aacute; hoje a pr&aacute;tica, a partir de uma decis&atilde;o do Supremo, de que os vetos da Presid&ecirc;ncia da Rep&uacute;blica podem ser novamente avaliados e derrotados. Ent&atilde;o, &eacute; muito importante entender o que est&aacute; em curso. Est&aacute; em curso um processo negocial. Em um processo negocial n&atilde;o &eacute; aquilo que cada parte quer que pode ser o resultado. &Eacute; o melhor poss&iacute;vel. Ent&atilde;o n&oacute;s, o governo n&atilde;o concorda. Vou te dizer com o qu&ecirc;. N&oacute;s n&atilde;o concordamos com qualquer processo e n&atilde;o vamos patrocinar qualquer processo que comprometa direitos de trabalhadores, que impactem a negocia&ccedil;&atilde;o coletiva ou que precarizem rela&ccedil;&otilde;es e condi&ccedil;&otilde;es de trabalho. Eu queria lembrar de um fato. N&oacute;s vetamos o fim da multa dos 10% do FGTS. H&aacute; possibilidade do veto ser examinado, &eacute; agora. &Eacute; justamente tendo em vista que vetos s&atilde;o examinados, que &eacute; importante a compreens&atilde;o de que &eacute; necess&aacute;rio construir um processo de negocia&ccedil;&atilde;o. Sem o que pode-se perder e n&atilde;o se ganha nada&rdquo;.<br /></p>
+<p>	<br /></p>
+<p>	&ldquo;Ent&atilde;o, nesse caso, acho que essa Mesa, ela tem o momento importante hoje em Bras&iacute;lia que est&aacute; na s&eacute;tima reuni&atilde;o entre as partes. N&oacute;s participamos desta Mesa com uma atitude pr&oacute;-acordo. Participa da Mesa pelo governo: o Minist&eacute;rio do Trabalho, a Secretaria-Geral, o Planejamento, a Fazenda, a Presid&ecirc;ncia e a Secretaria das Rela&ccedil;&otilde;es Institucionais. J&aacute; no caso do fator previdenci&aacute;rio, esse &eacute; um tema que est&aacute; na pauta da mesa permanente de negocia&ccedil;&otilde;es do governo com as Centrais que n&oacute;s definimos l&aacute; em maio, em 1&ordm; de maio. A partir de 1&ordm; de maio n&oacute;s criamos uma Mesa permanente. N&atilde;o &eacute; essa Mesa que n&oacute;s acabamos de falar. Essa &eacute; espec&iacute;fica desta lei. N&atilde;o, n&oacute;s criamos uma Mesa permanente que funciona sistematicamente. Quais s&atilde;o os pontos que esta mesa, do ponto de vista do governo, n&oacute;s temos: primeiro, n&oacute;s mostramos para a Mesa disposi&ccedil;&atilde;o pol&iacute;tica para debater todos os pontos de pauta, independentemente da dificuldade para atingir o consenso. Ou seja, n&oacute;s sempre achamos que conversando a gente consegue chegar a um acordo em algum momento. Segundo lugar, n&oacute;s afirmamos para as Centrais, e esse &eacute; um princ&iacute;pio nosso, que n&atilde;o haver&aacute;, sob iniciativa do governo federal, redu&ccedil;&atilde;o dos direitos dos trabalhadores. Agora, n&oacute;s ... eu quero dar mais uma vez o exemplo dos 10%, n&atilde;o fomos n&oacute;s que pautamos os 10%, n&oacute;s perdemos os 10% e vetamos os 10%. E agora esses 10% v&atilde;o ser mais uma vez... os 10% que eu estou falando da multa do FGTS.... vai ser mais uma vez examinado. Por isso a nossa pauta &eacute; sempre esta: n&oacute;s n&atilde;o s&oacute; temos a posi&ccedil;&atilde;o de n&atilde;o comprometer interesse dos trabalhadores, n&atilde;o reduzir os interesses dos trabalhadores, n&atilde;o precarizar rela&ccedil;&atilde;o de trabalho... agora, o governo n&atilde;o &eacute; ilimitado, ele depende da sociedade, dos trabalhadores, dos empres&aacute;rios, do Congresso para que haja uma posi&ccedil;&atilde;o e que ganhe essa posi&ccedil;&atilde;o&rdquo;.<br /></p>
+<p>	&nbsp;</p></p>
+<p></p>
+{% endraw %}

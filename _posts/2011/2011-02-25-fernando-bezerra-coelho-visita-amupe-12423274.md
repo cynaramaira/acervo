@@ -1,0 +1,24 @@
+---
+id: 12423274
+date: "2011-02-25T15:39:00Z"
+last_modified_at: null
+tags:
+  - "amupe"
+  - "fernando-bezerra-coelho"
+  - "visita"
+categories:
+  - "noticias"
+title: "Fernando Bezerra Coelho visita Amupe"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><i>Da assessoria</i></p></p>
+<p><p style="text-align: justify;" class="MsoNormal"><span style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">O ministro da Integra&ccedil;&atilde;o Nacional, Fernando Bezerra Coelho esteve na sede da AMUPE nesta <span id="OBJ_PREFIX_DWT40" class="Object">sexta</span>-feira (25/02). Foi recebido pelo presidente da entidade, Ant&ocirc;nio Dourado, prefeito de Lajedo e por Jadiel Cordeiro, prefeito de S&atilde;o Caetano e tesoureiro da AMUPE. Participaram tamb&eacute;m da reuni&atilde;o o secret&aacute;rio executivo Paulo Arruda e assessores do ministro.</span></p></p>
+<p><p style="text-align: justify;" class="MsoNormal"><span style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">No encontro, o presidente Ant&ocirc;nio Dourado abordou a quest&atilde;o das mudan&ccedil;as nas regras do Programa Minha Casa Minha Vida. Embora n&atilde;o esteja ligado ao Minist&eacute;rio da Integra&ccedil;&atilde;o, o presidente pediu o apoio do ministro. De acordo com as novas regras as casas s&oacute; podem ser constru&iacute;das onde houver infraestrutura completa. O problema atinge as prefeituras e tamb&eacute;m a popula&ccedil;&atilde;o. &ldquo;Deveria <span id="OBJ_PREFIX_DWT41" class="Object">ter</span> mais tempo para adequa&ccedil;&atilde;o &agrave;s novas exig&ecirc;ncias e tamb&eacute;m uma linha de corte que se adequasse as condi&ccedil;&otilde;es dos munic&iacute;pios que varia muito. Os pequenos sofrer&atilde;o mais&rdquo;, pontuou Dourado, no que recebeu total anu&ecirc;ncia do ministro.</span></p></p>
+<p><p style="text-align: justify;" class="MsoNormal"><span style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Outro assunto levantado foi a dificuldade nos contratos feitos atrav&eacute;s da Caixa Econ&ocirc;mica Federal. A institui&ccedil;&atilde;o alega que as regras s&atilde;o colocadas pelos minist&eacute;rios, os munic&iacute;pios reclamam da burocracia e da constante mudan&ccedil;a nessas regras. Ant&ocirc;nio Dourado informou ao ministro Fernando Bezerra que j&aacute; havia tido uma conversa com o Minist&eacute;rio das Rela&ccedil;&otilde;es Institucionais, com o ent&atilde;o ministro da pasta, Alexandre Padilha, para que se fizesse um estudo por uma consultoria especializada que pudesse apontar as dificuldades de todas as partes &ndash; Caixa, prefeituras e minist&eacute;rios &ndash; desta forma buscando uma solu&ccedil;&atilde;o. Fernando Bezerra prometeu ser o interlocutor para uma nova audi&ecirc;ncia com o atual ministro Luiz S&eacute;rgio para tratar do assunto.</span></p></p>
+<p><p style="text-align: justify;" class="MsoNormal"><span style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Ant&ocirc;nio Dourado informou ao ministro que a AMUPE assinou <span style="">&nbsp;</span>um conv&ecirc;nio com o<span style="">&nbsp; </span>Governo do Estado para um estudo sobre as &aacute;reas de risco nos munic&iacute;pios. O resultado deste mapeamento vai gerar projetos e obras de preven&ccedil;&atilde;o para estas &aacute;reas. Dentro deste tema, o presidente sugeriu ao ministro que, atrav&eacute;s do PQGM (Programa de Qualifica&ccedil;&atilde;o da Gest&atilde;o Municipal), a AMUPE levasse a todos os munic&iacute;pios em reuni&otilde;es regionais as informa&ccedil;&otilde;es necess&aacute;rias para implementa&ccedil;&atilde;o de comiss&otilde;es de Defesa Civil em todo o Estado. O ministro apoiou imediatamente a ideia e disse que o projeto poderia se estender para todo o Brasil atrav&eacute;s da interlocu&ccedil;&atilde;o com a Confedera&ccedil;&atilde;o Nacional dos Munic&iacute;pios (CNM). Ant&ocirc;nio Dourado seria o intermediador deste contato. Fernando Bezerra lembrou que o BNDES tem linhas de cr&eacute;dito para implanta&ccedil;&atilde;o dos projetos gerados por estas comiss&otilde;es.</span></p></p>
+<p><p style="text-align: justify;" class="MsoNormal"><span style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">O presidente da AMUPE aproveitou a ocasi&atilde;o tamb&eacute;m para convidar o ministro para a Feira dos Munic&iacute;pios Pernambucanos (FEMUPE) que acontece de 18 a 22 de maio, no munic&iacute;pio de Lajedo. O ministro assegurou a presen&ccedil;a do Minist&eacute;rio que aproveitar&aacute; a ocasi&atilde;o para informar aos presentes sobre as obras da Adutora do Agreste.</span></p> </p>
+{% endraw %}

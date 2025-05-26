@@ -1,0 +1,42 @@
+---
+id: 12425361
+date: "2011-04-18T08:42:00Z"
+last_modified_at: null
+tags:
+  - "deputado"
+categories:
+  - "noticias"
+title: " ''Plebiscito de Sarney \u00e9 oportunista e hip\u00f3crita'', diz deputado do DEM"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;"><img height="423" width="500" src="https://www.congressoemfoco.com.br/upload/congresso/onyxlorenzoni_dem.jpg" alt="" /></p></p>
+<p><p style="text-align: justify;">F&aacute;bio G&oacute;is, do site Congresso em Foco<br /></p>
+<p><br /></p>
+<p>Empunhadas por um psicopata, duas armas compradas ilegalmente provocaram uma chacina em uma escola municipal de Realengo, zona oeste do Rio de Janeiro, no &uacute;ltimo dia 7. Os rev&oacute;lveres foram manuseados pelo ex-aluno Wellington Menezes (23), que n&atilde;o tinha porte de arma e foi diagnosticado como esquizofr&ecirc;nico. O epis&oacute;dio resultou em 12 mortes, entre crian&ccedil;as e adolescentes, al&eacute;m de v&aacute;rios feridos. Naquele dia, a como&ccedil;&atilde;o nacional que se seguiu &agrave; trag&eacute;dia refletiu no Congresso, e suscitou as mais diversas rea&ccedil;&otilde;es. Entre elas, o projeto de decreto legislativo que, anunciado no in&iacute;cio da semana passada e encabe&ccedil;ado pelo presidente do Senado, Jos&eacute; Sarney (PMDB-AP), visa promover um novo plebiscito sobre a comercializa&ccedil;&atilde;o de armas de fogo (o assunto j&aacute; foi tema de um plebiscito e, na ocasi&atilde;o, os eleitores disseram 'n&atilde;o' &agrave; proposta de desarmamento).<br /></p>
+<p><br /></p>
+<p>O deputado Onyx Lorenzoni (DEM-RS) &eacute; um membro declarado do que se convencionou chamar de &quot;bancada da bala&quot;, parlamentares que tiveram suas campanhas financiadas por ind&uacute;strias e fabricantes de armamento e muni&ccedil;&atilde;o. Onyx tem posse e porte de arma, eventualmente anda armado, e defende claramente o direito que, na sua avalia&ccedil;&atilde;o, as pessoas devem ter de usar armas para a sua defesa. Para Onyx, retornar a um tema que j&aacute; foi objeto de aprecia&ccedil;&atilde;o da sociedade por conta da trag&eacute;dia de Realengo &eacute; algo &ldquo;oportunista e hip&oacute;crita&rdquo;.<br /></p>
+<p><br /></p>
+<p>&ldquo;&Eacute; muito importante a gente saber diferenciar o que &eacute; controle de armas e o que &eacute; controle de criminalidade. Quem tem a responsabilidade de olhar para o pa&iacute;s inteiro, que &eacute; o Parlamento brasileiro, n&atilde;o pode misturar esses conceitos de forma oportunista, demag&oacute;gica e hip&oacute;crita&rdquo;, atacou Onyx, em entrevista concedida ao Congresso em Foco na &uacute;ltima ter&ccedil;a-feira (12). &ldquo;A iniciativa do senador Sarney &eacute; de uma irresponsabilidade brutal, de algu&eacute;m que n&atilde;o entende nada e n&atilde;o estudou, n&atilde;o procura ler, n&atilde;o procura se informar.&rdquo;<br /></p>
+<p><br /></p>
+<p>Para Onyx, o problema n&atilde;o &eacute; a comercializa&ccedil;&atilde;o das armas legais, e sim as falhas nas pol&iacute;ticas de seguran&ccedil;a p&uacute;blica, que facilitam, entre outros elementos de criminalidade, o mercado clandestino de armamento. Ele diz que o pa&iacute;s tem uma &ldquo;excelente e rigorosa&rdquo; legisla&ccedil;&atilde;o sobre posse e porte de armas e muni&ccedil;&otilde;es. E mais um plebiscito, considera, seria desperd&iacute;cio de dinheiro e motivo de chacota mundial.<br /></p>
+<p><br /></p>
+<p>&ldquo;O pa&iacute;s gastou R$ 600 milh&otilde;es para perguntar para a popula&ccedil;&atilde;o se ela era a favor ou contra a proibi&ccedil;&atilde;o do com&eacute;rcio de armas e muni&ccedil;&otilde;es. Qual foi a resposta da popula&ccedil;&atilde;o&#63; N&atilde;o. 64% da popula&ccedil;&atilde;o votaram n&atilde;o. Um pa&iacute;s como o Brasil, em que se gasta mais com publicidade e propaganda do que com seguran&ccedil;a, gastar, em cinco anos, R$ 1,2 bilh&atilde;o para fazer a mesma pergunta&#63; N&oacute;s vamos ser ridicularizados no mundo todo!&rdquo;, exclamou o deputado, lembrando que aumentaram os custos de um referendo como o que foi feito em 2005 &ndash; quando, segundo o Tribunal Superior Eleitoral, foram gatos R$ 250 milh&otilde;es pelo governo.<br /></p>
+<p><br /></p>
+<p>&ldquo;O que tem de curioso nessa resposta&#63; Naquela data, 97% da popula&ccedil;&atilde;o brasileira n&atilde;o tinham armas. Apenas menos de 3% tinham armas registradas, legais. Transcorrem-se cincos anos, e continua o mesmo cen&aacute;rio&rdquo;, acrescenta o deputado, esclarecendo que sua inten&ccedil;&atilde;o n&atilde;o &eacute; promover o armamento da popula&ccedil;&atilde;o civil nem o com&eacute;rcio de armas, &ldquo;at&eacute; porque as ind&uacute;strias brasileiras n&atilde;o t&ecirc;m mais do que 15%, 20% do seu faturamento no mercado interno; cerca de 80%, 90% &eacute; fora do Brasil&rdquo;. &ldquo;A minha luta &eacute; para manter o direito que eu quero ter, que a sociedade deve ter de poder escolher se quer ou n&atilde;o ter uma arma em casa. S&oacute; isso.&rdquo;<br /></p>
+<p><br /></p>
+<p>P&aacute;s e rev&oacute;lveres<br /></p>
+<p><br /></p>
+<p>Onyx diz n&atilde;o ver diferen&ccedil;as entre um rev&oacute;lver e uma p&aacute;. Para ele e seus mais de 10 milh&otilde;es de conterr&acirc;neos ga&uacute;chos, ambos s&atilde;o &ldquo;instrumentos como outro qualquer&rdquo;. A quest&atilde;o, diz, &eacute; o uso que se faz dos &ldquo;objetos inanimados&rdquo;. &ldquo;O liquidificador liga do nada&#63; A televis&atilde;o liga do nada&#63; N&atilde;o, &eacute; preciso algu&eacute;m apertar um bot&atilde;o. No caso de uma arma, algu&eacute;m tem de pressionar o gatilho. O problema n&atilde;o est&aacute; no objeto, mas em quem o manuseia&rdquo;, argumenta o deputado, que tem porte de arma desde o in&iacute;cio da d&eacute;cada de 1980, ap&oacute;s uma invas&atilde;o &agrave; casa de seu sogro, em Porto Alegre. Na ocasi&atilde;o, um dos quatro filhos do deputado ainda era beb&ecirc; de colo.<br /></p>
+<p><br /></p>
+<p>&ldquo;Eu pude sacar a minha arma, sustentar o agressor sem que ele me agredisse e sem que eu o agredisse. Ele est&aacute; vivo e eu tamb&eacute;m. Agora, n&atilde;o sei se estaria falando contigo hoje se n&atilde;o estivesse com aquela arma na m&atilde;o&rdquo;, defende o deputado.<br /></p>
+<p><br /></p>
+<p>Em quase 30 minutos de entrevista, o deputado citou diversos n&uacute;meros e estat&iacute;sticas sobre o assunto, referentes ao Brasil e a outros pa&iacute;ses emblem&aacute;ticos. Descreveu o poder de fogo de algumas armas, falou sobre os testes &ldquo;rigorosos&rdquo; a que &eacute; submetido periodicamente para manter o direito de port&aacute;-las e us&aacute;-las. Demonstrando conhecimento de causa, comprou briga com movimentos sociais como o Viva Rio, a quem acusa de manipular informa&ccedil;&otilde;es e at&eacute; mentir sobre a rela&ccedil;&atilde;o entre armas de fogo e viol&ecirc;ncia. E, com campanha financiada por fabricantes de armamento em elei&ccedil;&otilde;es anteriores, diz n&atilde;o ver conflito de interesses em defender deu ponto de vista &ndash; uma vez que, garante, s&oacute; depois de manifestar seu posicionamento, durante o primeiro mandato de deputado federal (ele est&aacute; no terceiro consecutivo), chamou a aten&ccedil;&atilde;o das empresas do setor.<br /></p>
+<p><br /></p>
+<p>&ldquo;O Brasil hoje controla muito bem armas legais, e a gente n&atilde;o pode esquecer que o pa&iacute;s &eacute; signat&aacute;rio da Declara&ccedil;&atilde;o Universal dos Direitos Humanos, que diz em seu artigo 3&ordm;: 'S&atilde;o direitos da pessoa humana a vida, a liberdade e a defesa pessoal'. &Eacute; textual a palavra. O que quer Jos&eacute; Sarney, de maneira oportunista e hip&oacute;crita, &eacute; impedir que o Brasil continue honrando talvez um dos mais importantes tratados dos quais &eacute; signat&aacute;rio. Ao tentar revogar artificialmente, e ao tentar negar aquilo que a popula&ccedil;&atilde;o j&aacute; disse&rdquo;, criticou Onyx. Por ironia, no momento da entrevista, o Senado votava a chamada MP do Trem-Bala, trocadilho que seria c&ocirc;mico se o momento n&atilde;o fosse tr&aacute;gico. &ldquo;Dinheiro pra botar no trem-bala, tem. J&aacute; pra botar na seguran&ccedil;a...&rdquo; <br /></p>
+<p><br /></p>
+<p>Leia &iacute;ntegra <a href="https://congressoemfoco.uol.com.br/noticia.asp&#63;cod_canal=12&amp;cod_publicacao=36767" target="_blank">aqui</a></p> </p>
+{% endraw %}

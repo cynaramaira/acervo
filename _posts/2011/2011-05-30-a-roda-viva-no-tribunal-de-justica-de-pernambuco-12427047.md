@@ -1,0 +1,26 @@
+---
+id: 12427047
+date: "2011-05-30T15:32:00Z"
+last_modified_at: null
+tags:
+  - "justica"
+  - "pernambuco"
+  - "tribunal"
+categories:
+  - "noticias"
+title: "A roda viva no Tribunal de Justi\u00e7a de Pernambuco"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Maria da Concei&ccedil;&atilde;o Barbosa Cintra, assistente social, especial para o Blog do Jamildo</p></p>
+<p><p>O Tribunal de Justi&ccedil;a do Estado de Pernambuco (TJPE) possui uma rotatividade de pessoal muito alta. Por rotatividade de pessoal estamos entendendo a rela&ccedil;&atilde;o entre as admiss&otilde;es e os desligamentos de funcion&aacute;rios ocorridos de forma volunt&aacute;ria ou involunt&aacute;ria, em um determinado per&iacute;odo. A forma volunt&aacute;ria de desligamento se d&aacute; pela desist&ecirc;ncia ou por pedido de exonera&ccedil;&atilde;o. A desist&ecirc;ncia se d&aacute; por decurso de prazo legal para a posse, sem que esta se realize; ou quando o candidato nomeado declara que n&atilde;o tem interesse em tomar posse no cargo p&uacute;blico, e manifesta expressamente ren&uacute;ncia. A exonera&ccedil;&atilde;o de cargo p&uacute;blico efetivo dar-se-&aacute; a pedido do servidor, ou de of&iacute;cio. A forma involunt&aacute;ria decorrer&aacute; de exonera&ccedil;&atilde;o; demiss&atilde;o; promo&ccedil;&atilde;o; aposentadoria; posse em outro cargo inacumul&aacute;vel e falecimento.</p></p>
+<p><p>O &uacute;ltimo concurso para servidores do TJPE foi realizado em 2007 e, desde o seu nascedouro, muitos dos convocados desistiram de assumir a vaga, ou por n&atilde;o atenderem &agrave; convoca&ccedil;&atilde;o, ou embora atendendo ao chamado, comparecerem unicamente para manifestar o seu desinteresse na assun&ccedil;&atilde;o do cargo p&uacute;blico. Al&eacute;m do que, muitos que assumiram os cargos nestes &uacute;ltimos quatro anos j&aacute; pediram exonera&ccedil;&atilde;o.</p></p>
+<p><p>Para que tenhamos uma no&ccedil;&atilde;o exata da rotatividade picamos alguns dados que demonstram cabalmente do que estamos falando: at&eacute; 13 de maio de 2011 foram nomeados 2.430 t&eacute;cnicos judici&aacute;rios, 161 t&eacute;cnicos judici&aacute;rios de &aacute;rea espec&iacute;fica, 1.181 analistas judici&aacute;rios, 316 analistas de &aacute;reas espec&iacute;ficas e 637 oficiais de justi&ccedil;a. Se compararmos esses n&uacute;meros com a tabela encontrada no portal Transpar&ecirc;ncia TJPE referente aos padr&otilde;es &ldquo;A&rdquo; e &ldquo;B&rdquo; dos servidores de cargos efetivos, que corresponde aos nomeados do concurso de 2007, os t&eacute;cnicos TPJ totalizam 1.565; analistas, 1.033 e, oficiais de justi&ccedil;a, 460. Assim, observamos que: dos 2.430 t&eacute;cnicos convocados 865 desistiram ou pediram exonera&ccedil;&atilde;o, ou seja, 35,59%; dos 1.497 analistas, 464, o equivalente a 30,99% e, dos 637 oficiais de justi&ccedil;a, 177, ou seja, 27,78%. Em m&eacute;dia h&aacute; uma rotatividade de pessoal na ordem de 31,45% dos convocados. Ser&aacute; que algum desembargador, juiz ou gestor de recursos humanos alguma vez j&aacute; se perguntou das raz&otilde;es de tanta rotatividade de pessoal no TJPE&#63;</p></p>
+<p><p>Do meu ponto de vista a decis&atilde;o do funcion&aacute;rio deixar o TJPE &eacute; influenciada por diversos fatores, dentre eles cabe destacar: insatisfa&ccedil;&atilde;o quanto &agrave; pol&iacute;tica salarial; ofertas mais atraentes em outros &oacute;rg&atilde;os p&uacute;blicos; pol&iacute;tica de benef&iacute;cios insuficientes; falta de pol&iacute;tica e estrat&eacute;gias para crescimento, aprendizagem e carreira; o tipo de relacionamento humano dentro da organiza&ccedil;&atilde;o; as condi&ccedil;&otilde;es de trabalho; falta de Reconhecimento; entre outros.</p></p>
+<p><p>Os ilustres gestores do TJPE deviam saber que a rotatividade de pessoal gera custos e impactos financeiros, de tempo e de recursos, tais como: perda de produtividade; de capital intelectual; que al&eacute;m de perdas financeiras, sobrecarrega os pares; aumento de acidentes e doen&ccedil;as; impacta na motiva&ccedil;&atilde;o das pessoas, no comprometimento, interferindo na credibilidade e na imagem do &oacute;rg&atilde;o, entre outros.</p></p>
+<p><p>&Eacute; sabido que as organiza&ccedil;&otilde;es interessadas em diminuir a rotatividade de pessoal devem considerar a id&eacute;ia de aumentar os sal&aacute;rios, esclarecer bem os pap&eacute;is e exig&ecirc;ncias do trabalho, tornar o trabalho mais gratificante e conseguir fazer com que seus funcion&aacute;rios percebam vantagens em trabalhar nela e n&atilde;o em outra qualquer. Um plano de cargos, carreiras e vencimentos &eacute; um elemento fundamental e, deve atender a esses requisitos, pois sem um quadro de pessoal est&aacute;vel muito dificilmente haver&aacute; boa presta&ccedil;&atilde;o jurisdicional.</p></p>
+<p><p>Por fim, nesse momento em que os servidores da justi&ccedil;a est&atilde;o em campanha salarial nada seria mais razo&aacute;vel do que o atendimento &agrave;s demandas da categoria, pois o contr&aacute;rio implicar&aacute; na amplia&ccedil;&atilde;o da rotatividade de pessoal e trar&aacute; reflexos negativos na produ&ccedil;&atilde;o, no clima organizacional e no relacionamento interpessoal j&aacute; t&atilde;o esgar&ccedil;ados nesta institui&ccedil;&atilde;o.</p> </p>
+{% endraw %}

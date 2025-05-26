@@ -1,0 +1,23 @@
+---
+id: 12430178
+date: "2011-09-04T11:18:00Z"
+last_modified_at: null
+tags:
+  - "atentado"
+  - "brasil"
+  - "ditadura"
+  - "padre-alessandro"
+  - "pernambuco"
+categories:
+  - "noticias"
+title: "Padre expulso do Brasil pela ditadura tenta voltar a par\u00f3quia em Pernambuco"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><div id="__ss_9127593" style="width:477px"><strong style="display:block;margin:12px 0 4px"><a title="Mat&eacute;ria_O_Globo_Padre" href="https://www.slideshare.net/BlogdeJamildo2/matriaoglobopadre">Mat&eacute;ria_O_Globo_Padre</a></strong><object id="__sse9127593" width="477" height="510"><param name="movie" value="https://static.slidesharecdn.com/swf/doc_player.swf&#63;doc=homedeploysitesogloboprotectedsystem16435553564pdf53564-110904091236-phpapp02&stripped_title=matriaoglobopadre&userName=BlogdeJamildo2" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse9127593" src="https://static.slidesharecdn.com/swf/doc_player.swf&#63;doc=homedeploysitesogloboprotectedsystem16435553564pdf53564-110904091236-phpapp02&stripped_title=matriaoglobopadre&userName=BlogdeJamildo2" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="477" height="510"></embed></object></p>
+<p><div style="padding:5px 0 12px">View more <a href="https://www.slideshare.net/">documents</a> from <a href="https://www.slideshare.net/BlogdeJamildo2">Daniel Guedes</a>.</div></p>
+<p></div></p>
+{% endraw %}

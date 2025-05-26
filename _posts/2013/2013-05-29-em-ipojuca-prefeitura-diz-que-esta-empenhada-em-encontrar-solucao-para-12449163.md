@@ -1,0 +1,39 @@
+---
+id: 12449163
+date: "2013-05-29T21:50:00Z"
+last_modified_at: null
+tags:
+  - "campo"
+  - "ipojuca"
+  - "prefeitura"
+categories:
+  - "noticias"
+title: "Em Ipojuca, Prefeitura diz que `est\u00e1 empenhada` em encontrar solu\u00e7\u00e3o para Vila do Campo"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;"></p>
+<p>	Em nota enviada ao Blog de Jamildo, a Prefeitura de Ipojuca, no Grande Recife, afirma que &quot;est&aacute; empenhada em encontrar uma solu&ccedil;&atilde;o definitiva&quot; para os moradores da Vila do Campo, que foram desalojados durante uma a&ccedil;&atilde;o de reintegra&ccedil;&atilde;o de posse movida pelo Governo do Estado. O texto foi motivado pelo artigo &quot;Ipojuca: cabe&ccedil;a tucana num corpo socialista&quot;, da articulista No&eacute;lia Brito.</p></p>
+<p><p style="text-align: justify;"></p>
+<p>	<a href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2013/05/28/ipojuca_cabeca_tucana_num_corpo_socialista_152239.php"><strong>Ipojuca: cabe&ccedil;a tucana num corpo socialista</strong></a><br /></p>
+<p>	<br /></p>
+<p>	<em>Leia a resposta na &iacute;ntegra:</em><br /></p>
+<p>	<br /></p>
+<p>	Com rela&ccedil;&atilde;o ao artigo &ldquo;Ipojuca: cabe&ccedil;a tucana num corpo socialista&rdquo;, publicado pelo Blog de Jamildo, na &uacute;ltima ter&ccedil;a-feira (28), assinado pela advogada No&eacute;lia Brito, a Prefeitura do Ipojuca tem esclarecimentos p&uacute;blicos a prestar. Preferimos responder o texto, ainda que nos reste uma d&uacute;vida acerca da motiva&ccedil;&atilde;o do mesmo. Seria efetivamente inten&ccedil;&atilde;o da colunista partir em defesa de moradores da Vila do Campo ou, prioritariamente, atacar pessoas, gest&otilde;es e partidos diferentes do seu&#63; Foram criticados prefeitos, ex-prefeito, governador, al&eacute;m de diversas agremia&ccedil;&otilde;es partid&aacute;rias. A metralhadora da articulista s&oacute; n&atilde;o foi precisa. Da&iacute; nossa resposta.<br /></p>
+<p>	<br /></p>
+<p>	&Eacute; pela melhoria da vida dos moradores de Ipojuca que a equipe da prefeitura, comandada por Carlos Santana, dedica seu trabalho todos os dias, com resultados j&aacute; em constru&ccedil;&atilde;o &ndash; basta ver o recente balan&ccedil;o dos 100 dias, dispon&iacute;vel no blog da prefeitura (https://www.ipojuca.pe.gov.br/noticias/48/prefeito-do-ipojuca-carlos-santana-faz-balanco-dos-primeiros-meses-de-gestao/). &Eacute; esse compromisso e respeito com a popula&ccedil;&atilde;o que nos levar&aacute; a resolver a situa&ccedil;&atilde;o dos antigos moradores da Vila do Campo, que precisaram ser retirados do antigo local de moradia. A Prefeitura, junto ao Minist&eacute;rio P&uacute;blico de Pernambuco (MPPE) e Governo do Estado, al&eacute;m de uma comiss&atilde;o formada por representantes das fam&iacute;lias, est&aacute; empenhada em encontrar uma solu&ccedil;&atilde;o definitiva para o caso, levando em considera&ccedil;&atilde;o todos os aspectos necess&aacute;rios. Reuni&otilde;es est&atilde;o sendo realizadas com todos os atores envolvidos, como a que aconteceu na manh&atilde; desta quarta-feira (29).<br /></p>
+<p>	<br /></p>
+<p>	Enquanto se busca a melhor alternativa, a prefeitura tenta minimizar o desconforto das 17 fam&iacute;lias, que continuam acomodadas no Gin&aacute;sio Municipal do Ipojuca, cedido pela administra&ccedil;&atilde;o. Carros pipa fazem o abastecimento de &aacute;gua pot&aacute;vel e cestas b&aacute;sicas foram fornecidas. As secretarias de Sa&uacute;de, Educa&ccedil;&atilde;o e de Bem Estar atuam diretamente, com aten&ccedil;&atilde;o m&eacute;dica aos doentes e acompanhamento permanente de assistentes sociais. As crian&ccedil;as, que estavam fora da sala de aula, j&aacute; est&atilde;o matriculadas na rede municipal de ensino. &Eacute; importante esclarecer, ainda, que essas fam&iacute;lias foram retiradas da Vila do Campo, pelo Governo do Estado, seguindo determina&ccedil;&atilde;o judicial, que considerou as moradias irregulares. O empreendimento que dever&aacute; ser erguido no local, resultado da negocia&ccedil;&atilde;o do Governo de Pernambuco, prev&ecirc; a gera&ccedil;&atilde;o de 3 mil empregos diretos, durante a constru&ccedil;&atilde;o, e outros 3,5 mil quando estiver em funcionamento. A Prefeitura ir&aacute; trabalhar para que essas novas vagas de trabalho possam ser ocupadas pelo povo da terra.<br /></p>
+<p>	<br /></p>
+<p>	O PSDB tem parceria com o PSB, em Ipojuca, que certamente nos permitir&aacute; n&atilde;o s&oacute; reconhecer e replicar &ecirc;xitos, mas fazer a cidade avan&ccedil;ar. N&atilde;o escondemos a nossa alian&ccedil;a. Acusar um conjunto de profissionais, e a estrutura municipal, de estar &ldquo;a servi&ccedil;o do governador&rdquo; &eacute;, no m&iacute;nimo, um desrespeito com todos os ipojucanos. O modelo de gest&atilde;o implementado pelo Governo de Pernambuco, e premiado internacionalmente, &eacute; uma refer&ecirc;ncia que merece ser adaptada a qualquer realidade, na qual possa alcan&ccedil;ar resultados semelhantes. Tal decis&atilde;o n&atilde;o nos torna uma &ldquo;extens&atilde;o&rdquo; de nenhum governo. Apenas utilizamos uma ferramenta, adequada ao cen&aacute;rio local e que, onde for poss&iacute;vel, ser&aacute; aperfei&ccedil;oada pela participa&ccedil;&atilde;o direta de gestores p&uacute;blicos eficientes, parceiros da iniciativa privada e cidad&atilde;os e cidad&atilde;s ipojucanos.<br /></p>
+<p>	<br /></p>
+<p>	A prop&oacute;sito, parece-nos pertinente agradecer &agrave; autora pelo reconhecimento &agrave; compet&ecirc;ncia da equipe, atestada pelo breve curr&iacute;culo descrito de v&aacute;rios dos nossos gestores, respons&aacute;veis por miss&otilde;es importantes que, temos certeza, haveremos de cumprir.<br /></p>
+<p>	<br /></p>
+<p>	Um &uacute;ltimo esclarecimento diz respeito a citadas dispensas de licita&ccedil;&atilde;o. Elas foram realizadas, dentro da lei, para garantia da estrutura necess&aacute;ria ao in&iacute;cio do ano letivo sem atraso. Esses processos permitiram a compra de novas carteiras escolares para evitar que crian&ccedil;as voltassem para casa, sem assistir aula, por n&atilde;o ter onde sentar. O contrato de fornecimento de merenda, por sua vez, al&eacute;m de garantir um direito essencial e indiscut&iacute;vel, possibilitou a mudan&ccedil;a no card&aacute;pio, garantindo uma alimenta&ccedil;&atilde;o mais nutritiva e saud&aacute;vel &agrave;s crian&ccedil;as do munic&iacute;pio. O transporte escolar, imprescind&iacute;vel a um munic&iacute;pio com a extens&atilde;o territorial de Ipojuca, garante que os alunos que moram distantes possam chegar, com seguran&ccedil;a, as escolas.&nbsp; &nbsp;<br /></p>
+<p>	<br /></p>
+<p>	A Prefeitura do Ipojuca vai seguir o caminho dos resultados, focada no desenvolvimento social, econ&ocirc;mico e ambiental. Com equil&iacute;brio. Vamos resolver problemas do passado e encontrar solu&ccedil;&otilde;es que abram caminho para o futuro. Se poss&iacute;vel, ampliando parcerias. J&aacute; reconquistamos, ao lado do Governo do Estado, recursos para primeira UPA do munic&iacute;pio e demos in&iacute;cio ao Programa M&atilde;e Coruja do Ipojuca. Tamb&eacute;m retomamos as obras de saneamento em Porto de Galinhas, paralisadas h&aacute; dois anos. Queremos que este seja um novo tempo para a cidade, no qual a uni&atilde;o e o compromisso compartilhado sejam mais fortes do que as bravatas que semeiam as desaven&ccedil;as. Provavelmente desagradaremos a alguns poucos, que veem o mundo de forma diferente. Mas, se estivermos contemplando a nossa popula&ccedil;&atilde;o, estaremos no caminho certo. Porque ter&aacute; prevalecido o interesse p&uacute;blico. E o direto a uma vida melhor para nossa gente.</p></p>
+<p></p>
+{% endraw %}

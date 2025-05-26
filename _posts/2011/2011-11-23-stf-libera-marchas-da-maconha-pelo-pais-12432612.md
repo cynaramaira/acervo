@@ -1,0 +1,36 @@
+---
+id: 12432612
+date: "2011-11-23T23:03:00Z"
+last_modified_at: null
+tags:
+  - "liberacao"
+  - "maconha"
+categories:
+  - "noticias"
+title: "STF libera marchas da maconha pelo pa\u00eds"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><br /></p>
+<p>O Supremo Tribunal Federal (STF) refor&ccedil;ou, nesta quarta-feira (23), a legalidade dos eventos chamados &ldquo;marcha da maconha&rdquo;, que re&uacute;nem manifestantes favor&aacute;veis &agrave; descriminaliza&ccedil;&atilde;o da droga. Por unanimidade, os ministros decidiram que esse tipo de manifesta&ccedil;&atilde;o n&atilde;o pode ser considerado crime previsto no artigo 33, par&aacute;grafo 2&ordm;, da Lei de T&oacute;xicos (Lei n&ordm; 11.343/2006), o que configuraria afronta aos direitos de reuni&atilde;o e de livre express&atilde;o do pensamento, previstos na Constitui&ccedil;&atilde;o Federal.<br /></p>
+<p><br /></p>
+<p>O Plen&aacute;rio seguiu o voto do ministro Ayres Britto, relator da A&ccedil;&atilde;o Direta de Inconstitucionalidade (ADI) 4274, proposta pela Procuradoria-Geral da Rep&uacute;blica (PGR), determinando que o dispositivo da Lei de T&oacute;xicos &ndash; que classifica como crime o ato de induzir, instigar ou auxiliar algu&eacute;m ao uso indevido de droga &ndash; seja interpretado em conformidade com a Constitui&ccedil;&atilde;o Federal. Dessa forma, exclui-se da interpreta&ccedil;&atilde;o da norma &ldquo;qualquer significado que enseje a proibi&ccedil;&atilde;o de manifesta&ccedil;&atilde;o e debates p&uacute;blicos acerca da descriminaliza&ccedil;&atilde;o ou legaliza&ccedil;&atilde;o de drogas ou de qualquer subst&acirc;ncia que leve ao entorpecimento epis&oacute;dico ou viciado das faculdades psicof&iacute;sicas&rdquo;, conforme destacou o relator em seu voto.<br /></p>
+<p><br /></p>
+<p>Segundo o ministro Ayres Britto, o direito de reuni&atilde;o, assim como os direitos &agrave; informa&ccedil;&atilde;o e &agrave; liberdade de express&atilde;o, &ldquo;fazem parte do rol de direitos individuais de matriz constitucional, tidos como direta emana&ccedil;&atilde;o do princ&iacute;pio da dignidade da pessoa humana e da cidadania&rdquo;. &ldquo;Vivemos hoje em uma sociedade de informa&ccedil;&atilde;o e de comunica&ccedil;&atilde;o, em que o ser humano primeiro se informa para melhor se comunicar com seus semelhantes, e o direito de reuni&atilde;o pode ser visto como especial ve&iacute;culo dessa busca de informa&ccedil;&atilde;o para uma consciente tomada de posi&ccedil;&atilde;o comunicacional&rdquo;, salientou.<br /></p>
+<p><br /></p>
+<p>De acordo com o relator, existe na Constitui&ccedil;&atilde;o apenas uma &uacute;nica veda&ccedil;&atilde;o ao direito de reuni&atilde;o, referente &agrave;quelas cuja inspira&ccedil;&atilde;o ou o prop&oacute;sito da convoca&ccedil;&atilde;o ensejem a pr&aacute;tica viol&ecirc;ncia f&iacute;sica armada ou beligerante. &ldquo;Quem quer que seja pode se reunir para o que quer que seja, no plano dos direitos fundamentais, desde que o fa&ccedil;a de forma pac&iacute;fica&rdquo;, concluiu o ministro Ayres Britto, acrescentando que n&atilde;o se pode confundir a criminaliza&ccedil;&atilde;o da conduta (o uso de drogas), com o debate sobre a referida criminaliza&ccedil;&atilde;o, que &eacute; o prop&oacute;sito da &ldquo;marcha da maconha&rdquo;.<br /></p>
+<p><br /></p>
+<p>Com a decis&atilde;o desta quarta-feira (23), o STF refor&ccedil;ou o posicionamento firmado em junho deste ano, no julgamento da Argui&ccedil;&atilde;o de Descumprimento de Preceito Fundamental (ADPF) 187, de relatoria do ministro Celso de Mello. Na ocasi&atilde;o, a Suprema Corte liberou a realiza&ccedil;&atilde;o da &ldquo;marcha da maconha&rdquo;, por entender que o artigo 287 do C&oacute;digo Penal deve ser interpretado conforme a Constitui&ccedil;&atilde;o, de forma a n&atilde;o impedir manifesta&ccedil;&otilde;es p&uacute;blicas em defesa da legaliza&ccedil;&atilde;o de drogas.<br /></p>
+<p><br /></p>
+<p>Para o decano da Suprema Corte, a mera express&atilde;o de pensamento n&atilde;o pode ser objeto de restri&ccedil;&atilde;o, &ldquo;sob pena de se estabelecer um dom&iacute;nio institucional sobre o pensamento cr&iacute;tico&rdquo;. &ldquo;A defesa, em espa&ccedil;os p&uacute;blicos, da legaliza&ccedil;&atilde;o das drogas, longe de significar um il&iacute;cito penal, quer sob a &eacute;gide do C&oacute;digo Penal, quer sob o disposto na Lei de T&oacute;xicos &ndash; supostamente caracterizador de apologia ou instiga&ccedil;&atilde;o ao uso de drogas il&iacute;citas &ndash;, representa, na verdade, a pr&aacute;tica leg&iacute;tima do direito &agrave; livre manifesta&ccedil;&atilde;o do pensamento, propiciada pelo direito de exerc&iacute;cio de reuni&atilde;o&rdquo;, sustentou.<br /></p>
+<p><br /></p>
+<p>Tamb&eacute;m seguindo o voto do relator da ADI, o ministro Luiz Fux refor&ccedil;ou que o entendimento do STF em rela&ccedil;&atilde;o &agrave; mat&eacute;ria &eacute; o de afastar a incid&ecirc;ncia da criminaliza&ccedil;&atilde;o sobre tipo de evento p&uacute;blico, desde que ele seja realizado de forma pac&iacute;fica, sem armas, nem incita&ccedil;&atilde;o &agrave; viol&ecirc;ncia, e que n&atilde;o haja na sua realiza&ccedil;&atilde;o incentivo, est&iacute;mulo ou consumo de entorpecentes. Ele lembrou ainda que para realizar manifesta&ccedil;&otilde;es coletivas dessa natureza &eacute; necess&aacute;rio informar previamente &agrave;s autoridades p&uacute;blicas competentes, a data, o hor&aacute;rio e o local em que ser&aacute; realizado o evento.<br /></p>
+<p>&nbsp;<br /></p>
+<p>Ao votar, o ministro Gilmar Mendes salientou a import&acirc;ncia de esclarecer para a sociedade os limites da decis&atilde;o do STF, que se refere &agrave; legalidade de eventos p&uacute;blicos favor&aacute;veis &agrave; descriminaliza&ccedil;&atilde;o da droga. O ministro alertou que a decis&atilde;o da Suprema Corte n&atilde;o pode ser entendida de maneira generalizada, aplic&aacute;vel a toda esp&eacute;cie de reuni&atilde;o que discuta temas diversos do tratado na referida a&ccedil;&atilde;o. &ldquo;&Eacute; preciso ter cuidado e deixar claro, para que n&atilde;o se extraia da decis&atilde;o a possibilidade de direito de caracter&iacute;stica ilimitada&rdquo;, afirmou ao alertar para o risco da aplica&ccedil;&atilde;o do preceito a reuni&otilde;es favor&aacute;veis &agrave; descriminaliza&ccedil;&atilde;o de outros atos, como racismo ou aborto, por exemplo.<br /></p>
+<p><br /></p>
+<p>Conforme salientou o presidente do STF, ministro Cezar Peluso, n&atilde;o &eacute; poss&iacute;vel tra&ccedil;ar todos os limites de forma abstrata, sendo necess&aacute;rio que a Corte analise caso por caso, quando assim for necess&aacute;rio. &ldquo;Devemos examinar se a quest&atilde;o discutida em cada caso n&atilde;o vai resultar em uma outorga de legitimidade a certos atos que repugnariam &agrave; consci&ecirc;ncia democr&aacute;tica, coletiva e ao pr&oacute;prio sistema jur&iacute;dico constitucional de um pa&iacute;s civilizado&rdquo;, afirmou.<br /></p>
+<p>&nbsp;</p></p>
+{% endraw %}

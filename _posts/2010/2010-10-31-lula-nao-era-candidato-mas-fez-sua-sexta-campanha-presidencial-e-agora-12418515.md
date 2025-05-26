@@ -1,0 +1,30 @@
+---
+id: 12418515
+date: "2010-10-31T17:59:00Z"
+last_modified_at: null
+tags:
+  - "campanha"
+  - "candidatos"
+  - "lula"
+  - "naomi-campbell"
+  - "sexta-feira-13"
+categories:
+  - "noticias"
+title: "Lula n\u00e3o era candidato, mas fez sua sexta campanha presidencial. E agora, o que fazer longe do Planalto?"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><img height="293" width="520" alt="" src="https://veja.abril.com.br/assets/pictures/16281/lula-sindicato-tv-folhapress-620-size-598.jpg&#63;1282610790" /></p></p>
+<p><p>Na Veja</p></p>
+<p><p>Faltam apenas dois meses para o fim do governo Lula, mas pouco se sabe sobre o futuro do presidente. Em segredo, o chefe de estado planeja a sua vida e a continuidade de sua carreira p&uacute;blica, ainda que fora do Pal&aacute;cio do Planalto. Apesar da empolga&ccedil;&atilde;o - muitas vezes al&eacute;m da conta para um ocupante do cargo - com a qual se envolveu na campanha de Dilma Rousseff (PT), Lula parece desconfort&aacute;vel com a perspectiva de deixar o cargo ocupado desde 2003. Em uma brincadeira recente, o presidente afirmou que n&atilde;o largaria a faixa oficial no dia 31 de dezembro, quando terminar&aacute;, enfim, seu segundo mandato.</p></p>
+<p><p>Entre as especula&ccedil;&otilde;es sobre o futuro de Lula, fala-se muito na cria&ccedil;&atilde;o de uma funda&ccedil;&atilde;o com o seu nome. A assessoria de imprensa da Presid&ecirc;ncia da Rep&uacute;blica, por&eacute;m, n&atilde;o confirma qualquer plano concreto dele. &ldquo;Existe a inten&ccedil;&atilde;o de criar uma institui&ccedil;&atilde;o que contenha tudo referente a este governo, mas o presidente tem evitado falar disso at&eacute; com pessoas pr&oacute;ximas. Ele quer aproveitar ao m&aacute;ximo o fim do mandato, sua popularidade e suas conquistas&rdquo;, afirmou um dos seus assessores ao site de VEJA.</p></p>
+<p><p>Que o presidente est&aacute; mesmo aproveitando sua popularidade n&atilde;o resta nenhuma d&uacute;vida. Ao longo da campanha de Dilma Rousseff, Lula n&atilde;o hesitou em utilizar sua influ&ecirc;ncia para apoiar fervorosamente a poss&iacute;vel sucessora. Deixando de lado a liturgia do cargo, em in&uacute;meros momentos transformou-se em cabo eleitoral, deixando a Presid&ecirc;ncia em segundo plano. A oposi&ccedil;&atilde;o n&atilde;o se conformou. A Justi&ccedil;a Eleitoral investigou sua conduta. Mas Lula n&atilde;o se deteve: seguiu rodando o pa&iacute;s, comandando com&iacute;cios e liderando carreatas - e, em numerosas ocasi&otilde;es, deixando de lado a agenda presidencial.</p></p>
+<p><p>Segundo a leitura do cientista pol&iacute;tico da Universidade de Bras&iacute;lia Antonio Flavio Testa, ao se dedicar veemente &agrave; campanha de Dilma, Lula quer, al&eacute;m de eleger sua candidata, exibir o poder e a aprova&ccedil;&atilde;o que adquiriu na condi&ccedil;&atilde;o de presidente. Ele lembra que Lula chegou a ser punido por sua campanha feroz em favor de Dilma. Antes da data em que a propaganda eleitoral passou a ser oficialmente permitida, no dia 6 de julho, o presidente recebeu diversas multas por campanha antecipada. Os valores somados ultrapassaram 40.000 reais. Testa lamenta o fato de Lula ter se transformado num militante partid&aacute;rio nessa reta final.</p></p>
+<p><p>&ldquo;De fato, Lula tem participado de maneira exagerada&quot;, concorda o professor em ci&ecirc;ncia pol&iacute;tica da Funda&ccedil;&atilde;o Escola de Sociologia e Pol&iacute;tica de S&atilde;o Paulo (FESPSP), Jos&eacute; Paulo Martins Junior. &ldquo;Entendo que seja normal que um chefe de estado se posicione, mas a postura dele tem sido exacerbada.&rdquo; Em algumas de suas viagens oficiais, Lula aproveitou para pedir votos para Dilma. Isso ocorreu, por exemplo, em sua passagem por Maring&aacute;, no Paran&aacute;, em setembro. Al&eacute;m disso, tamb&eacute;m se reuniu com aliados para discutir a campanha dentro do Pal&aacute;cio do Planalto e gravou o hor&aacute;rio pol&iacute;tico eleitoral durante seu expediente.</p></p>
+<p><p>&ldquo;Pelo menos ele n&atilde;o buscou um terceiro mandato, apesar de gostar muito de prest&iacute;gio e de ser presidente&rdquo;, diz Martins Junior, em refer&ecirc;ncia &agrave;s mobiliza&ccedil;&otilde;es dos petistas no sentido de mudar a lei e permitir uma nova reelei&ccedil;&atilde;o. O especialista acha que o Brasil n&atilde;o sabe qual postura esperar de um pol&iacute;tico nessa situa&ccedil;&atilde;o: &ldquo;Outros governantes que tivemos depois de 1945 n&atilde;o tinham candidatos ou popularidade.&rdquo; Ele acredita que, como a rep&uacute;blica brasileira ainda &eacute; jovem, tudo que Lula est&aacute; fazendo n&atilde;o &eacute; necessariamente um perigo - pode ser tamb&eacute;m uma oportunidade para ficar atento e defender que a legisla&ccedil;&atilde;o lide com isso de maneira mais clara e com penalidades mais duras.</p></p>
+<p><p>Em pelo menos duas ocasi&otilde;es, o tom usado por Lula para ajudar Dilma repercutiu negativamente em quase todos os setores da sociedade. Primeiro, o presidente condenou a imprensa por destacar o esc&acirc;ndalo envolvendo a ex-ministra-chefe da Casa Civil, Erenice Guerra, revelado por VEJA. Depois, fez piada sobre a agress&atilde;o sofrida pelo candidato da oposi&ccedil;&atilde;o, Jos&eacute; Serra (PMDB), numa caminhada no Rio de Janeiro - comparou o advers&aacute;rio ao goleiro chileno Rojas, que fingiu ser atingido por um sinalizador no Maracan&atilde;, em 1990. Serra, de fato, foi agredido na ocasi&atilde;o ironizada pelo presidente. Para Testa, a imensa popularidade de Lula &eacute; o que permite declara&ccedil;&otilde;es desse tipo. &ldquo;O presidente pensa que isso d&aacute; a ele o direito de usurpar papeis&rdquo;, critica, &ldquo;usando, para isso, a m&aacute;quina p&uacute;blica.&rdquo;</p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

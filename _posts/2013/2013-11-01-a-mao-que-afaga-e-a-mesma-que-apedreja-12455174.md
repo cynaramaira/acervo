@@ -1,0 +1,31 @@
+---
+id: 12455174
+date: "2013-11-01T13:42:00Z"
+last_modified_at: null
+tags:
+  - "maome-vi"
+categories:
+  - "colunistas"
+title: "A m\u00e3o que afaga \u00e9 a mesma que apedreja"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;"></p>
+<p>	Por Wladimir Quirino, historiador e membro do Diret&oacute;rio Regional do PT-PE<br /></p>
+<p>	<br /></p>
+<p>	A alian&ccedil;a Marina-Eduardo, dentre outras coisas, mostrou um extremo pragmatismo. O PSB colocou de lado as quest&otilde;es program&aacute;ticas e evidenciou um verborr&aacute;gico discurso da &quot;Nova Pol&iacute;tica&quot; que se consubstancia na artificialidade de marqueteiros e n&atilde;o condiz com a pr&aacute;tica pol&iacute;tica dos seus atores. O que vale n&atilde;o &eacute; a boa pol&iacute;tica que &eacute; baseada num hist&oacute;rico de a&ccedil;&otilde;es positivas, em programas constru&iacute;dos no conjunto da sociedade, numa biografia de luta dos seus participantes e atores ou em marcos registrados numa linha cronol&oacute;gica de acontecimentos. Hoje, no Brasil , o PSB protagoniza a pol&iacute;tica sint&eacute;tica, a pol&iacute;tica partid&aacute;ria 2.0, a Nova Falaciosa Politica. Onde o cidad&atilde;o e cidad&atilde; s&atilde;o tratados sem sentimento, subestimados e n&atilde;o estimulados ao senso cr&iacute;tico.<br /></p>
+<p>	<br /></p>
+<p>	Existem dois Pernambucos: O da Nova Pol&iacute;tica ( artificial e sint&eacute;tico) criado pelas ag&ecirc;ncias de publicidade do governo do estado e o Pernambuco real. Vivido por todos n&oacute;s cidad&atilde;os e cidad&atilde;s. No mundo real o Le&atilde;o do Norte passa por in&uacute;meras dificuldades que tem como agente causador a ineficiente gest&atilde;o da m&aacute;quina p&uacute;blica estadual. O governo se encontra endividado em mais de R$ 7,5 bilh&otilde;es oriundos empr&eacute;stimos a institui&ccedil;&otilde;es nacionais e estrangeiras ao longo da gest&atilde;o pessebista. Tentam, a todo custo,&nbsp; transformar este endividamento em credibilidade e capacidade de gest&atilde;o.Diante disso ,o governo do estado, anunciou o corte de 969 cargos comissionados. Divulgaram como uma atitude de responsabilidade, todavia evidencia quanto o estado est&aacute; sendo mal administrado. Mostra a total falta de planejamento e de gest&atilde;o dos recursos p&uacute;blicos. Uma caracter&iacute;stica provavelmente partid&aacute;ria, pois na Para&iacute;ba entre os empr&eacute;stimos do governador Ricardo Coutinho(PSB), entre as lagostas, farinha l&aacute;ctea e toneladas de fil&eacute; mignon, tamb&eacute;m houve um super endividamento do governo paraibano.<br /></p>
+<p>	<br /></p>
+<p>	Pernambuco tem hoje mais de de 26 mil servidores em contratos tempor&aacute;rios. A gest&atilde;o ineficiente do governo do estado apresenta debilidades em diversas &aacute;reas. Uma bem visivel &eacute; a educa&ccedil;&atilde;o. Pernambuco det&eacute;m o pior sal&aacute;rio de professor do Brasil, escolas em p&eacute;ssimas condi&ccedil;&otilde;es, 36% dos professores s&atilde;o contratados e governo do estado descumpre a Lei Federal N&ordm; 8.745, de 1993 (que estabelece que o n&uacute;mero total de professores substitutos ou visitantes n&atilde;o poderiam ultrapassar&nbsp; 20% dos docentes efetivos).Entretanto a Nova Pol&iacute;tica do governo de Pernambuco, t&atilde;o propagandeada Brasil a fora, tenta caracterizar como &quot;eficiente&quot; a sua gest&atilde;o .<br /></p>
+<p>	<br /></p>
+<p>	Os investimentos, obras e a&ccedil;&otilde;es do Governo Federal est&atilde;o vis&iacute;veis em todo o estado. Mas a inefici&ecirc;ncia do governo Eduardo n&atilde;o acompanha o ritmo de realiza&ccedil;&otilde;es de Dilma. Os&nbsp; desafios s&atilde;o muitos, mas as repostas n&atilde;o chegam na mesma velocidade. Pernambuco tem um dos piores IDHM do Brasil, SUAPE promove, aos olhos da na&ccedil;&atilde;o, uma das maiores devasta&ccedil;&otilde;es ambientais da hist&oacute;ria. Sem falar no caos do sistema prisional do estado. O An&iacute;bal Bruno tem capacidade para 1.448detentos, mas abriga mais de 5000.&nbsp; Em todo Estado o quadro &eacute; de mais de 23.000 presos para oito mil vagas. Uma das pe&ccedil;as fundamentais para o bom funcionamento da justi&ccedil;a,o Defensor P&uacute;blico, recebe o segundo pior sal&aacute;rio do Brasil. Eis um retrato do cotidiano que a pol&iacute;tica 2.0 do PSB n&atilde;o mostra.<br /></p>
+<p>	<br /></p>
+<p>	Pernambuco tem grande gratid&atilde;o a presidenta Dilma e ao eterno presidente Lula. S&atilde;o tantas a&ccedil;&otilde;es que &eacute; dif&iacute;cil quantificar. A BR-101,Hemobras, Mais M&eacute;dicos, 30, 6 mil casas (Minha Casa Minha Vida),Caminhos da Escola (1.523 mil &ocirc;nibus escolares), Pronatec, Estaleiro Atl&acirc;ntico Sul, Transnordetina, Transposi&ccedil;&atilde;o do rio S&atilde;o Francisco, Refinaria Abreu e Lima, Escolas T&eacute;cnicas, obras de conten&ccedil;&atilde;o do avan&ccedil;o do mar em Paulista, Olinda, Recife e Jaboat&atilde;o, enfim, diversas a&ccedil;&otilde;es em todos os munic&iacute;pios do estado.<br /></p>
+<p>	<br /></p>
+<p>	Uma coisa &eacute; certa, apesar de toda ajuda do governo federal( Lula e Dilma), Pernambuco poderia mais. Poucas s&atilde;o as obras genuinamente planejadas, elaboradas e executadas pelo governo do estado. A imensa maioria tem como origem o governo Federal e de iniciativas pol&iacute;ticas de Lula (f&aacute;brica da FIAT).&Eacute; certo que o estado pode mais (pode fazer mais), sendo suas a&ccedil;&otilde;es&nbsp; direcionadas aos mais necessitados, aos mais humildes e tendo a participa&ccedil;&atilde;o popular como for&ccedil;a motriz do desenvolvimento social. O que n&atilde;o pode &eacute; um governante ter caracter&iacute;sticas aleivosas. Caracter&iacute;sticas estas imortalizadas pelo o poeta Augusto dos Anjos em um de seus seus versos mais famosos :&nbsp; &quot; a m&atilde;o que afaga &eacute; a mesma que apedreja&quot;. Eduardo Campos usou Lula. Hoje, literalmente, o apedreja pelas costas.</p></p>
+<p></p>
+{% endraw %}

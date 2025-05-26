@@ -1,0 +1,35 @@
+---
+id: 12425994
+date: "2011-05-05T17:56:00Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "noticias"
+title: "Abastecimento d'\u00e1gua comprometido"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>A Companhia Pernambucana de Saneamento (Compesa) contabilizou, esta manh&atilde;, 30 sistemas de abastecimento de &aacute;gua paralisados em virtude das chuvas intensas que v&ecirc;m sendo registradas em v&aacute;rias regi&otilde;es do Estado. Desse total, 16 est&atilde;o localizados na Zona da Mata, a regi&atilde;o mais castigada pelas precipita&ccedil;&otilde;es acima da m&eacute;dia para o m&ecirc;s de abril. Os munic&iacute;pios atingidos com falta de &aacute;gua foram Ferreiros, Camutanga, Vic&ecirc;ncia, Alian&ccedil;a, Macaparana, Nazar&eacute; da Mata, Lagoa do Carro, Tracunha&eacute;m e Machados (Mata Norte) e Sirinha&eacute;m, Escada, Primavera, Joaquim Nabuco, Barreiros, Gl&oacute;ria do Goit&aacute; e Vit&oacute;ria de Santo Ant&atilde;o (Mata Sul).<br /></p>
+<p><br /></p>
+<p>Nessas cidades , tubula&ccedil;&otilde;es&nbsp; foram arrastadas e esta&ccedil;&otilde;es elevat&oacute;rias foram inundadas ou est&atilde;o com risco de inunda&ccedil;&atilde;o . T&eacute;cnicos da Compesa j&aacute; trabalham para restabelecer o abastecimento dessas cidades o mais r&aacute;pido poss&iacute;vel. Em Ferreiros e Camutanga, a previs&atilde;o &eacute; retomar a opera&ccedil;&atilde;o da esta&ccedil;&atilde;o elevat&oacute;ria Mucambo ainda hoje &agrave; noite.&nbsp; Em Vic&ecirc;ncia, o abastecimento ainda est&aacute; paralisado devido &agrave; inunda&ccedil;&atilde;o da esta&ccedil;&atilde;o elevat&oacute;ria. T&eacute;cnicos da companhia aguardam o n&iacute;vel da &aacute;gua baixar para iniciar os reparos e em seguida retomar o abastecimento.<br /></p>
+<p><br /></p>
+<p>Em Alian&ccedil;a, o Sistema de Siriji continua paralisado, j&aacute; que a esta&ccedil;&atilde;o elevat&oacute;ria Bara&uacute;nas apresentou problemas mec&acirc;nicos. Equipes da Compesa tentam chegar ao local para iniciar os trabalhos de reparo. Em Macaparana, a esta&ccedil;&atilde;o elevat&oacute;ria foi inundada, mas a &aacute;gua n&atilde;o chegou a atingir as bombas.&nbsp; No entanto, dois estouramentos na manh&atilde; de hoje prejudicaram o abastecimento da cidade. Em Nazar&eacute; da Mata, a esta&ccedil;&atilde;o elevat&oacute;ria Usina Barra tamb&eacute;m foi inundada, comprometendo o abastecimento.<br /></p>
+<p><br /></p>
+<p>Em Machados, uma tubula&ccedil;&atilde;o foi arrastada, prejudicando o abastecimento de toda a cidade. T&eacute;cnicos da Compesa aguardam o n&iacute;vel do rio baixar para tentam localizar o trecho danificado. J&aacute; em Lagoa do Carro, a esta&ccedil;&atilde;o elevat&oacute;ria foi inundada. As bombas est&atilde;o submersas e ainda n&atilde;o h&aacute; previs&atilde;o para normalizar o abastecimento.&nbsp; Em Gl&oacute;ria do Goit&aacute;, o rio levou uma parte da adutora de &aacute;gua bruta.&nbsp; T&eacute;cnicos j&aacute; est&atilde;o no local providenciando o conserto da tubula&ccedil;&atilde;o. E em Tracunha&eacute;m, a adutora de &aacute;gua tratada foi danificada por conta das chuvas. T&eacute;cnicos da companhia j&aacute; trabalham para regularizar a situa&ccedil;&atilde;o.<br /></p>
+<p><br /></p>
+<p>A Compesa tamb&eacute;m est&aacute; com sistemas de abastecimento de &aacute;gua paralisados no Agreste por causa de problemas acarretados pelas fortes chuvas. Al&eacute;m de Caruaru, foram atingidas&nbsp; as cidades de Bom Jardim, Limoeiro, Cupira, Maraial e Camocim de S&atilde;o F&eacute;lix. Na cidade de Limoeiro, os t&eacute;cnicos da Compesa ainda n&atilde;o conseguiram chegar ao local do rompimento da adutora para o in&iacute;cio dos reparos. Ter&atilde;o que esperar o n&iacute;vel do rio baixar. <br /></p>
+<p><br /></p>
+<p>Em Bom Jardim, a Compesa j&aacute; havia consertado uma adutora que havia desacoplado da rede de distribui&ccedil;&atilde;o. Mas ontem, com as fortes chuvas , outro trecho da adutora se rompeu e o abastecimento foi comprometido (cerca de 40% cidade est&aacute; recebendo &aacute;gua). T&eacute;cnicos j&aacute; trabalham no local para fazer o conserto da tubula&ccedil;&atilde;o. Se tudo correr dentro do previsto, a previs&atilde;o &eacute; retomar o abastecimento amanh&atilde;.&nbsp; Em Angelim,Cupira e Maraial os problemas registrados foram de rompimento de tubula&ccedil;&otilde;es.<br /></p>
+<p><br /></p>
+<p>Em Camocim de S&atilde;o F&eacute;lix, a esta&ccedil;&atilde;o elevat&oacute;ria foi inundada e o sistema desativado. T&eacute;cnicos j&aacute; trabalham na manuten&ccedil;&atilde;o. Ainda n&atilde;o previs&atilde;o para regularizar a situa&ccedil;&atilde;o, j&aacute; que a esta&ccedil;&atilde;o elevat&oacute;ria foi inundada e as bombas ficaram submersas. Os equipamentos foram retirados para manuten&ccedil;&atilde;o e s&oacute; ser&atilde;o reinstalados quando o n&iacute;vel do rio baixar. J&aacute; as cidades de Bel&eacute;m de Maria, Altinho, Ibirajuba, Agrestina e Cachoeirinha que tamb&eacute;m tiveram abastecimento prejudicado em consequ&ecirc;ncia das chuvas, os t&eacute;cnicos j&aacute; conseguiram efetuar os reparos nos sistemas, e a situa&ccedil;&atilde;o foi normalizada.<br /></p>
+<p><br /></p>
+<p>Na Regi&atilde;o Metropolitana do Recife, onde tamb&eacute;m choveu acima da m&eacute;dia, a Compesa est&aacute; com sistemas parados. Em Moreno, o sistema foi desativado porque a esta&ccedil;&atilde;o elevat&oacute;ria foi inundada&nbsp; e as bombas sem condi&ccedil;&otilde;es de operar. No momento, os t&eacute;cnicos da companhia trabalham na manuten&ccedil;&atilde;o do sistema. H&aacute; a expectativa de concluir os trabalhos ainda hoje e assim retomar a distribui&ccedil;&atilde;o de &aacute;gua na cidade.<br /></p>
+<p><br /></p>
+<p>O sistema que atende o distrito de Bonan&ccedil;a, ainda em Moreno, tamb&eacute;m est&aacute; paralisado por conta de sujeira no sistema de bombeamento. T&eacute;cnicos da Compesa aguardam o n&iacute;vel do Rio Jaboat&atilde;ozinho baixar para poder restabelecer o abastecimento.&nbsp; Em Vit&oacute;ria de Santo Ant&atilde;o, parte de uma adutora foi dividida ao meio e com isso 50% da cidade est&aacute; sem &aacute;gua. T&eacute;cnicos aguardam o n&iacute;vel do Rio Tapacur&aacute; baixar para iniciar os reparos na adutora e assim retomar com o abastecimento.<br /></p>
+<p><br /></p>
+<p>Ainda na Metropolitana do Recife, as praias de Porto de Galinhas, Muro alto e Maraca&iacute;pe, no munic&iacute;pio de Ipojuca, ainda est&atilde;o com abastecimento suspenso devido &agrave; inunda&ccedil;&atilde;o da esta&ccedil;&atilde;o elevat&oacute;ria. O&nbsp; abastecimento do resto da cidade de Ipojuca, que havia sido&nbsp; retomado ontem, voltou a ser paralisado hoje devido &agrave;s chuvas. No distrito de Camela, tamb&eacute;m em Ipojuca, o abastecimento est&aacute; suspenso devido &agrave; falta de energia provocada pelas chuvas. Em Jaboat&atilde;o dos Guararapes, os sistemas&nbsp; de&nbsp; abastecimento de &aacute;gua e de Vila Rica e&nbsp; Jaboat&atilde;o Velho est&atilde;o prejudicados.</p> </p>
+{% endraw %}

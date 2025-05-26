@@ -1,0 +1,47 @@
+---
+id: 12420449
+date: "2010-12-16T15:16:00Z"
+last_modified_at: null
+tags:
+  - "deputado"
+  - "esquema-criminoso"
+  - "silvio-costa"
+categories:
+  - "noticias"
+title: "Recordar \u00e9 viver. Ou\u00e7a novamente o desabafo do deputado S\u00edlvio Costa sobre o esquema da Empetur"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><img alt="" align="left" src="https://imagens.ne10.uol.com.br/legado/119/jc2/repositorio/noticia/99f4f3f4b374d83b756ea856975721ae.jpg" /> Ou&ccedil;a, mais uma vez, o desabafo do deputado federal S&iacute;lvio Costa (PTB), no dia 3 de dezembro de 2009, quando entrou no est&uacute;dio da R&aacute;dio Jornal e pediu o microfone a Geraldo Freire para defender o filho S&iacute;lvio Costa Filho (PTB), ent&atilde;o secret&aacute;rio de Turismo de Pernambuco.</p></p>
+<p><p>&nbsp;</p></p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="330" height="50" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param value="transparent" name="wmode"/><param name="movie" value="https://storage.mais.uol.com.br/embed_audio2.swf&#63;mediaId=486268" /><param name="quality" value="high" /><embed src="https://storage.mais.uol.com.br/embed_audio2.swf&#63;mediaId=486268" quality="high" width="330" height="50" swLiveConnect=true align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer" wmode="transparent" /></embed></object></p>
+<p><p>&nbsp;</p></p>
+<p><p>Leia a mat&eacute;ria novamente <a target="_blank" href="https://jc.uol.com.br/canal/cotidiano/politica/noticia/2009/12/03/transtornado-deputado-silvio-costa-ataca-oposicao-em-defesa-do-filho-207455.php">aqui</a></p></p>
+<p><p>&nbsp;</p></p>
+<p><p>Veja abaixo o banho de cobertura que o Blog de Jamildo deu ao caso</p></p>
+<p><p><a jquery1292524439869="1328" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2010/07/15/portal_da_transparencia_nao_evitou_o_showgate_mas_eduardo_tem_o_que_comemorar_75438.php">Portal da Transpar&ecirc;ncia n&atilde;o evitou o showgate, mas Eduardo tem o que comemorar</a></p></p>
+<p><p><a jquery1292524439869="1330" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/bensdoscandidatos/2010/07/13/livre_do_processo_da_empetur_silvio_costa_filho_esta_bem_proximo_do_seu_primeiro_milhao_de_reais_75316.php">Livre do processo da Empetur, S&iacute;lvio Costa Filho est&aacute; bem pr&oacute;ximo do seu primeiro milh&atilde;o de reais</a></p></p>
+<p><p><a jquery1292524439869="1342" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2010/04/09/investigacao_da_empetur_comprova_irregularidades_em_todo_o_projeto_festejos_natalinos_67940.php">Investiga&ccedil;&atilde;o da Empetur comprova irregularidades em todo o projeto Festejos Natalinos</a></p></p>
+<p><p><a jquery1292524439869="1368" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2010/01/25/em_defesa_de_jarbas_betinho_gomes_diz_que_costa_movese_por_odio_terezinha_ironiza_festas_e_diz_que_deputado_cumpre_ordens_62591.php">Em defesa de Jarbas, Betinho Gomes diz que Costa move-se por &oacute;dio. Terezinha ironiza festas e diz que deputado cumpre ordens</a></p></p>
+<p><p><a jquery1292524439869="1370" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2010/01/25/para_silvio_costa_se_jarbas_nao_for_a_pf_estara_assumindo_culpa_62582.php">Para Silvio Costa, se Jarbas n&atilde;o for &agrave; PF estar&aacute; assumindo culpa</a></p></p>
+<p><p><a jquery1292524439869="1372" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2010/01/25/chamado_de_chefe_de_quadrilha_jarbas_diz_que_vai_levar_silvio_costa_a_justica_62580.php">Chamado de chefe de quadrilha, Jarbas diz que vai levar S&iacute;lvio Costa &agrave; Justi&ccedil;a</a></p></p>
+<p><p><a jquery1292524439869="1376" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2009/12/16/exclusivo_veja_imagens_de_silvio_costa_filho_chorando_59864.php">Exclusivo: Veja imagens de S&iacute;lvio Costa Filho chorando</a></p></p>
+<p><p><a jquery1292524439869="1378" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2009/12/16/homenagem_do_agape_a_silvio_costa_filho_lota_boi_preto_59830.php">Homenagem do &Aacute;gape a S&iacute;lvio Costa Filho lota Boi Preto</a></p></p>
+<p><p><a jquery1292524439869="1382" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2009/12/10/apos_polemica_silvio_costa_pai_anuncia_retirada_de_emendas_para_a_area_de_turismo_59366.php">Ap&oacute;s pol&ecirc;mica, S&iacute;lvio Costa Pai anuncia retirada de emendas para a &aacute;rea de turismo</a></p></p>
+<p><p><a jquery1292524439869="1384" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2009/12/10/para_colunista_do_jc_silvio_costa_filho_incriminou_jose_mucio_empetur_foi_procurada_pela_assessoria_do_ministro_jose_mucio_para_realizar_shows_em_municipios_inadimplentes_59342.php">Para colunista do JC, S&iacute;lvio Costa Filho incriminou Jos&eacute; M&uacute;cio. Empetur foi procurada pela assessoria do ministro Jos&eacute; M&uacute;cio para realizar shows em munic&iacute;pios inadimplentes</a></p></p>
+<p><p>&nbsp;<a jquery1292524439869="1388" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2009/12/10/em_nota_silvio_costa_joga_na_roda_25_parlamentares_que_promoveram_eventos_no_estado_cita_sergio_guerra_negao_abencoado_e_eduardo_da_fonte_59334.php">Em nota, Silvio Costa joga na roda 25 parlamentares que promoveram eventos no Estado. Cita S&eacute;rgio Guerra, Neg&atilde;o Aben&ccedil;oado e Eduardo da Fonte</a></p></p>
+<p><p><a jquery1292524439869="1390" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2009/12/10/armando_monteiro_diz_que_ptb_nao_tem_compromisso_com_erros_numa_referencia_a_possiveis_problemas_na_gestao_silvio_costa_filho_59332.php">Armando Monteiro diz que PTB n&atilde;o tem compromisso com erros (numa refer&ecirc;ncia a poss&iacute;veis problemas na gest&atilde;o S&iacute;lvio Costa Filho)</a></p></p>
+<p><p><a jquery1292524439869="1392" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2009/12/09/veja_a_integra_do_discurso_de_silvio_costa_filho_59283.php">Veja a &iacute;ntegra do discurso de S&iacute;lvio Costa Filho</a></p></p>
+<p><p><a jquery1292524439869="1422" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2009/12/04/jarbas_cobra_a_silvio_costa_o_nome_do_chefe_da_quadrilha_que_estaria_detonando_silvinho_58912.php">Jarbas cobra a Silvio Costa o nome do chefe da quadrilha que estaria detonando Silvinho</a></p></p>
+<p><p><a jquery1292524439869="1424" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2009/12/03/lula_sampaio_de_araripina_sobre_bate_boca_com_silvio_costa_prefeito_diz_que_costa_e_irresponsavel_moleque_e_quer_resolver_contas_da_empetur_no_grito_58863.php">Lula Sampaio, de Araripina, sobre bate boca com S&iacute;lvio Costa. Prefeito diz que Costa &eacute; irrespons&aacute;vel, moleque e quer resolver contas da Empetur no grito</a></p></p>
+<p><p><a jquery1292524439869="1426" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2009/12/03/por_um_turismo_serio_colunista_do_jc_reconhece_avancos_da_gestao_silvio_costa_filho_mas_reclama_que_pasta_nao_pode_ser_mero_degrau_no_esquema_da_politica_58853.php">Por um turismo s&eacute;rio. Colunista do JC reconhece avan&ccedil;os da gest&atilde;o S&iacute;lvio Costa Filho, mas reclama que pasta n&atilde;o pode ser mero degrau no esquema da pol&iacute;tica.</a></p></p>
+<p><p><a jquery1292524439869="1430" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2009/12/03/dinheiro_para_as_festas_da_empetur_veio_de_emendas_do_ptb_majoritario_nas_cidades_beneficiadas_apenas_coincidencia_58808.php">Dinheiro para as festas da Empetur veio de emendas do PTB, majorit&aacute;rio nas cidades beneficiadas Apenas coincid&ecirc;ncia&#63;</a></p></p>
+<p><p><a jquery1292524439869="1436" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2009/12/02/silvio_costa_filho_inventa_novo_modelo_de_coletiva_58771.php">S&iacute;lvio Costa Filho inventa novo modelo de coletiva</a></p></p>
+<p><p><a jquery1292524439869="1438" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2009/12/01/em_nota_ptb_diz_que_decisao_de_sair_foi_do_proprio_silvio_costa_filho_58682.php">Em nota, PTB diz que decis&atilde;o de sair foi do pr&oacute;prio S&iacute;lvio Costa Filho</a></p></p>
+<p><p><a jquery1292524439869="1440" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2009/12/01/eduardo_cumpre_protocolo_e_agradece_excolaboradores_da_secretaria_de_turismo_58678.php">Eduardo cumpre protocolo e agradece ex-colaboradores da Secretaria de Turismo</a></p></p>
+<p><p><a jquery1292524439869="1442" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2009/12/01/oposicao_toma_conhecimento_da_queda_de_costa_filho_pelo_blog_de_jamildo_e_pede_investigacao_58664.php">Oposi&ccedil;&atilde;o toma conhecimento da queda de Costa Filho pelo Blog de Jamildo e pede investiga&ccedil;&atilde;o</a></p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

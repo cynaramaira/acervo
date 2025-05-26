@@ -1,0 +1,40 @@
+---
+id: 12428681
+date: "2011-07-15T15:26:00Z"
+last_modified_at: null
+tags:
+  - "assina"
+  - "desenvolvimento-economico"
+  - "material-reciclado"
+  - "pernambuco"
+  - "recriacao"
+categories:
+  - "noticias"
+title: "Secretaria de Desenvolvimento Econ\u00f4mico assina conv\u00eanio para cria\u00e7\u00e3o do Recicla Pernambuco"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><img height="300" width="450" alt="" src="https://jc3.uol.com.br/blogs/repositorio/DSC_0022.JPG" /></p></p>
+<p><p>O Governo de Pernambuco, por meio da Secretaria de Desenvolvimento Econ&ocirc;mico (SDEC), assinou hoje (15), conv&ecirc;nio com 12 prefeituras para a implementa&ccedil;&atilde;o do projeto Recicla Pernambuco. Idealizado pela SDEC e Instituto Tecnol&oacute;gico de Pernambuco (ITEP), com o apoio da Petroqu&iacute;mica SUAPE e do Banco Nacional do Desenvolvimento (BNDES), a iniciativa integra poder p&uacute;blico, iniciativa privada e sociedade civil com o objetivo de potencializar a&ccedil;&otilde;es de responsabilidade socioambiental na gest&atilde;o de res&iacute;duos s&oacute;lidos de todo o Estado. O evento aconteceu no audit&oacute;rio da Secretaria de Planejamento e Gest&atilde;o (Seplag), na rua da Aurora, Recife.<br /></p>
+<p><br /></p>
+<p>A abertura foi feita pelo secret&aacute;rio de desenvolvimento econ&ocirc;mico Geraldo Julio, que falou sobre a import&acirc;ncia de uma a&ccedil;&atilde;o coletiva coordenada para a efetiva&ccedil;&atilde;o de iniciativas como a do projeto Recicla Pernambuco. &ldquo;Destaco o trabalho transversal do governo de Pernambuco em rela&ccedil;&atilde;o ao tema da sustentabilidade, que hoje integra atividades de v&aacute;rias secretarias, que por sua vez dialogam com diversos outros atores da sociedade&rdquo;, falou o secret&aacute;rio. &ldquo;O mundo vive uma revis&atilde;o de conceitos e de paradigmas de consumo. Neste contexto, o Brasil tem a possibilidade de se diferenciar, inclusive com rela&ccedil;&atilde;o aos outros pa&iacute;ses do BRIC, trabalhando a partir de pr&aacute;ticas de sustentabilidade, democracia, cidadania, respeito aos contratos&rdquo;, completou, lembrando ainda os benef&iacute;cios da reciclagem no que diz respeito &agrave; economia de energia e de recursos naturais, &agrave; diminui&ccedil;&atilde;o da emiss&atilde;o de poluentes e do descarte de res&iacute;duos e &agrave; gera&ccedil;&atilde;o de emprego e renda.<br /></p>
+<p><br /></p>
+<p>A apresenta&ccedil;&atilde;o t&eacute;cnica do projeto foi feita por Bertrand Sampaio de Alencar, do ITEP. Segundo ele, as proje&ccedil;&otilde;es realizadas pelo &oacute;rg&atilde;o apontam que o projeto dever&aacute; gerar cerca de 400 postos de trabalho, 1800 toneladas/m&ecirc;s de recicl&aacute;veis coletados e 300 toneladas/m&ecirc;s de mat&eacute;ria org&acirc;nica. &ldquo;Projetamos tamb&eacute;m que a renda m&eacute;dia do catador, que hoje &eacute; de cerca de R$ 200, chegue a um sal&aacute;rio m&iacute;nimo&rdquo;, afirmou Alencar. Os investimentos a serem realizados s&atilde;o da ordem de R$ 7,5 milh&otilde;es, e os munic&iacute;pios tamb&eacute;m receber&atilde;o recursos provenientes do ICMS socioambiental.<br /></p>
+<p><br /></p>
+<p>Para N&uacute;bia Bezerra, que preside a Associa&ccedil;&atilde;o dos Catadores de Papel, Papel&atilde;o e Material Reciclado de Garanhuns, cooperativa que re&uacute;ne 39 pessoas, o Recicla Pernambuco &eacute; uma oportunidade de melhorar os ganhos dos catadores e a qualidade de vida nas cidades envolvidas. &ldquo;Acredito que a gente vai conseguir melhorar nossa renda e contribuir para a limpeza da cidade&rdquo;.<br /></p>
+<p><br /></p>
+<p>Al&eacute;m da assinatura, o grupo envolvido no projeto cumpriu agenda intensa de visitas no Estado. Na quarta-feira (13), a comitiva esteve em Belo Jardim para conhecer o Centro de Atividades Econ&ocirc;micas e de Confec&ccedil;&otilde;es. Em seguida, seguiram para Garanhuns, onde visitaram o aterro sanit&aacute;rio da cidade. Na quinta-feira (14), os parceiros foram aos munic&iacute;pios de Ribeir&atilde;o e Gameleira, no hor&aacute;rio da manh&atilde;, e Rio Formoso e Sirinha&eacute;m, &agrave; tarde. Durante as visitas, reuniram-se com prefeitos, organiza&ccedil;&otilde;es locais e cooperativas.<br /></p>
+<p><br /></p>
+<p>PROJETO - O Recicla Pernambuco integra o Plano de Regionaliza&ccedil;&atilde;o da Gest&atilde;o de Res&iacute;duos S&oacute;lidos em Pernambuco, que teve como pontap&eacute; inicial o Plano de Gerenciamento Integrado de Res&iacute;duos S&oacute;lidos, o PGIRS, desenvolvido pelo Programa de Apoio ao Desenvolvimento Sustent&aacute;vel da Zona da Mata de Pernambuco (PROMATA), atualmente vinculado &agrave; Secretaria de Agricultura e Reforma Agr&aacute;ria.<br /></p>
+<p><br /></p>
+<p>O projeto nasceu da perspectiva de desenvolver um programa de reciclagem no Estado com base na legisla&ccedil;&atilde;o atual, a Lei Federal no 12.305/2010, que instituiu a Pol&iacute;tica Nacional de Res&iacute;duos S&oacute;lidos. A a&ccedil;&atilde;o ir&aacute; compreender estudos, projetos e interven&ccedil;&otilde;es de constru&ccedil;&atilde;o, reforma, capacita&ccedil;&atilde;o e incuba&ccedil;&atilde;o que procuram estimular a reciclagem e o uso da log&iacute;stica reversa nos processos industriais. O projeto atuar&aacute; de forma complementar &agrave;s outras a&ccedil;&otilde;es que j&aacute; est&atilde;o sendo desenvolvidas no segmento.<br /></p>
+<p><br /></p>
+<p>Em sua primeira fase, ser&aacute; direcionado aos munic&iacute;pios que receberam elevados investimentos em infraestrutura para o tratamento de res&iacute;duos s&oacute;lidos, como a constru&ccedil;&atilde;o de aterros sanit&aacute;rios e unidades de triagem, por exemplo. A meta &eacute; associar esses investimentos ao capital social j&aacute; existente nos munic&iacute;pios, gerando trabalho e renda, incentivando a cria&ccedil;&atilde;o de consci&ecirc;ncia ambiental na popula&ccedil;&atilde;o. A proposta abordar&aacute; especificamente os munic&iacute;pios de Rio Formoso, Sirinha&eacute;m, Tamandar&eacute;, Gameleira, Escada, Ribeir&atilde;o, Primavera, Amaraji e Cort&ecirc;s, na Mata Sul, Garanhuns, no Agreste Meridional e, Arcoverde e Serra Talhada, no Sert&atilde;o Pernambucano.<br /></p>
+<p><br /></p>
+<p>O que esses munic&iacute;pios t&ecirc;m em comum s&atilde;o os significativos investimentos feitos pelo Governo de Pernambuco e empresas privadas, a exemplo da Funda&ccedil;&atilde;o AVINA e da Odebrecht, na elabora&ccedil;&atilde;o de estudos, projetos e planos para o reaproveitamento dos res&iacute;duos s&oacute;lidos. Al&eacute;m disso, eles possuem infraestrutura f&iacute;sica e operacional composta por unidades de triagem e compostagem, aterros sanit&aacute;rios, assim como j&aacute; adquiriram m&aacute;quinas pesadas, equipamentos e os materiais necess&aacute;rios para a viabiliza&ccedil;&atilde;o do trabalho. Os munic&iacute;pios em quest&atilde;o tamb&eacute;m possuem cooperativas de catadores que j&aacute; participaram de capacita&ccedil;&otilde;es sobre a tem&aacute;tica.<br /></p>
+<p><br /></p>
+<p>Durante a solenidade, os munic&iacute;pios envolvidos assinaram um Termo de Ades&atilde;o ao Projeto, comprometendo-se com uma participa&ccedil;&atilde;o efetiva e principalmente com a implanta&ccedil;&atilde;o da coleta seletiva ainda este ano. Faz parte das atribui&ccedil;&otilde;es dos munic&iacute;pios, ainda, fazer a opera&ccedil;&atilde;o adequada dos sistemas de limpeza p&uacute;blica e de manejo de res&iacute;duos s&oacute;lidos, apoiar a forma&ccedil;&atilde;o das cooperativas de catadores, as campanhas nos munic&iacute;pios e os programas de educa&ccedil;&atilde;o ambiental. O projeto conta com a parceria de organiza&ccedil;&otilde;es locais, como a COMSUL, a ECONORDESTE e a Funda&ccedil;&atilde;o Terra, al&eacute;m do Banco do Brasil.</p></p>
+{% endraw %}

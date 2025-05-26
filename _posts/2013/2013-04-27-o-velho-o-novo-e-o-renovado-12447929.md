@@ -1,0 +1,29 @@
+---
+id: 12447929
+date: "2013-04-27T19:05:00Z"
+last_modified_at: null
+tags:
+  - "novos"
+categories:
+  - "noticias"
+title: "O velho, o novo e o renovado"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p></p>
+<p>	Por Michel Zaidan</p></p>
+<p><p></p>
+<p>	O&nbsp; Partido do Movimento Democr&aacute;tico Brasileiro (PMDB) f&ecirc;z sua apari&ccedil;&atilde;o espectral na televis&atilde;o,&nbsp; apresentando suas caras &quot;novas&quot; ou &quot;renovadas&quot;: o ex-governador do estado, a filha de Jacilda urquiza, o deputado Raul Henry etc. O que mais chama aten&ccedil;&atilde;o &eacute; o discurso da &quot;renova&ccedil;&atilde;o&quot;. 0 PMDB de Pernambuco &eacute; como o Pc do B: velho, mas renovado. De acordo com os desafios da contemporaneidade...dos donos do poder atuais. Este partido, bem como o antigo PFL, tornaram-se partidos f&oacute;sseis na cena pol&iacute;tica brasileira. Perderam o rumo. Transformaram-se naqueles antigos mastordontes grandes e sem uma fun&ccedil;&atilde;o&nbsp; ou identidade definida, a n&atilde;o ser negociar apoio ao governo, em troca de cargos, recursos,nomea&ccedil;&otilde;es. Disto, uma verdadeira reforma pol&iacute;tica devia cuidar. Afinal, a causa da ingovernabilidade n&atilde;o&eacute; a exist&ecirc;ncia dos pequenos partidos e legendas, mas o fisiologismo, o clientelismo e (em alguns casos) o corp orativismo de algumas legendas partid&aacute;rias.<br /></p>
+<p>	<br /></p>
+<p>	Consumada a chamada &quot;transi&ccedil;&atilde;o democr&aacute;tica&quot; com o governo Sarney e a Constitui&ccedil;&atilde;o de 1988, o hist&oacute;rico desse grande partido mastord&ocirc;ntico - detentor do maior n&uacute;mero de cadeiras no Parlamento e de grande capilaridade municipal - &eacute; o da falta de unidade nacional, de comando e de ser ma federa&ccedil;&atilde;o de oligarquias estaduais que utilizam a legenda como querem. Um peda&ccedil;o faz oposi&ccedil;&atilde;o ao governo; outro peda&ccedil;o adere fisiologicamente ao governo; e um terceiro peda&ccedil;o fica em cima do muro, vendo a dire&ccedil;&atilde;o dos ventos. De forma que hoje n&oacute;s temos uma ala representada pelo vice-presidente da Rep&uacute;blica e seus ministros no governo Dilma; uma ala que faz oposi&ccedil;&atilde;o ao governo Dilma, bem representada pelo o ex-governador de Pernambuco&nbsp; e os omissos e oportunistas de sempre, esperando o momento de tirarem proveito da mudan&ccedil;a dos ventos.<br /></p>
+<p>	&nbsp;<br /></p>
+<p>	Exemplar&nbsp; &eacute; o ajustamento de conduta partid&aacute;rio do PMBD de Pernambuco. Tendo se declarado oposi&ccedil;&atilde;o ao governo federal, desde o come&ccedil;o, aderiu ao palanque do governador do estado, logo que este acenou com a possibilidade de abrir um palaque pr&oacute;prio na corrida presidencial. Muita gente&nbsp; deve ter se espantado com a manobra radical do velho partido &quot;aut&ecirc;ntico&quot;, em apoiar o advers&aacute;rio pol&iacute;tico&nbsp; dos &uacute;ltimos anos. Deve ser esta a renova&ccedil;&atilde;o de que fala a propaganda partid&aacute;ria do PMDB: se aliar ao advers&aacute;rio de ontem, contra o advers&aacute;rio federal. Ou leia-se contra o pr&oacute;prio PMBD governista. E a manobra deve ter rendido alguma coisa ao partido: n&atilde;o s&oacute; o apoio nas elei&ccedil;&otilde;es municipais de 2012, indica&ccedil;&otilde;es de nomes na Comiss&atilde;o da Verdade e da Justi&ccedil;a, cargos na Prefeitura do Recife e promessas de apoio pol&iacute;tico a parlamentares pembedistas&nbsp; nas pr&oacute;ximas elei&ccedil;&otilde;es (talvez, a reelei&ccedil;&atilde;o do pr&oacute;prio se nador).<br /></p>
+<p>	<br /></p>
+<p>	&Eacute; nisto em que consiste o &quot;novo&quot;, o &quot;renovado&quot; o &quot;aut&ecirc;ntico&quot; PMDB: um partido desfigurado &agrave; servi&ccedil;o de interesses e ambi&ccedil;&otilde;es paroquiais de chefes pol&iacute;ticos regionais. Em Pernambuco, a alian&ccedil;a preferencial do partido tem sido com legendas de centro-direita, PPS, DEM, PSDB, PV. Uma verdadeira sopa de letrinhas que n&atilde;o signfica nada. Uns funcionam com linha auxiliar de outros. O pr&oacute;prio PSDB n&atilde;o passa de um instrumento na m&atilde;o do seu presidente regional, tal como o PMDB o &eacute; nas m&atilde;os do ex-governador do estado. O ex-PPS faz o jogo do ex-governador e agora marcha a passos largos para apoiar a candidatura do primeiro mandat&aacute;rio do estado a Presidencia da Rep&uacute;blica. E o DEM encontra-se em estado terminal. Sobreviver&aacute; se apoiar a candidatura ou de A&eacute;rcio Neves ou de Eduardo Campos.<br /></p>
+<p>	<br /></p>
+<p>	S&oacute; falta caracterizar a postura do &quot;nov&iacute;ssimo&quot; PSB. Que partido &eacute; esse&#63; - Poder&aacute; ele dizer - como seu aliado da hora - que tem a mesma hist&oacute;ria e a mesma cara, ao longo de tantos anos&#63;. Durante muito tempo, o partido de Jo&atilde;o Manguabeira e Evaristo de Moraes gravitou em torno do Partido Comunista Brasileiro. Era uma agremia&ccedil;&atilde;o de intelectuais que tinham escr&uacute;pulos de aceitar o estalinismo do velho PCB. Com a crise ideol&oacute;gica do socialismo real, o &quot;novo&quot; PSB ficou em disponibilidade ideol&oacute;gica e passou a gravitarem torno do PT, de quem foi aliado muitos anos. Pelo visto, a transforma&ccedil;&atilde;o pragm&aacute;tica do PT, liberou outra vez o PSB para assumir novos compromissos partid&aacute;rios. S&oacute; que dessa vez&nbsp; com partidos de centro, centro-direita, partidos religiosos, de adesistas de &uacute;ltima hora, p&oacute;s-p&oacute;s-p&oacute;s tudo. &Eacute; com essa trinca de legendas, mais do que de partidos, que o governador pretende afirmar a&nbsp; nova i dentidade do PSB. A cara do nosso &quot;Maquiavel de aldeia&quot;, o nosso socialista, sem socialismo; o nosso republicano, sem rep&uacute;blica; o nosso nacionalista, sem na&ccedil;&atilde;o.</p></p>
+<p></p>
+{% endraw %}

@@ -1,0 +1,34 @@
+---
+id: 12419664
+date: "2010-11-29T17:13:00Z"
+last_modified_at: null
+tags:
+  - "copa"
+  - "eventos"
+  - "mundo"
+  - "prefeitura"
+  - "recife"
+  - "sebrae"
+  - "turismo"
+categories:
+  - "noticias"
+title: "De olho em 2014, ABIH-PE, Sebrae e Prefeitura do Recife celebram parceria a favor da expans\u00e3o do  Turismo de Eventos pensando na Copa do Mundo"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><br /></p>
+<p>Na lista dos 10 destinos mais procurados pelo mercado corporativo, Pernambuco n&atilde;o precisa de muito para ir longe quando o assunto &eacute; Turismo de Eventos, Neg&oacute;cios e Incentivo, sobretudo agora, v&eacute;spera de Copa do Mundo, quando empresas de todos os continentes convergem as suas aten&ccedil;&otilde;es e a&ccedil;&otilde;es para a sede&nbsp; mundial futebol&iacute;stico. Pensando na oportunidade de preparar o setor para toda movimenta&ccedil;&atilde;o gerada durante o torneio, a Associa&ccedil;&atilde;o Brasileira da Ind&uacute;stria Hoteleira de Pernambuco (ABIH-PE), com&nbsp; patroc&iacute;nio do&nbsp; Sebrae em Pernambuco e da Prefeitura do Recife,&nbsp; apoio da Trend Operadora e Associa&ccedil;&atilde;o Brasileira de Ag&ecirc;ncias de Viagens Coorporativas (Abracoorp), lan&ccedil;a no pr&oacute;ximo dia 30, o projeto Pernambuco Bom Para o Seu Neg&oacute;cio.</p></p>
+<p><p>O projeto surge para completar uma lacuna existente no turismo local: apresentar o Estado como sendo o destino preferencial para que as grandes empresas realizarem seus eventos (conven&ccedil;&atilde;o de vendas, lan&ccedil;amento de produtos, treinamentos, encontros profissionais entre outros) e viagens de incentivo. Isso porque diversas pesquisas apontam para o crescimento do segmento em pelo menos em 40%.</p></p>
+<p><p>&ldquo; Foi de olho nesse cen&aacute;rio que resolvemos unir as for&ccedil;as e montar uma estrat&eacute;gia.&nbsp; Com ela,&nbsp; atrairemos, desde j&aacute;,&nbsp; grupos nacionais e estrangeiros por meio de pesquisas, visitas e treinamentos junto &agrave;s empresas respons&aacute;veis pelo Turismo de Eventos, Neg&oacute;cios e Incentivo no Brasil. Queremos tamb&eacute;m incrementar mais ainda&nbsp; a ocupa&ccedil;&atilde;o hoteleira,&nbsp; mantendo os 60 mil leitos do estado utilizados durante todo o ano&rdquo;, argumenta Jos&eacute; Ot&aacute;vio Meira Lins, presidente da ABIH-PE.</p></p>
+<p><p>Para ele, a estrat&eacute;gia ir&aacute; colaborar tamb&eacute;m com a descentraliza&ccedil;&atilde;o da oferta tur&iacute;stica por meio da apresenta&ccedil;&atilde;o de novas rotas e roteiros e do est&iacute;mulo ao consumo de novos produtos tur&iacute;sticos do Estado. &ldquo;Fora isso, haver&aacute; gera&ccedil;&atilde;o de emprego e renda para os pequenos e micro empres&aacute;rios do setor&rdquo;, completa.</p></p>
+<p><p>Desdobramentos - O Pernambuco Bom Para o Seu Neg&oacute;cio segue at&eacute;&nbsp; dezembro de 2013 e ser&aacute; dividido em etapas. Haver&aacute; primeiramente a realiza&ccedil;&atilde;o de uma pesquisa sobre as necessidades do setor de eventos coorporativos e viagens de incentivo no Brasil, por meio de visita as 100 maiores ag&ecirc;ncias de viagens coorporativas e ag&ecirc;ncias de marketing e incentivo do Pa&iacute;s. O levantamento identificar&aacute;, por exemplo, se determinada empresa premiou algum colaborador com viagem para &uacute;ltima copa do mundo de futebol. Em posse desse banco de dados, todas as empresas indicadas receber&atilde;o uma caixa com presentes alusivos a Pernambuco.</p></p>
+<p><p>Este ser&aacute; o primeiro contato direto do destino com os clientes que ser&atilde;o trabalhados ao longo dos pr&oacute;ximos tr&ecirc;s anos. Ap&oacute;s isso, ser&aacute; realizado um estudo para desenvolvimento do anu&aacute;rio impresso e virtual que apresentar&aacute; a infra- estrutura tur&iacute;stica de Pernambuco com sugest&atilde;o de rotas, roteiros e potencialidades. Durante todas as etapas, o projeto pretende&nbsp; trabalhar cerca de 500 grandes empresas dos mais variados seguimentos (laborat&oacute;rios, bancos, montadoras, distribuidoras, alimentos/bebidas, petr&oacute;leo e g&aacute;s e&nbsp; log&iacute;stica).</p></p>
+<p><p>O superintendente do Sebrae-PE, Nilo Sim&otilde;es, explica que o projeto fortalecer&aacute; toda cadeia produtiva do setor tur&iacute;stico como hot&eacute;is, resorts e pousadas, prestadores de servi&ccedil;os para realiza&ccedil;&atilde;o de eventos, agentes de viagens, empresas de receptivo, locadoras de ve&iacute;culos, produtores culturais, centros de artesanato, artistas pl&aacute;sticos, centro de conven&ccedil;&otilde;es e eventos, casas de espet&aacute;culos e shows, bares e restaurantes, companhias a&eacute;reas e atrativos tur&iacute;sticos como shoppings, parques e museus, beneficiando diretamente, mais de 3500 empresas.</p></p>
+<p><p>&ldquo;A partir do momento em que divulgarmos e capacitarmos toda essa rede, iremos aprimorar a qualifica&ccedil;&atilde;o da m&atilde;o de obra do setor em fun&ccedil;&atilde;o da exigente demanda gerada. Esse &eacute; o in&iacute;cio de um trabalho que dever&aacute; ser feito at&eacute; 2014, sempre com o objetivo de motivar a vinda de turistas de eventos e incentivo at&eacute; a Copa e ap&oacute;s sua realiza&ccedil;&atilde;o&rdquo;, revela Sim&otilde;es.</p></p>
+<p><p>O Secret&aacute;rio de Turismo do Recife, Samuel Oliveira, acredita que n&atilde;o haja melhor momento para a cidade, subsede da Copa, apresentar as suas potencialidades para o p&uacute;blico coorporativo. &ldquo;S&atilde;o eles que decidem o destino de viagens de incentivo e eventos de cada empresa. Por isso, devemos aproveitar a oportunidade da copa 2014 e otimizar os resultados com a finalidade de trazer crescente e continuamente, turistas para Pernambuco durante todo o ano, atualizando o mercado com os novos produtos e infraestrutura oferecidos pelo destino&rdquo;, diz.</p></p>
+<p><p>Convite - Uma das &uacute;ltimas fases do Pernambuco Bom para o Seu Neg&oacute;cio ser&aacute; a realiza&ccedil;&atilde;o de um grande evento em S&atilde;o Paulo, capital&nbsp; onde existe uma maior concentra&ccedil;&atilde;o de empresas em potencial. Haver&aacute;&nbsp; espet&aacute;culo com grandes artistas locais como Spok e Ant&ocirc;nio Carlos N&oacute;brega, apresenta&ccedil;&atilde;o do destino por meio de palestra comandada por personalidades da cultura popular,&nbsp; al&eacute;m de mostra gastron&ocirc;mica assinada por chefs renomados.&nbsp; No entanto, o ponto alto da ocasi&atilde;o ser&aacute; o convite para que os participantes da festa conhe&ccedil;am a infraestrutura de Pernambuco in loco, com todas as despesas custeadas pelo projeto. Ou seja, cada empresa ter&aacute; a oportunidade de realizar uma visita t&eacute;cnica ao Estado, sendo ciceroneada por t&eacute;cnicos da prefeitura, Abih-PE e Sebrae-PE.</p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

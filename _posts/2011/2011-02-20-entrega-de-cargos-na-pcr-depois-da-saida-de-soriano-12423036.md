@@ -1,0 +1,26 @@
+---
+id: 12423036
+date: "2011-02-20T22:24:00Z"
+last_modified_at: null
+tags:
+  - "entrega"
+categories:
+  - "noticias"
+title: "Entrega de cargos na PCR depois da sa\u00edda de Soriano"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Estimado Jornalista Jamildo Melo,</p></p>
+<p><p>Pe&ccedil;o licen&ccedil;a para me servir de seu conceituado Blog, para esclarecer alguns pontos relativos &agrave; entrega de cargos pelos Procuradores Chefes da Procuradoria Geral do Munic&iacute;pio do Recife, na oportunidade em que se anunciou, pelos Jornais, a substitui&ccedil;&atilde;o do Secret&aacute;rio de Assuntos Jur&iacute;dicos e Procurador Geral do Munic&iacute;pio, Dr. Ricardo Soriano. Fa&ccedil;o isso porque em todo esse processo, n&atilde;o me recordo de se ter sido ouvido qualquer dos Procuradores envolvidos na pol&ecirc;mica.</p></p>
+<p><p>De fato, em documento subscrito por todos os Procuradores que exercem cargos de Dire&ccedil;&atilde;o e Assessoramento, inclusive o exercido por mim, de Procuradora Diretora da Procuradoria da Fazenda Municipal do Recife, esses cargos foram colocados &agrave; disposi&ccedil;&atilde;o do Secret&aacute;rio, para que seu sucessor, Dr. Cl&aacute;udio Ferreira, conforme anunciado pelo Chefe do Executivo Municipal, Prefeito Jo&atilde;o da Costa, tenha toda a liberdade e tranquilidade necess&aacute;rios &agrave; forma&ccedil;&atilde;o de sua equipe de colaboradores, de modo que caber&aacute; ao futuro Secret&aacute;rio, decidir quanto &agrave; manuten&ccedil;&atilde;o de membros da equipe de seu antecessor, ou renov&aacute;-la inteiramente.</p></p>
+<p><p>Cumpre-me, entretanto, se me permite esse editor, reafirmar minha posi&ccedil;&atilde;o de n&atilde;o mais continuar &agrave; frente da Procuradoria da Fazenda Municipal do Recife e expressar meus mais sinceros agradecimentos ao ex-Secret&aacute;rio Ricardo Soriano, pela oportunidade de comandar uma equipe de Procuradores tidos e havidos, por toda a comunidade jur&iacute;dica, como do mais alto n&iacute;vel t&eacute;cnico e o que &eacute; fundamental, em se tratando de Advogados P&uacute;blicos, inegavelmente compromissados com a defesa intransigente do interesse p&uacute;blico.</p></p>
+<p><p>Apesar de not&iacute;cias dando conta da suposta insatisfa&ccedil;&atilde;o do Sr. Prefeito, no tocante &agrave; atua&ccedil;&atilde;o da Secretaria de Assuntos Jur&iacute;dicos, j&aacute; desmentidas pelo mandat&aacute;rio m&aacute;ximo municipal, &eacute; meu dever esclarecer, em respeito &agrave;queles que compartilharam desse um ano da minha gest&atilde;o &agrave; frente da PFM, a&iacute; inclu&iacute;dos todos os 19 Procuradores que a integram e os demais colaboradores, dentre servidores, prestadores e estagi&aacute;rios, al&eacute;m da Diretora Geral das Procuradorias, Dra. Fl&aacute;via Castanheira do Nascimento e de seu adjunto, o tamb&eacute;m Procurador, Dr. Gustavo Barbosa, que sem o apoio de todos n&atilde;o ter&iacute;amos, por certo, obtido os resultados extraordin&aacute;rios que os ve&iacute;culos de comunica&ccedil;&atilde;o t&ecirc;m noticiado, inclusive em n&iacute;vel nacional. Falo do incremento &agrave; arrecada&ccedil;&atilde;o e da recupera&ccedil;&atilde;o de cr&eacute;ditos propiciados pelo Mutir&atilde;o da Regulariza&ccedil;&atilde;o Fiscal, realizado numa parceria in&eacute;dita da Procuradoria da Fazenda Municipal do Recife com o Tribunal de Justi&ccedil;a de Pernambuco, atrav&eacute;s de sua Coordenadoria das Centrais de Concilia&ccedil;&atilde;o, dirigida, com extremada compet&ecirc;ncia e esp&iacute;rito p&uacute;blico, pelo Juiz Carlos Alberto Magalh&atilde;es.</p></p>
+<p><p>Quero destacar que o que me gratifica em todo esse trabalho n&atilde;o &eacute; apenas o volume dos recursos que ingressar&atilde;o nos cofres municipais, necess&aacute;rios ao custeio de servi&ccedil;os p&uacute;blicos essenciais, como educa&ccedil;&atilde;o, sa&uacute;de, saneamento b&aacute;sico, dentre outros, mas ter testemunhado a alegria de muitos contribuintes em, finalmente, regularizarem suas d&iacute;vidas com a Prefeitura, livrando-se do fantasma sempre presente, de uma penhora ou at&eacute; leil&atilde;o de seu im&oacute;vel. &ldquo;O homem de bem n&atilde;o gosta de dever a ningu&eacute;m, nem mesmo &agrave; Prefeitura&rdquo;, isso foi o que mais ouvi, durante o per&iacute;odo em que estive &agrave; frente da PFM e foi essa certeza que me inspirou na cria&ccedil;&atilde;o e execu&ccedil;&atilde;o do projeto que, gra&ccedil;as a Deus &ndash; sempre ele -, foi e ainda &eacute;, porque os resultados ainda repercutir&atilde;o por um bom tempo, um sucesso.</p></p>
+<p><p>Deixo, portanto, o cargo de dire&ccedil;&atilde;o e retorno &agrave;s minhas atividades como Procuradora de carreira, concursada que sou, com a certeza da miss&atilde;o cumprida e de que meu sucessor far&aacute; uma administra&ccedil;&atilde;o ainda mais bem sucedida que a minha, posto que, sendo o cargo privativo de Procurador, necessariamente, ser&aacute; ocupado por um dos meus competent&iacute;ssimos colegas de Procuradoria.</p></p>
+<p><p>Cordialmente,</p></p>
+<p><p>Noelia Lima Brito</p></p>
+<p><p>Procuradora Judicial do Munic&iacute;pio do Recife</p> </p>
+{% endraw %}

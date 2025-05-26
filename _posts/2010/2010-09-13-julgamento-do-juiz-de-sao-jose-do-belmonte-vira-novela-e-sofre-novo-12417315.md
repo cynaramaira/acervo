@@ -1,0 +1,28 @@
+---
+id: 12417315
+date: "2010-09-13T22:10:00Z"
+last_modified_at: null
+tags:
+  - "adiamento"
+  - "julgamento"
+  - "louro-jose"
+  - "novela"
+  - "prejuizos"
+  - "sao"
+  - "tjpe"
+categories:
+  - "noticias"
+title: "Julgamento do juiz de S\u00e3o Jos\u00e9 do Belmonte vira novela e sofre novo adiamento no TJPE"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Na sess&atilde;o desta segunda-feira, 13, a Corte Especial do Tribunal de Justi&ccedil;a de Pernambuco (TJPE) continuou o julgamento do processo administrativo disciplinar movido contra o juiz Francisco de Assis Tim&oacute;teo, de S&atilde;o Jos&eacute; do Belmonte. O magistrado &eacute; acusado de interfer&ecirc;ncia no legislativo da comarca e nas atividades da Pol&iacute;cia, envolvimento com delinq&uuml;entes e corrup&ccedil;&atilde;o de crian&ccedil;as e adolescentes.</p></p>
+<p><p>O desembargador Fernando Ferreira votou, nesta segunda-feira, 13, pela pena de aposentadoria compuls&oacute;ria do juiz Francisco de Assis Tim&oacute;teo Rodrigues, acompanhando o entendimento da desembargadora Alderita Ramos proferido na segunda-feira passada, 6. Tanto o desembargador Fernando quanto a desembargadora Alderita alegaram que h&aacute; testemunhas e ind&iacute;cios que comprovam o envolvimento do juiz com delinq&uuml;entes, a interfer&ecirc;ncia nas atividades da Pol&iacute;cia e ainda conduta inadequada ao exerc&iacute;cio da magistratura. Ap&oacute;s o voto do desembargador Fernando, o desembargador Jovaldo Nunes pediu vistas do processo, adiando o julgamento para a pr&oacute;xima sess&atilde;o da Corte, na segunda-feira, dia 20, &agrave;s 14h.&nbsp;</p></p>
+<p><p>At&eacute; o momento, h&aacute; 8 votos pela improced&ecirc;ncia do processo com seu arquivamento. O relator, desembargador Ricardo Paes Barreto, votou nesse sentido, argumentando que n&atilde;o h&aacute; provas de corrup&ccedil;&atilde;o de crian&ccedil;as e adolescentes, abuso de poder (interfer&ecirc;ncia nas atividades da Policia Militar e nos trabalhos da C&acirc;mara do munic&iacute;pio) e envolvimento no homic&iacute;dio de um homem, conhecido como Jo&atilde;o Dent&atilde;o. Acompanharam o voto do relator os desembargadores Fernando Cerqueira, Bartolomeu Bueno, Gustavo Lima, Patriota Malta, Antenor Cardoso, Alberto Virg&iacute;lio e Fernando Martins. O voto do desembargador Ricardo foi apresentado no dia 23 de agosto. &ldquo;Fa&ccedil;o o registro de que n&atilde;o estou votando por falta de provas, mas porque h&aacute; provas nos autos em contr&aacute;rio &agrave;s acusa&ccedil;&otilde;es narradas no procedimento administrativo pr&eacute;vio, que deu origem a este processo. Assim sendo, o meu voto &eacute; pela improced&ecirc;ncia do presente processo administrativo, com seu conseq&uuml;ente arquivamento&rdquo;, escreveu o relator.</p></p>
+<p><p>Dois desembargadores votaram pela pena de remo&ccedil;&atilde;o compuls&oacute;ria do magistrado por entender que n&atilde;o h&aacute; mais condi&ccedil;&otilde;es do juiz Francisco Tim&oacute;teo atuar em S&atilde;o Jos&eacute; do Belmonte. No dia 6 de setembro, o desembargador Eurico de Barros votou nesse sentido. Na sess&atilde;o anterior, no dia 30 de agosto, o desembargador Jos&eacute; Ivo de Paula defendeu o mesmo argumento. Os dois magistrados afirmaram que n&atilde;o h&aacute; provas, nos autos, de que o juiz Francisco de Assis tenha cometido os crimes de que &eacute; acusado. Contudo, as den&uacute;ncias e boatos sobre o caso prejudicam a imagem do Judici&aacute;rio e abalam a credibilidade dele na cidade.</p></p>
+<p><p>Hist&oacute;ria do Processo &ndash; Em 25 de janeiro de 2010, o processo administrativo foi instaurado com o afastamento do juiz Francisco de Assis Tim&oacute;teo Rodrigues das atividades na comarca por decis&atilde;o un&acirc;nime dos 15 desembargadores integrantes da Corte Especial. A abertura do processo foi fundamentada no relat&oacute;rio produzido pela Corregedoria Geral da Justi&ccedil;a (CGJ-PE) em 2009, a partir do procedimento administrativo pr&eacute;vio instalado no dia 16 de outubro de 2009, de acordo com a Resolu&ccedil;&atilde;o n&ordm; 30, de 07/03/2007, do Conselho Nacional de Justi&ccedil;a (CNJ), que disp&otilde;e sobre a uniformiza&ccedil;&atilde;o de normas relativas ao procedimento administrativo disciplinar aplic&aacute;vel aos magistrados. O juiz Francisco Tim&oacute;teo foi afastado da comarca no dia 16 de outubro de 2009.</p></p>
+<p><p>O magistrado Francisco de Assis Tim&oacute;teo ainda responde a mais dois processos administrativos. O segundo processo foi instaurado no dia 26 de julho de 2010 para apurar a devolu&ccedil;&atilde;o de armas e muni&ccedil;&otilde;es apreendidas aos antigos propriet&aacute;rios, quando deveria ter encaminhado o arsenal ao Ex&eacute;rcito para que fosse destru&iacute;do. Tamb&eacute;m h&aacute; den&uacute;ncias de que o juiz liberou ilegalmente o detento Francisco Vieira Neto do pres&iacute;dio. O terceiro processo foi instaurado no dia 16 de agosto de 2010 para investigar suposta parcialidade na condu&ccedil;&atilde;o do processo que tem como partes Gil Xavier Guimar&atilde;es e o Banco do Nordeste. Francisco Tim&oacute;teo &eacute; acusado de ter concedido tutela antecipada a Gil Guimar&atilde;es sem a presen&ccedil;a do titulo de cr&eacute;dito no bojo dos autos, o que configura desobedi&ecirc;ncia ao C&oacute;digo de Processo Civil (artigos 273, caput, 282, 283 e 396).</p> </p>
+{% endraw %}

@@ -1,0 +1,34 @@
+---
+id: 12423343
+date: "2011-02-28T20:58:00Z"
+last_modified_at: null
+tags:
+  - "nuclear"
+  - "pernambuco"
+categories:
+  - "noticias"
+title: "Usina nuclear em Pernambuco: estupidez tem limite"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Edilson Silva</p></p>
+<p><p>Estamos h&aacute; tempos denunciando o processo de amplia&ccedil;&atilde;o do programa nuclear&nbsp; brasileiro para a gera&ccedil;&atilde;o de energia el&eacute;trica. Na recente campanha ao governo do Estado, na condi&ccedil;&atilde;o de candidato, levamos este tema para debates nas TVs e tamb&eacute;m para o nosso guia eleitoral, como forma de alertar a popula&ccedil;&atilde;o para os perigos que a constru&ccedil;&atilde;o de um complexo nuclear pode trazer, como m&iacute;nimo, para o nosso Estado.</p></p>
+<p><p>H&aacute; pelo menos cinco quest&otilde;es entrela&ccedil;adas que envolvem este tema e que precisam ser debatidos amplamente com a m&aacute;xima urg&ecirc;ncia, na perspectiva de uma ampla mobiliza&ccedil;&atilde;o social, diante da not&iacute;cia de que o munic&iacute;pio de Itacoruba, &agrave;s margens do Velho Chico, j&aacute; foi escolhido como primeira op&ccedil;&atilde;o pela Eletronuclear para a constru&ccedil;&atilde;o destas usinas no nordeste.</p></p>
+<p><p>As quest&otilde;es s&atilde;o entrela&ccedil;adas porque dialogam entre si e se justificam mutuamente. A primeira quest&atilde;o diz respeito &agrave; natureza da energia nuclear. Trata-se de uma fonte n&atilde;o-renov&aacute;vel, altamente poluente no processo de produ&ccedil;&atilde;o do combust&iacute;vel nuclear e cujo lixo (res&iacute;duos radioativos) o homem ainda n&atilde;o sabe bem o que fazer com ele. Mesmo os res&iacute;duos de baixa radioatividade, como botas e macac&otilde;es dos funcion&aacute;rios das usinas, precisam ainda ser confinados por s&eacute;culos. Os res&iacute;duos de m&eacute;dia e alta radioatividade tendem a virar um monumento eterno &agrave; estupidez. Detalhe: uma usina nuclear tem uma vida &uacute;til pouco maior que meio s&eacute;culo. At&eacute; uma crian&ccedil;a v&ecirc; a rela&ccedil;&atilde;o cuto-benef&iacute;cio.</p></p>
+<p><p>Ainda na quest&atilde;o da natureza destas usinas, h&aacute; sempre o perigo de acidentes. Se n&atilde;o houvesse, um dos principais crit&eacute;rios para localiza&ccedil;&atilde;o geogr&aacute;fica destas unidades n&atilde;o seria a baixa densidade populacional (uma das raz&otilde;es de terem escolhido Itacoruba), de forma que os &ldquo;estragos&rdquo; num eventual acidente sejam minimizados. O problema &eacute; que estamos falando de combust&iacute;vel nuclear, cuja irradia&ccedil;&atilde;o pode alcan&ccedil;ar com facilidade milhares de quil&ocirc;metros. Pior, &agrave;s margens de um dos principais rios brasileiros, o Rio S&atilde;o Francisco. Um acidente poder&aacute;, certamente, anular para sempre o sert&atilde;o do S&atilde;o Francisco como o conhecemos e levar para as demais regi&otilde;es o trauma de Chernobil.</p></p>
+<p><p>A segunda quest&atilde;o diz respeito &agrave; necessidade da amplia&ccedil;&atilde;o da oferta de energia el&eacute;trica. Precisamos mesmo desta amplia&ccedil;&atilde;o&iquest; Este debate extrapola a quest&atilde;o das usinas nucleares e alcan&ccedil;a mesmo as hidrel&eacute;tricas e termel&eacute;tricas. &Eacute; necess&aacute;rio matar o Parque do Xingu para construir a usina de Belo Monte&iquest;</p></p>
+<p><p>H&aacute; fortes raz&otilde;es para crermos que os n&iacute;veis de exig&ecirc;ncia de responsabilidade s&oacute;cio-ambiental na Europa estejam carreando para a &ldquo;periferia&rdquo; do planeta a produ&ccedil;&atilde;o &ldquo;suja&rdquo;, como os eletrointensivos - produ&ccedil;&atilde;o de a&ccedil;o e alum&iacute;nio -, unidades fabris que consomem energia el&eacute;trica e &aacute;gua equivalentes a grandes cidades e at&eacute; mesmo estados inteiros. O nosso crescimento econ&ocirc;mico, a nossa &ldquo;marolinha&rdquo; diante da crise econ&ocirc;mica mundial, estaria sendo sustentada pela degrada&ccedil;&atilde;o criminosa da nossa infraestrutura natural.</p></p>
+<p><p>Esta segunda quest&atilde;o nos leva imediatamente &agrave; terceira. Porque n&atilde;o h&aacute; um debate democr&aacute;tico sobre isto&iquest; Temas desta relev&acirc;ncia n&atilde;o podem ficar confinados em salas e corredores dos gabinetes do poder. A sociedade precisa conhecer minimamente as op&ccedil;&otilde;es que t&ecirc;m. Porque raz&atilde;o o Brasil debateu o desarmamento, dizendo sim ou n&atilde;o, e com rela&ccedil;&atilde;o a um tema que diz respeito a quest&otilde;es de mais longo alcance n&atilde;o h&aacute; participa&ccedil;&atilde;o popular&iquest;</p></p>
+<p><p>A quarta quest&atilde;o diz respeito ao fato de estarmos falando do Brasil. Aqui n&atilde;o &eacute; a Fran&ccedil;a, o Jap&atilde;o, pa&iacute;ses cuja infra-estrutura natural n&atilde;o lhes foi generosa, e que se utilizam desta fonte energ&eacute;tica. Aqui no Brasil temos sol praticamente o ano inteiro, mar e ventos abundantes. Porque raz&atilde;o n&atilde;o exploramos melhor a hip&oacute;tese de gera&ccedil;&atilde;o de energia el&eacute;trica a partir destas fontes renov&aacute;veis&iquest; &Eacute; porque elas s&atilde;o abundantes e n&atilde;o geram lucro para um pequeno grupo, como outras fontes&iquest;</p></p>
+<p><p>Por fim, a quinta quest&atilde;o. Estamos falando de Pernambuco. Para quem ainda n&atilde;o conhece, sugiro a leitura da nossa Constitui&ccedil;&atilde;o Estadual, em seu Cap&iacute;tulo IV, Do Meio Ambiente, que abriga os artigos 204 a 216. Solicito especial aten&ccedil;&atilde;o ao artigo 216: &ldquo;Fica proibida a instala&ccedil;&atilde;o de usinas nucleares no territ&oacute;rio do Estado de Pernambuco enquanto n&atilde;o se esgotar toda a capacidade de produzir energia hidrel&eacute;trica e oriunda de outras fontes&rdquo;.&nbsp;<br /></p>
+<p>&nbsp;<br /></p>
+<p>Porque raz&atilde;o o legislador definiu de forma t&atilde;o expressa o uso de energia nuclear somente em &uacute;ltimo caso&iquest; &Eacute; por que esta fonte &eacute; para ser usada somente em &uacute;ltimo caso mesmo, dadas as suas p&eacute;ssimas caracter&iacute;sticas. N&atilde;o pode ser utilizada com o argumento de que gera emprego e renda, que gera divisas para o munic&iacute;pio e para o Estado. Estes argumentos s&atilde;o de uma futilidade inenarr&aacute;veis.</p></p>
+<p><p>Neste momento, o governador Eduardo Campos, e mais ainda o seu futuro secret&aacute;rio de Meio Ambiente e Sustentabilidade, Sergio Xavier, do PV, precisam demonstrar seu compromisso com o presente e com o futuro. A sociedade, precavida, deve estar pronta para dizer n&atilde;o a esta afronta ao futuro, ao presente, &agrave; lei e &agrave; raz&atilde;o.</p></p>
+<p><p>Presidente do PSOL-PE</p></p>
+<p><p><br /></p>
+<p>&nbsp;</p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

@@ -1,0 +1,29 @@
+---
+id: 12418644
+date: "2010-11-04T14:47:00Z"
+last_modified_at: null
+tags:
+  - "desenvolvimento-social"
+categories:
+  - "noticias"
+title: "Os verbos do desenvolvimento"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Gustavo Krause, especial para o Blog de Jamildo</p></p>
+<p><p>A coexist&ecirc;ncia de na&ccedil;&otilde;es ricas e pobres sempre desafiou a capacidade de resposta das ci&ecirc;ncias sociais, em especial, da teoria econ&ocirc;mica. O esfor&ccedil;o acad&ecirc;mico, al&eacute;m de insuficiente, passa longe de um consenso capaz de explicar natureza, causas e solu&ccedil;&otilde;es para a pobreza e riqueza das na&ccedil;&otilde;es.</p></p>
+<p><p>No entanto, a experi&ecirc;ncia hist&oacute;rica que, embora n&atilde;o responda como verdade cient&iacute;fica a estas quest&otilde;es, fornece algumas pistas encorajadoras dos caminhos a serem seguidos.</p></p>
+<p><p>Para chegar ao desejado patamar de na&ccedil;&atilde;o desenvolvida, governos e sociedades t&ecirc;m feito a li&ccedil;&atilde;o correta de conjugar alguns verbos. Vamos a eles. O verbo educar. Na&ccedil;&otilde;es desenvolvidas, sem exce&ccedil;&atilde;o, atingiram elevados<br /></p>
+<p>padr&otilde;es educacionais. Formaram uma sociedade de cidad&atilde;os educados o que<br /></p>
+<p>significa pessoas capacitadas para exercer um permanente papel transformador.</p></p>
+<p><p>O cidad&atilde;o educado &eacute; o n&uacute;cleo primeiro do desenvolvimento; &eacute; ele o motor de uma consciente participa&ccedil;&atilde;o pol&iacute;tica e a mola mestra da inova&ccedil;&atilde;o no seu sentido mais amplo. O uso proposital da express&atilde;o &ldquo;cidad&atilde;o educado&rdquo; busca superar os res&iacute;duos de preconceito ideol&oacute;gico ao termo &ldquo;capital humano&rdquo;, cuja elabora&ccedil;&atilde;o te&oacute;rica, como fator de produ&ccedil;&atilde;o, hoje largamente aceita, &eacute; devida a Theodore Schultz e Gary Becker, Nobel de Economia/1992.</p></p>
+<p><p>No Brasil, este verbo n&atilde;o vem sendo bem conjugado. Tanto &eacute; verdade que, a despeito de avan&ccedil;os quantitativos, nosso Pa&iacute;s alterna &uacute;ltimo e pen&uacute;ltimo lugar, entre 57 pa&iacute;ses avaliados pela PISA, pesquisa que leva em conta o desempenho dos alunos do ensino fundamental e m&eacute;dio em l&iacute;nguas, matem&aacute;tica e ci&ecirc;ncias.</p></p>
+<p><p>Os verbos trabalhar e produzir. Os referidos verbos devem ser acompanhados dos adv&eacute;rbios de modo &ldquo;produtiva e competitivamente&rdquo;. No caso brasileiro, o trabalho e todo o setor produtivo s&atilde;o onerados, de um lado, por enorme carga fiscal e, de outra parte pelos chamados &ldquo;custos de transa&ccedil;&atilde;o&rdquo;, resultantes do peso da burocracia, da corrup&ccedil;&atilde;o, da inseguran&ccedil;a jur&iacute;dica, da lentid&atilde;o do Judici&aacute;rio e da precariedade da infra-estrutura f&iacute;sica.</p></p>
+<p><p>Os verbos poupar e investir. S&atilde;o os n&iacute;veis de poupan&ccedil;a nacional que financiam os investimentos e asseguram o crescimento econ&ocirc;mico sustentado. No caso brasileiro o governo &eacute; gastador e, por isto, &ldquo;despoupa&rdquo;; o n&iacute;vel da poupan&ccedil;a privada, por sua vez, &eacute; insuficiente para garantir o n&iacute;vel de investimento adequado para que o PIB tenha um desempenho elevado e constante. O trip&eacute; do crescimento brasileiro tem sido o consumo desembestado, a gastan&ccedil;a corrente do governo e a concentra&ccedil;&atilde;o de cr&eacute;dito das institui&ccedil;&otilde;es de fomento (72,6 bilh&otilde;es aplicados pelo BNDES nos sete primeiros meses de 2010: 64% grandes empresas; 18% pequenas e micro empresas; 11% m&eacute;dias; 7% pessoas f&iacute;sicas). Preocupa, ainda, o rumo que venha a ser dada &aacute; pol&iacute;tica econ&ocirc;mica do pr&oacute;ximo governo com n&iacute;tidos pendores estatizantes e o indisfar&ccedil;&aacute;vel desejo de empurrar o CPMF goela abaixo do contribuinte.</p></p>
+<p><p>Os verbos criar, consolidar, aperfei&ccedil;oar e respeitar institui&ccedil;&otilde;es democr&aacute;ticas. N&atilde;o h&aacute; registro de pa&iacute;ses desenvolvidos sem que a democracia esteja enraizada nas culturas pol&iacute;ticas e que as institui&ccedil;&otilde;es funcionem de modo a assegurar as liberdades pol&iacute;tica, econ&ocirc;mica, de express&atilde;o, o funcionamento do sistema pol&iacute;tico e a seguran&ccedil;a jur&iacute;dica nas rela&ccedil;&otilde;es econ&ocirc;micas e sociais. &Eacute; este arcabou&ccedil;o jur&iacute;dico-institucional que confere estabilidade sist&ecirc;mica e proporciona o que a escola institucionalista denomina &ldquo;produtividade geral dos fatores de produ&ccedil;&atilde;o&rdquo;. No Brasil, as reformas foram congeladas; o sistema pol&iacute;tico, anacr&ocirc;nico e disfuncional consagrou definitivamente o slogan &ldquo;pol&iacute;tica tamb&eacute;m &eacute; investimento&rdquo;; a rever&ecirc;ncia e o respeito pela legalidade e pelas institui&ccedil;&otilde;es deram lugar ao afrontoso comportamento do Presidente da Rep&uacute;blica.</p></p>
+<p><p>Findo o debate eleitoral, talhado a ferro, fogo, muito calor e pouca luz; conjugado o verbo prometer em todos os modos e tempos, o Brasil tem governo eleito e a procedente expectativa de que nosso futuro depende da supera&ccedil;&atilde;o do dil(e)ma: ou a chefe do governo assume a dimens&atilde;o de estadista o que significar&aacute; um avan&ccedil;o, entrecortado pelos inevit&aacute;veis amuos do seu padrinho; ou cumpre a triste sina de ref&eacute;m da proveta que lhe deu o sopro vital na elei&ccedil;&atilde;o presidencial.</p></p>
+<p><p>Para o bem de todos, que conjugue os verbos do desenvolvimento sem esquecer o mais novo e nobre verbo que passou a compor a gram&aacute;tica da humanidade: respeitar a natureza.</p> </p>
+{% endraw %}

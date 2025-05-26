@@ -1,0 +1,46 @@
+---
+id: 12410460
+date: "2010-02-07T12:46:00Z"
+last_modified_at: null
+tags:
+  - "briga"
+  - "comparacoes"
+  - "governo"
+  - "lula"
+  - "michel-temer"
+  - "naomi-campbell"
+  - "segunda-chamada"
+categories:
+  - "noticias"
+title: "FHC diz n\u00e3o temer compara\u00e7\u00f5es de seu governo com o de Lula e chama o petista para a briga"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Em artigo publicado no jornal O Estado de S. Paulo, FHC diz n&atilde;o temer compara&ccedil;&otilde;es entre seu governo e o do presidente Lula. &quot;Se o lulismo quiser comparar, sem mentir e sem descontextualizar, a briga &eacute; boa&quot;, afirma.</p></p>
+<p><p style="text-align: center;"><img src="https://1.bp.blogspot.com/_rlMSqCMWNwA/SwcgNlRhGiI/AAAAAAAAAjw/NTinJmXm52M/s320/FHC+e+Lula.jpg" alt="" /></p></p>
+<p><p>Sem medo do passado<br /></p>
+<p><br /></p>
+<p>O presidente Lula passa por momentos de euforia que o levam a inventar inimigos e enunciar inverdades. Para ganhar sua guerra imagin&aacute;ria distorce o ocorrido no governo do antecessor, autoglorifica-se na compara&ccedil;&atilde;o e sugere que se a oposi&ccedil;&atilde;o ganhar ser&aacute; o caos. Por tr&aacute;s dessas bravatas est&atilde;o o personalismo e o fantasma da intoler&acirc;ncia: s&oacute; eu e os meus somos capazes de tanta gl&oacute;ria. Houve quem dissesse: &quot;O Estado sou eu.&quot; Lula dir&aacute;: &quot;O Brasil sou eu!&quot; Ecos de um autoritarismo mais chegado &agrave; direita.<br /></p>
+<p><br /></p>
+<p>Lamento que Lula se deixe contaminar por impulsos t&atilde;o toscos e perigosos. Ele possui m&eacute;ritos de sobra para defender a candidatura que queira. Deu passos adiante no que fora plantado por seus antecessores. Para que, ent&atilde;o, baixar o n&iacute;vel da pol&iacute;tica &agrave; dissimula&ccedil;&atilde;o e &agrave; mentira&#63;<br /></p>
+<p><br /></p>
+<p>A estrat&eacute;gia do petismo-lulista &eacute; simples: desconstruir o inimigo principal, o PSDB e FHC (muita honra para um pobre marqu&ecirc;s...). Por que ser&iacute;amos o inimigo principal&#63; Porque podemos ganhar as elei&ccedil;&otilde;es. Como desconstruir o inimigo&#63; Negando o que de bom foi feito e apossando-se de tudo o que dele herdaram como se deles sempre tivesse sido. Onde est&aacute; a pol&iacute;tica mais consciente e ben&eacute;fica para todos&#63; No ralo.<br /></p>
+<p><br /></p>
+<p>Na campanha haver&aacute; um mote - o governo do PSDB foi &quot;neoliberal&quot; - e dois alvos principais: a privatiza&ccedil;&atilde;o das estatais e a suposta ina&ccedil;&atilde;o na &aacute;rea social. Os dados dizem outra coisa. Mas os dados, ora, os dados... O que conta &eacute; repetir a vers&atilde;o conveniente. H&aacute; tr&ecirc;s semanas Lula disse que recebeu um governo estagnado, sem plano de desenvolvimento. Esqueceu-se da estabilidade da moeda, da Lei de Responsabilidade Fiscal, da recupera&ccedil;&atilde;o do BNDES, da moderniza&ccedil;&atilde;o da Petrobr&aacute;s, que triplicou a produ&ccedil;&atilde;o depois do fim do monop&oacute;lio e, premida pela competi&ccedil;&atilde;o e beneficiada pela flexibilidade, chegou &agrave; descoberta do pr&eacute;-sal. Esqueceu-se do fortalecimento do Banco do Brasil, capitalizado com mais de R$ 6 bilh&otilde;es, e junto com a Caixa Econ&ocirc;mica, libertados da politicagem e recuperados para a execu&ccedil;&atilde;o de pol&iacute;ticas de Estado. Esqueceu-se dos investimentos do Programa Avan&ccedil;a Brasil, que, com menos alarde e mais efici&ecirc;ncia que o PAC, permitiu concluir um n&uacute;mero maior de obras essenciais ao Pa&iacute;s. Esqueceu-se dos ganhos que a privatiza&ccedil;&atilde;o do sistema Telebr&aacute;s trouxe para o povo brasileiro, com a democratiza&ccedil;&atilde;o do acesso &agrave; internet e aos celulares, do fato de que a Vale privatizada paga mais impostos ao governo do que este jamais recebeu em dividendos quando a empresa era estatal, de que a Embraer, hoje orgulho nacional, s&oacute; p&ocirc;de dar o salto que deu depois de privatizada, de que essas empresas continuam em m&atilde;os brasileiras, gerando empregos e desenvolvimento no Pa&iacute;s.<br /></p>
+<p><br /></p>
+<p>Esqueceu-se de que o Pa&iacute;s pagou um custo alto por anos de &quot;bravata&quot; do PT e dele pr&oacute;prio. Esqueceu-se de sua responsabilidade e de seu partido pelo temor que tomou conta dos mercados em 2002, quando fomos obrigados a pedir socorro ao FMI - com aval de Lula, diga-se - para que houvesse um colch&atilde;o de reservas no in&iacute;cio do governo seguinte. Esqueceu-se de que foi esse temor que ati&ccedil;ou a infla&ccedil;&atilde;o e levou seu governo a elevar o super&aacute;vit prim&aacute;rio e os juros &agrave;s nuvens em 2003, para comprar a confian&ccedil;a dos mercados, mesmo que &agrave; custa de tudo o que haviam pregado, ele e seu partido, nos anos anteriores.<br /></p>
+<p><br /></p>
+<p>Os exemplos s&atilde;o in&uacute;meros para desmontar o espantalho petista sobre o suposto &quot;neoliberalismo&quot; peessedebista. Alguns v&ecirc;m do pr&oacute;prio campo petista. Vejam o que disse o atual presidente do partido, Jos&eacute; Eduardo Dutra, ex-presidente da Petrobr&aacute;s, citado por Adriano Pires no Brasil Econ&ocirc;mico de 13/1: &quot;Se eu voltar ao parlamento e tiver uma emenda propondo a situa&ccedil;&atilde;o anterior (monop&oacute;lio), voto contra. Quando foi quebrado o monop&oacute;lio, a Petrobr&aacute;s produzia 600 mil barris por dia e tinha 6 milh&otilde;es de barris de reservas. Dez anos depois produz 1,8 milh&atilde;o por dia, tem reservas de 13 bilh&otilde;es. Venceu a realidade, que muitas vezes &eacute; bem diferente da idealiza&ccedil;&atilde;o que a gente faz dela.&quot;<br /></p>
+<p><br /></p>
+<p>O outro alvo da distor&ccedil;&atilde;o petista se refere &agrave; insensibilidade social de quem s&oacute; se preocuparia com a economia. Os fatos s&atilde;o diferentes: com o real, a popula&ccedil;&atilde;o pobre diminuiu de 35% para 28% do total. A pobreza continuou caindo, com alguma oscila&ccedil;&atilde;o, at&eacute; atingir 18% em 2007, fruto do efeito acumulado de pol&iacute;ticas sociais e econ&ocirc;micas, entre elas o aumento do sal&aacute;rio m&iacute;nimo. De 1995 a 2002 houve um aumento real de 47,4%; de 2003 a 2009, de 49,5%. O rendimento m&eacute;dio mensal dos trabalhadores, descontada a infla&ccedil;&atilde;o, n&atilde;o cresceu espetacularmente no per&iacute;odo, salvo entre 1993 e 1997, quando saltou de R$ 800 para aproximadamente R$ 1.200. Hoje se encontra abaixo do n&iacute;vel alcan&ccedil;ado nos anos iniciais do Plano Real.<br /></p>
+<p><br /></p>
+<p>Por fim, os programas de transfer&ecirc;ncia direta de renda (hoje Bolsa-Fam&iacute;lia), vendidos como uma exclusividade deste governo. Na verdade, eles come&ccedil;aram num munic&iacute;pio (Campinas) e no Distrito Federal, estenderam-se para Estados (Goi&aacute;s) e ganharam abrang&ecirc;ncia nacional em meu governo. O Bolsa-Escola atingiu cerca de 5 milh&otilde;es de fam&iacute;lias, &agrave;s quais o governo atual juntou outros 6 milh&otilde;es, j&aacute; com o nome de Bolsa-Fam&iacute;lia, englobando numa s&oacute; bolsa os programas anteriores.<br /></p>
+<p><br /></p>
+<p>&Eacute; mentira, portanto, dizer que o PSDB &quot;n&atilde;o olhou para o social&quot;. N&atilde;o apenas olhou como fez e fez muito nessa &aacute;rea: o SUS saiu do papel para a realidade; o programa da aids tornou-se refer&ecirc;ncia mundial; viabilizamos os medicamentos gen&eacute;ricos, sem temor &agrave;s multinacionais; as equipes de Sa&uacute;de da Fam&iacute;lia, pouco mais de 300 em 1994, tornaram-se mais de 16 mil em 2002; o programa Toda Crian&ccedil;a na Escola trouxe para o ensino fundamental quase 100% das crian&ccedil;as de 7 a 14 anos. Foi tamb&eacute;m no governo do PSDB que se p&ocirc;s em pr&aacute;tica a pol&iacute;tica que assiste hoje mais de 3 milh&otilde;es de idosos e deficientes (em 1996 eram apenas 300 mil).<br /></p>
+<p><br /></p>
+<p>Elei&ccedil;&otilde;es n&atilde;o se ganham com o retrovisor. O eleitor vota em quem confia e lhe abre um horizonte de esperan&ccedil;as. Mas se o lulismo quiser comparar, sem mentir e sem descontextualizar, a briga &eacute; boa. Nada a temer.</p></p>
+<p><p>Fernando Henrique Cardoso, soci&oacute;logo, foi presidente da Rep&uacute;blica</p> </p>
+{% endraw %}

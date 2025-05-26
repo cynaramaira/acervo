@@ -1,0 +1,28 @@
+---
+id: 12419840
+date: "2010-12-02T15:41:00Z"
+last_modified_at: null
+tags:
+  - "editorial"
+  - "lula"
+categories:
+  - "noticias"
+title: "Editorial do Estad\u00e3o faz picadinho das bobagens de Lula"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><img height="559" width="520" alt="" src="https://1.bp.blogspot.com/_xIKn0Y1Sawk/TA13PS7AnnI/AAAAAAAAA2Y/hE8EyZ1Cppw/s1600/mensalao.jpg" /></p></p>
+<p><p>O povo sou eu</p></p>
+<p><p>Editorial do Estad&atilde;o</p></p>
+<p><p>O mesmo presidente Lula que aconselhou um rep&oacute;rter deste jornal a fazer psican&aacute;lise para se tratar da &ldquo;doen&ccedil;a do preconceito&rdquo;, revelou ter dito de si certa vez algo que deveria lev&aacute;-lo ao div&atilde; do terapeuta mais pr&oacute;ximo. N&atilde;o fosse a inconfid&ecirc;ncia, a sua grosseria com o jornalista Leonencio Nossa, baseado no Pal&aacute;cio do Planalto, mereceria ser largada no aterro onde se amontoam os incont&aacute;veis rompantes, bravatas e despaut&eacute;rios do mais prolixo dos governantes brasileiros. Mas o encadeamento das coisas obriga a revolver as palavras do presidente, em considera&ccedil;&atilde;o ao interesse p&uacute;blico.</p></p>
+<p><p>As cenas constrangedoras se passaram quando Lula visitava as obras da hidrel&eacute;trica de Estreito, no Maranh&atilde;o, para o fechamento simb&oacute;lico da primeira das 14 comportas da usina. Perguntado pelo rep&oacute;rter do Estado se a visita era uma forma de agradecer o apoio da oligarquia Sarney ao seu governo, ele perdeu as estribeiras. Embora o presidente do Senado seja o patriarca do cl&atilde; que sabidamente controla a vida pol&iacute;tica maranhense h&aacute; cerca de meio s&eacute;culo e embora seja tamb&eacute;m not&oacute;ria a sua sintonia com os interesses do lulismo - e vice-versa -, Lula reagiu com indisfar&ccedil;ada hostilidade.</p></p>
+<p><p>A pergunta &ldquo;preconceituosa&rdquo;, investiu, demonstraria que o jornalista n&atilde;o teria aprendido que o Senado &eacute; uma institui&ccedil;&atilde;o aut&ocirc;noma e que, ao se eleger e tomar posse, todo pol&iacute;tico &ldquo;passa a ser uma institui&ccedil;&atilde;o&rdquo;. &ldquo;Sarney n&atilde;o &eacute; meu presidente&rdquo;, emendou. &ldquo;&Eacute; o presidente do Senado deste pa&iacute;s.&rdquo; Lula domina com maestria o tipo de mentira que consiste em omitir uma parte, a mais importante, da verdade. No caso, o pacto de m&uacute;tua conveni&ecirc;ncia entre ambos - que se sobrep&otilde;e ao car&aacute;ter institucional das rela&ccedil;&otilde;es entre dois chefes de Poderes.</p></p>
+<p><p>Que o diga o PT do Maranh&atilde;o, obrigado este ano a desistir da candidatura pr&oacute;pria no Estado em favor da reelei&ccedil;&atilde;o da governadora Roseana Sarney. Foi ao pai que Lula se dirigiu em dada ocasi&atilde;o para transmitir uma amea&ccedil;a ao Congresso. Segundo a hist&oacute;ria que o presidente contou na sua fala de improviso em Estreito, no decorrer da crise do mensal&atilde;o, em 2005, pediu que Sarney advertisse os parlamentares da oposi&ccedil;&atilde;o de que, &ldquo;se tentassem dar um passo al&eacute;m da institucionalidade, n&atilde;o sabem o que vai acontecer&rdquo;. Porque &ldquo;n&atilde;o &eacute; o Lula que est&aacute; na Presid&ecirc;ncia, mas a classe trabalhadora&rdquo;</p></p>
+<p><p>Ou, mais precisamente, porque ele &eacute; &ldquo;a encarna&ccedil;&atilde;o do povo&rdquo;. N&atilde;o h&aacute; o mais remoto motivo para duvidar de que isso &eacute; o que ele enxerga quando se olha ao espelho. Luiz XIV teria dito que &ldquo;o Estado sou eu&rdquo;. Era, de toda sorte, uma constata&ccedil;&atilde;o pol&iacute;tica - e a mais concisa defini&ccedil;&atilde;o que se conhece do termo autocracia. Mas nem o Rei Sol, que via a sua onipot&ecirc;ncia iluminando a Fran&ccedil;a, tinha a pretens&atilde;o de encarnar os seus s&uacute;ditos. N&atilde;o ousaria dizer &ldquo;o povo sou eu&rdquo;. Em psiquiatria h&aacute; diversas denomina&ccedil;&otilde;es para o que em linguagem leiga se chama mania de grandeza.</p></p>
+<p><p>Lula disse ainda que de in&iacute;cio tinha medo do que lhe poderia acontecer &agrave; luz de um passado que inclu&iacute;a o suic&iacute;dio de Vargas, a tentativa de impedir a posse de Juscelino, a deposi&ccedil;&atilde;o de Jango, a ren&uacute;ncia de J&acirc;nio e o impeachment de Collor. A julgar por sua vers&atilde;o, o migrante que passou fome e priva&ccedil;&otilde;es e refez a vida sem renegar as suas origens seria um candidato natural a engrossar a lista dos governantes brasileiros apeados do poder de uma forma ou de outra, no que seria uma intermin&aacute;vel conspira&ccedil;&atilde;o dos descontentes. Mas &ldquo;eles&rdquo;, teria dito naquela conversa com Sarney, &ldquo;v&atilde;o saber que eu sou diferente&rdquo;.</p></p>
+<p><p>O que espanta, al&eacute;m da teoria encarnat&oacute;ria, s&atilde;o as circunst&acirc;ncias que levaram Lula a invocar alguns dos momentos mais turbulentos da hist&oacute;ria nacional. Em 2005, a oposi&ccedil;&atilde;o n&atilde;o conspirava para &ldquo;dar um passo al&eacute;m da institucionalidade&rdquo; nem o Pa&iacute;s estava convulsionado por um confronto ideol&oacute;gico que se resolveria pela for&ccedil;a. Os brasileiros, isso sim, estavam aturdidos com as evid&ecirc;ncias de que o lulismo usava dinheiro que transitava pelos desv&atilde;os da pol&iacute;tica e do governo para comprar votos na C&acirc;mara dos Deputados - o mensal&atilde;o. Lula n&atilde;o estava nem um pouco preocupado com as institui&ccedil;&otilde;es. Queria dar dimens&atilde;o hist&oacute;rica ao que n&atilde;o passava de um caso de pol&iacute;cia. Encarnou uma mistifica&ccedil;&atilde;o.<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

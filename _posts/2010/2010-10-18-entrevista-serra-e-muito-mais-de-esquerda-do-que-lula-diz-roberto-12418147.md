@@ -1,0 +1,39 @@
+---
+id: 12418147
+date: "2010-10-18T18:28:00Z"
+last_modified_at: null
+tags:
+  - "entrevista"
+  - "lula"
+  - "paulo-freire"
+  - "roberto-alvim"
+categories:
+  - "noticias"
+title: "Entrevista: 'Serra \u00e9 muito mais de esquerda do que Lula', diz Roberto Freire"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Priscila Muniz, do JC Online</p></p>
+<p><p>Ap&oacute;s mais de tr&ecirc;s dec&aacute;das na pol&iacute;tica pernambucana, o presidente nacional do PPS mudou de domic&iacute;lio eleitoral e foi eleito deputado federal pelo Estado de S&atilde;o Paulo, com 121.471 votos. A mudan&ccedil;a desencadeou cr&iacute;ticas de rivais pol&iacute;ticos de Roberto Freire, que afirmaram que ele foi para S&atilde;o Paulo porque n&atilde;o tinha mais for&ccedil;a pol&iacute;tica em Pernambuco. Nas &uacute;ltimas elei&ccedil;&otilde;es que disputou no Estado, em 2002, Freire obteve 54.003 votos, n&uacute;mero que garantiu sua vaga no limiar da lista dos eleitos. Em 2006, Freire n&atilde;o disputou a renova&ccedil;&atilde;o do mandato, sendo candidato a suplente do senador Jarbas Vasconcelos (PMDB).</p></p>
+<p><p>O pol&iacute;tico, que iniciou a vida p&uacute;blica no Partido Comunista Brasileiro (PCB), vem ao Recife na pr&oacute;xima quarta-feira (20). O <strong>JC Online</strong> publica uma entrevista exclusiva com o deputado eleito. Nela, Roberto Freire fala, al&eacute;m da mudan&ccedil;a no Estado que representar&aacute;, do desempenho de seu partido nas elei&ccedil;&otilde;es, da corrida presidencial no segundo turno e da sua vis&atilde;o&nbsp;sobre o Governo Lula. Confira:</p></p>
+<p><p><em><strong>JC Online</strong></em> - Eleitos os proporcionais, como o senhor avalia o desempenho do PPS, partido que preside&#63;<br /></p>
+<p><br /></p>
+<p><em><strong>Roberto Freire</strong></em> - O PPS teve um desempenho que era mais ou menos o esperado. N&oacute;s perdemos uma cadeira de deputado em rela&ccedil;&atilde;o&nbsp;ao que t&iacute;nhamos, mas ganhamos um senador, que n&atilde;o t&iacute;nhamos. Eu diria que o partido aguentou bem o tranco de ter sido uma&nbsp;oposi&ccedil;&atilde;o muito presente ao Governo Lula, e podemos dizer que sa&iacute;mos do pleito sem sofrer uma derrota, ao contr&aacute;rio do que o&nbsp;governo imaginava e gostaria, at&eacute; mesmo imaginando a minha n&atilde;o-elei&ccedil;&atilde;o. Eu fui eleito por S&atilde;o Paulo. Um dado importante &eacute; que&nbsp;n&atilde;o existe na hist&oacute;ria um parlamentar eleito por um estado maior do que o que ele representava antes. O caso mais assemelhado&nbsp;a esse foi o de Brizola, que saiu do Rio Grande do Sul e foi para o Rio de Janeiro. S&oacute; que Brizola tinha sa&iacute;do como&nbsp;governador do Rio Grande do Sul, e eu apenas como parlamentar de Pernambuco. <br /></p>
+<p><strong><br /></p>
+<p></strong><em><strong>JC Online</strong> </em>- Depois de mais de tr&ecirc;s d&eacute;cadas de milit&acirc;ncia pol&iacute;tica em Pernambuco, o que o senhor espera dessa nova fase na&nbsp;C&acirc;mara Federal como representante do Estado de S&atilde;o Paulo&#63;<br /></p>
+<p><strong><br /></p>
+<p><em>R.F.</em></strong> - Pelo ponto de vista da minha atua&ccedil;&atilde;o haver&aacute; pouca mudan&ccedil;a, at&eacute; porque uma caracter&iacute;stica de desempenho dos meus&nbsp;mandatos &eacute; que eu sempre fui um parlamentar nacional. Representava Pernambuco, mas era um parlamentar nacional. Por isso&nbsp;mesmo fui eleito por S&atilde;o Paulo. O que vai mudar &eacute; apenas o foco, quando a refer&ecirc;ncia for direta &agrave; representa&ccedil;&atilde;o do povo de um&nbsp;determinado estado da federa&ccedil;&atilde;o. Eu vou ter que cuidar, como parlamentar, n&atilde;o apenas das quest&otilde;es nacionais, mas tamb&eacute;m agora&nbsp;das quest&otilde;es locais do Estado de S&atilde;o Paulo, tal como antes tinha que cuidar das quest&otilde;es de Pernambuco.<br /></p>
+<p><em><strong><br /></p>
+<p>JC Online</strong></em> - Como o senhor encara as cr&iacute;ticas que lhe foram feitas em virtude da troca de domic&iacute;lio eleitoral&#63; <br /></p>
+<p><br /></p>
+<p><em><strong>R. F.</strong></em> - Cr&iacute;ticas de quem&#63; Pelo contr&aacute;rio, eu tenho visto a&iacute; em Pernambuco at&eacute; muita satisfa&ccedil;&atilde;o com essa vit&oacute;ria. A cr&iacute;tica &eacute; daqueles que ficaram imaginando que nem para s&iacute;ndico eu me elegeria. Eu nunca perdi elei&ccedil;&atilde;o em Pernambuco, e continuo sem perder em S&atilde;o Paulo. Em toda a minha vida p&uacute;blica, eu nunca perdi uma elei&ccedil;&atilde;o parlamentar. As cr&iacute;ticas s&atilde;o daqueles que n&atilde;o entendem que eu sou um vitorioso. &nbsp;<br /></p>
+<p><br /></p>
+<p><em><strong>JC Online</strong></em> - Como o senhor encarou a vit&oacute;ria de Eduardo Campos (PSB) sobre Jarbas Vasconcelos (PMDB) com uma vantagem t&atilde;o&nbsp;ampla em Pernambuco&#63;</p></p>
+<p><p><em><strong>R.F.</strong></em> - Pernambuco foi um dos estados onde as oposi&ccedil;&otilde;es sofreram uma de suas piores derrotas. Assim como no Cear&aacute;. N&atilde;o foram&nbsp;muitos os estados em que isso ocorreu. Mas de qualquer maneira nada na vida &eacute; definitivo, at&eacute; porque n&oacute;s estamos agora&nbsp;enfrentando um segundo turno com chances de vit&oacute;ria para as for&ccedil;as pol&iacute;ticas que foram derrotadas a&iacute; em Pernambuco. No caso&nbsp;de uma vit&oacute;ria de Jos&eacute; Serra (PSDB), as for&ccedil;as pol&iacute;ticas que foram derrotadas em Pernambuco ser&atilde;o vitoriosas no Brasil.</p></p>
+<p><p><em><strong>JC Online </strong></em>- Ideologicamente, o que alinha o PPS &agrave; candidatura tucana &agrave; presid&ecirc;ncia&#63;</p></p>
+<p><p><em><strong>R.F</strong></em>. - Jos&eacute; Serra &eacute; um representante mais &agrave; esquerda do que o Governo Lula. Temos historicamente uma excelente rela&ccedil;&atilde;o com o&nbsp;que Jos&eacute; Serra representa de pensamento. Eu disse em 2002, t&atilde;o logo terminou a elei&ccedil;&atilde;o com a vit&oacute;ria de Lula, que Lula tinha&nbsp;sido apoiado pelas esquerdas, mas o candidato de esquerda era Serra. Continuo afirmando isso. E o governo de Lula demonstrou&nbsp;ser um dos governos mais conservadores que a hist&oacute;ria brasileira conhece. &Eacute; um governo aliado ao grande capital. &Eacute; um governo&nbsp;que tem como programa social nada que modifique as rela&ccedil;&otilde;es na sociedade, mas que perpetua essas rela&ccedil;&otilde;es. Esses programas&nbsp;assintencialistas t&ecirc;m essa funcionalidade conservadora, exatamente porque mant&ecirc;m essas rela&ccedil;&otilde;es sociais, embora possa&nbsp;melhorar a realidade social das pessoas, partindo do ponto de vista econ&ocirc;mico. Mas mant&ecirc;m as mesmas rela&ccedil;&otilde;es, n&atilde;o muda coisa&nbsp;alguma. O Nordeste n&atilde;o mudou em nada, e ainda viu ressurgir todo um coronelismo do qual alguns de seus agentes estavam quase&nbsp;que mortos.&nbsp; Eles ressurgiram das cinzas com o Governo Lula. Est&atilde;o a&iacute; os Collors e Sarneys da vida. S&atilde;o velhos coron&eacute;is,&nbsp;velhos representantes das oligarquias, todos eles de novo mandando na pol&iacute;tica nordestina. Isso &eacute; um sinal de que n&atilde;o apenas&nbsp;n&atilde;o houve mudan&ccedil;a como houve um retrocesso. N&oacute;s defendemos uma posi&ccedil;&atilde;o de um candidato que tem uma vis&atilde;o transformadora, uma&nbsp;vis&atilde;o vinculada &agrave; produ&ccedil;&atilde;o, uma vis&atilde;o desenvolvimentista, como &eacute; o caso de Serra.</p></p>
+<p><p><b>&raquo;<a target="_blank" href="https://jc.uol.com.br/canal/eleicoes-2010/noticia/2010/10/18/entrevista-serra-e-muito-mais-de-esquerda-do-que-lula-diz-roberto-freire-240508.php"> LEIA A ENTREVISTA COMPLETA AQUI</a></b></p> </p>
+{% endraw %}

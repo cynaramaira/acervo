@@ -1,0 +1,44 @@
+---
+id: 12453855
+date: "2013-09-30T09:14:00Z"
+last_modified_at: null
+tags:
+  - "brasil"
+  - "curitiba"
+categories:
+  - "noticias"
+title: "Em Curitiba, tucanos repetem slogan socialista, de que o Brasil pode muito mais que o PT oferece"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p></p>
+<p>	<img alt="" src="https://jc3.uol.com.br/blogs/repositorio/aecio-em-curitiba-8.jpg" style="width: 480px; height: 375px;" />Orlando Brito/divulga&ccedil;&atilde;o</p></p>
+<p><p></p>
+<p>	O presidente nacional do PSDB, senador A&eacute;cio Neves, prometeu neste final de semana que o debate eleitoral de 2014 vai colocar o partido no contraponto &ldquo;aos desvios &eacute;ticos que o governo do PT tem mostrado ao Brasil&rdquo;.<br /></p>
+<p>	<br /></p>
+<p>	O tucano est&aacute; confiante na vit&oacute;ria daquele que disputar o segundo turno das elei&ccedil;&otilde;es presidenciais com a presidente Dilma Rousseff (PT) porque observa que os brasileiros querem &ldquo;algo novo&rdquo;. E movido por oferecer o diferente que o PSDB se apresentar&aacute; na disputa do ano que vem. Segundo o presidente nacional do partido, &ldquo;o Brasil pode muito mais do que est&aacute; tendo com o PT&rdquo;. Eduardo Campos j&aacute; usou solgan semelhante, no come&ccedil;o do ano.<br /></p>
+<p>	<br /></p>
+<p>	Leia partes da entrevista abaixo.<br /></p>
+<p>	<br /></p>
+<p>	Encontro do PSDB em Curitiba<br /></p>
+<p>	&ldquo;O PSDB faz um conjunto de reuni&otilde;es pelo Brasil, para construir a sua proposta. Para dar as linhas finais a um projeto antag&ocirc;nico a este que est&aacute; a&iacute;. Estamos aqui iniciando este caminho. Estivemos no Nordeste, na semana passada, hoje aqui em Curitiba, pela import&acirc;ncia do Paran&aacute; na constru&ccedil;&atilde;o deste projeto, pela extraordin&aacute;ria lideran&ccedil;a do governador Beto Richa. Pela presen&ccedil;a hoje entre n&oacute;s, para grande alegria minha, do senador e ilustre colega, l&iacute;der do Senado, &Aacute;lvaro Dias. Hoje, &eacute; um momento de converg&ecirc;ncia, de reencontro do PSDB com a sua pr&oacute;pria hist&oacute;ria e, cada vez mais, de forma afirmativa, vamos dizer ao Brasil que este ciclo de governo do PT, em benef&iacute;cio dos brasileiros, merece ser encerrado.Vamos contrapor a nossa vis&atilde;o da meritocracia na administra&ccedil;&atilde;o p&uacute;blica ao aparelhamento da m&aacute;quina p&uacute;blica feita pelo PT. A nossa vis&atilde;o de pol&iacute;tica externa pragm&aacute;tica, em favor dos interesses nacionais, vamos contrapor a este alinhamento ideol&oacute;gico que tem orientado a pol&iacute;tica externa brasileira. Vamos falar de &eacute;tica e de efici&ecirc;ncia para nos contrapormos aos desvios &eacute;ticos que este governo do PT tem mostrado ao Brasil e, ao mesmo tempo, a inefici&ecirc;ncia como a sua principal marca. Portanto, &eacute; um momento, muito vigoroso do PSDB. E come&ccedil;ando pelo Paran&aacute; nos d&aacute; seguran&ccedil;a de que teremos grande &ecirc;xito, como temos tido aqui o PSDB no estado do Paran&aacute; ao longo dos &uacute;ltimos anos.&rdquo;<br /></p>
+<p>	<br /></p>
+<p>	Novos partidos<br /></p>
+<p>	&ldquo;Condenamos, l&aacute; atr&aacute;s, a portabilidade, a possibilidade de algu&eacute;m levar o seu tempo de televis&atilde;o, o parlamentar eleito por um partido, levar a sua proporcionalidade no tempo, na constitui&ccedil;&atilde;o do fundo partid&aacute;rio. Houve uma decis&atilde;o, a meu ver equivocada, do Supremo Tribunal Federal. o governo federal se apropriou e se aproveitou desta decis&atilde;o e estimulou com as benesses que tem, oferecendo espa&ccedil;os de governo, estimulou que parlamentares migrassem da oposi&ccedil;&atilde;o para o governo. E depois quis impedir que isso acontecesse na dire&ccedil;&atilde;o oposta. &Eacute; aquela velha hist&oacute;ria do menino que pega a bola, faz um gol e quer levar a bola para casa. Defendemos que nesta legislatura houvesse um tratamento ison&ocirc;mico seja para Marina criar seu partido, seja para que outras for&ccedil;as tamb&eacute;m se consolidassem. Mas eu defendo que encerrado este prazo de filia&ccedil;&otilde;es partid&aacute;rias haja, por parte do Congresso Nacional, uma rediscuss&atilde;o deste tema para que o mandato conquistado por um partido pol&iacute;tico perten&ccedil;a a aquele partido pol&iacute;tico. Apenas neste processo, n&atilde;o pod&iacute;amos permitir que se liberasse a cria&ccedil;&atilde;o de partidos apenas no campo governista contra a oposi&ccedil;&atilde;o. Por isso, apoiamos a cria&ccedil;&atilde;o do Solidariedade, &uacute;nico partido que foi criado fora das benesses do governo.&rdquo;<br /></p>
+<p>	<br /></p>
+<p>	A candidatura<br /></p>
+<p>	&ldquo;Temos agora de fazer uma conex&atilde;o com a sociedade. O que temos feito nessas nossas andan&ccedil;as, &eacute; falando com o Brasil. &Eacute; falando que o Brasil pode muito mais do que est&aacute; tendo. Vamos crescer este ano apenas mais que a Venezuela aqui na Am&eacute;rica do Sul. A infla&ccedil;&atilde;o de alimentos j&aacute; ultrapassa 10%. Isso n&atilde;o &eacute; justo com os brasileiros. O PSDB tem a responsabilidade, n&atilde;o &eacute; nem a op&ccedil;&atilde;o, n&atilde;o &eacute; nem a possibilidade, &eacute; a responsabilidade de apresentar este projeto. E l&aacute; na frente vamos ver quais ser&atilde;o os nossos aliados. Tenho absoluta convic&ccedil;&atilde;o que vamos chegar, no momento certo, extremamente competitivos. O Brasil vai querer algo novo, algo que seja eficiente, que seja &eacute;tico, e que seja ousado. Esta &eacute; a marca do PSDB.&rdquo;<br /></p>
+<p>	<br /></p>
+<p>	Encontros regionais<br /></p>
+<p>	&ldquo;Estou aqui como presidente nacional do PSDB. As candidaturas, at&eacute; porque a lei assim determina, devem surgir no ano que vem. E surgir&atilde;o com muita naturalidade. Tenho muita confian&ccedil;a de que o PSDB vai estar unido. Outras for&ccedil;as v&atilde;o se somar a n&oacute;s. Isso &eacute; extremamente importante. E vamos chegar l&aacute; na frente dando muito trabalho. E dizendo ao Brasil o seguinte: chega de inefici&ecirc;ncia, chega de aparelhamento, o Brasil precisa avan&ccedil;ar muito mais. Porque o mundo est&aacute; indo, n&oacute;s estamos ficando no final da fila. O resultado dos &uacute;ltimos processos de concess&atilde;o mostram isso. Uma enorme descren&ccedil;a, uma enorme desconfian&ccedil;a em rela&ccedil;&atilde;o ao Brasil.&rdquo;<br /></p>
+<p>	<br /></p>
+<p>	Palestra em Nova York<br /></p>
+<p>	&ldquo;Fa&ccedil;o, na semana que vem, uma palestra em Nova York, para cerca de 800 investidores na Am&eacute;rica Latina, e a pauta que me chega &eacute; essa. Quando vai parar a interven&ccedil;&atilde;o do governo federal nos contratos assinados&#63; Quando vai parar a mudan&ccedil;a permanente das regras no jogo administrativo no Brasil&#63; Essa semana passada muda-se mais uma vez as regras para concess&atilde;o de aeroportos. J&aacute; tinham mudado h&aacute; 15 dias atr&aacute;s, e que j&aacute; eram outras h&aacute; 30 dias atr&aacute;s. Isso gera uma enorme inseguran&ccedil;a jur&iacute;dica. Enquanto isso, outros pa&iacute;ses est&atilde;o avan&ccedil;ando e levando investimentos que poderiam estar chegando no Brasil.&rdquo;<br /></p>
+<p>	<br /></p>
+<p>	Pesquisas<br /></p>
+<p>	&ldquo;O que essas pesquisas mostram para mim, de forma muito consistente, &eacute; que, em todas elas a mesma leitura, entre 60 e 65% da popula&ccedil;&atilde;o brasileira n&atilde;o quer votar na atual presidente da Rep&uacute;blica mesmo com essa m&iacute;dia fant&aacute;stica que ela tem. E nessa &uacute;ltima pesquisa publicada ontem (sexta dia 27), do Ibope, em sete quesitos de avalia&ccedil;&atilde;o do governo, seis avalia&ccedil;&otilde;es extremamente negativas. Cerca de 80% da popula&ccedil;&atilde;o acha que a gest&atilde;o do atual governo em rela&ccedil;&atilde;o &agrave; sa&uacute;de &eacute; muito ruim, em rela&ccedil;&atilde;o &agrave; educa&ccedil;&atilde;o, cerca de 70%, em rela&ccedil;&atilde;o &agrave; seguran&ccedil;a, mais de 70% acham que &eacute; muito ruim. Apenas para citar alguns exemplos. Isso que &eacute; concreto. N&atilde;o d&aacute; para voc&ecirc; comparar hoje, algu&eacute;m que tem 100% de conhecimento, j&aacute; disputou elei&ccedil;&atilde;o presidencial, est&aacute; todos os dias na m&iacute;dia, com pessoas que n&atilde;o s&atilde;o ainda conhecidas. O dado consistente e que deve preocupar muito o governo &eacute; esse. Porque na minha avalia&ccedil;&atilde;o, quem for para o segundo turno com a atual presidente da Rep&uacute;blica, ganha as elei&ccedil;&otilde;es. E eu espero que seja o PSDB.&rdquo;</p></p>
+<p></p>
+{% endraw %}

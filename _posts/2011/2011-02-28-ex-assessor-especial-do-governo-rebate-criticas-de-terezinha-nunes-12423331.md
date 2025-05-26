@@ -1,0 +1,31 @@
+---
+id: 12423331
+date: "2011-02-28T15:23:00Z"
+last_modified_at: null
+tags:
+  - "governo"
+  - "grupo-especial"
+  - "kassio-nunes"
+categories:
+  - "noticias"
+title: "Ex-assessor especial do governo rebate cr\u00edticas de Terezinha Nunes"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><img width="480" height="355" src="https://jc3.uol.com.br/blogs/repositorio/NINHO2.jpg" alt="" /></p></p>
+<p><p>&nbsp;</p></p>
+<p><p>O ex-prefeito de Igarassu e ex-assessor especial do governo de Pernambuco, Severino Ninho, enviou o seguinte texto ao Blog de Jamildo, em resposta ao artigo de Terezinha Nunes, que continha cr&iacute;ticas &agrave;s pol&iacute;ticas de seguran&ccedil;a do governo estadual. Leia <a href="https://jc3.uol.com.br/blogs/blogjamildo/canais/artigos/2011/02/27/violencia_continua_93385.php">aqui</a> o artigo de Terezinha</p></p>
+<p><p>Cheia de m&aacute; f&eacute; e sem nenhum apego &agrave; raz&atilde;o<br /></p>
+<p><br /></p>
+<p>Severino de Souza Ninho<br /></p>
+<p><br /></p>
+<p>A suplente de deputada Terezinha Nunes prossegue sua cruzada contra a verdade dos fatos. Ela escreveu recentemente um pequeno texto publicado neste blog que denota o mais completo desrespeito pela raz&atilde;o, revelando combina&ccedil;&atilde;o inaudita de ignor&acirc;ncia e m&aacute;-f&eacute;. A ex-deputada toma o Mapa da Viol&ecirc;ncia, publicado pelo Instituto Sangari nos &uacute;ltimos dias, como um retrato da situa&ccedil;&atilde;o atual, quando ele se refere aos dados de 2008. Vale lembrar que, naquele ano, o Pacto pela Vida j&aacute; produzia os primeiros efeitos com redu&ccedil;&atilde;o da viol&ecirc;ncia da ordem de 2,0% em 2007 e de 2,4% em 2008.</p></p>
+<p><p>No entanto, como Pol&iacute;ticas P&uacute;blicas de Seguran&ccedil;a n&atilde;o s&atilde;o produzidas atrav&eacute;s de passes de m&aacute;gica (a propalada queda da viol&ecirc;ncia observada em S&atilde;o Paulo se deu em um per&iacute;odo de 12 anos), foi em 2009 e 2010 que os efeitos do Pacto pela Vida produziram um impacto ainda maior na redu&ccedil;&atilde;o da criminalidade violenta em Pernambuco. A redu&ccedil;&atilde;o em 2009 foi da ordem de 12,4% e a de 2010 de 13,94%, consolidando e acentuando o decl&iacute;nio da viol&ecirc;ncia durante o Governo Eduardo Campos. Se tomarmos o per&iacute;odo 2007-2010, a redu&ccedil;&atilde;o acumulada da taxa de Crimes Violentos Letais Intencionais, em rela&ccedil;&atilde;o a 2006, &eacute; da ordem de 26,7% para o estado, de mais de 32% para a Regi&atilde;o Metropolitana e de 39,22% no Recife. Ademais, n&atilde;o s&oacute; as taxas de crimes violentos contra a vida v&ecirc;m caindo nos &uacute;ltimos anos em Pernambuco, mas tamb&eacute;m as de crimes contra o patrim&ocirc;nio.</p></p>
+<p><p>O Pacto pela Vida, reconhecido nacional e internacionalmente por gestores e pesquisadores da &aacute;rea de Seguran&ccedil;a P&uacute;blica como o mais abrangente Plano Estadual de Seguran&ccedil;a P&uacute;blica do pa&iacute;s, vem produzindo efeitos consistentes de redu&ccedil;&atilde;o da viol&ecirc;ncia por quatro anos seguidos e por 27 meses consecutivos. Isto demonstra que Pernambuco n&atilde;o apenas reverteu a curva de crescimento da viol&ecirc;ncia que vinha sendo observada at&eacute; 2006 (o ano mais violento da hist&oacute;ria recente do estado) como iniciou um processo sustentado de redu&ccedil;&atilde;o, que se estende continuamente desde 2007.&nbsp; Observe-se que a expressiva redu&ccedil;&atilde;o alcan&ccedil;ada em Recife nos &uacute;ltimos quatro anos (quase 40% de queda da taxa de Crimes Violentos Letais Intencionais) &eacute; superior &agrave;quelas que ocorreram em Bogot&aacute; e Nova Iorque, tamb&eacute;m nos primeiros quatro anos de suas respectivas pol&iacute;ticas. Lembremos tamb&eacute;m que estas cidades s&atilde;o tomadas como modelos mundiais de experi&ecirc;ncias exitosas de controle da viol&ecirc;ncia e inspiraram alguns dos projetos do Pacto pela Vida.</p></p>
+<p><p>Pernambuco, nos &uacute;ltimos quatro anos construiu um Plano Estadual de Seguran&ccedil;a P&uacute;blica, com uma meta ambiciosa e fact&iacute;vel de redu&ccedil;&atilde;o da taxa de crimes violentos intencionais em 12% a cada ano e uma Pol&iacute;tica P&uacute;blica de Seguran&ccedil;a reconhecida e de ineg&aacute;vel qualidade. Tal Pol&iacute;tica P&uacute;blica inovadora combinou tecnologia, gest&atilde;o baseada na informa&ccedil;&atilde;o, intelig&ecirc;ncia e integra&ccedil;&atilde;o policial com preven&ccedil;&atilde;o focalizada da viol&ecirc;ncia e participa&ccedil;&atilde;o social.&nbsp; O sucesso e o cont&iacute;nuo aperfei&ccedil;oamento desta Pol&iacute;tica P&uacute;blica, o Pacto pela Vida, permitir&aacute;, com a correta manuten&ccedil;&atilde;o da meta atual, que Pernambuco tenha taxas de crimes violentos intencionais inferiores &agrave; meta nacional ao final do segundo Governo Eduardo Campos. Isto n&atilde;o &eacute; pouco, mas apenas o in&iacute;cio de uma caminhada j&aacute; iniciada para tornar Pernambuco um estado seguro e onde a vida &eacute; respeitada.</p></p>
+<p><p>Os fil&oacute;sofos do iluminismo ensinaram, no s&eacute;culo XVIII, que a raz&atilde;o guiar&aacute;&nbsp; o homem para a sabedoria, conduzindo-o &agrave; verdade. Assim, a raz&atilde;o &eacute; a fonte de todo o conhecimento. Tantos s&eacute;culos depois, o homem continua seguindo aqueles preceitos. &Eacute; verdade, por&eacute;m, que algumas pessoas t&ecirc;m dificuldade para assumir a raz&atilde;o como motor da vida. Outras &ndash; pior ainda &ndash; jamais aprendem.</p></p>
+<p><p>Infelizmente, a ex-deputada Terezinha Nunes &eacute; uma destas. Ela n&atilde;o se submete &agrave; raz&atilde;o e n&atilde;o respeita os fatos. E, mesmo tendo recebido altissonante li&ccedil;&atilde;o em outubro passado, segue sem compreender o que povo de Pernambuco exige dela: menos pol&ecirc;micas vazias e mais apoio para quem est&aacute; trabalhando na constru&ccedil;&atilde;o de um Pernambuco mais seguro para todos.</p> </p>
+{% endraw %}

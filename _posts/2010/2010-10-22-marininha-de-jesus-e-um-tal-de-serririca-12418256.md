@@ -1,0 +1,17 @@
+---
+id: 12418256
+date: "2010-10-22T09:06:00Z"
+last_modified_at: null
+tags:
+  - "jorge-jesus"
+categories:
+  - "noticias"
+title: "Marininha de Jesus e um tal de Serririca"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><object width="480" height="385"><param name="movie" value="https://www.youtube.com/v/H_iX0ns-fA0&#63;fs=1&amp;hl=pt_BR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/H_iX0ns-fA0&#63;fs=1&amp;hl=pt_BR" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object> </p>
+{% endraw %}

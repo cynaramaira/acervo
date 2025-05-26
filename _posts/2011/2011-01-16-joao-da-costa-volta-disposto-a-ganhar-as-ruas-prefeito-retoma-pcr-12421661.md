@@ -1,0 +1,59 @@
+---
+id: 12421661
+date: "2011-01-16T10:43:00Z"
+last_modified_at: null
+tags:
+  - "caso-banestado"
+  - "gal-costa"
+  - "joao-d"
+  - "prefeito"
+  - "retomada"
+  - "segunda-onda"
+categories:
+  - "noticias"
+title: "Jo\u00e3o da Costa volta disposto a ganhar as ruas. Prefeito retoma PCR nesta segunda"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: center; "><img width="520" height="348" alt="" src="https://www.pinzon.com.br/adm/externos/noticia/24122010141105.jpg" /></p></p>
+<p><p style="text-align: justify; ">Por Gilvan Oliveira, no Jornal do Commercio</p></p>
+<p><div style="text-align: justify; ">O prefeito do Recife, Jo&atilde;o da Costa (PT), reassume o cargo amanh&atilde; prometendo mudar a gest&atilde;o e a postura na busca por reverter um baixo &iacute;ndice de aprova&ccedil;&atilde;o &ndash; apontado em recente pesquisa Datafolha &ndash; e de olho na reelei&ccedil;&atilde;o. Restabelecido da insufici&ecirc;ncia renal, o petista, antes mais dedicado aos despachos no gabinete e a reuni&otilde;es internas, afirma que na segunda metade do mandato ganhar&aacute; as ruas &ldquo;praticamente todos os dias&rdquo; para vistoriar obras projetadas nos dois primeiros anos de governo, e que agora est&atilde;o na fase de implementa&ccedil;&atilde;o. &ldquo;A gente ter&aacute; uma agenda mais fora que dentro da prefeitura&rdquo;, avisou o prefeito, em entrevista na &uacute;ltima quinta-feira na ampla e confort&aacute;vel casa onde mora no Bairro de Apipucos.</div></p>
+<p><div style="text-align: justify; ">&nbsp;</div></p>
+<p><div style="text-align: justify; ">As agendas externas do prefeito ter&atilde;o como objetivo tamb&eacute;m dar mais visibilidade &agrave;s obras projetadas por sua equipe no primeiro bi&ecirc;nio de mandato. &ldquo;Temos muito o que visitar porque tem muito sendo feito na periferia da cidade. Muitas vezes n&atilde;o sai nos jornais, mas a gente vem trabalhando muito. S&oacute; de obras do Or&ccedil;amento Participativo s&atilde;o 130. Em Santo Amaro, por exemplo, s&atilde;o 88 pequenas ruas onde estamos concluindo saneamento, tem duas unidades de sa&uacute;de para entregar, o que nos permite priorizar a rua praticamente todos os dias&rdquo;, refor&ccedil;ou.</div></p>
+<p><div style="text-align: justify; ">&nbsp;</div></p>
+<p><div style="text-align: justify; "><b>&gt;&gt; VEJA TAMB&Eacute;M:&nbsp;<a target="_blank" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2011/01/14/coliseu_colunistas_do_jc_comentam_a_volta_de_joao_da_costa_89203.php">Coliseu: Colunistas do JC comentam a volta de Jo&atilde;o da Costa</a></b></div></p>
+<p><div style="text-align: justify; ">&nbsp;</div></p>
+<p><div style="text-align: justify; ">Jo&atilde;o da Costa retorna 101 dias depois de se licenciar do cargo para se submeter a um transplante renal. Tanto a cirurgia quanto a recupera&ccedil;&atilde;o dele foram bem sucedidas. A volta acontece menos de um m&ecirc;s depois de o Datafolha divulgar uma pesquisa que apontou uma discreta melhora na nota da sua gest&atilde;o em rela&ccedil;&atilde;o &agrave; pesquisa anterior, de julho, mas com baixo &iacute;ndice dos que a consideram &oacute;tima ou boa. A gest&atilde;o obteve nota m&eacute;dia 5,4 em dezembro contra 5,3 em julho. O &iacute;ndice de &oacute;timo e bom, no entanto, caiu de 30% para 24%, e o de ruim e p&eacute;ssimo aumentou de 31% para 34%. O prefeito garante que n&atilde;o est&aacute; incomodado com os &iacute;ndices. Admite, por&eacute;m, que avalia&ccedil;&otilde;es internas indicam a necessidade de mudar algumas &aacute;reas da gest&atilde;o &ndash; s&oacute; n&atilde;o revela quais.</div></p>
+<p><div style="text-align: justify; ">&nbsp;</div></p>
+<p><div style="text-align: justify; ">Fevereiro &eacute; o prazo que o prefeito estabeleceu para passar a petistas e aliados quais mudan&ccedil;as ele pretende imprimir. Das conversas podem surgir mudan&ccedil;as no secretariado e at&eacute; mesmo mexidas no espa&ccedil;o pol&iacute;tico de cada partido na gest&atilde;o.</div></p>
+<p><div style="text-align: justify; ">&nbsp;</div></p>
+<p><div style="text-align: justify; ">Neste primeiro semestre de 2011, Costa vai priorizar o andamento na execu&ccedil;&atilde;o de projetos de grande porte, que foram captados na primeira metade de sua gest&atilde;o, caso da Via Mangue, do Capibaribe Melhor, o PAC-2, a conclus&atilde;o do PAC-Beberibe e do PAC-Caxang&aacute;, o Prometr&oacute;pole e o conv&ecirc;nio com o governo do Estado para constru&ccedil;&atilde;o de 20 Academias da Cidade. &ldquo;O trabalho focado agora ser&aacute; na execu&ccedil;&atilde;o&rdquo;.</div></p>
+<p><div style="text-align: justify; ">&nbsp;</div></p>
+<p><div style="text-align: justify; ">Uma das obras que ele promete entregar em mar&ccedil;o &eacute; o Parque Dona Lindu, em Set&uacute;bal. O prefeito disse que o ex-presidente Lula ser&aacute; convidado para a inaugura&ccedil;&atilde;o, bem como todos os que estiveram direta ou indiretamente envolvidos com o projeto, entre eles seu antecessor, Jo&atilde;o Paulo (PT), com quem est&aacute; politicamente rompido.</div></p>
+<p><div style="text-align: justify; ">&nbsp;</div></p>
+<p><div style="text-align: justify; "><u><b>CONFIRA A ENTREVISTA DE JO&Atilde;O DA COSTA A GILVAN OLIVEIRA</b></u></div></p>
+<p><div style="text-align: justify; ">&nbsp;</div></p>
+<p><blockquote></p>
+<p><div style="text-align: justify; ">&ldquo;Toda gest&atilde;o precisa sempre melhorar&rdquo;</div></p>
+<p></blockquote></p>
+<p><div style="text-align: justify; ">&nbsp;</div></p>
+<p><div style="text-align: justify; "><i>Em casa, aproveitando os &uacute;ltimos dias de licen&ccedil;a para se recuperar de transplante renal, Jo&atilde;o da Costa concedeu esta entrevista ao JC, onde diz que mudan&ccedil;as na gest&atilde;o ser&atilde;o motivadas por seu monitoramento interno, n&atilde;o por pesquisas. Ele tamb&eacute;m comenta as discord&acirc;ncias entre prefeitura e Tribunal de Contas sobre o edital da principal obra vi&aacute;ria da gest&atilde;o: a Via Mangue. &ldquo;A gente tem feito a nossa parte&rdquo;, disse.</i></div></p>
+<p><div style="text-align: justify; ">&nbsp;</div></p>
+<p><div style="text-align: justify; "><b>JORNAL DO COMMERCIO &ndash; O relat&oacute;rio de avalia&ccedil;&atilde;o de desempenho da gest&atilde;o que o senhor tem bate com os n&uacute;meros de pesquisas divulgados pela imprensa&#63;</b></div></p>
+<p><div style="text-align: justify; "><b>JO&Atilde;O DA COSTA &ndash; </b>H&aacute; uma tentativa de n&atilde;o avaliar de forma correta os n&uacute;meros do Datafolha. Tive 5,3 em julho e 5,4 em dezembro, ent&atilde;o h&aacute; um aumento da nota (m&eacute;dia). O que houve foi uma varia&ccedil;&atilde;o entre o &oacute;timo e bom e o regular: aumentou o regular e diminuiu o &oacute;timo e bom. Quem quer fazer uma imagem negativa da gest&atilde;o est&aacute; se apegando aos 24% (de &oacute;timo e bom, que eram 30% em julho), na verdade, h&aacute; um direcionamento desta interpreta&ccedil;&atilde;o. Estou muito tranquilo. Acho que vamos evoluir muito bem nesse processo de pesquisa e avalia&ccedil;&atilde;o da popula&ccedil;&atilde;o, porque agora no terceiro ano vamos colher muitos resultados dos dois primeiros anos. Conhe&ccedil;o muito bem essa hist&oacute;ria: fui da primeira gest&atilde;o de Jo&atilde;o Paulo (2001-2004) &ndash; no terceiro ano ele tinha nota 4,4 e 56% de rejei&ccedil;&atilde;o. Mas ele disputou a reelei&ccedil;&atilde;o e ganhou no primeiro turno. N&atilde;o tem ansiedade de nossa parte. O que tem &eacute; movimenta&ccedil;&atilde;o de advers&aacute;rios querendo encerrar a gest&atilde;o em dois anos, mas a popula&ccedil;&atilde;o n&atilde;o participa desse movimento.</div></p>
+<p><div style="text-align: justify; ">&nbsp;</div></p>
+<p><div style="text-align: justify; "><b>JC &ndash; Mas se o senhor indica mudan&ccedil;as &eacute; porque tem alguma coisa que o senhor n&atilde;o est&aacute; satisfeito&#63;</b></div></p>
+<p><div style="text-align: justify; "><b>COSTA &ndash;</b> Qualquer gest&atilde;o precisa sempre melhorar e ter uma melhoria de desempenho. Veja bem, Eduardo (Campos) teve 88% de aprova&ccedil;&atilde;o e n&atilde;o fez mudan&ccedil;as&#63; Evidentemente que a gente precisa melhorar em algumas &aacute;reas que talvez n&atilde;o tenha tido um desempenho satisfat&oacute;rio, n&atilde;o &eacute; apenas uma avalia&ccedil;&atilde;o pessoal do prefeito: &eacute; visto pela cidade. Isso n&atilde;o significa necessariamente mudar o secret&aacute;rio. A gente tem que ver a estrutura da secretaria, fazer um balan&ccedil;o mais geral para que n&atilde;o se cometa injusti&ccedil;a com quem se dedicou e teve compromisso. &Agrave;s vezes voc&ecirc; enfrenta uma dificuldade que n&atilde;o &eacute; da governabilidade do secret&aacute;rio.</div></p>
+<p><div style="text-align: justify; ">&nbsp;</div></p>
+<p><div style="text-align: justify; "><b>JC &ndash; O senhor vai, ent&atilde;o, chamar secret&aacute;rio por secret&aacute;rio para cobr&aacute;-los&#63;</b></div></p>
+<p><div style="text-align: justify; "><b>COSTA &ndash; </b>Primeiro vou conversar com os partidos. Evidentemente que a gente vai ver esse balan&ccedil;o, mas temos uma avalia&ccedil;&atilde;o desses dois anos &agrave; frente da prefeitura. Vamos dar in&iacute;cio, a partir de segunda-feira (amanh&atilde;), a uma s&eacute;rie de conversas com aliados para colocar para eles a avalia&ccedil;&atilde;o que tenho e o que pode ser feito para melhorar a avalia&ccedil;&atilde;o da prefeitura.</div></p>
+<p><div style="text-align: justify; ">&nbsp;</div></p>
+<p><div style="text-align: justify; "><b>JC &ndash; O senhor disse que iria priorizar a Via Mangue, cuja a abertura da licita&ccedil;&atilde;o est&aacute; marcada para o dia 19. Mas o Tribunal de Contas do Estado fez exig&ecirc;ncias de mudan&ccedil;as no projeto. Elas foram atendidas&#63; Isso j&aacute; foi superado&#63;</b></div></p>
+<p><div style="text-align: justify; "><b>COSTA &ndash;</b> A gente tem feito a nossa parte: n&oacute;s brigamos em Bras&iacute;lia por estes recursos. Conseguimos liberar um financiamento expressivo, que nos permite realizar a Via Mangue, preparamos o projeto, fizemos audi&ecirc;ncia p&uacute;blica e todo um debate com o Minist&eacute;rio P&uacute;blico, que fez sugest&otilde;es e foram acatadas por n&oacute;s. Fomos seis meses antes (da abertura da licita&ccedil;&atilde;o) conversar com o TCE para dizer que quer&iacute;amos um trabalho de coopera&ccedil;&atilde;o junto com o tribunal, e entregamos a c&oacute;pia do edital em outubro. O TCE fez um relat&oacute;rio com v&aacute;rias sugest&otilde;es, acatamos muitas delas e republicamos o edital em dezembro, marcando a abertura dos envelopes para o dia 19. Temos mantido um contato permanente com o TCE e acreditamos que, com as medidas que foram tomadas e o acatamento de sugest&otilde;es, n&oacute;s podemos realizar uma licita&ccedil;&atilde;o agora em janeiro.</div></p>
+<p><div style="text-align: justify; ">&nbsp;</div></p>
+<p><div style="text-align: justify; "><b>JC &ndash; Foram muitas as sugest&otilde;es do tribunal acatadas&#63;</b></div></p>
+<p><div style="text-align: justify; "><b>COSTA &ndash; </b>T&ecirc;m algumas que s&atilde;o uma quest&atilde;o s&oacute; de esclarecimento. (...) Alguns pontos que o TCE sugeriu que ach&aacute;vamos que poderiam ser acatados, n&oacute;s acatamos. O edital foi republicado e mais uma vez entregue ao TCE e n&oacute;s esperamos que todo o processo &ndash; constru&iacute;do por iniciativa nossa, que procuramos o tribunal &ndash;, fa&ccedil;a com o que essa obra possa ser licitada para este ano e a gente comece a Via Mangue, j&aacute; que nosso prazo &eacute; terminar a obra em setembro ou outubro de 2013.</div> </p>
+{% endraw %}

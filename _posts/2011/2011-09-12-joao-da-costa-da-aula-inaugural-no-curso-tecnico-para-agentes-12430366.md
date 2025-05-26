@@ -1,0 +1,32 @@
+---
+id: 12430366
+date: "2011-09-12T08:11:00Z"
+last_modified_at: null
+tags:
+  - "agentes"
+  - "cursos"
+  - "gal-costa"
+  - "joao-d"
+categories:
+  - "noticias"
+title: "Jo\u00e3o da Costa d\u00e1 aula inaugural no Curso T\u00e9cnico para Agentes Comunit\u00e1rios de Sa\u00fade"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>O prefeito do Recife, Jo&atilde;o da Costa, participa, nesta segunda-feira (12), a partir das 14h, da aula inaugural do Curso de Forma&ccedil;&atilde;o T&eacute;cnica de Agentes Comunit&aacute;rios de Sa&uacute;de. A realiza&ccedil;&atilde;o &eacute; da Secretaria de Sa&uacute;de do Recife, por meio da diretoria Geral de Gest&atilde;o do Trabalho e Educa&ccedil;&atilde;o na Sa&uacute;de e diretoria Geral de Aten&ccedil;&atilde;o &agrave; Sa&uacute;de. O encontro acontecer&aacute; no Centro de Conven&ccedil;&otilde;es e dever&aacute; reunir todos os agentes de sa&uacute;de do Munic&iacute;pio, um universo de 1.600 profissionais. O evento contar&aacute; com a presen&ccedil;a do secret&aacute;rio de Sa&uacute;de do Recife, Gustavo Couto; e do assessor executivo da pasta, Tiago Feitosa, al&eacute;m de diretores e gerentes da secretaria.<br /></p>
+<p><br /></p>
+<p>O curso ser&aacute; realizado em parceria com a Secretaria Estadual de Sa&uacute;de (Escola de Sa&uacute;de P&uacute;blica de Pernambuco) e com a Universidade de Pernambuco (Faculdade de Enfermagem Nossa Senhora das Gra&ccedil;as). A Secretaria de Sa&uacute;de do Recife contou tamb&eacute;m com a participa&ccedil;&atilde;o dos trabalhadores, atrav&eacute;s de sua entidade representativa: SINDACS-PE, no processo de constru&ccedil;&atilde;o do curso.<br /></p>
+<p><br /></p>
+<p>De acordo com os organizadores do curso espera-se que os profissionais desenvolvam compet&ecirc;ncias sobre aspectos te&oacute;rico-pr&aacute;ticos relativos &agrave; aten&ccedil;&atilde;o b&aacute;sica e suas interfaces de atua&ccedil;&atilde;o, proporcionando conhecimento reflexivo e cr&iacute;tico para atua&ccedil;&atilde;o neste campo. As aulas ter&atilde;o a dura&ccedil;&atilde;o de nove meses e ser&atilde;o dadas pelos profissionais da rede municipal. Nelas, os novos t&eacute;cnicos aprender&atilde;o analisar criticamente a realidade de sua comunidade, compreendendo sua din&acirc;mica social e hist&oacute;rica; desenvolver&atilde;o estrat&eacute;gias que potencializem a rela&ccedil;&atilde;o entre sua pr&aacute;tica e a mobiliza&ccedil;&atilde;o pela garantia do direito &agrave; sa&uacute;de, com articula&ccedil;&atilde;o entre as pol&iacute;ticas p&uacute;blicas e as necessidades reais da popula&ccedil;&atilde;o; participar&atilde;o do controle social, contribuindo com a&ccedil;&otilde;es que promovam a participa&ccedil;&atilde;o da popula&ccedil;&atilde;o nos espa&ccedil;os de organiza&ccedil;&atilde;o pol&iacute;tica; ir&atilde;o gerenciar de forma qualificada seu processo de trabalho; realizar escuta qualificada das necessidades de cuidado dos sujeitos e coletivos; realizar planejamento e avalia&ccedil;&atilde;o das a&ccedil;&otilde;es em conjunto com a equipe de sa&uacute;de da fam&iacute;lia; participar ativamente do acolhimento dos usu&aacute;rios do servi&ccedil;o, qualificando o acesso ao cuidado; elaborar e operacionalizar, em conjunto com equipe de Sa&uacute;de da Fam&iacute;lia, e equipe de refer&ecirc;ncia, projetos terap&ecirc;uticos singulares; realizar visita domiciliar, identificando riscos potenciais &agrave; sa&uacute;de das fam&iacute;lias de sua &aacute;rea, atuando junto &agrave; equipe, e outros setores, de modo a intervir sobre estes, entre outras atribui&ccedil;&otilde;es.<br /></p>
+<p><br /></p>
+<p>A grade curricular ser&aacute; bastante extensa e rica em conte&uacute;do. Abordar&aacute; desde a Reforma Sanit&aacute;ria Brasileira e Pol&iacute;ticas P&uacute;blicas em Sa&uacute;de, at&eacute; o modelo de Aten&ccedil;&atilde;o e gest&atilde;o &agrave; Sa&uacute;de de Recife e seus dispositivos: Acolhimento; Projeto Terap&ecirc;utico Singular; clinica ampliada/matriciamento e co-gest&atilde;o, passando ainda pelo papel social do ACS junto &agrave;s comunidades do Recife: caminhos hist&oacute;ricos percorridos e situa&ccedil;&atilde;o atual da profiss&atilde;o.<br /></p>
+<p><br /></p>
+<p>O curso &ndash; As aulas transcorrer&atilde;o no hor&aacute;rio de expediente das equipes, sendo necess&aacute;rio que o estudante dedique 8 horas semanais para as aulas presenciais, que ser&atilde;o distribu&iacute;das em dois turnos &agrave; tarde. O curso contar&aacute; tamb&eacute;m com a realiza&ccedil;&atilde;o de carga-hor&aacute;ria complementar a partir de oficinas vivenciais. As turmas ser&atilde;o divididas por Distrito Sanit&aacute;rio, sendo compostas por aproximadamente 30 estudantes por docente. Cada docente ser&aacute; respons&aacute;vel pelo acompanhamento integral dos estudantes do in&iacute;cio ao final do curso.</p></p>
+<p><p><b>II Encontro Metropolitano de Controladores</b></p></p>
+<p><p>Jo&atilde;o da Costa participa nesta segunda-feira (12), &agrave;s 8h30, da abertura do II Encontro Metropolitano de Controle Interno Municipal dos Poderes Executivo e Legislativo. O evento, que tem o objetivo de promover uma troca permanente de experi&ecirc;ncias entre os &oacute;rg&atilde;os de controladoria dos munic&iacute;pios participantes, acontece, nos dias 12 e 13, das 8h &agrave;s 16h, no Centro de Forma&ccedil;&atilde;o de Educadores Professor Paulo Freire, Rua Real da Torre, 299, bairro da Madalena.<br /></p>
+<p><br /></p>
+<p>Dentre os &oacute;rg&atilde;os convidados para esta segunda edi&ccedil;&atilde;o do encontro, est&atilde;o as controladorias gerais da Uni&atilde;o e do Estado, os tribunais de contas da Uni&atilde;o e do Estado e a Assembl&eacute;ia Legislativa do Estado. O primeiro encontro metropolitano de controle interno aconteceu em maio deste ano, no munic&iacute;pio de Jaboat&atilde;o dos Guararapes. A ideia dos participantes &eacute; dar continuidade ao aperfei&ccedil;oamento das controladorias existentes, bem como apoiar a cria&ccedil;&atilde;o das novas estruturas de controle que venham a surgir, com o intuito de realizar esses encontros a cada tr&ecirc;s meses.</p></p>
+{% endraw %}

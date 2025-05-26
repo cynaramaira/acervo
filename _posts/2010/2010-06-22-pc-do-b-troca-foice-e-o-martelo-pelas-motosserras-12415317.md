@@ -1,0 +1,39 @@
+---
+id: 12415317
+date: "2010-06-22T12:04:00Z"
+last_modified_at: null
+tags:
+  - "marcelo-martelotte"
+categories:
+  - "colunistas"
+title: "PC do B troca foice e o martelo pelas motosserras"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>*Por Edilson Silva<br /></p>
+<p><br /></p>
+<p>Est&aacute; em discuss&atilde;o na C&acirc;mara Federal a reforma do C&oacute;digo Florestal Brasileiro, cuja relatoria est&aacute; a cargo do deputado federal pelo PC do B de S&atilde;o Paulo, Aldo Rebelo. No &uacute;ltimo dia 15/06 a bancada do PSOL, junto com outros parlamentares, obstruiu a vota&ccedil;&atilde;o do seu relat&oacute;rio por n&atilde;o concordar com a ess&ecirc;ncia do mesmo.<br /></p>
+<p><br /></p>
+<p>ONGs ambientalistas, intelectuais, movimentos sociais, partidos, personalidades as mais variadas, ou seja, muita gente sensata colocou-se tamb&eacute;m contra esta proposta de reforma, inclusive gente do pr&oacute;prio minist&eacute;rio do Meio Ambiente. Argumentam que o relator est&aacute; sugerindo escancarar ainda mais &aacute;reas atualmente com um m&iacute;nimo de prote&ccedil;&atilde;o, como a Amaz&ocirc;nia, para a explora&ccedil;&atilde;o dos ruralistas.<br /></p>
+<p><br /></p>
+<p>As palavras da deputada Luciana Genro (PSOL-RS), em seu site, s&atilde;o suficientes para dar uma boa dimens&atilde;o do problema: &ldquo;A proposta de Aldo atende diretamente aos interesses dos ruralistas, que travam uma batalha violenta (o assassinato de Doroty Stang foi uma das viol&ecirc;ncias mais famosas, mas h&aacute; muitas outras) contra os ambientalistas. Ele introduz o vi&eacute;s economicista na gest&atilde;o ambiental quando trata florestas enquanto &ldquo;mat&eacute;ria-prima&rdquo; e n&atilde;o por sua import&acirc;ncia biol&oacute;gica, ecossist&ecirc;mica ou sociocultural; estabelece que estados e munic&iacute;pios unilateralmente poder&atilde;o reduzir em at&eacute; 50% os limites m&iacute;nimos estabelecidos para APP (&Aacute;reas de Preserva&ccedil;&atilde;o Permanente) nas faixas marginais aos cursos d&rsquo;&aacute;gua. Tamb&eacute;m estabelece que um propriet&aacute;rio que realizou desmatamento irregular em APP, ou seja, cometeu crime ambiental, pode ser desobrigado a efetuar a recomposi&ccedil;&atilde;o florestal e ainda por cima receber incentivos financeiros do governo na forma de programas ambientais. Na pr&aacute;tica, o fazendeiro que comete crime ambiental n&atilde;o recebe multa, estaria desobrigado a reflorestar o que desmatou e ainda receberia recursos do governo. Aldo tamb&eacute;m prop&otilde;e a REDU&Ccedil;&Atilde;O DA RESERVA LEGAL DE 80% PARA 50% NA AMAZ&Ocirc;NIA no caso de um estado possuir ZEE (Zoneamento Ecol&oacute;gico Econ&ocirc;mico) que autorize tal redu&ccedil;&atilde;o e um prazo de at&eacute; 30 anos para recomposi&ccedil;&atilde;o florestal de desmatamentos ilegais e pode ser realizado com o plantio de esp&eacute;cies ex&oacute;ticas &agrave; regi&atilde;o, ou seja, o fazendeiro poderia desmatar ilegalmente regi&otilde;es de floresta prim&aacute;ria na Amaz&ocirc;nia, n&atilde;o ser multado, receber anistia de at&eacute; 30 anos para recompor a floresta e, ainda mais, nesse per&iacute;odo introduzir monoculturas de gr&atilde;os no lugar da floresta nativa.&rdquo;<br /></p>
+<p><br /></p>
+<p>Est&aacute; claro o grave problema ambiental colocado. Mas, t&atilde;o equivocados quanto a proposta de reforma do c&oacute;digo florestal apresentada pelo l&iacute;der do PC do B s&atilde;o os argumentos pol&iacute;ticos e te&oacute;ricos apresentados publicamente por ele para justific&aacute;-la. Aldo Rebelo os exp&ocirc;s em artigo recente na Folha de S&atilde;o Paulo: &ldquo;C&oacute;digo florestal e neomalthusianismo&rdquo;.<br /></p>
+<p><br /></p>
+<p>O relator da reforma recorre ao economista Thomas Malthus. Segundo ele, os neomalthusianos de nosso tempo (ambientalistas-imperialistas e afins), insistem em querer naturalizar a pobreza, mas ele, Aldo, com seu novo c&oacute;digo florestal, quer contribuir para acabar com ela. O deputado capricha no argumento e no mesmo artigo recorre tamb&eacute;m a Josu&eacute; de Castro, &agrave; Geografia da Fome, para tentar rechear com algo de esquerda ou socialista a sua proposta, afinal de contas, ele, Aldo, &eacute; comunista.<br /></p>
+<p><br /></p>
+<p>No entanto, o deputado trope&ccedil;a no mesmo artigo ao afirmar que &ldquo;(...) &eacute; na chamada Amaz&ocirc;nia Legal, principalmente na faixa de transi&ccedil;&atilde;o entre o cerrado e o bioma amaz&ocirc;nico, que ONGs desenvolvem campanhas milion&aacute;rias para interditar a fronteira agr&iacute;cola e a minera&ccedil;&atilde;o. O dinamismo do pa&iacute;s na produ&ccedil;&atilde;o de soja, carne, algod&atilde;o e a&ccedil;&uacute;car causa imenso desconforto aos concorrentes internacionais.&rdquo;<br /></p>
+<p><br /></p>
+<p>O dinamismo que o deputado comunista elogia sem disfar&ccedil;ar n&atilde;o tem nada a ver com o fim da pobreza do nosso pa&iacute;s e muito menos em nosso pa&iacute;s. Tem a ver com commodities, com mercadorias prim&aacute;rias que dominam e ampliam cada vez mais sua presen&ccedil;a na pauta das exporta&ccedil;&otilde;es brasileiras. Produ&ccedil;&atilde;o e exporta&ccedil;&atilde;o de a&ccedil;&uacute;car, caf&eacute;, ouro, min&eacute;rio de ferro, soja, carnes. Do Brasil col&ocirc;nia ao s&eacute;culo 21, este &eacute; o &ldquo;dinamismo&rdquo; das elites econ&ocirc;micas e pol&iacute;ticas no nosso pa&iacute;s, dinamismo que antecedeu, sobreviveu e sucedeu a Josu&eacute; de Castro, e que tende a se aprofundar com a &ldquo;reforma&rdquo; do c&oacute;digo florestal sugerida pelo nobre relator.&nbsp; <br /></p>
+<p><br /></p>
+<p>Os argumentos do deputado nos remetem aos dilemas econ&ocirc;micos do capitalismo industrial rec&eacute;m-nascido. Contudo, o pensamento econ&ocirc;mico moderno j&aacute; venceu o mercantilismo e a fisiocracia que Aldo e seu PC do B parecem querer reinventar. A origem da riqueza das na&ccedil;&otilde;es tamb&eacute;m nos mostra onde reside a origem de sua pobreza. Foi, ali&aacute;s, um conterr&acirc;neo e contempor&acirc;neo de Thomas Malthus quem prestou este relevante servi&ccedil;o &agrave; sociedade: Adam Smith, com sua teoria do valor-trabalho, desenvolvidas por Ricardo e Marx posteriormente.<br /></p>
+<p><br /></p>
+<p>Mas o problema n&atilde;o reside &ldquo;apenas&rdquo; na quest&atilde;o ambiental e na pol&iacute;tica de perpetua&ccedil;&atilde;o da primariza&ccedil;&atilde;o das exporta&ccedil;&otilde;es da economia brasileira, mas tamb&eacute;m no fato deste &ldquo;dinamismo&rdquo; fortalecer um agroneg&oacute;cio que expulsa camponeses para favelas urbanas, portanto, sem reforma agr&aacute;ria, favorecendo unicamente a&nbsp; concentra&ccedil;&atilde;o fundi&aacute;ria, de renda, e a obten&ccedil;&atilde;o de super&aacute;vits numa balan&ccedil;a comercial que visa fazer caixa para garantir a remunera&ccedil;&atilde;o e amplia&ccedil;&atilde;o da riqueza daqueles que j&aacute; s&atilde;o milion&aacute;rios, ou bilion&aacute;rios. Em 2009 foram dedicados R$ 380 Bilh&otilde;es dos cofres p&uacute;blicos da Uni&atilde;o aos rentistas, enquanto que para o Bolsa-fam&iacute;lia, tamb&eacute;m em 2009, foram dedicados R$ 12 Bilh&otilde;es.<br /></p>
+<p><br /></p>
+<p>Sobra muito pouco, quase nada, para um discurso honesto e coerente para o deputado Aldo Rebelo. Melhor seria, talvez, assumir que trocou a foice e o martelo da sua bandeira comunista por um par de motosserras.<br /></p>
+<p><br /></p>
+<p>Membro da Executiva Nacional do PSOL e candidato ao governo do estado de Pernambuco</p> </p>
+{% endraw %}

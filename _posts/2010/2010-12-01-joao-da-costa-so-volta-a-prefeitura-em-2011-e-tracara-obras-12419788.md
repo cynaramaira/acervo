@@ -1,0 +1,51 @@
+---
+id: 12419788
+date: "2010-12-01T20:05:00Z"
+last_modified_at: null
+tags:
+  - "gal-costa"
+  - "joao-d"
+  - "obras"
+  - "prefeitura"
+categories:
+  - "noticias"
+title: "Jo\u00e3o da Costa s\u00f3 volta \u00e0 Prefeitura em 2011 e tra\u00e7ar\u00e1 obras priorit\u00e1rias para os pr\u00f3ximos anos"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: center"><img alt="" width="520" height="388" src="https://jc3.uol.com.br/blogs/repositorio/joao da costa(1).jpg" /><br /></p>
+<p><span style="font-size: smaller">Foto: Daniel Guedes/Blogimagem</span></p></p>
+<p><p><i>Atualizada &agrave;s 21h08</i></p></p>
+<p><p>O prefeito do Recife, Jo&atilde;o da Costa (PT), retornou hoje &agrave; capital peranambucana depois de quase dois meses em S&atilde;o Paulo, onde foi submetido a um transplante de rim. Costa admitiu que s&oacute; retorna ao posto depois do dia 11 de janeiro, quando passar&aacute; por uma avalia&ccedil;&atilde;o m&eacute;dica. At&eacute; l&aacute;, participar&aacute; de reuni&otilde;es, &quot;ajudar&aacute;&quot; o prefeito em exerc&iacute;cio Milton Coelho (PSB), avaliar&aacute; os dois anos de governo e tra&ccedil;ar&aacute; planos para o restante de seu mandato.</p></p>
+<p><p>&nbsp;</p></p>
+<p><object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/j91mg5uanB4&#63;hl=pt&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/j91mg5uanB4&#63;hl=pt&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+<p><p>&nbsp;</p></p>
+<p><object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/I34YD7Hmo7M&#63;hl=pt&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/I34YD7Hmo7M&#63;hl=pt&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+<p><p>&nbsp;</p></p>
+<p><p>Depois de ser recepcionado no sagu&atilde;o do Aeroporto Internacional dos Guararapes, na Zona Sul, por mais de uma centena de militantes, secret&aacute;rios, vereadores e funcion&aacute;rios da PCR, Jo&atilde;o Costa concedeu entrevista coletiva na sala de imprensa da Infraero, ao lado de Milton Coelho, da primeira-dama Mar&iacute;lia Bezerra e do irm&atilde;o que doou um rim, Joselito Bezerra. O prefeito afirmou que ainda far&aacute; reuni&otilde;es com sua equipe tanto para avaliar os anos que j&aacute; passaram quanto para tra&ccedil;ar prioridades. Mas adiantou que at&eacute; o final de sua gest&atilde;o quer&nbsp; implantar seis escolas t&eacute;cnicas e 40 centros de educa&ccedil;&atilde;o infantil.</p></p>
+<p><p>Obras de infraestrutura como a conclus&atilde;o da Via Mangue tamb&eacute;m est&atilde;o nos planos. Devem ser anunciados projetos para os pr&oacute;ximos quatro anos.</p></p>
+<p><p>O prefeito tamb&eacute;m abordou a quest&atilde;o dos camel&ocirc;s que foram retirados da Rua Sete de Setembro, no Centro do Recife. Disse que a remo&ccedil;&atilde;o faz parte de um projeto maior de ordenamento do Centro.</p></p>
+<p><p>Em rela&ccedil;&atilde;o a reelei&ccedil;&atilde;o, disse que s&oacute; tratar&aacute; do assunto em 2012.</p></p>
+<p><p>Confira os principais trechos da entrevista:</p></p>
+<p><p><b>SENTIMENTO PELA VOLTA</b></p></p>
+<p><p>&nbsp;</p></p>
+<p><object width="425" height="344"><param name="movie" value="https://www.youtube.com/v/0KK6rAZzsoU&#63;hl=pt&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/0KK6rAZzsoU&#63;hl=pt&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+<p><p>&nbsp;</p></p>
+<p><p style="text-align: justify">&quot;&Eacute; uma alegria imensa estar de volta ao Recife. Eu sa&iacute; daqui no dia 9 de outubro com muitas d&uacute;vidas e volto com muitas certezas. Certeza da solidariedade do povo do Recife, de alguns valores e cren&ccedil;as muito importantes para mim, como a solidariedade da minha fam&iacute;lia, do meu irm&atilde;o. Eu digo a ele agora que n&oacute;s somos um s&oacute;. Um peda&ccedil;o dele agora vive comigo e vive muito bem. (...) &quot;A sa&uacute;de no Brasil tem muitos problemas, mas tamb&eacute;m muitas solu&ccedil;&otilde;es. Fiz todo esse procedimento pelo SUS. &Agrave;s vezes a gente encontra os problemas que o SUS enfrenta, mas tem tamb&eacute;m uma sa&uacute;de p&uacute;blica no Brasil, hoje, de qualidade, feita por profissionais muito competentes, capazes, que apostam na sa&uacute;de p&uacute;blica deste Pa&iacute;s. (...) Tudo est&aacute; indo muito bem. Acho que d&aacute; para voc&ecirc;s notarem. Agora &eacute; cuidar bem desta &uacute;ltima etapa para a gente voltar com toda&nbsp; energia, com toda garra para cuidar do povo da cidade do Recife&nbsp; e me cuidar tamb&eacute;m&quot;.</p></p>
+<p><p>&nbsp;</p></p>
+<p><p><b>VOLTA AO TRABALHO</b><br /></p>
+<p>&quot;A ideia &eacute; assumir no terceiro m&ecirc;s de recupera&ccedil;&atilde;o. O m&ecirc;s de dezembro ser&aacute; minha &quot;c&acirc;mara de descompress&atilde;o&quot;. Nem assumindo, mas tamb&eacute;m procurando ajudar o nosso vice-prefeito Milton de alguma forma nos desafios que a Prefeitura e a cidade do Recife tem. Nossa ideia &eacute; at&eacute; o final de janeiro conversar com os nossos secret&aacute;rios, partidos, com a nossa bancada. Aproveitar para fazer um balan&ccedil;o desses dois anos de gest&atilde;o e tamb&eacute;m nos aprofundar nos desafios que teremos pelos pr&oacute;ximos dois anos&quot;.</p></p>
+<p><p><b>PRIORIDADES</b><br /></p>
+<p>&quot;Algumas prioridades est&atilde;o colocadas para a cidade do Recife. Destacaria dois pontos. Primeiro ponto, a gente aproveitar as prioridades e os caminhos que a nossa presidente Dilma Rousseff (PT) j&aacute; estabeleceu na campanha, de erradicar a mis&eacute;ria no Pa&iacute;s. O Recife ainda tem muitas pessoas que precisam ser retiradas da pobreza e da mis&eacute;ria. Precisamos e vamos levar at&eacute; a presidente o nosso desejo. Levar o n&uacute;mero de fam&iacute;lias que ainda n&atilde;o s&atilde;o contempladas pelo Bolsa Fam&iacute;lia e apostar firme na profissionaliza&ccedil;&atilde;o da juventude da cidade do Recife. J&aacute; cheguei a conversar isso com o governador Eduardo Campos (PSB). Acho que a gente tem que buscar a meta de, nestes dois anos, implantar seis escolas t&eacute;cnicas federais na cidade do Recife. Uma em cada regi&atilde;o. Estamos implantando um programa, que para mim &eacute; priorit&aacute;rio, que &eacute; o Primeira Escola. Construir 40 centros de educa&ccedil;&atilde;o infantil.(...) A outra &eacute; preparar a infraestrutura da cidade do Recife para os pr&oacute;ximos quatro anos. Daqui a quatro anos o Recife ser&aacute; sede da Copa do Mundo. N&atilde;o podemos esperar daqui a dois, tr&ecirc;s anos para preparar a cidade. Tem que ser preparada imediatamente. E a&iacute; n&oacute;s temos in&iacute;cio da Via Mangue, Projeto Capibaribe Melhor, a infraestrutura de mobilidade, os programas de saneamento que est&atilde;o vinculados &agrave; melhoria da quest&atilde;o ambiental da cidade do Recife. Temos um conjunto de projetos e obras para os pr&oacute;ximos dois, tr&ecirc;s anos. Isso s&oacute; poder&aacute; ser feito numa grande parceria com o Governo do Estado. Temos o corredor Norte-Sul, o corredor Leste-Oeste, a liga&ccedil;&atilde;o do Recife com a Cidade da Copa, a revitaliza&ccedil;&atilde;o da Avenida Norte. S&atilde;o projetos que ser&atilde;o contratados pelo Governo do Estado e ter&atilde;o a parceria da Prefeitura da Cidade do Recife&quot;.</p></p>
+<p><p><b>PROBLEMAS DA CIDADE</b><br /></p>
+<p>&quot;Nestes dois meses, n&atilde;o fiquei alheio aos problemas do Recife. Procurava acompanhar de alguma forma, Milton esteve l&aacute; duas vezes, cheguei a conversar com alguns secret&aacute;rios, a ligar para alguns. N&atilde;o fiquei alheio. Mas a prioridade era a recupera&ccedil;&atilde;o da minha sa&uacute;de&quot;</p></p>
+<p><p><b>POL&Ecirc;MICA COM OS CAMEL&Ocirc;S DO CENTRO</b><br /></p>
+<p>&quot;Essa &eacute; uma etapa de um projeto maior que &eacute; o Recife Nosso Centro. N&atilde;o podemos reduzir a recupera&ccedil;&atilde;o do Centro do Recife s&oacute; &agrave; organiza&ccedil;&atilde;o do com&eacute;rcio informal. Agora esta &eacute; uma primeira etapa importante porque havia uma constata&ccedil;&atilde;o, n&atilde;o s&oacute; nossa, da Prefeitura, mas da popula&ccedil;&atilde;o, de que o com&eacute;rcio informal no Centro da cidade precisava ser ordenado, principalmente em algumas &aacute;reas. Entre elas, a Rua Sete de Setembro, a Rua do Hosp&iacute;cio, o entorno do Mercado de S&atilde;o Jos&eacute;... Tem algumas &aacute;reas que precisam ser organizadas. O com&eacute;rcio informal faz parte da cultura do Recife. A gente tem que entender isso, mas tem que ter a clareza que a cidade precisa funcionar. (...) Estamos trabalhando na perspectiva de organizar este com&eacute;rcio e buscar alternativa para eles&quot;.</p></p>
+<p><p><b>SUCESS&Atilde;O NA PCR<br /></p>
+<p></b>&quot;Sucess&atilde;o eu s&oacute; trato em 2012. At&eacute; l&aacute; eu vou cuidar da cidade do Recife porque eu fui eleito para isso&quot;.</p></p>
+<p><p><b>JO&Atilde;O PAULO</b><br /></p>
+<p>&quot;Desde que o PT existe aqui, todo processo eleitoral, voc&ecirc;s (imprensa) come&ccedil;am: 'o PT t&aacute; dividido'. E toda elei&ccedil;&atilde;o a gente marcha unido e desde 2000 a gente tem ganhado. Ou o PT na Prefeitura ou o PT participando de frente. Tudo no seu tempo. Meu pai j&aacute; dizia 'quem come apressado come cru'. Ent&atilde;o, vamos dar o tempo que &eacute; necess&aacute;rio para a gente construir todo esse processo. Eu sou um defensor de di&aacute;logo permanente na pol&iacute;tica&quot;.</p> </p>
+{% endraw %}

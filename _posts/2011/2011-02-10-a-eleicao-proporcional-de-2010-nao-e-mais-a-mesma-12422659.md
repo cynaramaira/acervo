@@ -1,0 +1,62 @@
+---
+id: 12422659
+date: "2011-02-10T21:43:00Z"
+last_modified_at: null
+tags:
+  - "eleicao"
+  - "eleicoes-2010"
+  - "naomi-campbell"
+categories:
+  - "noticias"
+title: "A elei\u00e7\u00e3o proporcional de 2010 n\u00e3o \u00e9 mais a mesma"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Maur&iacute;cio Costa Rom&atilde;o</p></p>
+<p><p>A decis&atilde;o da Mesa Diretora da Assembl&eacute;ia Legislativa de Pernambuco, acolhendo parecer da Procuradoria Geral da Casa, de convocar os suplentes dos partidos que geraram as vagas licenciadas, e n&atilde;o os suplentes das coliga&ccedil;&otilde;es de que esses partidos fizeram parte, apenas reflete o resultado da inseguran&ccedil;a jur&iacute;dica que se instalou no pa&iacute;s a partir de uma decis&atilde;o prec&aacute;ria do STF, limitada &agrave;s partes do processo, no chamado &quot;Caso de Rond&ocirc;nia&quot;.</p></p>
+<p><p>Como o entendimento da egr&eacute;gia corte n&atilde;o teve efic&aacute;cia vinculante, fica a crit&eacute;rio das Mesas Diretoras das Casas Legislativas terem interpreta&ccedil;&atilde;o pr&oacute;pria, optando por umas das duas solu&ccedil;&otilde;es poss&iacute;veis: convocar os suplentes das coliga&ccedil;&otilde;es ou os dos partidos, cabendo aos suplentes preteridos, num e noutro caso, demandarem a&ccedil;&otilde;es jur&iacute;dicas espec&iacute;ficas contra as decis&otilde;es exaradas.</p></p>
+<p><p>O presidente da Assembl&eacute;ia, deputado Guilherme Uch&ocirc;a, teve que tomar uma dif&iacute;cil decis&atilde;o, postergada de h&aacute; muito, e n&atilde;o quis esperar, como seria mais prudente, pelo julgamento final do STF, ou pela iniciativa j&aacute; deflagrada pela C&acirc;mara Federal, que pretende legislar definitivamente sobre o assunto.</p></p>
+<p><p>A Mesa Diretora fez sua op&ccedil;&atilde;o. Compreens&iacute;vel e respaldada. Corre um grande risco, contudo, por n&atilde;o ter esgotado os prazos regimentais, de ter que reverter sua decis&atilde;o, causando como&ccedil;&otilde;es pessoais e preju&iacute;zos &agrave; din&acirc;mica dos trabalhos legislativos.</p></p>
+<p><p>E por que o risco &eacute; grande&#63;</p></p>
+<p><p>A legisla&ccedil;&atilde;o, o rito e a l&oacute;gica</p></p>
+<p><p>As coliga&ccedil;&otilde;es proporcionais s&atilde;o permitidas e juridicamente disciplinadas pela legisla&ccedil;&atilde;o eleitoral;<br /></p>
+<p>O &amp; 1&ordm; do art. 6&ordm;, da Lei Eleitoral, estabelece que a coliga&ccedil;&atilde;o funciona como se um partido fosse; no interior da coliga&ccedil;&atilde;o os partidos desaparecem enquanto entidades jur&iacute;dicas;<br /></p>
+<p>Os candidatos s&atilde;o inscritos pela coliga&ccedil;&atilde;o, e n&atilde;o por seus respectivos partidos (&sect; 2&ordm; do art. 105, do C&oacute;digo Eleitoral);<br /></p>
+<p>Para assun&ccedil;&atilde;o ao Parlamento os candidatos se valem da vota&ccedil;&atilde;o conjunta da coliga&ccedil;&atilde;o, n&atilde;o importando a contribui&ccedil;&atilde;o de votos de cada partido componente;</p></p>
+<p><p>Os candidatos se elegem ent&atilde;o pela coliga&ccedil;&atilde;o (juridicamente, um partido), e n&atilde;o pelas agremia&ccedil;&otilde;es componentes, embora os mandatos v&atilde;o ser exercidos em nome das legendas partid&aacute;rias;</p></p>
+<p><p>O quociente partid&aacute;rio, que determina quantas vagas cabem &agrave; coliga&ccedil;&atilde;o, depende do somat&oacute;rio de votos nominais e de legenda da coliga&ccedil;&atilde;o como um todo; n&atilde;o existe quociente partid&aacute;rio das siglas componentes da alian&ccedil;a;</p></p>
+<p><p>Ao cabo dos pleitos a justi&ccedil;a eleitoral apura quantas vagas cabem &agrave; coliga&ccedil;&atilde;o, preenchendo-as consoante a listagem ordinal dos candidatos mais votados, independente dos partidos a que perten&ccedil;am;<br /></p>
+<p>&nbsp;</p></p>
+<p><p>O candidato que ficou com a maior vota&ccedil;&atilde;o imediatamente abaixo da vota&ccedil;&atilde;o do ocupante da &uacute;ltima vaga ser&aacute; o primeiro suplente da coliga&ccedil;&atilde;o, qualquer que seja a sua sigla partid&aacute;ria;</p></p>
+<p><p>Escudados nesse ordenamento hist&oacute;rico-jur&iacute;dico os Parlamentos t&ecirc;m preenchido as vagas legislativas oriundas de partidos coligados, nos casos de licen&ccedil;a, ren&uacute;ncia, morte ou perda de mandato parlamentar, obedecendo &agrave; lista de suplentes da coliga&ccedil;&atilde;o, enviada pela justi&ccedil;a eleitoral;</p></p>
+<p><p>Repita-se: aberta a vaga legislativa, tem-se convocado o suplente da coliga&ccedil;&atilde;o, na ordem de vota&ccedil;&atilde;o constante da lista da justi&ccedil;a eleitoral, nunca (at&eacute; recente decis&atilde;o do STF) na ordem de vota&ccedil;&atilde;o da legenda que a comp&otilde;e, at&eacute; porque a legenda n&atilde;o existe no interior da coliga&ccedil;&atilde;o.</p></p>
+<p><p>A estrat&eacute;gia dos partidos</p></p>
+<p><p>Os partidos s&atilde;o pragm&aacute;ticos: disputam os pleitos isoladamente ou celebram alian&ccedil;as, em fun&ccedil;&atilde;o dos resultados eleitorais que esperam obter em cada caso;</p></p>
+<p><p>Coligar-se, portanto, &eacute; uma decis&atilde;o de estrat&eacute;gia eleitoral de cada partido, que leva em conta, inclusive, a legisla&ccedil;&atilde;o, o rito hist&oacute;rico e a l&oacute;gica que t&ecirc;m presidido a forma&ccedil;&atilde;o de alian&ccedil;as;</p></p>
+<p><p>Pesa, tamb&eacute;m, na decis&atilde;o estrat&eacute;gica, o n&uacute;mero de candidatos a ser lan&ccedil;ado: o conjunto da coliga&ccedil;&atilde;o s&oacute; pode lan&ccedil;ar o dobro da quantidade de vagas do Parlamento, enquanto os partidos, disputando isoladamente, podem faz&ecirc;-lo em 1,5 vezes a disponibilidade dessas vagas;</p></p>
+<p><p>Optando ou n&atilde;o por coligar-se, cada agremia&ccedil;&atilde;o tem que submeter sua decis&atilde;o &agrave; Conven&ccedil;&atilde;o Partid&aacute;ria para referendo, cerca de tr&ecirc;s meses antes das elei&ccedil;&otilde;es;</p></p>
+<p><p>A incoer&ecirc;ncia</p></p>
+<p><p>O partido A faz seus c&aacute;lculos eleitorais, opta estrategicamente por celebrar alian&ccedil;a, e o faz em conson&acirc;ncia com a legisla&ccedil;&atilde;o vigente, a l&oacute;gica e o rito hist&oacute;rico que o processo tem ensejado at&eacute; ent&atilde;o, submete sua decis&atilde;o &agrave; Conven&ccedil;&atilde;o, que a homologa, e, enfim, parte para a luta eleitoral;</p></p>
+<p><p>Terminada a elei&ccedil;&atilde;o, a justi&ccedil;a eleitoral expede lista ao Parlamento, atestando que a coliga&ccedil;&atilde;o (da qual o partido A fez parte) elegeu tantos parlamentares e quantos suplentes, por ordem de vota&ccedil;&atilde;o;</p></p>
+<p><p>De repente, em controversa decis&atilde;o preliminar, o STF estabelece, em linguagem livre: &quot;desde h&aacute; muito tempo at&eacute; hoje a vac&acirc;ncia legislativa era preenchida pelos suplentes da coliga&ccedil;&atilde;o, mas a partir de agora vai s&ecirc;-lo pelos suplentes do partido componente do qual se originou a vaga&quot;;</p></p>
+<p><p>Mas como&#63; O partido A se baseou em um conjunto de regras e procedimentos para coligar-se e agora se diz que tais regras e procedimentos s&atilde;o outros&#63; Se A soubesse desses rec&eacute;m editados normativos preliminares antes das Conven&ccedil;&otilde;es de 2010, n&atilde;o teria sido estrategicamente mais vantajoso o partido disputar o pleito isoladamente&#63; Pr&eacute;-candidatos de A que foram preteridos por conta dos limites quantitativos impostos &agrave; coliga&ccedil;&atilde;o, n&atilde;o poderiam ser lan&ccedil;ados em uma disputa isolada&#63; A estrat&eacute;gia de campanha enquanto partido componente de uma coliga&ccedil;&atilde;o &eacute; uma, como sigla isolada, n&atilde;o &eacute; outra&#63;</p></p>
+<p><p>O que dizer do quociente partid&aacute;rio&#63; A coliga&ccedil;&atilde;o vale para determinar o quociente partid&aacute;rio, atrav&eacute;s do qual os candidatos mais votados s&atilde;o eleitos, mas n&atilde;o serve para conferir direito &agrave; assun&ccedil;&atilde;o ao Parlamento dos suplentes dessa mesma coliga&ccedil;&atilde;o&#63; E n&atilde;o foi com a ajuda dos votos dos suplentes da coliga&ccedil;&atilde;o que se formou o quociente partid&aacute;rio&#63; Ent&atilde;o os votos dos suplentes da coliga&ccedil;&atilde;o s&oacute; valem para eleger os outros, mas n&atilde;o a si pr&oacute;prios&#63;</p></p>
+<p><p>E se o partido que gerou a vaga n&atilde;o tiver suplentes&#63; N&atilde;o se convoca nenhum, &agrave; revelia do art. 56, &amp; 1&ordm;, da Constitui&ccedil;&atilde;o&#63; Faz-se sorteio&#63; Chama o que tiver mais votos&#63; O mais idoso&#63;</p></p>
+<p><p>Decididamente: o partido A participou de uma elei&ccedil;&atilde;o que n&atilde;o &eacute; mais a mesma! Est&aacute; no seu direito, ent&atilde;o, requerer a realiza&ccedil;&atilde;o de novo pleito proporcional em que vai disputar sabendo que a vac&acirc;ncia legislativa no &acirc;mbito de uma coliga&ccedil;&atilde;o deve ser preenchida pelo suplente do partido componente de onde se originou a vaga, n&atilde;o mais pelo suplente da coliga&ccedil;&atilde;o;</p></p>
+<p><p>A decis&atilde;o do STF</p></p>
+<p><p>&nbsp;decis&atilde;o provis&oacute;ria do STF proferida no mandado de seguran&ccedil;a impetrado pelo PMDB, no caso de Rond&ocirc;nia, foi espec&iacute;fica (inter partes). Entendeu a egr&eacute;gia corte que a vaga aberta pela ren&uacute;ncia do deputado Natan Donadon (PMDB-RO) deveria ser preenchida pelo primeiro suplente do pr&oacute;prio partido, e n&atilde;o pelo primeiro suplente da coliga&ccedil;&atilde;o, deputado Agnaldo Muniz, que sa&iacute;ra de partido componente da alian&ccedil;a (PP) para sigla (PSC) que sequer dela fez parte.</p></p>
+<p><p>Dada &agrave; import&acirc;ncia da quest&atilde;o constitucional suscitada, o ministro Gilmar Mendes optou por levar a exame do plen&aacute;rio o pedido de liminar. O placar, a favor do suplente do partido, foi de 5 a 3, tendo acompanhado o voto do relator os ministros Marco Aur&eacute;lio, C&aacute;rmen L&uacute;cia Antunes Rocha, Joaquim Barbosa e Cezar Peluso).</p></p>
+<p><p>Recentemente foram concedidas duas liminares pelo STF a suplentes de partido: uma, do ministro Cesar Peluso e outra, da ministra Carmen L&uacute;cia, ministros, reitere-se, que j&aacute; haviam, no epis&oacute;dio do deputado de Rond&ocirc;nia, seguido o voto do ministro-relator Gilmar Mendes em apoio &agrave; tese de que a vaga &eacute; do suplente do partido.</p></p>
+<p><p>A partir da concess&atilde;o dessas duas liminares, parte da m&iacute;dia e dos meios pol&iacute;ticos j&aacute; passou a considerar como fato quase consumado o entendimento final do Supremo a favor dos suplentes de partidos.<br /></p>
+<p>N&atilde;o parece que seja o caso.</p></p>
+<p><p>Vale salientar que os sorteios para aprecia&ccedil;&atilde;o das liminares n&atilde;o contemplaram nenhum dos tr&ecirc;s ministros que se opuseram ao teor do relato do ministro Gilmar Mendes, no julgamento do caso de Rond&ocirc;nia. Naturalmente, se isso ocorresse, tais ministros replicariam seus votos anteriores, a favor das coliga&ccedil;&otilde;es.</p></p>
+<p><p>Ademais, os ministros Celso Mello e Ellen Gracie n&atilde;o participaram da sess&atilde;o que apreciou o mandado de Rond&ocirc;nia, portanto, seus posicionamentos s&atilde;o uma inc&oacute;gnita.</p></p>
+<p><p>Tem, ainda, a vaga deixada pelo ministro Eros Grau, cujo substituto dever&aacute; tomar posse brevemente.</p></p>
+<p><p>Da&iacute; por que &eacute; mais prudente considerar que o entendimento do STF n&atilde;o esteja consolidado, como se tem propagado.</p></p>
+<p><p>Claro que o pleno do STF pode at&eacute; vir a determinar que a vaga seja do partido, mas &eacute; razo&aacute;vel supor que se o fizer ser&aacute; com vig&ecirc;ncia a partir da elei&ccedil;&atilde;o de 2012. A&iacute;, tudo bem, n&atilde;o se alterariam as regras que foram estabelecidas para o pleito de 2010.</p></p>
+<p><p>Mas, para evitar a deflagra&ccedil;&atilde;o de um conflito pol&iacute;tico-jur&iacute;dico de dimens&otilde;es gigantescas, requerendo-se, inclusive, outra elei&ccedil;&atilde;o, &eacute; de se esperar que aquela egr&eacute;gia corte n&atilde;o referende as decis&otilde;es liminares exaradas at&eacute; agora e, pelo menos para a legislatura em curso, mantenha o entendimento de sempre: a vaga &eacute; da coliga&ccedil;&atilde;o, conforme, ali&aacute;s, o legislativo federal pretende emendar a Constitui&ccedil;&atilde;o nesse sentido.<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

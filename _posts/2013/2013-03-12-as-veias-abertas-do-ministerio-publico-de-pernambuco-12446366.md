@@ -1,0 +1,54 @@
+---
+id: 12446366
+date: "2013-03-12T13:40:00Z"
+last_modified_at: null
+tags:
+  - "ministerio"
+  - "pernambuco"
+categories:
+  - "noticias"
+title: "As veias abertas do Minist\u00e9rio P\u00fablico de Pernambuco"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;"></p>
+<p>	Por Noelia Brito, advogada e procuradora do Munic&iacute;pio do Recife</p></p>
+<p><p style="text-align: justify;"></p>
+<p>	O afastamento da promotora Belize C&acirc;mara da Promotoria do Meio Ambiente da Capital abriu uma ferida no Minist&eacute;rio P&uacute;blico de Pernambuco que est&aacute; muito longe de ser fechada.<br /></p>
+<p>	<br /></p>
+<p>	Ali&aacute;s, essa ferida &eacute; daquelas que para cicatrizar exigir&aacute; a remo&ccedil;&atilde;o de todo o tecido necrosado, para que o novo tecido possa finalmente trazer a cura para o &oacute;rg&atilde;o doente.<br /></p>
+<p>	<br /></p>
+<p>	Um ato arbitr&aacute;rio como o cometido contra a promotora, jamais &eacute; cometido de maneira isolada, de maneira dissociada de outras pr&aacute;ticas de mesmo jaez. Muitas vezes funciona como a gota d&rsquo;&aacute;gua ou o estopim para o transbordamento ou a explos&atilde;o de uma situa&ccedil;&atilde;o que j&aacute; n&atilde;o tem mais como se sustentar.<br /></p>
+<p>	<br /></p>
+<p>	E por que eu digo isso&#63; Simplesmente porque t&atilde;o logo veio a p&uacute;blico que a promotora Belize C&acirc;mara, respons&aacute;vel por trazer novos ares ao Minist&eacute;rio P&uacute;blico de Pernambuco, fora afastada abruptamente de suas fun&ccedil;&otilde;es na Promotoria do Meio Ambiente, em detrimento dos interesses da sociedade, ato cont&iacute;nuo, vieram &agrave; tona s&eacute;rias den&uacute;ncias de que aquele &oacute;rg&atilde;o, fiscal da lei, praticava e ainda pratica, as irregularidades que deveria combater nos demais &oacute;rg&atilde;os do Poder P&uacute;blico.<br /></p>
+<p>	<br /></p>
+<p>	Abro agora um par&ecirc;ntesis para esclarecer que n&atilde;o &eacute; apenas no tocante a sua atua&ccedil;&atilde;o brilhante na defesa do patrim&ocirc;nio p&uacute;blico, que a promotora Belize C&acirc;mara foi e &eacute; digna de enc&ocirc;mios e se tornou s&iacute;mbolo de uma causa, posto que ningu&eacute;m duvide que existem muitos outros promotores t&atilde;o brilhantes e t&atilde;o compromissados com o interesse p&uacute;blico quanto ela, sen&atilde;o n&atilde;o existiriam, por exemplo, 15 a&ccedil;&otilde;es de improbidade tramitando contra a ex-primeira dama do Recife, Mar&iacute;lia Lucinda, ao tempo em que era diretora financeira da secretaria de Educa&ccedil;&atilde;o da PCR. N&atilde;o, n&atilde;o se trata disso. Seria leviano com muitos profissionais corret&iacute;ssimos que comp&otilde;em o &ldquo;Parquet&rdquo; pernambucano afirmar o contr&aacute;rio.<br /></p>
+<p>	<br /></p>
+<p>	O grande diferencial da promotora foi fazer o Minist&eacute;rio P&uacute;blico cumprir seu papel de estar pr&oacute;ximo &agrave; sociedade, dialogando diretamente com esta e agindo de forma transparente, como &eacute; seu dever institucional, inclusive, porque assim quer a Constitui&ccedil;&atilde;o, porque assim quer o povo, patr&atilde;o de todas as institui&ccedil;&otilde;es e de todos os que fazem e s&atilde;o remunerados por essas mesmas institui&ccedil;&otilde;es.<br /></p>
+<p>	<br /></p>
+<p>	E por falar em remunera&ccedil;&atilde;o, chegamos exatamente ao ponto aonde quer&iacute;amos chegar, quando fal&aacute;vamos das &ldquo;veias abertas&rdquo; do Minist&eacute;rio P&uacute;blico de Pernambuco, abertas pelo ato do Procurador Geral de Justi&ccedil;a, Aguinaldo Fenelon, que ao retirar a promotora Belize do lugar de onde n&atilde;o poderia ter sido retirada porque &eacute; ali que a sociedade a quer e a sociedade &eacute; a comandante maior n&atilde;o s&oacute; do Minist&eacute;rio P&uacute;blico, mas de todas as institui&ccedil;&otilde;es, atraiu todos, eu disse todos os olhares n&atilde;o s&oacute; para si, mas para o pr&oacute;prio Minist&eacute;rio P&uacute;blico. E o que a sociedade viu, olhando de cima, que &eacute; de onde a sociedade sempre olha, ao espiar pelo telhado de vidro do Minist&eacute;rio P&uacute;blico de Pernambuco, n&atilde;o foi, lamentavelmente, coisa l&aacute; muito bonita de se ver.<br /></p>
+<p>	<br /></p>
+<p>	O que a sociedade viu foi um quadro de pr&aacute;ticas que beiram o clientelismo t&iacute;pico das prefeituras que s&atilde;o ou que deveriam ser alvo da a&ccedil;&atilde;o en&eacute;rgica do MPPE, que, por sua vez d&aacute;, ele mesmo, p&eacute;ssimo exemplo, quando se constata que segundo o processo 0.00.000.001356/2012-11, instaurado pelo Conselho Nacional do Minist&eacute;rio P&uacute;blico (que est&aacute; para o MP, assim como o CNJ est&aacute; para o Judici&aacute;rio), 41% dos funcion&aacute;rios do MPPE n&atilde;o s&atilde;o pertencentes aos seus quadros, ou seja, n&atilde;o ingressaram via concurso p&uacute;blico. Somente 511 dos 1.028 servidores seriam efetivos, sendo 257 terceirizados e 481 cedidos por prefeituras (294) ou pelo governo do Estado (187).<br /></p>
+<p>	<br /></p>
+<p>	Fiquei deveras impressionada com a defesa apresentada ao CNMP, pelo procurador geral de Justi&ccedil;a, para justificar tal situa&ccedil;&atilde;o e para sustentar sua perpetua&ccedil;&atilde;o, pois utiliza, exatamente, os mesmos argumentos lan&ccedil;ados por maus gestores, quando fazem suas defesas nas a&ccedil;&otilde;es de improbidade movidas por aqueles promotores brilhantes e compromissados com a defesa do patrim&ocirc;nio p&uacute;blico, aos quais me referi anteriormente.<br /></p>
+<p>	<br /></p>
+<p>	Em suma, o procurador geral diz ao CNMP que &eacute; mais barato descumprir a lei e n&atilde;o nomear os concursados, buscando selecionar seus servidores em prefeituras, governo do estado e empresas de terceiriza&ccedil;&atilde;o (o crit&eacute;rio de sele&ccedil;&atilde;o deixo ao livre arb&iacute;trio de cada leitor imaginar qual seria, pois sem concurso, o livre arb&iacute;trio do gestor e de seus aliados ser&aacute; sempre o crit&eacute;rio).<br /></p>
+<p>	<br /></p>
+<p>	Todos sabemos que v&aacute;rios promotores movem a&ccedil;&otilde;es contra prefeitos para for&ccedil;&aacute;-los a cumprir a Constitui&ccedil;&atilde;o. Exigem que em vez de cargos comissionados e terceirizados fa&ccedil;am concursos e nomeiem os aprovados, enquanto isso, no pr&oacute;prio MPPE v&ecirc;-se a defesa, intramuros, na m&aacute; pr&aacute;tica administrativa combatidas nas promotorias de defesa do patrim&ocirc;nio p&uacute;blico.<br /></p>
+<p>	<br /></p>
+<p>	Ainda outro dia denunciei em artigo publicado neste mesmo espa&ccedil;o, que me &eacute; democraticamente franqueado pelo editor, Jamildo Melo, todas as semanas, o sucateamento da Controladoria do Estado e at&eacute; suscitei a a&ccedil;&atilde;o do MPPE, para o caso: &ldquo;Eu mesma tomei conhecimento de grave den&uacute;ncia quanto &agrave; situa&ccedil;&atilde;o do concurso para Analista de Controle Interno que deveria ser, com toda v&ecirc;nia, alvo da aten&ccedil;&atilde;o do Minist&eacute;rio P&uacute;blico, qui&ccedil;&aacute;, por sua Procuradoria de Defesa do Patrim&ocirc;nio P&uacute;blico, no intuito de se descobrir as raz&otilde;es pelas quais a Secretaria da Controladoria Geral do Estado de Pernambuco (SCGE-PE) n&atilde;o tem dado continuidade ao referido certame. Ser&aacute; que &eacute; porque compete a esses servidores, dentre outras relevantes atribui&ccedil;&otilde;es, justamente, a fiscaliza&ccedil;&atilde;o de pessoas f&iacute;sicas ou jur&iacute;dicas que recebem valores ou bens do Estado de Pernambuco, como &eacute; o caso, por exemplo, de todas as empresas benefici&aacute;rias das doa&ccedil;&otilde;es de terrenos e favores fiscais que t&ecirc;m sido a t&ocirc;nica da atual gest&atilde;o&#63;&rdquo;<br /></p>
+<p>	<br /></p>
+<p>	Depois, ao saber do &ldquo;modus operandi&rdquo; do atual dirigente do MPPE ao gerir, da mesma forma, o &oacute;rg&atilde;o fiscalizador, fiquei at&eacute; acabrunhada.<br /></p>
+<p>	<br /></p>
+<p>	&Eacute; interessante notar que os mesmos motivos or&ccedil;ament&aacute;rios que impedem a nomea&ccedil;&atilde;o de concursados n&atilde;o foram impedimento para o pagamento retroativo a 2007, de aux&iacute;lio-alimenta&ccedil;&atilde;o, j&aacute; apelidado, jocosamente de &ldquo;aux&iacute;lio-lagosta&rdquo;, para os membros do Minist&eacute;rios P&uacute;blico e na mesma semana do afastamento da promotora de suas fun&ccedil;&otilde;es da promotoria de Defesa do Meio Ambiente e logo ap&oacute;s as instaura&ccedil;&atilde;o da investiga&ccedil;&atilde;o no CNMP, como se a impunidade fosse mesmo uma certeza absoluta. O benef&iacute;cio causar&aacute; um acr&eacute;scimo anual de R$ 4,8 milh&otilde;es nas despesas do MPPE, a partir de mar&ccedil;o, suficiente, portanto, para custear a nomea&ccedil;&atilde;o de uma boa quantidade de Analistas Ministeriais, que aguardam ansiosos para servir ao povo de Pernambuco.<br /></p>
+<p>	<br /></p>
+<p>	O procurador geral de Justi&ccedil;a, Aguinaldo Fenelon, gosta de afirmar que &eacute; um homem forjado nas lutas democr&aacute;ticas, por&eacute;m, aqui e ali flagramos em suas pr&oacute;prias falas, contradi&ccedil;&otilde;es em seu discurso. O ato de retirada da promotora Belize &eacute; autoexplicativo, simb&oacute;lico. Para al&eacute;m disso, quando fala, sempre insiste em dizer que foi ele quem deixou, foi ele quem permitiu, foi ele quem autorizou, o que demonstra que a independ&ecirc;ncia do membros do MPPE n&atilde;o &eacute; algo que esteja t&atilde;o clara assim em sua mente e isso &eacute; preocupante.<br /></p>
+<p>	<br /></p>
+<p>	Ao mencionar, por exemplo, as a&ccedil;&otilde;es movidas contra seu irm&atilde;o, Henrique Fenelon, ex-prefeito de Goiana, pelo partido do governador Eduardo Campos, faz quest&atilde;o de ressaltar que mesmo consultado, n&atilde;o fez nada para impedir as a&ccedil;&otilde;es. De se estranhar, para come&ccedil;o de conversa, a consulta.<br /></p>
+<p>	<br /></p>
+<p>	Por fim, tendo sua gest&atilde;o denunciada ao CNMP insiste na quebra do sigilo quanto aos nomes dos denunciantes, que depois do ocorrido com a promotora s&oacute; tiveram aumentados seus temores quanto a eventuais retalia&ccedil;&otilde;es. Ali&aacute;s, o epis&oacute;dio com nossa querida promotora Belize, ningu&eacute;m duvide, foi um grande recado. Um recado para todos n&oacute;s que formamos a sociedade civil que resiste. Se s&atilde;o capazes de fazer isso com uma promotora de Justi&ccedil;a, para calar sua voz e inibir suas a&ccedil;&otilde;es em prol do interesse p&uacute;blico, a que ponto n&atilde;o ser&atilde;o capazes de chegar para calar a NOSSA voz e inibir as NOSSAS a&ccedil;&otilde;es&#63;</p></p>
+<p></p>
+{% endraw %}

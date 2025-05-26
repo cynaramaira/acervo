@@ -1,0 +1,28 @@
+---
+id: 12425842
+date: "2011-05-02T13:57:00Z"
+last_modified_at: null
+tags:
+  - "festa"
+categories:
+  - "noticias"
+title: "Festa da Lavadeira: celebra\u00e7\u00e3o da resist\u00eancia!"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Edilson Silva</p></p>
+<p><p>A sociedade pernambucana acompanhou nos &uacute;ltimos dias a peleja em torno da realiza&ccedil;&atilde;o da Festa da Lavadeira. Os milion&aacute;rios da Odebrecht queriam acabar com festa, que &eacute; um evento tradicional, de motiva&ccedil;&atilde;o religiosa, protegido por legisla&ccedil;&atilde;o estadual. Tentaram de tudo, mas o povo compareceu e fez a atividade religiosa e sua insepar&aacute;vel face festiva se imp&ocirc;s diante do poder econ&ocirc;mico.</p></p>
+<p><p>A Festa esteve praticamente inviabilizada at&eacute; as 12 horas do s&aacute;bado, 30/04, quando numa dif&iacute;cil negocia&ccedil;&atilde;o conseguimos garantir um aditamento no TAC (Termo de Ajustamento de Conduta) feito com o Minist&eacute;rio P&uacute;blico, garantindo juridicamente alguns toldos para proteger as pessoas do sol e da chuva e tamb&eacute;m uma m&iacute;nima estrutura de som, para viabilizar a organiza&ccedil;&atilde;o dos presentes.</p></p>
+<p><p>Esta negocia&ccedil;&atilde;o n&atilde;o seria poss&iacute;vel sem a disposi&ccedil;&atilde;o infinita da organiza&ccedil;&atilde;o da festa para o di&aacute;logo e sem o esfor&ccedil;o do Minist&eacute;rio P&uacute;blico, atrav&eacute;s da promotora Janaina Bezerra, e do deputado estadual Waldemar Borges, l&iacute;der do governo na Assembleia Legislativa, que passaram praticamente o final de semana mobilizados para garantir um m&iacute;nimo de condi&ccedil;&otilde;es para a realiza&ccedil;&atilde;o do evento. Ainda no s&aacute;bado, &agrave;s 18 horas, a prefeitura do Cabo n&atilde;o havia retirado as cercas da &aacute;rea p&uacute;blica da Festa, exigindo sempre a intermedia&ccedil;&atilde;o do Minist&eacute;rio P&uacute;blico.</p></p>
+<p><p>O dia de domingo come&ccedil;ou com as cercas ainda de p&eacute; na praia. Mais grave: a praia do Paiva passou todo o dia 1&ordm; de Maio sem energia el&eacute;trica. Coincid&ecirc;ncia macabra, a prefeitura do Cabo esqueceu-se de colocar o transformador que aumenta a capacidade de fornecimento de energia el&eacute;trica no dia da atividade. Ser&aacute; que ela adivinhou que no dia seguinte faltaria energia el&eacute;trica e resolveu ent&atilde;o economizar na instala&ccedil;&atilde;o&#63;</p></p>
+<p><p>O que tudo indica ter sido um boicote no fornecimento de energia el&eacute;trica indica tamb&eacute;m que o objetivo tamb&eacute;m era cortar por tabela a &aacute;gua no dia da festa, e conseguiram. A Festa aconteceu sem &aacute;gua e sem energia el&eacute;trica, o que inviabilizou tamb&eacute;m algumas atividades do Dia do Trabalhador na Festa da Lavadeira, como a instala&ccedil;&atilde;o de um painel para proje&ccedil;&atilde;o de v&iacute;deos e imagens em favor da Festa.</p></p>
+<p><p>Al&eacute;m disso, uma verdadeira campanha invadiu a internet na v&eacute;spera do evento, &ldquo;informando&rdquo; &agrave; popula&ccedil;&atilde;o que a festa n&atilde;o aconteceria. Turistas e outros participantes diziam que &ldquo;pessoas da prefeitura&rdquo; estavam nos acessos &agrave; praia do Paiva &ldquo;informando&rdquo; tamb&eacute;m que a festa n&atilde;o aconteceria. O Jornal do Commercio de hoje, 02/05, constatou que n&atilde;o havia uma &uacute;nica placa indicando o local da Festa.</p></p>
+<p><p>Hipocritamente, as pessoas que adentravam na praia do Paiva pelos ped&aacute;gios ganhavam um leque, brinde da Reserva do Paiva (o condom&iacute;nio milion&aacute;rio), fazendo alus&atilde;o &agrave; Festa: &ldquo;Se beber, n&atilde;o dirija. Festa da Lavadeira, Religiosidade e Tradi&ccedil;&atilde;o&rdquo;. Essa gente &eacute; pouco s&eacute;ria.</p></p>
+<p><p>Mas foi exatamente transpondo tudo isto que o povo foi &agrave; Festa, o que deu um car&aacute;ter especial para a 25&ordf; edi&ccedil;&atilde;o. Milhares de pessoas, cujos &ocirc;nibus n&atilde;o podiam entrar na praia do Paiva, caminharam cerca de 1 km pela areia, numa verdadeira romaria, debaixo do sol e da chuva, para fazer valer sua tradi&ccedil;&atilde;o. Dezenas de grupos culturais apresentaram-se, no ch&atilde;o, fazendo uma grande celebra&ccedil;&atilde;o &agrave; resist&ecirc;ncia popular contra a ditadura do poder do dinheiro.</p></p>
+<p><p>Tribos de grafiteiros realizaram um mutir&atilde;o na Festa, fazendo de sua arte um grito de den&uacute;ncia e protesto em favor da Festa. Entidades como o SIMEPE (Sind. M&eacute;dicos), CUT, UCS e CSP-CONLUTAS, movimento Ecossocialista, PSOL, todos participantes da Assembleia Popular em defesa da Festa, tamb&eacute;m fizeram-se presentes, fortalecendo a id&eacute;ia de levar ao evento a simbologia do Dia do Trabalhador.</p></p>
+<p><p>Foi uma manifesta&ccedil;&atilde;o emocionante de resist&ecirc;ncia popular. Esta resist&ecirc;ncia agora vai crescer e a 26&ordf; edi&ccedil;&atilde;o da Festa da Lavadeira j&aacute; come&ccedil;ou. Venceu nesta batalha o interesse social, a raz&atilde;o, a sensibilidade com a cultura da nossa gente, mas nada disso seria poss&iacute;vel sem a for&ccedil;a e a organiza&ccedil;&atilde;o popular, que foram os maiores protagonistas desta 25&ordf; edi&ccedil;&atilde;o da Festa da Lavadeira.</p></p>
+<p><p>Presidente do PSOL-PE</p> </p>
+{% endraw %}

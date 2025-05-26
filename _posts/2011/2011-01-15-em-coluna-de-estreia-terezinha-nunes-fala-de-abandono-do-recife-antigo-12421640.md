@@ -1,0 +1,40 @@
+---
+id: 12421640
+date: "2011-01-15T10:25:00Z"
+last_modified_at: null
+tags:
+  - "coluna"
+  - "estreia"
+  - "kassio-nunes"
+  - "recife-antigo"
+categories:
+  - "noticias"
+title: "Em coluna de estreia, Terezinha Nunes fala de abandono do Recife Antigo"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><img alt="" width="520" height="615" src="https://jc3.uol.com.br/blogs/repositorio/camisa branca_bx.jpg" />&nbsp;</p></p>
+<p><p><b>Tr&ecirc;s por Quatro - Por Terezinha Nunes</b></p></p>
+<p><p><b><br /></p>
+<p>Recife Antigo: um sonho abandonado</b></p></p>
+<p><p>A &ldquo;menina dos olhos&ldquo; de nossa capital, o Recife Antigo, que viveu seu auge na &eacute;poca do Brasil Col&ocirc;nia, passou por um processo de degrada&ccedil;&atilde;o de mais de um s&eacute;culo e come&ccedil;ou a ser recuperado na d&eacute;cada de 90 pelo prefeito e depois governador Jarbas Vasconcelos, tem tudo para virar um dos temas principais da campanha do pr&oacute;ximo ano. Motivos n&atilde;o faltam.</p></p>
+<p><p>Saudado no in&iacute;cio do processo de recupera&ccedil;&atilde;o como um novo &ldquo;quartier latim&rdquo; (bairro antigo de Paris conhecido pela sua anima&ccedil;&atilde;o tur&iacute;stica, bistr&ocirc;s e faculdades), o local virou point de recifenses e turistas, cada vez mais satisfeitos com a atmosfera vivida em suas ruas, sobretudo a do Bom Jesus, onde era poss&iacute;vel passar horas agrad&aacute;veis, saboreando a nossa culin&aacute;ria, tomando um drink e batendo papo com seguran&ccedil;a na frente de pr&eacute;dios antigos e encantadores.</p></p>
+<p><p>Mas, infelizmente, o que parecia o pren&uacute;ncio de transforma&ccedil;&atilde;o do local numa ilha de excel&ecirc;ncia tur&iacute;stica, ao ponto de se pensar em criar um policiamento pr&oacute;prio para o bairro, incentivar os artistas a ocupar seus casarios e at&eacute; &ldquo;fechar&rdquo; suas pontes ao tr&aacute;fego durante a noite, s&oacute; permitindo a circula&ccedil;&atilde;o de bicicletas, foi por &aacute;gua abaixo h&aacute; dez anos, quando teve in&iacute;cio a administra&ccedil;&atilde;o petista da capital.&nbsp;&nbsp;&nbsp;&nbsp;</p></p>
+<p><p>Independente dos motivos que levaram os dois &uacute;ltimos prefeitos &ndash; imagina-se que tenham explica&ccedil;&otilde;es - a tratar a recupera&ccedil;&atilde;o do bairro com descaso ou sem qualquer prioridade, levando os empreendedores da Rua do Bom Jesus a praticamente fechar bares e restaurantes, a verdade &eacute; que o Recife Antigo, em termos de projeto tur&iacute;stico, praticamente desapareceu.</p></p>
+<p><p>Como registrou esta semana no twitter um recifense saudoso, hoje o bairro &ldquo;s&oacute; tem servido para abrigar com&iacute;cios&rdquo;. Um exagero, sem d&uacute;vida, mas a verdade &eacute; que quase nada restou do muito que se investiu no projeto original.&nbsp;&nbsp; Tirando os &ldquo;com&iacute;cios&rdquo; no Marco Zero que danificam cada dia mais a obra de C&iacute;cero Dias, reproduzida em seu piso, o local s&oacute; &eacute; freq&uuml;entado nos quatro dias de carnaval ou durante shows, em sua maioria, de qualidade duvidosa. Por conta deles a pra&ccedil;a vive em parte ocupada permanentemente por um palco que j&aacute; faz parte da paisagem, descaracterizando-a por completo.</p></p>
+<p><p>Isso sem falar nas cal&ccedil;adas esburacadas, no vexame do esgoto que corre pelas ruas ou nos pedintes que ocupam pra&ccedil;as onde tomam banho nas fontes e fazem suas necessidades fisiol&oacute;gicas &agrave; vista de todos.</p></p>
+<p><p>Espera-se que o pr&oacute;ximo prefeito, cobrado na campanha, reaja a tudo isso e tome o feito &agrave; ordem. At&eacute; porque, apesar de seu projeto tur&iacute;stico e urban&iacute;stico entregue ao abandono, o Recife Antigo foi saudado esta semana pelo jornal O Globo como &ldquo;um novo Vale do Sil&iacute;cio&rdquo; ( local dos Estados Unidos considerado uma ilha de excel&ecirc;ncia na &aacute;rea da computa&ccedil;&atilde;o). Isso tudo por conta de outro projeto implantado por Jarbas no bairro, o Porto Digital, que vem sendo continuado pelo governador Eduardo Campos.</p></p>
+<p><p>O Porto Digital, que poucos recifenses conhecem em profundidade e que teve uma de suas empresas, o CESAR, definida em 2010, pelo Minist&eacute;rio da Ci&ecirc;ncia e Tecnologia, como &ldquo;Melhor Instituto de Ci&ecirc;ncia e Tecnologia do Brasil&rdquo;, abriga hoje o maior n&uacute;mero de engenheiros por metro quadrado no Nordeste. S&atilde;o mas de mil profissionais de software trabalhando em cerca de 100 empresas de tecnologia da informa&ccedil;&atilde;o. S&oacute; o CESAR emprega 500 engenheiros (o dobro dos que o Estaleiro Atl&acirc;ntico Sul ter&aacute; quando estiver em pleno funcionamento) e est&aacute;, permanentemente, em busca de novos profissionais.</p></p>
+<p><p>J&aacute; s&atilde;o clientes das empresas ali instaladas gigantes multinacionais como IBM, Motorola, Samsung e Microsoft. Est&aacute; no CESAR o centro mundial de desenvolvimento de aplicativos para celulares Samsung. Tamb&eacute;m no Porto Digital se encontra o Centro Mundial de Desenvolvimento de aplicativos da Nokia.</p></p>
+<p><p>Ao todo o bairro emprega, s&oacute; no p&oacute;lo de inform&aacute;tica, 4.500 pessoas. Um prefeito n&atilde;o pode ignorar essa realidade e nem desprezar a possibilidade de, por conta do que isso representa e da grande riqueza hist&oacute;rica e cultural do Recife Antigo, transformar o local em um exemplo nacional de casamento entre a tecnologia de ponta e o turismo. As bases est&atilde;o lan&ccedil;adas, &eacute; s&oacute; colocar a m&atilde;o na massa. Os recifenses v&atilde;o agradecer e se orgulhar de tudo isso.</p></p>
+<p><p>CURTAS</p></p>
+<p><p><b>Pulo do Gato</b> &ndash; Tudo indica que o deputado federal Jo&atilde;o Paulo s&oacute; conseguir&aacute; levar avante seu projeto pol&iacute;tico se seguir o exemplo de Jarbas Vasconcelos que, na d&eacute;cada de 90, ao perceber que n&atilde;o teria chance no grupo de Arraes, desligou-se dele, formou uma nova alian&ccedil;a e elegeu-se governador e senador. No PT, a fila j&aacute; andou para Jo&atilde;o Paulo e dificilmente ele estar&aacute; nos planos do partido para cargos majorit&aacute;rios.</p></p>
+<p><p>&nbsp;<br /></p>
+<p><b>De casa</b> . Quem pensava que o deputado Maur&iacute;cio Rands estava no Pal&aacute;cio exclusivamente por obra e gra&ccedil;a do PT deve refazer os c&aacute;lculos. Rands &eacute; primo leg&iacute;timo da primeira-dama Renata Campos. N&atilde;o vai encontrar nenhum empecilho para se enturmar na nova casa, como aconteceu com Jo&atilde;o Paulo. Al&eacute;m disso, Renata atua discretamente, mas tem enorme prest&iacute;gio dentro do Governo</p></p>
+<p><p><b>Pedras portuguesas</b> - Retiradas das ruas do Recife pela PCR, o que causou protesto de historiadores, as pedras portuguesas est&atilde;o fazendo escola em Abreu e Lima. O prefeito Fl&aacute;vio Gadelha est&aacute; urbanizando o entorno da BR-101, que corta o munic&iacute;pio, com esse material que at&eacute; hoje &eacute; mantido, pelo seu valor hist&oacute;rico, no cal&ccedil;ad&atilde;o de Copacabana, no Rio de Janeiro.</p></p>
+<p><p><b>PTC insatisfeito</b> &ndash; O PTC, que fez tr&ecirc;s deputados estaduais, est&aacute; reclamando, abertamente, da falta de espa&ccedil;o na administra&ccedil;&atilde;o do governador Eduardo Campos. O assunto j&aacute; chegou ao gabinete do presidente da Alepe, Guilherme Uchoa, que o levou ao Pal&aacute;cio. O deputado Eriberto Medeiros, comandante do PTC, tem dito que, se o PV vai ter uma secretaria com um &uacute;nico deputado, a legenda, que tem o triplo, mereceria um tratamento semelhante.</p></p>
+<p><p><b>Ivete em Pernambuco</b> &ndash; Embora baiana, a cantora Ivete Sangalo, cujo primo, Domingos S&aacute;vio, &eacute; vice-prefeito de Petrolina, tem planos de investir no setor imobili&aacute;rio petrolinense. J&aacute; teria at&eacute; adquirido terrenos para isso. Ivete &eacute; cidad&atilde; pernambucana. O t&iacute;tulo foi concedido pela Alepe por proposta do falecido deputado Jo&atilde;o Negromonte.</p> </p>
+{% endraw %}

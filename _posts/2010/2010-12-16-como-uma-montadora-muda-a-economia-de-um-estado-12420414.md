@@ -1,0 +1,37 @@
+---
+id: 12420414
+date: "2010-12-16T07:50:00Z"
+last_modified_at: null
+tags:
+  - "como-jogar"
+  - "economia"
+  - "estado"
+  - "montadoras"
+categories:
+  - "noticias"
+title: "Como uma montadora muda a economia de um Estado"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;">Adriana Guarda e Felipe Lima, do Jornal do Commercio</p></p>
+<p><p style="text-align: justify;">A mudan&ccedil;a do mapa industrial de Pernambuco vai ganhar refor&ccedil;o com a implanta&ccedil;&atilde;o de uma montadora da Fiat no Complexo de Suape. Se os especialistas j&aacute; calculavam que o PIB do Estado poder&aacute; triplicar, at&eacute; 2020, com a matura&ccedil;&atilde;o de empreendimentos como refinaria, polo petroqu&iacute;mico e estaleiro, o que esperar de uma economia que passar&aacute; a contar com uma f&aacute;brica de autom&oacute;veis&#63; A instala&ccedil;&atilde;o da Ford, no Polo de Cama&ccedil;ari, na Bahia, e a pr&oacute;pria Fiat, no munic&iacute;pio mineiro de Betim, s&atilde;o dois exemplos do empurr&atilde;o econ&ocirc;mico gerado por empreendimentos estruturadores.<br /></p>
+<p><br /></p>
+<p>Em 2011, a montadora da Ford comemora 10 anos de opera&ccedil;&atilde;o no Complexo de Cama&ccedil;ari. Depois de vencer a disputa com Pernambuco e Rio Grande do Sul, a Bahia conseguiu sediar o empreendimento que, na &eacute;poca, somou um aporte inicial de R$ 800 milh&otilde;es. At&eacute; 2015, a estimativa &eacute; que o volume de recursos aplicados pela companhia alcance R$ 4,5 bilh&otilde;es, com a conclus&atilde;o de um projeto de amplia&ccedil;&atilde;o que est&aacute; em curso.<br /></p>
+<p><br /></p>
+<p>O superintendente de ind&uacute;stria e minera&ccedil;&atilde;o da Secretaria de Ind&uacute;stria, Com&eacute;rcio e Minera&ccedil;&atilde;o da Bahia, Paulo Guimar&atilde;es, lembra que a instala&ccedil;&atilde;o da montadora trouxe, junto com ela, outras 35 empresas da cadeia produtiva. Desse total de sistemistas, pelo menos 27 integram o chamado Complexo Ford, compartilhando o mesmo site industrial, que hoje ocupa uma &aacute;rea de 1,6 milh&atilde;o de metros quadrados. &ldquo;S&atilde;o ind&uacute;strias de autope&ccedil;as, montagem, pintura e tantas outras. Isso sem falar nas outras oito, que incluem f&aacute;bricas de pneus&rdquo;, destaca. O complexo gera nada menos que 8 mil empregos diretos, al&eacute;m de 80 mil indiretos.<br /></p>
+<p><br /></p>
+<p>A montadora da Ford tem capacidade para fabricar 250 mil ve&iacute;culos por ano e o novo investimento de R$ 1,5 bilh&atilde;o na planta vai permitir elevar esse n&uacute;mero para 300 mil. A empresa contribuiu para alavancar a participa&ccedil;&atilde;o do Polo de Cama&ccedil;ari no PIB da Bahia. H&aacute; 32 anos em opera&ccedil;&atilde;o - mesmo tempo de hist&oacute;ria do Porto de Suape - o complexo participa com 32% do PIB. O peso da Ford &eacute; tanto que, do total de 15 mil empregos gerados pelas 90 ind&uacute;strias do polo, mais da metade est&aacute; no site da montadora. A Ford e a Braskem respondem hoje por 70% do faturamento do Polo de Cama&ccedil;ari, que chega a US$ 15 bilh&otilde;es por ano.<br /></p>
+<p><br /></p>
+<p>Para garantir todo esse impacto econ&ocirc;mico, Guimar&atilde;es lembra que o governo do Estado precisou desenhar um programa de incentivos fiscais, que complementaria os benef&iacute;cios concedidos pelo governo federal por meio do regime automotivo para as regi&otilde;es Norte, Nordeste e Centro-Oeste. &ldquo;Ind&uacute;strias do setor automotivo com investimento superior a R$ 800 milh&otilde;es usufrui de isen&ccedil;&atilde;o de ICMS por um per&iacute;odo de 15 anos. Outras que se instalarem com investimento menor ser&atilde;o contempladas por um cr&eacute;dito que varia de 90% a 95%&rdquo;, explica. A ag&ecirc;ncia de fomento da Bahia, a Desenbahia, tamb&eacute;m faz a articula&ccedil;&atilde;o com as institui&ccedil;&otilde;es financeiras para facilitar e baratear os financiamentos banc&aacute;rios para as empresas. A companhia tamb&eacute;m precisou articular a qualifica&ccedil;&atilde;o da m&atilde;o de obra, tendo o Senai como principal parceiro.<br /></p>
+<p><br /></p>
+<p>A unidade da Fiat em Pernambuco projeta investimento inicial de R$ 3 bilh&otilde;es e vai gerar 5 mil empregos. O n&uacute;mero &eacute; mais de tr&ecirc;s vezes superior aos postos de trabalho na opera&ccedil;&atilde;o da Refinaria Abreu e Lima e igual ao do Estaleiro Atl&acirc;ntico Sul.<br /></p>
+<p><br /></p>
+<p>O an&uacute;ncio da montadora da Fiat parece n&atilde;o assustar a concorrente Ford, &uacute;nica instalada no Nordeste. O presidente do grupo, Marcos de Oliveira, afirma que dificilmente alguma montadora chegue com disposi&ccedil;&atilde;o para agregar valor &agrave; regi&atilde;o como a Ford. &ldquo;Tratamos todos como concorr&ecirc;ncia. N&atilde;o importa de onde venham, se americanos, chineses, alem&atilde;es, italianos ou coreanos. Para n&oacute;s o projeto priorit&aacute;rio n&atilde;o &eacute; ganhar mais participa&ccedil;&atilde;o de mercado, e sim aumentar o volume de vendas. Para isso, vamos aplicar R$ 4,5 bilh&otilde;es no Pa&iacute;s at&eacute; 2015. Valor que ser&aacute; empregado em novos produtos e na amplia&ccedil;&atilde;o de nossa capacidade de produ&ccedil;&atilde;o em Cama&ccedil;ari&rdquo;, disparou, em evento de confraterniza&ccedil;&atilde;o com jornalistas na &uacute;ltima quinta-feira. Este ano, a Ford deve fechar 360 mil unidades vendidas.<br /></p>
+<p><br /></p>
+<p>O diretor comercial da Moura Baterias, Luiz Melo, comenta que a implanta&ccedil;&atilde;o de uma montadora melhora o desenvolvimento tecnol&oacute;gico do local onde o empreendimento se instala. &ldquo;Isso ocorre porque uma empresa desse porte exige um n&iacute;vel educacional alto dos seus funcion&aacute;rios, criando tamb&eacute;m um grupo seleto de fornecedores de produtos e servi&ccedil;os que v&atilde;o precisar de uma m&atilde;o de obra especializada.&rdquo; Esse tipo de empresa, segundo Melo, tem que investir muito na capacita&ccedil;&atilde;o da m&atilde;o de obra. &ldquo;O n&iacute;vel tecnol&oacute;gico na popula&ccedil;&atilde;o das cidades que t&ecirc;m uma montadora &eacute; muito maior que nas demais. Como exemplo, isso ocorreu em Cama&ccedil;ari, na Bahia, S&atilde;o Jos&eacute; dos Pinhais, no Paran&aacute;, e em Gravata&iacute;, no Rio Grande do Sul, entre outras.<br /></p>
+<p><br /></p>
+<p>&ldquo;Como o nome diz, uma montadora nunca se implanta sozinha. Ela vai precisar de empresas de alta tecnologia que v&atilde;o se instalar no entorno para fornecer pe&ccedil;as e servi&ccedil;os&rdquo;, conta Melo. Ele argumentou que um empreendimento desse porte vai necessitar de melhorias na infraestrutura - principalmente para escoar a produ&ccedil;&atilde;o, como rodovias e portos -, telecomunica&ccedil;&otilde;es, al&eacute;m de escolas t&eacute;cnicas para formar pessoal qualificado. Pensamento refor&ccedil;ado pela economista T&acirc;nia Bacelar. &ldquo;O tamanho desse impacto depende do perfil do empreendimento&rdquo;, diz. A cadeia automotiva agrega muito valor &agrave; economia. &ldquo;H&aacute; dois anos, a Ford sozinha exportava o valor total de todas as exporta&ccedil;&otilde;es de Pernambuco&rdquo;, citou Bacelar. </p> </p>
+{% endraw %}

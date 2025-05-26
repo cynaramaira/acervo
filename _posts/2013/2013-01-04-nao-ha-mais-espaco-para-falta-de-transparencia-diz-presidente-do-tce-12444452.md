@@ -1,0 +1,58 @@
+---
+id: 12444452
+date: "2013-01-04T14:35:00Z"
+last_modified_at: null
+tags:
+  - "espaco"
+  - "falta"
+  - "naomi-campbell"
+  - "novos"
+  - "prefeitos"
+  - "presidente"
+categories:
+  - "noticias"
+title: "N\u00e3o h\u00e1 mais espa\u00e7o para falta de transpar\u00eancia, diz presidente do TCE aos novos prefeitos"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;"></p>
+<p>	<img alt="" src="https://jc3.uol.com.br/blogs/repositorio/duere.JPG" style="width: 470px; height: 396px;" />Foto: BlogImagem</p></p>
+<p><p style="text-align: justify;"></p>
+<p>	Em artigo enviado &agrave; imprensa, a presidente do Tribunal de Contas do Estado (TCE-PE), Teresa Duere, deu um recado aos prefeitos que iniciaram mandatos no dia 1&ordm; deste m&ecirc;s: &quot;N&atilde;o h&aacute; mais espa&ccedil;o para falta de transpar&ecirc;ncia&quot;. A presidente citou a nova Lei da Transpar&ecirc;ncia (Lei Federal 12.527), que entrou em vigor no ano passado, e obriga as Prefeituras a passar informa&ccedil;&otilde;es para qualquer cidad&atilde;o que solicitar.<br /></p>
+<p>	<br /></p>
+<p>	&quot;Outro dever importante dos novos prefeitos ser&aacute; fazer a efetiva e completa presta&ccedil;&atilde;o de contas de sua gest&atilde;o. N&atilde;o h&aacute; mais espa&ccedil;o para prefeituras criarem obst&aacute;culos aos &oacute;rg&atilde;os que fazem a fiscaliza&ccedil;&atilde;o de recursos p&uacute;blicos. A sociedade, inclusive, j&aacute; est&aacute; come&ccedil;ando a exigir que o controle do dinheiro p&uacute;blico seja feito de forma preventiva, para evitar antecipadamente o desperd&iacute;cio&quot;, diz Teresa no texto.<br /></p>
+<p>	<br /></p>
+<p>	<em>Leia o artigo completo:</em><br /></p>
+<p>	<br /></p>
+<p>	Os desafios dos novos prefeitos<br /></p>
+<p>	<br /></p>
+<p>	Teresa Duere<br /></p>
+<p>	<br /></p>
+<p>	A festa da democracia das elei&ccedil;&otilde;es do ano passado se consumou com a posse dos novos prefeitos, em primeiro de janeiro de 2013. Passadas as comemora&ccedil;&otilde;es, novas quest&otilde;es e responsabilidades se colocam para estes gestores municipais. Os prefeitos empossados, para lograrem &ecirc;xito neste mandato, ter&atilde;o que enfrentar quest&otilde;es in&eacute;ditas.<br /></p>
+<p>	<br /></p>
+<p>	Ser prefeito nunca foi tarefa f&aacute;cil, temos plena ci&ecirc;ncia disso. Al&eacute;m das press&otilde;es locais, dos pr&oacute;prios cidad&atilde;os, os prefeitos v&ecirc;m recebendo uma carga cada vez maior de responsabilidades. Para ficar em poucos exemplos: a Lei de Responsabilidade Fiscal; a colabora&ccedil;&atilde;o (inclusive financeira) com os programas federais de transfer&ecirc;ncia de renda; os ganhos reais do sal&aacute;rio-m&iacute;nimo; e o piso nacional do magist&eacute;rio.<br /></p>
+<p>	<br /></p>
+<p>	Os &oacute;rg&atilde;os de controle, previstos constitucionalmente, como o Tribunal de Contas, t&ecirc;m fiscalizado o cumprimento de todas estas novas responsabilidades dos prefeitos por dever de of&iacute;cio, desde a Constitui&ccedil;&atilde;o de 1988. Devemos lembrar que os &oacute;rg&atilde;os de controles atuam por mandamento constitucional, dado que estas obriga&ccedil;&otilde;es dos prefeitos s&atilde;o criadas por legisla&ccedil;&atilde;o baixada pela Uni&atilde;o, muitas vezes sem a contrapartida necess&aacute;ria de recursos financeiros.<br /></p>
+<p>	<br /></p>
+<p>	Contudo, neste mandato, de janeiro de 2013 at&eacute; dezembro de 2016, os atuais prefeitos ser&atilde;o exigidos em um patamar inegavelmente superior aos que encerraram a gest&atilde;o em dezembro &uacute;ltimo.<br /></p>
+<p>	<br /></p>
+<p>	Os prefeitos empossados, na verdade, ter&atilde;o que cumprir novos deveres e novas formas de exercer antigos deveres, buscando a t&atilde;o sonhada excel&ecirc;ncia na gest&atilde;o p&uacute;blica, ou, como anteriormente se falava, um &ldquo;governo de Primeiro Mundo&rdquo;. Podemos falar em um novo &ldquo;modo de fazer&rdquo; para os gestores municipais, com um impacto de mudan&ccedil;a semelhante ao causado pela Lei de Responsabilidade Fiscal, quando editada em 2000.</p></p>
+<p><p style="text-align: justify;"></p>
+<p>	I- TRANSPAR&Ecirc;NCIA &ndash; N&atilde;o h&aacute; mais espa&ccedil;o na administra&ccedil;&atilde;o p&uacute;blica para a falta de transpar&ecirc;ncia. A nova Lei da Transpar&ecirc;ncia (Lei Federal 12.527), que entrou em vigor no ano passado, ter&aacute; de ser plenamente aplicada pelos novos prefeitos. A grande maioria dos munic&iacute;pios, contudo, est&aacute; deficiente no que diz respeito a esta Lei, que vai muito al&eacute;m da divulga&ccedil;&atilde;o da folha de pagamento na internet. Agora, qualquer cidad&atilde;o pode fazer um pedido de informa&ccedil;&otilde;es &agrave;s prefeituras. Os novos prefeitos n&atilde;o devem encarar isto como intromiss&atilde;o indevida, mas como um novo est&aacute;gio da democracia brasileira. O TCE ir&aacute; fiscalizar o cumprimento da Lei de Transpar&ecirc;ncia, em parceria com os demais &oacute;rg&atilde;os de controle.<br /></p>
+<p>	<br /></p>
+<p>	II - NOVA CONTABILIDADE P&Uacute;BLICA &ndash; As unidades federativas, inclusive os Munic&iacute;pios, ter&atilde;o que se adaptar &agrave; nova contabilidade p&uacute;blica, ou seja, &agrave;s Normas Brasileiras de Contabilidade Aplicadas ao Setor P&uacute;blico, baixadas pelo Conselho Federal de Contabilidade. Esta mudan&ccedil;a na contabilidade p&uacute;blica visa colocar o setor p&uacute;blico brasileiro de acordo com a moderna contabilidade internacional. Com esta nova contabilidade, que ser&aacute; exigida tamb&eacute;m pela Secretaria do Tesouro Nacional, do Minist&eacute;rio da Fazenda, poder&aacute; se evidenciar todo o patrim&ocirc;nio das entidades do setor p&uacute;blico, o ativo e o passivo, a receber e a pagar. Mais do que simples registro, teremos verdadeira gest&atilde;o da informa&ccedil;&atilde;o, uma gest&atilde;o cont&aacute;bil verdadeiramente eficiente.<br /></p>
+<p>	<br /></p>
+<p>	III- PRESTA&Ccedil;&Atilde;O DE CONTAS &ndash; Outro dever importante dos novos prefeitos ser&aacute; fazer a efetiva e completa presta&ccedil;&atilde;o de contas de sua gest&atilde;o. N&atilde;o h&aacute; mais espa&ccedil;o para prefeituras criarem obst&aacute;culos aos &oacute;rg&atilde;os que fazem a fiscaliza&ccedil;&atilde;o de recursos p&uacute;blicos. A sociedade, inclusive, j&aacute; est&aacute; come&ccedil;ando a exigir que o controle do dinheiro p&uacute;blico seja feito de forma preventiva, para evitar antecipadamente o desperd&iacute;cio. Neste caminho, o Tribunal de Contas de Pernambuco economizou, apenas em 2012, mais de R$ 803 milh&otilde;es dos cofres p&uacute;blicos, com suas auditorias concomitantes e de acompanhamento de obras. Ainda, o TCE teve importantes atua&ccedil;&otilde;es que n&atilde;o podem ser avaliadas monetariamente, como o afastamento de prefeitos com den&uacute;ncias de irregularidades &ndash; inclusive casos de gestores que se recusaram a prestar contas aos auditores do TCE. Os prefeitos precisam ter a sensibilidade de que atuar de forma democr&aacute;tica, respeitando &agrave; Constitui&ccedil;&atilde;o Federal, implica em uma gest&atilde;o municipal aberta e colaborativa com o controle externo.<br /></p>
+<p>	<br /></p>
+<p>	IV- MEIO AMBIENTE &ndash; Os novos prefeitos ter&atilde;o de exercer o dever constitucional de defesa do meio ambiente neste mandato. A grande tarefa em mat&eacute;ria ambiental, neste mandato municipal, ser&aacute; a destina&ccedil;&atilde;o do lixo. Infelizmente, este importante tema ficou fora dos debates das elei&ccedil;&otilde;es municipais. Mesmo assim, os prefeitos devem tratar do assunto imediatamente. Sem exageros, &eacute; uma quest&atilde;o urgent&iacute;ssima. A Pol&iacute;tica Nacional de Res&iacute;duos S&oacute;lidos (Lei Federal 12.305/2010) disp&otilde;e que, at&eacute; agosto de 2014, os munic&iacute;pios ter&atilde;o que desativar os &ldquo;lix&otilde;es&rdquo;, tratando os res&iacute;duos prioritariamente em aterros sanit&aacute;rios, de acordo com a legisla&ccedil;&atilde;o federal. &Eacute; preciso lembrar que os prefeitos contam com recursos para enfrentar a quest&atilde;o: o ICMS Ambiental. Este imposto &eacute; transferido pelo Estado aos munic&iacute;pios para fazer frente a despesas ambientais. Os &ldquo;lix&otilde;es&rdquo; dever&atilde;o substitu&iacute;dos por aterros sanit&aacute;rios at&eacute; 2014. A responsabilidade &eacute; dos novos prefeitos.<br /></p>
+<p>	<br /></p>
+<p>	V- SERVI&Ccedil;OS P&Uacute;BLICOS &ndash; O TCE colocou &agrave; disposi&ccedil;&atilde;o da popula&ccedil;&atilde;o de Pernambuco o &ldquo;Portal da Sa&uacute;de&rdquo;, atrav&eacute;s de sua p&aacute;gina na internet. Este instrumento visa fornecer a popula&ccedil;&atilde;o um meio de controle social para avaliar os prefeitos em um importante desafio: a qualidade dos servi&ccedil;os p&uacute;blicos. Os novos prefeitos devem ter consci&ecirc;ncia de que n&atilde;o basta apenas aplicar os percentuais m&iacute;nimos da Constitui&ccedil;&atilde;o em sa&uacute;de e educa&ccedil;&atilde;o. Estes recursos devem resultar efetivamente em qualidade e efici&ecirc;ncia destas pol&iacute;ticas p&uacute;blicas. Os gastos em sa&uacute;de e educa&ccedil;&atilde;o devem se refletir, de forma coerente, na diminui&ccedil;&atilde;o da mortalidade infantil, no saneamento, no atendimento &agrave; gestante, na redu&ccedil;&atilde;o do analfabetismo e nas notas dos exames nacionais escolares, para ficar em alguns exemplos.<br /></p>
+<p>	<br /></p>
+<p>	VI- CONCURSO P&Uacute;BLICO &ndash; Decorridos 24 anos da Constitui&ccedil;&atilde;o de 1988, n&atilde;o h&aacute; mais justificativa para o desrespeito ao instituto do concurso p&uacute;blico. Os Munic&iacute;pios n&atilde;o podem mais conviver com o uso pol&iacute;tico das contrata&ccedil;&otilde;es tempor&aacute;rias e com um excesso de cargos em comiss&atilde;o. O concurso p&uacute;blico &eacute; regra moralizante que concretiza o princ&iacute;pio da impessoalidade. Chegou o momento dos munic&iacute;pios tamb&eacute;m darem este passo em prol da efici&ecirc;ncia no servi&ccedil;o p&uacute;blico. Afinal, a sociedade vem repudiando o uso pol&iacute;tico das vagas no servi&ccedil;o p&uacute;blico. Os novos prefeitos t&ecirc;m como miss&atilde;o cumprir este anseio social, fazendo concursos que atendam efetivamente os princ&iacute;pios da legalidade, moralidade, publicidade e impessoalidade.<br /></p>
+<p>	<br /></p>
+<p>	VII- PREVID&Ecirc;NCIA DOS SERVIDORES P&Uacute;BLICOS &ndash; Do ponto de vista financeiro, este &eacute; o maior problema de grande parte dos novos prefeitos. O passivo de alguns munic&iacute;pios com a previd&ecirc;ncia &eacute; muito alto. A urg&ecirc;ncia da quest&atilde;o se coloca tanto no regime pr&oacute;prio (servidores efetivos), como no regime geral (contratados e comissionados).&nbsp; O TCE n&atilde;o se descuidou da quest&atilde;o nos anos anteriores, pois rejeitou as contas dos gestores que cometeram irregularidades na gest&atilde;o da previd&ecirc;ncia, aplicando todas as puni&ccedil;&otilde;es que eram de sua atribui&ccedil;&atilde;o. Em alguns munic&iacute;pios, podemos afirmar que h&aacute; um rombo previdenci&aacute;rio que pode ser chamado de &ldquo;bomba-rel&oacute;gio&rdquo;. Infelizmente, nestas irregularidades, o TCE s&oacute; pode atuar at&eacute; onde a Constitui&ccedil;&atilde;o Federal lhe permitia. Falando claramente, s&atilde;o os novos prefeitos que t&ecirc;m o dever constitucional de resolver estes passivos previdenci&aacute;rios, pois os servidores municipais t&ecirc;m seus direitos e precisam contar no futuro com as suas aposentadorias.</p></p>
+<p></p>
+{% endraw %}

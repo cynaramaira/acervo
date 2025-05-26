@@ -1,0 +1,36 @@
+---
+id: 12424980
+date: "2011-04-08T16:00:00Z"
+last_modified_at: null
+tags:
+  - "univasf"
+categories:
+  - "noticias"
+title: "Cotas para a Univasf"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><img height="497" width="420" alt="" src="https://jc3.uol.com.br/blogs/repositorio/camisa%20branca_bx.jpg" /></p></p>
+<p><p>Por Terezinha Nunes</p></p>
+<p><p>Criada atrav&eacute;s da Lei N&ordm; 10.473 de julho de 2002, na gest&atilde;o do ex-presidente Fernando Henrique Cardoso, e inaugurada pelo ex-presidente Lula da Silva, a Univasf &ndash; Universidade Federal do Vale do S&atilde;o Francisco - atualmente abrigando 13 cursos e com mais de 2 mil alunos matriculados, foi um sonho de d&eacute;cadas tornado realidade atrav&eacute;s da impetuosa e perseverante atua&ccedil;&atilde;o do povo do S&atilde;o Francisco e de batalhadores incans&aacute;veis,sendo o mais expressivo deles o ex-deputado federal Oswaldo Coelho.</p></p>
+<p><p>Pela movimenta&ccedil;&atilde;o que criou em torno dos seus campus, sediados em Petrolina (2), Juazeiro e Senhor do Bonfim (Bahia) e S&atilde;o Raimundo Nonato (Piau&iacute;), a Univasf tem gerado emprego e renda em toda a &aacute;rea citada e movimentado os munic&iacute;pios, incluindo a rede hoteleira e o mercado imobili&aacute;rio, por conta da alta concentra&ccedil;&atilde;o dos estudantes. H&aacute; um ano, por&eacute;m, a popula&ccedil;&atilde;o de Petrolina e Juazeiro, sobretudo, vem sentindo que nem tudo s&atilde;o flores e que a sonhada Universidade tamb&eacute;m trouxe problemas. O principal foi a distor&ccedil;&atilde;o criada com a ado&ccedil;&atilde;o do ENEM pelo atual reitor, Jos&eacute; Weber Freire Macedo, como sele&ccedil;&atilde;o &uacute;nica para ingresso na Univasf.</p></p>
+<p><p>O resultado foi arrasador: em 2010 s&oacute; tr&ecirc;s estudantes da regi&atilde;o conseguiram ingressar no Curso de Medicina, o mais cobi&ccedil;ado, e com 80 vagas anuais. Na sele&ccedil;&atilde;o de 2011 o problema se repetiu. Agora, at&eacute; mesmo a Reitoria reconhece que menos de 15% das vagas de Medicina est&atilde;o ocupadas por estudantes do S&atilde;o Francisco.</p></p>
+<p><p>Por conta desta realidade que se espalha por outros cursos, principalmente os de engenharia, vem sendo posta em discuss&atilde;o uma sa&iacute;da para que o sonho dos pioneiros como Oswaldo Coelho, o de criar uma Universidade que realmente atendesse ao S&atilde;o Francisco, seja alcan&ccedil;ado.</p></p>
+<p><p>H&aacute; duas propostas em discuss&atilde;o: a cria&ccedil;&atilde;o de Cotas no Vestibular para alunos provenientes de escolas da regi&atilde;o ou a realiza&ccedil;&atilde;o de uma sele&ccedil;&atilde;o inicial via ENEM e de uma segunda fase, como fazem por exemplo a UFPE e a UFRPE, para que se desestimule estudantes de outras regi&otilde;es &ndash; inclusive do Sul e Sudeste &ndash; a buscar vaga em Petrolina.</p></p>
+<p><p>No momento, como a sele&ccedil;&atilde;o &eacute; apenas pelo ENEM, os estudantes do Sul, Sudeste, Norte e Centro-Oeste muitas vezes nem conhecem Petrolina e s&atilde;o brindados com uma vaga num curso de Medicina, inteiramente gratuito. Isto sem falar nos de Engenharia, Enfermagem, Direito e outros cursos igualmente concorridos.</p></p>
+<p><p>A disputa por uma vaga de Medicina no ensino p&uacute;blico brasileiro &eacute; tanta que no &uacute;ltimo vestibular, via ENEM, o Curso de Medicina da Univasf foi o quarto mais disputado do pa&iacute;s, com&nbsp; 60,93 alunos concorrendo a cada uma de suas vagas.</p></p>
+<p><p>O reitor tem se colocado contr&aacute;rio &agrave; cria&ccedil;&atilde;o de cotas e a outras mudan&ccedil;as no Vestibular, usando um argumento inteiramente acad&ecirc;mico: &ldquo;Esta &eacute; uma Universidade Federal, portanto, as vagas s&atilde;o destinadas aos melhores alunos do pa&iacute;s que quiserem estudar aqui&rdquo; &ndash; como afirmou ao blog de Carlos Britto.</p></p>
+<p><p>Os pais de alunos da Univasf residentes na regi&atilde;o t&ecirc;m organizado protestos mas ainda n&atilde;o conseguiram o encaminhamento de uma solu&ccedil;&atilde;o. Contam para isso com o apoio do prefeito de Petrolina J&uacute;lio L&oacute;ssio: &ldquo;Precisamos regionalizar o Vestibular da Univasf sob pena de o Vale do S&atilde;o Francisco n&atilde;o poder usufruir devidamente de um investimento t&atilde;o sonhado por sua popula&ccedil;&atilde;o&rdquo;, afirma L&oacute;ssio.</p></p>
+<p><p>Na verdade, al&eacute;m de estarem tirando as vagas dos estudantes locais, os alunos de fora, quando formados, voltam para suas cidades de origem e o S&atilde;o Francisco continua com a car&ecirc;ncia de profissionais quase igual &agrave; que possu&iacute;a antes da universidade ser implantada. Por enquanto, al&eacute;m do aquecimento do mercado imobili&aacute;rio, os alunos de outras regi&otilde;es s&oacute; tem trazido um benef&iacute;cio para os petrolinenses: como usam muito o avi&atilde;o para passar finais de semana e feriados em seus estados de origem, a frequ&ecirc;ncia de voos no Aeroporto de Petrolina quase triplicou do in&iacute;cio de 2010 at&eacute; agora.</p></p>
+<p><p>Curtas</p></p>
+<p><p><b>Distor&ccedil;&atilde;o</b></p></p>
+<p><p>A Prefeitura do Recife, ao que tudo indica, est&aacute; confundindo a necessidade de revitaliza&ccedil;&atilde;o do Recife Antigo com a realiza&ccedil;&atilde;o de shows. Na verdade, apesar de promo&ccedil;&otilde;es como Festival da Seresta e Dan&ccedil;ando na Rua terem sido criadas na gest&atilde;o do governador Jarbas Vasconcelos, a revitaliza&ccedil;&atilde;o iniciada na &eacute;poca pela Rua do Bom Jesus foi muito mais uma quest&atilde;o de controle urbano, obras de saneamento e atra&ccedil;&atilde;o de novos investidores, principalmente no ramo de bares e restaurantes. Quem limitou o bairro a shows, acabando com o processo de recupera&ccedil;&atilde;o do local foi a administra&ccedil;&atilde;o do PT.</p></p>
+<p><p><b>Buracos</b></p></p>
+<p><p>Jos&eacute; Dirceu, que esteve esta semana em Itapetim, n&atilde;o quis correr o risco de trafegar pelas esburacadas estradas do sert&atilde;o do Paje&uacute;. Preferiu aterrisar no munic&iacute;pio de Patos, na Para&iacute;ba, e ir de carro at&eacute; Itapetim. Mesmo assim, para evitar vexames, os prefeitos de Brejinho, Jos&eacute; Wanderley da Silva, e o de Itapetim, Adelmo Moura, ambos governistas, fizeram um tapa-buracos na estrada que liga os dois munic&iacute;pios para que a comitiva de Dirceu n&atilde;o enfrentasse dificuldades ou ficasse exposta aos acidentes que s&atilde;o constantes na regi&atilde;o por conta da m&aacute; conserva&ccedil;&atilde;o das estradas.</p></p>
+<p><p><b>Prefeituras</b></p></p>
+<p><p>A m&aacute; avalia&ccedil;&atilde;o dos prefeitos de Afogados da Ingazeira, Totonho Valadares, e de S&atilde;o Jos&eacute; do Egito, Evandro Valadares (os dois s&atilde;o primos) est&atilde;o animando as oposi&ccedil;&otilde;es nos munic&iacute;pios, j&aacute; que os dois administradores j&aacute; ficaram oito anos nos cargos. Em Afogados cresce o nome da ex-prefeita Gisa Sim&otilde;es. Em S&atilde;o Jos&eacute; do Egito, h&aacute; cerca de seis pr&eacute;-candidatos de oposi&ccedil;&atilde;o, indo do PSDB ao PT. A escolha recair&aacute; sobre o que melhor estiver posicionado nas pesquisas na &eacute;poca da elei&ccedil;&atilde;o.<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

@@ -1,0 +1,71 @@
+---
+id: 12447253
+date: "2013-04-09T14:05:00Z"
+last_modified_at: null
+tags:
+  - "alimentacao"
+  - "auxilio"
+  - "marcos-pontes"
+  - "miranda-lambert"
+  - "mppe"
+  - "salvador"
+categories:
+  - "noticias"
+title: "O aux\u00edlio-alimenta\u00e7\u00e3o retroativo do MPPE, nem Pontes de Miranda salva"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p></p>
+<p>	<img alt="" src="https://jc3.uol.com.br/blogs/repositorio/_coluna_noelia.JPG" style="width: 480px; height: 429px;" />Foto: Clemilson Campos/JC Imagem</p></p>
+<p><p></p>
+<p>	Por No&eacute;lia Brito, especial para o <strong>Blog de Jamildo</strong><br /></p>
+<p>	<br /></p>
+<p>	Quem pensava que a novela sobre o chamado pagamento retroativo do aux&iacute;lio-alimenta&ccedil;&atilde;o para membros do Minist&eacute;rio P&uacute;blico, autorizado recentemente pelo Procurador Geral de Justi&ccedil;a, Aguinaldo Fenelon, havia se encerrado, enganou-se redondamente.<br /></p>
+<p>	<br /></p>
+<p>	Duas recentes decis&otilde;es do Conselho Nacional de Justi&ccedil;a podem jogar mais lenha nessa fogueira. &Eacute; que no ultimo dia 04 de abril, o Conselheiro Bruno Dantas, do CNJ, deferiu uma liminar no Procedimento de Controle Administrativo n&ordm; 0001479-04.2013.2.00.0000, determinando a suspens&atilde;o do pagamento de benesse da mesma natureza, em car&aacute;ter retroativo para os Ju&iacute;zes da Para&iacute;ba. L&aacute;, a despesa giraria em torno de R$ 8,5 milh&otilde;es. A mesma determina&ccedil;&atilde;o foi dada contra o pagamento de aux&iacute;lio-alimenta&ccedil;&atilde;o para os ju&iacute;zes de Santa Catarina, onde o contribuinte arcaria, como, de fato arcou, pois a liminar foi dada ap&oacute;s o pagamento, com R$ 28 milh&otilde;es em benef&iacute;cios retroativos.<br /></p>
+<p>	<br /></p>
+<p>	Como j&aacute; foi amplamente divulgado pela m&iacute;dia local, o pagamento de aux&iacute;lio-alimenta&ccedil;&atilde;o retroativo, para os membros do Minist&eacute;rio P&uacute;blico de Pernambuco, j&aacute; jocosamente chamado de aux&iacute;lio-lagosta, custar&aacute; aos contribuintes pernambucanos a bagatela de R$ 24,3 milh&otilde;es, uma m&eacute;dia de R$ 65 mil para cada um dos 362 membros da institui&ccedil;&atilde;o.<br /></p>
+<p>	<br /></p>
+<p>	H&aacute; poucos dias, a Ordem do Advogados do Brasil tamb&eacute;m ingressou com uma A&ccedil;&atilde;o Direta de Inconstitucionalidade contra o pagamento da verba indenizat&oacute;ria, porque foi criada por uma decis&atilde;o administrativa, portanto, seu pagamento n&atilde;o tem, sequer, previs&atilde;o em lei. O relator da ADI 4926 ser&aacute; o Ministro Ricardo Lewandowiski.<br /></p>
+<p>	<br /></p>
+<p>	Ao lermos o fundamento da decis&atilde;o do CNJ que determinou a suspens&atilde;o do pagamento retroativo do aux&iacute;lio-alimenta&ccedil;&atilde;o para os membros do Judici&aacute;rio paraibano, percebemos com clareza meridiana o quanto &eacute; imoral o pagamento da mesma benesse aos membros do Minist&eacute;rio P&uacute;blico de Pernambuco. Ali&aacute;s, n&atilde;o precisamos de maiores exerc&iacute;cios mentais para perceber que tal pagamento foge, inclusive, ao pr&oacute;prio bom senso e ao sentido da pr&oacute;pria raz&atilde;o de ser do benef&iacute;cio.<br /></p>
+<p>	<br /></p>
+<p>	O relator, Conselheiro Bruno Dantas, afirma que &ldquo;existem in&uacute;meros precedentes no sentido de que verbas que ostentam natureza alimentar n&atilde;o podem ser pagas retroativamente&rdquo; e o aux&iacute;lio-alimenta&ccedil;&atilde;o dos promotores e procuradores de Justi&ccedil;a de Pernambuco se n&atilde;o tem, deveria ter, natureza alimentar, sen&atilde;o estaremos diante de grave simula&ccedil;&atilde;o.<br /></p>
+<p>	<br /></p>
+<p>	O Conselheiro Bruno Dantas prossegue explicando o que deveria ser o &oacute;bvio. Diz que &ldquo;a necessidade fisiol&oacute;gica que fundamenta o direito &agrave; percep&ccedil;&atilde;o de verba de car&aacute;ter alimentar n&atilde;o se protrai no tempo, de modo que seu pagamento extempor&acirc;neo esvazia por completo a utilidade e a legitimidade da medida.&rdquo;<br /></p>
+<p>	<br /></p>
+<p>	Da&iacute; porque, prossegue o Conselheiro Bruno Dantas, h&aacute; que se vislumbrar &ldquo;densa plausibilidade na impossibilidade de se efetuar pagamentos, a esse t&iacute;tulo, de modo retroativo.&rdquo; Segundo ele, reservadas as devidas propor&ccedil;&otilde;es, &ldquo;&eacute; o mesmo que se verifica na hip&oacute;tese de inadimplemento de alimentos, na qual o rito especial com pedido de pris&atilde;o s&oacute; incide sobre as parcelas devidas nos &uacute;ltimos tr&ecirc;s meses, posto que as presta&ccedil;&otilde;es vencidas e n&atilde;o pagas durante um per&iacute;odo prolongado, quando reclamadas depois, j&aacute; n&atilde;o mais exercem fun&ccedil;&atilde;o alimentar.<br /></p>
+<p>	<br /></p>
+<p>	Na hip&oacute;tese dos autos eletr&ocirc;nicos, eventuais verbas pagas retroativamente, por n&atilde;o possu&iacute;rem mais a natureza aliment&iacute;cia, seriam utilizadas para outras finalidades, desvirtuando a natureza jur&iacute;dica do aux&iacute;lio-alimenta&ccedil;&atilde;o.&rdquo;<br /></p>
+<p>	<br /></p>
+<p>	O Conselheiro continua, ainda, advertindo que o pagamento retroativo de aux&iacute;lio-alimenta&ccedil;&atilde;o representa &ldquo;risco concreto&rdquo; de &ldquo;flagrante preju&iacute;zo ao er&aacute;rio de dif&iacute;cil ou imposs&iacute;vel repara&ccedil;&atilde;o&rdquo;, da&iacute; porque deferiu a liminar mandando suspender o pagamento.<br /></p>
+<p>	<br /></p>
+<p>	O que mais chama a aten&ccedil;&atilde;o nesse caso &eacute; que uma institui&ccedil;&atilde;o que ostenta, dentre suas principais atribui&ccedil;&otilde;es, a de &ldquo;fiscal da lei&rdquo;, esteja envolta em situa&ccedil;&atilde;o t&atilde;o embara&ccedil;osa como a que ora se apresenta e por quest&otilde;es de natureza financeira, justo em se tratando de categoria que figura dentre as mais bem remuneradas do Servi&ccedil;o P&uacute;blico e ainda digo que, na maioria de seus membros, com o devido merecimento. Mas isso n&atilde;o justifica a utiliza&ccedil;&atilde;o de tais artif&iacute;cios que s&oacute; dep&otilde;em contra o bom nome da pr&oacute;pria institui&ccedil;&atilde;o. Pois h&aacute; meios e meios e se h&aacute; merecimento, nem por isso o fim, que &eacute; bem remunerar o bom servi&ccedil;o prestado, pode ser daquele tipo que desmoralize quem o presta.<br /></p>
+<p>	<br /></p>
+<p>	O poder de fiscalizar a lei n&atilde;o pode virar pretexto para que institui&ccedil;&otilde;es pensem poder posicionar-se acima ou ao largo da pr&oacute;pria lei. Muito pelo contr&aacute;rio. H&aacute; que ser ela, a lei e sua irm&atilde; siamesa, a moralidade, os dois pilares de sustenta&ccedil;&atilde;o dessas institui&ccedil;&otilde;es.<br /></p>
+<p>	<br /></p>
+<p>	O caso do pagamento de aux&iacute;lio-alimenta&ccedil;&atilde;o pela gest&atilde;o do atual Procurador de Justi&ccedil;a de Pernambuco, Aguinaldo Fenelon, j&aacute; p&ocirc;s em risco at&eacute; a aprova&ccedil;&atilde;o desuas contas pelo Tribunal de Contas do Estado, falo das relativas ao exerc&iacute;cio de 2011. Voc&ecirc;s j&aacute; imaginaram o vexame, n&atilde;o s&oacute; para a institui&ccedil;&atilde;o, Minist&eacute;rio P&uacute;blico, mas para o pr&oacute;prio Estado de Pernambuco, se o Procurador Geral de Justi&ccedil;a tiver suas contas rejeitadas por fazer pagamentos de vantagens indevidas a procuradores, promotores e servidores&#63; Com que moral, com todo respeito, esses mesmos procuradores e promotores promover&atilde;o a&ccedil;&otilde;es de improbidade contra prefeitos, vereadores, deputados, contra o governador ou contra qualquer gestor que fa&ccedil;a o mesmo e tenha suas contas rejeitadas pelo TCE&#63; Podem at&eacute; ter legitimidade do ponto de vista legal e &eacute; claro que ter&atilde;o. Mas &eacute; preciso ter moral perante o povo que &eacute; representado pelo membro do Minist&eacute;rio P&uacute;blico, quando este aju&iacute;za uma a&ccedil;&atilde;o em nome desse mesmo povo, pois s&oacute; assim este se sentir&aacute; verdadeiramente representado.<br /></p>
+<p>	<br /></p>
+<p>	As contas do Procurador de Justi&ccedil;a Aguinaldo Fenelon, relativas ao exerc&iacute;cio de 2011, foram aprovadas, COM RESSALVA, porque &ldquo;No que concerne ao pagamento indevido de complemento de Vale-alimenta&ccedil;&atilde;o (item 5.3 do Relat&oacute;rio de Auditoria, fls. 453 a 455), a auditoria aponta que: O MPPE custeou, ao final de 2011, complemento financeiro ao valor que mensalmente &eacute; pago ao seu quadro de servidores a t&iacute;tulo de aux&iacute;lio-alimenta&ccedil;&atilde;o e a servidores de outros &oacute;rg&atilde;os cedidos ao MPPE a t&iacute;tulo de aux&iacute;lio-refei&ccedil;&atilde;o (ambos de natureza indenizat&oacute;ria) quando o referido complemento s&oacute; deveria ser custeado se o benef&iacute;cio tivesse natureza salarial.&rdquo;<br /></p>
+<p>	<br /></p>
+<p>	Mesmo constatando que o Minist&eacute;rio P&uacute;blico, leia-se a gest&atilde;o do Procurador Geral de Justi&ccedil;a, Dr. Aguinaldo Fenelon, n&atilde;o comprovou ter sanado as irregularidades apontadas pela auditoria, o TCE foi bastante camarada e n&atilde;o rejeitou suas contas, o que o transformaria num &ldquo;Ficha Suja&rdquo;, alegando que a auditoria n&atilde;o comprovou o &ldquo;quantum&rdquo; do eventual preju&iacute;zo causado ao Er&aacute;rio, pelo pagamento indevido feito, a t&iacute;tulo de aux&iacute;lio-alimenta&ccedil;&atilde;o, a servidores do MPPE: &ldquo;De fato, verifico nos autos que a defesa n&atilde;o apresentou documenta&ccedil;&atilde;o comprobat&oacute;ria capaz de sanar a impropriedade. Contudo, a equipe t&eacute;cnica n&atilde;o trouxe evid&ecirc;ncias f&aacute;ticas de poss&iacute;vel preju&iacute;zo ocasionado ao er&aacute;rio p&uacute;blico, tampouco quantificou o que aponta como &lsquo;pagamento indevido&rsquo;, raz&atilde;o pela qual qual entendo que tal falha deve ficar no campo das recomenda&ccedil;&otilde;es.&rdquo;<br /></p>
+<p>	<br /></p>
+<p>	O pr&oacute;prio Procurador Geral confessou, em entrevistas que esse mimo dado aos procuradores e promotores e agora sabemos,tamb&eacute;m aos servidores, inclusive aos cedidos por outros &oacute;rg&atilde;os, em preju&iacute;zo dos que passaram no &uacute;ltimo concurso promovido pela institui&ccedil;&atilde;o, conforme percebemos pela leitura da decis&atilde;o que citei anteriormente, lan&ccedil;ada no processo TC N&ordm; 1202560-4, pela Segunda C&acirc;mara do TCE, em Sess&atilde;o realizada no dia 20.12.2012, teve como finalidade repor perdas salariais. Isso quer dizer que, na verdade, n&atilde;o se trata de verba indenizat&oacute;ria, n&atilde;o se trata de aux&iacute;lio-alimenta&ccedil;&atilde;o e tanto isso &eacute; verdade que os benefici&aacute;rios sequer s&atilde;o obrigados &agrave; comprova&ccedil;&atilde;o de como utilizam tais recursos.<br /></p>
+<p>	<br /></p>
+<p>	Ora, se n&atilde;o se trata de verba indenizat&oacute;ria, mas de reposi&ccedil;&atilde;o salarial, mais forte se mostra o argumento da ADI 4926, movida pela OAB, contra a benesse e mais absurda ainda se mostra a decis&atilde;o do TCE em n&atilde;o rejeitar as contas de 2011, sob o argumento de que o preju&iacute;zo ao Er&aacute;rio n&atilde;o pode ser levantado.<br /></p>
+<p>	<br /></p>
+<p>	Voltando &agrave; decis&atilde;o do TCE, observamos que na pr&oacute;pria Recomenda&ccedil;&atilde;o est&aacute; expresso que o Procurador Geral de Justi&ccedil;a, a partir de 2012, dever&aacute; &ldquo;Evitar custear complementos de verbas indenizat&oacute;rias que n&atilde;o componham a base de c&aacute;lculo do Imposto de Renda Pessoa F&iacute;sica, quando submetidas ao regime de doze parcelas anuais.&rdquo;<br /></p>
+<p>	<br /></p>
+<p>	Ora, se o TCE constatou que foram pagas verbas que deveriam ser submetidas ao pagamento de imposto de renda, mas que foram mascaradas para que tal desconto fosse evitado, tanto que recomendou que tal pr&aacute;tica fosse &ldquo;evitada&rdquo; dali em diante, como pode, na mesma decis&atilde;o, sustentar que n&atilde;o foi poss&iacute;vel verificar a ocorr&ecirc;ncia de preju&iacute;zos ao Er&aacute;rio, nem o total desse preju&iacute;zo&#63;<br /></p>
+<p>	<br /></p>
+<p>	E como &eacute; poss&iacute;vel, mesmo ap&oacute;s uma recomenda&ccedil;&atilde;o dessa natureza e ainda por cima, t&atilde;o s&eacute;ria, que pode redundar, inclusive, em uma a&ccedil;&atilde;o fiscal da Receita Federal, a pr&aacute;tica vedada pelo TCE, ser repetida pelo Procurador Geral de Justi&ccedil;a, passados poucos meses da recomenda&ccedil;&atilde;o do Tribunal de Contas em sentido contr&aacute;rio&#63;<br /></p>
+<p>	<br /></p>
+<p>	Penso que a Receita Federal deveria ter sido, necessariamente, notificada pelo relator do processo de presta&ccedil;&atilde;o de Contas acima mencionado, mas sempre &eacute; tempo para corrigir as omiss&otilde;es, pelo menos enquanto n&atilde;o houver a decad&ecirc;ncia do direito de a Secretaria da Receita Federal lan&ccedil;ar o imposto eventualmente devido pelos eventuais benefici&aacute;rios dessa e de quaisquer omiss&otilde;es.<br /></p>
+<p>	<br /></p>
+<p>	O que impressiona &eacute; como o tal aux&iacute;lio-alimenta&ccedil;&atilde;o do Minist&eacute;rio P&uacute;blico &eacute; multifacetado. Quando &eacute; para n&atilde;o entrar na base de c&aacute;lculo do imposto de renda, tem natureza indenizat&oacute;ria, j&aacute; quando &eacute; para ser pago retroativamente adquire natureza salarial. Uma coisa &eacute; certa, seja sal&aacute;rio ou subs&iacute;dio, seja indeniza&ccedil;&atilde;o, em nenhuma hip&oacute;tese foi criado por lei, mas como bem acentuado na A&ccedil;&atilde;o de Inconstitucionalidade j&aacute; ajuizada pela OAB, &eacute; fruto de uma sucess&atilde;o de remiss&otilde;es a remiss&otilde;es a Resolu&ccedil;&otilde;es de Resolu&ccedil;&otilde;es, que s&atilde;o de causar rubor at&eacute; nos que militam ali do outro lado da pista, onde fica a gloriosa Casa de Tobias Barreto.<br /></p>
+<p>	&nbsp;</p></p>
+<p></p>
+{% endraw %}

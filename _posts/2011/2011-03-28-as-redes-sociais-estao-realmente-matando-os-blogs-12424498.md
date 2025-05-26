@@ -1,0 +1,37 @@
+---
+id: 12424498
+date: "2011-03-28T14:08:00Z"
+last_modified_at: null
+tags:
+  - "blogs-jc"
+  - "redes-sociais"
+categories:
+  - "noticias"
+title: "As redes sociais est\u00e3o realmente matando os blogs?"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Cl&aacute;udia Valls, no site Comunique-se</p></p>
+<p><p>Um artigo do New York Times vaticinou que os blogs est&atilde;o perdendo espa&ccedil;o para as redes sociais. Trata-se de uma meia verdade: de 2006 a 2009, a atividade de blogar caiu pela metade entre os adolescentes de 12 a 17 anos; atualmente, apenas 14% destes adolescentes t&ecirc;m um blog. Entre os jovens de 18 a 33 anos, 2% deixaram de manter um blog em rela&ccedil;&atilde;o aos anos anteriores. Entretanto, apesar do que nos dizem os resultados da pesquisa da Pew Report, houve um aumento de 25% de adultos blogando em rela&ccedil;&atilde;o ao per&iacute;odo estudado. Esta previs&atilde;o &ndash; a morte dos blogs - ronda a web desde o surgimento do Facebook e do Twitter. Da mesma forma que pensaram que a televis&atilde;o &quot;mataria&quot; o cinema e a internet aniquilaria todas as outras m&iacute;dias, n&atilde;o acredito nesta verdade apocal&iacute;ptica.</p></p>
+<p><p>Vejamos alguns dados que embasam minha opini&atilde;o: <br /></p>
+<p>- S&atilde;o nos blogs que as melhores discuss&otilde;es acontecem;<br /></p>
+<p>- Os blogueiros usam outras ferramentas de redes sociais para atrair mais leitores para seus blogs;<br /></p>
+<p>- Os blogs s&atilde;o as &uacute;nicas m&iacute;dias que ajudam os usu&aacute;rios a serem encontrados, juntamente com seus textos, v&aacute;rios dias depois de publicados;</p></p>
+<p><p>- A utiliza&ccedil;&atilde;o de blogs est&aacute; crescendo entre adultos maiores de 34 anos - os internautas de 34 a 45 anos fizeram com que os blogs tivessem um crescimento de 6% em rela&ccedil;&atilde;o a 2008 e 2009. Entre os de 46 a 55 anos, o crescimento foi de 5%, enquanto que entre os &quot;coroas&quot; de mais de 65 anos houve um crescimento de 2%.</p></p>
+<p><p>Por falar em n&uacute;meros, li na coluna da Andr&eacute;a Dunningham &ndash; Mercado Digital &ndash; que a ComScore, empresa de pesquisas do universo da web, divulgou um estudo no in&iacute;cio de fevereiro que revela um crescimento de internautas no Brasil justamente entre os mais velhos (entre 45 e 54 anos) e que a audi&ecirc;ncia dos blogs, em particular, &eacute; 21 pontos maior do que o restante do mundo (71% contra 50% da m&eacute;dia dos outros pa&iacute;ses).</p></p>
+<p><p>Segundo Elisa Camahort Page, co-fundadora do site BlogHer, &quot;Se voc&ecirc; est&aacute; buscando uma conversa com conte&uacute;do, voc&ecirc; procura um blog. Ningu&eacute;m achar&aacute; o mesmo no Facebook ou nos 140 caracteres do Twitter &quot;.</p></p>
+<p><p>Aparentemente, Toni Schneider, da empresa Automattic, concorda com a afirma&ccedil;&atilde;o de que os blogueiros utilizam as ferramentas das m&iacute;dias sociais para promoverem seus pr&oacute;prios blogs. Ele disse que esses &quot;escritores&quot; virtuais usam com frequ&ecirc;ncia tanto o Facebook quanto o Twitter para badalarem seus sites e aumentarem sua audi&ecirc;ncia. N&atilde;o se trata de competi&ccedil;&atilde;o entre m&iacute;dias, como se pode pensar, mas de um complemento das mesmas. &quot;H&aacute; muita fragmenta&ccedil;&atilde;o&quot;, afirma Schneider, &quot;mas, neste ponto, qualquer um que leve seu blog a s&eacute;rio est&aacute; usando v&aacute;rios tipos de m&iacute;dia para aumentar seu tr&aacute;fego&quot;.</p></p>
+<p><p>Em seu artigo no NYT, o articulista Verne Kopytoff n&atilde;o cita que os blogs s&atilde;o &oacute;timas ferramentas de marketing. Se voc&ecirc; procurar alguma valida&ccedil;&atilde;o sobre este t&oacute;pico, poder&aacute; perceber que o blog proporciona uma exposi&ccedil;&atilde;o que, nem o Facebook, nem o Twitter, oferecem. Eis os motivos: <br /></p>
+<p>- blogs ajudam as pessoas (clientes, f&atilde;s, consumidores) que n&atilde;o o conhecem a descobri-lo.<br /></p>
+<p>- blogs refor&ccedil;am sua marca para os indiv&iacute;duos que talvez j&aacute; tenham ouvido falar de voc&ecirc;, mas ainda n&atilde;o tenham feito contato.<br /></p>
+<p>- blogs auxiliam a manter sua audi&ecirc;ncia atualizada para que possam compartilhar informa&ccedil;&otilde;es com outros leitores que, potencialmente, tenham interesse em voc&ecirc; ou em sua marca.</p></p>
+<p><p>Poder&iacute;amos dizer que o correto seria dizer que os blogs est&atilde;o em decl&iacute;nio entre os jovens - e somente entre os jovens - pois sua queda mais significante se deu entre adolescentes. O que interessa para essa garotada &eacute; manter-se em contato com os amigos e familiares - coisa que o Facebook faz com extrema compet&ecirc;ncia. Apesar do t&iacute;tulo pessimista da mat&eacute;ria do NYT, trata-se muito mais de uma mensura&ccedil;&atilde;o de dados de uma pesquisa do que o an&uacute;ncio da morte dos blogs. Mas, para algu&eacute;m (como eu), com mais de 34 anos, devo dizer que nada me faz sentir t&atilde;o obsoleta do que perceber que os h&aacute;bitos e comportamentos de v&aacute;rias gera&ccedil;&otilde;es - Gera&ccedil;&atilde;o X, jovens Boomers e Boomers mais velhos - n&atilde;o contam, em rela&ccedil;&atilde;o ao que fazem os teens.</p></p>
+<p><p>O fundador e desenvolvedor do Wordpress, Matt Mullenweg, considerou alguns pontos da reportagem: &quot;O t&iacute;tulo provavelmente foi escrito por um editor, e n&atilde;o pelo autor, porque logo que o artigo trata dos dois adolescentes que preferem o Facebook aos blogs, as estat&iacute;sticas mostram o crescimento de todos os principais servi&ccedil;os de blog &ndash; mesmo o Blogger, cujos n&uacute;mero de visitantes globais &uacute;nicos cresceu 9% ( 323 milh&otilde;es de pessoas), &quot;o que significa que cresceu cerca de seis Foursquares s&oacute; no ano passado (no mesmo per&iacute;odo, WordPress.com cresceu cerca de 80 milh&otilde;es de visitantes &uacute;nicos de acordo com o QuantCast).&quot; Na realidade, o Wordpress teve mais de seis milh&otilde;es de blogs criados somente em 2010 e suas pageviews cresceram em 53%.</p></p>
+<p><p>Uma boa met&aacute;fora &eacute; fazer a seguinte compara&ccedil;&atilde;o: blogs s&atilde;o o jantar, enquanto o Facebook e Twitter s&atilde;o a sobremesa. Todo mundo adora sobremesa, porque &eacute; doce e sexy. Isto &eacute; particularmente verdade quando se trata de crian&ccedil;as, que ir&atilde;o apressar o jantar ou n&atilde;o com&ecirc;-lo em absoluto, porque est&atilde;o muitos animados com a guloseima. De certa forma, seu comportamento sobre a sobremesa explica o seu (n&atilde;o) interesse em blogs. Eles preferem o Twitter ou o Facebook.</p></p>
+<p><p>Como &eacute; estabelecido cada vez que este debate surge, blogs e sites de m&iacute;dias sociais como o Facebook e o Twitter se complementam. Fim da hist&oacute;ria. Sem blogs, as pessoas teriam menos conte&uacute;do interessante para compartilhar no Facebook e no Twitter. Sem o Facebook e o Twitter, os blogueiros teriam mais dificuldade em conseguir os leitores.</p></p>
+<p><p>*Cl&aacute;udia Valls &eacute; analista de m&iacute;dias sociais e colaboradora do iDigo &ndash; N&uacute;cleo de Intelig&ecirc;ncia Digital, que promove cursos e realiza consultorias sobre o uso corporativo da web. Mais informa&ccedil;&otilde;es no <a href="https://www.idigo.com.br">www.idigo.com.br</a>.</p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

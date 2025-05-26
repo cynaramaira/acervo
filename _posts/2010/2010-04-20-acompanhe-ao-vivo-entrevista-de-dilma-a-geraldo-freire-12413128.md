@@ -1,0 +1,61 @@
+---
+id: 12413128
+date: "2010-04-20T10:25:00Z"
+last_modified_at: null
+tags:
+  - "ao-vivo"
+  - "dilma"
+  - "entrevista"
+  - "geraldo-freire"
+categories:
+  - "noticias"
+title: "Acompanhe ao vivo entrevista de Dilma a Geraldo Freire"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><img height="296" width="520" alt="" src="https://jc3.uol.com.br/blogs/repositorio/dilma do blog(1).jpg" /><br /></p>
+<p><span style="font-size: smaller; ">Foto: Reprodu&ccedil;&atilde;o do dilmanaweb.com.br</span><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p>Clique <a href="https://jc3.uol.com.br/radiojornal/pop_up_aovivo.php"><b>aqui</b></a> para ouvir a entrevista ao vivo.<br /></p>
+<p><br /></p>
+<p>Confira tamb&eacute;m o minuto a minuto do <a href="https://jc3.uol.com.br/blogs/blogjamildo/index.php"><b>Blog</b></a>.<br /></p>
+<p><br /></p>
+<p>11h05 - Geraldo Freire e Romoaldo de Souza j&aacute; est&atilde;o no ar. Daqui a pouco come&ccedil;a o debate</p></p>
+<p><p>11h07 - Come&ccedil;a o debate</p></p>
+<p><p>11h08 - Primeira pergunta &eacute; o que irrita Dilma Rousseff. &quot;Me irrita quando uma pessoa n&atilde;o cumpre o que promete. A gente quando promete tem que ter palavra e cumprir. Quando n&atilde;o cumpre tem que dar explica&ccedil;&atilde;o. Vale tanto no pessoal quanto quando voc&ecirc; est&aacute; no governo&quot;.</p></p>
+<p><p>11h10 - A segunda pergunta foi sobre o &quot;jeitinho brasileiro&quot;.&nbsp;&quot;Tem um aspecto do jeitinho que tem algumas qualidades. Mas o jeitinho em si n&atilde;o ahco que seja uma boa diretriz de vida. Voc&ecirc; s&oacute; d&aacute; um jeitninho quando a coisa n&atilde;o d&aacute; certo. (...)Tem um aspecto no jeitinho que &eacute; interessante: a criatividade&quot;.</p></p>
+<p><p>11h11 - &quot;Seremos um dos povos mais capazes de criar e inovar. De iventar&quot;.</p></p>
+<p><p>11h12 - A pergunta de Geraldo foi para o campo visual. &quot;Daquele dia para c&aacute; andei engordando uns quilinhos. Uns 3 quilos a mais. Voc&ecirc; sabe que a televis&atilde;o engorda&quot;. Ela diz que parou com o pilates, mas que gosta muito do exerc&iacute;cio.</p></p>
+<p><p>11h13 - &nbsp;Depois foi perguntada como lida com o microfone. &quot;Com a naturalidade do presidente Lula &eacute; dif&iacute;cil encontrar uma pessoa. Quando pego o microfone, d&aacute; uma tremilicada no in&iacute;cio, mas depois engata a primeira e vai&quot;.</p></p>
+<p><p>11h14 - O assunto agora &eacute; m&uacute;sica. Pediram a Dilma para cantar. &quot;Estou desentoada&quot;. Disse que era capaz de cantar, mas disse que estava rouca. Cantou um o refr&atilde;o &quot;Luiz, respeita Janu&aacute;rio&quot;.</p></p>
+<p><p>11h16 - &quot;Buchada n&atilde;o &eacute; a coisa que mais gosto no mundo. Mas n&atilde;o acho ruim. O presidente falou que &eacute; a melhor coisa do mundo. Gosto daquela comida mais simplies. Sou mineira. Gosto muito de arroz com feij&atilde;o&quot;.</p></p>
+<p><p>11h17 -&nbsp;&quot;N&atilde;o estou apaixonada. Mas acho lament&aacute;vel. Acho que todos deveriam se apaixonar&quot;</p></p>
+<p><p>11h18 - &quot;Eu n&atilde;o bebo muito n&atilde;o porque n&atilde;o tenho muita resist&ecirc;ncia e logo, logo me faz mal. Gosto muito de vinho. Acho uma bebida da antiguidade e hoje estamos produzindo no Brasil vinhos excepcionais, tanto no Sul quanto no Nordeste&quot;. &quot;Parei de fumar em 89. Nunca mais traguei um cigarro. Entendo quem fuma, porque lembro como gostava. Mas &eacute; uma bomba no seu pulm&atilde;o. Fiz um esfor&ccedil;o. N&atilde;o foi f&aacute;cil. Fumar &eacute; um v&iacute;cio. Tive que nadar muito para esquecer o cigarro&quot;.</p></p>
+<p><p>11h21 -&nbsp;Agora discutem a Veja desta semana que trouxe Jos&eacute; Serra na capa. &quot;Acho que &eacute; meio despropositado (fazer an&aacute;lise da mat&eacute;ria).</p></p>
+<p><p>11h 23 - &nbsp;&quot;ACho muito estranho a oposi&ccedil;&atilde;o come&ccedil;ar a elogiar alguns programas do governo que antes criticavam. Dependendo do vento, muda a pisi&ccedil;&atilde;o. &Eacute; t&iacute;pico da biruta de aeroporto. ACho estranho que, de repente, a oposi&ccedil;&atilde;o tenha esse comportamento que &eacute; d&uacute;bio&quot;. Citou a transposi&ccedil;&atilde;o do S&atilde;o Francisco e o Bolsa Fam&iacute;lia. &quot;O Bolsa Fam&iacute;lia &eacute; uma das maiores armas que tivemos contra a mis&eacute;ria&quot;.</p></p>
+<p><p>11h 24 - &quot;Achamos que acabamos com a mis&eacute;ria na pr&oacute;xima d&eacute;cada&quot;</p></p>
+<p><p>11h25 - A conex&atilde;o caiu e perdemos um trecho da entrevista. Voltamos agora.</p></p>
+<p><p>11h26 - Intervalo comercial</p></p>
+<p><p>11h32 - Volta o debate</p></p>
+<p><p>11h32 -&nbsp;O que acha do MST&#63; &quot;SE teve um governo que instituiu a paz no campo foi o do presidente Lula&quot;. &quot;Fizemos mais de 590 mil hectares de assentamento. Fizemos programa forte de agricultura familiar. Aumentamos o cr&eacute;dito. Chegou a 15 bilh&otilde;es na &uacute;ltima safra. Instituimos progrma de assistencia t&eacute;cnica. Fizemos uma coisa muito diferente e importante. No programa Mais Alimento, colocamos dinheiro para financiar 60 mil tratores para a pequena propriedade. Desses 23 mil pequenas propriedades j&aacute; t&ecirc;m o trator&quot;</p></p>
+<p><p>11h35 -&nbsp;O governador Arraes foi um dos primeiros a perceber que sem luz el&eacute;trica n&atilde;o havia desenvolvimento.</p></p>
+<p><p>11h35 - &quot;Acho que n&atilde;o estar certo de alguma forma tumultuar a vida das pessoas que n&atilde;o s&atilde;o as respons&aacute;veis pelas pol&iacute;ticas. Prejudicar a cidade n&atilde;o &eacute; correto. Tudo isso &eacute; ilegal&quot;</p></p>
+<p><p>11h36 - &quot;N&atilde;o &eacute; cab&iacute;vel (vestir o bon&eacute; do MST)&quot;. &quot;N&atilde;o sou a favor, de quando o movimento est&aacute; fazendo movimento pac&iacute;fico, haver repress&atilde;o&quot;. &quot;O movimento vai reivindicar o que ele quiser e o governo vai ver at&eacute; onde ele pode&quot;. &quot;N&atilde;o concordo que algu&eacute;m do governo assuma a bandeira do MST porque ele n&atilde;o &eacute; do MST. Governo n&atilde;o &eacute; MST. Qualquer governo n&atilde;o pode aceitar pr&aacute;ticas ilegais. A legalidade &eacute; a pr&aacute;tica de qualquer governo. Mas n&oacute;s sempre discutimos. Sempre conversamos. N&atilde;o concordamos e n&atilde;o aceitamos (a ocupa&ccedil;&atilde;o de pr&eacute;dios p&uacute;blicos).</p></p>
+<p><p>11h41 -O governo achou que o trabalhador que aest&aacute; hoje aposentado tinha direito a uma redu&ccedil;&atilde;o de suas perdas. Jamais atribu&iacute;mos perdas aos aposentados. Fomos e olhamos, mesmo n&atilde;o sendo esse gobverno respons&aacute;vel pela perda dos aposentados, olhou e vimos que era incorreto isso. Olhamos nossas capacidades de garantir essas despesas. Olhamos que 6,14 a gente conseguia bancar e ach&aacute;vamos que era justo. Fizemos um acordo. O que vai acontecer a partir da&iacute; a gente tem que esperar acontecer. Acredito que fizemos o m&aacute;ximo que pod&iacute;amos. Acho que h&aacute; considera&ccedil;&atilde;o do que o presidente vai fazer, se vai haver um esfor&ccedil;o maior ou n&atilde;o, isso eu n&atilde;o posso antecipar para voc&ecirc;s.</p></p>
+<p><p>11h42 - Algo da juventude que se arrependa&#63; &quot;Arrepender &eacute; um sentimento que voc&ecirc; s&oacute; deve ter quando voc&ecirc; fez algo para machucar algu&eacute;m. O que fiz foi porque acreditava no que fazia. A gente pode amadurecer, inclusive modificar v&aacute;rias posi&ccedil;&otilde;es que a gente teve ao longo da vida. Eu mudei, mas n&atilde;o mudei de lado. O que acreditei, que o pa&iacute;s precisava de mais justi&ccedil;a, as pessoas terem mais oportunidades, continuo acreditando. A realidade mudou, viv&iacute;amos em ditadura e agora numa democracia. &Eacute; muito ruim ser jovem durante uma ditadura&quot;(...) Na minha &eacute;pora eramos presos por opini&atilde;o. &quot;Eram anos de chumbo&quot;.</p></p>
+<p><p>11h44 -&nbsp;&quot;Acho que o Brasil mudou para melhor. Para muito melhor&quot;(...) &quot;ACreddito neste Pa&iacute;s. (...) EStamos construindo um pa&iacute;s que acabou com a estagna&ccedil;&atilde;o e desigualdade&quot; (...)&quot;Acho que sou a pessoa indicada para fazer isso&quot;.</p></p>
+<p><p>11h45 - Intervalo comercial</p></p>
+<p><p>11h50 -&nbsp;<a target="_blank" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2010/04/20/nos_sabemos_acabar_com_a_miseria_diz_dilma_68808.php">Veja a reportagem que o Blog de Jamildo fez sobre o debate at&eacute; agora.</a></p></p>
+<p><p>11h51 - Volta o debate</p></p>
+<p><p>11h52 - Qual ser&aacute; o n&iacute;vel da campanha&#63; &quot;voc&ecirc; falar lobo em pele de cordeiro n&atilde;o &eacute; baixar o n&iacute;vel. Estou tentando fazer uma met&aacute;fora para mostrar que durante 7 anos e meio fomos criticados diuturnamente e, de repente, a oposi&ccedil;&atilde;o n&atilde;o faz cr&iacute;ticas, que ela apoiou, que ela concorda, que ela jamais disse que era contra o Bolsa Fam&iacute;lia...&quot;. &quot;Lobo em pele de cordeiro &eacute; isso. &Eacute; algo que queria passar o que n&atilde;o era. &Eacute; uma imagem b&iacute;blica&quot;.</p></p>
+<p><p>11h53 - &nbsp;Dilma diz que &eacute; dinheiro do PAC que fez rodoanel, favelas em SP, que faz transposi&ccedil;&atilde;o, que est&aacute; financiando navios no Atl&acirc;ntico Sul. &quot;A&iacute; eles dizem que &eacute; bom. Eles mudam todo dia&quot;. &quot;A oposi&ccedil;&atilde;o funciona assim. Eu digo o seguinte, o projeto deles, n&atilde;o estou mencionando a pessoa, o projeto evita dizer &nbsp;projetos, como eles v&atilde;o fazer aquilo e evita compara&ccedil;&otilde;es&quot;.</p></p>
+<p><p>11h56 - Caso Jo&atilde;o da Costa e Jo&atilde;o Paulo entra no debate. Que peso ter&aacute; o presidente LUla no governo de Dilma&#63; &quot;Nem eu nem o presidente podemos ser comparados com ningu&eacute;m. Nem o presidente &eacute; o Maluf, nem eu sou o Pita. N&atilde;o vou entrar nos demais (disse provocada sobre caso Jo&atilde;o da Costa e Jo&atilde;o Paulo). O presidente confia em mim. EStive ao lado dos presidentes n&atilde;o foi s&oacute; nas boas. Cheguei numa hora dif[icil do governo, junho de 2005. (...) Tenho uma rela&ccedil;&atilde;o com o presidente de confian&ccedil;a, de lealdade e acredito que o presidente tem um grande papel a cumprir. N&atilde;o s&oacute; ainda neste final de mandato, mas daqui para frente, depois de dezembro. Terei sempre o presidente como um grande conselheiro. &Eacute; muito dif&iacute;cil duas pessoas que trabalharam t&atilde;o juntos como eu e ele na&atilde;o ter essa rela&ccedil;&atilde;o. N&atilde;o buscar essa rela&ccedil;&atilde;o. Acho ele um dos brasileiros mais destacados. (...) Ele me escolheu de forma gratuita</p></p>
+<p><p>11h59 - A senhora pode ser presidente sem ter se preparado par aisso&#63; &quot;Voce acredita que haja melhor escola do que ter sido coordenadora de todos o programas do governo Lula &nbsp;durante os &uacute;ltimos 5 anos&#63;. Eu me considero extremamente preparada. N&atilde;o ha um programa do nosso governo que eu nao tenha participado, que eu nao conhe&ccedil;a. Conheci o Brasil de ponta a ponta. De PE, de PB, de MG, de RJ, SP, MT, MS, SC, PR. Conheci como&#63; nao visitando em termos tur&iacute;sticos. Conheci os problemas e sei resolve-los&quot;.</p></p>
+<p><p>12h - LIgaria pedindo socorro a LUla&#63; &quot;&Eacute; importante que vocees saibam que presidente excepcional voces tem. Passei os ultimos anos tomando decisoees dificeis. S&oacute; nao digo que foram todas pq tem decisoes que soa do presidente da republica. Lula incentiva seus colaboradores a tomar decisoes, a ser capaz de decidir. Um governo &eacute; isso. &Eacute; o presidente quem d&aacute; o caminho. Agora, a equipe &eacute; fundamental ela tem de ter coerencia, unidade. Agora, tem que ter condi&ccedil;ao de decidir, sen&atilde;o n&atilde;o &eacute; Minist&eacute;rio. O talendo de Lula &eacute; tirar de n&oacute;s o melhor de n&oacute;s.</p></p>
+<p><p>12h02 - Dilma promete a pr&oacute;xima entrevista no REcife.</p></p>
+<p><p>12h02 - Termina o debate. Veja, logo mais, o &aacute;udio aqui no Blog de Jamildo.</p> </p>
+{% endraw %}

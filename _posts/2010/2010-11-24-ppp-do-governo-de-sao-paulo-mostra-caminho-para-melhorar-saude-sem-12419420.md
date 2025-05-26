@@ -1,0 +1,31 @@
+---
+id: 12419420
+date: "2010-11-24T11:37:00Z"
+last_modified_at: null
+tags:
+  - "aumento"
+  - "caminhoes"
+  - "cartao-cidadao"
+  - "governo"
+  - "impostos"
+  - "mostra"
+  - "sao-paulo"
+categories:
+  - "noticias"
+title: "PPP do governo de S\u00e3o Paulo mostra caminho para melhorar sa\u00fade sem esfolar cidad\u00e3o com aumento de impostos"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><img width="520" height="525" alt="" src="https://jc3.uol.com.br/blogs/repositorio/SECRET.JPG" /></p></p>
+<p><p>A Prefeitura de S&atilde;o Paulo acaba de lan&ccedil;ar uma Parceria P&uacute;blico-Privada (PPP) para ampliar e modernizar a rede hospitalar p&uacute;blica do munic&iacute;pio, que ir&aacute; contar com R$ 2 bilh&otilde;es de investimento privado. A Consulta P&uacute;blica foi publicada dia 18/11 no Di&aacute;rio Oficial de S&atilde;o Paulo, com prazo de 30 dias para a convoca&ccedil;&atilde;o da Consulta Presencial, a qual deve ocorrer em 03 de dezembro. A previs&atilde;o &eacute; que as obras possam ser iniciadas j&aacute; em abril de 2011. Mas o investimento global ao longo da parceria deve chegar aos R$ 6 bilh&otilde;es, estima o secret&aacute;rio municipal de Sa&uacute;de de S&atilde;o Paulo, Januario Montone, ex-presidente do Fundo Nacional de Sa&uacute;de, da Funda&ccedil;&atilde;o Nacional de Sa&uacute;de (Funasa) e tamb&eacute;m da Ag&ecirc;ncia Nacional de Sa&uacute;de Suplementar (ANS).</p></p>
+<p><p>A PPP foi a sa&iacute;da encontrada pela maior cidade do pa&iacute;s para a constru&ccedil;&atilde;o e reforma de 16 importantes unidades de sa&uacute;de &ndash; 03 novos Hospitais, 04 novos Centros de Diagn&oacute;stico por Imagem, 06 novas instala&ccedil;&otilde;es para hospitais antigos e 03 hospitais totalmente reformados. O que vai significar um impacto de 25% no total de leitos da rede municipal &ndash; 987 a mais do que os 3 mil atuais. S&atilde;o n&uacute;meros superlativos at&eacute; mesmo para S&atilde;o Paulo, que tem a maior rede de sa&uacute;de do pa&iacute;s.</p></p>
+<p><p>Uma Parceria P&uacute;blico-Privada pode vir ser uma op&ccedil;&atilde;o tamb&eacute;m para a Sa&uacute;de no GDF, um dos 14 estados brasileiros que j&aacute; adotam o modelo de gest&atilde;o de unidades de sa&uacute;de p&uacute;blica em parceria com Organiza&ccedil;&otilde;es Sociais (OSs). O governador eleito do Distrito Federal, Agnelo Queiroz, anunciou semana passada que levantou um rombo de quase R$ 700 milh&otilde;es no Or&ccedil;amento da Pasta, o que aumenta ainda mais a depend&ecirc;ncia do DF das verbas federais para a Sa&uacute;de.</p></p>
+<p><p>Em S&atilde;o Paulo, onde o modelo de administra&ccedil;&atilde;o compartilhada com OSs foi criado, no in&iacute;cio da d&eacute;cada, a situa&ccedil;&atilde;o &eacute; oposta. Somente na capital, que desde 2005 vem implantando esse regime de gest&atilde;o, s&atilde;o 358 unidades de sa&uacute;de administradas por 11 OSs. Nelas, os indicadores de desempenho - n&uacute;mero de consultas m&eacute;dicas, prescri&ccedil;&otilde;es atendidas, medicamentos administrados e distribu&iacute;dos, servi&ccedil;os de diagn&oacute;stico e terapia, exames laboratoriais, interna&ccedil;&otilde;es e leitos, bem como n&uacute;mero de m&eacute;dicos, dentistas, enfermeiros e demais agentes de sa&uacute;de - cresceram entre 32% (n&uacute;mero de leitos) e 492% (prescri&ccedil;&otilde;es atendidas) em quatro anos. A aprova&ccedil;&atilde;o pelo p&uacute;blico alvo, os usu&aacute;rios do Sistema &Uacute;nico de Sa&uacute;de (SUS), &eacute; alta e medida periodicamente em pesquisas das pr&oacute;prias unidades e da Secretaria Estadual de Sa&uacute;de.</p></p>
+<p><p>O bom desempenho administrativo d&aacute; f&ocirc;lego &agrave; Prefeitura para aplicar um percentual crescente de recursos pr&oacute;prios na Sa&uacute;de: dos 15% determinados pela Emenda 29, a fatia paulista chegou a 20,42% em 2009. Agora, com a entrada de recursos da iniciativa privada via a PPP, a expectativa &eacute; ainda maior. &ldquo;Importante frisar que n&atilde;o se trata de privatiza&ccedil;&atilde;o: todo o patrim&ocirc;nio, mesmo os adquiridos posteriormente ao contrato, continua p&uacute;blico, a responsabilidade pelos servi&ccedil;os b&aacute;sicos e preventivos de sa&uacute;de tamb&eacute;m e as unidades s&oacute; atendem 100% pelo SUS&rdquo;, esclarece Januario Montone.</p></p>
+<p><p>Com a experi&ecirc;ncia de nove anos na gest&atilde;o compartilhada com as Organiza&ccedil;&otilde;es Sociais &ndash; que atraiu parceiros do peso como os grupos Albert Einsten e S&iacute;rio Liban&ecirc;s, o topo da medicina no Brasil -, a licita&ccedil;&atilde;o da PPP paulista se cercou de garantias que visam evitar problemas como os enfrentados no Hospital Regional de Santa Maria, por exemplo, que est&aacute; sob interven&ccedil;&atilde;o do GDF ap&oacute;s den&uacute;ncias de irregularidades apontadas por relat&oacute;rio do Tribunal de Contas do Distrito Federal.</p></p>
+<p><p>Na PPP paulista, os parceiros privados ter&atilde;o que construir e equipar todas essas 16 unidades e faz&ecirc;-lo estritamente de acordo com o que o concession&aacute;rio dos servi&ccedil;os &ndash; Prefeitura/Secretaria de Sa&uacute;de &ndash; exigir, incluindo a&iacute; at&eacute; mesmo o detalhamento das plantas de corte das edifica&ccedil;&otilde;es, especifica&ccedil;&atilde;o de equipamentos e tecnologias a serem adotados e controle funcional. &ldquo;N&atilde;o estamos lan&ccedil;ando uma licita&ccedil;&atilde;o desse porte para colher sugest&otilde;es da iniciativa privada para a Sa&uacute;de&rdquo;, diferencia o Secret&aacute;rio Januario Montone. &ldquo;Ao contr&aacute;rio, n&oacute;s &eacute; que vamos detalhar tudo o que queremos e como queremos e os empreendedores interessados investir&atilde;o recursos para cumprir essas metas&rdquo;.</p></p>
+<p><p>Segundo c&aacute;lculos da Secretaria, os concession&aacute;rios devem investir cerca de R$ 1,2 bilh&atilde;o nessa fase. Eles ter&atilde;o at&eacute; 24 meses para concluir as obras e somente depois destas entregues e funcionando &eacute; que o poder p&uacute;blico come&ccedil;a a injetar recursos nas unidades &ndash; cerca de R$ 1 bilh&atilde;o por ano, por&eacute;m, apenas para os servi&ccedil;os cl&iacute;nicos/m&eacute;dicos.</p> </p>
+{% endraw %}

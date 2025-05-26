@@ -1,0 +1,50 @@
+---
+id: 12428826
+date: "2011-07-21T10:13:00Z"
+last_modified_at: null
+tags:
+  - "sergio"
+  - "xavier-becerra"
+categories:
+  - "noticias"
+title: "Uma tr\u00e9plica a Sergio Xavier, o Rei Mudas"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><img height="299" width="450" src="https://4.bp.blogspot.com/_rFWe-elBU8g/TD411QxGvSI/AAAAAAAAACg/C5VR72Rwuq4/s1600/_mg_0470b%5B1%5D.jpg" alt="" /></p></p>
+<p><p><br /></p>
+<p>Por Edilson Silva<br /></p>
+<p><br /></p>
+<p>Rei Midas &eacute; um personagem da mitologia grega, um rei que, mesmo muito rico, desejava sempre mais ouro. Seu desejo teria sido atendido e num certo dia Midas acordou tendo tudo o que tocava transformando-se em ouro. Ao ver seus len&ccedil;&oacute;is transformados em ouro gostou muito, mas ao tocar seu primeiro peda&ccedil;o de p&atilde;o e v&ecirc;-lo transformar-se em ouro e ao beijar sua filha e v&ecirc;-la tamb&eacute;m transformada numa est&aacute;tua de ouro, viu que era portador de uma maldi&ccedil;&atilde;o: a &ldquo;maldi&ccedil;&atilde;o de Midas&rdquo;. Contudo, o que se perpetuou foi o &ldquo;Toque de Midas&rdquo;. Tudo o que ele tocava virava ouro.<br /></p>
+<p><br /></p>
+<p>Pois n&atilde;o &eacute; que Sergio Xavier, o secret&aacute;rio de Meio Ambiente e Sustentabilidade do governo estadual, quer &ldquo;reciclar&rdquo; a mitologia&#63; Quer ser o &ldquo;Rei Mudas&rdquo;. Tudo o que ele toca fica verde. &Eacute; o &ldquo;toque de Mudas&rdquo;, o Rei da Clorofila. O governo Eduardo Campos, com o simples toque de Sergio Xavier, ficou verdinho. Do MangueBrita &agrave; sustentabilidade ambiental, num &uacute;nico toque.<br /></p>
+<p><br /></p>
+<p>Leiam o que Sergio teve a coragem de escrever e publicar: &ldquo;(...) para reverter d&eacute;cadas de degrada&ccedil;&atilde;o, o governador Eduardo Campos est&aacute; comprometido sim com a complexa implanta&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas integradas, visando colocar Pernambuco no rumo da economia sustent&aacute;vel do s&eacute;culo 21&rdquo;. Eco-liberalismo &eacute; um equ&iacute;voco hist&oacute;rico e uma inviabilidade sist&ecirc;mica, mas pode at&eacute; ser uma proposta sincera. Mas eco-charlatanismo seria inaceit&aacute;vel. Por favor!<br /></p>
+<p><br /></p>
+<p>Os &ldquo;avan&ccedil;os&rdquo; listados por Sergio ap&oacute;s a cria&ccedil;&atilde;o da sua secretaria s&atilde;o um desrespeito &agrave; intelig&ecirc;ncia alheia. Ele pegou suas promessas do per&iacute;odo eleitoral e colocou o timbre do governo do estado. &Eacute; lan&ccedil;amento do plano disso, do programa daquilo, s&oacute; discurso. O secret&aacute;rio incorporou o feio h&aacute;bito ensinado pelos marqueteiros dos governos, de lan&ccedil;ar a inten&ccedil;&atilde;o de fazer como se fosse programa da gest&atilde;o e ficar fazendo propaganda. A&iacute; &eacute; uma festa para o an&uacute;ncio da inten&ccedil;&atilde;o, outra para a assinatura do protocolo, outra para a visita dos gestores ao terreno onde se tem a suposta inten&ccedil;&atilde;o de iniciar a obra, outra para o lan&ccedil;amento da pedra fundamental, etc. E nisso l&aacute; se v&atilde;o uns quatro anos sem nada de palp&aacute;vel, tempo de novas elei&ccedil;&otilde;es. Para mim isto &eacute; repugnante!<br /></p>
+<p><br /></p>
+<p>O secret&aacute;rio fala em revitaliza&ccedil;&atilde;o da pesca artesanal&#63; Onde&#63; Cad&ecirc; a Resex (Reserva Extrativista), na &aacute;rea de Sirinhaem a Ipojuca, t&atilde;o reivindicada pelos pescadores que o secret&aacute;rio sequer recebe&#63; Prot&oacute;tipo de Recicleta&#63; Est&aacute; sendo testado onde, no p&aacute;tio da Secretaria&#63; Os carroceiros ainda n&atilde;o experimentaram esta inten&ccedil;&atilde;o, caro secret&aacute;rio. Projeto de recupera&ccedil;&atilde;o da faixa de areia das praias&#63; Jaboat&atilde;o j&aacute; tinha um plano antes de existir a sua secretaria e pelo que me consta seu governo s&oacute; faz atrapalhar a concretiza&ccedil;&atilde;o por mesquinharia pol&iacute;tica.<br /></p>
+<p><br /></p>
+<p>Debate p&uacute;blico sobre sacolinhas pl&aacute;sticas&#63; Desculpe, Rei Mudas, mas este debate n&atilde;o foi obra do seu toque. Fortalecimento do Conselho Estadual de Meio Ambiente&#63; Como uma secretaria que n&atilde;o manda nem na CPRH pode arvorar-se a fortalecer um Conselho Estadual&#63; Ali&aacute;s, a sociedade viu recentemente que a CPRH est&aacute; sucateada e seus funcion&aacute;rios vivem um enfrentamento cotidiano com a dire&ccedil;&atilde;o do &oacute;rg&atilde;o, que &eacute; a mesma da &eacute;poca do manifesto MangueBrita. Ou ser&aacute; que um simples aperto de m&atilde;os do Rei Mudas tamb&eacute;m esverdeou o Gurgel&#63;<br /></p>
+<p><br /></p>
+<p>Plantio de mudas como programa de governo&#63; Isso n&atilde;o &eacute; nada original e quem l&ecirc; este texto sabe que esta pr&aacute;tica &eacute; t&atilde;o louv&aacute;vel quanto antiga: plante uma &aacute;rvore! A novidade boa estaria em n&atilde;o destruir nosso meio ambiente, mas nisto Sergio Xavier est&aacute; fechadinho com o chefe Eduardo Campos, aterrando manguezais.<br /></p>
+<p><br /></p>
+<p>N&atilde;o poderia deixar de falar aqui sobre o caminh&atilde;ozinho el&eacute;trico da secretaria de Meio Ambiente e Sustentabilidade. Pouqu&iacute;ssima gente percebeu, mas este prot&oacute;tipo, que segundo o auxiliar do governador n&atilde;o emite CO2, est&aacute; sendo utilizado em Fernando de Noronha, onde a energia el&eacute;trica &eacute; obtida atrav&eacute;s de geradores a &oacute;leo combust&iacute;vel. N&atilde;o acredito que seja m&aacute;-f&eacute; de Sergio, mas desinforma&ccedil;&atilde;o, pois este ve&iacute;culo que roda l&aacute; em Noronha &eacute; movido a &oacute;leo combust&iacute;vel, indiretamente. Ou seja, est&aacute; l&aacute; emitindo CO2, ao aumentar a carga el&eacute;trica instalada na ilha. Portanto, seria menos desonesto o secret&aacute;rio dar uma boa desculpa e dizer que ainda est&aacute; estruturando a sua secretaria, do que ficar inventando fact&oacute;ides, que podem at&eacute; colar no imagin&aacute;rio de desinformados, mas n&atilde;o enrolam uma oposi&ccedil;&atilde;o atenta e coerente.<br /></p>
+<p><br /></p>
+<p>Sobre o &ldquo;sambinha de uma nota s&oacute;&rdquo;, trata-se de um cl&aacute;ssico, ou seja, nunca envelhece, sempre atual. Meu samba n&atilde;o &eacute; modismo de per&iacute;odo eleitoral. Prova disso &eacute; que estou aqui, onde sempre estive, e Sergio est&aacute; l&aacute;, onde tanto criticou no per&iacute;odo eleitoral. Portanto, onde o secret&aacute;rio v&ecirc; v&iacute;cio no meu sambinha, est&aacute; a maior virtude: &eacute;tica e coer&ecirc;ncia pol&iacute;tica comp&otilde;em uma nota s&oacute;, e n&atilde;o abro m&atilde;o desta nota, seja por quantos cargos forem. E ofertas n&atilde;o faltaram.<br /></p>
+<p><br /></p>
+<p>Mas o secret&aacute;rio acha que a sua metamorfose permanente &eacute; que &eacute; uma virtude. E o pior &eacute; que tenta justificar o estilo &ldquo;l&aacute; e c&aacute;&rdquo; com argumentos lament&aacute;veis, como dizer que os que n&atilde;o se submetem aos governos &ldquo;(...) s&oacute; ficam no discurso e nunca fizeram nada na vida real da gest&atilde;o p&uacute;blica (...)&rdquo;. &Eacute; mais contradi&ccedil;&atilde;o com o discurso de nova pol&iacute;tica que o secret&aacute;rio quer incorporar. Quer dizer que os milhares de ativistas e militantes que batalham nos movimentos sociais, ONGs, nas confer&ecirc;ncias p&uacute;blicas, nos conselhos, debatendo os problemas e apresentando solu&ccedil;&otilde;es para os mais variados temas da sociedade &ndash; e que gestores como voc&ecirc; agora n&atilde;o cumprem -, nunca fizeram nada na vida real da gest&atilde;o p&uacute;blica&#63;<br /></p>
+<p><br /></p>
+<p>Afirmo e reafirmo, em per&iacute;odo eleitoral e fora de per&iacute;odo eleitoral: temos que acabar com o monop&oacute;lio e o abuso dos pol&iacute;ticos na gest&atilde;o p&uacute;blica! Temos que fortalecer as confer&ecirc;ncias p&uacute;blicas, dar mais for&ccedil;a e autonomia aos conselhos, ampliar as consultas diretas por plebiscitos e referendos, diminuir os obst&aacute;culos para a apresenta&ccedil;&atilde;o de projetos de iniciativa popular, desidratando o poder dos pol&iacute;ticos que ocupam a gest&atilde;o p&uacute;blica com seus incont&aacute;veis apadrinhados em cargos de confian&ccedil;a, como o Sergio Xavier agora, que tem l&aacute; &agrave; sua disposi&ccedil;&atilde;o 50 cargos. Quantos s&atilde;o concursados, mesmo&#63;<br /></p>
+<p><br /></p>
+<p>Fazer pol&iacute;tica na oposi&ccedil;&atilde;o &eacute; dif&iacute;cil. &Eacute; preciso ter uma equipe de resistentes que estejam preparados para viver com &ldquo;pouca &aacute;gua e pouca ra&ccedil;&atilde;o&rdquo;, exatamente para n&atilde;o se deixarem seduzir pelas migalhas oferecidas no banquete dos poderosos. Infelizmente, a nota do secret&aacute;rio mostra um pol&iacute;tico tradicional, conservador e ideologicamente envelhecido, que n&atilde;o consegue ver-se desapegado das arcaicas estruturas do poder. E ele n&atilde;o pode nos acusar de n&atilde;o ter-lhe dado um voto de confian&ccedil;a e a oportunidade de mostrar mesmo para a oposi&ccedil;&atilde;o que poderia ser um o&aacute;sis verde no meio do governo.<br /></p>
+<p><br /></p>
+<p>Sinto muito caro Sergio, n&atilde;o vai aqui nada de pessoal, voc&ecirc; sabe, mas n&atilde;o posso lhe desejar sorte lhe vendo servir desta forma a um governo t&atilde;o charlat&atilde;o. Para evitar novos apag&otilde;es no manifesto MangueBrita no blog do Sergio Xavier, vou mant&ecirc;-lo no meu, assim n&atilde;o corremos o risco de esquecer como o Rei Mudas &ndash; um apelido carinhoso -, era outro no curt&iacute;ssimo per&iacute;odo em que foi oposi&ccedil;&atilde;o.<br /></p>
+<p><br /></p>
+<p>Presidente do PSOL-PE e membro do Movimento Ecossocialista de Pernambuco<br /></p>
+<p>WWW.twitter.com/EdilsonPSOL<br /></p>
+<p>WWW.edilsonpsol.blogspot.com</p></p>
+{% endraw %}

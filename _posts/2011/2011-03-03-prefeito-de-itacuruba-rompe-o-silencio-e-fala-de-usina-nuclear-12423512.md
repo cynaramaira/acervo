@@ -1,0 +1,45 @@
+---
+id: 12423512
+date: "2011-03-03T16:54:00Z"
+last_modified_at: null
+tags:
+  - "miguel-falabella"
+  - "nuclear"
+  - "prefeito"
+categories:
+  - "noticias"
+title: "Prefeito de Itacuruba rompe o sil\u00eancio e fala de usina nuclear"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><div id="__ss_6976179" style="width: 425px"><strong style="display: block; margin: 12px 0px 4px"><a title="O documento oficial da Eletronuclear" href="https://www.slideshare.net/blogdejamildo/o-documento-oficial-da-eletronuclear">O documento oficial da Eletronuclear</a></strong> <object id="__sse6976179" width="425" height="355"> <param name="movie" value="https://static.slidesharecdn.com/swf/ssplayer2.swf&#63;doc=26-01-2011-110218125756-phpapp02&stripped_title=o-documento-oficial-da-eletronuclear&userName=blogdejamildo" /> <param name="allowFullScreen" value="true"/> <param name="allowScriptAccess" value="always"/> <embed name="__sse6976179" src="https://static.slidesharecdn.com/swf/ssplayer2.swf&#63;doc=26-01-2011-110218125756-phpapp02&stripped_title=o-documento-oficial-da-eletronuclear&userName=blogdejamildo" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed> </object></p>
+<p><div style="padding-right: 0px; padding-left: 0px; padding-bottom: 12px; padding-top: 5px">View more <a href="https://www.slideshare.net/">presentations</a> from <a href="https://www.slideshare.net/blogdejamildo">Jamildo Melo</a></div></p>
+<p></div></p>
+<p><p>Caro Jamildo,</p></p>
+<p><p>Como leitor atento do seu blog e do Jornal do Com&eacute;rcio estamos atrav&eacute;s deste e-mail esclarecendo alguns quest&otilde;es:</p></p>
+<p><p>1. Que o munic&iacute;pio de Itacuruba vem permanentemente se preparado para receber um investimento do porte como o da Usina Nuclear. A exemplo disso foi a atra&ccedil;&atilde;o da espanhola Pesca Nova &ndash; 2&ordf;. maior empresa de pescado do mundo. E a implanta&ccedil;&atilde;o do Projeto Impacton do Observat&oacute;rio Nacional;</p></p>
+<p><p>2. Que vem implantado um &ldquo;novo modelo de gest&atilde;o&rdquo;, desde do in&iacute;cio de 2009, baseado nas principais experi&ecirc;ncias do setor p&uacute;blico do Brasil, a exemplo de Minas Gerais e Esp&iacute;rito Santo (mais antigos e consolidados), e mesmo o modelo que vem sendo usado pelo Governo de Pernambuco. Esse modelo vem criado um ambiente de neg&oacute;cios favor&aacute;vel aos investimentos, que atenda desde do Empreendedor Individual, at&eacute; os grandes investidores como a Pesca Nova, a Netuno e outros investimentos que est&atilde;o sendo atra&iacute;dos para o munic&iacute;pio.</p></p>
+<p><p>3. Que a gest&atilde;o p&uacute;blica de Itacuruba entende que as quest&otilde;es estrat&eacute;gicas como o desenvolvimento da piscicultura devem ser tratadas no m&iacute;nimo nos F&oacute;runs Regionais, nesse caso a Regi&atilde;o de Itaparica. Isso vem sendo estimulado atrav&eacute;s do F&oacute;rum Territ&oacute;rio da Cidadania do Governo Federal e que deve se acelerar com a cria&ccedil;&atilde;o da ADESI &ndash; Ag&ecirc;ncia de Desenvolvimento Sustent&aacute;vel de Itacuruba criada em outubro de 2010, e que deve com a conclus&atilde;o da constru&ccedil;&atilde;o do CAE &ndash; Centro de Atividade Econ&ocirc;mica &ndash; projeto em parceria com a Secretaria de Desenvolvimento Econ&ocirc;mico do Estado de Pernambuco, previsto para abril desse ano oferecer informa&ccedil;&otilde;es atualizadas sobre a socioeconomia local e regional, prestar consultoria em gest&atilde;o empresarial e tecnol&oacute;gica para os pequenos empreendedores, empresas de pequeno porte, m&eacute;dia e grandes empresas.</p></p>
+<p><p>4. Que desde de 2006 a gest&atilde;o p&uacute;blica vem estado em permanente discuss&atilde;o com investidores nacionais e internacionais em energia renov&aacute;veis, j&aacute; tendo feito entendimentos com empresas asi&aacute;ticas para implanta&ccedil;&atilde;o de empreendimentos de energia solar, aproveitando o c&eacute;u ensolarado da nossa regi&atilde;o.</p></p>
+<p><p>5. Que no ano de 2009 iniciou uma discuss&atilde;o e aprovou em 2010 na C&acirc;mara de Vereadores do munic&iacute;pio Lei que cria a Zona Especial de Estudo e Implanta&ccedil;&atilde;o de Empreendimentos em Energia Renov&aacute;vel (solar, e&oacute;lica, nuclear e bicombust&iacute;vel).</p></p>
+<p><p>Entendemos que o editorial do Jornal do Com&eacute;rcio de ontem &eacute; revelador e come&ccedil;a a abrir um novo cen&aacute;rio para a Regi&atilde;o de Itaparica. Insistimos no entanto que estamos atento sim para a mensurabilidade de um investimento dessa envergadura (10 bilh&otilde;es). Mais que o observat&oacute;rio e o artesanato, que de fato &eacute; rico &ndash; e o ano passado foi todo catalogado, com a realiza&ccedil;&atilde;o do 1&ordm;. Invent&aacute;rio Tur&iacute;stico e Cultural &ndash; Itacuruba &eacute; um munic&iacute;pio que est&aacute; crescendo como o Brasil, como Pernambuco no rumo certo.</p></p>
+<p><p>Quanto as quest&otilde;es ambientais informamos, que na Reforma Administrativa modificou nossa estrutura organizacional, e foi criada a Secretaria Municipal de Meio Ambiente (nossa Lei &eacute; de mar&ccedil;o de 2010 antes do Governo do Estado anunciar a cria&ccedil;&atilde;o da Secretaria Estadual de Meio Ambiente). Dentro dessa secretaria est&atilde;o os departamentos de Licen&ccedil;a, Controle e Fiscaliza&ccedil;&atilde;o, Preserva&ccedil;&atilde;o do Bioma Caatinga e de Educa&ccedil;&atilde;o Ambiental.</p></p>
+<p><p>Em rela&ccedil;&atilde;o aos impactos de uma poss&iacute;vel implanta&ccedil;&atilde;o de uma Usina Nuclear na regi&atilde;o achamos que essa deve ser uma discuss&atilde;o mais aprofundada entre t&eacute;cnicos do setor e a popula&ccedil;&atilde;o em diversas audi&ecirc;ncias p&uacute;blicas e ter&atilde;o seu tempo certo. No entanto j&aacute; estamos nos preparando e instrumentalizando a gest&atilde;o para recepcionar os investimentos que possam dinamizar a economia sertaneja.</p></p>
+<p><p>Em anexo te encaminho apresenta&ccedil;&atilde;o de Balan&ccedil;o das A&ccedil;&otilde;es 2009-2010 que solicito seja disponibilizado no seu Blog, para que os Pernambucanos possam conhecer melhor nosso munic&iacute;pio. De antem&atilde;o fica o convite para que venhas conhecer as mudan&ccedil;as e transforma&ccedil;&otilde;es que essa gest&atilde;o vem promovendo.</p></p>
+<p><p>Muitas outras coisas est&atilde;o acontecendo em Itacuruba e nos colocamos a disposi&ccedil;&atilde;o para em qualquer tempo informamos a popula&ccedil;&atilde;o de Pernambuco usando espa&ccedil;o privilegiado do seu Blog.</p></p>
+<p><p>Um grande abra&ccedil;o,<br /></p>
+<p>Romero Magalh&atilde;es L&ecirc;do<br /></p>
+<p>Prefeito de Itacuruba</p></p>
+<p><p>Leia abaixo tudo que o Blog de Jamildo antecipou recentemente</p></p>
+<p><p><a jquery1299188367256="1377" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2011/02/18/eletronuclear_escolhe_cidade_de_itacuruba_como_opcao_para_sediar_usina_atomica_do_nordeste_92556.php">Eletronuclear escolhe cidade de Itacuruba como op&ccedil;&atilde;o para sediar usina at&ocirc;mica do Nordeste</a></p></p>
+<p><p><a jquery1299188367256="1375" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2011/02/19/eduardo_tentou_dividir_usina_nuclear_com_baianos_mas_eletronuclear_nao_permite_92611.php">Eduardo tentou dividir usina nuclear com baianos, mas Eletronuclear n&atilde;o permite</a></p></p>
+<p><p><a jquery1299188367256="1373" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2011/02/22/humberto_costa_ve_ironia_geologica_na_escolha_de_itacuruba_para_usina_nuclear_92925.php">Humberto Costa v&ecirc; ironia geol&oacute;gica na escolha de Itacuruba para usina nuclear</a></p></p>
+<p><p><a jquery1299188367256="1371" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2011/02/22/deputados_estaduais_discutirao_implantacao__da_usina_semana_que_vem_92937.php">Deputados estaduais discutir&atilde;o implanta&ccedil;&atilde;o da usina semana que vem</a></p></p>
+<p><p><a jquery1299188367256="1369" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2011/02/22/urbanitarios_debaterao_energia_nuclear_como_solucao_de_matriz_energetica_para_o_ne_92944.php">Urbanit&aacute;rios debater&atilde;o energia nuclear como solu&ccedil;&atilde;o de matriz energ&eacute;tica para o NE</a></p></p>
+<p><p><a jquery1299188367256="1367" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2011/02/25/fernando_ferro_defende_implantacao_93239.php">Fernando Ferro defende implanta&ccedil;&atilde;o</a></p></p>
+<p><p><a jquery1299188367256="1365" href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2011/03/02/editorial_do_jc_destaca_itacuruba_como_primeira_usina_nuclear_do_nordeste_93678.php">Editorial do JC destaca Itacuruba como primeira usina nuclear do Nordeste</a></p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

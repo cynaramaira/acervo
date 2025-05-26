@@ -1,0 +1,57 @@
+---
+id: 12410082
+date: "2010-01-26T08:02:00Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "colunistas"
+title: "A escalabilidade do capital de empreendimento"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Ruy Jos&eacute; Guerra Barretto de Queiroz<br /></p>
+<p><br /></p>
+<p>Os recentes n&uacute;meros negativos da ind&uacute;stria do capital de empreendimento (em ingl&ecirc;s, &ldquo;venture capital&rdquo;, cuja tradu&ccedil;&atilde;o poderia tamb&eacute;m ser &ldquo;capital de ventura&rdquo;) divulgados semana passada pela National Venture Capital Association, reacenderam o debate em torno da escalabilidade dessa classe de ativos que tanto contribuiu para a revolu&ccedil;&atilde;o tecnol&oacute;gica capitaneada por &iacute;cones da tecnologia da informa&ccedil;&atilde;o tais como Google, Apple, Microsoft, Cisco, Intel , Oracle e tantas outras que nasceram de &ldquo;start-ups&rdquo; disruptivas. <br /></p>
+<p><br /></p>
+<p>(Em tempo, disrup&ccedil;&atilde;o &eacute; o processo de mudan&ccedil;a tecnol&oacute;gica com boa dose de radicalismo, normalmente conjugada com o estabelescimento de um novo paradigma. Segundo o Houaiss, disrup&ccedil;&atilde;o &eacute; a &ldquo;interrup&ccedil;&atilde;o do curso normal de um processo&rdquo;.) Em 2009 o total de investimentos provenientes de capitalistas de empreendimento (conhecidos no meio como &ldquo;VC&rdquo;s, abrevia&ccedil;&atilde;o de &ldquo;venture capitalists&rdquo;) foi o mais baixo desde 1997: US$17,7 bi em 2.795 start-ups &mdash; 37% menos dinheiro e 30% menos neg&oacute;cios que em 2008. <br /></p>
+<p><br /></p>
+<p>As empresas de internet, que empolgaram os investidores por mais de uma d&eacute;cada, sofreram uma grande perda na medida em que o investimento decresceu em 39%. A grande e not&aacute;vel exce&ccedil;&atilde;o foi a Twitter, que, tendo levantado US$100 milh&otilde;es em investimentos em 2009, foi a &uacute;nica a figurar entre os 10 maiores neg&oacute;cios do ano passado.<br /></p>
+<p><br /></p>
+<p>Considerado o combust&iacute;vel das grandes inova&ccedil;&otilde;es tecnol&oacute;gicas, o capital de ventura re&uacute;ne caracter&iacute;sticas um tanto peculiares enquanto classe de ativos: alto risco, alto retorno, longo prazo (tipicamente, 10 anos), baseado em equity, iliquidez, e envolvimento direto do investidor no empreendimento invariavelmente como s&oacute;cio minorit&aacute;rio. <br /></p>
+<p><br /></p>
+<p>De acordo com um estudo de 2009 da Global Insight, empresas apoiadas por capital de ventura eram respons&aacute;veis por 12,1 milh&otilde;es de empregos e US$2,9 tri em receita nos EUA em 2008. No Brasil, casos de sucesso incluem a Gol Linhas A&eacute;reas, a Submarino e a UOL, segundo a Associa&ccedil;&atilde;o Brasileira de Venture Capital e Private Equity (ABVCAP).<br /></p>
+<p><br /></p>
+<p>Uma empresa de investimento em capital de ventura trabalha no sentido de levantar dinheiro de companhias de seguro, entidades educacionais, fundos de pens&atilde;o, e indiv&iacute;duos abastados. Normalmente uma das classes de ativos que constituem o portf&oacute;lio de investimentos de uma dessas organiza&ccedil;&otilde;es &eacute; chamada de &ldquo;Investimentos Alternativos&rdquo;, que em geral perfazem 5% a 10% do portf&oacute;lio. O investidor espera que o retorno nessa classe de ativos seja alto, muito embora o risco tamb&eacute;m seja elevado.&nbsp; <br /></p>
+<p><br /></p>
+<p>Os fundos de capital de ventura s&atilde;o formados a partir de parceiros de dois tipos: (1) parceiros gerais (&ldquo;general partners&rdquo;, GP), com quem normalmente o empreendedor interage at&eacute; por falar a sua l&iacute;ngua em raz&atilde;o de, em geral, terem sido tamb&eacute;m empreendedores; e (2) parceiros limitados (&ldquo;limited partners&rdquo;, LP), a&iacute; inclu&iacute;dos os fundos de pens&atilde;o, investidores institucionais, companhias de seguros, e os indiv&iacute;duos abastados. Os GP&rsquo;s usam a figura do &ldquo;Memorandum de Oferta&rdquo; para formar o fundo de um certo tamanho a partir dos LP&rsquo;s convencendo-os de que disp&otilde;em de uma estrat&eacute;gia vencedora e da expertise necess&aacute;ria para levar o investimento a bom termo. <br /></p>
+<p><br /></p>
+<p>S&atilde;o os GP&rsquo;s que t&ecirc;m o papel de identificar as oportunidades e tomar as decis&otilde;es necess&aacute;rias. O retorno no investimento se d&aacute; em decorr&ecirc;ncia de: (i) uma aquisi&ccedil;&atilde;o do empreendimento por uma empresa maior, ou (ii) a transforma&ccedil;&atilde;o do empreendimento numa empresa de capital aberto atrav&eacute;s de uma oferta p&uacute;blica inicial (&ldquo;Initial Public Offering&rdquo;, IPO). Aos GP&rsquo;s o empreendedor se compromete a pagar uma taxa de administra&ccedil;&atilde;o, tipicamente 2% do capital investido. <br /></p>
+<p><br /></p>
+<p>Al&eacute;m disso, o retorno no investimento &eacute; dividido entre os LP&rsquo;s e os GP&rsquo;s, tipicamente da seguinte forma: LP&rsquo;s recebem 99% dos retornos e os GP&rsquo;s/VC&rsquo;s recebem 1% at&eacute; que os LP&rsquo;s recebam de volta os 100% de seu capital (acrescido, em alguns casos, de juros), e a partir de ent&atilde;o os retornos s&atilde;o divididos na propor&ccedil;&atilde;o de 80% para os LP&rsquo;s e 20% para os GP&rsquo;s/VC&rsquo;s. Esses 20% dos GP&rsquo;s s&atilde;o os chamados &ldquo;juros portados&rdquo; (&ldquo;carried interests&rdquo;).<br /></p>
+<p><br /></p>
+<p>Para muitos especialistas, mais notadamente Fred Wilson, possivelmente o mais influente blogueiro e VC na atualidade, a redu&ccedil;&atilde;o no volume de investimentos observada em 2009 &eacute; muito bem-vinda at&eacute; para a pr&oacute;pria sobreviv&ecirc;ncia do setor. Em mat&eacute;ria publicada em seu blog AVC.com (&ldquo;The Venture Diet is Working&rdquo;, 22/01/09), Wilson considera que, apesar de negativos, os indicadores s&atilde;o saud&aacute;veis, e justifica remetendo o leitor a uma outra mat&eacute;ria que publicou em Abril/2009 (&ldquo;Venture Capital Math Problem&rdquo;) na qual discorria sobre a matem&aacute;tica da viabilidade da ind&uacute;stria do capital de empreendimento. <br /></p>
+<p><br /></p>
+<p>Naquela ocasi&atilde;o Wilson se mostrava otimista quanto &agrave; recupera&ccedil;&atilde;o de uma ind&uacute;stria que muitos declaravam fadada a desaparecer, pois acreditava que uma redu&ccedil;&atilde;o no seu tamanho seria al&eacute;m de saud&aacute;vel, vital para o setor. &ldquo;Em um mercado livre e aberto, o capital fluir&aacute; para onde possa obter um retorno apropriado. <br /></p>
+<p><br /></p>
+<p>Suspeito que veremos alguns dos fundos de pens&atilde;o que t&ecirc;m sido atra&iacute;dos para o capital de empreendimento na &uacute;ltima d&eacute;cada decidir abandonar a classe de ativos porque ela n&atilde;o &eacute; escal&aacute;vel aos n&iacute;veis dos quais necessitam para investir eficientemente o capital. Deixar&atilde;o a classe de ativos para os escrit&oacute;rios de fam&iacute;lia, endowments educacionais, e outras institui&ccedil;&otilde;es menores que constitu&iacute;am a maior parte da classe de ativos nos anos 1980&rsquo;s e in&iacute;cio dos 1990&rsquo;s.&rdquo;<br /></p>
+<p><br /></p>
+<p>Dentre as rea&ccedil;&otilde;es &agrave;s mat&eacute;rias de Wilson, algumas chamam &agrave; aten&ccedil;&atilde;o pelo car&aacute;ter de testemunho. Em uma delas, um empreendedor revela que na &eacute;poca anterior ao estouro da bolha das empresas ponto-com havia dinheiro em demasia, e o que se viu foi o surgimento de muitos empreendimentos de baixa qualidade ou sem sustentabilidade. E a defini&ccedil;&atilde;o de &ldquo;empreendedor&rdquo; acabou rebaixada a &ldquo;pessoa atr&aacute;s de dinheiro&rdquo;, pois, de repente, todo mundo, n&atilde;o apenas os verdadeiros inovadores, se apresentava como empreendedor. <br /></p>
+<p><br /></p>
+<p>(Para se ter uma id&eacute;ia da abund&acirc;ncia, somente no primeiro trimestre de 2000, pouco antes da bolha estourar, foram investidos mais de US$27 bi em 2.127 neg&oacute;cios, perfazendo um total superior a US$100 bi em mais de 9 mil neg&oacute;cios no ano de 2000.) Ao que tudo indica, id&eacute;ias s&atilde;o alimentadas pela capacidade de atrair o interesse de VC&rsquo;s, ao inv&eacute;s de sustentabilidade. Da&iacute; o papel fundamental do VC de saber separar o joio do trigo e ser capaz de dar retornos competitivos a seus LP&rsquo;s, pois somente assim a pr&oacute;pria ind&uacute;stria de capital de ventura segue sustent&aacute;vel. Isso leva alguns especialistas a afirmarem que a ind&uacute;stria do capital de ventura n&atilde;o &eacute; escal&aacute;vel devido &agrave; escassez de bons VC&rsquo;s. <br /></p>
+<p><br /></p>
+<p>Dada sua &iacute;ntima rela&ccedil;&atilde;o com o fen&ocirc;meno das start-up&rsquo;s, h&aacute; quem se pergunte se nesse caso o pr&oacute;prio empreendorismo tamb&eacute;m n&atilde;o seria escal&aacute;vel. A esse questionamento Wilson reage dizendo que acredita que o capital de ventura institucional n&atilde;o &eacute; escal&aacute;vel, mas que o empreendedorismo em si o &eacute;, assim como outras fontes de financiamento como anjos, fam&iacute;lia e amigos, e empr&eacute;stimos a pequenas empresas, pois podem propiciar mais capital exigindo bem menos retorno agregado.<br /></p>
+<p><br /></p>
+<p>Nesse sentido, h&aacute; quem questione a validade do emprego de dinheiro p&uacute;blico para o est&iacute;mulo ao empreendedorismo, ao estabelecimento de incubadoras de start-up&rsquo;s associadas a universidades, &agrave; constru&ccedil;&atilde;o de um ecossistema de inova&ccedil;&atilde;o tecnol&oacute;gica. Obviamente, &eacute; preciso distinguir o empreendedorismo no estilo start-up, de quem se espera inova&ccedil;&atilde;o tecnol&oacute;gica, possivelmente disruptiva, do empreendedorismo da pequena empresa em geral. O primeiro n&atilde;o parece dispor de caracter&iacute;sticas de escalabilidade.<br /></p>
+<p><br /></p>
+<p>&Agrave; busca por raz&otilde;es para a n&atilde;o escalabilidade do capital de ventura, alguns especialistas americanos se perguntam se n&atilde;o haveria uma bolha de start-up&rsquo;s que n&atilde;o esteja em torno de financiamento de VC&rsquo;s ou de IPO&rsquo;s, mas sim num enorme acr&eacute;scimo no n&uacute;mero de pessoas estimuladas a se aventurar numa start-up, quando na verdade n&atilde;o t&ecirc;m o perfil para tal. <br /></p>
+<p><br /></p>
+<p>Segundo Wilson, h&aacute; bastante capital de ventura nos EUA, e talvez fosse a hora de se exportar o excesso a pa&iacute;ses que poderiam dar um retorno fenomenal, e de se discutir como financiar mais inova&ccedil;&atilde;o em outras partes do mundo. H&aacute; quem trace uma analogia um tanto cruel: em alguns pa&iacute;ses ocidentais tais como os EUA h&aacute; comida demais, e, por decorr&ecirc;ncia, diversos problemas associados &agrave; obesidade. Por outro lado, h&aacute; pa&iacute;ses com fome.<br /></p>
+<p><br /></p>
+<p>Considerando a posi&ccedil;&atilde;o privilegiada de pa&iacute;ses como &Iacute;ndia e China no quesito investimento de capital de ventura, quem sabe n&atilde;o est&aacute; na hora de incluir o Brasil nesse rol&#63; Que h&aacute; ind&iacute;cios de que sim, h&aacute;. Mesmo que ainda t&iacute;midos.<br /></p>
+<p><br /></p>
+<p>PS Ruy &eacute; professor associado do Centro de Inform&aacute;tica da UFPE e escreve para o Blog semanalmente.</p> </p>
+{% endraw %}

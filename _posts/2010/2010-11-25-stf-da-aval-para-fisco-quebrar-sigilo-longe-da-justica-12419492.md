@@ -1,0 +1,29 @@
+---
+id: 12419492
+date: "2010-11-25T17:54:00Z"
+last_modified_at: null
+tags:
+  - "fisco"
+  - "justica"
+  - "para"
+categories:
+  - "noticias"
+title: "STF d\u00e1 aval para fisco quebrar sigilo longe da Justi\u00e7a"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Com informa&ccedil;&otilde;es da Assessoria de Imprensa do STF.</p></p>
+<p><p>O Supremo Tribunal Federal deu o aval para que a Receita Federal, sem pr&eacute;via autoriza&ccedil;&atilde;o judicial, tenha acesso ao sigilo banc&aacute;rio de contribuintes investigados. Por 6 votos a 4, o Plen&aacute;rio do Supremo cassou liminar concedida em A&ccedil;&atilde;o Cautelar, pelo ministro Marco Aur&eacute;lio (relator), que impedia a quebra de sigilo banc&aacute;rio da GVA Ind&uacute;stria e Com&eacute;rcio pela Receita Federal. A cautelar tinha o objetivo de dar efeito suspensivo ao Recurso Extraordin&aacute;rio interposto na Corte pela pr&oacute;pria empresa.</p></p>
+<p><p>A liminar cassada foi concedida pelo relator da a&ccedil;&atilde;o, em julho de 2003, no sentido de suspender o fornecimento das informa&ccedil;&otilde;es &agrave; Receita e a utiliza&ccedil;&atilde;o, tamb&eacute;m pela Receita, dos dados obtidos antes do julgamento do RE. Ele considerou o preceito do inciso XII, do artigo 5&ordm;, da Constitui&ccedil;&atilde;o Federal &mdash; da inviolabilidade do sigilo da correspond&ecirc;ncia e das comunica&ccedil;&otilde;es telegr&aacute;ficas, de dados e das comunica&ccedil;&otilde;es telef&ocirc;nicas &mdash; que somente pode ser quebrado por ordem judicial.</p></p>
+<p><p>A an&aacute;lise do caso voltou a julgamento pelo Plen&aacute;rio do STF nesta quarta-feira (24/11) com a apresenta&ccedil;&atilde;o do voto-vista da ministra Ellen Gracie. Ela acompanhou a diverg&ecirc;ncia para negar referendo &agrave; liminar. &ldquo;Tratando-se do acesso do Fisco &agrave;s movimenta&ccedil;&otilde;es banc&aacute;rias de contribuinte, n&atilde;o h&aacute; que se falar em veda&ccedil;&atilde;o da exposi&ccedil;&atilde;o da vida privada ao dom&iacute;nio p&uacute;blico, pois isso n&atilde;o ocorre. Os dados ou informa&ccedil;&otilde;es passam da institui&ccedil;&atilde;o financeira ao Fisco, mantendo-se o sigilo que os preserva do conhecimento p&uacute;blico&rdquo;, ressaltou.</p></p>
+<p><p>Segundo a ministra, o artigo 198 do C&oacute;digo Tribut&aacute;rio Nacional veda a divulga&ccedil;&atilde;o, por parte da Fazenda P&uacute;blica ou dos seus servidores, &ldquo;de qualquer informa&ccedil;&atilde;o obtida em raz&atilde;o do of&iacute;cio sobre a situa&ccedil;&atilde;o econ&ocirc;mica ou financeira do sujeito passivo ou de terceiros sobre a natureza e estado de seus neg&oacute;cios ou atividades&rdquo;. Essa proibi&ccedil;&atilde;o se designa sigilo fiscal, explicou a ministra.</p></p>
+<p><p>Para Ellen Gracie, o que acontece n&atilde;o &eacute; a quebra de sigilo, mas a transfer&ecirc;ncia de sigilo que passa dos bancos ao Fisco. Assim, a ministra considerou que os dados at&eacute; ent&atilde;o protegidos pelo sigilo banc&aacute;rio prosseguem protegidos, agora, pelo sigilo fiscal.</p></p>
+<p><p>J&aacute; o ministro Celso de Mello uniu-se &agrave; minoria, pela conserva&ccedil;&atilde;o da liminar. De acordo com ele, a inviolabilidade do sigilo de dados prevista pela Constitui&ccedil;&atilde;o Federal &ldquo;torna essencial que as exce&ccedil;&otilde;es derrogat&oacute;rias da preval&ecirc;ncia desse postulado s&oacute; possam emanar de &oacute;rg&atilde;os estatais, dos &oacute;rg&atilde;os do Poder Judici&aacute;rio, ordinariamente, e das Comiss&otilde;es Parlamentares de Inqu&eacute;rito, excepcionalmente, aos quais a pr&oacute;pria Constitui&ccedil;&atilde;o da Rep&uacute;blica &mdash; n&atilde;o uma simples lei ordin&aacute;ria, n&atilde;o qualquer lei complementar &mdash; outorgou essa especial prerrogativa de ordem jur&iacute;dica&rdquo;.</p></p>
+<p><p>Celso de Mello salientou que o bin&ocirc;mio &quot;direito ao sigilo e dever de sigilo&quot; exige &ldquo;verdadeira liberdade negativa, que imp&otilde;e ao Estado um claro dever de absten&ccedil;&atilde;o, de um lado, e a prerrogativa que assiste, sim, ao poder p&uacute;blico de investigar, de fiscalizar comportamentos de transgress&atilde;o &agrave; ordem jur&iacute;dica, de outro &mdash; que a determina&ccedil;&atilde;o de quebra do sigilo banc&aacute;rio provenha de ato emanado de &oacute;rg&atilde;o do Poder Judici&aacute;rio&rdquo;. Ele completou que a interven&ccedil;&atilde;o moderadora do Poder Judici&aacute;rio na resolu&ccedil;&atilde;o dos lit&iacute;gios &ldquo;revela-se garantia de efetivo respeito tanto ao regime dos direitos e garantias fundamentais quanto &agrave; supremacia do pr&oacute;prio interesse p&uacute;blico&rdquo;.</p></p>
+<p><p>Conclu&iacute;do o julgamento, negaram referendo para a liminar os ministros Joaquim Barbosa, Ayres Britto, Gilmar Mendes, Dias Toffoli, Carmen L&uacute;cia e Ellen Gracie. Ficaram vencidos os ministros Marco Aur&eacute;lio, Ricardo Lewandowski, Celso de Mello e Cezar Peluso, que votaram pela manuten&ccedil;&atilde;o da liminar.</p></p>
+<p><p>A mat&eacute;ria tem origem em comunicado feito pelo Banco Santander &agrave; empresa GVA Ind&uacute;stria e Com&eacute;rcio S/A, informando que a Delegacia da Receita Federal do Brasil &mdash; com amparo na Lei Complementar 105/01 &mdash; havia determinado &agrave;quela institui&ccedil;&atilde;o financeira, em mandado de procedimento fiscal, a entrega de extratos e demais documentos pertinentes &agrave; movimenta&ccedil;&atilde;o banc&aacute;ria da empresa relativamente ao per&iacute;odo de 1998 a julho de 2001. O Banco Santander cientificou a empresa que, em virtude de tal mandado, iria fornecer os dados banc&aacute;rios em quest&atilde;o.</p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

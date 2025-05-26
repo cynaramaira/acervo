@@ -1,0 +1,63 @@
+---
+id: 12416044
+date: "2010-07-19T16:13:00Z"
+last_modified_at: null
+tags:
+  - "armando-monteiro"
+  - "banco"
+  - "carta"
+  - "cereal"
+  - "entrevista"
+  - "filho"
+  - "plano"
+categories:
+  - "noticias"
+title: "Em entrevista \u00e0 Carta Capital, Armando Filho reconhece que perdeu o banco por ter avaliado mal o Plano Real"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><img height="335" alt="" width="500" src="https://fernandomachado.blog.br/wp-content/uploads/2009/08/g-docarmo-armando-monteiro-diegro-nigro.jpg" /></p></p>
+<p><p>Coerente e otimista</p></p>
+<p><p>IDEIAS ENTREVISTAS - ARMANDO MONTEIRO FILHO</p></p>
+<p><p>Perto de completar 85 anos, o empres&aacute;rio e pol&iacute;tico pernambucano relembra fatos marcantes da hist&oacute;ria e reflete sobre o futuro do Brasil</p></p>
+<p><p>A Sergio L&iacute;rio</p></p>
+<p><p>Nascido em uma fam&iacute;lia de usineiros tradicionais de Pernambuco. Armando Monteiro Filho escolheu o caminho menos prov&aacute;vel na pol&iacute;tica. Considera Get&uacute;lio Vargas o pol&iacute;tico brasileiro mais importante no s&eacute;culo XX, foi ministro da Agricultura do governo parlamentarista de Jo&atilde;o Goulart, quando propus um imposto contra o latif&uacute;ndio e a favor da reforma agr&aacute;ria, fez oposi&ccedil;&atilde;o a ditadura, foi um dos fundadores do MDH, ingressou no PDT de Leonel Brizola e &eacute; grande amigo de Lula desde os anos 80. Segundo Monteiro Filho, empres&aacute;rio por heran&ccedil;a e pol&iacute;tico por paix&atilde;o, suas op&ccedil;&otilde;es n&atilde;o foram ideol&oacute;gicas, mas &eacute;ticas. &quot;Era aliado das forcas depostas e n&atilde;o poderia compactuar com o golpe&quot;, afirma.</p></p>
+<p><p>Perto de completar 85 anos, o pernambucano que sonhou ser jogador de futebol na juventude conta sua vida na biografia Foi Assim, resultado de uma s&eacute;rie de entrevistas no jornalista e amigo M&aacute;rio H&eacute;lio. Mais do que um relato de suas fa&ccedil;anhas empresariais e eleitorais, o livro registra os fatos a partir da perspectiva de quem participou diretamente ou teve uma vis&atilde;o privilegiada dos &uacute;ltimos 60 anos do poder no Brasil. E tamb&eacute;m a hist&oacute;ria de um homem p&uacute;blico coerente, que nunca mudou de lado e que sempre assumiu as consequ&ecirc;ncias das pr&oacute;prias escolhas. Nesta entrevista, Monteiro Filho analisa o passado, o presente e o futuro do Pa&iacute;s.</p></p>
+<p><p>Carta capital: O senhor est&aacute; otimista com o Brasil&#63;</p></p>
+<p><p>Armando Monteiro Filho: Tenho um defeito, ser otimista demais. Mas n&atilde;o &eacute; o caso agora. O Brasil vai muito bem, Lula foi realmente uma surpresa para muita gente, n&atilde;o para mim. Eu sempre votei no Lula para presidente. S&oacute; n&atilde;o votei uma vez no primeiro turno, mas no segundo, em 1989. Foi porque era do PDT e Leonel Brizola era candidato. Fui fundador do MDH. Quando foi extinto o MDB, optei pelo PDT gra&ccedil;as a uma boa rela&ccedil;&atilde;o que havia constru&iacute;do com Brizola entre a ren&uacute;ncia de J&ocirc;nio Quadros e o governo Jo&atilde;o Goulart. Estivemos do mesmo lado na resist&ecirc;ncia ao golpe de 1964.</p></p>
+<p><p>CC: O Brasil estaria melhor se o governo Jango n&atilde;o tivesse sido interrompido pelo golpe&#63;</p></p>
+<p><p>AMF: Tenho uma vers&atilde;o a respeito do golpe de 64. Primeiro, o suic&iacute;dio de Vargas protelou o golpe, que estava sendo tramado s&oacute; em 1954. A oposi&ccedil;&atilde;o,<br /></p>
+<p>a UDN mais especificamente, nunca se conformou com o prest&iacute;gio de Vargas, e depois com a popularidade do Juscelino Kubitschek, com o &ecirc;xito de JK em mudar o Brasil. E conspiravam.</p></p>
+<p><p>CC: O senhor diz que sempre votou em Lula. E uma posi&ccedil;&atilde;o rara entre empres&aacute;rios. Por que o senhor acha que, at&eacute; hoje, boa parte do empresariado refrat&aacute;ria a Lula&#63;</p></p>
+<p><p>AMF: Um grande empres&aacute;rio de Pernambuco, at&eacute; meu parente, tinha horror a Lula. Achava que era comunista. Mudou. Na &uacute;ltima conversa que tivemos, ele defendia um terceiro mandato para o presidente. O Brasil nunca teve uma &eacute;poca de tanto equil&iacute;brio em suas contas. Dev&iacute;amos muito<br /></p>
+<p>ao Fundo Monet&aacute;rio Internacional, ao Clube de Paris, e hoje somos credores do FMI. Nossas reservas cambiais superam os 250 bilh&otilde;es de d&oacute;lares.<br /></p>
+<p>Lula mudou o conceito do Brasil. Antes, nosso pa&iacute;s era conhecido por Pel&eacute;. pelo futebol e pelo carnaval. Hoje &eacute; levado a s&eacute;rio, as teses de Lula s&atilde;o absorvidas pelos pa&iacute;ses mais ricos do mundo em rela&ccedil;&atilde;o a fome. Foi realmente uma revolu&ccedil;&atilde;o e nunca houve um presidente com essa popularidade, mais de 80%. &Eacute; um caso vivido na nossa hist&oacute;ria. E Pernambuco tamb&eacute;m vai muito bem. Temos um governador (Eduardo Campos) moderno, apaixonado, obcecado pelo desenvolvimento econ&ocirc;mico. O canteiro de obras mais importante do Brasil &eacute; o Porto de Suape. Todos os estaleiros, a refinaria de petr&oacute;leo, uma infinidade de pequenas e m&eacute;dias ind&uacute;strias est&atilde;o l&aacute; instalados. De maneira que Pernambuco vive tamb&eacute;m um alto astral.</p></p>
+<p><p>CC: H&aacute; uma sensa&ccedil;&atilde;o em Pernambuco de que o estado recuperou um pouco do protagonismo do passado. E isso mesmo&#63;</p></p>
+<p><p>AMF: &Eacute;. Antes todos tratavam os usineiros como leprosos. Lula veio e apoiou o etanol e o biodiesel e passou a dizer que os usineiros s&atilde;o patriotas. Nunca houve tanto est&iacute;mulo para a produ&ccedil;&atilde;o de a&ccedil;&uacute;car e de gr&atilde;os. Ele tem dado aulas de administra&ccedil;&atilde;o p&uacute;blica, para surpresa de muita gente. Houve duas grandes transforma&ccedil;&otilde;es no Brasil. O governo de Juscelino foi uma mudan&ccedil;a de rumo. Um primeiro passo importante foi dado por Vargas com a sider&uacute;rgica de Volta Redonda.</p></p>
+<p><p>Juscelino disparou a ind&uacute;stria automobil&iacute;stica e agora Lula criou esse fato muito importante que &eacute; o avan&ccedil;o da economia brasileira. N&atilde;o teve preconceito com o passado. O projeto de Fernando Henrique no que diz respeito a c&acirc;mbio e infla&ccedil;&atilde;o foi aprimorado. Ele foi leal a isso, cumpriu rigorosamente, respeitou os investimentos e os acordos internacionais. Deu uma demonstra&ccedil;&atilde;o de capacidade fora do comum. Sou entusiasta do seu governo.</p></p>
+<p><p>CC: No seu livro, o senhor afirma que Get&uacute;lio Vargas foi o mais importante pol&iacute;tico brasileiro do s&eacute;culo XX. Por qu&ecirc;&#63;</p></p>
+<p><p>AMF: Ele evitou que o Brasil se polarizasse politicamente, tivesse uma guerra civil. Atendeu ao operariado, foi o criador do sal&aacute;rio m&iacute;nimo, o desenvolvimento tamb&eacute;m fluiu, fez a sider&uacute;rgica de volta Redonda. Considero-o um estadista. Get&uacute;lio foi um homem excepcional. Tomou uma infinidade de medidas que demonstraram a grandeza de sua administra&ccedil;&atilde;o.</p></p>
+<p><p>CC: Quando ministro da Agricultura, o senhor prop&ocirc;s um imposto sobre terras ociosas para financiar a reforma agr&aacute;ria. Queria saber...</p></p>
+<p><p>AMF: Se o meu projeto tivesse sido aprovado, hoje n&atilde;o haveria invas&atilde;o de terra, porque o estoque seria enorme. Qual era a sutileza do projeto&#63; Transferir o imposto territorial rural do munic&iacute;pio para a Uni&atilde;o. A ideia era taxar 10% ao ano sobre o valor da propriedade declarada pelo propriet&aacute;rio. Se ele tivesse 10 mil hectares, ele poderia pagar em terras. Daria mil hectares. Ou ele vendia ou chamava um s&oacute;cio e a desenvolvia. Ir&iacute;amos for&ccedil;ar a utiliza&ccedil;&atilde;o da terra.</p></p>
+<p><p>CC: Ainda e necess&aacute;ria uma reforma agr&aacute;ria&#63;</p></p>
+<p><p>AMF: Necess&aacute;ria &eacute;, embora o problema tenha se alterado. Quando fui ministro, 70% da popula&ccedil;&atilde;o morava no campo. Hoje, 80%, mora na cidade. Para<br /></p>
+<p>ser agricultor &eacute; preciso voca&ccedil;&atilde;o. &Eacute; uma atividade complexa: n&atilde;o pode chover demais, n&atilde;o pode ter seca, de maneira que &eacute; uma atividade muito prec&aacute;ria, e a pessoa precisa ter aptid&atilde;o para desenvolver essa t&eacute;cnica. Temos um setor agr&iacute;cola, um agroneg&oacute;cio, dos mais organizados e eficientes do mundo.</p></p>
+<p><p>CC: Como o senhor, filho de uma fam&iacute;lia tradicional de usineiros, foi parar no governo Jango e no PDT de Leonel Brizola&#63;</p></p>
+<p><p>AMF: N&atilde;o foi por motivos ideol&oacute;gicos, mas &eacute;ticos. Fui vice-l&iacute;der no governo JK e do PSD. N&atilde;o poderia de forma nenhuma pactuar com o que foi feito com o golpe, sobretudo por ter liga&ccedil;&otilde;es com as for&ccedil;as depostas.</p></p>
+<p><p>CC: Antes de ingressar na pol&iacute;tica, o senhor enveredou pelo futebol e chegou a jogar no Sport. A inda gosta de futebol&#63;</p></p>
+<p><p>AMF: Muito. N&atilde;o vou mais ao est&aacute;dio porque na televis&atilde;o se v&ecirc; muito melhor. Tor&ccedil;o muito pelo meu velho clube, o Sport Club do Recife. Fui campe&atilde;o invicto dois anos e no final recebi esse convite para jogar no S&atilde;o Paulo. Mas meu Pai era contra.</p></p>
+<p><p>CC: O que o senhor achou da sele&ccedil;&atilde;o Brasileira de Dunga especialmente&#63;</p></p>
+<p><p>AMF: N&atilde;o tenho essas simpatias todas por Dunga, mas acho que fizeram um papel miser&aacute;vel com ele na hora em que o demitiram por telefone. Ele sempre empenhou, esse time venceu muitas vezes, cresceu, ajustou-se, da maneira que uma derrota &eacute; sempre imprevista no futebol. Nos dois anos que joguei no Sport, fomos campe&otilde;es. O pior time da tabela era o Ibis. Quatro vezes jogamos com o Ibis, sempre como os primeiros da tabela, e n&atilde;o vencemos nenhuma, empatamos todas. O futebol tem dessas surpresas.</p></p>
+<p><p>CC: O senhor, na introdu&ccedil;&atilde;o do livro, cita Machado de Assis: &quot;O passado &eacute; a melhor parte do presente&quot;. &Eacute; isso mesmo&#63;</p></p>
+<p><p>AMF: Acho uma frase bonita e verdadeira.</p></p>
+<p><p>CC: Por qu&ecirc;&#63;</p></p>
+<p><p>AMF: Quem controla o passado controla o presente. Quem controla o presente controla o futuro. Quer dizer, essas coisas acontecem. As circunst&acirc;ncias pesam mais que as pessoas. O neg&oacute;cio da oportunidade na pol&iacute;tica, por exemplo, &eacute; fundamental</p></p>
+<p><p>CC: No livro o senhor diz ter esperan&ccedil;a em um desfecho positivo no caso da interven&ccedil;&atilde;o do Bala&ccedil;o Mercantil de Pernambuco.</p></p>
+<p><p>AMF: A coisa est&aacute; tomando um aspecto muito radical, o Banco Central achou que n&atilde;o era oportuno resolver, sob o argumento de que n&atilde;o daria dinheiro a um banco falido. N&atilde;o &eacute; o caso. Nunca fomos falidos, o patrim&ocirc;nio l&iacute;quido era positivo. Eu sugeri no Banco Central fazer um leil&atilde;o das minhas a&ccedil;&otilde;es. Tenho a maioria absoluta, por isso sou respons&aacute;vel pela interven&ccedil;&atilde;o. Os bancos m&eacute;dios e pequenos perderam espa&ccedil;o com o Plano Real eu n&atilde;o me apercebi disso. Os bancos do tamanho do nosso se inviabilizaram. Sobrevivem tr&ecirc;s ou quatro nacionais, o resto s&atilde;o estrangeiros. O processo corre no Supremo. Estou com esperan&ccedil;a de que, ap&oacute;s 15 anos desse processo, o STF tome uma decis&atilde;o.</p></p>
+<p><p>CC: O senhor declara se apaixonado pela pol&iacute;tica. O que diria aos jovens desencantados com ela&#63;</p></p>
+<p><p>AMF: H&aacute; uma campanha orquestrada contra o Parlamento e alguns congressistas s&atilde;o respons&aacute;veis por esse conceito p&eacute;ssimo que a sociedade faz hoje dos pol&iacute;ticos. Isso afasta o jovem, que &eacute; idealista, que melhorar a vida dos mais pobres. No momento em que houver uma higieniza&ccedil;&atilde;o no processo pol&iacute;tico, uma reforma, ou funcionem leis como essa da ficha limpa, jovens v&atilde;o se interessar porque &eacute; uma coisa agrad&aacute;vel. Os estudantes por natureza gostam de pol&iacute;tica. A tend&ecirc;ncia existe agora a repugn&acirc;ncia prevalece. O sujeito n&atilde;o quer se meter em lugar t&atilde;o difamado.<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

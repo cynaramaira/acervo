@@ -1,0 +1,33 @@
+---
+id: 12428196
+date: "2011-06-23T13:28:00Z"
+last_modified_at: null
+tags:
+  - "barreiras"
+  - "escolas"
+categories:
+  - "noticias"
+title: "Escolas Integrais vencem barreiras e se consolidam"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Terezinha Nunes</p></p>
+<p><p>H&aacute; pouco mais de uma semana, o estado de Pernambuco comemorou uma vit&oacute;ria na &eacute;rea de educa&ccedil;&atilde;o. Levantamento realizado pela Secretaria Estadual de Educa&ccedil;&atilde;o atrav&eacute;s do Idepe ( &Iacute;ndice de Desenvolvimento da Educa&ccedil;&atilde;o) concluiu que os alunos matriculadas nas escolas de tempo integral de ensino m&eacute;dio,cuja implanta&ccedil;&atilde;o foi iniciada na gest&atilde;o do ex-governador Jarbas Vasconcelos,&nbsp; v&ecirc;m conseguindo melhorar ano a ano o seu desempenho. Em 2008 conseguiram m&eacute;dia 3,9, em 2009 4,2 e em 2010 4,6.</p></p>
+<p><p>Embora o MEC estabele&ccedil;a que um aluno estar&aacute; plenamente apto conseguindo a m&eacute;dia 6 &ndash; algumas escolas integrais est&atilde;o perto disso como a Maria Vieira Muliterno, de Abreu e Lima, cujos alunos atingiram a m&eacute;dia 5,39 (a maior) &ndash; o fato de os estudantes das escolas em tempo integral estarem bem na frente dos das demais escolas, demonstra que a experi&ecirc;ncia vem dando certo e &eacute; a sa&iacute;da para toda a rede de ensino.</p></p>
+<p><p>Para se ter uma ideia da diferen&ccedil;a que existe hoje entre as escolas normais e as de tempo integral, no mesmo levantamento, os alunos das escolas de apenas um turno de ensino tiveram desempenho bem menor, conseguindo m&eacute;dia 2,5 em 2008, 2,8 em 2009 e 2,9 em 2010.</p></p>
+<p><p>No mesmo levantamento tamb&eacute;m ficou claro que as escolas semi-integrais, criadas na gest&atilde;o do governador Eduardo Campos ( um meio-termo) tamb&eacute;m tiveram desempenho bem aqu&eacute;m das escolas em tempo integral. Suas m&eacute;dias foram 2,6 em 2008, 3,0 em 2009 e 3,7 em 2010.</p></p>
+<p><p>Nas escolas em tempo integral, como o nome indica, o estudante permanece na unidade de ensino por dois turnos e, al&eacute;m das aulas normais, tem atividades extra-classe. Os professores tamb&eacute;m dedicam-se totalmente ao ensino em um &uacute;nico estabelecimento, fugindo de uma verdadeira maratona de ensinar em at&eacute; tr&ecirc;s turnos para melhorar o sal&aacute;rio.</p></p>
+<p><p>Em 2003, no in&iacute;cio da experi&ecirc;ncia, houve uma enorme rea&ccedil;&atilde;o ao projeto por parte do PT e do Sindicato dos Professores, o que acabou retardando a implanta&ccedil;&atilde;o das medidas.</p></p>
+<p><p>A experi&ecirc;ncia, sugerida ao ent&atilde;o governador pelo empres&aacute;rio Marcos Magalh&atilde;es e que contou com o apoio de v&aacute;rias empresas privadas de dentro e de fora do estado, &eacute; hoje vitoriosa n&atilde;o s&oacute; em Pernambuco como em estados como Cear&aacute;, Piau&iacute; e Sergipe. Com base no modelo pernambucano, Marcos Magalh&atilde;es, que preside o ICE &ndash; Instituto de Co-Responsabilidade pela Educa&ccedil;&atilde;o, foi requisitado por outros governadores para ajudar na implanta&ccedil;&atilde;o das escolas integrais em seus estados.</p></p>
+<p><p>Al&eacute;m do bom desempenho apresentado no Idepe, as escolas em tempo integral trouxeram para o nosso estado outra boas novas. O atual governador, demonstrando responsabilidade social, continuou com o modelo, embora talvez precise repensar sobre as escolas de ensino semi-integral que, pelos resultados apresentados, n&atilde;o est&atilde;o tendo a mesma efici&ecirc;ncia.H&aacute; que se louvar tamb&eacute;m a persist&ecirc;ncia dos prefeitos, parceiros do estado, que continuam a ajudar o funcionamento dessas escolas.</p></p>
+<p><p>O modelo pernambucano de escolas integrais tamb&eacute;m acabou derrubando as barreiras ideol&oacute;gicas usadas pelo PT na &eacute;poca ao afirmar que o governador estava privatizando o ensino p&uacute;blico. Um verdadeiro absurdo que o tempo se encarregou de desmentir.</p></p>
+<p><p>O Sindicato dos Trabalhadores na Educa&ccedil;&atilde;o de Pernambuco &ndash; Sintepe &ndash; autor das passeatas em 2003, ainda faz cr&iacute;ticas ao modelo mas n&atilde;o mais se disp&otilde;e a sair pelas ruas criticando-o. J&aacute; a deputada Tereza Leit&atilde;o, na &eacute;poca uma advers&aacute;ria da proposta, foi aos jornais h&aacute; uma semana demonstrar que evoluiu no entendimento sobre o assunto e, ao inv&eacute;s de falar em privatiza&ccedil;&atilde;o, como fez v&aacute;rias vezes na Alepe, defendeu que a experi&ecirc;ncia n&atilde;o ficasse limitada a algumas dezenas de escolas, mas que fosse estendida a toda a rede.</p></p>
+<p><p>Ap&oacute;s todas as dificuldades iniciais, as escolas em tempo integral venceram todas as barreiras e, com isso, ganha a popula&ccedil;&atilde;o, ganha a educa&ccedil;&atilde;o e ganha Pernambuco.</p></p>
+<p><p>CURTAS</p></p>
+<p><p>Indecis&atilde;o- O deputado federal Jo&atilde;o Paulo, em conversas reservadas, ainda alimenta a possibilidade de ser candidato a prefeito do Recife em 2012 e se deu um prazo: final de julho. Carrega, por&eacute;m, uma grande d&uacute;vida sobre o partido no qual deveria se abrigar. Teme que, ficando em um partido da base governista, seja v&iacute;tima do rolo compressor e acabe sem legenda.Teme tamb&eacute;m que procurando uma de oposi&ccedil;&atilde;o, tenha que se distanciar da presidente Dilma. Pelo andar da carruagem, JP est&aacute; mesmo &eacute; perdendo o timing.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p></p>
+<p><p>Humberto-&nbsp; Nas cercanias do PT, embora todos trabalhem para que Jo&atilde;o da Costa se recupere e seja candidato a reelei&ccedil;&atilde;o, andam soltas as articula&ccedil;&otilde;es, inclusive junto ao ex-presidente Lula, para que o candidato seja o senador Humberto Costa e, em este n&atilde;o se viabilizando, Maur&iacute;cio Rands, mais do agrado do governador Eduardo Campos.</p></p>
+<p><p>Rixas &ndash; Os desentendimentos entre o PT e o PSB que estavam contidos aos bastidores se tornaram p&uacute;blicos depois que Jorge Perez ensaiou uma cobran&ccedil;a ao governador por conta da aproxima&ccedil;&atilde;o com o PSDB e recebeu, de pronto, uma resposta contundente do deputado estadual Alu&iacute;sio Lessa (PSB) que recha&ccedil;ou as declara&ccedil;&otilde;es de Perez e disse que se fosse assim o PSB tinha direito de cobrar ao PT as alian&ccedil;as com Collor, Sarney e Renan. Mais claro, imposs&iacute;vel.</p></p>
+{% endraw %}

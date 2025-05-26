@@ -1,0 +1,32 @@
+---
+id: 12410755
+date: "2010-02-13T16:50:00Z"
+last_modified_at: null
+tags:
+  - "ciro-gomes"
+  - "dilma"
+  - "pernambuco"
+categories:
+  - "noticias"
+title: "Dilma e Ciro ainda precisam se tornar mais conhecidos em Pernambuco"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: center;"><img height="345" width="520" src="https://jc3.uol.com.br/blogs/repositorio/dilma_no_galo.jpeg" alt="" /></p></p>
+<p><p style="text-align: center;"><span style="font-size: smaller;">Foto: H&eacute;lia Scheppa/JC Imagem</span></p></p>
+<p><p>O Galo da Madrugada serviu como um grande teste de popularidade para os pr&eacute;-candidatos governistas, ministra Dilma Rousseff (PT) e deputado federal Ciro Gomes (PSB). Ambos estiveram ao lado do governador de Pernambuco, Eduardo Campos (PSB), numa verdadeira maratona sob um sol escaldante.</p></p>
+<p><p>Ficou evidente que, a princ&iacute;pio, os dois n&atilde;o s&atilde;o caras t&atilde;o conhecidas pela popula&ccedil;&atilde;o pernambucana.<a href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2010/02/13/dilma_e_ciro_caminham_pelas_ruas_do_galo_63983.php"> Na caminhada da sede do governo, o Pal&aacute;cio do Campo das Princesas, at&eacute; a Avenida Guararapes, onde estavam os camarotes</a>, Eduardo era o mais assediado. Apenas uma pessoa gritou o nome da ministra Dilma, que na &aacute;rea VIP da Prefeitura do Recife chamou mais aten&ccedil;&atilde;o que Ciro, principalmente ao balan&ccedil;ar uma bandeira de Pernambuco para os foli&otilde;es. Os dois pr&eacute;-candidatos <a href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2010/02/13/a_dificil_missao_de_acompanhar_os_presidenciaveis_64012.php">ensaiaram um remelexo </a>ao ouvir a <a href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2010/02/13/ciro_e_dilma_cantam_madeira_que_cupim_nao_roi_63993.php">m&uacute;sica &quot;Madeira do Rosarinho&quot;</a>, cl&aacute;ssico de Capiba.</p></p>
+<p><p>Questionada sobre que nota se daria caso o Carnaval fosse um teste de popularidade, Dilma desconversou e n&atilde;o respondeu (<a href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2010/02/13/dilma_desconversa_ao_ser_perguntada_de_sua_popularidade_no_galo_64011.php">veja v&iacute;deo</a>).</p></p>
+<p><p>Do Recife, a ministra seguiu para Salvador e depois deve ir ao Rio de Janeiro. &quot;Quando a gente vai a um, desperta o ci&uacute;mes do outro. Gosto muito do Eduardo (Campos), do Jaques (Jaques Wagner, governador da Bahia) e do S&eacute;rgio Cabral (governador do Rio de Janeiro)&quot;.</p></p>
+<p><p>Dilma negou que sua aus&ecirc;ncia no Carnaval de S&atilde;o Paulo esteja ligada ao fato de Jos&eacute; Serra (PSDB), seu rival nas elei&ccedil;&otilde;es, ser o governador de l&aacute;. &quot;Errei a data. Tinha de ter ido no ensaio, mas n&atilde;o pude ir porque estava com o presidente no dia. Somos todos civilizados. S&atilde;o Paulo tem hoje um Carnaval respeit&aacute;vel&quot;, afirmou.</p></p>
+<p><p>Assim como Ciro e Serra, a ministra disse que n&atilde;o estava na cidade em campanha. &quot;De hoje at&eacute; Quarta-feira de Cinzas n&atilde;o tem pol&iacute;tica. &Eacute; s&oacute; Carnaval. O Carnaval do Recife &eacute; uma maravilha. Voltarei sempre&quot;.</p></p>
+<p><p><a href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2010/02/13/veja_video_de_ciro_no_palacio_campo_das_princesas_63978.php">Ciro Gomes tamb&eacute;m disse que estava na cidade exclusivamente por motivos carnavalescos</a>. O deputado fez quest&atilde;o de afagar a ministra que respondeu da mesma maneira. &quot;Em nenhuma circunst&acirc;ncia eu sou advers&aacute;rio da Dilma. Somos candidatos. Advers&aacute;rio &eacute; quando voc&ecirc; tem um antagonismo conceitual. N&oacute;s dois n&atilde;o temos. Somos bons amigos, inclusive&quot;, disse Ciro. &quot;A minha rela&ccedil;&atilde;o com Ciro &eacute; uma rela&ccedil;&atilde;o especial. Independe do que ocorrer. Gosto demais do Ciro. Acho ele uma pessoa muito decente&quot;, retribuiu Dilma.</p></p>
+<p><p><a href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2010/02/13/embora_neguem_de_pes_juntos_presidenciaveis_colocam_o_bloco_na_rua_no_galo_da_madrugada_64039.php">&raquo; Embora neguem de p&eacute;s juntos, presidenci&aacute;veis colocam o bloco na rua no Galo da Madrugada</a></p></p>
+<p><p><a href="https://qik.com/jconline1">&raquo; Confira todos os v&iacute;deos de Eduardo Campos, Ciro Gomes e Dilma Rousseff&nbsp; que o Blog de Jamildo transmitiu ao vivo</a></p></p>
+<p><p>A metralhadora verbal do deputado federal desta vez voltou-se para Jos&eacute; Serra. &quot;&Eacute; importante que (Serra) venha para ele conhecer o mundo real pelo menos uma vezinha na vida&quot;, disparou. Disse ainda que ser&aacute; dif&iacute;cil haver uma aproxima&ccedil;&atilde;o do pr&eacute;-candidato do PSDB com o Nordeste. &quot;<a href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2010/02/13/ciro_e_mais_facil_um_boi_voar_do_que_serra_se_identificar_com_o_nordeste_63979.php">&Eacute; muito mais f&aacute;cil um boi voar do que ele se identificar com o Nordeste</a>. Inclusive hoje, enquanto governador de S&atilde;o Paulo, faz guerra fiscal com o Nordeste&quot;.</p></p>
+<p><p>Ciro tamb&eacute;m falou da pol&iacute;tica local disse n&atilde;o acreditar que Jarbas Vasconcelos (PMDB) sair&aacute; candidato ao governo do Estado. &quot;&Eacute; um palpite de quem conhece um pouco a vida. Eduardo est&aacute; preparado, com o extraordin&aacute;rio governo que est&aacute; fazendo, para vencer qualquer cen&aacute;rio. Jarbas j&aacute; foi governador. Eu j&aacute; fui governador e nunca mais vou ser candidato a governador do Cear&aacute;. N&atilde;o quero&quot;. Ao ser perguntado se gostaria de governar S&atilde;o Paulo, disse que n&atilde;o, pois era candidato a presidente e voltou a afirmar que nada era definitivo. &quot;Definitivo s&oacute; a morte. Ele perguntou se eu queria (ser candidato a governador de S&atilde;o Paulo). Eu disse que n&atilde;o. N&atilde;o se pode disputar duas coisas na mesma elei&ccedil;&atilde;o. Como sou candidato a presidente, n&atilde;o posso ser a governador&quot;.</p></p>
+<p><p>Ciro Gomes ainda teve f&ocirc;lego para ir a Olinda, onde almo&ccedil;ou. De Pernambuco ele segue para o Cear&aacute;. Visitar&aacute; a m&atilde;e em Fortaleza, passa por Sobral e depois vai ao Rio de Janeiro.</p> </p>
+{% endraw %}

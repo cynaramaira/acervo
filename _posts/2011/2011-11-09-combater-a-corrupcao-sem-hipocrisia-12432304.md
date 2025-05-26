@@ -1,0 +1,26 @@
+---
+id: 12432304
+date: "2011-11-09T15:49:00Z"
+last_modified_at: null
+tags:
+  - "corrupcao"
+categories:
+  - "noticias"
+title: " Combater a corrup\u00e7\u00e3o sem hipocrisia "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><img width="450" height="357" alt="" src="https://www.reidaverdade.com/wp-content/uploads/2011/09/Corrup%C3%A7%C3%A3o-no-Brasil.jpg" /></p></p>
+<p><p>Por Paulo Teixeira, no&nbsp;<a target="_blank" href="https://www.pt.org.br/index.php&#63;/noticias/view/artigo_combater_a_corrupcaeo_sem_hipocrisia_por_paulo_teixeira">Portal do PT</a></p></p>
+<p><p><i>Com a autoridade de quem, na condi&ccedil;&atilde;o de presidente da Rep&uacute;blica, foi informado por Ricardo S&eacute;rgio, ent&atilde;o diretor do Banco do Brasil e ex-tesoureiro de campanhas tucanas, de que a privatiza&ccedil;&atilde;o do Sistema Telebr&aacute;s estava sendo feita no &quot;limite da irresponsabilidade&quot; e n&atilde;o tomou nenhuma provid&ecirc;ncia, Fernando Henrique Cardoso se sente &agrave; vontade para teorizar sobre corrup&ccedil;&atilde;o.</i></p></p>
+<p><p>FHC criticou em artigo o ministro Aldo Rebelo que, segundo o pr&iacute;ncipe dos soci&oacute;logos, considera que tudo quanto &eacute; privado (ONGs, etc&hellip;) &eacute; corrupto e que o Estado &eacute; isento de corrup&ccedil;&atilde;o. &Eacute; certo que a invas&atilde;o de ONGs e OSCIPs realmente foi obra dos tucanos e guarda coer&ecirc;ncia com a no&ccedil;&atilde;o do Estado m&iacute;nimo liberal. Assim, com um Estado reduzido, os tucanos se omitiam em prestar servi&ccedil;os sociais, mas repassavam recursos para as ONGs amigas que, por sua vez, entregavam &agrave; popula&ccedil;&atilde;o servi&ccedil;os de p&eacute;ssima qualidade.</p></p>
+<p><p>Mas a pecha lan&ccedil;ada contra Aldo Rebelo n&atilde;o cola no governo. Desde 2003, foi institu&iacute;da no Brasil uma pol&iacute;tica de Estado de combate &agrave; corrup&ccedil;&atilde;o. A CGU (Controladoria-Geral da Uni&atilde;o) conduz, desde ent&atilde;o, uma pol&iacute;tica de combate &agrave; corrup&ccedil;&atilde;o nos meandros do aparelho de Estado. Neste per&iacute;odo foram punidos com exonera&ccedil;&atilde;o do servi&ccedil;o p&uacute;blico 3.434 servidores p&uacute;blicos. Desnecess&aacute;rio dizer que, sob FHC, n&atilde;o se verificaram puni&ccedil;&otilde;es desta natureza e a CGU, ent&atilde;o denominada Corregedoria-Geral da Uni&atilde;o, era um simples cabide de emprego, um anexo do Pal&aacute;cio do Planalto, destinado a abrigar figuras como Anadyr Mendon&ccedil;a Rodrigues, que mais tarde continuou desempenhando papel de figurante no combate &agrave; corrup&ccedil;&atilde;o no governo do c&eacute;lebre Joaquim Roriz, ex-governador do Distrito Federal.</p></p>
+<p><p>N&atilde;o custa tamb&eacute;m lembrar que, sob FHC, o Minist&eacute;rio P&uacute;blico foi comandado por um engavetador-geral de Rep&uacute;blica, Geraldo Brindeiro, que bloqueava qualquer tentativa de a&ccedil;&atilde;o independente desta importante institui&ccedil;&atilde;o da Rep&uacute;blica. No per&iacute;odo tucano (1995-2002), a Pol&iacute;cia Federal estava desaparelhada, com d&eacute;ficit de pessoal e praticamente n&atilde;o combateu a corrup&ccedil;&atilde;o. A PF foi acionada uma vez contra a aliada Roseana Sarney, n&atilde;o para combater a corrup&ccedil;&atilde;o, mas para inviabilizar sua candidatura pelo PFL, que amea&ccedil;ava a candidatura Jos&eacute; Serra. Era luta interna. A partir do governo do presidente Lula, a PF foi reequipada, teve seu efetivo duplicado e passou a desempenhar um papel destacado no combate &agrave; corrup&ccedil;&atilde;o. Pela primeira vez na hist&oacute;ria do Pa&iacute;s, ricos foram presos.</p></p>
+<p><p>Em relat&oacute;rio divulgado dia 27 de outubro &uacute;ltimo, a OCDE reconhece os importantes progressos realizados pela Administra&ccedil;&atilde;o P&uacute;blica Federal, registrando os avan&ccedil;os significativos promovidos pelo governo brasileiro nas &aacute;reas de promo&ccedil;&atilde;o da transpar&ecirc;ncia, de controle social e controle interno, por exemplo. Antes da OCDE, o presidente dos EUA, Barak Obama, e a secret&aacute;ria de Estado, Hillary Clinton, j&aacute; haviam reconhecido oficialmente que o governo brasileiro pratica transpar&ecirc;ncia e combate a corrup&ccedil;&atilde;o. Por isso, o Brasil foi escolhido pelo governo norte-americano como principal parceiro para uma iniciativa internacional destinada a estimular pr&aacute;ticas administrativas cada vez mais transparentes.</p></p>
+<p><p>FHC est&aacute; enganado quando sup&otilde;e que a hist&oacute;ria vai ser escrita tendo em conta apenas as mat&eacute;rias amig&aacute;veis publicadas pela imprensa favor&aacute;vel ao projeto neoliberal tucano , em oposi&ccedil;&atilde;o ao projeto iniciado em 2003, para a constru&ccedil;&atilde;o de um Brasil soberano, independente, sustent&aacute;vel, com crescimento econ&ocirc;mico, justi&ccedil;a social e permanente combate &agrave; secular corrup&ccedil;&atilde;o em nosso pa&iacute;s.</p></p>
+<p><p>Deputado Paulo Teixeira<br /></p>
+<p>L&iacute;der do PT</p></p>
+{% endraw %}

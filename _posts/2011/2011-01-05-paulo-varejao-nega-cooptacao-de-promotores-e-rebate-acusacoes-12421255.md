@@ -1,0 +1,69 @@
+---
+id: 12421255
+date: "2011-01-05T20:30:00Z"
+last_modified_at: null
+tags:
+  - "paulo"
+categories:
+  - "noticias"
+title: "Paulo Varej\u00e3o nega ''coopta\u00e7\u00e3o de promotores'' e rebate acusa\u00e7\u00f5es"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: center;"><img width="520" height="381" src="https://jc3.uol.com.br/blogs/repositorio/paulo_varejao_tiago_calazaes_05jan211.JPG" alt="" /><br /></p>
+<p><span style="font-size: smaller;"><b>REUNI&Atilde;O</b> Conselho do MPPE fez encontro para elaborar nota para imprensa (Foto: Tiago Calaz&atilde;es/JC Imagem)</span></p></p>
+<p><p>NOTA OFICIAL<br /></p>
+<p><br /></p>
+<p>O Procurador-Geral de Justi&ccedil;a vem responder &agrave;s mat&eacute;rias veiculadas no &uacute;ltimo dia 04 de janeiro de 2011 sobre o Minist&eacute;rio P&uacute;blico de Pernambuco:<br /></p>
+<p><br /></p>
+<p>Inicialmente, havemos de ressaltar que o Minist&eacute;rio P&uacute;blico, defensor por excel&ecirc;ncia do regime democr&aacute;tico, defende a liberdade de manifesta&ccedil;&atilde;o de pensamento, recha&ccedil;ando, todavia, o anonimato, pr&aacute;tica pr&oacute;pria de regimes totalit&aacute;rios e vedada expressamente pelo artigo 5&ordm;, IV, da Constitui&ccedil;&atilde;o Federal, lamentando que &ldquo;pessoas&rdquo; se utilizem de tal instrumento para distorcer a verdade e macular condutas praticadas em fiel cumprimento &agrave;s leis.<br /></p>
+<p><br /></p>
+<p>Feitas tais considera&ccedil;&otilde;es, devemos salientar que, em nenhum momento ou de qualquer forma, ocorreu &ldquo;coopta&ccedil;&atilde;o de promotores&rdquo; no &acirc;mbito do Minist&eacute;rio P&uacute;blico do Estado de Pernambuco, sendo certo que avilta a honra de todos os membros de nossa Institui&ccedil;&atilde;o tal insinua&ccedil;&atilde;o.<br /></p>
+<p><br /></p>
+<p>Todavia, como servidores p&uacute;blicos que somos, devemos sempre prestar contas de nossas a&ccedil;&otilde;es ao povo de Pernambuco, como o fazemos diariamente, atrav&eacute;s do Portal de Transpar&ecirc;ncia instalado em nosso site, que traz todos os gastos do Minist&eacute;rio P&uacute;blico, acess&iacute;vel a qualquer cidad&atilde;o conectado &agrave; internet.<br /></p>
+<p><br /></p>
+<p>Saliente-se que o nosso Minist&eacute;rio P&uacute;blico foi um dos primeiros do pa&iacute;s a instalar o Portal da Transpar&ecirc;ncia, antecipando-se, inclusive, &agrave; recomenda&ccedil;&atilde;o do Egr&eacute;gio Conselho Nacional do Minist&eacute;rio P&uacute;blico.<br /></p>
+<p>Portanto, indignados com as cal&uacute;nias assacadas de forma irrespons&aacute;vel contra o Minist&eacute;rio P&uacute;blico de Pernambuco, em seu BLOG, em data de 04.01.11, com arrimo em den&uacute;ncias vis, abjetas e pusil&acirc;nimes, posto que an&ocirc;nimas, vimos, pelo presente, com fulcro no sagrado e constitucional direito de defesa conferido a todo e qualquer cidad&atilde;o pela Constitui&ccedil;&atilde;o do pa&iacute;s, esclarecer:<br /></p>
+<p><br /></p>
+<p>1. Que o uso dos ve&iacute;culos oficiais da Institui&ccedil;&atilde;o &eacute; disciplinado desde a Instru&ccedil;&atilde;o Normativa n. 001/2008, publicada no Di&aacute;rio Oficial do Estado de 02.04.08, e s&oacute; se presta &agrave; luz do referido ato normativo &agrave; condu&ccedil;&atilde;o de membros e servidores em servi&ccedil;o, inclusive, com preenchimento de mapas de deslocamentos monitorados pelo Departamento de Transportes. Al&eacute;m do mais, o controle de uso desses ve&iacute;culos &eacute; delegado de forma absoluta aos Coordenadores de Circunscri&ccedil;&otilde;es, eleitos por seus pares. Portanto, como se vislumbrar coopta&ccedil;&atilde;o eleitoral dos colegas do interior pela Procuradoria Geral&#63;<br /></p>
+<p><br /></p>
+<p>2. Urge real&ccedil;ar nesse particular que at&eacute; o ve&iacute;culo de representa&ccedil;&atilde;o do Procurador-Geral &eacute; por este utilizado t&atilde;o-somente de segunda a sexta-feira em miss&otilde;es oficias.&nbsp;&nbsp; <br /></p>
+<p><br /></p>
+<p>3. Outrossim, que n&atilde;o existe nenhum registro de tal tipo de den&uacute;ncia aos &Oacute;rg&atilde;os de Fiscaliza&ccedil;&atilde;o Interna ou Externa, tais como Ouvidoria, Corregedoria Geral ou Conselho Nacional do Minist&eacute;rio P&uacute;blico;<br /></p>
+<p><br /></p>
+<p>4. Os ve&iacute;culos corolla, em n&uacute;mero de 13 (treze), s&atilde;o de representa&ccedil;&atilde;o dos cargos previstos no &iacute;tem 2.1, inciso I, da aludida instru&ccedil;&atilde;o normativa, cujos ocupantes exercem suas atribui&ccedil;&otilde;es na Capital. Via de conseq&uuml;&ecirc;ncia, totalmente infundada a assertiva de V.Sa. de que&nbsp; mencionados ve&iacute;culos seriam utilizados no interior do Estado por Promotores de Justi&ccedil;a;<br /></p>
+<p><br /></p>
+<p>5. Ademais, as caminhonetes FRONTIER, locadas em n&uacute;mero de (03) tr&ecirc;s, duas est&atilde;o no interior, respectivamente nas sedes de circunscri&ccedil;&atilde;o de Caruaru e Petrolina, e a terceira na Capital, na Coordenadoria de Engenharia. Suas loca&ccedil;&otilde;es se devem &agrave; necessidade das atividades fins desenvolvidas pelas Promotorias, tais como realiza&ccedil;&atilde;o de dilig&ecirc;ncias na zona rural, transporte de material de expediente etc.<br /></p>
+<p><br /></p>
+<p>6. Que a loca&ccedil;&atilde;o de ve&iacute;culos pelo Minist&eacute;rio P&uacute;blico foi realizada, pioneiramente, por nossa gest&atilde;o j&aacute; em 2008, acompanhando uma tend&ecirc;ncia nacional de gest&atilde;o p&uacute;blica moderna, eficiente e econ&ocirc;mica, tanto que adotada por institui&ccedil;&otilde;es de v&aacute;rios Estados da Federa&ccedil;&atilde;o, inclusive, pelo Governo do Estado de Pernambuco. &Eacute; importante registrar que quando assumimos a Chefia da Institui&ccedil;&atilde;o, o carro destinado &agrave; representa&ccedil;&atilde;o do Procurador-Geral era um Honda Civic doado pelo Tribunal de Justi&ccedil;a considerado inserv&iacute;vel pelo doador;<br /></p>
+<p><br /></p>
+<p>7. Outras inverdades publicadas dizem respeito ao per&iacute;odo, &agrave; forma e ao valor da renova&ccedil;&atilde;o, porquanto esta se deu em agosto de 2010 com primeiro pagamento em setembro do mesmo ano, na forma de modalidade de licita&ccedil;&atilde;o preg&atilde;o presencial n. 009/10, processo licitat&oacute;rio 015/10, publicado em 26.05.10, e o valor contratado pelo per&iacute;odo de doze meses importou em R$ 1.670.432,28 (hum milh&atilde;o, seiscentos e setenta mil e quatrocentos e trinta e dois reais e vinte oito centavos) e n&atilde;o R$ 3.000.000,00 (tr&ecirc;s milh&otilde;es) como informado;<br /></p>
+<p><br /></p>
+<p>8. Importante frisar-se que, ao contr&aacute;rio do que est&aacute; escrito na mat&eacute;ria de vossa lavra, nenhum membro da Comiss&atilde;o de Licita&ccedil;&atilde;o, formada exclusivamente por servidores do Minist&eacute;rio P&uacute;blico concursados e est&aacute;veis, imputou superfaturamento no contrato de renova&ccedil;&atilde;o da frota, conforme desmentem tal noticia na declara&ccedil;&atilde;o em anexo.&nbsp; Ainda, que essa renova&ccedil;&atilde;o representou uma economia efetiva de R$ 405.182, 40 (quatrocentos e cinco mil, cento e oitenta e dois reais e quarenta centavos) verificada entre o pre&ccedil;o m&eacute;dio or&ccedil;ado no mercado e o que foi contratado.<br /></p>
+<p><br /></p>
+<p>9. Tamb&eacute;m n&atilde;o &eacute; verdade que o Minist&eacute;rio P&uacute;blico de Pernambuco ir&aacute; ser objeto de investiga&ccedil;&atilde;o da Corregedoria Nacional em janeiro e fevereiro. O que &eacute; real &eacute; que sendo o NIMPE (N&uacute;cleo de Intelig&ecirc;ncia do Minist&eacute;rio P&uacute;blico de Pernambuco), o &uacute;nico &Oacute;rg&atilde;o de Intelig&ecirc;ncia dos Minist&eacute;rios P&uacute;blicos do Brasil criado por lei, despertou por esta e outras raz&otilde;es relativas ao seu bom desempenho, o interesse do GNECOC (Grupo Nacional de Combate ao Crime Organizado) que, atendendo &agrave; recomenda&ccedil;&atilde;o do Conselho Nacional do Minist&eacute;rio P&uacute;blico, deseja unificar a denomina&ccedil;&atilde;o desses grupos e a sua forma de cria&ccedil;&atilde;o, que dever&aacute;, a exemplo de Pernambuco, ser por lei. Ou seja, mais uma vez o MPPE est&aacute; sendo referencial nacional.<br /></p>
+<p><br /></p>
+<p>10. No que tange &agrave; noticia repassada de que teriam ocorrido nomea&ccedil;&otilde;es e promo&ccedil;&otilde;es em troca de venda de votos, h&aacute; de se ressaltar que todos os atos ocorreram seguindo o estatu&iacute;do nos artigos 44 e seguintes da Lei Complementar n&ordm;. 12/94, Lei Org&acirc;nica do Minist&eacute;rio P&uacute;blico de Pernambuco, sendo certo que, os editais foram apreciados pelo Conselho Superior do Minist&eacute;rio P&uacute;blico, &oacute;rg&atilde;o colegiado formado por nove procuradores de justi&ccedil;a.<br /></p>
+<p><br /></p>
+<p>11. &Eacute; mais uma leviandade a afirma&ccedil;&atilde;o de que ocorreram promo&ccedil;&otilde;es sem Comarcas, fato este de f&aacute;cil comprova&ccedil;&atilde;o por parte desse Blog que possui f&aacute;cil acesso ao Di&aacute;rio Oficial.<br /></p>
+<p><br /></p>
+<p>12. Frise-se que a movimenta&ccedil;&atilde;o na carreira ocorreu atrav&eacute;s de promo&ccedil;&otilde;es e remo&ccedil;&otilde;es, as quais se deram pelos crit&eacute;rios de antiguidade e merecimento, em editais apreciados pelo Conselho Superior do Minist&eacute;rio P&uacute;blico, formado por nove procuradores de justi&ccedil;a.<br /></p>
+<p><br /></p>
+<p>13. Quinze Promotores de Justi&ccedil;a foram nomeados, conforme Di&aacute;rio Oficial do dia 09 de julho de 2010, sendo designados para&nbsp; Comarcas mais long&iacute;nquas, diversas de suas titularidades, que necessitavam da presen&ccedil;a de Promotores de Justi&ccedil;a, com maior urg&ecirc;ncia no sert&atilde;o de Pernambuco.<br /></p>
+<p><br /></p>
+<p>14. Portanto, no Di&aacute;rio Oficial de 04 de janeiro de 2011, as portarias publicadas t&atilde;o-somente determinaram que os quinze novos promotores de justi&ccedil;a assumissem suas titularidades, fato que j&aacute; era do conhecimento interno desde a nomea&ccedil;&atilde;o, ocorrida em julho/2010, demonstrando, assim, que n&atilde;o houve qualquer ,favorecimento pessoal.<br /></p>
+<p><br /></p>
+<p>15. Tamb&eacute;m devemos mencionar que os Promotores de Justi&ccedil;a Camila Mendes de Santana Coutinho e George Di&oacute;genes Pessoa, citados nominalmente em mat&eacute;ria jornal&iacute;stica, permutaram, a pedido, o exerc&iacute;cio dos seus cargos, conforme portaria publicada no di&aacute;rio oficial do dia 04 de janeiro de 2011, passando a primeira a ter exerc&iacute;cio pleno no cargo de 3&ordm; Promotor de Justi&ccedil;a de Paulista, e o segundo no cargo de 2&ordm; Promotor de Justi&ccedil;a de Defesa da Cidadania de Caruaru. Feita a permuta de exerc&iacute;cios, a promotora Camila foi designada, na mesma edi&ccedil;&atilde;o do Di&aacute;rio Oficial, para acumular a 2&ordf; Promotoria de Justi&ccedil;a Criminal de Paulista, considerando as f&eacute;rias do promotor no m&ecirc;s de janeiro de 2011, estando, portanto, em exerc&iacute;cio cumulativo na mesma cidade na qual se encontra em exerc&iacute;cio pleno, e n&atilde;o em cidades distintas como d&aacute; a entender a reportagem veiculada no NETV 2&ordf; edi&ccedil;&atilde;o. Com rela&ccedil;&atilde;o ao promotor George, em exerc&iacute;cio pleno na Comarca de Caruaru, foi designado, na mesma edi&ccedil;&atilde;o do Di&aacute;rio Oficial do dia 04 de janeiro de 2011, para acumular a 3&ordf; Promotoria de Justi&ccedil;a de Santa Cruz de Capibaribe, que se encontra vaga, estando, portanto, em exerc&iacute;cio cumulativo na mesma circunscri&ccedil;&atilde;o ministerial em que est&aacute;, atualmente, em exerc&iacute;cio pleno. <br /></p>
+<p><br /></p>
+<p>16. Quanto ao Promotor de Justi&ccedil;a Eduardo Leal dos Santo, o mesmo &eacute; 2&ordm; Promotor de Justi&ccedil;a Substituto de Palmares, motivo pelo qual necessita ser designado para exerc&iacute;cio em Promotoria de Justi&ccedil;a, n&atilde;o constituindo qualquer benesse sua designa&ccedil;&atilde;o para a Promotoria de Justi&ccedil;a de Gameleira e exerc&iacute;cio cumulativo de S&atilde;o Jos&eacute; da Coroa Grande. Frise-se que, anteriormente, o Promotor de Justi&ccedil;a supracitado encontrava-se no exerc&iacute;cio de suas atribui&ccedil;&otilde;es ministeriais na Comarca de Moreil&acirc;ndia, bem mais distante da Capital, numa prova de esfor&ccedil;o institucional, havendo o Procurador-Geral de Justi&ccedil;a mantido tal designa&ccedil;&atilde;o at&eacute; dezembro, sem tal constituir favor.<br /></p>
+<p><br /></p>
+<p>17. Devemos salientar que, haja vista a exist&ecirc;ncia de 164 (cento e sessenta e quatro) cargos vagos no &acirc;mbito do MPPE, &eacute; patente que v&aacute;rios promotores de justi&ccedil;a ir&atilde;o acumular v&aacute;rias Comarcas, sendo tal medida at&eacute; econ&ocirc;mica &agrave; nossa Institui&ccedil;&atilde;o, em raz&atilde;o de t&atilde;o-somente se pagar indeniza&ccedil;&atilde;o de acumula&ccedil;&atilde;o e n&atilde;o sal&aacute;rios de outros promotores de justi&ccedil;a, diminuindo-se os gastos p&uacute;blicos.<br /></p>
+<p><br /></p>
+<p>18. &Eacute; de se lamentar esse tipo de conduta do denunciante de acusar sem provas, e mais, alterando fatos que sabe inver&iacute;dicos visando tentar conspurcar a honra de in&uacute;meros promotores e procuradores de justi&ccedil;a e servidores do Minist&eacute;rio P&uacute;blico e, principalmente, de uma Institui&ccedil;&atilde;o como o Minist&eacute;rio P&uacute;blico de Pernambuco que sempre cumpriu o seu dever de promover a cidadania do povo no estado de Pernambuco.<br /></p>
+<p><br /></p>
+<p>PAULO BARTOLOMEU RODRIGUES VAREJ&Atilde;O<br /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PROCURADOR-GERAL DE JUSTI&Ccedil;A</p> </p>
+{% endraw %}

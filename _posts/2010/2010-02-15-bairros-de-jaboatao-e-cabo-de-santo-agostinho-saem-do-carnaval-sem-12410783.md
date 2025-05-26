@@ -1,0 +1,34 @@
+---
+id: 12410783
+date: "2010-02-15T10:47:00Z"
+last_modified_at: null
+tags:
+  - "agua"
+  - "carnaval"
+  - "jaboatao"
+  - "santos"
+categories:
+  - "noticias"
+title: "Bairros de Jaboat\u00e3o e Cabo de Santo Agostinho saem do Carnaval sem \u00e1gua nas torneiras"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>A Compesa reprogramou para a quinta-feira p&oacute;s-carnaval, dia 18, uma paralisa&ccedil;&atilde;o de 48 horas no Sistema Gurja&uacute;. A paralisa&ccedil;&atilde;o se daria inicialmente no &uacute;ltimo dia 08, mas foi adiada devido a um acidente que causou um estouramento no trecho da adutora localizado nas proximidades do acesso ao Monte Guararapes, na Estrada da Batalha, ocasionado&nbsp; durante a realiza&ccedil;&atilde;o de servi&ccedil;os da constru&ccedil;&atilde;o do Viaduto de Prazeres, em Jaboat&atilde;o dos Guararapes.&nbsp; <br /></p>
+<p><br /></p>
+<p>A interven&ccedil;&atilde;o no sistema Gurja&uacute; ser&aacute; necess&aacute;ria para permitir o desvio de 370 metros de tubos, de 750 mm, de trechos de duas adutoras do sistema, de um total de 8.450m que ser&atilde;o gradativamente substitu&iacute;dos. A a&ccedil;&atilde;o faz parte de um conv&ecirc;nio de coopera&ccedil;&atilde;o t&eacute;cnica firmado entre a Compesa e o Departamento de Estradas de Rodagem (DER), que est&aacute; executando obras no Complexo Vi&aacute;rio da Estrada da Batalha, no bairro de Prazeres, em Jaboat&atilde;o dos Guararapes. <br /></p>
+<p><br /></p>
+<p>A&nbsp; paralisa&ccedil;&atilde;o do Sistema Gurja&uacute; ocasionar&aacute; falta d'&aacute;gua em Cajueiro Seco, Massangana, Prazeres, Jord&atilde;o, Muribeca, bem como o distrito industrial de Prazeres, localidades de Jaboat&atilde;o dos Guararapes.&nbsp; No Cabo de Santo Agostinho, haver&aacute; falta d'&aacute;gua em Pontezinha. A parada ser&aacute; iniciada &agrave;s 5h da manh&atilde; de quinta-feira (18), prosseguindo at&eacute; &agrave;s 05 horas da manh&atilde; do s&aacute;bado (20). A regulariza&ccedil;&atilde;o do abastecimento ser&aacute; gradativa, seguindo o&nbsp; calend&aacute;rio oficial da Compesa. A popula&ccedil;&atilde;o atingida com a falta d'&aacute;gua ser&aacute; de 250 mil pessoas. Cerca de 30 profissionais da&nbsp; Compesa, do DER e da empresa respons&aacute;vel pela&nbsp; constru&ccedil;&atilde;o do sistema vi&aacute;rio estar&atilde;o envolvidos de forma direta nesse trabalho. <br /></p>
+<p><br /></p>
+<p>&quot;A expectativa da Compesa &eacute; paralisar o sistema a cada tr&ecirc;s meses at&eacute; a conclus&atilde;o do assentamento de todos os tubos planejados&quot;, informa o secret&aacute;rio de Recursos H&iacute;dricos e presidente da Compesa, Jo&atilde;o Bosco de Almeida. Segundo ele, a obra do sistema vi&aacute;rio da Estrada da Batalha fez com que a companhia antecipasse a substitui&ccedil;&atilde;o de trechos das duas adutoras do Sistema Gurja&uacute;. As constru&ccedil;&otilde;es, de ferro fundido, de origem inglesa, constru&iacute;das pelo engenheiro Saturnino de Brito, no in&iacute;cio do s&eacute;culo XX, tendo em m&eacute;dia, 88 anos de uso. &quot;Com o tempo, os tubos perdem resist&ecirc;ncia mec&acirc;nica, apresentam vulnerabilidade a estouramentos e obstru&ccedil;&otilde;es, da&iacute; a import&acirc;ncia da troca&quot;, explica. <br /></p>
+<p><br /></p>
+<p>A decis&atilde;o para troca das linhas adutoras partiu da necessidade dos dois &oacute;rg&atilde;os planejarem o impacto urbano de suas a&ccedil;&otilde;es. A parceria estabelecida entre Compesa e o DER determina que a companhia forne&ccedil;a todo o material necess&aacute;rio para a execu&ccedil;&atilde;o do projeto, um investimento de R$ 7 milh&otilde;es, al&eacute;m de assist&ecirc;ncia t&eacute;cnica. O DER ser&aacute; respons&aacute;vel pela a m&atilde;o de obra, por meio da empresa contratada para a constru&ccedil;&atilde;o do viaduto.&nbsp; As tubula&ccedil;&otilde;es antigas, com tempo de vida &uacute;til vencido, provocam constantes estouramentos, paralisa&ccedil;&otilde;es e perdas de &aacute;gua no sistema. &quot;Aproveitaremos a obra do DER para resolver um problema da Compesa. N&atilde;o tem sentido deixar passar essa oportunidade, quando futuramente ter&iacute;amos de quebrar as &aacute;reas de influ&ecirc;ncia da obra do viaduto para executar servi&ccedil;os de manuten&ccedil;&atilde;o ou a troca dessas adutoras&quot;, afirma Jo&atilde;o Bosco de Almeida. <br /></p>
+<p><br /></p>
+<p>O presidente da Compesa ressaltou a import&acirc;ncia da obra, informando que, a partir de outubro, quando 100% do complexo Pirapama entrar em opera&ccedil;&atilde;o, haver&aacute; um aumento consider&aacute;vel das press&otilde;es nas redes distribuidoras. &quot;Se n&atilde;o fossem trocadas, estas tubula&ccedil;&otilde;es eventualmente sofreriam estouramentos. Vamos nos antecipar aos fatos para evitar preju&iacute;zos para a popula&ccedil;&atilde;o e para a pr&oacute;pria Compesa&quot;, complementa. <br /></p>
+<p><br /></p>
+<p>Essas duas linhas adutoras passam exatamente no caminhamento onde est&atilde;o sendo constru&iacute;das as funda&ccedil;&otilde;es do viaduto em constru&ccedil;&atilde;o em Prazeres.&nbsp; O primeiro trecho a ser trocado, de 370 metros de extens&atilde;o, ser&aacute; na Estrada da Batalha, esquina com a Avenida Barreto de Meneses, nas imedia&ccedil;&otilde;es do Banco Real.&nbsp; As tubula&ccedil;&otilde;es de 750 mm ser&atilde;o substitu&iacute;das por outras de 600 mm, desativando as antigas. A expectativa &eacute;&nbsp; trocar os trechos em dois anos, no mesmo prazo da obra de constru&ccedil;&atilde;o do viaduto. O secret&aacute;rio Jo&atilde;o Bosco reconhece os transtornos que ser&atilde;o ocasionados pela obra e pede a compreens&atilde;o da popula&ccedil;&atilde;o. &quot;Com esta a&ccedil;&atilde;o, o benef&iacute;cio no futuro ser&aacute; inquestion&aacute;vel&rdquo;, pondera. <br /></p>
+<p><br /></p>
+<p>A primeira linha adutora do Sistema Gurja&uacute;, constru&iacute;da em 1918, tem 32 quil&ocirc;metros de extens&atilde;o, sai da Esta&ccedil;&atilde;o de Tratamento de &Aacute;gua -ETA&nbsp; Gurja&uacute;, no Cabo de Santo Agostinho e termina na antiga Casa de Deten&ccedil;&atilde;o (Casa da Cultura), no&nbsp; bairro de S&atilde;o Jos&eacute;, em Recife. A segunda linha, implantada em 1926, tamb&eacute;m tem 32 quil&ocirc;metros de extens&atilde;o. Ela parte da&nbsp; ETA Gurja&uacute; e termina na Ponte da Torre, em Recife. A troca dos 8.450 metros&nbsp; de tubos das adutoras de Gurja&uacute; est&aacute; dentro da &aacute;rea de influ&ecirc;ncia da obra do complexo vi&aacute;rio de Prazeres, cujo tra&ccedil;ado seguir&aacute; do cruzamento da Estrada&nbsp; da Batalha com o viaduto da BR-101 Sul at&eacute; chegar nas imedia&ccedil;&otilde;es do escrit&oacute;rio da Compesa, em Prazeres, pr&oacute;ximo a Avenida&nbsp; Armindo&nbsp; Moura.</p> </p>
+{% endraw %}

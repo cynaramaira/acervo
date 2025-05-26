@@ -1,0 +1,38 @@
+---
+id: 12420737
+date: "2010-12-23T17:44:00Z"
+last_modified_at: null
+tags:
+  - "jogos-eletronicos"
+  - "processo"
+  - "reformas"
+  - "sinovac"
+categories:
+  - "noticias"
+title: "Processo eletr\u00f4nico, uma nova forma de advogar"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Henrique Mariano</p></p>
+<p><p>Em 26 de maio de 1999, passou a vigorar no Brasil a Lei Federal n&ordm; 9.800, a qual previa, de forma in&eacute;dita, que &quot;&eacute; permitida &agrave;s partes a utiliza&ccedil;&atilde;o de sistema de transmiss&atilde;o de dados e imagens tipo fac-s&iacute;mile ou outro similar, para a pr&aacute;tica de atos processuais que dependam de peti&ccedil;&atilde;o escrita&quot;. Era o momento inicial de um processo de moderniza&ccedil;&atilde;o da Justi&ccedil;a Brasileira, no qual as novas tecnologias passaram a ser consideradas como ferramentas importantes no cotidiano da atividade profissional do advogado.</p></p>
+<p><p>No entanto, somente em 19 de dezembro de 2006, entrou em vigor a Lei Federal n&ordm; 11.419, que definiu a informatiza&ccedil;&atilde;o do processo judicial e fez surgir o processo eletr&ocirc;nico tanto nas &aacute;reas civil, penal e trabalhista, bem como no &acirc;mbito dos juizados especiais, em qualquer grau de jurisdi&ccedil;&atilde;o. O prazo de apenas quatro anos desde a entrada em vigor desta Lei parece pequeno, mas &eacute; significativo quando falamos em termos de desenvolvimento de sistemas e equipamentos. Mas da internet discada &agrave; rede 3G, tamb&eacute;m foi um lapso pequeno de tempo para o grande avan&ccedil;o que essa mudan&ccedil;a resultou para o pr&oacute;prio Pa&iacute;s.</p></p>
+<p><p>A tecnologia j&aacute; alterou bastante o modo do exerc&iacute;cio da advocacia e o perfil do advogado, bem como a pr&oacute;pria organiza&ccedil;&atilde;o funcional dos escrit&oacute;rios. Hoje, &eacute; raro encontrar um profissional que n&atilde;o utilize as in&uacute;meras ferramentas que a inform&aacute;tica disponibiliza, seja para pesquisar doutrina e jurisprud&ecirc;ncia, seja para se comunicar com clientes, acompanhar o andamento de processos junto aos tribunais, etc. Enquanto isso, o processo judicial eletr&ocirc;nico j&aacute; se encontra em funcionamento e seu alcance e aplica&ccedil;&atilde;o tendem a aumentar gradativamente.</p></p>
+<p><p>Perante os Tribunais Superiores (STF, STJ e TST), tanto o ajuizamento de novas a&ccedil;&otilde;es ou a interposi&ccedil;&atilde;o de recursos, quanto as peti&ccedil;&otilde;es incidentais e mesmo a consulta aos autos dos processos j&aacute; podem ser feitas pela internet, sem necessidade de deslocamento at&eacute; Bras&iacute;lia, atrav&eacute;s da certifica&ccedil;&atilde;o digital.<br /></p>
+<p>O recurso torna mais f&aacute;cil, barata e acess&iacute;vel a atua&ccedil;&atilde;o do advogado a partir do seu pr&oacute;prio escrit&oacute;rio, em sua cidades de origem, dispensando gastos com correios, deslocamentos, hospedagem, advogado correspondente etc.</p></p>
+<p><p>Mas n&atilde;o s&atilde;o apenas os distantes Tribunais sediados em Bras&iacute;lia que j&aacute; adotaram o processo eletr&ocirc;nico. Tamb&eacute;m aqui, no estado de Pernambuco, j&aacute; existem in&uacute;meras aplica&ccedil;&otilde;es pr&aacute;ticas.</p></p>
+<p><p>Na Justi&ccedil;a Federal em Pernambuco, o processo totalmente eletr&ocirc;nico j&aacute; existe, tanto nos Juizados Especiais Federais - com o programa CRETA - como nas Varas C&iacute;veis - atrav&eacute;s do Processo Judicial Eletr&ocirc;nico (PJE). H&aacute; perspectiva de que o processo eletr&ocirc;nico seja implantado tamb&eacute;m na 2&ordm; inst&acirc;ncia do TRF5 - Tribunal Regional Federal da 5&ordf; Regi&atilde;o - ainda no corrente ano de 2010.</p></p>
+<p><p>No &acirc;mbito da Justi&ccedil;a Estadual (TJPE - Tribunal de Justi&ccedil;a de Pernambuco), os benef&iacute;cios dos processos eletr&ocirc;nicos j&aacute; podem ser percebidos em alguns dos Juizados Especiais C&iacute;veis da capital. J&aacute; no in&iacute;cio do pr&oacute;ximo ano de 2011, o m&eacute;todo dever&aacute; ser ampliado para todos os Juizados Especiais C&iacute;veis do Recife, juntamente com o in&iacute;cio da implanta&ccedil;&atilde;o nas Varas C&iacute;veis.</p></p>
+<p><p>Perante o Tribunal Regional do Trabalho da 6&ordf; Regi&atilde;o (TRT-6), em todas as Varas do Trabalho e tamb&eacute;m na 2&ordf; inst&acirc;ncia, &eacute; poss&iacute;vel utilizar o meio eletr&ocirc;nico para enviar peti&ccedil;&otilde;es e respectivos anexos de at&eacute; 50 p&aacute;ginas.</p></p>
+<p><p>A mudan&ccedil;a &eacute; vantajosa para toda a sociedade, por in&uacute;meros motivos. Maior celeridade, transpar&ecirc;ncia, controle (auditorias), sem falar na melhoria do ambiente de trabalho, livre de &aacute;caros nos processos amontoados e do apelo ecol&oacute;gico - j&aacute; que muitas &aacute;rvores ser&atilde;o poupadas com os autos eletr&ocirc;nicos.</p></p>
+<p><p>Merece registro, tamb&eacute;m, a seguran&ccedil;a que o processo proporciona. Atualmente, uma firma &eacute; reconhecida pelo tabeli&atilde;o por simples &quot;semelhan&ccedil;a&quot;, e uma peti&ccedil;&atilde;o protocolizada no f&oacute;rum somente recebe uma simples chancela mec&acirc;nica na primeira p&aacute;gina. No processo eletr&ocirc;nico, a autenticidade &eacute; atestada atrav&eacute;s das modernas t&eacute;cnicas existentes (chave assim&eacute;trica, criptografia etc.) e os atos processuais possuem &quot;protocolo&quot; do inteiro teor do documento enviado.</p></p>
+<p><p>Necess&aacute;rio registrar, ainda, que o certificado digital tamb&eacute;m serve para celebrar contratos &agrave; dist&acirc;ncia, sem que as partes estejam presentes num mesmo ambiente, acessar informa&ccedil;&otilde;es junto &agrave; Receita Federal e bancos, al&eacute;m de in&uacute;meras outras aplica&ccedil;&otilde;es.</p></p>
+<p><p>N&atilde;o h&aacute; d&uacute;vida, portanto, de que os benef&iacute;cios com a nova tecnologia mudar&atilde;o significativamente os padr&otilde;es atuais. Toda altera&ccedil;&atilde;o, por romper costumes, encontra resist&ecirc;ncia. Mas as vantagens s&atilde;o evidentes e precisam ser acompanhadas.</p></p>
+<p><p>A informatiza&ccedil;&atilde;o chega com for&ccedil;a para mudar paradigmas. Os advogados pernambucanos precisam se preparar para a esta forma de trabalhar e se adequar aos novos tempos, &agrave; era da advocacia digital.</p></p>
+<p><p>Nesse sentido, a Ordem dos Advogados do Brasil - Sec&ccedil;&atilde;o Pernambuco, est&aacute; envidando esfor&ccedil;os no sentido de desmistificar o processo eletr&ocirc;nico e capacitar os advogados pernambucanos atrav&eacute;s de cursos na capital e no interior, para esta nova forma de advogar. J&aacute; iniciamos ciclos de palestras no interior e na Regi&atilde;o Metropolitana. O ano de 2011 que se avizinha ser&aacute; marcado pela forte atua&ccedil;&atilde;o da OAB-PE no sentido de oferecer aos advogados pernambucanos condi&ccedil;&otilde;es de se qualificar e acompanhar a evolu&ccedil;&atilde;o do processo eletr&ocirc;nico.</p></p>
+<p><p>No entanto, a atua&ccedil;&atilde;o da OAB-PE n&atilde;o est&aacute; adstrita &agrave; divulga&ccedil;&atilde;o e &agrave; capacita&ccedil;&atilde;o dos advogados. Estamos igualmente atentos e vigilantes no sentido de que os programas desenvolvidos pelos tribunais n&atilde;o restrinjam e/ou violem quaisquer dos direitos e prerrogativas dos advogados, assegurados no Estatuto da Advocacia.</p></p>
+<p><p>Henrique Mariano &eacute; presidente da OAB-PE<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

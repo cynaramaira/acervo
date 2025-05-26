@@ -1,0 +1,24 @@
+---
+id: 12425438
+date: "2011-04-19T15:02:00Z"
+last_modified_at: null
+tags:
+  - "recife"
+categories:
+  - "noticias"
+title: "A gota d'\u00e1gua da m\u00e1 gest\u00e3o p\u00fablica do Recife"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Fernando de Holanda</p></p>
+<p><p>A manh&atilde; desta ter&ccedil;a-feira, 19 de abril, sacramentou toda a incompet&ecirc;ncia e falta de compromisso da atual gest&atilde;o da Prefeitura do Recife. Enquanto o tr&acirc;nsito e a seguran&ccedil;a p&uacute;blica da cidade enfrentavam o maior caos dos &uacute;ltimos vinte anos, o prefeito Jo&atilde;o da Costa desfrutava da bela primavera de Madrid ao lado de sua fam&iacute;lia. Uma viagem n&atilde;o anunciada, que deixou pol&iacute;ticos, funcion&aacute;rios p&uacute;blicos e cidad&atilde;os ainda mais insatisfeitos com a (falta de) lideran&ccedil;a do chefe do Executivo municipal.</p></p>
+<p><p>Os reflexos desta irresponsabilidade se fizeram sentir nos quatro cantos da cidade, onde a chuva provocou alagamentos em vias cujas canaletas permaneciam entupidas, &aacute;rvores centen&aacute;rias desabaram por falta de supervis&atilde;o e motoristas eram assaltados em avenidas congestionadas. Para percorrer o trecho entre minha casa e o escrit&oacute;rio onde trabalho, compreendido entre o bairro das Gra&ccedil;as e o in&iacute;cio do bairro de Boa Viagem, levei exatas tr&ecirc;s horas e meia, quando, normalmente, o fa&ccedil;o em vinte minutos.</p></p>
+<p><p>No caminho entre a Av. Agamenom Magalh&atilde;es e a Ponte do Pina, percebi pessoas descendo dos &ocirc;nibus, caminhando no meio dos carros e at&eacute; mesmo desistindo de ir ao trabalho. Na r&aacute;dio, os ouvintes, desesperados, relatavam os diversos casos de assaltos que aconteceram no viaduto Capit&atilde;o Temudo, no bairro de Joana Bezerra, e na pr&oacute;pria Ponte do Pina (estive exatamente ali quando ouvi as not&iacute;cias). Curioso &eacute; que, neste caminho, n&atilde;o avistei um &uacute;nico agente da Companhia de Tr&acirc;nsito e Tranporte Urbano da cidade ou mesmo da Pol&iacute;cia Militar. A ROCAM - patrulha da PM que circula de motocicletas - estava ilhada, pois sua garagem fica na Rua Imperial, mais uma das vias tomadas pelas &aacute;guas. Ao chegar ao escrit&oacute;rio, constatei que os elevadores n&atilde;o estavam funcionando, pois o fosso havia sido inundado pela eternamente alagada Rua Jos&eacute; Aderval Chaves.</p></p>
+<p><p>Enquanto isso, o Sol brilha forte na Plaza Mayor de Madrid. No Twitter, os aspones do ex-Prefeito Jo&atilde;o Paulo Lima e Silva, respons&aacute;vel direto pela elei&ccedil;&atilde;o do ent&atilde;o afilhado e hoje desafeto Jo&atilde;o da Costa, reclamavam das picuinhas pol&iacute;ticas envolvendo o atual Deputado Federal e seu partido. A oposi&ccedil;&atilde;o, ouri&ccedil;ada com a proximidade das pr&oacute;ximas elei&ccedil;&otilde;es, lan&ccedil;a campanha de hastags (#) nas redes sociais e se preocupa se est&aacute; ou n&atilde;o dentre os t&oacute;picos mais comentados naquela manh&atilde;. Ou seja, pelo visto, ningu&eacute;m est&aacute; nem a&iacute; para o cidad&atilde;o.</p></p>
+<p><p>N&atilde;o &eacute; novidade que, no Recife, quando o inverno aperta, os problemas de infraestrutura da cidade se evidenciam. Foi assim na gest&atilde;o do Prefeito Roberto Magalh&atilde;es, que convivia diariamente com o desbamento de encostas nos dias de chuva, e do pr&oacute;prio Jo&atilde;o Paulo, que via obras j&aacute; atrasadas serem ainda mais retardadas por causa das &aacute;guas. No caso do atual Prefeito, o buraco &eacute; mais embaixo. O tr&acirc;nsito da cidade j&aacute; deu um n&oacute; h&aacute; bastante tempo e obras como o pr&oacute;prio viaduto Capit&atilde;o Temudo j&aacute; estouraram e muito o cronograma e o or&ccedil;amento. A estrat&eacute;gia de viajar com a fam&iacute;lia enquanto as campanhas publicit&aacute;rias da Prefeitura e do PT permanecem no ar n&atilde;o parece ter sido a melhor escolha de Jo&atilde;o da Costa, principalmente quando este inverno se anuncia t&atilde;o rigoroso.</p></p>
+<p><p>A manh&atilde; de hoje n&atilde;o foi f&aacute;cil para o cidad&atilde;o do Recife, Sr. Prefeito. A falta de compet&ecirc;ncia e compromisso da sua gest&atilde;o est&atilde;o, como se diz, na boca do povo. Talvez seja a hora de fazer mais, se n&atilde;o, n&atilde;o vai ter o que mostrar depois. Isso por que, se for para mostrar o que vi hoje entre as Gra&ccedil;as e Boa Viagem, &eacute; melhor se preparar para uma enxurrada de insatisfa&ccedil;&atilde;o, que inundar&aacute; sua carreira pol&iacute;tica para todo o sempre. Hoje j&aacute; foi a gota d'&aacute;gua!<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

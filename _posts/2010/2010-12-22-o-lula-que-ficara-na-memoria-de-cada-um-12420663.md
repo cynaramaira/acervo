@@ -1,0 +1,37 @@
+---
+id: 12420663
+date: "2010-12-22T09:40:00Z"
+last_modified_at: null
+tags:
+  - "escada"
+  - "lula"
+  - "memoria"
+categories:
+  - "noticias"
+title: "O Lula que ficar\u00e1 na mem\u00f3ria de cada um"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;">Po Sylvio Costa, colunista do site Congresso em Foco<br /></p>
+<p><br /></p>
+<p>Tomando emprestadas as palavras usadas pelo ex-deputado Roberto Jefferson (PTB-RJ) para se referir ao ex-ministro Jos&eacute; Dirceu, ele inspirou &ndash; e inspira &ndash; em alguns &ldquo;os instintos mais primitivos&rdquo;.&nbsp; Entre outras coisas, foi muitas vezes chamado de &ldquo;anta&rdquo;, &ldquo;apedeuta&rdquo; e &ldquo;analfabeto&rdquo;. &Eacute; admirado por outros tantos por raz&otilde;es e de formas bastante diversas.<br /></p>
+<p><br /></p>
+<p>Na base da pir&acirc;mide social, seu prest&iacute;gio pode ganhar ares de devo&ccedil;&atilde;o religiosa, e ele &eacute; saudado vez por outra como uma esp&eacute;cie de Messias, protetor dos pobres e desamparados, ao qual tudo se deve perdoar. No topo, manifesta&ccedil;&otilde;es de reconhecimento com frequ&ecirc;ncia se fazem acompanhar de conjun&ccedil;&otilde;es adversativas. &ldquo;Ele fez um bom governo, mas tamb&eacute;m, p&ocirc;, encontrou o terreno j&aacute; preparado por Fernando Henrique&rdquo;. Ou ent&atilde;o: &ldquo;O cara n&atilde;o estudou, aliou-se ao que existe de pior na pol&iacute;tica, mas tem uma intui&ccedil;&atilde;o e uma capacidade de comunica&ccedil;&atilde;o extraordin&aacute;ria&rdquo;. Ou ainda: &ldquo;&Eacute; um pol&iacute;tico demagogo e med&iacute;ocre. Por&eacute;m, terminou fazendo um bom governo porque teve a sorte de pegar uma conjuntura interna e externa favor&aacute;vel&rdquo;.<br /></p>
+<p><br /></p>
+<p>Ex-pau-de-arara, ex-engraxate, ex-metal&uacute;rgico, ex-sindicalista, Lula se tornar&aacute; ex-presidente da Rep&uacute;blica no pr&oacute;ximo dia 1&ordm; deixando para historiadores e cientistas sociais o desafio de decifrar uma das mais fascinantes personalidades pol&iacute;ticas do Brasil das &uacute;ltimas d&eacute;cadas. H&aacute; v&aacute;rios Lulas, e cada um guardar&aacute; na mem&oacute;ria o Lula que mais lhe marcou, ou conv&eacute;m.<br /></p>
+<p><br /></p>
+<p>O Lula que brilhou na cena internacional, ora ajudando a viabilizar a Copa de 2014 e as Olimp&iacute;adas de 2016, ora sendo enaltecido por estadistas estrangeiros e pelos mais importantes ve&iacute;culos da m&iacute;dia global. O Lula que frustrou democratas e defensores dos direitos humanos pelo mundo afora ao se omitir em rela&ccedil;&atilde;o &agrave;s crueldades de ditadores amigos, em Cuba, no Ir&atilde; ou alhures. O Lula que se disse tra&iacute;do e que condenou os m&eacute;todos usados para a compra de apoio pol&iacute;tico, no auge da crise do mensal&atilde;o, em 2005. O Lula que agora promete empreender uma cruzada nacional para provar que o mensal&atilde;o n&atilde;o existiu. O Lula que fez o pa&iacute;s avan&ccedil;ar na economia e na &aacute;rea social. O Lula que desdenhou preocupa&ccedil;&otilde;es &eacute;ticas antes preconizadas pelo PT para dar respaldo a aliados colocados sob suspeita, fossem eles Sarney, pol&iacute;ticos transformados em r&eacute;us em processos criminais ou parlamentares flagrados na vexat&oacute;ria farra das passagens a&eacute;reas.<br /></p>
+<p><br /></p>
+<p>Sua biografia combina de tal forma o in&eacute;dito com o imponder&aacute;vel que, tirante a aposentadoria pol&iacute;tica (algo impens&aacute;vel), qualquer especula&ccedil;&atilde;o em rela&ccedil;&atilde;o ao seu futuro soa cr&iacute;vel. O presidente mais popular, e certamente um dos mais atacados, da hist&oacute;ria do pa&iacute;s. O pol&iacute;tico dado como morto na crise pol&iacute;tica de 2005 e que deixa a Presid&ecirc;ncia da Rep&uacute;blica com mais de 80% de aprova&ccedil;&atilde;o. O homem que deixou Caet&eacute;s (PE) para fugir da fome e que governou a rep&uacute;blica por oito anos, fazendo a sucessora e mantendo suas digitais em grande parte do (velho) novo minist&eacute;rio.&nbsp; O primeiro presidente oper&aacute;rio e sem curso superior trabalhar&aacute; para se tornar tamb&eacute;m o primeiro a se eleger &ndash; em 2014 &ndash; pela terceira vez pelo voto direto&#63; Ele e os amigos dificilmente admitir&atilde;o, mas alguns sinais apontam para essa dire&ccedil;&atilde;o.<br /></p>
+<p><br /></p>
+<p>Que o digam os planos que ele anunciou at&eacute; agora para depois do dia 1&ordm;. A cruzada contra o mensal&atilde;o pode vitaminar suas rela&ccedil;&otilde;es com o PT. A cria&ccedil;&atilde;o de um instituto e a prometida prega&ccedil;&atilde;o em favor da reforma pol&iacute;tica podem mant&ecirc;-lo em evid&ecirc;ncia e no centro das articula&ccedil;&otilde;es. Ou optar&aacute; Lula por ser a emin&ecirc;ncia parda do governo Dilma&#63; &Eacute; um caminho arriscado, j&aacute; que a criatura precisar&aacute; agora de liberdade para conquistar espa&ccedil;o pr&oacute;prio, mas quem pode assegurar que ele est&aacute; fora de cogita&ccedil;&atilde;o&#63; Ser&aacute; o governo de Dilma Rousseff uma nova, e talvez n&atilde;o a derradeira, etapa da era Lula&#63; Ou o presidente, contrariando as especula&ccedil;&otilde;es hoje predominantes, passar&aacute; a priorizar a atua&ccedil;&atilde;o na arena internacional&#63;<br /></p>
+<p><br /></p>
+<p>Perguntas desse tipo n&atilde;o t&ecirc;m neste momento respostas conclusivas. Mais f&aacute;cil &eacute; reconhecer os pontos fortes e as fragilidades dos oito anos de governo Lula. Entre os destaques positivos, um vasto rol de indicadores econ&ocirc;micos e sociais, que incluem a eleva&ccedil;&atilde;o real do sal&aacute;rio m&iacute;nimo, o aumento do padr&atilde;o de vida de milh&otilde;es de brasileiros e o crescimento da economia e dos empregos sem colocar em risco a estabilidade de pre&ccedil;os alcan&ccedil;ada na era FHC. Manteve-se assim o que o governo antecessor produziu de melhor, o controle da infla&ccedil;&atilde;o, acrescentando-se novos ingredientes que tornaram mais efetivos os resultados obtidos em termos de redu&ccedil;&atilde;o das desigualdades. &Eacute; falso, portanto, afirmar que Lula simplesmente colheu o que Fernando Henrique plantou.<br /></p>
+<p><br /></p>
+<p>Frustrante, contudo, foi o desempenho do PT e do governo Lula em &aacute;reas nas quais eles despertavam maior esperan&ccedil;a de transforma&ccedil;&otilde;es, como sa&uacute;de e educa&ccedil;&atilde;o. No plano &eacute;tico e pol&iacute;tico, n&atilde;o apenas se manteve a tradi&ccedil;&atilde;o recente (do Brasil p&oacute;s-ditadura militar) de regar a maioria governista no Parlamento com o varejo do fisiologismo e da troca de favores como tamb&eacute;m se procurou desqualificar qualquer tentativa de inaugurar novos padr&otilde;es de comportamento pol&iacute;tico. A maioria do PT era contr&aacute;ria, por exemplo, &agrave; fundamental Lei da Ficha Limpa.<br /></p>
+<p><br /></p>
+<p>Com outras palavras, pode-se dizer que Lula foi no governo bem melhor do que sempre alardeou a oposi&ccedil;&atilde;o, mas tamb&eacute;m n&atilde;o foi t&atilde;o bom quanto tenta demonstrar a mistifica&ccedil;&atilde;o petista e lulista.</p> </p>
+{% endraw %}

@@ -1,0 +1,59 @@
+---
+id: 12447621
+date: "2013-04-18T18:00:00Z"
+last_modified_at: null
+tags:
+  - "acesso-documentos"
+  - "bloqueio-judicial"
+  - "jogos-eletronicos"
+  - "justica"
+  - "processo"
+categories:
+  - "noticias"
+title: "Processo Judicial Eletr\u00f4nico e acesso \u00e0 Justi\u00e7a"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p></p>
+<p>	Pedro Henrique Reynaldo Alves<br /></p>
+<p>	Presidente da OAB-PE, especial para o Blog de Jamildo<br /></p>
+<p>	<br /></p>
+<p>	O avan&ccedil;o da inform&aacute;tica vem trazendo in&uacute;meros benef&iacute;cios para o ser humano em todos os campos de seu interesse e atua&ccedil;&atilde;o, e n&atilde;o poderia ser diferente em nosso sistema judicial.<br /></p>
+<p>	<br /></p>
+<p>	Com o gigantesco n&uacute;mero de processos, aliado a uma demanda crescente e ainda reprimida da sociedade por justi&ccedil;a, &eacute; imperativo que nos valhamos da inform&aacute;tica para auxiliar esse servi&ccedil;o p&uacute;blico t&atilde;o fundamental. Na pr&aacute;tica, &eacute; inconceb&iacute;vel nos dias de hoje imaginarmos como eram confeccionados contratos imobili&aacute;rios enciclop&eacute;dicos, tendo como ferramenta uma simples m&aacute;quina de escrever, com papel carbono para c&oacute;pia simult&acirc;nea. E o que dizer dos processos judiciais extensos e complexos&#63;!<br /></p>
+<p>	<br /></p>
+<p>	O computador foi uma verdadeira reden&ccedil;&atilde;o para ju&iacute;zes e advogados, e alforria para seus(uas) assistentes e secret&aacute;rios(as), a partir da simples possibilidade de gravar e reproduzir textos repetidos, suprimindo e acrescendo, nos pr&oacute;prios textos, os trechos, palavras ou frases que bem entendam.<br /></p>
+<p>	<br /></p>
+<p>	Os sistemas computacionais n&atilde;o s&atilde;o menos importantes, contribuindo com a gest&atilde;o dos escrit&oacute;rios de advocacia e tamb&eacute;m dos &oacute;rg&atilde;os judiciais. Naturalmente, portanto, estamos caminhando a passos largos para um futuro de completa digitaliza&ccedil;&atilde;o do processo judicial, que dever&aacute; se desenvolver &ndash; como j&aacute; acontece em algumas varas e tribunais &ndash; em ambiente apenas eletr&ocirc;nico, abolindo-se os calhama&ccedil;os de pap&eacute;is, carimbos, dilig&ecirc;ncias, publica&ccedil;&otilde;es, enfim, eliminando a burocracia.<br /></p>
+<p>	<br /></p>
+<p>	O processo judicial eletr&ocirc;nico, portanto, mais que uma tend&ecirc;ncia &eacute; uma realidade inexor&aacute;vel, e todo advogado de bom senso aplaude e almeja a concretiza&ccedil;&atilde;o desse novo e moderno meio de administra&ccedil;&atilde;o da justi&ccedil;a. No entanto, tal realidade n&atilde;o pode prescindir de uma devida transi&ccedil;&atilde;o, onde sejam preservados princ&iacute;pios fundamentais de nossa constitui&ccedil;&atilde;o, como o do devido processo legal e do pr&oacute;prio acesso &agrave; justi&ccedil;a, e respeitadas as diferen&ccedil;as culturais, geracionais e at&eacute; de infraestrutura existentes em nosso Pa&iacute;s e em nosso Estado.<br /></p>
+<p>	<br /></p>
+<p>	Em meu discurso de posse na Presid&ecirc;ncia da OAB-PE, tive oportunidade de acentuar que:<br /></p>
+<p>	&ldquo;Temos como certo que a tecnologia da informa&ccedil;&atilde;o &eacute; uma grande aliada nessa luta, e que o processo eletr&ocirc;nico &eacute; um caminho sem volta, mas n&atilde;o poderemos admitir que fiquemos alijados do processo de sua implanta&ccedil;&atilde;o, com participa&ccedil;&atilde;o apenas formal em Comiss&otilde;es ou grupos de trabalho, e menos ainda podemos admitir que a implanta&ccedil;&atilde;o abrupta do processo eletr&ocirc;nico, como via exclusiva de acesso &agrave; jurisdi&ccedil;&atilde;o, sem observ&acirc;ncia de uma razo&aacute;vel transi&ccedil;&atilde;o. Por mais nobres que sejam os prop&oacute;sitos dessa precipita&ccedil;&atilde;o por parte dos Dirigentes do Poder Judici&aacute;rio, a OAB n&atilde;o pode se furtar a proteger o acesso &agrave; justi&ccedil;a, pela popula&ccedil;&atilde;o mais carente, e o acesso ao livre exerc&iacute;cio da profiss&atilde;o, pelos advogados n&atilde;o familiarizados com o mundo digital, notadamente em um Estado onde a maior parte de sua extens&atilde;o territorial carece sequer de um servi&ccedil;o de banda larga segura, capaz de suportar de forma c&eacute;lere e ininterrupta o acesso ao Judici&aacute;rio pela via eletr&ocirc;nica&rdquo;.<br /></p>
+<p>	<br /></p>
+<p>	Cumprindo sua miss&atilde;o legal de curar pelos interesses da advocacia, velar pelo aprimoramento da justi&ccedil;a e defender a Constitui&ccedil;&atilde;o, a OAB-PE, no in&iacute;cio de nossa gest&atilde;o, ingressou com Pedido de Provid&ecirc;ncias junto ao Conselho Nacional de Justi&ccedil;a, em face do TRT/6, TRF/5 e TJPE, pleiteando a corre&ccedil;&atilde;o de uma s&eacute;rie de irregularidades nos diferentes sistemas PJe dessas Cortes, e postulando a suspens&atilde;o da exclusividade de acesso &agrave; justi&ccedil;a por meio eletr&ocirc;nico, enquanto n&atilde;o realizadas tais corre&ccedil;&otilde;es e observada transi&ccedil;&atilde;o adequada.<br /></p>
+<p>	<br /></p>
+<p>	A liminar fora concedida, provocando rea&ccedil;&atilde;o imediata de nossos 3 Tribunais que obtiveram, em plen&aacute;rio, sua cassa&ccedil;&atilde;o, estando o processo pendente de julgamento de seu m&eacute;rito. Tal expediente motivou o ingresso, como parte interessada, de outras 3 Seccionais da OAB e do pr&oacute;prio Conselho Federal de nossa institui&ccedil;&atilde;o, que passou a dedicar a devida aten&ccedil;&atilde;o a esse importante tema.<br /></p>
+<p>	<br /></p>
+<p>	Em um Estado como o nosso, onde menos de 20% de sua extens&atilde;o territorial conta com uma cobertura de banda larga e menos de 30% dos advogados regularmente inscritos na OAB est&atilde;o credenciados com certificados digitais, essenciais para operar o processo eletr&ocirc;nico, exigir tais sistemas como meio exclusivo de acesso ao judici&aacute;rio &eacute; criar um verdadeiro apartheid no acesso &agrave; jurisdi&ccedil;&atilde;o.<br /></p>
+<p>	<br /></p>
+<p>	Afora isso, a informatiza&ccedil;&atilde;o de uma atividade t&atilde;o humana e sens&iacute;vel como a distribui&ccedil;&atilde;o da justi&ccedil;a, tamb&eacute;m guarda as suas armadilhas. Algumas inerentes &agrave; falibilidade dos sistemas, outras ligadas a n&atilde;o menos fal&iacute;vel natureza humana. E assim um &ldquo;tilt&rdquo; faz apagar laudas e laudas de depoimentos, desperdi&ccedil;ando horas de uma audi&ecirc;ncia processual, uma carta de amor &eacute; publicada no espa&ccedil;o de uma decis&atilde;o judicial, ou ainda, o que ocorre com maior frequ&ecirc;ncia, atos e pe&ccedil;as de um processo trazem informa&ccedil;&otilde;es e arrazoados completamente estranhos ao que se discute ali, revelando o risco da pr&aacute;tica comum e usual de &ldquo;copiar e colar&rdquo; textos de outros arquivos.<br /></p>
+<p>	<br /></p>
+<p>	Como n&atilde;o h&aacute; limite para o engenho humano, os sistemas e programas de computador est&atilde;o cada vez mais sofisticados, capazes de prevenir e at&eacute; consertar falhas como, por exemplo, os corretores ortogr&aacute;ficos existentes em programas de edi&ccedil;&atilde;o de texto. Mas o que nos deve preocupar n&atilde;o &eacute; a humaniza&ccedil;&atilde;o dos sistemas de inform&aacute;tica, mas sim a robotiza&ccedil;&atilde;o do homem. Este fen&ocirc;meno, quando observado nos ju&iacute;zes, nos causa perplexidade e nos faz pensar na ca&oacute;tica perspectiva de substitui&ccedil;&atilde;o de ju&iacute;zes por computadores.<br /></p>
+<p>	<br /></p>
+<p>	Em recente visita a um operoso magistrado, onde pude levar as preocupa&ccedil;&otilde;es de nossa classe com um equivocado procedimento adotado pelo mesmo, de bloquear os ativos financeiros dos contribuintes tribut&aacute;rios antes mesmo deles serem citados para responder a a&ccedil;&atilde;o, recebi informa&ccedil;&otilde;es de natureza estat&iacute;stica, permeadas de dados econ&ocirc;micos daquela vara, para ent&atilde;o, abismado, ouvir sua conclus&atilde;o: como a margem de erro daquele procedimento era inferior a 5%, ou seja, mais de 95% dos executados findavam por se conformar com os inusitados sequestros de suas contas banc&aacute;rias, antes sequer de serem convidados a pagar ou se defender, para satisfazer a presum&iacute;vel d&iacute;vida fiscal, ele atuava com efici&ecirc;ncia para reparar ou corrigir a viol&ecirc;ncia perpetrada contra aquele &ldquo;pequeno&rdquo; percentual de cidad&atilde;os-contribuintes. O juiz disse isso com a frieza de um hardware, para minha surpresa e decep&ccedil;&atilde;o.<br /></p>
+<p>	<br /></p>
+<p>	Lamentavelmente esse caso n&atilde;o &eacute; isolado, e encontra guarida nas nossas mais altas C&ocirc;rtes, onde a atividade de julgar vem se resumindo a administrar conting&ecirc;ncias, classificando-se de forma mec&acirc;nica e fria as naturezas dos processos, e as teses neles discutidas, e, quando muito, ap&oacute;s ligeira an&aacute;lise por parte de assessores, os autos s&atilde;o submetidos a um julgamento em bloco &ndash; as lament&aacute;veis &ldquo;listas&rdquo; &ndash; onde nem as partes, e por vezes at&eacute; mesmo os advogados, compreendem que houve o julgamento de seus destinos naquela sess&atilde;o. As exce&ccedil;&otilde;es ficam por conta dos processos de grande vulto ou repercuss&atilde;o, no mais das vezes patrocinados por advogados regiamente remunerados e que gozam de, nem sempre merecido, prest&iacute;gio no meio judicial, a confirmar a perversa regra da elitiza&ccedil;&atilde;o do nosso sistema jurisdicional.<br /></p>
+<p>	<br /></p>
+<p>	Diante de tal realidade de nossos Tribunais, potencializam-se os fatores de preocupa&ccedil;&atilde;o com um processo judicial pleno e exclusivamente eletr&ocirc;nico, onde o consequente aumento da dist&acirc;ncia entre os ju&iacute;zes e a realidade dos fatos e as pessoas envolvidas, venha a estimular julgamentos estat&iacute;sticos ou lastreados em casos repetidos ou pior j&aacute; &ldquo;modelados&rdquo;.<br /></p>
+<p>	<br /></p>
+<p>	Por iniciativa da nossa valorosa Comiss&atilde;o de Tecnologia da Informa&ccedil;&atilde;o, presidida pelo competente Conselheiro Frederico Preuss Duarte, a OAB-PE promove nesta quinta-feira, logo mais &agrave;s 18h30, uma audi&ecirc;ncia p&uacute;blica para debater essa importante mat&eacute;ria, para qual foram convidados os 3(tr&ecirc;s) Tribunais e as representa&ccedil;&otilde;es classistas dos magistrados, e todos os advogados, onde ser&atilde;o colhidas as cr&iacute;ticas, justificativas e apontados caminhos e solu&ccedil;&otilde;es que melhor atendam a uma efici&ecirc;ncia e mais humana distribui&ccedil;&atilde;o de justi&ccedil;a em nosso Estado.<br /></p>
+<p>	<br /></p>
+<p>	Nossa institui&ccedil;&atilde;o pretende, com essa iniciativa, imprimir uma discuss&atilde;o mais ampla e democr&aacute;tica a um assunto que, at&eacute; ent&atilde;o, vinha sendo tratada no &acirc;mbito dos gabinetes dos doutos Dirigentes de nosso Judici&aacute;rio, aconselhados por seus setores de inform&aacute;tica, reafirmando que todo e qualquer tema ligado ao bom funcionamento de nossa justi&ccedil;a &eacute; de interesse e responsabilidade de toda a sociedade. Em seu papel cr&iacute;tico com o a&ccedil;odamento da implanta&ccedil;&atilde;o do PJe em alguns of&iacute;cios judiciais, a OAB n&atilde;o est&aacute; fazendo o papel de &ldquo;atirar pedras no trens&rdquo;, mas exigindo que estes percorram os trilhos certos e que todos os operadores do direito possam neles embarcar.<br /></p>
+<p>	<br /></p>
+<p>	&nbsp;</p></p>
+<p></p>
+{% endraw %}

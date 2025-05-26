@@ -1,0 +1,56 @@
+---
+id: 12413325
+date: "2010-04-24T10:50:00Z"
+last_modified_at: null
+tags:
+  - "aldo-rebelo"
+  - "bezerros"
+  - "governo"
+  - "leilao"
+  - "marisa-monte"
+categories:
+  - "noticias"
+title: "Os erros do governo no leil\u00e3o de Belo Monte"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><h5>Como fazer...E como n&atilde;o fazer</h5></p>
+<p><table cellspacing="2" cellpadding="2" border="0" align="center" width="400"></p>
+<p>    <tbody></p>
+<p>        <tr></p>
+<p>            <td><span class="credito">Claus Meyer/Tyba</span><br /></p>
+<p>            <img height="375" border="0" width="450" vspace="3" src="https://veja.abril.com.br/280410/imagens/economia4.jpg" alt="" /></td></p>
+<p>        </tr></p>
+<p>        <tr></p>
+<p>            <td><span class="legendaCor">NOVOS  TEMPOS</span><br /></p>
+<p>            <span class="legenda">&Aacute;rvores alagadas pela Usina de Tucuru&iacute;, constru&iacute;da   nos anos 70: acidente ambiental que n&atilde;o dever&aacute; se repetir com Belo  Monte</span></td></p>
+<p>        </tr></p>
+<p>    </tbody></p>
+<p></table></p>
+<p><p>&nbsp;</p></p>
+<p><table cellspacing="0" cellpadding="0" border="0" align="left" width="300" class="vejaTambem"></p>
+<p>    <tbody></p>
+<p>        <tr></p>
+<p>            <td></p>
+<p>            <div class="vtTopo">VEJA TAMB&Eacute;M</div></p>
+<p>            </td></p>
+<p>        </tr></p>
+<p>        <tr></p>
+<p>            <td class="vtLink">&bull; <a target="_blank" href="https://veja.abril.com.br/280410/popup_como-fazer.html">Quadro: <b class="vtTitulo">Nova fronteira energ&eacute;tica</b></a></td></p>
+<p>        </tr></p>
+<p>        <tr></p>
+<p>            <td class="vtLink">&bull; <a target="_blank" href="https://veja.abril.com.br/280410/popup_terceira.html">Quadro: <b class="vtTitulo">A terceira maior do mundo</b></a></td></p>
+<p>        </tr></p>
+<p>    </tbody></p>
+<p></table></p>
+<p><p align="left" class="corpo">A         	        imensid&atilde;o da hidrografia brasileira tem sido descrita  desde o descobrimento.         	        Por volta de 1500, o navegador espanhol Vicente Y&aacute;&ntilde;ez  Pinz&oacute;n         	        batizou o Rio Amazonas de Mar Doce. N&atilde;o h&aacute; no planeta  mananciais         	        semelhantes. &Eacute; gra&ccedil;as aos seus rios que o pa&iacute;s abastece  tr&ecirc;s         	        quartos de seu consumo de eletricidade. Mas, ao  contr&aacute;rio de pa&iacute;ses         	        como a Fran&ccedil;a, que j&aacute; construiu todas as suas  hidrel&eacute;tricas,         	        o Brasil utiliza, atualmente, apenas 28% da capacidade  de gerar energia de seus         	        rios. A regi&atilde;o menos explorada &eacute; a Norte, devido aos  custos de investir         	        ali. Pois hoje s&atilde;o os rios da Amaz&ocirc;nia os mais  promissores para comportar         	        grandes usinas e atender &agrave;s necessidades energ&eacute;ticas  futuras do         	        pa&iacute;s, utilizando uma fonte menos poluente e mais barata  do que op&ccedil;&otilde;es         	        como termel&eacute;tricas. Da&iacute; a import&acirc;ncia de retirar do  papel         	        a Hidrel&eacute;trica de Belo Monte, no Rio Xingu, um projeto  de mais de trinta         	        anos. Deve ser saudada, portanto, a not&iacute;cia de que o  governo conseguiu         	        fazer, na semana passada, o leil&atilde;o que selecionou o  cons&oacute;rcio que         	        vai construir e administrar a usina, apesar da gritaria  (em boa medida, sem nenhuma         	        base) dos ambientalistas de ocasi&atilde;o. O destino da usina,  no entanto, segue         	        incerto. Equ&iacute;vocos do governo nas regras da disputa  afastaram os principais         	        grupos privados interessados no projeto. A equipe de  Lula corre agora para encontrar         	        uma sa&iacute;da que garanta a execu&ccedil;&atilde;o das obras, recorrendo a          	        bilh&otilde;es de reais em dinheiro p&uacute;blico.</p></p>
+<p><p align="left" class="corpo">N&atilde;o         	        precisava ter sido assim. O governo poderia simplesmente  ter se espelhado no sucesso         	        de dois leil&otilde;es recentes, das usinas de Santo Ant&ocirc;nio e  Jirau, no         	        Rio Madeira, em Rond&ocirc;nia. Ambos os projetos, apesar de  ter estatais como         	        s&oacute;cias, s&atilde;o liderados por empresas privadas. Ao  contr&aacute;rio         	        do modelo usado na constru&ccedil;&atilde;o de Itaipu e de outras  grandes hidrel&eacute;tricas         	        estatais, as empreiteiras de Jirau e Santo Ant&ocirc;nio  assumir&atilde;o os riscos         	        e ser&atilde;o remuneradas pela venda de energia. Esse sistema  inverte a l&oacute;gica         	        da inefici&ecirc;ncia e do desperd&iacute;cio que imperava no  passado. Para os         	        investidores privados, quanto antes girarem as turbinas,  mais cedo a usina far&aacute;     	          dinheiro. Tanto &eacute; assim que Santo Ant&ocirc;nio e Jirau dever&atilde;o         	        iniciar suas atividades em 2012, pelo menos um ano antes  do prazo previsto. Mas         	        Lula, que tanto se guia por met&aacute;foras futebol&iacute;sticas,  resolveu mexer         	        em time que estava ganhando.</p></p>
+<p><p align="left" class="corpo">O primeiro equ&iacute;voco foi         	        ter fixado o teto do pre&ccedil;o da energia num valor  considerado baixo demais.         	        O resultado foi que as duas construtoras mais  capacitadas para executar o projeto,         	        a Odebrecht e a Camargo Corr&ecirc;a, nem chegaram a entrar na  disputa. Ofereceram         	        lances apenas dois cons&oacute;rcios. A surpresa maior veio  quando saiu o resultado         	        do leil&atilde;o. O vencedor foi o grupo formado de &uacute;ltima  hora, liderado         	        pela estatal Chesf, que re&uacute;ne empresas com poucas  credenciais para um projeto         	        de tamanha magnitude. O principal investidor privado &eacute; o  grupo Bertin,         	        experiente como frigor&iacute;fico mas ne&oacute;fito no setor de  energia. Saiu         	        derrotado o cons&oacute;rcio mais s&oacute;lido, no qual estavam  companhias do         	        porte da Vale, da Votorantim e da Andrade Gutierrez.  &quot;Foi a vit&oacute;ria         	        do cons&oacute;rcio estatal sobre o privado&quot;, resumiu a VEJA o  diretor de         	        uma grande construtora.</p></p>
+<p><p align="left" class="corpo">O cons&oacute;rcio Norte Energia  ganhou         	        a disputa ao oferecer 78 reais pelo megawatt-hora, um  des&aacute;gio de 6% em         	        rela&ccedil;&atilde;o ao teto de 83 reais. Por esse valor, diz o  pr&oacute;prio         	        governo, o grupo vencedor obter&aacute; uma rentabilidade de 8%  ao ano pelo capital         	        investido. Para o setor p&uacute;blico, pode parecer bom. Os  investidores privados,         	        no entanto, exigiam um retorno de ao menos 11%. Sen&atilde;o,  argumentam, &eacute;     	          melhor deixar o capital aplicado em t&iacute;tulos de renda fixa,  sem correr os         	        riscos intr&iacute;nsecos a uma obra de propor&ccedil;&otilde;es semelhantes  &agrave;s         	        do Canal do Panam&aacute;, e em plena floresta. Segundo as  empreiteiras derrotadas,         	        com o pre&ccedil;o oferecido pelo Norte Energia, a  rentabilidade do neg&oacute;cio         	        dever&aacute; ficar em torno de 5%. Isso porque o custo real da  obra dever&aacute;     	          ser da ordem de 30 bilh&otilde;es de reais, bem acima dos 19  bilh&otilde;es da         	        estimativa oficial. Para Mario Veiga, presidente da PSR  Consultoria, o resultado         	        do leil&atilde;o s&oacute; pode ser justificado pelo que ele  classificou de &quot;taxa         	        patri&oacute;tica de retorno&quot;. Diz Veiga: &quot;Belo Monte &eacute; uma  &oacute;tima         	        usina. Poderia ter sido constru&iacute;da pela iniciativa  privada, de maneira         	        rent&aacute;vel e sem tantos subs&iacute;dios. Se o governo tivesse  conduzido         	        o leil&atilde;o de maneira transparente, haveria competi&ccedil;&atilde;o  entre         	        os investidores e muito menos confus&atilde;o&quot;.</p></p>
+<p><p align="left" class="corpo">De fato,         	        houve confus&atilde;o e subs&iacute;dios de sobra. Para tornar a obra  atraente         	        e, ao mesmo tempo, fabricar uma tarifa final  artificialmente barata, o governo         	        abriu a m&atilde;o. O Banco Nacional de Desenvolvimento  Econ&ocirc;mico e Social         	        (BNDES) vai bancar at&eacute; 80% da obra, com um financiamento  de trinta anos         	        de prazo e juros decrescentes. Para completar, o  cons&oacute;rcio vencedor ter&aacute;     	          um abatimento de 75% do imposto de renda durante uma  d&eacute;cada. Todo esse         	        esfor&ccedil;o para chegar aos tais 78 reais por megawatt-hora,  um valor inferior    &agrave; realidade do mercado. Sem subs&iacute;dios, o pre&ccedil;o de energia         	        das novas hidrel&eacute;tricas varia entre 100 e 120 reais por  megawatt-hora.         	        Para os consumidores, soa como um &oacute;timo neg&oacute;cio pagar 78  reais por         	        algo que chega a valer at&eacute; 120 reais. Mas isso n&atilde;o passa  de um exerc&iacute;cio         	        de autoengano econ&ocirc;mico. Afinal, os subs&iacute;dios saem de  impostos pagos         	        pelo consumidor. De sua conta de luz, ali&aacute;s, quase  metade (46% do valor)         	        diz respeito a tributos.</p></p>
+<p><p align="left" class="corpo">Nem mesmo todos os  incentivos, no         	        entanto, asseguram o futuro de Belo Monte. As  construtoras que possuem credenciais         	        para tocar a obra seguem irredut&iacute;veis. O governo diz que  as queixas n&atilde;o         	        passam de choro de derrotados, e o projeto sair&aacute; de  qualquer jeito &ndash;     	          e, ao que parece, a qualquer pre&ccedil;o. &quot;N&oacute;s, enquanto estado  brasileiro,         	        enquanto empresa p&uacute;blica, faremos sozinhos o que for  necess&aacute;rio         	        fazer&quot;, afirmou Lula na quinta-feira. O pa&iacute;s precisa de  20 bilh&otilde;es         	        de reais ao ano para expandir a sua capacidade  energ&eacute;tica. Deixar esses         	        investimentos nas m&atilde;os do governo, como sugere Lula,  seria um retrocesso         	        injustific&aacute;vel. Com regras claras e bons projetos, n&atilde;o  faltar&atilde;o         	        investidores privados dispostos a assumir riscos. Foi  assim com as usinas do Rio         	        Madeira, exemplo aparentemente esquecido pelo governo.</p></p>
+<p><p align="center" class="corpo"><img height="450" border="0" width="267" vspace="3" src="https://veja.abril.com.br/280410/imagens/economia3.jpg" alt="" /></p> </p>
+{% endraw %}

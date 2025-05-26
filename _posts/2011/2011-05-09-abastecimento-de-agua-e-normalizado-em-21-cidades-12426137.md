@@ -1,0 +1,26 @@
+---
+id: 12426137
+date: "2011-05-09T07:37:00Z"
+last_modified_at: null
+tags:
+  - "agua"
+  - "cidades"
+categories:
+  - "noticias"
+title: "Abastecimento de \u00e1gua \u00e9 normalizado em 21 cidades"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><img height="348" width="520" alt="" src="https://jc3.uol.com.br/blogs/repositorio/MARCELO_FERREIRA1.jpg" /></p></p>
+<p><p>A&nbsp;Companhia Pernambucana de Saneamento-Compesa conseguiu ampliar para 21 o n&uacute;mero de munic&iacute;pios que j&aacute; est&atilde;o com o fornecimento de &aacute;gua regularizado. Em 11 cidades,a distribui&ccedil;&atilde;o ainda est&aacute; comprometida,em decorr&ecirc;ncia de danos causados aos sistemas de abastecimento em conseq&uuml;&ecirc;ncia das fortes chuvas que ca&iacute;ram em v&aacute;rias regi&otilde;es do Estado desde o in&iacute;cio da semana passada.</p></p>
+<p><p>Na Zona da Mata Norte, o abastecimento de &aacute;gua n&atilde;o voltou a normalidade para quatro cidades. O atendimento no munic&iacute;pio de Vic&ecirc;ncia &eacute; de 30% .Uma esta&ccedil;&atilde;o de bombeamento j&aacute; est&aacute; funcionando, por&eacute;m, existe outra unidade que est&aacute; em processo de manuten&ccedil;&atilde;o. A previs&atilde;o &eacute; concluir os servi&ccedil;os amanh&atilde; e testar o sistema, na ter&ccedil;a-feira.</p></p>
+<p><p>Em Nazar&eacute; da Mata, a Compesa conseguiu voltar a operar uma das esta&ccedil;&otilde;es elevat&oacute;rias permitindo a regulariza&ccedil;&atilde;o do abastecimento para 50% da cidade.A outra esta&ccedil;&atilde;o continua em manuten&ccedil;&atilde;o. Os t&eacute;cnicos esperam concluir todos os servi&ccedil;os na quarta-feira.Em Lagoa do Carro, o n&iacute;vel do rio baixou e os t&eacute;cnicos conseguiram retirar os equipamentos para manuten&ccedil;&atilde;o.A companhia espera concluir os trabalhos amanh&atilde; e assim retomar a distribui&ccedil;&atilde;o de &aacute;gua da cidade. Em Alian&ccedil;a, j&aacute; est&aacute; normal o abastecimento de &aacute;gua para 80% do munic&iacute;pio.Os testes no sistema ser&atilde;o iniciados amanh&atilde;.Na ter&ccedil;a-feira, ser&aacute; iniciado o processo de regulariza&ccedil;&atilde;o da distribui&ccedil;&atilde;o de &aacute;gua.</p></p>
+<p><p>Na Zona da Mata Sul, a Compesa ainda enfrenta problemas de abastecimento de &aacute;gua em Primavera,Barreiros e Vit&oacute;ria de Santo Ant&atilde;o.Em Barreiros, 80% da cidade j&aacute; est&aacute; recebendo &aacute;gua pela rede de distribui&ccedil;&atilde;o. Os t&eacute;cnicos continuam trabalhando para recompor tr&ecirc;s travessias a&eacute;reas ( tubula&ccedil;&otilde;es) que foram danificadas pela for&ccedil;a das &aacute;guas. Uma delas, localizada no bairro Timbir&eacute; j&aacute; est&aacute; prontas.As outras duas, situadas nos bairros de Bait&eacute; e Rio Una ser&atilde;o conclu&iacute;das amanh&atilde;, quando os 20% da cidade ter&aacute; o abastecimento regularizado.</p></p>
+<p><p>Em Primavera, a situa&ccedil;&atilde;o &eacute; a mesma de ontem: 50% da cidade j&aacute; est&aacute; recebendo &aacute;gua regularmente ap&oacute;s o funcionamento de uma das esta&ccedil;&otilde;es elevat&oacute;rias.A outra esta&ccedil;&atilde;o elevat&oacute;ria ainda n&atilde;o funciona porque os t&eacute;cnicos n&atilde;o t&ecirc;m acesso ao local. Tamb&eacute;m inalterada a situa&ccedil;&atilde;o de Vit&oacute;ria de Santo Ant&atilde;o: o abastecimento foi normalizado para 60% da cidade. Restam ainda os servi&ccedil;os de reparos em uma adutora que foi levada pela enchente. Como os servi&ccedil;os s&atilde;o complexos, os t&eacute;cnicos estima que nos reparos s&oacute; ser&atilde;o conclu&iacute;dos na pr&oacute;xima sexta-feira.</p></p>
+<p><p>No Agreste, o sistema de abastecimento de &aacute;gua de Bom Jardim est&aacute; funcionando com 50% de sua capacidade. Uma adutora foi atingida em dois pontos e em uma rede de distribui&ccedil;&atilde;o. Ainda resta iniciar os reparos do segundo trecho da adutora que foi arrastada pelas &aacute;guas.Os servi&ccedil;os dependem da libera&ccedil;&atilde;o de uma ponte por onde passa a tubula&ccedil;&atilde;o, interditada pela prefeitura. Em Limoeiro, o n&iacute;vel do rio baixou e os t&eacute;cnicos conseguiram chegar ao local do estouramento de uma adutora de &aacute;gua bruta, onde continuam trabalhando.A previs&atilde;o &eacute; concluir os servi&ccedil;os de reparo amanh&atilde;.A situa&ccedil;&atilde;o de Cupira n&atilde;o sofreu altera&ccedil;&atilde;o de ontem para hoje: a cidade continua com 75% do abastecimento regular.Das duas adutoras arrastadas pela enchente, uma delas est&aacute; funcionando plenamente.</p></p>
+<p><p>A outra, a Compesa espera melhorar o acesso do local do acidente para promover os reparos necess&aacute;rios.Em Camocim de S&atilde;o F&eacute;lix, toda a cidade est&aacute; ainda sem abastecimento.Os servi&ccedil;os de manuten&ccedil;&atilde;o das bombas que sofreram avarias com a inunda&ccedil;&atilde;o da esta&ccedil;&atilde;o elevat&oacute;ria foram conclu&iacute;dos hoje.A previs&atilde;o dos t&eacute;cnicos &eacute; montar os conjuntos de bombas amanh&atilde;, quando ser&aacute; retomada a opera&ccedil;&atilde;o do sistema e a distribui&ccedil;&atilde;o de &aacute;gua da cidade.<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

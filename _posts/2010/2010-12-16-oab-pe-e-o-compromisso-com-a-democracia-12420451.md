@@ -1,0 +1,26 @@
+---
+id: 12420451
+date: "2010-12-16T16:46:00Z"
+last_modified_at: null
+tags:
+  - "democracia"
+categories:
+  - "noticias"
+title: "OAB-PE e o compromisso com a democracia"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Henrique Mariano, especial para o Blog de Jamildo</p></p>
+<p><p>A Ordem dos Advogados do Brasil (OAB), ao longo dos &uacute;ltimos anos, vem buscando aprimorar os seus instrumentos de desenvolvimento democr&aacute;tico - na mesma medida em que a democracia amadurece no Pa&iacute;s. Agora, a Seccional Pernambuco (OAB-PE) se prepara para dar mais um passo adiante. Trata-se da escolha da lista s&ecirc;xtupla de candidatos ao cargo de desembargador do Tribunal Regional do Trabalho da 6&ordf; Regi&atilde;o na vaga pertencente &agrave; advocacia. Na pr&oacute;xima segunda-feira (dia 20), o Conselho Seccional dever&aacute; estabelecer, de forma in&eacute;dita, a elei&ccedil;&atilde;o desta lista por escolha direta dos advogados.</p></p>
+<p><p>Para compreens&atilde;o do marco hist&oacute;rico que representa essa mudan&ccedil;a no processo de escolha da lista s&ecirc;xtupla, precisamos rememorar um pouco o funcionamento do Quinto Constitucional. O dispositivo surgiu no sistema jur&iacute;dico brasileiro na Constitui&ccedil;&atilde;o de 1934 - durante o governo Get&uacute;lio Vargas, cujo &sect; 6&ordm;, art. 104, dizia: &quot;Na composi&ccedil;&atilde;o dos tribunais superiores, ser&atilde;o reservados lugares, correspondentes a um quinto do n&uacute;mero total, para que sejam preenchidos por advogados, ou membros do Minist&eacute;rio P&uacute;blico...&quot;.</p></p>
+<p><p>Ao longo das constitui&ccedil;&otilde;es que se seguiram, o Quinto Constitucional sempre esteve presente, inclusive na Carta Magna de 1988, marco do momento de redemocratiza&ccedil;&atilde;o do Brasil. As centenas de Emendas Constitucionais, principalmente a 45/2005 - tamb&eacute;m conhecida como a da Reforma do Judici&aacute;rio, mantiveram a vig&ecirc;ncia do dispositivo, obrigando que um quinto dos membros dos tribunais regionais federais e estaduais pertencesse ao Minist&eacute;rio P&uacute;blico e &agrave; advocacia, sempre indicados em lista s&ecirc;xtupla pelos &oacute;rg&atilde;os de representa&ccedil;&atilde;o das respectivas classes.</p></p>
+<p><p>Em 1996, o Conselho Federal da OAB editou o Provimento n&ordm; 80 que, pela primeira vez, previa a consulta direta no processo de escolha dos candidatos ao Quinto Constitucional: &quot;o Conselho Seccional, mediante resolu&ccedil;&atilde;o, poder&aacute; disciplinar a consulta direta aos advogados nele inscritos, para a composi&ccedil;&atilde;o da lista s&ecirc;xtupla que ser&aacute; submetida &agrave; sua homologa&ccedil;&atilde;o...&quot;. A partir da&iacute;, permitiu-se uma maior democratiza&ccedil;&atilde;o do processo de escolha dos candidatos. Apesar disto, na grande maioria das Seccionais da OAB - inclusive a de Pernambuco, a consulta direta &agrave; categoria s&oacute; foi realizada em casos de vagas para os tribunais estaduais, como ocorreu no TJPE.</p></p>
+<p><p>&Eacute; preciso, entretanto, avan&ccedil;ar e democratizar ainda mais os nossos processos internos. A diretoria da OAB-PE, ent&atilde;o, decidiu propor, este ano, uma inova&ccedil;&atilde;o na escolha dos candidatos ao Quinto do TRT-6. Tradicionalmente, a escolha da lista s&ecirc;xtupla para este Tribunal era feita atrav&eacute;s da vota&ccedil;&atilde;o dos membros do Conselho Seccional - uma vez que o Conselho Federal da OAB apenas faculta a escolha direta, mas n&atilde;o obriga a sua realiza&ccedil;&atilde;o pelas Seccionais. No entanto, a Ordem n&atilde;o &eacute; composta apenas por seus dirigentes e conselheiros e sim por toda a advocacia pernambucana. Portanto, s&atilde;o os advogados que devem escolher seus representantes tamb&eacute;m nos tribunais.</p></p>
+<p><p>Al&eacute;m disso, a escolha de um desembargador para um Tribunal deve ser revestida de um car&aacute;ter eminentemente t&eacute;cnico. Ao delegar aos advogados a escolha dos candidatos a vaga do TRT-6, focamos nesse vi&eacute;s do processo, impedindo que a escolha seja caracterizada por projetos pol&iacute;ticos ou pessoais. &Eacute; de fundamental import&acirc;ncia escolhemos, para t&atilde;o nobre fun&ccedil;&atilde;o, profissional com capacidade t&eacute;cnica, curr&iacute;culo &eacute;tico, compromisso com o bem p&uacute;blico e defensor das prerrogativas profissionais do advogado. O advogado que passa a exercer a fun&ccedil;&atilde;o de magistrado, n&atilde;o pode olvidar a sua origem, que &eacute; a advocacia, sob pena de trair a si pr&oacute;prio e &agrave; classe que o investiu na magistratura.</p></p>
+<p><p>Ressaltamos, enfim, que, na pr&oacute;xima segunda-feira, dia 20, o Conselho Seccional da OAB-PE apreciar&aacute; e voltar&aacute; o edital que regulamentar&aacute; realiza&ccedil;&atilde;o da elei&ccedil;&atilde;o atrav&eacute;s de consulta direta aos advogados para o Quinto Constitucional do TRT da Sexta Regi&atilde;o.</p></p>
+<p><p>Henrique Mariano &eacute; presidente da OAB-PE<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

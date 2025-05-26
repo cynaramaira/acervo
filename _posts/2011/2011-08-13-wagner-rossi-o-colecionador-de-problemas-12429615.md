@@ -1,0 +1,41 @@
+---
+id: 12429615
+date: "2011-08-13T12:27:00Z"
+last_modified_at: null
+tags:
+  - "baleia-rossi"
+  - "problemas-auditivos"
+  - "wagner-rosario"
+categories:
+  - "noticias"
+title: "Wagner Rossi, o colecionador de problemas"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Na Veja deste fim de semana</p></p>
+<p><p><img width="450" height="253" src="https://veja.abril.com.br/assets/pictures/45973/casa-wagner-rossi-ribeirao-preto-20110809-size-598.jpg&#63;1313195552" alt="" /><br /></p>
+<p><i><span style="font-size: smaller;">A casa de Wagner Rossi, em Ribeir&atilde;o Preto: propriedade avaliada em 9 milh&otilde;es de reais (Manoel Marques)</span></i></p></p>
+<p><p>O ministro Wagner Rossi, da Agricultura, gastou a semana passada tentando convencer a presidente Dilma Rousseff e o Brasil inteiro de que n&atilde;o tinha liga&ccedil;&otilde;es com as interfer&ecirc;ncias do lobista J&uacute;lio Fr&oacute;es nos neg&oacute;cios da pasta que comanda, como havia sido revelado por VEJA. Apesar da demiss&atilde;o de Milton Ortolan, segundo na hierarquia e seu bra&ccedil;o direito h&aacute; 25 anos, e das provas de que Fr&oacute;es tinha sala dentro da Comiss&atilde;o de Licita&ccedil;&otilde;es da Agricultura, Rossi posava de marido tra&iacute;do. Chamado ao Congresso para dar explica&ccedil;&otilde;es, disse que Ortolan era ing&ecirc;nuo, e que ele, como ministro, n&atilde;o podia controlar a portaria do minist&eacute;rio para impedir a entrada de Fr&oacute;es. Sobreviveu uma semana, mas vai precisar de muito mais do que frases de efeito se quiser continuar na cadeira de ministro.<br /></p>
+<p><br /></p>
+<p>A edi&ccedil;&atilde;o de VEJA que chega &agrave;s bancas neste s&aacute;bado mostra que Wagner Rossi, paulistano de 68 anos, &eacute; um colecionador de problemas, um daqueles pol&iacute;ticos que costumam deixar um rastro de hist&oacute;rias esquisitas por onde passam. <br /></p>
+<p><br /></p>
+<p>A primeira hist&oacute;ria relatada por VEJA remonta ao tempo em que Rossi presidia a Companhia Nacional de Abastecimento, a Conab, vinculada ao minist&eacute;rio da Agricultura. No final de 2007, a estatal doou 100 toneladas de feij&atilde;o para a prefeitura de Jo&atilde;o Pessoa, ent&atilde;o comandada por Ricardo Coutinho, do PSB, hoje governador da Para&iacute;ba. O feij&atilde;o deveria ser distribu&iacute;do entre fam&iacute;lias de baixa renda, mas como havia uma elei&ccedil;&atilde;o municipal em 2008, o prefeito decidiu guardar parte do estoque. Funcion&aacute;rio da Conab h&aacute; 25 anos, Walter Bastos de Moura descobriu a irregularidade e a denunciou diretamente a Wagner Rossi, em abril de 2008. Rossi prometeu tomar provid&ecirc;ncias.<br /></p>
+<p><br /></p>
+<p>Como nada aconteceu, Walter Bastos passou a vigiar a mercadoria estocada. Em setembro, a poucos dias elei&ccedil;&atilde;o, ele recebeu a informa&ccedil;&atilde;o de que o feij&atilde;o seria enfim distribu&iacute;do e acionou a Pol&iacute;cia Federal e a Justi&ccedil;a Eleitoral. Para evitar o flagrante, diz ele, a prefeitura decidiu sumir com as provas e despejou 8 toneladas de feij&atilde;o no aterro sanit&aacute;rio de Jo&atilde;o Pessoa. A cena do lix&atilde;o inundado por gr&atilde;os foi registrada no v&iacute;deo abaixo. (Clique na imagem e veja o v&iacute;deo na p&aacute;gina de Veja)</p></p>
+<p><p><a href="https://veja.abril.com.br/noticia/brasil/wagnr-rossi-o-colecionador-de-problemas" target="_blank"><img width="450" height="257" src="https://jc3.uol.com.br/blogs/repositorio/video_veja.jpg" alt="" /></a><br /></p>
+<p><br /></p>
+<p>A hist&oacute;ria chegou a ser explorada como den&uacute;ncia contra o prefeito, mas era muito mais grave: tratava-se de um flagrante do uso pol&iacute;tico da Conab para favorecer aliados do governo federal. Num acesso de sinceridade, o ex-presidente da empresa Alexandre Magno Franco de Aguiar, que sucedeu Rossi na empresa e hoje &eacute; seu assessor especial no minist&eacute;rio, confessou a VEJA que o pr&oacute;prio Rossi usou o expediente de distribuir alimentos para conseguir votos, inclusive para favorecer eleitoralmente o filho, Baleia Rossi, deputado estadual e presidente do diret&oacute;rio do PMDB de S&atilde;o Paulo.<br /></p>
+<p><br /></p>
+<p>J&aacute; no cargo de ministro da Agricultura, para o qual foi nomeado em mar&ccedil;o de 2010 por Lula, Rossi n&atilde;o tardou a implantar seu m&eacute;todo de lidar com a coisa p&uacute;blica. Em 8 de dezembro do ano passado, a Comiss&atilde;o de Licita&ccedil;&atilde;o do Minist&eacute;rio da Agricultura estava reunida para abrir as propostas t&eacute;cnicas de quatro empresas que disputavam um contrato para prestar servi&ccedil;os de comunica&ccedil;&atilde;o &agrave; pasta. Um dos representantes de empresas ali presente fez uma den&uacute;ncia grave. Disse, em alto e bom som, que aquilo era um jogo de cartas marcadas e que j&aacute; estava acertado um &ldquo;pagamento de 2 milh&otilde;es de reais ao oitavo andar&rdquo;. No oitavo andar, fica o gabinete do ministro.<br /></p>
+<p><br /></p>
+<p>O presidente da Comiss&atilde;o de Licita&ccedil;&atilde;o, Israel Leonardo Batista, disse que registraria a acusa&ccedil;&atilde;o em ata e a encaminharia &agrave; Pol&iacute;cia Federal. N&atilde;o demorou para que fosse chamado &agrave; sala da ent&atilde;o coordenadora de log&iacute;stica do minist&eacute;rio, Karla Carvalho, onde recebeu a ordem de n&atilde;o tomar nenhuma atitude. Karla j&aacute; era, na &eacute;poca, figura de confian&ccedil;a de Rossi. De l&aacute; para c&aacute;, s&oacute; subiu na hierarquia da pasta. At&eacute; a semana passada, era a poderosa secret&aacute;ria-executiva do minist&eacute;rio. Trabalhava diretamente com Milton Ortolan, demitido horas ap&oacute;s a &uacute;ltima edi&ccedil;&atilde;o de VEJA chegar &agrave;s bancas com as revela&ccedil;&otilde;es sobre J&uacute;lio Fr&oacute;es.<br /></p>
+<p><br /></p>
+<p>N&atilde;o bastassem as suspeitas que rondam seu gabinete na Agricultura, o ministro ainda deve esclarecimentos sobre sua atua&ccedil;&atilde;o na Companhia Docas de S&atilde;o Paulo (Codesp), cargo ao qual chegou tamb&eacute;m pelas m&atilde;os do amigo Michel Temer. Quando presidia a Codesp, uma estatal, Rossi descobriu que empresas contratadas pelo Porto de Santos deviam 126 milh&otilde;es de reais &agrave; Previd&ecirc;ncia. Em vez de exigir que acertassem as contas, decidiu pagar ele mesmo a fatura &ndash; com dinheiro p&uacute;blico da Codesp, &eacute; claro. A lista de benefici&aacute;rios do dinheiro p&uacute;blico inclui 99 empresas privadas que jamais quitaram os d&eacute;bitos assumidos pela estatal. Em 2005, seis anos depois do acordo, apenas 20.000 reais haviam sido ressarcidos &agrave; empresa.<br /></p>
+<p><br /></p>
+<p>Amigo h&aacute; 50 anos e leal servidor do vice-presidente Michel Temer, Wagner Rossi entrou para a pol&iacute;tica em 1982, quando concorreu pela primeira-vez a deputado federal. At&eacute; ent&atilde;o, levava uma vida modesta de professor universit&aacute;rio. Morava em uma casa de classe m&eacute;dia em Ribeir&atilde;o Preto, tinha uma Kombi, uma Belina e um Fusca Laranja, com o qual fez a campanha. &ldquo;Ele n&atilde;o tinha dinheiro nem para bancar os santinhos&rdquo;, lembra Jo&atilde;o Gilberto Sampaio, ex-prefeito de Ribeir&atilde;o Preto. Depois de dois mandatos como deputado estadual, dois como deputado federal, a presid&ecirc;ncia da Codesp, da Conab e dois anos como ministro (fun&ccedil;&otilde;es cujo sal&aacute;rio m&aacute;ximo &eacute; de 26 mil reais), sua ascens&atilde;o patrimonial impressiona.<br /></p>
+<p><br /></p>
+<p>O homem do fusca laranja e sua fam&iacute;lia s&atilde;o, hoje, propriet&aacute;rios de empresas, emissoras de r&aacute;dios, casas e fazendas. Wagner Rossi mora numa das casas mais espetaculares de Ribeir&atilde;o Preto, no alto de uma colina, cercada por um bosque luxuriante, numa &aacute;rea de 400 mil metros quadrados. Adquirida em 1996, quando ele era deputado, a mans&atilde;o &eacute; avaliada hoje em 9 milh&otilde;es de reais. Tudo, nas palavras do ministro, conquistado com o esfor&ccedil;o de 50 anos de trabalho e uma heran&ccedil;a recebida. </p></p>
+{% endraw %}

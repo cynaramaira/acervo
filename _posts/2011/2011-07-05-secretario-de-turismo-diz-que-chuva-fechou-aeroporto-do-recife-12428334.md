@@ -1,0 +1,81 @@
+---
+id: 12428334
+date: "2011-07-05T18:10:00Z"
+last_modified_at: null
+tags:
+  - "aeroporto"
+  - "chuva"
+  - "infraero"
+  - "recife"
+  - "turismo"
+categories:
+  - "noticias"
+title: "Secret\u00e1rio de Turismo diz que chuva fechou aeroporto do Recife. Infraero desmente"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>O secret&aacute;rio de Turismo do Recife, Andr&eacute; Campos, informou agora em seu microblog Twitter que o Aeroporto Internacional do Recife est&aacute; fechado por conta da chuva desta ter&ccedil;a-feira (5):</p></p>
+<p><p>&nbsp;</p></p>
+<p><!-- https://twitter.com/#!/ANDREWCAMPOS10/status/88350693261459458 --></p>
+<p><p><style type="text/css">.bbpBox88350693261459458 {background:url(https://a0.twimg.com/profile_background_images/133583942/ANDR__E_LULA.jpg) #C0DEED;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block}</style></p></p>
+<p><div class="bbpBox88350693261459458"></p>
+<p><p class="bbpTweet">Chuva fecha aeroporto de Recife.Coisa rara de acontecer.<span class="timestamp"><a href="https://twitter.com/#!/ANDREWCAMPOS10/status/88350693261459458" title="Tue Jul 05 20:57:01 +0000 2011">less than a minute ago</a> via <a rel="nofollow" href="https://twitter.com/#!/download/iphone">Twitter for iPhone</a> <a href="https://twitter.com/intent/favorite&#63;tweet_id=88350693261459458"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/favorite.png" alt="" /> Favorite</a> <a href="https://twitter.com/intent/retweet&#63;tweet_id=88350693261459458"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/retweet.png" alt="" /> Retweet</a> <a href="https://twitter.com/intent/tweet&#63;in_reply_to=88350693261459458"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/reply.png" alt="" /> Reply</a></span><span class="metadata"><span class="author"><a href="https://twitter.com/ANDREWCAMPOS10"><img src="https://a1.twimg.com/profile_images/302230250/andre-campos_normal.jpg" alt="" /></a><strong><a href="https://twitter.com/ANDREWCAMPOS10">andre wilson campos</a></strong><br /></p>
+<p>ANDREWCAMPOS10</span></span></p></p>
+<p></div></p>
+<p><!-- end of tweet --></p>
+<p><p>&nbsp;</p></p>
+<p><p>A reportagem acabou de telefonar para o aeroporto e a atendente disse que o movimento &eacute; normal por l&aacute;.</p></p>
+<p><p>No Twitter, os boatos come&ccedil;aram cedo:</p></p>
+<p><p>&nbsp;</p></p>
+<p><!-- https://twitter.com/#!/WolneyQueirozM/status/88307250434813952 --></p>
+<p><p><style type="text/css">.bbpBox88307250434813952 {background:url(https://a2.twimg.com/profile_background_images/163452212/BACKGROUND_TWITTER_2.jpg) #ffffff;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block}</style></p></p>
+<p><div class="bbpBox88307250434813952"></p>
+<p><p class="bbpTweet">Devido &agrave;s chuvas, o aeroporto dos Guararapes(Recife) acaba de ser fechado para pousos e decolagens.<span class="timestamp"><a href="https://twitter.com/#!/WolneyQueirozM/status/88307250434813952" title="Tue Jul 05 18:04:23 +0000 2011">less than a minute ago</a> via <a rel="nofollow" href="https://twitter.com/#!/download/iphone">Twitter for iPhone</a> <a href="https://twitter.com/intent/favorite&#63;tweet_id=88307250434813952"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/favorite.png" alt="" /> Favorite</a> <a href="https://twitter.com/intent/retweet&#63;tweet_id=88307250434813952"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/retweet.png" alt="" /> Retweet</a> <a href="https://twitter.com/intent/tweet&#63;in_reply_to=88307250434813952"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/reply.png" alt="" /> Reply</a></span><span class="metadata"><span class="author"><a href="https://twitter.com/WolneyQueirozM"><img src="https://a2.twimg.com/profile_images/1389477690/image_normal.jpg" alt="" /></a><strong><a href="https://twitter.com/WolneyQueirozM">Wolney_Queiroz</a></strong><br /></p>
+<p>WolneyQueirozM</span></span></p></p>
+<p></div></p>
+<p><!-- end of tweet --></p>
+<p><p>&nbsp;</p></p>
+<p><!-- https://twitter.com/#!/Geraldo/status/88339676959735808 --></p>
+<p><p><style type="text/css">.bbpBox88339676959735808 {background:url(https://a1.twimg.com/profile_background_images/171338456/geraldo.jpg) #ffffff;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block}</style></p></p>
+<p><div class="bbpBox88339676959735808"></p>
+<p><p class="bbpTweet">No aeroporto p pegar uma pessoa q vem de BSB. S&oacute; que as chuvas fecham aeroporto do Recife. Avi&atilde;o foi p Macei&oacute;.<span class="timestamp"><a href="https://twitter.com/#!/Geraldo/status/88339676959735808" title="Tue Jul 05 20:13:14 +0000 2011">less than a minute ago</a> via <a rel="nofollow" href="https://www.tweets60.com/">Tweets60dm</a> <a href="https://twitter.com/intent/favorite&#63;tweet_id=88339676959735808"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/favorite.png" alt="" /> Favorite</a> <a href="https://twitter.com/intent/retweet&#63;tweet_id=88339676959735808"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/retweet.png" alt="" /> Retweet</a> <a href="https://twitter.com/intent/tweet&#63;in_reply_to=88339676959735808"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/reply.png" alt="" /> Reply</a></span><span class="metadata"><span class="author"><a href="https://twitter.com/Geraldo"><img src="https://a1.twimg.com/profile_images/1379150854/eu_normal.jpg" alt="" /></a><strong><a href="https://twitter.com/Geraldo">Geraldo Cisneiros</a></strong><br /></p>
+<p>Geraldo</span></span></p></p>
+<p></div></p>
+<p><!-- end of tweet --></p>
+<p><p>&nbsp;</p></p>
+<p><!-- https://twitter.com/#!/renatorbarros/status/88350981280108544 --></p>
+<p><p><style type="text/css">.bbpBox88350981280108544 {background:url(https://a1.twimg.com/images/themes/theme14/bg.gif) #131516;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block}</style></p></p>
+<p><div class="bbpBox88350981280108544"></p>
+<p><p class="bbpTweet">Nossa! Nunca tinha visto isso. RT @<a rel="nofollow" href="https://twitter.com/ANDREWCAMPOS10" class="tweet-url username">ANDREWCAMPOS10</a> Chuva fecha aeroporto de Recife.Coisa rara de acontecer.<span class="timestamp"><a href="https://twitter.com/#!/renatorbarros/status/88350981280108544" title="Tue Jul 05 20:58:10 +0000 2011">less than a minute ago</a> via web <a href="https://twitter.com/intent/favorite&#63;tweet_id=88350981280108544"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/favorite.png" alt="" /> Favorite</a> <a href="https://twitter.com/intent/retweet&#63;tweet_id=88350981280108544"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/retweet.png" alt="" /> Retweet</a> <a href="https://twitter.com/intent/tweet&#63;in_reply_to=88350981280108544"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/reply.png" alt="" /> Reply</a></span><span class="metadata"><span class="author"><a href="https://twitter.com/renatorbarros"><img src="https://a3.twimg.com/profile_images/1391927481/oi_normal.jpg" alt="" /></a><strong><a href="https://twitter.com/renatorbarros">Renato Barros</a></strong><br /></p>
+<p>renatorbarros</span></span></p></p>
+<p></div></p>
+<p><!-- end of tweet --></p>
+<p><p>&nbsp;</p></p>
+<p><!-- https://twitter.com/#!/Luis_CNC/status/88351504288858112 --></p>
+<p><p><style type="text/css">.bbpBox88351504288858112 {background:url(https://a3.twimg.com/profile_background_images/228246460/CNC.jpg) #f70f0f;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block}</style></p></p>
+<p><div class="bbpBox88351504288858112"></p>
+<p><p class="bbpTweet">Tenso! Oo - RT @<a rel="nofollow" href="https://twitter.com/renatorbarros" class="tweet-url username">renatorbarros</a> Nossa! Nunca tinha visto isso. RT @<a rel="nofollow" href="https://twitter.com/ANDREWCAMPOS10" class="tweet-url username">ANDREWCAMPOS10</a> Chuva fecha aeroporto de Recife. Coisa rara de acontecer.<span class="timestamp"><a href="https://twitter.com/#!/Luis_CNC/status/88351504288858112" title="Tue Jul 05 21:00:14 +0000 2011">less than a minute ago</a> via web <a href="https://twitter.com/intent/favorite&#63;tweet_id=88351504288858112"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/favorite.png" alt="" /> Favorite</a> <a href="https://twitter.com/intent/retweet&#63;tweet_id=88351504288858112"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/retweet.png" alt="" /> Retweet</a> <a href="https://twitter.com/intent/tweet&#63;in_reply_to=88351504288858112"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/reply.png" alt="" /> Reply</a></span><span class="metadata"><span class="author"><a href="https://twitter.com/Luis_CNC"><img src="https://a1.twimg.com/profile_images/1304817708/7b3f0dfd-1486-46d7-9a5f-8d62d1b6201a_normal.png" alt="" /></a><strong><a href="https://twitter.com/Luis_CNC">Lu&iacute;s Prates</a></strong><br /></p>
+<p>Luis_CNC</span></span></p></p>
+<p></div></p>
+<p><!-- end of tweet --></p>
+<p><p>&nbsp;</p></p>
+<p><!-- https://twitter.com/#!/reporterbruno/status/88351797932068864 --></p>
+<p><p><style type="text/css">.bbpBox88351797932068864 {background:url(https://a1.twimg.com/profile_background_images/282961577/249703_164029846994341_100001619802438_412540_2767768_n.jpg) #1bc285;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block}</style></p></p>
+<p><div class="bbpBox88351797932068864"></p>
+<p><p class="bbpTweet">2014 em alerta. RT @<a rel="nofollow" href="https://twitter.com/ANDREWCAMPOS10" class="tweet-url username">ANDREWCAMPOS10</a>: Chuva fecha aeroporto de Recife.Coisa rara de acontecer.<span class="timestamp"><a href="https://twitter.com/#!/reporterbruno/status/88351797932068864" title="Tue Jul 05 21:01:24 +0000 2011">less than a minute ago</a> via <a rel="nofollow" href="https://mobileways.de/gravity">Gravity</a> <a href="https://twitter.com/intent/favorite&#63;tweet_id=88351797932068864"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/favorite.png" alt="" /> Favorite</a> <a href="https://twitter.com/intent/retweet&#63;tweet_id=88351797932068864"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/retweet.png" alt="" /> Retweet</a> <a href="https://twitter.com/intent/tweet&#63;in_reply_to=88351797932068864"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/reply.png" alt="" /> Reply</a></span><span class="metadata"><span class="author"><a href="https://twitter.com/reporterbruno"><img src="https://a1.twimg.com/profile_images/1425239484/audrey_normal.jpg" alt="" /></a><strong><a href="https://twitter.com/reporterbruno">BRUNO REIS</a></strong><br /></p>
+<p>reporterbruno</span></span></p></p>
+<p></div></p>
+<p><!-- end of tweet --></p>
+<p><p>&nbsp;</p></p>
+<p><!-- https://twitter.com/#!/elioalves/status/88351853481431041 --></p>
+<p><p><style type="text/css">.bbpBox88351853481431041 {background:url(https://a3.twimg.com/profile_background_images/159083044/eu2.jpg) #C6E2EE;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block}</style></p></p>
+<p><div class="bbpBox88351853481431041"></p>
+<p><p class="bbpTweet">Chuva fecha aeroporto de Recife. N&atilde;o se preocupem... Ainda pode piorar...<span class="timestamp"><a href="https://twitter.com/#!/elioalves/status/88351853481431041" title="Tue Jul 05 21:01:38 +0000 2011">less than a minute ago</a> via <a rel="nofollow" href="https://blackberry.com/twitter">Twitter for BlackBerry&reg;</a> <a href="https://twitter.com/intent/favorite&#63;tweet_id=88351853481431041"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/favorite.png" alt="" /> Favorite</a> <a href="https://twitter.com/intent/retweet&#63;tweet_id=88351853481431041"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/retweet.png" alt="" /> Retweet</a> <a href="https://twitter.com/intent/tweet&#63;in_reply_to=88351853481431041"><img src="https://si0.twimg.com/images/dev/cms/intents/icons/reply.png" alt="" /> Reply</a></span><span class="metadata"><span class="author"><a href="https://twitter.com/elioalves"><img src="https://a1.twimg.com/profile_images/1419047699/eu_normal.jpg" alt="" /></a><strong><a href="https://twitter.com/elioalves">Elio Alves</a></strong><br /></p>
+<p>elioalves</span></span></p></p>
+<p></div></p>
+<p><!-- end of tweet --></p>
+<p><p>&nbsp;</p></p>
+{% endraw %}

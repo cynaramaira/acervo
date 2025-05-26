@@ -1,0 +1,60 @@
+---
+id: 12420852
+date: "2010-12-28T14:48:00Z"
+last_modified_at: null
+tags:
+  - "montadoras"
+categories:
+  - "noticias"
+title: "Conhe\u00e7a o perfil da montadora Fiat"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;">Da Fiat Press<br /></p>
+<p><br /></p>
+<p>Uma trajet&oacute;ria pautada pela inova&ccedil;&atilde;o, por produtos de alta qualidade e pelo trabalho em sintonia com os seus parceiros mais pr&oacute;ximos: os fornecedores, a rede de concession&aacute;rios, a comunidade e os milhares de colaboradores. Assim pode ser definida a hist&oacute;ria da Fiat Autom&oacute;veis. Com 35 anos de opera&ccedil;&otilde;es no Brasil, que ser&atilde;o comemorados em 2011 com um novo ciclo de expans&atilde;o no Pa&iacute;s, a Fiat renova a cada dia o seu compromisso de continuar inovando sempre, visando a sustentabilidade do neg&oacute;cio e a lideran&ccedil;a de resultados.<br /></p>
+<p><br /></p>
+<p>Este novo ciclo ser&aacute; suportado por um plano de investimentos or&ccedil;ado em R$ 10 bilh&otilde;es, destinados &agrave; expans&atilde;o de todos os neg&oacute;cios do Grupo no Pa&iacute;s, com &ecirc;nfase na produ&ccedil;&atilde;o automotiva no complexo industrial de Betim &ndash; um dos maiores do mundo &ndash; e a nova unidade a ser constru&iacute;da em Pernambuco, cujo an&uacute;ncio oficial foi formalizado em dezembro de 2010. Al&eacute;m da expans&atilde;o da capacidade, os recursos destinam-se a projetos de desenvolvimento de pesquisas para novos produtos e tecnologias, ampliando cada vez mais o conte&uacute;do inovador dos autom&oacute;veis da marca e sua identifica&ccedil;&atilde;o com o consumidor brasileiro. O plano de investimento ser&aacute; executado de 2011 a 2014, sucedendo um intenso programa de invers&otilde;es no &uacute;ltimo tri&ecirc;nio (2008-2010) que consumiu recursos da ordem de R$ 5 bilh&otilde;es.<br /></p>
+<p><br /></p>
+<p>Nesse per&iacute;odo, um dos lan&ccedil;amentos de maior repercuss&atilde;o no mercado foi o do Novo Uno, a demonstra&ccedil;&atilde;o mais expressiva do pleno entendimento dos anseios dos consumidores. O Novo Uno trouxe um novo conceito para o mercado brasileiro, a partir da recria&ccedil;&atilde;o de um &iacute;cone da ind&uacute;stria automobil&iacute;stica nacional, em bases totalmente inovadoras. &ldquo;Estamos prontos para desafios cada vez maiores&rdquo;, afirma o presidente da Fiat na Am&eacute;rica Latina, Cledorvino Belini.<br /></p>
+<p><br /></p>
+<p><b>Complexo de produ&ccedil;&atilde;o e desenvolvimento</b><br /></p>
+<p><br /></p>
+<p>Desde 1976, quando foi inaugurada a f&aacute;brica de Betim, em Minas, a Fiat j&aacute; produziu mais de 12 milh&otilde;es de ve&iacute;culos, dos quais tr&ecirc;s milh&otilde;es foram exportados para todos os continentes do mundo. Em 2009, a Fiat obteve um novo recorde de vendas e foi novamente l&iacute;der no mercado brasileiro de ve&iacute;culos, com um total 737 mil ve&iacute;culos emplacados. Foi o oitavo ano na lideran&ccedil;a desde 2001, com uma participa&ccedil;&atilde;o de 24,5% do mercado de autom&oacute;veis e ve&iacute;culos comerciais leves, ou uma em cada quatro unidades. Em 2010, um novo recorde de produ&ccedil;&atilde;o de vendas, com volumes superiores a 750 mil ve&iacute;culos, dar&aacute; &agrave; Fiat o nono ano na lideran&ccedil;a do mercado brasileiro.<br /></p>
+<p><br /></p>
+<p>Em processo de amplia&ccedil;&atilde;o de sua capacidade para produzir 950 mil ve&iacute;culos por ano, a f&aacute;brica da Fiat em Betim incorporou as mais modernas tecnologias nos seus processos de prensas, funilaria, pintura e montagem, para transformar em realidade os projetos elaborados em seu Polo de Desenvolvimento Giovanni Agnelli, plenamente capacitado para a execu&ccedil;&atilde;o de todas as etapas de constru&ccedil;&atilde;o de um autom&oacute;vel, desde o design at&eacute; os mais sofisticados testes de experimenta&ccedil;&atilde;o. Hoje, a gama da Fiat inclui 15 modelos e mais de 250 vers&otilde;es, incluindo as destinadas &agrave; exporta&ccedil;&atilde;o. Entre os mais recentes sucessos de mercado que foram projetados neste complexo de engenharia automotiva e talento humano, est&atilde;o o Novo Uno, o Fiat Punto (agora com nova motoriza&ccedil;&atilde;o 1.6 e 1.8), a picape Strada Cabine Dupla e a ampla gama da fam&iacute;lia Palio, al&eacute;m da sofistica&ccedil;&atilde;o do sedan Linea e da eleg&acirc;ncia esportiva do rec&eacute;m-lan&ccedil;ado Fiat Bravo. A partir de 2014, com a conclus&atilde;o da f&aacute;brica de Pernambuco, a capacidade produtiva da Fiat no Pa&iacute;s ser&aacute; elevada para 1,150 milh&atilde;o de ve&iacute;culos por ano.<br /></p>
+<p><br /></p>
+<p>O Polo de Desenvolvimento tamb&eacute;m projeta o futuro. O &uacute;ltimo carro conceito da Fiat, o FCC III, foi concebido no Centro Estilo da Fiat em Betim, como resultado de mais de 10 mil id&eacute;ias que foram postadas no site www.fiatmio.cc, uma plataforma colaborativa na internet que recebeu nada menos de 2 milh&otilde;es de visitas de internautas de todo o mundo. O novo carro &ndash; um ve&iacute;culo compacto, urbano, com converg&ecirc;ncia de m&iacute;dias e infotainment, f&aacute;cil de estacionar e com zero emiss&atilde;o &ndash; foi oficialmente apresentado no Sal&atilde;o Internacional do Autom&oacute;vel de S&atilde;o Paulo, em outubro.<br /></p>
+<p><br /></p>
+<p><b><br /></p>
+<p>Responsabilidade socioambiental<br /></p>
+<p></b><br /></p>
+<p>O compromisso com a sustentabilidade ambiental n&atilde;o &eacute; apenas uma promessa para o futuro. Atualmente, 99% dos ve&iacute;culos vendidos pela Fiat no mercado brasileiro s&atilde;o equipados com motores flex, que permitem o uso simult&acirc;neo de etanol e de gasolina, em qualquer propor&ccedil;&atilde;o, contribuindo para a redu&ccedil;&atilde;o de emiss&otilde;es atmosf&eacute;ricas. Al&eacute;m de produtos mais amig&aacute;veis ao meio ambiente, a Fiat desenvolve processos mais inteligentes e adota posturas mais firmes em rela&ccedil;&atilde;o &agrave; conserva&ccedil;&atilde;o ambiental, com um investimento que supera a marca de US$ 120 milh&otilde;es aplicados nos &uacute;ltimos 20 anos em tecnologias e projetos para preserva&ccedil;&atilde;o e melhoria do meio ambiente.<br /></p>
+<p><br /></p>
+<p>Um dos mais recentes resultados desta postura foi a eleva&ccedil;&atilde;o de 92% para 99% do &iacute;ndice de recircula&ccedil;&atilde;o de &aacute;gua utilizada pela Fiat em suas opera&ccedil;&otilde;es industriais em Betim, gra&ccedil;as a uma tecnologia de filtra&ccedil;&atilde;o dos efluentes por membranas biorreatoras, um tratamento biol&oacute;gico que permite a recircula&ccedil;&atilde;o da &aacute;gua com alto padr&atilde;o de qualidade. O atual ciclo de investimentos da Fiat tamb&eacute;m incorporou benef&iacute;cios ambientais em todas as obras de expans&atilde;o da capacidade produtiva, como a utiliza&ccedil;&atilde;o de ilumina&ccedil;&atilde;o e ventila&ccedil;&atilde;o natural nos novos galp&otilde;es, reduzindo o consumo de energia el&eacute;trica, e a robotiza&ccedil;&atilde;o da Pintura, com redu&ccedil;&atilde;o de emiss&otilde;es atmosf&eacute;ricas geradas no processo anterior.<br /></p>
+<p><br /></p>
+<p>Outra evid&ecirc;ncia de que o compromisso com a sustentabilidade ambiental n&atilde;o &eacute; s&oacute; um discurso &eacute; o resultado obtido pelo Sistema de Gest&atilde;o Ambiental da Fiat na redu&ccedil;&atilde;o dos res&iacute;duos gerados na produ&ccedil;&atilde;o, simultaneamente ao aumento do percentual de reciclagem. At&eacute; 1990, cada ve&iacute;culo produzido gerava um total de 400 quilos de res&iacute;duos, dos quais 70% eram destinados &agrave; reciclagem. Esses &iacute;ndices foram melhorados continuamente at&eacute; atingir, em 2009, um volume de 228 quilos de res&iacute;duo por ve&iacute;culo produzido, com a destina&ccedil;&atilde;o de 90% para processos de reciclagem.<br /></p>
+<p><br /></p>
+<p>Al&eacute;m de ser uma refer&ecirc;ncia no mercado&nbsp; automobil&iacute;stico brasileiro pela qualidade de seus produtos, a Fiat tamb&eacute;m desenvolve&nbsp; uma s&eacute;rie de a&ccedil;&otilde;es que&nbsp; confirmam seu compromisso com a sociedade. Entre elas, est&atilde;o os programas destinados &agrave; inclus&atilde;o social de crian&ccedil;as e jovens&nbsp; atrav&eacute;s de a&ccedil;&otilde;es socioeducativas e de capacita&ccedil;&atilde;o profissional.<br /></p>
+<p><br /></p>
+<p>Em 2004, a Fiat formalizou sua pol&iacute;tica de relacionamento com a comunidade por meio do Programa &Aacute;rvore da Vida, que teve in&iacute;cio no seu entorno, em Betim (MG), na comunidade Jardim Teres&oacute;polis e hoje se estende por v&aacute;rios Estados brasileiros. Com s&oacute;lidas ra&iacute;zes, contribui para transformar a vida de milhares de pessoas em v&aacute;rias regi&otilde;es do Pa&iacute;s. Hoje, mais de 30 a&ccedil;&otilde;es socioculturais e esportivas s&atilde;o apoiadas pela montadora<br /></p>
+<p><br /></p>
+<p>O Programa &Aacute;rvore da Vida est&aacute; dividido em quatro vertentes: Jardim Teres&oacute;polis, Voluntariado, Capacita&ccedil;&atilde;o Profissional e Parcerias, nas quais estimula o protagonismo e a participa&ccedil;&atilde;o ativa dos beneficiados em todo o processo de desenvolvimento e transforma&ccedil;&atilde;o.&nbsp; <br /></p>
+<p><br /></p>
+<p>A vertente de Capacita&ccedil;&atilde;o Profissional do &Aacute;rvore da Vida foi criada pela montadora para beneficiar jovens de 18 a 24 anos com a oportunidade de adquirir uma profiss&atilde;o capaz de lhes assegurar a inser&ccedil;&atilde;o social atrav&eacute;s de uma atividade produtiva remunerada. A parceria da Fiat com o Isvor (Universidade Corporativa da Fiat), com a Rede de Concession&aacute;rias Fiat e com o Servi&ccedil;o Nacional da Ind&uacute;stria (Senai), garante a qualifica&ccedil;&atilde;o dos jovens e possibilita a contrata&ccedil;&atilde;o ao final do curso.<br /></p>
+<p><br /></p>
+<p>O Programa j&aacute; acontece em Curitiba (PR), S&atilde;o Paulo (SP), Betim (MG), Bras&iacute;lia (DF) e Recife (PE), com resultados significativos. Dos 132 jovens que j&aacute; conclu&iacute;ram os cursos, 115 est&atilde;o empregados, ou seja, 87%. Ao longo de 2010, outros 155 jovens passaram a participar dos cursos que tamb&eacute;m come&ccedil;aram a acontecer em Porto Alegre (RS) e Salvador (BA).<br /></p>
+<p><br /></p>
+<p>Outra a&ccedil;&atilde;o social viabilizada pela Fiat &eacute; a Cooper&aacute;rvore &ndash; cooperativa social do Programa &Aacute;rvore da Vida &ndash; Jardim Teres&oacute;polis, criada em 2004, com o objetivo de favorecer a inclus&atilde;o social e de gerar trabalho e renda para jovens e adultos da comunidade, em sua maioria m&atilde;es ou parentes de alunos das a&ccedil;&otilde;es socioeducativas.<br /></p>
+<p><br /></p>
+<p>Os participantes foram capacitados a partir da disponibiliza&ccedil;&atilde;o, pelo programa, de cursos de forma&ccedil;&atilde;o nas &aacute;reas de corte e costura, silkscreen e artesanato.<br /></p>
+<p><br /></p>
+<p>Desde sua&nbsp; implanta&ccedil;&atilde;o, a Cooper&aacute;rvore trabalha com o conceito de produzir materiais de qualidade, com foco no design diferenciado, al&eacute;m da utiliza&ccedil;&atilde;o - sempre que poss&iacute;vel - de materiais reciclados provenientes da Ilha Ecol&oacute;gica da Fiat ou da doa&ccedil;&atilde;o direta de fornecedores da empresa.<br /></p>
+<p><br /></p>
+<p>Al&eacute;m dos produtos da linha regular, composta por bolsas, mochilas, camisetas, brinquedos, bolsas de notebook, entre outros, a Cooper&aacute;rvore tamb&eacute;m produz brindes empresariais customizados, atendendo assim o segmento empresarial. Somente em 2009 foram comercializadas mais de 20 mil pe&ccedil;as, beneficiando diretamente 24 fam&iacute;lias da comunidade.<br /></p>
+<p><br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

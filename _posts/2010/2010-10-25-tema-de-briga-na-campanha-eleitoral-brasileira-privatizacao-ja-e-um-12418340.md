@@ -1,0 +1,32 @@
+---
+id: 12418340
+date: "2010-10-25T11:26:00Z"
+last_modified_at: null
+tags:
+  - "brasileirao"
+  - "briga"
+  - "campanha"
+  - "fundo-eleitoral"
+  - "guatemala"
+  - "paises-pobres"
+  - "privatizacao"
+categories:
+  - "noticias"
+title: "Tema de briga na campanha eleitoral brasileira, privatiza\u00e7\u00e3o j\u00e1 \u00e9 um assunto superado nos pa\u00edses desenvolvidos"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Na Veja</p></p>
+<p><p>Tema pouco presente na academia &ndash; tanto brasileira como internacional &ndash; nos &uacute;ltimos cinco anos, a discuss&atilde;o sobre privatiza&ccedil;&otilde;es voltou com toda for&ccedil;a neste segundo turno da campanha pol&iacute;tica. A candidata Dilma Rousseff (PT), apostando em uma estrat&eacute;gia j&aacute; adotada em 2006, retoma o ataque ao governo FHC, reacendendo o debate sobre os efeitos da pol&iacute;tica, utilizada em grande escala nas d&eacute;cadas de 80 e 90 por diversos governos em todo o mundo.</p></p>
+<p><p>Popularizada na gest&atilde;o de Margaret Thatcher, na Inglaterra dos anos 80, a pol&iacute;tica de privatiza&ccedil;&atilde;o &ndash; r&oacute;tulo adotado pela ex-primeira-ministra brit&acirc;nica para substituir o termo &ldquo;desnacionaliza&ccedil;&atilde;o&rdquo; &ndash; alastrou-se rapidamente por governos de mais de cem pa&iacute;ses, seduzidos pelas receitas geradas com as vendas das estatais. No Reino Unido, a privatiza&ccedil;&atilde;o se transformou em pol&iacute;tica econ&ocirc;mica ap&oacute;s a bem sucedida oferta p&uacute;blica de a&ccedil;&otilde;es da companhia estatal de telecomunica&ccedil;&otilde;es British Telecom, em 1984. Uma s&eacute;rie de privatiza&ccedil;&otilde;es foi realizada no pa&iacute;s no per&iacute;odo, reduzindo o papel das estatais na economia, que era de mais de 10% do produto interno bruto (PIB) em 1979, a quase nada em 1997, quando o Partido Conservador deixou o poder.</p></p>
+<p><p>Em busca de efici&ecirc;ncia e introdu&ccedil;&atilde;o de competi&ccedil;&atilde;o no mercado, os pa&iacute;ses industrializados seguiram o sucesso do programa brit&acirc;nico de privatiza&ccedil;&atilde;o, embora em velocidades variadas. Na Europa, Fran&ccedil;a, It&aacute;lia e Espanha lan&ccedil;aram grandes programas de vendas de estatais durante os anos 90. A Alemanha foi pioneira, e iniciou sua pol&iacute;tica de &ldquo;desnacionaliza&ccedil;&atilde;o&rdquo; em 1961, antes mesmo da Inglaterra. A Volkswagen foi uma das primeiras a serem ofertadas publicamente.</p></p>
+<p><p>A crise de 1929 e a II Guerra Mundial incentivaram governos do mundo todo a ter um papel mais ativo na economia. O estado empres&aacute;rio era percebido como necess&aacute;rio para promover o crescimento. Antes da era Thatcher, o consenso era de que os governos deveriam ser propriet&aacute;rios dos servi&ccedil;os de telecomunica&ccedil;&otilde;es, correios, eletricidade, g&aacute;s, linhas a&eacute;reas e estradas. Em alguns pa&iacute;ses, a ind&uacute;stria de ferro e da defesa era controlada pelo estado e bancos estatais eram monopolistas ou tinham posi&ccedil;&otilde;es protegidas. D&eacute;cadas depois, tentando se livrar de algumas ineficientes e custosas estatais, governos do mundo todo abra&ccedil;aram a medida neoliberal, inclusive a China, com sua abertura comercial nos anos 70, e os pa&iacute;ses da ex-Uni&atilde;o Sovi&eacute;tica, ap&oacute;s a derrocada do modelo comunista.</p></p>
+<p><p>Am&eacute;rica Latina - O vanguardista Chile foi o primeiro do continente a adotar de forma sistem&aacute;tica a venda de suas estatais. O caso da telefonia &eacute; o mais not&aacute;vel. No in&iacute;cio da d&eacute;cada de 80, as estatais CTC e Entel controlavam o servi&ccedil;o de telefonia no pa&iacute;s. Com poucos investimentos e pouca oferta de linhas, a lista de espera por um telefone era grande. Ap&oacute;s a privatiza&ccedil;&atilde;o dos servi&ccedil;os, uma r&aacute;pida expans&atilde;o dos investimentos resolveu em menos de uma d&eacute;cada o problema das filas de espera e introduziu concorr&ecirc;ncia a um mercado antes excessivamente concentrado. &ldquo;O estado tirava o dinheiro da telefonia e usava para outras coisas. E por ser populista n&atilde;o subia os pre&ccedil;os, ent&atilde;o n&atilde;o tinha dinheiro para fazer investimentos&rdquo;, explica Ronald Fischer, professor da Universidade do Chile e pesquisador do tema.</p></p>
+<p><p>No Brasil, as privatiza&ccedil;&otilde;es foram iniciadas no governo Fernando Collor e aceleradas durante a gest&atilde;o FHC. Assim como no Chile, os benef&iacute;cios mais not&aacute;veis foram sentidos na telefonia. Antes da privatiza&ccedil;&atilde;o do sistema Telebr&aacute;s, em 1998, pagava-se de 970 reais (pre&ccedil;o oficial) at&eacute; 9.000 reais (mercado paralelo) por uma linha telef&ocirc;nica e esperava-se cerca de tr&ecirc;s anos para a instala&ccedil;&atilde;o. Hoje, a linha n&atilde;o custa nada e a instala&ccedil;&atilde;o demora sete dias &uacute;teis.</p></p>
+<p><p>O economista Alberto Chong, do Banco Interamericano de Desenvolvimento (BID) e co-autor do artigo &ldquo;A verdade sobre a privatiza&ccedil;&atilde;o na Am&eacute;rica Latina&rdquo;, avalia que, atualmente, s&oacute; se fala em privatiza&ccedil;&otilde;es em pa&iacute;ses do leste europeu e da &Aacute;frica. &ldquo;Na Am&eacute;rica Latina, o ciclo acabou, na maioria das empresas que precisavam ser privatizadas isso j&aacute; ocorreu&rdquo;, conclui. &ldquo;Essa discuss&atilde;o no Brasil me chama a aten&ccedil;&atilde;o porque &eacute; um tema velho e superado. As privatiza&ccedil;&otilde;es trouxeram resultados positivos. Isso est&aacute; muito claro, j&aacute; foi provado&rdquo;, afirma.</p></p>
+<p><p>Roberto Macedo, economista que estudou h&aacute; cinco anos os resultados da venda das estatais no Brasil, faz coro &agrave; avalia&ccedil;&atilde;o de Chong e afirma que, se sua pesquisa fosse realizada hoje, os benef&iacute;cios seriam ainda mais evidentes. &ldquo;O debate est&aacute; muito centrado na quest&atilde;o da propriedade estatal, mas deveria estar centrado na gest&atilde;o das empresas&rdquo;, avalia. &ldquo;N&atilde;o tenho preconceito ideol&oacute;gico quanto ao papel do estado na economia. Mas sou pragm&aacute;tico. Se o modelo funcionou, por que criticar&#63;&rdquo;<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

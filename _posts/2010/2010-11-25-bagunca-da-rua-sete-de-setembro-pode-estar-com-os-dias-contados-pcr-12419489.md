@@ -1,0 +1,27 @@
+---
+id: 12419489
+date: "2010-11-25T15:23:00Z"
+last_modified_at: null
+tags:
+  - "comercio"
+  - "setembro"
+categories:
+  - "noticias"
+title: "Bagun\u00e7a da Rua Sete de Setembro pode estar com os dias contados. PCR come\u00e7a a ordenar com\u00e9rcio informal"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>A Prefeitura do Recife inicia, nesta quinta-feira (25), as primeiras a&ccedil;&otilde;es de suporte do programa &ldquo;Recife! Nosso Centro&rdquo;. A primeira via a ser trabalhada ser&aacute; a Rua Sete de Setembro, no bairro da Boa Vista. Ali, ser&atilde;o realizadas diversas interven&ccedil;&otilde;es urbanas que visam &agrave; desobstru&ccedil;&atilde;o da via, bem como a sua requalifica&ccedil;&atilde;o. Participar&atilde;o da a&ccedil;&atilde;o as secretarias de Controle e Desenvolvimento Urbano, Servi&ccedil;os P&uacute;blicos, Sa&uacute;de, Desenvolvimento Econ&ocirc;mico, Assist&ecirc;ncia Social e a Secretaria de Defesa Social de Pernambuco.</p></p>
+<p><p>Desde &agrave;s 8h, foi realizado o bloqueio em diversas vias que d&atilde;o acesso &agrave; Rua Sete de Setembro. Esse bloqueio &eacute; feito por cerca de 230 pessoas, sendo 50 homens da Diretoria de Controle Urbano &ndash; Dircon e das ger&ecirc;ncias de Apreens&atilde;o &ndash; GEAP e Ger&ecirc;ncia do Com&eacute;rcio Informal - GCI e, 180 homens da Pol&iacute;cia Militar.</p></p>
+<p><p>As a&ccedil;&otilde;es ser&atilde;o direcionadas para garantir a acessibilidade e mobilidade da rua fazendo valer as legisla&ccedil;&otilde;es vigentes sobre o assunto, tanto municipais, como estaduais e federais. Outro foco importante da iniciativa &eacute; a melhoria da limpeza urbana da via. Para isso, ser&aacute; trabalhado o ordenamento do com&eacute;rcio popular, da publicidade, bem como do com&eacute;rcio formal.</p></p>
+<p><p>&ldquo;Tomando por base o cadastro da prefeitura, estamos analisando cada &aacute;rea que ser&aacute; trabalhada no centro da cidade e verificando, sob a &oacute;tica da acessibilidade, onde e quantos comerciantes populares poder&atilde;o permanecer nas vias do Recife. Variantes como tamanho das cal&ccedil;adas, fluxo de pessoas e de ve&iacute;culos, entre outras, est&atilde;o sendo observadas&rdquo;, explica o secret&aacute;rio de Controle, Desenvolvimento Urbano e Obras, Amir Schvartz.</p></p>
+<p><p>Com&eacute;rcio Informal &ndash; Na Rua Sete de Setembro existem 123 comerciantes informais autorizados atuando durante o dia. Deste total, 40 poder&atilde;o permanecer na via. Al&eacute;m deles, ter&atilde;o autoriza&ccedil;&atilde;o para continuar trabalhando no local quatro quiosques de coco verde, quatro bancas de frutas (desde que n&atilde;o seja para consumo no local e que estejam em pontos fixos) e seis fiteiros.</p></p>
+<p><p>Os comerciantes ocupar&atilde;o o lado direito da pista de rolamento da via, no sentido Avenida Conde da Boa Vista &ndash; Riachuelo. Na outra margem da via, ser&aacute; proibido o estacionamento de ve&iacute;culos para facilitar a circula&ccedil;&atilde;o. Os comerciantes que ficarem ter&atilde;o que utilizar barracas padronizadas. Cada tabuleiro ter&aacute; 1X1 de plano e 2X2 de coberta, e dever&aacute; ficar 50 cm distante do meio-fio. Durante o cadastramento, cada comerciante vai receber o modelo da PCR, a fim de que a estrutura seja adequada aos crit&eacute;rios determinados.</p></p>
+<p><p>Entre os crit&eacute;rios que est&atilde;o sendo utilizados para definir quem permanece comercializando na via est&atilde;o: o tempo que o comerciante est&aacute; trabalhando no local; se o que est&aacute; sendo vendido pelo comerciante &eacute; o que foi autorizado; o tipo do produto a ser comercializado (se &eacute; legal ou n&atilde;o) e se ele causa algum impacto na limpeza da rua. Ser&atilde;o delimitadas as &aacute;reas onde eles poder&atilde;o atuar, respeitando limites em rela&ccedil;&atilde;o &agrave;s cal&ccedil;adas, &agrave;s linhas d&rsquo;&aacute;gua e meios-fios.</p></p>
+<p><p>Ao chegarem aos pontos de bloqueio da Rua Sete de Setembro, os comerciantes populares autorizados ser&atilde;o orientados a comparecer a um ponto de recep&ccedil;&atilde;o localizado entre as ruas da Imperatriz e Martins Junior. No local, eles receber&atilde;o uma ficha e ser&atilde;o encaminhados &agrave; sede da Ger&ecirc;ncia do Com&eacute;rcio Informal, na Rua Cl&aacute;udio Brotherwood, n&ordm; 309, no Cordeiro, onde ser&atilde;o atendidos nos hor&aacute;rios das 8h &agrave;s 12h e das 13h &agrave;s 17h. Uma van e tr&ecirc;s kombis ser&atilde;o disponibilizados pela Prefeitura para fazer o transporte daqueles que quiserem se dirigir imediatamente ao local.</p></p>
+<p><p>Na sede da ger&ecirc;ncia, os comerciantes passar&atilde;o por uma triagem onde aqueles que atenderem aos crit&eacute;rios definidos pela PCR ser&atilde;o encaminhados para a equipe de cadastramento da Ger&ecirc;ncia do Com&eacute;rcio Informal. E os que n&atilde;o passarem na avalia&ccedil;&atilde;o ser&atilde;o atendidos por uma equipe da Secretaria de Desenvolvimento Econ&ocirc;mico que far&aacute; o cadastro de cada comerciante com o objetivo de inclu&iacute;-los em outros programas de gera&ccedil;&atilde;o de renda e incentivo, sejam do munic&iacute;pio ou do estado.</p></p>
+<p><p>&nbsp;</p> </p>
+{% endraw %}

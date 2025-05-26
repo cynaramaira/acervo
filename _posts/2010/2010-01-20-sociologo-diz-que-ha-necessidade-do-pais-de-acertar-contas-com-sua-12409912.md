@@ -1,0 +1,40 @@
+---
+id: 12409912
+date: "2010-01-20T12:38:00Z"
+last_modified_at: null
+tags:
+  - "candidatura-propria"
+  - "contas-externas"
+  - "historia"
+categories:
+  - "noticias"
+title: "Soci\u00f3logo diz que h\u00e1 necessidade do pa\u00eds de acertar contas com sua pr\u00f3pria hist\u00f3ria"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><img height="693" width="520" src="https://s3.amazonaws.com/twitpic/photos/large/44958491.jpg&#63;AWSAccessKeyId=0ZRYP5X5F6FSMBCCSE82&amp;Expires=1264003661&amp;Signature=bGQub1mvflCn4Fxbg625NWosqOA%3D" alt="" /></p></p>
+<p><p>Foto de Alexandro Auler</p></p>
+<p><p>PNDH 3: AGORA A VEZ &Eacute; DAS RUAS<br /></p>
+<p><br /></p>
+<p>Por Manoel S. Moraes de Almeida[1]<br /></p>
+<p><br /></p>
+<p>Nos &uacute;ltimos dias de 2009 e in&iacute;cio de 2010, o Brasil assistiu pela grande imprensa um debate intenso sobre a assinatura, pelo Presidente Lula, do Decreto 7.037 de 21.12.09, publicado no Di&aacute;rio Oficial em 22.12.09, em edi&ccedil;&atilde;o especial, que aprova o Programa Nacional de Direitos Humanos &ndash; PNDH-3. O texto final relaciona as diretrizes e propostas &agrave; incorpora&ccedil;&atilde;o de compromissos e recomenda&ccedil;&otilde;es internacionais assumidos pelo Brasil em fun&ccedil;&atilde;o da ades&atilde;o a diversos Tratados, Pactos e acordos ratificados, que foram aprovados pelo Congresso Nacional, no denominado Sistema Internacional de Direitos Humanos, com base na ONU e no Sistema Regional &ndash; OEA. E que, depois da Emenda Constitucional 45, com o devido processo legislativo, passaram a ser normas constitucionais.<br /></p>
+<p><br /></p>
+<p>As not&iacute;cias vinculadas na m&iacute;dia reportavam o descontentamento de militares, da Igreja Cat&oacute;lica e de alguns setores da sociedade civil em rela&ccedil;&atilde;o a conte&uacute;dos pol&ecirc;micos do plano, para n&atilde;o adjetivar de outra forma. Al&eacute;m de apresentar informa&ccedil;&otilde;es desencontradas e divergentes dentro do pr&oacute;prio Governo, mergulhamos em not&iacute;cias que anunciavam uma crise militar sem precedentes na hist&oacute;ria recente de nossa Rep&uacute;blica. N&atilde;o pretendo apresentar uma an&aacute;lise de todos os argumentos que foram utilizados em quinze dias de intensa exposi&ccedil;&atilde;o do tema &ldquo;Direitos Humanos&rdquo; mas destaco dois pontos: a incompreens&atilde;o sobre a universalidade, indivisibilidade e interdepend&ecirc;ncia dos Direitos Civis e Pol&iacute;ticos dos Direitos Econ&ocirc;micos, Sociais e Culturais &ndash; DHESCA&rsquo;s; e o papel do Estado na positiva&ccedil;&atilde;o da agenda program&aacute;tica dos Direitos Humanos, incorporando-a ao elenco de leis que regem nossa cidadania.<br /></p>
+<p><br /></p>
+<p>Por mais negativo que possa parecer, a pol&ecirc;mica em torno do PNDH-3 acabou tirando-o do anonimato instrumental do Estado brasileiro e provocou uma positiva rea&ccedil;&atilde;o de manifesta&ccedil;&otilde;es (notas, textos e atos) que aprofundaram em muito o seu car&aacute;ter inicial. S&oacute; em Pernambuco, no &uacute;ltimo dia 14 de janeiro, mais de 60 entidades (filiadas ao Movimento Nacional de Direitos Humanos - MNDH; F&oacute;rum de Mulheres; Articula&ccedil;&atilde;o Aids; Movimento Negro Unificado - MNU; etc) e diversos representantes do Governo do Estado e de importantes munic&iacute;pios da Regi&atilde;o Metropolitana do Recife participaram de um ato p&uacute;blico de constitui&ccedil;&atilde;o do Comit&ecirc; Estadual de Defesa do Plano e de sua divulga&ccedil;&atilde;o nos sindicatos, universidades, etc; O plano se tornou uma plataforma comum dos movimentos sociais e um marco pol&iacute;tico importante na defini&ccedil;&atilde;o das plataformas eleitorais para 2010. Isso significar&aacute; que, pela primeira vez, falar de temas como o direito &agrave; mem&oacute;ria e &agrave; verdade n&atilde;o ser&aacute; uma pauta restrita de especialistas ou dos que perderam seus parentes, mas, sim, uma necessidade do pa&iacute;s de acertar contas com sua pr&oacute;pria hist&oacute;ria.<br /></p>
+<p><br /></p>
+<p>O pernambucano Josu&eacute; de Castro j&aacute; diria que &eacute; imposs&iacute;vel falar de democracia sem que tenhamos resolvido o problema da Fome, e n&atilde;o s&oacute; a fome de comida, mas, fundamentalmente, a fome de cidadania. Isso significa que distribuir renda &eacute;, antes de tudo, desenvolvimento com sustentabilidade, desde que respaldada por uma pol&iacute;tica de educa&ccedil;&atilde;o, trabalho, lazer, etc. N&atilde;o faz sentido pensar no Brasil sem levar em conta a sua diversidade e o car&aacute;ter plural e multicultural de nossa identidade. Logo, falar de direito ao voto precisa estar vinculado ao princ&iacute;pio de existir; &agrave; invisibilidade dos direitos das popula&ccedil;&otilde;es ind&iacute;genas, negras, dos grupos vulner&aacute;veis e de diversos setores marginalizados e o &ldquo;pr&eacute;-conceito&rdquo; sobre elas ainda prevalecente em nosso pa&iacute;s, &eacute; que serviu de mote &agrave; emerg&ecirc;ncia desse debate.<br /></p>
+<p><br /></p>
+<p>Os segmentos representados no Plano est&atilde;o lutando pelo reconhecimento de serem n&atilde;o apenas consumidores e sim protagonistas de nossa identidade enquanto Rep&uacute;blica. O problema que se estabeleceu &eacute; que, para muitos, a Lei s&oacute; existe para os mais fortes ou para a maioria, e o Estado, portanto, deve ser o grande controlador das massas exclu&iacute;das e, claro, as suas pol&iacute;ticas devem refletir o car&aacute;ter contingencial desse &ldquo;equil&iacute;brio&rdquo;. No notici&aacute;rio, falava-se at&eacute; de inseguran&ccedil;a jur&iacute;dica... O que &eacute; totalmente fora de prop&oacute;sito quando falamos do Estado p&oacute;s-totalitarismos (seja do Socialismo Real ou do Apartheid). O valor que rege o Estado Democr&aacute;tico de Direito &eacute; a equidade, ao tratar das desigualdades provocadas pelo pr&oacute;prio Estado, ou a aus&ecirc;ncia dele. Logo, o poder Executivo passa a constituir espa&ccedil;os p&uacute;blicos de di&aacute;logo. Nossa Constitui&ccedil;&atilde;o permite isso quando aponta no seu artigo primeiro, par&aacute;grafo primeiro: &ldquo;Todo poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente...&rdquo; (CF,1988).<br /></p>
+<p><br /></p>
+<p>Logo, as mais de 50 Confer&ecirc;ncias, que culminaram na 11&ordm; Confer&ecirc;ncia Nacional de Direitos Humanos, t&ecirc;m legitimidade, sim, de apontar ao executivo o desejo de uma democracia participativa e plural. N&atilde;o &eacute; razo&aacute;vel imaginar que o Estado poderia ser pautado na &oacute;tica de uma moral, ou f&eacute;, ou ideologia. A pluralidade de nossa democracia est&aacute; garantida na defesa de um Estado pluripartid&aacute;rio e na compreens&atilde;o de que caber&aacute; ao Congresso Nacional apresentar, a seu tempo, as devidas f&oacute;rmulas poss&iacute;veis de ajustes das metas e resolu&ccedil;&otilde;es ao direito ordin&aacute;rio de nossos c&oacute;digos e leis. <br /></p>
+<p><br /></p>
+<p>A luta s&oacute; come&ccedil;ou e precisamos ficar atentos a tr&ecirc;s aspectos da implanta&ccedil;&atilde;o do Plano: a primeira &eacute; a necessidade da mobiliza&ccedil;&atilde;o permanente na defesa do PNDH-3 e torn&aacute;-lo cada vez mais p&uacute;blico; a segunda &eacute; acompanhar a composi&ccedil;&atilde;o do Comit&ecirc; de Acompanhamento e Monitoramento do PNDH-3 que foi criado no decreto presidencial; e, por fim, acompanhar a ades&atilde;o ao plano por parte dos Estados, do Distrito Federal, dos Munic&iacute;pios e os &oacute;rg&atilde;os do Poder Legislativo, do Judici&aacute;rio e do Minist&eacute;rio P&uacute;blico. Ou seja, agora &eacute; a vez das ruas.<br /></p>
+<p><br /></p>
+<p>PS:Soci&oacute;logo, Cientista Pol&iacute;tico, e Professor de Direitos Humanos da Faculdade Maur&iacute;cio de Nassau e Articulador do MNDH em Pernambuco.<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

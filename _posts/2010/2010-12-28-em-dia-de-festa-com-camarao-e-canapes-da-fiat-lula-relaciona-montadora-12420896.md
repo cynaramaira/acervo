@@ -1,0 +1,28 @@
+---
+id: 12420896
+date: "2010-12-28T22:05:00Z"
+last_modified_at: null
+tags:
+  - "festa"
+  - "lula"
+  - "montadoras"
+  - "nordeste"
+categories:
+  - "noticias"
+title: "Em dia de festa, com camar\u00e3o e canap\u00e9s da Fiat, Lula relaciona montadora \u00e0 fome no Nordeste"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Veja trecho destacado do discurso do presidente em Suape</p></p>
+<p><p>E hoje &eacute; com muito orgulho que eu estou aqui lan&ccedil;ando a pedra fundamental de uma empresa importante como a Fiat, que resolveu vir para o Nordeste n&atilde;o porque o Lula &eacute; pernambucano ou porque o Eduardo Campos tem os olhos azuis, n&atilde;o &eacute; por isso. Ela veio para c&aacute; porque, inteligente do jeito que &eacute;, a dire&ccedil;&atilde;o da Fiat tem estudos sobre o desenvolvimento do Nordeste brasileiro. E ela sabe que esta regi&atilde;o aqui, que aparecia nos gr&aacute;ficos do IBGE como a regi&atilde;o que tinha apenas mais analfabetos, mais desnutri&ccedil;&atilde;o, mais mortalidade infantil e mais desgra&ccedil;a, esta regi&atilde;o agora aparece... j&aacute; temos quatro vezes mais doutores do que a gente tinha oito anos atr&aacute;s, doutores formados. J&aacute; temos ind&uacute;stria naval, j&aacute; temos ind&uacute;stria petroqu&iacute;mica, j&aacute; temos muitas escolas t&eacute;cnicas e j&aacute; temos muitas escolas profissionais formando cada homem e cada mulher, para que as pessoas entendam que um matuto que corta cana n&atilde;o produziu um carro porque ainda n&atilde;o deram chance a ele de produzir um carro. Mas voc&ecirc;s v&atilde;o ouvir, daqui a dois anos, o presidente da Fiat vir aqui e dizer que n&atilde;o tem lugar nenhum do mundo que tenha trabalhador mais qualificado, mais preparado e mais produtivo do que os trabalhadores de Pernambuco e os trabalhadores do Nordeste brasileiro.</p></p>
+<p><p>Meus queridos companheiros, o que n&oacute;s fizemos foi apenas um sinal para que a companheira Dilma continue esse processo. N&oacute;s n&atilde;o queremos tirar nada de nenhuma regi&atilde;o do pa&iacute;s. N&oacute;s n&atilde;o queremos tirar nenhum emprego da Fiat de Minas Gerais. N&oacute;s n&atilde;o queremos tirar um emprego da ind&uacute;stria automobil&iacute;stica de S&atilde;o Paulo. N&oacute;s n&atilde;o queremos tirar um emprego da ind&uacute;stria automobil&iacute;stica do Paran&aacute; ou do Rio Grande do Sul. N&oacute;s apenas queremos que o Norte e que o Nordeste tenham a mesma oportunidade que eles j&aacute; tiveram e terem a mesma coisa.</p></p>
+<p><p>Tem um tipo de gente no Brasil que &eacute; t&atilde;o preconceituoso que ele &eacute; capaz de frequentar o mesmo sal&atilde;o a vida inteira; se um dia ele vir uma pessoa que ele conheceu pobre frequentando o seu sal&atilde;o, ele &eacute; capaz de mudar, quando ele deveria dar gra&ccedil;as a Deus de ter um companheiro a mais no seu sal&atilde;o, dan&ccedil;ando com ele qualquer que seja a m&uacute;sica que esteja tocando. N&atilde;o era poss&iacute;vel o Brasil continuar dividido entre o pa&iacute;s miser&aacute;vel exportador de desempregados para o restante do Brasil e o Brasil que recebia quase tudo.</p></p>
+<p><p>Pois bem, n&oacute;s chegamos hoje, Eduardo, e eu vou dar os n&uacute;meros aqui. O PAC prev&ecirc; investimentos, na Bahia, de R$ 41 bilh&otilde;es; em Pernambuco, R$ 34 bilh&otilde;es; no Cear&aacute;, R$ 22 bilh&otilde;es; em Sergipe, R$ 9 bilh&otilde;es; em Alagoas, quase R$ 10 bilh&otilde;es; no Rio Grande do Norte, R$ 12,8 bilh&otilde;es; no Maranh&atilde;o, fora a refinaria, R$ 13 bilh&otilde;es; na Para&iacute;ba, R$ 9 bilh&otilde;es; no Piau&iacute;, R$ 7 bilh&otilde;es. Isso, sem contar a Transnordestina, sem contar o Canal do S&atilde;o Francisco, sem contar a refinaria de Pernambuco, sem contar a refinaria do Maranh&atilde;o, sem contar a refinaria do Cear&aacute;. Ou seja, s&atilde;o investimentos que n&oacute;s vamos colher ao pr&oacute;ximo tempo, fora o PAC 2, que j&aacute; foi anunciado e que a companheira Dilma vai administrar.</p></p>
+<p><p>Estamos fazendo isso pelo Nordeste porque achamos que &eacute; preciso elevar o Nordeste ao mesmo patamar dos outros pa&iacute;ses [ESTADOS]do Sul, do Sudeste e do Centro-Oeste, para que este pa&iacute;s seja mais igual, seja mais justo com os seus filhos e que todos tenham oportunidade.</p></p>
+<p><p>A Fiat agiu corretamente quando resolveu se instalar no Nordeste brasileiro. E se depender de mim, Eduardo, sendo presidente ou n&atilde;o, outras empresas ir&atilde;o se instalar em outros estados brasileiros [NORDESTINOS], porque o Nordeste precisa de mais ind&uacute;stria. Precisa de mais ind&uacute;stria naval, de ind&uacute;stria sider&uacute;rgica, de ind&uacute;stria petroqu&iacute;mica, de ind&uacute;stria t&ecirc;xtil. O Nordeste precisa de mais empregos porque n&oacute;s temos que recuperar as d&eacute;cadas perdidas a que n&oacute;s fomos legados &agrave; mis&eacute;ria.</p></p>
+<p><p>Eu n&atilde;o esque&ccedil;o a raz&atilde;o pela qual eu sa&iacute; da minha Caet&eacute;s no dia 13 de dezembro de 1952. A causa chamava-se &ldquo;fome&rdquo;. E n&oacute;s n&atilde;o queremos que isso aconte&ccedil;a mais com o Nordeste. N&oacute;s queremos que nordestino v&aacute; para S&atilde;o Paulo a turismo, paulista venha para c&aacute; a turismo, paulista [NORDESTINO]v&aacute; conhecer o desenvolvimento de S&atilde;o Paulo, paulista venha conhecer o que &eacute; a costa de Pernambuco, a costa do Cear&aacute;, a costa da Para&iacute;ba, mas que a pessoa n&atilde;o seja obrigada a correr, a troco de um prato de comida, como n&oacute;s corremos em mais da metade do s&eacute;culo XX neste pa&iacute;s.<br /></p>
+<p>&nbsp;</p> </p>
+{% endraw %}

@@ -1,0 +1,53 @@
+---
+id: 12440238
+date: "2012-08-11T19:30:00Z"
+last_modified_at: null
+tags:
+  - "buenosaires"
+  - "critica"
+  - "isolamento"
+categories:
+  - "noticias"
+title: "PCB critica inflexibilidade t\u00e1tica do PSTU e os convoca a abandonar postura messi\u00e2nica e sair do isolamento"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>O Partido Comunista Brasileiro (PCB), que no Recife est&aacute; aliado ao Partido Socialismo e Liberdade (PSOL), formando a Frente de Esquerda, emitiu nota em resposta &agrave; nota enviada durante esta semana pelo PSTU, que acusou a alian&ccedil;a PCB-PSOL de estar a servi&ccedil;o do PT. Os partidos vivem conflito desde abril, trocando constantes farpas, remetendo a uma frase atribu&iacute;da ao escritor de direita Nelson Rodrigues: &quot;a esquerda s&oacute; se une na pris&atilde;o&quot;.<br /></p>
+<p><br /></p>
+<p>Veja a nota emitida pelo PSTU: <a href="https://jc3.uol.com.br/blogs/blogjamildo/canais/noticias/2012/08/08/pstu_diz_que_alianca_entre_pcb_e_psol_e_uma_frente_populista_a_servico_do_pt_135831.php"><b>PSTU diz que alian&ccedil;a entre PCB e PSOL &eacute; uma frente populista a servi&ccedil;o do PT</b></a><br /></p>
+<p><br /></p>
+<p>&quot;NOTA DO PCB EM RESPOSTA AOS EQU&Iacute;VOCOS DOS DIRIGENTES DO PSTU-PE&nbsp; <br /></p>
+<p><br /></p>
+<p>Lamentamos profundamente a nota assinada pelo PSTU, que em vez de atirar contra os representantes dos inimigos de classe, fala meias verdades que, a princ&iacute;pio, at&eacute; pelo baixo n&iacute;vel, n&atilde;o merecia resposta. Por&eacute;m, para esclarecer a sociedade pernambucana decidimos, por respeito &agrave; verdade e a hist&oacute;ria pol&iacute;tica do PCB, respond&ecirc;-la.<br /></p>
+<p><br /></p>
+<p>O fato &eacute; que tomamos a iniciativa de buscar o di&aacute;logo com os dois partidos (PSOL e PSTU) que est&atilde;o mais pr&oacute;ximos de nossas teses, conforme definido em nossa &ldquo;Confer&ecirc;ncia Pol&iacute;tica Nacional sobre T&aacute;tica&rdquo;. Se a Frente de Esquerda n&atilde;o se constituiu por inteiro, com os tr&ecirc;s partidos, foi, sobretudo, devido &agrave; postura do pr&oacute;prio PSTU, que ao se intrometer nas disputas internas do PSOL, criou um clima de animosidade que impediu um debate pol&iacute;tico sereno, e resultou em um veto do PSOL ao PSTU.<br /></p>
+<p><br /></p>
+<p>Equivoca-se, porque n&atilde;o acreditamos que tenha havido m&aacute; f&eacute; do PSTU, quando disse que est&aacute;vamos aguardando a posi&ccedil;&atilde;o do pr&eacute;-candidato do PDT &agrave; prefeitura do Recife, deputado Paulo Rubem. Assim que soubemos, por um site de comunica&ccedil;&atilde;o, que o referido deputado estava a alegar que estaria em conversa com o PCB, tratamos de enviar para o mesmo blog de not&iacute;cias um desmentido formal (que foi publicado), reafirmando que s&oacute; t&iacute;nhamos interesse em compor com o PSOL e o PSTU, de acordo com a linha pol&iacute;tica do partido.&nbsp; <br /></p>
+<p><br /></p>
+<p>O PSTU comete mais um equ&iacute;voco em sua lament&aacute;vel nota&nbsp;quando insinua que a alian&ccedil;a eleitoral em Paulista seria fruto da a&ccedil;&atilde;o de dirigentes, contrariamente &agrave; vontade da base. A alian&ccedil;a em Paulista foi inicialmente discutida e aprovada pela base do partido em Paulista antes de ser avaliada pela Dire&ccedil;&atilde;o Estadual e, depois, pelo nosso Comit&ecirc; Central. <br /></p>
+<p><br /></p>
+<p>Justificativas para a alian&ccedil;a realizada em Paulista podem ser encontradas em documento elaborado recentemente pelo PSTU para justificar sua alian&ccedil;a cm o PCdoB (PcdoB do C&oacute;digo Florestal, do apoio &agrave; privatiza&ccedil;&atilde;o da sa&uacute;de, dos aeroportos e coisas do g&ecirc;nero) em Bel&eacute;m do Par&aacute;.<br /></p>
+<p><br /></p>
+<p>Neste documento cita L&ecirc;nin (&ldquo;m&aacute;xima flexibilidade t&aacute;tica, absoluta rigidez nos princ&iacute;pios&rdquo;) e defende que &ldquo;Os acordos s&atilde;o um fato da tradi&ccedil;&atilde;o revolucion&aacute;ria. N&atilde;o h&aacute; como neg&aacute;-los. Para marxistas, os acordos em si n&atilde;o s&atilde;o nem bons, nem ruins. Depende da situa&ccedil;&atilde;o concreta que se apresenta em cada caso e, mais do que tudo, da pol&iacute;tica adotada e dos objetivos que o partido revolucion&aacute;rio persegue ao fechar esses acordos. Conclu&iacute;mos, portanto que, a t&aacute;tica revolucion&aacute;ria n&atilde;o &eacute; apenas flex&iacute;vel: &eacute; extremamente flex&iacute;vel&rdquo;.<br /></p>
+<p><br /></p>
+<p>A quest&atilde;o crucial passa a ser quais s&atilde;o os limites desta flexibilidade. O PSTU cita, no documento sobre a alian&ccedil;a com o PcdoB, basicamente a independ&ecirc;ncia pol&iacute;tica, que se manifesta na liberdade de a&ccedil;&atilde;o e em n&atilde;o se furtar em esclarecer os trabalhadores das contradi&ccedil;&otilde;es de seus aliados. N&atilde;o &eacute; mera coincid&ecirc;ncia! Quando fechamos a alian&ccedil;a em Paulista, foi sob condi&ccedil;&atilde;o de independ&ecirc;ncia pol&iacute;tica. A primeira de todas foi informar ao PT que n&atilde;o deixar&iacute;amos de combater os governos Dilma e Eduardo Campos, que n&atilde;o deixar&iacute;amos de fazer nossas cr&iacute;ticas ao PT, inclusive de fazer oposi&ccedil;&atilde;o ao PT no Recife. Informamos tamb&eacute;m que, no caso de vit&oacute;ria eleitoral, do candidato a prefeito e do nosso vereador, manter&iacute;amos uma postura independente na C&acirc;mara, em conson&acirc;ncia com nosso programa, n&atilde;o aceitando ser da &ldquo;bancada governista&rdquo;.<br /></p>
+<p><br /></p>
+<p>Quando o PSDB procurou o PT para formalizar a alian&ccedil;a, deixamos claro que seriam ou eles ou n&oacute;s, de maneira que o candidato do PT foi a p&uacute;blico explicar que n&atilde;o colocaria o PSDB na coliga&ccedil;&atilde;o para preservar a alian&ccedil;a com o PCB. Mas, para N&oacute;s, isso n&atilde;o basta. &Eacute; preciso tamb&eacute;m que a candidatura tenha significado para o avan&ccedil;o pol&iacute;tico. E &eacute; aqui que, mais uma vez, o PSTU n&atilde;o faz uma &ldquo;an&aacute;lise concreta de uma realidade concreta&rdquo;.<br /></p>
+<p><br /></p>
+<p>Paulista n&atilde;o &eacute; uma capital de Estado. Existe, ainda, um baixo n&iacute;vel de organiza&ccedil;&atilde;o social e popular, e o que existe tem no PT a refer&ecirc;ncia pol&iacute;tica. O pr&oacute;prio PSTU n&atilde;o existe em Paulista, e o PSOL est&aacute; surgindo. Enquanto no Recife PT representa o atraso, ap&oacute;s tr&ecirc;s gest&otilde;es, em Paulista representa um avan&ccedil;o relativo, para o n&iacute;vel de consci&ecirc;ncia e organiza&ccedil;&atilde;o pol&iacute;tica existente, e para a hist&oacute;ria pol&iacute;tica do munic&iacute;pio.<br /></p>
+<p><br /></p>
+<p>N&oacute;s do PCB n&atilde;o lutamos para apenas &ldquo;aparecer bem na foto&rdquo;, com o vi&eacute;s messi&acirc;nico em que o PSTU escorrega com certa freq&uuml;&ecirc;ncia. A alian&ccedil;a com o PT em Paulista nos permite acesso ao debate pol&iacute;tico com o que h&aacute; de mais avan&ccedil;ado naquela cidade, al&eacute;m de contribuir efetivamente para um maior avan&ccedil;o. Neste debate, dizemos o mesmo que pregamos a n&iacute;vel nacional, na oposi&ccedil;&atilde;o ao Governo Dilma e a todos os governos estaduais (j&aacute; que n&atilde;o h&aacute; nenhum de esquerda), assim como enfrentamos a contradi&ccedil;&atilde;o da alian&ccedil;a em Paulista, sobre o prisma da especificidade do atraso pol&iacute;tico ali existente, e do potencial de di&aacute;logo com os movimentos sociais a partir de tal alian&ccedil;a.<br /></p>
+<p><br /></p>
+<p>Em caso de vit&oacute;ria eleitoral, se o PT cumprir com o programa prometido, de or&ccedil;amentos participativos, de gest&atilde;o participativa, de transpar&ecirc;ncia administrativa, compromisso com a educa&ccedil;&atilde;o e sa&uacute;de p&uacute;blica, com o apoio &agrave; organiza&ccedil;&atilde;o dos movimentos sociais, entre outros itens, manteremos nossa alian&ccedil;a. Se n&atilde;o cumprir, romperemos, denunciando os fatos. Em rela&ccedil;&atilde;o a Jaboat&atilde;o, t&atilde;o logo tomamos conhecimento que membros da comiss&atilde;o provis&oacute;ria do PCB haviam assumido, publicamente, a alian&ccedil;a com o candidato &agrave; reelei&ccedil;&atilde;o pelo PSDB, reunimos, imediatamente a Comiss&atilde;o Executiva Estadual, divulgamos uma nota p&uacute;blica e expulsamos do Partido esses oportunistas e fisiol&oacute;gicos.<br /></p>
+<p><br /></p>
+<p>Por isso lamentamos que os dirigentes do PSTU em vez de estarem preocupados com seus assuntos internos, com o enfrentamento pol&iacute;tico &agrave;s for&ccedil;as de direita e conservadoras, at&eacute; travestidas de falsos nomes que as intitulam de socialistas e comunistas do B, mas que defendem na sua a&ccedil;&atilde;o cotidiana no movimento sindical e no parlamento as propostas mais reacion&aacute;rias e vinculadas aos interesses da classe burguesa do campo e da cidade, ficam tentando usar de meias verdades contra os que t&ecirc;m como sua atividade cotidiana e hist&oacute;rica, a a&ccedil;&atilde;o revolucion&aacute;ria como fundamento de suas/nossas vidas. <br /></p>
+<p><br /></p>
+<p>A constru&ccedil;&atilde;o de uma Frente de Esquerda completa, com os tr&ecirc;s partidos, exige mais do que declara&ccedil;&otilde;es de desejos, exige tamb&eacute;m respeito entre as partes, seja pela n&atilde;o inger&ecirc;ncia nas quest&otilde;es internas uns dos outros, seja pela n&atilde;o realiza&ccedil;&atilde;o de&nbsp;acusa&ccedil;&otilde;es levianas,&nbsp;que poderiam ser evitadas se buscassem um pouco mais de informa&ccedil;&atilde;o, e se prestassem aten&ccedil;&atilde;o em seu pr&oacute;prio discurso para justificar as suas pr&oacute;prias alian&ccedil;as.<br /></p>
+<p><br /></p>
+<p>Lamentamos, enfim, pelas inverdades da nota do PSTU, e mais uma vez convocamos esses dirigentes a sa&iacute;rem do gueto, do isolamento, de uma postura quase messi&acirc;nica, do pensar sozinho e achar que o mundo gravita em torno de si, e a vir compartilhar conosco da constru&ccedil;&atilde;o de uma proposta revolucion&aacute;ria para a sociedade brasileira, que passa pela luta anti-imperialista, anticapitalista e constru&ccedil;&atilde;o da sociedade socialista.<br /></p>
+<p>&nbsp; <br /></p>
+<p>Comiss&atilde;o Executiva do PCB-PE.&quot;</p></p>
+{% endraw %}

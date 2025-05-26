@@ -1,0 +1,30 @@
+---
+id: 12415766
+date: "2010-07-08T15:47:00Z"
+last_modified_at: null
+tags:
+  - "fernando-bezerra-coelho"
+  - "miguel-coelho"
+  - "torcida-jovem"
+categories:
+  - "noticias"
+title: "O jovem Fernando Bezerra Coelho rebate cr\u00edticas do veterano Osvaldo Coelho"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>O deputado federal Fernando Filho pronuncia-se hoje, em Bras&iacute;lia, sobre as cr&iacute;ticas do ex-deputado Oswaldo Coelho a suposta falta de investimento dos Governos Federal e Estadual em Pernambuco. Aos 78 anos, ele disputar&aacute; seu nono mandato na C&acirc;mara dos Deputados. Representante de uma das fam&iacute;lias mais tradicionais da pol&iacute;tica do Sert&atilde;o do S&atilde;o Francisco, Oswaldo vinha sendo assediado por aliados para retornar a pol&iacute;tica. Com a desist&ecirc;ncia do seu filho, o ex-prefeito de Petrolina Guilherme Coelho, o patriarca voltou a cogitar o retorno. Ele prestigiou, no &uacute;ltimo dia 30, a conven&ccedil;&atilde;o que oficializou a candidatura do senador Jarbas Vasconcelos (PMDB) ao governo. O ex-deputado &eacute; tio do secret&aacute;rio estadual de Desenvolvimento Econ&ocirc;mico, Fernando Bezerra Coelho (PSB). Mas fazem pol&iacute;tica em lados opostos.</p></p>
+<p><p><br /></p>
+<p>Veja abaixo.</p></p>
+<p><p>&quot;O jeito que est&aacute; o Estado&quot;, na verdade &eacute; como ele nunca esteve em nossa hist&oacute;ria. O ex-deputado parece desconhecer a nossa atual realidade, ao afirmar que as oportunidades est&atilde;o em S&atilde;o Paulo. Nos &uacute;ltimos quatro anos, o Estado de Pernambuco tem um crescimento proporcionalmente superior ao do Pa&iacute;s e do Estado de S&atilde;o Paulo.</p></p>
+<p><p>Quanto a educa&ccedil;&atilde;o, vale lembrar que os investimentos governamentais tem sido uma constante, tanto nas institui&ccedil;&otilde;es federais quanto nas estaduais. Basta conhecer hoje a UNIVASF para se ver que a concretiza&ccedil;&atilde;o das instala&ccedil;&otilde;es desta institui&ccedil;&atilde;o federal hoje &eacute; uma realidade, pois antes ela existia apenas no papel. Temos o Campi do IF Sert&atilde;o, que j&aacute; est&aacute; em funcionamento em Floresta e, em breve, tamb&eacute;m em Afogados da Ingazeira, Salgueiro e Ouricuri.</p></p>
+<p><p>Quanto as Institui&ccedil;&otilde;es estaduais, chamo a aten&ccedil;&atilde;o para os investimentos feitos na recupera&ccedil;&atilde;o de escolas estaduais e na amplia&ccedil;&atilde;o do n&uacute;mero de escolas de tempo integral, que no passado eram 13 e hoje s&atilde;o 105. Portanto, a nossa juventude come&ccedil;a a ser realmente capacitada mediante ensino de qualidade para enfrentar o mercado de trabalho.</p></p>
+<p><p>A irriga&ccedil;&atilde;o, geradora, sim, de empregos, e por isso temos que cuidar dos nossos per&iacute;metros, que, apesar de todo o investimento feito pela Codevasf, ainda requer muita aten&ccedil;&atilde;o. Neste sentido, lembramos os investimentos aplicados na recupera&ccedil;&atilde;o e pavimenta&ccedil;&atilde;o das estradas de Uru&aacute;s e do Capim.</p></p>
+<p><p>Vale lembrar que a Codevasf investe n&atilde;o somente na &aacute;rea da irriga&ccedil;&atilde;o, mas, tamb&eacute;m no saneamento das cidades da bacia hidrogr&aacute;fica do rio S&atilde;o Francisco, bem como na implanta&ccedil;&atilde;o de adutoras para levar &aacute;gua a quem tem sede.</p></p>
+<p><p>Gostaria de citar alguns projetos em pleno andamento, os quais geram milhares de empregos e est&atilde;o mudando a face do nosso sert&atilde;o, por exemplo, as obras da Ferrovia Transnordestina; da Transposi&ccedil;&atilde;o do rio S&atilde;o Francisco e da adutora do Paje&uacute;. Al&eacute;m destes, temos tamb&eacute;m o Programa Chap&eacute;u de Palha que atende oito mil fam&iacute;lias de trabalhadores rurais da fruticultura irrigada do Vale do S&atilde;o Francisco, que proporciona aos trabalhadores no per&iacute;odo da entressafra, al&eacute;m da remunera&ccedil;&atilde;o e de benef&iacute;cios, tamb&eacute;m a oportunidade de alfabetiza&ccedil;&atilde;o e refor&ccedil;o escolar para jovens e adultos, curso de capacita&ccedil;&atilde;o para mulheres, entre outras atividades.</p></p>
+<p><p>Temos ainda o not&aacute;vel Programa MINHA CASA, MINHA VIDA, grande iniciativa do governo Federal em parceira com o Governo do Estado e os munic&iacute;pios, e que prev&ecirc; no Estado a constru&ccedil;&atilde;o de 44.706 novas moradias para fam&iacute;lias com renda de zero a dez sal&aacute;rios m&iacute;nimos. Em Pernambuco j&aacute; s&atilde;o quase 200 mil inscri&ccedil;&otilde;es, o que demonstra o alcance e o interesse do programa, que dever&aacute; ser incrementado ainda mais nos pr&oacute;ximos anos, visando diminuir sensivelmente com o d&eacute;ficit de moradias em nosso Estado.</p></p>
+<p><p>Portanto, Pernambuco e o Sert&atilde;o, a despeito das dificuldades e do muito a ser ainda feito, se encontram em um &uacute;ltimo momento, tendo a perspectiva, de que, daqui pra melhor porque o trabalho desenvolvido pelo governo do Estado, com o firme apoio do governo Federal, certamente ter&aacute; continuidade e amplia&ccedil;&atilde;o nos pr&oacute;ximos anos.</p></p>
+<p><p>&Eacute; importante reconhecer e louvar o trabalho realizado por significativas figuras p&uacute;blicas que contribu&iacute;ram com esfor&ccedil;o e dedica&ccedil;&atilde;o para a constru&ccedil;&atilde;o de nossa querida Petrolina e dos demais munic&iacute;pios da regi&atilde;o. Mas &eacute; ineg&aacute;vel que a nova gera&ccedil;&atilde;o continua na luta para renovar e ampliar os ideais do nosso povo seja do ponto de vista da democracia seja na concretiza&ccedil;&atilde;o de pol&iacute;ticas sociais que garantam mais desenvolvimento com justi&ccedil;a social e qualidade de vida a nossa gente.</p> </p>
+{% endraw %}

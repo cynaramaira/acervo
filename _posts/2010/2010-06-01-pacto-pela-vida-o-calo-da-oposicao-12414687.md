@@ -1,0 +1,23 @@
+---
+id: 12414687
+date: "2010-06-01T18:40:00Z"
+last_modified_at: null
+tags:
+  - "calor"
+  - "oposicao"
+  - "pacto-pela-vida"
+categories:
+  - "noticias"
+title: "Pacto pela vida, o calo da oposi\u00e7\u00e3o "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>A diminui&ccedil;&atilde;o da viol&ecirc;ncia em Pernambuco &eacute; inquestion&aacute;vel. Na sexta presta&ccedil;&atilde;o de contas do Pacto pela Vida aos deputados estaduais, os secret&aacute;rios ligados ao principal programa do Governo do Estado apresentaram os &iacute;ndice de queda da viol&ecirc;ncia. Em tr&ecirc;s anos e meio, houve redu&ccedil;&atilde;o de 22% no n&uacute;mero de homic&iacute;dios em Pernambuco. Na Regi&atilde;o Metropolitana, 30,67% e, no Recife, 37%. Pernambuco voltou ao patamar de homic&iacute;dios de treze anos atr&aacute;s. Nesta ter&ccedil;a-feira (1&ordm; de junho), o secret&aacute;rio de Planejamento, Geraldo J&uacute;lio, gestor do Pacto pela Vida, mostrou que, em todas as cidades com mais de cem mil habitantes, houve redu&ccedil;&atilde;o da viol&ecirc;ncia. &quot;Hoje as pessoas se sentem mais seguras&quot;, destacou o secret&aacute;rio. Com rela&ccedil;&atilde;o aos cinco primeiros meses de 2010, houve uma redu&ccedil;&atilde;o importante comparado ao mesmo per&iacute;odo de 2009. Em Pernambuco, os assassinatos ca&iacute;ram 14%; na RMR, 18% e, no Recife, 27,5%.</p></p>
+<p><p>&Eacute; claro que os n&uacute;meros s&atilde;o importantes, como observou, inclusive, o deputado estadual da oposi&ccedil;&atilde;o Pedro Eurico (PSDB). No entanto a diminui&ccedil;&atilde;o da viol&ecirc;ncia n&atilde;o est&aacute; diretamente ligada &agrave; sensa&ccedil;&atilde;o de seguran&ccedil;a, principalmente na classe m&eacute;dia. Ningu&eacute;m, no Recife, se sente tranquilo ao andar pelas ruas da cidade. Se compararmos Pernambuco com S&atilde;o Paulo, por exemplo, observamos que ainda h&aacute; um longo caminho no enfrentamento da viol&ecirc;ncia. Naquelo Estado, s&atilde;o 12 homic&iacute;dios para cada cem mil habitantes. Aqui, ainda s&atilde;o 43. Ou seja, o n&uacute;mero &eacute; quase quatro vezes maior.</p></p>
+<p><p>&quot;Fora o estafe de governo que est&aacute; aqui, quem se sente seguro&#63; Quem est&aacute; satisfeito&#63; As &uacute;ltimas not&iacute;cias de bala perdida, rebeli&otilde;es nos pres&iacute;dios e na Funase, desrespeito no IML, assalto na sa&iacute;da do banco... Ningu&eacute;m tem a sensa&ccedil;&atilde;o de seguran&ccedil;a&quot;, criticou deputado estadual Augusto Coutinho (DEM). Com rela&ccedil;&atilde;o aos n&uacute;meros, o deputado questionou apenas o investimento prometido pelo Pacto pela Vida no enfrentamento da viol&ecirc;ncia contra a mulher. &quot;No projeto, havia a previs&atilde;o de construir dez delegacias para as mulheres e, agora, faltando menos de um semestre para o fim do governo, sete ainda est&atilde;o sem previs&atilde;o de entrega&quot;.</p></p>
+<p><p>Na apresenta&ccedil;&atilde;o de hoje, uma decis&atilde;o ficou clara. Para enfrentar o problema da viol&ecirc;ncia, &eacute; preciso, antes de tudo, encarar o problema das drogas, refor&ccedil;ando o an&uacute;ncio feito na semana passada pelo governo, com um plano de a&ccedil;&otilde;es sociais integradas de enfrentamento ao crack. Nem o Pacto pela Vida nem o Programa Vida Nova, dois eixos de atua&ccedil;&atilde;o oficiais, tinham at&eacute; ent&atilde;o qualquer refer&ecirc;ncia espec&iacute;fica contra a droga. Este ano, o or&ccedil;amento foi quadruplicado, passando de R$ 4 milh&otilde;es para R$ 15 milh&otilde;es. Ser&atilde;o criados abrigos exclusivos para dependentes e o n&uacute;mero de leitos para tratamento saltar&aacute; de 260 para 3.400. O secret&aacute;rio-executivo de Assist&ecirc;ncia Social, Ac&aacute;cio de Carvalho, voltou a garantir que, em trinta dias, ser&atilde;o abertas as primeiras novas vagas para internamento.</p></p>
+<p><p>&quot;Esses n&uacute;meros nos bastam&#63; Os &iacute;ndices provam que foi uma decis&atilde;o pol&iacute;tica acertada, mas que tamb&eacute;m tem seus equ&iacute;vocos&quot;, afirmou Pedro Eurico. A &quot;reuni&atilde;o de governo&quot;, realizada na Assembleia Legislativa de Pernambuco nesta ter&ccedil;a, como afirmou o deputado Augusto Coutinho, levanta uma quest&atilde;o. Qual ser&aacute; a estrat&eacute;gia da oposi&ccedil;&atilde;o para combater os &iacute;ndices do Pacto pela Vida nas elei&ccedil;&otilde;es&#63;</p> </p>
+{% endraw %}

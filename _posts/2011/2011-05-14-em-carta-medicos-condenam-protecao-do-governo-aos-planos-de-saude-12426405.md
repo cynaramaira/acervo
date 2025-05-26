@@ -1,0 +1,33 @@
+---
+id: 12426405
+date: "2011-05-14T15:50:00Z"
+last_modified_at: null
+tags:
+  - "carta"
+  - "governo"
+  - "medicos"
+  - "planos"
+  - "protecao"
+categories:
+  - "noticias"
+title: "Em carta, m\u00e9dicos condenam prote\u00e7\u00e3o do governo aos planos de sa\u00fade"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Carta aberta aos m&eacute;dicos e a popula&ccedil;&atilde;o de Pernambuco</p></p>
+<p><p>Nunca antes na hist&oacute;ria deste Pa&iacute;s viu-se tamanha trucul&ecirc;ncia e empenho na defesa dos interesses dos planos de sa&uacute;de como a demonstrada pela SDE (Secretaria de Direito Econ&ocirc;mico) do Minist&eacute;rio da Justi&ccedil;a na sua nota t&eacute;cnica recomendando ao Cade (Conselho Administrativo de Defesa Econ&ocirc;mica) a condena&ccedil;&atilde;o do Conselho Federal de Medicina (CFM), da Federa&ccedil;&atilde;o Nacional dos M&eacute;dicos (Fenam) e da Associa&ccedil;&atilde;o M&eacute;dica Brasileira (AMB) por influenciarem os profissionais a adotar uma tabela de pre&ccedil;os, o que, segundo a SDE, desencadeou um movimento nacional de paralisa&ccedil;&otilde;es e descredenciamentos em massa para for&ccedil;ar o reajuste de honor&aacute;rios. Al&eacute;m de instaurar processo contras as tr&ecirc;s entidades nacionais dos m&eacute;dicos a SDE adotou medida preventiva proibindo boicotes a planos de sa&uacute;de e determina que o CFM, a AMB e a Fenam est&atilde;o proibidos de coordenarem movimentos de descredenciamento em massa dos m&eacute;dicos. Sem d&uacute;vida houve um retrocesso nas liberdades constitucionais no que diz respeito aos m&eacute;dicos em escolher para quem querem trabalhar. Nem nos anos mais duros da ditadura houve tamanha interfer&ecirc;ncia na luta de uma categoria de trabalhadores por melhores condi&ccedil;&otilde;es de trabalho e uma vida digna.<br /></p>
+<p>&nbsp;<br /></p>
+<p>Os m&eacute;dicos brasileiros assoberbados por uma carga hor&aacute;ria estafante, subsidiam a sa&uacute;de suplementar e a sa&uacute;de p&uacute;blica, haja vista os valores insignificantes repassados pelo SUS e os honor&aacute;rios irris&oacute;rios pagos pela sa&uacute;de suplementar, particularmente pela Medicina de Grupo aqui representada pela Amil, Medial, Sa&uacute;de Excelsior, Hapvida, Ideal Sa&uacute;de entre outros. O instrumento de negocia&ccedil;&atilde;o da categoria, a Classifica&ccedil;&atilde;o Hierarquizada de Procedimentos M&eacute;dicos - CBHPM, reconhecida at&eacute; pela Justi&ccedil;a Federal, continua sendo o referencial &eacute;tico para cobran&ccedil;a dos honor&aacute;rios. Proibir os m&eacute;dicos por n&atilde;o aceitar o regime de verdadeira escravid&atilde;o imposto por alguns planos de sa&uacute;de &eacute;, no m&iacute;nimo, compactuar com os interesses daqueles que exploram de maneira vil os que prestam inestim&aacute;veis servi&ccedil;os a sociedade.<br /></p>
+<p>&nbsp;<br /></p>
+<p>Recentemente em artigo de uma revista de grande circula&ccedil;&atilde;o nacional o bilion&aacute;rio da sa&uacute;de, dono da Amil - Edson de Godoy Bueno -&nbsp; que se autodenomina de &ldquo;tubar&atilde;o&rdquo; deixa clara a inten&ccedil;&atilde;o de viabilizar as suas empresas a custa do sacrif&iacute;cio de velhinhos, velhinhas, doentes cr&ocirc;nicos e de alto custo que durante longos e penosos anos honraram as pesadas presta&ccedil;&atilde;o do seu plano de sa&uacute;de. Nas palavras do executivo: &ldquo;At&eacute; agora foram economizados cerca de 150 milh&otilde;es de reais em medidas de sinergias entre as duas companhias. A medida mais dr&aacute;stica foi a limpeza da base de clientes n&atilde;o rent&aacute;veis, em que 200.000 deles foram exclu&iacute;dos da carteira da Amil. &ldquo;E, pedagogicamente, refor&ccedil;a: &ldquo;era gente pra encher dois maracan&atilde;s!&rdquo; Arrematando: &ldquo;Foi um corte dram&aacute;tico, mas que precisava ser feito de uma s&oacute; vez.&rdquo; A reportagem termina com a frase: &ldquo;Na constru&ccedil;&atilde;o de uma empresa desse tamanho nem tudo se resolve com um beijo na testa.&rdquo; Pois muito bem, quem &eacute; que est&aacute; lucrando com a explora&ccedil;&atilde;o do segmento sa&uacute;de&#63; Certamente n&atilde;o s&atilde;o os m&eacute;dicos.<br /></p>
+<p>&nbsp;<br /></p>
+<p>Na verdade, gra&ccedil;as ao trabalho desses abnegados profissionais &eacute; que a sa&uacute;de p&uacute;blica e privada conseguem atingir metas que surpreendem pelos n&uacute;meros: 11 milh&otilde;es de interna&ccedil;&otilde;es, 300 milh&otilde;es de consultas, 15 mil transplantes - isso no &acirc;mbito do SUS - bem como no atendimento aos cerca de 45 milh&otilde;es de usu&aacute;rios na sa&uacute;de suplementar. Est&aacute; mais do que cristalino que subsidiamos a sa&uacute;de quando nos contentamos com migalhas pelo nosso valioso trabalho. Sangue, suor e&nbsp; l&aacute;grimas &eacute; s&oacute; o que esse profissionais muitas vezes t&ecirc;m a oferecer aos seus pacientes. Na grande maioria das vezes, particularmente no interior, os m&eacute;dicos se v&ecirc;em obrigados a trabalhar em v&aacute;rios locais, cumprindo jornadas sobre-humanas em plant&otilde;es sem nenhuma infra-estrutura de apoio, enfrentando situa&ccedil;&otilde;es nas quais a pr&oacute;pria sa&uacute;de se acha em risco - quando n&atilde;o a pr&oacute;pria vida - no af&atilde; de poder manter com dignidade as suas fam&iacute;lias. J&aacute; est&aacute; virando rotina a criminaliza&ccedil;&atilde;o do m&eacute;dico em eventos nos quais esse profissional &eacute; o principal ator.<br /></p>
+<p>&nbsp;<br /></p>
+<p>&nbsp;<br /></p>
+<p>Como se tudo fosse de sua responsabilidade. Do descaso do poder p&uacute;blico para com as emerg&ecirc;ncias a falta de vagas nas UTIs, do sucateamento de instrumental nas salas de&nbsp; cirurgia a inexist&ecirc;ncia de medicamentos nas enfermarias, das escalas de plant&otilde;es desfalcadas ao prec&aacute;rio atendimento nas salas de parto, tudo &eacute; creditado ao coitado do doutor. Como se n&atilde;o bastasse agora vem a SDE, o Cade e o Minist&eacute;rio da Sa&uacute;de cobrar do m&eacute;dico n&atilde;o se rebelar contra o status quo. Ora, tenham paci&ecirc;ncia! Chega! Vamos falar sim, gritar se preciso for! Aqui n&atilde;o cabe tibieza de car&aacute;ter, n&atilde;o vamos nos intimidar com medidas draconianas nem com tentativas de nos privar do Direito Constitucional de podermos trabalhar onde e para quem quisermos. Basta!<br /></p>
+<p>&nbsp;<br /></p>
+<p>Mario Fernando Lins &eacute; presidente da Comiss&atilde;o Estadual de Honor&aacute;rios M&eacute;dicos e diretor do Sindicato dos M&eacute;dicos de Pernambuco.</p> </p>
+{% endraw %}

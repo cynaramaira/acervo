@@ -1,0 +1,35 @@
+---
+id: 12467523
+date: "2013-12-27T10:49:00Z"
+last_modified_at: null
+tags:
+  - "desafios-urbanos"
+categories:
+  - "colunistas"
+title: "Desafios e conquistas da advocacia"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;"></p>
+<p>	Por Pedro Henrique Reynaldo Alves, Presidente da OAB-PE<br /></p>
+<p>	<br /></p>
+<p>	O ano de 2013, para n&oacute;s que fazemos a OAB-PE, foi marcado por muitos desafios mas tamb&eacute;m por importantes conquistas em nossos diversos campos de atua&ccedil;&atilde;o.<br /></p>
+<p>	<br /></p>
+<p>	O papel regulat&oacute;rio exercido por nossa institui&ccedil;&atilde;o no mercado da advocacia vem impondo um esfor&ccedil;o crescente na conten&ccedil;&atilde;o e persecu&ccedil;&atilde;o de desvios &eacute;ticos, que maculam a imagem do advogado na sociedade, perpetrados por maus profissionais que desonram seus mandatos, fazem publicidade irregular de seus servi&ccedil;os ou mesmo lesam seus clientes. A amplia&ccedil;&atilde;o e moderniza&ccedil;&atilde;o do nosso Tribunal de &Eacute;tica e Disciplina (TED), assim como a regulamenta&ccedil;&atilde;o estadual das limita&ccedil;&otilde;es de propaganda da advocacia, pelo Conselho da OAB-PE, foram importantes passos para o enfrentamento dessas quest&otilde;es.<br /></p>
+<p>	<br /></p>
+<p>	No campo corporativo, a defesa e o fortalecimento de nossa profiss&atilde;o passou por um di&aacute;logo franco e respeitoso com as demais institui&ccedil;&otilde;es e poderes da rep&uacute;blica, pelo qual obtivemos alguns avan&ccedil;os legislativos (concep&ccedil;&atilde;o e proposta do Projeto de Lei do C&oacute;digo de Procedimentos na Assembleia Legislativa de Pernambuco (Alepe); aprova&ccedil;&atilde;o em uma das casas legislativas do novo CPC, do PL do regime Simples de tributa&ccedil;&atilde;o da advocacia, PL dos honor&aacute;rios na Justi&ccedil;a do Trabalho (todos em tramita&ccedil;&atilde;o no Congresso Nacional), melhorias no &acirc;mbito do Judici&aacute;rio (protocolo integrado entre as Comarcas, atendimento de pleitos para designa&ccedil;&atilde;o de ju&iacute;zes e/ou constru&ccedil;&atilde;o de f&oacute;runs em determinadas cidades). E, tamb&eacute;m, como fruto de uma salutar parceria, obtivemos do Governo do Estado a doa&ccedil;&atilde;o de um amplo e hist&oacute;rico pr&eacute;dio, na Rua do Imperador (antiga sede do Jornal do Commercio), que ir&aacute; dar lugar a nossa nova sede da OAB-PE.<br /></p>
+<p>	<br /></p>
+<p>	Contudo, a boa rela&ccedil;&atilde;o institucional de nossa Ordem n&atilde;o a impediu &ndash; e nem poderia &ndash; de adotar medidas firmes em defesa da classe e da sociedade, como nos casos do impedimento da redu&ccedil;&atilde;o do expediente forense no &acirc;mbito da Justi&ccedil;a Estadual, assegurado junto ao Supremo Tribunal Federal (STF), da garantia aos direitos dos advogados obterem &quot;carga r&aacute;pida&quot; de processos em qualquer hora e independentemente da companhia de serventu&aacute;rio da justi&ccedil;a e de adentrarem livremente nas serventias judiciais, obtidos por meio de representa&ccedil;&otilde;es da OAB-PE perante o Conselho Nacional de Justi&ccedil;a (CNJ), que nos atendeu, ainda, na melhor regulamenta&ccedil;&atilde;o do Processo Judicial Eletr&ocirc;nico (PJe).<br /></p>
+<p>	<br /></p>
+<p>	A assist&ecirc;ncia aos advogados tamb&eacute;m foi alvo de forte atua&ccedil;&atilde;o de nossa Ordem, atrav&eacute;s da Escola Superior da Advocacia (ESA-PE) &ndash; com seus diversos cursos de p&oacute;s-gradua&ccedil;&atilde;o e aprimoramento profissional, palestras e semin&aacute;rios &ndash; e da Caixa de Assist&ecirc;ncia dos Advogados de Pernambucano (CAAPE) &ndash; com servi&ccedil;os m&eacute;dicos, conv&ecirc;nios com vantagens para compras coletivas e at&eacute; um revolucion&aacute;rio plano odontol&oacute;gico a um custo simb&oacute;lico de R$ 30,00 ao ano (R$ 2,50 ao m&ecirc;s).<br /></p>
+<p>	<br /></p>
+<p>	J&aacute; na defesa da cidadania e da Constitui&ccedil;&atilde;o, atuamos em prol de uma profunda reforma pol&iacute;tica, que venha a restaurar o elo de legitimidade e confian&ccedil;a da sociedade em seus representantes no poder p&uacute;blico. Tal campanha, inclusive, motivou o ajuizamento de ADIN, perante o STF, contra o financiamento das campanhas eleitorais pelas empresas, que j&aacute; conta com maioria de votos favor&aacute;veis e trar&aacute; um hist&oacute;rico avan&ccedil;o de nossa na&ccedil;&atilde;o no campo da moralidade na pol&iacute;tica. Tamb&eacute;m foram objeto de medidas judiciais da OAB, o excesso de cargos comissionados no legislativo estadual (em tramita&ccedil;&atilde;o no STF), e o parcelamento das d&iacute;vidas inscritas em precat&oacute;rio &ndash; &quot;PEC do calote&quot; &ndash;, ADIN j&aacute; julgada procedente pelo STF, pendente da lavratura do respectivo ac&oacute;rd&atilde;o, onde haver&aacute; modula&ccedil;&atilde;o de seus efeitos.<br /></p>
+<p>	<br /></p>
+<p>	Mas eu creio que uma das maiores conquistas alcan&ccedil;adas pela OAB-PE neste 2013, que certamente passou desapercebida pelos colegas advogados(as), foi o equil&iacute;brio das contas e alcance de um almejado super&aacute;vit fiscal, sem precedente na hist&oacute;ria de nossa institui&ccedil;&atilde;o, que sempre conviveu com preocupantes n&iacute;veis de endividamento e de depend&ecirc;ncia de aux&iacute;lio financeiro do Conselho Federal. Essa conquista foi fruto de um acentuado corte ou redu&ccedil;&atilde;o de despesas de custeio, que passou pela extin&ccedil;&atilde;o de alguns poucos servi&ccedil;os assistenciais que atendiam um diminuto percentual de advogados, juntamente com um ousado programa de inclus&atilde;o dos advogados em mora com a Ordem &ndash; &quot;Advogado Legal&quot; &ndash;, que reduziu a inadimpl&ecirc;ncia de nossas anuidades para o menor patamar dos &uacute;ltimos 20 anos (26%).<br /></p>
+<p>	<br /></p>
+<p>	O equil&iacute;brio fiscal de nossa OAB-PE &eacute; uma conquista de todos os advogados e advogadas de Pernambuco, que passam a ser representados por uma institui&ccedil;&atilde;o mais forte e independente, o que devemos lutar para que seja preservado. A redu&ccedil;&atilde;o do estoque de anuidades em atraso, que v&ecirc;m sendo executadas judicialmente, exigir&aacute; de nossos associados um maior desfor&ccedil;o em 2014, para que possamos preservar nosso super&aacute;vit, regularizar conting&ecirc;ncias passivas pret&eacute;ritas (d&iacute;vidas fiscais e trabalhistas) e ainda ampliar nossas a&ccedil;&otilde;es e servi&ccedil;os em favor da advocacia e da sociedade. Aproveito o ensejo para confraternizar, desejando que o ano de 2014 nos traga mais realiza&ccedil;&otilde;es e prosperidade, restaurando nossas for&ccedil;as para luta, e ao menos tempo renovando nossa esperan&ccedil;a, por um mundo melhor.</p></p>
+<p></p>
+{% endraw %}

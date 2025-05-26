@@ -1,0 +1,37 @@
+---
+id: 12432649
+date: "2011-11-25T09:16:00Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "noticias"
+title: "Rep\u00fablica: de volta para o futuro"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p>Por Jos&eacute; Serra, em seu <a href="https://www.joseserra.com.br/" target="_blank">blog</a><br /></p>
+<p><br /></p>
+<p>A proclama&ccedil;&atilde;o da Rep&uacute;blica, comemorada na semana passada, foi a culmin&acirc;ncia de um processo de grandes mudan&ccedil;as no Brasil do s&eacute;culo 19. Basta lembrar o fim do tr&aacute;fico de escravos, as primeiras tentativas de utiliza&ccedil;&atilde;o da m&atilde;o-de-obra livre, a expans&atilde;o da economia cafeeira, o crescimento da popula&ccedil;&atilde;o urbana e as campanhas abolicionistas.<br /></p>
+<p><br /></p>
+<p>Na esfera pol&iacute;tica, o republicanismo rompeu o imobilismo institucional do Imp&eacute;rio. &Eacute; preciso reconhecer que a forma&ccedil;&atilde;o do Estado mon&aacute;rquico teve um papel din&acirc;mico do ponto de vista da forma&ccedil;&atilde;o do pa&iacute;s. Permitiu a manuten&ccedil;&atilde;o da integridade territorial, estruturou a m&aacute;quina do Estado e lan&ccedil;ou os fundamentos da organiza&ccedil;&atilde;o nacional. N&atilde;o foram tarefas f&aacute;ceis. Algumas delas levaram at&eacute; a guerras com os pa&iacute;ses platinos. O Imp&eacute;rio, no entanto, mostrou-se pouco virtuoso no que diz respeito ao desenvolvimento econ&ocirc;mico: foi anti-industrializante, criou barreiras &agrave; forma&ccedil;&atilde;o de um sistema de m&eacute;dia e pequena propriedades no campo e foi t&iacute;mido na moderniza&ccedil;&atilde;o da infraestrutura.<br /></p>
+<p><br /></p>
+<p>As bases do subdesenvolvimento brasileiro nos s&eacute;culos 20 e 21 se encontram no 19, ao qual chegamos com uma economia que se equiparava &agrave; dos EUA. Entre 1800 e 1913, no entanto, o PIB por habitante do Brasil estagnou. A economia americana, cujo PIB era pr&oacute;ximo ao brasileiro por volta de 1800, aumentou seis vezes no mesmo per&iacute;odo. Nossa grande regress&atilde;o ocorreu durante o Imp&eacute;rio. A partir do fim do s&eacute;culo 19, come&ccedil;amos a crescer mais rapidamente. E, desde esse tempo at&eacute; 1980, a economia brasileira foi a que mais se expandiu no mundo. Mesmo descontando o crescimento populacional, continuamos na linha de frente, s&oacute; perdendo para o Jap&atilde;o. Bons tempos, ao menos no dinamismo econ&ocirc;mico.<br /></p>
+<p><br /></p>
+<p>Do ponto de vista da economia, a estrutura mon&aacute;rquica n&atilde;o conseguiu dar conta nem mesmo dos desafios oriundos do impulso gerado, em grande parte, pela atividade cafeeira. Foram o republicanismo e uma nova gera&ccedil;&atilde;o pol&iacute;tica a encarar esses desafios. Desde os anos 1880 &ndash; o manifesto republicano &eacute; de dezembro de 1870&ndash;, o movimento foi crescendo, em parte ligado &agrave; causa abolicionista. Nas duas faculdades de Direito do pa&iacute;s &ndash; Recife e S&atilde;o Paulo &ndash;, a tese republicana dominava cora&ccedil;&otilde;es e mentes dos estudantes. Na literatura e no jornalismo, a batalha era travada sempre tendo como principal refer&ecirc;ncia a Terceira Rep&uacute;blica francesa. A influ&ecirc;ncia chegava at&eacute; os s&iacute;mbolos republicanos: a figura da Mariana, a Marselhesa, a bandeira tricolor, o barrete fr&iacute;gio. E, grande coincid&ecirc;ncia, a Rep&uacute;blica foi proclamada justamente no primeiro centen&aacute;rio da Revolu&ccedil;&atilde;o Francesa.<br /></p>
+<p><br /></p>
+<p>O novo regime, surgido em 1889, reorganizou profundamente a estrutura do Estado. O federalismo, mesmo de cima para baixo, deu outra cara ao pa&iacute;s. A Constitui&ccedil;&atilde;o de 1891 foi um avan&ccedil;o. Separou a Igreja do Estado, eliminou o Poder Moderador, criou o Supremo Tribunal Federal, entre outras medidas. Melhorou em muito a gest&atilde;o p&uacute;blica, apesar da forte presen&ccedil;a do poder local, dos coron&eacute;is &mdash; um obst&aacute;culo &agrave; plena constitui&ccedil;&atilde;o da democracia entre n&oacute;s. O Brasil foi, apesar dos percal&ccedil;os, o &uacute;nico pa&iacute;s da Am&eacute;rica do Sul com elei&ccedil;&otilde;es regulares presidenciais a cada quatro anos, entre 1894 a 1930. Se, como &eacute; sabido, ocorriam fraudes, a mera exist&ecirc;ncia de um processo eleitoral permitia a discuss&atilde;o dos grandes problemas nacionais. E foi justamente uma delas &ndash; a de 1930 &ndash; que ocorreu uma ruptura do sistema que levou &agrave; forma&ccedil;&atilde;o do moderno Estado brasileiro.<br /></p>
+<p><br /></p>
+<p>Esses tempos ecoam na hist&oacute;ria presente do pa&iacute;s. Dos oitenta anos p&oacute;s-Rep&uacute;blica Velha, foram quase trinta de autoritarismo. Parte dos problemas que temos hoje &eacute; reflexo da p&eacute;rfida rela&ccedil;&atilde;o sociedade civil-Estado que herdamos. O fortalecimento crescente do aparelho estatal foi mantendo ou empurrando a sociedade civil para fora da arena pol&iacute;tica. O Estado ocupou sozinho a esfera p&uacute;blica. Quem nele est&aacute; tudo pode. Contudo, quem est&aacute; fora passou a ser tratado, primeiro, como alien&iacute;gena; depois, como advers&aacute;rio e, dentro desta l&oacute;gica perversa, como algu&eacute;m a ser destru&iacute;do &ndash; como foi o figurino do &uacute;ltimo dec&ecirc;nio.<br /></p>
+<p><br /></p>
+<p>O regime republicano teve enorme dificuldade de conciliar crescimento econ&ocirc;mico e a manuten&ccedil;&atilde;o das liberdades fundamentais do cidad&atilde;o. E isso acabou marcando a nossa hist&oacute;ria desde 1930. S&oacute; na segunda metade dos anos 1950 e, mais especificamente, nas &uacute;ltimas duas d&eacute;cadas, &eacute; que conseguimos compatibilizar economia e pol&iacute;tica com a estabiliza&ccedil;&atilde;o advinda do Plano Real, a constru&ccedil;&atilde;o de uma rede de prote&ccedil;&atilde;o social e a defesa permanente do Estado democr&aacute;tico de direito.<br /></p>
+<p><br /></p>
+<p>Mas o esp&iacute;rito da &ldquo;res publica&rdquo;, que come&ccedil;ara a reativar-se nos anos noventa, foi desaparecendo. O sonho dos primeiros republicanos, de um governo do povo e para o povo, acabou sendo substitu&iacute;do, numa curiosa metamorfose, por um governo dos, e para os, setores organizados e simp&aacute;ticos aos poderosos do momento.<br /></p>
+<p><br /></p>
+<p>Nos anos recentes, o patrimonialismo refez-se em duas vertentes: na forma&ccedil;&atilde;o de uma burguesia do capital estatal e na ocupa&ccedil;&atilde;o pura e simples da m&aacute;quina do Estado. Ocupa&ccedil;&atilde;o voltada ao sistem&aacute;tico desvio de recursos p&uacute;blicos para partidos, pessoas e manipula&ccedil;&atilde;o eleitoral. E, desde logo, de uma inefici&ecirc;ncia wagneriana na organiza&ccedil;&atilde;o e funcionamento do servi&ccedil;o p&uacute;blico e, pior ainda, na formula&ccedil;&atilde;o e execu&ccedil;&atilde;o de um projeto de desenvolvimento nacional.<br /></p>
+<p><br /></p>
+<p>Isso significa que algumas das caracter&iacute;sticas essenciais de um regime republicano foram se perdendo ao longo do tempo, em nome de um suposto pragmatismo que mal esconde arranjos para proteger interesses patrimonialistas e corporativistas que se estabelecem ao arrepio da maioria do povo brasileiro. Precisamos recuperar o esp&iacute;rito da Rep&uacute;blica para que o Brasil possa avan&ccedil;ar. Precisamos caminhar de volta para o futuro.</p></p>
+{% endraw %}

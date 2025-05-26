@@ -1,0 +1,47 @@
+---
+id: 12413084
+date: "2010-04-19T09:33:00Z"
+last_modified_at: null
+tags:
+  - "depressao"
+  - "ficha-limpa"
+  - "ongs"
+categories:
+  - "noticias"
+title: "ONGs refor\u00e7am press\u00e3o por ficha limpa"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><img height="330" width="410" src="https://jc3.uol.com.br/blogs/repositorio/ficha limpa.JPG" alt="" /><br /></p>
+<p><br /></p>
+<p>Moacir Assun&ccedil;&atilde;o - O Estado de S.Paulo<br /></p>
+<p><br /></p>
+<p>O futuro do chamado projeto ficha limpa, em aprecia&ccedil;&atilde;o no Congresso Nacional, foi o principal assunto discutido em debate promovido pelo Estado, na sexta-feira, 16, que reuniu no sal&atilde;o nobre da empresa as sete principais Organiza&ccedil;&otilde;es N&atilde;o-Governamentais (ONGs) da &aacute;rea de fiscaliza&ccedil;&atilde;o da atividade pol&iacute;tica e o Minist&eacute;rio P&uacute;blico Federal (MPF). A import&acirc;ncia de o projeto ser votado a tempo de valer para as elei&ccedil;&otilde;es deste ano &ndash; em maio, antes das conven&ccedil;&otilde;es de junho &ndash; e de ser mantido o texto original, sem emendas que o descaracterizem, foi o principal consenso do encontro das ONGs.<br /></p>
+<p><br /></p>
+<p>Durante a discuss&atilde;o, mediada pelo jornalista Roberto Godoy, os participantes foram questionados se consideram que o Congresso vai votar o projeto e o que ocorrer&aacute; se isso n&atilde;o acontecer. As entidades pressionam os deputados para que a proposta, considerada um marco no combate pela transpar&ecirc;ncia e contra a criminaliza&ccedil;&atilde;o da pol&iacute;tica, seja aprovada logo.<br /></p>
+<p><br /></p>
+<p>Apesar de apoiado por 1,6 milh&atilde;o de eleitores de todo o Pa&iacute;s por meio de assinaturas entregues ao Congresso, o projeto n&atilde;o teve aprovado o seu pedido de urg&ecirc;ncia urgent&iacute;ssima para tramita&ccedil;&atilde;o e est&aacute; em discuss&atilde;o na Comiss&atilde;o de Constitui&ccedil;&atilde;o e Justi&ccedil;a (CCJ) at&eacute; o fim deste m&ecirc;s, sob o compromisso de que retornar&aacute; ao plen&aacute;rio em 5 de maio para vota&ccedil;&atilde;o.<br /></p>
+<p><br /></p>
+<p>Pela internet, as entidades j&aacute; est&atilde;o pressionando os parlamentares para evitar emendas que descaracterizem o texto negociado na Casa. &ldquo;Se vai ser aprovado e a tempo n&atilde;o sabemos, mas o mais importante &eacute; que a discuss&atilde;o est&aacute; posta e &eacute; irrevers&iacute;vel a mudan&ccedil;a na cultura da sociedade. A popula&ccedil;&atilde;o tem acompanhado com muito interesse este debate. Estamos criando um c&iacute;rculo virtuoso para que as pessoas de bem passem a se interessar por pol&iacute;tica&rdquo;, defendeu Jorge Donizeti Sanch&eacute;z, da Amarribo.<br /></p>
+<p><br /></p>
+<p>Luciano Santos, do Movimento de Combate &agrave; Corrup&ccedil;&atilde;o Eleitoral (MCCE), afirmou n&atilde;o ter d&uacute;vida de que o ficha limpa ser&aacute; aprovado. &ldquo;Nossa expectativa n&atilde;o &eacute; se vai passar. &Eacute; que tem que passar. N&atilde;o h&aacute; outra resposta que o Congresso possa dar a essa quest&atilde;o&rdquo;, avaliou. &ldquo;O que nos parece &eacute; que o presidente da C&acirc;mara (Michel Temer &ndash; PMDB-SP) est&aacute; efetivamente interessado na aprova&ccedil;&atilde;o. A vota&ccedil;&atilde;o em plen&aacute;rio deveria ter acontecido h&aacute; duas semanas, mas as manobras regimentais que foram feitas para atras&aacute;-lo demonstraram que h&aacute; muitos interesses contr&aacute;rios ao projeto. H&aacute; consequ&ecirc;ncias, no entanto, desse pensamento que j&aacute; chegou &agrave; sociedade. O PV baixou resolu&ccedil;&atilde;o que s&oacute; admite candidato que tenha ficha limpa. Isso demonstra que esse debate est&aacute; surtindo efeito. O PDT de Bras&iacute;lia tamb&eacute;m determinou, em meio ao esc&acirc;ndalo, que s&oacute; aceitar&aacute; postulantes a cargos p&uacute;blicos com passado sem problemas com a Justi&ccedil;a.&rdquo;<br /></p>
+<p><br /></p>
+<p>Claudio Abramo, da Transpar&ecirc;ncia Brasil, discordou dos colegas no que diz respeito &agrave; aprecia&ccedil;&atilde;o r&aacute;pida do projeto. &ldquo;N&atilde;o &eacute; totalmente tranquila assim a aprova&ccedil;&atilde;o ou que seja aplic&aacute;vel a esta elei&ccedil;&atilde;o. Surgir&atilde;o contesta&ccedil;&otilde;es que far&atilde;o refer&ecirc;ncia &agrave; lei eleitoral&rdquo;, disse. &ldquo;Fomos olhar a legisla&ccedil;&atilde;o dos pa&iacute;ses desenvolvidos para ver como &eacute; a quest&atilde;o das elei&ccedil;&otilde;es em rela&ccedil;&atilde;o a pessoas que t&ecirc;m processos e em nenhum deles h&aacute; proibi&ccedil;&atilde;o. Seria uma inova&ccedil;&atilde;o no Brasil. Aqueles que se opor&atilde;o, que s&atilde;o muitos, ir&atilde;o ao STF para contestar, com certeza&rdquo;, continou Abramo. &ldquo;O princ&iacute;pio da inoc&ecirc;ncia at&eacute; prova em contr&aacute;rio, que &eacute; o tr&acirc;nsito em julgado, vai ser aventado, com certeza, para combater a proposta.&rdquo;<br /></p>
+<p><br /></p>
+<p>Chico Whitaker, da Articula&ccedil;&atilde;o Brasileira de Combate &agrave; Corrup&ccedil;&atilde;o e &agrave; Impunidade (Abracci), contestou: &ldquo;Quero colocar em d&uacute;vida sua informa&ccedil;&atilde;o (de Abramo). Recebi dos colegas do MCCE, entre os quais juristas, promotores e ju&iacute;zes, a informa&ccedil;&atilde;o de que h&aacute; v&aacute;rios outros pa&iacute;ses com legisla&ccedil;&atilde;o muito mais dura do que o que estamos fazendo aqui. Mas a indigna&ccedil;&atilde;o do cidad&atilde;o tem crescido bastante. Nestes dias, conversei com a deputada federal Lu&iacute;za Erundina (PSB-SP), condenada em &uacute;ltima inst&acirc;ncia por assunto que n&atilde;o tem a ver com improbidade e ela me disse para ficar despreocupado, que ela pagaria o pre&ccedil;o de n&atilde;o poder participar da elei&ccedil;&atilde;o se fosse o caso. Achei isso uma enorme demonstra&ccedil;&atilde;o de &eacute;tica da parte dela.&rdquo;<br /></p>
+<p><br /></p>
+<p>O procurador eleitoral Pedro Barbosa Neto lembrou que a quest&atilde;o do ficha limpa, embora seja uma discuss&atilde;o nova na sociedade j&aacute; est&aacute; prevista na legisla&ccedil;&atilde;o. &ldquo;&Eacute; poss&iacute;vel que tenha confrontos no STF e isso faz parte. O que os senhores est&atilde;o fazendo, na verdade, &eacute; corrigir uma mora do Judici&aacute;rio. No artigo 14 inciso nono da Constitui&ccedil;&atilde;o j&aacute; se fala em vida pregressa do candidato. Este &eacute; um preceito constitucional desde 1994.&rdquo;<br /></p>
+<p><br /></p>
+<p>Barbosa Neto esclareceu, ainda, a preocupa&ccedil;&atilde;o de Abramo, da presun&ccedil;&atilde;o de inoc&ecirc;ncia, frequentemente usada pelos advers&aacute;rios do ficha limpa para tentar desqualific&aacute;-lo. &ldquo;No Brasil, de vez em quando h&aacute; a banaliza&ccedil;&atilde;o de direitos fundamentais. A presun&ccedil;&atilde;o de inoc&ecirc;ncia est&aacute; ligada ao direito penal e n&oacute;s estamos falando de legisla&ccedil;&atilde;o eleitoral. A quest&atilde;o &eacute; relacionada &agrave; precau&ccedil;&atilde;o do cidad&atilde;o&rdquo;, disse.<br /></p>
+<p><br /></p>
+<p>Para Maur&iacute;cio Broinizi, do Movimento Nossa S&atilde;o Paulo, o projeto oferece um marco pol&iacute;tico fundamental &agrave; pol&iacute;tica brasileira. &ldquo;O ficha limpa constitui um questionamento profundo dessa pol&iacute;tica que se instalou no Brasil a ponto de precisarmos que o candidato ao poder pol&iacute;tico demonstre que n&atilde;o tem curr&iacute;culo que o desabone&rdquo;, defendeu. No Pa&iacute;s, a atividade pol&iacute;tica &eacute; identificada pela juventude como tendo rela&ccedil;&atilde;o direta com a corrup&ccedil;&atilde;o, o que &eacute; muito complicado.&rdquo;<br /></p>
+<p><br /></p>
+<p>Ros&acirc;ngela Giembinsky, do Voto Consciente, disse que os parlamentares precisam lembrar-se bem de suas responsabilidades ao votar a lei. &ldquo;Nossos parlamentares est&atilde;o perdendo a oportunidade de escrever a hist&oacute;ria desse Pa&iacute;s. Eles est&atilde;o defendendo a classe corrupta, que n&atilde;o est&aacute; no Congresso, que s&atilde;o os vereadores e prefeitos que os elegeram. A sociedade est&aacute; madura para esse momento e o est&aacute; pedindo. Nossos congressistas est&atilde;o perdendo a possibilidade de passar para a hist&oacute;ria desse Pa&iacute;s.&rdquo;<br /></p>
+<p><br /></p>
+<p>Gilberto Palma, do Instituto &Aacute;gora em defesa do Eleitor e da Democracia, afirmou que espera a aprova&ccedil;&atilde;o o mais r&aacute;pido poss&iacute;vel do projeto. &ldquo;O tema da ficha limpa se constitui um marco que tem todas as caracter&iacute;sticas do antes e do depois da pol&iacute;tica brasileira, em termos de sua evolu&ccedil;&atilde;o e da democracia no Brasil.&rdquo;<br /></p>
+<p><br /></p>
+<p>Se o projeto n&atilde;o passar e, portanto, n&atilde;o valer para as elei&ccedil;&otilde;es de outubro, Santos, do MCCE, afirmou que as entidades far&atilde;o listas de candidatos que t&ecirc;m problemas com a Justi&ccedil;a para evitar que os eleitores votem neles. &ldquo;A pr&oacute;pria Abracci j&aacute; se manifestou nesse sentido&rdquo;, revelou.</p> </p>
+{% endraw %}
