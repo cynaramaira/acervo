@@ -17,12 +17,16 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1 # Configura o ambiente Ruby necessário
       with:
-        ruby-version: '3.1' # Versão do Ruby. Pode tentar '3.2' se '3.1' der problemas futuros.
-        bundler-cache: true # Instala gems e cacheia-as
-        cache-version: 2 # Adiciona esta linha para forçar a recriação do cache (resolvendo o exit code 16, se o Gemfile.lock também estiver OK)
+        ruby-version: '3.2' # Tenta Ruby 3.2 para melhor compatibilidade. Pode tentar '3.1' novamente se 3.2 falhar.
+        # Removemos bundler-cache: true para forçar a instalação do Bundler e gems do zero.
 
-    - name: Add platform to bundler lockfile # <<<<<< PASSO ADICIONADO AQUI!
-      run: bundle lock --add-platform x86_64-linux
+    - name: Install Bundler specific version
+      run: |
+        gem install bundler:2.5.9 # Instala uma versão específica do Bundler. '2.5.9' é uma versão estável recente.
+        bundle _2.5.9 install --jobs 4 --retry 3 # Usa a versão instalada para instalar as gems.
+
+    - name: Add platform to bundler lockfile
+      run: bundle lock --add-platform x86_64-linux # Continua sendo necessário para lidar com a diferença de plataformas.
 
     - name: Build Jekyll site
       run: |
