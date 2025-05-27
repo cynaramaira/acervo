@@ -8,27 +8,30 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest # O sistema operacional onde o build será executado
+    runs-on: ubuntu-latest # O sistema operacional onde o build será executado no GitHub Actions
 
     steps:
     - name: Checkout code
       uses: actions/checkout@v4 # Baixa o código do seu repositório
 
     - name: Setup Ruby
-      uses: ruby/setup-ruby@v1 # Configura o ambiente Ruby
+      uses: ruby/setup-ruby@v1 # Configura o ambiente Ruby necessário
       with:
-        ruby-version: '3.1' # Escolha uma versão de Ruby compatível (3.1 ou 3.2 são comuns)
+        ruby-version: '3.1' # Versão do Ruby. Pode tentar '3.2' se '3.1' der problemas futuros.
         bundler-cache: true # Instala gems e cacheia-as
-        cache-version: 2 # Adiciona esta linha para forçar a recriação do cache (resolvendo o exit code 16)
+        cache-version: 2 # Adiciona esta linha para forçar a recriação do cache (resolvendo o exit code 16, se o Gemfile.lock também estiver OK)
+
+    - name: Add platform to bundler lockfile # <<<<<< PASSO ADICIONADO AQUI!
+      run: bundle lock --add-platform x86_64-linux
 
     - name: Build Jekyll site
       run: |
-        bundle exec jekyll build --trace # Roda o build do Jekyll. --trace para mais detalhes em caso de erro
-      env: # Define variáveis de ambiente para o build, se necessário (ex: para jekyll-github-metadata)
-        JEKYLL_ENV: production
+        bundle exec jekyll build --trace # Roda o build do Jekyll. --trace para mais detalhes em caso de erro.
+      env: # Define variáveis de ambiente para o build, se necessário.
+        JEKYLL_ENV: production # Define o ambiente para produção.
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3 # Ação que faz o deploy para o GitHub Pages
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./_site # A pasta onde o Jekyll gera o site
+        github_token: ${{ secrets.GITHUB_TOKEN }} # Token fornecido pelo GitHub automaticamente.
+        publish_dir: ./_site # A pasta onde o Jekyll gera o site HTML.
