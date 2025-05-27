@@ -1,0 +1,33 @@
+name: Build and Deploy Jekyll Site
+
+on:
+  push:
+    branches:
+      - main # MUITO IMPORTANTE: Verifique se 'main' é a branch principal do seu repositório. Se for 'master', mude aqui.
+  workflow_dispatch: # Permite que você acione o workflow manualmente pela interface do GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest # O sistema operacional onde o build será executado
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4 # Baixa o código do seu repositório
+
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1 # Configura o ambiente Ruby
+      with:
+        ruby-version: '3.1' # Escolha uma versão de Ruby compatível (3.1 ou 3.2 são comuns)
+        bundler-cache: true # Instala gems e cacheia-as
+
+    - name: Build Jekyll site
+      run: |
+        bundle exec jekyll build --trace # Roda o build do Jekyll. --trace para mais detalhes em caso de erro
+      env: # Define variáveis de ambiente para o build, se necessário (ex: para jekyll-github-metadata)
+        JEKYLL_ENV: production
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3 # Ação que faz o deploy para o GitHub Pages
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_site # A pasta onde o Jekyll gera o site
