@@ -19,6 +19,7 @@ jobs:
       with:
         ruby-version: '3.1' # Escolha uma versão de Ruby compatível (3.1 ou 3.2 são comuns)
         bundler-cache: true # Instala gems e cacheia-as
+        cache-version: 2 # Adiciona esta linha para forçar a recriação do cache (resolvendo o exit code 16)
 
     - name: Build Jekyll site
       run: |
