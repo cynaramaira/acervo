@@ -1,0 +1,31 @@
+---
+id: 12469880
+date: "2014-01-23T18:57:59Z"
+last_modified_at: null
+tags:
+  - "boa-noticia"
+  - "compesa"
+  - "metropolitana"
+  - "recife"
+  - "regiao"
+categories:
+  - "noticias"
+title: "Boa not\u00edcia. Avan\u00e7a a PPP da Compesa na Regi\u00e3o Metropolitana do Recife"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/01/FKC0379.jpg"
+---
+{% raw %}
+<p>Após cinco meses de obras e um investimento de R$ 1 milhão em reforma e adequação, a Compesa inaugurou, hoje (23), o Laboratório Central de Controle de Qualidade de Efluentes de Esgoto, o mais moderno da companhia. O equipamento, localizado na Estação de Tratamento de Esgoto (ETE) Peixinhos, no Recife, é responsável pela análise da qualidade de todo o esgoto que é coletado e tratado nas cidades da Região Metropolitana do Recife onde existe rede operada pela Compesa.</p>
+<p>O ato contou com a presença do secretário de Infraestrutura, João Bosco de Almeida, e dos presidentes da Compesa, Roberto Tavares, e da Foz, Pedro Leão, empresa parceira da companhia no programa Cidade Saneada. Na ocasião, também foi inaugurada uma unidade móvel do laboratório, que fará coletas e análises em campo dos efluentes de esgoto e ainda auxiliará nas ações de educação ambiental promovidas pela Compesa nas escolas.</p>
+<p>Na concepção do secretário de Infraestrutura, João Bosco de Almeida, a modernização do laboratório é uma grande contribuição para o projeto de universalização dos serviços de esgoto nas 15 cidades que serão atendidas pelo Cidade Saneada (as 14 da RMR e Goiana, na Mata Norte). Ao longo dos 12 anos do programa, quando esses municípios atingirem 90% de esgotos coletados, sendo 100% deles tratados, todos passarão a ser atendidos pelo laboratório.</p>
+<p>“O tratamento adequado do esgoto garante a qualidade do efluente que é devolvido ao meio ambiente, tornando os rios mais saudáveis e oferecendo mais qualidade de vida à população”, ressaltou o secretário. Segundo ele, além de garantir o monitoramento da qualidade do esgoto tratado nas unidades, o laboratório vai aferir o desempenho do prestador de serviços, tornando-se, inclusive, parâmetro para a aplicação de multas contratuais. “Se a qualidade do tratamento final do esgoto estiver satisfatória, indicará que o prestador está trabalhando bem, ou seja, o laboratório acabará sendo um fiscal da empresa”, explicou João Bosco.</p>
+<p>O presidente da Compesa, Roberto Tavares, explicou que a ETE Peixinhos, sede do laboratório, trata esgotos de 13 bairros da Zona Norte do Recife e de sete de Olinda. “Todo o esgoto tratado nesta unidade está sendo lançado no Rio Beberibe com uma qualidade bem superior a do próprio manancial”, enfatizou.</p>
+<p>O presidente da estatal também aproveitou a inauguração do laboratório para fazer um balanço dos seis primeiros meses do Programa Cidade Saneada.</p>
+<p>De acordo com Tavares, foram limpos 183,6 quilômetros de redes coletoras e realizadas 63 obras de recuperação de rede. Essas ações atingiram 286 ruas. Também nesse período, foram recuperadas 49 unidades do sistema e realizados 18.518 serviços de manutenção. Os poços de visita (por onde o operador realiza o serviço de manutenção) também receberam atenção especial do programa. Foram trocadas 626 tampas e realizados 1.331 serviços de desobstrução. “Os números demonstram que o governador Eduardo Campos tomou a decisão certa: procurar um parceiro privado para nos ajudar a resolver essa situação vergonhosa, que é o baixo índice de cobertura de esgoto na Região Metropolitana”, afirmou o presidente da Compesa.</p>
+<p>“Fomos sinceros com o governador e informamos que não teríamos condições financeiras de cumprir a meta audaciosa para o esgotamento sanitário que ele estava propondo e ele concordou com a PPP”, relatou João Bosco. A PPP do Saneamento de Pernambuco, o maior projeto de esgotamento sanitário em curso no país, servirá de referência para outras cidades brasileiras. “O nosso modelo de gestão tem um contrato bem estruturado, com metas e prazos estabelecidos para tornar o programa uma realidade possível”, concluiu Roberto Tavares.</p>
+<p>O laboratório da ETE Peixinhos tem capacidade para realizar 500 análises por dia. A unidade está equipada para verificar todos os parâmetros exigidos pelo Conselho Nacional do Meio Ambiente (Conama) e pela Agência Estadual de Meio Ambiente e Recursos Hídricos (CPRH). O laboratório conta, ainda, com equipamentos modernos e adequados às exigências da ISO 17025, cuja certificação será buscada pela Compesa.</p>
+<p>O parceiro privado da Compesa, a Foz, é responsável por todos os serviços de manutenção e operação dos sistemas de esgotamento sanitário na Região Metropolitana, além dos serviços de reposição do asfalto após a realização de intervenções do programa nas vias públicas. Também é responsável por parte das obras de implantação de novos sistemas tantos nas cidades onde há cobertura como naquelas onde ainda não há a prestação dos serviços. Satisfeito pelos resultados dos seis primeiros meses do Programa Cidade Saneada, o presidente da Foz, Pedro Leão, afirmou que o trabalho está apenas no começo e que continuará investindo em tecnologia para agilizar a prestação dos serviços de esgoto. “Queremos usar a tecnologia para oferecer um serviço cada vez mais rápido e eficiente aos clientes da Compesa. Essa é nossa meta, que iremos cumprir até o final do nosso contrato”, assegurou o administrador da Foz.</p>
+<p>Todas as obras de ampliação e implantação de sistemas de esgoto nas 15 cidades que são alvos do programa Cidade Saneada serão concluídas até 2025. Antes, porém, a Foz cumprirá outras metas previstas em contrato. Em dois anos, vai entregar todas as ETEs da RMR completamente reformadas e modernizadas. Em cinco anos, todas as unidades terão que estar, ainda, adequadas à nova legislação ambiental. No projeto, está prevista a aplicação de R$ 4,5 bilhões, recursos públicos e privados, beneficiando 3,7 milhões de pessoas.</p>
+{% endraw %}

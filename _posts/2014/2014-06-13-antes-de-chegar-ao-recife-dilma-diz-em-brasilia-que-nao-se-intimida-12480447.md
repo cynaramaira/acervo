@@ -1,0 +1,28 @@
+---
+id: 12480447
+date: "2014-06-13T16:08:50Z"
+last_modified_at: null
+tags:
+  - "brasilia"
+  - "dilma"
+  - "naomi-campbell"
+  - "recife"
+  - "variantes"
+categories:
+  - "noticias"
+title: "Antes de chegar ao Recife, Dilma diz em Bras\u00edlia que n\u00e3o se intimida com vaias"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p>Nesta sexta-feira, antes de chegar ao Recife, a presidente Dilma participou de um evento oficial em Brasília, para inauguração da 1ª etapa do BRT Expresso DF Eixo Sul, no trecho entre Santa Maria, Gama e Rodoviária do Plano Piloto. Lá, falou das vaias e xingamentos que recebeu na abertura do mundial.</p>
+<p>“Esse sonho da Copa do Mundo virou uma realidade. Todos eles mostraram a competência de nossa gente. O fato de que nós somos um povo que nunca desiste, um povo trabalhador que não se atemoriza diante de desafios. E depois que nós superamos isso, enfrentamos os obstáculos, encaramos os problemas, demos a volta por cima, quero dizer para vocês que eu não vou me deixar perturbar por agressões verbais. Não vou, não vou me deixar perturbar. Obrigada. Obrigada, querido. Eu não vou me deixar, portanto, atemorizar, não vou me deixar atemorizar por xingamentos que não podem ser sequer escutados pelas crianças e pelas famílias. Aliás, na minha vida pessoal, eu quero lembrar que eu enfrentei situações do mais alto grau de dificuldade. Situações que chegaram ao limite físico. Eu suportei não foram agressões verbais, foram agressões físicas. Suportei, suportei agressões físicas que eu tenho…  quero dizer para vocês quase insuportáveis. E nada me tirou do meu rumo. Nada me tirou dos meus compromissos, nem do caminho que eu tracei para mim mesma. E quero dizer e reiterar para vocês e para todos que estão nos assistindo. Não serão xingamentos que vão me intimidar, me atemorizar. Eu não me abaterei por isso. Não me abato e nem me abaterei. Eu sei uma verdade. Eu sei, eu tenho consciência dela porque eu conheço o caráter do povo brasileiro. O povo brasileiro não age assim. O povo brasileiro não pensa assim, e, sobretudo, o povo brasileiro não sente da forma como esses xingamentos expressam. O povo brasileiro é um povo civilizado e é um povo extremamente generoso e educado. Quero dizer para vocês, podem contar que isso não me enfraquece. Podem contar”.</p>
+<p>Dilma aproveitou o evento para criticar os governos passados. “No passado, gente, ninguém do governo federal investiu em transporte coletivo. Por que não investiam? Não investiam porque achavam que transporte coletivo era coisa para o governador ou para o prefeito. E o governo federal pegava um bom... uma boa quantidade de água e lavava as mãos. Falava: "não é comigo". Isso significa que as obras grandes que precisam de muito dinheiro não eram feitas. Porque aqui tem uma parceria. O governo federal entra com recursos para os investimentos. O governo estadual põe outro tanto de recursos. E aí nós fazemos uma obra dessa proporção”.</p>
+<p>No evento, ela disse que acredita que o DF estão fazendo uma revolução no transporte urbano de Brasília. “Quero te dizer que em muitas cidades nós temos BRTs de qualidade, mas o projeto aqui é um projeto extremamente ousado e mostra um fôlego que vai transformar de fato Brasília em um exemplo”.</p>
+<p>“Aqui são 42 quilômetros de via contínua, exclusiva, sem sinaleira. E aí, a gente sabe a quantidade de tempo que uma pessoa que mora no Gama ou em Santa Maria, que mora nas estações intermediárias até o Plano Piloto, o tanto de tempo que se demora no trânsito na hora da manhã e da noite, quando vai para o trabalho e quando volta. É essa a questão que está aqui colocada quando se faz uma obra dessa qualidade. O único objetivo dela é garantir transporte rápido - rápido - porque passa, no máximo, a ser 40 quilômetros. Aliás, 40 quilômetro para você… aliás, 40 minutos… não adianta você balançar a cabeça porque está errado o que eu falei. Eu falei 40 quilômetros, é 40 minutos para você ir de um desses pontos, até, parece que de um é mais perto que o outro, né? Santa Maria é mais perto que o Gama... O Gama é mais perto, né? O Gama… o Filippelli me disse que Gama era 32... 36, o Gama; 32, Santa Maria. Então eles arredondaram para 40, mas eu vou dar o exato que me disseram: 32 e 36. Para quem levava uma hora e meia, é uma vida”.</p>
+<p>Os ministros Aloizio Mercadante, chefe da Casa Civil, e Gilberto Occhi, das Cidades, acompanhavam a presidente.</p>
+<p>Como fazia Lula, Dilma aproveitou o discurso para jogar pobres contra ricos e vice-versa.</p>
+<p>“De repente o povo brasileiro passou a andar nos aviões e ir aos aeroportos? Porque houve isso que o governador Agnelo falou aqui. Houve uma das mais fortes, uma das maiores desconcentração da renda, ou distribuição da renda através da valorização do salário mínimo, porque o salário mínimo pela primeira vez nesse país nos últimos 12 anos, com o governo do presidente Lula e com o meu governo, cresceu 70% acima da inflação. Aí o que aconteceu? As pessoas puderam andar de avião, pagar sua passagem à prestação e ir visitar a sua família. Aqueles que era do Nordeste estavam aqui, aqueles que eram de outros lugares e moravam aqui podiam ir visitar a família nas férias, no natal, em qualquer momento que seja. Tem gente que não gostou, não. Tem gente que até diz o seguinte: o aeroporto virou uma rodoviária. É a maior e a mais bonita rodoviária do Brasil o aeroporto de Brasília. Eu queria dizer para vocês que eu fiquei encantada.”</p>
+{% endraw %}

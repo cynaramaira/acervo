@@ -1,0 +1,31 @@
+---
+id: 12489554
+date: "2014-11-17T18:02:18Z"
+last_modified_at: null
+tags:
+  - "petrobras"
+categories:
+  - "noticias"
+title: "Ex-gerente da Petrobras se compromete a devolver 100 milh\u00f5es de d\u00f3lares"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;"><img src="https://www2.uol.com.br/JC/_ne10/foto/estadao.png" alt="" border="0" /></p></p>
+<p><p style="text-align: justify;">O ex-gerente-executivo da Diretoria de Serviços da Petrobras Pedro Barusco fechou acordo de delação premiada em que se compromete a devolver cerca de US$ 100 milhões e contar o que sabe sobre o esquema de corrupção e propina na estatal.</p></p>
+<p><p style="text-align: justify;">O novo delator da Lava Jato é considerado peça-chave para a força-tarefa da Polícia Federal e da Procuradoria da República porque deverá revelar o esquema que era controlado pelo ex-diretor da área Renato Duque, nome indicado pelo PT e que foi preso na sexta-feira, na sétima fase da operação, batizada de Juízo Final.</p></p>
+<p><p style="text-align: justify;">O acordo evitou que Barusco fosse o 26º nome da lista de prisões decretadas pelo juiz federal Sérgio Moro, que conduz as ações da Lava Jato. O valor de restituição, a título de indenização, caso seja homologado pela Justiça, será o maior já obtido em um acordo com servidor da Petrobrás.</p></p>
+<p><p style="text-align: justify;">O ex-diretor de Abastecimento Paulo Roberto Costa, delator da Lava Jato, e sua família vão pagar cerca de R$ 70 milhões. Barusco, convertendo em reais, terá que desembolsar R$ 252 milhões.</p></p>
+<p><p style="text-align: justify;">Desse valor, US$ 20 milhões já haviam sido bloqueados na Suíça, onde ele mantinha uma conta. Barusco foi apontado como braço direito de Duque na cobrança de propina pelos executivos da Toyo Setal Julio Gerin de Almeida Camargo e Augusto Ribeiro de Mendonça Neto, que fecharam acordo de delação com o MPF no dia 22 de outubro.</p></p>
+<p><p style="text-align: justify;">“Por meio desses depoimentos resta clara também a participação de Pedro Barusco, Renato Duque, ex-gerente executivo e ex-diretor da área de serviços da Petrobras, em diversos fatos criminosos investigados ou conexos com esta operação”, escreveram os procuradores da Lava Jato no parecer de pedido de prisão de Duque. As delações dos executivos da Toyo foram decisivas para deflagração da nova etapa da Lava Jato e para abertura de novas frentes de apuração.</p></p>
+<p><p style="text-align: justify;">No pedido de prisão dos executivos do esquema, os procuradores da força-tarefa registram que os dois “narram com riqueza de detalhes todo o esquema de cartelização, corrupção, desvio de dinheiro, pagamento da corrupção no exterior, manutenção de dinheiro ilegalmente no exterior, lavagem de ativos”. Para eles, foram dados os elementos necessários para enquadrar criminalmente os acusados da lava Jato, inclusive os executivos e dirigentes da Petrobras, “por formação de organização criminosa voltada a prática de crimes contra a administração pública”.</p></p>
+<p><p style="text-align: justify;"><strong>Propinas - </strong>“Regra do jogo conhecida por todos”. É assim que definiu o executivo Julio Camargo, em sua delação premiada, o esquema que cobrava propina em troca de contratos bilionários da Petrobras. O executivo da Toyo operacionalizava pagamentos de propina por meio de três empresas abertas por ele (Treviso, Piemonte e Auguri), em especial aos ex-dirigentes da Petrobras ligados ao PT - Duque e Barusco.</p></p>
+<p><p style="text-align: justify;">Ele e outro executivo do grupo apontaram por exemplo as obras da Refinaria Presidente Getúlio Vargas (Repar), no Paraná. Para ganhar as obras, participando dentro do Consórcio Interpar - controlado pela Mendes Júnior -, teve que pagar R$ 12 milhões em propina. Um contrato de consultoria foi firmado pelo consórcio com a empresa Auguri Empreendimento e Assessoria Comercial, usada pelo delator para movimentar a propina.</p></p>
+<p><p style="text-align: justify;">“Houve solicitação de pagamento de vantagem indevida por Renato Duque e Pedro Barusco do valor aproximado de R$ 12 milhões”, revelou o executivo. “O valor foi pago mediante transferências feitas no exterior”, apontou Camargo, indicando a conta de onde saiu, no Credit Suisse, a offshore que controlava a conta, a Drenos, e qual contrato da Auguri, no valor de R$ 40 milhões de comissionamento, respaldou a movimentação da propina.</p></p>
+<p><p style="text-align: justify;">Nas obras da Refinaria Revap (em São José dos Campos-SP), em 2007, fechado pelo valor de R$ 1 bilhão, a Toyo participou do consórcio que era controlado pela Camargo Corrêa. Ele cita o vice-presidente do grupo, Eduardo Hermelino Leite, preso em Curutiba (PR), como controlador do contrato. Segundo ele, em 2008 a Camargo Corrêa fez um contrato com a Treviso para repassar R$ 23 milhões de comissão para ele.</p></p>
+<p><p style="text-align: justify;">“Dessa comissão, repassou em propina para a Diretoria de Engenharia e Serviços o valor de R$ 6 milhões, sendo pago a maioria no exterior e parte em reais no Brasil”, afirmou Camargo. Ele apontou ainda a conta no Credite Suisse de onde saiu o dinheiro da propina dos dirigentes ligados ao PT nas transferências feitas no exterior. Ao todo, os executivos apontaram nove obras da Petrobras alvo de propina. Indicou ainda suas empresas usadas para movimentar o dinheiro: Treviso, Piemonte e Auguri. E as contas no exterior, como do banco Winterbothan, no Uruguai, e nos bancos Credite Suisse e Cramer, na Suíça.</p></p>
+<p><p style="text-align: justify;">“Os pagamentos foram feitos através de contas que os executivos da Toyo mantinham no exterior “para contas indicadas por Duque ou Barusco no exterior, ou em reais no Brasil disponibilizados por (Alberto) Youssef”, afirma o MPF. Os depoimentos de Barusco estão sendo tomados em sigilo e ainda não foram acordados com a Polícia Federal e o Ministério Publico Federal. Depois de fechado o acordo, ele será submetido à Justiça para ser homologado. Para terem direito ao benefício da redução de pena, o que eles dizem devem ser comprovado.</p></p>
+<p><p style="text-align: justify;"></p></p>
+{% endraw %}

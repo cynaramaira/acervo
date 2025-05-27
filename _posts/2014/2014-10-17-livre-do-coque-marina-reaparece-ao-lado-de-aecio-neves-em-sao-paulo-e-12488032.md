@@ -1,0 +1,33 @@
+---
+id: 12488032
+date: "2014-10-17T16:27:35Z"
+last_modified_at: null
+tags:
+  - "lado-b"
+  - "marina-lima"
+  - "mozart-neves"
+  - "sao-paulo"
+  - "som-livre"
+categories:
+  - "noticias"
+title: "Livre do coque, Marina reaparece ao lado de A\u00e9cio Neves em S\u00e3o Paulo e discursa"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/10/unnamed12.jpg"
+---
+{% raw %}
+<p>Veja a declaração da ex-senadora Marina Silva, do PSB</p>
+<p>Bom dia a todos e todas. Em primeiro lugar, eu quero agradecer a Deus por estarmos aqui. Quero cumprimentar, de um modo especial, ao governador e candidato a presidente da República Aécio Neves. Muito obrigada pela forma generosa com que se dirige a mim. E quero cumprimentar todos os parceiros e as parceiras que estão aqui, que são nossos colaboradores na pessoa de uma pessoa que é muito importante para mim, o senador Pedro Simon, que fez questão de estar aqui conosco nesta manhã.</p>
+<p>Senhores e senhoras da imprensa, amigos, amigas, como dizia - muitas vezes a imprensa insistia nisso -: e o segundo turno? E eu sempre dizia: o segundo turno a gente discute no segundo turno. E, de fato, honrei o que dizia, porque o segundo turno veio e, como democratas que somos, respeitamos a decisão dos brasileiros que colocou duas candidaturas no segundo turno. Não estando no segundo turno, nossos partidos que compõem a aliança que fizemos inicialmente com Eduardo Campos, e agora eu e Beto Albuquerque - que está aqui também, meu vice -, meu vice de 2010 Guilherme Leal, cumprimento aos dois e o seu vice, senador Aloysio [Nunes, vice na chapa de Aécio Neves].</p>
+<p>Os partidos, eles fizeram uma discussão e tomaram, a sua maioria, a decisão de apoiá-lo. Desses partidos, um deles ficou neutro e respeitamos a sua posição, que é o PPL, mas o PSB, o PPS, o PHS, o PSL e o PRP tomaram a decisão de apoiá-lo. A minha enfim Rede Sustentabilidade, que é o primeiro partido a ser clandestino em plena democracia, tomou a seguinte decisão de que os militantes da Rede não se filiariam ao outro projeto que é representado pela presidente Dilma, não votariam em Dilma e que estariam liberados para votar branco, nulo e Aécio.</p>
+<p>Uma parte de nós, após uma série de discussões e inclusive eu, tomamos a decisão de, com base no seu compromisso corajoso assumido em Pernambuco, interpretando o que está acontecendo nesse país nos últimos vinte anos e dando um salto de qualidade de que os apoios precisam ser muito mais do que pragmáticos, eles precisam ser programáticos. A sua atitude de apresentar doze anos depois uma carta-compromisso aos brasileiros de que vai recuperar os fundamentos da política macroeconômica que estão sendo terrivelmente prejudicados, com juros altos, com inflação alta, e com baixíssimo crescimento com pouco investimento no nosso país.</p>
+<p>O compromisso de que vai manter as políticas sociais e aperfeiçoá-las. Eu, inclusive, na minha fala em que declarei o meu voto e o meu apoio, a partir desses compromissos, fiz uma comparação, de que há 12 anos, o candidato presidente Lula apresentou uma carta-compromisso aos brasileiros dizendo que naquele momento em que a sociedade igualmente queria alternância de poder, queria mudança, de que ele iria apresentar novas propostas, mas queria tratar o Plano Real como uma conquista da sociedade brasileira e iria preservar. Doze anos depois você faz o mesmo gesto, diz que vai recuperar o que se perdeu no atual governo, que é a estabilidade econômica, e diz que vai manter as políticas sociais que foram ampliadas e aperfeiçoadas durante o governo do presidente Lula.</p>
+<p>A institucionalização das políticas públicas é um avanço na democracia. As políticas públicas não podem ser 'fulanizadas', partidarizadas, têm que ser conquistas da sociedade, do Estado, e não de um partido ou de um governo. Quando elas são de um partido ou de um governo elas são frágeis, e quando elas se transformam em conquistas do Estado e da sociedade, principalmente, são institucionalizadas, como eu vejo aqui que estava aqui no meu programa e no seu compromisso de que vai institucionalizar por meio de políticas, como o Bolsa Família. Esse é um passo relevante e significativo para que não se tenha mais os ganhos, que a sociedade a duas penas conquista, como se fosse favores.</p>
+<p>Fiquei muito feliz, porque se de um lado já tivemos a experiência da estabilidade, a experiência da inclusão social é necessária, por tudo o que acontece no mundo e no nosso país, para integrarmos essas visões e os processos políticos com a questão da sustentabilidade. E aí o tripé estará completo: o desenvolvimento econômico, o desenvolvimento social, com proteção ambiental, integrando como tenho dito há mais de 18 anos, economia e ecologia numa mesma equação, completa o tripé que tanto necessitamos para um país como o Brasil.</p>
+<p>E qual é o chão que pode dar sustentação a tudo isso? O chão do aprofundamento da democracia. Da melhor qualidade das instituições políticas, das heranças políticas e do processo político de um modo geral. Por isso que ouço com alegria a sua manifestação, candidato Aécio, de que a partir de agora você trabalha como um movimento, um movimento da mudança, da mudança que não é a mudança pela mudança, mas é a mudança qualificada, que preserva as conquistas, que encara os desafios, que não é complacente com os erros, mas que tem a humildade de compreender que algo grandioso não se faz por um grupo, por um partido, por uma pessoa.</p>
+<p>Algo que é maior do que nós e só pode ser feito por todos, e é por isso que neste momento estou aqui como parte desse movimento, de um movimento que se dá em cima de um compromisso, um compromisso que, no meu entendimento, pode ajudar a melhorar o Brasil para todos nós, e a unir o Brasil pelo bem de todos nós.</p>
+<p>A questão da sustentabilidade, da reforma agrária, da proteção aos direitos indígenas, mantendo a prerrogativa de que o Congresso irá demarcar as terras indígenas e, ao mesmo tempo, sinalizando fortemente o compromisso com o desenvolvimento econômico e social, num país que tem lugar para o agronegócio, que tem lugar para o extrativismo, que tem lugar para a agricultura familiar, que tem lugar para o turismo e, que tem lugar e precisa ter para a ética na política, não vale tudo para ganhar uma eleição.</p>
+<p>Eu dizia que preferia perder ganhando do que ganhar perdendo, nesse momento eu reitero e, se Deus quiser e o povo brasileiro, você haverá de ganhar ganhando.</p>
+<p>Vou fazer uma correção, que eu falei o Congresso, é o Executivo. A prerrogativa constitucional de que é o Executivo que demarca as terras indígenas. Todo mundo conhece minha posição.</p>
+{% endraw %}

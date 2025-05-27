@@ -1,0 +1,31 @@
+---
+id: 12478379
+date: "2014-05-01T12:15:32Z"
+last_modified_at: null
+tags:
+  - "estudo"
+  - "mostra"
+  - "nacional"
+  - "pernambuco"
+categories:
+  - "noticias"
+title: "Estudo mostra que produtividade em Pernambuco precisa melhorar para alcan\u00e7ar a nacional "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px; max-width: 100%;" src="https://www.slideshare.net/slideshow/embed_code/34171068" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p>
+<p><div style="margin-bottom: 5px;"><strong> <a title="Xvi análise ceplan março de 2014" href="https://pt.slideshare.net/JamildoMelo/xvi-anlise-ceplan-maro-de-2014" target="_blank">Xvi análise ceplan março de 2014</a> </strong> from <strong><a href="https://www.slideshare.net/JamildoMelo" target="_blank">Jamildo Melo</a></strong></div></p>
+<p><div style="margin-bottom: 5px;"></div></p>
+<p>A 16ª. Análise Ceplan, um estudo de conjuntura econômica da Ceplan Consultoria Econômica e Planejamento, mostra os primeiros números da Economia mundial, nacional e de Pernambuco em 2014.</p>
+<p>Elaborada pelos economistas e sócios-diretores da Ceplan, Tania Bacelar, Jorge Jatobá, Valdeci Monteiro, Tarcísio Patrício Araújo, Aldemir do Vale e Leonardo Guimarães, a 16ª Análise Ceplan traz ainda um Informe Especial sobre a produtividade do Trabalho em Pernambuco e faz comparações com índices nacionais e regionais.</p>
+<p>O estudo começa avaliando o cenário mundial onde se destacam a previsão de crescimento do Produto Interno Bruto (PIB) de 3,6% em 2014. Esta perspectiva é sustentada na retomada das economias avançadas, impulsionadas, entre outros fatores, pelo reconhecimento da normalização da política monetária nos Estados Unidos. Neste processo, os emergentes ganham dinamismo econômico pela geração de demandas ou seja, há uma melhora na economia mundial que repercute positivamente nas exportações dos países em desenvolvimento. A China, por exemplo, segundo o World Economic Outlook, do Fundo Monetário Internacional (FMI) deve encerrar 2014 com um aumento no seu Produto Interno Bruto (PIB) de 7,5%. A previsão de desempenho dos países emergentes também é muito positiva, com alta de 4,9% para este ano. Os Estados Unidos provam que estão se recuperando e podem aumentar seu PIB em 2,8% este ano. Já para o Brasil, a previsão continua modesta: 1,8%. Porém, há perspectivas de maior crescimento até 2016 para todos, com exceção da China que busca menores taxas e maior equilíbrio, e o Brasil pode chegar a um aumento do PIB de 3%, mesma previsão para os EUA.</p>
+<p>Mas o atual cenário nacional é preocupante. Inflação crescente, juros altos, e queda no saldo da balança comercial são apenas alguns dos problemas que deixam dúvidas sobre um aumento do PIB brasileiro em 2014 acima dos 2,3% registrados em 2013 pelo IBGE. No ano passado, o PIB Agropecuário cresceu 7%, mostrando recuperação em relação à taxa negativa de -2,1% de 2012. Já a indústria nacional apresentou o pior resultado de 2013, com uma evolução de apenas 1,3%. As importações cresceram 8,4%, bem mais do que as exportações (2,5%), estreitando o saldo balança comercial. O Boletim Focus, do Banco Central, revelou, em abril, que a expectativa da inflação para 2014 se situa no limite da banda superior (6,5%). E os aumentos sucessivos da taxa oficial de juros, a Selic, devem levar a taxa a pelo menos 11,25% até o final do ano.</p>
+<p>Neste ambiente, a indústria perde competitividade para alavancar exportações, o saldo da balança comercial despenca para US$ 3 bilhões, em 2014, e o Brasil perde novos investimentos. O IED – Investimento Estrangeiro Direto previsto para este ano é de US$ 60 bilhões mas deverá ser inferior ao saldo de transações correntes (resultado de todas as transações do Brasil com o exterior), que apontam déficit de US$ 80 bilhões. Pernambuco em bom momento</p>
+<p>Pernambuco começa o ano no rastro de mais um ano positivo para sua Economia. Em 2013, o PIB do Estado cresceu 3,5%, superando a taxa nacional de 2,3% e da Bahia (3,0%) e do Ceará (3,4%). A Agropecuária, apesar da seca e do seu pequeno peso, contribuiu também, para o resultado pernambucano, com uma alta de 4,9%. A indústria, com 3,1% e os serviços, com 3,9%, também apresentaram bom desempenho. No Ceará e na Bahia, a Economia foi puxada pela Indústria que cresceu 5,6% e 4,2%, respectivamente, no ano passado.</p>
+<p>Este ano, apesar do baixo desempenho de 2013, entre janeiro e fevereiro a indústria pernambucana reagiu e superou o Brasil e o Nordeste com um crescimento de 8,3%, muito acima do 1,3% do país e dos 2,9% da região. No mesmo período, o produção industrial do Ceará cresceu 0,8% e o da Bahia ficou negativo (-0,1%).</p>
+<p>O primeiro bimestre de 2014 também foi positivo para o comércio varejista ampliado (inclui as vendas de veículos e de material de construção) de Pernambuco que registrou uma elevação de 10,8%, atrás apenas do de Alagoas (11,3) – o maior do Nordeste. Para o Brasil, o aumento foi de 6,5%.</p>
+<p>E ainda para os que estavam procurando trabalho. Entre janeiro e fevereiro, a taxa de Desemprego Aberto na Região Metropolitana do Recife (RMR) apresentou queda em comparação com o conjunto das regiões metropolitanas pesquisadas pelo Dieese. Em janeiro, a taxa foi de 6,9% para a RMR e de 7,5% para o total das regiões metropolitanas do país. Em fevereiro, ficamos com 7,8% e o restante das regiões com 8,2%. Mas na geração de empregos formais, em março deste ano, no comparativo com março de 2013, a evolução do estoque de Pernambuco foi de 0,9%, abaixo das médias brasileira (1,1%) e da nordestina (1,3). Já em relação ao rendimento médio do trabalhador, o primeiro trimestre de 2014 foi muito bom para os cariocas que receberam aumentos de 6,5%. Na RMR, a elevação foi de 2,2% e no total das regiões pesquisadas, de 3,2%.</p>
+{% endraw %}

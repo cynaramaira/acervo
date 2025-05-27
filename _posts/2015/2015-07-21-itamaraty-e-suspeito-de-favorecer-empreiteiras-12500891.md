@@ -1,0 +1,35 @@
+---
+id: 12500891
+date: "2015-07-21T09:37:47Z"
+last_modified_at: null
+tags:
+  - "itamaraty"
+categories:
+  - "noticias"
+title: "Itamaraty \u00e9 suspeito de favorecer empreiteiras"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/07/alx_lula-pt_original.jpeg"><img class="alignnone size-medium wp-image-129049" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/07/alx_lula-pt_original-580x435.jpeg" alt="alx_lula-pt_original" width="580" height="435" /></a></p>
+<p><em>Com informações do Uol Política </em></p>
+<p>Telegramas divulgados pelo Itamaraty revelam que diplomatas brasileiros podem ter favorecido as empreiteiras Odebrecht e Andrade Gutierrez em uma licitação internacional para obras viárias no Haiti em 2006, quando o presidente era Luiz Inácio Lula da Silva (PT).</p>
+<p>Um telegrama enviado pela Embaixada do Brasil em Porto Príncipe ao Ministério das Relações Exteriores mostra que um diplomata cedeu documentos relativos a um conjunto de obras a representantes das duas empreiteiras antes mesmo de eles serem distribuídos a outras empresas brasileiras do setor. As empreiteiras e o governo brasileiro negam o favorecimento.</p>
+<p>A possível atuação do Itamaraty em favor da Odebrecht tem sido investigada como parte de um inquérito que apura o suposto tráfico de influência do ex-presidente Lula junto a líderes internacionais para que a empreiteira conseguisse contratos fora do país. No dia 8 de julho, o MPF-DF (Ministério Público Federal do Distrito Federal) abriu um inquérito para investigar o caso. Os telegramas divulgados em junho deste ano foram obtidos por meio da Lei de Acesso a Informação.</p>
+<p>Um deles revela que no dia 22 de agosto de 2006, o então embaixador brasileiro no Haiti Paulo Cordeiro de Andrade Pinto enviou um telegrama ao Itamaraty no qual ele relata ter recebido um "mapa com o planejamento" para obras de construção e recuperação de estradas do Haiti.</p>
+<p>O mapa, segundo Cordeiro, teria sido elaborado pelo governo haitiano e as obras, avaliadas em US$ 215 milhões (valores da época), seriam financiadas por organismos estrangeiros como o Banco Mundial, BID (Banco Interamericano de Desenvolvimento) e União Europeia. Desde 2004, o Brasil liderava o braço militar da Minustah (Missão das Nações Unidas para Estabilização do Haiti).</p>
+<p>Ainda no telegrama, o ex-embaixador brasileiro no país afirma que, antes mesmo de remeter os mapas com o planejamento das obras ao Brasil para que o governo brasileiro informasse empresas de construção civil interessadas em participar de uma futura concorrência internacional para as obras no Haiti, ele cedeu o original dos mapas para os então representantes da Odebrecht e Andrade Gutierrez na República Dominicana, país que faz fronteira com o Haiti.</p>
+<p>"Estou enviando por mala diplomática para a DOC [Divisão de Operações de Promoção Comercial do Itamaraty] o mapa com os projetos rodoviários para este país [Haiti], que foi cedido pelo BID. Esclareço ter conversado sobre o tema com os senhores Rommel Curzio e Ernesto Baiardi, respectivamente gerentes das filiais das construtoras Andrade Gutierrez e Odebrecht na República Dominicana a quem emprestei o original do mapa para que fizessem cópias", escreve o embaixador.</p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/07/j.jpg"><img class="wp-image-129829 size-medium" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/07/j-580x290.jpg" alt="j" width="580" height="290" /></a> Telegrama mostra que Itamaraty pode ter favorecido empreiteiras da Lava Jato no Haiti<strong>Suspeita de favorecimento</strong></p>
+<p>Para Vinícius Rodrigues Vieira, doutor e pesquisador do Instituto de Relações Internacionais da USP (Universidade de São Paulo), a cessão do mapa com os projetos para as empresas Odebrecht e Andrade Gutierrez antes mesmo de o documento ter chegado ao Brasil é suspeita.</p>
+<p>"É normal que o governo brasileiro tente promover empresas brasileiras no exterior. Mas esse tratamento levanta suspeitas em relação a um eventual favorecimento. Se o Brasil tinha outras empresas de construção civil aptas a atuar no exterior, por quê o documento foi repassado primeiramente a essas duas empresas? Isso precisa ser investigado", afirma o pesquisador.</p>
+<p>O Itamaraty, no entanto, negou que a Embaixada do Brasil no Haiti tenha favorecido as duas empreiteiras. Em nota enviada à reportagem do UOL, classificou como "correta" a conduta do então embaixador brasileiro.</p>
+<p>"Como a informação sobre a licitação já estava sendo divulgada pelo próprio BID junto a potenciais investidores de outros países, concomitantemente ao envio para Brasília, o embaixador informou todas as empresas instaladas na ilha [Hispaniola, onde estão Haiti e República Dominicana]. Como os prazos de licitação são longos e o sistema de comunicação do MRE (Ministério das Relações Exteriores) é instantâneo, não houve diferença significativa entre a transmissão da informação no exterior e a chegada do relato a Brasília", afirmou o Itamaraty.</p>
+<p>Questionado sobre a razão de o então embaixador ter divulgado as informações sobre o projeto antecipadamente às duas empreiteiras, o Itamaraty disse que o diplomata "repassou a mesma informação enviada a Brasília aos representantes de todas as empresas brasileiras com operação na ilha" e que "na época, somente havia a Odebrecht e a Andrade Gutierrez" operando na República Dominicana.</p>
+<p>Por meio de suas assessorias de imprensa, as empreiteiras Odebrecht e Andrade Gutierrez negaram terem sido favorecidas pelo Itamaraty. A Odebrecht negou qualquer relacionamento indevido de seus executivos com diplomatas. "O teor das mensagens não indica nenhum tipo de ação que fuja à normalidade da prática diplomática internacional, o que inclui, em todo o mundo, o apoio à ação comercial do país e de suas empresas", disse.</p>
+<p>A Andrade Gutierrez, por sua vez, disse que "a companhia considera que o relacionamento institucional de empresas brasileiras com atuação no exterior e representantes do governo brasileiro nesses países seja uma prática normal e legal". As duas empreiteiras afirmam que não executaram as obras citadas no telegrama.</p>
+<p>Procurado pela reportagem do UOL, o BID, instituição que, segundo o telegrama da embaixada brasileira, teria cedido o mapa com os projetos das obras no Haiti, informou, por meio de sua assessoria de imprensa, que a instituição "não comenta sobre comunicações diplomáticas dos governos".</p>
+<p>Odebrecht e Andrade Gutierrez são algumas das empreiteiras investigadas pela operação Lava Jato, que investiga irregularidades em contratos firmados junto à Petrobras. Segundo as investigações, um grupo de empreiteiras formou um cartel e superfaturava contratos com a estatal. Parte do dinheiro obtido a partir do superfaturamento era repassada a partidos e políticos. Os presidentes das duas empresas, Marcelo Bahia Odebrecht, e Otávio Marques de Azevedo, estão presos.</p>
+{% endraw %}

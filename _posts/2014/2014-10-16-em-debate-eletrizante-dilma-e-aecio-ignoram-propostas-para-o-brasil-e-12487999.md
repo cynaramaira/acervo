@@ -1,0 +1,32 @@
+---
+id: 12487999
+date: "2014-10-16T20:45:18Z"
+last_modified_at: null
+tags:
+  - "brasil"
+  - "debate"
+  - "dilma"
+categories:
+  - "noticias"
+title: "Em debate eletrizante, Dilma e A\u00e9cio ignoram propostas para o Brasil e elevam tom das acusa\u00e7\u00f5es"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/10/primeira.jpg"
+---
+{% raw %}
+<p>Por Jamildo Melo, editor do Blog</p>
+<p>Em horário nobre, no SBT, os adversários Dilma e Aécio fizeram o mais franco e eletrizante debate destas eleições, com uma escalada de trocas de agressões inesperada. Não deu tempo nem de aparecer uma proposta que fosse, nem a mais demagoga que fosse. A pressão foi tão elevada que mais pareceu que a agressividade de virulência das redes sociais tivesse sido transportada para a TV. <a href="https://https://www1.folha.uol.com.br/poder/2014/10/1533716-dilma-passa-mal-em-entrevista-apos-debate-veja-video.shtml">Dilma, ao final, supostamente, teria passado mal</a>. Após o primeiro debate, na terça-feira passada, na Band, foi o melhor desempenho do tucano e a pior apresentação da petista.</p>
+<p>O momento mais ousado e arriscado de Dilma foi insinuar, no ar, ao fazer uma pergunta sobre lei seca, que Aécio Neves dirigia bêbado ou drogado, no Rio de Janeiro, reproduzindo material das redes sociais. Apelação? O tucano aproveitou a deixa e bateu. “Tenha coragem de fazer a pergunta de forma direta. Talvez seja desespero (trazer o tema)”, classificou, ao dizer que já havia reconhecido que dirigiu com carteira vencida e ‘inadvertidamente’ não fez o exame. No contra-ataque Aécio Neves citou casos de corrupção para perguntar se Dilma não se arrependia.</p>
+<p>Dilma inicialmente aceitou o debate sobre corrupção e usou o senador pernambucano Sérgio Guerra, já falecido, ex-presidente do PSDB, para atacar Aécio. Na delação premiada, o diretor Paulo Roberto Costa teria envolvido o pernambucano. A petista disse que lembrava o caso pois queria mostrar que era fácil denunciar e para mostrar que Aécio usava dois pesos e duas medidas. “Pela primeira vez, a senhora dá credibilidade às denuncias do ex-diretor Paulo Roberto Costa”, rebateu Aécio Neves, que ainda acusou Dilma de evitar que o tesoureiro do PT, João Vaccari, fosse depor na CPI da Petrobras.</p>
+<p>No mais, Dilma repetiu a estratégia de tentar desconstruir Aécio Neves a partir de Minas Gerais, onde foi governador por dois mandatos, antes de eleger-se senador. Também acusou o tucano de não ter investido o exigido por lei em saúde e educação, quando era governo. Acusou até o mineiro de tirar o site do TCE de MG do ar, para que as pessoas não pudessem buscar informações. No ar, Aécio Neves leu uma nota do TCE em que ‘aprovava’ suas contas.</p>
+<p>Para atacar o concorrente, Dilma lançou mão do tema nepotismo e perguntou mais uma vez onde trabalhava a irmã e um tio do mineiro, no governo do Estado. Também sugeriu que houve beneficiamento de recursos públicos da área de comunicação para rádios e jornal da família do tucano.</p>
+<p>Como vacina, para evitar falar de Minas, o tucano pedia sempre para debater o Brasil e deixar Minas em paz. “Nasci em Minas, antes do senhor, e não saí de lá para passear no Rio de Janeiro”, disse, em um gracejo que faz referência a supostas noitadas do tucano na capital carioca. “A senhora tem ofendido Minas Gerais”, devolvia o tucano, tentando jogar os mineiros contra a filha da terra, que enveredou pela política no Rio Grande do Sul.</p>
+<p>Para sair do regionalismo, Aécio Neves usou uma estratégia inteligente e uma ironia fina. “A senhora quer discutir Minas? Mais parece que, derrotada, vai sair candidata ao governo do Estado ou a prefeita de BH”, ironizou. Dilma, sem perder a fleugma, disse que se sentiria honrada. “É uma candidata de oposição? Promete o que não fez em 12 anos!”, ironizou, mais de uma vez.</p>
+<p>O tucano mineiro não recuou diante das investidas de Dilma e manteve sempre a estratégia de apontar o ‘fracasso’ da gestão Dilma. Na questão do nepotismo, deu o troco na hora, ao denunciar que o irmão da presidente, Igor Rousseff, era empregado na prefeitura de Belo Horizonte durante a gestão de Fernando Pimentel (PT). ex-ministro de Dilma e agora governador eleito de Minas Gerais.</p>
+<p>“A minha irmã fazia voluntariado. A diferença entre ela e o seu irmão é que ela trabalhava sem receber e seu irmão recebia e nunca trabalhava”, bateu, sem piedade. “Tem que dar conta de todos, não só da irmã”, pediu Dilma. Para responder aos gastos com comunicação, Aécio Neves disse que os gastos foram aprovados pelo TCE de Minas e questionou os gastos com blogs aparelhados para atacar a honra dos adversários. Para a petista, o tucano engavetava os processos em Minas Gerais.</p>
+<p>Para atacar a concorrente, o senador do PSDB usou as mesmas armas de antes, como elevação da inflação, queda da atividade econômica e principalmente o caso da Petrobras. A intenção do tucano era colar a corrupção à imagem da adversária. “A senhora não se sente responsável? Ou a senhora foi incompetente ou foi conivente. A senhora prevaricou?”, disse. Nestes momentos, Dilma sempre diz que a PF investiga e que antes não havia investigação.</p>
+<p>O tucano também bateu duro ao cobrar a demissão do tesoureiro do PT, Vaccari, em Itaipu, situação que não se resolveria porque, segundo o tucano, tendo arrecadado e financiado a campanha da petista, possivelmente até com recursos oriundos da Petrobras, Dilma não poderia mandar demiti-lo, sem brigar com o partido.</p>
+<p>Dilma mais uma vez tentou usar o bolsa família contra o tucano, dizendo que não faria os mesmos programas sociais. Aécio devolvia com a argumentação de que os programas sociais são do Brasil e não de um partido. “Ninguém é dono do Brasil”. Quando falou da inflação, Dilma disse que o problema era um choque de oferta e que os adversários eram sempre pessimistas. O tucano prometeu tolerância zero com a inflação. Dilma garantiu que, pela proposta tucana, o desemprego vai subir.</p>
+<p>Nas considerações finais, Dilma também apelou para o corte de classes, chamando as gestões tucanas de governo das elites. Já Aécio Neves reclamou das ofensas citando Eduardo Campos e Marina e prometeu um governo de generosidade com todos os brasileiros, sem dividir o Brasil “entre nós e eles”.</p>
+{% endraw %}

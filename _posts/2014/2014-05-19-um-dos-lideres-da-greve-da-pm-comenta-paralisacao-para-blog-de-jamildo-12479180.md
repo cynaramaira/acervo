@@ -1,0 +1,23 @@
+---
+id: 12479180
+date: "2014-05-19T14:34:30Z"
+last_modified_at: null
+tags:
+  - "blogs-jc"
+  - "greve"
+  - "paralisacao"
+categories:
+  - "noticias"
+title: "Um dos l\u00edderes da greve da PM comenta paralisa\u00e7\u00e3o para Blog de Jamildo"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/05/10339574_834401536589559_1704566470771637847_n.jpg"
+---
+{% raw %}
+<p>Por Soldado Albérisson, especial para o Blog de Jamildo</p>
+<p>Caros companheiros e companheiras Policiais e Bombeiros Militares.</p>
+<p>Quero agradecer a cada um de vocês pelo apoio dado durante o movimento de reivindicações, mesmo aqueles que ao final não ficaram satisfeitos. Quero ainda dizer-lhes, que embora o resultado não tenha sido o esperado por todos nós, o que importa é que mostramos a nossa importância de essencialidade a todos da sociedade. Tenho visto algumas reportagens pós-movimento, em que seus teores são de extremo sentimento burguês, o qual nos trata como imprescindíveis, necessários e essenciais, mas acima de tudo, como escravos de um sistema que não nos dá o direito de lutar pela dignidade da pessoa humana. Falo isto, baseado no escreveu hoje, dia 16 de maio de 2014, alguns setores da imprensa pernambucana, acerca dos que lideraram a luta por melhores dias na PM e no BM.</p>
+<p>Não se pode atribuir à luta de uma classe, a tão somente um ato de aproveitamento político, pois todos os que estávamos lutando durante o movimento, tenho certeza de que queríamos e queremos dias melhores nas corporações militares. Nos meus 21 anos de Polícia Militar, nunca me furtei de participar de qualquer que fossa a luta por melhorias para a nossa classe. Nunca foi e nunca será fácil conseguir algum direito para nós. A história já nos mostra que todas as lutas do trabalhador por melhorias incomodam a burguesia. E, em especial, a dos militares. É só darmos uma volta no tempo e lembrarmos-nos do “Tenentismo” e da “Revolta da Chibata”, os quais foram movimentos liderados por militares que buscavam mudanças. Em 1964, a Polícia Militar de Pernambuco foi uma das únicas que resistiu ao “golpe” até que prendessem o governador à época. O sistema burguês que nos oprime, que nos trata de maneira diferente e que ocupam os diversos setores da sociedade que manipulam a opinião pública, certamente, atribuirá a culpa aos operários e, especialmente, aos que lideraram a luta por melhorias para a categoria de trabalhadores de segurança pública.</p>
+<p>Meus queridos irmãos de farda, não se deixem levar por comentários maldosos, que promovem desunião e desacredita uma luta que não é de agora, pois é só olhar a nossa história. Sei que ainda não conseguimos o que queríamos, mas o pouco que conquistamos, historicamente, foi a maior conquista que já aconteceu por nós Policiais Militares e Bombeiros Militares. O plano de cargos e carreiras que será construído por nós é fundamental para definir o resto de nossas vidas. A incorporação da gratificação de risco ao soldo é uma garantia para todos e, principalmente, para os inativos, dos quais faremos parte um dia, de levarmos tudo o que temos direito, no que tange a nossa remuneração. A reformulação do Código Disciplinar que já se desenha será uma conquista ímpar. E por fim, o nosso Sistema de Saúde, o qual está na UTI, terá um investimento imediato e em longo prazo para melhorá-lo, o que nos deixará tranquilo e, exclusivamente, o nosso Policial e Bombeiro do Interior, que estão sem atendimento por falta de convênios. Portanto, sei que muitos de vocês que primam pelo o imediatismo, estão insatisfeitos com o desfecho da negociação, pois alguns que subiram no trio durante o movimento, se deixou levar pela pura emoção, fazendo pronunciamentos que geraram expectativa de total conquista. Mas não devemos condená-los ou acusá-los, pois tenho certeza que ao final todos queriam o melhor. Quero finalizar dizendo, que nunca esqueçam de que a luta continua, que a vitória tem muitos pais, mas o insucesso é órfão. Se a esta altura tivéssemos conseguido o que nós da tropa almejavam, seríamos com certeza, os maiores heróis da história das corporações. Quero mais uma vez agradecer a todos e dizer-lhes que recuar naquele momento foi a decisão mais sensata e correta, pois estávamos à beira de acontecer o que ocorreu no ano de 2000, sem nada, desmoralizados e punidos. Não é fácil dizer-lhes isto, mas é a pura verdade. Desejo que Deus continua abençoando a todos Policiais e Bombeiros e suas famílias!</p>
+{% endraw %}

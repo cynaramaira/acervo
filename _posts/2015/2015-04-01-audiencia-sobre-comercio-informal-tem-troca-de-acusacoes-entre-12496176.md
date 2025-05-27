@@ -1,0 +1,43 @@
+---
+id: 12496176
+date: "2015-04-01T15:30:15Z"
+last_modified_at: null
+tags:
+  - "bragantino"
+  - "comercio"
+  - "entrega"
+  - "joao-d"
+categories:
+  - "noticias"
+title: "Audi\u00eancia sobre com\u00e9rcio informal tem troca de acusa\u00e7\u00f5es entre ambulantes e o secret\u00e1rio Jo\u00e3o Braga"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/04/image.jpg"
+---
+{% raw %}
+<p>Com o plenarinho lotado de vendedores ambulantes e a presença do secretário de Mobilidade e Controle Urbano do Recife, João Braga, a Câmara Municipal do Recife promoveu audiência pública nesta quarta-feira, 1º de abril, para debater a situação do comércio informal na cidade.</p>
+<p>Além do secretário, fizeram parte da mesa de debates o presidente da Central Única dos Trabalhadores (CUT), Carlos Veras; o presidente do Sindicato dos Trabalhadores e Trabalhadoras do Comércio Informal do Recife (Sintrac), Severino Souto Alves, controlado pela CUT.</p>
+<p>Também estava presenta representante do Coletivo Lutas Comunitárias, Luciana Mendonça; o articulador regional da Rede Nacional de Advogados Populares, André Barreto; a advogada do Centro Popular de Direitos Humanos, Luciana Varejão. A gerente do Sistema Único de Assistência Social da secretaria de Direitos Humanos da Prefeitura do Recife, Margarida Soares, que representou a secretária Ana Rita Suassuna, compareceu à audiência pública para dar suporte e encaminhamento para benefícios caso algum ambulante presente ao encontro necessitasse.</p>
+<p>Aliado dos ex-prefeitos João Paulo e João da Costa, ambos do PT, o vereador Osmar Ricardo, autor da proposta de encontro, começou a reunião criticando a PCR. “A retirada de vários comerciantes ambulantes da Avenida Conde da Boa Vista pela Prefeitura do Recife, recentemente, despertou para a falta de diálogo entre a gestão pública e a categoria, além de ter exposta a insatisfação dos trabalhadores que até hoje estão sem local para comercializar suas mercadorias”.</p>
+<p>Osmar Ricardo pareceu estar chateado porque, no dia 16 de março, tentou realizar uma audiência pública, que terminou sendo remarcada por conta da desistência do Secretário João Braga de comparecer ao encontro. O objetivo era o mesmo desta renião de hoje. Os vereadores Marco Aurélio Medeiros (SD) e Luiz Eustáquio (PT) também compareceram ao encontro desta quarta.</p>
+<p>Severino Souto, do sindicato ambulante cutista, iniciou a audiência apresentando slides com imagens de shoppings populares construídos em cidades como Belo Horizonte, São Paulo, Brasília, João Pessoa e Maceió.</p>
+<p>“Queremos apresentar sugestões, fazer uma pauta propositiva, com soluções viáveis. Mas, faltam diálogo e transparência por parte da Prefeitura do Recife”, disse. Ele acrescentou que a falta de transparência ocorreu sobretudo na elaboração do cadastramento do ambulantes do centro do Recife, incluindo os da avenida Conde da Boa Vista, que foram retirados este ano.</p>
+<p>“Não houve critério nem tempo para se fazer esse cadastramento”, afirmou. Nos slides que Severino Souto apresentou em telão instalado no plenarinho da Câmara, havia alguns exemplos de shoppings populares, inclusive da iniciativa privada de São Paulo e Belo Horizonte.</p>
+<p>O advogado André Barreto ressaltou que o comércio informal “não é sinônimo da ilegalidade” e que os ambulantes não podem ser tratados como caso de polícia, ressaltando que os camelôs da Conde da Boa Vista foram retirados dos seus locais de trabalho à força.</p>
+<p>A advogada Luciana Varejão parabenizou a Câmara Municipal do Recife pela realização da audiência.</p>
+<p>“Espero que ela se desdobre em políticas públicas”, afirmou. A exemplo dos outros dois advogados, ela também disse que a questão dos ambulantes vem sendo tratada como caso de polícia. “É antes um caso de política”, observou.</p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/03/fora-braga.jpg"><img class="alignleft size-full wp-image-124992" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/03/fora-braga.jpg" alt="fora-braga" width="560" height="791" /></a></p>
+<p>O presidente da CUT, Carlos Veras, observou que o Sindicato dos Trabalhadores e Trabalhadoras do Comércio Informal do Recife (Sintrac) é vinculado à Central e pediu “respeito” à entidade. “Esperamos que possamos estabelecer um diálogo mais democrático e transparente a partir dessa audiência”. O mesmo sindicalista que pede respeito fez campanha pela derrubada do secretário, no ano passado. O auxiliar de Geraldo Júlio também era agredido verbalmente nas passeatas.</p>
+<p><strong>Baixinho bom de briga</p>
+<p></strong></p>
+<p>Após a fala de todos os participantes, o secretário João Braga não arregou. Na lata, ele disse que muitas afirmações feitas durante a audiência são fruto de desinformação.</p>
+<p>O cadastramento dos ambulantes foi um ponto questionado pelos participantes da audiência pública, mas Braga disse que vem sendo feito com transparência. João Braga denunciou que mesmo assim “há fraude por parte dos próprios camelôs, que querem repassar o cadastro”. Reconheceu que muitas obras nesses terrenos adquiridos estão atrasadas, mas afirmou que elas terão continuidade assim que chegarem os recursos. “Sabemos que precisamos refazer muitas coisas, aprendemos com nossos erros”, observou.</p>
+<p>Após a intensa discussão e diante da troca de acusações entre comerciantes e o Secretário João Braga sobre a transparência do processo de cadastro dos/as ambulantes da Boa Vista, o vereador do PT disse que iria propor a criação de uma comissão na Câmara para acompanhar o caso. “Essa comissão vai investigar as denúncias feitas pelo Sindicato e por Braga de irregularidades tanto de um lado como de outro, além de acompanhar o processo de construção destes centros de comércio popular. Essa Comissão tem que ser formada por Vereadores, pela Gestão e por representações legítimas da categoria”, disse.</p>
+<p>“Pela primeira vez, em 25 anos, a Prefeitura do Recife montou, nesta gestão, um programa para atender o ambulante. Visitamos ruas, adquirimos terrenos para construção de shoppings populares, abrimos diálogo. Não há um só dia que eu mesmo não atenda a grupos de ambulantes”, disse João Braga, na sua fala.</p>
+<p>O secretário disse ainda que “jamais nenhum prefeito do Recife tratou o comércio ambulante de forma tão responsável e respeitosa nos últimos 25 anos”. Ele lembrou que foi secretário da gestão do prefeito Jarbas Vasconcelos, iniciada em 1986, quando foi dada atenção especial aos ambulantes, tendo construído o Camelódromo, Praça de Alimentação em frente ao Teatro do Parque, restauração da Mathias de Albuquerque, entre outras obras. Depois de Jarbas Vasconcelos, o prefeito João Paulo, segundo João Braga, reergueu o Mercado do Cordeiro e o prefeito João da Costa, requalificou o comércio informal em frente ao Hospital da Restauração.</p>
+<p>João Braga também exibiu slides mostrando o que o prefeito Geraldo Júlio vem fazendo em favor do comércio informal do centro do Recife. Ele disse que, para viabilizar a liberação das calçadas e melhorar a mobilidade dos pedestres, a Secretaria de Mobilidade e Controle Urbano do Recife, da qual é o titular, desapropriou terrenos e está reformando espaços que vão se tornar centros de comércio popular.</p>
+<p>Relacionou que entre esses estão dois terrenos na Boa Vista (Rua Sete de Setembro e Rua da Saudade) e um terreno nas seguintes localidades: Águia Fria, Afogados, Nova Descoberta, um anexo do Mercado de São José e requalificação do Cais de Santa Rita. Acrescentou que um outro terreno (hoje um estacionamento) está em fase de desapropriação nos fundos do Shopping Boa Vista.</p>
+<p>A previsão é de que todos os ambulantes cadastrados no centro sejam levados para os centros de comércio populares a partir deste ano.</p>
+<p>O secretário garantiu que mais dois terrenos serão desapropriados na Avenida Dantas Barreto, no centro da cidade, com previsão para 2016. “Ao todo, a Prefeitura do Recife já gastou R$ 12 milhões somente com aquisição de todos esses terrenos”, disse. Neles serão construídos cinco shoppings populares somente na Boa Vista, ao final da gestão (os dois da Boa Vista, além do da Rua Giriquiti e os dois da Dantas Barretos). O centro de comércio popular de Afogados, com 3.600 metros quadrados de terreno, será todo coberto. O Cais de Santa Rita, cujas obras consumiram R$ 4 milhões, será todo coberto e receberá obras de infraestrutura. Quando ficar pronto, terá Praça de Alimentação, feiras de frutas e verduras, alameda de serviços e estacionamento. “A obra atrasou por falta de recursos, mas entregaremos ainda este ano”. Disse.</p>
+{% endraw %}

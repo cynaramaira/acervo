@@ -1,0 +1,29 @@
+---
+id: 12495346
+date: "2015-03-17T09:06:49Z"
+last_modified_at: null
+tags:
+  - "mensagem"
+  - "naomi-campbell"
+categories:
+  - "opiniao"
+title: "A mensagem n\u00e3o chegou"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/03/Presidenta-Dilma-Rousseff-durante-cerimonia-de-Sancao-do-Codigo-de-Processo-Civil-foto-Roberto-Stuckert-Filho-PR_-2.jpg"><img class="size-medium wp-image-124261" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/03/Presidenta-Dilma-Rousseff-durante-cerimonia-de-Sancao-do-Codigo-de-Processo-Civil-foto-Roberto-Stuckert-Filho-PR_-2-580x327.jpg" alt="Primeiro pronunciamento de Dilma após protestos contra governo federal. Foto: Ricardo Stuckert/Fotos Públicos" width="580" height="327" /></a> Primeiro pronunciamento de Dilma após protestos contra governo federal. Foto: Ricardo Stuckert/Fotos Públicos</p>
+<p><p style="text-align: justify;">Por Miriam Leitão</p>
+<p>Coluna no jornla O Globo</p></p>
+<p><p style="text-align: justify;">Há um erro que o governo não pode cometer e está cometendo: subestimar a dimensão das manifestações contra a presidente Dilma Rousseff. No próprio domingo, dois ministros bateram cabeça. Ontem, a presidente falou sobre democracia para receber as palmas dos seus. Depois, em entrevista rápida, nada declarou que demonstrasse ter entendido o que está se passando no País.</p></p>
+<p><p style="text-align: justify;">Na entrevista, a presidente Dilma Rousseff disse: “Ah, vocês querem uma confissão de erro? Erramos no Fies. Demos o controle das matrículas para o setor privado”. Antes fosse apenas esse o erro do governo Dilma. Seria corrigido, e o País seguiria seu caminho. Foram muitos os erros dos últimos anos. Ontem, os procuradores do Ministério Público, em Curitiba, denunciaram 27 pessoas, entre elas o tesoureiro do Partido dos Trabalhadores (PT), João Vaccari. O procurador Deltan Dallagnol foi claríssimo ao explicar o esquema. Propinas pagas pelas empresas, que tinham negócios com a Petrobras, eram disfarçadas de doações legais ao Partido dos Trabalhadores. Segundo o procurador, Vaccari sabia a origem ilícita dos recursos. É disso que se trata. A maior empresa do país foi assaltada. O roubo levou ao enriquecimento ilícito de ex-dirigentes e, pelo mesmo canal, o partido do governo foi financiado.</p></p>
+<p><p style="text-align: justify;">Para Dilma, o erro do governo foi ter permitido que quem tirasse zero em português recebesse financiamento público. “Deixamos o setor privado controlar a matrícula, e isso está errado. Não pode tirar zero em Português”. É constrangedor. Um dia depois de avassaladoras manifestações populares, no dia exato em que o tesoureiro de seu partido foi denunciado pelo Ministério Público, quando tantos fatos graves abalam o País, a presidente tem a admitir um erro: o do Fies.</p></p>
+<p><p style="text-align: justify;">O governo errou na Petrobras durante anos e a levou a uma crise. A corrupção se alastrou pela empresa. A inflação está alta e subindo pelo efeito de políticas econômica e energética erradas no mandato passado. O Brasil está estagnado. Foi por isso que os brasileiros foram para as ruas no aniversário da redemocratização.</p></p>
+<p><p style="text-align: justify;">No domingo à noite, os ministros Miguel Rossetto e José Eduardo Cardozo apareceram na televisão meio confusos. Cardozo apresentou promessa requentada, a de uma reforma política e do pacote anticorrupção. Tudo o que fora dito em junho de 2013. Rossetto foi pior ao dizer que os manifestantes “não votaram na presidenta Dilma”.</p></p>
+<p><p style="text-align: justify;">Essa visão cria dois tipos de cidadãos: os de segunda classe são os que supostamente não votaram no governo. Mostrou que nada entendeu. Nem da mensagem das ruas, nem de democracia. Sequer entendeu um detalhe estatístico: a popularidade da presidente hoje é muito menor do que o percentual de votos que recebeu. Logo, entre os descontentes, há também quem votou na presidente.</p></p>
+<p><p style="text-align: justify;">A presidente disse que não deixou de pensar, ao ver as manifestações, que agora os brasileiros podem se expressar, e que valeu a pena lutar pela liberdade. Sim, quem viu o País sob ditadura valoriza ainda mais o direito de manifestação. Só não é dádiva de governo algum. Foi conquista. Árdua, dolorosa. E mesmo quem participou da luta democrática não é dono da vitória. A democracia pertence ao povo brasileiro.</p></p>
+<p><p style="text-align: justify;">Ela inclui o direito de a população se expressar, e o dever do governo de ouvir, se explicar, ser transparente, agir diante do que está sendo dito. A presidente Dilma conseguiu a proeza de enfrentar duas manifestações contrárias, ao mesmo tempo. Na sexta-feira, manifestantes foram às ruas para apoiar o governo. Alguns carregavam cartazes em que chamavam de “traição” as medidas que o governo tem tomado na economia. Ela tem que explicar aos seus eleitores que essas medidas são para corrigir os erros do primeiro mandato. Segundo o Datafolha, 63% dos que se manifestavam a favor do governo disseram que Dilma sabia dos escândalos da Petrobras.</p></p>
+<p><p style="text-align: justify;">A massa muito maior que foi domingo para as ruas protestou contra o governo Dilma e a corrupção. Dilma teria muito a dizer se enfrentasse a questão. Mas disse que “a corrupção não nasceu hoje. É uma senhora bastante idosa”. O problema é este: a velha senhora nunca pareceu tão forte, atuante e ardilosa. E ela é inaceitável. Foi este o recado das ruas.</p></p>
+{% endraw %}

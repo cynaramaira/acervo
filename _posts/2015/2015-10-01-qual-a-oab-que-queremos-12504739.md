@@ -1,0 +1,31 @@
+---
+id: 12504739
+date: "2015-10-01T16:09:27Z"
+last_modified_at: null
+tags:
+  - "homicidio-qualificado"
+categories:
+  - "noticias"
+title: "Qual a OAB que queremos?"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/10/Bruno-Baptista.jpg"
+---
+{% raw %}
+<p>Por Bruno Baptista</p>
+<p>Advogado e Diretor-Tesoureiro da OAB/PE</p>
+<p>A Ordem dos Advogados do Brasil é uma das instituições mais respeitadas do Brasil. Segundo pesquisa recente do Datafolha, mais de 70% da população brasileira confia na Ordem, índice só suplantado pelas Forças Armadas.</p>
+<p>A responsabilidade de quem faz voluntariado na Ordem é enorme. Devemos satisfação não só aos advogados, como a toda a população brasileira. Além da função regulatória da profissão, seja no acesso como no controle da ética e disciplina, a OAB tem atribuições de defesas das prerrogativas e também a de velar pela manutenção da legalidade e do regime democrático.</p>
+<p>A OAB-PE nunca fugiu dessas atribuições. Muito pelo contrário. Chegando o fim do triênio com a entidade comandada por Pedro Henrique Reynaldo Alves, cabe fazer o que fizemos durante todo o mandato que a advocacia nos confiou: prestar contas.</p>
+<p>No plano político-institucional, a OAB-PE, como legítima representante da sociedade civil pernambucana, não se omitiu em qualquer tema importante, sempre buscando preservar a democracia e a legalidade, sem partidarismos nem muito menos personalismo. Não se pode admitir o uso de uma das instituições mais respeitadas no país para uso político-partidário ou para satisfazer vinditas pessoais.</p>
+<p>No plano administrativo-financeiro, conseguimos colocar mais algumas pedras nessa construção coletiva, com o registro dos superávits nos exercícios de 2013 e 2014, a consecução da primeira Certidão Negativa de Débitos da OAB-PE dos últimos 30 anos, o atingimento do índice de adimplência de 74% no fim do ano de 2014 (com previsão de 80% ao cabo de 2015) e a implantação, desde o início da gestão, de um portal da transparência (www.oabpe.org.br/transparecia/) constando os balancetes mensais com as receitas apuradas e despesas realizadas, dentre outras conquistas.</p>
+<p>No plano da defesa das prerrogativas – eixo principal do nosso trabalho – fortalecemos o plantão das prerrogativas, instalando a comissão em local compatível e colocando veículo a disposição dos membros da comissão para atendimento aos colegas que tiverem as suas prerrogativas violadas. Desagravos públicos foram realizados e representações foram movidas, culminando inclusive com o afastamento, pela primeira vez no estado de Pernambuco, de um magistrado por desrespeito as prerrogativas dos advogados.</p>
+<p>A advocacia interiorana nunca teve a OAB-PE tão próxima. O Observatório da Justiça e a Caravana do Novo CPC rodaram todo o Estado, a primeira para auscultar a classe acerca das mazelas no Poder Judiciário e a segunda para levar aos colegas do interior os melhores professores do Recife para transmitir os efeitos da importante mudança legislativa, ambas com a presença de diretores, conselheiros, advogados e professores. Enquanto uns vão ao interior somente a cada três anos para pedir votos, a OAB-PE esteve presente de forma permanente.</p>
+<p>Quem efetivamente milita na advocacia sabe da importância de uma sala da OAB estruturada nos fóruns, juizados e presídios. Por isso, nos últimos três anos, mais de 50 salas foram construídas ou reformadas e entregues aos advogados pernambucanos. Tudo financiado com os recursos das anuidades dos advogados. A nova sede, compatível com a dignidade da advocacia pernambucana, está sendo reformada e será entregue em breve. Os advogados pernambucanos também têm à disposição um escritório virtual, localizado no Rio Mar Trade Center, com uma estrutura completa à sua disposição, pagando pelo serviço a partir de R$ 15,00 a hora.</p>
+<p>A Caixa de Assistência aos Advogados – CAAPE, presidida por Ronnie Duarte, cumpriu certamente o seu papel. Plano odontológico completo por R$ 30,00 por ano, consultas médicas gratuitas na capital e no interior, programa maternidade legal, ampliação de convênios com diversas empresas fornecendo descontos para os advogados foram algumas das conquistas desse triênio. Curioso é sofrer críticas por desempenhar o seu papel. E mais do que isso. Na atual gestão, a CAAPE alçou o nível de ajudar o advogado diretamente no exercício de sua atividade profissional, mantendo estacionamentos gratuitos em fóruns do Recife (Justiça Comum e do Trabalho) e no interior.</p>
+<p>Internamente, o Tribunal de Ética e Disciplina teve a sua estrutura – membros e colaboradores – triplicada. Importantes comissões, como a de combate ao exercício ilegal da profissão e contra a publicidade irregular, foram valorizadas por meio do trabalho incansável dos seus membros.</p>
+<p>Enfrentamos uma crise no Poder Judiciário. Comarcas no interior sem magistrados, processos tramitando durantes anos, processo judicial eletrônico sendo implantado de forma açodada. A crise atualmente na Justiça do Trabalho é a maior que já vi, com instalações precárias, pauta de audiências para dois anos. Prejuízo para o advogado e para o jurisdicionado. A OAB-PE sempre esteve atenta, sugerindo, cobrando soluções e partindo para o enfrentamento quando necessário.</p>
+<p>Existe uma tendência de personalizar as conquistas. Não é o caso da OAB de Pernambuco. Desde a gestão de Jayme Asfora existe um compromisso de prática de não-reeleição. Todos os avanços pertencem aos abnegados diretores, conselheiros, membros de comissão, funcionários e, em especial, aos mais de 30 mil advogados pernambucanos.</p>
+<p>Em anos eleitorais, a sensibilidade dos advogados – que quase sempre é muito latente – fica a flor da pele. Dom Helder Câmara dizia que “feliz de quem entende que é preciso mudar muito pra ser sempre o mesmo”. Acredito que esse é o grande mérito das gestões que se sucederam nos últimos três triênios na OAB-PE: a constante renovação seja de nome como de ideias. Mas alguns princípios permanecem intocados: a independência, a ética e o compromisso com a advocacia, essenciais para quem quer comandar os destinos de uma entidade como a Ordem dos Advogados do Brasil.</p>
+{% endraw %}

@@ -1,0 +1,22 @@
+---
+id: 12482479
+date: "2014-07-22T14:34:34Z"
+last_modified_at: null
+tags:
+  - "comissoes-permanentes"
+  - "estado"
+categories:
+  - "noticias"
+title: "Estado de exce\u00e7\u00e3o permanente"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p>Por Michel Zaidan Filho</p>
+<p>Há um consenso entre os especialistas em relações internacionais sobre o permanente estado de natureza (existente) entre os Estados Nacionais soberanos que constituem o sistema da ONU. E mais ainda, de que o fim do socialismo real e da ex-União Soviética produziu uma assimetria ainda maior no poder e na autonomia desses estados-membros. Existem nações que se submetem ao direito internacional e ao Tribunal Penal Internacional. Outros, não. E alegam que o "direito de sobrevivência" se sobrepõe a qualquer lei ou preceito jurídico internacional. Se vivêssemos num mundo governado pela "Paz Perpétua" - animada pela universalização das trocas entre as nações - como queria Kant, não haveria com que nos preocuparmos. Infelizmente, vivemos no pior dos mundos possíveis, onde as famigeradas "razões de Estado" justificam todo tipo de agressão, invasão, carnificina, genocídios e massacres de civis, haja vista a derrubada de um avião pelos separatistas ucranianos e a mortandade de vítimas civis palestinas pelas tropas israelenses. O Direito Internacional, o Tribunal Penal Internacional e a ONU não podem conviver com esse espetáculo de violação e desrespeito aos direitos humanos universais que ora presenciamos.</p>
+<p>Os alemães, do tempo de Hitler, criaram uma expressão chamada "lebenhause", que significa "espaço vital". As nações que unificaram ou foram criadas tardiamente, encontraram o mundo dividido entre as grandes potências coloniais (EUA, França, Inglaterra). Os países de desenvolvimento capitalista tardio tiveram que encontrar espaços para se expandir através da guerra e da expropriação territorial dos vizinhos. É o que acontece com a criação do Estado de Israel, em território palestino, rodeado de árabes por todos os lados. A decisão dos vitoriosos da 2a Grande Guerra - com um voto de minerva de um brasileiro - de assentar os judeus na Palestina, baseada na pretensão bíblica de que as terras pertencem por direito aos israelistas, provocou uma instabilidade permanente nas relações internacionais e no Oriente Médio. E aqui é preciso distinguir Judaísmo e Sionismo. O primeiro é uma cultura milenar de um povo que se julga escolhido por Deus. Já o segundo é um projeto político destinado à consolidação e expansão do poder dos judeus. É possível aceitar a existência do Judaísmo sem ser sionista. E há muitos judeus que combatem o sionismo como uma ideologia de Estado.</p>
+<p>0 que vem ocorrendo na Faixa de Gaza e na Cisjordânia e na Palestina como um todo é a concretização do projeto sionista em busca do "espaço vital". Além de ocuparem militarmente esses territórios e impedirem que os palestinos - moradores antigos da região - possam ter uma vida normal, os judeus sionistas resolveram invadir - com artilharia e força aérea pesada - a faixa de Gaza. Já mataram mais de 500 palestinos, muitos crianças, velhos e mulheres. Bombardearam hospitais, escolas, prédios públicos. E tudo isso como retaliação pela porte de três adolescentes judeus pretensamente assassinados por militantes palestinos. Naturalmente, tudo isso parece um mero pretexto para a agressão genocida ao povo palestino destinada a justificar a invasão e anexação ilegal dos territórios palestinos, onde fica o mar e outras fontes de água. A próxima escalada é o Líbano, onde se diz que o Hamas vem disparando mísseis que até agora mataram 20 judeus! Esta é uma equação sinistra. A morte de ninguém justifica tal massacre de inocentes e indefesos. Aplica-se aos palestinos a famosa frase da filósofa judia Hanna Arendt aplicou ao seu próprio povo: os palestinos não têm mais lugar na História, tornaram-se supérfluos e podem ser eliminados, pois ninguém se importa com eles.</p>
+<p>Como neto de "Sirio-libaneses", republicano e socialista, não posso deixar passar essa ignomínia praticada contra povos árabes indefesos e tutelados militarmente pelo Estado de Israel. Trata-se agora do "Shoan" dos palestinos e do repúdio da opinião pública internacional a essa carnificina ignóbil e desumana.</p>
+{% endraw %}

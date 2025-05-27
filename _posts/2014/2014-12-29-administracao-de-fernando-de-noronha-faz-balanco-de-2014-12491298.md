@@ -1,0 +1,34 @@
+---
+id: 12491298
+date: "2014-12-29T15:00:36Z"
+last_modified_at: null
+tags:
+  - "balanco"
+  - "fernando-noronha"
+categories:
+  - "noticias"
+title: "Administra\u00e7\u00e3o de Fernando de Noronha faz balan\u00e7o de 2014"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/12/bahia-dos-porcocs.jpg"
+---
+{% raw %}
+<p>Contabilizando a conclusão de várias obras, o administrador de Fernando de Noronha, Reginaldo Valença Júnior, fez nesta segunda um balanço do ano de 2014. Fernando de Noronha é um dos destinos mais cobiçados do país, com procura de mais de 60 mil turistas anualmente. Uma de suas praias, a baía do Sancho, foi escolhida a quarta melhor praia do mundo, de acordo com votação de viajantes.</p>
+<p>Em novembro deste ano, começou a operar em Fernando de Noronha a aeronave da Azul dedicada exclusivamente ao serviço de carga. O modelo escolhido para realizar os voos cargueiros é um turboélice ATR 72-500, com capacidade para transportar cerca de seis toneladas. Os voos de carga são realizados aos sábados entre Recife e Noronha e deverão abastecer a ilha com suprimentos e cargas em geral.</p>
+<p>Outro importante serviço que obteve melhorias este ano foi o abastecimento de GLP (gás de cozinha), que teve aumento de 37,5% na oferta do produto, com custo de frete reduzido. Até julho, eram enviados para Noronha 800 botijões de gás por mês. Desde o início de agosto, um novo acordo com a empresa responsável pelo transporte possibilitou o envio de 1100 unidades mensalmente.</p>
+<p>"Nossa prioridade foi manter um modelo de gestão do governo, reduzindo custos e melhorando os serviços para a população", ressalta Valença Jr. A frequência das viagens que levam o GLP para Noronha também aumentaram. Antes eram apenas duas viagens por mês. Agora são três, ou seja, abastecimento de 10 em 10 dias.</p>
+<p>De acordo com Reginaldo Valença Jr., uma das grandes demandas da comunidade era a pavimentação da Rua Amaro Preto, na Floresta Velha. Em novembro tiveram início as obras de preparação e até o final de janeiro toda extensão da via (2.355,85 m²) estará concluída. Outra obra relevante foi o recapeamento da pista do Aeroporto Carlos Wilson, em Fernando de Noronha.</p>
+<p>Uma iniciativa para a mudança da matriz energética da ilha foi a instalação da 1ª Usina Solar fotovoltaica no arquipélago. Situada no Comando da Aeronáutica, em um terreno de 5.000 m², a Usina Solar Noronha I tem potência instalada de 400 kWp (quilowatt-pico).</p>
+<p>“Isso resulta na geração estimada de 600 MWh/ano, cerca de 4% do consumo da ilha e é composta por 1.644 painéis de silício policristalino” explica Reginaldo. “A utilização da radiação solar como fonte renovável de energia, reduzirá o consumo em cerca de 200 mil litros de óleo diesel por ano”, acrescenta.</p>
+<p>Na área da saúde, a Administração da Ilha promoveu a reestruturação e reforma do Hospital São Lucas – implantação de novas salas de cirurgias e de um bloco para funcionamento do laboratório, sala da diretoria, repouso médico e de enfermagem, copa, cozinha, vestiários, sala de reunião e abrigo para ambulância. Já na educação, de acordo com avaliação do IDEPE, a Escola Arquipélago (EREM) se encontra na 36ª posição entre as 945 escolas estaduais. Além disso, foi iniciada à primeira etapa da recuperação da quadra da Escola Arquipélago. A estrutura de ferro, que havia sido corroída pela ferrugem, foi removida. O valor destinado para o desmonte da estrutura está orçado em R$ 180 mil. Já a verba para as obras de reforma do espaço é de R$ 550 mil.</p>
+<p>O Noronha Digital também passou por ajustes, com a melhoria das instalações da rede sem fio (Wi-Fi) baseada nas frequências livres de 2.4 GHz e 5.8 GHz, para a distribuição de internet em grande extensão da ilha de Fernando de Noronha. De acordo com Reginaldo, a internet gratuita abrange 60 % da área de Preservação Ambiental.</p>
+<p>A Administração da Ilha promoveu o Recadastramento dos Moradores em 2014.</p>
+<p>“É através desse número que a Administração da ilha tem o controle populacional e a possibilidade de fazer investimentos na área de saúde, educação, moradia e diversas outras ações que supram as necessidades da comunidade noronhense. Por isso é fundamental a atualização dos números e cadastro” explica Reginaldo.</p>
+<p>Ações que visam à promoção da cidadania foram prioridade em 2014. Em parceria com o Instituto Tavares Buril - ITB, a Secretaria de Defesa Social - SDS, e a Administração da Ilha foram emitidas 320 carteiras de identidade. Entre elas também foram emitidos 2.560 fotos 3x4; 56 carteira de trabalho - CTPS (1ª e 2ª vias); 124 certidões de nascimento e 15 certidões de casamento. Assim como 250 pessoas atendidas no INSS (benefícios diversos).</p>
+<p>No final de 2014, ocorreu uma homenagem ao ex-governador Miguel Arraes. Tendo permanecido por onze meses como preso político no arquipélago pernambucano, durante o período da ditadura militar, o ex-governador recebeu uma homenagem no local. Localizada na Vila do Boldró, a Praça Miguel Arraes foi inaugurada no último dia 19. Arborizada e tendo uma grande gameleira como destaque, a Praça, de 1000m2, está localizada próximo ao local em que o político ficou preso durante o Golpe Militar de 64. Para lembrar sua imagem, foi erguida uma estátua representando o seu retorno à ilha, só que, desta vez, em libertação. Produzida em fibra de vidro, a escultura foi confeccionada pelo artista Alex Cisneiros. O local também abriga um totem contando a história do político em exílio na ilha.</p>
+<p>O transporte coletivo de Fernando de Noronha ganhou 3 novos ônibus acessíveis para pessoas com mobilidade reduzida. Tanto a população quanto os turistas foram beneficiados. Os veículos circulam na BR-363, fazendo a linha Porto de Santo Antônio/Sueste e o tempo de espera, que antes era em torno de uma hora, caiu para 20 minutos. A BR 363 obteve importante melhoria na sinalização das placas e pinturas das fachadas.</p>
+<p>O reaparelhamento das polícias de Noronha melhorou a ação do órgão na ilha. Os Bombeiros receberam o Fenix CCI-AP2, uma viatura de combate à fogo de última geração para garantir a segurança aeroportuária no arquipélago. O veículo é avaliado em R$ 1,5 milhão. A Polícia Militar agora circula com um veículo híbrido, o Toyota Prius, cedidos à Secretaria de Defesa Social, por meio de uma parceria com a empresa japonesa, está realizando o patrulhamento nas regiões do arquipélago.</p>
+<p>Reginaldo Valença Jr. comemora também a entrega de 20 bicicletas de carbono neutro com motor. As bikes são elétricas. As bicicletas têm 25,5 kg, velocidade máxima de 25 km/h e autonomia de 60 km e estão disponíveis nas praias do Boldró, Sueste e do Sancho. As bicicletas podem ser alugadas, para quem mora na ilha tem 30% de desconto.</p>
+<p>“Cumprimos com a nossa a missão”, disse Valença Jr.</p>
+{% endraw %}

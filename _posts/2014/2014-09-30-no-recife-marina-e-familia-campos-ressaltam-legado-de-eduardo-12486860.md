@@ -1,0 +1,41 @@
+---
+id: 12486860
+date: "2014-09-30T02:52:46Z"
+last_modified_at: null
+tags:
+  - "delegado"
+  - "eduardo"
+  - "familia"
+  - "joao-campos"
+  - "marina-lima"
+  - "recife"
+categories:
+  - "noticias"
+title: "No Recife, Marina e fam\u00edlia Campos ressaltam legado de Eduardo"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/marina1.jpg"><img class="size-medium wp-image-115799" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/marina1-580x435.jpg" alt="Foto: Reprodução do Facebook de Marina Silva" width="580" height="435" /></a> Foto: Reprodução do Facebook de Marina Silva</p>
+<p><p style="text-align: justify;">O discurso socialista em Pernambuco tem se baseado no "legado de Eduardo" desde agosto, quando o ex-governador de Pernambuco morreu vítima de acidente aéreo em plena campanha presidencial. Não poderia ser diferente, então, na noite desta segunda-feira (29), durante o comício com a candidata que o sucedeu na disputa pela presidência, Marina Silva (PSB), realizado no Cais da Alfândega, no Centro do Recife. Aliados, a própria postulante e um dos filhos de Eduardo Campos (PSB), João Campos, também filiado ao partido, arrancaram aplausos dos eleitores relembrando o papel de liderança política exercido por ele, além de ressaltar programas da sua gestão, como o Pacto pela Vida.</p></p>
+<p><p style="text-align: justify;">Embora o comício tenha sido marcado para as 20h, passava das 21h20 quando Marina Silva, Renata Campos, viúva de Eduardo, e os filhos dele - Maria Eduarda (22), João (20), Pedro (18) e José (9) - subiram ao palco montado à margem do Rio Capibaribe, interrompendo o discurso de Fernando Bezerra Coelho, candidato ao Senado pela Frente Popular, coligação encabeçada pelo PSB. "Aquele avião matou o maior líder de Pernambuco, mas não matou os sonhos de Eduardo", dizia o ex-ministro.</p></p>
+<p><p style="text-align: justify;"><img class="ngg_displayed_gallery mceItem" src="https://blogs.ne10.uol.com.br/jamildo/nextgen-attach_to_post/preview/id--115836" alt="" /></p></p>
+<p><p style="text-align: justify;"><em>Fotos: Ricardo Labastier/JC Imagem</em></p></p>
+<p><p style="text-align: justify;">Depois da euforia da militância, que lotava desde o Paço Alfândega até a Ponte Maurício de Nassau, apenas FBC ficou discursando - em um momento, chamou a candidata a presidente, mas ela conversava com candidatos que estavam no palanque. Renata ficou abraçada ao pequeno José e recebeu cumprimentos do candidato a vice na chapa, Beto Albuquerque (PSB).</p></p>
+<p><p style="text-align: justify;">João aguardava, aparentemente ansioso, o seu momento de falar, quando discursaria pela primeira vez no Recife. O jovem mexia as pernas e combinou detalhes do que iria falar com a mãe.</p></p>
+<p><p style="text-align: justify;">"Os brasileiros não choraram apenas pelo líder que precocemente nos deixou. O povo brasileiro chorou pelo futuro", disse, assim que assumiu a palavra. Em seguida, os eleitores repetiram o grito que marcou o velório e o enterro do ex-governador: "Eduardo, guerreiro do povo brasileiro!". João ainda lembrou o bisavô, Miguel Arraes, antes de pedir votos para os candidatos majoritários em Pernambuco.</p></p>
+<p><p style="text-align: justify;">"Fico feliz de ver que o meu pai se transformou no que ele acreditava, nos seus sonhos", afirmou João. Mantendo o sentimento de comoção gerado em torno da sua família, disse: "Sou apenas um jovem, mas aprendi com meu pai e minha mãe. Na vida, a gente precisa ter força e ter coragem."</p></p>
+<p><p style="text-align: justify;">João concluiu sua fala com o que o seu pai costumava dizer: "É paz, amor e vitória!". O jovem abraçou os aliados e a família. Com um gesto usando o polegar, Renata aprovou o discurso do filho.</p></p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/Marina-Recife.jpg"><img class="size-full wp-image-115800" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/Marina-Recife.jpg" alt="Foto: Amanda Miranda/NE10" width="580" height="433" /></a> Foto: Amanda Miranda/NE10</p>
+<p><p style="text-align: justify;">O governador João Lyra (PSB) e Marina Silva também parabenizaram o herdeiro de Eduardo pelas palavras. "Com certeza, João, você tem futuro neste Estado e neste País", preconizou Lyra.</p></p>
+<p><p style="text-align: justify;">O prefeito do Recife, Geraldo Julio (PSB), assim como Paulo Câmara (PSB), foi indicado por Eduardo após participar do seu governo como secretário. Nesta segunda, fez críticas aos ataques dos adversários a Marina Silva, mas deu as próprias alfinetadas nos opositores pernambucanos. Geraldo Julio retomou o discurso do "gosto ruim", afirmando que Pernambuco tem dois senadores que têm essa atitude em relação aos projetos socialistas, referindo-se a Humberto Costa (PT) e Armando Monteiro (PTB). "Um só sabe 'botar gosto ruim' no meu trabalho no Recife e o outro vai perder para Paulo", disse. Sabe o que o candidato da oposição está querendo fazer? Jogar fora todas as conquistas", acrescentou, sobre o petebista - usando, assim, o mesmo 'discurso do medo' que o PSB critica no PT.</p></p>
+<p><p style="text-align: justify;">Antes de Marina, que discursou por mais de meia hora, Beto Albuquerque teve espaço para ressaltar o legado do amigo Eduardo e, principalmente, de atacar a presidente Dilma Rousseff (PT). "Vocês chegaram a acordar a Dilma com essa força. Ela já estava dormindo, acreditando nas pesquisas. Ela acha que pesquisa ganha eleição", afirmou. "Vocês estão vendo o tom de baixaria que aqueles que querem passar a vida inteira no poder estão fazendo com a Marina."</p></p>
+<p><p style="text-align: justify;">O gaúcho ainda trouxe o discurso para Pernambuco, chamando de "mistura de alhos e bugalhos de usineiro e petistas" a chapa adversária.</p></p>
+<p><p style="text-align: justify;">Mesmo sendo o candidato no Estado, Paulo Câmara (PSB) perdeu o protagonismo no comício com a chapa nacional. Repetiu o discurso da campanha inteira, citando a nova política e ações tomadas nas duas gestões de Eduardo. "Sonhos e ideais de Eduardo são meus sonhos e ideais", afirmou, seguindo a estratégia dos aliados.</p></p>
+<p><p style="text-align: justify;">A última foi Marina Silva, que assumiu a palavra com o frevo "Madeira que cupim não rói", tocado nas campanhas do ex-governador. Marina se disse um "bicho de perna curta", que tem que intensificar o ritmo de campanha para compensar os quase 10 minutos a menos que tem no guia eleitoral em relação a Dilma Rousseff. Apesar de reclamar das críticas que recebe dos adversários, consideradas por ela "calúnias", alfinetou a petista por ter em seu palanque políticos como Fernando Collor (PTB) e Renan Calheiros (PMDB). A socialista citou Nelson Mandela, Gandhi e Martin Luther King para dizer que manterá a "tranquilidade" na campanha.</p></p>
+<p><p style="text-align: justify;">Criticada por ser evangélica, Marina tentou responder. "Ninguém nunca me viu instrumentalizando a minha fé", afirmou. A candidata disse defender os direitos humanos e argumentou que o Estado é laico, o que, segundo ela, garante a liberdade dos que têm fé de manifestá-la e também o contrário.</p></p>
+<p><p style="text-align: justify;">Como sempre tem feito, a socialista apontou a polarização entre PT e PSDB e foi aplaudida ao dizer: "Chegou a hora da onça beber água!".</p></p>
+<p><p style="text-align: justify;">A candidata ainda não havia chegado quando o evento começou. O primeiro a falar foi o candidato a vice de Paulo Câmara, Raul Henry (PMDB). Com a voz rouca, ele lembrou Eduardo, que chama "grande líder", e atacou adversários. "(Paulo) não foi criado na mordomia, no terraço da casa grande da usina", alfinetou Armando Monteiro Neto (PTB). Em relação ao lado exótico de João Paulo (PT), afirmou: "(Fernando Bezerra Coelho) não vai fazer vergonha a Pernambuco falando besteira por aí."</p></p>
+{% endraw %}

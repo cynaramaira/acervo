@@ -1,0 +1,45 @@
+---
+id: 12494429
+date: "2015-03-02T16:00:45Z"
+last_modified_at: null
+tags:
+  - "armando-monteiro"
+  - "defesa"
+  - "dilma"
+  - "naomi-campbell"
+  - "neto"
+  - "reajuste"
+categories:
+  - "noticias"
+title: "Armando Monteiro Neto sai em defesa de Dilma. N\u00e3o existe ajuste indolor"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/02/Armando-Joaquim-Levy-e-Robson-Braga.jpg"
+---
+{% raw %}
+<p>Na Revista Época</p>
+<p>O ministro do Desenvolvimento, Indústria e Comércio Exterior, Armando Monteiro Neto, é um "dilmista light". Ele defende a abertura comercial e a retomada das reformas estruturais, como a tributária e a da Previdência, abandonadas pelo governo. Ex-presidente da Confederação Nacional da Indústria (CNI) e senador licenciado pelo PTB, o pernambucano Monteiro Neto, de 63 anos, está preparando um pacote de medidas de estímulo à exportação, que deverá ser anunciado em meados de março. Nesta entrevista a ÉPOCA, ele fala sobre os custos do ajuste fiscal, a abertura da economia e o impacto do petrolão nos negócios.</p>
+<p>ÉPOCA - O Brasil passa por uma das piores crises econômicas e políticas desde a redemocratização. Enquanto a Europa, os EUA e outros países estão voltando a crescer, o Brasil está patinando. Qual é sua visão sobre a crise?</p>
+<p>Armando Monteiro Neto - Eu não diria que o Brasil vive uma crise econômica dessa magnitude. A crise atual é diferente das anteriores. No passado, elas estavam associadas ao processo de descontrole inflacionário, de grande instabilidade macroeconômica e de tensões sociais e políticas. Hoje, paradoxalmente, temos um regime quase de pleno emprego, um ambiente institucional de normalidade e não passamos por uma crise externa aguda. Agora, não podemos deixar de reconhecer que o Brasil foi acumulando problemas e adiando as reformas estruturais. Nos últimos dez, 12 anos, tivemos um bônus que nos foi dado pela conjuntura internacional. Ela permitiu ganhos extraordinários no intercâmbio comercial. Tivemos também um processo de ampliação do mercado doméstico em decorrência de políticas sociais bem-sucedidas e de um processo de redistribuição de renda. Mas esses anos de bonança diminuíram o ímpeto reformista do Brasil. Ficamos numa situação relativamente cômoda e adiamos as reformas que deveríamos ter promovido nesse período.</p>
+<p>ÉPOCA - A que reformas exatamente o senhor se refere?</p>
+<p>Monteiro Neto - Talvez a mais importante seja a reforma tributária. Um novo pacto federativo deveria ter sido desenhado, para redefinir encargos e a partição da renda entre os entes da Federação. Nosso ambiente na área das relações trabalhistas também já poderia ter sido modernizado, sem colocar em xeque os direitos dos trabalhadores. Na Previdência, deveríamos ter feito uma nova geração de reformas. Se o Brasil não retomar firmemente uma agenda pró-reforma, pró-competitividade, estará condenado a crescer pouco, mesmo quando alcançarmos o reequilíbrio macroeconômico.</p>
+<p>ÉPOCA - O senhor fala de forma crítica sobre as reformas não realizadas pelos governos do PT, mas hoje é ministro do governo Dilma. Como isso se combina?</p>
+<p>Monteiro Neto - Quando falo que as reformas não foram feitas, endereço essas críticas à sociedade, ao Congresso, onde eu estive até o ano passado. Esse ímpeto reformista faltou à sociedade, que não se compenetrou naquele momento de que isso era necessário. Os tempos eram bons, a economia crescia, o emprego se expandia.</p>
+<p>ÉPOCA - O governo não deveria ter aproveitado os tempos de bonança para se preparar para os tempos de vacas magras?</p>
+<p>Monteiro Neto - Não discordo de você. A gente tem de aproveitar os tempos de bonança. Até porque as reformas têm um custo e você pode reduzi-lo quando as coisas vão bem. Mas, no Brasil, as reformas têm sido sempre fruto das crises. É quando a sociedade se mobiliza.</p>
+<p>ÉPOCA - O ajuste fiscal anunciado pelo ministro Joaquim Levy inclui aumento de tributos. Por que o setor privado e a população têm de pagar essa conta, se ela é decorrente da gastança feita no primeiro governo Dilma?</p>
+<p>Monteiro Neto - Um processo de ajuste fiscal como o que está em curso envolve custos. Não há como fazer um ajuste indolor. Não há essa fórmula no receituário econômico. A arte é fazer o ajuste com o menor custo possível. Reconheço que uma parte está sendo suportada pelo setor privado, mas acredito que os custos apresentados até agora são razoáveis, do ponto de vista do interesse do país.</p>
+<p>ÉPOCA - O governo tem de fazer um ajuste fiscal porque gastou mais do que podia. Se fosse uma empresa ou um consumidor, já teria perdido o crédito. Quando o governo gasta demais, nós é que pagamos a conta?</p>
+<p>Monteiro Neto - É verdade, mas normalmente as pessoas só registram o momento em que são chamadas a pagar uma parte da conta. Não registram os bônus e as medidas favoráveis quando a conjuntura permitiu. São ciclos. A vida econômica é marcada por ciclos expansivos e ciclos de contração, como o que estamos vivendo agora. É um período de ajuste transitório. Estou certo de que logo, logo vai dar resultados expressivos, sobretudo em relação às expectativas. Na economia, como alguém já disse muito bem, as expectativas às vezes são mais importantes que os fatos.</p>
+<p>ÉPOCA - Para retomar os investimentos, o governo tem de recuperar a confiança dos empresários. Em sua opinião, a presidente Dilma não deveria reconhecer os erros na economia, que levaram o país a fazer esse ajuste tão duro?</p>
+<p>Monteiro Neto - Essa cobrança é feita mais no ambiente político. É um pouco ainda o rescaldo do processo eleitoral. Admissão de erros, uma espécie de autopenitência, não gosto disso. O que a população e os agentes econômicos esperam? Que isso se traduza na adoção de medidas que estejam na direção correta. Esse é um sinal fundamental. A cada tempo um desafio. A presidente Dilma dá sinais muito claros de que quer ampliar a interlocução com os empresários e fazer um programa de investimento em parceria com o setor privado. Ela também tem um compromisso firme com a busca do reequilíbrio macroeconômico.</p>
+<p>ÉPOCA - Muitos eleitores de Dilma estão descontentes com isso, porque não foi o que ela prometeu na campanha...</p>
+<p>Monteiro Neto - O estadista é aquele que encara a impopularidade circunstancialmente. O governo não é um campeonato de popularidade em que você fica sempre na situação de ter de preservar a qualquer custo determinados ganhos que não são sustentáveis. O compromisso do governo é dizer "eu posso até assumir medidas onerosas, mas estou fazendo isso porque vamos inaugurar um novo ciclo de crescimento, preservando algumas conquistas".</p>
+<p>ÉPOCA - O governo está preocupado com o impacto do petrolão na economia e com um eventual impedimento à participação em obras públicas das grandes empreiteiras envolvidas no caso. Como o senhor vê essa questão?</p>
+<p>Monteiro Neto - Há um dado de realidade. Não se pode deixar de registrar que o que está acontecendo com a Petrobras tem um efeito sobre as cadeias de suprimentos dado o peso extraordinário que a Petrobras tem na economia e na formação da taxa de investimento. Agora, estou certo de que, ao final, a Petrobras vai fortalecer seu modelo de governança e de gestão. Ela é e continuará a ser uma empresa importante, com grande capacidade de gerar resultados e de alavancar os investimentos. No curto prazo, essa situação impõe custos, mas, ao final, a Petrobras vai reencontrar sua vocação, porque tem quadros, capacidade técnica, estrutura e uma presença muito importante na logística.</p>
+<p>ÉPOCA - Nos últimos anos, o Brasil, que já era um dos países mais fechados do mundo, adotou uma série de medidas protecionistas. Isso não é um retrocesso? O senhor é a favor de uma maior abertura da economia brasileira?</p>
+<p>Monteiro Neto - Sou favorável a uma maior abertura. Quanto maior o grau de extroversão econômica, mais eficientes são as economias. Agora, ao mesmo tempo, reconheço que todos os países no mundo têm políticas industriais. A discussão é como fazê-las. Há setores em que o Brasil tem de desenvolver competência própria. É algo fundamental e estratégico. Há setores, porém, em que, se o Brasil fizer uma proteção indiscriminada, acabará por afetar a própria eficiência das cadeias produtivas. Nas plataformas manufatureiras mais eficientes, você usa também insumos e componentes importados. A análise da competitividade não se dá num segmento só da cadeia.</p>
+<p>ÉPOCA - Não dá para fazer política industrial sem protecionismo, sem intervenções artificiais no câmbio?</p>
+<p>Monteiro Neto - A política industrial que eu defendo não é um pacto com a proteção da ineficiência. Não deve ter viés protecionista a qualquer custo. O conceito dela é uma aliança que o setor privado tem de fazer com o setor público em prol da competitividade, que depende em grande medida do governo. Há questões de infraestrutura, de custos sistêmicos que não é o empresário que resolve. Eu não posso resolver o problema da logística dentro da minha empresa.</p>
+{% endraw %}

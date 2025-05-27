@@ -1,0 +1,30 @@
+---
+id: 12500984
+date: "2015-07-22T18:53:19Z"
+last_modified_at: null
+tags:
+  - "jaboatao"
+  - "naomi-campbell"
+  - "relatorio"
+categories:
+  - "noticias"
+title: "Relat\u00f3rio do TCE: Jaboat\u00e3o diz que n\u00e3o houve\u00a0irregularidades nos procedimentos administrativos"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;">A Prefeitura de Jaboatão dos Guararapes enviou uma nota ao <strong>Blog </strong>rebatendo a notícia <a href="https://blogs.ne10.uol.com.br/jamildo/2015/07/22/relatorio-do-tce-aponta-fraudes-em-licitacoes-da-area-de-educacao-em-jaboatao/" target="_blank">publicada mais cedo</a>, com base em relatório do Tribunal de Contas do Estado (TCE), que citava superfaturamento em licitações na cidade. De acordo com o relatório, referente ao exercício financeiro de 2010,  foram identificadas fraudes em licitações praticadas pela ex-secretária de educação Maria Mirtes Cordeiro. Em tom de esclarecimento, a prefeitura explica que não houve superfaturamento ou má utilização de recursos públicos.</p></p>
+<p><p style="text-align: justify;">De acordo com a prefeitura, na decisão do TCE não há apontamento para devolução<i> </i>de verbas aos cofres públicos. "No que se refere ao bloqueio de bens mencionado na notícia, (...) o Tribunal Regional Federal da 5ª Região, através do Desembargador Manoel Erhardt, determinou o desbloqueio, ao afirmar que na própria petição do Ministério Público, 'não se alega que os mesmos não foram prestados, ou foram superfaturados, ou houve malversação ou desvio dos valores destinados ao seu pagamento'. Diz ainda a decisão do Desembargador do TRF que 'não há como se caracterizar a lesão ao erário em sentido estrito'.</p></p>
+<p><p style="text-align: justify;"><em>Caro jornalista,</em></p></p>
+<p><p style="text-align: justify;"><em>Com relação a <a href="https://blogs.ne10.uol.com.br/jamildo/2015/07/22/relatorio-do-tce-aponta-fraudes-em-licitacoes-da-area-de-educacao-em-jaboatao/" target="_blank">notícia veiculada no Blog de Jamildo</a>, referente a supostas fraudes apontadas em relatório de auditoria do Tribunal de Contas do Estado (Exercício 2010), atribuídas à professora Mirtes Cordeiro, a Prefeitura de Jaboatão dos Guararapes traz os devidos esclarecimentos.</em></p></p>
+<p><p style="text-align: justify;"><em>Todos os anos os auditores do Tribunal de Contas analisam documentos dos municípios e do Estado, bem como de outros órgãos e entidades que utilizam recursos públicos, e emitem seus relatórios prévios. Sempre, pode-se dizer que, sem exceção, há apontamentos de irregularidades e recomendações de correções de rumo. A Administração Pública, em todos os seus níveis, é dirigida por pessoas, que por mais sérias e bem preparadas que sejam, erram. Por outro lado, muitas e muitas vezes, as conclusões dos relatórios de auditoria são refutadas por documentos que não constavam dos processos, ou por fatos e argumentos não verificados pelas equipes de auditoria, o que é absolutamente normal e natural. Aliás, faz parte da própria essência do trabalho de fiscalização, apontar os erros encontrados na documentação avaliada, sob a ótica de quem fiscaliza. Após a apresentação das defesas, pelos interessados, o Tribunal de Contas emite um primeiro julgamento, por uma de suas câmaras, decisão esta sujeita a recurso.</em></p></p>
+<p><p style="text-align: justify;"><em>No caso do Processo TC n° 1104331-3, o “relatório prévio” sugeria devolução de valores, por alegadas irregularidades em procedimentos administrativos. No entanto, quando do julgamento, em primeira instância, pela Segunda Câmara, o TCE, embora tenha considerado irregularidades de natureza formal, não determinou qualquer tipo de devolução de valores aos cofres públicos. Quando o Tribunal identifica prejuízo ao erário, determina que o responsável devolva o dinheiro. Neste caso, como fica claro no voto do relator, não há apontamento para devolução. Isto porque não houve, de fato, superfaturamento ou má utilização de recursos públicos.</em></p></p>
+<p><p style="text-align: justify;"><em>Em alguns trechos do voto o relator transcreve partes do relatório de auditoria, anterior à apresentação da defesa, razão pela qual uma leitura desavisada pode levar a uma conclusão que não se coaduna com o que realmente ficou decidido pelo Tribunal de Contas.</em></p></p>
+<p><p style="text-align: justify;"><em>Quanto aos pontos relacionados à alegação de irregularidades em procedimentos administrativos, o Tribunal de Contas, no momento oportuno, através de seu Colegiado Pleno, com a presença de todos os Conselheiros, avaliará e decidirá acerca do recurso interposto pela professora Mirtes Cordeiro, que está segura do seu provimento.</em></p></p>
+<p><p style="text-align: justify;"><em>Por fim, no que se refere ao bloqueio de bens mencionado na notícia, com base em ação que trata de prestação de serviços na época em que a professora Mirtes Cordeiro era Secretária de Educação, o Tribunal Regional Federal da 5ª Região, através do Desembargador Manoel Erhardt, determinou o desbloqueio, ao afirmar que na própria petição do Ministério Público, “não se alega que os mesmos não foram prestados, ou foram superfaturados, ou houve malversação ou desvio dos valores destinados ao seu pagamento". Diz ainda a decisão do Desembargador do TRF que “não há como se caracterizar a lesão ao erário em sentido estrito”. Este assunto, portanto, já foi devidamente esclarecido.</em></p></p>
+<p><p style="text-align: justify;"><em>A professora Mirtes Cordeiro, como sempre, enfrenta a questão de maneira respeitosa, com a tranqüilidade e serenidade de quem serve à Administração Pública e principalmente à população há mais de trinta e dois anos, sem nenhuma mácula que possa colocar em dúvida a sua responsabilidade e probidade no trato com os recursos públicos.</em></p></p>
+<p><p style="text-align: justify;"><em>Jaboatão dos Guararapes, 22 de Julho de 2015</em></p></p>
+<p><p style="text-align: justify;"><em>Prefeitura do Jaboatão dos Guararapes</em></p></p>
+{% endraw %}

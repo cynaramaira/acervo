@@ -1,0 +1,34 @@
+---
+id: 12484449
+date: "2014-08-20T19:31:43Z"
+last_modified_at: null
+tags:
+  - "alegoria"
+  - "lideranca-indigena"
+  - "paulo-camara"
+  - "processo"
+categories:
+  - "noticias"
+title: "\"A lideran\u00e7a do processo sou eu, mais do que nunca, agora\", diz Paulo C\u00e2mara"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/08/aluisio-moreira-4.jpg"><img class="size-full wp-image-113392" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/08/aluisio-moreira-4.jpg" alt="Paulo Câmara discursou para os militantes na Rua Duque de Caxias (Foto: Aluísio Moreira/Divulgação)" width="580" height="387" /></a> Paulo Câmara discursou para os militantes na Rua Duque de Caxias (Foto: Aluísio Moreira/Divulgação)</p>
+<p>Embora uma multidão da militância da Frente Popular tenha lotado ruas do Centro do Recife nesta quarta-feira (20), para a primeira caminhada do candidato a governador pela coligação, Paulo Câmara (PSB), após a morte do seu padrinho político Eduardo Campos (PSB), o ato de campanha também mostrou um pouco da inexperiência do postulante socialista nas disputas. Diante dos eleitores da maioria dos 21 partidos da aliança, Câmara às vezes parecia perdido. No fim das quase duas horas de caminhada, questionado sobre a articulação política entre as legendas sem o "grande líder", como Eduardo era chamado por eles, respondeu: "A liderança do processo sou eu, mais do que nunca, agora."</p>
+<p>"Eduardo era a nossa liderança nacional e agora eu assumo, com total liberdade, a liderança em Pernambuco. Vamos conversar com os partidos, como nós sempre conversamos, vamos estar unidos, como nós estamos, muito unidos e muito fortes, e vamos continuar o trabalho", afirmou Paulo Câmara.</p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/08/aluisio-moreira-2.jpg"><img class="size-full wp-image-113393" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/08/aluisio-moreira-2.jpg" alt="Paulo Câmara falou com comerciantes no no Centro (Foto: Aluísio Moreira/Divulgação)" width="580" height="423" /></a> Paulo Câmara falou com comerciantes no no Centro (Foto: Aluísio Moreira/Divulgação)</p>
+<p>A caminhada começou poucos minutos antes das 17h, com uma hora de atraso, e sem a participação da viúva de Eduardo, Renata Campos, e do candidato a senador na chapa, Fernando Bezerra Coelho (PSB), que estava na reunião da executiva nacional do partido para oficializar o nome de Marina Silva (PSB) à presidência, no lugar do ex-governador, e com o líder socialista na Câmara, Beto Albuquerque, como vice, chapa que deverá ser lançada em Pernambuco neste fim de semana. A respeito da ausência de Dona Renata, disse que ela estará na campanha, mas pediu para respeitar o momento de dor da família. Ainda não há definições sobre qual será o papel dela para tentar eleger Câmara.</p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/08/buraco.jpg"><img class="size-full wp-image-113391" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/08/buraco.jpg" alt="Buracos nas ruas eram risco para a militância" width="580" height="433" /></a> Buracos nas ruas eram risco para a militância (Foto: Amanda Miranda/Especial para o Blog de Jamildo)</p>
+<p>Desde o início do ato, o candidato foi recebido com alvoroço pelos eleitores. Mais experiente que o cabeça de chapa, o candidato a vice, Raul Henry (PMDB), tentava coordenar a corrida de obstáculos que se tornou atravessar a rua, tarefa comum nas caminhadas de políticos em período de campanha. Quase literalmente uma corrida, já que o começo foi muito rápido, embora os assessores gritassem uns para os outros para diminuir o ritmo da militância. "Paulo, não se preocupe com o tempo", disse um deles. "Assim eu não consigo ver", afirmou o postulante a outro.</p>
+<p>Entre os militantes, os jingles, slogans e as palavras de ordem eram todos para os candidatos proporcionais. Pouco se ouvia o nome de Paulo Câmara.</p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/08/aluisio-moreira-3.jpg"><img class="size-full wp-image-113394" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/08/aluisio-moreira-3.jpg" alt="O candidato estava com os das chapas proporcionais (Foto: Aluísio Moreira/Divulgação)" width="580" height="273" /></a> O candidato estava com os das chapas proporcionais (Foto: Aluísio Moreira/Divulgação)</p>
+<p>Eduardo Campos era lembrado a todo momento, seja nos gritos dos eleitores que pediam 'justiça' ou pelos assessores, estes frisando que Paulo era o candidato apoiado por ele. "Isso aí tudo e eu só me lembro mesmo do que se foi. Infelizmente", disse uma senhora que passava pela Rua Nova durante a caminhada.</p>
+<p>A dona de casa Érika Romão, 29 anos, moradora da Ilha de Deus, comunidade ribeirinha da Zona Sul do Recife, abraçou Câmara no meio da caminhada e pediu que ele fosse visitar a localidade durante a campanha. "O povo vai votar em quem der dinheiro, mas quem deu as casas na Ilha de Deus foi Eduardo", disse, referindo-se aos investimentos para a revitalização da área. O socialista chamou um dos assessores, que anotou o telefone da dona de casa em um santinho.</p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/08/lixo.jpg"><img class="size-full wp-image-113390" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/08/lixo.jpg" alt="Após a passagem da militância, ficou o lixo nas ruas do Centro do Recife" width="580" height="348" /></a> Após a passagem da militância, ficou o lixo nas ruas do Centro do Recife (Foto: Amanda Miranda/Especial para o Blog de Jamildo)</p>
+<p>Com Raul Henry, percorreu as ruas da Imperatriz, Nova e Duque de Caxias, onde terminou a caminhada. Os dois subiram no caixote que chamam 'tribuna 40' e discursaram à militância. Como era esperado, Raul Henry iniciou a sua fala citando Eduardo, afirmando que "é hora de bater no peito e honrar o legado e a história daquele que foi o maior líder."</p>
+<p>O clima era como se a campanha começasse com aquele ato - ou recomeçasse após a morte de Eduardo. Paulo Câmara também não deixou de citar o padrinho, dizendo que iniciaria a sua fala com o que o ex-governador diria: "Estou animado!". Foi interrompido pelos gritos que ecoaram no velório e no sepultamento de Campos, "Eduardo, guerreiro do povo brasileiro", e acabou puxando as palavras de ordem.</p>
+<p>"Tenho o compromisso de ser um governador melhor do que Eduardo foi porque ele preparou o Estado para isso", afirmou. Depois, prometeu políticas públicas para a saúde, a educação e as minorias. Para finalizar, disse "É só o começo hoje dessa caminhada para a vitória. 5 de abril. Muito obrigado. 5 de outubro. Muito obrigado!".</p>
+{% endraw %}

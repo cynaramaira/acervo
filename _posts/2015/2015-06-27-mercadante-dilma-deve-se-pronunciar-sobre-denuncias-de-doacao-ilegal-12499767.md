@@ -1,0 +1,39 @@
+---
+id: 12499767
+date: "2015-06-27T16:51:43Z"
+last_modified_at: null
+tags:
+  - "dilma"
+  - "doacao"
+  - "venda-ilegal"
+categories:
+  - "noticias"
+title: "Mercadante: Dilma deve se pronunciar sobre den\u00fancias de doa\u00e7\u00e3o ilegal"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/03/dilma-rousseff.jpg"><img class="size-medium wp-image-104553" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/03/dilma-rousseff-580x384.jpg" alt="Foto: Wilson Dias/ABR" width="580" height="384" /></a> Foto: Wilson Dias/ABR</p>
+<p><em>Com informações de agências</p>
+<p></em></p>
+<p>A presidente Dilma Rousseff escalou, neste sábado (27), os ministros Aloízio Mercadante (Casa Civil), José Eduardo Cardozo (Justiça) e Edinho Silva (Comunicação Social) para rebater as acusações sobre dinheiro ilegal para a sua campanha presidencial em 2014. A acusação foi feita em delação premiada pelo dono da UTC, Ricardo Pessoa, no âmbito da Operação Lava Jato, e homologada pelo Supremo Tribunal Federal (STF) na quinta-feira (25).  A última edição da Revista Veja traz uma reportagem na qual o empreiteiro teria delatado 18 políticos ou campanhas que supostamente teriam sido beneficiados com o dinheiro do esquema oriundo da corrupção da Petrobras. Mercadante e Edinho, que foi coordenador da campanha presidencial de Dilma, são citados.</p>
+<p>Os dois ministros deram entrevista coletiva nesta tarde, após reunião com a presidente Dilma Rousseff, que embarcou logo depois para os Estados Unidos. O ministro da Comunicação Social criticou o que chamou de "vazamento seletivo" de conteúdo de delação premiada. Já Mercadante disse que a presidente deve falar em breve com a imprensa sobre dinheiro de origem duvidosa que sua campanha eleitoral de 2014 teria recebido, de acordo com a mesma reportagem.</p>
+<p>Na reportagem, Ricardo Pessoa afirmou que doou oficialmente R$ 7,5 milhões à campanha de reeleição da presidente no ano passado por temer prejuízos em seus negócios com a Petrobras, caso não ajudasse o PT. A doação foi feita legalmente e ele disse que tratou da contribuição diretamente com o tesoureiro da campanha de Dilma, o atual ministro da Secom, Edinho Silva.</p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/06/11655087_694541154009508_151063001_n.jpg"><img class="alignnone size-full wp-image-128708" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/06/11655087_694541154009508_151063001_n.jpg" alt="11655087_694541154009508_151063001_n" width="690" height="518" /></a></p>
+<p><strong>VIAGEM - </strong>Após a reunião, a presidente embarcou para os EUA em viagem para atrair investidores para o Plano de Investimento em Logística, lançado este mês. O ministro da Casa Civil, AloÍzio Mercadante, iria acompanhar a presidente na viagem, mas cancelou sua participação na comitiva.</p>
+<p>Em entrevista coletiva concedida na tarde deste sábado, o ministro admitiu que desistiu de acompanhar a presidente Dilma para defender o governo das acusações. "Eu queria estar aqui, eu queria explicar todas as vezes que fosse necessário. Tenho como homem público obrigação de prestar esclarecimentos. Quem não deve não teme. Por isso também eu fiquei", disse.</p>
+<p><strong>PRESSÃO DO PT - </strong>O relato da delação de Pessoa diz que ele fez repasses ilegais à campanha de Mercadante, ao governo de São Paulo em 2010. De acordo com a prestação de contas apresentada pelo PT à Justiça Eleitoral em 2010, a UTC doou R$ 250 mil para a campanha do petista. O ministro da Casa Civil afirmou que todas as contribuições para sua campanha em 2010 foram feitas de acordo com a legislação eleitoral e estão registradas na prestação de contas entregue ao TSE.</p>
+<p>“De fato as empresas contribuíram com R$ 500 mil. R$ 250 mil foram doados no dia 29/7/2010 pela Constran e a outra metade pela UTC no dia 27/8/2010. É só entrar [na Justiça Eleitoral] e estão lá as duas doações, o que mostra que as duas contribuições foram legais, estão oficializadas, portanto não procede essa suspeição", disse Mercadante.</p>
+<p><b>"INDIGNADO" - </b>Também em entrevista coletiva, o ministro Edinho Silva (Secretaria de Comunicação Social) reagiu à delação de Ricardo Pessoa e disse que causa "indignação" a tentativa de criminalizar doações legais. Ele disse que não se calará diante de ataques sobre sua conduta como tesoureiro da campanha de Dilma Rousseff em 2014.</p>
+<p>"Faço questão de ser ouvido nos autos. Caso se confirme as mentiras divulgadas pela imprensa eu tomarei as medidas judiciais em defesa da minha honra." Questionado se o governo teme que as denúncias reacendam o debate de um impeachment, Silva respondeu: "Não há fundamento legal para isso. O que estamos enfrentando neste momento é o vazamento seletivo de uma delação premiada. Algo que precisa ser provado''. Ele disse que seu cargo está à disposição. "Quem contrata e quem exonera é a presidente Dilma." Silva voltou a dizer que as contas da campanha de Dilma foram auditadas e aprovadas pelo TSE.</p>
+<p><strong>IMPEACHMENT - </strong>Partidos de oposição pediram, neste sábado (27), o afastamento da presidente Dilma Rousseff devido ao vazamento do conteúdo da delação premiada do empreiteiro. O Planalto e o PT negam ter recebido dinheiro de forma irregular. “Se ela (Dilma) não pedir o afastamento e as apurações, estará, com seu silêncio e inércia, dando veracidade ao conteúdo da delação”, disse Rubens Bueno (PPS-PR).</p>
+<p>Já o líder do DEM no Senado, Ronaldo Caiado (GO), afirmou que as afirmações de Pessoa, dono da UTC, devem levar à abertura de um processo de impeachment contra Dilma. “Esse depoimento de Ricardo Pessoa é a prova que as campanhas de Dilma foram irrigadas com dinheiro roubado da Petrobras. Isso é motivo mais que suficiente para Dilma perder o mandato e para convocarmos novas eleições”, afirmou.</p>
+<p>Se Dilma sofrer um impeachment, quem assume é o vice, Michel Temer (PMDB-SP). Novas eleições só ocorrem se ambos, Dilma e Temer, forem impedidos. Se isso acontecer nos dois primeiros anos de mandato, há um novo pleito direto. Nos dois últimos, uma eleição indireta no Congresso. Em ambos os casos, o país é comandado interinamente pelo presidente da Câmara.</p>
+<p><strong>PETROBRAS - </strong>Ricardo Pessoa disse em sua delação, de acordo com reportagem da revista "Veja", que negociou o pagamento de R$ 5 milhões ao então senador Gim Argello (PTB-DF) para enterrar a CPI mista da Petrobras no ano passado.</p>
+<p>Argello foi vice-presidente da CPI e, segundo a revista, foi o porta-voz da negociação porque exercia influência sobre o presidente da CPI, então senador Vital do Rêgo (PMDB-PB), e o relator, deputado Marco Maia (PT-RS).</p>
+<p>Ainda de acordo com a "Veja", os recursos foram distribuídos entre eles por meio de doações oficiais. A CPI terminou sem ter convocado empreiteiros nem pedido o indiciamento deles. Gim Argello não retornou aos contatos da reportagem na manhã deste sábado (27). Na sexta (26), ele havia afirmado que as doações recebidas da UTC foram legais.</p>
+<p>Outro senador denunciado por Pessoa em sua delação foi o ex-presidente da República Fernando Collor (PTB-AL). Segundo a "Veja", Collor usou sua influência na BR Distribuidora, subsidiária da Petrobras, para pedir propina ao dono da UTC.</p>
+<p>Pessoa relatou ter pagado R$ 20 milhões ao senador, por intermédio do seu ex-ministro Pedro Paulo Leoni Ramos. Eles já são investigados em inquérito no Supremo Tribunal Federal no caso Lava Jato. A assessoria de Collor não atendeu aos contatos da reportagem.</p>
+{% endraw %}

@@ -1,0 +1,24 @@
+---
+id: 12473173
+date: "2014-02-11T14:50:39Z"
+last_modified_at: null
+tags:
+  - "empresas"
+  - "entrega"
+categories:
+  - "noticias"
+title: "MPT entrega recomenda\u00e7\u00e3o a empresas e autoridades ligadas \u00e0 desmobiliza\u00e7\u00e3o de Suape"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p>O fórum para Recolocação da Mão de Obra de Suape (Remos), realizou mais uma reunião, nesta terça-feira (28). Empresas ligadas à Refinaria Abreu e Lima, sindicatos patronal e laboral e representantes do poder público compareceram ao encontro, que aconteceu na sede da Superintendência Regional do Trabalho e Emprego (SRTE) em Pernambuco. Na ocasião, a procuradora do Trabalho Débora Tito Farias entregou notificação recomendatória (NR) a todos os envolvidos no processo de desmobilização da refinaria orientando-os acerca das etapas para o andamento legal das rescisões contratuais. Espera-se que, até 2015, cerca de 42 mil trabalhadores sejam dispensados das obras da refinaria. Mais da metade (58%) é mão-de-obra pernambucana.</p>
+<p>O teor das NR's variaram conforme as partes. Às empresas, as recomendações do MPT e da SRTE-PE giraram em torno da manutenção dos contratos de trabalho existentes e do compromisso de se encaminhar os trabalhadores dispensados a outros postos, ao sindicato obreiro da categoria ou aos Centros Municipais de Emprego. Para as empresas com mão-de-obra migrante, foi pontuada a necessidade de se garantir a manutenção do alojamento, alimentação e demais condições de saúde e segurança até o efetivo desligamento do funcionário em questão e a concessão das passagens para retorno, realizando os pagamentos correlatos no prazo legal. O documento também recomenda a realização do pagamento das verbas rescisórias dentro da legalidade, enviando relatório mensal ao MPT em que sejam discriminadas todas as etapas do processo, além do acompanhamento e monitoramento do desligamento de trabalhadores e pagamento das verbas rescisórias pelas empresas terceirizadas, determinando que as mesmas encaminhem os funcionários para possível recolocação no mercado de trabalho. Todas as 16 empresas contratadas pela Petrobrás para as obras da refinaria contratam o serviço de outras prestadoras.</p>
+<p>Para os municípios presentes, foi entregue notificação em que se orientava a criação das Centrais de Emprego, em parceria com os sindicatos patronal e laboral ligados a Suape, para as cidades sem agências do trabalho. Para tanto, foram marcadas audiências públicas para a discussão, cidade por cidade, das estratégias locais para criação, implementação e ampliação desses centros de orientação e capacitação dos trabalhadores. Os municípios de Cabo de Santo Agostinho, Escada, Ipojuca, Jaboatão dos Guararapes, Recife, Ribeirão e Sirinhaém já marcaram data, local e horário para as audiências. As demais serão marcadas e informadas por meio de ofício aos municípios que não enviaram representantes para a reunião desta terça.</p>
+<p>A Petrobrás S/A., empresa que detém a concessão das obras da Refinaria Abreu e Lima, também enviou representante. A empresa foi orientada em documento a apresentar, na próxima reunião do Remos, o projeto de desmobilização para os próximos dois anos, além de manter o acompanhamento das demissões junto às empresas a ela ligadas. Segundo a empresa, a recomendação já estão sendo seguidas.</p>
+<p>Na ocasião, o Governo do Estado entregou ao MPT e à SRTE-PE os dados atualizados dos trabalhadores e empresas, além de se colocar à disposição para contribuir e a participar dos debates, confirmando presença, inclusive, nas audiências com os municípios. Também ao Estado foi entregue notificação recomendatória que orientava o poder público a manter e ampliar o funcionamento das agências de trabalho, principalmente das regiões ao entorno de Suape, além da elaboração, implementação e alargamento das políticas públicas para o desenvolvimento do estado, tornando possível a criação de mais postos de trabalho e a absorção da mão-de-obra ociosa.</p>
+<p>“A NR é um conselho, uma orientação de como proceder frente a todos esses afastamentos. Nosso intuito primeiro é a manutenção dos postos de trabalho. As cláusulas do documento apresentam uma semente de algo que pode ser cobrado no futuro, não estamos multando ou acionando ninguém neste momento. O que não podíamos fazer era ficarmos sentados apenas esperando as denúncias chegarem”, disse a procuradora do Trabalho Débora Tito Farias. Os termos dos documentos foram elaborados com base nos dados fornecidos pelas empresas e órgãos na última reunião do Remos. Os auditores da SRTE-PE Carlos Asfora e Rafael Trigueiro, também participaram da organização do termo.</p>
+<p>A próxima reunião do Remos está marcada para o dia 27 de março, às 14h, na sede da Superintendência Regional do Trabalho e Emprego em Pernambuco (Av. Agamenon Magalhães, 2000).</p>
+{% endraw %}

@@ -1,0 +1,38 @@
+---
+id: 12497227
+date: "2015-04-23T16:40:04Z"
+last_modified_at: null
+tags:
+  - "critica"
+  - "governo"
+  - "greve"
+  - "professores"
+categories:
+  - "noticias"
+title: "Greve dos professores: Teresa Leit\u00e3o critica 'acirramento' e defende negocia\u00e7\u00f5es com o governo"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/01/teresa-leitao.jpg"><img class="wp-image-120993 size-full" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/01/teresa-leitao.jpg" alt="Foto: reprodução/Facebook" width="580" height="419" /></a> Foto: reprodução/Facebook</p>
+<p><p style="text-align: justify;">A deputada e presidente da Comissão de Educação e Cultura da Assembleia Legislativa, Teresa Leitão, na manhã desta quinta-feira (24), defendeu a abertura imediata de um canal de negociações entre os trabalhadores em educação, em greve desde o último dia 11 e o governo Paulo Câmara.</p></p>
+<p><p style="text-align: justify;">Não deu uma palavra sobre a postura do sindicato, que pune jovens com a interrupção das aulas. Pelo que se sabe, o governo não se nega a discutir os aumentos, desde que os professores voltem ao trabalho.</p></p>
+<p><p style="text-align: justify;">Como a data base da categoria é em junho, e o sindicato é controlado pela CUT, braço sindical do PT, cada diz fica mais claro a politização do movimento. Nesta sexta (24), uma nova assembleia deve ser realizada.</p></p>
+<p><p style="text-align: justify;">Na Alepe, a deputada pediu aos deputados da bancada do governo que façam gestões junto ao Executivo para garantir a abertura das negociações com os trabalhadores e lembrou que há uma semana a Comissão de Educação solicitou uma reunião com o governo com o propósito de mediar uma saída para greve, com a presença do líder na Casa deputado Waldemar Borges e da oposição, Silvio Costa Filho.</p></p>
+<p><p style="text-align: justify;">“Em apelo aos deputados do governo que deem valor à cadeira que ocupam nesta Casa, porque aqui estão por delegação do povo. Se essa comissão de parlamentares não for recebida pelo governo será um desrespeito à Casa. O poder Legislativa já se encontra enfraquecido perante a população e interessa ao governo desacreditá-lo ainda mais”, registrou.</p></p>
+<p><p style="text-align: justify;">Teresa destacou ainda o nível de acirramento que está existindo entre os parlamentares em relação à greve da educação, registrando que esse fato não é visto apenas na Casa.</p></p>
+<p><p style="text-align: justify;">“Tem ações praticadas por pares, colegas da assembleia em sua base territorial. Estão distorcendo posições de uma forma que eu nunca vi nesses 12 anos de Casa. Já enfrentamos situações muito mais sérias que esta e sempre nos respeitamos. Mas tem deputados usando os meios que tem, inclusive rádios, as concessões dadas a ele aleatoriamente, para distorcer o que aconteceu aqui. Como é que pode? Cada um assumiu uma posição em relação ao PL do governo, inclusive alguns se retiraram como posição política. Por que distorcer? “, protestou.</p></p>
+<p><p style="text-align: justify;">Em relação à greve dos trabalhadores em educação, a deputada disse que a tônica do movimento tem sido diferente de todas as outras paralisações.</p></p>
+<p><p style="text-align: justify;">“As chamadas escolas de referência decidiram participar. É sobre elas que a mão pesada do governo está atuando de maneira ilegal, desobedecendo o Estatuto do Magistério e fazendo transferência ex-ofício de quem dessas escolas de referência está participando da greve. Um número de 15 professores já foram arbitrariamente removidos e aí a gente fica achando interessante porque pelo Estatuto o professor só pode ser removido em duas situações: a pedido ou por especial interesse do serviço público. Eu pergunto: para um estado que já tem 17 mil contratos temporários, ao remover professor de uma escola que tem horário integral, onde é que está o bem do serviço público nisto? É mais uma lacuna que será criada”, concluiu.</p></p>
+<p><p style="text-align: justify;">A deputada pontuou que o governo precisa ter liderança e capacidade política de resolver os conflitos que se apresenta pra ele.</p></p>
+<p><p style="text-align: justify;">“Eu lamento que essa prática venha de um governo cuja maior liderança é um jovem, que pode não tem experiência, mas tem conhecimento suficiente pra saber o que é o regime militar. E que se elegeu dizendo que iria fazer a nova política em Pernambuco. Que tipo de nova política é essa? Governo forte não é intransigente e autoritário. Governo forte é que aquele que sabe exercer sua liderança para resolver os problemas que se apresentam e a greve da educação é um problema grave, que não vai ser resolvido com mão de ferro”, concluiu.</p></p>
+<p><p style="text-align: justify;">Deputados atacados pelas redes sociais</p></p>
+<p><p style="text-align: justify;">Em resposta às críticas, o deputado Tony Gel, do PMDB, disse que se houve radicalismo, é necessário investigar, porque essa não é, na sua visão, uma prática do Governo. Segundo ele, deve haver correntes no Sindicato que se contrapõem nesse processo, mas ressaltou que é preciso negociar e que o Executivo está disposto a isso.</p></p>
+<p><p style="text-align: justify;">Rodrigo Novaes, do PSD, afirmou que o Sintepe veiculou, nas redes sociais, material ofensivo a parlamentares governistas. Em sua opinião, essas informações estão distorcidas e os deputados da base teriam sido injustiçados. Ele ressaltou que é favorável à valorização profissional do magistério e se colocou à disposição para articular a negociação, caso os professores encerrem a greve.</p></p>
+<p><p style="text-align: justify;">O deputado Ângelo Ferreira, do PSB, considerou provocativo o pronunciamento de Teresa Leitão. Ele disse que não costuma se esconder para expressar suas opiniões e que há um serviço de informações da deputada em Sertânia. Para o parlamentar, a distorção das informações foi feita pelo Sintepe, ao divulgar cartazes denegrindo a imagem de deputados nas redes sociais.</p></p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/04/professores-protestos-1.jpg"><img class="wp-image-126139 size-medium" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/04/professores-protestos-1-580x435.jpg" alt="professores-protestos-1" width="580" height="435" /></a> Professores fizeram protesto nesta quinta-feira (23), em Timbaúba. Foto: Franco Benites/Jornal do Commercio.</p>
+<p><p style="text-align: justify;"><strong>BALANÇO DA GREVE </strong>- O levantamento realizado nesta quinta-feira (23), pela Secretaria Estadual de Educação, nas escolas da Rede aponta que 56% (586 escolas) não paralisaram as atividades, enquanto 37% (382 unidades) paralisaram parcialmente e 7% (77 escolas) aderiram totalmente à paralisação. Os números são referentes ao turno da manhã.</p></p>
+<p><p style="text-align: justify;">A Secretaria de Educação do Estado reforça a solicitação de que os pais e responsáveis encaminhem os estudantes para as escolas a fim de voltarem à normalidade das aulas. O Governo do Estado reitera o firme propósito de retomar o diálogo com o Sindicato dos Trabalhadores em Educação de Pernambuco (Sintepe), via mesa de negociação, assim que os profissionais retomarem as suas atividades nas escolas, com vistas a encontrar solução para o acordo coletivo dos profissionais da educação da Rede Estadual de Ensino.</p></p>
+{% endraw %}

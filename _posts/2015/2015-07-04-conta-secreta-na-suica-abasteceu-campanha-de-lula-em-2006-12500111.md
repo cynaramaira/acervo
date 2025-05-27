@@ -1,0 +1,29 @@
+---
+id: 12500111
+date: "2015-07-04T18:27:41Z"
+last_modified_at: null
+tags:
+  - "campanha"
+  - "lula"
+categories:
+  - "noticias"
+title: "Conta secreta na Su\u00ed\u00e7a abasteceu campanha de Lula em 2006"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/07/alx_lula-pt_original.jpeg"
+---
+{% raw %}
+<p>O documento abaixo reproduz a movimentação de uma conta secreta na Suíça aberta pelos empreiteiros para pagar propina. Segundo Ricardo Pessoa, foi dela que saíram 2,4 milhões de reais que reforçaram o caixa da campanha do ex-presidente Lula em 2006 - dinheiro desviado dos cofres da Petrobras que chegou ao Brasil em uma operação financeira totalmente clandestina e ilegal. O delator contou que a UTC, a Iesa, a Queiroz Galvão e a Camargo Corrêa formavam o consórcio que venceu a licitação para construir três plataformas de petróleo. Como era regra na estatal, um porcentual do contrato era obrigatoriamente reservado para subornos. A conta foi criada para o "pagamento de comissionamentos devidos a agentes públicos em razão das obras da Petrobras, ou seja, o pagamento de propinas", disse Pessoa. Ela também ajuda a dificultar o rastreamento de corruptos e corruptores. Foi dessa fonte clandestina que saiu o dinheiro que ajudou Lula a se reeleger.</p>
+<p><section class="info-img-articles"></p>
+<p><div><figure><img title="Relação de pagamentos Quadrix" src="https://msalx.veja.abril.com.br/2015/07/03/2136/alx_relacao-pagamentos-quadrix_original.jpeg?1435970187" alt="Relação de pagamentos Quadrix" /> <figcaption><span class="credito">(VEJA.com/VEJA)</span></figcaption></figure></div></p>
+<p></section>Para comprovar a existência da conta secreta, o empreiteiro apresentou ao Ministério Público extratos com as movimentações. Batizada de "Controle RJ 53 - US$", a planilha registra operações envolvendo 5 milhões de dólares em pagamentos de propina. Além de financiar o caixa dois de Lula, a conta suíça foi utilizada para pagar os operadores do PT na Petrobras. Entre as movimentações listadas pelo empreiteiro estão pagamentos ao ex-gerente de Serviços da Petrobras Pedro Barusco, um dos responsáveis pela coleta das propinas destinadas ao PT. Os repasses à campanha de Lula foram acertados entre Ricardo Pessoa e o então tesoureiro petista, José de Filippi. Era o próprio empreiteiro que levava os pacotes de dinheiro ao comitê da campanha em São Paulo. A entrega, como VEJA revelou em sua edição passada, era cercada de medidas de segurança típicas de organizações criminosas. Ao chegar à porta do comitê, o empreiteiro dizia a senha "tulipa". Se ele ouvia como resposta a palavra "caneco", seguia direto para a tesouraria. Se confirmados pela Justiça, os pagamentos via caixa dois são a primeira prova de que o ex-presi­dente Lula também foi beneficiado diretamente pelo petrolão.</p>
+<p><strong>As provas que Ricardo Pessoa entregou à Justiça</strong></p>
+<p>VEJA desta semana apresenta os documentos e planilhas em que o empreiteiro Ricardo Pessoa registrava as transações do petrolão – entre elas o dinheiro entregue à campanha de Dilma</p>
+<p>O engenheiro Ricardo Pessoa, dono da construtora UTC, é famoso por sua grande capacidade de organização - característica imprescindível para alguém que exercia uma função vital no chamado "clube do bilhão". Ele foi apontado pelos investigadores como o chefe do grupo que durante a última década operou o maior esquema de desvio de dinheiro público da história do país. O empreiteiro entregou à Justiça dezenas de planilhas com movimentações financeiras, manuscritos de reuniões e agendas que fazem do seu acordo de delação um dos mais contundentes e importantes da Operação Lava-Jato. O material constitui um verdadeiro inventário da corrupção. Em uma série de depoimentos aos investigadores do Ministério Público, Pessoa detalhou o que fez, viu e ouviu como personagem central do escândalo da Petrobras. Na sequência, apresentou os documentos que, segundo ele, provam tudo o que disse.</p>
+<p>??VEJA teve acesso ao arquivo do empreiteiro. Um dos alvos é a campanha de Dilma de 2014 e seu tesoureiro, Edinho Silva, o atual ministro da Comunicação Social. Segundo o delator, ele doou 7,5 milhões de reais à campanha depois de ser convencido por Edinho Silva. "O senhor tem obras no governo e na Petrobras, então o senhor tem que contribuir. O senhor quer continuar tendo?", disse o tesoureiro em uma reunião. O empreiteiro contou que não interpretou como ameaça, mas como uma "persuasão bastante elegante". Na dúvida, "para evitar entraves" nos seus negócios com a Petrobras, decidiu colaborar para que o "sistema vigente" continuasse funcionando - um achaque educado. Mas há outro complicador para Edinho: quem apareceu em nome dele para fechar os detalhes da "doação", segundo Pessoa, foi Manoel de Araujo Sobrinho, o atual chefe de gabinete do ministro. Em plena atividade eleitoral, Manoel se apresentava aos empresários como funcionário da Presidência da República. Era outro recado elegante para que o alvo da "persuasão" soubesse com quem realmente estava falando.</p>
+<p><section class="info-img-articles"></p>
+<p><div><figure><img title="Arquivo do delator" src="https://msalx.veja.abril.com.br/2015/07/03/2039/alx_arquivo-do-delator_original.jpeg?1435966777" alt="Arquivo do delator" /></p>
+<p><figcaption>O documento em que Ricardo Pessoa registrou a 'doação legal' à campanha de Dilma e os nomes do tesoureiro Edinho Silva e seu braço-direito Manoel de Araujo<span class="credito">(VEJA.com/VEJA)</span></figcaption></figure></div></p>
+<p></section></p>
+{% endraw %}

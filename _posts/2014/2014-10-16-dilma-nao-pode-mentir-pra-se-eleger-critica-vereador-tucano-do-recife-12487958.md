@@ -1,0 +1,31 @@
+---
+id: 12487958
+date: "2014-10-16T10:36:01Z"
+last_modified_at: null
+tags:
+  - "critica"
+  - "dilma"
+  - "naomi-campbell"
+  - "recife"
+  - "vereador"
+categories:
+  - "opiniao"
+title: "Dilma n\u00e3o pode mentir pra se eleger, critica vereador tucano do Recife"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/10/dilma.jpg"
+---
+{% raw %}
+<p><p style="text-align: justify;"><em>Dilma Rousseff durante o debate da Band. Foto: AFP</em></p></p>
+<p><p style="text-align: justify;">Por André Régis, vereador do Recife e ex-coordenador da campanha de Aécio Neves em Pernambuco</p></p>
+<p><p style="text-align: justify;">O grande problema do nosso déficit democrático é o assistencialismo. O governo federal, à época do presidente Fernando Henrique Cardoso, inovou para melhor e deu uma grande contribuição ao criar três grandes programas de transferência de renda para a população necessitada: o Bolsa Escola, o Auxílio Saúde e o Auxílio Gás.</p></p>
+<p><p style="text-align: justify;">Esses programas tiveram a virtude de não mais precisar de atravessador para que o beneficiário recebesse a renda. Através de transferência direta via cartão o cidadão em necessidade podia assim receber a assistência do estado. A partir do momento em que o governo Lula se instala, ele inicia o seu programa de assistência denominado Fome Zero. Esse programa utilizava a entrega de alimentos diretamente ao necessitado. Com o passar do tempo ficou caracterizada a inviabilidade do programa na medida em que o custo da entrega dos alimentos era bastante superior ao custo do alimento. Ante a inviabilidade do Fome Zero o governo Lula resolve encerrá-lo para adotar o que veio a ser o Bolsa Família que é a junção do Bolsa Escola, do Auxilio Saúde e do Vale Gás. Os três programas foram fundidos num único cadastro, àquela altura já com mais de 5 milhões de brasileiros em assistência, com a nova denominação de Bolsa Família com a expansão da oferta e a ampliação do valor.</p></p>
+<p><p style="text-align: justify;">Na noite da última terça-feira tivemos mais um debate presidencial com Aécio Neves e Dilma Rousseff em confronto frente a frente o futuro do Brasil. O que me causa espanto é a capacidade que a presidente da República tem de faltar com a verdade. Durante o debate e por mais de uma oportunidade Dilma Rousseff disse que o programa Bolsa Família não tem nada a ver com os programas criados durante o governo de FHC. Mas todos nós, inclusive o vereador Raul Jungmann que foi ministro da Reforma Agrária na gestão de FHC, nos lembramos das leis que criaram o Bolsa Escola, o Vale Gás e também o Auxílio Saúde.</p></p>
+<p><p style="text-align: justify;">Eu vou citar aqui, para desmentir a presidência da República o caput da lei 10836 de 09 de Janeiro de 2004 cujo teor é o seguinte: Ementa – cria o Programa Bolsa Família e dá outras providências: Lei 10836/2004 – O Presidente da República faço saber, que o Congresso Nacional decreta e eu sanciono a seguinte Lei: Artigo 1 fica criado no âmbito da Presidência da República o Programa Bolsa Família destinado às ações de transferência de renda com condicionalidades. Parágrafo Único: o programa de que trata o caput tem como finalidade a unificação dos procedimentos de gestão e execução das ações de transferência de renda do governo federal especialmente as do Programa Nacional de Renda Mínima vinculado à Educação – Bolsa Escola. Instituído pela Lei número 10219 de 11 de Abril de 2001, do Programa Nacional De Acesso à Alimentação (PNAA) criado pela Lei 10689, de 13 de Junho de 2003, do Programa Nacional de Renda Mínima vinculado à Saúde – Bolsa Alimentação, instituído pela Medida provisória 2206 de 06 de setembro de 2001, do Programa Auxílio Gás, instituído pelo Decreto 4102 de 24 de Janeiro de 2002 e do Cadastro Único do Governo Federal instituído pelo Decreto 3877 de 24 de julho de 2001. O cadastro único é o que possibilitou o bolsa família.</p></p>
+<p><p style="text-align: justify;">É muito grave quando nos temos uma chefe de estado, numa disputa presidencial, com a capacidade de mentir para tentar ganhar uma eleição. É inadmissível e extremamente grave. Mentir é feio para qualquer pessoa. Mentir, sendo a presidente da República é inaceitável. Nos EUA o presidente Bill Clinton, em virtude de questões relacionadas à sua vida privada no ofício da presidência quase perde o cargo num processo de impeachment porque havia o entendimento de suspeita de que ele havia mentido.</p></p>
+<p><p style="text-align: justify;">O presidente da República não pode mentir. Não pode abertamente e descadaramente utilizar de recursos dessa natureza para ganhar um novo mandato numa disputa que o desqualifica para as funções de chefe de estado. As funções de chefe de estado são aquelas que podem levar inclusive o país à guerra, que podem levar o país à decretação de estado de sítio.</p></p>
+<p><p style="text-align: justify;">A palavra do presidente da República não poder ser utilizada de forma irresponsável. Isso é algo com que qualquer democrata deve se preocupar.</p></p>
+<p><p style="text-align: justify;">Estamos acompanhando o vale tudo nessa campanha presidencial. Não existem mais propostas dos adversários. Existe a tentativa de desqualificação para a perpetuação de um partido no poder. Felizmente a nossa força também é grande bem como é grande a nossa capacidade de resistência. Nós temos o melhor candidato para enfrentar as adversidades causadas pelo desgoverno do partido dos trabalhadores. O Brasil não aguenta mais não crescer. Não aguenta mais essa carga tributária que confisca os recursos do trabalhador.</p></p>
+<p><p style="text-align: justify;">O Brasil não aceita mais conviver com esta economia que não cresce, que produz desemprego que causa problemas sérios à renda do trabalhador e à empregabilidade. Nesse sentido é muito importante que a gente faça uma devida reflexão: essa era da vergonha e do despudor precisa ter fim. O presidente da República não pode mentir como a presidente Dilma Rousseff o fez.</p></p>
+{% endraw %}

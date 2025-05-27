@@ -1,0 +1,29 @@
+---
+id: 12476555
+date: "2014-03-25T09:01:09Z"
+last_modified_at: null
+tags:
+  - "eduardo"
+  - "naomi-campbell"
+categories:
+  - "noticias"
+title: "Eduardo j\u00e1 n\u00e3o domina mais todas as pe\u00e7as do tabuleiro"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;"><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/03/noelia.jpg"><img class="alignnone size-medium wp-image-104664" alt="noelia" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/03/noelia-580x507.jpg" width="580" height="507" /></a></p></p>
+<p><p style="text-align: justify;">Por Noelia Brito, especial para o Blog</p></p>
+<p><p style="text-align: justify;">No último final de semana, o Partido dos Trabalhadores decidiu, por votação de seus delegados, reunidos em Encontro Estadual, num hotel em Boa Viagem, que o PT não lançaria candidatura própria para a sucessão de Eduardo Campos, passando a apoiar a candidatura do petebista Armando Monteiro, pois, como Eduardo está em plena campanha para apear a petista Dilma Rousseff da presidência da República, em parceria com o tucano Aécio Neves, a prioridade dos petistas deve ser fortalecer o palanque dela no Estado, o que, no entender da maioria dos partidários de Dilma, aqui, em Pernambuco, não se conseguiria com uma candidatura própria, que vinha sendo defendida, principalmente, pelos aliados que o próprio Eduardo Campos ainda mantém dentro do PT, como é o caso do presidente do partido no Recife, Oscar Barreto e do ex-secretário de Habitação do socialista Geraldo Júlio, Eduardo Granja.</p></p>
+<p><p style="text-align: justify;">Os dois, aliás, prometeram recorrer da decisão à Direção Nacional. Mero jogo de cena para afagar Eduardo Campos, já que a decisão tomada pela maioria dos delegados do PT, agradou em cheio a cúpula petista que já esperava esse alinhamento do PT com a candidatura de Armando Monteiro, no plano local.</p></p>
+<p><p style="text-align: justify;">Com o PT ficará a vaga para o senado, o que revela duas estratégias do partido para as próximas eleições: a primeira é o fortalecimento da presença da legenda no parlamento, diminuindo, assim, a dependência do governo central, acaso reeleito, às chantagens da base aliada, mediante a ampliação da própria base. Por outro lado, do ponto de vista da estratégia eleitoral local, o nome praticamente certo para a vaga ao senado é o do deputado federal e ex-prefeito do Recife, João Paulo, considerado um campeão de votos e, portanto, o nome mais forte da legenda para disputar qualquer cargo majoritário. Por certo que João Paulo não trocaria uma reeleição segura para a Câmara Federal se não tivesse em mãos algumas garantias de que sua situação, na disputa contra Fernando Bezerra Coelho, terá vários componentes que o favoreçam, além da própria facilidade pessoal de conquistar votos. Esses componentes conheceremos ao longo do processo eleitoral, mas que eles existem, eu não tenho a menor dúvida.</p></p>
+<p><p style="text-align: justify;">Não se pode desprezar o fato de que no ato de lançamento da chapa governista, com o secretário Paulo Câmara como candidato ao governo do Estado e Fernando Bezerra Coelho na disputa pela senatória, Eduardo Campos, que conduziu pessoalmente o processo de escolha dos candidatos, que ainda tem o jarbista Raul Henry na vice, alegou que dada a desimportância política de Paulo Câmara, um mero tecnocrata de sua equipe, caberia ao ex-ministro do governo Dilma, Fernando Bezerra Coelho, o papel de puxador de votos da chapa.</p></p>
+<p><p style="text-align: justify;">Aí já se observa que a chapa governista apresenta fragilidades diante da chapa montada pelo PTB/PT, que ainda deve agregar um terceiro partido, provavelmente o PP ou o PDT, já que este, embora aliado localmente a Eduardo, está, no plano nacional, alinhado com o governo Dilma, inclusive ocupando ministério.</p></p>
+<p><p style="text-align: justify;">Os dois candidatos até aqui apresentados pela chapa PTB/PT são detentores de importância política que não se pode desprezar, por maiores que sejam as divergências ideológicas que se tenha com um ou com outro. Analisando do ponto de vista da conjuntura eleitoral, enquanto Armando Monteiro tem inserção no eleitorado da chamada elite empresarial, tão cobiçado por Eduardo Campos e seus candidatos, João Paulo dialoga, com total desenvoltura, com a massa do eleitorado. Nisso ele se assemelha muito, em estilo, ao próprio Lula e é bem provável que esteja aí o segredo de seu sucesso nas urnas.</p></p>
+<p><p style="text-align: justify;">Agregue-se a isso, o fato de que o próprio Lula e sua candidata, Dilma, estarão empenhados na eleição tanto de Armando Monteiro quanto de João Paulo porque a aliança que se fechou em Pernambuco entre PTB/PT, tem por finalidade precípua, o fortalecimento do palanque de Dilma do Estado e isso é tão certo que Eduardo fez de tudo para minar essa aliança, através de seus</p>
+<p>emissários dentro do PT.</p></p>
+<p><p style="text-align: justify;">A resposta de Eduardo ao ser informado de que a aliança PTB/PT fora confirmada, apesar de seus esforços para miná-la, deixa bem claro o desagrado do candidato Eduardo com o fracasso de seus prepostos petistas, na tentativa de minar a aliança. Questionado por repórteres sobre a coligação PTB/PT, limitou-se a responder: “Você acha?”. Indisfarçável o incômodo do governador, quando não consegue mais movimentar as peças dos dois lados do tabuleiro.</p></p>
+<p><p style="text-align: justify;"><em>*Noelia Brito é advogada e procuradora do Município do Recife</em></p></p>
+{% endraw %}

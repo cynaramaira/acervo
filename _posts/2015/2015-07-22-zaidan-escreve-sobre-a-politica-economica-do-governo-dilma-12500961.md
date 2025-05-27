@@ -1,0 +1,28 @@
+---
+id: 12500961
+date: "2015-07-22T12:00:26Z"
+last_modified_at: null
+tags:
+  - "caixa-economica"
+  - "dilma"
+  - "governo"
+  - "politica"
+categories:
+  - "noticias"
+title: "Zaidan escreve sobre a pol\u00edtica econ\u00f4mica do governo Dilma"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p>Por Michel Zaidan</p>
+<p>No dia 21 de julho, o Núcleo de Estudos Eleitorais, Partidários e da Democracia convidou o prof. Atenágoras Duarte (UFPE/Campus do Agreste) para fazer uma ampla análise sobre a política econômica do governo Dilma, no âmbito do seminário "O governo Dilma - uma avaliação". A questão central desse debate era: houve ruptura ou continuidade da política econômica de FHC nos governos petistas de Lula e Dilma. Segundo o palestrante, a continuidade poderia ser demonstrada através do tripé: juros altos, superávit primário alto e metas de inflação, além do câmbio flutuante. Esta política, também conhecida pelo nome de "fundamentalismo fiscal", foi praticada pela equipe econômica do e-presidente sob a alegação de que era necessário aumentar a poupança pública e a poupança privada, já que o país estava sem capacidade de investimento, pelo famoso "déficit fiscal" das contas públicas.</p>
+<p>A idéia seria promover, por meio de um duro ajuste fiscal, um enxugamento das despesas do estado para tornar atrativo o país para investidores estrangeiros e nacionais. 0 remédio utilizado é bem conhecido: desregulamentação do mercado financeiro (abolindo todo e qualquer controle do fluxo de capitais), privatização de ativos públicos (com preço subavaliado e com a ajuda de recursos públicos) e abertura da economia brasileira à livre entrada de bens, serviços e capitais. Era o chamado "Consenso de Washington", receituário do banco mundial e do FMI para a América Latina.</p>
+<p>É bom lembrar que apesar desse fundamentalismo, do câmbio flutuante e da apreciação do real, não conseguimos evitar a grande crise cambial de 1998-9 que obrigou Lula a escrever a "Carta aos brasileiros", comprometendo-se a manter os contratos e compromissos financeiros do país, caso fosse eleito. Naturalmente, ele fez mais do que isso: estabeleceu alianças políticos com o centro e tornou o seu discurso de campanha mais conciliador.</p>
+<p>Os analistas econômicos sabem da enorme diferença de cenário econômico entre as gestões de Lula e de Dilma, apesar de muitas notórias continuidades. 0 famoso "céu de brigadeiro" da economia internacional, o preço das commodities em elevação, o ritmo de crescimento da atividade econômica no mundo, a parceria com a China, os países árabes etc. O Brasil se beneficiou muito desse ambiente favorável e acumulou divisas, a ponto de emprestar dinheiro ao FMI. A situação começa a mudar, com a crise econômica mundial, no primeiro mandato da Presidente Dilma. 0 preço das commodities cai e a uma desaleceração do ritmo de crescimento mundial, com um impacto direto no Brasil. É quando entra em cena o "neo-desenvolvimentismo" da Presidenta, como forma de preservação da economia brasileira em relação à crise mundial.</p>
+<p>Em que consistiu essa política econômica? - Na expansão do gasto público e no endividamento público, como forma de estímulo à atividade econômica e ao consumo das famílias. É a época de ouro da "nova classe média" brasileira, incluída no mercado de bens e serviços via o acesso subsidiado pelo crédito farto e barato aos bens de consumo duráveis. É a época das cotas, do pro-uni, da minha casa-minha-vida, da expansão FIES, da PEC das domésticas. Tudo isso conjugado com a redução do IPI para a chamada linha branca, com graves reflexos federativos. Somado a isto, vieram os gastos com a realização da Copa do Mundo no país, e a eclosão das manifestações de rua. Revolta das classes médias tradicionais contra as novas classes médias? - Crise de Representação parlamentar? - Crítica à prioridade dos gastos públicos no Brasil? - Denúncias generalizadas de corrupção. Reforma Política. Mas que Reforma?</p>
+<p>Aí vem a eleição presidencial e o cenário já é de uma crise econômica no país. Inflação em alta, déficit das contas públicas, baixo crescimento econômico, desequilíbrio das balança de pagamentos, elevação da dívida pública etc. E a mudança da agenda econômica do governo, priorizando o ajuste fiscal: aumento de impostos, retirada de direitos, aumento da taxa de juros, restrição do crédito, desemprego, queda da renda real etc. A oposição acusa o governo de "estelionato eleitoral", vender uma coisa e entregar outra. E o agravante da crise política, da crise de governabilidade, da baixa aprovação popular etc.</p>
+<p>A crise brasileira foi uma crise anunciada. Ela estava prevista para acontecer, quando as virtualidades do "neo-desenvolvimentismo" tivessem se esgotado. Como se esgotaram e deixaram de herança o déficit das contas públicas e a necessidade, para uns, de uma volta ao fundamentalismo fiscal, com perda de direitos, aumento da carga tributária, escassez de crédito, crescimento negativo, desvalorização do real etc. 0 que complicou a equação econômica do governo Dilma foi a crise política, alimentada pelos processos da operação" lava-a-jato", que atingiu 10% do Congresso, incluindo seus dois principais dirigentes.</p>
+<p>Um problema que já era crônico, de obtenção de uma maioria estável no Parlamento, tornou-se uma guerra declarada de alguns partidos (incluindo parte da base aliada) contra o Poder Executivo. E ainda a acusação de politização do Polícia Federal e do Poder Judiciário. Era só o que faltava, para engrossar o caldo da fervura política: crise econômica e crise de governabilidade. E um ambiente golpista disseminado entre os formadores de opinião.</p>
+{% endraw %}

@@ -1,0 +1,41 @@
+---
+id: 12499561
+date: "2015-06-21T14:24:59Z"
+last_modified_at: null
+tags:
+  - "jorge-jesus"
+  - "naomi-campbell"
+  - "servico"
+categories:
+  - "opiniao"
+title: "N\u00e3o \u00e9 a servi\u00e7o do Rei Jesus"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><img class="wp-image-128504 size-full" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/06/alx_brasil-protesto-camara-20150610-01_original.jpeg" alt="Deputados da bancada evangélica protestam contra a Parada Gay - 10/06/2015(Gustavo Lima/Câmara dos Deputados)" width="690" height="518" /> Deputados da bancada evangélica protestam contra a Parada Gay - 10/06/2015(Gustavo Lima/Câmara dos Deputados)</p>
+<p><p style="text-align: justify;"><em>Por Fernando Castilho, do JC Negócios</em></p></p>
+<p><p style="text-align: justify;">A imagem de um grupo de deputados evangélicos exibindo um cartaz contra a Parada Gay de São Paulo, dentro de uma sessão da Câmara Federal (que tratava do encaminhamento da votação da reforma política), está separada por um Mar Vermelho de uma ação de clérigos irados com um gesto de blasfêmia contra a causa religiosa que professam.</p></p>
+<p><p style="text-align: justify;">Fez parte de uma ação de marketing político planejada para obter visibilidade nacional (visto que a votação certamente estaria, como esteve, no noticiário nacional) cujo foco era ser visto pelos cidadãos eleitores - igualmente evangélicos - susceptíveis a defesa radical do discurso pentecostal e neopentecostal.</p></p>
+<p><p style="text-align: justify;">Os deputados não se dirigiam aos 75% de cidadão católicos ou de outras religiões. Falavam, com o gesto, diretamente para os demais 25% que se declaram evangélicos, segundo o último Censo do IBGE e que compõem a possível base política eleitoral de cada um deles nos seus estados.</p></p>
+<p><p style="text-align: justify;">Não, não estamos diante de uma Guerra Santa onde a profissão da fé justifica atos extremos. Muito menos podemos relacionar qualquer um dos atos radicais que estão sendo perpetrados e anunciados previamente como uma nova cruzada a serviço do Rei Jesus.</p></p>
+<p><p style="text-align: justify;">Nada disso: o que o Brasil está assistindo, especialmente, na mídia tradicional (que gera conteúdo para as mídias sociais), é a face externa de uma batalha sangrenta de cada um desses deputados por espaço nas suas comunidades religiosas de forma a que, já nas próximas eleições, possam ter o apoio do colegiado de pastores para lhes representar no Congresso ou nas Assembleias Legislativas.</p></p>
+<p><p style="text-align: justify;">O que os cidadãos católicos, adeptos das religiões afro ou agnósticos estão assistindo no noticiário é a atuação externa de uma nova geração de deputados pastores que se encantaram com o poder legislativo e que passaram a se organizar para sobreviver politicamente na sua comunidade. De forma a serem referendados nos próximos pleitos. O pastor/deputado agora quer ser deputado/pastor.</p></p>
+<p><p style="text-align: justify;">O problema é que esse referendo exige a autorização dos respectivos pastores - que são os verdadeiros formadores de opinião da comunidade evangélica. Assim, antes de ter a chance de pedir o voto ao eleitor evangélico, é preciso convencer ao pastor que está cumprindo um papel ativo da sua comunidade na Câmara ou na Assembleia Legislativa.</p></p>
+<p><p style="text-align: justify;">O que pouca gente percebe é que numa comunidade evangélica pode-se não ser fiel ao Senhor que, segundo a Bíblia, pode perdoar desde que o crente se arrependa, mas não pode ser infiel com a causa de determinada congregação.</p></p>
+<p><p style="text-align: justify;">Quando a mídia critica a destinação de verbas para o pagamento de shows e festivais artísticos para artistas populares e grandes bandas da TV, esquece que está no Orçamento Geral da União um grande pacote de verbas para ações da bancada evangélica para shows gospel.</p></p>
+<p><p style="text-align: justify;">E quando o deputado evangélico não cumpre a missão a que foi “delegado” a comunidade, por meio do conselho de pastores, o pune com a escolha de outro irmão para o seu lugar. Da mesma forma que o pastor Marcos Feliciano catapultou sua votação pela defesa radical na Comissão de Direitos Humanos, o deputado Marcos Antônio Ramos da Hora, o Negrão Abençoado, foi “expulso do paraíso” de Brasília, porque foi cuidar de seus interesses de artista em lugar da causa.</p></p>
+<p><p style="text-align: justify;">O exemplo Marcos Feliciano vale porque, da mesma forma que a votação de Jean Willis em defesa da causa LGBT o ajudou (na outra extremidade), ajudou ao pastor. Ele teve 211.855 votos em 2010. Mas em 2014 recebeu 398.087. Foi o terceiro mais votado e só perdeu para Celso Russomano (1.524.361 votos) e Francisco Everaldo Tiririca (1.016.972 votos). E é de olho nisso que os novos deputados evangélicos estão radicalizando a sua atuação no Congresso.</p></p>
+<p><p style="text-align: justify;">Isso será mais forte daqui para frente. Até porque o apoio de outro evangélico no comando da casa ajuda muito. Eduardo Cunha nunca disse que era um evangélico ativo. Bem da verdade, ele entrou na política pelas mãos de Antony Garotinho, quando dirigia a Loterj. Isso mesmo, a loteria do Rio de Janeiro, com todas as suas implicações éticas e morais para um crente!</p></p>
+<p><p style="text-align: justify;">Quase ninguém se lembra disso, mas Eduardo Cunha foi pupilo de Garotinho que, como se sabe, é evangélico de carteirinha e de congregação. O crescimento dele na comunidade se deu porque começou a, discretamente, defender os chamados pequenos interesses da comunidade com a força que teve nos governos Lula.</p></p>
+<p><p style="text-align: justify;">O fenômeno da evangelização na pauta da Câmara Federal merece estudo mais aprofundando, mas ele acontece nas Casas Legislativas e começa pela eleição de vereadores. Levantamentos de instituições da comunidade indicam hoje, que em todas as cidades há pelo menos uma Praça da Bíblia aprovada por iniciativa de vereadores.</p></p>
+<p><p style="text-align: justify;">Nas Assembleias a questão dos gêneros é uma pauta que ajuda muito. O embate de Marcos Feliciano contra os direitos dos grupos LGBT não foi ação de um clérigo isolado que acreditava no que a mídia chamou de “Cura Gay”. Feliciano, assim como outros, também assentou baterias contra os cultos afrodescendentes.</p></p>
+<p><p style="text-align: justify;">É um fato novo. Desde o começo da colonização que a Igreja Católica, percebendo a fortíssima influência das religiões “afros”, contornou a situação estabelecendo uma convivência pacífica.</p></p>
+<p><p style="text-align: justify;">Historicamente não há razão para que os evangélicos, cuja origem se deu na Inglaterra no século XVII e nos Estados Unidos com os neopentecostais no século XIX, possam querer negar um lugar a religiões que estão no Brasil desde o descobrimento.</p></p>
+<p><p style="text-align: justify;">Mas, enquanto os adeptos das religiões afrodescendentes sempre defenderam a perspectiva de uma convivência harmoniosa, os evangélicos sempre viram nisso um desvio grave. Como eles hoje não são minoria, é certo que os ataques serão intensificados. Até porque, a questão de gênero também está na tolerância aos cultos “afros".</p></p>
+<p><p style="text-align: justify;">Isso quer dizer que a radicalização midiática vai continuar. E não estamos falando de gente preocupada na defesa da doutrina. Ou como dizem os mais velhos membros da comunidade protestante, de pessoas verdadeiramente preocupados com o que de filosofia de vida ensina o “livro da Capa Preta”.</p></p>
+<p><p style="text-align: justify;">Num Congresso de baixíssima qualidade intelectual, numa Câmara medíocre onde a maioria dos eleitos está mais interessado nos interesses de grupos (as bancadas) que nos compromissos dos partidos pelos quais foram eleitos, brigar pela causa religiosa é um achado.</p></p>
+<p><p style="text-align: justify;">Até porque todos os gestos radicais em defesa da causa são postados nas redes sociais. Com todas as consequências para o bem e para o mal que elas podem ter. Inclsuive com o discurso de que estão “a serviço do Rei Jesus”.</p></p>
+{% endraw %}

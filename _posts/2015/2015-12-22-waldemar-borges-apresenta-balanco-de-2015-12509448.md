@@ -1,0 +1,34 @@
+---
+id: 12509448
+date: "2015-12-22T11:28:04Z"
+last_modified_at: null
+tags:
+  - "apresentadora"
+  - "balanco"
+  - "lo-borges"
+categories:
+  - "noticias"
+title: "Waldemar Borges apresenta balan\u00e7o de 2015"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/12/Waldemar-Borges.jpg"><img class="size-medium wp-image-138386" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/12/Waldemar-Borges-580x500.jpg" alt="Foto: João Bita/Alepe" width="580" height="500" /></a> Foto: João Bita/Alepe</p>
+<p>Com um balanço do ano, o líder do Governo na Assembleia Legislativa, Waldemar Borges, fez seu último pronunciamento de 2015 na Assembleia Legislativa de Pernambuco, na manhã desta segunda-feira (21).</p>
+<p>O deputado enfatizou que certamente esse foi um dos anos mais difíceis das últimas décadas. “Dois mil e quinze chegou anunciando nuvens escuras, que vinham para ameaçar conquistas importantes ocorridas no País.  Hoje, quando vivemos seus últimos dias, somos obrigados a admitir que as previsões mais pessimistas ainda foram generosas diante do desmantelo ocorrido na economia nacional e dos  graves reveses em quase todas as áreas da política brasileira”, disse.</p>
+<p>O deputado relatou que foram discutidas, votadas e aprovadas na Alepe, em 2015, 156 proposições encaminhadas pelo Executivo. “Fizemos isso de forma democrática, agregando as contribuições aqui oferecidas”, completou.</p>
+<p>O parlamentar também apontou números que mostram o quadro de retrocessos que vivemos, como a queda do PIB brasileiro, a retração na indústria e no comércio e o aumento do desemprego. Ele lembrou que o governador Paulo Câmara foi pioneiro em enxergar a gravidade da crise e a tomar as primeiras medidas para enfrentá-la, mas disse que o Estado não estava blindado contra essa crise nacional, que penaliza severamente todos os entes federados.</p>
+<p>“O corte nas operações de crédito fez com que deixássemos de contratar R$ 2,6 bilhões em empréstimos internacionais. A falta desses recursos foi duramente sentida nas áreas mais importantes para nosso governo: saúde, educação, segurança e infraestrutura. A não realização de convênios previstos e o não pagamento de outros em curso, a diminuição de repasses de obras estratégicas em andamento também explicam o aperto que o Estado começou a viver lá trás, desde o início do ano”, disse.</p>
+<p>Apesar disso, Borges ressaltou que o Estado está conseguindo resistir à crise numa posição melhor que a maioria dos estados brasileiros.  Em seu discurso, ele falou que em Pernambuco, o Governo Paulo Câmara foi obrigado a atrasar pagamento de fornecedores, mas tem conseguido, graças à sua competência e de sua equipe, manter as contas equilibradas, não perdendo o controle da situação, pagando assim todos os servidores em dia, além de manter os serviços básicos funcionando.</p>
+<p>O líder do Governo fez uma prestação de contas das obras e ações realizadas pelo Governo em 2015. Na área da Educação, por exemplo, falou das cinco novas escolas técnicas, das seis escolas de referência de Ensino Médio e das duas escolas estaduais que foram incorporadas à Rede Estadual de ensino. Falou ainda da instituição do Passe Livre, do Programa Ganhe o Mundo e Ganhe o Mundo Esportivo e do edital do esperado, e muitas vezes reivindicado, concurso para professor, com 3 mil vagas.</p>
+<p>“Fizemos entregas relevantes na Saúde, apesar de estamos enfrentando o que pode ser uma das maiores tragédias da história da humanidade - a microcefalia. Fizemos a reforma da Emergência Adulto/Pediátrica e das instalações de apoio administrativo do Hospital Belarmino Correia, em Goiana, o Programa Mãe Coruja Pernambucana recebeu o prêmio internacional de “Qualidade de Políticas Públicas” concedido pela OEA, e Pernambuco ainda alcançou o 1º lugar no Nordeste e 2º lugar no Brasil em transplantes de coração e medula óssea”, pontuou.</p>
+<p>Na área da Segurança, apesar de estarmos vivendo um período de maior dificuldade no que diz respeito ao enfrentamento à violência, o deputado mostrou ainda números positivos. “A AIS-Afogados da Ingazeira, no Pajeú, por exemplo, atingiu a Taxa de CVLI abaixo da considerada como aceitável pela Organização das Nações Unidas – ONU.</p>
+<p>Mesmo em meio a essa crise que atinge o País, Pernambuco contratou 1,1 mil novos soldados da PM e, com a inestimável participação desta Casa, concedeu aumento das gratificações e benefícios dos profissionais do Pacto pela Vida, além de ter realizado a maior promoção da história da PM e dos Bombeiros”, listou.</p>
+<p>Apesar do quadro recessivo, a economia estadual seguiu atraindo empresas. Além da inauguração do Polo Automotivo Jeep (Fiat Chrysler Automobilies), em Goiana, foram inauguradas mais nove indústrias de grande porte (Metalfrio, Frompet, GRI Flanges do Brasil, Shineray Motos, Brasil Kirin, Itaipava, TotalPlast, Terphane e Ciber) e implantadas as empresas Moinho Santa Fé, Multisaúde, Usmatic, Terra e Água, Herval e Brics.</p>
+<p>“A Ambev anunciou ainda o investimento de R$ 400 milhões para expansão da unidade de Itapissuma, consolidando o maior polo de bebidas do Norte/Nordeste, a Toyota inaugurou o seu Centro de Distribuição e foi assinado o protocolo de intenções para a instalação de um complexo industrial de alimentos e centro logístico da empresa Unilever em Escada, na Mata Sul”, relatou.</p>
+<p>Suape também foi destaque no pronunciamento de Waldemar Borges, que contou que a empresa foi o porto público com maior movimentação de cabotagem em 2015 no país, obtendo o recorde histórico de faturamento e movimentação de cargas e que conseguiu a liderança de granéis líquidos entre os 37 portos públicos do país no acumulado do ano, superando o Porto de Santos.</p>
+<p>O FEM, que salvou muitos municípios este ano, não deixou de fazer parte do discurso. “Foram repassados R$ 336 milhões, nas suas três edições. Em 2015, serão liberados ainda R$ 66 milhões em repasses para as prefeituras relativos a projetos do FEM das edições de 2013, 2014 e 2015. Já foram entregues à sociedade, no escopo do programa, 1.170 ruas pavimentadas, 35 escolas, 52 unidades de saúde, 77 praças, nove quadras esportivas, cinco mercados públicos e 10 matadouros públicos, dentre outros equipamentos, em todos os municípios do Estado”, relatou.</p>
+<p>“A expectativa agora é que o Brasil resolva o seu imbróglio político pra que possamos construir uma saída econômica para o País e assim enfrentarmos um 2016 menos traumático e com expectativas realistas de retomada da normalidade, inclusive na economia. Com essa esperança e muita disposição para seguirmos trabalhando duro por um Pernambuco cada vez melhor para se viver e trabalhar, como dizia o inesquecível governador Eduardo Campos, encerro esse discurso desejando a todos boas festas e um 2016 de lutas e realizações”, concluiu.</p>
+{% endraw %}

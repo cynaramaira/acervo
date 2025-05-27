@@ -1,0 +1,41 @@
+---
+id: 12494640
+date: "2015-03-07T18:00:58Z"
+last_modified_at: null
+tags:
+  - "historia"
+  - "pernambuco"
+  - "taxas-federais"
+categories:
+  - "noticias"
+title: "Em d\u00e9cadas de hist\u00f3ria, Pernambuco elegeu apenas 3 deputadas federais"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/03/mulheres-no-poder.jpg"><img class="size-medium wp-image-123595" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/03/mulheres-no-poder-580x625.jpg" alt="Arte: NE10" width="580" height="625" /></a> Arte: NE10</p>
+<p><p style="text-align: justify;">Por Marcela Balbino, repórter do <strong>Blog de Jamildo</strong>.</p></p>
+<p><p style="text-align: justify;">Ainda com os resquícios do período patriarcal, Pernambuco é um Estado que guarda os traços de uma sociedade marcada pelo machismo. O quadro é refletido nas principais esferas de poder.</p></p>
+<p><p style="text-align: justify;">Apesar de a mulher ter conquistado o direito ao voto há mais de 83 anos, o acesso às urnas não garantiu o ingresso nas Casas Legislativas. Na história política de Pernambuco, tivemos apenas três mulheres eleitas deputadas federais: Cristina Tavares (1983-1987), Ana Arraes (2007-2011) e Luciana Santos, que está no segundo mandato.</p></p>
+<p><p style="text-align: justify;">Nas eleições de 2014, apesar de 53,4% do eleitorado em Pernambuco ser composto por mulheres, elas representavam menos de um terço do número total de candidatos a um cargo eletivo no Estado.</p></p>
+<p><p style="text-align: justify;">&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2014/08/03/maioria-no-eleitorado-mulheres-representam-menos-de-um-terco-dos-candidatos-em-pernambuco/" target="_blank">Maioria no eleitorado, mulheres representam menos de um terço dos candidatos em Pernambuco</a></p></p>
+<p><p style="text-align: justify;">Nos quadros da Assembleia Legislativa de Pernambuco (Alepe) a participação feminina também é pequena. Dos 49 parlamentares, apenas cinco são mulheres. Comportamento semelhante segue a Câmara dos Vereadores, dos 39 edis apenas cinco são do sexo feminino.</p></p>
+<p><p style="text-align: justify;">Embora a alteração do artigo 10, da Lei 9.504/97, de setembro de 2009, estabelecer o número mínimo de 30% das vagas destinadas às mulheres em cada partido ou coligação, a mudança ainda não está refletida na sociedade. A equidade entre os gêneros ainda é meta distante.</p></p>
+<p><p style="text-align: justify;">No segundo mandato federal, a deputada Luciana Santos, a única mulher de Pernambuco a ter cadeira na Câmara federal, se divide entre os trabalhos legislativos e os cuidados com a filha  de 3 anos. A ponte aérea entre Brasília e Recife é constante, mas depois da Semana Santa deve diminuir, porque Luciana assume a presidência nacional do PC do B e deve ampliar as viagens pelo Brasil.</p></p>
+<p><p style="text-align: justify;"><strong>LEIA TAMBÉM:</strong></p>
+<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2015/03/07/mulheres-sao-minoria-no-executivo-e-judiciario-em-pernambuco/" target="_blank"><strong>Mulheres são minoria no Executivo e Judiciário em Pernambuco</strong></a></p></p>
+<p><p style="text-align: justify;">"Isso no meu entender tem a ver como o machismo na sociedade. Quando se escolhe esta carreira é preciso romper muitas amarras para poder ser valorizada", considera a parlamentar. "Isso se deve a uma questão cultural, são necessárias mais políticas públicas que representem o público feminino. O fundo partidário busca a equiparação e o papel do TSE é fundamental, mas ainda estamos muito distantes da equidade", observou a deputada federal, eleita com mais de 85 mil votos.</p></p>
+<p><p style="text-align: justify;">Em defesa de uma reforma política que amplie a inclusão de mais mulheres nas esferas de poder, a deputada acredita que a única saída é persistir nas políticas afirmativas. "Só depois de uma reforma política ampla, que obrigue as mulheres a ocuparem as vagas e não só as chapas é que vamos conseguir mais o ingresso de mulheres."<a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/03/simone-santana.jpg"><img class="alignleft size-medium wp-image-123589" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/03/simone-santana-580x386.jpg" alt="simone-santana" width="580" height="386" /></a></p></p>
+<p><p style="text-align: justify;"><strong>ALEPE - </strong>Neófita em cargos eletivos, a deputada estadual Simone Santana (PSB) está há dois meses na Assembleia Legislativa de Pernambuco (Alepe) e sente no dia a dia a predominância masculina na Casa e costura inserção nas discussões da esfera legislativa.</p></p>
+<p><p style="text-align: justify;">"Está sendo um período muito desafiador. A gente sabe que há essa coisa subliminar do machismo, mas não me sinto discriminada, procuro me inserir nas discussões.</p></p>
+<p><p style="text-align: justify;">Há dois meses na Casa, Simone ainda não apresentou projetos de lei, mas levou para discussão projetos federais que incluem o assassinato de mulheres por questão de gênero, chamado de feminicídio, como crime hediondo e homicídio qualificado. A matéria aguarda sanção da presidente Dilma Rousseff.</p></p>
+<p><p style="text-align: justify;">A deputada também destacou o projeto de lei apresentado pelo senador Fernando Bezerra Coelho (PSB) esta semana que <a href="https://blogs.ne10.uol.com.br/jamildo/2015/03/05/fbc-quer-multa-para-empresa-que-pagar-salario-menor-para-mulheres/" target="_blank">prevê uma multa para empresas que paguem salários diferentes para homens e mulheres que ocuparem a mesma função</a>.</p></p>
+<p><p style="text-align: justify;">Simone está à frente da presidência da Comissão de Defesa dos Direitos da Mulher, e acredita que as políticas públicas voltadas para a primeira infância são fundamentais para novas conquistas femininas. A formação como médica pediatra e a experiência como coordenadora do Programa Mãe Coruja de Ipojuca foram fatores decisivos para o desenvolvimento da afinidade da parlamentar com o tema.</p></p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/03/michelle-collins.jpg"><img class="size-medium wp-image-123580" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/03/michelle-collins-580x387.jpg" alt="Vereadora Michelle Collins atua na defesa da mulher na Câmara do Recife. Foto: Agnaldo Leonel/Câmara Municipal do Recife." width="580" height="387" /></a> Vereadora Michelle Collins atua na defesa da mulher na Câmara do Recife. Foto: Agnaldo Leonel/Câmara Municipal do Recife.</p>
+<p><p style="text-align: justify;"><strong>CÂMARA DOS VEREADORES - </strong>Polêmica e atuante, a missionária Michelle Collins (PP) não tem meias palavras para explicar o machismo enfrentando dentro da Casa José Mariano. Cavando espaços para se inserir nas principais discussões da Casa, a vereadora afirma que não tem medo de briga.</p></p>
+<p><p style="text-align: justify;">"A gente tem que buscar os espaços. Temos que mostrar que estamos aptas. Quando eu tenho uma convicção, eu entro mesmo na polêmica para defender o ponto de vista", explica a vereadora, que liderou em 2014 o número de proposições, foram 53 <span class="il">projetos</span> e 1.379 requerimentos.</p></p>
+<p><p style="text-align: justify;">Apesar da defesa incansável dos projetos ligados à família, a missionária explica que muitas vezes é obrigada a abdicar do convívio com os três filhos para manter a vida pública. "Tenho o trabalho legislativo como missão, como causa. Ser parlamentar para mim é uma vocação e tento explicar isso, diariamente aos meus filhos", explica a vereadora.</p></p>
+<p><p style="text-align: justify;">Dados do Censo de 2010, realizado pelo IBGE, mostram que as mulheres são maioria na população pernambucana. Dos 8,7 milhões de habitantes que residem no Estado, 4,5 milhões são mulheres e 4,2 milhões são homens.</p></p>
+{% endraw %}

@@ -1,0 +1,24 @@
+---
+id: 12489172
+date: "2014-11-05T21:07:39Z"
+last_modified_at: null
+tags:
+  - "ipea"
+categories:
+  - "noticias"
+title: "Mis\u00e9ria cresce pela 1\u00aa vez desde 2003, diz Ipea"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;"><img src="https://www2.uol.com.br/JC/_ne10/foto/estadao.png" alt="" border="0" /></p></p>
+<p><p style="text-align: justify;">Dados levantados pelo Instituto de Pesquisa Econômica Aplicada (Ipea) apontam que, entre 2012 e 2013, o número de pessoas que vivem na extrema pobreza no País teria aumentado em 0,4 ponto porcentual, passado de 3,6% da população para 4%. Os números, recolhidos da Pesquisa Nacional por Amostra de Domicílios (Pnad) mostram que subiu em cerca de 370 mil pessoas a quantidade de quem vive com menos de R$ 70 por mês. O governo, no entanto, diz que a diferença está dentro da margem de erro e não mostra uma tendência. O aumento é o primeiro desde que o Ipea iniciou a série histórica para esses dados, em 2004.</p></p>
+<p><p style="text-align: justify;">Os dados não chegaram a ser divulgados pelo governo, mas estão no site do Ipea na internet. Uma última atualização foi feita no último dia 31, mas o governo alega que estavam publicados desde 19 de setembro. Em outubro, o diretor de políticas sociais do instituto colocou o cargo à disposição depois que uma decisão da presidência do órgão proibiu a divulgação de pesquisas durante o período eleitoral. O jornal O Estado de S. Paulo perguntou nesta quarta-feira ao Ipea se essa decisão também foi tomada em anos anteriores, mas não recebeu resposta.</p></p>
+<p><p style="text-align: justify;">A ministra do Desenvolvimento Social, Tereza Campello, afirmou que é “absurda” e “injusta” a acusação de que o governo teria segurado dados por causa da campanha de reeleição da presidente Dilma Rousseff. “Os dados são públicos. Nós temos acesso no mesmo momento que vocês. Qualquer cidadão, qualquer pesquisador que conheça um pouco de estatística pode fazer a conta”, disse. “Não virou notícia antes porque não houve aumento.”</p></p>
+<p><p style="text-align: justify;">O governo atribui a diferença a uma flutuação estatística, uma diferença na amostra, dentro da margem de erro do levantamento. “Não é correto afirmar que houve aumento”, garantiu a ministra. “Se olharmos com cuidado vamos ver que o desemprego caiu, as ações do Brasil sem Miséria chegam fortemente nesse público. Nenhum outro elemento factual ou dado econômico permite supor que houve aumento.” Apesar de estar dentro da margem de erro, o pequeno aumento é o primeiro desde que o Ipea iniciou a série histórica para esses dados, em 2004. No ano anterior, o País registrava 23,2 milhões de pessoas na extrema pobreza. Desde então, a queda foi contínua - 60% no acumulado de oito anos, até 2012. O primeiro movimento contrário teria sido no ano passado. A ministra afirmou que, quando se chega a números tão baixos, é normal que as amostras registrem pequenas variações.</p></p>
+<p><p style="text-align: justify;"><strong>SAE - </strong>O ministro-chefe da Secretaria de Assuntos Estratégicos (SAE), Marcelo Neri, tentou desqualificar o estudo do Instituto de Pesquisa Econômica Aplicada (Ipea) divulgado nesta quarta-feira, que diz que o número de brasileiros em condição de extrema pobreza voltou a subir em 2013, passando de 10,08 milhões de miseráveis em 2012, para 10,45 milhões um ano depois, um aumento de 3,7%. "Foram dados, que inclusive não são dados oficiais, que foram levantados pelo Ipea, que não tem esse poder de dar o dado oficial de pobreza ou de extrema pobreza da Nação", afirmou Neri irritado, rebatendo estes números com outros dados também não oficiais, mas favoráveis ao governo.</p></p>
+<p><p style="text-align: justify;">"E o que eu digo é o seguinte: os dados das duas últimas Pnads (Pesquisa Nacional por Amostra de Domicílios) são muito bons. Eles mostram avanço da renda per capita de 5,5% real, já descontada a inflação, já descontado aumento da população, e foi um dado muito bom". Para ele, a imprensa está focando um dado específico que representa "fatores temporários" e não reflete a realidade.</p></p>
+<p><p style="text-align: justify;">O ministro negou ainda que o governo tenha escondido este dado social considerado negativo durante o período eleitoral. "Houve uma decisão do Ipea de se manter à margem do período eleitoral em relação a qualquer tipo de dado. Está se falando que existe um estudo sobre pobreza, não existe nenhum estudo sobre extrema pobreza escondido ou de qualquer forma que existe", afirmou.</p></p>
+{% endraw %}

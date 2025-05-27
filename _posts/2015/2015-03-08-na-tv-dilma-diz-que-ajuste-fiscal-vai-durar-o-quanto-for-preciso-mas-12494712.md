@@ -1,0 +1,50 @@
+---
+id: 12494712
+date: "2015-03-08T21:17:27Z"
+last_modified_at: null
+tags:
+  - "dilma"
+  - "meta-fiscal"
+  - "reajuste"
+  - "segundo-turno"
+categories:
+  - "noticias"
+title: "Na TV, Dilma diz que ajuste fiscal vai durar o quanto for preciso, mas prev\u00ea um segundo semestre melhor"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/03/10920791_10152916593706263_6182108842187825542_n.jpg"
+---
+{% raw %}
+<p>A presidente Dilma prometeu um segundo semestre melhor, em pronunciamento na TV, ainda há pouco. A dirigente petista parecer mirar a classe média, em sua fala.No entanto, Dilma disse que o ajuste fiscal não tem prazo para acabar e vai durar o tempo que for necessário.</p>
+<p><a href="https://blogs.ne10.uol.com.br/jamildo/2015/03/08/dilma-reserva-apenas-duas-linhas-de-discurso-para-petrolao-e-combate-a-corrupcao/"><strong>Dilma reserva apenas duas linhas de discurso para Petrolão e combate à corrupção</strong></a></p>
+<p><a href="https://blogs.ne10.uol.com.br/jamildo/2015/03/08/na-tv-dilma-vai-dizer-que-a-crise-e-menor-do-que-dizem-alguns/"><strong>Na TV, Dilma diz que crise é menor do que dizem alguns, culpa seca e pede paciência aos eleitores</strong></a></p>
+<p><a href="https://blogs.ne10.uol.com.br/jamildo/2015/03/08/dilma-e-vaiada-nas-ruas-de-ao-menos-5-capitais/"><strong>Dilma é vaiada nas ruas de ao menos 5 capitais</strong></a></p>
+<p>O propósito oficial do discurso seria destacar o Dia Internacional da Mulher. Na fala, de fato, Dilma avisou que vai sancionar, amanhã, a Lei do Feminicídio, que transforma em crime hediondo o assassinato de mulheres decorrente de violência doméstica ou de discriminação de gênero. No entanto, a tônica da fala foram as justificativas para o ajuste fiscal e a recuperação da economia nacional.</p>
+<p>No ar, Dilma disse que este processo de ajuste fiscal vai durar o tempo que for necessário para reequilibrar a economia. A presidente também previu uma primeira reação já no final do segundo semestre deste ano.</p>
+<p>“Mais importante, no entanto, do que a duração destas medidas será a longa duração dos seus resultados e dos seus benefícios. Que devem ser perenes no combate à inflação e na garantia do emprego. Que devem ser permanentes na melhoria da saúde, da educação e da segurança pública. As medidas serão suportáveis porque além de sermos um governo que se preocupa com a população, temos hoje um povo mais forte do que nunca”, disse Dilma.</p>
+<p>Dilma também prometeu que, durante o tempo que as medidas de austeridade durarem, o país não vai parar. Já se fala em uma nova versão do PAC.</p>
+<p>“Ao contrário, vamos continuar trabalhando, produzindo, investindo e melhorando. As coisas vão continuar acontecendo. Junto com as novas medidas estamos mantendo e melhorando os nossos programas. Entregando grandes obras”. “Não estamos tomando estas medidas para voltarmos a ser iguais ao que já fomos. Mas, sim, para sermos muito melhores”.</p>
+<p>“O esforço fiscal não é um fim em si mesmo. É apenas a travessia para um tempo melhor, que vai chegar rápido e de forma ainda mais duradoura. Não vamos trair nossos compromissos com os trabalhadores e com a classe média, nem deixar que desapareçam suas conquistas e seus direitos”, declarou.</p>
+<p>Dilma volta a prometer, ainda este ano, novas concessões de serviços públicos e disse que vai firmar novas parcerias com o setor privado, como portos e aeroportos, além de ferrovias.</p>
+<p>“Se toda vez que enfrentarmos uma dificuldade pensarmos que o mundo está acabando - ou que precisamos começar tudo do zero - só faremos aumentar nossos problemas. Precisamos transformar dificuldades em soluções”.</p>
+<p>Na peça de propaganda, antes de criticas a oposição, Dilma disse ainda ser preciso compartilharmos sua visão dos fatos, em uma crítica light aos meios de comunicação . “Os noticiários são úteis, mas nem sempre são suficientes. Muitas vezes até nos confundem mais do que nos esclarecem", acredita.</p>
+<p>Dilma pediu que a população renovasse a fé e a esperança no Brasil!</p>
+<p>“Tenho informações e reflexões importantes que se compartilhadas vão ajudá-los a entender melhor o momento que passamos”.</p>
+<p>“Vamos começar pelo mais importante: o Brasil passa por um momento diferente do que vivemos nos últimos anos. Mas nem de longe está vivendo uma crise nas dimensões que dizem alguns. Passamos por problemas conjunturais, mas nossos fundamentos continuam sólidos. Muito diferente daquelas crises do passado que quebravam e paralisavam o país. Nosso povo está protegido naquilo que é mais importante: sua capacidade de produzir, ganhar sua renda e de proteger sua família”, descreve o Brasil, a sua maneira de ver.</p>
+<p>De acordo com a presidente, as dificuldades que existem - e as medidas tomadas para superá-las - não irão comprometer as conquistas dos trabalhadores. “Tampouco irão fazer o Brasil parar ou comprometer nosso futuro”.</p>
+<p>Ela culpou a crise mundial pelos problemas e a até a seca.</p>
+<p>“A questão central é a seguinte: estamos na segunda etapa do combate à mais grave crise internacional desde a grande depressão de 1929. E, nesta segunda etapa, estamos tendo que usar armas diferentes e mais duras daquelas que usamos no primeiro momento. Como o mundo mudou, o Brasil mudou e as circunstâncias mudaram, tivemos, também, de mudar a forma de enfrentar os problemas”.</p>
+<p>“As circunstâncias mudaram porque além de certos problemas terem se agravado - no Brasil e em grande parte do mundo -, há ainda a coincidência de estarmos enfrentando a maior seca da nossa história, no Sudeste e no Nordeste. Entre muitos efeitos graves, esta seca tem trazido aumentos temporários no custo da energia e de alguns alimentos. Tudo isso, eu sei, traz reflexos na sua vida”.</p>
+<p>Dilma também pediu paciência e compreensão porque a situação é passageira. “Você tem todo direito de se irritar e de se preocupar”. A oposição pegou este ponto para concordar com Dilma e fazer um contraponto crítico.</p>
+<p><a href="https://blogs.ne10.uol.com.br/jamildo/2015/03/08/em-nota-tucanos-ironizam-discurso-oficial-de-dilma/"><strong>Em nota, tucanos ironizam discurso oficial de Dilma</strong></a></p>
+<p>“A crise afetou severamente grandes economias, como os Estados Unidos, a União Européia e o Japão. Até mesmo a China, a economia mais dinâmica do planeta, reduziu seu crescimento à metade de suas médias históricas recentes. Alguns países estão conseguindo se recuperar mais cedo. O Brasil, que foi um dos países que melhor reagiu em um primeiro momento, está agora implantando as bases para enfrentar a crise e dar um novo salto no seu desenvolvimento”, pontuou.</p>
+<p>No programa, Dilma também reclamou da oposição. “... mesmo que isso signifique alguns sacrifícios temporários para todos e críticas injustas e desmesuradas ao governo. Na tentativa correta de defender a população, o governo absorveu, até o ano passado, todos os efeitos negativos da crise. Ou seja: usou o seu orçamento para proteger integralmente o crescimento, o emprego e a renda das pessoas.</p>
+<p>“Realizamos elevadas reduções de impostos para estimular a economia e garantir empregos. Ampliamos os investimentos públicos para dinamizar setores econômicos estratégicos. Mas não havia como prever que a crise internacional duraria tanto. E, ainda por cima, seria acompanhada de uma grave crise climática. Absorvemos a carga negativa até onde podíamos e agora temos que dividir parte deste esforço com todos os setores da sociedade. É por isso que estamos fazendo correções e ajustes na economia”.</p>
+<p>Dilma fez ainda um paralelo com a crise de confiança no começo do governo Lula e defendeu que, às vezes, temos de controlar mais os gastos para evitar que o nosso orçamento saia do controle.</p>
+<p>“Em 2003, no início do governo Lula, tivemos que tomar medidas corretivas. Depois tudo se normalizou e o Brasil cresceu como poucas vezes na história. São medidas para sanear as nossas contas e, assim, dar continuidade ao processo de crescimento com distribuição de renda, de modo mais seguro, mais rápido e mais sustentável. Você que é dona de casa ou pai de família sabe disso”.</p>
+<p>“Foi por isso, que começamos cortando os gastos do governo, sem afetar fortemente os investimentos prioritários e os programas sociais. Revisamos certas distorções em alguns benefícios, preservando os direitos sagrados dos trabalhadores. E estamos implantando medidas que reduzem, parcialmente, os subsídios no crédito e também as desonerações nos impostos, dentro de limites suportáveis pelo setor produtivo.”</p>
+<p>Na fala de cerca de 15 minutos, Dilma reservou apenas duas linhas de seu discurso na TV para falar do escândalo do Petrolão e combate à corrupção.</p>
+<p>“Este esforço tem que ser visto como mais um tijolo, no grande processo de construção do novo Brasil. Esta construção não é só física, mas também espiritual. De fortalecimento moral e ético. Com coragem e até sofrimento, o Brasil tem aprendido a praticar a justiça social em favor dos mais pobres, como também aplicar duramente a mão da justiça contra os corruptos. É isso, por exemplo, que vem acontecendo na apuração ampla, livre e rigorosa nos episódios lamentáveis contra a Petrobras”.</p>
+<p>A falta de apetite em abordar o tema pode estar relacionado com a necessidade de preservar as boas relações com o Congresso. Na sexta-feira da semana passada, a Procuradoria-Geral da República apresentou a lista de políticos supostamente envolvidos com a corrupção na Petrobras. No conjunto da lista, aparece a cúpula do Congresso, como o presidente da Câmara, Eduardo Cunha, e Senado, Renan Calheiros, ambos do PMDB. Especialmente Renan Calheiros, já mandou voltar medidas do pacote fiscal e pode engrossar mais ainda a reação ao governo.</p>
+{% endraw %}

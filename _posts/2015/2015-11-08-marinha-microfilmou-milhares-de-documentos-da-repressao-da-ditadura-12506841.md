@@ -1,0 +1,38 @@
+---
+id: 12506841
+date: "2015-11-08T12:30:26Z"
+last_modified_at: null
+tags:
+  - "ditadura-militar"
+  - "documentos"
+  - "marinha"
+categories:
+  - "noticias"
+title: "Marinha microfilmou milhares de documentos da repress\u00e3o da ditadura militar de 64"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/11/general.jpg"><img class="size-medium wp-image-135779" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/11/general-580x500.jpg" alt="Ministro do Exército no governo Sarney (1985-1990), general Leônidas Pires Gonçalves - que faleceu em junho deste ano - afirmou ao jornalista Lucas Figueiredo, em entrevista para o livro, que documentos secretos da ditadura militar &quot;não foram destruídos&quot;. Foto: Reprodução" width="580" height="500" /></a> Ministro do Exército no governo Sarney (1985-1990), general Leônidas Pires Gonçalves - que faleceu em junho deste ano - afirmou ao jornalista Lucas Figueiredo, em entrevista para o livro, que documentos secretos da ditadura militar "não foram destruídos". Foto: Reprodução</p>
+<p><em>Por Ayrton Maciel, do Jornal do Commercio</em></p>
+<p>Passados 25 anos da ditadura de 1964, a primeira eleição direta para presidente da República, em 1989, instalou nas Forças Armadas o receio e a incerteza sobre o destino de seus arquivos secretos produzidos durante o regime militar. O pleito para o sucessor de José Sarney (PMDB) – primeiro civil da reabertura política de 1985, levado ao cargo com a morte de Tancredo Neves (PMDB), eleito pelo Congresso Nacional – tinha os candidatos Fernando Collor de Mello (PRN, eleito) e Luiz Inácio Lula da Silva (PT) defendendo a extinção do Serviço Nacional de Informação (SNI), e Leonel Brizola (PDT) prometendo a sua democratização. Começou, então, a destruição “seletiva” dos arquivos da ditadura militar.</p>
+<p>Desaparecem prontuários “comprometedores”, que podem ser utilizados como provas, e outros acervos de documentos dos órgãos de informação e represssão do Exército, Marinha, Aeronáuticaas e do SNI são ocultados. O desmonte, entretanto, deixou “rastros” que estão ajudando a Comissão Nacional da Verdade (CNV) e historiadores a identificar o destino de desaparecidos, alguns incluídos em “prontuários de mortos”.</p>
+<p>As informações estão no livro “Lugar Nenhum - Militares e Civis na Ocultação dos Documentos da Ditadura”, do jornalista mineiro Lucas Figueiredo – autor de Morcegos Negros, sobre o esquema PC Farias de corrupção no governo Collor, e pesquisador da CNV – que acaba de chegar às livrarias.</p>
+<p><strong>LEIA TAMBÉM:</strong></p>
+<p>&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2015/08/25/lula-posta-receita-de-bolo-para-esconder-mensagem-contra-ditadura/" target="_blank">Lula posta receita de bolo para esconder mensagem contra ditadura</p>
+<p>&gt;</a> <a href="https://blogs.ne10.uol.com.br/jamildo/2015/04/02/marilia-arraes-propoe-projeto-para-mudar-nome-de-ruas-que-homenageiam-lideres-da-ditadura-militar/" target="_blank">Marília Arraes propõe projeto para mudar nome de ruas que homenageiam líderes da ditadura militar</a></p>
+<p>&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2014/12/12/para-teresa-leitao-movimento-sindical-pernambucano-foi-o-mais-atacado-pela-ditadura/" target="_blank">Para Teresa Leitão, movimento sindical pernambucano foi o mais atacado pela Ditadura</a></p>
+<p>Em 1972, revela o jornalista, o “temido” Centro de Informações da Marinha (Cenimar) criou um setor de microfilmagem, que cuidava de “miniaturizar” seu acervo de documentos sigilosos. Em dois anos, foram microfilmados mais de 1,2 milhão de páginas de 11.342 prontuários, sendo 42.777 páginas sobre mortos, conforme registra o Resumo Geral da Microfilmagem do Rio, até 31 de dezembro de 1973, integrante do relatório “Situação dos Trabalhos”, datado de 21 de março de 1974.</p>
+<p>As microfilmagens, entregues à CNV em 2013, guardam informações a respeito de mortos, agentes e operações. O trabalho de microfilmagem recebeu o nome de Operação Netuno, com documentos carimbados de “ultrassecreto”, “secreto”, “confidencial” e “reservado” pelo serviço secreto da Marinha, e que inclui documentos do Exército. “Em 1972, o Cenimar microfilmou 32.938 páginas de prontuários de pessoas mortas. Nos anos seguintes, porém, a Marinha seguiria negando ter informações sobre óbitos que constavam da relação”, conta o jornalista.</p>
+<p>Em 2013, a Comissão Nacional da Verdade (CNV) formou uma comissão de três historiadores para examinar uma documentação produzida e microfilmada pelo Cenimar, em sua maior parte, e pelo Centro de Informações do Exército (CIE), entre 1972 e 1974, que “sobreviveram à operação limpeza” das Forças Armadas.</p>
+<p>O grupo – Daniel Aarão Reis, Ângela Maria de Castro Gomes e José Murilo de Carvalho – concluiu que os microfilmes “comprovavam a existência de um vasto acervo documental inédito, até agora desconhecido em sua quase totalidade”.</p>
+<p>No relatório da pesquisa, de 24 de abril de 2013, os historiadores afirmam que, nos prontuários de pessoas mortas – integrantes do Relatório Anual e Estatística da Divisão de Registro em 1972 – constam nomes de militantes considerados até aquela data como “desaparecidos”.</p>
+<p>Os historiadores, relata Lucas Figueiredo, encontraram, no conjunto de documentos, o ofício “ultrassecreto” nº 0034, de 22 de janeiro de 1970, do Cenimar para o Ministério da Marinha, que descreve a reorganização do sistema de informação e repressão da ditadura, e que resultou no Centro de Operação e Defesa Interna (CODI). Acompanham o ofício gráficos explicativos da cadeia de comando que conectava o órgão “diretamente aos ministros militares”.</p>
+<p>Para preparar o livro, Lucas Figueiredo teve acesso à docuemntação analisada pelos historiadores e e entrevistou jornalistas do período militar, historiadores e até o ex-ministro do Exército do governo José Sarney, general gaúcho Leônidas Pires Gonçalves, falecido em 4 de junho deste ano aos 94 anos, no Rio de Janeiro. Do general, Lucas Figueiredo afirma ter ouvido que os arquivos do Exército não foram destruídos. “Foram queimados coisa nenhuma”, assegurou Leônidas.</p>
+<p>No livro, o jornalista revela que, em 1990, cinco anos depois da reabertura política do País, e antes da posse do prineiro presidente eleito, Fernando Collor de Mello, o então Serviço Nacional de Informação (SNI) decidiu destruir prontuários biográficos de investigados e militates que, no entender dos militares, poderiam no futuro “causar problemas políticos e jurídicos”.</p>
+<p>“Interrupção da atual sistemática de elaboração de informações biograficas. ...o acervo restante, analisada a questão em seus aspectos múltiplos, principalmente políticos e jurídicos, deve ser destruído”, orienta o documento do SNI.</p>
+<p>O livro publica fotos de informes reveladores de que a destruição de documentos, quando era regular, “deixava rastros”, contradizendo as alegações das Forças Armadas, após a ditadura, de que a documentação da repressão havia sido destruída legalmente, “mas em época incerta e sem deixar registros”.</p>
+<p>Lucas Figueiredo reconhece que, nos acervos públicos remanescentes da ditadura de 64, há grande número de documentos “irrelevantes e raros registros que tratam de prisão de desaparecidos políticos ou de ações de terrorismo gestadas dentro do Estado”, mas nos documento microfilmados pelo Cenimar as provas são relevantes.</p>
+{% endraw %}

@@ -1,0 +1,29 @@
+---
+id: 12506046
+date: "2015-10-25T19:20:03Z"
+last_modified_at: null
+tags:
+  - "justica"
+  - "paulo-camara"
+  - "pequeno"
+  - "segunda-chamada"
+categories:
+  - "noticias"
+title: "Zaidan volta a criticar Justi\u00e7a por intima\u00e7\u00e3o e chama Paulo C\u00e2mara de pequeno imperador"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/08/Paulo-Camara.jpg"
+---
+{% raw %}
+<p>Lições de direito ao pequeno imperador</p>
+<p>Por Michel Zaidan, em artigo enviado ao Blog de Jamildo</p>
+<p>Segundo o Código de Direito Penal,uma interpelação judicial, TAMBÉM CHAMADA DE AÇÃO CAUTELAR PREPARATÓRIA, interposta por uma das partes é um pedido de explicação sobre algum fato, referência ou escrito em razão de ambuiguidade, dubiedade ou equivocidade,por via judicial. O magistrado tem o dever de encaminhar o pedido da parte subscritora ao interpelado, estabelecendo prazo para a resposta. A rigor, esse pedido de explicação, via judicial, não é parte do processo criminal. A obrigação do juiz é intimar a parte destinatária da interpelação, com a queixa anexada, e aguardar, no prazo fixado, sua resposta, encaminhado-a - quando houver - a parte reclamante. O interpelado responde se quiser ou se achar conveniente, pois ele tem o direito de não produzir provas contra si ou auto-incriminar-se.Cessa ai a atividade da Justiça Criminal. A autoridade judicial não pode e não deve obrigar, constranger o interpelado a fazer nada. Ela simplesmente se reporta ao autor da petição, entregando-o o resultado da interpelação. A interpelação judicial é um expediente utilizado para produção de provas para, aí sim, dar provimento a uma ação penal de injúria, calúnia e difamação (tipificados como crimes contra a Honra), caso a parte reclamante não fique satisfeita com a resposta ou a ausência de resposta da parte reclamada. Não é normal, num pedido de interpelação judicial (mesmo em se tratando de uma autoridade pública), não se fixar prazo para a preparação e envio de uma defesa prévia, não se anexar o motivo da interpelação judicial,e em seguida, marcar-se uma audiência em juízo para ouvida ou pedido de explicação. Em se tratando de uma ação voluntária, o interpelado não é obrigado - por ninguém - a responder ou comparecer a qualquer audiência. Afinal, é só um pedido de explicação; não um processo criminal, que poderá se seguir à interpelação, a juizo da parte interessada. Caso a autoridade judicial insista com a interpelação, vencido o prazo decadencial e a prescrição, cabe mandato de segurança por conduta irregular do Poder Judiciário.</p>
+<p>Por outro lado, a lei da organização judiciária prevê que o chefe de secretária ou o responsável pela expedição dos mandados de citação estabeleça um prazo para que o oficial de justiça entregue o mandado. Não é comum que, a volta do mandado de citação não entregue ao seu destinatário seja substituido por um, dois, três novos mandados, com o mesmo motivo e destinatário, sem que o mandado original tenha sido entregue e o mensageiro, interpelado pelo chefe da expedição sobre os motivos da não intimação, fixando um novo prazo para isso.</p>
+<p>Há também a questão do prazo entre a ocorrência e a ciência do fato gerador da interpelação pelo reclamante e a data da intimação. A lei estabelece um prazo decadencial (6 meses) para essas ações, que não será interrompido nem pela interpelação nem por qualquer audiência marcada. O que pode levar a nulidade de qualquer ação futura sobre o mesmo fato ou ocorrência.</p>
+<p>O oficial de Justiça sempre pode alegar excesso de trabalho, acúmulo de mandados de citação para entregar, falta de pessoal, greve no judiciário, péssimas condições de trabalho etc., para não ter entregue os mandados. Mas não se entende, assim, como é possível ocupar -ao mesmo tempo - três oficiais de justiça para fazer a mesma coisa, um deles fora do horário de trabalho, no espaço de menos de um mes. E em se tratando, não de um processo criminal, mais de um simples pedido de explicação, que pode ou não ser respondido.</p>
+<p>Segundo o ministro Gilmar Mendes, respondendo a um pedido de interpelação de José Sarney a José Serra, através do Supremo Tribunal Federal, a mediação do magistrado cessa no momento em que é feita a intimação. Se vai haver resposta ou não, se o reclamante vai ficar satisfeito ou não e vai querer prolongar a querela, isso já não tem mais a ver com a Justiça. Cabe ao interessado ajuizar no poder Judiciário uma ação criminal, com base na tipificação penal dos crimes contra a honra, e aí começa tudo outra vez.</p>
+<p>Porém, essa nova ação não pode mais ser feita a partir do mesmo fato gerador da petição inicial, pois o prazo decadencial impede que ela - a ação - possa ser embasada naquele fato. Haveria que se buscar outro fato para embasar a nova ação.</p>
+<p>Tudo isso seria perfeitamente dispensável - no momento em que o estado de Pernambuco apresenta para o mundo as piores masmorras prisionais do planeta- se as nossas autoridades públicas tivessem um "animus" democrático e aceitassem as críticas à sua gestão. Ou se conhecessem, não o código das contabilidade pública - mas a Constituição Federal, o Código de Processo Penal e a lei de Organização Judiciária. Mas é pedir muito a quem foi posto no cargo por outros, para fazer a política dos outros. E agora, José? Para onde?</p>
+<p>PS. Os interessados em saber a titularidade do avião que vitimou o -ex governador de Pernambuco, podem ler com muito proveito a crônica de janio de Freitas, "Jato Silencioso", do dia 18 de agosto de 2015, lá se diz sobre a falta de vontade política de apurar as responsabilidades civis e penais decorrentes do sinistro do aeronave e as névoas que recobrem as transações para a compra da aeronave.</p>
+{% endraw %}

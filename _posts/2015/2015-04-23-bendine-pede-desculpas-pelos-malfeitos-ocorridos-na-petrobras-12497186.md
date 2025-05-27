@@ -1,0 +1,30 @@
+---
+id: 12497186
+date: "2015-04-23T09:33:35Z"
+last_modified_at: null
+tags:
+  - "desculpas"
+  - "nancy-pelosi"
+  - "petrobras"
+categories:
+  - "noticias"
+title: "Bendine pede desculpas pelos \"malfeitos\" ocorridos na Petrobras"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/04/bendine-petrobras.jpg"><img class="wp-image-126124 size-full" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/04/bendine-petrobras.jpg" alt="A diretoria da Petrobras apresenta o balanço auditado do ano passado. O resultado líquido de 2014 ficou negativo em R$ 21,6 bilhões/Divulgação Agência Petrobras." width="580" height="388" /></a> A diretoria da Petrobras apresenta o balanço auditado do ano passado. O resultado líquido de 2014 ficou negativo em R$ 21,6 bilhões/Divulgação Agência Petrobras.</p>
+<p><p style="text-align: justify;">Da Agência Brasil</p></p>
+<p><p style="text-align: justify;">O presidente da Petrobras, Aldemir Bendine, pediu desculpas, em nome dos empregados da estatal, pelas irregularidades ocorridas na companhia. O balanço auditado de 2014, divulgado hoje (22), mostrou que a estatal teve um prejuízo total de R$ 21,6 bilhões, sendo R$ 6,2 bilhões com perdas referentes à corrupção. Bendine falou durante entrevista à imprensa na sede da empresa, no centro do Rio.</p></p>
+<p><p style="text-align: justify;">"Eu hoje represento a companhia. A Petrobras foi vítima de tudo isso pelo que ela passou. Somando-me aos 86 mil empregados do sistema Petrobras, sim, a gente está com o sentimento até de vergonha disso que a gente vivenciou, desses malfeitos que ocorreram”, disse.</p></p>
+<p><p style="text-align: justify;">Bendine destacou  que a sociedade deve continuar acreditando na Petrobras e pediu desculpas pelo o que aconteceu com a empresa. “Sim, eu faço um pedido de desculpa, em nome dos empregados da Petrobras, porque hoje eu sou um deles."</p></p>
+<p><p style="text-align: justify;"><strong>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2015/04/22/balanco-auditado-revela-rombo-de-r62-bilhoes-na-petrobras-por-causa-de-corrupcao/" target="_blank">Balanço auditado revela rombo de R$ 6,2 bilhões na Petrobras por causa de corrupção</a></strong></p></p>
+<p><p style="text-align: justify;">Ele falou também sobre a situação das centenas de empresas que fazem parte da cadeia produtiva encabeçada pela estatal, que gera renda e negócios dos quais dependem milhares de trabalhadores.</p></p>
+<p><p style="text-align: justify;">Muitos desempregados ou sem receber salários, por conta dos impedimentos legais de repasse de dinheiro, principalmente a partir das grandes empreiteiras. O presidente da Petrobras destacou que o plano de investimento da companhia ainda é robusto para 2015, com R$ 50 bilhões sob responsabilidade da <em>holding</em> e totalizando R$ 90 bilhões considerando todo o sistema.</p></p>
+<p><p style="text-align: justify;">"Primeiro eu gostaria de destacar que a Petrobras não tem hoje nenhum compromisso atrasado. O que nós estamos vivenciando é um momento econômico mais restritivo e está sendo amplificado pela situação dessa investigação. Lógico que o ideal para a companhia é que esses processos de investigação e julgamento aconteçam o mais rápido possível. Mas a gente se vê em uma situação que essas pequenas e médias empresas estão ligadas na cadeia produtiva a uma dessas empresas que também estão passando por dificuldade neste momento, dado o processo de investigação. E a Petrobras não pode avançar em relação a esse processo, enquanto essas investigações e acordos não estiverem definitivamente realizados", disse.</p></p>
+<p><p style="text-align: justify;">Bendine ressaltou que a estatal empreenderá todos os esforços para recuperar o dinheiro desviado pela corrupção, inclusive processando pessoas apontadas nas investigações. "A empresa vai fazer todos os esforços para que ela possa reaver o maior valor possível diante desses feitos. É o que a gente vem buscando muito fortemente na colaboração com as autoridades. Nós vamos agir com o máximo rigor e buscar todos esses valores, seja das pessoas que praticaram esse processo, assim como possíveis desvios das empresas que fizeram parte dessa cartelização."</p></p>
+<p><p style="text-align: justify;">Ele agradeceu a paciência de todos pelo atraso na publicação do balanço contábil e destacou dados que indicam a força da companhia, pedindo que a sociedade continue acreditando na estatal. "Essa forma transparente com que as coisas estão sendo conduzidas é o mais importante para nós. Continuem acreditando fortemente na empresa. Ela já tomou todas as medidas necessárias. A Petrobras tem hoje o maior valor de retorno do mundo, em exploração e produção, com 28%. Um em cada três barris de óleo descobertos no mundo, nos últimos dez anos, foi da Petrobras. Temos a maior geração de valor sobre investimento da indústria do petróleo: para cada dólar gasto em exploração, adicionamos quatro dólares aos nossos ativos."</p></p>
+<p><p style="text-align: justify;">Ao fim da entrevista, o presidente da Petrobras disse que a empresa não vai ficar imobilizada e que a crise gerada pelas denúncias de corrupção agora pertence ao passado. "Mesmo com todas as dificuldades que a empresa enfrentou, quero reforçar que ela não vai entrar em um sistema de paralisia. Ela tem uma capacidade de investimento muito alto e a gente sabe a importância disso para a economia brasileira e para toda a sociedade. Isso é uma página virada nesse capítulo triste que a empresa passou, mas agora a gente tem plena confiança de que nós vamos conduzir a empresa para uma nova fase e para aquilo que ela sempre foi, o orgulho da sociedade brasileira."</p></p>
+{% endraw %}

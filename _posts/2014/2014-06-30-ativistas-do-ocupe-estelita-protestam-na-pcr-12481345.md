@@ -1,0 +1,31 @@
+---
+id: 12481345
+date: "2014-06-30T09:50:12Z"
+last_modified_at: null
+tags:
+  - "estelita"
+categories:
+  - "noticias"
+title: "Ativistas do Ocupe Estelita protestam na PCR"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/06/ocupe-pcr.jpg"
+---
+{% raw %}
+<p><p style="text-align: justify;"><em>Foto: Luísa Duque Belfort/reprodução do Facebook</em></p></p>
+<p><p style="text-align: justify;">Ativistas ligados ao movimento Ocupe Estelita realizam um protesto no hall de entrada da Prefeitura do Recife na manhã desta segunda-feira (30). O grupo cobra participação em uma reunião marcada para as 10h entre o prefeito Geraldo Julio (PSB) e sete entidades da sociedade civil para discutir o processo de redesenho do projeto Novo Recife, empreendimento que será construído no Cais José Estelita, no bairro de São José.</p></p>
+<p>Leia também: <a href="https://blogs.ne10.uol.com.br/jamildo/2014/06/16/consorcio-tera-30-dias-para-redesenhar-novo-recife-apos-audiencia-publica/" target="_blank"><strong>Consórcio terá 30 dias para redesenhar Novo Recife após audiência pública</strong></a></p>
+<p><a href="https://blogs.ne10.uol.com.br/jamildo/2014/06/05/consorcio-novo-recife-concorda-em-revisao-de-projeto-mas-pede-fim-do-ocupe-estelita/" target="_blank"><strong>Consórcio Novo Recife concorda em revisão de projeto, mas pede fim do Ocupe Estelita</strong></a></p>
+<p><p style="text-align: justify;">Segundo a assessoria da PCR, a reunião desta segunda teria o objetivo de passar às entidades informações sobre o processo de rediscussão do projeto e definir os próximos passos; inclusive como seria realizada a audiência pública para apresentação de novas propostas para a área e o modelo de negociação com o Ocupe Estelita e com o Consórcio Novo Recife.</p></p>
+<p><p style="text-align: justify;">A reunião acontecerá com as setes entidades que haviam aprovado a proposta de negociação da PCR, que <a href="https://blogs.ne10.uol.com.br/jamildo/2014/06/16/consorcio-tera-30-dias-para-redesenhar-novo-recife-apos-audiencia-publica/" target="_blank"><strong>prevê a revisão do projeto em 30 dias após a realização da audiência pública</strong></a>. A pedido dos ativistas, o prefeito encaminhou o modelo para o Ministério Público de Pernambuco (MPPE). Era esperado que fossem apresentadas novidades sobre a análise do MPPE neste encontro.</p></p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/06/estelita.jpg"><img class="size-full wp-image-110284" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/06/estelita.jpg" alt="Imagem: reprodução da Internet" width="580" height="289" /></a> Imagem: reprodução da Internet</p>
+<p><p style="text-align: justify;">O secretário de Desenvolvimento e Planejamento Urbano, Antônio Alexandre, que está à frente das negociações, propôs uma reunião paralela para ouvir as demandas dos manifestantes. Os manifestantes, porém, pediram para cancelar a reunião anteriormente marcada. Dentre as demandas apresentadas, também foi pedido para que a PCR passasse para o MPPE a coordenação do processo de rediscussão do projeto Novo Recife.</p></p>
+<p><p style="text-align: justify;">O secretário de Juventude, Jayme Asfora e os secretários executivos de Segurança Urbana, Eduardo Machado, e de Governo e Participação Social, Gabriel Leitão também estão conversando com os manifestantes.</p></p>
+<p><p style="text-align: justify;">Em entrevista à repórter Ana Maria Miranda, do NE10, o ativista Lucas Alves, disse que há quase um mês o Ocupe não têm uma resposta da PCR. "Queremos pressionar o prefeito para receber o movimento, já que hoje ele está se reunindo com outras entidades".</p></p>
+<p><p style="text-align: justify;">De acordo com ele, barracas foram montadas no hall da prefeitura e não há previsão para a saída. "Os próximos passos iremos definir dependendo da decisão do prefeito", afirmou Lucas.</p></p>
+<p><p style="text-align: justify;">Pré-candidato à deputado estadual pelo PSOL, Edilson Silva afirmou também que quer garantido o direito de passar um mês em frente à PCR, caso seja necessário. "Vamos infernizar a vida política dele", disse, em referência ao prefeito Geraldo Julio. "Qualquer inauguração que ele for fazer, nós vamos estar lá", garantiu.</p></p>
+<p><p style="text-align: justify;">O terreno no cais onde o Novo Recife será construído foi ocupado por militantes ligados ao grupo Direitos Urbanos no dia 21 de maio, após o início da demolição dos galpões existentes no local. A reintegração de posse ocorreu no dia 17 de junho.</p></p>
+<p><p style="text-align: justify;">A ação da Polícia Militar foi criticada e c<a href="https://blogs.ne10.uol.com.br/jamildo/2014/06/20/em-nota-joao-lyra-defende-acao-da-pm-na-desocupacao-do-cais-jose-estelita/" target="_blank"><strong>ausou problemas políticos para o governador João Lyra Neto (PSB)</strong></a>. Até o antecessor dele, <a href="https://blogs.ne10.uol.com.br/jamildo/2014/06/19/eduardo-campos-teria-se-queixado-de-joao-lyra-por-acao-da-pm-na-reintegracao-do-estelita/" target="_blank"><strong>o ex-governador e presidenciável Eduardo Campos (PSB), teria se queixado da ação</strong></a>.</p></p>
+<p><p style="text-align: justify;">Antes disso, porém, <a href="https://blogs.ne10.uol.com.br/jamildo/2014/06/03/pcr-suspende-alvara-de-demolicao-dos-galpoes-do-cais-jose-estelita/" target="_blank"><strong>a PCR já havia suspendido o alvará de demolição dos armazéns</strong></a>. No dia 5 de junho, <a href="https://blogs.ne10.uol.com.br/jamildo/2014/06/05/consorcio-novo-recife-concorda-em-revisao-de-projeto-mas-pede-fim-do-ocupe-estelita/" target="_blank"><strong>as empresas que compõem o consórcio concordaram com a revisão do projeto</strong></a>. Elas pediram, porém, <a href="https://blogs.ne10.uol.com.br/jamildo/2014/06/16/novo-recife-espera-desocupacao-do-cais-jose-estelita-para-negociar-ocupe-quer-garantir-mudancas/" target="_blank"><strong>que houvesse a desocupação do terreno</strong></a>.</p></p>
+{% endraw %}

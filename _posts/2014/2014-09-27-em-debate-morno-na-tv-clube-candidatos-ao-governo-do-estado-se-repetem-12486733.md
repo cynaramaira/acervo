@@ -1,0 +1,50 @@
+---
+id: 12486733
+date: "2014-09-27T00:51:31Z"
+last_modified_at: null
+tags:
+  - "candidatos"
+  - "debate"
+  - "estado"
+  - "governo"
+  - "jc-clube"
+categories:
+  - "noticias"
+title: "Em debate morno, na TV Clube, candidatos ao governo do Estado se repetem"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/tvclube.jpg"><img class="size-full wp-image-115674" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/tvclube.jpg" alt="Armando Monteiro, Zé Gomes e Paulo Câmara participaram de debate nesta sexta-feira (27). Foto: BlogImagem." width="580" height="423" /></a> Armando Monteiro, Zé Gomes e Paulo Câmara participaram de debate nesta sexta-feira (27). Foto: BlogImagem.</p>
+<p><p style="text-align: justify;">Por Jamildo Melo, editor do Blog</p></p>
+<p><p style="text-align: justify;">Com a colaboração de Marcela Balbino, repórter do Blog</p></p>
+<p><p style="text-align: justify;">O debate desta noite na TV foi animado como um jogo de golfe.</p></p>
+<p><p style="text-align: justify;">No encontro da TV Clube, o primeiro bloco, frio, já dava a tônica do que seria o confronto entre os candidatos ao governo de Pernambuco. Réplicas e tréplicas repetitivas acabaram prejudicando a audiência.</p></p>
+<p><p style="text-align: justify;">O candidato de oposição, Armando Monteiro Neto, pareceu abdicar de uma postura mais agressiva em relação a Paulo Câmara, como ocorreu na TV Jornal, possivelmente com receio de ver a ampliação de sua rejeição, que dobrou, como mostrou a mais recente pesquisa da Nassau, para o Jornal do Commercio. É um dilema que terá que enfrentar nesta reta final. Não por acaso, evitou tratar do tema avião de Eduardo Campos.</p></p>
+<p><p style="text-align: justify;">O candidato de situação, Paulo Câmara, nitidamente foi orientado a falar menos de Eduardo Campos e apresentar mais propostas. No vídeo, também mostrou melhor desenvoltura do que no debate da TV Jornal, quando sorria até ao falar de temas mais delicados.</p></p>
+<p><p style="text-align: justify;">A questão da comoção com a morte do ex-governador somente foi registrada no final do encontro, quando o petebista aproveitou a despedida para dar uma estocada no adversário. “Pessoas tentaram tirar partido político da comoção”, declarou, depois de frisar que sempre caminhou com as próprias pernas, em outra alusão depreciativa ao socialista.</p></p>
+<p><p style="text-align: justify;">O primeiro ataque mais duro de Armando Monteiro somente veio a ser desferido no terceiro bloco, quando repetiu que Eduardo era um líder e tinha articulação nacional, como ele. "Time precisa de um técnico, orquestra precisa ter maestro"</p></p>
+<p><p style="text-align: justify;">Armando Monteiro Neto repetiu ainda as críticas ao desempenho do Estado no Pacto pela Vida, em uma guerra sem fim de números, além de ter classificado como inaceitável o desempenho no Minha Casa, Minha Vida no Estado.</p></p>
+<p><p style="text-align: justify;">Em outro bloco, o petebista tentou jogar, mais uma vez, o ex-secretário de Fazenda contra os pequenos e médios empresários, ao citar o mecanismo de antecipação da tributação para o pessoal do Simples Nacional. “Os pequenos estão financiando o Estado”, acusou. Na réplica, Paulo Câmara defendeu a medida usando como argumento o combate à sonegação. Se todos pagam, quem não paga não pode ter como obter vantagem, em uma espécie de concorrência desleal.</p></p>
+<p><p style="text-align: justify;">Um exemplo de um Armando Monteiro Neto mais light, sem partir para o ataque mais franco, se deu quando debateu com Paulo Câmara a questão do saneamento e a PPP da Compesa, que o PT de Humberto Costa tentou satanizar na eleição municipal passada. Nesta semana que passou, ao lado do candidato a senador pelo PT João Paulo, Armando ensaiou fazer críticas ao programa, de olho no voto dos urbanitários. Na TV, mesmo frisando que não havia nada a ser celebrado e que o interior precisaria receber investimentos diretos da Compesa, o oposicionista chegou a elogiar a iniciativa. “Precisamos fazer a PPP e fortalecer a Compesa”.</p></p>
+<p><p style="text-align: justify;">No terceiro bloco do debate, Paulo Câmara lançou mão de um questionamento para exaltar uma ação que ele coordenou, enquanto secretário da Fazenda, e criticar o governo da presidente Dilma Rousseff (PT). Antes de questionar a opinião de Armando Monteiro sobre o Fundo Estadual de Apoio ao Desenvolvimento Municipal (FEM), o socialista afirmou que os municípios estão sofrendo um "arrocho econômico promovido pelo governo federal".</p></p>
+<p>Armando respondeu cravando que o fundo não pode ser "uma bolsa de apoio aos prefeitos" e cobrou contrapartidas das prefeituras para obter o benefício financeiro.</p>
+<p>"O governo federal tem dado um grande apoio aos municípios. As máquinas que foram dadas às prefeituras, o transporte escolar, o programa de creches do governo federal e o apoio sem limite à construção de escolas. O governo federal tem feito muito no apoio aos municípios", defendeu Armando, acrescentando que considera o FEM uma "boa ideia". Mas o senador licenciado alertou que "são necessários critérios mais seletivos na transferência dos recursos".</p>
+<p>Na ótica de Armando, o ideal seria vincular a distribuição do FEM ao desempenho educacional dos municípios.</p>
+<p><p style="text-align: justify;"><strong>Candidato do blá-blá-blá</strong></p></p>
+<p><p style="text-align: justify;">O candidato do PSOL, Zé Gomes, que poderia ajudar a apimentar o debate, por ser um franco atirador, não ajudou muito, superando-se na mesmice. Em dado momento, revelou que vai aos campos de futebol desde criança. Que bom! Com este diferencial, teria condições de apresentar soluções para a violência, mas elas não vieram. Além de só atirar pedra, abusa da repetição do discurso ideológico. Inventivo, recorreu desta vez até ao poeta Carlos Pena Filho, para falar de sonhos de inclusão e não sonhos de ganância.</p></p>
+<p><p style="text-align: justify;">Por falar em decoreba, ao falar de violência e Pacto pela Vida, Paulo Câmara lembrava um menino de Olinda, repetindo sempre o mesmo discurso. Repetiu também a proposta de corredores exclusivos e bilhete único. Repetiu também a promessa de contratar mais 8 mil policiais, para a área de segurança.</p></p>
+<p><p style="text-align: justify;">Armando Monteiro Neto, no penúltimo bloco, depois de ser acusado de ser igual ao socialista, de ser a continuidade do modelo de Eduardo Campos, criticou Zé Gomes. “Você defende um modelo que eu não sei bem qual é. Híbrido ou socialismo radical”, pontuou. Zé Gomes é a prova viva e ambulante de que a mentalidade estelita não tem propostas, só um discurso vazio.</p></p>
+<p><p style="text-align: justify;"><strong>NOTAS DE BASTIDORES</strong> - O marqueteiro de Paulo Câmara, Edson Barbosa, preferiu não dar cartaz para o adversário Armando Monteiro nem na credencial para o debate. O número 14, da frase "O voto na Record 2014", foi dobrado para não dar crédito ao opositor, cujo número nas urnas é 14. Superstição nunca é demais...</p></p>
+<p><p style="text-align: justify;">Antes do debate, Armando Monteiro dirigiu-se para a bancada da apresentadora, Isly Viana, pensando que era a dele. Mas rapidamente foi orientado a se dirigir ao local correto. Desvio de rota...</p></p>
+<p><p style="text-align: justify;">Nos intervalos do debate, os conselheiros corriam para auxiliar os candidatos. Do lado de Paulo Câmara estavam Geraldo Julio e Edson Barbosa. No auditório, o ex-governador Joaquim Francisco assistia atentamente ao debate.</p></p>
+<p><p style="text-align: justify;">Do lado de Armando Monteiro estavam o senador Humberto Costa (PT), o vice Paulo Rubem, o deputado federal João Paulo (PT) e os marqueteiros.</p></p>
+<p><p style="text-align: justify;"><strong>MILITÂNCIA</strong> - Se dentro dos estúdios o clima estava ameno entre os candidatos, longe das câmeras a militância estava em polvorosa. Do lado da Frente Popular, bagaços de cana-de-açúcar estavam espalhados pelo chão. Segundo os militantes, uma alusão à trajetória de Armando Monteiro, que vem de uma família de usineiros. A ideia do grupo era taxar Armando de "usineiro falido".</p></p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/cana-de-acucar.jpg"><img class="size-full wp-image-115675" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/cana-de-acucar.jpg" alt="Militantes jogaram cana-de-açúcar para associar nome de Armando a um usineiro falido. Foto: BlogImagem." width="580" height="433" /></a> Militantes jogaram cana-de-açúcar para associar nome de Armando a um usineiro falido. Foto: BlogImagem.</p>
+<p><p style="text-align: justify;">A atitude é uma resposta ao debate na TV Jornal, no início de setembro, em que militantes da corrente de Armando Monteiro Neto (PTB) jogaram cascas de laranja no veículo que levava Paulo Câmara, em referência às supostas empresas laranjas envolvidas na compra do jatinho Cesnna Citation.</p></p>
+<p>Se não foi lembrado dentro dos estúdios, a polêmica do avião veio à tona no grito de guerra dos militantes do candidato trabalhista, que trouxeram cartazes com ilustrações de laranjas.</p>
+<p><p style="text-align: justify;">O cuscuz 40, citado no cartaz, é uma referência antiga, usada em 2012 por João Paulo na eleição de Geraldo Julio. O petista, que na época era vice de Humberto Costa (PT), dizia que o Recife estava parecendo até um cuscuz de tão amarelo.</p></p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/cuscuz.jpg"><img class="size-full wp-image-115677" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/cuscuz.jpg" alt="Foto: BlogImagem." width="580" height="433" /></a> Foto: BlogImagem.</p>
+{% endraw %}

@@ -1,0 +1,41 @@
+---
+id: 12487731
+date: "2014-10-11T17:30:30Z"
+last_modified_at: null
+tags:
+  - "corrupcao"
+  - "esquema-criminoso"
+  - "jaboatao"
+categories:
+  - "noticias"
+title: "Grampos da PF apontam como funcionava suposto esquema de corrup\u00e7\u00e3o em Jaboat\u00e3o"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/10/CC160109020.jpg"
+---
+{% raw %}
+<p>Por Jamildo Melo, editor do Blog</p>
+<p>Os grampos realizados pela Polícia Federal em Pernambuco a partir de 2007, primeiro ano da gestão Eduardo Campos, focando primeiramente a Prefeitura de Jaboatão dos Guararapes, então comandada pelo prefeito socialista Newton Carneiro, apontam o uso de influência política para fins escusos, a partir da pressão da Câmara Municipal de Jaboatão. Carneiro não aparece nas gravações, embora a sua filha, Elina Carneiro, então secretária municipal na gestão do pai, tenha sido arrolada como acusada. Na lista de acusados enviada a Justiça de Jaboatão dos Guararapes, há vários nomes de vereadores também relacionados. Há suspeitas de que o suposto esquema fraudulento tenha sido levado para a esfera estadual, mas não se tem notícia de ação penal neste sentido.</p>
+<p><strong> <a href="https://blogs.ne10.uol.com.br/jamildo/2014/10/10/pf-apurou-suposto-esquema-de-corrucao-governo-eduardo-campos/" target="_blank">PF apurou suposto esquema de corrupção no governo Eduardo Campos</a></strong></p>
+<p><a href="https://https://blogs.ne10.uol.com.br/jamildo/2014/10/11/suposta-quadrilha-tentou-emplacar-jordao-emereciano-como-vereador-recife-para-fazer-negocios-com-prefeitura-diz-pf/"><strong>Suposta quadrilha tentou emplacar Jordão Emereciano como vereador do Recife para fazer negócios com Prefeitura, diz PF</strong></a></p>
+<p>De acordo com os documentos da PF, o vereador e presidente da Câmara Geraldo Cisneiros (PSDB) usava sua influência para tráfico de influência e acesso facilitado às licitações, ou trabalhava para conseguir liberação de pagamentos para empresas envolvidas no esquema.</p>
+<p>“Conforme fica evidenciado nos autos, Geraldo Cisneiros utilizava-se de veto de verbas públicas para fazer pressão política, a fim de agilizar manobras de seu interesse”, descreve a PF, em seus relatórios.</p>
+<p>A irmã dele, Cristina Cisneiros, levava empresas para fazerem negócios com o município, como fardas e equipamentos como cadeiras escolares, alimentação, entre outros. Segundo a PF, ela costumava explorar o prestígio do irmão, com o seu consentimento, para fazer negócios em Jaboatão.</p>
+<p>“Evidencia-se que Cristina Cisneiros seria uma espécie de lobista e que os contratos por ela obtidos beneficiam Jordão Emerenciano, Geraldo Cisneiros e Luis Paulo Horita”, descreve a PF. Um empresário paulista, de nome Luis Paulo Horita, também foi grampeado. Em uma das gravações, ele reclama com Cristina Cisneiros que adiantou R$ 50 mil ao grupo, mas a licitação esperada não saia.</p>
+<p>O doleiro Jordão Emerenciano lavava o dinheiro, em contas falsas na Caixa Econômica Federal, com a ajuda de um funcionário da CEF, enquanto tentava arrumar novos negócios. Dono de uma casa de câmbio, Jordão Emerenciano acabou entregando o suposto esquema ao ser flagrado em outra ação da PF para combater o jogo do bicho, no Recife, em 2006.</p>
+<p>Segundo a PF, Cristina Cisneiros tinha uma sociedade com Jordão Emerenciano quanto à participação em licitações públicas. Segundo as investigações, utilizava-se de seu acesso aos servidores de órgãos públicos, notadamente a Prefeitura de Jaboatão dos Guararapes, onde o irão exercia mandato, a fim de obter informações privilegiadas quanto ao processo licitatório.</p>
+<p>“Ressalte-se que Geraldo Cisneiros tinha conhecimento das atividades de sua irmã, restando evidenciado que, muitas vezes, Cristina Cisneiros agia em nome de Geraldo, seguindo suas orientações. Também há registro de conluio entre Crsitina Cisneiros e Jordão Emerenciano para a prática de fraudes a licitações”.</p>
+<p>A área de saúde também foi alvo dos grampos e de ingerências suspeitas.</p>
+<p>Nos autos do inquérito da PF, vazados depois do primeiro turno das eleições estaduais, há um pedido de Jordão Emerencioano para que Geraldo Cisneiros interceda junto ao secretário de Saúde, Ulisses Tenório, a fim de liberar uma firma fornecedora de merendas escolares por tal secretaria. Geraldo sugere que Jordão faça uma graça (5, 10) para atraí-lo para o ‘jogo’. O problema afetava a empresa SP Alimentos, de São Paulo, que fornecia merendas para o Recife, mas ficava sediada em Jaboatão.</p>
+<p>As escutas transcritas deixam claro que o financiamento de campanha era uma das preocupações. Uma empresa chamada Nota Dez informou a Geraldo Cisneiros que poderia financiar sua campanha, se ele resolvesse os problemas. Com empresas com faturas em atraso, como Alimentação Perfeita e Coen, Geraldo Cisneiros pergunta a Jordão Emerenciano quem era a inimiga. “Vamos quebrar um pobrezinho do Recife (Coen)”, ironiza, em dada hora. A PF ainda registra que o vereador era cauteloso ao falar ao telefone.</p>
+<p><strong>Aluguel de apartamento em Boa Viagem</strong></p>
+<p>De acordo com os relatórios da PF, além de sua irmã Cristina, Geraldo Cisneiros também era bastante ligado a Jordão Emerenciano, sócio dela. A ligação entre ambos teria ficado evidente com os áudios. Em um deles, Geraldo Cisneiros combina com Jordão Emerenciano a forma de ocultar o fato de residir no Recife, a despeito de ser vereador em Jaboatão dos Guararapes e ter o dever profissional de residir nas cidade onde exerce o mandato. Segundo a PF, Geraldo Cisneiros estava alugando um apartamento em Boa Viagem em nome do doleiro Jordão Emerenciano. “Estou em uma chapa que vai ganhar as eleições e posso ser secretário de Finanças”, diz ao doleiro, ao final de uma conversa. Os tucanos elegeram Elias Gomes prefeito na cidade e depois também reelegeu-se.</p>
+<p><strong>A situação do processo hoje</strong></p>
+<p>Conforme informou ontem o Blog, deste processo inicial, repassado pelo MPF e PF, a partir do inquérito 433/2007, o Ministério Público do Estado de Pernambuco (MPPE) ajuizou uma ação penal na 1ª Vara Criminal da Justiça de Jaboatão dos Guararapes. Um documento da Justiça Federal, ao informar que o TRF5 abriu mão da competência para o TJPE, informa que o fazia para apuração de possíveis crimes de corrupção na Câmara dos Vereadores e Prefeitura Municipal de Jaboatão dos Guararapes.</p>
+<p>O processo tem como objeto corrupção ativa e formação de quadrilha, tendo recebido o número 0001940-30.2012. Há uma dezena de acusados, cujos nomes podem ser visualizados pelo site do TJPE. O destaque é o nome do ex-vereador de Jaboatão dos Guararapes pelo PSDB Geraldo Cisneiros, que presidiu a Câmara Municipal de Jaboatão na época de Newton Carneiro (PSB). O político e empresário ainda é ligado aos tucanos do Estado.</p>
+<p>A ação penal apresentada pelo MPPE envolve ainda o nome da ex-vereadora de Jaboatão dos Guararapes e ex-deputada estadual Elina Carneiro, filha do ex-prefeito socialista Newton Carneiro. Elina foi ex-secretária municipal de Jaboatão na gestão do pai e ex-deputada estadual.</p>
+<p>O TJPE informou, por meio de sua assessoria, que o juiz recebeu a denúncia, mas não há uma decisão ainda. A vara é acumulada pelo juiz Carlos Fernando Carneiro Valença Filho. O judiciário local explicou que não começou a fase de audiências e que os advogados de defesa pediram absolvição sumária. O juiz analisa o pedido. O Blog de Jamildo apurou que o caso tem audiência marcada para 18 de novembro.</p>
+<p><strong>Blog de Noélia</strong></p>
+<p>Informações sobre essas denúncias vieram a público no blog de Noélia Brito – que já colaborou com o Blog de Jamildo e é militante do PT – a partir de fragmentos dos trechos dos grampos da PF, logo depois do primeiro turno das eleições presidenciais, quando o PSB de Eduardo Campos derrotou a aliança PTB/PT no Estado de Pernambuco. No plano nacional, com a derrota de Marina, o PSB anunciou aliança com o PSDB de Aécio Neves.</p>
+{% endraw %}

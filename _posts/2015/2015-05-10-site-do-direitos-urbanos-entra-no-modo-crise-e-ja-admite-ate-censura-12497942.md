@@ -1,0 +1,42 @@
+---
+id: 12497942
+date: "2015-05-10T13:28:28Z"
+last_modified_at: null
+tags:
+  - "amcentral"
+  - "censura"
+  - "crise-sanitaria"
+  - "desafios-urbanos"
+  - "direitos"
+  - "modo-aviao"
+  - "site"
+  - "skate"
+categories:
+  - "noticias"
+title: "Site do direitos urbanos entra no modo crise e j\u00e1 admite at\u00e9 censura"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/05/11127648_1059573027405741_9187335518194967595_n.jpg"><img class="wp-image-126880 size-full" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/05/11127648_1059573027405741_9187335518194967595_n.jpg" alt="11127648_1059573027405741_9187335518194967595_n" width="960" height="720" /></a> blogimagem</p>
+<p>Não leio o site que se chama direitos urbanos, mas um colaborador do blog envia texto que vale a pena ser apresentado, por revelar os métodos intolerantes e radicais. Há seis anos denuncio a prática aqui.</p>
+<p>COMUNICADO DO GRUPO DIREITOS URBANOS | RECIFE: REGRAS EMERGENCIAIS DE CONTENÇÃO.</p>
+<p>Na tarde de ontem, recebemos o alerta (por diversas fontes internas), de que haveria um “revide pesado” da prefeitura em direção ao grupo Direitos Urbanos e ao movimento ?#?OcupeEstelita? como um todo.</p>
+<p>Pedimos a todas as pessoas que se prepararem para os próximos dias (aliás, o contra-ataque já foi iniciado ontem à noite), que desconfiem das manipulações, mentiras e distorções sobre os grupos e seus membros que irão se seguir, e evitem ficar printando e passando adiante aqui no grupo ou mesmo em seus perfis pessoais, mesmo que seja pra "avisar" ou "perguntar se é verdade" e acreditando estar fazendo um bem ao grupo.</p>
+<p>Não estarão. A estratégia paralela do outro lado dessa luta, além da produção de peças gráficas com o objetivo de desmoralizar o #OcupeEstelita, é "dividir para conquistar" - justamente plantar sementes da discórdia e tentar começar a desestabilizar o grupo por dentro, enquanto desmoralizam o movimento lá fora... e que além de tudo, isso será estratégia para desviar o foco enquanto as máquinas se dirigem ao Cais.</p>
+<p>A máquina de comunicação em torno do prefeito foi toda acionada para criar uma campanha difamatória contra o movimento #OcupeEstelita e o grupo Direitos Urbanos, como contra-reação à nossa denúncia das várias ilegalidades na aprovação do plano para o Cais José Estelita - e sobretudo, pela campanha ?#?ForaGeraldo? movida pelos atos de improbidade administrativa cometidos pelo prefeito. Vários setores em torno do prefeito e do governador, secretários, deputados, familiares, grupos financiados, profissionais acionados e imprensa local, além das estruturas do Consórcio Novo Recife também, foram mobilizados para uma “guerrilha virtual” em torno da difamação individual de membros e desmoralização coletiva do movimento, via Facebook, Twitter e Whatsapp. Esse foi o aviso que nos foi dado ontem à tarde e que desde a noite se comprovou, com a estratégia de ataque sujo e intensificando-se na manhã de hoje: os métodos já identificados envolvem o uso maciço do Whatsapp (pela dificuldade de rastrear a origem do conteúdo, permitindo ataques apócrifos), de perfis fakes e trolls, o ataque pessoal às figuras mais conhecidas do grupo, e a disseminação de mentiras em repetição até se tornarem verdade (como a falsa afirmação sobre a escuta da população nas audiências - o que notoriamente não houve: houve o espaço, mas não a possibilidade real de participação democrática).</p>
+<p>Portanto, pedimos a todos: desconfiar, ignorar, e não compactuar com essa baixaria pesada que virá ainda mais pela frente. Nós deletaremos todas as postagens do tipo que porventura forem divulgadas aqui no fórum do grupo Direitos Urbanos, e desde já, teremos como regras em período emergencial:</p>
+<p>1- Não printem os ataques vindos de todas as fontes citadas (equipes de governo, demais políticos, aliados, contratados, imprensa, etc). Não compartilhem tais links aqui no grupão do DU - e de preferência, nem mesmo nos seus perfis pessoais. Isso é necessário para interromper a cadeia de viralização e fluxo de tais mensagens;</p>
+<p>2- Não compartilhem onde quer que seja, ou comentem nas próprias fontes, nem mesmo achando que está "fazendo um bem", que está "alertando", que está “respondendo a verdade”, ou para buscar informações sobre a veracidade do conteúdo. Aconselhamos, ao invés de compartilhar e espalhar mais ainda os ataques, a usarem a ferramenta de denúncia do post, oferecida pelo próprio Facebook;</p>
+<p>3- Se quiserem fazer um bem, compartilhem, espalhem, e viralizem este tópico com o comunicado. Isso, sim,irá ajudar a revelar às demais pessoas e conter o ataque virtual que o grupo Direitos Urbanos e o movimento #OcupeEstelita estão sofrendo;</p>
+<p>4- Pedimos que não postem comentários de mero apoio aqui neste presente tópico (como "muito bem! / "apoiado!" ou qualquer outro tipo de comentário), reservando o espaço dos comentários para compilação de respostas de pessoas atingidas e informações cruciais que ajudem a desmentir as calúnias e mentiras. Dessa forma, teremos uma fonte limpa e única que reunirá informações sobre os casos, diretamente pelas vozes das pessoas que possam vir a ser envolvidas nos ataques;</p>
+<p>5- Com isso, tais pessoas nem mesmo precisam postar em seus perfis pessoais (mas estando livres, se quiserem), o que aumentaria a propagação dos casos lá fora, nem espalhando diversas respostas e desmentidos pelo fórum do grupão. Este tópico será um espaço contido, destinado a publicar as nossas verdades, as nossas defesas, e a desmascarar o jogo sujo do outro lado;</p>
+<p>6- Caso queiram saber a veracidade dos fatos, portanto, busquem este tópico para acompanhamento. A cada ataque, podem retornar para verificar se já houve pronunciamento dos envolvidos;</p>
+<p>7 - A nossa luta não é partidária. A prefeitura e sua rede aliada quer insistir nesse viés apenas para não assumir que está sendo cobrada pela opinião pública e pela população da cidade, como um todo. Sendo assim, não acreditem em informações que façam qualquer menção a partidos ou à guerra entre eles. Essa tentativa de partidarização desvia o foco do que interessa: impedir a construção do Novo Recife e propiciar melhores projetos, mais inclusivos,democráticos e sustentáveis, no futuro da cidade;</p>
+<p>8- Também pedimos um maior cuidado nas postagens repetidas (que sempre acontecem em quantidade em períodos de grandes menções na mídia e atos do movimento). Utilizem melhor a ferramenta de busca de conteúdo já publicado, bem como tentem concentrar num mesmo tópico as perguntas isoladas ou mais urgentes sobre um ato (“onde estão agora?” / “alguém sabe dizer tal coisa?”, etc) ou de articulação (“o que estão precisando?” / “alguém quer/tem carona?”,etc). O Estelita está em grande perigo no momento, já há bastante desvio de foco, e precisamos de um fórum mais limpo para, caso algo aconteça, podermos mobilizar o movimento de modo mais rápido e com uma melhor visualização das informações-chave.</p>
+<p>Somos um movimento de milhares de pessoas, e portanto, todas estamos sendo atacadas neste momento. Será preciso uma grande afinação para juntas construirmos nossa resistência a esse ataque. Cada pessoa aqui é importante, independente de seu papel no movimento – se compartilham, curtem e viralizam conteúdo do movimento; se ajudam na manutenção e logística das ocupações levando alimentos e itens de necessidade; se captam imagens, fazem vídeos, cobrem e produzem material sobre o movimento; se viram as noites na produção jurídica altamente necessária, ou nas articulações político-institucionais essenciais ao movimento; se acompanham de longe, em outras cidades, estados, regiões,países e continentes, mas dão força e compõe esse imenso coletivo que somos; se doam as suas imagens, artes, trabalhos, produtos e serviços para ajudar nesse grande corpo coletivo da luta; se doam seus próprios corpos, vozes, dores e sonhos nas ruas e nas ocupações. Cada uma aqui é uma peça importantíssima que faz essa grande engrenagem de milhares, e até milhões, de pessoas girar – e se chegamos até aqui, depois de 3 anos e meio de luta, é porque atuamos numa grande força coletiva, que nos faz o que somos.</p>
+<p>A cidade é nossa. Ocupe-a.</p>
+<p>Grupo Direitos Urbanos | Recife.</p>
+{% endraw %}

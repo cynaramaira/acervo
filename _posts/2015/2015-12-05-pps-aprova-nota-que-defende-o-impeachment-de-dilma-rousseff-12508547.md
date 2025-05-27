@@ -1,0 +1,38 @@
+---
+id: 12508547
+date: "2015-12-05T14:52:08Z"
+last_modified_at: null
+tags:
+  - "aprovados"
+  - "dilma-rousseff"
+  - "impeachment"
+categories:
+  - "noticias"
+title: "PPS aprova nota que defende o impeachment de Dilma Rousseff"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/12/PPS.jpg"><img class="wp-image-137485" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/12/PPS.jpg" alt="Para o partido, presidente é “incapaz” de solucionar a depressão econômicapresidente nacional do PPS, deputado federal Roberto Freire (SP)" width="580" height="429" /></a> Para o presidente nacional do PPS, deputado federal Roberto Freire, Dilma é “incapaz” de solucionar a depressão econômica</p>
+<p><em>Da assessoria do PPS</em></p>
+<p>O Diretório Nacional do PPS aprovou, na manhã deste sábado (05), nota oficial de apoio ao impeachment da presidente Dilma Rousseff. Para o partido, a medida “é a alternativa mais eficaz para enfrentar e superar a crise da economia nacional e desmantelar o esquema de corrupção montado pelo PT nos últimos treze anos”.</p>
+<p>Na nota “A mudança começa com o impeachment”, o PPS afirma que Dilma é “incapaz” de conduzir o país, que vive atualmente “o pesadelo” do risco da depressão econômica. "A maioria das medidas do ajuste fiscal do governo, já aprovadas pelo Congresso, não surtiu nenhum efeito", diz o documento.</p>
+<p>O PPS analisa também as pedaladas fiscais, que ancoram a peça jurídica do pedido de impeachment. “O mais grave, porém, é o assalto aos cofres públicos”, adverte o PPS na nota.</p>
+<p><em>Veja a íntegra da nota:</em></p>
+<p><strong>A mudança começa com o impeachment!</strong></p>
+<p>O pedido de impeachment da presidente Dilma Rousseff, em tramitação na Câmara dos Deputados, é a alternativa mais eficaz para enfrentar e superar a crise da economia nacional e desmantelar o esquema de corrupção montado pelo PT nos últimos treze anos. A presidente não apenas revelou-se incapaz de conduzir o país, como é protagonista da crise política que desagregou a base do governo no Congresso, ao lado de seu padrinho e tutor, o ex-presidente Luiz Inácio Lula da Silva, em cujo mandato tudo isso começou.</p>
+<p>O PPS tem sido uma força política firme e consequente na defesa do impeachment como alternativa constitucional para enfrentar a crise ética, política e econômica que lança o país na recessão, com riscos de ingressarmos no pesadelo da depressão (inflação alta e crescente, desemprego em massa, renda em queda, endividamento das famílias e juros escorchantes).</p>
+<p>Os argumentos dos petistas de que essa proposta é “golpista” não passam de uma cortina de fumaça para tentar iludir homens e mulheres de boa fé. Os brasileiros não esquecem que o PT participou do movimento, junto conosco e outras forças democráticas, pelo impeachment do presidente Fernando Collor (em 1992), assim como tentou o mesmo, em voo solo, contra os então presidentes Itamar Franco (em 1993) e Fernando Henrique Cardoso (em 1999).</p>
+<p>Todos nós sabemos que a responsabilidade pela paralisia em que o país se encontra é da presidente Dilma e seus aliados, o que tem sido demonstrado pelos fatos. O Congresso aprovou a maioria das propostas de ajuste fiscal do governo, que se revelaram ineficazes. A mais recente é a mudança da meta fiscal de 2015, que era de um superávit de R$ 56 bilhões e passou a ser um déficit de até R$ 120 bilhões, ou seja, uma diferença de R$ 176 bilhões entre o que se pretendia e o que de fato se fez no ajuste.</p>
+<p>Tal decisão, que busca tão somente encobrir a ilegalidade das chamadas “pedaladas fiscais”, mostra a incompetência, o cinismo e a irresponsabilidade do atual governo. Incompetência por perder o completo controle da economia, não executando os cortes de gastos necessários para equilibrar as contas públicas; cinismo por chantagear a sociedade e os demais entes federados com a paralisia total dos serviços públicos; e irresponsabilidade por sinalizar para os agentes econômicos e os investidores estrangeiros que o País não é capaz de cuidar da sua própria economia e de que suas metas não merecem credibilidade.</p>
+<p>O mais grave, porém, é o assalto aos cofres públicos. A presidente tenta encobrir e minimizar o papel do maior esquema de corrupção já montado na história do país, envolvendo seu partido na delicada crise em que o País foi lançado, cujo epicentro é o escândalo da Petrobras. São evidentes os laços de sua gestão com tudo o que está sendo investigado pela Operação Lava Jato. As recentes prisões do líder do governo no Senado, Delcídio do Amaral (PT-MS), do banqueiro André Esteves e do empresário José Carlos Bumlai e os seus possíveis desdobramentos podem ampliar mais ainda os dados e informações sobre o descalabro antirrepublicano do governo Dilma e o possível envolvimento do ex-presidente Lula com esse esquema mafioso.</p>
+<p>A presidente reelegeu-se, em 2014, mentindo ao país sobre a verdadeira situação da economia, com sua campanha financiada por dinheiro sujo da corrupção, fato ora sendo investigado pela Justiça Eleitoral. Ela jacta-se de probidade apenas porque o Procurador Geral da República impediu fosse ela investigada pelo Supremo Tribunal Federal e dessa forma a Operação Lava-Jato não pode investigar os graves indícios de seu envolvimento com o escândalo da Petrobrás, embora venha sendo citada em algumas delações premiadas. Sua responsabilidade na compra fraudulenta da refinaria de Pasadena, conforme delações, está mais do que comprovada.</p>
+<p>Agora, Dilma tenta questionar a legitimidade do processo de impeachment, atribuindo-o ao atual presidente da Câmara, Eduardo Cunha (PMDB-RJ), cuja cassação está em discussão no Conselho de Ética da Casa e que contará com o voto favorável do PPS. Na verdade, é outra forma de tergiversação do PT. O pedido que tipifica, de forma consistente, os crimes de responsabilidade cometidos pela presidente Dilma, é um documento muito bem elaborado por eminentes juristas deste País, como Miguel Reale Junior, Janaína Pascoal e Hélio Bicudo, este fundador do PT, pedido este apoiado pelo PPS, PSDB, DEM e Solidariedade.</p>
+<p>Sabe destacar que o pedido de impeachment depende única e exclusivamente da ampla maioria do plenário da Câmara Federal e não do presidente daquela Casa. O governo tentou de todas as formas evitar que o processo fosse iniciado e, agora, manobra para evitar a aprovação do impeachment.</p>
+<p>A saída da violenta crise em que o Brasil e os brasileiros foram envolvidos não poderá se dar com a presidente Dilma à frente do governo. Por isso, urge o afastamento dela do cargo e sua substituição legal por quem de direito. Para isso, o fundamental é a mobilização dos mais amplos movimentos e redes sociais, conjuntamente com as forças suprapartidárias para a luta cidadã pelo impeachment, nas cidades do Brasil, os quais devem apoiar e dar sustentação a um novo governo, de união nacional, para estancar a crise, encaminhar as reformas e pôr o país no rumo do crescimento e da estabilidade.</p>
+<p>Nesse sentido, convocamos a todos para, de forma corajosa e unitária, participarmos da manifestação do próximo domingo, dia 13 de dezembro, ocupando ruas, avenidas e praças, dando o passo inicial pró-impeachment.</p>
+<p>Vamos em frente! A mudança começa com o impeachment!</p>
+<p>&nbsp;</p>
+{% endraw %}

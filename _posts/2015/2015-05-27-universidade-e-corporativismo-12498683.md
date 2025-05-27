@@ -1,0 +1,21 @@
+---
+id: 12498683
+date: "2015-05-27T12:55:26Z"
+last_modified_at: null
+tags:
+  - "universidade"
+categories:
+  - "noticias"
+title: "Universidade e corporativismo"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p>Por Michael Zaidan</p>
+<p>A política moderna é marcada pela afirmação do auto-interesse. 0s clássicos do pensamento político moderno (com a exceção de Rousseau e Hegel) elegeram a chamada "sociedade civil" como a esfera, por excelência, dessa afirmação do auto-interesse. E reduziram a política a uma fórmula estratégica de maximização dos lucros e vantagens individuais. 0 Estado, na definição de Marx não passava de um mero comitê executivo à serviço desses interesses, a despeito de sua forma ou da classe social no poder. Mais ainda, o movimento sindical moderno cujo principal objetivo é a conquista de direitos e conquistas redistributivistas, materiais. Só recentemente, os sindicatos começaram a discutir uma pauta mais ampla relacionada á Aids, o desemprego, o assédio sexual, as políticas ambientais etc.</p>
+<p>Quando a ANDES (ASSOCIAÇÃO NACIONAL DOS DOCENTES DO ENSINO SUPERIOR) foi criada, nos idos de 1980, havia ainda uma indefinição entre um estatuto meramente sindical da entidade ou de uma Associação preocupada com a carreira Docente, as políticas educacionais, a liberdade de cátedra etc. E essa indefinição pesou muito na hora das deliberações sobre a entrada e saída de greve. Finalmente, a ANDES se definiu como um sindicato nacional de docentes universitários, filiou-se à CUT e passou a se comportar como tal em sua relação com o governo e os professores. Há simplificação da pauta tem suas vantagens organizativas e mobilizadoras, mas afasta o movimento da sociedade, que o enxerga como um movimento puramente corporativista, preocupado unicamente com os interesses materiais (salariais) dos docentes universitários, embora mencione outros pontos e reinvindicações.</p>
+<p>Esse corporativismo acentuou-se com a deformação profissional da carreira docente, fenômeno também conhecido como "neo-taylorismo intelectual". A definição de critérios quantitativos e autodeclarativos que dominam a carreira docente, sob o estímulo das agências de fomento à pesquisa. Aqui, caberia como uma luva o conceito nietzschiano de "cultura filistéia" e a menção extensiva e quantitativa da experiência docente como critério de excelência acadêmica. 0 docente universitário,se não é um operário (na produção de "papers" ou declarações e certificados) de linha de montagem, é um filisteu - na acepção de Frederico Nietzsche, ou seja, alguém que fez do acúmulo da experiência de vida (profissional) seu evangelho. Naturalmente que há muitas políticas e orientações sindicais-docentes que buscam tirar partido desse corporativismo. E a nossa ADUFEPE não está fora desse movimento. Mais grave é quando os dirigentes universitários procuram manipular esses pequenos interesses (bolsas, cargos, editais de pesquisa etc.) de seus representados para galgar postos de importância na instituição universitária. Não sabem os dirigentes que reforçando essa limitação política, acadêmica e sindical dos docentes, contribuem para minar o moral de sua comunidade acadêmica. Professores que não enxergam um palmo à frente do nariz, quando se trata de questões políticas (redistributivas ou não), tendem a apoiar os acenos "desinteressados" desses dirigentes e manifestar o velho preconceito ideológico contra os comunistas, os esquerdistas, os grevistas profissionais etc.</p>
+<p>Isso acontece num momento em que se desenha no ar uma greve nacional dos docentes universitários, em face das restrições econômicas ditadas pelo ajuste fiscal, numa universidade onde o dirigente sindical apoia publicamente o gestor, e o gestor tem dado claros sinais de se comportar como "um bom moço" aos olhos do governo federal. É lamentável, muito lamentável mesmo, que tenhamos que arrostar com o preço pago por esse corporativismo atrasado e desmobilizador.</p>
+{% endraw %}

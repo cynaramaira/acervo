@@ -1,0 +1,40 @@
+---
+id: 12494268
+date: "2015-02-26T14:09:21Z"
+last_modified_at: null
+tags:
+  - "comissoes-permanentes"
+  - "governo"
+  - "pernambuco"
+  - "presidios"
+categories:
+  - "noticias"
+title: "Governo de Pernambuco foi omisso com tortura e viol\u00eancia nos pres\u00eddios do Curado, denunciam entidades"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/02/presídio-aníbal-bruno-curado-2.jpg"><img class="size-medium wp-image-123207" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/02/presídio-aníbal-bruno-curado-2-580x387.jpg" alt="Foto: JC Imagem" width="580" height="387" /></a> Foto: JC Imagem</p>
+<p><p style="text-align: justify;">Pelo menos 203 denúncias de casos de violência foram registradas no Complexo Prisional do Curado, no Recife, a maior unidade prisional de Pernambuco, desde agosto de 2011, quando a Comissão de Direitos Humanos da Organização dos Estados Americanos (OEA) emitiu uma medida cautelar cobrando que o Governo de Pernambuco solucionasse as violações aos direitos humanos identificadas nas unidades prisionais. Um relatório de 715 páginas foi apresentado nesta quinta-feira (26) por quatro entidades de direitos humanos.</p></p>
+<p><p style="text-align: justify;">Entre as "atrocidades" que o grupo diz ter encontrado ao longo dos últimos anos está o caso de um preso que foi violado com um cabo de vassoura por agentes penitenciários. Outro morreu após ser mantido em um local com condições insalubres, mesmo com um ferimento aberto nas costas. Em 2013, as entidades identificaram o caso de um detento que continuava preso 10 anos após o cumprimento da sua pena.</p></p>
+<p><p style="text-align: justify;">O levantamento aponta ainda que, desde 2008, foram identificadas 87 mortes violentas e 74 mortes não-violentas, resultantes de questões de saúde e salubridade, por exemplo, nos três presídios que compõem o Complexo do Curado, antigo Aníbal Bruno.</p></p>
+<p><p style="text-align: justify;"><strong>Presídios que formam o Complexo Prisional do Curado:</strong></p></p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/02/presidios-do-curado.jpg"><img class="size-medium wp-image-123211" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/02/presidios-do-curado-580x386.jpg" alt="Foto: JC Imagem. Arte: NE10" width="580" height="386" /></a> Foto: JC Imagem. Arte: NE10</p>
+<p><p style="text-align: justify;">As denúncias são da Pastoral Carcerária, do Serviço Ecumênico de Militância nas Prisões (SEMPRI), da Justiça Global e da Clínica Internacional de Direitos Humanos da Universidade de Harvard. Com essas informações, eles esperam que a Polícia Federal abra uma investigação sobre os casos de violação aos direitos humanos.</p></p>
+<p><p style="text-align: justify;">Para as entidades, a rebelião ocorrida no início deste ano no Complexo é resultado de uma omissão de anos do Governo do Estado com torturas e violências com os presos. Em janeiro, um policial militar e três detentos foram mortos durante uma série de rebeliões e motins. Um dos presos foi decapitado. O governador Paulo Câmara (PSB) declarou estado de emergência no sistema prisional.</p></p>
+<p><p style="text-align: justify;">"Apesar da decisão da OEA, o Estado de Pernambuco não tem garantido o direito dos detentos, dos agentes e dos familiares", diz Fernando Delgado, advogado da Clínica Internacional de Direitos Humanos. "Estamos vendo agora o resultado dessa política", explica.</p></p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/02/presídio-aníbal-bruno-curado-1.jpg"><img class="size-medium wp-image-123208" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/02/presídio-aníbal-bruno-curado-1-580x387.jpg" alt="Foto: JC Imagem" width="580" height="387" /></a> Foto: JC Imagem</p>
+<p><p style="text-align: justify;"><strong>R$ 300 POR UMA FACA</strong> - Segundo o relatório, existe um verdadeiro mercado interno dentro dos presídios. Detentos chegam a pagar até R$ 140 por semana para dormir em uma cela. A "compra" definitiva do "barraco" pode custar R$ 5 mil. Para receber uma visita em uma cela, os detentos têm que desembolsar cerca de R$ 35. Quem não pagar, dorme nos corredores, nos pátios ou no pavilhão disciplinar.</p></p>
+<p><p style="text-align: justify;">Os detentos custeiam até mesmo serviços básicos. Uma faxina custa três reais, o litro de água custa dois reais. Os presos podem comprar um pacote com comida e água semanal por R$ 150. Uma faca pode ser adquirida por R$ 300. Até remédios fornecidos pelo Governo do Estado são negociados.</p></p>
+<p><p style="text-align: justify;">"A família paga pela existência de um Estado paralelo dentro do Estado", critica Wilma Melo, da Pastoral Penitenciária. "Podemos acreditar que há uma economia milionária e achamos difícil acreditar que esse dinheiro fica apenas nas mãos dos presos", afirma Delgado.</p></p>
+<p><p style="text-align: justify;">Pelo levantamento do grupo, havia 6.953 pessoas detidas no Complexo do Curado em 2014, que tem capacidade para 2.114 presos. Uma das situações mais graves é a existência de "chaveiros", detentos que ocupam funções de segurança, controlando a abertura e o fechamento de celas, e que costumam circular com facas dentro dos presídios.</p></p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/02/presídio-aníbal-bruno-curado-3.jpg"><img class="size-medium wp-image-123210" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/02/presídio-aníbal-bruno-curado-3-580x387.jpg" alt="Foto: JC Imagem" width="580" height="387" /></a> Foto: JC Imagem</p>
+<p><p style="text-align: justify;">No Presídio Juiz Antônio Luis Lins de Barros (PJALLB), um dos que funcionam no Complexo do Curado, os próprios presos construíram um novo pavilhão. Com a conivência da direção da unidade, mais de 100 presos trabalharam 24 horas por dia durante três meses para erguer a edificação, que não segue nenhum projeto de engenharia.</p></p>
+<p><p style="text-align: justify;"><strong>RECORRER À POLÍCIA FEDERAL</strong> - O lançamento do dossiê tem o objetivo de sensibilizar outras entidades a entrarem na questão e pressionarem o Estado por mudanças. A Lei 10.446 de 2002 permite que a Polícia Federal abra uma investigação sobre casos de violação aos direitos humanos que tenham impacto internacional.</p></p>
+<p><p style="text-align: justify;">Desde 2011, quando o caso começou a tramitar na OEA, pouca coisa avançou, segundo as entidades. Dos pedidos feitos pelo grupo, o único integralmente atendido foi o fim da revista vexatória, implantado em dezembro do ano passado.</p></p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/02/presídio-aníbal-bruno-curado-4.jpg"><img class="size-medium wp-image-123209" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/02/presídio-aníbal-bruno-curado-4-580x387.jpg" alt="Foto: JC Imagem" width="580" height="387" /></a> Foto: JC Imagem</p>
+<p><p style="text-align: justify;">Em 2014, por causa da demora do Estado em aplicar os pedidos, a questão foi à Corte Interamericana de Direitos Humanos. O governo tem até o final deste mês para apresentar uma resposta às denúncias. O grupo que fez a denúncia pode contestar as respostas até abril.</p></p>
+<p><p style="text-align: justify;">O dossiê e os 29 documentos apresentados à OEA nos últimos quatro anos estão disponíveis no site <a href="https://arquivoanibal.weebly.com/" target="_blank"><strong>Arquivo Aníbal</strong></a>. Para as entidades, a construção de novas unidades, como o Presídio de Itaquitinga, não é solução. "Expandir esse sistema não vai resolver esse problema, só vai aumentar o tamanho", defende Delgado.</p></p>
+{% endraw %}

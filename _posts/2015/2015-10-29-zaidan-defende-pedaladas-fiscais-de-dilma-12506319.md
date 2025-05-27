@@ -1,0 +1,22 @@
+---
+id: 12506319
+date: "2015-10-29T16:28:10Z"
+last_modified_at: null
+tags:
+  - "dilma"
+categories:
+  - "noticias"
+title: "Zaidan defende pedaladas fiscais de Dilma"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/10/dilma_df_entrega29102015_122.jpg"
+---
+{% raw %}
+<p>A demonização do Estado no Brasil</p>
+<p>Por Michel Zaidan</p>
+<p>Criticando a ideologia no novo municipalismo no Brasil, houve que dissesse que é de coalizações políticas centralizadoras que os avanços sociais são conquistados no país. É como dizer que nada se espere do pleno funcionamento do Poder Legislativo e de suas infindáveis negociatas, se um Presidente desejar aprovar medidas de amplo interesse público e popular. Os positivistas republicanos sabiam disso quando propuseram a "ditadura republicana" na Constituinte de 1891, como forma de neutralizar os interesses das oligarquias estaduais. O governo provisório do Macheral Deodoro da Fonseca, Arthur Bernardes, e sobretudo, Getúlio Vargas - o pai do Estado novo - também aprenderam a lição. Legislaram em favor dos direitos trabalhistas, sem apoio do Congresso Nacional. Jango e suas reformas de base só avançaram num contexto de desinstitucionalização da política. O fato é que a descentralização e a clássica divisão de poderes no Brasil - para não falar na ideologia conservadora dos nossos parlamentares - tem sido um forte entrave na aprovação consensual de medidas de avanço social, entre nós.</p>
+<p>O que nos autoriza dizer que é da ação público-estatal, em conjunturas de fraca atuação do Poder Legislativo, que decorrem as transformações sociais brasileiras. Quando a ação estatal beneficia as minorias organizadas na sociedade - que atuam através de "lobbies" e da imprensa - há um assentimento geral de que o Estado fez a coisa certa: socorrer a agro-industria, os bancos, os agro-exportadores, as montadores de automóveis, as multinacionais que produzem os artigos da chamada "linha branca" etc. Agora, quando o Poder Executivo, através de um imenso programa de transferência de renda, crédito subsidiado, investimentos em infra-estrutura social, aumento de oportunidades para os mais pobres, age, aí o Estado é perdulário, populista, irresponsável, gastador, põe em risco o grau de investimento do país e por vai...</p>
+<p>Pergunta ingênua: por que o estado brasileiro só é bom quando beneficia especuladores, banqueiros, agro-exportadores, empresas multinacionais, empresários nacionais? - O hipócrita e falso argumento da meritocracia esgrimido pelos estadofóbicos que diz ser o exito e o sucesso profissional resultado exclusivamente do mérito individual das pessoas, esquece que este mérito vem dos privilégios, das oportunidades, do chamado "capital simbólico" e do "habitus", como diz o sociólogo francês Bourdieu. Ou seja, ele está longe de ser meramente individual. Num país como o nosso, onde historicamente as oportunidades e os privilégios têm sido destinadas à classe média e aos ricos, é um crime de lesa-sociedade não adotar uma agenda pública que priorize o gasto social, o aumento da despesa com mais educação, mais saúde, mais moradia, mais capacitação profissional, intercâmbios acadêmicos para os mais pobres e desafortunados. Essa é a ação prioritária do Estado: combater e diminuir a desigualdade social. Afinal os mais pobres não são apenas massa de manobra eleitoral ou mão-de-obra farta e barata para a exploração brutal e desregulada do capital nacional ou multinacional.</p>
+<p>O último self-made- man brasileiro morreu com Monteiro Lobato e sua crença no fordismo. O que nós temos na elite brasileira são modalidades da lei de Gerson, Airton Sena, Pelé e companhia ilimitada. Não se iludam com as catilinárias dirigidas - pelos ricos e bem sucedidos - contra o Estado brasileiro, sobretudo quando ele é acusado de gastar (muito) com a população mais pobre. Esta turma não está preocupada com o equilíbrio das contas públicas, o grau de investimento, ou a segurança jurídica para a realização dos negócios no país. Mas sim com os próprios interesses e a perpetuação do uso de recursos públicos para os próprios negócios.</p>
+{% endraw %}

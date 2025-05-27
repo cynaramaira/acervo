@@ -1,0 +1,27 @@
+---
+id: 12496451
+date: "2015-04-07T16:38:12Z"
+last_modified_at: null
+tags:
+  - "edilson-vieira"
+  - "festa"
+  - "pensilvania"
+categories:
+  - "noticias"
+title: "Edilson Silva rebate cr\u00edticas do organizador da Festa da Lavadeira"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;"><strong>Veja a íntegra da resposta de Edilson Silva ao organizador da Festa da Lavadeira</strong></p></p>
+<p><p style="text-align: justify;">Em atenção à <a href="https://blogs.ne10.uol.com.br/jamildo/2015/04/06/organizacao-da-festa-da-lavadeira-critica-edilson-silva/" target="_blank">publicação que tratou neste espaço sobre a Festa da Lavadeira, em que o Sr. Eduardo Melo</a> profere críticas infundadas e descabidas à minha pessoa, venho informar e esclarecer o que segue:</p></p>
+<p><p style="text-align: justify;">1 – É sabido por todos aqueles que participam da resistência da Festa da Lavadeira o meu compromisso com a realização desta expressão da nossa cultura e religiosidade, como forma de manutenção de um território conquistado ao longo de décadas pelo povo de Pernambuco. O próprio Sr. Eduardo Melo sempre contou com nosso irrestrito apoio para a realização da Festa, numa luta em que, inclusive, em 2011, reunimos em assembleia popular nada menos que 80 entidades da sociedade civil para evitar que o evento fosse banido da Praia do Paiva;</p></p>
+<p><p style="text-align: justify;">2 – Portanto, nosso envolvimento, agora como parlamentar, na defesa da Festa na Praia do Paiva neste ano de 2015, é o seguimento natural e coerente de uma trajetória. Sempre esteve entre nossos compromissos de militância, de campanha e agora de mandato, seguir a luta para devolver a Festa ao seu local de origem. Da mesma forma que em anos anteriores, estamos agora onde sempre estivemos, no apoio à sociedade civil e a grupos culturais que não abrem mão da defesa da sua expressão cultural;</p></p>
+<p><p style="text-align: justify;">3 – O local onde a Festa da Lavadeira sempre foi realizada no Paiva é um espaço territorial garantido por lei. Consta do EIA (Estudo de Impacto Ambiental) do Empreendimento que hoje se constituiu num condomínio de luxo. A área é um parque, reservado para a realização do evento Festa da Lavadeira todo dia 1º de Maio. O empreendimento tem respeitado este território e ele está lá, disponível para a realização da festa popular;</p></p>
+<p><p style="text-align: justify;">4 – A Festa da Lavadeira não é patrimônio privado ou de qualquer associação. É um patrimônio público imaterial, tombado em lei estadual e municipal da cidade do Cabo de Santo Agostinho, e que faz parte do calendário oficial da Empetur. Por esta razão, a sociedade civil mobilizada conseguiu realizar um TAC (Termo de Ajuste de Conduta) junto ao Ministério Público de Pernambuco, e que, portanto, tem força de Lei, garantindo a realização da Festa da Lavadeira em seu local original. Este TAC é de 2011 e está vigente, conforme atestou-nos a Promotoria Pública do Cabo de Santo Agostinho em recente reunião neste Ministério Público;</p></p>
+<p><p style="text-align: justify;">5 – Lamentavelmente, apesar de todas estas questões que garantem a realização da Festa na Praia do Paiva, o Sr. Eduardo Melo, que se arvora o dono desta festa popular, fez acordos pouco transparentes para retirar a festa do seu local original, levando-a para Recife a partir de 2012 e levando-a agora para o Estado de Goiás. Estas atitudes do Sr. Eduardo Melo retiram-lhe as condições de falar em defesa das tradições da referida Festa. Na verdade, ao invés de fazer acusações infundadas contra aqueles que sempre lhe estenderam a mão, o Sr. Eduardo Melo deveria explicar quais foram as razões e os motivos que lhe fizeram abandonar a realização da Festa no Paiva. E, mais do que isto, agora deveria também explicar porque tanto desespero ao ver a sociedade mobilizada para realizar sua festa em seu local original. Resta-nos, diante dos fatos, sugerir que o Sr. Eduardo Melo negociou o patrimônio público imaterial construído pelo povo de nosso Estado, e agora encontra-se diante da necessidade de insurgir-se insanamente contra aquilo que pensávamos ser uma bandeira sua;</p></p>
+<p><p style="text-align: justify;">6 – Apesar dos destemperos deste que se arvora dono do patrimônio público e popular, atesto que não há da parte dos que querem realizar a manifestação popular e religiosa no Paiva qualquer tentativa de “roubar-lhe” o seu negócio. Tenho certeza que os grupos culturais, artistas, entidades populares e cidadãos pernambucanos - que criaram inclusive a Associação Salve a Lavadeira no Paiva -, que hoje lutam contra a transformação de uma manifestação popular em evento privado para o deleite material de uma única pessoa, não colocarão obstáculos para que a Associação Festa da Lavadeira, pertencente ao Sr. Eduardo Melo, esteja à frente da manifestação na Praia do Paiva. Seria inclusive uma boa maneira do referido senhor provar que não fez negócios com os empresários que exploram imobiliariamente aquela área. Fica aqui a sugestão: assuma a realização da Festa no Paiva, Sr. Eduardo Melo, e vamos juntos lutar em defesa da nossa cultura popular e tradicional e dos nossos territórios conquistados.</p>
+<p>Edilson Silva – Deputado estadual pelo PSOL-PE</p></p>
+{% endraw %}

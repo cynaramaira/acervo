@@ -1,0 +1,29 @@
+---
+id: 12491515
+date: "2015-01-01T17:02:28Z"
+last_modified_at: null
+tags:
+  - "baleia-rossi"
+  - "dilma"
+  - "pronunciamento"
+  - "vacinacao"
+categories:
+  - "noticias"
+title: "Leia pronunciamento de Dilma \u00e0 na\u00e7\u00e3o, no Parlat\u00f3rio"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p>Queridos brasileiros e brasileiras aqui, nesta praça,</p>
+<p>Estamos aqui, eu e o vice-presidente Michel Temer, para cumprimentar vocês. Eu agradeço a vocês terem vindo de todos os cantos do nosso país nessa marcha da esperança para dizerem “sim” ao futuro do Brasil. Agradeço a cada uma companheira e a cada um companheiro. Quero dizer para vocês que eu sinto imensa alegria por ter vencido os desafios e honrado o nome da mulher brasileira, dessa mulher que nós sabemos que são milhões de guerreiras anônimas que dão vida e carinho ao nosso país.</p>
+<p>Eu represento um projeto de nação que é detentor do mais profundo e duradouro apoio popular de nossa história democrática. Esse projeto que começou no governo do presidente Lula, que continua no meu governo, ele pertence a vocês, a cada um de vocês, ao povo deste país e, mais do que nunca, é para este povo e com este povo que nós vamos governar.</p>
+<p>Graças aos nossos governos - o meu e o do presidente Lula -, nós temos hoje a primeira geração de brasileiros que não vivenciou a tragédia da fome. Nós resgatamos 36 milhões de pessoas da extrema pobreza, 22 milhões apenas no meu governo. Nesses períodos, nunca tantos brasileiros ascenderam às classes médias. Nunca tantos brasileiros conquistaram empregos com carteira assinada. Nunca o salário mínimo e os demais salários se valorizaram por tanto tempo e com tanto vigor. Nunca tantos brasileiros se tornaram donos de suas próprias casas. Nunca tantos brasileiros tiveram acesso ao ensino técnico e à universidade. Nunca o Brasil viveu um período tão longo, tão longo sem nenhuma crise institucional. Nunca as instituições foram tão fortalecidas e respeitadas e nunca se apurou e puniu com tanta transparência a corrupção.</p>
+<p>Em nossos governos cumprimos o compromisso fundamental de oferecer à população até então excluída os direitos básicos que devem ser assegurados a qualquer cidadão deste país: o direito de trabalhar, o direito de alimentar a família, de educar e acreditar em um futuro melhor para os seus filhos. Essa crença é o sonho de qualquer pai ou mãe de família desse país: oferecer aos seus filhos oportunidades melhores do que as suas. Essa é a crença que constrói uma família, este é o desafio que ergue uma nação.</p>
+<p>Escuto as vozes de vocês, vozes corajosas, a dizerem que estamos aqui todos nós de pé e que todos nós temos fé no Brasil. Nós que estamos aqui e todos os brasileiros acreditamos nessa terra porque nos últimos 12 anos aqui não se discrimina os pobres, não se esquece dos jovens, não se esquece dos negros, não se abandona as mulheres. Não importam as dificuldades, não importam os obstáculos, o povo brasileiro vai vencer e vai construir um Brasil próspero, justo e pleno de oportunidades. Sempre estive e sempre estarei ao lado de vocês e nada, absolutamente nada, ninguém, absolutamente ninguém vai me afastar desse compromisso.</p>
+<p>Sei que vocês querem mais e melhor. Sei que a palavra mais repetida nessa minha campanha, da qual vocês participaram, foi mudança e o tema mais invocado foi reforma. Assumo aqui com vocês, nesta praça, o meu compromisso de inaugurar uma nova etapa nesse processo histórico de mudanças sociais no Brasil e digo a vocês algo muito importante. Nós vamos fazer sim ajustes na economia mas isso sem revogar direitos conquistados ou trair nossos compromissos sociais. Fui reeleita para continuar mudando o Brasil e para continuar fazendo as mudanças que vocês desejam. E prometo: farei as mudanças.</p>
+<p>Assumo meu segundo mandato com mais esperança do que assumi o primeiro. Assumo esse mandato com uma certeza: nós estamos juntos com a dignidade, estamos juntos de pé, e com a força da imensa fé que temos no povo desse país. De pé e com fé porque nós vamos juntos fazer a reforma política. De pé e com fé porque o Brasil será a verdadeira pátria educadora e os brasileiros terão acesso a educação de qualidade, da creche à pós graduação. De pé e com a força da fé nesse país, porque vamos mudar a Constituição para permitir que o governo federal assuma a responsabilidade para melhorar a segurança pública. De pé e com a força da fé, porque vamos melhorar a nossa saúde, vamos garantir mais acesso a exames e a consultas com especialistas. De pé e com fé, porque vamos garantir emprego de qualidade, baseado na expansão da economia, na formação profissional e na inovação. De pé e com fé, porque apostamos em cada vez mais empregos e salários valorizados, porque vamos continuar com a política de valorização do salário mínimo. De pé e com fé, porque vamos continuar o Minha Casa, Minha Vida, o Prouni, o Fies, o Ciência sem Fronteiras. Somos capazes de fazer isso porque somos um povo que garantiu emprego e salário quando o mundo desempregava e arrochava. Somos capazes de fazer isso porque, nesses últimos 12 anos, nós mudamos o Brasil.</p>
+<p>Mas, para conseguir avançar preciso, mais do que nunca, do apoio e da compreensão de vocês. Quero pedir o apoio de todos, de Leste a Oeste, de Norte a Sul do Brasil. Hoje, depois de 12 anos de governo popular e de grandes transformações, o povo brasileiro tem o direito de dizer, como uma orientação para o meu novo mandato: nenhum direito a menos, nenhum passo atrás, só mais direitos e só o caminho à frente. Esse é meu compromisso sagrado perante vocês. Esse é o juramento que faço nessa praça.</p>
+<p>Viva o Brasil! Viva o povo Brasileiro!</p>
+{% endraw %}

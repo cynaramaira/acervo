@@ -1,0 +1,31 @@
+---
+id: 12480150
+date: "2014-06-10T09:17:19Z"
+last_modified_at: null
+tags:
+  - "cancer-infantil"
+  - "cartao-cidadao"
+  - "trabalho"
+categories:
+  - "opiniao"
+title: "Nossos Neymares e o cart\u00e3o vermelho para o trabalho infantil"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/06/camisa-10-do-brasil-1.jpg"><img class="size-full wp-image-109090" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/06/camisa-10-do-brasil-1.jpg" alt="Em Pernambuco, 3.530 crianças entre 5 e 9 anos trabalham, segundo dados do PNAD. Foto: Alexandre Lopes/cortesia" width="580" height="483" /></a> Em Pernambuco, 3.530 crianças entre 5 e 9 anos trabalham, segundo dados do PNAD. Foto: Alexandre Lopes/cortesia</p>
+<p><p style="text-align: justify;">Por Marcela Balbino, repórter do Blog</p></p>
+<p><p style="text-align: justify;">Ao contrário do atacante Neymar, artilheiro da seleção brasileira que defenderá o hexacampeonato pelo País com sua cobiçada camisa 10, pelas ruas do Grande Recife,<b> </b>crianças também vestem o uniforme canarinho do jogador, mas o jogo em campo é bem diferente. Para os nossos Neymares, não há campos verdes com gramas aparadas, tampouco holofotes e salários milionários. A realidade é bem menos generosa nos vagões cheios dos metrôs, que, ironicamente, levam até o estádio da Arena Pernambuco, em São Lourenço da Mata. No jogo, não há vitórias. A derrota se faz presente nos sacos gigantes de pipoca e<b> </b>amendoim ou nas inocentes balas, vendidas por R$ 1.</p></p>
+<p><p style="text-align: justify;">Os famosos "passatempos da viagem" trazem segundos de leveza para os compradores, em meio ao calor, à superlotação e à espera pela condução. Mas são também a parcela mais amarga para a sociedade, que perde, pouco a pouco, o jogo contra o trabalho infantil – tão presente nas ruas da cidade-sede.</p></p>
+<p><p style="text-align: justify;">Dormindo em um metrô de Camaragibe, o garoto de 10 anos perdia a partida contra o sono. Os bancos da composição serviam de cama - a pausa para o segundo tempo. Para ele, não havia ingresso vip, cadeira marcada ou acesso especial para acompanhar os jogos da seleção. O máximo que conseguia era se esgueirar por entre os passageiros, passar invisível pelos funcionários do metrô e suar a camisa para voltar para casa com o fardo de pipocas vazio. O planejamento tático era acompanhar o andar do metrô ao longo das estações. Camaragibe-Coqueiral e Coqueiral-Camaragibe.</p></p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/06/MEN1.jpg"><img class="size-full wp-image-109091" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/06/MEN1.jpg" alt="Foto: Alexandre Lopes/cortesia" width="580" height="387" /></a> Foto: Alexandre Lopes/cortesia</p>
+<p><p style="text-align: justify;">Na saída do metrô, o trabalho infantil escalara outro jogador. O menino magro se equilibrava com destreza para caminhar com os amendoins. Com voz potente, que nem gente grande, ele gritava: tem cozido, assado, com ou sem casca. Com a maturidade e a habilidade de um adulto,  ele seguia, se confundindo com os passageiros, apressados para embarcar no metrô.</p></p>
+<p><p style="text-align: justify;"><span style="line-height: 1.714285714; font-size: 1rem;">O trabalho das crianças é deletério sob vários aspectos, a começar pela privação do tempo livre da infância, importante para o desenvolvimento. Além disso, há a interferência no aprendizado escolar, o aumento dos riscos de problemas de saúde e a redução das chances de um emprego melhor na vida adulta. É o jogo do perde-perde. Onde perde-se Neymar, perde-se a sociedade, perde-se o Recife e o Brasil. A taça erguida, a peso de ouro, é a da vergonha.</span></p></p>
+<p><p style="text-align: justify;">De acordo com dados da Pesquisa Nacional por Amostra de Domicílios (PNAD) , compilados pelo Ministério Público do Trabalho (MPT), Pernambuco ocupa a 22ª posição no ranking nacional do trabalho infantil. No último levantamento, produzido em 2012, eram 137.593 crianças entre 5 e 17 anos longe das escolas e em situação de trabalho informal. São quase 6 mil times de futebol, colocando na conta os reservas, perdidos.</p></p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/06/MEN4.jpg"><img class="size-full wp-image-109092" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/06/MEN4.jpg" alt="Outro escalado para vergonhosa seleção do trabalho infantil. Foto: Alexandre Lopes/cortesia" width="580" height="390" /></a> Outro escalado para vergonhosa seleção do trabalho infantil. Foto: Alexandre Lopes/cortesia</p>
+<p><p style="text-align: justify;">O rastro deixado pela passagem da Copa do Mundo pelo Brasil ainda é incerto. Como boa torcedora, fica o otimismo, o hexa vindo ou não. Mas, fora dos campos, a vida desses meninos e meninas segue invisível e o jogo perdido antes de o juiz dar o primeiro apito. A nossa seleção de Neymares segue desfalcada, sem espaço para recuperação.</p></p>
+<p><p style="text-align: justify;">Enquanto os brasileiros alimentam o sonho da vitória, eles só querem esvaziar o saco de pipoca, vender as balas, os amendoins e sonhar com o dia em que poderão entrar em campo para ganhar, com reais chances de vitória. O dia em que a única preocupação seja a de ser criança. O dia em que o Brasil real, este em que vivemos, com todas as suas fragilidades e carências, consiga levantar a taça da erradicação do trabalho infantil, pois essa, sim, será um grande legado para o País e uma estrela a ser costurada no peito da seleção formada por 202 milhões de brasileiros.</p></p>
+<p><p style="text-align: justify;">* <em>Este texto não seria possível sem o olhar dedicado e atento do parceiro Alexandre Lopes, que faz das suas viagens diárias entre Camaragibe e Recife um exercício diário de reflexão. Esticar o olhar para a vida que ninguém vê. Desnudar a invisibilidade da rotina e jogar luz sobre as mazelas desse fragmento de Brasil. Obrigada pela ajuda e inspiração.</em></p></p>
+{% endraw %}

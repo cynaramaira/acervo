@@ -1,0 +1,28 @@
+---
+id: 12470911
+date: "2014-01-29T17:00:35Z"
+last_modified_at: null
+tags:
+  - "empresa"
+  - "esta"
+categories:
+  - "noticias"
+title: "Lei anticorrup\u00e7\u00e3o: sua empresa est\u00e1 preparada?"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/01/Rodrigo_camargo.jpg"
+---
+{% raw %}
+<p>Por Rodrigo Ferraz de Camargo</p>
+<p>Diante dos compromissos internacionais assumidos pelo Brasil como signatário da Convenção sobre o Combate da Corrupção de Funcionários Públicos Estrangeiros em Transações Comerciais Internacionais da Organização para a Cooperação e Desenvolvimento Econômico, foi sancionada no país, em agosto de 2013, a lei 12.846 que prevê a responsabilidade civil e administrativa de empresas por corrupção, permitindo punir as que praticam tais atos contra funcionários públicos, nacionais ou estrangeiros.</p>
+<p>Antes dessa norma, o Brasil só punia os indivíduos que recebiam propina, mas não a entidade que lhes pagava. Agora, a lei anticorrupção introduzirá a responsabilidade objetiva da pessoa jurídica envolvida em casos de corrupção praticados em seu interesse ou em benefício.</p>
+<p>Dentre os casos previstos pela nova norma, estão prometer ou oferecer vantagens indevidas a agentes públicos ou a terceiros a eles relacionados, frustrar o caráter competitivo de um procedimento licitatório público e fraudar licitação ou contrato dela decorrente.</p>
+<p>As penas não são nada leves e afetam economicamente as empresas. Dentre elas, estão multas no valor de 0,1% a 20% do faturamento bruto da empresa no exercício anterior ao da instauração do processo administrativo ou, na impossibilidade da utilização desse critério, os valores poderão variar de 6 mil e 60 milhões de reais. Além disso, essa responsabilização administrativa não afastará possível efeito na esfera judicial, que poderá resultar em perdimentos dos bens, suspensão ou interdição parcial de atividades, dissolução compulsória da pessoa jurídica, proibição de receber incentivos, subsídios, doações ou empréstimos de órgãos ou entidades públicas.</p>
+<p>Apesar de estarmos a poucos dias do início da aplicação da lei, uma pesquisa realizada pela KPMG apontou que cerca de 80% dos membros de conselhos de administração, comitês de auditoria e conselhos fiscais de diversas empresas brasileiras ainda têm dúvidas sobre a lei anticorrupção. O principal item que preocupa e ainda está nebuloso para o empresariado é como se proteger de casos de fraude e as pesadas sanções impostas pela nova norma.</p>
+<p>Um ponto a ser destacado para os executivos e que pode amenizar possíveis casos de desvio é o conceito de compliance. Programas deste tipo efetivamente implantados e seguidos por todos os funcionários da empresa podem ser considerados como atenuantes dos atos ilícitos realizados por algum colaborador. Por isso, é muito importante que, assim como diz a lei, as empresas tenham “mecanismos e procedimentos internos de integridade, auditoria e incentivo à denúncia de irregularidades e a aplicação efetiva de códigos de ética e conduta”.</p>
+<p>Com isso, podemos concluir que a nova norma deve influenciar positivamente no gerenciamento das empresas brasileiras já que o impacto financeiro direto e indireto que uma condenação poderá gerar é um grande incentivo para a implementação ou revisão de políticas de compliance o mais breve possível.</p>
+<p>Porém, outro dado alarmante da mesma pesquisa mostra que 36% das empresas ainda não começaram a reformular suas políticas e procedimentos para ficar em conformidade com a nova legislação. Por outro lado, 67% dos respondentes afirmaram que a companhia possui uma linha de denúncia ou canal de ouvidoria, enquanto outros 9% afirmaram que tais serviços estão em fase de implementação. De qualquer maneira, possuir um canal de ouvidoria deve ser um item básico, porém não único. As empresas que ainda não tomaram providências para combater a possibilidade de fraude e corrupção precisam adotar medidas que atendam às exigências da nova lei, tais como auditoria interna, código de ética e conduta e controles internos, além do canal de denúncias. Aquelas que já possuem tais mecanismos devem revisar sua efetividade e conformidade com a lei anticorrupção.</p>
+<p>O mundo já passou por diversas modificações, e hoje estamos presenciando alterações influenciadas pelos órgãos fiscalizadores que, no Brasil, estão ganhando corpo e velocidade. Não podemos pensar que com a nova lei vai inibir novos casos de fraudes e corrupção em nosso país. Fatos deste tipo acontecem, basicamente, devido à falhas nos controles internos das empresas e ações de pessoas. No caso do ser humano, estamos tratando com uma questão cultural e de personalidade e que, infelizmente, não conseguiremos mudar com um decreto. Por outro lado, as companhias podem criar regras e divulgá-las, fortalecendo os controles internos como uma forma de demonstrar que estão empenhadas em evitar desvios de seus colaboradores. Além disso, torna-se essencial para as companhias ter o maior número de controles possíveis e documentar todas suas práticas, atas de reuniões, resoluções e ações internas. Documentos apresentando detalhes de encontros, negócios fechados e posicionamento da empresa podem ser determinantes em um possível julgamento.</p>
+<p>Rodrigo Ferraz de Camargo é sócio do escritório Ferraz de Camargo, Azevedo e Matsunaga Advogados Associados</p>
+{% endraw %}

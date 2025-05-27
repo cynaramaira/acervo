@@ -1,0 +1,42 @@
+---
+id: 12492204
+date: "2015-01-16T17:57:45Z"
+last_modified_at: null
+tags:
+  - "naomi-campbell"
+  - "presidente"
+  - "transito"
+categories:
+  - "noticias"
+title: "\"N\u00e3o transito nesse submundo\", rebate presidente da OAB sobre declara\u00e7\u00f5es de Uchoa"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/01/pedrohenrique.jpg"><img class="size-full wp-image-97357" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/01/pedrohenrique.jpg" alt="Foto: Liniker Xavier/Divulgação" width="580" height="387" /></a> Foto: Liniker Xavier/Divulgação</p>
+<p><p style="text-align: justify;">Na tentativa de constranger e expor o presidente da Ordem dos Advogados do Brasil, seccional Pernambuco (OAB-PE), Pedro Henrique Reynaldo Alves, o presidente da Assembleia Legislativa de Pernambuco (Alepe), <a href="https://blogs.ne10.uol.com.br/jamildo/2015/01/16/guilherme-uchoa-parte-para-o-ataque-contra-presidente-da-oab-com-direito-foto-contracheque/" target="_blank">Guilherme Uchoa (PDT), insinuou que o representante da categoria não tinha moral para falar de supersalários e ganhar R$ 27 mil </a>como procurador licenciado do Estado. Buscando distanciar-se dos ataques, Pedro Henrique disse não se surpreender com as declarações e afirmou que não se intimidaria com a postura de Uchoa.</p></p>
+<p><p style="text-align: justify;">"Para felicidade do presidente Guilherme Uchoa eu não sei tratar o tema nos níveis que ele trata. Não vou adotar o tom pessoal em um debate institucional e que nós sempre lidamos de forma muito respeitosa. Eu não transito nesse submundo das devassas pessoais dos dossiês", afirmou Pedro Henrique, em conversa com o <strong>Blog</strong>.</p></p>
+<p><p style="text-align: justify;"><strong>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2015/01/14/presidente-da-oab-promete-ingressar-na-justica-caso-guilherme-uchoa-seja-reeleito/" target="_blank">Presidente da OAB promete ingressar na Justiça caso Guilherme Uchoa seja reeleito</p>
+<p></a>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2014/11/13/emenda-constitucional-impede-uchoa-de-presidir-alepe-diz-presidente-da-oab-pe/" target="_blank">Emenda Constitucional impede Uchôa de presidir Alepe, diz presidente da OAB-PE</a></strong></p></p>
+<p><p style="text-align: justify;">O presidente da entidade ressaltou ainda a independência do órgão e a conexão com as demandas da sociedade. "A OAB é uma autarquia federal. Ela exerce uma função de interesse da classe dos advogados, mas também da sociedade", destacou.</p></p>
+<p><p style="text-align: justify;">Questionado se a postura adotada por Uchoa o intimidava, Pedro Henrique mandou uma mensagem direta ao presidente da Alepe. "Não seria digno de ser advogado nem presidente da OAB se me atemorizasse com esse tipo de declaração".</p></p>
+<p><p style="text-align: justify;">A peleja entre os presidentes da Alepe e da OAB teve início com os questionamentos feitos por Pedro Henrique quanto ao aumento de 26,34% nos salários dos deputados pernambucanos e sobre as eleições para presidência da Casa Joaquim Nabuco.</p></p>
+<p><p style="text-align: justify;">Na última quarta-feira (14), o presidente da OAB reforçou a intenção de defender a alternância de poder na Assembleia Legislativa de Pernambuco (Alepe). Este ano, o deputado estadual Guilherme Uchoa (PDT) deve disputar novo mandato, pela quinta vez consecutiva.</p></p>
+<p><p style="text-align: justify;">A Associação dos Procuradores do Estado de Pernambuco (APPE) também saiu em defesa do presidente da OAB-PE.</p></p>
+<p><p style="text-align: justify;">"A licença para exercer o cargo de Presidente da OAB/PE foi concedida ao servidor público PEDRO HENRIQUE BRAGA REYNALDO ALVES, matrícula nº 185.583-2, para exercer o cargo de Presidente, sem prejuízo de seus vencimentos, direitos e vantagen nos precisos termos da Portaria SAD nº 1091, de 19 de julho de 2013, publicada no Diário Oficial do Estado de 20 de julho de 2013", diz a nota, enviada pela entidade.</p></p>
+<p><p style="text-align: justify;"><strong>HISTÓRIA</strong> - As brigas entre Uchoa e presidentes da OAB não são novidade. Em 2007,<a href="https://blogs.ne10.uol.com.br/jamildo/2007/09/20/confronto-entre-guilherme-uchoa-e-jayme-asfora-esquentou-o-debate-na-assembleia/" target="_blank"> Jayme Asfora presidia a entidade e recebeu críticas de Uchoa</a>. Na época, o presidente da OAB-PE criticou duramente o que chamou de atitude arbitrária e antidemocrática do presidente da Assembleia na remoção de manifestantes que protestavam contra o nepotismo no Estado.</p></p>
+<p><p style="text-align: justify;">No período, Asfora comparou Guilherme Uchoa a Renan Calheiros. Disse que o deputado usa a estrutura da Assembleia como se a Casa fosse sua propriedade, do mesmo modo que Renan estaria agindo na presidência do Senado. "Tem também o deboche. Ele fica rindo da questão, do mesmo jeito que Renan faz quando é acusado de alguma coisa", disparou.</p></p>
+<p><p style="text-align: justify;"><strong>LEIA A ÍNTEGRA DA NOTA ENVIADA PELA APPE</strong></p></p>
+<p><p style="text-align: justify;"><em>A Associação dos Procuradores do Estado de Pernambuco - APPE vem a público, em razão da entrevista publicada em 16 de janeiro de 2015, no jornal Folha de Pernambuco, concedida pelo Presidente da Assembleia Legislativa, Deputado Guilherme Uchoa, na qual questiona a licença do Procurador do Estado Pedro Henrique Braga Reynaldo Alves para exercer o mandato de Presidente da Ordem dos Advogados do Brasil, Seccional de Pernambuco - OAB/PE, prestar informações relevantes sobre o tema. </em></p></p>
+<p><p style="text-align: justify;"><em>A licença para exercer o cargo de Presidente da OAB/PE foi concedida “ao servidor público PEDRO HENRIQUE BRAGA REYNALDO ALVES, matrícula nº 185.583-2, para exercer o cargo de Presidente, sem prejuízo de seus vencimentos, direitos e vantagens” nos precisos termos da Portaria SAD nº 1091, de 19 de julho de 2013, publicada no Diário Oficial do Estado de 20 de julho de 2013.</em></p></p>
+<p><p style="text-align: justify;"><em>A referida Portaria, oriunda da Secretaria de Administração, observou não apenas a legislação estadual aplicável à matéria, como o entendimento da Procuradoria Geral do Estado em caso idêntico e anterior à licença concedida ao Dr. Pedro Henrique, exposto no Parecer nº 247/07, de 04 de junho de 2007.</em></p></p>
+<p><p style="text-align: justify;"><em>A legislação estadual, sobretudo o art. 5º da Lei Complementar nº 82/2005, assegura ao servidor público estadual o direito à licença para desempenho de mandato em sindicato ou associação representativa da categoria sem prejuízo de sua remuneração, direitos e vantagens. Já a Lei Complementar nº 02/90 determina que as licenças e afastamentos dos Procuradores do Estado reger-se-ão pelas normas aplicáveis dos funcionários públicos civis.</em></p></p>
+<p><p style="text-align: justify;"><em>Como deixa claro o mencionado Parecer, a Constituição Federal de 1988 estabeleceu que o advogado “é indispensável à administração da justiça” e, por conseguinte, sua organização como categoria se faz igualmente indispensável e deve ser fortalecida. A Ordem dos Advogados do Brasil se constitui em um fundamental Conselho de profissão regulamentada - a advocacia - sendo de todo salutar que seu presidente, se servidor público for, não exerça funções públicas em concomitância. Por sua vez, o exercício de tal atividade não deve acarretar prejuízos à carreira do servidor, razão pela qual a lei estadual garante a concessão da licença sem prejuízo de vencimentos, direitos e vantagens.</em></p></p>
+<p><p style="text-align: justify;"><em>Por fim, destaque-se que o afastamento do Procurador de suas atividades na Procuradoria Geral do Estado para exercer a Presidência da OAB/PE deve ser compreendido como legítimo e necessário, e que o Dr. Pedro Henrique possui quase vinte anos de relevantes serviços prestados ao Estado e amplo reconhecimento da classe dos advogados.</em></p>
+<p><em>     </em></p>
+<p><em>Recife/PE, 16 de janeiro de 2015.</em></p></p>
+<p><p style="text-align: justify;"><em>Associação dos Procuradores do Estado de Pernambuco - APPE</em></p></p>
+<p><p style="text-align: justify;"></p></p>
+{% endraw %}

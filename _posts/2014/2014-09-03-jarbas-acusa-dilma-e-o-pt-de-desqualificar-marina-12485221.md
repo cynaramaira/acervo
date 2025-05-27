@@ -1,0 +1,30 @@
+---
+id: 12485221
+date: "2014-09-03T17:57:09Z"
+last_modified_at: null
+tags:
+  - "dilma"
+  - "jarbas-vasconcelos"
+  - "marina-lima"
+categories:
+  - "noticias"
+title: "Jarbas acusa Dilma e o PT de desqualificar Marina"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/05/jarbas-vasconcelos1.jpg"><img class="size-full wp-image-107834" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/05/jarbas-vasconcelos1.jpg" alt="Foto: Agência Senado" width="768" height="511" /></a> Foto: Agência Senado</p>
+<p>O senador Jarbas Vasconcelos (PMDB-PE) disse, hoje, em discurso no Senado, que a presidente da República, Dilma Rousseff (PT) e o seu partido, estão tomados pelo desespero e tentam desqualificar Marina Silva (PSB).</p>
+<p>“O PT começou a campanha de desqualificação da candidata à presidência, Marina Silva. Depois que as pesquisas de intenções de votos apontaram o empate entre Marina e Dilma, o Partido dos Trabalhadores e a própria presidente não fazem outra coisa”, afirmou.</p>
+<p>Para Jarbas não há a “intenção de transformar Mariana em ‘Salvadora da Pátria’, mas sim a intenção de promover mudanças com responsabilidade, compromisso e respeito ao povo brasileiro.”.</p>
+<p>Ainda segundo o senador o modelo petista se esgotou e “não tem a capacidade de encontrar novas soluções para problemas que se arrastam há uma década. O país não aguenta mais quatro anos de governo do PT”, concluiu Jarbas Vasconcelos.</p>
+<p><strong>Veja a íntegra do discurso</strong></p>
+<p>“Diante do desespero que começa a tomar conta da campanha petista com a possibilidade real e iminente de serem desalojados do Palácio do Planalto no próximo dia 05 de outubro, o PT começou a campanha de desqualificação da candidata à presidência, Marina Silva. Depois que as pesquisas de intenções de votos apontaram o empate entre Marina e Dilma, o Partido dos Trabalhadores e a própria presidente não fazem outra coisa. Ontem mesmo, 02 de setembro, fiquei estarrecido com a performance de um senador do PT, aqui no Plenário do Senado Federal. Agrediu a candidata de forma leviana, irresponsável e chula. Logo mais, à noite, no programa eleitoral, a candidata do PT Dilma Rousseff, orientada pelo folclórico marqueteiro João Santana, disse que Marina se apresenta como “Salvadora da Pátria” e sugeriu que poderia acontecer com Marina, cuja vitória pode acorrer já no primeiro turno, o mesmo que aconteceu com Jânio Quadros e Fernando Collor.</p>
+<p>Ora, Jânio foi um tresloucado político brasileiro que chegou à Presidência da República e renunciou sete meses após o início do mandato, ato que fez visando um equivocado golpe de Estado. O ex-presidente esperava voltar ao poder com a ajuda dos militares e parte da opinião pública brasileira. A propaganda eleitoral também recordou o episódio da renúncia do Ex-presidente Fernando Collor. Em épocas de desespero o PT não poupa nem seus aliados. Collor é aliado de primeira hora dos governos petistas de Lula e Dilma. Não deixa de ser uma lorota e uma atitude de ingratidão e autofagia na medida em que, com o intuito de ganhar a eleição presidencial a todo custo, sacrifica um aliado que é candidato à reeleição para o Senado.</p>
+<p>Não se trata aqui de promover salvadores da pátria, trata-se de promover mudanças com responsabilidade, compromisso e respeito ao povo brasileiro. O governo petista não tem capacidade para encontrar novas soluções para problemas que se arrastam há uma década. Contudo, para um governo que se transformou numa seita fundamentalista, com dificuldades em aceitar o contraditório, é difícil admitir que há muito tempo frustrou as expectativas dos brasileiros e que o país não aguenta mais 4 anos de tudo isso que está aí.</p>
+<p>Ontem mesmo, Escalado pelo PT, o Ministro da Fazenda Guido Mantega disse que os planos de Marina Silva para a economia poderiam paralisar a atividade econômica, esquecendo, entretanto que foram as gestões de seu governo que levaram o País à recessão, com a retração do PIB em 0,6% no segundo trimestre e 0,2% no primeiro trimestre deste ano como constatou o Instituto Brasileiro de Geografia e Estatística (IBGE) na última sexta-feira. Tamanha é a imperícia de Dilma Rousseff na condução da economia nacional que, a cada pesquisa constatando sua queda na intenção de votos, a Bolsa de Valores reage de forma positiva numa clara demonstração de que somente a esperança de um novo governo anima os investidores. O PT e seus aliados não têm limites para o enfrentamento político. Mentem, de forma abusiva e irritante. Ameaçam as pessoas e as instituições. O PT nunca deixou claro e transparente os assassinatos dos prefeitos de Santo André e Campinas, no Estado de São Paulo.</p>
+<p>A candidata Dilma Rousseff não tem o menor constrangimento em mentir e mistificar. De certo não se pode esperar postura diferente de uma presidente que confessa: “Nós podemos fazer o diabo quando é a hora da eleição! O papel de diabo, ela faz, permanentemente, no exercício do poder, usando o dinheiro do contribuinte brasileiro para fazer campanha. Vale lembrar que o comportamento do PT é repetitivo na artimanha malandra e desonesta de desinformar o eleitor para atingir os adversários. Na campanha eleitoral de 2006, os petistas espalharam boatos maldosos e inverossímeis de que o então candidato Geraldo Alkmin, caso eleito, iria privatizar a Petrobrás, a Caixa Econômica e o Banco do Brasil.</p>
+<p>No ano de 2010, contra o candidato José Serra, inventaram que o mesmo iria acabar com o Bolsa Família e com o Prouni. E agora visam Marina Silva com toda sorte de invencionice, mas o eleitor brasileiro amadureceu e está vacinado contra essas estratégias eleitoreiras desleais do Partido dos Trabalhadores. Nada, absolutamente nada, vai fazer o povo brasileiro deixar de votar pelas mudanças. Nada, absolutamente nada, vai impedir os brasileiros e brasileiras de mandarem Dilma, o PT e seus aliados para a oposição, na eleição de 5 de outubro próximo. Era o que eu tinha a dizer.”</p>
+{% endraw %}

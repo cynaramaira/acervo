@@ -1,0 +1,31 @@
+---
+id: 12479359
+date: "2014-05-22T17:14:39Z"
+last_modified_at: null
+tags:
+  - "passageiros"
+  - "pernambuco"
+  - "psol"
+categories:
+  - "noticias"
+title: "PSOL defende extin\u00e7\u00e3o de terminais integrados de passageiros em Pernambuco "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/05/sabatina11.jpg"><img class="size-full wp-image-108299" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/05/sabatina11.jpg" alt="Candidato do PSOL respondeu a perguntas dos jornalistas. Foto: Alexandre Gondim/JC Imagem" width="580" height="387" /></a> Candidato do PSOL respondeu a perguntas dos jornalistas. Foto: Alexandre Gondim/JC Imagem</p>
+<p><p style="text-align: justify;">O pré-candidato ao governo de Pernambuco pelo PSOL, Zé Gomes Neto, estreou na série de sabatinas promovida pela TV Jornal, nesta quinta-feira (22), destacando pontos controversos do programa do partido como a extinção dos Terminais Integrados (TIs) de passageiros, o controle da mídia pelo Estado e o fim do financiamento de campanha. Com bases fortes no sindicalismo, o político também posicionou-se a favor da greve dos policiais militares e questionou a ilegalidade da proibição dos funcionários em protestarem por melhores condições de trabalho. Com a desistência da vereadora Michele Collins (PP) em disputar o cargo máximo do executivo estadual, o candidato do PSOL deu início às sabatinas promovidas pela emissora de televisão.</p></p>
+<p><p style="text-align: justify;">Zé Gomes respondeu durante uma hora aos questionamentos do jornalista da TV Jornal Antônio Martins Neto, Daniel Carvalho, da Folha de S. Paulo, e Jamildo Melo, do Blog de Jamildo (<a href="https://ne10.uol.com.br/">Portal NE10</a>). Entoando o discurso de que o modelo representativo de democracia chegou ao limite, o pré-candidato criticou os adversários - Paulo Câmara (PSB) e Armando Monteiro Neto (PTB) - afirmando que eles farão um "grande esforço retórico para se diferenciar". "Armando fará um malabarismo para explicar porque deixou o governo", alfinetou.</p></p>
+<p><p style="text-align: justify;">Tocando em um tema recente e polêmico - a greve dos policiais militares em Pernambuco - , o pré-candidato se disse a favor dos direitos dos PMs em realizarem paralisações. Gomes elencou uma série de precariedades em torno do ofício para justificar a legitimidade do movimento paredista como a falta de carros e coletes para a categoria, além da pressão colocada para cumprir as metas do programa de segurança Pacto pela Vida, um dos carros-chefe do governo Eduardo Campos.</p></p>
+<p><p style="text-align: justify;">O transporte público também ganhou destaque no discurso de Zé Gomes. O psolista criticou o formato do Passe Livre estabelecido pelo prefeito do Recife, Geraldo Julio, na última terça-feira (20), e se comprometeu, caso eleito, a expandir o projeto para o Estado. Pelo projeto de Geraldo Julio, apenas alunos do município do 6º ao 9º ano do ensino fundamental (cerca de 14 mil) teriam gratuidade.</p></p>
+<p><p style="text-align: justify;">"No nosso modelo, vamos redescutir as concepções do transporte público. As gratuidades serão estendidas. O consórcio de transportes precisa favorecer ao usuário que se desloca de ônibus diariamente", pontuou Gomes, que afirmou usar, diariamente, transporte coletivo.</p></p>
+<p>Outra questão pontuada pelo político é a extinção dos Terminais Integrados de ônibus. Segundo Zé Gomes, a concepção do modelo não obedece a um padrão lógico. "A integração só seria real se fosse feita entre o sistema rodoviário e o metroviário", destacou.</p>
+<p><p style="text-align: justify;">O candidato também defendeu o fim das campanhas políticas financiadas por multinacionais, empreiteiras e empresas de transportes. "Vamos priorizar doações de pessoas físicas", frisou.</p></p>
+<p>Quanto ao projeto do Arco Metropolitano - suspenso por questões políticas e ambientais - o pré-candidato destacou a atuação dos ativistas ligados ao meio ambiente e defendeu uma releitura do projeto. "A gente precisa de um novo rumo para organizar essa BR 101 Norte, que passa no meio da cidade de Abreu e Lima", afirmou o pré-candidato, sem se prolongar sobre como faria uma mudança. O Arco Metropolitano foi idealizado para facilitar o trânsito nas cidades e vêm recebendo grandes empreendimentos. O projeto foi apresentado pelo ex-governador Eduardo Campos e, agora, depende do financiamento do governo federal para virar realidade.</p>
+<p>Zé Gomes também defendeu o projeto Mais Médicos, mas fez ressalvas ao modelo da saúde como um todo, quem segundo ele, peca pela falta de prevenção. "As Organizações Sociais (OS) quebram a lógica da prevenção, porque tratam apenas de remediar o problema", justificou. "Além de ser a favor do Mais Médicos, somos contra o ato médico, que estabelece uma espécie de privilégio para os profissionais de medicina", grifou o pré-candidato.</p>
+<p><p style="text-align: justify;">Para a realização deste projeto, a TV Jornal se uniu ao SBT, à Folha de S. Paulo e ao Portal Uol, com o apoio dos demais veículos do Sistema Jornal do Commercio de Comunicação. A iniciativa acontecerá nos principais estados brasileiros.</p></p>
+<p><p style="text-align: justify;">Confirmaram presença nas sabatinas os outros dois pré-candidatos ao governo de Pernambuco com representação na Câmara dos Deputados: Paulo Câmara (PSB), no dia 29 de maio, e Armando Monteiro, em 5 de junho.</p></p>
+<p>Fundado em 2004 por ex-petistas insatisfeitos com o governo Lula, o Psol obteve resultados relevantes e inéditos na eleição de 2010. A legenda conseguiu eleger candidatos para cargos majoritários, nas prefeituras de Itaocara (RJ) e Macapá (AP) - reflexo das atuações do deputado estadual Marcelo Freixo (Psol-RJ), candidato derrotado à prefeitura do Rio de Janeiro, e do apoio do senador Randofe Rodrigues (Psol-AP) ao prefeito eleito na capital amapaense, Clécio Luís (Psol).</p>
+{% endraw %}

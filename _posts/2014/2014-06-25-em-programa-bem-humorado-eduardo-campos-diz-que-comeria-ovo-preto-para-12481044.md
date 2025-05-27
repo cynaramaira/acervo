@@ -1,0 +1,33 @@
+---
+id: 12481044
+date: "2014-06-25T00:21:24Z"
+last_modified_at: null
+tags:
+  - "eduardo-campos"
+  - "fungo-preto"
+  - "programa"
+categories:
+  - "noticias"
+title: "Em programa \u00b4bem humorado`, Eduardo Campos diz que comeria ovo preto para ganhar voto"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/06/eduardo-campos-luciana-1.jpg"
+---
+{% raw %}
+<p><p style="text-align: justify;"><em>Imagem: reprodução</em></p></p>
+<p><p style="text-align: justify;">Em uma entrevista "bem humorada" para a apresentadora Luciana Gimenez no final da noite dessa terça-feira (24), o ex-governador de Pernambuco e pré-candidato à Presidência da República Eduardo Campos (PSB) falou mais sobre a vida pessoal que sobre as propostas políticas para o País, caiu em pegadinhas e disse que comeria um ovo preto típico da culinária chinesa para ganhar o voto da modelo. "Para ganhar o meu voto, teria que comer o ovo preto", disse Luciana, em tom de brincadeira. "Aí eu comeria", respondeu de pronto o socialista.</p></p>
+<p><p style="text-align: justify;">Questionado sobre as comidas que são oferecidas aos candidatos durante o período de campanha, o pernambucano admitiu comer buchada, cabeça de bode, coxinha e acarajé sem camarão, por ser alérgico. Os ovos pretos chineses cozinhados na terra, porém, já foram dispensados numa viagem oficial à China. Na conversa, o ex-governador revelou ter pedido a um assessor para tirar a comida do prato quando ninguém estivesse olhando ao ser servido com a iguaria.</p></p>
+<p><p style="text-align: justify;"><object id="player_15090488" width="457" height="368"><param value="true" name="allowfullscreen"/><param value="https://player.mais.uol.com.br/embed_v2.swf?mediaId=15090488&#038;tv=0" name="movie"/><param value="always" name="allowscriptaccess"/><param value="window" name="wmode"/><embed id="player_15090488" width="457" height="368" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" src="https://player.mais.uol.com.br/embed_v2.swf?mediaId=15090488&#038;tv=0" wmode="window" /></embed><noscript><a href="https://mais.uol.com.br/view/15090488"></a></noscript></object></p></p>
+<p><p style="text-align: justify;">"Na verdade, eu não tenho assim esse chamado luxo, besteira pra comer. Eu como tudo. Eu tenho uma limitação porque eu tenho alergia", afirmou Campos, durante a entrevista. Ao final do programa, o socialista ganhou um "kit azia" para se preparar para a campanha, com antiácido, sal de frutas e leite de magnésio. "Tô pronto. Isso aqui é o kit sobrevivência", brincou.</p></p>
+<p><p style="text-align: justify;">Nem todas as brincadeiras foram tão bem recebidas pelo presidenciável. O ex-governador demonstrou desconforto com uma série de piadas sobre como economizar dinheiro para criar muitos filhos. Casado com Renata Campos desde 1991, Eduardo se orgulha de ter cinco filhos. O ex-governador também caiu em pegadinhas ao ser questionado, por exemplo, sobre quantos cocos nascem em uma palmeira.</p></p>
+<p><p style="text-align: justify;">Em um dos quadros do programa chamado "coletiva de imprensa", não conseguiu responder de pronto o nome de jornalistas e apresentadores como Boris Casoy, Danilo Gentili e Oprah Winfrey e foi ajudado por Luciana Gimenez. Acertou os mais populares como Silvio Santos e William Bonner e mostrou dúvida em alguns momentos. "Xuxa?", questionou.</p></p>
+<p><p style="text-align: justify;"><object id="player_15090486" width="457" height="368"><param value="true" name="allowfullscreen"/><param value="https://player.mais.uol.com.br/embed_v2.swf?mediaId=15090486&#038;tv=0" name="movie"/><param value="always" name="allowscriptaccess"/><param value="window" name="wmode"/><embed id="player_15090486" width="457" height="368" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" src="https://player.mais.uol.com.br/embed_v2.swf?mediaId=15090486&#038;tv=0" wmode="window" /></embed><noscript><a href="https://mais.uol.com.br/view/15090486"></a></noscript></object></p></p>
+<p><p style="text-align: justify;">Questionado sobre a vida política, Campos defendeu que os homens públicos têm obrigação de não ser falso com o povo e superar problemas sociais para cumprir a agenda política. "Não tem esse direito. Você tem uma agenda, a agenda está anunciada e você tem que ir", disse.</p></p>
+<p><p style="text-align: justify;">Sobre a vida pessoal, o ex-governador falou sobre a paixão por Renata, que remota a adolescência, quando ela tinha 13 anos e ele 15; defendeu a necessidade de manter o contato com os filhos; e exaltou o avô Miguel Arraes, cuja figura marca a vida política.</p></p>
+<p><p style="text-align: justify;">Campos contou, por exemplo, que o fato de o avô ter sido exilado na Argélia durante a ditadura militar fez com que os tios tivessem certa aversão à política. "Foi um trauma efetivo", disse.</p></p>
+<p><p style="text-align: justify;"><object id="player_15090484" width="457" height="368"><param value="true" name="allowfullscreen"/><param value="https://player.mais.uol.com.br/embed_v2.swf?mediaId=15090484&#038;tv=0" name="movie"/><param value="always" name="allowscriptaccess"/><param value="window" name="wmode"/><embed id="player_15090484" width="457" height="368" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" src="https://player.mais.uol.com.br/embed_v2.swf?mediaId=15090484&#038;tv=0" wmode="window" /></embed><noscript><a href="https://mais.uol.com.br/view/15090484"></a></noscript></object></p></p>
+<p><p style="text-align: justify;">Leonino, o pernambucano também se defendeu da pecha de "mandão" relacionada ao signo. "Você fez uma cara assim, já foi queimando meu filme", contou a apresentadora, que o havia saudado pelos olhos azuis no início do programa e citado a semelhança dele com o cantor Chico Buarque.</p></p>
+<p><p style="text-align: justify;">Eduardo também minimizou os ataques de tubarão no litoral pernambucano, evitou se comprometer com a criação de cassinos no semiárido nordestino no modelo de Las Vegas, proposto pela apresentadora, e revelou o que faz para relaxar: caminhadas, jogar futebol, pedalar em ciclofaixas, ler livros, ver filmes, e brincar de videogame com os filhos. "Eu entro, mas perco de muito", contou.</p></p>
+<p><p style="text-align: justify;">Leia também: <a href="https://blogs.ne10.uol.com.br/jamildo/2014/06/25/na-tv-eduardo-campos-nega-ser-mandao-e-lembra-marina-silva/" target="_blank"><strong>Na TV, Eduardo Campos nega ser mandão e lembra Marina Silva</strong></a></p></p>
+{% endraw %}

@@ -1,0 +1,46 @@
+---
+id: 12506040
+date: "2015-10-25T16:12:00Z"
+last_modified_at: null
+tags:
+  - "domingo-show"
+  - "morte"
+  - "planos"
+  - "vladimir-putin"
+categories:
+  - "noticias"
+title: "Morte de Vladimir Herzog completa 40 anos neste domingo"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/10/VLADIMIR_HERZOG_09_10_1975_FOTO_WILSON_RIBEIRO_CEDOC_FPA-poster.jpg"><img class="alignnone size-medium wp-image-134978" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/10/VLADIMIR_HERZOG_09_10_1975_FOTO_WILSON_RIBEIRO_CEDOC_FPA-poster-580x435.jpg" alt="VLADIMIR_HERZOG_09_10_1975_FOTO_WILSON_RIBEIRO_CEDOC_FPA-poster" width="580" height="435" /></a></p>
+<p>Da Agência Brasil</p>
+<p>A morte do jornalista Vladimir Herzog completa 40 anos neste domingo (25). Ele era diretor do telejornal "Hora da Notícia", veiculado pela TV Cultura de São Paulo.</p>
+<p>Segundo foi reconhecido depois, Vlado foi morto sob tortura pelos militares após ser detido nas dependências do Destacamento de Operação de Informações - Centro de Operações de Defesa Interna (DOPS/SP) . Ele deixou viúva a esposa Clarice, com os dois filhos do casal, Ivo, na época com 9 anos, e André, com 7.</p>
+<p><strong>LEIA TAMBÉM:</strong></p>
+<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2013/03/14/um-novo-atestado-de-obito-para-vladmir-herzog/">Um novo atestado de óbito para Vladmir Herzog</a></p>
+<p>A comoção causada pela morte do jornalista reaglutinou diversos setores da sociedade e provocou a primeira reação popular contra os excessos do regime militar. Por esse motivo, a data de morte foi escolhida para celebrar a democracia no país, sendo considerada o "Dia da Democracia".</p>
+<p>Um marco desse processo foi o ato ecumêmico realizado na Catedral da Sé. Realizado cerca de uma semana após a morte de Herzog, o ato, que  teve a presença do rabino Henry Sobel e do arcebispo de São Paulo, Dom Paulo Evaristo Arns, reuniu milhares de pessoas para homenagear o jornalista, em um protesto silencioso contra o regime.</p>
+<p><strong>Circunstâncias da morte</strong></p>
+<p>Divulgada como suicídio em comunicado do II Exército na época, com a utilização de uma foto forjada, a versão das circustância em que Valdo morreu -  também mantida pelo Inquérito Policial Militar (IPM) realizado naquele ano - foi desmontada ao longo dos anos. Com uma ação declaratória realizada no ano seguinte, Clarice Herzog conseguiu, em outubro de 1978, a condenação da União pela prisão arbitrária, tortura e morte de Vladimir.</p>
+<p>Em 2013, como parte dos trabalhos da Comissão Nacional da Verdade (CNV), a família conseguiu a retificação do atestado de óbito onde consta que a morte do jornalista se deu em função de "lesões e maus tratos sofridos durante os interrogatórios em dependência do II Exército (DOI-CODI)".</p>
+<p>O relatório final da comissão aponta "não existir mais qualquer dúvida acerca das circunstâncias de Vladimir Herzog, detido ilegalmente, torturado e assassinado por agentes do Estado nas dependências do DOI-CODI do II Exército, em São Paulo, em outubro de 1975".</p>
+<p>Em setembro de 2014, a equipe de peritos da comissão concluiu laudo pericial indireto sobre a morte do jornalista, que constatou a  evidência de duas marcas distintas na região cervical, determinante para os peritos afirmarem o seguinte: "Vladimir Herzog foi inicialmente estrangulado, provavelmente com a cinta citada pelo perito criminal e, em ato contínuo, foi montado um sistema de forca uma das extremidades foi fixada a grade metálica de proteção da janela e, a outra, envolvida ao redor do pescoço de Vladimir Herzog, por meio de uma laçada móvel. Após, o corpo foi colocado em suspensão incompleta de forma a simular um enforcamento".</p>
+<p>Segundo o relatório da Comissão da Verdade, Vlado foi morto pela "Operação Radar", que tinha o objetivo de localizar e desarticular a infraestrutura do Partido Comunista do Brasil (PCB) em todo o território nacional e foi responsável pela morte de 20 militantes do partido entre 1974 e 1976, 11 deles ainda desaparecidos.</p>
+<p><strong>Prisão</strong></p>
+<p>Vladimir Herzog, então diretor do telejornal Hora da Notícia, foi procurado por agentes da repressão em casa e no trabalho no dia 24 de outubro de 1975. Preocupada com a estranha visita, a esposa Clarice se dirigiu à TV Cultura onde Herzog acompanhava o fechamento e veiculação do telejornal que dirigia. Dois agentes o esperavam do lado de fora.</p>
+<p>Com intervenção de colegas e da direção da TV Cultura, Herzog não foi levado naquele dia e se prontificou a se apresentar na manhã seguinte aos militares na rua Thomás Carvalhal, 1030, sede do DOI. No dia 25, ele se apresentou conforme o combinado e ficou detido para interrogatórios, de onde não saiu com vida.</p>
+<p>Antes do conhecimento da morte, os colegas de Vlado souberam da detenção por meio de uma nota do Sindicato dos Jornalistas do Estado de São Paulo, então presidido pelo alagoano Audálio Dantas.</p>
+<p>Além de anunciar a prisão de Vlado, a nota publicada no dia 26 em alguns jornais trazia o nome de mais 10 jornalistas que estavam em poder dos militares, todos presos naquele mês. Em uma reportagem completa sobre o caso publicada um mês depois no Jornal Ex, Mylon Severiano, Narciso Kalili e Palmério Dória, editores do veículo e colegas de Herzog traçaram a seguinte descrição sobre ele.</p>
+<p>"O Vlado chegava sempre no meio da tarde, aí pelas 4 e meia. Naquela época ele era uma espécie de secretário do telejornal. Era de chegar trabalhando: pegava a pauta, lia imediatamente com uma atitude muito sua, a de coçar alguns cabelos do alto da cabeça, de pé, e o papel na outra mão. Sua função era editar e botar no ar o telejornal que nós fazíamos, com uma equipe de mais de 20 pessoas. Ou seja, às 21 horas em ponto, com script na mão, ele acompanhava da técnica os 30 minutos de "Hora da Notícia", como um responsável e representante da redação, ali na hora, no estúdio".</p>
+<p>No dia seguinte chegava a nota oficial do II Exército, informando a morte do jornalista e apontando que ele teria se suicidado. O primeiro questionamento a essa versão partiu do sindicato em São Paulo. Além de informar que Vlado tinha sido procurado por agentes de segurança no dia 24 por volta das 21h30 e se apresentado espontaneamente no dia seguinte, a nota apontava a responsabilidade dos agentes pela morte de Vlado e questionava o modo arbitrário pelo qual ocorriam as prisões de jornalistas.</p>
+<p>"Não obstante as informações oficiais fornecidas pelo II Exército, em nota distribuída à imprensa, o Sindicato dos Jornalistas deseja notar que, perante a lei, a autoridade é sempre responsável pela integridade física das pessoas que coloca sob sua guarda. O Sindicato dos Jornalistas, que ainda aguarda esclarecimentos necessários e completos, denuncia e reclama das autoridades um fim a esta situação em que jornalistas profissionais, no pleno, claro e público exercício de sua profissão, cidadãos com trabalho regular e residência conhecida, permanecem sujeitos ao arbítrio dos orgãos de Segurança, que os levam de suas casas, ou de seus locais de trabalho, sempre a pretexto de que irão apenas prestar depoimento, e os mantém presos, incomunicáveis, sem assistência da família e jurídica, por vários dias e até por várias semanas em flagrante desrespeito à lei".</p>
+<p><strong>Vida de Herzog</strong></p>
+<p>Vlado Herzog nasceu em Osijek na Iugoslávia em 27 de junho de 1937 e se mudou para o Brasil com a família para fugir da perseguição aos judeus durante a Segunda Guerra Mundial. Naturalizado brasileiro, mudou seu nome para Vladimir.</p>
+<p>Vlado se formou em Filosofia pela Universidade de São Paulo em 1959 e, desde então, exerceu a atividade jornalística em diferentes veículos de imprensa e também no cinema. Ele iniciou a carreira jornalística como repórter do jornal O Estado e S. Paulo e participou do grupo responsável pela instalação da sucursal de Brasília do jornal. Em 1962, conheceu a estudante de ciências sociais Clarice Chaves, com quem iria se casar em fevereiro de 1964, cerca de dois meses do golpe militar.</p>
+<p>Em 1963, filmou no Rio de Janeiro o documentário "Marimbás" , primeiro filme brasileiro a utilizar som direto. Em 1965, gerenciou a  produção do curta-metragem “Subterrâneos do Futebol” (1965), de Maurice Capovilla; e o início do roteiro do filme “Doramundo”, que só viria a ser filmado depois da morte dele por João Batista de Andrade. O mesmo cineasta homenageou Vlado com um documentário 30 anos depois.</p>
+<p>Entre as primeiras consequências do regime militar na vida do casal, está a ida para Londres em 1965 onde Vlado foi contratado pela BBC. Na Inglaterra, nasceram os filhos do casal, Ivo e André. Ele voltou ao Brasil em 1968 e passou a atuar como editor da revista Visão. Em 1972, trabalhou pela primeira vez na TV Cultura.</p>
+{% endraw %}

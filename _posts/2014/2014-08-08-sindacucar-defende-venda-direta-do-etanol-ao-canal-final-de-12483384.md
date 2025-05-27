@@ -1,0 +1,35 @@
+---
+id: 12483384
+date: "2014-08-08T15:22:18Z"
+last_modified_at: null
+tags:
+  - "canal-aberto"
+  - "distribuicao"
+  - "final"
+  - "venda"
+categories:
+  - "noticias"
+title: "Sinda\u00e7ucar defende venda direta do etanol ao canal final de distribui\u00e7\u00e3o"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p>É muito evidente que o Governo Federal tenta debelar a terrível volta de uma indesejada inflação ao país, sobretudo através do controle artificial que permeia o comportamento dos preços da gasolina, e, por tabela dos seus substitutos; etanol, diesel, biodiesel e da matriz veicular como um todo. A estratégia já impingiu danos e prejuízos irreversíveis, tanto á Petrobrás como ao Setor Sucroenergético e a todo o seu genuíno Agriconglomerado (cluster) nacional, que só em fornecedores de cana; envolve mais de 60.000 agentes geradores de empregos e renda no campo.</p>
+<p>Contudo, será que não há uma saída, ainda que não definitiva,claro que não seria uma panaceia, mas um caminho de auto-gestão, onde o produtor de etanol pudesse vender diretamente ao Posto o seu suado produto; Diretamente ao canal final de distribuição, recebendo por uma espécie de CONSEÁLCOOL dos preços ao consumidor , a exemplo dos nossos plantadores e empreendedores da cana ,com o já consolidado;”CONSECANA”, melhorando assim sua rentabilidade e ainda diminuindo os preços de compra atuais, impostos que são aos consumidores, que compulsoriamente, são partícipes de compras nos postos, após preços já engordados, na suprimível etapa da Distribuição ,tendo o consumidor no mínimo mais fretes de etanol desnecessários para arcar,em etapas que não devem mais ser desperdiçadas e sim racionalizadas, no caso do etanol hidratado , principalmente aqueles produzidos perto das cidades onde se situam os postos e que não merecem ser abastecidos com produto vindo de uma base de distribuidora, contraditoriamente, localizada a muitos quilômetros de distancia,gastando-se inclusive diesel nesse processo logístico arcaico e inseguro,maléfico á mobilidade e acarretando aumentos de preço aos consumidores,além de estatísticas com grandes riscos de vida nas rodovias,já tão caóticas e ineficientes em todo o escoamento das produções.</p>
+<p>A quem não interessa a venda direta do Hidratado, com maior atratividade ao consumidor? São volumes equivalentes a cerca de mais de 56% da produção de etanol do país? Produto que segura o suprimento dos motores alternativos á gasolina. Por que não flexibilizar e permitir um modelo mais híbrido? Provável sendo mais de 30% compensador.</p>
+<p>O Produtor Agroindustrial nos dias atuais é forçado a trabalhar para perder dinheiro. Cumpre o abastecimento do anidro na gasolina, questão estratégica que é, para o país, e, ainda perde capital, margens, sendo direcionado ao endividamento, a essa altura, para tentar salvar o restante de seus ativos, tudo em benefício de um desequilíbrio de concorrência de mercado, presente fortemente em meia dúzia de grandes distribuidoras. E isso ocorrerá até quando? Até Aonde mais irá nossa longevidade? Há mercado comprador ascendente no Brasil, só para quem quer e já está nesse atroz jogo de perder muito, transferindo para as vendas, as parcas esperanças que não vêm remunerando a produção. Um Suicídio Empresarial induzido e consentido.</p>
+<p>Enquanto não há, a necessária volta do tributo regulador e ambiental; a chamada Contribuição de intervenção no domínio econômico-Cide e mesmo com sua futura aprovação pelo governo federal, independente do pleito, ambientalmente justo, de elevação da atual mistura do etanol anidro; dos 25% atuais para uma banda mais ampla de até 27,5%,o que economizaria inclusive parte da gasolina que nosso país ainda importada,além de pleitos concretos de saneamento e escalonamento dos endividamentos que surgiram,em muito, nesses últimos anos de tantas distorções e imprevisibilidades,com custos tão imprevisíveis e desatrelados de quaisquer correções permitidas,nos nossos preços finais.</p>
+<p>Torna-se assim imperioso romper esse silêncio única forma de fraturar essa agenda atrasada e danosa que a atual Economia “Dirigida” nos tem sido imposta de maneira predatória e avassaladora para a continuidade de matriz energética, limpa, veicular do país. “Por que não uma mobilização nacional, do tipo: “Vendas diretas e seguras para os combustíveis limpos”?”.</p>
+<p>Poderia ser um modelo alternativo, ou de venda direta do hidratado diretamente ao canal de distribuição ou através de distribuidoras?Com todos os zelos dos controles atuais, inclusive controles de qualidade ao consumidor nas plataformas das próprias usinas, o que, aliás, o governo não os efetua, notadamente nas inexplicáveis importações de álcool de milho subsidiado e de qualidade duvidosa, vendidos livremente aos consumidores brasileiros.Portanto cabe tornar esse convívio mais harmônico. Mas não é possível a exterminação impiedosa de todos os elos da cadeia abaixo da chamada distribuição (downstream), enquanto assistimos a essa Pseudo Verticalização, muito predatória, devorar a todos e ao próprio sistema nacional de Combustíveis renováveis.</p>
+<p>O setor Agroindustrial acreditou e cresceu mais de 81% a produção nacional do etanol, desde 9 safras atrás. Foi um crescimento árduo. Trabalhou literalmente de graça ou com grandes ônus, porém sacrificando sua saúde. Portanto é hora de ocorrer permissão das vendas diretas, ainda que alternativamente, às compras das distribuidoras. Esse paradigma já demorou e corroeu quase tudo. Se continuar nas bases atuais vai arrasar o que resta, e, é preciso, imperioso mesmo, capturar cerca de 30% de margem que as vendas via distribuidoras bloqueiam o acesso,patamares expressivos para qualquer matriz patrimonial.</p>
+<p>Há trinta anos quando se falava em venda de açúcar em pacotes no varejo era uma grande resistência.Ainda,quando não se permitia ao produtor exportar açúcar por si só, outra barreira inimaginável de ser ultrapassada, etc, tendo todos os modelos evoluído,com a usina chegando mais e mais ao seu comprador,a quem cabe fidelizá-lo,numa relação madura mais pessoal, pormenorizada e mais rentável.</p>
+<p>Não dá mais para calar, nem vamos nos entregar, asfixiados, por um modus operandi de venda defasado, onde as próprias distribuidoras, até para terem a fidelização de seus postos vivem do auxílio normativo do governo, só conseguindo por normativos.</p>
+<p>Enquanto isto o produtor se endivida, troca seis por menos de meia dúzia, isto é, quando tem a sorte de ter fluxo de comercialização, ainda que oneroso existe, se enterrando cada vez mais, numa aspiral descendente e sem fim.</p>
+<p>Portanto nossa cruzada explícita, é pelas vendas diretas dos combustíveis limpos, um dos caminhos que pode cooperar num novo redirecionamento para o segmento.</p>
+<p>RENATO AUGUSTO PONTES CUNHA</p>
+<p>PRESIDENTE DO SINDAÇUCAR PERNAMBUCO</p>
+<p>VICE-PRESIDENTE DO FÓRUM NACIONAL SUCROENEGÉTICO</p>
+<p>VICE –PRESIDENTE DA -FIEPE</p>
+{% endraw %}

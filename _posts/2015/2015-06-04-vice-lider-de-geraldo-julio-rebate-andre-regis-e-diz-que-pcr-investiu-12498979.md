@@ -1,0 +1,34 @@
+---
+id: 12498979
+date: "2015-06-04T13:10:20Z"
+last_modified_at: null
+tags:
+  - "andre-rio"
+  - "educacao"
+  - "geraldo-julio"
+  - "registro"
+  - "seguradora-lider"
+  - "vicencia"
+categories:
+  - "noticias"
+title: "Vice-l\u00edder de Geraldo Julio rebate Andr\u00e9 R\u00e9gis e diz que PCR investiu R$ 135 milh\u00f5es em educa\u00e7\u00e3o"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><img class="wp-image-127917 size-medium" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/06/marco-aurelio-580x387.jpg" alt="Foto: Facebook/Divulgação." width="580" height="387" /> Foto: Facebook/Divulgação.</p>
+<p><p style="text-align: justify;">Rebatendo as <a href="https://blogs.ne10.uol.com.br/jamildo/2015/06/03/gestao-de-geraldo-julio-chega-ao-fim-com-fracasso-na-educacao-diz-andre-regis/" target="_blank">críticas do vereador André Régis sobre a qualidade da educação no Recife, o vice-líder da bancada governista na Câmara</a>, Marco Aurélio, partiu em defesa do prefeito Geraldo Julio (PSB) e afirmou que a gestão municipal investiu mais de R$ 135 milhões na área. Segundo o vereador, a quantia é maior do que a soma dos investimentos feitos na área nos últimos 12 anos.</p></p>
+<p><p style="text-align: justify;">"O prefeito Geraldo Julio construiu  seis creches-escolas nos dois primeiros anos de gestão, ofertando mais de 900 vagas para estudantes de zero a 5 anos. O investimento total foi de R$ 12 milhões. Geraldo Julio ainda concluiu a construção de uma creche-escola que o prefeito João da Costa inaugurou sem estar pronta. Outras seis creches-escolas estão em construção, reforçando o compromisso do executivo municipal em universalizar o acesso à pré-escola para as crianças do Recife".</p></p>
+<p><p style="text-align: justify;"><strong>LEIA A ÍNTEGRA DA RESPOSTA DO VEREADOR:</strong></p></p>
+<p><em>A Primeira coisa que precisamos lembrar ao vereador André Régis (PSDB) é que o mandato conferido pelo povo do Recife ao prefeito Geraldo Julio é de quatro anos e não de dois anos e meio. A atual gestão ainda tem, portanto, um ano e meio de trabalho pela frente, tempo suficiente para promover ainda mais melhorias na educação do Recife, dando continuidade ao trabalho que vem sendo desenvolvido  para recuperar o tempo de investimento perdido nos últimos anos. Somente nos dois primeiros anos de gestão, o prefeito Geraldo Julio investiu  mais de R$ 135 milhões na área. O valor é maior que a soma dos investimentos na área nos últimos 12 anos.</em></p>
+<p><p style="text-align: justify;"><em>Esta gestão também tem investido bastante na melhoria da estrutura das escolas. No total, 239 escolas receberam manutenção preventiva e corretiva, totalizando um investimento de R$ 21,3 milhões. Como muitas escolas antigas foram construídas em terrenos inadequados e sem espaço suficiente, ao invés de reformar as unidades de ensino, a Secretaria de Educação do Recife optou por construir novas sedes, em outro espaço e com alto padrão de qualidade estrutural. Seis escolas estão em obras para ganharem novas sedes, com um investimento de mais de R$ 12 milhões. Em dezembro, a primeira a ter o novo espaço inaugurado foi a Escola João Francisco, na UR-7 - Várzea. Até o fim de julho, será entregue a nova sede da Escola Municipal Jardim Monte Verde. Também há duas escolas de referência em construção.</em></p></p>
+<p><p style="text-align: justify;"><em>Também destaco que os robôs usados no Programa Robótica na Escola não são "brinquedos". A tecnologia tem sido uma forte aliada pedagógica. A robótica é ensinada por professores das mais diversas disciplinas, fazendo com que os alunos aprendam os conteúdos de forma lúdica e estimulante. Prova de que o programa não é brincadeira são os resultados já alcançados logo no primeiro ano de projeto. Alunos da Escola Municipal de Tempo Integral Dom Bosco venceram a etapa estadual da Olimpíada Brasileira de Robótica (OBR), competindo com escolas estaduais e colégios privados. A equipe ainda disputou a etapa nacional da competição, em São Paulo.  Além do trio vencedor, outros quatro alunos ficaram na terceira posição em Pernambuco.  O aprendizado da robótica também proporcionou aos estudantes uma experiência internacional. Pelo destaque que está tendo o Programa Robótica na Escola, dois alunos da rede municipal foram convidados a viajar para a Rússia, onde participam da Olimpíada Mundial de Robótica, em 2014.</em></p></p>
+<p><p style="text-align: justify;"><em>Também consideramos importante a distribuição de cerca de 15 mil tablets com mais de 100 GB de conteúdos pedagógicos, a implantação do Diário de Classe Online e as Matrículas Online. Só para citar mais alguns pontos importantes, destacamos ainda o Programa de Letramento do Recife (Proler), que visa a alfabetização dos alunos até os 6 anos; o Programa MenteInovadora, que utiliza jogos de raciocínio lógico para facilitar o aprendizado sobretudo de matemática; o Projeto Sabiah! de ensino de ciências, inclusive com implantação de laboratórios e salas temáticas de ciências; além do Passe Livre Recife.</em></p></p>
+<p><p style="text-align: justify;"><em>Esta gestão também lançou, este ano, a Nova Política de Ensino do Recife e está concluindo o Plano Municipal de Educação, que vem sendo discutido com a sociedade desde a semana passada na Conferência Municipal de Educação (Comude), da qual participo diretamente como representante da Câmara Municipal do Recife.</p>
+<p></em></p>
+<p><em>A educação inclusiva também tem sido umas das prioridades da Prefeitura do Recife em 2015. Pacientes internados com câncer, alunos surdos, autistas e com outras deficiências têm ganho estímulos para continuar exercendo o direito à educação por meio de iniciativas como a classe hospitalar instalada no Hospital Oswaldo Cruz, as salas bilíngues para alunos surdos e o transporte escolar inclusivo para os estudantes que têm dificuldade de locomoção.</em></p></p>
+<p><p style="text-align: justify;"><em>Quanto aos professores, a Prefeitura pagou os percentuais de aumento estabelecidos pelo MEC a todos os docentes da rede municipal de ensino em 2013, 2014 e 2015.</em></p></p>
+<p><p style="text-align: justify;"><em>Com todas essas iniciativas, acreditamos que já veremos o resultado de todos esses investimentos refletidos na próxima prova do Ideb. Como pode uma gestão que promoveu tantos avanços na Educação do município pode ter "fracassado", como quer o vereador André Régis. Pior, como pode ter fracassado o trabalho sequer antes de ter chegado ao fim? Convido o vereador para fazer, como sempre fez, o bom debate em torno do tema em vez de fazer ilações vazias com o intuito de confundir a população do Recife.</em></p></p>
+{% endraw %}

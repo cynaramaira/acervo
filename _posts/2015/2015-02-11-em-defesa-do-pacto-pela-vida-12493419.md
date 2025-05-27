@@ -1,0 +1,25 @@
+---
+id: 12493419
+date: "2015-02-11T07:56:47Z"
+last_modified_at: null
+tags:
+  - "defesa"
+  - "pacto-pela-vida"
+categories:
+  - "opiniao"
+title: "Em defesa do Pacto Pela Vida"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;">Por José Maria Nóbrega Júnior, especial para o <strong>Blog de Jamildo</strong></p></p>
+<p><p style="text-align: justify;">Em artigo publicado recentemente no Blog de Jamildo, meu colega, Plínio Nunes, afirmou que o Pacto Pela Vida (PPV) – Programa do Governo de Pernambuco para a Segurança Pública -, foi um fiasco, que teve como foco apenas a repressão policial, que foi uma política pública mal sucedida. Afirmou, também, que prender não tem relação com a queda da criminalidade, pois a prisão não reflete em menos crimes. Discordo de suas palavras, primeiramente, por não estarem baseadas em comprovações empíricas. O PPV foi bem sucedido em relação à queda dos homicídios entre 2007 e 2013 e os dados confirmam isso, e uma das principais causas para esta queda foram, justamente, as prisões. Estas tiveram impacto na queda dos homicídios.</p></p>
+<p><p style="text-align: justify;">As taxas de homicídios em Pernambuco passaram a apresentar redução contínua justamente quando do implemento do PPV. Entre 2000 e 2008, as taxas de homicídios sempre estiveram acima dos 50/100 mil (cinquenta homicídios por grupo de cem mil habitantes). Após 2008, os números começaram a cair e no último ano da série histórica, 2013, a taxa por cem mil foi de 33/100 mil com redução de – 34,4% nas taxas por cem mil. Ou seja, em sete anos houve redução de -5% ao ano, um dado importante, pois em Bogotá, exemplo de cidade onde sua política pública de segurança foi responsável por redução da violência, essa redução foi em média de 6% ao ano, mostrando que decisões ao nível do governo foram importantes. E eu aponto uma delas: as prisões importaram!</p></p>
+<p><p style="text-align: justify;">O PPV teve dificuldades iniciais quando do comando de João Lyra, a época vice-governador, e de 2007 para 2008 a inflexão dos números se mostrou insuficiente em relação aos investimentos feitos pelo estado nessa política. Dessa forma, Geraldo Júlio, naquele momento era secretário de planejamento do governo, assumiu a pasta e as coisas começaram a acontecer. O secretário pontuou algumas metas e uma delas era justamente o aumento de prisões de homicidas, sobretudo os contumazes. Isso surtiu um efeito importante na redução dos homicídios que, claro, tiveram outros atenuantes, mas as prisões foram importantes.</p></p>
+<p><p style="text-align: justify;">Os dados nos mostram isso. As prisões de homicidas acusados por homicídios simples e qualificado teve incremento percentual expressivo. Quando cruzado o período das prisões com as taxas de homicídios o efeito é inverso, ou seja, mais prisões e menos homicídios. Como exemplo, os casos de prisões por homicídio simples cresceu 851% entre 2006 – que teve 407 registros de prisões por este tipo penal – e 2011 – que teve 3.864 prisões por homicídios simples -, mas é bom destacar que entre 2006 e 2010 o aumento percentual foi de 1.300% já que neste ano foram mais de cinco mil registros de pessoas presas por esse tipo penal (os dados foram retirados do DEPEN/INFOPEN).</p></p>
+<p><p style="text-align: justify;">Essas prisões só foram possíveis pela melhoria na produção dos inquéritos policiais dentro do DHPP (Departamento de Homicídio e Proteção a Pessoa). O trabalho cooperativo entre comandantes da Polícia Militar e de delegados especiais da Polícia Civil foi outra tomada de decisão importante ao nível da política pública inserida no PPV que mostrou ser eficaz. Contudo, toda política pública tem limitações e chega ao seu ponto de desgaste. O PPV hoje pode ter chegado a este desgaste, sobretudo pelo fracasso em relação aos estabelecimentos penitenciários, que, como estamos a ver no presente, foi totalmente esquecido pela gestão da segurança pública do PPV. Daí a necessidade de se rever essa estrutura que, a nível de América Latina, é uma das grandes lacunas a ser preenchida pela política pública de segurança.</p></p>
+<p><p style="text-align: justify;">De toda a forma, não podemos deixar de salientar o sucesso do PPV na redução dos homicídios que foi expressiva nos anos de 2008 a 2013. Os dados de homicídios no principal banco de dados de violência, o DATASUS/SIM, ainda não consolidou o ano de 2014 para avaliação dos números de homicídios. Dessa forma, afirmar com veemência um fracasso de um projeto ou programa de política pública sem embasamento científico é um risco que se corre e que precisa ser destacado.</p></p>
+<p><p style="text-align: justify;">Cientista Político. Professor da Universidade Federal de Campina Grande. Coordenador do Núcleo de Estudos da Violência da UFCG (NEVU).</p></p>
+{% endraw %}

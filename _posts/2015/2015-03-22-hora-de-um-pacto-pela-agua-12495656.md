@@ -1,0 +1,35 @@
+---
+id: 12495656
+date: "2015-03-22T10:25:11Z"
+last_modified_at: null
+tags:
+  - "agua"
+  - "altas-horas"
+  - "impacto"
+categories:
+  - "opiniao"
+title: "Hora de um pacto pela \u00e1gua"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/03/Aguas_-ONU-alerta-para-o-fim-da-agua-potavel-no-Planeta_1020032015.jpg"><img class="wp-image-124595 size-medium" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/03/Aguas_-ONU-alerta-para-o-fim-da-agua-potavel-no-Planeta_1020032015-580x386.jpg" alt="Na foto, Fundo do Açude Carnaubal que abastecia a cidade de Crateús, no Ceará. Foto: Fernando Frazão/ Agência Brasil (05/03/2015)." width="580" height="386" /></a> Na foto, Fundo do Açude Carnaubal que abastecia a cidade de Crateús, no Ceará. Foto: Fernando Frazão/ Agência Brasil (05/03/2015).</p>
+<p><p style="text-align: justify;"><em>Por Miguel Coelho, deputado estadual do PSB</p>
+<p></em></p></p>
+<p><p style="text-align: justify;">Hoje, Dia Mundial da Água, é uma data importante para mais uma vez refletir sobre um desafio que preocupa o mundo e, particularmente, nós pernambucanos: os recursos hídricos. Segundo a Organização das Nações Unidas (ONU) quase 800 milhões de pessoas vivem atualmente sem água potável. Além disso, a ONU divulgou um estudo prevendo que daqui a apenas dez anos, 48 países não terão água suficiente para as suas populações.</p></p>
+<p><p style="text-align: justify;">O Brasil neste panorama seria um país privilegiado por ter a maior fonte de água doce do mundo. Entretanto, isso nos deixa muito longe de uma situação confortável. Pelo contrário, a estiagem que castiga nordestinos há tantos anos, agora se torna um tema de dimensão nacional devido aos efeitos causados a alguns estados como São Paulo. As palavras racionamento e volume morto nunca foram tão citadas no noticiário como nos últimos meses.</p></p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/03/Aguas_-ONU-alerta-para-o-fim-da-agua-potavel-no-Planeta_1420032015.jpg"><img class="size-medium wp-image-124596" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/03/Aguas_-ONU-alerta-para-o-fim-da-agua-potavel-no-Planeta_1420032015-580x433.jpg" alt="Na foto, escassez no sistema de abastecimento da cidade de Vargem, em São Paulo. Foto: Luiz Augusto Daidone/ Prefeitura de Vargem." width="580" height="433" /></a> Na foto, escassez no sistema de abastecimento da cidade de Vargem, em São Paulo. Foto: Luiz Augusto Daidone/ Prefeitura de Vargem.</p>
+<p><p style="text-align: justify;">Nosso estado, em particular, é o mais afetado pela estiagem no Nordeste de acordo com o Departamento Nacional de Obras Contra a Seca (Dnocs). Além disso, já existem 126 munícipios pernambucanos com algum tipo de racionamento de água e essa dura realidade não parece dar sinais de melhora em curto prazo, conforme apontam as agências de meteorologia.</p></p>
+<p><p style="text-align: justify;">Mas essa estiagem não deixa somente torneiras vazias. Traz também graves desdobramentos econômicos. A produção agrícola caiu e os pastos ressecados estão provocando a morte de milhares de animais. Para se ter ideia, a Agência de Defesa e Fiscalização Agropecuária (Adagro) afirma que Pernambuco perdeu, nos últimos três anos, 600 mil cabeças de gado. A economia ainda é afetada na produção industrial devido à queda brusca na capacidade de geração de energia nas hidrelétricas.</p></p>
+<p><p style="text-align: justify;">Portanto, a crise hídrica se traduz em uma perversa série de efeitos. Menos água reduz o abastecimento e a geração de energia, que por sua vez atingem o setor econômico, aumentando preços de alimentos, diminuindo a capacidade de compra e ainda afetando a geração de empregos.</p></p>
+<p><p style="text-align: justify;">Não bastasse este cenário preocupante, vemos ainda uma crise de gestão pública em nível federal. Diversas obras estruturantes - que deveriam ajudar a enfrentar a falta de abastecimento – estão paralisadas, desmobilizadas ou sem recursos. A transposição é o símbolo maior dessa situação, mas há outros exemplos como a barragem de Serro Azul e a Adutora do Agreste que estão paradas porque os repasses do Governo Federal não chegam.</p></p>
+<p><p style="text-align: justify;">Além das falhas de gestão, ainda nos deparamos com o desperdício nosso de cada dia, que envolve toda a sociedade. Em estudo revelado em fevereiro pelo Ministério das Cidades, nos deparamos com um dado assustador: 37% da água tratada no Brasil é jogada fora. E essa condição piora quando trazemos para nossa realidade, pois no Nordeste, este percentual aumenta para incríveis 45%. Em países como Alemanha e Japão, só para comparar com culturas mais sustentáveis, esse índice é inferior a 10%.</p></p>
+<p><p style="text-align: justify;">Tantos problemas apontam que o caminho da solução não depende somente de um protagonista, mas de diversos atores. União, estados, municípios, bancadas parlamentares, associações e movimentos sociais precisam se unir em caráter de urgência para formatar um plano de enfrentamento à crise dos recursos hídricos que tende a piorar com o crescente aquecimento global.</p></p>
+<p><p style="text-align: justify;">Pernambuco provou recentemente com o Pacto pela Vida que quando sociedade e gestores públicos se unem com planejamento e boas ideias é possível superar grandes desafios. E para conviver com uma situação tão grave como a redução gradual dos recursos hídricos é necessária uma pactuação social. É, portanto, imprescindível um Pacto pela Água.</p></p>
+<p><p style="text-align: justify;">A redução do consumo e a cultura do reaproveitamento de água são o primeiro passo para enfrentar o problema. Tornar a água uma prioridade da gestão pública e adotar uma política integrada de gerenciamento e monitoramento dos recursos hídricos são outras medidas urgentes.</p></p>
+<p><p style="text-align: justify;">Ampliar os investimentos em obras estruturantes e acelerar as intervenções em andamento também podem trazer resultado em curto prazo. Além disso, o setor privado precisa participar desse movimento aplicando um planejamento sustentável, menos agressivo para o meio ambiente e mais comprometido com soluções ecologicamente criativas.</p></p>
+<p><p style="text-align: justify;">Não foi a toa que “Água e Desenvolvimento Sustentável” foi o tema escolhido pela ONU para celebrar o Dia Mundial da Água neste ano. Não podemos mais tratar sustentabilidade como uma palavra do futuro, mas sim como um hábito diário e necessário no presente. Não temos mais tempo a perder para pactuar uma solução para um tema que deve ser um dos maiores desafios dos próximos anos.</p></p>
+<p><p style="text-align: justify;"><em>*Miguel Coelho é advogado e deputado estadual pelo PSB</em></p></p>
+{% endraw %}

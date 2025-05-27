@@ -1,0 +1,41 @@
+---
+id: 12487359
+date: "2014-10-05T00:50:11Z"
+last_modified_at: null
+tags:
+  - "armando-monteiro"
+  - "campanha"
+  - "cerrado"
+  - "senadores"
+categories:
+  - "noticias"
+title: "O que deu errado na campanha do senador Armando Monteiro?"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;"><img class="ngg_displayed_gallery mceItem" src="https://blogs.ne10.uol.com.br/jamildo/nextgen-attach_to_post/preview/id--116361" alt="" /></p></p>
+<p><p style="text-align: justify;">Atualizada às 1h29</p>
+<p>Por Marcela Balbino, repórter do <strong>Blog</strong></p></p>
+<p><p style="text-align: justify;">Com a campanha nas ruas desde o fim do ano passado, o candidato Armando Monteiro Neto (PTB) chegou perto do sonho acalentado por anos, mas perdeu para o ex-secretário da Fazenda Paulo Câmara, escolhido por Eduardo Campos para sucedê-lo no Governo de Pernambuco. A diferença foi de quase 1,2 milhão de votos válidos. Antes da totalização dos votos, o TRE já anunciava a vitória do socialista: Paulo com 68,08% dos votos e Armando, 31,07%.</p></p>
+<p><p style="text-align: justify;">Para atingir a meta de se eleger governador de Pernambuco, o senador licenciado investiu recursos próprios, algo estimado em R$ 4,6 milhões para bancar a campanha. Sem apoio financeiro do PT, inclusive nacionalmente, a alternativa era aplicar o dinheiro do patrimônio pessoal para tocar a candidatura.</p></p>
+<p><p style="text-align: justify;">Aliado de Eduardo Campos até as eleições municipais de 2012, o petebista almejava encabeçar a chapa da Frente Popular na disputa estadual, mas os planos já estavam arquitetados pelo ex-governador desde a esmagadora vitória do prefeito do Recife, Geraldo Julio. O objetivo era eleger afilhados, nomes importantes do secretariado "eduardista". Na gestão de Campos, o perfil técnico se transformou em político.</p></p>
+<p><p style="text-align: justify;">Em busca de espaço e alianças, Armando migrou para o barco petista, cuja meta também era barrar a hegemonia do PSB, tanto no campo local quanto no nacional.</p></p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/10/armando-monteiro-discurso.jpg"><img class="size-full wp-image-116021" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/10/armando-monteiro-discurso.jpg" alt="Foto: Léo Caldas/PTB" width="580" height="386" /></a> Foto: Léo Caldas/PTB</p>
+<p><p style="text-align: justify;">Mas o candidato trabalhista desembarcou no PT quando o partido ainda costurava os pedaços, fragmentados desde as eleições municipais, onde foram expostas as brigas internas da legenda. O Processo de Eleição Direta (PED) buscou a união e chegou ao consenso com o nome da deputada estadual Teresa Leitão, que disputou à reeleição na Assembleia Legislativa de Pernambuco (Alepe). No entanto, nem todas as arestas estavam aparadas.</p></p>
+<p><p style="text-align: justify;">Nova divisão aparecia entre os membros que estimulavam o apoio a Armando Monteiro e setores que trabalhavam com o lançamento da candidatura própria. Novo encontro do PT, em marco, definiu que o Partido dos Trabalhadores apoiaria o empresário, ex-presidente da Federação de Indústrias de Pernambuco (Fiepe) e da Confederação Nacional da Indústria (CNI).</p></p>
+<p><p style="text-align: justify;">Mas o apoio não veio fácil. Correntes do partido militavam pela indicação de alguém de dentro do PT. O presidente da sigla no Recife, Oscar Barreto, chegou a lançar seu nome, mas não houve eco na legenda. Na época, Teresa afirmou que as reuniões foram favoráveis à formação da aliança com o PTB. Oscar rebatia que o tom nas reuniões não foi para aliança. “Mas sim pelo lançamento da candidatura própria."</p></p>
+<p><p style="text-align: justify;">As discordâncias internas do PT se estenderam até o último domingo antes das eleições. Uma das alas do PT, a PTLM, retirou a aliança com Armando e lançou apoio ao socialista Paulo Câmara. Entre as alegações estava o fato de o candidato estar “escondendo” a presidente Dilma durante toda a campanha, enquanto ela aparecia em baixa nas pesquisas de intenção de voto. A corrente, no entanto, sempre esteve mais alinhada ao PSB e nunca concordou com o rompimento das duas legendas em 2012.</p></p>
+<p><p style="text-align: justify;"><strong><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/10/armando-lula-ag.jpg"><img class="alignnone size-full wp-image-116380" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/10/armando-lula-ag.jpg" alt="armando-lula-ag" width="580" height="387" /></a>FORÇA DOS PROPORCIONAIS</strong> - Outro fator que pesou contra Armando foi o arco de alianças construído pela Frente Popular, ainda sob a batuta de Eduardo Campos. Foram 21 partidos coligados para pedir votos para Paulo Câmara (PSB). Armando teve apenas seis legendas na base aliada. Com isso, o exército ficou sem soldados. A base, sem sustentação.</p></p>
+<p><p style="text-align: justify;">Recaiu contra Armando ainda a resistência da base do PT ao seu “perfil” ligado ao empresariado. A conhecida militância aguerrida do partido não foi vista nas ruas pedindo voto para o candidato da coligação.</p></p>
+<p><p style="text-align: justify;">Paulo Câmara começou o período eleitoral com elevado índice de desconhecimento, mas contava com estrutura de campanha, com mais candidatos proporcionais, que tinham uma comunicação melhor, principalmente no interior do Estado.</p></p>
+<p><p style="text-align: justify;">Além disso, depois da morte de Eduardo Campos, em 13 de agosto, acelerou-se o processo de conhecimento de Paulo e o nome dele rapidamente foi associado ao do ex-governador, que se tornou um verdadeiro mito na política.</p></p>
+<p><p style="text-align: justify;">Armando precisou rever o planejamento de campanha para não ficar com a imagem de anti-Eduardo. A dificuldade seria brigar com um padrinho onipresente e onipotente, como o ex-govenador se transformou no Estado. Armando chegou a outubro com índice de rejeição de 17%.</p></p>
+<p><p style="text-align: justify;">Com a morte repentina de Eduardo, houve uma aceleração do processo de conhecimento de Paulo Câmara e o início da queda de Armando nas pesquisas. Boa parte dos votos até o momento era uma espécie de “recall” do ex-governador. No início da campanha, o nome de Armando ainda estava “colado” ao de Eduardo e o eleitorado ainda o reconhecia como indicado pelo socialista.</p></p>
+<p><p style="text-align: justify;">Diante da superexposição de Paulo depois da tragédia, o eleitor conseguiu discernir os políticos e as estratégias de campanha também trataram de separá-los. Na segunda pesquisa do Instituto Maurício de Nassau (IPMN) após a morte de Eduardo Campos, Armando e Paulo já apareciam empatados, com 33% contra 31%. De lá pra cá, o senador licenciado sempre apareceu atrás de Paulo nas pesquisas. Na última, o cenário era 44% para Paulo e 31% para Armando.</p></p>
+<p><p style="text-align: justify;">Nem mesmo as visitas da presidente Dilma Rousseff (PT) e do ex-presidente Lula (PT) a Pernambuco conseguiram alavancar a candidatura de Armando Monteiro.</p>
+<p>Foi como água na ladeira, impossível de controlar. Talvez, a falta de um terceiro nome dentro da disputa tenha contribuído para a derrota de Armando no primeiro turno. Um terceiro candidato poderia dividir os votos e levar o pleito para o segundo turno.</p></p>
+<p><p style="text-align: justify;"><strong>HISTÓRICO</strong> – Armando ingressou na política em 1990, pelo PSDB, mas não disputou cargo algum. Em 1997, migrou para o PMDB e, em 98, elegeu-se deputado federal e reeleito quatro anos depois. Posteriormente, migrou para o PTB. Em 2006, Armando chegou a lançar candidatura para o Governo de Pernambuco, mas voltou atrás para apoiar o petista Humberto Costa, que disputava contra Eduardo Campos (PSB). Quatro anos mais tarde, em 2010, o socialista apoiou a candidatura de Armando para o Senado.</p></p>
+{% endraw %}

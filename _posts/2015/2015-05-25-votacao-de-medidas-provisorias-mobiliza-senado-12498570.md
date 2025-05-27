@@ -1,0 +1,29 @@
+---
+id: 12498570
+date: "2015-05-25T08:40:42Z"
+last_modified_at: null
+tags:
+  - "senado"
+  - "votacao"
+categories:
+  - "noticias"
+title: "Vota\u00e7\u00e3o de medidas provis\u00f3rias mobiliza Senado"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/05/moed_fabr24.jpg"><img class="size-medium wp-image-127508" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/05/moed_fabr24-580x387.jpg" alt="USP Imagens    Moedas" width="580" height="387" /></a> USP Imagens Moedas</p>
+<p>Da Agência Brasil</p>
+<p>O Senado deverá votar esta semana três medidas provisórias que tratam do ajuste fiscal do governo e que vencerão no dia 1º de junho. Uma delas, a MP 664, trata originalmente de mudanças nas regras para acesso dos trabalhadores à pensão por morte. No entanto, as principais discussões sobre a medida mudaram de foco depois que a Câmara dos Deputados incluiu nela uma emenda que altera o cálculo para o fator previdenciário.</p>
+<p>Atualmente, o fator incide para reduzir as aposentadorias pagas pela Previdência Social quando as pessoas param de trabalhar antes da idade prevista – 65 anos para os homens e 60 anos para as mulheres. Mesmo que já tenham cumprido o tempo mínimo de contribuição de 35 anos para os homens e 30 anos para as mulheres, se não tiver atingido a idade, o benefício é reduzido.</p>
+<p>A emenda estabelecida pela Câmara determina que seja aplicado um novo cálculo, no qual a soma da idade com o tempo de contribuição deverá ser de 85 anos para as mulheres e 95 anos para os homens. Assim, uma mulher que tenha 55 anos de idade e 30 anos de contribuição, poderá se aposentar recebendo integralmente o valor do seu salário, obedecido o teto de R$ 4.663,00 do Instituto Nacional do Seguro Social (INSS). Já os homens se aposentarão com o valor integral se trabalharem 35 anos, atingindo a idade de 60 anos.</p>
+<p>Como a MP perderá a validade por decurso de prazo se não for votada até o dia 1º, e se for alterada ainda precisará voltar para a Câmara, o governo acertou com os líderes da base aliada que ela será aprovada do jeito que está, inclusive com a emenda. No entanto, ao longo das últimas semanas, representantes do governo se manifestaram contrários à emenda que trata do fator previdenciário. O último cálculo do Ministério da Previdência, de 2012, estimava que o fim do fator pode gerar um impacto de até R$ 40 bilhões em dez anos. Por isso, apesar do acordo para que a MP 664 seja votada do jeito que está, não há compromisso da presidenta Dilma Rousseff de que ela será sancionada integralmente.</p>
+<p>“Depois é uma outra história”, disse o líder do governo, senador Delcídio Amaral, após reunião com o articulador político do governo e vice-presidente da República, Michel Temer. “Eu já conversei com o governo sobre isso, mas o governo não tem ainda nenhuma posição fechada. O governo vai aguardar os desdobramentos da votação para ter uma posição. A única orientação é votar o texto que está na MP”, afirmou.</p>
+<p>A avaliação entre membros da própria base aliada, no entanto, é de que, se a presidenta decidir vetar a emenda, sofrerá nova derrota quando o veto for votado em sessão do Congresso Nacional. “Se ela não quiser experimentar uma segunda derrota, ela que não vete. Porque vai ser acachapante”, afirmou o senador Walter Pinheiro (PT-BA). Segundo ele, no Senado já estão garantidos pelo menos 42 votos para derrubar o veto, caso ele aconteça. São necessários 41 votos no Senado e 257 na Câmara.</p>
+<p>Para o senador baiano, o governo falhou nas negociações com a Câmara antes da aprovação da emenda e sabia que ela seria aprovada. Mesmo assim, não conversou com os relatores da medida provisória e não conseguiu evitar a modificação. “Não faltou previsão não, eu acho que sobrou soberba”, definiu. “O governo não quis nem discutir esse assunto. Não sei onde eles estavam lastreados de achar que isso [a medida provisória] podia passar sem essas coisas [alterações como a mudança do fator previdenciário]. Faltou um observador com política na cabeça”, disse.</p>
+<p>Outro petista que aposta em derrota do governo caso a nova fórmula 85/95 seja vetada pela presidenta é o senador Paulo Paim (PT-RS). Ele lembra que agora o voto dos parlamentares é aberto e acredita que eles não teriam coragem de votar contra uma melhoria nas aposentadorias do trabalhadores. “Tem um fato novo que o governo parece que desconhece: não é mais voto secreto. Agora o voto é aberto. Consequentemente, você acha que algum deputado ou senador vai votar contra o [novo] fator na votação do veto? Não vai. Se vetar é um equívoco histórico e o veto cai e o fator cai também”, declarou.</p>
+<p>O senador é conhecido por sua luta histórica contra o fator previdenciário desde que ele foi criado, em 1999, e é autor de projetos que propõem o fim do fator. “O fator confisca o salário da mulher. Ele confisca em 50% o salário da mulher e em 45% o do homem”, alegou. “Nós temos que garantir que a mulher, com 30 anos de contribuição e 55 de idade, se aposente. E o homem com 35 anos de contribuição e 60 de idade. Essa proposta está embutida na MP 664 e nós temos que olhar com carinho e politicamente para que ela seja aprovada”, disse.</p>
+<p>A votação da MP 664 deverá acontecer na próxima terça-feira (26), logo após a votação da MP 665, que trata de mudanças nas regras para acesso a seguro-desemprego, seguro-defeso e abono salarial. Ainda nesta semana, os senadores deverão apreciar a MP 668, que aumenta as alíquotas de PIS e Cofins sobre mercadorias industrializadas. Todas as três medidas provisórias estão relacionadas ao ajuste fiscal do governo e devem ser aprovadas sem alterações para não perderem a validade por decurso de prazo.</p>
+{% endraw %}

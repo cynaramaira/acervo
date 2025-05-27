@@ -1,0 +1,32 @@
+---
+id: 12472861
+date: "2014-02-10T13:18:48Z"
+last_modified_at: null
+tags:
+  - "cartorio"
+  - "recife"
+categories:
+  - "noticias"
+title: "No Recife, dono de cart\u00f3rio perde delega\u00e7\u00e3o por suposto desvio de R$ 1,5 milh\u00e3o em taxas do Judici\u00e1rio"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p>Sem alarde, enquanto ainda corregedor geral do Tribunal de Justiça do Estado (TJPE), Frederico Neves, novo presidente do TJPE, determinou a perda de delegação dos donos do cartório Arnaldo Maciel, Tabelião do 5º Cartório de Notas da Capital, um dos mais tradicionais do Recife, com mais de 90 anos de funcionamento. Cabe recurso.</p>
+<p>Na decisão, o magistrado determinou ainda o afastamento do 1º substituto, Arnaldo Barbosa Maciel Filho, considerando que, de fato, é partícipe ativo na administração e gerência da serventia,. “Diante das limitações naturais decorrentes da idade avançada do titular, seu genitor, (92 anos), de modo que a sua permanência à frente da mesma propiciará a continuidade dos erros e vícios detectados por esta Corregedoria Geral, no exercício do múnus da disciplina. Ademais, todo o mérito de expurgar do sistema pessoal de conduta incompatível com a relevância das funções ruiria e estaria sacrificado, pudesse a titularidade residir, ainda que provisoriamente, na pessoa do filho do ora punido”.</p>
+<p>O delegatário Arnaldo Barbosa Maciel passou por um processo administrativo disciplinar em 2013 e parecer final da comissão processante não cogitou nem mesmo o afastamento, uma pena mais branda.</p>
+<p>No mesmo dia 29 de janeiro, o magistrado determinaou também a perda de delegação do dono do 7º Cartório de Registro Civil do Recife, mas por valores bastante inferiores. “Ante o exposto, considerando a falta gravíssima perpetrada pelo Sr. Romero Longman, Registrador do 7º Cartório de Registro Civil de Pessoas Naturais da Capital, consubstanciada na ausência de recolhimento dos valores, respectivamente, de R$ 32.297,28 (Trinta e dois mil, duzentos e noventa e sete reais e vinte e oito centavos) e R$ 4.500,54 (quatro mil e quinhentos reais e cinquenta e quatro centavos) , a título de TSNR e FERC, com fundamento no princípio da proporcionalidade e da supremacia do interesse público, aplico-lhe a pena de PERDA DA DELEGAÇÃO”, escreveu o corregedor na sentença.</p>
+<p>A decisão foi publicada no Diário Oficial da Justiça do dia 4 de fevereiro passado.</p>
+<p>Aberto na metade de 2013, o processo contra o cartório Arnaldo Maciel tinha como objetivo apurar supostas irregularidades no recolhimento da Taxa de Fiscalização de Serviços Notariais - TSNR e do Fundo Especial para Registro Civil - FERC.</p>
+<p>De acordo com os autos do processo, a inspeção averiguou um débito de R$ 1,5 milhão nestas taxas. O tabelião solicitou concessão de prazo para pagamento integral da dívida apurada.</p>
+<p>“Consta nos autos que, no exercício regular do poder de fiscalizar, esta Corregedoria, através da equipe de inspeção, apontou a existência de débito de R$ 840.487,36 (oitocentos e quarenta mil, quatrocentos e oitenta e sete reais e trinta e seis centavos), correspondente à TSNR e R $ 284.815.67 (duzentos e oitenta e quatro mil, oitocentos e quinze reais e sessenta e sete centavos) de FERC, posteriormente atualizado pela tabela de Gilberto Melo, Engenharia Jurídica, extraída do web site tjpe.jus.br, em 22/05/2013, perfazendo o débito o valor de R$ 1.127.702,65 (um milhão cento e vinte e sete mil setecentos e dois reais e sessenta e cinco centavos), a título de TSNR e R$ 396.288,30 (trezentos e noventa e seis mil duzentos e oitenta e oito reais e trinta centavos), de FERC”, informa, em dado trecho.</p>
+<p>“No caso em tela, o tabelião ao não dispor da totalidade de comprovantes de recolhimento dos encargos tributários, assumiu todas as consequências de sua inércia , que neste caso significa não comprovar o recolhimento regular de valores de TSNR e FERC, o que é considerada FALTA GRAVE, autorizando a incidência das regras constantes no art. 8º da Lei Estadual nº 11.194/94, art. 179 e art. 183, §3º, estes últimos do Código de Normas dos Serviços Notariais e de Registro (CNSNR)”.</p>
+<p>“In casu, apurou-se que a conduta irregular do delegatário se revestiu de GRAVIDADE , já que valores significativos deixaram de ser transferidos ao erário público, os quais perpassam a cifra de R$ 1.500.000,00 (hum milhão e quinhentos mil reais) , o que, por si só, demonstra enorme</p>
+<p>DANO ao erário público, autorizando, inclusive, investigação sobre eventual responsabilidade criminal”.</p>
+<p>“Aliada à prática REITERADA de não recolhimento dos tributos, é importante avaliar o comportamento do tabelião no período anterior à instauração do processo administrativo disciplinar e posteriormente, quando já instaurado o mesmo, que se restringiu a procrastinar a ação deste Órgão Censor, através de SUCESSIVAS solicitações de prazos, o que indica a conduta dolosa de não satisfazer o débito, muito menos apresentar argumentos impeditivos da cobrança dos valores anteriormente mencionados, com a aplicação das sanções estabelecidas nas regras que disciplinam o tema. Portanto, não restam dúvidas de que o tabelião cometeu FALTA GRAVE, sendo cabível a penalidade de suspensão ou perda da delegação e multa”.</p>
+<p>No final, a Comissão Processante sugeriu ainda que seja remetida cópia do processo à Procuradoria Geral do Estado, para providenciar a cobrança do débito e, ao Ministério Público do Estado de Pernambuco, a fim de que seja apurada a eventual responsabilidade criminal do delegatário.</p>
+<p><iframe style="border: 1px solid #CCC; border-width: 1px 1px 0; margin-bottom: 5px; max-width: 100%;" src="https://www.slideshare.net/slideshow/embed_code/31041668" height="511" width="479" allowfullscreen="" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p><div style="margin-bottom: 5px;"><strong> <a title="Diário da justiça" href="https://pt.slideshare.net/JamildoMelo/dirio-da-justia" target="_blank">Diário da justiça</a> </strong> from <strong><a href="https://www.slideshare.net/JamildoMelo" target="_blank">Jamildo Melo</a></strong></div></p>
+{% endraw %}

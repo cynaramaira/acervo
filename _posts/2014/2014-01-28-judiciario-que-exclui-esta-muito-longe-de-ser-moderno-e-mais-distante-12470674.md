@@ -1,0 +1,30 @@
+---
+id: 12470674
+date: "2014-01-28T17:21:45Z"
+last_modified_at: null
+tags:
+  - "animais"
+  - "esta"
+categories:
+  - "noticias"
+title: " Judici\u00e1rio que exclui est\u00e1 muito longe de ser moderno e mais distante ainda do povo"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;"><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/01/noeliabrito1401141.jpg"><img class="alignnone size-medium wp-image-98352" alt="noeliabrito140114" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/01/noeliabrito1401141-580x833.jpg" width="580" height="833" /></a></p></p>
+<p><p style="text-align: justify;">Por Noelia Brito</p></p>
+<p><p style="text-align: justify;">O Brasil, como signatário da Convenção sobre os Direitos das Pessoas com Deficiências, a chamada Convenção de Nova Iorque, deve respeito aos princípios ali insculpidos porque têm a força de normas de natureza constitucional.</p></p>
+<p><p style="text-align: justify;">Dentre os princípios a que o Brasil se tornou co-obrigado, ao subscrever a Convenção que trata dos Direitos das Pessoas com Deficiência, entendidas estas como as que “te?m impedimentos de natureza fi?sica, intelectual ou sensorial, os quais, em interac?a?o com diversas barreiras, podem obstruir sua participac?a?o plena e efetiva na sociedade com as demais pessoas” (art. 1º, Convenção), destacam-se o “respeito pela dignidade inerente, independe?ncia da pessoa, inclusive a liberdade de fazer as pro?prias escolhas, e autonomia individual”, bem como a “igualdade de oportunidades” e a “acessibilidade”.</p></p>
+<p><p style="text-align: justify;">Dito isso, causa espécie que parta justamente do Poder Judiciário uma das principais iniciativas descumpridoras dessa conquista tão arduamente buscada pelos que militam em prol da causa ora em destaque. É que a pretexto de modernizar o sistema de acompanhamento e administração de processos, o Poder Judiciário findou por criar um processo judicial altamente exclusivo, com o chamado Processo Judicial Eletrônico, o PJe, que alija os profissionais do direito com deficiência visual de sua utilização, tornando-os totalmente dependentes de uma terceira pessoa para que possam utilizar o sistema, descumprindo acintosamente o que vem determinado pela Convenção em tela.</p></p>
+<p><p style="text-align: justify;">Ignorando o fato de que existe uma gama considerável de partes e profissionais do direito com deficiência total ou mesmo com baixa visão, de maneira açodada, o Judiciário brasileiro, com o apoio do Conselho Nacional de Justiça, criou um Processo Judicial Eletrônico, este sim, deficiente, posto que baseado em arquivos de imagens, quando os leitores de tela com apoio em voz sintetizada só traduzem dados de texto</p></p>
+<p><p style="text-align: justify;">Se havia pressa para a implantação do PJe e se a implantação de um sistema dotado de plena acessibilidade causaria o retardamento dessa implantação, nada mais justo e correto, inclusive porque constitucional, que se implantasse tal modelo de maneira paulatina, nos termos pleiteados, inclusive pela advogada Deborah Prates, conhecida militante em defesa dos direitos das pessoas com deficiências, que solicitou ao CNJ que determinasse ao Tribunal de Justiça do Rio de Janeiro que mantivesse a possibilidade de protocolização, por advogados cegos, de petições e documentos em papel, até que os sites do Judiciário fossem plenamente acessíveis, nos termos preconizados pela Convenção de Nova Iorque, portanto, pela própria Constituição Federal.</p></p>
+<p><p style="text-align: justify;">Segundo Débora, com a implantação do PJe, sua atuação profissional passou a depender do favor e da boa vontade de terceiros que fazem o envio da peças judiciais por ela, o que consiste em verdadeira humilhação e um discrímem abominável.</p></p>
+<p><p style="text-align: justify;">O pedido da advogada carioca foi indeferido pelo ministro Joaquim Barbosa, na qualidade de presidente do CNJ, por considerar que as falhas do PJe não lhe causavam qualquer dano irreparável e por já existir uma reclamação do Conselho Federal da Ordem dos Advogados do Brasil, que aponta uma série de problemas no PJe, “especialmente no que tange à garantia de acesso às pessoas com deficiência, como os deficientes visuais e também aos idosos”.</p></p>
+<p><p style="text-align: justify;">É no mínimo estranho que o ministro Joaquim Barbosa não considere que a inviabilidade de alguém trabalhar não seja um dano irreparável, já que a reclamação feita pelo Conselho Federal da OAB também continua pendente de solução.</p>
+<p>Segundo a “Convenção sobre os Direitos das Pessoas com Deficiências Comentada”, editada pela Coordenadoria Nacional para Integrac?a?o da Pessoa Portadora de Deficie?ncia – CORDE, da Secretaria de Direitos Humanos da Presidência da República, no mundo existem, nada menos, que 600 milho?es de pessoas com deficie?ncia, sendo que 400 milho?es vivem em pai?ses pobres ou em desenvolvimento. No Brasil, 27% das pessoas com deficiência vivem em situac?a?o de pobreza extrema e 53% sa?o pobres, de acordo com dados do Censo do IBGE de 2000. Dados do Banco Mundial revelam, ainda, que o índice de desemprego entre as pessoas com deficiência na América Latina varia entre 80 e 90%. A acessibilidade, portanto, é o meio indispensável para combater essa mazela social que é a exclusão das pessoas com deficiência, o que só é possível se estiverem em igualdade de condições com as demais pessoas que com elas disputam o mercado de trabalho. O que pretende, portanto, o Poder Judiciário brasileiro e o CNJ quando militam descaradamente contra esse esforço mundial de combater tamanha injustiça?</p></p>
+<p><p style="text-align: justify;">Com a palavra, o ministro Joaquim Barbosa e seus pares.</p></p>
+<p><p style="text-align: justify;">Noelia Brito é advogada e procuradora do Município do Recife</p></p>
+{% endraw %}

@@ -1,0 +1,27 @@
+---
+id: 12487875
+date: "2014-10-14T16:19:51Z"
+last_modified_at: null
+tags:
+  - "adilson-ramos"
+  - "gal-costa"
+categories:
+  - "noticias"
+title: "Conversando com Evaldo Costa. Dilson Peixoto responde"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/10/mi_19724358775579932.jpg"
+---
+{% raw %}
+<p>O dirigente do PT, Dilson Peixoto, enviou ainda há pouco um artrigo exclusivo ao Blog de Jamildo em resposta à artigo de Evaldo Costa, também publicado no blog. O embate virtual cada vez mais real. Com educação, o que é melhor ainda. Veja abaixo o texto.</p>
+<p>Por Dilson Peixoto, especial para o Blog de Jamildo</p>
+<p>Como petista, senti-me desafiado a travar um debate fraterno e público com o jornalista Evaldo Costa, a partir do seu artigo postado no Blog de Jamildo no dia 13 último, sob o título:<a href="https://https://blogs.ne10.uol.com.br/jamildo/2014/10/13/eu-votaria-pt-se/"><strong> Eu votaria no PT se...</strong></a></p>
+<p>Na ocasião, Evaldo enumera itens que deveriam ser reconhecidos pelo PT como condicionantes do seu hipotético voto no partido ou na nossa candidata a reeleição presidencial, Dilma Russeff.</p>
+<p>O artigo parte da falsa premissa de que seu autor teria independência política para votar em um partido ou candidatura diferente daquela definida pela Oligarquia da qual é fiel seguidor. Até parece que meu amigo Evaldo tem a autonomia do ex-presidente nacional do PSB, Roberto Amaral ou da deputada Luiza Erundina, que por discordarem da posição da cúpula socialista em apoiar Aecio Neves, foram solenemente afastados da direção do partido. Ou ainda dos dirigentes estaduais socialistas da Paraíba, da Bahia, do Acre e do Amapá que resolveram apoiar a candidatura de Dilma, no segundo turno.</p>
+<p>Mas, aceitando o exercício hipotético proposto pelo meu amigo Evaldo, vamos aos itens por ele enumerados no artigo, sem esquecer o fato de que o seu partido foi parceiro de primeira hora, desde o primeiro governo comandado por Lula até outubro do ano passado, ou seja, o PSB tem direito (como aliás, sempre teve) aos bônus e tem responsabilidade sobre os ônus de ser governo. Em outras palavras, quando afirma que os governos do PT tornaram a corrupção onipresente, generalizada , meu amigo Evaldo deveria, das duas uma: fazer uma profunda auto-crítica de haver participado deste governo ou reconhecer que prevaricou ao longo de todos estes anos.</p>
+<p>O mesmo raciocínio se aplica quanto ao que Evaldo caracteriza como gestões absolutamente inefetivas e cobra dos governos Lula e Dilma padrões de excelência em áreas de políticas públicas fortemente marcadas pela divisão de responsabilidades entre os entes federados, como nos casos da educação, da saúde, da infra-estrutura e da segurança. O papel do Governo Federal, notadamente na educação, na saúde e na segurança pública, é o de prover recursos e gerenciar a sua aplicação e isso foi feito. Na saúde por exemplo, em 2002 os gastos com a saúde foram de 28 bilhões de reais e em 2013 totalizaram 106 bilhões de reais. Na educação, em 2002, foram gastos 17 bilhões de reais e em 2013, os gastos foram de 94 bilhões de reais. Cabe então uma auto-crítica de cada um dos governos estaduais e prefeituras no que tange a essas áreas. Ou não, amigo Evaldo Costa?</p>
+<p>Em outro trecho, o jornalista Evaldo Costa afirma que votaria no PT se nós petistas reconhecêssemos que o governo Dilma foi o mais tacanho, mais atrapalhado, o mais ineficiente desde Fernando Collor (...) Como adjetivar desta maneira um governo que só para o nosso estado, enviou mais de 9 bilhões de reais para a saúde pública, que implantou 7 novos Institutos Federais (IFETs), que registrou 392 mil alunos pernambucanos matriculados no PRONATEC, que entregou 52 mil casas e contratou outras 72 mil através do Minha Casa Minha Vida ou que enviou 6.2 bilhões de reais para obras de mobilidade na RMR? Um governo que a despeito da grave crise econômica internacional, manteve a inflação sob controle, gerou milhões de empregos e foi extremamente firme no combate à corrupção?</p>
+<p>Evaldo nos convida ainda a retomar um profundo diálogo com vistas a despartidarizar a burocracia estatal, desaparelhar as instituições e deseleitoralizar a política. Pergunto: todas essas questões estão ou não, sintetizadas na proposta de reforma política que o PT, Lula e Dilma propõem à nação? O problema, caro Evaldo é que você propõe temas a serem conversados conosco, petistas, e sem qualquer posição crítica, apoia e vota no candidato representante da direita, Aecio Neves! Um candidato, que quando governou o seu estado, Minas Gerais, nunca pagou o piso nacional dos professores, um candidato assumidamente seguidor de FHC, o presidente que tudo fez para dificultar e destruir governos como o do nosso saudoso Miguel Arraes, um candidato que foi contrário à política regional implantada por Lula e com isso trouxe a fábrica da FIAT para Pernambuco!</p>
+<p>Por fim, concordo com você, amigo Evaldo: sempre é tempo de abandonar o caminho da perdição. Lembrando que o nosso eterno governador Arraes assim se referiu aos que saíram do seio da esquerda para buscar apoio na direita, como fez o senador Jarbas Vasconcelos em 1993 e hoje faz o seu partido, o PSB ao apoiar a direita capitaneada pelo PSDB.</p>
+{% endraw %}

@@ -1,0 +1,52 @@
+---
+id: 12484450
+date: "2014-08-20T19:30:09Z"
+last_modified_at: null
+tags:
+  - "cerveja"
+  - "desembargadores"
+  - "eduardo-campos"
+categories:
+  - "noticias"
+title: "Veja a \u00edntegra da decis\u00e3o do desembargador do TRE sobre imagem de Eduardo Campos no guia da TV"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p>Mandado de Segurança 128.815</p>
+<p>Leia abaixo a liminar:</p>
+<p>DECISÃO LIMINAR</p>
+<p>Cuidam os autos de Mandado de Segurança impetrado por RENATA DE ANDRADE LIMA CAMPOS, MARIA EDUARDA ANDRADE LIMA CAMPOS, JOÃO HENRIQUE DE ANDRADE LIMA CAMPOS, PEDRO HENRIQUE DE ANDRADE LIMA CAMPOS, JOSÉ HENRIQUE DE ANDRADE LIMA CAMPOS e MIGUEL DE ANDRADE LIMA CAMPOS em face de decisão em ação cautelar, proferida pelo Desembargador Eleitoral José Ivo de Paula Guimarães, que negou a liminar pleiteada, por não vislumbrar "o perigo da demora" .</p>
+<p>Alegam os impetrantes, em síntese, no presente mandamus, que "não se trata de simples reprodução de imagem e voz do homem público para fins meramente informativos. A questão ora em discussão vai além: a não possibilidade do uso da imagem e voz para artifício de propaganda eleitoral quando inexiste a autorização do titular de tais direitos, sobretudo por se tratar de uso e exploração com a finalidade de se permear falso apoio político, do que se desenha a clara ameaça de lesão a direito fundamental tutelado pela Constituição Federal e pelo direito civil pátrio" .</p>
+<p>Asseveram que o presente caso possui caráter peculiar, tendo em vista que Eduardo Campos, quando em vida, externou, de forma expressa, a sua vontade de não ter a sua imagem e a sua voz veiculadas nos programas eleitorais daqueles as quais não prestava apoio político. Destacam que "quando vivo, o próprio Eduardo Campos, com apoio nos arts. 867 e seguintes do Código de Processo Civil, ingressou com protesto e notificação, perante esse Tribunal Regional Eleitoral, buscando obter proteção a seu direito de personalidade, quanto à imagem e à voz, no que pertine à propaganda eleitoral gratuita de rádio e televisão de partidos e coligações distintas das alianças firmadas pelo partido ao qual era filiado, o PSB" .</p>
+<p>Aduzem a existência de contradição, pois lhe era permitido tal direito quando em vida; já por ocasião de seu óbito, impede-se a sua família de prosseguir no intento por ele manifestado.</p>
+<p>Argumentam que o uso da imagem, fora do contexto em que originariamente foi produzida, gera lesão à personalidade, pois causa confusão no eleitorado.</p>
+<p>Citam jurisprudência desta Corte e de outros Tribunais Regionais Eleitorais, onde se é protegido o direito à imagem.</p>
+<p>Advogam a existência do periculum in mora, pois, no dia de hoje, já foram feitas alusões a Eduardo Campos por meio da propaganda eleitoral das coligações requeridas, através de inserções no rádio. Explicam que tal dano será agravado amanhã, por ocasião da veiculação da propaganda eleitoral na televisão.</p>
+<p>Requerem a concessão de medida liminar, para que seja proibida a veiculação da imagem, nome, voz e demais valores inerentes à personalidade de Eduardo Campos na propaganda eleitoral de rádio e televisão dos candidatos, partidos e coligações requeridas, que se inicia no dia 19/08/2014, com amparo no art. 5º, X e XXVIII, da CF, art. 20 do Código Civil e na jurisprudência citada.</p>
+<p>É o que importava relatar. Passo a apreciar a liminar requerida.</p>
+<p>Para concessão de medida liminar, imprescindível se faz a configuração concomitante de dois requisitos: a relevância do fundamento e o periculum in mora.</p>
+<p>A relevância do fundamento se caracteriza pela plausibilidade do direito alegado pelo autor, isto é, pela existência de uma pretensão que é provável.</p>
+<p>Em análise perfunctória do caso, observo haver plausibilidade no direito invocado pelos impetrantes, tendo em vista que a propaganda eleitoral visa a apresentar os candidatos e suas ideologias para o pleito vindouro. Não se presta a outra finalidade, senão esta. Desta feita, não se concebe a utilização de imagens de homem público em publicidade eleitoral de candidato adversário sem a sua permissão. Pelo contrário, o que se observa no presente caso é que o próprio Eduardo Campos apresentou notificação judicial, protocolada sob o n. 54.498/2014 (fls. 43/46), no dia 12/08/2014, no intuito de não ter o seu nome, imagem, voz e demais atributos da personalidade veiculados em propaganda eleitoral de seus adversários. Como é possível atribuir esse direito ao homem público quando em vida e negá-lo à sua família após a sua morte? Realmente, para esta relatoria, também soa estranho a negação de tal direito, pelo menos em uma análise superficial, como a que é feita no momento.</p>
+<p>Ademais, muitas pessoas, ao assistirem aos programas eleitorais, não conseguirão discernir que aquilo se trata de mera homenagem, o que, ao meu sentir inicial, causará confusão no eleitorado. Não se deve esquecer o clima de comoção a qual se reveste a população, que influenciará no modo de como elas interpretarão todas as notícias publicadas. Como se explicar a utilização da imagem e voz de Eduardo Campos em guia eleitoral da coligação adversária? Seria o programa eleitoral gratuito palco para a realização de homenagens? Qual seria o verdadeiro intuito dos seus opositores ao seu utilizar de sua imagem?</p>
+<p>Deparando-me com tais questionamentos e ponderando-se os interesses em conflito, reputo mais sensata a proteção da imagem ao morto e da ideologia do seu partido.</p>
+<p>O direito à imagem do falecido é personalíssimo da sua família, protegido pelo ordenamento jurídico pátrio. Ademais, há ofensa ao direito à imagem com a sua simples utilização sem autorização, mesmo que a publicidade não possua caráter vexatório ou que não viole a honra ou a intimidade da pessoa. A respeito da matéria, cito precedentes:</p>
+<p>"PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. VEICULAÇÃO DE CAMPANHA CONTRA CONSUMO DE ÁLCOOL POR CONDUTORES DE VEÍCULOS CONTENDO FOTOGRAFIA DO ACIDENTE AUTOMOBILÍSTICO QUE VITIMOU O FILHO DA AUTORA. AUSÊNCIA DE AUTORIZAÇÃO. INEXISTÊNCIA DE PROVA DE QUE O FALECIDO HOUVESSE INGERIDO BEBIDA ALCOÓLICA. DANO MORAL CONFIGURADO, QUER PELA AUSÊNCIA DE AUTORIZAÇÃO DO USO DA IMAGEM, QUER PELA OFENSA À REPUTAÇÃO DA VÍTIMA. MAJORAÇÃO. JUROS MORATÓRIOS SUBMISSOS AO DISPOSTO NO ART. 1º-F DA LEI 9494/97. HONORÁRIOS SUCUMBENCIAIS RAZOAVELMENTE FIXADOS. RECURSOS AOS QUAIS SE SE DÁ PROVIMENTO DE FORMA INTEGRAL AO DA AUTORA, E PARCIAL AO DO RÉU, COM ARRIMO NO ART. 557, § 1º-A, DO CÓDIGO DE PROCESSO CIVIL. (...) II Nos moldes da uníssona jurisprudência do colendo Superior Tribunal de Justiça, "a ofensa ao direito à imagem materializa-se com a mera utilização da imagem sem autorização, ainda que não tenha caráter vexatório ou que não viole a honra ou a intimidade da pessoa, e desde que o conteúdo exibido seja capaz de individualizar o ofendido", aqui agravada pela forma como se expôs a memória da vítima, daí porque se impõe a elevação da indenização a título de danos morais, considerando-se as duas fontes indenizatórias utilização da imagem sem autorização e ofensa à memória da vítima; (...)</p>
+<p>(TJ-RJ - APL: 00094789220108190061 RJ 0009478-92.2010.8.19.0061, Relator: DES. ADEMIR PAULO PIMENTEL, Data de Julgamento: 21/03/2014, DÉCIMA TERCEIRA CAMARA CIVEL, Data de Publicação: 16/04/2014 19:17)</p>
+<p>"CIVIL E PROCESSUAL. ÁLBUM DE FIGURINHAS ("HERÓIS DO TRI" ) SOBRE A CAMPANHA DO BRASIL NAS COPAS DE 1958, 1962 E 1970. USO DE FOTOGRAFIA DE JOGADOR SEM AUTORIZAÇÃO DOS SUCESSORES. DIREITO DE IMAGEM. VIOLAÇÃO. LEI N. 5.988, DE 14.12.1973, ART. 100. EXEGESE. LEGITIMIDADE ATIVA DA VIÚVA MEEIRA E HERDEIROS. CPC, ARTS. 12, V, E 991, I. CONTRARIEDADE INOCORRENTE. I. A viúva e os herdeiros do jogador falecido são parte legitimada ativamente para promoverem ação de indenização pelo uso indevido da imagem do de cujus, se não chegou a ser formalmente constituído espólio ante a inexistência de bens a inventariar. II. Constitui violação ao Direito de Imagem, que não se confunde com o de Arena, a publicação, carente de autorização dos sucessores do de cujus, de fotografia do jogador em álbum de figurinhas alusivo à campanha do tricampeonato mundial de futebol, devida, em conseqüência, a respectiva indenização, ainda que elogiosa a publicação. III. Recurso especial não conhecido.</p>
+<p>(STJ - REsp: 113963 SP 1996/0073314-7, Relator: Ministro ALDIR PASSARINHO JUNIOR, Data de Julgamento: 20/09/2005, T4 - QUARTA TURMA, Data de Publicação: DJ 10.10.2005 p. 369 RDDP vol. 35 p. 110)</p>
+<p>Outrossim, in casu, o perigo da demora reside no fato de já se ter iniciado o guia eleitoral dos adversários com comprovada utilização de atributos da personalidade de Eduardo Campos, conforme comprovado em mídia em anexo.</p>
+<p>Diante do exposto, estando presentes os requisitos que autorizam a concessão de medida de urgência, DEFIRO o pedido liminar pleiteado, para determinar a suspensão imediata, in continenti, de toda a veiculação da imagem, nome, voz e demais valores inerentes à personalidade de Eduardo Campos na propaganda eleitoral de rádio e televisão dos candidatos, partidos e coligações requeridas.</p>
+<p>Fixo multa de R$ 3.000,00 (três mil reais) por cada ato de descumprimento.</p>
+<p>Notifique-se, com urgência, as emissoras de rádio e televisão para cumprimento da presente decisão. Diante da relevância da decisão, cientifique-se o Presidente deste Tribunal.</p>
+<p>Intimem-se os impetrantes da presente decisão.</p>
+<p>Notifique-se os litisconsortes.</p>
+<p>Após, notifique-se a autoridade apontada como coatora para prestar as informações necessárias no prazo de 10 (dez) dias, em conformidade com o art. 7º, I, da Lei n.º 12.016/2009.</p>
+<p>Cientifique-se a Advocacia-Geral da União, enviando-lhe cópia da inicial sem documentos, para que, querendo, ingresse no feito; em conformidade com o art. 7º, II, da Lei n.º 12.016/2009.</p>
+<p>Após o recebimento das informações prestadas pela autoridade coatora, remetam-se os autos à Procuradoria Regional Eleitoral.</p>
+<p>Recife, 20 de agosto de 2014.</p>
+<p>DES. ELEITORAL ALFREDO HERMES BARBOSA DE AGUIAR NETO</p>
+<p>Relator</p>
+{% endraw %}

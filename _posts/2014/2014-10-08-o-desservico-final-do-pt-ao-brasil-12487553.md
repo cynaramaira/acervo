@@ -1,0 +1,38 @@
+---
+id: 12487553
+date: "2014-10-08T15:15:05Z"
+last_modified_at: null
+tags:
+  - "brasil"
+  - "final"
+categories:
+  - "noticias"
+title: "O desservi\u00e7o final do PT ao Brasil"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/10/6255b51e67fe72fc1c60a646f9fffdd5.jpg"
+---
+{% raw %}
+<p><a href="https://https://br.noticias.yahoo.com/blogs/alex-antunes/o-desservico-final-do-pt-ao-brasil-034404716.html"><strong>Por Alex Antunes, em seu blog</strong></a></p>
+<p>Se você acha que o PT só prestou desserviços ao Brasil, não se dê ao trabalho de ler. O ponto deste texto é exatamente o oposto: o de que só agora, precisamente no dia 5 de outubro de 2014, a balança de bons e maus serviços finalmente pesou contra o PT.</p>
+<p>Há já longos 12 anos, a primeira eleição de Lula, cheia de simbolismo, representou uma virada (ou um início de virada) no psiquismo perverso da nossa sociedade. Costumo dizer que no Brasil convivem (e disputam) dois projetos de sociedade, o branco e o “pardo”.</p>
+<p>E não há uma conversa clara entre eles, que costumam ter prioridades e modos bastante diferentes, e mutuamente incompreensíveis e excludentes. Na verdade não há conversa alguma. A eleição de Lula fechou um pouquinho esse fosso, estendeu pontes. Provavelmente a grande habilidade de Lula tenha sido entender não a parte mais tribal e horizontal da sociedade (da qual, afinal, ele provém).</p>
+<p>Mas exatamente o oposto: Lula foi o líder de extração popular (o primeiro a chegar à presidência) a entender as angústias e descompensações da nossa mal-formada (e mesmo deformada) elite. Com seu carisma e aval popular e simbólico, Lula realizou serviços impopulares (diria “impopulistas”) na economia, usando ferramentas da ortodoxia de mercado.</p>
+<p>O equilíbrio e prosperidade que obteve, ele reinvestiu em programas de inclusão, bastante bem sucedidos (inclusive no sentido de criar uma dinâmica econômica saudável). Essa é a parte boa. O primeiro grande problema é que Lula passou a pensar em si mesmo como um líder “mágico” e infalível.</p>
+<p>Não sou, absolutamente, inimigo da irracionalidade. Acredito em magia política – que, se chamarmos de “memética”, explica como grandes quantidades de energia psicossocial podem ser movidas, para transformar um país e se possível aproximá-lo de sua essência (sim, eu acredito que um país tem uma “essência”).</p>
+<p>A do Brasil, no caso, é aquela chavinha macunaímica que nos mantém o tempo todo atados à genialidade e à mesquinharia mais absoluta; à generosidade e à miséria mais cruel. Como sabem os artistas, os neurocientistas e os argumentadores sutis, a distância entre os grandes acertos e os erros catastróficos é mínima, e o mais brilhante sucesso nunca se presta à analise moralista e linear.</p>
+<p>image</p>
+<p>Lula começou a errar quando escolheu Dilma. Não estava errado em imaginar uma mulher para sucedê-lo. Mas errou em enxergar esse equilíbrio entre pulso firme e inteligência emocional em Dilma. Como supostamente disse José Dirceu, era Marina o Lula de saias - ou, melhor ainda, o pós-Lula. Dilma é só o pulso firme.</p>
+<p>O problema (para o país, mais do que para a própria Marina) é que as qualidades dela se parecem muito com defeitos, vistas com má vontade e preconceito, de uma lógica simplória e linear. Na verdade, a compreensão de Marina sobre os problemas brasileiros deriva do fato de que a confusão nacional começa DENTRO dela.</p>
+<p>É o contrário do que esperamos desse ilusório político salvador. Ele, que entende de tudo (e isso é SEMPRE mentira; a boa política tem muito mais a ver com intuição e com saber se cercar dos colaboradores certos); ele, que brande números complexos com segurança fingida, é simplesmente uma síntese da nossa frustração com o fato de que não há uma saída líquida e certa para nada. O que há são tentativas, e o que nos resta é estar íntegro dentro delas, e pronto para a autocrítica e a correção desassombrada. E Dilma encarnou a “ele”, o salvador ilusório.</p>
+<p>As incertezas, as inconsistências, os paradoxos de Marina são sua lucidez, sua sinceridade, sua coragem de mulher nascida pobre e negra, no meio da mata. Era ela o passo além de Lula, na direção do país que nos interessa.</p>
+<p>Ao invés disso, Lula e o PT resolveram retirar seus créditos na forma de arrogância, chantagem e terror eleitoreiros. A ex-petista cujo projeto o PT deveria ter tratado com mais carinho, fraternidade e elegância (e inteligência política inclusive) foi tratada a pontapés. E acordar os demônios políticos a pontapés certamente não foi uma boa escolha. Foi uma escolha de fraqueza, não de força.</p>
+<p>A posição de Marina já era delicada. Não por ela ser “indecisa”, como o PT afirmou. Mas por ter um discurso menos linear e mais difícil de sustentar e explicar. O PT descarregou todo seu arsenal de imprecisões, exageros e inverdades numa ex-companheira, uma ex-ministra de Lula. O efeito, além de ser politicamente emburrecedor, pode ser eleitoralmente burro.</p>
+<p>O que o PT conseguiu, por enquanto, foi trazer um Aécio que já esteve rendido de volta, seguro, motivado e na ascendente. Perdeu-se a oportunidade histórica de ter no segundo turno duas mulheres, de um campo político socialmente mais generoso, no que seriam as eleições mais bonitas e politicamente qualificadas de toda a história do país.</p>
+<p>Ao contrário, o PT resolveu provocar os piores instintos do eleitorado, mobilizar a ignorância e a imaturidade políticas da nação (essa mesma que, para falar só de São Paulo e das primeiras colocações, elege Russomanno, Bolsonaro, Maluf e Tiririca. Ou que reforça o grande percentual de votos nulos, brancos e abstenções). Era nesse sentido que Marina era o passo seguinte após Lula: o de trazer mais gente, para quem o coquetel sindicalista-católico-marxista do PT é incompreensível, senão inaceitável, para a conversa.</p>
+<p>Ou quem simplesmente já enjoou do sistema como um todo. Esse paradoxo já estava presente nos protestos de junho de 2013. Ao escolher “derrotar” junho, junto com gente como Alckmin e “Cabrão” (Cabral + Pezão), ao invés de depurá-lo, o PT faz uma manobra arrogante e impensada, talvez suicida. O que a enorme transferência de votos de Marina para Aécio instantes antes da votação demonstra é óbvio.</p>
+<p>Que, para um monte de gente, a prioridade é simplesmente barrar o PT. O PT “escolheu” Aécio ao invés de Marina. E, ao evitar lidar com uma figura híbrida cujo programa tinha traços neoliberais, mas cuja prática está enraizada nas camadas mais sofridas e solidárias da sociedade, o PT escolhe um Brasil conflagrado, venezualizado, o do “eles contra nós” (falsos eles contra falsos nós, pondo o barco de todos em risco).</p>
+<p>Mais do que isso, o PT mentiu loucamente. Mentiu sobre a conveniência de se acreditar cegamente no petróleo do pré-sal, e do próprio petróleo como combustível prioritário; mentiu sobre Neca Setubal (na verdade Neca é tudo o que o Brasil precisa: gente egressa da elite econômica que simpatize com o ativismo social); mentiu até na semântica, ao negar que líderes como Chico Mendes constituem, sim, uma nova elite política crítica e necessária.</p>
+<p>O PT fez escolhas políticas patriarcais, para quem gosta dos modos do patriarcado: apelo ao medo, à violência psicossocial, à manipulação. Confesso que, “enquanto comédia de erros”, acho engraçado o PT levar esse Aécio redivivo para o segundo turno. Será ainda mais engraçado se Aécio ganhar. Não deixa de ser uma demonstração bizarra de tudo que Marina tentou ensinar que tínhamos que evitar. O PT escolheu dar razão a quem acha que o PT é o maior problema do Brasil. Agora é, finalmente.</p>
+{% endraw %}

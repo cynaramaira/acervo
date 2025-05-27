@@ -1,0 +1,30 @@
+---
+id: 12497838
+date: "2015-05-07T17:07:30Z"
+last_modified_at: null
+tags:
+  - "cidades"
+  - "nota"
+categories:
+  - "opiniao"
+title: "Nota de sil\u00eancio, ocupem a cidade!"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;"><em>Por Isabella de Roldão, vereadora do Recife</em></p></p>
+<p><p style="text-align: justify;">Silêncio é o movimento involuntário dos corações de todas e todos que têm presenciado atônitos os últimos acontecimentos. O silêncio não permeia a mente e as atitudes das pessoas que encheram e se arriscaram por participar democraticamente de um dos episódios mais angustiantes que marcaram a política democrática da nossa cidade. Não há como desvincular os últimos acontecimentos dos violentos atos de 1964, que deram início a um longo período de tortura, perseguições e sofrimentos que mancharam o chão da nossa terra.</p></p>
+<p><p style="text-align: justify;">Eu nasci no período da ditadura e ouvia, mesmo que silenciosamente, os relatos e as angústias que os adultos não conseguiam disfarçar. Tive tios presos e torturados. Tive minha querida tia, Socorro Santos, que agora em maio completa seus 70 anos, tendo que enfrentar seus piores medos e acabar sendo exilada. Ainda hoje, ecoam os gritos silenciosos dos porões da ditadura, das “casas da morte”, das celas, da salas...</p></p>
+<p><p style="text-align: justify;">Revivi isso, mesmo sem ter vivido conscientemente, quando vi a forma de condução da 32ª Reunião Ordinária que acontecia na tarde do dia 04 de maio de 2015. INACREDITÁVEL! A história se repetia e se repete ainda nos dias atuais.</p></p>
+<p><p style="text-align: justify;">A repressão. A palavra cortada sob o simples argumento de que "já sei o que ela vai falar". Incrível ainda me dar conta de que este mesmo HOMEM, É O QUE TEM, JUNTO COM A GESTÃO, ME PERSEGUIDO NOS ÚLTIMOS MESES. Tenho sido chamada de mentirosa, de atabalhoada, que tenho comportamento de quem tirou um brinquedo das mãos, noviça e agora se acha no direito de cortar minha palavra por saber o que eu ia falar...</p></p>
+<p>A democracia está em cheque. A palavra de uma representante do povo, eleita legitimamente num processo democrático conquistado a duras penas, dentro de uma casa legislativa não pode ser cerceado, sob pena de infringir pilares basilares que regem a Casa Municipal. Tudo isso se dá porque questionávamos um projeto intitulado “Novo Recife” onde não enxergámos nada de novo, nenhum desafio, nenhum propósito que não delapidar nosso patrimônio histórico, desfigurar a nossa história e transformar a nossa cidade num “lindo parque de concreto vertical”.</p>
+<p>Repensar a nossa cidade é sinônimo hoje de baderna, de arruaça, de coisa de marginal e foi sob esta justificativa que o HOMEM da Casa José Mariano, o mesmo que cerceou a minha fala e tem me desrespeitado reiteradamente, deu para fechar as portas de acesso as pessoas que chegavam à Casa do Povo.</p>
+<p>O desrespeito começou por quem deveria dar o exemplo. Qual a urgência e real necessidade de se colocar extra-pauta, aos berros e desconsiderando os procedimentos  normativos de se agir desta forma? O que efetivamente o nosso Recife precisa de urgente que justifique tamanho autoritarismo? As pessoas da nossa cidade continuam vivendo cruelmente da mesma forma segmentada. As comunidades continuam carentes de tudo. As promessas feitas e gravadas em vídeo durante a campanha eleitoral estão registradas nos corações das pessoas que mais uma vez estão desiludidas e descrentes de uma política feita para as pessoas, com foco nas suas reais necessidades.</p>
+<p>Ao final da desrespeitosa sessão, com a aprovação do então projeto “Novo Recife”, que ainda hoje não sei o que tem de novo, saindo de dentro do Plenário fui surpreendida com o estacionamento repleto de excluídos, e ao lado deles, para reforçar a democracia da Casa do Povo, estava a Guarda Municipal e a Polícia Militar e não tardando muito para o exemplo de democracia ser completo, chegou o Batalhão de Choque e com ele o temor da ditadura da violência, da perseguição e da tortura ficou ainda mais forte. Incansavelmente os excluídos persistiam, não se rendiam, “ocupavam e resistiam”, me lembravam os mesmo estudantes da década de 60.</p>
+<p>Já perto da meia noite chegaram três representantes do Ministério Público para garantir que não houvessem excessos da Polícia e nesta hora apresentou-se um advogado que estava ali representando a Ordem dos Advogados do Brasil, haja vista que advogados ali presentes estavam sendo ignorados e empurrados quando exerciam a sua função, e o mesmo nos disse assombrado que esperara três horas e meia do lado de fora dos portões, pois a Polícia não o tinha deixado entrar. Pasmem! Todos excluídos por um “Poder Supremo”.</p>
+<p>E agora ficam as questões: a forma truculenta com a qual a Mesa lidou com a condução do “Projeto Novo Recife” nos leva a que? A urgência do Prefeito sancionar e publicar no Diário Oficial on-line um projeto votado a pouco mais de três horas, mesmo estando em São Paulo, nos diz o que? Muitas dúvidas, nenhuma resposta, mas uma coisa é certa, o Senhor Presidente da Câmara Municipal do Recife, Vicente André Gomes, nunca tratou de forma truculenta e com desdém nenhum VEREADOR que naquela Casa legisla. Nunca o ouvi chamar de NOVIÇA e cassar a palavra de nenhum homem do legislativo, já o vi calar quando foi destratado por outro colega de igual envergadura, mas nunca o vi cercear a palavra de nenhum igual. Será que além de antidemocrático, autoritário, ele também é machista e desrespeitoso com as mulheres?</p>
+<p>Eu não vou me calar! Parabéns a cada cidadão que saiu de casa pra lutar por todos. Vamos ocupar a nossa cidade! Não vamos desistir do Estelita nem tão pouco da nossa cidade.</p>
+<p>Enquanto não temos resposta fica Chico Buarque a nos responder “DORMIA A NOSSA PÁTRIA MÃE TÃO DISTRAÍDA, SEM PERCEBER QUE ERA SUBTRAÍDA EM TENEBROSAS TRANSAÇÕES...”</p>
+{% endraw %}

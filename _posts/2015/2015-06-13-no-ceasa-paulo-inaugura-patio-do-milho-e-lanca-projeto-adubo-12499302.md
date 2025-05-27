@@ -1,0 +1,37 @@
+---
+id: 12499302
+date: "2015-06-13T16:35:03Z"
+last_modified_at: null
+tags:
+  - "ceasa"
+  - "desenvolvimento-sustentavel"
+  - "inauguracao"
+  - "lancamento"
+  - "paulo"
+  - "projeto"
+categories:
+  - "noticias"
+title: "No Ceasa, Paulo inaugura p\u00e1tio do milho e lan\u00e7a projeto Adubo Sustent\u00e1vel"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/06/3W3H0565RETRATTISTA-ROBERTO-PEREIRA.jpg"><img class="size-medium wp-image-128244" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/06/3W3H0565RETRATTISTA-ROBERTO-PEREIRA-580x342.jpg" alt="Foto: Roberto Pereira" width="580" height="342" /></a> Foto: Roberto Pereira</p>
+<p>A abertura da edição 2015 da Feira do Milho, na manhã desta sexta-feira (12), foi marcada inaugurações e o início de novas intervenções no Centro de Abastecimento e Logística de Pernambuco (Ceasa), quarto colocado nacional no ranking de comercializações.</p>
+<p>O governador Paulo Câmara foi ao local inaugurar um galpão com 36 lojas e um pátio para comercialização de milho. Na oportunidade, o chefe do Executivo estadual também lançou o projeto Adubo Sustentável, que vai transformar resíduos descartados em fertilizantes, e autorizou a ampliação da termoelétrica do centro, um investimento de R$ 2.200.000,00.</p>
+<p>Utilizado diariamente por cerca de 1.680 produtores, fixos e temporários, o centro de abastecimento é responsável pela geração de 46 mil empregos diretos e indiretos. No local, são comercializados, por mês, 90 mil toneladas, volume que gera R$ 250 milhões em negócios para o Estado. O local é frequentado todos os dias por 55 mil pessoas, que dividem a atenção em 48 galpões.</p>
+<p>De acordo com Paulo Câmara, o Ceasa tem que ser estruturado para servir às pessoas que nele trabalham. "Vamos estruturar o Ceasa na comercialização de produtos e para que as pessoas que aqui atuam tenham melhores condições de trabalho. Estamos hoje inaugurando o novo galpão e o pátio para comercialização do milho. A ampliação da termoelétrica vai garantir a energia necessária para os novos tempos de desenvolvimento do Ceasa", destacou.</p>
+<p>Câmara ainda ressaltou as outras iniciativas que começaram hoje. "O projeto Adubo Sustentável vai gerar fertilizante a partir de resíduos que antes eram descartados pelos produtores. Também estamos aqui para assegurar melhores condições de trabalho aos agricultores, que são um dos pilares da nossa economia", pontuou Paulo.</p>
+<p>Secretário estadual de Agricultura e Reforma Agrária, Nilton Mota enfatizou a importância do segmento para a economia de Pernambuco e o papel da Ceasa na distribuição desses produtos. "O centro de abastecimento cresce 9% ao ano e eu não tenho dúvida que, neste ano, apesar dos desafios, vamos acompanhar esse percentual de crescimento. O sucesso é o resultado da capacidade de integração do time estadual e os seus parceiros da iniciativa privada", garantiu.</p>
+<p>Com uma área construída de aproximadamente quatro mil metros quadrados, o novo galpão foi batizado com o nome do permissionário José Edvaldo da Silva, que era conhecido como Vado, falecido em 2013, que começou no local como flanelinha, e, ao longo dos anos, construiu um dos mais prósperos negócios da central pernambucana. O investimento de R$ 10 milhões para a construção do galpão foi feito em parceria com a iniciativa privada.</p>
+<p>Já o pátio do milho verde vai homenagear o produtor José Araújo do Prado, ou o Zito do Milho, como é conhecido pelos colegas de trabalho. Com sete mil metros quadrados de área construída, o local também oferece um estacionamento para veículos pesados. O Governo de Pernambuco investiu R$ 1 milhão na intervenção, que era uma demanda antiga dos trabalhadores do centro. A intervenção vai oferecer mais conforto para comerciantes e clientes.</p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/06/3W3H0357RETRATTISTA-ROBERTO-PEREIRA.jpg"><img class="size-medium wp-image-128245" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/06/3W3H0357RETRATTISTA-ROBERTO-PEREIRA-580x387.jpg" alt="Foto: Roberto Pereira" width="580" height="387" /></a> Foto: Roberto Pereira</p>
+<p><strong>INCENTIVO -</strong> Através da entrega das primeiras sacas de fertilizante, Paulo Câmara lançou o projeto Adubo Sustentável. O material é produzido a partir dos resíduos da própria Ceasa. A estimativa é que sejam ofertadas 100 toneladas por mês do fertilizante sustentável. "Antes do projeto Adubo Sustentável, a gente tinha um excedente de resíduos grande que iria para o lixo. Então, através da compostagem, nós transformamos resíduos em adubo. Esse produto será distribuído aos pequenos produtores", explicou o presidente do Ceasa, Gustavo Melo. No local, 80 famílias de agricultores do projeto Hortas Comunitárias das áreas adjacentes ao Ceasa receberam um trator de arado. O equipamento, que custou R$ 45 mil, vai impulsionar a produção das famílias.</p>
+<p>O centro de abastecimento também investiu na qualificação profissional das famílias que trabalham e vivem no entorno do empreendimento. Em parceria com a ONG Pedra d´Água, foi desenvolvido um processo de assistência agronômica e social aos produtores. O chefe do Executivo estadual entregou, ainda durante o ato de hoje, 22 declarações de aptidão do Programa Nacional de Fortalecimento da Agricultura Familiar.</p>
+<p><strong>ENERGIA -</strong> Encerrando a cerimônia, o governador autorizou o início da obra de ampliação da termoelétrica do Ceasa. Com um aporte de R$ 2.200.000,00, o Governo vai garantir autonomia energética, propiciando uma economia para a central e para os seus produtores. "Já estamos planejando a expansão e a melhoria das condições de trabalho de todos que dependem do Ceasa", completou Paulo Câmara. O projeto é  adequado aos conceitos de sustentabilidade.</p>
+<p>Segundo o governador, o exemplo de planejamento do Ceasa deve ser repetido em outras áreas. "É assim que nós vamos fazer no Estado. Vamos preparar Pernambuco para os novos tempos. Muita coisa está acontecendo em Pernambuco que é fruto de muito trabalho e planejamento. Fruto, também, de um Governo que pensa além do seu tempo, com um futuro sustentável e o meio ambiente protegido", cravou Paulo.</p>
+<p><strong>HOMENAGEM -</strong> Antes do encerramento, Paulo Câmara recebeu das mãos de Gustavo Melo a medalha “Não vamos Desistir do Brasil”. A comenda é o reconhecimento do trabalho de Eduardo Campos para o segmento. Pedro Campos, que representou a família do ex-governador na solenidade, ressaltou o trabalho do pai à frente do Governo e o compromisso de Paulo. "Eu queria dizer que o meu pai foi um grande batalhador. Paulo tem o compromisso de continuar o trabalho iniciado pelo meu pai, em 2007. E eu tenho certeza que ele vai continuar trabalhando por Pernambuco", assegurou Pedro.</p>
+<p>O presidente do Ceasa, Gustavo Melo, disse ainda que o ex-governador teve um importante papel na recuperação da autoestima dos produtores e que Câmara, antes de ser governador, fez muito pelo centro. "Esse homem aqui ajudou muito o Ceasa, ainda quando era secretário da Fazenda na gestão de Eduardo. Sempre que estivemos em seu gabinete fomos bem atendidos e os recursos foram liberados. Antes de ser governador, Paulo é um amigo do Ceasa", reforçou.</p>
+{% endraw %}

@@ -1,0 +1,27 @@
+---
+id: 12487614
+date: "2014-10-09T16:57:27Z"
+last_modified_at: null
+tags:
+  - "dilma"
+categories:
+  - "noticias"
+title: "Por que os nordestinos votam majoritariamente em Dilma?"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/10/dilma-votando-abr.jpg"
+---
+{% raw %}
+<p>Por Adriano Oliveira, em seu blog</p>
+<p>A discussão entre FHC e Lula sobre as escolhas eleitorais dos nordestinos trará consequências negativas para a candidatura de Aécio. O PT sabe transformar erros dos adversários em benefícios. Isto ocorreu durante o primeiro turno. A cada frase de Marina, uma propaganda contra ela era criada pelos estrategistas do PT. Tal atitude não é demérito para o PT. A oposição é que precisa ser sábia. Aliás, quando os intelectuais se pronunciam contra o PT, em especial quanto às escolhas eleitorais dos nordestinos, eles beneficiam a candidatura Dilma no Nordeste. Os intelectuais precisam ser sábios e estratégicos.</p>
+<p>O problema relevante que surge diante das intrigas entre FHC e Lula é: por que os nordestinos votam majoritariamente em Dilma? No segundo semestre deste ano, a graduada em Ciência Política da UFPE, Luma Neto, defendeu, sob a minha orientação, a monografia “A economia e a escolha do eleitor: de FHC a Dilma”. Para os que estão ansiosos quanto à uma explicação científica sobre as decisões eleitorais dos nordestinos, recomendo tal trabalho. Com grande volume de dados empíricos, Luma Neto mostra que nos estados do Nordeste durante a era Lula, a taxa de desemprego diminuiu e a renda e o PIB cresceram. Portanto, de imediato, já encontro razões para o voto maciço em Dilma Rousseff.</p>
+<p>Porém, Luma Neto mostra que em diversos estados do Brasil que ocorreram variação positiva da renda e do PIB, além da diminuição do desemprego, a candidata Dilma, na disputa presidencial de 2010, não conseguiu obter sucesso eleitoral. Caso semelhante ocorreu com o candidato Lula na disputa presidencial de 2006. Portanto, as variáveis econômicas não são suficientes para explicar o desempenho dos presidentes em diversos estados do Brasil. Porém, ressalto, que Luma Neto, através de regressão logística, mostra que quando a média do PIB per capita é alta e a média da taxa de desemprego é baixa, especificamente no período de 2006 a 2010, o candidato da situação tem maiores chances de vencer. Neste sentido, a explicação econômica do voto importa, mas não conduz a explicações satisfatórias.</p>
+<p>Então, o que explica o voto dos nordestinos em Dilma? Continuo a insistir na variável econômica. Neste sentido, o gráfico 1 sugere que a variação positiva da renda, em particular no Piaui, estado em que Dilma conquistou expressivo porcentual de votos no primeiro turno da eleição presidencial de 2014, incentiva os eleitores a votarem na candidata do PT.</p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/10/arte26esp-101-bolso-a16.jpg"><img class="alignleft size-medium wp-image-116552" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/10/arte26esp-101-bolso-a16-580x275.jpg" alt="arte26esp-101-bolso-a16" width="580" height="275" /></a></p>
+<p>Gráfico 1 – Variação da renda dos eleitores – Fonte: Valor Econômico</p>
+<p>A figura 1, por sua vez, apresenta o número de municípios por estados contemplados com benefícios do PAC 2 na era do PT. Ao olhar para a figura, constato que na eleição presidencial de 2010, Dilma venceu na maioria dos municípios que receberam ações do PAC, em particular nos municípios do Nordeste. É importante esclarecer que o PAC contempla os municípios com retroescavadeiras, motoniveladoras e caminhões-caçamba. Ressalto que reportagem do Valor Econômico mostrou que o PAC 2 foi utilizado intensamente no primeiro turno da campanha presidencial de 2014 em municípios com até 50 mil habitantes para evitar o crescimento de Marina Silva – https://www.valor.com.br/eleicoes2014/3680402/dilma-tenta-blindar-grotoes-contra-marina.</p>
+<p>Figura 1 – As obras do PAC e as escolhas dos eleitores – Fonte: Valor Econômico</p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/10/arte03esp-101-pac2-a12.jpg"><img class="alignleft size-medium wp-image-116553" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/10/arte03esp-101-pac2-a12-572x900.jpg" alt="arte03esp-101-pac2-a12" width="572" height="900" /></a></p>
+<p>Mais existem dois dados importantes, os quais não foram detectados por Lula e FHC no debate sobre as escolhas eleitorais dos nordestinos. A última pesquisa do Datafolha realizada às vésperas da eleição do primeiro turno mostra que o Nordeste concentrar o maior número de municípios com até 50 mil habitantes. E são nestes municípios que a presidenta Dilma tem expressivo porcentual de votos. Mas diante desta constatação, o problema proposto volta à tona: por que os nordestinos votam majoritariamente em Dilma? Outro dado relevante: a última pesquisa do Datafolha realizada antes da eleição do primeiro turno mostra que o Nordeste concentra 61% dos eleitores com renda familiar até R$ 1.448,00. E é neste intervalo de renda, que Dilma conquista alto porcentual de eleitores em razão dos benefícios dos programas sociais, em particular do Bolsa Família – Hipótese.</p>
+{% endraw %}

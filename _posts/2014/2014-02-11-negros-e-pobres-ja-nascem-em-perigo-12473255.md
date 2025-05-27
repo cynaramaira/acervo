@@ -1,0 +1,32 @@
+---
+id: 12473255
+date: "2014-02-11T19:10:42Z"
+last_modified_at: null
+tags:
+  - "negros"
+  - "pobres"
+categories:
+  - "noticias"
+title: "Negros e pobres j\u00e1 nascem em perigo"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/02/noeliabrito1401141.jpg"
+---
+{% raw %}
+<p>Por Noelia Brito, especial para o <strong>Blog de Jamildo</strong></p>
+<p>Poucas horas após a Folha de São Paulo revelar a renúncia coletiva de todos os representantes da sociedade civil no Conselho Estadual de Direitos Humanos de Pernambuco, em protesto contra o corte de 61% das verbas previstas para que o colegiado desenvolvesse suas atividades durante todo o ano de 2014, o governador candidato, Eduardo Campos, voltou atrás e resolveu deixar o dito pelo não dito. Quem quer ser presidente do país e ainda na qualidade de porta-voz de uma Nova Política, não pode levar esse tipo de flagrante da mídia nacional, que bem demonstra o descaso do candidato com os direitos humanos.</p>
+<p>Aliás, não foi outro o motivo que levou à demissão do até bem pouco tempo todo-poderoso secretário de Defesa Social, Wilson Damásio, que por vezes até era escalado como porta-voz do governador Eduardo Campos, tal a importância estratégica do chamado Pacto pela Vida, o programa de redução de índices de criminalidade de Pernambuco, no marketing do presidenciável. Para quem não se lembra, o ex-secretário ganhou fama nacional ao justificar, numa entrevista à repórter Fabiana Moraes, do Jornal do Commercio, estupros cometidos por policiais militares sob seu comando, como sendo resultado da “atração irresistível” das vítimas pela farda dos estupradores.</p>
+<p>Mas os problemas de Eduardo Campos com os Direitos Humanos não param por aí. Já não é novidade que Pernambuco foi denunciado, em seu governo, a organismos internacionais de defesa dos Direitos Humanos, em razão das péssimas condições da FUNASE (que a propaganda do candidato Eduardo Campos tem chamado de FEBEM), onde menores são decapitados em rebeliões e do presídio Aníbal Bruno, considerado o pior da América Latina, pior até que o presídio de Pedrinhas, no Maranhão.</p>
+<p>Mas o descaso do governador Eduardo com os Direitos Humanos, também se volta contra vítimas e testemunhas ameaçadas, senão vejamos a quantas anda o PPCAAM, Programa de Proteção a Crianças e Adolescentes Ameaçados de Morte.</p>
+<p>O PPCAAM é um programa federal criado em 2003 e posto em execução a partir de 2007, em parceria com os governos estaduais e organizações não governamentais. Tem por finalidade a redução das mortalidade infanto-juvenil, mediante a proteção de crianças e adolescentes ameaçados de morte, dando especial ênfase à proteção integral e à convivência familiar.</p>
+<p>Cabe ao Poder Judiciário, ao Ministério Público e aos Conselhos Tutelares identificar as situações de ameaça e incluir as vítimas no PPCAAM.</p>
+<p>O perfil das pessoas que buscam a proteção do Programa , segundo dados da Secretaria Nacional de Direitos Humanos da Presidência da República não deixa dúvidas quanto a sua importância social. São pessoas do sexo masculino (76%), da raça negra (75%), faixa etária entre 15-17anos (59%), ensino fundamental incompleto (95%), moradores da capital (63%), tem a genitora como principal referência familiar (75%), renda familiar é de até 1 SM (57%) e, na maioria dos casos, a ameaça se deve ao envolvimento com o tráfico (60%).</p>
+<p>O Programa funciona mediante o atendimento direito aos ameaçados e suas famílias, com sua retirada dos locais da ameaça e posterior inserção em novos espaços, onde novas oportunidades de trabalho e estudos, inclusive profissionalizantes, lhes possam ser oferecidas. Outra forma de atuação do programa é por meio de intervenções junto a adolescentes em situação de risco, sensibilizando a sociedade e criando políticas preventivas.</p>
+<p>Para nosso espanto, tomamos conhecimento de que apesar da importância desse programa para a preservação das vidas de jovens e crianças ameaçados, desde novembro do ano passado, o PPCAAM está paralisado em razão da não renovação do convênio entre o governo do Estado de Pernambuco, a União Federal e a ONG Tortura Nunca Mais, que é a gestora do programa no Estado. Trâmites burocráticos estariam empacando a renovação. Mas que trâmites burocráticos seriam esses, que não se vê empenho em resolver, enquanto crianças e adolescentes correm risco de vida? Falta o quê? Uma assinatura, talvez? Convênio tem prazo de validade, de modo que não se admite que antes de seu vencimento não se tomem todas as medidas necessárias a sua renovação, em se tratando de um programa que tem por finalidade preservar vidas e vidas humanas.</p>
+<p>Ainda segundo a Secretaria de Direitos Humanos da Presidência da República, os homicídios já correspondem a 45% das mortes entre crianças e adolescentes, sendo que entre os negros, a probabilidade é ainda 2,6 vezes maior de serem assassinados na adolescência ou na infância.</p>
+<p>Uma matéria recente da Revista Congresso em Foco revelou que existem no país mais de 2 mil pessoas juradas de morte por testemunhar e denunciar violações de direitos humanos ou por, simplesmente, exercer seu dever funcional em todo o Brasil. Esse, na verdade, é apenas o número daquelas pessoas que já se encontram sob algum programa de proteção, pois o número de ameaçados é, sem dúvidas, muito maior.</p>
+<p>A propaganda nazifascista que tem se espalhado pelas redes, seja de TV, sejam Sociais, segundo a qual as pessoas de bem estão com medo e não suportam mais tanta violência, como forma de justificar a ação criminosa de bandidos que, fazendo uso das próprias razões, torturaram e humilharam um adolescente pobre e negro, ao despi-lo e prendê-lo como que acorrentado em um poste, numa espécie de pelourinho moderno, quer nos levar a crer que pobres e negros são perigosos, quando a simples e fria leitura de dados estatísticos nos comprovam algo bem diferente. Perigoso mesmo, no Brasil, é ser pobre e negro, pois já aí o indivíduo se torna alvo preferencial das alarmantes estatísticas acima mencionadas.</p>
+<p>Um governo que trata com desprezo um programa como o PPCAAM, que tem como público preferencial, como as próprias estatísticas demonstram, os pobres e os negros, diz muito sobre si mesmo e sobre a Nova Política que pretende propagar pelo resto do país.</p>
+<p>Noelia Brito é advogada e procuradora do Município</p>
+{% endraw %}

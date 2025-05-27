@@ -1,0 +1,31 @@
+---
+id: 12470072
+date: "2014-01-24T16:46:30Z"
+last_modified_at: null
+tags:
+  - "papelao"
+  - "reducao"
+  - "trabalho"
+categories:
+  - "noticias"
+title: "Pela redu\u00e7\u00e3o da jornada de trabalho "
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p>Por Sergio Goiana</p>
+<p>Pode-se dizer que a redução do tempo de trabalho foi a primeira luta dos trabalhadores organizados em classe. No princípio da Revolução Industrial, ocorrida em meados do século XVIII, praticamente não existia legislação trabalhista no mundo. A quantidade de horas diárias e os dias trabalhados por semana atingiam o limite da capacidade física humana. Muitos tinham cargas de até 18 horas por dia. Diante dessa situação, os trabalhadores começaram a se organizar e, aos poucos, conseguiram a redução de suas jornadas. Em 1830, depois de mobilizações na Inglaterra e França, leis que limitavam o tempo de trabalho começaram a ser aprovadas.</p>
+<p>Desde então, vários países avançaram, e continuam a avançar, na redução das jornadas de seus trabalhadores. No Brasil, ao contrário de diversos outros países, a discussão em torno da redução da jornada de trabalho vem se arrastando há décadas. A última alteração ocorreu em 1988, quando a Constituição reduziu a jornada de 48 horas semanais para 44 horas. São 26 anos de crescimento econômico e concentração de renda no País, sem nenhuma mudança em se tratando da redução da carga horária dos nossos trabalhadores.</p>
+<p>Há 19 anos, tramita no Congresso Nacional a Proposta de Emenda à Constituição 231/95, que reduz a jornada máxima de trabalho de 44 para 40 horas semanais, sem diminuição de salário, e aumenta o valor do adicional da hora extra de 50% para 75% sobre o valor da hora trabalhada. A aprovação dessa emenda iria garantir um aumento do número de vagas de emprego em todo o Brasil, incremento da produtividade, melhor qualidade de vida para o trabalhador e maior qualificação do mesmo.</p>
+<p>Atualmente, cerca de 40% dos países do mundo adotam a média de 40 horas semanais ou menos, segundo a Organização para Cooperação e Desenvolvimento Econômico (OCDE). Espanha (39,2), Portugal (39), Itália (38,3), França (38), Reino Unido (37), Irlanda (36), Alemanha (35,5), Noruega (34) e Holanda (30,7). Na Argentina, país irmão da América Latina, a jornada semanal é de 39 horas.</p>
+<p>Pesquisa do Departamento Interestadual de Estatísticas e Estudos Socioeconômicos (Dieese) já apontou que a redução da jornada de 44 horas para 40 horas semanais teria potencial de gerar cerca de 2,5 milhões de novos postos de trabalho no Brasil.</p>
+<p>Os empresários contrários a proposta alegam que haveria maior custo de mão de obra e, por conseguinte, maior desemprego no País. Mas a redução da jornada irá gerar mais vagas de emprego e mais brasileiros empregados significa aquecimento da economia. Serão mais brasileiros com poder de compra, o que irá gerar maior demanda por produtos e consumo. Conclusão, as indústrias nacionais e empresas terão que aumentar a sua produção e estoque, o seu negócio irá crescer e eles obterão mais lucro. É preciso ter uma visão empresarial muito tacanha para ser contrário a essa proposta. A Constituição de 1988 reduziu a jornada de trabalho e não houve desemprego em função da mudança.</p>
+<p>Os empresários terão mais mão de obra em suas linhas de trabalho e pessoas mais qualificadas, uma vez que o trabalhador poderá destinar mais tempo ao seu aprendizado. Com a redução da jornada, os trabalhadores também estarão menos estressados. Todos essas vantagens irão contribuir diretamente para o aumento da produção. A mudança também evitará muitos acidentes de trabalho, ocasionados pelo cansaço.</p>
+<p>Com a jornada menos exaustiva, o tempo para lazer também poderá ser ampliado, promovendo melhor qualidade de vida para todos. O brasileiro trabalha muito e ganha pouco. Passa, em média, quatro horas por dia em um ônibus e cerca de nove horas dentro de uma empresa, de segunda a sexta-feira, além daqueles que trabalham aos sábados e domingos, com apenas uma ou duas horas de almoço. O trabalhador é mal pago e, se quiser melhorar de vida, tem que estudar a noite, quando já está extremamente cansado.</p>
+<p>Enquanto isso, o empresariado nacional continua acumulando lucros. De acordo com o Governo Federal, a participação da massa salarial no custo médio do produto, no Brasil, é de 22%, incluindo aí os encargos. A redução da jornada terá impacto de apenas 1,99% neste custo, que passaria para 23,99%. Desta forma, os empresários continuarão gastando menos de 25% do custo de seus produtos com seus funcionários. O restante, mais de 75%, terá outros destinos como lucro e impostos.</p>
+<p>Alguns empresários lembram que o Brasil compete com países como a China e a Índia, onde a jornada de trabalho é mais alta, e alegam que reduzir a jornada de trabalho aqui diminuiria a habilidade das empresas nacionais em se manter no mercado. Mas porque não se pode diminuir a margem de lucro, a curto prazo, uma vez que a margem de lucro brasileira é uma das maiores do mundo? Segundo levantamento do Sindicato Nacional da Indústria de Componentes para Veículos Automotores (Sindipeças), enquanto as montadoras de automóveis lucram, em média, 5% no mundo, no Brasil, o porcentual praticado é de 10%.</p>
+<p>Há anos que a classe trabalhadora se mobiliza pela aprovação da PEC 231/95 no Brasil, sempre esbarrando no interesse da parcela do empresariado nacional caolha. A PEC pode voltar ao plenário da Câmara a qualquer momento. Ela precisará ser votada em dois turnos e ser aprovada por, no mínimo, 308 deputados, para seguir para votação no Senado. O número total de deputados é de 513. No Senado, também serão duas votações no plenário. Nesse ano de 2014, a classe trabalhadora tem que estar mais que unida para pressionar o Congresso a estabelecer uma forma mais justa na relação de trabalho, o que seria uma evolução para toda a sociedade brasileira. Importante destacarmos que muitos trabalhadores brasileiros já têm jornadas de 40 horas de trabalho. Nós só queremos ampliar esse benefício para todos.</p>
+<p>Sérgio Goiana é coordenador geral do Sindicato dos Servidores Públicos Federais de Pernambuco (Sindsep-PE) e diretor da Central Única dos Trabalhadores de Pernambuco (CUT-PE)</p>
+{% endraw %}

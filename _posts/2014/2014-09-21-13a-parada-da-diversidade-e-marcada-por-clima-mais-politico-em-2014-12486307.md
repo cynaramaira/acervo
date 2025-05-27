@@ -1,0 +1,39 @@
+---
+id: 12486307
+date: "2014-09-21T18:48:12Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "noticias"
+title: "13\u00aa Parada da Diversidade \u00e9 marcada por clima mais pol\u00edtico em 2014"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/03-parada.jpg"
+---
+{% raw %}
+<p>Fotos: Luiz Pessoa/NE10 e Júlio Cirne/BlogImagem</p>
+<p>A 13ª edição da Parada da Diversidade do Recife, ou "Parada Gay", como é popularmente conhecida, aconteceu na tarde deste domingo (21), na orla de Boa Viagem, Zona Sul do Recife. Com o tema "Onde houver ódio, que eu leve amor: por um Pernambuco sem homofobia", o evento foi marcado pelo clima político que condiz com o ano eleitoral de 2014.</p>
+<p><img class="ngg_displayed_gallery mceItem" src="https://blogs.ne10.uol.com.br/jamildo/nextgen-attach_to_post/preview/id--115265" alt="" /></p>
+<p>O evento foi tomado pelo clima das eleições. Políticos e militâncias marcaram presença. Misturando-se às bandeiras do arco-íris, símbolo da comunidade LGBT, estavam bandeiras de partidos políticos e de candidaturas proporcionais e majoritárias. A parada foi acompanhada por uma multidão, entre populares, artistas e personalidades da política pernambucana. Ainda na concentração, que aconteceu no Parque Dona Lindu, já era possível ver políticos e mesmo militância fazendo campanha.</p>
+<p><strong>Leia também:</strong></p>
+<p><a href="https://blogs.ne10.uol.com.br/jamildo/2014/09/21/dona-da-metopole-e-barrada-em-evento-politico/"><strong>Dona da Metrópole é barrada em evento político</strong></a></p>
+<p><a href="https://blogs.ne10.uol.com.br/jamildo/2014/09/21/recife-tem-projeto-de-cota-em-cursos-profissionalizantes-para-publico-lgbt/"><strong>Recife tem projeto de cota em cursos profissionalizantes para público LGBT</strong></a></p>
+<p><a href="https://blogs.ne10.uol.com.br/jamildo/2014/09/21/em-campanha-na-parada-da-diversidade-ze-gomes-diz-que-evento-mantem-luta-lgbt/"><strong>Em campanha na Parada da Diversidade, Zé Gomes diz que evento mantém luta LGBT</strong></a></p>
+<p><a href="https://blogs.ne10.uol.com.br/social1/2014/09/21/parada-da-diversidade-lota-avenida-boa-viagem-em-luta-por-amor-e-tolerancia/"><strong>Parada da Diversidade lota avenida Boa Viagem em luta por amor e tolerância</strong></a></p>
+<p>Entre os políticos que compareceram ao evento estavam Paulo Rubem (PDT)  e João Paulo (PT) candidatos da coligação Pernambuco Vai Mais Longe a vice-governador e senador, respectivamente. Também estiveram o vereador do Recife e candidato a deputado federal, Daniel Coelho (PSDB), o vereador licenciado e secretário de Juventude e Qualificação, Jayme Asfora (PMDB) e o candidato ao governo de Pernambuco pelo PSOL, Zé Gomes.</p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/parada-555.jpg"><img class="size-full wp-image-115246" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/parada-555.jpg" alt="Militantes aproveitaram a grande concetração de pessoas para fazer campanha para seus candidatos. Na foto, militância do PSB com bandeira em referência LGBT. Foto: Júlio Cirne/BlogImagem" width="580" height="433" /></a> Militantes aproveitaram a grande concetração de pessoas para fazer campanha para seus candidatos. Na foto, militância do PSB com bandeira em referência LGBT. Foto: Júlio Cirne/BlogImagem</p>
+<p>Com 24 anos de idade, a drag queen Cibbelly Pfeifer, esteve na primeira edição da parada aos 10 anos de idade e acompanhou todas as edições desde então. Auxiliar administrativa na Refinaria Abreu e Lima, ela espera que haja uma mudança na política, com os candidatos apoiando a orientação sexual e os direitos iguais para todos, "pois somos todos seres humanos, independentemente da nossa orientação", disse a drag.</p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/parada-04.jpg"><img class="wp-image-115247 size-full" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/parada-04.jpg" alt="parada 04" width="580" height="433" /></a> Cibelly Pfifer, 24 anos, acompanha a parada desde os 10 e espera que os políticos trabalhem em prol da igualdade de direitos para todos. Foto: Júlio Cirne/BlogImagem.</p>
+<p>Uma das coordenadoras do Fórum LGBT do Recife, Chopelly Santos, falou da importância da parada na agenda social do Recife, comemorando os avanços, porém lamentando os números que Pernambuco ainda ostenta no ranking nacional de assassinatos de homossexuais.</p>
+<p>"Já vimos muitos avanços em todos estes anos, porém ainda não foi o suficiente para combater a homofobia que existe aqui. Lamentavelmente Pernambuco ainda é o segundo Estado que mais mata homossexuais em todo o Brasil. A principal bandeira da nossa parada é combater a homofobia, por isso o tema 'onde houver ódio que eu leve amor'", disse a coordenadora que estimava a participação de 800 mil participantes na edição de 2014 da parada.</p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/01-parada-.jpg"><img class="wp-image-115248 size-full" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/01-parada-.jpg" alt="" width="580" height="387" /></a> A bandeira símbolo da comunidade LGBT: o arco-íris, sempre presente na parada. Foto: Luiz Pessoa/NE10</p>
+<p>Apesar de todos os esforços e dos conselhos da organização da Parada, houve alguns incidentes de violência durante o desfiles de trios elétricos na Avenida Boa Viagem.</p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/09-parada.jpg"><img class="size-full wp-image-115249" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/09-parada.jpg" alt="Princípios de tumultos tomaram conta dos primeiros minutos do evento. A polícia agiu logo e as brigas foram contidas. Foto: Luiz Pessoa/NE10." width="580" height="387" /></a> Princípios de tumultos tomaram conta dos primeiros minutos do evento. A polícia agiu logo e as brigas foram contidas. Foto: Luiz Pessoa/NE10.</p>
+<p>Durante os primeiros 20 minutos do desfile, foram registradas várias brigas ao lado do trio da boate Metrópole. Os incidentes fizeram com que Maria do Céu, dona da boate, pedisse que a música fosse parada e solicitasse ação da PM, que controlava os tumultos.</p>
+<p><object id="player_15206607" width="480" height="360"><param value="true" name="allowfullscreen" /><param value="https://player.mais.uol.com.br/embed_v2.swf?mediaId=15206607&amp;p=related" name="movie" /><param value="always" name="allowscriptaccess" /><param value="window" name="wmode" /><embed id="player_15206607" width="480" height="360" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="allowfullscreen" src="https://player.mais.uol.com.br/embed_v2.swf?mediaId=15206607&amp;p=related" wmode="window" /><a href="https://mais.uol.com.br/view/15206607">Briga e confusão na Parada da Diversidade em Pernambuco</a></object></p>
+<p>"Aqui a gente briga, sim, mas é por nossos direitos; por igualdade para todos. Não é esse tipo de briga que queremos ver aqui", disse Maria do Céu.</p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/parada-06.jpg"><img class="wp-image-115264 size-full" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/parada-06.jpg" alt="parada 06" width="580" height="495" /></a> "Aqui a gente briga, sim, mas é por nossos direitos; por igualdade para todos. Não é esse tipo de briga que queremos ver aqui", Maria do Céu, dona da boate Metrópole. Foto: Júlio Cirne/BlogImagem.</p>
+<p>&nbsp;</p>
+{% endraw %}

@@ -1,0 +1,63 @@
+---
+id: 12495984
+date: "2015-03-28T15:00:09Z"
+last_modified_at: null
+tags:
+  - "boa-noticia"
+  - "camara-municipal"
+  - "estelita"
+  - "geraldo-julio"
+  - "louro-jose"
+  - "mandados"
+  - "plano"
+  - "recife"
+categories:
+  - "noticias"
+title: "Boa not\u00edcia. Geraldo Julio manda plano urban\u00edstico do Cais Jos\u00e9 Estelita para a C\u00e2mara Municipal do Recife"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/03/ARB_0010_28032015_Foto_AndreaRegoBarros.jpg"
+---
+{% raw %}
+<p><p style="text-align: justify;">Por Jamildo Melo, editor do Blog</p></p>
+<p><p style="text-align: justify;">Sem alarde, o prefeito do Recife, Geraldo Júlio, encaminhou, na última segunda-feira, o projeto de lei com o plano urbanístico do Cais José Estelita, onde será construído o projeto Novo Recife, para a apreciação dos vereadores na Câmara Municipal do Recife.</p></p>
+<p><p style="text-align: justify;">Depois de muitas discussões na esfera municipal, a expectativa é de que o projeto passe por mais 30 dias de discussões. A Câmara Municipal do Recife vai programar ainda uma audiência pública sobre as modificações.</p></p>
+<p><p style="text-align: justify;">Não há regime de urgência.</p></p>
+<p><p style="text-align: justify;"><iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/46398835" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p></p>
+<p><p style="text-align: justify;">Também sem alarde, o prefeito chamou os líderes da situação para uma reunião na PCR na semana retrasada e explicou que o projeto é prioridade para a gestão. “Não tem boquinha não. Vai subir”, disse a certa altura.O secretário Antônio Alexandre fez uma segunda reunião com a bancada governista, maioria na casa, para expor os avanços obtidos com a rediscussão feita com as construtoras do projeto, capitaneadas pela Moura Dubeaux. O valor das ações mitigadoras a ser pago pelo consórcio continuou o mesmo: R$ 62,750 milhões</p></p>
+<p><div style="margin-bottom: 5px;"></p>
+<p><p style="text-align: justify;">Há duas semanas, em um breve contato com o <strong>Blog de Jamildo</strong>, o empresário Marcos Dubeaux explicou que as mudanças reduziram a rentabilidade do projeto, mas as construtoras continuavam interessadas porque elas não inviabilizaram a construção do novo bairro. O valor do investimento total saltou de 1,2 para 1,5 bilhão de reais. O consórcio é formado pelas empresas Ara Empreendimentos, GL Empreendimentos, Moura Dubeux Engenharia e Queiroz Galvão.</p></p>
+<p><p style="text-align: justify;">Como o projeto imobiliário já foi aprovado no CDU, no último dia da gestão João da Costa (PT), pode não haver necessidade de voltar ao órgão.</p></p>
+<p><p style="text-align: justify;">O prefeito Geraldo Júlio chegou a suspender a licença de demolição dada as construtoras por conta das eleições presidenciais, em que o ex-governador Eduardo Campos disputava a presidência da República. Partidos de oposição como o PSOL começaram a usar a obra para tentar descredibilizar o socialista, no plano nacional.</p></p>
+<p><p style="text-align: justify;">O cenário econômico nacional também ajudou na mudança de postura do prefeito socialista, que chegou a apostar na capacidade de negociação, contando com uma boa vontade e boa fé que não havia nem nunca houve em relação à rediscussão do projeto. Com a economia nacional em crise, sem ajuda do governo Federal, o prefeito contou a aliados que precisa agora, em pleno ajuste fiscal, estimular a iniciativa privada na capital, manter empregos na cidade e ampliar a arrecadação de impostos, de modo a fazer as entregas que prometeu na campanha.</p></p>
+<p><p style="text-align: justify;">Na construção, o Novo Recife deve gerar R$ 40 milhões em tributos para a Prefeitura do Recife através do Imposto de Transmissão de Bens e Imóveis (IBTI). Outros R$ 7 milhões anuais serão pagos em Imposto sobre a Propriedade Predial e Territorial Urbano (IPTU).</p></p>
+<p><p style="text-align: justify;">O projeto de lei 08/2015 já foi lido em plenário, começando a contar prazo.</p></p>
+<p><p style="text-align: justify;">“Aprovado na casa, o prefeito pode sancionar o projeto e começam as obras”, acredita um vereador de situação.</p></p>
+<p><p style="text-align: justify;">A nova manobra dos opositores do projeto é tentar usar o Iphan para melar a obra, com um pedido de tombamento. Há duas bandas no terreno. Uma delas foi vendida em um leilão público realizado pela Caixa Econômica Federal, ainda no governo Lula, por R$ 50 milhões. O <strong>Blog de Jamildo</strong> noticiou com exclusividade a venda da área, ainda no tempo em que era prefeito João Paulo, do PT.</p></p>
+<p><p style="text-align: justify;">Há outra banda pública, além da via férrea. É esta área que os opositores pedem o tombamento. A esperança é expandir o tombamento para toda a área, de modo a inviabilizar o projeto. Ocorre ainda que tombamento implicaria na devolução e indenização dos investimentos e o governo Dilma não tem nem R$ 26 milhões para ajudar a concluir a Via Mangue.</p></p>
+<p><p style="text-align: justify;">Na casa, espera-se a oposição de pelo menos a vereadora Isabela de Roldão (PDT). Depois de fazer campanha para o trabalhista Armando Monteiro Neto nas últimas eleições, a vereadora perdeu os cargos que havia indicado na PCR e passou para a oposição. O pai dela, Roldão Joaquim, também está deixando o comando da Arpe, no governo Paulo Câmara, depois de fazer campanha para o agora ministro Armando Monteiro Neto.</p></p>
+<p><p style="text-align: justify;">A bancada do PT, depois de sair destroçada das eleições estaduais, sem eleger um único deputado federal, também pode opor-se ao projeto.</p></p>
+<p><p style="text-align: justify;">“Podem espernear à vontade, mas agora eles vão ter que entubar o projeto do Novo Recife”, observa um técnico da prefeitura.<a href="https://www.jmrezende.com.br/entubacao.htm"><strong> Veja aqui o que diz o Houaiss sobre o termo</strong></a>.</p></p>
+<p><p style="text-align: justify;"><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/06/Imagem-do-projeto-Novo-Recife.jpg"><img class="size-full wp-image-110049" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/06/Imagem-do-projeto-Novo-Recife.jpg" alt="Imagem: divulgação" width="480" height="316" /></a></p></p>
+<p><p style="text-align: justify;">Imagem: divulgação</p></p>
+<p><p style="text-align: justify;">O redesenho do projeto Novo Recife foi apresentado à imprensa no começo de novembro de 2014 e atendeu aos principais requisitos apresentados pela Prefeitura do Recife nas diretrizes urbanísticas para a região, como a diminuição na altura dos prédios que ficam próximos ao Forte das Cinco Pontas, a criação de dois novos binários que levam o fluxo de tráfego para dentro do terreno e a continuação da Avenida Dantas Barreto para que ela vá até as margens da Bacia do Pina.</p></p>
+<p><p style="text-align: justify;">Com as mudanças, a área de uso público que será deixada pelo empreendimento foi ampliada de 45% para 65%. Os lotes foram divididos para dar passagem às diversas vias que serão criadas em meio aos 13 prédios. Em todos os terrenos, serão instaladas 10,6 mil metros quadrados de lojas de comércio e serviços, tornando os prédios de uso misto. Nenhuma das edificações será murada, com o acesso aos prédios sendo feito direto da calçada.</p></p>
+<p><p style="text-align: justify;">As alturas dos prédios vão variar entre 42 e 137 metros de altura; três a menos do limite dado pelas diretrizes da Prefeitura do Recife. Eles variam entre 12 e 38 andares. O empreendimento terá dez edifícios residenciais, um hotel, um empresarial e um flat. O Novo Recife analisou dados de ventilação fornecidos pelo Instituto Nacional de Meteorologia e garante que a construção dos prédios não irá afetar a temperatura do bairro. Em uma cidade situada nos trópicos é naturalmente quente, mas até o clima é invocado na falsa polêmica.</p></p>
+<p><p style="text-align: justify;">As mudanças realizadas no empreendimento forçaram o consórcio a reformatar os edifícios. O número de unidades habitacionais saltou de 980 para 1.042, mas algumas estão menores, o que diversificou as plantas. O empreendimento vai oferecer apartamentos de 34 a 282 metros quadrados.</p></p>
+<p><p style="text-align: justify;">A previsão do consórcio é de que o Novo Recife seja construído dentro de cinco ou seis anos. Ele dará à região um acréscimo de 4 mil habitantes na região do Cais José Estelita. Seis mil empregos diretos e indiretos serão gerados durante a construção e dois mil vagas diretas serão mantidas após a conclusão do projeto.</p></p>
+<p><p style="text-align: justify;">Com as obras, o viaduto do Forte das Cinco Pontas deve ser demolido, mas dará lugar a uma via e não a um túnel, como estava inicialmente previsto. os socialistas já provaram que tem problemas com túneis, como mostrou a área do Museu da Abolição. A PCR também descartou a construção de uma passarela e de uma alça viária.</p></p>
+<p><p style="text-align: justify;">O valor das mitigações será realocado para a criação das novas vias públicas no interior do empreendimento e a construção de 200 unidades de habitação social. Segundo o consórcio, esse é o maior valor em ações mitigadoras pago pela iniciativa privada em todo o País.</p></p>
+<p><p style="text-align: justify;">Ao todo, cinco vias vão integrar o empreendimento em direção ao restante do bairro. A ampliação da Dantas Barreto vai criar uma abertura de 50 metros para a frente de água da Bacia do Pina. Também serão criados 1,8 quilômetros de ciclovias e mais 4 quilômetros de calçadas; que também foram ampliadas com o redesenho.</p></p>
+<p><p style="text-align: justify;">No terreno ao lado ao do Novo Recife, a PCR pretende construir um parque verde e implantar um VLT (Veículo Leve sobre Trilhos), que pode ir do Forte do Brum até o bairro de Afogados. Um parque verde de frente para o espelho d’água e um espaço cultural também devem ser construídos no entorno; esses últimos já com dinheiro das medidas mitigadoras.</p></p>
+<p><p style="text-align: justify;"><strong>LEIA TAMBÉM:</p>
+<p></strong>&gt;&gt; <strong><a href="https://noticias.ne10.uol.com.br/grande-recife/noticia/2014/11/06/ocupe-estelita-diz-que-pcr-excluiu-movimento-e-que-audiencia-publica-e-ilegal-518210.php" target="_blank">Ocupe Estelita diz que PCR excluiu movimento e que audiência pública é ilegal</a></strong></p>
+<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2014/11/05/um-dia-antes-de-audiencia-publica-construtoras-apresentam-redesenho-novo-recife/" target="_blank"><strong>Um dia antes de audiência pública, construtoras apresentam redesenho do Novo Recife</strong></a></p>
+<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2014/08/27/pcr-garante-que-nao-dara-alvara-de-demolicao-do-cais-jose-estelita-antes-de-redesenho-do-novo-recife/" target="_blank"><strong>PCR garante que não dará alvará de demolição do Cais José Estelita antes de redesenho do Novo Recife</strong></a></p>
+<p>&gt;&gt; <strong><a href="https://blogs.ne10.uol.com.br/jamildo/2014/09/10/pcr-apresenta-novo-tracado-projeto-novo-recife/" target="_blank">PCR apresenta novo traçado do projeto Novo Recife</a></strong></p></p>
+<p><p style="text-align: justify;"><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/11/Novo-Recife-Redesenho-4.jpg"><img class="size-full wp-image-118133" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/11/Novo-Recife-Redesenho-4.jpg" alt="Imagem: Consórcio Novo Recife." width="580" height="359" /></a></p></p>
+<p><p style="text-align: justify;"><strong>HISTÓRICO</strong> – O terreno no Cais José Estelita, onde deve ser construído o Novo Recife, foi comprado em 2008, através de um leilão público, como parte de um espólio da Rede Ferroviária Federal.</p></p>
+<p><p style="text-align: justify;">A polêmica em torno do empreendimento cresceu em maio de 2014, quando um grupo de ativistas 'ocupou' o terreno após o início do processo de demolição dos armazéns, que tinha o aval da PCR, para impedir o início das obras. O grupo, conhecido como ocupe estelita, só deixou o local em junho, após uma bem sucedida reintegração da posse da Polícia Militar de Pernambuco, no governo João Lyra.</p></p>
+<p><p style="text-align: justify;"></p></p>
+<p></div></p>
+{% endraw %}

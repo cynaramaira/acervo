@@ -1,0 +1,29 @@
+---
+id: 12490883
+date: "2014-12-17T13:46:20Z"
+last_modified_at: null
+tags:
+  - "crescimento"
+  - "fecomerciosp"
+categories:
+  - "noticias"
+title: "Fecom\u00e9rcio-PE espera crescimento de 19,9% no varejo em 2015"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/12/comércio-centro-RB.jpg"><img class="size-full wp-image-119824" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/12/comércio-centro-RB.jpg" alt="Foto: Bobby Fabisak/JC Imagem" width="580" height="387" /></a> Foto: Bobby Fabisak/JC Imagem</p>
+<p>Com crescimento em 3,4% entre janeiro e setembro deste ano, o comércio tem expectativa de aumentar o volume de vendas no varejo em 19,9% no próximo ano. A estimativa alta é da Federação do Comércio de Bens, Serviços e Turismo do Estado de Pernambuco (Fercomércio-PE), que anunciou, nesta quarta-feira (17), a Agenda do Comércio 2015, um documento com os principais obstáculos enfrentados pelo setor e as reivindicações para superá-los nos próximos meses. O pleito deverá ser apresentado ainda em janeiro às esferas estadual e federal de governo.</p>
+<p>Porém, o estudo encomendado pela entidade, elaborado pela consultoria Ceplan, mostra um cenário semelhante ao de 2014, com decréscimo em relação aos períodos anteriores, seguindo a recessão do atual cenário econômico. "A expectativa é de um próximo ano com a economia brasileira convivendo com um processo de reajuste, sem chances de recuperação econômica significativa (o Governo Federal trabalha com um crescimento de 0,8% na proposta orçamentária enviada ao Congresso Nacional). Logo, confirmado esse cenário é provável que o volume de vendas do comércio varejista, no País e em Pernambuco, siga em ritmo lento, semelhante ao que vem sendo observado em 2014", diz no texto.</p>
+<p>De acordo com o presidente da Fecomércio-PE, Josias Albuquerque, o aumento expressivo previsto pela entidade só é considerado se as reivindicações dos empresários ouvidos na pesquisa forem acatadas pelo poder público. Estão entre as principais reclamações a mobilidade no entorno dos polos comerciais, a infraestrutura e a concessão de crédito para o empresário e para o consumidor. "Se continuar no cenário atual, não deverá atingir as expectativas", disse.</p>
+<p><iframe src="//www.youtube.com/embed/D_Sn2dVVoY4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>A política econômica do novo governo de Dilma Rousseff (PT) gera expectativa sobre o varejo, por ser capaz de influenciá-lo através de aspectos como a renda da população. Para a União, alguns pleitos são: priorizar a sustentação dos níveis de emprego, avançar na questão fiscal realizando a reforma tributária, manter o padrão de consumo e reduzir as taxas de juros para o consumidor. Além disso, para a Fecomércio-PE, cabe ao governo federal, junto com a esfera estadual, ampliar a concessão de crédito aos empresários.</p>
+<p>Na reunião com o governador eleito Paulo Câmara (PSB), que deverá ser marcada após a posse do socialista, a entidade irá reivindicar que menos burocracia para a abertura de empresas, ampliação dos incentivos voltados para um maior nível de formalização do pequeno varejo e consolidação de uma sistemática de compras que priorizam negócios locais.</p>
+<p>Como a mobilidade foi detectada como um dos principais entraves aos bons resultados do varejo, algumas demandas são em relação à ampliação e à melhoria da infraestrutura viária. Às prefeituras, a entidade solicitou ainda o aumento do número de vagas de estacionamento rotativas e o estímulo à implantação do uso de ciclovias e bicicletários. Uma melhor estruturação dos mercados e feiras livres e o crescimento dos investimentos do na reforma dos centros comerciais dos municípios e a requalificação dos polos tradicionais foram outros pedidos.</p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/12/ambulante-MS.jpg"><img class="size-full wp-image-119825" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/12/ambulante-MS.jpg" alt="Foto: Michele Souza/JC Imagem" width="580" height="385" /></a> Ordenar o comércio informar é uma das reivindicações dos empresários de Pernambuco. Foto: Michele Souza/JC Imagem</p>
+<p>Como o objetivo da Agenda do Comércio é articular ações para ultrapassar essas dificuldades econômicas, foram estabelecidos também alguns pedidos principais para empresários, além da União, do Estado e dos municípios. A atuação dos donos de negócios do varejo seria principalmente para a capacitação e o estímulo da mão de obra, criando um banco de talentos para o comércio.</p>
+<p><strong>INDÚSTRIA -</strong> A principal área em dificuldade na estrutura produtiva é a indústria, que provavelmente terá um ano de recessão, com diminuição de 1,4% na produção este ano, em comparação com 2013 - apesar disso, o setor em Pernambuco atingiu aumento de 4,7%. Para a economista Tânia Bacelar, da Ceplan, isso acontece por vários motivos, entre eles o fato de o consumo das família estar em declínio. Enquanto o crescimento foi de 2,6% no ano passado, este ano foi de 1,2%. "Chegamos a um certo limite porque a renda da família ainda é baixa", analisa.</p>
+<p>Além disso, Bacelar credita o desempenho da indústria à irregularidade dos investimentos no País. "Do lado da demanda, a dificuldade de realizar investimentos no Brasil é o que está puxando o freio da economia", afirmou ela, que considera que não há uma estratégia clara no País.</p>
+{% endraw %}

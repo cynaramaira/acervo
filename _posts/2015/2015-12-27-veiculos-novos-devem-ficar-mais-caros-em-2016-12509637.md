@@ -1,0 +1,37 @@
+---
+id: 12509637
+date: "2015-12-27T16:30:53Z"
+last_modified_at: null
+tags:
+  - "novos"
+  - "paola-carosella"
+  - "veiculos"
+categories:
+  - "noticias"
+title: "Ve\u00edculos novos devem ficar mais caros em 2016"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/12/carros.jpg"><img class="size-medium wp-image-120281" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/12/carros-580x435.jpg" alt="Foto: Fotos Públicas" width="580" height="435" /></a> Foto: Fotos Públicas</p>
+<p><em>Estadão Conteúdo -</em> Depois de terminar 2015 com a pior queda nas vendas em quase 30 anos, o mercado automotivo brasileiro se prepara para adotar uma estratégia arriscada em 2016: deixar o veículo mais caro no momento em que o consumo se retrai, o desemprego sobe e o crédito tende a ficar mais restrito.</p>
+<p>Embora o reajuste seja uma decisão de cada montadora, todas as marcas passam, segundo analistas e executivos do setor, por uma forte pressão de custos, em especial do câmbio. Uma projeção feita pela consultoria Tendências aponta que os preços dos veículos novos deverão subir em 2016 no mesmo ritmo da inflação medida pelo IPC-Fipe (Índice de Preços ao Consumidor, da Fundação Instituto de Pesquisas Econômicas), pondo fim a um período de 10 anos em que a variação sempre ficou em um patamar abaixo.</p>
+<p>Na previsão da consultoria, os veículos novos deverão ter aumento de 5,8% em 2016, a mesma estimativa para o IPC. Para este ano, a expectativa é de que os preços dos carros subam 5,4% abaixo dos 8,4% previstos para a índice geral. A última vez em que houve queda dos veículos foi em 2012, de 5,0%.</p>
+<p>À época, as montadoras ainda contavam com a redução do IPI (Imposto sobre Produtos Industrializados). O benefício, criado pelo governo em 2011 para estimular o consumo, deixou de vigorar em 31 de outubro de 2014. A extinção, que contribuiu para que os preços subissem em 2015, deve continuar pressionando o mercado no ano que vem.</p>
+<p>Responsável pelo levantamento da Tendências, o economista Rodrigo Baggi diz que a pressão de custos já havia atingido as montadoras neste ano, em razão da forte depreciação do câmbio e do aumento da energia. No entanto, como as vendas caem no ritmo mais forte desde 1987, as empresas evitaram ao máximo repassar o reajuste para o consumidor.</p>
+<p>"O aperto nas margens já aconteceu e aconteceu bem. Uma parte do reajuste que precisava ter sido feito em 2015 não foi feito porque as montadoras não queriam <a id="PXLINK_1_0_0" class="pxInta" href="https://noticias.ne10.uol.com.br/noticias/economia/noticia/2015/12/27/veiculos-novos-devem-ficar-mais-caros-em-2016-588457.php#">perder</a> volume de venda", avalia.</p>
+<p>"Agora, para 2016, as montadoras terão mais espaço para subir os preços", prevê o economista, referindo-se à expectativa do setor de que as vendas tenham uma queda mais tímida no ano que vem. Segundo a Fenabrave (Federação Nacional de Distribuição de Veículos Automotores), o volume de veículos novos vendidos em 2015 deve cair 27% em comparação com 2014, para cerca de 2,53 milhões de unidades. A retração esperada para 2016 é de 5%, para algo em torno de 2,4 milhões.</p>
+<p>"Os repasses (de preços ao consumidor) só serão limitados se houver uma deterioração muito absurda do cenário (no ano que vem)", afirma Baggi.</p>
+<p>No cenário que se desenha para 2016, o câmbio será novamente o principal vilão dos custos das fabricantes, aponta o economista Fábio Silveira, diretor de pesquisas econômicas da consultoria GO Associados.</p>
+<p>"Tivemos uma acentuada depreciação do câmbio ao longo de 2015, mas só uma pequena parte foi repassada ao consumidor, porque ainda havia muito estoque com o câmbio mais apreciado. A outra parcela vai ser repassada ao consumidor no ano que vem. Será algo que as montadoras não vão conseguir segurar, caso contrário, fecham o negócio", diz Silveira. Em suas contas, o patamar médio do câmbio em 2015 será de R$ 3,33 e em 2016, deverá subir para R$ 4,09.</p>
+<p>Por questões ligadas à estratégia de mercado, as montadoras que lideram as vendas no Brasil evitam abrir o jogo em relação à política de preços. No entanto, admitem que a pressão de custos seguirá em 2016.</p>
+<p>"O preço é algo que será definido pela dinâmica do mercado no ano que vem, mas que existe uma forte pressão de custos, existe sim", disse o vice-presidente de relações institucionais da Ford, Rogelio Golfarb, em evento realizado pela montadora neste mês. Em um congresso do setor, dois meses antes, ele já havia afirmado que "lucro é coisa do passado".</p>
+<p>"O problema agora é falta de caixa para arcar compromissos. Em um momento como esse, fica mais agudo o dilema de subir ou não subir o preço", afirmou.</p>
+<p>Mais sensíveis ao câmbio, as importadoras são mais abertas em relação a reajustes. A Kia Motors, líder em venda de carros importados no Brasil, já trabalha com um cenário de alta dos preços em 2016.</p>
+<p>"Eu não tenho dúvida de que todos terão de repassar a alta do dólar no ano que vem. É impossível qualquer marca instalada no Brasil continuar vendendo o carro no preço que está. Comprar carro importado no Brasil hoje é como comprar dólar a R$ 2,30, porque ninguém repassou. Nós estamos vendendo o Ceratto a R$ 69,9 mil, que antes era vendido a R$ 76,9 mil, porque precisamos cumprir o objetivo que traçamos para a Coreia do Sul (matriz da Kia)", disse o presidente da montadora no Brasil, José Luiz Gandini.</p>
+<p>Para aliviar o custo da mão de obra, algumas montadoras aderiram ao Programa de Proteção ao Emprego (PPE), medida do governo federal que permite a redução das jornadas dos trabalhadores em até 30%, com diminuição salarial no mesmo nível. Metade da perda salarial, contudo, é compensada pelo governo, com recursos do Fundo de Amparo ao Trabalhador (FAT). Entre as companhias estão a Volkswagen, a Mercedes-Benz e a Ford. Mas a chinesa Chery, que instalou sua fábrica no Brasil no ano passado, teve de trilhar o caminho contrário, realizando em 2015 dois reajustes salariais superiores à inflação.</p>
+<p>De acordo com o vice-presidente da companhia chinesa no Brasil, Luis Curi, será inevitável realizar uma "adequação dos custos sofridos" em 2015. "O porcentual ainda não foi definido, mas seguirá duas diretrizes: acompanhar os reajustes do mercado e chegar o mais perto possível da incidência dos aumentos que impactaram os nossos custos. Essa adequação será feita gradativamente, aos poucos, no decorrer de 2016", afirmou. Desde que chegou ao Brasil, a montadora não encontrou vida fácil. A fábrica instalada em Jacareí, no interior de São Paulo, tem capacidade para produzir 50 mil veículos por ano, mas só deverá produzir algo próximo de 5 mil.</p>
+<p><strong>CAMINHÕES E ÔNIBUS -</strong> Enquanto as montadoras de automóveis ainda esperam para ver qual será a primeira a anunciar reajuste em 2016, as de caminhões e ônibus já se anteciparam. Nos últimos meses, os anúncios foram feitos por Scania (+3% para todos os modelos), Mercedes-Benz (+5% para todos os modelos) e MAN (+2,5% para todos os modelos). Esta última já adiantou que vai aplicar novo reajuste em janeiro também de 2,5%, e uma terceira alta de 7,5% ao longo de 2016. A Ford seguirá o mesmo caminho, com avanço de 5% no primeiro trimestre. A queda nas vendas de pesados é ainda mais forte que a de automóveis. Os caminhões acumulam queda de 46,5% até novembro, enquanto os ônibus recuam 38,4%.</p>
+{% endraw %}

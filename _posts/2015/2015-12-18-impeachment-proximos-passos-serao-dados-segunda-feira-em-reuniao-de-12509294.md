@@ -1,0 +1,39 @@
+---
+id: 12509294
+date: "2015-12-18T15:27:48Z"
+last_modified_at: null
+tags:
+  - "dados"
+  - "feira"
+  - "impeachment"
+  - "reuniao"
+  - "segunda-onda"
+categories:
+  - "noticias"
+title: "Impeachment: pr\u00f3ximos passos ser\u00e3o dados segunda-feira em reuni\u00e3o de l\u00edderes"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/12/plenario-vazio.jpg"><img class="size-full wp-image-138232" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/12/plenario-vazio.jpg" alt="Às vésperas do recesso parlamentar corredores e plenário do Congresso Nacional estão vazios. Foto: Antônio Cruz/ Agência Brasil" width="580" height="387" /></a> Às vésperas do recesso parlamentar corredores e plenário do Congresso Nacional estão vazios. Foto: Antônio Cruz/ Agência Brasil</p>
+<p><em>Da ABr</em></p>
+<p>Os próximos passos da Câmara dos Deputados no processo de impeachment da presidenta Dilma Rousseff só serão dados na próxima segunda-feira (21). Depois da decisão do Supremo Tribunal Federal (STF), que invalidou ontem (17) a eleição da chapa avulsa formada por deputados de oposição ao governo, o presidente da Casa, Eduardo Cunha (PMDB-RJ), convocou os líderes partidários para uma reunião às 17h de segunda-feira. Assessores não descartam que Cunha já tenha iniciado algumas conversas, mas afirmam que nada será definido antes da reunião de líderes.</p>
+<p>Um dos acertos entre as lideranças será a lista de deputados indicados para compor a comissão especial que vai analisar o processo. No julgamento, os ministros do STF analisaram cada um dos mais de dez pontos questionados em uma ação proposta pelo PCdo B sobre o andamento do processo de impeachment na Câmara e decidiram que a comissão tem de ser composto por representantes indicados pelos líderes dos partidos, escolhidos por meio de chapa única. Outro entendimento da Corte foi que, mesmo se tratando eleição sobre assunto interno da Câmara, o procedimento deve ser aberto.</p>
+<p>Nos últimos dias, foi esta composição das listas que motivou um racha no PMDB na Câmara. Insatisfeitos com os nomes apresentados pelo líder, Leonardo Picciani (RJ), para a comissão, uma ala do partido reuniu as assinaturas necessárias para tirar o parlamentar do cargo e conseguiu manter na liderança, durante oito dias, o deputado Leonardo Quintão (MG). A substituição foi justificada porque esses peemedebistas acusaram Picciani de formular uma lista com base em orientação do Palácio do Planalto, e não pelo acordo firmado pela bancada de uma relação equilibrada com quatro nomes favoráveis e outra metade contra o impeachment.</p>
+<p><strong>LEIA TAMBÉM:</strong></p>
+<p>&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2015/12/17/stf-decide-que-eleicao-da-comissao-de-impeachment-deve-ser-aberta/" target="_blank">STF decide que eleição da comissão de impeachment deve ser aberta</p>
+<p>&gt;</a> <a href="https://blogs.ne10.uol.com.br/jamildo/2015/12/17/stf-tem-maioria-por-autonomia-do-senado-no-processo-de-impeachment/" target="_blank">STF tem maioria por autonomia do Senado no processo de impeachment</p>
+<p></a>&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2015/12/18/eduardo-cunha-diz-respeitar-decisao-do-stf-sobre-impeachment/" target="_blank">Eduardo Cunha diz respeitar decisão do STF sobre impeachment</a></p>
+<p>&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2015/12/18/paulo-camara-diz-que-decisao-do-stf-sobre-impeachment-nao-deve-ser-questionada/" target="_blank">Paulo Câmara diz que decisão do STF sobre impeachment não deve ser questionada</a></p>
+<p>Em uma reviravolta na última quinta-feira, Picciani conseguiu o apoio dos 36 deputados do PMDB e foi reconduzido ao cargo. O retorno do parlamentar fluminense à liderança foi conseguido depois que três deputados manifestaram mudança de opinião – Jéssica Sales (AC), Vitor Valim (CE) e Lindomar Garçon (RO) – e pelo retorno à bancada de alguns filiados que ocupavam cargos executivos no estado do Rio de Janeiro, entre eles, Marco Antonio Cabral, que era secretário de Estado de Esporte, Lazer e Juventude do estado, e Pedro Paulo Carvalho, que era secretário municipal da Casa Civil do Rio de Janeiro.</p>
+<p>A recondução de Picciani à liderança ainda pode ter desdobramentos. Peemedebistas que criticam a proximidade do líder com o governo afirmam que não são representados pelo parlamentar. O impasse pode respingar na votação da comissão em plenário. Como o STF definiu que as indicações serão feitas por líderes, a lista será submetida a voto, mas, dividido, o PMDB pode reunir forças para não aprovar os nomes do colegiado.</p>
+<p>Eduardo Cunha alertou que esta situação não foi prevista pelo Supremo e disse ter dúvidas sobre o que fazer no caso de os nomes indicados pelos líderes partidários não serem aprovados pelo plenário da Câmara.</p>
+<p>Especialista em direito constitucional e processo legislativo, o professor da Universidade de Brasília (UnB) Mamede Said Maia Filho disse que o Supremo resolveu vários questionamentos jurídicos e políticos com a decisão de ontem. “As regras sobre o processo ficaram claras e aplicáveis, não apenas ao momento atual, mas daqui para a frente.”</p>
+<p>Segundo professor, mesmo que tenha desagradado a alguns, a Corte analisou “mais profundamente” o processo de impeachment, na comparado com a decisão tomada em 1992, quando julgou o processo do então presidente Fernando Collor. “O Supremo buscou resguardar o entendimento, mas com mais profundidade. No momento atual, considerou alguns dispositivos inconstitucionais e foi mais fundo, porque eram mais de 10 pontos, que foram enfrentados um a um. Agora pelo menos temos um roteiro lógico a ser seguido”, afirmou.</p>
+<p>Para Said, questões como a do voto aberto e da indicação dos nomes para a comissão especial do impeachment pelos líderes partidários eram as “de menor relevância”. Para o professor, o ponto forte na decisão foi o que ampliou o papel do Senado e esvaziou a participação da Câmara na apreciação do processo. “Com um Congresso bicamera,l tinha que haver equilíbrio de responsabilidades. No entanto, a decisão do Supremo dá primazia ao Senado, e a Câmara passa a ter papel decorativo. O melhor caminho seria a Câmara analisar a admissibilidade e o Senado decidir sobre o mérito. Ainda assim, o Senado continuaria com uma responsabilidade maior.”</p>
+<p>Os ministros do STF decidiram que o Senado não é obrigado a prosseguir com o processo de impeachment se decidir que não tem procedência. Na prática, mesmo que o plenário da Câmara aprove, por dois terços dos parlamentares - 342 votos – a denúncia, os senadores podem arquivar o caso e evitar que Dilma seja afastada do cargo, por 180 dias, como prevê a lei.</p>
+<p>Said disse que a situação de Eduardo Cunha, acusado de receber propina para viabilizar negócios da Petrobras e de manter contas secretas no exterior, pode ter sido um dos fatoress que motivaram a decisão do Supremo que reduziu o papel da Câmara. “A presença de Cunha à frente tira muita a legitimidade do processo. De certa maneira, isso interferiu na decisão, mesmo não tendo sido integralmente por isto, mas o ministro Barroso fez referência, várias vezes, a manobras e jogos durante procedimentos da Casa, ao sabor das circunstâncias, fazendo menção indireta à condução de Cunha”, afirmou.</p>
+<p>Diante da retomada de todo o processo, Said evitou fazer previsões. Para o especialista, o futuro do governo é incerto, diferentemente do que ocorreu em 1992. “Com Collor havia consenso, entre os partidos e por parte da população. Na época, a questão nem foi aprofundada como agora por isso. Mas agora a questão é muito polêmica. Apesar do enfraquecimento, o governo segue tendo poder e o PT continua sendo um partido com influência”, afirmou.</p>
+{% endraw %}

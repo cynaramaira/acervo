@@ -1,0 +1,34 @@
+---
+id: 12481400
+date: "2014-06-30T19:31:26Z"
+last_modified_at: null
+tags:
+  - "estelita"
+  - "geraldo-julio"
+categories:
+  - "noticias"
+title: "Na PCR, Ocupe Estelita questiona autoridade de Geraldo Julio"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/06/ocupe-prefeitura.jpg"
+---
+{% raw %}
+<p><p style="text-align: justify;"><em>Foto: BlogImagem</em></p></p>
+<p><p style="text-align: justify;">Por Paulo Veras, repórter do Blog</p></p>
+<p><p style="text-align: justify;">“Geraldo Julio, se liga aí, o Estelita vai fazer você cair!”, o grito de ordem entoado na tarde desta segunda-feira (30) no hall de entrada da Prefeitura do Recife por um grupo de 30 militantes do movimento Ocupe Estelita foi o ápice questionamento do grupo à autoridade do prefeito Geraldo Julio (PSB) durante a ocupação do edifício-sede da PCR. Curiosamente, o socialista foi o fiador do acordo que levou o consórcio Novo Recife a concordar na revisão do empreendimento, como querem os militantes.</p></p>
+<p><p style="text-align: justify;">O grupo de ativistas ocupou a entrada do Executivo municipal por discordar do modelo de negociação tocado pela prefeitura. E por, como foi repetido à exaustão nesta segunda, “não confiar” no prefeito como mediador do processo que ele mesmo iniciou. A ideia da militância era passar o comando das discussões para a mão do Ministério Público de Pernambuco.</p></p>
+<p><p style="text-align: justify;">“Vamos infernizar a vida política dele”, prometeu, logo pela manhã, Edilson Silva, que é candidato a deputado estadual pelo PSOL. “Qualquer inauguração que ele for fazer, nós vamos estar lá”, garantiu em tom enérgico, como se fosse porta-voz do movimento. Horas depois, a participação dele na comitiva que eventualmente discutiria com o prefeito foi rejeitada em uníssono.</p></p>
+<p><p style="text-align: justify;"><object id="player_15097904" width="560" height="315"><param value="true" name="allowfullscreen"/><param value="https://player.mais.uol.com.br/embed_v2.swf?mediaId=15097904&#038;p=related" name="movie"/><param value="always" name="allowscriptaccess"/><param value="window" name="wmode"/><embed id="player_15097904" width="560" height="315" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" src="https://player.mais.uol.com.br/embed_v2.swf?mediaId=15097904&#038;p=related" wmode="window" /></embed><noscript><a href="https://mais.uol.com.br/view/15097904">Ativistas do Ocupe Estelita dizem que vão tirar o prefeito do Recife</a></noscript></object></p></p>
+<p><p style="text-align: justify;">Geraldo poderia não ter dado tanta brecha ao movimento. Por três vezes, como repórter do Blog, questionei o prefeito sobre a construção das torres do Novo Recife no Cais José Estelita e ele respondeu que o empreendimento havia sido aprovado na gestão anterior e os questionamentos eram caso da Justiça. A última delas, já após a ocupação do terreno, quando ele disse que a PCR já havia cumprido sua parte.</p></p>
+<p><p style="text-align: justify;">No dia 2 deste mês, porém, ele suspendeu o alvará de demolição dos galpões e convocou representantes do movimento para iniciar o processo de negociação que é questionado agora. Na época, avalizou a ocupação do terreno privado no cais. O discurso se voltou contra ele nesta segunda, quando o secretário de Segurança Urbana, Murilo Cavalcanti, classificou o ato na prefeitura como ilegal.</p></p>
+<p><p style="text-align: justify;">A ocupação ao prédio da PCR começou por volta das 9h. A tempo de impedir a realização de uma reunião marcada para as 10h entre o prefeito e entidades da sociedade civil como OAB, IAB, CAU, Crea, UFPE, Universidade Católica de Pernambuco e o Observatório do Recife.</p></p>
+<p><p style="text-align: justify;">A ideia era conseguir o endosso das entidades ao modelo de negociação proposto pela prefeitura; que previa a revisão do Novo Recife 30 dias após a realização de uma audiência pública. O Ocupe se queixou de não ter sido chamado, mesmo que nessa etapa o próprio consórcio ainda não ter sido ouvido; como confirmou ao <strong>Blog de Jamildo</strong> à professora Liana Cirne Lins, uma das integrantes do grupo Direitos Urbanos.</p></p>
+<p><p style="text-align: justify;"><iframe src="//www.youtube.com/embed/tJXk6KnpfXw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p></p>
+<p><p style="text-align: justify;">O motivo da desconfiança seria a reintegração de posse realizada no dia 17 deste mês pela Polícia Militar que, como é óbvio, responde ao Governo do Estado. Na época, Geraldo chegou a se queixar publicamente da ação, a despeito de o governador João Lyra Neto (PSB) ser um aliado.</p></p>
+<p><p style="text-align: justify;">“As suas mãos estão manchadas de sangue!”, gritou uma manifestante para Murilo, em referência à força usada pela PM na reintegração de posse. O secretário tentou explicar que a PCR não tem gerência sobre a corporação. Argumentou uma, duas, seis vezes. Depois desistiu e foi acompanhar a ocupação na Prefeitura de longe. Na gestão atual, ele foi responsável por modernizar a visão de segurança com o Pacto Pela Vida do Recife e a criação dos Compaz.</p></p>
+<p><p style="text-align: justify;">“Foi culpa do Executivo!”, criticou outro ativista para o secretário da Juventude, Jayme Asfora, que voltou a repetir que a PM não responde à prefeitura. “Mas foi uma gestão do PSB”, rebateu o interlocutor. “Estou vendo várias pessoas do PSOL aqui, do PPS, do PT; e nem por isso digo que o movimento está partidarizado”, rebateu o secretário.</p></p>
+<p><p style="text-align: justify;">Ex-presidente da OAB, Jayme Asfora foi o mais hostilizado. Em dado momento, jogaram uma casca de banana nele, que apanhou e colocou no lixo. Depois disso, passou a se referir ao ato desta segunda como “invasão a um prédio público”.</p></p>
+<p><p style="text-align: justify;">Asfora foi o principal negociador do prefeito com o movimento. A PCR aceitava dialogar, desde que a ocupação fosse encerrada; coisa a que os manifestantes se opunham. Até o início do protesto, Geraldo Julio vinha sendo a principal força política a garantir a revisão do Novo Recife.</p></p>
+<p><p style="text-align: justify;">À tarde, após os inúmeros questionamentos à isonomia do prefeito como coordenador da mesa de negociação, o secretário de Planejamento Urbano, Antônio Alexandre, reiterou que o modelo será mantido e a prefeitura continuará mediadora mesmo sem a concordância do movimento.</p></p>
+{% endraw %}

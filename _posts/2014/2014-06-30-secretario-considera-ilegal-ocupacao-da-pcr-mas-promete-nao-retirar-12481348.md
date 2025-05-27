@@ -1,0 +1,31 @@
+---
+id: 12481348
+date: "2014-06-30T11:59:04Z"
+last_modified_at: null
+tags:
+  - "naomi-campbell"
+  - "ocupacao"
+  - "venda-ilegal"
+categories:
+  - "noticias"
+title: "Secret\u00e1rio considera ilegal ocupa\u00e7\u00e3o da PCR, mas promete n\u00e3o retirar ativistas com viol\u00eancia"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p>Com informações de Paulo Veras, repórter do blog</p>
+<p>O secretário de Segurança Urbana do Recife, Murilo Cavalcanti, classificou como ilegal a ocupação do hall da sede da Prefeitura do Recife por ativistas do Ocupe Estelita, nesta segunda-feira (30), porém garantiu que os manifestantes ficarão em segurança no local e não serão retirados a força. O objetivo do grupo é ser recebido pelo prefeito Geraldo Julio (PSB).</p>
+<p>Murilo Cavalcanti justificou a sua posição afirmando que a PCR é um espaço público e disse que a mobilização impede a população de ter acesso aos serviços. O atendimento no primeiro andar do prédio foi suspenso, sendo mantido o expediente nos outros andares, onde funcionam as secretarias.</p>
+<p><strong>LEIA MAIS: <a href="https://blogs.ne10.uol.com.br/jamildo/2014/06/30/ativistas-do-ocupe-estelita-protestam-na-pcr/">Ativistas do Ocupe Estelita protestam na PCR</a></strong></p>
+<p>O chefe do Executivo municipal se encontrou com secretários municipais e representantes das entidades que têm participado das negociações para o redesenho do Projeto Novo Recife: OAB, UFPE, Unicap, IAB, CAU, Crea e Observatório do Recife. A reunião desta manhã foi para passar às entidades informações sobre o processo de rediscussão do projeto e definir os próximos passos, incluindo a audiência pública para apresentação de novas propostas para a área e o modelo de negociação com o Ocupe Estelita e com o Consórcio Novo Recife.</p>
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/06/negociacao-novo-recife.jpg"><img class="size-medium wp-image-110286" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/06/negociacao-novo-recife-580x386.jpg" alt="Foto: Andréa Rêgo Barros/PCR" width="580" height="386" /></a>Foto: Andréa Rêgo Barros/PCR</p>
+<p>Os ativistas pretendem ficar no hall da PCR até que o prefeito os receba. A proposta de Geraldo Julio era fazer uma reunião com eles nesta terça-feira (1º). Entretanto, as entidades sugeriram ao prefeito receber uma comissão dos ativistas e pedir a desocupação da PCR em troca. O assunto está sendo discutido no hall.</p>
+<p>Outra reivindicação dos manifestantes é que o Ministério Público de Pernambuco passe a conduzir a negociação com o Ocupe Estelita e o Consórcio Novo Recife, responsável pelo projeto homônimo que prevê a construção de 12 torres de até 40 andares no Cais José Estelita, Centro da capital pernambucana.</p>
+<p>De acordo com a advogada Liana Cirne Lins, do grupo Direitos Urbanos, a Prefeitura não se mostrou capaz de mediar esse processo. O representantes do Ocupe Estelita reclamam que, desde a primeira reunião que tiveram com a PCR, já aconteceram outras com as entidades e as empresas responsáveis pelo Novo Recife, porém eles não voltaram a ser ouvidos.</p>
+<p>Os ativistas publicaram, nesta segunda-feira, no Facebook, um parecer sobre os procedimentos de negociação definidos num encontro entre o prefeito e as entidades. Veja o post <a href="https://www.facebook.com/notes/direitos-urbanos/cais-jos%C3%A9-estelita-parecer-do-ocupeestelita-sobre-a-proposta-de-procedimentos-de/749848031723456">aqui</a>. Entre as resoluções, estava o <a href="https://blogs.ne10.uol.com.br/jamildo/2014/06/16/consorcio-tera-30-dias-para-redesenhar-novo-recife-apos-audiencia-publica/">prazo de 30 dias para a realização de uma audiência pública e mais um mês para que o consórcio fizesse o redesenho</a> do projeto com base nas diretrizes urbanísticas que fossem definidas.</p>
+<p>O secretário de Juventude, Jayme Asfora e os secretários executivos de Segurança Urbana, Eduardo Machado, e de Governo e Participação Social, Gabriel Leitão, conversaram com os manifestantes. Asfora retornou à reunião com as demandas dos manifestantes.</p>
+<p><strong>REINTEGRAÇÃO DE POSSE - </strong>O terreno no cais onde o Novo Recife será construído foi ocupado por militantes no dia 21 de maio, após o início da demolição dos galpões existentes no local. A reintegração de posse ocorreu no dia 17 de junho, com ação da Polícia Militar criticada que c<a style="color: #9f9f9f;" href="https://blogs.ne10.uol.com.br/jamildo/2014/06/20/em-nota-joao-lyra-defende-acao-da-pm-na-desocupacao-do-cais-jose-estelita/" target="_blank"><strong>ausou problemas políticos para o governador João Lyra Neto (PSB)</strong></a>. Até o antecessor dele, <a style="color: #9f9f9f;" href="https://blogs.ne10.uol.com.br/jamildo/2014/06/19/eduardo-campos-teria-se-queixado-de-joao-lyra-por-acao-da-pm-na-reintegracao-do-estelita/" target="_blank"><strong>o ex-governador e presidenciável Eduardo Campos (PSB), teria se queixado da ação</strong></a>.</p>
+<p>Antes disso, <a style="color: #9f9f9f;" href="https://blogs.ne10.uol.com.br/jamildo/2014/06/03/pcr-suspende-alvara-de-demolicao-dos-galpoes-do-cais-jose-estelita/" target="_blank"><strong>a PCR já havia suspendido o alvará de demolição dos armazéns</strong></a>. No dia 5 de junho, em reunião realizada após o encontro entre a PCR e os representantes do Ocupe Estelita, <a style="color: #9f9f9f;" href="https://blogs.ne10.uol.com.br/jamildo/2014/06/05/consorcio-novo-recife-concorda-em-revisao-de-projeto-mas-pede-fim-do-ocupe-estelita/" target="_blank"><strong>as empresas que compõem o consórcio concordaram com a revisão do projeto</strong></a>. Elas pediram, porém, <a style="color: #9f9f9f;" href="https://blogs.ne10.uol.com.br/jamildo/2014/06/16/novo-recife-espera-desocupacao-do-cais-jose-estelita-para-negociar-ocupe-quer-garantir-mudancas/" target="_blank"><strong>que houvesse a desocupação do terreno</strong></a>, no entanto, os manifestantes se recusaram a sair até que houvesse garantias de que a negociação seria levada adiante. Atualmente, após a reintegração de posse, estão abaixo do viaduto Capitão Temudo, ao lado do cais.</p>
+{% endraw %}

@@ -1,0 +1,37 @@
+---
+id: 12485884
+date: "2014-09-15T08:35:11Z"
+last_modified_at: null
+tags:
+  - "dilma"
+  - "lancamento"
+  - "marina-lima"
+  - "medicos"
+categories:
+  - "noticias"
+title: "M\u00e9dicos lan\u00e7am manifesto em apoio a Dilma, com cr\u00edticas a Marina e A\u00e9cio"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/09/dilma-mais-m\u00e9dicos1.jpg"
+---
+{% raw %}
+<p><p style="text-align: justify;"><em>A presidente Dilma Rousseff no lançamento do Mais Médicos. Foto: Agência Brasil</em></p></p>
+<p><p style="text-align: justify;">Mais de 300 médicos de todo o País divulgaram um manifesto de apoio à reeleição da presidente Dilma Rousseff (PT). Com o título de "Médicos com Dilma, por mais Futuro", o documento fala sobre o impacto das políticas públicas realizadas na gestão petista para justificar o voto na presidente.</p></p>
+<p><p style="text-align: justify;">O texto defende o Programa Mais Médicos, que teve resistência das entidades médicas principalmente por trazer estrangeiros para trabalhar no interior do País. Para o grupo pró-Dilma, está é a "mais importante ação de ampliação de acesso à saúde desde a criação do SUS".</p></p>
+<p><p style="text-align: justify;">"Com a lei do Mais Médicos promulgada pela presidenta Dilma, hoje o país ampliou o atendimento médico diretamente a 50 milhões de brasileiros", afirma o manifesto. Um dos que assinam o documento é Mozart Sales, idealizador do programa no Ministério da Saúde.</p></p>
+<p><p style="text-align: justify;">A carta ainda critica nominalmente os principais adversários de Dilma: o senador mineiro Aécio Neves (PSDB) e a ex-senadora acriana Marina Silva (PSB).</p></p>
+<p><p style="text-align: justify;">"As duas principais candidaturas da oposição, Aécio Neves (PSDB) e Marina Silva (PSB) cada uma a sua maneira, flertam com a demagogia que tenta esconder quais seriam as consequências para o país das políticas de governo que ambos propõem com tanta semelhança", afirma o documento.</p></p>
+<p><p style="text-align: justify;">O manifesto também sugere que os discursos de "choque de gestão" e "nova política" usados pelos candidatos, representam "propostas econômicas que gerem desemprego, aumento de impostos, mais poder aos bancos, perda dos aumentos anuais do salário mínimo ou violações dos direitos das minorias".</p></p>
+<p><p style="text-align: justify;">O documento foi disponibilizado na página "<a href="https://www.medicoscomdilma.med.br/" target="_blank"><strong>Médicos com Dilma</strong></a>" e no <a href="https://www.facebook.com/medicoscomdilma?fref=ts" target="_blank"><strong>Facebook</strong></a>. No site, é possível assinar um formulário para endossar o manifesto e ter o seu nome incluído na lista.</p></p>
+<p><p style="text-align: justify;"><strong>Leia a íntegra do manifesto:</strong></p></p>
+<p><p style="text-align: justify;">Médicos com Dilma, por mais Futuro</p></p>
+<p><p style="text-align: justify;">1. No nosso trabalho como médicos e médicas, seja atendendo diretamente a população ou em outras funções no Sistema Único de Saúde (SUS), percebemos claramente o impacto das políticas públicas nas condições de vida do povo brasileiro nos últimos anos. Acompanhamos com empatia e senso de responsabilidade as dores e a vida sofrida do povo, os ganhos sociais e as alegrias do povo. Arregaçamos as mangas fazendo o nosso melhor. E assim como participamos das transformações pelas quais o Brasil passou nos últimos anos e não deixamos de nos posicionar em defesa dos interesses nacionais, hoje novamente o fazemos.</p></p>
+<p><p style="text-align: justify;">2. Na saúde o saldo é positivo. Somos o maior sistema de saúde público universal do mundo, com um SUS que pertence a 200 milhões de brasileiros. Com a lei do Mais Médicos promulgada pela presidenta Dilma, hoje o país ampliou o atendimento médico diretamente a 50 milhões de brasileiros. Além da ampliação do acesso ao atendimento médico, numa só tacada a Lei do Mais Médicos ampliou também o envolvimento dos serviços de saúde na formação dos jovens médicos e o acesso ao ensino superior. Dilma efetivou como nunca a formação de profissionais de saúde enquanto responsabilidade do Estado Brasileiro, como previsto em nossa Constituição. Estamos diante da mais importante ação de ampliação de acesso à saúde desde a criação do SUS.</p></p>
+<p><p style="text-align: justify;">3. A candidatura da presidenta Dilma Rousseff (PT) é a candidatura que representa as mudanças que aconteceram no Brasil a partir das políticas sociais desenvolvidas desde os governos Lula na saúde, educação, economia, diplomacia, meio ambiente, geração de energia, na exploração do pré-sal, no combate a miséria e a fome, direito à memória e à verdade, bem como na ampliação dos direitos das minorias.</p></p>
+<p><p style="text-align: justify;">4. Esse ciclo de desenvolvimento trouxe grandes ganhos sociais, como redução das desigualdades, melhoria dos indicadores de saúde (como a mortalidade infantil, que reduziu enormemente), baixos índices de desemprego, ampliação do acesso à saúde e educação, aumento da participação popular e da transparência na gestão pública, redução do desmatamento florestal, reativação de vários segmentos da indústria nacional, baixa inflação, aumento do investimento público e importante redução dos juros da dívida pública.</p></p>
+<p><p style="text-align: justify;">5. As duas principais candidaturas da oposição, Aécio Neves (PSDB) e Marina Silva (PSB) cada uma a sua maneira, flertam com a demagogia que tenta esconder quais seriam as consequências para o país das políticas de governo que ambos propõem com tanta semelhança, bradando “choque de gestão” de cá e “nova política” de lá. Num Brasil que quer seguir reduzindo desigualdades sociais, e ampliando e melhorando os serviços públicos não pode ser admissível propostas econômicas que gerem desemprego, aumento de impostos, mais poder aos bancos, perda dos aumentos anuais do salário mínimo ou violações dos direitos das minorias.</p></p>
+<p><p style="text-align: justify;">6. Dilma é a presidenta que representa o novo ciclo para o Brasil. É um ciclo democrático, com disposição para apoiar a ampliação da participação do povo nas decisões do Estado brasileiro, e também uma Reforma Política que estabeleça no mínimo: a) limites a influência do dinheiro dos bancos e das empresas sobre o processo eleitoral (proibindo assim as suas doações para as campanhas eleitorais), b) reduza as distorções que mantém certas populações sub-representadas nos processos decisórios e c) avance nos mecanismos de participação direta na democracia.</p></p>
+<p><p style="text-align: justify;">7. A disposição em promover tal Reforma Política ficou clara com o apoio ao “Plebiscito Popular por uma Constituinte Exclusiva e Soberana do Sistema Político” que colheu votos de 1º a 7 de setembro em todo o país e já aponta para um novo cenário na luta dos movimentos sociais nos próximos períodos, onde se quer mais participação social nas decisões sobre a Reforma Política.</p></p>
+<p><p style="text-align: justify;">8. Por tudo isso, os médicos e médicas abaixo assinados apoiam a reeleição da presidenta Dilma Rousseff, que hoje representa o projeto nacional que vem transformando o Brasil!</p></p>
+{% endraw %}

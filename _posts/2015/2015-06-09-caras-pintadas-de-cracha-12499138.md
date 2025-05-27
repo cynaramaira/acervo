@@ -1,0 +1,28 @@
+---
+id: 12499138
+date: "2015-06-09T12:16:43Z"
+last_modified_at: null
+tags:
+  - "mascaras"
+categories:
+  - "opiniao"
+title: "Caras-pintadas de crach\u00e1"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p class="western" style="text-align: justify;" align="JUSTIFY"><em><span style="font-size: medium;">Por Terezinha Nunes, especial para o <strong>Blog</strong></span></em></p></p>
+<p><p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-size: medium;">Na esteira dos cortes relativos ao ajuste fiscal, o Governo Federal impôs, este ano, um duro golpe aos estudantes universitários brasileiros, reduzindo em 50% as verbas destinadas ao programa de financiamento do ensino superior - Fies - uma das bandeiras do PT cantada e decantada na campanha de 2014 pela então candidata Dilma Rousseff.</span></p></p>
+<p><p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-size: medium;">Dos R$ 4,8 bilhões de novos empréstimos realizados em 2014, foram destinados para o mesmo programa em 2015 somente R$ 2,5 bilhões. O pior é que os alunos passaram mais de um mês queimando as pestanas à frente do computador para tentar se inscrever no Fies porque o Governo não foi claro sobre o volume dos cortes. A maioria perdeu tempo e paciência quando os recursos já não mais existiam.</span></p></p>
+<p><p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-size: medium;">O que causou mais perplexidade na sociedade foi a ausência de protestos do movimento estudantil que, contando com a insubordinação natural dos jovens, organizou manifestações gigantescas para enfrentar a ditadura nos anos 60 e 70, foi fundamental no movimento das Diretas Já e, nas ruas, engrossou o caldo pelo impeachment dos ex-presidente Collor com o surgimento dos caras-pintadas, assim batizados por ostentarem na face símbolos pintados nas cores da bandeira brasileira.</span></p></p>
+<p><p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-size: medium;">O movimento estudantil brasileiro, capitaneado a partir de 1939 pela União Nacional dos Estudantes (UNE) criada após um congresso estudantil, está encravado na história do nosso país desde 1710 quando, segundo historiadores, milhares de estudantes de conventos e escolas católicas expulsaram do Rio de Janeiro mais de mil soldados franceses que invadiram a cidade. </span></p></p>
+<p><p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-size: medium;">De lá para cá os estudantes sempre estiveram na linha frente da resistência democrática. Resistiram ao golpe de 1930 e na 2.a Guerra pressionaram o presidente Getúlio Vargas a se colocar contrário aos países do Eixo. Em 1942 os estudantes invadiram a sede do clube Germânia, no Rio, dominado por nazifascistas, conseguindo sua desapropriação para a instalação da primeira sede da UNE. Em 1952 a UNE foi fundamental na campanha nacional pela monopolização da extração de Petróleo. </span></p></p>
+<p><p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-size: medium;">O que estaria acontecendo para o silêncio da UNE diante dos cortes no Fies e no próprio orçamento das Universidades?</span></p></p>
+<p><p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-size: medium;">Não é difícil de descobrir. Este final de semana, a estudante universitária Carina Vitral foi eleita presidente da UNE, no congresso em Goiás, celebrando 12 anos de dominação da entidade pelo PCdoB, um dos partidos aliados ao PT.</span></p></p>
+<p><p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-size: medium;">A instrumentalização da UNE não fica apenas por aí. Além da ausência da entidade das ruas desde que o PT assumiu o poder, há, de norte a sul do país, denúncias de cooptação dos dirigentes pelo Governo Federal. Hoje, por exemplo, acontece uma coisa impensável na época dos bons anos da insubordinada UNE: as entidades estudantis dominam a confecção de carteiras de estudante ficando com parte da renda obtida na operação, o que acaba por vincular o movimento aos governos dos quais depende para celebrar convênios.</span></p></p>
+<p><p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-size: medium;">O jornalista Josias de Souza, da Folha de São Paulo, afirma que nos governos Lula e Dilma a UNE recebeu R$ 57 milhões do Governo Federal, se comprometendo a usar parte dos recursos na nova sede, um prédio que, na verdade, está sendo feito com base em acordo com a iniciativa privada que vai explorar parte dele através de espaço comercial. Tanta proximidade com o poder – político e econômico - impede a entidade de ir à frente.</span></p></p>
+<p><p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-size: medium;">Orgulho da juventude brasileira de outrora, UNE não é mais a mesma. Segundo o pesquisador Marcos Ribeiro de Mesquita que fez pesquisa sobre o assunto os estudantes não mais se interessam por ela e consideram, em resumo, que a entidade está “burocratizada, centralizadora, partidarizada e ultrapassada”.</span></p></p>
+<p><p class="western" style="text-align: justify;" align="JUSTIFY"><span style="font-size: medium;">Pelo andar da carruagem, foi-se mais um pilar de resistência da sociedade civil brasileira. Os caras-pintadas de outrora hoje escondem o rosto.</span></p></p>
+{% endraw %}

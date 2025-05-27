@@ -1,0 +1,45 @@
+---
+id: 12505004
+date: "2015-10-06T17:16:41Z"
+last_modified_at: null
+tags:
+  - "defesa"
+  - "governo"
+  - "humberto-costa"
+  - "mozart-neves"
+categories:
+  - "noticias"
+title: "A\u00e9cio Neves sai em defesa do TCU e diz que AGU hoje s\u00f3 defende ilegalidades. Humberto defende governo"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/10/lider.jpg"
+---
+{% raw %}
+<p>No último domingo, três ministros do governo Dilma – Luís Inácio Adams (AGU), José Eduardo Cardozo (Justiça) e Nelson Barbosa (Planejamento) – anunciaram que o governo pediria o afastamento de Augusto Nardes, relator do processo na Corte, alegando antecipação de voto, entre outros argumentos. O pedido foi apresentado na segunda ao TCU.</p>
+<p>Nesta terça-feira, um dia depois de os aliados de Dilma terem atacado o ministro do TCU Augusto Nardes, que cuida das contas de 2014,  os presidentes e líderes dos principais partidos de oposição fizeram uma visita ao Tribunal de Contas da União. Eles disseram que se tratava de uma defesa do órão e que vem sendo atacado de forma vil e até mesmo grosseira pelo poder Executivo. Além de Aécio, parlamentares do DEM, do PSDB, do PPS e do Solidariedade participaram da reunião.</p>
+<p>“O que estamos assistindo é uma tentativa de intimidação de uma corte que tem uma função constitucional e, entre elas, a de julgar as contas da presidente da República. Na ausência de argumentos técnicos aceitáveis, o governo parte para a intimidação", declarou o presidente do PSDB, Aécio Neves, antes de bater duro na AGU.</p>
+<p>"Estamos assistindo talvez à mais triste página na história da Advocacia-Geral da União. O advogado-geral da União deve tradicionalmente aconselhar o presidente da República para que os seus atos tenham a garantia da legalidade. O que estamos assistindo é o advogado-geral da União defender, de forma permanente e reiterada, ilegalidades. Portanto, não viemos aqui interferir no mérito da decisão que deverá ser tomada, mas apenas garantir que o Tribunal de Contas possa fazer aquilo que faz com que a sua existência se justifique: atuar com independência, com isenção, com base em pareceres técnicos”, criticou Aécio Neves.</p>
+<p>“O Tribunal de Contas amanhã fará o julgamento das contas da presidente da República e a lei no Brasil é para ser cumprida por todos, em especial por quem deveria dar o exemplo que é a presidente da República. Se ilegalidades foram cometidas, e o Tribunal é quem vai dizer isso, aqueles que a cometeram têm de responder por elas”, observou.</p>
+<p>Aécio Neves disse que o papel da oposição é blindar as instituições. Seja o Tribunal de Contas, seja o Tribunal Superior Eleitoral.</p>
+<p>“Nós, da oposição, não vamos definir qual será o desfecho dessa crise, mas o nosso papel é garantir que as nossas instituições funcionem na sua plenitude, que ajam com independência, que ajam com a coragem que têm agido até agora. Esse governo do PT não satisfeito em destruir a economia do país, não satisfeito em mergulhar-nos em uma das mais graves crises sociais da nossa história contemporânea, com inflação, com desemprego em alto, com juros escorchantes. Não satisfeito em gerar a maior crise moral também da nossa história republicana com o assalto às nossas principais empresas, agora pretende solapar as nossas instituições com as ameaças que faz ao Tribunal de Contas. Não permitiremos que isso ocorra”.</p>
+<p>A possibilidade de o governo recorrer ao Supremo para impedir o julgamento também foi criticada pela oposição.</p>
+<p>“Esse recurso já é uma confissão pública de derrota. E contra fatos não existem argumentos que não sejam outros fatos. O governo não teve argumentos para se contrapor aos pareceres técnicos do Tribunal de Contas e, por isso, apela. Como disse ontem, parece funcionar como um time de futebol que está vendo que vai perder de goleada e para o jogo e pede para trocar o juiz. Felizmente no Brasil as nossas instituições funcionam. E viemos aqui para dizer ao Tribunal de Contas da nossa solidariedade e que não aceitaremos essas tentativas de intimidação do governo.”</p>
+<p>Em 2014, o governo petista intensificou as chamadas “pedaladas fiscais”, que consistem nos atrasos propositais do Tesouro Nacional no repasse de recursos aos bancos públicos, que foram forçados a usar recursos próprios para continuar pagando em dia programas sociais obrigatórios. As estimativas indicam que as “pedaladas” somaram R$ 40 bilhões.</p>
+<p>Jogo político no TCU?</p>
+<p>O líder do PT no Senado, Humberto Costa (PE), subiu à tribuna do Parlamento nesta terça-feira (6) para defender a iniciativa da Advocacia-Geral da União (AGU) de apontar a suspeição do ministro relator das contas, Augusto Nardes. Ele disse que o jogo político não pode contaminar TCU. A tese da AGU é de que o Tribunal estaria politizando o julgamento que é técnico.</p>
+<p>“O TCU deve julgar as contas da Presidência da República de 2014 nesta quarta-feira (7) de forma independente e imparcial, a fim de preservar-se como instituição e garantir a própria credibilidade e o próprio respeito.</p>
+<p>O ministro Nardes foi apresentado como ex-deputado do PP e acusado de ter declarado publicamente que votará pela rejeição das contas. De acordo com Humberto Costa, o Governo Dilma demonstrou, com provas robustas em mais de duas mil páginas de documentação entregue ao TCU ontem, a falta de isenção do ministro Nardes para relatar o processo.</p>
+<p>“Ora, como pode um julgador, de quem se exige isenção e imparcialidade, antecipar posicionamento sobre um caso de sua competência e fazer isso antes mesmo de estar de posse de todas as peças que deveriam integrar aquele processo?”, questiona.</p>
+<p>O senador avalia que, se um julgador já recebe um processo com posicionamento firmado, ele despreza provas, desconhece argumentos e ignora todas as contrarrazões apresentadas porque está movido por um convencimento formado anteriormente, “não se sabe onde e à custa de quê”.</p>
+<p>“A análise do TCU é um procedimento relevante, mas que deve ser absolutamente rotineiro na dinâmica republicana, e não uma oportunidade de golpe em meio a uma desprezível e mesquinha batalha política movida pela oposição".</p>
+<p>“Desde que perdeu a eleição, a oposição neste país vem procurando, de todas as formas, impor um cerco aos órgãos julgadores, pressionando magistrados e, por vezes, ela mesma sentenciando e condenando o governo da presidenta Dilma Rousseff sem qualquer decisão exarada nesse sentido”, declarou.</p>
+<p>O parlamentar disse que dois artigos vedam aos ministros do TCU manifestarem, por qualquer meio de comunicação, opinião sobre processo pendente de julgamento. O artigo 39, do próprio regimento interno do TCU, em seu inciso VII; e o artigo 36, inciso III, da Lei Orgânica da Magistratura Nacional, à qual os ministros do TCU também estão subordinados.</p>
+<p>“As manifestações reiteradas e prévias de Nardes escancaram um interesse por determinado resultado, denotam uma militância política e exercem uma pressão sobre os demais ministros para que sigam essa mesma linha”.</p>
+<p>“O TCU, que é órgão de auxílio do Congresso Nacional, deve ser maior do que as paixões políticas e preservar-se como instituição para garantir a própria credibilidade e o próprio respeito”, afirma.</p>
+<p>“Seria muito ruim que, dando cobertura a um comportamento inadequado, o TCU venha a ter uma decisão sua contestada no Judiciário por ter amparado um julgamento viciado”, observa, adiantando que o Governo pode recorrer ao Supremo Tribunal Federal (STF) questionando o vício no julgamento.</p>
+<p>Segundo Humberto, os demais ministros do TCU ainda têm a oportunidade de corrigir o erro em bem da própria instituição, se quiserem que o órgão sobreviva sem essa mácula.</p>
+<p>“O reconhecimento da suspeição é um instrumento de força institucional. Esperamos que o TCU faça um julgamento de forma independente e imparcial”, concluiu.</p>
+<p>Aécio Neves, nesta terça, já havia rebatido que a presença da oposição no TCU politiza um julgamento que é técnico.</p>
+<p>“A politização veio exatamente do governo federal, da AGU. O advogado-geral há muito deixou de ser advogado-geral para ser um assessor político da presidente da República, inclusive atacando a oposição. O que estamos fazendo aqui hoje é defendendo o Tribunal de Contas contra uma ação política escancarada do governo federal e de seus ministros”, disse. “O que assistimos neste último domingo é um acinte. Ministros se reunindo para ameaçar não apenas o relator, mas o Tribunal de Contas. Esse parecer já é público há muito tempo, o governo já o conhece há muito tempo. No Senado Federal já tivemos oportunidade de, com a presença de representantes do Tribunal, debater essa questão. Não há novidade para ninguém. O que estamos fazendo aqui é defender o Tribunal de Contas, a sua autonomia e a sua independência”.</p>
+{% endraw %}

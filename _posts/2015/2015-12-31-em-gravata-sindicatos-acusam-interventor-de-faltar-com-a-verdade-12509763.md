@@ -1,0 +1,29 @@
+---
+id: 12509763
+date: "2015-12-31T11:51:59Z"
+last_modified_at: null
+tags:
+  - "gravata"
+  - "sindicatos"
+categories:
+  - "noticias"
+title: "Em Gravat\u00e1, sindicatos acusam interventor de \"faltar com a verdade\""
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p>Sindicatos de Gravatá, no Agreste, repudiaram, por meio de nota, a acusação da Prefeitura do município de que os <a href="https://blogs.ne10.uol.com.br/jamildo/2015/12/29/em-gravata-interventor-da-puxao-de-orelha-em-sindicalistas-e-reclama-de-rinha-politica/" target="_blank">representantes sindicais não demonstraram interesse de ter acesso às informações da situação financeira da cidade em reunião na última segunda-feira (28)</a>.</p>
+<p>Os sindicatos alegam que não foram informados pelo interventor, coronel Mário Cavalcanti, sobre a reunião e que ele teria "faltado com a verdade" ao declarar em uma rádio local que os servidores não tinham interesse no assunto.</p>
+<p>A nota também rebate a afirmação de que “os diretores dos referidos sindicatos têm demonstrado mais interesse em aparecer na mídia”. "Não precisamos ficar tirando foto carregando lixo, tampando buraco com pá de areia, colocando veneno para o combate à dengue e nem descarregando caminhão com remédios", diz.</p>
+<p><strong>Confira na íntegra:</strong></p>
+<p>Nota de esclarecimento a Imprensa</p>
+<p>O Sindicato dos Professores Municipais de Gravatá - SIPROG, o Sindicato dos Servidores Públicos Municipais de Gravatá – SINDSGRA, as Associações dos Agentes Comunitários de Saúde - AMACS e dos Agentes de Combate às Endemias - AMACEG, tornam público que: não foram informados pelo Interventor Mario Cavalcanti de Albuquerque e nem pelo seu Secretário de Governo e Comunicação, Arthur Cunha, sobre nenhuma reunião na segunda-feira (28) com a Gestão. O que houve foi um convite realizado na segunda, pela manhã, pelo Secretário do Secretario de Governo e Comunicação, Sr. Roberto, para uma conversa informal (na qual não houve nem Ata para documentação do diálogo).</p>
+<p>O Sr. Roberto iniciou a conversa, justificando a ausência do Interventor e do Secretário de Governo e Comunicação. Em seguida, ele leu informações apresentadas pelo Secretário de Administração, disponíveis no Blog no Jamildo, sobre a situação herdada da gestão anterior. Os representantes dos servidores públicos questionaram sobre o porquê da atual Gestão, até o presente momento, não ter apresentado um Relatório da Análise Financeira do Município ou outras documentações que comprovem as condições em que se encontra o município assumido pelo Interventor. Então, o Sr. Roberto propôs que nos reuníssemos com um Secretário da Secretaria de Finanças, o qual ele não soube informar o nome e nem a sua função. Contudo, pedimos que fosse agendada uma reunião com os secretários aptos e com o interventor para nos responder, com propriedade, se possível ainda para o dia 30, quando teremos novas informações sobre os repasses federais.</p>
+<p>Afirmamos ainda que o interventor faltou com a verdade, quando em entrevista no Programa Jota Silva, da Rádio Gravatá FM, no dia 29/12/2015 e através da Nota à Imprensa, também no dia 29/12/2015, declarou que os representantes dos servidores não tinham interesse de ter acesso às informações financeiras da Prefeitura. Foi prometido que este relatório seria entregue a população no dia 30 de novembro de 2015 pelo Interventor e sua equipe, o que não ocorreu até o presente momento. Temos Ata assinada pela Gestão e pelas Representações Sindicais, datada do dia 16 de dezembro de 2015, na qual, encontra-se a solicitação da cópia do Relatório da Análise Financeira do Município.</p>
+<p>Nós não trabalhamos com “informações de bastidores” (mexericos e maledicências) e quanto ao suposto “aparelhamento das manifestações por parte das forças políticas da cidade”, declaramos nosso repúdio a essa mentira. Nossas mobilizações são movidas pelo suor e luta dos servidores conscientes de seus direitos! Com relação ao trecho da nota que diz que “os diretores dos referidos sindicatos têm demonstrado mais interesse em aparecer na mídia”, elucidamos que fazemos apenas o nosso trabalho, por isso fomos procurados pelas mídias. Não precisamos ficar tirando foto carregando lixo, tampando buraco com pá de areia, colocando veneno para o combate à dengue e nem descarregando caminhão com remédios.</p>
+<p>Ainda quanto ao trecho do texto que diz que não pretendemos "discutir caminhos para melhorar a qualidade de vida do povo gravataense”, informamos que durante este período de intervenção, já denunciamos que: as instalações do prédio do hospital da cidade e os lençóis utilizados, contendo resíduos de fezes, sangue e outros excrementos estavam sendo higienizados apenas com água e sabão, não tendo a devida assepsia, podendo haver sérias contaminações. Além disso, denunciamos o fechamento de 11 escolas da zona rural do município. Já acionamos o Conselho Municipal de Educação - COMEG e nos reunimos com os pais e associações de moradores de algumas das comunidades que também não aceitam essa Política de Fechamento de Escolas.</p>
+<p>Esclarecemos também que, em nenhum momento, nos negamos ao diálogo e as negociações! Por duas vezes, o interventor, Mario Cavalcanti de Albuquerque, agendou reunião conosco e não compareceu. É de nosso interesse tentar encontrar caminhos para a resolução dos problemas que tanto afetam a qualidade do serviço público oferecido à população gravataense, já que somos prestadores de serviços e também grande parte de seus usuários.</p>
+<p>SIPROG, SINDSGRA, AMACS e AMACEG</p>
+{% endraw %}

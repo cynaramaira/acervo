@@ -1,0 +1,34 @@
+---
+id: 12495676
+date: "2015-03-22T19:33:24Z"
+last_modified_at: null
+tags:
+  - "eleicoes"
+  - "lava-jato"
+categories:
+  - "noticias"
+title: "Lava Jato reduzir\u00e1 custo das elei\u00e7\u00f5es j\u00e1 em 2016"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p style="text-align: justify;"><em>Por Fernando Castilho, do Jornal do Commercio</em></p></p>
+<p><p style="text-align: justify;">No país onde a filantropia é vista com descrença e onde o filantropo é associado a alguém que tem outras intenções (ou é um pervertido que se esconde de alguma coisa feita no passado), a doação para as campanhas eleitorais virou crime investigado na Operação Lava Jato e, em breve, será atestado de inidoneidade.</p>
+<p>A bem da verdade, esse tema deve permear o debate nos próximos meses sobre a tese de se pode, ou não, uma empresa fazer doação para uma campanha eleitoral. Especialmente se ela é, de alguma forma, beneficiária de algum tipo de incentivo fiscal ou contrato como governo. Isso, como se sabe, vai de encontro à tese do Partido dos Trabalhadores para quem o Estado é quem deve financiar o debate eleitoral, alias, de acordo com seu programa de esquerda que põe em relevância a presença do Estado em tudo o que diz respeito à benéficos sociais e à própria sociedade brasileira.</p>
+<p>O problema é que nos últimos anos doação de campanha virou um negócio. A figura do tesoureiro, aquele cara que portava uma mala preta e ia de empresa em empresa se valendo de seus contatos, e de todos os que apoiavam o candidato, virou suspeita chefe de organização criminosa. Porque agora doação de campanha virou pagamento de propina.</p></p>
+<p><p style="text-align: justify;">O curioso desse novo quadro revelado ao país pelo Ministério Público, na Operação Lava Jato, é que ele vai implodir já nas próximas eleições o formato atual, independentemente de se mudar ou não a forma de financiamento de campanha.</p></p>
+<p><p style="text-align: justify;">Primeiro, porque sendo pagamento de propina e cessando a motivação desse pagamento pela inexistência ou redução de contratos (especialmente das empreiteiras acusadas, não tem por que as empresas doarem valores tão expressivos. Segundo porque o simples gesto de doar legalmente agora significa levantar um mundo de suspeita de que existe algum interesse não republicano especialmente em relação ao público, o mercado e aos seus clientes.</p></p>
+<p><p style="text-align: justify;">Essa perspectiva, inclusive, é a que norteia a defesa dos parlamentares envolvidos de que receber doação de empresa não é crime eleitoral. E que o que todos receberam foi doação de campanha e não pagamento de propina. Subentenda-se aí que o que o candidato pediu foi uma doação de dinheiro limpo, mas se o que recebeu foi dinheiro sujo, o nobre parlamentar não tinha como saber.</p></p>
+<p><p style="text-align: justify;">Essa tese não vai colar. Como se sabe, os promotores vão usar a mesma linha de acusação que é feita contra o ladrão comum. Aquele que vende o produto do roubo por preço baixo a alguém que o compra sabendo do que se trata. Para a Justiça, os dois cometem crime e pronto.</p></p>
+<p><p style="text-align: justify;">Isso quer dizer que doação de campanha por CNPJ micou. Virou coisa feia, que as empresas não vão querer mais se envolver sob pena de ficarem sujas, especialmente, nas redes sociais e na mídia. Já nas próximas eleições, empresas de governança corporativa mais exigente e que (em tese) não tem Caixa 2 também não se animarão a fazer doações. Exatamente com esse argumento.</p></p>
+<p><p style="text-align: justify;">Isso quer dizer que vai sobrar apenas a perspectiva de doação via Caixa 2, das empresas sem governança e os tradicionais sistemas de simulação de prestação de serviços aqueles aonde uma empresa inclui, nas suas despesas, a prestação de serviços que, de fato, estão sendo prestados aos candidatos e aos partidos.</p></p>
+<p><p style="text-align: justify;">O problema que depois de anos num crescendo fazer campanha ficou caro e sofisticado. A bem da verdade virou um show de TV e de pagamento de compra de voto em dinheiro, seja via cabo eleitoral seja via deputado e prefeito que contrata cabo eleitoral.  Uma consulta simples no site (www.asclaras.org.br) mostra quem, em 2014, computando-se apenas as empresas e pessoas físicas que doaram valores superiores acima de R$ 1 milhão, observa-se que foram doados R$ 569.974.021,35 e que, desse valor, R$ 189.239.480,15 foram pagos por empresa do setor da construção. E ainda que apenas 17, de uma lista de 120 doadores, foram pessoas físicas.</p></p>
+<p><p style="text-align: justify;">O custo total das eleições, segundo o TSE, foi de aproximadamente R$ 73,9 bilhões. Há quatro anos, foi de R$ 48,4 bilhões. O que significa dizer que as eleições no Brasil ficaram absurdamente caras. Mesmo se computando apenas os custos oficiais. Não dava para sustentar isso sem o esquema que o Petrolão alimentou. Porque ficou caro demais, complicado demais e “democrático” (em termos de pessoas envolvidas) demais. Para as empresas virou um custo fixo que precisou ser incluído no preço de obra pública.</p></p>
+<p><p style="text-align: justify;">Talvez por isso a Operação Lava a Jato possa, antes mesmo da condenação dos culpados, ter um efeito asséptico. De limpar um pouco a sujeira já em 2016. Não quer dizer que vamos ter eleições limpas. Nem de longe. Mas haverá mais cuidado com a geração de odores e chorumes.</p></p>
+<p><p style="text-align: justify;">Ilusão republicana? Pode ser. Mas ao longo da história política do Brasil, foram as revelações dos escândalos pela Imprensa quem mais contribuíram para a fiscalização do cidadão contribuinte.</p></p>
+<p><p style="text-align: justify;">Na década de 70 a divulgação do Escândalo das Mordomias, pelo jornal do Estado de S. Paulo, fez o govnero federal rever todo do procedimento de despesa com as residências dos ministérios aonde se gastava até 2 mil quilos por mês de macarrão.</p></p>
+<p><p style="text-align: justify;">Certo, no governo Lula e Dilma, inventaram o Cartão Corporativo Estatal, mas despertou a consciência de fiscalizar. Vai parar a roubalheira na campanha? Mas a prisão de empresários e, em breve dos políticos, vai ajudar muito nessa direção. Não resolve, mas fará a gente ficar de olho. Especialmente nas empresas que depois de tudo isso manifestarem um desejo muito</p>
+<p>grande de “contribuir” com as campanhas e ainda colocar esse dinheiro nas suas declarações do TSE. Ainda que possam faze-lo pela via do Caixa 2. Mas aí o crime já será outro que diz respeito à Receita Federal.</p></p>
+{% endraw %}
