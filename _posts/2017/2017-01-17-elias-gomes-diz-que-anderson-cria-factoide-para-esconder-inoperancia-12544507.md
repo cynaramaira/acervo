@@ -1,0 +1,30 @@
+---
+id: 12544507
+date: "2017-01-17T14:31:35Z"
+last_modified_at: null
+tags:
+  - "anderson-silva"
+  - "ciro-gomes"
+categories:
+  - "noticias"
+title: "Elias Gomes diz que Anderson cria \"factoide para esconder inoper\u00e2ncia\""
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/12/elias-gomes.jpg"
+---
+{% raw %}
+<p><p>Após o atual prefeito de Jaboatão dos Guararapes, Anderson Ferreira (PR), anunciar que o antecessor, Elias Gomes (PSDB), deixou rombo de mais de R$ 84 milhões na gestão, o tucano rebateu em nota publicada na sua página no Facebook. Elias afirmou que a dívida é de restos a pagar de ações como a construção de escolas e a reforma de unidades de saúde e que está prevista na Lei de Responsabilidade Fiscal. O ex-prefeito ainda frisou que a arrecadação aumentou 4,5% no ano passado em relação a 2015, o que representa R$ 91 milhões, e que deixou em caixa R$ 29 milhões de convênios com ministérios.</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/17/anderson-ferreira-divulga-rombo-de-mais-de-r-84-milhoes-nos-cofres-da-prefeitura-do-jaboatao-dos-guararapes/">Anderson Ferreira divulga rombo de mais de R$ 84 milhões nos cofres da Prefeitura do Jaboatão dos Guararapes</a></p></p>
+<p><p>» <strong>Leia a íntegra da nota de Elias Gomes:</strong></p></p>
+<p><p><em>"O atual prefeito de Jaboatão está sem norte e, ao invés de dizer a que veio, está na defensiva procurando criar factoides para esconder sua inoperância, de quem há quase vinte dias não apresentou nada novo a não ser o relançamento da velha política. Esta iniciativa do gestor é desprovida de qualquer razão, até porque não existe no País nenhuma prefeitura com dívida zero. A dívida citada é referente ao andamento de ações que não podem parar com a troca do comando da administração, a exemplo da construção de escolas, reforma de Unidades de Saúde da Família (USF), pavimentação e manutenção das ruas, entre outros.</em></p></p>
+<p><p><em>Ao contrário da imagem o que o atual gestor quer passar, ele não recebeu a prefeitura de Jaboatão como terra arrasada. Ele está recebendo uma prefeitura organizada, planejada e com ferramentas de gestão que nenhuma outra em Pernambuco dispõe. A rigor, o que ficou para ser pago na prefeitura não se constitui em uma dívida propriamente dita, mas restos a pagar previsto na Lei de Responsabilidade Fiscal, a qual foi cumprida integralmente pela gestão do ex-prefeito Elias Gomes. Além disso, o sistema de arrecadação da cidade não parou, inclusive, em 2016, o governo do prefeito Elias Gomes arrecadou R$ 91 milhões a mais do que em 2015, o que representa um incremento de 4,5%. Portanto, o que falta à atual gestão é começar verdadeiramente a trabalhar e colocar a gestão para funcionar.</em></p></p>
+<p><p><em>O senhor prefeito, quando assim procede, demonstra ou desconhecimento do que é finanças públicas, ou ignora a Lei de Responsabilidade Fiscal - que, apesar da forte crise que que assola o País, conseguimos cumprir -, ou age de má fé com intuito mesquinho de desconstruir reputações, ignorando o legado que deixamos, o qual foi reconhecido por órgãos de controle como o Tribunal de Contas do Estado, TCU e outros órgãos federais com os quais mantivemos convênios, com os quais executamos e prestamos contas rigorosamente, mantendo sempre o município em dia com suas certidões, tirando a cidade da condição de "ficha suja que ostentava no passado, para um município ficha limpa”.</em></p></p>
+<p><p><em>A reputação do município é bem vista até em organismos internacionais de avaliação e crédito como são os casos da Delta Ranking, que avaliou os 100 maiores municípios brasileiros nas áreas de Planejamento, Gestão e Finanças e nos concedeu nota máxima. Dentre eles, também, a Caixa de Fomento da América Latina (CAF) que mediante a nossa excelente capacidade de endividamento, está concedendo ao município um empréstimo de U$ 52 milhões de dólares, o que corresponde a algo em torno de R$ 250 milhões para realizar obras com projetos já elaborados e aprovados em diversas áreas do município como a pavimentação de ruas e construção do parque linear da orla. Se o município estivesse falido, teria o Tesouro Nacional avalizado a contratação financiamento internacional?</em></p></p>
+<p><p><em>Além disso, o ex-prefeito Elias Gomes ao repassar o cargo também deixou mais de R$ 100 milhões em convênios contratados com os ministérios. E não podemos esquecer de frisar que R$ 29.985.537,67 foram deixados em caixa para o atual gestor referentes a convênios.</em></p></p>
+<p><p><em>Ao término da gestão do prefeito Elias Gomes, nenhuma folha salarial atrasada foi deixada para a atual gestão. Folha, essa, que estava dentro do limite constitucional previsto, com 47% de comprometimento. Ainda sobre pagamentos dos servidores, é importante ressaltar que o governo Elias pagou o adiantamento das férias dos professores, os quais desfrutam neste mês de janeiro.</em></p></p>
+<p><p><em>Este, sim, é o outro lado verdadeiro e real da moeda!</em></p></p>
+<p><p><em>O senhor atual prefeito, que não tem projeto nem para iniciar quanto menos para tocar a cidade, parece-nos como quem fala uma coisa e pratica outra. Se o endividamento fosse relevante e tivéssemos sido incapazes na gestão financeira, como se justifica que ele tenha convidado e tenha mantido 100% dos integrantes da Secretaria Executiva da Fazenda? Das duas uma: ou a equipe acertou e as finanças estão equilibradas, e neste caso ele está passando ao largo da verdade, para não dizer mentindo, ou ele está fazendo gestão temerária ao nomear uma equipe que levou o município à dívida que ele tanto reclama e, neste caso, agindo com total irresponsabilidade e sendo inconsequente.</em></p></p>
+<p><p><em>Finalmente, entendemos que o povo de Jaboatão espera do seu prefeito eleito que ele cuide de administrar, desmonte o palanque e arregace as mangas para retribuir os votos recebidos, pois, o que a população quer é ação e não o blá blá blá dos que miram a politicagem em lugar do trabalho."</em></p></p>
+{% endraw %}

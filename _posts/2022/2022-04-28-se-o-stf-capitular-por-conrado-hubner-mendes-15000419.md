@@ -1,0 +1,33 @@
+---
+id: 15000419
+date: "2022-04-28T17:16:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "stf"
+  - "opiniao"
+categories:
+  - "sem-categoria"
+title: "Se o STF capitular. Por Conrado H\u00fcbner Mendes"
+sutia: "Para articulista, a ren\u00fancia de autoridade vai liberar de vez o bolsonarista da esquina"
+chapeu: "Opini\u00e3o/Quest\u00e3o jur\u00eddica"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/01/20/43923664461_891b83b761_o-20474440.jpg"
+---
+{% raw %}
+<p>Por&nbsp;Conrado H&uuml;bner Mendes, na Folha de S&atilde;o Paulo</p>
+<p>Juiz morre pela boca. E o Judici&aacute;rio morre pela boca do juiz. Seria bom para a democracia brasileira se ministros do STF n&atilde;o sa&iacute;ssem por a&iacute; tecendo avalia&ccedil;&otilde;es de conjuntura aos microfones de jornalistas, em salas de confer&ecirc;ncia ou eventos privados em bancos e resorts. Antecipando ju&iacute;zos, louvando reformas, criticando colegas, mandando recados, fazendo previs&otilde;es, passando vergonha.</p>
+<p>N&atilde;o s&oacute; porque as avalia&ccedil;&otilde;es se mostram, em geral, diletantes e autointeressadas. Mas porque n&atilde;o cabem no compromisso institucional que assumiram. Nem nos rituais de preserva&ccedil;&atilde;o dessa mat&eacute;ria-prima delicada da qual se constitui a autoridade do juiz. S&atilde;o falas anti-institucionais que configuram conduta judicial impr&oacute;pria.</p>
+<p>Ju&iacute;zes constitucionais de democracias pelo mundo praticam essa m&aacute;xima universal da &eacute;tica judicial. As cortes ganham. Da Alemanha aos Estados Unidos, da &Iacute;ndia &agrave; &Aacute;frica do Sul. No STF, Rosa Weber e Edson Fachin d&atilde;o exemplo, mas s&atilde;o vencidos pelos contraexemplos.</p>
+<p>Gilmar Mendes concedeu fascinante entrevista &agrave; jornalista Daniela Pinheiro, no UOL, dias atr&aacute;s. Disse que n&atilde;o vai ter golpe. Porque n&atilde;o. Explicou que os problemas do Brasil se devem &agrave; Lava Jato, chamada de "totalit&aacute;ria". J&aacute; Bolsonaro "beira o autoritarismo". Teria restado a ele, Gilmar, beirar o super-hero&iacute;smo que fulminou a Lava Jato quando n&atilde;o mais lhe servia, pariu Augusto Aras e o lava-jatismo invertido apoiado pela advocacia progressista (por autodeclara&ccedil;&atilde;o).</p>
+<p>Logo ele, lava-jatista raiz de primeira e segunda hora, autor do ato mais lava-jatista da hist&oacute;ria por liminar monocr&aacute;tica pr&eacute;-feriado usufru&iacute;do em Lisboa, onde coordenou confer&ecirc;ncia lava-jatista organizada por sua empresa educacional na presen&ccedil;a de lideran&ccedil;as partid&aacute;rias do pa&iacute;s. O ato mais lava-jatista da hist&oacute;ria (a invalida&ccedil;&atilde;o-rel&acirc;mpago da nomea&ccedil;&atilde;o de Lula como ministro de Estado, com base em doutrina jur&iacute;dica de um caso s&oacute;) nunca foi revisto pelo STF.</p>
+<p>Lu&iacute;s Roberto Barroso deixou escorregar declara&ccedil;&atilde;o desabonadora sobre militares numa confer&ecirc;ncia de universidade alem&atilde;. Disse que militares est&atilde;o "orientados a atacar as elei&ccedil;&otilde;es". Nem sequer admitiu a voca&ccedil;&atilde;o autorit&aacute;ria de milicos. Foram "orientados" por um mandante, n&atilde;o por ag&ecirc;ncia pr&oacute;pria. O lapso bem comportado bastou para o contra-ataque. Barroso est&aacute; sendo acusado de crime militar.</p>
+<p>Logo ele, que h&aacute; anos os elogia. J&aacute; afirmou que militares, apesar de nunca punidos por crimes contra a humanidade, pagaram pre&ccedil;o alto demais pela ditadura. Num governo ocupado por mais de 6.000 militares, recusou-se a enxerg&aacute;-los no "varejo da pol&iacute;tica".</p>
+<p>Colocou militar no TSE, pois, apesar de sua f&eacute; na resili&ecirc;ncia democr&aacute;tica, n&atilde;o quis pagar para ver. Deu a militares outra arma para provocar desconfian&ccedil;a nas elei&ccedil;&otilde;es.</p>
+<p>A rea&ccedil;&atilde;o de militares integra a coreografia ensaiada do palco bolsonarista, universo onde a "ditadura do STF" (assim como a "ditadura gay") j&aacute; &eacute; fato inconteste. Ali tamb&eacute;m se ordenou a infantaria digital a afirmar equival&ecirc;ncia entre a gra&ccedil;a concedida a Silveira por Bolsonaro e o ref&uacute;gio concedido a Battisti por Lula. Criar equival&ecirc;ncia onde h&aacute; diferen&ccedil;a, e vice-versa, &eacute; m&eacute;todo de onde emergem muitas teses do ilegalismo autorit&aacute;rio.</p>
+<p>H&aacute; muitas maneiras de "fechar" o STF sem fechar o STF. N&atilde;o precisa de um soldado e um cabo, nem invocar o artigo 142 da Constitui&ccedil;&atilde;o, onde milicos decodificaram autoriza&ccedil;&atilde;o para golpe (ou "interven&ccedil;&atilde;o militar constitucional"). Mais f&aacute;cil &eacute; tornar a institui&ccedil;&atilde;o in&oacute;cua e indigna de respeito. Ou faz&ecirc;-la renunciar, voluntariamente, sua autoridade.</p>
+<p>A verborragia incontida de ministros colabora nessa ren&uacute;ncia. Ainda que se deva falar de forma contundente dos riscos que corre o tribunal, a cacofonia individualista n&atilde;o ajuda. N&atilde;o se joga esse jogo sem coordena&ccedil;&atilde;o estrat&eacute;gica entre ministros.</p>
+<p>Enquanto o presidente da Rep&uacute;blica, al&eacute;m de mandar ministros calarem a boca, avisa outra vez que n&atilde;o vai obedecer decis&atilde;o que o contrarie (como no caso do "marco temporal" de terras ind&iacute;genas, da gra&ccedil;a concedida a Silveira etc.), cresce a press&atilde;o sobre o STF para reabrir "vias de comunica&ccedil;&atilde;o com o Planalto", ou, no gloss&aacute;rio de Toffoli (que tamb&eacute;m chama ditadura militar de "movimento"), por "di&aacute;logo".</p>
+<p>O STF tem flertado, desde a presid&ecirc;ncia de Toffoli, seguida por Fux, com a pr&aacute;tica do entreguismo constitucional e da negocia&ccedil;&atilde;o de constitucionalidade. A atitude talvez salve a pr&oacute;pria cabe&ccedil;a de ministros, mas n&atilde;o salva a biografia nem a democracia, nem as vidas &agrave; margem que est&atilde;o na mira da viol&ecirc;ncia bolsonarista. Comecemos por usar as palavras certas, n&atilde;o as diversionistas, para descrever o que vemos.</p>
+<p>O STF precisa de apoio, cautela e clarivid&ecirc;ncia, n&atilde;o de capitula&ccedil;&atilde;o. De colegialidade contra o individualismo obstrucionista e boquirroto. A capitula&ccedil;&atilde;o, afinal, libera de vez o bolsonarista da esquina. Ele n&atilde;o s&oacute; amea&ccedil;a. Ele estupra e mata crian&ccedil;a yanomami, por exemplo.</p>
+{% endraw %}

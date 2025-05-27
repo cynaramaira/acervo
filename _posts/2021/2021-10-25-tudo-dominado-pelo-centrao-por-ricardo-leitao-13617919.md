@@ -1,0 +1,26 @@
+---
+id: 13617919
+date: "2021-10-25T20:42:00Z"
+last_modified_at: null
+tags:
+  - "opiniao"
+categories:
+  - "sem-categoria"
+title: "Tudo dominado pelo Centr\u00e3o. Por Ricardo Leit\u00e3o"
+sutia: "Ministro da Economia perde quebra de bra\u00e7o e agora apoia furo do teto de gastos"
+chapeu: "Opini\u00e3o"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/24/bolsonaro1-19341082.jpg"
+---
+{% raw %}
+<p>Por Ricardo Leit&atilde;o, em artigo enviado ao blog<br /></p>
+<p>Era uma vez um economista brasileiro, doutor pela Universidade de Chicago (EUA), um dos ber&ccedil;os mundiais do liberalismo econ&ocirc;mico, que se destacou por sua capacidade de amealhar milh&otilde;es. Foi banqueiro, empres&aacute;rio na &aacute;rea educacional, professor universit&aacute;rio, grande investidor em a&ccedil;&otilde;es e consultor financeiro. Sua fortuna &eacute; estimada em R$ 1 bilh&atilde;o.</p>
+<p>At&eacute; que um dia, Paulo Guedes, o bilion&aacute;rio liberal de raiz, chegou a Jair Bolsonaro, ent&atilde;o nos preparativos para se lan&ccedil;ar candidato a presidente da Rep&uacute;blica. O futuro ministro deu a Bolsonaro o que ele n&atilde;o tinha: acesso ao empresariado nacional e internacional, a chamada &ldquo;turma do dinheiro grosso&rdquo;. Um interesse comum unia todos: impedir a volta da esquerda ao poder, representada pelo ent&atilde;o candidato do PT &agrave; Presid&ecirc;ncia, Fernando Haddad.</p>
+<p>Bolsonaro venceu, a direita exultou e Guedes assumiu o superminist&eacute;rio da Economia, resultado das fus&otilde;es dos extintos Minist&eacute;rios da Fazenda, Planejamento, e Ind&uacute;stria e Com&eacute;rcio. Tamanha versatilidade lhe valeu o apelido de Posto Ipiranga. Anunciou suas prioridades: redu&ccedil;&atilde;o do papel do Estado; privatiza&ccedil;&otilde;es; reformas administrativa, tribut&aacute;ria e fiscal; investimentos em infraestrutura e combate ao desemprego.</p>
+<p>Na semana passada, as inten&ccedil;&otilde;es liberalizantes do doutor por Chicago sofreram mais um golpe. N&atilde;o bastasse ter fracassado na aprova&ccedil;&atilde;o, pelo Congresso, de todas as reformas estruturais, foi obrigado pela ala pol&iacute;tica do governo a defender o &ldquo;furo do teto&rdquo; dos gastos p&uacute;blicos. Aprovado em maio de 2016, na administra&ccedil;&atilde;o de Michel Temer, o teto de gastos &eacute; uma regra constitucional que limita o aumento da maior parte das despesas federais &agrave; infla&ccedil;&atilde;o do ano anterior.</p>
+<p>A nova regra, em discuss&atilde;o no Congresso, prev&ecirc; uma emenda constitucional que, com base em novo c&aacute;lculo, abrir&aacute; espa&ccedil;o para despesas de R$ 83,6 bilh&otilde;es no Or&ccedil;amento de 2022 &ndash; um ano eleitoral. Os recursos ser&atilde;o utilizados para pagamento mensal de R$ 400,00 a 17 milh&otilde;es de pessoas; financiar emendas parlamentares de deputados federais bolsonaristas e projetos de prefeitos aliados. Em protesto, dois dos principais secret&aacute;rios de Guedes, mais seus adjuntos, pediram demiss&atilde;o. Desde o in&iacute;cio do governo, s&atilde;o 19 os que entregaram os cargos.</p>
+<p>O destino do superministro da Economia no governo &eacute; incerto. Ele est&aacute; perdendo a quebra-de-bra&ccedil;o com o Centr&atilde;o, o ajuntamento mais oportunista do Congresso. N&atilde;o &eacute; direitista, esquerdista ou centrista &ndash; &eacute; radicalmente governista. Apoiou Luiz In&aacute;cio Lula da Silva, Dilma Rousseff e Michel Temer. Em 2018, voltou nos dois turnos no petista Fernando Haddad. Na campanha chamava Bolsonaro de fascista: agora, um de seus l&iacute;deres, o senador Ciro Nogueira, &eacute; o ministro da Casa Civil.</p>
+<p>O Centr&atilde;o controla a base de Bolsonaro no Congresso. Arthur Lira, outra lideran&ccedil;a do ajuntamento, &eacute; o presidente da C&acirc;mara dos Deputados. Entre outros, tem o poder de abrir um dos 164 pedidos de impeachment de Bolsonaro &ndash; assunto reavivado com o relat&oacute;rio final da CPI da Covid. Nogueira e Lira alertaram Sua Excel&ecirc;ncia para o risco de derrota em 2022 caso uma iniciativa de amplo alcance social &ndash; como o Aux&iacute;lio Brasil de R$ 400,00 &ndash; n&atilde;o seja liberado. Paulo Guedes reagiu e perdeu. O Centr&atilde;o agora domina a pol&iacute;tica e a economia, sendo parceiro, nesse &uacute;ltimo campo, dos desenvolvimentistas, que, no minist&eacute;rio, sempre contestaram as tentativas do superministro de conter gastos.</p>
+<p>O desgoverno vai piorar. Dando as cartas na pol&iacute;tica, qual ser&aacute; o jogo do Centr&atilde;o na economia, agora que ganhou o direito de sentar &agrave; mesa? As primeiras rea&ccedil;&otilde;es do mercado financeiro foram muito ruins: d&oacute;lar em alta, Bolsa em queda, mais infla&ccedil;&atilde;o, retirada de investidores estrangeiros. A crise pol&iacute;tica influencia negativamente a economia que, tamb&eacute;m em crise e sem rumo, aprofunda a balb&uacute;rdia pol&iacute;tica.</p>
+<p>A menos de um ano para as elei&ccedil;&otilde;es presidenciais de 2022, com 27 milh&otilde;es de brasileiros passando fome, a tens&atilde;o volta a crescer.</p>
+{% endraw %}

@@ -1,0 +1,48 @@
+---
+id: 15638554
+date: "2023-11-23T19:30:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "eua"
+categories:
+  - "sem-categoria"
+title: "Empresa pernambucana monta hub na Florida para servir de porto seguro para empresas brasileiras explorarem mercado dos EUA "
+sutia: "Como uma empresa pernambucana est\u00e1 fazendo a Am\u00e9rica, ao criar oportunidades para si e outras empresas brasileiras"
+chapeu: "ambiente de neg\u00f3cios"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/11/23/dell-25304116.jpeg"
+---
+{% raw %}
+<p>A empresa pernambucana iLand, criada h&aacute; 22 anos, considerada decana do programa de canais da multinacional Dell, est&aacute; prestes a dar o maior salto de sua hist&oacute;ria.</p>
+<p>Os fundadores da iLand, Douglas Landberg e Michael Medeiros, sempre tiveram planos de expans&atilde;o da empresa. Com a chegada de Cesar Sarafim, respons&aacute;vel pelas &aacute;reas de Opera&ccedil;&otilde;es e servi&ccedil;os e de Cl&iacute;maco Feitosa, Head da vertical de inova&ccedil;&atilde;o, eles amadureceram a estrat&eacute;gia de internacionaliza&ccedil;&atilde;o, quando foi fundada, em 2019, a americana iLand Technology.</p>
+<p>No dia 17 de outubro passado, sem alarde, os quatro s&oacute;cios da empresa local inauguraram, no Porto de Manatte, pr&oacute;ximo a Tampa e Miami, um Hub que tem a miss&atilde;o de ajudar empresas pernambucanas e brasileiras a desbravarem o mercado americano, especialmente na oferta de servi&ccedil;os tecnol&oacute;gicos.</p>
+<p>O espa&ccedil;o f&iacute;sico inicial, de 1,5 mil metros quadrados, foi cedido pela pr&oacute;pria administra&ccedil;&atilde;o portu&aacute;ria, interessada na promo&ccedil;&atilde;o de neg&oacute;cios com o mundo e em especial com o Brasil.</p>
+<p>"Vamos primeiro pela cadeia portu&aacute;ria e de supply chain, mas as possibilidades s&atilde;o infinitas, como as solu&ccedil;&otilde;es para rastreabilidade de produtos. Basta que a gente descubra as dores e entreguemos o que eles n&atilde;o tem. Assim o Hub foi criado e est&aacute; aberto &agrave;s empresas brasileiras", afirma Cl&iacute;maco Feitosa, s&oacute;cio do bra&ccedil;o americano da iLand.</p>
+<p>"Eles s&atilde;o famintos por boas solu&ccedil;&otilde;es"</p>
+<p>A hist&oacute;ria de sucesso tem a ver com uma s&eacute;rie de felizes coincid&ecirc;ncias, ou "Jesuscid&ecirc;ncias", como eles gostam de explicar.</p>
+<p>O caminho das pedras foi apontado em uma &ldquo;despretenciosa&rdquo; palestra do brasileiro Carlo Barbieri, do Oxford Group, em 14 de dezembro do ano passado, na C&acirc;mara de Com&eacute;rcio Brasil-EUA, no Recife. &ldquo;A ideia do Hub de Inova&ccedil;&atilde;o nasceu ali. Carlo Barbieri faz neg&oacute;cios nos Estados Unidos h&aacute; 35 anos, levando empresas daqui para l&aacute; e gostou da ideia ". Nesta palestra, tamb&eacute;m estava F&aacute;bio Yamada, da ag&ecirc;ncia de fomento do Estado da Fl&oacute;rida, a Enterprise Florida (hoje Select Florida), que tamb&eacute;m colaborou e fortaleceu a ideia do Hub.</p>
+<p>Como participa da C&acirc;mara Americana de Com&eacute;rcio Brasil-Estados Unidos na capital pernambucana, a iLand, pouco tempo depois, foi convidada por Barbieri a compor o Hub de Neg&oacute;cios em Manatee, como uma das empresas fundadoras. De l&aacute;, eles descobriram um potencial de neg&oacute;cios imenso, tendo como base a costa oeste dos EUA.</p>
+<p>"Aqui, a gente acredita em Deus e no trabalho. N&oacute;s percebemos que n&atilde;o havia nenhuma empresa igual a iLand neste ecossistema. A gente diz que n&atilde;o faz TI (Tecnologia da Informa&ccedil;&atilde;o), faz TN (tecnologia para fomentar neg&oacute;cios)", explica Cesar Sarafim. Por l&aacute;, haviam algumas pequenas do M&eacute;xico e da &Iacute;ndia, mas que n&atilde;o operavam com o approach dos brasileiros.</p>
+<p>Em outro &ldquo;golpe de sorte&rdquo;, o presidente do Porto de Manatee, o espanhol Carlos Buqueras, foi eleito Chairman do Conselho de Portos da Fl&oacute;rida, que coordena os 15 portos da Fl&oacute;rida, sendo 11 deles de &aacute;guas profundas, levando a iLand a tiracolo. "Ele comprou a ideia, apresentada pelo Carlo Barbieri, em expandir a parceria e criar um Hub de neg&oacute;cios, congregando solu&ccedil;&otilde;es de empresas brasileiras para os americanos ou o inverso", diz Cl&iacute;maco.</p>
+<p>Com o Buqueras na administra&ccedil;&atilde;o, gera-se a expectativa de levar para os demais cong&ecirc;neres o que der certo no Porto. "Manatee, assim, vai ser um grande Lab (laborat&oacute;rio). Por mais incr&iacute;vel que pare&ccedil;a, h&aacute; muitas opera&ccedil;&otilde;es manuais, poucas opera&ccedil;&otilde;es eletr&ocirc;nicas, o que abre oportunidades para solu&ccedil;&otilde;es de neg&oacute;cios, relevantes", acrescenta Cl&iacute;maco.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/11/23/120x80/1_iland-25303304.jpeg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'655fbe692a263', 'cd_midia':25303304, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/11/23/iland-25303304.jpeg', 'ds_midia': 'Cl&iacute;maco, Michael e Cesar, s&oacute;cios da Iland', 'ds_midia_credi': 'Blog Imagem', 'ds_midia_titlo': 'Cl&iacute;maco, Michael e Cesar, s&oacute;cios da Iland', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '918', 'align': 'Left'}"><figure style="width:918;height:1224;">
+			<img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/11/23/iland-25303304.jpeg" alt="Blog Imagem" title="Cl&iacute;maco, Michael e Cesar, s&oacute;cios da Iland">
+		<figcaption class='text-left'>
+			Cl&iacute;maco, Michael e Cesar, s&oacute;cios da Iland - <strong>Blog Imagem</strong>
+		</figcaption>
+	</figure></tinymce></p>
+<h2>S&iacute;ndrome de Gabriela</h2>
+<p>Acompanhando a evolu&ccedil;&atilde;o da empresa como membro da AMCHAM, o executivo de log&iacute;stica Roberto Cunha J&uacute;nior, destaca a ousadia dos empres&aacute;rios. "De certa maneira, eles despacharam a s&iacute;ndrome de Gabriela (Cravo e Canela) que acomete algumas empresas. Aquela coisa do eu nasci assim, eu cresci assim.... N&atilde;o, eles quiseram mudar e evoluir. N&atilde;o pode jamais se subestimar. Hoje, est&atilde;o levando o nome de Pernambuco para o mundo", observa.</p>
+<h2>Quem j&aacute; embarcou na aventura?</h2>
+<p>Al&eacute;m da iLand, como uma das empresas fundadoras do Hub de Inova&ccedil;&atilde;o, est&atilde;o embarcadas no Porto de Manatee o SiDi, bra&ccedil;o de inova&ccedil;&atilde;o da Samsung e o CPQD (Centro de Pesquisa e Desenvolvimento em Telecomunica&ccedil;&otilde;es), o maior centro de pesquisa e desenvolvimento da Am&eacute;rica Latina, com foco na inova&ccedil;&atilde;o em tecnologias da informa&ccedil;&atilde;o e comunica&ccedil;&atilde;o.</p>
+<p>Nesta mesma mar&eacute;, a empresa pernambucana NavalPort est&aacute; apresentando ao Hub, inicialmente, dois produtos desenvolvidos e usados nos portos de Santos e Santar&eacute;m. Um deles, com ajuda de laser, os navios s&atilde;o avisados sobre a velocidade de atraca&ccedil;&atilde;o, na aproxima&ccedil;&atilde;o, para evitar danos aos portos e &agrave;s pr&oacute;prias embarca&ccedil;&otilde;es, evitando elevados custos com acidentes ou sinistros. Outra aplica&ccedil;&atilde;o usa o transponder dos navios para evitar filas nos portos, otimizando as opera&ccedil;&otilde;es log&iacute;sticas e portu&aacute;rias.</p>
+<p>De Cascavel, no Paran&aacute;, a CECICLE, que opera com troca de cr&eacute;ditos de carbono, espera vender solu&ccedil;&otilde;es industriais no novo Hub.</p>
+<p>De Santa Catarina, o Flyinn Innovation Center (Flic) se prepara para levar grafeno para o mercado local, via Manatee. A empresa processa o produto para ser usado em v&aacute;rios tipos de ind&uacute;strias. No caso espec&iacute;fico, a ideia &eacute; produzir h&eacute;lices de navios mais leves, mais eficientes e duradouras.</p>
+<h2>Why Florida?</h2>
+<p>O desembarque dos novos exploradores na Fl&oacute;rida n&atilde;o acontece por acaso. Eles contam que, depois da pandemia, a for&ccedil;a de trabalho da &aacute;rea de TI gostou de trabalhar de casa e passou a preferir ir em busca de op&ccedil;&otilde;es longe de estados mais frios dos Estados Unidos.</p>
+<p>"A Fl&oacute;rida cresceu muito na pandemia e depois dela. A real globaliza&ccedil;&atilde;o do mundo dos neg&oacute;cios come&ccedil;ou com a pandemia. Ou fazia aquilo (de casa) ou parava. Foi assim que aconteceu uma migra&ccedil;&atilde;o de pessoas, depois de empresas de tech, para a Fl&oacute;rida, Texas e Arizona", conta Cl&iacute;maco, que em breve deve passar metade do m&ecirc;s na terra do Tio Sam.</p>
+<p>"Em paralelo, o governador da Fl&oacute;rida, De Santis, tem vis&atilde;o de neg&oacute;cios e come&ccedil;ou a vender a Fl&oacute;rida como nova casa destas empresas. Como pol&iacute;tica, por l&aacute;, a pessoa f&iacute;sica n&atilde;o paga imposto. A empresa s&oacute; paga imposto se tiver lucro. N&atilde;o teve lucro, n&atilde;o paga", arremata Michael Medeiros.</p>
+<h2>Pernambuco falando para o mundo</h2>
+<p>Tudo isto considerado, caso a Fl&oacute;rida vire mesmo o campe&atilde;o de Blockchain do mundo, como planeja, h&aacute; uma boa chance de termos o gostoso sotaque pernambucano por l&aacute;.<br /></p>
+{% endraw %}

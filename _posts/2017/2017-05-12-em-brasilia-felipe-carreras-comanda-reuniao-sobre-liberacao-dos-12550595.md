@@ -1,0 +1,33 @@
+---
+id: 12550595
+date: "2017-05-12T21:25:04Z"
+last_modified_at: null
+tags:
+  - "brasilia"
+  - "felipe-carreras"
+  - "liberacao"
+  - "reuniao"
+categories:
+  - "noticias"
+title: "Em Bras\u00edlia, Felipe Carreras comanda reuni\u00e3o sobre libera\u00e7\u00e3o dos cassinos em resorts"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/05/33.jpg"
+---
+{% raw %}
+<p><p>Aconteceu na sede da Fecomércio, em Brasília, a primeira reunião do Fórum Nacional dos Secretários e Dirigentes Estaduais de Turismo (Fornatur) com Felipe Carreras, secretário de Turismo, Esportes e Lazer de Pernambuco, como presidente.</p></p>
+<p><p>A pauta do encontro trouxe, entre outros assuntos, o apoio a liberação dos cassinos em resorts, a discussão sobre a volta dos voos mistos, mudanças sobre a Expo Internacional do Turismo (ABAV), apoio à candidatura de Márcio Faville ao cargo de secretário geral da Organização Mundial de Turismo (OMT) e sugestões para o Mapa do Turismo Brasileiro.</p></p>
+<p><p>Carreras lançou propostas que foram discutidas na reunião. Dentre os assuntos abordados na 91º Reunião do Fornatur, a liberação dos cassinos em resort como forma de garantir empregos, renda e divulgação de novos destinos. Para ele, a legalização vai aumentar a arrecadação de impostos, além de desenvolver o turismo.</p></p>
+<p><p>“Acreditamos que a volta dos cassinos pode significar um incremento no turismo brasileiro de forma considerável. Além disso, vai promover a geração de empregos e desenvolvimento para as regiões onde eles forem instalados. Evidente que esses empreendimentos precisarão obedecer regras, como local restrito para sua instalação e pagamento de impostos”, afirmou o presidente Felipe Carreras.</p></p>
+<p><p>Outra questão levantada foi a que gerou uma moção de apoio à candidatura de Márcio Faville, ex-secretário executivo do Ministério do Turismo, ao cargo de secretário geral da Organização Mundial de Turismo (OMT), órgão máximo do turismo mundial, principal entidade do setor no mundo com representantes de seis países. É que a (OMT) agência especializada das Nações Unidas, elege, nesta sexta-feira (12), em Madri, na Espanha, seu novo secretário geral para um mandato de quatro anos (2018/2021).</p></p>
+<p><p>O eleito na reunião do Conselho Executivo da OMT vai ocupar a vaga de Taleb Rifai, que encerra este ano seu segundo mandato à frente da organização. O mineiro Márcio Faville disputa o cargo com candidatos de outros seis países: Armênia, Geórgia, República da Coréia, Seychelles, Zimbábue e Colômbia.</p></p>
+<p><p>Outro assunto levantado foi o retorno dos voos mistos, que oferece a possibilidade de a companhia aérea comercializar um trecho doméstico de um voo internacional. Para exemplificar, um voo internacional que sai do Recife com destino a Buenos Aires, atualmente, precisa ser, obrigatoriamente, direto. Com os voos mistos, a companhia teria a possibilidade de fazer a rota Recife-Salvador-Buenos Aires, com a permissão de embarcar e desembarcar passageiros entre Recife e Buenos Aires (internacional) e Recife e Salvador (nacional). Nesse exemplo, os passageiros que embarcaram no Recife com destino a Buenos Aires não precisam descer do avião na escala em Salvador, assim como na volta, no trecho Buenos Aires para Maceió com escala em SSA.</p></p>
+<p><p>Tal modalidade visa proporcionar uma maior dinamização da malha aérea e oportunidades de deslocamento. A possibilidade de realização dos voos mistos foi encerrada em 2012. Na época, Polícia Federal e Receita Federal solicitaram à ANAC a proibição desses voos alegando dificuldades de fiscalização. O pedido foi baseado na agenda de eventos internacionais de grande porte que seriam realizados no país nos próximos anos, como a Jornada Mundial da Juventude, a Copa das Confederações, a Copa do Mundo de Futebol e as Olimpíadas, o que poderia dificultar a fiscalização aduaneira.</p></p>
+<p><p>Após os eventos serem realizados, Felipe Carreras e os secretários de turismo acreditam que chegou o momento de reavaliar a questão com a finalidade de contribuir com o crescimento do turismo nacional. A Associação Brasileira das Empresas Aéreas – ABEAR, também está unida ao Fórum com esta mesma finalidade e concorda com o retorno dos voos mistos.</p></p>
+<p><p>“A intenção é aumentar o número de turistas que viajam no Brasil, favorecer cidades que não têm voos internacionais, além de potencializar a conectividade aérea no País, com o aumento das possibilidades de ligações domésticas no Brasil. Isso sem contar com a recuperação das empresas aéreas, agentes importantes para o mercado como um todo”, explica Carreras.</p></p>
+<p><p>Entre as soluções apontadas pelo Fórum, está a obrigatoriedade de todos os passageiros provenientes de voos mistos passarem pelo rito de um voo internacional. Outra possibilidade seria diferenciar os bilhetes para passageiros nacionais e internacionais. Na ocasião, estavam representes da ANAC, Polícia Federal e ABA e todos se mostraram interessados na proposta e se dispuseram a fazer estudos para essa retomada.</p></p>
+<p><p>Na pauta, estava também o recadastramento de municípios do novo Mapa do Turismo Brasileiro, que agora os municípios que quiserem participar com algum tipo de estrutura turística para recebimento de recursos do Governo Federal, ganha novo prazo. A atualização agora é a cada dois anos para que os municípios se organizem melhor e os recursos federais sejam direcionados para as regiões que realmente são vocacionadas ao turismo. “Discutimos alguns ajustes e sugestões para os próximos anos. Fizemos uma oficio que será direcionado para o Ministério do Turismo para pleitearmos algumas mudanças que beneficiarão o turismo dos estados”, afirmou o presidente do Fornatur, Felipe Carreras.</p></p>
+<p><p>Na ocasião, foi discutida ainda mudanças sobre a organização da Expo Internacional do Turismo (ABAV) que acontece de 27 até 29 de setembro, em São Paulo. Ficou definido que o evento será formatado com estandes em ilha por regiões e não mais por estados. Além disso, o ficará dividido por tema de cultura, artesanato e gastronomia. Para finalizar, falaram também sobre a liberação de vistos para norte-americanos, japoneses, australianos e canadenses.</p></p>
+<p><p>Felipe Carreras é o primeiro nordestino a assumir a presidência do fórum, cargo ocupado desde o último dia 5 de abril, quando foi eleito por unanimidade para um mandato de dois anos.</p></p>
+{% endraw %}

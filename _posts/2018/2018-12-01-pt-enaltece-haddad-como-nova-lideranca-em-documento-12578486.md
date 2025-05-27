@@ -1,0 +1,29 @@
+---
+id: 12578486
+date: "2018-12-01T15:32:00Z"
+last_modified_at: null
+tags:
+  - "documentos"
+  - "fernando-haddad"
+categories:
+  - "noticias"
+title: "PT enaltece Haddad como 'nova lideran\u00e7a' em documento"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/10/haddad-5.jpg"
+---
+{% raw %}
+<p><p><em>Estadão Conteúdo</em> - Depois de mais de dois dias de debate e discussões, o Diretório Nacional do PT aprovou neste sábado (1º) uma nova resolução política para orientar os rumos do partido a partir de 2019. Diferentemente do que estava previsto na primeira versão do documento, o partido recuou de autocríticas feitas aos governos petistas e optou por dar mais ênfase à importância de Fernando Haddad, candidato derrotado nas eleições de 2018, como "nova liderança nacional do Partido".</p></p>
+<p><p>A elaboração da resolução expôs as divergências que tomaram conta do partido desde as eleições, quando Jair Bolsonaro foi eleito presidente da República. Uma primeira versão do texto havia sido elaborada por uma comissão formada com integrantes de todas as correntes internas da sigla. Mas esse documento causou desconforto principalmente entre os membros do grupo majoritário, denominado Construindo Um Novo Brasil (CNB), e do grupo Movimento PT, que decidiram produzir novas versões do mesmo documento.</p></p>
+<p><p>Com mais de 70 itens, o texto trazia críticas à política econômica da ex-presidente Dilma Rousseff - que tinha Joaquim Levy como ministro da Fazenda, hoje indicado para ser o novo presidente do Banco Nacional do Desenvolvimento Econômico e Social (BNDES) na gestão de Bolsonaro - e também a setores da centro-esquerda que se recusaram a apoiar Haddad no segundo turno da disputa presidencial, numa referência indireta ao PDT, de Ciro Gomes.</p></p>
+<p><p>Após pressão da CNB, o partido retirou essas questões e focou no enaltecimento de Haddad. Um dos dirigentes do partido disse, em condição de anonimato, que nunca havia presenciado uma reunião do Diretório Nacional como esta, apesar de serem históricas as divergências na sigla. Prevaleceu então a visão da corrente majoritária e os elogios ao candidato derrotado nas urnas.</p></p>
+<p><p>"É imprescindível ressaltar nesse balanço que o companheiro Fernando Haddad se projeta como uma nova liderança nacional do Partido. Defendeu o legado do PT, ao mesmo tempo em que simbolizou aspectos de renovação política e social de que o PT é capaz, logrando conjuntamente com a militância democrática, da esquerda e do partido chegar ao final do segundo turno com 47 milhões de votos. É com este saldo político que Fernando Haddad poderá cumprir destacado papel frente aos novos e complexos desafios da conjuntura", diz a resolução final.</p></p>
+<p><p>"Não tem autocrítica no texto. O PT faz autocrítica na prática. O PT fez financiamento público de campanha, o PT está reorganizando as bases, o PT está com movimento social. Nós não faremos autocrítica para a mídia e não faremos autocrítica para a direita do país", afirmou o presidente do partido, senadora Gleisi Hoffmann (PT-PR).</p></p>
+<p><h2>'Republicanismo'</h2></p>
+<p><p>A autocrítica no documento se resumiu apenas a um "equívoco" do partido em relação ao "republicanismo" com grupos e instituições que ajudaram a "derrubar" o PT. "O conjunto do partido parece ter incorrido em alguns equívocos durante os nossos governos. O primeiro foi a o 'Republicanismo', fomos republicanos com quem não é e nunca foi republicano, a mídia monopolista, parte do judiciário que sempre foi o reduto e o reflexo da elites mais atrasadas e antigas do escravismo nacional, os serviços de inteligência, as Forças Armadas e os aparatos de segurança, ainda sob controle dos que estavam no poder na época da ditadura de 1964-1985, corporações conservadoras e que se pautavam apenas por interesses próprios e pelas disputa de poder para seus agrupamentos, como parte do MP e grande parte da PF. Permitimos que esses grupos se reproduzissem e acumulassem força para nos derrubar numa ruptura da Constituição", afirmou o documento.</p></p>
+<p><p>A resolução traz também uma análise de como o partido confiou apenas nos resultados de suas políticas sociais para se manter próximo das "maiorias sociais". "Não bastava fazer políticas sociais benéficas para a maioria da população que isso nos manteria conectados com os interesses e afinados politicamente com essas maiorias sociais. Não investimos na disputa de valores e da cultura como deveríamos fazer, na disputa de hegemonia. Essa disputa de hegemonia se dá pelos meios de comunicação, pela produção cultural, na Educação e na organização dos movimentos sociais", diz trecho da resolução.</p></p>
+<p><p>Outra forte influência sobre a resolução final foi a carta enviada pelo ex-presidente Luiz Inácio Lula da Silva apresentada durante a reunião do Diretório Nacional. O petista fez referência ao rapper Mano Brown ao dizer que a sigla precisava voltar às ruas, fábricas e favelas para se "reconectar" com a base. Essa crítica entrou na redação final, mas em tom mais ameno.</p></p>
+<p><p>"É importante criar núcleos de luta pela democracia e pela defesa dos direitos sociais contra o fascismo, nas universidades, escolas, locais de moradia. Precisamos ter uma agenda de visita aos bairros, comunidades, fábricas. Por tais razões o principal desafio do Partido e de cada um de seus militantes, é o de se aproximar, dialogar e organizar a maioria do povo participando de suas lutas cotidianas."</p></p>
+<p><p>O documento foi apresentado durante reunião do partido em Brasília ontem e hoje. Após o elaboração da resolução, petistas aprovaram a inclusão de mais duas emendas no texto final, mas essa versão ainda não foi divulgada pela direção do partido.</p></p>
+{% endraw %}

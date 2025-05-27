@@ -1,0 +1,36 @@
+---
+id: 14934593
+date: "2022-01-17T14:54:00Z"
+last_modified_at: null
+tags:
+  - "impostos"
+categories:
+  - "sem-categoria"
+title: "Salvador e Fortaleza s\u00e3o as cidades que mais esfolam contribuinte com IPTU, mostra estudo"
+sutia: "Levantamento da FNP analisou a receita de 24 munic\u00edpios da regi\u00e3o. Recife aparece em terceiro logo atr\u00e1s de Fortaleza"
+chapeu: "basta de impostos"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/08/11/23738389246_9ff95b2bc8_k-18649825.jpg"
+---
+{% raw %}
+<p>O levantamento realizado pelo anu&aacute;rio Multi Cidades - Finan&ccedil;as dos Munic&iacute;pios do Brasil, iniciativa da Frente Nacional dos Prefeitos (FNP) com patroc&iacute;nio da Huawei e da Tecno It, avaliou a arrecada&ccedil;&atilde;o anual do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) em 24 munic&iacute;pios do Nordeste em 2020.</p>
+<p>Mesmo num cen&aacute;rio de queda da economia no pa&iacute;s, algumas cidades conseguiram ampliar a receita.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/01/17/120x80/1_unnamed-20452893.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'61e5adec96346', 'cd_midia':20452893, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/01/17/unnamed-20452893.jpg', 'ds_midia': 'Quem mais arrecada IPTU no Nordeste?', 'ds_midia_credi': 'Frente Nacional de Prefeitos', 'ds_midia_titlo': 'Quem mais arrecada IPTU no Nordeste?', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '843', 'align': 'Left'}"><figure style="width:843;height:1224;">
+  <img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/01/17/unnamed-20452893.jpg" alt="Frente Nacional de Prefeitos"  title="Quem mais arrecada IPTU no Nordeste?">
+  <figcaption class='text-left'>Quem mais arrecada IPTU no Nordeste? - <strong>Frente Nacional de Prefeitos</strong></figcaption>
+</figure></tinymce></p>
+<p>O estudo destaca casos como o de Jo&atilde;o Pessoa (PB), que registrou alta de 24,7%, se comparado ao total em 2019. A capital recolheu R$ 102,4 milh&otilde;es em 2020, enquanto que no ano anterior foram R$ 82,1 milh&otilde;es. Todos os valores foram corrigidos pela infla&ccedil;&atilde;o medida pelo &Iacute;ndice Nacional de Pre&ccedil;os ao Consumidor Amplo (IPCA) do IBGE.</p>
+<p>No estudo, outro destaque ficou com S&atilde;o Lu&iacute;s (MA), com acr&eacute;scimo de 13,7%, totalizando R$ 130,5 milh&otilde;es em 2020. Salvador (BA) e Aracaju (SE) tamb&eacute;m est&atilde;o entre as capitais que cresceram na arrecada&ccedil;&atilde;o, com 5,5% e 4,6%, respectivamente.</p>
+<p>Em valores absolutos, Salvador ficou no topo do ranking das cidades avaliadas que mais arrecadaram em toda a regi&atilde;o Nordeste: R$ 800,5 milh&otilde;es. A capital baiana conseguiu R$ 41,5 milh&otilde;es a mais em sua arrecada&ccedil;&atilde;o, comparado &agrave; 2019, o maior incremento entre as cidades nordestinas. Depois vem Forteleza. Veja quadro acima.<br /></p>
+<p>A queda mais acentuada, percentualmente, nas arrecada&ccedil;&otilde;es do IPTU foi a de Nossa Senhora do Socorro (SE), munic&iacute;pio com popula&ccedil;&atilde;o de 185.706 habitantes e R$ 4,3 milh&otilde;es arrecadados em 2020. Por l&aacute;, foram 39,7% a menos na receita do tributo que em 2019, quando registrou R$ 7,1 milh&otilde;es.<br /></p>
+<h2><br />Cidades brasileiras de porte m&eacute;dio foram as mais afetadas pela retra&ccedil;&atilde;o do IPTU em 2020</h2>
+<p>Pela primeira vez desde 2002, quando teve in&iacute;cio a s&eacute;rie de dados compilada pelo anu&aacute;rio Multi Cidades - Finan&ccedil;as dos Munic&iacute;pios do Brasil, a arrecada&ccedil;&atilde;o anual do IPTU dos munic&iacute;pios sofreu recuo. Com queda de 2,5%, o recolhimento do tributo em 2020 totalizou R$ 50,23 bilh&otilde;es, ou seja, uma perda de R$ 1,29 bilh&atilde;o na compara&ccedil;&atilde;o com o exerc&iacute;cio anterior, em valores corrigidos pelo &Iacute;ndice Nacional de Pre&ccedil;os ao Consumidor Amplo (IPCA) m&eacute;dio do per&iacute;odo.</p>
+<p>T&acirc;nia Villela, economista e editora do anu&aacute;rio, explica que um dos fatores que contribu&iacute;ram para esse rev&eacute;s foi o aumento da inadimpl&ecirc;ncia com a pandemia da Covid-19. "Al&eacute;m dos milhares casos de &oacute;bitos e de sa&uacute;de p&uacute;blica, a pandemia exerceu forte impacto na atividade econ&ocirc;mica", disse ela, concluindo que, diante da queda do n&iacute;vel de rendimento da popula&ccedil;&atilde;o e da press&atilde;o exercida pelo desemprego, muitas fam&iacute;lias deixaram de pagar o IPTU em 2020.</p>
+<p>&Agrave; exce&ccedil;&atilde;o do Sul, todas as demais regi&otilde;es do pa&iacute;s registraram decr&eacute;scimos nesse indicador. Puxados pelo bom desempenho registrado em Porto Alegre-RS (10,5%), Ponta Grossa-PR (10,1%), Londrina-PR (4,3%) e Florian&oacute;polis-SC (3,4%), os munic&iacute;pios sulistas assinalaram alta de 1,3% na m&eacute;dia. As demais regi&otilde;es amargaram quedas, sendo a mais intensa observada no Sudeste, de 3,3%, que concentra quase dois ter&ccedil;os da arrecada&ccedil;&atilde;o do tributo no pa&iacute;s. No Centro-Oeste, Norte e no Nordeste, as taxas foram de -2,8%, -2,6 e -2,1%, respectivamente.</p>
+<p>A baixa na arrecada&ccedil;&atilde;o do IPTU foi sentida com mais intensidade nas cidades de m&eacute;dio e grande porte populacional, com taxas mais acentuadas naqueles cuja popula&ccedil;&atilde;o vai de 200 mil a 500 mil habitantes (-5,2%). Nos munic&iacute;pios com os menores portes populacionais o desempenho foi quase que est&aacute;vel, com decl&iacute;nio de 0,3% naqueles com at&eacute; 20 mil habitantes e de 0,5% nos que t&ecirc;m entre 20 mil e 50 mil residentes.</p>
+<h2>Desempenho primeiro semestre de 2021</h2>
+<p>A receita de IPTU apresentou recupera&ccedil;&atilde;o durante o primeiro semestre de 2021. A arrecada&ccedil;&atilde;o foi 7% maior que a do mesmo semestre do ano anterior, com valores j&aacute; corrigidos pelo IPCA. Em compara&ccedil;&atilde;o a 2019, per&iacute;odo pr&eacute;-pandemia, o resultado tamb&eacute;m foi satisfat&oacute;rio, apesar de mais brando, com expans&atilde;o de 4,1%.</p>
+<p>"A principal raz&atilde;o desse crescimento foram os novos programas de antecipa&ccedil;&atilde;o do pagamento do tributo mediante descontos, que incentivaram o contribuinte a quitar suas d&iacute;vidas e, por consequ&ecirc;ncia, frearam o aumento da inadimpl&ecirc;ncia. Al&eacute;m disso, a pr&oacute;pria retomada da economia no primeiro semestre de 2021, ainda que branda, tamb&eacute;m contribuiu", analisa a economista T&acirc;nia.</p>
+<p>Os efeitos podem ser notados em todas as regi&otilde;es e faixas populacionais. Entre as regi&otilde;es, destacam-se a maior taxa de crescimento dos munic&iacute;pios do Nordeste (16,8%), seguido do Sudeste (15,5%) e do Norte (15,3%), e a menor, no Sul (4,1%). No Centro-Oeste foi de 12,4%, comprado o primeiro semestre de 2021 com o de 2020.</p>
+<p>&nbsp;</p>
+{% endraw %}

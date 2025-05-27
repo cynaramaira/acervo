@@ -1,0 +1,33 @@
+---
+id: 15642607
+date: "2023-12-04T15:02:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "inteligencia-artificial"
+categories:
+  - "sem-categoria"
+title: "Intelig\u00eancia artificial generativa e os impactos nas organiza\u00e7\u00f5es"
+sutia: "Desde sua funda\u00e7\u00e3o em 1993, a NVIDIA tem sido pioneira em computa\u00e7\u00e3o acelerada"
+chapeu: "Modernidade"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/png/2023/11/23/ia-25290453.png"
+---
+{% raw %}
+<p>Por<strong> Marcio Aguiar</strong>, diretor da divis&atilde;o Enterprise da <strong>NVIDIA</strong> para Am&eacute;rica Latina, em artigo enviado ao blog de Jamildo</p>
+<p>A IA generativa vem transformando as organiza&ccedil;&otilde;es ao redor do mundo. Baseadas em grandes modelos de linguagem ou LLMs (Large Language Models), esse modelo de machine learning vem possibilitando aplica&ccedil;&otilde;es em diversos setores como sa&uacute;de, finan&ccedil;as, marketing, varejo, al&eacute;m de tantos outros. Fato &eacute; que o uso dessa ferramenta tem tido um impacto significativo nas empresas e a tend&ecirc;ncia &eacute; que ela seja cada vez mais aprimorada para otimizar os processos.</p>
+<p>No ano passado, os investidores injetaram ao menos US$ 1,37 bilh&atilde;o em 78 neg&oacute;cios ligados a IA generativa, segundo dados do PitchBook. J&aacute; uma sondagem realizada pela empresa Morning Consult, indicou que dos 524 executivos brasileiros que participaram do levantamento, 78% concordaram que as ferramentas geradas com IA reduzem o n&uacute;mero de tarefas repetitivas. Diante disso, os profissionais poder&atilde;o usar suas habilidades para se dedicar as atividades que exigem mais racioc&iacute;nio, aten&ccedil;&atilde;o e criatividade.</p>
+<p>Na &aacute;rea da sa&uacute;de a IA &eacute; uma aliada nos diagn&oacute;sticos por imagens, pois permite reconhecer padr&otilde;es e identificar poss&iacute;veis doen&ccedil;as precocemente, tornando o tratamento mais eficiente e preciso. H&aacute; pesquisadores e cientistas utilizando modelos generativos de IA na descoberta de novos medicamentos. Com o aux&iacute;lio da computa&ccedil;&atilde;o acelerada &eacute; poss&iacute;vel ampliar os setores de pesquisa, possibilitando tratamentos m&eacute;dicos personalizados que impactam na taxa de sobreviv&ecirc;ncia dos pacientes, al&eacute;m de minimizar a propaga&ccedil;&atilde;o de doen&ccedil;as.</p>
+<p>As aplica&ccedil;&otilde;es de IA generativa tamb&eacute;m est&atilde;o sendo empregadas no setor financeiro. A partir da an&aacute;lise de milh&otilde;es de dados &eacute; poss&iacute;vel obter uma hiperpersonaliza&ccedil;&atilde;o a qualquer cliente e isso possibilita uma s&eacute;rie de benef&iacute;cios que v&atilde;o desde o atendimento mais assertivo at&eacute; a recomenda&ccedil;&atilde;o de investimentos. Uma das maiores preocupa&ccedil;&otilde;es neste setor s&atilde;o as fraudes e, com o uso dessa tecnologia, ser&aacute; poss&iacute;vel aumentar a seguran&ccedil;a, al&eacute;m de fornecer novas perspectivas para an&aacute;lise de riscos.</p>
+<p>No varejo essa ferramenta tem sido essencial para a jornada de compra do consumidor. Por meio de modelos de IA treinados com dados espec&iacute;ficos de marcas &eacute; poss&iacute;vel melhorar a experi&ecirc;ncia do cliente com descri&ccedil;&otilde;es mais robustas de produtos, recomenda&ccedil;&atilde;o personalizada, altera&ccedil;&otilde;es de compras e pedidos. Isso pode impactar na taxa de convers&atilde;o e acelerar a tomada de decis&atilde;o, tornando todo o processo mais eficiente no mercado.</p>
+<p>Dados da Deloitte indicam que 7 em cada 10 empresas brasileiras investir&atilde;o em Intelig&ecirc;ncia Artificial neste ano, isso comprova o crescimento dessa tecnologia nas organiza&ccedil;&otilde;es. Hoje em dia j&aacute; &eacute; poss&iacute;vel operar modelos personalizados de IA generativa treinados com os pr&oacute;prios dados de propriedade da empresa, fazendo com que a ferramenta esteja mais alinhada com as necessidades da companhia.</p>
+<p>Apesar de ser capaz de criar algo totalmente novo e facilitar v&aacute;rios processos, &eacute; importante ressaltar que a IA generativa ainda &eacute; limitada aos dados e informa&ccedil;&otilde;es no qual ela foi treinada. Em certos casos &eacute; necess&aacute;rio a supervis&atilde;o humana para filtrar e se certificar de que o conte&uacute;do apresentado pela tecnologia faz sentido para a sociedade como um todo. N&oacute;s temos sensibilidade e capacidade de discernimento que essa ferramenta n&atilde;o possui.</p>
+<p>Conforme essa tecnologia avan&ccedil;a h&aacute; certa preocupa&ccedil;&atilde;o de que ela substituir&aacute; o trabalho desempenhado por seres humanos, por&eacute;m &eacute; importante lembrar que ela precisar&aacute; do fator humano para faz&ecirc;-la funcionar. O que mudar&aacute; ser&aacute; a forma de desempenhar certas fun&ccedil;&otilde;es, por isso &eacute; necess&aacute;rio estar atualizado e buscar capacita&ccedil;&atilde;o na &aacute;rea. H&aacute; diversos cursos gratuitos, al&eacute;m de conte&uacute;dos relevantes na rede que podem auxiliar no preparo dos profissionais para este novo cen&aacute;rio.</p>
+<p>O uso da IA generativa aliada as habilidades humanas ser&aacute; um facilitador nas atividades desempenhadas em diversos setores. Essa colabora&ccedil;&atilde;o s&oacute; tende a crescer com o passar dos anos, portanto cabe as empresas e aos profissionais saberem aproveit&aacute;-la com sabedoria e extrair todo o potencial que essa tecnologia pode oferecer ao seu neg&oacute;cio.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/12/04/120x80/1_img_9879_1_-25516781.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'656e14243f7bd', 'cd_midia':25516781, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/12/04/img_9879_1_-25516781.jpg', 'ds_midia': 'Marcio Aguiar, da NVIDIA para Am&eacute;rica Latina  ', 'ds_midia_credi': 'MARCO PINTO/divulga&ccedil;&atilde;o', 'ds_midia_titlo': 'Marcio Aguiar, da NVIDIA para Am&eacute;rica Latina  ', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '1221', 'align': 'Left'}"><figure style="width:1221;height:1224;">
+			<img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/12/04/img_9879_1_-25516781.jpg" alt="MARCO PINTO/divulga&ccedil;&atilde;o" title="Marcio Aguiar, da NVIDIA para Am&eacute;rica Latina  ">
+		<figcaption class='text-left'>
+			Marcio Aguiar, da NVIDIA para Am&eacute;rica Latina   - <strong>MARCO PINTO/divulga&ccedil;&atilde;o</strong>
+		</figcaption>
+	</figure></tinymce></p>
+{% endraw %}

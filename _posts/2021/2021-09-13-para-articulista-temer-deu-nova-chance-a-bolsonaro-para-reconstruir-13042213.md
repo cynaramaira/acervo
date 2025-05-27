@@ -1,0 +1,27 @@
+---
+id: 13042213
+date: "2021-09-13T09:46:00Z"
+last_modified_at: null
+tags:
+  - "eleicoes-2022"
+categories:
+  - "sem-categoria"
+title: "Para articulista, Temer deu nova chance a Bolsonaro para reconstruir pontes"
+sutia: "Gaud\u00eancio Torquato \u00e9 jornalista, escritor, professor titular da USP e consultor pol\u00edtico"
+chapeu: "ataque \u00e0s institui\u00e7\u00f5es"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/09/12/ba__4609-18795084.jpg"
+---
+{% raw %}
+<p>Um divisor de &aacute;guas</p>
+<p>Por Gaud&ecirc;ncio Torquato</p>
+<p>Foi um divisor de &aacute;guas, ou ainda, o maior dique que se construiu para evitar a inunda&ccedil;&atilde;o da pol&iacute;tica com os destro&ccedil;os causados pelas a&ccedil;&otilde;es sempre pensadas, nunca impensadas, do atabalhoado presidente Jair Bolsonaro. E esse dique contou com a destreza de construtor e carpinteiro, qualidades do ex-presidente Michel Temer. E por que este &eacute; considerado o &uacute;ltimo divisor de &aacute;guas? Pelo n&iacute;vel de enchente provocada junto ao Poder Judici&aacute;rio com repercuss&otilde;es de monta sobre as c&uacute;pulas congressuais. Um palavreado desbocado nunca ouvido.</p>
+<p>Qualquer novo tsunami, se ocorrer, n&atilde;o apresenta escapat&oacute;ria: o construtor de diques, Michel Temer, n&atilde;o teria suporte moral para vir a trabalhar nos estragos refeitos, os ju&iacute;zes do Supremo se dariam por esgotados e conscientes de que nada se pode esperar daquele navio que dispara torpedos intermitentes. O termo impeachment, hoje apenas uma palavra a frequentar o dicion&aacute;rio de Bras&iacute;lia, ganharia fundamento e o desembarque das tropas aliadas do capit&atilde;o do transatl&acirc;ntico seria um ato pensado sob o fluxo de ondas fortes que inundariam os dutos da opini&atilde;o p&uacute;blica.</p>
+<p>Vamos analisar ponderadamente esta reflex&atilde;o. A Opini&atilde;o P&uacute;blica se origina de &aacute;reas de pensamento que se formam, sem articula&ccedil;&atilde;o pr&eacute;via, juntando-se em bolhas. Geralmente tais bolhas nascem no meio das classes m&eacute;dias, e costumam ter uma antena virada para os fatos. A &aacute;rea pol&iacute;tica, por mais que junte grupos de interesse comum &ndash; verbas, benef&iacute;cios, espa&ccedil;os na administra&ccedil;&atilde;o &ndash; tem o dom de autopreserva&ccedil;&atilde;o. N&atilde;o pula o abismo. E confere seus passos com o caminhar dos grupos de Opini&atilde;o P&uacute;blica.</p>
+<p>Diz-se que Bolsonaro n&atilde;o mudaria por ter um foco para iluminar suas bases. Mas tais bases n&atilde;o chegam a 30%. E tendem a diminuir se alinharmos os fatores que poder&atilde;o estreitar o tamanho dos contingentes: apag&otilde;es de energia, decorrentes da crise h&iacute;drica; continuidade da crise sanit&aacute;ria; pequena rea&ccedil;&atilde;o da economia, com o desemprego jogando alto; crise pol&iacute;tica sem passos avan&ccedil;ados; aux&iacute;lio Brasil, substituto do Bolsa Fam&iacute;lia, sem estofo para agradar milh&otilde;es de fam&iacute;lias.</p>
+<p>Portanto, &eacute; de se prever um Bolsonaro mais contido, sob pena de que continue a agradar parcela de seu eleitorado, mas a desagradar os maiores conjuntos eleitorais. Os pol&iacute;ticos agir&atilde;o com um olho plantado no Planalto, outro na plan&iacute;cie. O PP que, ali&aacute;s, n&atilde;o quer Bolsonaro em seus quadros, vai se esfor&ccedil;ar para acender uma vela a Deus, outra ao dem&ocirc;nio. E a economia? O que resta a Paulo Guedes fazer para agradar o tal mercado?</p>
+<p>Dito isso, vem &agrave; tona a figura de bombeiros e construtores de diques. Michel Temer, em nova escalada de adjetivos ferinos, poderia voltar a ajudar o presidente com novas cartas e compromissos? Dif&iacute;cil. Depois de recuperar uma imagem borrada por &ldquo;jogadas&rdquo; que se conhecem, seria pouco prov&aacute;vel que o ex-presidente topasse se meter em uma enrascada, a ideia de vir novamente a por panos quentes entre os Poderes.</p>
+<p>Quanto a estes, a cautela impera. Todos os ministros est&atilde;o vacinados contra novas mordidas do &ldquo;c&atilde;o raivoso&rdquo;. Alexandre de Moraes, por exemplo. Um magistrado de alto gabarito, professor de Direito, e Luis Roberto Barroso, um dos mais preparados magistrados, se dariam ao exerc&iacute;cio de, mais uma vez, entrarem numa esp&eacute;cie de pacto de n&atilde;o agress&atilde;o? Nem o papa Francisco daria endosso a mais uma tentativa de harmonia.</p>
+<p>Por todas essas raz&otilde;es, o pa&iacute;s entra na era do divisor de &aacute;guas. E qualquer pedra que Bolsonaro atirar em Chico bater&aacute; na cabe&ccedil;a de Francisco, a exibir a disposi&ccedil;&atilde;o dos ju&iacute;zes do STJ, TSE e STF de agirem como um corpo unit&aacute;rio. Os riscos est&atilde;o postos. Por &uacute;ltimo, conv&eacute;m lembrar a &iacute;ndole autorit&aacute;ria do nosso mandat&aacute;rio-mor. Para ele, ou tudo ou nada. Mas os militares dariam endosso a um ato golpista? Bom lembrar que os vasos comunicantes fazem a sociedade respirar em conjunto, como um todo insepar&aacute;vel.</p>
+<p>Gaud&ecirc;ncio Torquato &eacute; jornalista, escritor, professor titular da USP e consultor pol&iacute;tico</p>
+{% endraw %}

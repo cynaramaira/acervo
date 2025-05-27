@@ -1,0 +1,31 @@
+---
+id: 12537492
+date: "2016-09-13T14:04:18Z"
+last_modified_at: null
+tags:
+  - "black-friday"
+categories:
+  - "noticias"
+title: "Black blocs e desonestidade intelectual"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/09/Partidos-manifesta\u00e7\u00e3o-black-bloc.jpg"
+---
+{% raw %}
+<p><em>Por José Padilha no <a href="https://oglobo.globo.com/">Jornal O Globo</a></em></p>
+<p>‘O que você realmente deve buscar, em um mundo que sempre nos confronta com surpresas desagradáveis, é a integridade intelectual: a predisposição de encarar os fatos, mesmo quando eles estão em desacordo com as suas ideias, e a capacidade de admitir erros e de mudar de rumo.” Paul Krugman, Prêmio Nobel de Economia.</p>
+<p>Recentemente, escrevi um artigo no GLOBO, intitulado “Lula e Trump”, em que comparei a esquerda brasileira com os conservadores americanos, e afirmei que esses grupos, tão díspares ideologicamente, têm algo em comum: ambos perderam a integridade intelectual. A esquerda brasileira, disse eu, porque se recusa a aceitar as incontestáveis evidências de que Lula e o PT operaram uma quadrilha que desviou bilhões de dólares dos cofres públicos (e de que Dilma sabia). E os conservadores americanos, acrescentei, porque se recusam a aceitar o fracasso da “economia de oferta” e porque encamparam as loucuras de Donald Trump. Argumentei que, para defender essas posições, ambos os grupos foram forçados a construir narrativas fantasiosas da história e a usar uma série de estratagemas “intelectuais” que têm como objetivo varrer para baixo do tapete fatos que refutam as suas ideias. No tal artigo, disse que fazer isso é ser intelectualmente desonesto.</p>
+<p>Não se trata, evidentemente, de terminologia nova. Debates acerca da honestidade e da desonestidade intelectual, e o que as caracteriza, são recorrentes na epistemologia e na filosofia da ciência. Estão presentes no trabalho de filósofos como Bertrand Russell, Imre Lakatos, Karl Popper e Paul Feyerabend, além de inúmeros filósofos e cientistas contemporâneos, como Daniel Dennett e David Deutsch. E, no entanto, até mesmo pessoas que conhecem esses autores ficaram chateadas comigo, como se tivessem lido essas duas palavras juntas pela primeira vez na vida. Por que será que o uso do termo “intelectualmente desonesto” ofende tanta gente na esquerda brasileira?</p>
+<p>O motivo me parece óbvio. Tem muita gente na esquerda brasileira que preza a honestidade intelectual e que sabe que teve que abrir mão dela para defender Lula, Dilma e o PT. Essas pessoas raciocinaram assim: a direita brasileira é pior do que a esquerda, e os políticos que julgaram Dilma são tão ou mais corruptos do que ela. Melhor ficar com a quadrilha do PT do que com a quadrilha do PSDB. Partindo dessa premissa, colocaram-se em uma posição muito difícil, porque se viram forçadas a adotar uma de duas estratégias: ou assumiam a defesa de políticos que sabiam ser corruptos por razões ideológicas que supostamente se sobrepõem à ética, ou fingiam que esses políticos não eram corruptos e abriam mão da própria honestidade intelectual.</p>
+<p>Entendo, portanto, que essas pessoas tenham ficado chateadas comigo quando abordei seu dilema de forma explícita. O que não entendo, todavia, é como não percebem o tamanho do erro que estão cometendo. Como disse Imre Lakatos em uma aula que proferiu na London School of Economics, o problema da honestidade intelectual não é uma questão abstrata de filosofia, é uma questão de vida ou morte.</p>
+<p>Os debates acerca da honestidade intelectual se centram em duas questões: a primeira diz respeito ao que caracteriza a honestidade intelectual, e a segunda diz respeito a sua função social e evolutiva. Essas duas questões são complexas, de forma que serei superficial e sucinto.</p>
+<p>No que tange à primeira questão: quase todas as caracterizações de honestidade intelectual em filosofia analítica afirmam, de uma forma ou de outra, que uma pessoa é intelectualmente honesta quando ela está disposta a abandonar as suas ideias caso fique demonstrado que:</p>
+<p>1) Elas são internamente inconsistentes (logicamente contraditórias).</p>
+<p>2) Elas são incompatíveis com enunciados que reportam fatos (estão em contradição lógica com os enunciados de base).</p>
+<p>Um rápido exame desse critério revela que se trata de um critério negativo. Segundo ele, a honestidade intelectual não requer que alguém adote ideias, requer apenas que alguém esteja disposto a abandonar as suas ideias em certas circunstâncias.</p>
+<p>E por que a adoção de um critério desse tipo é uma questão de vida e morte?</p>
+<p>Em primeiro lugar, evidentemente, porque contrariar fatos pode ser fatal. Pense em todas as pessoas que morreram de câncer no pulmão porque se recusaram a abandonar a crença, propagada pela indústria do tabaco, de que cigarro não faz mal à saúde. Mas há um outro motivo, igualmente sério: quando pessoas que defendem ideias incompatíveis não dispõem de algum critério lógico que lhes permita decidir quem tem razão, e nenhuma delas está disposta a dar o braço a torcer, as disputas entre elas podem se tornar violentas. Por isso, uma sociedade habitada por pessoas intelectualmente desonestas tende a ser uma sociedade cheia de conflitos.</p>
+<p>O respeito à racionalidade e à honestidade intelectual é valor muito mais importante e fundamental para uma sociedade do que qualquer ideologia. O erro fundamental de parte da esquerda brasileira, um erro que talvez fira de morte as ideias socialistas no país, é não entender isso. E a direita, diga-se de passagem, está indo pelo mesmo caminho. No caso, não em nome da ideologia, mas em nome da economia. É evidente que Temer não poderia ocupar as posições que ocupou sem saber e sem participar do petrolão. Temer foi eleito na mesma chapa da Dilma duas vezes... Defender Temer também é ser desonesto intelectualmente.</p>
+<p>Não sei, não, amigos. Se o Brasil continuar descendo a ladeira da irracionalidade, vamos ter, cada vez mais, “black blocs” enlouquecidos vagando pelas ruas de São Paulo.</p>
+{% endraw %}

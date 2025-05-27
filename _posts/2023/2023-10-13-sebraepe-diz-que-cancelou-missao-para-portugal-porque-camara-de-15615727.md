@@ -1,0 +1,38 @@
+---
+id: 15615727
+date: "2023-10-13T21:09:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "sebrae"
+  - "polo-textil-do-agreste"
+categories:
+  - "sem-categoria"
+title: "Sebrae/PE diz que cancelou miss\u00e3o para Portugal porque C\u00e2mara de Com\u00e9rcio Brasil Portugal n\u00e3o tinha capacidade t\u00e9cnica "
+sutia: "Programa de internacionaliza\u00e7\u00e3o da C\u00e2mara de Com\u00e9rcio Brasil-Portugal seria realizado com apoio da Adepe, em parceria com maior rede de neg\u00f3cios para pequenas e m\u00e9dias empresas do mundo, a Enterprise Europe Network (EEN)"
+chapeu: "miss\u00e3o empresarial"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/07/07/022aeed2_d67d_411c_aacf_ed212ea76524__1_-23458021.jpg"
+---
+{% raw %}
+<p>Em informe enviado ao <strong>Blog de Jamildo</strong>, o Servi&ccedil;o de Apoio &agrave;s Micro e Pequenas Empresas do Estado de Pernambuco (Sebrae/PE) comentou as informa&ccedil;&otilde;es alusivas &agrave;<a href="https://jc.ne10.uol.com.br/colunas/jamildo/2023/10/15614975-sebrae-cancela-missao-de-negocios-a-portugal-e-prejudica-cadeia-textil-de-pernambuco.html" target="_blank" rel="noopener noreferrer"> miss&atilde;o internacional que levaria empresas do polo de confec&ccedil;&otilde;es do Agreste pernambucano para Portugal.</a></p>
+<p>A miss&atilde;o seria realizada entre os dias 9 e 14 de outubro, organizada pela C&acirc;mara de Com&eacute;rcio Brasil-Portugal em parceria com o Sebrae e a Ag&ecirc;ncia de Desenvolvimento Econ&ocirc;mico de Pernambuco (Adepe).</p>
+<p>Nesta sexta-feira, em entrevista ao <strong>Blog de Jamildo,</strong> o presidente da C&acirc;mara de Com&eacute;rcio Brasil-Portugal, <strong>Antonio M&aacute;rio de Abreu Pinto</strong>, criticou a decis&atilde;o e acusou o &oacute;rg&atilde;o de falta de transpar&ecirc;ncia e desrespeito a parceiros internacionais. "O cancelamento da miss&atilde;o foi um retrocesso sem precedentes nos esfor&ccedil;os de internacionaliza&ccedil;&atilde;o da cadeia t&ecirc;xtil do Agreste.O cancelamento foi comunicado pelo Sebrae sem qualquer justificativa formal. O Sebrae n&atilde;o fez nem um pedido desculpas &agrave;s entidades portuguesas envolvidas", afirmou Antonio M&aacute;rio.</p>
+<p>"A C&acirc;mara de Com&eacute;rcio Brasil Portugal prop&ocirc;s &agrave; Ag&ecirc;ncia de Desenvolvimento Econ&ocirc;mico de Pernambuco (Adepe) e ao Sebrae/PE a realiza&ccedil;&atilde;o de uma miss&atilde;o de internacionaliza&ccedil;&atilde;o de empresas do polo de confec&ccedil;&otilde;es do Agreste para Portugal,<strong> sem que tenha apresentado a documenta&ccedil;&atilde;o necess&aacute;ria a viabilizar a sua contrata&ccedil;&atilde;o, notadamente, no que se refere &agrave; justificativa do pre&ccedil;o</strong> sugerido e ao <strong>atestado de capacidade t&eacute;cnica para realiza&ccedil;&atilde;o da miss&atilde;o</strong>, conforme parecer jur&iacute;dico do Sebrae, acatado pela diretoria", afirmou o Sebrae, ao Blog, nesta sexta.</p>
+<p>"Ap&oacute;s in&uacute;meras tratativas, o Sebrae/PE achou prudente adiar a miss&atilde;o. &Agrave;s demais institui&ccedil;&otilde;es envolvidas, tais como, a Adepe e a Associa&ccedil;&atilde;o Comercial e Empresarial de Caruaru (Acic), assim como os empres&aacute;rios que participariam da miss&atilde;o, n&atilde;o questionaram a acertada decis&atilde;o do Sebrae/PE", continua o Sebrae.</p>
+<p>"Com efeito, como institui&ccedil;&atilde;o que lida com o dinheiro p&uacute;blico, o Sebrae preza pela &eacute;tica, transpar&ecirc;ncia, efici&ecirc;ncia e pelo cumprimento da lei nas contrata&ccedil;&otilde;es e na aplica&ccedil;&atilde;o dos recursos. O Sebrae/PE reitera o seu compromisso com o desenvolvimento e a sustentabilidade dos pequenos neg&oacute;cios, reafirmando o compromisso com as institui&ccedil;&otilde;es e com a sociedade".</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/10/13/120x80/1_antonio_mario-24617266.jpeg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'6529ee1501b65', 'cd_midia':24617266, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/10/13/antonio_mario-24617266.jpeg', 'ds_midia': 'Ant&ocirc;nio M&aacute;rio, presidente da C&acirc;mara de Com&eacute;rcio Brasil Portugal', 'ds_midia_credi': 'Divulga&ccedil;&atilde;o', 'ds_midia_titlo': 'Ant&ocirc;nio M&aacute;rio, presidente da C&acirc;mara de Com&eacute;rcio Brasil Portugal', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '816', 'align': 'Left'}"><figure style="width:816;height:1224;">
+			<img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/10/13/antonio_mario-24617266.jpeg" alt="Divulga&ccedil;&atilde;o" title="Ant&ocirc;nio M&aacute;rio, presidente da C&acirc;mara de Com&eacute;rcio Brasil Portugal">
+		<figcaption class='text-left'>
+			Ant&ocirc;nio M&aacute;rio, presidente da C&acirc;mara de Com&eacute;rcio Brasil Portugal - <strong>Divulga&ccedil;&atilde;o</strong>
+		</figcaption>
+	</figure></tinymce></p>
+<h2>Entenda a pol&ecirc;mica com a miss&atilde;o a Portugal</h2>
+<p>O Sebrae Pernambuco cancelou, &agrave;s v&eacute;speras da realiza&ccedil;&atilde;o, uma miss&atilde;o de neg&oacute;cios a Portugal que beneficiaria empresas do polo t&ecirc;xtil e de confec&ccedil;&otilde;es do Agreste. A decis&atilde;o foi criticada pela C&acirc;mara de Com&eacute;rcio Brasil-Portugal, que acusa o &oacute;rg&atilde;o de falta de transpar&ecirc;ncia e desrespeito a parceiros internacionais.</p>
+<p>A miss&atilde;o, que seria realizada entre os dias 9 e 14 de outubro, foi organizada pela C&acirc;mara de Com&eacute;rcio Brasil-Portugal em parceria com o Sebrae e a Ag&ecirc;ncia de Desenvolvimento Econ&ocirc;mico de Pernambuco (Adepe). O cancelamento, segundo a entidade, foi comunicado pelo Sebrae sem qualquer justificativa formal.</p>
+<p>A C&acirc;mara de Com&eacute;rcio Brasil-Portugal afirma que a miss&atilde;o era uma oportunidade importante para a internacionaliza&ccedil;&atilde;o do polo t&ecirc;xtil e de confec&ccedil;&otilde;es do Agreste. O evento incluiria rodadas de neg&oacute;cios, visitas a ind&uacute;strias e palestras promovidas em coopera&ccedil;&atilde;o com o governo portugu&ecirc;s.</p>
+<p>O presidente da C&acirc;mara de Com&eacute;rcio Brasil-Portugal, Antonio M&aacute;rio de Abreu Pinto, disse que o cancelamento da miss&atilde;o foi um "retrocesso sem precedentes" nos esfor&ccedil;os de internacionaliza&ccedil;&atilde;o da cadeia t&ecirc;xtil do Agreste. Ele tamb&eacute;m criticou o Sebrae por n&atilde;o ter pedido desculpas &agrave;s entidades portuguesas envolvidas..</p>
+<h2>SOBRE A C&Acirc;MARA DE COM&Eacute;RCIO BR-PT</h2>
+<p>Fundada em 1912 no estado de Pernambuco, a C&acirc;mara de Com&eacute;rcio Brasil-Portugal &eacute; a segunda mais antiga em atividade no pa&iacute;s, atr&aacute;s apenas do Rio de Janeiro. A entidade bilateral tem como prop&oacute;sito fomentar o ambiente de neg&oacute;cios entre os dois pa&iacute;ses e trabalhar pelo fortalecimento do networking nos setores p&uacute;blico e privado. A sua miss&atilde;o &eacute; fortalecer relacionamentos e promover a inova&ccedil;&atilde;o no empreendedorismo. Em todo o Brasil, s&atilde;o 18 C&acirc;maras Portuguesas, que juntas re&uacute;nem mais de 2,5 mil associados.</p>
+<p><iframe title="YouTube video player" src="https://www.youtube.com/embed/HrITq_KLJj8?si=R0BS5cDVTAQpUQkI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+{% endraw %}

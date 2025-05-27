@@ -1,0 +1,29 @@
+---
+id: 15699903
+date: "2024-05-01T18:55:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "economia"
+categories:
+  - "sem-categoria"
+title: "Sob Lula, ag\u00eancia Moody\u2019s melhora perspectiva da nota de cr\u00e9dito do Brasil"
+sutia: "A ag\u00eancia de risco diz esperar crescimento robusto, em conjunto com progresso cont\u00ednuo na consolida\u00e7\u00e3o fiscal, possibilitando a estabiliza\u00e7\u00e3o da d\u00edvida do pa\u00eds"
+chapeu: "Recupera\u00e7\u00e3o em curso"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/webp/2024/05/01/economia_1609210409_0-27008595.webp"
+---
+{% raw %}
+<p>A ag&ecirc;ncia de classifica&ccedil;&atilde;o de riscos Moody&acute;s revisou para cima a perspectiva da nota de cr&eacute;dito do Brasil, nesta quarta-feira (1&ordm;). Atualmente, o n&iacute;vel (rating) do pa&iacute;s &eacute; Ba2, que indica um risco maior para investimentos estrangeiros. A institui&ccedil;&atilde;o manteve a nota, mas mudou a perspectiva da avalia&ccedil;&atilde;o de "est&aacute;vel" para "positiva", sinalizando que pode elevar esse rating no futuro.</p>
+<p>De acordo com o Tesouro Nacional, essa decis&atilde;o &eacute; a primeira movimenta&ccedil;&atilde;o da Moody&rsquo;s desde 2018, quando houve a mudan&ccedil;a de perspectiva de negativa para est&aacute;vel, e &ldquo;refor&ccedil;a a melhoria na trajet&oacute;ria da nota de cr&eacute;dito verificada desde 2023&rdquo;, com a eleva&ccedil;&atilde;o do rating pela Standard &amp; Poor's e pela Fitch. As tr&ecirc;s institui&ccedil;&otilde;es comp&otilde;em as ag&ecirc;ncias de riscos mais conceituadas do mercado.</p>
+<p>&ldquo;Ocorrendo a efetiva&ccedil;&atilde;o da mudan&ccedil;a da nota de cr&eacute;dito, o Brasil estar&aacute; a um degrau de voltar a possuir grau de investimento, um marco significativo para os indicadores de estabilidade econ&ocirc;mica do pa&iacute;s&rdquo;, explicou o Tesouro, nesta quarta-feira.</p>
+<p>O grau de investimento funciona como um atestado de que os pa&iacute;ses n&atilde;o correm risco de dar calote na d&iacute;vida p&uacute;blica. Abaixo dessa categoria, est&aacute; o grau especulativo, cuja probabilidade de deixar de pagar a d&iacute;vida p&uacute;blica sobe &agrave; medida que a nota diminui.</p>
+<p>A classifica&ccedil;&atilde;o de risco por ag&ecirc;ncias estrangeiras representa uma medida de confian&ccedil;a dos investidores internacionais na economia de determinado pa&iacute;s. As notas servem como refer&ecirc;ncia para os juros dos t&iacute;tulos p&uacute;blicos, que representam o custo para o governo pegar dinheiro emprestado dos investidores. As ag&ecirc;ncias tamb&eacute;m atribuem notas aos t&iacute;tulos que empresas emitem no mercado financeiro, avaliando a capacidade de as companhias honrarem os compromissos.</p>
+<p>Nas redes sociais, o ministro da Fazenda, Fernando Haddad, afirmou que a revis&atilde;o da Moody's &eacute; o reconhecimento da mudan&ccedil;a da melhora das perspectivas econ&ocirc;micas brasileiras. "Isso tem a ver com o trabalho conjunto dos tr&ecirc;s Poderes, que colocaram os interesses do pa&iacute;s acima de diverg&ecirc;ncias super&aacute;veis. Mesmo com a deteriora&ccedil;&atilde;o moment&acirc;nea da economia global, o Brasil caminha e recupera credibilidade econ&ocirc;mica, social e ambiental. Temos muito a fazer!", disse.</p>
+<p>De acordo com o Tesouro Nacional, o comunicado da Moody&rsquo;s destaca a melhora na perspectiva do crescimento do pa&iacute;s, ap&oacute;s sucessivas reformas estruturais e salvaguardas institucionais &ldquo;que reduzem a incerteza sobre a dire&ccedil;&atilde;o futura das pol&iacute;ticas p&uacute;blicas&rdquo;. Entre as reformas citadas, a ag&ecirc;ncia enfatiza a import&acirc;ncia da reforma tribut&aacute;ria em curso e da consolida&ccedil;&atilde;o fiscal, do equil&iacute;brio das contas p&uacute;blicas.</p>
+<p>Ao manter o rating Ba2, a Moody&acute;s ainda aponta riscos diante do n&iacute;vel elevado de endividamento do Brasil. A ag&ecirc;ncia enfatizou a import&acirc;ncia da manuten&ccedil;&atilde;o da credibilidade do arcabou&ccedil;o fiscal para a &ldquo;redu&ccedil;&atilde;o das incertezas a respeito da trajet&oacute;ria fiscal&rdquo;.</p>
+<p>&ldquo;Dessa forma, a ag&ecirc;ncia espera que o crescimento robusto, em conjunto com progresso cont&iacute;nuo na consolida&ccedil;&atilde;o fiscal, possibilite a estabiliza&ccedil;&atilde;o da d&iacute;vida do pa&iacute;s&rdquo;, avaliou o Tesouro, citando ainda o destaque da ag&ecirc;ncia para a agenda de transi&ccedil;&atilde;o energ&eacute;tica do governo que, &ldquo;com o objetivo de atrair investimentos privados para projetos de energia limpa, pode tamb&eacute;m contribuir para alavancar o crescimento&rdquo;.</p>
+<p>&ldquo;O Minist&eacute;rio da Fazenda reafirma o compromisso do pa&iacute;s com uma trajet&oacute;ria sustent&aacute;vel para as contas p&uacute;blicas, combinando esfor&ccedil;os para melhorar a arrecada&ccedil;&atilde;o e para conter a din&acirc;mica das despesas&rdquo;, afirmou, na nota do Tesouro Nacional.</p>
+<p>&ldquo;O melhor balan&ccedil;o fiscal do governo levar&aacute; &agrave; redu&ccedil;&atilde;o das taxas de juros e &agrave; melhoria das condi&ccedil;&otilde;es de cr&eacute;dito. Desta forma, ser&atilde;o criadas as condi&ccedil;&otilde;es para a amplia&ccedil;&atilde;o dos investimentos p&uacute;blicos e privados e a gera&ccedil;&atilde;o de empregos, aumento da renda e maior efici&ecirc;ncia econ&ocirc;mica, elementos essenciais para o desenvolvimento econ&ocirc;mico e social do Brasil&rdquo;, completou a pasta.<br /></p>
+<p>com informa&ccedil;&otilde;es da Ag&ecirc;ncia Brasil</p>
+{% endraw %}

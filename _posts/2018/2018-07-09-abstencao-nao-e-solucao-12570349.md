@@ -1,0 +1,31 @@
+---
+id: 12570349
+date: "2018-07-09T18:00:05Z"
+last_modified_at: null
+tags:
+  - "naomi-campbell"
+categories:
+  - "noticias"
+title: "Absten\u00e7\u00e3o n\u00e3o \u00e9 solu\u00e7\u00e3o"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><p><br /></p>
+<p>Por Luiz Carlos Borges da Silveira, em artigo enviado ao blog</p></p>
+<p><p>A situação política brasileira continua complicada e mesmo sendo ano de eleições majoritárias e proporcionais não há expectativa de melhora a curto prazo, porque não se visualiza efetivo aceno de mudança pela urna, que é o caminho na democracia.</p></p>
+<p><p>Os brasileiros costumam culpar os políticos pela inadequada condução do país e pelas mazelas existentes. Não deixam de estar certos, porém esquecem – ou não se conscientizam – que também são responsáveis porque é o voto que define quem vai exercer o comando da política e do gerenciamento público. Se os mandatários não se revelam eficientes é evidente que a responsabilidade é também de quem concedeu o mandato através do voto. Todavia, pior do que votar mal é a omissão, pois isso é renegar o direito de cidadania.</p></p>
+<p><p>É histórica a tendência de o eleitor demonstrar sua insatisfação ou descrença votando em branco, anulando o voto ou simplesmente não comparecendo para votar. Essa tendência, recorrente em épocas de crises políticas, nos últimos tempos tem sido facilitada pelo uso das redes sociais que potencializam a disseminação dessa insatisfação. Antes, o desejo era apenas pessoal, isolado. Agora, com o compartilhamento, a ideia vai agregando pequenos movimentos que se ampliam criando força e adesões. Circulam boatos e ‘correntes’ na internet conclamando os eleitores a não comparecerem à votação, ou se comparecerem que votem em branco ou nulo. O resultado é preocupante.</p></p>
+<p><p>Recentemente, na eleição suplementar para governador do Estado do Tocantins, no primeiro turno quase metade do eleitorado não optou por nenhuma das candidaturas, a abstenção, somada aos brancos e nulos chegou a quase 50% dos votos. No segundo turno o percentual foi ainda maior, quase 60%, ou seja, o candidato vencedor não alcançou representatividade, não obteve apoio da maioria, foi eleito pela minoria. Outro fato semelhante ocorrido também em eleição suplementar foi para prefeito de Cabo Frio (RJ), o candidato eleito perdeu para os votos brancos e nulos.</p></p>
+<p><p>Até nas pesquisas eleitorais nota-se essa atitude do eleitor. Semana passada foi divulgada consulta para o pleito presidencial e as intenções de nulos e brancos variaram entre 22% e 35%. Nessa mesma pesquisa nota-se que, faltando pouco mais de três meses para a eleição, 59% dos eleitores não citaram intenção espontânea de votar em algum candidato.</p></p>
+<p><p>É reflexo do desencantamento do eleitor com a política e por consequência o desinteresse. Entretanto, isso não contribui para melhorar a situação.</p></p>
+<p><p>Desde que se consolidou o processo de redemocratização, após o regime militar, vem ocorrendo decréscimo no interesse participativo que tivera ponto alto em marcantes campanhas como a das Diretas Já. Parece que o povo se acomodou, acreditando que tudo estava resolvido. Sem movimentos fortes e permanentes a vigilância enfraqueceu e aos poucos cresceu a deterioração dos valores e dos princípios éticos até chegar ao ponto em que estamos.</p></p>
+<p><p>E não será essa situação revertida senão com atitudes fortes, participação e cobrança. Ignorar o problema ou dele fugir é atitude leniente que só favorece aos maus políticos. O eleitor não pode incorrer no erro de imaginar que votar branco/nulo ou se abster evitará que os maus políticos se elejam, ao contrário, esses mesmo que estão aí se reelegerão ou virão outros de iguais propósitos, pois sabem que o povo está alheio. A resposta é votar, e votar bem, votar em candidatos com propostas sérias, que estejam comprometidos com os anseios populares e revelem responsabilidade cívica para com o país.</p></p>
+<p><p>Todavia, isso não acontece de repente, não se resolve em cima da hora, na véspera da eleição quando os esquemas já estão armados. Por isto tenho pregado, há muito tempo, a necessidade de efetiva participação em busca da verdadeira renovação, promovendo-se o expurgo da política viciada, alimentada por partidos cuja ideologia são alianças espúrias, interesses pessoais de lideranças negocistas que agregam em suas bases políticos com ideal interesseiro e aético que depois levam esses maus princípios para dentro das instituições. E deve o eleitor ficar atento às siglas que mudam de nome para apagar a imagem corrompida, porém continuam conduzidas com os mesmos questionáveis ideais.</p></p>
+<p><p>Defendo, também, que é necessário conscientizar e estimular a juventude, despertando-lhe o interesse em participar. Dia destes tomei conhecimento de dados que reforçam essa necessidade. O levantamento revela queda no voto jovem, queda no número de títulos de eleitor expedidos para jovens com idade entre 16 e 18 anos e que até junho deste ano, só 40% dos jovens brasileiros nessa idade haviam tirado título de eleitor. O ingresso espontâneo no sistema eleitoral é normalmente entendido como indicador da vontade de participar politicamente dos rumos do país. A queda representa, portanto, a decisão de retardar esse direito.</p></p>
+<p><p>É importante transmitir à juventude seu significativo papel político, pois a verdadeira política é um exercício diário, indispensável na democracia. Acredito que a partir do voto seletivo veremos o surgimento de novas lideranças depuradas, sem vícios e sem ideias ultrapassadas.</p></p>
+<p><p>Portanto, a efetiva mudança política não virá pelo equivocado tipo de protesto que menoscaba o direito do voto; virá, sim, pela valorização do voto e pela decidida participação cidadã. A omissão abre caminho aos oportunistas.</p></p>
+<p><p>Luiz Carlos Borges da Silveira é empresário, médico e professor. Foi Ministro da Saúde e Deputado Federal</p></p>
+{% endraw %}

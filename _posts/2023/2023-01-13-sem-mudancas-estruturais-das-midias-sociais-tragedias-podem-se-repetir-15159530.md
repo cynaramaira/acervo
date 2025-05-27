@@ -1,0 +1,40 @@
+---
+id: 15159530
+date: "2023-01-13T14:20:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "redes-sociais"
+  - "golpe"
+  - "democracia"
+categories:
+  - "sem-categoria"
+title: "Sem mudan\u00e7as estruturais das m\u00eddias sociais trag\u00e9dias podem se repetir"
+sutia: "Especialistas falam que as redes sociais que criaram terroristas"
+chapeu: "radicaliza\u00e7\u00e3o"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/01/11/atos_em_brasilia-22281132.jpg"
+---
+{% raw %}
+<p>Os perigos das publica&ccedil;&otilde;es em m&iacute;dias sociais sociais tem mudado a conduta da sociedade, tanto na forma de agir, de se posicionar e refletir. Mais abaixo, o advogado Francisco Gomes Junior, especialista em direito digital e Presidente da Associa&ccedil;&atilde;o de Defesa de Dados Pessoais e do Consumidor (ADDP), tamb&eacute;m escreve artigo alertando sobre o tema. Jos&eacute; Alves Trigo &eacute; professor de Jornalismo na Universidade Presbiteriana Mackenzie, doutor em An&aacute;lise do Discurso e analista pol&iacute;tico. Veja o texto abaixo</p>
+<p>Por Jos&eacute; Alves Trigo</p>
+<p>Quem &eacute; a dona F&aacute;tima, uma senhora com 68 anos de idade, de Tubar&atilde;o (SC), e que diz que "defecou" (na verdade ela usou outro termo) no banheiro do STF (Supremo Tribunal Federal)? No v&iacute;deo que circula nas redes sociais, ela grita que est&aacute; "preparada para uma guerra".</p>
+<p>Defender golpe no Brasil &eacute; crime previsto na Lei 359-M, com pena prevista de quatro a 12 anos de pris&atilde;o. Mas este &eacute; outro aspecto. O que quero destacar &eacute; o que leva uma senhora de 68 anos de idade, que provavelmente tem uma longa hist&oacute;ria, a defecar no STF e cometer crimes.<br /></p>
+<p>A dona F&aacute;tima talvez tenha netos, filhos e uma fam&iacute;lia. Talvez tenha trabalhado durante muitos anos e provavelmente viva de uma aposentadoria.<br /></p>
+<p>Assisti a muitos v&iacute;deos de pessoas que diziam, verdadeiramente, que n&atilde;o sabiam por que estavam sendo presas. Muitas idosas, provavelmente sem nenhuma passagem por uma cadeia ou delegacia. Talvez nenhum processo. E algumas passar&atilde;o algum tempo nos pres&iacute;dios da Colmeia ou Papuda, ambos em Bras&iacute;lia, at&eacute; que suas situa&ccedil;&otilde;es sejam resolvidas.</p>
+<p>Em tese, poder&atilde;o ficar mais de dez anos. Ou seja, at&eacute; quase o final de suas vidas, para alguns. Gustave Le Bon, um intelectual franc&ecirc;s nascido no s&eacute;culo XIX, deveria estar vivo para analisar este contexto. Ele defende, em seu livro Psicologia das Multid&otilde;es, de que as multid&otilde;es representavam a explos&atilde;o de um lado irracional.<br /></p>
+<p>Aqui est&aacute; a ess&ecirc;ncia da discuss&atilde;o. Boa parte desses males pode ser associado &agrave;s redes sociais, que dissipam a ignor&acirc;ncia. &Eacute; como se uma dose de veneno (ou droga) fosse inoculada diariamente em cada uma daquelas mensagens de WhatsApp que a dona F&aacute;tima provavelmente recebia e repassava diariamente. Os famosos grupos de WhatsApp.</p>
+<p>Muitas em tom de ironias, os famosos memes, que em muitos casos divertem, mas dissipam ideias (o que n&oacute;s acad&ecirc;micos chamados de discursos) muitos poderosos. Cria-se uma l&oacute;gica irracional que levou um dia a dona F&aacute;tima a embarcar em um &ocirc;nibus em Tubar&atilde;o, viajar milhares de quil&ocirc;metros e invadir um pr&eacute;dio p&uacute;blico. Isso n&atilde;o a inocenta, mas mostra a for&ccedil;a de um meme, de uma brincadeira, de post, que inoculado diariamente cria uma verdade.</p>
+<h2>Sem mudan&ccedil;as estruturais das m&iacute;dias sociais trag&eacute;dias podem se repetir&nbsp;</h2>
+<p>por Francisco Gomes Junior</p>
+<p>O c&oacute;digo de conduta democr&aacute;tico, ap&oacute;s um desgaste por d&eacute;cadas, come&ccedil;ou a dar sinais de dem&ecirc;ncia a partir de 2015. Personificar a decad&ecirc;ncia comportamental da pol&iacute;tica em personagens como Trump, Orban, Le Pen ou Bolsonaro &eacute; simplificar e reduzir a intoler&acirc;ncia a posturas individuais, deixando de consider&aacute;-la uma transforma&ccedil;&atilde;o em parte da sociedade e analisar suas causas.</p>
+<p>Perdeu-se inicialmente parte do sistema de governan&ccedil;a, n&atilde;o somente do ponto de vista formal, mas em sua ess&ecirc;ncia. Passou-se a governar por m&iacute;dias sociais, sobretudo pelo Twitter, assim, temas antes debatidos nos espa&ccedil;os pol&iacute;ticos perderam o contradit&oacute;rio. O governante passou a postar opini&otilde;es sem diverg&ecirc;ncia e habituou-se, paulatinamente, a ditar a narrativa dos fatos de acordo com seu interesse.</p>
+<p>Se na d&eacute;cada de 80 questionar pontos da globaliza&ccedil;&atilde;o era algo como uma vis&atilde;o retr&oacute;grada, certamente manifestar a convic&ccedil;&atilde;o de que as m&iacute;dias sociais diminuem o debate democr&aacute;tico, ao contr&aacute;rio do que se prop&otilde;em, tamb&eacute;m gera a rea&ccedil;&atilde;o negativa dos empolgados com o progresso digital. E n&atilde;o se trata de criticar a massifica&ccedil;&atilde;o dos meios de manifesta&ccedil;&atilde;o, n&atilde;o se trata de achar, como j&aacute; foi dito, que as redes sociais deram voz a muitos imbecis, mas sim de constatar que debates se tornam mais rasos e com conclus&otilde;es mais r&aacute;pidas e radicais.</p>
+<p>Com esse mecanismo de captura de f&atilde;s seguidores, pol&iacute;ticos perceberam a facilidade de fidelizarem eleitores e formarem adeptos que os seguem como a l&iacute;deres de seitas. E perceberam que quanto mais radicalizam em opini&otilde;es, mais engajamento conseguem, o que redunda em maiores vota&ccedil;&otilde;es nos pleitos eleitorais.</p>
+<p>A rede social permite a acusa&ccedil;&atilde;o sem prova, a distor&ccedil;&atilde;o e inven&ccedil;&atilde;o de fatos, a cria&ccedil;&atilde;o de teorias sem sustenta&ccedil;&atilde;o cient&iacute;fica, a heroica lacra&ccedil;&atilde;o, o vitimismo e a mentira deslavada. E que n&atilde;o se ouse falar em regula&ccedil;&atilde;o dessas m&iacute;dias sociais, o que representa uma tentativa absolutista de tolher a liberdade de express&atilde;o.</p>
+<p>Esse uso das m&iacute;dias cria convertidos fundamentalistas prontos a seguir orienta&ccedil;&otilde;es de seus l&iacute;deres, quaisquer que sejam. Isso propicia que pol&iacute;ticos mal-intencionados planejem a&ccedil;&otilde;es de curto e m&eacute;dio prazo, inclusive para gerar desestabiliza&ccedil;&otilde;es de maior ou menor grau. A tomada do Capit&oacute;lio assim foi gestada e a tentativa golpista quartelada em Bras&iacute;lia (DF) &eacute; filhote do mesmo modus operandi.</p>
+<p>&Eacute; necess&aacute;rio ter consci&ecirc;ncia do funcionamento dessas m&iacute;dias, para n&atilde;o acharmos que atos fundamentalistas desestabilizadores s&atilde;o pontuais ou isolados. Infelizmente, tudo indica que assim n&atilde;o o ser&aacute;.</p>
+<p>Ap&oacute;s o tombo e frustra&ccedil;&atilde;o dos arroubos golpistas, os f&atilde;s clubes ser&atilde;o reconstru&iacute;dos ou migrar&atilde;o para novos personagens. E, sem mudan&ccedil;as estruturais que melhorem o funcionamento das m&iacute;dias sociais nas m&atilde;os das big techs, trag&eacute;dias podem se repetir e at&eacute; mesmo tornarem-se mais graves, j&aacute; que o golpista frustrado de hoje aprender&aacute; com seus erros e voltar&aacute; com mais planejamento em suas pr&oacute;ximas a&ccedil;&otilde;es mal&eacute;ficas.</p>
+<p>Por isso, espera-se que o mundo jur&iacute;dico n&atilde;o seja anal&oacute;gico em um mundo digital, que n&atilde;o seja positivista ou se perca em juridicismos que gerem impunidade com base em tecnicismos. Se a puni&ccedil;&atilde;o n&atilde;o vier, ou demorar a vir, a seita ser&aacute; retroalimentada e em breve dar&aacute; novo sinal de vida.</p>
+<p>E mesmo com a puni&ccedil;&atilde;o, sem altera&ccedil;&otilde;es estruturais, a hist&oacute;ria se repetir&aacute;, ainda que como farsa.</p>
+{% endraw %}

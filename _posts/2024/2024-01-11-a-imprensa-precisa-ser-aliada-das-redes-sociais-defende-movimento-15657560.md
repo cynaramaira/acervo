@@ -1,0 +1,29 @@
+---
+id: 15657560
+date: "2024-01-11T21:49:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "justica"
+categories:
+  - "sem-categoria"
+title: "A imprensa precisa ser aliada das redes sociais, defende movimento Livres"
+sutia: "Movimento Livres v\u00ea uso de suic\u00eddio induzido pela a\u00e7\u00e3o das redes sociais como forma de reacender o debate sobre o controle governamental nas mesmas redes sociais"
+chapeu: "Opini\u00e3o"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/12/16/img_5636_0-25681819.jpg"
+---
+{% raw %}
+<p>Por Rodrigo Ambrosio, l&iacute;der do movimento Livres</p>
+<p>A recente trag&eacute;dia envolvendo a jovem J&eacute;ssica (Canedo) &eacute;, sem d&uacute;vida, um epis&oacute;dio tr&aacute;gico que merece nossa reflex&atilde;o e compaix&atilde;o. No entanto, &eacute; crucial atentarmos para a forma como algumas figuras p&uacute;blicas est&atilde;o utilizando esse evento para reacender o debate sobre o controle governamental nas redes sociais.</p>
+<p>O triste epis&oacute;dio tornou-se uma ferramenta conveniente para aqueles que defendem o Projeto de Lei 2630/20. Ao associar a morte da jovem &agrave; dissemina&ccedil;&atilde;o de informa&ccedil;&otilde;es falsas, membros do governo e aliados t&ecirc;m intensificado a press&atilde;o pela aprova&ccedil;&atilde;o desse projeto, que prop&otilde;e uma regulamenta&ccedil;&atilde;o mais r&iacute;gida sobre as redes sociais. Com isso, membros do governo come&ccedil;aram a sinalizar que o chamado "PL das Fake News" ser&aacute; uma prioridade em 2024, utilizando a trag&eacute;dia como catalisador para acelerar a discuss&atilde;o e vota&ccedil;&atilde;o do projeto.</p>
+<p>Recentemente, a sociedade tem testemunhado uma s&eacute;rie de desafios para a liberdade de express&atilde;o, seja por meio de projetos de lei controversos ou decis&otilde;es judiciais que amea&ccedil;am a autonomia do debate p&uacute;blico e, por consequ&ecirc;ncia, a pluralidade informativa. Diante desse cen&aacute;rio, &eacute; crucial que os meios de comunica&ccedil;&atilde;o e as plataformas digitais se unam em prol da preserva&ccedil;&atilde;o do direito &agrave; informa&ccedil;&atilde;o, garantindo um ambiente onde a liberdade de express&atilde;o e o acesso &agrave; informa&ccedil;&atilde;o de qualidade prevale&ccedil;am.</p>
+<p>O Projeto de Lei 2630/20, conhecido tamb&eacute;m como &ldquo;PL da Censura&rdquo;, tem levantado s&eacute;rias preocupa&ccedil;&otilde;es quanto &agrave; liberdade de express&atilde;o e autonomia das empresas privadas atuantes nas redes sociais. Ambiguidades legislativas presentes na proposta podem potencialmente prejudicar a pluralidade de vozes online, al&eacute;m de criar um comit&ecirc; gestor que, ao inv&eacute;s de proteger, poderia amea&ccedil;ar a privacidade e a seguran&ccedil;a jur&iacute;dica dos usu&aacute;rios dessas plataformas.</p>
+<p>A decis&atilde;o do Supremo Tribunal Federal (STF) que permite acionar judicialmente os meios de comunica&ccedil;&atilde;o por declara&ccedil;&otilde;es de entrevistados &eacute; mais uma pe&ccedil;a nesse quebra-cabe&ccedil;a complexo. Ao impor responsabilidades excessivas aos ve&iacute;culos de comunica&ccedil;&atilde;o, a medida pode resultar em um efeito inibidor na liberdade de imprensa e no direito &agrave; informa&ccedil;&atilde;o, prejudicando a sociedade como um todo.</p>
+<p>&Eacute; crucial entender que a regulamenta&ccedil;&atilde;o excessiva, seja por meio de leis ou decis&otilde;es judiciais, pode ter um impacto negativo sobre a liberdade de express&atilde;o e o direito &agrave; informa&ccedil;&atilde;o. Ao estender responsabilidades aos &oacute;rg&atilde;os estatais para regular as redes sociais, nos moldes da recente decis&atilde;o do STF, corre-se o risco de concentrar poder de maneira desproporcional, colocando em cheque a ess&ecirc;ncia democr&aacute;tica da informa&ccedil;&atilde;o livre.</p>
+<p>Neste contexto, &eacute; imperativo que os jornais e as redes sociais se unam em defesa da liberdade, refor&ccedil;ando a import&acirc;ncia de escolher a liberdade em detrimento de um controle estatal que, como sabemos, pode variar conforme as mudan&ccedil;as pol&iacute;ticas. A imprensa e as plataformas digitais devem agir como aliadas na defesa da liberdade de express&atilde;o, inova&ccedil;&atilde;o e acesso &agrave; informa&ccedil;&atilde;o jornal&iacute;stica de qualidade.</p>
+<p>&Eacute; fundamental reconhecer que a explora&ccedil;&atilde;o dessa trag&eacute;dia para impulsionar uma agenda de controle estatal sobre os meios de comunica&ccedil;&atilde;o &eacute; uma estrat&eacute;gia perigosa. Em vez de abordar as causas fundamentais da dissemina&ccedil;&atilde;o de informa&ccedil;&otilde;es falsas, essa abordagem busca atribuir responsabilidade ao ambiente como um todo, abrindo espa&ccedil;o para um controle amplo e restritivo.</p>
+<p>Em vez de criar obst&aacute;culos &agrave; liberdade, &eacute; fundamental investir em medidas que combatam a dissemina&ccedil;&atilde;o de informa&ccedil;&otilde;es falsas sem comprometer a privacidade dos usu&aacute;rios, seguindo os preceitos da Lei Geral de Prote&ccedil;&atilde;o de Dados.</p>
+<p>Devemos escolher a liberdade como princ&iacute;pio orientador, garantindo que as redes sociais e os meios de comunica&ccedil;&atilde;o permane&ccedil;am como espa&ccedil;os de debate diversificado e enriquecedor, preservando a vitalidade da democracia.</p>
+<p>PS do Blog: <em>Como se costumava dizer no tempo em que os jornais ainda eram impressos, a opini&atilde;o de articulistas n&atilde;o reflete necessariamente (nem desnecessariamente) a opini&atilde;o do blog de Jamildo, que sempre buscou funcionar como uma verdadeira tribuna livre.</em></p>
+{% endraw %}

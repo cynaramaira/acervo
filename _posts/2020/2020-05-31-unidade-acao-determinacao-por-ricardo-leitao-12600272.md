@@ -1,0 +1,34 @@
+---
+id: 12600272
+date: "2020-05-31T17:45:11Z"
+last_modified_at: null
+tags:
+  - "acao"
+  - "ricardo-salles"
+  - "universidade"
+categories:
+  - "noticias"
+title: "Unidade, a\u00e7\u00e3o, determina\u00e7\u00e3o. Por Ricardo Leit\u00e3o"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/05/2020-05-31t170807z_1518844236_rc2tzg9enrln_rtrmadp_3_brazil-politics1.jpg"
+---
+{% raw %}
+<p><p>Por Ricardo Leitão, jornalista, em artigo enviado ao blog</p></p>
+<p><p>Desde 1985, com o fim da ditadura, nós, os brasileiros, passamos a conviver com a rotina de votar e ser votado; emitir livremente opiniões; nos organizar em partidos políticos – e outras conquistas civilizatórias. Uma geração inteira sepultou no passado os chamados “anos de chumbo”, por esquecimento ou por falta de informação. Talvez não soubesse que, para vivermos hoje em um País democrático, milhares foram presos, exilados, torturados e mortos na resistência ao arbítrio.</p></p>
+<p><p>Para os que de alguma forma lutaram é um orgulho dizer hoje que ajudaram a construir um novo Brasil. Mas então como explicar que, de repente, tantas vozes passem a alertar que o “governo do povo, para o povo e pelo povo” está ameaçado? São lideranças partidárias, de trabalhadores e empresários; intelectuais e acadêmicos; militares e religiosos; representantes de instituições da sociedade; professores e estudantes. A democracia, erguida com tanto sacrifício durante 35 anos, pode ser derrubada?</p></p>
+<p><p>Eleito por milhões de votos, o Presidente Jair Bolsonaro afirma retoricamente que não. Segundo ele, os princípios constitucionais são respeitados, da mesma foram que as instituições democráticas. Contudo, Sua Excelência participa de manifestações antidemocráticas e anticonstitucionais contra o Congresso e o Supremo Tribunal Federal, estimula manifestações violentas de seus seguidores e defende a liberação de armas e munições como um direito de qualquer um.</p></p>
+<p><p>Por seu juramento perante o Congresso, Bolsonaro tem o dever constitucional de defender a democracia, regime de governo que busca lançar pontes e propor diálogos. Mas como se o Presidente ergue muros e os protege com escudeiros sem interlocução com a maioria da sociedade? Os primeiros são os seus filhos e amigos do clã; os segundos escudeiros formam o núcleo ideológico doutrinado pelo astrólogo Olavo de Carvalho; “as milícias patrióticas” integram a terceira linha de proteção, tendo na retaguarda uma base parlamentar notabilizada pela voracidade por verbas públicas.</p></p>
+<p><p><img class="alignleft size-full wp-image-229213" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2020/05/protestos-brasilia-1-vert.jpg" alt="" width="530" height="398" /></p></p>
+<p><p>Um presidente que se arvora defensor da democracia na verdade não aposta um cadarço de coturno no compromisso que jurou ao tomar posse. A democracia não é um fim, é um meio. No caso de Bolsonaro a questão é: meio para o quê?</p></p>
+<p><p>Ele não saberá responder, nem seus escudeiros. Na primeira linha, liderada pelos filhos, as prioridades são outras. Eduardo Bolsonaro, Deputado Federal por São Paulo, duas vezes denunciado na Câmara por quebra de decoro, tem noções de táticas militares e calculou que um cabo e um soldado, ocupando um jipe, são força suficiente para invadir o STF. Também se orgulha de reunir condições de ser embaixador do Brasil nos Estados Unidos, em decorrência de seu inglês fluente, aprendido no tempo em que fritava hambúrguer na pátria de Donald Trump.</p></p>
+<p><p>Flávio, Senador pelo Rio de Janeiro, e Carlos, Vereador na capital fluminense, preferem atuar no território nacional. O primeiro é investigado por rápido enriquecimento em transações imobiliárias e desvio de salários de servidores públicos. Carlos, por organizar uma rede de milicianos digitais especializada em atacar e enlamear adversários políticos do pai. Financiada por empresários da extrema direita, a rede – conhecida como Gabinete do Ódio – se estruturou na campanha presidencial de 2018 e não parou mais de crescer.</p></p>
+<p><p>Também não há qualquer compromisso democrático entre os integrantes do núcleo ideológico. Um dos seus expoentes é o Ministro da Educação Abraham Weintraub. Suas últimas iniciativas foram insultar os chineses e afrontar os judeus, alardear que odeia os povos indígenas e defender a prisão dos Ministros do Supremo Tribunal Federal, “esses vagabundos”. Sempre carrancudo, Weintraub também faz rir: meses atrás informou aos interessados haver plantios de maconha em jardins de universidades. Pela cortesia, ganhou o apelido de Professor Liamba.</p></p>
+<p><p>Tentar debater com “milícias patrióticas” temas democráticos de fundo merecerá tanta atenção quanto tentar discutir com a base parlamentar voraz algo que não seja a repartição de verbas públicas.</p></p>
+<p><p>Além de tudo, pesa cada dia mais a estrutura psíquica do Presidente da República. Há quem opine que Bolsonaro é lunático, como afirma Felipe Santa Cruz, Presidente da Ordem dos Advogados do Brasil. Outros identificam em seu comportamento traços de psicopatia, evidenciados na sua afinidade com a violência, o ódio e a morte.</p></p>
+<p><p>Para muitos, a reunião de 22 de abril passado, no Palácio do Planalto, foi exemplo de um comportamento anormal. Com uma linguagem de sarjeta, berrando palavrões diante de ministros silentes, o Presidente mostrou o melhor de suas qualidades. Por diversas vezes anunciou que estava “no limite”, que “quem manda aqui sou eu” e que se preciso iria “intervir em qualquer lugar”. O que acontecerá caso Bolsonaro arrebente os limites?</p></p>
+<p><p><img class="alignleft size-full wp-image-229214" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2020/05/tochas.jpg" alt="" width="868" height="526" /></p></p>
+<p><p>De concreto, não se sabe. Porém as forças progressistas do Brasil não devem correr o risco de esperar para ver. Por sua incapacidade de governar, de reconhecer o seu papel e de dialogar com os contrários, Jair Bolsonaro é, de fato, uma ameaça à democracia. Seu apoio popular vem caindo e o desespero diante da perspectiva da perda de poder o incentivaria a articular uma aventura tão tenebrosa quanto a de abril de 1964.</p></p>
+<p><p>É preciso reagir com a unidade que for possível se alcançar, com a determinação que sempre mostraram os brasileiros frente os grandes desafios. No entanto, reagir com rapidez. A democracia que tanto buscamos e pela qual tantos deram a vida não pode ser ultrajada pelos que representam o lado tenebroso dos porões do passado.</p></p>
+{% endraw %}

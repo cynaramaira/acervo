@@ -1,0 +1,32 @@
+---
+id: 15457124
+date: "2023-05-03T16:56:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "politica"
+categories:
+  - "sem-categoria"
+title: "Estrategista pol\u00edtico Paulo Moura lan\u00e7a novo livro no Recife"
+sutia: "Livro \"Intelig\u00eancia Pol\u00edtica e Estrat\u00e9gias nas Campanhas Eleitorais\" conta bastidores de campanhas e montagem de estrat\u00e9gias vencedoras"
+chapeu: "Comunica\u00e7\u00e3o"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/05/03/paulomoura-22939603.jpeg"
+---
+{% raw %}
+<p>As campanhas e estrat&eacute;gias eleitorais, que despertam o interesse de pol&iacute;ticos, profissionais das &aacute;reas de marketing pol&iacute;tico, estrat&eacute;gia e comunica&ccedil;&atilde;o, al&eacute;m do p&uacute;blico acad&ecirc;mico, s&atilde;o o tema do livro "Intelig&ecirc;ncia Pol&iacute;tica e Estrat&eacute;gias nas Campanhas Eleitorais" (Editora Vozes), do estrategista pol&iacute;tico <strong>Paulo Moura.</strong> O lan&ccedil;amento ser&aacute; no pr&oacute;ximo dia 8 de maio, &agrave;s 18h30, no audit&oacute;rio do <strong>Empresarial JCPM, no Pina.</strong></p>
+<p>Paulo Moura &eacute; reconhecido nacional e internacionalmente pela experi&ecirc;ncia em campanhas eleitorais bem-sucedidas no Brasil e no mundo, como na Fran&ccedil;a. Tem mais de 20 anos de experi&ecirc;ncia no desenvolvimento de estrat&eacute;gia, comunica&ccedil;&atilde;o e marketing pol&iacute;tico, sendo vencedor, por quatro vezes, do Reed Awards, o maior pr&ecirc;mio do Marketing Pol&iacute;tico Internacional, al&eacute;m de ter sido eleito um dos 100 mais influentes estrategistas pol&iacute;ticos do mundo.</p>
+<p>No livro, Paulo Moura explana, por meio de casos pr&aacute;ticos, como as atividades de marketing pol&iacute;tico, estrat&eacute;gia e comunica&ccedil;&atilde;o se combinam na elabora&ccedil;&atilde;o e execu&ccedil;&atilde;o de uma campanha eleitoral. &Eacute; assim que apresenta, em linguagem acess&iacute;vel, o conceito de intelig&ecirc;ncia pol&iacute;tica, como sendo a engrenagem que conecta marketing pol&iacute;tico, estrat&eacute;gia e comunica&ccedil;&atilde;o.</p>
+<p>A obra contempla exemplos pr&aacute;ticos da aplica&ccedil;&atilde;o dos conceitos e detalha os pap&eacute;is da equipe multidisciplinar envolvida nas campanhas eleitorais, considerando experi&ecirc;ncias vivenciadas no Brasil e em diversos pa&iacute;ses, algumas das quais lhe renderam premia&ccedil;&otilde;es e reconhecimento no mercado do marketing pol&iacute;tico e eleitoral.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/05/03/120x80/1_teresaleitaoepaulomoura-22939673.jpeg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'6452c2427a608', 'cd_midia':22939673, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/05/03/teresaleitaoepaulomoura-22939673.jpeg', 'ds_midia': 'O escritor Paulo Moura com a senadora do PT', 'ds_midia_credi': 'Divulga&ccedil;&atilde;o', 'ds_midia_titlo': 'O escritor Paulo Moura com a senadora do PT', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '1637', 'align': 'Left'}"><figure style="width:1637;height:1224;">
+  <img loading="lazy" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/05/03/teresaleitaoepaulomoura-22939673.jpeg" alt="Divulga&ccedil;&atilde;o"  title="O escritor Paulo Moura com a senadora do PT">
+  <figcaption class='text-left'>O escritor Paulo Moura com a senadora do PT - <strong>Divulga&ccedil;&atilde;o</strong></figcaption>
+</figure></tinymce></p>
+<p>Em "Intelig&ecirc;ncia Pol&iacute;tica e Estrat&eacute;gias nas Campanhas Eleitorais", Paulo Moura traz abordagens atuais como o papel dos meios digitais, o uso de dados e de pesquisas de opini&atilde;o, o papel dos influenciadores digitais e da intelig&ecirc;ncia artificial, sem desconsiderar os elementos cl&aacute;ssicos que comp&otilde;em as pe&ccedil;as de campanha e o desenho das estrat&eacute;gias de marketing e comunica&ccedil;&atilde;o.</p>
+<p>A obra &eacute; direcionada a pol&iacute;ticos e profissionais que os assessoram, bem como a pessoas que desejam ingressar na atividade pol&iacute;tica; aos profissionais de marketing e comunica&ccedil;&atilde;o, como publicit&aacute;rios, designers, jornalistas; ao p&uacute;blico acad&ecirc;mico, estudantes e demais interessados em conhecer melhor o mundo das campanhas eleitorais, seus bastidores.</p>
+<p>&ldquo;Este livro conjuga uma trajet&oacute;ria de estudos com a viv&ecirc;ncia. N&atilde;o tem a pretens&atilde;o de ser um projeto acad&ecirc;mico, mas tem, no conhecimento cient&iacute;fico, o alicerce que fundamenta tudo o que constru&iacute;mos profissionalmente no campo da intelig&ecirc;ncia pol&iacute;tica. Seu conte&uacute;do interessa &agrave;queles que habitam o universo da pol&iacute;tica e &agrave;queles que t&ecirc;m o interesse em conhec&ecirc;-lo melhor. Este livro n&atilde;o &eacute; uma obra acabada, mas um convite a mergulhar no universo da intelig&ecirc;ncia pol&iacute;tica, o grande guarda-chuva que conecta marketing, estrat&eacute;gia e comunica&ccedil;&atilde;o&rdquo;, diz o autor.</p>
+<h2>Quem &eacute; Paulo Moura</h2>
+<p>Paulo Moura tem mais de 20 anos de experi&ecirc;ncia no desenvolvimento de estrat&eacute;gia, comunica&ccedil;&atilde;o e marketing pol&iacute;tico. Foi vencedor, por quatro vezes, do Reed Awards, o maior pr&ecirc;mio do Marketing Pol&iacute;tico Internacional, al&eacute;m de ter sido eleito um dos 100 mais influentes estrategistas pol&iacute;ticos do mundo (COMPOL/USA 2017).</p>
+<p>&Eacute; s&oacute;cio-fundador da Exata Intelig&ecirc;ncia Pol&iacute;tica; p&oacute;s-graduado em Marketing Pol&iacute;tico pela Universidade de Minas Gerais (UFMG); Especialista em marketing digital e estrat&eacute;gia com t&iacute;tulo concedido pela Universidade de Harvard (USA); professor visitante da The George Washington University (USA) e da Universidade de Turim (It&aacute;lia).</p>
+<p>&Eacute; membro de institui&ccedil;&otilde;es como The American Association of Political Consultants (AAPC) e The International Association of Political Consultants (IAPC). Suas exitosas experi&ecirc;ncias internacionais passam por pa&iacute;ses como M&eacute;xico, Fran&ccedil;a, R&uacute;ssia e It&aacute;lia. <br /></p>
+{% endraw %}

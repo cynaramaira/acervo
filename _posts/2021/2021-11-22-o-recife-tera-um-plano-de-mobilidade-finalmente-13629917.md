@@ -1,0 +1,24 @@
+---
+id: 13629917
+date: "2021-11-22T16:40:00Z"
+last_modified_at: null
+tags:
+  - "mobilidade"
+  - "transporte-publico"
+categories:
+  - "sem-categoria"
+title: "O Recife ter\u00e1 um plano de mobilidade. Finalmente"
+sutia: "Projeto chegou na semana passada na C\u00e2mara dos Vereadores, sem alarde"
+chapeu: "Cidades"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/07/15/fr__1207-18537675.jpg"
+---
+{% raw %}
+<p>Por Fernando Holanda, em artigo enviado ao blog</p>
+<p>Na &uacute;ltima quarta-feira (17), a Prefeitura enviou &agrave; C&acirc;mara Municipal o Projeto de Lei Ordin&aacute;ria que define a Pol&iacute;tica Municipal e institui o Plano de Mobilidade Urbana do Recife. Finalmente. Ao todo, o processo durou mais de cinco anos e atravessou tr&ecirc;s gest&otilde;es. Quem o acompanhou de perto p&ocirc;de constatar que, de fato, houve muito estudo, pesquisa, di&aacute;logo e participa&ccedil;&atilde;o. Mas tamb&eacute;m que houve muita demora.</p>
+<p>Quando come&ccedil;ou a ser debatido, o Plano de Mobilidade tinha diante de si um Recife com uma frota circulante de mais de um milh&atilde;o de ve&iacute;culos. Frota que a cidade viu ser duplicada em apenas cinco anos, entre 2008 e 2013. &Agrave;quela altura, a cidade ostentava o terr&iacute;vel t&iacute;tulo de capital brasileira das mortes no tr&acirc;nsito. E o Jornal do Commercio noticiava que, aqui, andar a p&eacute; era visto como sinal de pobreza.</p>
+<p>De l&aacute; pra c&aacute;, passou um oceano por debaixo da ponte. A pandemia alterou definitivamente a rela&ccedil;&atilde;o com os espa&ccedil;os f&iacute;sicos de trabalho. As cidades j&aacute; come&ccedil;am a deixar de ser organizadas pela l&oacute;gica do escrit&oacute;rio. O transporte coletivo foi indesejado n&atilde;o pela falta de conforto ou seguran&ccedil;a, mas pelo eventual risco da contamina&ccedil;&atilde;o. No Brasil, a inger&ecirc;ncia catapultou o pre&ccedil;o da gasolina em plena derrocada da ind&uacute;stria do petr&oacute;leo. A crise retirou centenas de milhares de carros das ruas. Quem comprava cinquentinha hoje luta pra ter o que comer. Gigantescas f&aacute;bricas de autom&oacute;veis suspenderam a produ&ccedil;&atilde;o. A express&atilde;o "carro popular" parece n&atilde;o fazer mais sentido, diante dos pre&ccedil;os nas concession&aacute;rias. Os patinetes el&eacute;tricos surgiram e sumiram. E os carros el&eacute;tricos est&atilde;o nas ruas, com esta&ccedil;&otilde;es de carregamento at&eacute; em atacarejos.</p>
+<p>Pois bem. Atrasos &agrave; parte, o que as Vereadoras e Vereadores t&ecirc;m hoje nas m&atilde;os &eacute; talvez o que se h&aacute; de mais avan&ccedil;ado em termos de planejamento da mobilidade urbana no Brasil. O texto est&aacute; baseado em evid&ecirc;ncias, contou com a participa&ccedil;&atilde;o das pessoas e da sociedade civil organizada e expressa na letra da lei a t&atilde;o propalada invers&atilde;o das prioridades do tr&acirc;nsito. Seguran&ccedil;a, Sustentabilidade e Acessibilidade s&atilde;o devidamente estabelecidas como princ&iacute;pios e diretrizes da mobilidade. E as pessoas finalmente ser&atilde;o mais valorizadas que os pr&oacute;prios modos de transporte. Com o novo Plano de Mobilidade do Recife, s&atilde;o definidas medidas importantes para melhorar a efici&ecirc;ncia do transporte motorizado, mas, sobretudo, todo um conjunto de iniciativas para promover a mobilidade ativa: o caminhar e o pedalar na cidade. E, como n&atilde;o poderia deixar de ser, para seguir a tend&ecirc;ncia das maiores cidades do mundo e desestimular o uso massivo do ve&iacute;culo motorizado individual.</p>
+<p>N&atilde;o &eacute; positivo o fato de um projeto t&atilde;o importante ter sido enviado &agrave; C&acirc;mara Municipal j&aacute; no apagar das luzes deste dif&iacute;cil 2021. O que resta agora &eacute; garantir que n&atilde;o sejam feitas emendas (e jabutis) que desvirtuem o Projeto. N&atilde;o d&aacute; pra dizer que foi por falta de tempo. Tempo houve at&eacute; demais. Cabe &agrave;s Vereadoras e Vereadores apreciar o texto e observar que j&aacute; houve uma grande quantidade de contribui&ccedil;&otilde;es, cujos registros podem esclarecer eventuais d&uacute;vidas e sugest&otilde;es que seriam trazidas ao plen&aacute;rio. Neste momento, &eacute; dever de toda cidad&atilde; e todo cidad&atilde;o do Recife acompanhar a aprova&ccedil;&atilde;o do Plano de Mobilidade. Afinal, &eacute; a partir dela que poder&aacute; se dar sua devida implanta&ccedil;&atilde;o.</p>
+<p>Fernando Holanda &eacute; membro do Conselho da Cidade do Recife e contribuiu com a elabora&ccedil;&atilde;o do Plano de Mobilidade</p>
+{% endraw %}

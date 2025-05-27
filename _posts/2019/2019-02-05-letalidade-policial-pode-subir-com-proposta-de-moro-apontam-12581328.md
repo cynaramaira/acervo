@@ -1,0 +1,33 @@
+---
+id: 12581328
+date: "2019-02-05T13:15:44Z"
+last_modified_at: null
+tags:
+  - "moro"
+  - "policial-federal"
+  - "proposta"
+categories:
+  - "noticias"
+title: "Letalidade policial pode subir com proposta de Moro, apontam especialistas"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/02/moro-anticrime-3.jpg"
+---
+{% raw %}
+<p><p><em>Estadão Conteúdo</em> - A proposta apresentada pelo ministro da Justiça, Sérgio Moro, na segunda-feira, 4, poderá fazer com que o número de pessoas mortas em ações policiais aumente, de acordo com o que apontam especialistas na área. Na interpretação deles, ao ampliar as possibilidades de legítima defesa, a medida, que ainda será submetida ao crivo do Congresso Nacional, reduz o controle sobre a letalidade dos órgãos de segurança pública e passa uma mensagem de impunidade aos agentes que usam força excessiva. O ministro disse que as alterações "não são licença para matar".</p></p>
+<p><p>A medida sugerida por Moro surge em um momento em que a letalidade policial já está em alta. De acordo com dados do Fórum Brasileiro de Segurança Pública, esse número chegou a 5 159, 14 casos por dia, representando um aumento de 20,7% em relação aos registros de 2016 - e um crescimento de 133% em comparação a dados de cinco anos atrás, quando o número estava na casa das 2,2 mil mortes.</p></p>
+<p><p>O pacote do ministro propõe alterar o Código Penal para prever que "o juiz poderá reduzir a pena até a metade ou deixar de aplicá-la se o excesso decorrer de escusável medo, surpresa ou violenta emoção". Diz ainda que "considera-se em legítima defesa: o agente policial ou de segurança pública que, em conflito armado ou em risco iminente de conflito armado, previne injusta e iminente agressão a direito seu ou de outrem; e o agente policial ou de segurança pública que previne agressão ou risco de agressão a vítima mantida refém durante a prática de crimes".</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/04/lei-anticrime-propoe-endurecer-cumprimento-de-pena-para-crimes-graves/">Lei anticrime propõe endurecer cumprimento de pena para crimes graves</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/04/lei-anticrime-podera-criminalizar-caixa-2-em-ato-ja-praticado/">Lei anticrime poderá criminalizar caixa 2 em ato já praticado</a></p></p>
+<p><p>Para o ex-presidente do Instituto Brasileiro de Ciências Criminais (IBCCrim), Cristiano Maronna, as alterações se mostram como uma ampliação "do espaço legal para o exercício do uso da força". "Teríamos que tentar limitar o uso da força letal, exigindo proporcionalidade, progressividade e redução de danos. O que percebemos é que a proposta empodera a violência policial, passando uma mensagem simbólica de estímulo à letalidade policial", disse.</p></p>
+<p><p>Marona vê como contraditório a intenção de Moro em reduzir a criminalidade violenta, mas propor maiores brechas para a atuação violenta da força policial. "Os policiais são treinados para agir com técnica, com um protocolo a ser seguido, sob pena de se caracterizar abuso da força. Mas se o próprio Estado dá uma interpretação mais elástica ao comportamento, o que há é um estímulo à violência. As medidas deveriam ir na direção oposta, buscando protocolos mais rígidos", acrescentou.</p></p>
+<p><p>De acordo com os dados do Fórum Brasileiro de Segurança, a polícia mais letal em números absolutos em 2017 foi a do Rio de Janeiro, com 1.127 mortes, seguida por São Paulo (940) e Bahia (668). Na taxa por 100 mil habitantes, a polícia mais letal é a do Amapá (8,5), seguida pelo Rio (6,7) e Acre (4,6).</p></p>
+<p><p>A proposta de Moro recebeu críticas do deputado federal Marcelo Freixo (PSOL-RJ), que já investigou em CPI a atuação de milícias no Estado fluminense. O parlamentar disse que "na prática, se aprovada, a medida dará salvo conduto jurídico a policiais que cometeram execuções".</p></p>
+<p><p>Freixo lembra que com essa política, as baixas se acumulam dos dois lados. "A política do matar ou morrer sacrifica os próprios agentes de segurança, lançados numa guerra insana e sem sentido. Em 2017, em todo o País, foram assassinados 367 policiais, cerca de um por dia, mas a proposta de Moro não tem uma linha sequer sobre a valorização e as urgentes melhorias nas condições de trabalho dos agentes, cujos direitos humanos também são constantemente desrespeitados."</p></p>
+<p><p>O parlamentar lembra que, na prática, a punição a policiais, hoje, já é bastante difícil de ser alcançada. "A legislação atual já prevê que não há crime quando o policial age em legítima defesa, usando a força de maneira proporcional para proteger a sua vida ou a de outra pessoa. Inclusive, na CPI dos Autos de Resistência da Alerj, da qual fui relator, constatamos que mais de 90% das investigações sobre supostas execuções sumárias são arquivadas pelo Judiciário do Estado."</p></p>
+<p><p>Em nota, o Instituto Sou da Paz se juntou às críticas feitas ao projeto. "O afastamento da pena correspondente a excesso cometido em injusta agressão ou violência, por razões de 'medo, surpresa ou violenta emoção', na prática corresponde a uma arbitrariedade a ser concedida segundo a conveniência do juízo"</p></p>
+<p><p>Moro saiu em defesa da proposta ao dizer, durante entrevista coletiva nesta segunda, que "não existe nenhuma licença para matar". Para o coronel Elias Miler da Silva, presidente da Associação dos Oficiais Militares do Estado de São Paulo, a proposta de Moro dá mais segurança para a atuação policial. "No campo teórico, é muito fácil falar. Mas a medida não é para proteger aquele policial que executa. Esse comete crime de homicídio doloso e deve ser punido. Mas serve para aquele policial que na hora da reação em um confronto armado, em vez de dar dois tiros, dá cinco, num quadro de legítima defesa. Então, isso vem dar segurança para o policial atuar", disse.</p></p>
+<p><p>Silva exemplifica. "Uma vez fizemos uma situação simulada com promotores numa pista de tiro na Academia Barro Branco (estabelecimento de ensino da Polícia Militar de São Paulo, localizado na capital). No primeiro teste, o promotor atirou num refém. No segundo, no repórter. E isso porque era uma situação simulada, colocamos eles lá para mostrar a tensão envolvida. Então, tudo isso tem de ser ponderado porque na rua não tem perdão. E, dependendo do promotor, isso pode ser visto como excesso."</p></p>
+{% endraw %}

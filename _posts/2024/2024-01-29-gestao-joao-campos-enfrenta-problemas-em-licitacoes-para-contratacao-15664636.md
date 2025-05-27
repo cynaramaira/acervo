@@ -1,0 +1,34 @@
+---
+id: 15664636
+date: "2024-01-29T12:53:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "recife"
+  - "tce-pe"
+categories:
+  - "sem-categoria"
+title: "Gest\u00e3o Jo\u00e3o Campos enfrenta problemas em licita\u00e7\u00f5es para contrata\u00e7\u00e3o de pessoal para Carnaval 2024"
+sutia: "Loca\u00e7\u00e3o de m\u00e3o de obra para diversos postos, como supervisor e coordenador de controle dos polos, produtores, t\u00e9cnicos, motoristas, normalmente contratados um m\u00eas antes, ainda n\u00e3o foram homologadas"
+chapeu: "licita\u00e7\u00f5es p\u00fablicas"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/09/04/margarethe-24189679.jpg"
+---
+{% raw %}
+<p>A Prefeitura do Recife, atrav&eacute;s da Funda&ccedil;&atilde;o de Cultura Cidade do Recife (FCRR), autarquia respons&aacute;vel pela organiza&ccedil;&atilde;o do Carnaval do Recife, corre contra o tempo para concluir dois processos licitat&oacute;rios iniciados ainda no in&iacute;cio de novembro para contrata&ccedil;&atilde;o de m&atilde;o de obra terceirizada para a execu&ccedil;&atilde;o das festividades carnavalescas, a exemplo de pessoal para o &ldquo;controle&rdquo; da festa, a dez dias do in&iacute;cio das festas.</p>
+<p>De acordo com informa&ccedil;&otilde;es oficiais, as disputas deveriam ter sido conclu&iacute;das ainda em dezembro e envolvem contrata&ccedil;&otilde;es de at&eacute; R$ 8,2 milh&otilde;es para v&aacute;rios eventos - entre eles o Carnaval.</p>
+<p>As contrata&ccedil;&otilde;es se referem &agrave; &ldquo;presta&ccedil;&atilde;o dos servi&ccedil;os de controle de eventos com a disponibiliza&ccedil;&atilde;o de m&atilde;o de obra, com fluxo m&iacute;nimo de p&uacute;blico di&aacute;rio de 15.000 (quinze mil) pessoas&rdquo; e &ldquo;contrata&ccedil;&atilde;o de servi&ccedil;os de apoio t&eacute;cnico e operacional para atender &agrave;s necessidades da Funda&ccedil;&atilde;o de Cultura Cidade do Recife&rdquo;. <br /><br />Um dos processos de licita&ccedil;&atilde;o analisados pelo Tribunal de Contas do Estado de Pernambuco (TCE-PE), identificou, em quatro de janeiro deste ano &ndash; sob a relatoria do conselheiro Valdecir Pascoal, atualmente presidente do &oacute;rg&atilde;o de Contas &ndash; supostos v&iacute;cios no processo licitat&oacute;rio de n&uacute;mero 0018/2023, de acordo com relat&oacute;rio obtido com exclusividade.<br /></p>
+<p>A licita&ccedil;&atilde;o objetivava contratar 13 mil di&aacute;rias para colaboradores diurnos e noturnos e mais 1,3 mil de supervisores diurnos e noturnos.</p>
+<p>Segundo o TCE, a licita&ccedil;&atilde;o apresentou supostas irregularidades como &ldquo;publica&ccedil;&atilde;o intempestiva do edital&rdquo;, &ldquo;aus&ecirc;ncia de publica&ccedil;&atilde;o do termo de refer&ecirc;ncia no sistema Sagres do TCE-PE&rdquo;, &ldquo;aus&ecirc;ncia de necess&aacute;rio estudo t&eacute;cnico preliminar&rdquo;, &ldquo;aus&ecirc;ncia de indica&ccedil;&atilde;o de &iacute;ndices cont&aacute;beis para comprova&ccedil;&atilde;o da qualifica&ccedil;&atilde;o econ&ocirc;mico-financeira&rdquo; e &ldquo;aus&ecirc;ncia de indica&ccedil;&atilde;o e segrega&ccedil;&atilde;o das atribui&ccedil;&otilde;es do gestor e do fiscal da ARP/contrato&rdquo;.</p>
+<p>De acordo com o termo de refer&ecirc;ncia da disputa, a Prefeitura do Recife busca contratar &ldquo;servi&ccedil;o essencial &agrave; administra&ccedil;&atilde;o em raz&atilde;o da necessidade de preserva&ccedil;&atilde;o dos bens p&uacute;blicos e privados alocados nos eventos de carnaval, ciclo junino, ciclo natalino, entre outros&rdquo;. <br /></p>
+<p>Num dos pontos levantados pelo TCE, o &oacute;rg&atilde;o reclama ajustes.</p>
+<p>&ldquo;... constatou-se a aus&ecirc;ncia de planejamento que embasasse a ado&ccedil;&atilde;o do modelo de presta&ccedil;&atilde;o servi&ccedil;os controle de eventos com disponibiliza&ccedil;&atilde;o de m&atilde;o de obra&rdquo; ... "a Prefeitura tem dentre seus diversos &oacute;rg&atilde;os a Guarda Municipal, fundada em 1893, e que cabe a esta guarda auxiliar na seguran&ccedil;a de grandes eventos&rdquo;... &ldquo;... dito isto, &eacute; imprescind&iacute;vel que o processo licitat&oacute;rio seja elaborado a partir de um planejamento que defina o interesse p&uacute;blico envolvido, a melhor forma de atender a demanda, demonstrar a vantajosidade do modelo terceirizada de servi&ccedil;os de controle de eventos&rdquo;.&nbsp; <br /></p>
+<h2>Segunda licita&ccedil;&atilde;o com problemas</h2>
+<p>O outro processo ainda em tramita&ccedil;&atilde;o a dez dias do in&iacute;cio do Carnaval tamb&eacute;m foi iniciado em novembro, tr&ecirc;s dias depois do voltado ao &ldquo;controle de eventos&rdquo;. Esse segundo, numerado como 19/2023, tamb&eacute;m da FCCR, tem como objetivo contrata&ccedil;&atilde;o de &ldquo;servi&ccedil;os de apoio t&eacute;cnico e operacional para atender &agrave;s necessidades da Funda&ccedil;&atilde;o de Cultura&rdquo;.</p>
+<p>Nesse caso, trata-se objetivamente da contrata&ccedil;&atilde;o de di&aacute;rias para coordenadores (1,2 mil), produtores (1,8 mil), supervisores (1,2 mil), t&eacute;cnicos (1,8 mil), apoio (1,2 mil) e motoristas (400), a um custo m&aacute;ximo de R$ 4,098 milh&otilde;es.</p>
+<p>Na justificativa utilizada no termo de refer&ecirc;ncia, a funda&ccedil;&atilde;o argumenta que &eacute; &ldquo;essencial contar com uma equipe capacitada e especializada em apoio t&eacute;cnico e operacional para garantir o plano funcionamento e sucesso dessas iniciativas&rdquo;. <br /></p>
+<p>Nenhum dos processos foi homologado at&eacute; o momento.</p>
+<p>Na disputa relacionada &agrave; contrata&ccedil;&atilde;o de m&atilde;o de obra para controle de eventos, uma empresa de Jaboat&atilde;o dos Guararapes recorreu da decis&atilde;o da comiss&atilde;o de licita&ccedil;&atilde;o a respeito de sua desabilita&ccedil;&atilde;o.</p>
+<p>De acordo com o parecer da pr&oacute;pria Prefeitura, a empresa n&atilde;o teria capacidade.</p>
+<p>&ldquo;... quanto a execu&ccedil;&atilde;o do servi&ccedil;o, embora a empresa tenha apresentado atestado do S&atilde;o Jo&atilde;o de Caruaru 2022, fica a d&uacute;vida quanto &agrave; capacidade para operar o CARNAVAL DO RECIFE do TAMANHO que ele &eacute;, com todos os seus, em m&eacute;dia, 60 polos simultaneamente, e consequentemente o efetivo necess&aacute;rio para suprir os quantitativos, operando 24h por dia&rdquo;. A empresa alegou em recurso que o S&atilde;o Jo&atilde;o de Caruaru dura quase um m&ecirc;s, entre outros pontos. Marcelo Canuto, presidente da FCCR, precisou concordar e recolocar a empresa.<br /></p>
+{% endraw %}

@@ -1,0 +1,43 @@
+---
+id: 13608788
+date: "2021-10-01T16:47:00Z"
+last_modified_at: null
+tags:
+  - "bolsonaro"
+  - "vacinas"
+  - "paulo-camara"
+categories:
+  - "sem-categoria"
+title: "Deputado bolsonarista quer proibir exig\u00eancia do passaporte vacinal em Pernambuco"
+sutia: "\"Nosso objetivo \u00e9 extinguir a imposi\u00e7\u00e3o do Governador Paulo C\u00e2mara (PSB) que tenta, todos os dias, suprimir o direito de ir e vir dos pernambucanos\", afirma"
+chapeu: "Retomada"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/09/10/gilson_machado_coronel_meira_alberto_feitosa-18787247.jpg"
+---
+{% raw %}
+<p>Sem alarde, no mesmo dia que a Comiss&atilde;o de Constitui&ccedil;&atilde;o e Justi&ccedil;a da Alepe debatia&nbsp; e votava o projeto de lei que previa obrigatoriedade para vacina&ccedil;&atilde;o de servidores e fornecedores do Estado, o deputado estadual Alberto Feitosa (PSC) apresentou no &uacute;ltimo dia (27), na mesma Assembleia Legislativa de Pernambuco, projeto de lei que veta o passaporte de vacina&ccedil;&atilde;o em Pernambuco. O projeto da vacina&ccedil;&atilde;o obrigat&oacute;ria acabou sendo aprovado, na quinta, por 35 votos a seis.<br /></p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[13607627,13607453,13607323,13607316,13607309,13607182,13607145,13606886,13606834,13606784,13606777,13606765,13606763],'cd_matia':'13606763','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/blogs/jamildo/2021/09/13606763-relator-na-ccj-joao-paulo-defende-obrigatoriedade-de-vacina-para-servidores-e-fornecedores.html">Relator na CCJ, João Paulo defende obrigatoriedade de vacina para servidores e fornecedores</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/09/13606765-tony-gel-sugere-que-homens-das-cavernas-fiquem-sem-vacinas-mas-isolados-da-sociedade.html">Tony Gel sugere que 'homens das cavernas' fiquem sem vacinas, mas isolados da sociedade</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/09/13606777-priscila-krause-se-emociona-ao-lembrar-da-mae-que-faleceu-um-mes-antes-de-poder-se-vacinar.html">Priscila Krause se emociona ao lembrar da mãe que faleceu um mês antes de poder se vacinar</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/09/13606784-ccj-da-alepe-aprova-obrigatoriedade-de-vacinas-para-servidores-feitosa-fica-compleatmente-isolado.html">CCJ da Alepe aprova obrigatoriedade de vacinas para servidores. Feitosa fica compleatmente isolado</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/09/13606834-mais-um-absurdo-deste-governo-diz-cunhado-de-anderson-ferreira-sobre-decreto-de-paulo-camara-exigindo-vacinacao-e-teste-para-cultos-religiosos.html">'Mais um absurdo deste governo', diz cunhado de Anderson Ferreira sobre decreto de Paulo Câmara exigindo vacinação e teste para cultos religiosos</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/09/13606886-procurador-do-estado-defendeu-pl-da-obrigatoriedade-da-vacinacao-para-servidores-estaduais-em-reuniao-na-alepe.html">Procurador do Estado defendeu PL da obrigatoriedade da vacinação para servidores estaduais em reunião na Alepe</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/09/13607145-amigo-de-bolsonaro-magno-malta-critica-paulo-camara-pelo-decreto-que-preve-exame-para-entrar-em-missas-e-cultos.html">Amigo de Bolsonaro, Magno Malta critica Paulo Câmara pelo decreto que prevê exame para entrar em missas e cultos</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/09/13607182-dom-fernando-saburido-defende-vacinacao-decreto-nada-muda-e-evita-contagio.html">Dom Fernando Saburido defende vacinação. 'Decreto nada muda e evita contágio'</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/09/13607309-nao-e-uma-guerra-santa-a-guerra-e-contra-a-covid-afirma-vereadora-liana-cirne.html">'Não é uma guerra santa, a guerra é contra a Covid', afirma vereadora Liana Cirne</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/09/13607316-tjpe-aprova-resolucao-que-torna-obrigatoria-vacinacao-contra-a-covid-19-para-todos-os-servidores-magistrados-e-funcionarios-do-poder-judiciario-estadual.html">TJPE aprova resolução que torna obrigatória vacinação contra a Covid-19 para todos os servidores, magistrados e funcionários do Poder Judiciário estadual</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/09/13607323-em-sao-paulo-empresas-comecam-a-exigir-comprovante-de-vacina-para-candidatos.html">Em São Paulo, empresas começam a exigir comprovante de vacina para candidatos</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/09/13607453-bancada-evangelica-da-alepe-apresenta-solicitacao-de-suspensao-dos-efeitos-de-decreto-de-paulo-camara.html">Bancada evangélica da Alepe apresenta solicitação de suspensão dos efeitos de decreto de Paulo Câmara</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/09/13607627-bancada-evangelica-da-alepe-pede-ao-governador-a-suspensao-temporaria-das-restricoes-em-missas-e-atividades-religiosas.html">Bancada evangélica da Alepe pede ao governador a suspensão temporária das restrições em missas e atividades religiosas</a></li>
+        </ul>
+</div></tinymce></p>
+<p>Na justificativa, o parlamentar destaca falas da infectologista especialista em Biosseguran&ccedil;a Sylvia Lemos Hinrichsen, da Sociedade Brasileira de Infectologia (SBI), que contesta pontos referentes ao Passaporte. "Ainda estamos descobrindo como as vacinas contra a Covid funcionam. Todas ser&atilde;o eficazes contra as variantes do coronav&iacute;rus que j&aacute; conhecemos? E se s&oacute; uma delas for eficaz e tivermos dado passaporte para todos? Em todas elas, a imunidade contra o v&iacute;rus ter&aacute; o mesmo tempo de dura&ccedil;&atilde;o? Adotar o um passaporte da vacina n&atilde;o &eacute; algo simples como parece", diz Sylvia Lemos, citada por Feitosa.</p>
+<p>"Nosso objetivo &eacute; extinguir a imposi&ccedil;&atilde;o do Governador Paulo C&acirc;mara (PSB) que tenta, todos os dias, suprimir o direito de ir e vir dos pernambucanos. A pr&oacute;pria organiza&ccedil;&atilde;o Mundial da Sa&uacute;de - OMS, e o Conselho Federal de Medicina afirmaram, respectivamente, que o passaporte vacinal n&atilde;o previne a transmiss&atilde;o do Covid-19 e que n&atilde;o &eacute; a favor da vacina&ccedil;&atilde;o obrigat&oacute;ria. Por isso, n&atilde;o faz sentido tal imposi&ccedil;&atilde;o", afirmou Alberto Feitosa.</p>
+<p>"Eles sempre se basearam nas informa&ccedil;&otilde;es das entidades de Sa&uacute;de, e agora dispensam a ci&ecirc;ncia? qual o prop&oacute;sito? Est&atilde;o preocupados com a sa&uacute;de das pessoas que continuam amontoados nos corredores dos hospitais e nos &ocirc;nibus, metr&ocirc;s e terminais de passageiros ou apenas em controle social?", questionou o parlamentar.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/01/120x80/1_indice-19238600.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'6157674062ad2', 'cd_midia':19238600, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/01/indice-19238600.jpg', 'ds_midia': 'O deputado bolsonarista diz que o Estado quer apenas controle social', 'ds_midia_credi': 'Gabinete do deputado/divulga&ccedil;&atilde;o', 'ds_midia_titlo': 'O deputado bolsonarista diz que o Estado quer apenas controle social', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '907', 'align': 'Left'}"><figure style="width:907;height:1224;">
+  <img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/01/indice-19238600.jpg" alt="Gabinete do deputado/divulga&ccedil;&atilde;o"  title="O deputado bolsonarista diz que o Estado quer apenas controle social">
+  <figcaption class='text-left'>O deputado bolsonarista diz que o Estado quer apenas controle social - <strong>Gabinete do deputado/divulga&ccedil;&atilde;o</strong></figcaption>
+</figure></tinymce></p>
+{% endraw %}

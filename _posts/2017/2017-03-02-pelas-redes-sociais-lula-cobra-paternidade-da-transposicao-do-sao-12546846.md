@@ -1,0 +1,86 @@
+---
+id: 12546846
+date: "2017-03-02T20:00:56Z"
+last_modified_at: null
+tags:
+  - "cobra"
+  - "lula"
+  - "papa-francisco"
+  - "paternidade"
+  - "redes-sociais"
+  - "sao"
+  - "transposicao"
+categories:
+  - "noticias"
+title: "Pelas redes sociais, Lula cobra paternidade da Transposi\u00e7\u00e3o do S\u00e3o Francisco"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/03/lula-transposicao.jpg"
+---
+{% raw %}
+<p><p>De um lado, o presidente Michel Temer (PMDB) se movimenta para ficar com a imagem ligada às obras de segurança hídrica no Nordeste, para melhorar a popularidade na região. Do outro, nos últimos dias, o ex-presidente Lula (PT) parece ter adotado a mesma estratégia de comunicação, mas cobrando a paternidade da Transposição do Rio São Francisco. O petista, que tem planos de se candidatar novamente ao cargo em 2018, tem publicado vídeos de moradores do Sertão pernambucano agradecendo a ele e a Dilma Rousseff (PT) por terem iniciado a obra, há dez anos.</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/24/transposicao-restam-53-km-para-agua-chegar-monteiro-na-paraiba/">Transposição: restam 53 km para água chegar a Monteiro, na Paraíba</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/02/mpf-diz-que-e-dificil-agua-da-transposicao-chegar-paraiba-agora/">MPF diz que “é difícil” água da Transposição chegar à Paraíba agora</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/01/menor-preco-para-concluir-eixo-norte-da-transposicao-foi-de-r-44221-milhoes/">Menor preço para concluir eixo norte da Transposição foi de R$ 442,21 milhões</a></p></p>
+<p><p>Um vídeo publicado na página de Lula nessa quarta-feira (1º) mostra imagens do militante petista Sérgio Urt, candidato a vereador do Recife no ano passado, em <em>selfie</em> apresentando uma estação elevatória próximo ao município de Petrolândia. "Isso aqui são obras que Lula projetou, Dilma realizou", diz. "Isso aqui é realidade, o que eles fizeram realizaram para o povo brasileiro, então a gente deve dar toda a confiança para eles. Isso é uma verdade que merece ser levada para o futuro, com Lula em 2018." O homem conclui o vídeo falando a <em>hashtag </em>que o ex-presidente tem usado em publicações sobre a transposição, afirmando: "o Sertão vai virar mar".</p></p>
+<p><p><iframe src='https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2FLula%2Fvideos%2F1240672776001720%2F&show_text=false&width=560&t=0' width='560' height='315' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe></p></p>
+<p><p>Entre outros posts sobre programas implantados na gestão de Lula, aparecem mais vídeos sobre a transposição - sempre com o mesmo perfil. "O sonho começa a se concretizar", diz um vídeo registrado em Custódia (PE). Esse material já explica o percurso final da água até Monteiro, na Paraíba, onde a água deve chegar ainda este mês. "Os moradores da região vão à 'praia' e divertem na transposição, que vai levar água a regiões que sempre tiveram de conviver com a tragédia da seca", afirma outro <em>post</em>.</p></p>
+<p><p><iframe src='https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2FLula%2Fvideos%2F1241407839261547%2F&show_text=false&width=560&t=0' width='560' height='315' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe></p></p>
+<p><p>Os últimos vídeos foram já em Sertânia, onde a água chegou na última sexta-feira (24), antes do Carnaval. "Em dezembro de 2010, Lula afirmou: 'O sertão nunca mais voltará a ser motivo de estudos sociais para medir a fome e a miséria. O sertão vai fazer parte do Brasil desenvolvido'. E assim será", diz uma das publicações no Facebook. </p></p>
+<p><blockquote class="twitter-tweet" data-lang="pt"></p>
+<p><p dir="ltr" lang="pt"><a href="https://twitter.com/hashtag/OSert%C3%A3oVaiVirarMar?src=hash">#OSertãoVaiVirarMar</a> A transposição do Velho Chico chega a Sertania, em Pernambuco. Obra iniciada por Lula, continuada por Dilma. <a href="https://t.co/3KN64LJxi9">pic.twitter.com/3KN64LJxi9</a></p></p>
+<p>— Lula pelo Brasil (@LulapeloBrasil) <a href="https://twitter.com/LulapeloBrasil/status/837400270275510272">2 de março de 2017</a></blockquote></p>
+<p><p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p></p>
+<p><p>Agora, faltam 53,5 quilômetros para que o eixo leste, que faz a captação no reservatório de Itaparica, em Floresta (cidade de Pernambuco mostrada no vídeo abaixo, também publicado na página de Lula no Facebook), leve a água do São Francisco até o município paraibano. Depois, a água seguirá pelo Rio Paraíba até o reservatório Boqueirão, para reforçar o abastecimento em Campina Grande, também na Paraíba. Para chegar até lá, a água ainda tem que passar por dois reservatórios.</p></p>
+<p><p><iframe src='https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2FLula%2Fvideos%2F1241434152592249%2F&show_text=false&width=560&t=0' width='560' height='315' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe></p></p>
+<p><p>De acordo com o Ministério da Integração Nacional, 96,89% do eixo leste estão concluídos até agora. A construção do canal da transposição começou em 2007, ainda no governo Lula (PT), com previsão inicial de acabar três anos depois.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/30/em-floresta-temer-aciona-terceira-estacao-de-bombeamento-da-transposicao/">Em Floresta, Temer aciona terceira estação de bombeamento do eixo leste da transposição</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/04/governo-temer-ja-usa-transposicao-para-tentar-melhorar-popularidade-no-nordeste/">Governo Temer já usa transposição para tentar melhorar popularidade no Nordeste</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/30/ministro-sugere-que-temer-sera-lembrado-por-garantir-investimentos-hidricos-ao-nordeste/">Ministro sugere que Temer será lembrado por garantir investimentos hídricos ao Nordeste</a></p></p>
+<p><p>Com baixa popularidade - a <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/15/pesquisa-aponta-que-441-reprovam-o-governo-temer-e-103-aprovam/">avaliação positiva do governo baixou para 10,3% na última pesquisa CNT/MDA</a>, divulgada em fevereiro -, a conclusão da transposição já é usada por Temer para tentar alavancar a imagem positiva no Nordeste, que tem áreas atingidas pela seca há mais de cinco anos.</p></p>
+<p><img class="size-full wp-image-175785" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/03/lula-transposicao2.jpg" alt="Foto: Alexandro Auler/Acervo JC Imagem" width="750" height="502" /> Foto: Alexandro Auler/Acervo JC Imagem</p>
+<p><p>O <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/30/em-floresta-temer-aciona-terceira-estacao-de-bombeamento-da-transposicao/">próprio peemedebista veio a Floresta para inaugurar a terceira estação de bombeamento no eixo leste</a>, no fim de janeiro, quando o ministro Helder Barbalho (Integração Nacional) reforçou a estratégia. Barbalho retomou a frase dita pelo chefe em Alagoas, de que gostaria de ser lembrado como "o maior presidente nordestino" do Brasil e afirmou em discurso: "De São Paulo, o senhor escreve o seu nome como aquele que garante investimentos hídricos no Nordeste".</p></p>
+<p><p>» <strong>Veja fotos de visitas de Lula à transposição quando era presidente:</strong></p></p>
+<p><p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1': 'https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/03/lula-transposicao3.jpg', 'id_midia_tipo': 'undefined', 'id_tetag_galer': '1', 'id_midia': '175786', 'cd_midia': 18000590, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/03/lula-transposicao3.jpg', 'ds_midia': '', 'ds_midia_credi': '', 'ds_midia_titlo': '', 'cd_tetag': '14', 'cd_midia_w': '120', 'cd_midia_h': '80', 'align': 'Clear', 'midias': [18000590,18000591,18000592,18000593], 'ds_midma_legen': {'0': '','18000590': '','18000591': '','18000592': '','18000593': ''}}"><div class="matterCarousel">
+                        
+                            <figure class="item">
+                                <div class="item-image">
+                                    <img src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/03/lula-transposicao3.jpg" alt="">
+                                    <div class="counterCarousel"></div>
+                                </div>
+                                <figcaption>Foto: Alexandro Auler/Acervo JC Imagem - <strong>Foto: Alexandro Auler/Acervo JC Imagem</strong></figcaption>
+                            </figure>
+                            <figure class="item">
+                                <div class="item-image">
+                                    <img src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/03/lula-transposicao5.jpg" alt="">
+                                    <div class="counterCarousel"></div>
+                                </div>
+                                <figcaption>Foto: Alexandro Auler/Acervo JC Imagem - <strong>Foto: Alexandro Auler/Acervo JC Imagem</strong></figcaption>
+                            </figure>
+                            <figure class="item">
+                                <div class="item-image">
+                                    <img src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/03/lula-transposicao6.jpg" alt="">
+                                    <div class="counterCarousel"></div>
+                                </div>
+                                <figcaption>Foto: Alexandro Auler/Acervo JC Imagem - <strong>Foto: Alexandro Auler/Acervo JC Imagem</strong></figcaption>
+                            </figure>
+                            <figure class="item">
+                                <div class="item-image">
+                                    <img src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/03/lula-transposicao7.jpg" alt="">
+                                    <div class="counterCarousel"></div>
+                                </div>
+                                <figcaption>Foto: Alexandro Auler/Acervo JC Imagem - <strong>Foto: Alexandro Auler/Acervo JC Imagem</strong></figcaption>
+                            </figure>
+                        </div></tinymce></p></p>
+<p><p>Mas também é de São Paulo outro nome que tenta se ligar à transposição. O <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/18/em-pernambuco-ministro-aciona-primeira-bomba-da-transposicao-emprestada-por-alckmin/">governador Geraldo Alckmin (PSDB), possível candidato a presidente em 2018, emprestou através da Sabesp</a> (Companhia de Saneamento Básico do Estado de São Paulo) bombas usadas justamente no eixo leste do projeto. O <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/21/geraldo-alckmin-visita-projeto-das-aguas-da-transposicao-em-floresta-e-custodia-nesta-quarta/">tucano também veio a Pernambuco para acompanhar o funcionamento dos equipamentos</a>, que têm prazo inicial de quatro meses para serem devolvidos, mas o período pode ser prorrogado.</p></p>
+<p><h1>Mais obras</h1></p>
+<p><p>Apesar da disputa pelo eixo leste, prestes a chegar à Paraíba, eixo norte é mais problemático. O trecho entre Cabrobó (PE) e Jati (CE) está parado há mais de seis meses, desde que a Mendes Júnior, envolvida na Operação Lava Jato, deixou o canteiro alegando problemas para manter a obra devido à dificuldade de obtenção de crédito.</p></p>
+<p><p>Uma nova licitação por Regime Diferenciado de Contratação (RDC) está sendo realizada e as propostas foram abertas no início de fevereiro, com previsão de que o contrato seja assinado até este mês. O menor preço apresentado foi de R$ 442,21 milhões.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/30/parado-trecho-do-eixo-norte-da-transposicao-sai-este-ano-promete-temer/">Parado, trecho do eixo norte da transposição sai este ano, promete Temer</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/18/em-pernambuco-ministro-aciona-primeira-bomba-da-transposicao-emprestada-por-alckmin/">Em Pernambuco, ministro aciona primeira bomba emprestada por Alckmin para Transposição</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/30/atrasado-ramal-do-agreste-fica-para-2020/">Já atrasado, Ramal do Agreste fica para 2020</a></p></p>
+<p><p>A última viagem de Dilma Rousseff a Pernambuco foi justamente ao eixo norte. Ela foi à cidade de Cabrobó, ainda como presidente, em maio do ano passado, no dia em que foi aprovado o relatório do impeachment no Senado. Lá, <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/06/em-tom-de-despedida-dilma-diz-em-pernambuco-que-ficara-triste-se-nao-vir-fim-da-transposicao/">em tom de despedida, disse que ficaria triste se não visse o fim da obra</a>. Em 2014, na campanha à reeleição, ela e Lula estiveram lá com uma equipe de vídeo gravar o que seria o início da "primeira fase" do projeto.</p></p>
+<p><p>Na visita a Pernambuco, dois dias antes da abertura das propostas da licitação, Temer prometeu a conclusão até o fim do ano. Atualmente, segundo o Ministério da Integração Nacional, 94,52% estão concluídos. O presidente ainda assinou a ordem de serviço para a elaboração do projeto do <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/30/atrasado-ramal-do-agreste-fica-para-2020/">Ramal do Agreste, que vai levar a água do eixo leste para a Adutora do Agreste</a>, e liberou R$ 29 milhões. A previsão é que as obras comecem no segundo semestre deste ano e o prazo é de 36 meses, com custo previsto de mais de R$ 1 bilhão. Sem isso, o canal não ajuda essa região de Pernambuco.</p></p>
+{% endraw %}

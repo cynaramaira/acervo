@@ -1,0 +1,30 @@
+---
+id: 14946708
+date: "2022-02-14T15:37:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "senado"
+categories:
+  - "sem-categoria"
+title: "Projeto de lei da Bala Solta, no Senado, acaba com rastreamento de muni\u00e7\u00e3o e favorece milicias"
+sutia: "Atualmente, a identifica\u00e7\u00e3o do lote da muni\u00e7\u00e3o \u00e9 o que garante a possibilidade de rastreamento, e sem ela fica mais dif\u00edcil, por exemplo, saber de onde a muni\u00e7\u00e3o foi desviada e na m\u00e3o de quem foi parar. A elucida\u00e7\u00e3o de homic\u00eddios - que hoje beira os rid\u00edculos 40% - pode ficar ainda pior."
+chapeu: "Viol\u00eancia urbana"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsjconline/rondajc/2019/12/homicidio-748x410-1.jpg"
+---
+{% raw %}
+<p>Quando a seguran&ccedil;a p&uacute;blica vira plataforma eleitoral</p>
+<p>Por Cec&iacute;lia Olliveira, Diretora Executiva do Fogo Cruzado, em artigo enviado ao blog</p>
+<p>As not&iacute;cias come&ccedil;aram a aparecer nas redes sociais ainda na tarde do dia 18 de janeiro: viaturas cercavam as entradas do Jacarezinho, Zona Norte do Rio. Na g&iacute;ria dos moradores, a favela estava &ldquo;tampada de pol&iacute;cia&rdquo;.</p>
+<p>Mais de 1.000 agentes de seguran&ccedil;a estiveram no Jacarezinho na manh&atilde; do dia 19, filmados pelas c&acirc;meras a&eacute;reas das emissoras de televis&atilde;o. Ao vivo e com pompa, aquele era o in&iacute;cio do Cidade Integrada, uma iniciativa do governador Cl&aacute;udio Castro (PL) que foi posto em pr&aacute;tica antes de ser apresentado ou explicado: nem imprensa, nem moradores e nem mesmo o prefeito da cidade, Eduardo Paes, sabiam ao certo o que estava acontecendo - e o que poderia vir a acontecer. Na apresenta&ccedil;&atilde;o do Cidade Integrada, tr&ecirc;s dias depois, quase nada se falou sobre seguran&ccedil;a p&uacute;blica. Castro prometeu uma s&eacute;rie de reformas de infraestrutura que sequer s&atilde;o da sua al&ccedil;ada, mas de atribui&ccedil;&atilde;o municipal. Muitas obras, poucas solu&ccedil;&otilde;es - em um ano de elei&ccedil;&atilde;o.</p>
+<p>Assim como era tradicional na &eacute;poca da implanta&ccedil;&atilde;o das UPPs, n&atilde;o houve tiroteio no dia da ocupa&ccedil;&atilde;o. Outras coisas tamb&eacute;m lembraram o &uacute;ltimo programa de seguran&ccedil;a implantado no Rio - e que naugrafou faz anos. Relatos de abusos policiais se acumularam ao longo das semanas seguintes: um casal disse que PMs entraram na casa e levaram o dinheiro que estava guardado para pagar o aluguel; um jovem negro foi preso quando saiu para comprar p&atilde;o e foi liberado depois do que um delegado chamou de "erro"; outros moradores afirmam que equipes policiais arrombaram port&otilde;es e quebraram caixas d&rsquo;&aacute;gua em busca de armas e drogas. Nada foi encontrado nessas a&ccedil;&otilde;es.</p>
+<p>Para a surpresa de poucos, a apreens&atilde;o mais emblem&aacute;tica do m&ecirc;s no Rio de Janeiro foi bem longe das favelas: 26 fuzis, 21 pistolas, espingardas, rifles e mosquet&otilde;es estavam escondidos numa casa localizada no bairro do Graja&uacute;, Zona Norte do Rio. N&atilde;o h&aacute; not&iacute;cias de portas arrombadas por ali.</p>
+<p>O arsenal, avaliado em R$ 1,8 milh&atilde;o, pertence a Vitor Furtado Rebollal Lopes, acusado de repassar as armas ao Comando Vermelho. Ele est&aacute; registrado no Ex&eacute;rcito como um CAC (Colecionador, Atirador e Ca&ccedil;ador). De acordo com as investiga&ccedil;&otilde;es, ele comprava as armas legalmente e revendia para a fac&ccedil;&atilde;o. Ele foi preso em Goi&aacute;s, transportando milhares de muni&ccedil;&otilde;es.</p>
+<p>J&aacute; em Pernambuco, a For&ccedil;a Tarefa de Homic&iacute;dio Sul, da Pol&iacute;cia Civil, ainda tenta entender quem eram e quais armas usavam os atiradores que dispararam contra um bar em Moreno, no Grande Recife, no dia 6 de fevereiro. Pelo menos 10 homens armados chegaram em motocicletas e abriram fogo durante uma festa que acontecia no estabelecimento. Terminou em chacina: tr&ecirc;s pessoas foram mortas e 12 ficaram feridas - a maior desde que o Fogo Cruzado come&ccedil;ou a monitorar a regi&atilde;o, em 2018.</p>
+<p>O que as duas situa&ccedil;&otilde;es t&ecirc;m em comum? Investigar crimes como estes pode ficar cada vez mais dif&iacute;cil.</p>
+<p>O Senado Federal deve discutir nos pr&oacute;ximos dias o PL 3.723/2019, conhecido como PL da Bala Solta. Se aprovado, o projeto de lei pode eliminar a exig&ecirc;ncia de marca&ccedil;&atilde;o de muni&ccedil;&otilde;es. Atualmente, a identifica&ccedil;&atilde;o do lote da muni&ccedil;&atilde;o &eacute; o que garante a possibilidade de rastreamento, e sem ela fica mais dif&iacute;cil, por exemplo, saber de onde a muni&ccedil;&atilde;o foi desviada e na m&atilde;o de quem foi parar. A elucida&ccedil;&atilde;o de homic&iacute;dios - que hoje beira os rid&iacute;culos 40% - pode ficar ainda pior.</p>
+<p>Sociedade civil, investigadores de pol&iacute;cia e &oacute;rg&atilde;os de controle, como o Minist&eacute;rio P&uacute;blico, podem ficar &agrave;s cegas com a facilita&ccedil;&atilde;o do acesso &agrave;s armas e impossibilidade de rastreio. N&atilde;o saberemos se pistolas, fuzis e muni&ccedil;&otilde;es compradas legalmente est&atilde;o parando em m&atilde;os erradas, como no caso de Vitor Rebollal, o dono daqueles fuzis apreendidos no Rio.</p>
+<p>Refor&ccedil;ar mecanismos de controle e fiscaliza&ccedil;&atilde;o &eacute; fundamental. Do contr&aacute;rio, opera&ccedil;&otilde;es semanais nas favelas e iniciativas como Cidade Integrada seguir&atilde;o enxugando gelo, servindo mais para pol&iacute;ticos fazerem belas fotos que ganhar&atilde;o capas de jornais do que para a popula&ccedil;&atilde;o.</p>
+<p>&nbsp;</p>
+{% endraw %}

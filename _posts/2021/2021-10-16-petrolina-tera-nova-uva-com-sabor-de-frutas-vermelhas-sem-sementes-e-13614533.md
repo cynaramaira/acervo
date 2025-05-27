@@ -1,0 +1,54 @@
+---
+id: 13614533
+date: "2021-10-16T12:01:00Z"
+last_modified_at: "2021-10-21 09:00:00"
+tags:
+  - "vale-do-sao-francisco"
+  - "petrolina"
+categories:
+  - "sem-categoria"
+title: "Petrolina ter\u00e1 nova uva com sabor de frutas vermelhas, sem sementes e de alta produtividade"
+sutia: "Novidade ser\u00e1 anunciada na semana que entra"
+chapeu: "Vale do S\u00e3o Francisco"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/16/credito_juliana_leite_1_-19308802.jpeg"
+---
+{% raw %}
+<p>Na pr&oacute;xima quarta-feira (20/10), a Embrapa e a Associa&ccedil;&atilde;o Brasileira dos Produtores e Exportadores de Frutas e Derivados (Abrafrutas) promovem evento h&iacute;brido para o lan&ccedil;amento das recomenda&ccedil;&otilde;es de manejo da BRS Melodia<a href="https://jc.ne10.uol.com.br/blogs/jamildo/2021/10/13615083-ministro-de-bolsonaro-anuncia-investimentos-para-irrigacao-em-petrolina-nesta-terca.html" target="_blank" rel="noopener noreferrer">, em Petrolina.</a></p>
+<p>A variedade de uva possui como caracter&iacute;sticas principais a cor rosada, a aus&ecirc;ncia de sementes, a alta produtividade, e o sabor de frutas vermelhas.</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[13615982],'cd_matia':'13615982','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/blogs/jamildo/2021/10/13615982-bolsonaro-faz-serie-de-anuncios-de-obras-e-acoes-em-petrolina-antes-de-viagem-ao-sertao.html">Bolsonaro faz série de anúncios de obras e ações em Petrolina, antes de viagem a Sertânia</a></li>
+        </ul>
+</div></tinymce></p>
+<p>A variedade foi desenvolvida pelo Programa de Melhoramento Gen&eacute;tico &ldquo;Uvas do Brasil, coordenado pela Embrapa Uva e Vinho, com a participa&ccedil;&atilde;o da Embrapa Semi&aacute;rido ea foi lan&ccedil;ada originalmente para regi&otilde;es de clima temperado, mas suas caracter&iacute;sticas chamaram a aten&ccedil;&atilde;o do setor produtivo que, em parceria com a Embrapa validou o sistema de cultivo para a regi&atilde;o tropical que est&aacute; sendo lan&ccedil;ado.</p>
+<p>De acordo com a Embrapa, a BRS Melodia &eacute; &ldquo;irm&atilde;&rdquo; da cultivar BRS Vit&oacute;ria, sendo resultado da mesma linha de cruzamento.</p>
+<p>Al&eacute;m delas, o portf&oacute;lio de uvas sem sementes da Embrapa para a regi&atilde;o tropical conta com a BRS Isis, tamb&eacute;m conhecida no exterior como BRS Iris.</p>
+<h2>Aposta dos fruticultores</h2>
+<p>"As tr&ecirc;s cultivares podem ser cultivadas com poucas altera&ccedil;&otilde;es no sistema de manejo, garantindo duas safras anuais, chegando &agrave; marca das 50 toneladas por hectare por ano", diz o &oacute;rg&atilde;o de apoio aos agricultores nacionais.</p>
+<p>A Abrafrutas diz que a BRS Melodia e a BRS Vit&oacute;ria ser&atilde;o as grandes apostas da viticultura brasileira para manter e conquistar novos mercados no Brasil e no Exterior.</p>
+<p>O evento contar&aacute; com a palestra do presidente da Embrapa, Celso Moretti, que falar&aacute; sobre a &ldquo;Sustentabilidade e competitividade da Agricultura Brasileira&rdquo;.</p>
+<p>A cerim&ocirc;nia ser&aacute; transmitida ao vivo pelo canal da Embrapa no Youtube, a partir das 19h, diretamente de Petrolina(PE), em um evento que, devido a pandemia, ser&aacute; restrito a convidados.</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[13615083,13614865,13606274],'cd_matia':'13606274','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/blogs/jamildo/2021/09/13606274-acompanhe-ao-vivo-a-filiacao-de-miguel-coelho-prefeito-de-petrolina-ao-dem.html">Veja como foi a filiação de Miguel Coelho, prefeito de Petrolina, ao DEM</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/10/13614865-motoristas-de-aplicativos-acionam-justica-contra-regulamentacao-de-transporte-privado-em-petrolina.html">Motoristas de aplicativos acionam Justiça contra regulamentação de transporte privado em Petrolina</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/10/13615083-ministro-de-bolsonaro-anuncia-investimentos-para-irrigacao-em-petrolina-nesta-terca.html">Ministro de Bolsonaro anuncia investimentos para irrigação em Petrolina, nesta terça</a></li>
+        </ul>
+</div></tinymce></p>
+<h2>Brasil est&aacute; pr&oacute;ximo de atingir o primeiro bilh&atilde;o de d&oacute;lares em exporta&ccedil;&otilde;es de frutas em 2021</h2>
+<p>Os n&uacute;meros crescem e o setor de frutas comemora, com 20% de aumento no volume de frutas exportadas neste terceiro trimestre do ano, comparado com 2019, setor registra o embarque de mais 757 mil toneladas de frutas enviadas para o exterior.</p>
+<p>O faturamento aumentou 27%, foram vendidas cerca 652 milh&otilde;es de d&oacute;lares de frutas para o mercado internacional, n&uacute;meros que tem deixado o setor bastante animado, pois est&atilde;o pr&oacute;ximos de alcan&ccedil;arem a meta de 1 bilh&atilde;o de d&oacute;lares em exporta&ccedil;&otilde;es.</p>
+<p>Mesmo com a falta de cont&ecirc;ineres e aumento dos fretes mar&iacute;timos, o Brasil tem registrado alta nas exporta&ccedil;&otilde;es de frutas. Destaque para uva com aumento de 73%, seguida da ma&ccedil;&atilde;, 58%, manga, 26%, mam&atilde;o, 21%, lim&atilde;o, 19%, abacate 18% e banana, 16%.</p>
+<p>Para o presidente da Associa&ccedil;&atilde;o Brasileira dos Produtores e Exportadores de Derivados (Abrafrutas), Guilherme Coelho, o aquecimento nas demandas internacionais, principalmente vindas do mercado europeu, &eacute; um dos fatores que justifica essa alta performance. A valoriza&ccedil;&atilde;o do d&oacute;lar torna a remunera&ccedil;&atilde;o bem atrativa o que contribuiu tamb&eacute;m para estes resultados.</p>
+<p>Outro fator destacado por Guilherme para este bom desempenho foi as condi&ccedil;&otilde;es clim&aacute;ticas favor&aacute;veis que resultaram na boa produ&ccedil;&atilde;o e na melhor qualidade das frutas produzidas, al&eacute;m da abertura de novos mercados que tem se intensificado nos &uacute;ltimos anos atrav&eacute;s de um trabalho do MAPA com o apoio do setor produtivo. Esse trabalho aliado a uma robusta a&ccedil;&atilde;o de promo&ccedil;&atilde;o das frutas brasileiras no mercado externo que vem sendo desenvolvida pela Abrafrutas com o apoio da Ag&ecirc;ncia Brasileira de Promo&ccedil;&atilde;o de Exporta&ccedil;&otilde;es e Investimentos (Apex) tem sido decisivo no desempenho positivo das exporta&ccedil;&otilde;es.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/20/120x80/1_ministro_rogerio_marinho_e_guilherme_coelho-19325627.jpeg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'6170689787dd3', 'cd_midia':19325627, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/20/ministro_rogerio_marinho_e_guilherme_coelho-19325627.jpeg', 'ds_midia': 'O empres&aacute;rio Guilherme Coelho recebeu o ministro Marinho, nesta tarde, em Petrolina', 'ds_midia_credi': 'Divulga&ccedil;&atilde;o', 'ds_midia_titlo': 'O empres&aacute;rio Guilherme Coelho recebeu o ministro Marinho, nesta tarde, em Petrolina', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '781', 'align': 'Left'}"><figure style="width:781;height:1224;">
+  <img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/20/ministro_rogerio_marinho_e_guilherme_coelho-19325627.jpeg" alt="Divulga&ccedil;&atilde;o"  title="O empres&aacute;rio Guilherme Coelho recebeu o ministro Marinho, nesta tarde, em Petrolina">
+  <figcaption class='text-left'>O empres&aacute;rio Guilherme Coelho recebeu o ministro Marinho, nesta tarde, em Petrolina - <strong>Divulga&ccedil;&atilde;o</strong></figcaption>
+</figure></tinymce></p>
+<p>&ldquo;O vento tem soprado a nosso favor, o setor de frutas tem despontado e mostrado o grande potencial. Estamos provando que al&eacute;m de sermos grandes produtores de frutas, podemos ser tamb&eacute;m grandes exportadores. As nossas frutas s&atilde;o as mais saborosas e de alt&iacute;ssima qualidade, este reconhecimento tem vindo atrav&eacute;s desses n&uacute;meros. Afirmo que a fruticultura brasileira tem potencial para expandir ainda mais e alcan&ccedil;ar novos mercados&rdquo;, disse Guilherme Coelho.</p>
+<p>Al&eacute;m desses, Guilherme aponta a busca por alimentos mais saud&aacute;veis como marco neste crescimento. Segundo ele, o mundo tem consumido mais frutas, pois n&atilde;o existe nada mais saud&aacute;vel. &ldquo;As frutas s&atilde;o ricas em vitaminas e sais minerais, s&atilde;o vers&aacute;teis, podem ser bem aproveitadas em pratos doces ou salgados. Alimento que tem de todos os sabores, cores e texturas, agradando diversos paladares e gostos. Al&eacute;m disso, produzimos frutas o ano inteiro&rdquo;, contou.</p>
+<p>Abacaxi, p&ecirc;ssego e goiaba s&atilde;o outras frutas que t&ecirc;m crescido na balan&ccedil;a comercial. A goiaba, por exemplo, teve aumento nas exporta&ccedil;&otilde;es de 132%, comparadas com o mesmo per&iacute;odo de 2019. Considerada pelo mercado internacional como fruta ex&oacute;tica, a goiaba tem ca&iacute;do no gosto dos importadores. Este ano a regi&atilde;o de Carl&oacute;polis no Paran&aacute;, considerada uma das maiores produtoras de goiaba do Brasil, conseguiu o selo de indica&ccedil;&atilde;o geogr&aacute;fica &ldquo;IG&rdquo; o que influenciou diretamente no aumento da procura pela fruta.</p>
+<p>Para o presidente da Abrafrutas, a meta do primeiro bilh&atilde;o est&aacute; pr&oacute;xima e o setor vai comemorar muito, sendo este resultado de muito trabalho e esfor&ccedil;o de todos que comp&otilde;em a fruticultura brasileira, setor dentro do agro que mais emprega e que contribui muito com o desenvolvimento do pa&iacute;s.</p>
+<p>&nbsp;</p>
+{% endraw %}

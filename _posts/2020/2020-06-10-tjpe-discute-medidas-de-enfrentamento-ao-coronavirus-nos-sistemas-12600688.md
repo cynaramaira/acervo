@@ -1,0 +1,29 @@
+---
+id: 12600688
+date: "2020-06-10T16:30:14Z"
+last_modified_at: null
+tags:
+  - "coronavirus"
+  - "estado"
+  - "regime-socioeducativo"
+  - "sistema-prisional"
+  - "tjpe"
+categories:
+  - "noticias"
+title: "TJPE discute medidas de enfrentamento ao coronav\u00edrus nos sistemas prisional e socioeducativo do Estado"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/09/tjpe_1.png"
+---
+{% raw %}
+<p><p>Os integrantes do Comitê para Acompanhamento das Medidas de Enfrentamento à Covid-19 no Âmbito do Sistema Prisional e Socioeducativo de Pernambuco se reuniram nesta terça-feira (9/6), por meio de videoconferência, para debater as ações desenvolvidas em Pernambuco com o objetivo de conter a disseminação do Coronavírus (Covid-19) nas unidades prisionais e socioeducativas. A reunião foi coordenada pelo gestor do Grupo de Monitoramento e Fiscalização (GMF) do Sistema Carcerário no Estado de Pernambuco, desembargador Mauro Alencar de Barros, e pelo coordenador da Infância e Juventude do Estado, desembargador Stênio Neiva.</p></p>
+<p><p>O comitê foi criado em cumprimento ao artigo 14 da Recomendação nº 62 do Conselho Nacional de Justiça (CNJ), que trata das medidas adotadas para a prevenção e o tratamento da Covid -19 nos estabelecimentos prisionais e socioeducativos no país. O comitê é formado também pelo coordenador das Audiências de Custódia do TJPE, por representantes do Ministério Público Estadual, da Defensoria Pública Estadual, da Ordem dos Advogados do Brasil, da Secretaria de Defesa Social/PE, da Secretaria Estadual de Saúde/PE, da Secretaria de Justiça e Direitos Humanos/PE, do Comitê Estadual de Prevenção e Combate à Tortura, da Fundação de Atendimento Socioeducativo (Funase), do Programa Justiça Presente do CNJ, e por um membro de entidade da sociedade civil que atue no sistema prisional.</p></p>
+<p><p>O desembargador Mauro Alencar destacou a relevância do debate entre os representantes de cada órgão no combate à disseminação da Covid -19 no sistema prisional para otimizar a qualidade do trabalho desenvolvido no sistema carcerário. “Essa reunião é fundamental para que possamos traçar estratégias cada vez mais eficazes para evitar a proliferação do coronavírus no ambiente prisional. Estão reunidos aqui os gestores de cada órgão envolvidos nesse embate. Cada pauta será avaliada para que possamos chegar a um consenso e contribuir no trabalho de todas as instituições que trabalham com o tema”, afirmou.</p></p>
+<p><p>Segundo o desembargador Mauro Alencar, para conter a disseminação do coronavírus nas unidades prisionais de Pernambuco, os presos que estão em regime semiaberto no Estado, suspeitos ou não de Covid-19, e que iam progredir para o regime aberto ou obter o livramento condicional até o dia 31 de julho deste ano, estão sendo beneficiados com a prisão domiciliar.</p></p>
+<p><p>Ainda de acordo com o magistrado, os juízes de Varas de Execuções Penais, e representantes da Secretaria de Ressocialização (Seres), da Secretaria de Justiça do Estado e da Secretaria de Saúde estão monitorando todos os presos que se encontram recolhidos no sistema prisional em relação a casos confirmados e suspeitos de Covid. De acordo com os últimos dados divulgados pela Secretaria de Justiça do Estado, as unidades prisionais de Pernambuco tiveram, de março até o dia 7 de junho, 211 casos suspeitos de Covid – 19, 144 confirmados, e quatro óbitos, sendo dois em Igarassu, um em Palmares e um no Recife.</p></p>
+<p><p>Para combater a proliferação do coronavírus no sistema penal, o desembargador afirma ainda que as audiências de custódia no Estado estão sendo realizadas de forma virtual, através da manifestação prévia da defesa e do Ministério Público, por meio de e-mails previamente cadastrados no Judiciário, sobre o autuado em flagrante pela Secretaria de Defesa Social. “Após as manifestações das partes por e-mail, os juízes decidem se convertem a prisão em flagrante em prisão preventiva ou se concedem a liberdade provisória por meio de alvará de soltura”, especifica.</p></p>
+<p><p>Outra medida adotada pelo TJPE foi a realização de duas transferências, totalizando 6,8 milhões de reais, para o Fundo de Enfrentamento ao Coronavírus – FEEC, instituído por meio da Lei Estadual n. 16.820, de 25 de março de 2020. O FEEC constitui fonte de recurso específica, vinculada à Secretaria Estadual de Saúde, formada por auxílios, doações, subvenções, contribuições e repasses de qualquer natureza, originadas de pessoas físicas ou jurídicas de direito público ou privado, de órgãos ou entidades federais, estaduais ou municipais, bem como de entidades públicas ou privadas internacionais, ou de organizações não governamentais (ONGs), das Nações Unidas, de Bancos de Desenvolvimento e outros organismos internacionais;</p></p>
+<p><p>Os recursos do TJPE doados ao FEEC foram provenientes do cumprimento de pena de prestação pecuniária, transação penal e suspensão condicional do processo nas ações criminais e deverão ser utilizados prioritariamente na aquisição de materiais e equipamentos necessários ao enfrentamento da pandemia causada pela Covid – 19. Penas pecuniárias são alternativas para substituir penas privativas de liberdade, geralmente em condenações inferiores a quatro anos.</p></p>
+<p><p>Segundo dados do GMF, repassados pela Secretaria de Justiça e Direitos Humanos/PE, as unidades prisionais do Estado receberam, para internos e servidores, até o momento, 33 mil máscaras cirúrgicas, 2.400 litros de álcool a 70% em solução, 600 litros de álcool em gel, 5 mil aventais descartáveis, 2 mil aventais impermeáveis, 500 unidades de óculos de proteção, 500 unidades de protetores faciais, e 11.500 unidades de gorro descartáveis.</p></p>
+{% endraw %}

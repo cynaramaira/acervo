@@ -1,0 +1,33 @@
+---
+id: 15639814
+date: "2023-11-27T14:20:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "direitos-humanos"
+categories:
+  - "sem-categoria"
+title: "No papel cabe tudo, mas e no cora\u00e7\u00e3o ?  "
+sutia: "Advogado comenta anivers\u00e1rio da declara\u00e7\u00e3o dos direitos humanos"
+chapeu: "opini\u00e3o"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/04/07/063_1390107758-20824703.jpg"
+---
+{% raw %}
+<p>Leonardo de Moraes, em artigo enviado ao <strong>blog de Jamildo</strong></p>
+<p>H&aacute; 75 anos, em Paris, era assinada a Declara&ccedil;&atilde;o de Direitos Humanos pelas maiores pot&ecirc;ncias do mundo &ndash; tamb&eacute;m pelas menores e as, ent&atilde;o, consideradas irrelevantes. Todos estavam abalados pelos horrores da Segunda Guerra Mundial e, como crian&ccedil;as arrependidas, logo prometeram por escrito que mudariam, que fariam do mundo um lugar melhor.</p>
+<p>Fizeram? No papel sempre cabe tudo. A hist&oacute;ria dos Direitos Humanos &eacute; feita de pap&eacute;is, de declara&ccedil;&otilde;es, de cartas &ndash; a come&ccedil;ar pela Magna Carta de 1215, assinada pelo rei Jo&atilde;o I da Inglaterra, mais conhecido como Jo&atilde;o-sem-terra e por ser um personagem coadjuvante nos filmes de Robin Hood.</p>
+<p>Foi com Jo&atilde;o que a discuss&atilde;o por &ldquo;terras&rdquo; abriu o caminho para os direitos do homem: a igreja e os bar&otilde;es ingleses estavam revoltados com o exerc&iacute;cio do poder absoluto do soberano, que lhe tomava as terras, lhe tomava os t&iacute;tulos, lhe tomava as riquezas e anulava sua dignidade. Com a Magna Carta, surgiram os chamados Direitos Humanos de primeira gera&ccedil;&atilde;o, ou &ldquo;direitos de liberdade&rdquo;, criados para proteger o povo contra os arb&iacute;trios do poder estatal.</p>
+<p>Mas quem era esse povo? Nobres. Religiosos. Homens. Brancos. Ricos. Filhos leg&iacute;timos. Estivesse voc&ecirc; fora desse filtro, a opress&atilde;o continuaria a mesma, na repeti&ccedil;&atilde;o intermin&aacute;vel de abusos e esmagamentos sobre quem, claro, n&atilde;o era considerado humano.</p>
+<p>Muitas declara&ccedil;&otilde;es a sucederam: Habeas Corpus Act, 1679; Bill of Rights, em 1689; Declara&ccedil;&atilde;o Americana, 1776; Declara&ccedil;&atilde;o Francesa, 1789; tantos e tantos documentos, incluindo a Declara&ccedil;&atilde;o Universal de Direitos do Homem, tema de nossa conversa, que logo a mesa do estudante de Direito estaria cheia de inten&ccedil;&otilde;es por escrito para serem lidas para a prova.</p>
+<p>Na faculdade somos convidados a estudar cada um desses documentos hist&oacute;ricos e, ao contr&aacute;rio do que se poderia pensar, eles n&atilde;o s&atilde;o anacr&ocirc;nicos. Os textos s&atilde;o inspirados, dotados de genialidade e ainda &uacute;teis para a compreens&atilde;o do Direito e do mundo. Ouso dizer: para a compreens&atilde;o de nossa manifesta&ccedil;&atilde;o material nesse mundo.</p>
+<p>Por&eacute;m, a interpreta&ccedil;&atilde;o &eacute; sempre ao gosto do leitor. H&aacute; que se ter olhos para ler, ouvidos para escutar, o que torna imponder&aacute;vel o uso ou mal-uso de cada um desses documentos pelas gera&ccedil;&otilde;es vindouras.</p>
+<p>A Declara&ccedil;&atilde;o de Direitos Humanos tem, em seu artigo primeiro, a seguinte reda&ccedil;&atilde;o:</p>
+<p>&ldquo;1. Todos os seres humanos nascem livres e iguais em dignidade e direitos. S&atilde;o dotados de raz&atilde;o e consci&ecirc;ncia e devem agir em rela&ccedil;&atilde;o uns aos outros com esp&iacute;rito de fraternidade.&rdquo; Basta ler esse simples texto inicial para surgirem os questionamentos: a) o que s&atilde;o seres humanos?; b) o que &eacute; dignidade?; c) o que &eacute; &ldquo;esp&iacute;rito de fraternidade&rdquo;?</p>
+<p>Esses conceitos n&atilde;o s&atilde;o ensinados na escola. N&atilde;o s&atilde;o ensinados na c&aacute;tedra. &Agrave;s vezes, s&atilde;o ensinados em templos religiosos. &Agrave;s vezes, pela fam&iacute;lia. Mas quem os escuta?</p>
+<p>Aprendemos sobre eles quando aprendemos a amar. Infelizmente o amor se tornou um conceito piegas numa sociedade que estimula a competitividade. Como amar e disputar, como amar e querer subjugar? O destino do mais amoroso &eacute; ser desrespeitado, banido, considerado fraco &ndash; e, ent&atilde;o, realimentamos o pensamento de que temos que &ldquo;guerrear&rdquo; para sobreviver na nossa sociedade.</p>
+<p>Neste ano de 2023, duas grandes guerras est&atilde;o humilhando nossas melhores inten&ccedil;&otilde;es como humanidade. Numa delas, literalmente uma na&ccedil;&atilde;o inteira foi tachada de &ldquo;subumana&rdquo; como justificativa para ser massacrada; crian&ccedil;as e suas m&atilde;es jamais conseguir&atilde;o ter o status necess&aacute;rio para ter sua &ldquo;dignidade&rdquo; respeitada. Tampouco a ONU, criada em 1945 e guardi&atilde; dos Direitos Humanos consegue cumprir seu papel de est&iacute;mulo &agrave; &ldquo;fraternidade&rdquo;, diante do poderio financeiro de pa&iacute;ses que se consideram &ldquo;desenvolvidos&rdquo;.</p>
+<p>Como mudar tudo isso, como encarar esses ciclos hist&oacute;ricos de viol&ecirc;ncia e manter o cora&ccedil;&atilde;o esperan&ccedil;oso? Novos textos, mais papel? Os conceitos amorosos que permitem iluminar as letras das declara&ccedil;&otilde;es de direitos (humano, dignidade, fraternidade) nascem no seio familiar, pelas m&atilde;os de quem exerce a maternagem, independentemente da identidade de g&ecirc;nero, orienta&ccedil;&atilde;o sexual ou liga&ccedil;&atilde;o biol&oacute;gica; nascem com o amor que alimenta as pequenas novas centelhas, que herdar&atilde;o nossa bagun&ccedil;a se n&atilde;o conseguirmos &ndash; em n&oacute;s &ndash; quebrar os ciclos infinitos de &oacute;dio e intoler&acirc;ncia.</p>
+<p>Parab&eacute;ns, Declara&ccedil;&atilde;o de Direitos Humanos. Feliz anivers&aacute;rio de 75 anos! Lamento que hoje voc&ecirc; seja como uma av&oacute; testemunhando filhos e netos disputarem aquele seu terreninho de heran&ccedil;a, puro mato, comprado h&aacute; tanto tempo e que ningu&eacute;m ofereceu ajuda para pagar o IPTU. A met&aacute;fora pode te parecer tola, mas j&aacute; dizia Hermes Trimigesto: &ldquo;o que est&aacute; em cima &eacute; como o que est&aacute; embaixo&rdquo;, e nossa sociedade &eacute; apenas um grande fractal de cada uma de nossas fam&iacute;lias.</p>
+<p>PS do autor: Leonardo de Moraes &eacute; mestre em Direito do Estado, professor de Direitos Humanos e tabeli&atilde;o. Nas artes &eacute; roteirista, artista visual e autor do romance Tia Beth, sobre as dores e perdas da ditadura militar<br /></p>
+{% endraw %}

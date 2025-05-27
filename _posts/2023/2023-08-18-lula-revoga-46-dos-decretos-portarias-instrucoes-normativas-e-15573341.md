@@ -1,0 +1,27 @@
+---
+id: 15573341
+date: "2023-08-18T15:41:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "lula"
+categories:
+  - "sem-categoria"
+title: "Lula revoga 46% dos decretos, portarias, instru\u00e7\u00f5es normativas e resolu\u00e7\u00f5es de Bolsonaro"
+sutia: "Em 200 dias de governo, Lula revogou quase a metade dos 210 atos de Jair Bolsonaro"
+chapeu: "Nova gest\u00e3o"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/08/18/52751892411_d0e168bb8d_o-23958301.jpg"
+---
+{% raw %}
+<p>Um estudo realizado em conjunto pela Funda&ccedil;&atilde;o Lauro Campos e Marielle Franco (FLCMF) e pelo escrit&oacute;rio regional no Brasil da funda&ccedil;&atilde;o alem&atilde; Rosa Luxemburgo, revela que o presidente Luiz In&aacute;cio Lula da Silva revogou em 200 dias de governo 97 (46,17%) das 210 normas infralegais Jair Bolsonaro consideradas priorit&aacute;rias para garantir e ampliar direitos do povo brasileiro.</p>
+<p>O levantamento, coordenado pelo N&uacute;cleo de An&aacute;lises, Pesquisa e Estudos (NAPE) da FLCMF tem como t&iacute;tulo &ldquo;Revoga&ccedil;o e a Reconstru&ccedil;&atilde;o da Democracia Brasileira&rdquo;, foi divulgado pela FLCMF e est&aacute; dispon&iacute;vel no portal da institui&ccedil;&atilde;o.</p>
+<p>A pesquisa em 2023 &eacute; continuidade do levantamento feito em 2022 intitulado &ldquo;Revoga&ccedil;o: Reverter a Destrui&ccedil;&atilde;o do Governo Bolsonaro&rdquo;, quando uma equipe de 30 pesquisadores de ambas as funda&ccedil;&otilde;es analisou cerca de 20 mil normas infralegais, desde decretos, portarias, instru&ccedil;&otilde;es normativas e resolu&ccedil;&otilde;es do ex-presidente Bolsonaro, al&eacute;m de centenas de medidas provis&oacute;rias, projetos de lei e emendas constitucionais.</p>
+<p>&ldquo;Neste trabalho que foi apresentado ao governo de transi&ccedil;&atilde;o do governo Lula, apontamos o entulho jur&iacute;dico que precisava ser revogado. Agora estamos trazendo o balan&ccedil;o dos primeiros 200 dias de governo. Identificamos sens&iacute;veis e importantes avan&ccedil;os. Esperamos com esse novo estudo ampliar o debate p&uacute;blico e fortalecer os argumentos para seguirmos retirando os entraves infralegais deixados pelo bolsonarismo. Assim podemos avan&ccedil;ar ainda mais na agenda de direitos sociais vencedora nas urnas&rdquo;, afirmou Nat&aacute;lia Szermeta, presidente da Funda&ccedil;&atilde;o Lauro Campos e Marielle Franco.</p>
+<p>Segundo Nat&aacute;lia Szermeta, os 97 atos revogados pelo presidente Lula fazem parte de um rol de prioridades listadas no Revoga&ccedil;o 2022. Deste conjunto de normas anuladas, 60 delas foram apontadas como quest&atilde;o primordial para a democracia no Brasil.</p>
+<p>A edi&ccedil;&atilde;o do Revoga&ccedil;o 2023 mostra que como resultado dos atos revogados por Lula as mulheres voltaram a ser prioridade das pol&iacute;ticas de sa&uacute;de com a reconstru&ccedil;&atilde;o da &aacute;rea de pol&iacute;ticas de g&ecirc;nero do SUS assim como a aten&ccedil;&atilde;o &agrave; popula&ccedil;&atilde;o LGBTQIAPN+, que soma 31 milh&otilde;es de pessoas no Brasil. No mesmo sentido povos ind&iacute;genas e quilombolas voltaram a ser sujeitos de direito com a retomada das demarca&ccedil;&otilde;es de terra e o Brasil deixou a posi&ccedil;&atilde;o de p&aacute;ria internacional que viveu com Bolsonaro.</p>
+<p>Segundo as entidades, outras medidas que receberam destaque como o fim do amplo programa de privatiza&ccedil;&otilde;es do ex-presidente com destaque para a retomada de uma vis&atilde;o estrat&eacute;gica sobre a Petrobr&aacute;s a retomada de uma pol&iacute;tica estruturante de Ci&ecirc;ncia e Tecnologia com o aumento das bolsas de p&oacute;s-gradua&ccedil;&atilde;o e o financiamento a longo prazo de pesquisas estrat&eacute;gicas em todas as &aacute;reas.</p>
+<p>A retomada das pol&iacute;ticas de transpar&ecirc;ncia de dados e informa&ccedil;&otilde;es como a quebra do Sigilo de 100 anos decretado por Bolsonaro a retomada das pol&iacute;ticas de fiscaliza&ccedil;&atilde;o ambiental e do trabalho an&aacute;logo &agrave; escravid&atilde;o com multas e puni&ccedil;&otilde;es aos infratores tamb&eacute;m s&atilde;o resultado direto dos atos revogados pelo presidente Lula.</p>
+<p>O cientista pol&iacute;tico Josu&eacute; Medeiros coordenador do NAPE e da pesquisa do Revoga&ccedil;o em 2022 e 2023 afirma que &ldquo;Em 2022 apresentamos o M&eacute;todo Bolsonaro de Destrui&ccedil;&atilde;o da Democracia com 4 eixos: or&ccedil;ament&aacute;rio sentidos p&uacute;blicos do Estado ideol&oacute;gico e institucional. Com o levantamento de 2023 analisamos o quanto avan&ccedil;amos em 200 dias de governo Lula e tamb&eacute;m destacamos o quanto falta avan&ccedil;ar o que s&oacute; ocorrer&aacute; com mobiliza&ccedil;&atilde;o da sociedade brasileira em defesa da democracia&rdquo;.</p>
+<p>O relat&oacute;rio dispon&iacute;vel no portal da Funda&ccedil;&atilde;o Lauro Campos e Marielle Franco destaca ainda resultados em diferentes &aacute;reas como Assist&ecirc;ncia Social Combate &agrave; Corrup&ccedil;&atilde;o e Transpar&ecirc;ncia Cultura Direito &agrave; Sa&uacute;de Direitos da Crian&ccedil;a e Adolescentes Economia Trabalho e Renda For&ccedil;as Armadas Petr&oacute;leo G&aacute;s e Energia Seguran&ccedil;a P&uacute;blica e Controle de Armas.<br /></p>
+{% endraw %}

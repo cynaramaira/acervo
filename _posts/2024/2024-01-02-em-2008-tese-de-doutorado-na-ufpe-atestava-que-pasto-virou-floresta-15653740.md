@@ -1,0 +1,52 @@
+---
+id: 15653740
+date: "2024-01-02T10:52:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "escola-de-sargentos-do-exercito"
+categories:
+  - "sem-categoria"
+title: "Em 2008, tese de doutorado na UFPE atestava que pasto virou floresta regenerada, com poucos fragmentos de Mata Atl\u00e2ntica"
+sutia: "\"N\u00e3o ser\u00e3o usadas essas \u00e1reas (de Mata Atl\u00e2ntica)\" reafirma o coronel ao Blog de Jamildo, neste in\u00edcio de ano"
+chapeu: "Desenvolvimento regional"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/png/2024/01/01/figura_1_vista_aerea_da_apa_aldeia_beberibe-25930037.png"
+---
+{% raw %}
+<p>H&aacute; 16 anos, o coronel Helder de Barros Guimar&atilde;es, hoje um dos respons&aacute;veis pela <a href="https://jc.ne10.uol.com.br/colunas/jamildo/2023/12/15652950-exclusivo-exercito-aceita-reduzir-area-desmatada-na-escola-de-sargentos-mas-diz-que-chegou-ao-limite-e-pode-deixar-pernambuco.html" target="_blank" rel="noopener noreferrer">implanta&ccedil;&atilde;o da nova Escola de Sargentos do Ex&eacute;rcito</a>, na cidade de Abreu e Lima, em 2008 era capit&atilde;o, oficial instrutor do Centro de Prepara&ccedil;&atilde;o de Of&iacute;ciais da Reserva (CPOR) do Recife e mestrando em gest&atilde;o e pol&iacute;ticas ambientais da Universidade Federal de Pernambuco (UFPE).</p>
+<p>A sua tese de mestrado, aprovada pela UFPE naquele ano, registra o &ecirc;xito das For&ccedil;as Armadas em preservar a integridade ambiental da &aacute;rea por 60 anos, desde quando em 1944 nove engenhos de cana de a&ccedil;&uacute;car foram unidos e os pastos ali existentes deram lugar a uma floresta regenerada. "Ap&oacute;s 60 anos de instala&ccedil;&atilde;o desta organiza&ccedil;&atilde;o militar houve uma importante recupera&ccedil;&atilde;o tanto da flora quanto dos recursos h&iacute;dricos existentes em seu interior", escreveu em 2008.</p>
+<p>O trabalho cient&iacute;fico tamb&eacute;m constatou que existiam, na d&eacute;cada de 60, a exist&ecirc;ncia de 20 fragmentos de mata densa, que n&atilde;o chegavam a 10% da &aacute;rea total. "Durante os trabalhos de campo realizados em 2006 e 2007, verificou-se que estes fragmentos n&atilde;o se apresentavam mais isolados, e sim justapostos uns ao outros", escreve em 2008.<br /></p>
+<p>O pr&oacute;prio autor destacou que este estudo foi o primeiro realizado para o Estado de Pernambuco, sendo portanto pioneiro no que se refere ao levantamento da exist&ecirc;ncia e execu&ccedil;&atilde;o de um plano de gest&atilde;o ambiental nas Organiza&ccedil;&otilde;es Militares da 7&ordf; Regi&atilde;o Militar.</p>
+<p>Na exposi&ccedil;&atilde;o oficial do ano passado, os militares deixaram claro que a &aacute;rea reservada ao projeto estruturador foi planilhada e que o efeito ser&aacute; m&iacute;nimo.</p>
+<p>"N&oacute;s estudamos as &aacute;reas que haveria o menor impacto. H&aacute; manga, jaca, <strong>plantas ex&oacute;ticas,</strong> &eacute; uma <strong>mata secund&aacute;ria.</strong> Outra diretriz, prevista em lei, &eacute; construir em uma dist&acirc;ncia de 100 metros dos mananciais. Vamos cumprir tudo que as leis ambientais pedem e vamos al&eacute;m", explicou.<br /></p>
+<h2>Nem tudo que &eacute; verde &eacute; Mata Atl&acirc;ntica <br /></h2>
+<p>Aqui cabe uma explica&ccedil;&atilde;o mais t&eacute;cnica, de modo a combater fal&aacute;cias lan&ccedil;adas contra o projeto.</p>
+<p>Uma<strong> floresta ex&oacute;tica</strong> &eacute; uma floresta que n&atilde;o ocorre naturalmente na &aacute;rea em que se encontra. As florestas ex&oacute;ticas podem ser introduzidas intencionalmente pelo homem, como por exemplo, para fins de reflorestamento ou paisagismo, ou podem ser introduzidas acidentalmente, como por exemplo, atrav&eacute;s de aves migrat&oacute;rias.</p>
+<p>As florestas ex&oacute;ticas podem ter um impacto significativo no meio ambiente, ajudando a recuperar &aacute;reas degradadas ou devastadas.</p>
+<p>Uma <strong>floresta secund&aacute;ria</strong> &eacute; uma floresta que se desenvolve em uma &aacute;rea que j&aacute; foi florestada, mas que foi desmatada. As florestas secund&aacute;rias podem se formar naturalmente, atrav&eacute;s do processo de sucess&atilde;o ecol&oacute;gica, ou podem ser plantadas pelo homem.</p>
+<p>As florestas secund&aacute;rias s&atilde;o geralmente menos complexas e diversas do que as florestas prim&aacute;rias, que s&atilde;o florestas que nunca foram desmatadas. No entanto, as florestas secund&aacute;rias ainda podem desempenhar um papel importante no meio ambiente, fornecendo habitat para plantas e animais, e ajudando a regular o clima.</p>
+<p>"N&atilde;o ser&atilde;o usadas essas &aacute;reas (de Mata Atl&acirc;ntica)" reafirma o coronel ao Blog de Jamildo, neste in&iacute;cio de ano.</p>
+<h2>Resgate da riqueza</h2>
+<p>Um dado curioso extra&iacute;do da tese de mestrado de 2008, elaborada pelo coronel Helder, &eacute; que at&eacute; 2008 o Ex&eacute;rcito n&atilde;o havia desenvolvido nenhum trabalho de reflorestamento. "A &aacute;rea foi cercada e se restringiu o acesso de pessoas estranhas ao seu interior", escreve.</p>
+<p>"A diversidade flor&iacute;stica ser&aacute; outro grande legado pois a &aacute;rea da escola &eacute; formada por muitas &aacute;rvores ex&oacute;ticas e o processo de compensa&ccedil;&atilde;o far&aacute; o resgate da riqueza e diversidade t&iacute;pica da Mata Atl&acirc;ntica", promete agora em 2023 o Comando Militar do Nordeste.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/11/16/120x80/1_sem_titulo-25166443.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'65564f077228f', 'cd_midia':25166443, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/11/16/sem_titulo-25166443.jpg', 'ds_midia': 'Coronel Helder, no Comando Militar do Nordeste', 'ds_midia_credi': 'Blog Imagem', 'ds_midia_titlo': 'Coronel Helder, no Comando Militar do Nordeste', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '918', 'align': 'Left'}"><figure style="width:918;height:1224;">
+			<img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/11/16/sem_titulo-25166443.jpg" alt="Blog Imagem" title="Coronel Helder, no Comando Militar do Nordeste">
+		<figcaption class='text-left'>
+			Coronel Helder, no Comando Militar do Nordeste - <strong>Blog Imagem</strong>
+		</figcaption>
+	</figure></tinymce></p>
+<p><a href="https://jc.ne10.uol.com.br/colunas/jamildo/2023/11/15635750-alem-de-gerar-revolucao-com-emprego-e-renda-com-escola-de-sargentos-em-abreu-e-lima-exercito-vai-deixar-meio-ambiente-mais-sustentavel-do-que-e-hoje.html" target="_blank" rel="noopener noreferrer">No ano passado, em um caf&eacute; da manha, o Comando Militar do Nordeste</a> disse que a for&ccedil;a vai deixar o meio ambiente na &aacute;rea escolhida para o projeto estruturador melhor do que est&aacute; hoje, em termos de conserva&ccedil;&atilde;o e sustentabilidade.</p>
+<p>"Quando falamos de meio ambiente, &eacute; preciso deixar claro que baixo impacto n&atilde;o &eacute; impacto zero. Haver&aacute; um legado econ&ocirc;mico, um legado social e um legado ambiental enorme. Vamos deixar a &aacute;rea melhor do que antes. N&atilde;o apenas porque a lei exige compensa&ccedil;&atilde;o ambiental, mas porque o projeto da nova Escola de Sargentos nasceu sob os ausp&iacute;cios de portarias do Ex&eacute;rcito que orientam a sustentabilidade", disse o coronel Helder, ainda no ano passado.</p>
+<p>"Vamos ter uma escola sustent&aacute;vel, do ponto de vista econ&ocirc;mico, social e ambiental. Vamos usar pouco mais de 1,5% da &aacute;rea (hoje menos ainda, uma vez que houve mudan&ccedil;as no projeto). A lei manda compensar e vamos al&eacute;m. Se n&atilde;o fosse a compensa&ccedil;&atilde;o, n&atilde;o ter&iacute;amos a Via Mangue, n&atilde;o ter&iacute;amos Suape", comparou.<br /></p>
+<p>O militar explicou que, em todo o Brasil, todas as &aacute;reas sob o comando do Ex&eacute;rcito s&atilde;o um fator de conserva&ccedil;&atilde;o ambiental, ajudando a evitar alagamentos, amenizando o clima e valorizando todo o entorno.</p>
+<p>"A atividade militar, assim, &eacute; e sempre foi compat&iacute;vel com que haja uma melhora no meio ambiente (n&atilde;o uma degrada&ccedil;&atilde;o). N&oacute;s precisamos destas &aacute;reas preservadas (para a pr&aacute;tica dos exerc&iacute;cios militares)", explicou.<br /></p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/11/28/120x80/1_raquel_lyra_escola_sargentos__1_-25386277.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'6565fead0721c', 'cd_midia':25386277, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/11/28/raquel_lyra_escola_sargentos__1_-25386277.jpg', 'ds_midia': 'Raquel Lyra visita &aacute;rea em que ser&aacute; constru&iacute;da a Escola de Sargentos do Ex&eacute;rcito', 'ds_midia_credi': 'Reprodu&ccedil;&atilde;o/Redes Sociais', 'ds_midia_titlo': 'Raquel Lyra visita &aacute;rea em que ser&aacute; constru&iacute;da a Escola de Sargentos do Ex&eacute;rcito', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '1038', 'align': 'Left'}"><figure style="width:1038;height:1224;">
+			<img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/11/28/raquel_lyra_escola_sargentos__1_-25386277.jpg" alt="Reprodu&ccedil;&atilde;o/Redes Sociais" title="Raquel Lyra visita &aacute;rea em que ser&aacute; constru&iacute;da a Escola de Sargentos do Ex&eacute;rcito">
+		<figcaption class='text-left'>
+			Raquel Lyra visita &aacute;rea em que ser&aacute; constru&iacute;da a Escola de Sargentos do Ex&eacute;rcito - <strong>Reprodu&ccedil;&atilde;o/Redes Sociais</strong>
+		</figcaption>
+	</figure></tinymce></p>
+<h2>Recursos h&iacute;dricos</h2>
+<p>"Um exemplo de que vamos ter ganhos de sustentabilidade. Vamos deixar a qualidade da bacia do rio Catuc&aacute; (que abastece a barragem de Botafogo, em Igarassu) melhor do que antes, com o replantio de matas ciliares. Isto amplia o volume do rio, liga dois fragmentos da bacia que n&atilde;o est&atilde;o conectados. Com isto, Pernambuco, que tem um dos maiores d&eacute;ficits h&iacute;dricos do Brasil, vai ter a garantia de preserva&ccedil;&atilde;o das &aacute;guas que chegam a Botafogo. O rio nasce no CIMNC, l&aacute; n&atilde;o tem esgoto, n&atilde;o tem fertilizante", explicou.<br /></p>
+{% endraw %}

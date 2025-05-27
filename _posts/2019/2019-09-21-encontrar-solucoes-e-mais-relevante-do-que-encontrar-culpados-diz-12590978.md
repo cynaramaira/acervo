@@ -1,0 +1,38 @@
+---
+id: 12590978
+date: "2019-09-21T13:48:23Z"
+last_modified_at: null
+tags:
+  - "cesar-filho"
+  - "solucoes-urbanas"
+categories:
+  - "noticias"
+title: "\u2018Encontrar solu\u00e7\u00f5es \u00e9 mais relevante do que encontrar culpados\u2019, diz C\u00e9sar Caula"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/09/WhatsApp-Image-2019-09-21-at-17.jpg"
+---
+{% raw %}
+<p><p>A convite da Procuradoria-Geral do Estado do Maranhão (PGE/MA), como parte do programa “Diálogos PGE/MA 50 anos”, o procurador do Estado de Pernambuco, César Caúla, ministrou na quarta, 18, em São Luís, a palestra sobre a atuação da Procuradoria Geral do Estado no sistema de controle interno do Poder Executivo.</p></p>
+<p><p>Entre as reflexões propostas para a “ressignificação do que seja controle”, Caúla, que já foi procurador-geral de Pernambuco, propôs que as Procuradorias busquem soluções mais criativas e educativas. Antes de iniciar sua conferência, ele concedeu entrevista ao Portal do Conpeg – Colégio Nacional dos Procuradores-Gerais dos Estados e do Distrito Federal, para falar sobre essas soluções possíveis. Acompanhe a seguir: </p></p>
+<p><p>Caúla propõe a ressignifcação do controle</p></p>
+<p><p>Portal- Na sua avaliação, o país está mais atento ao controle interno nos órgãos públicos?</p></p>
+<p><p>César Caúla– A necessidade de controle interno não é sentida apenas pela administração pública. Veja a onda que há no mundo todo de compliance,  exigência de adequação de conformidade, necessidade de se perceber eventual desvio de conduta no momento em que a correção disso seja mais fácil, menos custosa, mais efetiva.</p></p>
+<p><p>Então, o tema é de muito interesse, mas penso que devemos fazer, menos uma mera exposição do que seja controle, que isso a gente já sabe demais, e mais uma provocação, tratando de alguns desafios especificamente para a advocacia pública que este tema do controle levanta.</p></p>
+<p><p>Na minha percepção, o que a gente faz em termo de controle interno é menos do que a nossa situação de protagonismo permite. A advocacia de estado pode fazer mais do que tem feito. Fazer um controle mais voltado ao controle- construção de legalidade do que um controle-fiscalização e punição. É muito mais importante a gente conseguir moldar comportamentos antes de que eles aconteçam do que punir depois.</p></p>
+<p><p>Queria chamar a atenção das diferenças que há entre a atuação dos órgãos da advocacia pública e dos outros órgãos envolvidos no controle. Porque necessariamente, em razão, inclusive, das diversas situações de controle, tanto o objetivo, quanto as ferramentas, quanto a sistemática de controle utilizáveis pela advocacia pública, o Ministério Público, o Tribunal de Contas ou a Controladoria são diferentes. Esses órgãos atuam em momentos distintos; têm objetivos, ferramentas e possibilidades diferentes também.</p></p>
+<p><p>Fazer uma simples superposição de controles como se fossem controles iguais só gera cacofonia, gera excesso de controle, que acaba não sendo efetivo. Porque assim eu não controlo com objetivo de criar conformidades e, sim, eventualmente, encontrar culpas. Mas encontrar soluções é muito mais relevante do que encontrar culpados.</p></p>
+<p><p>“O fato de você estar mais próximo de quem executa o serviço faz com que você perceba mais a importância da velocidade da resposta, da efetividade das soluções propostas”</p></p>
+<p><p>Portal - Quais ferramentas poderiam ser utilizadas para moldar comportamentos? Eventos como este da PGE/MA, por exemplo?</p></p>
+<p><p>César Caúla– Sim, estes encontros são ferramentas importantes para compartilhamentos. A troca de experiência entre os órgãos de advocacia pública, não só nas Procuradorias dos Estados, numa atuação articulada, faz muita diferença. Por força dos diversos cargos que tive na Procuradoria, participei de vários colégios nacionais e sempre digo que nunca voltei de uma reunião sem uma nova ideia para ser implementada, tentada ou adaptada. É óbvio que as ferramentas têm aplicabilidade diferentes nos diferentes órgãos, mas há muito o que fazer de melhoria colhendo as informações e as experiências de outros lugares.</p></p>
+<p><p>E podemos agir, também, por meio da orientação simples, pronta, antecipada, expandida, presente nos órgãos. Não adianta a advocacia pública ser detentora do conhecimento, ser altamente especializada, com quadros muito qualificados, e não conseguir transmitir aquilo o que entende que é correto no procedimento para quem executa, lá na ponta.</p></p>
+<p><p>Portal- O sr. poderia destacar algumas práticas positivas na Procuradoria de Pernambuco?</p></p>
+<p><p>César Caúla– Na Consultiva, especificamente, nós temos uma prática de editar cartilhas de orientação simplificadas e temos, há muito tempo, informativos encaminhados para todos os órgãos com as orientações da Procuradoria. Porque, muitas vezes, uma norma nova causa um período grande de perplexidade, de as pessoas não saberem o que fazer. Se a gente consegue orientar logo, evita-se que um número grande de erros aconteça. Mas a Procuradoria pode fazer muito mais, porque a Procuradoria está próxima dos atos, desde a concepção da política pública até a defesa dos atos posteriores à execução dos contratos. Em todo esse caminho, a advocacia pública pode interferir. Eu também melhoro a fiscalização quando, por exemplo, eu acresço segurança ao gestor, dando orientação pronta a ele no momento da execução do contrato, ou apresento soluções para situações não esperadas que podem causar prejuízo.</p></p>
+<p><p>Outro exemplo em Pernambuco é a presença da Procuradoria nos órgãos, por meio dos procuradores lotados da área consultiva em algumas secretarias mais relevantes. Isso cria uma aproximação maior com os objetivos da administração, pois, nós, procuradores, não ficamos simplesmente analisando papel. O fato de você estar mais próximo de quem executa o serviço faz com que você perceba mais a importância da velocidade da resposta, da efetividade das soluções propostas. Essa é uma experiência muito positiva.</p></p>
+<p><p>“Às vezes, a gente esquece que o objetivo é entregar a prestação de serviços à população. Não é cumprir protocolo ou observar burocracia”</p></p>
+<p><p>Portal- Quais os entraves para as soluções?</p></p>
+<p><p>César Caúla – Na verdade, a hipertrofia do controle acaba fazendo com que haja uma certa paralisia dos agentes públicos. E isso não é educativo e não contribui para uma administração pública que seja criativa, que busque solução, porque, no fim do dia, o que temos que fazer é entregar a prestação de serviços públicos à população. Às vezes, a gente esquece que o objetivo é esse. Não é cumprir protocolo ou observar burocracia. A gente precisa fazer com que o dinheiro público seja utilizado para prestações públicas em prol da sociedade.</p></p>
+<p><p>“Uma das coisas mais relevantes da atuação do Conpeg é essa percepção da força que tem a atuação conjunta dos estados”</p></p>
+<p><p>Portal – Neste sentido de facilitar troca de experiências, o Conpeg é uma alternativa?César Caúla– O Conpeg, por uma série de fatores, teve um crescimento na atuação muito significativo nos últimos anos. Uma das coisas mais relevantes da atuação do Conpeg é essa percepção da força que tem a atuação conjunta dos estados. Não só nos processos judiciais de interesse dos estados, mas também nessas práticas públicas, nas rotinas da administração, precisamos atuar conjuntamente para buscar ainda maior protagonismo, inclusive no acompanhamento das legislações federal e estaduais, pois há muito o que fazer nessas áreas. Penso eu que é um passo próximo que o CONPEG vai adotar.</p></p>
+{% endraw %}

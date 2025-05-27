@@ -1,0 +1,51 @@
+---
+id: 12560062
+date: "2017-11-10T17:24:37Z"
+last_modified_at: null
+tags:
+  - "empresa"
+  - "governo"
+  - "grande-recife"
+  - "onibus"
+categories:
+  - "noticias"
+title: "Governo deve h\u00e1 um ano a empresa que monitora \u00f4nibus no Grande Recife"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/12/onibus-lotado.jpg"
+---
+{% raw %}
+<p><p>Antes da Copa do Mundo, entre 2013 e 2014, o então governador Eduardo Campos (PSB) licitou e <a href="https://jconline.ne10.uol.com.br/canal/cidades/geral/noticia/2014/01/30/grande-recife-tenta-implantar-novo-sistema-de-monitoramento-de-onibus-115597.php" target="_blank" rel="noopener">contratou a empresa espanhola Etra para implantar o Sistema de Monitoramento da Operação (Simop)</a>, que começaria a operar dois anos depois, facilitando a vida do usuário ao informar localização e horários dos ônibus e ajudando a fiscalizar o transporte coletivo na Região Metropolitana do Recife. Através do serviço, seria possível, por exemplo, consultar os horários através de painéis nos terminais e de aplicativos para celulares.</p></p>
+<p><p>Quase quatro anos depois, o sistema foi instalado em boa parte da frota, mas não está vigorando. Além da resistência das permissionárias do sistema, o governo - agora de Paulo Câmara (PSB) - acumula dívidas com a Etra há um ano. Nas contas da multinacional, se tivesse seguido o cronograma financeiro aprovado inicialmente, a gestão deveria ter pago R$ 30 milhões dos R$ 40,2 milhões contratados - incluindo R$ 6 milhões para a construção de um centro de monitoramento. Houve atrasos, no entanto, e o Grande Recife Consórcio calcula em R$ 10 milhões referentes a 2017, prometendo pagar R$ 3 milhões acordados ainda este ano.</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/08/assembleia-pode-abrir-cpi-para-investigar-transporte-publico/">Assembleia pode abrir CPI para investigar transporte público</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/30/mppe-diz-apoiar-botao-de-panico-nos-onibus-do-recife/">MPPE diz apoiar botão de pânico nos ônibus do Recife</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/20/vereador-propoe-flexibilizar-uso-da-porta-do-meio-dos-onibus/">Vereador propõe flexibilizar uso da porta do meio dos ônibus</a></p></p>
+<p><p>Os R$ 3 milhões são de um crédito suplementar aberto por Paulo Câmara em agosto. O valor está em tramitação desde então na Secretaria da Fazenda e não foi depositado para a Etra. O último pagamento foi em novembro de 2016, há um ano. </p></p>
+<p><p><img class="size-full wp-image-189000 alignnone" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/11/credito-simop.jpg" alt="" width="623" height="365" /></p></p>
+<p><p>Até agora, foram recebidos cerca de 25% do valor total, o que equivale a R$ 11,5 milhões. A empresa explica que o pagamento estaria dividido em duas etapas, uma com a aprovação do projeto piloto, que corresponderia a 20%, e o restante mensalmente de acordo com a instalação dos equipamentos nos ônibus, em até 60 meses.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/11/no-recife-vereadora-quer-transporte-gratuito-para-mulheres-vitimas-de-violencia/">No Recife, vereadora quer transporte gratuito para mulheres vítimas de violência</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/03/ninguem-assalta-onibus-com-fuzil-diz-bruno-araujo-em-recado-a-paulo-camara/">“Ninguém assalta ônibus com fuzil”, diz ministro em recado a Paulo Câmara</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/20/estado-nao-diz-o-que-vai-fazer-com-destino-de-licitacao-milionaria-de-onibus-cancelada-pela-justica/">Estado não diz o que vai fazer com destino de licitação milionária de ônibus cancelada pela Justiça</a></p></p>
+<p><p>O Grande Recife afirmou que, "devido ao contingenciamento de recursos decorrente da crise econômica do país que tem reflexo no Estado, foi necessário repactuar" os aportes financeiros. "Contratualmente, a Etra deveria receber R$ 10 milhões, mas foi acordado o pagamento de R$ 3 milhões, que se encontra em tramitação, ficando o saldo remanescente a ser pago ano que vem."</p></p>
+<p><p>"Desde o início da execução, o cronograma financeiro não é executado conforme o contrato", diz a empresa. "O atraso na execução financeira alterou o cronograma físico, pois nessa fase o Simop deveria estar com todos os ônibus embarcados. A embarcação dos equipamentos depende da permissão do CTM (Consórcio de Transportes Metropolitano) junto com as operadoras."</p></p>
+<p><p>Hoje, dos aproximadamente 3 mil veículos, 2,8 mil estão com o sistema instalado, faltando apenas os da Borborema, por causa do atraso no pagamento. Tanto a Etra quanto o Grande Recife reconhecem, porém, que há uma resistência das empresas em relação ao sistema. A única empresa que operaria o sistema de forma correta seria a Globo. O Consórcio afirma que, como órgão gestor, tem a prerrogativa de exigir das operadoras a utilização do Simop. A Urbana-PE ainda não se manifestou sobre o assunto.</p></p>
+<p><h2>Contrato chegou a ser rompido</h2></p>
+<p><p>Antes da abertura do crédito, em 23 de maio, o presidente do Consórcio, Ruy Rocha, havia enviado um ofício ao presidente da Etra, Francisco Javier López Buciega, afirmando que suspenderia o contrato por 180 dias a partir de 1º de junho. A empresa é contra a suspensão, considerada "inconcebível com a urgência do uso do sistema, com tecnologia integrada para botão de pânico, inclusive".</p></p>
+<p><p>"O Simop é uma ferramenta fundamental para a operação, fiscalização e planejamento do transporte público de passageiros da Região Metropolitana do Recife e o Consórcio manterá o contrato com a Etra", defende o Grande Recife Consórcio.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/06/apos-revelacao-do-blog-assembleia-cancela-gasto-de-quase-1-milhao-para-divulgacao-dos-deputados-em-onibus/">Assembleia cancela gasto de quase 1 milhão para divulgação dos deputados em ônibus</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/18/marilia-arraes-quer-que-presenca-de-cobrador-seja-obrigatoria-em-onibus/">Marília Arraes quer que presença de cobrador seja obrigatória em ônibus</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2016/12/13/temer-anuncia-r-3-bilhoes-para-modernizar-frota-de-transporte-publico-no-pais/">Temer anuncia R$ 3 bilhões para modernizar frota de transporte público no País</a></p></p>
+<p><p>Para Pedro Josephi, da Frente de Luta pelo Transporte Público, questões políticas motivam o rompimento do contrato. "A crise econômica é de dois anos atrás. Aqui, na verdade falta vontade política do Estado de cumprir o que foi pactuado", afirma.</p></p>
+<p><p>"É muito grave que a gente não tenha fiscalização e monitoramento das empresas de ônibus, seja as que estão atuando sob <a href="https://jc.ne10.uol.com.br/blogs/deolhonotransito/2017/04/18/e-licitacao-das-linhas-de-onibus/" target="_blank" rel="noopener">concessão (as duas que venceram os lotes referentes ao BRT, Conorte e Mobibrasil) ou permissão (os cinco outros lotes, que não tiveram contratos de concessão assinados)</a>", diz. "A não implementação do Simop e a suspensão são a verdadeira máxima da raposa tomando conta do galinheiro. Elas executam o serviço e fiscalizam? Isso fulmina a existência do Grande Recife Consórcio."</p></p>
+<p><h2>Como funcionaria</h2></p>
+<p><p>Com os atrasos na implantação do sistema, a fiscalização vem sendo feita por profissionais em campo com auxílio do Simop, embora o sistema ainda não esteja completo. </p></p>
+<p><p>"Os números do STPP/RMR são expressivos e desafiadores: atualmente, cerca de 3 mil ônibus realizam mais de 25 mil viagens diárias. Por outro lado, o CTM conta com apenas 25 fiscais de linha e frota, atuando no campo, distribuídos em três turnos", reclamava uma carta dos funcionários do CTM ao presidente do Grande Recife, apresentada na última quarta-feira (8), quando foi realizada uma audiência pública na Assembleia Legislativa de Pernambuco (Alepe) sobre o assunto.</p></p>
+<p><p>A criação de uma Comissão Parlamentar de Inquérito (CPI) sobre o transporte pública é articulada pela deputada Teresa Leitão (PT) no Legislativo estadual.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/14/lucro-com-publicidade-em-transporte-pode-servir-na-reducao-de-tarifa/">Projeto prevê que lucro com publicidade em transporte pode servir na redução de tarifa</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/05/em-nota-oficial-psol-ataca-governador-e-reclama-de-tubaroes-do-transporte/">Em nota oficial, PSOL ataca governador e reclama de ‘tubarões do transporte’</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2016/07/26/saiba-onde-achar-seus-pertences-quando-perder-algo-dentro-dos-onibus/">Saiba onde achar seus pertences quando perder algo dentro dos ônibus</a></p></p>
+<p><p>Embora quase quatro anos depois da contratação ainda funcione dessa forma, o sistema permitiria um monitoramento mais tecnológico dos ônibus. A licitação internacional para a contratação o Simop foi a primeira do tipo no País, um ano depois de a primeira tentativa de instalar um serviço semelhante com empresas locais falhou.</p></p>
+<p><p>O diferencial seria a implantação de computadores de bordo em toda a frota, permitindo o registro de informações como o número de ordem do ônibus, o número da linha, a matrícula do operador e o início da viagem. Seria possível, então, através do Centro de Monitoramento da Operação, saber se o ônibus estivesse operando dentro do programado ou não, considerando questões como trânsito. Se as viagens não fossem cumpridas, os operadores poderiam ter a remuneração reduzida.</p></p>
+{% endraw %}

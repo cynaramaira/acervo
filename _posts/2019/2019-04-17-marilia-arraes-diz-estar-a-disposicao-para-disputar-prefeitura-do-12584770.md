@@ -1,0 +1,31 @@
+---
+id: 12584770
+date: "2019-04-17T20:52:24Z"
+last_modified_at: null
+tags:
+  - "marilia-arraes"
+  - "prefeitura"
+  - "recife"
+categories:
+  - "noticias"
+title: "Mar\u00edlia Arraes diz estar '\u00e0 disposi\u00e7\u00e3o' para disputar Prefeitura do Recife"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/08/marilia-arraes.jpg"
+---
+{% raw %}
+<p><p>Oito meses após <a href="https://blogs.ne10.uol.com.br/jamildo/2018/10/07/rifada-pelo-pt-marilia-arraes-e-petista-mais-votada-e-leva-partido-de-volta-a-camara-em-pe/">ter a candidatura ao governo de Pernambuco rifada pelo acordo entre o PT e o PSB</a>, a deputada federal petista Marília Arraes afirmou nesta quarta-feira (17), em entrevista à Rádio Cultura do Nordeste, estar à disposição para disputas majoritárias em 2020 e 2022. Apesar de o seu partido ter voltado a compor as gestões socialistas no Estado e no Recife, a parlamentar voltou a criticar o governador Paulo Câmara (PSB), a quem atribui "incompetência", e comparou o caso a 2010, quando as duas siglas eram aliadas e romperam dois anos depois.</p></p>
+<p><p>"Tendo a oportunidade de disputar uma majoritária, seja em 2020 ou 2022, claro que estou totalmente à disposição", afirmou ao ser questionada sobre a possibilidade de disputar a Prefeitura do Recife no ano que vem. Ela foi entrevistada no programa Comando Geral da Notícia.</p></p>
+<p><p>"Mas é preciso também uma dedicação grande a esse mandato de deputada federal por causa desse momento politico que estamos vivendo. Sou a única mulher que representa Pernambuco lá na Câmara e são tantas questões que nos dão uma responsabilidade grande que não vou entrar em picuinha partidária", enfatizou. "Claro que meu nome está à disposição para fazer uma disputa caso seja necessário no partido, mas estou preocupada em exercer bem o mandato, porque as grandes decisões do País estão passando pelo Congresso e nós precisamos elevar o nível do debate".</p></p>
+<p><p>Marília Arraes ainda negou que tenha planos de sair do PT para se candidatar a prefeita. "Não faz parte da minha formação ter uma insatisfação e sair do partido", disse.</p></p>
+<p><p>Após a deputada, então vereadora do Recife, fazer pré-campanha ao Governo de Pernambuco, o PT costurou nacionalmente uma aliança com o PSB que fez com que os petistas retirassem o nome dela em Pernambuco e entrassem na chapa de Paulo Câmara. O apoio envolvia o acordo para que os socialistas não apoiassem o candidato do PDT à presidência, Ciro Gomes. O senador Humberto Costa, um dos principais articuladores, foi reeleito com o governador.</p></p>
+<p><p>Este ano, o PT indicou nomes para o primeiro escalão de Paulo Câmara - <a href="https://blogs.ne10.uol.com.br/jamildo/2019/01/02/dilson-peixoto-vai-cuidar-da-ceasa-prorural-ipa-iterpe-e-adagro/">Dilson Peixoto, na Secretaria de Desenvolvimento Agrário</a> - e de Geraldo Julio - <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/01/pt-indica-oscar-barreto-para-secretaria-de-saneamento-da-pcr/">Oscar Barreto na pasta de Saneamento</a>. Além disso, o <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/18/joao-da-costa-anuncia-retorno-do-pt-a-frente-popular/">vereador João da Costa, que assumiu a vaga deixada por Marília Arraes na Câmara do Recife, anunciou o retorno do PT à Frente Popular</a>.</p></p>
+<p><img class="size-full wp-image-200357" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2018/08/MARILIA-E-HUMBERTO.jpg" alt="MARILIA E HUMBERTO" width="748" height="410" /> Marília Arraes e Humberto Costa após encontro de delegados em Pernambuco (Foto: Leo Motta/JC Imagem)</p>
+<p><p>A deputada, porém, mantém a postura contrária ao PSB, partido que ela deixou há três anos. "Não vejo justificativa política para mudar meu posicionamento. Houve uma negociação para tentar salvar o governo ruim que Paulo Câmara faz. Mas o governo dele não mudou, a forma de gestão não mudou. A incompetência e a falta de liderança também não mudaram, então por que vou mudar meu posicionamento politico?", disse na entrevista.</p></p>
+<p><p>"Mas a política é muito dinâmica. Se voltar ao ano de 2010: Eduardo Campos (primo dela) ganhou a eleição, o PT já fazia quatro anos que estava na base aliada do PSB e que estava junto com o PSB na prefeitura com João da Costa, que tinha o vice do PSB (Milton Coelho, hoje chefe de gabinete de Paulo Câmara). Humberto Costa foi eleito na chapa de Eduardo Campos e dois anos depois estavam rompidos. Quem diria que isso iria acontecer em 2012, aquela confusão toda?", relatou ainda.</p></p>
+<p><p>Em 2012, sem uma decisão do <a href="https://blogs.ne10.uol.com.br/jamildo/2018/10/05/troca-troca-eleitoral-que-politicos-ja-brigaram-ou-foram-aliados/">PT sobre lançar João da Costa à reeleição, o PSB rompeu com os petistas e lançou Geraldo Julio à PCR</a>. O Partido dos Trabalhadores se dividiu e chegou a fazer prévias, lançando Humberto Costa como candidato a prefeito e João Paulo a vice, derrotados ainda no primeiro turno. No ano seguinte, para viabilizar a candidatura de Eduardo Campos à presidência, os socialistas deixaram o governo Dilma Rousseff (PT) e, em 2014, apoiaram nacionalmente Aécio Neves (PSDB) no segundo turno. No Estado, o PT ficou com Armando Monteiro (PTB) na eleição.</p></p>
+<p><p>Marília Arraes continuou: "Em 2016, o PSB massacrava o PT, a campanha de Geraldo Julio contra João Paulo (<a href="https://blogs.ne10.uol.com.br/jamildo/2018/04/06/joao-paulo-deixa-o-pt-e-assina-filiacao-ao-pcdob/">hoje no PCdoB, por causa de atritos com aliados de Marília Arraes em 2018</a>) foi uma coisa violenta. Falavam do PT, de Dilma, de Lula, falavam como se o PT tivesse inventado a corrupção. Dois anos depois, estão aí agarrados com o PT porque Pernambuco é um dos estados mais lulistas do Brasil".</p></p>
+<p><p>"Então, eu acho que a gente precisa esperar".</p></p>
+<p><p>Para 2020, <a href="https://blogs.ne10.uol.com.br/jamildo/2019/04/11/oposicao-vai-para-cima-de-joao-campos-e-ironiza-canetada-dourada/">um dos nomes cotados no PSB é do primo dela João Campos</a>.</p></p>
+{% endraw %}

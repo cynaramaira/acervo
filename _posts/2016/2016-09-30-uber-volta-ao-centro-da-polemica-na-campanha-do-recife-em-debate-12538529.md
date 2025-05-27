@@ -1,0 +1,35 @@
+---
+id: 12538529
+date: "2016-09-30T01:32:14Z"
+last_modified_at: null
+tags:
+  - "campanha"
+  - "debate"
+  - "recife"
+  - "uber"
+categories:
+  - "noticias"
+title: "Uber volta ao centro da pol\u00eamica na campanha do Recife em debate"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/09/collage-2.jpg"
+---
+{% raw %}
+<p>Cinco meses após chegar ao Recife, o Uber está no centro da discussão eleitoral e cada um dos candidatos já deu a sua opinião sobre a regulamentação do serviço prestado pelo aplicativo. O tema foi a polêmica do debate realizado pela TV Globo com quatro dos oito nomes que disputam a prefeitura e ajudou a separar ainda mais Geraldo Julio (PSB), que tenta a reeleição, de Daniel Coelho (PSDB), um dos seus principais adversários.</p>
+<p><iframe style="width: 315px; float: left; margin: 0 20px 20px 0; border: 0; height: 600px;" src="https://produtos.ne10.uol.com.br/enquete/enquete/voce-e-a-favor-da-regulamentacao-do-uber,index.html" width="300" height="150"></iframe><strong>LEIA TAMBÉM</strong></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/30/prefeito-e-ex-prefeito-viram-alvo-dos-adversarios-em-debate-no-recife/">Prefeito e ex-prefeito viram alvo dos adversários em debate no Recife</a></p>
+<p>No segundo bloco, que tinha tema livre, o atual prefeito perguntou ao tucano como pretende regulamentar o Uber, uma das suas propostas. Enquanto o <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/05/no-recife-apos-polemica-geraldo-recua-sobre-o-uber-e-ataca-adversarios/">socialista vem alegando que não cabe ao gestor municipal esse processo, e sim ao Congresso Nacional</a> por se tratar de uma lei federal, o <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/22/qual-e-sua-opiniao-sobre-o-uber-veja-se-o-seu-candidato-no-recife-concorda-com-voce/">tucano, que hoje é deputado federal, afirma que isso pode ser feito no âmbito da prefeitura</a>.</p>
+<p>Daniel Coelho citou o exemplo de São Paulo para afirmar que estabeleceria normas para os motoristas de serviços como o Uber. O tucano ainda ressaltou que a lei municipal é a apontada pela decisão judicial que suspendeu uma liminar que proibia a fiscalização e e a apreensão dos carros que circulam pelo aplicativo, divulgada nessa quinta-feira (29). "É baseada numa lei assinada por Geraldo Julio que criou dificuldades para a circulação do Uber", reclamou. "Eu estou dizendo a verdade para as pessoas, eu não quero ganhar o voto fácil dos taxistas, não", ironizou ainda o tucano.</p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/22/qual-e-sua-opiniao-sobre-o-uber-veja-se-o-seu-candidato-no-recife-concorda-com-voce/">Qual é a sua opinião sobre o Uber? Veja se o seu candidato no Recife concorda com você</a></p>
+<p>Foi na réplica que começou a polêmica. O prefeito leu o <a href="https://www.camara.gov.br/proposicoesWeb/prop_mostrarintegra;jsessionid=B763F63CF809767AAADCA902018A41A5.proposicoesWeb1?codteor=1462848&amp;filename=PL+5446/2016" target="_blank">projeto de lei da Câmara Federal de número 5446/2016</a>, proposto por Daniel Coelho como deputado. Geraldo Julio afirmou que na proposta Daniel Coelho considera as penas para o transporte irregular leves, pedindo o aumento delas. "Agora durante a eleição quer ser defensor de Uber", afirmou o adversário. "Tenho impressão que ele ficou preocupado com a contradição do deputado com o candidato", ironizou também em outro momento do debate.</p>
+<p>Daniel Coelho afirmou  na tréplica que o projeto de lei diz respeito ao transporte escolar, o que considera uma "alternativa para a mobilidade da cidade" e criticou a proibição da circulação desses veículos nos corredores exclusivos para ônibus. O tucano ainda reafirmou que, se eleito, pretende regulamentar o Uber.</p>
+<p>Mas, afinal, o que diz o tal projeto de lei? A proposta quer alterar três artigos do <a href="https://www.planalto.gov.br/ccivil_03/leis/L9503.htm" target="_blank">Código de Trânsito Brasileiro</a>. Hoje o inciso oito do artigo 29 diz que "os veículos prestadores de serviços de utilidade pública, quando em atendimento na via, gozam de livre parada e estacionamento no local da prestação de serviço, desde que devidamente sinalizados, devendo estar identificados na forma estabelecida pelo Contran". No projeto de lei de Daniel Coelho, ele acrescenta os veículos de transporte escolar.</p>
+<p>O segundo artigo citado é o 230, que estabelece regras para os veículos. Atualmente quem transporta passageiros em compartimento de carga, por exemplo, comete uma infração grave. A proposta do tucano quer torná-la gravíssima, com o pagamento de cinco vezes a multa, o que equivale a R$ 957,70, além de outras penalidades: a suspensão do direito de dirigir e a apreensão do veículo.</p>
+<p>O artigo 231 foi o real motivo da reclamação, por falar no seu inciso oito que é infração média transitar "efetuando transporte remunerado de pessoas ou bens, quando não for licenciado para esse fim". O PL de Daniel Coelho aumenta a infração para gravíssima, com todas as punições previstas também para quem infringir o artigo 230. Essa é, porém, a realidade do Uber atualmente no Recife, sem regulamentação.</p>
+<p><em>» Leia a íntegra do projeto de lei:</em></p>
+<p><iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/zEB1TrHiWYQbef" width="100%" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p>
+<p><div style="margin-bottom: 5px;"><strong> <a title="Veja o que diz o PL 5446/2016" href="//www.slideshare.net/JCOnLine/veja-o-que-diz-o-pl-54462016" target="_blank">Veja o que diz o PL 5446/2016</a> </strong> from <strong><a href="//www.slideshare.net/JCOnLine" target="_blank">Portal NE10</a></strong></div></p>
+<p><h1 style="margin-bottom: 5px;">Protesto do Uber</h1></p>
+<p><a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/29/motoristas-do-uber-voltam-protestar-batendo-na-porta-de-geraldo-julio/">Motoristas do Uber estiveram duas vezes essa semana nas proximidades do prédio onde Geraldo Julio mora</a>, no bairro da Torre, na Zona Oeste do Recife, para protestar pela regulamentação do aplicativo e contra a fiscalização que tem sido feita pela Companhia de Trânsito e Transporte Urbano (CTTU). Horas após a segunda manifestação, nesta quinta-feira (29), o <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/29/uber-desembargador-suspende-liminar-que-proibia-apreensao-de-veiculos-no-recife/">Tribunal de Justiça de Pernambuco (TJPE) divulgou que estavam suspensas as liminares concedidas a sete motoristas proibindo a apreensão dos carros deles pela gestão municipal</a>. Agora também contra a decisão judicial, eles <a href="https://noticias.ne10.uol.com.br/jc-transito//noticia/2016/09/29/apos-queda-de-liminar-motoristas-de-uber-prometem-protesto-no-sabado-640261.php" target="_blank">prometem um novo protesto para o sábado (1º)</a>.</p>
+{% endraw %}

@@ -1,0 +1,31 @@
+---
+id: 12546332
+date: "2017-02-19T18:06:17Z"
+last_modified_at: null
+tags:
+  - "sao"
+categories:
+  - "noticias"
+title: "Dirigentes de associa\u00e7\u00f5es de PMs s\u00e3o afastados pela SDS"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/12/Alberisson.jpg"
+---
+{% raw %}
+<p><p><a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/07/governo-paulo-camara-abre-43-primeiros-processos-disciplinares-contra-quebra-de-hierarquia-na-pm-do-estado/">Alvos de processos disciplinares por causa das mobilizações dos últimos meses</a>, três dirigentes de associações de policiais militares foram afastados das suas funções pela Secretaria de Defesa Social de Pernambuco (SDS). A portaria assinada pelo secretário Ângelo Gioia foi publicada no boletim geral da pasta nesse sábado (18) e é referente a uma decisão da sexta-feira (17), dia em que foi anunciada a troca de comando na corporação e na Polícia Civil do Estado.</p></p>
+<p><p>Os alvos foram o presidente da Associação de Cabos e Soldados, Albérisson Carlos da Silva, e o vice-presidente da entidade, Nadelson Leite Costa, além de Vlademir Leite Costa, presidente da Associação dos Militares Estaduais (AME).</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/18/governo-diz-que-garante-seguranca-ao-cidadao-durante-o-carnaval-2017/">Governo diz que garante segurança ao cidadão durante o Carnaval 2017</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/17/apos-troca-de-comandos-secretario-defende-respostas-duras-a-movimentos-de-pms/">Após troca de comandos, secretário defende respostas “duras” a movimentos de PMs</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/17/com-gioia-no-controle-sds-queria-um-perfil-mais-operativo-na-comando-da-pm/">Com Gioia no controle, SDS queria um perfil mais operativo na comando da PM</a></p></p>
+<p><p>Gioia afastou os três PMs por 120 dias, podendo prorrogar a punição por mais quatro meses se os processos disciplinares contra eles não tiverem sido concluídos nesse prazo. Na portaria, o secretário afirma que o afastamento é necessário "à garantia da ordem pública" e à condução das investigações contra eles. O três deverão devolver a identificação funcional e as armas e munições.</p></p>
+<p><p><img class="size-full wp-image-175270 alignnone" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/02/afastamento-policiais.jpg" alt="afastamento-policiais" width="688" height="610" /></p></p>
+<p><p>Em coletiva de imprensa após a troca dos comandos, Gioia havia defendido que o governo Paulo Câmara (PSB) dê "respostas duras" a movimentos de PMs. "Forças policiais não podem fazer greve. Ninguém tenha dúvida de que o Estado estará duro com quem apostar no caos. Não reconheço essas pessoas como representantes de nada nem de ninguém. Jamais pautariam ações do Governo do Estado", disse o secretário. </p></p>
+<p><p><iframe src='https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2FBlogdeJamildo%2Fvideos%2F1358956480829445%2F&show_text=false&width=560&t=0' width='560' height='315' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe></p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/16/paulo-camara-aumenta-valor-da-jornada-extra-paga-aos-pms-as-vesperas-do-carnaval/">Paulo Câmara aumenta valor da jornada extra paga aos PMs e Policiais Civis, às vésperas do Carnaval</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/16/paulo-camara-sanciona-aumento-dos-policiais-militares-na-presenca-dos-comandos-da-pm-e-do-bm-sem-associacoes-e-politicos/">Paulo Câmara sanciona aumento dos Policiais Militares, na presença dos comandos da PM e do BM, sem associações e políticos</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/15/procuradoria-de-pernambuco-pede-ao-stf-inconstitucionalidade-de-lei-que-anistia-pms/">Procuradoria de Pernambuco pede ao STF inconstitucionalidade de lei que anistia PMs</a></p></p>
+<p><p>O <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/03/comandante-da-pm-diz-que-reajuste-nao-foi-ideal-mas-o-melhor-possivel/">coronel Carlos D'Albuquerque deixou o comando da PM</a> após um mês de negociações com os secretários da gestão estadual para chegar ao <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/16/paulo-camara-sanciona-aumento-dos-policiais-militares-na-presenca-dos-comandos-da-pm-e-do-bm-sem-associacoes-e-politicos/">plano de reajustes sancionado na última quinta-feira (16) por Paulo Câmara</a>. Os aumentos são de 25% a 40% até 2018. Reivindicando salários equiparados aos dos policiais civis, os militares protestaram em frente à Assembleia Legislativa de Pernambuco (Alepe) <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/14/nao-vai-ter-galo-gritam-pms-fora-da-assembleia-mesmo-com-reajuste-aprovado/">após a aprovação da lei gritando "Não vai ter Galo!"</a>, em referência ao Carnaval. Na reunião com o secretariado desse sábado (19), o <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/18/governo-diz-que-garante-seguranca-ao-cidadao-durante-o-carnaval-2017/">governo garantiu que haverá policiamento durante os dias de festa</a>.</p></p>
+<p><p>Os <a href="https://blogs.ne10.uol.com.br/jamildo/2016/12/29/operacao-padrao-da-pm-vai-continuar-ate-o-governo-decidir-dialogar-diz-presidente-da-acs-pe/">PMs estão em 'operação padrão' desde o início de dezembro, sem cumprir o programa de jornadas extras e, portanto, reduzindo o efetivo nas ruas</a>. O Estado chegou a pedir o apoio das Forças Armadas no fim do ano passado. Albérisson Carlos e Nadelson Leite, dois dos três policiais afastados, chegaram a ser presos durante uma assembleia dos policiais no dia 9 de dezembro, mas foram soltos dois dias depois.</p></p>
+{% endraw %}

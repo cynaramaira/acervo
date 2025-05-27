@@ -1,0 +1,33 @@
+---
+id: 15657042
+date: "2024-01-10T20:08:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "saude-da-familia"
+categories:
+  - "sem-categoria"
+title: "A falta de Terapeutas Ocupacionais e o impacto na qualidade de vida das pessoas: Um Problema Nacional"
+sutia: "Voc\u00ea sabe a falta que faz um terapeuta ocupacional nas cidades?"
+chapeu: "artigo"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/webp/2024/01/10/20200807_00_terapia_ocupacional-26045677.webp"
+---
+{% raw %}
+<p>A baixa demografia dos profissionais de T.O. e o impacto na qualidade de vida das pessoas.</p>
+<p>IN&Aacute;CIO FEITOSA, Conselheiro do CEE-PE (Conselho Estadual de Educa&ccedil;&atilde;o)<br />e HUGO RAFAEL DE SOUZA, Professor da UPE (Universidade de Pernambuco)</p>
+<p>A demografia de terapeutas ocupacionais (T.O.) no Brasil revela um abismo: A baixa propor&ccedil;&atilde;o desses profissionais para cada 1.000 habitantes, concentrados nas capitais e grandes centros urbanos. Esse fato imp&otilde;e aos usu&aacute;rios do Sistema P&uacute;blico de Sa&uacute;de (SUS) barreiras na acessibilidade aos benef&iacute;cios advindos do exerc&iacute;cio profissional da terapia ocupacional.</p>
+<p>De acordo com dados do Conselho Federal de Fisioterapia e Terapia Ocupacional (COFFITO), o Brasil conta com cerca de 17.500 mil terapeutas ocupacionais, o que representa uma m&eacute;dia de 6,6 profissionais para cada 100 mil habitantes, muito abaixo do recomendado pela Organiza&ccedil;&atilde;o Mundial da Sa&uacute;de (OMS).</p>
+<p>&Eacute; crucial fortalecer a profiss&atilde;o de terapeuta ocupacional, a fim de garantir o acesso a esse tipo de atendimento em todos os munic&iacute;pios brasileiros. Ainda segundo o COFFITO, atualmente h&aacute; um d&eacute;ficit de cerca de 24 mil terapeutas ocupacionais no pa&iacute;s, o que evidencia a urg&ecirc;ncia de investimento e forma&ccedil;&atilde;o nessa &aacute;rea.</p>
+<p>A baixa demografia dos profissionais de T.O. impacta negativamente a qualidade de vida das pessoas com alguma doen&ccedil;a ou condi&ccedil;&atilde;o especifica de sa&uacute;de que necessitem de uma abordagem ocupacional para melhorar as habilidades prejudicadas e assim novamente ganhar confian&ccedil;a e se reestabelecer no mundo do trabalho e na vida cotidiana.</p>
+<p>Um exemplo pr&aacute;tico &eacute; a diminui&ccedil;&atilde;o na idade as quais ocorrem os Acidentes Vasculares Cerebrais que em muitas vezes cursam com sequelas e afastamento do paciente do trabalho, elevando os custos de vida e de sa&uacute;de, menor chance de ser recolado no emprego, diminui&ccedil;&atilde;o do poder aquisitivo, aumento dos transtornos mentais e diminui&ccedil;&atilde;o global da qualidade de vida.</p>
+<p>Esta pode ser mensurada pela qualidade de vida perdida ajustada pela incapacidade (QALY&rsquo;s). Nesse cen&aacute;rio a atua&ccedil;&atilde;o do T.O. tem por objetivo melhorar os indicadores de qualidade de vida, pois outro indicador que s&atilde;o os Anos de Vida Perdidos Ajustados pela Incapacidade (DALY&rsquo;s) s&atilde;o convergentes pois a medida que se perde qualidade de vida por falta de um recurso de sa&uacute;de tamb&eacute;m se perdem a os potenciais de vida.</p>
+<p>Ou seja, nesse caso a falta de profissionais da T.O. nos servi&ccedil;os de Sa&uacute;de P&uacute;blica e privada implicam na diminui&ccedil;&atilde;o da expectativa de vida dos cidad&atilde;os que precisam.</p>
+<p>Segundo a terapeuta ocupacional Caroline Negr&atilde;o, "a atua&ccedil;&atilde;o do terapeuta ocupacional &eacute; fundamental para a promo&ccedil;&atilde;o da autonomia e independ&ecirc;ncia das pessoas, possibilitando que elas realizem as atividades do dia a dia de forma mais satisfat&oacute;ria".</p>
+<p>Resta uma pergunta: como a falta de Terapeutas Ocupacionais impacta negativamente a qualidade de vida? A T.O. &eacute; uma das &aacute;reas profissionais da sa&uacute;de que dialoga com a atividade humana para a cria&ccedil;&atilde;o de projetos terap&ecirc;uticos que objetivam o restabelecimento das capacidades psico-emocionais do individuo melhorando a funcionalidade, promovendo mudan&ccedil;as de atitudes e realidades e o retorno do paciente as atividades cotidianas, dom&eacute;sticas, familiares e laborais.</p>
+<p>A baixa disponibilidade de T.O. nos servi&ccedil;os de sa&uacute;de restringem o princ&iacute;pio da integralidade da assist&ecirc;ncia, empurrando aqueles que necessitam para o prolongamento do seu sofrimento e atrasos no retorno &agrave;s atividades cotidianas, isso implica diretamente na qualidade de vida dos usu&aacute;rios, pois sabe-se que o pleno retorno ao ecossistema social contribui para a recupera&ccedil;&atilde;o integral da sa&uacute;de.</p>
+<p>Al&eacute;m disso, a professora e terapeuta ocupacional Maria Emilia Veras destaca que "a falta de profissionais nessa &aacute;rea compromete a qualidade do atendimento e o acesso da popula&ccedil;&atilde;o aos servi&ccedil;os de sa&uacute;de".</p>
+<p>Resolver essa falta de terapeutas ocupacionais no Brasil requer um exame mais aprofundado que demandaria outros artigos. Mas dois deles podemos trazer ao debate. Por anos houve um desinvestimento nas universidades p&uacute;blicas e privadas para fortalecer o curso e preparar os profissionais para as mudan&ccedil;as que o mundo passava, as academias devem incluir habilidades nos seus perfis de egresso que sejam capazes de agir criativamente, de forma empreendedora e se adaptando a velocidade com as quais o mundo, a sa&uacute;de e a sociedade se transformam.</p>
+<p>Outro ponto &eacute; que o Sistema &Uacute;nico de Sa&uacute;de (SUS) na Pol&iacute;tica de Aten&ccedil;&atilde;o Prim&aacute;ria &agrave; Sa&uacute;de deve incluir o T.O. como membro da equipe m&iacute;nima de uma unidade b&aacute;sica de sa&uacute;de (UBS), expandido para al&eacute;m de a&ccedil;&otilde;es de T.O. nos Centros de Aten&ccedil;&atilde;o Psicossocial, a atua&ccedil;&atilde;o do deste profissional n&atilde;o se restringe mais a a&ccedil;&otilde;es com pacientes psiqui&aacute;tricos ou em ambiente hospitalar, a atua&ccedil;&atilde;o da dele &eacute; ampla, com potenciais de a&ccedil;&atilde;o para preven&ccedil;&atilde;o, promo&ccedil;&atilde;o e reabilita&ccedil;&atilde;o na sa&uacute;de coletiva e individual em todos os n&iacute;veis de aten&ccedil;&atilde;o.</p>
+<p>Portanto, &eacute; necess&aacute;rio que as autoridades governamentais e as institui&ccedil;&otilde;es de ensino invistam na forma&ccedil;&atilde;o e contrata&ccedil;&atilde;o de terapeutas ocupacionais, a fim de garantir que todas as pessoas que necessitam desse tipo de atendimento possam receb&ecirc;-lo, promovendo assim uma sociedade mais inclusiva e equitativa.</p>
+{% endraw %}

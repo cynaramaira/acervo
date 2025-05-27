@@ -1,0 +1,49 @@
+---
+id: 12543209
+date: "2016-12-21T14:28:42Z"
+last_modified_at: null
+tags:
+  - "metro"
+  - "palmeiras"
+  - "recife"
+  - "seguranca"
+categories:
+  - "noticias"
+title: "Coronel Meira sobre seguran\u00e7a no Metr\u00f4 do Recife: \"Se desrespeitarem vai ser borracha\""
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/12/MEIRA.jpg"
+---
+{% raw %}
+<p><p>Conhecido por ser um oficial 'linha dura', o coronel aposentado da Polícia Militar Luiz Meira assume, a partir de janeiro de 2017, a segurança do Metrô do Recife (Metrorec) com uma prioridade: "colocar ordem no sistema de trens urbanos da Região Metropolitana".</p></p>
+<p><p>Para o ex-comandante do Batalhão de Choque, a situação atual do metrô é <a href="https://blogs.ne10.uol.com.br/jamildo/2016/12/21/metro-do-recife-nomeia-coronel-meira-para-cuidar-da-seguranca-e-combater-comercio-informal/">"seríssima e mostra um total desgoverno". Meira pediu exoneração do cargo de secretário</a> da Casa Civil de Camaragibe, no Grande Recife, nesta quarta-feira (21), após ser nomeado para o cargo de Assistente Executivo I, na Superintendência de Trens Urbanos do Recife (CBTU).</p></p>
+<p><p><strong>LEIA MAIS:</strong></p></p>
+<p><p>&gt;&gt;<a href="https://noticias.ne10.uol.com.br/grande-recife/noticia/2015/08/31/inseguranca-no-metro-do-recife-aumentou-este-ano-relembre-casos-565601.php"> Insegurança no Metrô do Recife aumentou este ano; relembre casos</a></p></p>
+<p><p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/12/21/metro-do-recife-nomeia-coronel-meira-para-cuidar-da-seguranca-e-combater-comercio-informal/">Metrô do Recife nomeia coronel Meira para cuidar da segurança e combater comércio informal</a></p></p>
+<p><p>Em entrevista concedida ao <a href="https://blogs.ne10.uol.com.br/jamildo/">Blog de Jamildo</a> nesta manhã, Luiz Meira disse que já havia recebido a proposta quatro meses atrás, mas decidiu pedir um prazo para poder elaborar um estudo sobre as necessidades do metrô. "Tenho três auxiliares que prepararam o estudo e vão trabalhar comigo. Detectamos vários problemas e o principal é a insegurança, temos que resolver esta situação", disse.</p></p>
+<p><h2>VIOLÊNCIA</h2></p>
+<p><img class="size-full wp-image-172152" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2016/12/Metrô-violência.jpg" alt="Foto: Renata Monteiro/JC " width="750" height="410" /> Foto: Renata Monteiro/JC</p>
+<p><p>Neste ano, vários casos de insegurança foram registrados no metrô do Recife. No último dia 1º de dezembro, uma mulher morreu dentro de um vagão do metrô durante um assalto, nas proximidades da estação Imbiribeira, localizada na Zona Sul da cidade. Edilene Maria da Silva, de 39 anos, chegou a ser atendida na Policlínica de Afogados, mas não resistiu aos ferimentos.</p></p>
+<p><p>&gt;&gt; <a href="https://noticias.ne10.uol.com.br/jc-transito/noticia/2015/08/31/inseguranca-no-metro-foi-o-alvo-maior-dos-usuarios-do-jc-transito-565352.php" target="_blank">Insegurança no metrô foi o alvo maior dos usuários do JC Trânsito</a><br /></p>
+<p> &gt;&gt; <a href="https://noticias.ne10.uol.com.br/jc-transito/noticia/2015/08/31/suspeitos-de-arrastao-no-metro-sao-mortos-na-estacao-largo-da-paz-565535.php" target="_blank">Suspeitos de arrastão no metrô são mortos na Estação Largo da Paz</a></p></p>
+<p><p>No dia 29 de agosto, Bionor José da  Silva, 51 anos, vigilante que atuava na estação Ipiranga, foi baleado pela manhã quando três suspeitos anunciaram um assalto. No dia seguinte, um protesto foi realizado contra a insegurança nos trens. Já no mês de julho, a cabeleireira Maria das Dores da Cunha Alcino, 36 anos, ficou ferida após um tiroteio na Estação Recife, após uma confusão ente um passageiro e um ambulante.</p></p>
+<p><p>&gt;&gt; <a href="https://m.blogs.ne10.uol.com.br/jamildo/2008/01/25/gravata-do-coronel-meira-em-estudante-provocoumais-barulho-do-que-a-que-matou-o-garoto-denis/">Gravata do coronel Meira em estudante provocou mais barulho do que a que matou o garoto Dênis</a></p></p>
+<p><p>Para combater a violência, Meira explicou que é de extrema necessidade a volta dos policiais ferroviários federais ao comando da segurança das estações e trens. "Conversei com eles e vi que os policiais são ótimos oficiais, mas eles estão desmotivados, sem fardamento e não podem utilizar armas de fogo no serviço, o que na minha opinião, foi uma decisão errônea", disse.</p></p>
+<p><p>Os policiais ferroviários federais lutam pelo direito de usarem armas de fogo em serviço e fardamento há anos. Em fevereiro de 2013, 23 policiais ferroviários federais foram detidos em flagrante por porte ilegal de armas pela Polícia Federal. Em resposta, a categoria resolveu cruzar os braços.</p></p>
+<p><p>&gt;&gt; <a href="https://noticias.ne10.uol.com.br/jc-transito/noticia/2015/08/27/novo-assalto-e-registrado-no-metro-do-recife-nessa-quarta-564790.php" target="_blank">Novo assalto é registrado no Metrô do Recife</a></p></p>
+<p><p>Em junho deste ano, a 9ª Vara da Justiça Federal em Pernambuco julgou procedentes os pedidos feitos pelo Ministério Público Federal (MPF), em ação civil pública, contra a Companhia Brasileira de Trens Urbanos (CBTU), em relação aos policiais ferroviários federais. Com a decisão, os PFFs estão mais perto de terem o direito de portarem armas de fogo em serviço, usarem fardamento completo e o brasão da corporação. "Já conversei com o ministro das Cidades, Bruno Araújo, e espero que ele nos ajude a acelerar esta questão", disse Meira.</p></p>
+<p><img class="size-full wp-image-172148" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2016/12/Luiz-Meira-2.jpg" alt="Foto: Renato Spencer/ Acervo JC Imagem" width="750" height="410" /> Foto: Renato Spencer/ Acervo JC Imagem</p>
+<p><p>Outro ponto importante do estudo feito pelo coronel é a implantação de um grupo de 'segurança orgânica', formado por policiais militares e civis que estejam na reserva, além de reservistas do Exército, para trabalhar no metrô do Recife. "Na atual situação financeira seria impossível contratar mais policiais ferroviários. Com a segurança orgânica conseguiremos convocar os policiais de forma mais rápida e prática", explicou.</p></p>
+<p><p>O novo responsável pela segurança do metrô criticou duramente a atuação dos vigilantes das estações, que são da empresa BBC. Segundo Meira, o trabalho deles é um "verdadeiro faz de conta". "Alguns dos guardas tem medo dos ambulantes e fazem acordo com eles, que agem livremente dentro das estações e trens", disse. "Precisamos treinar melhor os vigilantes e mudar funcionários que não estão trabalhando de forma correta", completou.</p></p>
+<p><h2>AMBULANTES</h2></p>
+<p><img class="size-full wp-image-172147" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2016/12/Metrô-Ambulantes.jpg" alt="Foto: Diego Nigro / JC Imagem" width="750" height="410" /> Foto: Diego Nigro / JC Imagem</p>
+<p><p>Sobre a polêmica envolvendo o comércio informal dentro dos trens, o coronel Meira disse que a intenção não é radicalizar, inclusive, afirmou que está elaborando uma forma de regularizar a atuação dos ambulantes nas estações. "Estamos conversando com o Sebrae e com a Policonsult para acharmos a melhor forma de comportar os ambulantes. Vamos ver um local onde possam trabalhar e providenciar um fardamento" ressaltou.</p></p>
+<p><p>Ainda assim, o ex-comandante do Choque fez questão de ressaltar sua postura dura em relação às regras. "Nosso intuito não é ir para o enfrentamento, mas é claro que vão existir regras. Os ambulantes, por exemplo, não poderão vender dentro dos trens e não precisamos lembrar a ninguém como é nossa forma de trabalho, se alguém desrespeitar as normas vai ser borracha", destacou.</p></p>
+<p><p>&gt;&gt; <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0ahUKEwjPn8H45oXRAhVCfZAKHTspBb4QFggaMAA&amp;url=http%3A%2F%2Fjconline.ne10.uol.com.br%2Fcanal%2Fcidades%2Fgeral%2Fnoticia%2F2016%2F07%2F12%2Fambulantes-protestam-contra-proibicao-de-venda-de-produtos-no-metro-do-recife--243992.php&amp;usg=AFQjCNGqOBc03BNCyOD5Bm2GK-D1ugcRAg&amp;bvm=bv.142059868,d.Y2I" data-href="https://jconline.ne10.uol.com.br/canal/cidades/geral/noticia/2016/07/12/ambulantes-protestam-contra-proibicao-de-venda-de-produtos-no-metro-do-recife--243992.php">Ambulantes protestam contra proibição de venda de produtos no metrô</a></p></p>
+<p><p>&gt;&gt; <a href="https://tvjornal.ne10.uol.com.br/noticia/ultimas/2016/05/27/ambulante-e-preso-suspeito-de-aliciar-menores-e-vender-droga-no-metro-24409.php">Ambulante é preso suspeito de aliciar menor e vender droga no metrô</a></p></p>
+<p><p>Meira ainda chegou a afirmar que em seus estudos descobriu que alguns vendedores ambulantes guardam "armamento para bandidos nas estações". "É um total descontrole, existem vigilantes cheios de esquemas e vendedores que agem junto com os bandidos . Precisamos parar tudo e acabar com esse desmando", disse.</p></p>
+<p><p>Para dar segurança ao metrô do Recife, Meira disse esperar apoio da Secretaria de Defesa Social do Estado (SDS-PE). "Temos um compromisso irrestrito com a segurança e precisamos do apoio da SDS. Vamos manter contato com os batalhões próximos a todas as estações para ajudar no policiamento e teremos contatos com delegados também".</p></p>
+<p><p>O coronel disse ainda que o ministro das Cidades está dando total apoio aos seus planos e deve liberar uma licitação para que Meira coloque o "metrô nos trilhos". "Com o apoio do ministro vamos colocar câmeras nas estações, nos trens, em tudo", concluiu Luiz Meira.</p></p>
+<p><p><img class="alignnone size-full wp-image-172135" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2016/12/Meira-no-Metrô.jpg" alt="meira-no-metro" width="1233" height="941" /></p></p>
+{% endraw %}

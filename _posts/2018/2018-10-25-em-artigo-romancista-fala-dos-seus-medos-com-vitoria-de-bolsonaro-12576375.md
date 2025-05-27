@@ -1,0 +1,33 @@
+---
+id: 12576375
+date: "2018-10-25T11:44:42Z"
+last_modified_at: null
+tags:
+  - "anavitoria"
+  - "artigo"
+  - "bolsonaro"
+categories:
+  - "noticias"
+title: "Em artigo, romancista fala dos seus medos com vit\u00f3ria de Bolsonaro"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/09/FACADA.jpg"
+---
+{% raw %}
+<p><p>28/10/2018: o dia que não vai terminar</p></p>
+<p><p>Por Roberto Numeriano, em artigo enviado ao blog</p></p>
+<p><p>Qualquer que seja o resultado da eleição presidencial em 28 de outubro, uma coisa é certa: este dia não vai terminar à meia-noite, uma vez contados os votos e definido o “vencedor”. Sim, coloquemos o verbo entre aspas, pois já é fato que ninguém sairá vitorioso de um pleito intoxicado pelo ódio político-ideológico e pelo discurso do medo, disseminados descaradamente pelo candidato fascista, o psicopático Jair Bolsonazi, a partir de suas muitas falas nas mídias e no submundo das dezenas de milhões de fakenews turbinadas por dinheiro de caixa 2.</p></p>
+<p><p>Ameaças de golpe ao STF (o qual chamo de “pequeno supremo” por motivos óbvios, desde a sua tibieza exemplar), ameaças de morte aos opositores, prisão e exílio aos militantes petistas e de entidades sociais e populares, intimidação velada ou aberta de quem pensa (no mínimo) diferente, “enquadramento” da imprensa pluralista que restou, arrogância e prepotência de generais fascistas, coronéis boçais hidrófobos destilando ódio... Sem falar nos casos de assassinatos diretamente relacionados com o ódio político e às orientações sexuais, perpetrados por seguidores do líder da extrema-direita.</p></p>
+<p><p>Este é o resultado objetivo, ideológico, psicológico e político do golpe de Estado de 2016, que segue em marcha batida para, provavelmente, desaguar num governo teratológico híbrido, sustentado por uma aliança espúria civil-militar, acaso o fascista vença o pleito. Será ou seria uma monstruosa Hidra, sem dúvida, pois já é possível ver ministros do STF, jornalistas e políticos feitos pedra instantaneamente, mal olham para a sua cabeça.</p></p>
+<p><p>Mas por que cogitamos que o 28 de outubro não terá fim (pelo menos até o dia em que a democracia seja efetiva, mesmo nos seus limites mais formais)? A resposta está na própria disfuncionalidade dos três pilares da República, os poderes Executivo, Legislativo e Judiciário, todos envolvidos numa brutal e infame ação articulada para vigiar, prender e punir conforme interesses político-ideológicos espúrios.</p></p>
+<p><p>Não será preciso muito tempo para o estudioso isento desta quadra sombria sentir uma extrema vergonha do Judiciário brasileiro, das casas legislativas e do Executivo mancomunados num imperdoável crime político contra a nação e os brasileiros, a título hipócrita de “combate à corrupção”.</p></p>
+<p><p>E é em função disso que a vitória de Haddad ou do tresloucado Bolsonazi deverá implicar em caminhos bem diferentes, opostos mesmo, para a ação política por dentro do Estado e no ambiente social. Tais caminhos não devem convergir, necessariamente, para uma pacificação social e político-ideológica, até que os próprios órgãos e agentes estatais se submetam ao primado das leis e hajam com isenção e ética no exercício de suas funções (a começar pelos Moros da vida e outros juízes ativistas e arbitrários). Em outras palavras, até que o ativismo institucional que cevou e sustenta o golpe de Estado seja desmontado internamente aos três poderes e seus órgãos.</p></p>
+<p><p>Cogitamos tal hipótese pelo fato de que haverá dois diferentes efeitos imediatos quanto a quem vencer no dia 28. Dado que o projeto de poder petista nunca foi transformar o país numa ditadura (ninguém pode negar ao partido sua defesa inconteste do regime democrático ao longo de quatro mandatos), nem tem entre seus quadros lideranças candidatas a tiranos ou autocratas, o caminho de Haddad será, necessariamente, negociar um pacto político democrático e institucional com as diversas forças políticas, poderes republicanos, órgãos estatais e entidades da sociedade civil, cujo objetivo seja pacificar o país.</p></p>
+<p><p>Esta delicada engenharia política vai levar muitos meses, talvez consumindo todo o primeiro ano de mandato, mas se impõe naturalmente porque não será possível governar, legislar e julgar com racionalidade republicana se não for bloqueada e neutralizada a sanha persecutória e golpista que, entre os três poderes, jogou o país no abismo social, econômico e político para instaurar a agenda neoliberal derrotada em 2014.</p></p>
+<p><p>O candidato Fernando Haddad, pelo perfil politicamente moderado e experiência exitosa de gestor público, é o único capaz de mediar os consensos necessários para o país superar a grave crise. Até porque sua vitória, desde já, não será exclusiva e essencialmente uma vitória do PT, mas da democracia e do desejo de construir uma nação sem ódios e assombrada pelo medo.</p></p>
+<p><p>Já o efeito de uma desgraçada vitória do projeto de tiranete Bolsonazi será a opção pelo caos. Não apenas por ele ser um tipo tosco e despreparado intelectualmente, mas pela promessa pública de que seu objetivo é perseguir, prender e enviar pro exílio quem se opuser às suas propostas tão insanas quanto o próprio. Não haverá diálogo possível em face do contraditório, nem respeito às instituições que eventualmente não se acovardarem (quem sabe o pequeno supremo lembre-se do seu papel constitucional...)</p></p>
+<p><p>Seja o que for, o fato é que o dia 28 poderá se estender por muito tempo porque, se derrotados, os bolsonaristas mais radicais vão tentar convulsionar o país, apelando por um golpe militar (as urnas terão sido “fraudadas”, bradarão esses hidrófobos). Se vitoriosa, essa extrema-direita vai partir pra cima das pessoas e instituições, tentando radicalizar por dentro do Executivo o golpe e sua agenda neoliberal.</p></p>
+<p><p>Por ser de natureza política entrópica, o fascismo precisa do caos para sobreviver como força da “ordem” e do “controle”. A contradição fascista está em que essa dinâmica político-ideológica esquizofrênica é automutilante: em dado tempo social, torna-se autofágico porque só poderá sobreviver devorando a si e às suas crias. O fascismo vive do horror e morre sempre na miséria de suas ideias.</p></p>
+<p><p>Roberto Numeriano é jornalista, romancista, pós-doutor em Ciência Política e produtor cultural. Foi candidato a deputado pelo Avante</p></p>
+{% endraw %}

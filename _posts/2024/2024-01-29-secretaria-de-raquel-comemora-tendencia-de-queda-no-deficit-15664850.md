@@ -1,0 +1,35 @@
+---
+id: 15664850
+date: "2024-01-29T16:20:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "habitacao"
+categories:
+  - "sem-categoria"
+title: "Secret\u00e1ria de Raquel comemora tend\u00eancia de queda no d\u00e9ficit habitacional; 'nova era em Pernambuco'"
+sutia: "'Com o Programa Morar Bem, Pernambuco colocou o tema da moradia digna em cima da mesa e reverter\u00e1 a curva de tend\u00eancia de d\u00e9ficit, gra\u00e7as a iniciativas inovadoras e parcerias estrat\u00e9gicas', promete Simone Nunes"
+chapeu: "habita\u00e7\u00e3o"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/03/22/dg6a0090-22576684.jpg"
+---
+{% raw %}
+<p>Por Simone Nunes, em artigo enviado ao<strong> blog de Jamildo</strong></p>
+<p>Agora que completamos um pouco mais de um ano &agrave; frente do projeto de habita&ccedil;&atilde;o do Estado, podemos realizar as primeiras proje&ccedil;&otilde;es em rela&ccedil;&atilde;o ao d&eacute;ficit habitacional, que aflige ao menos 326 mil fam&iacute;lias em Pernambuco, 70% delas na Regi&atilde;o Metropolitana do Recife. Podemos passar a enxergar uma tend&ecirc;ncia de queda neste n&uacute;mero para os pr&oacute;ximos anos, um fen&ocirc;meno contr&aacute;rio do que acontecia at&eacute; ent&atilde;o.</p>
+<p>A falta de moradia digna &eacute; um problema social grande e n&atilde;o podemos falar em cidadania quando uma pessoa n&atilde;o tem lugar para morar. A governadora Raquel Lyra tomou a decis&atilde;o de dar relev&acirc;ncia a este tema, h&aacute; muito relegado, e j&aacute; est&aacute; colhendo resultados.</p>
+<p>Neste primeiro ciclo de mudan&ccedil;as, no entanto, verificamos que muita gente confunde o Programa Morar Bem com uma de suas modalidades, o Entrada Garantida.</p>
+<p>&Eacute; natural essa confus&atilde;o. Primeiro porque o Entrada Garantida &eacute; o principal or&ccedil;amento do Estado para o setor, com R$ 200 milh&otilde;es dos mais de R$ 300 milh&otilde;es previstos para 2024. Al&eacute;m disso, &eacute; a categoria mais midi&aacute;tica do Morar Bem. Afinal, subsidiar em at&eacute; R$ 20 mil a compra da casa pr&oacute;pria foi uma a&ccedil;&atilde;o inovadora para um estado da regi&atilde;o Nordeste. Pernambuco foi o primeiro do Norte e Nordeste a implementar essa esp&eacute;cie de complemento &agrave; t&atilde;o dif&iacute;cil entrada da casa pr&oacute;pria, em especial para fam&iacute;lias com renda de at&eacute; dois sal&aacute;rios m&iacute;nimos.</p>
+<p>Chegamos a ser cobrados pelos representantes dos movimentos sociais, ao dizer que o Morar Bem ajudava &agrave;s fam&iacute;lias de baixa renda que podem pagar um financiamento habitacional, mas esquecia daquelas que n&atilde;o podem. Estamos sempre lembrando, muito pelo contr&aacute;rio.</p>
+<p>A Entrada Garantida &eacute; apenas um elemento abaixo do guarda-chuva do Morar Bem PE, primeiro e maior programa de habita&ccedil;&atilde;o de interesse social de Pernambuco. Mais que um projeto de governo, &eacute; um programa de Estado que tem previs&atilde;o or&ccedil;ament&aacute;ria de R$ 1 bilh&atilde;o no Plano Plurianual (PPA) at&eacute; 2027.</p>
+<p>O d&eacute;ficit habitacional &eacute; um problema complexo e muito grande. Sabemos que s&atilde;o necess&aacute;rias v&aacute;rias frentes de atua&ccedil;&atilde;o para enfrent&aacute;-lo com criatividade e, pasmem, nem sempre com verbas volumosas.</p>
+<p>Estamos aproveitando terrenos de propriedade do Estado, que hoje n&atilde;o t&ecirc;m uso, e revertendo para habita&ccedil;&atilde;o de interesse social. S&atilde;o &aacute;reas de excel&ecirc;ncia habitacional, pr&oacute;ximas a escolas, hospitais e com&eacute;rcio, a exemplo de uma &aacute;rea gigante por tr&aacute;s do Parque de Exposi&ccedil;&otilde;es do Cordeiro que vai se tornar um residencial com mais de 750 casas e apartamentos.</p>
+<p>Este terreno foi uma das mais de duas dezenas de &aacute;reas que doamos para o FAR e o FDS, fundos financiadores de duas modalidades do programa Minha Casa Minha Vida. A nossa iniciativa permitiu que o governo federal reservasse mais verbas para Pernambuco. Apenas no MCMV, a nossa doa&ccedil;&atilde;o de terrenos permitiu que mais de 10 mil novas unidades habitacionais fossem selecionadas, contra as pouco mais de 6.800 previstas inicialmente. No MCMV FDS doamos terrenos para movimentos sociais constru&iacute;rem mais de 3 mil im&oacute;veis com verbas federais e estamos aguardando o resultado do chamamento.</p>
+<p>Como vemos, a parceria com o governo federal para potencializar a abrang&ecirc;ncia do MCMV em Pernambuco &eacute; uma das pernas importantes do nosso Morar Bem. Mas n&atilde;o &eacute; apenas com o governo do presidente Lula que mantemos di&aacute;logos ben&eacute;ficos para a popula&ccedil;&atilde;o pernambucana.</p>
+<p>Estamos trabalhando para regularizar mais de 40 mil im&oacute;veis de pessoas que moram em casas sem escrituras. S&atilde;o fam&iacute;lias que podem ser beneficiadas com as propriedades de seus lares, locais de origem de v&aacute;rias gera&ccedil;&otilde;es, inicialmente ocupados pelos av&oacute;s de pessoas que hoje ainda est&atilde;o no mesmo endere&ccedil;o.</p>
+<p>A a&ccedil;&atilde;o de regulariza&ccedil;&atilde;o fundi&aacute;ria envolve parceria com o Tribunal de Justi&ccedil;a de Pernambuco e Cart&oacute;rios, que facilitaram e baratearam os custos para o Estado.</p>
+<p>Investimos tamb&eacute;m na retomada de obras inacabadas. S&atilde;o milhares de habita&ccedil;&otilde;es populares que ficaram pelo caminho, muitas vezes por motivos simples. Sentamos &agrave; mesa com os &oacute;rg&atilde;os respons&aacute;veis pelas obras, buscamos e garantimos recursos para a infraestrutura desses habitacionais. Em 2023 entregamos em tempo recorde mais de 700 unidades desta forma. Este ano vamos ter milhares de outras retomadas em munic&iacute;pios do sert&atilde;o, agreste e outras regi&otilde;es.</p>
+<p>Sabemos que isso n&atilde;o &eacute; o bastante, nossa inquieta&ccedil;&atilde;o &eacute; enorme. Vamos lan&ccedil;ar novas modalidades ainda este ano. Esperamos que sejam copiadas, assim como aconteceu com todas as nossas iniciativas lan&ccedil;adas durante o ano de 2023 (refer&ecirc;ncia ao prefeito Jo&atilde;o Campos, que colocou mais R$ 62 milh&otilde;es em programa de moradias).</p>
+<p>Mas n&atilde;o temos ci&uacute;mes. Na verdade, temos orgulho, porque isso nos mostra que estamos no caminho certo, inspirando mais governos a fazer o mesmo e liderando um movimento para reduzir a falta de casas na nossa sociedade.</p>
+<p>PS do Blog: Simone Nunes &eacute; secret&aacute;ria de Desenvolvimento Urbano e Habita&ccedil;&atilde;o do Estado de Pernambuco. Servidora concursada da Caixa Econ&ocirc;mica Federal, &eacute; mestre em Gest&atilde;o Estrat&eacute;gica de Pessoas, especializada em gest&atilde;o financeira e de RH.</p>
+<p>&nbsp;</p>
+{% endraw %}

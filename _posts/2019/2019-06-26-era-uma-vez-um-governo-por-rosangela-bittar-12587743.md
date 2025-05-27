@@ -1,0 +1,34 @@
+---
+id: 12587743
+date: "2019-06-26T16:00:08Z"
+last_modified_at: null
+tags:
+  - "governo"
+  - "marcio-bittar"
+categories:
+  - "noticias"
+title: "Era uma vez um governo. Por Ros\u00e2ngela Bittar"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/06/bolsonaro-caf\u00e9-com-jornalistas-3.jpg"
+---
+{% raw %}
+<p><p>Por Rosângela Bittar, no jornal Valor Econômico</p></p>
+<p><p>O presidente Jair Bolsonaro passou de uma campanha eleitoral, que foi teoricamente encerrada em novembro de 2018, a outra, que teoricamente deveria começar em 2022. É a campanha permanente, sem pontes ou escalas, sem uma paradinha para exercer o governo, por pequena que seja. Um matemático poderia dizer, depois de alguns cálculos, que houve, de interregno, dois meses, neste ano, nos quais Bolsonaro governou: nomeou ministros, tomou posse das gavetas e da caneta, encenou algumas reuniões ministeriais e ouviu preleções de Paulo Guedes, o ministro da Economia. Mas em seguida desfez muito do que havia supostamente feito, desnomeando ministros, assinando decretos espetaculares logo em seguida revogados por contrariarem a Constituição, deixando os conflitos e crises tomarem conta do seu espaço. Uma balbúrdia, desta vez autêntica e visível.</p></p>
+<p><p>Bolsonaro, nesse período, entrou em conflito com os demais Poderes, desafiou-os, mas enfrentou também, por nada, gente do governo, o seu. Fez o que depois poderia desfazer. É recorde o que já trocou de primeiro e segundo escalão. Decretos e medidas provisórias de que teve que recuar, um bom número. O presidente, à moda Lula, recorre com frequência ao "não sabia", só que, no seu caso, o desconhecimento alegado é das leis, da Constituição e dos princípios que deveriam determinar seus atos como presidente.</p></p>
+<p><p>Ele não parece ler o que sanciona ou veta. O Palácio trabalha com o fígado e o governo vai sendo tocado pela equipe econômica, cuja produção não se conhece pois só poderá ser revelada após a aprovação da reforma da Previdência. O setor da da infraestrutura também trabalha, mas os investidores não dão as caras. No mais é um blá-blá-blá ideológico sem fim de ministros, aliados, gurus, filhos e quem mais esteja na linha de frente da campanha eleitoral da reeleição.</p></p>
+<p><p>Emendar uma campanha à outra, pode Arnaldo?</p></p>
+<p><p>Que ninguém pense que o eleitorado de Jair Bolsonaro está insatisfeito com sua performance. Ao contrário. Não foi escolhido por ser um expert em políticas públicas, ou na preservação das instituições democráticas.</p></p>
+<p><p>Ele cultiva com maestria aquele segmento de eleitores que estiveram ao lado dele no primeiro turno, 34,4% do eleitorado brasileiro são seus seguidores do peito. Se perdeu um ou outro pelo caminho, deve ter ganhado outros. Na verdade, quando atua, o faz para cultivar esse grupo do primeiro turno.</p></p>
+<p><p>O percentual de votação de primeiro turno (o segundo não vale nesta análise porque tem o voto dos sem opção) é uma montanha de votos. Ele cultiva isso de forma sistemática, incansável, ampla, mesmo que crie casos e entre em conflitos com todos. Suas questões são ideológicas. É sobre isso que sabe falar e o que agrada aos seus. Os eleitores se mantem fieis aos sentimentos que ele expressou a e continua a expressar agora, na campanha contínua.</p></p>
+<p><p>Quando Bolsonaro faz algumas declarações esquisitas, não fica absolutamente diminuído perante seus eleitores. Ao contrário, reforça os laços, a identificação é automática.</p></p>
+<p><p>"Ao contrário do que muitos têm comentado, a imagem do presidente está preservada ou até mais forte hoje do que estava no momento da sua eleição", assinala o cientista político e sociólogo Antonio Lavareda, um especialista em campanhas e análise de pesquisas, antecipadas ou não. Na última pesquisa XP/ Ipespe, diz Lavareda, presidente do Instituto, Bolsonaro tem 34% de Ótimo/Bom - mesmo percentual do eleitorado total que obteve no primeiro turno. E 46% têm a expectativa de que irá fazer um governo ótimo ou bom no restante do mandato. Mais que os 39,2% que votaram nele no segundo turno".</p></p>
+<p><p>Para Lavareda, Bolsonaro não é produto do marketing ou uma equipe de propaganda, só. Esses ajudam, com sugestões, como Duda Mendonça e João Santana ajudaram Lula com dicas. Mas só a sua participação não seria suficiente se o candidato não fosse talhado para fazer o que tem feito Bolsonaro e o que fazia Lula. "É assim mundo afora, em todos os lugares. Bill Clinton fazia ele próprio as perguntas a serem incluídas nas pesquisas, conduzindo sua campanha no detalhe".</p></p>
+<p><p>O comentário do presidente sobre a Fórmula 1, está semana, foi a coisa mais emblemática disso. Falando sobre a transferência da Fórmula 1 para o Rio, alfinetou João Doria, dizendo que se for candidato a presidente não precisa se preocupar com a saída do circuito de São Paulo, mas se for candidato à reeleição sim. Nomeou seu adversário, um deles, e tentou criar-lhe algum constrangimento. A tamanha distância, ninguém, a não ser Bolsonaro, pode declararse candidato com retorno positivo.</p></p>
+<p><p>"O que acho melhor de tudo isso, sinceramente, é que ele faz tudo com a maior clareza possível. Se há alguma coisa da qual não pode ser acusado, se isso for tomado como defeito, é de mineirice. Esse é o menos mineiro de nossos presidentes", afirma Lavareda.</p></p>
+<p><p>Apesar do comentário sobre Doria, o PT e Lula continuam sendo o alvo preferencial da campanha ideológica de Bolsonaro. Já colocou também na roda de adversários Rodrigo Maia, presidente da Câmara. Enquanto não surgem novos atores o presidente ruma para outras regiões onde ainda não é rei, como o Nordeste, periferias de grandes cidades, pequenas cidades do interior.</p></p>
+<p><p>Sua presença frequente em programas de TV de grande audiência nessas áreas é com este objetivo. A exibição em viagens internacionais vazias, a presença em estádios de futebol, as bravatas e a defesa insistente no porte de armas estão nesse arsenal de questões aleatórias, porém impregnadas de barulho eleitoral.</p></p>
+<p><p>Bolsonaro está mobilizando em sua campanha séquitos de seguranças e infraestrutura da Presidência, como fez no rali do último fim de semana, mas quem se importa com legalidade a esta altura? Dizem que o presidente, paraquedista que é, vai até pular de paraquedas brevemente, sem reciclagem.</p></p>
+<p><p>Há um mistério a impedir a completa transparência desse Bolsonaro munido da gana da reeleição. O que fará com Sergio Moro, o ministro da Justiça pop, à frente dele em pesquisas sobre intenção de voto. A história que ambos contam sobre nomeação para o Supremo Tribunal Federal é claramente diversionista.</p></p>
+{% endraw %}

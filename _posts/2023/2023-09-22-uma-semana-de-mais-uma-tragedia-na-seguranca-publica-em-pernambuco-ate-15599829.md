@@ -1,0 +1,28 @@
+---
+id: 15599829
+date: "2023-09-22T10:28:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "opiniao"
+  - "sinpol"
+categories:
+  - "sem-categoria"
+title: "Uma semana de mais uma trag\u00e9dia na Seguran\u00e7a P\u00fablica em Pernambuco. At\u00e9 quando?"
+sutia: "Presidente do Sinpol aproveita trag\u00e9dia em Camaragibe para comentar problemas internos das institui\u00e7\u00f5es de seguran\u00e7a"
+chapeu: "Seguran\u00e7a p\u00fablica"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/09/15/imagem_do_whatsapp_de_2023_09_15_a_s__09_41_59-24303919.jpg"
+---
+{% raw %}
+<p>Por <strong>Rafael Cavalcanti, em artigo enviado ao blog de Jamildo</strong> -<a href="https://jc.ne10.uol.com.br/colunas/jamildo/2023/09/15594245-tres-policiais-mortos-em-pernambuco-sinpol-repudia-a-violencia.html" target="_blank" rel="noopener noreferrer"> Uma semana da trag&eacute;dia que vitimou dois Policiais Militares e outras 6 pessoas e a urgente (e tardia) discuss&atilde;o sobre a Seguran&ccedil;a P&uacute;blica </a>que o caso suscita (ou deveria suscitar) j&aacute; come&ccedil;a a arrefecer sem termos um aprofundamento dos problemas estruturais hist&oacute;ricos e grav&iacute;ssimos que se encrustam em nossas institui&ccedil;&otilde;es policiais e que des&aacute;guam numa rela&ccedil;&atilde;o conflituosamente contradit&oacute;ria entre pol&iacute;cia e povo.</p>
+<p>Para al&eacute;m da viol&ecirc;ncia enraizada em nossa sociedade desde a col&ocirc;nia (sim, nunca fomos um povo pac&iacute;fico), juntamente com a sempre reinante impunidade e flexibiliza&ccedil;&atilde;o no cumprimento das normas, h&aacute; a aus&ecirc;ncia estatal nas &aacute;reas &ldquo;profil&aacute;ticas&rdquo; para prevenirmos a criminalidade desenfreada (sa&uacute;de, emprego, distribui&ccedil;&atilde;o de renda, educa&ccedil;&atilde;o, moradia, etc), e essa aus&ecirc;ncia tamb&eacute;m recai numa desestrutura&ccedil;&atilde;o hist&oacute;rica e desumana nas institui&ccedil;&otilde;es respons&aacute;veis por fiscalizar e prender os &ldquo;infratores&rdquo;.</p>
+<p>A ess&ecirc;ncia de toda institui&ccedil;&atilde;o, p&uacute;blica ou privada, &eacute; o material humano que as comp&otilde;em. No caso das pol&iacute;cias, estamos falando de profissionais que desde o Imp&eacute;rio foram tratados quase com tanta perversidade quanto &agrave;s camadas menos abastadas da sociedade, e pelo pr&oacute;prio Estado.</p>
+<p>Mal remunerados, escalados para realizar o servi&ccedil;o mais ingrato e indigesto que &eacute; lidar com o crime, subjugados por uma hierarquia que muitas vezes se traveste de servid&atilde;o para os debaixo da pir&acirc;mide das corpora&ccedil;&otilde;es, lidando com a parte mais tenebrosa das pessoas que &eacute; o aflorar da maldade humana, sendo (mal) treinados para uma &ldquo;guerra&rdquo;(?) muitas vezes contra os seus pr&oacute;prios vizinhos, trabalhando em locais insalubres que muitas vezes sequer se tem &aacute;gua para beber, com efetivos equivalentes a metade do m&iacute;nimo necess&aacute;rio para dar conta do servi&ccedil;o, com forma&ccedil;&atilde;o anti-cidad&atilde; primitiva e belicista, com estruturas improvisadas literalmente caindo na cabe&ccedil;a dos servidores...</p>
+<p>&eacute; fato: ningu&eacute;m gosta de pol&iacute;cia, principalmente os Governos. E por trat&aacute;-la t&atilde;o mal &eacute; que fica dif&iacute;cil exigir bons servi&ccedil;os.</p>
+<p>Que fique claro que aqui n&atilde;o h&aacute; qualquer intuito de passar pano ou fazer vista grossa para os excessos e erros cometidos por uma parcela, que &eacute; m&iacute;nima, das institui&ccedil;&otilde;es. Estes devem pagar com todo rigor. Mas h&aacute; clich&ecirc;s que precisam ser repetidos pois s&atilde;o a mais rasa verdade: <strong>&Eacute; loucura querer resultados diferentes fazendo tudo de errado na cria&ccedil;&atilde;o, estrutura&ccedil;&atilde;o e prepara&ccedil;&atilde;o de suas Pol&iacute;cias.</strong></p>
+<p>Sei que n&atilde;o &eacute; f&aacute;cil tratar com o &ldquo;bra&ccedil;o armado&rdquo; do Estado. Mas, para avan&ccedil;armos, precisamos entender que esse bra&ccedil;o &eacute; feito de gente. A grande maioria &eacute; sobrevivente das adversidades sociais (ou de parte delas) criadas pelo pr&oacute;prio Estado com sua intencional aus&ecirc;ncia e neglig&ecirc;ncia.</p>
+<p>A grande maioria lidando com opress&otilde;es de todas as ordens dentro de sua pr&oacute;pria instru&ccedil;&atilde;o. Todos treinados, por a&ccedil;&atilde;o ou omiss&atilde;o, para fazer exatamente o que estamos fazendo, do jeito que estamos fazendo. Ent&atilde;o, j&aacute; passou da hora da sociedade vir, junto com os policiais, construir a pol&iacute;cia mais pr&oacute;xima que for poss&iacute;vel do melhor cuidado com o povo. Assim come&ccedil;aremos a obter resultados diferentes. Mais humanos. Para todos.</p>
+<p>&Eacute; obrigat&oacute;ria e indiscut&iacute;vel a elucida&ccedil;&atilde;o de todas as mortes, e que as responsabilidades sejam devidamente distribu&iacute;das. &Eacute; o m&iacute;nimo exig&iacute;vel. E que comecemos, desde j&aacute;, a discutirmos com toda franqueza, &ldquo;desarmados&rdquo;, sobre as raz&otilde;es e as sa&iacute;das para invertermos essa crescente viol&ecirc;ncia, tratando Seguran&ccedil;a P&uacute;blica com a complexidade, profundidade e prioridade que a causa exige. Porque Seguran&ccedil;a P&uacute;blica &eacute; algo muito al&eacute;m de pol&iacute;cia. &Eacute; o cuidar das pessoas. TODAS! <br /></p>
+<p><strong>Rafael Cavalcanti</strong> &eacute; advogado, policial civil e presidente do Sinpol/PE<br /></p>
+{% endraw %}

@@ -1,0 +1,57 @@
+---
+id: 12547662
+date: "2017-03-19T14:31:33Z"
+last_modified_at: null
+tags:
+  - "dilma"
+  - "lula"
+  - "sao"
+  - "transposicao"
+categories:
+  - "noticias"
+title: "Lula e Dilma s\u00e3o recebidos pela milit\u00e2ncia petista na Transposi\u00e7\u00e3o"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/03/lula-2.jpg"
+---
+{% raw %}
+<p><p>Após uma carreata percorrendo cerca de 170 quilômetros entre Campina Grande e Monteiro, na Paraíba, os ex-presidentes Lula e Dilma Rousseff, ambos do PT, chegaram ao eixo leste da Transposição do Rio São Francisco por volta das 14h deste domingo (19). Lula tem cobrado a paternidade da obra iniciada em 2007, no seu segundo mandato. Esse trecho do projeto foi entregue por Michel Temer (PMDB) no último dia 10.</p></p>
+<p><p><iframe src='https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2Fhumbertocostapt%2Fvideos%2F762150670621141%2F&show_text=false&width=560&t=0' width='560' height='315' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe></p></p>
+<p><p>Antes da chegada de Lula e Dilma, dezenas de militantes petistas tomaram banho no trecho do Rio Paraíba que recebe a água do Rio São Francisco. O ex-presidente faria o mesmo, mas foi desaconselhado pela equipe e desistiu.</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/19/eles-pecam-a-deus-para-eu-nao-ser-candidato-diz-lula-na-paraiba/">“Eles peçam a Deus para eu não ser candidato”, diz Lula na Paraíba</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/19/em-monteiro-dilma-diz-que-temer-nao-pode-se-vangloriar-da-transposicao/">Em Monteiro, Dilma diz que Temer não pode se vangloriar da Transposição</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/19/em-ato-politico-lula-e-dilma-recebem-medalha-da-assembleia-legislativa-da-paraiba/">Em ato político, Lula e Dilma recebem medalha da Assembleia Legislativa da Paraíba</a></p></p>
+<p><img class="size-full wp-image-176600" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/03/transposicao.jpg" alt="Parte da militância chegou a entrar na água antes da chegada dos ex-presidentes (Foto: @humbertocostapt/Twitter)" width="750" height="410" /> Parte da militância chegou a entrar na água antes da chegada dos ex-presidentes (Foto: @humbertocostapt/Twitter)</p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/19/na-paraiba-petistas-reforcam-discurso-por-candidatura-de-lula-em-2018/">Na Paraíba, petistas reforçam discurso por candidatura de Lula em 2018</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/17/visita-de-lula-e-dilma-lota-hoteis-de-monteiro-na-paraiba/">Visita de Lula e Dilma lota hotéis de Monteiro, na Paraíba</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/18/marilia-arraes-diz-que-inauguracao-da-transposicao-por-temer-foi-farsa/">Marília Arraes diz que inauguração da Transposição por Temer foi uma farsa</a></p></p>
+<p><p>Alvo de protestos ao inaugurar a obra, no dia 10, <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/temer-ironiza-manifestantes-em-monteiro-e-diz-que-eles-vao-se-banhar-na-transposicao/">Temer ironizou os manifestantes e afirmou que eles se banhariam na água do 'Velho Chico'</a>.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/temer-inaugura-transposicao-mas-moradores-de-monteiro-agradecem-lula/">Temer inaugura Transposição, mas moradores de Monteiro agradecem a Lula</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/09/muita-gente-disse-que-era-impossivel-fazer-transposicao-diz-lula/">Quem estava no poder estudava, mas nada fazia, diz Lula sobre Transposição</a></p></p>
+<p><p>Do trecho da Transposição, Lula e Dilma foram ao Centro de Monteiro, onde foi montada uma estrutura para os políticos que acompanham os petistas discursarem. Eles foram em carro aberto. O líder da oposição no Senado, Humberto Costa (PT-PE), e a líder do PT na Casa, Gleisi Hoffmann (PR), são alguns dos políticos que estão na comitiva.</p></p>
+<p><blockquote class="twitter-tweet" data-lang="pt"></p>
+<p><p dir="ltr" lang="pt">Moradores do Cariri da Paraíba celebram a chegada do rio São Francisco em Monteiro (PB). A foto é de Francisco Proner Ramos <a href="https://t.co/J21nH6Rgc0">pic.twitter.com/J21nH6Rgc0</a></p></p>
+<p>— Gleisi Hoffmann (@gleisi) <a href="https://twitter.com/gleisi/status/843513171704975360">19 de março de 2017</a></blockquote></p>
+<p><p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p></p>
+<p><p>O <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/18/ciro-gomes-prefiro-bolsonaro-em-vez-de-doria/">ex-ministro da Integração Nacional Ciro Gomes, que deve disputar as eleições de 2018 pelo PDT</a>, também acompanha os ex-presidentes. Durante o ato, aliados exaltaram Lula e voltaram a defender que ele seja o candidato do PT à presidência no próximo ano.</p></p>
+<p><img class="size-full wp-image-176601" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/03/lulaedilma.jpg" alt="Ricardo Coutinho foi no ônibus com Lula (Foto: Divulgação)" width="750" height="410" /> Ricardo Coutinho foi no ônibus com Lula (Foto: Divulgação)</p>
+<p><p>O <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/15/transposicao-e-um-duro-golpe-no-coronelismo-politico-do-nordeste-diz-governador-da-paraiba/">ato foi organizado pelo governador da Paraíba, Ricardo Coutinho (PSB)</a>. O socialista ligado aos petistas, em discurso ao lado de Temer, durante a inauguração oficial, disse que, por dever de Justiça, deveria citar Dilma. Ele argumentou que ela era responsável por 70% dos pagamentos desta obra. “É preciso relembrar, não podemos deixar de citar Lula, que iniciou a obra, e o povo nordestino”, pontuou também.</p></p>
+<p><h1>Briga pela paternidade</h1></p>
+<p><p>Com três visitas em três meses à Transposição – a Cabrobó (PE), Floresta (PE) e Monteiro (PB) -, <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/nao-quero-paternidade-dessa-obra-ninguem-pode-te-la-diz-temer-sobre-transposicao/">Temer nega que queira a paternidade da obra – “Ninguém pode tê-la”, disse</a> -, mas tem se aproximado do projeto para melhorar a popularidade no Nordeste. Outro que tem adotado essa estratégia é o <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/21/geraldo-alckmin-visita-projeto-das-aguas-da-transposicao-em-floresta-e-custodia-nesta-quarta/">governador de São Paulo, Geraldo Alckmin (PSDB), que cedeu bombas para o empreendimento através da Sabesp (Companhia de Saneamento Básico do Estado de São Paulo) e foi a Sertânia</a>, no Sertão pernambucana, participar de vistoria.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/15/transposicao-e-um-duro-golpe-no-coronelismo-politico-do-nordeste-diz-governador-da-paraiba/">“Transposição é um duro golpe no coronelismo político do Nordeste”, diz governador da Paraíba</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/nao-quero-paternidade-dessa-obra-ninguem-pode-te-la-diz-temer-sobre-transposicao/">“Não quero a paternidade dessa obra. Ninguém pode tê-la”, diz Temer sobre Transposição</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/transposicao-chega-a-paraiba-mas-ainda-falta-muito-em-pernambuco/">Transposição chega à Paraíba, mas ainda falta muito em Pernambuco</a></p></p>
+<p><p>No <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/30/em-floresta-temer-aciona-terceira-estacao-de-bombeamento-da-transposicao/">eixo leste, a água do São Francisco é captada em Floresta, no Sertão pernambucano</a>, e vai até Sertânia, a primeira cidade beneficiada, onde a água abastece 35 mil pessoas. De lá, vai para o açude de Poções, em Monteiro, atendendo 33 mil moradores. Depois, a água seguirá pelo Rio Paraíba até o reservatório Boqueirão, para reforçar o abastecimento em Campina Grande e em cidades do entorno, onde a expectativa é de auxiliar 400 mil paraibanos. Quando estiver pronta nos dois eixos, a Transposição deverá atender 12 milhões de nordestinos.</p></p>
+<p><img class="size-full wp-image-176604" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/03/lula-carro-aberto.jpg" alt="Lula seguiu em carro aberto do Rio Paraíba até o Centro de Monteiro (Foto: Divulgação)" width="750" height="410" /> Lula seguiu em carro aberto do Rio Paraíba até o Centro de Monteiro (Foto: Divulgação)</p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/15/novela-da-transposicao-governo-temer-escolhe-finalmente-empresa-que-vai-concluir-eixo-norte/">Novela da transposição. Governo Temer escolhe finalmente empresa que vai concluir eixo norte</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/17/agua-da-transposicao-pode-encarecer-de-8-10-tarifas-das-empresas-de-abastecimento-dos-estados-beneficiados/">Água da transposição pode encarecer de 8% a 10% contas em Pernambuco</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/17/ministerio-vai-estudar-uso-de-energia-eolica-e-solar-na-transposicao/">Ministério vai estudar uso de energia eólica e solar na Transposição</a></p></p>
+<p><p>A obra começou em 2007, no segundo mandato de Lula, com expectativa de ser concluída três anos depois. Foram investidos até agora mais de R$ 8 bilhões. Segundo o Instituto Lula, R$ 9,6 bilhões eram o orçamento inicial e até abril de 2016, pouco antes de Dilma Rousseff ser afastada, haviam sido executados R$ 7,95 bilhões.</p></p>
+<p><img class="size-full wp-image-176609" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/03/lula-3.jpg" alt="Foto: Ricardo Stuckert/Instituto Lula" width="750" height="410" /> Foto: Ricardo Stuckert/Instituto Lula</p>
+<p><p>De acordo com o Ministério da Integração Nacional, 96,89% do eixo leste estão concluídos até agora. Em maio, quando Temer assumiu a presidência ainda interinamente, antes da consolidação do impeachment de Dilma Rousseff (PT), a obra estava com 84,4% de conclusão nesse trecho.</p></p>
+<p><h1>Já no eixo norte...</h1></p>
+<p><p>O mais problemático, porém, é o eixo norte, onde as obras estão paradas desde junho do ano passado em um dos trechos entre Cabrobó (PE) e Jati (PE). Lá, 94,52% estão concluídas. No entanto, não há previsão prática para retomar a construção – <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/30/parado-trecho-do-eixo-norte-da-transposicao-sai-este-ano-promete-temer/">embora o ministério espere assinar o contrato ainda este mês e Temer tenha prometido entregá-lo até o fim do ano</a>.</p></p>
+<p><p>Envolvida na Operação Lava Jato, a Mendes Júnior abandonou o canteiro alegando dificuldade de obter crédito e a licitação para escolher a nova empreiteira está em andamento. Duas foram desabilitadas e a terceira foi aceita cobrando R$ 518 milhões para concluir o serviço. <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/06/em-tom-de-despedida-dilma-diz-em-pernambuco-que-ficara-triste-se-nao-vir-fim-da-transposicao/">Cabrobó foi a última cidade em Pernambuco visitada por Dilma Rousseff antes de ser afastada</a>.</p></p>
+{% endraw %}

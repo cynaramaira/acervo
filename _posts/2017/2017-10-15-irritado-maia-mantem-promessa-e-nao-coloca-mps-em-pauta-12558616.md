@@ -1,0 +1,37 @@
+---
+id: 12558616
+date: "2017-10-15T12:37:48Z"
+last_modified_at: null
+tags:
+  - "naomi-campbell"
+categories:
+  - "noticias"
+title: "Irritado,\u00a0Maia mant\u00e9m promessa e n\u00e3o coloca\u00a0MPs em pauta"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/10/rodrigo-maia.jpg"
+---
+{% raw %}
+<p><p>Já com atritos na relação com Michel Temer (PMDB), o presidente da Câmara, Rodrigo Maia (DEM-RJ), se irritou nos últimos dias e <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/11/maia-anuncia-que-nao-votara-mais-mps-enviadas-pelo-governo/">mandou um recado para o governo de que não colocaria mais em votação Medidas Provisórias</a> enquanto as regras para essas pautas não mudassem. Dito e feito. Só estão na pauta da próxima semana projetos do Legislativo, incluindo a Proposta de Emenda à Constituição (PEC) que altera a tramitação de MPs. Apesar disso, a avaliação é de que, com a <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/10/relator-recomenda-rejeicao-da-segunda-denuncia-contra-temer/">segunda denúncia contra Temer prestes a ser votada</a>, os deputados não devem conseguir viabilizar as sessões no plenário.</p></p>
+<p><p>Maia reclama do número de Medidas Provisórias enviadas por Temer. Desde que assumiu, em maio de 2016, ainda no processo de impeachment contra Dilma Rousseff (PT), o presidente editou 79 matérias como essa, o que dá uma média de mais de quatro por mês. O deputado afirmou que Planalto tinha que ter "prioridades" e que deveria encaminhar à Casa as matérias como projetos de lei, e não medidas provisórias, que possuem uma tramitação especial e trancam a pauta do plenário.</p></p>
+<p><p>Sem votar as medidas que já estão no Congresso, Maia coloca em risco uma série de ações já anunciadas pela equipe econômica. <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/12/ameaca-de-maia-de-ignorar-medidas-provisorias-poe-em-risco-r-17-bi/">Somadas, elas teriam um efeito fiscal positivo de R$ 17,3 bilhões em 2018</a> e <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/12/pais-corre-risco-de-nao-ter-fies-em-2018-diz-relator/">poderiam atingir programas como o Fies</a>.</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/12/ameaca-de-maia-de-ignorar-medidas-provisorias-poe-em-risco-r-17-bi/">Ameaça de Maia de ignorar Medidas Provisórias põe em risco R$ 17 bi</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/11/maia-anuncia-que-nao-votara-mais-mps-enviadas-pelo-governo/">Maia anuncia que não votará mais MPs enviadas pelo governo</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/12/temer-tenta-negociar-tregua-com-maia-com-ajuda-de-imbassahy/">Temer tenta negociar trégua com Maia com ajuda de Imbassahy</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/12/pais-corre-risco-de-nao-ter-fies-em-2018-diz-relator/">País corre risco de não ter Fies em 2018, diz relator</a></p></p>
+<p><p>Mas o racha entre Maia e Temer começou antes. O <a href="https://blogs.ne10.uol.com.br/jamildo/2017/07/21/em-ofensiva-pelos-dissidentes-do-psb-maia-posa-ao-lado-de-paulo-camara/">democrata procurava desde maio os 13 dissidentes do PSB para que migrassem para o seu partido</a>, aumentando a bancada para quase 50 deputados, passando a ser a terceira maior – atrás de PMDB, que tem 62, e PT, com 58. Hoje, o partido conta com 29 parlamentares e é o sétimo, com número de cadeiras menor do que o PSB, que tem 36.</p></p>
+<p><p><a href="https://blogs.ne10.uol.com.br/jamildo/2017/07/19/conversa-com-maia-e-temer-rende-movimento-no-psb-por-saida-de-tereza-cristina/">Temer passou a também procurar esses parlamentares</a> e já conseguiu atrair o grupo do senador pernambucano <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/03/jarbas-consegue-nova-liminar-contra-juca-e-suspende-processo-no-pmdb/">Fernando Bezerra Coelho, que vai levar também o filho, o ministro de Minas e Energia, Fernando Filho, e outros parlamentares</a>. O <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/06/mendonca-filho-diz-que-vai-herdar-8-ou-9-parlamentares-do-psb-e-deixa-portas-abertas-para-fbc/">DEM agora tem a expectativa de atrair cerca de oito nomes</a> dos divergentes socialistas.</p></p>
+<p><h2>Enquanto isso na CCJ</h2></p>
+<p><p><iframe style="width: 315px; float: left; margin: 0 20px 20px 0; border: 0; height: 600px;" src="https://produtos.ne10.uol.com.br/enquete/enquete/se-voce-fosse-deputado-como-votaria-na-2-denuncia-contra-temer,index.html" width="300" height="150"></iframe></p></p>
+<p><p>A sessão da terça-feira (17) está marcada para as 9h, o mesmo dia da sessão da Comissão de Constituição e Justiça (CCJ) sobre a denúncia contra Temer. O colegiado só pode iniciar sua reunião quando o plenário não estiver na ordem do dia, ou seja, analisando propostas. </p></p>
+<p><p>"A discussão (da denúncia) pode acontecer e não vai atrapalhar o Plenário de forma nenhuma. A votação, pelo jeito, só será na quinta-feira (dia 19)", minimizou Maia à Agência Câmara.</p></p>
+<p><p>Parlamentares discordam. "Essas duas próximas semanas serão utilizadas para votar esse processo na CCJ e depois no Plenário, para concluir essa segunda denúncia contra Temer", disse Edmar Arruda (PSD-PR) também à agência. "Estamos num clima de focar as ações na denúncia, que é gravíssima contra, o presidente Temer e dois de seus ministros", concordou Henrique Fontana (PT-RS).</p></p>
+<p><p>O rito na CCJ é o mesmo usado na primeira denúncia: cada deputado dos 66 titulares e 66 suplentes tem 15 minutos e há ainda 10 minutos para não membros contra e a favor. Cada advogado terá 20 minutos para o pronunciamento final. <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/14/janot-apresenta-segunda-denuncia-contra-temer/">Além de Temer, foram denunciados por organização criminosa e obstrução de Justiça os ministros Eliseu Padilha (Casa Civil) e Moreira Franco</a> (Secretaria Geral da Presidência).</p></p>
+<p><h2>Inviabilizada ou não, há uma pauta</h2></p>
+<p><p>O primeiro item da pauta é o projeto que inclui mais de 80 municípios do estado de Minas Gerais na área de abrangência da Superintendência de Desenvolvimento do Nordeste (Sudene). Há ainda requerimentos de urgência para projetos como o que trata do registro dos circos e o que disciplina a atividade de "lobby", além da proposta do Senado para dar competência ao Tribunal do Júri para julgamento de militares nos crimes dolosos contra civis.</p></p>
+<p><p>Está ainda na lista de matérias que podem ser votadas a mudança que Maia quer aprovar na tramitação das MPs, um projeto do Senado que voltou à urgência depois que o presidente da Câmara afirmou que só analisaria as medidas do governo quando fossem feitas as alterações nas regras. Para ser aprovada, a PEC precisa de 308 votos.</p></p>
+<p><p>Veja o que muda no infográfico da Agência Câmara:</p></p>
+<p><p><img class="size-full wp-image-187555 alignnone" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/10/mps.jpg" alt="" width="500" height="601" /></p></p>
+{% endraw %}

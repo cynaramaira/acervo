@@ -1,0 +1,26 @@
+---
+id: 12612435
+date: "2021-05-31T13:30:32Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "noticias"
+title: "O paradoxo do mentiroso"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2021/05/pazuello-shopping-manaus.jpg"
+---
+{% raw %}
+<p><p>Por Gaudêncio Torquato, em artigo enviado ao blog</p></p>
+<p><p>Eubulides, aluno de Euclides, o matemático de Alexandria, no Egito, também conhecido como pai da Geometria, marca presença em nossa árida paisagem institucional. Ele criou o “paradoxo do mentiroso”, que tem sido lume de bandas adversárias na arena política, impulsionando seus ditos, benditos e malditos, mentiras e versões.</p></p>
+<p><p>Vamos lá: se alguém - parlamentar, governante, ministro, ex-ministro - disser “essa afirmação é falsa”, tende a criar grande confusão, porque um paradoxo se forma na cabeça dos ouvintes. Se a afirmação for falsa, então o dito do emissor é verdadeiro, pois foi exatamente o que ele disse. Mas se ele falou uma grande verdade, a afirmação será falsa, porque ele garantiu que era falsa. Donde se conclui que se é falsa, a afirmação do orador é verdadeira; e se é verdadeira, segue-se que a afirmação é falsa. Lógica simples.</p></p>
+<p><p>Os argumentos usados pelos integrantes da CPI da Covid 19 dão margem a que, uns e outros, ancorados em afirmações falsas e verdadeiras, mudem de posição a todo momento, trocando com grande desembaraço os papéis de bandidos e mocinhos. Como o palco da crise sanitária ganha, via trombeta midiática, novos capítulos recheados de mortes, contaminados e projeções de uma terceira onda, aqui e alhures, infere-se que a má gestão da pandemia fica no território dos agentes do mal, enquanto combatentes da oposição lutam na arena do bem. Por isso, é visível na CPI o favoritismo dos oradores contrários ao negacionismo que corrói a imagem do governo.</p></p>
+<p><p>A dúvida que persiste é sobre o que poderá ocorrer com os depoentes convocados a oferecer suas versões na CPI, a partir do afamado, mas não tão proclamado, general da ativa, Eduardo Pazuello, ex-ministro da Saúde. O que ocorrerá em seu terceiro depoimento? Se cair em mentira, será preso como promete o presidente da Comissão, senador Omar Aziz? E, ao final, que tipo de decisão será dada em relação ao presidente Jair Bolsonaro? Não se descarta a hipótese de que as escaramuças no ambiente investigatório poderão dar n’água, algo como a batalha de Itararé, aquela que não houve, ou uma “vitória de Pirro”, aquele evento em que o rei de Épiro, na batalha de Ásculo (279 a.C), mesmo vitorioso, perdeu o que restava de suas tropas.</p></p>
+<p><p>O fato é que cada protagonista da política quer aparecer como vitorioso. E corajoso. Luta para impor sua verdade, esforço que ganhará intensidade à medida em que se aproxima o ano eleitoral. Afinal, no Estado-Espetáculo, os atores sabem que a lei da visibilidade recomenda aparecer de qualquer maneira, sob a fosforescência dos meios de comunicação e, agora, das redes sociais.</p></p>
+<p><p>A lição que aprendem com rapidez é a do Breviário dos Políticos, do preceptor de Luís XIV, o cardeal Mazarino, onde se leem estes conselhos: “Simula, dissimula. Mostra-te amigo de todo mundo, conversa com todo mundo, inclusive com aqueles que odeias; eles te ensinarão a circunspeção... quando tiveres que escolher entre duas vias de ação, prefere a facilidade à grandeza com todos os aborrecimentos que ela comporta. Não confies em ninguém. Quando alguém fala bem de ti, podes estar certo de que ele te escarnece. O velhaco manifesta-se ora a favor ora contra o mesmo assunto, dependendo das circunstâncias. Os amigos não existem, há apenas pessoas que fingem amizade”.</p></p>
+<p><p>A base amoral da política se alarga em todos os quadrantes do planeta, mesmo que estejamos vivenciando um ciclo de maior transparência e elevação da cidadania. Ocorre que as malhas intestinas do Estado, por maior que sejam os controles – Ministério Público, Polícia Federal, Tribunal de Contas da União, Advocacia Geral da União, Tribunais de Contas de Estados e Municípios – continuam como berço predileto das gangues da corrupção, formadas sob o triângulo composto pela burocracia, a esfera política e os círculos de negócios. A corrupção diminuiu? É possível, mas as ferramentas tecnológicas, contábeis e administrativas também são usadas pelo “poder invisível”. A roubalheira pode ter diminuído, mas ainda é uma praga. Ganhou técnicas sofisticadas.</p></p>
+<p><p>Nem por isso podemos desistir de ver o país restaurado, recuperado, resgatado. Precisamos sempre ter em mente a grandeza da Nação, representada por seus valores: o sentimento de pátria, a fé e a crença do povo, o sentido de família, o culto às tradições e aos costumes, o respeito aos velhos, o amor às crianças, o cumprimento da lei, o culto à liberdade, a chama cívica que faz correr nas veias dos cidadãos o orgulho pela terra onde nasceram.</p></p>
+<p><p>Gaudêncio Torquato é jornalista</p></p>
+{% endraw %}

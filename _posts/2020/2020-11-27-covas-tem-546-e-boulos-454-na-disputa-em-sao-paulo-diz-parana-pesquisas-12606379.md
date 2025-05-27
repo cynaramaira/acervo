@@ -1,0 +1,33 @@
+---
+id: 12606379
+date: "2020-11-27T13:30:57Z"
+last_modified_at: null
+tags:
+  - "bruno-covas"
+  - "parana"
+  - "pesquisas"
+categories:
+  - "noticias"
+title: "Covas tem 54,6% e Boulos 45,4% na disputa em S\u00e3o Paulo, diz Paran\u00e1 Pesquisas"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/11/sp-1.jpg"
+---
+{% raw %}
+<p><p>No próximo domingo, 29/11, o paulistano voltará às urnas para escolher o novo prefeito da capital. Os adversários - Bruno Covas (PSDB) e Guilherme Boulos (PSOL) - foram os mais votados no primeiro turno. Covas continua favorito - já era nas projeções ainda no primeiro turno -, mas Boulos teve crescimento expressivo.</p></p>
+<p><p>Veja abaixo o mais recente estudo da Paraná Pesquisas sobre a disputa em São Paulo.</p></p>
+<p><p><iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/82dnMkQS00Vc7x" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p></p>
+<p><div style="margin-bottom: 5px;"><strong> <a title="Guerra em sampa" href="//www.slideshare.net/JamildoMelo/guerra-em-sampa" target="_blank" rel="noopener noreferrer">Guerra em sampa</a> </strong></div></p>
+<p><div></p>
+<p><p><br /></p>
+<p>Covas e Boulos: às vésperas do segundo turno<br /></p>
+<p>Por Rodrigo Augusto Prando, em artigo enviado ao blog</p></p>
+<p><p>As pesquisas de intenção de votos são, assim, apresentadas: 1) Ibope: 25/11 - Covas 48% e Boulos 37%, brancos/nulos 12% e não sabe/não respondeu 4%; 2) Datafolha: 24/11 - Covas 48% e Boulos 40%, brancos/nulos 9% e não sabe/não respondeu 3% e 3) XP/Ipesp: 24 e 25/11 - Covas 48% e Boulos 41%, brancos/nulos 8% e não sabe/não respondeu 3%. Na pesquisa Ibope, Covas variou positivamente do dia 18/11 para o dia 25/11 em 1% e Boulos positivamente em 2%; já no Datafolha, Covas manteve 48% em 17 e 18/11 e em 24/11 e Boulos variou positivamente em 5%, de 35% para 40%; por fim, na XP/Ipesp, Covas manteve 48% em 16 e 17/11 e em 24 e 25/11 e Boulos variou positivamente em 9%, passando de 32% para 41%, nas mesmas rodadas. Antes mesmo do encerramento da apuração no primeiro turno, Covas e Boulos concederam entrevistas já delineando em seus discursos o tom e a lógica da campanha no segundo turno. Enquanto este artigo era redigido, nova pesquisa Datafolha, divulgada em 26/11, traz Covas com 47% e Boulos com 40%, ou seja, Covas que se matinha estável com 48% oscilou negativamente em 1% e Boulos manteve-se estacionado com 40%.</p></p>
+<p><p>Covas, atual prefeito, assumiu a condição de candidato com experiência administrativa, especialmente, o gestor da cidade no período pandêmico. Seu tom discursivo no primeiro turno e reforçado agora, foi de moderação e, com isso, obviamente, quis se afastar das polarizações e tensões promovidas pelo bolsonarismo. No que tange ao adversário, Covas buscou ligar Boulos ao radicalismo, especialmente, nas ações de Boulos em protestos à frente do MTST. Contudo, mesmo com essa estratégia, o tucano foi cordial nos debates e fez questão de ligar para Boulos para se desculpar pela fala deselegante de um de seus aliados. Não faz muito, Covas fez outra ligação, mas, desta feita, ligou Boulos à Cuba e à Venezuela, claramente, reforçando a conexão do psolista a regimes de esquerda antidemocráticos.</p></p>
+<p><p>Boulos, por sua vez, destacou, de início, que havia vencido o bolsonarismo e, na sequência, ligou Covas ao governador Doria, chegando a destacar que o verdadeiro adversário era o governador e não Covas. Claro que, também, quer ligar o atual prefeito ao Presidente Bolsonaro. Com isso, quis e quer trazer à tona a lembrança do "bolsodoria" de 2018. Além disso, Boulos aposta na mudança, para ultrapassar a "mesmice" e para que a "esperança vença o ódio". O discurso de Boulos é ameno, diferente daquilo que o marcou nas manifestações do MTST, assim, também se distancia do bolsonarismo. A campanha de Boulos nas redes sociais é muito bem arquitetada e isso impactou, especialmente, os mais jovens. Além disso, Boulos é dono de uma boa oratória, capaz de usar humor e ironia em suas falas. Há analistas que indicaram que, antes, Boulos imitava até os trejeitos de Lula; contudo, Boulos é intelectualmente mais bem paramentado que Lula no início de sua vida política. Outro ponto de ataque de Boulos a Covas é o constante questionamento acerca de seu vice, Ricardo Nunes (MDB), e, ainda, comparar Nunes a Erundina, sua vice. Ao que tudo indica, Ricardo Nunes e Doria são, para Covas, duas pedras nos sapatos, uma em cada pé. Em relação aos apoios políticos, neste segundo turno, a esquerda - PT, PCdoB, PSTU - uniu-se em torno de Boulos, além dos apoios da Rede e do PDT e o PSB, por exemplo, externou apoio a Boulos, mas seu candidato, Marcio França, manteve a neutralidade. Já Covas recebeu apoio de Hasselmann e de Russomanno, além dos partidos Solidariedade e do PSD.</p></p>
+<p><p>A disputa será apertada e emocionante até o último momento. Covas, como disse, é favorito e creio que seja o vitorioso no domingo, dado os números das pesquisas e projeções. Todavia, há o problema dos eleitores mais idosos que declaram voto em Covas, mas podem não comparecer no domingo por conta da pandemia. Os eleitores de Boulos são mais jovens e engajados. E, não bastasse esse cenário acirrado, há o que acontece nas redes sociais e até mesmo no subterrâneo do WhatsApp cujo fluxo de informações, vídeos e de fake news é impossível de prever e que pode causar impactos de um lado ou do outro. Há um aspecto que merece atenção em relação à postura de Covas e Boulos, neste segundo turno, pois, embora o tom tenha se tornado mais quente às vésperas da votação, o debate foi no campo das ideias e propostas, com tempo igual para os dois. Ataques mais duros estão presentes, no entanto, os postulantes à prefeitura mantiveram um bom nível que foi, até, destacado por eleitores de outras capitais.</p></p>
+<p><p>Com isso ganhamos todos. Ganham os eleitores e ganha a democracia brasileira.</p></p>
+<p><p>Rodrigo Augusto Prando é professor e pesquisador da Universidade Presbiteriana Mackenzie, do Centro de Ciências Sociais e Aplicadas. Graduado em Ciências Sociais, Mestre e Doutor em Sociologia, pela Unesp de Araraquara.</p></p>
+<p></div></p>
+{% endraw %}

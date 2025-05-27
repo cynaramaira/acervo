@@ -1,0 +1,39 @@
+---
+id: 12520880
+date: "2016-07-04T13:44:08Z"
+last_modified_at: null
+tags:
+  - "escola"
+  - "propina"
+  - "samba"
+categories:
+  - "noticias"
+title: "PF diz que propina bancou escola de samba, blog e familiares de petista"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/04/policia-federal5.jpg"
+---
+{% raw %}
+<p><em>Estadão Conteúdo -</em> A Operação Abismo, 31ª fase da Lava Jato, deflagrada nesta segunda-feira, 4, aponta que o ex-vereador do PT em Americana Alexandre Romano, o Chambinho, intermediou propinas sobre obras do Centro de Pesquisa da Petrobras (Cenpes) para o ex-tesoureiro do PT Paulo Ferreira, que "teria recebido os valores na condição de agente do Partido dos Trabalhadores".</p>
+<p>O juiz federal Sérgio Moro, a pedido do Ministério Público Federal, determinou a prisão de Paulo Ferreira - que já está custodiado preventivamente no âmbito da Operação Custo Brasil.</p>
+<p>Segundo os investigadores, Alexandre Romano confessou que usou suas empresas, a Oliveira Romano Sociedade de Advogados, a Link Consultoria Empresarial e a Avant Investimentos e Participação Ltda., para receber mais de R$ 1 milhão das construtoras integrantes do Consórcio Novo Cenpes - que construiu o Centro de Pesquisas e Desenvolvimento Leopoldo Américo Miguez de Mello, no Rio.</p>
+<p>"Os valores foram recebidos por meio de contratos simulados e repassados a pessoas físicas e jurídicas relacionadas com Paulo Ferreira, inclusive em favor dele próprio, familiares, blog com matérias que lhe são favoráveis e escola de samba", apontam os investigadores que não informaram o nome da escola de samba.</p>
+<p>A 31.ª fase da Lava Jato, deflagrada nesta segunda-feira, 4, cumpre medidas cautelares pedidas pelo Ministério Público Federal "com a finalidade de obter provas adicionais de crimes de organização criminosa, cartel, fraudes licitatórias, corrupção e lavagem de dinheiro oriundo de contratos da Petrobras, em especial do contrato celebrado pelo Consórcio Novo Cenpes". Foram expedidos 22 mandados de busca e apreensão, um mandado de prisão preventiva, quatro mandados de prisão temporária e sete mandados de condução coercitiva.</p>
+<p>Os alvos desta fase são grandes empresas construtoras, incluindo alguns de seus executivos e sócios, e Paulo Ferreira.</p>
+<p>Segundo a Procuradoria da República, em 2007, a Petrobrás submeteu à licitação três grandes obras de construção civil: Sede Administrativa em Vitória/ES, Centro Integrado de Processamento de Dados (CIPD), no Rio, e o Centro de Pesquisas e Desenvolvimento Leopoldo Américo Miguez de Mello (Cenpes), também no Rio.</p>
+<p>As investigações em curso na Operação Lava Jato, corroboradas pelo acordo de leniência e acordos de colaboração celebrados com a empresa Carioca Engenharia e seus principais executivos, indicaram que as principais empreiteiras participantes daquelas licitações se ajustaram num grande cartel, fixando preços e preferências de modo a frustrar o procedimento competitivo da Petrobras e a maximizar os seus lucros.</p>
+<p>A Construtora OAS, Carioca Engenharia, Construbase Engenharia, Schahin Engenharia e Construcap CCPS Engenharia, integrantes do Consórcio Novo Cenpes, ficaram com a obra do Cenpes.</p>
+<p>No caso específico da licitação para a obra do Cenpes, os procuradores afirmam que houve um imprevisto, pois a empresa WTorre Engenharia e Construção S/A, que não havia participado dos ajustes, apresentou proposta de preço inferior. As empresas que formavam o Consórcio Novo Cenpes ajustaram, então, vantagem indevida de dezoito milhões de reais para que a WTorre saísse do certame, permitindo que o Consórcio renegociasse o preço com a Petrobrás.</p>
+<p>"Concretizado o acerto espúrio, o Consórcio Novo Cenpes celebrou, em 21/01/2008, contrato com a Petrobras no valor de R$ 849.981.400,13", informam os procuradores.</p>
+<p>Além dos ajustes e fraude na licitação, houve oferecimento, promessa e efetivo pagamento de propina a funcionários da Petrobras da Diretoria de Serviços e a agente político vinculado ao Partido dos Trabalhadores, visando à maximização dos lucros no contrato.</p>
+<p>No período de 2007 a 2012, foram pagos aproximadamente R$ 18 milhões para que a empresa com melhor preço abandonasse a licitação e foram identificados pagamentos ilícitos de R$ 16 milhões transferidos a Adir Assad, R$ 3 milhões para Roberto Trombeta e Rodrigo Morales, US$ 711 mil para Mario Goes e R$ 1 milhão para Alexandre Romano.</p>
+<p>Para a elucidação dos crimes, foram importantes as contribuições prestadas no âmbito de acordos de colaboração e de leniência celebrados pelo Ministério Público Federal, os quais foram corroboradas por provas documentais de fraude à licitação, de pagamentos no exterior e no Brasil e de contratos fictícios feitos com empresas de fachada ou usadas para fazer repasses de propinas.</p>
+<p>Dirigentes da empresa Carioca Engenharia, por exemplo, reconheceram a fraude à licitação em benefício do consórcio Novo Cenpes e pagamentos de propinas, o que foi corroborado por eventos que confirmam manipulação da licitação e por contratos fictícios e transferências bancárias.</p>
+<p>Pedro José Barusco Filho, ex-gerente de engenharia da Petrobras indicou que a obra ganha pelo Consórcio Novo Cenpes rendeu propinas de 2% do valor do contrato, tendo sido estas destinadas também ao ex-Diretor da Petrobras Renato de Souza Duque e a agentes do Partido dos Trabalhadores.</p>
+<p>Mario Frederico de Mendonça Goes, também colaborador, admitiu a intermediação de propinas, realizando pagamentos em espécie e depósitos em contas no exterior. Há, inclusive, prova documental de que executivos da Carioca Engenharia transferiram US$ 711.050,00 no exterior em favor dele.</p>
+<p>De acordo com o Ministério Público Federal, "existem também provas do envolvimento de outros operadores financeiros no pagamento de propinas durante a execução das obras do Cenpes". Foram identificadas transferências bancárias que somam mais de R$ 15 milhões provenientes das construtoras integrantes do Consórcio Novo Cenpes para empresas de Adir Assad, preso na última semana, na Operação Saqueador, que também prendeu o contraventor Carlinhos Cachoeira.</p>
+<p>"Além disso, também comprovam os estratagemas criminosos empregados para lavar o dinheiro sujo obtido pelo Consórcio Novo Cenpes dois contratos falsos firmados por este com empresas controladas pelos operadores financeiros Roberto Trombeta e Rodrigo Morales, no valor aproximado de R$ 3 milhões", sustentam os investigadores.</p>
+<p>O procurador da República Júlio Noronha destacou que esse caso é um exemplo do uso de colaborações premiadas, pois "a palavra do colaborador nunca é usada isoladamente. Neste caso as declarações de mais de cinco colaboradores e uma leniência foram usadas em conjunto com provas documentais bastante consistentes, como transferências bancárias no Brasil e no exterior e contratos fictícios com empresas para repasse disfarçado da propina."</p>
+<p>O coordenador da força-tarefa da Lava Jato, Deltan Dallagnol, ressaltou a interconexão com investigações deflagradas na última semana: "Três operações da última semana, Saqueador, Custo Brasil e a de hoje, são ramos de uma mesma árvore. Juntas formam um ícone da recente articulação da Justiça que começa a cercar em diversas frentes de investigação megaesquemas criminosos de desvio de dinheiro público que se interconectam. (...) É preciso uma atuação interinstitucional firme contra a corrupção se desejamos que os demais ramos dessa mesma árvore possam produzir frutos como a Lava Jato". Com informações do Estadão Conteúdo.</p>
+{% endraw %}

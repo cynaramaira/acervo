@@ -1,0 +1,28 @@
+---
+id: 12604737
+date: "2020-10-13T16:50:10Z"
+last_modified_at: null
+tags:
+  - "mestre-biriba"
+categories:
+  - "noticias"
+title: "Do Mestre, sem nenhum carinho"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/05/celso-de-mello.jpg"
+---
+{% raw %}
+<p><p>Por Ricardo Leitão, em artigo enviado ao blog</p></p>
+<p><p>Quinta-feira, dia 8, em Brasília, as trapaças do destino opuseram, em momentos quase simultâneos, dois importantes personagens da República: o Presidente Jair Bolsonaro e o Ministro do Supremo Tribunal Federal Celso de Mello. Bolsonaro discursava em solenidade no Palácio do Planalto; Mello lia seu último voto como ministro, na véspera de sua aposentadoria do STF, ao completar 75 anos, 31 deles na Corte.</p></p>
+<p><p>O discurso do Presidente adentrou no terreno da negação. Afirmou ele ter acabado com a Operação Lava Jato “porque não há mais corrupção no Governo”. Ou seja: não existindo mais corrupção, desnecessário existir ampla mobilização de promotores e policiais para investigar o inexistente.</p></p>
+<p><p>O discurso do Capitão é um atentado aos fatos. Se a Lava Jato está perdendo força não é pela ausência de crimes a serem investigados no âmbito do Governo. E sim como resultado da decisão do bolsonarismo de enfraquecê-la e esvaziá-la, para disso se beneficiarem os aliados encalacrados com a Justiça.</p></p>
+<p><p>São exemplos as desarticulações das equipes de promotores da Lava Jato em Curitiba e em São Paulo; a transferência do Conselho de Controle de Atividades Financeiras (Coaf) do Ministério da Justiça para o Banco Central; a demissão de Sérgio Moro, o “juiz da Lava Jato”, do Ministério da Justiça; a nomeação do antilavajista Augusto Aras para a Procuradoria Geral da República; alianças, no Congresso, com parlamentares investigados por corrupção e pressões para nomeação de afilhados na Polícia Federal.</p></p>
+<p><p>Tais decisões foram aplaudidas pelos áulicos como demonstrações do poder do Presidente e explicitadas no conjunto de medidas de renovação administrativa. No entanto, o distinto público ainda carece de explicação sobre o aparecimento de R$ 89 mil na conta da Primeira Dama Michelle Bolsonaro, depositados por Fabrício Queiroz, amigo há décadas do Presidente, atualmente cumprindo pena por peculato e lavagem de dinheiro. O assunto atiça a ira de Bolsonaro, da mesma forma que comentários sobre os feitos de seus filhos Zero 1, Zero 2 e Zero 3 despertam as atenções de promotores e policiais.</p></p>
+<p><p>Por outra trapaça do destino, foi sobre a investigação acerca do Presidente o último voto de Celso de Mello no STF. Decano da Corte, tratado como um mestre por seus pares, Mello defendeu que Bolsonaro fosse interrogado presencialmente pela Polícia Federal e não prestasse depoimento por carta, como querem seus advogados. O Capitão, como se sabe, é investigado pela tentativa de nomear aliados seus na Polícia Federal, assunto que chegou ao Supremo.</p></p>
+<p><p>“Nunca é demasiado reafirmar que a ideia de República traduz um valor essencial: a igualdade de todos perante as leis do Estado. Ninguém, absolutamente ninguém, tem possibilidade para transgredir as leis. Ninguém está acima da autoridade e do ordenamento jurídico brasileiro”, afirmou Mello em seu último voto. Em fevereiro passado, ao rebater ameaças ao Congresso e ao Supremo Tribunal Federal, o decano foi ainda mais incisivo: “O Presidente da República, qualquer que ele seja, embora possa muito, não pode tudo, pois lhe é vedado transgredir a supremacia político-jurídica da Constituição”.</p></p>
+<p><p>Nas duas oportunidades, Bolsonaro ouviu e calou, para não comprometer o plano em curso, de aparar as arestas com o STF e o Congresso – pavimentando o caminho até a reeleição em 2022. Nessa trajetória, três passos principais já estão sendo dados. O primeiro é varrer de sua frente candidatos que possam disputar eleitoralmente com ele o campo da centro-direita, casos do ex-Ministro Sérgio Moro, do Governador de São Paulo, João Dória, e do apresentador de televisão Luciano Huck. O segundo passo é manter uma base no Congresso que bloqueie tentativas de impeachment. E o último passo é contar com o apoio do Supremo Tribunal Federal em decisões essenciais para o Governo.</p></p>
+<p><p>A independência dos ministros do STF, servidores do mais alto grau do Poder Judiciário, não permitirá o Capitão pisar com firmeza no terceiro passo. Contudo, a aposentadoria de Celso de Mello ajuda na marcha batida presidencial. Para substituí-lo, Bolsonaro escolheu Kássio Marques. Piauiense, desembargador do Tribunal Regional Federal em Brasília, Marques tem o apoio da ala conservadora do Supremo e poderia assegurar ao Capitão a cobiçada maioria no plenário da Corte.</p></p>
+<p><p>Afastados os adversários da centro-direita e estabilizados os votos no Congresso e no STF, o plano de Bolsonaro é repetir 2018 em 2022, polarizando sua candidatura com outra, de esquerda, de preferência do PT. É um plano, mas não uma miragem do Presidente. Sua popularidade cresce, insuflada por programas sociais que vão ser ampliados. Passada a pandemia, a economia voltará a crescer, reduzindo o desemprego. E as reformas começam a avançar no Congresso.</p></p>
+<p><p>No momento, Bolsonaro tem a bola na mão e seu jogo armado. Pouco lhe importam as palavras valorosas e corajosas do Ministro Celso de Mello. O que lhe importa é constatar que, já armado o seu jogo, a oposição ainda nem entrou em campo.</p></p>
+{% endraw %}

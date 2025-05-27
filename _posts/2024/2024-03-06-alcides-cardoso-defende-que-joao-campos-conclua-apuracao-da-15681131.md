@@ -1,0 +1,28 @@
+---
+id: 15681131
+date: "2024-03-06T11:32:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "joao-campos"
+  - "alcides-cardoso"
+categories:
+  - "sem-categoria"
+title: "Alcides Cardoso defende que Jo\u00e3o Campos conclua apura\u00e7\u00e3o da controladoria sobre supostos desvios na pandemia"
+sutia: "L\u00edder da oposi\u00e7\u00e3o na C\u00e2mara do Recife usa investiga\u00e7\u00e3o sobre gastos na pandemia da Covid-19 para criticar Jo\u00e3o Campos"
+chapeu: "gastos na pandemia"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/02/29/vereador_alcides_cardoso_____foto_phillipe_jonathan____divulgacao-26512684.jpeg"
+---
+{% raw %}
+<p>O l&iacute;der da oposi&ccedil;&atilde;o na C&acirc;mara do Recife, vereador Alcides Cardoso (PSDB), voltou a cobrar a conclus&atilde;o de tr&ecirc;s Processos de Apura&ccedil;&atilde;o de Responsabilidade abertos pela Prefeitura do Recife sobre supostos desvios na pandemia da Covid-19.</p>
+<p>O pedido ocorre<a href="https://jc.ne10.uol.com.br/colunas/jamildo/2024/03/05/justica-federal-torna-reus-servidores-do-municipio-do-recife-investigados-por-fraudes-na-compra-de-mascaras-na-pandemia.html" target="_blank" rel="noopener noreferrer"> depois que a Justi&ccedil;a Federal tornou r&eacute;us, ainda nesta ter&ccedil;a (5)</a>, ex-gestores da administra&ccedil;&atilde;o municipal, na gest&atilde;o do ex-prefeito Geraldo Julio (PSB), acusados de cometerem fraudes nas compras de m&aacute;scaras e aventais, no valor total de R$ 13,2 milh&otilde;es, duas das cinco dispensas de licita&ccedil;&atilde;o que s&atilde;o alvos das apura&ccedil;&otilde;es internas da Prefeitura.</p>
+<p>Na avalia&ccedil;&atilde;o do parlamentar, os procedimentos deveriam ter sido conclu&iacute;dos h&aacute; mais de dois anos, conforme a lei federal anticorrup&ccedil;&atilde;o e o decreto municipal que a regula no Recife.</p>
+<p>&ldquo;A decis&atilde;o da Justi&ccedil;a Federal de aceitar mais essa den&uacute;ncia do Minist&eacute;rio P&uacute;blico contra os desvios de dinheiro p&uacute;blico que deveria servir ao combate da Convid-19, cometidos por ex-gestores da Prefeitura do Recife, refor&ccedil;a a necessidade do prefeito Jo&atilde;o Campos desengavetar todas as apura&ccedil;&otilde;es internas sobre uma parte do maior esquema de corrup&ccedil;&atilde;o que o Recife j&aacute; viu. Afinal, o munic&iacute;pio deve reaver todos os recursos que foram desviados na pandemia para serem revertidos na melhoria da rede de sa&uacute;de. At&eacute; porque a pr&oacute;pria Prefeitura verificou, de forma preliminar, graves ind&iacute;cios de irregularidades nas dispensas de licita&ccedil;&atilde;o&rdquo;, disse Alcides Cardoso.</p>
+<p>Com a decis&atilde;o da 36&ordf; da Vara da Justi&ccedil;a Federal em Pernambuco, tornam-se r&eacute;us o ex-secret&aacute;rio de Sa&uacute;de do Recife na gest&atilde;o Geraldo Julio, Jailson de Barros Correia, e outros ex-assessores, a exemplo do ex-diretor financeiro da Secretaria de Sa&uacute;de do Recife Felipe Soares Bittencourt, que auxiliava o ex-prefeito desde quando foi secret&aacute;rio de Desenvolvimento Econ&ocirc;mico na gest&atilde;o do ex-governador Eduardo Campos.</p>
+<p>Em discurso na reuni&atilde;o ordin&aacute;ria do dia 19 dezembro de 2023, o l&iacute;der da oposi&ccedil;&atilde;o j&aacute; havia feito a cobran&ccedil;a a Jo&atilde;o Campos e anunciou o envio de of&iacute;cios &agrave; gest&atilde;o municipal, ao Minist&eacute;rio P&uacute;blico Federal (MPF), que denunciou os ex-gestores, e ao Minist&eacute;rio P&uacute;blico de Pernambuco (MPPE), que tamb&eacute;m tem investiga&ccedil;&otilde;es em andamentos sobre as compras na pandemia.</p>
+<p>"Os tr&ecirc;s Processos de Apura&ccedil;&atilde;o de Responsabilidade miram cinco dispensas de licita&ccedil;&atilde;o da Secretaria de Sa&uacute;de, na gest&atilde;o do ex-prefeito Geraldo Julio (PSB), no valor total de R$ 24,2 milh&otilde;es. Na &eacute;poca, chegamos a citar a possibilidade de prevarica&ccedil;&atilde;o".</p>
+<p>A apura&ccedil;&atilde;o interna sobre as aquisi&ccedil;&otilde;es de m&aacute;scaras e aventais, que s&atilde;o alvos da decis&atilde;o da Justi&ccedil;a nesta ter&ccedil;a (5), foi aberta em 19 de outubro de 2020 pela pr&oacute;pria Secretaria de Sa&uacute;de, mas depois foi enviada para a Controladoria-Geral do Munic&iacute;pio. A empresa fornecedora foi a Deltamed Distribuidora de Medicamentos Eireli.</p>
+<p>Na portaria, de n&uacute;mero 066/2020 assinada pelo ex-secret&aacute;rio Jailson Correia, na qual &eacute; divulgada a instaura&ccedil;&atilde;o do processo sobre as compras, foi informado que a medida considerou &ldquo;notas t&eacute;cnicas da Ger&ecirc;ncia Geral de Assist&ecirc;ncia Farmac&ecirc;utica e as notifica&ccedil;&otilde;es enviadas &agrave; empresa sem resposta&rdquo; at&eacute; ent&atilde;o. A portaria diz ainda que o objetivo &eacute; apurar &ldquo;eventuais infra&ccedil;&otilde;es&rdquo; &agrave; Lei 12.846/2013, a Lei Anticorrup&ccedil;&atilde;o, e &agrave; Lei n&ordm; 8666/93, a Lei de Licita&ccedil;&otilde;es.</p>
+<p>&ldquo;O prefeito Jo&atilde;o Campos n&atilde;o pode continuar jogando para debaixo do tapete a corrup&ccedil;&atilde;o na pandemia ocorrida na gest&atilde;o do seu amigo-irm&atilde;o Geraldo Julio. Quero acreditar que a decis&atilde;o da Justi&ccedil;a Federal pressione o atual prefeito a tirar da gaveta os processos de apura&ccedil;&atilde;o e punir os envolvidos&rdquo;, afirmou o oposicionista.<br /></p>
+{% endraw %}

@@ -1,0 +1,47 @@
+---
+id: 12557339
+date: "2017-09-17T08:02:10Z"
+last_modified_at: null
+tags:
+  - "animais"
+  - "empresa"
+  - "esta"
+categories:
+  - "noticias"
+title: "Mais da metade do \u2018quadrilh\u00e3o\u2019 do PMDB j\u00e1 est\u00e1 presa"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/06/Eduardo-Cunha-e-Henrique-Eduardo-Alves-PMDB.jpg"
+---
+{% raw %}
+<p><p><em>Estadão Conteúdo</em> - Quatro dos sete acusados pelo procurador-geral da República, Rodrigo Janot, de integrarem o ‘quadrilhão’ do PMDB - supostamente liderado pelo presidente da República - já estão atrás das grades. São eles: os ex-presidentes da Câmara Eduardo Cunha e Henrique Eduardo Alves, o ex-ministro Geddel Vieira Lima (pela segunda vez) e o ex-assessor especial de Michel Temer Rodrigo Rocha Loures, o ‘homem da mala da JBS’.</p></p>
+<p><p>Houve um tempo em que os quatro desfrutaram de poder e prestígio político em Brasília até que, ao longo do último ano, foram tirados de circulação pela PF no bojo de operações distintas, todas deflagradas para combater corrupção e lavagem de dinheiro - Lava Jato, Manus, Pátmos e Tesouro Perdido.</p></p>
+<p><p>Na <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/14/janot-apresenta-segunda-denuncia-contra-temer/">denúncia que levou ao Supremo Tribunal Federal na quinta-feira (14) contra Temer</a> e seus aliados históricos, Janot afirma que a liderança do ‘quadrilhão’ era exercida pelo presidente.</p></p>
+<p><p>Também fazem parte do grupo, segundo a acusação, os ministros Eliseu Padilha (Casa Civil) e Moreira Franco (Chefe da Secretaria-Geral da Presidência da República).</p></p>
+<p><p>Todo o ‘quadrilhão’ foi denunciado por organização criminosa na última flechada de Janot, que encerra seu segundo mandato neste domingo (17).</p></p>
+<p><p><a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/25/ministro-do-stj-nega-liminar-e-mantem-cunha-preso-em-curitiba/">Eduardo Cunha foi o primeiro integrante do ‘quadrilhão’ a ser capturado</a>. Em 19 de outubro de 2016, por ordem do juiz federal Sérgio Moro, o peemedebista foi preso na Asa Sul, em Brasília, e levado a Curitiba.</p></p>
+<p><p>O ex-deputado já foi condenado por crimes de corrupção, de lavagem e de evasão fraudulenta de divisas a 15 anos e 4 meses de prisão na Lava Jato. O peemedebista foi sentenciado em ação penal sobre propinas na compra do campo petrolífero de Benin, na África, pela Petrobras, em 2011.</p></p>
+<p><p>A prisão de outros dois protagonistas do ‘quadrilhão’ ocorreu em um período de três dias, este ano.</p></p>
+<p><p>Em 3 de junho, <a href="https://blogs.ne10.uol.com.br/jamildo/2017/07/05/antes-de-ser-preso-rocha-loures-diz-executivo-da-jbs-que-padilha-sera-afastado/">Rodrigo Rocha Loures, o ‘homem da mala da JBS’, foi capturado preventivamente</a> por ordem do ministro Edson Fachin, do Supremo.</p></p>
+<p><p>No dia 6, <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/12/na-cadeia-henrique-alves-encomenda-comida-de-restaurante-afirma-mpf/">Henrique Alves foi levado pela Polícia Federal</a>, aos gritos de ‘ladrão’ e ‘safado’, na Operação Manus por suspeita de corrupção e lavagem de dinheiro envolvendo a construção da Arena das Dunas, em Natal.</p></p>
+<p><p>Loures é o ‘homem da mala preta’. Em abril, a Polícia Federal filmou, em ação controlada autorizada pela Corte, Loures saindo apressado do estacionamento de uma pizzaria em São Paulo. Na mão direita, uma mala recheada com R$ 500 mil em propinas da JBS.</p></p>
+<p><p>A prisão de Loures foi substituída, em 30 de junho, por uso de tornozeleira eletrônica e recolhimento domiciliar noturno (das 20 às 6 horas) e também aos sábados, domingos e feriados. O homem da mala e Michel Temer foram denunciados pela Procuradoria-Geral da República por corrupção passiva em 26 de junho. A acusação foi rejeitada pela Câmara dos Deputados em agosto.</p></p>
+<p><p>Henrique Alves continua preso. O ex-deputado é acusado de receber propina por meio de doações eleitorais oficiais e não oficiais, entre 2012 e 2014, em troca de favorecimento a empresas de construção civil, como a OAS, Odebrecht e Carioca Engenharia.</p></p>
+<p><p>O peemedebista foi ministro do Turismo do governo Temer por pouco mais de um mês. Em junho do ano passado, Henrique Alves deixou o cargo após ser citado na delação premiada do ex-presidente da Transpetro Sergio Machado, que declarou ter repassado ao ex-deputado R$ 1,55 milhão em propina entre 2008 e 2014. Henrique Alves também foi ministro do Turismo de Dilma.</p></p>
+<p><p>O <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/14/geddel-alega-risco-de-estupro-em-pedido-de-volta-para-prisao-domiciliar/">último peemedebista do ‘quadrilhão’ a ser preso foi Geddel Vieira Lima</a>. O ex-ministro de Temer e Lula foi capturado duas vezes em dois meses por ordem juiz federal da 10ª Vara, Vallisney de Oliveira.</p></p>
+<p><p>Em 3 de julho, Geddel foi levado pela PF em caráter preventivo por supostamente tentar atrapalhar as investigações da Operação Cui Bono?. A ação investiga irregularidades cometidas na vice-presidência de Pessoa Jurídica da Caixa Econômica Federal, durante o período em que foi comandada pelo aliado de Temer.</p></p>
+<p><p>Geddel ficou preso pouco mais de um mês. Por ordem do desembargador Ney Bello, do Tribunal Regional Federal da 1ª Região, em 13 de julho, o peemedebista foi mandado para casa. Sem tornozeleira eletrônica, porque o equipamento não estava disponível na Bahia.</p></p>
+<p><p>A prisão domiciliar de Geddel foi encerrada em 8 de setembro. Três dias antes, a Polícia Federal havia encontrado a fortuna de R$ 51 milhões em um apartamento no bairro da Graça, em Salvador. O dinheiro estava armazenado em caixas e malas dentro do bunker atribuído a Geddel. Nas cédulas, a PF identificou as digitais do peemedebista. Geddel está agora no Complexo Penitenciário da Papuda, em Brasília.</p></p>
+<p><p>O ‘quadrilhão’ do PMDB arrecadou R$ 587 milhões em propina, segundo a denúncia de Janot. Valores teriam sido arrecadados na Petrobrás, em Furnas, na Caixa Econômica Federal, no Ministério da Integração Nacional, no Ministério da Agricultura, na Secretaria de Aviação Civil e na Câmara dos Deputados.</p></p>
+<p><p>"Os crimes praticados pela organização geraram prejuízo também aos cofres públicos. Nesse sentido, em acórdão lavrado pelo TCU, estimou-se que a atuação cartelizada perante a Petrobrás implicou prejuízos à estatal que podem ter chegado a R$ 29 bilhões", afirma o procurador-geral.</p></p>
+<p><h3>Defesa de Loures</h3></p>
+<p><p>"Rodrigo Rocha Loures não participou de nenhum acordo de pagamento ou recebimento de propinas atribuído ao PMDB da Câmara Rodrigo era apenas um assessor pessoal do Presidente e não tinha nenhuma intervenção em atividades financeiras, ao contrário da recente denúncia contra o PMDB da Câmara. A defesa repudia veemente mais uma denúncia leviana de Rodrigo Janot!!!"</p></p>
+<p><h3>Defesa de Padilha</h3></p>
+<p><p>Sobre a denúncia por organização criminosa feita pelo procurador-geral da República, Rodrigo Janot ao Supremo Tribunal Federal, contra o ministro da Casa Civil, Eliseu Padilha, o advogado Daniel Gerber que defende o ministro afirma: "Entendo como equivocada o oferecimento de uma denúncia com base em delações que estão sob suspeita, mas iremos demonstrar nos autos a inexistência da hipótese acusatória".</p></p>
+<p><h3>Defesa de Cunha</h3></p>
+<p><p>Sobre a nova denúncia oferecida pela PGR, a defesa de Eduardo Cunha tem a dizer que provará no processo o absurdo das acusações postas, as quais se sustentam basicamente nas palavras de um reincidente em delações que, diferentemente dele, se propôs a falar tudo o que o Ministério Público queria ouvir para fechar o acordo de colaboração.</p></p>
+<p><h3>Defesa de Temer</h3></p>
+<p><p>O procurador-geral da República continua sua marcha irresponsável para encobrir suas próprias falhas. Ignora deliberadamente as graves suspeitas que fragilizam as delações sobre as quais se baseou para formular a segunda denúncia contra o presidente da República, Michel Temer. Finge não ver os problemas de falta de credibilidade de testemunhas, a ausência de nexo entre as narrativas e as incoerências produzidas pela própria investigação, apressada e açodada. Ao fazer esse movimento, tenta criar fatos para encobrir a necessidade urgente de investigação sobre pessoas que integraram sua equipe e em relação às quais há indícios consistentes de terem direcionado delações e, portanto, as investigações. Ao não cumprir com obrigações mínimas de cuidado e zelo em seu trabalho, por incompetência ou incúria, coloca em risco o instituto da delação premiada. Ao aceitar depoimentos falsos e mentirosos, instituiu a delação fraudada. Nela, o crime compensa. Embustes, ardis e falcatruas passaram a ser a regra para que se roube a tranquilidade institucional do país. A segunda denúncia é recheada de absurdos. Fala de pagamentos em contas no exterior ao presidente sem demonstrar a existência de conta do presidente em outro país. Transforma contribuição lícita de campanha em ilícita, mistura fatos e confunde para tentar ganhar ares de verdade. É realismo fantástico em estado puro. O presidente tem certeza de que, ao final de todo esse processo, prevalecerá a verdade e, não mais, versões, fantasias e ilações. O governo poderá então se dedicar ainda mais a enfrentar os problemas reais do Brasil.</p></p>
+<p><p>Secretaria Especial de Comunicação Social da Presidência da República.</p></p>
+{% endraw %}

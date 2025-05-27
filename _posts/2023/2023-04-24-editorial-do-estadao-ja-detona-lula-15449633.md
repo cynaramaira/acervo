@@ -1,0 +1,29 @@
+---
+id: 15449633
+date: "2023-04-24T07:54:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "lula"
+categories:
+  - "sem-categoria"
+title: "Editorial do Estad\u00e3o j\u00e1 detona Lula"
+sutia: "O Estado de S\u00e3o Paulo faz \u00e1cido editorial contra novo governo federal"
+chapeu: "Saudade do mito?"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/04/22/lulaportugalacordos1-22905202.jpeg"
+---
+{% raw %}
+<p>Qual Brasil voltou?, no editorial do Estado de S&atilde;o Paulo<br /></p>
+<p>Lula diz e repete que &lsquo;o Brasil voltou&rsquo;. De fato: voltou o Brasil do toma l&aacute; d&aacute; c&aacute;, das invas&otilde;es de terra, do atraso econ&ocirc;mico e da megalomania internacional, marcas do lulopetismo</p>
+<p>O presidente Lula da Silva tem bradado que, com ele, &ldquo;o Brasil voltou&rdquo;. Pois bem. Imod&eacute;stia &agrave; parte, &eacute; o caso de perguntar: afinal, de que Brasil se est&aacute; falando? Que pa&iacute;s &eacute; esse que estaria de volta?</p>
+<p>&Eacute; seguro afirmar que n&atilde;o &eacute; o Brasil pelo qual ansiavam milh&otilde;es de eleitores moderados que, mesmo conhecendo bem o passado de malfeitos dos governos petistas, entenderam que a eventual reelei&ccedil;&atilde;o de Jair Bolsonaro, um dos mais desqualificados, indecorosos e patrimonialistas presidentes em toda a hist&oacute;ria republicana, representava uma trag&eacute;dia a ser evitada a qualquer custo.</p>
+<p>Esses brasileiros fundamentais para a apertada vit&oacute;ria do petista em 2022 foram descartados por Lula cedo demais &ndash; e sem o menor constrangimento, haja vista o discurso arrogante e as atitudes do presidente. N&atilde;o que as expectativas fossem altas. A rigor, s&atilde;o pessoas que n&atilde;o esperavam muito mais do atual governo, al&eacute;m do resgate da dec&ecirc;ncia no exerc&iacute;cio da Presid&ecirc;ncia da Rep&uacute;blica e alguns sinais de modera&ccedil;&atilde;o e responsabilidade na condu&ccedil;&atilde;o do Pa&iacute;s.</p>
+<p>Lula, por&eacute;m, tem conduzido o Brasil por um caminho perigoso. O governo tem tomado um rumo que, se n&atilde;o chega a configurar estelionato eleitoral &ndash; pois s&oacute; o mais lhano dos cidad&atilde;os haveria de acreditar que Lula, de volta ao poder, faria algo muito diferente do que est&aacute; fazendo &ndash;, tampouco sinaliza que, se n&atilde;o os esqueceu, ao menos Lula teria aprendido alguma coisa com os erros cometidos em um passado n&atilde;o muito distante.</p>
+<p>Esse Brasil que Lula diz que &ldquo;voltou&rdquo; parece ser um pa&iacute;s que s&oacute; existe na cabe&ccedil;a do presidente; um pa&iacute;s forjado por seus dogmas, sua recalcitr&acirc;ncia, seu voluntarismo na implementa&ccedil;&atilde;o de pol&iacute;ticas p&uacute;blicas e qui&ccedil;&aacute; por uma gama de sentimentos que possam ter moldado suas vis&otilde;es de mundo ap&oacute;s o per&iacute;odo de 580 dias na cadeia. O Brasil dos fatos, da realidade implac&aacute;vel que est&aacute; diante dos olhos de qualquer observador que n&atilde;o se deixa enviesar pela vaidade ou pelo fervor ideol&oacute;gico, &eacute; o Brasil do retrocesso em mais &aacute;reas do que Lula, alguns de seus ministros e apoiadores teriam coragem de admitir em p&uacute;blico.</p>
+<p>Por &oacute;bvio, &eacute; indisput&aacute;vel a verdade de que houve guinadas republicanas em &aacute;reas fundamentais para o Pa&iacute;s, como sa&uacute;de, educa&ccedil;&atilde;o e meio ambiente, tr&ecirc;s dos setores que foram obliterados pela sanha destruidora de Bolsonaro. A derrota de Bolsonaro, por si s&oacute;, j&aacute; foi suficiente para melhorar a qualidade do ar que os brasileiros respiram. Literalmente, pois s&atilde;o percept&iacute;veis os esfor&ccedil;os da nova administra&ccedil;&atilde;o federal para reconstruir o aparato de prote&ccedil;&atilde;o ambiental que conferiu ao Brasil um soft power nessa seara que, h&aacute; d&eacute;cadas, al&ccedil;ou o Pa&iacute;s &agrave; condi&ccedil;&atilde;o de interlocutor indesvi&aacute;vel em f&oacute;runs internacionais sobre as mudan&ccedil;as clim&aacute;ticas.</p>
+<p>No governo de Lula, vacinas, ora vejam, tamb&eacute;m voltaram a ser tidas como indispens&aacute;veis para evitar mortes, e a cultura deixou de estar sob ataque permanente para voltar a ser tratada como tra&ccedil;o de distin&ccedil;&atilde;o e uni&atilde;o de um povo, ou seja, um bem a ser preservado.</p>
+<p>Mas, como j&aacute; dissemos nesta p&aacute;gina, n&atilde;o &eacute; vantagem alguma Lula posar como um presidente melhor do que seu antecessor porque &eacute; virtualmente imposs&iacute;vel que haja um governo pior do que o de Bolsonaro. De Lula, esperava-se muito mais do que isso, n&atilde;o s&oacute; por suas promessas, mas, sobretudo, pelo arco de apoios que o petista construiu &ndash; para al&eacute;m da esquerda e centroesquerda &ndash; a fim de p&ocirc;r fim &agrave; barb&aacute;rie bolsonarista.</p>
+<p>O que se viu at&eacute; agora, no entanto, &eacute; igualmente uma pol&iacute;tica de destrui&ccedil;&atilde;o de marcos republicanos, tais como a lei das estatais, o marco legal do saneamento, a reforma do ensino m&eacute;dio, entre outros. &Eacute; o voluntarismo megaloman&iacute;aco e o improviso de Lula pautando as rela&ccedil;&otilde;es internacionais do Pa&iacute;s. &Eacute; o fisiologismo desbragado na rela&ccedil;&atilde;o entre Executivo e Legislativo. &Eacute; a toler&acirc;ncia &agrave; invas&atilde;o de terras pelos companheiros do MST.</p>
+<p>O Brasil que tantos anseiam por ver de volta &eacute; o pa&iacute;s que, unido, soube superar a ditadura militar, consolidar a democracia e derrotar a infla&ccedil;&atilde;o e a instabilidade econ&ocirc;mica. Com Lula, ao que parece, esse Brasil n&atilde;o voltar&aacute; t&atilde;o cedo.<br /></p>
+{% endraw %}

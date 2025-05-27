@@ -1,0 +1,32 @@
+---
+id: 12552650
+date: "2017-06-16T09:30:57Z"
+last_modified_at: null
+tags:
+  - "crise-sanitaria"
+  - "emendas"
+  - "liberacao"
+  - "michel-temer"
+categories:
+  - "noticias"
+title: "Temer libera R$ 1 bilh\u00e3o em emendas durante crise"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/05/Temer_EVARISTO-SA_AFP.jpg"
+---
+{% raw %}
+<p><p><em>Estadão Conteúdo</em> - Desde que a delação do <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/15/rodrigo-maia-diz-que-pode-suspender-recesso-para-votar-denuncia-contra-temer/">Grupo J&amp;F - controlador da JBS - veio à tona, em 17 de maio, o governo liberou quase R$ 1 bilhão em emendas </a>parlamentares, a maior parte para a sua base aliada no Congresso. O repasse desse volume de recursos a deputados e senadores já estava previsto e a liberação coincidiu com o agravamento da crise política.</p></p>
+<p><p>Para arregimentar apoio à reforma da Previdência - projeto considerado<a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/15/temer-viajou-em-helicoptero-de-empresa-alvo-na-lava-jato/"> crucial pelo Planalto -, a Secretaria de Governo da Presidência, responsável </a>pela articulação com o Congresso, já tinha pedido a antecipação do pagamento de R$ 1,8 bilhão em emendas parlamentares para conseguir reverter o placar desfavorável ao projeto na Câmara. A previsão era de desembolso de R$ 1 bilhão em abril e R$ 800 milhões em maio.</p></p>
+<p><p>&gt;&gt; <a title="Rodrigo Maia diz que pode suspender recesso para votar denúncia contra Temer" href="https://blogs.ne10.uol.com.br/jamildo/2017/06/15/rodrigo-maia-diz-que-pode-suspender-recesso-para-votar-denuncia-contra-temer/">Rodrigo Maia diz que pode suspender recesso para votar denúncia contra Temer</a></p></p>
+<p><p>Levantamento feito por consultores do Orçamento no Congresso, a pedido do Estado, mostra, porém, que a liberação de verbas de emendas ocorreu de fato no período posterior à delação premiada dos irmãos Joesley e Wesley Batista.</p></p>
+<p><p>Com base na delação, o presidente Michel Temer passou a ser<a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/15/mp-investiga-propina-para-ex-ministro-de-temer-em-obra-no-ceara/"> investigado em inquérito no Supremo Tribunal Federal (STF) pelos crimes de corrupção passiva</a>, obstrução de Justiça e organização criminosa. A Procuradoria-Geral da República (PGR) se prepara para apresentar denúncia contra o presidente. O STF só poderá julgar a acusação formal caso obtenha uma autorização de 2/3 da Câmara, ou 342 deputados.</p></p>
+<p><p>Segundo o ministro da Secretaria de Governo, Antonio Imbassahy, uma nova rodada de pagamentos será feita até o fim do mês. No ano, estão previstos R$ 6,3 bilhões no Orçamento para emendas parlamentares.</p></p>
+<p><p>Para o Planalto, a preservação da base de apoio no Congresso e a manutenção da agenda de reformas são fundamentais para que a gestão Temer supere a sua mais aguda crise.</p></p>
+<p><p>Imbassahy negou que o aumento dos repasses tenha relação com a delação <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/14/para-procuradores-da-lava-jato-temer-age-para-salvar-si-mesmo/">da J&amp;F. "Não tem nenhuma orientação para pagar nem mais nem menos", disse.</a> De acordo com ele, a liberação de recursos está seguindo "uma sequência normal". "As emendas são impositivas e, portanto, com execução obrigatória. À medida que os ministérios informam para a secretaria que um projeto já foi fiscalizado, estamos liberando o pagamento, dentro do limite orçamentário."</p></p>
+<p><p>O levantamento foi feito com base no Siafi - sistema que acompanha as <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/13/humberto-costa-diz-que-psdb-mantem-apoio-temer-para-salvar-aecio/">contas do governo em tempo real. Entre 17 de maio e 13 de junho foram liberados </a>R$ 486,4 milhões em restos a pagar (valores de outros anos) e mais R$ 467,5 milhões empenhados (compromissos de pagamentos), somando um total de R$ 953,6 milhões em recursos para deputados e senadores em quase um mês, metade do que foi autorizado desde o início deste ano. Neste último mês, 94% das emendas parlamentares foram empenhadas e um terço das emendas que tinham sido autorizadas em exercícios anteriores foi quitado.</p></p>
+<p><p>Segundo os consultores do Congresso, a liberação de <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/13/base-ja-articula-relator-em-comissao-para-livrar-temer/">recursos deve se intensificar nas próximas semanas. Cada parlamentar pode apresentar até 25 emendas.</a> O pagamento desses valores é visto como moeda de troca entre o Planalto e o Legislativo, e costuma ser usado pelo governo para garantir apoio no Congresso. O dinheiro é o principal recurso destinado aos parlamentares para que eles possam viabilizar obras e benfeitorias em seus redutos eleitorais.</p></p>
+<p><h2>Impeachment</h2></p>
+<p><p>No ano passado, a ex-presidente Dilma Rousseff usou do mesmo <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/12/absolvido-no-tse-temer-deve-focar-nas-reformas-que-o-pais-precisa-defende-jarbas/">artifício para tentar barrar o impeachment no Congresso. Somente nos primeiros</a> dias de maio, ela empenhou R$ 1,4 bilhão em emendas para deputados e senadores, quase a totalidade do que havia liberado no acumulado de 2016 até maio. O afastamento de Dilma, porém, foi aprovado pelos senadores em 12 de maio. Ao assumir a Presidência, Temer continuou com o ritmo acelerado de liberação de verbas e empenhou outros R$ 2,4 bilhões no restante de maio.</p></p>
+<p><p>A maior parte dos recursos liberados até agora tem como foco <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/12/gilmar-mendes-diz-que-cassacao-da-chapa-dilma-temer-lancaria-o-pais-em-quadro-de-incognita/">deputados e senadores da base do governo. Os dez parlamentares que encabeçam o rankin</a>g das emendas empenhadas são do DEM, PMDB, PP e PR, todos partidos aliados de Temer. O deputado que recebeu o maior valor foi Marco Rogério (DEM-RO), cotado a relator da provável denúncia contra o peemedebista e relator do pedido de cassação de Eduardo Cunha. As informações são do jornal O Estado de S. Paulo.</p></p>
+{% endraw %}

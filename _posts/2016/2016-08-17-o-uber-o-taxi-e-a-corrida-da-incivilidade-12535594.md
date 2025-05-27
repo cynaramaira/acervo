@@ -1,0 +1,32 @@
+---
+id: 12535594
+date: "2016-08-17T11:00:48Z"
+last_modified_at: null
+tags:
+  - "taxi"
+  - "uber"
+categories:
+  - "noticias"
+title: "O Uber, o t\u00e1xi e a corrida da incivilidade"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/uber-1.jpg"
+---
+{% raw %}
+<p>Por André de Sá Portela, advogado</p>
+<p>Há menos de uma semana, duas confusões envolvendo motoristas de Uber, passageiros e taxistas reforçaram o cenário de guerra que o transporte particular urbano de Recife vem protagonizando. Ambas aconteceram em Casa Forte - em frente a um bar e no corredor de estacionamento de um shopping – e começaram após uma briga entre “carros brancos” e “veículos comuns” na ridícula disputa por “território”.</p>
+<p>O saldo dessa selvageria não poderia ser outro: uma jovem agredida com uma pedrada na cabeça, um retrovisor quebrado, duas queixas na delegacia e uma repercussão gigantesca nas redes sociais.</p>
+<p>Desde que o Uber, aplicativo de transporte de passageiros, começou a operar no Recife, em março deste ano, a requesta entre “tradição” e “novidade” começou, exatamente como tem acontecido em outras cidades do país. De um lado, cidadãos que veem no Uber a oportunidade de incrementar a renda ou driblar o desemprego pedem espaço e aceitação. Do outro, taxistas fazem protestos e carreatas para cobrar uma ação do poder público que coíba a presença do aplicativo na capital pernambucana.</p>
+<p>Desgaste inútil. Por mais piegas e refutável que pareça a máxima “o sol é para todos”, é dela – e somente dela – que o mercado se vale. Quem é autônomo e quer quarar na estabilidade financeira não tem outra alternativa: precisa se reinventar e aceitar a livre concorrência como mola de propulsão.</p>
+<p>Os taxistas, aliás, sabem disso melhor do que ninguém. Quando os aplicativos de chamada de táxi surgiram, levando à falência parte das cooperativas, eles souberam aproveitar a tecnologia em seu próprio favor. Os criadores da ferramenta, os prestadores de serviço e os usuários do mundo todo saíram ganhando. Uma evolução inevitável, dessas que viralizam e agradam com a mesma velocidade da luz.</p>
+<p>Tentar impedir esse tipo de mudança é tão absurdo quanto não aceitar, por exemplo, a facilidade das ligações gratuitas por Whatsapp, ainda que as operadoras telefônicas tentem justificar o contrário. É tão fracassado quanto a antiga tentativa das gravadoras de discos de combater o comércio de música online. Tão sem sentido quanto ver desempregados reclamarem da quantidade de máquinas que substituem funcionários nas entradas dos shoppings e no atendimento automático dos guichês de pagamento. Tão atrasado quanto querer reclamar de um mundo que não anda para trás, não usa mais dinheiro vivo, não vai ao banco fazer depósitos, não compra suplementos nas lojas físicas, não dispensa bom atendimento personalizado, não foge da onda da globalização. Um mundo que facilita, economiza, descomplica e compartilha.</p>
+<p>O Uber é, afinal, fruto dessa mentalidade de economia compartilhada, que populariza caronas combinadas através da internet, que transforma redes sociais em brechós de peças de valor e vestidos de festa, que vende móveis e animais de estimação sem a necessidade de intermediários.</p>
+<p>Pensar na crise que a chegada do Uber trouxe ao faturamento suado do taxista é, sim, lastimável. Tão lastimável, por exemplo, quanto pensar na multidão de jornalistas desempregados que a chegada da notícia online instaurou. E isso só nos faz lembrar que uma economia instável não tem mesmo a capacidade de acolher os filhotes abandonados do seu bando.</p>
+<p>È nessas horas que os bons profissionais se transformam e desafiam a lei da certeza para apostar novos caminhos. È nessas horas que taxistas reveem as consequências de negar corridas pequenas e cobrar o triplo na viagem de réveillon. É nessas horas que o “bom dia” gentil vira requisito obrigatório para o “trabalhador do trânsito” e que as novas ofertas de vantagens para o consumidor final são construídas.</p>
+<p>Se a concorrência entre Uber e Táxi é desleal no preço (a corrida de táxi é mais cara para o passageiro, ainda que o taxista tenha algumas benesses tributárias, desde a isenção de impostos para a compra a do carro a não incidência de tributos sobre a remuneração dos seus serviços, o que não existe para o Uber), que os taxistas busquem, com mesmo afinco e indignação, mudar os moldes de seu regimento de atuação. Concordamos que há ausência de normatizações para o Uber e superlativa regulamentação para os táxis, que só podem pegar corridas nas praças municipais em que são cadastrados, só podem trafegar com a bandeira adquirida por licitação e têm os seus carros vistoriados com frequência.</p>
+<p>Ou, se os motoristas de Uber não são justamente avaliados, que também sejam exigidos deles exames médicos e psicotécnicos no Detran a cada cinco anos e que eles precisem fazer cursos de capacitação. Que motoristas de táxis conquistem mais facilidades no processo de obtenção de licenças nas prefeituras, passem a aceitar sem ressalvas o uso do cartão de crédito na hora da cobrança, que equipem seus carros com aguinhas geladas e carregadores de celular, que deem ao passageiro apressado o direito de escolher entre o “bom” e o “bom”.</p>
+<p>No mais, a carreira do motorista de Uber ainda deve se transformar. Seu preço deve mudar, suas regras de atuação devem ser revistas pela legislação de cada município, logo que passar esse período de adaptação. Até lá, sair no tapa como dois flanelinhas que se sentem donos da mesma rua é muito mais que constrangedor. É perda de tempo, de civilidade e de futuro.</p>
+<p>A mudança, como dito, é inevitável, mas uma nova regulamentação para os dois (taxi e Uber) é necessária e a omissão do Estado poderá acarretar ainda mais desordem e rixa entre eles.</p>
+<p>Ontem, ouvi um motorista de Uber reclamar de muitos taxistas que estão resolvendo migrar pro “seu aplicativo”. Uma prova de que essa novela deve durar muito tempo, ainda, mas sem vilões e mocinhos para se destacar por trás do volante da competição. Afinal de contas, essa economia em frangalhos está pronta para atropelar ou ser atropelada por quem sabe, no mundo dos negócios, coexistir com inteligência e cordialidade. A evolução, meus amigos, pede passagem...</p>
+{% endraw %}

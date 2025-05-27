@@ -1,0 +1,25 @@
+---
+id: 12557026
+date: "2017-09-11T12:00:24Z"
+last_modified_at: null
+tags:
+  - "pernambuco"
+categories:
+  - "noticias"
+title: "Pernambuco 2018 e seus pr\u00edncipes"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/11/FBC-Paulo-C\u00e2mara-E-Geraldo-Julio.jpg"
+---
+{% raw %}
+<p><p>Por Clovis Miyachi, professor e cientista político, para o <strong>Blog de Jamildo</strong></p></p>
+<p><p>A luz da contemporaneidade, o pensamento político de Maquiavel enfoca a natureza da política - " PODER” e os expedientes utilizados pelos políticos para conquistar e permanecer no poder - O Príncipe e o Comentários sobre a Primeira Década de Tito Lívio.</p></p>
+<p><p>Dizia Maquiavel que dois grandes fatores contribuem para o êxito das ações políticas: Primeiro, "A FORTUNA" - que pode ser entendida como: sorte, acaso, oportunidade, influência das circunstâncias, curso da história etc.; Segundo, "A VIRTÚ" - refere-se à capacidade, eficiência política, habilidade, articulação, valor individual, ou seja, a ação politica eficaz e eficiente de efeito duradouro, aquelas na qual os atores são capazes de aproveitar circunstâncias favoráveis e fazer valer sua astúcia política hoje tão raro e, substituída pela otimização dos interesses com avides, inclusive burlando a lei.</p></p>
+<p><p>No reino de Pernambuco, na década de 60 vivia um cidadão que utilizando sabiamente a fortuna e a virtú e, pelo favor dos concidadãos torna-se príncipe - Maquiavel: capítulo IX - Do principado civil. Mas, na mesma década este mesmo príncipe, perde o poder por outros meios. Maquiavel dedica os capítulos VIII a este assunto. "Há duas maneiras de tomar-se príncipe e que não se podem atribuir totalmente à fortuna ou ao mérito... chegar ao principado pela maldade, por vias celeradas, contrárias a todas as leis humanas ...”.</p></p>
+<p><p>O príncipe deposto recupera o poder devido ao próprio valor e o bom emprego da oportunidade. “Moisés encontra o povo de Israel, no Egito, escravizado e oprimido pelos egípcios, a fim de que, para se liberar da escravidão, dispusesse a segui-lo –Maquiavel.). Encontrou o seu povo saindo de um processo de opressão e escravidão política (eleições indiretas e biônica), disposto a segui-lo para escapar da servidão "Portanto, era necessário a divinas; e tomar-se príncipe por mercê do favor de seus conterrâneos...". Já com intuito de criar um herdeiro político e não uma herança política, abstém-se apoiar um súdito em uma contenda política, permitindo a chegada ao reinado de um novo cidadão que, mais pelo favor dos poderosos e, pela abstenção do povo, torna-se o novo príncipe.</p></p>
+<p><p>Mas, o preterido nunca perdoaria a ofensa praticada pelo governante, que tirou o seu bem (a oportunidade de ser príncipe), e deixou-o sem reinado. "Deve, sobretudo abster-se de se aproveitar dos bens dos outros, porque os homens esquecem mais depressa a morte do país do que a perda de seu mandato” – Maquiavel)</p></p>
+<p><p>A natureza da politica resvala necessariamente numa realidade humana caracterizada por um jogo de interesse, onde o poder, sua aquisição e manutenção e o objetivo primordial do príncipe (o político). Maquiavel deixa bem claro, que essas qualidades não seriam justas "se todos os homens fossem bons", mas como eles são maus e não mantém a palavra, não se está obrigado a agir de boa fé. Sendo a má fé e a perversidade variáveis sempre presente nas relações de poder, o bom político não deverá temer a acusação de crueldade.</p></p>
+<p><p>Maquiavel reporta que, enquanto a tropa opositora comandada pelo cidadão vindo do interior do reinado (mesorregião – São Francisco-Sertão-Agreste) e, apoiado por outro reinado (Brasília) estiver distante do portão da cidade (data da convenção e da eleição), os súditos são leais ao príncipe detentor do poder. Mas, fortalecido com adesões de novas tropas (lideranças e partidos) na caminhada para o centro do poder, o cidadão ao ser avistado causa instabilidade e tumulto no reino. Os súditos por não encontrarem dialogo (voz) com os mandatários do poder, iniciam a saída (deserção, debandada e desembarque) do reinado (alianças e partidos ), permanecendo fiel, (leal) ao mandatário, somente aqueles que nos seus discursos, transmitem a mensagem (“...reconduzir ao cargo...”, “...estamos conversando...”, “...vai engrandecer...” entre outras manifestações públicas).</p></p>
+<p><p>Portanto, em Pernambuco, os últimos acontecimentos publicizados e propagados pelos quatro cantos do reino sobre as perdas de feudos (partidos) e, saídas de vassalos (dirigentes partidários) de um principado para outro, demonstra surgimento de um novo príncipe no reino ? Sim ou Não? (Albert Hirschman – Saída, Voz e Lealdade – Declínio de uma organização).</p></p>
+{% endraw %}

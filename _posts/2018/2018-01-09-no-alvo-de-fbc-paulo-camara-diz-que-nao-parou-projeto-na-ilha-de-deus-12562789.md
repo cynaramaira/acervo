@@ -1,0 +1,33 @@
+---
+id: 12562789
+date: "2018-01-09T10:17:09Z"
+last_modified_at: null
+tags:
+  - "a-ilha"
+  - "naomi-campbell"
+  - "paulo-camara"
+  - "projeto"
+categories:
+  - "noticias"
+title: "No alvo de FBC, Paulo C\u00e2mara diz que n\u00e3o parou projeto na Ilha de Deus"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/01/ilha-de-deus.jpg"
+---
+{% raw %}
+<p><p>Após a <a href="https://blogs.ne10.uol.com.br/jamildo/2018/01/07/em-video-fbc-nega-paulo-camara-como-continuidade-de-eduardo/">acusação do senador Fernando Bezerra Coelho (PMDB) de que o governador Paulo Câmara (PSB) interrompeu o projeto do padrinho político, Eduardo Campos (PSB)</a>, para afastar a imagem dos dois, coube à Secretaria de Planejamento e Gestão (Seplag) defender o chefe do Executivo. <a href="https://blogs.ne10.uol.com.br/jamildo/2018/01/05/fbc-vai-ilha-de-deus-para-mostrar-inoperancia-de-paulo-camara/">FBC foi à Ilha de Deus, comunidade que foi urbanizada no governo Eduardo</a>. A pasta negou que tenha havido uma interrupção das ações na comunidade e afirmou que R$ 3,5 milhões foram investidos com Paulo.</p></p>
+<p><h3>Leia a nota:</h3></p>
+<p><p>Em relação a notícias veiculadas recentemente acerca da Ilha de Deus, a Secretaria de Planejamento e Gestão de Pernambuco (Seplag) esclarece que não é verdadeira a afirmação de que o projeto está paralisado desde 2015. E informa que o Governo do Estado investiu, desde 2007, mais de R$ 80 milhões no projeto de urbanização daquela comunidade. Desse total, cerca de R$ 3,5 milhões foram gastos pelo governo Paulo Câmara nesta reta final do projeto, tanto em obras quanto em serviços.</p></p>
+<p><p>Todos os processos na Ilha de Deus foram conduzidos com intensa participação popular. Foram entregues a Ponte Vitória das Mulheres; a Escola Municipal; o Posto de Saúde; pavimentação das ruas; a Igreja Aprisco de Deus; novas sedes para as ONGs Ação Comunitária Caranguejo Uçá e Centro Educacional Saber Viver. O Espaço das Poupadoras foi entregue em abril de 2015 e o Espaço das Pescadeiras, em novembro daquele ano. Das 369 unidades habitacionais previstas, 362 já foram entregues.</p></p>
+<p><p>O governo tenta ainda viabilizar três equipamentos sociais que ficaram inconclusos. Tratativas estão sendo feitas para que a creche seja viabilizada em parceria com a Prefeitura do Recife, enquanto que a quadra esportiva ainda aguarda a regularização do terreno junto à Secretaria de Patrimônio da União (SPU). Já o Centro de Beneficiamento de Pescado aguarda alterações na planta arquitetônica e se busca recursos junto a instituições de fomento para sua equipagem.</p></p>
+<p><p>Sobre a presença de artesãs da Ilha na Fenearte, elas têm participado de todas as edições da feira, inclusive em 2017, com as artesãs do grupo Mulher Virtuosa.</p></p>
+<p><p>Muito mais do que obras de pedra e cal, o projeto de urbanização da Ilha de Deus trouxe dignidade e cidadania aos mais de mil moradores. A comunidade de pescadores e marisqueiras deixou de ser um lugar isolado e marginalizado para se transformar em um lugar melhor para se viver, com mais infraestrutura e serviços, em que o poder público se faz presente e dialoga com a comunidade. A Ilha, inclusive, é assistida por videomonitoramento pela Secretaria de Defesa Social, trabalho que tem conseguido reduzir significativamente os índices locais de violência.</p></p>
+<p><p>Muitas das ações desenvolvidas pelo Governo do Estado na Ilha de Deus foram feitas por meio de convênios com organizações não governamentais (ONGs). A ONG Centro Educacional Saber Viver, citada nas matérias, foi apenas uma das organizações conveniadas e apenas ela apresentou problemas na prestação de contas. As demais - uma delas também oriunda da própria comunidade - executaram seus planos de trabalho e prestaram contas dentro dos padrões legais exigidos.</p></p>
+<p><p>A ONG Saber Viver assinou, em 2013, dois convênios totalizando cerca de R$ 320 mil a fim de viabilizar a criação de um polo esportivo de remo e canoagem e o fomento a atividades socioculturais e esportivas para crianças e jovens da Ilha de Deus. Até hoje, porém, a instituição não atendeu às exigências legais e não conseguiu comprovar a utilização dos recursos repassados. Dos R$ 320 mil conveniados, a Saber Viver recebeu efetivamente e não comprovou a utilização de R$ 168 mil (R$ 258,96 mil em valores corrigidos).</p></p>
+<p><p>As irregularidades foram constatadas pela Seplag ao longo da vigência dos convênios. Desde então, tem realizado reuniões de esclarecimento e emitido ofícios solicitando soluções para as pendências, concedendo amplas oportunidades de defesa. A prestação de contas da Saber Viver possui diversos itens pendentes, em desacordo com o Decreto nº 39.376/2013 e com a Portaria SCGE nº 55/2013.</p></p>
+<p><p>Os indícios de dano à administração pública levou o Tribunal de Contas do Estado (TCE) a determinar a instauração de tomada de contas especial, iniciada em maio de 2017 pela Seplag. Entre as irregularidades constatadas estão saques com cheques avulsos e sem comprovação; ausência de atesto em recibos de pagamentos realizados a pessoas físicas e em frequências de colaboradores e de alunos; ausência de contratos firmados com fornecedores; e a realização de pagamentos em dinheiro sem comprovação bancária.</p></p>
+<p><p>Ao longo de todo o processo de tomada de contas especial, a Saber Viver foi intransigente e não demonstrou interesse em atender ao que determina a legislação. A própria ONG sugeriu o parcelamento em defesa apresentada já em agosto de 2017. O requerimento solicitando o parcelamento, contudo, só foi protocolado na Seplag na tarde desta segunda-feira (8/01), fato que ratifica o reconhecimento das não conformidades no processo de execução e prestação de contas dos referidos convênios.</p></p>
+<p><p>É importante ressaltar que, desde o início, a Saber Viver não aceitou o acompanhamento e orientação da consultoria contratada pela Seplag para fazer a gestão social do projeto. Foram várias as tentativas de diálogo todos esses anos, tanto por meio dos consultores quanto por meio de representantes da secretaria.</p></p>
+<p><p>A fase atual da tomada de contas especial se encerra no dia 22 de fevereiro de 2018 no âmbito da Seplag. Caso o eventual dano apurado não seja regularizado, o processo será remetido para a Secretaria da Controladoria Geral do Estado (SCGE) e, posteriormente, ao TCE. Todo o processo tem sido conduzido com transparência e com o devido cuidado e respeito à coisa pública e à comunidade da Ilha de Deus.</p></p>
+{% endraw %}

@@ -1,0 +1,29 @@
+---
+id: 15170702
+date: "2023-01-31T16:51:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "indios"
+categories:
+  - "sem-categoria"
+title: "Setor empresarial repudia a crise humanit\u00e1ria no territ\u00f3rio Yanomami"
+sutia: "O setor produtivo brasileiro reafirmou seu compromisso com um modelo produtivo que respeite a vida, as pessoas e o meio ambiente"
+chapeu: "quest\u00e3o indigena"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/01/22/fnatph4x0aaz6sn-22328709.jpeg"
+---
+{% raw %}
+<p>O <strong>Conselho Empresarial Brasileiro para o Desenvolvimento Sustent&aacute;vel</strong> (CEBDS), entidade que representa mais de 100 empresas - cujos faturamentos somados equivalem a quase 50% do PIB brasileiro -, repudiou a<strong> grave crise humanit&aacute;ria que vive o povo ind&iacute;gena Yanomami.</strong></p>
+<p>"As atividades ilegais e criminosas que ocorrem dentro da reserva v&ecirc;m impactando diretamente na forma de vida dos ind&iacute;genas, que registram casos de mal&aacute;ria e desnutri&ccedil;&atilde;o severa em adultos e, principalmente, crian&ccedil;as".</p>
+<p>De acordo com a entidade, os Yanomami vivem h&aacute; centenas de anos neste territ&oacute;rio, que se tornou a maior terra ind&iacute;gena em extens&atilde;o territorial do Brasil. Mas, ap&oacute;s 30 anos da demarca&ccedil;&atilde;o, a &aacute;rea passa pelo pior cen&aacute;rio de devasta&ccedil;&atilde;o socioambiental, com mortes e o avan&ccedil;o de atividades ilegais em uma reserva que deveria ser protegida. Vale lembrar que os territ&oacute;rios ind&iacute;genas s&atilde;o apontados por estudos como as &aacute;reas de maior preserva&ccedil;&atilde;o da Amaz&ocirc;nia, protegendo uma grande &aacute;rea florestal do avan&ccedil;o do desmatamento.</p>
+<p>"Desde 2021, quando lan&ccedil;amos o Posicionamento do Setor Empresarial sobre a Amaz&ocirc;nia, refor&ccedil;amos a import&acirc;ncia da atua&ccedil;&atilde;o do poder p&uacute;blico na aplica&ccedil;&atilde;o da lei e no combate &agrave; ilegalidade de qualquer natureza na regi&atilde;o amaz&ocirc;nica, com planos nacionais e estaduais que refor&ccedil;assem as a&ccedil;&otilde;es de comando e controle e o fortalecimento dos &oacute;rg&atilde;os fiscalizadores, com r&aacute;pida responsabiliza&ccedil;&atilde;o contra aqueles que praticam il&iacute;citos".</p>
+<p>"O quadro a que a sociedade brasileira foi apresentada nos &uacute;ltimos dias indica s&eacute;rias viola&ccedil;&otilde;es aos direitos humanos desses povos, o que exige a&ccedil;&atilde;o r&aacute;pida para salvar vidas e evitar danos maiores".</p>
+<p>"Al&eacute;m disso, vencer a crise humanit&aacute;ria que afeta o povo ind&iacute;gena &eacute;, al&eacute;m de urgente, necess&aacute;rio para a preserva&ccedil;&atilde;o da cultura dos povos origin&aacute;rios, da floresta e tamb&eacute;m da imagem do Brasil perante o mundo. Um pa&iacute;s que pretende ser protagonista global n&atilde;o pode compactuar com o que ocorre na terra Yanomami, fruto da a&ccedil;&atilde;o de criminosos e da aus&ecirc;ncia de a&ccedil;&atilde;o do Estado brasileiro".</p>
+<p>O setor produtivo brasileiro reafirmou seu compromisso com um modelo produtivo que respeite a vida, as pessoas e o meio ambiente e ressalta a import&acirc;ncia de promover o desenvolvimento sustent&aacute;vel para que o Brasil possa exercer seu papel de lideran&ccedil;a na nova economia global.</p>
+<h2>Mais de 60 organiza&ccedil;&otilde;es repudiam a fala desumana do governador Ant&ocirc;nio Denarium sobre o povo Yanomami</h2>
+<p>As pastorais e os movimentos sociais de Roraima divulgaram nesta segunda-feira, 30, uma nota onde repudiam o &ldquo;posicionamento na fala desumana e leviana&rdquo; do governador de Roraima, Ant&ocirc;nio Denarium (PP), sobre o povo Yanomami, ao alegar que n&atilde;o existe desnutri&ccedil;&atilde;o e que &ldquo;... eles t&ecirc;m que se aculturar, n&atilde;o podem mais ficar no meio da mata, parecendo bicho&rdquo;. O posicionamento do governador do estado de Roraima se deu em entrevista ao Jornal Folha de S&atilde;o Paulo, publicada em 30 de janeiro de 2023.</p>
+<p><br />No documento as organiza&ccedil;&otilde;es signat&aacute;rias &agrave; Nota, destacam que diante da crise humanit&aacute;ria, levando a morte de 570 crian&ccedil;as de diversas comunidades impactadas diretamente pela pr&aacute;tica de garimpo ilegal, &ldquo;Denarium sancionou duas Leis em apoio ao garimpo em Roraima, em meio ao avan&ccedil;o na piora da sa&uacute;de Yanomami, portanto, &eacute; respons&aacute;vel por essa crise humanit&aacute;ria. &Eacute; respons&aacute;vel pelo genoc&iacute;dio Yanomami!&rdquo;.</p>
+<p><br />Os coment&aacute;rios s&atilde;o extremamente racistas, preconceituosos e desumanos, al&eacute;m de ser &ldquo;uma falta de respeito e sensibilidade neste momento em que v&aacute;rias v&iacute;timas Yanomami est&atilde;o morrendo por mal&aacute;ria, desnutri&ccedil;&atilde;o aguda entre outras doen&ccedil;as que poderiam ter sido evitadas&rdquo;. Tal posi&ccedil;&atilde;o se torna ainda mais grave diante da situa&ccedil;&atilde;o em que se encontram os povos ind&iacute;genas de Roraima, em especial dos Yanomami. Na oportunidade, tamb&eacute;m denunciam Denaruin e o ex-presidente Jair Bolsonaro, por violarem a Constitui&ccedil;&atilde;o Federal Brasileira e os direitos humanos.</p>
+<p><br />O Conselho Ind&iacute;gena de Roraima (CIR) e a Hutukara Associa&ccedil;&atilde;o Yanomami (HAY), ainda nesta segunda-feira, 30 de janeiro, tamb&eacute;m se posicionaram denunciando e repudiando a fala do governador Denarium &agrave; Folha de S&atilde;o Paulo.</p>
+{% endraw %}

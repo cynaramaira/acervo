@@ -1,0 +1,40 @@
+---
+id: 12572570
+date: "2018-08-22T16:00:51Z"
+last_modified_at: null
+tags:
+  - "apostas"
+  - "confusao"
+  - "contran"
+  - "deputado"
+  - "joelma"
+categories:
+  - "noticias"
+title: "Ap\u00f3s confus\u00e3o, OAB promete representa\u00e7\u00f5es contra o deputado Joel da Harpa e o comandante do 1\u00ba Biesp"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/08/OAB-Pernambuco-Desagravo-Cr\u00e9dito-Jorge-Greg\u00f3rio1.jpg"
+---
+{% raw %}
+<p><p>Realizado na manhã desta terça-feira (21) como forma de repúdio à prisão arbitrária de um advogado no exercício da profissão, no dia 5 de julho, o desagravo público da OAB Pernambuco em Caruaru acabou sendo palco de uma nova demonstração de abuso de poder por parte do 1º Batalhão Integrado Especializado de Policiamento (Biesp), sediado no município no Agreste do estado.</p></p>
+<p><p>Na visão da OAB, pouco antes de começar o ato, um representante da unidade policial impediu que fosse utilizado um equipamento de som que daria suporte à mobilização – que pacificamente reuniu centenas de advogados e advogados de várias partes do país, incluindo o presidente do Conselho Federal da OAB (CFOAB), Claudio Lamachia, o presidente da OAB-PE, Ronnie Preuss Duarte, a Diretoria da Seccional e da subseção Caruaru, representada pelo presidente Felipe Sampaio, e o desagravado Sávio Delano, entre outros.</p></p>
+<p><p>"Antes do início efetivo do ato, houve no local uma confusão envolvendo moradores e outros indivíduos não identificados, muitos já inflamados pela divulgação da falsa notícia de que a OAB estava propondo a remoção do Batalhão de Caruaru. O tumulto não foi ocasionado nem teve o envolvimento de nenhum profissional da advocacia, com exceção de um conselheiro da subseção, atingido por um ovo arremessado em seu rosto por um desconhecido".</p></p>
+<p><p>“Chegamos no local do desagravo e lá estavam alguns moradores e o deputado estadual Joel da Harpa instigando a população contra os profissionais da advocacia presentes, proferindo inverdade ao afirmar que o advogado Savio Delano estava armado quando da sua prisão irregular, o que não ocorreu, tanto que não constou do Boletim de Ocorrência registrado na ocasião. No que o tumulto começou, chamei os advogados para o lado oposto ao da manifestação, fui falar com o comandante para explicar qual o procedimento a ser seguido e um policial negou o acesso ao prédio e ao gestor. Quando fomos nos pronunciar, o mesmo policial informou que o comandante havia mandado desligar o carro de som, um atentado contra a nossa liberdade de reunião e expressão”, disse Ronnie Duarte.</p></p>
+<p><p>A determinação policial não atrapalhou a realização do ato. “Tentar impedir o desagravo dessa maneira foi algo sem precedentes. Determinaram o desligamento do equipamento de som, mas não conseguiram nos calar. O nosso posicionamento foi realizar a leitura do desagravo em um grande coro democrático e emocionante, com a participação de mais de 200 advogados e advogadas, que marcará para sempre a história da advocacia pernambucana”, disse Duarte.</p></p>
+<p><p>Para o presidente da OAB, houve uma movimentação para desacreditar a iniciativa da OAB e jogar a população contra a instituição.</p></p>
+<p><p>“Uma difusão criminosa e que terminou gerando um contratempo no local do desagravo, fruto de uma atitude insensata com a colaboração do deputado Joel da Harpa, o que representa quebra do decoro parlamentar”, disse.</p></p>
+<p><p>“Reconhecemos a importância do trabalho do 1º Biesp e a subseção da OAB em Caruaru participou das discussões para a sua instalação. Nosso ato não foi contra a corporação ou o batalhão, mas contra policiais que praticaram conduta abusiva contra um advogado. O desagravo público é para restabelecer a honra do advogado e para reparar uma mácula à sua imagem”, comentou Duarte.</p></p>
+<p><p>Por causa da atitude em frente à sede do 1º Biesp, a OAB Pernambuco prometeu entrar com representações contra o deputado estadual Joel da Harpa (Podemos) na Assembleia Legislativa e no Tribunal Regional Eleitoral de Pernambuco – no caso, pela inelegibilidade decorrente de sua expulsão dos quadros da Polícia Militar.</p></p>
+<p><p>A Ordem também entrará com representação junto à Secretaria Estadual de Defesa Social contra o comandante do 1º Biesp, que impediu a utilização do carro de som numa movimentação pacífica e previamente comunicada ao governo.</p></p>
+<p><p><img class="alignleft size-full wp-image-201513" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2018/08/OAB_Pernambuco-Desagravo-Crédito-Jorge-Gregório.jpg" alt="" width="750" height="410" /></p></p>
+<p><p>Mobilização dos advogados</p></p>
+<p><p>O desagravo público em Caruaru foi um dos maiores já realizados pela OAB Pernambuco. Estavam presentes o vice-presidente Leonardo Accioly, o secretário geral Fernando Ribeiro Lins, a secretária geral adjunta Ana Luiza Mousinho, a diretora tesoureira Silvia Nogueira, o presidente da Escola Superior de Advocacia de Pernambuco (ESA-PE) Carlos Neves, e o presidente da Caixa de Assistência dos Advogados de Pernambuco (Caape) Bruno Baptista.</p></p>
+<p><p>No local também estavam os conselheiros federais Adriana Rocha e Silvio Pessoa Júnior, o ex-presidente da OAB-PE Jaime Asfora, conselheiros estaduais, presidentes e representantes de todas as 25 subseções, diretores da ESA-PE e da Caape, presidentes e membros de comissões seccionais – entre elas, a Comissão de Defesa, Assistência e Prerrogativas (CDAP), presidida por Antonio Faria –, e muitos advogados da capital e do interior. O ato ainda contou com a participação do presidente em exercício da Comissão Nacional de Defesa das Prerrogativas e Valorização da Advocacia do CFOAB, Cássio Telles, da secretária Juliana Görtz e do membro Pedro Bruno Amorim e Vasconcelos.</p></p>
+<p><p>“Esse é um momento de união, de luta, que coloca a advocacia no lugar que ela merece. Não estamos discutindo simplesmente a advocacia, mas questões bem mais amplas, como o Estado Democrático de Direito. Nesse momento em que o país vive uma crise institucional, é importante reafirmarmos a importância da advocacia. Não podemos esquecer o nosso juramento: juramos honrar a Constituição Federal, juramos defender os direitos humanos, lutar por justiça social no nosso país. Não vamos nos acovardar. Advocacia é luta e está unida”, afirmou Sávio Delano.</p></p>
+<p><p>O presidente do CFOAB, Claudio Lamachia, veio a Pernambuco exclusivamente para o desagravo público. “O ato é muito importante no âmbito da Ordem dos Advogados do Brasil, mas tem relevância capital para toda a sociedade brasileira. O advogado é a voz e fala em juízo e nome de todo cidadão brasileiro. O desrespeito à nossa profissão e às prerrogativas é também um desrespeito ao próprio cidadão que representamos”, pontuou.</p></p>
+<p><p>Lamachia destacou que a realização do ato não é um enfrentamento à corporação.</p></p>
+<p><p>“Os policiais militares não estão em xeque, mas aqueles que agiram fora da lei. Não podemos aceitar que aqueles que são pagos pelo erário público, que têm a função de cumprir e fazer cumprir a lei, sejam os primeiros a descumpri-la. O que fizeram com o colega hoje desagravado é inaceitável. Ele foi conduzido de forma arbitrária. Os policiais confundiram autoridade com autoritarismo e isto é inaceitável no Estado Democrático de Direito”, concluiu.</p></p>
+<p><p>Segundo a OAB, o desagravo público foi em desfavor dos policiais militares Lindinaldo Arnaldo da Silva, Lucas Cristaldo dos Santos Neves, Antônio Jose Cavalcanti Junior, Ricardo Jorge da Silva, Evandro Carlos de Miranda, Jonata Carlos A. Feitosa e Antônio Barbosa de Oliveira.</p></p>
+<p><p>Todos eles são lotados no 1º Biesp e estão envolvidos na prisão do advogado Sávio Delano no dia 5 de julho.</p></p>
+{% endraw %}

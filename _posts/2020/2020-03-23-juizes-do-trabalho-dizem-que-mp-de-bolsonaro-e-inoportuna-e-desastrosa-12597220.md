@@ -1,0 +1,28 @@
+---
+id: 12597220
+date: "2020-03-23T14:07:52Z"
+last_modified_at: null
+tags:
+  - "bolsonaro"
+  - "segunda-chamada"
+  - "trabalho"
+categories:
+  - "noticias"
+title: "Ju\u00edzes do trabalho dizem que MP de Bolsonaro \u00e9 'inoportuna e desastrosa' e chama gest\u00e3o de 'omissa'"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/03/bolsonaro-coletiva-coronavirus-7-nandetta.jpg"
+---
+{% raw %}
+<p><p>Veja a nota pública, assinada  pela presidente da ANAMATRA, Noemia Porto</p></p>
+<p><p>A ANAMATRA – Associação Nacional dos Magistrados da Justiça do Trabalho -, representativa de quase 4 mil magistrados e magistradas do Trabalho de todo o Brasil, vem a público manifestar seu veemente e absoluto repúdio à Medida Provisória nº 927/2020, que dispõe sobre “medidas trabalhistas” a serem adotadas durante o período da pandemia Covid-19 (“coronavírus”).</p></p>
+<p><p>1. Na contramão de medidas protetivas do emprego e da renda que vêm sendo adotadas pelos principais países atingidos pela pandemia – alguns deles situados no centro do capitalismo global, como França, Itália, Reino Unido e Estados Unidos-, a MP nº 927, de forma inoportuna e desastrosa, simplesmente destrói o pouco que resta dos alicerces históricos das relações individuais e coletivas de trabalho, impactando direta e profundamente na subsistência dos trabalhadores, das trabalhadoras e de suas famílias, assim como atinge a sobrevivência de micro, pequenas e médias empresas, com gravíssimas repercussões para a economia e impactos no tecido social.</p></p>
+<p><p>2. Em pleno contexto de tríplice crise - sanitária, econômica e política , a MP nº 927 lança os trabalhadores e as trabalhadoras à própria sorte. Isso acontece ao privilegiar acordos individuais sobre convenções e acordos coletivos de trabalho, violando, também, a Convenção nº 98 da Organização Internacional do Trabalho (OIT). A medida, outrossim, torna inócua a própria negociação, ao deixar a critério unilateral do empregador a escolha sobre a prorrogação da vigência da norma coletiva. Afirma-se a possibilidade de se prolongar a suspensão do contrato de trabalho por até quatro meses, sem qualquer garantia de fonte de renda ao trabalhador e à trabalhadora, concedendo-lhes apenas um “curso de qualificação”, que dificilmente poderão prestar em quarentena, e limitando-se a facultar ao empregador o pagamento de uma ajuda de custo aleatória, desvinculada do valor do salário-mínimo. A norma, outrossim, suprime o direito ao efetivo gozo de férias, porque não garante, a tempo e modo, o adimplemento do 1/3 constitucional. Também como se fosse possível institucionalizar uma “carta em branco” nas relações de trabalho, a referida MP obstaculiza a fiscalização do trabalho, conferindo-lhe natureza meramente “orientadora”.</p></p>
+<p><p>3. Ao apenas pedir o sacrifício individual das pessoas que necessitam do trabalho para viver, a MP nº 927 indica que soluções que impliquem em pactos de solidariedade não serão consideradas, tais como a taxação sobre grandes fortunas, que tem previsão constitucional; a intervenção estatal para redução dos juros bancários, inclusive sobre cartão de crédito, que também tem resguardo constitucional; a isenção de impostos sobre folha de salário e sobre a circulação de bens e serviços, de forma extraordinária, para desonerar o empregador.</p></p>
+<p><p>4. A Medida Provisória nº 927 retira dos trabalhadores e das trabalhadoras as condições materiais mínimas para o enfrentamento do vírus e para a manutenção de básicas condições de subsistência e de saúde. E, na contramão do que seria esperado neste momento, não promove qualquer desoneração da folha ou concessão tributária – com a exata e única exceção do FGTS, parte integrante do salário. Há omissão, que se converte em silêncio injustificável, quanto à proteção aos trabalhadores e às trabalhadoras informais. É notável a desconsideração sobre a justiça e a progressividade tributárias. Ademais, a forte, e necessária participação estatal, assumindo parte dos salários, não aparece como solução.</p></p>
+<p><p>5. As inconstitucionalidades da Medida Provisória nº 927 são patentes. A Constituição de 1988 deve ser invocada sobretudo nos momentos de crise, como garantia mínima de que a dignidade dos cidadãos e das cidadãs não será desconsiderada. A Constituição confere à autonomia negocial coletiva, e aos sindicatos, papel importante e indispensável de diálogo social, mesmo, e mais ainda, em momentos extraordinários. Estabelece a irredutibilidade salarial e a garantia do salário-mínimo como direitos humanos. Adota o regime de emprego como sendo o capaz de promover a inclusão social. Insta ao controle de jornada como forma de preservação do meio ambiente laboral, evitando que a exaustão e as possibilidades de auto e de exploração pelo trabalho sejam fatores de adoecimento físico e emocional.</p></p>
+<p><p>6. A presente crise não pode, em absoluto, justificar a adoção de medidas frontalmente contrárias às garantias fundamentais e aos direitos dos trabalhadores. Impor a aceitação dessas previsões, sob o argumento de que ficarão todos desempregados, não é condizente com a magnitude que se espera do Estado brasileiro. Os poderes constituídos – Executivo, Legislativo e Judiciário - e a sociedade civil são corresponsáveis pela manutenção da ordem constitucional. Em momentos como o presente é que mais se devem reafirmar as conquistas e salvaguardas sociais e econômicas inscritas, em prol da dignidade da pessoa humana e do trabalhador e da trabalhadora, do desenvolvimento sócio-econômico e da paz social.</p></p>
+<p><p>Brasília, 23/03/2020.</p></p>
+<p><p>&nbsp;</p></p>
+{% endraw %}

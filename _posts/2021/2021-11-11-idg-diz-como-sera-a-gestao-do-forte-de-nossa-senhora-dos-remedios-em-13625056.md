@@ -1,0 +1,32 @@
+---
+id: 13625056
+date: "2021-11-11T18:04:00Z"
+last_modified_at: null
+tags:
+  - "turismo"
+  - "fernando-de-noronha"
+categories:
+  - "sem-categoria"
+title: "IDG diz como ser\u00e1 a gest\u00e3o do Forte de Nossa Senhora dos Rem\u00e9dios, em Noronha"
+sutia: "Blog de Jamildo informou resultado da licita\u00e7\u00e3o nesta ter\u00e7a-feira"
+chapeu: "Para\u00edso"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2020/06/11/fernando_de_noronha-8192390.jpg"
+---
+{% raw %}
+<p><a href="https://jc.ne10.uol.com.br/blogs/jamildo/2021/11/13623680-grupo-do-museu-do-amanha-rj-vence-licitacao-para-explorar-forte-nossa-senhora-dos-remedios-em-noronha.html" target="_blank" rel="noopener noreferrer">Ricardo Piquet, diretor presidente do Instituto de Desenvolvimento e Gest&atilde;o (IDG), entidade que integra o cons&oacute;rcio vencedor do leil&atilde;o para escolha do futuro gestor do Forte e gestora do Museu do Amanh&atilde;, no Rio de Janeiro, e do Pa&ccedil;o do Frevo, no Recife, informou ao blog, nesta quinta-feira, que no Forte de Nossa Senhora dos Rem&eacute;dios, localizado em Fernando de Noronha, ser&aacute; implantado um complexo de entretenimento com foco na cultura, hist&oacute;ria e preserva&ccedil;&atilde;o do meio ambiente.</a></p>
+<p>Tamb&eacute;m fazem parte do cons&oacute;rcio as empresas pernambucanas Dix Empreendimentos, que tem &agrave; frente o empres&aacute;rio Manoel Ferreira, e a Pent&aacute;gono Investimentos, comandada pelo empres&aacute;rio Luiz Priori.</p>
+<p>&ldquo;&Eacute; uma oportunidade de entregar para os moradores de Noronha e para os turistas que frequentam a ilha um complexo cultural e arquitet&ocirc;nico que resgata parte da nossa Hist&oacute;ria. Al&eacute;m disso, o projeto estar&aacute; respeitosamente integrado &agrave; quest&atilde;o da preserva&ccedil;&atilde;o ambiental, assunto t&atilde;o caro a todos que amam Fernando de Noronha.&rdquo;, afirma Piquet.</p>
+<p>O edital prev&ecirc; a cess&atilde;o da gest&atilde;o do forte pelo per&iacute;odo de 10 anos, dentro de rigorosos par&acirc;metros de uso.</p>
+<p>O projeto do cons&oacute;rcio prev&ecirc; a realiza&ccedil;&atilde;o de atividades culturais, como exposi&ccedil;&otilde;es, apresenta&ccedil;&otilde;es de artes c&ecirc;nicas - teatro e dan&ccedil;a -, concertos e outros.</p>
+<p>O grupo vencedor do leil&atilde;o avalia incluir na programa&ccedil;&atilde;o atividades s&oacute;cio-educacionais voltadas para o p&uacute;blico infantil. Al&eacute;m de instalar no local estruturas de alimenta&ccedil;&atilde;o para atender aos visitantes.</p>
+<p>A popula&ccedil;&atilde;o noronhense ter&aacute; livre acesso ao local.</p>
+<p>&ldquo;Temos seis meses para apresentar um projeto museol&oacute;gico ao Iphan, mas nossa meta &eacute; entregar a documenta&ccedil;&atilde;o bem antes desse prazo" diz Manoel Ferreira Neto, da Dix Empreendimentos.</p>
+<p>&ldquo;Uma das ideias que queremos desenvolver &eacute; a de melhorar a acessibilidade ao forte, construindo um elevador funicular. Por&eacute;m, &eacute; importante lembrar que tudo ser&aacute; avaliado pelo IPHAN e pelas autoridades de preserva&ccedil;&atilde;o ambiental&rdquo;, destaca Luiz Priori, da Pent&aacute;gono Investimentos.</p>
+<p>O Forte &eacute; tombado pelo IPHAN e o maior entre as 11 fortifica&ccedil;&otilde;es existentes na ilha. Ele foi reformado pelo IPHAN e ser&aacute; aberto ao p&uacute;blico assim que se completarem as etapas determinadas pelo edital. Foi constru&iacute;do sobre as ru&iacute;nas de uma antiga posi&ccedil;&atilde;o holandesa, abandonada ap&oacute;s a capitula&ccedil;&atilde;o do Campo do Taborda (Recife) em 1654.</p>
+<p>Serviu de ponto de apoio &agrave;s embarca&ccedil;&otilde;es portuguesas no per&iacute;odo auge das rotas de a&ccedil;&uacute;car e ouro do Brasil para Portugal. Ele tem cerca de 6.300 m2 e fica a 45 metros acima do n&iacute;vel do mar, sobre uma colina, entre o Porto de Santo Ant&ocirc;nio e a Praia do Cachorro.</p>
+<p>O IDG &ndash; Instituto de Desenvolvimento e Gest&atilde;o &eacute; uma organiza&ccedil;&atilde;o sem fins lucrativos especializada em gerir centros culturais p&uacute;blicos e programas ambientais e tamb&eacute;m atua em consultorias para empresas privadas e na execu&ccedil;&atilde;o, desenvolvimento e implementa&ccedil;&atilde;o de projetos culturais e ambientais. Responde atualmente pela gest&atilde;o do Museu do Amanh&atilde;, no Rio de Janeiro, Pa&ccedil;o do Frevo, em Recife, como gestor operacional do Fundo da Mata Atl&acirc;ntica e como realizador das a&ccedil;&otilde;es de conserva&ccedil;&atilde;o e consolida&ccedil;&atilde;o do s&iacute;tio arqueol&oacute;gico do Cais do Valongo, na regi&atilde;o portu&aacute;ria do Rio de Janeiro. Tamb&eacute;m &eacute; respons&aacute;vel pela implementa&ccedil;&atilde;o da museografia do Memorial do Holocausto, a ser inaugurado em 2022 no Rio de Janeiro. Saiba mais em www.idg.org.br.</p>
+<p>A Pent&aacute;gono &eacute; uma empresa de investimentos em participa&ccedil;&otilde;es de empresas nos setores imobili&aacute;rio e energia.</p>
+<p>A empresa &eacute; controlada pelo empres&aacute;rio pernambucano Luiz Priori, que foi s&oacute;cio do Fundo de Investimentos P&aacute;tria e desenvolveu empresa na &aacute;rea de metais em parceria com a americana Alcoa.<br />Hoje o empres&aacute;rio tem participa&ccedil;&otilde;es em projetos de energia solar junto com a empresa espanhola Solatio e desenvolve projetos imobili&aacute;rios no Nordeste.</p>
+<p>A DIX Empreendimentos Ltda, uma empresa pertencente a holding Agemar Infraestrutura e Log&iacute;stica, Empresa com mais de 35 anos de atua&ccedil;&atilde;o, &eacute; especializada em administra&ccedil;&atilde;o, opera&ccedil;&atilde;o, explora&ccedil;&atilde;o comercial e constru&ccedil;&atilde;o de aeroportos regionais pelo Brasil. Vislumbrando o crescimento da avia&ccedil;&atilde;o regional, desde o ano de 2006 vem atuando na gest&atilde;o de Aeroportos tur&iacute;sticos, como o da Ilha de Fenando de Noronha e das paias de Jericoacoara e Canoa Quebrada. Recentemente participou do leil&atilde;o do bloco Noroeste dos Aeroportos de S&atilde;o Paulo, onde em cons&oacute;rcio sagrou-se vencedora, somando-se assim mais 11 equipamentos em seu acervo. Saiba mais em www.agemar.com.br l @agemaroficial.<br /></p>
+{% endraw %}

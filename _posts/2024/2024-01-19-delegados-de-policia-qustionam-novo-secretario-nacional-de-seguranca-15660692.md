@@ -1,0 +1,23 @@
+---
+id: 15660692
+date: "2024-01-19T13:21:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "seguranca-publica"
+categories:
+  - "sem-categoria"
+title: "Delegados de pol\u00edcia qustionam novo Secret\u00e1rio Nacional de Seguran\u00e7a P\u00fablica sobre cria\u00e7\u00e3o de Gaeco nacional"
+sutia: "Entidade diz que iniciativa pode criar desarmonia entre os v\u00e1rios atores da \u00e1rea de seguran\u00e7a"
+chapeu: "atritos na sa\u00edda"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/01/19/unnamed-26130660.jpg"
+---
+{% raw %}
+<p>Nesta sexta feira, a Associa&ccedil;&atilde;o dos Delegados de Pol&iacute;cia do Brasil (ADEPOL DO BRASIL) fez um alerta ao novo Secret&aacute;rio Nacional de Seguran&ccedil;a P&uacute;blica, M&aacute;rio Sarrubbo. Eles falam que a &lsquo;cria&ccedil;&atilde;o de um GAECO nacional&rsquo; na esfera daquela secretaria ou Minist&eacute;rio &eacute; um ato de not&oacute;ria inconstitucionalidade"</p>
+<p>"A ADEPOL respeitosamente alerta ao novo Secret&aacute;rio Nacional de Seguran&ccedil;a P&uacute;blica (SENASP), M&aacute;rio Sarrubbo, para que conhe&ccedil;a melhor a estrutura, programas, limites e alcance de atua&ccedil;&atilde;o de sua pasta antes de anunciar nacionalmente perante a m&iacute;dia a ado&ccedil;&atilde;o de medidas de impacto, como &ldquo;cria&ccedil;&atilde;o de um GAECO nacional&rdquo; na esfera daquela secretaria ou Minist&eacute;rio, ato que mostrar-se-ia de not&oacute;ria inconstitucionalidade e que criaria s&eacute;rias desarmonias e conflitos com as v&aacute;rias institui&ccedil;&otilde;es policiais desde pa&iacute;s", afirmam.</p>
+<p>"&Eacute; sabido que a institui&ccedil;&atilde;o de Grupos de Apoio ao Enfrentamento ao Crime Organizado no &acirc;mbito dos Minist&eacute;rios P&uacute;blicos, sem adentrar no m&eacute;rito da efic&aacute;cia de tais estruturas, &eacute; iniciativa pr&oacute;pria de leis org&acirc;nicas e de iniciativa daqueles &oacute;rg&atilde;os, n&atilde;o sendo cab&iacute;vel tal iniciativa no &acirc;mbito de uma SENASP"</p>
+<p>"A Senasp deve zelar pela distribui&ccedil;&atilde;o de recursos &agrave;s institui&ccedil;&otilde;es policiais dos entes federados conforme norma do pr&oacute;prio Minist&eacute;rio da Justi&ccedil;a, promover integra&ccedil;&atilde;o com conselhos setoriais de Secret&aacute;rios de Seguran&ccedil;a P&uacute;blica, Chefes das Pol&iacute;cias Civis, Comandantes Gerais das Pol&iacute;cias Militares, promover programas estruturantes que congreguem as institui&ccedil;&otilde;es policiais e entidades representativas da sociedade civil como o recente Programa Nacional de Enfrentamento &agrave;s Organiza&ccedil;&otilde;es Criminosas (inclusive institucionalizado em portaria ministerial) dentre outras medidas inerentes &agrave; dimens&atilde;o desta importante pasta. Portanto, asseveramos que seria um enorme retrocesso &agrave; gest&atilde;o anterior ao se promover descontinuidade de boas e bem elaboradas medidas, programas e a&ccedil;&otilde;es bem discutidas e ainda em implementa&ccedil;&atilde;o, prejudicando a efici&ecirc;ncia de pol&iacute;ticas p&uacute;blicas diversas".</p>
+<p>"Como entidade de classe de &acirc;mbito nacional representativa da categoria dos Delegados de Pol&iacute;cia no Brasil e assim reconhecida pelo pr&oacute;prio Minist&eacute;rio da Justi&ccedil;a e Seguran&ccedil;a P&uacute;blica, a Adepol do Brasil tradicionalmente sempre se mostrou colaborativa com gest&otilde;es diversas deste minist&eacute;rio em diferentes Governos, de modo que nosso alerta tem car&aacute;ter construtivo e voltado &agrave; constru&ccedil;&atilde;o de uma seguran&ccedil;a p&uacute;blica harm&ocirc;nica e evolutiva, tal como recentemente ocorrido com a entrada em vigor das Leis Org&acirc;nicas Nacionais das Pol&iacute;cias Civis, das Pol&iacute;cias Militares e Bombeiros Militares".</p>
+<p>"Frisamos ser essencial que n&atilde;o sejam buscadas a&ccedil;&otilde;es que tentem afetar a boa harmonia e respeito m&uacute;tuo atualmente vigente entre as categorias da seguran&ccedil;a p&uacute;blica, legado este buscado pelos pr&oacute;prios segmentos e respeitado por v&aacute;rias representa&ccedil;&otilde;es do Minist&eacute;rio da Justi&ccedil;a e Seguran&ccedil;a P&uacute;blica e, acima de tudo, seja mantido di&aacute;logo continuo, equ&acirc;nime, politicamente isento, t&eacute;cnico, racional, respeitoso e republicano com nossa entidade nacional e demais representatividades da seguran&ccedil;a p&uacute;blica, conforme ocorrido na gest&atilde;o do Ministro Fl&aacute;vio Dino e do Dr. Tadeu Alencar".<br /></p>
+{% endraw %}

@@ -1,0 +1,44 @@
+---
+id: 13609589
+date: "2021-10-04T12:36:00Z"
+last_modified_at: null
+tags:
+  - "saude"
+categories:
+  - "sem-categoria"
+title: "Estudo sobre corrup\u00e7\u00e3o no setor de sa\u00fade em tempos de pandemia \u00e9 divulgado pelo Centro Mackenzie de Liberdade Econ\u00f4mica"
+sutia: "Artigo foi publicado na edi\u00e7\u00e3o especial da revista do Servi\u00e7o P\u00fablico, organizada pela Escola Nacional de Administra\u00e7\u00e3o P\u00fablica"
+chapeu: "Desvios na sa\u00fade"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/09/17/csm_precisamedicamentos_983ef5d63e-18815381.jpg"
+---
+{% raw %}
+<p>Os pesquisadores do Centro Mackenzie de Liberdade Econ&ocirc;mica (CMLE), Roberta Muramatsu e Paulo Rog&eacute;rio Scarano, da Universidade Presbiteriana Mackenzie (UPM), em colabora&ccedil;&atilde;o com Caroline Cipolla Bertan, funcion&aacute;ria do Minist&eacute;rio dos Transportes e Infraestrutura Digital na Alemanha, tiveram o artigo Making sense of health corruption in times of covid-19, publicado na Edi&ccedil;&atilde;o especial da Revista do Servi&ccedil;o P&uacute;blico, organizada pela Escola Nacional de Administra&ccedil;&atilde;o P&uacute;blica - Enap.</p>
+<p>A edi&ccedil;&atilde;o teve como tema a Escola da Escolha P&uacute;blica (Public Choice), com ensaios em Homenagem ao Prof. Jorge Vianna Monteiro.</p>
+<p>O artigo se prop&otilde;e a compreender a racionalidade da corrup&ccedil;&atilde;o e seu enraizamento no setor de sa&uacute;de brasileiro, aproveitando as excepcionalidades do ambiente de pandemia.</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[13609554,13609552,13609538,13609526,13609524,13609517,13609504,13609494,13609493,13609475,13609372],'cd_matia':'13609372','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/blogs/jamildo/2021/10/13609372-oposicao-vai-acionar-mpf-para-investigar-offshores-de-paulo-guedes.html">Oposição vai acionar MPF para investigar offshores de Paulo Guedes e Campos Neto</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/10/13609475-omar-aziz-nao-descarta-convocar-paulo-guedes-e-campos-neto-para-depor-na-cpi.html">Omar Aziz não descarta convocar Paulo Guedes e Campos Neto para depor na CPI</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/10/13609493-apos-ser-hostilizado-em-manifestacao-ciro-gomes-se-encontra-com-datena.html">Após ser hostilizado em manifestação, Ciro Gomes se encontra com Datena</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/10/13609494-agressividade-a-esquerda.html">Agressividade à esquerda</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/10/13609504-em-encontro-lula-e-paulo-camara-discutem-chapas-com-pt-e-psb.html">Em encontro, Lula e Paulo Câmara discutem chapas com PT e PSB</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/10/13609517-a-batalha-do-odio-e-da-mentira-por-gaudencio-torquato.html">A batalha do ódio e da mentira. Por Gaudêncio Torquato </a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/10/13609524-alberto-feitosa-continua-investindo-contra-vacinacao-e-defende-imunizacao-natural-no-brasil.html">Alberto Feitosa continua investindo contra vacinação e defende imunização natural no Brasil</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/10/13609526-o-que-dizem-as-centrais-sindicais-sobre-os-ataques-a-ciro-gomes.html">O que dizem as centrais sindicais sobre os ataques a Ciro Gomes</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/10/13609538-apos-tres-anos-petrobras-se-livra-de-acordo-com-o-departamento-de-justica-dos-eua-na-lava-jato.html">Após três anos, Petrobras se livra de acordo com o Departamento de Justiça dos EUA na Lava Jato</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/10/13609552-camara-municipal-do-recife-fara-ao-menos-mais-tres-audiencias-publicas-sobre-projeto-do-aeroclube.html">Câmara Municipal do Recife fará ao menos mais três audiências públicas sobre projeto do Aeroclube</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/10/13609554-finalmente-filme-marighella-deve-fazer-sua-estreia-nos-cinemas.html">Em cenário de polarização, filme 'Marighella' deve fazer sua estreia nos cinemas</a></li>
+        </ul>
+</div></tinymce></p>
+<p>Segundo os organizadores, o trabalho procura integrar as perspectivas te&oacute;ricas da Nova Economia Institucional, Teoria da Escolha P&uacute;blica e Escola Austr&iacute;aca de Economia, para proporcionar uma explica&ccedil;&atilde;o sobre os mecanismos causalmente relevantes relacionados ao fen&ocirc;meno da corrup&ccedil;&atilde;o no setor de sa&uacute;de.</p>
+<p>Segundo a professora Roberta Muramatsu, do Programa de P&oacute;s-Gradua&ccedil;&atilde;o Profissional em Economia e Mercados da UPM, o uso dessas teorias se d&aacute; por conta da an&aacute;lise ser mais voltada para a forma como o ambiente compreende o cenario da corrup&ccedil;&atilde;o, dando foco nas fraquezas do sistema e n&atilde;o na integridade dos indiv&iacute;duos.</p>
+<p>O objetivo do estudo &eacute; lan&ccedil;ar luz sobre os riscos de corrup&ccedil;&atilde;o que emergem das mudan&ccedil;as na legisla&ccedil;&atilde;o que regulamentaram o Regime Diferenciado de Contrata&ccedil;&atilde;o P&uacute;blica durante o estado de calamidade resultante da pandemia. "Tal legisla&ccedil;&atilde;o enfraqueceu as regras para licita&ccedil;&atilde;o e compras p&uacute;blicas, tornando o sistema de sa&uacute;de brasileiro mais vulner&aacute;vel &agrave; corrup&ccedil;&atilde;o", defendem.</p>
+<p>A profa. Muramatsu ent&atilde;o pontua que entre os riscos que essas medidas apresentam est&atilde;o o aumento da incerteza, a assimetria de informa&ccedil;&otilde;es e a redu&ccedil;&atilde;o da transpar&ecirc;ncia, desempenhando pap&eacute;is importantes no desencadeamento de pr&aacute;ticas corruptas, como suborno, propina, desvio de recursos, tr&aacute;fico de influ&ecirc;ncia e clientelismo.</p>
+<p>O estudo argumenta que dois mecanismos de corrup&ccedil;&atilde;o tomaram forma com intensidade. Em primeiro lugar, tem-se o rent-seeking, que, como observado pela professora Muramatsu, &eacute; uma esp&eacute;cie de "busca por renda de privil&eacute;gio".</p>
+<p>"No Brasil, &eacute; comum que grupos de interesse utilizem conex&otilde;es pol&iacute;ticas pouco transparentes para a obten&ccedil;&atilde;o de ganhos, em detrimento da sociedade, valendo-se de manipula&ccedil;&otilde;es do cen&aacute;rio social e econ&ocirc;mico", diz.</p>
+<p>Em segundo lugar, h&aacute; o empreendedorismo pol&iacute;tico predat&oacute;rio, que d&aacute; poder para uma autoridade assinar e se beneficiar das situa&ccedil;&otilde;es ali apresentadas, como no caso de compras de equipamentos ou forma&ccedil;&atilde;o de contratos com empresas, bem como inserir ou utilizar suas conex&otilde;es para benef&iacute;cio de um grupo espec&iacute;fico.</p>
+<p>O artigo usa ent&atilde;o os documentos e evid&ecirc;ncias apresentados pelo relat&oacute;rio da Comiss&atilde;o Especial COVID-19, da Assembleia Legislativa do Rio de Janeiro (ALERJ), para ilustrar o valor explanat&oacute;rio da abordagem te&oacute;rica proposta.</p>
+<p>A Comiss&atilde;o Especial investigou as irregularidades das contrata&ccedil;&otilde;es emergenciais do governo do Rio de Janeiro na &aacute;rea da sa&uacute;de. As evid&ecirc;ncias, apontadas no relat&oacute;rio sugerem atos corruptos de diversos servidores p&uacute;blicos, como o Secret&aacute;rio de Sa&uacute;de, o Secret&aacute;rio de Desenvolvimento Econ&ocirc;mico, empresas que aproveitaram a aus&ecirc;ncia de licita&ccedil;&otilde;es e at&eacute; figuras pol&iacute;ticas de alguns partidos. Tudo isso levou ao afastamento e impedimento do ex-Governador Wilson Witzel.</p>
+<p>Contudo, a professora Muramatsu ressalta que o Rio de Janeiro n&atilde;o foi o &uacute;nico estado e nem o &uacute;nico tipo de governo com problemas, visto que suspeitas semelhantes surgiram no governos de Santa Catarina e do Amazonas. As investiga&ccedil;&otilde;es da CPI da Pandemia, cujo relat&oacute;rio est&aacute; em vias de ser finalizado, apontam para um esc&acirc;ndalo federal.<br /></p>
+{% endraw %}

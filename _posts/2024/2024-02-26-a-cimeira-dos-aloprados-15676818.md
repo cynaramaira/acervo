@@ -1,0 +1,41 @@
+---
+id: 15676818
+date: "2024-02-26T08:24:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "opiniao"
+categories:
+  - "sem-categoria"
+title: "A cimeira dos aloprados"
+sutia: "O jornalista Ricardo Leit\u00e3o apela para uma par\u00f3dia para comentar os fatos pol\u00edticos nacionais, em seu mais novo artigo"
+chapeu: "opini\u00e3o"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/02/25/000_34ka2gm-26472158.jpg"
+---
+{% raw %}
+<p>Por Ricardo Leit&atilde;o, em artigo enviado ao blog de Jamildo<br /></p>
+<p>Local, data e hora secretos. Homens sentados no ch&atilde;o, em c&iacute;rculo, todos nus, para que n&atilde;o escondam equipamentos de grava&ccedil;&atilde;o nas roupas. Usam &oacute;culos escuros e, dessa forma, preservar&atilde;o o sigilo visual. Exig&ecirc;ncia da equipe de seguran&ccedil;a contratada na Sib&eacute;ria. L&iacute;der da cimeira, Caval&atilde;o toma a palavra:</p>
+<p>-Est&atilde;o todos aqui?</p>
+<p>-Tamandu&aacute; est&aacute; chegando. Foi ontem ao ensaio de um bal&ecirc; com coturno, fez uns calos e acordou tarde.</p>
+<p>-&Eacute; um idiota de pezinhos de mo&ccedil;a. Vamos come&ccedil;ar sem ele. Chame os outros.</p>
+<p>Sempre mal-humorado, nesse dia Caval&atilde;o piorou. Uma constipa&ccedil;&atilde;o que herdara de uma bisav&oacute; o impedira de comer uma buchada no caf&eacute; da manh&atilde;. Ainda assim, continuou:</p>
+<p>-Camaradas, o dia da Festa da Margarida est&aacute; chegando. N&atilde;o falta dinheiro para as despesas do pessoal nos port&otilde;es dos quart&eacute;is, nem para as viagens aos estados. Uma press&atilde;o aqui, outra acol&aacute;... a coisa est&aacute; indo. O problema continua sendo a pregui&ccedil;a de voc&ecirc;s!</p>
+<p>Surpreendidos com o berro de Caval&atilde;o, os homens nus se entreolharam, calados. O l&iacute;der continuou:</p>
+<p>-Ningu&eacute;m est&aacute; se empenhando da forma que foi planejada. Pensam que a coisa &eacute; assim? Tem que partir para cima, morder no pesco&ccedil;o. Se continuar desse jeito vou embora para o Afeganist&atilde;o. L&aacute; sou amigo do rei ou da rainha.<br /> <br />Caval&atilde;o deu um murro t&atilde;o forte no barro do ch&atilde;o que levantou poeira, ativando a rinite de dois aloprados al&eacute;rgicos. Um deles assoou o nariz e tentou se explicar. Era conhecido como Pre&aacute;:<br />-Estamos fazendo o poss&iacute;vel, mas &eacute; preciso andar com cuidado. J&aacute; tem gente presa, delator querendo falar. N&atilde;o temos seguran&ccedil;a nem com o pessoal que dizia estar do nosso lado. <br />-N&atilde;o interessa - explodiu Caval&atilde;o. Ou vai ou racha. Quero saber quem est&aacute; ou n&atilde;o est&aacute; comigo. Ou voc&ecirc;s acham que o memor&aacute;vel Adolfo Hitler conquistou o poder distribuindo chope com chucrute?<br /> <br />&Uacute;nico presente vestido, portando inclusive uma elegante gravata borboleta, o gar&ccedil;om se apressou em servir &aacute;gua, caf&eacute; e ch&aacute; de camomila. Veterano de outras reuni&otilde;es presididas por Caval&atilde;o, pressentiu que o clima azedava para os homens nus. Peixe Boi, assim chamado devido ao seu perfil redondo, tentou contemporizar:</p>
+<p>-Claro que estamos com o senhor. Ou n&atilde;o se lembra? N&atilde;o recuamos nem nos momentos mais dif&iacute;ceis, como na batalha contra as urnas eletr&ocirc;nicas fraudadas; no apoio aos camaradas que pediam a volta da ditadura e na luta contra os ju&iacute;zes de esquerda infiltrados nos tribunais.</p>
+<p>Peixe Boi tomou f&ocirc;lego e continuou:</p>
+<p>-Mas agora est&aacute; sendo diferente. O povo n&atilde;o chega junto, ao contr&aacute;rio do passado, quando a multid&atilde;o s&oacute; faltava beijar os tanques nas ruas.<br /> <br />Foi o suficiente para outra explos&atilde;o de Caval&atilde;o:</p>
+<p>-Beijar tanque na rua &eacute; coisa de tarado ou de boiola. Homem que &eacute; homem gosta &eacute; de tiroteio e de aranha frita com farofa de bol&atilde;o... mas o que &eacute; isso?</p>
+<p>Todos tamb&eacute;m se assustaram. Aproximando-se a passos mi&uacute;dos, completamente nu &ndash; a n&atilde;o ser os &oacute;culos escuros e os coturnos &ndash; Tamandu&aacute; buscava um espa&ccedil;o no c&iacute;rculo. Se desculpou pelo atraso e, inflando o peito, anunciou que estava &ldquo;pronto para a luta&rdquo;. Bateu contin&ecirc;ncia e se ajeitou no ch&atilde;o. S&oacute; n&atilde;o levou um tabefe de Caval&atilde;o porque Raposa impediu &ldquo;em nome da unidade da nossa causa&rdquo;.</p>
+<p>Cada vez mais tensa, a discuss&atilde;o n&atilde;o cessou. Tatu &ndash; por isso aplaudido &ndash; lembrou que &ldquo;a opini&atilde;o p&uacute;blica &eacute; um cheque sem fundo&rdquo; e que n&atilde;o deviam ser abandonadas as provid&ecirc;ncias para &ldquo;assegurar a ades&atilde;o das massas&rdquo; (era o te&oacute;rico pol&iacute;tico do grupo): congelamento do valor do sal&aacute;rio m&iacute;nimo; extin&ccedil;&atilde;o dos fins de semana e feriados; cria&ccedil;&atilde;o do Dia Nacional do Patriota, a ser comemorado em 8 de janeiro; aumento das passagens de &ocirc;nibus, de metr&ocirc; e de trem; de &aacute;gua, de luz, de g&aacute;s e de internet; privatiza&ccedil;&atilde;o dos sistemas p&uacute;blicos de educa&ccedil;&atilde;o, sa&uacute;de e seguran&ccedil;a; substitui&ccedil;&atilde;o das telenovelas por aulas de alem&atilde;o g&oacute;tico; mudan&ccedil;a nos telejornais, que passariam a apresentar as not&iacute;cias do dia anterior; fim do jogo do bicho e das quadrilhas de S&atilde;o Jo&atilde;o.</p>
+<p>No geral, os homens nus concordaram com as propostas do te&oacute;rico Tatu. Uns poucos, mais radicais, queriam tamb&eacute;m o fim dos campeonatos de futebol, do Carnaval e dos banhos de mar pela manh&atilde; e &agrave; tarde. Passariam a ser exclusivamente noturnos, com o pagamento de uma taxa de R$ 10,00 por mergulho. Decidiu-se reservar essas outras propostas para um segundo momento.</p>
+<p>Caval&atilde;o gostou e relinchou:</p>
+<p>-A nossa mais importante miss&atilde;o, agora, &eacute; conquistar o cora&ccedil;&atilde;o e as mentes, principalmente desses jornalistas financiados com o ouro de Belarus. Um bando de invertidos, mulheres que vestem azul e homens que vestem rosa, tentando confundir a forma&ccedil;&atilde;o crist&atilde; das nossas crian&ccedil;as.</p>
+<p>Caval&atilde;o continuou avermelhando, quase se erguendo do ch&atilde;o:</p>
+<p>-Est&atilde;o pensando o qu&ecirc;? Podem juntar emissoras de TV, de r&aacute;dio, jornais lotados de comunistas, serm&otilde;es de padres de passeata, tudo, que n&atilde;o ser&atilde;o p&aacute;reo para os her&oacute;is das nossas redes digitais. Esses sim, s&atilde;o os guardi&otilde;es da verdade.<br /> <br />O entusiasmo de Caval&atilde;o fez os homens nus se levantarem e o aplaudirem em del&iacute;rio, compondo uma inusitada cena porn&ocirc;-chic, de inapag&aacute;vel mem&oacute;ria. Recompostos e protegendo as diversificadas partes pudendas, os homens nus voltaram a se sentar. Ok. Ent&atilde;o, o que fazer para evitar o fracasso da Festa da Margarida?</p>
+<p>Caval&atilde;o chamou Cascavel e deu a ordem: &ldquo;Liga para o Galego e chama o Macaco para traduzir&rdquo;. Nem na s&eacute;tima tentativa o Galego atendeu. Esperta, a Galinha cochichou no ouvido do Pato: &ldquo;O Galego &eacute; vivo. J&aacute; concluiu que o Caval&atilde;o est&aacute; fora do jogo. Agora &eacute; cada um por si&rdquo;.</p>
+<p>Frustrado, o l&iacute;der dos homens nus encerrou a cimeira, sem antes alertar vigorosamente: &ldquo;Tudo o que foi tratado aqui &eacute; sigiloso. Quem falar alguma coisa l&aacute; fora vai ser procurado pelo pessoal da Sib&eacute;ria&rdquo;.</p>
+<p>Dito isso, Caval&atilde;o se ergueu, no que foi acompanhado pelos outros homens nus. Estendeu ent&atilde;o o seu bra&ccedil;o direito, na sauda&ccedil;&atilde;o nazista, e com os olhos lacrimejantes entoou a Internacional, o hino mais famoso dos revolucion&aacute;rios russos.</p>
+<p>Quando todos sa&iacute;ram, o gar&ccedil;om come&ccedil;ou a recolher x&iacute;caras e copos. Sorrindo, testou o equipamento escondido na gravata borboleta. Estava tudo gravado, em alto e bom som. Amanh&atilde;, Caval&atilde;o iria implodir de tanto relinchar.<br /></p>
+{% endraw %}

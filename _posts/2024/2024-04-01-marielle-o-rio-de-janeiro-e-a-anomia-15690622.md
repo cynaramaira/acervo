@@ -1,0 +1,27 @@
+---
+id: 15690622
+date: "2024-04-01T07:25:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "milicia"
+categories:
+  - "sem-categoria"
+title: "Marielle, o Rio de Janeiro e a anomia"
+sutia: "Investiga\u00e7\u00f5es indicam que Marielle foi morta por sua atua\u00e7\u00e3o contra um esquema de loteamentos de terra em \u00e1reas dominadas pela mil\u00edcia"
+chapeu: "opini\u00e3o/milicias"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/09/02/47387924051_a__d88923fee6_o-24180798.jpg"
+---
+{% raw %}
+<p>Por Rodrigo Augusto Prando, em artigo enviado ao blog de Jamildo<br /></p>
+<p>Ao que tudo indica, estamos chegando &agrave; resolu&ccedil;&atilde;o do crime que vitimou a vereadora Marielle Franco e seu motorista, Anderson Gomes.<br /></p>
+<p>J&aacute; se sabia quem havia executado o crime, faltava, por&eacute;m, os mandantes e a motiva&ccedil;&atilde;o. As investiga&ccedil;&otilde;es chegaram ao Supremo Tribunal Federal (STF) e l&aacute; foi homologada a dela&ccedil;&atilde;o premiada de Ronie Lessa, executor de Marielle. Nessa dela&ccedil;&atilde;o, foram implicados os irm&atilde;os Braz&atilde;o &ndash; Chiquinho (deputado federal) e Domingos (Conselheiro do Tribunal de Contas do Estado do Rio) &ndash;, al&eacute;m de Rivaldo Barbosa, que chefiava a Pol&iacute;cia Civil do Rio de Janeiro &agrave; &eacute;poca dos assassinatos.<br /></p>
+<p>No que tange &agrave; motiva&ccedil;&atilde;o, as investiga&ccedil;&otilde;es da Pol&iacute;cia Federal (PF) indicam que Marielle foi morta por sua atua&ccedil;&atilde;o contra um esquema de loteamentos de terra em &aacute;reas dominadas pela mil&iacute;cia na Zona Oeste do Rio de Janeiro.<br /></p>
+<p>Desde o crime at&eacute; as &uacute;ltimas pris&otilde;es, simbolicamente, no campo pol&iacute;tico, foi tempo de uma pergunta que n&atilde;o tinha resposta: &ldquo;Quem matou Marielle?&rdquo;. Ideologia, posi&ccedil;&otilde;es pol&iacute;ticas, fake news e distintas teorias da conspira&ccedil;&atilde;o povoaram o imagin&aacute;rio popular e dos atores pol&iacute;ticos.</p>
+<p>Segundo Luiz Carlos Azedo, jornalista e arguto analista da pol&iacute;tica brasileira, temos que &ldquo;A pris&atilde;o do deputado federal Chiquinho Braz&atilde;o, que tem foro privilegiado, rompe a blindagem do esquema mafioso, porque o caso est&aacute; no Supremo, saiu da esfera da Justi&ccedil;a fluminense&rdquo;. Ainda, de acordo com Azedo: &ldquo;Essas conex&otilde;es s&atilde;o conhecidas nos meios policiais, jur&iacute;dicos e pol&iacute;ticos, mas estavam blindadas pela profundidade e extens&atilde;o do crime organizado e pelo pacto de sil&ecirc;ncio entre as autoridades no Rio de Janeiro. A maioria n&atilde;o se manifesta porque tem medo de morrer, como aconteceu com Marielle&rdquo;. O ministro Gilmar Mendes, do STF, diante dos fatos, disse que &eacute; preciso refundar as institui&ccedil;&otilde;es pol&iacute;ticas e os &oacute;rg&atilde;os de seguran&ccedil;a p&uacute;blica do Rio de Janeiro.<br /></p>
+<p>O cen&aacute;rio da viol&ecirc;ncia brasileira &eacute; um dos temas de maior preocupa&ccedil;&atilde;o dos cidad&atilde;os e isso &eacute;, empiricamente, captado e demonstrado por meio de pesquisas. Nas aulas introdut&oacute;rias de Ci&ecirc;ncia Pol&iacute;tica, dentre muitos dos autores que tratam do Estado, temos, em Max Weber, uma importante defini&ccedil;&atilde;o: o Estado caracteriza-se pelo monop&oacute;lio legitimo da viol&ecirc;ncia. Assim, somente o Estado e suas institui&ccedil;&otilde;es podem, dentro da lei, por meio de suas For&ccedil;as Armadas e de suas pol&iacute;cias, exercer a viol&ecirc;ncia, caso seja necess&aacute;rio. Por isso, um traficante e um miliciano, por exemplo, t&ecirc;m poder (possuem armas e capacidade de coa&ccedil;&atilde;o, intimida&ccedil;&atilde;o e at&eacute; agress&otilde;es fatais), mas n&atilde;o t&ecirc;m autoridade &ndash; que &eacute; um poder autorizado, alicer&ccedil;ado a partir das leis, em um Estado Democr&aacute;tico de Direito.</p>
+<p>Infelizmente, no Rio de Janeiro, as fronteiras entre poder, autoridade, Estado, viol&ecirc;ncia, crime e institui&ccedil;&otilde;es est&atilde;o se dissolvendo, criando aquilo que, na Sociologia, &eacute; definido como anomia, um estado no qual h&aacute; clara aus&ecirc;ncia de normas, regras e dos la&ccedil;os de solidariedade no bojo da sociedade. Em verdade, contraditoriamente, a anomia tornou-se normal.<br /></p>
+<p>Refundar as institui&ccedil;&otilde;es pol&iacute;ticas e os &oacute;rg&atilde;os de seguran&ccedil;a do Rio de Janeiro, conforme asseverou Gilmar Mendes, &eacute; urgente, sem d&uacute;vida. A quest&atilde;o &eacute; que envolve uma complexa rela&ccedil;&atilde;o entre as institui&ccedil;&otilde;es, a cultura pol&iacute;tica e pr&oacute;pria cultura e comportamento de indiv&iacute;duos e grupos. Como, enfim, consertar o motor com o carro em movimento e acelerando? Uma sugest&atilde;o de leitura, se me permitem: &ldquo;A rep&uacute;blica das mil&iacute;cias&rdquo;, de Bruno Paes Manso, da Editora Todavia, de 2020.<br /></p>
+<p>Rodrigo Augusto Prando, Professor e Pesquisador da Universidade Presbiteriana Mackenzie. Cientista Social, Mestre e Doutor em Sociologia, pela Unesp.<br /></p>
+{% endraw %}

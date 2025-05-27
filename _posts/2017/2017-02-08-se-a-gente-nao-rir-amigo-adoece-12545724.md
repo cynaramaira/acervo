@@ -1,0 +1,23 @@
+---
+id: 12545724
+date: "2017-02-08T07:27:46Z"
+last_modified_at: null
+tags:
+  - "aeroporto-do-recife"
+  - "aplicativo-amigo-secreto"
+  - "gente"
+  - "naomi-campbell"
+categories:
+  - "charge"
+title: "Se a gente n\u00e3o rir, amigo, adoece"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/02/charge-1.jpg"
+---
+{% raw %}
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/07/pmdb-e-psdb-disputam-vaga-de-moraes-no-ministerio-da-justica/">PMDB e PSDB disputam vaga de Moraes no Ministério da Justiça</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/07/nao-houve-criticas-so-elogios-diz-temer-sobre-indicacao-de-alexandre-de-moraes/">“Não houve críticas, só elogios”, diz Temer sobre indicação de Alexandre de Moraes</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/06/indicado-para-o-stf-moraes-sera-revisor-da-lava-jato-no-plenario/">Indicado para o STF, Alexandre de Moraes será revisor da Lava Jato no plenário</a></p></p>
+{% endraw %}

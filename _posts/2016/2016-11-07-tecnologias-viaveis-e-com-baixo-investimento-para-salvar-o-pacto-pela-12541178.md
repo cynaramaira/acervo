@@ -1,0 +1,45 @@
+---
+id: 12541178
+date: "2016-11-07T22:16:51Z"
+last_modified_at: null
+tags:
+  - "divida"
+  - "impacto"
+  - "investimento"
+categories:
+  - "colunistas"
+title: "Tecnologias vi\u00e1veis e com baixo investimento para salvar o Pacto pela Vida"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/11/monitoramento-sds.jpg"
+---
+{% raw %}
+<p><em>Por Osvaldo Matos de Melo Júnior, publicitário, sociólogo e pesquisador na área de segurança</em></p>
+<p>Pernambuco sangra com tanta violência de todos os tipos e as nossas forças de segurança estão trabalhando além dos limites da paciência e motivação, enxugando gelo e usando o restinho da tolerância em função do compromisso profissional e da fidelidade ao povo pernambucano.</p>
+<p>Venho, há alguns anos, tentando abrir a cabeça dos nossos gestores em relação aos novos formatos e tecnologias que ajudam a prevenir e combater o crime, que, mais uma vez afirmo, tem sempre drogas nas origens.</p>
+<p><strong>LEIA TAMBÉM</strong></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/07/pacto-pela-vida-sobrevive-apenas-na-propaganda-do-governo-diz-armando-monteiro/">“Pacto pela Vida sobrevive apenas na propaganda do governo”, diz Armando Monteiro</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/10/06/silvio-costa-filho-diz-que-troca-de-secretario-nao-tem-efeito-sem-mudanca-no-pacto-pela-vida/">Sílvio Costa Filho diz que troca de secretário não tem efeito sem mudança no Pacto pela Vida</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/25/se-eleito-joao-paulo-quer-audiencia-com-paulo-camara-sobre-fracasso-do-pacto-pela-vida/">Se eleito, João Paulo quer audiência com Paulo Câmara sobre “fracasso” do Pacto pela Vida</a></p>
+<p>Sufocar de verdade as drogas vai reduzir mais de 70% dos crimes, principalmente as centenas de homicídios de acerto de contas, daqueles que compram as drogas e não pagam e disputa por pontos de tráfico, bem como os pequenos assaltos com armamento emprestado do traficante. Para isso, chegou a hora de investir pesado nas tecnologias disponíveis no mercado e já usadas pelas grandes cidades e nações do mundo. Vamos lá para algumas sugestões:</p>
+<p>1. Sensores de tiro instalados em áreas estratégicas que reconhecem tiro de armas de fogo e informam a posição exata de onde partiu, transformando isso em estatísticas minuto, dia, hora, mês, gerando informações nos mapas e planilhas que podem ser analisadas de forma inteligente para os trabalhos de prevenção e investigação.</p>
+<p>2. Drones policiais, diferentes dos drones conhecidos para fazer fotos e filmes, esses veículos possuem câmeras diversas com sensores, zoom de 700 metros, visão noturna, visão por calor do corpo, sensores que desviam de obstáculos, sistema de transmissão online, maior autonomia de voo, comandos por tablets e possiblidade de as suas imagens serem interpretadas por sistemas de inteligência artificial e conseguirem detectar pessoas perdidas, pontos de tráfico de drogas, rostos de bandidos procurados, aglomerações, transito parado, placas de carros e motos roubadas, deslocamento de fugitivos em matas escuras e até salvamento de pessoas em rios e praias. Alguns já são utilizados pelos bombeiros do Rio e podem levar boias e coletes para pessoas rapidamente, enquanto o salva vidas chegam até o local.</p>
+<p>Os drones policiais são efetivamente usados pelas várias policias do mundo e todos operados por policiais experientes e bem treinados que, através da sua expertise e “faro policial”, vão poder realizar um grande trabalho de prevenção e combate com apoio das unidades de terra.</p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/25/geraldo-discorda-de-mentor-do-pacto-pela-vida-quem-conhece-e-comunidade/">Geraldo discorda de mentor do Pacto pela Vida: “Quem conhece é a comunidade”</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/12/com-pacto-pela-vida-atacado-pela-oposicao-de-2018-paulo-camara-promete-promocao-12-mil-pms-e-bombeiros/">Com Pacto pela Vida atacado pela oposição de 2018, Paulo Câmara promete promoção a 1,2 mil PMs e bombeiros</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/24/deputado-ataca-pacto-pela-vida-e-denuncia-que-agricultores-estao-se-armando-no-agreste/">Deputado ataca Pacto Pela Vida e denuncia que agricultores estão se armando no Agreste</a></p>
+<p>3. Algoritmos de monitoramento de redes sociais podem ser utilizados para interagir com a população que constantemente comentam nas suas redes sociais fatos relacionados à violência. Esses algoritmos podem ser usados pelos serviços reservados da PM e da PC, através dos seus chefes e comandantes que passam a interagir mais com a população e conhecer o que se passa na sua área de responsabilidade.</p>
+<p>4. Obrigatoriedade de sensores nos caixas e malotes que, ao serem violados ou explodidos, jogam tinta ou queimam as notas, deixando os marginais sem opção. Já existe lei inclusive que permite a troca desse dinheiro queimado ou pintado no Banco Central. Usando esse sistema, que não consigo entender porque não é usado ainda, acabariam os assaltos e explosões de caixas e agências.</p>
+<p>5. Estimular o uso de câmeras dos condomínios, residências e comércio voltadas para rua e interligadas aos sistemas de comando de área, utilizando também a mão de obra de policiais aposentados no monitoramento apoiado por algoritmos que ajudam nas interpretações das imagens.</p>
+<p>6. Criar grupos de WhatsApp com taxistas, porteiros de prédios, vigias, vigilantes e motoristas de empresas de transporte coletivo para que eles possam informar situações de perigo, crimes em andamento, arrastões, motoristas bêbado, criando uma grande rede do bem pela segurança e vida.</p>
+<p>7. Sistema de câmeras instaladas nas viaturas e nos coletes dos policiais para garantir a segurança deles, gravando a atividade proativa do serviço, agressões e desrespeito por parte dos delinquentes e também para evitar excessos. Essas câmeras seriam ligadas no começo do serviço e apenas desligadas no término, quando os cartões seriam entregues aos chefes imediatos para backup e análise do comando ou chefia, tendo que serem preservadas com segurança em backups físicos e virtuais por até seis meses.</p>
+<p>8. Portais detectores de metais em pontos públicos, praças, paradas de ônibus, acessos de shoppings, mercados, escolas, escondidos lógico, mas que possam alertar sempre que um suspeito passar por esses pontos enviando mensagem para a central mais próxima e para os sistemas de videomonitoramento.</p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/16/waldemar-borges-diz-que-silvio-costa-nao-quer-ajudar-pacto-pela-vida-mas-tentar-prejudicar-eleitoralmente-geraldo-julio/">Waldemar Borges diz que Silvio Costa não quer ajudar Pacto pela Vida, mas tentar prejudicar eleitoralmente Geraldo Julio</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/16/apos-romper-com-psb-psdb-ja-ataca-pacto-pela-vida-de-paulo-camara/">Após romper com PSB, PSDB já ataca Pacto pela Vida de Paulo Câmara</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/04/01/os-numeros-do-pacto-pela-vida-uma-politica-que-se-perdeu/">Os números do Pacto pela Vida: uma política que se perdeu</a></p>
+<p>9. Criação de sistemas de botões de pânico nas comunidades operados por moradores anônimos que acionariam sempre que vissem qualquer atividade suspeita de tráfico e marginais.</p>
+<p>10. Patrulhas ostensivas do bem: recrutar policiais temporários - como a PM é reserva do exército, ele pode convocar militares temporários. Esses militares seriam utilizados em atividades internas, mas típica de militares. Para isso reservistas soldados, sargentos e oficiais bem treinados e de emprego imediato da Forças Armadas, como comportamento e avaliação excelentes, seriam contratados por até oito anos, como acontece no Exército.</p>
+<p>Esses policiais seriam utilizados também no policiamento ostensivo a pé em zonas de comércio, pontos turísticos, praças, parques e praias sempre com o comando de um graduado de carreira e o apoio das guarnições táticas e unidades especializadas. Com isso, teríamos os policiais de carreira sendo usados no combate efetivo fazendo blitz, operações bloqueio nas estradas e entradas das cidades mais vulneráveis, capturas, busca de pontos de tráfico, inteligência entre outros.</p>
+<p>11. Nos finais de semana, onde acontece o maior número de crimes, as demais secretarias poderiam ceder os carros que estão parados na garagem para as policiais utilizarem no patrulhamento aumentando a ostensividade. Apenas um rotam móvel e um brasão magnético da instituição seriam colocados nas portas e capuz e retirados na entrega na segunda pela manhã, às 7 horas.</p>
+{% endraw %}

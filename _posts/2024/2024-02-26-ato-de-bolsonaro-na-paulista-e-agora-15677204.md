@@ -1,0 +1,29 @@
+---
+id: 15677204
+date: "2024-02-26T19:36:17Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "bolsonarismo"
+categories:
+  - "sem-categoria"
+title: "Ato de Bolsonaro na Paulista: e agora?  "
+sutia: "Analista pol\u00edtico observa que a l\u00f3gica da for\u00e7a pol\u00edtica n\u00e3o ter\u00e1 for\u00e7a para intervir no \u00e2mbito jur\u00eddico"
+chapeu: "opini\u00e3o"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/02/25/000_34ka2g2-26472449.jpg"
+---
+{% raw %}
+<p>Por Rodrigo Augusto Prando, em artigo enviado ao blog de Jamildo<br /></p>
+<p>O ex-presidente Jair Bolsonaro esteve na Avenida Paulista, no domingo, 25 de fevereiro, para um ato convocado por ele ap&oacute;s v&aacute;rias opera&ccedil;&otilde;es da Pol&iacute;cia Federal (PF) objetivando investiga&ccedil;&otilde;es que abarcam a c&uacute;pula do bolsonarismo.<br /> <br />Obviamente, nas redes sociais, h&aacute; v&aacute;rias narrativas quando se trata de ocupar &ndash; f&iacute;sica e simbolicamente &ndash; o espa&ccedil;o da Paulista. Os bolsonaristas consideram a manifesta&ccedil;&atilde;o gigante, e os opositores afirmam que ela &ldquo;flopou&rdquo;.</p>
+<p>Existem os que gostam de contrariar a realidade dos fatos, a verdade factual; contudo, aqui, cabe uma an&aacute;lise desapaixonada e objetiva: a manifesta&ccedil;&atilde;o foi, sim, superlativa. E n&atilde;o seria diferente. As pesquisas j&aacute; demonstraram, alhures, que ap&oacute;s um ano da elei&ccedil;&atilde;o de 2022, os eleitores repetiriam seus votos em Lula e em Bolsonaro.<br /></p>
+<p>No final de 2023, foi lan&ccedil;ado o livro &ldquo;Biografia do abismo: como a polariza&ccedil;&atilde;o divide fam&iacute;lias, desafia empresas e compromete o futuro do Brasil&rdquo;, de Felipe Nunes e Thomas Traumann. Na referida obra, os autores afirmam que j&aacute; n&atilde;o h&aacute; uma polariza&ccedil;&atilde;o, mas, sim, uma &ldquo;calcifica&ccedil;&atilde;o&rdquo; em duas grandes posi&ccedil;&otilde;es pol&iacute;ticas e valorativas: o lulopetismo e o bolsonarismo.<br /></p>
+<p>Tendo isso em vista, nada de espantoso a Paulista tomada de bolsonaristas e, em um pa&iacute;s fraturado politicamente, se Lula fizesse chamamento id&ecirc;ntico, as ruas tamb&eacute;m seriam tomadas por seus apoiadores. Bolsonaro e Lula s&atilde;o l&iacute;deres carism&aacute;ticos. O bolsonarismo e lulismo t&ecirc;m for&ccedil;a pol&iacute;tica e n&atilde;o reconhecer isso &eacute; negar a realidade.<br /></p>
+<p>H&aacute; aqueles que fazem uma leitura afirmando ser ir&ocirc;nico que Bolsonaro tenha convocado um ato em defesa do Estado Democr&aacute;tico de Direito, especialmente, porque pesa sobre o ex-presidente e seu n&uacute;cleo de poder investiga&ccedil;&otilde;es acerca de golpe de Estado e aboli&ccedil;&atilde;o violenta do Estado Democr&aacute;tico de Direito.<br /></p>
+<p>A Constitui&ccedil;&atilde;o brasileira garante a todos &ndash; de esquerda, de centro e de direita &ndash; o direito &agrave; manifesta&ccedil;&atilde;o pac&iacute;fica, sem armas e previamente comunicada &agrave;s autoridades. E, no caso em tela, as ruas ganham densidade no &acirc;mbito de uma vis&atilde;o de mundo que congrega os bolsonaristas, com &ldquo;conservadores crist&atilde;os&rdquo;, liberais, ferrenhos antipetistas, representantes do agroneg&oacute;cio e at&eacute; os dispostos &agrave;s rupturas institucionais (Nunes e Traumann esmiu&ccedil;am os dados em seu livro).<br /></p>
+<p>O ato na Paulista &eacute;, sem d&uacute;vida, demonstra&ccedil;&atilde;o de for&ccedil;a, de ineg&aacute;vel capacidade de mobiliza&ccedil;&atilde;o no &acirc;mbito pol&iacute;tico e social, nas redes e nas ruas. Em que pese Bolsonaro ser o primeiro presidente a n&atilde;o ser reeleito ap&oacute;s a aprova&ccedil;&atilde;o do estatuto da reelei&ccedil;&atilde;o e de estar ineleg&iacute;vel, o bolsonarismo &ndash; com ou sem Bolsonaro &ndash; veio para ficar.</p>
+<p>Aqui, todavia, caberia uma pergunta: e agora? Como ficam as investiga&ccedil;&otilde;es ap&oacute;s tamanha demonstra&ccedil;&atilde;o de for&ccedil;a? <strong>Tendo a crer que a manifesta&ccedil;&atilde;o em nada mudar&aacute; o curso das investiga&ccedil;&otilde;es.</strong> H&aacute;, no caso, duas l&oacute;gicas e tempos distintos: a l&oacute;gica e o tempo da pol&iacute;tica e a l&oacute;gica e o tempo da justi&ccedil;a. Dessa forma, a l&oacute;gica da for&ccedil;a pol&iacute;tica n&atilde;o ter&aacute; for&ccedil;a para intervir no &acirc;mbito jur&iacute;dico.<br /></p>
+<p>Bolsonaro, em outras vezes, at&eacute; mesmo na Paulista, na condi&ccedil;&atilde;o de presidente, Comandante-em-Chefe das For&ccedil;as Armadas, demonstrou musculatura pol&iacute;tica e fez amea&ccedil;as &agrave;s institui&ccedil;&otilde;es com foco no Supremo Tribunal Federal (STF). E, mesmo assim, foi derrotado na elei&ccedil;&atilde;o, est&aacute; ineleg&iacute;vel e acuado pelas investiga&ccedil;&otilde;es da PF e inqu&eacute;ritos no STF.<br /></p>
+<p>Os atos, at&eacute; onde se sabe, transcorreram sem viol&ecirc;ncia e sem cartazes atacando o STF, urnas eletr&ocirc;nicas, ministros ou outros atores pol&iacute;ticos de forma mais expl&iacute;cita. Um jornalista mandou mensagem: &ldquo;Professor, foi s&oacute; o Bolsonaro pedir que n&atilde;o houve cartazes e ataques durante o ato. E se ele tivesse feito isso quando foi derrotado, pedindo para os apoiadores deixar os acampamentos e reconhecido a derrota?&rdquo;. Sempre temos um: &ldquo;E se ...&rdquo;.</p>
+<p><em>Rodrigo Augusto Prando &eacute; professor e pesquisador do Centro de Ci&ecirc;ncias Sociais e Aplicadas (CCSA) da Universidade Presbiteriana Mackenzie (UPM). Graduado em Ci&ecirc;ncias Sociais, mestre e doutor em Sociologia.</em><br /></p>
+{% endraw %}

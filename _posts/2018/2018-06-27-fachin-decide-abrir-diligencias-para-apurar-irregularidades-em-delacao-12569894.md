@@ -1,0 +1,28 @@
+---
+id: 12569894
+date: "2018-06-27T16:13:05Z"
+last_modified_at: null
+tags:
+  - "edson-fachin"
+  - "irregularidades"
+categories:
+  - "noticias"
+title: "Fachin decide abrir dilig\u00eancias para apurar irregularidades em dela\u00e7\u00e3o da J&F"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/04/fachin-1-748x410.jpg"
+---
+{% raw %}
+<p><p><em>Estadão Conteúdo</em> - O ministro Edson Fachin, do Supremo Tribunal Federal (STF), decidiu nesta quarta-feira, 27, abrir diligências para apurar eventuais irregularidades nos acordos de colaboração premiada firmados por quatro colaboradores da J&amp;F. O ministro também decidiu que, assim que for concluída a fase de coleta de provas (instrução), caberá ao plenário da Corte decidir se homologa ou não a rescisão, pedida pela Procuradoria-Geral da República (PGR).</p></p>
+<p><p>Depois de ouvir as razões da PGR para a rescisão dos acordos e a dos colaboradores pela manutenção, o ministro destacou que é importante colher provas para garantir o amplo direito de defesa</p></p>
+<p><p>"Dito isso, é de se determinar o prosseguimento do feito com a determinação às partes para que, no prazo comum de 5 (cinco) dias, especifiquem as provas que pretendem produzir, indicando, no caso das testemunhas, qualificação e endereços atualizados. Isso levado a efeito e concluída a instrução, após razões finais das partes, indicarei à pauta para julgamento pelo tribunal pleno", determinou Fachin, em decisão de 62 páginas assinada nesta quarta-feira.</p></p>
+<p><p>Em 14 de setembro de 2017, o então procurador-geral da República, Rodrigo Janot, informou que decidiu rescindir os acordos de colaboração premiada firmados pelo empresário Joesley Batista e o executivo Ricardo Saud com o Ministério Público Federal. Em fevereiro deste ano, foi a vez da sucessora de Janot, a procuradora-geral da República, Raquel Dodge, rescindir os acordos de Wesley Batista e do executivo Francisco de Assis e Silva.</p></p>
+<p><p>Na ocasião em que Janot ainda chefiava a PGR, o ex-procurador apontou que os irmãos Joesley e Saud agiram de má-fé ao omitirem suposto fato criminoso envolvendo o senador Ciro Nogueira e o envolvimento do ex-procurador da República Marcello Miller no acordo.</p></p>
+<p><p>"O caso em tela exige manifestação jurisdicional prévia sobre as causas apontadas pelo Ministério Público como suficientes para que se tenha o acordo por rescindido. Tal atribuição se situa na competência do Plenário deste STF", escreveu Fachin.</p></p>
+<p><h2>Rescisão</h2></p>
+<p><p>Em dezembro, a procuradora-geral da República, Raquel Dodge, reforçou o requerimento de rescisão das colaborações premiadas de Joesley e Ricardo Saud. Em maio deste ano, a procuradora-geral reforçou o pedido para que Fachin homologue a rescisão em torno de Wesley e Francisco de Assis e Silva.</p></p>
+<p><p>Os acordos de executivos da J&amp;F foram homologados pelo STF em 11 de maio do ano passado. À época, Joesley envolveu o presidente Michel Temer, ao gravar conversa entre os dois em encontro no Palácio do Jaburu.</p></p>
+<p><p>A rescisão das colaborações de Joesley e Saud foi feita pela PGR porque os executivos teriam omitido "fatos criminosos" ao fechar a delação. No caso dos dois são citados o suposto pagamento de R$ 500 mil ao senador Ciro Nogueira (PP-PI) para mudar o posicionamento no caso do impeachment da então presidente Dilma Rousseff (PT), a existência de uma conta bancária no Paraguai em nome de Ricardo Saud e a participação de Marcello Miller como defensor dos interesses da J&amp;F quando ainda era procurador da República. A atuação de Miller também foi o motivo para a PGR rescindir os acordos de Wesley e Francisco.</p></p>
+<p><p>No caso de Wesley, há o componente adicional, segundo Dodge, "por também ter praticado, após a celebração de seu acordo, crime de insider trading" - utilização de informações privilegiadas para atuar no mercado financeiro. Wesley e o irmão Joesley são réus por essa denúncia na Justiça Federal em São Paulo.</p></p>
+{% endraw %}

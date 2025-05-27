@@ -1,0 +1,29 @@
+---
+id: 12568680
+date: "2018-05-23T18:00:23Z"
+last_modified_at: null
+tags:
+  - "andre-rio"
+  - "ditadura"
+  - "recife"
+  - "registro"
+  - "venezuela"
+categories:
+  - "noticias"
+title: "No Recife, Andr\u00e9 R\u00e9gis diz que defensores da ditadura na Venezuela est\u00e3o mudos"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/03/Maduro.jpg"
+---
+{% raw %}
+<p><p>Em discurso na Câmara Municipal do Recife, o vereador André Régis, do PSDB, disse considerar estranho, depois de “constatadas eleições fraudulentas na Venezuela”, o silêncio daqueles que alardeavam apoio ao chavismo e afirmavam que o governo da vizinha nação inaugurava um exemplo de socialismo paradigmático para o mundo.</p></p>
+<p><p>Na sua fala, o parlamentar advertiu que a real situação naquele país preocupa os democratas e os parlamentos, pois a ditadura instalada na Venezuela está levando grande sofrimento ao seu povo e repercutindo negativamente inclusive no Brasil haja vista o êxodo venezuelano através das fronteiras com o estado de Roraima.</p></p>
+<p><p>“É importante denunciar tudo o que vem ocorrendo na Venezuela contra a vida das pessoas. É importante constatar que o socialismo do século XXI propagado por Hugo Chávez e por Nicolas Maduro só serve para comprovar que o regime não presta em século algum, pois aniquila a liberdade. O socialismo é contrário aos princípios basilares da democracia que defendemos. Desejo deixar registrado nos anais da Câmara Municipal do Recife que não aceitamos o regime de Nicolas Maduro e que haja uma posição dura da política externa do Brasil no sentido inclusive da manutenção da suspensão da Venezuela no Mercosul. O Brasil deve tomar medidas contundentes em defesa do próprio povo venezuelano”, disse o parlamentar.</p></p>
+<p><p>“A ditadura de Nicolas Maduro, que recebeu ostensivo apoio dos governos do PT, está cada vez mais severa, praticando uma inaceitável repressão à oposição e mantendo presos políticos com tratamentos desumanos nos porões das penitenciárias além de perseguições aos que discordam da violência, ameaçando a todos. A democracia já não existe mais na Venezuela. E tão grave quanto essa constatação é a mudez daqueles que durante muito tempo propagaram as “virtudes” do chavismo e espalhavam narrativas segundo as quais o infeliz país estava desenvolvendo um neo-constitucionalismo latino americano”.</p></p>
+<p><p>“O quadro ficou tão difícil que as empresas aéreas estão cancelando seus voos para Caracas e citou o exemplo do Corinthians, obrigado a fretar um avião para realizar uma partida de futebol pelo campeonato Libertadores da América. E ao desembarcar as pessoas se depararam com um cenário chocante e desumano de gente pedindo restos de comida da aeronave. Inclusive está havendo uma perda de peso da população”, disse.</p></p>
+<p><p>“O ex-presidente Lula em pleno exercício do cargo pediu votos para Nicolas Maduro ferindo frontalmente o Artigo 4º da Constituição do Brasil que veta a interferência de chefes de estado em assuntos internos de outros países. A ex-presidente Dilma Rousseff também declarou apoio ao ditador venezuelano. O comportamento inadequado do ex-presidente Lula em um episódio anterior de intromissão em outra nação: ao ser indagado pelo presidente da Bolívia, Evo Morales, se o Brasil reagiria à invasão e desapropriação de uma refinaria da Petrobras naquele país, Lula disse que não e o Brasil perdeu um patrimônio com grave dano econômico que ainda hoje repercute, pois o parque foi construído com empréstimos internacionais”.</p></p>
+<p><p>“A ruptura da democracia na Venezuela pode ser encaixada num capítulo especifico da ciência política que trata das relações entre o poder e o petróleo enquanto produto e instrumento de sustentação de governos beneficiados com recursos oriundos de sua extração. As distorções surgem quando esses recursos não são destinados ao bem estar da população e principalmente onde a democracia não está fortalecida e as instituições não estão consolidadas. Nestes casos, salienta André Regis, ocorre uma relação entre o petróleo e a ausência da liberdade por evidente propósito de utilização da riqueza para fins políticos”.</p></p>
+<p><p>“A Venezuela desperdiçou a oportunidade histórica de promover mudanças importantes em seu quadro social e econômico na época em que o valor do barril de petróleo chegou a 110 dólares. O seu governo não converteu os recursos em investimentos que pudessem inclusive diminuir a dependência econômica do petróleo, não desenvolveu alternativas para abrir novos horizontes. Permaneceu na dependência de países que podem ou não comprar o seu petróleo. Isso num momento em que o mundo se prepara dar um grande salto tecnológico valorizando fontes renováveis não poluidoras de energia. A idade da pedra não acabou por falta de pedras e a idade do petróleo não vai acabar por causa da falta de petróleo, disse André Régis ao argumentar que a tendência do século XXI é a de desvalorizar o produto em face da inviabilidade da exploração inclusive no pré-sal, e por ser caro e poluente”.</p></p>
+<p><p>“Quem fizer um exercício de memória recente vai verificar que a campanha de 2006 do ex-presidente Lula foi ancorada no que seria um novo desenho na sustentabilidade com o biodiesel. Mas ele mudou o discurso e abraçou o pré sal que foi propagado como sendo a libertação nacional pela autossuficiência do petróleo. Porem tudo aquilo resultou no maior escândalo de corrupção do planeta com as denuncias do petrolão e as prisões em serie de políticos e empresários, culminando com as condenações do ex-presidente Lula que está preso”.</p></p>
+{% endraw %}

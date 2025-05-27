@@ -1,0 +1,34 @@
+---
+id: 15663728
+date: "2024-01-26T10:38:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "opiniao"
+categories:
+  - "sem-categoria"
+title: "'Rep\u00fablica do Paran\u00e1' em risco: a poss\u00edvel cassa\u00e7\u00e3o e inelegibilidade de Sergio Moro"
+sutia: "Ex-magistrado que ficou conhecido pela opera\u00e7\u00e3o do Paran\u00e1 aceitou virar ministro do governo Bolsonaro para depois ser nomeado ministro do STF, mas n\u00e3o obteve \u00eaxito"
+chapeu: "Opini\u00e3o"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/01/12/image_processing20211105_13537_j1rijw-26064769.jpeg"
+---
+{% raw %}
+<p>Em artigo, o advogado paulista Wagner Gundim fala sobre a Procuradoria Regional Eleitoral do Estado do Paran&aacute; ter se manifestando, h&aacute; poucos dias, pelo julgamento que pode cassar o mandato de senador do ex-juiz Sergio Moro (Uni&atilde;o Brasil-PR) e deix&aacute;-lo ineleg&iacute;vel por oito anos. Veja os termos abaixo.</p>
+<p>Por <strong>Wagner Gundim</strong>, em artigo enviado ao blog de Jamildo</p>
+<p>Pouco antes do in&iacute;cio do recesso judici&aacute;rio de 2023, os processos que podem levar &agrave; cassa&ccedil;&atilde;o do ex-ju&iacute;z e hoje senador da Rep&uacute;blica Sergio Moro (Uni&atilde;o Brasil-PR) e de seus suplentes tiveram andamento importante. A Procuradoria Regional Eleitoral do Estado do Paran&aacute; exarou parecer, manifestando-se pelo julgamento de proced&ecirc;ncia parcial dos pedidos em tela, a fim de reconhecer a pr&aacute;tica de abuso do poder econ&ocirc;mico e, como consequ&ecirc;ncia, anular a chapa eleita em outubro de 2022 para o cargo. Tamb&eacute;m se prev&ecirc; a decreta&ccedil;&atilde;o da inelegibilidade de Moro, bem como de seu suplente direto, Lu&iacute;s Felipe Cunha, pelo significativo prazo de oito anos.</p>
+<p>Antes de apontar especificamente qual teria sido a irregularidade praticada por Moro, &eacute; preciso esclarecer que, por mais que o processo de escolha de representantes por meio de elei&ccedil;&otilde;es seja a pedra de toque das democracias, o acesso ao poder depende do rigoroso cumprimento de princ&iacute;pios e de regras estabelecidas por lei, incluindo as partid&aacute;rias (internas), al&eacute;m das eleitorais.</p>
+<p>Logo, se faz necess&aacute;rio que, aliado ao desempenho satisfat&oacute;rio nas urnas, o candidato cumpra fielmente os princ&iacute;pios e as determina&ccedil;&otilde;es do processo eleitoral democr&aacute;tico.</p>
+<p>Quanto ao regramento que deve ser levado em considera&ccedil;&atilde;o, cito, por exemplo, a necess&aacute;ria igualdade de condi&ccedil;&otilde;es entre os contentores da corrida &agrave;s urnas, o que busca evitar que alguns postulantes tenham vantagens excessivas sobre os outros.</p>
+<p>O objetivo de uma A&ccedil;&atilde;o de Investiga&ccedil;&atilde;o Judicial Eleitoral (AIJE) - esp&eacute;cie de demanda proposta contra Moro - &eacute; impedir e investigar a pr&aacute;tica de atos que possam, de alguma maneira, afetar a isonomia dos candidatos numa elei&ccedil;&atilde;o. E, segundo disp&otilde;e a lei complementar 64/1990, em seu artigo 22, uma das esp&eacute;cies de abuso do poder eleitoral &eacute; justamente o desvio ou o abuso do poder econ&ocirc;mico.</p>
+<p>Se atribuiu &agrave; chapa de Sergio Moro justamente a pr&aacute;tica de poder econ&ocirc;mico, em fun&ccedil;&atilde;o da exist&ecirc;ncia de gastos vultosos, especialmente na pr&eacute;-campanha.</p>
+<p>Apenas para relembrar: antes de se candidatar a senador da Rep&uacute;blica pelo Paran&aacute; e ainda capitalizando a popularidade atribu&iacute;da pela opera&ccedil;&atilde;o &ldquo;Lava Jato&rdquo;, o ex-ju&iacute;z tentou emplacar uma pr&eacute;-candidatura &agrave; Presid&ecirc;ncia, pelo Podemos - isso, entre 2021 e in&iacute;cio de 2022. Seria uma esp&eacute;cie de &ldquo;terceira via&rdquo;, longe dos extremos do PT e do bolsonarismo.</p>
+<p>Posteriormente, Moro se desvinculou desse partido e se filiou ao Uni&atilde;o Brasil, visando, naquele momento, concorrer a deputado federal por S&atilde;o Paulo, conforme divulgado, na &eacute;poca, pela Imprensa. Somente ap&oacute;s o indeferimento da transfer&ecirc;ncia de seu domic&iacute;lio eleitoral, uma vez que o lavajatista n&atilde;o morava em solo bandeirante, &eacute; que ele se debru&ccedil;ou &agrave; ideia de ser testado nas urnas do estado do Paran&aacute;.</p>
+<p>Segundo c&aacute;lculos da Procuradoria Geral da Rep&uacute;blica (PGR), o montante gasto pela chapa de Moro, apenas na pr&eacute;-campanha, representou 110,77% da m&eacute;dia de investimentos realizados pelos dez candidatos ao Senado naquele estado, totalizando mais de R$ 5 milh&otilde;es - o que supera, inclusive, o limite estabelecido para postulantes ao cargo de senador em 2022.</p>
+<p>Fato &eacute; que, os vultosos recursos financeiros aplicados no per&iacute;odo geraram grande visibilidade a Moro, al&eacute;m de promo&ccedil;&atilde;o pessoal, em detrimento de seus advers&aacute;rios - o que caracteriza abuso de poder econ&ocirc;mico.</p>
+<p>Embora o parecer da Procuradoria n&atilde;o seja vinculativo, as chances de que seja acolhido pelas inst&acirc;ncias competentes s&atilde;o consider&aacute;veis, o que pode levar &agrave; cassa&ccedil;&atilde;o imediata da chapa e do mandato de Moro, &agrave; sua inelegibilidade e &agrave; determina&ccedil;&atilde;o de que uma nova elei&ccedil;&atilde;o para o cargo de senador seja realizada, t&atilde;o logo, no Paran&aacute;.</p>
+<p>A d&uacute;vida que fica &eacute;: faltou ao senador Sergio Moro conhecimento t&eacute;cnico eleitoral e um adequado assessoramento, na qualidade de pr&eacute;-candidato e de candidato, ou o risco foi sabido e deliberadamente assumido? Para um ex-ju&iacute;z, o cumprimento a regras deveria ser &oacute;bvio.</p>
+<p>N&atilde;o h&aacute; no ambiente eleitoral nada a ser subestimado. A maior fiscaliza&ccedil;&atilde;o, afinal, est&aacute; no pr&oacute;prio meio pol&iacute;tico, onde qualquer escorregada &eacute; vista com lentes de aumento por desafetos e advers&aacute;rios, e pode custar caro, com direito a preju&iacute;zos legais, partid&aacute;rios e eleitorais incalcul&aacute;veis.</p>
+<p><em>PS do blog: Wagner Wilson Deir&oacute; Gundim &eacute; advogado; doutor em Direito Constitucional e em Filosofia do Direito; mestre em Direito Pol&iacute;tico e Econ&ocirc;mico; Especialista em Direito Eleitoral e em Direito P&uacute;blico (Administrativo); professor de Direito Constitucional, de Direito Eleitoral e de Ci&ecirc;ncia Pol&iacute;tica; s&oacute;cio-fundador do escrit&oacute;rio Gundim &amp; Ganzella Sociedade de Advogados; e autor de dezenas de obras e de publica&ccedil;&otilde;es jur&iacute;dicas.</em></p>
+<p><em>PS do Blog 2: Os artigos assinados n&atilde;o refletem necessariamente nem desnecessariamente a opini&atilde;o do blog</em></p>
+{% endraw %}

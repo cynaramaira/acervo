@@ -1,0 +1,28 @@
+---
+id: 12587579
+date: "2019-06-22T19:48:32Z"
+last_modified_at: null
+tags:
+  - "enem-digital"
+  - "meio-ambien"
+  - "prejuizos"
+  - "presidente"
+categories:
+  - "noticias"
+title: "Juiz deve evitar 'certas conversas' por meio digital, diz presidente do TRF5"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/06/vladimir-carvalho-trf5-lavareda.jpg"
+---
+{% raw %}
+<p><p>O presidente do Tribunal Regional Federal da 5ª Região (TRF5), Vladimir Carvalho, defende que não cabe ao Poder Judiciário impor limites na comunicação de magistrados por aplicativos de mensagens. "Eu acho que os tribunais não podem fazer nada, porque é se meter na vida privada de cada juiz. O que eu acho é que o juiz e o homem em geral devem ter cuidado para evitar certas conversas através de meios que possam ser mais tarde divulgados", afirmou em entrevista ao cientista político Antonio Lavareda no programa 20 Minutos exibido na <a href="https://tvjornal.ne10.uol.com.br/" target="_blank" rel="noopener">TV Jornal</a> neste sábado (22).</p></p>
+<p><p>A declaração foi após o <a href="https://blogs.ne10.uol.com.br/jamildo/2019/06/21/dodge-questiona-vazamento-e-pede-ao-stf-para-manter-acao-contra-lula/">vazamento de conversas atribuídas ao ministro da Justiça e Segurança Pública, Sérgio Moro</a>, ex-juiz à frente de ações na Lava Jato, e procuradores da força-tarefa da operação. "O tribunal não pode, por exemplo, baixar uma resolução para dizer: 'fica aconselhado aos juízes que não conversem besteira pelo telefone, pela internet'. É um campo que, se a gente for botar a colher no meio, piora. É como se diz na minha terra: é como jogar fezes de gato no ventilador", afirmou Carvalho.</p></p>
+<p><p>Apesar do vazamento de mensagens, o magistrado considera que elas não enfraquecem o Judiciário. "O que a gente sabe é a notícia via manchetes, que são colocadas hoje como ontem foram as do problema de Neymar, eu não conheço. A nossa Lei Orgânica da Magistratura proíbe o juiz de se manifestar sobre processos que estão em trâmite", disse. "Mas, para a gente decidir, por mais insignificante que seja a demanda, a gente tem que ouvir uma parte, a outra parte, gotejar com a prova, ter uma visão geral de todo o panorama para dizer sim ou não. E muitas vezes eu já mudei sim ou não na hora do banho, antes de liberar a sentença, quando era juiz de primeiro grau. Fica difícil para a gente, que está dentro de uma cachoeira de processos, de recursos e agora de processos administrativos, sair desse mundo para imediatamente ter uma ideia acerca do que pode ocasionar ao Judiciário".</p></p>
+<p><p>Em mensagens que foram divulgadas pelo site <a href="https://blogs.ne10.uol.com.br/jamildo/2019/06/19/moro-cobra-divulgacao-de-todo-o-arquivo-de-mensagens-pelo-the-intercept/">The Intercept</a>, Moro teria sugerido, por exemplo, a procuradores que emitissem uma nota oficial apontando contradições em um depoimento do ex-presidente Lula (PT). A mensagem atribuída ao ex-<a href="https://blogs.ne10.uol.com.br/jamildo/2019/06/14/novo-vazamento-sugere-que-moro-teria-orientado-mpf-apos-depoimento-de-lula/">juiz afirma que houve um "showzinho da defesa"</a>. O atual <a href="https://blogs.ne10.uol.com.br/jamildo/2019/06/19/moro-usa-ccj-para-atribuir-sensacionalismo-a-divulgacao-de-mensagens/">ministro afirmou que não pode garantir a autenticidade do conteúdo</a> e enfatizou que, mesmo que sejam verdadeiros, não considera haver irregularidades.</p></p>
+<p><h2>Supremo Tribunal Federal</h2></p>
+<p><p>Na entrevista, Vladimir Carvalho ainda criticou a nomeação de ministros para o Supremo Tribunal Federal (STF). "Quando o Executivo federal nomeia pessoas que não têm capacidade de estar ali para dar emprego a quem trabalhou ao lado, paciência, a gente não pode esperar que esse Supremo alcance o voo que a Constituição prevê. Vamos dizer assim, são carros de 1960, a gente exige uma velocidade de 120 km/h e ele não consegue chegar lá. A culpa não é do Judiciário, a culpa é de quem enche aquele Supremo de candidatos ou de ministros sem condições", afirmou. "O que eu acho que tem que se colocar é uma exigência maior, é esperar que o presidente da República que indica indicasse bem feito".</p></p>
+<p><p>A Constituição prevê que os ministros do STF são indicados pelo presidente da República, com necessidade de aprovação pela maioria do Senado Federal.</p></p>
+<p><p>Para o presidente do TRF5, também há consequências negativas para a Corte no fato de as sessões do plenário serem televisionadas. "É a leitura de votos extensos, aquela cultura bacharelesca de mais se dirigir a alunos do primeiro e do segundo ano do que a advogados experientes. São longos e cansativos discursos, em lugar de se fazer um resumo da matéria que está se debatendo. Aquilo fez com que esse Supremo que a gente vê e conhece da televisão é totalmente diferente do que eu vejo aqui no Tribunal da 5ª Região, onde a discussão é leve", disse. "É como hoje os casamentos são peças de Hollywood", comparou. </p></p>
+<p><p>"Transformou a TV Justiça em um filme bonito, com bom discurso, mas é cansativo, é exaustivo. Não vou citar nomes, mas tem gente ali que passa meia hora lendo e você não sabe para onde ele vai, se é para a esquerda, para a direita, para o centro. É uma exibição de cultura, de frases bonitas, que na hora que aperta não dá em nada".</p></p>
+{% endraw %}

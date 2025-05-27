@@ -1,0 +1,28 @@
+---
+id: 15658680
+date: "2024-01-15T15:31:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "saneamento"
+categories:
+  - "sem-categoria"
+title: "Saneamento em Pernambuco tem potencial de receber R$ 26 bilh\u00f5es em investimentos at\u00e9 2033"
+sutia: "Regi\u00e3o Nordeste contar\u00e1 com investimentos da ordem de R$ 133 bilh\u00f5es"
+chapeu: "Desenvolvimento social"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/11/16/whatsapp_image_2023_11_16_at_22_28_41-25176066.jpeg"
+---
+{% raw %}
+<p>O Marco Legal do Saneamento tem estimulado novos investimentos no pa&iacute;s, ao facilitar a cria&ccedil;&atilde;o de instrumentos financeiros, processos de concess&otilde;es privadas regulamentados e de um novo modelo de neg&oacute;cios no setor. Uma pesquisa da IFAT Brasil, com base em dados de &oacute;rg&atilde;os p&uacute;blicos e empresas privadas, aponta que o <a href="https://jc.ne10.uol.com.br/colunas/jamildo/2023/11/15637057-compesa-apresenta-rs-36-bilhoes-em-propostas-para-ampliacao-do-saneamento-em-pernambuco.html" target="_blank" rel="noopener noreferrer">estado de Pernambuco tem o potencial </a>de receber R$ 26 bilh&otilde;es em investimentos at&eacute; 2033.</p>
+<p>Entre as &aacute;reas do saneamento que devem receber mais recursos no Estado est&atilde;o a gest&atilde;o de esgoto, com R$ 10,2 bilh&otilde;es; seguida pela gest&atilde;o de res&iacute;duos s&oacute;lidos e solu&ccedil;&otilde;es em recupera&ccedil;&atilde;o energ&eacute;tica, com R$ 8,6 bilh&otilde;es; pela drenagem e infraestrutura de saneamento, com R$ 4,1 bilh&otilde;es; e pela gest&atilde;o de &aacute;gua, com R$ 3,1 bilh&otilde;es.</p>
+<p>Atualmente, o Pernambuco possui &iacute;ndices na gest&atilde;o de &aacute;gua, de 81%, e na gest&atilde;o de res&iacute;duos, com quase 75%. A coleta e tratamento de esgoto e a &aacute;rea de drenagem registram, respectivamente, pr&oacute;ximo a 42% e 20%, colocando o estado como o segundo melhor da Regi&atilde;o Nordeste nesses segmentos.</p>
+<p>O levantamento da IFAT Brasil prev&ecirc; que a regi&atilde;o Nordeste contar&aacute; com investimentos da ordem de R$ 133 bilh&otilde;es. A &aacute;rea com maior d&eacute;ficit &eacute; a drenagem, uma vez que estima-se apenas 14,5% de &aacute;reas imperme&aacute;veis com drenagem.</p>
+<p>No caso da gest&atilde;o de esgoto, &eacute; poss&iacute;vel ampliar os &iacute;ndices de 33% para coleta e 25% para o tratamento. J&aacute; a gest&atilde;o de res&iacute;duos, apesar de o atendimento estar pr&oacute;ximo a 68% e de se ter aterros sanit&aacute;rios (mais de 50%), o &iacute;ndice de tratamento de res&iacute;duos &eacute; ainda pouco expressivo, com a presen&ccedil;a de lix&otilde;es (mais de 45%). A gest&atilde;o de &aacute;gua tem um &iacute;ndice pr&oacute;ximo de 80%.</p>
+<p>Em rela&ccedil;&atilde;o ao pa&iacute;s, os investimentos externos na &aacute;rea de saneamento quase triplicaram entre 2020-2022, alcan&ccedil;ando o montante de R$ 90 bilh&otilde;es, em compara&ccedil;&atilde;o ao per&iacute;odo de 1992 a 2000, quando os aportes chegaram a quase R$ 35 bilh&otilde;es. Segundo o estudo da IFAT Brasil, o setor tem potencial de receber recursos da ordem R$ 580 bilh&otilde;es at&eacute; 2033.</p>
+<h2>Sobre a IFAT Brasil</h2>
+<p>A IFAT Brasil, feira internacional de saneamento no pa&iacute;s, &eacute; organizada e promovida pela Messe Muenchen do Brasil, e tem o objetivo de conectar os diversos stakeholders do mercado, proporcionando em um &uacute;nico ambiente todas as solu&ccedil;&otilde;es para gest&atilde;o de &aacute;gua e esgoto, drenagem e infraestrutura para o setor, gest&atilde;o de res&iacute;duos e solu&ccedil;&otilde;es de recupera&ccedil;&atilde;o energ&eacute;tica, enquanto promove debates sobre os principais temas e desafios relacionados ao setor.</p>
+<p>Marcada para acontecer entre os dias 24 e 26 de abril de 2024, no S&atilde;o Paulo Expo, em conjunto com a M&amp;T Expo, maior feira de m&aacute;quinas e equipamentos para constru&ccedil;&atilde;o e minera&ccedil;&atilde;o da Am&eacute;rica Latina, a IFAT Brasil contar&aacute; com mais de 10 mil m&sup2; de exposi&ccedil;&atilde;o, abrangendo todos os segmentos do saneamento &ndash; &aacute;gua, esgoto, drenagem e recupera&ccedil;&atilde;o de res&iacute;duos -, o que posicionar&aacute; a IFAT Brasil como um evento de tem&aacute;tica completa para agregar o mercado e desenvolver solu&ccedil;&otilde;es para o setor.</p>
+<p>A feira contar&aacute; com um Pavilh&atilde;o de Inova&ccedil;&atilde;o, em parceria com a ISLE Utilities, uma das maiores ag&ecirc;ncias de intelig&ecirc;ncia do mundo em inova&ccedil;&atilde;o no setor de &aacute;guas. O espa&ccedil;o possibilitar&aacute; que empresas com projetos inovadores participem de um processo de incuba&ccedil;&atilde;o de seu produto, com aux&iacute;lio na capitaliza&ccedil;&atilde;o e expans&atilde;o de comercializa&ccedil;&atilde;o atrav&eacute;s das plataformas da ISLE Utilities.</p>
+<p>Na &aacute;rea de conte&uacute;do, est&atilde;o sendo programados mais de 15 pain&eacute;is tem&aacute;ticos. Para isso, ser&atilde;o estabelecidas parcerias internacionais e locais para fortalecer a representa&ccedil;&atilde;o dos principais assuntos que envolvem a opera&ccedil;&atilde;o e a tomada de decis&atilde;o dos gestores p&uacute;blicos e privados, demonstrando experi&ecirc;ncias reais do setor.<br /></p>
+{% endraw %}

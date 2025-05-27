@@ -1,0 +1,25 @@
+---
+id: 13045318
+date: "2021-09-20T11:20:00Z"
+last_modified_at: null
+tags:
+  - "eleicoes-2022"
+categories:
+  - "sem-categoria"
+title: "O senhor impondev\u00e1vel e suas surpresas. Por Gaud\u00eancio Torquato"
+sutia: "2022 poder\u00e1 ser um ano surpreendente"
+chapeu: "opini\u00e3o pol\u00edtica"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/08/18/pzzb1951_2-18682138.jpg"
+---
+{% raw %}
+<p>Por Gaud&ecirc;ncio Torquato, em artigo enviado ao blog</p>
+<p>Por mais que o bal&atilde;o emotivo tente elevar &agrave;s nuvens a taxa de polariza&ccedil;&atilde;o que a pol&iacute;tica costuma estabelecer, principalmente em momentos de intensa divis&atilde;o dos grupos que seguram o cabo de guerra, o bom senso costuma se fazer presente. &Eacute; o que mostra recente pesquisa PoderData, que mostra mais da metade dos brasileiros aprovando a nota de recuo de Bolsonaro das amea&ccedil;as ao ministro Alexandre de Moraes. Entre os apoiadores do presidente, esse &iacute;ndice de aprova&ccedil;&atilde;o chega a 65%.</p>
+<p>Como j&aacute; se sabe, o presidente &eacute; rejeitado e apoiado por 1/3 do eleitorado. A l&oacute;gica recomendaria que a rejei&ccedil;&atilde;o &agrave; carta de recuo fosse a mesma do &iacute;ndice de apoiadores. Mas os que a viram com bons olhos emprestam grande apoio, 55%, indicando o posicionamento claro de que o eleitor, mesmo o embevecido ou radical, consegue separar as partes do todo da pol&iacute;tica. Essa &eacute; a raz&atilde;o pela qual n&atilde;o se deve inserir o tabuleiro eleitoral de 2022 na se&ccedil;&atilde;o de cartas j&aacute; definidas. Nada est&aacute; fechado, nem mesmo a possibilidade de Bolsonaro vir a ser candidato &agrave; reelei&ccedil;&atilde;o ou Lula, como opositor, levar a melhor.</p>
+<p>Tenho trabalhado, nos &uacute;ltimos tempos, com fatores da fisiologia humana, particularmente os apontamentos pavlovianos sobre os reflexos condicionados, chegando &agrave; conclus&atilde;o de que o eleitor &eacute; mesmo uma caixa de pandora. Consideremos, por exemplo, que Bolsonaro continue a ser o debochado por excel&ecirc;ncia, com seu linguajar tosco sobre a pol&iacute;tica e protagonistas do Poder Judici&aacute;rio. Pode ser que filtrar a adjetiva&ccedil;&atilde;o, elevando seus n&iacute;veis, n&atilde;o seja o toque de bom senso que as massas desejem. Prefiro escolher na escala dos fatores definidores o desempenho da economia, com sua capacidade de restaurar o poder de compra dos consumidores. A rec&iacute;proca &eacute; verdadeira. A falta de dinheiro no bolso poder&aacute; ser o leit motiv da derrocada.</p>
+<p>Prefiro acreditar, por exemplo, que os tipos equilibrados, com razo&aacute;vel bagagem de bom senso, predominem sobre os col&eacute;ricos ou mesmo os melanc&oacute;licos, que formam as massas dolentes e submissas aos ditadores. Quem diria, por exemplo, que ap&oacute;s 7 de setembro, a moldura de sustenta&ccedil;&atilde;o do governo mudasse muito. Ficou praticamente a mesma &ndash; 62% rejeitando e 29% aprovando o governo, de acordo com o PoderData. Ou seja, faz um bom tempo que a embalagem envolvendo o governo Bolsonaro tem a mesma cor. Pode ser que as cores mudem com a intensifica&ccedil;&atilde;o do discurso polarizado.</p>
+<p>Acredito tamb&eacute;m nos bal&otilde;es inflados por segmentos das classes m&eacute;dias A, B e C. Parcela ponder&aacute;vel do pensamento nacional adv&eacute;m dos inputs expressos por esses conjuntos &ndash; pequenos e m&eacute;dios setores produtivos, profissionais liberais, funcion&aacute;rios p&uacute;blicos, professores e setores midi&aacute;ticos &ndash; que acompanham a pol&iacute;tica e as ondas dos meios de comunica&ccedil;&atilde;o, jogando suas pedras no meio do lago e formando marolas sentidas pelos contingentes das margens. As classes m&eacute;dias influenciam para baixo e para cima.</p>
+<p>Por &uacute;ltimo, sempre coloco na sacola das an&aacute;lises o que se costuma designar como esp&iacute;rito do tempo. Que &eacute; am&aacute;lgama de componentes de situa&ccedil;&otilde;es e fatores determinantes de equa&ccedil;&otilde;es. Se quiserem, podem substituir o termo por Produto Nacional Bruto da Felicidade: dinheiro no bolso, transporte f&aacute;cil e alimento barato, harmonia social, diminui&ccedil;&atilde;o dos &iacute;ndices de viol&ecirc;ncia, climas de cordialidade e intera&ccedil;&atilde;o, satisfa&ccedil;&atilde;o com as promessas dos pol&iacute;ticos, valoriza&ccedil;&atilde;o da fam&iacute;lia, educa&ccedil;&atilde;o de qualidade, entre outros aspectos. Sanghri-l&aacute;? N&atilde;o d&aacute; para acreditar no para&iacute;so renascendo, mas &eacute; poss&iacute;vel reconstruir alguns &iacute;ndices de qualidade de vida.</p>
+<p>2022 poder&aacute; ser um ano surpreendente. Para coisas boas ou piores do rol de mazelas que conhecemos. E sempre lembrando que o Senhor Imponder&aacute;vel acaba sempre nos fazendo uma visita de surpresa.</p>
+<p>Gaud&ecirc;ncio Torquato &eacute; jornalista, escritor, professor titular da USP e consultor pol&iacute;tico<br /></p>
+{% endraw %}

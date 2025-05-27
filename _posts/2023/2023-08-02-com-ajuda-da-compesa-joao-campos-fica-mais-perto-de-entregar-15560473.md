@@ -1,0 +1,29 @@
+---
+id: 15560473
+date: "2023-08-02T18:00:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "compesa"
+categories:
+  - "sem-categoria"
+title: "Com ajuda da Compesa, Jo\u00e3o Campos fica mais perto de entregar habitacional no Encanta Mo\u00e7a"
+sutia: "Ainda em 2021, o vereador Paulo Muniz j\u00e1 havia dito ao blog que as obras de saneamento dos habitacionais Encanta Mo\u00e7a 1 e 2, no Pina, o preocupavam"
+chapeu: "atraso"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/04/ag041021200-19247756.jpg"
+---
+{% raw %}
+<p>Em novembro de 2021, o blog de Jamildo informava com exclusividade que <a href="https://jc.ne10.uol.com.br/blogs/jamildo/2021/11/13621830-habitacionais-do-encanta-moca-nao-serao-entregues-em-abril-por-conta-do-descompasso-entre-prefeitura-do-recife-e-compesa.html" target="_blank" rel="noopener noreferrer">os habitacionais do Encanta Mo&ccedil;a n&atilde;o seriam entregues em abril de 2022</a> por conta do descompasso entre Prefeitura do Recife e Compesa, do governo do Estado.<br /></p>
+<p>Em um audi&ecirc;ncia p&uacute;blica da C&acirc;mara do Recife sobre o projeto habitacional do Encanta Mo&ccedil;a, no Pina, confirmou-se o atraso na entrega. Em audi&ecirc;ncia p&uacute;blica mediada pelo vereador Paulo Muniz, a Compesa surpreendeu at&eacute; Prefeitura do Recife ao informar que ainda nem iniciou processo licitat&oacute;rio.</p>
+<p>A Compesa disse que somente agora vai iniciar o processo licitat&oacute;rio. A estimativa era que fosse necess&aacute;rios 120 dias para o processo de licita&ccedil;&atilde;o, com a execu&ccedil;&atilde;o de seis a oito meses. Levou mais tempo que isto.</p>
+<p>&ldquo;Nesta audi&ecirc;ncia ficou claro que minhas preocupa&ccedil;&otilde;es iniciais com as obras do Aeroclube s&atilde;o extremamente v&aacute;lidas. O projeto j&aacute; come&ccedil;a mostrando que realmente h&aacute; muito pouca conversa e pouco alinhamento entre os times para que a obra funcione. Seiscentas fam&iacute;lias que esperam receber em abril seus apartamentos saem hoje com a not&iacute;cia de que isso n&atilde;o mais acontecer&aacute;. Os habitacionais s&atilde;o a primeira parte do complexo enorme do Aeroclube. Se isso n&atilde;o funcionar bem agora, imagina no restante das obras&rdquo;, avaliou em 2021 Paulo Muniz, que virou auxiliar de Jo&atilde;o Campos.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/09/28/120x80/1_paulomuniz_credito_charles_johnson-19216799.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'61535fa3d83b7', 'cd_midia':19216799, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/09/28/paulomuniz_credito_charles_johnson-19216799.jpg', 'ds_midia': 'Vereador do Recife', 'ds_midia_credi': 'CHARLES JOHNSON/Divulga&ccedil;&atilde;o', 'ds_midia_titlo': 'Vereador do Recife', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '1836', 'align': 'Left'}"><figure style="width:1836;height:1224;">
+			<img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/09/28/paulomuniz_credito_charles_johnson-19216799.jpg" alt="CHARLES JOHNSON/Divulga&ccedil;&atilde;o" title="Vereador do Recife">
+		<figcaption class='text-left'>
+			Vereador do Recife - <strong>CHARLES JOHNSON/Divulga&ccedil;&atilde;o</strong>
+		</figcaption>
+	</figure></tinymce></p>
+<h2><br />A&ccedil;&atilde;o do Governo do Estado garante libera&ccedil;&atilde;o de &aacute;gua e esgoto para inaugura&ccedil;&atilde;o de habitacionais<br /></h2>
+<p><br /> Finalmente, a Ag&ecirc;ncia Estadual de Meio Ambiente (CPRH) autorizou a licen&ccedil;a de opera&ccedil;&atilde;o da esta&ccedil;&atilde;o elevat&oacute;ria de esgoto dos habitacionais Encanta Mo&ccedil;a 1 e 2. O sistema de bombeamento &eacute; resultado do investimento de mais de R$ 2,9 milh&otilde;es por parte da Companhia Pernambucana de Saneamento (Compesa), autorizado pela governadora Raquel Lyra este ano, visto que n&atilde;o havia qualquer previs&atilde;o or&ccedil;ament&aacute;ria na estatal para a continuidade da obra, que estava em ritmo lento.<br /> <br />Com a libera&ccedil;&atilde;o da autoridade ambiental, as unidades habitacionais dos dois conjuntos de apartamentos localizados no Pina podem come&ccedil;ar a ser entregues aos moradores.<br /> <br />"O Estado de Pernambuco teve de autorizar os trabalhos da Compesa, que at&eacute; o fim do ano passado n&atilde;o tinha autoriza&ccedil;&atilde;o para seguir com a obra e nem previs&atilde;o em or&ccedil;amento para a realiza&ccedil;&atilde;o do servi&ccedil;o, executado e entregue em apenas oito meses de governo", explicou a nova gest&atilde;o.<br /> <br />A secret&aacute;ria de Desenvolvimento Urbano e Habita&ccedil;&atilde;o, Simone Nunes, enfatizou a import&acirc;ncia deste investimento como um exemplo das a&ccedil;&otilde;es envolvidas no &acirc;mbito do Programa Morar Bem Pernambuco, lan&ccedil;ado pela governadora Raquel Lyra em mar&ccedil;o.<br /> <br />"Em janeiro, um dos pontos cr&iacute;ticos do Encanta Mo&ccedil;a era a obra da esta&ccedil;&atilde;o elevat&oacute;ria de esgoto e n&atilde;o existiam recursos ou autoriza&ccedil;&atilde;o. A Compesa iniciou as obras e agora est&aacute; finalizando. &Eacute; uma uni&atilde;o de esfor&ccedil;os e parceria com um fim comum, que &eacute; gerar impacto positivo na vida daquelas pessoas&rdquo;, disse.<br /> <br />Com a esta&ccedil;&atilde;o de bombeamento de esgoto licenciada, a Compesa pode iniciar a opera&ccedil;&atilde;o do equipamento. O esgoto dos apartamentos ser&aacute; coletado e tratado na Esta&ccedil;&atilde;o de Tratamento do Cabanga. A constru&ccedil;&atilde;o do sistema de esgoto do empreendimento era de responsabilidade do empreendedor do projeto. Ap&oacute;s acordo entre o munic&iacute;pio e a Compesa, a companhia assumiu a constru&ccedil;&atilde;o do sistema.<br /> <br /></p>
+{% endraw %}

@@ -1,0 +1,44 @@
+---
+id: 12585144
+date: "2019-04-26T17:26:33Z"
+last_modified_at: null
+tags:
+  - "banco"
+  - "bolsonaro"
+  - "brasil"
+  - "censura"
+  - "propaganda-eleitoral"
+categories:
+  - "noticias"
+title: "Bolsonaro enfrenta criticas por censura a propaganda do Banco do Brasil"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/04/bolsonaro-7.jpg"
+---
+{% raw %}
+<p><p>A Anadef, entidade que representa os Defensores Públicos Federais, manifestou “repúdio ao ato de censura” realizado pelo presidente Jair Bolsonaro ao exigir a retirada de uma campanha publicitária que celebra a diversidade.</p></p>
+<p><p>“A medida demonstra a extrema desconexão e a falta de empatia do Governo Federal com as representações da enorme pluralidade racial e sexual da população brasileira”.</p></p>
+<p><p>“O ato foi profundamente lamentável e chama a atenção para a necessidade urgente de discutirmos a intolerância que este governo promove. É inaceitável um questionamento de identidade étnica, sexual, de gênero, religiosa ou de qualquer natureza”.</p></p>
+<p><p>O Instituto Ethos enviou, na data de 26 de abril, um questionamento formal ao presidente do Banco do Brasil a fim de avaliar se a postura do banco está em conformidade com a Carta de Princípios do Ethos, que foi assinada quando o Banco do Brasil se tornou uma empresa associada ao Ethos.</p></p>
+<p><p>Veja o documento abaixo</p></p>
+<p><p><strong>A diversidade pode ser apagada de uma campanha publicitária?</strong></p></p>
+<p><p>O Instituto Ethos tem enfatizado, desde a nossa fundação em 1998, a importância de as empresas adicionarem às suas competências um comportamento ético e socialmente responsável, conquistando assim o respeito e o reconhecimento da sociedade. Num esforço conjunto, temos trabalhado por uma agenda de mudanças no comportamento empresarial pautada por alguns princípios, dentre eles a valorização da diversidade e o combate à discriminação.</p></p>
+<p><p>Todas as empresas associadas ao Ethos firmam um compromisso com nossa Carta de Princípios. O Banco do Brasil é associado ao Ethos desde a nossa fundação, em 1998.</p></p>
+<p><p>A diversidade pode ser apagada de uma campanha publicitária? Desde a interferência do Palácio do Planalto e do presidente Jair Bolsonaro em uma campanha do Banco do Brasil, destinada ao público jovem e que destacava a diversidade, protagonizada por negras e negros e com a presença de uma pessoa trans, esse tem sido o questionamento de muitos cidadãos.</p></p>
+<p><p>Se já é questionável o não reconhecimento à diversidade, cabe ainda observar a intervenção do governo, que já vem sendo chamada de censura, que dá indícios de não se restringir a um fato isolado.</p></p>
+<p><p>Um dia após a divulgação da retirada da propaganda do ar, tomamos conhecimento da determinação de que todas as agências de publicidade que prestam serviços ao governo devem submeter as peças ao crivo da Secom (Secretaria Especial de Comunicação Social), que está sob o comando da Secretaria de Governo. Até então, somente as propagandas institucionais precisavam do aval do Planalto.</p></p>
+<p><p>Não há precedente na história do país, desde o fim do regime militar, de um presidente da República se envolvendo, sobretudo diretamente, para vetar uma peça publicitária de qualquer empresa estatal ou órgão do governo.</p></p>
+<p><p>A Declaração Conjunta sobre Liberdade de Expressão e Notícias Falsas (Fake News), Desinformação e Propaganda, prescreve sobre o princípio da Constituição Federal que tange a liberdade de expressão (art. 5º, IV), que deve ser respeitado.</p></p>
+<p><p>Uma situação que expõe problemáticas que envolvem não só os direitos humanos, mas que também devemos observar sob o prisma da integridade e da ética. Cabe ao governo definir o que a população pode ou não assistir? Seria ético coibir o conteúdo intelectual de uma mensagem que contempla a diversidade? Levando em consideração que o Brasil é um pais essencialmente diverso e com um alto índice de desigualdade social, Estado e governos têm papel fundamental em implementar ações afirmativas que possam servir de mecanismos para inclusão social e para promover um desenvolvimento econômico que busque a construção de uma sociedade mais justa e sustentável.</p></p>
+<p><p>As empresas também podem promover ações efetivas de responsabilidade social e valorização da diversidade e contribuir na redução das desigualdades por meio de políticas e práticas afirmativas que promovam a inclusão social por meio do mercado de trabalho. Como aponta o Perfil Social, Racial e de Gênero, das 500 maiores empresas do Brasil e suas ações afirmativas.</p></p>
+<p><p>As empresas estão demonstrando cada vez mais abertura a trabalhar e investir em diversidade, mas precisam de incentivo para adotarem práticas de maior inclusão, através de ferramentas, instrumentos, guias e construção de políticas públicas que reconheçam e evidenciem suas práticas como um diferencial competitivo de empresas que investem em sustentabilidade. Governos e empresas podem ser importantes aliados na promoção de políticas afirmativas para redução das desigualdades e, tal atitude do governo com relação a retirada de propaganda do ar, evidencia uma postura na direção inversa de uma proposta de desenvolvimento econômico aliado à construção de uma sociedade mais justa e sustentável.</p></p>
+<p><p>Quando analisadas questões de diversidade em outros países, percebe-se que os melhores resultados de inclusão social vêm de nações que avançaram em suas legislações e políticas públicas de fomento à promoção da diversidade e redução das desigualdades. Aderir às ações afirmativas, na prática, significa promover um ambiente econômico muito mais saudável e participativo com o envolvimento de todos os setores da sociedade, principalmente aqueles que são mais discriminados.</p></p>
+<p><p>É importante destacar que a invisibilidade de negros, negras e LGBTI+ na produção cultural, artística, cinematográfica, intelectual e midiática alimenta a violência simbólica e material que é o apagamento das subjetividades, das consciências e das afetividades orgulhosas de suas trajetórias sociais e culturais e da presença real e material dos corpos, das criatividades e manifestações nos espaços públicos, produtivos, artísticos e políticos.</p></p>
+<p><p>As ferramentas de comunicação são meios importantes para essa presença, para a manifestação das diferenças e para o fortalecimento de histórias e experiências individuais. Ainda hoje, é preciso que as agências, empresas e produtores se comprometam diretamente com produções mais plurais e com a agenda do desenvolvimento sustentável.</p></p>
+<p><p>A Declaração Conjunta sobre Liberdade de Expressão e Notícias Falsas (Fake News), Desinformação e Propaganda, prescreve sobre o princípio da Constituição Federal que tange a liberdade de expressão (art. 5º, IV), que deve ser respeitado.</p></p>
+<p><p>A determinação presidencial vai na contramão do mercado, que busca sempre meios de ampliar e cativar novos públicos. Para um país em aguda crise econômica, soa incompreensível para qualquer lógica de mercado, que a empresa possa simplesmente comunicar que despreza uma parcela significativa de seu mercado potencial.</p></p>
+<p><p>A pesquisa A Voz e a Vez – Diversidade no Mercado de Consumo e Empreendedorismo, estudo encomendado ao Instituto Locomotiva pelo Instituto Feira Preta, com apoio do Itaú, observou que os negros no Brasil representam 54% da população e movimentam, em renda própria, R$ 1,7 trilhão por ano. A pesquisa revela ainda que se os consumidores negros formassem um país, seria o 11º país do mundo em população, com 114,8 milhões de pessoas, e 17º país em consumo.</p></p>
+<p><p>No Brasil, 9,5 milhões de pessoas se declaram LGBTI+. Por trás da sigla (lésbicas, gays, bissexuais, travestis, transgêneros, transexuais e intersexuais) há um mercado em potencial, que movimenta aproximadamente R$ 150 bilhões por ano, segundo a consultoria InSearch Tendências e Estudos de Mercado, o chamado “pink money” ou dinheiro rosa.</p></p>
+<p><p>Nesse sentido, reafirmamos nossa compreensão de que a diversidade, além de fazer bem para a sociedade, é boa para os negócios. A sociedade brasileira precisa garantir que os avanços civilizatórios alcançados ao longo da história não sofram retrocessos. O Ethos acredita que as empresas são parte fundamental para a consolidação de ambientes plurais, de visibilidade e respeito às diferenças, e com elas quer seguir nessa construção.</p></p>
+{% endraw %}

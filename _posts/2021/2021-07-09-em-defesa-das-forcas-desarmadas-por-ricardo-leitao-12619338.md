@@ -1,0 +1,27 @@
+---
+id: 12619338
+date: "2021-07-09T08:48:09Z"
+last_modified_at: null
+tags:
+  - "corrupcao"
+categories:
+  - "sem-categoria"
+title: "Em defesa das For\u00e7as Desarmadas. Por Ricardo Leit\u00e3o"
+sutia: "Quais rumos tomar\u00e3o os fatos? Estar\u00e1 a escolha desses rumos nas m\u00e3os das For\u00e7as Armadas ou das For\u00e7as Desarmadas? Para o bem do Brasil, melhor que estejam nas m\u00e3os de todos, uma vez que a democracia atende e defende todos"
+chapeu: "elei\u00e7\u00f5es 2022"
+autor: "Jamildo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/07/07/51296379077_aa6ed0a39c_k__1_-18118538.jpg"
+---
+{% raw %}
+<p>Por Ricardo Leit&atilde;o, em artigo enviado ao blog<br /></p>
+<p>Com o objetivo de melhor explicitar a argumenta&ccedil;&atilde;o, ser&atilde;o denominadas For&ccedil;as Desarmadas, ou FFDD, as que n&atilde;o s&atilde;o as convencionais For&ccedil;as Armadas, ou FFAA &ndash; o Ex&eacute;rcito, a Marinha e a Aeron&aacute;utica. As FFDD e as FFAA n&atilde;o se op&otilde;em, se complementam, nos termos da Constitui&ccedil;&atilde;o. Estes definem com clareza o que &eacute; responsabilidade de cada uma delas, na defesa do essencial: a democracia.</p>
+<p>Ao longo da constru&ccedil;&atilde;o da democracia no Brasil, crises &ndash; algumas graves &ndash; marcaram o relacionamento entre as FFDD e as FFAA, a partir da insufla&ccedil;&atilde;o de extremistas dos dois lados. Outras foram tratadas como espor&aacute;dicas e contidas por lideran&ccedil;as, tamb&eacute;m dos dois lados, comprometidas com a preserva&ccedil;&atilde;o das conquistas democr&aacute;ticas.</p>
+<p>A nota do ministro da Defesa, general Braga Netto, tamb&eacute;m assinada pelos comandantes do Ex&eacute;rcito, da Marinha e da Aeron&aacute;utica, em que atacam a CPI da Covid, aumenta a temperatura do debate sobre o papel das For&ccedil;as Armadas na conturbada conjuntura do pa&iacute;s.</p>
+<p>Em interven&ccedil;&atilde;o emocionada, o presidente da CPI, senador Omar Aziz, lamentou que tantos oficiais estejam envolvidos nas investiga&ccedil;&otilde;es de corrup&ccedil;&atilde;o no Minist&eacute;rio da Sa&uacute;de, e os citou: o ex-ministro general Eduardo Pazzuello, o secret&aacute;rio-executivo coronel &Eacute;lcio Franco e o assessor do Minist&eacute;rio coronel Marcelo Blanco da Costa. Afirmou que representavam &ldquo;o lado podre das For&ccedil;as Armadas&rdquo;, mas em nenhum momento generalizou as acusa&ccedil;&otilde;es.</p>
+<p>A resposta das For&ccedil;as Armadas, em nota oficial, foi imediata. O documento diz que o senador Aziz desrespeitou as institui&ccedil;&otilde;es militares e generalizou as acusa&ccedil;&otilde;es de corrup&ccedil;&atilde;o. &ldquo;Essa narrativa, afastada dos fatos, atinge as For&ccedil;as Armadas de forma vil e leviana, tratando-se de uma acusa&ccedil;&atilde;o grave, infundada e, sobretudo, irrespons&aacute;vel&rdquo;, contestam os comandantes.</p>
+<p>As afirma&ccedil;&otilde;es do senador Aziz podem at&eacute; ter sido inadequadas, como presidente da CPI durante tomada de depoimento. Mas n&atilde;o s&atilde;o infundadas: as investiga&ccedil;&otilde;es est&atilde;o comprovando que oficiais de patentes superiores s&atilde;o suspeitos de corrup&ccedil;&atilde;o no Minist&eacute;rio da Sa&uacute;de, para onde foram levados pelo general Eduardo Pazzuello.</p>
+<p>A nota foi vista como uma tentativa de intimidar a CPI da Covid, o que &eacute; de muito gosto de Jair Bolsonaro, empenhado, desde a organiza&ccedil;&atilde;o da comiss&atilde;o, em boicotar o seu trabalho. N&atilde;o por acaso, o presidente reproduziu a nota dos militares em suas redes sociais, evid&ecirc;ncia de sua aprova&ccedil;&atilde;o do texto e de rep&uacute;dio &agrave; comiss&atilde;o do Senado.</p>
+<p>O problema de Bolsonaro &eacute; que o trabalho da CPI conta com apoio popular cada vez maior, ao contr&aacute;rio de sua popularidade entre os eleitores &ndash; cada vez menor. A nota oficial das FFAA n&atilde;o haver&aacute; de reduzir o apoio das FFDD &agrave; comiss&atilde;o &ndash; pode at&eacute; aument&aacute;-lo, desde que fique evidenciada a interfer&ecirc;ncia anti-democr&aacute;tica em uma investiga&ccedil;&atilde;o do Poder Legislativo.</p>
+<p>As investiga&ccedil;&otilde;es da CPI da Covid v&atilde;o avan&ccedil;ar e aumentar os problemas de Sua Excel&ecirc;ncia. Pend&ecirc;ncias simples, por exemplo, ainda n&atilde;o foram solucionadas. O presidente recebeu, pessoalmente, den&uacute;ncia de fraude bilion&aacute;ria na compra de vacinas indianas pelo Minist&eacute;rio da Sa&uacute;de. O encontro se deu em 20 de mar&ccedil;o passado. Aos seus interlocutores &ndash; um deles o deputado federal Luiz Miranda &ndash; disse ser &ldquo;um rolo do Ricardo Barros&rdquo;. Ex-ministro da Sa&uacute;de de Michel Temer, Barros &eacute; l&iacute;der da bancada bolsonarista na C&acirc;mara dos Deputados e se mant&eacute;m no cargo, imp&aacute;vido.</p>
+<p>Quais rumos tomar&atilde;o os fatos? Estar&aacute; a escolha desses rumos nas m&atilde;os das For&ccedil;as Armadas ou das For&ccedil;as Desarmadas? Para o bem do Brasil, melhor que estejam nas m&atilde;os de todos, uma vez que a democracia atende e defende todos. O obst&aacute;culo &agrave; necess&aacute;ria e urgente unidade e nacional, nesse momento, &eacute; Jair Messias Bolsonaro, o respons&aacute;vel por um desgoverno hist&oacute;rico. Acuado pela perspectiva de derrota no pr&oacute;ximo ano, ele pode at&eacute; tentar um golpe. A defesa do voto impresso &eacute; o primeiro passo.</p>
+{% endraw %}

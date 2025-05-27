@@ -1,0 +1,26 @@
+---
+id: 12610218
+date: "2021-03-30T11:30:49Z"
+last_modified_at: null
+tags:
+  - "ampliacao"
+  - "enem-digital"
+  - "gabriel-diniz"
+  - "tecnologia"
+categories:
+  - "noticias"
+title: "Jangui\u00ea Diniz amplia atua\u00e7\u00e3o na \u00e1rea tecnologia digital"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2021/03/jan1.jpg"
+---
+{% raw %}
+<p><p>Com crescimento médio de 20% nos últimos anos e parte de um mercado em expansão, impulsionado pela transformação digital das empresas, a empresa de tecnologia pernambucana Pitang Agile IT prospecta um crescimento de 12% no Brasil em 2021 e tornou-se foco de investimento milionário do empreendedor Janguiê Diniz. O empresário, por meio de seu Venture Capital Epitychia, por valor não revelado, adquiriu 20% da operação da empresa, que em 2020 destacou-se com a aquisição de outros players do segmento e esteve listada como um dos melhores lugares para se trabalhar, de acordo com a premiação GPTW Brasil 2020 – Great Place To Work.</p></p>
+<p><p>Com mais de 15 anos de atuação, a Pitang tem apresentado um crescimento exponencial nos últimos anos e atraído atenção de investidores nacionais e estrangeiros. “Em 2020, anunciamos a aquisição societária de outras duas empresas, o que fortaleceu ainda mais nosso posicionamento de mercado. Focamos em crescer, investindo em qualidade de serviço, talentos e operação. A entrada de um novo sócio no projeto, da qualidade do empreendedor Janguiê Diniz, impulsiona a nossa participação no segmento e, cada um com sua expertise, irá contribuir para que o objetivo de nos tornarmos uma das maiores empresas de tecnologia do país seja alcançado, com o aumento de nossa capacidade de investimento e aceleração da implantação de nosso plano de negócios", explica Antônio Valença, sócio-diretor da Pitang.</p></p>
+<p><p>Destaque como empreendedor no setor de educação, mas com negócios em diversos segmentos e investindo fortemente em startups e empresas de tecnologia, Janguiê passa a atuar como sócio investidor e conselheiro da Pitang Agile IT, focando no crescimento e desenvolvimento da empresa com base no mercado e suas oportunidades. “A evolução da sociedade como um todo está muito baseada na tecnologia. Nos últimos anos, provou-se também que a transformação digital é condição sine qua non para que empresas continuem relevantes e competitivas em um mercado cada vez mais globalizado e hiperconectado. Por isso, entro na composição societária da Pitang para somar forças e, por meio dessa empresa que desponta entre as líderes de mercado, ajudar a desenvolver todo o ecossistema de tecnologia no Brasil, com soluções inovadoras e voltadas para o futuro”, pontua o empresário.</p></p>
+<p><p>De acordo com Claudio Castro, sócio-diretor da Pitang, a entrada de Janguiê no negócio é, também, uma nova maneira de tornar o projeto mais eficiente e competitivo. “Não é só sobre tecnologia. Somos uma empresa de tecnologia que é reconhecida por sua capacidade inovadora e por sua atuação plural, o que é reforçado com a entrada do novo sócio. Sabemos da força que Janguiê tem no mercado e suas referências como empreendedor. Tê-lo no nosso time de sócios e como conselheiro, para contribuir na operação com suas sugestões, análises e expertises empresariais, é algo extremamente positivo e que reforça sobremaneira o nosso desempenho”, comenta.</p></p>
+<p><p>A Pitang, que figura entre as maiores empresas do Brasil em desenvolvimento de software e está entre as cinco maiores do Nordeste, objetiva acelerar seu faturamento nos próximos anos, ultrapassando os R$ 100 milhões, e culminando com a realização de um IPO (Initial Public Offering - em português, “Oferta Pública Inicial”) na Bolsa de Valores, juntando-se às grandes empresas de tecnologia brasileiras. “A abertura de capital permite às empresas obter recursos para financiar suas atividades, e companhias abertas têm mais visibilidade no mercado. Esse já é um objetivo que temos enquanto Pitang e que avaliamos, constantemente, o momento ideal de realizar. A chegada de um sócio com experiência em um processo como esse irá facilitar e descortinar novos horizontes, levando a empresa mais além”, pontua Gustavo Bastos, sócio-diretor da Pitang Agile IT.</p></p>
+<p><p>Sempre analisando o mercado e as oportunidades de crescimento por aquisições, a Pitang tem participação societária em outras empresas de serviços de TI, como a BBChain – por meio da qual passou a atender 80% do mercado de projetos blockchain no Brasil; a Dreamm, uma consultoria focada em soluções Salesforce que atende clientes de diversos portes e segmentos; e a Qualiti, uma empresa focada na formação de profissionais para o setor de TI. “O setor de TI, telecomunicação e comunicação já responde por 7% do PIB nacional, com expectativa de chegar a 11% até 2022. O momento é de crescimento e investimentos, e a entrada do novo sócio nos ajudará na discussão e implementação de estratégias que acelerem o nosso crescimento”, finaliza Roberto Borges, também sócio-diretor da Pitang.</p></p>
+<p><p>Seguindo a tradição da companhia, Janguiê participou na tarde do dia 29 de uma reunião on-line com todos os “pitangueiros”, como são chamados os colaboradores da empresa, na qual foi apresentado como novo sócio investidor e conselheiro.</p></p>
+{% endraw %}

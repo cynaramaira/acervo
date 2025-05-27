@@ -1,0 +1,26 @@
+---
+id: 15681944
+date: "2024-03-08T08:56:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "justica-e-seguranca-publica"
+categories:
+  - "sem-categoria"
+title: "TJPE vai criar vara regional para combater organiza\u00e7\u00f5es criminosas"
+sutia: "Em raz\u00e3o da modifica\u00e7\u00e3o de compet\u00eancia da Vara de Crimes Contra a Administra\u00e7\u00e3o P\u00fablica e a Ordem Tribut\u00e1ria da Capital, haver\u00e1 redistribui\u00e7\u00e3o dos processos"
+chapeu: "Justi\u00e7a estadual"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/02/27/tjpe-26491689.jpg"
+---
+{% raw %}
+<p>O Pleno do Tribunal de Justi&ccedil;a de Pernambuco (TJPE), vai apreciar o Projeto N&ordm; 009/2024, de relatoria da Presid&ecirc;ncia do Judici&aacute;rio estadual pernambucano, que transforma a Vara de Crimes Contra a Administra&ccedil;&atilde;o P&uacute;blica e a Ordem Tribut&aacute;ria da Capital em Vara Regional de Crimes Contra a Administra&ccedil;&atilde;o P&uacute;blica, Ordem Tribut&aacute;ria, Lavagem de Dinheiro e de Delitos de Organiza&ccedil;&otilde;es Criminosas Colegiada do Estado.</p>
+<p>Segundo o TJPE, a cria&ccedil;&atilde;o da unidade leva em considera&ccedil;&atilde;o a necessidade de implementa&ccedil;&atilde;o de uma pol&iacute;tica efetiva na tramita&ccedil;&atilde;o dos processos criminais de organiza&ccedil;&otilde;es criminosas, e, por consequ&ecirc;ncia, maior efici&ecirc;ncia na presta&ccedil;&atilde;o jurisdicional.</p>
+<p>Segundo o argumento descrito no projeto, para a cria&ccedil;&atilde;o da unidade, "o combate &agrave;s organiza&ccedil;&otilde;es criminosas tem se apresentado um &aacute;rduo desafio ao Estado, exigindo deste n&atilde;o apenas vontade pol&iacute;tico-administrativa, mas a&ccedil;&otilde;es concretas nesse desiderato. Vimos a complexidade e o veloz aperfei&ccedil;oamento das estruturas criminosas na pr&aacute;tica das suas a&ccedil;&otilde;es il&iacute;citas (tr&aacute;fico il&iacute;cito de entorpecentes em &acirc;mbito nacional e internacional, tr&aacute;fico de armas de fogo, crimes contra a Administra&ccedil;&atilde;o P&uacute;blica etc), de modo que atores respons&aacute;veis pela investiga&ccedil;&atilde;o, processo e julgamento das pessoas envolvidas nesse contexto devem igualmente estar em constante evolu&ccedil;&atilde;o a fim de bem cumprir seus misteres".</p>
+<p>A partir da modifica&ccedil;&atilde;o estabelecida pela Lei no 13.964/19, a Lei no 12.694/12 foi acrescida com o art. 1&ordm;-A possibilitando aos Tribunais de Justi&ccedil;a e aos Tribunais Regionais Federais a instala&ccedil;&atilde;o de Varas Criminais Colegiadas com compet&ecirc;ncia para julgamento de crimes de pertin&ecirc;ncia a organiza&ccedil;&otilde;es criminosas armadas ou que tenham armas &agrave; disposi&ccedil;&atilde;o e das infra&ccedil;&otilde;es penais conexas.</p>
+<p>Segundo descrito no Projeto N&ordm; 009/2024, "a experi&ecirc;ncia tem demonstrado que a especializa&ccedil;&atilde;o de Varas em temas sens&iacute;veis e, por vezes complexos, tem gerado bons frutos, no sentido de ocasionar maior efici&ecirc;ncia por meio de um processo mais c&eacute;lere, menor incid&ecirc;ncia de nulidades processuais e um aumento de senten&ccedil;as proferidas, cumprindo assim ditames constitucionais, tais como o respeito ao devido processo legal e a razo&aacute;vel dura&ccedil;&atilde;o dos processos".</p>
+<p>Ainda foi enfatizado no normativo como base para a implanta&ccedil;&atilde;o da unidade, que "o objetivo &uacute;ltimo das organiza&ccedil;&otilde;es criminosas &eacute; garantir os lucros das infra&ccedil;&otilde;es penais, sendo a lavagem de dinheiro a engenharia utilizada para dar apar&ecirc;ncia de licitude e incluir na economia formal os bens, direitos e valores auferidos ilicitamente, causando severos preju&iacute;zos &agrave; paz social e ao desenvolvimento econ&ocirc;mico-social".</p>
+<p>Al&eacute;m da compet&ecirc;ncia do art. 89, a Vara Regional de Crimes Contra a Administra&ccedil;&atilde;o P&uacute;blica, Ordem Tribut&aacute;ria, Lavagem de Dinheiro e de Delitos de Organiza&ccedil;&otilde;es Criminosas Colegiada do Estado ter&aacute; a compet&ecirc;ncia definida no art. 90-K, da Lei Complementar n. 100 de 21 de novembro de 2007 - C&oacute;digo de Organiza&ccedil;&atilde;o Judici&aacute;ria do Estado de Pernambuco.</p>
+<p>A compet&ecirc;ncia da Vara Regional de Crimes Contra a Administra&ccedil;&atilde;o P&uacute;blica, Ordem Tribut&aacute;ria, Lavagem de Dinheiro e de Delitos de Organiza&ccedil;&otilde;es Criminosas Colegiada do Estado abrange as comarcas das 1a, 2a e 3a circunscri&ccedil;&otilde;es judici&aacute;rias.</p>
+<p>Em raz&atilde;o da modifica&ccedil;&atilde;o de compet&ecirc;ncia da Vara de Crimes Contra a Administra&ccedil;&atilde;o P&uacute;blica e a Ordem Tribut&aacute;ria da Capital, haver&aacute; redistribui&ccedil;&atilde;o dos processos dos feitos relativos a delitos de organiza&ccedil;&otilde;es criminosas (Lei n. 12.850, de 2 de agosto de 2013) e Lavagem de Dinheiro (Lei n. 9.613, de 3 de mar&ccedil;o de 1998) oriundos das unidades criminais.</p>
+{% endraw %}

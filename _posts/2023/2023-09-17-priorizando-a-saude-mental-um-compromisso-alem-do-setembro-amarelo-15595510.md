@@ -1,0 +1,25 @@
+---
+id: 15595510
+date: "2023-09-17T19:15:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "saude-mental"
+categories:
+  - "sem-categoria"
+title: "Priorizando a sa\u00fade mental: um compromisso al\u00e9m do Setembro Amarelo"
+sutia: "\"Enquanto celebramos o Setembro Amarelo, \u00e9 essencial lembrar que a sa\u00fade mental merece nossa aten\u00e7\u00e3o, compreens\u00e3o e apoio ao longo de todo o ano. \u00c9 um compromisso cont\u00ednuo, uma jornada coletiva em prol do bem-estar emocional e da qualidade de vida de todos\""
+chapeu: "conscientiza\u00e7\u00e3o e preven\u00e7\u00e3o"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/09/17/whatsapp_image_2023_09_12_at_13_12_11-24326650.jpeg"
+---
+{% raw %}
+<p>Por Julyanna Cardoso, em artigo enviado ao <strong>blog de Jamildo</strong></p>
+<p>Setembro &eacute; o m&ecirc;s que se enche de amarelo para nos lembrar da import&acirc;ncia da conscientiza&ccedil;&atilde;o e preven&ccedil;&atilde;o ao suic&iacute;dio. &Eacute; o momento em que nos unimos para dar destaque &agrave; sa&uacute;de mental e fomentar o di&aacute;logo sobre um tema de vital import&acirc;ncia. No entanto, &eacute; crucial ressaltar que a sa&uacute;de mental n&atilde;o deve ser uma quest&atilde;o sazonal. Ela merece aten&ccedil;&atilde;o e destaque ao longo de todo o ano. Nos &uacute;ltimos anos, temos observado uma not&aacute;vel transforma&ccedil;&atilde;o na forma como a sociedade encara a sa&uacute;de mental. Cada vez mais, as pessoas est&atilde;o em busca de compreender e enfrentar os desafios emocionais que surgem em suas vidas. Dados recentes demonstram um crescente interesse e conscientiza&ccedil;&atilde;o em rela&ccedil;&atilde;o &agrave; ansiedade e &agrave; depress&atilde;o.</p>
+<p>Em 2021, as buscas no Google relacionadas &agrave; ansiedade e &agrave; depress&atilde;o atingiram n&uacute;meros surpreendentes, totalizando 13,5 milh&otilde;es de consultas. &Eacute; not&aacute;vel que, dentre essas pesquisas, a ansiedade tenha superado a depress&atilde;o, com 7,5 milh&otilde;es de consultas direcionadas a compreender esse transtorno espec&iacute;fico, comparadas a seis milh&otilde;es voltados para a depress&atilde;o. Al&eacute;m disso, uma pesquisa conduzida pela Semrush, uma plataforma de gerenciamento de visibilidade online, evidenciou um aumento significativo nas buscas pelo termo "sa&uacute;de mental". Saltando de 14,8 mil em janeiro de 2022 para 22 mil em mar&ccedil;o de 2023, isso representa um crescimento de 50% em apenas um ano.</p>
+<p>Termos como "sa&uacute;de mental no trabalho", "teste de sa&uacute;de mental", "horm&ocirc;nio do estresse", "rem&eacute;dio para estresse" e "sintomas de estresse" tamb&eacute;m apresentaram aumentos relevantes, demonstrando um interesse crescente em compreender e enfrentar os desafios emocionais associados ao cotidiano e ao ambiente de trabalho. Esta tend&ecirc;ncia ascendente n&atilde;o &eacute; apenas uma reflex&atilde;o do aumento da busca por informa&ccedil;&otilde;es, mas tamb&eacute;m um indicativo claro de que as pessoas est&atilde;o dispostas a compreender e enfrentar os desafios emocionais que enfrentam.</p>
+<p>&Eacute; sempre v&aacute;lido destacar a import&acirc;ncia dessa crescente conscientiza&ccedil;&atilde;o. Este movimento indica um progresso positivo na sociedade em rela&ccedil;&atilde;o a essas quest&otilde;es cr&iacute;ticas de bem-estar emocional. A iniciativa das pessoas em buscar informa&ccedil;&otilde;es e compreender suas pr&oacute;prias emo&ccedil;&otilde;es, o que &eacute; um passo vital em dire&ccedil;&atilde;o ao reconhecimento e tratamento adequado de dist&uacute;rbios emocionais.</p>
+<p>&Agrave; medida que mais pessoas buscam entender e discutir quest&otilde;es relacionadas &agrave; sa&uacute;de mental, a sociedade est&aacute; trilhando um caminho promissor para garantir que o bem-estar emocional seja uma prioridade permanente. A crescente conscientiza&ccedil;&atilde;o sobre a ansiedade e a depress&atilde;o n&atilde;o apenas destaca a necessidade de apoio e tratamento adequados, mas tamb&eacute;m enfatiza a import&acirc;ncia de um di&aacute;logo aberto sobre quest&otilde;es de sa&uacute;de mental. Enquanto celebramos o Setembro Amarelo, &eacute; essencial lembrar que a sa&uacute;de mental merece nossa aten&ccedil;&atilde;o, compreens&atilde;o e apoio ao longo de todo o ano. &Eacute; um compromisso cont&iacute;nuo, uma jornada coletiva em prol do bem-estar emocional e da qualidade de vida de todos.</p>
+<p>PS:A psic&oacute;loga Julyanna Cardoso, a frente do Centro Pernambucano de Psicologia Aplicada (CEPPA), &eacute; especialista em sa&uacute;de mental, bem-estar, neuropsicologia e psicologia da sa&uacute;de.<br /></p>
+<p>PS2: O blogueiro tem uma filha, muito amada, que sofre com transtornos metais permanentes ap&oacute;s um processo de depress&atilde;o grave.</p>
+{% endraw %}

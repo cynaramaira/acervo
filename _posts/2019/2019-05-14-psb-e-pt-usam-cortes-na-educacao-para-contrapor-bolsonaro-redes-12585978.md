@@ -1,0 +1,55 @@
+---
+id: 12585978
+date: "2019-05-14T20:30:42Z"
+last_modified_at: null
+tags:
+  - "bolsonaro"
+  - "redes-sociais"
+categories:
+  - "noticias"
+title: "PSB e PT usam 'cortes na educa\u00e7\u00e3o' para contrapor Bolsonaro. Redes sociais pedem boicote a beijo gay"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/05/upe.jpg"
+---
+{% raw %}
+<p><p>Nesta terça-feira, atores do PT e PSB fizeram em vários níveis da gestão nacional movimentos para se contrapor ao contingenciamento de recursos anunciado pelo governo federal na área de educação, que a oposição chama de cortes todos os dias.</p></p>
+<p><p>A manobra pode estar ligada ao calendário da oposição. Desde a semana passada, erstão previstos protestos para amanhã, quarta-feira, dia 15, contra o contingenciamento das verbas do MEC para as universidades públicas.</p></p>
+<p><p><img class="alignleft size-full wp-image-214925" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2019/05/paulo.jpg" alt="" width="723" height="899" /></p></p>
+<p><p>No plano local, o governador Paulo Câmara fez o movimento de anunciar a ampliação de investimento na UPE</p></p>
+<p><p>Com o compromisso de seguir fortalecendo a educação pública pernambucana, o governador Paulo Câmara anunciou, nesta terça-feira (14/05), um importante reforço no orçamento da Universidade de Pernambuco (UPE).</p></p>
+<p><p>O chefe do Executivo estadual disse que estava garantindo um aumento de 26% no custeio da instituição, em relação ao valor empenhado no ano passado. Em 2018, o orçamento da UPE foi de R$ 21,6 milhões. Com o incremento, a instituição contará com 27,2 milhões.</p></p>
+<p><p>"Educação é a maior prioridade da nossa gestão. Pernambuco e o Brasil só vão superar essa crise, que vem desde 2014, investindo do ensino básico ao superior. Por isso, estamos não só assegurando os recursos da UPE, como também ampliando o orçamento da nossa universidade", disse Paulo Câmara.</p></p>
+<p><p>No plano federal, no mesmo dia, o deputado João Campos, do PSB, tido como um dos possiveis candidatos a prefeito em 2020 no Recife, aliaou-se a outro socialista Felipe Rigoni (PSB-ES) e uma badalada figura do PDT nacional, Tabata Amaral (PDT-SP), em uma Comissão Externa da Câmara dos Deputado que vai fiscalizar execução de planejamento do MEC.</p></p>
+<p><p><img class="alignleft size-full wp-image-214924" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2019/05/campos.jpg" alt="" width="984" height="749" /></p></p>
+<p><p>Eles foram apresentados como três jovens deputados “à frente de uma iniciativa em prol da educação brasileira”.</p></p>
+<p><p>“Diante da atual conjuntura, de mudanças de ministros e de diversos secretários do MEC, e arbitrariedades na condução da pasta, há uma preocupação generalizada com o futuro da educação no país. Já somamos quatro meses em que os principais projetos de um ministério de extrema importância para o desenvolvimento e para a redução da desigualdade no país estão paralisados ou arrasados”.</p></p>
+<p><p>O colegiado tem a deputada na coordenação e Campos como vice-coordenador dos trabalhos. Rigoni é o relator principal.</p></p>
+<p><p>O colegiado atuará na análise do planejamento estratégico do MEC, assim como de suas secretarias e demais órgãos. Será avaliado se programas estão sendo executados e, nos casos negativos, se foram substituídos por novas ações. Além disso, serão verificados os pontos críticos detectados até então.</p></p>
+<p><p>“O Ministério e seus órgãos serão procurados para coleta de informações sobre o planejamento e desenvolvimento das ações. Faremos reuniões com os responsáveis diretos pelas diferentes áreas, vamos realizar audiências públicas e protocolar os requerimentos de informação necessários. Fico muito satisfeito em fazer parte de um grupo jovem e que representa a renovação de fato”, disse João Campos.</p></p>
+<p><p>“O bloqueio linear de 30% dos recursos de todas as universidades federais será um dos pontos analisados, assim como os problemas com o Enem. Essa comissão foi criada no momento em que o ministro Weintraub assume a pasta herdando três meses e meio de atraso em que pouco ou quase nada foi feito pelo ministro Vélez. Temos uma preocupação muito grande de que essa paralisia prosseguisse e termos um ano perdido para educação. Entendemos que era importante acompanhar de perto a criação e execução do planejamento estratégico do MEC e o desenvolvimento dos projetos que estavam parados para que pudéssemos reconquistar esse ano”, explica a deputada federal Tabata Amaral (PDT-SP).</p></p>
+<p><p>“A nossa intenção é manter um diálogo aberto com o MEC e, ao mesmo tempo, exercer o nosso papel de fiscalizador, que é do Congresso, de uma forma muito mais próxima neste ano que é muito atípico para a educação. Nos preocupa muito que a guerra ideológica que está sendo travada pelo governo prejudique e até mesmo ameaça o que temos de mais sólido na educação, como é o caso das provas avaliadoras, como Enem, o Fundeb e a formação dos professores”, afirma Tabata.</p></p>
+<p><p>Em dezembro, ao final dos trabalhos, será feito um relatório mostrando os resultados do acompanhamento e avaliando o desenvolvimento dos trabalhos do MEC.</p></p>
+<p><p><img class="alignleft size-full wp-image-214922" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2019/05/eriberto-1.jpg" alt="" width="1242" height="810" /></p></p>
+<p><p>No plano municipal, aliados dos socialistas, como o PTC, propuseram e a Câmara do Recife faz voto de repúdio contra corte nas universidades. A Câmara do Recife aprovou por unanimidade o voto de repúdio contra o corte “nas bolsas que ajudam a financiar pesquisa nas universidades do País”.</p></p>
+<p><p>O requerimento foi de autoria do vereador Eriberto Rafael (PTC).</p></p>
+<p><p>“O anúncio dos cortes foi feito na semana passada, representando menos 3.474 bolsas de pesquisa oferecidas pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes), que, nos últimos anos, se transformou na agência federal mais importante no apoio à formação de recursos humanos do País. Ao anunciar uma economia, entre aspas, de R$ 50 milhões com as bolsas, fica claro que o Governo Bolsonaro considera a pesquisa no País como um gasto, não como investimento, uma visão extremamente limitada, infelizmente”, destacou em pronunciamento na Casa.</p></p>
+<p><p>“O País pode perder capital humano de pesquisa, já que, sem investimento, os profissionais vão procurar apoio no exterior. Este voto de repúdio é uma reação desta Casa contra a atitude do Governo. Torcemos para que a educação no País passe a ser vista como prioridade, refletindo diretamente em mais investimentos, não em cortes”, afirmou.</p></p>
+<p><p><img class="alignleft size-full wp-image-214918" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2019/05/unnamed-1.jpg" alt="" width="1984" height="1323" /></p></p>
+<p><p><br /></p>
+<p> Os petistas foram além. No Rio Grande do Norte, por exemplo. A gestora petista prometeu que vai repor corte de emendas federais para a UERN.</p></p>
+<p><p>“O Governo do Estado vai repassar R$ 3,6 milhões para garantir investimentos na Universidade do Estado do Rio Grande do Norte (UERN), sendo R$ 3 milhões referentes a contingenciamentos realizados pelo Governo Federal nas emendas inseridas no Orçamento Geral da União que foram destinadas à instituição de ensino superior pela bancada federal potiguar. Os R$ 600 mil restantes são contrapartidas para o recebimento de mais R$ 6 milhões em emendas dos anos anteriores”.</p></p>
+<p><p>A decisão foi anunciada pela governadora Fátima Bezerra em reunião com a diretoria da Associação dos Docentes da UERN (Aduern). O repasse será formalizado na próxima semana, em Mossoró.</p></p>
+<p><p>“Nosso trabalho é totalmente voltado à valorização da UERN e isso passa pelos investimentos, pela valorização do profissional que trabalha na instituição, ainda mais nesse momento muito sério que passa a educação do país”, disse a governadora.</p></p>
+<p><p><img class="alignleft size-full wp-image-214926" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2019/05/comercial-natura.jpg" alt="" width="3000" height="2000" /></p></p>
+<p><p>Por oportuno, vale a pena ler o relatório da equipe de Análise BITES, de São Paulo, que analisa os movimentos das redes sociais no Brasil.</p></p>
+<p><p>“<strong>#BoicoteNatura supera as cinco principais hashtags de apoio à paralisação em defesa das universidades públicas</strong></p></p>
+<p><p>1. É baixa a adesão da opinião pública digital ao tema. Haverá protestos com maior concentração em grandes centros, como São Paulo e Rio de Janeiro, mas serão identificados como manifestações de esquerda por apoiadores do governo Bolsonaro, lembrando a campanha eleitoral de 2018. BITES não identificou massa crítica digital suficiente para romper essa fronteira, por enquanto.</p></p>
+<p><p>2. Há risco de embates de estudantes contra forças de segurança, o que pode desencadear, como ocorreu em 2013 no centro de São Paulo, uma onda de solidariedade digital em escala nacional em torno dos alunos e professores. Essa probabilidade aumenta porque algumas escolas de elite, especialmente de São Paulo, suspenderam as aulas para seus estudantes e professores participarem dos protestos. Imagens de estudantes de classe média em confronto aberto com a Polícia Militar podem mudar radicalmente a percepção do movimento junto à opinião pública.</p></p>
+<p><p>3. Até às 18h30 de hoje, o interesse em torno da paralisação das escolas e universidades era superado pela polêmica criada em torno da Natura, criticada por expor beijos de três casais lésbicos em um comercial na Internet.</p></p>
+<p><p>4. A hashtag #boicotenatura havia registrado até às 19h de hoje o volume de 91.327 citações no Twitter contra 11.152 em torno do conjunto de expressões em apoio aos movimentos contra o governo Bolsonaro: #tsunamidaeducação, #15M, #levantedoslivros, #grevenacionaldaeducação e #defendendoaeducação.</p></p>
+<p><p>5. No Google, considerando as últimas 24 horas, numa escala de 0 a 100, o interesse pela Natura estava em 73. As buscas para a expressão “paralisação” registravam taxa de 31. A média do País estava em 45, sendo que em sete estados esse resultado estava acima da média, incluindo São Paulo. No estado, o nível de interesse era de 52 no Google.</p></p>
+<p><p>6. Na mídia clássica, entre os 29.155 textos publicados em sites de notícias nas últimas 24 horas, o artigo mais compartilhado no Facebook e Twitter até às 19h era sobre a decisão do STJ que determinou a suspensão de qualquer proibição em torno de animais de estimação em condomínios. O segundo lugar estava o anúncio da canonização de Irmã Dulce pela Igreja Católica. O terceiro relatava a suspensão das aulas em algumas escolas privadas paulistas.</p></p>
+<p><p>6. No Facebook, entre os eventos de maior relevância, mas sem a adesão substantiva de participantes, havia dois convocando as pessoas para protestos na Paulista”.</p></p>
+{% endraw %}

@@ -1,0 +1,50 @@
+---
+id: 12512396
+date: "2016-02-18T18:30:58Z"
+last_modified_at: null
+tags:
+  - "fraude"
+  - "internada"
+  - "vitimas"
+categories:
+  - "noticias"
+title: "Ex-comodoro do Cabanga diz que \u00e9 vitima de arma\u00e7\u00e3o interna e que sofreu perdas com fraude em corretora mineira"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/02/IMG_7715.jpg"
+---
+{% raw %}
+<p>Por Jamildo Melo, editor do Blog</p>
+<p>O empresário Claudio Cardoso, ex-comodoro do Cabanga Iati Clube, expulso do clube nesta terça-feira, depois de ter sido acusado desde o ano passado de promover supostos desvios na instituição, quebrou o silêncio e disse ao<strong> Blog de Jamildo</strong>, nesta quinta-feira, que foi vítima de uma armação de outros conselheiros para tomar o comando da entidade e que eles se aproveitaram de uma fraude na corretora Corval, de Minas Gerais, onde recursos do clube haviam sido depositados, para denegrir a sua imagem.</p>
+<p>“Não quero polêmica, não quero atacar ninguém, mas é um absurdo o que fizeram comigo. Fiquei estarrecido. É um armação, não tenho nada a ver com isto. Sou dono de nove empresas e emprego 250 funcionários e tenho um nome a zelar”, comentou.</p>
+<p>Conforme revelou o blog, sem alarde, na terça-feira, o clube Cabanga expulsou de seus quadros o ex-comodoro Cláudio Cardoso, acusado de ter promovido desvios de recursos da entidade. O ex-comodoro perdeu até o título de sócio-benemérito. Em uma reunião que contou com a presença de 40 conselheiros, dos 50 conselheiros do clube, 27 deles votaram pela expulsão, histórica. 12 conselheiros votaram pela suspensão, mas foram voto vencido. Houve uma abstenção.</p>
+<p>A direção do clube informou que não iria se pronunciar oficialmente, alegando que não desejava expor publicamente o empresário (calvo, no centro da foto, no momento em fazia sua defesa perante os conselheiros). É a primeira vez que um campeão mundial passa por situação semelhante, na área náutica.</p>
+<p>“Trata-se de um episódio lamentável, para a história do clube, mas era necessário dar essa resposta aos sócios. Não houve proveito próprio, não há previsão de responsabilização penal, mas o desfalque existiu, foi comprovado por perícia e está sendo tratado como um problema disciplinar interno, uma irregularidade gerencial”, explicou uma fonte do blog. Na verdade, a entidade teme um processo judicial.</p>
+<p><a href="https://blogs.ne10.uol.com.br/jamildo/2015/02/08/barraco-em-clube-de-luxo-recife-eleicao-no-cabanga-iate-clube-teve-denuncias-de-desvio-e-ate-agressoes-comodoro/">Barraco em clube de luxo do Recife. Eleição no Cabanga Iate Clube teve denúncias de desvios e agressões a comodoro</a></p>
+<p><strong><a href="https://blogs.ne10.uol.com.br/jamildo/2015/02/09/em-nota-comodoro-cabanga-iate-clube-confirma-agressao-e-expulsao-de-socio-que-o-socou/">Comodoro do Cabanga Iate Clube confirma agressão e expulsão de sócio que o socou. Prejuízo com especulação é jogado para antecessor</a></strong></p>
+<p>Claudio Cardoso disse que o clube Cabanga já está escrito como credor quirografário da falência da corretora mineira e que os valores serão ressarcidos, em um futuro próximo.</p>
+<p>“O clube não sofreu desvio algum. Acreditando na Justiça, vamos provar que o Cabanga foi vítima de uma fraude. O processo de liquidação da corretora já acabou e foi transformado em falência. Já nos habilitamos no processo. Trata-se de uma fraude nacional, onde cerca de 300 pessoas tiveram um prejuízo de R$ 40 milhões a R$ 50 milhões”, informou.</p>
+<p>“Como a falência retroage cinco anos e os donos tem relação com o BMG haverá recursos para pagar as aplicações”, acredita.</p>
+<p>O próprio empresário conta ter sido prejudicado pela perda de aplicações, com um prejuízo de cerca de R$ 1,5 milhão na Corval.</p>
+<p>“Será que eu sou um suicida? que perde seu próprio dinheiro em uma aplicação fraudulenta? Fui vítima de uma fraude, como o clube. A prova é que não apareço como investigado pelo Banco Central. A verdade é que a Corval criou um site fictício, com uma empresa chamada HPN, para administrar recursos como se fosse do JP Morgam. O banco americano também já entrou como litisconsorte (pois seu nome estava sendo usado indevidamente)”, diz. "Sou credor, eu julguei ser um fundo rentável".</p>
+<p><strong>Processo político</strong></p>
+<p>“Assim, o processo (de expulsão) foi político. Usaram a liquidação da corretora para imputar a mim a responsabilidade pelas perdas. Na verdade, somos vítima de um golpe que o BC está apurando. O que fizeram comigo foi uma maldade, por vingança. Eu fui fazendo uma corrente de desafetos no clube ao longo de um processo de moralização. Não sou um maloqueiro, tenho 20 anos no mercado e um nome a zelar”</p>
+<p><strong>Sem espaço para defesa</strong></p>
+<p>O empresário reclama ainda que não teve muito tempo para se defender no processo interno.</p>
+<p>“Foram 58 minutos de acusação, meu advogado teve 10 minutos e eu tive três minutos e 30”, disse.</p>
+<p>“Em um primeiro relatório, a constatação foi de que sofremos uma fraude. Depois, houve a troca do presidente do conselho e houve essa decisão equivocada. Alguns conselheiros desatentos atribuíram a mim um ato anti-ético”, diz. Ele diz que um processo de auditoria sigiloso, feito pela KPMG, comprova a situação toda.</p>
+<p>“O próprio comodoro Marcos Medeiros, quando assumiu, em abril de 2014, fez várias movimentações, baixou recursos do fundo e fez aplicações, demonstrando que era uma boa aplicação. Desde 02 de abril de 2014, a responsabilidade pelas aplicações é do comodoro, eu não tinha mais nada a ver com isto”</p>
+<p><strong>Moralização e inimigos</strong></p>
+<p>“Eu entrei na Vela em 1984 e de lá para cá defendo as cores do clube Cabanga até debaixo água. No ano de 2007, 2008, o clube estava em crise de credibilidade e tinha poucos sócios. Em 2009, havia um débito de 680 mil só com energia. Eu e mais seis amigos assumimos o clube, com o desafio de soerguer. Na minha primeira gestão, entre abril de 2009 e 2010, havia 350 sócios. Fui reeleito por unanimidade e entre 2010 e 2011 já eram 550 sócios”</p>
+<p>“Comecei a angariar antipatia quando comecei a cobrar pelo uso do espaço do clube. Havia donos de barcos que usavam o espaço na água e em terra, mas só pagavam por um espaço, os barcos fundeados. Avisei por seis meses que iria cortar a energia e fiz uma cesta de inimigos. Foram os cinco primeiros desafetos. O eletricista do clube recusou-se a cortar a energia, afirmando que iria dar muita confusão. A portaria era outra festa. O sócio não estava em dia, mas deixavam entrar. Também criei uma lista pública para a transferência de embarcações e venda de vagas. Nunca havia sido feita até 2009, meu ano zero. Fizemos uma administração profissional e isto me fez colecionar inimigos. Em 2011, regularizamos o uso da quadra de tênis. os novos sócios não conseguiam jogar. Algumas pessoas se sentiram muito incomodadas, mas em um clube todos são iguais”, explicou.</p>
+<p>“Virei o vilão quando acabei com o uso da energia do clube sem pagamento pelas embarcações. Todas as lanchar ancoradas no clube ligavam o ar-condicionado, na energia do clube, para desumedificar as embarcações. Fiz a individualização das contas do cais, usou paga, todos tem seu contador. Desde então, atribui-se maldades a minha pessoa, mas eu sempre tive as contas aprovadas. Em 2011, já havia R$ 600 mil em caixa. Em 2013, já havia um superávit no clube e nos conseguimos comprar um terreno em Maria Farinha para expansão. Em 2013, nós já tínhamos em caixa R$ 2 milhões em caixa, de superpávit”</p>
+<p><strong>Divulgação na imprensa</strong></p>
+<p>O empresário também negou que tivesse levado o assunto à imprensa, em 2014. Ele diz que é uma das alegações do processo interno. Cardoso contou que o Banco Central informou, por carta, os problemas na corretora Corval em 11 de setembro de 2014. “Fomos a Minas Gerais falar com o interventor para poder depois explicar o fato. A reunião com os conselheiros ocorreu em outubro de 2014. No primeiro momento, o presidente Marcos Medeiros, eu, e mais duas pessoas tinham conhecimento (o jurídico Marcelo Gil Rodrigues e o ex-comodoro Luiz Alexandre, então presidente do Conselho) e nada vazou, antes da reunião do conselho”, explicou.</p>
+<p>“A decisão da reunião foi apurar melhor os fatos, colher mais informações do BC e não diminuir o brilho da Refeno, que seria nos próximos dias. Depois da Refeno, o presidente do conselho, convocou uma reunião para a apresentação dos fatos e que nessa reunião foi dada uma moção de apoio Unânime ao Comodoro Marcos Medeiros, para melhor conduzir os fatos. A informação vazou minutos depois dessa reunião, que é fácil de ser comprovado pelas datas”.</p>
+<p><img class="alignleft size-full wp-image-141218" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/02/Cabanga.jpg" alt="Cabanga" width="600" height="445" /></p>
+<p><strong>Patrocínio a barco pela corretora Corval</strong></p>
+<p>Nos bastidores do clube, uma das críticas que eram feitas ao ex-comodoro Claudio Cardoso era o patrocínio, de R$ 100 mil, dado pela corretora Corval ao barco Patoruzu, que ganhou a regata de Fernando de Noronha, em 2015. Como o clube perdeu dinheiro em aplicações da corretora, no final de 2014, algumas pessoas associaram a ajuda finaceira como sinal de irregularidade. Cardoso rebate e diz que recebeu um pedido do dono da corretora, Rodrigo, para indicar um barco, tendo optado pelo Paturuzu porque ele foi construído no clube, pelo ex-comodoro Higinio Marinsalta. Cardoso foi timoneiro deste barco.</p>
+<p>“Disseram que o Higinio era laranja meu, mas eu não agi com anto-ética. O barco foi construído no clube, durante quatro anos, era de um conselheiro do clube, nós estavamos defendendo a honra do clube, para evitar que gente de fora viesse e ganhasse da gente aqui. Eu não posso estar no barco de um amigo? Eu já não era mais comodoro”, defende.</p>
+<p>&nbsp;</p>
+{% endraw %}

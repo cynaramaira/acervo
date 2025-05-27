@@ -1,0 +1,35 @@
+---
+id: 15204561
+date: "2023-03-23T17:09:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "raquel-lyra"
+categories:
+  - "sem-categoria"
+title: "Raquel d\u00e1 'estocada' no PSB at\u00e9 no Di\u00e1rio Oficial. Saiba como"
+sutia: "Di\u00e1rio Oficial destacou que governadora entregou obra 'ap\u00f3s 14 anos de espera'"
+chapeu: "elei\u00e7\u00f5es 2024"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/03/22/dg6a0378-22577181.jpg"
+---
+{% raw %}
+<p>Com alarde, o Di&aacute;rio Oficial destacou a demora da obra do Habitacional Canal do Jord&atilde;o, iniciada ainda na gest&atilde;o de Eduardo Campos (PSB) como governador.</p>
+<p>A mat&eacute;ria oficial destacou que a obra estava parada e que a popula&ccedil;&atilde;o s&oacute; recebeu a obra "ap&oacute;s 14 anos de espera". Uma sutil "estocada" nos advers&aacute;rios do PSB.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/03/22/120x80/1_dg6a0434-22577261.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'641b3b73bf402', 'cd_midia':22577261, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/03/22/dg6a0434-22577261.jpg', 'ds_midia': 'Entrega de Habitacional do no Bairro do Jord&atilde;o em Jaboat&atilde;o dos Guararapes contou com a presen&ccedil;a da Governadora Raquel Lyra e do Ministro da Cidade Jader Filho e do Ministro Desenvolvimento e Assist&ecirc;ncia Social Wellington Dias.', 'ds_midia_credi': 'BRUNO CAMPOS/JC IMAGEM', 'ds_midia_titlo': 'Entrega de Habitacional do no Bairro do Jord&atilde;o em Jaboat&atilde;o dos Guararapes contou com a presen&ccedil;a da Governadora Raquel Lyra e do Ministro da Cidade Jader Filho e do Ministro Desenvolvimento e Assist&ecirc;ncia Social Wellington Dias.', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '816', 'align': 'Left'}"><figure style="width:816;height:1224;">
+  <img loading="lazy" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/03/22/dg6a0434-22577261.jpg" alt="BRUNO CAMPOS/JC IMAGEM"  title="Entrega de Habitacional do no Bairro do Jord&atilde;o em Jaboat&atilde;o dos Guararapes contou com a presen&ccedil;a da Governadora Raquel Lyra e do Ministro da Cidade Jader Filho e do Ministro Desenvolvimento e Assist&ecirc;ncia Social Wellington Dias.">
+  <figcaption class='text-left'>Entrega de Habitacional do no Bairro do Jord&atilde;o em Jaboat&atilde;o dos Guararapes contou com a presen&ccedil;a da Governadora Raquel Lyra e do Ministro da Cidade Jader Filho e do Ministro Desenvolvimento e Assist&ecirc;ncia Social Wellington Dias. - <strong>BRUNO CAMPOS/JC IMAGEM</strong></figcaption>
+</figure></tinymce></p>
+<p><strong><em>"O sonho da casa pr&oacute;pria se tornou realidade para 272 fam&iacute;lias de Jaboat&atilde;o dos Guararapes, na Regi&atilde;o Metropolitana do Recife, ap&oacute;s 14 anos de espera"</em></strong>, disse o Governo, no Di&aacute;rio Oficial.</p>
+<p>A estudante de pedagogia C&iacute;ntia Soares, 38 anos, recebeu das m&atilde;os da governadora <strong><a href="https://jc.ne10.uol.com.br/colunas/jamildo/2023/03/15203776-raquel-lyra-e-joao-campos-sao-vaiados-durante-evento-de-lula-no-recife-confira-os-detalhes.html" target="_blank" rel="noopener noreferrer">Raquel Lyra (PSDB)</a></strong> e do ministro das Cidades, Jader Filho (MDB), a chave do seu apartamento no Habitacional Canal do Jord&atilde;o, entregue ontem.</p>
+<p>&nbsp;<tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/03/22/120x80/1_dg6a0193-22576941.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'641b3b73bf402', 'cd_midia':22576941, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/03/22/dg6a0193-22576941.jpg', 'ds_midia': 'Entrega de Habitacional do no Bairro do Jord&atilde;o em Jaboat&atilde;o dos Guararapes contou com a presen&ccedil;a da Governadora Raquel Lyra e do Ministro da Cidade Jader Filho e do Ministro Desenvolvimento e Assist&ecirc;ncia Social Wellington Dias.', 'ds_midia_credi': 'BRUNO CAMPOS/JC IMAGEM', 'ds_midia_titlo': 'Entrega de Habitacional do no Bairro do Jord&atilde;o em Jaboat&atilde;o dos Guararapes contou com a presen&ccedil;a da Governadora Raquel Lyra e do Ministro da Cidade Jader Filho e do Ministro Desenvolvimento e Assist&ecirc;ncia Social Wellington Dias.', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '816', 'align': 'Left'}"><figure style="width:816;height:1224;">
+  <img loading="lazy" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/03/22/dg6a0193-22576941.jpg" alt="BRUNO CAMPOS/JC IMAGEM"  title="Entrega de Habitacional do no Bairro do Jord&atilde;o em Jaboat&atilde;o dos Guararapes contou com a presen&ccedil;a da Governadora Raquel Lyra e do Ministro da Cidade Jader Filho e do Ministro Desenvolvimento e Assist&ecirc;ncia Social Wellington Dias.">
+  <figcaption class='text-left'>Entrega de Habitacional do no Bairro do Jord&atilde;o em Jaboat&atilde;o dos Guararapes contou com a presen&ccedil;a da Governadora Raquel Lyra e do Ministro da Cidade Jader Filho e do Ministro Desenvolvimento e Assist&ecirc;ncia Social Wellington Dias. - <strong>BRUNO CAMPOS/JC IMAGEM</strong></figcaption>
+</figure></tinymce></p>
+<p>Ainda durante a solenidade, a chefe do Executivo assinou um decreto lan&ccedil;ando o <span class="highlight"><strong>Programa Morar Bem, que tem como meta beneficiar 50 mil fam&iacute;lias com moradias.</strong></span></p>
+<p><em>&ldquo;Hoje temos a honra de entregar o sonho de cada uma dessas fam&iacute;lias. N&atilde;o podemos mais ver gera&ccedil;&otilde;es esperando pelo que &eacute; de direito. Ter uma casa para morar &eacute; ter dignidade, o nosso povo tem pressa&rdquo;,</em> ressaltou Raquel Lyra.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/03/23/120x80/1_estocadaraquel-22584396.jpeg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'641cb1da24cac', 'cd_midia':22584396, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/03/23/estocadaraquel-22584396.jpeg', 'ds_midia': 'Di&aacute;rio Oficial destacou que governadora entregou obra &apos;ap&oacute;s 14 anos de espera&apos;', 'ds_midia_credi': 'Reprodu&ccedil;&atilde;o', 'ds_midia_titlo': 'Di&aacute;rio Oficial destacou que governadora entregou obra &apos;ap&oacute;s 14 anos de espera&apos;', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '426', 'align': 'Left'}"><figure style="width:426;height:1224;">
+  <img loading="lazy" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/03/23/estocadaraquel-22584396.jpeg" alt="Reprodu&ccedil;&atilde;o"  title="Di&aacute;rio Oficial destacou que governadora entregou obra &apos;ap&oacute;s 14 anos de espera&apos;">
+  <figcaption class='text-left'>Di&aacute;rio Oficial destacou que governadora entregou obra &apos;ap&oacute;s 14 anos de espera&apos; - <strong>Reprodu&ccedil;&atilde;o</strong></figcaption>
+</figure></tinymce></p>
+{% endraw %}

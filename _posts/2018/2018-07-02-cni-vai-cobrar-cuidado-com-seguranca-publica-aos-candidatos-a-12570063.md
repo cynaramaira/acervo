@@ -1,0 +1,35 @@
+---
+id: 12570063
+date: "2018-07-02T17:30:43Z"
+last_modified_at: null
+tags:
+  - "candidatos"
+  - "cuidados"
+  - "presidente"
+  - "seguranca"
+categories:
+  - "noticias"
+title: "CNI vai cobrar cuidado com seguran\u00e7a p\u00fablica aos candidatos a presidente"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/08/violencia.jpg"
+---
+{% raw %}
+<p><p>Os 43 documentos com propostas da Confederação Nacional da Indústria (CNI) para o novo governo foram elaborados com base no Mapa Estratégico da Indústria 2018-2022, que aponta os caminhos para o Brasil construir, nos próximos quatro anos, uma economia mais produtiva, inovadora e integrada ao mercado internacional. Os estudos sugerem ações em áreas como eficiência do estado, segurança jurídica, infraestrutura, tributação, educação, meio ambiente, inovação, financiamento e segurança pública.</p></p>
+<p><p>As propostas serão discutidas com os presidenciáveis durante o Diálogo da Indústria com os Candidatos à Presidência da República, que reunirá cerca de 1.500 líderes empresariais em 4 de julho, no Centro Internacional de Convenções do Brasil (CICB), em Brasília. A CNI apresenta as propostas da indústria aos presidenciáveis desde a eleição de 1994.</p></p>
+<p><p>Em 2017, a falta de segurança custou R$ 365 bilhões para o Brasil. O montante equivale a 5,5% do PIB, ou um imposto anual de R$ 1,8 mil recolhido de cada brasileiro. A cifra dá medida do peso da violência na vida do cidadão e de suas consequências sociais e econômicas para o país. Além disso, evidencia a urgência de se consolidar uma nova política de segurança pública, fundada num modelo de gestão por parte do governo federal, que leve à aplicação mais eficiente dos recursos públicos e à atuação mais articulada e efetiva dos diversos órgãos do poder público.</p></p>
+<p><p>Nos últimos anos, os avanços da violência e seus impactos sobre a sociedade e a economia colocaram o assunto no centro do debate e das cobranças da população sobre os governantes do país. Neste ano, o assunto figura no Mapa Estratégico da Indústria 2018-2022 e, para contribuir com o debate, a Confederação Nacional da Indústria (CNI) elaborou o estudo Segurança pública: A importância da governança, um dos 43 documentos que serão entregues aos pré-candidatos à Presidência da República, e que já traz sugestões para regulamentar e aprimorar o recém criado Sistema Único de Segurança Pública (SUSP).</p></p>
+<p><p>“Uma solução para a segurança pública começa pela governança. É preciso ter coordenação das ações entre os diversos entes federativos. É preciso ter boas estatísticas para que tenhamos um combate ao crime mais efetivo e mais bem planejado”, explica o gerente-executivo de Pesquisa e Competitividade da CNI, Renato da Fonseca.</p></p>
+<p><p>Violência e competitividade</p></p>
+<p><p>Há uma relação direta entre os índices de violência e a competitividade do setor público brasileiro. O aumento nos casos de roubos de cargas, por exemplo, tem impacto direto no bolso do consumidor, uma vez que as perdas das empresas com mercadorias é repassada para o preço final de bens e serviços. Além disso, tem havido gastos crescentes com segurança privada e com seguros, sendo que os prêmios de seguros de mercadorias chegam a alcançar 30% o valor da mercadoria.</p></p>
+<p><p>Além de consumir recursos das empresas que poderiam ser destinados a investimentos “O impacto dos aumentos de preços nos bens por conta da insegurança, pode ainda se dar sequencialmente nas cadeias de valores, com efeito similar (e equivalentes distorções) a um imposto em cascata, o que pode diminuir substancialmente a competitividade não apenas dos bens transportados, mas ainda nos setores de serviços, que utilizam insumos cujos preços foram majorados”, diz o estudo.</p></p>
+<p><p>A falta de segurança também tem impacto negativo sobre a produtividade do trabalhador, que pode ser obrigado a se ausentar do trabalho por conta da falta de segurança em sua localidade ou, ainda, por se tornar vítima da violência. Embora não haja uma estatística quanto ao numero de dias de trabalho perdidos por conta de restrições no ir e vir, dados oficiais mostram mais de cerca de 56 mil internações relacionadas à agressões em 2015.</p></p>
+<p><p>Coordenação e efetividade</p></p>
+<p><p>Para o país dar um salto no combate ao crime, é preciso tomar medidas que fujam da armadilha do baixo nível de planejamento, com baixas chances de sucesso e de baixa efetividade no uso de recursos. A CNI sugere que se adote um planejamento estruturado do setor, fazendo uso de boas práticas do Brasil e do exterior. Nesse sentido, o papel do governo federal seria o de se encarregar da governança das políticas de segurança pública, atuando “como principal agente de indução e coordenação”.</p></p>
+<p><p>De acordo com as propostas da CNI, caberia ao Ministério da Segurança Pública implementar ações e criar um programa nacional de segurança, de forma a coordenar a atuação de órgãos das esferas federal, estadual e municipal a partir de uma diretriz única e com convergência de metas e de processos. Para que as ações sejam efetivas, é preciso que haja informações sistemáticas sobre criminalidade, que contribuam para a ampliação da capacidade investigativa das polícias e subsidiem o planejamento de ações efetivas de prevenção.</p></p>
+<p><p>“A falta de sistemas de dados e de um órgão capaz de tratá-los adequadamente tem sido um dos principais entraves à implantação de políticas públicas de segurança”, aponta o estudo. “Diferentemente das áreas de saúde, com o DATASUS, e de educação, com o INEP, a segurança pública não conta com um órgão responsável por produzir e sistematizar informações, a fim de orientar as políticas públicas”.</p></p>
+<p><p>Qualidade do gasto</p></p>
+<p><p>Um dos pontos identificados pelo estudo, por exemplo, foi a piora nos índices de violência, mesmo diante do aumento real nos gastos com segurança pública. Entre 2007 e 2016, houve aumento real (já descontada a inflação acumulada no período) de 27,5% nos gastos realizados por União, estados e municípios na área, fazendo que as despesas cheguem a 1,3% do PIB – próximo à média da Organização para Cooperação e Desenvolvimento Econômico (OCDE).</p></p>
+<p><p>O estudo constata, no entanto, que falta uma política que articule as ações que serão financiadas com estes recursos. Além disso, não há um critério único para classificar o gasto feito pelos entes federativos com segurança pública, de forma que gastos com as aposentadorias de policiais também possam ser contabilizados junto com o que é, efetivamente, investimento na área. A partir da classificação dos gastos, aponta o documento, “será possível orientar os entes subnacionais a fazer escolhas que gerem maior benefício à população com o uso dos recursos dos fundos”.</p></p>
+{% endraw %}

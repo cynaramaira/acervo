@@ -1,0 +1,22 @@
+---
+id: 14916270
+date: "2021-12-01T14:24:00Z"
+last_modified_at: null
+tags:
+  - "eleicoes-2022"
+categories:
+  - "sem-categoria"
+title: "Habitacionais Encanta Mo\u00e7a, no Pina, n\u00e3o ser\u00e3o entregues em abril"
+sutia: "Obra esta sendo tocada pela PCR, mas sofre com percal\u00e7os"
+chapeu: "habita\u00e7\u00e3o"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/04/ag041021200-19247756.jpg"
+---
+{% raw %}
+<p>Os habitacionais Encanta Mo&ccedil;a 1 e 2, destinados a 600 fam&iacute;lias moradoras das palafitas do Bode, no Pina, ser&atilde;o entregues com atraso. A previs&atilde;o da Exata Engenharia, respons&aacute;vel pela execu&ccedil;&atilde;o do projeto, era abril de 2022. Por&eacute;m, em audi&ecirc;ncia p&uacute;blica nesta quarta-feira (1&ordm;), mediada pelo vereador Paulo Muniz (SD) na C&acirc;mara Municipal do Recife, a URB informou que o Governo Federal n&atilde;o est&aacute; cumprindo com o repasse de recursos acordado.</p>
+<p>&ldquo;O or&ccedil;amento est&aacute; muito prejudicado n&atilde;o s&oacute; para os projetos do Minha Casa Minha Vida do Recife, mas de todo o Brasil. A construtora est&aacute; na expectativa para voltar a receber o fluxo correto de recursos, mas o repasse pela Caixa ainda n&atilde;o normalizou. Foi preciso diminuir o efetivo porque n&atilde;o havia condi&ccedil;&atilde;o de continuar bancando sem garantia de verba. A obra est&aacute; devagar, mas n&atilde;o paralisada&rdquo;, disse o gerente geral de Integra&ccedil;&atilde;o Urban&iacute;stica da URB, Fabr&iacute;cio Couto, garantindo que, apesar de n&atilde;o haver mais prazo para entrega dos apartamentos, toda a infraestrutura de &aacute;gua, esgoto e energia el&eacute;trica estar&aacute; pronta.</p>
+<p>A quest&atilde;o beneficiou a Compesa, que, na audi&ecirc;ncia p&uacute;blica de 4 de novembro, havia informado que precisaria de um prazo bem maior que abril de 2022 para concluir as obras de esgotamento sanit&aacute;rio ligando os habitacionais &agrave; esta&ccedil;&atilde;o elevat&oacute;ria. &ldquo;Tivemos problemas de comunica&ccedil;&atilde;o na &uacute;ltima audi&ecirc;ncia, e o que traz a gente aqui hoje &eacute; informar que conseguimos publicar o edital. A licita&ccedil;&atilde;o &eacute; r&aacute;pida, iniciaremos a obra no final de fevereiro, m&aacute;ximo come&ccedil;o de mar&ccedil;o. A tend&ecirc;ncia &eacute; que consigamos concluir em agosto ou setembro, num prazo fact&iacute;vel pra que o empreendimento seja todo inaugurado com infraestrutura totalmente necess&aacute;ria&rdquo;, descreveu Fl&aacute;vio Coutinho, diretor de Neg&oacute;cios e Efici&ecirc;ncia da Compesa. O edital de licita&ccedil;&atilde;o foi publicado hoje (1&ordm;/12) no Di&aacute;rio Oficial e, segundo Coutinho, equipamentos e materiais j&aacute; est&atilde;o sendo adquiridos para serem entregues ao contratado.</p>
+<p>A obra consiste na constru&ccedil;&atilde;o de uma esta&ccedil;&atilde;o elevat&oacute;ria que conduzir&aacute; o esgoto do Encanta Mo&ccedil;a 1 e 2 at&eacute; a Av. Conselheiro Aguiar atrav&eacute;s de uma tubula&ccedil;&atilde;o de cerca de 1 km de extens&atilde;o. &ldquo;Interligaremos com o sistema que j&aacute; operamos com a BRK Ambiental. &Eacute; uma obra que n&atilde;o demora tanto tempo, teremos parceria com CTTU pra planejar e executar&rdquo;, garante Coutinho. Isabelle Souto, gerente de Unidade de Neg&oacute;cio da Compesa, frisou que o &oacute;rg&atilde;o n&atilde;o ser&aacute; &lsquo;um problema&rsquo; tamb&eacute;m na quest&atilde;o de abastecimento de &aacute;gua &ndash; e que uma subadutora de 170 metros ser&aacute; constru&iacute;da para levar &aacute;gua aos residenciais.</p>
+<p>&ldquo;Informa&ccedil;&otilde;es sem precis&atilde;o acarretam em ang&uacute;stia para a popula&ccedil;&atilde;o que aguarda um apartamento. Temos agora o compromisso da Compesa de que as obras de esgotamento e saneamento v&atilde;o andar, mas iremos buscar com Caixa e Exata Engenharia defini&ccedil;&otilde;es sobre o andamento e a entrega dos habitacionais&rdquo;, pontuou o vereador Paulo Muniz, presidente da Comiss&atilde;o de Acompanhamento das Obras do Parque do Aeroclube.</p>
+<p>Camila Barbosa, da Neoenergia, disse durante a audi&ecirc;ncia p&uacute;blica que implanta&ccedil;&otilde;es lumin&aacute;rias s&atilde;o de responsabilidade da PCR, mas o fornecimento de energia el&eacute;trica aos habitacionais e seu entorno ser&aacute; entregue dentro do tempo h&aacute;bil pela empresa.<br /></p>
+{% endraw %}

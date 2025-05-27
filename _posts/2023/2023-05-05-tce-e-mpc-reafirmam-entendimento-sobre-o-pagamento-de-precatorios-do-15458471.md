@@ -1,0 +1,30 @@
+---
+id: 15458471
+date: "2023-05-05T07:58:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "tce-pe"
+  - "fundef"
+categories:
+  - "sem-categoria"
+title: "TCE e MPC reafirmam entendimento sobre o pagamento de precat\u00f3rios do Fundef. Entenda"
+sutia: "A partir de consulta realizada pela prefeitura da cidade de Primavera, o Pleno foi un\u00e2nime ao voto do conselheiro Valdecir Pascoal"
+chapeu: "contas municipais"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/legado/156/imagemjc/imagem/noticia/2016/11/08/normal/295014a814254eea5e69cdb80078e795.jpg"
+---
+{% raw %}
+<p>O Minist&eacute;rio P&uacute;blico de Contas de Pernambuco (MPC-PE) e o Tribunal de Contas do Estado de Pernambuco (TCE-PE) reafirmaram entendimento acerca do pagamento de precat&oacute;rios do<a href="https://jc.ne10.uol.com.br/colunas/jamildo/2022/11/15119161-precatorios-do-fundef-mpf-pede-explicacao-a-paulo-camara-sobre-dinheiro-que-nao-foi-para-professores.html" target="_blank" rel="noopener noreferrer"> Fundo de Manuten&ccedil;&atilde;o e Desenvolvimento do Ensino Fundamental e de Valoriza&ccedil;&atilde;o do Magist&eacute;rio (Fundef)</a> aos profissionais de educa&ccedil;&atilde;o do Estado.</p>
+<p>A partir de consulta realizada pela prefeitura da cidade de Primavera, o Pleno foi un&acirc;nime ao voto do conselheiro Valdecir Pascoal, relator do caso, que teve como base o estudo realizado pelo procurador de Contas Gilmar de Lima, titular da 3&ordf; Procuradoria de Contas.</p>
+<p>Na consulta, foram realizados uma s&eacute;rie de questionamentos acerca dos valores recebidos a t&iacute;tulo de precat&oacute;rio antes da promulga&ccedil;&atilde;o da Emenda Constitucional n&ordm; 114/2021, tendo sido reafirmado o entendimento da casa quanto &agrave; inaplicabilidade da subvincula&ccedil;&atilde;o obrigat&oacute;ria (60% da receita aos profissionais magist&eacute;rio) e &agrave; impossibilidade de realiza&ccedil;&atilde;o de rateios em forma de abono (cria&ccedil;&atilde;o de verbas na Folha de Pagamento) com o valor principal da receita.</p>
+<p>Segundo o &oacute;rg&atilde;o, ressaltou-se que n&atilde;o h&aacute; impedimento de que estes abonos sejam criados com recursos dos juros morat&oacute;rios, sendo certo que a lei local dever&aacute; regulamentar a natureza jur&iacute;dica da verba, que ser&aacute; determinante para a incid&ecirc;ncia (ou n&atilde;o) de Imposto de Renda e contribui&ccedil;&atilde;o previdenci&aacute;ria.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/05/05/120x80/1_gilmardelima_creditomariliaauto-22946036.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'6454e0caa6b9a', 'cd_midia':22946036, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/05/05/gilmardelima_creditomariliaauto-22946036.jpg', 'ds_midia': 'Gilmar de Lima, procurador titular da 3&ordf; Procuradoria de Contas', 'ds_midia_credi': 'Divulga&ccedil;&atilde;o', 'ds_midia_titlo': 'Gilmar de Lima, procurador titular da 3&ordf; Procuradoria de Contas', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '1474', 'align': 'Left'}"><figure style="width:1474;height:1224;">
+  <img loading="lazy" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/05/05/gilmardelima_creditomariliaauto-22946036.jpg" alt="Divulga&ccedil;&atilde;o"  title="Gilmar de Lima, procurador titular da 3&ordf; Procuradoria de Contas">
+  <figcaption class='text-left'>Gilmar de Lima, procurador titular da 3&ordf; Procuradoria de Contas - <strong>Divulga&ccedil;&atilde;o</strong></figcaption>
+</figure></tinymce></p>
+<p>Segundo o estudo realizado pelo procurador Gilmar de Lima &eacute; poss&iacute;vel atestar que &ldquo;os valores dos precat&oacute;rios decorrentes de receitas do Fundef, ressalvados os juros morat&oacute;rios, os quais possuem natureza aut&ocirc;noma em rela&ccedil;&atilde;o &agrave; natureza jur&iacute;dica da verba em atraso, t&ecirc;m destina&ccedil;&atilde;o exclusiva na manuten&ccedil;&atilde;o e desenvolvimento da educa&ccedil;&atilde;o b&aacute;sica p&uacute;blica&rdquo;.</p>
+<p>Ainda segundo ele, &ldquo;a aplica&ccedil;&atilde;o da receita deve obedecer a um plano de aplica&ccedil;&atilde;o dos recursos compat&iacute;vel com o Plano Nacional de Educa&ccedil;&atilde;o, os objetivos b&aacute;sicos das institui&ccedil;&otilde;es educacionais e os respectivos planos estaduais e municipais de educa&ccedil;&atilde;o&rdquo;.</p>
+<p>Apontando decis&otilde;es do Supremo Tribunal Federal (STF) e do Tribunal de Contas da Uni&atilde;o (TCU), ele ainda ressaltou que &ldquo;o valor principal da receita, devidamente atualizado monetariamente, recebido antes da promulga&ccedil;&atilde;o da EC n&ordm; 114/2021, n&atilde;o possui qualquer subvincula&ccedil;&atilde;o, especialmente a prevista no art. 22 da Lei 1.1494/2007, vedado o seu uso para o pagamento de abono aos profissionais do magist&eacute;rio&rdquo;.</p>
+<p><a href="https://jc.ne10.uol.com.br/colunas/jamildo/2023/03/15203210-precatorios-do-fundef-herdeiros-denunciam-problemas-no-pagamento-descaso.html" target="_blank" rel="noopener noreferrer">Na hip&oacute;tese de a Administra&ccedil;&atilde;o decidir por conceder um abono aos professores,</a> seus herdeiros ou pensionistas, com os recursos dos juros morat&oacute;rios, recebidos antes da EC n.&ordm; 114, &ldquo;a lei local deve regulamentar o valor, a forma de pagamento, os requisitos para concess&atilde;o e outros crit&eacute;rios relevantes, garantindo, desse modo, no processo de pagamento, a sua transpar&ecirc;ncia e a sua legalidade, assim como o atendimento aos princ&iacute;pios da isonomia, da razoabilidade e da impessoalidade. Se a lei municipal estabelecer que tal abono possui natureza indenizat&oacute;ria, n&atilde;o dever&aacute; incidir Imposto de Renda nem Contribui&ccedil;&atilde;o Previdenci&aacute;ria sobre os referidos pagamentos&rdquo;.<br /></p>
+{% endraw %}

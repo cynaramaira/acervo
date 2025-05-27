@@ -1,0 +1,29 @@
+---
+id: 13021066
+date: "2021-07-28T08:34:59Z"
+last_modified_at: null
+tags:
+  - "seguranca-publica"
+categories:
+  - "sem-categoria"
+title: "Al\u00e9m de greve branca, Policiais Civis prometem entregar programa de horas extras em outubro"
+sutia: "O SINPOL diz que tem em m\u00e3os estudos feitos pelo DIEESE que confirmam a capacidade do Estado tem plena capacidade para repor as enormes perdas dos Policiais Civis, pois h\u00e1 muito tempo Pernambuco n\u00e3o tem uma sa\u00fade financeira t\u00e3o boa"
+chapeu: "press\u00e3o salarial"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/07/28/sinpol_divulgacao1_1_-18592490.jpg"
+---
+{% raw %}
+<p>Assembleia da categoria ocorreu na tarde desta ter&ccedil;a-feira,27, na frente da sede do Sindicato, em Santo Amaro. A entidade se disse frustrada.</p>
+<p>"A categoria esperou por duas horas por uma reuni&atilde;o de mesa de negocia&ccedil;&atilde;o marcada com o Governo do Estado para &agrave;s 9h e cancelada de &uacute;ltima hora pelo Governo, deixando todos os policiais indignados com o descaso com toda a categoria".</p>
+<p>Al&eacute;m do lan&ccedil;amento da Opera&ccedil;&atilde;o Padr&atilde;o, os Policiais Civis participaram de um Caf&eacute; da Manh&atilde;, e promoveram um mutir&atilde;o de Doa&ccedil;&atilde;o de Sangue, durante todo o dia, com os Policiais Civis que estiverem presentes, ao Hemope. Houve tamb&eacute;m arrecada&ccedil;&atilde;o de alimentos para as fam&iacute;lias carentes do Estado e vacina&ccedil;&atilde;o contra a gripe. As a&ccedil;&otilde;es sociais foram descentralizadas, ocorrendo em v&aacute;rias regi&otilde;es do Estado, como em Garanhuns, Arcoverde, Salgueiro, Ouricuri e Petrolina.</p>
+<p>Veja a nota oficial<br /></p>
+<p>&ldquo;Ap&oacute;s v&aacute;rias tentativas de di&aacute;logo por parte do SINPOL-PE, infelizmente, no dia de hoje, o Governo do Estado faltou &agrave; reuni&atilde;o que estava marcada desde abril com a categoria dos Policiais Civis, fato este que causou revolta e indigna&ccedil;&atilde;o entre os policiais. Os representantes da categoria ficaram aguardando por mais de duas horas a reuni&atilde;o em mesa de negocia&ccedil;&atilde;o, como dito anteriormente, marcada desde o m&ecirc;s de abril, mas, sem nenhum aviso pr&eacute;vio, o Governo n&atilde;o compareceu &agrave; reuni&atilde;o.</p>
+<p>Diante dessa falta de respeito por parte do Governo do Estado, os Policiais Civis de Pernambuco realizaram na tarde desta ter&ccedil;a-feira, 27, mais uma Assembleia da Campanha Salarial e Funcional 2021 / 2022, onde decidiram deflagrar uma Opera&ccedil;&atilde;o Padr&atilde;o (intitulada &ldquo;Opera&ccedil;&atilde;o Pol&iacute;cia Cidad&atilde;&rdquo;), onde a partir de HOJE os Policiais Civis apenas far&atilde;o exclusivamente aquilo que &eacute; legalmente estipulado como atribui&ccedil;&otilde;es da categoria. Outra pauta decidida pela classe, na assembl&eacute;ia, foi a entrega do PJES (Programa de Jornada Extra) a partir do m&ecirc;s de outubro. Isso significa que a categoria n&atilde;o far&aacute; hora extra.</p>
+<p>Tal postura do Governo &eacute; inadmiss&iacute;vel, ainda mais quando o pr&oacute;prio Governo utiliza a produ&ccedil;&atilde;o dos Policiais Civis para fazer propaganda pol&iacute;tica, como redu&ccedil;&atilde;o de homic&iacute;dios, de crimes patrimoniais, de cumprimento de mandato de pris&atilde;o e de apreens&atilde;o de armas de fogo. Os Policiais Civis produziram muito, mesmo durante a pandemia, por&eacute;m n&atilde;o tem o seu trabalho reconhecido, mesmo quando o Estado apresenta um caixa cheio, com capacidade financeira de sobra para atender os pleitos da categoria.</p>
+<p>&Eacute; importante salientar que, enquanto Pernambuco &eacute; a 11&ordf; economia dentre todos os estados da na&ccedil;&atilde;o, os Policiais Civis pernambucanos tem o 22&ordm; pior sal&aacute;rio do pa&iacute;s. E, se comparado aos chefes, a distor&ccedil;&atilde;o e a dist&acirc;ncia &eacute; completamente desarrazoada e injustificada.</p>
+<p>O SINPOL vem acompanhando as contas do Estado, atrav&eacute;s dos balancetes oficiais referentes aos dois &uacute;ltimos quadrimestres fiscais, que mostram que Pernambuco est&aacute; com a sa&uacute;de financeira com capacidade &ldquo;de sobra&rdquo; para atender o pleito justo dos Policiais Civis. Inclusive, o SINPOL tem em m&atilde;os estudos feitos pelo DIEESE que confirmam a capacidade do Estado tem plena capacidade para repor as enormes perdas dos Policiais Civis, pois h&aacute; muito tempo Pernambuco n&atilde;o tem uma sa&uacute;de financeira t&atilde;o boa. Em contrapartida &eacute; um dos estados que menos investe em Seguran&ccedil;a P&uacute;blica.</p>
+<p>O SINPOL n&atilde;o aceitar&aacute; a forma desrespeitosa de tratamento com a categoria por parte do Governo do Estado, nem a falta de reconhecimento e de valoriza&ccedil;&atilde;o funcional e salarial, ppis, al&eacute;m de tudo, os Policiais Civis j&aacute; trabalham sem condi&ccedil;&otilde;es estruturais, funcionais e salariais m&iacute;nimas para exercerem o seu trabalho.</p>
+<p>Vale salientar que, desde o come&ccedil;o da Pandemia, mais de 100 Policiais Civis perderam a vida para a Covid-19, um n&uacute;mero maior que as perdas para a criminalidade.</p>
+<p>N&atilde;o vamos mais aceitar essa forma de tratamento com a categoria. A partir de amanh&atilde; toda a dire&ccedil;&atilde;o do sindicato estar&aacute; visitando as delegacias e institutos de Pol&iacute;cia do Estado, dialogando com os colegas para que seja cumprida &agrave; risca a Opera&ccedil;&atilde;o Padr&atilde;o. S&oacute; assim deixaremos evidente que nada na Pol&iacute;cia Civil funciona sem o trabalho dos Agentes, Comiss&aacute;rios, Escriv&atilde;es e demais cargos da base da Pol&iacute;cia Civil de Pernambuco.&rdquo;</p>
+<p>Sindicato dos Policiais Civis de Pernambuco &ndash; SINPOL PE<br /></p>
+{% endraw %}

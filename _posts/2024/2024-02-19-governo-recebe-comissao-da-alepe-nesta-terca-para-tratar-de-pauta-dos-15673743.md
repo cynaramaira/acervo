@@ -1,0 +1,35 @@
+---
+id: 15673743
+date: "2024-02-19T12:56:00Z"
+last_modified_at: "2024-02-19 15:00:00"
+tags:
+  - "jamildo"
+  - "seguranca-publica"
+categories:
+  - "sem-categoria"
+title: "Governo recebe comiss\u00e3o da Alepe nesta ter\u00e7a para tratar de pauta dos policiais civis"
+sutia: "Depois de suspender a greve, o presidente do SINPOL disse que a luta continuava com a Opera\u00e7\u00e3o Padr\u00e3o at\u00e9 a governadora Raquel Lyra \"cumprir com o que foi dito\". Negocia\u00e7\u00f5es come\u00e7am amanh\u00e3"
+chapeu: "seguran\u00e7a p\u00fablica"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/02/19/comissaodaalepe-26415714.jpg"
+---
+{% raw %}
+<p>Em reuni&atilde;o com a representa&ccedil;&atilde;o sindical dos policiais civis, por meio do Sinpol, a Assembleia Legislatitva do Estado (Alepe) formou uma comiss&atilde;o de deputados para tentar intermediar uma solu&ccedil;&atilde;o no impasse gerado nas negocia&ccedil;&otilde;es salariais, com amea&ccedil;a de greve, suspensa depois de a&ccedil;&atilde;o do Executivo na Justi&ccedil;a do Estado, no Carnaval.</p>
+<p>O primeiro encontro, com a pauta dos policiais civis, j&aacute; ser&aacute; apresentada nesta ter&ccedil;a-feira, pela manha, junto &agrave; Casa Civil do governo do Estado. A promessa do governo estadual &eacute; abrir a pauta de negocia&ccedil;&otilde;es com outras categorias, n&atilde;o apenas a Pol&iacute;cia Civil, possivelmente para n&atilde;o passar a ideia de que, se apertar, leva.</p>
+<p>O sindicato reclama de falta de di&aacute;logo do governo. Curiosamente, o encontro de amanha ser&aacute; com T&uacute;lio Villa&ccedil;a, Secret&aacute;rio da Casa Civil, que chegou a dar entrevistas que n&atilde;o foram bem recebidas pela categoria.</p>
+<p>A comiss&atilde;o de deputados &eacute; formada por deputados como Joel da Harpa, ex-PM, e Gleide &Acirc;ngelo, deputada que fez carreira na Pol&iacute;cia Civil como delegada. Outro que tomar&aacute; parte &eacute; o deputado do PL Renato Antunes, governista, bem como M&aacute;rio Ricardo, ex-prefeito de Igarassu e hoje partamentar. Eriberto Filho tamb&eacute;m tomar&aacute; parte,<br /></p>
+<h2>Delegada Gleide &Acirc;ngelo</h2>
+<p>&ldquo;O tempo est&aacute; passando e n&atilde;o vemos medidas efetivas para a valoriza&ccedil;&atilde;o da nossa seguran&ccedil;a e da Pol&iacute;cia Civil. S&oacute; no m&ecirc;s de janeiro, foram registrados 355 homic&iacute;dios em todo o Estado. Durante os dias de carnaval, foram quase 100 ocorr&ecirc;ncias contra a vida dos pernambucanos, mais da metade delas resultando em mortes - inclusive em polos de folia. Estamos num momento de crise e &eacute; preciso mais do que discursos pol&iacute;ticos para resolver essa situa&ccedil;&atilde;o. Precisamos de transpar&ecirc;ncia e di&aacute;logo. E esse &eacute; o nosso compromisso com os pernambucanos e pernambucanas&rdquo;, disse ela, delegada de pol&iacute;cia h&aacute; mais de 15 anos.<br /></p>
+<p>Tamb&eacute;m participara da reuni&atilde;o de hoje representantes do Sindicato dos Policiais Civis (Sinpol), Associa&ccedil;&atilde;o dos Delegados de Pol&iacute;cia de Pernambuco (ADEPPE), Associa&ccedil;&atilde;o dos Peritos Papiloscopistas Policiais Civis do Estado de Pernambuco (ASPPAPE), Uni&atilde;o dos Escriv&atilde;es de Pol&iacute;cia Civil de Pernambuco e Associa&ccedil;&atilde;o de Pol&iacute;cia Cient&iacute;fica do Estado de Pernambuco.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/02/01/120x80/1_dg6a0340-26248674.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'65bbc5f293090', 'cd_midia':26248674, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/02/01/dg6a0340-26248674.jpg', 'ds_midia': '&Aacute;lvaro Porto colocou Alepe &agrave; disposi&ccedil;&atilde;o dos policiais civis. Nesta segunda, uma comiss&atilde;o de deputados foi formada para ajudar na abertura das negocia&ccedil;&otilde;es ', 'ds_midia_credi': 'Guga Matos/JC Imagem ', 'ds_midia_titlo': '&Aacute;lvaro Porto colocou Alepe &agrave; disposi&ccedil;&atilde;o dos policiais civis. Nesta segunda, uma comiss&atilde;o de deputados foi formada para ajudar na abertura das negocia&ccedil;&otilde;es ', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '794', 'align': 'Left'}"><figure style="width:794;height:1224;">
+			<img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/02/01/dg6a0340-26248674.jpg" alt="Guga Matos/JC Imagem " title="&Aacute;lvaro Porto colocou Alepe &agrave; disposi&ccedil;&atilde;o dos policiais civis. Nesta segunda, uma comiss&atilde;o de deputados foi formada para ajudar na abertura das negocia&ccedil;&otilde;es ">
+		<figcaption class='text-left'>
+			&Aacute;lvaro Porto colocou Alepe &agrave; disposi&ccedil;&atilde;o dos policiais civis. Nesta segunda, uma comiss&atilde;o de deputados foi formada para ajudar na abertura das negocia&ccedil;&otilde;es  - <strong>Guga Matos/JC Imagem </strong>
+		</figcaption>
+	</figure></tinymce></p>
+<h2>Ajuda de &Aacute;lvaro Porto <br /></h2>
+<p>Conforme informou mais cedo o blog, depois de terem sido obrigados pelo TJPE a suspender a deflagra&ccedil;&atilde;o da greve prevista para acontecer na meia noite da sexta para o s&aacute;bado, no Carnaval, os policiais civis do Estado, por meio do Sinpol, apostam suas fichas na Assembleia Legislativa do Estado.</p>
+<p>No Carnaval ainda, no transcorrer da assembleia sindical em que ame&ccedil;avam greve, o deputado &Aacute;lvaro Porto, que tamb&eacute;m &eacute; Policial Civil e presidente da Assembleia Legislativa de Pernambuco, ligou para &Aacute;ureo Cisneiros, presidente do SINPOL, e ofereceu o poder Legislativo para intermediar as negocia&ccedil;&otilde;es junto ao governo do estado.</p>
+<p>O deputado estadual Joel da Harpa, presidente da Comiss&atilde;o de Seguran&ccedil;a P&uacute;blica, em nome da Assembleia Legislativa, levou um documento formalizando a proposta de &Aacute;lvaro Porto e com agendamento de uma reuni&atilde;o para este 19 de fevereiro, &agrave;s 10h da manh&atilde;, na presid&ecirc;ncia da ALEPE. Joel da Harpa &eacute; presidente da comiss&atilde;o de seguran&ccedil;a p&uacute;blica da Alepe</p>
+<p>"Com a oficializa&ccedil;&atilde;o da intermedia&ccedil;&atilde;o do Poder Legislativo, al&eacute;m do compromisso p&uacute;blico da governadora Raquel Lyra, apresentado em diversos ve&iacute;culos de comunica&ccedil;&atilde;o, de realizar ainda em fevereiro e terminar em maio as tratativas de negocia&ccedil;&atilde;o com o SINPOL e do of&iacute;cio enviado pela Secret&aacute;ria de Administra&ccedil;&atilde;o informando que os Policiais Civis ser&atilde;o prioridade nas negocia&ccedil;&otilde;es, a assembleia decidiu suspender a deflagra&ccedil;&atilde;o de greve durante o carnaval, mas deliberou pela realiza&ccedil;&atilde;o de uma Opera&ccedil;&atilde;o Padr&atilde;o", informou o Sinpol, no Carnaval.<br /></p>
+{% endraw %}

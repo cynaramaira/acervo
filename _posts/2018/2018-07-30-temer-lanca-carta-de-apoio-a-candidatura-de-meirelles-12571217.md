@@ -1,0 +1,33 @@
+---
+id: 12571217
+date: "2018-07-30T21:59:34Z"
+last_modified_at: null
+tags:
+  - "candidatura"
+  - "carta"
+  - "lancamento"
+  - "michel-temer"
+categories:
+  - "eleicoes-2018"
+title: "Temer lan\u00e7a carta de apoio \u00e0 candidatura de Meirelles"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/03/temer-meirelles-2.jpg"
+---
+{% raw %}
+<p><p><em>Estadão Conteúdo</em> - A três dias da convenção do MDB, o presidente Michel Temer, que é presidente licenciado do partido, lançou uma carta de apoio à candidatura do ex-ministro da Fazenda Henrique Meirelles nas eleições 2018, fazendo um alerta aos correligionários. "Não precisamos de salvadores da pátria, inventores da roda. Precisamos de alguém experiente que saiba o que fazer. E o Meirelles sabe. Já provou isso", disse Temer, na mensagem que mandou para os emedebistas via WhatsApp.</p></p>
+<p><p>Temer já confirmou presença na convenção do partido nesta quinta-feira, 2, quando pretende discursar também a favor de Meirelles e da candidatura própria. Temer tem direito a dois votos e considera sua presença importante na convenção, já que não pretende deixar de ter influência no processo sucessório, apesar de os candidatos evitarem citá-lo, como aconteceu neste sábado, 28, quando o empresário Paulo Skaf foi lançado candidato ao governo do Estado de São Paulo.</p></p>
+<p><p>Em sua fala, Temer adverte aos candidatos do partido que a presença de Meirelles na disputa presidencial será importante para a eleição deles mesmos em seus Estados. "No momento em que se aproximam as convenções partidárias, nós chamamos o Meirelles Fizemos isso porque é importante ter um candidato a presidente da República. Será importante para nossos candidatos a deputado estadual e federal, para senador e governador, ver o 15 do nosso MDB na disputa nacional. E quem vai representar o 15 é o candidato Henrique Meirelles. Chamar o Meirelles é reconhecer o trabalho de um profissional que teve sucesso na iniciativa privada, dirigiu um dos maiores bancos internacionais do mundo", afirma o presidente.</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/07/27/governo-estara-com-meirelles-ou-nao-tera-candidato-diz-padilha/">Governo estará com Meirelles ou não terá candidato, diz Padilha</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/07/26/apos-centrao-formalizar-apoio-a-alckmin-temer-diz-que-meirelles-segue-candidato/">Após Centrão formalizar apoio a Alckmin, Temer diz que Meirelles segue candidato</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/07/20/meirelles-ironiza-renan-calheiros-contraste-de-biografias-entre-ele-e-eu-me-favorece/">Meirelles ironiza Renan Calheiros. ‘Contraste de biografias entre ele e eu me favorece”</a></p></p>
+<p><p>Apesar das criticas de setores do MDB, liderados pelo senador Renan Calheiros (AL), o governo está convencido de que Meirelles não terá problemas para ter seu nome chancelado na convenção de quinta-feira e que conseguirá obter 450 dos 629 votos dos delegados. Meirelles hoje tem apenas 1% das pesquisas de intenção de votos.</p></p>
+<p><p>Michel Temer fez questão de lembrar que a importância de Meirelles na recuperação da economia do País contou com o seu apoio "pessoal, político e institucional". Temer, com esse discurso, tenta convencer os aliados a defenderem seu legado. "Você sabe e conhece as reformas que foram feitas no País. Não só na economia. Não só os juros, a inflação, mas a situação das empresas estatais, a realidade da educação, meio ambiente e saúde. E veja o que nós fizemos ao longo do nosso governo. Mudamos o Brasil", ressaltou.</p></p>
+<p><p>"Neste trajeto foi importantíssima a ação da equipe que conduziu a economia com todo meu apoio. Pessoal, político e institucional da Presidência da República. O ministro da Fazenda, Henrique Meirelles, montou um time do melhor nível que permitiu avanços para combater o desemprego no País. E foi essa ação conjunta que permitiu os excelentes resultados que alcançamos em curto período de tempo e logo após a recessão de nossa história". Para Temer, "a esperança foi renovada em nosso país. E isso se deve ao nosso MDB e ao ministro Henrique Meirelles".</p></p>
+<p><p>Temer salienta que Meirelles é uma figura "inatacável" e "que já fez muito pelo País". Citou ainda que "o chamamento do Meirelles é a busca de se unir a boa política com a eficiência econômica. É o encontro do Brasil com um futuro melhor. Para todos. Naturalmente, chamando o Meirelles". Para o presidente, o país precisa de "otimismo cívico" que o MDB já mostrou que pode oferecer ao Brasil e que continuará fazendo. "Basta ver o documento chamado Avançamos, onde todas as vitórias desses dois anos estão registradas. São vitórias de nosso partido, que você pode defender na disputa deste ano. E ao defender as cores do nosso MDB, defender também a figura inatacável de Henrique Meirelles, que muito já fez pelo nosso país."</p></p>
+<p><p>Em maio, Temer avisou que não seria mais candidato e anunciou apoio ao nome de Meirelles. Na carta, depois de lembrar que ele foi eleito deputado federal em 2002, mas foi chamado para presidir o Banco Central num momento delicado da nossa economia e, foi exitoso", acrescenta que "agora, novamente foi chamado para enfrentar uma forte recessão e, de novo, venceu com a equipe que mencionei anteriormente".</p></p>
+<p><p>Na semana passada, em entrevista ao jornal O Estado de S. Paulo, o presidente do MDB, Romero Jucá (RR), disse que a campanha de Meirelles ao Palácio do Planalto vai olhar para o futuro, e não pelo retrovisor. Às vésperas da convenção que oficializará a candidatura de Meirelles nas eleições 2018, em 2 de agosto, a cúpula do MDB e o governo decidiram adotar nova estratégia. A ordem, agora, é descolar o ex-ministro da Fazenda da impopularidade do presidente Michel Temer, na tentativa de fazer com que ele saia do 1% de intenção de voto.</p></p>
+<p><p>"Vamos mostrar que Meirelles não é o resultado do governo Temer. Quem inventou o Meirelles na área econômica não foi o Temer. Foi o Lula", afirmou Jucá, líder do governo no Senado, ao lembrar que o ex-ministro comandou o Banco Central na gestão do petista. Meirelles é definido pelo senador como "um outsider na política, um radical de centro".</p></p>
+{% endraw %}

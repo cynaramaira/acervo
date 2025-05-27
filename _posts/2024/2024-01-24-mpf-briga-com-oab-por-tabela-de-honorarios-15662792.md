@@ -1,0 +1,27 @@
+---
+id: 15662792
+date: "2024-01-24T15:00:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "oab"
+  - "honorarios"
+categories:
+  - "sem-categoria"
+title: "MPF briga com OAB por tabela de honor\u00e1rios"
+sutia: "Em parecer, \u00f3rg\u00e3o do MPF defende condena\u00e7\u00e3o do Conselho Federal da OAB"
+chapeu: "Justi\u00e7a"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/01/18/1103272_1084696_jfcrz_abr_25_07_2017_a81t5606271217-26121129.jpg"
+---
+{% raw %}
+<p>O<a href="https://www.mpf.mp.br/pgr/noticias-pgr2/2023/imposicao-de-tabelas-de-honorarios-da-oab-viola-ordem-economica-e-livre-concorrencia-opina-mpf-junto-ao-cade" target="_blank" rel="noopener noreferrer"> site oficial do Minist&eacute;rio P&uacute;blico Federal</a> informa que a imposi&ccedil;&atilde;o de tabelas de pre&ccedil;os de honor&aacute;rios advocat&iacute;cios pelo Conselho Federal da Ordem dos Advogados do Brasil (CFOAB) viola a livre concorr&ecirc;ncia e a ordem econ&ocirc;mica. Esse &eacute; o entendimento do Minist&eacute;rio P&uacute;blico Federal (MPF) Junto ao Conselho Administrativo de Defesa Econ&ocirc;mica (Cade) apresentado em processo que apura a pr&aacute;tica de conduta anticompetitiva do Conselho.</p>
+<p>No documento, o procurador regional da Rep&uacute;blica Waldir Alves, que atua junto ao &oacute;rg&atilde;o administrativo, defende a condena&ccedil;&atilde;o do CFOAB pela pr&aacute;tica de influ&ecirc;ncia &agrave; ado&ccedil;&atilde;o de conduta uniforme entre concorrentes. Requer tamb&eacute;m a abertura de processo administrativo contra as subse&ccedil;&otilde;es da OAB que j&aacute; puniram ou continuam instaurando procedimentos visando a puni&ccedil;&atilde;o de advogados que n&atilde;o seguem as tabelas de honor&aacute;rios impostas pelo CFOAB.</p>
+<p>Para Alves, os servi&ccedil;os advocat&iacute;cios podem ser comparados a servi&ccedil;os prestados por profissionais de outras &aacute;reas, como m&eacute;dicos, engenheiros, mec&acirc;nicos, e, por isso, tamb&eacute;m devem levar em conta a necessidade e a satisfa&ccedil;&atilde;o da pessoa que os contrata. Ou seja, a l&oacute;gica econ&ocirc;mica dos servi&ccedil;os de um advogado n&atilde;o se distingue da de outras modalidades de prestadores de servi&ccedil;o.</p>
+<p>&ldquo;Portanto, amparado na Constitui&ccedil;&atilde;o e segundo a sua Ordem Econ&ocirc;mica, o sistema de mercado, a livre iniciativa e a livre concorr&ecirc;ncia devem ser respeitados para que se tenha uma livre contrata&ccedil;&atilde;o entre o cliente e o prestador de servi&ccedil;o (advogado)&rdquo;, explica.</p>
+<p>Nesse sentido, Waldir Alves sustenta que a exist&ecirc;ncia de valores m&iacute;nimos em tabela de honor&aacute;rios, n&atilde;o de forma indicativa, mas impositiva e com a previs&atilde;o de puni&ccedil;&atilde;o do advogado que n&atilde;o a observar, retira toda a possibilidade de negocia&ccedil;&atilde;o entre advogados e clientes.</p>
+<p>Segundo o procurador regional da Rep&uacute;blica, &ldquo;a mera influ&ecirc;ncia e uso de tais par&acirc;metros convencionados e sob orienta&ccedil;&atilde;o do Conselho Federal j&aacute; seriam suficientes para configurar a pr&aacute;tica do il&iacute;cito concorrencial na medida em que envolvem a uniformiza&ccedil;&atilde;o de pre&ccedil;os de concorrentes&rdquo;.</p>
+<p>Waldir Alves aponta que a pr&aacute;tica adotada pelo CFOAB &ndash; de imposi&ccedil;&atilde;o de condutas anticompetitivas junto a seus associados &ndash; viola diversos instrumentos normativos, resultando em infra&ccedil;&atilde;o &eacute;tico-disciplinar. Segundo ele, a imposi&ccedil;&atilde;o de tabelas de honor&aacute;rios transgride preceitos do Regulamento Geral do Estatuto dos Advogados do Brasil e dos C&oacute;digos de &Eacute;tica e Disciplina da OAB, de 1995 e 2015, respectivamente. Al&eacute;m dessas normas, o representante do MPF Junto ao Cade cita no parecer a viola&ccedil;&atilde;o ao Estatuto da Advocacia (Lei 8.906/1994) e &agrave; Lei Antitruste (Lei 12.529/2011).</p>
+<p>A instaura&ccedil;&atilde;o de um processo administrativo, em 2010, pela antiga Secretaria de Direito Econ&ocirc;mico do Minist&eacute;rio da Justi&ccedil;a, deu in&iacute;cio ao caso que apura a pr&aacute;tica de eventual conduta anticompetitiva do CFOAB, a partir de representa&ccedil;&atilde;o apresentada pelo Minist&eacute;rio P&uacute;blico do Estado de Minas Gerais (MPMG). De acordo com a representa&ccedil;&atilde;o, a entidade de classe imp&otilde;e valores m&iacute;nimos previstos em tabelas de honor&aacute;rios a serem seguidos por advogados.</p>
+<p>Ao longo da investiga&ccedil;&atilde;o, o CFOAB n&atilde;o negou a exist&ecirc;ncia das citadas tabelas de honor&aacute;rios, mas alegou que o documento seria apenas informativo, baseado na legisla&ccedil;&atilde;o em vigor, sendo seu cumprimento considerado um dever &eacute;tico. No entanto, segundo o MPF, a partir de documentos juntados ao processo, a tabela d&aacute; suporte e influencia a puni&ccedil;&atilde;o administrativa dos advogados que n&atilde;o seguissem os valores constantes das tabelas, &ldquo;abusando de seu poder legal e violando o princ&iacute;pio constitucional da livre concorr&ecirc;ncia&rdquo;.</p>
+{% endraw %}

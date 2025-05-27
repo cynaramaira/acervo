@@ -1,0 +1,57 @@
+---
+id: 13616225
+date: "2021-10-20T22:40:00Z"
+last_modified_at: "2021-10-21 09:00:00"
+tags:
+  - "mppe"
+  - "aposentadoria"
+categories:
+  - "sem-categoria"
+title: "Quem \u00e9 o promotor de Justi\u00e7a do MPPE que deve ter aposentadoria cassada por decis\u00e3o do Conselho Nacional do \u00f3rg\u00e3o"
+sutia: "O caso teve in\u00edcio ainda em 2018 em Pernambuco e teve muita repercuss\u00e3o. Se n\u00e3o fosse a press\u00e3o do Congresso Nacional sobre o MP, \u00e9 poss\u00edvel que a decis\u00e3o n\u00e3o fosse revertida"
+chapeu: "Acossado pelos deputados federais"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsjconline/rondajc/2019/04/marcellus.jpg"
+---
+{% raw %}
+<p>O site do Conselho Nacional do Minist&eacute;rio P&uacute;blico (CNMP) informa que o &oacute;rg&atilde;o decidiu, por unanimidade, cassar a aposentadoria do promotor de Justi&ccedil;a do Minist&eacute;rio P&uacute;blico do Estado de Pernambuco (MPPE) Marcellus de Albuquerque, mais conhecido como Marcellus Ugiette no Estado, por crimes e atos de improbidade administrativa. <a href="https://jc.ne10.uol.com.br/canal/cidades/policia/noticia/2018/08/09/marcellus-ugiette-se-defende-nunca-me-ofereceram-nada-350318.php" target="_blank" rel="noopener noreferrer">O caso teve in&iacute;cio ainda em 2018 em Pernambuco.</a><br /></p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[5515675,12584552,5515602,5515540,5515190,5515094,5353619,5515040,5515032,5351300,5351210,5514920,5351118,5350318,5514882,5514871,5514858],'cd_matia':'5350318','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/canal/cidades/policia/noticia/2018/08/09/marcellus-ugiette-se-defende-nunca-me-ofereceram-nada-350318.php">Marcellus Ugiette se defende: 'Nunca me ofereceram nada'</a></li>
+            <li><a class="link" href="/canal/cidades/policia/noticia/2018/08/16/importante-para-colocar-minha-versao-diz-ugiette-apos-8-horas-de-depoimento-351118.php">'Importante para colocar minha versão', diz Ugiette após 8 horas de depoimento</a></li>
+            <li><a class="link" href="/canal/cidades/geral/noticia/2018/08/17/em-depoimento-ugiette-admitiu-ter-falado-com-advogados-presos-na-operacao-ponto-cego-351210.php">Em depoimento, Ugiette admitiu ter falado com advogados presos na Operação Ponto Cego</a></li>
+            <li><a class="link" href="/canal/cidades/noticia/2018/08/17/familiares-e-amigos-de-ugiette-protestam-e-falam-em-perseguicao-contra-promotor-351300.php">Familiares e amigos de Ugiette protestam e falam em 'perseguição' contra promotor</a></li>
+            <li><a class="link" href="/canal/cidades/policia/noticia/2018/09/05/defesa-de-marcellus-ugiette-esta-confiante-em-arquivamento-de-denuncia-353619.php">Defesa de Marcellus Ugiette está confiante em arquivamento de denúncia</a></li>
+            <li><a class="link" href="/colunas/ronda-jc/2018/08/06/promotor-marcellus-ugiette-e-um-dos-alvos-de-operacao-da-policia">Promotor Marcellus Ugiette é um dos alvos de operação da polícia</a></li>
+            <li><a class="link" href="/colunas/ronda-jc/2018/08/07/marcellus-ugiette-serei-inocentado-dessas-graves-acusacoes">Marcellus Ugiette: 'Serei inocentado dessas graves acusações'</a></li>
+            <li><a class="link" href="/colunas/ronda-jc/2018/08/08/forca-tarefa-analisa-processos-do-promotor-marcellus-ugiette">Força-tarefa analisa processos do promotor Marcellus Ugiette</a></li>
+            <li><a class="link" href="/colunas/ronda-jc/2018/08/16/dois-promotores-se-candidatam-para-a-vaga-de-marcellus-ugiette">Dois promotores se candidatam para a vaga de Marcellus Ugiette</a></li>
+            <li><a class="link" href="/colunas/ronda-jc/2018/09/05/promotor-marcellus-ugiette-vira-reu-por-corrupcao-passiva">Promotor Marcellus Ugiette vira réu por corrupção passiva</a></li>
+            <li><a class="link" href="/colunas/ronda-jc/2018/09/05/justica-proibe-o-promotor-marcellus-ugiette-de-deixar-o-recife">Justiça proíbe o promotor Marcellus Ugiette de deixar o Recife</a></li>
+            <li><a class="link" href="/colunas/ronda-jc/2018/09/28/justica-nega-mais-tempo-para-o-promotor-marcellus-ugiette-apresentar-defesa">Justiça nega mais tempo para o promotor Marcellus Ugiette apresentar defesa</a></li>
+            <li><a class="link" href="/colunas/ronda-jc/2018/11/27/processo-do-promotor-marcellus-ugiette-ainda-sem-prazo-para-ser-julgado">Processo do promotor Marcellus Ugiette ainda sem prazo para ser julgado</a></li>
+            <li><a class="link" href="/colunas/ronda-jc/2019/03/25/ministerio-publico-decide-punir-o-promotor-marcellus-ugiette">Ministério Público decide punir o promotor Marcellus Ugiette</a></li>
+            <li><a class="link" href="/colunas/ronda-jc/2019/04/12/promotor-marcellus-ugiette-e-denunciado-pela-terceira-vez-a-justica">Promotor Marcellus Ugiette é denunciado pela terceira vez à Justiça</a></li>
+            <li><a class="link" href="/colunas/ronda-jc/2019/05/09/por-unanimidade-tjpe-aceita-denuncia-contra-marcellus-ugiette">Por 17 votos, TJPE aceita denúncia contra Marcellus Ugiette</a></li>
+            <li><a class="link" href="/blogs/jamildo/2019/04/12/mppe-estuda-disponibilidade-compulsoria-e-remuneracao-integral-para-marcellus-ugiette/index.html">MPPE estuda disponibilidade compulsória e remuneração integral para Marcellus Ugiette</a></li>
+        </ul>
+</div></tinymce></p>
+<p>A decis&atilde;o ocorreu na ter&ccedil;a-feira, 19 de outubro, durante a 15&ordf; Sess&atilde;o Ordin&aacute;ria de 2021.</p>
+<p>Por se tratar de membro vital&iacute;cio do Minist&eacute;rio P&uacute;blico, c&oacute;pia integral do processo ser&aacute; remetida ao procurador-geral de Justi&ccedil;a do Estado de Pernambuco, para que, em atendimento &agrave; delibera&ccedil;&atilde;o do CNMP, adote as provid&ecirc;ncias para a propositura de a&ccedil;&atilde;o c&iacute;vel destinada &agrave; decreta&ccedil;&atilde;o da cassa&ccedil;&atilde;o da aposentadoria.</p>
+<p>Nesta ter&ccedil;a-feira, o Plen&aacute;rio do CNMP julgou revis&atilde;o de processo disciplinar, instaurada pela Corregedoria Nacional do Minist&eacute;rio P&uacute;blico, para alterar a conclus&atilde;o de procedimento administrativo disciplinar que havia sido arquivado pelo MPPE.</p>
+<p>Esse procedimento teve como objetivo apurar a pr&aacute;tica de condutas incompat&iacute;veis com o exerc&iacute;cio do cargo imputadas ao promotor de Justi&ccedil;a Marcellus Albuquerque.</p>
+<p>O membro do MP teria recebido vantagens indevidas para que praticasse atos em benef&iacute;cio de r&eacute;us em a&ccedil;&otilde;es e execu&ccedil;&otilde;es penais, por meio de transfer&ecirc;ncia de presos a determinado estabelecimento prisional, influ&ecirc;ncia para a obten&ccedil;&atilde;o de ordem judicial para a revoga&ccedil;&atilde;o de pris&atilde;o ou, ainda, manifesta&ccedil;&atilde;o processual a favor de acusados.</p>
+<p><a href="https://jc.ne10.uol.com.br/blogs/jamildo/2019/04/12/mppe-estuda-disponibilidade-compulsoria-e-remuneracao-integral-para-marcellus-ugiette/index.html" target="_blank" rel="noopener noreferrer">De acordo com o CNMP, ocorre que, ap&oacute;s interpor recurso contra a decis&atilde;o condenat&oacute;ria, o promotor de Justi&ccedil;a solicitou, e lhe foi concedida, antes de iniciar o julgamento, aposentadoria volunt&aacute;ria, raz&atilde;o pela qual o &Oacute;rg&atilde;o Especial do Col&eacute;gio de Procuradores de Justi&ccedil;a do MPPE, por unanimidade, determinou o arquivamento do processo pela perda do objeto.</a></p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/20/120x80/1_indice-19327712.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'6170c4b2ea0d6', 'cd_midia':19327712, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/20/indice-19327712.jpg', 'ds_midia': 'Sandra Krieger, no CNMP', 'ds_midia_credi': 'Conjur', 'ds_midia_titlo': 'Sandra Krieger, no CNMP', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '814', 'align': 'Left'}"><figure style="width:814;height:1224;">
+  <img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/20/indice-19327712.jpg" alt="Conjur"  title="Sandra Krieger, no CNMP">
+  <figcaption class='text-left'>Sandra Krieger, no CNMP - <strong>Conjur</strong></figcaption>
+</figure></tinymce></p>
+<p>A relatora da revis&atilde;o do processo disciplinar em tr&acirc;mite no CNMP, conselheira Sandra Krieger, afirmou que o procedimento administrativo disciplinar instaurado pelo MPPE comprovou a conduta do membro do Minist&eacute;rio P&uacute;blico.</p>
+<p>&ldquo;Em descompasso com o que se espera de um membro ministerial, uma vez que os elementos dos autos, em especial diversos di&aacute;logos interceptados, evidenciaram que o ent&atilde;o membro, no exerc&iacute;cio de suas fun&ccedil;&otilde;es, atendia os interesses de advogados, patrocinando interesse privado perante a Administra&ccedil;&atilde;o P&uacute;blica e recebendo vantagem indevida em raz&atilde;o disso&rdquo;, escreve Sandra krieger.</p>
+<p>Krieger destacou que h&aacute; comprova&ccedil;&atilde;o suficiente nos autos de que Albuquerque praticou condutas que configuram crimes incompat&iacute;veis com o exerc&iacute;cio do cargo e atos de improbidade administrativa, previstos nos artigos 9&ordm; e 11 da Lei n&ordm; 8429/1992, cuja consequ&ecirc;ncia legal prevista &eacute; a san&ccedil;&atilde;o de perda do cargo e de cassa&ccedil;&atilde;o da aposentadoria, nos termos dos artigos 53, &sect; 1&ordm;, incisos I e IV, 84 e 85 da Lei Complementar n&ordm; 12/1994 do Estado de Pernambuco.</p>
+<h2>Aposentadoria pr&ecirc;mio</h2>
+<p>A conselheira concluiu de forma breve.&nbsp; &ldquo;N&atilde;o &eacute; coerente o membro do Minist&eacute;rio P&uacute;blico que descumpre seus deveres funcionais receber o mesmo tratamento que aquele que goza da aposentadoria como verdadeiro pr&ecirc;mio, depois de anos de dedica&ccedil;&atilde;o &agrave; atividade ministerial, sem nenhuma m&aacute;cula em seus assentamentos funcionais&rdquo;.</p>
+<p>Al&eacute;m disso, em seu voto, Krieger cita jurisprud&ecirc;ncias do Supremo Tribunal Federal e do Superior Tribunal de Justi&ccedil;a no sentido de que a cassa&ccedil;&atilde;o da aposentadoria n&atilde;o ofende a Constitui&ccedil;&atilde;o Federal, e do Conselho Nacional de Justi&ccedil;a, o qual aponta que superveni&ecirc;ncia de aposentadoria n&atilde;o acarreta a perda do objeto de procedimento ou processo destinado &agrave; apura&ccedil;&atilde;o de poss&iacute;vel pr&aacute;tica de infra&ccedil;&atilde;o disciplinar.<br /></p>
+<p><iframe title="YouTube video player" src="https://www.youtube.com/embed/mZZ2m3Qgdzw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Veja o v&iacute;deo a partir do minuto 15.</p>
+{% endraw %}

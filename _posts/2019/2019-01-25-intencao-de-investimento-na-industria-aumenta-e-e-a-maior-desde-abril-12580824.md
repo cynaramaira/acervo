@@ -1,0 +1,29 @@
+---
+id: 12580824
+date: "2019-01-25T15:00:53Z"
+last_modified_at: null
+tags:
+  - "investimento"
+  - "maioria"
+categories:
+  - "noticias"
+title: "Inten\u00e7\u00e3o de investimento na ind\u00fastria aumenta e \u00e9 a maior desde abril de 2014"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/01/possebbcx06.jpg"
+---
+{% raw %}
+<p><p>O índice de intenção de investimentos da indústria brasileira aumentou 0,6 ponto em janeiro frente a dezembro e alcançou 56,1 pontos neste mês, o maior nível desde abril de 2014, antes do começo da recessão recente. Foi a quarta alta consecutiva do indicador, que está 3,1 pontos acima do verificado em 2018, informa a Sondagem Industrial, divulgada nesta sexta-feira, 25 de janeiro, pela Confederação Nacional da Indústria (CNI). O índice de intenção de investimento varia de zero a cem pontos. Quanto maior o indicador, maior é a disposição dos empresários para investir.</p></p>
+<p><p>“O aumento da intenção de investir do empresário é uma excelente notícia. A concretização destes investimentos geram mais emprego, mais produção e mais renda, dando condições para que a indústria, e a economia como um todo, não só apresentem taxas maiores de crescimento, mas, mais ainda, trilhem um caminho de crescimento sustentado no longo prazo”, afirma o economista da CNI Marcelo Azevedo.</p></p>
+<p><p>O aumento da disposição para investir é resultado do otimismo dos empresários em relação aos próximos seis meses. “As expectativas dos empresários, que já eram otimistas, tornaram-se ainda mais positivas neste início de 2019. Conforme a Sondagem Industrial, todos os indicadores de expectativas estão acima dos 50 pontos e mostram que os industriais esperam o aumento da demanda, do emprego, das exportações, e da compra de matérias-primas e insumos nos próximos seis meses.</p></p>
+<p><p>O índice de expectativa de demanda atingiu 60,3 pontos. Foi a primeira vez desde abril de 2013 que o indicador superou 60 pontos. O índice de expectativa de exportações alcançou 56,1 pontos e é o maior desde fevereiro de 2010, quando começou a série histórica mensal. O indicador de números de empregados, que subiu para 53,1 pontos, e o de compra de matérias-primas, que ficou em 57,5 pontos, são os maiores desde o início de 2013.</p></p>
+<p><p>PRODUÇÃO E EMPREGO – No entanto, em dezembro, com o fim das encomendas para as festas de fim de ano, a indústria operou com queda na produção e no emprego. O indicador de produção foi de 40,7 pontos, inferior aos 42,4 pontos registrados em dezembro de 2017. “A contração da produção em dezembro foi mais intensa em 2018 do que no ano anterior”, afirma a pesquisa. O emprego, que costuma recuar neste período do ano, ficou em 47,2pontos, também inferior ao registrado em 2017. Os indicadores variam de zero a cem pontos. Quando estão abaixo de 50 pontos, mostram queda na produção e no emprego.</p></p>
+<p><p>Seguindo a produção em queda, a utilização da capacidade instalada caiu 4 pontos percentuais frente a novembro e ficou em 65% em dezembro. “Destaca-se, contudo, que o percentual de dezembro de 2018 é o maior para o mês nos últimos quatro anos”, informa a pesquisa.</p></p>
+<p><p>A CNI prevê que a produção industrial deve aumentar nos próximos meses para a recomposição dos estoques, que, em dezembro, caíram para nível abaixo do planejado pelos empresários. O indicador de nível de estoques em relação ao planejado caiu de 50,2 pontos em novembro para 48,9 pontos em dezembro. “O índice de dezembro de 2018 é, inclusive, menor que o observado no mesmo mês na maioria dos anos”, destaca a Sondagem Industrial. Desde 2010, quando a pesquisa mensal começou a ser feita, 2016 foi o único ano em que o índice de dezembro foi menor do que o registrado em 2018.</p></p>
+<p><p>SITUAÇÃO FINANCEIRA – A Sondagem Industrial mostra ainda que a situação financeira das empresas piorou no terceiro trimestre de 2018. O índice de satisfação com o lucro operacional caiu de 42,4 pontos no terceiro trimestre para 42 pontos no fim do ano e o indicador de satisfação com a situação financeira recuou de 46,9 pontos para 46,1 pontos. Os indicadores variam de zero a cem pontos. Quando estão abaixo dos 50 pontos, mostram que os empresários estão insatisfeitos com a situação financeira e com o lucro das empresas. “Os índices são inferiores aos do quarto trimestre de 2017”, informa a pesquisa.</p></p>
+<p><p>Na avaliação dos empresários, o acesso ao crédito continua difícil. O indicador de facilidade de acesso ao crédito ficou em 38,3 pontos no quarto trimestre, praticamente o mesmo registrado no terceiro trimestre. “Com isso, permanece muito abaixo da linha divisória dos 50 pontos, o que significa dizer que o acesso ao crédito segue mais restrito que o normal”, diz a Sondagem. A pesquisa destaca, no entanto, que o indicador do quarto trimestre é 1 ponto maior do que o do mesmo período de 2017, mostrando que naquele ano as condições de acesso ao crédito eram ainda piores.</p></p>
+<p><p>PRINCIPAIS PROBLEMAS – De acordo com a Sondagem Industrial, a elevada carga tributária, com 47,6% das citações, a demanda interna insuficiente, com 31,1% das respostas, e falta ou alto custo da matéria-prima, com 23% das menções, lideram a lista dos principais problemas enfrentados pela indústria no quarto trimestre. Em quarto lugar, com 19,3% das assinalações, aparece a falta de capital de giro, e, em quinto, com 18,2% das respostas, os empresários citaram a competição desleal.</p></p>
+<p><p>Com a desvalorização do dólar frente ao real, a taxa de câmbio, que tinha 24,5% das assinalações, e era o quarto principal problema no terceiro trimestre, caiu para a 10ª posição do ranking e teve 14,3% de respostas.</p></p>
+<p><p>Esta edição da Sondagem Industrial foi feita entre 7 e 17 de janeiro com 2.010 indústrias. Dessas, 834 são pequenas, 707 são médias e 469 são de grande porte.</p></p>
+{% endraw %}

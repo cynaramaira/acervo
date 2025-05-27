@@ -1,0 +1,28 @@
+---
+id: 12602098
+date: "2020-08-03T13:30:36Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "noticias"
+title: "Centr\u00e3o, centro e centrinhos"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/09/rodrigo-maia-marcelocamargo.jpg"
+---
+{% raw %}
+<p><p>Por Gaudêncio Torquato, em artigo enviado ao blog</p></p>
+<p><p>Com a saída do MDB e do DEM do Centrão, bloco até então com 221 deputados, eles se tornam os pesos da balança que vai pender para a situação ou para a oposição. Permanecer no meio, brandindo o discurso de independência, é conversa fiada. Uma eventual base governista continuará sendo uma incerteza, eis que os partidos agirão doravante sob a chancela do pragmatismo. Conseguirá o governo construir sólida e duradoura articulação com o Congresso?</p></p>
+<p><p>O MDB e o DEM tenderão a avaliar o governo pelo crivo da sociedade, coisa mapeada periodicamente e cujos resultados, por sua vez, dependem da economia. Recuperação restrita e lenta bafejarão a base oposicionista; a recíproca é verdadeira. Se o Brasil voltar a impulsionar a confiança de investidores, os investimentos, a taxa do PIB, enfim, o produto nacional da felicidade bruta, terá condições de voltar a enxergar Bolsonaro como principal protagonista em 2022.</p></p>
+<p><p>Mas o caminho até lá é longo. E só permite avançarmos com projeções mais gerais, uma vez que ainda nem sabemos quais figurantes entrarão no jogo. Comecemos com o assunto do momento e que paira como foice da morte sobre a cabeça de milhões de brasileiros: o Covid-19. É provável que os efeitos catastróficos da pandemia sejam sentidos até o final deste ano, mas é igualmente razoável se pensar em pequenas ondas de vírus aparecendo aqui e ali, continuando a gerar medo e angústia.</p></p>
+<p><p>Sob essa teia de possibilidades, a política tende a receber um voto mais crítico. Tanto nas eleições de novembro próximo quanto em outubro de 2022. Por conseguinte, os partidos procuram olhar com lupa o estado d’alma da sociedade, examinando rumos, avaliando probabilidades. Abramos mais pistas no tabuleiro. O governo deve ampliar o cobertor social, reforçando-o com o programa Renda Brasil a imagem positiva nas margens, a partir do Nordeste, onde não foi bem votado em 2018 e que agrega cerca de 28% dos votos do país.</p></p>
+<p><p>Digamos que esse voto das margens seja repartido no seio das classes sociais. Como agirão os contingentes aboletados nas periferias das grandes cidades do Sudeste, a partir de São Paulo, Estado que, sozinho, tem 46 milhões de eleitores? Como serão os programas sociais para essas massas? Há outro elemento decisivo a entrar no rol de componentes: o voto das classes médias (média/alta, média/média/e média/baixa). Não devemos esquecer a famosa imagem da pedra jogada no meio do lago: as marolas formadas correm até à beira da lagoa. As classes C, D e E poderão ser influenciadas.</p></p>
+<p><p>Nesse contingente que habita o meio da pirâmide, toma vulto a expressão dos profissionais liberais, a maior tuba de ressonância do Brasil, cujo discurso flui para baixo e para cima, atingindo eleitores de todos os cantos da sociedade. Nesse meio estão fontes qualificadas, porta-vozes, difusores de mídias sociais, enfim, o núcleo que vocaliza com mais força o pensamento social. Pois bem, as classes médias, por volta de 50% da população (somava até mais antes da pandemia), tendem a ser mais críticas em suas avaliações, portando posicionamento de oposição ao status quo.</p></p>
+<p><p>Em suma, os centristas terão importância fundamental no processo político em transição. Reforço esse termo - transição - sob a crença de que não há condições sociais e políticas de duas alas segurarem o cabo de guerra - esquerda e direita -, ou seja, a polarização caminha para o arrefecimento. O eleitorado está saturado de abordagens mal educadas, palavras de baixo calão, querelas tomadas pelo ódio. Espraia-se um sentimento de que o Brasil carece de esforço suprapartidário para vencer as batalhas: a sanitária, a econômica e a política.</p></p>
+<p><p>Observa-se, ainda, que intensa organicidade se desenvolve em todas as regiões. Por descrédito na política, as pessoas procuram seus centros de referência - associações, sindicatos, movimentos, grupos de ação política. Significa dizer, em outras palavras, que milhares de centrinhos sociais se formam, gerando novos polos de poder.</p></p>
+<p><p>Dito isto, infere-se que o Centrão, o bloco parlamentar com 160 deputados, conhecido por ser muito fisiológico, sob o aspecto do voto, não terá tanta força ante os habitantes do centro da pirâmide e os centrinhos que se organizam no país. O desenho dessa nova ordem tira a força de negociatas que tratam de quarentenas para juízes, no caso, uma quarentena de 8 anos para uma eventual candidatura do juiz Sérgio Moro à Presidência da República. Ora, deixem que o eleitor decida sobre isso, sem travas burocráticas e impeditivas de candidaturas.</p></p>
+<p><p>Se o Centrão firmar-se ao lado do presidente, levando os votos do PL, PP, PSD, Solidariedade, PTB, PROS e Avante, o governo conseguirá alívio para caminhar com desenvoltura nos corredores congressuais, evitando fantasmas que o assombram? Uma certeza: terá de redobrar esforços para afastar horizontes sombrios que ameaçam a elevação do Brasil no concerto das Nações.</p></p>
+<p><p>Gaudêncio Torquato, jornalista, é professor titular da USP, consultor político e de comunicação</p></p>
+{% endraw %}

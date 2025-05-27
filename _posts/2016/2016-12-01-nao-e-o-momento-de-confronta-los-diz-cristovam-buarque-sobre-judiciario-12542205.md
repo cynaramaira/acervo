@@ -1,0 +1,39 @@
+---
+id: 12542205
+date: "2016-12-01T10:43:44Z"
+last_modified_at: null
+tags:
+  - "chico-buarque"
+  - "naomi-campbell"
+categories:
+  - "noticias"
+title: "\"N\u00e3o \u00e9 o momento de confront\u00e1-los\", diz Cristovam Buarque sobre Judici\u00e1rio"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/09/Cristovam-Buarque.jpg"
+---
+{% raw %}
+<p>Em momento de tensão entre o Legislativo e o Judiciário, o senador <a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/30/partidos-implicados-na-lava-jato-votam-em-peso-em-proposta-de-abuso-de-autoridade/">Cristovam Buarque (PPS-DF) disse, na manhã desta quinta-feira (1º), que não é bom para o País confrontar </a>integrantes do Ministério Público nesse momento. "Ao lado da crise econômica, nosso segundo maior problema é a guerra entre os Poderes. Acredito que esse não é o momento de confrontá-los, é momento de chegar a um entendimento com eles", disse o pernambucano em entrevista à Rádio Jornal.</p>
+<p>Na noite dessa quarta (30), o plenário do Senado rejeitou um <a href="https://blogs.ne10.uol.com.br/jamildo/2016/12/01/metade-dos-que-votaram-pela-urgencia-do-pacote-anticorrupcao-esta-na-lava-jato/">requerimento de urgência para votar o pacote de medidas anticorrupção aprovado pela Câmara. </a>Foram 44 votos contrários e 14 a favor da urgência. A proposta de acelerar a votação foi feita pelo presidente da Casa, Renan Calheiros (PMDB-AL), em articulação com líderes de outros partidos.</p>
+<p><strong>LEIA MAIS:</strong></p>
+<p>&gt;&gt; <a title="Metade dos que votaram pela urgência do pacote anticorrupção está na Lava Jato" href="https://blogs.ne10.uol.com.br/jamildo/2016/12/01/metade-dos-que-votaram-pela-urgencia-do-pacote-anticorrupcao-esta-na-lava-jato/">Metade dos que votaram pela urgência do pacote anticorrupção está na Lava Jato</a></p>
+<p>&gt;&gt; <a title="Renan manobra para votar pacote anticorrupção, mas perde e projeto vai para a CCJ" href="https://blogs.ne10.uol.com.br/jamildo/2016/11/30/renan-manobra-para-votar-pacote-anticorrupcao-mas-perde/">Renan manobra para votar pacote anticorrupção, mas perde e projeto vai para a CCJ</a></p>
+<p>De acordo com Cristovam Buarque, o presidente da Casa não deve desistir <a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/30/renan-manobra-para-votar-pacote-anticorrupcao-mas-perde/">de dar celeridade ao projeto. "Renan deve insistir a não ser que pelas pressões que muitos de</a> nós estamos fazendo ele veja que não vale a pena levar a diante essa proposta da forma que veio da Câmara", ressaltou.</p>
+<p>"Acho que nós vamos conseguir barrar. Esse projeto vai para a CCJ (Comissão de Constituição, Justiça e Cidadania), vai haver muito debate e depois segue para muitas comissões. então deve demorar muito ainda."</p>
+<p>&gt;&gt; <a title="Saiba como votaram os pernambucanos sobre abuso de autoridade" href="https://blogs.ne10.uol.com.br/jamildo/2016/11/30/saiba-como-votaram-os-pernambucanos-sobre-abuso-de-autoridade/">Saiba como votaram os pernambucanos sobre abuso de autoridade</a></p>
+<p>&gt;&gt; <a title="Procuradores ameaçam deixar a Lava Jato se pacote anticorrupção passar" href="https://blogs.ne10.uol.com.br/jamildo/2016/11/30/procuradores-ameacam-deixar-lava-jato-se-pacote-anticorrupcao-passar/">Procuradores ameaçam deixar a Lava Jato se pacote anticorrupção passar</a></p>
+<p>O senador ainda falou sobre a emenda aprovada na Câmara que trata <a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/30/humberto-e-fbc-apoiam-renan-em-manobra-para-votar-pacote-anticorrupcao-armando-e-contra/">do abuso de autoridade. "Existem juízes com mãos pesadas que não respeitam inocentes e juízes cegos</a> que não veem os crimes. Em momento difícil, é melhor o que passa da mão, do que o que fecha os olhos", disse.</p>
+<p>Ainda assim, Cristovam disse que existem excessos. Para ele, levar o ex-presidente Luiz Inácio Lula da Silva (PT) coercitivamente "foi muito forte".</p>
+<p>A Força Tarefa da Lava Jato convocou entrevista coletiva nessa <a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/30/procuradores-ameacam-deixar-lava-jato-se-pacote-anticorrupcao-passar/">quarta para repudiar o texto final do pacote de medidas anticorrupção aprovado na Câmara dos Deputados</a>. Os procuradores ameaçaram renunciar caso o projeto seja sancionado pelo presidente Michel Temer (PMDB). "Não será possível continuar a Lava Jato se a lei da intimidação for aprovada. Vamos renunciar coletivamente", disseram eles.</p>
+<p>&gt;&gt; <a title="Humberto e FBC apoiam Renan em manobra para votar pacote anticorrupção. Armando é contra" href="https://blogs.ne10.uol.com.br/jamildo/2016/11/30/humberto-e-fbc-apoiam-renan-em-manobra-para-votar-pacote-anticorrupcao-armando-e-contra/">Humberto e FBC apoiam Renan em manobra para votar pacote anticorrupção. Armando é contra</a></p>
+<p><h2>MANIFESTAÇÕES</h2></p>
+<p><img class="size-full wp-image-171059" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2016/11/protesto-brasilia-10.jpg" alt="Foto: Fabio Rodrigues Pozzebom/ABr" width="750" height="410" /> Foto: Fabio Rodrigues Pozzebom/ABr</p>
+<p>O senador também criticou as manifestações realizadas em Brasília, <a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/30/mendonca-filho-pede-que-pf-apure-depredacao-de-predio-de-ministerio-da-educacao/">na última terça-feira (29), contra a Proposta de Emenda à Constituição (PEC) 55, que limita os gastos públicos</a>, em análise no Senado, e contra a medida provisória (MP) editada por Temer que prevê uma reforma no ensino médio.</p>
+<p>&gt;&gt; <a title="Janot diz que Câmara “colocou País em marcha a ré no combate à corrupção”" href="https://blogs.ne10.uol.com.br/jamildo/2016/11/30/janot-diz-que-camara-colocou-pais-em-marcha-re-no-combate-corrupcao/">Janot diz que Câmara “colocou País em marcha a ré no combate à corrupção”</a></p>
+<p>&gt;&gt; <a title="Veja como votou cada deputado pernambucano sobre enriquecimento ilícito" href="https://blogs.ne10.uol.com.br/jamildo/2016/11/30/veja-como-votou-cada-deputado-pernambucano-sobre-enriquecimento-ilicito/">Veja como votou cada deputado pernambucano sobre enriquecimento ilícito</a></p>
+<p>Entretanto, de acordo com o pernambucano, os atos do próprio <a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/29/predio-do-ministerio-da-educacao-e-depredado-durante-protesto/">Congresso Nacional estão incentivando atos de violência. "Vimos um exército armado de paus e bombas e isso é grave e nós</a> estamos de certa forma incentivando. Com atos como o de desvirtuar o pacote de medidas contra a corrupção", ressaltou. "Mesmo assim, me assusta que nenhum que fez vandalismo reclamou que a Câmara estava sendo tolerante com a corrupção. Aqueles que protestaram contra a PEC 55 e contra a reforma do ensino médio não defenderam a Lava Jato", completou.</p>
+<p>Para Cristovam a juventude brasileira não tem "bandeiras para seguir". "É uma <a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/30/camara-desfigura-pacote-anticorrupcao-do-ministerio-publico/">fogueira nesse imenso vulcão que é o País. Vemos violência urbana, juventude sem utopia, </a>sem bandeiras, até os que estão em escolas não tem bandeira de luta, é uma reação antirreformista. Estamos num momento grave e esta guerra é negativa para o País", disse.</p>
+<p>&gt;&gt; <a title="Mendonça Filho pede que PF apure depredação de prédio do Ministério da Educação" href="https://blogs.ne10.uol.com.br/jamildo/2016/11/30/mendonca-filho-pede-que-pf-apure-depredacao-de-predio-de-ministerio-da-educacao/">Mendonça Filho pede que PF apure depredação de prédio do Ministério da Educação</a></p>
+<p>Ainda sobre os atos de terça-feira, o senador defendeu uma apuração sobre o ocorrido. "Foi antidemocrático porque é conservador e violento. E  é crime porque destrói. É preciso analisar e julgar", defendeu.</p>
+{% endraw %}

@@ -1,0 +1,37 @@
+---
+id: 12580327
+date: "2019-01-13T11:42:14Z"
+last_modified_at: null
+tags:
+  - "chegada"
+  - "congresso"
+  - "renovacao"
+  - "skate"
+categories:
+  - "noticias"
+title: "Renova\u00e7\u00e3o de bancadas no Congresso chega at\u00e9 a 90%"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/03/votacao-camara-uber.jpg"
+---
+{% raw %}
+<p><p><em>Estadão Conteúdo</em> - A mensagem foi de mudança, mas o grau de insatisfação dos eleitores com a classe política nacional variou bastante na última eleição de acordo com o local de votação. Diante da urna, o desânimo gerado por repetidos casos de corrupção, falta de representatividade e má qualidade dos serviços públicos levaram a taxas opostas de renovação (ou trocas) no Congresso. Mato Grosso e Piauí estão nos extremos desse ranking. Em fevereiro, o berço do agronegócio vai trocar quase todos os seus parlamentares - nove de dez -, enquanto o Estado nordestino vai manter oito de 12 congressistas.</p></p>
+<p><p>As diferenças entre os dois Estados ultrapassam o poder Legislativo. No Piauí, não só a maioria dos parlamentares permanecerão em suas cadeiras como o governador também foi reeleito, e em primeiro turno. No cargo pela quarta vez, Wellington Dias (PT) é um exemplo da resistência ao desgaste da classe política que atingiu seu ápice nas eleições passadas.</p></p>
+<p><p>Já o Mato Grosso pode ser considerado o oposto: reelegeu apenas um deputado. O governador também foi trocado - Pedro Taques (PSDB) tentou a reeleição, mas foi derrotado no primeiro turno por Mauro Mendes, do DEM - assim como os dois senadores.</p></p>
+<p><p>Levantamento feito pelo jornal O Estado de São Paulo com todas as 27 bancadas na Câmara e no Senado mostra que apenas seis Estados trocaram menos da metade de seus congressistas em outubro - levando-se em conta apenas os cargos que estavam em disputa. São eles: Piauí, Rio Grande do Sul, Bahia, São Paulo, Minas Gerais e Pernambuco. Os demais alcançaram 50% ou mais de taxa de renovação em outubro.</p></p>
+<p><p>O cientista político Antonio Lavareda classifica as altas taxas de renovação ou troca (os eleitos podem já ter ocupado os mesmos cargos antes ou ter parentesco com os atuais) como resultado da "ruptura do sistema político eleitoral" pela qual passou o País. "Essa quebra não ocorreu apenas na disputa presidencial, com o PSDB fora da polarização com o PT, mas também nos pleitos locais O Nordeste só renovou menos porque o pêndulo lá não se deslocou em função da manutenção da esquerda no poder", disse.</p></p>
+<p><p>A análise por região citada por Lavareda comprova que o discurso contra a velha política ‘pegou menos’ entre os eleitores do Nordeste. Mas para o analista Carlos Melo, cientista político e professor do Insper, esse resultado não se explica simplesmente pela força no PT, mas pelo o que ele chama de lógica local. "Não se pode desprezar esse fator. Diversos governos foram reeleitos porque tinham uma boa avaliação. E governos bons influenciam as eleições parlamentares", afirma.</p></p>
+<p><p>A hegemonia de Wellington Dias no Piauí está intimamente ligada à ascensão do PT ao governo federal e a implementação de programas assistenciais. A cidade de Guaribas - então considerada a mais pobre do País, localizada no centro sul do Estado - foi escolhida para ser a pioneira do Bolsa Família, em 2003. Passados 16 anos quase 98% dos eleitores da cidade votaram em Fernando Haddad (PT) para o Planalto.</p></p>
+<p><p>As oportunidades criadas para os mais pobres são apontadas pela auxiliar administrativa Clareana Borges, de 24 anos, como os principais fatores para que ela votasse, pela segunda vez seguida, em Wellington Dias para governador e em Rejane Dias para deputada federal. "Hoje as pessoas, especialmente as do interior, têm mais qualidade de vida. Na minha cidade, as pessoas têm oportunidades que antes não existiam para elas", disse Clareana, natural de São João do Piauí, no sertão do Estado.</p></p>
+<p><h2>Estados manchados por escândalos de corrupção têm índice de renovação maior</h2></p>
+<p><p>Quando a política local decepciona as trocas parlamentares aumentam. Estados manchados por escândalos de corrupção, como Rio - onde os dois últimos governadores estão presos -, Roraima, Minas Gerais e Amazonas registraram alguns dos maiores índices. No recordista de trocas, Mato Grosso, somente o deputado Carlos Bezerra (MDB) conseguiu se reeleger. Apesar disso, viu sua votação cair de 95.739 para 59.155 votos.</p></p>
+<p><p>"Foi uma eleição maléfica para o Congresso Nacional", afirmou Bezerra, que também já foi deputado estadual, prefeito de Rondonópolis (3ª maior cidade do Estado) por duas vezes, governador e também senador. "Perdemos bons quadros." Para ele, a "onda" de renovação é passageira e as eleições de 2018 podem ser comparadas a uma enchente que tira o leito do rio do lugar, mas depois que seca, ele volta ao seu lugar.</p></p>
+<p><p>Bezerra vai ter companhia conhecida, como a do filho do prefeito de Teresina, Emanuelzinho Pinheiro (PTB), eleito para seu primeiro mandato na Câmara aos 23 anos. José Medeiro (PSD) também é figura conhecida - a diferença é que neste ano ele só vai trocar o mandato de senador pelo de deputado.</p></p>
+<p><p>Juntos, os Estados do centro-oeste não renovaram os mandatos de 75% dos congressistas. A região, cuja economia é baseada no agronegócio, alavancou a onda de direita que elegeu não só o presidente Jair Bolsonaro, mas 12 governadores alinhados a ele. "O eleitor brasileiro vota de acordo com a sua realidade. Busca uma proposta que possa melhorar a sua vida. Isso do Mato Grosso ao Piauí", resume Melo.</p></p>
+<p><h2>Rio é o que mais ‘endireitou’ no novo Congresso</h2></p>
+<p><p>Com seus dois últimos governadores presos, o Rio de Janeiro foi o Estado que mais "endireitou" no Congresso. A partir de fevereiro, 15 cadeiras que antes pertenciam a 12 parlamentares de centro e 3 de esquerda passarão a ser ocupadas por deputados e senadores de direita.</p></p>
+<p><p>Essa tendência foi mais forte no Sudeste, com São Paulo e Minas Gerais seguindo o Rio na liderança, mas também pode ser percebida em boa parte das bancadas estaduais das duas Casas. Ao todo, Câmara e Senado ganharão 61 novos parlamentares de direita à medida que o centro perdeu 48 cadeiras e a esquerda, 13.</p></p>
+<p><p>A legenda mais beneficiada nesse processo foi o PSL do presidente Jair Bolsonaro, que saltou de 1 deputado eleito em 2014 para 52, além de 4 senadores em 2018, distribuídos por 18 Estados. Só na bancada carioca da Câmara, a sigla terá 12 deputados. Além disso, o partido também elegeu os dois deputados mais votados: Eduardo Bolsonaro (RJ) - que com 1.843.735 votos se tornou o deputado mais votado da história - e Joice Hasselmann (SP), com 1.078.666 votos.</p></p>
+<p><p>Na contramão da onda ‘direitista’, quatro estados do Nordeste - Alagoas, Bahia, Maranhão e Sergipe -, além do Amapá, tiveram uma diminuição de seus parlamentares de direita. O Ceará - reduto eleitoral de Ciro Gomes (PDT) - foi o local que teve mais ganhos para esquerda, com um aumento de 4 cadeiras. O Estado foi o único em que o pedetista venceu no primeiro turno da eleição presidencial.</p></p>
+{% endraw %}

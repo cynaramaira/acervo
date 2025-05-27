@@ -1,0 +1,30 @@
+---
+id: 12603480
+date: "2020-09-14T13:30:30Z"
+last_modified_at: null
+tags:
+  - "improbidade-administrativa"
+  - "previsao"
+categories:
+  - "noticias"
+title: "A revis\u00e3o da lei de improbidade"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/09/ola.jpg"
+---
+{% raw %}
+<p><p>Por Gustavo Vieira de Melo Monteiro, especial para o Blog do Jamildo</p></p>
+<p><p>Já tardava a revisão da lei de #improbidade que, para além do limite, tem contribuído, em certa medida, com a inviabilização da gestão pública. Tema que, por um lado, causa sobressaltos e apaixonadas discussões, por outro força o reconhecimento de que existe uma tendência de se lançar na vala comum dos negligentes ou desonestos todo universo de #bons_gestores_públicos e #funcionários_públicos que lutam, diariamente, contra as dificuldades inerentes ao exercício da atividade pública nos tempos atuais, valendo-se de boas práticas e novas formas de gerir o Estado, inovando com criatividade e competência.</p></p>
+<p><p>O projeto que altera a Lei n.º 8.429, de 1992, deve, enfim, ser levado à votação, renovando o que dispõe sobre improbidade administrativa. O texto do projeto que, para alguns, limita a atuação do Ministério Público, na verdade define a interpretação do que vem a ser – de fato –#improbidade_administrativa, relacionando, também, as punições previstas para aqueles agentes públicos que, eventualmente, forem enquadrados nas hipóteses da lei.</p></p>
+<p><p>A revisão do texto legal de 1992 pelo projeto é necessária e fundamental, e não deve ser traduzida como uma leniência ou suavização do arcabouço normativo que penaliza malfeitos de gestores públicos. Ao reverso disso, a revisão do texto da Lei n.º 8.429/92 busca atualizar a norma legal com o objetivo, justamente, de punir apenas os desonestos, e não o gestor que eventualmente comete um erro administrativo, inerente ao exercício da atividade administrativa, situação que, infelizmente, é recorrente e vem contribuindo para o travamento quase que completo da Administração Pública geral.</p></p>
+<p><p>Isso porque vivemos um clima de terror, onde #gestores_públicos e #funcionários_públicos são punidos simplesmente por terem buscado resolver alguns dos inúmeros problemas que atravancam o funcionamento da administração. Para muitos, em razão do quadro atual, a melhor estratégia de sobrevivência é aquela de simplesmente negar qualquer iniciativa de adequação ou resolução de problemas, evitando – com isso – uma eventual alegação de que agiram com improbidade.</p></p>
+<p><p>Não se discute que o assunto é sensível – é de fato – mas são muitos e recorrentes os casos em que o Ministério Público acusa de improbidade administrativa gestores, empresas e pessoas que celebraram contratos com a Administração, com base em denúncias sem fundamento, as vezes até fúteis, sem respaldo ou a partir de uma interpretação elástica do texto legal. E isso somente é possível em razão da larga margem de interpretação do que deve e pode ser classificado como improbidade administrativa.</p></p>
+<p><p>Nesse contexto, qualquer erro administrativo passou a ser considerado um potencial indício de desonestidade. Chegamos ao ponto em que gestores públicos preferem deixar de enfrentar os problemas que se apresentam, ou sequer recebem contratados e particulares que buscam resolver as questões que se apresentam em face da execução dos contratos, por medo da alegação de improbidade.</p></p>
+<p><p>As engrenagens da coisa pública estão travadas pelo medo de agir de muitos gestores. São poucos aqueles que, imbuídos do espírito público, ainda se dedicam à espinhosa missão, enfrentando-a, com a cara e a coragem, e assumindo a responsabilidade de decidir, apesar do fundado receio da acusação de improbidade.</p></p>
+<p><p>Para muitos a situação mais cômoda é serem compelidos a fazer ou decidir em razão de uma determinação judicial. Simplesmente porque a referida ordem judicial não lhes dá alternativa que não fazer cumprir, colocando-os fora do alcance das alegações de improbidade. Ou seja, o atual estado de coisas força, cada vez mais, os agentes públicos a administrar em razão de ordens judiciais para, assim, se verem livres de processos.</p></p>
+<p><p>Muitos têm chamado o fenômeno de “apagão das canetas”, onde o que prevalece é a ausência de decisão ou negativa mesmo que injustificada, pelo temor (fundado) de serem enquadrados pessoalmente, de forma indevida, na Lei de Improbidade.<br /></p>
+<p>O projeto que altera a Lei de Improbidade exclui do rol dos atos passíveis de punição aqueles que resultam de “interpretação razoável” da legislação ou dos contratos. A proposta põe fim à possibilidade de se pretender enquadrar o gestor na forma culposa de improbidade, quando a irregularidade é cometida sem intenção – classificada como resultado de imperícia, imprudência ou negligência, mas sujeitando o gestor público à inflição das penalidades. A revisão exigirá que se prove a má intenção do gestor, medida necessária que deve reduzir substancialmente as punições por improbidade.</p></p>
+<p><p>Para muitos a atualização da lei é um retrocesso, mas vale indagar, é razoável acusar sem provas, presumir culpa, classificar o erro escusável como conduta grave, passível de responsabilização por improbidade administrativa?</p></p>
+<p><p>A atualização que pode resultar na aprovação do projeto de lei que altera a Lei n.º 8.429/92, não pode ser objeto de disputa de poder. Afinal, o fim da impunidade de administradores corruptos não depende do engessamento da administração pública, nem tampouco de uma lei com conceitos abertos, que gera enorme insegurança jurídica. A busca de uma Administração eficiente e próxima ao cidadão, transparente, passa ao largo de qualquer movimento de criminalizar a conduta administrativa, tratando todos os gestores públicos como desonestos, com base apenas em presunções ou discordâncias.</p></p>
+{% endraw %}

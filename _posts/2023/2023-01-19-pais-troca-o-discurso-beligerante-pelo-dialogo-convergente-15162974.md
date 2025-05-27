@@ -1,0 +1,27 @@
+---
+id: 15162974
+date: "2023-01-19T09:51:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "opiniao"
+categories:
+  - "sem-categoria"
+title: "Pa\u00eds troca o discurso beligerante pelo di\u00e1logo convergente"
+sutia: "Analista v\u00ea uma clara reorienta\u00e7\u00e3o das pol\u00edticas p\u00fablicas brasileiras com enorme impacto da imagem do pa\u00eds no exterior"
+chapeu: "opini\u00e3o"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/01/06/unnamed_9_-22263145.jpg"
+---
+{% raw %}
+<p>Em artigo, <strong>M&aacute;rcio Coimbra</strong> fala em reconstru&ccedil;&atilde;o. M&aacute;rcio Coimbra &eacute; Coordenador da p&oacute;s-gradua&ccedil;&atilde;o em Rela&ccedil;&otilde;es Institucionais e Governamentais da Faculdade Presbiteriana Mackenzie Bras&iacute;lia. Cientista Pol&iacute;tico, mestre em A&ccedil;&atilde;o Pol&iacute;tica pela Universidad Rey Juan Carlos (2007). Ex-Diretor da Apex-Brasil e do Senado Federal. Vale a pena a leitura, abaixo.</p>
+<p><em>O Brasil passar&aacute; por um momento de reconstru&ccedil;&atilde;o. Muito al&eacute;m das usuais prefer&ecirc;ncias pol&iacute;ticas de cada cidad&atilde;o, &eacute; importante lembrar que o &ecirc;xito do governo que se inicia confunde-se com o sucesso de nosso pa&iacute;s. Passado o processo eleitoral, &eacute; momento de cicatrizar as feridas e olhar adiante, de um lado, torcendo por um governo de resultados positivos e, de outro, por uma oposi&ccedil;&atilde;o respons&aacute;vel e propositiva.</em><br /></p>
+<p><em>Fato &eacute; que a popula&ccedil;&atilde;o brasileira fez uma op&ccedil;&atilde;o clara nas urnas pelo retorno de um modelo antag&ocirc;nico ao governo anterior. Al&eacute;m disso, o povo fez uma escolha por um estilo de lideran&ccedil;a diferente, menos beligerante e mais convergente. O caminho e os sinais vindos das urnas mostraram que o pa&iacute;s deseja deixar o tom de enfrentamento e partir para a reconstru&ccedil;&atilde;o, como projeta o novo governo.</em><br /></p>
+<p><em>Esta reconstru&ccedil;&atilde;o passa pela retomada de projetos interrompidos, novos caminhos e di&aacute;logo, tanto com a sociedade civil, como com a classe pol&iacute;tica. Esta corre&ccedil;&atilde;o de rumos certamente inclui interrup&ccedil;&atilde;o de a&ccedil;&otilde;es, retomada de outras e elabora&ccedil;&atilde;o de caminhos que podem ajudar a construir a escolha realizada pela popula&ccedil;&atilde;o por meio do voto. Algo que ficou expl&iacute;cito no conjunto de decretos firmados por Lula na posse.</em><br /></p>
+<p><em>Entende-se que o cart&atilde;o de visita da nova gest&atilde;o na retomada internacional &eacute; a agenda ambiental. Al&eacute;m da comiss&atilde;o interministerial permanente de preven&ccedil;&atilde;o e controle do desmatamento, restabeleceu-se o Plano de A&ccedil;&atilde;o para Preven&ccedil;&atilde;o e Controle do Desmatamento na Amaz&ocirc;nia Legal (PPCDAm), criado em 2004 pela ent&atilde;o ministra Marina Silva e que foi respons&aacute;vel por uma queda de 86% no desmatamento da Amaz&ocirc;nia entre 2004 e 2012.</em><br /></p>
+<p><em>O governo foi al&eacute;m e cumpriu a promessa feita na Confer&ecirc;ncia da ONU sobre o Clima de restabelecer o Fundo da Amaz&ocirc;nia. Alemanha e Noruega ir&atilde;o se engajar novamente e retomar repasses para o fundo, com um primeiro dep&oacute;sito simb&oacute;lico de 35 milh&otilde;es de euros da Alemanha para o uso imediato pelo novo Minist&eacute;rio do Meio Ambiente.</em><br /></p>
+<p><em>Outro despacho importante foi a revis&atilde;o do decreto sobre o Conselho Nacional do Meio Ambiente, que existe desde 1981 e tem o objetivo de garantir participa&ccedil;&atilde;o da sociedade civil em decis&otilde;es relacionadas ao meio ambiente, mas que havia sofrido esvaziamento com Bolsonaro. Lula retomou o poder do Conama com o objetivo de garantir sua ampla participa&ccedil;&atilde;o na defini&ccedil;&atilde;o das pol&iacute;ticas p&uacute;blicas ambientais do Brasil.</em><br /></p>
+<p><em>Al&eacute;m disso, pode se destacar tamb&eacute;m a medida com enorme impacto internacional &eacute; o novo decreto que retoma a a&ccedil;&atilde;o efetiva do governo nas multas ambientais. No governo Bolsonaro, 93% das multas por crimes ambientais na Amaz&ocirc;nia n&atilde;o foram pagas. Al&eacute;m disso, foi revogado o decreto que permitia garimpo em &aacute;reas ind&iacute;genas e de prote&ccedil;&atilde;o ambiental.</em><br /></p>
+<p><em>Estas primeiras medidas na &aacute;rea ambiental, somadas a outras na &aacute;rea da sa&uacute;de, como a extin&ccedil;&atilde;o da Funasa, cria&ccedil;&atilde;o de uma pol&iacute;tica de atendimento &agrave;s pessoas com sintomas p&oacute;s-Covid e a&ccedil;&otilde;es para reverter as baixas coberturas vacinais s&atilde;o exemplos de um pacote de reformas que chega para reorientar e reconstruir o pa&iacute;s.</em></p>
+<p><em>Com estas a&ccedil;&otilde;es vemos uma clara reorienta&ccedil;&atilde;o das pol&iacute;ticas p&uacute;blicas brasileiras com enorme impacto da imagem do pa&iacute;s no exterior. Um movimento de profunda mudan&ccedil;a. &Eacute; momento de olhar adiante, com modera&ccedil;&atilde;o, responsabilidade e coopera&ccedil;&atilde;o.</em></p>
+{% endraw %}

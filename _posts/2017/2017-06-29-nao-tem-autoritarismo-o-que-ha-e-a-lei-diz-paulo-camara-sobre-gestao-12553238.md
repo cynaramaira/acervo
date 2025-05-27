@@ -1,0 +1,43 @@
+---
+id: 12553238
+date: "2017-06-29T08:59:52Z"
+last_modified_at: null
+tags:
+  - "estado"
+  - "naomi-campbell"
+  - "paulo-camara"
+  - "seguranca"
+categories:
+  - "noticias"
+title: "\"N\u00e3o tem autoritarismo, o que h\u00e1 \u00e9 a lei\", diz Paulo C\u00e2mara sobre gest\u00e3o da seguran\u00e7a no Estado"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/12/paulo-camara6.jpg"
+---
+{% raw %}
+<p><p>O governador de Pernambuco, Paulo Câmara (PSB), disse durante entrevista concedida à <a href="https://radiojornal.ne10.uol.com.br/">Rádio Jornal,</a> na manhã desta quinta-feira (29), que lamenta a saída de Angelo Fernandes Gioia da Secretaria de Defesa Social (SDS). Questionado sobre uma suposta postura autoritária do secretário, o socialista rebateu: "Não tem autoritarismo, o que há é a lei".</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/28/paulo-camara-troca-secretario-de-defesa-social/">Paulo Câmara troca secretário de Defesa Social. Gioia sai e entra corregedor</a><br /></p>
+<p>» <a title="Sindicato dos Policiais Civis diz que Gioia “já vai tarde”" href="https://blogs.ne10.uol.com.br/jamildo/2017/06/28/sindicato-dos-policiais-civis-diz-que-gioia-ja-vai-tarde/">Sindicato dos Policiais Civis diz que Gioia “já vai tarde”<br /></p>
+<p></a>» <a title="Oposição a Paulo Câmara diz que troca de secretário não resolve violência" href="https://blogs.ne10.uol.com.br/jamildo/2017/06/28/oposicao-paulo-camara-diz-que-troca-de-secretario-nao-resolve-violencia/">Oposição a Paulo Câmara diz que troca de secretário não resolve violência</a></p></p>
+<p><p>Prestes a completar nove meses à frente da SDS, Gioia deixa o cargo sendo criticado pela <a href="https://blogs.ne10.uol.com.br/jamildo/2017/04/28/corregedoria-da-sds-pune-presidente-do-sindicato-dos-policiais-civis/">falta de diálogo com as categorias da segurança; ele é o segundo </a>secretário a deixar a pasta na gestão Paulo Câmara. Ele pediu desligamento do cargo nessa quarta (28). De acordo com o governo do Estado, ele deixou o posto alegando questões pessoais. O novo secretário escolhido é Antônio de Pádua Vieira Cavalcanti, que ocupava a Corregedoria Geral da SDS desde janeiro deste ano.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/22/paulo-camara-promete-resolver-crise-na-seguranca-e-entregar-estacoes-de-brt-ate-2018/">Paulo Câmara promete resolver crise na segurança e entregar estações de BRT até 2018</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/17/dirigentes-de-associacao-de-pms-sao-expulsos-da-corporacao/">Dirigentes de associação de PMs são expulsos da corporação</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/19/oposicao-pede-para-gioia-rever-expulsao-de-dirigentes-de-associacao-de-pms/">Oposição pede para Gioia rever expulsão de dirigentes de associação de PMs. Entidade vai recorrer</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/22/bolsonaro-critica-paulo-camara-por-expulsao-de-pms-militar-nao-e-escravo/">Bolsonaro critica Paulo Câmara por expulsão de PMs: “Militar não é escravo”</a></p></p>
+<p><h2>Ouça a entrevista com Paulo Câmara:</h2></p>
+<p><p><iframe width='100%' height='50' src='https://player.mais.uol.com.br/?mediaId=16256289' allowFullScreen='true' frameborder='0'></iframe></p></p>
+<p><p>De pronto, Paulo Câmara já adiantou que o novo secretário manterá a linha <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/19/oposicao-pede-para-gioia-rever-expulsao-de-dirigentes-de-associacao-de-pms/">de atuação de Gioia, que colecionou desafetos durante sua gestão com as</a> associações de militares. Em meio à queda de braço entre a corporação e o Governo do Estado, o agora ex-secretário não ficou ao lado da PM e não abriu um canal de negociação com as associações o gerou, inclusive, protestos no Centro do Recife de familiares dos PMs. Gioia endureceu e incentivou a abertura de processos administrativos, que, há poucos dias, resultou até na expulsão do presidente e vice-presidente da Associação de Cabos e Soldados.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/04/25/corregedoria-da-sds-determina-primeiras-prisoes-para-grevistas-da-pm/">Corregedoria da SDS determina primeiras prisões para grevistas da PM</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/07/governo-decide-punir-com-prisao-pms-que-participaram-de-protesto/">Governo decide punir com prisão PMs que participaram de protesto no Recife</a><a title="Sindicato dos Policiais Civis diz que Gioia “já vai tarde”" href="https://blogs.ne10.uol.com.br/jamildo/2017/06/28/sindicato-dos-policiais-civis-diz-que-gioia-ja-vai-tarde/"><br /></p>
+<p></a>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/04/28/corregedoria-da-sds-pune-presidente-do-sindicato-dos-policiais-civis/">Corregedoria da SDS pune presidente do Sindicato dos Policiais Civis</a></p></p>
+<p><p>Nos bastidores a informação é de que militares estão esperançosos com uma abertura de diálogo com o novo secretário Antônio de Pádua. Mas ainda é cedo para qualquer perspectiva. "Pádua tem experiência e poderá continuar o trabalho... Não há autoritarismo o que há é a lei. O novo secretário vai<a href="https://blogs.ne10.uol.com.br/jamildo/2017/04/25/corregedoria-da-sds-determina-primeiras-prisoes-para-grevistas-da-pm/"> manter a linha porque entendemos que o Estado vai melhorar</a> a segurança continuando o trabalho iniciado por Gioia, que resgatou a disciplina e hierarquia no meio policial. Nós não vamos admitir excesso de bandidagem e precisamos combater o tráfico que está muito grande no País inteiro", ressaltou o governador.</p></p>
+<p><h2>Números negativos na segurança</h2></p>
+<p><a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/17/gioia-justifica-troca-na-policia-civil-buscamos-investigacao-mais-qualificada/angelo-gioia-3/" rel="attachment wp-att-175215"><img class="size-full wp-image-175215" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/02/angelo-gioia-1.jpg" alt="" width="750" height="410" /></a> Foto: Fernando da Hora/JC Imagem</p>
+<p><p>Paulo também se mostrou confiante em melhorar os índices de criminalidade em<a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/15/estado-registra-mais-de-2-mil-homicidios-so-nos-primeiros-quatro-meses-de-2017/"> Pernambuco. Cabe ressaltar que foi durante a gestão do ex-secretário</a> que o Estado registrou os meses mais violentos da história do Pacto Pela Vida. Entre dezembro e abril deste ano, foram recordes consecutivos de assassinatos. No total, são mais de 2,4 mil homicídios entre janeiro e maio deste ano. "Os comandos das policias estão mantidos e tenho certeza que vamos continuar no caminho para ir melhorando segurança para terminar 2017 tendo melhorado bastante a segurança", disse.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/31/punida-associacao-de-pms-vai-ao-mppe-contra-milton-coelho/">Punida, associação de PMs vai ao MPPE contra Milton Coelho</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/29/governo-de-pernambuco-descredencia-associacoes-de-pms/">Governo de Pernambuco descredencia associações de PMs e suspende arrecadação</a><a title="Sindicato dos Policiais Civis diz que Gioia “já vai tarde”" href="https://blogs.ne10.uol.com.br/jamildo/2017/06/28/sindicato-dos-policiais-civis-diz-que-gioia-ja-vai-tarde/"><br /></p>
+<p></a>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/04/05/stf-veta-greve-de-servidores-de-todas-as-carreiras-policiais/">STF veta greve de servidores de todas as carreiras policiais</a></p></p>
+<p><p>Mesmo com números ruins, Paulo Câmara defendeu a atuação de Gioia frente à SDS e afirmou <a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/25/oposicao-usa-audiencia-com-gioia-na-alepe-para-atacar-pacto-pela-vida-e-governo-paulo-camara/">que ele abriu "um caminho" para a melhora na segurança</a>. "Gostaria de lamentar a saída de Gioia que vinha fazendo um excelente trabalho e deu inicio a um caminho que resgata políticas e busca reduzir assaltos a bancos, homicídios, roubos e vamos manter isso. Vou continuar trabalhando por um Pernambuco mais seguro, o trabalho continua e ele deu grande contribuição e começa a dar os resultados que precisam melhorar muito", ressaltou.</p></p>
+{% endraw %}

@@ -1,0 +1,28 @@
+---
+id: 12603888
+date: "2020-09-23T13:30:30Z"
+last_modified_at: null
+tags:
+  - "empresario"
+  - "pernambucano"
+  - "setembro"
+categories:
+  - "noticias"
+title: "Confian\u00e7a do empres\u00e1rio pernambucano cresce em setembro"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/09/agamenon.jpg"
+---
+{% raw %}
+<p><p>O Índice de Confiança do Empresário do Comércio (ICEC) de Pernambuco, que mede a percepção que os empresários do comércio têm sobre o nível atual e futuro de propensão a investir em curto e médio prazo, mostrou a segunda alta após cinco quedas consecutivas. É importante destacar que os números veem confirmando a expectativa de que o comportamento da confiança empresarial no segundo semestre fosse superior ao verificado no primeiro, visto que o indicador já havia mostrado menor intensidade nas duas variações negativas da passagem do primeiro para o segundo semestre, além de ter confirmado a expectativa de alta no mês de agosto, primeiro mês após início da reabertura dos estabelecimentos não essenciais com a presença de uma data comemorativa forte, que foi a comemoração do Dia dos Pais. Além disso, a economia começa a responder de maneira mais rápida do que o esperado, visto que o mercado de trabalho formal voltou a apresentar saldo positivo em julho, comportamento que era esperado apenas para o último bimestre de 2020.</p></p>
+<p><p>O ICEC cresceu 17,2% entre agosto e setembro, saindo de 79,7 para 93,4 pontos, refletindo os números positivos do movimento das vendas iniciado a partir de maio, onde o volume cresceu 10,2% em Pernambuco, com continuidade em junho, visto que a intensidade do consumo continuou alto e propiciou desempenho de 10,3%, além do desempenho do mês de julho ter mostrado resultado superior aos dois meses anteriores crescendo 18,9% no indicador mês.</p></p>
+<p><p>Os segmentos que vem puxando a recuperação do comércio continuam sendo o de eletrodoméstico, respondendo a uma demanda extremamente elevada das famílias que atualmente precisam de um uso mais intenso destes aparelhos devido ao isolamento social. Além dos móveis, puxados pela necessidade da montagem dos escritórios home office, e do segmento de material de construção, que também cresce devido a necessidade de permanência em residências e pelo necessidade dos estabelecimentos de se adequarem as normas de saúde. Na outra ponta, o segmento de hiper e supermercados começam a repassar a alta dos preços de alguns produtos essenciais, elevando o custo da cesta básica, reduzindo o poder de compras das famílias o que inevitavelmente mais a frente reduzirá o nível de consumo de outros produtos no varejo.</p></p>
+<p><p>A recuperação em ritmo mais acelerado do que o projetado no início da pandemia nos demais setores também é um ponto extremamente positivo e que contribui para uma retomada da confiança do setor empresarial do comércio. A indústria aumentando a produção e os Serviços também sendo demandado por mais volume criam empregos, geram renda, atraem investimentos e puxam os números das vendas para cima.</p></p>
+<p><p>As políticas emergenciais voltadas as famílias também contribuem com parcela relevante da retomada da confiança do setor do comércio. O auxilio emergencial continua atenuando a queda na renda das famílias, em Pernambuco injetou mais de R$ 7 bilhões de reais em 5 meses, além de ter a notícia positiva de que apesar da redução no valor pago, que sairá de R$ 600,00 para R$ 300,00, o programa vai continuar até dezembro, dando continuidade a amenização da queda do consumo diante da grave crise em que passa o mundo com a pandemia da covid-19. Além disso, grande parte das pessoas que podem receber o FGTS emergencial já podem utilizar recurso, visto que o calendário para recebimento já passou da maioria dos meses do ano, o que acaba gerando uma alta no poder de compra das famílias que decidiram sacar o valor.</p></p>
+<p><p>De acordo com a entidade, o Governo Federal também contribuiu com a continuidade da agenda de reformas para a criação de um ambiente de negócios menos oneroso. Isto porque a reforma administrativa enviada para o congresso deve dar um fôlego para as contas públicas no longo prazo, além de também abrir terreno para a realização da reforma tributária. O debate de um plano de desenvolvimento pautado em agendas modernas voltou a cena, o que dá incentivos para que o setor produtivo visualize uma economia mais estável no médio e longo prazo, elevando assim a sua confiança e os seus investimentos.</p></p>
+<p><p>Analisando os sub indicadores da pesquisa verifica-se que todas as avaliações voltaram a apresentar alta mensal. A destaque desta vez ficou com o Índice de Condições Atuais do Empresário do Comércio, confirmando uma melhora no ambiente de negócio com a reabertura e o menor grau de isolamento social das famílias.</p></p>
+<p><p>O segundo indicador mais bem avaliado em setembro foi o de Investimento, refletindo que o empresariado do setor continua confiando no direcionamento da equipe econômica federal em relação as principais medidas para atenuar a crise gerada pela pandemia e para conduzir o país ao retorno do crescimento econômico sustentável.</p></p>
+<p><p>"Para o próximo mês se espera que a confiança continue com variação positiva, visto que o mês de outubro possui a comemoração do Dia das Crianças, data importante do calendário de compras dos pernambucanos, incentivando a mais um movimento de consumo. O comportamento positivo e de recuperação acelerada da maioria das variáveis econômicas pode melhorar ainda mais as projeções de queda ainda presentes para o ano de 2020 para as vendas do comércio e para o PIB nacional e estadual".</p></p>
+<p><p>&nbsp;</p></p>
+{% endraw %}

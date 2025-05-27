@@ -1,0 +1,32 @@
+---
+id: 12595668
+date: "2020-02-06T15:30:53Z"
+last_modified_at: null
+tags:
+  - "esquema-criminoso"
+  - "roberto-alvim"
+categories:
+  - "noticias"
+title: "Quem nunca comeu melado, quando come se lambuza, escreve Roberto Livianu"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/08/congresso_nacional.jpg"
+---
+{% raw %}
+<p><p>Por Roberto Livianu</p></p>
+<p><p>Todas as análises científicas que têm por objeto os partidos políticos na América Latina – especialmente no Brasil – constatam que sua credibilidade vem desabando ladeira abaixo ano após ano, chegando a níveis muito próximos do 0%. O Latinobarómetro, em seu último informe, coloca o Brasil na pior posição dentre os 18 países examinados.</p></p>
+<p><p>Os eleitores, de seu lado, não têm o menor interesse em saber a que partido está vinculado o candidato –votam em indivíduos e, raramente, em ideologias partidárias. Salvo raríssimas exceções, não existe verdadeira democracia intrapartidária –são propriedade e vivem sob o jugo de coroneis, não existem programas de integridade, não prestam contas, não há transparência, consideram-se acima da lei, que, aliás é decidida, muitas vezes na calada da noite, por seus quadros políticos com mandato no Congresso.</p></p>
+<p><p>Isto é tão sério e grave que impacta obviamente na crença no próprio sistema democrático entre nós, cada vez menor, e na grave indiferença diante da ascensão ao poder de líderes autoritários –segundo o recentemente divulgado Índice de Democracia (ID), somos uma democracia imperfeita, enquanto Chile, Uruguai e Costa Rica são democracias perfeitas latino-americanas.</p></p>
+<p><p>Observe-se que na democracia perfeita do Chile (segundo o ID), onde há um bom nível de controle da corrupção e um bom padrão de educação, parcela significativa do povo chileno foi às ruas em 2019 –mais de 30 chilenos faleceram e centenas tiveram cegueira produzida por balas de borracha lançadas pela polícia contra seus olhos– e teve parcela importante de suas reivindicações acolhida pelo governo e pelo Congresso.</p></p>
+<p><p>Não obstante a gravidade deste quadro, os partidos políticos brasileiros articularam e conseguiram aprovar e ver sancionada em setembro último uma minirreforma partidária, que autoriza legalmente a utilização, em tese, de recursos do fundo partidário para aquisição de iates, aviões, helicópteros e carros de luxo. Além disso, permite a emissão de bilhetes aéreos para pessoas estranhas ao partido, pagamento de advogados e contadores sem limites.</p></p>
+<p><p>E a proposta inicial era ainda pior. Chegaram a propor que não houvesse qualquer espécie de padronização nas prestações de contas dos partidos à Justiça Eleitoral para obviamente cobrir com o manto da opacidade os gastos e para dificultar a fiscalização, o que, após contundente reação da sociedade, foi retirado do projeto.</p></p>
+<p><p>Neste contexto, reportagem publicada na Folha no último final de semana dedica-se a radiografar o uso dos recursos do fundo partidário por um dos partidos políticos brasileiros hoje em foco – o PSL, aquele pelo qual se elegeu o presidente da República, que multiplicou por cinquenta o número de deputados federais em 2018, fator que determina o agigantamento da fatia do bolo que o organismo recebe do fundo partidário.</p></p>
+<p><p>Os gastos com itens de luxo bancados por nós que pagamos tributos, via fundo partidário, como farras gastronômicas em restaurantes caríssimos, aquisição de veículos de alto luxo ou a quintuplicação do espaço da sede social do partido parecem concretizar aquela máxima popular “quem nunca comeu melado, quando come se lambuza”, ostentando nível de respeito zero pelo povo.</p></p>
+<p><p>O partido é organismo privado, mas vive às custas de dinheiro público, quer via fundo partidário (totalizando cerca de R$ 1 bilhão por ano), quer via fundo eleitoral (para as campanhas de 2020 será de R$2,035 bilhões). É raríssimo algum partido repudiar estes fundos, como o Novo, que até para não receber os recursos ou restituí-los encontra barreiras jurídicas gigantes, estabelecidas pela articulação dos próprios partidos.</p></p>
+<p><p>Mas vale sempre lembrar que quando se recebe repasse de dinheiro público, em quaisquer circunstâncias, há nortes e princípios que obrigatoriamente devem ser observados em relação aos dispêndios. É inadmissível que num país em que o déficit de saneamento básico seja tão brutal como o nosso, assim como o desaparelhamento absoluto dos sistemas públicos de saúde e de educação, usem-se sem austeridade os recursos provenientes do fundo partidário.</p></p>
+<p><p>Gastos realizados com uso do dinheiro do fundo partidário em restaurantes para consumo de alimentos preparados com sofisticação e aquisições de veículos com valor de compra equivalente a 6 ou 7 vezes o valor de veículos comuns populares seminovos ou a transformação das sedes dos partidos em espaços de luxo palaciano podem ser realizados com dinheiro de origem privada, mas são absolutamente incompatíveis com os ditames constitucionais da moralidade administrativa. Este cenário revoltante nos traz à lembrança aquele que acendeu o povo e o levou a fazer a Revolução Francesa, derrubando o ancien regime no século 18.</p></p>
+<p><p>Mesmo que se considere, de forma não liberal, o custeio do sistema partidário um ônus da democracia a ser suportado por toda a sociedade, os dirigentes não têm o direito de agir como tiranos no manejo destes recursos. A autonomia partidária não pode jamais mascarar atos de abuso do poder ou servir como escudo que imunize atitudes megalômanas que desrespeitem o povo, diante de nossa ainda terrível pobreza e desigualdade social. Estes atos devem ser punidos exemplarmente pelo sistema da Justiça Eleitoral com a determinação do ressarcimento de todo e qualquer gasto acima do mínimo imposto pela imperiosa austeridade, pelo teto da razoabilidade e pela prevalência inarredável do bom senso elementar.</p></p>
+<p><p><strong>Quem é Roberto Livianu</strong></p></p>
+<p><p>Procurador de Justiça em São Paulo e doutor em direito pela Universidade de São Paulo (USP). Atua na Procuradoria de Justiça de Direitos Difusos e Coletivos. Idealizou e preside o Instituto Não Aceito Corrupção (INAC). É ex-presidente e diretor do movimento Ministério Público Democrático (MPD). Escreve para a Folha de S. Paulo, Estado de S.Paulo, Poder 360 e é colunista da Rádio Bandeirantes e da Rádio Justiça, do STF.</p></p>
+{% endraw %}

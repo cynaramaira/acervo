@@ -1,0 +1,35 @@
+---
+id: 12537265
+date: "2016-09-09T14:48:42Z"
+last_modified_at: null
+tags:
+  - "daniel-coelho"
+  - "debate"
+  - "planos"
+  - "recife"
+  - "sao"
+categories:
+  - "noticias"
+title: "No Recife, 16 anos das administra\u00e7\u00f5es do PT e PSB s\u00e3o atacados por Daniel Coelho e Pricila Krause em debate"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/09/debate.jpg"
+---
+{% raw %}
+<p>Sem a presença dos dois candidatos que aparecem nos primeiros lugares nas pesquisas, João Paulo (PT) e Geraldo Julio (PSB), o debate realizado pela rádio Maranata, na manhã desta sexta-feira (9), teve as  críticas centradas nos 16 anos em que os partidos dos dois postulantes administraram o Recife. Daniel Coelho (PSDB) e Priscila Krause (DEM) ainda acusaram a ausência deles no encontro. Geraldo, em nota enviada aos organizadores, afirmou que não iria por estar em horário de expediente. <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/08/joao-paulo-sofre-tentativa-de-agressao-em-restaurante/">Já João Paulo, justificou alegando que estaria reunido com o jurídico para tratar da agressão sofrida por ele nesta quinta-feira (8)</a>. O que não foi entendido pelos dois que foram. "Uma falta de respeito aos eleitores e aos candidatos que estão aqui para discutir as propostas o Recife", pontuou o tucano. Veja abaixo os principais temas tratados:</p>
+<p><h2>IDEB E EDUCAÇÃO</h2></p>
+<p>Daniel acusou o fato de o Recife ter piorado no Índice de Desenvolvimento da Educação Básica (Ideb) na administração do PSB, “Saiu da na 19ª posição entre as capitais e somos hoje a 22ª. Somos uma das piores redes de ensino do Brasil”, afirmou. Uma das propostas dele é o “Pró-creche”. “As mães vão escolher a creche em que quer matricular seu filho e a prefeitura vai pagar R$ 300  diretamente para a creche.” Ele ainda destacou que em 2005, 2006 e 2008 João Paulo teve as contas rejeitadas pelo Tribunal de Contas do Estado por não gastar o mínimo em educação de 25%. Priscila lembrou que há 16 anos, o PT, inclusive com duas gestões de João Paulo, e os socialistas governam e foram, segundo ela, os responsáveis pelo estado de “abandono” em que está a área. “O primeiro projeto é o “Casa-mãe”. “Vamos identificar locais nas comunidades para serem adaptados. Atenderá 12 horas por dia com 5 refeições, seguindo a lógica do que nós temos em Petrolina.”</p>
+<p><h2>CONDE DA BOA VISTA</h2></p>
+<p>Priscila criticou o que ela chama de “gasto de dinheiro público sem critério e sem atender ao que a população precisa". "Vamos devolver a via aos recifenses, trazendo técnicos que entendam para tocar a obra”, defendeu ao ser perguntada sobre o equipamento, que é o principal corredor de ônibus da cidade. Daniel afirmou ver na avenida uma obra “equivocada”. “Vamos trazer as paradas para as calçadas. A Conde faz parte da história do Recife. É inexplicável o dinheiro que foi gasto com uma obra tão ruim executada”, pontuou. "A intervenção na conde é a cara de quem não sabe dialogar e ouvir a população."</p>
+<p><h2>DESEMPREGO</h2></p>
+<p>A democrata afirmou que a primeira coisa para superar o desemprego é entender que o Recife tem uma cultura empreendedora. “O poder público precisa ser indutor dessas atividades, desburocratizar, facilitar a vida desses empreendedores, se gasta hoje, por exemplo, mais de 130 dias para se abrir uma empresa”, colocou, antes de afirmar que vai promover cursos profissionalizantes para jovens. Daniel pontuou que sua preocupação também é com os mais velhos. “Estou preocupado ainda com aquele senhor, aquela senhora, de 40,50,60 anos que já perdeu o emprego e precisa se requalificar para voltar ao mercado de trabalho. Vamos atuar nisso”, disse.</p>
+<p><h2>UBER</h2></p>
+<p>O tucano acusou o atual prefeito, <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/05/uber-em-video-geraldo-julio-declara-que-vai-intensificar-fiscalizacao/">Geraldo Julio, de, em vídeo que circula nas redes sociais</a>, fazer “demagogia” ao dizer que irá intensificar a fiscalização. “O que a prefeitura precisa é criar regras, garantir um mínimo de equilíbrio, o taxista precisa ser preservado, com as novas tecnologias tendo o seu espaço, com a população sendo bem atendida. A pior das saídas para quem está disputando um cargo é a covardia. É mentira, ele (Geraldo) dizer que não tem nada com isso”, defendeu. <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/02/em-sabatina-priscila-krause-afirma-que-o-uber-veio-pra-ficar-e-vai-ficar/">A democrata bateu na tecla já defendida por ela em outras entrevistas</a>. “O Uber precisa ser regulamentado, é uma responsabilidade do prefeito, a legislação do táxi precisa ser revista para dar a ele maior competitividade. Eles precisam coexistir”, colocou.</p>
+<p><h2>ABORTO</h2></p>
+<p>Aproveitando a audiência da rádio, que se concentra no público evangélico, os dois candidatos se disseram contrários ao aborto. “Tenho um compromisso pró-vida e sou contra qualquer iniciativa de aumentar o número de abortos. Vamos usar o dinheiro de publicidade para educar e conscientizar a população, para que o aborto deixe de ser um meio de controlar a natalidade. Não temos políticas de prevenção", disse. Priscila concordou com ele e lembrou que é mãe e sempre sempre teve uma posição clara sobre o tema. “O que o Estado precisa fazer é garantir amparo e assistência para as mulheres e suas famílias”.</p>
+<p><h2>SAÚDE</h2></p>
+<p>Os dois pontuaram que “vão fazer funcionar o que já existe”.  Daniel voltou a defender uma proposta sua desde a época em que tentou chegar à Prefeitura pela primeira vez, em 2012. “Vamos implementar o Prontuário Eletrônico. Não faz sentido como é hoje. Com o prontuário, o profissional de saúde vai saber o histórico do paciente. Se já temos poucos profissionais, perdemos mais ainda com a ineficiência do sistema”. A democrata, por sua vez, criticou a abertura de grandes estruturas quando o “posto de saúde do bairro não atende, falta médico e estrutura”. “A gestão escolheu algumas coisas para servir de exemplo, mas deixou para lá unidades construídas em outras gestões. Isso é a forma antiga, ruim de fazer política e sem pensar na população. Vamos arrumar primeiro o que já está aí”.</p>
+<p><h2>SEGURANÇA</h2></p>
+<p>Daniel associou dois temas que estão atormentando a vida dos recifenses, assim como pessoas de outras cidades: mobilidade e segurança. “Quem anda de ônibus está extremamente vulnerável. Grande quantidade de assaltos, aumento 44% no último ano, e a prefeitura não tem feito nada com isso. Vamos interligar as forças e os atores que atuam na área", anunciou. Priscila criticou a “omissão” do prefeito, Geraldo Julio, na área. “Precisamos de uma cultura de paz e de uma política de afirmação da cidadania de todas as pessoas”, asseverou.</p>
+{% endraw %}

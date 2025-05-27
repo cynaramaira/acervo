@@ -1,0 +1,30 @@
+---
+id: 12542518
+date: "2016-12-07T18:31:29Z"
+last_modified_at: null
+tags:
+  - "alvaro-odriozola"
+  - "investigacao"
+  - "porto"
+  - "reaplicacao"
+  - "recursos"
+categories:
+  - "noticias"
+title: "\u00c1lvaro Porto defende investiga\u00e7\u00e3o da aplica\u00e7\u00e3o de recursos p\u00fablicos pelas OSs da Sa\u00fade"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/09/\u00c1LVARO-pORTO.jpg"
+---
+{% raw %}
+<p><p>O deputado estadual Álvaro Porto (PSB) defendeu, nesta quarta-feira (7), a necessidade de investigação da gestão das Organizações Sociais em hospitais e unidades de pronto-atendimento em Pernambuco. Em discurso realizado na Assembleia Legislativa, Porto destacou que no âmbito federal já há quem aponte a fiscalização das OSs como o principal desafio dos tribunais de conta de todo o País.</p></p>
+<p><p>Ele lembrou que o procurador do Tribunal de Contas da União (TCU) Júlio Marcelo de Oliveira ressaltou, durante palestra para auditores pernambucanos na última sexta-feira, a existência de estudos que mostram que a gestão tocada pelas OSs encarece em quatro vezes os custos da Saúde. "Ainda bem que, dentro das instituições federais, há quem acredite que as OSs possam explicar porque a conta entre os recursos do SUS (Sistema Único de Saúde) e os custos da Saúde em Pernambuco não fecha", disse.</p></p>
+<p><p>Em Pernambuco, o Governo do Estado delegou ao Instituto Materno-Infantil Professor Fernando Figueira (IMIP) a gestão dos seus hospitais, das Unidades de Pronto-atendimento (UPAs) e Unidades de Atenção Especializada (UPAEs). As OSs são pessoas jurídicas de Direito Privado que celebram contrato de gestão com o poder público, sendo declaradas de interesse social e utilidade pública para todos os efeitos legais.</p></p>
+<p><p>Segundo o deputado, é importante que a população saiba como os recursos que vêm da União estão sendo empregados e os motivos que explicam as dificuldades enfrentadas pela rede pública. "É preciso dar transparência sobre processos de compra de medicamentos e de material hospitalar, por exemplo. Por esse modelo, os gestores têm carta branca para realizar esses procedimentos sem licitação e sem fiscalização. E isso, se não for fiscalizado por órgãos que acompanham o emprego do dinheiro público, pode se tornar terreno fértil para superfaturamento, apadrinhamentos e para jogo político-partidário que é sempre nocivo à democracia e à sociedade", salientou.</p></p>
+<p><p>De acordo com o deputado, desde que a gestão foi delegada ao IMIP, ainda na primeira na primeira gestão do ex-governador Eduardo Campos, avaliações apontam falhas no modelo, a exemplo de atraso de salários, demissões em massa, fechamentos de leitos e falta de insumos, medicamentos e material de higiene. "Agora, chegamos ao inimaginável. Diante da demanda bem superior à capacidade de atendimento, médicos que atuam pelo SUS no Hospital Real Português estão sendo obrigados a agir como juízes divinos, tendo de escolher entre quem será ou não operado", afirmou, se referindo ao conteúdo da carta que cirurgiões cardiovasculares daquela unidade divulgaram nesta semana.</p></p>
+<p><p>"O calvário dos pacientes que, muitas vezes acabam morrendo por não resistirem ao tempo na fila, é desesperador. E essa agonia se alastra entre familiares, amigos e os profissionais de saúde", disse. "A carta foi escrita em tom de desabafo e revela uma realidade que, infelizmente, é indicativo de negligência do Governo Estadual com o setor e, principalmente, com os pacientes e suas respectivas famílias", prosseguiu o deputado.</p></p>
+<p><p>Ele destacou que no terceiro parágrafo do documento dos cirurgiões fica claro que a desde 2015 a Secretaria Estadual de Saúde não vem honrando seus compromissos. "Não estão sendo pagas as despesas das cirurgias. Nem ao Hospital nem aos médicos que prestam estes serviços. E isso vem ocorrendo, apesar de o Portal da Transparência do Ministério da Saúde mostrar que os repasses financeiros ao Estado de Pernambuco vêm sendo rigorosamente pagos”.</p></p>
+<p><p>Na carta, lembrou Porto, os médicos ainda destacaram que a redução de 35% nas intervenções, como foi proposto pelo Governo Estadual, não regularizou os repasses e tornou o quadro ainda mais grave: mais de 400 pacientes estão aguardando uma oportunidade para realizar suas cirurgias. "Como cardiopatas, muitos terão sua doença agravada e ou morrerão aguardando sua cirurgia, diz um dos trechos", destacou.</p></p>
+<p><p>O deputado citou ainda que nas emergências regionais do Agreste Meridional a situação de carência de recursos e pessoal é evidente. "Informações levantadas junto a profissionais da Saúde da região apontam para uma extensa lista de problemas". Entre as complicações estão: constantes ausências de plantonistas nas áreas de Clínica, Ortopedia, Cirurgia Geral e Pediatria, o que gera uma alta demanda de pacientes desassistidos; e falta de transporte de emergência nos hospitais regionais, o que dificulta até mesmo a ocupação de leitos de UTI já garantidos; e baixo investimento em assistência materna, o que põe em risco a vida da mãe e do feto. "Muitas gestantes são obrigadas a dar a luz fora do município onde residem e, assim, se submetem a sucessivas transferências, o que, em caso de parto cirúrgico, é um transtorno que pode ser fatal", afirmou.</p></p>
+<p><p>Ainda estão presentes na lista a falta da contrapartida estadual ao Samu, o que tem obrigado prefeituras a bancar sozinhas o serviço, mesmo sem dispor de recursos, e a enorme demanda reprimida nos procedimentos de alta complexidade. "Um exemplo é a autorização limitada para cateterismo cardíaco e exames de ressonância magnética, entre outros, o que deixa pacientes impedidos de ter um diagnóstico e o tratamento necessários. Há municípios em que apenas um único cateterismo cardíaco é autorizado por mês".</p></p>
+{% endraw %}

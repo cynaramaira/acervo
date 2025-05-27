@@ -1,0 +1,44 @@
+---
+id: 15660129
+date: "2024-01-18T12:06:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "lula"
+  - "suape"
+categories:
+  - "sem-categoria"
+title: "Em visita a Pernambuco, Lula e Raquel enfrentar\u00e3o protesto dos metrovi\u00e1rios contra a privatiza\u00e7\u00e3o do Metr\u00f4"
+sutia: "\"Em 2023, realizamos a primeira greve do Governo Lula, por tempo indeterminado, que durou 23 dias, pela retirada da CBTU do PND. A pr\u00f3xima greve ser\u00e1 ainda maior\", prometem os sindicalistas"
+chapeu: "privatiza\u00e7\u00e3o/exclusivo"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/12/03/raquelcaruaru-25503823.jpeg"
+---
+{% raw %}
+<p>O presidente Lula vai enfrentar protesto dos metrovi&aacute;rios de Pernambuco, liderados pelo Sindmetro-PE, que se op&otilde;em radicalmente &agrave; estadualiza&ccedil;&atilde;o e posterior privatiza&ccedil;&atilde;o do Metr&ocirc; do Recife. O protesto dos metrovi&aacute;rios ser&aacute; na frente da Refinaria Abreu e Lima.</p>
+<p>A governadora Raquel Lyra, que j&aacute; confirmou interesse em estadualizar o Metr&ocirc; para privatiza&ccedil;&atilde;o imediata, tamb&eacute;m ser&aacute; cobrada pelos trabalhadores. <br /></p>
+<p>&ldquo;Se o governo pensa que vai nos cansar, est&aacute; enganado! Fizemos a primeira greve do governo Lula, em 2023. Neste ano, 2024, vamos realizar uma greve maior ainda por tempo indeterminado. O que o governo quer? Que aconte&ccedil;a a privatiza&ccedil;&atilde;o do Metro de Pernambuco como ocorreu em Belo Horizonte? N&atilde;o, Lula! N&atilde;o iremos deixar! Vamos fazer 12 meses de mobiliza&ccedil;&atilde;o intensa contra a privatiza&ccedil;&atilde;o do Metr&ocirc;!", afirmou o presidente do Sindmetro-PE Luiz Soares.</p>
+<p>"Tentaram at&eacute; nos desmobilizar, n&atilde;o aceitamos e o ato est&aacute; mantido! Toda vez que Lula vier para Recife, ou qualquer cidade de Pernambuco, l&aacute; estar&atilde;o os metrovi&aacute;rios na luta por um Metr&ocirc; do Recife p&uacute;blico, de qualidade, com investimentos, seguran&ccedil;a para os passageiros e trabalhadores", disse Luiz Soares.</p>
+<p>Os metrovi&aacute;rios de Pernambuco afirmam que n&atilde;o aceitam que, ap&oacute;s a conclus&atilde;o dos estudos feita pelo BNDES, seja validada a privatiza&ccedil;&atilde;o deste sistema como &uacute;nica op&ccedil;&atilde;o para a transfer&ecirc;ncia ao Governo do Estado de Pernambuco. <br /></p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/01/18/120x80/1_metroviarios-26118033.jpeg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'65a9409c62823', 'cd_midia':26118033, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/01/18/metroviarios-26118033.jpeg', 'ds_midia': 'Luiz Soares, presidente dos Metrovi&aacute;rios ', 'ds_midia_credi': 'Divulga&ccedil;&atilde;o', 'ds_midia_titlo': 'Luiz Soares, presidente dos Metrovi&aacute;rios ', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '811', 'align': 'Left'}"><figure style="width:811;height:1224;">
+			<img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/01/18/metroviarios-26118033.jpeg" alt="Divulga&ccedil;&atilde;o" title="Luiz Soares, presidente dos Metrovi&aacute;rios ">
+		<figcaption class='text-left'>
+			Luiz Soares, presidente dos Metrovi&aacute;rios  - <strong>Divulga&ccedil;&atilde;o</strong>
+		</figcaption>
+	</figure></tinymce></p>
+<p>Leia na &iacute;ntegra o Manifesto que ser&aacute; entregue ao presidente Lula.<br /></p>
+<h2>MANIFESTO DA CATEGORIA METROVI&Aacute;RIA PELA RETIRADA DA CBTU E DA TRENSURB DO PND E POR MAIS INVESTIMENTOS NO METR&Ocirc; DO RECIFE</h2>
+<p>Excelent&iacute;ssimo Presidente Luiz In&aacute;cio Lula da Silva,</p>
+<p>Cumprimentamos Vossa Excel&ecirc;ncia e reiteramos nosso pedido pela retirada do Metr&ocirc; Recife e da Trensurb do Programa Nacional de Desestatiza&ccedil;&atilde;o (PND). Defendemos a recupera&ccedil;&atilde;o do sistema pelo Governo Federal, mantendo a CBTU como uma empresa p&uacute;blica e federal.</p>
+<p>O senhor, Presidente Lula, precisa honrar a promessa feita durante a pr&eacute;-campanha, em 21 de julho de 2022, quando ainda era pr&eacute;-candidato. Na ocasi&atilde;o, Vossa Excel&ecirc;ncia recebeu o dossi&ecirc; sobre o sucateamento do Metr&ocirc; do Recife e nossa reivindica&ccedil;&atilde;o pela n&atilde;o privatiza&ccedil;&atilde;o do mesmo.</p>
+<p>Atualmente, aguardamos os novos estudos do Banco Nacional de Desenvolvimento Econ&ocirc;mico e Social (BNDES) sobre a recupera&ccedil;&atilde;o e desestatiza&ccedil;&atilde;o da Companhia Brasileira de Trens Urbanos (CBTU) e a concess&atilde;o do servi&ccedil;o de transporte ferrovi&aacute;rio urbano de passageiros na Regi&atilde;o Metropolitana do Recife/PE.</p>
+<p>N&oacute;s, metrovi&aacute;rios e metrovi&aacute;rias de Pernambuco, n&atilde;o aceitaremos que, ap&oacute;s a conclus&atilde;o dos estudos feita pelo BNDES, seja validada a privatiza&ccedil;&atilde;o como &uacute;nica op&ccedil;&atilde;o com a transfer&ecirc;ncia para o Governo do Estado de Pernambuco. A estrutura&ccedil;&atilde;o de um modelo de concess&atilde;o e a outorga para Pernambuco da concess&atilde;o/privatiza&ccedil;&atilde;o da opera&ccedil;&atilde;o do servi&ccedil;o para a iniciativa privada. N&atilde;o &eacute; a privatiza&ccedil;&atilde;o que vai resolver o problema do Metr&ocirc; de Recife, s&atilde;o os investimentos que v&atilde;o retomar e refazer o que j&aacute; foi considerado no passado, como o melhor Metr&ocirc; do Brasil. Queremos um Metr&ocirc; p&uacute;blico, estatal federal e de qualidade para as pessoas e s&oacute; quem pode garantir isso &eacute; o Governo Federal.</p>
+<p>EM 2024, IREMOS FAZER A SEGUNDA GREVE DO GOVERNO LULA</p>
+<p>Em 2023, realizamos a primeira greve do Governo Lula, por tempo indeterminado, que durou 23 dias, pela retirada da CBTU do PND. A pr&oacute;xima greve ser&aacute; ainda maior. Durante o per&iacute;odo de greve, organizamos uma caravana para Bras&iacute;lia-DF, participando de um grande ato contra a privatiza&ccedil;&atilde;o em 17 de agosto de 2023. Esse ato foi um protesto contra o Governo Lula pela retirada da CBTU do PND e contou com a participa&ccedil;&atilde;o de metroferrovi&aacute;rios de S&atilde;o Paulo, Minas Gerais, Rio de Janeiro e Rio Grande do Sul (Trensurb).</p>
+<p>O Sindmetro-PE, em 2024, realizar&aacute; uma campanha mais ampla contra a privatiza&ccedil;&atilde;o, utilizando ve&iacute;culos de massa como emissoras de TV, r&aacute;dios, &ocirc;nibus, outdoors, sites e blogs. Buscaremos ampla divulga&ccedil;&atilde;o, mostrando a verdade dos fatos e afirmando que o Governo Lula parece seguir o prop&oacute;sito do governo anterior (Governo Bolsonaro), que sucateou o sistema com o intuito de precarizar o servi&ccedil;o e vend&ecirc;-lo &agrave;s elites empresariais.</p>
+<h2>COMISS&Atilde;O DO SENADO FEDERAL CONSTATOU SITUA&Ccedil;&Atilde;O 'ESTARRECEDORA' DO METR&Ocirc; DO RECIFE</h2>
+<p>O presidente da Comiss&atilde;o de Assuntos Sociais do Senado (CAS), Humberto Costa (PT-PE), classificou como "estarrecedora" a situa&ccedil;&atilde;o do Metr&ocirc; do Recife. O senador comandou uma comitiva formada por parlamentares e outras autoridades que realizou uma vistoria em 21 de agosto de 2023 nas instala&ccedil;&otilde;es do modal de transporte que atende a regi&atilde;o metropolitana da capital de Pernambuco. O objetivo da dilig&ecirc;ncia &eacute; encontrar solu&ccedil;&otilde;es para a crise na infraestrutura do sistema.</p>
+<h2>REUNI&Atilde;O DO F&Oacute;RUM PELA MOBILIDADE E DEFESA DO METR&Ocirc; ACONTECER&Aacute; EM 2 DE FEVEREIRO</h2>
+<p>O Sindicato dos Metrovi&aacute;rios de Pernambuco (Sindmetro-PE) e o Conselho Regional de Engenharia e Agronomia de Pernambuco (CREA-PE) realizar&atilde;o a primeira reuni&atilde;o do F&oacute;rum pela Mobilidade e Defesa do Metr&ocirc; em 2024, em 2 de fevereiro, &agrave;s 10h, no Audit&oacute;rio Dom Helder da Universidade Cat&oacute;lica de Pernambuco (Unicap). Durante o encontro, a Comiss&atilde;o de Assuntos Sociais do Senado, presidida pelo Senador Humberto Costa (PT-PE), apresentar&aacute; o relat&oacute;rio resultante da visita t&eacute;cnica realizada em 10 de julho do ano passado, que comprovou o sucateamento do Metr&ocirc; de Pernambuco. Em audi&ecirc;ncia realizada em Recife, defendemos a n&atilde;o privatiza&ccedil;&atilde;o do Metr&ocirc;.</p>
+<p>MANIFESTO DA CATEGORIA METROVI&Aacute;RIA PELA RETIRADA DA CBTU E DA TRENSURB DO PND E POR MAIS INVESTIMENTOS NO METR&Ocirc; DO RECIFE</p>
+{% endraw %}

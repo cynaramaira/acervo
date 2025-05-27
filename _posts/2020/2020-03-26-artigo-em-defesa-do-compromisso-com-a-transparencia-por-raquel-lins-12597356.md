@@ -1,0 +1,43 @@
+---
+id: 12597356
+date: "2020-03-26T08:05:24Z"
+last_modified_at: null
+tags:
+  - "artigo"
+  - "defesa"
+  - "raquel-lyra"
+  - "susan-collins"
+categories:
+  - "opiniao"
+title: "Artigo. Em defesa do compromisso com a transpar\u00eancia. Por Raquel Lins"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/03/bolsonaro-1.jpg"
+---
+{% raw %}
+<p><p><em>Por Raquel Lins, em artigo enviado ao blog</em></p></p>
+<p><p>A pandemia do COVID-19 exige uma ação global rápida. Muitos países, regiões e cidades declararam estado de emergência ou poderes extraordinários semelhantes (como o decreto de calamidade, promulgado por Pernambuco e diversas prefeituras no estado) para ajudar a impedir a propagação do vírus, acelerando a tomada de decisões e a alocação de recursos, algo importante e geralmente necessário.</p></p>
+<p><p>Infelizmente, é também durante períodos de crises como o que vivemos que a corrupção ganha oportunidade - a perturbação, a incerteza e a distração contribuem para um ambiente em que atores corruptos podem tirar proveito. O risco de corrupção nos serviços de saúde é agravado pelo aumento dramático da pressão sobre o sistema e identificá-los antes que eles aconteçam pode ajudar a consolidar nossa resposta coletiva e levar cuidados de saúde aos que precisam.</p></p>
+<p><p>Neste grave momento, é vital, portanto, a salvaguarda da capacidade da sociedade de participar e acessar informações sobre dados governamentais - se aceitarmos a crise como uma razão para rejeitar as regras e a transparência dos atos públicos, ela inevitavelmente levará à corrupção.</p></p>
+<p><p>Para garantir a confiança da população, os governos devem apresentar justificativas fundamentadas para as escolhas que fazem visando conter a pandemia e restabelecer suas economias - em exemplo, temos o pronunciamento histórico da chanceler Angela Merkel em rede nacional televisiva, que destacou em suas palavras a importância da postura de transparência e prestação de contas como forma ideal de agir de uma democracia aberta como a Alemanha.</p></p>
+<p><p>E é exatamente isso que podemos aprender com o governos que conseguiram proteger seu povo neste preocupante cenário: a ampliação da transparência, abertura e integridade é a essência da solução. Contando justamente com uma combinação de preparação, tecnologia e transparência, Taiwan conquistou amplo reconhecimento por seu impressionante desempenho ao lidar com a crise.</p></p>
+<p><p>Localizada à apenas 81 milhas da costa da China continental, era esperado que fosse fortemente atingido, devido à sua proximidade e ao número de vôos entre a nação insular e seu vizinho a oeste.</p></p>
+<p><p>No entanto, até agora, conseguiu impedir que o coronavírus impactasse fortemente seus 23 milhões de cidadãos (apenas 219 casos confirmados e 2 mortes), apesar de suas vulnerabilidades, por meio de uma resposta precoce, rastreamento de contatos, testes abrangentes e uso hábil da tecnologia - ainda que milhares deles trabalhem e residam na China.</p></p>
+<p><p>Um fator substancial na preparação de Taiwan (e outros países eficazes no enfrentamento, como Cingapura e Coreia do Sul) foram as lições aprendidas com sua experiência devastadora com a epidemia de SARS em 2003 (que causou 71 mortes na ilha).</p></p>
+<p><p>Como resultado do surto em 2003, o governo criou um centro de comando nacional para ajudar a coordenar e enfrentar futuras emergências de saúde - na atual, o CECC foi ativado já em 20 de janeiro, com o ministro da saúde designado comandante - e logo nas semanas seguintes, implementou centenas de medidas para ajudar a conter a doença.</p></p>
+<p><p>A sólida experiência do país também em tecnologia da informação desempenhou um papel importante na restrição da propagação do coronavírus - os bancos de dados de diversos órgãos foram integrados, permitindo a utilização de inteligência artificial e técnicas de big data para identificar indivíduos com maior potencial através de suas viagens e histórico médico.</p></p>
+<p><p>Assim, puderam abrir linhas diretas de contato para fornecer conselhos precisos para as pessoas que pudessem apresentar sintomas do vírus e, com a ajuda da polícia, registros de telefones celulares foram usados para rastrear os contatos sociais das infectadas (cabe destacar que “os poderes especiais do governo para integrar dados e rastrear pessoas só são permitidos durante uma crise”, de acordo com as disposições da sua Lei de Controle de Doenças Transmissíveis em vigência).</p></p>
+<p><p>Mas é na abertura governamental e fortalecimento democrático que está a chave fundamental para compreender os diferentes caminhos de países tão próximos, com êxitos tão diferentes: a obsessão do Partido Comunista Chinês por estabilidade levou-o a suprimir informações sobre o surto inicial em Wuhan, além de deter médicos que emitiram<br /></p>
+<p>alarmes precoces (um dos primeiros a soar o alerta inclusive veio à óbito, Li Wenliang).</p></p>
+<p><p>Enquanto isso, o governo de Taiwan, liderado hoje pelo Partido Progressista Democrático - um jovem partido de oposição em 1990 - respondeu com ênfase na transparência e responsabilidade do governo, mantendo a divulgação constante sobre as infecções confirmadas.</p></p>
+<p><p>Tal compromisso foi decisivo e mostrou os méritos de um estratégia aberta de conduta: o governo fez um grande<br /></p>
+<p>esforço para manter os cidadãos bem informados sobre todos os aspectos do surto, e além de entrevistas coletivas diárias (os briefings televisionados do ministro da Saúde, Chen Shih-chung, chefe da CECC, tiveram uma influência calmante durante a crise - semelhante ao observado no Brasil, com as transmissões realizadas pelo Ministério da Saúde), bem como presença ativa nas mídias sociais, estabeleceram adicionalmente uma multa elevada para divulgação de fake news.</p></p>
+<p><p>Ainda, no último dia 15 de março, o vice-presidente Chen publicou uma longa análise das "taxas de incidência e mortalidade" de coronavírus internacionais no Facebook, que acumulou 19.000 curtidas e 3.000 ações em apenas dois dias.</p></p>
+<p><p>Convém salientar que devido à oposição da China, Taiwan não é membro das Nações Unidas ou da Organização Mundial da Saúde: durante esta e outras crises de saúde pública teve que administrar sem nenhum canal de comunicação direta com a OMS. Além da informação, depende dos avisos da organização transmitidos por governos e ONGs apoiadoras.</p></p>
+<p><p>Claro que existem alguns aspectos culturais das sociedades do Leste Asiático que podem favorecer bons resultados. Conforme destaca o jornalista Andrew Leonard (revista Wired) “dentre eles, inegavelmente, existe uma longa tradição de elevar acadêmicos e especialistas aos mais altos níveis de governo, e isso é especialmente evidente nos dias de hoje em Taiwan: o presidente do país, Tsai Ingwen, possui um doutorado na London School of Economics e o vice-presidente, Chen Chien-jen, é um epidemiologista (formado na Johns Hopkins) altamente considerado”.</p></p>
+<p><p>Após os surtos de Ebola na África Ocidental e da SARS na Ásia, a infraestrutura de assistência à saúde melhorou graças ao maior escrutínio e recursos extras dedicados aos sistemas de saúde. Diante do desafio imenso que temos no presente e ainda por um longo tempo, os esforços bem-sucedidos no mundo nos ensinam que a competência importa, líderes instruídos são uma virtude e que dizer a verdade é uma responsabilidade das instituições governamentais. </p></p>
+<p><p>Na Itália, epicentro europeu da epidemia, cientistas italianos, em artigo publicado na revista médica "Lancet", chegaram a acusar o governo de seu país de falta de transparência sobre os casos de coronavírus - o que teria prejudicado seu combate; nos Estados Unidos, o governo Trump ordenou às autoridades federais de saúde que tratassem discussões de alto nível sobre o coronavírus como material classificado, e no Brasil, a Lei de Acesso à Informação sofre uma tentativa de fragilização, através da MP 928 (de 23 de março), do presidente Bolsonaro.</p></p>
+<p><p>Apesar dessas atitudes, ainda estamos em tempo de seguir os bons guias: fazermos desta uma experiência para robustecer o nosso sistema com integridade - cientes de que somente com transparência encontraremos o melhor caminho para a saída.</p></p>
+<p><p>Raquel Lins é cientista politica pela UFPE, especialista em Planejamento e Gestão Pública (UPE) e criadora do Pernambuco Transparente.</p></p>
+{% endraw %}

@@ -1,0 +1,48 @@
+---
+id: 15103889
+date: "2022-10-20T18:10:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "raquel-lyra"
+  - "marilia-arraes"
+categories:
+  - "sem-categoria"
+title: "Quem venceu o debate da R\u00e1dio Jornal, Raquel Lyra ou Mar\u00edlia Arraes?"
+sutia: "Falando para o mundo, candidatas ao governo do Estado participaram de debate na R\u00e1dio Jornal, nesta quinta-feira (20)."
+chapeu: "Onda do r\u00e1dio"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/10/20/bc20102022017-21911273.jpg"
+---
+{% raw %}
+<p>Possivelmente por estar atr&aacute;s nas pesquisas, depois do fim do primeiro turno, Mar&iacute;lia Arraes (Solidariedade) foi muito incisiva, muito mais pistola do que Raquel Lyra (PSDB) nesta quinta-feira (20).</p>
+<p>Nos embates, Mar&iacute;lia Arraes achava um jeito de inserir cr&iacute;ticas &agrave; advers&aacute;ria, buscando colar nela o nome de Paulo C&acirc;mara (PSB) e Jair Bolsonaro (PL). Tamb&eacute;m disse que a advers&aacute;ria n&atilde;o conhecia Bras&iacute;lia, o que poderia ser um problema para atrair recursos.</p>
+<p>&nbsp;<tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/10/20/120x80/1_bc20102022014-21911225.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'63517c133bffa', 'cd_midia':21911225, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/10/20/bc20102022014-21911225.jpg', 'ds_midia': 'Raquel Lyra e Mar&iacute;lia Arraes participaram de debate na R&aacute;dio Jornal nesta quinta (20)', 'ds_midia_credi': 'BRUNO CAMPOS/JC IMAGEM', 'ds_midia_titlo': 'Raquel Lyra e Mar&iacute;lia Arraes participaram de debate na R&aacute;dio Jornal nesta quinta (20)', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '816', 'align': 'Left'}"><figure style="width:816;height:1224;">
+  <img loading="lazy" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/10/20/bc20102022014-21911225.jpg" alt="BRUNO CAMPOS/JC IMAGEM"  title="Raquel Lyra e Mar&iacute;lia Arraes participaram de debate na R&aacute;dio Jornal nesta quinta (20)">
+  <figcaption class='text-left'>Raquel Lyra e Mar&iacute;lia Arraes participaram de debate na R&aacute;dio Jornal nesta quinta (20) - <strong>BRUNO CAMPOS/JC IMAGEM</strong></figcaption>
+</figure></tinymce></p>
+<p><em>"Raquel ajudou a eleger Paulo C&acirc;mara"</em>, frisou, em dado momento. <strong>Paulo C&acirc;mara foi citado 27 vezes em menos de duas horas.</strong></p>
+<p>Nas frases de efeito, criou o termo <span style="background-color: #ffcc00;"><strong>"Raquel&acirc;ndia"</strong> </span>para combater os feitos que a tucana mostra como trunfos, em sua cidade natal. Tamb&eacute;m chamou a ex-prefeita de "Raquel do tapuru", em refer&ecirc;ncia a epis&oacute;dio de 2019 em uma creche local. Raquel permaneceu impassiva.<br /></p>
+<p>Numa marca&ccedil;&atilde;o cerrada, pegou no p&eacute; da advers&aacute;ria por usar o termo olhar para os invis&iacute;veis, insinuando que s&oacute; agora se interessaria pelos mais pobres.</p>
+<p>Diante de uma carga de cr&iacute;ticas, a candidata tucana n&atilde;o saiu do prumo, do equil&iacute;brio, suportando as provoca&ccedil;&otilde;es de forma estoica.</p>
+<p><em>"Mar&iacute;lia aposta no &oacute;dio. N&atilde;o sou seu primo (Jo&atilde;o Campos)... n&atilde;o vou entrar no seu jogo".</em></p>
+<p><em><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/10/20/120x80/1_bc20102022044-21911705.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'63517c133bffa', 'cd_midia':21911705, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/10/20/bc20102022044-21911705.jpg', 'ds_midia': 'ELEI&Ccedil;&Otilde;ES 2022, SEGUNDO TURNO. DEBATE DA R&Aacute;DIO JORNAL NO SEGUNDO TURNO DAS ELEI&Ccedil;&Otilde;ES EM PERNAMBUCO ENTRE AS CANDIDADATAS AO GOVERNO DO ESTADO: RAQUEL LYRA E MAR&Iacute;LIA ARRAES.  NA FOTO: RAQUEL LYRA', 'ds_midia_credi': 'BRUNO CAMPOS/JC IMAGEM', 'ds_midia_titlo': 'ELEI&Ccedil;&Otilde;ES 2022, SEGUNDO TURNO. DEBATE DA R&Aacute;DIO JORNAL NO SEGUNDO TURNO DAS ELEI&Ccedil;&Otilde;ES EM PERNAMBUCO ENTRE AS CANDIDADATAS AO GOVERNO DO ESTADO: RAQUEL LYRA E MAR&Iacute;LIA ARRAES.  NA FOTO: RAQUEL LYRA', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '816', 'align': 'Left'}"><figure style="width:816;height:1224;">
+  <img loading="lazy" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/10/20/bc20102022044-21911705.jpg" alt="BRUNO CAMPOS/JC IMAGEM"  title="ELEI&Ccedil;&Otilde;ES 2022, SEGUNDO TURNO. DEBATE DA R&Aacute;DIO JORNAL NO SEGUNDO TURNO DAS ELEI&Ccedil;&Otilde;ES EM PERNAMBUCO ENTRE AS CANDIDADATAS AO GOVERNO DO ESTADO: RAQUEL LYRA E MAR&Iacute;LIA ARRAES.  NA FOTO: RAQUEL LYRA">
+  <figcaption class='text-left'>ELEI&Ccedil;&Otilde;ES 2022, SEGUNDO TURNO. DEBATE DA R&Aacute;DIO JORNAL NO SEGUNDO TURNO DAS ELEI&Ccedil;&Otilde;ES EM PERNAMBUCO ENTRE AS CANDIDADATAS AO GOVERNO DO ESTADO: RAQUEL LYRA E MAR&Iacute;LIA ARRAES.  NA FOTO: RAQUEL LYRA - <strong>BRUNO CAMPOS/JC IMAGEM</strong></figcaption>
+</figure></tinymce></em></p>
+<p>Nas suas interven&ccedil;&otilde;es, Raquel Lyra tentou ao tempo todo vincular Mar&iacute;lia Arraes a um projeto de continuidade, aproveitando o fato de o PSB ter subido em seu palanque, no segundo turno, depois da derrota de Danilo Cabral. Mar&iacute;lia diz que n&atilde;o conhece Pualo C&acirc;mara e que nunca falou cinco minutos com ele seguer.</p>
+<p>Lembrando a estrat&eacute;gia de Danilo Cabral no primeiro turno, Raquel Lyra buscou tamb&eacute;m desconstruir Mar&iacute;lia Arraes, insinuando que era incompetente no Legislativo. <em>"Elei&ccedil;&atilde;o &eacute; compara&ccedil;&atilde;o. Mar&iacute;lia &eacute; despreparada"</em>, atacou.<br /></p>
+<p>Raquel, no mesmo pugilato, ironizou o programa de Marilia mais uma vez. "<em>Era apenas 12 p&aacute;ginas, copiaram algumas de nossas propostas e agora s&atilde;o 80 p&aacute;ginas",</em> afirmou.</p>
+<p>No ataque, ela disse ainda que a advers&aacute;ria n&atilde;o destinou R$ 1 real para os morros do Recife e prometeu construir o maior programa de habita&ccedil;&atilde;o do Estado.</p>
+<p>Ao falar de habita&ccedil;&atilde;o, Mar&iacute;lia deu um jeito de chamar Lula para o debate ao afirmar que n&atilde;o haveria como fazer nada s&oacute;.</p>
+<p><em>"Voc&ecirc; n&atilde;o conhece Bras&iacute;lia. Temos que ter parceria com Lula".</em></p>
+<p><em><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/10/20/120x80/1_bc20102022043-21911689.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'63517c133bffa', 'cd_midia':21911689, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/10/20/bc20102022043-21911689.jpg', 'ds_midia': 'ELEI&Ccedil;&Otilde;ES 2022, SEGUNDO TURNO. DEBATE DA R&Aacute;DIO JORNAL NO SEGUNDO TURNO DAS ELEI&Ccedil;&Otilde;ES EM PERNAMBUCO ENTRE AS CANDIDADATAS AO GOVERNO DO ESTADO: RAQUEL LYRA E MAR&Iacute;LIA ARRAES.  NA FOTO: MAR&Iacute;LIA ARRAES', 'ds_midia_credi': 'BRUNO CAMPOS/JC IMAGEM', 'ds_midia_titlo': 'ELEI&Ccedil;&Otilde;ES 2022, SEGUNDO TURNO. DEBATE DA R&Aacute;DIO JORNAL NO SEGUNDO TURNO DAS ELEI&Ccedil;&Otilde;ES EM PERNAMBUCO ENTRE AS CANDIDADATAS AO GOVERNO DO ESTADO: RAQUEL LYRA E MAR&Iacute;LIA ARRAES.  NA FOTO: MAR&Iacute;LIA ARRAES', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '816', 'align': 'Left'}"><figure style="width:816;height:1224;">
+  <img loading="lazy" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/10/20/bc20102022043-21911689.jpg" alt="BRUNO CAMPOS/JC IMAGEM"  title="ELEI&Ccedil;&Otilde;ES 2022, SEGUNDO TURNO. DEBATE DA R&Aacute;DIO JORNAL NO SEGUNDO TURNO DAS ELEI&Ccedil;&Otilde;ES EM PERNAMBUCO ENTRE AS CANDIDADATAS AO GOVERNO DO ESTADO: RAQUEL LYRA E MAR&Iacute;LIA ARRAES.  NA FOTO: MAR&Iacute;LIA ARRAES">
+  <figcaption class='text-left'>ELEI&Ccedil;&Otilde;ES 2022, SEGUNDO TURNO. DEBATE DA R&Aacute;DIO JORNAL NO SEGUNDO TURNO DAS ELEI&Ccedil;&Otilde;ES EM PERNAMBUCO ENTRE AS CANDIDADATAS AO GOVERNO DO ESTADO: RAQUEL LYRA E MAR&Iacute;LIA ARRAES.  NA FOTO: MAR&Iacute;LIA ARRAES - <strong>BRUNO CAMPOS/JC IMAGEM</strong></figcaption>
+</figure></tinymce></em></p>
+<p>Ao falar de desenvolvimento regional, Mar&iacute;lia Arraes fez um aceno para a cidade mais bolsonarista do Estado, no Agreste. Santa Cruz do Capibaribe. Ela prometeu mais &aacute;gua e menos impostos.<em> "Empresarios n&atilde;o podem ser tratados como bandidos"</em>, afirmou, em refer&ecirc;ncia &agrave; sonega&ccedil;&atilde;o e ambiente de neg&oacute;cios.</p>
+<p>Curiosamente, quando disputava contra Mendon&ccedil;a Filho o governo do Estado em 2006, Eduardo Campos adotava discurso radicalmente oposto.</p>
+<p>Ele reclamava que n&atilde;o podia ser uma zona franca, l&iacute;vre de impostos, colocando a Secretaria da Fazenda de ent&atilde;o contra a parede e obrigando o ex-governador a adotar medidas contra base eleitoral no Agreste.</p>
+<h2>DEBATE R&Aacute;DIO JORNAL:ASSISTA o&nbsp;debate com MAR&Iacute;LIA ARRAES E RAQUEL LYRA<br /></h2>
+<p><iframe title="YouTube video player" src="https://www.youtube.com/embed/fsHkciGJDeM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+{% endraw %}

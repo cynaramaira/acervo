@@ -1,0 +1,48 @@
+---
+id: 12557103
+date: "2017-09-12T16:32:16Z"
+last_modified_at: null
+tags:
+  - "michel-temer"
+categories:
+  - "noticias"
+title: "Barroso autoriza novo inqu\u00e9rito para investigar Temer no STF"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/09/barroso-temer.jpg"
+---
+{% raw %}
+<p><p><em>Estadão Conteúdo</em> - O presidente da República, Michel Temer (PMDB), passa a ser alvo de uma nova investigação no Supremo Tribunal Federal (STF), após o ministro Luís Roberto Barroso decidir pela abertura de inquérito contra o presidente para apurar fatos relacionados ao Decreto dos Portos, editado em maio deste ano. A apuração se dará sobre possíveis crimes de lavagem de dinheiro, corrupção ativa e corrupção passiva.</p></p>
+<p><p>Também serão investigados o ex-deputado federal Rodrigo Rocha Loures, além de Antônio Celso Grecco e Rodrimar Ricardo Conrado Mesquita, respectivamente, dono e diretor da Rodrimar, empresa que opera no Porto de Santos.</p></p>
+<p><p>A necessidade de uma investigação sobre a edição do Decreto dos Portos foi inicialmente apontada pelo procurador em junho, quando a PGR enviou ao Tribunal a denúncia contra o Temer por corrupção passiva. Analisando o que foi informado pela PGR, Barroso disse que há "elementos suficientes para instauração e inquérito".</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/12/em-nota-temer-reage-nova-acao-de-janot-contra-pmdb/">Em nota, Temer reage à nova ação de Janot contra PMDB</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/12/temer-autorizou-caixa-2-campanha-de-chalita-por-telefone-diz-funaro/">Temer autorizou caixa 2 a campanha de Chalita por telefone, diz Funaro</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/08/barroso-nova-denuncia-contra-temer-confirmaria-que-sistema-politico-funciona-mal/">Barroso: Nova denúncia contra Temer confirmaria que sistema político funciona mal</a></p></p>
+<p><p>"Os elementos colhidos revelam que Rodrigo Rocha Loures, homem sabidamente da confiança do Presidente da República, menciona pessoas que poderiam ser intermediárias de repasses ilícitos para o próprio Presidente da República, em troca da edição de ato normativo de específico interesse de determinada empresa, no caso, a Rodrimar S/A", assinalou Barroso na decisão de abertura do inquérito.</p></p>
+<p><p>Barroso faz uma ponderação sobre "ônus pessoal e político" da investigação de um presidente da República, mas que isso não pode impedir a apuração.</p></p>
+<p><p>"A ninguém deve ser indiferente o ônus pessoal e político de uma autoridade pública, notadamente o Presidente da República, figurar como investigado em procedimento dessa natureza. Mas este é o preço imposto pelo princípio republicano, um dos fundamentos da Constituição brasileira, ao estabelecer a igualdade de todos perante a lei e exigir transparência na atuação dos agentes públicos. Por essa razão, há de prevalecer o legítimo interesse social de se apurarem, observado o devido processo legal, fatos que podem se revestir de caráter criminoso", afirmou Barroso.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/05/denuncia-contra-temer-perde-forca/">Denúncia contra Temer perde força</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/08/impopularidade-de-temer-e-passageira-diz-fernando-bezerra/">Impopularidade de Temer é passageira, diz Fernando Bezerra</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/08/temer-esta-preparado-para-nova-denuncia-diz-imbassahy/">Temer está preparado para nova denúncia, diz Imbassahy</a></p></p>
+<p><p>"Presentes os elementos indiciários mínimos da ocorrência do fato e de eventual autoria por pessoa com foro por prerrogativa de função perante esta Corte, determino a instauração do Inquérito, devendo o feito ser autuado como tal", decidiu Barroso.</p></p>
+<p><p>Apesar de o pedido de investigação ter sido feito por Janot, caberá a Raquel Dodge, que assume na próxima semana a chefia da PGR, conduzir o inquérito. A indicação de Dodge ao cargo de procuradora-geral da República foi feita pelo presidente Michel Temer e referendada pelo Senado.</p></p>
+<p><p>A assessoria de imprensa do Palácio do Planalto foi procurada pela reportagem mas ainda não respondeu se o presidente Temer se manifestará. Procurado, o advogado de Rocha Loures, Cezar Bittencourt, afirmou que só se manifestará após ter conhecimento da decisão do ministro.</p></p>
+<p><h2>O caso</h2></p>
+<p><p>Apesar de a petição da PGR falando da necessidade de investigação ter sido enviada em junho, apenas no dia 31 de agosto ela se manifestou a respeito da relatoria. Após verificar que não haveria conexão desta investigação com um inquérito que já tramitou no Supremo sobre o Porto de Santos e foi arquivado em 2011, Janot pediu a livre distribuição do pedido de abertura de inquérito entre todos os ministros. No sorteio, o escolhido foi Barroso.</p></p>
+<p><p>As suspeitas sobre Temer em torno da edição do Decreto dos Portos surgiram a partir de uma conversa de pouco mais de 2 minutos com Loures interceptada pela Polícia Federal em 4 de maio. Loures, que foi assessor especial da Presidência, estava grampeado. O deputado tentava saber sobre a assinatura do Decreto dos Portos e Temer informou o parlamentar que iria assinar o decreto na outra semana.</p></p>
+<p><p>Depois da conversa com Temer, Rocha Loures passou informações por telefone a Ricardo Conrado Mesquita, membro do Conselho Deliberativo da Associação Brasileira dos Terminais Portuários e diretor da empresa Rodrimar, que opera no Porto de Santos.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/08/joesley-batista-nega-ter-sido-orientado-gravar-temer/">Joesley Batista nega ter sido orientado a gravar Temer</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/06/temer-pede-fachin-acesso-audio-de-delator-treinado-por-procuradores/">Temer pede a Fachin acesso a áudio de delator ‘treinado’ por procuradores</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/05/imbassahy-revelacoes-de-janot-fragilizam-eventual-segunda-denuncia-contra-temer/">Imbassahy: revelações de Janot fragilizam eventual segunda denúncia contra Temer</a></p></p>
+<p><p>O nome de "Ricardo" é apontado pela Procuradoria como um dos possíveis intermediários de repasses ilícitos para Temer. Na denúncia que foi enviada ao STF em junho, a PGR descreve os diálogos interceptados que usa para identificar os codinomes "Ricardo", "Celso", "Edgar" e "Coronel" como possivelmente pessoas que recebiam repasses para Loures e Temer.</p></p>
+<p><p>O presidente assinou em 10 de maio decreto para facilitar investimentos privados nos portos. Na conversa ao telefone, o presidente indica o que é uma das principais mudanças previstas no decreto, o aumento para 35 anos de prazos dos contratos de arrendatários, prorrogáveis por até 70 anos. Após Loures comentar que teve informação de que já teria sido assinado o decreto, Temer responde: "Não. Vai ser assinado na quarta-feira à tarde... Vai ser numa solenidade até, viu?". Em outro trecho da conversa, o presidente diz que 'aquela coisa dos setenta anos lá para todo mundo parece que está acertando aquilo lá...'.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/10/temer-quer-retomar-reforma-da-previdencia-com-toda-enfase/">Temer quer retomar reforma da Previdência ‘com toda a ênfase’</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/09/em-video-temer-aponta-erros-das-administracoes-anteriores/">Em vídeo, Temer aponta ‘erros das administrações anteriores’</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/08/horario-de-posse-de-raquel-dodge-e-antecipado-para-garantir-presenca-de-temer/">Horário de posse de Raquel Dodge é antecipado para garantir presença de Temer</a></p></p>
+<p><p>"Têm-se, pois, elementos de prova no sentido de que o denunciado Rodrigo Loures, homem de total confiança do também denunciado Michel Temer, não apenas mencionou diversas pessoas que poderiam ser intermediárias de repasses financeiros ilícitos para Temer, como também atuou para produção de ato normativo que beneficiara justamente a sociedade empresária possivelmente ligada às figuras de 'Ricardo' e 'Celso', no caso a Rodrimar S.A., nas pessoas de Ricardo Conrado Mesquita, diretor, e Antônio Celso Grecco, sócio e presidente", escreveu Janot em junho.</p></p>
+<p><p>Quando veio à tona o novo pedido de abertura de inquérito, a assessoria do Palácio do Planalto informou que o presidente não iria comentar o pedido da PGR.</p></p>
+<p><p><iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/eVgskPYxfWGyh5" width="100%" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p></p>
+<p><div style="margin-bottom: 5px;"><strong> <a title="Barroso autoriza novo inquérito para investigar Temer no STF" href="//www.slideshare.net/secret/eVgskPYxfWGyh5" target="_blank" rel="noopener">Barroso autoriza novo inquérito para investigar Temer no STF</a> </strong> from <strong><a href="https://www.slideshare.net/JCOnLine" target="_blank" rel="noopener">Portal NE10</a></strong></div></p>
+{% endraw %}

@@ -1,0 +1,42 @@
+---
+id: 12517344
+date: "2016-05-04T10:55:43Z"
+last_modified_at: null
+tags:
+  - "critica"
+  - "michele-collins"
+  - "social1"
+  - "transexuais"
+categories:
+  - "noticias"
+title: "Jayme Asfora critica Michele Collins por rep\u00fadio \u00e0 uso de nome social de travestis e transexuais"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><img class="alignnone size-full wp-image-146283" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/05/Jayme-Asfora.jpg" alt="Jayme Asfora" width="580" height="500" /></p>
+<p>Em artigo enviado ao <a href="https://blogs.ne10.uol.com.br/jamildo/">Blog de Jamildo</a>, o vereador do Recife Jayme Asfora critica a veradora Michele Collins, que em um discurso feito na Câmara do Recife, na última segunda-feira (2), <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/03/michele-collins-critica-dilma-por-decreto-que-reconhece-uso-do-nome-social-de-travestis-e-transexuais/" rel="bookmark">repudiou o decreto nº 8.727/2016, que dispõe sobre o uso do nome social e o reconhecimento da identidade de gênero </a>de travestis e transexuais na administração pública federal.</p>
+<p><strong>LEIA MAIS:</strong></p>
+<p><strong>&gt;&gt; </strong><a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/03/michele-collins-critica-dilma-por-decreto-que-reconhece-uso-do-nome-social-de-travestis-e-transexuais/" rel="bookmark">Michele Collins critica Dilma por decreto que reconhece uso do nome social de travestis e transexuais</a></p>
+<p><strong>Respeito aos direitos de cada um, eis a questão</strong></p>
+<p><em>Por Jayme Asfora, vereador do Recife</em></p>
+<p>É lamentável que a tribuna da Câmara dos Vereadores seja usada, mais uma vez, para críticas a propostas que só visam respeitar e proteger os direitos e ampliar a cidadania da população de Lésbicas, Gays, Bissexuais, Travestis/Trangêneros. Inicialmente quero ressaltar que - segundo a psicóloga e mestra em Psicologia Escolar pela USP, Juliana Spinelli Ferrari - podemos entender a homofobia, assim como as outras formas de preconceito, como uma atitude de colocar a outra pessoa, no caso, o homossexual, na condição de inferioridade, de anormalidade.</p>
+<p>O fato é que a população homossexual e transexual existe quer se queira ou não e vão, feliz e obviamente, continuar existindo apesar das humilhações e preconceitos que sofrem como foi o caso do que aconteceu na Casa José Mariano na última segunda-feira, durante o chamado pequeno expediente, o que, em definitivo, não possibilita o debate.</p>
+<p>Em segundo lugar, o decreto federal Nº 8.727, de 28 de abril de 2016, não tem qualquer relação com planos de educação municipal ou estadual. Estamos falando da administração da União e de seus inúmeros órgãos diretos e indiretos.</p>
+<p>Diz o decreto, em seu artigo artigo 2º: "Os órgãos e as entidades da administração pública federal direta, autárquica e fundacional, em seus atos e procedimentos, deverão adotar o nome social da pessoa travesti ou transexual, de acordo com seu requerimento e com o disposto neste Decreto". O artigo 4o prevê que "constará nos documentos oficiais o nome social da pessoa travesti ou transexual, se requerido expressamente pelo interessado, acompanhado do nome civil".</p>
+<p>Vale a pena enfatizar que o Decreto Estadual nº 35051/2010 do Governo de Pernambuco já reconhecia o direito de uso de nome social à pessoas trans nos registros estaduais relativos a serviço público prestado no âmbito da administração publica estadual direta, autárquica e fundacional em Pernambuco, sendo um dos vanguardistas nesta iniciativa. Isso não causou qualquer prejuízo financeiro ao erário público. Nem qualquer perturbação à ordem pública, nenhum sobressalto à sociedade.</p>
+<p>Quero ainda ressaltar ainda que não existe, nem poderia, com isso tudo, qualquer imposição a que uma pessoa seja heterossexual, homossexual, transexual ou travesti. O termo "ideologia de gênero" é uma falácia, um factóide criado para se dizer, ou induzir, que, ao se buscar uma sociedade mais respeitosa, fraterna, solidária e justa (e, claro, com menos discriminação) está se tentando "perverter" as crianças, ensiná-las a ser gays ou coisa parecida. Esse discurso integra uma retórica autoritária e por demais conservadora, lastreava num completa inversão dos fatos.</p>
+<p>Na verdade, todos aqueles envolvidos com a defesa e proteção dos direitos dessa população procuram algo que é muito mais simples: o direito de as pessoas serem o que elas são, de viverem da forma que lhes deixa felizes, de terem vidas plenas e de poderem exercer seus afetos. Ou seja, como já dizia a canção: "Toda forma de amor vale a pena".</p>
+<p>Quando ouvimos que travestis e transexuais devem continuar usando o "nome que o pai e mãe lhe deram, gostando ou não gostando", escutamos a defesa do cerceamento de um direito, de uma tentativa de colocá-los como cidadãos de segunda categoria, tolhendo-lhes direitos efetivos.</p>
+<p>Da mesma forma que existe uma parcela da população contra, existe uma vasta gama de brasileiros que pregam a liberdade de cada um ser o que é. Viver suas relações afetivas como desejam. Com a liberdade própria de um Estado Democrático de Direito. Laico.</p>
+<p>O direito de uso de nome social está intimamente ligado ao "Princípio da Dignidade da Pessoa Humana", um dos fundamentos da Republica Federativa do Brasil e previsto na Constituição Federal em seu art. 1º, III.</p>
+<p>A partir do momento que alguém adulto, capaz, e se reconhecendo de um gênero diferente do seu biológico - processo que não acontece da noite para o dia, mas advém de um árduo período de aceitação pessoal e de consciência de que sofrerá vários preconceitos -, é louvável que os entes públicos respeitem essa luta e permitam que a pessoa requeira tratamento pelo nome social. Quero inclusive exaltar a iniciativa da Secretaria de Desenvolvimento Social, Criança e Juventude (SDSCJ) que apresentou, ao Ministério Público de Pernambuco, uma minuta do decreto para implantação da carteira de nome social.</p>
+<p>“Quando se começou a discutir a questão do respeito ao nome social, percebemos que o não respeito ao nome social era um dos grandes entraves ao acesso das pessoas travestis e transexuais ao serviço público, tanto no âmbito da escola como da saúde". Esse depoimento é de Dediane Souza, transexual que foi coordenadora do Centro de Combate à Homofobia de São Paulo e mostra bem isso.</p>
+<p>Como diz o sociólogo e professor da Universidade de Coimbra, Boaventura de Souza Santos: "Temos o direito de ser iguais quando a nossa diferença nos inferioriza; e temos o direito de ser diferentes quando a nossa igualdade nos descaracteriza. Daí a necessidade de uma igualdade que reconheça as diferenças e de uma diferença que não produza, alimente ou reproduza as desigualdades".</p>
+<p>Esse é um dos motivos para que o movimento trans tenha sido pioneiro na luta pelos direitos da população LGBT, tendo surgido, no Rio de Janeiro, há mais de 25 anos.</p>
+<p>Pesquisando ainda o que diz a psicóloga Marisa Lobo, me salta aos olhos ela dizer que o decreto "reconhece a identidade de gênero e não respeita a ciência".</p>
+<p>Esquece ela que a ciência mesmo, através da Organização Mundial de Saúde, há 26 anos, definiu que homossexualidade não é doença. Em relação à transexualidade, o conselheiro sênior do Escritório da OMS nas Américas, Rafael Mazin, ressalta. "É crítico ressaltar que os transgêneros passam por aflição emocional resultada não só da pressão externa, da discriminação, mas também da insatisfação causada por estar em um corpo que não corresponde à sua identificação de gênero".</p>
+<p>Por fim, quero lembrar que a referida psicóloga Marisa Lobo chegou a alegar a existência de uma "desonestidade intelectual" por parte dos movimentos LGBT, em ataque por demais agressivo e injusto à advogada e respeitada professora universitária Manoela Alves, em um debate recente na Rádio Jornal. Isso sim é uma grave acusação que não pode e não deve ser tolerada. Por último, prestamos, assim, na pessoa de Manoela, nossa homenagem a todos os militantes e voluntários da grande e universal causa dos Direitos Humanos.</p>
+{% endraw %}

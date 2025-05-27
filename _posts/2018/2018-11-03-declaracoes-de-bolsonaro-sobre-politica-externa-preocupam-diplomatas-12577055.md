@@ -1,0 +1,33 @@
+---
+id: 12577055
+date: "2018-11-03T20:00:36Z"
+last_modified_at: null
+tags:
+  - "bolsonaro"
+  - "contas-externas"
+  - "politica"
+categories:
+  - "noticias"
+title: "Declara\u00e7\u00f5es de Bolsonaro sobre pol\u00edtica externa preocupam diplomatas"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/11/vintage-cars-old-havana-cuba-cr-michael-petit.jpg"
+---
+{% raw %}
+<p><p>Na Agência Brasil</p></p>
+<p><p>A declaração do presidente eleito Jair Bolsonaro de que pretende romper laços diplomáticos com países com governos de esquerda e de fechar a embaixada brasileira em Cuba foi recebida com preocupação entre os diplomatas. “Qual o negócio que podemos fazer com Cuba? Vamos falar de direitos humanos? Foi acertado há quatro anos, quando Dilma era presidente, que se alguém pedisse exílio – no Brasil, como os médicos cubanos – seria extraditado. Dá para manter relações diplomáticas com um país que trata os seus dessa maneira?”, afirmou nesta sexta (2) o presidente eleito em entrevista ao jornal Correio Braziliense e à televisão Rede Vida.</p></p>
+<p><p>O ex-embaixador Rubens Ricupero classifica o fechamento da embaixada brasileira em Cuba como um retrocesso para os tempos de Guerra Fria. “É uma volta ao espírito da Guerra Fria que acabou há mais de 30 anos. A Guerra Fria terminou com a queda do Muro de Berlim e o fim do comunismo. Naquela época é que havia esse tipo de atitude. A política externa brasileira sempre teve como princípio a universalidade nas relações. Nós procuramos ter relações com todos os países, qualquer que seja a orientação de cada um. É um imperativo da convivência entre as nações”, afirmou o diplomata em entrevista à Agência Brasil.</p></p>
+<p><p>O ex-embaixador Rubens Barbosa ressalta que o Brasil tem interesses comerciais com Cuba e defende que as relações diplomáticas sejam avaliadas com base no interesse brasileiro. “O Brasil tem uma tendência a ter relações com todos os países e, no caso de Cuba, nós temos interesses lá. Exportamos para Cuba e fazemos investimentos lá. Cuba tem uma dívida para com o Brasil, então a gente precisa colocar as relações do Brasil com Cuba e com todos os outros países dentro de um interesse maior do Brasil. Pegando o caso de Cuba, nós temos interesse em receber o dinheiro que o Brasil emprestou”, disse à Agência Brasil.</p></p>
+<p><p>Barbosa acredita que, por ser um governo com posição clara de direita, haverá uma mudança de ênfase com relação à política externa. “Temos de esperar o governo assumir para ver a intensidade dessa mudança de ênfase na política externa. A gente tem que esperar para ver se há um interesse maior do Brasil. Não é uma questão ideológica, não é uma questão só política. Há também consequências econômicas e financeiras para o Brasil. Isso tudo vai ter que ser avaliado quando o governo tomar posse”, declarou.</p></p>
+<p><p>Reavaliação</p></p>
+<p><p>Rubens Ricupero também acredita que haverá uma reavaliação em torno dessas questões quando o novo governo tomar posse, mas considera que a política externa até agora apresentada por Bolsonaro está pautada pelo ponto de vista ideológico. “Eu espero que, com a escolha do ministro das Relações Exteriores, no momento em que o presidente tiver tomado posse, conhecendo melhor as questões, ele vai ter uma orientação diferente. Mas, até agora, parece uma política muito ideológica em contradição com o que ele mesmo diz. Ele declarou que teria uma orientação pragmática, não ideológica como ele entende que havia sido no passado”, aponta.</p></p>
+<p><p>Na visão do diplomata, as intenções declaradas pelo presidente eleito com relação a países como Estados Unidos e Israel demonstram o viés ideológico de sua política externa. Bolsonaro declarou que pretende mover a embaixada brasileira em Israel de Tel Aviv para Jerusalém. “Como afirmado durante a campanha, pretendemos transferir a Embaixada do Brasil de Tel Aviv para Jerusalém. Israel é um Estado soberano e nós o respeitamos”, escreveu em sua conta no Twitter na última quinta-feira. Para Ricupero, essa decisão não se sustenta do ponto de vista pragmático. “Nessa região do Oriente Médio, estão grandes interesses brasileiros, sobretudo de exportação de carne de frango e de carne bovina. Estão todos concentrados nos países árabes, que são contrários a essa atitude”, explica.</p></p>
+<p><p>Em relação ao alinhamento político com os Estados Unidos, o diplomata também aponta para um componente ideológico. “Os Estados Unidos têm interesses diferentes dos interesses brasileiros, em muitas coisas eles são até concorrentes do Brasil. Em comércio, por exemplo, em soja, em carne, carne bovina, carne suína, carne de frango, os EUA competem com o Brasil pelos mercados de fora. Então uma atitude como essa, de alinhar-se aos EUA é uma atitude ideológica”, pontua Ricupero.</p></p>
+<p><p>China</p></p>
+<p><p>Entre as declarações do presidente eleito com relação à política externa, a afirmação de que “a China quer comprar o Brasil” também gerou repercussão no meio diplomático por causa da importante relação comercial entre os países, sendo a China hoje o maior mercado para as exportações brasileiras.</p></p>
+<p><p>Em entrevista para o canal de televisão norte-americano Fox News nesta sexta-feira (2), Sérgio Amaral, embaixador brasileiro em Washington enfatizou a importância da relação entre os dois países.</p></p>
+<p><p>“A China tem muitos investimentos no Brasil e tornou-se o parceiro comercial mais importante. Mas a diferença na relação entre China e Brasil em comparação com a que a China tem com outros países é, que sempre que dizemos algo, eles aceitam. Isso depende de nós e nós temos de decidir que tipo de política queremos ter com a China. Não tem razão para não continuarmos mantendo isso”, afirmou.</p></p>
+<p><p>Ricupero considera que qualquer atitude de hostilizar a China por parte do novo governo traria graves consequências econômicas para o Brasil, em especial em relação às exportações de soja, minério de ferro e carnes.</p></p>
+<p><p>“Não há outro mercado dessa dimensão mesmo porque, nessa área, os Estados Unidos concorrem com o Brasil, sobretudo em soja e em carnes. Então, mais uma vez, isso prejudicaria o comércio exterior. Se o novo governo seguir essa linha, em pouco tempo vamos perder boa parte dos nossos mercados, sem possibilidade de compensar com outros. Creio que isso traria um prejuízo gigantesco à economia brasileira”, afirma o diplomata.</p></p>
+{% endraw %}

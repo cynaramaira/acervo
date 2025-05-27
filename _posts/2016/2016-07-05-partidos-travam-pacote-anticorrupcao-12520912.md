@@ -1,0 +1,46 @@
+---
+id: 12520912
+date: "2016-07-05T07:52:45Z"
+last_modified_at: null
+tags:
+  - "partidos-liberais"
+categories:
+  - "noticias"
+title: "Partidos travam pacote anticorrup\u00e7\u00e3o"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/11/Corrup\u00e7\u00e3o.jpg"
+---
+{% raw %}
+<p><em>Estadão Conteúdo</em> - Partidos que abrigam os principais alvos da <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/06/new-york-times-da-ouro-em-corrupcao-para-o-brasil/" rel="bookmark">Operação Lava Jato, PMDB, PT e PP ainda não indicaram os nomes de parlamentares para compor</a> a comissão especial responsável pela tramitação dos projetos anticorrupção na Câmara.</p>
+<p>Duas semanas após a autorização para criar o colegiado, PSC e PCdoB também não apresentaram os nomes. A falta das indicações é apontada como o <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/30/aprovada-a-declaracao-de-brasilia-contra-a-corrupcao/" rel="bookmark">motivo pelo qual o presidente interino da Casa, </a>Waldir Maranhão (PP-MA), ainda não liberou o início dos trabalhos.</p>
+<p><strong>LEIA MAIS:</strong></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/06/new-york-times-da-ouro-em-corrupcao-para-o-brasil/" rel="bookmark">New York Times dá ouro em corrupção para o Brasil</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/30/aprovada-a-declaracao-de-brasilia-contra-a-corrupcao/" rel="bookmark">Aprovada a Declaração de Brasília Contra a Corrupção</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/28/sergio-moro-diz-que-prisao-nao-basta-para-combater-corrupcao/" rel="bookmark">Sérgio Moro diz que prisão não basta para combater corrupção</a></p>
+<p>Os projetos das "10 Medidas contra a Corrupção" foram apresentados ao Congresso em março, por iniciativa do Ministério Público Federal e entidades que recolheram mais de 2 milhões de assinaturas.</p>
+<p>Até agora, 14 partidos (PTN, SD, PRB, PHS, DEM, PTB, PR, PSD, PROS, PV, PSDB, PSB, PDT e REDE) apresentaram <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/28/sergio-moro-diz-que-prisao-nao-basta-para-combater-corrupcao/" rel="bookmark">18 membros titulares. Faltam ainda outros 12 nomes. Segundo a Mesa Diretora da Casa e assessores de Maranhão</a>, ele aguarda todos os líderes indicarem seus representantes. Técnicos das comissões especiais, contudo, dizem que o colegiado não precisaria estar completo para ser instalado, dependeria apenas de "vontade política".</p>
+<p>O líder do governo na Câmara, André Moura (PSC-SE), disse que não há orientação do Palácio do Planalto para dar celeridade à instalação do colegiado. "Não tive nenhuma orientação do governo, nem favorável nem contra. A prioridade é pauta econômica, que é a pauta do momento, mas também não há nenhuma restrição para essa comissão", afirmou.</p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/28/janot-diz-que-sociedade-quer-o-fim-da-impunidade-e-combate-a-corrupcao/" rel="bookmark">Janot diz que sociedade quer o fim da impunidade e combate à corrupção</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/30/advogado-pernambucano-critica-as-10-medidas-contra-corrupcao-propostas-pelo-mpf/" rel="bookmark">Advogado pernambucano critica as 10 medidas contra corrupção propostas pelo MPF</a></p>
+<p>Ex-ministro do governo Michel Temer e investigado na Lava Jato, Romero Jucá (PMDB-RR) também reforça que a prioridade do governo agora não são as medidas anticorrupção."A pauta do governo agora é econômica."</p>
+<p>O líder do PMDB na Câmara, Baleia Rossi (SP), afirmou que está aguardando a reunião dos líderes com o procurador-geral da República, Rodrigo Janot, <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/28/janot-diz-que-sociedade-quer-o-fim-da-impunidade-e-combate-a-corrupcao/" rel="bookmark">marcada para esta terça-feira, 5, para indicar os nomes do partido. "Já tenho um monte de deputados q</a>uerendo participar da comissão. Não tenho uma data, mas não tenho nenhum pedido para fazer algo diferente (da indicação). Vou ter que reunir a bancada, mas não há nenhuma resistência, pelo contrário, tenho até overbooking (excesso de reservas)", diz.</p>
+<p>O encontro com Janot será fechado e está previsto para começar às 16h. Antes da reunião, líderes da base aliada se reúnem no Palácio do Planalto para discutir com o ministro da Secretaria do Governo, Geddel Vieira Lima, a pauta de votação da semana. Entre os temas que devem ser discutidos está a manutenção ou não do regime de urgência de algumas das propostas do pacote anticorrupção.</p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/21/operacoes-federais-contra-corrupcao-aceleram-busca-por-compliance/" rel="bookmark">Operações federais contra corrupção aceleram busca por compliance</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/17/deputada-que-homenageou-marido-investigado-por-corrupcao-vira-alvo-do-stf/" rel="bookmark">Deputada que homenageou marido investigado por corrupção vira alvo do STF</a></p>
+<p>Já o líder do PT, disse não ter conhecimento de que já deveria ter indicado nomes. "A independência da Polícia Federal foi uma ação do PT. Nós temos compromisso com o combate à corrupção", declarou.</p>
+<p>O primeiro-secretário da Casa, Beto Mansur (PRB-SP), dmitiu que houve e há dificuldade para convencer as lideranças. "Claro que há. Resistência sempre tem, mas a gente tem que dar sequência", disse.</p>
+<p>Autor do projeto, o deputado Mendes Thame (PV-SP), <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/30/advogado-pernambucano-critica-as-10-medidas-contra-corrupcao-propostas-pelo-mpf/" rel="bookmark">disse que, apesar de haver resistência, a expectativa é conseguir todos os nomes nesta semana. "Co</a>m o PMDB indicando, os outros vão indicar também. Objetivamente há uma demora incontestável. Nós apresentamos isso no último dia de abril, já faz dois meses de demora, é muito tempo para formar uma comissão."</p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/06/ministro-do-turismo-recebeu-recurso-do-petrolao-diz-janot/" rel="bookmark">Ministro do Turismo recebeu recurso do petrolão, diz Janot</a></p>
+<p><span class="st">»</span> <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/23/em-dialogos-gravados-juca-fala-em-pacto-para-deter-avanco-da-lava-jato/">Em diálogos gravados, Jucá fala em pacto para deter avanço da Lava Jato</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/16/cai-terceiro-ministro-de-temer-henrique-eduardo-alves-pede-demissao/" rel="bookmark">Cai terceiro ministro de Temer; Henrique Eduardo Alves pede demissão</a></p>
+<p><b>Lava Jato</b></p>
+<p>Coordenador da força-tarefa da <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/23/em-dialogos-gravados-juca-fala-em-pacto-para-deter-avanco-da-lava-jato/">Operação Lava Jato, o procurador Deltan Dallagnol </a>cobra que o apoio público às investigações sejam revertidos para as medidas em discussão no Congresso.</p>
+<p>"Apoio irrestrito à Lava Jato, então, significa apoio irrestrito ao combate à corrupção. Mas esse apoio irrestrito não existirá, na prática, enquanto não aprovarem as reformas que são necessárias para que escândalos como esse de corrupção que nós descobrimos não se repitam", afirma.</p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/03/secretaria-de-temer-integrou-articulacao-criminosa-diz-pgr/">Secretária de Temer integrou articulação criminosa, diz PGR</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/23/apos-reuniao-com-temer-romero-juca-pede-licenca-do-ministerio-do-planejamento/">Após reunião com Temer, Romero Jucá deixa Ministério do Planejamento</a></p>
+<p>» <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=5&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiq2arg1JPNAhUK7SYKHRwCD98QFggzMAQ&amp;url=http%3A%2F%2Fblogs.ne10.uol.com.br%2Fjamildo%2F2016%2F05%2F30%2Fapos-pressao-fabiano-silveira-pede-demissao-do-ministerio-da-transparencia%2F&amp;usg=AFQjCNEUns9rg4jjYn7M1CoCevBhiisabQ&amp;bvm=bv.123664746,d.eWE" data-href="https://blogs.ne10.uol.com.br/jamildo/2016/05/30/apos-pressao-fabiano-silveira-pede-demissao-do-ministerio-da-transparencia/">Após pressão, Fabiano Silveira pede demissão do Ministério da transparência</a></p>
+<p>Para o procurador, a <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/03/secretaria-de-temer-integrou-articulacao-criminosa-diz-pgr/">bola agora está com o Congresso</a>. "O órgão responsável pela avaliação, pelo encaminhamento dessas medidas contra a corrupção e pela reforma política, é o Congresso. E nós já temos a movimentação de vários de parlamentares que querem a aprovação de medidas contra a corrupção."</p>
+<p>Segundo ele, em sua defesa pelo pacote, ele encontra "pessoas que querem atuar por um país melhor", mas admite ainda haver "resistências que vêm de pessoas que não querem um sistema que efetivamente combata a corrupção".</p>
+{% endraw %}

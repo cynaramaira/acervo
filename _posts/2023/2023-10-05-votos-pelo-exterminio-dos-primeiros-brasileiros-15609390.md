@@ -1,0 +1,39 @@
+---
+id: 15609390
+date: "2023-10-05T09:15:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "opiniao"
+  - "marco-temporal"
+categories:
+  - "sem-categoria"
+title: "Votos pelo exterm\u00ednio (dos primeiros brasileiros)"
+sutia: "Uma semana antes da vota\u00e7\u00e3o no Senado, o Supremo Tribunal Federal decidira que o marco temporal para as terras ind\u00edgenas era inconstitucional"
+chapeu: "Opini\u00e3o"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/09/22/img_4607_0__1_-24374794.jpg"
+---
+{% raw %}
+<p>Por Ricardo Leit&atilde;o, em artigo para o Blog de Jamildo</p>
+<p>Estima-se em 5 milh&otilde;es a popula&ccedil;&atilde;o ind&iacute;gena que habitava o Brasil em 1500, quando por aqui aportaram as caravelas de Pedro &Aacute;lvares Cabral. S&eacute;culos depois de guerras, escravid&atilde;o, contamina&ccedil;&atilde;o por doen&ccedil;as de brancos, os primeiros brasileiros foram reduzidos a 200 mil, durante a ditadura de 1964. Alguns povos terminaram limitados a remanescentes, como os tupis-guaranis que ocupavam o litoral em 1500. Outros, a exemplo dos ianomamis, da floresta amaz&ocirc;nica, foram quase dizimados por envenenamento dos rios pelo merc&uacute;rio usado nos garimpos ilegais.</p>
+<p>A pol&iacute;tica anti-indigenista do desgoverno de Jair Bolsonaro s&oacute; agravou, severamente, uma situa&ccedil;&atilde;o que chegou a ser denunciada como genoc&iacute;dio. O ex-presidente desmontou e esvaziou o Ibama e a Funai, enquanto orientava sua base no Congresso a aprovar leis que facilitaram o contrabando de madeira e a invas&atilde;o de terras ind&iacute;genas por milhares de garimpeiros. Um de seus ministros do Meio Ambiente foi investigado por envolvimento com contrabandistas de madeiras nobres da Amaz&ocirc;nia. O pr&oacute;prio Bolsonaro, em um de seus del&iacute;rios, acusou os ind&iacute;genas de respons&aacute;veis pelos inc&ecirc;ndios nas florestas.</p>
+<p>O atual Governo Federal refundou o Ibama e a Funai, refor&ccedil;ou suas estruturas e ampliou a presen&ccedil;a da Pol&iacute;cia Federal e das For&ccedil;as Armadas na maior floresta tropical do mundo. J&aacute; existem avan&ccedil;os, mesmo discretos, a registrar. No Congresso, contudo, a vit&oacute;ria por enquanto &eacute; dos bolsonaristas. No dia 27 de setembro o Senado aprovou, por 43 votos a 31, projeto de lei que cria marco temporal para demarca&ccedil;&atilde;o de terras ind&iacute;genas.</p>
+<p>O texto j&aacute; havia sido aprovado pela C&acirc;mara dos Deputados, por 283 votos a 155. Uma semana antes da vota&ccedil;&atilde;o no Senado, o Supremo Tribunal Federal decidira que o marco temporal era inconstitucional.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/09/24/120x80/1_img_5019_1-24394448.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'65109fe5a849b', 'cd_midia':24394448, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/09/24/img_5019_1-24394448.jpg', 'ds_midia': 'STF havia considerado o marco temporal inconstitucional', 'ds_midia_credi': 'Ant&ocirc;nio Cruz/Ag&ecirc;ncia Brasil', 'ds_midia_titlo': 'STF havia considerado o marco temporal inconstitucional', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '732', 'align': 'Left'}"><figure style="width:732;height:1224;">
+			<img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/09/24/img_5019_1-24394448.jpg" alt="Ant&ocirc;nio Cruz/Ag&ecirc;ncia Brasil" title="STF havia considerado o marco temporal inconstitucional">
+		<figcaption class='text-left'>
+			STF havia considerado o marco temporal inconstitucional - <strong>Ant&ocirc;nio Cruz/Ag&ecirc;ncia Brasil</strong>
+		</figcaption>
+	</figure></tinymce></p>
+<p>Os bolsonaristas pretendem, com o marco temporal, que a demarca&ccedil;&atilde;o dos territ&oacute;rios ind&iacute;genas respeite as &aacute;reas ocupadas pelos povos origin&aacute;rios at&eacute; 5 de outubro de 1988, data da promulga&ccedil;&atilde;o da Constitui&ccedil;&atilde;o. O entendimento do STF &eacute; contr&aacute;rio: a Constitui&ccedil;&atilde;o assegura aos ind&iacute;genas direitos sobre as terras que historicamente sempre ocuparam, inclusive ap&oacute;s a promulga&ccedil;&atilde;o da Constitui&ccedil;&atilde;o.</p>
+<p>Por diversos motivos, <strong>o marco temporal limitado a 1988 interessa a posseiros e grileiros de terras ind&iacute;genas</strong>. N&atilde;o por acaso, conta com a ferrenha defesa dos bolsonaristas na C&acirc;mara dos Deputados e no Senado. O texto seguiu para o Presidente Luiz In&aacute;cio Lula da Silva, que pode vet&aacute;-lo ou sancion&aacute;-lo. &Eacute; prov&aacute;vel que vete.</p>
+<p>O projeto de lei n&atilde;o &eacute; apenas uma amea&ccedil;a aos povos ind&iacute;genas em decorr&ecirc;ncia do marco temporal. Ele tamb&eacute;m incorpora alarmantes mudan&ccedil;as na legisla&ccedil;&atilde;o, como a possibilidade de a Uni&atilde;o retomar terras ind&iacute;genas j&aacute; demarcadas; destin&aacute;-las &agrave; reforma agr&aacute;ria; validar posses ou t&iacute;tulos de particulares em terras ind&iacute;genas demarcadas; permitir contratos entre ind&iacute;genas e empres&aacute;rios para explora&ccedil;&atilde;o econ&ocirc;mica de terras ind&iacute;genas e autorizar o contato com povos isolados, hoje rigorosamente vetado pela Funai.</p>
+<p>Caso Lula vete o texto, integral ou parcialmente, o projeto de lei retorna ao Congresso, que pode derrubar a decis&atilde;o do presidente. Assim ocorrendo, o assunto volta ao STF. N&atilde;o h&aacute; prazo para a delibera&ccedil;&atilde;o final dos ministros do Supremo.</p>
+<p>A defesa do marco temporal foi feita no Senado pelo senador <strong>Marcos Rog&eacute;rio,</strong> um dos l&iacute;deres do bolsonarismo no Congresso. Ele contou com o apoio da extrema direita, da direita, da bancada ruralista, da bancada evang&eacute;lica e da oposi&ccedil;&atilde;o. S&atilde;o legendas que formam uma sopa de tend&ecirc;ncias, cujos integrantes, de t&atilde;o inconscientes sobre o que votaram, podem at&eacute; ter confundido marco temporal com algum equipamento para medi&ccedil;&atilde;o de temperatura.</p>
+<p>Est&atilde;o juntos por um motivo comum: derrotar a esquerda, os progressistas e o governo Lula em suas tentativas de avan&ccedil;ar em conquistas civilizat&oacute;rias.</p>
+<p>A defesa das terras dos povos origin&aacute;rios &eacute; uma das batalhas que se travam diariamente no Parlamento. Outras vir&atilde;o, como a manuten&ccedil;&atilde;o da legisla&ccedil;&atilde;o dos casamentos homoafetivos, o uso medicinal de derivados da maconha, a amplia&ccedil;&atilde;o dos direitos da mulher ao aborto e a restri&ccedil;&atilde;o do uso de armas pela popula&ccedil;&atilde;o.</p>
+<p>S&atilde;o pautas bolsonaristas, impulsionadas de volta ao debate, dentro da chamada agenda de costumes. O objetivo n&atilde;o &eacute; vencer ou perder as vota&ccedil;&otilde;es, mas for&ccedil;ar a polariza&ccedil;&atilde;o esquerda x direita, conveniente a Bolsonaro, na sua tentativa de se manter na lideran&ccedil;a da direita.</p>
+<p>Nessa conjuntura, o futuro dos povos ind&iacute;genas &eacute; mais um ponto de clivagem. O censo do IBGE de 2022 informa que h&aacute; 1,5 milh&atilde;o de brasileiros que se dizem ind&iacute;genas ou descendentes. S&atilde;o os que ainda habitam as florestas e os que se transferiram para &aacute;reas urbanas. H&aacute; uma ministra, parlamentares e prefeitos ind&iacute;genas. Apesar do quase exterm&iacute;nio, conseguiram manter vivos seus idiomas, tradi&ccedil;&otilde;es, cultura e religi&otilde;es. A luta contra o marco temporal &eacute; a principal luta de agora, uma luta ancestral pela sobreviv&ecirc;ncia dos primeiros brasileiros.</p>
+<p>&nbsp;</p>
+{% endraw %}

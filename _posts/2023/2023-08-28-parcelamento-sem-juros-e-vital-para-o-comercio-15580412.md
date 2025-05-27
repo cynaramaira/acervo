@@ -1,0 +1,30 @@
+---
+id: 15580412
+date: "2023-08-28T15:07:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "comercio"
+categories:
+  - "sem-categoria"
+title: "Parcelamento sem juros \u00e9 vital para o com\u00e9rcio"
+sutia: "Associa\u00e7\u00e3o Comercial de S\u00e3o Paulo defende que um ataque ao parcelamento sem juros impactar\u00e1 diretamente a economia, aumentando o custo do cr\u00e9dito em at\u00e9 35%, o que poder\u00e1 abalar, inclusive, a rela\u00e7\u00e3o entre o varejo e as organiza\u00e7\u00f5es financeiras"
+chapeu: "economia"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/08/28/unnamed_21_-24084621.jpg"
+---
+{% raw %}
+<p>Roberto Mateus Ordine, presidente da Associa&ccedil;&atilde;o Comercial de S&atilde;o Paulo, escreve sobre a iniciativa que contraria os interesses do com&eacute;rcio no Brasil.</p>
+<p>A C&acirc;mara dos Deputados poder&aacute; votar na pr&oacute;xima semana uma regra para as taxas de juros nos cart&otilde;es de cr&eacute;dito. Est&aacute; previsto o in&iacute;cio das discuss&otilde;es em Plen&aacute;rio sobre o Projeto de Lei 2685/22, do deputado Elmar Nascimento (Uni&atilde;o-BA), que trata do endividamento das fam&iacute;lias e do cr&eacute;dito rotativo e parcelado.</p>
+<p>O relator da proposta, deputado Alencar Santana (PT-SP), disse na quinta-feira (24) que incluir&aacute; em um substitutivo o prazo de 90 dias, ap&oacute;s a san&ccedil;&atilde;o da futura lei, para que as institui&ccedil;&otilde;es financeiras apresentem ao Conselho Monet&aacute;rio Nacional (CMN) e ao Banco Central (BC) uma proposta para os juros nos cart&otilde;es.</p>
+<p>Veja os termos abaixo</p>
+<p><em>Em abril deste ano, os grandes bancos iniciaram uma discuss&atilde;o sobre a possibilidade de colocar um fim no parcelamento sem juros, uma modalidade de neg&oacute;cio muito praticada no setor de varejo. Para os bancos, essa seria uma forma de combater as altas taxas de juros, especialmente &agrave;quelas aplicadas &agrave; rotatividade do cart&atilde;o. O setor financeiro afirma n&atilde;o ter como separar uma coisa da outra. "Quando se fala do custo do cart&atilde;o de cr&eacute;dito, n&atilde;o d&aacute; para dissociar do parcelado sem juros", afirmou &agrave; &eacute;poca.</em></p>
+<p><em>Desde ent&atilde;o, estamos alertas para a evolu&ccedil;&atilde;o desse pensamento, por isso n&atilde;o ficamos surpresos que o assunto tenha voltado &agrave; discuss&atilde;o p&uacute;blica, por meio do Banco Central, nos &uacute;ltimos dias. Acontece que os bancos ainda n&atilde;o pararam para ouvir &agrave;queles que est&atilde;o do lado de c&aacute; do balc&atilde;o.</em></p>
+<p><em>O consumidor e o comerciante s&atilde;o agentes dotados de direitos. A Constitui&ccedil;&atilde;o Federal, em seu Artigo 170 &ndash; Cap&iacute;tulo I, garante a livre iniciativa e a livre concorr&ecirc;ncia dentro da ordem econ&ocirc;mica. Entendemos que nossa Carta Magna n&atilde;o admite a interven&ccedil;&atilde;o do Estado na iniciativa privada das empresas. O comerciante que deseja arriscar seu capital em um acordo comercial parcelado, sem juros, tem total direito de faz&ecirc;-lo, apostando assim na fideliza&ccedil;&atilde;o do cliente, na facilidade de pagamento e na oferta que se sobressai &agrave; concorr&ecirc;ncia.</em></p>
+<p><em>Ao contr&aacute;rio das grandes redes varejistas, que conseguem oferecer at&eacute; 30 meses de parcelamento, o pequeno e m&eacute;dio empres&aacute;rio n&atilde;o tem consistente capital de suporte ou um banco/financeira que sustente essa demanda. Para as Pequenas e M&eacute;dias Empresas (PMEs), o parcelamento de compras feitas no cart&atilde;o &eacute; pequeno, em geral com no m&aacute;ximo 10 parcelas. Para estes, a impossibilidade de negociar nesses termos impactar&aacute; e muito os seus neg&oacute;cios, haja vista, o momento de um mercado que ainda tenta recuperar-se da crise dos &uacute;ltimos anos, ocasionada pela pandemia da Covid-19 e pela guerra da Ucr&acirc;nia.</em></p>
+<p><em>Vale pontuar tamb&eacute;m que o pouco cr&eacute;dito que surge desses parcelamentos movimenta um mercado de fintechs e de empresas de antecipa&ccedil;&atilde;o de receb&iacute;veis. Ao mesmo tempo, permite com que o pequeno comerciante continue negociando com aquele cliente de baixa renda, que em aspecto geral, se mant&eacute;m fiel aos seus compromissos financeiros e, muito raramente, entra em inadimpl&ecirc;ncia, palavra essa que soa como pesadelo para os bancos.</em></p>
+<p><em>Hoje o ganho das pessoas &eacute; menor do que h&aacute; dez anos. O n&iacute;vel salarial tamb&eacute;m est&aacute; menor. O trabalhador parcela suas compras dentro de sua capacidade de pagamento, assim, o parcelamento sem juros funciona como um bom senso entre comprador e vendedor, diante do cen&aacute;rio econ&ocirc;mico em que vivemos.</em></p>
+<p><em>As compras com cart&atilde;o de cr&eacute;dito representam 60% das transa&ccedil;&otilde;es do com&eacute;rcio. Um recente levantamento do Datafolha mostrou que 80% dos consumidores baseiam sua decis&atilde;o de compra por estabelecimentos que possibilitem parcelar sem juros. Ou seja, o parcelamento sem juros &eacute; vital para o com&eacute;rcio, especialmente aos pequenos e m&eacute;dios estabelecimentos.</em></p>
+<p><em>A Associa&ccedil;&atilde;o Comercial de S&atilde;o Paulo defende os interesses das pequenas e m&eacute;dias empresas. Entendemos que os grandes bancos s&atilde;o parceiros estrat&eacute;gicos para as PMEs, podendo oferecer cr&eacute;dito e linhas de financiamento, fluxo de caixa e outras solu&ccedil;&otilde;es financeiras. Defendemos que essa parceria precisa ser constante. Um ataque ao parcelamento sem juros impactar&aacute; diretamente a economia, aumentando o custo do cr&eacute;dito em at&eacute; 35%, o que poder&aacute; abalar, inclusive, a rela&ccedil;&atilde;o entre o varejo e as organiza&ccedil;&otilde;es financeiras.</em></p>
+<p><em>Continuaremos atentos a essa discuss&atilde;o e seu impacto na vida do cidad&atilde;o brasileiro.</em><br /></p>
+{% endraw %}

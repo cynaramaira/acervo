@@ -1,0 +1,70 @@
+---
+id: 12609981
+date: "2021-03-22T18:14:22Z"
+last_modified_at: null
+tags:
+  - "desembargadores"
+  - "igreja"
+  - "presidente"
+  - "recife"
+categories:
+  - "noticias"
+title: "Presidente do STF suspende decis\u00e3o de desembargador que liberou cultos em igreja do Recife"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/09/luiz-fux.jpg"
+---
+{% raw %}
+<p><p>Uma decisão do ministro Luiz Fux, do Supremo Tribunal Federal (STF), suspendeu a liminar do desembargador Alexandre Alcoforado, do TJPÈ, que havia liderado culto para uma igreja evangélica. O ministro atendeu a um pedido da Procuradoria Geral do Estado (PGE), em defesa do decreto governamental de Paulo Câmara, que estabeleceu uma quarentena para vários setores da sociedade, com o objetivo de tentar combater o contágio do coronavírus.</p></p>
+<p><p>"Com efeito, na presente situação de pandemia da COVID-19, especialmente na tentativa de equacionar os inevitáveis conflitos federativos, sociais e econômicos existentes, a gravidade da situação vivenciada exige a tomada de medidas coordenadas e voltadas ao bem comum, sempre respeitadas a competência constitucional e a autonomia de cada ente da Federação. Esse entendimento foi explicitado pelo Plenário desta Suprema Corte no referendo da medida cautelar proferida na ADI 6.341, ao se consignar que os entes federativos possuem competência administrativa comum e legislativa concorrente para dispor sobre o funcionamento de serviços públicos e outras atividades econômicas no âmbito de suas atribuições, nos termos do art. 198, I, da Constituição Federal", escreveu Fux.</p></p>
+<p><p>A decisão do STF, mantendo a diretriz do governo do Estado, pode ter impacto na iniciativa da bancada evangélica do Estado, que busca aprovar um projeto de lei afirmando que as igrejas seriam essenciais e, assim, poderiam ficar abertas. A Comissão de Constituição e Justiça da Alepe já havia denunciado a ilegalidade, mas foi atropelada no plenário.</p></p>
+<p><p><a href="https://blogs.ne10.uol.com.br/jamildo/2021/03/22/marco-feliciano-elogia-desembargador-do-tjpe-que-autoriza-cultos-em-igreja-do-recife-durante-quarentena-defendeu-tratamento-precoce-e-criticou-lockdown/">Marco Feliciano elogia desembargador do TJPE que autoriza cultos em igreja do Recife durante quarentena, defendeu ‘tratamento precoce’ e criticou ‘lockdown’</a></p></p>
+<p><p>Em 22/03/2021. (...) DEFIRO o pedido liminar, para suspender os efeitos das decisões proferidas nos autos do Mandado de Segurança nºs 0004119-87.2021.8.17.9000 e 0004104-21.2021.8.17.9000, em trâmite no Tribunal de Justiça de Pernambuco, de modo a restabelecer a plena eficácia do Decreto Estadual nº 50.433, de 15/03/2021, expedido pelo Governador do Estado de Pernambuco, até ulterior decisão nestes autos, com fundamento no art. 15, §4º, da Lei nº 12.016/2009. Comunique-se com urgência o Tribunal de Justiça de Pernambuco. Após, notifique-se os impetrantes dos mandados de segurança na origem, para manifestação. Na sequência, abra-se vista dos autos à douta Procuradoria-Geral da República. Publique-se. Int.", escreveu Fux.</p></p>
+<p><p>A situação era delicada. No TJPE, na semana passada, alguns minutos depois outro desembargador negou a liminar para outra igreja. De acordo com informações extra-oficiais, umas 15 ações de igrejas ou pastores distintos pediram o mesmo tratamento especial.</p></p>
+<p><p>O Estado autor da ação sustenta que as liminares cuja suspensão requer seriam “temerárias, causando grave dano à ordem e a saúde pública, na acepção jurídico administrativa”. Aduz que o decreto impugnado na origem assegura “a plena liberdade religiosa”, tendo restringido temporariamente a realização de cultos e missas presenciais “em razão do recrudescimento da emergência sanitária no Estado de Pernambuco, e para evitar o colapso de leitos nas unidades de terapia intensiva”, cuja taxa de ocupação no Estado já estaria em 97%.</p></p>
+<p><p>Alega ser notório que o Brasil “vive o momento mais dramático da Pandemia da COVID 19, com o colapso simultâneo, nunca antes experimentado, dos sistemas de saúde público e privado, em todos os níveis e em quase todas as unidades federadas”, de modo que se revelaria necessária medidas que promovam a diminuição da circulação do vírus e da taxa de contaminação (medidas de distanciamento social). Na mesma ação, o Estado argumenta que o este Supremo Tribunal Federal já teria reconhecido a competência dos Estados para a adoção de medidas de enfrentamento à pandemia.</p></p>
+<p><p><img class="alignleft size-full wp-image-238921" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2021/03/tabela1.jpg" alt="" width="1024" height="577" /></p></p>
+<p><p><strong>Entenda o caso</strong></p></p>
+<p><div class="content"></p>
+<p><div class="moz-reader-content reader-show-element"></p>
+<p><div id="readability-page-1" class="page"></p>
+<p><div id="texto-noticia"></p>
+<p><p>Na semana passada, o desembargador Alexandre Guedes Alcoforado Assunção, do Tribunal de Justiça de Pernambuco (TJPE), autorizou, nesta sexta-feira (19), atividades presenciais na Igreja Família 61, em Boa Viagem, na Zona Sul do Recife, em meio às restrições do Governo do Estado para tentar reduzir o avanço da covid-19.</p></p>
+<p><p>“Afigura-se abusiva a medida proibitiva da atividade presencial do impetrante no culto religioso, em prédio próprio da “Igreja Família 61”, razão pela qual a atividade sacerdotal exercida pelo impetrante, assegurada constitucionalmente, deve ser permitida sem intervenção por parte do Estado, desde que atendidas as regras sanitárias estabelecidas pelas autoridades de saúde”, diz o desembargador.</p></p>
+<p><p>O impetrante do recurso foi o pastor evangélico Arthur de Araújo Neves Neto.</p></p>
+<p><p>“Determino garantia ao impetrante do pleno exercício de seu mister sacerdotal, podendo, para tanto, presidir cultos presenciais e exercer quaisquer atividades religiosas, observadas as regras sanitárias estabelecidas pelas autoridades governamentais para contenção da pandemia da COVID-19”, afirma o magistrado.</p></p>
+<p><p>A liberação ocorre com a condição de que essa igreja siga protocolos de prevenção à covid-19.</p></p>
+<p><p>Na decisão, o desembargador utilizou argumentos na contramão do que defendem os cientistas da área da saúde, defendeu o “tratamento precoce” da covid-19 e criticou a implantação de lockdown (bloqueio total).</p></p>
+<p><p>O <strong>Blog</strong> confirmou que a Procuradoria-Geral do Estado irá entrar com um recurso contra a decisão assim que for notificada pelo TJPE.</p></p>
+<p><h2>‘Perplexidade’</h2></p>
+<p><p>O desembargador se disse “perplexo” ao analisar o decreto de quarentena do Governo de Pernambuco. A medida restritiva está em vigor desde o dia 18 e segue até o dia 28 de março.</p></p>
+<p><p>“O último Decreto Estadual nos traz perplexidade quando analisado os setores que estão sujeitos às restrições. Setores altamente organizados, com medidas sanitárias adequadas têm tratamentos distintos”, afirma.</p></p>
+<p><p>“Cumpre ressaltar que o direito invocado pelo requerente é assegurado a todos nos termos dos artigos 5º, caput, e 6º, da Constituição Federal: “Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes: (…) II – ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei; (…) VI – é inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e a suas liturgias; VII – é assegurada, nos termos da lei, a prestação de assistência religiosa nas entidades civis e militares de internação coletiva; (…) LXIX – conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por ‘habeas-corpus’ ou ‘habeas-data’, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público; (…)””, cita o magistrado.</p></p>
+<p><p>“Pois bem, o decreto governamental nº 50.433, de 15 de março de 2021 estabelece medida impeditiva ao livre exercício do culto religioso em afronta a preceito constitucional pétreo. O livre exercício de cultos religiosos, como manifestação da liberdade religiosa, está expressamente assegurada, prevendo o dispositivo “… proteção aos locais de cultos e suas liturgias”.”, defende o desembargador.</p></p>
+<p><p>Para o Alexandre Guedes Alcoforado Assunção, o Governo de Pernambuco autorizou o funcionamento de atividades consideradas não essenciais e não liberou as igrejas.</p></p>
+<p><p>“A situação excepcionalíssima da pandemia não pode ser utilizada, ao argumento de que a medida é essencial à proteção à saúde, e em última análise, à vida, posto que no próprio decreto existem exceções, permitindo o funcionamento de setores não essenciais, que, diferentemente da atividade religiosa, não recebeu tratamento constitucional diferenciado”, afirma.</p></p>
+<p><p>“A realização de evento religioso com as medidas sanitárias adequadas, especialmente quanto ao número de fieis, para fazer o distanciamento apropriado, não se mostra mais danoso que outras atividades permitidas no decreto. Não se trata de desconhecer a situação grave de falta de leitos, mas de não ver na medida suporte constitucional ou científico que a justifique”, diz o desembargador.</p></p>
+<p><h2>‘Tratamento precoce evitar piora da covid-19’, diz desembargador</h2></p>
+<p><p>Além de citar os fundamentos ligados às atividades religiosas, na decisão, o desembargador Alexandre Guedes Alcoforado Assunção ainda teceu críticas ao lockdown, medida restritiva mais dura para frear a disseminação da covid-19, e fez defesa do tratamento precoce da doença.</p></p>
+<p><p>Até o momento, não há recomendação para tratamento precoce da covid-19. O único medicamento aprovado pela Anvisa (Agência Nacional de Vigilância Sanitária) contra a doença foi o Remdesivir, que deverá ser utilizado apenas em pacientes hospitalizados e não substitui a vacina.</p></p>
+<p><p>O desembargador ainda apontou trocas de farpas entre grupos políticos e disse, sem citar espectros ou lideranças, que um lado aponta negacionismo, enquanto o outro nega o tratamento precoce.</p></p>
+<p><p>“Por incrível que pareça a falta de consenso político passou desgraçadamente para o campo médico/científico.<br /></p>
+<p>Acusações cruzadas de “negacionismo”. Um grupo diz que o adversário nega a gravidade, a seriedade do vírus. O outro diz que o opositor nega a necessidade ou utilidade de tratamento precoce”, diz.</p></p>
+<p><p>Neste trecho da decisão o desembargador cita seis itens sobre o coronavírus e diz, sem base científica, que o tratamento precoce evitar a piora da doença.</p></p>
+<p><p>“Afastando-se das paixões políticas, é preciso ser dito: 1. O vírus é bastante sério, atingindo taxa de letalidade significativa em pessoas idosas e com comorbidades; 2. Medidas de distanciamento social e de higiene são importantíssimas; 3. É necessário estar com doenças crônicas, como hipertensão arterial e diabetes, controladas; 4. Deve-se cuidar do bem estar geral com exercícios físicos, sol e vitamina D em patamar adequado, melhorando o sistema imunológico; 5. A vacinação é indispensável; e, 6. Tratamento precoce evita a piora da doença”, afirma.</p></p>
+<p><p>O desembargador ainda disse que a ação do Estado em relação ao tratamento precoce está “deficiente”.</p></p>
+<p><p>“Não há lógica possível que sustente a idéia de que constatada uma doença, espere-se o seu agravamento para o início do tratamento. Não se trata do Estado Juiz ou do Estado Executivo receitar medicamentos, mas o Estado Executivo tem a obrigação de colocar à disposição dos médicos todos os medicamentos que o profissional entender necessário para a cura do paciente”, afirma.</p></p>
+<p><p>O desembargador ainda disse que os medicamentos utilizados para tratar a covid precocemente são “conhecidos e testados”, apesar de ainda não ter eficácia comprovada e não ser recomendado por cientistas da área da saúde.</p></p>
+<p><p> “Essa abordagem sim, diferente do que vem sendo feito, poderia impedir o agravamento do estado de saúde dos pacientes, ocasionando menos internações, liberando os leitos para aqueles que realmente precisam”, acrescenta.</p></p>
+<p><h2>‘Lockdown é cruel’, diz desembargador</h2></p>
+<p><p>Ainda em trecho da decisão, o desembargador Alexandre Guedes Alcoforado Assunção disse que o lockdown gera “efeitos cruéis” em países pobres.</p></p>
+<p><p>“O lockdown tem sido adotado em praticamente todo o mundo, mas seus resultados são bastante questionáveis, revelando-se cruel nos países pobres e em desenvolvimento, o que levou a Organização Mundial de Saúde – OMS reconhecer que não deveria ser adotado nesses países”, diz o desembargador, distorcendo o que cita o site da entidade.</p></p>
+<p><p>Em seu site, a OMS informa que reconhece a importância de lockdowns para frear a transmissão do coronavírus, tendo em vista que o contato entre pessoas é restringido. A organização aponta que em determinados momentos, alguns países “não tiveram opção a não ser decretar lockdowns para ganhar tempo”.</p></p>
+<p><p>A OMS ressalta que tais medidas têm um “impacto negativo profundo” nos indivíduos, comunidades e sociedades. E lembra que os mais afetados são os “mais pobres, imigrantes e refugiados, que dependem do trabalho do dia-a-dia para subsistir”. No entanto, termina dizendo que “espera que os países utilizem intervenções onde e quando forem necessárias, baseados na situação de cada local”.</p></p>
+<p><p><img class="alignleft size-full wp-image-238919" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2021/03/stf.jpg" alt="" width="257" height="1280" /></p></p>
+<p></div></p>
+<p></div></p>
+<p></div></p>
+<p></div></p>
+{% endraw %}

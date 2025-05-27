@@ -1,0 +1,26 @@
+---
+id: 15663618
+date: "2024-01-26T06:07:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "recife"
+  - "imposto"
+categories:
+  - "sem-categoria"
+title: "Terrenos da Marinha: Justi\u00e7a Federal determina mudan\u00e7as para c\u00e1lculo de taxas e exclus\u00e3o de im\u00f3veis no Recife"
+sutia: "Per\u00edcia realizada por determina\u00e7\u00e3o da Justi\u00e7a mostrou que a demarca\u00e7\u00e3o utilizada atualmente pela Secretaria de Patrim\u00f4nio da Uni\u00e3o (SPU) foi realizada em 1831, sem crit\u00e9rios t\u00e9cnicos"
+chapeu: "Impostos"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/09/14/img_20230914_wa0037-24297456.jpg"
+---
+{% raw %}
+<p>Menos uma espolia&ccedil;&atilde;o para a classe m&eacute;dia do Recife. Nesta quinta-feira (15), o juiz titular da 3&ordf; Vara Federal de Pernambuco, Frederico Jos&eacute; Pinto de Azevedo, proferiu senten&ccedil;a na qual extingue o processo movido pelo Minist&eacute;rio P&uacute;blico Federal, em 2007, que trata das irregularidades no procedimento de demarca&ccedil;&atilde;o e os excessos nos reajustes de foros e taxas de ocupa&ccedil;&atilde;o para im&oacute;veis localizados em terrenos da Marinha, no Recife.</p>
+<p>Na decis&atilde;o, o magistrado condena a Uni&atilde;o com base no laudo do perito designado pelo Ju&iacute;zo da 3&ordf; Vara, em 2010. De acordo com a per&iacute;cia realizada por determina&ccedil;&atilde;o da Justi&ccedil;a, a demarca&ccedil;&atilde;o utilizada atualmente pela <strong>Secretaria de Patrim&ocirc;nio da Uni&atilde;o (SPU) foi realizada em 1831, sem crit&eacute;rios t&eacute;cnicos.</strong></p>
+<p>Al&eacute;m disso, mudan&ccedil;as como o avan&ccedil;o do mar e aterramentos de muitas &aacute;reas, descaracterizaram a configura&ccedil;&atilde;o da linha preamar.</p>
+<p>&ldquo;Diga-se, a limine, que a extens&atilde;o das faixas marginais h&aacute; de ser contada da linha do preamar m&eacute;dio do ano de 1831 em dire&ccedil;&atilde;o &agrave; terra, na medida de 33 metros. Assim, tal m&eacute;todo, como demonstrado, sen&atilde;o impratic&aacute;vel, &eacute; de dif&iacute;cil aplica&ccedil;&atilde;o. A dificuldade criada pela utiliza&ccedil;&atilde;o da linha da preamar m&eacute;dia do ano de 1831 culmina na utiliza&ccedil;&atilde;o de crit&eacute;rios - afora os legais - tomando-se por p&uacute;blico o que &eacute; particular. Em suma: &eacute; poss&iacute;vel afirmar com grau satisfat&oacute;rio de certeza que os terrenos de marinha localizados na zona costeira brasileira encontram-se submersos, ante o avan&ccedil;o do n&iacute;vel do mar, <strong>sendo ilegais cobran&ccedil;as de foro, laud&ecirc;mio ou taxa de ocupa&ccedil;&atilde;o destes im&oacute;veis&rdquo;, esclarece a per&iacute;cia.</strong></p>
+<p>A senten&ccedil;a determina, ainda, que Uni&atilde;o dever&aacute;: &ldquo;respeitar a linha preamar m&eacute;dia (com &aacute;rea de influ&ecirc;ncia da mar&eacute;) fixada na per&iacute;cia ou os crit&eacute;rios t&eacute;cnico-cient&iacute;ficos para demarca&ccedil;&atilde;o dos terrenos de marinha nela definidos; excluir do cadastro dos bens de marinha e acrescidos as &aacute;reas hoje demarcadas e que n&atilde;o sejam como tal reconhecidas na per&iacute;cia ou que n&atilde;o se enquadrem nos crit&eacute;rios nela definidos, abstendo-se da utiliza&ccedil;&atilde;o de mera presun&ccedil;&atilde;o ou outros dados que n&atilde;o atestem a real localiza&ccedil;&atilde;o geod&eacute;sica da linha de preamar m&eacute;dia 1831; anular os registros de im&oacute;veis na GRPU em que n&atilde;o se tenha comprovado pela per&iacute;cia que se encontrem sob a influ&ecirc;ncia da mar&eacute; relativamente &agrave; posi&ccedil;&atilde;o da LPM/1831&rdquo;.<br /> <br />J&aacute; nas &aacute;reas em que a prova t&eacute;cnica ateste a influ&ecirc;ncia das mar&eacute;s, dever&atilde;o ser inclu&iacute;dos no cadastro apenas as situadas na faixa de 33 metros da LPM/1831 nela fixada.</p>
+<p>Tamb&eacute;m dever&atilde;o ser anulados os processos demarcat&oacute;rios em que os interessados certos n&atilde;o foram notificados pessoalmente, na forma da interpreta&ccedil;&atilde;o conforme a Constitui&ccedil;&atilde;o do art. 11 do DL n.&ordm; 9.760/46; anular as cobran&ccedil;as dos foros e taxas de ocupa&ccedil;&atilde;o reajustadas com amparo na atualiza&ccedil;&atilde;o (a partir de 2004) do valor de mercado do dom&iacute;nio pleno, procedendo-se a cobran&ccedil;a com esteio na atualiza&ccedil;&atilde;o monet&aacute;ria dos foros e taxas ent&atilde;o vigentes.</p>
+<h2>N&atilde;o vale para novas cess&otilde;es</h2>
+<p>O magistrado ressalva que esta condena&ccedil;&atilde;o n&atilde;o alcan&ccedil;a o c&aacute;lculo das novas cess&otilde;es, cujo valor inicial dos foros e taxas de ocupa&ccedil;&atilde;o dever&atilde;o ser fixados de acordo com o valor de mercado atualizado do dom&iacute;nio pleno, efetuando-se os reajustes subsequentes pela atualiza&ccedil;&atilde;o monet&aacute;ria.<br /></p>
+{% endraw %}

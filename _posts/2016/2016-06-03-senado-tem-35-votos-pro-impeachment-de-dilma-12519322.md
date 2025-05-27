@@ -1,0 +1,45 @@
+---
+id: 12519322
+date: "2016-06-03T08:27:53Z"
+last_modified_at: null
+tags:
+  - "dilma"
+  - "impeachment"
+  - "pros"
+  - "senado"
+  - "votos-nulos"
+categories:
+  - "noticias"
+title: "Senado tem 35 votos pr\u00f3-impeachment de Dilma"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><img class="size-full wp-image-148260" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/06/Dilma-Rousseff.jpg" alt="Foto: Lucio Bernardo Jr./ Câmara dos Deputados" width="580" height="500" /> Foto: Lucio Bernardo Jr./ Câmara dos Deputados</p>
+<p><em>Estadão Conteúdo -</em> Dos <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiixfr33YvNAhXImx4KHajWCM0QFggcMAA&amp;url=http%3A%2F%2Fblogs.ne10.uol.com.br%2Fjamildo%2F2016%2F05%2F12%2Fpor-55-votos-22-senado-abre-impeachment-e-dilma-e-afastada%2F&amp;usg=AFQjCNEX8a6JwS_hti7SxFiuPw3yFWQuTQ&amp;bvm=bv.123664746,d.dmo" data-href="https://blogs.ne10.uol.com.br/jamildo/2016/05/12/por-55-votos-22-senado-abre-impeachment-e-dilma-e-afastada/">55 senadores que votaram a favor da admissibilidade do processo de impeachment de Dilma Rousseff em maio, 12 parlamentares, agora, manifestam-se como indecisos </a>ou evitam tornar público seu posicionamento. É o que mostra o Placar do Impeachment no Senado, que volta a ser publicado diariamente pelo jornal O Estado de S. Paulo.</p>
+<p><strong>LEIA MAIS:</strong></p>
+<p>» <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiixfr33YvNAhXImx4KHajWCM0QFggcMAA&amp;url=http%3A%2F%2Fblogs.ne10.uol.com.br%2Fjamildo%2F2016%2F05%2F12%2Fpor-55-votos-22-senado-abre-impeachment-e-dilma-e-afastada%2F&amp;usg=AFQjCNEX8a6JwS_hti7SxFiuPw3yFWQuTQ&amp;bvm=bv.123664746,d.dmo" data-href="https://blogs.ne10.uol.com.br/jamildo/2016/05/12/por-55-votos-22-senado-abre-impeachment-e-dilma-e-afastada/">Por 55 votos a 22, Senado abre impeachment e Dilma é afastada</a></p>
+<p>» <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwis_KXr3YvNAhVCHR4KHchzAhMQFggcMAA&amp;url=http%3A%2F%2Fblogs.ne10.uol.com.br%2Fjamildo%2F2016%2F04%2F17%2Fvoto-pernambucano-sacramenta-impeachment-de-dilma-rousseff%2F&amp;usg=AFQjCNHPI-72pkaBLPItkPmMVCnRDUvkjA&amp;bvm=bv.123664746,d.dmo" data-href="https://blogs.ne10.uol.com.br/jamildo/2016/04/17/voto-pernambucano-sacramenta-impeachment-de-dilma-rousseff/">Voto pernambucano sacramenta impeachment de Dilma Rousseff</a></p>
+<p>» <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiB8P3x3YvNAhXCWx4KHTAVBpoQFggcMAA&amp;url=http%3A%2F%2Fblogs.ne10.uol.com.br%2Fjamildo%2F2016%2F04%2F17%2Ftemer-e-cunha-impoem-derrota-a-dilma-impeachment-e-aprovado-na-camara-dos-deputados%2F&amp;usg=AFQjCNHW2OFM3pE-znf8S-G2BQbg6U_LcQ&amp;bvm=bv.123664746,d.dmo" data-href="https://blogs.ne10.uol.com.br/jamildo/2016/04/17/temer-e-cunha-impoem-derrota-a-dilma-impeachment-e-aprovado-na-camara-dos-deputados/">Temer e Cunha impõem derrota a Dilma. Impeachment é aprovado na Câmara</a></p>
+<p>O placar registra, <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwis_KXr3YvNAhVCHR4KHchzAhMQFggcMAA&amp;url=http%3A%2F%2Fblogs.ne10.uol.com.br%2Fjamildo%2F2016%2F04%2F17%2Fvoto-pernambucano-sacramenta-impeachment-de-dilma-rousseff%2F&amp;usg=AFQjCNHPI-72pkaBLPItkPmMVCnRDUvkjA&amp;bvm=bv.123664746,d.dmo" data-href="https://blogs.ne10.uol.com.br/jamildo/2016/04/17/voto-pernambucano-sacramenta-impeachment-de-dilma-rousseff/">no grupo "indeciso/não quis responder", 19 senadores - além dos 12 que votaram a favor do impeachment,</a> três foram contra e três não votaram na sessão de 12 de maio que resultou no afastamento da petista.</p>
+<p>Este grupo será o fiel da balança na votação que pode ocorrer em julho ou agosto - o cronograma do julgamento no Senado que vai decidir sobre a perda ou não do mandato da petista ainda está em discussão -, uma vez que 53 senadores já tornaram público seu posicionamento e disseram que pretendem mantê-lo.</p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/11/em-discurso-armando-defende-revisao-da-lei-do-impeachment/">Em discurso, Armando defende revisão da lei do impeachment</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/12/humberto-costa-diz-que-pt-vai-para-a-oposicao-mas-voltara-pela-porta-da-frente/">Humberto Costa diz que PT vai para a oposição, mas voltará pela porta da frente</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/12/ex-ministro-de-dilma-fernando-bezerra-coelho-diz-que-ela-tentou-mascarar-contabilidade-publica/">Ex-ministro de Dilma, Fernando Bezerra Coelho diz que ela tentou mascarar contabilidade pública</a></p>
+<p>Até a <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/11/em-discurso-armando-defende-revisao-da-lei-do-impeachment/">conclusão desta matéria, o placar contabilizava 35 votos favoráveis ao impeachment e 18 contrários. </a>Nove parlamentares não foram localizados. Para o afastamento definitivo de Dilma, são necessários 54 votos favoráveis dos 81 senadores.</p>
+<p>Dos <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/31/senadores-ja-admitem-rever-voto-pelo-impeachment-de-dilma/" rel="bookmark">22 senadores que votaram contra o impeachment, três, agora, </a>estão no grupo "indeciso/não quis responder".</p>
+<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/31/senadores-ja-admitem-rever-voto-pelo-impeachment-de-dilma/" rel="bookmark">Senadores já admitem rever voto pelo impeachment de Dilma</a></p>
+<p>&gt;&gt;<b> </b><a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/02/esperancoso-silvio-costa-conversa-com-romario-sobre-impeachment/" rel="bookmark">Esperançoso, Sílvio Costa conversa com Romário sobre impeachment</a></p>
+<p><h2><b>'Ambiente'</b></h2></p>
+<p>Representantes do grupo que votou a favor do impeachment em maio e, agora, migrou para a opção "indeciso/não quis responder", os senadores Romário (PSB-RJ), Wellington Fagundes (PR-MT), Cristovam Buarque (PPS-DF) e Roberto Rocha (PSB-MA) afirmaram que vão "aguardar os desdobramentos dos acontecimentos" antes de decidir.</p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/11/fernando-collor-afastado-em-1992-deixa-em-aberto-seu-voto/">Fernando Collor, afastado em 1992, deixa em aberto seu voto</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/12/ex-cara-pintada-lindbergh-farias-volta-a-cena-em-papel-invertido-no-impeachment/">Ex-cara pintada Lindbergh Farias volta à cena em papel invertido no impeachment</a></p>
+<p>Isso, segundo Cristovam, passa não só pelo julgamento técnico do processo, mas pela análise do ambiente político do presidente em exercício Michel Temer. O senador do PPS, que desde maio diz que votou pela admissibilidade do impeachment, mas vai analisar o processo antes de formar opinião sobre o mérito, afirma que há diferenças cruciais entre a votação de maio e a que está por vir "Agora vamos analisar se há constatação de crimes e isso não é votar, é julgar."</p>
+<p>Para Cristovam, se, em maio, foi levado em conta o "conjunto da obra" de Dilma, ou seja, fatos alheios ao que consta na denúncia, na votação definitiva será considerado também o "conjunto da obra" de Temer. "Além do afastamento, o Senado vai decidir se Temer fica ou não. A questão será decidida por diferença de um ou dois votos."</p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/11/roberto-requiao-preve-caos-com-modelo-economico-de-michel-temer/">Roberto Requião prevê caos com modelo econômico de Michel Temer</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/11/rival-de-dilma-na-ultima-eleicao-aecio-chama-dilma-de-populista-e-irresponsavel/">Rival de Dilma na última eleição, Aécio chama governo de populista e irresponsável</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/11/com-a-forca-do-povo-uma-republica-de-novo-ironiza-cassio-cunha-lima-no-senado/">“Com a força do povo, uma República de novo”, ironiza Cássio Cunha Lima no Senado</a></p>
+<p>A composição atual do Senado é diferente da que votou em maio, com volta de parlamentares e entrada de suplentes. Mas a possibilidade de alteração do placar é pequena. Substituto de Marcelo Crivella (PRB-RJ), que vai disputar a prefeitura do Rio e votou pelo afastamento em maio, Eduardo Lopes (PRB-RJ) não quis revelar seu voto, mas disse que "o parecer do partido aponta para ocorrência da pedalada". As informações são do jornal <b>O Estado de S. Paulo.</b></p>
+{% endraw %}

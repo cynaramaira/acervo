@@ -1,0 +1,25 @@
+---
+id: 12592589
+date: "2019-10-31T10:20:34Z"
+last_modified_at: null
+tags:
+  - "privatizacoes"
+categories:
+  - "noticias"
+title: "Valor justo em privatiza\u00e7\u00f5es"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/04/paulo-guedes-ccj-4.jpg"
+---
+{% raw %}
+<p><p>Por Fernando Dias Cabral, em artigo enviado ao blog</p></p>
+<p><p>Quando o assunto é privatização, parece não haver dúvidas, todos querem a mesma coisa: o redimensionamento do tamanho do governo. Empresas públicas deficitárias, desserviços e casos de corrupção são alguns poucos exemplos que justificam o desejo coletivo. Não importa se a desestatização será via privatização, concessão ou PPP (public-private partnership); Para a maioria, ela precisa ocorrer. A venda de uma instituição pública, porém, abre caminho para um debate sem solução: qual o valor justo destas empresas?</p></p>
+<p><p>No radar estão 119 projetos federais, 56 em vias de concessão e 16 privatizações, incluindo empresas importantes como os Correios, Infraero e Telebrás. Os restantes ainda estão em fase de estudos e sem cronograma definido, pois dependem do aval do congresso. De maneira geral, a prática atual de privatizações pode ser dividida em duas etapas: elaboração de laudo de avaliação e oferta pública em leilão. A primeira consiste em trabalhos de consultoria especializada em valuation, que reconhecem, por meio de premissas, o potencial de geração de caixa. Posteriormente, na segunda etapa, no limite dos valores apresentados no laudo, estabelecem como piso o maior valor. Em parte, essa conduta pode ser explicada porque, via de regra, o setor público exige o melhor preço, transparência e garantia de prestação de serviços, entre outros fatores.</p></p>
+<p><p>Nesses moldes, a alienação ou a concessão de uma empresa pública se torna fruto de um leilão pernicioso, onde o reconhecimento do valor justo é ofuscado pelo temor do quanto o concorrente está disposto a pagar. Sobretudo se este concorrente for capaz de obter vantagens estratégicas perante os outros. Então, para não perder, inicia-se uma espécie de “vale tudo” em que o preço proposto (por vezes) supera a viabilidade econômica para o ofertante. A quantidade de interessados e a incerteza do valor resulta, no que se chama, de fenômeno “maldição do vencedor”, que é quando paga-se mais do que o ativo realmente vale.</p></p>
+<p><p>Um caso emblemático conhecido é a concessão do aeroporto de Viracopos controlada pela Triunfo e UTC Participações. Na época, pagaram R$3,82 bilhões (ágio de 159%) em relação ao mínimo estabelecido de R$1,47 bilhão. O segundo maior lance foi de R$2,52 bilhões. Valeu a pena? Hoje eles estão tentando uma recuperação judicial com dívida próxima de R$2,88 bilhões. Motivos não faltam, vão desde a frustração pela demanda fraca de passageiros e carga até questões ligadas ao fraco desempenho econômico.</p></p>
+<p><p>Frente ao exposto, nota-se que os dois lados fracassam, o governo e a empresa. Aparentemente, o governo sai vitorioso recebendo o melhor preço, mas perde quando tenta cumprir seu papel social. E as empresas, amaldiçoadas pela sua vitória, quando reconhecem as perdas, tendem a tomar medidas amargas que não contribuem para a melhoria dos serviços aos cidadãos. Deste modo, buscam caminhos para cortar custos ou aumentar preços na tentativa de recuperar as perdas. O resultado? A sociedade perde na qualidade dos serviços ou sofre com o abuso de preços.</p></p>
+<p><p>Obviamente, não se pode vender empresas públicas da mesma forma como se vende empresas privadas. Em leilão privado objetiva-se a máxima dos ganhos aos acionistas e, se naufragar para quem comprou, outros ocuparão seu papel. No caso de empresas públicas privatizadas, mesmo não sendo estas de segurança nacional ou voltadas para o interesse social, se inviabilizadas economicamente, afetam a vida do cidadão comum e a imagem dos órgãos públicos.</p></p>
+<p><p>Por fim, parece claro que a forma de condução das desestatizações caminha de maneira errada. Do lado privado, caberia aos investidores interessados analisar de maneira mais profunda qual o valor justo limite, sem perder o foco e o propósito estratégico do negócio. Já ao governo seria mais prudente se conduzisse o leilão estabelecendo uma relação entre remuneração fixa e variável, sendo parte do pagamento fixo com base no piso da avaliação mais uma remuneração variável, com prêmio anual de longo prazo medido por desempenho, garantindo assim ao vencedor a manutenção das operações e à sociedade um serviço de qualidade. Afinal, o valor piso em leilão já é a máxima do valuation.</p></p>
+<p><p>Fernando Dias Cabral é bacharel em Administração de Empresas pela UNAERP com especialização em Controladoria e Finanças pela Fundace/Fea – USP Ribeirão Preto. Lançou recentemente a obra Avaliação de empresas – e os desafios que vão além do Fair Value, pela Lura Editorial.</p></p>
+{% endraw %}

@@ -1,0 +1,26 @@
+---
+id: 12602623
+date: "2020-08-17T18:00:20Z"
+last_modified_at: null
+tags:
+  - "pernambucano"
+  - "varejo"
+categories:
+  - "noticias"
+title: "Varejo pernambucano volta a crescer em junho"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/05/como-aumentar-as-vendas-no-varejo.jpg"
+---
+{% raw %}
+<p><p>Segundo a Pesquisa Mensal do Comércio (PMC) do IBGE, o volume das vendas do Varejo pernambucano voltou a mostrar crescimento em junho, apresentando mais uma alta significativa comparado ao mês anterior e confirmando o início do movimento de recuperação dos prejuízos impostos pelo período mais intenso de isolamento social e restrição do comércio. A taxa mostrou variação positiva de 10,32% no indicador mês, confirmando que abril foi de fato o fundo do poço para as vendas do comércio e que a recuperação nos meses seguintes está clara.</p></p>
+<p><p>Para a entidade, o número surpreende de maneira positiva mais uma vez, pois a intensidade do crescimento das vendas foi elevada em meio a conjuntura difícil do consumo das famílias. Um dos pontos positivos foi o início da abertura do comércio no Estado de Pernambuco, possibilitando que as vendas dos estabelecimentos comerciais considerados não essenciais pudessem ser realizadas também pelo canal físico.</p></p>
+<p><p>De acordo com a entidade, diferentemente do crescimento de maio, onde a variação está sendo realizada em cima de uma base muito deteriorada pela intensidade da queda de abril e de março, o desempenho de junho foi em cima de uma base em melhor situação.</p></p>
+<p><p>Também em junho a comemoração do Dia dos Namorados e dos Festejos Juninos é outro fator que acaba gerando um maior nível de consumo quando comparado com o mês anterior, que apesar de ter uma data importante foi comemorada em uma conjuntura econômica mais crítica.</p></p>
+<p><p>Segundo a entidade, a expectativa em relação a uma desaceleração do crescimento do volume de vendas era ancorada no atual cenário imposto pela pandemia da covid19, que continua desacelerando o consumo das famílias, principalmente devido a continuidade da deterioração do mercado de trabalho formal e informal. Além disso, alto nível de endividamento das famílias também age como limitador do poder de consumo da população, restringindo o orçamento e impedindo um nível de consumo maior.</p></p>
+<p><p>A política de incentivo a manutenção do consumo das famílias criada pelo governo federal se mostrou mais efetiva em junho, visto que grande parte dos beneficiados já haviam recebido ao menos a primeira parcela do benefício e outras milhares de famílias haviam sido aprovadas para iniciar a receber o recurso. Lembrando que o Auxílio Emergencial é um benefício financeiro pago pelo Governo Federal para garantir uma renda mínima aos brasileiros em situação de vulnerabilidade social, durante o período de emergência de saúde pública decorrente do novo coronavírus (Covid-19), previsto na Lei nº 13.982, de 2 de abril de 2020. Em Pernambuco foram injetados mais de R$ 6,7 bilhões de reais, o que somado aos demais benefícios como o Bolsa Família e o BPC, deu condições para que o consumo fosse superior aos meses de março e abril. Pernambuco foi o quarto estado do país que mais recebeu recursos do auxílio, ficando atrás apenas de São Paulo, Minas Gerais e Bahia.</p></p>
+<p><p>O desempenho estadual mostrou mais intensidade que o nacional, que cresceu 7,98%, sinalizando uma demanda pernambucana em junho mais aquecida que a média do país, o que pode ser justificado pela força da comemoração dos Festejos Juninos, que apesar da pandemia ainda mostra-se forte quando comparado com a maioria dos estados. Este é o melhor resultado para os meses de junho desde o início da série, resultado do efeito da variação em cima de uma base em menor nível do que nos anos anteriores e de um consumo mais firme das famílias em meio ao isolamento.</p></p>
+<p><p>O Varejo Ampliado pernambucano, setor que agrega todos os índices do Varejo mais as atividades de "Veículos, motocicletas, partes e peças" e "Material de construção", também respondeu de maneira forte aos incentivos do consumo gerados pelo governo. As vendas no indicador mês subiram 16,13%, apresentando maior intensidade do que o restrito. Lembrando que a necessidade de estar em casa incentivou as reformas residenciais e os reparos, atividades que puxam o setor de material de construção e contribuiu para que a alta fosse mais intensa que o Varejo Restrito.</p></p>
+<p><p>Quando comparado com o mesmo período do ano anterior, o volume de vendas pernambucano continua recuando, porém de forma menos intensa que nos dois meses anteriores, atingido os -6,4% em junho. No ano as vendas ainda acumulam queda de 7,8%, já em 12 meses o recuo alcança os 2,7%. Os números mostram que as projeções extremamente negativas para o desempenho do setor feitas em abril e maio podem não se confirmar, visto que o volume de vendas a cada mês mostra-se menos deteriorado.</p></p>
+{% endraw %}

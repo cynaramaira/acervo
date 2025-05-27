@@ -1,0 +1,41 @@
+---
+id: 12551489
+date: "2017-05-25T17:20:53Z"
+last_modified_at: null
+tags:
+  - "contran"
+  - "escolas"
+categories:
+  - "noticias"
+title: "Janot pede ao STF para barrar lei contra identidade de g\u00eanero em escolas"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/11/janot.jpg"
+---
+{% raw %}
+<p><p>O procurador-geral da República, Rodrigo Janot, questionou no Supremo Tribunal Federal (STF) uma lei municipal de Novo Gama, em Goiás, que proíbe o uso de material didático que aborde diversidade de gênero nas escolas da cidade. Para Janot, o tema deveria ser regulado pela União, que tem atribuição de regular as bases nacionais de ensino. O chefe do Ministério Público Federal (MPF) também considerou que a lei contraria princípios constitucionais como igualdade de gênero, o direito à educação plural e democrática e a laicidade do Estado.</p></p>
+<p><p>Janot contestou a proibição municipal na Arguição de Descumprimento de Preceito Fundamental (ADPF) de número 457, protocolada na Corte nessa segunda-feira (22), sem alarde. O pedido é para que o Supremo suspenda de imediato, em liminar, os efeitos da lei municipal.</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/01/camara-do-recife-ainda-tem-projeto-para-proibir-diversidade-sexual-em-livros/">Câmara do Recife ainda tem projeto para proibir diversidade sexual em livros</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/10/relatora-teresa-leitao-diz-que-pl-para-proibir-livros-sobre-genero-nas-escolas-e-inconstitucional/">Relatora, Teresa Leitão diz que PL para proibir livros sobre gênero nas escolas é inconstitucional</a></p></p>
+<p><p><iframe style="width: 315px; float: left; margin: 0 20px 20px 0; border: 0; height: 600px;" src="https://produtos.ne10.uol.com.br/enquete/enquete/o-que-voce-acha-da-proibicao-de-livros-que-abordem-diversidade-sexual-e-identidade-de-genero,index.html" width="300" height="150"></iframe></p></p>
+<p><p>O procurador-geral prevê que a proibição desse material didático pode provocar censura. "Tratar do gênero como realidade humana, inclusive nas escolas, não implica nem deve implicar interferências na individualidade dos alunos, muito menos iniciação em práticas sexuais. A abordagem, como se verá, bem ao contrário, deve servir para expandir a cultura de respeito à diversidade e aos direitos fundamentais de todos", argumenta.</p></p>
+<p><p>A ação questiona também o termo "identidade de gênero", usado na lei municipal, e aponta que ele serve como disfarce para vedar qualquer abordagem educativa distinta da orientação sexual heteroafetiva.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/22/projeto-que-cria-conselho-municipal-lgbt-e-rejeitado-na-camara-do-recife/">Projeto que cria ‘Conselho Municipal LGBT’ é rejeitado na Câmara do Recife</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/23/maria-do-ceu-repudia-votos-homofobicos-que-barraram-criacao-do-conselho-lgbt-no-recife/">Maria do Céu repudia ‘votos homofóbicos’ que barraram criação do conselho LGBT no Recife</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/23/no-recife-pps-ameaca-vereador-que-votou-contra-criacao-do-conselho-lgbt/">No Recife, PPS ameaça vereador que votou contra criação do Conselho LGBT</a></p></p>
+<p><p>"Ao proibir uso e veiculação de material didático que contenha 'ideologia de gênero', a lei tenta driblar a discriminação latente da população LGBT e a simples discussão sobre gênero e sexualidade, o que parece ser o seu principal intento", diz o texto. "A ausência de representação de gênero em materiais didáticos e nas atividades didáticas reforça esse cenário e inverte o papel da escola, que deixa de ser espaço de acolhimento e respeito para se transformar em mais um locus de sofrimento e violência para a população LGBT, provocando evasão escolar, marginalização, entre outras formas de violência."</p></p>
+<p><h2>Polêmica no Recife</h2></p>
+<p><p>Na capital pernambucana, está em tramitação na Câmara um projeto de lei semelhante, de autoria do vereador Carlos Gueiros (PSB), contrário a trechos de um livro de ciências distribuído pelo Ministério da Educação para alunos do 5º ano do ensino fundamental, em que a idade regular é de 10 anos. Além do questionamento do socialista, o material foi alvo de dois requerimentos de Luiz Eustáquio, evangélico da Assembleia de Deus e também do PSB, com o mesmo objetivo.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/20/nao-ideologia-de-genero-diz-vereadora-aimee-sobre-encontro-com-fatima-bernardes/">“Não à ideologia de gênero!”, diz vereadora Aimée sobre Encontro com Fátima Bernardes</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/04/24/depois-de-michele-collins-irma-aimee-sai-em-defesa-de-cultos-na-camara-do-recife/">Depois de Michele Collins, Irmã Aimée sai em defesa de cultos e da Bíblia na Câmara do Recife</a></p></p>
+<p><p>Dois parágrafos são contestados pelos parlamentares no material didático: um destacando que "faz parte da sexualidade conhecer a si mesmo e aos outros, e os comportamentos que estão relacionados à identidade sexual" e a explicação do termo ‘identidade sexual’ como "identificar-se com o sexo masculino ou com o sexo feminino". O terceiro trecho alvo dos vereadores é: “Entre os relacionamentos conjugais, existem casais formados por um homem e uma mulher e casais formados por pessoas do mesmo sexo”, ao lado de uma foto de família formada por mãe, pai, uma menina e um garotinho, o único negro do grupo.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/12/20/michele-collins-diz-que-camara-tambem-e-casa-onde-ha-espaco-para-deus/">Michele Collins diz que Câmara “também é casa onde há espaço para Deus”</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/31/vereador-de-caruaru-defende-fim-da-rotina-de-ler-salmos-biblicos/">Vereador de Caruaru defende fim da rotina de ler salmos bíblicos na Câmara</a></p></p>
+<p><p>Havia um projeto de lei tentando fazer a mesma proibição na Assembleia Legislativa de Pernambuco (Alepe), mas a pauta sequer passou da Comissão de Constituição e Justiça (CCJ). A relatora no colegiado, Teresa Leitão (PT), ressaltou que o artigo 5º da Constituição Federal diz que todos são iguais perante a lei e que o projeto "visa impedir as escolas, nas figuras de seus educadores, de colocar em prática exatamente esta igualdade".</p></p>
+<p><p>Em Rondônia, o Ministério Público estadual afirmou que medidas como essa "disseminam o ódio contra os homossexuais e ferem de morte o fundamento constitucional da promoção da igualdade". Lá, foi aberto um procedimento administrativo contra o ex-prefeito da cidade de Ariquemes Lorival Amorim (PDT) e o seu sucessor, Thiago Flores (PMDB). O peemedebista chegou a mandar retirar de livros enviados pelo Ministério da Educação as páginas que tratem de identidade de gênero e o anterior recolheu o material.</p></p>
+<p><p>» <strong>Leia o pedido de Janot ao STF</strong></p></p>
+<p><p><iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/KR4z2n8fCPWuSh" width="100%" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p></p>
+<p><div style="margin-bottom: 5px;"><strong> <a title="Janot pede ao STF para barrar lei contra identidade de gênero em escolas" href="//www.slideshare.net/JCOnLine/janot-pede-ao-stf-para-barrar-lei-contra-identidade-de-gnero-em-escolas" target="_blank" rel="noopener noreferrer">Janot pede ao STF para barrar lei contra identidade de gênero em escolas</a> </strong> from <strong><a href="https://www.slideshare.net/JCOnLine" target="_blank" rel="noopener noreferrer">Portal NE10</a></strong></div></p>
+{% endraw %}

@@ -1,0 +1,44 @@
+---
+id: 12579021
+date: "2018-12-13T06:49:50Z"
+last_modified_at: null
+tags:
+  - "bolsonaro"
+  - "casos"
+categories:
+  - "noticias"
+title: "Valor 'irris\u00f3rio' isenta Bolsonaro em caso de ex-assessor, diz general Heleno"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/12/general-heleno.jpg"
+---
+{% raw %}
+<p><p><em>Estadão Conteúdo</em> - O general da reserva Augusto Heleno Ribeiro Pereira, futuro ministro-chefe do Gabinete de Segurança Institucional (GSI), isentou o presidente eleito Jair Bolsonaro (PSL) de responsabilidade no caso das movimentações financeiras "atípicas" de um ex-assessor do deputado estadual e senador eleito Flávio Bolsonaro (PSL-RJ). "O presidente tá isento disso aí porque não teve participação. O que apareceu dele é irrisório, uma quantia pequena, e ele mesmo já explicou. Acredito que não vá atingi-lo", disse Heleno em entrevista exibida na madrugada desta quinta-feira (13) pelo programa Conversa com o Bial, da TV Globo.</p></p>
+<p><p>O jornal O Estado de S.Paulo revelou, há uma semana, que Fabrício de Queiroz movimentou R$ 1,2 milhão no período de um ano, enquanto servia como assessor e motorista no gabinete de Flávio Bolsonaro, filho do presidente eleito, na Assembleia Legislativa do Rio. A movimentação na conta de Queiroz foi considerada "atípica" pelo Conselho de Controle de Atividades Financeiras (Coaf). Na entrevista, Heleno ironizou a participação do órgão no caso. "Eu fico muito feliz que o Coaf tenha se manifestado, porque ficou em silêncio durante muitos anos, né. Tomara que ele seja mais ativo, que não deixe sair bilhões de dólares do país sem ninguém saber."</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/12/12/depositos-a-ex-motorista-de-flavio-bolsonaro-seguiam-dia-de-salario/">Depósitos a ex-motorista de Flávio Bolsonaro seguiam dia de salário</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/12/12/onyx-defende-investigacao-sobre-conta-de-assessor-de-flavio-bolsonaro/">Onyx defende investigação sobre conta de assessor de Flávio Bolsonaro</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/12/09/queiroz-e-quem-tem-de-explicar-depositos-relatados-por-coaf-diz-bolsonaro/">‘Queiroz é quem tem de explicar depósitos relatados por Coaf’, diz Bolsonaro</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/12/08/bolsonaro-diz-que-parlamentares-presos-no-rj-vazaram-informacoes-do-coaf/">Bolsonaro diz que parlamentares presos no RJ vazaram informações do Coaf</a></p></p>
+<p><p>Sobre a resolução do caso, o general disse estar "aguardando os acontecimentos" e os esclarecimentos dos "personagens principais" envolvidos. "Os responsáveis vão ter que assumir a culpa. Se houver alguma penalidade, vão ser submetidos a essa penalidade", afirmou Heleno. Dentre os depósitos realizados por Queiroz está um de R$ 24 mil para a futura primeira-dama, Michelle Bolsonaro. O presidente eleito afirmou que o repasse se deve ao pagamento de um empréstimo que fez ao ex-assessor, no valor total de R$ 40 mil.</p></p>
+<p><h2>Direitos Humanos</h2></p>
+<p><p>Na entrevista à TV Globo, Heleno também comentou uma declaração recente sua, de que "direitos humanos são basicamente para humanos direitos": "Se eu tenho limitação em proporcionar direitos humanos, e temos essas limitações, porque somos um país ainda economicamente enfraquecido, moralmente enfraquecido, socialmente enfraquecido. Se eu tiver que canalizar o meu esforço de proporcionar direitos humanos pra alguém, entre o cidadão que trabalha, sai de casa às seis horas da manhã, volta às dez da noite, encara um transporte público terrível, sofre todos os tipos de limitações na sua vida diária... Ele tem muito mais direito a ser pleno de direitos humanos do que um sujeito que é bandido, que está assaltando esse sujeito o meio da rua", disse Heleno. "O que a gente reclama é que muitas organizações de direitos humanos não vão no enterro do policial e vão chorar no enterro do bandido. Isso é uma distorção dos direitos humanos "</p></p>
+<p><h2>Violência</h2></p>
+<p><p>Heleno ainda defendeu a proposta do governador eleito do Rio, Wilson Witzel (PSC), de "abater" com tiros disparados por atiradores de elite traficantes que estiverem portando fuzis. "A ideia dessa regra de engajamento é dissuasória. Ou seja: eu quero desencorajar o sujeito de andar no meio de uma população inocente, onde há crianças, senhoras. Com que direito ele porta esse fuzil, debocha das forças legais, quando aquilo é um alto risco para inocentes?"</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/12/07/onyx-abandona-coletiva-apos-perguntas-sobre-caixa-2-e-coaf/">Onyx abandona coletiva após perguntas sobre caixa 2 e Coaf</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/12/07/relatorio-do-coaf-cita-ex-servidora-de-jair-bolsonaro/">Relatório do Coaf cita ex-servidora de Jair Bolsonaro</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/12/06/coaf-relata-movimentacao-atipica-de-ex-assessor-de-flavio-bolsonaro/">Coaf relata movimentação atípica de ex-assessor de Flávio Bolsonaro</a></p></p>
+<p><h2>Desarmamento</h2></p>
+<p><p>Sobre a proposta da gestão Bolsonaro de facilitar o acesso da população às armas de fogo, Heleno disse que a restrição ao porte "não tem levado a nada", já que ocorrem mais de 60 mil homicídios no Brasil por ano. O general ainda fez uma analogia das armas com os automóveis, que também provocam milhares de mortes todos os anos. "Automóvel é uma arma na mão de quem não está habilitado. Vamos proibir o automóvel?"</p></p>
+<p><p>Para Heleno, possuir uma arma em casa é uma atitude dissuasória, que pode desencorajar os crimes. "Esse é um tema polêmico, eu concordo que é polêmico. Se levar pra um extremo, o cara vai dizer que vai sair todo mundo atirando em todo mundo. Então marido e mulher vão se matar em casa, qualquer briguinha... O cara vai pegar a arma e matar. Pô, então não vai ter faca mais em casa. Vamos dar dentada na maminha?"</p></p>
+<p><p>Sobre a carnificina ocorrida na Catedral de Campinas (SP) na terça-feira, 11, quando um homem abriu fogo e matou cinco pessoas, Heleno afirmou se tratar de uma "situação extraordinária". "É o caso típico: a arma tava raspada. (...) Ele não comprou essa arma legalmente. O porte ilegal é muito mais perigoso que o legal."</p></p>
+<p><h2>Transição</h2></p>
+<p><p>O futuro ministro-chefe do GSI revelou que está ansioso para tomar posse, em 1º de janeiro: "Nunca esperava que uma transição fosse tão demorada e tão difícil de acontecer. Eu achava que a gente ia entrar no vestiário, trocar de roupa, ia ter a preleção do técnico e vamos entrar em campo. Mas demora pra caramba pra entrar em campo. E é chorado. Todo dia os problemas meio que se renovam. Acho que todos que estão vivendo essa fase estão loucos pro governo começar".</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/12/12/quando-vi-entidades-criticando-ricardo-salles-falei-acertamos-diz-bolsonaro/">Quando vi entidades criticando Ricardo Salles, falei ‘acertamos’, diz Bolsonaro</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/12/12/bolsonaro-defende-que-legislacao-trabalhista-se-aproxime-da-informalidade/">Bolsonaro defende que legislação trabalhista se aproxime da informalidade</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/12/12/dem-devera-formalizar-apoio-a-bolsonaro-um-mes-antes-da-eleicao-na-camara/">DEM deverá formalizar apoio a Bolsonaro um mês antes da eleição na Câmara</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/12/12/podemos-anuncia-independencia-mas-promete-ajudar-bolsonaro/">Podemos anuncia independência, mas promete ajudar Bolsonaro</a></p></p>
+<p><p>Heleno disse ainda que vai ter certa dificuldade, como chefe da inteligência, de manter sigilo sobre as informações: "O GSI, por ser a cabeça do sistema brasileiro de inteligência, por tradição, por doutrina, todos aqueles (que fazem parte dessa estrutura) são soldados do silêncio. É uma coisa que eu não estou muito habituado. Eu tenho que fazer força pra ser soldado do silêncio. Eu gosto de falar. Acho importante a gente trocar ideia, nunca tive preconceito contra a imprensa".</p></p>
+<p><p>Ainda sobre a imprensa, o futuro ministro disse que havia uma "torcida", no Brasil e no exterior, contra Bolsonaro. "A imprensa precisa voltar a ser um instrumento de informação, mais do que uma torcida por alguém. Toda a campanha do presidente eleito foi caracterizada por uma enorme torcida contra ele. Isso acabou prejudicando a visão do que estava acontecendo. Aconteceu também com o Trump."</p></p>
+{% endraw %}

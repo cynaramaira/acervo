@@ -1,0 +1,33 @@
+---
+id: 15661691
+date: "2024-01-22T14:54:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "ciberseguranca"
+  - "opiniao"
+categories:
+  - "sem-categoria"
+title: "A pol\u00edtica nacional de ciberseguran\u00e7a"
+sutia: "O tema seguran\u00e7a digital tem tomado maiores propor\u00e7\u00f5es nos \u00faltimos tempos em raz\u00e3o da sequ\u00eancia de acontecimentos prejudiciais \u00e0 efetividade de direitos fundamentais e do pr\u00f3prio Estado Democr\u00e1tico de Direito"
+chapeu: "opini\u00e3o"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/05/10/antonioribeirojunior-22971175.jpg"
+---
+{% raw %}
+<p>Por Ant&ocirc;nio Ribeiro J&uacute;nior, em artigo enviado ao blog de Jamildo<br /></p>
+<p>Foi publicado no Di&aacute;rio Oficial da Uni&atilde;o o Decreto n.&ordm; 11.856 de autoria do Presidente Lula que institui no Brasil a Pol&iacute;tica Nacional de Ciberseguran&ccedil;a. A norma prev&ecirc;, entre outros princ&iacute;pios, a preven&ccedil;&atilde;o de incidentes e de ataques cibern&eacute;ticos, em particular &agrave;queles dirigidos a infraestruturas cr&iacute;ticas nacionais e a servi&ccedil;os essenciais prestados &agrave; sociedade, &agrave; educa&ccedil;&atilde;o e o desenvolvimento tecnol&oacute;gico em seguran&ccedil;a cibern&eacute;tica e &agrave; coopera&ccedil;&atilde;o entre &oacute;rg&atilde;os e entidades, p&uacute;blicas e privadas, em mat&eacute;ria de seguran&ccedil;a cibern&eacute;tica.</p>
+<p>O tema sobre a seguran&ccedil;a digital tem tomado maiores propor&ccedil;&otilde;es nos &uacute;ltimos tempos em raz&atilde;o da sequ&ecirc;ncia de acontecimentos prejudiciais &agrave; efetividade de direitos fundamentais e do pr&oacute;prio Estado Democr&aacute;tico de Direito relacionados &agrave; tecnologia e o seu uso de forma maliciosa e criminosa.</p>
+<p>Nas elei&ccedil;&otilde;es de 2022, as Fake News foram objeto de intensos debates sobre formas de combate e, mesmo assim, foram massivamente utilizadas por candidatos e partidos pol&iacute;ticos para alterar a percep&ccedil;&atilde;o do eleitorado sobre fatos e pessoas.</p>
+<p>O fen&ocirc;meno da democratiza&ccedil;&atilde;o do acesso &agrave; informa&ccedil;&atilde;o pela internet mostrou o quanto o pa&iacute;s est&aacute; distante de pol&iacute;ticas p&uacute;blicas e de coopera&ccedil;&atilde;o entre o p&uacute;blico e o privado no controle do uso irrespons&aacute;vel das novas tecnologias disruptivas.</p>
+<p>O avan&ccedil;o das tecnologias e, por conseguinte, a aus&ecirc;ncia de instrumentos de prote&ccedil;&atilde;o contra falhas ou invas&otilde;es tamb&eacute;m tem afetado a popula&ccedil;&atilde;o na presta&ccedil;&atilde;o de servi&ccedil;os p&uacute;blicos, por exemplo. No dia que antecedeu a publica&ccedil;&atilde;o do Decreto de Ciberseguran&ccedil;a, uma falha na linha de transmiss&atilde;o de energia el&eacute;trica ocasionou perdas e p&acirc;nico na cidade de Barbalha, no sul do Estado do Cear&aacute;.</p>
+<p>Com&eacute;rcios, hospitais e servi&ccedil;os ficaram desabastecidos de energia el&eacute;trica e internet desde o in&iacute;cio da tarde, retornando gradualmente nas primeiras horas do dia seguinte. Pacientes de hospitais noticiavam a falta de energia em quartos, o com&eacute;rcio precisou fechar mais cedo, empres&aacute;rios perderam produtos e a cidade permaneceu sem acesso &agrave; internet e rede de telefonia por horas.</p>
+<p>O caso da cidade de Barbalha &eacute; apenas mais um entre diversos acontecimentos iguais espalhados pelo Brasil e no Mundo. Em relat&oacute;rio divulgado pelo Centro Nacional de Seguran&ccedil;a Cibern&eacute;tica (NCSC) do Reino Unido, os resultados mostram que as empresas do setor de energia est&atilde;o entre as mais vulner&aacute;veis a cibern&eacute;ticos.</p>
+<p>De acordo com uma pesquisa realizada pela consultoria Accenture, 98% das empresas que atuam no setor de fornecimento de energia declararam estar suscet&iacute;veis a ciberataques. Adicionalmente, 41% dessas empresas revelaram ter enfrentado pelo menos um ciberataque nos &uacute;ltimos 12 meses.</p>
+<p>&Eacute; importante que fique claro que a interrup&ccedil;&atilde;o de energia el&eacute;trica n&atilde;o &eacute; resultado somente de ataques, podendo ser ocasionadas por falhas humanas ou na execu&ccedil;&atilde;o de processos digitais por meio de hardware ou software, formas comuns em substitui&ccedil;&atilde;o a presen&ccedil;a humana. Tal fato evidencia a necessidade de investimento no aperfei&ccedil;oamento das tecnologias de execu&ccedil;&atilde;o do servi&ccedil;o e de seguran&ccedil;a.</p>
+<p>Na cidade de Barbalha, a concession&aacute;ria do servi&ccedil;o p&uacute;blico se restringiu a esclarecer que a interrup&ccedil;&atilde;o se deu pelo desarme de redes de fornecimento, sem mais detalhes acerca das causas.</p>
+<p>A realidade tem apresentado panorama complexo de empresas que passam por processo de moderniza&ccedil;&atilde;o dos servi&ccedil;os, mas, ainda, carecem de maior investimento em tecnologias para assegurar melhor presta&ccedil;&atilde;o do servi&ccedil;o. E essa car&ecirc;ncia se mostra vis&iacute;vel na falta de dispositivos de prote&ccedil;&atilde;o. A pesquisa no Reino Unido mostra que as empresas t&ecirc;m conhecimento do problema, mas, permanecem pouco atuantes na busca por solu&ccedil;&otilde;es.</p>
+<p>Um primeiro passo j&aacute; foi dado, mesmo que com atraso, ao se instituir a pol&iacute;tica nacional de ciberseguran&ccedil;a, agora, caber&aacute; a administra&ccedil;&atilde;o p&uacute;blica e, sobretudo, a iniciativa privada desenvolver mecanismos de defesa contra as falhas de seguran&ccedil;a que possam interromper servi&ccedil;os, expor dados ou atentar contra a democracia.</p>
+<p>Nesse novo processo, assimilar o novo curso da hist&oacute;ria &eacute; imprescind&iacute;vel para que as inova&ccedil;&otilde;es em seguran&ccedil;a venham a passos largos, do mesmo modo que a moderniza&ccedil;&atilde;o dos servi&ccedil;os e a incerteza.</p>
+<p>Ant&ocirc;nio Ribeiro J&uacute;nior, consultor jur&iacute;dico, advogado na &aacute;rea de Direito P&uacute;blico, especialista em direito eleitoral, al&eacute;m de professor, autor de artigos jur&iacute;dicos e s&oacute;cio do escrit&oacute;rio Herculano &amp; Ribeiro Advocacia e membro da Academia Brasileira de Direito Eleitoral e Pol&iacute;tico (ABRADEP)</p>
+{% endraw %}

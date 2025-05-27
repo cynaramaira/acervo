@@ -1,0 +1,43 @@
+---
+id: 12556772
+date: "2017-09-05T15:52:05Z"
+last_modified_at: null
+tags:
+  - "instituto-butanta"
+  - "lula"
+  - "moro"
+  - "propina"
+categories:
+  - "noticias"
+title: "Odebrecht revela a Moro R$ 4 mi ao Instituto Lula debitado de conta de propina"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/03/EBC-marcelo_odebrecht-1.jpg"
+---
+{% raw %}
+<p><p><em>Estadão Conteúdo</em> - O empresário Marcelo Odebrecht reafirmou nesta segunda-feira (5) seus termos de delação premiada perante o juiz federal Sérgio Moro, da Operação Lava Jato. O delator foi interrogado em ação penal sobre supostas propinas da Odebrecht para o ex-presidente Luiz Inácio Lula da Silva.</p></p>
+<p><p>O petista é acusado de corrupção passiva e lavagem de dinheiro sobre contratos entre a Odebrecht e a Petrobras. O Ministério Público Federal aponta que propinas pagas pela empreiteira chegaram a R$ 75 milhões em oito contratos com a estatal. Este montante, segundo a força-tarefa da Lava Jato, inclui um terreno de R$ 12,5 milhões para Instituto Lula e cobertura vizinha à residência do ex-presidente em São Bernardo (SP) no valor de R$ 504 mil.</p></p>
+<p><p>Marcelo Odebrecht contou ao juiz Moro que, no primeiro semestre de 2010 - quando Lula era presidente -, combinou com o ex-ministro Antonio Palocci que haveria "uma conta para atender" ao petista. O empreiteiro citou o ex-presidente Fernando Henrique, o presidente do Instituto Lula, Paulo Okamotto e outro delator da Odebrecht Alexandrino Alencar.</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/30/stf-mantem-nas-maos-de-moro-delacoes-da-odebrecht-sobre-lula/">STF mantém nas mãos de Moro delações da Odebrecht sobre Lula</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/26/delacoes-da-odebrecht-tem-pontos-nao-esclarecidos/">Delações da Odebrecht têm pontos não esclarecidos</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/04/moro-nega-lula-suspensao-de-interrogatorios/">Moro nega a Lula a suspensão de interrogatórios</a></p></p>
+<p><p>"A ideia inicial nossa era que esse valor fosse doado ao Instituto nos moldes que Fernando Henrique e a gente não se preocupasse mais com esse assunto (...) diminuindo a exposição. Mas isso acabou não ocorrendo até porque, aí eu tive algumas conversas com Paulo Okamotto sobre esse assunto, acho que meu pai esteve com Lula, Alexandrino também esteve, eu, inclusive, Palocci concordava comigo (...) que era no sentido de seguinte: o Instituto estava incomodado de ficar, de estruturar para receber a doação, como o Fernando Henrique fez", narrou.</p></p>
+<p><p>"Não resolveu e começou (sic) a vir uns pedidos que teriam que ser feito de modo não contabilizados, aí começou, começou pedido do Instituto Lula, começou o terreno, começou a vir um pedido por exemplo que foi feito doações para o Instituto Lula 4 milhões. Essa forma é que eu sei que o Lula foi beneficiado", afirmou o empresário.</p></p>
+<p><p>Marcelo contou a Moro que prestou depoimento à Polícia Federal "recentemente" e tratou de e-mails do executivo Fernando Migliaccio, ligado à Odebrecht. Segundo o empreiteiro, ele encontrou "os 4 milhões de doação para o Instituto Lula os recibos dele estavam com Fernando Miggliaccio".</p></p>
+<p><p>O valor constava da "planilha italiano", tabela de propinas supostamente "controlada" por Palocci e destinadas ao PT. Lula seria o "amigo" na planilha. "Claramente, se está com ele (Fernando Migliaccio), é porque foi descontado da planilha italiano. E um e-mail meu para o Alexandrino dizendo exatamente que o Palocci, aqui: 'o italiano disse para mim que o japonês vai lhe procurar, Alexandrino, para um apoio formal para o Instituto de 4 milhões'. Quer dizer, o apoio foi formal, mas foi debitado da conta italiano. E também teve, aí saiu dessa conta também, e também teve vários pedidos que foram feitos por Palocci a mim".</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/03/no-sertao-de-pernambuco-prefeito-tucano-que-ciceroneou-lula-em-caravana-sera-punido-pelo-partido/">No Sertão de Pernambuco, prefeito tucano que ciceroneou Lula em caravana será punido pelo partido</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/02/defesa-de-lula-diz-que-absolvicao-e-prova-de-inocencia/">Defesa de Lula diz que absolvição é ‘prova de inocência’</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/01/mpf-pede-justica-absolvicao-de-lula-e-anulacao-de-delacao-de-delcidio/">MPF pede à Justiça absolvição de Lula e anulação de delação de Delcídio</a></p></p>
+<p><p>Odebrecht relatou a Moro que em meados de 2010, foi procurado pelo pecuarista José Carlos Bumlai, amigo de Lula. "O Bumlai me procurou dizendo que tinham identificado o terreno, que era Roberto Teixeira que tinha identificado o terreno, que tinha acertado a compra do terreno e que eles iam querer que esse terreno fosse a sede do futuro Instituto e queriam que a gente viabilizasse a compra desse terreno", relatou.</p></p>
+<p><p>"Outra razão pela qual eu sei que Lula sabe desse provisionamento, porque eu conversei tanto com Bumlai quanto com o Okamotto. Seguinte: 'eu, tudo bem, mas esse valor vai sair, seja lá qual for a forma, vai sair do valor provisionado que eu tenho com Palocci para Lula'. Fui em Palocci: 'Palocci, olha, Bumlai e Paulo Okamotto chegaram com essa historia de comprar o terreno, você sabe qual é a minha posição, eu prefiro doar, eles que comprem, mas dá uma checada nisso, porque o que você disser, eu faço'. Ele foi checar e voltou para mim, ele também não gostou muito da história, porque ele também era da linha de que era melhor doar para o Instituto Lula e eles se virarem, mas ele disse: 'Olha, Marcelo, foi iniciativa do Roberto Teixeira, mas já fizeram a cabeça Dona Marisa, Lula, e se você criar caso, vão dizer que você está criando mais caso porque você fica sempre pedindo as coisas de Lula, aí ele vai em seu pai, vai resolver na marra. Seguinte, melhor você liberar'", disse o empresário no relato.</p></p>
+<p><p>"Fui lá, combinei com Paul Altit, o presidente da Odebrecht Realizações, como era uma transação imobiliária, a gente procuraria uma pessoa para fazer, mas precisaria de uma pessoa dele."</p></p>
+<p><p>Marcelo Odebrecht afirmou que "nunca" conversou com Lula "diretamente sobre esse assunto". "Tudo que eu sei é através de Bumlai. Roberto Teixeira, não, porque eu nunca estive com ele. Bumlai, Okamotto e o Palocci. Aparentemente esse assunto foi iniciativa de Roberto Teixeira com Bumlai, que identificaram esse terreno, não sei se tinha um acerto com os vendedores. Isso nunca ficou claro para mim. Mas de certo modo foi o terreno e que Lula acabou aceitando, mas não sei se ele bateu o martelo."</p></p>
+<p><h2>Defesa</h2></p>
+<p><p>O advogado Cristiano Zanin Martins, que defende o ex-presidente, se manifestou. "Os depoimentos desmontam acusação contra Lula", disse. "Sobressai do depoimento prestado hoje (04/08) por Marcelo Odebrecht que não há qualquer relação entre os temas discutidos na Ação Penal n. 50631301172016404-70000 e a Petrobras e, ainda, que o ex-executivo não tratou de qualquer contrapartida com o ex-Presidente Luiz Inácio Lula da Silva".</p></p>
+<p><p>Marcelo, que é delator, negou peremptoriamente qualquer atuação em relação aos 8 contratos indicados na denúncia e ainda que tenha tratado de qualquer contrapartida em relação a esses contratos em favor de Lula".</p></p>
+<p><p>"Com esse depoimento Marcelo destrói a acusação apresentada pelo Ministério Público Federal. Lula foi acusado nesse processo porque segundo a versão do MPF ele teria recebido 2 imóveis em contrapartida por ter atendido a pedido de favorecimento de Marcelo Odebrecht em relação a esses 8 contratos firmados pela Petrobras".</p></p>
+<p><p>"O depoimento de Paulo Melo mostrou as fragilidades das declarações de Marcelo Odebrecht em relação a Lula e ao Instituto Lula. A verdade é que Lula jamais recebeu a propriedade ou a posse de qualquer dos imóveis indicados pelo MPF, muito menos em contrapartida de qualquer atuação em contratos firmados pela Petrobras".</p></p>
+<p><p>Mais uma vez registramos no início da audiência o cerceamento de defesa imposto ao ex-Presidente Lula. O MPF está tendo acesso a documentos que são negados à defesa de Lula. Por isso impetramos também hoje habeas corpus perante o Tribunal Regional Federal da 4a. Região objetivando reverter essa ilegalidade".</p></p>
+{% endraw %}

@@ -1,0 +1,45 @@
+---
+id: 15033268
+date: "2022-06-28T09:06:00Z"
+last_modified_at: "2022-06-28 10:04:00"
+tags:
+  - "jamildo"
+  - "fundef"
+  - "educacao"
+  - "paulo-camara"
+categories:
+  - "sem-categoria"
+title: "EXCLUSIVO: Mais de 60 mil professores receber\u00e3o atrasados do Fundef em 2022"
+sutia: "Atrasados do Fundef, para os professores do Estado, ser\u00e1 pago em tr\u00eas parcelas. A primeira j\u00e1 em 2022"
+chapeu: "aumento nos sal\u00e1rios"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/06/23/educacao_4-21265752.jpeg"
+---
+{% raw %}
+<p>Os <strong>professores</strong> do Estado j&aacute; v&atilde;o receber os primeiros recursos dos atrasados do <strong>Fundef</strong>&nbsp;(<a href="https://jc.ne10.uol.com.br/colunas/jamildo/2022/06/15030966-exclusivo-veja-criterios-do-rateio-dos-precatorios-do-fundef-para-os-professores-da-rede-estadual.html" target="_blank" rel="noopener noreferrer">veja os crit&eacute;rios</a>) em suas contas de sal&aacute;rios neste ano de 2022. De acordo com uma previs&atilde;o do governo do Estado, mais de 60 mil professores receber&atilde;o atrasados do Fundef neste ano, entre os ativos, aposentados e pensionistas.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'', 'id_midia_tipo':'4', 'id_tetag_galer':'', 'id_midia':'17070593', 'cd_midia':21283190, 'ds_midia_link': 'https://player.mais.uol.com.br/?mediaId=17070593&amp;type=video', 'ds_midia': 'Projeto de Lei do Fundef &eacute; aprovado em Comiss&atilde;o da Alepe', 'ds_midia_credi': 'TV JC', 'ds_midia_titlo': 'Projeto de Lei do Fundef &eacute; aprovado em Comiss&atilde;o da Alepe', 'cd_tetag': '106', 'cd_midia_w': '420', 'cd_midia_h': '315', 'align': 'Left'}"><div class="embed-responsive embed-responsive-16by9 my-4"><iframe width="420" height="315" class="Left" src="https://player.mais.uol.com.br/?mediaId=17070593" frameborder="0" allowfullscreen></iframe></div></tinymce></p>
+<p>O <strong>Blog de Jamildo</strong> apurou que a previs&atilde;o de gastos agora em 2022 ser&aacute; de R$ 913 milh&otilde;es com essa a&ccedil;&atilde;o, de acordo com as informa&ccedil;&otilde;es da Secretaria de Educa&ccedil;&atilde;o do Estado. O pagamento deve ocorrer&nbsp;<a href="https://jc.ne10.uol.com.br/colunas/jamildo/2022/06/15032723-exclusivo-estado-pretende-fazer-pagamento-de-rateio-do-fundef-sem-retencao-de-impostos-para-os-professores-da-rede-estadual-saiba-detalhes.html" target="_blank" rel="noopener noreferrer">sem reten&ccedil;&atilde;o de impostos</a>.</p>
+<p>O recurso bilion&aacute;rio correspondente a uma diferen&ccedil;a devida pela Uni&atilde;o e ser&aacute; dividido com os professores da rede estadual, ap&oacute;s um acordo do Governo do Estado com representantes da categoria. No Recife, espera-se rateio milion&aacute;rio (<a href="https://jc.ne10.uol.com.br/colunas/jamildo/2022/06/15032373-professores-do-recife-esperam-rateio-de-rs-600-milhoes-do-fundef-mas-justica-federal-ainda-nao-autorizou.html" target="_blank" rel="noopener noreferrer">saiba quanto</a>).<br /></p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[15032774,15031985,15031639],'cd_matia':'15031639','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/colunas/jamildo/2022/06/15031639-saiba-como-paulo-camara-ira-dividir-bilhoes-do-fundef-com-professores-de-pernambuco.html">Saiba como Paulo Câmara irá dividir bilhões do FUNDEF com professores de Pernambuco</a></li>
+            <li><a class="link" href="/colunas/jamildo/2022/06/15031985-antes-de-pernambuco-maceio-ja-faz-pagamento-do-rateio-do-fundef-aos-profissionais-da-educacao.html">Antes de Pernambuco, Maceió já faz pagamento do rateio do Fundef aos profissionais da educação</a></li>
+            <li><a class="link" href="/colunas/jamildo/2022/06/15032774-professores-da-rede-estadual-ja-tem-garantidos-rs-23-bilhoes-em-rateio-de-precatorio-do-fundef-veja-documento-oficial.html">Professores têm garantidos R$ 2,3 bilhões em rateio de precatório do FUNDEF</a></li>
+        </ul>
+</div></tinymce></p>
+<p>Na semana passada, com exclusividade, o <strong>Blog de Jamildo</strong> informou que o governador Paulo C&acirc;mara enviou um projeto de lei para a Assembleia Legislativa do Estado com a sugest&atilde;o de crit&eacute;rios para o pagamento.<br /></p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/06/21/120x80/1_bc210622002-21255474.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'62b1f65aaa8a8', 'cd_midia':21255487, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/06/21/806x444/1_bc210622002-21255474.jpg', 'ds_midia': 'Paulo C&acirc;mara (PSB), Governador de Pernambuco.', 'ds_midia_credi': 'BRUNO CAMPOS/JC IMAGEM', 'ds_midia_titlo': 'Paulo C&acirc;mara (PSB), Governador de Pernambuco.', 'cd_tetag': '1', 'cd_midia_w': '806', 'cd_midia_h': '443', 'align': 'Left'}"><figure style="width:443;height:806;">
+  <img loading="lazy" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/06/21/806x444/1_bc210622002-21255474.jpg" alt="BRUNO CAMPOS/JC IMAGEM"  title="Paulo C&acirc;mara (PSB), Governador de Pernambuco.">
+  <figcaption class='text-left'>Paulo C&acirc;mara (PSB), Governador de Pernambuco. - <strong>BRUNO CAMPOS/JC IMAGEM</strong></figcaption>
+</figure></tinymce></p>
+<p>O projeto de lei 3523/2022, do Executivo, define o "pagamento extraordin&aacute;rio do Passivo FUNDEF, com a defini&ccedil;&atilde;o da destina&ccedil;&atilde;o dos recursos, dos percentuais e crit&eacute;rios para o rateio dos recursos entre os beneficiados".</p>
+<h2>Quem ter&aacute; direito e ser&aacute; beneficiado?</h2>
+<p>Segundo o projeto, ser&aacute; repassado, na forma de abono, o valor correspondente a 60% (sessenta por cento) do montante recebido pelo Estado de Pernambuco aos profissionais do magist&eacute;rio da educa&ccedil;&atilde;o b&aacute;sica que estavam em cargo, emprego ou fun&ccedil;&atilde;o, integrantes da estrutura, quadro ou tabela de servidores do Estado de Pernambuco, com v&iacute;nculo estatut&aacute;rio, celetista ou tempor&aacute;rio, desde que em efetivo exerc&iacute;cio das fun&ccedil;&otilde;es na rede p&uacute;blica do Estado de Pernambuco durante o per&iacute;odo em que ocorreram os repasses a menor do Fundef 1997-2006.</p>
+<p>Al&eacute;m disto, ser&aacute; repassado ainda aos aposentados que comprovem efetivo exerc&iacute;cio na rede p&uacute;blica escolar do Estado de Pernambuco durante o per&iacute;odo em que ocorreram os repasses a menor do Fundef 1997-2006, ainda que n&atilde;o tenham mais v&iacute;nculo direto com o Estado de Pernambuco, e aos herdeiros, em caso de falecimento dos profissionais alcan&ccedil;ados por este artigo.</p>
+<p>O recebimento do abono pelos profissionais contemplados com o rateio que n&atilde;o possuam mais v&iacute;nculo com o Estado de Pernambuco ocorrer&aacute; mediante requerimento do interessado, conforme procedimento a ser estabelecido em regulamento.</p>
+<p>Em caso de falecimento do profissional, os respectivos herdeiros apenas receber&atilde;o o montante a que tem direito mediante apresenta&ccedil;&atilde;o de alvar&aacute; judicial, atrav&eacute;s do qual se autorize o levantamento do valor.</p>
+<h2>Car&aacute;ter indenizat&oacute;rio, n&atilde;o acumula no sal&aacute;rio</h2>
+<p>O pagamento tem car&aacute;ter indenizat&oacute;rio e n&atilde;o se incorpora &agrave; remunera&ccedil;&atilde;o dos servidores ativos ou aos proventos dos inativos e pensionistas que fizerem parte do rateio.</p>
+<p>O governador pediu que o projeto fosse apreciado pelos deputados estaduais em regime de urg&ecirc;ncia.</p>
+<p>"A proposi&ccedil;&atilde;o normativa objetiva assegurar aos profissionais do magist&eacute;rio o direito ao recebimento do repasse dos valores remanescentes em virtude do c&aacute;lculo do valor anual por aluno oriundo da distribui&ccedil;&atilde;o dos recursos do fundo e da complementa&ccedil;&atilde;o da Uni&atilde;o ao Fundef. Visa ainda atender a finalidade da destina&ccedil;&atilde;o origin&aacute;ria dos recursos do Fundef, especialmente para fins de garantir o percentual de 60% (sessenta por cento) das verbas para os profissionais do magist&eacute;rio", explica o governador, no projeto.</p>
+{% endraw %}

@@ -1,0 +1,46 @@
+---
+id: 15014998
+date: "2022-05-26T10:01:00Z"
+last_modified_at: "2022-05-26 11:10:00"
+tags:
+  - "jamildo"
+  - "metro-do-recife"
+categories:
+  - "sem-categoria"
+title: "EXCLUSIVO. Paulo C\u00e2mara decide pela n\u00e3o estadualiza\u00e7\u00e3o do Metr\u00f4 do Recife"
+sutia: "Governador de Pernambuco, Paulo C\u00e2mara, estabelece di\u00e1logo com o Sindmetro-PE e o F\u00f3rum Permanente pela Mobilidade e Defesa do Metr\u00f4"
+chapeu: "fora dos trilhos"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/03/29/1_whatsapp_image_2021_05_25_at_15_21_52_17513700-20770718.jpg"
+---
+{% raw %}
+<p>O presidente do Sindmetro-PE, Luiz Soares, em informe ao <strong>blog de Jamildo,</strong> conta que teve um encontro com o governador Paulo C&acirc;mara, com o objetivo de discutir a decis&atilde;o do Governo do Estado de Pernambuco sobre o <a href="https://jc.ne10.uol.com.br/colunas/jamildo/2022/05/15010863-trabalhadores-ameacam-greve-em-caso-de-estadualizacao-e-privatizacao-do-metro-do-recife.html" target="_blank" rel="noopener noreferrer">processo de estadualiza&ccedil;&atilde;o do metr&ocirc;</a>, em processo de discuss&atilde;o com o BNDES. De acordo com os sindicalistas, na reuni&atilde;o, Paulo C&acirc;mara fez um mea culpa e adiantou a posi&ccedil;&atilde;o pela n&atilde;o estadualiza&ccedil;&atilde;o da estatal federal.</p>
+<ul>
+<li>O futuro do metr&ocirc; estava decidido:&nbsp;<a href="https://jc.ne10.uol.com.br/colunas/mobilidade/2022/05/15003455-futuro-do-metro-do-recife-e-decidido-sistema-sera-concedido-a-iniciativa-privada-confira-detalhes.html" target="_blank" rel="noopener noreferrer"><em>seria estadualizado para, em seguida, ser concedido &agrave; iniciativa privada</em></a><br /></li>
+</ul>
+<p>&ldquo;Nosso objetivo &eacute; o metr&ocirc; funcionando bem, n&atilde;o aceitamos a degrada&ccedil;&atilde;o do sistema feita pelo Governo Federal, que joga os usu&aacute;rios e a opini&atilde;o p&uacute;blica contra o Estado de Pernambuco. O governo Federal n&atilde;o conversa com a gente. N&atilde;o temos interesse de administrar o metr&ocirc;", disse Paulo C&acirc;mara.</p>
+<p>"Estou preocupado com o transporte metropolitano p&uacute;blico e de qualidade, sei a import&acirc;ncia do metr&ocirc;, e at&eacute; o &uacute;ltimo dia do governo, n&atilde;o vamos assinar nada. Vamos deixar um diagn&oacute;stico pronto, para cobrar do presidente eleito que tenha um olhar para o metr&ocirc;. Erramos, tudo ser&aacute; feito de agora em diante dialogado com a categoria, com do Sindmetro-PE e o F&oacute;rum Permanente pela Mobilidade e Defesa do Metr&ocirc;&rdquo;, disse Paulo.</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[15014508,15011340,15010817],'cd_matia':'15010817','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/colunas/jamildo/2022/05/15010817-em-nota-paulo-camara-pede-que-bolsonaro-nao-degrade-o-metro-do-recife-e-que-espera-bndes-para-analisar-estadualizacao.html">Paulo Câmara pede que Bolsonaro não degrade o Metrô do Recife e  espera BNDES para decidir estadualização</a></li>
+            <li><a class="link" href="/colunas/jamildo/2022/05/15011340-com-cobranca-so-agora-a-bolsonaro-paulo-camara-mostra-que-e-socio-do-sucateamento-do-metro-do-recife-diz-raquel-lyra.html">'Com cobrança só agora a Bolsonaro, Paulo Câmara mostra que é sócio do sucateamento do Metrô do Recife', diz Raquel Lyra</a></li>
+            <li><a class="link" href="/colunas/jamildo/2022/05/15014508-carlos-veras-pede-explicacoes-ao-governo-federal-sobre-privatizacao-do-metro-do-recife.html">Carlos Veras pede explicações ao governo federal sobre 'privatização' do metrô do Recife</a></li>
+        </ul>
+</div></tinymce></p>
+<p>Al&eacute;m do presidente do Sindmetro-PE, Luiz Soares, estiveram presentes no encontro o vice-presidente Assis Filho e dos diretores, Angelio Gomes (Jur&iacute;dico), Telma Barbosa (G&ecirc;neros e Ra&ccedil;as), Glaucia Ferreira (Suplente de Comunica&ccedil;&atilde;o e Imprensa), a vice-governadora Luciana Santos e o presidente do PSB de Pernambuco, Sileno Guedes.</p>
+<ul>
+<li>Igor Maciel, na coluna Cena Pol&iacute;tica: <a href="https://jc.ne10.uol.com.br/colunas/cena-politica/2022/05/15015042-para-atender-sindicalistas-paulo-camara-desiste-de-estadualizar-metro-e-deve-atrasar-solucao-para-problemas.html" target="_blank" rel="noopener noreferrer"><em>Decis&atilde;o de&nbsp;Paulo C&acirc;mara deve atrasar solu&ccedil;&atilde;o para problemas do metr&ocirc;</em></a><br /></li>
+</ul>
+<p>Nesta quinta, &agrave;s 10h, no Audit&oacute;rio do Edif&iacute;cio Sede Administrativo do STUREC, o Sindicato dos Metrovi&aacute;rios de Pernambuco (Sindmetro-PE) e o Conselho Regional de Engenharia e Agronomia de Pernambuco (CREA-PE), e v&aacute;rias de entidades, lan&ccedil;am F&oacute;rum Permanente pela Mobilidade e em Defesa do Metro.</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[15015060],'cd_matia':'15015060','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/colunas/mobilidade/2022/05/15015060-metroviarios-afirmam-que-paulo-camara-desistiu-de-conceder-metro-do-recife-a-iniciativa-privada.html">Metroviários afirmam que Paulo Câmara desistiu de conceder Metrô do Recife à iniciativa privada</a></li>
+        </ul>
+</div></tinymce></p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/05/26/120x80/1_foto_paulo_e_sindmetro_1__1_-21094760.jpeg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'628f7cdcbea8d', 'cd_midia':21094768, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/05/26/806x444/1_foto_paulo_e_sindmetro_1__1_-21094760.jpeg', 'ds_midia': ' Ainda nesta quinta-feira (26), a partir das 18h, ser&aacute; realizada mais uma Assembleia Geral Extraordin&aacute;ria, onde a categoria promete decidir os rumos do Estado de Greve contra o que chamam de privatiza&ccedil;&atilde;o do metr&ocirc;', 'ds_midia_credi': 'Sindicatos/Divulga&ccedil;&atilde;o', 'ds_midia_titlo': ' Ainda nesta quinta-feira (26), a partir das 18h, ser&aacute; realizada mais uma Assembleia Geral Extraordin&aacute;ria, onde a categoria promete decidir os rumos do Estado de Greve contra o que chamam de privatiza&ccedil;&atilde;o do metr&ocirc;', 'cd_tetag': '1', 'cd_midia_w': '806', 'cd_midia_h': '443', 'align': 'Left'}"><figure style="width:443;height:806;">
+  <img loading="lazy" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/05/26/806x444/1_foto_paulo_e_sindmetro_1__1_-21094760.jpeg" alt="Sindicatos/Divulga&ccedil;&atilde;o"  title=" Ainda nesta quinta-feira (26), a partir das 18h, ser&aacute; realizada mais uma Assembleia Geral Extraordin&aacute;ria, onde a categoria promete decidir os rumos do Estado de Greve contra o que chamam de privatiza&ccedil;&atilde;o do metr&ocirc;">
+  <figcaption class='text-left'> Ainda nesta quinta-feira (26), a partir das 18h, ser&aacute; realizada mais uma Assembleia Geral Extraordin&aacute;ria, onde a categoria promete decidir os rumos do Estado de Greve contra o que chamam de privatiza&ccedil;&atilde;o do metr&ocirc; - <strong>Sindicatos/Divulga&ccedil;&atilde;o</strong></figcaption>
+</figure></tinymce></p>
+<p>Ainda nesta quinta-feira (26), a partir das 18h, ser&aacute; realizada mais uma Assembleia Geral Extraordin&aacute;ria, onde a categoria promete decidir os rumos do Estado de Greve contra o que chamam de privatiza&ccedil;&atilde;o do metr&ocirc;.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'', 'id_midia_tipo':'4', 'id_tetag_galer':'', 'id_midia':'17054356', 'cd_midia':21002081, 'ds_midia_link': 'https://player.mais.uol.com.br/?mediaId=17054356&amp;type=video', 'ds_midia': 'Metrovi&aacute;rios de Pernambuco anunciam estado de greve			 			', 'ds_midia_credi': 'TV JC', 'ds_midia_titlo': 'Metrovi&aacute;rios de Pernambuco anunciam estado de greve			 			', 'cd_tetag': '106', 'cd_midia_w': '420', 'cd_midia_h': '315', 'align': 'Left'}"><div class="embed-responsive embed-responsive-16by9 my-4"><iframe width="420" height="315" class="Left" src="https://player.mais.uol.com.br/?mediaId=17054356" frameborder="0" allowfullscreen></iframe></div></tinymce></p>
+{% endraw %}

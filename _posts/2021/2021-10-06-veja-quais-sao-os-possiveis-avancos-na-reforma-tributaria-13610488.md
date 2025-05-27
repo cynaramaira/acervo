@@ -1,0 +1,38 @@
+---
+id: 13610488
+date: "2021-10-06T10:33:00Z"
+last_modified_at: null
+tags:
+  - "reforma-tributaria"
+categories:
+  - "sem-categoria"
+title: "Veja quais s\u00e3o os poss\u00edveis avan\u00e7os na reforma tribut\u00e1ria"
+sutia: "Movimento afirma  que o parecer aponta um caminho poss\u00edvel para a constru\u00e7\u00e3o de um sistema tribut\u00e1rio mais justo, eficiente e alinhado \u00e0s melhores pr\u00e1ticas internacionais."
+chapeu: "Basta de impostos"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/05/sefaz-19255321.jpg"
+---
+{% raw %}
+<p>Nesta ter&ccedil;a-feira (05/10) foi apresentado, na CCJ do Senado, o novo parecer substitutivo da PEC 110 elaborado pelo senador Roberto Rocha (PSDB/MA).</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[13610277],'cd_matia':'13610277','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/blogs/jamildo/2021/10/13610277-decio-padilha-comemora-aprovacao-do-iva-na-reforma-tributaria-vai-ser-o-fim-do-manicomio-tributario.html">Décio Padilha comemora aprovação do IVA na reforma tributária. 'Vai ser o fim do manicômio tributário'</a></li>
+        </ul>
+</div></tinymce></p>
+<p>O texto tem como base o relat&oacute;rio do deputado Aguinaldo Ribeiro, apresentado na Comiss&atilde;o Mista de Reforma Tribut&aacute;ria h&aacute; seis meses. No entanto, incorpora altera&ccedil;&otilde;es para promover maior converg&ecirc;ncia entre os entes federativos e os setores econ&ocirc;micos, como a previs&atilde;o de administra&ccedil;&otilde;es tribut&aacute;rias distintas para a Uni&atilde;o e para estados e munic&iacute;pios.</p>
+<p>O movimento da sociedade civil Pra Ser Justo, que defende a reforma tribut&aacute;ria, aponta que o parecer &eacute; resultado de 30 anos de aprofundamento t&eacute;cnico e debate e mostra um caminho poss&iacute;vel para a constru&ccedil;&atilde;o de um sistema tribut&aacute;rio mais justo, eficiente e alinhado &agrave;s melhores pr&aacute;ticas internacionais.</p>
+<p>Renata Mendes,&nbsp; l&iacute;der e porta-voz da organiza&ccedil;&atilde;o, elogiou.</p>
+<p>&ldquo;A proposta &eacute; muito positiva e traz avan&ccedil;os essenciais para um sistema mais simples, mais transparente e menos desigual. Al&eacute;m disso, incorpora o aprendizado das &uacute;ltimas tentativas de reforma tribut&aacute;ria ao criar pontes entre os interesses da Uni&atilde;o, de estados e munic&iacute;pios. Por isso, j&aacute; conta com um n&iacute;vel de apoio sem precendentes&rdquo;.</p>
+<p>O principal destaque do relat&oacute;rio, para Mendes, &eacute; a realizar uma mudan&ccedil;a ampla e estrutural no sistema tribut&aacute;rio brasileiro sobre o consumo, ao alterar tanto os tributos federais quanto os municipais e estaduais, e harmoniz&aacute;-los em um imposto sobre bens e servi&ccedil;os (IBS) dual.</p>
+<p>"Nesse sentido, a proposta tem um escopo mais abrangente do que a reforma fatiada que foi defendida pelo governo federal, e justamente por isso, ataca o cerne dos problemas da tributa&ccedil;&atilde;o brasileira: o ICMS e o ISS. Al&eacute;m disso, o parecer torna o Brasil mais competitivo ao implementar no pa&iacute;s um modelo tribut&aacute;rio recomendado pela OCDE, Banco Mundial e diversas outras organiza&ccedil;&otilde;es internacionais, em um sistema que j&aacute; &eacute; adotado por 168 pa&iacute;ses no mundo".</p>
+<p>"Ainda no &acirc;mbito da simplifica&ccedil;&atilde;o, a proposta prev&ecirc; que o IBS ser&aacute; cobrado sobre uma base ampla, isto &eacute;, sobre bens e servi&ccedil;os. Desse modo, visa corrigir a separa&ccedil;&atilde;o da tributa&ccedil;&atilde;o de mercadorias e servi&ccedil;os, que existe no Brasil e n&atilde;o &eacute; compat&iacute;vel com a nova economia, e por isso amplia as disputas entre os contribuintes e o fisco, e dificulta a inova&ccedil;&atilde;o. A unifica&ccedil;&atilde;o das bases tamb&eacute;m &eacute; capaz de reduzir desigualdades, aumentando a quantidade de tributos pagos pelos 10% mais ricos e reduzindo para os 10% mais pobres da popula&ccedil;&atilde;o".</p>
+<p>O combate &agrave; desigualdade tamb&eacute;m &eacute; um ponto de muita relev&acirc;ncia no parecer de acordo com Renata, principalmente no contexto atual de crise econ&ocirc;mica e aumento da popula&ccedil;&atilde;o em situa&ccedil;&atilde;o de pobreza.</p>
+<p>"Isso ocorre como consequ&ecirc;ncia da ado&ccedil;&atilde;o do princ&iacute;pio do destino, que define que os tributos passar&atilde;o a ser cobrados no local do consumo e n&atilde;o mais no de produ&ccedil;&atilde;o, um ponto importante para reduzir a desigualdade de arrecada&ccedil;&atilde;o entre os entes, especialmente os estados e munic&iacute;pios mais pobres, e acabar com a guerra fiscal".</p>
+<p>Al&eacute;m disso, o relat&oacute;rio prop&otilde;e a cria&ccedil;&atilde;o, via lei complementar, de um mecanismo de devolu&ccedil;&atilde;o dos impostos pagos sobre o consumo pela popula&ccedil;&atilde;o de menor renda, que seria at&eacute; 12 vezes mais efetivo que as isen&ccedil;&otilde;es hoje vigentes para redu&ccedil;&atilde;o de desigualdades.T</p>
+<p>Tamb&eacute;m como m&eacute;rito do relat&oacute;rio, Renata menciona a manuten&ccedil;&atilde;o da carga tribut&aacute;ria global e a implementa&ccedil;&atilde;o de al&iacute;quota correspondente &agrave; arrecada&ccedil;&atilde;o atual no processo de transi&ccedil;&atilde;o entre os sistemas, afastando a preocupa&ccedil;&atilde;o com o aumento da carga, que hoje est&aacute; presente na proposta da CBS.</p>
+<p>Em rela&ccedil;&atilde;o &agrave;s melhorias poss&iacute;veis, a especialista acrescenta.</p>
+<p>&ldquo;O relat&oacute;rio acaba com os benef&iacute;cios fiscais atuais, mas permite a cria&ccedil;&atilde;o de novas isen&ccedil;&otilde;es se aprovadas via lei complementar. J&aacute; &eacute; um enorme avan&ccedil;o em rela&ccedil;&atilde;o ao que temos hoje em dia, dado que a PEC prev&ecirc; limita&ccedil;&otilde;es a apenas algumas situa&ccedil;&otilde;es e que os benef&iacute;cios sejam todos nacionais - evitando tamb&eacute;m a guerra fiscal entre estados ou entre munic&iacute;pios. Mas, &eacute; preciso muita cautela na institui&ccedil;&atilde;o de novos benef&iacute;cios, pois eles geram elevados gastos tribut&aacute;rios e s&atilde;o pouco acompanhados no &acirc;mbito dos impactos que causam, al&eacute;m de aumentarem a complexidade e reduzirem a competitividade. Pensando na simplicidade e transpar&ecirc;ncia do sistema tribut&aacute;rio, idealmente, o texto n&atilde;o deveria abrir margem para nenhum benef&iacute;cio&rdquo;. No entanto, reconhece: &ldquo;a veda&ccedil;&atilde;o total &eacute; muito custosa politicamente, e, da forma como o relator prop&ocirc;s, evita-se que o texto seja imediatamente distorcido por grupos de interesse, como ocorreu na proposta de reforma do Imposto de Renda&rdquo;.</p>
+<p>&ldquo;Agora &eacute; hora do governo, do Congresso, dos especialistas e da sociedade civil mostrarem seu compromisso com um texto que &eacute; indiscutivelmente necess&aacute;rio para o desenvolvimento econ&ocirc;mico e social do pa&iacute;s, e apoiarem o avan&ccedil;o e a aprova&ccedil;&atilde;o do parecer da PEC 110&rdquo;, disse a especialista.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+{% endraw %}

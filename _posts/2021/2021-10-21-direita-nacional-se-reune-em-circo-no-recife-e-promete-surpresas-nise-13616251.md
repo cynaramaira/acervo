@@ -1,0 +1,42 @@
+---
+id: 13616251
+date: "2021-10-21T08:23:00Z"
+last_modified_at: "2021-10-21 16:00:00"
+tags:
+  - "gilson-machado"
+  - "eleicoes-2022"
+categories:
+  - "sem-categoria"
+title: "Direita nacional se reune em circo no Recife e promete surpresas. Nise Yamaguchi e Gilson Machado presentes"
+sutia: "Evento vai reunir nomes nacionais do movimento conservador no Recife"
+chapeu: "Evento"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/09/10/gilson_machado_coronel_meira_alberto_feitosa-18787247.jpg"
+---
+{% raw %}
+<p>O Estado de Pernambuco receber&aacute; nesta sexta-feira (22) e s&aacute;bado (23), o primeiro e maior congresso conservador da direita brasileira: "I Congresso da Revista DireitaBR".</p>
+<p>O evento ser&aacute; realizado na Universidade Salgado de Oliveira (Universo), na Av. Mascarenhas de Morais, no Recife, a partir das 9h.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/20/120x80/1_1_nise_17469151-19327862.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'6170cf97b9189', 'cd_midia':19327862, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/20/1_nise_17469151-19327862.jpg', 'ds_midia': 'Nise Yamaguchi visita o Recife', 'ds_midia_credi': 'Jc Imagem', 'ds_midia_titlo': 'Nise Yamaguchi visita o Recife', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '672', 'align': 'Left'}"><figure style="width:672;height:1224;">
+  <img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/20/1_nise_17469151-19327862.jpg" alt="Jc Imagem"  title="Nise Yamaguchi visita o Recife">
+  <figcaption class='text-left'>Nise Yamaguchi visita o Recife - <strong>Jc Imagem</strong></figcaption>
+</figure></tinymce></p>
+<p>Youtubers, jornalistas, empres&aacute;rios, pol&iacute;ticos, m&eacute;dicos e grandes lideran&ccedil;as nacionais estar&atilde;o presentes no Evento, tais como Gustavo Gayer, Ed Raposo, Lisboa, Carina Belom&eacute;, Liliane Ventura, Diogo Forjaz, Marcos Falc&atilde;o, Bernardo K&uuml;ster, Canal Hip&oacute;critas, Fagundes e Ronei C&eacute;sar, al&eacute;m da presidente nacional do PTB em exerc&iacute;cio, Graciela Nienov, a participa&ccedil;&atilde;o especial da m&eacute;dica <a href="https://jc.ne10.uol.com.br/search/?q=+Nise+Yamaguchi" target="_blank" rel="noopener noreferrer">Nise Yamaguchi</a> e do ministro do Turismo, <a href="https://jc.ne10.uol.com.br/search/?editoria=Jamildo&amp;q=gilson+machado" target="_blank" rel="noopener noreferrer">Gilson Machado Neto</a>.</p>
+<p>"Somos um ve&iacute;culo de comunica&ccedil;&atilde;o de direita, 100% conservador, e levamos informa&ccedil;&otilde;es para todos os estados do Brasil e mais de 100 pa&iacute;ses, tudo de forma gratuita. Baseado nisso, nos tornamos refer&ecirc;ncia e uma das maiores revistas da direita do mundo.", afirma Ronei Cesar, Diretor-presidente da Revista DireitaBR.</p>
+<p>Sobre a escolha de Pernambuco, como a sede da primeira etapa do Congresso, Ronei foi taxativo.</p>
+<p>"Al&eacute;m de contar com os fortes apoios dos Coron&eacute;is Meira e Alberto Feitosa, escolhemos Pernambuco porque o Nordeste, como um todo, acordou para o conservadorismo. S&oacute; tenho a agradecer", disse.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/13/120x80/1_indice-19291976.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'616716aeeccda', 'cd_midia':19291976, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/13/indice-19291976.jpg', 'ds_midia': 'O deputado estadual Alberto Feitosa', 'ds_midia_credi': 'Gabinete do parlamentar/Divulga&ccedil;&atilde;o', 'ds_midia_titlo': 'O deputado estadual Alberto Feitosa', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '689', 'align': 'Left'}"><figure style="width:689;height:1224;">
+  <img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/13/indice-19291976.jpg" alt="Gabinete do parlamentar/Divulga&ccedil;&atilde;o"  title="O deputado estadual Alberto Feitosa">
+  <figcaption class='text-left'>O deputado estadual Alberto Feitosa - <strong>Gabinete do parlamentar/Divulga&ccedil;&atilde;o</strong></figcaption>
+</figure></tinymce></p>
+<p>"Agrade&ccedil;o ao Ronei e aos diretores da Revista DireitaBR por terem escolhido Pernambuco para sediar este grande evento, que &eacute; genuinamente nacional e reunir&aacute; todas essas personalidades da direita brasileira. Para n&oacute;s pernambucanos, ser&aacute; um encontro &uacute;nico, no qual poderemos absorver e dividir mais conhecimentos sobre o conservadorismo", disse Feitosa.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2020/11/23/120x80/1_coronel_meira-16871634.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'5fbc265396d38', 'cd_midia':16871634, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2020/11/23/coronel_meira-16871634.jpg', 'ds_midia': 'Coronel Meira (direita) foi indicado presidente do PTB de Pernambuco pelo presidente nacional da sigla, Roberto Jeferson (esquerda)', 'ds_midia_credi': 'REPDORU&Ccedil;&Atilde;O', 'ds_midia_titlo': 'Coronel Meira (direita) foi indicado presidente do PTB de Pernambuco pelo presidente nacional da sigla, Roberto Jeferson (esquerda)', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '704', 'align': 'Left'}"><figure style="width:704;height:1224;">
+  <img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2020/11/23/coronel_meira-16871634.jpg" alt="REPDORU&Ccedil;&Atilde;O"  title="Coronel Meira (direita) foi indicado presidente do PTB de Pernambuco pelo presidente nacional da sigla, Roberto Jeferson (esquerda)">
+  <figcaption class='text-left'>Coronel Meira (direita) foi indicado presidente do PTB de Pernambuco pelo presidente nacional da sigla, Roberto Jeferson (esquerda) - <strong>REPDORU&Ccedil;&Atilde;O</strong></figcaption>
+</figure></tinymce></p>
+<p>"Em homenagem ao que estamos vendo na pol&iacute;tica do brasileira, nada mais justo do que realizar o Congresso da Revista DireitaBR dentro de um circo. Desta forma, fechamos com o Circo Maximus, que est&aacute; instalado no estacionamento na universidade. Ser&aacute; um grande evento, que inclusive, poder&aacute; contar com algumas boas surpresas: aguardem", afirmou Coronel Meira.</p>
+<h2>Bolsonaro visita Pernambuco nesta quinta e entrega maior obra de infraestrutura h&iacute;drica do Estado<br /></h2>
+<p>O Governo Federal, por meio do Minist&eacute;rio do Desenvolvimento Regional (MDR), entrega, nesta quinta-feira (21), em Sert&acirc;nia (PE), o <a href="https://jc.ne10.uol.com.br/blogs/jamildo/2021/02/18/bolsonaro-visita-pernambuco-e-participa-de-testes-para-operacao-do-ramal-do-agreste-nesta-sexta-feira/index.html" target="_blank" rel="noopener noreferrer">Ramal do Agreste</a>, maior obra de infraestrutura h&iacute;drica de Pernambuco. Pr&eacute;-candidato ao Governo do Estado, <a href="https://jc.ne10.uol.com.br/blogs/jamildo/2021/10/13615979-pre-candidato-miguel-coelho-nao-vai-se-encontrar-com-jair-bolsonaro-em-pernambuco.html" target="_blank" rel="noopener noreferrer">Miguel Coelho (DEM) n&atilde;o vai se encontrar com o presidente Jair Bolsonaro (sem partido.</a></p>
+<p>Com investimentos de R$ 1,67 bilh&atilde;o, o empreendimento beneficiar&aacute;, juntamente com as duas etapas da <a href="https://jc.ne10.uol.com.br/blogs/jamildo/2020/12/02/bolsonaro-libera-r-80-milhoes-do-governo-federal-para-adutora-do-agreste/index.html" target="_blank" rel="noopener noreferrer">adutora do Agreste,</a> mais de dois milh&otilde;es de pessoas.</p>
+<p>O presidente da Rep&uacute;blica, <a href="https://jc.ne10.uol.com.br/blogs/jamildo/2021/10/13615519-ex-ministros-cobram-de-bolsonaro-explicacao-sobre-acusacao-de-pedofilia.html" target="_blank" rel="noopener noreferrer">Jair Bolsonaro,</a> e o ministro do Desenvolvimento Regional, Rog&eacute;rio Marinho, devem participar da cerim&ocirc;nia.</p>
+<p>&nbsp;<iframe title="YouTube video player" src="https://www.youtube.com/embed/4jnZf7xkNF8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+{% endraw %}

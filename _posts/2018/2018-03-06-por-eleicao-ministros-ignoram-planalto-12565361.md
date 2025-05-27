@@ -1,0 +1,29 @@
+---
+id: 12565361
+date: "2018-03-06T11:21:51Z"
+last_modified_at: null
+tags:
+  - "eleicao"
+  - "ministros"
+categories:
+  - "noticias"
+title: "Por elei\u00e7\u00e3o, ministros ignoram Planalto"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/03/marx-beltrao-temer.jpg"
+---
+{% raw %}
+<p><p><em>Estadão Conteúdo</em> - Ministros do governo Michel Temer têm ignorado a orientação do Palácio do Planalto e negociam palanques regionais em favor de candidaturas de potenciais adversários do presidente nos Estados. A intenção de Temer é aproveitar a reforma ministerial prevista para este mês para manter na Esplanada apenas partidos que fizerem parte do mesmo projeto eleitoral do MDB.</p></p>
+<p><p>Em ao menos quatro casos, porém, as legendas não querem se comprometer com a vinculação e já negociam os substitutos de seus ministros, independentemente de apoiar ou não o projeto de Temer.</p></p>
+<p><p>No Paraná, por exemplo, o ministro da Saúde, Ricardo Barros (PP), comanda articulação de chapa estadual que dará palanque presidencial ao governador de São Paulo, Geraldo Alckmin (PSDB). Lá, o PP deve lançar ao governo a atual vice-governadora, Cida Borghetti, mulher de Barros. Ela deve assumir o governo em abril, quando o governador, Beto Richa (PSDB), renunciará ao cargo para concorrer como candidato ao Senado na chapa de Cida.</p></p>
+<p><p>Mesmo com negociação de Barros em favor dos tucanos, o PP já negocia o nome de um substituto para o ministro, que deixará o cargo em 7 de abril para disputar a reeleição na Câmara. Um dos cotados é João Leão, vice-governador da Bahia na gestão do petista Rui Costa.</p></p>
+<p><p>Em Alagoas, o ministro do Turismo, deputado licenciado Marx Beltrão (MDB), negocia vaga ao Senado na chapa majoritária encabeçada pelo governador Renan Filho e pelo senador Renan Calheiros. Embora filiados ao MDB, ambos tentarão a reeleição defendendo, no plano nacional, uma eventual candidatura do ex-presidente Luiz Inácio Lula da Silva.</p></p>
+<p><p>O ministro da Ciência, Tecnologia, Inovações e Comunicações, Gilberto Kassab (PSD), é outro que tem atuado em desacordo com os interesses eleitorais de Temer. Kassab já deu declarações públicas de que praticamente selou acordo com o PSDB em São Paulo, onde o MDB ainda estuda se lança Paulo Skaf como candidato a governador. Pelo acordo, o PSD indicará o candidato a vice-governador na chapa encabeçada por um tucano e, em troca, se compromete a apoiar Alckmin no plano nacional.</p></p>
+<p><p>"O PSD tem como premissa que o presidente Michel Temer não será candidato, pois é evidente que, sua candidatura existindo, seu nome seria imediatamente incluído nas discussões do partido", desconversou Kassab, que quer indicar o secretário executivo da pasta, Elton Santa Fé Zacarias, como seu substituto no comando do ministério. Homem de confiança de Kassab há anos, Zacarias também é filiado ao PSD.</p></p>
+<p><h2>Opções</h2></p>
+<p><p>O PRB, que quer manter o comando do Ministério da Indústria, Comércio Exterior e Serviços após a reforma ministerial, também tem negociado com presidenciáveis não alinhados ao Palácio do Planalto.</p></p>
+<p><p>O presidente da legenda, Marcos Pereira, disse que conversa com o presidente da Câmara, deputado Rodrigo Maia (DEM-RJ), Alckmin e o senador Álvaro Dias (Podemos-PR). Como mostrou o Estadão/Broadcast, o Podemos ofereceu a vaga de candidato a vice-presidente na chapa de Álvaro Dias, que atua como oposição ao governo Temer.</p></p>
+<p><p>Ministro da Secretaria-Geral da Presidência, Moreira Franco afirmou que Temer avisou aos partidos sobre a vinculação na reforma ministerial e que quem não seguir a orientação não terá a garantia de que manterá o espaço que tem no governo.</p></p>
+<p><p>"A regra já foi anunciada", disse o ministro. Procurado, o ministro do Turismo disse, via assessoria, que está concentrado no trabalho na pasta e que só vai tratar de assuntos eleitorais no "tempo adequado". Barros e Pereira não se pronunciaram.</p></p>
+{% endraw %}

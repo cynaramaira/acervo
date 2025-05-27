@@ -1,0 +1,23 @@
+---
+id: 12537385
+date: "2016-09-12T11:00:11Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "noticias"
+title: "A lei, na rep\u00fablica das bananas, dobra-se aos imperativos da velha ordem"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/dilma-julgamento-1.jpg"
+---
+{% raw %}
+<p><a href="https://www1.folha.uol.com.br/colunas/demetriomagnoli/2016/09/1811955-a-lei-na-republica-das-bananas-dobra-se-aos-imperativos-da-velha-ordem.shtml">Demétrio Magnoli, na Folha de São Paulo</a></p>
+<p>"O Senado era quem tinha a palavra final sobre esse julgamento quanto ao mérito e o mérito envolvia também essa questão do fatiamento; portanto, entendo que isso não deve mais ser revisto". Fábio Medina Osório, o advogado-geral da União, não precisava emitir opinião sobre o tema, mas escolheu fazê-lo –e de modo incisivo. "O impeachment é página virada e não deve ser remexido pelo STF", declarou à Folha, enviando uma mensagem do governo a quem servia até a demissão, que se deu por outros motivos. Você ainda acredita que Temer não sabia da tramoia articulada entre o PT e o PMDB de Renan Calheiros e aplicada pelo operador Lewandowski?</p>
+<p>A lei, na república das bananas e das caxirolas, dobra-se aos imperativos da ordem –ou melhor, da velha ordem ameaçada. Medina Osório repetiu orações patéticas, mas cunhadas para funcionarem como teses jurídicas respeitáveis: "Se violou ou não a Constituição, é uma matéria interna corporis. O Senado tem o direito, em tese, de errar por último." Tradução: o Planalto enuncia o paradigma de que a Constituição é "matéria interna corporis" da elite política. Os destinatários do recado são os ministros do STF. Senhores juízes, não subvertam a ordem em nome da lei!</p>
+<p>O fatiamento da Constituição obedece a dois propósitos. O primeiro é a lenda petista de que o Senado reconheceu a natureza golpista do impeachment ao preservar os direitos políticos de Dilma. Seus arautos, pensadores em missão partidária, zombam da inteligência do público, obliterando o fato de que a maioria dos senadores votou pela inabilitação da ex-presidente. Bem mais relevante é o segundo: subordinar o texto constitucional a arranjos parlamentares de ocasião. Dezenas de figuras notórias de diversos partidos, na situação ou na oposição, acalentam planos de reciclagem política amparados no paradigma de Medina Osório.</p>
+<p>Creio que Temer, um suposto notável constitucionalista, tem pouco com que se preocupar. Nas suas calculadas entrevistas em off, docemente constrangidos, os ministros do STF confessam que subscreverão o esbulho. De olho nas próprias biografias, registram que Lewandowski passou a Constituição num triturador de papel usado. Porém, de olho numa ordem que prezam mais que a lei, advertem para a precedência do "direito do Senado". Um observador atento, mas ingênuo, anotará a contradição: esses são os mesmos juízes que interferiram nos detalhes arcanos dos trâmites regimentais do processo do impeachment, sem nunca invocar o "direito da Câmara". Já um observador cínico concluirá que, para o STF, acima da Constituição, encontra-se o Palácio.</p>
+<p>Manifestantes, palavras de ordem, vidraças partidas. O ruído nas praças confunde os sentidos, sugerindo uma ilusória radicalização. De fato, eles não querem "Diretas, Já!", mas um discurso de campanha –ou, nas franjas, uma reunificação da militância à esquerda do lulismo. O governo pende no fio do TSE, cujos juízes arrastam às calendas o processo sobre o financiamento eleitoral da chapa Dilma/Temer, protegendo os interesses vitais do Palácio. Significativamente, os tribunos das ruas permanecem calados diante da infinita procrastinação. É que Temer oferece, afinal, um produto em alta demanda: a restauração da ordem.</p>
+<p>Definindo a transição em curso, FHC selecionou uma metáfora certeira, mas plena de implicações ambíguas. "A situação atual é como se fosse uma pinguela. Não é uma ponte, é uma pinguela. Mas, se quebrar a pinguela, cai no rio." Ok: "pinguela" é o governo Temer e "rio", a tal da catástrofe. Mas quem, exatamente, "cai no rio" caso a ponte precária não resista? "A nação" –eis a resposta clássica, que identifica a sociedade inteira à sua elite política. No altar dessa "nação", o STF sacrificará o contrato constitucional, declarando-o "matéria interna corporis" do Senado. Bananas. Caxirolas.</p>
+{% endraw %}

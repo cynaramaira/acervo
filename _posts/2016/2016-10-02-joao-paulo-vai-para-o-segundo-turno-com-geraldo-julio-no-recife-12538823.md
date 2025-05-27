@@ -1,0 +1,36 @@
+---
+id: 12538823
+date: "2016-10-02T20:05:22Z"
+last_modified_at: null
+tags:
+  - "geraldo-julio"
+  - "joao-d"
+  - "para"
+  - "paulo"
+  - "recife"
+  - "segundo-turno"
+categories:
+  - "noticias"
+title: "Jo\u00e3o Paulo vai para o segundo turno com Geraldo Julio no Recife"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/geraldo-joao-paulo.jpg"
+---
+{% raw %}
+<p>O prefeito do Recife, Geraldo Julio (PSB), ficou com 49,34% dos votos neste domingo (2) e vai para o segundo turno com o ex-prefeito João Paulo (PT), que ficou com 23,76%. Os dois voltam a se enfrentar no segundo turno, no dia 30.</p>
+<p><iframe src='https://player.mais.uol.com.br/?mediaId=16013984&type=video' width='100%' height='360' allowfullscreen=''></iframe></p>
+<p>O fato de as eleições terem sido mais curtas este ano acabou <a href="https://blogs.ne10.uol.com.br/jamildo/2016/10/02/joao-paulo-comemora-segundo-turno-e-fala-em-dialogo-com-adversarios-derrotados/">diminuindo a possibilidade de mudanças radicais. João Paulo e Geraldo Julio começaram a campanha empatados tecnicamente</a>. O socialista chegou a passar o petista nas pesquisas de intenções de voto, mas a diferença entre os dois não passou de 10% ao longo da campanha.</p>
+<p>Nestas eleições, Geraldo Julio contou a seu favor, além da máquina, com o maior tempo de TV. Usou inicialmente para falar sobre ações do seu governo, como a robótica na <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/27/em-sabatina-joao-paulo-admite-dificuldades-do-pt-pos-lava-jato/">rede municipal e a construção do Compaz e do Hospital da Mulher. Depois, passou a criticar o principal adversário</a>, como fez com o projeto da Avenida Conde da Boa Vista. O socialista teve ainda o maior número de candidatos proporcionais, mais de 450 em um total de 700 candidatos a vereador na capital.</p>
+<p>Eleito no segundo turno em 2000 para o mesmo cargo, após <a href="https://blogs.ne10.uol.com.br/jamildo/2016/10/02/humberto-costa-vota-no-recife-e-diz-que-joao-paulo-vai-para-o-segundo-turno/">virar o placar contra o então prefeito Roberto Magalhães, do PFL, João Paulo deixou a prefeitura após o segundo mandato com 88%</a> de aprovação da gestão. Agora, porém, enfrenta dificuldades que são consequência da briga interna das eleições de 2012 e da Operação Lava Jato. O desempenho de João Paulo foi influenciado pela realidade atual do PT, durante a investigação do Petrolão e logo após o impeachment de Dilma Rousseff. O candidato chegou a sofrer uma tentativa de agressão.</p>
+<p><h1>Outra disputa</h1></p>
+<p>Há quatro anos, disputando como candidato a vice-prefeito na <a href="https://blogs.ne10.uol.com.br/jamildo/2016/10/02/luciano-siqueira-diz-que-geraldo-julio-nunca-foi-favor-do-impeachment/">chapa encabeçada pelo atual líder do PT no Senado, Humberto Costa, a chapa petista ficou em terceiro lugar em 2012,</a> com 17,4% dos votos. Geraldo Julio venceu ainda no segundo turno, com 51,1% e o deputado federal Daniel Coelho (PSDB), novamente adversário dos dois agora, teve 27,6%. Porém, o cenário era outro naquele pleito.</p>
+<p>Dois anos antes do início da Lava Jato e ainda no início do primeiro mandato de Dilma, a dificuldade era no PT municipal e envolvia João Paulo diretamente. O petista “bancou” a candidatura do seu então - <a href="https://blogs.ne10.uol.com.br/jamildo/2016/10/02/na-madalena-geraldo-julio-vota-ao-lado-da-familia/">e agora novamente - aliado João da Costa para sucedê-lo na prefeitura, indo de encontro à opinião </a>de outros petistas e de aliados na época, como Eduardo Campos e o vice-prefeito Luciano Siqueira (PCdoB), que ocupou o cargo com João Paulo e com Geraldo Julio e agora é novamente candidato com o socialista.</p>
+<p>O afilhado venceu a eleição com 51,54% dos votos e Milton Coelho (PSB) como vice, mas não manteve a popularidade do padrinho político, contando com apenas 30% de aprovação no primeiro ano de gestão e com 31% dos recifenses considerando seu governo ruim ou péssimo.</p>
+<p>Mas a briga foi muito além desses índices. João Paulo foi acusado <a href="https://blogs.ne10.uol.com.br/jamildo/2016/10/01/recifenses-chegam-as-urnas-convencidos-de-que-crise-economica-nacional-afetou-gestao-geraldo-julio/">por João da Costa de ser centralizador e de tentar influenciar na prefeitura e, por sua vez, foi tido pelo ex-aliado como</a> alguém que abandonou os ideais do partido e os compromissos de campanha. Em meio à briga, o PT realizou prévias para definir se o caminho seria a tentativa de reeleição ou com Maurício Rands, petista na época, como candidato. João da Costa venceu o processo, mas o resultado foi indeferido pelo diretório nacional do partido e Humberto foi o indicado.</p>
+<p>O PSB conseguiu tirar proveito do conflito para romper com os petistas. Eduardo Campos tirou Sileno Guedes, Danilo Cabral, Tadeu Alencar e o hoje prefeito das secretarias que ocupavam no governo estadual e colocou os socialistas como pré-candidatos na capital. O escolhido, Geraldo Julio, que ocupava a pasta de Desenvolvimento Econômico, foi apoiado por Rands, que deixou o PT e renunciou ao mandato de deputado federal. No ano seguinte, já com pretensão de disputar a presidência, Campos deixou de apoiar os petistas também no âmbito federal.</p>
+<p><iframe src="https://www.youtube.com/embed/SQudLGRk3Bs" width="100%" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Os dois superaram as rusgas e voltaram a se falar há dois anos, na eleição em que João da Costa foi candidato a deputado e o PT não conseguiu eleger nenhum parlamentar para a Câmara e diminuiu a representação na Assembleia Legislativa de Pernambuco (Alepe). O afilhado político de João Paulo se candidatou à Câmara Municipal este ano.</p>
+<p>Os Joões estiveram juntos em atos durante a campanha, muito <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/30/reduto-politico-de-lula-nordeste-nao-deve-eleger-prefeitos-do-pt-nas-capitais/">influenciada pela realidade atual do partido em que os dois se mantiveram apesar da briga. Até a escolha do candidato </a>a vice foi um movimento pautado nos âmbitos nacional e estadual. Sílvio Costa Filho (PRB) é ligado a Armando Monteiro Neto e filho de um dos mais ferrenhos aliados de Dilma em Brasília, o deputado federal Sílvio Costa Filho (PTdoB) - com os partidos deles, veio também o PTN.</p>
+<p>João Paulo começou na política sindical, como presidente do <a href="https://blogs.ne10.uol.com.br/jamildo/2016/10/02/humberto-costa-reconhece-que-pt-nao-deve-repetir-resultados-das-eleicoes-anteriores/">sindicato local dos metalúrgicos e da Central Única dos Trabalhadores de Pernambuco (CUT-PE). Foi o caminho</a> que traçou no início da campanha, dando prioridade a encontros com entidades representativas de trabalhadores e às “cirandas”, como intitulou as rodas de discussão que levaram às ideias para a formação do seu programa de governo. O petista realizou caminhadas, carreatas e outros eventos de rua, mas, da mesma forma que o seu adversário que venceu a eleição, fugiu dos debates, comparecendo apenas na última semana de campanha. Como o socialista, teve a gestão questionada pelos opositores.</p>
+{% endraw %}

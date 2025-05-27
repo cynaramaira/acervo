@@ -1,0 +1,34 @@
+---
+id: 12515161
+date: "2016-04-01T09:38:48Z"
+last_modified_at: null
+tags:
+  - "empresario"
+  - "lava-jato"
+  - "mariana"
+categories:
+  - "noticias"
+title: "Lava Jato prende ex-secret\u00e1rio do PT e empres\u00e1rio Ronan Maria Pinto"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><img class="alignnone  wp-image-143526" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/03/CeJU0UzWAAAbDOh.jpg" alt="PF Polícia Federal" width="582" height="285" /></p>
+<p><em>Estadão Conteúdo -</em> A Polícia Federal deflagrou nesta sexta-feira, 1º, a Operação Carbono 14, a 27ª fase da Operação Lava Jato. O empresário Ronan Maria Pinto e o ex-secretário-geral do PT Silvio Pereira foram presos. O ex-tesoureiro do PT Delúbio Soares e o jornalista Breno Altman foram conduzidos coercitivamente para depor.</p>
+<p>Cinquenta policiais federais cumprem 12 ordens judiciais, sendo 8 mandados de busca e apreensão, 2 de prisão temporária e 2 de condução coercitiva - quando o investigado é levado para depor e liberado. As medidas estão sendo cumpridas nos municípios de São Paulo, Carapicuíba, Osasco e Santo André. Segundo a Polícia Federal, os fatos investigados nesta fase apuram crimes de extorsão, falsidade ideológica, fraude, corrupção ativa e passiva e lavagem de dinheiro.</p>
+<p>A Procuradoria da República, durante as investigações da Lava Jato, constatou que o pecuarista José Carlos Bumlai, amigo do ex-presidente Luiz Inácio Lula da Silva, contraiu, a pedido do PT, "um empréstimo fraudulento junto ao Banco Schahin em outubro de 2004 no montante de R$ 12 milhões, cujo prejuízo foi posteriormente suportado pela Petrobras".</p>
+<p>"O mútuo, na realidade, tinha por finalidade a 'quitação' de dívidas do Partido dos Trabalhadores (PT) e foi pago por intermédio da contratação fraudulenta da Schahin como operadora do navio-sonda Vitória 10.000, pela Petrobras, em 2009, ao custo de US$ 1,6 bilhão. Esses fatos já haviam sido objeto de acusação formal, sendo agora foco de uma nova frente investigatória", sustenta a força-tarefa em nota.</p>
+<p>Por determinação do PT, R$ 6 milhões tiveram como destino o empresário do município de Santo André (SP), Ronan Maria Pinto.</p>
+<p>Em novembro de 2014, ao pedir a prisão de Bumlai pelo empréstimo de R$ 12 milhões, a força-tarefa da Lava Jato citou um episódio mencionado pelo condenado no mensalão Marcos Valério, em 2012, quando ele tentou, sem sucesso, um acordo de delação premiada com a Procuradoria-Geral da República para reduzir sua condenação de 37 anos no mensalão.</p>
+<p>O publicitário afirmou naquela época que o pecuarista teria repassado dinheiro a um empresário de Santo André para evitar que ele revelasse novos nomes envolvidos na morte do então prefeito da cidade, Celso Daniel (PT), em 2002. O dinheiro serviria, segundo Valério, para que o empresário parasse de chantagear o ex-presidente Luiz Inácio Lula da Silva, o então secretário da Presidência, Gilberto Carvalho, e o então ministro da Casa Civil, José Dirceu. Ronan tentava relacionar Lula, Carvalho e Dirceu a suspeitas de corrupção na cidade que teriam motivado o assassinato do prefeito Celso Daniel, em 2002 - a conclusão da polícia paulista é de que ele foi vítima de um crime comum, não político.</p>
+<p>Em 2014, o jornal O Estado de S. Paulo revelou que a Polícia Federal apreendeu no escritório da contadora do doleiro Alberto Youssef , delator da Lava Jato, um contrato de empréstimo no valor de R$ 6 milhões entre Marcos Valério e uma empresa de Ronan Maria Pinto. Na ocasião, Ronan negou qualquer contrato.</p>
+<p>"Como ressaltou a decisão que decretou as medidas cautelares, a fiar-se no depoimento dos colaboradores e do confesso José Carlos Bumlai, os valores foram pagos a Ronan Maria Pinto por solicitação do Partido dos Trabalhadores". Para fazer os recursos chegarem ao destinatário final, foi arquitetado um esquema de lavagem de capitais, envolvendo Ronan, pessoas ligadas ao Partido dos Trabalhadores e terceiros envolvidos na operacionalização da lavagem do dinheiro proveniente do crime contra o sistema financeiro nacional", aponta a força-tarefa da Lava Jato.</p>
+<p>Segundo a Procuradoria, há evidências que apontam que o PT influiu diretamente junto ao Banco Schahin na liberação do empréstimo fraudulento. Para chegar ao destinatário final Ronan Maria Pinto, os investigados teriam se utilizado de diversos estratagemas para ocultar a proveniência ilícita dos valores e a identidade do destinatário final do dinheiro obtido na instituição financeira.</p>
+<p>"Em suma, há provas que apontam para o fato de que a operacionalização do esquema se deu, inicialmente, por intermédio da transferência dos valores de Bumlai para o Frigorífico Bertin, que, por sua vez, repassou a quantia de aproximadamente R$ 6 milhões a um empresário do Rio de Janeiro envolvido no esquema", afirma a Procuradoria.</p>
+<p>"Há evidências de que este empresário carioca realizou transferências diretas para a Expresso Nova Santo André, empresa de ônibus controlada por Ronan Maria Pinto, além de outras pessoas físicas e jurídicas indicadas pelo empresário para recebimento de valores. Dentre as pessoas indicadas para recebimento dos valores por Ronan, estava o então acionista controlador do Jornal Diário do Grande ABC, que recebeu R$ 210 mil em 9 de novembro de 2004. Na época, o controle acionário do periódico estava sendo vendido a Ronan Maria Pinto em parcelas de R$ 210 mil. Suspeita-se que uma parte das ações foi adquirida com o dinheiro proveniente do Banco Schahin. Uma das estratégias usadas para conferir aparência legítima às transferências espúrias dos valores foi a realização de um contrato de mútuo simulado, o qual havia sido apreendido em fase anterior da Operação Lava Jato."</p>
+<p>A força-tarefa sustenta que outras pessoas possivelmente envolvidas na negociação para a concessão do empréstimo fraudulento pelo Banco Schahin também são alvo da operação desta sexta. Segundo os investigadores, identificou-se que um dos envolvidos recebeu recursos de pessoas e empresas que mantinham contratos com a Petrobras e que já foram condenadas no âmbito da Operação Lava Jato.</p>
+<p>"Esses pagamentos ocorreram ao menos até o ano de 2012. As pessoas cuja prisão foi determinada já tiveram prévio envolvimento com crimes de corrupção", aponta a Procuradoria.</p>
+<p>O nome da operação, Carbono 14, segundo a PF, faz referência a procedimentos "utilizados pela ciência para a datação de itens e a investigação de fatos antigos". Os presos serão levados para Curitiba, sede da Lava Jato.</p>
+{% endraw %}

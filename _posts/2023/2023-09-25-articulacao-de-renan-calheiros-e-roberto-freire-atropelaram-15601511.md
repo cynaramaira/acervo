@@ -1,0 +1,28 @@
+---
+id: 15601511
+date: "2023-09-25T15:40:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "cpi-da-covid-19"
+categories:
+  - "sem-categoria"
+title: "Articula\u00e7\u00e3o de Renan Calheiros e Roberto Freire atropelaram resist\u00eancia de Rodrigo Pacheco para instala\u00e7\u00e3o da CPI da Covid"
+sutia: "No livro, os pernambucanos tamb\u00e9m rendem homenagem \u00e0 empres\u00e1ria Luiza Helena Trajano, dona do Magazine Luiza, em contrapartida ao comportamento nefasto de boa parte dos empres\u00e1rios brasileiros na \u00e9poca"
+chapeu: "Guerra nos bastidores"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/09/02/51419482831_cfdcfd7c7b_k-18750234.jpg"
+---
+{% raw %}
+<p>No livro &ldquo;A pol&iacute;tica contra o v&iacute;rus &ndash; Bastidores da CPI da Covid&rdquo; (Companhia das Letras, 2023), em que os senadores pernambucanos <strong>Humberto Costa</strong> e <strong>Randolfe Rodrigues</strong> (eleito pelo Amapa) contam os bastidores da CPI da Covid, instalada em julho de 2021 pelo Congresso Nacional, a dupla relata a enorme resist&ecirc;ncia do presidente <strong>Rodrigo Pacheco</strong> em assinar a instala&ccedil;&atilde;o e como o senador <strong>Renan Calheiros</strong> e o presidente do Cidadania, <strong>Roberto Freire</strong>, contornaram os obst&aacute;culos.</p>
+<p>"Est&aacute;vamos pr&oacute;ximos de obter as 27 assinaturas necess&aacute;rias &agrave; cria&ccedil;ao da comiss&atilde;o e Renan n&atilde;o hesitou um segundo quando o procuramos para pedir sua assinatura... ele nos disse: "Essa CPI tem que sair. Entre outras coisas, porque ela &eacute; o caminho para o parlamento retomar a posi&ccedil;&atilde;o de quem investiga o Executivo e que, co a Lava Jato, se perdeu para o Minist&eacute;rio P&uacute;blico e a magistratura", revelam.</p>
+<p>Com apoio e a ajuda de Renan Calheiros, foram obtidas 33 assinaturas, seis a mais que o m&iacute;nimo necess&aacute;rio para a cria&ccedil;&atilde;o da CPI. O mesmo Renan Calheiros que havia presidido o senado no impedimento de Dilma. "As assinaturas foram chegando aos poucos, trazidos em grande parte por Renan Calheiros ...e &eacute; preciso reconhecer que o peso de seu protagonismo pol&iacute;tico o transformou no alvo predileto de seus advers&aacute;rios, da grande m&iacute;dia e de institui&ccedil;&otilde;es de controle p&uacute;blico"<br /></p>
+<p>"Sab&iacute;amos do desacordo por parte do presidente do Senado, com a ideia da instala&ccedil;&atilde;o da CPI naquele momento e est&aacute;vamos cientes de que, pelo seu poder como presidente da Casa, poderia criar muitos percal&ccedil;os no nosso caminho e foi o que aconteceu... nos bastidores do Senado, comentava-se que o ex-presidente da Casa, Davi Alcolumbre, padrinho da candidatura de Pacheco &agrave; sua sucess&atilde;o, teria garantido ao presidente da Rep&uacute;blica que seu aliado n&atilde;o s&oacute; n&atilde;o lhe criaria problemas como impediria constrangimentos maiores ao seu governo, entre eles a cria&ccedil;&atilde;o de uma CPi para investigar a postura do governo na pandemia", afirmam. "Talvez tenham depositado expectativas exageradas no suposto acordo com Alcolumbre".</p>
+<p>"O lance pol&iacute;tico mais relevante naquele momento foi, sem d&uacute;vida, a inesperada a&ccedil;&atilde;o impetrada no dia 11 de mar&ccedil;o de 2021 junto ao STf pelos senadores Alessandro Vieira (hospitalizado pela Covid) e Jorge Kajuro, pedindo &agrave; Suprema Corte que determinasse ao presidente do Senado a imediata instala&ccedil;&atilde;o da CPI... Em verdade, o mentor da peti&ccedil;&atilde;o foi o ex-deputado federal Roberto Freire, presidente do Cidadania, partido ao qual pertenciam Kajuru e Vieira", citam.</p>
+<h2>Obsess&atilde;o com o Cons&oacute;rcio Nordeste</h2>
+<p>Os senadores falan ainda do papel da situa&ccedil;&atilde;o, para barrar a CPI. "Eles procuravam desviar a apura&ccedil;&atilde;o para supostas a&ccedil;&otilde;es de corrup&ccedil;&atilde;o de governos estaduais e prefeituras com recursos transferidos pela Uni&atilde;o para o enfrentamento da pandemia em estados e munic&iacute;pios.. Um dos seus alvos principais era o Cons&oacute;rcio Nordeste, formado pelos governadores da Regi&atilde;o, todos dirigidos por pol&iacute;ticos predominantemente de oposi&ccedil;&atilde;o", escrevem.</p>
+<p>"No entanto, essas acusa&ccedil;&otilde;es, mesmo sem esclarimento pleno, foram utilizadas como instrumento de intimida&ccedil;&atilde;o p&uacute;blica e de ataques pol&iacute;ticos. A verdadeira obsess&atilde;o do senador Eduardo Gir&atilde;o (Podemos-CE) pelo tema do Cons&oacute;rcio Nordeste seria uma das principais marcas da estrat&eacute;gia governista na CPI"</p>
+<h2>Luiza Trajano</h2>
+<p>No livro, os pernambucanos tamb&eacute;m rendem homenagem &agrave; empres&aacute;ria Luiza Helena Trajano, dona do Magazine Luiza, em contrapartida ao comportamento nefasto de boa parte dos empres&aacute;rios brasileiros na &eacute;poca.</p>
+<p>"A postura de Luiza Trajano foi, al&eacute;m de republicana, uma marca que a distinguiu de muitos empres&aacute;rios brasileiros. A responsabilidade social e altivez pol&iacute;tica com que agiu ao buscar Rodrigo Pacheco surtiram efeito imediato. Gra&ccedil;as a este movimento, foi poss&iacute;vel romper as resist&ecirc;ncias dentro do governo e, certamente, assegurar a vida de milh&otilde;es de brasileiros, salvos da covid pela chegada das vacinas", escreveram.</p>
+{% endraw %}

@@ -1,0 +1,20 @@
+---
+id: 15698091
+date: "2024-04-25T14:00:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "tik-tok"
+categories:
+  - "sem-categoria"
+title: "TikTok nos EUA: entre a liberdade de express\u00e3o e a soberania de dados"
+sutia: "A comunica\u00e7\u00e3o da ByteDance e do TikTok lamentaram a decis\u00e3o dos EUA, que suscita quest\u00f5es sobre a liberdade de express\u00e3o e a soberania de dados"
+chapeu: "redes sociais"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2020/05/15/colunas_tiktok_240619_gettyimages_1024x683-8126168.jpg"
+---
+{% raw %}
+<p>Por Alexander Coelho, em artigo enviado ao blog<br /></p>
+<p>A situa&ccedil;&atilde;o do TikTok nos Estados Unidos &eacute; realmente complexa e se encontra em um territ&oacute;rio delicado que envolve tanto a pol&iacute;tica internacional quanto as preocupa&ccedil;&otilde;es com privacidade e seguran&ccedil;a de dados. A legisla&ccedil;&atilde;o proposta, que pode levar ao banimento do TikTok caso sua empresa-m&atilde;e, a ByteDance, n&atilde;o encontre um comprador americano, ilustra as tens&otilde;es entre os EUA e a China, especialmente no que diz respeito ao controle e ao fluxo de informa&ccedil;&otilde;es.<br /> <br />A decis&atilde;o suscita quest&otilde;es significativas sobre a liberdade de express&atilde;o e a soberania de dados. A alega&ccedil;&atilde;o de que o TikTok poderia ser uma ferramenta para o governo chin&ecirc;s acessar dados de cidad&atilde;os americanos ressalta a necessidade cr&iacute;tica de uma governan&ccedil;a de dados robusta e transparente.<br /> <br />O aspecto legal da ByteDance desafiar a constitucionalidade do projeto destaca a complexidade da interse&ccedil;&atilde;o entre as regulamenta&ccedil;&otilde;es de um pa&iacute;s e as opera&ccedil;&otilde;es globais de uma empresa. &Eacute; um caso para observar de perto, pois pode estabelecer precedentes importantes para o futuro da opera&ccedil;&atilde;o de empresas de m&iacute;dia social em uma escala global e tamb&eacute;m pode influenciar as normativas sobre aquisi&ccedil;&otilde;es e fus&otilde;es no contexto da seguran&ccedil;a nacional.<br /> <br />Al&eacute;m disso, o aspecto da integra&ccedil;&atilde;o deste projeto de lei com pacotes de ajuda a outros pa&iacute;ses &eacute; uma manobra estrat&eacute;gica no jogo pol&iacute;tico, visando acelerar a aprova&ccedil;&atilde;o de medidas controversas, aproveitando a urg&ecirc;ncia e a prioridade dada &agrave; assist&ecirc;ncia externa.<br /> <br />A comunica&ccedil;&atilde;o da ByteDance e do TikTok, lamentando a decis&atilde;o e destacando a quest&atilde;o da liberdade de express&atilde;o, mostra a complexidade da narrativa em torno da tecnologia, da pol&iacute;tica e dos direitos civis.<br /> <br />&Eacute; essencial argumentar que qualquer decis&atilde;o deve ser ponderada n&atilde;o apenas no contexto da seguran&ccedil;a nacional, mas tamb&eacute;m no respeito aos direitos fundamentais dos indiv&iacute;duos de se expressarem e de acessarem a informa&ccedil;&atilde;o livremente. A justaposi&ccedil;&atilde;o destes interesses ressalta a complexidade dos desafios legais e &eacute;ticos que surgem na interse&ccedil;&atilde;o da tecnologia, da governan&ccedil;a e dos direitos humanos no s&eacute;culo XXI.<br /> <br />Portanto, &eacute; crucial que a implementa&ccedil;&atilde;o de tais pol&iacute;ticas seja meticulosamente examinada e equilibrada para garantir que o avan&ccedil;o tecnol&oacute;gico e a seguran&ccedil;a nacional n&atilde;o sejam alcan&ccedil;ados &agrave; custa dos princ&iacute;pios de liberdade e privacidade que formam a base das sociedades livres.<br /> <br /><em>Alexander Coelho &eacute; especialista em Direito Digital e Prote&ccedil;&atilde;o de Dados</em></p>
+<p>&nbsp;</p>
+{% endraw %}

@@ -1,0 +1,33 @@
+---
+id: 15595139
+date: "2023-09-16T05:43:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "marilia-arraes"
+  - "raquel-lyra"
+  - "violencia-urbana"
+categories:
+  - "sem-categoria"
+title: "'Raquel Lyra n\u00e3o tem a m\u00ednima no\u00e7\u00e3o do que fazer para tomar r\u00e9deas da seguran\u00e7a', critica Mar\u00edlia Arraes  "
+sutia: "Raquel Lyra presta solidariedade aos familiares das v\u00edtimas fala em rigor nas investiga\u00e7\u00f5es"
+chapeu: "Mortes violentas"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/10/28/marilia_arraes_raquel_lyra_debate-21955334.jpg"
+---
+{% raw %}
+<p>Com um v&iacute;deo publicado nas redes sociais, reclamando do 'cen&aacute;rio de caos na Seguran&ccedil;a P&uacute;blica de Pernambuco', a deputada federal Mar&iacute;lia Arraes, advers&aacute;ria de Raquel Lyra nas elei&ccedil;&otilde;es passadas, falou em inoper&acirc;ncia do Governo do Estado e cobrou responsabilidades, depois que uma a&ccedil;&atilde;o policial em Camaragibe acabou com 8 mortos e 5 feridos.<br /></p>
+<p>Nesta sexta, mais viol&ecirc;ncia, depois da chacina em Camaragibe. Um torcedor do clube de futebol ABC foi assassinado com tiro na cabe&ccedil;a em confronto com organizada do Sport, no Recife.</p>
+<div style="position: relative; padding-bottom: 56.25%;"><br />Em v&iacute;deo que circula nas redes sociais &eacute; poss&iacute;vel as torcidas organizadas "Garra Alvinegra" e "Torcida Jovem" brigando nas proximidades do est&aacute;dio Frasqueir&atilde;o.<br /><br />Em certo momento, &eacute; poss&iacute;vel ouvir tr&ecirc;s disparos de armas de fogo. O &uacute;ltimo deles acabou atingindo um torcedor de camisa preta e cal&ccedil;a jeans, que cai imediatamente no meio-fio. <br /><br />De acordo com integrantes da fac&ccedil;&atilde;o do ABC, o disparo teria sido realizado por Policiais Militares que tentavam dispersar o grupo. Procurada pela reportagem do Jornal do Commercio, a PMRN negou." /&gt;<iframe style="width: 100%; height: 100%; position: absolute; left: 0px; top: 0px; overflow: hidden;" src="https://geo.dailymotion.com/player/xhsob.html?video=x8o3vcj" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<h2>Juntos pela (In)seguran&ccedil;a, ironiza</h2>
+<p>&ldquo;A seguran&ccedil;a do nosso Estado j&aacute; estava de mal a pior, mas agora Raquel Lyra continua dando provas de que n&atilde;o tem a m&iacute;nima no&ccedil;&atilde;o do que se deve fazer para tomar as r&eacute;deas da situa&ccedil;&atilde;o. Ela fez sua campanha, come&ccedil;ou o governo e continua sem nenhuma ideia do que fazer, mesmo com a fal&aacute;cia de seu plano Juntos pela (In)seguran&ccedil;a. A governadora precisa ser respons&aacute;vel pela seguran&ccedil;a, dialogando diretamente com os comandos, e n&atilde;o com interlocutores&rdquo;, destacou Mar&iacute;lia.<br /></p>
+<p>Repercutindo o post, nos coment&aacute;rios do Instagran, uma eleitora chamada Joselma Silva fez refer&ecirc;ncia &agrave; campanha de 2022. "Ouvir que faz pouco tempo de governo &eacute; inadmiss&iacute;vel... uma governadora delegada da Pol&iacute;cia Federal assume um mandato sem saber montar um plano de a&ccedil;&atilde;o emergencial para conter a viol&ecirc;ncia ou a guerra que se instalou em Pernambuco".</p>
+<p><iframe id="instagram-embed-0" class="instagram-media instagram-media-rendered" style="background: white; max-width: 540px; width: calc(100% - 2px); border-radius: 3px; border: 1px solid #dbdbdb; box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 326px; padding: 0px;" src="https://www.instagram.com/reel/CxOhMgjxTar/embed/captioned/?cr=1&amp;v=14&amp;wp=483&amp;rd=http%3A%2F%2Ffivenews.sjcc.com.br&amp;rp=%2F#%7B%22ci%22%3A0%2C%22os%22%3A28624%2C%22ls%22%3A28233%2C%22le%22%3A28611%7D" width="300" height="1134" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen" data-instgrm-payload-id="instagram-media-payload-0"></iframe></p>
+<p><script async="" src="//www.instagram.com/embed.js"></script></p>
+<h2>Raquel Lyra presta solidariedade aos familiares das v&iacute;timas fala em rigor nas investiga&ccedil;&otilde;es</h2>
+<p>Em um discurso feito na sexta-feira (15) no Pal&aacute;cio do Campo das Princesas, a governadora Raquel Lyra assegurou que haver&aacute; <strong>rigor nas investiga&ccedil;&otilde;es dos crimes</strong> ocorridos ap&oacute;s uma opera&ccedil;&atilde;o policial em Camaragibe. A opera&ccedil;&atilde;o resultou na morte dos policiais militares Rodolfo Jos&eacute; da Silva e Eduardo Roque Barbosa de Santana. Horas depois, outras cinco pessoas foram mortas na mesma cidade e em Paudalho, incluindo o suspeito de matar os PMs e seus familiares.</p>
+<p>Lyra garantiu que o <strong>Grupo de Opera&ccedil;&otilde;es Especiais (GOE) da Pol&iacute;cia Civil</strong> foi designado para conduzir a investiga&ccedil;&atilde;o do caso. Durante seu discurso, ela tamb&eacute;m expressou solidariedade &agrave;s fam&iacute;lias das v&iacute;timas. &ldquo;Infelizmente, oito vidas foram perdidas e a pol&iacute;cia est&aacute; investigando as circunst&acirc;ncias de cada uma delas. <strong>N&oacute;s, do Governo de Pernambuco, estamos vigilantes e tomando todas as medidas necess&aacute;rias para garantir a paz social no estado</strong>, fortalecendo tamb&eacute;m as equipes de policiais. Expresso aqui minha solidariedade &agrave;s fam&iacute;lias&rdquo;, afirmou a governadora Raquel Lyra.</p>
+<p>Alessandro Carvalho, secret&aacute;rio de Defesa Social, afirmou que nenhuma linha de investiga&ccedil;&atilde;o ser&aacute; descartada, mas <strong>&eacute; prov&aacute;vel que as mortes recentes estejam relacionadas</strong>.</p>
+<p>&ldquo;N&atilde;o podemos descartar nenhuma hip&oacute;tese. O que sabemos &eacute; que dois policiais foram assassinados ao atender uma ocorr&ecirc;ncia e, depois disso, cinco pessoas ligadas ao suspeito foram mortas em menos de 12 horas. Existe uma correla&ccedil;&atilde;o entre os fatos e &eacute; isso que vamos investigar&rdquo;, declarou o novo titular da SDS.</p>
+<p>O pronunciamento tamb&eacute;m contou com a participa&ccedil;&atilde;o da delegada Simone Aguiar, chefe da Pol&iacute;cia Civil de Pernambuco, do coronel Marcos Ramalho, subcomandante da Pol&iacute;cia Militar, do comandante-geral do Corpo de Bombeiros, coronel Luciano Fons&ecirc;ca, e do gerente-geral da Pol&iacute;cia Cient&iacute;fica, Fernando Benevides.<br /></p>
+{% endraw %}

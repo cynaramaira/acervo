@@ -1,0 +1,24 @@
+---
+id: 15601811
+date: "2023-09-25T18:29:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "joao-campos"
+categories:
+  - "sem-categoria"
+title: "Alcides Cardoso pede que Jo\u00e3o Campos reinicie licita\u00e7\u00e3o do Hospital da Crian\u00e7a "
+sutia: "Vereador disse que pedido era para evitar repeti\u00e7\u00e3o de suposto preju\u00edzo milion\u00e1rio do Parque Eduardo Campos"
+chapeu: "Oposi\u00e7\u00e3o no ataque"
+autor: "Jamildo melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/09/25/vereador_alcides_cardoso___parque_eduardo_campos___foto___phillipe_jonathan___divulgacao-24403731.jpg"
+---
+{% raw %}
+<p>O l&iacute;der da oposi&ccedil;&atilde;o na C&acirc;mara do Recife, vereador <strong>Alcides Cardoso</strong> (PSDB), pediu, em discurso na reuni&atilde;o ordin&aacute;ria desta segunda-feira (25), para o prefeito <strong>Jo&atilde;o Campos</strong> (PSB) reiniciar a licita&ccedil;&atilde;o da obra do Hospital da Crian&ccedil;a, alvo do <strong>Tribunal de Contas de Pernambuco</strong> (TCE-PE) ap&oacute;s a equipe t&eacute;cnica do Tribunal apontar um suposto sobrepre&ccedil;o de mais de R$ 5 milh&otilde;es em outra obra do Gabinete de Projetos Especiais, a constru&ccedil;&atilde;o do Parque Eduardo Campos, no Pina.</p>
+<p>A fala foi uma resposta ao governo municipal, que disse que ele estava colocando "gosto ruim" no parque Eduardo Campos, em constru&ccedil;&atilde;o.</p>
+<p>&ldquo;<strong>Como se v&ecirc;, n&atilde;o estou aqui falando se o parque &eacute; bom ou ruim.</strong> &Eacute; claro que defendemos equipamentos p&uacute;blicos democr&aacute;ticos para todos da nossa cidade. Mas isso n&atilde;o pode ser utilizado para gastar dinheiro p&uacute;blico de maneira equivocada. Seis milh&otilde;es &eacute; um valor que construiria pelo menos mais duas creches na cidade. &Eacute; muito dinheiro. E &eacute; dinheiro suado do bolso do pagador de impostos recifense&rdquo;, disse Alcides Cardoso.</p>
+<p>&ldquo;Fa&ccedil;o um alerta sobre a necessidade da gest&atilde;o do prefeito Jo&atilde;o Campos rever a forma como tem feito as licita&ccedil;&otilde;es de grandes obras pagas com recursos dos pagadores de impostos. Prefeito, para que n&atilde;o restem d&uacute;vidas sobre o bom uso do dinheiro p&uacute;blico na nossa capital, reveja essa licita&ccedil;&atilde;o do Hospital da Crian&ccedil;a, carro-chefe da sua campanha, porque ela est&aacute; cheia de problemas e precisa ser reiniciada. Caso contr&aacute;rio, veremos ocorrer no Hospital da Crian&ccedil;a a mesma possibilidade de preju&iacute;zo milion&aacute;rio aos cofres do munic&iacute;pio causado pelos equ&iacute;vocos na condu&ccedil;&atilde;o da licita&ccedil;&atilde;o do Parque Eduardo Campos&rdquo;, disse Alcides Cardoso.</p>
+<p>Segundo relatou, a Ger&ecirc;ncia de Fiscaliza&ccedil;&atilde;o em Licita&ccedil;&otilde;es de Obras do TCE apontou como erro do edital de licita&ccedil;&atilde;o do Hospital da Crian&ccedil;a, registrado como concorr&ecirc;ncia n&uacute;mero 003 de 2023 do Gabinete de Projetos Especiais, veda&ccedil;&atilde;o injustificada &agrave; participa&ccedil;&atilde;o de empresas em formato de cons&oacute;rcio, restri&ccedil;&atilde;o indevida &agrave; competitividade nos requisitos de qualifica&ccedil;&atilde;o t&eacute;cnica e documenta&ccedil;&atilde;o inadequada do projeto b&aacute;sico, com fragilidades e sobrepre&ccedil;o.</p>
+<p>&ldquo;Estamos falando de uma licita&ccedil;&atilde;o que segue ocorrendo normalmente mesmo com todas essas falhas alertadas pela equipe t&eacute;cnica do TCE. Uma licita&ccedil;&atilde;o de uma<strong> obra importante de mais de R$ 100 milh&otilde;es</strong>, que n&atilde;o pode ser manchada novamente por irregularidades que nos levam &agrave; imprensa nacional por falhas e desperd&iacute;cio de dinheiro p&uacute;blico. Fa&ccedil;o esse apelo para que a prefeitura corrija esses erros, como &eacute; comum no servi&ccedil;o p&uacute;blico, e realize um processo limpo, transparente e econ&ocirc;mico. Em defesa das crian&ccedil;as do Recife, em defesa do cidad&atilde;o pagador de impostos recifense&rdquo;, afirmou o parlamentar.</p>
+<p>No discurso, o l&iacute;der da oposi&ccedil;&atilde;o citou a coluna do jornalista Guilherme Amado, do Portal Metr&oacute;poles, com o t&iacute;tulo &ldquo;TCE aponta irregularidades na obra do maior parque do Recife&rdquo;, publicada na &uacute;ltima sexta-feira (22). "Segundo o jornalista, o TCE terminou na &uacute;ltima semana uma auditoria especial que concluiu que uma construtora de renome nacional foi indevidamente exclu&iacute;da da licita&ccedil;&atilde;o do Parque Eduardo Campos. E que sua proposta, que era R$ 6 milh&otilde;es mais barata que a vencedora, que foi de R$ 63 milh&otilde;es, foi incinerada cinco dias ap&oacute;s a concorr&ecirc;ncia, enquanto normalmente isso ocorre com 30 dias".</p>
+{% endraw %}

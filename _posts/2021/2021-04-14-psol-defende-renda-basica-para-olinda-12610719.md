@@ -1,0 +1,27 @@
+---
+id: 12610719
+date: "2021-04-14T13:50:22Z"
+last_modified_at: null
+tags:
+  - "cesta-basica"
+  - "olinda"
+  - "psol"
+  - "renda"
+categories:
+  - "noticias"
+title: "Psol defende renda b\u00e1sica para Olinda"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/06/Eugenia-Lima-PSOL.jpg"
+---
+{% raw %}
+<p><p>Por Eugênia Lima, em artigo para o blog</p></p>
+<p><p>Chegamos em mais um momento no qual a pandemia se agrava no país e, devido à lenta vacinação, o isolamento social continua sendo uma importante medida para preservar vidas. Porém, para que todos e todas possam ter o direito de se isolar de forma segura e adequada, é indispensável ter condições econômicas para comprar comida e material de limpeza. Por isso, em todo o Brasil, surge o debate da Renda Básica. Uma política pública capaz de garantir o auxílio econômico, social e fortalecer as medidas sanitárias tão urgentes e necessárias.</p></p>
+<p><p>Em Pernambuco, a mandata das Juntas Codeputadas apresentou uma proposta de Renda Básica na Assembleia Legislativa que pretende contemplar, pelo menos, 70 mil famílias em situação de hipervulnerabilidade em todo o Estado. No Recife, Dani Portela e Ivan Moraes também apresentaram proposta à Prefeitura, pedindo uma Renda Básica justa para que a população da nossa cidade vizinha possa se sustentar, de fato, neste momento de alta taxa de desemprego, desalento e aumento nos valores dos alimentos. Em Belém (PA), a prefeitura de Edmilson Rodrigues conseguiu estabelecer uma proposta de renda básica digna. Além dos mandatos do PSOL, a Frente Povo Sem Medo e Frente Brasil Popular já reivindicam uma política pública que auxilie a população mais carente.</p></p>
+<p><p>É neste cenário que se torna necessário diminuir o abismo econômico que vem se tornando um verdadeiro apartheid sanitário. Na fase mais letal da pandemia, com média de 3.125 de mortes por dia, é preciso garantir segurança econômica e alimentar para que as pessoas que seguem expostas ao vírus possam ficar em suas residências. A profunda desigualdade social do nosso país e, consequentemente, da nossa cidade, tornou a realidade ainda mais macabra para quem está sem auxílio e sem conseguir se manter em casa. Este problema se agrava, por exemplo, para pessoas que estão desempregadas, desalentadas e, ainda, trabalhadores e trabalhadoras informais, que precisam arriscar as suas vidas e as vidas de seus familiares e vizinhos no superlotado transporte público da Região Metropolitana, além de já habitarem os bairros mais precários, sem saneamento básico e fornecimento de água – sendo, este último, um outro problema crônico da nossa cidade.</p></p>
+<p><p>Mesmo neste cenário trágico da nossa vida, Olinda permanece aquém dos importantes desafios na construção de políticas públicas e amparo aos/as olindenses. Na nossa cidade, um auxílio municipal amplo que contemple todos necessitados é essencial para enfrentarmos a pandemia. Hoje, 70.566 famílias olindenses estão cadastradas no CadÚnico. Destas, 52% (36.381) estão em situação de vulnerabilidade, vivendo com a renda per capita mensal de até R$ 89,00. Além dessas famílias, é importante ampliar o auxílio para todos os/as trabalhadores/as informais, do comércio, do carnaval, da cultura e outros setores. Infelizmente, os atuais beneficiados pelo auxílio da Prefeitura não constituem a realidade total de Olinda. A proposta atual foi apresentada com muito alarde, mas seus critérios não contemplam nem mesmo a totalidade da economia informal do sítio histórico. O CadÚnico é uma ferramenta que pode ajudar a identificar as famílias mais vulneráveis para que o auxílio possa se constituir na sua totalidade e contribua de forma realmente significativa para segurança social, econômica e sanitária e todos e todas.</p></p>
+<p><p>Também não podemos esquecer a gravidade da pandemia. Conforme o último boletim epidemiológico da Prefeitura, no dia 9/04, a letalidade da Covid-19 em Olinda é de 4,29%, maior que as médias nacional (2,58%) e estadual (3,46%). Para frear o contágio e impedir mais mortes, o Poder Público deve garantir um auxílio para todos que necessitam, assegurando que as vidas das famílias olindenses mais carentes sejam preservadas. Não podemos naturalizar a assustadora taxa de mortalidade da nossa cidade, é preciso combatê-la tomando as medidas necessárias para que a nossa população seja devidamente protegida.</p></p>
+<p><p>Mais que possível, é primordial que o Poder Público atue ativamente na luta contra o coronavírus, implantando as políticas municipais necessárias para o enfrentamento da crise. Neste sentido, é de extrema importância que a Prefeitura de Olinda e a Câmara dos Vereadores acompanhe o debate público no restante do país e apresente uma proposta de Renda Básica ampla e real para a cidade de Olinda. O auxílio municipal que se tem hoje é insuficiente e parece mais pirotecnia política para promoção do mandatário. É necessário uma discussão mais ampla e a firmeza política da gestão. Para que, com isso, a nossa população, já vulnerabilizada, não tenha que fazer a impossível escolha entre ficar em casa e morrer de fome, ou ir às ruas e se expor a um vírus altamente letal.</p></p>
+<p><p>Presidente do PSOL Olinda e Chefe de Gabinete das Juntas Codeputadas na Alepe.</p></p>
+{% endraw %}

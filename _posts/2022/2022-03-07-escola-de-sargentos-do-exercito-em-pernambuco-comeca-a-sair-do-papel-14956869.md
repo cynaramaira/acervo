@@ -1,0 +1,51 @@
+---
+id: 14956869
+date: "2022-03-07T13:39:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "escola-de-sargentos-do-exercito"
+categories:
+  - "sem-categoria"
+title: "Escola de Sargentos do Ex\u00e9rcito em Pernambuco come\u00e7a a sair do papel"
+sutia: "A uni\u00e3o pol\u00edtica do Nordeste, em vez da divis\u00e3o da regi\u00e3o, contou pontos."
+chapeu: "Desenvolvimento regional"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/22/indice-19333026.jpg"
+---
+{% raw %}
+<p>A cerim&ocirc;nia de assinatura do protocolo de inten&ccedil;&otilde;es para <a href="https://jc.ne10.uol.com.br/blogs/jamildo/2021/10/13616774-entenda-as-razoes-para-pernambuco-ter-atraido-escola-de-sargentos-do-exercito.html" target="_blank" rel="noopener noreferrer">a implanta&ccedil;&atilde;o da nova Escola de Sargentos do Ex&eacute;rcito em Pernambuco</a> foi realizada nesta segunda-feira. O protocolo de inten&ccedil;&otilde;es foi assinado pelo comandante do Ex&eacute;rcito, general Paulo S&eacute;rgio Nogueira.</p>
+<p><iframe src="https://player.mais.uol.com.br/?mediaId=17031365&amp;type=video" width="100%" height="290" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>A cerim&ocirc;nia contou com a presen&ccedil;a de membros das For&ccedil;as Armadas e do governador Paulo C&acirc;mara, que ofertou contrapartidas na ordem de R$ 323 milh&otilde;es em infraestrutura para a <a href="https://jc.ne10.uol.com.br/blogs/jamildo/2021/10/13616774-entenda-as-razoes-para-pernambuco-ter-atraido-escola-de-sargentos-do-exercito.html" target="_blank" rel="noopener noreferrer">escolha de Pernambuco como a nova sede da escola de sargentos</a>.</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[13627001,13620144,13618678,13616919],'cd_matia':'13616919','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':'240','title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/blogs/jamildo/2021/10/13616919-vila-militar-centro-de-convivencia-e-mais-saiba-a-dimensao-do-projeto-da-nova-escola-de-sargentos.html">Vila militar, centro de convivência e mais: saiba a dimensão do projeto da nova Escola de Sargentos</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/10/13618678-escola-de-sargentos-gastos-com-pessoal-do-exercito-vao-criar-nova-prefeitura-de-rs-100-milhoes-na-mata-norte.html">Escola de sargentos. Gastos com pessoal do Exército vão criar 'nova prefeitura' de R$ 100 milhões na Mata Norte</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/10/13620144-escola-de-sargentos-forum-diz-que-obra-destruira-150-hectares-de-mata-atlantica-em-pernambuco.html">Escola de Sargentos. Fórum diz que obra destruirá 150 hectares de Mata Atlântica em Pernambuco</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/11/13627001-escola-de-sargentos-aracoiaba-usa-mppe-para-mudar-local-de-projeto-em-abreu-e-lima-com-alegacao-ambiental.html">Escola de Sargentos. Araçoiaba usa MPPE para mudar local de projeto em Abreu e Lima, com alegação ambiental</a></li>
+        </ul>
+</div></tinymce></p>
+<p>O evento desta segunda for cercado por simbolismos, uma vez que foi realizado um dia depois da comemora&ccedil;&atilde;o dos 205 anos da revolu&ccedil;&atilde;o pernambucana de 1817. Na comitiva do Ex&eacute;rcito, est&aacute; o general de Ex&eacute;rcito Andr&eacute; Luis Novaes Miranda, chefe do Departamento de Educa&ccedil;&atilde;o e Cultura do Ex&eacute;rcito (DECEX).</p>
+<p>Nesta ter&ccedil;a-feira, ele deve conhecer o Museu do Estado e outros centros culturais, como Guararapes, j&aacute; dentro da filosofia de reconhecimento da import&acirc;ncia hist&oacute;rica de Pernambuco para a P&aacute;tria Nacional e o Ex&eacute;rcito.</p>
+<p>Na hist&oacute;ria da revolu&ccedil;&atilde;o, neste mesmo sete de mar&ccedil;o, comemora-se a queda do governo da &eacute;poca, no mesmo Forte do Brum.</p>
+<p>A nova unidade de ensino, no munic&iacute;pio de Abreu e Lima, dever&aacute; gerar mais de 2,4 mil oportunidades para jovens pernambucanos que desejam seguir carreira militar.&nbsp; <a href="https://jc.ne10.uol.com.br/blogs/jamildo/2021/10/13616603-pernambuco-vence-disputa-e-ganha-escola-de-sargentos-do-exercito.html">O blog de Jamildo revelou em primeira m&atilde;o o empreendimento, no outubro do ano passado.</a></p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/03/07/120x80/1_foto_escola_do_exercito_3-20655385.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'6226361a7f0e4', 'cd_midia':20655385, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/03/07/foto_escola_do_exercito_3-20655385.jpg', 'ds_midia': 'Evento desta segunda-feira no Recife', 'ds_midia_credi': 'Gabinete do parlamentar', 'ds_midia_titlo': 'Evento desta segunda-feira no Recife', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '815', 'align': 'Left'}"><figure style="width:815;height:1224;">
+  <img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/03/07/foto_escola_do_exercito_3-20655385.jpg" alt="Gabinete do parlamentar"  title="Evento desta segunda-feira no Recife">
+  <figcaption class='text-left'>Evento desta segunda-feira no Recife - <strong>Gabinete do parlamentar</strong></figcaption>
+</figure></tinymce></p>
+<p>O deputado federal Augusto Coutinho (Solidariedade-PE) participou do evento. &ldquo;Essa escola &eacute; um marco para nosso estado. S&atilde;o mais de R$ 1 bilh&atilde;o em investimentos, que representa um incremento em nossa economia e a efetiva&ccedil;&atilde;o de Pernambuco como um dos centros mais importantes na forma&ccedil;&atilde;o de militares no pa&iacute;s&rdquo;, comentou o deputado em cerim&ocirc;nia no Forte do Brum, no Recife.</p>
+<p>&ldquo;A nova Escola de Sargentos tamb&eacute;m &eacute; uma conquista da nossa bancada no Congresso Nacional, que se uniu pela defesa do projeto independente de bandeiras partid&aacute;rias e ideol&oacute;gicas. A escola &eacute; um estabelecimento de ensino superior (tecn&oacute;logo) do Ex&eacute;rcito respons&aacute;vel pela forma&ccedil;&atilde;o de sargentos combatentes, equivalendo a um curso de gradua&ccedil;&atilde;o&rdquo;, disse.</p>
+<p>O blog apurou que o Ex&eacute;rcito j&aacute; realizou v&aacute;rios servi&ccedil;os de medi&ccedil;&atilde;o e topografia, em paralelo ao tempo em que aguarda a libera&ccedil;&atilde;o das licen&ccedil;as ambientais. Assim, a obra &eacute; quest&atilde;o de tempo e ficar&aacute; irrevers&iacute;vel. A Alepe j&aacute; realizou duas audi&ecirc;ncias p&uacute;blicas para vencer a etapa de debate das licen&ccedil;as ambientais.</p>
+<p>Com mais de 10 mil pessoas morando no novo complexo, gerando consumo, a escola deve atrair mais de mil alunos por ano ao Estado de Pernambuco e criar na pr&aacute;tica uma nova cidade, na regi&atilde;o de Abreu e Lima e Paudalho. Ser&aacute; a maior escola da Am&eacute;rica Latina para a forma&ccedil;&atilde;o militar.</p>
+<h2>Projeto gera emprego e renda na Mata Norte<br /></h2>
+<p>O projeto da nova escola tem grandes dimens&otilde;es e deve abranger, al&eacute;m de Abreu e Lima, outros munic&iacute;pios pernambucanos, como Paudalho, Tracunha&eacute;m, Ara&ccedil;oiaba, Camaragibe, S&atilde;o Louren&ccedil;o e Igarassu. Das 13 cidades concorrentes ao projeto no pa&iacute;s, apenas Abreu e Lima (PE), Santa Maria (RS) e Ponta Grossa (PR) foram cogitadas pelo Ex&eacute;rcito para sede da escola. O an&uacute;ncio da escolha de Pernambuco foi em outubro do ano passado. Para se ter ideia da sua import&acirc;ncia, ela seria constru&iacute;da numa &aacute;rea de 1.235 km dentro do Campo de Instru&ccedil;&atilde;o Marechal Newton Cavalcanti (CIMNC).</p>
+<p>O projeto inclui a <a href="https://jc.ne10.uol.com.br/blogs/jamildo/2021/07/13015342-exercito-estuda-instalacao-da-escola-de-sargentos-em-pernambuco-com-investimento-de-mais-de-rs-320-milhoes.html">constru&ccedil;&atilde;o da escola, de uma vila ol&iacute;mpica, vila militar e estande de tiro dentro da &aacute;rea do campo de instru&ccedil;&atilde;o.</a> A previs&atilde;o &eacute; que se candidatem para a escola, por ano, 140 mil pessoas de todo o Brasil. O efetivo militar da escola, incluindo familiares, &eacute; de 10 mil pessoas.<br /></p>
+<p>&nbsp;</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[13618678,13617613,13617323],'cd_matia':'13617323','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/blogs/jamildo/2021/10/13617323-escola-de-sargentos-paulo-camara-temeu-que-pernambuco-fosse-garfado.html">Escola de Sargentos. Paulo Câmara temeu que Pernambuco fosse garfado</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/10/13617613-escola-de-sargentos-pode-impulsionar-obras-do-arco-metropolitano.html">Escola de Sargentos pode impulsionar obras do Arco Metropolitano</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/10/13618678-escola-de-sargentos-gastos-com-pessoal-do-exercito-vao-criar-nova-prefeitura-de-rs-100-milhoes-na-mata-norte.html">Escola de sargentos. Gastos com pessoal do Exército vão criar 'nova prefeitura' de R$ 100 milhões na Mata Norte</a></li>
+        </ul>
+</div></tinymce></p>
+{% endraw %}

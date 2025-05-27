@@ -1,0 +1,30 @@
+---
+id: 13016113
+date: "2021-07-15T11:22:00Z"
+last_modified_at: null
+tags:
+  - "recife"
+categories:
+  - "sem-categoria"
+title: "Priscila Krause rebate empresa e reafirma questionamentos para compra secreta de equipamentos musicais pela PCR"
+sutia: "Deputada n\u00e3o cita nome da firma que vendeu  R$ 10 milh\u00f5es em equipamentos para Recife"
+chapeu: "bandas e mais bandas"
+autor: "Jamildo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/04/21/guitar_2276181_1920-17398148.jpg"
+---
+{% raw %}
+<p>Veja abaixo a carta enviada ao blog pela deputada, nesta quinta <br /></p>
+<p>N&atilde;o surpreende o fato de a empresa contratada secretamente pela Prefeitura do Recife, para aquisi&ccedil;&atilde;o de R$ 10,8 milh&otilde;es em instrumentos musicais durante a pandemia, julgar nossos apontamentos como &ldquo;equivocados&rdquo;: eles defendem o seu interesse comercial, n&oacute;s defendemos o interesse p&uacute;blico. &Eacute; preciso que entenda que Pernambuco n&atilde;o se resume ao PSB, velho conhecido: somos muitos, somos diferentes.</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[13016086,13015664,13015352],'cd_matia':'13015352','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/blogs/jamildo/2021/07/13015352-priscila-krause-questiona-ao-tce-e-mppe-compra-secreta-de-sete-mil-instrumentos-musicais-pela-prefeitura-do-recife-rs-108-milhoes.html">Priscila Krause questiona ao TCE e MPPE compra secreta de sete mil instrumentos musicais pela Prefeitura do Recife: R$ 10,8 milhões</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/07/13015664-mpco-ve-indicios-de-irregularidades-e-pede-investigacao-da-compra-de-rs-10-milhoes-em-instrumentos-musicais-no-recife.html">MPCO vê indícios de irregularidades e pede investigação da compra de R$ 10 milhões em instrumentos musicais no Recife</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/07/13016086-empresa-de-equipamentos-musicais-rebate-questionamentos-de-priscila-krause.html">Empresa de equipamentos musicais rebate questionamentos de Priscila Krause e reclama de calote da PCR</a></li>
+        </ul>
+</div></tinymce></p>
+<p>Fato &eacute; que atrav&eacute;s de opera&ccedil;&atilde;o administrativa nebulosa e secreta, que sequer teve at&eacute; hoje seu extrato da contrata&ccedil;&atilde;o publicado no Di&aacute;rio Oficial do Munic&iacute;pio &ndash; o que o torna, conforme a Lei Federal das Licita&ccedil;&otilde;es, ineficaz &ndash; a gest&atilde;o do ex-prefeito Geraldo Julio (PSB) adquiriu silenciosamente, nos &uacute;ltimos dias depois de oito anos de administra&ccedil;&atilde;o, sete mil instrumentos musicais e sete mil estantes de partituras para as escolas municipais &ndash; fechadas desde mar&ccedil;o de 2020! Todos os itens liquidados (oficialmente entregues) ainda em dezembro passado.</p>
+<p>Sem licita&ccedil;&atilde;o do munic&iacute;pio! Para dispensar a disputa e a divulga&ccedil;&atilde;o do processo &ndash; que certamente traria empecilhos ao plano &ndash; a gest&atilde;o usou do artif&iacute;cio da carona numa ata de registro de pre&ccedil;os publicada em novembro de 2020, de responsabilidade do cons&oacute;rcio dos munic&iacute;pios mineiros da regi&atilde;o da Sudene. De t&atilde;o secreta, a ata n&atilde;o consta nem da presta&ccedil;&atilde;o de contas da Secretaria de Educa&ccedil;&atilde;o do Recife, exerc&iacute;cio de 2020, obrigatoriamente entregue ao Tribunal de Contas do Estado em mar&ccedil;o deste ano.</p>
+<p>O sil&ecirc;ncio no momento da compra &eacute; o mesmo sil&ecirc;ncio, agora, da gest&atilde;o Jo&atilde;o Campos (PSB), que mesmo afeito ao marketing, n&atilde;o citou sequer uma vez &ndash; nesses seis meses e meio &ndash; a aquisi&ccedil;&atilde;o milion&aacute;ria dos instrumentos musicais. Certamente porque n&atilde;o h&aacute; justificativa que se sustente em p&eacute; para justificar a heran&ccedil;a maldita do ex-prefeito aliado. Apesar do sil&ecirc;ncio, a administra&ccedil;&atilde;o do atual prefeito tem pago, em parcelas, a compra secreta.</p>
+<p>Ao anunciar que os instrumentos musicais profissionais ser&atilde;o distribu&iacute;dos a 36 escolas das 310 existentes na rede, j&aacute; que s&atilde;o impr&oacute;prios para a maior parte dos alunos da rede municipal (crian&ccedil;as na sua grande maioria sem estrutura corporal e aptid&atilde;o cognitiva para conseguir carreg&aacute;-los e manuse&aacute;-los!), a gest&atilde;o municipal esqueceu de fazer as contas &ndash; ser&atilde;o cerca de 225 instrumentos por unidade, quando na verdade cada banda, conforme orienta&ccedil;&atilde;o do Minist&eacute;rio da Educa&ccedil;&atilde;o, deveria ser composta por 14 instrumentos/integrantes. Teremos ent&atilde;o v&aacute;rias dezenas de baterias de escola de samba ou orquestras sinf&ocirc;nicas nas &ldquo;Escolas do Futuro&rdquo; do PSB?</p>
+<p>Por fim, reafirmo inteira confian&ccedil;a nos &oacute;rg&atilde;os de fiscaliza&ccedil;&atilde;o estaduais, que certamente tomar&atilde;o as medidas devidas para impedir que, mais uma vez, a m&aacute; gest&atilde;o e a gan&acirc;ncia com recursos p&uacute;blicos vinculados &agrave; Educa&ccedil;&atilde;o do Recife insista em nos colocar como a capital nordestina com maior gasto per capita por aluno ao mesmo tempo em que infelizmente patinamos nas &uacute;ltimas coloca&ccedil;&otilde;es do IDEB</p>
+{% endraw %}

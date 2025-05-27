@@ -1,0 +1,33 @@
+---
+id: 12582521
+date: "2019-02-28T16:00:40Z"
+last_modified_at: null
+tags:
+  - "caixa-dois"
+  - "drogas"
+  - "fronteiras"
+  - "receita-federal"
+categories:
+  - "noticias"
+title: "Receita Federal apreendeu sete toneladas de drogas nas fronteiras nos dois primeiros meses do ano"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/02/capa-divulgacao-policia-federal.jpg"
+---
+{% raw %}
+<p><p>Por Geraldo Seixas, presidente do Sindireceita, em artigo enviado ao blog</p></p>
+<p><p>A Receita Federal do Brasil ainda contabilizava os resultados históricos alcançados em 2018 em suas ações de combate ao contrabando, ao descaminho e à pirataria, que ultrapassaram R$ 3 bilhões em mercadorias e quase 30 toneladas em drogas, quando no Porto de Paranaguá/PR foi realizada a primeira grande apreensão de drogas de 2019.</p></p>
+<p><p>Analistas-Tributários da Receita Federal participaram da apreensão de 1.1 tonelada de cocaína no Terminal de Contêineres do Porto de Paranaguá.</p></p>
+<p><p>A droga estava escondida em meio à carga de pallets de madeira e seria transportada para o porto de Rotterdam, na Holanda.</p></p>
+<p><p>As apreensões de contrabando e descaminho fazem parte da rotina dos Analistas-Tributários e de outros servidores da Receita Federal, que atuam em portos, aeroportos e postos de fronteira. A Aduana brasileira enfrenta o crime organizado, o tráfico internacional de drogas e de armas, a entrada ilegal de produtos falsificados e cigarros contrabandeados, o tráfico de animais, e, muitas vezes, o mais nefasto dos inimigos, o desprestígio. O controle aduaneiro realizado pelos servidores da Receita Federal tem relação direta com o combate de crimes, como o contrabando, o descaminho e o tráfico de drogas e, portanto, está diretamente associado às políticas de segurança pública.</p></p>
+<p><p>Com um efetivo de 2.326 servidores, a Receita Federal atua nos postos de fronteiras e nos principais portos e aeroportos brasileiros. Esse pequeno contingente, quando comparado ao de outras aduanas, é responsável pelo controle de uma balança comercial de mais de U$ 365 bilhões e de uma fronteira com mais de 24 mil quilômetros (16,6 mil quilômetros terrestre e 7,5 mil quilômetros marítima). Mesmo com um quantitativo de servidores muito abaixo do ideal, a Receita Federal alcançou resultados significativos e apreendeu, somente nos últimos cinco anos, R$ 14 bilhões em mercadorias ilegais e mais de 100 toneladas de drogas.</p></p>
+<p><p>A Organização Mundial das Aduanas (OMA) reconhece que as Aduanas de todo o mundo têm uma atuação fundamental no enfrentamento ao crime organizado internacional, bem como o terrorismo. A OMA destaca o papel desses órgãos na segurança das fronteiras por meio da gestão de movimento de bens, dinheiro, pessoas e meios de transporte. A logística do crime organizado em determinadas situações é a mesma utilizada pelo comércio internacional, pois sempre se busca entrar ou sair do país com drogas, armas ou materiais ilegais de forma dissimulada, escondendo esses produtos em contêineres, veículos, bagagens e até no corpo de viajantes.</p></p>
+<p><p>É nesse sentido que, ao longo dos últimos dez anos, os Analistas-Tributários da Receita Federal defendem a implementação de uma política nacional que fortaleça a Aduana brasileira, que está diretamente associada ao controle das fronteiras do país. Que essa política nacional não seja uma ação de governo, mas sim de Estado, que passa obrigatoriamente pela ampliação do efetivo da Receita Federal nos portos, aeroportos, postos de fronteira terrestre, e pelo fortalecimento da presença fiscal ininterrupta nas zonas primárias, além do reforço das equipes de vigilância e repressão, das equipes náutica, aérea e de cães de faro (K9).</p></p>
+<p><p>Infelizmente, nenhum dos candidatos à presidência da república, durante a campanha eleitoral ocorrida ano passado voltou, minimamente, sua atenção para o trabalho realizado pela Receita Federal do Brasil e a extrema necessidade de se buscar fortalecer esse órgão. O que se viu durante o período eleitoral foram os candidatos falando em criar novos órgãos para atuar no controle das fronteiras, desconsiderando que essa atribuição pertence a Aduana, sendo uma determinação constitucional, e que é realizada com a expertise adquirida através de anos de atuação de seus servidores.</p></p>
+<p><p>O novo governo manteve o pensamento existente no período eleitoral, pois no mesmo dia em que se apresentou ao Congresso o pacote de leis anticrime, passou a discutir a criação de uma Guarda Nacional marítima e de fronteira, para atuar no combate ao contrabando, ao tráfico de drogas, de armas e de animais. Essa nova força policial também teria a atribuição de fiscalizar embarcações e a entrada de drogas por meio dos principais pontos turísticos do Brasil.</p></p>
+<p><p>Qual o motivo de se discutir a criação de uma guarda nacional para realizar ações que já são realizadas pela Receita Federal do Brasil? Ações que são, legalmente, atribuições do órgão. Qual o motivo de não se buscar fortalecer a Receita Federal do Brasil? Alguém desconhece que o projeto de equipes náuticas da Aduana brasileira está morrendo? Que as equipes K9 (cães de faro) estão desaparecendo? Que as ações de vigilância e repressão estão diminuindo ano a ano por falta de servidores e equipamentos?</p></p>
+<p><p>Mesmo com inúmeros problemas a rotina do controle aduaneiro realizado pela Receita Federal em portos, aeroportos e postos de fronteira continua dando resultados expressivos graças à atuação dos Analistas-Tributários e de outros servidores do órgão. No mês de fevereiro, no porto de Natal/RN, foram apreendidas 3,7 toneladas de cocaína. Drogas também foram apreendidas no porto de Santos/SP, no porto de Paranaguá/PR, em Manaus/AM, em Nova Alvorada do Sul/MS, nos Aeroportos de Viracopos/SP e de Guarulhos/SP, em Foz do Iguaçu/PR, resultando em quase 7 toneladas de entorpecentes ilegais somente nos dois primeiros meses do ano. Sem falar nas retenções diárias de contrabando e descaminho em vários pontos do país (ver o gráfico acima).</p></p>
+<p><p>O governo não pode virar as costas para a Receita Federal do Brasil, que é responsável pela proteção da economia do país, ao combater o tráfico internacional de armas e drogas; o contrabando; o descaminho; à evasão de divisas; à corrupção; à lavagem de dinheiro e as ações de terrorismo.</p></p>
+<p><p>Geraldo Seixas é presidente do Sindicato Nacional do Analistas-Tributários da Receita Federal do Brasil</p></p>
+{% endraw %}

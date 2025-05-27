@@ -1,0 +1,24 @@
+---
+id: 12594998
+date: "2020-01-18T16:20:51Z"
+last_modified_at: null
+tags:
+  - "bolsonaro"
+categories:
+  - "noticias"
+title: "Bolsonaro e sua circunst\u00e2ncia"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/01/bolsonaro-1.jpg"
+---
+{% raw %}
+<p><p>Estadão, em seu editorial deste sábado</p></p>
+<p><p>Não causa surpresa o derretimento acelerado da popularidade do presidente Jair Bolsonaro detectado por uma pesquisa XP/Ipespe recentemente divulgada. O levantamento mostrou que, em um ano, a expectativa positiva em relação ao desempenho do governo para o restante do mandato caiu nada menos que 23 pontos porcentuais, de 63% para 40%. O índice de entrevistados que consideram Bolsonaro “ruim” ou “péssimo” passou de 20% para 39% no mesmo período. Pode-se dizer que esses números refletem não um ou outro problema em especial, mas o conjunto da obra.</p></p>
+<p><p>O governo Bolsonaro parece se esforçar para inspirar em cada vez mais brasileiros a sensação de que suas decisões estapafúrdias, que carecem de lastro jurídico ou mesmo de racionalidade, não são meros acidentes ou fruto de circunstâncias passageiras, e sim reflexo preciso daquilo que o presidente é.</p></p>
+<p><p>Não se trata apenas de despreparo para o cargo, dificuldade que se poderia amenizar com alguma dedicação aos livros e atenção aos conselhos de quem já viveu a experiência de governar; a esta altura, passado um ano de mandato, já está claro que Bolsonaro desacredita deliberadamente o exercício da Presidência porque não saberia fazer de outra forma e, graças a essa limitação insuperável, convenceu-se de que foi eleito para desmoralizar a política e sua liturgia institucional, algo que ele faz como ninguém. Vista em retrospectiva, a reunião ministerial em que o presidente apareceu de chinelos e camisa (falsificada) de time de futebol logo nos primeiros dias de governo parece hoje, perto do que já vimos, um encontro de estadistas.</p></p>
+<p><p>Num dia, o ministro da Educação aparece num vídeo dançando com um guarda-chuva, numa imitação circense do filme Dançando na Chuva, para acusar seus críticos de difundirem fake news; noutro, o secretário da Cultura toma emprestado trechos de um discurso de Joseph Goebbels, ministro da Propaganda da Alemanha nazista, para anunciar o advento de uma cultura “nacional” financiada pelo Estado, causando horror e estupefação no País e fora dele. Entre um e outro desses momentos nada edificantes de seus assessores, o próprio presidente Bolsonaro achou tempo e oportunidade para fazer piadas de mau gosto sobre um vasto cardápio de temas grosseiros, como se estivesse em um churrasco com amigos.</p></p>
+<p><p>Enquanto isso, sempre que pressionado a tomar decisões realmente relevantes para o País, como autorizar privatizações potencialmente polêmicas, cortar privilégios de servidores públicos e reduzir subsídios, o presidente hesitou. Mesmo a reforma da Previdência, que o governo celebra como um feito de Bolsonaro, foi sabotada em vários momentos pelo presidente, tendo sido aprovada graças à mobilização de parlamentares e alguns técnicos do governo. Preocupado em construir seu próprio partido e sua candidatura à reeleição, sobre a qual fala quase todos os dias, Bolsonaro dedica todo o seu tempo não a pensar em maneiras de promover o desenvolvimento do País, mas a alimentar polêmicas de cunho claramente eleitoreiro, enquanto assina medidas destinadas à irrelevância – mas só depois de causar tumulto e insegurança jurídica no País.</p></p>
+<p><p>Quando confrontado pelos jornalistas a respeito disso ou a respeito dos cada vez mais volumosos problemas do clã Bolsonaro e de alguns de seus assessores mais próximos com a Justiça ou com a lisura administrativa, o presidente reage de forma truculenta. Mais recentemente, disse que os jornalistas são uma “espécie em extinção” e mandou que a imprensa tomasse “vergonha na cara” e tratasse de “deixar o governo em paz”. (Ver editorial A tenacidade da imprensa.)</p></p>
+<p><p>Não são rompantes, e perde tempo quem acredita na possibilidade de que, com o tempo, Bolsonaro vá temperar seu comportamento. O assessor que se inspirou em Goebbels para anunciar o “renascimento da cultura nacional” só foi exonerado porque houve uma grita generalizada diante de tamanho absurdo. Noves fora o plágio nazista, o conteúdo da fala que custou o cargo ao tal secretário é essencialmente o que Bolsonaro já disse e repetiu inúmeras vezes, mesmo antes da eleição. Portanto, ninguém pode se dizer surpreendido, nem mesmo os eleitores mais ingênuos. Bolsonaro é Bolsonaro há muito tempo.</p></p>
+{% endraw %}

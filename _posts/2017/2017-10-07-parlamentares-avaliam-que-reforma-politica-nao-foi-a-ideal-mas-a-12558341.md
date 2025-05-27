@@ -1,0 +1,38 @@
+---
+id: 12558341
+date: "2017-10-07T14:26:46Z"
+last_modified_at: null
+tags:
+  - "naomi-campbell"
+  - "parlamentares"
+  - "reforma-politica"
+categories:
+  - "noticias"
+title: "Parlamentares avaliam que reforma pol\u00edtica n\u00e3o foi a ideal, mas a poss\u00edvel"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/02/camara-repatriacao2.jpg"
+---
+{% raw %}
+<p><p style="text-align: justify;"><em>Agência Brasil</em> - Após passarem meses em discussões e aprovarem três projetos de última hora nesta semana, deputados e senadores avaliam que a reforma política que valerá para as eleições de 2018 não é a ideal. Eles acreditam, no entanto, que as mudanças aplicadas para o cenário eleitoral foram as “possíveis”, diante dos diferentes interesses e da complexidade da matéria.</p></p>
+<p><p style="text-align: justify;">Para o presidente da Câmara, Rodrigo Maia (DEM-RJ), embora algumas propostas tenham ficado para trás durante as votações, o Congresso Nacional conseguiu melhorar a forma como serão feitas as campanhas nos próximos anos. Ele credita ao fim das coligações partidárias em eleições para deputados e vereadores um dos principais pontos positivos da reforma.</p></p>
+<p><p>LEIA TAMBÉM<br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/06/reforma-politica-permite-censura-de-conteudo-mesmo-sem-ordem-judicial/">Reforma política permite censura de conteúdo mesmo sem ordem judicial</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/01/atrasada-reforma-politica-ja-deixa-13-itens-pelo-caminho/">Atrasada, reforma política já deixa 13 itens pelo caminho</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/19/reforma-politica-ramalho-acredita-em-acordo-por-fim-de-coligacoes/">Reforma política: Ramalho acredita em acordo por fim de coligações</a></p></p>
+<p><p style="text-align: justify;">“A Emenda à Constituição que trata principalmente do fim de coligação vai ser uma grande revolução na política brasileira. Eu não tenho dúvida de que sem a coligação para a partir do ano de 2022, ou os partidos vão construir projetos majoritários ou não terão bancada de deputados. A coligação é ruim porque você não constrói quadros, não constrói candidatos, por exemplo, ao governo do estado, e você coliga e se beneficia do outro partido”, explicou.</p></p>
+<p><p style="text-align: justify;">Ao todo, dois projetos de lei, sancionados nessa sexta-feira (6) pelo presidente Michel Temer (PMDB), e uma proposta de emenda à Constituição foram aprovados.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/04/e-possivel-aprovar-reforma-politica-com-efeito-ja-para-2018-avalia-maia/">É possível aprovar reforma política com efeito já para 2018, avalia Maia</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/04/aprovado-projeto-que-cria-fundo-eleitoral-de-r-17-bi/">Câmara aprova projeto que cria fundo eleitoral de R$ 1,7 bilhão</a></p></p>
+<p><p style="text-align: justify;">Além da continuidade do sistema proporcional, Rodrigo Maia lamentou a não aprovação de uma proposta de Emenda à Constituição (PEC) que autorizava novamente o financiamento privado de campanhas, desde que com “limites bem rígidos”. Em 2015, em meio aos primeiros desdobramentos da Operação Lava Jato, o Supremo Tribunal Federal (STF) decidiu proibir a doação de empresas para partidos políticos e candidatos.</p></p>
+<p><p style="text-align: justify;">“Eu tenho certeza que o que foi feito não era o que a gente sonhava, mas foi um grande avanço em relação ao que a gente esperava que fosse possível antes da votação. A gente sempre sonha com a mudança do sistema eleitoral, como por exemplo [a implantação] do [sistema] distrital misto, eu tinha muita esperança, achava que tinha votos para aprová-lo”, afirmou.</p></p>
+<p><p style="text-align: justify;">Numerado na Câmara como PEC 77/03, o projeto de criação do sistema distrital misto a partir de 2022, que combina o voto majoritário e o voto em uma lista preordenada feita pelos partidos, acabaria com o chamado “efeito Tiririca”. Atualmente, os deputados federais, estaduais e vereadores são eleitos com base no quociente eleitoral, que determina o número de votos necessários para eleger cada parlamentar e estabelece a quantidade de vagas a que cada partido tem direito. Dessa forma, caso uma legenda tenha candidato com um número consideravelmente alto de votos, outros políticos do mesmo grupo são eleitos, mesmo que tenham sido menos votados que candidatos de outros partidos.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/06/oab-pernambuco-diz-que-valor-do-fundo-eleitoral-e-acinte/">OAB Pernambuco diz que valor do fundo eleitoral é ‘acinte’</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/13/no-fundo-o-que-desejam-mesmo-e-que-o-governo-temer-nao-governe-nem-reforme-o-pais-diz-moreira-franco/">‘No fundo, o que desejam mesmo é que o governo Temer não governe nem reforme o país’, diz Moreira Franco</a></p></p>
+<p><p style="text-align: justify;">A opinião do presidente da Câmara é semelhante à do senador Randolfe Rodrigues (Rede-AP). Segundo ele, a “reforma eleitoral possível” que foi aprovada melhora alguns pontos do atual sistema. “A institucionalização de dispositivos de crowdfunding [financiamento coletivo de campanhas na internet], a possibilidade do aproveitamento de sobras eleitorais pelos candidatos que tiverem melhor votação, a retirada do que seria um Refis para os políticos , que seria um absurdo o parcelamento de dívidas eleitorais, apresentam uma reforma que no todo não é a ideal, não é a melhor, mas que traz alguns mecanismos que melhoram o sistema político-eleitoral para o ano que vem”, avaliou.</p></p>
+<p><p style="text-align: justify;">Já o senador Cristóvam Buarque (PPS-DF) é mais pessimista. “Acho que essa reforma é escandalosa. Tem um ou outro avanço, mas é escandalosa. Não é isso que o Brasil precisa. O Brasil precisa de uma coisa muito mais substancial e mais séria. Tem um item ali que é clara provocação ao Supremo. No dia do Supremo decidir se é permitida, pela Constituição, candidatura sem partido, que a população quer, se vota para dizer que não é permitido", exemplificou, após a última votação no Senado, citando a decisão dos ministros do STF que ocorria no mesmo dia.</p></p>
+<p><p style="text-align: justify;">» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/12/camara-pode-votar-mudancas-no-sistema-eleitoral-e-criacao-de-fundo-publico-para-campanhas/">Câmara pode votar mudanças no sistema eleitoral e criação de fundo público para campanhas</a></p></p>
+<p><p style="text-align: justify;">Responsável nos últimos dias por conduzir algumas votações em nome da liderança do governo, após deixar o PSB e se filiar ao PMDB, o senador Fernando Bezerra Coelho (PE) elogia o que foi aprovado. Ele cita como exemplos a criação da cláusula de barreira, que na prática reduzirá, até 2030, o número de partidos políticos, os limites para gastos em campanha e os critérios para a propaganda na internet.</p></p>
+<p><p style="text-align: justify;">“Ao regulamentar o uso da internet durante as campanhas, haverá mais transparência, e portanto criam-se regras mais equilibradas para todos que poderão entrar na disputa das eleições em 2018. Acho que avançamos muito. Não é a reforma que todos queríamos, a ideal. Queríamos ter avançado muito mais. Mas numa casa, como a Câmara, com mais de 26 partidos, e no Senado, com mais de 14, essa foi a reforma possível”, disse.</p></p>
+{% endraw %}

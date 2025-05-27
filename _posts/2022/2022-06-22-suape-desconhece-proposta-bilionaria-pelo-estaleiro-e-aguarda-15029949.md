@@ -1,0 +1,30 @@
+---
+id: 15029949
+date: "2022-06-22T10:27:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "eleicoes-2022"
+categories:
+  - "sem-categoria"
+title: "Suape desconhece proposta bilion\u00e1ria pelo estaleiro e aguarda concorr\u00eancia por conteineres"
+sutia: "Porto de Suape n\u00e3o tomou conhecimento de apresenta\u00e7\u00e3o de nova proposta pelo estaleiro. Grupo internacional mandou carta para ju\u00edza no dia 17 de junho"
+chapeu: "Desenvolvimento regional"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/05/16/ac2302188-17483953.jpg"
+---
+{% raw %}
+<p>O diretor presidente de Suape, Roberto Gusm&atilde;o, reagiu com ceticismo &agrave; revela&ccedil;&atilde;o feita pelo Blog de Jamildo, mais cedo, de que um cons&oacute;rcio internacional tem interesse em arrematar o Estaleiro Atl&acirc;ntico Sul, em Suape, tendo chegado a apresentar uma proposta bilion&aacute;ria na Justi&ccedil;a do Cabo.</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[15029854],'cd_matia':'15029854','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/colunas/jamildo/2022/06/15029854-investidores-secretos-entram-em-disputa-bilionaria-em-pernambuco-e-prometem-gerar-milhares-de-empregos.html">Investidores secretos entram em disputa bilionária em Pernambuco e prometem gerar milhares de empregos</a></li>
+        </ul>
+</div></tinymce></p>
+<p>"Estranho, mas tomara que seja verdade!!!!"</p>
+<p>"Continuar o neg&oacute;cio de produ&ccedil;&atilde;o de navios no Brasil? &eacute; como vender picol&eacute; no Polo Norte"</p>
+<p>"Temos conversa com v&aacute;rios grupos de a&ccedil;&uacute;car para produ&ccedil;&atilde;o e venda externa pelo porto atrav&eacute;s da futura ferrovia sertaneja (ex Transnordestina), com a antiga Agrovia leiloada recentemente (AGEMAR). Com produ&ccedil;&atilde;o no vale do S&atilde;o Francisco"</p>
+<p>"Vamos aguardar! Temos que ter concorr&ecirc;ncia para sermos competitivo em pre&ccedil;os e rotas de navega&ccedil;&atilde;o em Suape. Caso contr&aacute;rio, tamo fora do jogo, da nova matriz log&iacute;stica mundial que ser&aacute; feita p&oacute;s guerra Ucr&acirc;nia e COVID. E o setor de cont&ecirc;ineres &eacute; fundamental nisso! Ele exporta e importa produtos com maior valor agregado.&nbsp;Para fora do pa&iacute;s e dentro entre portos, ainda mais com a nova lei da cabotagem", afirmou.<br /></p>
+<p>"Qualquer que seja o resultado do leil&atilde;o a futura atividade de neg&oacute;cios na &aacute;rea do estaleiro ter&aacute; que ter aprova&ccedil;&atilde;o do Porto de Suape o governo do Estado", avisa.</p>
+<h2><br />Veja abaixo a carta do fundo americano na &iacute;ntegra, traduzida</h2>
+<p><br /><em>Proposta de Compra do Estaleiro Atl&acirc;ntico Sul s/a</em><br /> <br /><em>Att: 1&ordf; Vara C&iacute;vel da Comarca de Ipojuca</em><br /><em>CC: Dra. Ildete Ver&iacute;ssimo de Lima &ndash; Ju&iacute;za de Direito</em><br /> <br /><em>Prezada Dra. Ildete Ver&iacute;ssimo de Lima,</em><br /> <br /><em>N&oacute;s, North Tabor Capital, estamos enviando uma proposta de compra, transcrita abaixo, para sua considera&ccedil;&atilde;o. North Tabor, uma empresa constitu&iacute;da e existente sob as leis de Delaware, com sede em 108 West 13th St, CEP: 19801, n&uacute;mero de registro 6334004, neste ato devidamente representada por seu representante legal Perkins Coie, inscrito no IRS sob EIN: 81- 4442151, residente em 100 E Penn Square, Filad&eacute;lfia, PA. Representamos um cons&oacute;rcio de a&ccedil;&uacute;car com investidores do UBS Group AG, JP Morgan Chase &amp; Co., Santander Bank e Bank of America. Nossos clientes e parceiros permanecer&atilde;o ocultos at&eacute; a aprova&ccedil;&atilde;o desta proposta de compra do Estaleiro Atl&acirc;ntico Sul s/a, localizado no munic&iacute;pio de Ipojuca/PE com parque industrial completo com &aacute;rea de 150 hectares.</em><br /> <br /><em>Pretendemos concluir a aquisi&ccedil;&atilde;o em tempo h&aacute;bil e apresentar os pontos de nossa proposta.</em><br /> <br /><em>O pre&ccedil;o de compra ser&aacute; de US$ 215.000.000,00. (duzentos e quinze milh&otilde;es de d&oacute;lares) que ser&atilde;o pagos nas seguintes condi&ccedil;&otilde;es:</em><br /> <br /><em>1. Ap&oacute;s a apresenta&ccedil;&atilde;o desta proposta de compra, a aceita&ccedil;&atilde;o da empresa do Estaleiro Atl&acirc;ntico Sul s/a dever&aacute; ser apresentada atrav&eacute;s do administrador judicial. Solicitamos uma vistoria in loco de todo o parque fabril e demais ativos para realizar nossa due dilligence no prazo de 30 dias.</em><br /> <br /><em>2. O pagamento ser&aacute; feito em dinheiro, 30 dias ap&oacute;s a assinatura do contrato de compra e venda. Av. General Mac Arthur, 418 Empresa Unicenter, Sl 1102 - Imbiribeira - Recife - PE - CEP: 51.160-280</em><br /> <br /><em>3. Aguardamos qualquer informa&ccedil;&atilde;o que voc&ecirc; possa nos enviar sobre o estaleiro e gostar&iacute;amos de iniciar a aquisi&ccedil;&atilde;o o mais r&aacute;pido poss&iacute;vel.</em><br /> <br /><em>4. Fica entendido e declarado por todas as partes envolvidas, seus funcion&aacute;rios, parceiros, amigos e familiares que esta negocia&ccedil;&atilde;o deve ser mantida em absoluto sigilo em todos os momentos.</em><br /> <br /><em>5. Aguardamos a resposta e comunicado o mais breve poss&iacute;vel.</em><br /> <br /> <br /><em>Estamos ansiosos para trabalhar com voc&ecirc; e obrigado pela oportunidade.</em><br /> <br /><em>17 de junho de 2020</em><br /> <br /><em>melhor,</em><br /> <br /><em>Cole Benoit Mattox</em><br /><em>Fundador, S&oacute;cio Gerente</em></p>
+{% endraw %}

@@ -1,0 +1,30 @@
+---
+id: 15655723
+date: "2024-01-08T10:33:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "stf"
+  - "democracia"
+categories:
+  - "sem-categoria"
+title: "'Fracasso da tentativa de golpe de Estado n\u00e3o minimiza a sua gravidade' diz Barroso"
+sutia: "'Sob os nossos olhares estarrecidos, tristes e indignados, o cen\u00e1rio exibia o mais virulento ataque \u00e0s institui\u00e7\u00f5es do pa\u00eds em quase 40 anos', comenta Barroso"
+chapeu: "ataque \u00e0 democracia"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/08/02/bancoimagemfotoaudiencia_ap_438466-18612465.jpg"
+---
+{% raw %}
+<p>Lu&iacute;s Roberto Barroso, presidente do Supremo Tribunal Federal, e artyigo na Folha de S&atilde;o Paulo</p>
+<p>Eram pouco mais de 8 horas da noite quando a ministra Rosa Weber e eu atravessamos as esquadrias destru&iacute;das do pr&eacute;dio do Supremo Tribunal Federal. O ministro Dias Toffoli, que veio de S&atilde;o Paulo, chegou pouco tempo depois. E tamb&eacute;m o presidente Lula. O quadro era desolador: vidros estilha&ccedil;ados, esculturas quebradas, retratos rasgados, m&oacute;veis depredados. Dentro do plen&aacute;rio, inundado de &aacute;gua, o crucifixo arrancado da parede, a bancada de julgamento pisoteada, o tapete queimado. Inscri&ccedil;&otilde;es de &oacute;dio por toda parte.</p>
+<p>Sob os nossos olhares estarrecidos, tristes e indignados, o cen&aacute;rio exibia o mais virulento ataque &agrave;s institui&ccedil;&otilde;es do pa&iacute;s em quase 40 anos. Sob muitos aspectos, o pior da hist&oacute;ria. Pessoas inconformadas com o resultado das elei&ccedil;&otilde;es, movidas por agressividade incontrolada, destru&iacute;ram fisicamente os bens materiais que encontravam, enquanto procuravam destruir simbolicamente a democracia. Se n&atilde;o ganha quem eu quero eu n&atilde;o aceito o resultado e viro a mesa. Foram cenas de primitivismo expl&iacute;cito.</p>
+<p>Embora impressentido, o ataque foi longamente articulado. Come&ccedil;ou com a tentativa de desacreditar as institui&ccedil;&otilde;es, com ofensas a seus integrantes e amea&ccedil;as de desobedi&ecirc;ncia aos comandos constitucionais. Depois avan&ccedil;ou com campanhas de desinforma&ccedil;&atilde;o, discursos de &oacute;dio, mentiras deliberadas e teorias conspirat&oacute;rias. Tanques desfilaram indevidamente na Pra&ccedil;a dos Tr&ecirc;s Poderes.</p>
+<p>Houve cap&iacute;tulos de negacionismo cient&iacute;fico, destrui&ccedil;&atilde;o ambiental e derrama de dinheiro p&uacute;blico. Sem mencionar a tentativa de volta do voto impresso, com contagem p&uacute;blica manual. N&atilde;o &eacute; dif&iacute;cil imaginar hordas invadindo as se&ccedil;&otilde;es eleitorais onde temessem o insucesso. Tudo isso foi preparando o ambiente de disc&oacute;rdia e de intoler&acirc;ncia.</p>
+<p>O fracasso da tentativa de golpe de Estado n&atilde;o minimiza a sua gravidade. Houve mentores, financiadores e executores. Aceitar tudo isso com naturalidade e condescend&ecirc;ncia seria um est&iacute;mulo a novas aventuras criminosas antidemocr&aacute;ticas. Precisamos, &eacute; certo, virar a p&aacute;gina. Mas n&atilde;o arranc&aacute;-la do livro da hist&oacute;ria.</p>
+<p>De tudo o que vi e ouvi, um fato me causou especial abalo. Um policial judicial do Supremo me descreveu que, ap&oacute;s marretadas na parede e arremesso de m&oacute;veis e de objetos, muitos dos invasores se ajoelhavam no ch&atilde;o e rezavam fervorosamente. De onde, Deus do c&eacute;u, poder&aacute; ter sa&iacute;do essa combina&ccedil;&atilde;o implaus&iacute;vel de religiosidade com &oacute;dio, viol&ecirc;ncia e desrespeito ao pr&oacute;ximo? Que desencontro espiritual pode ser esse que n&atilde;o &eacute; capaz de m&iacute;nima distin&ccedil;&atilde;o entre o bem e o mal, entre o estado de natureza e a civiliza&ccedil;&atilde;o? Que tipo de inspira&ccedil;&atilde;o ter&aacute; empurrado essas pessoas numa ribanceira moral?</p>
+<p>Enfim, ao fazer o balan&ccedil;o de fatos hist&oacute;ricos, &eacute; sempre poss&iacute;vel procurar lan&ccedil;ar um olhar construtivo. E a verdade &eacute; que, passado o susto e controlada a indigna&ccedil;&atilde;o, a rea&ccedil;&atilde;o dos Poderes da Rep&uacute;blica, da sociedade civil, da imprensa e dos mais diferentes setores da vida brasileira foi revigorante para a democracia. Liberais, progressistas e conservadores se irmanaram na defesa da Constitui&ccedil;&atilde;o e da institucionalidade contra o golpismo. Uma reafirma&ccedil;&atilde;o de que j&aacute; superamos os ciclos do atraso, com a renova&ccedil;&atilde;o do nosso sentimento constitucional. No fim do dia, sa&iacute;mos melhores do que entramos.</p>
+<p>Passado um ano, o pa&iacute;s vive um processo de reconstru&ccedil;&atilde;o, de reencontro consigo mesmo. N&atilde;o me refiro &agrave; pol&iacute;tica ou a um governo. Trata-se da consolida&ccedil;&atilde;o da cren&ccedil;a social de que a democracia tem lugar para todos os que saibam respeit&aacute;-la, que discord&acirc;ncia n&atilde;o &eacute; inimizade e que a verdade n&atilde;o tem dono.</p>
+<p>H&aacute; patriotas aut&ecirc;nticos com diferentes vis&otilde;es de mundo. Ningu&eacute;m tem o monop&oacute;lio do amor ao Brasil. Fam&iacute;lias e amigos precisam se reconciliar. Quem pensa diferente de mim n&atilde;o &eacute; meu inimigo, mas meu parceiro na constru&ccedil;&atilde;o de uma sociedade aberta e plural. Com boa-f&eacute; e boa vontade, quase tudo &eacute; poss&iacute;vel na vida.</p>
+<p>Muitos comungam da ideia de que o Brasil est&aacute; aqu&eacute;m do seu destino. E, de fato, o futuro aqui se atrasou. Mas ainda est&aacute; no horizonte.</p>
+<p>Felizmente, a exist&ecirc;ncia das pessoas e das na&ccedil;&otilde;es &eacute; feita de muitos recome&ccedil;os. De oportunidades que se renovam. A hist&oacute;ria n&atilde;o &eacute; um destino que se cumpre, mas um caminho que se escolhe.</p>
+{% endraw %}

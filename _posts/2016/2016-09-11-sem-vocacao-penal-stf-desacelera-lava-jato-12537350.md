@@ -1,0 +1,39 @@
+---
+id: 12537350
+date: "2016-09-11T10:45:47Z"
+last_modified_at: null
+tags:
+  - "lava-jato"
+  - "policia-penal"
+categories:
+  - "noticias"
+title: "Sem voca\u00e7\u00e3o penal, STF desacelera Lava Jato"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/Pol\u00edcia-Federal.jpg"
+---
+{% raw %}
+<p><em>Estadão Conteúdo -</em> Dois anos e meio depois do início das <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/10/governo-quer-abafar-lava-jato-diz-revista-ministro-demitido/">primeiras investigações contra políticos na Operação Lava Jato, a lista de inquéritos abertos no Supremo Tribunal Federal (</a>STF) só cresce, mas as soluções da Corte aos casos de corrupção envolvendo parlamentares e ministros não seguem o mesmo ritmo. Nenhum político dos mais de 90 investigados foi condenado até o momento e apenas dois parlamentares respondem a ações penais: o ex-presidente da Câmara Eduardo Cunha (PMDB-RJ) e o deputado Nelson Meurer (PP-PR).</p>
+<p><em>LEIA MAIS:</em></p>
+<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/07/18/procurador-da-lava-jato-prega-mudancas-na-lei-em-igrejas-e-congressos/">Procurador da Lava Jato prega mudanças na lei em igrejas</a></p>
+<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/25/justica-nao-tira-passaporte-diplomatico-de-pastor-investigado-na-lava-jato/">Justiça não tira passaporte diplomático de pastor investigado</a></p>
+<p>Na terça-feira passada, dia 6, o procurador-geral da República, <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/08/lava-jato-revelou-modo-degenerado-de-fazer-politica-avalia-janot/">Rodrigo Janot, admitiu a lentidão dos casos no Supremo. A culpa, pelo entendimento de Janot, não é da própria Corte</a>. "O tribunal não foi feito para formar processo, o tribunal foi feito para julgar recurso. Quando se inverte a lógica, fica mais lento mesmo", disse o chefe do Ministério Público. O STF, emendou Janot, "está fazendo o que pode".</p>
+<p>Só na Lava Jato, o STF conduz mais de 40 investigações entre inquéritos, denúncias e ações penais. <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/10/defesa-de-lula-entra-com-recurso-no-stf-contra-decisao-de-teori/">Todas no gabinete do relator, ministro Teori Zavascki.</a> No total, o Supremo vai bater os 4.400 inquéritos abertos em sua história. Mas a avaliação de especialistas e magistrados é de que a Corte não tem "vocação penal".</p>
+<p>&gt;&gt; <a href="https://m.blogs.ne10.uol.com.br/jamildo/2016/05/19/michel-temer-diz-a-procuradores-que-nao-barrara-lava-jato/">Michel Temer diz a procuradores que não barrará Lava Jato </a></p>
+<p>Entre os investigadores, a avaliação é de que o ministro não deixa nada atrasado no gabinete. Teori já disse: "Eu não acelero nem desacelero, eu vou fazendo na medida que tem para fazer".</p>
+<p><h2><b>Cunha</b></h2></p>
+<p>Os casos que ficaram à espera de uma decisão do relator foram relacionados a Cunha. Primeiro, o pedido de afastamento do parlamentar do cargo, feito em dezembro e respondido por Teori em maio. <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/08/por-10-votos-1-stf-nega-pedido-de-cunha-para-suspender-processo-de-cassacao/">Agora, o pedido de prisão do deputado feito por Janot em junho, junto com pedidos semelhantes </a>contra o presidente do Senado, Renan Calheiros, e outros peemedebistas. O único sem resposta é o do deputado afastado.</p>
+<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/13/poderosos-ameacam-lava-jato-diz-procurador/">'Poderosos' ameaçam Lava Jato, diz procurador</a></p>
+<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/29/para-procuradores-futuro-da-lava-jato-esta-ligado-ao-stf/">Para procuradores, futuro da Lava Jato está ligado ao STF</a></p>
+<p>Mesmo com o trabalho considerado em dia, a fila de casos da Lava Jato a serem decididos pelo Supremo aumenta. O caso mais emblemático é o do senador e ex-presidente da República Fernando Collor (PTC-AL). <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/08/duracao-da-sessao-de-cassacao-de-eduardo-cunha-ainda-e-imprevisivel/">A acusação feita pela PGR em agosto de 2015 imputa a Collor a prática de mais de 300 condutas criminosas</a>. Até hoje, a peça é mantida sob sigilo. A demora, segundo fontes com acesso à apuração, se deve à quantidade de denunciados, que precisam ser intimados em diversos Estados.</p>
+<p>Enquanto isso, nas mãos do juiz federal Sérgio Moro, responsável pelas ações da Lava Jato na primeira instância, há denúncias que são oferecidas, recebidas e julgadas em quatro meses - <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/02/tribunal-de-sp-mantem-com-moro-denuncia-contra-lula-no-caso-triplex/">caso de uma investigação que envolvia o ex-deputado André Vargas e o publicitário Ricardo Hoffmann</a>. Na média, a sentença leva de seis meses a dois anos para sair, após a denúncia.</p>
+<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/03/07/142452/">'El País': A vida de sultão de Eduardo Cunha</a></p>
+<p><h2><b>Balanço</b></h2></p>
+<p>Na primeira instância, foram feitas 46 acusações criminais contra 225 pessoas, segundo o último balanço da Lava Jato, de 29 de agosto. A investigação em Curitiba começou em março de 2014. <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/22/sergio-moro-bloqueia-casa-de-r-86-milhoes-de-marcelo-odebrecht/">Moro já deu sentenças em 21 casos. Até agora, foram realizadas 106 condenações, </a>que contabilizam 1.148 anos, 11 meses e 11 dias de pena.</p>
+<p>Já o STF tem ao menos 38 investigações sobre a Lava Jato em curso com alvo em 91 pessoas. Em sete desses inquéritos a PGR já ofereceu denúncia e aguarda decisão da 2.ª Turma do Supremo. <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/03/delcidio-amaral-diz-lava-jato-que-lula-integrou-esquema-na-petrobras/">Ao menos oito investigações com base na Lava Jato, mas não relacionadas ao escândalo na Petrobras, tramitam no STF</a> distribuídos entre gabinetes de outros quatro ministros além de Teori. Ao menos cinco inquéritos já foram arquivados, dois remetidos a Moro e um encaminhado à Justiça Federal do Distrito Federal.</p>
+<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/07/04/procurador-da-lava-jato-critica-iniciativas-de-politicos-que-podem-mudar-sistema-de-delacoes/">Procurador da Lava Jato critica iniciativas de políticos</a></p>
+<p>&gt;&gt; <a href="https://m.blogs.ne10.uol.com.br/jamildo/2016/07/13/lula-volta-a-criticar-moro-e-procuradores-da-lava-jato-em-discurso-no-recife/">Lula volta a criticar Sérgio Moro e procuradores da Lava Jato</a></p>
+<p>O levantamento foi feito pelo jornal O Estado de S. Paulo. Os números sobre o STF podem ser subestimados em razão dos processos com grau máximo de sigilo. No Superior Tribunal de Justiça (STJ), <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/10/pgr-reune-provas-de-contas-na-suica-e-os-gastos-de-luxo-da-familia-cunha/">também sob condução da PGR, há quatro investigações contra seis pessoas </a>- uma delas já alvo no STF. Ao todo, portanto, a PGR conduz apurações relacionadas a 96 pessoas físicas envolvidas no esquema da Petrobras.</p>
+<p>O levantamento da PGR é diferente: o Ministério Público contabiliza ao menos 81 inquéritos com 364 investigados e 17 denúncias oferecidas. Os números da Procuradoria, no entanto, consideram casos arquivados ou remetidos a outras instâncias após a perda de foro privilegiado. As informações são do jornal <b>O Estado de S. Paulo.</b></p>
+{% endraw %}

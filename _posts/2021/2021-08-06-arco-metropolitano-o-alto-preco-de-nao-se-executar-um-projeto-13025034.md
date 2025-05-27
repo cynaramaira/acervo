@@ -1,0 +1,29 @@
+---
+id: 13025034
+date: "2021-08-06T14:05:00Z"
+last_modified_at: null
+tags:
+  - "desenvolvimento"
+categories:
+  - "sem-categoria"
+title: "Arco Metropolitano: o alto pre\u00e7o de n\u00e3o se executar um projeto estrat\u00e9gico para Pernambuco"
+sutia: "O presidente do Conselho da Rede Moura, o empres\u00e1rio Paulo Sales, pede mobiliza\u00e7\u00e3o pel arco, obra de tamanha relev\u00e2ncia estrat\u00e9gica"
+chapeu: "crescimento econ\u00f4mico"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2021/04/arco-metropolitano1.jpg"
+---
+{% raw %}
+<p>Por Paulo Sales<br />Empres&aacute;rio e presidente do Conselho da Rede Moura, especial para o blog de Jamildo</p>
+<p>O cuidado com o meio ambiente, a responsabilidade social e as melhores pr&aacute;ticas de governan&ccedil;a s&atilde;o fatores cada vez mais importantes na tomada de decis&atilde;o das empresas e motivo de aten&ccedil;&atilde;o de toda sociedade. No mundo dos neg&oacute;cios, essa quest&atilde;o tem at&eacute; uma sigla em ingl&ecirc;s, ESG, que significa, em portugu&ecirc;s "ambiental, social e governan&ccedil;a", crit&eacute;rios cada vez mais analisados pelos investidores ao avaliar uma empresa.</p>
+<p>Em outras palavras, para uma companhia privada manter a sustentabilidade de seu pr&oacute;prio neg&oacute;cio nos dias de hoje, n&atilde;o adianta apenas gerar lucro - &eacute; necess&aacute;rio adotar pr&aacute;ticas socialmente respons&aacute;veis e de menor impacto ambiental.</p>
+<p>&Eacute; dentro desses preceitos que o Atitude Pernambuco, movimento empresarial multissetorial criado para apoiar grandes temas estrat&eacute;gicos para o nosso estado, defende o Arco Metropolitano. Esperamos que, com a conclus&atilde;o do processo licitat&oacute;rio e o in&iacute;cio da execu&ccedil;&atilde;o dos projetos b&aacute;sicos, iniciem-se as discuss&otilde;es sobre a obra &agrave; luz do interesse p&uacute;blico e do respeito &agrave;s melhores pr&aacute;ticas.</p>
+<p>O Arco Metropolitano &eacute; a solu&ccedil;&atilde;o para destravar a gera&ccedil;&atilde;o de riquezas no Estado e fundamental para o enfrentamento dos desafios da mobilidade na Regi&atilde;o Metropolitana do Recife (RMR). O transporte de pessoas e de cargas no Grande Recife, por meio de uma BR-101 sobrecarregada, encarece os servi&ccedil;os e produtos, impacta negativamente todas as cadeias produtivas e amea&ccedil;a a posi&ccedil;&atilde;o de Pernambuco como hub log&iacute;stico do Nordeste.</p>
+<p>Esse custo quem paga &eacute; a sociedade, com bens e servi&ccedil;os mais caros, perda de oportunidades de emprego e renda, impacto na qualidade de vida e comprometimento da competitividade sist&ecirc;mica do nosso Estado.</p>
+<p>Contudo, considerando os princ&iacute;pios do ESG, a relev&acirc;ncia econ&ocirc;mica n&atilde;o justifica a obra a qualquer custo. Defendemos um estudo consistente e rigoroso de alternativa locacional que realmente pondere as quest&otilde;es financeiras, sociais, ambientais e log&iacute;sticas.</p>
+<p>Independentemente de onde passar a estrada, &eacute; fundamental que se fa&ccedil;a valer as restri&ccedil;&otilde;es ambientais pr&oacute;prias de uma &Aacute;rea de Prote&ccedil;&atilde;o Ambiental (APA), que se considerem as quest&otilde;es territoriais que impactam a vida das pessoas na regi&atilde;o e, principalmente, que a legisla&ccedil;&atilde;o seja respeitada para assegurar que sejam v&aacute;lidas e efetivas as conclus&otilde;es t&eacute;cnicas.</p>
+<p>Al&eacute;m disso, defendemos que a constru&ccedil;&atilde;o da via n&atilde;o represente qualquer tipo de amea&ccedil;a ao aqu&iacute;fero Beberibe e aos rios Botafogo, Bonan&ccedil;a e Utinga. A obra tamb&eacute;m deve gerar contrapartidas financeiras que viabilizem as estrat&eacute;gias de reconex&atilde;o de matas dentro do territ&oacute;rio da APA e todo seu plano de manejo. Por fim, confiamos que o emprego das melhores solu&ccedil;&otilde;es de engenharia vai garantir um tra&ccedil;ado do Arco que respeite todos estes preceitos, independentemente de passar por dentro ou &agrave; margem da APA.</p>
+<p>Com a crise da pandemia ficou claro que n&atilde;o &eacute; poss&iacute;vel separar a economia da ci&ecirc;ncia e, no caso espec&iacute;fico, dos cuidados com o meio ambiente. Por isso, &eacute; importante repetir que o Arco &eacute; fundamental para a economia pernambucana e para o destravamento da mobilidade na RMR. Executado da maneira certa, o Arco tem o potencial de trazer visibilidade &agrave; APA e mobilizar os recursos necess&aacute;rios &agrave; sua preserva&ccedil;&atilde;o, configurando-se n&atilde;o como uma amea&ccedil;a, mas como um ativo ambiental.</p>
+<p>Assim como investidores analisam as empresas com base nos crit&eacute;rios do ESG, os tomadores de decis&atilde;o das grandes companhias analisam a competitividade de um estado &agrave; luz dos mesmos crit&eacute;rios. E na conta das empresas que avaliam investir em Pernambuco, o maior custo ainda &eacute; o de uma governan&ccedil;a que n&atilde;o seja capaz de entregar os avan&ccedil;os necess&aacute;rios &agrave; competitividade da regi&atilde;o.</p>
+<p>Que todos n&oacute;s nos mobilizemos em favor da viabiliza&ccedil;&atilde;o do Arco Metropolitano dentro dos crit&eacute;rios do ESG e que possamos manter em mente que o custo maior j&aacute; estamos pagando h&aacute; mais de uma d&eacute;cada: o pre&ccedil;o de n&atilde;o executar uma obra de tamanha relev&acirc;ncia estrat&eacute;gica.</p>
+<p>Paulo Sales &eacute; empres&aacute;rio e presidente do Conselho da Rede Moura<br /></p>
+{% endraw %}

@@ -1,0 +1,30 @@
+---
+id: 12553144
+date: "2017-06-27T20:06:19Z"
+last_modified_at: null
+tags:
+  - "enem-2019"
+  - "reformas"
+categories:
+  - "noticias"
+title: "Den\u00fancia de Janot deve adiar reforma da Previd\u00eancia para 2019, dizem analistas"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/04/michel-temer-1.jpg"
+---
+{% raw %}
+<p><p><em>Estadão Conteúdo</em> - A denúncia da Procuradoria-Geral da República (PGR) contra o presidente da República, Michel Temer, e a estratégia de Rodrigo Janot de fatiar as acusações em três partes, deve a partir de agora concentrar as atenções e o foco do Congresso. Com isso, a agenda das reformas, sobretudo a da Previdência, deve ficar para 2019, avaliam economistas e cientistas políticos ouvidos pelo Broadcast, serviço de notícias em tempo real do Grupo Estado.</p></p>
+<p><p>Alguns analistas acreditam que Temer tem condições de conseguir os votos necessários na Câmara para barrar as denúncias de Janot O custo, porém, será uma paralisia do governo para tocar outras agendas que não a própria sobrevivência do peemedebista. "A cada pedido que Temer faz à base aliada para se segurar no cargo, há um enfraquecimento de seu capital político. Não acho que tenha mais reforma na mesa. O foco agora é ele se segurar no cargo", afirma o diretor de pesquisa macroeconômica para América Latina da Oxford Economics, Marcos Casarin, baseado em Londres.</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/27/apos-ser-denunciado-temer-parte-para-cima-de-ex-assessor-de-janot/">Após ser denunciado, Temer parte para cima de ex-assessor de Janot</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/27/janot-defende-denuncia-sobre-temer-e-diz-que-ninguem-esta-acima-da-lei/">Janot defende denúncia sobre Temer e diz que ninguém está acima da lei</a></p></p>
+<p><p>Um teste importante para ver se o governo ainda tem fôlego para andar com as reformas e como está o relacionamento do Planalto com a base aliada após as denúncias de Janot deve ser a votação do texto das mudanças nas regras trabalhistas, prevista para esta quarta-feira, 28, na Comissão de Constituição e Justiça (CCJ) do Senado. "Precisa de um sinal mínimo de aprovação", avalia o economista-chefe da MB Associados, Sergio Vale.</p></p>
+<p><p><iframe style="width: 315px; float: left; margin: 0 20px 20px 0; border: 0; height: 600px;" src="https://produtos.ne10.uol.com.br/enquete/enquete/voce-concorda-com-a-reforma-da-previdencia,index.html" width="300" height="150"></iframe></p></p>
+<p><p>Mesmo com o andamento do texto da reforma trabalhista, os economistas mostram menos otimismo para a Previdência. "A Previdência já estava adiada e adiada continua. Por enquanto, a reforma fica em suspenso, pelo menos até a votação da denúncia", disse a economista-chefe da Rosenberg Associados, Thaís Zara. Para o cientista político da Hold Assessoria Legislativa, André Pereira César, o mais provável é que o texto fique para 2019. "O governo Temer tem pouca margem de manobra", disse ele, destacando que após as denúncias de Janot, o custo para manter a base de apoio de Temer aumentou. Vale, da MB, também vê chances de a reforma ficar para 2019. "O governo está postergando a morte da Previdência e jogando para frente algo que talvez não dê para fazer este ano."</p></p>
+<p><p>Mesmo uma reforma da Previdência mais esvaziada, que contemple apenas a idade mínima para a aposentadoria, vai ser difícil passar neste clima, avalia a economista Monica de Bolle, pesquisadora do Peterson Institute for International Economics, com sede em Washington. "Não tem ambiente algum para discussão de qualquer tipo de reforma", disse ela, ressaltando que o foco agora dos parlamentares serão as denúncias contra o peemedebista Para a economista, há o risco de o governo Temer entrar em um estado de total paralisia, focado apenas em sua sobrevivência, deixando assim a agenda de reformas para o próximo presidente.</p></p>
+<p><p>Para o cientista político e consultor associado da 4E, Humberto Dantas, é "extremamente improvável, quase uma utopia", a aprovação da reforma da Previdência até 2018. "A reforma já não é a que o governo queria anteriormente e agora passou a ser extremamente improvável, quase uma utopia", disse.</p></p>
+<p><h2>PIB</h2></p>
+<p><p>Um dia após Janot denunciar Temer, o Bank of America Merrill Lynch (BofA) revisou as projeções de crescimento do Produto Interno Bruto (PIB) do Brasil e alertou que o "ruído político cresceu, elevou risco para reformas e deve afetar retomada da economia". A instituição cortou a estimativa do PIB deste ano de 1% para 0,25% e de 2018 de 3% para 1,5%. "A recente turbulência política aumentou o risco de atrasos na aprovação da reforma da Previdência, um dos principais pilares em nosso cenário-base macroeconômico", afirmam os economistas do BofA, David Beker e Ana Madeira em um relatório nesta terça-feira, 27.</p></p>
+<p><p>Quanto mais tempo demorar a tramitação da denúncia no Congresso, pior será, pois vai contribuir para manter o clima de incerteza elevado, observa a economista da XP Investimentos, Zeina Latif. Enquanto a situação não se resolve, a agência de classificação de risco Moody's, deve manter a perspectiva negativa para o rating soberano do Brasil. "Até vermos clareza sobre a direção das políticas e as perspectivas das reformas, que já foram muito comprometidas", disse a vice-presidente e principal analista para o País da agência, Samar Maziad. "Temos já uma perspectiva negativa sobre o rating do Brasil e isto captura as incertezas que começaram no recente processo de revelações realizadas pelas gravações do dirigente da JBS", disse ela ao Broadcast.</p></p>
+{% endraw %}

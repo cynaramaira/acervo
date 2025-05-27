@@ -1,0 +1,37 @@
+---
+id: 15587433
+date: "2023-09-06T08:58:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "jarbas-vasconcelos"
+categories:
+  - "sem-categoria"
+title: "Ant\u00f4nio Campos lembra a utiliza\u00e7\u00e3o de lawfare de Jarbas contra Arraes"
+sutia: "ARTIGO: Ex-governador Miguel Arraes teria morrido sem perdoar campanha de Jarbas e MDB contra o socialista. Derrubada as acusa\u00e7\u00f5es da CPI dos Precat\u00f3rios, Arraes faleceu antes de poder ingressar com uma a\u00e7\u00e3o de perdas e danos contra o advers\u00e1rio"
+chapeu: "Mem\u00f3ria"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/legado/156/imagemjc/imagem/noticia/2018/08/10/normal/74a075351b47b8438c0b47ec38740460.jpg"
+---
+{% raw %}
+<p>O advogado Ant&ocirc;nio Campos, irm&atilde;o de Eduardo Campos e neto do ex-governador Miguel Arraes, escreve ao <strong>Blog de Jamildo</strong> aproveitando a as homenagens ao senador Jarbas Vasconcelos para lembrar a guerra pol&iacute;tica travada no terceiro governo Arraes, com a crise dos precat&oacute;rios.</p>
+<p>Ele trata Jarbas com muito respeito e se at&eacute;m apenas aos fatos da &eacute;poca da briga.</p>
+<p>Tonca revela que est&aacute; escrevendo um livro sobre o av&ocirc;.</p>
+<p>Para mim, que vivi aquela &eacute;poca, uma das jogadas mais espetaculares de Arraes foi aceitar a venda do Bandepe. O socialista era por defini&ccedil;&atilde;o estatista, como iria aceitar a privatiza&ccedil;&atilde;o? Havia um acordo com o governo FHC para devolver o produto da venda, como forma de abater os recursos usados pelo BC para reestrutura&ccedil;&atilde;o do banco p&uacute;blico. Era final de ano. Arraes mandou para China o acordo e mandou pagar os servidores, com tr&ecirc;s folhas de sal&aacute;rio em atraso, assim que os recursos ca&iacute;ram na Conta &Uacute;nica do Estado. N&atilde;o pode usar os recursos da antecipa&ccedil;&atilde;o da venda da Celpe pelo BNDES, travados por Jarbas Vasconcelos e Mendon&ccedil;a Filho, mas pode dar o troco, inclusive em FHC.</p>
+<p>Veja o artigo abaixo</p>
+<p><strong>Ant&ocirc;nio Campos</strong> - O conceito de lawfare, que n&atilde;o &eacute; novo, voltou a ter proje&ccedil;&atilde;o a partir da tese da defesa do Presidente Lula, pelo advogado Cristiano Zanin, hoje Ministro do Supremo Tribunal Federal, no caso do tr&iacute;plex, que resultou na condena&ccedil;&atilde;o e pris&atilde;o de Lula por decis&atilde;o do atual Senador S&eacute;rgio Moro, que foi anulada.</p>
+<p>Essa semana, o Senador Jarbas Vasconcelos <a href="https://jc.ne10.uol.com.br/colunas/jamildo/2023/09/15587440-jarbas-vasconcelos-se-despede-da-vida-parlamentar-apos-mais-de-50-anos-relembre-a-trajetoria.html" target="_blank" rel="noopener noreferrer"><strong>anunciou a sua aposentadoria no Senado</strong></a>, por quest&otilde;es de sa&uacute;de, de onde j&aacute; estava praticamente afastado h&aacute; algum tempo.</p>
+<p>Tal conceito de lawfare, que n&atilde;o &eacute; a judicializa&ccedil;&atilde;o da pol&iacute;tica, mas &lsquo;&rsquo;o uso estrat&eacute;gico do Direito para fins de deslegitimar&rsquo;&rsquo;, segundo Zanin, foi utilizado por Jarbas no Caso dos Precat&oacute;rios, tendo Arraes feito um texto chamado Precat&oacute;rios, Uma Arma Pol&iacute;tica, em formato de plaquete. J&aacute; tinha essa vis&atilde;o, apenas n&atilde;o usou o termo t&eacute;cnico jur&iacute;dico.</p>
+<p>A ruidosa Opera&ccedil;&atilde;o Precat&oacute;rios, na realidade, foi uma opera&ccedil;&atilde;o financeira, com erros formais, para financiar o d&eacute;ficit de Pernambuco, no garroteamento financeiro feito pelo Governo Fernando Henrique, de quem Arraes era opositor pol&iacute;tico, em op&ccedil;&atilde;o a n&atilde;o privatiza&ccedil;&atilde;o da Celpe.</p>
+<p>Houve uma den&uacute;ncia criminal no Supremo Tribunal Federal, que denunciou Eduardo Campos, Arraes e outros. Tempos depois, foi rejeitada pelo Supremo, que fez o ressurgimento pol&iacute;tico de Eduardo Campos. A vit&oacute;ria jur&iacute;dica fez ressurgir Eduardo Campos, assim como a vit&oacute;ria jur&iacute;dica do Presidente Lula, o fez de novo Presidente. Em Pernambuco, foi arquivada quanto aos demais.</p>
+<p>Arraes tinha um habeas corpus transitado em julgado, a seu favor, mas foi retirado no Supremo pelo instituto da prescri&ccedil;&atilde;o, sem analisar esse aspecto do habeas corpus, que o inocentava no m&eacute;rito, porque juridicamente a quest&atilde;o da prescri&ccedil;&atilde;o precede a quest&atilde;o de m&eacute;rito.</p>
+<p>O Tribunal de Contas de Pernambuco aprovou a Opera&ccedil;&atilde;o dos Precat&oacute;rios registrando que a mesma tinha defeitos formais, mas que n&atilde;o tiravam o seu car&aacute;ter p&uacute;blico de financiamento do Estado, em momento de dificuldades financeiras.</p>
+<p>Em sua campanha pol&iacute;tica e eleitoral contra Arraes, Jarbas e a sua equipe de marketing e jur&iacute;dica, ajuizaram uma a&ccedil;&atilde;o popular na Justi&ccedil;a Federal e criaram uma pe&ccedil;a publicit&aacute;ria em que diziam: &lsquo;&rsquo;o povo de Pernambuco quer saber onde foi parar os 400 milh&otilde;es dos precat&oacute;rios&rsquo;&rsquo;. Tal a&ccedil;&atilde;o e movimenta&ccedil;&atilde;o pol&iacute;tica tinha as conota&ccedil;&otilde;es de lawfare para deslegitimar Arraes politicamente e tamb&eacute;m o seu neto Eduardo Campos, tendo sido amplamente usada.</p>
+<p>Esse &eacute; um dos cap&iacute;tulos que estou contando, em detalhes, na biografia Arraes, O Povo no Poder, que estou escrevendo. Fui Presidente 10 anos do Instituto Miguel Arraes, quando funcionou plenamente, depois me afastei. Quando Presidente da Funda&ccedil;&atilde;o Joaquim Nabuco levei o acervo do Instituto Miguel Arraes para a Fundaj, onde est&aacute; preservado, no Governo Federal anterior.</p>
+<p>Eduardo Campos, pr&eacute;-candidato a Presidente, fez as pazes com Jarbas, seu antigo arquinimigo, porque queria Pernambuco unido para lhe fazer Presidente. Foi o que me disse pessoalmente ao perguntar a ele. Respondi, o nosso av&ocirc; faria ressalvas. Eduardo Campos foi um grande pol&iacute;tico, mas nem sempre acertou.</p>
+<p>Na realidade, Arraes faleceu sem ter se reconciliado com Jarbas, embora os que se apossaram do seu esp&oacute;lio pol&iacute;tico tenham ajudado o mesmo a ser Senador e ainda mais fazem a sua apologia, mesmo j&aacute; havendo coment&aacute;rios &agrave; &eacute;poca de problemas de sa&uacute;de. &Eacute; como Lula fizesse a apologia de Moro. D&aacute; pra acreditar? N&atilde;o estou igualando Jarbas a Moro, mas apenas quanto ao aspecto do lawfare.</p>
+<p>A pol&iacute;tica muitas vezes &eacute; estranha. Aqueles que foram fieis e defenderam os acusados s&atilde;o discriminados, enquanto os que foram ferrenhos advers&aacute;rios, inclusive usando armas como o lawfare, s&atilde;o beneficiados politicamente, eleitoralmente e ainda exaltados, inclusive por uma parte do grupo que se diz arraesista. Contudo, o tempo colocar&aacute; tudo no seu devido lugar.</p>
+<h1>*</h1>
+<p><em>Ant&ocirc;nio Campos &eacute; advogado, escritor e ex-presidente do Instituto Miguel Arraes.</em></p>
+<div style="position: relative; padding-bottom: 56.25%;"><iframe style="width: 100%; height: 100%; position: absolute; left: 0px; top: 0px; overflow: hidden;" src="https://geo.dailymotion.com/player/xhsob.html?video=x8nrvnw" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+{% endraw %}

@@ -1,0 +1,43 @@
+---
+id: 12540040
+date: "2016-10-20T21:47:58Z"
+last_modified_at: null
+tags:
+  - "greve"
+  - "policia-civil"
+  - "tjpe"
+categories:
+  - "noticias"
+title: "TJPE decreta ilegalidade da greve da Pol\u00edcia Civil"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/10/policiais-civis.jpg"
+---
+{% raw %}
+<p>Antes de começar, a greve da Polícia Civil foi considerada ilegal pelo desembargador Bartolomeu Bueno, a pedido do governo Paulo Câmara (PSB), na noite desta quinta-feira (20). O magistrado aplicou multa diária de R$ 100 mil caso o sindicato que representa a categoria, o Sinpol, descumprir a determinação judicial.</p>
+<p>Deflagrada essa tarde, em assembleia realizada em frente ao Palácio do Campo das Princesas, sede do governo estadual, a paralisação estava prevista para as primeiras horas da sexta-feira (21).</p>
+<p>Em entrevista ao <a href="https://jconline.ne10.uol.com.br/" target="_blank">Jornal do Commercio</a>, o sindicato afirmou que a mobilização está mantida apesar da decisão do Tribunal de Justiça de Pernambuco (TJPE). A entidade tem uma reunião com o secretário de Administração, Milton Coelho, articulada pelo secretário de Defesa Social, Angelo Gioia, sobre a nova rodada de negociação com a gestão estadua. Às 17h, está prevista uma assembleia da categoria.</p>
+<p><strong>LEIA TAMBÉM</strong></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/10/20/policiais-civis-nao-aceitam-plano-do-governo-paulo-camara-e-decretam-greve/">Policiais civis não aceitam plano do governo Paulo Câmara e deflagram greve</p>
+<p></a>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/10/20/governo-pede-a-justica-para-decretar-ilegalidade-da-greve-da-policia-civil/">Governo pede à Justiça para decretar ilegalidade da greve da Polícia Civil</a></p>
+<p>» <a href="https://noticias.ne10.uol.com.br/grande-recife/noticia/2016/10/20/sds-usara-pms-para-manter-atendimento-durante-greve-da-policia-civil-643826.php" target="_blank">SDS usará PMs para manter atendimento durante greve da Polícia Civil</a></p>
+<p>Bueno argumentou na decisão (leia a íntegra abaixo) que os policiais prestam serviço essencial.</p>
+<p>"Tratando-se, portanto, de atividade de índole essencial à manutenção da segurança e ordem públicas, imprescindível que todas as tratativas encetadas pela categoria dos policiais civis, visando melhorias salariais e/ou de condições de trabalho, sejam implementadas sem prejuízo do integral funcionamento dos serviços prestados pela classe, afastando-se, inclusive, a possibilidade de manutenção dos serviços em percentuais mínimos", afirma o desembargador. "O movimento dos policiais civis, paralisando as suas atividades, vulnera, à toda evidência, a ordem e a segurança públicas."</p>
+<p><img class="size-full wp-image-168973" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/10/stefanni.jpg" alt="Stefanni afirmou que governo não vai ser pressionado pelo movimento (Foto: Bobby Fabisak/JC Imagem)" width="750" height="410" /> Stefanni afirmou que governo não vai ser pressionado pelo movimento (Foto: Bobby Fabisak/JC Imagem)</p>
+<p>O secretário estadual de Planejamento e Gestão, Márcio Stefanni, afirmou que a proposta inicialmente recebida pela Secretaria de Administração (SAD) representaria um aumento de R$ 40 milhões mensais na folha de pagamento do Estado. O secretário defendeu que atualmente os aproximadamente 220 mil servidores custam R$ 800 milhões e que os 3,5 policiais iriam representar, sozinhos,  um aumento considerado alto pela gestão. "Todos nós sabemos que o Brasil passa por uma crise aguda na economia, Pernambuco também passa por essa crise. É impossível conceder tal aumento", frisou.</p>
+<p>A assembleia que determinou pela greve, após uma reunião da diretoria do Sinpol com o secretário de Administração, Milton Coelho, rejeitou a proposta de plano de cargos e carreiras equiparando o teto desses profissionais ao piso dos delegados. Isso representa 13% de aumento no fim da carreira. De acordo com a entidade, a proposta agradou, mas não foi aceita por não estabelecer prazos para a implementação do plano, da mesma forma que foi feito quando os policiais ameaçaram entrar em greve durante o Carnaval deste ano.</p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/10/17/contra-violencia-em-caruaru-tony-gel-e-raquel-lyra-querem-mudanca-na-pm/">Contra violência em Caruaru, Tony Gel e Raquel Lyra querem mudança na PM</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/10/16/com-aumento-da-violencia-no-recife-candidatos-fazem-promessas-para-seguranca/">Com aumento da violência no Recife, candidatos fazem promessas para segurança</a></p>
+<p>Stefanni continuou sem falar em prazos e afirmou que provavelmente seria no próximo ano, mas que o caso teria que ser levado à Assembleia Legislativa de Pernambuco (Alepe). O documento apresentado por Milton Coelho diz que a construção da nova grade deveria ser feita até 10 de novembro. A rejeição, porém, invalidou a proposta inicial do governo.</p>
+<p>O secretário endureceu as palavras ao ser questionado sobre a possibilidade de mais uma negociação com a categoria, embora tenha dito que essa seja a orientação de Paulo Câmara, que já tem como calo da gestão os resultados negativos do Pacto pela Vida. "Não será um movimento paredista, não será o corte de serviços à população que vai nos pressionar", afirmou. "Não serão movimentos que nos coloquem no canto da parede que vão fazer o governo negociar", concluiu Stefanni.</p>
+<p><img class="size-full wp-image-168975" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/10/gioia.jpg" alt="Gioia assumiu a SDS há duas semanas (Foto: Bobby Fabisak/JC Imagem)" width="750" height="410" /> Gioia assumiu a SDS há duas semanas (Foto: Bobby Fabisak/JC Imagem)</p>
+<p>Com a greve deflagrada <a href="https://blogs.ne10.uol.com.br/jamildo/2016/10/06/processado-no-rio-novo-secretario-da-sds-diz-que-foi-acusado-por-corrigir-problemas-na-pf/">duas semanas após ser empossado na Secretaria de Defesa Social</a> - devido à <a href="https://blogs.ne10.uol.com.br/jamildo/2016/10/15/alessandro-carvalho-e-nomeado-para-assessoria-especial-do-governador/">saída de Alessandro Carvalho</a>, que foi para a assessoria especial do governador depois de <a href="https://blogs.ne10.uol.com.br/jamildo/2014/12/31/implantado-por-eduardo-campos-pacto-pela-vida-vira-calo-de-sucessores/">três anos de declínio do Pacto pela Vida</a> -, Gioia disse ver a greve com "tristeza e descontentamento". "Eu penso que, conhecendo a proposta, uma reflexão (dos policiais) poderá evitar essa paralisação", afirmou.</p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/10/15/alessandro-carvalho-e-nomeado-para-assessoria-especial-do-governador/">Alessandro Carvalho é nomeado para assessoria especial do governador</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/10/06/processado-no-rio-novo-secretario-da-sds-diz-que-foi-acusado-por-corrigir-problemas-na-pf/">Processado no Rio, novo secretário da SDS diz que foi acusado por corrigir problemas na PF</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/10/06/silvio-costa-filho-diz-que-troca-de-secretario-nao-tem-efeito-sem-mudanca-no-pacto-pela-vida/">Sílvio Costa Filho diz que troca de secretário não tem efeito sem mudança no Pacto pela Vida</a></p>
+<p>"Eu me preocupo com o efetivo policial e nós queremos as melhores condições de trabalho para esse efetivo, mas não podemos investir no aumento da criminalidade, na falta de sossego da população vendo isso como possibilidade de pressionar para negociar benefícios e salário para os nossos policiais", afirmou Gioia, que se colocou como intermediário entre os profissionais em greve e o governo estadual. "Nós devemos trabalhar. A reivindicação, ainda que justa, não pode penalizar a população", defendeu.</p>
+<p>»<em> Leia a decisão do desembargador Bartolomeu Bueno:</em></p>
+<p><iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/gFy50zhJH9Nz9r" width="100%" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p>
+<p><div style="margin-bottom: 5px;"><strong> <a title="TJPE decreta ilegalidade da greve da Polícia Civil" href="//www.slideshare.net/JCOnLine/tjpe-decreta-ilegalidade-da-greve-da-polcia-civil" target="_blank">TJPE decreta ilegalidade da greve da Polícia Civil</a> </strong> from <strong><a href="//www.slideshare.net/JCOnLine" target="_blank">Portal NE10</a></strong></div></p>
+{% endraw %}

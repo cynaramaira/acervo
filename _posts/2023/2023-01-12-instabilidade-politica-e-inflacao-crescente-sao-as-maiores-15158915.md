@@ -1,0 +1,27 @@
+---
+id: 15158915
+date: "2023-01-12T17:24:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "democracia"
+categories:
+  - "sem-categoria"
+title: "Instabilidade pol\u00edtica e infla\u00e7\u00e3o crescente s\u00e3o as maiores preocupa\u00e7\u00f5es dos executivos"
+sutia: "Para 45,7% dos respondentes, o resultado das elei\u00e7\u00f5es impactou os principais desafios das empresas"
+chapeu: "economia"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/12/30/congresso-22224397.jpg"
+---
+{% raw %}
+<p>A instabilidade pol&iacute;tica e a infla&ccedil;&atilde;o crescente ser&atilde;o as maiores preocupa&ccedil;&otilde;es dos altos executivos em 2023, revela levantamento in&eacute;dito realizado pela Michael Page, uma das maiores consultorias especializadas em recrutamento de m&eacute;dia e alta ger&ecirc;ncia, parte do PageGroup, e com apoio t&eacute;cnico do professor de Estrat&eacute;gia e Lideran&ccedil;a Paul Ferreira, da Escola de Administra&ccedil;&atilde;o de Empresas de S&atilde;o Paulo da Funda&ccedil;&atilde;o Getulio Vargas (FGV EAESP).</p>
+<p>A alta lideran&ccedil;a tamb&eacute;m apontou risco de recess&atilde;o, falta de confian&ccedil;a no governo e mudan&ccedil;as no comportamento do consumidor como principais desafios a serem enfrentados, nessa ordem.</p>
+<p>Para 45,7% dos respondentes, o resultado das elei&ccedil;&otilde;es impactou os principais desafios das empresas.</p>
+<p>A pesquisa O Brasil p&oacute;s-elei&ccedil;&otilde;es: uma vis&atilde;o da lideran&ccedil;a empresarial foi realizada em novembro e dezembro de 2022, contando com as respostas de 147 executivos (presidentes, vice-presidentes, diretores, superintendentes e s&oacute;cios) de todo o territ&oacute;rio nacional e de companhias de diversos setores.</p>
+<p>&ldquo;O resultado das elei&ccedil;&otilde;es presidenciais influenciou os desafios que os principais l&iacute;deres ter&atilde;o pela frente ao longo do ano. S&atilde;o aspectos pol&iacute;ticos e econ&ocirc;micos que n&atilde;o est&atilde;o sob controle de suas gest&otilde;es, mas que impactam em decis&otilde;es estrat&eacute;gicas, planos de neg&oacute;cios e modelo de gest&atilde;o&rdquo;, disse Ricardo Basaglia, CEO da Michael Page no Brasil.</p>
+<p>Na avalia&ccedil;&atilde;o do professor da FGV EAESP, Paul Ferreira, &ldquo;a alta preocupa&ccedil;&atilde;o com o retorno da infla&ccedil;&atilde;o &eacute; compreens&iacute;vel. A infla&ccedil;&atilde;o pressiona as organiza&ccedil;&otilde;es, uma vez que afeta as cadeias de suprimentos e decis&otilde;es de pre&ccedil;os de produtos ou servi&ccedil;os, o relacionamento com o cliente e o gerenciamento de caixa e, acima de tudo, os sal&aacute;rios. Enfrentar press&otilde;es inflacion&aacute;rias ascendentes exige respostas estrat&eacute;gicas altamente reativas que incluem corte de custos e/ou repasse desses aumentos para consumidores e usu&aacute;rios finais, ambas dif&iacute;ceis e arriscadas de executar&rdquo;.</p>
+<p>O estudo tamb&eacute;m procurou saber da alta lideran&ccedil;a quais ser&atilde;o os principais desafios de sua gest&atilde;o em 2023. De acordo com os respondentes, atrair e reter talentos ser&aacute; o maior desafio, seguido por reestrutura&ccedil;&atilde;o de processos, menores custos, transforma&ccedil;&atilde;o digital, melhorar o fluxo de caixa, ser mais centrado no cliente, entre outros.</p>
+<p>&ldquo;O desequil&iacute;brio entre oferta e demanda de profissionais leva a uma guerra de talentos que o mercado de trabalho j&aacute; vem lidando h&aacute; algum tempo. Esse &eacute; um desafio global que n&atilde;o tem a ver exclusivamente com economia, mas com a velocidade das transforma&ccedil;&otilde;es, a press&atilde;o por resultado e a alta competitividade. &Eacute; claro que, a depender do movimento econ&ocirc;mico, h&aacute; mais ou menos influ&ecirc;ncia em alguns aspectos como a oferta de emprego, por exemplo. Contudo, a guerra de talentos n&atilde;o se d&aacute; pela elei&ccedil;&atilde;o. &Eacute; a busca acirrada por profissionais com um conjunto de habilidades, experi&ecirc;ncias e vis&otilde;es que nem o mercado ou as escolas formaram o suficiente ainda.&rdquo;, diz Basaglia.</p>
+<p>Outra quest&atilde;o abordada era a que tentava entender os principais fatores cr&iacute;ticos para o crescimento da empresa nos pr&oacute;ximos anos. O desenvolvimento/ oferta de novos produtos/ servi&ccedil;os foi a resposta preponderante. Na sequ&ecirc;ncia vieram expans&atilde;o de parcerias estrat&eacute;gicas, expans&atilde;o a novos segmentos de clientes, contrata&ccedil;&atilde;o de pessoas e atra&ccedil;&atilde;o de talentos, aumentar a velocidade de vendas de produtos e servi&ccedil;os, entre outros.</p>
+<p>&ldquo;Os executivos est&atilde;o priorizando o desenvolvimento de equipes &aacute;geis para elevar a capacidade de aprendizagem de suas organiza&ccedil;&otilde;es. A agilidade constr&oacute;i uma resili&ecirc;ncia cadenciada na forma como uma organiza&ccedil;&atilde;o toma decis&otilde;es em per&iacute;odos de elevada complexidade e incerteza, permitindo lidar com as expectativas de longo, m&eacute;dio e de curto prazo ao mesmo tempo&rdquo;, diz Ferreira.<br /></p>
+{% endraw %}

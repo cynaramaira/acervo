@@ -1,0 +1,49 @@
+---
+id: 14990305
+date: "2022-04-08T15:19:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "marilia-arraes"
+categories:
+  - "sem-categoria"
+title: "Mar\u00edlia Arraes: gata borralheira ou princesa que pode virar rainha?"
+sutia: "\"Ela \u00e9 neta de Arraes, precisa ser uma l\u00edder respeitada\", diz respons\u00e1vel pela campanha"
+chapeu: "jornada da hero\u00edna"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/05/lula_e_marilia_arraes_em_brasilia-19250912.jpg"
+---
+{% raw %}
+<p>Muitas pessoas se perguntam o que teria feito a deputada federal <a href="https://jc.ne10.uol.com.br/tags/marilia-arraes/" target="_blank" rel="noopener noreferrer">Mar&iacute;lia Arraes</a> ter trocado uma reelei&ccedil;&atilde;o segura pela aposta em uma candidatura ao governo do Estado, depois de <a href="https://jc.ne10.uol.com.br/colunas/jamildo/2022/03/14962042-marilia-arraes-troca-o-pt-pelo-solidariedade-mas-vai-pedir-votos-para-lula-em-campanha-para-o-senado.html" target="_blank" rel="noopener noreferrer">trocar o PT pelo Solidariedade</a>.</p>
+<p>Isto tudo depois de ter humilhado publicamente o PT e o PSB, que <a href="https://jc.ne10.uol.com.br/colunas/jamildo/2022/03/14963397-marilia-arraes-desautoriza-indicacao-do-pt-ao-senado-nao-vou-ser-massa-de-manobra.html" target="_blank" rel="noopener noreferrer">recuaram no veto para que ela fosse indicada ao Senado pela chapa da Frente Popular</a>. Neste processo, o jornalista e publicit&aacute;rio baiano Edson Barbosa, que ajudou a eleger Eduardo Campos em 2006, desempenhou um papel decisivo.</p>
+<p>"Mar&iacute;lia Arraes n&atilde;o &eacute; a gata borralheira que o PSB tenta pintar. Ela &eacute; uma princesa que pode ser uma rainha", afirma, sobre a neta de Miguel Arraes.</p>
+<p>"Ela s&oacute; precisava mudar parte da postura, atitude e alian&ccedil;as. &Eacute; o momento que a vida oferece", acredita o publicit&aacute;rio, que exigiu confian&ccedil;a total para poder virar a chave no modo turbo. "Ela &eacute; neta de Arraes, precisa ser uma l&iacute;der respeitada", completa.</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[14990164,14990128,14989715,14989644],'cd_matia':'14989644','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/colunas/jamildo/2022/04/14989644-marilia-arraes-e-joao-campos-vao-patrocinar-pela-terceira-vez-seguida-disputa-eleitoral-de-primos.html">Marília Arraes e João Campos vão patrocinar, pela terceira vez seguida, disputa eleitoral de primos</a></li>
+            <li><a class="link" href="/colunas/jamildo/2022/04/14989715-danilo-cabral-desafia-marilia-arraes-a-aparecer-em-encontro-com-lula-em-sao-paulo.html">Danilo Cabral desafia Marília Arraes a aparecer em encontro com Lula em São Paulo</a></li>
+            <li><a class="link" href="/colunas/jamildo/2022/04/14990128-cotado-para-senado-com-marilia-arraes-julio-lossio-sai-em-defesa-dele-e-bate-no-pt.html">Cotado para Senado com Marília Arraes, Julio Lossio sai em defesa dela e bate no PT</a></li>
+            <li><a class="link" href="/colunas/jamildo/2022/04/14990164-exclusivo-yves-ribeiro-vaio-anunciar-apoio-a-marilia-arraes-e-se-afasta-de-paulo-camara.html">Exclusivo: Yves Ribeiro vai anunciar apoio a Marília Arraes e se afasta de Paulo Câmara</a></li>
+        </ul>
+</div></tinymce></p>
+<p>Neste processo, um dos pontos recentes mais importantes foi a derrubada do veto de Bolsonaro em rela&ccedil;&atilde;o &agrave; oferta de dignidade menstrual nas escolas para as mulheres. O projeto de lei havia sido da deputada federal e a claudic&acirc;ncia do governo federal com o tema a fez crescer diante do imagin&aacute;rio feminino.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/03/25/120x80/1_gm250322026-20758074.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'623df091ecb4d', 'cd_midia':20758082, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/03/25/806x444/1_gm250322026-20758074.jpg', 'ds_midia': 'Filia&ccedil;&atilde;o de Mar&iacute;lia Arraes ao Solidariedade, evento realizado no Recife Praia Hotel.', 'ds_midia_credi': 'GUGA MATOS/JC IMAGEM', 'ds_midia_titlo': 'Filia&ccedil;&atilde;o de Mar&iacute;lia Arraes ao Solidariedade, evento realizado no Recife Praia Hotel.', 'cd_tetag': '1', 'cd_midia_w': '806', 'cd_midia_h': '443', 'align': 'Left'}"><figure style="width:443;height:806;">
+  <img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/03/25/806x444/1_gm250322026-20758074.jpg" alt="GUGA MATOS/JC IMAGEM"  title="Filia&ccedil;&atilde;o de Mar&iacute;lia Arraes ao Solidariedade, evento realizado no Recife Praia Hotel.">
+  <figcaption class='text-left'>Filia&ccedil;&atilde;o de Mar&iacute;lia Arraes ao Solidariedade, evento realizado no Recife Praia Hotel. - <strong>GUGA MATOS/JC IMAGEM</strong></figcaption>
+</figure></tinymce></p>
+<p>Muito antes deste embate, Mar&iacute;lia Arraes j&aacute; havia desafiado o pr&oacute;prio PT e Lula, ao se candidatar a segunda secretaria da C&acirc;mara dos Deputados e vencer a disputa, batendo um aliado petista.</p>
+<p>Uma das primeiras ideias balizadoras foi entender que Renata Campos e Humberto Costa a odiavam porque ela era a maior lideran&ccedil;a das esquerdas locais. No caso, segundo a avalia&ccedil;&atilde;o, Humberto Costa n&atilde;o havia sido esperto o bastante para aproveitar esta lideran&ccedil;a em prol do PT. Estava aberto o caminho para a sa&iacute;da ruidosa, que se daria no meio da janela partid&aacute;ria.</p>
+<h2>Pesquisas d&atilde;o confian&ccedil;a &agrave; candidatura de Mar&iacute;lia Arraes</h2>
+<p>Depois do aval da candidata, o publicit&aacute;rio mergulhou ainda mais nas <a href="https://jc.ne10.uol.com.br/tags/pesquisa-eleitoral/" target="_blank" rel="noopener noreferrer">pesquisas qualitativas</a> e saiu mais entusiasmado. "Ela bate 50% no Senado. No caso de governadora, bate 35%. &Eacute; imbat&iacute;vel, s&oacute; precisa de uma estrutura que lhe ofere&ccedil;a lastro pol&iacute;tico", avaliou, na &eacute;poca.</p>
+<p>Mar&iacute;lia Arraes, na &uacute;ltima edi&ccedil;&atilde;o do Paran&aacute; Pesquisas em Pernambuco, aparece como candidata ao Senado Federal, com a maior inten&ccedil;&atilde;o de votos (46,2%). Para conferir a pesquisa completa para o Senado, <a href="https://jc.ne10.uol.com.br/colunas/jamildo/2022/03/14982710-eleicoes-2022-marilia-arraes-lidera-disputa-para-o-senado-em-pernambuco-diz-pesquisa-eleitoral.html" target="_blank" rel="noopener noreferrer">clique aqui</a>.</p>
+<p><iframe src="https://player.mais.uol.com.br/?mediaId=17038176&amp;type=video" width="100%" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>"Ela tem que fazer justamente o contr&aacute;rio do que o PSB vem fazendo, abdicando da pol&iacute;tica, ficando longe da pol&iacute;tica. Veja o Paulo C&acirc;mara, virou um bedel, &eacute; um tesoureiro, poderia bem ser ministro ou secret&aacute;rio do Tesouro Nacional", avalia.</p>
+<p>O publicit&aacute;rio completa: "Em contraposi&ccedil;&atilde;o, Mar&iacute;lia Arraes era este poder todo, sem nem dizer que era candidata. Ela n&atilde;o tinha dito nada. Era um fen&ocirc;meno, o mesmo sil&ecirc;ncio do av&ocirc;, &eacute; forte isso, enquanto dialoga com todas as for&ccedil;as pol&iacute;ticas. Por tudo isso, vai tomar a decis&atilde;o que seja a melhor poss&iacute;vel, para virar a chave de Pernambuco".</p>
+<p>&nbsp;</p>
+<h2>Ajuda dos partidos</h2>
+<p>No projeto de mobiliza&ccedil;&atilde;o, Mar&iacute;lia Arraes tentou chamar para seu palanque o MDB de Raul henry e o PSD de Andr&eacute; de Paula.</p>
+<p>No MDB, a aposta era que no liberal geral no Nordeste o MDB pudesse deixar a Frente Popular. O PSB agiu rapido e garantiu as condi&ccedil;&otilde;es para a busca da reelei&ccedil;&atilde;o do deputado federal Raul Henry. Renan Calheiros tentou ajudar nesta arquitetura. O MDB indicaria o vice na chapa.</p>
+<p>Quando em uma nota oficial, numa sexta-feira, Mar&iacute;lia Arraes escrevia que n&atilde;o dependia apenas dela a decis&atilde;o, ela estava se referindo em especial a Andr&eacute; de Paula e o PSD. E o fogo no parque buscaba alimentar a disc&oacute;rdia. "O PSB fez molecagem com o pSD. Garantiu a ele a indica&ccedil;&atilde;o (para o Senado) e ele n&atilde;o montou chapa. Acreditou e se f. Por isto, a melhor resposta dele seria sair no Senado com Mar&iacute;lia Arraes. D&aacute; uma sofistica&ccedil;&atilde;o e credibilidade ao time, como se vc unisse Arraes e Marco Maciel", era a avalia&ccedil;&atilde;o dos aliados.</p>
+<p>No processo, J&uacute;lio L&oacute;ssio, que foi um dos principais articuladores para o apoio de Andr&eacute; de Paula a Mar&iacute;lia, manteve a palavra e fincou a bandeira da pr&eacute;-candidata no sert&atilde;o de Petrolina e deve ser um dos principais protagonistas da campanha de Marilia. Seu filho, L&oacute;ssio Jr &eacute; candidato a deputado estadual na chapa do Solidariedade.</p>
+<p>Com este segundo palanque, a ideia era ter uma chapa a favor de Lula e derreter Miguel Coelho e Raquel Lyra antes do segundo turno.</p>
+{% endraw %}

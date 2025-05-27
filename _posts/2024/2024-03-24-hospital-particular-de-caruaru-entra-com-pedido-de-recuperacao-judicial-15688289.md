@@ -1,0 +1,46 @@
+---
+id: 15688289
+date: "2024-03-24T18:23:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "sassepe"
+  - "saude"
+categories:
+  - "sem-categoria"
+title: "Hospital particular de Caruaru entra com pedido de recupera\u00e7\u00e3o judicial "
+sutia: "Hospital de Caruaru entra em recupera\u00e7\u00e3o judicial alegando que gest\u00e3o Raquel n\u00e3o paga R$ 27 milh\u00f5es em d\u00e9bitos"
+chapeu: "crise na sa\u00fade"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/webp/2024/03/24/21e52e7bfa2682877d0aad72ff409bf5-26746276.webp"
+---
+{% raw %}
+<p>O Hospital Santa Efig&ecirc;nia Caruaru, principal hospital particular da cidade do Agreste, com mais de 40 anos de atividades, entrou com pedido de recupera&ccedil;&atilde;o judicial.</p>
+<p>Na a&ccedil;&atilde;o, o grupo de sa&uacute;de cita que o SASSEPE deve R$ 27 milh&otilde;es para a unidade.<br /></p>
+<p>O Hospital Especial Domiciliar possui 191 funcion&aacute;rios ativos, enquanto o Hospital Santa Efig&ecirc;nia mant&eacute;m 144 funcion&aacute;rios, mas a unidade do Recife tem faturamento maior, como sede do grupo. Por conta disto, a distribui&ccedil;&atilde;o do pedido de recupera&ccedil;&atilde;o judicial dos requerentes foi feita na Comarca de Recife.</p>
+<h2>DA TUTELA ANTECIPADA</h2>
+<p>"Em raz&atilde;o do pr&oacute;prio escopo da decis&atilde;o que defere o processamento da recupera&ccedil;&atilde;o judicial, qual seja, a preserva&ccedil;&atilde;o da empresa e dos seus postos de trabalhos, sua fun&ccedil;&atilde;o social e o est&iacute;mulo &agrave; manuten&ccedil;&atilde;o da atividade econ&ocirc;mica (art. 47 da Lei 11.101/05), n&atilde;o vejo &oacute;bice quanto a suspens&atilde;o da efic&aacute;cia da cl&aacute;usula que prev&ecirc; o vencimento antecipado da d&iacute;vida, na hip&oacute;tese de requerimento de recupera&ccedil;&atilde;o judicial pelo devedor".</p>
+<p>"Isto posto, DEFIRO O PEDIDO DE TUTELA ANTECIPADA, para suspender a efic&aacute;cia da cl&aacute;usula que prev&ecirc; nos contratos banc&aacute;rios firmados com os seguintes credores: Banco Bradesco, Banco Safra, Banco De Lage Landen Brasil, Unicred e Caixa Econ&ocirc;mica Federal, o vencimento antecipado da d&iacute;vida", afirma Ju&iacute;za de Direito ADRIANA CINTRA CO&Ecirc;LHO.</p>
+<p>A magistrada determinou que, dentro do prazo improrrog&aacute;vel de 60 (sessenta) dias, contados da publica&ccedil;&atilde;o da decis&atilde;o que deferir o processamento da recupera&ccedil;&atilde;o judicial, as devedoras dever&atilde;o apresentar em ju&iacute;zo o plano de recupera&ccedil;&atilde;o, sob pena de convola&ccedil;&atilde;o em fal&ecirc;ncia.</p>
+<p>"Determino a suspens&atilde;o de todas as a&ccedil;&otilde;es ou execu&ccedil;&otilde;es promovidas em face das devedoras, pelo prazo de 180 dias, prorrog&aacute;vel uma &uacute;nica vez, por igual per&iacute;odo"<br /></p>
+<p>A Justi&ccedil;a nomeou como Administrador Judicial para processamento da recupera&ccedil;&atilde;o judicial a empresa LRF &ndash;L&iacute;deres em Recupera&ccedil;&atilde;o Judicial Ltda., tendo como respons&aacute;vel pela condu&ccedil;&atilde;o sua s&oacute;cia Nat&aacute;lia Pimentel Lopes.</p>
+<p>"Considerando as atribui&ccedil;&otilde;es do Administrador Judicial previstas no art. 22 da Lei 11.101/2005, como tamb&eacute;m a complexidade do presente feito, intimo a administradora nomeada a elaborar proposta de honor&aacute;rios, no prazo de 5 dias. Apresentada a proposta, intimem-se as Requerentes para sua manifesta&ccedil;&atilde;o, em igual prazo, ap&oacute;s voltem-me para aprecia&ccedil;&atilde;o".</p>
+<p>"A finalidade do instituto da recupera&ccedil;&atilde;o judicial &eacute; simplesmente viabilizar a supera&ccedil;&atilde;o da crise econ&ocirc;mico-financeira instalada, tendo como objetivo maior manter a fonte produtora de emprego dos trabalhadores e dos interesses dos credores, preservando a fun&ccedil;&atilde;o social da empresa e estimulando a atividade econ&ocirc;mica".</p>
+<p>"Apenas a tramita&ccedil;&atilde;o do processo na fase deliberativa ofertar&aacute; elementos para a concess&atilde;o da recupera&ccedil;&atilde;o judicial, quando se far&aacute; ju&iacute;zo de valor sobre a viabilidade das empresas requerentes &agrave; vista do plano de recupera&ccedil;&atilde;o apresentado, nos termos do art. 58 da referida lei".]</p>
+<p>Eventuais habilita&ccedil;&otilde;es ou diverg&ecirc;ncias quanto aos cr&eacute;ditos relacionados, inclusive os trabalhistas, dever&atilde;o ser apresentados ao Administrador Judicial, no endere&ccedil;o que constar&aacute; dos autos.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/03/24/120x80/1_hospital_santa_efigenia-26746254.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'6600999a2e10c', 'cd_midia':26746254, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/03/24/hospital_santa_efigenia-26746254.jpg', 'ds_midia': 'Requerimento de recupera&ccedil;&atilde;o judicial pelo devedor impacta contratos banc&aacute;rios firmados com grandes credores: Banco Bradesco, Banco Safra, Banco De Lage Landen Brasil, Unicred e Caixa Econ&ocirc;mica Federal ', 'ds_midia_credi': 'Internet', 'ds_midia_titlo': 'Requerimento de recupera&ccedil;&atilde;o judicial pelo devedor impacta contratos banc&aacute;rios firmados com grandes credores: Banco Bradesco, Banco Safra, Banco De Lage Landen Brasil, Unicred e Caixa Econ&ocirc;mica Federal ', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '1266', 'align': 'Left'}"><figure style="width:1266;height:1224;">
+			<img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/03/24/hospital_santa_efigenia-26746254.jpg" alt="Internet" title="Requerimento de recupera&ccedil;&atilde;o judicial pelo devedor impacta contratos banc&aacute;rios firmados com grandes credores: Banco Bradesco, Banco Safra, Banco De Lage Landen Brasil, Unicred e Caixa Econ&ocirc;mica Federal ">
+		<figcaption class='text-left'>
+			Requerimento de recupera&ccedil;&atilde;o judicial pelo devedor impacta contratos banc&aacute;rios firmados com grandes credores: Banco Bradesco, Banco Safra, Banco De Lage Landen Brasil, Unicred e Caixa Econ&ocirc;mica Federal  - <strong>Internet</strong>
+		</figcaption>
+	</figure></tinymce></p>
+<h2>Efeitos da Pandemia</h2>
+<p>HOSPITAL DE ASSIST&Ecirc;NCIA DOMICILIAR EIRELI e CASA DE SA&Uacute;DE SANTA EFIG&Ecirc;NIA LTDA, empresas integrantes do mesmo grupo, aduzem que por raz&otilde;es alheias &agrave; vontade do s&oacute;cio, as Requerentes v&ecirc;m passando por colapso financeiro, como consequ&ecirc;ncia da crise econ&ocirc;mico-financeira que se alastrou pelo pa&iacute;s entre 2014 e 2016, bem como em raz&atilde;o da pandemia do Covid/19, que ocasionou a retra&ccedil;&atilde;o da atividade econ&ocirc;mica.</p>
+<p>Aduzem que a evolu&ccedil;&atilde;o da taxa Selic e a forte disparada do c&acirc;mbio, contribu&iacute;ram para o encarecimento dos medicamentos e insumos m&eacute;dicos e hospitalares, necess&aacute;rios ao desenvolvimento da atividade das Requerentes.</p>
+<p>"Afirmam que as quest&otilde;es macroecon&ocirc;micas e setoriais impactaram negativamente e diretamente na sa&uacute;de financeira do grupo, especialmente o custo da opera&ccedil;&atilde;o ap&oacute;s a pandemia, ocasionando um impressionante aumento no custo da opera&ccedil;&atilde;o, saltando de 56 milh&otilde;es para 94 milh&otilde;es, a suspens&atilde;o dos reajustes contratuais, somando-se a isso o significativo atraso nos pagamentos dos principais clientes, fatores que levaram &agrave; inadimpl&ecirc;ncia banc&aacute;ria", explicam.</p>
+<p>"Em face disso, a continuidade de suas atividades empresariais est&aacute; amea&ccedil;ada, pois o cen&aacute;rio impacta diretamente na sua capacidade de gera&ccedil;&atilde;o de caixa e de cumprimento das obriga&ccedil;&otilde;es firmadas"</p>
+<p>"Ao final, formularam pedido de tutela de urg&ecirc;ncia, consistente na suspens&atilde;o a efic&aacute;cia da cl&aacute;usula de vencimento antecipado da d&iacute;vida, na hip&oacute;tese de requerimento de recupera&ccedil;&atilde;o judicial pelo devedor nos contratos banc&aacute;rios firmados com os seguintes credores: Banco Bradesco, Banco Safra, Banco De Lage Landen Brasil, Unicred e Caixa Econ&ocirc;mica Federal".<br /></p>
+<h2>Mais leitos e custos maiores <br /></h2>
+<p>Preocupado em atender o crescente n&uacute;meros de pacientes que necessitavam de interna&ccedil;&atilde;o durante o per&iacute;odo da pandemia do novo coronav&iacute;rus (COVID-19), o Hospital Santa Efig&ecirc;nia investiu na amplia&ccedil;&atilde;o do n&uacute;mero de leitos que possu&iacute;a, passando de 67 para 104, o que<br />representou um aumento de 55%.</p>
+<p>N&atilde;o obstante a consolidada opera&ccedil;&atilde;o empresarial e tradi&ccedil;&atilde;o no segmento da sa&uacute;de, os Requerentes n&atilde;o passaram inc&oacute;lumes &agrave;s crises enfrentadas pelo pa&iacute;s nos &uacute;ltimos anos, as quais impactaram diretamente em suas finan&ccedil;as, e consequentemente, no seu grau de<br />endividamento.</p>
+{% endraw %}

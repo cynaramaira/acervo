@@ -1,0 +1,33 @@
+---
+id: 14934492
+date: "2022-01-17T11:41:00Z"
+last_modified_at: null
+tags:
+  - "eleicoes-2022"
+  - "vacinacao"
+categories:
+  - "sem-categoria"
+title: "Caruaru inicia vacina\u00e7\u00e3o infantil no munic\u00edpio"
+sutia: "No primeiro momento, apenas as crian\u00e7as com doen\u00e7a neurol\u00f3gica cr\u00f4nica, autismo, s\u00edndrome de down, deficientes e imunossuprimidas receber\u00e3o o imunizante"
+chapeu: "Sem negacionismo"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/01/17/vacina02-20452068.jpeg"
+---
+{% raw %}
+<p>Na manh&atilde; desta segunda-feira (17), foi iniciada a vacina&ccedil;&atilde;o infantil contra a Covid-19, no munic&iacute;pio. A primeira crian&ccedil;a a receber a primeira dose do imunizante foi Igor Gabriel dos Santos Melo, de 8 anos, que tem s&iacute;ndrome de down. A vacina&ccedil;&atilde;o acontece de segunda a sexta-feira, das 8h &agrave;s 16h. Nos s&aacute;bados, domingos e feriados, o hor&aacute;rio ser&aacute; das 8h &agrave;s 18h, na Via Parque, em frente ao INSS.</p>
+<p>O pequeno Igor recebeu o imunizante e n&atilde;o hesitou.'Vacina boa &eacute; vacina no bra&ccedil;o'. &ldquo;A gente esperou tanto tempo e sabe o quanto &eacute; importante. &Eacute; uma sensa&ccedil;&atilde;o de al&iacute;vio ver nosso filho recebendo o imunizante. Fico muito feliz em ter chegado esse momento&rdquo;, disse Suzana Maria dos Santos Melo, m&atilde;e do garoto.</p>
+<p>&ldquo;A gente est&aacute; fazendo o cadastramento de todas as crian&ccedil;as com doen&ccedil;a neurol&oacute;gica cr&ocirc;nica, autismo, s&iacute;ndrome de down, deficientes e imunossuprimidas, porque elas s&atilde;o prioridades na vacina&ccedil;&atilde;o. Mas logo mais tamb&eacute;m estar&aacute; dispon&iacute;vel para todos e teremos a alegria de ter todas as crian&ccedil;as do munic&iacute;pio vacinadas&rdquo;, informou a prefeita de Caruaru, Raquel Lyra.</p>
+<p>Para vacinar os pequenos, os pais e respons&aacute;veis devem se dirigir ao local com o CPF, Cart&atilde;o do SUS, laudo m&eacute;dico e caderneta de vacina&ccedil;&atilde;o. N&atilde;o ser&aacute; exigida prescri&ccedil;&atilde;o m&eacute;dica. O agendamento est&aacute; dispon&iacute;vel no site www.vacina.caruaru.pe.gov.br. A vacina pedi&aacute;trica &eacute; aplicada em um intervalo de oito semanas, entre a 1&ordf; dose (D1) e a 2&ordf; (D2). O imunizante &eacute; Pfizer, em dose de 0,2ml.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/01/16/120x80/1_whatsapp_image_2022_01_16_at_18_27_10-20450973.jpeg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'61e49d2b3bb5c', 'cd_midia':20450973, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/01/16/whatsapp_image_2022_01_16_at_18_27_10-20450973.jpeg', 'ds_midia': 'CAPITAL H&aacute; centros para receber as crian&ccedil;as em todas a &aacute;reas da cidade, mas &eacute; preciso agendar no site ou app', 'ds_midia_credi': 'DAY SANTOS/JC IMAGEM', 'ds_midia_titlo': 'CAPITAL H&aacute; centros para receber as crian&ccedil;as em todas a &aacute;reas da cidade, mas &eacute; preciso agendar no site ou app', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '815', 'align': 'Left'}"><figure style="width:815;height:1224;">
+  <img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/01/16/whatsapp_image_2022_01_16_at_18_27_10-20450973.jpeg" alt="DAY SANTOS/JC IMAGEM"  title="CAPITAL H&aacute; centros para receber as crian&ccedil;as em todas a &aacute;reas da cidade, mas &eacute; preciso agendar no site ou app">
+  <figcaption class='text-left'>CAPITAL H&aacute; centros para receber as crian&ccedil;as em todas a &aacute;reas da cidade, mas &eacute; preciso agendar no site ou app - <strong>DAY SANTOS/JC IMAGEM</strong></figcaption>
+</figure></tinymce></p>
+<p>Recife e Jaboat&atilde;o come&ccedil;aram no fim de semana <br /></p>
+<p><br />O Recife j&aacute; teve as primeiras crian&ccedil;as vacinadas contra a covid-19. Maria Ant&ocirc;nia de Oliveira, de 11 anos, que tem S&iacute;ndrome de Down, foi a primeira crian&ccedil;a vacinada. Agendamento j&aacute; est&aacute; aberto e vacina&ccedil;&atilde;o come&ccedil;ou neste s&aacute;bado (15)</p>
+<p>O agendamento j&aacute; est&aacute; dispon&iacute;vel no Conecta Recife e a vacina&ccedil;&atilde;o segue a partir de amanh&atilde; (15) no Sest Senat, na Unicap, na Faculdade Universo e na UFPE. Nesse primeiro momento podem ser vacinadas as crian&ccedil;as, com idades entre 5 e 11 anos, com doen&ccedil;as neurol&oacute;gicas cr&ocirc;nicas e com dist&uacute;rbios do desenvolvimento neurol&oacute;gico, com prioridade para S&iacute;ndrome de Down e Autismo. Na Associa&ccedil;&atilde;o Afeto, o prefeito Jo&atilde;o Campos assistiu a imuniza&ccedil;&atilde;o dos pequenos e conversou com os pais. Cada crian&ccedil;a ganhou um livro e um certificado de Supervacinado.</p>
+<p>A partir de agora, a vacina para as crian&ccedil;as ser&aacute; aplicada de domingo a domingo, das 7h30 &agrave;s 18h30, sendo necess&aacute;rio fazer o agendamento pelo site (http://conectarecife.recife.pe.gov.br) ou aplicativo do Conecta Recife, em centros exclusivos voltados para a vacina&ccedil;&atilde;o de crian&ccedil;as. O imunizante que ser&aacute; utilizado &eacute; o da Pfizer, o &uacute;nico aprovado pela Ag&ecirc;ncia Nacional de Vigil&acirc;ncia Sanit&aacute;ria (Anvisa) at&eacute; agora para o p&uacute;blico infantil. N&atilde;o ser&aacute; exigida prescri&ccedil;&atilde;o m&eacute;dica.<br /></p>
+<p>Jaboat&atilde;o dos Guararapes iniciou, no fim da tarde desta sexta-feira (14), a vacina&ccedil;&atilde;o contra a Covid-19 em crian&ccedil;as, na faixa de cinco a 11 anos, com doen&ccedil;as neurol&oacute;gicas cr&ocirc;nicas, autismo e S&iacute;ndrome de Down. A Secretaria Municipal de Sa&uacute;de organizou estruturas diferenciadas, com espa&ccedil;os l&uacute;dicos, em tr&ecirc;s pontos do munic&iacute;pio para essa nova fase da campanha de combate ao novo coronav&iacute;rus. O prefeito Anderson Ferreira acompanhou de perto a chegada das doses pedi&aacute;tricas e as primeiras aplica&ccedil;&otilde;es, realizadas no ponto montado na UniFG, no bairro de Piedade.</p>
+<p>Arthur, de oito anos, crian&ccedil;a com autismo e morador no bairro de Cajueiro Seco, foi o primeiro a receber a dose pedi&aacute;trica do imunizante contra o novo coronav&iacute;rus. O pai, Ricardo Sena, emocionado, disse: &ldquo;&Eacute; um momento de muita emo&ccedil;&atilde;o. Al&eacute;m de meu filho receber a vacina, foi o primeiro de Jaboat&atilde;o. Agora nos sentimos mais seguros&rdquo;.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+{% endraw %}

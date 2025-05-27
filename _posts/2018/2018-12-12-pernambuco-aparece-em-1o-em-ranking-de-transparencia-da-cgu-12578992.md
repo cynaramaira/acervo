@@ -1,0 +1,34 @@
+---
+id: 12578992
+date: "2018-12-12T16:21:48Z"
+last_modified_at: null
+tags:
+  - "pernambuco"
+  - "ranking"
+categories:
+  - "noticias"
+title: "Pernambuco aparece em 1\u00ba em ranking de transpar\u00eancia da CGU"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/12/paulo-camara-3.jpg"
+---
+{% raw %}
+<p><p>Pernambuco ficou com nota 9.4 e lidera o Ranking de Transparência elaborado pelo Ministério da Transparência e Controladoria-Geral da União (CGU) e divulgado nesta quarta-feira (12). A classificação foi anunciada um dia depois de vir a público a ação do Ministério Público Federal (MPF) contra o governador Paulo Câmara (PSB) e o secretário estadual de Saúde, José Iran Costa Júnior. Para o órgão, não há transparência sobre repasses de recursos do Sistema Único de Saúde (SUS) para organizações sociais de saúde, as OSS, que administram hospitais e unidades de pronto-atendimento.</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/12/11/mpf-acusa-paulo-e-secretario-de-saude-de-improbidade-repasses-chegam-a-r-12-bi/">MPF aciona Paulo Câmara e pede transparência nos gastos com saúde em Pernambuco</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/12/12/nao-responsabilizamos-o-governador-por-falta-de-transparencia-diz-conselheiro-do-tce/">Não responsabilizamos o governador por falta de transparência, diz conselheiro do TCE</a></p></p>
+<p><p>Nas redes sociais, Paulo Câmara aproveitou para ressaltar a posição de Pernambuco no ranking da CGU, em resposta. "A transparência tem sido uma diretriz do Governo Paulo Câmara, que em 2018 colocou à disposição da sociedade um novo Portal da Transparência, mais moderno, didático e interativo, estimulando ainda mais a participação da sociedade na gestão", defendeu. "O resultado é reflexo do avanço do fomento ao controle social e da melhoria do atendimento das demandas da população pelo governo, que tem priorizado a verdade e a transparência, em suas ações".</p></p>
+<p><p><iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpaulocamara40oficial%2Fposts%2F1108631432645136&amp;width=500" width="500" height="349" frameborder="0" scrolling="no"></iframe></p></p>
+<p><p>O segundo colocado no ranking é o Rio Grande do Sul, com nota 9.29. Em seguida estão Distrito Federal (9.15), Santa Catarina (9.09) e Goiás (9.08).</p></p>
+<p><p>Foram avaliados entre 9 de julho e 14 de novembro 691 entes federativos, entre estados e municípios, considerando o que a CGU considera transparência ativa e passiva: além da regulamentação da Lei de Acesso à Informação, incluindo questões como as respostas em conformidade com o que foi solicitado e o cumprimento de prazos, foi mapeado como governos publicam na internet os dados sobre receitas e despesas, licitações e contratos, estrutura administrativa, obras públicas, lista de servidores, entre outros fatores.</p></p>
+<p><h2>Municípios</h2></p>
+<p><p>Entre os municípios, Recife foi o de Pernambuco com a maior nota, 9.76, e ficou em sexta colocação nacionalmente. Depois da capital, Paulista está em 130ª considerando o País inteiro, com 8.37. Bezerros aparece em 179º, com 7.93; Garanhuns em 195º, com 7.81; e Timbaúba em 251º, com 7.38. </p></p>
+<p><h2>Ação contra Paulo Câmara</h2></p>
+<p><p>A ação contra Paulo Câmara e José Iran Costa Júnior acusa os gestores de violar "gravemente o art. 8º, §3º, da Lei de Acesso à Informação (LAI) – Lei Federal n. 12.527/2011, bem como o art. 4º da Lei Estadual n. 14.804/2012 e os princípios constitucionais da legalidade, da publicidade e da moralidade administrativa" por, segundo o órgão, não garantir nos portais de transparência informações o acesso a informações sobre os repasses às OSS. </p></p>
+<p><p>Usando dados de uma auditoria do Tribunal de Contas, a procuradora Silvia Regina Pontes Lopes apontou que o montante de recursos para as OSS deveriam estar no item "repasses ou transferências de recursos financeiros" nos portais de transparência da secretaria e do governo estadual. Ela aponta ainda que os dados acessíveis são de 2017, estando desatualizados, além de não estarem disponíveis para consulta com filtros para geração de relatórios. "Frise-se que é dever dos demandados acompanhar com diligência e probidade os contratos de gestão firmados junto às OSS, por inúmeros motivos, dentre eles o absurdo volume de recursos repassados às OSS e por se tratar de área extremamente sensível da administração pública – saúde dos cidadãos pernambucanos", afirma o documento.</p></p>
+<p><p>Cálculos do Tribunal de Contas do Estado (TCE) citados no documento afirmam que os recursos passaram de R$ 144,37 milhões em 2010 para R$ 1.208.027.923,34 em 2017. Para a procuradora, o aumento foi "sem qualquer justificativa plausível".</p></p>
+<p><p>O conselheiro do TCE Valdecir Pascoal afirmou que Paulo Câmara não foi responsabilizado em relatório preliminar da Corte sobre a suposta falta de transparência na transferências para as OSS. "Existem falhas na transparência tanto por parte do poder público quanto por parte das OSs. Em nosso relatório preliminar, responsabilizamos o secretário de Saúde (José Iran Costa Júnior) e as OSs. Não responsabilizamos o governador do Estado neste processo. Entendemos que a gestão da transparência é da instituição privada, mas a Secretaria de Saúde precisa tomar atitudes mais enérgicas", afirmou.</p></p>
+<p><p>Em nota, a secretaria estadual de Saúde afirmou: "mesmo ainda não tendo sido notificado, o Governo de Pernambuco, por meio da Secretaria Estadual de Saúde (SES), rechaça – veementemente – as alegações açodadas e injustas de ocorrência de atos de improbidade por parte dos gestores citados pela procuradora Silvia Regina Pontes Lopes. A SES também estranha que o Ministério Público Federal, a despeito da boa fé demonstrada pela gestão estadual no trato do tema, haja proposto ação judicial acerca de tema sobre o qual notoriamente havia diálogo e providências concretas em curso".</p></p>
+<p><p>"A procuradora Silvia Regina talvez desconheça os avanços obtidos pela Saúde Pública de Pernambuco nos últimos anos, que visou beneficiar aqueles que mais precisam e também o funcionamentos dessas organizações. Para conhecimento da procuradora, segue o que foi acrescido à rede estadual, entre 2009 e 2018", disse ainda. "O Governo de Pernambuco reafirma seu compromisso com a correção na aplicação dos recursos públicos, transparência, mas não pode concordar com atos precipitados e injustos."</p></p>
+{% endraw %}

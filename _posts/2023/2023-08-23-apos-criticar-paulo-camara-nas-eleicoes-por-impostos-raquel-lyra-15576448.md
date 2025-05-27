@@ -1,0 +1,44 @@
+---
+id: 15576448
+date: "2023-08-23T07:04:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "raquel-lyra"
+  - "icms"
+categories:
+  - "sem-categoria"
+title: "Ap\u00f3s criticar Paulo C\u00e2mara nas elei\u00e7\u00f5es por impostos, Raquel Lyra aumentar\u00e1 ICMS no Estado; projeto chega na Alepe"
+sutia: "Governo do PSDB envia para a Alepe pacote fiscal com 'ajustes' nas regras do ICMS e outras medidas"
+chapeu: "projeto de lei"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/01/02/paulo_camara_raquel_lyra_priscila_krause-22233028.jpg"
+---
+{% raw %}
+<p>O governo <strong>Raquel Lyra</strong> (PSDB) encaminhou para a Assembleia Legislativa do Estado de Pernambuco (Alepe) projeto de lei <strong>aumentando a al&iacute;quota modal do ICMS em Pernambuco</strong> a partir de janeiro de 2024. O secret&aacute;rio da Fazenda, Wilson Jos&eacute; de Paula, disse que o impacto anual "caso n&atilde;o seja realizada a adequa&ccedil;&atilde;o" na al&iacute;quota modal do ICMS ser&aacute; de R$ 2,8 bilh&otilde;es.</p>
+<p>Para se adequarem &agrave;s normas tribut&aacute;rias e estarem vigentes a partir de janeiro de 2024, os projetos precisam ser sancionados at&eacute; o final de setembro e assim tramitar&atilde;o em regime de urg&ecirc;ncia.</p>
+<p>"A adequa&ccedil;&atilde;o &eacute; importante porque n&atilde;o podemos deixar que a fotografia dos pr&oacute;ximos cinco anos esteja descalibrada da realidade. Isso resultaria em preju&iacute;zos para Pernambuco por v&aacute;rias d&eacute;cadas. O nosso pacote de justi&ccedil;a fiscal estabelece uma nova rela&ccedil;&atilde;o entre a Fazenda e o contribuinte, fortalecendo uma rela&ccedil;&atilde;o de confian&ccedil;a. Al&eacute;m disso, estamos garantindo o <strong><a href="https://jc.ne10.uol.com.br/colunas/jamildo/2023/08/15570344-prefeitos-reclamam-de-reducao-do-ipva-e-podem-criar-cabo-de-guerra-com-raquel-lyra.html" target="_blank" rel="noopener noreferrer">menor IPVA do Nordeste</a></strong>, com v&aacute;rios avan&ccedil;os para o contribuinte", afirmou Wilson Jos&eacute; de Paula.</p>
+<p>"Como a arrecada&ccedil;&atilde;o do ICMS &eacute; distribu&iacute;da com os munic&iacute;pios (25%), a medida tamb&eacute;m atende demanda da pactua&ccedil;&atilde;o federativa em meio &agrave;s dificuldades fiscais enfrentadas pelas prefeituras atualmente".</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[15038104],'cd_matia':'15038104','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+      <span class="leia-mais-title">Leia Também</span>
+      <ul class="list-alsoread">
+	    				<li>
+                                              		             <img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/06/21/120x80/1_whatsapp_image_2022_06_21_at_15_29_33-21256638.jpeg"/>
+                                                                                            <a class="link" href="https://jc.ne10.uol.com.br/colunas/jamildo/2022/07/15038104-raquel-lyra-psdb-cobra-de-paulo-camara-psb-reducao-total-do-icms-dos-combustiveis.html">Raquel Lyra cobra de Paulo Câmara redução total do ICMS dos combustíveis</a>
+                                      </li>
+	          </ul>
+</div></tinymce></p>
+<p>Em rela&ccedil;&atilde;o &agrave;s modifica&ccedil;&otilde;es legislativas, o Governo do Estado est&aacute; propondo dois projetos de lei, um ordin&aacute;rio e outro complementar. Em rela&ccedil;&atilde;o ao primeiro, as principais modifica&ccedil;&otilde;es s&atilde;o relativas ao aumento do ICMS em 2024 e ao <a href="https://jc.ne10.uol.com.br/colunas/jamildo/2023/08/15567958-anderson-ferreira-elogia-raquel-lyra-sobre-reducao-do-ipva.html" target="_blank" rel="noopener noreferrer"><strong>Imposto sobre a Propriedade de Ve&iacute;culos Automotores (IPVA)</strong></a>, com foco "no realinhamento de al&iacute;quotas", adequa&ccedil;&otilde;es pr&eacute;vias &agrave; Reforma Tribut&aacute;ria, diminui&ccedil;&atilde;o de multas e juros, maior parcelamento de d&iacute;vidas e facilita&ccedil;&atilde;o da participa&ccedil;&atilde;o dos contribuintes nos processos de pagamentos de d&iacute;vidas e no cumprimento das suas obriga&ccedil;&otilde;es acess&oacute;rias.</p>
+<h2>Culpa da reforma tribut&aacute;ria</h2>
+<p>"A proposta governamental inclui ajustes na legisla&ccedil;&atilde;o do ICMS ainda referentes &agrave;s leis complementares federais 192 e 194, ambas de 2022, que modificaram al&iacute;quotas relativas a produtos como combust&iacute;veis, energia el&eacute;trica e servi&ccedil;os de telecomunica&ccedil;&atilde;o. Em rela&ccedil;&atilde;o a esses itens, n&atilde;o haver&aacute; qualquer modifica&ccedil;&atilde;o: as altera&ccedil;&otilde;es s&atilde;o apenas adequa&ccedil;&otilde;es &agrave; nova legisla&ccedil;&atilde;o federal".</p>
+<p>"A al&iacute;quota modal do ICMS (que n&atilde;o se adequa a v&aacute;rios produtos, como gasolina, &oacute;leo diesel, &aacute;lcool combust&iacute;vel e cesta b&aacute;sica) passa a ser 20,5%, medida considerada fundamental em vista das altera&ccedil;&otilde;es previstas na Reforma Tribut&aacute;ria, que utilizar&aacute; a m&eacute;dia de arrecada&ccedil;&atilde;o de 2024 a 2028 como par&acirc;metro para compensa&ccedil;&otilde;es de poss&iacute;veis perdas para os estados e munic&iacute;pios. Com a Reforma, o ICMS ser&aacute; substitu&iacute;do pelo Imposto sobre Bens e Servi&ccedil;os (IBS), arrecadado e distribu&iacute;do por um conselho federativo nacional. Caso a m&eacute;dia dos pr&oacute;ximos quatro anos seja abaixo das expectativas, a arrecada&ccedil;&atilde;o do Estado poder&aacute; ser prejudicada num prazo de 50 anos".</p>
+<h2>Cobran&ccedil;a antecipada cair&aacute; para alguns setores <br /></h2>
+<p>Um decreto estadual assinado pela governadora, publicado no Di&aacute;rio Oficial desta quarta-feira, promete modificar a cobran&ccedil;a do <a href="https://jc.ne10.uol.com.br/colunas/jamildo/2022/07/15037318-preco-dos-combustiveis-oposicao-faz-protesto-na-porta-de-paulo-camara-nesta-terca.html" target="_blank" rel="noopener noreferrer"><strong>Imposto sobre Circula&ccedil;&atilde;o de Mercadorias e Servi&ccedil;os (ICMS)</strong></a> com a elimina&ccedil;&atilde;o da cobran&ccedil;a antecipada para a ind&uacute;stria e revoga&ccedil;&atilde;o das Margens de Valor Agregado (MVA) para uma s&eacute;rie de atividades econ&ocirc;micas vinculadas ao com&eacute;rcio.</p>
+<p>"Com o decreto, as empresas do setor industrial que se enquadram nas especifica&ccedil;&otilde;es n&atilde;o estar&atilde;o mais obrigadas a recolher o ICMS antecipadamente, melhorando os seus fluxos de caixa".</p>
+<p>"... o pacote de justi&ccedil;a fiscal Descomplica PE, composto por dois projetos que congregam uma s&eacute;rie de modifica&ccedil;&otilde;es na sistem&aacute;tica tribut&aacute;ria estadual, objetivam de simplificar, desburocratizar e modernizar a cobran&ccedil;a de tributos estaduais, um dos compromissos da nova gest&atilde;o".</p>
+<h2>Renegocia&ccedil;&atilde;o de d&eacute;bitos com a Fazenda estadual <br /></h2>
+<p>Al&eacute;m do projeto ordin&aacute;rio, a outra mat&eacute;ria proposta pelo Executivo &eacute; um projeto de lei complementar que estabelece para este ano a implanta&ccedil;&atilde;o do D&iacute;vida Zero, um Programa Especial de Recupera&ccedil;&atilde;o de Cr&eacute;ditos Tribut&aacute;rios para todos os impostos estaduais &ndash; o ICMS, o IPVA e o Imposto sobre Transmiss&atilde;o Causa Mortis e Doa&ccedil;&atilde;o de quaisquer Bens ou Direitos (ICD).</p>
+<p>O D&iacute;vida Zero garante redu&ccedil;&atilde;o de multas em 90%, de juros em 95% e o parcelamento das d&iacute;vidas em at&eacute; sessenta meses. A oportunidade para o contribuinte ficar em dia com a Fazenda permitir&aacute; um incremento de arrecada&ccedil;&atilde;o previsto em cerca de <strong>R$ 250 milh&otilde;es</strong> ainda em 2023.<br /></p>
+<h2>Raquel Lyra aumento no ICMS</h2>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe style="width: 100%; height: 100%; position: absolute; left: 0px; top: 0px; overflow: hidden;" src="https://www.dailymotion.com/embed/video/x8n5kd4" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+{% endraw %}

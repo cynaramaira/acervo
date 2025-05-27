@@ -1,0 +1,39 @@
+---
+id: 12566767
+date: "2018-04-06T11:23:22Z"
+last_modified_at: null
+tags:
+  - "ives-gandra-martins"
+  - "juristas"
+  - "lula"
+  - "moro"
+  - "prisao"
+categories:
+  - "noticias"
+title: "Jurista Ives Gandra Martins analisa decis\u00e3o de Moro sobre pris\u00e3o de Lula"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/04/unnamed.jpg"
+---
+{% raw %}
+<p><p>A Agência do Rádio Mais entrevistou um dos principais juristas do país, Ives Gandra Martins, professor emérito da Universidade Mackenzie e da Escola de Comando e Estado Maior do Exército (Eceme), que atua há mais de 60 anos na área do Direito.</p></p>
+<p><p>Ives Gandra analisou a decisão do Juiz Sérgio Moro, que ordenou a prisão do ex-presidente Luiz Inácio Lula da Silva nesta quinta-feira (5).</p></p>
+<p><p>Confira a entrevista:</p></p>
+<p><p>A defesa do ex-presidente Lula soltou uma nota na noite desta quinta (5) em que afirma que a ordem de prisão é ilegal, já que ainda haveriam embargos a serem analisados. Esse argumento, na visão do senhor, é válido?</p></p>
+<p><p>Esses “embargos dos embargos”, normalmente, têm efeito protelatório. Por isso, os tribunais costumam aplicar àqueles que apresentam o ‘segundo embargo’, a pena de litigância de má fé. Agora, é evidente que um advogado - em um caso como é o do presidente Lula - poderia atrasar o processo de prisão com novos embargos que não estão propriamente no código, mas não são proibidos. É raro, mas acontecem “embargos de embargos” de declaração.</p></p>
+<p><p>Por que o Juiz Sérgio Moro decretou a prisão do ex-presidente tão prontamente?</p></p>
+<p><p>Porque o tribunal – que foi quem condenou [o ex-presidente] – entendeu que todas as dúvidas dos embargos de declaração apresentados já haviam sido equacionadas. Eu apresento um embargo de declaração quando há pontos obscuros na defesa. Esses pontos foram apresentados nos embargos de declaração já julgados pelo Tribunal, esclarecendo e pormenorizadamente todas as dúvidas. Então o tribunal determinou que o juiz Sério Moro cumprisse a pena e ele fez o que? Cumpriu a decisão que veio do Tribunal Regional Federal da 4ª Região e considerou encerrado o processo, esclareceu todas as dúvidas.</p></p>
+<p><p>O que resta à defesa do ex-presidente Lula? Os advogados podem tentar anular a prisão no próprio TRF4?</p></p>
+<p><p>O que se pode fazer, teoricamente, é embargos sobre pontos lacunosos das respostas que foram dadas aos embargos de declaração apresentados. O que, a rigor, não é fácil, porque quem viu a resposta dos embargos de declaração, quem viu a decisão sobre os embargos de declaração, o acórdão sobre os embargos de declaração do Tribunal Regional Federal da 4ª Região pode perceber que eles procuraram, pormenorizadamente, responder a todas as dúvidas dos advogados do presidente Lula.</p></p>
+<p><p>Na sua avaliação, o juiz Sergio Moro se precipitou ao decretar a prisão de Lula ou tomou uma decisão correta?</p></p>
+<p><p>O juiz Sério Moro, nesse caso, não está cumprindo uma decisão dele, mas uma decisão do Tribunal Regional Federal da 4ª Região, até porque o Juiz Sérgio Moro deu uma pena menor ao presidente Lula do que o Tribunal. O Tribunal agravou a pena de nove para 12 anos. Então, na verdade, não há nenhuma ilegalidade nesse decreto. E a função dos advogados do ex-presidente Lula é fazer uma derradeira tentativa de ouvir quem é o ministro que poderia analisar essa matéria no Supremo. E não é o ministro Marco Aurélio, à medida que o ministro Fachin é relator da operação Lava Jato.</p></p>
+<p><p>A defesa do petista também sustenta que não houve intimação do TRF-4 para análise dos embargos. Como o senhor analisa esse aspecto?</p></p>
+<p><p>Se a decisão foi publicada no Diário Oficial, automaticamente é uma intimação. Nesse caso, precisaria verificar. Eu duvido que tenha havido uma lacuna dessa parte por parte do Tribunal. Se isso foi publicado no Diário Oficial, é evidente que, a partir desse momento, é do conhecimento público, sabe-se que houve a intimação. Por exemplo, para todo julgamento do Supremo, eles publicam a pauta no Diário Oficial, sabendo o que vai ser decidido na terça-feira, nas turmas, na quarta e quinta-feira, em plenário. Mas enfim, se houve uma falha dessas, é evidente que aí não poderia ser aplicado, mas eu acho extremamente difícil que tenha havido esse tipo de falha porque não é necessária intimação pessoal. Bastaria uma publicação no Diário Oficial.</p></p>
+<p><p>Ainda na noite desta quinta, antes do decreto de prisão contra o ex-presidente Lula, alguns advogados entraram na Suprema Corte com um pedido de liminar pedindo a reabertura da análise do mérito sobre a prisão após condenação em segunda instância. Esse processo tem o ator da militância, que está sendo feita pelo ministro Marco Aurélio Melo, para que seja pautado novamente. Se esse entendimento mudar no STF, o caso de Lula pode mudar?</p></p>
+<p><p>Dois pontos. Primeiro lugar: essas ações estão na relatoria do ministro Marco Aurélio, e o ministro Marco Aurélio tem pedido pauta. Mas para estas ações, a pauta terá que ser definida pela presidente do Supremo. É a presidente quem faz as pautas das ações. Já houve um pedido dessa natureza feita pelo próprio ministro Marco Aurélio e a ministra Cármen Lúcia entendeu que não era o caso de se fazer e que iria se discutir uma questão em controle concentrado para um caso concreto, dando a impressão que todos seriam iguais perante a lei, mas alguns seriam mais iguais que os outros.</p></p>
+<p><p>Não entrou antes quando havia muitos réus presos, com condenações de segunda instância, para o fato de ser o caso do presidente Lula. Mas quando o ex-presidente Lula entrou com habeas corpus, ela foi obrigada a colocar porque aí já não era a discussão em tese, da relatoria do ministro Marco Aurélio, mas a discussão em caso concreto. E, neste caso que nós tivemos, foi a rejeição do habeas corpus por parte do Supremo. Então, o Supremo decidiu que para o caso concreto do presidente Lula, depois de 11 horas de decisão, não cabe habeas corpus. E essas outras ações só poderão entrar em pauta porque elas terão que ser necessariamente decididas em plenário se a ministra Cármen Lúcia colocar em pauta. Mas, na verdade, apesar de o ministro Marco Aurélio vir pedindo e não ter conseguido pauta, seria extremamente deselegante se o ministro resolvesse decidir monocraticamente essa questão, quando quem tem que definir a discussão de uma questão dessa relevância é a Presidência do Supremo.</p></p>
+<p><p>Há alguma possibilidade legal de se reverter essa decisão contra o ex-presidente Lula?</p></p>
+<p><p>A fundamentação do Tribunal Regional Federal da 4ª Região é razoável, quer dizer, os embargos de primeiras declarações não foram aceitos. Por isso, só poderia ser sobre a decisão, sobre esses embargos, o que reduz consideravelmente o campo em que seria possível os segundos embargos. Quase sempre, quando existem segundos embargos – e eles são raríssimos – eles também são considerados protelatórios. Por isso, os advogados poderiam receber a condenação de litigância de má-fé e, evidentemente, não podem mais a essa altura mudar a decisão. E foi esse o fundamento maior do tribunal para determinar ao juiz Sérgio Moro o cumprimenta imediato da pena. O pessoal está atacando o ministro Sérgio Moro, mas ele está cumprindo uma decisão do TRF, que diz: acabou, nós esclarecemos completamente os embargos de declaração e segundo embargos de declaração seriam protelatórios, à medida em que tudo que levantaram, nós já esclarecemos nas nossas respostas. Eu considero que os advogados do presidente Lula vão evidentemente fazer as tentativas, mas a posição deles é uma posição, diante do Supremo, indiscutivelmente mais frágil.</p></p>
+<p><p>&nbsp;</p></p>
+{% endraw %}

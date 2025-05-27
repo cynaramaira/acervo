@@ -1,0 +1,20 @@
+---
+id: 15636896
+date: "2023-11-20T10:42:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "alvaro-porto"
+categories:
+  - "sem-categoria"
+title: "\u00c1lvaro Porto agradece confian\u00e7a dos colegas e diz que vai trabalhar por Pernambuco"
+sutia: "Oposi\u00e7\u00e3o comemorou a antecipa\u00e7\u00e3o da elei\u00e7\u00e3o, em dois anos, mas os governistas reclamaram da iniciativa"
+chapeu: "Poder Legislativo"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/11/14/11_14_plenaria_rs_098_scaled-25140805.jpg"
+---
+{% raw %}
+<p>Ap&oacute;s ser mantido no cargo de presidente da Assembleia Legislativa de Pernambuco (Alepe), com vota&ccedil;&atilde;o expressiva na Casa, o <a href="https://jc.ne10.uol.com.br/colunas/jamildo/2023/11/15634902-emenda-pela-antecipacao-da-reeleicao-de-alvaro-porto-foi-aprovada-em-viagem-de-aliado-de-raquel-lyra-ao-vaticano.html" target="_blank" rel="noopener noreferrer">deputado &Aacute;lvaro Porto (PSDB)</a>, em entrevista ao Blog do Alberes Xavier, agradeceu aos seus colegas deputados pela confian&ccedil;a e afirmou que ir&aacute; trabalhar por Pernambuco.</p>
+<p><a href="https://jc.ne10.uol.com.br/colunas/jamildo/2023/11/15635046-alvaro-porto-e-reeleito-presidente-da-alepe-em-votacao-antecipada-veja-como-ficou-a-mesa-diretora-para-bienio-2025-2026.html">&ldquo;Eu s&oacute; tenho a agradecer aos meus pares</a>, meus colegas, amigos deputados. A gente vai continuar trabalhando por Pernambuco. Foi uma vota&ccedil;&atilde;o, gra&ccedil;as a Deus, expressiva, maioria absoluta da Casa que nos leva para o segundo bi&ecirc;nio e a gente vai estar junto para ajudar o povo de Pernambuco. Meu agradecimento especial a todos os deputados&rdquo;, disse.</p>
+<p>Ap&oacute;s nove meses no comando da Alepe, o deputado &Aacute;lvaro Porto antecipou as elei&ccedil;&otilde;es da Mesa Diretora da Casa, que foi realizada na manh&atilde; da ter&ccedil;a-feira (14). Teoricamente, essa elei&ccedil;&atilde;o s&oacute; deveria acontecer no m&ecirc;s de dezembro de 2024, onde seriam confirmadas as lideran&ccedil;as para o pr&oacute;ximo bi&ecirc;nio (2025-2026). No entanto, a vota&ccedil;&atilde;o foi possibilitada por mudan&ccedil;as na Constitui&ccedil;&atilde;o Estadual e no Regimento Interno da Alepe aprovadas na semana passada, conforme <a href="http://fivenews.sjcc.com.br/%20Ap&oacute;s ser mantido no cargo de presidente da Assembleia Legislativa de Pernambuco (Alepe), com vota&ccedil;&atilde;o expressiva na Casa, o deputado &Aacute;lvaro Porto (PSDB), em entrevista ao Blog do Alberes Xavier, agradeceu aos seus colegas deputados pela confian&ccedil;a e afirmou que ir&aacute; trabalhar por Pernambuco.  &ldquo;Eu s&oacute; tenho a agradecer aos meus pares, meus colegas, amigos deputados. A gente vai continuar trabalhando por Pernambuco. Foi uma vota&ccedil;&atilde;o, gra&ccedil;as a Deus, expressiva, maioria absoluta da Casa que nos leva para o segundo bi&ecirc;nio e a gente vai estar junto para ajudar o povo de Pernambuco. Meu agradecimento especial a todos os deputados&rdquo;, disse.  Ap&oacute;s nove meses no comando da Alepe, o deputado &Aacute;lvaro Porto antecipou as elei&ccedil;&otilde;es da Mesa Diretora da Casa, que foi realizada na manh&atilde; da ter&ccedil;a-feira (14). Teoricamente, essa elei&ccedil;&atilde;o s&oacute; deveria acontecer no m&ecirc;s de dezembro de 2024, onde seriam confirmadas as lideran&ccedil;as para o pr&oacute;ximo bi&ecirc;nio (2025-2026). No entanto, a vota&ccedil;&atilde;o foi possibilitada por mudan&ccedil;as na Constitui&ccedil;&atilde;o Estadual e no Regimento Interno da Alepe aprovadas na semana passada, comforme revelou com exclusividade o blog de Jamildo." target="_blank" rel="noopener noreferrer">revelou com exclusividade o <strong>blog de Jamildo.</strong></a><br /></p>
+{% endraw %}

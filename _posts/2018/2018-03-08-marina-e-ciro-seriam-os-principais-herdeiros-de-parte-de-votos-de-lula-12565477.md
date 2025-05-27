@@ -1,0 +1,34 @@
+---
+id: 12565477
+date: "2018-03-08T09:45:25Z"
+last_modified_at: null
+tags:
+  - "ciro-gomes"
+  - "lula"
+  - "marina-lima"
+  - "votos-nulos"
+categories:
+  - "noticias"
+title: "Marina e Ciro seriam os principais herdeiros de parte de votos de Lula"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/03/O-professor-Tarcisio-de-Ara\u00fajo-ser\u00e1-um-dos-debatedores-da-quarta-edi\u00e7\u00e3o-do-Semin\u00e1rios-IPESPE.jpg"
+---
+{% raw %}
+<p><p>O Instituto de Pesquisas Sociais, Políticas e Econômicas promove a quarta edição do “Seminários IPESPE” no dia 10 de abril, das 14h30 às 16h, no auditório do Empresarial Cervantes. O tema do bate-papo, que será aberto ao público, é “Impacto Eleitoral do Julgamento de Lula”.</p></p>
+<p><p>Na mesa de debate, o doutor em Ciência Política pela University of Essex, Inglaterra, com pós-doutorado na University of Westminster, Inglaterra, Joanildo Burity.</p></p>
+<p><p>Além dele, haverá ainda a participação do doutor em Economia pela University College London e professor do Departamento de Economia da Universidade Federal de Pernambuco, Tarcisio Patrício de Araújo.</p></p>
+<p><p>Antes do evento, ele comentou o tema para o instituto. Veja abaixo, com exclusividade.</p></p>
+<p><p><strong>Como o senhor enxerga o futuro político do pré-candidato Lula, condenado, em segunda instância, a 12 anos e 1 mês de prisão pelo TRF-4, no Caso do Triplex do Guarujá?</strong></p></p>
+<p><p>O futuro político do ex-presidente Lula pode ser descrito por uma expressão matemática em que o benefício, em termos de biografia pessoal (B) – se ele houvesse se portado como estadista e aproveitado chances, contribuindo para mudar o país – se tornou “B” multiplicado por -1, portanto –B: reverso do primeiro. Além da atual condenação, terá pelo menos mais uma (Sítio Atibaia), e segue como figura caricatural em busca de uma biografia salvadora, o que inclui expedientes patéticos como o da pretendia proposição do nome dele para Nobel da Paz, por Adolfo Perez Esquivel, 87 (argentino, arquiteto e militante da causa dos direitos humanos, Nobel da Paz 1980). Mas imaginar que Lula poderia ter se tornado um estadista é mero exercício para se qualificar a questão. De fato, há evidências claras de que Lula e alguns dos principais próceres do PT sabiam o que faziam, pois praticavam esquemas nada republicanos já no início dos anos 1990, em prefeituras petistas do ABC paulista. E quando assumiu a presidência, Lula já tinha pleno conhecimento do esquema Odebrecht, atuante há pelo menos 40 anos e magnificado na era PT, com prestigiosa participação do PMDB. Os objetivos, supostamente “revolucionários” no discurso de José Dirceu e outros, já estavam bem definidos. Sob a capa do “desenvolvimentismo”.</p></p>
+<p><p><strong>Qual a sua expectativa para 2018? Quem pode despontar no cenário presidencial?</strong></p></p>
+<p><p>O Brasil tem seu Berlusconi, que na Itália continua reinando na política – embora inelegível. Portanto, Lula – nosso Berlusconi – ainda mexe com expectativas e pesquisas eleitorais. Quando ficar claro que ele é carta fora do baralho, o intragável Jair Bolsonaro perderá parte dos votos que carreia. E se Luciano Huck eventualmente voltar ao palco, parte dos votos lulistas irá pare ele. Abundam os “se”. Alckmin tem rejeição tão grande no Nordeste que necessitaria de grande predomínio no Sudeste e no Sul. O campo para apostas é arriscado, com grande margem de erro. Marina, que em princípio poderia herdar votos desse grande vácuo que toma o Brasil, não parece ter fibra nem antena para aproveitar momentos. O errático Ciro Gomes é, na minha opinião, um perigo, porque muito esperto. Vamos ter que esperar mais meses para ter quadro menos indefinido. E meses em cenário eleitoral podem significar muito tempo.</p></p>
+<p><p><strong>Quais motivos que levam o pré-candidato Jair Bolsonaro, recém-ingresso no PSL, a ser um dos favoritos na disputa?</strong></p></p>
+<p><p>Primeiro, o vácuo. Falta uma liderança convincente, alguém com jeito de grande personagem para o momento. Ademais, estamos ainda saindo, lentamente, de uma crise econômica grave e profunda – de produção doméstica, não podemos culpar o “estrangeiro”; a crise foi um presente do PT e do lulismo, na fase final encarnados na medíocre figura de Dilma. Crise econômica e corrosão social aumentam a insegurança. Violência, insegurança, e a vitrine Rio de Janeiro constituem fatores para fazer parte da população crer em solução militar. Bolsonaro seria tal solução, sem golpe. Mas a solidez eleitoral de Bolsonaro está diretamente vinculada à ausência, por enquanto, de alternativa que leve o Brasil a melhor rumo; além disso, esse cidadão saudoso da ditadura em que tomou parte ativa também é personagem da crônica policial: se for mais adiante o processo por incitação ao estupro de mulheres, ele pode murchar em termos de intenções de votos. Como já disse, abundam os “se’.</p></p>
+<p><p><strong>Caso Lula não consiga ser candidato, para quem, na sua opinião, os votos dele podem migrar? E por quê?</strong></p></p>
+<p><p>Marina e Ciro Gomes seriam, a meu ver, os principais herdeiros de parte de votos de Lula – associados a pessoas simpáticas à via da esquerda. Mas se um novo candidato presidencial surgir, que ajude a preencher o vácuo, esse será o maior herdeiro. Um bom candidato que representasse o centro da política – com a devida distância da esquerda sindicalista, estatista, e da direita mais ideológica, duas alternativas que tendem mais para o conservadorismo. Um bom candidato de centro pode ser um vetor de transformação, de mudanças. Mas o país precisará de muita sorte para isso.</p></p>
+<p><p><strong>A saída da crise vai estar no resultado das Eleições 2018?</strong></p></p>
+<p><p>Deveria. Na verdade, estamos lentamente saindo da crise. Teremos sorte se o novo governo for capaz de articular interesses em torno de mudanças nos campos fiscal, patrimonial (privatizações), previdenciário, tributário, de renovação do sistema de agências reguladoras e de instituições de defesa do cidadão. Já passou da hora de o país partir para finalmente fazer uma revolução capitalista no Brasil. Parece que poucos se lembram de que, de 1981 até hoje a economia brasileira ainda não reencontrou o caminho do crescimento sustentado. Ou seja, depois de meio século de crescimento de quase 7% ao ano (1930-1980), estamos completando quarenta anos com crescimento médio anual que pouco passa de 2%. E o país precisa fazer a esperada revolução educacional, o que obviamente requer sucessão de vários governos sem desperdício de oportunidades e a sociedade com participação ainda mais ativa nesse processo.</p></p>
+<p><p>&nbsp;</p></p>
+{% endraw %}

@@ -1,0 +1,28 @@
+---
+id: 12520192
+date: "2016-06-20T11:28:33Z"
+last_modified_at: null
+tags:
+  - "cidades"
+  - "guarda-municipal"
+  - "quatro-pessoas"
+  - "recife"
+categories:
+  - "noticias"
+title: "A Confer\u00eancia Municipal do Recife, a politicagem e uma cidade para pessoas"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p>Em junho, tive a oportunidade de participar pela primeira vez de uma Conferência Municipal do Recife. Com o tema “A Função Social da Cidade e da Propriedade” o evento, promovido pela Prefeitura e pela sociedade civil, teve como lema “Cidades Ativas, Participativas e Socialmente Justas” - uma visão de cidade que é impossível discordar. Essa é a sexta edição da Conferência na cidade que está alinhada com uma política nacional de participação social, instituída ainda no último governo FHC.</p>
+<p>A Conferência Municipal do Recife se propõe a ser um espaço formal de participação nas decisões do Poder Público, para o qual cidadãs e cidadãos se inscrevem como representantes dos diferentes segmentos da sociedade - do próprio Poder Público à Academia, passando pelo empresariado, ONGs e movimentos sociais. As mais de 500 inscrições recebidas neste ano foram avaliadas pela organização, que credenciou 450 participantes com poder para debater e votar as propostas de diretrizes para as políticas públicas municipais nos próximos anos.</p>
+<p>Durante o primeiro dia, essas propostas foram debatidas por grupos de trabalho, que se organizaram em cinco temas: saneamento ambiental; planejamento e gestão territorial; mobilidade e acessibilidade; habitação e regulação fundiária; e gestão participativa. As propostas aprovadas por estes grupos no primeiro dia da Conferência foram levadas a uma plenária, onde cada uma é debatida e votada.</p>
+<p>Com um ajuste ou outro na metodologia e na acessibilidade, até então, tudo ia relativamente bem. Eu havia feito uma crítica contundente à pouca informação sobre os temas debatidos pelos grupos de trabalho (participei do grupo que debateu Mobilidade) e da pouca (ou nenhuma) consideração sobre a viabilidade técnica, econômica e social de algumas das sugestões. Mas foi durante a plenária que percebi o quanto este modelo de participação é pouco ou nada eficiente.</p>
+<p>Imagine você um grande auditório, com cerca de 400 pessoas. Pessoas de diferentes saberes e interesses, que recebem um documento com mais de 70 diretrizes para políticas públicas, que devem ser debatidas e votadas naquele mesmo dia. Entre a leitura inicial, os ajustes e a votação de cada proposta, tivemos, pelos meus cálculos, cerca de dez minutos. Dez minutos para debater diretrizes nada simples, como a implantação de 90km de ciclovias na cidade, a necessidade de sanear os ? da cidade que ainda não o são e de reduzir o grave déficit habitacional que vivemos. Não é preciso muito para perceber que à certa altura da plenária, uma parte das pessoas já nem sabia mais no que estava votando.</p>
+<p>Como se não bastasse a metodologia, um outro ingrediente nefasto engrossou o caldo da ineficiência desta Conferência: a politicagem. Agrupados em patotas que me lembraram meus tempos de escola, partidos políticos, sindicatos e movimentos promoveram um espetáculo de falta de diálogo. Era possível prever os votos que viriam da esquerda ou da direita do auditório, já que muitas vezes as votações pareciam ser não um resultado de um debate, mas uma manifestação de conceitos pré-fabricados, com direito a palavras de ordem e acusações. Se por um lado os representantes do Poder Público pareciam pouco animados, por outro, algumas pessoas faziam da conferência um verdadeiro palanque de oposição desses bem clichês. Lá para as tantas, a animosidade era tamanha que houve até um princípio de violência, rapidamente controlado pela organização.</p>
+<p>Com sérias ressalvas, considero legítimo o documento final da Conferência, apesar da minha discordância e abstenção em algumas votações (democracia é isso aí). Mas. encerro minha participação com uma pulga atrás da orelha. Acredito que precisamos avançar para uma democracia mais inteligente, onde as pessoas manifestam suas opiniões diretamente. Sem o enviesamento clássico dos movimentos e partidos políticos. Sem a disputa pelo Poder se sobrepondo aos seus verdadeiros interesses da cidade. Essa inteligência precisa atingir não somente a metodologia dos instrumentos de participação (das eleições, às conferências), mas também - e principalmente - as cabeças e corações das cidadãs e cidadãos. Com mais efetividade e menos politicagem, podemos construir uma visão compartilhada para a cidade, onde os interesses dos diferentes segmentos deixam de ser uma disputa e passam a ter uma relação ganha-ganha.</p>
+<p>A partir de 2017, passo a representar a RAPS - Rede de Ação Política pela Sustentabilidade - na nova composição do Conselho da Cidade, eleito durante a Conferência Municipal. Ocuparemos uma das vagas destinadas a Organizações Não-Governamentais e teremos como objetivo articular a sociedade civil e o poder público para construirmos um Recife sustentável. Espero ainda poder trabalhar para que tenhamos instrumentos de participação mais eficientes. Que façam bom uso do dinheiro público e que estejam conectados com os verdadeiros interesses das pessoas. Já está mais do que na hora de fazermos daqui uma cidade que dialoga sobre seus problemas e debate as soluções. Sem politicagem, por uma cidade verdadeiramente para as pessoas.</p>
+<p>Fernando Holanda é Coordenador do eixo Cidades Sustentáveis na Rede de Ação Política pela Sustentabilidade.</p>
+{% endraw %}

@@ -1,0 +1,25 @@
+---
+id: 13628601
+date: "2021-11-19T09:49:00Z"
+last_modified_at: null
+tags:
+  - "opiniao"
+categories:
+  - "sem-categoria"
+title: "Sergio Moro quer sentar na cadeira.  Por Ricardo Leit\u00e3o"
+sutia: "\u00c9 uma disputa particular, no meio \u00e0 disputa coletiva, em uma elei\u00e7\u00e3o presidencial que desponta como uma das mais dram\u00e1ticas da hist\u00f3ria do Brasil"
+chapeu: "Opini\u00e3o"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/11/18/000_9re2hq-19460992.jpg"
+---
+{% raw %}
+<p>Por Ricardo Leit&atilde;o, em artigo enviado ao blog</p>
+<p>Na pol&iacute;tica, como na vida, n&atilde;o h&aacute; espa&ccedil;o vazio. Um dia algu&eacute;m chega, d&aacute; bom dia e senta na cadeira. Candidato &agrave; Presid&ecirc;ncia da Rep&uacute;blica no pr&oacute;ximo ano, o ex-juiz federal Sergio Moro quer sentar na cadeira da direita, at&eacute; aqui reservada para Jair Bolsonaro. O problema do presidente &eacute; que ele est&aacute; deslizando no assento e periga at&eacute; cair, deixando vago o lugar que pode levar Moro ao segundo turno.</p>
+<p>Especula&ccedil;&otilde;es pr&eacute;-eleitorais? Talvez n&atilde;o. Sergio Fernando Moro, 49 anos, paranaense, &eacute; um homem conservador, estudioso e ambicioso. Foi capaz de trocar uma carreira promissora de magistrado e professor universit&aacute;rio pela instabilidade de ministro da Justi&ccedil;a e Seguran&ccedil;a P&uacute;blica no desgoverno Bolsonaro. O convite trazia em seu bojo a possibilidade de ser indicado, pelo presidente, ministro do Supremo Tribunal Federal. Em mar&ccedil;o de 2020 pediu exonera&ccedil;&atilde;o do cargo, depois de acusar Bolsonaro de tentar interferir em nomea&ccedil;&otilde;es na c&uacute;pula da Pol&iacute;cia Federal. Tornou-se um desafeto de Sua Excel&ecirc;ncia e nova op&ccedil;&atilde;o para a chamada terceira via.</p>
+<p>No entanto, a via do ex-juiz federal n&atilde;o &eacute; a terceira, mas outra: substituir Jair Bolsonaro como candidato da direita e, nessa condi&ccedil;&atilde;o, disputar o segundo turno com Luiz In&aacute;cio Lula da Silva, o candidato da esquerda. &Eacute; profunda a polariza&ccedil;&atilde;o entre Moro e Lula, condenado &agrave; pris&atilde;o pelo ex-juiz na Opera&ccedil;&atilde;o Lava Jato. Com a candidatura de Moro, torna-se inevit&aacute;vel que a corrup&ccedil;&atilde;o ganhe peso na campanha, o que ser&aacute; inc&ocirc;modo para Lula. O tema tamb&eacute;m &eacute; ruim para Bolsonaro, acuado pelos achados da CPI da Covid e o balc&atilde;o de neg&oacute;cios que se instalou no Minist&eacute;rio da Sa&uacute;de.</p>
+<p>Por outro lado, &eacute; bom para Moro, dono de um extenso e consistente curr&iacute;culo de embates contra a corrup&ccedil;&atilde;o &ndash; e n&atilde;o s&oacute; na Opera&ccedil;&atilde;o Lava Jato. Trabalhou na Opera&ccedil;&atilde;o Banestado e na Opera&ccedil;&atilde;o Farol da Colina; por sua especializa&ccedil;&atilde;o em crimes financeiros e combate &agrave; lavagem de dinheiro foi convidado a assessorar a ministra Rosa Weber, do Supremo Tribunal Federal, na investiga&ccedil;&atilde;o do Esc&acirc;ndalo do Mensal&atilde;o.</p>
+<p>Moro sabe que o enfraquecimento de Bolsonaro significa o seu fortalecimento como candidato representante da direita, com apoio do conservadorismo &ldquo;civilizado&rdquo;, do empresariado do Sudeste e de lideran&ccedil;as fardadas. A tudo se soma a cereja do bolo: na elei&ccedil;&atilde;o, ser&aacute; o antipetista, o algoz de Lula, o her&oacute;i da fam&iacute;lia, da tradi&ccedil;&atilde;o e da propriedade.</p>
+<p>Para alguns setores importantes do campo conservador, ele j&aacute; &eacute; o dono da cadeira da direita. &Eacute; o caso, por exemplo, das For&ccedil;as Armadas. No lan&ccedil;amento da sua candidatura estavam na plateia os influentes generais da reserva Carlos Alberto dos Santos Cruz e Paulo Chagas, antagonistas de Bolsonaro. S&atilde;o pr&oacute;ximos do general Hamilton Mour&atilde;o, vice-presidente, rompido com o presidente. Em seu discurso, Moro ressaltou o papel constitucional das For&ccedil;as Armadas e elogiou sua disciplina.</p>
+<p>No momento, o ex-juiz de fala enfadonha e sem carisma mal aparece nas pesquisas eleitorais, h&aacute; meses lideradas por Lula, com Bolsonaro em segundo lugar. Por&eacute;m ainda faltam pouco mais de 10 meses para as urnas de outubro de 2022, em uma das mais conturbadas conjunturas que o Pa&iacute;s j&aacute; atravessou. Com medo de perder e de ser preso, Bolsonaro j&aacute; ensaiou at&eacute; manobras golpistas.</p>
+<p>Sua Excel&ecirc;ncia escorrega na cadeira da direita, mas Moro ainda n&atilde;o ocupou todo o assento. &Eacute; uma disputa particular, no meio &agrave; disputa coletiva, em uma elei&ccedil;&atilde;o presidencial que desponta como uma das mais dram&aacute;ticas da hist&oacute;ria do Brasil.</p>
+{% endraw %}

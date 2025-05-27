@@ -1,0 +1,42 @@
+---
+id: 12591393
+date: "2019-10-02T09:20:33Z"
+last_modified_at: null
+tags:
+  - "carta"
+  - "edson-fachin"
+  - "linkedin"
+  - "nelson-barbosa"
+  - "pernambuco"
+categories:
+  - "noticias"
+title: "Em carta, Link de Edson Barbosa se despede de Pernambuco"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/10/oi.jpg"
+---
+{% raw %}
+<p><p>Link e Pernambuco, uma história pra contar</p></p>
+<p><p>Edson Barbosa <br /></p>
+<p>Presidente da Link Propaganda</p></p>
+<p><p>Chegamos em Pernambuco há 15 anos e fizemos um longo trabalho, atendendo ao projeto de política e governo do nosso saudoso Eduardo Campos. Esse ano, chegamos ao fim de uma etapa. E como forma de homenagear e agradecer a todos os que estiveram conosco nessa caminhada, trabalhadores, clientes, fornecedores, veículos, parceiros profissionais, amigos, optei por fazê-lo mde nome da nossa comandante local em todo esse processo, a publicitária Sued Oliveira.</p></p>
+<p><p>Carta aberta a Sued Oliveira</p></p>
+<p><p>De quantas provas necessitamos para conhecer a competência de uma pessoa? Que situações devemos cruzar para saber o quanto podemos confiar em alguém? Quando se trata de você, Sued, não há quantitativo aplicável. E a grande maioria dos parâmetros se tornam rasos para avaliar o quanto o seu desempenho profissional marcou a história da Link – e a minha própria vida à frente da agência. Mais do que profissionalismo, estou falando de entrega. De uma dedicação que não pode ser medida senão por um diapasão mais fino, de sentimento e profunda gratidão. A sua liderança na operação da Link Pernambuco é o melhor exemplo disso. Ali superamos momentos duros, por poder conseguir ver mais à frente e acreditar na vitória.</p></p>
+<p><p>Foi assim quando mergulhamos na primeira candidatura de Eduardo Campos ao Governo de Pernambuco. Ali, saltamos de apenas 4% nas pesquisas de intenções de voto para uma eleição consagradora com 65% da preferência do eleitorado. De uma posição de quase isolamento do candidato para uma bem sucedida governança, apoiada por ampla frente de partidos e fazendo convergir aos mesmos objetivos os sonhos e necessidades do povo pernambucano.</p></p>
+<p><p>Com o seu trabalho persistente e altamente qualificado, participamos das grandes transformações que o Estado passou a vivenciar. Pernambuco avançou da condição de estado mais violento do Brasil para referência internacional em segurança pública graças a um programa que viria a ser premiado pela ONU – por nós denominado Pacto pela Vida. Da limitação de mais de 40 anos sem construir grandes hospitais à concretização do compromisso de campanha de erguer três hospitais metropolitanos de referência. Da multiplicação de um punhado de escolas integrais à formação da maior rede de ensino integral do Brasil, que nas gestões seguintes chegou a reunir 336 unidades em todo o Estado, somando escolas de referência e escolas técnicas.</p></p>
+<p><p>Tal avanço assegurou a Pernambuco, por mais de uma vez, o primeiro lugar nacional no Ideb. Muitas outras conquistas foram obtidas nas mais diversas áreas, como você sabe muito bem. Pernambuco retomou o posto de locomotiva do Nordeste, expandindo áreas vitais ao desenvolvimento econômico, como a industrialização, a agricultura irrigada e o turismo. Algo que a segunda eleição de Eduardo, com a nossa atuação estratégica, muito trabalho e mais de 82% dos votos válidos, consolidou e ampliou.</p></p>
+<p><p>Com uma comunicação articulada e precisa, fizemos chegar esses resultados aos corações e mentes dos pernambucanos, contribuindo para elevar a sua autoestima e mobilizá-los na realização de novos sonhos e conquistas.</p></p>
+<p><p>Quando Eduardo Campos decidiu colocar a sua experiência e força de trabalho a favor do Brasil, candidatando-se à Presidência da República, continuamos atuantes para auxiliar o governo de transição a manter em curso o rumo traçado para o desenvolvimento de Pernambuco e valorizar um legado de mais de sete anos de avanços extraordinários. No mesmo propósito, mergulhamos fundo para eleger Paulo Câmara, o candidato de Eduardo Campos ao governo do Estado. Sempre acreditando que a vitória de Eduardo seria também do Brasil – tão necessitado de novas perspectivas, sob o risco de acentuada regressão política, social e econômica.</p></p>
+<p><p><strong>Aquele 13 de agosto de 2014 viria a mudar o curso da história.</strong></p></p>
+<p><p>Estávamos com a campanha da sucessão estadual em plena marcha, com a estratégia de comunicação definida e os primeiros programas de televisão prontos. Um deles reproduzia trechos de uma conversa de Eduardo com Paulo Câmara em estúdio, mostrando a sintonia entre ambos e sinalizando que Pernambuco continuaria em boas mãos, conduzido por alguém comprometido com o processo de transformações até então realizado.</p></p>
+<p><p>Parecia um dia de campanha como outro qualquer. Havíamos assistido juntos, com toda a equipe, a brilhante entrevista de Eduardo Campos a William Bonner e Patrícia Poeta, no Jornal Nacional. A frase “Não vamos desistir do Brasil” – oportuno lema de mobilização – ainda ecoava dentro de cada um de nós, reacendendo a esperança de termos um país melhor e à altura da grandeza do povo brasileiro. Você estava na produtora de áudio, a Muzak, analisando o guia eleitoral de rádio, quando ouviu a notícia. Um avião havia caído. Como há algumas horas não se tinham notícias de Eduardo, a soma dos fatores acendeu o sinal vermelho da apreensão. Intermináveis minutos depois, confirmava-se que Eduardo estava naquele voo tragicamente interrompido.</p></p>
+<p><p>O que se seguiu foi uma vertigem. A equipe inteira em pranto mostrava o quanto Eduardo era querido. Mas sinalizava também a necessidade de superar a dor e reajustar as diretrizes da campanha eleitoral, a poucos dias de ser iniciada.</p></p>
+<p><p>Dentre todos os testes aos quais a Link foi submetida - e você em especial -, aquele certamente foi o mais difícil de transpor. Ali senti, como nunca, a sua força e capacidade de superação. Tivemos que, ao mesmo tempo, equilibrar o moral da equipe e redefinir a campanha de Paulo Câmara. Mais uma vez, você se mostrou fundamental para a virada que se seguiu.</p></p>
+<p><p>O primeiro passo foi assumirmos a dor da perda. Assim, fizemos do primeiro programa do guia eleitoral um verdadeiro réquiem por Eduardo. Nas ruas, a tristeza do povo, que era também a nossa; o percurso do cortejo fúnebre no Recife; os depoimentos de populares e autoridades, inclusive de adversários políticos que o respeitavam. Tudo gravado e editado com competência e precisão, mas sobretudo com muito sentimento, sem resvalar no sentimentalismo.</p></p>
+<p><p>A vida e a campanha seguiram em frente e, pouco a pouco, a comunicação foi realinhada e se traduziu em mais uma grande vitória: Paulo Câmara foi eleito com mais de 68% dos votos.</p></p>
+<p><p>Auxiliar o novo governo era uma forma de não apenas seguir contribuindo com as transformações em Pernambuco, mas também de manter vivo o legado de Eduardo. Com você na proa do barco, o trabalho da Link manteve o alto nível de profissionalismo, enquanto o Estado enfrentava, como todas as unidades da Federação, as condições adversas que passaram a afligir o Brasil.</p></p>
+<p><p>Foi uma longa travessia, mas de muitos novos êxitos. Mesmo sem nos envolvermos diretamente na campanha pela reeleição de Paulo Câmara, a comunicação já acumulara um lastro suficiente de imagem para garantir a ele um segundo mandato. Saímos da operação Pernambuco cientes da qualidade e dos resultados das nossas ações. Com o seu exemplar profissionalismo e da equipe que você liderou, soubemos honrar a memória e o trabalho de Eduardo Campos.</p></p>
+<p><p>Entretanto, seria limitante imaginar que a nossa parceria de tantos anos terminaria ali. Toda a história da Link é marcada pela superação de grandes desafios – e os próximos que nos aguardam possivelmente sejam ainda maiores e igualmente estimulantes.</p></p>
+<p><p>Estou certo de que você e toda nossa equipe, da mesma forma que durante toda a permanência da Link atendendo o Governo de Pernambuco, estará pronta e ao meu lado no momento em que surgirem.</p></p>
+{% endraw %}

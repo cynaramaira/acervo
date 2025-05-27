@@ -1,0 +1,35 @@
+---
+id: 14918199
+date: "2021-12-06T18:08:00Z"
+last_modified_at: null
+tags:
+  - "paulo-camara"
+  - "tcu"
+  - "fundeb"
+categories:
+  - "sem-categoria"
+title: "Governo pede ao TCU revoga\u00e7\u00e3o de liminar em que MP acusou Estado de usar verbas do Fundeb em aposentadorias"
+sutia: "Governo afirma de forma categ\u00f3rica que n\u00e3o faz uso de verbas federais para pagar aposentadorias e pens\u00f5es"
+chapeu: "Agravo em Bras\u00edlia"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/05/17/foto__heudes_regis_sei__paulo_camara_2-17488055.jpg"
+---
+{% raw %}
+<p>Sem alarde, o Governo de Pernambuco apresentou, na &uacute;ltima sexta-feira (3/12), ao Tribunal de Contas da Uni&atilde;o (TCU), pedido de revoga&ccedil;&atilde;o da medida cautelar (decis&atilde;o provis&oacute;ria) do TCU sobre a suposta utiliza&ccedil;&atilde;o de recursos do Fundo de Manuten&ccedil;&atilde;o e Desenvolvimento da Educa&ccedil;&atilde;o B&aacute;sica e de Valoriza&ccedil;&atilde;o dos Profissionais da Educa&ccedil;&atilde;o (Fundeb) para pagamento de aposentadorias e pens&otilde;es de profissionais da educa&ccedil;&atilde;o.</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[13628084,13626785],'cd_matia':'13626785','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/blogs/jamildo/2021/11/13626785-decisao-do-tcu-obriga-estado-de-pernambuco-a-nao-pagar-aposentados-e-pensionistas-com-recursos-do-fundeb.html">Decisão do TCU obriga Estado de Pernambuco a não pagar aposentados e pensionistas com recursos do Fundeb </a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/11/13628084-tce-rebate-tcu-e-diz-que-jamais-autorizou-recursos-do-fundeb-para-pagar-aposentadorias-e-pensoes.html">TCE rebate TCU e diz que jamais autorizou recursos do Fundeb para pagar aposentadorias e pensões</a></li>
+        </ul>
+</div></tinymce></p>
+<p>No pedido, o Estado considera que a decis&atilde;o foi tomada com base em informa&ccedil;&otilde;es incompletas apresentadas em representa&ccedil;&atilde;o do Minist&eacute;rio P&uacute;blico de Contas (MPCO-PE) e do Minist&eacute;rio P&uacute;blico Federal (MPF). Sem que o Estado fosse ouvido.</p>
+<p>Al&eacute;m disso, o governo tamb&eacute;m alega que julgamento foge da esfera de compet&ecirc;ncia do TCU, por se tratar da fiscaliza&ccedil;&atilde;o da aplica&ccedil;&atilde;o de recursos do Tesouro Estadual e da susta&ccedil;&atilde;o de atos do Tribunal de Contas do Estado (TCE-PE).</p>
+<p>A decis&atilde;o do TCU no processo TC N&ordm; 036.086.2021-5 determina que o Estado n&atilde;o utilize recursos do Fundeb para pagamento de aposentadorias e pens&otilde;es do regime pr&oacute;prio de previd&ecirc;ncia do Estado de Pernambuco. "Isto nunca ocorreu, conforme documentos t&eacute;cnicos oficiais apresentados no recurso comprovando que o pagamento &eacute; realizado com recursos pr&oacute;prios do Fundo Financeiro de Aposentadorias e Pens&otilde;es dos Servidores do Estado de Pernambuco (Funafin), sem utiliza&ccedil;&atilde;o do Fundeb", afirma o Estado.</p>
+<p>&ldquo;Consoante foi demonstrado em sua manifesta&ccedil;&atilde;o de defesa, inclusive mediante juntada de documentos oficiais produzidos pelo corpo t&eacute;cnico do TCE-PE, o Estado de Pernambuco jamais utilizou recursos do Fundeb, muito menos a complementa&ccedil;&atilde;o da Uni&atilde;o ou quaisquer recursos federais, para pagamento de inativos e pensionistas, cujos proventos s&atilde;o custeados com contribui&ccedil;&otilde;es dos servidores e pelo Tesouro Estadual (Funafin)&rdquo;, afirma o Estado no recurso.</p>
+<p>O governo destaca que, al&eacute;m de a representa&ccedil;&atilde;o &ndash; que deu origem ao processo e &agrave; consequente medida cautelar &ndash; n&atilde;o preencher os requisitos de admissibilidade junto ao TCU, ela &eacute; &ldquo;improcedente em todos os seus termos, j&aacute; que inexistentes quaisquer irregularidades ou ilegalidades, tampouco preju&iacute;zo ao financiamento da educa&ccedil;&atilde;o&rdquo;.</p>
+<p>Na medida cautelar, o TCU tamb&eacute;m determina que o Estado n&atilde;o contabilize essas despesas com aposentadorias e pens&otilde;es dentro dos gastos computados para manuten&ccedil;&atilde;o e desenvolvimento do ensino, e que n&atilde;o compute essas despesas no c&aacute;lculo para fins de atingimento do percentual m&iacute;nimo de 25% de gastos com educa&ccedil;&atilde;o exigidos pelo artigo 212 da Constitui&ccedil;&atilde;o Federal.</p>
+<p>No recurso, o governo do Estado sustenta que a forma de contabiliza&ccedil;&atilde;o dos recursos do Tesouro Estadual utilizados para pagamento de pessoal docente, aposentados e pensionistas sempre encontrou guarida no artigo 6&ordm; da Lei Complementar estadual n&ordm; 43/2002, vigente h&aacute; quase 20 aos.</p>
+<p><br />"Em rela&ccedil;&atilde;o &agrave; Resolu&ccedil;&atilde;o 134/2021 do TCE-PE, esclarecemos que foi editada com base em sua compet&ecirc;ncia fiscalizat&oacute;ria no que tange &agrave; aplica&ccedil;&atilde;o de recursos do Tesouro Estadual e est&aacute; em conson&acirc;ncia com a seguran&ccedil;a jur&iacute;dica consagrada na Lei de Introdu&ccedil;&atilde;o &agrave;s Normas do Direito Brasileiro (LINDB)&rdquo;.</p>
+<p>No recurso, o governo chama a aten&ccedil;&atilde;o para o fato de que, na representa&ccedil;&atilde;o ao TCU, n&atilde;o se fez refer&ecirc;ncia a documento oficial emitido a pedido do MPF e do MPCO em 09/08/2021 &ndash; antes, portanto, do protocolo da representa&ccedil;&atilde;o ao TCU &ndash; no qual a Ger&ecirc;ncia de Contas dos Poderes Estaduais do TCE-PE atesta, de forma taxativa, a n&atilde;o utiliza&ccedil;&atilde;o, no &acirc;mbito do Estado de Pernambuco, de qualquer recurso do Fundeb para pagamento de inativos e pensionistas.<br /> <br />&ldquo;O pagamento dos aposentados e pensionistas &eacute; realizado pelo Funafin e esse fundo n&atilde;o utilizou recursos do Fundeb para realizar suas despesas no per&iacute;odo questionado&rdquo;, assevera o documento.</p>
+<p>A &aacute;rea t&eacute;cnica do TCE tamb&eacute;m registra na resposta ao MPF e MPCO-PE, n&atilde;o inclu&iacute;da na representa&ccedil;&atilde;o, que &ldquo;n&atilde;o houve inclus&atilde;o de qualquer valor de despesa contabilizada com pagamento de aposentadorias e pens&otilde;es com pagamento de aposentadorias e pens&otilde;es efetuados pelo Funafin, o que ocorre diante da impossibilidade legal de se trazer a esse c&aacute;lculo parcelas de despesas com essa natureza (servidores inativos/pensionistas)&rdquo;.</p>
+{% endraw %}

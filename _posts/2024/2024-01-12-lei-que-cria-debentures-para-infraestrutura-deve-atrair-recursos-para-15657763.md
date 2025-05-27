@@ -1,0 +1,36 @@
+---
+id: 15657763
+date: "2024-01-12T11:47:50Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "pernambuco"
+categories:
+  - "sem-categoria"
+title: "Lei que cria deb\u00eantures para infraestrutura deve atrair recursos para novos projetos em Pernambuco"
+sutia: "Suape, Compesa e Coperg\u00e1s s\u00e3o exemplos de companhias que podem se beneficiar dessa nova sa\u00edda para captar recursos"
+chapeu: "Investimentos"
+autor: "Do NE10 Com informa\u00e7\u00f5es de Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/10/12/area_do_futuro_tup_maersk_em_suape-24599606.jpg"
+---
+{% raw %}
+<p>Ap&oacute;s a san&ccedil;&atilde;o sem vetos do projeto de lei que cria deb&ecirc;ntures de infraestrutura por concession&aacute;rias de servi&ccedil;os p&uacute;blicos, esta semana, cresce a esperan&ccedil;a de que recursos privados viabilizem obras estruturadoras importantes para a economia e desenvolvimento do pa&iacute;s, principalmente no Nordeste.</p>
+<p>A proposta foi aprovada no Congresso no fim do ano passado e &eacute; vista como uma sa&iacute;da para atrair a capta&ccedil;&atilde;o de investimentos privados para projetos de investimento ou de produ&ccedil;&atilde;o econ&ocirc;mica intensiva em pesquisa, desenvolvimento e inova&ccedil;&atilde;o.</p>
+<p>Deb&ecirc;ntures s&atilde;o t&iacute;tulos emitidos por empresas -neste caso concession&aacute;rias de servi&ccedil;os p&uacute;blicos, negoci&aacute;veis no mercado e dispon&iacute;veis para compra de pessoas f&iacute;sicas ou jur&iacute;dicas. Os t&iacute;tulos podem ser emitidos at&eacute; o fim do ano de 2030 por concession&aacute;rias, permission&aacute;rias e companhias autorizadas a explorar servi&ccedil;os p&uacute;blicos.</p>
+<p>A medida diminui a depend&ecirc;ncia dos recursos p&uacute;blicos para implementa&ccedil;&atilde;o e realiza&ccedil;&atilde;o de projetos estruturadores, cruciais para o desenvolvimento do Nordeste, que precisa acelerar a gera&ccedil;&atilde;o de empregos e renda.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/01/12/120x80/1_sem_titulo-26063505.jpeg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'65a150fa03a82', 'cd_midia':26063505, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/01/12/sem_titulo-26063505.jpeg', 'ds_midia': 'Gustavo Monteiro diz que, ainda com foco em Pernambuco, a nova lei pode atrair novos recursos para empresas do sistema de transporte de passageiros, como as que operam os aeroportos (Aena), fornecimento de energia (neoenergia) as de rodovias (rota do Atl&acirc;ntico) e saneamento (BRK). ', 'ds_midia_credi': 'Divulga&ccedil;&atilde;o', 'ds_midia_titlo': 'Gustavo Monteiro diz que, ainda com foco em Pernambuco, a nova lei pode atrair novos recursos para empresas do sistema de transporte de passageiros, como as que operam os aeroportos (Aena), fornecimento de energia (neoenergia) as de rodovias (rota do Atl&acirc;ntico) e saneamento (BRK). ', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '1632', 'align': 'Left'}"><figure style="width:1632;height:1224;">
+			<img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/01/12/sem_titulo-26063505.jpeg" alt="Divulga&ccedil;&atilde;o" title="Gustavo Monteiro diz que, ainda com foco em Pernambuco, a nova lei pode atrair novos recursos para empresas do sistema de transporte de passageiros, como as que operam os aeroportos (Aena), fornecimento de energia (neoenergia) as de rodovias (rota do Atl&acirc;ntico) e saneamento (BRK). ">
+		<figcaption class='text-left'>
+			Gustavo Monteiro diz que, ainda com foco em Pernambuco, a nova lei pode atrair novos recursos para empresas do sistema de transporte de passageiros, como as que operam os aeroportos (Aena), fornecimento de energia (neoenergia) as de rodovias (rota do Atl&acirc;ntico) e saneamento (BRK).  - <strong>Divulga&ccedil;&atilde;o</strong>
+		</figcaption>
+	</figure></tinymce></p>
+<p>Segundo o especialista em Direito Administrativo Gustavo Monteiro, s&oacute;cio de PMZ Advogados, a lei deve diversificar os setores que poder&atilde;o oferecer deb&ecirc;ntures, alcan&ccedil;ando projetos com foco em efici&ecirc;ncia energ&eacute;tica, unidades de conserva&ccedil;&atilde;o ambiental, servi&ccedil;os de sa&uacute;de e educa&ccedil;&atilde;o, por exemplo.</p>
+<p>&ldquo;Mas tudo depende da capacidade das companhias e permission&aacute;rias em modular os projetos, garantindo fluxo de caixa e mantendo as equilibradas as contas, projetando o resgate das deb&ecirc;ntures emitidas nos prazos fixados&rdquo;, afirma.</p>
+<p>A expectativa &eacute; que Lei n&ordm; 14.801/2023 amplie as possibilidades de investimento em projetos de energia, transporte, abastecimento d&rsquo;&aacute;gua, saneamento b&aacute;sico e irriga&ccedil;&atilde;o.</p>
+<p>&rdquo;No que se refere a Pernambuco, por exemplo, a Compesa &eacute; uma forte candidata a receber aportes financeiros viabilizado atrav&eacute;s das deb&ecirc;ntures da infraestrutura&rdquo;, prev&ecirc; Monteiro. Tamb&eacute;m existe uma an&aacute;lise que fundos de pens&atilde;o e de previd&ecirc;ncia se beneficiem de um mercado secund&aacute;rio, mais aquecido para os ativos n&atilde;o incentivados.</p>
+<p>De acordo com Gustavo Monteiro, ainda com foco em Pernambuco, a lei pode atrair novos recursos para empresas do sistema de transporte de passageiros, como as que operam os aeroportos (Aena), fornecimento de energia (neoenergia) as de rodovias (rota do Atl&acirc;ntico) e saneamento (BRK).</p>
+<p>&ldquo;Na pr&aacute;tica, todas essas empresas podem considerar captar recursos para ampliar as opera&ccedil;&otilde;es j&aacute; em andamento. No entanto, o que entra no radar s&atilde;o os novos projetos que podem considerar essa nova fonte de financiamento no planejamento das futuras concess&otilde;es e PPPs&rdquo;, informa.</p>
+<p>Segundo Bernardo Mascarenhas da SSG Capital, as deb&ecirc;ntures de infraestrutura foram criadas com a finalidade dos emissores acessarem, de forma mais competitiva, uma grande fatia de funding do mercado, que n&atilde;o via atrativos nas deb&ecirc;ntures incentivadas &ndash; os investidores institucionais.</p>
+<p>&ldquo;Agora, com os novos pap&eacute;is e possibilidades, a tend&ecirc;ncia &eacute; que as emiss&otilde;es tenham um spread maior, capaz de compensar o benef&iacute;cio capturado pelos emissores, tornando o incentivo no setor de infraestrutura mais tang&iacute;vel para todos os investidores&rdquo;, prev&ecirc;.</p>
+<p>Deb&ecirc;ntures s&atilde;o t&iacute;tulos de cr&eacute;dito representativos de empr&eacute;stimos emitidos por empresas, negoci&aacute;veis no mercado e que podem ser adquiridos por pessoas f&iacute;sicas ou jur&iacute;dicas. A expectativa &eacute; que a Lei n&ordm; 14.801/2023 amplie as possibilidades de investimento em projetos de energia, transporte, abastecimento d&rsquo;&aacute;gua, saneamento b&aacute;sico e irriga&ccedil;&atilde;o.</p>
+{% endraw %}

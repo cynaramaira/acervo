@@ -1,0 +1,47 @@
+---
+id: 13618730
+date: "2021-10-27T14:19:00Z"
+last_modified_at: null
+tags:
+  - "democratas"
+  - "priscila-krause"
+  - "recife"
+categories:
+  - "sem-categoria"
+title: "Vereador do Recife encontra instrumentos musicais de R$ 10,9 milh\u00f5es comprados pela PCR"
+sutia: "Em julho passado, em nota ao blog, empresa de equipamentos musicais rebateu questionamentos de Priscila Krause e reclamou de calote da PCR"
+chapeu: "Dois meses"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/27/image_6483441_1_-19354443.jpg"
+---
+{% raw %}
+<p><a href="https://jc.ne10.uol.com.br/blogs/jamildo/2021/08/13030388-vereador-promove-busca-de-instrumentos-musicais-de-rs-108-milhoes-no-almoxarifado-da-pcr-e-diz-ter-sido-barrado.html" target="_blank" rel="noopener noreferrer">Depois de quebrar a cara ao tentar entrar e ter sido barrado no almoxarifado da PCR,</a> no Recife, o vereador do Recife Alcides Cardoso (DEM) esteve na manh&atilde; desta quarta-feira (27) num galp&atilde;o do Condom&iacute;nio Log&iacute;stico de Armazenagem de Suape (CLAS), no Cabo de Santo Agostinho, onde a Secretaria de Educa&ccedil;&atilde;o do Recife est&aacute; armazenando os quatorze mil equipamentos musicais comprados nos &uacute;ltimos dias da gest&atilde;o do ex-prefeito Geraldo J&uacute;lio (PSB).</p>
+<p>De acordo com o vereador,&nbsp; o cen&aacute;rio encontrado evidenciaria o &ldquo;desperd&iacute;cio&rdquo; e a &ldquo;m&aacute; gest&atilde;o&rdquo; dos governos do PSB perante a rede de educa&ccedil;&atilde;o municipal.</p>
+<ul>
+<li><strong><a href="https://jc.ne10.uol.com.br/blogs/jamildo/2021/10/13617837-caminho-do-pp-em-2022-e-ao-lado-do-psb-diz-romero-albuquerque-ao-reafirmar-apoio-do-partido-a-frente-popular.html" target="_blank" rel="noopener noreferrer">"Caminho do PP em 2022 &eacute; ao lado do PSB", diz Romero Albuquerque ao reafirmar apoio do partido &agrave; Frente Popular</a></strong></li>
+<li><strong><a href="https://jc.ne10.uol.com.br/blogs/jamildo/2021/10/13614043-operacao-da-pf-apura-corrupcao-de-funcionarios-do-governo-de-pernambuco-secretario-e-alvo.html" target="_blank" rel="noopener noreferrer">Opera&ccedil;&atilde;o da PF apura corrup&ccedil;&atilde;o de funcion&aacute;rios do Governo de Pernambuco; secret&aacute;rio &eacute; alvo</a></strong><br /></li>
+</ul>
+<p>&ldquo;Encontramos os instrumentos encaixotados e empilhados h&aacute; dez meses, alguns deles j&aacute; com mofo na capa, retratando como o dinheiro da educa&ccedil;&atilde;o &eacute; mal utilizado. S&atilde;o quase onze milh&otilde;es de reais comprados secretamente sem qualquer utilidade para melhorar a educa&ccedil;&atilde;o do munic&iacute;pio&rdquo;, disse.</p>
+<p>A <a href="https://jc.ne10.uol.com.br/blogs/jamildo/2021/07/13016113-priscila-krause-rebate-empresa-e-reafirma-questionamentos-para-compra-secreta-deequipamentos-musicais-pela-pcr.html" target="_blank" rel="noopener noreferrer">reclama&ccedil;&atilde;o </a>come&ccedil;ou com a deputada estadual do Democratas Priscila Krause, que j&aacute; foi vereadora do Recife.</p>
+<p>Ap&oacute;s a visita, o vereador disse que est&aacute; protocolando of&iacute;cio junto ao Tribunal de Contas do Estado de Pernambuco (TCE-PE) para solicitar audi&ecirc;ncia com a conselheira Teresa Duere, relatora das contas da Secretaria de Educa&ccedil;&atilde;o do Recife no atual exerc&iacute;cio.</p>
+<p>"H&aacute; em vig&ecirc;ncia uma recomenda&ccedil;&atilde;o da conselheira para que a gest&atilde;o municipal n&atilde;o fa&ccedil;a nenhum pagamento &agrave; empresa vendedora dos instrumentos, a Brink Mobil Equipamentos Educacionais Ltda., investigada pela Pol&iacute;cia Federa por ind&iacute;cios de irregularidades na Para&iacute;ba", diz.</p>
+<p>Conforme acompanhamento do gabinete do vereador, dos R$ 10,8 milh&otilde;es comprados, a gest&atilde;o municipal teria pago R$ 5,2 milh&otilde;es, restando R$ 5,6 milh&otilde;es a serem pagos.</p>
+<p>&ldquo;N&atilde;o faz o menor sentido o Recife ter esse gasto, baseado numa contrata&ccedil;&atilde;o fraudulenta, para a cria&ccedil;&atilde;o de quinhentas bandas escolares diante da realidade que temos na rede municipal. Temos hoje doze bandas e apenas dezenove professores de m&uacute;sica. Defendo que a Prefeitura devolva os equipamentos e receba o dinheiro de volta para investir no que de fato precisamos, como em creche&rdquo;, afirmou Alcides.</p>
+<p>Outro ponto levantado pelo vereador na visita diz respeito ao galp&atilde;o onde os instrumentos est&atilde;o armazenados.</p>
+<p>"Trata-se de outra compra sem licita&ccedil;&atilde;o dos &uacute;ltimos dias da gest&atilde;o Geraldo Julio que est&aacute; sendo questionada nos &oacute;rg&atilde;os de controle estaduais. Segundo auditoria do TCE-PE, que tamb&eacute;m suspendeu os pagamentos dessa aquisi&ccedil;&atilde;o, h&aacute; um sobrepre&ccedil;o de R$ 4,0 milh&otilde;es no valor negociado."</p>
+<p>"A Prefeitura &eacute; do Recife, mas a Secretaria de Educa&ccedil;&atilde;o armazena parte dos itens num galp&atilde;o na Muribeca, em Jaboat&atilde;o, e outra parte aqui no Cabo, num galp&atilde;o comprado tamb&eacute;m com graves ind&iacute;cios de irregularidades. N&oacute;s estamos falando de um conjunto de gastos feitos nos &uacute;ltimos dias da gest&atilde;o Geraldo Julio que soma vinte e cinco milh&otilde;es de reais. O prefeito precisa se posicionar sobre essa heran&ccedil;a&rdquo;, diz.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/27/120x80/1_unnamed-19354489.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'61798b2b25c78', 'cd_midia':19354489, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/27/unnamed-19354489.jpg', 'ds_midia': 'O vereador reclamou que algumas caixas estavam mofadas', 'ds_midia_credi': 'Phillipe Jonathan/Divulga&ccedil;&atilde;o', 'ds_midia_titlo': 'O vereador reclamou que algumas caixas estavam mofadas', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '815', 'align': 'Left'}"><figure style="width:815;height:1224;">
+  <img loading="lazy" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/27/unnamed-19354489.jpg" alt="Phillipe Jonathan/Divulga&ccedil;&atilde;o"  title="O vereador reclamou que algumas caixas estavam mofadas">
+  <figcaption class='text-left'>O vereador reclamou que algumas caixas estavam mofadas - <strong>Phillipe Jonathan/Divulga&ccedil;&atilde;o</strong></figcaption>
+</figure></tinymce></p>
+<p>Os questionamentos a respeito da compra dos instrumentos musicais foram inicialmente levantados no m&ecirc;s de julho pela deputada estadual Priscila Krause (DEM).</p>
+<p>De acordo com a parlamentar, a Prefeitura do Recife comprou os 14 mil equipamentos profissionais atrav&eacute;s de uma carona numa ata de registro de pre&ccedil;os de um cons&oacute;rcio de munic&iacute;pios mineiro.</p>
+<p>"N&atilde;o houve qualquer publica&ccedil;&atilde;o &ndash; que &eacute; obrigat&oacute;ria &ndash; da contrata&ccedil;&atilde;o no Di&aacute;rio Oficial ou no Portal da Transpar&ecirc;ncia. At&eacute; hoje essa publica&ccedil;&atilde;o n&atilde;o ocorreu. Tamb&eacute;m n&atilde;o houve registro sobre a compra milion&aacute;ria na imprensa oficial da Prefeitura do Recife. O Minist&eacute;rio P&uacute;blico do Estado de Pernambuco (MPPE) instaurou um inqu&eacute;rito civil para apurar os ind&iacute;cios de irregularidade na compra."<br /></p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[13016086],'cd_matia':'13016086','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/blogs/jamildo/2021/07/13016086-empresa-de-equipamentos-musicais-rebate-questionamentos-de-priscila-krause.html">Empresa de equipamentos musicais rebate questionamentos de Priscila Krause e reclama de calote da PCR</a></li>
+        </ul>
+</div></tinymce></p>
+<p>Ao Blog, o&nbsp;vereador e l&iacute;der do governo Samuel Salazar(MDB) respondeu:</p>
+<p>"A Secretaria de Educa&ccedil;&atilde;o do Recife ratifica a lisura do processo de aquisi&ccedil;&atilde;o de sete mil instrumentos musicais para a Rede Municipal de Ensino do Recife e informa que est&aacute; &agrave; disposi&ccedil;&atilde;o dos &oacute;rg&atilde;os de fiscaliza&ccedil;&atilde;o e controle para prestar eventuais esclarecimentos, como tamb&eacute;m j&aacute; o fez junto ao Tribunal de Contas do Estado (TCE). A aquisi&ccedil;&atilde;o dos instrumentos visa ampliar a utiliza&ccedil;&atilde;o da arte e cultura enquanto ferramentas de inclus&atilde;o e desenvolvimento de habilidades, ampliando os projetos nessas &aacute;reas e trazendo benef&iacute;cios diretos a mais de 18 mil estudantes da Rede".</p>
+{% endraw %}

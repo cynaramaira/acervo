@@ -1,0 +1,52 @@
+---
+id: 15062619
+date: "2022-08-13T14:39:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "masterboi"
+  - "empregos"
+  - "agreste-de-pernambuco"
+categories:
+  - "sem-categoria"
+title: "Pernambuco ter\u00e1 o maior frigor\u00edfico do Nordeste; saiba quem \u00e9 o dono"
+sutia: "Confira onde ser\u00e1 e a quem pertence a maior frigor\u00edfica do Nordeste, que ser\u00e1 inaugurada nesta segunda-feira"
+chapeu: "Mais empregos"
+autor: "Jamildo Melo, Ant\u00f4nio Gois"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/28/masterboi1-19359380.jpg"
+---
+{% raw %}
+<p>Nesta segunda-feira (15) ser&aacute; inaugurada a primeira planta industrial frigor&iacute;fica da <a href="https://jc.ne10.uol.com.br/search/?q=masterboi" target="_blank" rel="noopener noreferrer"><strong>Masterboi</strong> </a>no Nordeste. O local &eacute; a cidade de Canhotinho, <a href="https://jc.ne10.uol.com.br/colunas/jamildo/2022/07/15054677-quando-comecam-as-obras-da-multinacional-portuguesa-que-vai-se-instalar-no-agreste-de-pernambuco.html" target="_blank" rel="noopener noreferrer">Agreste de Pernambuco</a>, a 206 quil&ocirc;metros de Recife.<br /></p>
+<p>Instalado numa &aacute;rea de 111 hectares, com 21 mil metros quadrados de &aacute;rea constru&iacute;da, o novo frigor&iacute;fico industrial tem capacidade de abater 700 cabe&ccedil;as de gado por dia, al&eacute;m de ovinos, caprinos e su&iacute;nos.</p>
+<h2>MASTERBOI</h2>
+<p>A <a href="https://www.masterboi.com.br/" target="_blank" rel="noopener noreferrer">empresa foi fundada h&aacute; 22 anos</a>, mant&eacute;m sua sede no Recife e est&aacute; entre os maiores frigor&iacute;ficos do pa&iacute;s, com duas unidades industriais na Regi&atilde;o Norte - uma em Nova Olinda, no Tocantins; e outra em S&atilde;o Geraldo do Araguaia, no Par&aacute;.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/08/12/120x80/1_1_masterboi_canhotinho__pe____credito_vision_producoes-21541150.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'62f6aa10430db', 'cd_midia':21541150, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/08/12/1_masterboi_canhotinho__pe____credito_vision_producoes-21541150.jpg', 'ds_midia': 'POT&Ecirc;NCIA Novo frigor&iacute;fico pode abater 700 cabe&ccedil;as de gado por dia, al&eacute;m de ovinos, caprinos e su&iacute;nos', 'ds_midia_credi': 'DIVULGA&Ccedil;&Atilde;O', 'ds_midia_titlo': 'POT&Ecirc;NCIA Novo frigor&iacute;fico pode abater 700 cabe&ccedil;as de gado por dia, al&eacute;m de ovinos, caprinos e su&iacute;nos', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '688', 'align': 'Left'}"><figure style="width:688;height:1224;">
+  <img loading="lazy" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/08/12/1_masterboi_canhotinho__pe____credito_vision_producoes-21541150.jpg" alt="DIVULGA&Ccedil;&Atilde;O"  title="POT&Ecirc;NCIA Novo frigor&iacute;fico pode abater 700 cabe&ccedil;as de gado por dia, al&eacute;m de ovinos, caprinos e su&iacute;nos">
+  <figcaption class='text-left'>POT&Ecirc;NCIA Novo frigor&iacute;fico pode abater 700 cabe&ccedil;as de gado por dia, al&eacute;m de ovinos, caprinos e su&iacute;nos - <strong>DIVULGA&Ccedil;&Atilde;O</strong></figcaption>
+</figure></tinymce></p>
+<h2><br /></h2>
+<p>O diretor-propriet&aacute;rio da empresa, <strong>Nelson Bezerra,</strong>&nbsp;reafirmou que a escolha por Canhotinho foi acertada e renovou a confian&ccedil;a no &ecirc;xito da nova unidade, a primeira do Nordeste.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/07/27/120x80/1_portonoagreste-21431090.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'62e13a7f5dd3e', 'cd_midia':21431090, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/07/27/portonoagreste-21431090.jpg', 'ds_midia': '&Aacute;lvaro Porto, a prefeita de Canhotinho, Sandra Paes, e Nelson Bezerra, da Masterboi', 'ds_midia_credi': 'Canhotinho/divulga&ccedil;&atilde;o', 'ds_midia_titlo': '&Aacute;lvaro Porto, a prefeita de Canhotinho, Sandra Paes, e Nelson Bezerra, da Masterboi', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '918', 'align': 'Left'}"><figure style="width:918;height:1224;">
+  <img loading="lazy" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/07/27/portonoagreste-21431090.jpg" alt="Canhotinho/divulga&ccedil;&atilde;o"  title="&Aacute;lvaro Porto, a prefeita de Canhotinho, Sandra Paes, e Nelson Bezerra, da Masterboi">
+  <figcaption class='text-left'>&Aacute;lvaro Porto, a prefeita de Canhotinho, Sandra Paes, e Nelson Bezerra, da Masterboi - <strong>Canhotinho/divulga&ccedil;&atilde;o</strong></figcaption>
+</figure></tinymce></p>
+<p>A empresa apresenta-se como o maior frigor&iacute;fico industrial do Nordeste e o &uacute;nico a operar com o Servi&ccedil;o de Inspe&ccedil;&atilde;o Federal (SIF) na regi&atilde;o, no caso agora o <a href="https://jc.ne10.uol.com.br/colunas/jamildo/2022/04/14995362-apos-visita-de-portugueses-cresce-expectativa-por-industria-de-estofados-no-agreste.html" target="_blank" rel="noopener noreferrer">Agreste de Pernamnbuco.</a></p>
+<p>"A nova unidade segue o padr&atilde;o de qualidade Masterboi, que garante o acesso aos mercados nacional e internacional, e, inicialmente, poder&aacute; exportar para os pa&iacute;ses do bloco Lista Brasil, do Minist&eacute;rio da Agricultura, Pecu&aacute;ria e Abastecimento (MAPA)", diz.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/11/20/120x80/1_masterboi_canhotinho_3-19469497.jpeg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'61992cd1cb00b', 'cd_midia':19469497, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/11/20/masterboi_canhotinho_3-19469497.jpeg', 'ds_midia': 'Nnova f&aacute;brica da Masterboi conta com um investimento superior a R$ 120 milh&otilde;es', 'ds_midia_credi': 'H&eacute;lia Scheppa/SEI', 'ds_midia_titlo': 'Nnova f&aacute;brica da Masterboi conta com um investimento superior a R$ 120 milh&otilde;es', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '815', 'align': 'Left'}"><figure style="width:815;height:1224;">
+  <img loading="lazy" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/11/20/masterboi_canhotinho_3-19469497.jpeg" alt="H&eacute;lia Scheppa/SEI"  title="Nnova f&aacute;brica da Masterboi conta com um investimento superior a R$ 120 milh&otilde;es">
+  <figcaption class='text-left'>Nnova f&aacute;brica da Masterboi conta com um investimento superior a R$ 120 milh&otilde;es - <strong>H&eacute;lia Scheppa/SEI</strong></figcaption>
+</figure></tinymce></p>
+<h2>Como come&ccedil;ou a Masterboi?</h2>
+<p>Em outubro do ano passado, o canteiro de obras do frigor&iacute;fico da Masterboi, em Canhotinho, recebeu at&eacute; a <a href="https://jc.ne10.uol.com.br/blogs/jamildo/2021/10/13611988-decio-padilha-se-movimenta-pelo-interior-e-visita-obras-da-masterboi-em-canhotinho.html" target="_blank" rel="noopener noreferrer">visita do secret&aacute;rio estadual da Fazenda, D&eacute;cio Padilha.</a></p>
+<p>Padilha foi conhecer as futuras instala&ccedil;&otilde;es do empreendimento que iria ser inaugurado em dezembro de 2021, mas foi adiado. Ele esteve ao lado do diretor de Controle e Acompanhamentos de Benef&iacute;cios Fiscais, Elias Alexandrino da Silva J&uacute;nior, e do diretor geral de Planejamento e Controle da A&ccedil;&atilde;o Fiscal da pasta, Cristiano Henrique Arag&atilde;o Dias.</p>
+<p>No nao passado, o estado havia anunciado a licita&ccedil;&atilde;o das obras de terraplanagem, drenagem, pavimenta&ccedil;&atilde;o, sinaliza&ccedil;&atilde;o e ilumina&ccedil;&atilde;o do acesso &agrave; f&aacute;brica da Masterboi.</p>
+<p>A Prefeitura de Canhotinho j&aacute; tinha investido R$ 3 milh&otilde;es na terraplanagem da &aacute;rea constru&iacute;da pelo grupo empresarial, de modo a garantir um investimento de R$ 120 milh&otilde;es e a gera&ccedil;&atilde;o de 800 empregos diretos e outros tr&ecirc;s mil indiretos.</p>
+<p><iframe src="https://player.mais.uol.com.br/?mediaId=17085460&amp;type=video" width="100%" height="290" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Na visita, o secret&aacute;rio foi recepcionado pelo conselheiro do Tribunal de Contas do Estado Carlos Porto. Acompanharam a visita o deputado estadual &Aacute;lvaro Porto (PTB), a prefeita de Canhotinho, Sandra Paes (DEM), o ex-prefeito Felipe Porto, o diretor administrativo da Masterboi, Miguel Zaidan, e ainda Valdir Macedo e Jailson Leite, grupo que trabalhou pela ida da Masterboi para a regi&atilde;o.</p>
+<p>Na mesma visita, antes do clima eleitoral atual, um dos principais articuladores da ida da Masterboi para Canhotinho, &Aacute;lvaro Porto, ressaltou a parceria produtiva firmada com o presidente da empresa, Nelson Bezerra, e o diretor administrativo do grupo, Miguel Zaidan.</p>
+<p>&ldquo;Num per&iacute;odo de tanta retra&ccedil;&atilde;o da economia, estamos comemorando a nova realidade que vem sendo constru&iacute;da com trabalho e alto investimento, gerando crescimento e possibilidade de melhores dias para a popula&ccedil;&atilde;o do Agreste Meridional e Mata Sul&rdquo;, disse.<br /></p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/09/120x80/1_unnamed-19276676.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'6161ea7e88e8c', 'cd_midia':19276676, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/09/unnamed-19276676.jpg', 'ds_midia': 'Alvaro Porto recebe D&eacute;cio Padilha em Canhotinho', 'ds_midia_credi': 'Divulga&ccedil;&atilde;o', 'ds_midia_titlo': 'Alvaro Porto recebe D&eacute;cio Padilha em Canhotinho', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '918', 'align': 'Left'}"><figure style="width:918;height:1224;">
+  <img loading="lazy" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/09/unnamed-19276676.jpg" alt="Divulga&ccedil;&atilde;o"  title="Alvaro Porto recebe D&eacute;cio Padilha em Canhotinho">
+  <figcaption class='text-left'>Alvaro Porto recebe D&eacute;cio Padilha em Canhotinho - <strong>Divulga&ccedil;&atilde;o</strong></figcaption>
+</figure></tinymce></p>
+{% endraw %}

@@ -1,0 +1,36 @@
+---
+id: 12555122
+date: "2017-08-03T10:19:26Z"
+last_modified_at: null
+tags:
+  - "contran"
+  - "marina-lima"
+  - "michel-temer"
+  - "pensilvania"
+categories:
+  - "noticias"
+title: "'Repugnante', diz Marina Silva sobre rejei\u00e7\u00e3o da den\u00fancia contra Temer"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/12/Marina-Silva.jpg"
+---
+{% raw %}
+<p><p><em>Estadão Conteúdo</em> - Potencial candidata à Presidência pela Rede Sustentabilidade, a ex-senadora e ex-ministra Marina Silva publicou um vídeo na madrugada desta quinta-feira (3), após a votação da Câmara que barrou a denúncia contra o presidente Michel Temer (PMDB). Crítica do arquivamento da acusação, Marina chamou resultado de "repugnante" e disse que recebeu a notícia com "grande indignação".</p></p>
+<p><p>A ex-ministra também defendeu que o crescimento econômico, justificativa usada por muitos parlamentares que votaram a favor do presidente, "não pode ser transformado em sinônimo de impunidade"</p></p>
+<p><div class="m_7201643464448240100gmail-m_6901919525833153530m_7913616339337524339m_8721009274102761844gmail-m_2310277856716373669m_-4434290181110550327m_-7842010543915484812m_-9065886205600608602gmail-m_-5555661846895261094gmail_msg">LEIA TAMBÉM</div></p>
+<p><div class="m_7201643464448240100gmail-m_6901919525833153530m_7913616339337524339m_8721009274102761844gmail-m_2310277856716373669m_-4434290181110550327m_-7842010543915484812m_-9065886205600608602gmail-m_-5555661846895261094gmail_msg">» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/02/apos-articulacao-com-base-temer-escapa-de-denuncia-por-corrupcao-passiva/">Após articulação com a base, Temer escapa de denúncia por corrupção passiva</a></div></p>
+<p><div class="m_7201643464448240100gmail-m_6901919525833153530m_7913616339337524339m_8721009274102761844gmail-m_2310277856716373669m_-4434290181110550327m_-7842010543915484812m_-9065886205600608602gmail-m_-5555661846895261094gmail_msg"></p>
+<p><div class="m_7201643464448240100gmail-m_6901919525833153530m_7913616339337524339m_8721009274102761844gmail-m_2310277856716373669m_-4434290181110550327m_-7842010543915484812m_-9065886205600608602gmail-m_-5555661846895261094gmail_msg">» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/03/danilo-cabral-arquivamento-da-denuncia-foi-um-tapa-na-cara-da-sociedade/">Danilo Cabral: arquivamento da denúncia foi um tapa na cara da sociedade</a></div></p>
+<p><div class="m_7201643464448240100gmail-m_6901919525833153530m_7913616339337524339m_8721009274102761844gmail-m_2310277856716373669m_-4434290181110550327m_-7842010543915484812m_-9065886205600608602gmail-m_-5555661846895261094gmail_msg"><span class="m_7201643464448240100gmail-m_6901919525833153530m_7913616339337524339m_8721009274102761844gmail-m_2310277856716373669m_-4434290181110550327m_-7842010543915484812m_-9065886205600608602gmail-m_-5555661846895261094gmail_msg">» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/02/ministro-que-foi-342o-voto-no-impeachment-diz-que-sim-por-temer-e-ao-pais/">Ministro que foi 342º voto no impeachment diz que ‘sim’ por Temer é ‘ao País’</a></span></div></p>
+<p></div></p>
+<p><p>"É com grande indignação que recebemos o resultado da votação que decidiu absolver o presidente Temer da grave denuncia por corrupção passiva feita pelo Ministério Público Federal", disse em vídeo publicado em seu Twitter.</p></p>
+<p><p>A ex-ministra falou, ainda, que os parlamentares que votaram a favor do relatório de Paulo Abi-Ackel (PSDB-MG) e, portanto, a favor de Temer, estão "na contramão do que deseja a sociedade brasileira". "Duzentos e sessenta e três senhores deputados, na contramão do que deseja a sociedade brasileira, decidiram absolver o presidente Temer com a desculpa de que o Brasil precisa voltar a crescer", disse.</p></p>
+<p><div class="m_7201643464448240100gmail-m_6901919525833153530m_7913616339337524339m_8721009274102761844gmail-m_2310277856716373669m_-4434290181110550327m_-7842010543915484812m_-9065886205600608602gmail-m_-5555661846895261094gmail_msg">» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/02/veja-como-votaram-os-pernambucanos-sobre-denuncia-contra-temer/">Veja como votaram os pernambucanos sobre a denúncia contra Temer</a></div></p>
+<p><div class="m_7201643464448240100gmail-m_6901919525833153530m_7913616339337524339m_8721009274102761844gmail-m_2310277856716373669m_-4434290181110550327m_-7842010543915484812m_-9065886205600608602gmail-m_-5555661846895261094gmail_msg"><span class="m_7201643464448240100gmail-m_6901919525833153530m_7913616339337524339m_8721009274102761844gmail-m_2310277856716373669m_-4434290181110550327m_-7842010543915484812m_-9065886205600608602gmail-m_-5555661846895261094gmail_msg">» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/02/janot-pede-ao-stf-inclusao-de-temer-no-inquerito-do-quadrilhao-do-pmdb/">Janot pede ao STF inclusão de Temer no inquérito do ‘quadrilhão’ do PMDB</a></span></div></p>
+<p><p>"O crescimento do Brasil não pode ser transformado em sinônimo de impunidade. A estabilidade econômica não pode ser feita na areia movediça do desrespeito ao dinheiro publico e do bom funcionamento das instituições", ressaltou.</p></p>
+<p><p>Sem citar diretamente a Lava Jato, Marina defendeu o apoio ao trabalho do Judiciário, da Polícia Federal e do Ministério Público. "Se eles (deputados governistas) decidiram romper o lanço com aqueles que dizem representar, aí é que nós devemos continuar mobilizados, apoiando o trabalho da Justiça, da Polícia Federal, e do Ministério Público, para que eles nos ajudem a passar o Brasil a limpo."</p></p>
+<p><div class="m_7201643464448240100gmail-m_6901919525833153530m_7913616339337524339m_8721009274102761844gmail-m_2310277856716373669m_-4434290181110550327m_-7842010543915484812m_-9065886205600608602gmail-m_-5555661846895261094gmail_msg">» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/02/votacao-da-denuncia-contra-temer-tem-confusao-e-pixulecos-e-dinheiro-falso-para-o-alto/">Votação da denúncia contra Temer tem confusão e ‘Pixulecos’ e dinheiro falso para o alto</a></div></p>
+<p><div class="m_7201643464448240100gmail-m_6901919525833153530m_7913616339337524339m_8721009274102761844gmail-m_2310277856716373669m_-4434290181110550327m_-7842010543915484812m_-9065886205600608602gmail-m_-5555661846895261094gmail_msg"><span class="m_7201643464448240100gmail-m_6901919525833153530m_7913616339337524339m_8721009274102761844gmail-m_2310277856716373669m_-4434290181110550327m_-7842010543915484812m_-9065886205600608602gmail-m_-5555661846895261094gmail_msg">» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/02/deputado-dorme-durante-discussao-na-camara/">Deputado dorme durante discussão na Câmara na votação da denúncia contra Temer</a></span></div></p>
+<p><p>Nessa quarta-feira (2), os quatro parlamentares da Rede Sustentabilidade votaram contrários a Temer. A ex-senadora já havia publicado um vídeo, na véspera da votação, para pressionar o Congresso a votar pelo encaminhamento da denúncia contra o presidente Michel Temer ao Supremo Tribunal Federal. "Temer precisa ser julgado", disse ela em seu Facebook.</p></p>
+{% endraw %}

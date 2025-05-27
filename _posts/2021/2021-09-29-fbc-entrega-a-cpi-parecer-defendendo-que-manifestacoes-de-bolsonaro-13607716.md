@@ -1,0 +1,25 @@
+---
+id: 13607716
+date: "2021-09-29T12:51:00Z"
+last_modified_at: null
+tags:
+  - "cpi-da-covid-19"
+categories:
+  - "sem-categoria"
+title: "FBC entrega a CPI parecer defendendo que manifesta\u00e7\u00f5es de Bolsonaro est\u00e3o protegidas pela Constitui\u00e7\u00e3o e n\u00e3o podem ser criminalizadas"
+sutia: "Relat\u00f3rio final deve ser apresentado nas pr\u00f3ximas semanas"
+chapeu: "Responsabilidade"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2021/04/fbc.jpg"
+---
+{% raw %}
+<p>O l&iacute;der do governo no Senado, Fernando Bezerra Coelho (MDB-PE), entregou nesta quarta-feira (29) &agrave; CPI da Pandemia um parecer do jurista Ives Gandra Martins que busca afastar a responsabilidade do presidente Jair Bolsonaro na dissemina&ccedil;&atilde;o da Covid-19, refuta a tese de exerc&iacute;cio ilegal da medicina e rebate a hip&oacute;tese de ato de improbidade administrativa na gest&atilde;o da pandemia.</p>
+<p>&ldquo;Na verdade, a enumera&ccedil;&atilde;o das supostas infra&ccedil;&otilde;es que teriam sido cometidas pelo Presidente da Rep&uacute;blica se resume numa colet&acirc;nea de mat&eacute;rias jornal&iacute;sticas, contendo apenas opini&otilde;es publicamente emitidas pelo Presidente, mas n&atilde;o atos administrativos, decis&otilde;es ou determina&ccedil;&otilde;es oficiais. Pode-se at&eacute; verberar as opini&otilde;es como imprudentes ou desabridas, mas n&atilde;o deixam de ser simples opini&otilde;es, amparadas pela liberdade de manifesta&ccedil;&atilde;o, assegurada pelo art. 220 da Constitui&ccedil;&atilde;o Federal&rdquo;, cita o parecer, elaborado por Ives Gandra e outros tr&ecirc;s juristas a pedido do l&iacute;der do governo.<br /></p>
+<p>O documento diz considerar &ldquo;fantasioso" responsabilizar algu&eacute;m pela dissemina&ccedil;&atilde;o da Covid-19 e defende que a participa&ccedil;&atilde;o do presidente em eventos p&uacute;blicos n&atilde;o configura tentativa de expor a vida e a sa&uacute;de dos brasileiros a perigo direto e iminente.</p>
+<p>&ldquo;Em nenhuma dessas ocasi&otilde;es se mostra poss&iacute;vel identificar o elemento dolo na conduta do Presidente da Rep&uacute;blica, nem o vi&eacute;s de promover reuni&otilde;es com o objetivo prec&iacute;puo de colocar em risco a vida e a sa&uacute;de de outrem. N&atilde;o ficou comprovada, em nenhuma circunst&acirc;ncia, que o Presidente da Rep&uacute;blica tenha promovido reuni&otilde;es com a finalidade prec&iacute;pua de frustrar ordens legais ou para fomentar a difus&atilde;o da Covid-19.&rdquo;</p>
+<p>Na avalia&ccedil;&atilde;o dos juristas, a opini&atilde;o do presidente Bolsonaro sobre imunidade de rebanho ou tratamento precoce n&atilde;o constitui pr&aacute;tica de crime contra a sa&uacute;de p&uacute;blica, exerc&iacute;cio ilegal da medicina ou charlatanismo.</p>
+<p>&ldquo;Tem-se que as manifesta&ccedil;&otilde;es do Presidente da Rep&uacute;blica sobre qualquer assunto, inclusive, sobre a efic&aacute;cia de medicamentos ou efeito rebanho se inserem integralmente na prote&ccedil;&atilde;o constitucional da liberdade de express&atilde;o do pensamento e n&atilde;o podem, sob hip&oacute;tese alguma serem criminalizadas. Nesse sentido, qualquer tentativa de atribuir crime contra a humanidade &agrave;s falas do Presidente da Rep&uacute;blica &eacute; criminalizar a opini&atilde;o e aniquilar a liberdade de express&atilde;o.&rdquo;</p>
+<p>Por mais inacredit&aacute;vel que possa parecer, o tal parecer defende a tese de que, por for&ccedil;a da decis&atilde;o do Supremo Tribunal Federal, o papel da Uni&atilde;o no combate &agrave; pandemia ficou bastante reduzido.</p>
+<p>&ldquo;Transferiu-se, &agrave; evid&ecirc;ncia, a responsabilidade direta &agrave;s unidades federativas&rdquo;, concluem os juristas, que tamb&eacute;m se op&otilde;em &agrave; responsabiliza&ccedil;&atilde;o do presidente pelo colapso de oxig&ecirc;nio em Manaus. &ldquo;O Governo Federal empreendeu esfor&ccedil;os, dentro da compet&ecirc;ncia da Uni&atilde;o, no sentido de conter a pandemia da Covid-19. Registre-se que os Estados e munic&iacute;pios t&ecirc;m autonomia e compet&ecirc;ncia para adotarem as medidas que entenderem necess&aacute;rias para conter a pandemia. N&atilde;o se pode igualmente imputar qualquer responsabilidade ao Presidente da Rep&uacute;blica por n&atilde;o ter decretado interven&ccedil;&atilde;o federal no Estado do Amazonas em face da crise de insufici&ecirc;ncia de oxig&ecirc;nio.&rdquo;</p>
+<p>O documento cita que o presidente est&aacute; sujeito a julgamento por duas diferentes modalidades de crimes: infra&ccedil;&otilde;es penais comuns e crimes de responsabilidade. "Nos dois casos, &eacute; absolutamente imprescind&iacute;vel a observ&acirc;ncia da garantia do devido processo legal. Compete privativamente ao Minist&eacute;rio P&uacute;blico, no caso, o Procurador Geral da Rep&uacute;blica promover a acusa&ccedil;&atilde;o do Presidente da Rep&uacute;blica pelo cometimento de infra&ccedil;&atilde;o penal comum, cujo julgamento ser&aacute; feito pelo Supremo Tribunal Federal.&rdquo;</p>
+{% endraw %}

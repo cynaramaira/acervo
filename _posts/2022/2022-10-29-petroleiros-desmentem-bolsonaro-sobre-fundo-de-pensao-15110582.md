@@ -1,0 +1,28 @@
+---
+id: 15110582
+date: "2022-10-29T18:10:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "petrobras"
+categories:
+  - "sem-categoria"
+title: "Petroleiros desmentem Bolsonaro sobre fundo de pens\u00e3o"
+sutia: "Bolsonaro disse na Globo que fundos de pens\u00e3o das estatais sofreram na gest\u00e3o do PT"
+chapeu: "reta final"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/10/28/2022_quem_ganhou_o_debate_presidencial_na_tv_globo_-21959772.jpg"
+---
+{% raw %}
+<p>Veja a nota oficial da Fup <br /></p>
+<p>Nessa reta final da campanha presidencial, a 1 dia das elei&ccedil;&otilde;es do 2&ordm; turno, mais uma grosseira fake news foi lan&ccedil;ada em rede nacional, durante o hor&aacute;rio eleitoral gratuito. A pe&ccedil;a foi veiculada na tentativa de desviar o foco do plano de congelamento das aposentadorias e do sal&aacute;rio m&iacute;nimo defendido publicamente pelo ministro da Economia, Paulo Guedes, do governo Jair Bolsonaro.</p>
+<p>Dessa vez, o alvo das mentiras foram os petroleiros do sistema Petrobr&aacute;s. A campanha do candidato Bolsonaro usou um aposentado da estatal para acusar o governo do ex-presidente Luiz In&aacute;cio Lula da Silva de m&aacute; gest&atilde;o do fundo de pens&atilde;o da categoria, quando o atual governo deveria se explicar sobre as perdas que imp&ocirc;s a mais de 45 milh&otilde;es de brasileiros que sofrem com o arrocho de quatro anos sem reajuste real dos benef&iacute;cios previdenci&aacute;rios.</p>
+<p>&ldquo;Ao contr&aacute;rio da propaganda eleitoral enganosa, quem est&aacute; administrando pessimamente o fundo de pens&atilde;o dos trabalhadores da Petrobr&aacute;s s&atilde;o os gestores indicados pelo governo Bolsonaro. Em apenas um ano (2021), o Plano Petros acumulou um rombo de R 9,360 bilh&otilde;es, o que obrigar&aacute; os aposentados e pensionistas a cobrir esse d&eacute;ficit com mais descontos em seus benef&iacute;cios&rdquo;, afirma o coordenador-geral da Federa&ccedil;&atilde;o &Uacute;nica dos Petroleiros (FUP), Deyvid Bacelar.</p>
+<p>Enquanto os planos Petros amargaram preju&iacute;zos de at&eacute; 4,1% em 2021, os planos de previd&ecirc;ncia complementar de outras estatais, como o Previ (do Banco do Brasil), o Funcef (da Caixa Econ&ocirc;mica Federal) e o Postalis (dos Correios) tiveram rentabilidades entre 6,8%% e 13,2%.</p>
+<p>Bacelar destaca que, sob a gest&atilde;o Bolsonaro, a Petros zerou os contracheques de milhares de aposentados e pensionistas durante v&aacute;rios meses, obrigando-os a recorrer &agrave; Justi&ccedil;a para restabelecer o m&iacute;nimo da dignidade.</p>
+<p>Durante a pandemia da Covid-19, os petroleiros aposentados tiveram que arcar com descontos e reajustes abusivos no plano de sa&uacute;de, que prejudicaram, principalmente, os mais idosos e os que recebem os menores benef&iacute;cios. O governo autorizou que alguns aposentados tivessem reajustes de quase 1.000% no plano de sa&uacute;de.</p>
+<p>Em rela&ccedil;&atilde;o ao fundo de pens&atilde;o, por exemplo, em 2003, o patrim&ocirc;nio do Plano Petros (atualmente, PPSPs) era de R 19,218 bilh&otilde;es. Em 2010, no &uacute;ltimo ano do segundo mandato do governo Lula, o patrim&ocirc;nio do plano tinha mais do que dobrado de valor, ao chegar a R 49, 934 bilh&otilde;es. Nos governos Dilma Rousseff, o fundo de pens&atilde;o dos petroleiros alcan&ccedil;ou um patrim&ocirc;nio superior a R 60 bilh&otilde;es.</p>
+<p>&ldquo;Tamb&eacute;m nesse per&iacute;odo o Plano Petros conquistou um super&aacute;vit hist&oacute;rico, de R 1,162 bilh&otilde;es, em 2009, o equivalente hoje a R 2,462 bilh&otilde;es, corrigidos pelo IPCA&rdquo;, ressalta o dirigente da FUP. Em seus mais de 50 anos de exist&ecirc;ncia, o fundo de pens&atilde;o dos petroleiros sempre apresentou d&eacute;ficits consecutivos, pois foi desenhado para que a massa de trabalhadores do Sistema Petrobr&aacute;s subsidiasse os benef&iacute;cios dos que se aposentam com sal&aacute;rios muito superiores ao teto do INSS. As raras vezes em que o Plano Petros teve super&aacute;vits foram em decorr&ecirc;ncia de mudan&ccedil;as significativas dos indicadores econ&ocirc;micos ou em fun&ccedil;&atilde;o de novos aportes, como aconteceu em 1991, com o aumento da contribui&ccedil;&atilde;o de 11% para 14,9%.</p>
+<p>Ap&oacute;s um longo processo de negocia&ccedil;&atilde;o conduzido pela FUP foi firmado um acordo com a Petrobr&aacute;s e subsidi&aacute;rias, em agosto de 2008, que garantiu ao Plano Petros aportes de cerca de R 6 bilh&otilde;es na &eacute;poca, o equivalente hoje a R 13,4 bilh&otilde;es, corrigidos pelo IPCA. Foi um Acordo de Obriga&ccedil;&otilde;es Rec&iacute;procas (AOR), onde as patrocinadoras do Plano Petros (Petrobr&aacute;s e subsidi&aacute;rias) reconheceram parte das d&iacute;vidas hist&oacute;ricas que tinham com o plano e que eram cobradas pela FUP e seus sindicatos desde o governo de Fernando Henrique Cardoso, por meio de uma A&ccedil;&atilde;o Civil P&uacute;blica, que tramita at&eacute; hoje na Justi&ccedil;a. Por meio do AOR, foi constru&iacute;da uma contribui&ccedil;&atilde;o que variava entre 10% e 13,5% do sal&aacute;rio.</p>
+<p>&ldquo;J&aacute; no governo Bolsonaro, os aposentados e pensionistas est&atilde;o tendo que arcar com descontos abusivos e diversos ataques ao fundo de pens&atilde;o e ao plano de sa&uacute;de, benef&iacute;cios conquistados pela categoria e que est&atilde;o sendo desmontados. A campanha de Bolsonaro distorce para tentar esconder a situa&ccedil;&atilde;o calamitosa em que est&atilde;o vivendo os aposentados e pensionistas&rdquo;, concluiu Bacelar.<br /></p>
+{% endraw %}

@@ -1,0 +1,50 @@
+---
+id: 15077806
+date: "2022-09-10T15:58:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "marilia-arraes"
+categories:
+  - "sem-categoria"
+title: "Lossio \u00e9 escalado para bater em Teresa Leit\u00e3o, ap\u00f3s cr\u00edticas duras \u00e0 Mar\u00edlia Arraes"
+sutia: "Teresa Leit\u00e3o disse que conheceu Mar\u00edlia na elei\u00e7\u00e3o de 2020 e acredita que se ela for eleita ser\u00e1 retrocesso"
+chapeu: "corrida eleitoral"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/09/10/teresaleitao-21693708.jpg"
+---
+{% raw %}
+<p>O ex-prefeito de Petrolina Julio Lossio &ndash; suplente de senador pelo AGIR, aliado de Mar&iacute;lia Arraes, saiu em defesa da candidata do Solidariedade, rebatendo as cr&iacute;ticas que a candidata ao Senado Terela Leit&atilde;o fez a Mar&iacute;lia, na inaugura&ccedil;&atilde;o do comit&ecirc; de Lula, no Recife.<br /></p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[15076695,15076508],'cd_matia':'15076508','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/colunas/jamildo/2022/09/15076508-marilia-sera-um-retrocesso-eu-vivi-a-campanha-dela-pra-prefeita-eu-sei-diz-teresa-leitao.html">'Marília será um retrocesso. Eu vivi a campanha dela pra prefeita, eu sei' diz Teresa Leitão</a></li>
+            <li><a class="link" href="/colunas/jamildo/2022/09/15076695-andre-de-paula-sai-em-defesa-de-marilia-arraes-e-bate-em-teresa-leitao.html">André de Paula sai em defesa de Marília Arraes e bate em Teresa Leitão</a></li>
+        </ul>
+</div></tinymce>&nbsp;</p>
+<p>No artigo intitulado Teresa Leit&atilde;o e a hist&oacute;ria da trai&ccedil;&atilde;o, Lossio fala da pol&ecirc;mica, depois de Andr&eacute; de Paula,que tamb&eacute;m havia sido escalado para a mesma miss&atilde;o. Lossio chama a deputada estadual de marionete do PSB.<br /></p>
+<p>Veja os termos abaixo.</p>
+<p><em>"As campanhas eleitorais passadas n&atilde;o devem ser par&acirc;metro absoluto para an&aacute;lises, t&aacute;ticas e estrat&eacute;gias. As condi&ccedil;&otilde;es e circunst&acirc;ncias s&atilde;o distintas. Cada elei&ccedil;&atilde;o tem suas particularidades e situa&ccedil;&otilde;es pr&oacute;prias, mas n&atilde;o tirar li&ccedil;&otilde;es do passado &eacute; repetir erros, talvez fatais.</em></p>
+<p><em>O ex-governador e ex-deputado federal Roberto Magalh&atilde;es perdeu uma reelei&ccedil;&atilde;o ganha para prefeito do Recife por um ato impensado cometido na reta final da campanha. E a literatura &eacute; pr&oacute;diga em outros exemplos malsucedidos por desvios de condutas.</em></p>
+<p><em>&Eacute; o caso, agora, da candidata a senadora do PT pela Frente Popular, Teresa Leit&atilde;o, que vestiu a carapu&ccedil;a como <strong>ventr&iacute;loqua do PSB.</strong> Logo ela, outrora dura e veemente voz de oposi&ccedil;&atilde;o a todas as a&ccedil;&otilde;es e mazelas do governo Paulo C&acirc;mara na Assembleia Legislativa.</em></p>
+<p><em>Teresa saiu do banco de reservas imoral da comunica&ccedil;&atilde;o do PSB para ser escalada para bater e atacar a candidata Mar&iacute;lia Arraes (Solidariedade) a governadora &ndash; l&iacute;der em todas as pesquisas de opini&atilde;o p&uacute;blica &ndash; esquecendo que, <strong>h&aacute; apenas dois anos atr&aacute;s,</strong> jurava publicamente ser Mar&iacute;lia &ldquo;a lideran&ccedil;a jovem mais competente do Estado&rdquo;.</em></p>
+<p><em>Mais grave: h&aacute; menos de dois anos Teresa assistiu ao l&iacute;der do PSB, <strong>Jo&atilde;o Campos</strong>, ent&atilde;o candidato a prefeito do Recife, afirmar que seus companheiros do PT n&atilde;o cabiam na conta das m&atilde;os dele &ldquo;de t&atilde;o corruptos". E ainda n&atilde;o cabem, vale registrar. Jo&atilde;o assegurou, tamb&eacute;m publicamente, que n&atilde;o nomearia nenhum petista na sua gest&atilde;o para n&atilde;o se contaminar de corrup&ccedil;&atilde;o. E, de fato, n&atilde;o nomeou. Quer dist&acirc;ncia dos "corruptos petistas".</em></p>
+<p><em>&Eacute; essa a contradi&ccedil;&atilde;o que Teresa Leit&atilde;o agora n&atilde;o tem como explicar &agrave; milit&acirc;ncia do PT. Como justificar seus ataques pessoais a Mar&iacute;lia? Como convencer os petistas a n&atilde;o votarem em quem sempre esteve com Lula, e pedir votos para eleger quem comemorou a pris&atilde;o do ex-presidente?</em></p>
+<p><em>Sim, por que Danilo Cabral, candidato a governador apoiado por Teresa Leit&atilde;o, n&atilde;o apenas votou a favor do impeachment de Dilma Rousseff. N&atilde;o apenas renunciou &agrave; fun&ccedil;&atilde;o de secret&aacute;rio de Estado para reassumir seu mandato de deputado federal apenas para dizer &ldquo;sim&rdquo; ao que Teresa, na &eacute;poca, classificava como "golpe". Danilo &eacute; protagonista de uma das cenas mais vergonhosas e deplor&aacute;veis na prega&ccedil;&atilde;o do voto pelo impeachment, ao vivo e a cores, como registram as imagens da sess&atilde;o que consumou o golpe.</em></p>
+<p><em>Fato igualmente irrefut&aacute;vel &ndash; queiram ou n&atilde;o queiram os ju&iacute;zes &ndash; &eacute; que enquanto Mar&iacute;lia Arraes estava nas ruas, junto com Teresa Leit&atilde;o, gritando e mobilizando a milit&acirc;ncia pela liberdade de Lula, onde estava Danilo Cabral?</em></p>
+<p><em>Algu&eacute;m tem alguma imagem ou depoimento do <strong>candidato do PSB</strong> denunciando a pris&atilde;o do ex-presidente<strong> Luiz In&aacute;cio Lula da Silva?</strong></em></p>
+<p><em>Que a candidata Teresa Leit&atilde;o queira, agora, ser marionete dos algozes de Lula e do PT, &eacute; um direito seu. Mas ela n&atilde;o pode exercer a desonestidade intelectual e pol&iacute;tica dos fatos e n&atilde;o ser cobrada pela hist&oacute;ria. Para utilizar as palavras da pr&oacute;pria ex-presidente<strong> Dilma Rousseff:</strong> "a hist&oacute;ria n&atilde;o perdoa a pr&aacute;tica da trai&ccedil;&atilde;o".</em></p>
+<p><em>Arranjos eleitorais produzem esses resultados. O compromisso da forma&ccedil;&atilde;o da Frente Popular tem um objetivo claro, de perpetua&ccedil;&atilde;o do poder pelo poder. Independentemente das contradi&ccedil;&otilde;es evidentes e indisfar&ccedil;&aacute;veis, como a tentativa de uma falsa uni&atilde;o com Lula.</em></p>
+<p><em>&Eacute; essa a diferen&ccedil;a maior entre o nosso projeto, sob a lideran&ccedil;a de Mar&iacute;lia e do nosso candidato a senador, Andr&eacute; de Paula. Nossa unidade foi constru&iacute;da sobre prop&oacute;sitos claros, transparentes. N&atilde;o distorcemos os fatos nem a hist&oacute;ria de cada um de n&oacute;s. O povo tem ci&ecirc;ncia de que nos unimos, os diferentes, para vencer as dificuldades e quest&otilde;es cr&ocirc;nicas de Pernambuco que o atual governo n&atilde;o deu aten&ccedil;&atilde;o.</em></p>
+<p><em>Por isso meu presidente &eacute; Lula, 13. Minha governadora &eacute; Mar&iacute;lia Arraes, 77. E meu senador &eacute; Andr&eacute; de Paula, 555.</em></p>
+<p><em>Teresa Leit&atilde;o apoiar Danilo e Paulo C&acirc;mara &eacute; estranho, mas &eacute; da pol&iacute;tica. Agora, agredir Mar&iacute;lia do modo como est&aacute; fazendo compactua com o machismo, a misoginia e a redu&ccedil;&atilde;o do<strong> PT a um puxadinho do PSB</strong>, oportunista como sempre".</em></p>
+<h2>Teresa Leit&atilde;o chama a milit&acirc;ncia para a reta final da campanha</h2>
+<p><br />No Recife, aconteceu neste s&aacute;bado um mobiliza&ccedil;&atilde;o em favor de Lula &ndash; convocada pelo Partido dos Trabalhadores &ndash; que reuniu p&uacute;blico na manh&atilde; deste s&aacute;bado, numa caminhada entre a Pra&ccedil;a Osvaldo Cruz e a Pra&ccedil;a do Di&aacute;rio. O PT disse que o evento serviu como uma &ldquo;largada&rdquo; para a fase final da campanha eleitoral 2022.</p>
+<p>Os integrantes da chapa majorit&aacute;ria da Frente Popular de Pernambuco participaram do ato. No final, teve discurso de Danilo Cabral, Luciana Santos, Teresa Leit&atilde;o, Silvio Costa e do senador Humberto Costa (PT).</p>
+<p>A candidata a senadora Teresa Leit&atilde;o convocou a milit&acirc;ncia para intensificar o corpo-a-corpo.</p>
+<p>&ldquo;N&atilde;o tem &lsquo;j&aacute; ganhou&rsquo; nem &lsquo;j&aacute; perdeu&rsquo;. Temos que ir para as ruas pedir votos, conquistar apoio todos os dias, at&eacute; terminar a elei&ccedil;&atilde;o. &Eacute; uma tarefa de todos e todas, e vamos fazer isso com muita alegria, coragem e esperan&ccedil;a, porque &eacute; assim que trabalha o time de Lula&rdquo;.</p>
+<p>Teresa representa o Partido dos Trabalhadores na chapa majorit&aacute;ria da Frente Popular e mais uma vez falou sobre a alian&ccedil;a nacional que une o PT e o PSB.</p>
+<p>&ldquo;Essa alian&ccedil;a foi costurada pelo ex-presidente Luiz In&aacute;cio Lula da Silva, com objetivo de tirar Bolsonaro da presid&ecirc;ncia, de eleger Lula e Alckmin. Uma alian&ccedil;a em torno de um projeto de governo de desenvolvimento social, econ&ocirc;mico e pol&iacute;tico para o Brasil&rdquo;.</p>
+<p>&ldquo;Em uma disputa eleitoral, todo mundo tem um lado. &Eacute; preciso que o eleitor saiba que lados s&atilde;o esses e escolha o seu. E aqui est&aacute; o palanque de Lula, esses s&atilde;o os candidatos do lado de Lula. Aqui &eacute; Lula na presid&ecirc;ncia, &eacute; Teresa senadora e &eacute; Danilo governador&rdquo;.<br /></p>
+<h2>Confira o v&iacute;deo de Teresa Leit&atilde;o:</h2>
+<p><iframe src="https://player.mais.uol.com.br/?mediaId=17094361&amp;type=video" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+{% endraw %}

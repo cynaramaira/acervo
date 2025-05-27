@@ -1,0 +1,41 @@
+---
+id: 12534663
+date: "2016-08-04T09:55:44Z"
+last_modified_at: null
+tags:
+  - "dinheiro"
+  - "esquema-criminoso"
+  - "operacao"
+  - "quarentinha"
+categories:
+  - "noticias"
+title: "Morato tinha fun\u00e7\u00e3o de movimentar dinheiro de esquema da Opera\u00e7\u00e3o Turbul\u00eancia, aponta MPF"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/morato.jpg"
+---
+{% raw %}
+<p>Encontrado morto um dia após a deflagração da Operação Turbulência, há mais de um mês, o empresário Paulo César de Barros Morato tinha a função de movimentar recursos da organização investigada pela Polícia Federal no inquérito, para lavar o dinheiro desviado de obras públicas.</p>
+<p>Foi o que apontou o Ministério Público Federal (MPF) no documento que veio a público nesta quarta-feira (3), em que denuncia 18 acusados de integrar o esquema, lista que não traz o nome de Morato por ter morrido.</p>
+<p>A Procuradoria Regional, porém, afirma que o 'laranja' agia a mando de dois dos três líderes do grupo, os empresários João Carlos Lyra Pessoa de Mello Filho e Eduardo Freire Bezerra Leite, ambos presos na Região Metropolitana do Recife e alvos de denúncias. Estão presos ainda Apolo Santana Vieira, outro acusado de ser um dos chefes, e Arthur Roberto Lapa Rosal, que atuava como Morato.</p>
+<p><strong>LEIA TAMBÉM</strong></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/03/turbulencia-mpf-diz-que-eduardo-campos-era-cliente-de-esquema-operado-por-denunciados/">MPF diz que Eduardo Campos era ‘cliente’ de esquema operado por denunciados</a></p>
+<p>O 'laranja' era dono da empresa fantasma Câmara &amp; Vasconcelos Locação e Terraplanagem desde 2009 - e, desde agosto de 2015, era o único sócio. De fachada, a empresa recebeu da Construtora OAS R$ 23.759.154,56 só entre 31/07/2012 e 23/03/2015. O dinheiro seria por um contrato para, entre outras funções, alugar caminhões para serem usados nas obras da Transposição do Rio São Francisco.</p>
+<p>Porém, não havia veículos como esses registrados no nome dela nem de Morato, o que, para o MPF, serviu como mais um argumento para caracterizá-la como fantasma. Antes da Turbulência, a empreiteira já havia sido investigada nas operações Vidas Secas e Lava Jato, envolvendo desvio de recursos também da Refinaria Abreu e Lima.</p>
+<p>Segundo o MPF, Eduardo Freire ainda indicou a conta da empresa para o recebimento de recursos vindos de empresas de fachada ligadas ao doleiro Alberto Youssef, a MO Consultoria e a Empreiteira Rigidez, usadas para receber “vantagens indevidas” de contratos da Petrobras para os políticos de Alagoas. Apesar dos valores movimentados pela empresa, o próprio Morato teve apenas R$ 3,1 mil entre 2012 e 2016.</p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/07/25/empresa-fantasma-de-paulo-morato-abandonou-nazare-da-mata-depois-da-queda-do-aviao-de-eduardo-campos/">Empresa fantasma de Paulo Morato abandonou Nazaré da Mata depois da queda do avião de Eduardo Campos</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/07/21/turbulencia-ministerio-publico-destaca-promotora-para-acompanhar-inquerito-da-morte-de-paulo-morato/">Ministério Público destaca promotora para acompanhar inquérito da morte de Paulo Morato</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/07/19/operacao-turbulencia-saiba-o-que-o-testa-de-ferro-paulo-cesar-morato-disse-a-policia-federal-em-brasilia-antes-de-morrer/">Saiba o que o testa de ferro Paulo César Morato disse à Polícia Federal, em Brasília, antes de morrer</a></p>
+<p>A investigação apontou que os empresários chefes dele serviam como agiotas para integrantes da sua própria rede de contatos, entre eles o 'laranja'. Esses clientes recebiam empréstimos de montantes altos, com juros de 2% e curto período de resgate. A “venda” do dinheiro era uma forma de fazer o ‘branqueamento’ dos recursos desviados de empreiteiras.</p>
+<p>De acordo com o MPF, Morato chegou a sacar R$ 2 milhões da conta da Câmara &amp; Vasconcelos só no dia 29 de agosto de 2014, menos de um mês depois da morte do ex-governador Eduardo Campos (PSB).</p>
+<p>"O saque de tal valor em um único dia é bastante incomum, não havendo justificativa para tanto. Tal saque provavelmente serviu para que João Carlos Lyra pudesse 'vender' tais recursos a pessoas interessadas em pagar para trocar dinheiro desviado de órgãos públicos por dinheiro em espécie e formar caixa 2 sem chamar a atenção dos órgãos de controle", afirma a denúncia do Ministério Público Federal.</p>
+<p>Antes dessa atitude considerada suspeita na investigação, Morato já havia feito distribuições do dinheiro da empresa de fachada. Para o MPF, o objetivo de pulverizar os recursos era de dificultar o seu rastreamento, já que era de obras públicas. Só a Geovane Pescados Eireli e a CRM Material de Construção LTDA, compradoras do avião usado por Eduardo Campos, receberam, respectivamente, R$ 1.297.000 e R$ 1.433.000. Presos na Turbulência, Arthur Rosal e João Carlos Lyra ficaram com R$ 644.358,58 e R$ 463.785,34.</p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/07/04/corpo-de-paulo-morato-e-enterrado-em-barreiros/">Corpo de Paulo César Morato é enterrado em Barreiros</a></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/30/sds-confirma-envenenamento-de-paulo-cesar-morato/">SDS confirma envenenamento de Paulo César Morato</a></p>
+<p>Além da Câmara &amp; Vasconcelos, Morato era dono da Lagoa Indústria e Comércio LTDA. Segundo o MPF, outra usada pela organização para movimentar recursos ilícitos. Em 62 transações, o laranja transferiu para a sua conta R$ 792.000. A avaliação do MPF foi que essa foi uma forma de ludibriar o controle do Conselho de Controle de Atividades Financeiras (Coaf).</p>
+<p><strong>Investigação da morte do laranja</strong></p>
+<p>Mais de um mês depois de o <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/22/empresario-foragido-da-operacao-turbulencia-e-encontrado-morto-em-motel-de-olinda/">corpo de Morato ter sido encontrado em um motel de Olinda</a>, na Região Metropolitana, o caso ainda não foi esclarecido pela Polícia Civil, apesar de a presidente do inquérito, a delegada <a href="https://blogs.ne10.uol.com.br/jamildo/2016/07/02/delegada-gleide-angelo-diz-que-em-menos-de-duas-semanas-conclui-caso-da-morte-de-foragido-da-operacao-turbulencia/">Gleide Ângelo, ter prometido há mais de três semanas entregar os resultados da investigações em menos de 15 dias.</a> A primeira informação da <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/23/homicidio-e-praticamente-descartado-pela-policia-em-caso-de-foragido-da-operacao-turbulencia-encontrado-morto/">polícia foi ter descartado a tese de que o laranja foi assassinado</a>, no dia seguinte à morte dele. O <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/27/gleide-angelo-rebate-sinpol-e-reafirma-que-so-fez-um-pedido-de-pericia/">Sindicato dos Policiais Civis de Pernambuco (Sinpol-PE)</a> e o <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/27/turbulencia-deputado-entra-com-representacao-para-que-pf-investigue-morte-de-foragido/">deputado estadual Edilson Silva (PSOL)</a> reclamaram sobre as investigações estarem sendo conduzidas pelo órgão estadual, alegando que <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/27/papiloscopista-defendeu-nova-pericia-policia-civil-admite-falha-de-comunicacao/">poderia haver interferência</a> do grupo político do governador Paulo Câmara (PSB), afilhado político de Eduardo Campos.</p>
+<p>A gestão nega influência e a <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/30/pf-diz-que-caso-de-paulo-cesar-morato-continua-com-a-policia-civil/">Polícia Federal disse que só assumiria o caso se fosse detectada relação</a> entre a morte e a Operação Turbulência. Exames encontraram <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/30/sds-confirma-envenenamento-de-paulo-cesar-morato/">veneno conhecido como 'chumbinho' no corpo de Morato</a>.</p>
+<p><img src="https://www2.uol.com.br/JC/_ne10/foto/operacao-turbulencia-v2.jpg" width="100%" border="0" /></p>
+{% endraw %}

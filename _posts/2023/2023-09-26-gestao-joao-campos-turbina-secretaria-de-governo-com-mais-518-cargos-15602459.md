@@ -1,0 +1,32 @@
+---
+id: 15602459
+date: "2023-09-26T13:23:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "recife"
+  - "joao-campos"
+categories:
+  - "sem-categoria"
+title: "Gest\u00e3o Jo\u00e3o Campos turbina Secretaria de Governo com mais 518 cargos terceirizados ao custo de R$ 28,6 milh\u00f5es por ano"
+sutia: "Os contratos terceirizados n\u00e3o entram na conta da despesa com pessoal da Lei de Responsabilidade Fiscal (LRF)"
+chapeu: "Firma rica"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/06/12/int40324-23126094.jpg"
+---
+{% raw %}
+<p>Sem alarde, o Di&aacute;rio Oficial do Munic&iacute;pio do Recife do &uacute;ltimo s&aacute;bado (23) publicou o extrato de um novo contrato de loca&ccedil;&atilde;o de m&atilde;o de obra, no &acirc;mbito da Secretaria de Governo e Participa&ccedil;&atilde;o Social, pactuando a contrata&ccedil;&atilde;o sem concurso de mais 518 funcion&aacute;rios terceirizados para o governo do <a href="https://jc.ne10.uol.com.br/colunas/jamildo/2023/08/15576655-joao-campos-e-gestor-publico-mais-bem-avaliado-entre-os-empresarios-de-pernambuco.html" target="_blank" rel="noopener noreferrer">prefeito Jo&atilde;o Campos (PSB)</a>. Ao custo de R$ 28,56 milh&otilde;es para o per&iacute;odo de 12 meses, o contrato permite a ocupa&ccedil;&atilde;o de 110 cargos de analistas administrativos, 262 de coordenadores administrativos e 146 auxiliares de escrit&oacute;rio.</p>
+<p>A Secretaria de Governo e Participa&ccedil;&atilde;o Social &eacute; <strong>respons&aacute;vel pela articula&ccedil;&atilde;o pol&iacute;tica</strong> da gest&atilde;o na <a href="https://ne10.uol.com.br/noticias/blog-de-jamildo/2023/09/15597093-joao-campos-inicia-a-construcao-do-maior-parque-publico-do-recife.html" target="_blank" rel="noopener noreferrer">capital pernambucana.</a></p>
+<p>A contrata&ccedil;&atilde;o ocorre sem licita&ccedil;&atilde;o direta porque a Secretaria aderiu a uma ata de registro de pre&ccedil;os da pr&oacute;pria administra&ccedil;&atilde;o municipal com a empresa respons&aacute;vel pela terceiriza&ccedil;&atilde;o, a RPL Engenharia e Servi&ccedil;os Ltda. (Em Recupera&ccedil;&atilde;o Judicial).</p>
+<p>Na pr&aacute;tica, os novos cargos terceirizados ganhar&atilde;o sal&aacute;rios de R$ 3.181,44 (analistas administrativos), R$ 2.612,35 (coordenadores administrativos) e R$ 1.498,37 (auxiliares de escrit&oacute;rio). O custo para o munic&iacute;pio, no entanto, envolve outros encargos, como impostos, 13&ordm;, f&eacute;rias e o pre&ccedil;o pelo servi&ccedil;o prestado pela empresa de terceiriza&ccedil;&atilde;o: no total, cada analista administrativo custa ao er&aacute;rio municipal R$ 5.870,96, enquanto um coordenador administrativo representa despesa de R$ 4.906,51 e, por fim, o auxiliar de escrit&oacute;rio dispende, por m&ecirc;s, R$ 3.070,96.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/09/26/120x80/1_tabela-24411115.jpeg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'6513054fd696c', 'cd_midia':24411115, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/09/26/tabela-24411115.jpeg', 'ds_midia': 'Di&aacute;rio Oficial do Munic&iacute;pio do Recife do &uacute;ltimo s&aacute;bado (23) publicou o extrato de um novo contrato de loca&ccedil;&atilde;o de m&atilde;o de obra', 'ds_midia_credi': 'Di&aacute;rio Oficial', 'ds_midia_titlo': 'Di&aacute;rio Oficial do Munic&iacute;pio do Recife do &uacute;ltimo s&aacute;bado (23) publicou o extrato de um novo contrato de loca&ccedil;&atilde;o de m&atilde;o de obra', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '559', 'align': 'Left'}"><figure style="width:559;height:1224;">
+			<img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/09/26/tabela-24411115.jpeg" alt="Di&aacute;rio Oficial" title="Di&aacute;rio Oficial do Munic&iacute;pio do Recife do &uacute;ltimo s&aacute;bado (23) publicou o extrato de um novo contrato de loca&ccedil;&atilde;o de m&atilde;o de obra">
+		<figcaption class='text-left'>
+			Di&aacute;rio Oficial do Munic&iacute;pio do Recife do &uacute;ltimo s&aacute;bado (23) publicou o extrato de um novo contrato de loca&ccedil;&atilde;o de m&atilde;o de obra - <strong>Di&aacute;rio Oficial</strong>
+		</figcaption>
+	</figure></tinymce></p>
+<p>De acordo com os dados da pr&oacute;pria Prefeitura, at&eacute; agosto a gest&atilde;o do prefeito Jo&atilde;o Campos gastou R$ 12 milh&otilde;es na Secretaria de Governo e Participa&ccedil;&atilde;o Social com loca&ccedil;&atilde;o de m&atilde;o de obra. Al&eacute;m do novo contrato com a RPL Engenharia, um outro contrato de terceiriza&ccedil;&atilde;o de servi&ccedil;os est&aacute; vigente na mesma Pasta, com a Appa Servi&ccedil;os Tempor&aacute;rios, para contrata&ccedil;&atilde;o de 129 funcion&aacute;rios.</p>
+<p>"Na administra&ccedil;&atilde;o p&uacute;blica, os contratos terceirizados t&ecirc;m como diferencial o fato de n&atilde;o entrarem na conta da despesa com pessoal da Lei de Responsabilidade Fiscal (LRF). Os dados dos contratos, ao contr&aacute;rio dos comissionados, n&atilde;o s&atilde;o obrigatoriamente publicados nos respectivos portais de transpar&ecirc;ncia", explica uma fonte do blog.</p>
+<h2>Veja a nota enviada ao blog de Jamildo, nesta ter&ccedil;a</h2>
+<p>"A Prefeitura do Recife informa que o contrato, cujo extrato foi publicado no Di&aacute;rio Oficial do Munic&iacute;pio no &uacute;ltimo s&aacute;bado (23), &eacute; resultado de ades&atilde;o a uma ata de registros de pre&ccedil;os e que substituir&aacute; um contrato vigente desde 2018, cuja vig&ecirc;ncia se encerrando pr&oacute;ximo m&ecirc;s de outubro. A ata, que atende aos princ&iacute;pios da administra&ccedil;&atilde;o p&uacute;blica, como economicidade e ampla concorr&ecirc;ncia, por exemplo, foi licitada pela <a href="https://jc.ne10.uol.com.br/colunas/jamildo/2023/05/15471670-joao-campos-vai-moldando-um-estilo-proprio-de-fazer-politica-em-pernambuco.html" target="_blank" rel="noopener noreferrer">gest&atilde;o municipal</a> e os empregos ser&atilde;o preenchidos sob demanda, conforme a necessidade da administra&ccedil;&atilde;o".</p>
+{% endraw %}

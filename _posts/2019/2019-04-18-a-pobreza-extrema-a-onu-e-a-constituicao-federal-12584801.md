@@ -1,0 +1,49 @@
+---
+id: 12584801
+date: "2019-04-18T18:00:33Z"
+last_modified_at: null
+tags:
+  - "constituicao"
+  - "extrema-pobreza"
+  - "jorge-federal"
+  - "pobreza"
+categories:
+  - "noticias"
+title: "A pobreza extrema, a ONU e a Constitui\u00e7\u00e3o Federal"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/03/congresso_nacional_0.jpg"
+---
+{% raw %}
+<p><p>Por Ricardo Prado Pires de Campos, <br /></p>
+<p> presidente do MPD – Movimento do Ministério Público Democrático e Mestre em Direito Processual Penal pela PUC-SP</p></p>
+<p><p>O objetivo número 1 da Organização das Nações Unidas é a “Erradicação da Pobreza”: “Acabar com a pobreza em todas as suas formas, em todos os lugares”, diz o enunciado do pretencioso desafio. [I]</p></p>
+<p><p>Quem circula pelas grandes cidades, nos dias atuais, enxerga um número enorme de pessoas vivendo abaixo da linha da pobreza. Não são apenas pobres, são extremamente pobres. Muitos não conseguem sustentar a si mesmos e buscam ajuda de quem passa. Ser abordado no semáforo, nas ruas, e nos demais locais públicos, virou rotina. Essa é a face mais visível das pessoas que vivem em condição de miserabilidade.</p></p>
+<p><p>Mas não são apenas estes os rostos visíveis. As situações são tantas e tão conhecidas do leitor, que creio desnecessário exemplificar.</p></p>
+<p><p>Segundo os dados da ONU (CEPAL), vivendo na pobreza na América Latina e Caribe, o que inclui os dados do Brasil, havia 184 milhões de pessoas em 2017 (30,2% da população), com estimativa de pequena melhora em 2018, mesmo assim, atingindo o patamar de 182 milhões de pessoas. Já a pobreza extrema atingia 10,2% da população em 2017, cerca de 62 milhões de pessoas; e as estimativas para 2018 eram de aumento para 63 milhões.[II]</p></p>
+<p><p>Embora tenha havido progressos, a situação continua dramática. De 2002 a 2016, os Governos na América Latina dobraram seus gastos sociais, mas, ainda se situam na faixa de 894 dólares (per capita por ano), o que continua sendo insuficiente para fazer frente ao tamanho do problema.</p></p>
+<p><p>A situação das ruas de São Paulo, seguramente, se assemelha a do restante do país, realidade essa mais visível nas grandes cidades, mas que não exclui as demais.</p></p>
+<p><p>É óbvio que a recessão econômica agravou sobremaneira esse quadro, e ela não ocorreu apenas no Brasil. Os anos de 2015 e 2016 marcam um período de agravamento da pobreza na região, que se estabiliza em 2017, mas prossegue crescendo na sua parte mais vulnerável.</p></p>
+<p><p>Nesse momento em que o Brasil, devido à crise econômica, adota uma postura mais liberal e revisa suas políticas sociais como o bolsa família[III], a previdência social e até o projeto Guri (educação musical para crianças e jovens); se faz necessário jogar luzes sobre essas questões.</p></p>
+<p><p>A Constituição Federal de 1988 possui uma postura político ideológica que pode ser definida como de Social Democracia. Ela não é somente de Esquerda, nem só de Direita; pois, possui traços de ambos os espectros ideológicos.</p></p>
+<p><p>A Constituição adota a “livre iniciativa” (art.1º, IV) e a “propriedade privada” (art.5º), duas características centrais do regime capitalista; mas também fala na função social da propriedade (art.5º, XXIII).</p></p>
+<p><p>Nosso país possui um desenho constitucional que traz inúmeros traços de economia liberal, com autonomia para a iniciativa privada; mas não desconhece uma ação estatal importante, notadamente no campo social, bem como intervenções no domínio econômico.</p></p>
+<p><p>No âmbito social, nossa Constituição criou a Seguridade Social, responsável por três setores importantíssimos: a Saúde, a Previdência Social, e a Assistência Social. E para financiar esses serviços criou uma tríplice aliança entre o empregado, o empregador e o estado.</p></p>
+<p><p>O artigo 195 da Constituição de 1988 prevê que “A Seguridade Social será financiada por toda a sociedade, de forma direta e indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da União, dos Estados, do Distrito Federal e dos Municípios, e das seguintes contribuições sociais:” I – do empregador, incidentes sobre a folha de salários, a receita ou o faturamento, e o lucro; II – do trabalhador e demais segurados da previdência social; III – da receita de concursos de prognósticos (loterias); e IV – do importador de bens e serviços.</p></p>
+<p><p>Assim, os recursos que bancam a Seguridade Social (Saúde, Previdência e Assistência Sociais) incluem contribuições cobradas da empresa, do empregado, do segurado; mais parte da receita das loterias, contribuição sobre a importação de bens e serviços; além de parcela dos orçamentos da União, Estados e Municípios.</p></p>
+<p><p>Os orçamentos da União Federal para o ano de 2019 estabelecem, segundo a Lei Orçamentária (LOA), uma previsão de entrada de recursos da ordem de R$ 752 bilhões para a Seguridade Social, mais R$ 1,750 trilhão no Orçamento Fiscal (impostos e rendas da União), o que inclui R$ 758 bilhões para refinanciamento da dívida pública[IV] . No total são mais de R$ 3,382 trilhões para serem gastos e investidos no presente ano (art.1º da LOA de 2019) [V].</p></p>
+<p><p>E o Governo diz que não são suficientes.</p></p>
+<p><p>É verdade, os sonhos sempre serão maiores que a realidade. Todavia, não se pode negar que há recursos suficientes para pagar os débitos da Previdência Social, além de haver dinheiro para a Saúde, que pode ser melhorada, e Assistência Social. Sem falar em Educação, Segurança e outros bens e interesses sociais.</p></p>
+<p><p>O dinheiro da Assistência Social visa à erradicação da extrema miséria do país. Ninguém, com um mínimo de empatia social, gosta de ver pessoas maltrapilhas, em estado de desnutrição, e com problemas de saúde evidentes, retratos de uma realidade chocante e muito triste. Claro, sempre podemos tentar ajudar a minimizar a tragédia alheia, mas nossa condição individual dificilmente se assemelha a ajuda que o Estado pode produzir quando arrecada valores de toda a sociedade.</p></p>
+<p><p>Alguns acreditam que isso é problema apenas das organizações religiosas e das entidades assistenciais, mas nenhuma delas têm condições de fazer frente à grandiosidade do problema. São milhões de pessoas abaixo da linha da miséria. São dezenas de milhões de desempregados, muitos em situação de extrema pobreza. Por mais que, individualmente, queiramos colaborar, nossos recursos são insuficientes.</p></p>
+<p><p>No entanto, a sociedade em conjunto possui uma grandeza inigualável, e tem condições de erradicar a miséria e até a pobreza se, para isso, encampar o objetivo da ONU, e trabalhar com afinco para a solução do problema. É óbvio, esse trabalho deve ser coordenado pelos Governos, embora a sociedade e suas organizações possam contribuir e muito para esse objetivo.</p></p>
+<p><p>Precisamos difundir essa ideia, precisamos nos convencer da necessidade e da viabilidade de atingirmos esse objetivo, e, principalmente, de contribuir para sua consecução.</p></p>
+<p><p>Defender seus próprios interesses é da natureza humana. Lutar pela manutenção de suas conquistas, idem; mas, nada disso impede a solidariedade humana, a fraternidade, colocada em relevo pelas religiões, estampada na bandeira da Revolução Francesa e incorporada ao ordenamento jurídico mundial pela Organização das Nações Unidas.</p></p>
+<p><p>O Mundo é um só, apesar da divisão em países; a humanidade é uma só, apesar da sua divisão em classes socioeconômicas; e o Direito Brasileiro, em sua Carta Magna, consignou esse objetivo que merece e deve ser acolhido por todos os brasileiros: “erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais” (art.3º, III), pois, só assim, conseguiremos assegurar um começo de “dignidade humana” (art.1º, III, CF).</p></p>
+<p><p>O Brasil pode se transformar num país sem discriminações; mas para isso precisamos erradicar a miséria e a pobreza financeira da população. O Mundo é riquíssimo e o conhecimento adquirido pela sociedade já é suficiente para abastecer satisfatoriamente toda a população do globo, falta vontade política de fazê-lo.</p></p>
+<p><p>Há quase duas décadas o então Presidente Fernando Henrique Cardoso comemorou uma grande safra agrícola de nosso país, dizendo que a partir daquela data o Brasil tinha autossuficiência em produção alimentar, não havendo motivo que justificasse que qualquer pessoa ficasse sem comida. Isso só ocorria por falta de renda, mas não por falta de alimentos. Surgia a campanha: “Fome Zero”.</p></p>
+<p><p>O Brasil contemporâneo se constituiu num dos maiores exportadores de alimentos do globo, fornecendo para inúmeros países. Somos mais do que autossuficientes em alimentação. Por quê, ainda, temos pessoas passando fome, e revirando lixo para comer?</p></p>
+<p><p>Cobremos de nossos governantes a solução. É preciso apoiar sistemas inteligentes e justos de redistribuição de renda para que todos saiam da miséria. As pessoas que se encontram nessa situação, não se sujeitam a ela porque querem, mas, sim, por não saberem como resolver o problema. Precisam da nossa ajuda, do nosso conhecimento, dos nossos recursos, da nossa postura política, da nossa colaboração. Em uma palavra, da nossa solidariedade, da nossa fraternidade para implantarmos os valores que inscrevemos na Constituição Cidadã.</p></p>
+<p><p>Em defesa da cidadania de todos, que seguramente resultará em maior segurança e bem-estar geral, vamos divulgar e colaborar para transformar o objetivo nº 1 da ONU e da nossa Constituição em realidade: “Acabar com a pobreza em todas as suas formas, em todos os lugares”.</p></p>
+{% endraw %}

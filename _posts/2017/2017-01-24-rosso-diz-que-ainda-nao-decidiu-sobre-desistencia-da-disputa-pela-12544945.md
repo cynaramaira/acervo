@@ -1,0 +1,51 @@
+---
+id: 12544945
+date: "2017-01-24T20:40:24Z"
+last_modified_at: null
+tags:
+  - "camara"
+  - "mato-grosso"
+  - "naomi-campbell"
+categories:
+  - "noticias"
+title: "Rosso diz que ainda n\u00e3o decidiu sobre desist\u00eancia da disputa pela C\u00e2mara"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/01/rosso.jpg"
+---
+{% raw %}
+<p><p><em>Estadão Conteúdo</em> - O PSD divulgou uma nota nesta terça-feira (24) formalizando apoio à reeleição de Rodrigo Maia (DEM-RJ) à presidência da Câmara. Logo depois, o deputado Rogério Rosso (PSD-DF) disse que ouvirá o fundador da sigla, o ministro Gilberto Kassab (Ciência, Tecnologia e Comunicações), e seu aliado Jovair Arantes (PTB-GO), adversário de Maia na disputa, antes de anunciar seu futuro como candidato. "Estou decidindo ainda", declarou à reportagem.</p></p>
+<p><p>Rosso já marcou uma entrevista coletiva para amanhã, onde anunciará sua decisão. Ele afirmou que pretende conversar com aliados do Centrão e outros deputados que manifestaram disposição de apoiá-lo, caso ele se mantenha na disputa. "Tenho de refletir para o bem da bancada, do partido e da Câmara", disse. De acordo com Rosso, colegas do PSD estão reiterando a disposição de votar nele, mesmo que sua candidatura não tenha o respaldo da legenda.</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/24/depois-do-psb-rodrigo-maia-encontra-aecio-neves-para-oficializar-o-apoio-do-psdb/">Depois do PSB, Rodrigo Maia encontra Aécio Neves para oficializar o apoio do PSDB</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/23/psb-anuncia-apoio-rodrigo-maia-na-disputa-pela-camara/">PSB anuncia apoio a Rodrigo Maia na disputa pela Câmara</a><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/23/bancada-do-psd-fecha-apoio-maia-para-presidencia-da-camara/">Bancada do PSD fecha apoio a Maia para presidência da Câmara</a></p></p>
+<p><p>Líder da bancada do PSD até o final do mês, Rosso vem sendo estimulado por deputados do Centrão a concorrer para garantir que a eleição vá para o segundo turno. Ao mesmo tempo, pesa contra a candidatura de Rosso o fato de não ter o apoio oficial de nenhuma sigla e seu próprio partido pregar abertamente a recondução de Maia. Aliados do deputado dizem que ele tende a ficar na disputa, ainda que em condições adversas.</p></p>
+<p><p>Enquanto o novo líder do PSD, Marcos Montes (MG), esperava Maia para o segundo encontro da semana, desta vez em Uberaba, Rosso passou o dia desaparecido, com o telefone desligado e sem retornar as mensagens de Montes ou dos funcionários da liderança do partido. Montes pretendia submeter o conteúdo da nota oficial a Rosso, mas decidiu divulgar a formalização do apoio mesmo sem consultar o deputado.</p></p>
+<p><h1>Carta</h1></p>
+<p><p>Em tom de quem não tem a intenção de abandonar a disputa, o parlamentar escreveu uma nota a todos os deputados nesta tarde defendendo a reaproximação do Parlamento com a sociedade. "Não podemos mais ser simplesmente reativos. Não falo aqui de protagonismo ou de independência. Falamos de uma Câmara proativa tomando iniciativas e propondo soluções, buscando alternativas e ações para retomarmos o crescimento e o desenvolvimento econômico e social do País", afirmou.</p></p>
+<p><p>No texto, Rosso diz que o funcionamento da Casa precisa ser "mais racional" e condena as votações durante a madrugada. "Sessões de Plenário que entram na madrugada, além de serem dispendiosas, desagradam a ampla maioria da Casa e da sociedade e não raramente temos nos deparado com essas situações. É imprescindível e recomendado requalificar o planejamento da pauta de votações e acordar prioridades com os parlamentares, lideranças, partidos e sociedade. Assuntos de última hora e com relatórios urgentes de Plenário são regimentalmente válidos mas não podem se tornar regra", escreveu.</p></p>
+<p><p>» Segue a íntegra da nota de Rosso:</p></p>
+<p><p><em>"Carta aberta aos Parlamentares e a sociedade brasileira</em></p></p>
+<p><p><em>Nessas últimas semanas tive a oportunidade de percorrer muitos Estados e cidades brasileiras e nesses encontros com parlamentares, lideranças e com a sociedade não nos resta dúvida que o grande desafio da Câmara dos Deputados e também prioridade para esses próximos anos será reaproximar o Parlamento da população e reconquistar a confiança da sociedade brasileira.</em></p></p>
+<p><p><em>'Reaproximar o Parlamento da população e reconquistar a confiança da sociedade brasileira'</em></p></p>
+<p><p><em>Por óbvio que as reformas econômicas, o ajuste fiscal e as questões relativas a geração de empregos, segurança pública, saúde, educação e infraestrutura, dentre outras, são basilares nesse momento que vive o Brasil. São questões fundamentais para a reversão da grave crise econômica e social que vivemos no Brasil.</em></p></p>
+<p><p><em>Se por um lado somos constitucionalmente a representação popular no Congresso Nacional, por outro lado essa mesma representação tem sido questionada e duramente criticada por inúmeros segmentos da sociedade e da opinião publica. Críticas essas por vezes fundamentadas na ausência de informações sobre os trabalhos desenvolvidos no Parlamento. Está claro também que a intensa e volumosa produção legislativa - das Comissões ao Plenário - também não é do conhecimento do conjunto da população brasileira. Sabemos que a CD tem boa estrutura técnica e de pessoal para a divulgação das atividades parlamentares com destaque a TV Camara, a Rádio Camara e a Internet. Entretanto é notória a necessidade de se intensificar ações e novos projetos visando a interação da CD com a população através das redes sociais e outras plataformas de interatividade.</em></p></p>
+<p><p><em>A pauta de votações que somos submetidos é por maioria das vezes derivada das prioridades do Poder Executivo e isso faz com que a Câmara dos Deputados seja muito mais reativa do que propositiva.</em></p></p>
+<p><p><em>Reagir afasta, Propor atrai.</em></p></p>
+<p><p><em>Dos milhares de Projetos de Lei de iniciativa parlamentar em tramitação apenas um ínfimo percentual consegue ao menos chegar no Senado Federal e menos ainda chegam a ser sancionados. Mais de 90% das Leis Brasileiras são de iniciativa do Poder Executivo e na maioria das vezes advindas da edição de Medidas Provisórias</em></p></p>
+<p><p><em>Nosso País tem historicamente vocações naturais, econômicas e produtivas, porém por uma série de razões e motivos o Brasil está longe de ser considerado um "player" competitivo, moderno e sintonizado com as demandas do comércio internacional. Nossos elevados custos diretos e indiretos e nossa precária logística são alguns dos fatores que não permitem o avanço econômico brasileiro - estamos estagnados. Nossa economia está em crise e as oportunidades de capacitação, emprego e renda estão cada vez mais escassas.</em></p></p>
+<p><p><em>A Câmara dos Deputados pode e deve mudar esse cenário. Não podemos mais ser simplesmente reativos. Não falo aqui de protagonismo ou de independência. Falamos de uma Câmara proativa tomando iniciativas e propondo soluções, buscando alternativas e ações para retomarmos o crescimento e o desenvolvimento econômico e social do País.</em></p></p>
+<p><p><em>A Câmara dos Deputados precisa, com urgência, voltar a promover com a sociedade debates e discussões dos relevantes temas nacionais e propor de forma permanente projetos, ações e as soluções que o País demanda.</em></p></p>
+<p><p><em>Além de uma equipe de servidores de alta qualificação e competência, a Câmara dos Deputados possui amplo acervo técnico-legislativo e de direito comparado sobre as mais variadas matérias e temas e certamente não estamos sabendo aproveitá-los. A produção de conhecimento na Casa é grande mas o seu compartilhamento com a sociedade mostra-se insatisfatório.</em></p></p>
+<p><p><em>Não tenho dúvida da importância de termos pelo menos uma sessão Plenária por semana dedicada exclusivamente a proposições de iniciativa dos parlamentares, das Comissões e da Casa. Podemos agrupar essa pauta por temas e prioridades. Precisamos voltar com as Comissões Gerais, com os grandes debates democráticos do País e com a participação direta da população.</em></p></p>
+<p><p><em>O funcionamento da Casa precisa ser mais racional, com ênfase na produtividade e transparência. Sessões de Plenário que entram na madrugada, além de serem dispendiosas, desagradam a ampla maioria da Casa e da sociedade e não raramente temos nos deparado com essas situações. É imprescindível e recomendado requalificar o planejamento da Pauta de votações e acordar prioridades com os parlamentares, lideranças, partidos e sociedade. Assuntos de última hora e com relatórios urgentes de Plenário são regimentalmente válidos mas não podem se tornar regra. A participação da população nunca foi tão importante no trâmite das matérias da CD como hoje. Precisamos com urgência criar canais de comunicação direta e efetiva entre a sociedade e a Câmara. Nesse aspecto as redes sociais são fundamentais. Defendo que a própria sociedade possa sugerir a inclusão de projetos e temas no rol das prioridades do Legislativo, uma espécie de pauta popular.</em></p></p>
+<p><p><em>Basicamente são essas as minhas percepções e sugestões para reaproximar a Câmara dos Deputados da sociedade e readquirir a confiança do povo brasileiro.</em></p></p>
+<p><p><em>Por fim informo que amanhã 25.01, às 11:00, estarei comunicando no salão verde da CD minha decisão a respeito de permanecer ou não na disputa à Presidência da Casa face ao novo posicionamento do Partido e da bancada no apoiamento a candidatura do Dep. Rodrigo Maia.</em></p></p>
+<p><p><em>Agradeço a todos pelo carinho, atenção e amizade a mim dispensados e tenham certeza que vamos continuar trabalhando por uma Câmara Forte, Unida e Respeitada.</em></p></p>
+<p><p><em>Contem sempre comigo,</em></p></p>
+<p><p><em>Rogerio Rosso</em></p></p>
+<p><p><em>Deputado Federal</em></p></p>
+<p><p><em>Líder do PSD na Câmara"</em></p></p>
+{% endraw %}

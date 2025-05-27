@@ -1,0 +1,25 @@
+---
+id: 12608941
+date: "2021-02-15T13:00:18Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "noticias"
+title: "Distantes do senso comum"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2021/01/vacina-1.jpg"
+---
+{% raw %}
+<p><p>Por Gaudêncio Torquato, em artigo enviado ao blog</p></p>
+<p><p>Quanto maior a desarmonia social, mais longe a ideia de encontrarmos o senso comum, esse ponto na régua dos hábitos e costumes vivenciados pela sociedade. Pois bem, estamos atravessando um ciclo de intensa dissonância cognitiva, caracterizada por dúvidas, incertezas, polêmicas, que se formam no espírito de um tempo carregado de desolação. Querelas de toda a natureza se espraiam no espaço nacional, a mostrar as diferenças entre alas e grupos. Em tempos idos, dois temas embutiam conflitos de posições: futebol e religião. Hoje, o campo se alarga com a inserção da política, dos governos e suas gestões e, sem dúvida, da crise sanitária deflagrada pela covid-19 e suas variantes.</p></p>
+<p><p>Qual o fato gerador dessa paisagem tão conflituosa? Não há um aspecto que possa ser identificado como eixo-mor, a não ser que possamos agrupar os principais fatores em torno do que podemos carimbar como Produto Nacional Bruto da Felicidade (PNBF). Que junta, por exemplo, dinheiro no bolso, barriga satisfeita, exemplares transportes coletivos, alimento barato, casa habitável, água encanada, esgoto, equipados e eficientes hospitais e maternidades, vacinas rápidas e para todos, enfim, um clima de satisfação coletiva. Esses aspectos nas margens positiva e negativa apontam para o que vem a ser bom senso.</p></p>
+<p><p>Ademais, conforme narra Guy Debord, em seu livro A Sociedade do Espetáculo, toda a vida “nas sociedades nas quais reinam as modernas condições de produção se apresenta como uma imensa acumulação de espetáculos”. Nessa mesma linha, pontua Roger-Gérard Schwartzenberg, quando descreve em O Estado-Espetáculo, os protagonistas do palco da política imitando os atores. No mundo atual, o que mais importa aos representantes é aparecer, ganhar visibilidade, dourar a imagem, fazendo com que a cópia seja mais importante que o original, a representação tendo mais destaque que a realidade. “A ilusão é sagrada e a verdade é profana”, arremata Debord.</p></p>
+<p><p>Tempos de conflito e de ódio destilado nas usinas humanas, que se formam em torno de uns e outros perfis da política utilitarista, aquela que se banha nas águas franciscanas do “é dando que se recebe”. O descrédito campeia de todos os lados. A desconfiança grassa, para lembrar o timoneiro Simon Bolívar que, há mais de dois séculos, fazia ecoar seu lamento: “Não há boa-fé na América, nem entre os homens, nem entre as nações. Os tratados são papéis, as Constituições não passam de livros, as eleições são batalhas, a liberdade é anarquia, e a vida um tormento”. Emboscadas e traições na política nunca pontuaram de modo tão avassalador. A banalização das coisas impregna o cotidiano. A morte? Coisa banal. Mais de mil pessoas morrem por dia no Brasil. O índice já não mais comove.</p></p>
+<p><p>Pior é sentir que a resignação banha as vontades. “Ah, não há jeito de melhorar, devemos nos acostumar com isso; ah, não tem outro, não; ele vai ser reeleito facilmente; essas oposições partidárias são fracas e não resistem a um rolo compressor”. A linguagem social ruma em direção às encruzilhadas do conformismo, do catastrofismo, da leniência. “Se os maiorais roubam, por que não posso roubar só um pouquinho”? Forma-se uma densa camada de desonestidade, que tem como lume o exemplo que vem de cima, o modus operandi dos maiorais, o novo triângulo que se desenvolve no seio das democracias, juntando políticos, máquinas burocráticas e círculos de negócios. Essa tendência reforça o que alguns autores chamam de “tecnodemocracia”.</p></p>
+<p><p>E onde estão os remédios ou, melhor, as vacinas éticas e morais de que nos fala o padre João Medeiros Filho, em celebrado artigo recente no jornal Tribuna do Norte (RN), “Uma Vacina em Prol da Ética e da Moralidade”? “Além das vacinas contra a epidemia que grassa pelo Brasil, necessita-se também imunizá-lo contra o ódio, radicalismo, egoísmo, interesses escusos, desrespeito, injustiças e mentira. É incontestável que a fragilidade da saúde pública é um problema crônico, que se arrasta há décadas. Não faltam alertas e denúncias de profissionais e líderes. Não se improvisam soluções duradouras, nem existem respostas automáticas e mágicas. Urge uma dose maior de solidariedade e otimismo. É necessário crescer no altruísmo, inoculando na sociedade mais respeito, diálogo e amor.”</p></p>
+<p><p>Eis aí uma tarefa para gerações. Altruísmo, civismo, progresso espiritual, elevação moral de um povo são metas que integram o mais alto grau civilizatório. Mas não alcançaremos esse ideal sem a base do edifício da cidadania: Educação. Sem essa semente, a floresta humana não dará bons frutos.</p></p>
+<p><p>Gaudêncio Torquato, jornalista, é professor titular da USP, consultor político e de comunicação</p></p>
+{% endraw %}

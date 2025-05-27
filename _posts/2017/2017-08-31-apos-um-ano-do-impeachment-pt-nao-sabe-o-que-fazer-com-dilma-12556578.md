@@ -1,0 +1,54 @@
+---
+id: 12556578
+date: "2017-08-31T11:25:23Z"
+last_modified_at: null
+tags:
+  - "apostas"
+  - "dilma"
+  - "impeachment"
+  - "naomi-campbell"
+categories:
+  - "noticias"
+title: "Ap\u00f3s um ano do impeachment, PT n\u00e3o sabe o que fazer com Dilma"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/11/Foto-Jos-Cruz-Agncia-Brasil-1012015.jpg"
+---
+{% raw %}
+<p><p><em>Estadão Conteúdo</em> - Um ano depois do impeachment, a presidente cassada Dilma Rousseff é vista por setores amplos do PT como uma página a ser virada. Embora o discurso oficial seja de martirização de Dilma e a militância apoie a ex-presidente, alas petistas a consideram culpada pela derrocada do partido e uma ameaça para a volta de Luiz Inácio Lula da Silva ao Palácio do Planalto.</p></p>
+<p><p>Segundo estes setores do partido, a falta de controle de Dilma sobre a Polícia Federal - e não os casos de corrupção envolvendo integrantes da legenda - resultou na Lava Jato, no impeachment e na disseminação do sentimento antipetista.</p></p>
+<p><p>LEIA TAMBÉM<br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/31/por-61-a-20-dilma-e-afastada-em-definitivo-e-deixa-a-presidencia/">Por 61 a 20, Dilma é afastada em definitivo e deixa a presidência</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/12/tchauquerida-dilma-e-afastada-e-internet-nao-perdoa-veja-memes/">#TchauQuerida: Dilma é afastada e internet não perdoa; veja memes</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/07/31/senado-recebe-pedido-de-anulacao-do-impeachment-de-dilma/">Senado recebe pedido de anulação do impeachment de Dilma</a></p></p>
+<p><p>Por outro lado, estes mesmos setores consideram que as maiores dificuldades para o retorno de Lula à Presidência são reverter o entendimento comum de que os erros de Dilma são a origem da crise econômica e recompor a aliança de centro esquerda esfacelada no processo de impeachment.</p></p>
+<p><p>O partido não sabe o que fazer com Dilma. Hoje, as funções da presidente cassada se resumem à presidência do conselho curador da Fundação Perseu Abramo, muito longe do centro de poder real da sigla.</p></p>
+<p><p>Na semana passada, a presidente nacional do PT, senadora Gleisi Hoffmann, ex-ministra e uma das petistas mais próximas e fiéis a Dilma, perguntou à presidente cassada se ela pretende se candidatar em 2018.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/12/por-55-votos-22-senado-abre-impeachment-e-dilma-e-afastada/">Por 55 votos a 22, Senado abre impeachment e Dilma é afastada</a></p></p>
+<p><p>"Ela disse que não tem nada decidido. Mas, se decidir se candidatar, vai ter muito voto", disse a senadora. Para Gleisi, "Dilma é a grande liderança que encarna a injustiça contra o PT".</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/29/dilma-troca-farpas-com-adversarios-no-quarto-dia-de-julgamento-do-impeachment/">Dilma troca farpas com adversários no quarto dia de julgamento do impeachment</a></p></p>
+<p><h2>2018</h2></p>
+<p><p>No entanto, a opinião da presidente do partido não é compartilhada por setores relevantes da máquina partidária. Em conversas reservadas, dirigentes dizem que, se Dilma for derrotada na disputa por uma cadeira no Senado pelo Rio Grande do Sul ou pelo Rio, causaria mais desgaste ao PT. Outros afirmam que ela tiraria a vaga de um senador petista e aceitam, no máximo, uma candidatura a deputado federal.</p></p>
+<p><p>As críticas, antes veladas, agora vieram à tona. O próprio Lula, em entrevista à uma rádio de Salvador, apontou falhas de Dilma na condução da política e da economia e disse que ela poderia ter tomado a decisão de não se candidatar à reeleição.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/28/impeachment-apos-12-horas-termina-fase-de-depoimentos-dilma-sera-ouvida-na-2a/">Impeachment: após 12 horas, termina fase de depoimentos; Dilma será ouvida na 2ª</a></p></p>
+<p><p>O presidente estadual do PT do Rio, Washington Quaquá, escreveu que, com a chegada de Dilma ao Planalto, "uma arrogância desmedida tomou conta do centro de decisões".</p></p>
+<p><p>Em conversas recentes com amigos, Dilma demonstra falta de vontade de voltar a morar a Brasília, ficar presa a um mandato e ter de conviver com políticos que considera traidores.</p></p>
+<p><p>Ela prefere a agenda de viagens internacionais nas quais denuncia o que chama de "golpe" e a convivência com intelectuais e artistas.</p></p>
+<p><p>No início de setembro, ela volta à Europa para um giro que inclui França, Bélgica, Itália e talvez a Rússia. Desta vez, além de "denunciar" o impeachment, vai fazer a defesa do direito de Lula de disputar a eleição de 2018.</p></p>
+<p><p>A relação com o ex-presidente continua "inabalável". Ambos conversam com frequência e se encontram quando possível. Defender Lula é uma das prioridades de Dilma. Na véspera da morte de seu ex-marido Carlos Araújo, ela foi ao Rio para o lançamento de um livro de juristas contra a condenação do petista pelo juiz Sérgio Moro, embora Araújo estivesse hospitalizado. A tristeza causada pela morte do ex-companheiro foi notada por amigos.</p></p>
+<p><p>Dilma só demonstra incômodo com as agendas intermináveis do antecessor. Semana passada, confrontada com roteiro da caravana de Lula no Nordeste, capitulou: "Meu filho, não tenho mais saúde para essas coisas".</p></p>
+<p><p>Ela passa os dias entre Porto Alegre, Rio e Belo Horizonte, onde mora sua mãe. Mantém a rotina de pedaladas matinais e, à medida que as reações hostis diminuíram, tem gostado mais da relação direta com o povo. Ela vive da aposentadoria de R$ 5 mil, investimentos e aluguéis de imóveis da família.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/26/testemunha-de-defesa-de-dilma-diz-que-nao-houve-crime-de-responsabilidade/">Testemunha de defesa de Dilma diz que não houve crime de responsabilidade</a></p></p>
+<p><p>Pouco tempo atrás teve oportunidade de comprar o apartamento vizinho ao seu, em Porto Alegre, mas recusou a oferta para não dispor dos R$ 1,2 mil mensais da taxa de condomínio. </p></p>
+<p><h1>Como foi o julgamento de Dilma</h1></p>
+<p><p>O julgamento começou na última quinta (25) e teve seis reuniões no plenário da Casa, entre as realizadas para ouvir testemunhas e informantes, que teve o pronunciamento e a inquirição de Dilma e, por último, a fase de discussão, com debate entre acusação e defesa e falas de parlamentares dos dois lados.</p></p>
+<p><h2>O impeachment desde o início</h2></p>
+<p><p>O processo de impeachment começou a ser articulado no início do ano passado, mas só foi aceito no dia 2 de dezembro, quando o então presidente da Câmara, Eduardo Cunha (PMDB-RJ) – afastado pelo Supremo Tribunal Federal (STF) por usar o cargo para agir em benefício próprio, além de ser réu na Operação Lava Jato – acolheu pedido dos juristas Helio Bicudo, Miguel Reale Junior e Janaína Paschoal. Veja linha do tempo com alguns dos principais fatos do impeachment até agora:</p></p>
+<p><p><iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1L61l0i_BVJlFnsJnNsTye8jvsI60MkFsoglLzc-P7QA&amp;font=Default&amp;lang=pt&amp;initial_zoom=2&amp;height=650" width="100%" height="650" frameborder="0"></iframe></p></p>
+<p><p>O pedido de afastamento, apresentado em outubro, usou como argumento o atraso no repasse de recursos para a Caixa Econômica Federal e o Banco do Brasil, referentes a despesas com programas sociais do governo e com o Programa de Sustentação de Investimentos (PSI), que é a chamada “pedalada fiscal”. Além disso, os juristas alegam que houve três decretos envolvendo créditos suplementares assinados pela presidente sem autorização do Congresso Nacional. Em documento de centenas de páginas, o advogado de Dilma usou testemunhas e documentos do Ministério Público Federal (MPF) para defender que essas ações não configuram crime de responsabilidade. O relatório da Comissão Especial do Impeachment, elaborado por Antonio Anastasia (PSDB-MG), argumentou o contrário.</p></p>
+<p><p>A admissibilidade do processo foi votada em maio, quando, <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/12/por-55-votos-22-senado-abre-impeachment-e-dilma-e-afastada/">por 55 votos a 22, Dilma foi afastada</a> e Michel Temer assumiu o Palácio do Planalto interinamente. Depois, a Casa teria seis meses para analisar o impeachment, ouvindo testemunhas e colhendo provas. Os trabalhos do colegiado especial duraram dois meses e, em agosto, o <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/02/relatorio-de-anastasia-acusa-dilma-de-omissao-e-defende-julgamento-do-impeachment/">relatório final de Anastasia</a>, recomendando que <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/10/por-59-a-21-dilma-vai-a-julgamento-e-pode-sofrer-impeachment/">Dilma virasse ré e fosse a julgamento, foi aprovado por 59 a 21 em plenário</a>.</p></p>
+<p><p>Dilma foi reeleita em 2014, novamente com apoio do PMDB, que teve Michel Temer pela segunda vez como vice na chapa. Apesar disso, o peemedebista Eduardo Cunha, eleito meses depois para a presidência da Câmara, nunca foi para ela um aliado. O peemedebista aceitou a denúncia dos juristas um dia depois de a bancada petista decidir votar contra ele no Conselho de Ética da Casa, o que provocou, durante o julgamento, diversas acusações da antiga base do governo petista de que o peemedebista teria aberto o processo depois que os petistas não cederam a uma suposta chantagem.</p></p>
+<p><p>Antes mesmo da abertura do processo na Câmara, o PMDB já havia dado sinais de afastamento do governo, com o desgaste da imagem da presidente. O partido, antes do mesmo lado político, lançou um plano econômico próprio. Não são poucos os que dizem que o problema de Dilma foi não saber escolher os próprios aliados.</p></p>
+<p><p>A própria petista reclamou, durante o julgamento, de "traição" de Temer. “Michel Temer foi escolhido para ser meu vice porque supúnhamos que ele era integrante do PMDB democrático, progressista e transformador. Mas isso começou a mudar entre o fim do primeiro mandato e o início do segundo. Eu lamento muito por ter construído essa hipótese de que o vice representava o centro democrático que até então havia dado governabilidade ao País”, disse, em resposta a Cristovam Buarque (PPS-DF), se mostrando arrependida. “Eu respeito muito a tradição de luta do PMDB pela democracia, mas infelizmente esse processo não teve continuidade nos tempos recentes. Este impeachment é fruto dessa mudança de comportamento.”</p></p>
+{% endraw %}

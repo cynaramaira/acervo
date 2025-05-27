@@ -1,0 +1,39 @@
+---
+id: 14918933
+date: "2021-12-08T11:19:00Z"
+last_modified_at: null
+tags:
+  - "eleicoes-2022"
+categories:
+  - "sem-categoria"
+title: "Jo\u00e3o Campos e Miguel Coelho sobem o Morro da Concei\u00e7\u00e3o"
+sutia: "Jo\u00e3o Campos disse que pediu prote\u00e7\u00e3o e sa\u00fade para os recifenses"
+chapeu: "F\u00e9 e pol\u00edtica"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/08/rlo_0425-20272755.jpg"
+---
+{% raw %}
+<p>O prefeito do Recife Jo&atilde;o Campos chegou ao Morro da Concei&ccedil;&atilde;o &agrave;s 5h da manh&atilde; neste feriado, quarta-feira, 8 de dezembro de 2021. Acompanhado pela vice-prefeita Isabella de Rold&atilde;o, por secret&aacute;rios municipais, membros da equipe da Prefeitura do Recife, e familiares, o gestor iniciou a subida do morro cumprimentando os fi&eacute;is e os comerciantes do local. Pouco antes das 6h, assistiu a missa campal no Santu&aacute;rio do Morro da Concei&ccedil;&atilde;o. No Morro, agradeceu &agrave; Santa pelo ano e disse que pediu prote&ccedil;&atilde;o e sa&uacute;de para a popula&ccedil;&atilde;o do Recife.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/08/120x80/1_5b3ff8be_265d_48ca_83f9_8f1969f6cf45-20272770.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'61b0c126eb70a', 'cd_midia':20272770, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/08/5b3ff8be_265d_48ca_83f9_8f1969f6cf45-20272770.jpg', 'ds_midia': 'Miguel Coelho fala com populares na subida do morro da Concei&ccedil;&atilde;o', 'ds_midia_credi': 'Matheus Augusto/Divulga&ccedil;&atilde;o', 'ds_midia_titlo': 'Miguel Coelho fala com populares na subida do morro da Concei&ccedil;&atilde;o', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '814', 'align': 'Left'}"><figure style="width:814;height:1224;">
+  <img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/08/5b3ff8be_265d_48ca_83f9_8f1969f6cf45-20272770.jpg" alt="Matheus Augusto/Divulga&ccedil;&atilde;o"  title="Miguel Coelho fala com populares na subida do morro da Concei&ccedil;&atilde;o">
+  <figcaption class='text-left'>Miguel Coelho fala com populares na subida do morro da Concei&ccedil;&atilde;o - <strong>Matheus Augusto/Divulga&ccedil;&atilde;o</strong></figcaption>
+</figure></tinymce></p>
+<h2><br />Miguel Coelho sobem o Morro da Concei&ccedil;&atilde;o ao lado de apoiadores.</h2>
+<p>Cumprindo agendas na regi&atilde;o metropolitana, o prefeito Miguel Coelho participou de uma das mais tradicionais manifesta&ccedil;&otilde;es religiosas de Pernambuco, a Festa de Nossa Senhora da Concei&ccedil;&atilde;o, na zona norte do Recife. O pol&iacute;tico filiado ao Democratas subiu o Morro da Concei&ccedil;&atilde;o acompanhado por lideran&ccedil;as pol&iacute;ticas como o ex-ministro Mendon&ccedil;a Filho e os deputados estaduais Antonio Coelho e Wanderson Flor&ecirc;ncio.</p>
+<p>Miguel visitou o santu&aacute;rio de Nossa Senhora da Concei&ccedil;&atilde;o na ter&ccedil;a e na manh&atilde; desta quarta (08), data que marca a celebra&ccedil;&atilde;o em honra &agrave; santa.</p>
+<p>Al&eacute;m de participar das ora&ccedil;&otilde;es, o prefeito petrolinense conversou com moradores e lideran&ccedil;as do bairro de Casa Amarela.</p>
+<p>Foi o segundo ano que o prefeito participou da celebra&ccedil;&atilde;o religiosa no Morro da Concei&ccedil;&atilde;o.</p>
+<p>&ldquo;A festa em louvor &agrave; Nossa Senhora da Concei&ccedil;&atilde;o &eacute; um momento muito especial para todos os pernambucanos, uma tradi&ccedil;&atilde;o que refor&ccedil;a valores que o povo nordestino preserva. &Eacute; um encontro de milhares de pessoas que demonstram f&eacute;, gratid&atilde;o e esperan&ccedil;a por um futuro melhor&rdquo;, ressaltou o prefeito.</p>
+<p><br />Encerrada a visita ao Morro, o prefeito retornou a Petrolina para cumprir agendas administrativas na cidade sertaneja.</p>
+<h2>Mar&iacute;lia Arraes <br /></h2>
+<p>A deputada federal Mar&iacute;lia Arraes tamb&eacute;m participou das homenagens a Nossa Senhora da Concei&ccedil;&atilde;o neste dia 8 de dezembro &agrave;s 10h30 quando iniciar&aacute; a subida ao santu&aacute;rio, tendo como ponto de partida o Largo Dom Lu&iacute;s. Antes disso, Mar&iacute;lia recebeu aliados e lideran&ccedil;as pol&iacute;ticas de todo o Estado em um caf&eacute; da manh&atilde;, em sua resid&ecirc;ncia, no bairro de Apipucos.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/08/120x80/1_rlo_0615-20272785.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'61b0c37280cbc', 'cd_midia':20272785, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/08/rlo_0615-20272785.jpg', 'ds_midia': 'Missa campal, no Morro da Concei&ccedil;&atilde;o', 'ds_midia_credi': 'Rodolfo Loepert/PCR', 'ds_midia_titlo': 'Missa campal, no Morro da Concei&ccedil;&atilde;o', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '816', 'align': 'Left'}"><figure style="width:816;height:1224;">
+  <img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/08/rlo_0615-20272785.jpg" alt="Rodolfo Loepert/PCR"  title="Missa campal, no Morro da Concei&ccedil;&atilde;o">
+  <figcaption class='text-left'>Missa campal, no Morro da Concei&ccedil;&atilde;o - <strong>Rodolfo Loepert/PCR</strong></figcaption>
+</figure></tinymce>&nbsp;</p>
+<h2>A festa</h2>
+<p>A 117&ordf; Festa de Nossa Senhora da Concei&ccedil;&atilde;o do Morro tem o tema: Aos p&eacute;s da Imaculada Concei&ccedil;&atilde;o do Morro, somos todos irm&atilde;os. E o lema: Quem faz a vontade de Deus, esse &eacute; meu irm&atilde;o, minha irm&atilde;, minha m&atilde;e. Ainda hoje, a carreata de encerramento com a imagem da Santa vai ter concentra&ccedil;&atilde;o &agrave;s 15h, e sa&iacute;da &agrave;s 16h, do edif&iacute;cio-sede da Prefeitura da Cidade do Recife e seguir&aacute; para a Pra&ccedil;a do Morro da Concei&ccedil;&atilde;o. L&aacute;, haver&aacute; a Solene Celebra&ccedil;&atilde;o de Encerramento da Festa.</p>
+<p><br />A celebra&ccedil;&atilde;o religiosa contou com diversos servi&ccedil;os da Prefeitura do Recife para proporcionar mais conforto e tranquilidade aos fi&eacute;is do Recife e de fora da cidade. A Secretaria de Cultura e a Funda&ccedil;&atilde;o de Cultura Cidade do Recife, em articula&ccedil;&atilde;o com o Santu&aacute;rio Nossa Senhora da Concei&ccedil;&atilde;o e demais &oacute;rg&atilde;os p&uacute;blicos, de seguran&ccedil;a e controle urbano, garantiram a infraestrutura c&ecirc;nica e o apoio &agrave; realiza&ccedil;&atilde;o da celebra&ccedil;&atilde;o na Pra&ccedil;a da Concei&ccedil;&atilde;o, com palco, equipamentos de som, luz e 30 banheiros qu&iacute;micos distribu&iacute;dos pelo percurso alinhados de acordo com a demanda de fluxos.</p>
+<p><br />A Autarquia de Tr&acirc;nsito e Transporte Urbano (CTTU) tamb&eacute;m montou uma opera&ccedil;&atilde;o especial que come&ccedil;ou no in&iacute;cio das festividades, no dia 28 de novembro e se estende at&eacute; hoje, encerramento. Na &aacute;rea de sa&uacute;de, est&atilde;o envolvidos cerca de 120 profissionais da Secretaria de Sa&uacute;de do Recife. E a Unidade de Sa&uacute;de da Fam&iacute;lia (USF) Jos&eacute; Bonif&aacute;cio dos Santos, que fica ao lado do Santu&aacute;rio, tem funcionado em hor&aacute;rio estendido, como base para os atendimentos de urg&ecirc;ncia e emerg&ecirc;ncia.</p>
+<p>&nbsp;</p>
+{% endraw %}

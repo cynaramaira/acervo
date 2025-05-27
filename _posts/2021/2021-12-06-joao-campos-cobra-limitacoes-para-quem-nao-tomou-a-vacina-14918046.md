@@ -1,0 +1,32 @@
+---
+id: 14918046
+date: "2021-12-06T12:20:00Z"
+last_modified_at: null
+tags:
+  - "joao-campos"
+categories:
+  - "sem-categoria"
+title: "Jo\u00e3o Campos cobra limita\u00e7\u00f5es para quem n\u00e3o tomou a vacina"
+sutia: "Jo\u00e3o Campos: \"Ningu\u00e9m pode ver o Brasil como o para\u00edso dos n\u00e3o-vacinados\""
+chapeu: "Combate ao v\u00edrus"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/06/rlo001-20264537.jpg"
+---
+{% raw %}
+<p>O prefeito do Recife, Jo&atilde;o Campos, participou de um debate na GloboNews, ao lado dos prefeitos Alexandre Kalil, de Belo Horizonte, e Ricardo Nunes, de S&atilde;o Paulo. Na pauta, o impacto da pandemia e suas variantes, festas de fim de ano, Carnaval e o cen&aacute;rio pol&iacute;tico do pa&iacute;s.</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[14918054],'cd_matia':'14918054','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/blogs/jamildo/2021/12/14918054-parque-de-dois-irmaos-exigira-apresentacao-do-cartao-de-vacinacao-contra-a-covid-19.html">Parque de Dois Irmãos exigirá apresentação do cartão de vacinação contra a Covid-19</a></li>
+        </ul>
+</div></tinymce></p>
+<p>Jo&atilde;o Campos abriu a conversa falando sobre a cria&ccedil;&atilde;o do comit&ecirc; executivo entre as capitais nacionais com os maiores carnavais do pa&iacute;s, onde destacou a import&acirc;ncia do alinhamento entre as cidades envolvidas para uma decis&atilde;o conjunta.</p>
+<p>Tamb&eacute;m falou sobre o sucesso do Carro da Vacina, iniciativa criado no Recife que leva o imunizante nas periferias do Recife com a linguagem do povo.</p>
+<p>&ldquo;Eu tive uma reuni&atilde;o com o prefeito Eduardo Paes (Rio de Janeiro) e l&aacute; surgiu uma ideia de juntarmos os cinco maiores carnavais do Brasil: Recife, Salvador, Rio de Janeiro, S&atilde;o Paulo e Belo Horizonte para poder compreender como as cidades est&atilde;o se preparando para um eventual carnaval ou a n&atilde;o realiza&ccedil;&atilde;o dele. Fizemos um primeiro encontro e a expectativa &eacute; que daqui a pelo menos 10 dias, a gente possa avan&ccedil;ar esse debate entre as gest&otilde;es municiapais. Cada cidade, cada prefeito, tem autonomia para decidir, mas quando a gente compartilha informa&ccedil;&otilde;es, protocolos, n&uacute;meros, ang&uacute;stias e pontos seguros, a gente pode ter maior firmeza para tomar a decis&atilde;o. Estamos em fase de conversa entre as equipes t&eacute;cnicas para em seguida tentar avan&ccedil;ar e buscar uma posi&ccedil;&atilde;o harm&ocirc;nica entre as cidades&rdquo;, disse o prefeito no programa GloboNews Debate.</p>
+<p>Durante a conversa, o gestor municipal foi elogiado pelo lan&ccedil;amento do Carro da Vacina para imunizar a popula&ccedil;&atilde;o contra covid-19 sem agendamento.</p>
+<p>&ldquo;N&oacute;s temos diversas formas para potencializar a vacina&ccedil;&atilde;o, porque esse &eacute; o caminho efetivo para vencermos a pandemia. Aqui tem o tradicional carro do ovo, que &eacute; o carro que circula nas comunidades anunciando a venda de ovo, para vender na hora. A gente pegou esse modelo e colocou uma equipe de vacina&ccedil;&atilde;o dentre de algumas vans, que vai anunciando o imunizante anticovid em pontos de com&eacute;rcio, mercados p&uacute;blicos, sa&iacute;das e entradas de escolas. Com isso, conseguimos mais de 10 mil vacinados nos &uacute;ltimos 10 dias com o carro da vacina&rdquo;, compartilhou o gestor.</p>
+<p>O prefeito Jo&atilde;o Campos sinalizou a preocupa&ccedil;&atilde;o com os n&atilde;o vacinados no Brasil e como isso reverbera no mundo, sendo importante a exig&ecirc;ncia de um passaporte da vacina.</p>
+<p>&ldquo;&Eacute; importante destacar que o Brasil n&atilde;o pode virar para&iacute;so dos n&atilde;o-vacinados. A gente tem que exigir o comprovante da vacina&ccedil;&atilde;o para entrar aqui. &Eacute; assim que a Uni&atilde;o Europeia est&aacute; fazendo, os Estados Unidos, e a gente precisa tamb&eacute;m garantir essa exig&ecirc;ncia. E que ela partir&aacute; de uma medida do Governo Federal. O di&aacute;logo &eacute; fundamental. Quando a gente faz parte de uma Rep&uacute;blica Federativa, &eacute; preciso haver civilidade, ter capacidade de di&aacute;logo e que de fato faz muita falta a aus&ecirc;ncia de coordena&ccedil;&atilde;o nacional. A pandemia ceifou mais de 616 mil vidas no Brasil e, por muitas vezes, houve omiss&atilde;o do Governo Federal para conduzir esse debate", disse.</p>
+<p>"&Eacute; preciso levar a s&eacute;rio a t&eacute;cnica, ci&ecirc;ncia e evid&ecirc;ncias que se comprovam com muitos estudos. Essa forma como o debate foi colocado, muitas vezes estimulado de maneira equivocada pelo Governo Federal, atrapalhou muito as decis&otilde;es tomadas pelas esferas e comit&ecirc;s, do ponto de vista t&eacute;cnico. Nosso papel, nas grandes cidades, &eacute; poder ter muita firmeza no debate, poder ouvir todas as partes, mas decidir com muita coer&ecirc;ncia e com respeito &agrave;s evid&ecirc;ncias cient&iacute;ficas&rdquo;, declarou Jo&atilde;o Campos.</p>
+<p>Jo&atilde;o Campos reafirmou a necessidade de garantir maiores limita&ccedil;&otilde;es para quem n&atilde;o tomou a vacina.</p>
+<p>&ldquo;A vacina&ccedil;&atilde;o &eacute; uma estrat&eacute;gia de imuniza&ccedil;&atilde;o coletiva. &Eacute; uma pandemia agressiva, que s&oacute; passa se voc&ecirc; conseguir promover uma vacina&ccedil;&atilde;o coletiva. Somos um pa&iacute;s muito grande, um destino tur&iacute;stico muito forte. Que n&oacute;s n&atilde;o sejamos vistos como um grande celeiro de pessoas que toleram a n&atilde;o-vacina&ccedil;&atilde;o. Para isso, aqui no Recife, investimos mais de R$ 35 milh&otilde;es em toda estrutura de vacina&ccedil;&atilde;o, como instala&ccedil;&atilde;o de 22 centros e mais 800 profissionais dedicados a isso&rdquo;.<br /></p>
+{% endraw %}

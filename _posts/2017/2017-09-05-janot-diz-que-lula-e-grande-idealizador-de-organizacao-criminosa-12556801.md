@@ -1,0 +1,39 @@
+---
+id: 12556801
+date: "2017-09-05T21:28:02Z"
+last_modified_at: null
+tags:
+  - "lula"
+  - "organizacao"
+categories:
+  - "noticias"
+title: "Janot diz que Lula \u00e9 'grande idealizador de organiza\u00e7\u00e3o criminosa'"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/06/lula.jpg"
+---
+{% raw %}
+<p><p><em>Estadão Conteúdo</em> - O procurador-geral da República, Rodrigo Janot, denunciou o ex-presidente Luiz Inácio Lula da Silva e a ex-presidente Dilma Rousseff afirmando que eles formaram uma organização criminosa quando foram presidentes da República com demais integrantes da cúpula dos governos petistas. Janot aponta Lula como "grande idealizador" da organização criminosa formada no âmbito da Lava Jato e pede pena agravada ao ex-presidente.</p></p>
+<p><p>Também foram denunciados a senadora, presidente nacional do partido e ex-ministra Gleisi Hoffmann (PT-PR), os ex-ministros Guido Mantega, Antonio Palocci, Paulo Bernardo e Edinho Silva e o ex-tesoureiro do PT João Vaccari Neto.</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/05/janot-denuncia-lula-dilma-e-ex-ministros-ao-supremo/">Janot denuncia Lula, Dilma e ex-ministros ao Supremo</a></p></p>
+<p><p>De acordo com a denúncia, a suposta organização criminosa formou um esquema de arrecadação de propina por meio da utilização de entes e órgãos públicos como a Petrobras, o Banco Nacional do Desenvolvimento (BNDES) e do Ministério do Planejamento, Orçamento e Gestão (MPOG), que permitiu o recebimento de propina de cerca de, pelo menos, R$ 1,485 bilhão.</p></p>
+<p><p>"Os crimes praticados pela organização geraram prejuízo também aos cofres públicos. Nesse sentido, só no âmbito da Petrobras o prejuízo gerado foi de, pelo menos, R$ 29 bilhões, conforme expressamente reconhecido pelo Tribunal de Contas da União", afirmou o procurador-geral da República.</p></p>
+<p><p>"Além disso, por intermédio da negociação espúria de cargos públicos, os ora denunciados concorreram para que os demais integrantes do núcleo político da organização criminosa que pertenciam ao PP, ao PMDB do Senado Federal e ao PMDB da Câmara recebessem, pelo menos, de vantagens indevidas, respectivamente, R$ 390.800.000,00 , R$ 864.526.518,644 e R$ 350.000.000,00", afirmou Janot.</p></p>
+<p><p>Especificamente sobre a atuação de Lula, o procurador-geral afirmou que o ex-presidente foi "o grande idealizador da constituição da presente organização criminosa, na medida em que negociou diretamente com empresas privadas o recebimento de valores para viabilizar sua campanha eleitoral à presidência da República em 2002 mediante o compromisso de usar a máquina pública, caso eleito (como o foi), em favor dos interesses privados deste grupo de empresários".</p></p>
+<p><p>Janot afirma que Lula também foi um dos responsáveis pelo desenho do sistema de arrecadação de propina e "atuou diretamente na negociação espúria em torno da nomeação de cargos públicos com o fito de obter, de forma indevida, o apoio político necessário junto ao PP e ao PMDB para que seus interesses e do seu grupo político fossem acolhidos no âmbito do Congresso Nacional". E que continuou com líder do núcleo político da organização criminosa sob a presidência de Dilma Rousseff.</p></p>
+<p><p>Janot afirma também que, com a saída de Dilma da presidência da República, houve uma "reformulação do núcleo político da organização criminosa". "A partir de maio de 2016, os integrantes do PMDB da Câmara passaram a ocupar esse papel de destaque dentro da organização", afirma.</p></p>
+<p><p>Como conclusão, em relação a Lula, Janot pede que a pena do ex-presidente seja agravada na condição de comando da organização criminosa.</p></p>
+<p><p>Na descrição sobre o esquema criminoso, Janot afirma que os políticos queriam usar orçamento da Petrobras para "para arrecadar o máximo possível de vantagem indevida junto aos grupos econômicos com interesse em firmar negócios com a estatal".</p></p>
+<p><p>"Nesse ambiente, foram praticados diversos crimes, corrupção ativa e passiva, prevaricação, advocacia administrativa, violação de sigilo funcional, tráfico de influência, lavagem de dinheiro, fraude a licitação, cartelização, evasão fraudulenta de divisas, entre outros", descreveu Janot.</p></p>
+<p><h2>Defesa</h2></p>
+<p><p>A defesa de Lula disse, por meio de uma nota, que a apresentação da denúncia contra Lula e outros sete petistas pelo crime de organização criminosa é uma tentativa do Ministério Público de desviar o foco da polêmica em torno da legalidade das delações premiadas. "O protocolo dessa denúncia na data de hoje sugere ainda uma tentativa do MPF de mudar o foco da discussão em torno da ilegalidade e ilegitimidade das delações premidas no país", diz a nota.</p></p>
+<p><p>A defesa de Lula não cita nominalmente o procurador-Geral da República, Rodrigo Janot, alvo de críticas desde que veio à tona novo áudio do empresário Joesley Batista que coloca em risco a delação feita pelos donos e executivos da J&amp;F avalizada pelo próprio Janot.</p></p>
+<p><p>Segundo a nota assinada pelo advogado Cristiano Zanin Martins, a nova denúncia é mais uma tentativa de usar as leis para perseguir o ex-presidente. "Essa denúncia, cujo teor ainda não conhecemos, é mais um exemplo de mau uso das leis para perseguir o ex-presidente Lula, que não praticou qualquer crime e muito menos participou de uma organização criminosa. É mais um ataque ao Estado de Direito e a democracia", diz a nota.</p></p>
+<p><p>O advogado do ex-ministro Guido Mantega, Fabio Toffic, também vinculou a denúncia à crise causada pela delação da J&amp;F. Segundo ele, é contraditório uma denúncia ser apresentada "usando como prova basicamente a palavra de delatores" justamente no dia "histórico" em que as deleções passaram a ser questionadas. "É no mínimo contraditório que num dia histórico, quando o Brasil se depara com a desfaçatez dos delatores, e sua disposição ao teatro e à dissimulação, a PGR resolva oferecer denúncia usando como prova basicamente palavra de delatores, antes de empreender uma apuração mínima para saber se as acusações possuem algo elo com a realidade", disse Toffic.</p></p>
+<p><p>Em comunicado à imprensa, Gleisi Hoffmann afirmou que a peça não tem "qualquer fundamento". "Tomei conhecimento da denúncia ao mesmo tempo em que foi divulgada à imprensa. É uma denúncia sem qualquer fundamento. Busca criminalizar a política e o Partido dos Trabalhadores no mesmo momento em que malas de dinheiro são descobertas e membro do Ministério Público é envolvido em denúncias".</p></p>
+<p><p>O ex-ministro Edinho Silva também rebateu a denúncia. "Enquanto coordenador financeiro da campanha de 2014, eu agi dentro da legalidade e de forma ética. Tenho certeza de que os fatos serão esclarecidos e vai prevalecer a Justiça", respondeu. </p></p>
+<p><p><iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/BmrmwBDdn90ijg" width="100%" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p></p>
+<p><div style="margin-bottom: 5px;"><strong> <a title="Janot denuncia Lula, Dilma e ex-ministros ao Supremo" href="//www.slideshare.net/JCOnLine/janot-denuncia-lula-dilma-e-exministros-ao-supremo" target="_blank" rel="noopener">Janot denuncia Lula, Dilma e ex-ministros ao Supremo</a> </strong> from <strong><a href="https://www.slideshare.net/JCOnLine" target="_blank" rel="noopener">Portal NE10</a></strong></div></p>
+{% endraw %}

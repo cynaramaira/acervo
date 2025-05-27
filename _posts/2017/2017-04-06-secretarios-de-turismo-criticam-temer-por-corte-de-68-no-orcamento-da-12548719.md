@@ -1,0 +1,32 @@
+---
+id: 12548719
+date: "2017-04-06T20:09:57Z"
+last_modified_at: null
+tags:
+  - "corteidh"
+  - "michel-temer"
+  - "orcamento"
+  - "turismo"
+categories:
+  - "noticias"
+title: "Secret\u00e1rios de Turismo criticam Temer por corte de 68% no or\u00e7amento da \u00e1rea"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/04/fonatur.jpg"
+---
+{% raw %}
+<p><p>Em manifesto, secretários de Turismo do País criticaram o governo Michel Temer (PMDB) pelo corte no orçamento da área e acusaram a gestão federal de ter uma "visão equivocada" da área, fazendo com que o País perdesse oportunidades na Copa do Mundo e nos jogos olímpicos. O valor caiu 68%, passando de R$ 473,2 milhões para R$ 151,5 milhões, o que é considerado "inexpressivo" pelos gestores.</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/29/meirelles-anuncia-fim-da-desoneracao-da-folha-e-devolucao-de-hidreletricas/">Governo anuncia corte de R$ 42,1 bilhões e volta de impostos para empresas</a></p></p>
+<p><p>O documento foi elaborado pelo Fórum Nacional dos Secretários e Dirigentes Estaduais de Turismo (Fornatur), entidade presidida por Felipe Carreras, que é deputado federal licenciado pelo PSB e secretário da pasta em Pernambuco. O fórum tem um representante de cada estado.</p></p>
+<p><p>Os secretários argumentaram na carta que o setor poderiam contribuir para o fim da crise econômica no País. "Um corte desta magnitude demonstra que o governo não está preocupado com o desenvolvimento do turismo e com todos os benefícios proporcionados por ele", diz o manifesto dos secretários.</p></p>
+<p><p>» <strong>Leia a íntegra do documento:</strong></p></p>
+<p><p><em>O turismo brasileiro tem sido responsável por uma contribuição significativa na recuperação da economia do País. A cadeia do turismo consome produtos de pelo menos 68 tipos de indústrias diferentes. Apenas o setor gastronômico emprega cerca de 1,5 milhão de pessoas e o artesanato movimenta mais de R$ 40 bilhões por ano. A atividade turística sustenta milhões de micro e pequenas empresas de 52 setores da economia, gerando mais de 8 milhões de empregos no país. Isso sem contar com os bilhões de reais injetados na economia de janeiro a dezembro. Tanto que o turismo é responsável por mais do que 3,5% do PIB nacional.</em></p></p>
+<p><p><em>Esses são apenas alguns dos vários números positivos que o setor apresenta ao Governo Federal todos os anos. Mesmo diante desta realidade, o turismo brasileiro foi surpreendido com a notícia de que o orçamento para o ano de 2017 seria diminuído em aproximadamente 68%, caindo de R$ 473,2 milhões para R$ 151,5 milhões. Um valor inexpressivo diante do trabalho que podemos e precisamos fazer para apresentar o nosso país ao mundo. Nos últimos anos, recebemos eventos grandiosos, como a Jornada Mundial da Juventude, a Copa das Confederações, a Copa do Mundo e as Olimpíadas. Perdemos todas essas oportunidades porque o Governo Federal teve uma visão equivocada deste mercado. Visão esta que parece estar cada vez mais complicada com o orçamento deste ano.</em></p></p>
+<p><p><em>Um corte desta magnitude demonstra que o Governo não está preocupado com o desenvolvimento do turismo e com todos os benefícios proporcionados por ele. Segundo a World Travel &amp; Tourism Council, o setor deverá crescer 3,8% em 2017, gerando US$ 7,9 trilhões em movimentação financeira em todo o mundo. Este é mais um momento em que o País poderia decolar na captação de visitantes. E exemplos para se ter a certeza de que o investimento em promoção é o principal caminho para este crescimento não faltam. O México investiu US$ 477 milhões na promoção do destino em 2015. O resultado foi cerca de 3 milhões de turistas internacionais apenas na cidade do México, no mesmo ano. Um aumento de 9,1%. Lima, capital do Peru, conquistou 4,2 milhões de visitantes estrangeiros no mesmo período. O Brasil inteiro, com um investimento irrisório em promoção, chegou a 6,6 milhões de turistas. Com tantos atrativos naturais, culturais, gastronômicos, históricos e econômicos, este ainda não é um número para se comemorar.</em></p></p>
+<p><p><em>Caso trabalhado da forma correta e com um orçamento significativo, temos tudo para transformar o Brasil em um destino desejado por visitantes de todo o mundo, promovendo assim uma recuperação mais célere da economia em todas as regiões de forma mais igualitária e democrática. Vamos nos unir para revermos este valor. Nós, secretários estaduais, não vamos nos calar, ficar parados e permitir que o turismo continue sendo encarado como algo sem importância. </em></p></p>
+<p><p><em>O Brasil está perdendo uma grande oportunidade de sair desta sensível situação econômica por meio do turismo, o único mercado que não fechou postos de trabalho nos últimos anos. O Brasil pode gerar mais empregos, mais renda, mais movimentação econômica e mais desenvolvimento investindo da forma correta, onde o resultado é mais rápido e eficiente. A Espanha, por exemplo, identificou no turismo a solução para a crise econômica e anunciou um número recorde de visitantes em 2016. Os mais de 75 milhões de turistas estrangeiros deixaram mais de 77 bilhões de euros nos cofres espanhóis, espantando qualquer possibilidade de agravamento de dificuldade econômica.</em></p></p>
+<p><p><em>O Fornatur não pode se aquietar e aceitar de forma pacífica toda esta movimentação que tem como finalidade a diminuição das atividades turísticas no Brasil. Queremos ver os estados pujantes, atraindo cada vez mais turistas, investidores, aumentando a rede hoteleira com a liberação do visto para os principais países emissores e liberação de cassinos, conquistando novos voos nacionais e internacionais, gerando empregos, se fortalecendo e transformando o Brasil no maior e melhor destino turístico do mundo. Apoiamos ainda, de forma veemente, a transformação da Embratur num serviço social autônomo. Uma agencia nos moldes da Apex, com maior autonomia orçamentaria para empreender um programa de promoção internacional capaz de elevar os níveis do fluxo turístico em direção ao Brasil. Vamos trabalhar para isso, juntos e de forma organizada para elevarmos este orçamento e assim transformamos esta realidade.</em></p></p>
+<p><p><em>São Paulo, 5 de abril de 2017</em></p></p>
+{% endraw %}

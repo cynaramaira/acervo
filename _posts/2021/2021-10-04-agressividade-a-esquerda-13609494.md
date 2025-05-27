@@ -1,0 +1,28 @@
+---
+id: 13609494
+date: "2021-10-04T09:04:34Z"
+last_modified_at: null
+tags:
+  - "lula"
+categories:
+  - "sem-categoria"
+title: "Agressividade \u00e0 esquerda"
+sutia: null
+chapeu: "Protestos pelo Brasil"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/10/02/fat_evdxoaerrrg-19241190.jpg"
+---
+{% raw %}
+<p>No Estado de S.Paulo, de domingo</p>
+<p>O bolsonarismo n&atilde;o respeita quem pensa de forma diferente. Quando era deputado federal, Jair Bolsonaro defendeu o fuzilamento de Fernando Henrique Cardoso. Na Presid&ecirc;ncia da Rep&uacute;blica, continua na mesma rota de intoler&acirc;ncia e viol&ecirc;ncia. N&atilde;o apenas utiliza o aparato estatal para perseguir advers&aacute;rios pol&iacute;ticos, como suas mil&iacute;cias digitais promovem campanhas difamat&oacute;rias na internet contra os que resistem aos intentos bolsonaristas.</p>
+<p>Mas a viol&ecirc;ncia e a agressividade na pol&iacute;tica n&atilde;o s&atilde;o exclusividade do bolsonarismo. As amea&ccedil;as sofridas pela deputada Tabata Amaral, por ocasi&atilde;o de sua filia&ccedil;&atilde;o ao PSB, recordam como parte da esquerda tamb&eacute;m &eacute; intolerante, desrespeitosa e agressiva. O ator Jos&eacute; de Abreu, conhecido apoiador do PT, reproduziu em sua conta no Twitter mensagem que dizia: &ldquo;Se eu encontro (a Tabata) na rua, soco at&eacute; ser preso&rdquo;.</p>
+<p>A publica&ccedil;&atilde;o gerou imediata repercuss&atilde;o, com in&uacute;meras manifesta&ccedil;&otilde;es de solidariedade &agrave; deputada. No entanto, houve tamb&eacute;m por parte de alguns simpatizantes da esquerda a tentativa de relativizar a agressividade contra Tabata Amaral, mencionando como contraponto suas op&ccedil;&otilde;es pol&iacute;ticas. Ou seja, o princ&iacute;pio da dignidade humana, pedra basilar dos direitos humanos, n&atilde;o valeria sempre. A depender das escolhas pol&iacute;ticas da v&iacute;tima, nem toda viol&ecirc;ncia ou intoler&acirc;ncia seria abomin&aacute;vel.</p>
+<p>Al&eacute;m disso, a ignor&acirc;ncia tamb&eacute;m est&aacute; presente em setores da esquerda. Se &eacute; vergonhoso que Jair Bolsonaro fale, na Assembleia-Geral da ONU, que &ldquo;est&aacute;vamos &agrave; beira do socialismo&rdquo;, v&aacute;rias manifesta&ccedil;&otilde;es de militantes de esquerda reproduzem obtusidades e preconceitos igualmente constrangedores.</p>
+<p>&ldquo;N&atilde;o nos esque&ccedil;amos (de) que Tabata do Amaral estudou nos USA, apoiada por um bilhard&aacute;rio (sic) brasileiro. Ela se embebeu da ideologia destas duas fontes. Seria bom se voltasse &agrave;s origens humildes de onde veio e aprender (sic) com o povo. Os olhos suplicantes das crian&ccedil;as pedindo comida a converteriam&rdquo;, escreveu Leonardo Boff em sua conta no Twitter.</p>
+<p>O post do conhecido te&oacute;logo, valendo-se do preconceito como arma pol&iacute;tica, tamb&eacute;m n&atilde;o &eacute; um caso isolado. Seu conte&uacute;do remete ao constante discurso do PT, sempre carregado de imprecis&otilde;es, simplismos e, n&atilde;o raro, do mais cabal negacionismo.</p>
+<p>A esquerda mostra-se muito arredia a qualquer compara&ccedil;&atilde;o entre bolsonarismo e lulopetismo. Em sua &oacute;tica, haveria uma diferen&ccedil;a radical quanto ao compromisso das duas for&ccedil;as pol&iacute;ticas com a democracia, o que inviabilizaria, por princ&iacute;pio, qualquer possibilidade de cotejo entre elas. A realidade &eacute; um pouco mais embara&ccedil;osa, no entanto.</p>
+<p>O apoio de Lula a regimes n&atilde;o democr&aacute;ticos, como o da Venezuela ou de Cuba, campe&otilde;es de viola&ccedil;&otilde;es de direitos humanos em nome do &ldquo;socialismo&rdquo;, revela que sua defesa da democracia depende da plateia. N&atilde;o se trata de uma convic&ccedil;&atilde;o firme. Outros interesses podem condicion&aacute;-la, sem maiores rubores.</p>
+<p>A defesa lulopetista da &ldquo;regula&ccedil;&atilde;o da m&iacute;dia&rdquo;, sob o argumento de que a imprensa persegue Lula, tamb&eacute;m contraria os fundamentos do Estado Democr&aacute;tico de Direito, sendo, portanto, t&atilde;o constrangedora quanto a hostilidade bolsonarista &agrave; imprensa. N&atilde;o cabe ao Estado determinar o que os cidad&atilde;os podem ou n&atilde;o saber.</p>
+<p>Por fim, o lulopetismo e o bolsonarismo se equivalem no negacionismo. Bolsonaro, por exemplo, n&atilde;o reconhece que errou ao dificultar a aquisi&ccedil;&atilde;o de vacinas e continua pregando o uso da cloroquina no tratamento contra a covid, custando milhares de vidas de brasileiros, apenas para satisfazer os interesses eleitorais do bolsonarismo. Incapaz de enfrentar com responsabilidade a pandemia, Bolsonaro optou por negar sua gravidade, instaurando uma revoltante pol&iacute;tica de descaso com a vida da popula&ccedil;&atilde;o.</p>
+<p>Igualmente negacionista e repleta de interesses pol&iacute;ticos &eacute; a recusa do PT em admitir seus erros na seara econ&ocirc;mica, na coniv&ecirc;ncia com a corrup&ccedil;&atilde;o e com o mau uso do dinheiro p&uacute;blico e na dissemina&ccedil;&atilde;o do &oacute;dio no Pa&iacute;s. Mesmo depois de todos os danos causados ao Brasil, Lula continua pregando a irresponsabilidade fiscal e a ciz&acirc;nia, como se v&ecirc; pelo comportamento de seus apoiadores. A esquerda pode ser democr&aacute;tica e respons&aacute;vel &ndash; tudo o que o lulopetismo n&atilde;o &eacute;.</p>
+{% endraw %}

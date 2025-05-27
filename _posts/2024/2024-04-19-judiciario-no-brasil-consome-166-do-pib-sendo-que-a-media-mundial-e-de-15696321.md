@@ -1,0 +1,38 @@
+---
+id: 15696321
+date: "2024-04-19T13:21:00Z"
+last_modified_at: null
+tags:
+  - "justica"
+  - "jamildo"
+categories:
+  - "sem-categoria"
+title: "Judici\u00e1rio no Brasil consome 1,66% do PIB, sendo que a m\u00e9dia mundial \u00e9 de 0,37%"
+sutia: "Gastamos quatro vezes mais do que todos os outros pa\u00edses para sustentar a estrutura judici\u00e1ria da na\u00e7\u00e3o"
+chapeu: "Opini\u00e3o"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/08/08/ives_gandra_da_silva_martins-23811202.jpg"
+---
+{% raw %}
+<p>O aumento da corrup&ccedil;&atilde;o no pa&iacute;s: Brasil, que pa&iacute;s &eacute; este?</p>
+<p>Por Ives Gandra da Silva Martins</p>
+<p>Recentemente, a revista The Economist, talvez a mais importante publica&ccedil;&atilde;o sobre a economia do mundo, mostrou, um retrato vergonhoso para o Brasil no que diz respeito ao aumento da corrup&ccedil;&atilde;o no pa&iacute;s, avalia&ccedil;&atilde;o feita pela Transpar&ecirc;ncia Internacional, que mede a corrup&ccedil;&atilde;o em todos os pa&iacute;ses do mundo.</p>
+<p>N&oacute;s mostramos, efetivamente, esses dados em nosso novo livro &ldquo;Brasil, que pa&iacute;s &eacute; este?&rdquo;, escrito com Samuel Hannan, ex-vice governador do Amazonas.</p>
+<p>De rigor, ca&iacute;mos, no combate &agrave; corrup&ccedil;&atilde;o, 25 posi&ccedil;&otilde;es, da 69&ordf; para a 104&ordf; posi&ccedil;&atilde;o entre todos os pa&iacute;ses do mundo avaliados pela Transpar&ecirc;ncia Internacional, isto &eacute;, nos 140 pa&iacute;ses em que faz o levantamento. A avalia&ccedil;&atilde;o n&atilde;o &eacute; realizada em todos os pa&iacute;ses do mundo, porque com assento na ONU, temos pouco mais de 190.</p>
+<p>De qualquer forma, entre os 140 pesquisados, estarmos colocados na 104&ordf; posi&ccedil;&atilde;o por corrup&ccedil;&atilde;o &eacute; algo vergonhoso.</p>
+<p>N&oacute;s est&aacute;vamos na posi&ccedil;&atilde;o 69&ordf; no come&ccedil;o do s&eacute;culo, ca&iacute;mos, portanto, uma barbaridade de posi&ccedil;&otilde;es. The Economist analisa tamb&eacute;m as raz&otilde;es do aumento de corrup&ccedil;&atilde;o na Am&eacute;rica Latina e mais do que o Brasil, s&oacute; o Peru caiu 20 posi&ccedil;&otilde;es em 10 anos, tendo o M&eacute;xico tamb&eacute;m ca&iacute;do.</p>
+<p>A Transpar&ecirc;ncia entende que, as Opera&ccedil;&otilde;es Lava Jato e M&atilde;os Limpas, na It&aacute;lia, foram opera&ccedil;&otilde;es de combate &agrave; corrup&ccedil;&atilde;o, embora desmoralizadas em seus respectivos pa&iacute;ses, ao ponto de voltar a corrup&ccedil;&atilde;o na It&aacute;lia e no Brasil, o que certamente nos leva a ocupar essa vergonhosa posi&ccedil;&atilde;o.</p>
+<p>Mas h&aacute; outros dados que tamb&eacute;m me preocupam. Quero trazer alguns deles para os amigos leitores de como, nos &uacute;ltimos 30 anos, pioramos.</p>
+<p>A taxa m&eacute;dia de crescimento do PIB, de 1956 a 1961, foi de 8,6%; de 1964 a 1968, de 6 ,5%; de 1989 a 2023, caiu para 2,11 % de crescimento em rela&ccedil;&atilde;o ao PIB; a perda de participa&ccedil;&atilde;o no PIB mundial, de 1980 at&eacute; agora, foi de 35,8%.</p>
+<p>A carga tribut&aacute;ria bruta, quando n&oacute;s t&iacute;nhamos uma posi&ccedil;&atilde;o, que era confort&aacute;vel, de um crescimento da ordem de 6,5%, em 1988 era de 22,4%, mas tivemos um aumento para 33,7%, ou seja, de 50% de eleva&ccedil;&atilde;o da carga tribut&aacute;ria, com queda do desenvolvimento nacional.</p>
+<p>O aumento da corrup&ccedil;&atilde;o deveu-se, em grande parte, ao aumento da burocracia.</p>
+<p>Para ter-se no&ccedil;&atilde;o, entre 1988 a 2023, passamos de 4.121 munic&iacute;pios em 1988, para 5.569 munic&iacute;pios, dos quais 24 % deles t&ecirc;m menos de 5 mil habitantes.</p>
+<p>Outros 23 % desses munic&iacute;pios t&ecirc;m entre 5 e 10 mil habitantes e 23 % dos outros t&ecirc;m 10 a 20 mil, o que vale dizer, praticamente 70 % dos munic&iacute;pios criados t&ecirc;m menos de 20 mil habitantes, mas possuem a possibilidade de ter nove vereadores, prefeito e gastar dinheiro com essas estruturas. S&atilde;o Paulo, com 11,5 milh&otilde;es de habitantes, &eacute; legislado por 55 vereadores. O munic&iacute;pio de Serra da Saudade tem 803 habitantes e 9 vereadores, que &eacute; o m&iacute;nimo imposto pela Constitui&ccedil;&atilde;o.</p>
+<p>Mostramos, portanto, no livro, &ldquo;Brasil, que o pa&iacute;s &eacute; este?&rdquo; escrito com Samuel Hannan, o grande pesquisador do mesmo, por que n&oacute;s patinamos, fundamentalmente, por termos permitido o crescimento de uma estrutura burocr&aacute;tica que reduziu o Brasil para essas posi&ccedil;&otilde;es vergonhosas na maior parte dos &iacute;ndices conhecidos.</p>
+<p>Vale lembrar que s&oacute; entre os grandes detentores do poder: presidente, governadores, prefeitos, deputados federais e estaduais, senadores, ministros e secret&aacute;rios de Estado, exclusivamente, ou seja, aqueles que est&atilde;o no topo da administra&ccedil;&atilde;o, o Brasil tem 755 mil autoridades maiores.</p>
+<p>O Poder Judici&aacute;rio consome 1,66% do PIB, sendo que a m&eacute;dia mundial &eacute; de 0,37%. Gastamos quatro vezes mais do que todos os outros pa&iacute;ses para sustentar a estrutura judici&aacute;ria da na&ccedil;&atilde;o.</p>
+<p>Essa &eacute; a raz&atilde;o pela qual tenho dito que, nesses 30 anos, o Brasil caiu assustadoramente em n&iacute;vel de progresso, porque j&aacute; chegamos a ser a oitava economia do mundo em um per&iacute;odo anterior. Agora estamos, em verdade, com um custo burocr&aacute;tico, que &eacute; um dos maiores de todo o mundo, o que n&atilde;o permite o desenvolvimento. A OCDE declara que no mundo o custo burocr&aacute;tico &eacute; de menos que 10% do PIB, no Brasil &eacute; superior a 13%!!!</p>
+<p>O problema n&atilde;o &eacute; s&oacute; o pagamento desse custo burocr&aacute;tico, &eacute; que esse custo cria obriga&ccedil;&otilde;es para o cidad&atilde;o; s&oacute; para se ter no&ccedil;&atilde;o, para abrir-se uma empresa na Inglaterra, basta preencher um formul&aacute;rio e envi&aacute;-lo para o Governo e j&aacute; est&aacute; aberta. No Brasil, chegou-se a levar dois, tr&ecirc;s meses para que a aprova&ccedil;&atilde;o sobre o pedido fosse concedida, isso por causa de todos aqueles funcion&aacute;rios respons&aacute;veis pelos carimbos de autoriza&ccedil;&atilde;o, para que a empresa pudesse come&ccedil;ar a funcionar.</p>
+<p>Hoje melhorou um pouco, mas, de qualquer forma, ainda temos uma burocracia que cria obrigacoes sobre obrigacoes para o cidadao brasileiro e sobre as empresas, o que dificulta o progresso do pa&iacute;s.</p>
+<p>S&atilde;o dados, levantados pelo Samuel Hanan, que escreveu comigo o livro &ldquo;Brasil, que pa&iacute;s &eacute; este?&rdquo;. Na obra, n&atilde;o fazemos cr&iacute;ticas &agrave;s pessoas, &agrave;queles que det&ecirc;m o Poder, mas avaliamos a estrutura do Poder que nos leva a viver em um pa&iacute;s burocr&aacute;tico que emperra o crescimento empresarial e do povo brasileiro.<br /> <br /><em>Ives Gandra da Silva Martins &eacute; professor em&eacute;rito das universidades Mackenzie, Unip, Unifieo, UniFMU, do Ciee/O Estado de S&atilde;o Paulo, das Escolas de Comando e Estado-Maior do Ex&eacute;rcito (Eceme), Superior de Guerra (ESG) e da Magistratura do Tribunal Regional Federal &ndash; 1&ordf; Regi&atilde;o.</em><br /> <br /></p>
+{% endraw %}

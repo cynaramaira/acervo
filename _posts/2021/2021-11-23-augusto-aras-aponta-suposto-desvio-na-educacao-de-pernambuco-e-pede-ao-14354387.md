@@ -1,0 +1,52 @@
+---
+id: 14354387
+date: "2021-11-23T17:16:00Z"
+last_modified_at: null
+tags:
+  - "augusto-aras"
+  - "tce-pe"
+  - "paulo-camara"
+categories:
+  - "sem-categoria"
+title: "Augusto Aras aponta suposto desvio na educa\u00e7\u00e3o de Pernambuco e pede ao STF inconstitucionalidade de resolu\u00e7\u00e3o do TCE"
+sutia: "MPF diz que Governo de Pernambuco usa at\u00e9 R$ 1 bilh\u00e3o por ano da educa\u00e7\u00e3o para pagar aposentados"
+chapeu: "Conta \u00fanica"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/08/24/46610374095_cdef957d36_o-18704339.jpg"
+---
+{% raw %}
+<p>O procurador geral da Rep&uacute;blica, Augusto Aras, ajuizou no Supremo Tribunal Federal (STF), em Bras&iacute;lia, uma a&ccedil;&atilde;o direta de inconstitucionalidade contra o Tribunal de Contas do Estado de Pernambuco (TCE) para impedir um suposto desvio de recursos constitucionalmente destinados &agrave; educa&ccedil;&atilde;o pela Constitui&ccedil;&atilde;o Federal (25% m&iacute;nimos), por parte da atual gest&atilde;o do Poder Executivo do Estado de Pernambuco.</p>
+<p>Segundo Aras, resolu&ccedil;&atilde;o publicada pelo TCE, em julho de 2021, autorizou, por mais tr&ecirc;s anos, o suposto desvio dos recursos da educa&ccedil;&atilde;o (25% m&iacute;nimo) para pagar aposentadorias e pens&otilde;es do regime pr&oacute;prio de previd&ecirc;ncia do Estado de Pernambuco.</p>
+<p>O procurador geral da Rep&uacute;blica pede uma medida cautelar contra o TCE de Pernambuco, para suspender de imediato a resolu&ccedil;&atilde;o do &oacute;rg&atilde;o estadual, at&eacute; o julgamento final do STF.</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[13628084,13029312],'cd_matia':'13029312','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/blogs/jamildo/2021/08/13029312-mpf-pede-ao-tce-pe-informacoes-sobre-gastos-com-educacao-pelo-estado-de-pernambuco.html">MPF pede ao TCE-PE informações sobre gastos com educação pelo Estado de Pernambuco</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/11/13628084-tce-rebate-tcu-e-diz-que-jamais-autorizou-recursos-do-fundeb-para-pagar-aposentadorias-e-pensoes.html">TCE rebate TCU e diz que jamais autorizou recursos do Fundeb para pagar aposentadorias e pensões</a></li>
+        </ul>
+</div></tinymce></p>
+<p>O suposto desvio de recursos da educa&ccedil;&atilde;o em Pernambuco, com base na nova resolu&ccedil;&atilde;o do TCE, j&aacute; havia sido questionado este ano pelo Minist&eacute;rio P&uacute;blico Federal (MPF) em Pernambuco e pelo Minist&eacute;rio P&uacute;blico de Contas de Pernambuco (MPCO).</p>
+<p>Segundo os autos do processo, Aras atendeu a representa&ccedil;&atilde;o dos dois &oacute;rg&atilde;os ministeriais para ajuizar a a&ccedil;&atilde;o no STF.</p>
+<p>Segundo a representa&ccedil;&atilde;o do MPF e o MPCO para Aras, em 2021, o or&ccedil;amento oficial do Estado de Pernambuco prev&ecirc; contabilizar mais de R$ 1 bilh&atilde;o do pagamento de aposentadorias e pens&otilde;es da FUNAPE como se fossem despesas com educa&ccedil;&atilde;o dos 25% constitucionais.</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[13626785,12570739],'cd_matia':'12570739','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/blogs/jamildo/2018/07/19/decisao-do-tcu-que-bloqueou-recursos-do-fundef-para-municipios-de-pernambuco-e-questionada-no-stf/index.html">Decisão do TCU que bloqueou recursos do Fundef para municípios de Pernambuco é questionada no STF</a></li>
+            <li><a class="link" href="/blogs/jamildo/2021/11/13626785-decisao-do-tcu-obriga-estado-de-pernambuco-a-nao-pagar-aposentados-e-pensionistas-com-recursos-do-fundeb.html">Decisão do TCU obriga Estado de Pernambuco a não pagar aposentados e pensionistas com recursos do Fundeb </a></li>
+        </ul>
+</div></tinymce></p>
+<p>"As normas questionadas, portanto, ao permitirem que o Estado de Pernambuco inclua momentaneamente despesas com profissionais inativos e pensionistas no montante dos recursos p&uacute;blicos destinados a manuten&ccedil;&atilde;o e desenvolvimento do ensino, incorrem em inconstitucionalidade formal e material, por afronta aos arts. 22, XXIV, 24, IX e &sect;&sect; 2&ordm; e 4&ordm;, e 212, caput e &sect; 7&ordm;, da Constitui&ccedil;&atilde;o Federal", explica Augusto Aras, nos autos da a&ccedil;&atilde;o.</p>
+<p>O procurador geral da Rep&uacute;blica aproveitou para fazer cr&iacute;ticas ao TCE de Pernambuco.</p>
+<p>"As normas impugnadas [do TCE], ao autorizarem que despesas previdenci&aacute;rias do Estado sejam exclu&iacute;das da classifica&ccedil;&atilde;o como despesas com manuten&ccedil;&atilde;o e desenvolvimento do ensino apenas de forma gradativa &ndash; e n&atilde;o definitiva &ndash; acabam por legitimar que percentuais dos disp&ecirc;ndios previdenci&aacute;rios permane&ccedil;am computados como gastos com educa&ccedil;&atilde;o, nos exerc&iacute;cios financeiros nelas especificados. Acaba o diploma [do TCE] por autorizar, nos dispositivos ora impugnados, que o Estado de Pernambuco continue a considerar parte das suas despesas previdenci&aacute;rias como disp&ecirc;ndios com manuten&ccedil;&atilde;o e desenvolvimento do ensino, para fins de cumprimento do dever imposto pelo art. 212 da Constitui&ccedil;&atilde;o Federal", diz Aras sobre a resolu&ccedil;&atilde;o do TCE de Pernambuco na a&ccedil;&atilde;o.</p>
+<p>De acordo com informa&ccedil;&otilde;es de bastidores, na Procuradoria Geral da Rep&uacute;blica, o caso foi considerado grave. Assim Aras resolveu pedir uma cautelar imediata e urgente contra o TCE de Pernambuco. Segundo Aras, a resolu&ccedil;&atilde;o do TCE pode causar grandes "preju&iacute;zos" &agrave; educa&ccedil;&atilde;o de Pernambuco.</p>
+<p>"O perigo na demora (periculum in mora) decorre da possibilidade concreta de preju&iacute;zos para a forma&ccedil;&atilde;o e a capacita&ccedil;&atilde;o de estudantes e de profissionais da educa&ccedil;&atilde;o por incumprimento, pelo Estado de Pernambuco, do dever constitucional de aplica&ccedil;&atilde;o de percentual da receita de impostos em a&ccedil;&otilde;es direcionadas a manuten&ccedil;&atilde;o e desenvolvimento do ensino, enquanto n&atilde;o for suspensa a efic&aacute;cia das normas impugnadas, sobretudo do art. 2&ordm;, par&aacute;grafo &uacute;nico, da Resolu&ccedil;&atilde;o 5/2001 do TCE/PE, acrescido pela recente Resolu&ccedil;&atilde;o 134/2021", explicou o chefe do MPF.</p>
+<p>Ainda segundo Aras, a resolu&ccedil;&atilde;o do TCE pode causar "dano de dif&iacute;cil ou incerta repara&ccedil;&atilde;o" ao sistema de educa&ccedil;&atilde;o de Pernambuco.</p>
+<p>"Os preju&iacute;zos causados ao sistema estadual de educa&ccedil;&atilde;o, decorrentes da inconstitucional considera&ccedil;&atilde;o de aportes previdenci&aacute;rios como despesas com manuten&ccedil;&atilde;o e desenvolvimento do ensino, consubstanciam dano de dif&iacute;cil ou incerta repara&ccedil;&atilde;o, o que &eacute; mais do que suficiente para caracterizar o perigo na demora (periculum in mora)", diz Aras.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/11/23/120x80/1_indice-19841824.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'619d504517ab1', 'cd_midia':19841824, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/11/23/indice-19841824.jpg', 'ds_midia': 'Veja detalhe da a&ccedil;&atilde;o proposta por Aras', 'ds_midia_credi': 'MPF/STF', 'ds_midia_titlo': 'Veja detalhe da a&ccedil;&atilde;o proposta por Aras', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '1775', 'align': 'Left'}"><figure style="width:1775;height:1224;">
+  <img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/11/23/indice-19841824.jpg" alt="MPF/STF"  title="Veja detalhe da a&ccedil;&atilde;o proposta por Aras">
+  <figcaption class='text-left'>Veja detalhe da a&ccedil;&atilde;o proposta por Aras - <strong>MPF/STF</strong></figcaption>
+</figure></tinymce></p>
+<p>Sem alarde, a a&ccedil;&atilde;o foi protocolada nesta segunda-feira (22) no STF e j&aacute; foi sorteado como relator o ministro Roberto Barroso. O processo, segundo o andamento oficial da a&ccedil;&atilde;o, est&aacute; no gabinete do ministro Barroso.</p>
+<p>O pedido oficial da Procuradoria Geral da Rep&uacute;blica &eacute; para que Barroso "conceda a cautelar para determinar a imediata suspens&atilde;o dos efeitos do art. 2&ordm;, caput e par&aacute;grafo &uacute;nico, da Resolu&ccedil;&atilde;o 5/2001, com reda&ccedil;&atilde;o<br />dada pela Resolu&ccedil;&atilde;o 134/2021, ambas do Tribunal de Contas do Estado de Pernambuco".</p>
+<p>Na semana passada, tamb&eacute;m com cr&iacute;ticas ao TCE de Pernambuco, o Tribunal de Contas da Uni&atilde;o (TCU), por seu plen&aacute;rio e em vota&ccedil;&atilde;o un&acirc;nime, expediu medida cautelar para proibir o Estado de Pernambuco continuar utilizando recursos da educa&ccedil;&atilde;o (25% m&iacute;nimos) para pagar aposentados e pensionistas do regime pr&oacute;prio. O TCU adotou, em 10 de novembro, argumentos semelhantes aos agora usados por Aras, na a&ccedil;&atilde;o. O TCE chegou a soltar nota oficial criticando a decis&atilde;o e informando que n&atilde;o autorizou uso de recursos do Fundeb.<br /></p>
+<p>O OUTRO LADO</p>
+<p>Fica aberto o espa&ccedil;o, caso queiram se manifestar, para o Governo do Estado, o TCE de Pernambuco, o MPF em Pernambuco e o MPCO.</p>
+{% endraw %}

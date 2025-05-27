@@ -1,0 +1,27 @@
+---
+id: 12579546
+date: "2018-12-26T12:40:16Z"
+last_modified_at: null
+tags:
+  - "sem-tags"
+categories:
+  - "noticias"
+title: "A hora e a vez da bomba at\u00f4mica tupiniquim?"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/10/ufpe.jpg"
+---
+{% raw %}
+<p><p>Heitor Scalambrini Costa<br /></p>
+<p> Professor aposentado da Universidade Federal de Pernambuco</p></p>
+<p><p>Historicamente a relação entre o uso da energia nuclear para fins energéticos e para fins militares é muito estreita. O Programa Nuclear Brasileiro surgiu durante a ditadura militar, e até hoje atende demandas de setores das forças armadas, fascinados pelo poder que a energia nuclear lhes traz, e com a justificativa da necessidade de proteção e de segurança das nossas fronteiras, e de nossas riquezas.</p></p>
+<p><p>No governo que tomará posse no próximo ano, o Ministério de Minas e Energia (MME) terá como ministro um almirante da marinha brasileira, pertencente ao grupo de interesse que vê a energia nuclear sob o aspecto militar. Pela sua biografia, um defensor do uso da energia nuclear.</p></p>
+<p><p>Em entrevista concedida (FSP 7/12/2018), o futuro ministro defendeu a conclusão de Angra III (usina com potência instalada de 1.000 MW), onde já se investiu R$ 10 bilhões, e se prevê mais R$ 16 bilhões para concluí-la. Um projeto dos anos de 1970, cuja tecnologia já está completamente ultrapassada, principalmente depois dos desastres de Chernobyl, Three Mile Island e Fukushima. Caso tal insanidade seja levada a frente, milhares de brasileiros e brasileiras sofrerão sérios riscos de uma grande desgraça. Além de preços finais da energia produzida ser o mais caro das fontes atuais. Em decisão que fere os interesses do povo brasileiro, o Conselho Nacional de Politica Energética (CNPE) em 9/10/2018, numa tentativa de viabilizar Angra III, dobrou a tarifa que irá remunerar a energia produzida pela usina. Passando dos atuais R$ 240,00/MWh para R$ 480,00/MWh. O que refletirá no aumento das contas de energia para os consumidores de todo o Brasil, que pagarão por uma obra indesejada.</p></p>
+<p><p>Também nesta entrevista o futuro ministro do MME , defendeu, o projeto do submarino nuclear brasileiro, que completou dez anos em 2018, cuja responsabilidade é da marinha brasileira, e já consumiu R$ 21 bilhões em recursos públicos, valor corrigido pela inflação. O custo estimado total do projeto, que inclui a construção do submarino nuclear, de quatro submarinos convencionais e da base naval responsável pela construção e manutenção das embarcações é hoje de R$ 32 bilhões.</p></p>
+<p><p>Estas cifras mostram os vultuosos recursos dispendidos pela União. Obviamente investimentos não prioritários, quando verificamos as necessidades concretas para o bom viver da população, como obras de saneamento, educação, saúde, moradia, entre outras. Com recursos finitos disponíveis no país, as escolhas de gastos dependem das prioridades definidas pelo governo de plantão. E o governo eleito, a partir das declarações, nomeações e da constituição da “junta militar”, sic! ministério; já mostrou suas reais intenções.</p></p>
+<p><p>Um aspecto a ser ressaltado, e que não é dito publicamente, mas está presente na cabeça dos militares e de muitos civis, é a fabricação da bomba atômica. E assim o Brasil entrar no clube fechado dos países detentores desta arma nuclear. Não seria a primeira vez desta tentativa. Lembremos que um dos momentos mais sórdidos de nossa história foi o programa nuclear clandestino/paralelo. Iniciado no governo Ernesto Geisel, tinha o objetivo de garantir ao Brasil a tecnologia necessária para fabricar a bomba atômica (e ogivas para mísseis nucleares). Logo, porque não acreditar, que o que está por trás desta nomeação do almirante Bento Junior é a construção da bomba atômica?</p></p>
+<p><p>É claro que ninguém confirmará, pois nossa constituição, e os acordos, pactos internacionais assinados pelo país proíbem a construção deste artefato bélico. O próprio Decreto no 9.600, de 5 de dezembro de 2018, consolidando as diretrizes sobre a Política Nuclear Brasileira, somente se refere ao uso pacífico da energia nuclear. Diga-se de passagem que este decreto, gestado pelo Comitê de Desenvolvimento do Programa Nuclear Brasileiro, coordenado pelo gabinete de Segurança Institucional da presidência da República, foi promulgado na surdina, as vésperas do término de um governo sem nenhuma credibilidade e atolado em denúncias de corrupção, sobre um tema no mínimo polêmico, sem nenhuma discussão ampla e democrática.</p></p>
+<p><p>Dispomos de grandes reservas de urânio. Sabemos enriquecer o urânio, não somente para produção do combustível das usinas nucleo-elétricas, mas também para atingir os níveis de enriquecimento requeridos para a bomba. Além da aproximação “onde o céu é o limite”, com os americanos, fundamental para “autorizar” a construção da bomba. Então o que está faltando? Nada.</p></p>
+<p><p>O momento é para um discussão com os diversos setores da sociedade brasileira sobre o que deseja o povo brasileiro em relação a energia nuclear. Produzir eletricidade a partir das usinas nucleares é ir na contramão do que acontece no mundo, que está se distanciado desta opção, em prol das fontes renováveis de energia (Sol, vento, biomassa). E tornar o país detentor de uma bomba atômica não é o que necessitamos e queremos.</p></p>
+{% endraw %}

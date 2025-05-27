@@ -1,0 +1,28 @@
+---
+id: 15072467
+date: "2022-08-31T22:46:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "sesi"
+categories:
+  - "sem-categoria"
+title: "STJ manda trancar a\u00e7\u00e3o contra ex-secret\u00e1rio estadual de Pernambuco"
+sutia: "STJ tranca a\u00e7\u00e3o criminal por falta de justa causa"
+chapeu: "Justi\u00e7a Federal"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/01/sergio-xavier-PV.jpg"
+---
+{% raw %}
+<p>Em setembro de 2021, o Minist&eacute;rio P&uacute;blico Federal (MPF) em Pernambuco (PE) ofereceu, &agrave; Justi&ccedil;a Federal, den&uacute;ncia contra nove envolvidos em <a href="https://jc.ne10.uol.com.br/blogs/jamildo/2021/09/13045265-mpf-ofereceu-denuncia-conta-ex-secretario-estadual-de-pernambuco-e-mais-8-pessoas.html" target="_blank" rel="noopener noreferrer">supostas fraudes com recursos federais</a> no &acirc;mbito de conv&ecirc;nios firmados pelo Minist&eacute;rio do Turismo (Mtur) e pelo Servi&ccedil;o Social da Ind&uacute;stria (Sesi) com entidades sem fins lucrativos e empresas para promo&ccedil;&atilde;o de eventos culturais.</p>
+<p>Os denunciados eram acusados de supostamente desviar cerca de R$ 3,5 milh&otilde;es do projeto Relix Pernambuco 2017.</p>
+<p>Na chamada Opera&ccedil;&atilde;o Fantoche, MPF oferecia a quarta den&uacute;ncia &agrave; Justi&ccedil;a Federal. O caso &eacute; de responsabilidade da procuradora da Rep&uacute;blica Silvia Regina Pontes Lopes.</p>
+<p>Um ano depois, agora, o STJ mandou trancar a a&ccedil;&atilde;o em rela&ccedil;&atilde;o ao empres&aacute;rio e &agrave; &eacute;poca secret&aacute;rio de Meio Ambiente do Estado de Pernambuco, S&eacute;rgio Lu&iacute;s de Carvalho Xavier.</p>
+<p>Na &eacute;poca, a <a href="https://jc.ne10.uol.com.br/blogs/jamildo/2021/09/13045448-alianca-e-instituto-origami-afirmam-que-projeto-relix-teve-contas-aprovadas-pela-cgu-e-sesi-e-que-mp-imputa-crimes-sem-lastro-na-lei.html" target="_blank" rel="noopener noreferrer">Alian&ccedil;a e Instituto Origami afirmaram que projeto Relix</a> teve contas aprovadas pela CGU e Sesi e que MP imputava crimes sem lastro na lei.<a href="https://jc.ne10.uol.com.br/blogs/jamildo/2021/09/13045559-sergio-xavier-mpf-faz-acusacao-irreal-de-peculato-em-um-projeto-onde-nao-ha-recurso-publico.html" target="_blank" rel="noopener noreferrer"> Sergio Xavier </a>disse ent&atilde;o que o 'MPF faz acusa&ccedil;&atilde;o irreal de 'peculato' em um projeto onde n&atilde;o h&aacute; recurso p&uacute;blico'.</p>
+<p>Eram acusados do crime de peculato o diretor do Departamento Nacional do Sesi e presidente da Confedera&ccedil;&atilde;o Nacional da Ind&uacute;strica (CNI), Robson Braga de Andrade, o ent&atilde;o diretor regional do Sesi em Pernambuco, Ricardo Essinger, o superintendente regional do Sesi no estado, Nilo Augusto C&acirc;mara Sim&otilde;es, os diretores do Instituto Origami, Hebron Costa Cruz de Oliveira e Romero Neves Silveira Souza Filho, os administradores da Alian&ccedil;a Comunica&ccedil;&atilde;o e Cultura, Luiz Ot&aacute;vio Gomes Vieira da Silva e Lina Rosa Gomes Vieira da Silva, bem como o administrador da Alto Impacto Entretenimento, Luiz Ant&ocirc;nio Gomes Vieira da Silva.</p>
+<p>Hist&oacute;rico informado pelo MPF, na &eacute;poca</p>
+<p>As investiga&ccedil;&otilde;es relacionadas &agrave; Opera&ccedil;&atilde;o Fantoche identificaram fraudes ocorridas em processos seletivos e contratos firmados por diversos departamentos do Sesi e do Servi&ccedil;o Nacional de Aprendizagem Industrial (Senai) desde 2002. De acordo com as apura&ccedil;&otilde;es, as irregularidades ocorreram em sele&ccedil;&otilde;es e contratos envolvendo o grupo empresarial da Alian&ccedil;a Comunica&ccedil;&atilde;o e Cultura, com sede no Recife (PE). A entidade fora contratada inicialmente por inexigibilidade de licita&ccedil;&atilde;o de forma indevida e, posteriormente, por meio da contrata&ccedil;&atilde;o indireta de seus projetos mediante a coopta&ccedil;&atilde;o de organiza&ccedil;&otilde;es da sociedade civil de interesse p&uacute;blico (Oscips).</p>
+<p>Na primeira den&uacute;ncia oferecida pelo MPF no caso, em agosto de 2020, dez pessoas foram acusadas de desvio de mais de R$ 2,5 milh&otilde;es do Sesi, liberados em contrato de patroc&iacute;nio do projeto Relix Pernambuco 2014, firmado entre o Departamento Regional do Sesi no estado e o Instituto Origami.</p>
+<p>A segunda den&uacute;ncia decorrente da Opera&ccedil;&atilde;o Fantoche, ajuizada em setembro de 2020, tem como r&eacute;us sete pessoas acusadas de desvio de recursos federais repassados por meio de cinco conv&ecirc;nios firmados entre o MTur e o Instituto Mundial do Desenvolvimento e da Cidadania (IMDC). O objetivo foi a realiza&ccedil;&atilde;o de eventos art&iacute;sticos e culturais para promover o estado de Pernambuco nas cidades de Belo Horizonte e Rio de Janeiro. Para cada conv&ecirc;nio, foram repassados, pelo Minist&eacute;rio do Turismo, R$ 300 mil &ndash; totalizando R$ 1,5 milh&atilde;o em verbas federais. A terceira den&uacute;ncia oferecida pelo MPF, em mar&ccedil;o de 2021, tem como alvos oito acusados de desviar cerca de R$ 2,2 milh&otilde;es do projeto Relix Alagoas 2016.</p>
+<p>O MPF ainda analisa outros projetos financiados pelos departamentos do Sesi, al&eacute;m dos conv&ecirc;nios celebrados diretamente entre a Uni&atilde;o, por meio do Minist&eacute;rio do Turismo, e as entidades sem fins lucrativos investigadas nos desdobramentos da Opera&ccedil;&atilde;o Fantoche.</p>
+{% endraw %}

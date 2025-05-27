@@ -1,0 +1,36 @@
+---
+id: 15048889
+date: "2022-07-21T11:05:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "lula"
+  - "metro-do-recife"
+categories:
+  - "sem-categoria"
+title: "Metrovi\u00e1rios entregam manifesto contra sucateamento e privatiza\u00e7\u00e3o a Lula em ato no Recife"
+sutia: "Sindicato dos metrovi\u00e1rios aproveita visita de Lula ao recife para cobrar investimentos na manuten\u00e7\u00e3o do Metr\u00f4 do Recife"
+chapeu: "m\u00e1quina estatal"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/04/27/whatsapp_image_2022_04_27_at_13_36_43-20920434.jpeg"
+---
+{% raw %}
+<p>O Sindicato dos Metrovi&aacute;rios de Pernambuco (Sindmetro-PE) preparou um manifesto contra o sucateamento e Privatiza&ccedil;&atilde;o do Metr&ocirc; do Recife que ser&aacute; entregue ao pr&eacute;-candidato &agrave; presid&ecirc;ncia da Rep&uacute;blica, Luiz In&aacute;cio Lula da Silva, que visita o Recife nesta quinta-feira (21).</p>
+<p>A reclama&ccedil;&atilde;o &eacute; para que Lula se comprometa em reorganizar a atual situa&ccedil;&atilde;o&nbsp; que vive o metr&ocirc;, com falta de investimentos e verbas de custeio (manuten&ccedil;&atilde;o) para que possa mandar recursos que ajudem na recupera&ccedil;&atilde;o do sistema.</p>
+<p>"Al&eacute;m da luta contra a privatiza&ccedil;&atilde;o da CBTU, pois a entrega a iniciativa privada n&atilde;o &eacute; a solu&ccedil;&atilde;o para resolver os problemas do metr&ocirc;, o que precisa ser feito &eacute; o Governo Federal atender as solicita&ccedil;&otilde;es pedidas pelos t&eacute;cnicos da CBTU", afirmam, no documento.</p>
+<p>"No Recife, uma das metr&oacute;poles atendidas pelo sistema de trens e metr&ocirc;s da CBTU, h&aacute; quase quatro d&eacute;cadas, as trabalhadoras e trabalhadores da companhia t&ecirc;m contribu&iacute;do para o ir e vir de cidad&atilde;os e cidad&atilde;s nos seus mais diversos afazeres, chegando a transportar diariamente cerca de 400 mil passageiros, contribuindo determinantemente para o funcionamento da cidade e da economia locais", explicam.</p>
+<p>O <strong>Blog do Jamildo</strong>, vinculado ao Sistema SJJC, produziu uma s&eacute;rie de reportagens informando a real situa&ccedil;&atilde;o do metr&ocirc; do Recife e os motivos que acontecem para precarizar o servi&ccedil;o ofertado pelo metr&ocirc;.</p>
+<p>O blog revelou que, em um relat&oacute;rio de 58 p&aacute;ginas, o Metr&ocirc; do Recife alertou a CBTU, do governo Federal, que o sistema de trens da cidade corre o risco de asfixia e colapso.</p>
+<p>"Com dados oficiais e fatos, o Blog vem fazendo uma grande cobertura e mostrando a real situa&ccedil;&atilde;o aos leitores pernambucanos que precisam saber do desmonte que vem sendo orquestrado pelo Governo Federal", citam na carta.</p>
+<p>O documento cita cinco reportagens: &ldquo;o metr&ocirc; do Recife n&atilde;o pode aumentar viagens de trem por falta de energia confi&aacute;vel&rdquo;, &ldquo;Metr&ocirc; do Recife aponta alto risco de colapso em alerta &agrave; CBTU&rdquo;, &ldquo;Popula&ccedil;&atilde;o se vinga do Metr&ocirc; do Recife jogando lixo nas vias&rdquo;, &ldquo;Metr&ocirc; do Recife roda com trens comprados h&aacute; 38 anos&rdquo; e &ldquo;Sem canibalismo de pe&ccedil;as, Metr&ocirc; do Recife j&aacute; tinha parado, diz relat&oacute;rio enviado &agrave; CBTU&rdquo;.</p>
+<p>"Se o metr&ocirc; do Recife funciona atualmente, &eacute; m&eacute;rito exclusivo dos excelentes trabalhadores e trabalhadoras excelentes que vivem pelo metr&ocirc; e servem a popula&ccedil;&atilde;o com compet&ecirc;ncia e entrega".</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/11/22/120x80/1_ag221121025-19480036.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'619bfca548ecb', 'cd_midia':19480036, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/11/22/ag221121025-19480036.jpg', 'ds_midia': 'SUCATEAMENTO Sem investimentos do governo federal, havia ficado decidido que o governo de Pernambuco assumiria o Metr&ocirc; e, logo em seguida, abriria para a iniciativa privada', 'ds_midia_credi': 'ALEXANDRE GONDIM/JC IMAGEM', 'ds_midia_titlo': 'SUCATEAMENTO Sem investimentos do governo federal, havia ficado decidido que o governo de Pernambuco assumiria o Metr&ocirc; e, logo em seguida, abriria para a iniciativa privada', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '816', 'align': 'Left'}"><figure style="width:816;height:1224;">
+  <img loading="lazy" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/11/22/ag221121025-19480036.jpg" alt="ALEXANDRE GONDIM/JC IMAGEM"  title="SUCATEAMENTO Sem investimentos do governo federal, havia ficado decidido que o governo de Pernambuco assumiria o Metr&ocirc; e, logo em seguida, abriria para a iniciativa privada">
+  <figcaption class='text-left'>SUCATEAMENTO Sem investimentos do governo federal, havia ficado decidido que o governo de Pernambuco assumiria o Metr&ocirc; e, logo em seguida, abriria para a iniciativa privada - <strong>ALEXANDRE GONDIM/JC IMAGEM</strong></figcaption>
+</figure></tinymce></p>
+<p>O manifesto relata que &lsquo;com a chegada de Michel Temer &agrave; presid&ecirc;ncia, todas as conquistas e avan&ccedil;os obtidos em 13 anos de governos populares v&ecirc;m escorrendo entre nossos dedos. A fraude eleitoral que permitiu a ascens&atilde;o de um governo de extrema-direita, materializado na figura de Jair Bolsonaro, aprofundou ainda mais nossa trag&eacute;dia. Para al&eacute;m dos &uacute;ltimos anos em que tivemos reajustes salariais muito abaixo da infla&ccedil;&atilde;o e sem qualquer ganho real e perda de direitos sociais hist&oacute;ricos, vemos a companhia se degradar completamente&rsquo;.</p>
+<p>"Tamb&eacute;m &eacute; evidenciado que os sucessivos cortes or&ccedil;ament&aacute;rios hoje nos colocam numa condi&ccedil;&atilde;o de iminente colapso, sem material de trabalho e pe&ccedil;as de reposi&ccedil;&atilde;o, chegando ao ponto dos pr&oacute;prios trabalhadores e trabalhadoras realizarem cotas para comprar materiais e manter o sistema operando, mesmo que precariamente".</p>
+<p>No manifesto tamb&eacute;m foram anexadas imagens mostrando toda a situa&ccedil;&atilde;o das esta&ccedil;&otilde;es do metr&ocirc; e das oficinas que precisam de reparos e a falta de investimento e de verbas n&atilde;o proporcionam tais melhorias.</p>
+<p>A situa&ccedil;&atilde;o do canibalismo que precisa ser feito para continua&ccedil;&atilde;o das atividades dos trens e VLT&rsquo;s foi outro ponto abordado, pois a a&ccedil;&atilde;o &eacute; feita para a retirada de pe&ccedil;as de ve&iacute;culos parados para utiliza&ccedil;&atilde;o em outros que est&atilde;o funcionando, pois, a falta de verbas impede da compra de pe&ccedil;as novas.</p>
+<p>A visita de Lula a Pernambuco come&ccedil;ou nesta quarta-feira (20) nas cidades de Garanhuns e Serra Talhada, sendo conclu&iacute;da nesta quinta&nbsp; com o encontro no Recife, quando ser&aacute; entregue o manifesto da categoria.</p>
+{% endraw %}

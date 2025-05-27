@@ -1,0 +1,32 @@
+---
+id: 15685838
+date: "2024-03-18T13:11:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "israel"
+categories:
+  - "sem-categoria"
+title: "Governistas cochilam e Alcides Cardoso aprova mo\u00e7\u00e3o de rep\u00fadio contra Lula por fala sobre Israel "
+sutia: "\"Tivemos uma vit\u00f3ria hoje com a aprova\u00e7\u00e3o da mo\u00e7\u00e3o de rep\u00fadio contra o presidente da Rep\u00fablica\", comemorou Alcides Cardoso"
+chapeu: "conflito internacional"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/03/10/000_34kz98k-26592891.jpg"
+---
+{% raw %}
+<p>A C&acirc;mara do Recife aprovou, na reuni&atilde;o ordin&aacute;ria desta segunda-feira (18), um requerimento de mo&ccedil;&atilde;o rep&uacute;dio contra o presidente da Rep&uacute;blica Luiz In&aacute;cio Lula da Silva (PT) pela fala em que compara o que ocorre na Faixa de Gaza ao Holocausto, em cr&iacute;tica a Israel.</p>
+<p>De autoria do l&iacute;der da oposi&ccedil;&atilde;o na C&acirc;mara, vereador Alcides Cardoso (PSDB), a mo&ccedil;&atilde;o de rep&uacute;dio foi aprovada em vota&ccedil;&atilde;o simb&oacute;lica com a declara&ccedil;&atilde;o de voto n&atilde;o de 10 parlamentares apenas para constar na ata da reuni&atilde;o.</p>
+<p>&ldquo;Tivemos uma vit&oacute;ria hoje com a aprova&ccedil;&atilde;o da mo&ccedil;&atilde;o de rep&uacute;dio contra o presidente da Rep&uacute;blica de ocasi&atilde;o e ex-presidi&aacute;rio Lula pela sua fala perversa na qual compara o que ocorre na Faixa de Gaza e o direito leg&iacute;timo de defesa de Israel contra o grupo terrorista Hamas ao Holocausto. O genoc&iacute;dio dos judeus n&atilde;o poderia ser usado dessa forma asquerosa por Lula e sim no intuito de que esse fato hist&oacute;rico terr&iacute;vel nunca mais se repita, mas n&atilde;o d&aacute; para esperar algo assim de um pol&iacute;tico como o atual presidente da Rep&uacute;blica. Na sua sanha de agradar os seus companheiros radicais de esquerda e de se alinhar ao grupo terrorista Hamas, Lula ignorou as mortes, os sequestros e os estupros de mulheres israelenses no massacre cometido no dia 7 de outubro do ano passado pelo Hamas. A Casa de Jos&eacute; Mariano sai maior hoje&rdquo;, disse Alcides Cardoso.</p>
+<p>Ap&oacute;s o presidente da C&acirc;mara do Recife, vereador <strong>Romerinho Jatob&aacute; (PSB),</strong> anunciar a aprova&ccedil;&atilde;o, ocorreu fortes protestos da <strong>vereadora Liana Cirne (PT),</strong> que fez uma grande mobiliza&ccedil;&atilde;o nas redes sociais para barrar a medida desde que o requerimento entrou em pauta pela primeira vez. Houve seguidos adiamentos de discuss&atilde;o. Nas galerias, havia a presen&ccedil;a de apoiadores da Palestina.</p>
+<p>No centro dos protestos, estava a quest&atilde;o se foi ou n&atilde;o pedido vota&ccedil;&atilde;o nominal, em que cada vereador registra o seu voto, o que praticamente definiria a derrota da mo&ccedil;&atilde;o de rep&uacute;dio devido &agrave; maioria que o prefeito Jo&atilde;o Campos (PSB), aliado de Lula, tem na Casa.</p>
+<p>O l&iacute;der do PSB e vice-l&iacute;der do governo, <strong>vereador Rinaldo J&uacute;nior,</strong> pediu de forma enf&aacute;tica o voto n&atilde;o ao requerimento de Alcides Cardoso. Como a Mesa Diretora informou que n&atilde;o foi registrado solicita&ccedil;&atilde;o de vota&ccedil;&atilde;o nominal, a reuni&atilde;o seguiu normalmente. Nos bastidores, foi dito que Liana e demais opositores &agrave; mo&ccedil;&atilde;o de rep&uacute;dio &ldquo;comeram mosca&rdquo; ao n&atilde;o pedir vota&ccedil;&atilde;o nominal no espa&ccedil;o regimental.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/03/09/120x80/1_israel-26588960.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'65ecdf68bf2e5', 'cd_midia':26588960, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/03/09/israel-26588960.jpg', 'ds_midia': 'Protesto contra Benjamin Netanyahu em Israel', 'ds_midia_credi': 'JACK GUEZ/AFP', 'ds_midia_titlo': 'Protesto contra Benjamin Netanyahu em Israel', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '816', 'align': 'Left'}"><figure style="width:816;height:1224;">
+			<img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/03/09/israel-26588960.jpg" alt="JACK GUEZ/AFP" title="Protesto contra Benjamin Netanyahu em Israel">
+		<figcaption class='text-left'>
+			Protesto contra Benjamin Netanyahu em Israel - <strong>JACK GUEZ/AFP</strong>
+		</figcaption>
+	</figure></tinymce></p>
+<p>&ldquo;Nenhuma palavra foi dita por Lula para condenar os estupros de mulheres israelenses perpetrados pelos terroristas do Hamas desde o dia em que a Organiza&ccedil;&atilde;o das Na&ccedil;&otilde;es Unidas, que tem uma posi&ccedil;&atilde;o clara contra Israel, divulgou um relat&oacute;rio confirmando esses crimes. Lula e seus seguidores cegos e a esquerda em geral veem a guerra de Israel contra o Hamas com o seu distorcido filtro ideol&oacute;gico. Vamos aos fatos, nobres colegas. O grupo terrorista Hamas tomou o poder na Faixa de Gaza e usa o territ&oacute;rio e os palestinos, esses como v&iacute;timas &uacute;teis, para o seu objetivo, que n&atilde;o &eacute;, nunca foi e nunca ser&aacute; a cria&ccedil;&atilde;o de um estado palestino e sim a destrui&ccedil;&atilde;o completa de Israel, matando todos os seus habitantes e instalando l&aacute; um regime teocr&aacute;tico&rdquo;, disse Alcides Cardoso.</p>
+<p>O l&iacute;der da oposi&ccedil;&atilde;o criticou o que chamou de uso de informa&ccedil;&otilde;es do &ldquo;Minist&eacute;rio da Sa&uacute;de do Hamas&rdquo; na cobertura do conflito entre Israel e o grupo terrorista Hamas.</p>
+<p>&ldquo;Trazendo um exemplo pr&oacute;ximo de n&oacute;s, &eacute; como se publicasse uma not&iacute;cia tendo como fonte o PCC ou o Comando Vermelho. De forma cruel, os palestinos s&atilde;o usados como escudos humanos para os terroristas do Hamas e para fortalecerem sua falsa narrativa diante da comunidade internacional. A paz na regi&atilde;o passa sim pela elimina&ccedil;&atilde;o do grupo terrorista Hamas e o di&aacute;logo com uma lideran&ccedil;a palestina consciente que possa emergir no territ&oacute;rio e esteja livre das amarras que impediram o avan&ccedil;o das negocia&ccedil;&otilde;es de paz&rdquo;, disse o vereador de oposi&ccedil;&atilde;o.<br /></p>
+{% endraw %}

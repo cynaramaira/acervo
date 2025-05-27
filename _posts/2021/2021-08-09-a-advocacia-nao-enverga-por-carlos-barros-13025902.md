@@ -1,0 +1,30 @@
+---
+id: 13025902
+date: "2021-08-09T08:43:00Z"
+last_modified_at: null
+tags:
+  - "direito"
+  - "oab"
+  - "pernambuco"
+categories:
+  - "sem-categoria"
+title: "A advocacia n\u00e3o enverga. Por Carlos Barros"
+sutia: "O advogado, por natureza, \u00e9 um defensor das liberdades individuais."
+chapeu: "mundo do direito"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/08/09/foto___carlos_barros-18638342.jpg"
+---
+{% raw %}
+<p>Por Carlos Barros<br />Advogado criminalista</p>
+<p>Sobre os advogados, tudo o que realmente importa j&aacute; foi dito. Desde os grandes pensadores e literatos, passando por juristas de escol at&eacute; a pr&oacute;pria Constitui&ccedil;&atilde;o Federal. Mais: tudo quanto dito &eacute;, h&aacute; s&eacute;culos, diariamente comprovado.</p>
+<p>O advogado &eacute; aquele legalmente incumbido da honrosa miss&atilde;o de falar por quem esteja &agrave;s voltas com algum conflito &iacute;nsito ao conv&iacute;vio em sociedade, n&atilde;o sendo &agrave; toa que &ldquo;a etimologia da palavra, de origem latina, &eacute; exatamente esta: ad vocare, isto &eacute;, &lsquo;chamado para falar&rsquo;&rdquo;, conforme dissecado por Jos&eacute; Roberto de Castro Neves.</p>
+<p>Das simples querelas de interesse eminentemente privado &agrave;s demandas graves e clamorosas, que envolvem bens jur&iacute;dicos de interesse p&uacute;blico e, por vezes, transformam o judici&aacute;rio numa arena em que se digladiam o poder de punir do Estado e o direito de liberdade do cidad&atilde;o, &eacute; o advogado chamado para falar por quem, inocente ou culpado, esteja sob a mira do &iacute;mpeto punitivo.</p>
+<p>A prop&oacute;sito, quase que um press&aacute;gio do exerc&iacute;cio advocat&iacute;cio na justi&ccedil;a criminal contempor&acirc;nea, cada dia mais contaminada pela &ldquo;c&oacute;lera popular&rdquo; e impulsionada por &ldquo;alucina&ccedil;&otilde;es coletivas&rdquo;, &eacute; a secular li&ccedil;&atilde;o de Rui Barbosa no sentido de que, nesse cen&aacute;rio, &ldquo;come&ccedil;a a justi&ccedil;a a correr perigo, e com ele surge para o sacerd&oacute;cio do advogado a fase melindrosa, cujas dificuldades poucos ousam arrostar&rdquo;, sendo &ldquo;mister resistir &agrave; impaci&ecirc;ncia dos &acirc;nimos exacerbados, que n&atilde;o tolera a serenidade das formas judiciais&rdquo;, pois &ldquo;&eacute;, ao contr&aacute;rio, o interesse da verdade o que exige que elas se esgotem; e o advogado &eacute; o ministro desse interesse. Trabalhando porque n&atilde;o fale&ccedil;a ao seu constituinte uma s&oacute; dessas garantias da legalidade, trabalha ele para que n&atilde;o falte &agrave; justi&ccedil;a nenhuma de suas garantias&rdquo;.</p>
+<p>Compreende-se, portanto, Carnelutti ter asseverado que &ldquo;a ess&ecirc;ncia, a dificuldade, a nobreza da advocacia &eacute; esta: sentar-se sobre o &uacute;ltimo degrau da escada ao lado do acusado&rdquo;.<br />Realmente, segundo professado por John Locke , &ldquo;o fim da lei n&atilde;o &eacute; abolir ou restringir, mas conservar e ampliar a liberdade&rdquo;, da&iacute; Evandro Lins e Silva, do alto da sua envergadura profissional, ter lan&ccedil;ado a c&eacute;lebre frase: &ldquo;eu tenho o v&iacute;cio da defesa da liberdade&rdquo;. O advogado, por natureza, &eacute; um defensor das liberdades individuais.</p>
+<p>Ali&aacute;s, consoante Miguel Reale J&uacute;nior , justamente &ldquo;por ser exigido a olhar o bem do outro, o advogado sabe tamb&eacute;m se dedicar &agrave;s causas de interesse geral, &agrave;quilo que concerne &agrave; sociedade, &agrave; comunidade a que pertence&rdquo;, de modo que &ldquo;a hist&oacute;ria &eacute; f&eacute;rtil em mostrar fases de retrocesso &agrave; paix&atilde;o e &agrave; viol&ecirc;ncia e reconquista da racionalidade, sempre por obra dos advogados&rdquo;, motivo pelo qual &ldquo;o advogado vem a ser um instrumento do processo civilizat&oacute;rio&rdquo;.</p>
+<p>N&atilde;o por outra raz&atilde;o, ap&oacute;s esquadrinhar &ldquo;a hist&oacute;ria da advocacia e sua contribui&ccedil;&atilde;o para a humanidade&rdquo;, Castro Neves bradou: &ldquo;os advogados salvaram o mundo&rdquo;, e &ldquo;fizeram isso protegendo o homem de seu maior inimigo: os pr&oacute;prios homens&rdquo;.</p>
+<p>Tanto &eacute; assim que, embora de forma transversa, esse relevante papel da advocacia foi retratado por Shakespeare h&aacute; quase meio mil&ecirc;nio, na pe&ccedil;a Henrique VI, atrav&eacute;s da famosa fala do personagem Dick, o a&ccedil;ougueiro, que, mirando a subvers&atilde;o da ordem e a implanta&ccedil;&atilde;o do caos, exortou: &ldquo;a primeira coisa a fazer &eacute; matar todos os advogados&rdquo;.</p>
+<p>E &eacute; exatamente essa indiscut&iacute;vel relev&acirc;ncia que faz a Constitui&ccedil;&atilde;o Federal brasileira, contemplando apenas a advocacia dentre as profiss&otilde;es privadas e a elevando &agrave; condi&ccedil;&atilde;o de m&uacute;nus p&uacute;blico, cravar: &ldquo;O advogado &eacute; indispens&aacute;vel &agrave; administra&ccedil;&atilde;o da justi&ccedil;a, sendo inviol&aacute;vel por seus atos e manifesta&ccedil;&otilde;es no exerc&iacute;cio da profiss&atilde;o, nos limites da lei&rdquo; (art. 133).<br />Definitivamente, &ldquo;a advocacia &eacute; uma fatigante e &aacute;rdua atividade posta a servi&ccedil;o da justi&ccedil;a&rdquo;, como assentou Eduardo Couture , e, por se tratar de fato insuper&aacute;vel, repita-se &agrave; exaust&atilde;o: &ldquo;n&atilde;o &eacute; profiss&atilde;o para covardes&rdquo;, tal qual cunhou Sobral Pinto.</p>
+<p>Enfim, os advogados s&atilde;o os profissionais que, mesmo possuindo apenas o verbo como arma e n&atilde;o estando inseridos no rol de autoridades, t&ecirc;m a nobre miss&atilde;o de lutar para que estas se curvem ao imp&eacute;rio da lei e ao Estado Democr&aacute;tico de Direito.</p>
+<p>Com um detalhe: nessa lida, a advocacia n&atilde;o enverga. Goste-se ou n&atilde;o.<br /></p>
+{% endraw %}

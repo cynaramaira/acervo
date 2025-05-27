@@ -1,0 +1,26 @@
+---
+id: 15478348
+date: "2023-06-02T09:32:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "venezuela"
+  - "maduro"
+categories:
+  - "sem-categoria"
+title: "Visita de Maduro: 'Brasil vive preso em um ciclo de adula\u00e7\u00e3o de autocratas e ditadores'"
+sutia: "Visita do ditador venezuelano tamb\u00e9m repercutiu no Legislativo estadual nesta semana"
+chapeu: "Opini\u00e3o"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/05/29/lula_e_maduro-23063135.jpg"
+---
+{% raw %}
+<p>M&aacute;rcio Coimbra &eacute; presidente do Conselho da Funda&ccedil;&atilde;o da Liberdade Econ&ocirc;mica e Coordenador da p&oacute;s-gradua&ccedil;&atilde;o em Rela&ccedil;&otilde;es Institucionais e Governamentais da Faculdade Presbiteriana Mackenzie Bras&iacute;lia. Cientista Pol&iacute;tico, mestre em A&ccedil;&atilde;o Pol&iacute;tica pela Universidad Rey Juan Carlos (2007), ex-Diretor da Apex-Brasil e do Senado Federal, ele nos escreve a respeito da visita de Maduro ao Brasil, nesta semana. Veja o artigo abaixo</p>
+<h2>Desprezo pela Democracia</h2>
+<p><em>O Brasil parece preso em um ciclo intermin&aacute;vel de adula&ccedil;&atilde;o de autocratas e ditadores. N&atilde;o importa se pelo caminho da direita ou da esquerda, o resultado &eacute; sempre o mesmo, ou seja, de amizade fraterna com l&iacute;deres de car&aacute;ter duvidoso que possuem na ess&ecirc;ncia de seu regime o desprezo pela democracia. O brasileiro, levado por uma mistura bizarra de idolatria, autoengano e pitadas de polariza&ccedil;&atilde;o, acaba comprando os argumentos fr&aacute;geis e indecentes que buscam justificar o injustific&aacute;vel.</em><br /></p>
+<p><em>O cap&iacute;tulo mais recente desse <a href="https://jc.ne10.uol.com.br/colunas/jamildo/2023/05/15476898-deputados-de-ferias-na-venezuela-de-maduro-entenda-o-convite-feito-na-assembleia-legislativa.html" target="_blank" rel="noopener noreferrer">famoso ciclo ocorre com a visita de Nicol&aacute;s Maduro ao Brasil. </a>Recebido com pompa por Lula, que defendeu a entrada da Venezuela nos Brics, chamou o l&iacute;der da oposi&ccedil;&atilde;o local de impostor e disse que Maduro &eacute; v&iacute;tima de uma narrativa que visa atingir seu governo. Vamos aos fatos. S&atilde;o mais de 7 milh&otilde;es de expatriados, 82% da popula&ccedil;&atilde;o vivendo em situa&ccedil;&atilde;o de pobreza, infla&ccedil;&atilde;o acima de 300%, mais de 240 pesos pol&iacute;ticos, assassinatos e deten&ccedil;&otilde;es arbitr&aacute;rias de jornalistas, judici&aacute;rio dependente do governo, al&eacute;m de torturas, mortes e persegui&ccedil;&otilde;es de advers&aacute;rios pol&iacute;ticos. O pa&iacute;s vive uma crise socioecon&ocirc;mica, pol&iacute;tica, humanit&aacute;ria e migrat&oacute;ria. Nenhuma narrativa barra a triste realidade dos venezuelanos.</em><br /></p>
+<p><em>Como a mais importante democracia da Am&eacute;rica Latina, o Brasil tem a obriga&ccedil;&atilde;o moral de n&atilde;o compactuar com l&iacute;deres e regimes que ferem os direitos humanos de forma brutal e arbitr&aacute;ria, como vemos na Venezuela, assim como na Nicar&aacute;gua. Como disse o presidente do Chile, Gabriel Boric, n&atilde;o pode existir padr&atilde;o duplo na condena&ccedil;&atilde;o daqueles que atentam contra a democracia, as liberdades e os direitos humanos. Viola&ccedil;&otilde;es devem ser condenadas, n&atilde;o importa se cometidas pela direita ou pela esquerda.</em><br /></p>
+<p><em>Infelizmente, o Brasil parece ter optado pelo caminho oposto. Bolsonaro condenou Lula pela aproxima&ccedil;&atilde;o com a Venezuela, por&eacute;m esqueceu de usar a mesma r&eacute;gua ao se aproximar da R&uacute;ssia, de Putin, e silenciar diante da viol&ecirc;ncia produzida pelo Kremlin na Ucr&acirc;nia. Bolsonaro aproximou-se do pr&iacute;ncipe saudita Mohammed bin Salman, al&eacute;m das monarquias do Catar e Bahrein e do l&iacute;der h&uacute;ngaro Victor Orb&aacute;n, que mesmo fazendo parte da Uni&atilde;o Europeia, n&atilde;o ostenta credenciais muito democr&aacute;ticas.</em><br /></p>
+<p><em>Os l&iacute;deres brasileiros deveriam se alinhar a valores morais universais, consagrados em nossa Constitui&ccedil;&atilde;o e outros instrumentos legais internacionais. Uma ditadura n&atilde;o &eacute; boa quando o ditador &eacute; amigo. Uma ditadura &eacute; sempre uma aberra&ccedil;&atilde;o que precisa ser denunciada. Um pa&iacute;s democr&aacute;tico jamais pode silenciar diante da viol&ecirc;ncia, sob pena de se tornar c&uacute;mplice de seus crimes.</em><br /></p>
+<p><em>Tanto o governo anterior, quanto o atual, erram profundamente nesse aspecto e n&atilde;o ser&aacute; o alinhamento ideol&oacute;gico com um desses que deve aprisionar nossa opini&atilde;o. N&atilde;o pode existir compromisso com o erro guiado pela idolatria pol&iacute;tica. A op&ccedil;&atilde;o por um governo que fosse norteado por valores reais ao inv&eacute;s de conveni&ecirc;ncias temporais deveria ser o caminho diante do tamanho e import&acirc;ncia do Brasil no cen&aacute;rio internacional. Ao fazer a op&ccedil;&atilde;o pela omiss&atilde;o, nos tornamos submissos aos excessos, semeando um desprezo pela democracia que pode cobrar um pre&ccedil;o muito alto em nossa pr&oacute;pria na&ccedil;&atilde;o.</em><br /></p>
+{% endraw %}

@@ -1,0 +1,31 @@
+---
+id: 15684941
+date: "2024-03-15T10:10:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "opiniao"
+categories:
+  - "sem-categoria"
+title: "Liberdade, mas n\u00e3o tanto  "
+sutia: "Se n\u00e3o houver meios democr\u00e1ticos para a canaliza\u00e7\u00e3o do dissenso (como deveria ocorrer com o debate p\u00fablico de ideias), qual ser\u00e1 a sa\u00edda para a exposi\u00e7\u00e3o do ponto de vista?"
+chapeu: "opini\u00e3o"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2023/05/16/img20230510211915663-22997192.jpg"
+---
+{% raw %}
+<p>Por Elton Duarte Batalha, em artigo enviado ao blog de Jamildo<br /></p>
+<p>Algumas situa&ccedil;&otilde;es ocorridas nos &uacute;ltimos tempos demonstram como os princ&iacute;pios democr&aacute;ticos ainda n&atilde;o est&atilde;o enraizados na sociedade brasileira. Em diferentes lugares, <strong>Deltan Dallagnol,</strong> ex-procurador e ex-deputado federal, bem como<strong> Andr&eacute; Lajst</strong>, presidente da organiza&ccedil;&atilde;o n&atilde;o governamental (ONG) StandWithUs Brasil, foram impedidos de falar em eventos p&uacute;blicos pelo fato de pessoas presentes no local discordarem do ponto de vista dos palestrantes mencionados.</p>
+<p>Tais situa&ccedil;&otilde;es, pouco comentadas no debate p&uacute;blico, evidenciam uma degenera&ccedil;&atilde;o na edifica&ccedil;&atilde;o democr&aacute;tica nacional, algo que merece uma reflex&atilde;o um pouco mais detida.<br /> <br />A democracia &eacute; marcada pela pluralidade de vis&otilde;es e pela canaliza&ccedil;&atilde;o dos conflitos para solu&ccedil;&atilde;o por meios n&atilde;o violentos. Portanto, &eacute; da natureza do ambiente democr&aacute;tico escutar opini&otilde;es contr&aacute;rias que, eventualmente, causem desconforto no ouvinte.</p>
+<p>Imaginar que, em tal ambiente, somente ser&aacute; dada voz a quem pensa de modo igual a um grupo espec&iacute;fico &eacute; absoluto contrassenso. Lamentavelmente, essa esp&eacute;cie de <strong>&lsquo;censura do bem&rsquo;</strong> tem tomado corpo na sociedade brasileira, sem que haja qualquer rea&ccedil;&atilde;o mais firme contra tal fen&ocirc;meno, extremamente nocivo &agrave; constru&ccedil;&atilde;o de um ambiente de livre manifesta&ccedil;&atilde;o de ideias.</p>
+<p>Imaginar que algu&eacute;m (como as duas pessoas mencionadas) n&atilde;o tem o direito de expressar o pensamento publicamente pois uma certa coletividade sente-se incomodada &eacute; algo que vulnera qualquer concep&ccedil;&atilde;o democr&aacute;tica que mere&ccedil;a tal qualifica&ccedil;&atilde;o.<br /> <br />A tentativa de impedir a fala de quem pensa diferente, como ocorreu com Dallagnol e com Lajst em duas universidades p&uacute;blicas brasileiras, &eacute; prova da imaturidade democr&aacute;tica presente no pa&iacute;s. <br /></p>
+<p>Sob o estranho argumento de que fariam alguma esp&eacute;cie de <strong>discurso de &oacute;dio</strong> ou representariam algo pr&oacute;ximo de um suposto <strong>fascismo</strong>, os palestrantes sofreram viol&ecirc;ncia em rela&ccedil;&atilde;o &agrave; liberdade de express&atilde;o. Note-se que n&atilde;o houve qualquer comprova&ccedil;&atilde;o por meio jur&iacute;dico (que deveria ser o canal utilizado, se fosse o caso) de que Dallagnol e Lajst vulnerariam os direitos fundamentais que comp&otilde;em o arcabou&ccedil;o jur&iacute;dico nacional.</p>
+<p>Na defesa de um suposto bem maior, os manifestantes demonstraram o esp&iacute;rito autorit&aacute;rio daqueles que tentam calar quem pensa de forma diversa, utilizando-se do falso argumento de que est&atilde;o defendendo a democracia.</p>
+<p>Como dito, t&atilde;o assustador quanto a postura dos ativistas &eacute; o sil&ecirc;ncio institucional e da sociedade. A asfixia do contradit&oacute;rio, t&atilde;o em voga neste pa&iacute;s por atos como os descritos, &eacute; algo visto cada vez com mais naturalidade por certa parcela da coletividade.</p>
+<p>A grande quest&atilde;o &eacute; a seguinte: se n&atilde;o houver meios democr&aacute;ticos para a canaliza&ccedil;&atilde;o do dissenso (como deveria ocorrer com o debate p&uacute;blico de ideias), qual ser&aacute; a sa&iacute;da para a exposi&ccedil;&atilde;o do ponto de vista?</p>
+<p>&Eacute; evidente que a perspectiva &eacute; sombria, como a hist&oacute;ria &eacute; farta em exemplos. Manifesta&ccedil;&otilde;es violentas e elei&ccedil;&atilde;o de pol&iacute;ticos populistas que demonstram desprezo pela parcela da popula&ccedil;&atilde;o que n&atilde;o lhe d&aacute; apoio s&atilde;o fen&ocirc;menos frequentes na contemporaneidade.</p>
+<p>A ideia de que a democracia pode impedir que certas opini&otilde;es (que est&atilde;o no campo da legalidade) sejam expressas &eacute; uma contradi&ccedil;&atilde;o em si mesma. Em uma lista de pessoas que insistem em pensar livremente, Lajst e Dallagnol foram mais duas v&iacute;timas da preocupante restri&ccedil;&atilde;o do direito de exprimir-se, algo que parece causar cada vez mais inc&ocirc;modo no pa&iacute;s, especialmente em certos ambientes (de modo ir&ocirc;nico, no caso deles, em universidades, as quais deveriam prezar pela liberdade de emitir opini&otilde;es e, com isso, fomentar debates com conte&uacute;do).</p>
+<p>O resultado &eacute; que, a cada dia, os brasileiros moderados tendem a ficar mais calados, sem demonstrar o que efetivamente pensam, com receio de repres&aacute;lias, enquanto extremistas &agrave; esquerda e &agrave; direita no espectro pol&iacute;tico vociferam em redes sociais e em alguns eventos presenciais.</p>
+<p>Estranho pa&iacute;s &eacute; este em que parte da popula&ccedil;&atilde;o tenta calar outra parcela sob o argumento de suposta defesa de direitos. Nada mais perigoso para a democracia do que a exist&ecirc;ncia daqueles que dizem ser seus (pretensos) defensores e que acreditam ser os portadores da verdade absoluta e da pureza moral.<br /></p>
+<p><em>Elton Duarte Batalha &eacute; professor na Faculdade de Direito (FDir) da Universidade Presbiteriana Mackenzie (UPM). Advogado. Doutor em Direito.</em><br /></p>
+{% endraw %}

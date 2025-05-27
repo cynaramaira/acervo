@@ -1,0 +1,53 @@
+---
+id: 12547187
+date: "2017-03-10T12:33:21Z"
+last_modified_at: null
+tags:
+  - "armando-monteiro"
+  - "inauguracao"
+  - "lula"
+  - "michel-temer"
+  - "transposicao"
+categories:
+  - "noticias"
+title: "Temer inaugura Transposi\u00e7\u00e3o, mas moradores de Monteiro agradecem a Lula"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/03/monteiro-transposicao.jpg"
+---
+{% raw %}
+<p><p><em>Com informações de Jamildo Melo, em Monteiro (PB)</em></p></p>
+<p><p>A água do eixo leste da Transposição do Rio São Francisco chegou à primeira cidade da Paraíba atendida pela obra, Monteiro. Mas moradores do município ainda aguardam ansiosos por melhorias provocadas pelo projeto no abastecimento da região e assistem de perto aos testes. Eles contam que as águas foram liberadas na tarde dessa quinta-feira (9), nas primeiras experiências antes da chegada de Michel Temer (PMDB) para inaugurá-la, nesta sexta-feira (10). Apesar de ser o peemedebista o presidente que vai participar da solenidade, o nome de Lula (PT) é lembrado nos agradecimentos pela obra. </p></p>
+<p><p><iframe src="//mais.uol.com.br/static/uolplayer/?mediaId=16160412" width="100%" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/temer-ironiza-manifestantes-em-monteiro-e-diz-que-eles-vao-se-banhar-na-transposicao/">Temer ironiza manifestantes em Monteiro e diz que eles vão se banhar na Transposição</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/nao-quero-paternidade-dessa-obra-ninguem-pode-te-la-diz-temer-sobre-transposicao/">“Não quero a paternidade dessa obra. Ninguém pode tê-la”, diz Temer sobre Transposição</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/transposicao-chega-a-paraiba-mas-ainda-falta-muito-em-pernambuco/">Transposição chega à Paraíba, mas ainda falta muito em Pernambuco</a></p></p>
+<p><p>Temer chegou à Paraíba no fim da manhã desta sexta-feira (10), para assinar, em Campina Grande, a ordem de serviço para obras na BR-230. De lá, seguiu de helicóptero para Sertânia, no Sertão pernambucano, última cidade do Estado a receber a Transposição e única beneficiada. Foi no município também que há uma semana o reservatório de Barreiros apresentou um vazamento. O peemedebista foi a Monteiro depois para inaugurar o eixo leste do projeto, onde foi recebido por protesto.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/cassio-cunha-lima-e-uma-pena-ver-jovens-levantando-bandeiras-defendendo-pt/">Cássio Cunha Lima: É uma pena ver jovens levantando bandeiras defendendo PT</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/em-monteiro-grupo-protesta-ao-lado-do-local-de-cerimonia-com-temer/">Em Monteiro, grupo protesta ao lado do local de cerimônia com Temer</a></p></p>
+<p><img class="size-full wp-image-176127" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/03/michel-temer-em-campina-grande.jpg" alt="Temer em Campina Grande (Foto: Divulgação)" width="750" height="410" /> Temer iniciou visita ao Nordeste por Campina Grande (Foto: Divulgação)</p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/09/muita-gente-disse-que-era-impossivel-fazer-transposicao-diz-lula/">Quem estava no poder estudava, mas nada fazia, diz Lula sobre Transposição</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/09/temer-decide-ir-sertania-onde-barragem-da-transposicao-vazou/">Temer decide ir a Sertânia, onde barragem da Transposição vazou</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/09/mpf-na-paraiba-faz-acordo-com-orgaos-responsaveis-pela-transposicao/">MPF na Paraíba faz acordo com órgãos responsáveis pela Transposição</a></p></p>
+<p><p>A previsão inicial era que <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/03/temer-volta-ao-nordeste-dia-9-para-inaugurar-transposicao-na-paraiba/">Temer fizesse a sua terceira visita às obras em três meses nesta quinta-feira (9)</a>, mas, nessa segunda-feira (6), o ministro Helder Barbalho (Integração Nacional) vistoriou o reservatório de Barreiros, no Sertão pernambucano, que teve um vazamento na semana passada, e <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/06/agua-da-transposicao-deve-chegar-paraiba-no-sabado-diz-ministro/">anunciou que a água só chegaria à Paraíba no sábado (11)</a>. Porém, a chegada da água adiantou a visita.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/07/apos-cobrar-paternidade-lula-visita-obras-da-transposicao/">Após cobrar paternidade, Lula programa visita às obras da Transposição</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/06/agua-da-transposicao-deve-chegar-paraiba-no-sabado-diz-ministro/">Temer visita pela terceira vez obras da Transposição no Nordeste</a></p></p>
+<p><p>No eixo leste, a água do São Francisco é captada em Floresta, no Sertão pernambucano, e vai até Sertânia. De lá, vai para o açude de Poções, em Monteiro. Depois, a água seguirá pelo Rio Paraíba até o reservatório Boqueirão, para reforçar o abastecimento em Campina Grande.</p></p>
+<p><img class="size-full wp-image-176128" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/03/transposicao-monteiro.jpg" alt="Foto: Jamildo Melo/Blog de Jamildo" width="750" height="410" /> Canal da Transposição em Monteiro (Foto: Jamildo Melo/Blog de Jamildo)</p>
+<p><p><a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/21/geraldo-alckmin-visita-projeto-das-aguas-da-transposicao-em-floresta-e-custodia-nesta-quarta/">A chegada da água a Sertânia foi marcada por uma visita de Helder Barbalho com o governador de São Paulo, Geraldo Alckmin (PSDB)</a>. Através da Sabesp (Companhia de Saneamento Básico do Estado de São Paulo), o tucano, que tem planos de se candidatar à presidência, cedeu bombas para o projeto. Alckmin é só um dos nomes que usam a estratégia de ficar ligados à transposição.</p></p>
+<p><img class="size-full wp-image-176146" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/03/temer-sertania2.jpg" alt="Temer em Sertânia, antes de chegar a Monteiro (Foto: Divulgação)" width="750" height="410" /> Temer em Sertânia, antes de chegar a Monteiro (Foto: Divulgação)</p>
+<p><p>Outro é o próprio Temer. Com baixa popularidade – a avaliação positiva do governo baixou para 10,3% na última pesquisa CNT/MDA, divulgada em fevereiro -, a conclusão da transposição é usada pelo peemedebista para tentar alavancar a imagem positiva no Nordeste, que tem áreas atingidas pela seca há mais de cinco anos.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/04/vazamento-em-barragem-da-transposicao-em-sertania-e-controlado/">Vazamento em barragem da Transposição em Sertânia é controlado</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/03/cerca-de-60-familias-foram-removidas-apos-vazamento-na-transposicao/">Cerca de 60 famílias foram removidas após vazamento na Transposição</a></p></p>
+<p><p>De olho na movimentação dos dois, o ex-presidente Lula (PT) tem investido na comunicação e na militância para também se aproximar da obra, iniciada em 2007, no seu segundo mandato. A transposição era esperada desde o período do Império e foi promessa dos presidentes anteriores ao petista. De olho nos créditos por ter iniciado a obra, Lula tem divulgado vídeos nas redes sociais e, no último sábado (4), o líder da oposição no Senado, Humberto Costa (PT-PE) levou prefeitos petistas para a transposição para exaltar a imagem de Lula. Em discurso recheado de críticas a Alckmin e Temer, <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/07/apos-cobrar-paternidade-lula-visita-obras-da-transposicao/">Humberto ainda anunciou que o próprio ex-presidente vem a Pernambuco e à Paraíba ainda este mês</a>.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/02/pelas-redes-sociais-lula-cobra-paternidade-da-transposicao-do-sao-francisco/">Lula cobra paternidade da Transposição do São Francisco após visitas de Temer e Alckmin</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/24/transposicao-restam-53-km-para-agua-chegar-monteiro-na-paraiba/">Transposição: restam 53 km para água chegar a Monteiro, na Paraíba</a></p></p>
+<p><p>De acordo com o Ministério da Integração Nacional, 96,89% do eixo leste estão concluídos até agora. Em maio, quando Temer assumiu a presidência ainda interinamente, antes da consolidação do impeachment de Dilma Rousseff (PT), a obra estava com 84,4% de conclusão nesse trecho.</p></p>
+<p><img class="size-full wp-image-176137" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/03/temer-sertania.jpg" alt="Com abertura da comporta do reservatório de Campos, água da Transposição pode abastecer Sertânia (Foto: Divulgação)" width="750" height="410" /> Com abertura da comporta do reservatório de Campos, água da Transposição pode abastecer Sertânia (Foto: Divulgação)</p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/30/parado-trecho-do-eixo-norte-da-transposicao-sai-este-ano-promete-temer/">Parado, trecho do eixo norte da transposição sai este ano, promete Temer</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/09/mpf-na-paraiba-faz-acordo-com-orgaos-responsaveis-pela-transposicao/">MPF na Paraíba faz acordo com órgãos responsáveis pela Transposição</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/30/em-floresta-temer-aciona-terceira-estacao-de-bombeamento-da-transposicao/">Em Floresta, Temer aciona terceira estação de bombeamento do eixo leste da transposição</a></p></p>
+<p><p>No eixo norte, mais problemático por estar com obras paradas há mais de seis meses em um trecho, 94,52% estão concluídas. Porém, não há previsão prática para retomar a construção - embora o ministério espere assinar o contrato ainda este mês e Temer tenha prometido entregá-lo até o fim do ano. Envolvida na Operação Lava Jato, a Mendes Júnior abandonou o canteiro alegando dificuldade de obter crédito e a licitação para escolher a nova empreiteira está em andamento. Duas já foram desabilitadas. A obra custou até agora mais de R$ 8 bilhões.</p></p>
+{% endraw %}

@@ -1,0 +1,42 @@
+---
+id: 12559995
+date: "2017-11-09T17:03:39Z"
+last_modified_at: null
+tags:
+  - "apostas"
+  - "doacoes"
+  - "investigacao"
+  - "operacao"
+  - "sinovac"
+categories:
+  - "noticias"
+title: "Nova fase da Opera\u00e7\u00e3o Torrentes investiga a\u00e7\u00f5es ap\u00f3s enchentes de 2017"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/05/chuva-gondim-2.jpg"
+---
+{% raw %}
+<p><p style="text-align: justify;">Após a prisão de quatro coronéis da Polícia Militar de Pernambuco, a Polícia Federal informou que vai continuar as investigações sobre a suspeita de desvio no dinheiro liberado para as enchentes de 2010 e 2017. O suposto esquema de corrupção foi alvo da Operação Torrentes, deflagrada nesta quinta-feira (9).  De acordo com a PF, a nova fase vai apurar os contratos deste ano, mas também vai contabilizar os valores que teriam sido fraudados em 2010, mas informou que as supostas irregularidades podem chegar até 30% dos recursos liberados, que foram de cerca de R$ 450 milhões, além das obras.</p></p>
+<p><p style="text-align: justify;">"O que acontecia não é diferente do que acontece nos outros órgãos públicos que tem esses desvios e favorecimentos", disse o chefe da Delegacia de Combate ao Crime Organizado da PF, Renato Madsen. A PF ainda informou que ao longo da investigação percebeu que os empresários envolvidos são os mesmos que já estavam sendo investigados em outros casos de suspeita de fraude em licitações, como a Operação Mata Norte, e que agiam no mesmo "modus operandi".</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/09/pf-mira-casa-militar-em-operacao-contra-suposta-fraude-em-obras-apos-enchentes-de-2010/">PF mira Casa Militar em operação contra suposta fraude em contratos após enchentes de 2010</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/09/em-dia-de-operacao-da-pf-em-pernambuco-sessao-da-alepe-dura-11-minutos/">Em dia de operação da PF em Pernambuco, sessão da Alepe dura 11 minutos</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/09/secretario-executivo-e-coordenador-da-casa-militar-sao-presos-em-operacao-da-pf/">Secretário-executivo e coordenador da Casa Militar são presos em operação da PF</a></p></p>
+<p><p style="text-align: justify;">Sobres as licitações supostamente fraudadas das enchentes de maio de 2017, a PF informou que a Controladoria-Geral da União (CGU) tentou fazer uma fiscalização de monitoramento online desde de junho até agora para investigar os recursos federais enviados para o Estado. No entanto, não foi encaminhado nenhum documento e a Casa Militar informava que iria entregar a Controladoria-Geral do Estado (CGE). A PF esclareceu que quem faz fiscalização de verba publica federal é a CGU, que é o órgão federal. </p></p>
+<p><p>Em  nota, o Governo do Estado afirmou que, após a enchente deste ano de 2017, os prazos de prestação de conta ainda estão em curso. “Estamos com prazo aberto para responder questionamentos”, <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/09/mata-sul-de-hoje-e-melhor-do-que-era-em-2010-diz-stefanni/">respondeu o secretário de Planejamento e Gestão, Márcio Stefanni, à Rádio Jornal</a>.</p></p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/09/ex-chefe-da-casa-militar-e-ex-comandante-da-pm-sao-ouvidos-pela-pf/">Ex-chefe da Casa Militar e ex-comandante da PM são ouvidos pela PF</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/09/com-casa-militar-na-mira-da-pf-governo-diz-que-acao-e-desproporcional/">Com Casa Militar na mira da PF, governo diz que ação é ‘desproporcional’</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/09/empresa-alvo-de-busca-e-apreensao-da-pf-foi-investigada-na-mata-norte/">Empresário preso na Operação Torrentes estava solto há um mês</a></p></p>
+<p><p style="text-align: justify;">Em maio, após a última enchente que atingiu a Mata Sul, em reunião com o presidente Michel Temer (PMDB), o governador Paulo Câmara (PSB) apresentou uma lista de obras que estão previstas desde as enchentes de 2010 na mesma região, para solicitar apoio federal na conclusão dos empreendimentos, em repasses que somam R$ 383.083.648. A justificativa do Estado para não ter concluído os projetos é de que a transferência de recursos pela União foi interrompida em 2014.</p></p>
+<p><p>A Operação Torrentes não apurou ainda, no entanto, as obras na região. Essa investigação deve ficar para a nova fase.</p></p>
+<p><img class="size-full wp-image-188909" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/11/WhatsApp-Image-2017-11-09-at-06.jpg" alt="" width="750" height="410" /> Foto: Luiz Pessoa/JC Imagem</p>
+<p><p style="text-align: justify;">A PF investiga desde o ano passado, a partir de um relatório elaborado pela Controladoria-Geral da União, 15 licitações feitas entre os anos de 2010 e 2015, em que encontrou supostas irregularidades que vão desde a aquisição de filtros, alimentos e colchões até a locação de banheiros químicos e de barquinhos de madeira cujo aluguel custava R$ 1 mil. “Com os elementos levantados pela Polícia Federal e pelas mostras levantadas pela Controladoria, identificamos que houve desvio de recursos públicos”, apontou o coordenador geral de operações da Controladoria Geral da União, Israel Reis de Carvalho.</p></p>
+<p><p style="text-align: justify;">As ações, segundo a Polícia Federal, eram intermediadas por funcionários da Secretaria da Casa Militar que direcionavam os contratos para quatro grupos de empresários em troca de contrapartidas financeiras supostamente comandadas por empresários presos na operação. São eles: Ricardo Padilha, Rogério Fabrício Roque Neiva, Romero Pontual e Antônio Manuel de Andrade Junior, divididos em quatro grupos empresariais. </p></p>
+<p><p style="text-align: justify;">"Com os elementos levantados pela Polícia Federal e pelas mostras levantadas pela Controladoria, identificamos que houve desvio de recursos públicos”, apontou o coordenador geral de operações da Controladoria Geral da União, Israel Reis de Carvalho durante a coletiva.</p></p>
+<p><p style="text-align: justify;">“Foi constatado que há sempre uma ligação entre as empresas, além de supostos laranjas como proprietários dessas empresas. Nesse ano, teve uma nova enchente em maio. Verificamos que os termos celebrados envolviam os mesmos grupos empresariais que os de 2010. Os fatos estavam sendo continuados”, disse Israel Carvalho.</p></p>
+<p><p>Do suposto núcleo militar, foram presos quatro coronéis. Entre os nomes estão Fábio de Alcântara Rosendo, secretário-executivo de Defesa Civil, e Laurinaldo Félix do Nascimento, coordenador administrativo da secretaria. Rosendo integrava a comissão de licitação e Nascimento era pregoeiro e chefe da licitação em 2010. Além deles, Roberto Gomes de Melo Filho, que exercia o cargo de Nascimento em 2010, e Waldemir José Vasconcelos de Araújo, secretário-executivo naquele ano.</p></p>
+<p><img class="size-full wp-image-188944" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/11/WhatsApp-Image-2017-11-09-at-10.jpg" alt="" width="750" height="410" /> Foto: Jessica Lima/Rádio Jornal</p>
+<p><p style="text-align: justify;">O Governo de Pernambuco divulgou uma nota em que tentou minimizar a ação da PF reafirmando "a disposição de prestar todos os esclarecimentos necessários, como sempre tem feito quando solicitado por órgãos de controle e fiscalização".</p></p>
+<p><p style="text-align: justify;">"É absolutamente lastimável o processo de espetacularização negativa das atividades de controle da atuação pública. O que assistimos hoje é exemplo da grave prática de buscar criminalizar toda a atuação dos agentes públicos e políticos", disse. "É lamentável a operação desproporcional realizada no Gabinete do chefe da Casa Militar, no Palácio do Campo das Princesas. O acesso a todos os documentos e equipamentos ali localizados, assim como a qualquer outro documento público, poderia ter sido solicitado sem a necessidade de qualquer ordem judicial."</p></p>
+{% endraw %}

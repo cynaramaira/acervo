@@ -1,0 +1,64 @@
+---
+id: 14941560
+date: "2022-02-02T18:43:00Z"
+last_modified_at: null
+tags:
+  - "eleicoes-2022"
+categories:
+  - "sem-categoria"
+title: "Sem CPI, Alepe far\u00e1 audi\u00eancias p\u00fablicas sobre o caso Beatriz"
+sutia: "Encontro acontece no pr\u00f3ximo dia 10, de forma remota, com a escuta das partes envolvidas"
+chapeu: "Viol\u00eancia"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/02/02/petrolina-20526347.jpg"
+---
+{% raw %}
+<p>A pol&ecirc;mica na Assembleia Legislativa de Pernambuco (Alepe) em torno da prov&aacute;vel cria&ccedil;&atilde;o de uma Comiss&atilde;o Parlamentar de Inquerito (CPI) sobre o caso da menina Beatriz acabou resultando em uma audi&ecirc;ncia p&uacute;blica sobre o tema na sess&atilde;o plen&aacute;ria da Casa desta quarta-feira (2). A oposi&ccedil;&atilde;o havia come&ccedil;ado a constranger deputados da base do governo, por se recusarem a assinar uma CPI. Um site foi criado para expor os parlamentares que n&atilde;o defendessem a comiss&atilde;o de investiga&ccedil;&atilde;o, apontada como desnecess&aacute;ria pelo governo do Estado.</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[14941269,14941038],'cd_matia':'14941038','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/colunas/jamildo/2022/02/14941038-cpi-do-caso-beatriz-quer-ir-para-cima-da-deputada-gleide-angelo.html">CPI do Caso Beatriz quer ir para cima da deputada Gleide Ângelo</a></li>
+            <li><a class="link" href="/colunas/jamildo/2022/02/14941269-pressionada-para-assinar-cpi-do-caso-beatriz-gleide-angelo-estava-em-gloria-do-goita.html">Pressionada para assinar CPI do Caso Beatriz, Gleide Ângelo estava em Glória do Goitá</a></li>
+        </ul>
+</div></tinymce></p>
+<p>O encontro acontece no pr&oacute;ximo dia 10, &agrave;s 9h30, com a escuta das partes envolvidas no caso. Ser&aacute; a primeira audi&ecirc;ncia p&uacute;blica de 2022 no Poder Legislativo estadual.</p>
+<p>A audi&ecirc;ncia &eacute; uma iniciativa da deputada Dulci Amorim (PT) que apresentou seus argumentos durante as discuss&otilde;es entre os parlamentares na sess&atilde;o ocorrida de forma remota por conta da pandemia do Coronav&iacute;rus. Na avalia&ccedil;&atilde;o da petista, &eacute; preciso cumprir etapas para s&oacute; ent&atilde;o avaliar os pr&oacute;ximos passos.</p>
+<p>Para a parlamentar, criar uma CPI antes de promover uma escuta p&uacute;blica que atualize as novidades da investiga&ccedil;&atilde;o seria o mesmo que pular etapas.</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[14932341],'cd_matia':'14932341','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/blogs/jamildo/2022/01/14932341-caso-beatriz-estado-prende-autor-do-crime-e-o-apresenta-nesta-quarta-feira.html">Caso Beatriz: Estado encontra autor do crime e o apresenta nesta quarta-feira</a></li>
+        </ul>
+</div></tinymce></p>
+<p>&ldquo;Acompanhamos esse caso desde o in&iacute;cio. As novidades surgiram de dezembro pra c&aacute;, justamente quando solicitei a audi&ecirc;ncia p&uacute;blica. Somente ap&oacute;s a audi&ecirc;ncia, com todas as informa&ccedil;&otilde;es que iremos ter, a gente pode avaliar outros caminhos", disse.</p>
+<p>Segundo a deputada h&aacute; muitas perguntas sobre o caso em aberto que precisam ser esclarecidas. "Por isso &eacute; importante ouvir os envolvidos como a escola, a Pol&iacute;cia Civil e todas as demais partes. Creio que a partir da audi&ecirc;ncia p&uacute;blica, a gente possa ter algumas respostas mais precisas&rdquo;, justificou Dulce Amorim.</p>
+<p>Al&eacute;m dos pais de Beatriz, ser&atilde;o ouvidos na audi&ecirc;ncia p&uacute;blica do pr&oacute;ximo dia 10, representantes da escola onde a menina estudava; do Minist&eacute;rio P&uacute;blico Federal (MPF); do Minist&eacute;rio P&uacute;blico Estadual (MPPE); da Secretaria de Defesa Social (SDs); da Casa Civil; delegados e advogados do caso.</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[14933571,14933170,14933157,14932680,14932557,14926757],'cd_matia':'14926757','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/blogs/jamildo/2021/12/14926757-mae-de-beatriz-e-filiada-ao-psol-e-ja-se-reuniu-com-tres-candidatos-ao-governo-do-estado.html">Mãe de Beatriz é filiada ao PSOL e já se reuniu com três candidatos ao governo do Estado</a></li>
+            <li><a class="link" href="/blogs/jamildo/2022/01/14932557-homem-que-confessou-a-morte-da-menina-beatriz-trabalhou-como-ajudante-de-pedreiro-e-tem-varias-passagens-pela-policia.html">Homem que confessou a morte da menina Beatriz trabalhou como ajudante de pedreiro e tem várias passagens pela polícia</a></li>
+            <li><a class="link" href="/blogs/jamildo/2022/01/14932680-indiciado-pela-morte-da-menina-beatriz-e-transferido-do-presidio-de-salgueiro-para-cela-individual-em-petrolina.html">Indiciado pela morte da menina Beatriz é transferido do presídio de Salgueiro para cela individual, em Petrolina</a></li>
+            <li><a class="link" href="/blogs/jamildo/2022/01/14933157-homem-que-confessou-matar-menina-beatriz-foi-espancado-em-trindade-por-abuso-sexual-em-agosto-de-2017.html">Homem que confessou matar menina Beatriz foi espancado em Trindade por abuso sexual, em agosto de 2017</a></li>
+            <li><a class="link" href="/blogs/jamildo/2022/01/14933170-caso-beatriz-marcelo-da-silva-tinha-preferencia-por-vitimas-mulheres-e-ameacava-atirar-nelas.html">Caso Beatriz: Suspeito tinha preferência por vítimas mulheres e ameaçava atirar nelas</a></li>
+            <li><a class="link" href="/blogs/jamildo/2022/01/14933571-caso-beatriz-governo-transfere-suspeito-para-cotel-sem-avisar-juiz-e-magistrado-cobra-explicacoes.html">Caso Beatriz: Governo transfere suspeito para Cotel sem avisar juiz e magistrado cobra explicações</a></li>
+        </ul>
+</div></tinymce></p>
+<p>O debate em torno da abertura da CPI foi motivado pelo deputado Romero Albuquerque. Durante a sess&atilde;o plen&aacute;ria, o parlamentar cobrou de alguns colegas a assinatura para abertura do processo. Deputados, a exemplo da petista Teresa Leit&atilde;o lembraram que o principal suspeito foi identificado e preso recentemente e que diversas for&ccedil;as pol&iacute;ticas no estado apoiaram o pleito da fam&iacute;lia de Beatriz em favor da federaliza&ccedil;&atilde;o do caso. Em sua avalia&ccedil;&atilde;o, a investiga&ccedil;&atilde;o deveria continuar no &acirc;mbito policial.</p>
+<p><tinymce class="clickTinyMCE" title="{'matias':[14939595,14937480,14936660,14936636,14936509,14936253,14935985,14935958,14935659],'cd_matia':'14935659','ds_matia_titlo':'','ds_matia_assun':'','ds_matia_chape':'','ds_poral_url':'','id_poral_oflin':'3','cd_site_url_matia':'','id_site_oflin':'3','cd_sisma':'2','cd_poral':'1','cd_tetag':'17','id_tetag_tipo':'6','id_tetag_galer':'','ds_tetag':'Leia Mais','ds_tetag_tag_html':'','qt_tetag_midia':'','id_tetag_templ_tipo':'1','ds_tetag_tag_ia':'','width':'280','height':240,'title':'Leia mais','class':'','align':'Left','ds_matia_path':''}"><div class="alsoread">
+    <ul class="list-alsoread">
+            <li><a class="link" href="/blogs/jamildo/2022/01/14935659-quem-sao-os-deputados-que-assinaram-pedido-para-a-criacao-de-uma-cpi-para-o-caso-beatriz.html">Quem são os deputados que assinaram pedido para a criação de uma CPI para o caso Beatriz</a></li>
+            <li><a class="link" href="/blogs/jamildo/2022/01/14935958-cpi-do-caso-beatriz-ja-tem-12-das-17-assinaturas-necessarias-para-ser-instaurada.html">CPI do Caso Beatriz já tem 12 das 17 assinaturas necessárias para ser instaurada</a></li>
+            <li><a class="link" href="/blogs/jamildo/2022/01/14935985-oab-recebe-representacao-contra-advogado-envolvido-no-caso-beatriz.html">OAB recebe representação contra advogado envolvido no Caso Beatriz</a></li>
+            <li><a class="link" href="/colunas/jamildo/2022/01/14936253-lider-do-governo-paulo-camara-pede-a-aliados-que-nao-assinem-cpi-para-investigar-caso-beatriz.html">Líder do governo Paulo Câmara pede a aliados que não assinem CPI para investigar caso Beatriz</a></li>
+            <li><a class="link" href="/colunas/jamildo/2022/01/14936509-caso-beatriz-oposicao-faz-carga-sobre-juntas-para-obter-numero-minimo-de-assinaturas-para-cpi.html">Caso Beatriz. Oposição faz carga sobre Juntas, para obter número mínimo de assinaturas para CPI</a></li>
+            <li><a class="link" href="/colunas/jamildo/2022/01/14936636-juntas-desmente-bolsonaristas-sobre-cpi-do-caso-beatriz.html">Juntas desmente 'bolsonaristas' sobre CPI do Caso Beatriz</a></li>
+            <li><a class="link" href="/colunas/jamildo/2022/01/14936660-pai-do-prefeito-anderson-ferreira-assina-pedido-de-cpi-do-caso-beatriz-na-alepe.html">Pai do prefeito Anderson Ferreira assina pedido de CPI do Caso Beatriz, na Alepe</a></li>
+            <li><a class="link" href="/colunas/jamildo/2022/01/14937480-hackers-derrubam-site-que-acompanha-assinaturas-na-cpi-do-caso-beatriz.html">Hackers derrubam site que acompanha assinaturas na CPI do Caso Beatriz</a></li>
+            <li><a class="link" href="/colunas/jamildo/2022/01/14939595-cpi-do-caso-beatriz-aguarda-uma-assinatura-para-ser-apresentada-bancada-evangelica-e-juntas-sao-pressionadas.html">CPI do Caso Beatriz aguarda uma assinatura para ser apresentada. Bancada evangélica e Juntas são pressionadas</a></li>
+        </ul>
+</div></tinymce></p>
+<p>O caso Beatriz ficou nacionalmente conhecido ap&oacute;s o assassinato da crian&ccedil;a em 2015, ocorrido em Petrolina, Sert&atilde;o do S&atilde;o Francisco. A garota, que &agrave; &eacute;poca tinha seis anos, participava de uma festa escolar no munic&iacute;pio junto com os pais e a irm&atilde; quando foi morta.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/02/02/120x80/1_indice-20526378.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'61fafcd8826bc', 'cd_midia':20526378, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/02/02/indice-20526378.jpg', 'ds_midia': 'Romero Albuquerque defendeu a cria&ccedil;&atilde;o da CPI, depois que um advogado assumiu o caso e disse que suspeito era inocente', 'ds_midia_credi': 'Alepe', 'ds_midia_titlo': 'Romero Albuquerque defendeu a cria&ccedil;&atilde;o da CPI, depois que um advogado assumiu o caso e disse que suspeito era inocente', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '684', 'align': 'Left'}"><figure style="width:684;height:1224;">
+  <img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/02/02/indice-20526378.jpg" alt="Alepe"  title="Romero Albuquerque defendeu a cria&ccedil;&atilde;o da CPI, depois que um advogado assumiu o caso e disse que suspeito era inocente">
+  <figcaption class='text-left'>Romero Albuquerque defendeu a cria&ccedil;&atilde;o da CPI, depois que um advogado assumiu o caso e disse que suspeito era inocente - <strong>Alepe</strong></figcaption>
+</figure></tinymce></p>
+<p>Para que uma CPI seja instalada na Assembleia Legislativa s&atilde;o necess&aacute;rias 17 assinaturas de deputados.</p>
+{% endraw %}

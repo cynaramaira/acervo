@@ -1,0 +1,38 @@
+---
+id: 15675487
+date: "2024-02-22T12:21:00Z"
+last_modified_at: null
+tags:
+  - "jamildo"
+  - "inseguranca"
+categories:
+  - "sem-categoria"
+title: "Exclusivo: Pol\u00edcia Civil diz que mais de 100 membros de organizada do Sport estavam de 'tocaia' para jogar bomba em \u00f4nibus do Fortaleza"
+sutia: "Documento interno de abertura de investiga\u00e7\u00e3o na Pol\u00edcia Civil, obtido pelo blog, mostra que organizada estava aguardando passagem do \u00f4nibus"
+chapeu: "inseguran\u00e7a p\u00fablica"
+autor: "Jamildo Melo"
+imagem: "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/02/22/fortaleza_atentado_fotos2-26449379.jpg"
+---
+{% raw %}
+<p>Mais cedo o <strong>Blog de Jamildo</strong> revelou documento interno sigiloso do Batalh&atilde;o de Choque, pelo qual supostamente <a href="https://jc.ne10.uol.com.br/colunas/jamildo/2024/02/22/exclusivo-pm-ja-sabia-que-organizada-estava-com-explosivos-antes-do-jogo-e-nao-apreendeu-artefatos.html" target="_blank" rel="noopener noreferrer">a PM j&aacute; sabia que a organizada do Sport portava explosivos</a> antes da partida acontecer. Os explosivos n&atilde;o foram apreendidos na entrada do jogo, na Arena. Horas depois explosivos foram <a href="https://jc.ne10.uol.com.br/blogs/torcedor/2024/02/22/onibus-do-fortaleza-e-atacado-por-torcida-organizada-do-sport-com-bomba-denuncia-dirigente.html" target="_blank" rel="noopener noreferrer">jogados no &ocirc;nibus do time do Fortaleza.</a> <br /></p>
+<p>Agora, esta coluna teve acesso exclusivo ao documento que abriu a investiga&ccedil;&atilde;o na Pol&iacute;cia Civil, obtido com fonte sob sigilo jornal&iacute;stico. O documento sigiloso est&aacute; assinado pelo delegado respons&aacute;vel pelas apura&ccedil;&otilde;es.</p>
+<p>No documento, o delegado da Pol&iacute;cia Civil revela que<strong> mais de 100 membros da organizada do Sport estavam de "tocaia" para jogar a suposta bomba no &ocirc;nibus,</strong> e que o ve&iacute;culo estava acompanhado apenas de batedores do Batalh&atilde;o de Tr&acirc;nsito. Ainda, que esses PMs nada puderam fazer ao serem cercados pelos mais de 100 supostos criminosos.</p>
+<p>"O &ocirc;nibus que transportava a equipe do Fortaleza Esporte Clube contava com batedores do BPTRAN-PE, mas mesmo assim o referido &ocirc;nibus foi atacado por mais de uma centena de torcedores do Sport Club do Recife, que provavelmente j&aacute; estavam aguardando a passagem do time advers&aacute;rio, para arremessarem pedras e bombas", informou o delegado da Pol&iacute;cia Civil, no documento oficial.</p>
+<p><tinymce class="clickTinyMCE" title="{'nm_midia_inter_thumb1':'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/02/22/120x80/1_policiacivil-26449487.jpg', 'id_midia_tipo':'2', 'id_tetag_galer':'', 'id_midia':'65d767588becc', 'cd_midia':26449487, 'ds_midia_link': 'https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/02/22/policiacivil-26449487.jpg', 'ds_midia': 'Em documento obtido pelo blog, delegado da Pol&iacute;cia Civil diz que, diante da &quot;tocaia&quot;, batedores do Batalh&atilde;o de Tr&acirc;nsito nada puderam fazer ao serem cercados pelos mais de 100 criminosos', 'ds_midia_credi': 'Reprodu&ccedil;&atilde;o', 'ds_midia_titlo': 'Em documento obtido pelo blog, delegado da Pol&iacute;cia Civil diz que, diante da &quot;tocaia&quot;, batedores do Batalh&atilde;o de Tr&acirc;nsito nada puderam fazer ao serem cercados pelos mais de 100 criminosos', 'cd_tetag': '1', 'cd_midia_w': '1224', 'cd_midia_h': '1635', 'align': 'Left'}"><figure style="width:1635;height:1224;">
+			<img src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/02/22/policiacivil-26449487.jpg" alt="Reprodu&ccedil;&atilde;o" title="Em documento obtido pelo blog, delegado da Pol&iacute;cia Civil diz que, diante da &quot;tocaia&quot;, batedores do Batalh&atilde;o de Tr&acirc;nsito nada puderam fazer ao serem cercados pelos mais de 100 criminosos">
+		<figcaption class='text-left'>
+			Em documento obtido pelo blog, delegado da Pol&iacute;cia Civil diz que, diante da &quot;tocaia&quot;, batedores do Batalh&atilde;o de Tr&acirc;nsito nada puderam fazer ao serem cercados pelos mais de 100 criminosos - <strong>Reprodu&ccedil;&atilde;o</strong>
+		</figcaption>
+	</figure></tinymce></p>
+<h2>PMPE sabia dos explosivos</h2>
+<p>Conforme o <strong>blog de Jamildo</strong> mostrou mais cedo, um documento sigiloso do Batalh&atilde;o de Choque detalhou que a <strong><a href="https://jc.ne10.uol.com.br/colunas/jamildo/2024/02/22/exclusivo-pm-ja-sabia-que-organizada-estava-com-explosivos-antes-do-jogo-e-nao-apreendeu-artefatos.html" target="_blank" rel="noopener noreferrer">PMPE j&aacute; havia identificado que a organizada do Sport portava explosivos</a></strong>, e que <strong>n&atilde;o apreendeu os artefatos</strong>.</p>
+<p>Segundo o documento, a PMPE se limitou a impedir que os explosivos entrassem na Arena de Pernambuco, em S&atilde;o Louren&ccedil;o da Mata, e teve que fazer disparos de arma de fogo para impedir a torcida de entrar no est&aacute;dio com as bombas.</p>
+<p>"Durante o jogo Sport x Fortaleza realizado na Arena Pernambuco no dia 21/02/2024, o efetivo que estava empregado na entrada Q o qual era composta por 4 policiais , se deparou com uma tentativa de invas&atilde;o e briga entre a torcida organizada do Sport e torcedores do Fortaleza, a torcida organizada do Sport estava em bem maior n&uacute;mero e com o uso de artefatos explosivos", afirma o documento, obtido pelo blog sob reserva de fonte.</p>
+<p>No entanto, ainda de acordo com o documento, n&atilde;o houve apreens&atilde;o dos artefatos explosivos na hora dos quatro disparos. Todo o incidente ocorreu na entrada "Q" do est&aacute;dio.</p>
+<div style="position: relative; padding-bottom: 56.25%;"><iframe style="width: 100%; height: 100%; position: absolute; left: 0px; top: 0px; overflow: hidden;" src="https://geo.dailymotion.com/player/xhsob.html?video=x8t4tuw" width="100%" height="100%" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
+<h2>Raquel Lyra promete puni&ccedil;&atilde;o</h2>
+<p>A governadora <a href="https://jc.ne10.uol.com.br/colunas/jamildo/2024/02/22/raquel-lyra-promete-punicao-apos-ataque-a-onibus-do-fortaleza-nao-sao-torcedores-sao-criminosos.html" target="_blank" rel="noopener noreferrer"><strong>Raquel Lyra (PSDB) se pronunciou por meio das redes sociais</strong></a>, sem apontar as falhas da seguran&ccedil;a.</p>
+<p>"O futebol &eacute; uma paix&atilde;o nacional e deve sempre unir as pessoas, jamais ser palco para atos violentos. O epis&oacute;dio com o time do Fortaleza &eacute; lament&aacute;vel e ser&aacute; apurado com todo vigor. Como torcedora e pernambucana, fico triste e envergonhada", escreveu a governadora no X (antigo Twitter).</p>
+<p>"Como governadora, garanto que trabalharemos para buscar e punir os culpados. As pessoas respons&aacute;veis por esse ato n&atilde;o s&atilde;o torcedores, s&atilde;o criminosos. Futebol e viol&ecirc;ncia n&atilde;o devem se misturar jamais", completou.</p>
+<p>Em nota, a Pol&iacute;cia Civil de Pernambuco informou que a ocorr&ecirc;ncia foi registrada na delegacia de Prazeres, e que "os autores se evadiram ap&oacute;s a a&ccedil;&atilde;o". As investiga&ccedil;&otilde;es seguem com a Delegacia de Pol&iacute;cia de Repress&atilde;o &agrave; Intoler&acirc;ncia Esportiva.<br /></p>
+{% endraw %}

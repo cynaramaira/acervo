@@ -1,0 +1,28 @@
+---
+id: 13020782
+date: "2021-07-27T16:56:00Z"
+last_modified_at: null
+tags:
+  - "arco-metropolitano"
+categories:
+  - "sem-categoria"
+title: "Di\u00e1logo e a busca do equil\u00edbrio s\u00e3o as chaves  para o sucesso do Arco Metropolitano"
+sutia: "Muitos efeitos do desenvolvimento industrial recente do norte metropolitano t\u00eam sido mais bem aproveitados pela Para\u00edba, devido \u00e0s prec\u00e1rias condi\u00e7\u00f5es operacionais da BR-101 que t\u00eam dificultado uma necess\u00e1ria integra\u00e7\u00e3o com o Complexo Industrial de Suape."
+chapeu: "desenvolvimento economico"
+autor: "JAMILDO MELO"
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2021/05/arco-metropolitano.jpg"
+---
+{% raw %}
+<p>Por Maur&iacute;cio Oliveira de Andrade, especial para o blog<br /></p>
+<p>A BR-101, projetada e constru&iacute;da h&aacute; quase seis d&eacute;cadas, atravessando sete dos 13 munic&iacute;pios da RMR, vem apresentando, h&aacute; anos, s&eacute;rios problemas que afetam a qualidade de vida urbana e a economia pernambucana.</p>
+<p>O tr&aacute;fego di&aacute;rio de mais de 70 mil ve&iacute;culos em uma rodovia 100% urbana e de intenso e m&uacute;ltiplo uso marginal tem produzido graves externalidades. Essas consequ&ecirc;ncias s&atilde;o caracterizadas por longos congestionamentos, tempos de viagem excessivos e conflitos entre tr&aacute;fego de passagem, principalmente de carga, e local, o que aumenta riscos de acidentes e a polui&ccedil;&atilde;o sonora, do ar e da paisagem.</p>
+<p>As travessias Igarassu/Abreu e Lima e Ceasa/Prazeres representam o 2&ordm; e 39&ordm; segmentos de rodovias federais mais perigosos do Brasil. Acrescente-se ainda, que essa rodovia configura-se como a IV Perimetral Metropolitana, corredor essencial para a integra&ccedil;&atilde;o do transporte p&uacute;blico metropolitano.</p>
+<p>Por meio de seis terminais de integra&ccedil;&atilde;o e 69 linhas praticamente sem tratamento priorit&aacute;rio, transporta cerca de 150 mil passageiros/dia de forma desconfort&aacute;vel e com poucas possibilidades de melhorias operacionais, desde que mantido o quadro atual. S&atilde;o fortemente prejudicados os acessos a importantes polos geradores de viagens na sua zona de influ&ecirc;ncia, como os campi universit&aacute;rios da UFPE, UFRPE e IFPE, os hospitais das Cl&iacute;nicas, da Mulher e Pel&oacute;pidas Silveira, a Ceasa e os polos log&iacute;sticos de Prazeres e do Cabo, entre outros.</p>
+<p>Essas p&eacute;ssimas condi&ccedil;&otilde;es de mobilidade, acessibilidade e os aumentos de custos log&iacute;sticos decorrentes conduzem &agrave; perda de produtividade na economia da RMR, reduzindo sua atratividade para o desempenho do papel hist&oacute;rico do Recife como centro de servi&ccedil;os e de distribui&ccedil;&atilde;o.</p>
+<p>Muitos efeitos do desenvolvimento industrial recente do norte metropolitano t&ecirc;m sido mais bem aproveitados pela Para&iacute;ba, devido &agrave;s prec&aacute;rias condi&ccedil;&otilde;es operacionais da BR-101 que t&ecirc;m dificultado uma necess&aacute;ria integra&ccedil;&atilde;o com o Complexo Industrial de Suape.</p>
+<p>Diante de tal quadro, o projeto do Arco Metropolitano torna-se uma resposta natural e, acredito, de utilidade indiscut&iacute;vel.</p>
+<p>No entanto, como todo projeto complexo, h&aacute; barreiras a superar no campo da sua viabiliza&ccedil;&atilde;o econ&ocirc;mica face &agrave; escassez de recursos, na defini&ccedil;&atilde;o de modelos de contrata&ccedil;&atilde;o e financiamento e na necessidade da preserva&ccedil;&atilde;o dos recursos h&iacute;dricos, paisag&iacute;sticos e silvestres de &aacute;reas ambientalmente sens&iacute;veis, a exemplo da APA Aldeia-Beberibe.</p>
+<p>&Eacute; preciso enxergar o projeto para al&eacute;m da oportunidade para atenuar os problemas da BR-101, mas tamb&eacute;m como um eixo de desenvolvimento e de integra&ccedil;&atilde;o metropolitana. A concep&ccedil;&atilde;o e o projeto de uma via expressa moderna e atrativa, e com impactos ambientais rigorosamente controlados, mitigados, recuperados e compensados &eacute; indispens&aacute;vel para que represente uma solu&ccedil;&atilde;o de desenvolvimento sustent&aacute;vel e n&atilde;o apenas a transfer&ecirc;ncia para o futuro dos problemas do presente. Por isso, &eacute; indispens&aacute;vel que a nova rodovia expressa n&atilde;o se constitua como eixo de expans&atilde;o da ocupa&ccedil;&atilde;o marginal. Seus vetores de desenvolvimento devem se concentrar nas interconex&otilde;es com a BR-408 e BR-232.<br />Temos que acreditar que a sociedade, os decisores pol&iacute;ticos e a engenharia pernambucana saber&atilde;o encontrar uma solu&ccedil;&atilde;o de projeto &agrave; altura das necessidades, que concilie a minimiza&ccedil;&atilde;o dos impactos ambientais com custos de constru&ccedil;&atilde;o e opera&ccedil;&atilde;o compat&iacute;veis e que assegure sua atratividade, em tempo e custo de utiliza&ccedil;&atilde;o para manter as fun&ccedil;&otilde;es de transfer&ecirc;ncia de tr&aacute;fego, essenciais &agrave; finalidade da rodovia. O di&aacute;logo e a busca do equil&iacute;brio s&atilde;o, portanto, as chaves para o sucesso deste projeto t&atilde;o importante para Pernambuco.</p>
+<p>Maur&iacute;cio Oliveira de Andrade &eacute; professor e pesquisador em transportes da UFPE</p>
+<p>&nbsp;</p>
+{% endraw %}

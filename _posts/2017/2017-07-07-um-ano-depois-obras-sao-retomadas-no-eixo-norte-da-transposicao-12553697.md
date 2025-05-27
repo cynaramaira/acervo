@@ -1,0 +1,37 @@
+---
+id: 12553697
+date: "2017-07-07T21:17:51Z"
+last_modified_at: null
+tags:
+  - "litoral-norte"
+  - "marcelo-freixo"
+  - "obras"
+  - "sao"
+  - "transposicao"
+categories:
+  - "noticias"
+title: "Um ano depois, obras s\u00e3o retomadas no eixo norte da transposi\u00e7\u00e3o"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/07/helder-barbalho.jpg"
+---
+{% raw %}
+<p><p>Um ano depois de a <a href="https://blogs.ne10.uol.com.br/jamildo/2016/10/17/transposicao-substituta-da-mendes-junior-sera-contratada-em-licitacao-mais-rapida/">Mendes Júnior, envolvida na Operação Lava Jato, deixar os canteiros da transposição</a> do rio São Francisco, as obras foram retomadas. O ministro da Integração Nacional, Helder Barbalho, esteve nesta sexta-feira (7) na cidade de Penaforte, no interior do Ceará, para vistoriar o serviço. A conclusão do projeto vai custar ao todo R$ 516,8 milhões, mas só a <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/20/maia-assina-ordem-de-servico-de-trecho-da-transposicao-parado-ha-um-ano/">primeira ordem de serviço foi assinada, liberando R$ 132 milhões</a>.</p></p>
+<p><p>De acordo com a Integração Nacional, 200 trabalhadores estão na primeira etapa do eixo norte - o trecho tem mais duas etapas menores, ambas com 98% das obras finalizadas - com jornadas de trabalho que deverão ser de 24 horas, em três turnos. Até o fim do mês, a expectativa é de contratar mais 300 e, no pico das atividades, poderá chegar a 2 mil. Com o desemprego em alta, as empresas responsáveis pelas obras receberam mais de 5 mil currículos.</p></p>
+<p><p><strong>LEIA TAMBÉM</strong><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/25/paulo-camara-aceita-divisao-de-custos-da-transposicao-e-promete-isentar-mais-pobres/">Paulo Câmara aceita divisão de custos da transposição e promete isentar mais pobres</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/21/mpf-vai-justica-por-plano-de-seguranca-de-barragens-da-transposicao/">MPF vai à Justiça por plano de segurança de barragens da transposição</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/20/maia-assina-ordem-de-servico-de-trecho-da-transposicao-parado-ha-um-ano/">Maia assina ordem de serviço de trecho da transposição parado há um ano</a></p></p>
+<p><img class="size-full wp-image-182636" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/07/transposicao-penaforte.jpg" alt="" width="750" height="410" /> Foto: Carlos Gibaja/Governo do Ceará</p>
+<p><p>A paralisação do serviço por um ano e um imbróglio judicial atrasaram ainda mais a conclusão do projeto - iniciado há dez anos para ser concluído três anos depois. Agora, a previsão é de que o eixo norte da transposição seja entregue no início do próximo ano, para tentar evitar o possível colapso hídrico na região metropolitana de Fortaleza, onde o projeto deverá atender 4,5 milhões de habitantes. "Além da garantia de água, qualquer estado precisa ter desenvolvimento, infraestrutura; ela gera, também, neste momento de crise político-econômica, oportunidade de emprego para a população", disse o governador do Ceará, Camilo Santana (PT), pela assessoria de imprensa.</p></p>
+<p><p><img class="wp-image-178274 alignnone" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/04/transposicao.jpg" alt="" width="750" height="448" /></p></p>
+<p><p>A licitação que escolheu o consórcio Emsa-Siton só foi concluída em abril, mas o resultado foi questionado na Justiça pela primeira colocada, desabilitada por questões técnicas, e <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/20/stf-libera-obras-de-trecho-da-tranposicao-do-sao-francisco/">só foi definido no mês passado pela presidente do Supremo Tribunal Federal (STF), Cármen Lúcia</a>. A ordem de serviço foi assinada no último dia 20, pelo então presidente em exercício, Rodrigo Maia (DEM-RJ). </p></p>
+<p><p>O eixo norte é o maior da transposição, atendendo cerca de 7,1 milhões de moradores de 223 municípios nos estados de Pernambuco, Ceará, Paraíba e Rio Grande do Norte. A água será captada em Cabrobó, no Sertão pernambucano - a última cidade visitada por Dilma Rousseff (PT) ainda como presidente - e passará por 260 quilômetros de canais, com três estações de bombeamento, oito aquedutos, 16 reservatórios e três túneis.</p></p>
+<p><img class="size-full wp-image-182637" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/07/transposicao-penaforte-2.jpg" alt="" width="750" height="410" /> Foto: Carlos Gibaja/Governo do Ceará</p>
+<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/14/apos-canal-romper-barragens-da-transposicao-serao/">Após canal romper, barragens da transposição serão analisadas por consultoria</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/31/mpf-pede-ao-tse-para-multar-lula-por-ato-politico-na-transposicao/">MPF pede ao TSE para multar Lula por ato político na transposição</a><br /></p>
+<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/13/deputados-cobram-de-temer-que-aguas-da-transposicao-cheguem-ao-sertao-de-pe/">Deputados cobram de Temer que águas da transposição cheguem ao Sertão de Pernambuco</a></p></p>
+<p><p>Este ano, o <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/temer-ironiza-manifestantes-em-monteiro-e-diz-que-eles-vao-se-banhar-na-transposicao/">presidente Michel Temer (PMDB) foi à cidade de Monteiro, na Paraíba,</a> para inaugurar o outro trecho da transposição, o eixo leste. Nele, a água do 'Velho Chico' é captada em Floresta, também no Sertão pernambucano, e passa por cerca de 200 quilômetros até chegar ao estado vizinho, onde atende principalmente a região de Campina Grande. <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/transposicao-chega-a-paraiba-mas-ainda-falta-muito-em-pernambuco/">Apesar de ser o estado com maior trecho de canais, apenas cerca de 35 mil pernambucanos são atendidos até agora</a>, na região de Sertânia, no Sertão.</p></p>
+<p><p>A transposição tem sido alvo de uma <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/nao-quero-paternidade-dessa-obra-ninguem-pode-te-la-diz-temer-sobre-transposicao/">disputa política por paternidade</a>. Temer tenta vincular a sua imagem à conclusão do projeto - das cinco vezes em que esteve no Nordeste, em três visitou os canteiros - para tentar <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/31/regiao-nordeste-permanece-com-pior-avaliacao-sobre-o-governo-temer/">aumentar a popularidade na região onde tem a maior taxa de rejeição</a>. Enquanto isso, o ex-presidente Lula (PT) cobra a paternidade da obra iniciada no seu governo e, <a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/31/mpf-pede-ao-tse-para-multar-lula-por-ato-politico-na-transposicao/">em março, visitou a Paraíba para 'reinaugurar' o eixo leste</a>. Até o governador de São Paulo, <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/21/geraldo-alckmin-visita-projeto-das-aguas-da-transposicao-em-floresta-e-custodia-nesta-quarta/">Geraldo Alckmin (PSDB), de olho nas eleições de 2018, usa a transposição</a> - ele visitou a obra por ter cedido através da Sabesp (Companhia de Saneamento Básico do Estado de São Paulo) conjunto de motobombas para fazer o projeto funcionar.</p></p>
+{% endraw %}

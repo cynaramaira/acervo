@@ -1,0 +1,32 @@
+---
+id: 12593111
+date: "2019-11-14T12:09:02Z"
+last_modified_at: null
+tags:
+  - "chegada"
+  - "homicidios"
+  - "pernambuco"
+  - "reducao"
+categories:
+  - "noticias"
+title: "Pernambuco chega ao 23\u00ba m\u00eas consecutivo de redu\u00e7\u00e3o dos homic\u00eddios"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/03/homicidio.jpg"
+---
+{% raw %}
+<p><p>Em outubro, Pernambuco atingiu o 23º mês consecutivo de redução de homicídios, quando comparado com o mesmo período do ano anterior. Essa série de quedas iniciou em dezembro de 2017 e, em toda a linha do tempo dos 12 anos de existência do Pacto pela Vida, uma sequência tão alongada ocorreu uma única vez, entre 2009 e 2011.</p></p>
+<p><p>No mês passado, ocorreram 318 mortes, o que representa uma queda de 4,8% em relação ao mesmo período de 2018, quando foram registrados 334 óbitos. Já na soma dos dez primeiros meses de 2019, a diminuição acumulada de Crimes Violentos Letais Intencionais (CVLIs) chega a 19,21% quando comparado com o mesmo período de 2018.</p></p>
+<p><p>Neste ano, considerando os 10 primeiros meses, foram 2.881 homicídios registrados, contra 3.566 notificados entre janeiro e outubro do ano anterior. “Quero enaltecer o intenso e integrado trabalho realizado por todos os que fazem a segurança, desde a prevenção, a investigação até a repressão ao crime. Manter esse forte ritmo de recuo da violência por tanto tempo exige muita dedicação por parte daqueles que estão nas ruas, atendendo a população, enfrentando homicidas, traficantes de drogas, assaltantes e quadrilhas especializadas. Mas não devemos comemorar porque estamos cumprindo a lei, fazendo nosso dever ou reduzindo estatísticas. E sim destacar que estamos salvando vidas. Em 2019, são 685 mortes a menos em relação ao ano passado. A preservação do bem maior é o imensurável ganho da nossa política pública de segurança, definida pelo Pacto pela Vida”, avalia o secretário de Defesa Social, Antonio de Pádua.</p></p>
+<p><p>SERTÃO – Além de ser a Região pernambucana com menos crimes contra a vida, o Sertão também tem sido destaque no decréscimo mensal desse tipo de ocorrência. Só no mês passado, a queda de homicídios na área chegou a 17,95%, a maior retração entre as quatro regiões do Estado. Ao todo, foram 32 mortes no último outubro, contra 39 no ano anterior. O Sertão ainda lidera no critério de redução acumulada, com 28,28% de diminuição nos CVLIs entre janeiro e outubro deste ano, quando foram contabilizados 317 homicídios. No mesmo período do ano passado, haviam sido 442 casos registrados.</p></p>
+<p><p>A Zona da Mata aparece com a segunda maior retração, no mês de outubro. Ao todo, foram 55 casos no mês passado, contra 66 notificados em outubro de 2018, o que representa -16,67%. Já na Região Metropolitana do Recife (exceto a Capital), o recuo nos crimes contra a vida foi de 6,36%, no mês passado, quando 103 delitos do tipo foram registrados, em comparação com o mesmo período de 2018, que somou 110. No Agreste, houve 81 ocorrências notificadas em outubro, contra 61 no mesmo período de 2018.</p></p>
+<p><p>RMR SE DESTACA NA REDUÇÃO ACUMULADA - No acumulado do ano, é a Região Metropolitana (exceto a Capital), que assume a segunda colocação em relação à queda dos crimes contra a vida. Saindo dos 1.085 CVLIs, entre janeiro e outubro de 2018, para 843 ocorrências, neste ano, a Região verifica uma retração de 22,30%. Logo em seguida, vem a Zona da Mata, que somou 598 crimes, neste ano, contra 730 no mesmo período do ano passado, ou seja, -18,08%. Por fim, o Agreste, apesar do crescimento em outubro, ainda mantém retração de 13,39% na soma de 2019, que terminou em 699. No ano passado foram 812.</p></p>
+<p><p>No Recife, a diferença entre outubro de 2018 e 2019 fechou em -16,07% (de 56 para 47), assim como em -14,69% no acumulado dos dez meses.</p></p>
+<p><p>DROGAS E ATIVIDADES CRIMINOSAS MOTIVAM MORTES - A maior parte dos CVLIs em outubro de 2019 continuou motivada por atividades criminosas, acerto de contas e tráfico de drogas, que estão relacionados a 67,92% das ocorrências. A segunda causa são os conflitos na comunidade (11,95%), seguida dos excludentes de ilicitude (3,46%). Houve ainda 8 latrocínios, que representaram 2,52% das mortes violentas no mês. Quanto à situação das vítimas perante a Justiça, 64% não tinham passagem pelo sistema de jurisdição criminal.</p></p>
+<p><p>FEMINICÍDIOS – Em outubro, as forças de segurança do Estado registraram 5 feminicídios, que são os crimes em que as mulheres são vítimas pela condição de gênero. Em comparação com o mesmo período de 2018, quando foram contabilizadas 10 ocorrências, a retração desse tipo de crime chega a 50%. Já no acumulado do ano, chega a -23,4%, caindo de 64 feminicídios, em 2018, para 49, entre janeiro e outubro de 2019.</p></p>
+<p><p>Além dos feminicídios, os estupros e os casos de violência doméstica contra a mulher também arrefeceram no mês de outubro. Ao todo, foram 189 queixas de estupro computadas no mês passado, 16,37% a menos do que o mesmo período de 2018, quando notificaram-se 226.</p></p>
+<p><p>Já em relação à violência doméstica contra a mulher, a queda foi de 7,97% no mês passado, em relação a outubro de 2018. No total, foram 3.615 ocorrências este ano, contra 3.928, no ano passado.</p></p>
+<p><p>Relação dos 79 municípios, mais o distrito de Fernando de Noronha, sem registro de CVLI em outubro de 2019:</p></p>
+<p><p>Afogados da Ingazeira, Afrânio, Água Preta, Alagoinha, Aliança, Altinho, Barra de Guabiraba, Belém de Maria, Belém de São Francisco, Bom Conselho, Brejinho, Buenos Aires, Cabrobó, Cachoeirinha, Calumbi, Camutanga, Capoeiras, Carnaíba, Carnaubeira da Penha, Casinhas, Cedro, Cortês, Cumaru, Custódia, Dormentes, Exu, Feira Nova, Ferreiros, Gameleira, Ibirajuba, Iguaraci, Inajá, Itacuruba, João Alfredo, Joaquim Nabuco, Jucati, Jupi, Lagoa do Itaenga, Lagoa do Ouro, Lagoa dos Gatos, Lajedo, Machados, Mirandiba, Moreilândia, Orobó, Orocó, Palmeirina, Pedra, Pombos, Quixaba, Ribeirão, Sairé, Salgueiro, Saloá, Santa Cruz, Santa Cruz da Baixa Verde, Santa Filomena, Santa Maria do Cambucá, São Benedito do Sul, São João. São José do Belmonte, São Jose do Egito, São Vicente Férrer, Serra Talhada, Serrita, Tabira, Tacaimbó, Tacaratu, Terezinha, Timbaúba, Tracunhaém, Trindade, Triunfo, Tupanatinga, Tuparetama, Venturosa, Verdejante, Vertente do Lério, Vertentes e Fernando de Noronha.</p></p>
+{% endraw %}

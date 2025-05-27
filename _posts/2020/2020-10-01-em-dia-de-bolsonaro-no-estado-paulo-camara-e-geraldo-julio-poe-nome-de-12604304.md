@@ -1,0 +1,42 @@
+---
+id: 12604304
+date: "2020-10-01T17:15:14Z"
+last_modified_at: null
+tags:
+  - "bolsonaro"
+  - "eduardo-campos"
+  - "estado"
+  - "geraldo-julio"
+  - "novembro"
+  - "paulo-camara"
+  - "poeta"
+  - "recife"
+categories:
+  - "noticias"
+title: "Em dia de Bolsonaro no Estado, Paulo C\u00e2mara e Geraldo Julio p\u00f5e nome de Eduardo Campos em novo hospital no Recife"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/10/hosp.jpg"
+---
+{% raw %}
+<p><p><a href="https://blogs.ne10.uol.com.br/jamildo/2020/10/01/aliados-de-bolsonaro-gritam-fora-paulo-camara-em-evento-hidrico-em-sao-jose-do-egito/">No mesmo dia e momento em que Bolsonaro visitava o sertão do Pajeú</a>, para entregar uma obra hídrica, na manhã desta quinta-feira (1º), o prefeito Geraldo Julio entregou, ao lado do governador Paulo Câmara, o primeiro hospital do Nordeste exclusivo para o tratamento e prevenção de doenças nas pessoas idosas. A família de Eduardo Campos enviou o filho Pedro Campos para representá-los. João Campos, deputado federal, não poderia aparecer pois como candidato no Recife está proibido.</p></p>
+<p><p><a href="https://blogs.ne10.uol.com.br/jamildo/2020/09/30/paulo-camara-ainda-nao-recebeu-convite-para-participar-de-visita-de-bolsonaro-ao-sertao-de-pernambuco/"><strong>Paulo Câmara não recebeu convite para participar de visita de Bolsonaro ao Sertão de Pernambuco</strong></a></p></p>
+<p><p>O Hospital Eduardo Campos da Pessoa Idosa (HECPI) funcionará na Avenida Recife, n° 810, na Estância, ao lado do Hospital Geral de Areias, e vai oferecer atendimento ambulatorial, exames e leitos para internamento, incluindo UTI.</p></p>
+<p><p>A PCR destacou que o novo hospital é entregue após o Hospital da Mulher do Recife, referência no atendimento à Saúde da Mulher e é o segundo hospital erguido pela atual gestão municipal, além dos hospitais de campanha da covid-19.</p></p>
+<p><p>De acordo com a PCR, grande parte dos equipamentos médico-hospitalares do novo hospital foi herdada da rede de hospitais de campanha que a Prefeitura do Recife montou para o enfrentamento à pandemia de covid-19, como respiradores, monitores de sinais vitais, aparelho de raio-x, cardioversores para reanimação cardíaca, eletrocardiógrafo, aspirador cirúrgico, oxímetro, camas, televisões, entre outros itens.</p></p>
+<p><p><img class="alignleft size-full wp-image-233247" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2020/10/ARB_4136_01102020_Foto_Andrea_Rego_Barros.jpg" alt="" width="3500" height="2333" /></p></p>
+<p><p>O início dos serviços ocorrerá de acordo com um cronograma gradual de abertura, iniciando com as consultas ambulatoriais, das 7h às 19h, de segunda a sexta-feira. As internações funcionarão 24 horas, de domingo a domingo, quando começarem a ser feitas. Os pacientes atendidos no hospital serão encaminhados por meio do Sistema de Regulação da Secretaria de Saúde do Recife, através das unidades de saúde da família, centros de saúde, policlínicas e outras unidades da Secretaria de Saúde (Sesau) do Recife. Diante do cenário de pandemia, a unidade hospitalar vai passar pelo processo de sanitização todas as noites.</p></p>
+<p><p>Com mais de 8 mil m² de área construída, o Hospital Eduardo Campos da Pessoa Idosa conta, ao todo, com 72 leitos, sendo 62 de enfermaria e 10 de Unidade de Terapia Intensiva (UTI), para atendimentos de média e alta complexidade. A unidade municipal também tem centro diagnóstico e ambulatório com 13 consultórios, onde acontecerão consultas médicas e não médicas, como as de psicologia, enfermagem e farmacêuticas. Há também quatro salas de cirurgia, leitos para recuperação pós-anestésica, salas de curativo e de exames laboratoriais, além de laboratório, farmácia e praça de alimentação.</p></p>
+<p><p>O quadro de funcionários contará com cerca de 500 profissionais, dos quais aproximadamente 70 médicos; mais de 100 outros profissionais de nível superior, como enfermeiros e assistentes sociais, além de mais de 300 profissionais de nível médio e técnico. Todos estão sendo contratados pela Fundação Professor Martiniano Fernandes - organização social responsável por gerir a unidade.</p></p>
+<p><p>A previsão é que sejam realizadas, mensalmente, cerca de oito mil consultas, que acontecerão de segunda a sexta-feira, entre 7h e 19h. Inicialmente serão ofertados atendimentos com médicos clínicos, geriatra, cardiologista, enfermeiro, fisioterapeuta, psicólogo, terapeuta ocupacional, assistente social, nutricionista e fonoaudiólogo; a maioria especializada em saúde da pessoa idosa. Depois, o Hospital do Idoso também terá cirurgias geral, vascular e urológica; atendimentos com neurologista, urologista, proctologista, entre outros. A unidade municipal ainda terá capacidade para 700 internações e 500 cirurgias mensais.</p></p>
+<p><p>Na área de Apoio Diagnóstico, do hospital, serão realizados mais de 30 mil exames por mês, entre eles os de imagem, como raio-x, ultrassonografia, tomografia e ressonância magnética; endoscopia e colonoscopia; exames do coração, como holter, ecocardiograma, eletrocardiograma, exames neurológicos, como eletroneuromiografia e eletroencefalograma, além de punção e biópsia.</p></p>
+<p><p><img class="alignleft size-full wp-image-233246" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2020/10/ARB_3555_01102020_Foto_Andrea_Rego_Barros.jpg" alt="" width="4331" height="2887" /></p></p>
+<p><p><strong>Paulo Câmara e Geraldo Julio</strong></p></p>
+<p><p>“É uma alegria muito grande ver esse hospital pronto, a gente que já tinha entregue o Hospital da Mulher, agora entrega o Hospital do Idoso. O Recife tem cerca de 200 mil pessoas idosas que aqui vão poder fazer consultas, exames, cirurgias, receber um tratamento com dignidade e com respeito. A gente está muito feliz, feliz também com a homenagem que aqui é feita ao governador Eduardo Campos que fez muito pela saúde de Pernambuco, construiu muitos hospitais, mostrou que era possível e que era necessário. A gente fica muito feliz, o segundo grande hospital construído pela Prefeitura do Recife em toda a sua história, agora vai atender aos idosos da nossa cidade”, disse o prefeito Geraldo Julio. <br /></p>
+<p>“O mundo passa pela maior crise econômica de toda a história. Todos os países passando por grave crise econômica, os estados também. Os municípios no Brasil inteiro desafiando essa crise econômica e a gente consegue fazer uma entrega tão marcante quanto essa e tão importante para a população”, afirmou ele.</p></p>
+<p><p>O governador Paulo Câmara destacou o quanto o hospital vai ser importante para o Recife e para Pernambuco. <br /></p>
+<p>“Agora temos uma nova unidade, focada na pessoa idosa. Graças a Deus, as pessoas estão vivendo mais, e isso é fundamental, mas para que as pessoas possam viver mais e mais também é preciso que a gente continue cuidando da saúde das pessoas idosas. Hoje temos um exemplo vivo com a inauguração do Hospital Eduardo Campos da Pessoa Idosa que com certeza vai cumprir um papel fundamental para dar a assistência necessária à pessoa idosa na cidade do Recife. E fica o registro e o agradecimento por essa visão de ajudar Pernambuco criando unidades no Recife que vão fazer a diferença para salvar a vida de muitas pessoas nos próximos anos e nas próximas décadas. E a certeza de que tudo isso foi pensado para o futuro”, comentou ele.</p></p>
+<p><p>O secretário de Saúde do Recife, Jaílson Correia, disse que o hospital representa um marco na história da cidade.<br /></p>
+<p>“É o segundo hospital construído na gestão do prefeito Geraldo Julio. Este aqui é uma marco pela inovação, é o primeiro hospital público do Nordeste voltado à população acima de 60 anos. Nós esperamos desse hospital uma grande qualidade no atendimento, aliando modernidade, tecnologia, diversas especialidades médicas, sem esquecer do cuidado, sem esquecer também da humanização do atendimento que já são marcas do Hospital da Mulher do Recife e que aqui vão ganhar uma nova roupagem nesse hospital que apresenta uma capacidade de atendimentos de 8 mil consultas por mês, 700 internações, 500 cirurgias, então são números expressivos. Mais de 30 mil exames serão realizados aqui, ajudando a toda a população das pessoas idosas da cidade do Recife a receberem um atendimento com a qualidade e com o carinho que merecem”.</p></p>
+{% endraw %}

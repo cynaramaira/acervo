@@ -1,0 +1,39 @@
+---
+id: 12542062
+date: "2016-11-28T16:57:04Z"
+last_modified_at: null
+tags:
+  - "brasilia"
+  - "delcidio-amaral"
+  - "dinamarca"
+  - "lula"
+  - "prejuizos"
+categories:
+  - "noticias"
+title: "Juiz marca interrogat\u00f3rio de Lula e Delc\u00eddio em Bras\u00edlia"
+sutia: null
+chapeu: null
+autor: null
+imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/10/lula-e-delcidio.jpg"
+---
+{% raw %}
+<p><em>Estadão Conteúdo -</em> O senador cassado Delcídio Amaral e o ex-presidente <a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/24/nao-tenho-esse-conhecimento-diz-delator-questionado-se-lula-pediu-propina/">Luiz Inácio Lula da Silva serão interrogados, respectivamente, nos dias 15 e 17 de fevereiro, </a>na ação penal da 10ª Vara da Justiça Federal, em Brasília, na qual eles são acusados de tentarem obstruir a Lava Jato, especificamente, em relação ao ex-diretor da área internacional da Petrobras Nestor Cerveró.</p>
+<p>Lula, Delcídio, Diogo Ferreira Rodrigues - assessor de Delcídio -, o advogado Edson Ribeiro, <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/15/moro-condena-jose-carlos-bumlai-9-anos-e-10-meses-de-prisao-na-lava-jato/">o banqueiro André Esteves, o pecuarista José Carlos Bumlai e o filho dele, Maurício Bumlai,</a> são acusados dos crimes de embaraço à investigação de organização criminosa, que prevê pena de 3 a 8 anos de prisão; exploração de prestígio, cuja pena prevista é de 1 a 5 anos; e patrocínio infiel (quando um advogado não defende apropriadamente os interesses de um cliente - os outros réus foram considerados coautores de Édson Ribeiro neste crime), que prevê pena de 6 meses a 3 anos.</p>
+<p><strong>LEIA TAMBÉM:</strong></p>
+<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/24/cervero-cita-geddel-e-renan-em-depoimento-no-processo-contra-lula/">Cerveró cita Geddel e Renan em depoimento no processo contra Lula</a></p>
+<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/24/nao-tenho-esse-conhecimento-diz-delator-questionado-se-lula-pediu-propina/">‘Não tenho esse conhecimento’, diz delator questionado se Lula pediu propina</a></p>
+<p>Nesta segunda-feira, 28, em audiência de testemunhas de acusação e <a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/23/salada-de-frutas-abasteceu-campanha-de-dilma-e-temer-diz-delcidio-ao-tse/">defesa dentro do processo, Bernardo Cerveró prestou depoimento e reiterou as alegações de que sofreu pressão</a> por parte de Delcídio e do advogado Édson Ribeiro para que o pai dele, Néstor Cerveró, não fizesse um acordo de delação premiada e, assim, preservasse os réus desta ação.</p>
+<p>O deputado federal Paulo Teixeira (PT-SP) ainda será ouvido antes dos acusados, no dia 15 de dezembro, na condição de testemunha, arrolada pela defesa do ex-presidente Lula. Os crimes pelos quais os<a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/14/delcidio-diz-que-lula-participava-de-perto-no-que-acontecia-na-petrobras/"> réus são acusados na ação penal 42543-76 2016.4.013400 são: embaraço à investigação de organização criminosa</a>, que prevê pena de 3 a 8 anos de prisão; exploração de prestígio, cuja pena prevista é de 1 a 5 anos; e patrocínio infiel (quando advogado não defende corretamente interesses do cliente - os outros réus foram considerados coautores de Édson Ribeiro neste crime), que prevê pena de 6 meses a 3 anos.</p>
+<p><h2><b>Depoimento</b></h2></p>
+<p>Em um depoimento dado por meio de uma chamada de vídeo do Skype, <a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/11/lula-entra-com-acao-de-danos-morais-contra-delcidio/">nesta segunda-feira, Bernardo Cerveró reiterou, conforme havia dito à PGR, que Edson Ribeiro lhe entregou</a> R$ 50 mil em nome de Delcídio Amaral, sob o pretexto de ajuda à família de Nestor Cerveró, quando o ex-diretor da Petrobras já estava preso. Bernardo disse ter devolvido no dia seguinte o dinheiro a Edson, "para as despesas dele".</p>
+<p>Na análise de Bernardo, esse dinheiro era para comprar o silêncio do pai, em relação ao então líder do governo (Delcídio), a Lula, Bumlai e André Esteves, entre outros acusados. Bernardo queria que o pai fizesse um acordo de delação, mas afirma que, em certo momento, afirma ter percebido que o advogado Edson Ribeiro não estava ajudando.</p>
+<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/22/na-audiencia-mais-nervosa-da-lava-jato-advogados-de-lula-batem-boca-com-moro/">Na audiência mais nervosa da Lava Jato, advogados de Lula batem boca com Moro</a></p>
+<p>Bernardo Cerveró, no entanto, afirmou não saber de quem eram <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/16/advogados-de-lula-questionam-depoimentos-de-delcidio-do-amaral-e-pedro-correa-na-lava-jato/">os R$ 50 mil, um dos pontos que tanto defesa quanto acusação buscavam esclarecer. A denúncia trabalha com </a>a versão, com base na delação de Delcídio Amaral, de que os recursos eram de José Carlos Bumlai, amigo de Lula. E assinala que a quebra de sigilo de Mauricio Bumlai mostra dois saques de R$ 25 mil dias antes.</p>
+<p>Foi com base numa gravação feita por Bernardo que Delcídio foi preso há um ano. Na conversa, Delcídio promete à família do ex-diretor da área internacional da Petrobras que iria conversar com ministros do Supremo Tribunal Federal (STF) para tentar libertá-lo, e chega a falar em um plano de fuga para o exterior. Bernardo disse também que "apenas gravou" a conversa, sem tentar induzir os presentes.</p>
+<p>Segundo ele, não houve contrato para a entrega dos R$ 50 mil em troca <a href="https://blogs.ne10.uol.com.br/jamildo/2016/07/29/lula-delcidio-e-mais-cinco-viram-reus-na-lava-jato-por-obstruir-a-justica/">da desistência de Nestor Cerveró de fazer uma delação, mas, sim, uma pressão para que ele desistisse</a>. "O que eu disse é que no momento em que foi entregue 50 mil no escritório de Machado não houve contrato. O que eu estou dizendo é que foi se criando a figura da preservação do senador e de outros, em função dessa ajuda (à família)", afirmou Bernardo.</p>
+<p>Outras testemunhas também foram ouvidas nesta segunda-feira. Da parte da acusação, Edson Ramos de Almeida, motorista e segurança de Maurício Bumlai, foi ouvido e afirmou que, em uma ocasião, presenciou Diogo Ferreira Rodrigues - assessor de Delcídio - buscando no carro que pertence à família Bumlai um "envelope com documentos" destinado ao então senador. Outras testemunhas de acusação e defesa foram ouvidas, sem acrescentar fatos novos.</p>
+<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/11/lula-entra-com-acao-de-danos-morais-contra-delcidio/">Lula entra com ação de danos morais contra Delcídio</a></p>
+<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/20/lider-do-psdb-no-senado-diz-que-lula-quer-constranger-moro-e-se-manter-acima-da-lei/">Líder do PSDB no Senado diz que “Lula quer constranger Moro e se manter acima da lei”</a></p>
+<p>A denúncia foi aceita em julho pelo juiz Ricardo Leite, da 10ª Vara da Justiça Federal de Brasília, que transformou Lula pela primeira vez réu na Lava Jato. O caso já havia sido denunciado pelo Procurador-Geral da República (PGR), Rodrigo Janot, em dezembro do ano passado. No entanto, em decorrência da perda de foro privilegiado do ex-senador envolvido, Delcídio Amaral, e também pelo fato de o crime ter ocorrido em Brasília, a denúncia foi enviada à Justiça Federal do Distrito Federal.</p>
+<p>Com essa redistribuição, o Ministério Público Federal do Distrito <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/17/pt-nao-inventou-corrupcao-mas-sistematizou-atuacao-partidaria-acusa-delcidio/">Federal, na pessoa do procurador da República Ivan Cláudio Marx, concluiu pela confirmação integral da denúncia p</a>révia do PGR e fez acréscimos à peça inicial, com o objetivo de ampliar a descrição dos fatos e as provas que envolvem os acusados.</p>
+{% endraw %}

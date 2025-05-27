@@ -1,0 +1,28 @@
+---
+id: 12509834
+date: "2016-01-02T12:45:44Z"
+last_modified_at: null
+tags:
+  - "novo-presidente"
+  - "posse"
+categories:
+  - "noticias"
+title: "Novo presidente da OAB-PE toma posse"
+sutia: null
+chapeu: null
+autor: null
+imagem: null
+---
+{% raw %}
+<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/01/posse-oab.jpg"><img class="size-full wp-image-138772" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/01/posse-oab.jpg" alt="Foto: Divulgação" width="580" height="387" /></a> Foto: Divulgação</p>
+<p>Tomou posse nesta sexta-feira (1º) a nova diretoria eleita da Ordem dos Advogados do Brasil/Seccional Pernambuco (OAB-PE) para o triênio 2016-2018, que tem como presidente o advogado Ronnie Duarte e vice-presidente Leonardo Accioly. Ronnie Duarte, eleito em novembro, sucede o ex-presidente Pedro Henrique Reynaldo Alves.</p>
+<p>A posse formal aconteceu na sede da OAB-PE, no bairro de Santo Antônio, no Recife. Integram também a nova diretoria o secretário geral Fernando Ribeiro Lins, a secretária geral adjunta Luciana Brasileiro e a diretora tesoureira Silvia Nogueira. Uma solenidade de posse está marcada para o próximo dia 15 de fevereiro, das 20h às 21h30, no Teatro do Hospital Pedro II/Imip.</p>
+<p>“Temos uma grande responsabilidade que é conduzir uma classe que é formada por mais de 30 mil advogados em Pernambuco e vamos avançar na implementação de projetos e ações que valorizem a classe”, disse o novo presidente da OAB-PE, Ronnie Duarte. “Queremos avançar na questão do respeito às prerrogativas profissionais, na assistência e na capacitação dos advogados”, destacou o vice-presidente, Leonardo Accioly.</p>
+<p><strong>LEIA TAMBÉM:</strong></p>
+<p>&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2015/11/19/caso-ronnie-venca-chapa-da-situacao-vence-e-ronnie-duarte-e-eleito-presidente-da-oab-pe/" target="_blank">Chapa da situação vence e Ronnie Duarte é eleito presidente da OAB-PE</p>
+<p>&gt;</a> <a href="https://blogs.ne10.uol.com.br/jamildo/2015/11/16/guilherme-uchoa-bate-em-jayme-asfora-e-diz-que-aliados-de-ronnie-propuseram-trocam-fim-de-acao-por-apoio-em-eleicao-na-oab/" target="_blank">Guilherme Uchoa bate em Jayme Asfora e diz que aliados de Ronnie propuseram trocar fim de ação por apoio em eleição na OAB</a></p>
+<p>&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2015/11/13/oab-independente-interessa-a-todos/" target="_blank">Aliada de Ronnie Duarte diz que OAB independente interessa a todos</a></p>
+<p>Também integram a nova direção da OAB-PE os conselheiros federais Pedro Henrique Reynaldo Alves, Silvio Pessoa Jr. e Adriana Rocha Coutinho, e os suplentes Isabela Lins, Gustavo Ramiro e Carlos Harten; e o novo presidente da Caixa dos Advogados de Pernambuco (CAAPE), Bruno Baptista. Como novo presidente da Escola Superior de Advocacia de Pernambuco (ESA-PE), assume o advogado Carlos Neves.</p>
+<p>As subseccionais da OAB-PE passam a ter os seguintes presidentes: Érico Douglas Passos Honorato (Afogados da Ingazeira), Gabriela Reis Feitosa Batista (Araripina), Wdson Pyerre Soares Silva (Arcoverde), Adriano Vendiciano dos Santos (Barreiros), Wellington Cadête da Silva (Belo Jardim), Severino José da Cunha (Cabo de Santo Agostinho), Luiz Flávio Rodrigues Dias (Carpina), Jorge Wellington Lima de Matos (Garanhuns), Emanuel Jairo Fonseca de Sena (Goiana), Jarlenira de Araújo Albuquerque Silva (Ipojuca), Antônio Plácido Rodrigues Maciel (Jaboatão dos Guararapes), Maria Angélica Vilanova de Albuquerque (Limoeiro), Odin Felipe Pereira das Neves Silva (Olinda), Ary de Albuquerque Bezerra (Palmares), José Araújo Costa (Paulista), Augusto César de Freitas Ramos (Pesqueira), José Dantas de Lima (Petrolândia), Alexandre Jorge Torres Silva (Petrolina), Eraldo Cezar Rodrigues de Souza (Santa Cruz do Capibaribe), Estefferson Darley Fernandes Nogueira (Serra Talhada), Fredson Rodrigues dos Santos (Surubim), Antônio Luiz de Moura Apolinário (Timbaúba) e Washington Luis Macêdo de Amorim (Vitória de Santo Antão). Em Caruaru e Salgueiro serão realizadas novas eleições, ainda sem data definida.</p>
+<p>Os novos conselheiros seccionais são Adriana Caribe, Adriana Reis, Alcides França, Alexandre Bartilotti, Alexandre Vasconcelos, Amaro Alves, Ana Luiza Duarte, Ana Luisa Mousinho, André Coutinho, Antonio Faria, Bianca Siqueira, Bruno Galindo, Bruno Moury Fernandes, Carlos André Pereira Lima, Carlos Eduardo Vasconcelos, Carlúcia Lapenda, Catarina Almeida, Diana Câmara, Diógenes de Souza Jr. Eduardo Emerenciano, Eduardo Paurá Filho, Erik Sial, Erlânio Alencar, Fernanda Fonseca Rosemblatt, Fernando Araújo, Fernando Carvalho, Fernando Lapa, Filipe Lobato, Gener Serralva, Gilberto de Souza Costa, Gustavo Freire, Gustavo Gomes, Hélder Pessoa, Ivo Tinô do Amaral, Jânio Carvalho, João André Sales Rodrigues, João Henrique de Lima, João Olímpio, João Vieira, José Américo Moraes, Leonardo Oliveira, Lívia Saihg, Luiz Otávio Pedrosa, Marcelo Farias, Marcus Lins, Maria Paula Latache, Maria Rita Holanda, Marianna Granja, Maurício Albuquerque, Maurício Bezerra, Maximiano José, Nair Andrade, Nelson Barbosa, Patrícia Lobo, Pelópidas Soares, Peterson Parpinelli, Raimundo Menezes, Ricardo Sampaio, Roberta de Lorenzi Steiger, Roberto de Acioli, Sílvio Roberto Freitas, Socorro Lapenda, Sócrates Vieira, Suzana Times, Tatiana Vasconcelos, Tereza Joacy e Virgínia Galvão.</p>
+{% endraw %}
