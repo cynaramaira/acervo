@@ -23,7 +23,7 @@ jobs:
     - name: Install Bundler specific version
       run: |
         gem install bundler:2.5.9 # Instala uma versão específica do Bundler. '2.5.9' é uma versão estável recente.
-        bundle _2.5.9 install --jobs 4 --retry 3 # Usa a versão instalada para instalar as gems.
+        bundle install --jobs 4 --retry 3 # <<<<< CORREÇÃO APLICADA AQUI: REMOVIDO O '_2.5.9'
 
     - name: Add platform to bundler lockfile
       run: bundle lock --add-platform x86_64-linux # Continua sendo necessário para lidar com a diferença de plataformas.
