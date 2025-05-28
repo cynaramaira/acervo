@@ -1,41 +1,0 @@
----
-id: 12586481
-date: "2019-05-25T10:50:00Z"
-last_modified_at: null
-tags:
-  - "sem-tags"
-categories:
-  - "noticias"
-title: "Criminalistas dizem que pacote anticrime apenas encher\u00e1 penitenci\u00e1rias"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/05/Renata-Dayanne-Foto-Andre-Maia-1.jpg"
----
-{% raw %}
-<p><p>Não foi apenas o advogado criminalista Antônio Carlos de Almeida Castro, o Kakai, a bater no projeto de Moro durante o 1º CNAC - Congresso Nacional da Advocacia Criminal da Anacrim (Associação Nacional de Advocacia Criminal).</p></p>
-<p><p>As discussões foram realizadas por diversos nomes do mundo jurídico em encontro nesta sexta (24) e quinta (23). Delas, participaram especialistas em direito criminal do país, como o juiz Luis Carlos Valois, Geraldo Prado e Raimundo Albuquerque.</p></p>
-<p><p>“Temos em cárcere um cara que furtou um Motorola e o estado está pagando uma mensalidade equivalente a um Iphone para mantê-lo na prisão”, destacou o juiz Luis Carlos Valois no 1º CNAC - Congresso Nacional da Advocacia Criminal, realizado esta quinta (23) e sexta (24), na Universidade Católica de Pernambuco.</p></p>
-<p><p>De acordo com os organizadores, o consenso geral foi que o Pacote Anticrime só servirá para encher ainda mais as prisões brasileiras.</p></p>
-<p><p>“Quando a pessoa é pega em flagrante na rua, ela é presa. E, em nosso sistema atual, quanto mais negro e pobre, maior será essa condição, pois ele é a maioria em nossa sociedade. E isso é uma das falhas da proposição que só irá aumentar esse cenário que já temos no Brasil”, disse.</p></p>
-<p><p>Cerca de 350 advogados e estudantes do Direito discutiram o Pacote Anticrime, projeto proposto pelo Ministro da Justiça Sérgio Moro.</p></p>
-<p><p>“O pacote é um projeto de solução extremamente imediatista, para um quadro de criminalidade que o Brasil enfrenta”, comentou a professora de Direito Processual Renata Dayanne.</p></p>
-<p><p>"Este é um projeto de lei e não um direito posto que irá provavelmente marcar uma onda de resistência no Congresso Nacional ao presidente, se for aprovado. Será instaurado um quadro de resistência porque nós estamos vivendo uma era de estado de exceção, sem bandeiras, na qual dará determinadas liberdades a alguns pautados em premissas como o direito de matar como defesa e, por outro lado, cerceará os direitos de muitos outros, que são princípios fundamentais da Constituição".</p></p>
-<p><p>“O projeto irá retirar uma serie de garantias que todos nós temos com base na Constituição. Se isso não acontecer hoje, poderá ocorrer talvez amanhã. Por isso, temos que analisar de forma ampla os precedentes que ele abre”, destacou Dayanne.</p></p>
-<p><p>A marca das falas dos participantes do evento era de que já temos um sistema penal brasileiro inchado e engessado com quase 700 mil pessoas condenadas, além de outros 500 mil mandatos de prisão em aberto para 2.614 unidades carcerárias que detém apenas 419 mil. O que corroboraria a discussão sobre a função do pacote para a sociedade brasileira atual.</p></p>
-<p><p>“Ele vem para suprimir o medo da sociedade que cresceu pelas distorções econômicas e sociais da população brasileira, que ainda distingue as pessoas pela forma como se vestem, se apresentam e por quem são naquela comunidade”, enfatizou a juíza Ana Carolina Santana, que tem atuado na comarca de Betânia e Flores, em Pernambuco.</p></p>
-<p><p>Magistrada legalista, professora universitária e componente da Associados dos Juízes pela Democracia, ela disse no evento que o único motivo desta proposição existir é o fato de que ninguém foi consultado.</p></p>
-<p><p>"O Pacote Anticrime é uma pauta que não trará uma solução plausível à sociedade, uma proposta de um político que não se baseia em dados estatísticos. A proposição é uma afronta à academia e ao processo judicial e, por isso, a própria magistratura se movimenta e o Ministério Público também se movimenta em relação ao projeto anticrime”, completou.</p></p>
-<p><p>De acordo com os organizadores, outro ponto debatido foi a questão do levantamento adequado de dados, realização da perícia e análise correta das provas e fontes para o encarceramento de réus.</p></p>
-<p><p><img class="alignleft size-full wp-image-215422" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2019/05/Raimundo-de-Albuquerque-Foto-Andre-Maia.jpg" alt="" width="1690" height="1218" /></p></p>
-<p><p>De acordo com o especialista, conferencista e professor de Direito Penal, Direito Processual Penal e Prática Penal no Centro Universitário Estácio da Amazônia Raimundo de Albuquerque essa questão tem que ser apontada, pois temos uma grande quantidade de presos temporários dentro de um sistema que é inadequado e na qual temos apenas 600 mil vagas de encarceramento, de acordo com o CNJ – Conselho Nacional de Justiça.</p></p>
-<p><p>“Precisamos nos perguntar se o devido processo legal é respeitoso? Afinal, quem é preso e é orientado quanto ao seu direito de informar aos parentes ou ligar para um advogado”, questionou.</p></p>
-<p><p>"Estamos vivendo tempos sombrios no processo penal brasileiro e o Pacote Anticrime traz proposições que são contraditórios, apesar de vir revestido como um projeto de combate à anticorrupção, endurecendo a Justiça frente ao crime organizado e ao crime violento. Mas, no entanto, quando hoje a aplicação do processo de encarceramento já torna o preso provisório, que é sinônimo de culpado, em um encarcerado sem prazo de liberação. E uma questão grave que não é analisada é o quadro desse cárcere".</p></p>
-<p><p>“Há muitos motivos de critica ao projeto e é uma critica metodológica, afinal, precisamos entender primeiro a realidade dos fatos, dominar técnicas jurídicas e tecnologias com uma inteligência, que ofereçam respostas que não sejam simplórias no cenário que temos hoje no Brasil e no mundo”, disse o professor de Direito Processual Penal Geraldo Prado da UFRJ.</p></p>
-<p><p>Para o especialista, que também atua como Investigador do Instituto de Direito Penal e Ciências Criminais da Faculdade de Direito da Universidade de Lisboa e que lançou no evento o seu mais novo livro ("A cadeia de custódia da prova no processo penal"), a proposição só irá complementar um círculo vicioso no país.</p></p>
-<p><p>“A polícia e o Ministério Público tentam construir provas dentro de conjuntura completa que demanda técnicas e uma analise complexa. Carecemos de metodologias precisas e de ferramentas adequadas de investigação, e com o mesmo peso precisamos dos Direitos e garantias do processo para poder viver”, ressaltou.</p></p>
-<p><p>"Contudo, estamos vivendo em um cenário distorcido e com perspectivas falhas, na qual determinadas autoridades assumiram um protagonismo que não poderiam e quem deve agir também se abstém dessa responsabilidade. Enquanto Ministro da Justiça, Sérgio Moro não está desenvolvendo uma pauta séria para a questão da segurança. E como juiz ele dirigiu uma operação como a Lava Jato, quando juiz algum não conduz operação. Então, os papeis no governo não estão claros”, afirmou.</p></p>
-<p><p>Diante do exposto nas 12 atividades comandadas por nomes do Direito Criminal e especialistas do mundo jurídico da academia e da advocacia do país, a Anacrim "exigiu" que o governo abra o debate com a sociedade para analisar e decidir os tópicos do projeto, concedendo o direito à sociedade e aos órgão envolvidos nesta pauta.</p></p>
-<p><p><img class="alignleft size-full wp-image-215417" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2019/05/kakai-1.jpg" alt="" width="750" height="410" /></p></p>
-<p><p>"Desta forma, poder-se-á ultrapassar esses tempos difíceis evitando prisões ilegais, injustiças legais e prejuízo futuro à população brasileira. Acreditamos que é necessário estabelecer um documento que seja justo e igualitário no tratamento desde o político mais rico até o menos favorecido, reconhecendo direitos e garantias”, argumentou James Walker Júnior, presidente nacional da Anacrim, que comandou o evento ao lado de Eduardo Araújo, presidente da seccional Pernambuco da entidade.</p></p>
-{% endraw %}

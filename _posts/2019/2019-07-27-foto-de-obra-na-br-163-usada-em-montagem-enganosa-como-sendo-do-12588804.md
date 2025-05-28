@@ -1,57 +1,0 @@
----
-id: 12588804
-date: "2019-07-27T13:45:14Z"
-last_modified_at: null
-tags:
-  - "bolsonaro"
-  - "foto"
-  - "governo"
-  - "lula"
-  - "obras"
-  - "planos"
-  - "pousada"
-categories:
-  - "projeto-comprova"
-title: "Foto de obra na BR-163 usada em montagem enganosa como sendo do governo Bolsonaro \u00e9 dos anos Lula"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/07/BR-163.jpg"
----
-{% raw %}
-<p><p>Do <a href="https://projetocomprova.com.br/publica%C3%A7%C3%B5es/foto-de-obra-na-br-163-usada-em-montagem-enganosa-como-sendo-do-governo-bolsonaro-e-dos-anos-lula/" target="_blank" rel="noopener">Projeto Comprova</a></p></p>
-<p><h3>Contexto errado</h3></p>
-<p><ul style="list-style-type: disc;"></p>
-<p>	<li>A imagem superior, do atoleiro, foi captada em 2017, durante o governo Temer; a imagem inferior, das obras, é de 2008, ano em que Lula era presidente</li></p>
-<p></ul></p>
-<p><h3>Localização verificada</h3></p>
-<p><ul style="list-style-type: disc;"></p>
-<p>	<li>As imagens originais foram capturadas em trechos da BR-163</li></p>
-<p></ul></p>
-<p><h3 style="text-align: justify;">Enganoso</h3></p>
-<p><ul style="list-style-type: disc;"></p>
-<p>	<li>Embora o governo Bolsonaro tenha retomado as obras de pavimentação na BR-163, os períodos de tempo usados para legendar as imagens são falsos</li></p>
-<p></ul></p>
-<p><p>Duas fotos autênticas da BR-163, rodovia que liga o município de Tenente Portela, no norte do Rio Grande do Sul, a Santarém, no Pará, estão sendo utilizadas em uma montagem enganosa que circula pelas redes sociais.</p></p>
-<p><p>A primeira fotografia mostra a estrada bastante enlameada e com ônibus e caminhões tendo dificuldade para se locomover. Os autores da montagem atribuem essa situação aos governos de Luiz Inácio Lula da Silva (2003-2010) e Dilma Rousseff (2011-2016), ambos do PT. O Comprova apurou que a foto foi capturada durante o governo de Michel Temer (MDB), em 2017.</p></p>
-<p><p>Na segunda imagem, máquinas trabalham no asfaltamento da pista, o que é creditado ao governo de Jair Bolsonaro (PSL), iniciado em janeiro deste ano. O Comprova, no entanto, localizou um registro da foto em 2008, ano em que Lula era presidente.</p></p>
-<p><h2>Como verificamos</h2></p>
-<p><p>Para a realização desta verificação, o Comprova utilizou ferramentas de busca reversa, como o Google Image Search, para averiguar se as mesmas imagens já haviam sido publicadas anteriormente na internet. Como o post tem duas fotos, primeiramente separamos as imagens. Depois fizemos uma busca reversa e descobrimos que a foto da parte de cima foi publicada em 6 de fevereiro de 2017 <a href="https://www.folhadoprogresso.com.br/atoleiros-e-buracos-triplicam-tempo-de-viagem-pela-br-163-e-230-entre-novo-progresso-e-santarem" target="_blank" rel="noopener">no site paraense Folha do Progresso</a>, ilustrando uma notícia com o seguinte título: “Atoleiros e buracos triplicam tempo de viagem pela BR-163 e 230 entre Novo Progresso, Altamira e Santarém”.</p></p>
-<p><p>A foto é de autoria do jornalista Juliano Simionato. Em entrevista ao Comprova, ele afirmou não se recordar exatamente do local do registro, mas disse suspeitar de que se trate de um trecho de estrada entre as cidades de Itaituba e Rurópolis, no Pará. Nesse trecho, a BR-163 e a BR-230 (Transamazônica) se sobrepõem. Segundo as regras do DNIT (Departamento Nacional de Infraestrutura de Transportes), <a href="https://www.dnit.gov.br/rodovias/rodovias-federais/nomeclatura-das-rodovias-federais" target="_blank" rel="noopener">para nomes de rodovias federais</a>, nos casos em que há superposição de estradas, “atualmente, já se adota como rodovia representativa do trecho superposto a rodovia de menor número” – no caso, a BR-163.</p></p>
-<p><p>Segundo Simionato, em fevereiro de 2017 – durante o mandato de Michel Temer (MDB) –, ele fez uma viagem de caminhonete de Santarém a Novo Progresso, passando tanto pela BR-163 como pela BR-230. Ambas, conta ele, estavam em situação muito ruim, com atoleiros. De acordo com o jornalista, o ônibus que aparece na imagem faria justamente trajetos no trecho entre Itaituba e Rurópolis.</p></p>
-<p><p>Já a foto da parte de baixo foi usada como imagem ilustrativa de <a href="https://www.stm.jus.br/informacao/agencia-de-noticias/item/7789-tribunal-condena-coronel-e-mais-seis-envolvidos-por-desvio-de-dinheiro-publico-em-obra-na-br-163-no-para" target="_blank" rel="noopener">uma nota no site do Superior Tribunal Militar (STM)</a> publicada em setembro de 2017. A nota fala da condenação de envolvidos em um esquema de corrupção em uma obra da BR-163 que estava sob responsabilidade do Exército. A única informação sobre a foto disponível na nota do STM consiste na legenda “imagem ilustrativa – obras de engenharia do Exército”.</p></p>
-<p><p>A <a href="https://tinyurl.com/y6bhc623" target="_blank" rel="noopener">assessoria de comunicação do STM</a> informou ao Comprova que se trata de uma foto publicada em 2017 no site do 8º BEC (Batalhão de Engenharia de Construção), que atua no Pará, e que o site não existe mais.</p></p>
-<p><p>O Comprova, no entanto, encontrou um registro ainda mais antigo dessa segunda imagem. A foto da estrada em obras <a href="https://www.flickr.com/photos/exercitooficial/32528457333/in/album-72157677814052843/" target="_blank" rel="noopener">também aparece no Flickr do Exército</a> com a data de captura de 15 de dezembro de 2008 e a tag “Asfaltamento BR 163”. Naquele ano, Lula estava em seu segundo mandato como presidente do Brasil.</p></p>
-<p><p>A montagem enganosa é de autoria da página Geração Conservadora, cujo logo aparece no post. Por meio de uma busca manual no perfil do Instagram do grupo, foi possível encontrar o post, publicado pela primeira vez em 15 de março. O post teve mais de 22 mil curtidas. O Comprova procurou o administrador da página, mas não obteve resposta até a publicação deste texto. Foi com a página O Mito, no Facebook, que o conteúdo teve grande alcance: publicada em 22 de julho, ela tinha 23 mil compartilhamentos, 673 comentários e 4,8 reações (curtidas) até a tarde desta sexta (26).</p></p>
-<p><h2>Contexto</h2></p>
-<p><p>Inaugurada em 20 de outubro de 1976 pelo então presidente, Ernesto Geisel, a BR-163 é uma importante via de escoamento da produção agrícola do Centro-Oeste para portos fluviais do Norte. <a href="https://economia.estadao.com.br/noticias/geral,apos-nove-presidentes-br-163-segue-sem-asfalto,70002466010" target="_blank" rel="noopener">De acordo com reportagem do Estadão</a> de dezembro de 2018, a rodovia ainda tinha 100 km de trechos sem asfalto.</p></p>
-<p><p>Em 2014, <a href="https://www.brasil.gov.br/economia-e-emprego/2014/07/bndes-aprova-financiamento-de-r-1-4-bilhoes-para-estradas" target="_blank" rel="noopener">a presidente Dilma injetou recursos por meio do PAC</a>. Com o fim de seu mandato, esses recursos cessaram. Em setembro de 2017, durante o governo Temer, <a href="https://g1.globo.com/pa/para/noticia/exercito-se-dirige-para-trecho-da-br-163-no-para-para-iniciar-a-pavimentacao-da-via.ghtml" target="_blank" rel="noopener">o Exército foi designado para asfaltar 65 km da via</a>, cujo trecho em questão (Trairão e Novo Progresso, no sudoeste do Pará) sofreu com fortes chuvas.</p></p>
-<p><p>Em janeiro deste ano, o ministro da Infraestrutura do governo Bolsonaro, Tarcísio Freitas, prometeu que o asfaltamento da BR-163 <a href="https://extra.globo.com/noticias/brasil/brasil-vai-terminar-em-2019-pavimentacao-da-br-163-via-chave-para-agronegocio-23413859.html" target="_blank" rel="noopener">será concluído em 2019</a>. Bolsonaro reiterou a promessa <a href="https://www2.planalto.gov.br/acompanhe-o-planalto/discursos/2019/discurso-do-presidente-da-republica-jair-bolsonaro-durante-cerimonia-de-abertura-oficial-da-agrishow-2019-ribeirao-preto-sp" target="_blank" rel="noopener">em discurso na abertura da Agrishow</a>, um dos maiores eventos do agronegócio no Brasil, em abril.</p></p>
-<p><p>“Estamos fazendo com que a BR-163 seja completada ainda no corrente ano, uma rodovia que começou no governo Geisel e vai terminar em nosso governo, obra feita pelo nosso Exército Brasileiro”, afirmou o presidente.</p></p>
-<p><p>A pavimentação e duplicação da via é um tema recorrente em manifestações públicas de Bolsonaro. Entre fevereiro e julho deste ano, <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=br-163%20%28from%3Ajairbolsonaro%29&amp;src=unkn" target="_blank" rel="noopener">Bolsonaro publicou pelo menos cinco posts no Twitter sobre a BR-163</a>, seja para comentar o andamento das obras na rodovia ou para falar do trabalho do Exército no apoio a caminhoneiros durante a época de chuvas mais intensas.</p></p>
-<p><p>Após período chuvoso no Pará, <a href="https://g1.globo.com/pa/para/noticia/2019/05/15/obras-de-pavimentacao-na-br-163-sao-retomadas-apos-periodo-de-chuvas-no-sudoeste-do-para.ghtml" target="_blank" rel="noopener">as obras de pavimentação na via foram retomadas</a> em maio deste ano.</p></p>
-<p><h2>Informações falsas sobre BR-163 são recorrentes</h2></p>
-<p><p>A imagem que supostamente mostraria o antes e depois da BR-163 <a href="https://noticias.uol.com.br/confere/ultimas-noticias/2019/05/04/montagem-que-elogia-governo-bolsonaro-nao-mostra-como-esta-obra-na-br-163.htm" target="_blank" rel="noopener">já foi assunto de verificação feita em maio pelo UOL</a>. Na ocasião, o próprio Exército esclareceu que a imagem não mostrava os trabalhos feitos naquele momento pelos militares na rodovia.</p></p>
-<p><p>Não é a primeira vez em que obras na BR-163 são erroneamente atribuídas ao governo Bolsonaro. Em fevereiro, veículos de comunicação como <a href="https://piaui.folha.uol.com.br/lupa/2019/02/25/verificamos-br-163-bolsonaro/" target="_blank" rel="noopener">Agência Lupa</a>, <a href="https://politica.estadao.com.br/blogs/estadao-verifica/obras-do-exercito-na-br-163-nao-comecaram-no-governo-bolsonaro/" target="_blank" rel="noopener">Estadão</a>, <a href="https://aosfatos.org/noticias/asfaltamento-da-br-163-pelo-exercito-nao-comecou-no-governo-bolsonaro/" target="_blank" rel="noopener">Aos Fatos</a>, <a href="https://www.e-farsas.com/bolsonaro-ordenou-que-o-exercito-termine-a-pavimentacao-da-transamazonica.html" target="_blank" rel="noopener">e-Farsas</a>, e <a href="https://www.boatos.org/politica/br-163-asfaltada-exercito-bolsonaro.html" target="_blank" rel="noopener">Boatos.org</a> realizaram trabalhos de verificação sobre textos e imagens que usavam dados falsos ou fora de contexto com o objetivo de dizer que a atual administração iniciou os trabalhos na rodovia.</p></p>
-<p><p>Em maio, foi a vez de um vídeo feito em 2016 circular nas redes sociais como se fosse uma obra recente do governo Bolsonaro. A gravação mostrava o resultado do asfaltamento de um trecho da BR-163 no Mato Grosso. O conteúdo foi verificado por <a href="https://piaui.folha.uol.com.br/lupa/2019/05/13/verificamos-trecho-br-163-bolsonaro/" target="_blank" rel="noopener">Agência Lupa</a>, <a href="https://checamos.afp.com/nao-o-video-nao-mostra-uma-obra-de-pavimentacao-da-br-163-realizada-pelo-governo-bolsonaro" target="_blank" rel="noopener">AFP</a> e <a href="https://g1.globo.com/fato-ou-fake/noticia/2019/05/08/e-fake-que-obra-em-trecho-da-br-163-mostrada-em-video-foi-iniciada-no-governo-bolsonaro.ghtml" target="_blank" rel="noopener">G1</a>.</p></p>
-{% endraw %}

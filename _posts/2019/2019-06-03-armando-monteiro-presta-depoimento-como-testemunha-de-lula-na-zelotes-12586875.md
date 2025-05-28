@@ -1,39 +1,0 @@
----
-id: 12586875
-date: "2019-06-03T18:17:08Z"
-last_modified_at: null
-tags:
-  - "armando-monteiro"
-  - "depoimento"
-  - "lula"
-categories:
-  - "noticias"
-title: "Armando Monteiro presta depoimento como testemunha de Lula na Zelotes"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/11/lula-armando-dilma.jpg"
----
-{% raw %}
-<p><p>O ex-senador Armando Monteiro Neto (PTB-PE) foi ouvido pela Justiça Federal do Distrito Federal, como testemunha arrolada pela defesa do <a href="https://blogs.ne10.uol.com.br/jamildo/2019/05/28/ciro-bate-boca-com-maria-do-rosario-eu-nao-falei-mal-do-lula-porra/">ex-presidente Lula (PT)</a> no âmbito da <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/16/mpf-pede-bloqueio-de-r-24-milhoes-de-lula-e-filho-na-zelotes/">Operação Zelotes</a>. "Nunca tive nenhuma informação de que isso se desse por qualquer processo de mediação que não fosse o politico, legitimo, transparente, em que o Congresso teve sempre uma participação muito efetiva", disse o petebista sobre a <a href="https://blogs.ne10.uol.com.br/jamildo/2018/03/23/temer-promete-prorrogar-beneficios-fiscais-a-industria-automobilistica-do-ne/">medida provisória 471, editada por Lula em 2009, para prorrogar benefícios fiscais no Nordeste</a>. </p></p>
-<p><p>A MP concedia incentivos <a href="https://blogs.ne10.uol.com.br/jamildo/2018/03/23/temer-promete-prorrogar-beneficios-fiscais-a-industria-automobilistica-do-ne/">para montadoras de veículos e fabricantes de autopeças</a> das regiões Nordeste, Norte e Centro-Oeste. Em 2018, o <a href="https://blogs.ne10.uol.com.br/jamildo/2018/10/24/emenda-que-prorroga-incentivos-as-montadoras-automobilisticas-no-nordeste-e-aprovada/">Congresso Nacional aprovou uma emenda prorrogando os incentivos fiscais até 2025</a>, após um acordo costurado por Armando Monteiro e pelo senador Fernando Bezerra Coelho (MDB), hoje líder do governo Jair Bolsonaro (PSL) na Casa. O petebista foi o relator.</p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2019/05/29/paulo-camara-presta-depoimento-como-testemunha-de-lula-na-zelotes/">Paulo Câmara presta depoimento como testemunha de Lula na Zelotes</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/12/06/palocci-diz-que-filho-de-lula-recebeu-propina-de-montadoras/">Palocci diz que filho de Lula recebeu propina de montadoras</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2016/12/17/justica-aceita-denuncia-contra-lula-e-filho-na-operacao-zelotes/">Justiça aceita denúncia contra Lula e filho na Operação Zelotes</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2019/03/18/lula-pediu-para-dilma-beneficiar-empresas-diz-palocci/">Lula pediu para Dilma beneficiar empresas, diz Palocci</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/16/mpf-pede-bloqueio-de-r-24-milhoes-de-lula-e-filho-na-zelotes/">MPF pede bloqueio de R$ 24 milhões de Lula e filho na Zelotes</a></p></p>
-<p><p>O ex-senador defendeu a medida, enfatizou que os benefícios foram reduzidos em cada uma das prorrogações e afirmou que acredita que as regiões devem, com o tempo, passar a não precisar mais desses incentivos. "Não se dá de forma perene, é um instrumento para que se possa anular algumas assimetrias, como a dotação de infra e a proximidade de mercados", explicou. "O que precisamos ainda no Nordeste, daí a necessidade de prorrogar os incentivos até 2025? Precisamos tornar a produção mais integrada, trazer os produtores de autopeças, auto-partes. Portanto, se produz em custo mais alto".</p></p>
-<p><p>O depoimento foi na última sexta-feira (31), dois dias depois de o <a href="https://blogs.ne10.uol.com.br/jamildo/2019/05/29/paulo-camara-presta-depoimento-como-testemunha-de-lula-na-zelotes/">governador Paulo Câmara (PSB) ter falado, por videoconferência, à Justiça</a>.</p></p>
-<p><h2>Assista ao depoimento de Armando Monteiro</h2></p>
-<p><p><iframe src="https://player.mais.uol.com.br/?mediaId=16658191&amp;type=video" width="100%" height="360" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">?</span></iframe></p></p>
-<p><p>O regime especial para as regiões existe desde 1996 e inicialmente iria até 2010, quando a <a href="https://blogs.ne10.uol.com.br/jamildo/2012/12/19/fiat-vai-investir-r-500-milhoes-em-fabrica-de-motores-em-pernambuco/">Fiat Chrysler assinou a intenção para se instalar em Pernambuco</a>. O objetivo do benefício é de descentralizar a produção da indústria automotiva. Através dele, as empresas podem compensar parte dos pagamentos das contribuições dos tributos PIS e Cofins em créditos de IPI obtidos nas vendas no País.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/04/jarbas-promete-tocar-projetos-de-armando-monteiro-no-senado/">Jarbas promete tocar projetos de Armando Monteiro no Senado</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2019/01/30/oposicao-tem-varios-nomes-para-o-recife-diz-armando-monteiro/">Oposição tem vários nomes para o Recife, diz Armando Monteiro</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/12/18/armando-monteiro-critica-paulo-guedes-e-sai-em-defesa-do-sistema-s/">Armando Monteiro critica Paulo Guedes e sai em defesa do Sistema S</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/12/05/para-armando-monteiro-baixa-representacao-do-ne-no-governo-bolsonaro-exige-maior-articulacao/">Para Armando Monteiro, baixa representação do NE no governo Bolsonaro exige maior articulação</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/10/07/com-lula-como-cabo-eleitoral-paulo-camara-impoe-nova-derrota-a-armando-monteiro/">Com Lula como cabo eleitoral, Paulo Câmara impõe nova derrota a Armando Monteiro</a></p></p>
-<p><p>Armando Monteiro afirmou que considera a medida "exitosa". "Hoje, o Nordeste produz 500 mil unidades, 20% da produção nacional, gera 25 mil empregos diretos", citou. "Ora, gracas a esse arsenal de incentivos, o Nordeste pode se industrializar. Nós tínhamos uma posição relativa aos anos 60 (quando a Sudene passou a funcionar, após ser criada em 1959) de economia que tinha tecido industrial muito frágil. Particularmente no que dizia respeito à indústria automotiva, até os anos 2000, não se produziam automóveis no Nordeste".</p></p>
-<p><p>Com uma <a href="https://blogs.ne10.uol.com.br/jamildo/2009/11/25/eduardo-renova-incentivos-fiscais-concedidos-a-fabrica-de-baterias-moura/">articulação que envolveu o ex-governador Eduardo Campos (PSB) e Lula</a>, o prazo foi ampliado em 10 anos pela medida provisória que é investigada. Armando Monteiro afirmou que o socialista, <a href="https://blogs.ne10.uol.com.br/jamildo/2018/10/05/troca-troca-eleitoral-que-politicos-ja-brigaram-ou-foram-aliados/">que foi seu aliado até 2012</a>, teve uma participação "pró-ativa". "Mobilizou a bancada e é sabido que o governador tinha uma relação muito estreita com o presidente Lula", disse. "Assumiu, ele próprio, o processo, por entender que Pernambuco não tinha se beneficiado do primeiro ciclo de incentivos e o Estado aspirava naturalmente participar".</p></p>
-<p><p>Nesta ação, <a href="https://blogs.ne10.uol.com.br/jamildo/2016/12/17/justica-aceita-denuncia-contra-lula-e-filho-na-operacao-zelotes/">Lula é réu, acusado de tráfico de influência</a>, lavagem de dinheiro e organização criminosa. Para o Ministério Público Federal (MPF), o ex-presidente, entre 2013 e 2015, quando já havia deixado o cargo, teria prometido atuar junto ao governo federal para beneficiar empresas. Em troca, para a acusação, o filho dele Luís Cláudio Lula da Silva teria recebido R$ 2,5 milhões. A defesa nega.</p></p>
-{% endraw %}

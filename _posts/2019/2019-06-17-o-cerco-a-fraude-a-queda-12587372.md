@@ -1,27 +1,0 @@
----
-id: 12587372
-date: "2019-06-17T14:27:36Z"
-last_modified_at: null
-tags:
-  - "fraude"
-  - "queda"
-categories:
-  - "opiniao"
-title: "O Cerco. A Fraude. A Queda."
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/02/moro-anticrime-2.jpg"
----
-{% raw %}
-<p><p>Por Roberto Numeriano, em artigo enviado ao blog</p></p>
-<p><p>Para além das nossas convicções já antigas, surgiram agora as provas da maior fraude processual do Judiciário brasileiro, reveladas pelo jornalista Glenn Greenwald, do jornal The Intercept, acerca das acusações criminais contra o ex-presidente Luís Inácio Lula da Silva. Neste espaço, ao longo de alguns anos, denunciamos o que era autoevidente desde o início: o caráter persecutório e criminoso do processo contra o político, protagonizado pelo então juiz de 1ª instrução, Sérgio Moro.</p></p>
-<p><p>Na verdade, a nossa desconfiança em face desse processo transformou-se em certeza quando, em 2016, o juiz ordenou, sem qualquer necessidade, a condução coercitiva do ex-presidente sob um show midiático e intimidatório da Polícia Federal, comunicado à Rede Globo. Publicamos neste blog, no dia seguinte ao espetáculo hipócrita, o artigo <a href="https://blogs.ne10.uol.com.br/jamildo/2018/03/05/numeriano-o-golpe-de-estado-parlamentar-de-2016/">“Um golpe a galope (A era do terror)”</a>, no qual anunciávamos que estava em curso um golpe de Estado no país. O evento era o primeiro ato do cerco que se concretizaria com a deposição fraudulenta da presidenta Dilma Rousseff, articulada por um bandido contumaz, o deputado Eduardo Cunha.</p></p>
-<p><p>Mas o golpe de Estado (para nós, insistimos também há tempos, articulado em conluio com a Agência Central de Inteligência dos Estados Unidos, CIA) impunha a condição de, uma vez deposta Dilma, impedir também a possibilidade de o ex-presidente Lula sair candidato em 2018. Este segundo ato da fraude do golpe dos corruptos já vinha se estruturando no tribunal de exceção da “República de Curitiba”, no submundo da prevaricação, da traição, da miséria moral e das vaidades dos tolos e arrogantes procuradores, delegados, desembargadores e juízes sedentos de fama.</p></p>
-<p><p>Resiliente, altivo e bravo, Lula era o segundo alvo na trama do cerco à democracia e à aniquilação do incipiente Estado do bem-estar social que pela primeira vez, nesta pátria de uma elite que sofre da síndrome da alma vira-lata, começou a gerar e a gerir direitos sociais antes só conhecidos na letra das leis. Lula e o petismo não podiam criar ainda mais fortes raízes sociais e políticas no país, sobretudo porque a elite rentista e parasita do capitalismo nacional mantém até hoje seu espírito de dependência e submissão às burguesias financeiras dos centros capitalistas, dos quais comem os restos que caem no grande e eterno banquete dos podres de ricos e podres na moral.</p></p>
-<p><p>A Lava Jato não foi o efeito desse cerco como fraude jurídica, tanto mais odiosa porque no seu rastro de louca perseguição a Lula destruiu centenas de milhares de empregos, roubou a democracia, corrompeu agentes e autoridades públicas. A Lava Jato é uma fraude política em si e causa de fraudes contra o bom Direito e a Justiça. O golpe de Estado, na sua dimensão de lawfare, estruturou-se nela e por ela atuou anos a fio, ao arrepio da lei e sob o beneplácito do pequeno supremo, acovardado e submisso ao clamor fascista de uma parcela da sociedade.</p></p>
-<p><p>Tudo parecia sólido. A mídia golpista, o Judiciário parcial e partidarizado, as manadas de verde e amarelo com seus milhares de “patriotários” esgoelando-se nas ruas em meio a dancinhas ridículas. Como a cereja do bolo, esse tripé infernal elegeu um tipo exótico da extrema-direita, já conhecido aqui e alhures quanto às suas capacidades de líder e de homem público. O cerco e a fraude, com seus eventos cujas raízes estão fincadas nas jornadas de junho de 2013, instituíam-se por dentro do aparelho de Estado e até ensaiavam reescrever a história erigindo bandidos dos porões da ditadura como novos heróis. Quem sabe até o próprio Moro não se considerasse, desde já, digno de ser imortalizado numa estátua equestre como o grande salvador da nação brasileira, vindo de Maringá para encarar e vencer os vermelhos e os devassos.</p></p>
-<p><p>Contudo, a cena imaginária esfumou-se desde o dia 9 de junho, pelas redes sociais e uma parte da mídia que já se deu conta da nudez horrenda desse falso profeta de inglês tartamudeante, risível e tosco. Os diálogos revelados pelo The Intercept, por si mesmos, são provas cabais de seus graves crimes. Até a insuspeita revista Veja (porta-voz do mais desabrido e desonesto reacionarismo da direita) já sabe disso.</p></p>
-<p><p>Trata-se do começo de uma queda que impõe ao governo, desde já, o dilema de mantê-lo como um pedestal de base rachada, trincando progressivamente sob as sistemáticas denúncias irrespondíveis dos vazamentos de textos, áudios e imagens capturados no Telegran, ou “pedir” ao mesmo uma “saída” obsequiosa para responder às acusações fora do poder (e com isso ganhar a ira dos seus fanáticos seguidores). Dado o grau de apodrecimento do Judiciário e da política nacionais, não me surpreenderia se nada acontecer.</p></p>
-<p><p>Roberto Numeriano é escritor, jornalista e pós-doutor em Ciência Política.</p></p>
-{% endraw %}

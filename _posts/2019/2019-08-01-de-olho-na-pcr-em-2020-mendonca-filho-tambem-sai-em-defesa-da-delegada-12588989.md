@@ -1,34 +1,0 @@
----
-id: 12588989
-date: "2019-08-01T15:54:18Z"
-last_modified_at: null
-tags:
-  - "2020"
-  - "defesa"
-  - "mendonca-filho"
-  - "patricia-domingos"
-categories:
-  - "noticias"
-title: "De olho na PCR em 2020, Mendon\u00e7a Filho tamb\u00e9m sai em defesa da delegada Patr\u00edcia Domingos"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/07/AUDI\u00caNCIA-COM-MINISTRO-SERGIO-MORO_MENDON\u00c7A_FILHO-_-10_07_2019.jpg"
----
-{% raw %}
-<p><p>Nos bastidores da política local, fala-se que o <a href="https://blogs.ne10.uol.com.br/jamildo/2019/07/31/em-nota-psdb-fala-em-retaliacao-contra-delegada-patricia-domingos/">PSDB</a> e o Democratas já conversam com a <a href="https://blogs.ne10.uol.com.br/jamildo/2019/07/31/patricia-domingos-se-diz-surpresa-com-processo-administrativo-nao-fui-notificada/">delegada Patrícia Domingos</a> para um projeto eleitoral em 2020. Não é por outra razão que partidos como <a href="https://blogs.ne10.uol.com.br/jamildo/2019/07/31/sds-rebate-marco-aurelio-e-psdb-sobre-retaliacao-a-delegada-processo-disciplinar-teve-origem-em-relatorio-do-mppe/">PRTB</a> e <a href="https://blogs.ne10.uol.com.br/jamildo/2019/07/31/depois-do-prtb-e-psdb-partido-novo-fala-em-retaliacao-a-delegada-patricia-domingos/">Novo</a>, que também tem interesse no passe dela, soltaram notas oficiais ‘defendendo’ contra a <a href="https://blogs.ne10.uol.com.br/jamildo/2019/07/30/sds-abre-processo-administrativo-contra-a-delegada-patricia-domingos/">abertura de um processo administrativo na SDS</a>.</p></p>
-<p><p>Pois bem. Mesmo fora do Recife, o ex-ministro <a href="https://blogs.ne10.uol.com.br/jamildo/2019/07/10/mendonca-filho-promete-a-moro-ajuda-do-democratas-pela-aprovacao-do-pacote-contra-crimes/">Mendonça Filho</a>, do Democratas, fez questão de gravar um vídeo colocando o partido em defesa da delegada. De forma direta, Mendonça Filho tentou associar a imagem dela ao ministro da Justiça de Bolsonaro, Moro, bem como associar o PSB ao PT.</p></p>
-<p><p>“Nossa solidariedade à delegada Patrícia Domingos, que <a href="https://blogs.ne10.uol.com.br/jamildo/2018/10/11/empresa-alvo-da-operacao-castelo-de-farinha-intimidava-participantes-de-licitacao-diz-policia/">já chefiou operações contra corrupção em Pernambuco</a>, foi <a href="https://blogs.ne10.uol.com.br/jamildo/2018/11/14/patricia-domingos-e-escalada-para-dhpp-e-diz-que-vai-acionar-justica/">afastada pelo Governo do Estado do trabalho de combate à corrupção</a> e agora virou alvo de um Processo Administrativo na Secretaria de Defesa Social, num procedimento cheio de questionamentos” , afirmou o democrata.</p></p>
-<p><p>Mendonça publicou em sua página no Facebook um vídeo em defesa da delegada. Veja.</p></p>
-<p><p><iframe style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FmendoncafilhoPE%2Fvideos%2F613196655838964%2F&amp;show_text=0&amp;width=261" width="261" height="476" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></p></p>
-<p><p>Também do Democratas, a deputada estadual Priscila Krause gravou um vídeo criticando o Governo de Pernambuco pelo processo contra Patrícia Domingos. A parlamentar integra a bancada de oposição a Paulo Câmara (PSB) na Assembleia Legislativa de Pernambuco (Alepe). "Essa é mais uma tentativa de intromissão estatal contrária à preservação do interesse público", afirmou no Facebook. "Não me causa surpresa que alguém que contrariou tantos interesses sofra o que vem sofrendo agora", disse ainda no vídeo.</p></p>
-<p><p><iframe src='https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2Fpriscilakrauseoficial%2Fvideos%2F396221477686082%2F&show_text=false&width=560&t=0' width='560' height='315' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe></p></p>
-<p><h2>Processo contra Patrícia Domingos</h2></p>
-<p><p>De acordo com a Portaria 359/2019, publicada no Boletim Geral da SDS desta terça-feira (30), uma sindicância interna apontou supostas irregularidades administrativas no âmbito da extinta Delegacia de Polícia de Crimes Contra a Administração e Serviços Públicos (Decasp), da qual Domingos foi titular.</p></p>
-<p><p>De acordo com a SDS, o processo é baseado em um relatório elaborado pelo Ministério Público de Pernambuco (MPPE), através da 25ª Promotoria de Justiça Criminal da Capital. Os promotores apontaram “ausência de gestão de autos e de controle de tramitação” de inquéritos sob responsabilidade da Decasp.</p></p>
-<p><p>Segundo o MPPE, 249 inquéritos sob responsabilidade da Decasp estavam prescritos, ou seja, não foram conduzidos em tempo hábil, conforme os prazos legais. Os promotores também apontaram desorganização cartorária, falta de controle de procedimentos e investigações sem diligências.</p></p>
-<p><p>A delegada negou que tenha cometido irregularidades.</p></p>
-<p><p>Patrícia Domingos atuou na Decasp até novembro do ano passado, quando a <a href="https://blogs.ne10.uol.com.br/jamildo/2018/11/05/alepe-aprova-redacao-final-de-projeto-que-extingue-delegacias-e-cria-draco/">delegacia foi extinta</a> e o Governo de Pernambuco <a href="https://blogs.ne10.uol.com.br/jamildo/2018/11/09/chefe-do-draco-defende-orgao-e-diz-que-tempo-ira-mostrar/">criou o Departamento de Repressão e Combate ao Crime Organizado (Draco)</a>.</p></p>
-<p><p>Ela chegou a ser chamada pela Secretaria de Defesa Social para exercer o cargo de diretora adjunta do Draco, mas respondeu <a href="https://blogs.ne10.uol.com.br/jamildo/2018/11/07/delegada-nao-demonstrou-interesse-em-cargo-no-draco-diz-secretario/">gostaria de atuar como delegada</a>, não como diretora. Desde então, ela <a href="https://blogs.ne10.uol.com.br/jamildo/2018/11/14/patricia-domingos-e-escalada-para-dhpp-e-diz-que-vai-acionar-justica/">está na 5ª Delegacia de Polícia de Homicídios</a>, responsável por investigações em áreas da Zona Norte do Recife.</p></p>
-<p><p>A Decasp foi a responsável por operações como a <a href="https://blogs.ne10.uol.com.br/jamildo/2018/07/10/operacao-ratatouille-mppe-processa-criminalmente-vado-da-farmacia-e-ex-secretario/">Ratatouille</a> e a <a href="https://blogs.ne10.uol.com.br/jamildo/2018/10/11/empresa-alvo-da-operacao-castelo-de-farinha-intimidava-participantes-de-licitacao-diz-policia/">Castelo de Farinha</a>, que investigaram supostas irregularidades na contratação de merenda escolar nas prefeituras do Cabo de Santo Agostinho e de Ipojuca, respectivamente.</p></p>
-{% endraw %}

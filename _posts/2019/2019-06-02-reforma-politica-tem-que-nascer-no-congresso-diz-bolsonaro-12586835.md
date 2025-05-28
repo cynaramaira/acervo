@@ -1,34 +1,0 @@
----
-id: 12586835
-date: "2019-06-02T11:59:13Z"
-last_modified_at: null
-tags:
-  - "bolsonaro"
-  - "congresso"
-  - "reforma-politica"
-categories:
-  - "noticias"
-title: "Reforma pol\u00edtica tem que nascer no Congresso, diz Bolsonaro"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/05/rodrigo-maia-bolsonaro-4.jpg"
----
-{% raw %}
-<p><p><em>Agência Brasil</em> - O presidente da República, Jair Bolsonaro (PSL), disse nesse sábado (1º) que a iniciativa de apresentar uma proposta de reforma política deve partir do Congresso Nacional, caso os parlamentares considerem oportuno. “Minha experiência (diz) que, geralmente, (uma proposta de) reforma política nasce dentro da Câmara dos Deputados. O presidente pode dar opiniões sobre um ou outro assunto, se a Câmara tiver clima para aprová-la. Fora isso, quem decide é o Parlamento”, disse Bolsonaro a jornalistas logo após almoçar na casa de um amigo, no Lago Sul, em Brasília.</p></p>
-<p><p>“Reforma política sempre tem que ter o consenso do Parlamento. Não adianta o Executivo querer uma reforma porque [sem o apoio do Congresso] vai para a demagogia”, acrescentou.</p></p>
-<p><p>O presidente também disse ser favorável à aprovação de <a href="https://blogs.ne10.uol.com.br/jamildo/2019/05/10/reforma-de-professores-e-pms-deve-ficar-com-os-estados-diz-silvio-filho/">novas regras previdenciárias para estados e municípios</a>. “Nós gostaríamos que fosse tudo junto, mas como tem partidos que querem que aprove corrido (separado), tem um impasse dentro da Câmara. Eu não tenho nada a ver com isso. A Câmara que decide agora”, afirmou Bolsonaro, reforçando o desejo de ver aprovado o texto enviado pelo governo federal, e manifestando a expectativa de que a comissão especial da Câmara dos Deputados vote o texto em, no máximo, 20 dias.</p></p>
-<p><p>Antes, o relator da comissão que analisa o projeto na Câmara, o deputado federal <a href="https://blogs.ne10.uol.com.br/jamildo/2019/06/01/relator-nega-que-haja-acordo-para-retirar-estados-e-municipios-da-reforma/">Samuel Moreira (PSDB-SP)</a>, declarou que pretende apresentar seu relatório até o próximo dia 15 – prazo que continua tentando reduzir. Moreira também é favorável a discutir a possibilidade de propor novas regras para a previdência de estados e municípios, mas assegura que só incluirá qualquer proposta neste sentido após discuti-la com os líderes partidários.</p></p>
-<p><p>“Há um déficit grande na previdência dos estados e municípios. Devemos aproveitar esta oportunidade para corrigi-lo. A forma de fazer isso nós estamos debatendo. Há três ou quatro opções que vamos escolher junto com os líderes [partidários]”, disse o deputado.</p></p>
-<p><h2>Bolsa Família</h2></p>
-<p><p>O presidente disse também que gostaria de autorizar a liberação de créditos suplementares em breve, mas que isso vai depender da melhora da atividade econômica. “A receita tem que entrar. Se não entrarem recursos, temos que contingenciar [verbas] ou vou estar incorrendo na Lei de Responsabilidade Fiscal”.</p></p>
-<p><p>Bolsonaro confirmou que a equipe econômica discute a hipótese de <a href="https://blogs.ne10.uol.com.br/jamildo/2019/05/30/em-panico-com-queda-do-pib-paulo-guedes-estuda-liberacao-de-conta-ativa-do-fgts/">liberar parte do Fundo de Garantia do Tempo de Serviço (FGTS) a trabalhadores</a> que tenham recursos disponíveis como forma de estimular a economia. “É o [ministro] <a href="https://blogs.ne10.uol.com.br/jamildo/2019/05/24/bolsonaro-diz-que-sem-reforma-paulo-guedes-teria-que-ir-a-praia/">Paulo Guedes</a> que vai tratar deste assunto. Há esta discussão, sobre botar algum dinheiro para rodar no mercado”, disse.</p></p>
-<p><p>Em relação à fonte dos recursos para pagar o <a href="https://blogs.ne10.uol.com.br/jamildo/2019/04/11/mp-que-cria-13o-no-bolsa-familia-so-deve-ser-editada-em-outubro/">recém-criado décimo terceiro salário do Bolsa Família</a>, o presidente indicou que parte do dinheiro necessário poderá vir do recurso que entrará com o combate à sonegação fiscal e a outras irregularidades. “Por exemplo, gastamos R$ 3 bilhões anuais só com o seguro-defeso. Segundo o secretário de Aquicultura e Pesca, Jorge Seif, quase dois terços deste valor (ou seja, cerca de R$ 2 bilhoões) são fraudes”, afirmou o presidente, garantindo que não irá propor a criação ou aumento de impostos.</p></p>
-<p><h2>Multas</h2></p>
-<p><p>Bolsonaro prometeu que, até a próxima terça-feira (4), no máximo, envia ao Congresso Nacional a <a href="https://blogs.ne10.uol.com.br/jamildo/2018/12/28/bolsonaro-diz-que-vai-aumentar-validade-da-cnh-para-dez-anos/">proposta que altera o prazo de validade da Carteira Nacional de Habilitação (CNH)</a> para dez anos e aumenta o número de pontos para a suspensão do documento. O presidente disse ter apresentado o projeto a representantes dos caminhoneiros que, segundo ele, aprovaram a ideia.</p></p>
-<p><p>“Todo mundo vai gostar. Basicamente, vamos aumentar a pontuação para os motoristas perderem a carteira”, explicou o presidente, revelando ter consultado o presidente da Câmara dos Deputados, Rodrigo Maia (DEM-RJ), sobre a melhor forma de apresentação da proposta. “Não tem urgência, eu reconheço.”</p></p>
-<p><p>O presidente voltou a criticar o que classifica de restrições ambientais ao desenvolvimento. “Não podemos continuar com essa política ambiental do jeito que está. Temos que fazer o casamento entre a preservação ambiental e a economia como quer o [ministro do Meio Ambiente] Ricardo Salles”, disse.</p></p>
-<p><p>Bolsonaro voltou a falar da intenção de autorizar a implantação de empreendimentos turísticos na Baía de Angra dos Reis, onde, em 1990, foi criada a Estação Ecológica de Tamoios, uma unidade de conservação federal de proteção integral. “Aquilo é um paraíso. Eu conheço. E a única lembrança que tenho de lá é uma multa”, disse o presidente, em alusão a uma multa que recebeu do Ibama, em 2012, por pescar em área proibida.</p></p>
-<p><p>“Eu já falei para o Salles: não quero mais a indústria da multa. O mesmo vale para as rodovias federais, de onde nós já tiramos as multas e os pardais. Vou acertar com o [ministro da Justiça e Segurança Pública] Sergio Moro esta semana: não quero mais o radar móvel nas estradas federais. Isto é uma emboscada e ninguém mais tem prazer em dirigir”, disse.</p></p>
-<p><p>De acordo com Bolsonaro, mesmo com a retirada dos radares das rodovias federais, determinada pelo governo no início deste ano, o número de mortos em acidentes no feriado de Semana Santa deste ano foi menor que o registrado no mesmo período do ano passado. “É preciso confiar no povo. Minha ideia é confiar na população”, afirmou o presidente.</p></p>
-{% endraw %}

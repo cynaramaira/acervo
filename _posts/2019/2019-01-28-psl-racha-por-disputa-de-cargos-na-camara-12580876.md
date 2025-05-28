@@ -1,36 +1,0 @@
----
-id: 12580876
-date: "2019-01-28T08:35:22Z"
-last_modified_at: null
-tags:
-  - "camara"
-categories:
-  - "noticias"
-title: "PSL racha por disputa de cargos na C\u00e2mara"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/12/joice-hasselman.jpg"
----
-{% raw %}
-<p><p><em>Estadão Conteúdo</em> - Núcleo da base governista, o PSL, partido do presidente Jair Bolsonaro, vive uma fase de disputas internas que dividem integrantes da segunda maior bancada da Câmara, a uma semana da eleição e da posse da nova direção da Casa. A divisão dos cargos de comando na Câmara é o novo foco de atrito, além de desavenças que marcam o relacionamento na bancada desde a campanha eleitoral do ano passado.</p></p>
-<p><p>Há mais postulantes do que cargos, segundo a divisão prevista no acordo para dar apoio à reeleição do deputado Rodrigo Maia (DEM-RJ). Para conseguir a promessa dos 52 votos do PSL, Maia cedeu à direção do partido a 2.ª vice-presidência da Mesa Diretora, a Comissão de Constituição, Justiça e Cidadania (CCJ), a mais importante da Câmara, e a Comissão de Finanças e Tributação (CFT).</p></p>
-<p><p>As suspeitas envolvendo o deputado estadual e senador eleito Flávio Bolsonaro (PSL-RJ) - o nome do filho mais velho do presidente Jair Bolsonaro aparece em relatório do Coaf por conta de movimentações financeiras consideradas atípicas - também acirraram as discussões e deixaram mais nítidas as divisões entre deputados. A avaliação é que esses rachas, que incluíram conversas vazadas cuja autoria estimulou desconfiança mútua entre os parlamentares, podem comprometer a base do presidente no Congresso e até dificultar a tramitação de projetos de seu interesse.</p></p>
-<p><p>A presidência da CCJ é a mais disputada, com ao menos quatro pretendentes. A advogada Bia Kicis (PRP-DF), cuja filiação está "prometida" ao PSL; o deputado Coronel Tadeu (SP), ex-policial militar do Batalhão de Choque; o delegado da Polícia Federal Marcelo Freitas (MG); e o advogado Felipe Francischini (PR), filho do ex-delegado da PF e ex-líder do PSL Fernando Francischini. Os já filiados ao PSL estão insatisfeitos com a candidatura prévia de Bia Kicis. Argumentam que ela não poderia ter uma função de destaque por não estar no partido ainda, embora sua indicação seja defendida por membros da cúpula do partido. A jornalista Joice Hasselmann (SP) também deve disputar uma posição de destaque, que pode ser a presidência da Comissão de Finanças ou a vice-liderança do partido na Casa.</p></p>
-<p><p>Outro filho do presidente, o deputado Eduardo Bolsonaro (SP) - que já se referiu ao baixo clero do partido como "favelados" - deseja manter influência sobre a política externa e articula, segundo aliados, sua candidatura à presidência da Comissão de Relações Exteriores e de Defesa Nacional (CREDN).</p></p>
-<p><p>Há preocupação com uma possível postulação do deputado Coronel Chrisóstomo (RO) à 2.ª vice-presidência da Câmara. A vaga estaria reservada ao presidente nacional do partido, deputado Luciano Bivar (PE), que anunciou o acordo com Maia sem consultar o restante da bancada. Uma candidatura avulsa de Chrisóstomo pode criar mais atritos no PSL e ameaçar o poder do grupo de Bivar, porque, com votação secreta, poderia receber votos de opositores e adversários para emplacar uma derrota ao governo.</p></p>
-<p><h2>Chapa única</h2></p>
-<p><p>Como a bancada não se organizou ainda para decidir quais serão seus representantes, há quem espere que Bivar tenha a palavra final, escalando os nomes, e há quem defenda uma reunião interna até o fim da próxima semana, para escolher os indicados. A busca de uma chapa única, com apenas um nome postulando cada comissão, visa a minimizar os conflitos.</p></p>
-<p><p>Os deputados, sob pressão, não garantem nem mesmo honrar o acordo de cúpula com Maia. Reservadamente, dizem que haverá defecções por causa das particularidades de cada parlamentar e da liberdade para votar. Um deputado estreante lembrou que a direção do PSL não terá nem como punir levando à comissão de ética quem não votar de acordo com os interesses do governo, porque o voto na eleição é secreto.</p></p>
-<p><p>Uma das últimas disputas envolveu os deputados da "bancada da China" - grupo que viajou ao país comunista e sofreu fogo amigo, turbinado pelas críticas públicas de colegas, dos filhos do presidente e de formadores de opinião da direita, como o filósofo Olavo de Carvalho. Entre os que viajaram, correm ameaças de retaliar a direção do partido na eleição da Câmara, ao não entregar votos a Maia, e reclamações de falta de blindagem por parte de Bolsonaro e de Bivar.</p></p>
-<p><p>"O PSL é um partido que vai se moldar a partir de agora. Ele se formou com ativistas de toda sorte e políticos vindo de vários partidos", diz o deputado federal e senador eleito Major Olímpio, presidente do PSL em São Paulo, sobre os conflitos internos. Ele admitiu esforços para apaziguar a bancada no episódio da excursão à China.</p></p>
-<p><h2>Críticas</h2></p>
-<p><p>Até a escolha de um deputado do próprio PSL para a liderança do governo na Câmara causou ciúmes. A bancada não foi consultada pelo presidente Jair Bolsonaro. A equipe da Casa Civil, à frente da articulação política, defendia que o posto fosse exercido por outra legenda, como forma de incluir mais partidos à base aliada</p></p>
-<p><p>Escolhido por Bolsonaro, o deputado de primeiro mandato Major Vitor Hugo (GO) é desafeto do atual líder da legenda na Câmara, Delegado Waldir (GO). A indisposição decorre das eleições. Vitor Hugo acusou o diretório estadual do PSL em Goiás, comandado por Waldir, de monopólio de verbas do fundo eleitoral, mas o processo não foi aceito.</p></p>
-<p><p>"O PSL é a pedra fundamental da base do governo. Inclusive, eu postei isso no polêmico grupo do WhatsApp. Algumas acomodações de divergências vão acontecer e a gente vai começar a legislatura muito unido e efetivamente sendo o núcleo duro de apoio ao presidente", diz o líder do governo.</p></p>
-<p><p>Há ainda a formação dos grupos regionais. Em São Paulo, o deputado Junior Bozella, com base no litoral sul do Estado, é uma espécie de representante dos paulistas, enquanto o delegado da PF Felício Laterça coordena demandas dos parlamentares do Rio</p></p>
-<p><p>Bozella chegou a postular a presidência da Câmara, mas recuou. Já o delegado Laterça deve disputar a liderança com o delegado Waldir.</p></p>
-<p><h2>Esplanada</h2></p>
-<p><p>Antes mesmo de o governo ser formado, parte da bancada entrou em atrito com o único representante do partido no primeiro escalão, o ministro do Turismo, Marcelo Álvaro Antonio, deputado reeleito por Minas Gerais, por causa de escolhas para sua equipe técnica</p></p>
-<p><p>O ministro foi pressionado publicamente pelo ator e deputado federal eleito Alexandre Frota (SP) a demitir dois assessores acusados de defender posições consideradas de esquerda. "A bancada do PSL tem suas particularidades, são 52 cabeças se encontrando. É natural que exista um tempo para que a afinidade aconteça", contemporizou o ministro do Turismo.</p></p>
-{% endraw %}

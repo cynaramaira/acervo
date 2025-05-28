@@ -1,29 +1,0 @@
----
-id: 12594409
-date: "2019-12-26T16:10:14Z"
-last_modified_at: null
-tags:
-  - "bolsonaro"
-  - "compaz"
-  - "inauguracao"
-categories:
-  - "noticias"
-title: "Discursos na inaugura\u00e7\u00e3o do Compaz colocam Bolsonaro no alvo de cr\u00edticas"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/12/geraldo-julio-compaz.jpg"
----
-{% raw %}
-<p><p><em>Do <a href="https://blogs.ne10.uol.com.br/jamildo">Blog de Jamildo</a>, com informações do <a href="https://jconline.ne10.uol.com.br/">Jornal do Commercio</a></em></p></p>
-<p><p>O governo federal ficou no alvo de críticas entre os discursos na <a href="https://blogs.ne10.uol.com.br/jamildo/2019/12/25/geraldo-julio-inaugura-terceiro-compaz-do-recife-nesta-quinta/">inauguração do terceiro Centro Comunitário da Paz, o Compaz, no Recife</a>, nesta quinta-feira (26). Políticos do PSB e do PT acusaram a administração de Jair Bolsonaro (sem partido) de inoperância. Em suas falas para a entrega do equipamento, o prefeito Geraldo Julio, o governador Paulo Câmara e o senador Humberto Costa, além de deputados federais, se colocaram como oposição a Bolsonaro.</p></p>
-<p><p>Geraldo Julio buscou em seu discurso se distanciar das ações da gestão federal. "Eles querem dar <a href="https://blogs.ne10.uol.com.br/jamildo/2019/11/06/camara-aprova-regras-para-armas-de-cacadores-atiradores-esportivos-e-colecionadores/">arma</a>, a gente inaugura Compaz", afirmou sobre o equipamento entregue. "Estão governando de costas para o povo e a gente governa junto com o povo, de mãos dadas, chegando junto", disse. "Eles mandaram aumento do <a href="https://jconline.ne10.uol.com.br/canal/economia/nacional/noticia/2019/11/25/gas-de-cozinha-mais-caro-a-partir-desta-segunda-feira-25-393592.php">botijão de cozinha</a>, a gente está abrindo <a href="https://jconline.ne10.uol.com.br/canal/cidades/geral/noticia/2019/12/23/restaurante-para-moradores-de-rua-e-inaugurado-no-recife-395657.php">restaurante popular</a> para matar a fome de quem precisa. Eles mandaram aumento do preço da <a href="https://jconline.ne10.uol.com.br/canal/cidades/jc-transito/noticia/2019/11/03/usuarios-criticam-reajuste-na-tarifa-do-metro-do-recife-que-agora-custa-r-340-391894.php">passagem do metrô</a> pela terceira vez, e vai ter a quarta, a gente lançou <a href="https://jconline.ne10.uol.com.br/canal/cidades/jc-transito/noticia/2019/12/23/veja-como-tirar-o-vem-meu-emprego-395644.php">VEM Meu Emprego</a> para dar passagem para quem está desempregado. Eles cortaram 1,2 milhão família do <a href="https://blogs.ne10.uol.com.br/jamildo/2019/12/09/13o-do-bolsa-familia-federal-comeca-a-ser-pago-nesta-terca/">Bolsa Família</a>, eu quero saber o porquê, será que essas famílias arrumaram emprego, que esse povo foi incluído ou eles estão jogando na mais brutal miséria?".</p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2019/12/26/joao-campos-e-exaltado-por-socialistas-na-inauguracao-do-compaz/">João Campos é exaltado por socialistas na inauguração do Compaz</a></p></p>
-<p><p>Em 2012, quando foi eleito pela primeira vez, <a href="https://blogs.ne10.uol.com.br/jamildo/2012/07/27/geraldo-julio-promete-pacto-pela-vida-do-recife-com-serie-de-acoes-na-area-de-seguranca/">Geraldo Julio prometeu inaugurar cinco unidades do Compaz</a> ainda no primeiro mandato. Nos primeiros quatro anos de gestão, foi <a href="https://blogs.ne10.uol.com.br/jamildo/2016/03/11/geraldo-julio-inaugura-primeiro-compaz-com-nome-de-eduardo-campos/">entregue apenas o do Alto Santa Terezinha</a>, que recebeu o nome do ex-governador Eduardo Campos, ficou pronto. Depois, o do Cordeiro, cujo nome homenageia o escritor Ariano Suassuna.</p></p>
-<p><p>Os equipamentos oferecem áreas de lazer e serviços como biblioteca e cursos, de acordo com as demandas de cada comunidade. Um dos objetivos é de prevenir a violência. "A gente está vendo lá em Brasília um governo que não quer saber do sentimento do povo, que não quer nem escutar falar do que está acontecendo na vida das pessoas", disse Geraldo Julio no discurso.</p></p>
-<p><p>Ao concluir sua fala, o prefeito ainda fez referência ao educador pernambucano <a href="https://blogs.ne10.uol.com.br/jamildo/2019/12/16/bolsonaro-chama-paulo-freire-de-energumeno/">Paulo Freire, criticado por Bolsonaro</a>.</p></p>
-<p><img class="size-full wp-image-223362" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2019/12/paulo-camara-compaz-2.jpg" alt="" width="748" height="410" /> Paulo Câmara na inauguração do Compaz (Foto: Heudes Regis/Divulgação)</p>
-<p><p>Paulo Câmara endossou as críticas do aliado a Bolsonaro. "Como Geraldo Julio falou, o governo federal paralisou o Brasil", afirmou. "Infelizmente a atual administração deste país insiste em fazer com que o Brasil ande para trás e que o povo mais pobre não tenha voz nem vez". </p></p>
-<p><p>Líder do PT no Senado, Humberto Costa acusou Bolsonaro de tentar se apropriar de resultados que são de gestões municipais e estaduais para exaltar a <a href="https://blogs.ne10.uol.com.br/jamildo/2019/10/09/publicacao-atribui-a-bolsonaro-sucesso-em-indices-de-seguranca-com-dados-fora-de-contexto/">redução da criminalidade</a>. "Quando vamos olhar as estatísticas de diminuição de homicídios e violência, boa parte se referem a governos como o seu, Paulo Câmara, como o de Eduardo Campos. que investiram fortemente na prevenção, não só na repressão", disse. "Que façamos desse governo federal que aí está da maior brevidade possível, que possamos sair desse pesadelo".</p></p>
-{% endraw %}

@@ -1,59 +1,0 @@
----
-id: 12579796
-date: "2019-01-01T17:41:59Z"
-last_modified_at: null
-tags:
-  - "cerveja"
-  - "critica"
-  - "discurso"
-  - "paulo-camara"
-categories:
-  - "noticias"
-title: "Veja discurso de Paulo C\u00e2mara em que critica onda de 'conservadorismo e autoritarismo'"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/01/paulo-camara-discurso.jpg"
----
-{% raw %}
-<p><p>Pronunciamento do Governador Paulo Câmara, na solenidade de posse, em 1ª de janeiro de 2019, na Assembleia Legislativa do Estado.</p></p>
-<p><p>Retorno a esta Casa, honrado pelos votos de milhões de pernambucanas e pernambucanos do Litoral, da Mata, do Agreste e do Sertão, depois de uma campanha eleitoral marcada pelo debate sobre o presente e o futuro do nosso Estado. E retorno com a satisfação de dizer que a aprovacão do nosso projeto político, que tem feito Pernambuco avançar nos últimos 12 anos, foi manifestada democraticamente pela maioria da população, em todas as doze regiões do nosso Estado, mais uma vez. Essa manifestação nos obriga a persistir nos avanços sociais que, com a unidade do povo, temos implantado em Pernambuco.</p></p>
-<p><p>Há exatos quatro anos, estive no antigo plenário desta casa, onde me comprometi a trabalhar muito por Pernambuco, num grande desafio de substituir o inesquecível ex-governador Eduardo Campos, hoje representado aqui por Renata e filhos, a quem rendo minhas homenagens. Eduardo Campos me faz lembrar a figura do nosso líder político Miguel Arraes, um dos criadores da Frente Popular de Pernambuco, que até hoje aglutina lideranças políticas na defesa e na luta pela melhoria das condições de vida da população pernambucana.</p></p>
-<p><p>Agradeço assim ao Senhor Presidente, que aqui nos acolhe, a vice-governadora Luciana Santos e a mim, com respeito e consideração. Ressalto ainda que faço esse agradecimento de forma indistinta a todos os membros da Assembleia Legislativa, Poder tão necessário ao bom desempenho da administração e do vigor da democracia. Muito obrigado!</p></p>
-<p><p>Os desafios do futuro serão enfrentados por caminhos abertos pelo diálogo, pela transparência, e fiscalizados pelo povo. Avançaremos juntos com os poderes legal e legitimamente constituídos: o Legislativo, o Judiciário, o Ministério Público e o Tribunal de Contas, e com toda a sociedade.<br /></p>
-<p> Agradeço também a todos que, de diversas formas, muito contribuíram para que aqui chegássemos: a vice governadora Luciana Santos; aos senadores Jarbas Vasconcelos e Humberto Costa; aos nossos candidatos a deputado federal e a deputado estadual; aos partidos que integram a Frente Popular; aos militantes; aos assessores técnicos; aos prefeitos e vereadores de todos os partidos aliados; aos líderes políticos, religiosos, comunitários, aos artistas de todos os segmentos; mulheres, homens, crianças, que nas ruas nos receberam de forma tão generosa.<br /></p>
-<p> Faço aqui também um agradecimento especial ao ex-vice-governador e agora deputado federal eleito Raul Henry, a quem muito devo por sua amizade, seu companheirismo, lealdade e capacidade de trabalho.<br /></p>
-<p> Por fim, mas não por último, agradeço à minha família, Ana Luíza, minhas filhas, Clara e Helena, meus pais, Lilian e José Waldo, meus irmãos e cunhados, meus amigos que, nas horas mais desafiadoras, me deram a força necessária para superar os obstáculos.</p></p>
-<p><p>Senhor Presidente, <br /></p>
-<p> Senhoras Deputadas, <br /></p>
-<p> Senhores Deputados, <br /></p>
-<p> Minhas Senhoras e Meus Senhores.</p></p>
-<p><p>Tenho orgulho em afirmar que Pernambuco não parou de avançar, de servir de referência na gestão pública, apesar da crise tremenda que o nosso País enfrentou e ainda enfrenta. Da qual todos aqui têm a consciência dos seus efeitos devastadores, especialmente na questão do emprego.</p></p>
-<p><p>Em que pese esse cenário, o governo de Pernambuco conquistou a posição de melhor educação pública do Ensino Médio do Brasil, com a menor taxa de abandono escolar, a maior taxa de aprovação, e com a maior rede de escolas de tempo integral do País; reduzimos a mortalidade infantil ao menor nível das series históricas, a frente dos estados do Norte e do Nordeste, com uma média melhor que a brasileira.</p></p>
-<p><p>Fizemos o maior investimento em recursos hídricos de todos os tempos, seja nas áreas urbanas, seja na rural. Levamos água a milhares de pernambucanos, muitos retiraram a lata d’água das suas cabeças.</p></p>
-<p><p>Recuperamos equipamentos históricos do nosso patrimônio, melhoramos nossa infraestrutura, qualificamos nossa população, introduzimos elementos importantes para os avanços do desenvolvimento econômico, que ajudaram inclusive na expansão da atividade turística em Pernambuco.</p></p>
-<p><p>Também não fugimos desse que é, talvez, o maior desafio do Brasil: o combate ao crime e à violência. Em Pernambuco, temos o Programa Pacto Pela Vida que teve sua efetividade restabelecida. No último mês de dezembro, senhoras e senhores, completamos 13 meses consecutivos de redução no número de homicídios. Em 2018, registramos uma queda próxima a 24% nos Crimes Violentos Letais Intencionais, os CVLIS, comparando com o mesmo período de 2017. <br /></p>
-<p> Trata-se, Senhor Presidente, do maior avanço da história do Pacto Pela Vida, superando a redução obtida em 2010, comparada com 2009, que foi de quase 14%.</p></p>
-<p><p>Enfatizo no entanto, que não há o que comemorar. Enquanto uma única vida for perdida, o Governo não estará cumprindo com suas responsabilidades constitucionais. Mas o Pacto Pela Vida está no caminho certo, a sensação de segurança foi restabecida, são 15 meses de redução de roubos e assaltos em todo o Estado, e espero que esse tema não saia mais da pauta nacional. A solução para esse desafio está no trabalho conjunto entre todos os entes da Federação.</p></p>
-<p><p>Senhoras Deputadas e Senhores Deputados,<br /></p>
-<p> Senhoras e Senhores aqui presentes.</p></p>
-<p><p>Pernambuco foi reconhecido, ainda, como o único Estado eficiente na gestão pública, fora das regiões Sul e Sudeste, de acordo com ranking nacional criado pelo jornal Folha de S.Paulo e o Instituto DataFolha. Nesse rol são destacados os estados que mais entregam Educação, Saúde, Infraestrutura e Segurança à população, com menor volume de recursos financeiros. Em resumo: Pernambuco faz mais com menos.</p></p>
-<p><p>Outro ponto que vale destacar, fundamental na gestão pública, é a transparência. E o Governo de Pernambuco conquistou o reconhecimento nessa área por parte do Ministério da Transparência e da Controladoria Geral da União (CGU). Nosso Governo obteve a nota 9,4, a mais alta entre todos os Estados, incluindo o Distrito Federal, todas as capitais e todos os municípios com mais de 50 mil habitantes.</p></p>
-<p><p>Gostaria também de repetir algo fundamental, que não pode e nem deve ser esquecido: nosso modelo de gestão não é um fim em si mesmo. É um instrumento necessário para melhorar a vida das pessoas, especialmente as que mais precisam do poder público. Essa é a nossa missão maior: construir uma sociedade mais justa, com igualdade de condições, para que todos e todas tenham a oportunidade de transformar os seus sonhos em realidade.</p></p>
-<p><p>Por isso, estamos formando um governo orientado pelo compromisso maior das forças progressistas do nosso Estado. Por consequência, vamos trabalhar com o olhar permanente aos que mais precisam, aos mais necessitados dos serviços públicos. Tais serviços devem estar em constante aperfeiçoamento e sintonizados com os anseios da população.</p></p>
-<p><p>Senhor Presidente,</p></p>
-<p><p>É evidente que as questões administrativas são importantes. No entanto, elas têm tempo próprio de concepção, desenvolvimento e maturação. Porém dependem do contexto econômico, social e político para que atinjam suas metas – contexto este não só estadual, mas, no momento, notadamente nacional.</p></p>
-<p><p>As próximas administrações estaduais tomam posse após uma das campanhas mais radicalizadas da história do Brasil. Milhões de ameaças foram contabilizadas nas redes sociais, apenas no segundo turno. Quase uma centena de pessoas sofreram agressões físicas. Tudo em meio a uma crise de raízes profundas, que parece deixar o País sem rumo.</p></p>
-<p><p>É urgente desmontar os palanques, desarmar os espíritos, buscar o mínimo de convergências que nos permitam preservar as conquistas democráticas e avançar. O processo eleitoral que nos elegeu para o Poder Executivo e elegeu os parlamentares para o Poder Legislativo é o mesmo que elegeu o presidente da República.</p></p>
-<p><p>De caráter historicamente irredento, Pernambuco jamais admitiu submissão a qualquer poder, mesmo os mais altos da República. A submissão, em qualquer tempo, de qualquer natureza, por qualquer motivo, é incompatível com o espírito libertário dos pernambucanos. Apoiaremos decisões que beneficiem Pernambuco e o Nordeste, a exemplo das obras complementares da Transposição das águas do Rio São Francisco e da conclusão da Ferrovia Transnordestina. Mas seremos contra, fundados em sólidos argumentos, a iniciativas que comprometam o futuro do estado e da região, como a privatização da Chesf.</p></p>
-<p><p>Há quatro anos, externei preocupações que quero aqui reafirmá-las: não bastam formulações de equipes econômicas, por mais iluminadas que sejam. A realização dos grandes objetivos de uma nacão ultrapassa a vontade de um grupo de pessoas ou de um conjunto de partidos. Será sempre resultado da reflexão e da mobilização dos brasileiros, onde quer que possam fazer ouvir suas vozes.</p></p>
-<p><p>Mais uma vez, o país precisa da Política com pê maiusculo. É a urgência do diálogo. Precisamos mais do que nunca saber ouvir e saber falar, com franqueza, lealdade, sem prejulgamentos, sem discriminação e sem qualquer tipo de intolerância.</p></p>
-<p><p>O amor ao Brasil não é monopólio de nenhum brasileiro, seja civil ou militar. A forma de expressar este sentimento depende de cada um. Morrer em um campo de batalha é uma forma de amar o Brasil. Ocupar as ruas em defesa da democracia também é.</p></p>
-<p><p>Precisamos de paz, porém não a paz do silêncio imposto pela força. Queremos a paz viva, do debate, do contraditório, da liberdade de opinião. A paz da democracia. Precisamos de paz para trabalhar, vencer a miséria, a violência e o desemprego, para ajudar milhões de jovens a encontrar um futuro melhor e mais proveitoso.</p></p>
-<p><p>Para tanto, temos que juntar os cacos espalhados à nossa frente, efeito da polarização desmedida. Nós, os pernambucanos e os brasileiros, já provamos ter tal capacidade. Foi assim na oposição à ditadura; na promulgação da Constituição de 1988, há 30 anos; na mobilização pelas eleições diretas; na vitória contra a inflação; no combate à miséria.</p></p>
-<p><p>Conquistas de todos, que hoje a todos beneficiam. É nosso dever político, cívico e moral nos mobilizarmos para que essas conquistas, entre outras, não sejam revogadas ou mitigadas por nenhuma onda de conservadorismo ou de autoritarismo.</p></p>
-<p><p>Cabemos todos no Brasil multirracial, multicultural e multieconômico, que há gerações estamos construindo, desde o ano de 1500.</p></p>
-<p><p>Desconhecer essa realidade é desconhecer o nosso passado, o nosso presente e comprometer o nosso futuro.</p></p>
-<p><p>Repito: precisamos de paz, de democracia, de trabalho. Estendo as minhas mãos. Tenho a convicção de que outras mãos, de pernambucanos e de brasileiros de boa vontade e de boa fé, as acolherão, pelo bem de Pernambuco e pelo bem do Brasil.</p></p>
-<p><p>Muito obrigado.</p></p>
-{% endraw %}

@@ -1,47 +1,0 @@
----
-id: 12581107
-date: "2019-02-01T08:51:41Z"
-last_modified_at: null
-tags:
-  - "joice-hasselmann"
-  - "naomi-campbell"
-categories:
-  - "noticias"
-title: "O 'trator' Joice Hasselmann que n\u00e3o tem receio de 'atropelar'"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/12/joice-hasselman.jpg"
----
-{% raw %}
-<p><p><em>Estadão Conteúdo</em> - "Eu sou de ferro, aguento pancada, não estou aqui para brincar e não estou nem aí se tem gente com dor de cotovelo. Lamento, I'm sorry, sempre fui assim. As pessoas dizem que 'Joice é um trator'. Sim, eu sou um trator, mas só trabalho para o bem. E, se alguém cruzar a minha frente para impedir que as coisas boas sejam feitas, vou acelerar o meu trator. Vou atropelar."</p></p>
-<p><p>A frase é de <a href="https://blogs.ne10.uol.com.br/jamildo/2019/01/28/psl-racha-por-disputa-de-cargos-na-camara/">Joice Hasselmann</a>, deputada eleita pelo PSL de São Paulo que toma posse nesta sexta-feira, dia 1º, em Brasília, e foi dada ao jornal O Estado de S&gt; Paulo, na quarta-feira, 30, enquanto ela tomava chá em um copo de isopor no hotel onde mora no bairro do Itaim-Bibi, na capital paulista.</p></p>
-<p><p>Joice foi a deputada federal mais votada do País na eleição de outubro passado - com mais de um milhão de votos. Como resultado disso e também do estilo "trator", seu nome tem aparecido nas listas de apostas sobre os possíveis expoentes da nova legislatura. Recentemente, foi apontada pelo ministro da Casa Civil, Onyx Lorenzoni, como uma das principais articuladoras da base de apoio ao governo Jair Bolsonaro na Câmara.</p></p>
-<p><p>Nos poucos meses que separam sua filiação ao PSL (no início de abril do ano passado) até o início do governo, ela ampliou seu arco de influência da Esplanada dos Ministérios até a antessala da primeira-dama, Michelle Bolsonaro. Parlamentares rodados a tratam como uma veterana, embora mal tenha assumido seu primeiro mandato.</p></p>
-<p><p>No dia 17 de dezembro, foi escolhida para suceder ao empresário Flávio Rocha, dono das Lojas Riachuelo e que foi pré-candidato a presidente pelo PRB, no comando do Brasil 200 - movimento criado por ele próprio para carregar as bandeiras do empresariado nas eleições de 2018. Para o evento, a Federação das Indústrias do Estado de São Paulo (Fiesp) disponibilizou assessores, dois auditórios e uma sala reservada.</p></p>
-<p><p>Dois dias depois, em Curitiba, saltou do banco traseiro de um Jaguar na entrada do Palácio do Iguaçu, sede do governo do Paraná, para receber a Ordem do Pinheiro, principal comenda do Estado. De vestido curto preto, saltos altos da marca Louboutin e usando joias, ela entrou acompanhada pelo desembargador do TRF-4 João Pedro Gebran Neto - que no ano passado anulou habeas corpus concedido por desembargador plantonista que mandava soltar o ex-presidente Luiz Inácio Lula da Silva. "Meu amigo pessoal", disse ela.</p></p>
-<p><p>A proximidade com os poderosos, inclusive patrões e chefes, é vista como uma das características de Joice desde o início da carreira profissional, ainda como jornalista, em Ponta Grossa (PR). "Sempre fui contratada pelo dono. Só negocio os termos do meu contrato com o presidente, o diretor-geral ou o dono do veículo. Em geral, o dono. Tenho exigências para topar trabalhar em qualquer lugar. Uma delas é a liberdade de falar e um subchefe nunca conseguiria dar essa prerrogativa", explicou a deputada. "E isso gera uma ciumeira desgraçada."</p></p>
-<p><h2>Críticas</h2></p>
-<p><p>Na carreira política, não tem sido diferente. A voracidade com que se move nas várias esferas do poder, no entanto, já é objeto de críticas no meio bolsonarista. Logo depois da eleição, o vazamento de uma discussão entre ela e o então deputado eleito Eduardo Bolsonaro (PSL-SP), filho do presidente, abriu a primeira crise política do governo antes mesmo da posse.</p></p>
-<p><p>Aliados de Bolsonaro questionam os métodos e os propósitos de Joice. Para alguns, ela usaria a defesa do presidente - de quem já foi crítica em um passado recente - para benefício próprio. Em uma das mensagens vazadas, Eduardo foi o primeiro a usar a analogia com o trator ao dizer que ela é capaz de "atropelar qualquer um que esteja à frente dos seus objetivos".</p></p>
-<p><p>"Tenho um compromisso com um milhão de eleitores só em São Paulo, porque no Brasil inteiro ouço pessoas dizendo que queriam ter votado em mim. Não posso trair essa gente", disse ela, a caminho de um restaurante sofisticado na região dos Jardins. "Meu compromisso é com o povo brasileiro", disse Joice, como que colocando um ponto final no assunto.</p></p>
-<p><p>Só depois de ser questionada sobre a instabilidade que alguns de seus movimentos têm causado na base do governo em formação, em especial no PSL de São Paulo, é que ela mencionou o compromisso com Bolsonaro - a quem chama de "Jair".</p></p>
-<p><p>"Sim, com certeza! Tudo o que eu estou trabalhando é para construir uma grande base para o governo. Quem está trabalhando dentro do partido sou eu, alinhada com o Onyx. Sou quem mais está fazendo este trabalho de base de sustentação para o governo Bolsonaro."</p></p>
-<p><p>Para o secretário-geral da Presidência, Gustavo Bebianno, apesar das polêmicas, Joice tem mais ajudado do que atrapalhado o novo governo e tem potencial para, em breve, disputar cargos executivos.</p></p>
-<p><p>"Joice é uma das pessoas que geram maior expectativa no partido", disse ele. "Todos no PSL vão ter de enfrentar esse processo de amadurecimento. A personalidade dela acaba desagradando a algumas pessoas porque o mundo político é uma competição permanente", afirmou Bebianno, ex-presidente do PSL.</p></p>
-<p><p>Apesar do estilo considerado chamativo, Joice diz que é despojada na vida privada. "Parece uma coisa maluca, mas, apesar de estar toda emperiquitada, eu não sou vaidosa." Pouco antes, ela havia recebido a ligação de uma pessoa responsável pelas joias que encomendou especialmente para a cerimônia de posse no Congresso.</p></p>
-<p><p>"Na verdade, meu marido (o neurocirurgião Daniel França) ama joias. Agora mesmo, ganhei um anel. As joias que ele me dá têm nome. Agora ele me deu o 'Posse', para a posse. Um anel lindo de diamante champagne", disse ela. Na sequência, afirmou: "Isso faz o povo ficar com bastante inveja de mim, muita raiva".</p></p>
-<p><p>Além das joias, Joice preparou um item peculiar para a decoração de seu gabinete na Câmara. Uma caixa com dezenas de algemas de verdade adornada com a placa "Tente a sorte". "Isso é para o caso de alguém cometer a insensatez de me oferecer qualquer coisa ilegal."</p></p>
-<p><h2>Carreira</h2></p>
-<p><p>A jornalista paranaense de 40 anos, nascida em Ponta Grossa, começou a trabalhar nas rádios CBN e Bandnews FM. Depois, foi convidada para trabalhar na TV. "Ela tem uma capacidade de comunicação extraordinária. É como um cavalo de raça. Precisa de pista para correr", disse o ex-diretor de jornalismo do SBT no Paraná Acácio Costa, responsável por levar Joice para as telas.</p></p>
-<p><p>Do SBT, ela foi para a TV Record local, mas o destaque nacional só viria em 2014, quando foi contratada pela Editora Abril para apresentar a TV Veja. A passagem pelo site da revista semanal durou pouco mais de um ano e terminou de forma ruidosa. Em março do ano passado, Joice foi condenada a pagar R$ 225 mil de indenização para a editora por ter utilizado de forma considerada indevida a marca "Veja". Ela recorreu.</p></p>
-<p><p>De sua tribuna no site da publicação, ela se tornou uma das porta-vozes do movimento pelo impeachment da presidente cassada Dilma Rousseff e passou a vocalizar as bandeiras da nova direita que acabaria elegendo Bolsonaro. De carona na Lava Jato, Joice ampliou sua audiência e tem hoje mais de 2 milhões de seguidores no Facebook e um milhão no YouTube.</p></p>
-<p><h2>Plágio</h2></p>
-<p><p>No início do ano passado, o Sindicato dos Jornalistas do Paraná impôs uma sanção administrativa a Joice por plágio. No processo, a entidade lista 65 reportagens de 42 profissionais que foram copiadas em menos de um mês no Blog da Joice - iniciativa que ela criou depois de deixar a Veja -, sem autorização, pagamento de direitos autorais nem crédito dos autores.</p></p>
-<p><p>À reportagem, ela atribuiu o processo a uma perseguição. "Tenho esse enfrentamento histórico com o sindicato que é alinhado à CUT desde que trabalhava em Ponta Grossa. Como sempre fui de direita, eles aproveitaram para, na surdina, fazer esse suposto processo de uma coisa que nunca aconteceu. É uma fraude."</p></p>
-<p><p>No fim de outubro, estudos do Atlas Político e da plataforma Avaaz apontaram Joice como disseminadora de fake news durante as eleições. Um vídeo feito por ela dois dias antes da eleição sobre um suposto esquema de fraude nas urnas eletrônicas alcançou mais de 16 milhões de pessoas.</p></p>
-<p><p>Ela também nega a acusação. "Que levantamento? De onde? Não existe qualquer levantamento sério de qualquer fake news divulgada por mim", respondeu.</p></p>
-<p><p>Para alguns aliados, o desafio de Joice vai ser adaptar o estilo expansivo ao universo político. "O que tenho visto na política é que as pessoas não têm palavra. Elas acordam uma coisa aqui com você e, depois de meia hora, estão falando outra coisa."</p></p>
-<p><p>Nomes?</p></p>
-<p><p>"Gostaria muito, mas em 'on' não posso", disse ela.</p></p>
-{% endraw %}

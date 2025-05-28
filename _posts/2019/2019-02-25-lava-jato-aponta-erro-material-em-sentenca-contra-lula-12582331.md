@@ -1,34 +1,0 @@
----
-id: 12582331
-date: "2019-02-25T15:34:28Z"
-last_modified_at: null
-tags:
-  - "contran"
-  - "lava-jato"
-  - "lula"
-  - "material-escolar"
-categories:
-  - "noticias"
-title: "Lava Jato aponta erro material em senten\u00e7a contra Lula"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/01/lula-transmissao-ao-vivo.jpg"
----
-{% raw %}
-<p><p><em>Estadão Conteúdo</em> - O Ministério Público Federal apontou "omissões e contradições por erro material" na <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/06/lula-e-condenado-a-12-anos-e-11-meses-de-prisao-no-caso-do-sitio-em-atibaia/">sentença da juíza federal Gabriela Hardt, da 13ª Vara Federal, contra o ex-presidente Lula na Operação Lava Jato</a>. A magistrada condenou o petista, em janeiro passado, a 12 anos e 11 meses de prisão por corrupção ativa e passiva e lavagem de dinheiro no processo do sítio de Atibaia.</p></p>
-<p><p>Segundo a Procuradoria da República, Lula foi denunciado por dez crimes de corrupção passiva. "Em alguns pontos da sentença houve menção à prática do crime de corrupção ativa por Luiz Inácio Lula da Silva", relatou a Lava Jato. "Tratando-se de mero erro material, o Ministério Público Federal requer seja essa contradição retificada, para que passe a constar o crime de corrupção passiva."</p></p>
-<p><p>Na manifestação, os procuradores apontaram uma "omissão na parte dispositiva da sentença". "Embora no mérito, a sentença proferida mencione a absolvição de Agenor Medeiros, José Adelmário Pinheiro Filho e Luiz Inácio Lula da Silva, em relação aos crimes de corrupção ativa e passiva em razão dos contratos do Gasoduto Pilar-Ipojuca e GPL Duto Urucu-Coari, deixou de fazê-lo na parte dispositiva", indicaram. "Requer o Ministério Público Federal seja suprida a omissão da r. sentença para fins de inclusão da absolvição dos réus quanto às imputações feitas em relação a esses dois contratos."</p></p>
-<p><p>O petista foi sentenciado por supostamente receber R$ 1 milhão em propinas referentes às reformas do imóvel, que está em nome de Fernando Bittar, filho do amigo de Lula e ex-prefeito de Campinas, Jacó Bittar. A Lava Jato afirma que o sítio passou por três reformas: uma sob comando do pecuarista José Carlos Bumlai, no valor de R$ 150 mil, outra da Odebrecht, de R$ 700 mil e uma terceira reforma na cozinha, pela OAS, de R$ 170 mil, em um total de R$ 1,02 milhão. Lula nega ter cometido qualquer irregularidade.</p></p>
-<p><p>A pena imposta por Gabriela Hardt é maior do que a estabelecida pelo ex-juiz federal Sérgio Moro. Em julho de 2017, o então magistrado da Lava Jato condenou o ex-presidente no caso triplex a 9 anos e seis meses de prisão, pena depois ampliada para 12 anos e um mês pelo Tribunal Regional Federal da 4ª Região, o tribunal de apelações da Lava Jato.</p></p>
-<p><p>No dia em que Lula foi condenado, sua defesa se manifestou desta forma:</p></p>
-<p><p>"A defesa do ex-presidente Lula recorrerá de mais uma decisão condenatória proferida pela 13ª Justiça Federal de Curitiba que atenta aos mais basilares parâmetros jurídicos e reforça o uso perverso das leis e dos procedimentos jurídicos para fins de perseguição política, prática que reputamos como 'lawfare'", diz o texto.</p></p>
-<p><p>"A sentença segue a mesma linha da sentença proferida pelo ex-juiz Sérgio Moro, que condenou Lula sem ele ter praticado qualquer ato de ofício vinculado ao recebimento de vantagens indevidas, vale dizer, sem ter praticado o crime de corrupção que lhe foi imputado. Uma vez mais a Justiça Federal de Curitiba atribuiu responsabilidade criminal ao ex-presidente tendo por base uma acusação que envolve um imóvel do qual ele não é o proprietário, um 'caixa geral' e outras narrativas acusatórias referenciadas apenas por delatores generosamente beneficiados."</p></p>
-<p><p>"A decisão desconsiderou as provas de inocência apresentadas pela Defesa de Lula nas 1.643 páginas das alegações finais protocoladas há menos de um mês (07/01/2019) - com exaustivo exame dos 101 depoimentos prestados no curso da ação penal, laudos técnicos e documentos anexados aos autos. Chega-se ao ponto de a sentença rebater genericamente a argumentação da defesa de Lula fazendo referência a 'depoimentos prestados por colaboradores e co-réus Leo Pinheiro e José Adelmário', como se fossem pessoas diferentes, o que evidencia o distanciamento dos fundamentos apresentados na sentença da realidade".</p></p>
-<p><p><em>"Ainda para evidenciar o absurdo da nova sentença condenatória, registra-se que:</em></p></p>
-<p><p><em>- Lula foi condenado pelo 'pelo recebimento de R$ 700 mil em vantagens indevidas da Odebrecht' mesmo a defesa tendo comprovado, por meio de laudo pericial elaborado a partir da análise do próprio sistema de contabilidade paralelo da Odebrecht, que tal valor foi sacado em proveito de um dos principais executivos do grupo Odebrecht (presidente do Conselho de Administração); esse documento técnico (elaborado por auditor e perito com responsabilidade legal sobre o seu conteúdo) e comprovado por documentos do próprio sistema da Odebrecht foi descartado sob o censurável fundamento de que 'esta é uma análise contratada por parte da ação penal, buscando corroborar a tese defensiva' - como se toda demonstração técnica apresentada no processo pela defesa não tivesse valor probatório;</em></p></p>
-<p><p><em>- Lula foi condenado pelo crime de corrupção passiva por afirmado 'recebimento de R$ 170 mil em vantagens indevidas da OAS' no ano de 2014 quando ele não exercia qualquer função pública e, a despeito do reconhecimento, já exposto, de que não foi identificado pela sentença qualquer ato de ofício praticado pelo ex-presidente em benefício das empreiteiras envolvidas no processo;</em></p></p>
-<p><p><em>- foi aplicada a Lula, uma vez mais, uma pena fora de qualquer parâmetro das penas já aplicadas no âmbito da própria Operação Lava Jato - que segundo julgamento do TRF4 realizado em 2016, não precisa seguir as 'regras gerais' - mediante fundamentação retórica e sem a observância dos padrões legalmente estabelecidos.</em></p></p>
-<p><p><em>Em 2016 a defesa demonstrou perante o Comitê de Direitos Humanos da ONU a ocorrência de grosseiras violações às garantais fundamentais, inclusive no tocante à ausência de um julgamento justo, imparcial e independente. O conteúdo da sentença condenatória proferida hoje somente confirma essa situação e por isso será levada ao conhecimento do Comitê, que poderá julgar o comunicado ainda neste ano - e eventualmente auxiliar o país a restabelecer os direitos de Lula".</em></p></p>
-<p><p>Assina a nota o advogado Cristiano Zanin Martins.</p></p>
-{% endraw %}

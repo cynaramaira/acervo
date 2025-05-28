@@ -1,45 +1,0 @@
----
-id: 12581577
-date: "2019-02-10T09:32:29Z"
-last_modified_at: null
-tags:
-  - "aposentadoria"
-  - "cidades"
-  - "desigualdades"
-categories:
-  - "noticias"
-title: "A batalha pela idade m\u00ednima igual para aposentadoria"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/02/bolsonaro-paulo-guedes.jpg"
----
-{% raw %}
-<p><p><em>Estadão Conteúdo</em> - A fixação de uma mesma idade de aposentadoria (65 anos) para homens e mulheres, defendida pelo ministro da Economia, Paulo Guedes, é uma das principais polêmicas na proposta de reforma da Previdência revelada na semana passada pelo 'Estadão/Broadcast'. E, prevendo um duro debate - até o presidente Jair Bolsonaro já se manifestou contra isso -, a equipe econômica tenta afiar o discurso que será adotado para defender a idade mínima igual.</p></p>
-<p><p>Além da expectativa de vida, que é maior para mulheres, a área econômica reuniu dados salariais dos mais jovens para mostrar que a desigualdade de renda por gênero tem caído de forma acelerada nos últimos anos. Enquanto homens entre 50 e 59 anos ganham em média 41,7% a mais que as mulheres dessa idade, a diferença cai a 6,5% na faixa entre 15 e 19 anos. Os homens nessa idade ganham em média R$ 1.071,90 e as mulheres jovens recebem R$ 1.006,10, segundo dados de 2017.</p></p>
-<p><p>No Congresso, a ideia é usar a base aliada do governo para tentar "rachar" a bancada feminina, que foi a principal resistência contra a medida na reforma proposta pelo ex-presidente Michel Temer. Com 43 das 77 deputadas eleitas para o primeiro mandato, a avaliação é de que é possível estabelecer um novo equilíbrio de forças dentro da bancada, em contraponto à posição da ex-coordenadora Soraya Santos (PR-RJ), que atuou para reduzir a idade mínima das mulheres.</p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/09/maia-negocia-ajuda-a-estados-em-troca-de-apoio-a-reforma-da-previdencia/">Maia negocia ajuda a Estados em troca de apoio à reforma da Previdência</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/09/governo-se-arma-para-defender-reforma-da-previdencia-a-populacao/">Governo se arma para defender reforma da Previdência à população</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/08/joel-da-harpa-quer-que-pms-recebam-salario-de-policial-federal-como-compensacao-por-reforma-da-previdencia/">Joel da Harpa quer que PMs recebam salário de policial federal como compensação por reforma da Previdência</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/08/humberto-defende-reforma-e-fala-em-combater-privilegios-na-previdencia/">Humberto defende reforma e fala em combater ‘privilégios’ na Previdência</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/08/mourao-aconselha-cut-a-discutir-reforma-da-previdencia-no-congresso/">Mourão aconselha CUT a discutir reforma da Previdência no Congresso</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/07/senado-aguarda-com-ansiedade-pec-da-previdencia-afirma-alcolumbre/">Senado aguarda com ansiedade PEC da Previdência, afirma Alcolumbre</a></p></p>
-<p><p>Conta a favor o fato de que o PSL, de Bolsonaro, tem, sozinho, dez deputadas. A coalizão pode ainda receber o reforço de outras parlamentares com perfil mais liberal. Segundo apurou o Estadão/Broadcast, algumas delas já estão buscando a equipe econômica para questionar justamente sobre esse ponto da proposta de reforma da Previdência.</p></p>
-<p><p>De acordo com uma fonte da área econômica, a desigualdade encontrada no Brasil é menor que a existente nos Estados Unidos e equivalente à encontrada em países desenvolvidos como Dinamarca, Suécia, Noruega, Bélgica e Nova Zelândia. Como são os jovens que hoje têm entre 15 e 19 anos que vão se aposentar com a idade mínima implementada pela reforma, a equipe econômica se decidiu pelo mesmo patamar.</p></p>
-<p><h2>Transição</h2></p>
-<p><p>Para quem já está no mercado de trabalho e tem perspectiva de se aposentar por tempo de contribuição (hoje de 35 anos para homens e 30 para mulheres), as exigências da transição só convergem daqui a 20 anos, destacou a fonte. Ou seja, até lá, a mulher ainda se aposenta com menos exigências que o homem. Na aposentadoria por idade, o patamar exigida dos homens já é de 65 anos (desde que tenha pelo menos 15 anos de contribuição). A das mulheres, de 60 anos, subirá 6 meses a cada ano até chegar aos 65. Ou seja, a convergência dura uma década.</p></p>
-<p><p>Uma das expoentes da bancada do partido de Bolsonaro na Câmara, a deputada Joice Hasselmann (PSL-SP) afirmou ao Estadão/Broadcast que é favorável à idade mínima igual para homens e mulheres. "Daqui pra frente, sim. A gente não vai mexer em direito adquirido de ninguém. Mas nós lutamos pelos mesmos direitos, também temos de ter os mesmos deveres", disse. Na semana passada, ela inaugurou a batalha de comunicação do governo nessa frente ao discursar em plenário a favor da equiparação das idades mínimas. A deputada reconheceu que Bolsonaro "é bem duro" em relação à ideia, mas contou que a equipe econômica "está tentando fazer o convencimento".</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/07/previdencia-tera-prioridade-sobre-projeto-de-moro-diz-maia/">Previdência terá prioridade sobre projeto de Moro, diz Maia</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/06/apos-reuniao-com-guedes-paulo-camara-defende-reforma-da-previdencia/">Após reunião com Guedes, Paulo Câmara defende reforma da Previdência</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/06/focado-na-reforma-da-previdencia-governo-adia-promessas/">Focado na reforma da Previdência, governo adia promessas</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/05/so-com-65-anos-servidor-tera-aposentadoria-integral-com-reforma-da-previdencia/">Só com 65 anos servidor terá ‘aposentadoria integral’ com reforma da Previdência</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/05/politico-tambem-precisara-cumprir-idade-minima-preve-reforma-da-previdencia/">Político também precisará cumprir idade mínima, prevê reforma da Previdência</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/05/sera-criada-na-reforma-contribuicao-a-previdencia-para-militares/">Será criada na reforma contribuição à previdência para militares</a></p></p>
-<p><p>Joice afirmou que o governo não se preocupa "com a patrulha da esquerda" sobre o tema. "A gente tem de trabalhar no convencimento dos nossos, é do centro para cá, do centro para a turma do PSL", disse.</p></p>
-<p><p>Coordenadora da bancada feminina em 2017, quando teve papel central na negociação que dobrou as resistências do governo Temer em flexibilizar a idade para mulheres, a deputada Soraya Santos é a primeira mulher a ocupar a primeira-secretaria da Mesa da Câmara, eleita numa disputa acirrada contra o deputado Fernando Giacobo (PR-PR).</p></p>
-<p><p>"A importância de ter essa diferença de idade é porque muitas vezes a pessoa pensa que, pelo fato de a mulher viver mais que o homem, deveria ter a mesma idade na aposentadoria. Mas, isso ainda é uma simbologia muito forte, porque a mulher ainda tem dupla e tripla jornada. Se isso fosse computado, a diferença seria enorme. A diferença (na idade) que a gente defende é pelo nível de responsabilidade e de jornada que a mulher tem", afirmou Soraya antes da votação que a elegeu para a Mesa. Ela evitou fazer comentários sobre a reforma dizendo não conhecer o conteúdo da proposta de Bolsonaro.</p></p>
-<p><h2>Diferença</h2></p>
-<p><p>Contrária à equiparação, a deputada Erika Kokay (PT-DF) argumenta que as mulheres trabalham mais que os homens e enfrentam até tripla jornada. Para ela, há ainda grande desigualdade no mercado de trabalho, e a diferenciação nas idades de aposentadoria é uma das poucas políticas públicas existentes para combater esse problema. "O governo quer destruir uma das únicas políticas que se tem para enfrentar a desigualdade de gênero. É um retrocesso. As mulheres têm mais deveres do que os homens", afirmou. Segundo ela, há parlamentares homens que também votarão contra a equiparação das idades. A ideia é lançar uma Frente Parlamentar em defesa dos direitos das mulheres, disse a deputada petista.</p></p>
-<p><p>Para atacar as desigualdades que ainda existem por conta da dupla jornada - muito relacionada à criação dos filhos -, o governo estuda um mecanismo para dar um "bônus" às mães. Segundo uma fonte que participa das discussões, a ideia é compensar a mulher que tem o valor do seu benefício prejudicado por conta da dupla jornada, que geralmente acaba fazendo com que ela trabalhe menos horas e com salário menor. Uma opção é injetar um valor adicional no benefício que ela vai receber na aposentadoria, mas há quem acredite que o presidente pode acabar optando por dar a redução da idade como bônus.</p></p>
-{% endraw %}

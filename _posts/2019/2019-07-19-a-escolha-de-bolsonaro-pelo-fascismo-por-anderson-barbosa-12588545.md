@@ -1,47 +1,0 @@
----
-id: 12588545
-date: "2019-07-19T17:32:25Z"
-last_modified_at: null
-tags:
-  - "anderson-silva"
-  - "bolsonaro"
-  - "nelson-barbosa"
-categories:
-  - "noticias"
-title: "A escolha de Bolsonaro pelo fascismo. Por Anderson Barbosa"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/06/bolsonaro-argentina.jpg"
----
-{% raw %}
-<p><p>Por Anderson Barbosa, em artigo enviado ao blog</p></p>
-<p><p>Definir bem o que é o governo Bolsonaro é o primeiro passo para derrotá-lo. E para tanto é preciso compreender sua estratégia.</p></p>
-<p><p>Esse pequeno artigo não tem pretensão alguma de esgotar esse tema tão complexo, nem mesmo de apresentar respostas definitivas sobre ele. A proposta é muito mais (a tentativa) de sistematizar algumas reflexões que sirvam de questionamento para outras que aprofundem o tema.</p></p>
-<p><p>O governo Bolsonaro se comporta, entre outras coisas, com uma sucessão de 'polêmicas' (pra usar um termo genérico e suave). Uma sequência de declarações absurdas e não raras vezes, impopulares. Muitas vezes declarações e ações que beiram o ridículo. Outras que geram profunda indignação e reação em amplos setores da sociedade.</p></p>
-<p><p>Passados seis meses de governo a popularidade de Jair Bolsonaro e do governo despencaram. Lógico que não se pode atribuir isso apenas ao exposto acima, mas certamente isso também teve sua parcela de contribuição.</p></p>
-<p><p>Um governo trapalhão ou uma estratégia enigmática?</p></p>
-<p><p>A partir disso, muita gente atribui todo o conjunto de polêmicas a um 'governo trapalhão', incompetente, chefiado por um ignorante etc. Há ainda a explicação de que tudo não passa de uma estratégia, a de cortina de fumaça para desviar o foco de assuntos teoricamente mais importantes. Ou como uma estratégia das tesouras (na qual o próprio governo cria oposição a si mesmo para assim abafar qualquer alternativa que venha de fora). A primeira explicaria declarações absurdas de Damares e do próprio presidente ou dos filhos. Já a última explicaria a publicização constante das divergências internas de setores do próprio governo.</p></p>
-<p><p>Há ainda quem defenda que a estratégia de Bolsonaro seja uma combinação das duas anteriormente citadas.</p></p>
-<p><p>Essas análises buscam significados ocultos nas ações do presidente e do governo. Mas convém lembrar também que, às vezes, o que parece é. Portanto, a hipótese do 'governo trapalhão' não pode ser descartada. Na verdade, em minha opinião, ela explica parte das 'confusões' do governo. Contudo, ela também não explica tudo e não deve nos cegar para duas coisas: 1) existe realmente uma disputa interna entre diversos setores dentro do governo; 2) existe realmente uma estratégia do bolsonarismo por trás de todas as 'polêmicas' e 'confusões'. Sobre este segundo ponto é que pretendo refletir a partir de agora.</p></p>
-<p><p>O bolsonarismo, que não é o governo Bolsonaro mas sim uma parte dele (ou seu 'núcleo duro'), parece ter feito uma escolha por uma estratégia política de mobilização constante de sua base social, para o confronto. Em primeiro lugar contra a Esquerda e tudo que ela representa, mas também contra instituições do Estado (ou parte delas), parte da Imprensa, personalidades etc. Todos que representem algum perigo ou empecilho para seu projeto de hegemonia.</p></p>
-<p><p>E esta é a maior e mais importante semelhança entre o bolsonarismo atual e o nazismo na Alemanha ou o fascismo na Itália.</p></p>
-<p><p>Risco calculado na marcha rumo ao fascismo</p></p>
-<p><p>Esta opção estratégica traz um custo político alto que é a perda de apoio de setores tidos como de centro ou mesmo ligados à direita mais tradicional, setores (ou parte deles) que só aderiram a Bolsonaro no 2º turno da eleição ou no final do 1º turno como última alternativa contra o PT. Mas esse é um risco calculado. Porque se por um lado essa perda de apoio acontece, por outro lado, ao mesmo tempo, outros dois fenômenos acontecem: 1) com sua radicalização o bolsonarismo consegue arrastar parte daqueles setores que aderiram a ele de última hora, ampliando assim a base da extrema-direita no país, seja pela debilidade atual da chamada 'Direita tradicional' (ou não fascista), seja por atiçar constantemente nas mentes da base tradicional da Direita a ideia de uma ameaça permanente a ser combatida; 2) a radicalização do bolsonarismo mantém coesa e animada sua própria base social, como um exército sempre pronto e unido para combater o inimigo.</p></p>
-<p><p>Assim, o que aparentemente é uma contradição, uma estratégia que busca consolidar hegemonia mas cria ao mesmo tempo divisões nos setores que ajudaram o bolsonarismo a chegar ao governo, é na verdade, o maior trunfo do bolsonarismo para alcançar seu objetivo.</p></p>
-<p><p>Isto porque o bolsonarismo não busca hegemonia através do estabelecimento de 'consensos sociais' a partir de suas ideias. Melhor dizendo, este não é o meio que ele utiliza para buscar hegemonia. O bolsonarismo não tem a ilusão de se estabelecer como hegemônico através do convencimento da maioria da opinião pública. Mas sim através da formação de uma minoria convicta, radicalizada e sedenta de ódio. Por isso Bolsonaro precisa estar constantemente alimentando de ódio essa sua base social. Por isso tantas declarações e ações absurdas. A base do bolsonarismo precisa estar sempre pronta para o combate, porque é dessa forma que eles tem o poder de ameaçar instituições, pessoas, partidos etc.</p></p>
-<p><p>Não há outro caminho para o bolsonarismo senão elevar (ou ao menos tentar) gradativamente os níveis de autoritarismo do Estado brasileiro. Assim a perda de popularidade não é exatamente um problema para ele, desde que esteja acompanhada da consolidação de uma base cada vez mais convicta e radicalizada.</p></p>
-<p><p>O ódio que alimenta o Bolsonarismo</p></p>
-<p><p>A tendência do bolsonarismo é aumentar cada vez mais a repressão política, a perseguição aos adversários, a 'caça às bruxas' na Imprensa etc. Perseguição que não deve se resumir à Esquerda, como já não vem se resumindo, mas incluir todos os setores que de alguma forma o ameacem ou representem para ele algum obstáculo. A perseguição e a repressão política cumprem aí função dupla: manter mobilizada a base do bolsonarismo e; remover ou eliminar toda e qualquer oposição a ele. E para isto ele se vale não só do Estado, mas também e em muitos momentos principalmente, de suas hordas de seguidores. Para ameaçar, constranger, promover agressões ou coisas piores contra seus opositores, ainda que pontuais.</p></p>
-<p><p>A estratégia bolsonarista é o caminho em direção ao fascismo cujo objetivo só estará completo com a eliminação, inclusive física, de qualquer oposição a ele. Portanto, se engana quem aposta no arrefecimento ou diminuição da polarização daqui pra frente. Assim como se enganou quem apostou que isso aconteceria após a eleição. A polarização e a radicalização política faz parte da própria essência do bolsonarismo. Delas ele se alimenta e sem elas não sobrevive.</p></p>
-<p><p>Engana-se também quem nutre a ilusão de que se o “lado de cá” der alguma trégua (como se fosse possível oferecer trégua a quem quer nos eliminar) o “lado de lá” então acalmaria seus ânimos. A mesma ilusão embalou parte da Esquerda há quase cem anos diante da ascensão do nazismo e do fascismo. O resultado final é conhecido por todo mundo.</p></p>
-<p><p>O bolsonarismo persegue, ataca e alimenta o ódio contra LGBT's porque este ódio alimenta o próprio bolsonarismo e o fortalece. Não há nada que a população LGBT faça que vá acalmá-lo. O bolsonarismo persegue, ataca e alimenta o ódio contra a Esquerda porque com isto ele cresce. Nenhum comportamento dócil ou moderado da Esquerda o fará recuar disso.</p></p>
-<p><p>Para o conjunto da Esquerda, LGBTs e todas as demais vítimas do ódio e perseguição do bolsonarismo só há um caminho: a resistência política. À altura da necessidade do enfrentamento que o próprio bolsonarismo impõe.</p></p>
-<p><p>Lutar contra e derrotar o bolsonarismo não é uma opção. É uma necessidade vital! E só é possível enfrentá-lo através de um combate permanente contra ele. Sem nenhuma trégua, sem nenhuma concessão.</p></p>
-<p><p>E óbvio que é necessário escolher onde centrar fogo, em quais debates devemos priorizar mais energias, escolha que pode mudar a cada momento. Mas é fundamental a compreensão de que o bolsonarismo precisa ser combatido em todos os seus aspectos, porque de cada um deles ele se alimenta e se fortalece.</p></p>
-<p><p>Derrotar o fascismo é uma necessidade vital</p></p>
-<p><p>A luta contra o bolsonarismo tende a ser longa e difícil. Cheia de avanços e retrocessos momentâneos. Não podemos nem nos iludir com os avanços imaginando que na próxima esquina Bolsonaro cairá. Nem tampouco podemos nos deixar abater pelos retrocessos.</p></p>
-<p><p>Não é a primeira vez que o fascismo tenta avançar sobre o mundo. Ele foi sempre derrotado antes. Porque as gerações anteriores à nossa compreenderam que combatê-lo não era uma opção e sim a missão de suas vidas.</p></p>
-<p><p>Derrotar o bolsonarismo não é nossa escolha. É a tarefa de nossa geração! A missão de nossas vidas!</p></p>
-<p><p>Anderson Barbosa é membro do Diretório Estadual do PT/Pernambuco, do Coletivo da Secretaria Estadual de Combate ao Racismo do PT/PE e Secretário de Organização do PT de Pesqueira.</p></p>
-{% endraw %}

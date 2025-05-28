@@ -1,33 +1,0 @@
----
-id: 12580486
-date: "2019-01-17T11:03:48Z"
-last_modified_at: null
-tags:
-  - "governo"
-  - "novos"
-  - "praticas"
-categories:
-  - "opiniao"
-title: "Novo governo, velhas pr\u00e1ticas"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/11/bolsonaro-2.jpg"
----
-{% raw %}
-<p><p>Por Marcondes de A. Secundino*</p></p>
-<p><p>Desde a campanha presidencial de 2018, o Brasil assiste ao surgimento de um novo partido político, as Forças Armadas. Pasmem, com os mesmos vícios dos partidos da velha república, cheio de facções e disputas internas. Para a formação do novo governo, inicialmente, foi necessário contemplar com ministérios as três áreas militares: o Exército, a Aeronáutica e a Marinha.</p></p>
-<p><p>O novo governo civil-militar através da distribuição dos ministérios, com o objetivo de formar uma base de apoio, garantiu o espaço das forças armadas, composto também pelo PSL e o PRB; trouxe o DEM (antiga Arena) de Gustavo Krause, Ronaldo Caiado e Rodrigo <a href="https://blogs.ne10.uol.com.br/jamildo/2019/01/05/alem-do-psl-prb-psd-e-pps-ja-fecharam-apoio-a-reeleicao-de-maia/">Maia, que já recebeu o apoio do governo para a reeleição à presidência da Câmara (baixa) Federal</a>; afagou o MDB de Romero Jucá e Temer; e selou aliança com uma ala do PSDB de Aécio Neves, Geraldo Alkmin, João Doria e FHC que apoiou Bolsonaro na eleição mesmo com candidato do partido na disputa.</p></p>
-<p><p>A velha prática que caracteriza a república cambaleante definiu a face do novo governo e explicitou o objetivo do arranjo político. Assegurou a hegemonia política das forças armadas, tentou manter aproximação com os partidos do campo político tradicional – DEM, MDB e PSDB – e lançou fichas para atrair os partidos do conhecido centrão – NOVO, PRB, PR, PRP, PSD etc.</p></p>
-<p><p>Estabeleceu recompensas governamentais para os heróis da Lava Jato que tiraram Lula da disputa presidencial: <a href="https://blogs.ne10.uol.com.br/jamildo/2019/01/09/bolsonaro-determina-que-pf-garanta-seguranca-de-moro-e-familiares/">Moro, o ex-juiz, ganhou o superministério da Justiça</a> (com o Coaf de brinde), e “Léo” Pinheiro, o delator do caso tríplex, recebeu a Caixa Econômica Federal por intermédio do genro. Outros do baixo clero da Lava Jato também foram mimados com cargos.</p></p>
-<p><p>Definiu também o seu compromisso ideológico com a indústria bélica e sua ampliação no mercado brasileiro, com o agronegócio e a manutenção dessa estrutura fundiária excludente e com o mercado financeiro e rentista, além da pauta dos valores morais reacionários, a saber, a defesa da disciplina e da hierarquia das instituições militares como ideologia dominante e o seu transbordamento para as instituições educacionais, familiares e religiosas. Essa moldura sinaliza para a manutenção dos privilégios daqueles que estão no topo da base da pirâmide socioeconômica do Brasil, as elites políticas e econômicas, que continuam intocáveis nas propaladas reformas.</p></p>
-<p><p>Numa outra trincheira, esse governo definiu as minorias e as políticas inclusivas e constitucionais como alvo a ser combatido. A Constituição Brasileira é reiteradamente agredida e os direitos sociais, os direitos civis e os direitos coletivos ameaçados.</p></p>
-<p><p>Essa prática ideológica representa o que a filósofa Marilena Chauí denomina de tentativa de desistitucionalização da República e da desmontagem da democracia por vezes disfarçado de uma economia política neoliberal. O Estado, nesta perspectiva, deixa de ser regido pelos valores democráticos e republicanos e passa a ser considerado uma empresa. E conclui, a consequência é "destinar os fundos públicos aos investimentos do capital e cortar os investimentos destinados aos direitos civis e sociais".</p></p>
-<p><p>Nesse sentido, destaco o ataque brutal do governo aos direitos territoriais indígenas e quilombolas. Saca do casaco de general o discurso do século passado que promoveu a política indigenista tutelar ou de incapacidade civil dos povos indígenas que os apresentavam à nação como ameaça à soberania nacional e ao desenvolvimento.</p></p>
-<p><p>Congelado no tempo, o general-ministro Augusto Heleno retoma esse discurso ideológico em pleno século XXI. Em entrevista no dia 2 de janeiro afirma que a Declaração dos Povos Indígenas da ONU é um documento espúrio e um crime de lesa-pátria, pois a autonomia indígena, para ele, uma forma própria de governo com um território e a criação de uma bandeira e de um hino resultaria na independência do índio em relação ao Brasil. Menciona como exemplo a possibilidade de o território Yanomami desmembrar-se do país, o que traria prejuízos irreparáveis para a nação.</p></p>
-<p><p>Tal afirmação, além de truculenta, não passa de uma alucinação ideológica que demonstra, inclusive, ignorância sobre a relação dos povos indígenas e a sua própria contribuição para a formação do Brasil.</p></p>
-<p><p>A retomada desse discurso autoritário pelo representante do partido das forças armadas é emblemático e revela a estratégia do governo civil-militar de justificar os ataques aos direitos territoriais, à autonomia dos povos indígenas e à legitimidade da prática antropológica ao dizer que os territórios demarcados têm por base laudos fraudulentos. Na prática sinaliza para a manutenção dos privilégios dos ruralistas e latifundiários brasileiros.</p></p>
-<p><p>É relevante ressaltar que a antropologia praticada no Brasil goza de reconhecimento nacional e internacional pela excelência na produção científica e pelo compromisso histórico e democrático com os direitos coletivos conferidos constitucionalmente as minorias. E a Associação Brasileira de Antropologia (ABA) tem sido referência e guardiã dessas conquistas!</p></p>
-<p><p>Pelo exposto, embora negue por razões ideológicas, o governo civil-militar trouxe a novidade de transformar as forças armadas em partido político, mantendo as velhas práticas e fazendo opção avassaladora pela lógica de mercado, sacrificando os direitos constitucionais e as prerrogativas reguladoras do Estado brasileiro. Nesse sentido, o que esperar desse governo umbilicalmente ligado ao norte-americano e estrategista político de extrema direita Steve Bannon, pai das <em>fake news</em> que vêm manipulando o sistema democrático na Europa, nos Estados Unidos e agora no Brasil?</p></p>
-<p><p><em>*Marcondes de A. Secundino é doutorando em antropologia, especialista em direitos indígenas e professor universitário</em></p></p>
-{% endraw %}

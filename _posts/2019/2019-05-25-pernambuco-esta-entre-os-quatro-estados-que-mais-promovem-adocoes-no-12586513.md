@@ -1,38 +1,0 @@
----
-id: 12586513
-date: "2019-05-25T16:30:06Z"
-last_modified_at: null
-tags:
-  - "animais"
-  - "entrega"
-  - "esta"
-  - "estados"
-  - "pernambuco"
-  - "quatro-pessoas"
-categories:
-  - "noticias"
-title: "Pernambuco est\u00e1 entre os quatro estados que mais promovem ado\u00e7\u00f5es no pa\u00eds"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/05/bdc466dc314f2e0d5c73fe7fc85e2f1c-1.jpg"
----
-{% raw %}
-<p><p>Segundo o último levantamento do Conselho Nacional de Justiça (CNJ), Pernambuco permanece entre os estados que mais promovem adoções no país. No ranking da instituição, ocupa o quarto lugar depois de Paraná, São Paulo e Minas Gerais. Do total de 2.183 crianças e adolescentes adotados, em 2018, por meio do Cadastro Nacional de Adoção (CNA), nos 26 estados e no Distrito Federal, 127 foram de Pernambuco. Os números foram divulgados no mês em que se comemora o Dia Nacional da Adoção, 25 de maio.</p></p>
-<p><p>O destaque continua sendo o percentual de adoções tardias, de crianças e adolescentes de 3 a 17 anos. Dos 127 adotados em 2018, no estado, 93 pertencem a essa faixa etária, o que corresponde a 73,2 % do total. Os números divulgados mostram praticamente o mesmo percentual do ano de 2017, quando dos 132 adotados, 93 estavam incluídos nessa faixa etária, equivalendo a 70,4% do geral. O crescimento de adoções de crianças e adolescentes acima de três anos começou a se tornar significativo entre 2015 e 2016, saindo de 45 para 87, ou seja, um aumento de 93,3%.</p></p>
-<p><p>Apesar do aumento percentual de adoções de crianças acima de três anos de idade, o perfil preferido pelos pretendentes à adoção em todo o país continua sendo o principal entrave para que mais crianças e adolescentes consigam uma família. A maioria ainda prefere bebês, contribuindo para que o número de pretendentes à adoção tenha uma absurda disparidade em relação ao quantitativo de crianças à espera de um novo lar no Brasil.</p></p>
-<p><p>Pernambuco possui hoje 1.191 pretendentes disponíveis para adoção e 218 crianças e adolescentes inseridos no cadastro, aptos ao processo. No Brasil, são 42.738 pretendentes à adoção e 5.036 crianças e adolescentes que podem ser adotados inscritos no cadastro. Cada ano a mais vivido numa instituição de acolhimento reduz a possibilidade da criança encontrar uma nova família, principalmente a partir dos sete anos de idade.</p></p>
-<p><p>Dados do CNJ apontam que, no Brasil, 85,56% do total disponível para adoção têm entre 7 e 17 anos de idade, equivalendo a 4.309 crianças e adolescentes. Contudo apenas cerca de 11% dos pretendentes adotariam crianças nessa faixa etária. Em Pernambuco, a realidade não é diferente. No total, 84,4 % de crianças e adolescentes disponíveis para adoção tem entre 7 e 17 anos de idade, correspondendo a 184 crianças e adolescentes, mas só 12% dos pretendentes adotariam crianças de sete anos ou mais. Perto de completar 18 anos, as chances de conseguir uma nova família são mínimas. No país, apenas 157 pessoas adotariam meninos e meninas com 17 anos de idade. No estado, quatro cadastrados aceitariam.</p></p>
-<p><p>Nesse contexto, abreviar a permanência da criança e do adolescente em instituições de acolhimento, conseguindo uma nova família para cada acolhido é a maior prioridade do Tribunal de Justiça de Pernambuco (TJPE) ao criar e implementar projetos na área de adoção. O coordenador da Infância e Juventude de Pernambuco, desembargador Luiz Carlos Figueiredo, fala sobre os desafios e das ações desenvolvidas pelo Judiciário estadual no cumprimento desse objetivo.</p></p>
-<p><p>“Instituímos projetos pioneiros no país que têm dado mais visibilidade à criança que vive no abrigo, que contribuíram para acelerar o trâmite processual para adoção de crianças e adolescentes que estão em instituições de acolhimento. Buscamos intensificar a propagação de informações que desmistificam a adoção de crianças mais velhas. Para isso, contamos com o apoio determinante dos grupos de adoção do estado junto ao Judiciário. Manter o patamar que alcançamos hoje é um desafio diário, conquistado por meio da avaliação constante do que está sendo feito, do que pode ser aperfeiçoado e de que forma podemos conseguir um melhor resultado”, disse o desembargador Luiz Carlos Figueiredo, no site do TJPE.</p></p>
-<p><p><br /></p>
-<p> <strong>Equipes do Judiciário pernambucano promovem "onda do bem" para crianças e adolescentes à espera de adoção</strong></p></p>
-<p><p>Quatro magistrados, duas promotoras e nove servidores que atuam no Fórum de Abreu e Lima, cidade localizada na Região Metropolitana do Recife, promovem, neste sábado (25/5), Dia Nacional da Adoção, a atividade "Porque faz bem ser o bem de alguém”. A iniciativa irá proporcionar um dia de brincadeiras e festas para 13 crianças e adolescentes à espera de adoção legal ou de restituição familiar. São sete meninas, incluindo uma bebê de 5 meses, e seis meninos, com idades que variam entre 3 e 16 anos, abrigadas no Instituto “Pontes para a Vida”.</p></p>
-<p><p>A iniciativa é do Centro Judiciário de Solução e Conflito e Cidadania (Cejusc) de Abreu e Lima, órgão que integra o Núcleo Permanente de Métodos Consensuais de Solução de Conflitos (Nupemec) do Tribunal de Justiça de Pernambuco (TJPE), em parceria com a Vara Regional da Infância e Juventude e demais órgão judiciais da Comarca. No total, 15 integrantes da Justiça local irão acompanhar os meninos e as meninas, proporcionando um dia de diversão no Game Station do Shopping RioMar, no horário das 10h às 13h.</p></p>
-<p><p>"Neste dia, a criança terá mais uma atenção especial do ‘padrinho’. O passeio termina com uma festa, onde haverá uma mesa de doces, além de entrega de presentes para cada criança", conta a chefe de Secretaria do Cejusc, Cristiana Wanderley Coutinho. A atividade conta com o apoio das empresas Bolo de Cecília Chaves, Doces Lucinha Cascão, Porto Fino Buffet, Bomboniere de Abreu e Lima, Lana Bandeira e loja de móveis ComFete.</p></p>
-<p><p>Entre os juízes que participam do projeto, estão a magistrada do Cejusc, Ângela Mesquita Maranhão; Hugo Bezerra, da 2ª Vara Cível; Lucas de Carvalho Viegas, da 1ª Vara Cível; e Naiana Lima, da Vara da Infância e Juventude. As promotoras Liliane Asfora e Fabiana Kiuska irão confraternizar com as crianças também. Entre os servidores, participam: Cristiana Coutinho, Claudeci Vitorino, Daniele Santana, Gabriela Guimarães, Germana Lima, Jacqueline Teixeira, Ricardo Barros, Sílvia Dantas e Wilma França.</p></p>
-<p><p><strong>Outros projetos –</strong></p></p>
-<p><p>Segundo Cristiana Coutinho, a ideia é continuar promovendo uma "onda do bem" na Comarca com a participação dos empresários locais, demais poderes e com a coordenação de projetos do Cejusc. “No próximo, juntamente com a Vara da Infância e Juventude, queremos ajudar a inserir os jovens infratores, através de capacitação e apoio psicológico, no mercado de trabalho local.” Quem desejar colaborar com as iniciativas pode buscar mais informações com os participantes. O Fórum de Abreu e Lima está localizado na avenida da Assembleia, 514, bairro do Timbó.</p></p>
-<p><p><strong>Cinema –</strong></p></p>
-<p><p>Na quarta-feira (22/5), também no shopping RioMar, 193 crianças e adolescentes acolhidos em 14 abrigos da Região Metropolitana do Recife participaram de uma sessão de cinema exclusiva. Eles assistiram ao filme “Vingadores: Ultimato”. A atividade foi promovida pela Coordenadoria da Infância e Juventude do TJPE através da Comissão Judiciária Estadual de Adoção (Ceja-PE).</p></p>
-{% endraw %}
