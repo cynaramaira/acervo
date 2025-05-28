@@ -1,40 +1,0 @@
----
-id: 12552522
-date: "2017-06-13T18:50:49Z"
-last_modified_at: null
-tags:
-  - "cidades"
-  - "decreto"
-  - "michel-temer"
-  - "ministerio"
-  - "passaporte"
-categories:
-  - "noticias"
-title: "Entidades repudiam decreto de Temer que passa autonomia de Confer\u00eancia ao Minist\u00e9rio das Cidades"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/06/temer-bruno-araujo.jpg"
----
-{% raw %}
-<p><p>Parte do Conselho Nacional das Cidades divulgou uma nota nesta terça-feira (13) sobre o decreto 9.076/2017, assinado pelo presidente Michel Temer (PMDB) há uma semana. No documento, o peemedebista faz mudanças no conselho e na Conferência do Conselho Nacional das Cidades, que tem a finalidade de formular e propor diretrizes para o desenvolvimento urbano. O foco é integrar políticas de habitação, saneamento e mobilidade através de participação social.</p></p>
-<p><p>Formado por movimentos de habitação e outras entidades como a Central Única dos Trabalhadores (CUT) e o Conselho de Arquitetura e Urbanismo (CAU), o grupo questionou o decreto alegando que a medida retira o poder de convocar e organizar a conferência do colegiado, além de adiar a 6ª Conferência Nacional para 2019. Na nota, os participantes afirmam que a nova determinação ameaça a estrutura do sistema de participação popular. "Essa grave medida desrespeita todas as entidades eleitas de forma democrática que integram o Conselho", diz o texto.</p></p>
-<p><p>Sobre a Conferência, o grupo explica que o governo federal já havia sinalizado o adiamento alegando falta de recursos. "O Conselho não concordou com o adiamento, sem que fosse apresentada uma nova data ainda este ano", reclamaram as entidades. "Um outro motivo importante para o não adiamento da conferência é que o mandato dos atuais conselheiros se encerra em julho deste ano, quando seria realizada a próxima conferência e novas eleições", completou. No decreto diz que a "Conferência Nacional das Cidades será realizada a cada quatro anos".</p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/13/habitacao-e-o-calo-da-gestao-de-geraldo-julio-no-recife/">Habitação é o calo da gestão de Geraldo Julio no Recife</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/06/com-mudancas-minha-casa-minha-vida-avanca-em-ritmo-lento/">Com mudanças, Minha Casa Minha Vida avança em ritmo lento</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/09/minha-casa-minha-vida-tera-limite-de-500-unidades-por-empreendimento/">Minha Casa Minha Vida terá limite de 500 unidades por empreendimento</a></p></p>
-<p><p>O documento também transfere os poderes sobre a conferência ao Ministério das Cidades, o que, para o grupo, retira a competência de eleger os membros do conselho. "O que dá margem a um próximo conselheiro totalmente indicado pelo governo, e retira a condição dos suplentes de membros de conselho", diz na nota.</p></p>
-<p><p>Para Felipe Cury, militante na área e dirigente do PT do Recife, o decreto é mais uma forma do governo impedir a participação da sociedade nos debates. "O governo ilegítimo do Temer apenas aplicou mais o golpe nos direitos sociais. Desta vez foi na participação popular, e nas questões relacionadas ao direito a moradia e urbanismo, já não basta a reforma trabalhista, da previdência, ele também impede a participação da sociedade em debater a política urbana no Brasil", afirma.</p></p>
-<p><p>Assinam a nota a Associação Brasileira de Engenharia Sanitária e Ambiental (ABES), Associação dos Geógrafos Brasileiros (AGB), Associação Nacional de Pós-graduação e Pesquisa em Planejamento Urbano e Regional (ANPUR), Associação Nacional dos Serviços Municipais de Saneamento (ASSEMAE), Central dos Movimentos Populares (CMP), Cáritas Brasileira, Cearah Periferia, Central Única dos Trabalhadores (CUT), Confederação Nacional das Associações de Moradores (CONAM), Conselho de Arquitetura e Urbanismo (CAU), Federação Nacional dos Arquitetos (FNA), Fundação Bento Rubião, Habitat para a Humanidade Brasil, Instituto Brasileiro de Direito Urbanístico (IBDU), Instituto dos Arquitetos do Brasil (IAB), Instituto Pólis, Movimento de Luta nos Bairros e Favelas (MLB), Movimento Nacional de Luta por Moradia (MNLM), Movimento Nacional pelo Direito ao Transporte Público (MDT), Observatório das Metrópoles, Terra de Direitos e União Nacional por Moradia Popular (UNMP).</p></p>
-<p><h2>Leia a íntegra </h2></p>
-<p><p><em>"Em meio ao 6º Ciclo de Conferências das Cidades e às vésperas da data prevista para realização da Conferência Nacional, o governo federal publicou em 8 de junho o decreto 9.076/2017, que de forma resumida, retira o poder de convocar e organizar a Conferência do Conselho Nacional das Cidades e adia a 6ª Conferência Nacional para 2019.</em></p></p>
-<p><p><em>Essa grave medida desrespeita todas as entidades eleitas de forma democrática que integram o Conselho e ameaça a estruturação de um sistema de participação popular e gestão democrática, previsto na lei 10.257/2001, o Estatuto das Cidades.</em></p></p>
-<p><img class="size-full wp-image-181474" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/06/entidades-conferência-cidades.jpg" alt="" width="750" height="410" /> Foto: Divulgação</p>
-<p><p><em>É importante lembrar que desde o ano passado o governo federal vem sinalizando o adiamento da Conferência, alegando falta de recursos. Contudo, o Conselho não concordou com o adiamento, sem que fosse apresentada uma nova data ainda este ano. Um outro motivo importante para o não adiamento da conferência é que o mandato dos atuais conselheiros se encerra em julho deste ano, quando seria realizada a próxima conferência e novas eleições.</em></p></p>
-<p><p><em>Também vale registrar que conselheiros e conselheiras do Concidades chegaram a convocar uma reunião extraordinária para os dias 12 e 13 de junho, através de um requerimento com maioria absoluta dos conselheiros, justamente para tratar dos rumos da conferencia e do conselho. Como resposta a essa movimentação, o governo convocou uma reunião para o fim de junho, certamente para desmobilizar a reunião convocada pelos conselheiros e conselheiras, e publicou o decreto transferindo os poderes sobre a Conferência ao Ministério das Cidades.</em></p></p>
-<p><p><em>O decreto também retira a competência da conferência de eleger os membros do conselho, o que dá margem a um próximo conselho totalmente indicado pelo governo, e retira a condição dos suplentes de membros do conselho, o que compromete a participação dos mesmos nas reuniões.</em></p></p>
-<p><p><em>Pelos motivos expostos, as entidades abaixo assinadas REPUDIAM a medida arbitrária do governo Golpista de Temer materializada no decreto 9.076/2017 e EXIGEM sua revogação imediata."</em></p></p>
-<p><h2>Resposta sobre o decreto</h2></p>
-<p><p>Em nota, o Ministério das Cidades afirmou que a mudança no cronograma da conferência é para dar uma nova oportunidade a municípios e estados que não fizeram eventos próprios, uma etapa preparatória para o nacional. "O decreto permite a realização das conferências estaduais e municipais sem prejuízo das que já ocorreram anteriormente. De 5.570 municípios, apenas 1.367 se reuniram dentro do cronograma: Alagoas, Bahia, Goiás e São Paulo já realizaram seus encontros", diz a pasta em nota. "Uma das dificuldades encontradas para a realização da Conferência é o encontro em anos de pleitos eleitorais, o que em alguns casos dificulta a adesão de todos os estados e municípios nas etapas preparatórias. Como o objetivo dos encontros estaduais e municipais é permitir o debate e construção de políticas públicas de desenvolvimento urbano e que acolhem a participação de amplos segmentos da sociedade, o decreto agora diz que a conferência será realizada a cada quatro anos."</p></p>
-{% endraw %}

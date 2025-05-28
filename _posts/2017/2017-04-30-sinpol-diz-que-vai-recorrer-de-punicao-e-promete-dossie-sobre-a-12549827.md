@@ -1,30 +1,0 @@
----
-id: 12549827
-date: "2017-04-30T12:19:16Z"
-last_modified_at: null
-tags:
-  - "policia-civil"
-  - "sinpol"
-categories:
-  - "noticias"
-title: "Sinpol diz que vai recorrer de puni\u00e7\u00e3o e promete dossi\u00ea sobre a Pol\u00edcia Civil"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/09/\u00c1ureo-Cisneiros.jpg"
----
-{% raw %}
-<p><p>Após a suspensão do presidente do Sindicato dos Policiais Civis de Pernambuco (Sinpol-PE), Áureo Cisneiros, pela Corregedoria da Secretaria de Defesa Social (SDS), a entidade divulgou uma nota neste domingo (30) contra a punição. O texto afirma que a medida adotada pelo governo Paulo Câmara (PSB) é uma decisão política e a classificou como perseguição. A penalidade foi publicada no Boletim Geral da pasta nessa sexta-feira (28), dia em que o sindicato aderiu à greve geral convocada por centrais sindicais e movimentos sociais contra as reformas da Previdência e trabalhista.</p></p>
-<p><p>A entidade disse que vai recorrer na Justiça e prometeu divulgar em junho um dossiê denunciando as condições de trabalho dos policiais.</p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/04/28/corregedoria-da-sds-pune-presidente-do-sindicato-dos-policiais-civis/">Corregedoria da SDS pune presidente do Sindicato dos Policiais Civis</a></p></p>
-<p><p>Duas portarias no documento informam sobre a punição contra Áureo Cisneiros, cada um suspendendo o agente da Polícia Civil por 10 dias. Ambas o acusam de invadir, sem autorização, o Instituto de Medicina Legal (IML) do Recife, além de atrapalhar as atividades no local. </p></p>
-<p><p>"Os imputados invadiram a sala de necropsia do IMLAPC, filmando e fotografando tudo e dando voz de prisão aos servidores que ali estavam cumprindo sua obrigação", diz uma das decisões. A outra denúncia é de que o presidente do sindicato entrou no prédio no início de março com a imprensa e causou, segundo o Boletim Geral, "transtornos de toda ordem, agindo em desobediência às mais simples regas de convivência social e urbanidade".</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/04/25/corregedoria-da-sds-determina-primeiras-prisoes-para-grevistas-da-pm/">Corregedoria da SDS determina primeiras prisões para grevistas da PM</a></p></p>
-<p><p>O Sinpol afirma na nota a punição é "descabida", denuncia as condições de trabalho dos policiais no IML e acusa o governo Paulo Câmara de "jogar a responsabilidade por seu desgoverno em suas vítimas". Segundo o sindicato, há relatos de "casos de policiais que ficaram cegos, outros que contraíram tuberculose e diariamente centenas de cidadãos se expõem a graves riscos, em virtude das deficiências e insalubridade do local".</p></p>
-<p><p>» <strong>Leia a nota do Sindicato dos Policiais Civis:</strong></p></p>
-<p><p><em>Demonstrando estar totalmente desconectado da realidade, o governador de Pernambuco, Paulo Câmara, tem insistido na estratégia de jogar a responsabilidade por seu desgoverno em suas vítimas. Foi assim diante do crescimento assustador dos casos de estupro – quando orientou as mulheres a não beberem e a voltarem cedo para casa; no crescimento vertiginoso em todas as modalidades de crimes praticados no estado, situação que ele avalia como “desconfortável” e que está sendo superestimada; e quando se pronunciou contra a maior greve geral da história do país, se colocando ao lado do governo ilegítimo de Michel Temer e a favor da reforma da Previdência.</em></p></p>
-<p><p><em>Não satisfeito, usando um dos seus assessores, o secretário de Defesa Social, Ângelo Gioia, agora decidiu punir administrativamente o presidente do Sindicato dos Policiais Civis de Pernambuco (Sinpol), Áureo Cisneiros. Dessa vez, por denunciar e mostrar, através da imprensa, as péssimas condições em que funcionavam e funcionam até hoje o Instituto de Medicina Legal (IML). O intrigante é que a punição foi aplicada justamente em meio ao protagonismo do Sinpol na organização das mobilizações que culminaram com a greve geral e um grandioso ato que levou mais de 100.000 pessoas ao Centro do Recife contra as reformas de Temer que o governador apoia.  A decisão, totalmente política, evidencia uma reiterada prática do governo de Paulo Câmara, independentemente de quem venha a estar como secretário de Defesa Social: a perseguição.</em></p></p>
-<p><p><em>Há cerca de dois anos o Sinpol vem denunciando a falta de condições de trabalho a que os Policiais Civis de Pernambuco estão submetidos diariamente. O armamento com o qual trabalham está defasado e apresenta diversos casos de falha, não há coletes à prova de balas em número suficiente, o efetivo é de metade do necessário, faltam viaturas, gasolina, papel para imprimir Boletins de Ocorrência, limpeza e tantas outras coisas. Além disso, a maioria dos imóveis em que estão instaladas as delegacias e institutos da Polícia Civil não tem condição alguma de oferecer o mínimo de conforto para policiais e cidadãos.</em></p></p>
-<p><p><em>É o caso do IML, situação denunciada pelo Sinpol que gerou a descabida punição. Nas instalações do instituto há registros de casos de Policiais que ficaram cegos, outro que contraíram tuberculose e diariamente centenas de cidadãos se expõem a graves riscos, em virtude das deficiências e insalubridade do local. Diante de uma realidade tão grave, nos assusta que o caso esteja sendo usado como instrumento de perseguição política e pressão institucional. Dito isso, anunciamos que vamos recorrer judicialmente e para demonstrar que esse tipo de atitude não nos intimidará, divulgaremos em junho um novo dossiê com a realidade que o governador e seu secretário tentam esconder: não há efetivo suficiente e muito menos condições de trabalho dignas para a Polícia Civil.</em></p></p>
-{% endraw %}

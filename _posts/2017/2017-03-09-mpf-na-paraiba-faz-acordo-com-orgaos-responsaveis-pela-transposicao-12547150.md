@@ -1,46 +1,0 @@
----
-id: 12547150
-date: "2017-03-09T10:20:50Z"
-last_modified_at: null
-tags:
-  - "acordo"
-  - "paraiba"
-  - "transposicao"
-categories:
-  - "noticias"
-title: "MPF na Para\u00edba faz acordo com \u00f3rg\u00e3os respons\u00e1veis pela Transposi\u00e7\u00e3o"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/02/transposicao2.jpg"
----
-{% raw %}
-<p><p>Às vésperas da chegada da água da Transposição do Rio São Francisco à cidade de Monteiro, na Paraíba, o Ministério Público Federal (MPF) local fechou acordos com órgãos estaduais e federais nessa quarta-feira (8) sobre a segurança das obras, que ainda não foram concluídas. A água que vai chegar ao estado é do eixo leste do projeto, captada em Floresta, no Sertão pernambucano. A previsão é que a inauguração seja nesta sexta-feira (10), dia em que o presidente Michel Temer (PMDB) faz a terceira visita em três meses aos canteiros.</p></p>
-<p><p>Uma semana após o <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/04/vazamento-em-barragem-da-transposicao-em-sertania-e-controlado/">vazamento no reservatório de Barreiros, em Sertânia</a>, no Sertão pernambucano, e depois de uma recomendação do MPF na Paraíba sobre as barragens do projeto, um dos assuntos da reunião foi a segurança desses equipamentos. Com isso, será responsabilidade do Dnocs (Departamento Nacional de Obras Contra as Secas) elaborar um plano de segurança para a barragem de Camalaú e para o açude de Poções.</p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/08/com-visita-de-temer-agua-da-transposicao-chega-paraiba-na-sexta/">Com visita de Temer, água da Transposição chega à Paraíba na sexta</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/07/apos-cobrar-paternidade-lula-visita-obras-da-transposicao/">Após cobrar paternidade, Lula visita obras da Transposição</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/02/mpf-diz-que-e-dificil-agua-da-transposicao-chegar-paraiba-agora/">MPF diz que “é difícil” água da Transposição chegar à Paraíba agora</a></p></p>
-<p><p>Esse reservatório será o primeiro da Paraíba a receber a água da Transposição do São Francisco. Depois, a água seguirá pelo Rio Paraíba até Campina Grande.</p></p>
-<p><p>Caberá à Aesa (Agência Executiva de Gestão das Águas do Estado da Paraíba) analisar a capacidade do Rio Paraíba de receber a vazão máxima da Transposição de forma sustentável e elaborar um plano de revitalização para o rio. A Cagepa (Companhia de Água e Esgotos da Paraíba) deverá avaliar a qualidade da água mensalmente.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/08/novela-da-licitacao-do-eixo-norte-da-transposicao-continua-governo-temer-inabilita-segunda-colocada-na-disputa/">Novela da licitação do Eixo Norte da Transposição continua. Governo Temer inabilita segunda colocada na disputa</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/06/agua-da-transposicao-deve-chegar-paraiba-no-sabado-diz-ministro/">Temer visita pela terceira vez obras da Transposição no Nordeste</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/12/21/ministerio-responsabiliza-construtoras-da-transposicao-do-sao-francisco-por-paralisacao-na-obra/">Ministério responsabiliza construtoras da Transposição do São Francisco por paralisação na obra</a></p></p>
-<p><p>Quase três meses após <a href="https://blogs.ne10.uol.com.br/jamildo/2016/12/15/mpt-recomenda-que-consorcios-da-transposicao-paralisem-obra-no-eixo-leste/">recomendar a paralisação das obras no Túnel Monteiro, apontando risco de acidente de trabalho, o Ministério Público do Trabalho (MPT)</a> ainda ressaltou na reunião a importância do cumprimento das normas de segurança e saúde do trabalho. Com isso, o Ministério da Integração Nacional responsabilizou as empresas que gerenciam as obras, a CMT Ambiental e a Magna Engenharia, e se comprometeu a enviar os contratos.</p></p>
-<p><h1>Briga política pela Transposição</h1></p>
-<p><p>Antes ir para o estado vizinho, a água chegou ao município pernambucano de Sertânia, onde fica a barragem que apresentou vazamento, no último dia 24, após uma <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/21/geraldo-alckmin-visita-projeto-das-aguas-da-transposicao-em-floresta-e-custodia-nesta-quarta/">visita do ministro com o governador de São Paulo, Geraldo Alckmin (PSDB)</a>. Através da Sabesp (Companhia de Saneamento Básico do Estado de São Paulo), o tucano, que tem planos de se candidatar à presidência, cedeu bombas para o projeto. Alckmin é só um dos nomes que usam a estratégia de ficar ligados à transposição.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/04/vazamento-em-barragem-da-transposicao-em-sertania-e-controlado/">Vazamento em barragem da Transposição em Sertânia é controlado</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/03/cerca-de-60-familias-foram-removidas-apos-vazamento-na-transposicao/">Cerca de 60 famílias foram removidas após vazamento na Transposição</a></p></p>
-<p><p>Outro é o próprio Temer. Com baixa popularidade – a avaliação positiva do governo baixou para 10,3% na última pesquisa CNT/MDA, divulgada em fevereiro -, a conclusão da transposição é usada pelo peemedebista para tentar alavancar a imagem positiva no Nordeste, que tem áreas atingidas pela seca há mais de cinco anos.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/02/pelas-redes-sociais-lula-cobra-paternidade-da-transposicao-do-sao-francisco/">Lula cobra paternidade da Transposição do São Francisco após visitas de Temer e Alckmin</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/24/transposicao-restam-53-km-para-agua-chegar-monteiro-na-paraiba/">Transposição: restam 53 km para água chegar a Monteiro, na Paraíba</a></p></p>
-<p><p>De olho na movimentação dos dois, o ex-presidente Lula (PT) tem investido na comunicação e na militância para também se aproximar da obra, iniciada em 2007, no seu segundo mandato. A transposição era esperada desde o período do Império e foi promessa dos presidentes anteriores ao petista. De olho nos créditos por ter iniciado a obra, Lula tem divulgado vídeos nas redes sociais e, no último sábado (4), o líder da oposição no Senado, Humberto Costa (PT-PE) levou prefeitos petistas para a transposição para exaltar a imagem de Lula. Em discurso recheado de críticas a Alckmin e Temer, <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/07/apos-cobrar-paternidade-lula-visita-obras-da-transposicao/">Humberto ainda anunciou que o próprio ex-presidente vem a Pernambuco e à Paraíba ainda este mês</a>.</p></p>
-<p><p><iframe src='https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2FBlogdeJamildo%2Fvideos%2F1377110359014057%2F&show_text=false&width=560&t=0' width='560' height='315' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe></p></p>
-<p><p>De acordo com o Ministério da Integração Nacional, 96,89% do eixo leste estão concluídos até agora. Em maio, quando Temer assumiu a presidência ainda interinamente, antes da consolidação do impeachment de Dilma Rousseff (PT), a obra estava com 84,4% de conclusão nesse trecho.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/30/parado-trecho-do-eixo-norte-da-transposicao-sai-este-ano-promete-temer/">Parado, trecho do eixo norte da transposição sai este ano, promete Temer</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/30/em-floresta-temer-aciona-terceira-estacao-de-bombeamento-da-transposicao/">Em Floresta, Temer aciona terceira estação de bombeamento do eixo leste da transposição</a></p></p>
-<p><p>No eixo norte, mais problemático por estar com obras paradas há mais de seis meses em um trecho, 94,52% estão concluídas. Porém, não há previsão prática para retomar a construção - embora o ministério espere assinar o contrato ainda este mês e Temer tenha prometido entregá-lo até o fim do ano. Envolvida na Operação Lava Jato, a Mendes Júnior abandonou o canteiro alegando dificuldade de obter crédito e a licitação para escolher a nova empreiteira está em andamento. Duas já foram desabilitadas.</p></p>
-<p><p>» Leia a ata da reunião:</p></p>
-<p><p><iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/E06oMUgDVgKIBp" width="100%" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p></p>
-<p><div style="margin-bottom: 5px;"><strong> <a title="Ata da reunião do MPF sobre a Transposição" href="//www.slideshare.net/JCOnLine/ata-da-reunio-do-mpf-sobre-a-transposio" target="_blank">Ata da reunião do MPF sobre a Transposição</a> </strong> from <strong><a href="//www.slideshare.net/JCOnLine" target="_blank">Portal NE10</a></strong></div></p>
-{% endraw %}

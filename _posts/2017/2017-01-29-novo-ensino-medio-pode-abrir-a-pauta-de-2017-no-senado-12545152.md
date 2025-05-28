@@ -1,58 +1,0 @@
----
-id: 12545152
-date: "2017-01-29T18:53:56Z"
-last_modified_at: null
-tags:
-  - "ensino-medio"
-  - "novos"
-  - "oscar-2017"
-  - "senado"
-categories:
-  - "noticias"
-title: "Novo ensino m\u00e9dio pode abrir a pauta de 2017 no Senado"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/12/senado.jpg"
----
-{% raw %}
-<p><p><em>Agência Senado</em> - O Senado iniciará seus trabalhos de 2017 analisando o projeto de reestruturação do ensino médio, enviado pelo governo federal sob a forma de medida provisória. Será o primeiro grande tema num ano que deve ser marcado por discussões sobre propostas de reformas econômicas e sociais de grande impacto.</p></p>
-<p><p>Além da iniciativa sobre a educação, a reforma da Previdência Social também será destaque da atividade parlamentar. Apesar de ainda estar tramitando na Câmara dos Deputados, ela já foi alvo de duas audiências públicas no Senado e deve seguir mobilizando os senadores mesmo enquanto não chega à Casa.</p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/18/pmdb-negocia-superbancada-no-senado/">PMDB negocia ‘superbancada’ no Senado</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/16/sem-crise-fbc-e-humberto-costa-aumentam-gastos-no-senado/">Sem crise, FBC e Humberto Costa aumentam gastos no Senado</a></p></p>
-<p><p>Outros assuntos relevantes já fazem parte do dia-a-dia do Senado desde 2016 e continuarão a mobilizar os debates e as articulações políticas em 2017. Entre eles estão as mudanças na legislação trabalhista, a restrição aos “super-salários” no serviço público e as dívidas dos estados com a União.</p></p>
-<p><h1>Ensino médio</h1></p>
-<p><p>A medida promove a reorganização do ensino médio, com a estruturação do currículo em blocos temáticos, menos disciplinas obrigatórias e estímulo à educação integral. Já aprovada pela Câmara dos Deputados, ela tranca a pauta do Senado e será obrigatoriamente o primeiro tema a ser votado a partir do dia 2 de fevereiro, quando as deliberações recomeçam.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/12/02/reforma-do-ensino-medio-deve-ser-aprovada-com-folga-na-camara-diz-mendonca-filho/">“Reforma do ensino médio deve ser aprovada com folga na Câmara”, diz Mendonça Filho</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2016/12/14/camara-aprova-exigencia-de-filosofia-sociologia-e-educacao-fisica-no-ensino-medio/">Câmara aprova exigência de filosofia, sociologia e educação física no ensino médio</a></p></p>
-<p><p>O texto amplia de 800 para 1.400 horas anuais a carga horária do ensino médio ao longo dos próximos cinco anos e reestrutura o currículo em cinco “itinerários formativos”, com diferentes ênfases — cada estudante escolherá o que julgar mais adequado para si. As únicas disciplinas que serão comuns a todos os itinerários e obrigatórias durante todo o ensino médio serão matemática, português, inglês, educação física, artes, filosofia e sociologia.</p></p>
-<p><p>Alvo de nove audiências públicas durante sua passagem por comissão mista, a proposta foi duramente criticada por sindicatos e associações de professores e estudantes, mas recebeu elogios de pesquisadores e especialistas da área. Estes, porém, pediram atenção ao financiamento da expansão da educação integral e à formação de educadores. A escolha da ferramenta da medida provisória para o tema foi vista com reservas por todos os debatedores.</p></p>
-<p><h1>Previdência</h1></p>
-<p><p>A reforma da Previdência encaminhada pelo Poder Executivo foi aprovada pela Comissão de Constituição, Justiça e Cidadania (CCJC) da Câmara dos Deputados e ainda precisará passar por uma comissão especial antes da deliberação do Plenário daquela Casa. Antes mesmo de chegar ao Senado, porém, ela já é um dos assuntos mais discutidos pelos senadores e é considerada um objetivo prioritário do ano.</p></p>
-<p><p>A reforma estabelece a idade mínima de 65 anos para a aposentadoria de homens e mulheres, com o requisito de 25 anos de contribuição ao sistema previdenciário. Entretanto, para que o trabalhador receba a aposentadoria integral (teto do Regime Geral de Previdência Social), será necessário ter contribuído por 49 anos. Para tempos de contribuição menores do que isso, o valor da aposentadoria será proporcional. A regra também se aplica aos servidores públicos, mas exclui os militares.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/16/aecio-defende-em-artigo-mudancas-na-reforma-da-previdencia/">Aécio defende em artigo mudanças na reforma da Previdência</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/05/se-tem-excessos-vamos-corrigir-afirma-maia-sobre-reforma-da-previdencia/">“Se tem excessos, vamos corrigir”, afirma Maia sobre Reforma da Previdência</a></p></p>
-<p><p><iframe style="width: 315px; float: left; margin: 0 20px 20px 0; border: 0; height: 600px;" src="https://produtos.ne10.uol.com.br/enquete/enquete/voce-concorda-com-a-reforma-da-previdencia,index.html" width="300" height="150"></iframe></p></p>
-<p><p>A proposta também modifica regras de concessão da pensão por morte (50% dos proventos do segurado mais 10% para cada dependente) e da aposentadoria por invalidez (51% da média dos salários mais 1% para cada ano de contribuição, ou 100% em caso de aposentadoria motivada por acidente de trabalho).</p></p>
-<p><p>Duas audiências públicas foram realizadas em dezembro para discutir a proposta, uma pela Frente Parlamentar Mista em Defesa da Previdência Social e uma pela Comissão de Direitos Humanos e Legislação Participativa (CDH). Os debatedores participantes de ambas criticaram não apenas o modelo apresentado pelo governo federal como também a afirmação de que a Previdência Social seja deficitária.</p></p>
-<p><h1>Trabalho</h1></p>
-<p><p>O presidente Michel Temer também deverá enviar ao Congresso uma proposta de reforma trabalhista, com alterações na Consolidação das Leis do Trabalho (CLT). Algumas medidas já conhecidas que o governo federal deve introduzir são o fortalecimento das negociações coletivas, que poderiam se sobrepor à legislação em alguns pontos (jornada, férias, intervalos), a reorganização da carga horária semanal e a possibilidade de expansão dos contratos de trabalho temporário.</p></p>
-<p><p>Outro ponto que concerne a reestruturação do trabalho é o projeto que amplia as hipóteses de terceirização. Ele existia desde 2004, foi aprovado pela Câmara em 2015 e agora está pronto para ser pautado no Plenário do Senado. Trata-se do Projeto de Lei da Câmara (PLC) 30/2015.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/12/27/discussao-sobre-reforma-da-previdencia-deve-mobilizar-parlamentares-e-sociedade-em-2017/">Discussão sobre a Reforma da Previdência deve mobilizar parlamentares e sociedade em 2017</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/03/rodrigo-maia-preve-votacao-da-reforma-da-previdencia-ate-marco/">Rodrigo Maia prevê votação da Reforma da Previdência até março</a></p></p>
-<p><p>O projeto permite que uma empresa terceirize todas as suas atividades, e não apenas as chamadas “atividades-meio” (aquelas que não são inerentes ao trabalho da companhia, como limpeza e segurança). Ele estipula responsabilidades que a empresa contratante terá perante os trabalhadores terceirizados, como recolhimento antecipado de benefícios e fornecimento de atendimento médico e alimentação.</p></p>
-<p><p>Apesar de ainda não ter recebido parecer do relator, senador Paulo Paim (PT-RS), a proposta já chegou a ser incluída na pauta do Plenário, uma vez que tramita em conjunto com dois outros projetos que já estão prontos para votação. Paim afirmou que a matéria traz grande preocupação pela possibilidade de perda salarial e de benefícios previdenciários para os trabalhadores envolvidos e disse que apresentará um substitutivo revertendo vários dispositivos do projeto.</p></p>
-<p><h1>Outros temas</h1></p>
-<p><p>Entre outros projetos com os quais o Senado poderá ter que lidar logo no início das atividades legislativas de 2017 está a medida provisória que reestrutura a Empresa Brasileira de Comunicação (EBC). A medida tem prazo de validade apenas até o dia 9 de fevereiro e, se não for votada pelos senadores até essa data, perderá todos os seus efeitos. Ela tem relatório favorável do senador Lasier Martins (PDT-RS).</p></p>
-<p><p>A medida muda a forma de indicação do presidente da EBC, atribuindo o ato à Casa Civil. Além disso, o Senado precisará aprovar o nome. O texto também substitui o Conselho Curador da empresa por um Comitê Editorial e de Programação, com foco exclusivo na avaliação da programação e composto por membros indicados por entidades representativas de setores da sociedade.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/12/pec-de-senador-tucano-tornaria-lula-inelegivel-a-presidencia-entenda/">PEC de senador tucano tornaria Lula inelegível à presidência. Entenda</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/10/medidas-anticorrupcao-voltam-pauta-do-senado-em-2017/">Medidas anticorrupção voltam à pauta do Senado em 2017</a></p></p>
-<p><p>Uma das principais linhas de atuação do Senado na reta final de 2016 foi o combate aos “super-salários” do serviço público — remunerações acima do teto constitucional, pagas a alguns funcionários e autoridades. Ainda resta uma proposta a ser votada sobre esse assunto: a Proposta de Emenda à Constituição (PEC) 62/2015. Ela extingue a vinculação automática entre salários de autoridades, o chamado “efeito-cascata”. Ela também determina que as remunerações de membros dos três Poderes, detentores de mandatos eletivos, ministros e secretários estaduais e municipais devem ser pagas em parcela única, sendo proibidos quaisquer adicionais.</p></p>
-<p><p>A PEC já pode ser votada no Plenário, possuindo relatório favorável do senador Vicentinho Alves (PR-TO).</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/12/24/de-olho-na-presidencia-do-senado-eunicio-tenta-se-distanciar-da-imagem-de-renan/">De olho na presidência do Senado, Eunício tenta se distanciar da imagem de Renan</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2016/12/21/senador-tucano-diz-que-carmen-lucia-seria-melhor-opcao-para-substituir-temer/">Senador tucano diz que Cármen Lúcia seria melhor opção para substituir Temer até eleição direta</a></p></p>
-<p><p>Dois projetos que chegaram ao Plenário no final do ano passado, mas que retornaram para comissões, devem voltar à pauta. O primeiro é o PLS 204/2016, do senador José Serra (PSDB-SP), permite que os entes da federação vendam para a iniciativa privada o direito sobre suas dívidas a receber — processo chamado de securitização.</p></p>
-<p><p>Ele chegou a ser discutido em Plenário, mas fez nova passagem pela Comissão de Assuntos Econômicos (CAE) para ajustes. Apesar de pressão da base do governo, não teve sua votação concluída. Ele inicia o ano de 2017 no início da fila de votações.</p></p>
-<p><p>Já o PLS 186/2014 prevê a legalização e regulamentação dos jogos de azar no território nacional. Ele havia sido apreciado apenas pela Comissão Especial do Desenvolvimento Nacional (CEDN) mas, após críticas em Plenário, seguiu para análise na Comissão de Constituição, Justiça e Cidadania (CCJ), onde aguarda a escolha de um relator.</p></p>
-{% endraw %}

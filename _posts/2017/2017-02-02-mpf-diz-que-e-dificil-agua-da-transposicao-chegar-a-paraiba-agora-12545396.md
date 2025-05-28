@@ -1,44 +1,0 @@
----
-id: 12545396
-date: "2017-02-02T18:55:01Z"
-last_modified_at: null
-tags:
-  - "agua"
-  - "paraiba"
-  - "transposicao"
-categories:
-  - "noticias"
-title: "MPF diz que \"\u00e9 dif\u00edcil\" \u00e1gua da Transposi\u00e7\u00e3o chegar \u00e0 Para\u00edba agora"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/02/transposi\u00e7\u00e3o-monteiro.jpg"
----
-{% raw %}
-<p><p>Apontando problemas ambientais e de infraestrutura nas obras do eixo leste da Transposição do Rio São Francisco, a Procuradora da República Janaína Andrade de Sousa, do Ministério Público Federal em Monteiro (MPF-PB) fez, nesta quinta-feira (2), recomendações a órgãos estaduais e federais para que tomem providências. Ao contrário do que o ministro da Integração, Helder Barbalho, e o presidente Michel Temer (PMDB) têm anunciado, uma vistoria técnica feita pelo órgão apontou que é difícil a chegada da água até o açude de Poções no fim de fevereiro e que em um mês também não deve ser levada água com sustentabilidade de Camalaú até Boqueirão.</p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/01/menor-preco-para-concluir-eixo-norte-da-transposicao-foi-de-r-44221-milhoes/">Menor preço para concluir eixo norte da Transposição foi de R$ 442,21 milhões</a></p></p>
-<p><p>Segundo a recomendação expedida nesta quinta-feira (leia a íntegra do documento no fim do <em>post</em>), antes de iniciar o bombeamento que vai levar a água até Monteiro, o Ministério da Integração Nacional deverá garantir que as obras complementares foram implementadas. Entre essas intervenções estão a recuperação e a adequação das barragens de Poções e Camalaú, estratégicas para a transposição. Além disso, a pasta deverá assegurar que a limpeza do leito do rio Paraíba e a impermeabilização dos canais urbanos de Monteiro estarão prontas.</p></p>
-<p><p>Em nota, o ministério afirmou que não recebeu notificação sobre a recomendação e garantiu que "no exercício de suas atribuições, realizará todas as vistorias, fiscalizações e supervisões inerentes à obra, garantindo a plena funcionalidade ao projeto, dentro de rigorosos padrões de qualidade". Além disso, lembrou que Helder Barbalho, em visita técnica ao eixo leste no último dia 18, "destacou o esforço realizado pelos governos federal, estadual e municipal para assegurar disponibilidade de água em quantidade e condições apropriadas", ressaltando que as obras de esgotamento sanitário estão sendo feitas pela Fundação Nacional de Saúde (Funasa) e a Prefeitura de Monteiro.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/30/parado-trecho-do-eixo-norte-da-transposicao-sai-este-ano-promete-temer/">Parado, trecho do eixo norte da transposição sai este ano, promete Temer</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/30/em-floresta-temer-aciona-terceira-estacao-de-bombeamento-da-transposicao/">Em Floresta, Temer aciona terceira estação de bombeamento do eixo leste da transposição</a></p></p>
-<p><p>O laudo de engenharia interno do MPF afirmou que o prazo estipulado pelo governo federal para entrega da obra, 28 de fevereiro, é curto para que a PB Construções, responsável pela obra, conclua o serviço. A obra está orçada em mais de R$ 19 milhões.</p></p>
-<p><p>"O que queremos é entender como uma obra dessa, de tamanha importância e alto custo, estará pronta daqui a um mês, já que sequer foi iniciada e a empresa ainda nem assinou o contrato. Neste momento não se discute se a transposição é ou não a solução apta para resolver o problema de abastecimento de água no semiárido paraibano. Queremos ter o melhor dela, com a menor quantidade de danos possível", afirmou a procuradora em reunião realizada na última sexta-feira (27), em João Pessoa, para debater os problemas apontados na vistoria.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/18/em-pernambuco-ministro-aciona-primeira-bomba-da-transposicao-emprestada-por-alckmin/">Em Pernambuco, ministro aciona primeira bomba emprestada por Alckmin para Transposição</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/04/governo-temer-ja-usa-transposicao-para-tentar-melhorar-popularidade-no-nordeste/">Governo Temer já usa transposição para tentar melhorar popularidade no Nordeste</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/30/ministro-sugere-que-temer-sera-lembrado-por-garantir-investimentos-hidricos-ao-nordeste/">Ministro sugere que Temer será lembrado por garantir investimentos hídricos ao Nordeste</a></p></p>
-<p><p>Responsável pela transposição, a Integração Nacional ainda deverá verificar se o "rasgo" ou o "corte" que será feito está de acordo com o projeto básico apresentado na contratação. Isso porque, após avaliação técnica, não ficou claro se a intervenção respeita o plano de segurança de barragens e se o açude de Poções tem plano de ação de emergência. O equipamento, segundo a recomendação, é classificado como de alto risco pela Agência Nacional de Águas (ANA), outro alvo do documento, devendo verificar se o "rasgo" está de acordo com o plano de barragens. O MPF instaurou um inquérito civil público para acompanhar esse trecho da transposição.</p></p>
-<p><p>Um especialista consultado pelo <a href="https://blogs.ne10.uol.com.br/jamildo/">Blog de Jamildo</a> afirmou que cautela é essencial para a segurança das barragens e que o esgotamento sanitário também é importante, mas defendeu que essa obra não deveria ser pré-requisito para que a água chegue à calha dos rios.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/30/atrasado-ramal-do-agreste-fica-para-2020/">Já atrasado, Ramal do Agreste fica para 2020</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2016/12/21/ministerio-responsabiliza-construtoras-da-transposicao-do-sao-francisco-por-paralisacao-na-obra/">Justiça do Trabalho suspende obras na Transposição do São Francisco</a></p></p>
-<p><p>Temer e Helder Barbalho estiveram em Pernambuco no início da semana para inaugurar a terceira estação de bombeamento, em Floresta, no Agreste do Estado. A expectativa do governo federal é de terminar ainda no primeiro semestre o eixo leste, que está com 96,4% das obras concluídas, de acordo com o Ministério da Integração Nacional. A construção do canal da transposição começou em 2007, ainda no governo Lula (PT), com previsão inicial de acabar três anos depois. </p></p>
-<p><p>O eixo norte é mais problemático. O trecho entre Cabrobó (PE) e Jati (CE) está parado há quase seis meses, desde que a Mendes Júnior, envolvida na Operação Lava Jato, deixou o canteiro. Uma nova licitação está sendo realizada e as propostas foram abertas nessa quarta-feira (1º), com previsão de que o contrato seja assinado até março. Na visita a Pernambuco, Temer prometeu a conclusão até o fim do ano. A avaliação política é de que o presidente vai usar a transposição para melhorar a imagem no Nordeste.</p></p>
-<p><p>» <strong>Leia a íntegra da recomendação do MPF sobre a transposição:</strong></p></p>
-<p><p><iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/4CG0TfhDne5cYX" width="100%" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p></p>
-<p><div style="margin-bottom: 5px;"><strong> <a title="MPF diz que &quot;é difícil&quot; água da Transposição chegar à Paraíba agora" href="//www.slideshare.net/JCOnLine/mpf-diz-que-difcil-gua-da-transposio-chegar-paraba-agora" target="_blank">MPF diz que "é difícil" água da Transposição chegar à Paraíba agora</a> </strong> from <strong><a href="//www.slideshare.net/JCOnLine" target="_blank">Portal NE10</a></strong></div></p>
-<p><div style="margin-bottom: 5px;"></p>
-<p><p>» <strong>Leia o relatório do TCU sobre a transposição:</strong></p></p>
-<p><iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/K2DTSu0UwQYuCL" width="100%" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p>
-<p><div style="margin-bottom: 5px;"><strong> <a title="Leia o relatório do TCU sobre as obras da Transposição do São Francisco" href="//www.slideshare.net/JCOnLine/leia-o-relatrio-do-tcu-sobre-as-obras-da-transposio-do-so-francisco" target="_blank">Leia o relatório do TCU sobre as obras da Transposição do São Francisco</a> </strong> from <strong><a href="//www.slideshare.net/JCOnLine" target="_blank">Portal NE10</a></strong></div></p>
-<p></div></p>
-{% endraw %}

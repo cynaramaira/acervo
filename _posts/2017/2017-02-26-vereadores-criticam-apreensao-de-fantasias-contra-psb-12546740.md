@@ -1,32 +1,0 @@
----
-id: 12546740
-date: "2017-02-26T17:14:58Z"
-last_modified_at: null
-tags:
-  - "contran"
-  - "vereadores"
-categories:
-  - "noticias"
-title: "Vereadores criticam apreens\u00e3o de fantasias contra PSB"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/02/marilia-arraes.jpg"
----
-{% raw %}
-<p><p>Após a <a href="https://jc.ne10.uol.com.br/blogs/jcnasruas/2017/02/25/galo8021/" target="_blank">Polícia Militar recolher fantasias da Troça Carnavalesca Empatando Tua Vista</a>, que critica o prefeito do Recife, Geraldo Julio, e o governador Paulo Câmara, ambos do PSB, vereadores de oposição usaram as redes sociais para criticar a ação policial. Os materiais foram apreendidos por policiais antes do desfile do Galo da Madrugada, nesse sábado (26), e <a href="https://jconline.ne10.uol.com.br/canal/cidades/policia/noticia/2017/02/26/troca-recupera-fantasias-apreendidas-pela-policia-militar-272342.php" target="_blank">liberados neste domingo (27)</a>. A líder da oposição na Câmara Municipal, Marília Arraes (PT), acusou as gestões de reprimir a troça.</p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/25/corregedoria-da-sds-ouve-policiais-que-tomaram-fantasias-de-folioes-no-galo/">Corregedoria da SDS ouve policiais que tomaram fantasias de foliões no Galo</a></p></p>
-<p><p>"Quando um governo não consegue conviver com críticas democráticas, saudáveis é realmente uma prova cabal de que há algo muito, muito grave. Desta vez o Governo de Pernambuco e a Prefeitura do Recife se uniram para reprimir, com o uso do aparato policial, a Troça Carnavalesca Empatando Tua Vista, que ficou conhecida por fazer uma crítica criativa e bem humorada da política de planejamento urbano do Recife. O grupo foi alvo de uma abordagem truculenta e teve as fantasias confiscadas pela PM. Dá para acreditar?", disse Marília Arraes.</p></p>
-<p><p>De acordo com o depoimento de uma das integrantes, Angélica Reis, à Corregedoria da Secretaria de Defesa Social, a ação da PM foi no prédio de onde eles sairiam para o bloco, no bairro da Boa Vista. Além de confiscar parte do material que estava com o grupo no edifício, a polícia apreendeu o restante quando eles estavam na Ponte Velha, seguindo para o Galo.</p></p>
-<p><p><iframe src='https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2Fanjelykreis%2Fvideos%2F10210979395017053%2F&show_text=false&width=560&t=0' width='560' height='315' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe></p></p>
-<p><p>As fantasias foram levadas para um dos galpões da Diretoria de Controle Urbano (Dircon), de onde foram retiradas neste domingo. Aos foliões, os PMs afirmaram que seria uma ação do órgão. Segundo a assessoria de comunicação da Secretaria de Controle Urbano, responsável pela Dircon, porém, a apreensão não foi uma iniciativa do órgão.</p></p>
-<p><p>Mais cedo, <a href="https://jconline.ne10.uol.com.br/canal/cidades/jc-na-folia/noticia/2017/02/26/prefeito-diz-que-apreensao-de-fantasias-foi-acao-de-controle-urbano-272323.php" target="_blank">em entrevista à Rádio Jornal, o prefeito Geraldo Julio disse que a apreensão foi ação de controle urbano</a>. "Não sei exatamente o que aconteceu nesse caso, mas acredito que foi mais uma ação de controle urbano", afirmou o prefeito. O socialista acrescentou que ações assim estão dentro da normalidade.</p></p>
-<p><p>» <a href="https://jconline.ne10.uol.com.br/canal/cidades/policia/noticia/2017/02/26/troca-recupera-fantasias-apreendidas-pela-policia-militar-272342.php" target="_blank">Troça recupera fantasias apreendidas pela Polícia Militar</a><br /></p>
-<p> » <a href="https://jconline.ne10.uol.com.br/canal/cidades/jc-na-folia/noticia/2017/02/26/prefeito-diz-que-apreensao-de-fantasias-foi-acao-de-controle-urbano-272323.php" target="_blank">Prefeito diz que apreensão de fantasias foi ação de controle urbano</a></p></p>
-<p><p>Em nota, a <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/25/corregedoria-da-sds-ouve-policiais-que-tomaram-fantasias-de-folioes-no-galo/">Polícia Militar reafirmou que o caso está sendo apurado pela Corregedoria da SDS</a>. "A operação no bairro da Boa Vista não teve o conhecimento do Comando da corporação nem do batalhão da área. Por isso, os policiais envolvidos foram encaminhados para prestarem depoimento à Corregedoria. A PM atua no estrito cumprimento das leis e na garantia da ordem, sem jamais interferir na livre manifestação democrática, quaisquer que sejam seus posicionamentos e orientações político-partidárias. É fundamental esclarecer que o Comando Geral da PM, assim como a tropa, tem como foco e missão garantir a segurança da população, preservando a alegria e a pluralidade do nosso Carnaval", diz o texto.</p></p>
-<p><p>"O prefeito não sabe de nada, o comandante geral da PM não sabe, o batalhão não sabe... Oxente, ninguém vai ter coragem de assumir esse tiro no pé?", o vereador Ivan Moraes (PSOL). "A única pergunta do dia: Major, quem te deu a ordem pra apreender as fantasias do Empatando sua Vista? Quem vai responder?", perguntou ainda o parlamentar neste domingo.</p></p>
-<p><p>» <a href="https://jconline.ne10.uol.com.br/canal/cidades/jc-na-folia/noticia/2017/02/26/apreensao-de-fantasias-pela-policia-militar-vira-parodia-272333.php" target="_blank">Apreensão de fantasias pela Polícia Militar vira paródia</a><br /></p>
-<p> » <a href="https://jc.ne10.uol.com.br/blogs/jcnasruas/2017/02/25/galo8021/" target="_blank">Polícia confisca material de bloco antes do Galo da Madrugada</a></p></p>
-<p><p>O Instituto de Arquitetos do Brasil em Pernambuco (IAB-PE) também se posicionou contra a apreensão das fantasias. "A troça vem se destacando no Carnaval do Recife dos últimos anos por suas manifestações bem humoradas, que criticam o mercado imobiliário, o modelo de cidade excludente e segregada que as empreiteiras locais insistem em construir, e as suspeitas de conluio entre interesses públicos e privados", diz o texto. Para a entidade, as ações "reforçam os argumentos de suspeita de obscuros interesses de integrantes do governo local, ligados às principais construtoras da cidade. Resulta extremamente constrangedor assistir à repressão da liberdade de expressão, especialmente em um evento como o Carnaval."</p></p>
-{% endraw %}

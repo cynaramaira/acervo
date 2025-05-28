@@ -1,54 +1,0 @@
----
-id: 12547642
-date: "2017-03-18T18:40:11Z"
-last_modified_at: null
-tags:
-  - "armando-monteiro"
-  - "chegada"
-  - "domingo-show"
-  - "eleicoes2018"
-  - "lula"
-  - "paternidade"
-  - "transposicao"
-categories:
-  - "noticias"
-title: "De olho em 2018, Lula chega neste domingo a Monteiro para reivindicar paternidade da Transposi\u00e7\u00e3o"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/03/lula-dilma-transposi\u00e7\u00e3o.jpg"
----
-{% raw %}
-<p><p>Pouco mais de uma semana depois da entrega do eixo leste da Transposição do Rio São Francisco em Monteiro, na Paraíba, pelo presidente Michel Temer (PMDB), o ex-presidente Lula (PT) vai à mesma cidade neste domingo (19) para cobrar a paternidade da obra em um evento que vem sendo chamado pelos petistas de "inauguração popular". Além de Lula, uma comitiva formada por Dilma Rousseff (PT), senadores, deputados e ex-ministros estarão no evento. É anunciada ainda a presença de Ciro Gomes, que foi ministro da Integração Nacional e pretende disputar pelo PDT as eleições de 2018, quando o líder petista também deverá se candidatar à presidência.</p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/17/visita-de-lula-e-dilma-lota-hoteis-de-monteiro-na-paraiba/">Visita de Lula e Dilma lota hotéis de Monteiro, na Paraíba</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/18/marilia-arraes-diz-que-inauguracao-da-transposicao-por-temer-foi-farsa/">Marília Arraes diz que inauguração da Transposição por Temer foi uma farsa</a></p></p>
-<p><p>A chegada de Lula a Campina Grande, a cerca de 170 quilômetros de Monteiro, está prevista para as 11h. De lá, o petista vai a um trecho da Transposição. A estimativa é de que ele esteja na ponte do empreendimento às 14h. O ex-presidente só vai discursar em uma estrutura montada no Centro de Monteiro, por volta das 16h.</p></p>
-<p><img class="size-full wp-image-176125" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/03/monteiro-transposicao.jpg" alt="Trecho da Transposição em Monteiro (Foto: Jamildo Melo/Blog de Jamildo)" width="750" height="410" /> Trecho da Transposição em Monteiro (Foto: Jamildo Melo/Blog de Jamildo)</p>
-<p><p>Ele e Dilma, que ainda recebem durante a visita a Medalha Epitácio Pessoa, honraria da Assembleia Legislativa da Paraíba, vão dormir em Campina Grande.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/17/ministerio-vai-estudar-uso-de-energia-eolica-e-solar-na-transposicao/">Ministério vai estudar uso de energia eólica e solar na Transposição</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/17/agua-da-transposicao-pode-encarecer-de-8-10-tarifas-das-empresas-de-abastecimento-dos-estados-beneficiados/">Água da transposição pode encarecer de 8% a 10% contas em Pernambuco</a></p></p>
-<p><p>A rede hoteleira de Monteiro, que tem 2,5 mil leitos, já está com todas as vagas preenchidas. A expectativa do Instituto Lula é de que cerca de 10 mil pessoas participem do ato político.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/15/transposicao-e-um-duro-golpe-no-coronelismo-politico-do-nordeste-diz-governador-da-paraiba/">“Transposição é um duro golpe no coronelismo político do Nordeste”, diz governador da Paraíba</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/15/novela-da-transposicao-governo-temer-escolhe-finalmente-empresa-que-vai-concluir-eixo-norte/">Novela da transposição. Governo Temer escolhe finalmente empresa que vai concluir eixo norte</a></p></p>
-<p><p>O ato político está sendo organizado também pelo governador da Paraíba, Ricardo Coutinho (PSB). Em discurso ao lado de Temer, durante a inauguração oficial desse eixo da Transposição, o socialista dsse que, por dever de Justiça, deveria citar Dilma. Ele argumentou que ela era responsável por 70% dos pagamentos desta obra. "É preciso relembrar, não podemos deixar de citar Lula, que iniciou a obra, e o povo nordestino", pontuou também.</p></p>
-<p><p>Durante a visita de Temer, moradores de Monteiro também citaram Lula como responsável pela obra. O <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/temer-ironiza-manifestantes-em-monteiro-e-diz-que-eles-vao-se-banhar-na-transposicao/">peemedebista enfrentou um protesto e respondeu com ironia aos manifestantes</a>.</p></p>
-<p><p><iframe src='https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2FBlogdeJamildo%2Fvideos%2F1380589055332854%2F&show_text=false&width=560&t=0' width='560' height='315' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe></p></p>
-<p><p>Um grupo de senadores de oposição ao governo vai junto, de van, a Monteiro para o ato com Lula. O organizador é o líder da bancada, Humberto Costa (PT-PE), que vai acompanhado de Vanessa Grazziotin (PCdoB-AM) e José Pimentel (PT-CE), além da deputada federal Luciana Santos (PCdoB), dos ex-ministros Carlos Gabas e Miriam Belchior e de Elmano Freitas (PT), deputado estadual do Ceará.</p></p>
-<p><img class="size-full wp-image-175892" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/03/Sem-título.jpg" alt="Humberto em visita à Transposição em Sertânia (Foto: Divulgação)" width="750" height="410" /> Humberto em visita à Transposição em Sertânia (Foto: Divulgação)</p>
-<p><p>Humberto Costa saiu em defesa da paternidade da Transposição para Lula. "Além de água, a Transposição traz também para os sertanejos esperança de uma vida melhor e a certeza de que com força política se pode vencer a cultura da seca, que já maltratou tanto essa região. Só alguém como Lula, um sertanejo que sentiu na pele esse problema e venceu todas as dificuldades até chegar à Presidência da República, poderia ter transformado este projeto, que não passava de uma ideia desde os tempos de Império, em realidade", disse o petista.</p></p>
-<p><p>Mais cedo, em entrevista à rádio local Monteiro FM, a vereadora do Recife Marília Arraes (PT) ainda afirmou que a inauguração por Temer foi uma farsa. "Foi uma apropriação indébita do governo golpista de Michel Temer de uma obra que foi do governo Lula, do governo Dilma."</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/nao-quero-paternidade-dessa-obra-ninguem-pode-te-la-diz-temer-sobre-transposicao/">“Não quero a paternidade dessa obra. Ninguém pode tê-la”, diz Temer sobre Transposição</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/transposicao-chega-a-paraiba-mas-ainda-falta-muito-em-pernambuco/">Transposição chega à Paraíba, mas ainda falta muito em Pernambuco</a></p></p>
-<p><p>Com três visitas em três meses à Transposição - a Cabrobó (PE), Floresta (PE) e Monteiro (PB) -, Temer nega que queira a paternidade da obra - "Ninguém pode tê-la", disse -, mas tem se aproximado do projeto para melhorar a popularidade no Nordeste. Outro que tem adotado essa estratégia é o governador de São Paulo, Geraldo Alckmin (PSDB), que cedeu bombas para o empreendimento através da Sabesp (Companhia de Saneamento Básico do Estado de São Paulo) e foi a Sertânia, no Sertão pernambucana, participar de vistoria.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/14/armando-monteiro-cobra-obras-complementares-da-transposicao/">Armando Monteiro cobra ações complementares da Transposição</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/14/mpf-quer-saber-vazao-da-agua-da-transposicao-na-paraiba/">MPF quer saber vazão da água da Transposição na Paraíba</a></p></p>
-<p><p>No eixo leste, a água do São Francisco é captada em Floresta, no Sertão pernambucano, e vai até Sertânia, a primeira cidade beneficiada, onde a água abastece 35 mil pessoas. De lá, vai para o açude de Poções, em Monteiro, atendendo 33 mil moradores. Depois, a água seguirá pelo Rio Paraíba até o reservatório Boqueirão, para reforçar o abastecimento em Campina Grande e em cidades do entorno, onde a expectativa é de auxiliar 400 mil paraibanos. Quando estiver pronta nos dois eixos, a Transposição deverá atender 12 milhões de nordestinos.</p></p>
-<p><img class="size-full wp-image-176137" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/03/temer-sertania.jpg" alt="Com abertura da comporta do reservatório de Campos, água da Transposição pode abastecer Sertânia (Foto: Divulgação)" width="750" height="410" /> Com abertura da comporta do reservatório de Campos, água da Transposição pode abastecer Sertânia (Foto: Divulgação)</p>
-<p><p>A obra começou em 2007, no segundo mandato de Lula, com expectativa de ser concluída três anos depois. Foram investidos até agora mais de R$ 8 bilhões. Segundo o Instituto Lula, R$ 9,6 bilhões eram o orçamento inicial e até abril de 2016, pouco antes de Dilma Rousseff ser afastada, haviam sido executados R$ 7,95 bilhões. </p></p>
-<p><p>De acordo com o Ministério da Integração Nacional, 96,89% do eixo leste estão concluídos até agora. Em maio, quando Temer assumiu a presidência ainda interinamente, antes da consolidação do impeachment de Dilma Rousseff (PT), a obra estava com 84,4% de conclusão nesse trecho.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/temer-inaugura-transposicao-mas-moradores-de-monteiro-agradecem-lula/">Temer inaugura Transposição, mas moradores de Monteiro agradecem a Lula</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/09/muita-gente-disse-que-era-impossivel-fazer-transposicao-diz-lula/">Quem estava no poder estudava, mas nada fazia, diz Lula sobre Transposição</a></p></p>
-<p><p>O mais problemático, porém, é o eixo norte, onde as obras estão paradas desde junho do ano passado em um dos trechos entre Cabrobó (PE) e Jati (PE). Lá, 94,52% estão concluídas. Porém, não há previsão prática para retomar a construção – embora o ministério espere assinar o contrato ainda este mês e Temer tenha prometido entregá-lo até o fim do ano. Envolvida na Operação Lava Jato, a Mendes Júnior abandonou o canteiro alegando dificuldade de obter crédito e a licitação para escolher a nova empreiteira está em andamento. Duas foram desabilitadas e a terceira foi aceita cobrando R$ 518 milhões para concluir o serviço. <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/06/em-tom-de-despedida-dilma-diz-em-pernambuco-que-ficara-triste-se-nao-vir-fim-da-transposicao/">Cabrobó foi a última cidade em Pernambuco visitada por Dilma Rousseff antes de ser afastada</a>.</p></p>
-<p><p>&nbsp;</p></p>
-{% endraw %}

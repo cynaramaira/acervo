@@ -1,35 +1,0 @@
----
-id: 12551283
-date: "2017-05-23T14:31:49Z"
-last_modified_at: null
-tags:
-  - "artigo"
-categories:
-  - "noticias"
-title: "Em artigo, Janot diz que dela\u00e7\u00e3o \u00e9 'muito maior' que \u00e1udios"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/Rodrigo-janot-1.jpg"
----
-{% raw %}
-<p><p>Estadão Conteúdo - O procurador-geral da República, Rodrigo Janot, escreveu artigo para o portal <em>UOL</em> no qual defende o acordo firmado com os empresários do Grupo J&amp;F, comandado por Joesley Batista. No texto, Janot aponta que delação é "muito maior que os áudios questionados", justifica a concessão de imunidade penal aos delatores - que não serão denunciados pelos crimes que revelaram no acordo - e diz estar "convicto" de que tomou a decisão correta.</p></p>
-<p><p>É a primeira manifestação de Janot à imprensa após a vinda à tona da celebração do acordo com os irmãos Joesley e Wesley Batista e outros executivos do grupo.</p></p>
-<p><p>Ao dizer ter sido procurado pelos irmãos Batista no início de abril, Janot ressalta que os empresários entregaram crimes graves em andamento. "Trouxeram eles indícios consistentes de crimes em andamento - vou repetir: crimes graves em execução -, praticados em tese por um senador da República e por um deputado federal", escreve Janot, sem citar os nomes do senador Aécio Neves (PSDB-MG) e do deputado Rocha Loures (PMDB-PR), implicados na delação e flagrados em gravações.</p></p>
-<p><p>Sobre a relação de Joesley com Temer, o procurador-geral aponta que os delatores: "apresentaram gravações de conversas com o presidente da República, em uma das quais se narravam diversos crimes supostamente destinados a turbar as investigações da Lava Jato".</p></p>
-<p><p>Os fatos, nas palavras de Janot, são "aterradores" e vieram junto a "dezenas de documentos e informações concretas" sobre contas no exterior e pagamento de propina "envolvendo quase duas mil figuras políticas".</p></p>
-<p><p>Ele aponta que os benefícios a Joesley e os demais 6 delatores da J&amp;F "podem parecer excessivos", mas que a outra alternativa seria a não celebração do acordo de delação, o que acabaria sendo pior ao País.</p></p>
-<p><p>"Jamais saberíamos dos crimes que continuariam a prejudicar os honrados cidadãos brasileiros, não conheceríamos as andanças do deputado com sua mala de dinheiro, nem as confabulações do destacado senador ou a infiltração criminosa no MPF", destaca o procurador-geral.</p></p>
-<p><p>"Finalmente, tivesse o acordo sido recusado, os colaboradores, no mundo real, continuariam circulando pelas ruas de Nova York, até que os crimes prescrevessem, sem pagar um tostão a ninguém e sem nada revelar, o que, aliás, era o usual no Brasil até pouco tempo", escreveu Janot.</p></p>
-<p><p>Ele fala das revelações feitas pelos irmãos Batista e funcionários do grupo sobre o Temer, Aécio, os ex-presidentes Dilma Rousseff e Luiz Inácio Lula da Silva e o procurador Ângelo Goulart, que repassava informações da Operação Greenfield à JBS. Aponta que os fatos citados foram graves o suficiente para conceder benefícios ao empresário que fez as revelações em troca do acordo de colaboração.</p></p>
-<p><p>"Até onde o país estaria disposto a ceder para investigar a razão pela qual o presidente da República recebe, às onze da noite, fora da agenda oficial, em sua residência, pessoa investigada por vários crimes, para com ela travar diálogo nada republicano?", escreve Janot sobre o encontro de Temer com Joesley Batista no dia 7 de março, no Palácio do Jaburu. O presidente tem questionado uma suposta edição do áudio entregue pelo empresário com a conversa gravada, mas confirma o encontro</p></p>
-<p><p>Sobre Aécio, flagrado em negociação de R$ 2 milhões em propina, Janot questiona: "Quanto valeria para a sociedade saber que a principal alternativa presidencial de 2014, enquanto criticava a corrupção dos adversários, recebia propina do esquema que aparentava combater e ainda tramava na sorrelfa para inviabilizar as investigações?."</p></p>
-<p><p>Na segunda-feira, o procurador-geral pediu que o Supremo Tribunal Federal, em plenário, determine a prisão preventiva de Aécio Neves e do deputado Rodrigo Rocha Loures (PMDB-PR), flagrado recebendo uma mala com R$ 500 mil.</p></p>
-<p><p>Por fim, Janot aponta a situação de Dilma e Lula. Segundo a delação de Joesley, os ex-presidentes tinham duas "conta-correntes" de propina no exterior, cujo saldo bateu em US$ 150 milhões em 2014. "Que juízo faria a sociedade do MPF se os demais fatos delituosos apresentados, como a conta-corrente no exterior que atendia a dois ex-presidentes, fossem simplesmente ignorados?", escreve Janot.</p></p>
-<p><p>"Foram as perguntas que precisei responder na solidão do meu cargo. A gravidade do momento, porém, fez-me compreender claramente que já tinha em mim as respostas há pelo menos trinta e dois anos, quando disse sim ao Ministério Público e jurei defender as leis e a Constituição do país", escreveu o procurador-geral da República. Janot não concedeu entrevistas desde que tudo veio à tona, a partir da semana passada.</p></p>
-<p><p>Janot diz que, como procurador-geral da República, "não teve outra alternativa" senão conceder a imunidade penal aos delatores. Ele diz ter utilizado três premissas para admitir o benefício: "a gravidade dos fatos, corroborados por provas consistentes; a certeza de que o sistema de justiça de que o sistema de justiça criminal jamais chegaria a todos esses fatos pelos caminhos convencionais de investigação; e a situação concreta de que, sem esse benefício, a colaboração não seria ultimada e, portanto, todas as provas seriam descartadas."</p></p>
-<p><p>O procurador-geral da República aponta que, "para os que acham que saiu barato", a J&amp;F está sendo instada a pagar multa de R$ 11 bilhões pelo acordo de leniência que negocia com o Ministério Público Federal.</p></p>
-<p><p>Ele menciona ainda que operações suspeitas no mercado de câmbio feitas pela JBS com base em informação privilegiada sobre o acordo não estão abrangidas pelo acordo e, portanto, Joesley Batista e os demais executivos "permanecem sujeitos à integral responsabilização penal" por esses fatos. O crime de "insider trading", em que se utiliza de informação privilegiada para operar no mercado, é punido com prisão e multa sobre o valor lucrado.</p></p>
-<p><p>Para Janot, o foco do debate foi "deturpado" ao se iniciar o questionamento de um ponto "secundário", que são os benefícios concedidos pela Procuradoria-Geral da República a Joesley, Wesley e os demais executivos. A questão central, na visão do procurador-geral, é "o estado de putrefação de nosso sistema de representação política".</p></p>
-<p><p>"Três anos após a deflagração da Operação Lava Jato, com todos os desdobramentos que se sucederam, difícil conceber que algum fato novo ainda fosse capaz de testar tão intensamente os limites das instituições. Mas o roteiro da vida real é surpreendente", escreve o procurador-geral.</p></p>
-{% endraw %}

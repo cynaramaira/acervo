@@ -1,39 +1,0 @@
----
-id: 12555343
-date: "2017-08-07T21:40:10Z"
-last_modified_at: null
-tags:
-  - "contratos"
-  - "hemobras"
-  - "ministro"
-  - "mostra"
-  - "presidente"
-categories:
-  - "noticias"
-title: "Presidente da Hemobr\u00e1s contraria ministro e mostra interesse em manter contrato"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/08/hemobras.jpg"
----
-{% raw %}
-<p><p>O presidente da Hemobrás, Oswaldo Castilho, afirmou na audiência pública realizada nesta segunda-feira (7) pela Assembleia Legislativa de Pernambuco (Alepe) para debater o imbróglio envolvendo a estatal, que está renegociando o contrato para a produção do fator VIII recombinante, o produto com maior valor agregado previsto para a fábrica de Goiana, na Mata Norte do Estado. Em meio à <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/05/funcionarios-da-hemobras-denunciam-reves-da-uniao-e-rebatem-ministro/">articulação do ministro da Saúde, Ricardo Barros, para que a produção seja em Maringá (PR), seu reduto eleitoral</a>, o <a href="https://blogs.ne10.uol.com.br/jamildo/2017/07/27/luciana-santos-diz-que-decisao-sobre-hemobras-foi-na-cara-de-pau/">acordo chegou a ser suspenso, mas uma liminar garantiu a sua manutenção</a>. </p></p>
-<p><p>O fator VIII recombinante é o medicamento distribuído pelo Sistema Único de Saúde (SUS) para hemofílicos. Hoje, uma Parceria de Desenvolvimento Produtivo (PDP) da Hemobrás com a empresa francesa Shire prevê a compra pela estatal, mas também a transferência da tecnologia para que a produção passe para Pernambuco até 2023. Barros, porém, quer fechar com um consórcio que engloba a empresa suíça Octapharma, citada na Operação Máfia dos Vampiros, e os laboratórios públicos Butantã, de São Paulo, e Tecpar, do Paraná, além da própria Hemobrás. Nesse novo negócio, a produção do recombinante passaria para a unidade do Paraná e em Pernambuco ficaria apenas o fracionamento do plasma.</p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/05/funcionarios-da-hemobras-denunciam-reves-da-uniao-e-rebatem-ministro/">Funcionários da Hemobrás denunciam ‘revés’ da União e rebatem ministro, que quer levar fábrica para reduto eleitoral</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/07/05/hemobras-ministro-articula-fabrica-no-parana-e-incomoda-bancada-de-pernambuco/">Hemobrás: ministro articula fábrica no Paraná e incomoda bancada de Pernambuco</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/07/lider-da-oposicao-critica-nao-ver-uma-palavra-de-paulo-camara-sobre-hemobras/">Líder da oposição critica não ‘ver uma palavra’ de Paulo Câmara sobre Hemobrás</a></p></p>
-<p><p>Castilho afirmou na Assembleia Legislativa que a Shire, que tem a parceria atualmente, propõe investir U$ 250 milhões na conclusão da planta de Goiana. Além disso, aceitou estender o prazo de pagamento e abrir mão dos juros da dívida da estatal com a empresa, hoje estimada em U$ 175 milhões - pela compra do recombinante. Foram investidos na unidade R$ 1 bilhão e calcula-se que seriam necessários R$ 600 milhões para concluir os 30% restantes.</p></p>
-<p><p>O acordo que o ministro negocia com a Octapharma prevê o investimento de US$ 250 milhões em Pernambuco para que o Estado fique com o fracionamento do plasma. US$ 200 milhões iriam para o Paraná, para a fabricação do recombinante.</p></p>
-<p><img class="size-full wp-image-184281" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/08/audiencia-hemobras.jpg" alt="" width="750" height="410" /> Foto: Jarbas Araújo/Alepe</p>
-<p><p>De acordo com o presidente da Hemobrás, as duas alternativas estão sendo analisadas de forma detalhada pelo conselho administrativo, sob os aspectos jurídicos, econômicos e financeiros. "Não sabemos, no entanto, como ficaria a questão jurídica de quebrar o contrato com a Braxter (sócia da Shire na parceria com a estatal brasileira", disse. "Queremos achar uma solução viável, destacando que temos um contrato firmado e que manter a atual parceria é hoje de interesse da Hemobrás."</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/07/13/bancada-pernambucana-recorre-ao-tcu-para-impedir-o-encerramento-de-contrato-na-hemobras/">Deputados recorrem ao TCU contra fim de contrato na Hemobrás</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/07/27/temer-nao-tem-dinheiro-para-hemobras-mas-torra-bilhoes-com-emendas-reclama-humberto-costa/">‘Temer não tem dinheiro para Hemobrás, mas torra bilhões com emendas’, reclama Humberto Costa</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/07/27/luciana-santos-diz-que-decisao-sobre-hemobras-foi-na-cara-de-pau/">Luciana Santos diz que decisão sobre Hemobrás foi na ‘cara de pau’</a></p></p>
-<p><p>O procurador Marinus Marsico, do Ministério Público junto ao Tribunal de Contas da União (TCU), explicou o órgão trabalha em uma medida cautelar pedindo a continuidade do atual contrato de parceria. A instituição foi procurada pela bancada de Pernambuco, descontente com a decisão do ministro Ricardo Barros. "Se vem ocorrendo atraso na transferência da tecnologia, não é por culpa da Braxter/Shire ou da Hemobrás, mas em função da falta dos investimentos na planta de Goiana, que são de responsabilidade do Ministério da Saúde", disse. O mesmo foi dito pelos funcionários da Hemobrás em uma nota de repúdio ao ministro divulgada no fim de semana.</p></p>
-<p><p>O representante do Ministério da Saúde na audiência pública, Flávio Vormittag,  coordenador-geral de Sangue e Hemoderivados do Ministério da Saúde, afirmou que hoje o governo federal não teria recursos para concluir a construção da fábrica em Goiana. "A proposta da Octapharma vem sendo discutida há um ano no Ministério (da Saúde) e não prevê o fechamento da Hemobrás, mas recursos para concluir as obras da fábrica. Sabemos que não existe verba para isso hoje na União", defendeu.</p></p>
-<p><img class="size-full wp-image-184282" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/08/humberto-costa-1.jpg" alt="" width="750" height="410" /> Foto: Jarbas Araújo/Alepe</p>
-<p><p>A alegação foi questionada pelo senador Humberto Costa (PT-PE), líder da oposição no Congresso. “Estamos diante de uma afronta ao nosso Estado. Uma afronta que o ministro faz com uma desfaçatez que poucas vezes vi na minha vida”, disse. E completou: “Eu não quero fazer comparações rasteiras, não, de deputado que se vendeu, que ganhou bilhões, mas tem dinheiro para tantas coisas no orçamento da União, imagina para uma coisa tão importante como essa. Por isso, não consigo entender, a não ser por um pensamento mesquinho, uma razão política esse esvaziamento da Hemobrás”. No Senado, Barros rebateu a acusação: "Se o senhor pode levar para o seu estado a Hemobrás quando era ministro, o senhor não pode me criticar por levar para o meu estado nada."</p></p>
-<p><p>O senador Armando Monteiro Neto (PTB-PE) também defendeu que é uma questão política o negócio proposto por Barros. "Se a Hemobrás não agregar a produção do fator recombinante à sua atuação, a expressão econômica da empresa será dramaticamente reduzida", disse ainda.</p></p>
-<p><p>A deputada estadual Priscila Krause (DEM), autora da iniciativa de realizar a audiência pública, afirmou: "A decisão de a empresa vir para o Estado foi baseada em elementos técnicos e na decisão política de descentralizar o desenvolvimento tecnológico e científico no Brasil, o qual não deve ser monopolizado pelo eixo Sul/Sudeste". "O que defendo é a viabilidade de uma empresa pública, e não de uma companhia A ou B. E para se viabilizar, a Hemobrás precisa estar com as duas atividades concentradas aqui."</p></p>
-{% endraw %}

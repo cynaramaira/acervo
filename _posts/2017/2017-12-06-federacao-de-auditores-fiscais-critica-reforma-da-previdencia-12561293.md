@@ -1,30 +1,0 @@
----
-id: 12561293
-date: "2017-12-06T10:30:06Z"
-last_modified_at: null
-tags:
-  - "critica"
-  - "reformas"
-categories:
-  - "noticias"
-title: "Federa\u00e7\u00e3o de auditores fiscais critica reforma da Previd\u00eancia"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/07/Congresso.jpg"
----
-{% raw %}
-<p><p>A apressada e perigosa reforma da Previdência: Municípios, arranjos produtivos, empresários locais e população em geral têm muito a perder</p></p>
-<p><p>Por Carlos Cardoso Filho, em artigo enviado ao <strong>Blog de Jamildo</strong></p></p>
-<p><p>A pressa do governo federal em aprovar, a todo custo, essa equivocada reforma da Previdência - inclusive entregando bilhões de reais em isenções, perdoando sonegadores, liberando emendas parlamentares (verbas) e pagando caras propagandas enganosas - esconde muitos riscos e até prejuízos certos e de fácil contabilização.</p></p>
-<p><p>Como a FENAFIM é a Entidade nacional dos integrantes dos Fiscos dos Municípios e tem como missão estatutária a defesa da receita pública municipal, precisa alertar prefeitos, vereadores e secretários de finanças, fazenda, desenvolvimento econômico, indústria e comércio, bem como, empresários e sócios de clubes de diretores lojistas municipais, pois todos precisam saber que os valores pagos a titulo de aposentadorias, pensões e demais benefícios previdenciários representam a mola propulsora da economia local na enorme maioria dos Municípios do Brasil.</p></p>
-<p><p>Quando se faz uma comparação entre os valores que chegam aos Municípios por meio da Previdência e as arrecadações municipais, logo se percebe que essa proposta equivocada de reforma consegue provocar duplo efeito negativo no poder de compra da população. É que ela diminui fortemente os valores pagos a aposentados, pensionistas e beneficiários, como também, dificulta excessivamente ou até impede o acesso das pessoas aos valores previdenciários. Esse efeito duplo trará gigantescos prejuízos aos arranjos produtivos, à movimentação econômica e à geração de empregos nos Municípios.</p></p>
-<p><p>E os dados do Compara Brasil são mesmo de assombrar, pois revelam que em 31% dos Municípios do País os valores que chegam através da Previdência superam a própria receita corrente líquida municipal, aquela que mantém o Município funcionando e que representa o total das receitas: tributária, de contribuições, patrimonial, agropecuária, industrial, de serviços e as provenientes de recursos financeiros recebidos de outras pessoas de direito público ou privado. Números ainda mais reveladores de quanto essa reforma da Previdência prejudicará o funcionamento da economia local vêm agora: em 71,8% dos Municípios do Brasil o valor que chega através da Previdência (aposentadorias, pensões e demais benefícios) supera o que o Município recebe através do Fundo de Participação dos Municípios (FPM).</p></p>
-<p><p>Diante dessas informações, é urgente que eleitores, prefeitos, vereadores secretários, lojistas e trabalhadores falem com os deputados federais que costumam contar com os votos desses Municípios nas eleições, para que não sejam provocados, com essa reforma da Previdência, sérios prejuízos à economia local (retração no comércio, na indústria e nos serviços); ainda mais desemprego e sofrimento aos trabalhadores; e, como a tributação é uma consequência da movimentação econômica, queda na arrecadação e dificuldades na prestação dos serviços públicos essenciais à população que tanto precisa (saúde, educação, limpeza e mobilidade urbanas, iluminação pública, etc.).</p></p>
-<p><p>E pelo que vemos aqui em Brasília, é preciso impedir, e com urgência, que essa reforma da Previdência seja aprovada e prejudique demais os Municípios, porque o governo não tem medido esforços - seja liberando verbas, seja dispensando sonegadores, seja iludindo em dizer que a reforma é para salvar a Previdência quando em verdade ela definhará o sistema, seja enganando a população ao dizer que vai combater privilégio mas escondendo que servidores pagam contribuições previdenciárias muito maiores e continuam a pagar até depois de se aposentarem e não têm direito a FGTS.</p></p>
-<p><p>E por que essa pressão toda para aprovar a equivocada reforma? É para que a equipe econômica do governo federal atenda mais ainda à sanha de lucro dos bancos que, somente da posse de Michel Temer para cá, elevaram o percentual de recursos abocanhados a título de juros de 43,94% para 50,66% da arrecadação nacional, de tudo que o povo paga de tributos ao País.</p></p>
-<p><p>Para os bancos conseguirem ficar com esse percentual que já é mais da metade do Orçamento Geral da União, a equipe econômica do governo convenceu o Congresso Nacional a aprovar a PEC 241 na Câmara e 55 no Senado. Essa conhecida “PEC do teto dos gastos”, na verdade, cortou recursos de áreas vitais à sociedade como: educação (menos 11,89%), saúde (menos 18,97%) e segurança (menos 27,27%) e deixou bem aberta a porta para a já gigantesca entrega de dinheiro aos bancos.</p></p>
-<p><p>Mas como a meta do mercado financista para países da “periferia” do sistema especulativo é garantir aos bancos de 65 a 70% de tudo que é arrecadado, diminuir os valores das aposentadorias e pensões e dificultar ou impedir o acesso dos brasileiros à Previdência Social representa forma muito mais fácil de conseguirem abocanhar tão absurdos percentuais da arrecadação do País, de levarem quase tudo que é pago pelo povo em forma de tributos.</p></p>
-<p><p>Outra cobrança que os bancos fazem e que a equipe econômica do governo insiste em atender, mesmo que para isso extermine a Previdência Social, diz respeito à alavancada nas vendas dos planos de previdência privada. Pois a ameaça dessa reforma e todas as projeções sombrias quanto à sobrevivência de uma Previdência que ainda seja Social terminam empurrando as pessoas para esses arriscados planos privados vendidos pelos bancos.</p></p>
-<p><p>Carlos Cardoso Filho é presidente da Federação Nacional dos Auditores e Fiscais de Tributos Municipais (FENAFIM)</p></p>
-{% endraw %}

@@ -1,41 +1,0 @@
----
-id: 12552645
-date: "2017-06-16T07:59:42Z"
-last_modified_at: null
-tags:
-  - "candidatos"
-  - "executivo"
-categories:
-  - "noticias"
-title: "Em dela\u00e7\u00e3o, executivo da Odebrecht diz que candidatos tinham apelido de 'chegado' e 'pistoleira'"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/Odebrecht.jpg"
----
-{% raw %}
-<p><p><em>Estadão Conteúdo</em> - Executivos da Odebrecht Ambiental confessaram pagamentos de caixa dois às candidaturas de Donisete Braga (PT-SP) e Vanessa Damo (PMDB-SP), à Prefeitura de Mauá, no ano de 2012. Na planilha de supostos repasses entregue como parte do acordo de delação premiada do executivo Fernando Cunha, da Odebrecht Ambiental, o petista aparece associado ao apelidos ‘chapa’ e ‘chegado’ e a peemedebista aparece como ‘pistoleira’. Juntos, segundo executivos da construtora, eles receberam R$ 1,9 milhões de caixa dois.</p></p>
-<p><p>O executivo Fernando Reis estimou que pelo menos R$ 20 milhões tenham sido doados pela Odebrecht Ambiental a candidatos, com o objetivo de manter ou obter contratos na área de saneamento. O valor mistura caixa dois e doações oficiais, muitas intermediadas entre o próprio político e a empreiteira. Na planilha, são identificados 80 nomes de políticos - 10 repasses constam com nomes genéricos, como ‘vereadores’, ‘vários’ e ‘deputado’. Entre os presentes, estão políticos do alto escalão: pelo menos cinco candidatos a governos estaduais e dois senadores. A empreitada da Odebrecht para obter contratos de esgoto assolou pelo menos 31 campanhas municipais, em dez estados: São Paulo, Rio de Janeiro, Goiás, Tocantins, Pará, Bahia, Rio Grande do Sul, Santa Catarina, Paraíba, Amapá, Sergipe e Piauí. O período mais voraz do lobby pelo saneamento abarcou os pleitos de 2008, 2010, 2012 e 2014.</p></p>
-<p><p>Somente em São Paulo, executivos da companhia de saneamento e tratamento de água do grupo dizem ter usado quase metade deste valor, R$ 9,1 milhões, para financiar eleições municipais com caixa dois. Eles identificaram 23 candidatos cujas campanhas foram contaminadas.</p></p>
-<p><p>O destino das 13 petições da Procuradoria Geral da República para investigar supostas propinas envolvendo a Odebrecht Ambiental nos municípios paulistas é o Tribunal Regional da 3ª Região.</p></p>
-<p><p>Como parte do mapeamento dos municípios com maior predisposição a privatizar o sistema de saneamento básico, o ex-diretor da Odebrecht Guilherme Paschoal alegou ter contratado uma empresa que pesquisava a situação dos serviços prestados nas cidades do interior de São Paulo, chamada Centro Abril. Ele enxergava nela uma forma de ‘consultar demandas de informações locais’. Com apoio dos estudos desta empresa, Paschoal viu em Mauá, na região do ABC, uma das cidades onde a Odebrecht poderia financiar candidatos, via caixa dois, e ter, como contrapartida, a privatização do saneamento.</p></p>
-<p><p>A disputa eleitoral de 2012 pela Prefeitura de Mauá tinha como principais candidatos os então deputados estaduais Donisete Braga (PT-SP) e Vanessa Damo (PMDB-SP). O presidente da Odebrecht Ambiental, Fernando Reis, autorizou ‘de imediato’ doações de R$ 1 milhão ao petista e R$ 900 mil à peemedebista, via caixa dois, segundo relatou o delator Guilherme Paschoal.</p></p>
-<p><p>A influência política naquela cidade era tida como importante para a Odebrecht Ambiental, já que, desde 2008, a empresa administrava o serviço de saneamento básico. Na corrida eleitoral de 2012, o lobby era, então, pela privatização do fornecimento de água, que acabou se efetivando mais tarde, segundo delatores.</p></p>
-<p><p>Donisete Braga, do PT, era candidato do então prefeito, Osvaldo Dias, e acabou recebendo a maior quantia, de acordo com Paschoal O acerto da doação não contabilizada, segundo o delator, se deu em um restaurante de Santo André, o Baby Beef. "O objetivo era manter esse diálogo e que não houvesse um fator complicador [aos contratos da Odebrecht na cidade]. Eu informei a eles a quantia de R$ 1 milhão, eles acharam ‘ok’ e informei que seria em caixa dois. A data, hora e endereço seriam passadas ao Edílson de Paula [coordenador de campanha] e não ao candidato, mas o candidato sabia de que a doação seria feita via caixa dois".</p></p>
-<p><p>Ao coordenador de campanha de Donisete Braga, foram repassadas a senha, a data, o horário e o local onde ele teria de buscar o dinheiro em espécie para o petista, segundo o delator. Ao ex-prefeito, são atribuídos dois codinomes: Chegado e Chapa.</p></p>
-<p><p>Já o caixa dois de R$ 900 mil para a candidata Vanessa Damo teria sido combinado com o marido dela, José Carlos Orosco Júnior (PMDB). "Eu liguei ao senhor Orosco, chamei ao Starbucks em agosto, e passei informações de senha endereço, data e hora, assim como já havia feito em outros candidatos. O codinome dela era ‘pistoleira’".</p></p>
-<p><p>Orosco Júnior tem influência na política de Mauá e chegou a ser Secretário de Obras, na gestão do prefeito Átila Jacomussi (PSB)</p></p>
-<p><p>Ibama. A peemedebista teve o mandato cassado pelo Tribunal Superior Eleitoral e foi condenada pelo Tribunal Regional Eleitoral de São Paulo por abuso de poder econômico e uso indevido dos meios de comunicação, ficando inelegível até 2020. No ano passado, o governo Michel Temer chegou a tentar nomeá-la, sem sucesso, à Superintendência do Ibama, em São Paulo Damo já havia sido cassada e a Justiça impediu que exercesse o cargo público.</p></p>
-<p><p>Privatização. Durante a gestão de Donisete Braga, eleito em 2012, fiuncionários da Odebrecht Ambiental alegam ter pleiteado, com êxito, a privatização do sistema de distribuição de água da cidade. Inicialmente, a empresa enviou estudos à Prefeitura a respeito de uma possível PPP para o setor a ser desenvolvida no ano de 2014. "Abriu um processo, começamos a interagir com a autarquia do município para fazer um desenvolvimento legal, técnico e econômico para modelar a PPP. O processo foi autorizado pelo conselho gestor. O prefeito através da autarquia abriu o processo licitatório, consultas públicas", afirma Paschoal.</p></p>
-<p><p>Na concorrência, a Odebrecht Ambiental foi a única a apresentar proposta e, consequentemente, a vencedora do edital, que chegou a ser suspenso duas vezes, após requerimentos da Sabesp junto ao Tribunal de Contas do Estado de São Paulo.</p></p>
-<p><p>"O município acatou as solicitações do Tribunal de Contas, houve o processo licitatório, a Odebrecht foi a única que entregou proposta, apesar de outras manifestações de outras empresas. Acho que pelo fato de já operarmos a concessão de esgoto, tínhamos um diferencial de conhecer o sistema. O contrato foi assinado em julho de 2016, 25 de julho se não me engano", afirmou.</p></p>
-<p><p>Em 2014, já no cargo de secretário de governo de Donisete Braga, Edílson de Paula pediu apoio à Odebrecht novamente - desta vez, para Carlos Chagas, então candidato a deputado estadual, segundo delação. O caixa dois, segundo Guilherme Paschoal, foi de R$ 150 mil.</p></p>
-<p><p>Já o próprio chefe do executivo de Mauá teria pedido ao diretor regional da Odebrecht doações para sua base política. O valor de caixa dois acertado foi de R$ 300 mil, segundo o diretor regional de São Paulo da Odebrecht Ambiental. No entanto, Guilherme Paschoal diz desconhecer os nomes dos beneficiários.</p></p>
-<p><p>"Qualquer contribuição de campanha em 2012 e 2014 era aprovada pelo Fernando Reis, que recebia a demanda, repassava ao Eduardo Barbosa [ funcionário do departamento de propinas da Odebrecht], e eu passava as informações ao representante, que era o Edílson de Paula", declarou.</p></p>
-<p><p>COM A PALAVRA, VANESSA DAMO</p></p>
-<p><p>A reportagem não localizou a peemedebista. O espaço está aberto para manifestação.</p></p>
-<p><p>COM A PALAVRA, DONISETE BRAGA</p></p>
-<p><p>A reportagem não encontrou o ex-prefeito de Mauá. O espaço está aberto para manifestação.</p></p>
-<p><p>COM A PALAVRA, EDÍLSON DE PAULA</p></p>
-<p><p>Edílson de Paula não foi localizado pela reportagem. O espaço está aberto para manifestação.</p></p>
-{% endraw %}

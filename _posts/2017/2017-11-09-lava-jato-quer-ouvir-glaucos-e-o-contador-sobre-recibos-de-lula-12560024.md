@@ -1,41 +1,0 @@
----
-id: 12560024
-date: "2017-11-09T20:00:39Z"
-last_modified_at: null
-tags:
-  - "lava-jato"
-  - "lula"
-categories:
-  - "noticias"
-title: "Lava Jato quer ouvir Glaucos e o contador sobre recibos de Lula"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/10/lula-3.jpg"
----
-{% raw %}
-<p><p><em>Estadão Conteúdo</em> - A força-tarefa da Operação Lava Jato pediu, nesta quarta-feira (8) ao juiz federal Sérgio Moro, para que marque novos depoimentos de Glaucos da Costamarques e do contado João Muniz Leite no âmbito de incidente de falsidade aberto para investigar os recibos de pagamento de aluguel apresentados pelo ex-presidente Luiz Inácio Lula da Silva sobre imóveis que são tratados pelos procuradores como supostas propinas da Odebrecht ao petista. Após os novos esclarecimentos, a força-tarefa quer indicar assistente técnico para perícia sobre os papéis.</p></p>
-<p><p>Lula é réu em ação penal que investiga se um terreno em São Paulo aonde seria sediado o Instituto Lula, no valor de R$ 12 milhões, e o apartamento vizinho ao do ex-presidente, em São Bernardo, no edifício Hill House - R$ 504 mil - seriam formas de pagamento de vantagens indevidas da empreiteira. A força-tarefa sustenta que o ex-presidente nunca pagou pelos imóveis até 2015</p></p>
-<p><p>Glaucos da Costamarques, primo do pecuarista José Carlos Bumlai, amigo de Lula, é denunciado por ser o suposto laranja do ex-presidente na aquisição do terreno e do apartamento.</p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/07/defesa-de-lula-diz-que-delcidio-mentiu-e-pede-anulacao-da-delacao-a-justica-federal/">Defesa de Lula diz que Delcídio mentiu e pede anulação da delação à Justiça Federal</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/24/lula-manda-31-folhas-de-recibos-de-aluguel-moro/">Lula manda ’31 folhas de recibos de aluguel’ a Moro</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/24/compadre-de-lula-entrega-moro-e-mail-de-contador-sobre-apartamento/">Compadre de Lula entrega a Moro e-mail de contador sobre apartamento</a></p></p>
-<p><p>O ex-presidente apresentou os recibos de pagamento assinados por Glaucos em setembro deste ano. Parte do material tem os mesmos erros gramaticais e há datas nos documentos que não existem no calendário, como "31 de novembro". O Ministério Público Federal investiga a autenticidade dos papéis.</p></p>
-<p><p>Glaucos tem afirmado que, em dezembro de 2015, foi visitado pelo advogado de Lula, Roberto Teixeira, no hospital Sírio Libanês, quando a ele foi prometido que o ex-presidente passaria a pagar pelo aluguel do apartamento 121 do condomínio Hill House, ocupado pelo petista. Segundo o engenheiro, um dia depois de receber o compadre de Lula, ele teria sido visitado pelo contador João Muniz, que teria levado todos os recibos para que assinasse de uma só vez.</p></p>
-<p><p>Registros do hospital revelam que Glaucos foi visitado três vezes pelo contador. No entanto, não consta a entrada do advogado de Lula no Sírio para visitá-lo. A força-tarefa ressalta que ele recebeu ligações de Teixeira em datas próximas do dia em que assinou os papéis.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/04/sem-lula-bolsonaro-pode-ter-que-se-estapear-com-marina-silva/">Sem Lula, Bolsonaro pode ter que se estapear com Marina Silva</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/03/aliado-de-lula-diz-que-pt-deve-rever-proibicao-de-aliancas/">Aliado de Lula diz que PT deve rever proibição de alianças</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/30/dilma-nao-conclui-tweet-sobre-tres-coisas-que-lula-fez-e-e-alvo-de-piadas/">Dilma não conclui tweet sobre ‘três coisas que Lula fez’ e é alvo de piadas</a></p></p>
-<p><p>"Nos documentos, a força-tarefa vê provas que corroboram com o depoimento de Glaucos. Depois da instauração deste incidente, como acima exposto, sobrevieram outros elementos, notadamente as informações fornecidas pelo Hospital Sírio-Libanês, as declarações prestadas pelo próprio contador João Muniz Leite à imprensa e neste incidente, e também os registros dos contatos telefônicos mantidos entre Glaucos e Roberto Teixeira durante o período de internação hospital além da fantasiosa versão da defesa sobre o 'encontro' dos recibos, que não apenas corroboraram a narrativa de Glaucos sobre a assinatura dos recibos em leito hospitalar como agregaram novas circunstâncias sobre a confecção dos documentos apresentados, as quais exigem os devidos esclarecimentos", sustentam os procuradores.</p></p>
-<p><p>Os procuradores querem saber de Glaucos e Muniz mais sobre as "circunstâncias em que foi elaborada e assinada a totalidade dos recibos apresentados pela defesa de Luiz Inácio Lula da Silva, no que se inclui, apenas para exemplificar as datas de confecção e assinatura dos documentos, bem como a quantidade de recibos elaborados e firmados em cada ocasião, e os responsáveis pela confecção dos documentos, entre outras circunstâncias que são úteis para a adequada e efetiva realização do exame perícias requerido".</p></p>
-<p><h2>Defesa</h2></p>
-<p><p>Em nota, o advogado Cristiano Zanin Martins, que defende Lula, afirmou: "Em 24/10 fizemos a entrega de recibos originais emitidos pelo proprietário do apartamento à inquilina, D. Marisa, dando quitação em relação aos aluguéis. A lei civil brasileira confere máxima força probatória à quitação para provar o pagamento (Código Civil, art. 319), de modo que o assunto não mais comporta qualquer discussão.</p></p>
-<p><p>Reforça esse entendimento o fato de termos também comprovado: (i) a existência de movimentação financeira compatível com o recebimento dos aluguéis pelo proprietário; (ii) a existência de declaração à Receita Federal de que os valores foram pagos, com o recolhimento do imposto correspondente ('Carnê-Leão'); (iii) declaração do contador que prestava também serviços ao proprietário afirmando que recebia os recibos 'periodicamente' deste último. Também há nos autos e-mail de 07/04/2014 no qual o proprietário do imóvel descreve 'Os aluguéis recebidos em 2013'</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/30/contra-lula-mercado-ja-fala-em-apoio-a-bolsonaro-diz-colunista/">Contra Lula, mercado já fala em apoio a Bolsonaro, diz colunista</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/30/pesquisa-aponta-lula-e-bolsonaro-no-2o-turno-para-2018/">Pesquisa aponta Lula e Bolsonaro no 2º turno para 2018</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/25/stj-nega-suspeicao-de-moro-pedida-pela-defesa-de-lula/">STJ nega suspeição de Moro pedida pela defesa de Lula</a></p></p>
-<p><p>Apenas nesse processo (Ação Penal nº 5063130-17.2016.4.04.7000) foram realizadas 35 audiências e ouvidas 98 testemunhas e o Ministério Público Federal não conseguiu comprovar a real tese acusatória de que valores provenientes de 8 contratos firmados pela Petrobras teriam sido destinados ao ex-Presidente Lula. O pedido agora formulado pelo MPF para ouvir novamente o Sr. Glaucos, que já confirmou ser o proprietário do imóvel, revela mais uma tentativa de mudar o foco da ação ao invés de reconhecer a improcedência da acusação veiculada na denúncia.</p></p>
-<p><p>Essa nova iniciativa do MPF reforça o mau uso das leis e dos procedimentos jurídicos para perseguir o ex-Presidente Lula, fenômeno que definimos como 'lawfare'.</p></p>
-<p><p>A Defesa de Lula irá demonstrar, por outro lado, que documentos apresentados pelo MPF e outras partes do processo para acusar o ex-Presidente devem ser declarados inidôneos, conforme pedido já formulado em 1º/09, antes, portanto, do questionamento do MPF em relação aos recibos. Recentes informações de ex-colaboradores da Odebrecht reforçaram esse pedido."</p></p>
-{% endraw %}

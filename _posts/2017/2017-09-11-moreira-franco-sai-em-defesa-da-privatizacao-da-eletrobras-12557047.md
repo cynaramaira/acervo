@@ -1,46 +1,0 @@
----
-id: 12557047
-date: "2017-09-11T14:15:12Z"
-last_modified_at: null
-tags:
-  - "defesa"
-  - "elcio-franco"
-  - "eletrobras"
-  - "privatizacao"
-  - "victor-moreira"
-categories:
-  - "noticias"
-title: "Moreira Franco sai em defesa da privatiza\u00e7\u00e3o da Eletrobras"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/02/Moreira-Franco.jpg"
----
-{% raw %}
-<p><p>‘É preciso ter uma estatal de aeroportos’</p></p>
-<p><p>“Estamos cumprindo rigorosamente o que está no ‘Ponte para o Futuro’. É a única alternativa para tirar a economia brasileira de uma crise monumental”, declarou o presidente da Fundação Ulysses Guimarães, ministro Moreira Franco em entrevista exclusiva ao jornal Valor Econômico.</p></p>
-<p><p>Por Daniel Rittner e Raymundo Costa, no jornal Valor Econômico</p></p>
-<p><p>A operação de aeroportos deficitários exige manter a Infraero como empresa pública, afirma o ministro da Secretaria- Geral, Moreira Franco. Para garantir sua sustentabilidade, ele garante que a estatal ficará com os recursos provenientes da venda de participação acionária de 49% nos terminais concedidos à iniciativa privada pelo governo anterior.<br /></p>
-<p> À frente do pacote de ativos recém-anunciado, o ministro defendeu a privatização da Eletrobras e disse que a Casa da Moeda enfrenta um problema estrutural: o uso cada vez mais diminuto de cédulas de dinheiro para fazer pagamentos. Segundo ele, os Correios padecem do mesmo dilema, mas não havia estudos suficientemente apurados para incluir a companhia postal no “pacotão”.<br /></p>
-<p> Moreira procurou ainda tranquilizar as concessionárias de rodovias leiloadas entre 2013 e 2014 que esperam a publicação de medida provisória para renegociar prazos de duplicação – o prazo original, de cinco anos, mostrou-se inviável. Leia os principais trechos da entrevista:</p></p>
-<p><p>Valor: Um pacote tão ambicioso de privatizações não é exagero para o tempo que resta de governo?<br /></p>
-<p> Wellington Moreira Franco: Temos a convicção de que esse é o único caminho. O fato de ser final de mandato não nos desobriga da responsabilidade que expressamos antecipadamente no programa “Ponte para o Futuro”. Até o último dia de governo temos obrigações idênticas às do primeiro. Não se está discutindo um ativo específico, mas o conceito. Trata-se de um debate antigo e que vem evoluindo de governo a governo. A primeira medida provisória assinada pelo presidente Temer [criando o Programa de Parcerias de Investimentos] decorre da constatação de que não havia, como nas administrações anteriores, a hipótese de trabalharmos com a alternativa das parcerias público-privadas. Recebemos uma situação fiscal que nos impede de pensar em investimentos estatais. Existe espaço agora para apenas um P, de privado. Isso nos leva inexoravelmente às privatizações e às concessões.</p></p>
-<p><p>Valor: Um dos problemas é que há grande concentração dos leilões anunciados entre julho e setembro de 2018, às vésperas das eleições presidenciais, e o ambiente político pode contaminar os certames.<br /></p>
-<p> Moreira: O cronograma tem sido cumprido para todos os ativos anunciados até agora. Não se pode romper a ordem natural das coisas. Você está querendo inibir o mandato de um presidente por suposições de natureza ideológica ou política. O programa foi exaustivamente debatido antes mesmo de o presidente Temer ter se tornado presidente. É um fato único. Não estamos inventando nada. Estamos cumprindo rigorosamente o que está no “Ponte para o Futuro”. É a única alternativa para tirar a economia brasileira de uma crise monumental. O caminho que estamos percorrendo é correto e vai garantir qualidade na prestação de serviços, preços e melhorias logísticas.</p></p>
-<p><p>Valor: A inclusão de Congonhas sugeriu um viés arrecadatório no último pacote e coloca em risco de insustentabilidade financeira a Infraero. Por que concedê­-lo?<br /></p>
-<p> Moreira: Congonhas é uma discussão nova. Desde os meus tempos de Secretaria de Aviação Civil [foi ministro do governo Dilma] as pessoas me perguntavam quando haveria o leilão de Congonhas. A motivação não é fiscal. Sua inclusão ocorre pela necessidade de reorganizar o sistema aeroportuário, dando eficiência, qualidade e custos operacionais mais baixos, replicando a experiência que já foi constatada nos aeroportos internacionais.</p></p>
-<p><p>Valor: Mas o aeroporto de Congonhas é, de longe, o ativo mais rentável da Infraero. Como ela fará para continuar operando o restante da rede? Como vai ter dinheiro para bancar a operação de Teresina, Campo Grande ou Foz do Iguaçu?<br /></p>
-<p> Moreira: Nós temos uma estratégia. Vamos acabar com a participação de 49% da Infraero em vários aeroportos privados. Essa participação exigiu transferências do Tesouro porque ela própria não tinha dinheiro para isso. Com a venda dos 49%, a Infraero ficará com um volume de recursos suficiente para continuar com suas operações. Mas é fundamental promover mudanças internas grandes. Suas dificuldades financeiras não vêm de agora.</p></p>
-<p><p>Valor: A Infraero também pode ser privatizada? Ter uma abertura de capital, por exemplo, em que a União ficaria como minoritária?<br /></p>
-<p> Moreira: Essa discussão está sendo conduzida pelo Ministério dos Transportes.</p></p>
-<p><p>Valor: Qual é a sua opinião?<br /></p>
-<p> Moreira: É preciso ter uma empresa pública para cuidar dos aeroportos que não são rentáveis. Privatizando a Infraero, perderíamos isso. Há um conjunto de aeroportos – e no Brasil, por sua extensão territorial, esse conjunto não é pequeno – deficitários. Mas eles são fundamentais para a segurança, conforto, bem-estar, mobilidade da população. Para cuidar de aeroportos na Amazônia Legal, onde quase a totalidade gera prejuízo, você precisa de uma empresa pública. As distâncias lá se medem por dias de barco ou horas de vôo. A Amazônia precisa ter aeroportos funcionando. Mas o custo da operação precisa ser declarado explicitamente. Temos que exercitar a verdade fiscal no Brasil. Subsídio não pode ser uma ferramenta sem origem. Tem que constar do orçamento explicitamente. Não com a nebulosidade em que vivemos até agora.</p></p>
-<p><p>Valor: A privatização da Eletrobras tem despertado reações contrárias de parte da base aliada no Congresso e de governadores do Nordeste. Não será difícil avançar nesse processo, não apenas com a Eletrobras, mas também com estatais como a Casa da Moeda?<br /></p>
-<p> Moreira: As experiências da Embraer e da Telebras foram extremamente positivas. Não tenho dúvidas de que vamos repetir a experiência. O setor elétrico tem deficiências evidentes, sistematicamente entra em colapso. Com o crescimento da economia, a demanda por energia será grande e precisamos ter capacidade de abastecimento. É absurdo depender de térmicas para manter o sistema funcionando. Com relação à Casa da Moeda, há um problema estrutural. O core business dela está em extinção. Ela produzia mais de três milhões de cédulas por ano. Agora produz um milhão e pouco. Não tem cabimento manter esse tipo de operação só por preconceito. O mesmo raciocínio se aplica aos Correios, mas não levamos adiante [a privatização] porque é necessário fazer mais estudos. Ninguém mais envia carta ou telegrama. A atividade postal está definhando, mas poderiam estar desempenhando muito bem a tarefa logística. O comércio eletrônico cresce. No entanto, a responsabilidade fez com que não colocássemos os Correios na lista porque não havia tempo hábil para um estudo mais apurado. Nos ativos que estamos oferecendo, os estudos foram bem estruturados. Conseguimos restabelecer previsibilidade e um calendário gregoriano.</p></p>
-<p><p>Valor: No caso da Eletrobras, a Aneel alerta para um aumento de até 16,7% nas contas de luz e o governo pode ficar sem instrumentos para tirar do papel projetos de grande porte, como Belo Monte<br /></p>
-<p> Moreira: E sabe qual foi o prejuízo ao erário por essa brincadeira? Quebraram a Eletrobras. Pergunte aos fundos de pensão que investiram nos projetos. Quanto à tarifa, eu acredito no ministro Fernando Coelho e não é isso o que ele diz [o Ministério de Minas e Energia prevê aumento das tarifas de no máximo 7%].</p></p>
-<p><p>Valor: O senhor tem indicações do apetite do mercado? Os leilões vão render ágio para o governo?<br /></p>
-<p> Moreira: Todos os ativos oferecidos partem de experiências bem sucedidas, com ambiente regulatório saudável, nível de transparência altamente cuidadoso, ambiente concorrencial, uma nova modelagem de financiamento. Mas não tenho a menor vocação para Mãe Dinah. Se tiver [ÁGIO], ótimo.</p></p>
-<p><p>Valor: Operadoras de rodovias concedidas no governo anterior reclamam da demora na publicação de uma medida provisória que permita maior prazo para obras de duplicação e reequilibre os contratos.<br /></p>
-<p> Moreira: A MP está para sair. Nós nunca dissemos alguma coisa que não tenha ocorrido. Pode ter demorado mais ou demorado menos, mas estamos muito militantes em uma solução que atenda ao Tribunal de Contas da União (TCU), às regras de segurança jurídica e à viabilidade dos contratos.</p></p>
-{% endraw %}

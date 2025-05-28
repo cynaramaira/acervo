@@ -1,28 +1,0 @@
----
-id: 12556178
-date: "2017-08-24T13:52:05Z"
-last_modified_at: null
-tags:
-  - "animais"
-  - "brasileirao"
-  - "emprestimos"
-categories:
-  - "noticias"
-title: "A sociedade brasileira quer mais transpar\u00eancia. R$ 240 bilh\u00f5es foram destinados a empr\u00e9stimos subsidiados"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/08/betinho-gomes.jpg"
----
-{% raw %}
-<p><p>Betinho Gomes, deputado federal, em artigo enviado ao <strong>Blog de Jamildo</strong></p></p>
-<p><p>A Medida Provisória nº 777, de 26 de abril de 2017, cria a Taxa de Longo Prazo – TLP, essencialmente determinada em mercado de livre e de amplo acesso, para substituir a Taxa de Juros de Longo Prazo – TJLP como taxa de referência para os financiamentos de longo prazo no país.</p></p>
-<p><p>Além de proporcionar uma melhor remuneração dos recursos do Fundo de Amparo ao Trabalhador – FAT, diminuindo o atual déficit do fundo e possibilitando a utilização desses recursos em políticas direcionadas ao apoio ao trabalhador, a MP 777/2017 tem o condão de trazer à luz a forma como os recursos públicos têm sido aplicados por meio de subsídios, contribuindo sobremaneira para a democracia no país.</p></p>
-<p><p>Embora não passe pelo processo de aprovação orçamentária, a utilização de uma taxa de longo prazo artificial e insensível ao mercado, como é o caso da atual TJLP, gera o aumento da dívida pública. Assim, a manutenção da TJLP em um valor bem abaixo dos juros de mercado tem um preço, que é pago pelos trabalhadores e pelos contribuintes. Esse preço, que correspondente à diferença entre o custo de captação do Tesouro Nacional e custo contratual dos empréstimos concedidos pelo BNDES com os recursos do FAT e do Tesouro Nacional, atingiu o montante de R$ 240 bilhões nos últimos dez anos. Ora, é simplesmente assustador constatar, no momento de crise pelo qual passamos, em que são necessários cortes orçamentários em vários setores, que nada menos do que R$ 240 bilhões foram destinados à concessão de empréstimos subsidiados, sem que isso fosse debatido – ou até mesmo conhecido – pela sociedade.</p></p>
-<p><p>Há dados que comprovam que 70% dos recursos emprestados pelo BNDES com os recursos do FAT e do Tesouro Nacional foram captados por empresas de grande porte, isto é, aquelas com faturamento superior a R$ 300 milhões. Menos de 30% dos recursos subsidiados, portanto, foram repassados às médias, pequenas e microempresas. Dessa forma, o subsídio implícito tem constituído, na prática, uma transferência invisível da renda da sociedade para grandes grupos econômicos.</p></p>
-<p><p>Que fique bem claro, não se trata de impedir o subsídio de setores importantes para a indústria e para a economia, pois a concessão de subsídio pode contribuir com o crescimento econômico do país e com uma maior geração de emprego e renda. Trata-se de permitir que essa escolha seja feita às claras, de forma que a sociedade possa saber como tais recursos – que são públicos – estão sendo aplicados, qual o seu montante e para quais setores eles estão sendo direcionados.</p></p>
-<p><p>Ora, numa sociedade democrática, espera-se que o subsídio seja explícito, transparente, representativo da vontade da população, e não uma transferência silenciosa da renda dos cidadãos para determinados setores. Assim como se discute quanto será destinado para as políticas públicas de saúde, educação, saneamento básico, segurança, entre outras, também deve ser discutido quanto será destinado para o incentivo ao desenvolvimento e à indústria. Não há razão para que essa transferência de recursos continue a acontecer fora da visão da sociedade enquanto a população é quem aperta o cinto e paga a conta.</p></p>
-<p><p>Se por um lado a substituição da TJLP pela TLP reduz o subsídio implícito, ela não inviabiliza de nenhuma forma a concessão de subsídio explícito. Dessa maneira, o Governo poderá conceder subsídios a empresas ou a setores específicos – como já o faz –, se considerar que o seu incentivo é importante para a sociedade. No entanto, tal concessão não será mais automática e invisível. Para que ela ocorra, será necessário que haja o exame da proposta pelos representantes da sociedade no Poder Legislativo, por meio da inclusão dos subsídios no Orçamento Geral da União.</p></p>
-<p><p>A redução do subsídio implícito decorrente da substituição da TJLP pela TLP trará muitos efeitos positivos, tais como a diminuição da dívida pública, a possibilidade de uma distribuição mais democrática na concessão de crédito e a diminuição da taxa de juros estrutural da economia, entre outros. Mas certamente a sua mais importante contribuição será impedir a realização de gastos públicos às escuras.</p></p>
-<p><p>Sem dúvida, a sociedade brasileira não admite mais a execução de políticas governamentais pouco transparentes. Ao contrário, ela tem se mostrado cada vez mais desejosa da transparência característica de um país democrático. Com a aplicação da TLP, a concessão de subsídios será clara e seus efeitos financeiros poderão ser avaliados e acompanhados pela sociedade. Dessa forma, não caberá ao cidadão apenas pagar a conta decorrente do endividamento público por meio de despesas veladas, mas a ele será devolvido o poder de acompanhar os gastos públicos e de aprová-los, por meio dos seus representantes eleitos.</p></p>
-{% endraw %}

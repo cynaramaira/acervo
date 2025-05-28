@@ -1,48 +1,0 @@
----
-id: 12557585
-date: "2017-09-21T10:40:30Z"
-last_modified_at: null
-tags:
-  - "caruaru"
-  - "esta"
-  - "governo"
-  - "paulo-camara"
-categories:
-  - "noticias"
-title: "Governo Paulo C\u00e2mara diz que viol\u00eancia est\u00e1 caindo em Caruaru"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/09/20170920114503_IMG_9010_1.jpg"
----
-{% raw %}
-<p><p>O Governo de Pernambuco recebeu, nesta quarta-feira (20.09), a prefeita de Caruaru, Raquel Lyra; seu vice, Rodrigo Pinheiro, e cerca de 30 representantes de associações empresariais, sindicatos, movimentos religiosos e culturais, entre outros segmentos, para detalhar as ações do Governo para a melhoria da segurança pública do município.</p></p>
-<p><p>“Colocamos, aqui, as demandas de tudo que precisamos. Precisamos de urgência, que não se sigam mais protocolos. Estamos entre as cidades mais violentas do Brasil. Precisamos de ação para hoje”, disse Raquel Lyra.</p></p>
-<p><p>O grupo foi recebido pelo chefe de Gabinete do Governo, João Campos; o secretário estadual de Defesa Social, Antônio de Pádua; e o secretário executivo da Casa Civil, Marcelo Canuto. Na reunião, que durou uma hora, foram detalhadas, ponto a ponto, todas as ações e esforços que Governo do Estado tem feito de prevenção e combate à violência na região.</p></p>
-<p><p>Com a lista de reivindicações em mãos, Pádua falou, ponto a ponto, sobre as ações do governo.</p></p>
-<p><p>“Outro destaque foi o envio de viaturas. Este ano, Caruaru recebeu mais dez veículos. Até o final de outubro, chegarão mais viaturas. E até novembro, mais de 700 motocicletas serão compradas pelo governo, e parte delas seguirá para o Biesp, em Caruaru. Também foi citado no encontro o caso do jornalista baleado num confronto de bandidos, no fim de semana. Em menos de 72 horas, as Polícias Civil e Militar prenderam todos os envolvidos. Os acusados são foragidos do Presídio de Alcaçuz, no Rio Grande do Norte, e estavam em Caruaru com o objetivo de praticar assaltos. Para dar uma pronta resposta, designamos um delegado especial, Bruno Vital, para estar à frente das investigações”.</p></p>
-<p><p>Uma ação conjunta entre as Polícias Militar e Civil também vai reforçar a segurança no bairro do Salgado, o mais populoso de Caruaru. O objetivo é prevenir homicídios, capturar pessoas ligadas a atividades criminosas e fazer repressão qualificada ao tráfico de drogas. Os trabalhos serão coordenados pelo Centro Integrado de Comando e Controle Móvel (CICCM) da Secretaria de Defesa Social, instalado no bairro (próximo à estação da Compesa). A iniciativa conta com policiais do 4º BPM, Departamento de Repressão ao Narcotráfico (Denarc), equipes do GATI, da Rocam e do Batalhão Especializado de Policiamento do Interior (BEPI).</p></p>
-<p><p>Segundo foi informado na reunião, o número de homicídios em Caruaru vem decrescendo desde maio. De 31 registros naquele mês, passou para 21 em junho, 22 em julho e 18 em agosto. De maio a agosto, portanto, houve redução de 42% em apenas três meses. Ao todo, houve 193 CVLIs em Caruaru nos oito primeiros meses de 2017.</p></p>
-<p><p>"A tendência de redução de Crimes Violentos contra o Patrimônio (CVPs) em Caruaru se confirma desde junho: de 934 casos naquele mês, passou-se para 822 registros em agosto. Ao todo, nos primeiros oito meses do ano de 2017, registraram-se 6.043 CVPs em Caruaru", divulgou a gestão socialista.</p></p>
-<p><p>O governo Paulo Câmara disse a prefeita que ‘boa parte’ das reivindicações trazidas pelo grupo de Caruaru, já estão sendo atendidas pelo governo, como por exemplo, o efetivo de policiais nas ruas do município.</p></p>
-<p><p>“Caruaru, na verdade, já está sendo objeto de reforço por determinação do governador Paulo Câmara. Hoje, em Caruaru, nós temos pela terceira vez uma operação integrada chamada Força no Foco, que tem como objetivo realizar prisões de homicidas, traficantes e isso está acontecendo lá agora. Estamos também com a Operação Monte Seguro, justamente para realizar a prisão dessas pessoas. Só hoje, foram presos um homicida e um traficante de droga, lá em Caruaru”, disse o secretário de Defesa Social.</p></p>
-<p><p>Chefe de Gabinete do governador, João Campos disse que o diálogo é uma prática do Governo do Estado.</p></p>
-<p><p>"É mais fácil acertar quando você escuta o povo e está próximo dele. Aqui nesta reunião, fizemos questão de escutar um a um. Pernambuco não é uma ilha e não está isolado esta isolado do resto do Brasil. Todo mundo acompanha no noticiário a situação de outros Estados no Brasil. Aqui em Pernambuco temos uma política pública, que é o Pacto pela Vida, com resultados. É uma política em que o governador vai à mesa como esta aqui e reúne Judiciário, Legislativo, Executivo para tratar de segurança, toda semana. Hoje, por exemplo, está acontecendo uma reunião preparatória do Pacto lá em Caruaru. O governador fez também um dos maiores pacotes de reajuste para as polícias que já se viu", elencou João Campos.</p></p>
-<p><p>Representando a Casa Civil, Marcelo Canuto destacou a importância da "união e do trabalho em conjunto", em um momento que o Governo Federal deixa lacunas no seu dever de ajudar os Estados.</p></p>
-<p><p>"As prefeituras também têm seu papel. E é preciso estarmos juntos nessa batalha. Estamos num contexto social grave, de dificuldades. O Governo do Estado não faz cena com relação ao combate à violência. Aqui, todo mundo conhece o trabalho sério e responsável do governador Paulo Câmara", afirmou Canuto.</p></p>
-<p><p>Outro reforço já previsto e detalhado na reunião, é a entrada de 1.100 mil policiais civis nas ruas. A formatura é no dia 2 de outubro próximo. Caruaru e todas as demais cidades do Estado receberão reforço de equipes com os novos policiais civis.</p></p>
-<p><p>"Caruaru, por exemplo, recebeu há 15 dias a primeira delegacia específica no combate de narcóticos. Isso é uma ação proativa do governador. 70% dos crimes é resultado de entorpecentes. E esta semana, Caruaru também ganhou um centro de comando e controle móvel. Então não resta dúvida da preocupação e dos esforços do governador com a maior cidade do Agreste", pontuou Pádua. O secretário também lembrou que esta semana a reunião preparatória do Pacto pela Vida foi transferida para Caruaru, em mais uma iniciativa que mostra a prioridade do Governo do Estado coma segurança e com o Agreste.</p></p>
-<p><p>&nbsp;</p></p>
-<p><p><img class="alignleft size-full wp-image-186530" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/09/20170920152444_IMG_9178.jpg" alt="" width="1920" height="1280" /></p></p>
-<p><p>Além do Palácio do Campo das Princesas, a prefeita Raquel Lyra esteve na Assembleia Legislativa, onde foi recebida pelo presidente Guilherme Uchôa e deputados, na sede do Ministério Público e no Tribunal de Justiça de Pernambuco, recebida pelo desembargador Leopoldo Raposo, presidente do órgão. Todos receberam cópias da carta e do Plano Juntos Pela Segurança.</p></p>
-<p><p>A carta de Raquel Lyra lista ações imediatas com relação ao combate à violência, considerando a situação de insegurança pelo qual o município passa.</p></p>
-<p><p>Dentre as solicitações contidas na carta, a transformação do 4º Batalhão de Polícia Militar em unidade com policiamento exclusivo para o município de Caruaru, reivindicação feita pela prefeita durante diversas visitas ao governador desde o início da sua gestão.</p></p>
-<p><p>Além disso, o pedido de implantação de mais uma delegacia de plantão; de uma delegacia de crimes de menor potencial ofensivo; de uma Delegacia de Proteção à Criança e Adolescente e, ainda, do funcionamento da Delegacia da Mulher em tempo integral nos finais de semana e em feriados.</p></p>
-<p><p>“Precisamos, também, que o serviço 190 seja regional, com uma base na nossa cidade, com pessoas que conheçam a geografia de Caruaru, o que torna o atendimento à população mais eficaz”, explicou Raquel.</p></p>
-<p><p>O patrulhamento rural também esteve em pauta.</p></p>
-<p><p>“Nós recebemos a viatura, mas não há efetivo para utilizá-la. Precisamos da ampliação do serviço”, reivindicou a prefeita. A “Carta de Caruaru em Defesa da Vida” foi assinada por representantes de diversas entidades da cidade. Dentre eles, líderes comunitários e religiosos, vereadores, associações de moradores, Associação de Sulanqueiros, Acic, CDL, PROCON, Rotary, Asces-Unita, OAB, FIEPE, Instituto Histórico, Academia Caruaruense de Cultura, Ciências e Letras e Movimento Polo.</p></p>
-<p><p>Em reunião realizada no mês passado, também no Recife, com o secretário de Defesa Social do Estado, Raquel Lyra expôs a situação de insegurança no Monte Bom Jesus e, graças à sua solicitação de uma ação concreta e eficaz no local, desde o fim de semana, começou a ser realizada a “Operação Monte”, que busca, principalmente, traficantes e homicidas.</p></p>
-<p><p>A gestora de Caruaru entregou, ainda, aos representantes do Estado, o Plano Municipal Juntos Pela Segurança, lançado na última terça-feira (19). “Estamos fazendo a nossa parte. Precisamos que o Estado enxergue a situação de Caruaru com mais objetividade e clareza”, acrescentou.</p></p>
-<p><p>O chefe de gabinete do governador, João Campos, agendou nova visita para a próxima quarta-feira (27), às 10h, quando ficou acordado dar uma resposta aos pedidos da comitiva.</p></p>
-<p><p>&nbsp;</p></p>
-{% endraw %}

@@ -1,31 +1,0 @@
----
-id: 12554569
-date: "2017-07-25T10:21:43Z"
-last_modified_at: null
-tags:
-  - "desempreg"
-  - "geraldo-alckmin"
-  - "lava-jato"
-categories:
-  - "noticias"
-title: "Investigado pela Lava Jato, Alckmin diz que suas campanhas sempre foram \"franciscanas\""
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/07/Geraldo-Alckmin.jpg"
----
-{% raw %}
-<p><p>Pré-candidato as eleições presidenciais de 2018, o governador de São Paulo, Geraldo Alckmin (PSDB), concedeu entrevista à <a href="https://radiojornal.ne10.uol.com.br/">Rádio Jornal</a>, na manhã desta terça-feira (25), em que falou sobre a corrida presidencial, a <a href="https://blogs.ne10.uol.com.br/jamildo/2017/07/20/brasilprev-comunica-moro-bloqueio-de-r-9-milhoes-de-lula/">aposentadoria privada do ex-presidente Lula (PT)</a>, as investigações da Lava Jato e suas parcerias com o governador Paulo Câmara (PSB). O tucano afirmou que o <a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/08/alckmin-concorda-com-fhc-e-diz-que-doria-e-o-novo/">prefeito de São Paulo, João Doria (PSDB)</a>, não vai concorrer as eleições primárias do PSDB e avaliou que entre dezembro deste ano e janeiro do próximo deve haver uma definição por tarde da legenda sobre o nome a ser escolhido.</p></p>
-<p><p>Questionado sobre a <a href="https://blogs.ne10.uol.com.br/jamildo/2017/07/12/moro-condena-lula-9-anos-de-prisao-pelo-caso-do-triplex/">condenação de Lula no âmbito da Lava Jato</a> e sobre sua candidatura ser viabilizada por causa da denúncia da Procuradoria-Geral da República (PGR) de ter recebido em sua campanha mais de R$ 10 milhões da Odebrecht, <a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/16/alckmin-reage-por-candidatura-em-2018/">Alckim defendeu a operação e disse que não houve denúncia e sim, um citação</a>. "É importante que o País tenha instituições fortes e que as investigações ocorram. Aqueles que são inocentes, sejam inocentados; aqueles que são culpados, sejam punidos. Acho que nesse sentido o Brasil tem dado o exemplo através da Lava Jato em que as instituições tem cumprido seu papel sem nenhum impedimento e que as investigações continuem e os processo judicial também", declarou.</p></p>
-<p><p>Para Geraldo Alckmin, político  que fica rico "é ladrão". "Não há nenhum denúncia formal, tem uma citação. Tenho a consciência absolutamente tranquila. <a href="https://blogs.ne10.uol.com.br/jamildo/2016/12/09/odebrecht-delata-caixa-2-em-dinheiro-vivo-para-alckmin-diz-jornal/">Todas as minhas campanhas foram estritamente 'franciscanas' no sentido de 'menos gastos'</a>. E tenho uma vida pública que depois de 40 anos o patrimônio é quase nada, meu patrimônio é quase nada; é o que herdei da minha família. Uma vez escutei do meu pai: 'se quiser faze política é dedicação, coragem, moral e vida pessoal modesta. ficou rico é ladrão'", afirmou o governador de São Paulo.</p></p>
-<p><p>Alckmin também foi questionado sobre os R$ 9 milhões da aposentadoria privada do ex-presidente Lula em que o juiz federal Sérgio Moro bloqueou na última quinta-feira (20). "Imagine se um cidadão qualquer, um trabalhador de qualquer área, ele consegue acumular R$ 9 milhões só para o programa de previdência privada. Mas enfim, não sou eu que devo dar essas explicações", disse.</p></p>
-<p><p><a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/15/alckmin-diz-que-esta-preparado-para-ser-o-candidato-do-psdb-presidente-em-2018/">O executivo do PSDB ainda falou da importância de que se faça justiça no País e que acredita na capacidade de escolha dos brasileiros</a>. "A população não é boba, ela sabe separar muito bem as coisas. O povo erra menos que as elites. Um grande erro é subestimar a inteligência das pessoas. E eu confio muito na capacidade de escolha das pessoas, tenho muita confiança no processo democrático", declarou.</p></p>
-<p><h2>Parceria com Paulo Câmara (PSB)</h2></p>
-<p><p>Cotado para concorrer as eleições presidenciais em 2018 pelo PSDB, Alckmin lembrou das parcerias com o governador de Pernambuco, Paulo Câmara (PSB), <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/21/geraldo-alckmin-visita-projeto-das-aguas-da-transposicao-em-floresta-e-custodia-nesta-quarta/">como as bombas que cedeu para a Transposição do Rio São Francisco através da Sabesp (Companhia de Saneamento Básico do Estado de São Paulo) e que foi a Sertânia</a>, no Sertão pernambucano, participar de vistorias em fevereiro deste ano.</p></p>
-<p><p>Ele também lembrou da parceria do Instituto Butantã de São Paulo que está produzindo vacina contra dengue e são testadas no Estado. "Outra parceria é a pesquisa da dengue. Estamos produzindo em teste final a vacina tetravalente. Queremos ajudar", disse, na tentativa de lembrar seu nome ao Nordeste.</p></p>
-<p><h2>Reunião com DEM</h2></p>
-<p><p><a href="https://blogs.ne10.uol.com.br/jamildo/2017/07/25/dem-sinaliza-apoio-alckmin-e-fala-em-bancada-de-50-deputados/">Geraldo Alckmin se reuniu na noite dessa segunda-feira (24), no Palácio dos Bandeirantes, com a cúpula Democrata</a>. Durante o jantar o DEM informou ao tucano que o partido espera contar com pelo menos 50 deputados federais na janela de transferência partidária prevista para ocorrer no início de 2018. Ao menos 12 deles viriam do PSB, partido do vice-governador Marcio França, um dos principais aliados de Alckmin e que disputa a presidência nacional do partido.</p></p>
-<p><p>"O democrata é um parceiro antigo nosso do PSDB aqui em São Paulo. Periodicamente a gente senta, toma uma café, troca uma ideia, ontem foi uma alegria receber o presidente da Câmara, Rodrigo Maia (DEM-RJ), receber o presidente do partido, José Agripino (DEM-RN), o ministro de pernambuco Mendoncinha (Educação, Mendonça Filho), o deputado Efraim Filho (DEM-PB), o Rodrigo Garcia (DEM-SP), nosso secretario da habitação, e ACM Neto (DEM-BA), perfeito de Salvador", pontou.</p></p>
-<p><h2>Escute a entrevista</h2></p>
-<p><p><iframe src="//mais.uol.com.br/static/uolplayer/?mediaId=16277038" width="330" height="50" frameborder="0"></iframe></p></p>
-{% endraw %}

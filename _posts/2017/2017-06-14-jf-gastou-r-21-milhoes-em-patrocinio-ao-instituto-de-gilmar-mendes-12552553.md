@@ -1,27 +1,0 @@
----
-id: 12552553
-date: "2017-06-14T08:37:38Z"
-last_modified_at: null
-tags:
-  - "sem-tags"
-categories:
-  - "noticias"
-title: "J&F gastou R$ 2,1 milh\u00f5es em patroc\u00ednio ao Instituto de Gilmar Mendes"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/06/gilmar-mendes-1.jpg"
----
-{% raw %}
-<p><p>O Instituto Brasiliense de Direito Público (IDP), que tem como um dos <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/12/gilmar-mendes-diz-que-cassacao-da-chapa-dilma-temer-lancaria-o-pais-em-quadro-de-incognita/">sócios o ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), recebeu</a> R$ 2,1 milhões em patrocínios nos últimos dois anos do grupo J&amp;F, que controla a JBS, e que tem como donos os empresários Joesley Batista e Wesley Batista – os irmãos que firmaram acordo de delação premiada com a Procuradoria-geral da República (PGR). As informações foram publicadas no jornal Folha de S. Paulo, na manhã desta quarta-feira (14).</p></p>
-<p><p>Ao jornal, o IDP diz ter devolvido R$ 650 mil no dia 29 de maio, <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/09/com-voto-de-gilmar-mendes-tse-absolve-chapa-dilma-temer/">após a revelação do acordo de delação premiada de executivos da empresa</a>. Além disso, afirma ter rescindido contrato assinado em 11 de junho de 2015, em razão de cláusula contratual “relacionada à conduta ética e moral por parte do patrocinador”. A JBS diz ter gastado R$ 1,45 milhão desde 2015 com o IDP. No entanto, não menciona a devolução de R$ 650 mil.</p></p>
-<p><p>Um dos congressos patrocinados ocorreu em abril, em Portugal, <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/09/rosa-weber-vota-pela-cassacao-e-empata-deixando-decisao-para-gilmar-mendes/">pouco depois dos executivos da JBS firmarem acordo de delação com o Ministério Público Federal</a>. No evento, participaram magistrados, ministros do governo de Michel Temer, advogados e políticos.</p></p>
-<p><p>A homologação da delação da JBS foi realizada pela ministro Edson Fachin, <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/07/no-tse-gilmar-ironiza-herman-e-diz-que-relator-usa-argumento-falacioso/">relator da Operação Lava Jato no STF. O assunto tem rendido críticas da sociedade,</a> de advogados e magistrados, que questionam os benefícios concedidos aos irmãos Batista. Gilmar tem sido um dos críticos da homologação e defendeu que a homologação da delação fosse discutida pelo plenário.</p></p>
-<p><p>A Folha de S. Paulo, em outra reportagem, também apontou que a família de Gilmar vende gado para o frigorífico. Na ocasião, questionado, “o ministro diz que não havia motivo para se declarar impedido de participar de votações sobre assuntos envolvendo a empresa”.</p></p>
-<p><h2>Irmãos Batista</h2></p>
-<p><p>Ainda segundo a Folha de S. Paulo, Após depor e entregar gravações e<a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/14/primo-de-aecio-entrega-r-15-mi-de-dono-da-jbs/"> documentos à Procuradoria-Geral da República e ao Supremo que comprometem, entre outros</a>, o presidente Michel Temer e o senador Aécio Neves (PSDB-MG), Joesley viajou para os Estados Unidos. O grupo tem mais de 60 fábricas em território norte-americano.</p></p>
-<p><p>Os trechos divulgados da delação até agora trazem conversas <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/13/cunha-pede-ao-stf-acesso-as-investigacoes-da-jbs-antes-de-depor-pf/">gravadas por Joesley com Michel Temer e Aécio. No diálogo com o presidente, ele conta, </a>entre outras coisas, que tinha um procurador informante no Ministério Público Federal e que “segurava” dois juízes que estavam em seu caminho. Também fez menção a negociações financeiras com Eduardo Cunha para que o ex-deputado cassado não fizesse delação premiada. Temer ouviu tudo sem tomar qualquer atitude, em alguns momentos chego a dizer “ótimo, muito bom” sobre as tratativas para obstruir a Justiça.</p></p>
-<p><p>A Polícia Federal também gravou a entrega de uma mala <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/09/jbs-e-alvo-de-acao-da-policia-federal/">com R$ 500 mil enviada por Joesley ao deputado Rodrigo Rocha Loures (PMDB-PR), e</a>scalado pelo presidente para tratar de assuntos de interesse da JBS. O empresário também gravou conversas em que Aécio lhe pede R$ 2 milhões. O rastreamento mostrou que o dinheiro foi parar na empresa do filho do senador Zezé Perrella (PMDB-MG), aliado do presidente do PSDB.</p></p>
-<p><h2>Parlamentares receberam mais de R$ 107 milhões da JBS</h2></p>
-<p><p>Um em cada três integrantes do atual Congresso recebeu dinheiro do grupo JBS<a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/31/controladora-da-jbs-fecha-acordo-de-leniencia-com-multa-de-r-103-bilhoes/"> na eleição de 2014, segundo planilha entregue pelos delatores à </a>Procuradoria-Geral da República e ao Supremo. Juntos, quase 200 congressistas receberam mais de R$ 107 milhões da empresa. De acordo com os delatores, a maior parte dos recursos era propina, mesmo em casos de doação oficial registrada no Tribunal Superior Eleitoral (TSE). Foram beneficiados pela JBS 167 deputados federais, de 19 partidos, e 28 senadores.</p></p>
-{% endraw %}

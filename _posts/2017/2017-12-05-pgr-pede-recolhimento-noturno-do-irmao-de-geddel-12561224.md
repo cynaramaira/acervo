@@ -1,44 +1,0 @@
----
-id: 12561224
-date: "2017-12-05T10:00:48Z"
-last_modified_at: null
-tags:
-  - "irmaos-safdie"
-categories:
-  - "noticias"
-title: "PGR pede 'recolhimento noturno' do irm\u00e3o de Geddel"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/10/lucio-vieira-lima.jpg"
----
-{% raw %}
-<p><p style="text-align: justify;"><em>Estadão Conteúdo</em> - A Procuradoria-Geral da República denunciou o deputado federal Lúcio Vieira Lima e o seu irmão e também ex-ministro Geddel Vieira Lima por crimes de lavagem de dinheiro e associação criminosa. Na denúncia, a procuradora-geral da República, Raquel Dodge, solicitou a prisão domiciliar de Marluce Vieira Lima, mãe dos políticos, e o recolhimento noturno e nos dias de folga de Lúcio.</p></p>
-<p><p style="text-align: justify;">Segundo a denúncia, ambos continuam a praticar crime de peculato, a manipular provas e a obstruir a investigação criminal. Outro pedido foi a indisponibilidade de sete empreendimentos imobiliários adquiridos para viabilizar a lavagem de dinheiro.</p></p>
-<p><p>LEIA TAMBÉM<br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/12/05/pgr-denuncia-geddel-por-lavagem-de-dinheiro-e-associacao-criminosa/">PGR denuncia Geddel por lavagem de dinheiro e associação criminosa</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/28/pf-atribui-lavagem-de-dinheiro-e-associacao-criminosa-geddel-e-lucio-por-bunker/">PF atribui lavagem de dinheiro e associação criminosa a Geddel e Lúcio por bunker</a></p></p>
-<p><p style="text-align: justify;">A denúncia é decorrente das investigações realizadas a partir da descoberta e apreensão de R$ 51 milhões em um apartamento em Salvador. Para os investigadores, não há dúvidas de que o dinheiro localizado no imóvel é resultado de práticas criminosas como corrupção passiva e peculato. As informações foram divulgadas pelo Ministério Público Federal nesta terça-feira, 5</p></p>
-<p><p style="text-align: justify;">Também foram denunciados outros quatro investigados: a mãe dos políticos, Marluce Vieira Lima, os ex-secretários parlamentares, Job Ribeiro Brandão e Gustavo Pedreira do Couto Ferraz e o empresário Luiz Fernando Machado da Costa Filho.</p></p>
-<p><p style="text-align: justify;">Além da denúncia, a procuradora-geral da República, Raquel Dodge, pediu ao STF a instauração de novo inquérito para apurar se a família Vieira Lima se apropriou de valores pagos pela Câmara dos Deputados a secretários parlamentares vinculados ao gabinete de Lúcio Vieira Lima.</p></p>
-<p><p style="text-align: justify;">Outro objetivo é saber se os secretários exerciam, de fato, funções públicas ou se trabalhavam exclusivamente para a família e prestavam serviço a seus negócios particulares.</p></p>
-<p><p style="text-align: justify;">» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/28/stf-revoga-prisao-domiciliar-de-ex-assessor-de-geddel-vieira-lima/">STF revoga prisão domiciliar de ex-assessor de Geddel Vieira Lima</a></p></p>
-<p><p style="text-align: justify;">Segundo a denúncia, de 2010 até 5 de setembro deste ano, a família Vieira Lima cometeu crimes de ocultação da origem, localização, disposição, movimentação e propriedade das cifras milionárias em dinheiro vivo. Até janeiro do ano passado, o dinheiro ficou escondido em um closet na casa de Marluce Vieira Lima.</p></p>
-<p><p style="text-align: justify;">Após essa data, o montante de R$ 42 milhões e cerca de U$ 2,5 milhões foi transferido em malas e caixas para um apartamento no bairro da Graça, em Salvador. Semanas depois, foi levado para um apartamento vizinho, onde ocorreu a apreensão pela Polícia Federal, na Operação Tesouro Perdido.</p></p>
-<p><p style="text-align: justify;">Na peça enviada ao STF, a procuradora-geral sustenta que a apreensão das cifras milionárias foi um capítulo complementar a vários fatos investigados nas operações Lava Jatos, Sépsius e Cui Bono, assim como os narrados nas denúncias dos Inquéritos 4327 e 4483 contra Geddel e outros políticos. Para a PGR, a apreensão dos valores guarda relação de causa e efeito com o que foi denunciado, legitima as versões apresentadas e confirma as provas.</p></p>
-<p><p style="text-align: justify;">Na denúncia, foram anexadas provas documentais e testemunhais, segundo as quais, a família Vieira Lima lavava o dinheiro por meio do mercado imobiliário. De acordo com o documento, entre 2011 e 2016, o empresário Luiz Fernando Machado Costa Filho, administrador da Cosbat - Construção e Engenharia, empresa de construção civil baiana especializada em empreendimentos imobiliários de alto luxo em Salvador, auxiliou a família na prática criminosa ao vender a empresas de Geddel, Lúcio e de seus pais, imóveis avaliados em mais de R$ 12 milhões.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/18/ex-assessor-guardava-dinheiro-em-closet-da-mae-de-geddel/">Ex-assessor guardava dinheiro em closet da mãe de Geddel</a></p></p>
-<p><p style="text-align: justify;">Segundo a PGR, a partir de 2011, "a família, comprovadamente, avançou da primeira fase do ciclo de lavagem, a ocultação, para a segunda e terceira fases, dissimulação e integração", por meio de investimentos em imóveis.</p></p>
-<p><p style="text-align: justify;">"Essa foi a demonstração de que o depósito oculto do dinheiro não era um fim exaurido em si. Visava à reintrodução disfarçada do ativo no meio circulante: o mercado imobiliário". Entre 2011 e 2016, o empresário Luiz Fernando (Cosbat) relatou que foi à casa de Marluce para retirar recursos em espécie e em cheque por pelo menos 10 vezes.</p></p>
-<p><p style="text-align: justify;">A lavagem de dinheiro seguia uma dinâmica criminosa, passando pela movimentação dos valores no apartamento de Marluce (ocultação), repasse à Cosbat por meio das empresas dos irmãos Vieira Lima (dissimulação) e declaração ao Poder Público da legalidade dos investimentos como desempenho das empresas, incorporando os valores à economia formal (integração).</p></p>
-<p><p style="text-align: justify;">Segundo a denúncia, Job Ribeiro Brandão e Gustavo Pedreira do Couto Ferraz trabalharam como operadores da família Vieira Lima. Eles seriam os encarregados de receber e movimentar dinheiro em espécie para ocultar a natureza e origem dos valores. Depois de contar o dinheiro, Job seria o responsável por realizar pagamentos e fazer movimentações para o ciclo da lavagem de dinheiro. Digitais dos dois foram encontradas nos valores apreendidos.</p></p>
-<p><p style="text-align: justify;">Embora tenha denunciado Job e Gustavo, a procuradora-geral destacou a postura colaborativa adotada pelos dois no decorrer das investigações, inclusive com a entrega de indícios de provas da prática de peculato por parte da família Vieira Lima.</p></p>
-<p><p style="text-align: justify;">"Colaboração desse nível não pode restar indiferente ao direito penal", pontuou a procuradora-geral, ao destacar a possibilidade de extinção da punibilidade, isenção ou diminuição de pena, a depender da colaboração dois durante a instrução processual.</p></p>
-<p><p style="text-align: justify;">» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/01/fachin-manda-a-moro-denuncia-contra-cunha-geddel-alves-e-loures/">Fachin manda a Moro denúncia contra Cunha, Geddel, Alves e Loures</a></p></p>
-<p><p style="text-align: justify;">Em relação aos demais denunciados, além da condenação penal, Raquel Dodge pediu que eles percam, em favor da União, o dinheiro apreendido no apartamento (R$ 51 milhões) e as participações societárias nas empresas imobiliárias. Também foi solicitado o pagamento de indenização por danos morais coletivos, no valor de R$ 51 milhões e a perda da função pública A denúncia será analisada pelo ministro Edson Fachin, relator do caso no STF.</p></p>
-<p><h2 style="text-align: justify;">Defesas</h2></p>
-<p><p style="text-align: justify;">A reportagem entrou em contato com a defesa de Lúcio, Geddel e a mãe dos dois, Marluce, mas não obteve resposta até a publicação desta matéria. O espaço está aberto para as manifestações deles e de outros citados.</p></p>
-<p><p style="text-align: justify;">A defesa de Ferraz disse que não teve acesso até o momento à peça de acusação e não iria se manifestar. "Tendo em vista o relatório final da PF, eventual denúncia já era esperada, mas a defesa continua tranquila para provar sua inocência. O que se espera é que seja retirada a prisão domiciliar de Gustavo, que se já não fazia sentido antes, com mais razão não faz agora", escrevem os advogados Pedro Machado de Almeida Castro e Octavio Orzari.</p></p>
-<p><p>&nbsp;</p></p>
-<p><p>&nbsp;</p></p>
-{% endraw %}

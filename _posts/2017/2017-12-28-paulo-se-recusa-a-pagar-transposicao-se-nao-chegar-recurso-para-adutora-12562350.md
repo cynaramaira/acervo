@@ -1,49 +1,0 @@
----
-id: 12562350
-date: "2017-12-28T18:32:24Z"
-last_modified_at: null
-tags:
-  - "naomi-campbell"
-  - "paulo"
-  - "recursos"
-  - "transposicao"
-categories:
-  - "noticias"
-title: "Paulo se recusa a pagar transposi\u00e7\u00e3o se n\u00e3o chegar recurso para adutora"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/12/paulo-camara-3.jpg"
----
-{% raw %}
-<p><p>O governador Paulo Câmara (PSB), voltou a cobrar a liberação de verbas para a Adutora do Agreste, obra complementar à transposição que vai levar a água captada no rio São Francisco para municípios pernambucanos. Apesar da <a href="https://blogs.ne10.uol.com.br/jamildo/2017/12/27/temer-manda-liberar-100-da-emenda-de-bancada-para-adutora-do-agreste-paulo-camara-comemora/">liberação de R$ 126 milhões de emendas de bancada para a obra</a>, o socialista frisou que o serviço quase foi paralisado por falta de recursos este ano e que esse dinheiro deve acabar em março. Sem a liberação dos R$ 500 milhões restantes para a segunda etapa, ele afirmou que não vai aceitar discutir a gestão da utilização da água, que inclui pagar os custos da energia para bombeá-la.</p></p>
-<p><p>"Quatro estados vão ter que pagar essa água, que não é de graça. Pernambuco já disse, como a Paraíba e o Ceará, que só vai discutir algum tipo de gestão de utilização da água quando obras complementares estiverem prontas. Enquanto não estiverem, é de responsabilidade do governo federal", afirmou o governador após entrevista à <a href="https://radiojornal.ne10.uol.com.br/" target="_blank" rel="noopener">Rádio Jornal</a>. A conta da operação da transposição gira em torno de R$ 500 milhões por causa da energia necessária para bombear a água.</p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/12/27/temer-manda-liberar-100-da-emenda-de-bancada-para-adutora-do-agreste-paulo-camara-comemora/">Temer manda liberar 100% da emenda de Bancada para Adutora do Agreste. Paulo Câmara comemora</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/25/paulo-camara-aceita-divisao-de-custos-da-transposicao-e-promete-isentar-mais-pobres/">Paulo Câmara aceita divisão de custos da transposição e promete isentar mais pobres</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/07/23/populacao-espera-transposicao-mas-cobranca-por-consumo-aflige/">População espera transposição, mas cobrança por consumo aflige</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/transposicao-chega-a-paraiba-mas-ainda-falta-muito-em-pernambuco/">Transposição chega à Paraíba, mas ainda falta muito em Pernambuco</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/30/governo-estuda-privatizar-transposicao/">Governo estuda privatizar transposição do São Francisco</a></p></p>
-<p><p>Consta nos termos de compromisso da transposição que a cobrança da água e o pagamento dos custos de operação e manutenção do sistema ao operador nacional, que até agora é a Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba (Codevasf), caberão aos estados receptores.</p></p>
-<p><img class="size-full wp-image-172820" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/01/Adutora-do-Agreste-3.jpg" alt="" width="750" height="410" /> Foto: Divulgação</p>
-<p><p>Nos cálculos feitos pelo presidente da Companhia Pernambucana de Saneamento (Compesa), Roberto Tavares, em março, não será baixo o impacto: seria de 8% a 10% na conta do pernambucano. <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/25/paulo-camara-aceita-divisao-de-custos-da-transposicao-e-promete-isentar-mais-pobres/">Paulo Câmara já havia reconhecido que os estados deveriam pagar, mas cobrou "regras claras"</a> e afirmou que os mais pobres deveriam ser isentos.</p></p>
-<p><h2>Sem obras complementares, transposição não atende Pernambuco</h2></p>
-<p><p>O governador afirmou desta vez, porém, que está frustrado com os repasses para a Adutora do Agreste, que vai levar a água da transposição para essa região do Estado. "Quando foi pensada a transposição lá trás, foi feita uma pactuação de como seria isso. Pernambuco só permitiu que os dois canais passassem no solo de Pernambuco se tivessem as obras complementares, então isso é compromisso do governo federal, isso está previsto, é uma contra-partida necessária", lembrou.</p></p>
-<p><p>"Vamos cobrar isso de maneira insistente com quem precisamos e fazer os movimentos políticos necessários", disse ainda. "Nos frustramos com a Adutora do Agreste. Quando a gente vê paralisações em 2015 e a que quase ocorreu em 2017, fica apreensivo com a falta de compromisso com coisas essenciais, como é a falta de água." As obras da adutora começaram em 2013.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/17/oito-meses-apos-inauguracao-transposicao-vai-chegar-a-floresta-2a-cidade-em-pernambuco/">Oito meses após inauguração, transposição vai chegar a Floresta, 2ª cidade em Pernambuco</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/09/bomba-da-transposicao-e-roubada-e-ministerio-suspeita-de-comerciantes/">Bomba da transposição é roubada e ministério suspeita de comerciantes em depredação</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/10/ministro-religa-bombas-da-transposicao-inauguradas-por-dilma-em-pernambuco/">Ministro religa bombas da transposição inauguradas por Dilma em Pernambuco</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/12/12/mpf-recomenda-ao-ibama-que-nao-conceda-licenca-transposicao/">MPF recomenda ao Ibama que não conceda licença à transposição</a></p></p>
-<p><p>Segundo Paulo Câmara, o dinheiro liberado agora pode levar a obra até março, quando deve ser concluída a primeira etapa, levando água de Arcoverde até São Caetano. A segunda etapa, que precisa de R$ 500 milhões, vai até Caruaru e os municípios vizinhos. </p></p>
-<p><p><img class="size-full wp-image-174125" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/01/temer-transposicao8.jpg" alt="" width="750" height="410" /></p></p>
-<p><p>Além da adutora, há o <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/30/atrasado-ramal-do-agreste-fica-para-2020/">Ramal do Agreste, que sequer chegou a ser licitado</a> e é previsto para depois de 2020. A água seria captada do eixo leste no reservatório Barro Branco, em Sertânia, no Sertão. De lá, seguiria para o açude de Ipojuca, em Arcoverde, também no Sertão. De lá, a adutora levaria a água até Gravatá, no Agreste. Para minimizar a falta do equipamento, está sendo construído a Adutora do Moxotó, que levará água de Sertânia até Arcoverde mesmo sem o ramal. O lado negativo é que isso representa um custo será ainda maior para o pernambucano, devido à necessidade de grandes estações de bombeamento.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/07/07/um-ano-depois-obras-sao-retomadas-no-eixo-norte-da-transposicao/">Um ano depois, obras são retomadas no eixo norte da transposição</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/12/14/no-agreste-diogo-moraes-manda-pessoas-cobrarem-agua-da-transposicao-temer-e-seus-ministros/">No Agreste, Diogo Moraes manda pessoas cobrarem água da Transposição a Temer e seus ministros</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/20/no-recife-alckmin-usa-transposicao-para-colar-imagem-no-nordeste/">No Recife, Alckmin usa transposição para colar imagem no Nordeste</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/13/deputados-cobram-de-temer-que-aguas-da-transposicao-cheguem-ao-sertao-de-pe/">Deputados cobram de Temer que águas da transposição cheguem ao Sertão de Pernambuco</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/31/mpf-pede-ao-tse-para-multar-lula-por-ato-politico-na-transposicao/">MPF pede ao TSE para multar Lula por ato político na transposição</a></p></p>
-<p><p>Sem essas obras, hoje, mesmo com mais de 200 quilômetros de canais do eixo leste passando por Pernambuco para atender a Paraíba, cerca de 35 mil pessoas são beneficiadas em um único município do Estado. Na vizinha Paraíba são aproximadamente 1 milhão.</p></p>
-<p><p>O eixo leste foi entregue em março, em cerimônia com o presidente Michel Temer (PMDB) em Monteiro, na Paraíba. A solenidade demonstrou a briga pela paternidade da transposição, iniciada em 2007, no governo Lula (PT), porque dias depois o petista esteve no local fazendo um ato político para também marcar o início do funcionamento. A obra foi inaugurada com sete anos de atraso.</p></p>
-<p><img class="size-full wp-image-176137" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/03/temer-sertania.jpg" alt="" width="750" height="410" /> Temer na abertura da comporta do reservatório de Campos, em Sertânia (Foto: Beto Barata/Presidência da República)</p>
-<p><p>Há ainda o eixo norte, o maior e com mais atrasos no serviço. Nele, a água é captada em Cabrobó, no Sertão pernambucano, e levada ao Ceará, passando por Rio Grande do Norte e Paraíba. Esse trecho, porém, ficou com obras paradas por um ano, após atrasos, porque a <a href="https://blogs.ne10.uol.com.br/jamildo/2017/07/07/um-ano-depois-obras-sao-retomadas-no-eixo-norte-da-transposicao/">construtora deixou a obra e a licitação foi envolvida em um imbróglio judicial</a>.</p></p>
-{% endraw %}

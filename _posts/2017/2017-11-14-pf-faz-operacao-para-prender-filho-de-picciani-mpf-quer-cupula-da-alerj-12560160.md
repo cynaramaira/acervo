@@ -1,37 +1,0 @@
----
-id: 12560160
-date: "2017-11-14T08:10:46Z"
-last_modified_at: null
-tags:
-  - "alerj"
-  - "filho"
-  - "operacao"
-categories:
-  - "noticias"
-title: "PF faz opera\u00e7\u00e3o para prender filho de Picciani; MPF quer c\u00fapula da Alerj"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/11/Jorge-Picciani.jpg"
----
-{% raw %}
-<p><p><em>Estadão Conteúdo</em> - O Ministério Público Federal do Rio deflagrou nesta terça-feira (14) operação que investiga os deputados estaduais Jorge Picciani (PMDB), Paulo Melo (PMDB) e Edson Albertassi (PMDB) e outras dez pessoas por corrupção e outros crimes envolvendo a Assembleia Legislativa do Rio (Alerj). O pedido foi negado e os três são alvos de mandado de condução coercitiva, a pedido do Núcleo Criminal de Combate à Corrupção do MPF na 2ª Região e decisão do desembargador federal Abel Gomes, relator dos processos da Força-tarefa Lava Jato no Tribunal Regional Federal da 2ª região (TRF2).</p></p>
-<p><p>Entre as prisões temporárias está Felipe Picciani, o único filho adulto de Picciani que não é parlamentar e portanto não tem foro privilegiado. Além disso, há seis prisões preventivas, outras três temporárias e buscas e apreensões nos endereços de 14 pessoas físicas e sete pessoas jurídicas. A condução coercitiva dos deputados foi ordenada como alternativa inicial à prisão deles.</p></p>
-<p><p>Também estão na mira da operação o empresário Jacob Barata Filho, o "Rei do Ônibus", e o ex-presidente da Federação das Empresas de Transportes de Passageiros do Estado do Rio (Fetranspor) Lélis Teixeira.</p></p>
-<p><p>O "Rei do Ônibus" e Lélis Teixeira foram presos pela Operação Ponto Final em julho passado. Por ordem do ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), em agosto, os dois foram colocados em liberdade.</p></p>
-<p><p>A família Picciani foi um dos alvos do acordo de leniência da Carioca Engenharia em abril do ano passado. A matemática Tania Maria Silva Fontenelle, ligada à empreiteira, afirmou que comprou vacas superfaturadas da empresa Agrobilara Comércio e Participações Ltda. para "gerar dinheiro em espécie" para a empreiteira. A Agrobilara pertence à família Picciani.</p></p>
-<p><p>A executiva ligada à Carioca afirmou que "simplesmente atendia as solicitações de obter dinheiro em espécie e entregava a quem fazia a solicitação ou a pessoas da empresa por eles indicadas"</p></p>
-<p><p>"Obviamente sabia que a destinação dessas quantias era ilícita, para corrupção ou para doação eleitoral não-declarada; que, entretanto, não manteve contabilidade ou controle disso, pois estava há muitos anos na empresa, tinha a confiança dos acionistas e eram recursos não oficiais que normalmente entregava aos solicitantes", declarou Tania Maria.</p></p>
-<p><h2>Investigação na Assembleia Legislativa do Rio</h2></p>
-<p><p>Segundo o MPF, na Operação Cadeia Velha, é apurado o uso da presidência e outros postos da Alerj para a prática de corrupção, associação criminosa, lavagem de dinheiro e evasão de divisas. A petição do MPF, com 232 páginas, resulta de investigações feitas há mais de seis meses, que incluíram quebras de sigilo bancário, telefônico e telemático, acordos de leniência e de colaboração premiada, além de provas obtidas a partir das Operações Calicute, Eficiência, Descontrole, Quinto do Ouro e Ponto Final.</p></p>
-<p><p>O MPF sustentou ao TRF2 que são inafiançáveis os crimes dos deputados, que seguem em flagrante delito, sobretudo de associação criminosa e lavagem de ativos, e que não é preciso a Alerj avaliar suas prisões. Os investigados com prisão preventiva decretada são os empresários Lélis Teixeira, Jacob Barata Filho e José Carlos Lavouras, investigados na Operação Ponto Final, além de Jorge Luiz Ribeiro, Carlos Cesar da Costa Pereira e Andreia Cardoso do Nascimento.</p></p>
-<p><p>Os presos temporários são Felipe Picciani, Ana Claudia Jaccoub, Marcia Rocha Schalcher de Almeida e Fabio Cardoso do Nascimento</p></p>
-<p><p>"Havendo demonstração cabal de ilícitos gravíssimos e até mesmo alguns em estado de flagrância, à vista de sua natureza permanente, e que a liberdade dos referidos alvos implicaria perigo concreto à ordem pública, além da aplicação da lei penal, requer o MPF sejam deferidas prisões preventivas em desfavor dos deputados estaduais ora investigados", afirmam os procuradores regionais da República Andréa Bayão, Carlos Aguiar, Mônica de Ré, Neide Cardoso de Oliveira e Silvana Batini, do MPF na 2ª Região, que ainda pediram o afastamento dos deputados das funções públicas.</p></p>
-<p><p>Segundo o MPF, As investigações apontaram que o presidente da Alerj, Jorge Picciani, seu antecessor, Paulo Melo, e o segundo vice-presidente, Edson Albertassi, formam uma organização integrada ainda pelo ex-governador Sérgio Cabral (PMDB) e que vem se estruturando de forma ininterrupta desde a década de 1990</p></p>
-<p><p>A organização, como apurou o MPF, vem adotando práticas financeiras clandestinas e sofisticadas para ocultar o produto da corrupção, que incluiu recursos federais e estaduais, além de repasses da Federação das Empresas de Transportes de Passageiros do Estado do Rio de Janeiro (Fetranspor).</p></p>
-<p><p>"Três frentes de apuração embasaram a petição do MPF: os repasses da Fetranspor para deputados; os recursos da Federação para uma conta de Cabral e sua partilha com Picciani e Melo; e as doações da construtora Odebrecht a políticos, depois declaradas em acordos de colaboração já homologados", informou o MPF.</p></p>
-<p><p>A Promotoria também identificou que a indicação de Albertassi para uma vaga de conselheiro no Tribunal de Contas do Estado (TCE) "pode ter sido uma manobra para que a organização criminosa retome espaços perdidos com os afastamentos de conselheiros determinados pelo STJ, e também uma forma de atrapalhar as investigações, ao deslocar a competência para a apuração dos fatos e tirar o caso do TRF2". Essa é a primeira vez em que uma investigação ligada à Lava Jato é conduzida por um TRF.</p></p>
-<p><p>O MPF ressaltou ao TRF2 que, com seis mandatos de presidente da Alerj, Picciani é imprescindível na organização criminosa, pelo expressivo poder político e influência sobre outros órgãos estaduais. As condutas de Picciani na Alerj incluíram a edição de atos normativos em troca de vantagem indevida e restrições ao funcionamento de CPIs.</p></p>
-<p><p>"Tanto Picciani quanto Melo tiveram aumentos exponenciais de seu patrimônio desde o ingresso na política. Em certos períodos, seu patrimônio cresceu mais 100%, patamar superior a qualquer investimento. As investigações identificaram diversas relações societárias suspeitas mantidas pelos deputados, além do repasse clandestino de verbas de empresas para viabilizar a ocultação da origem do dinheiro e o financiamento de campanhas eleitorais", informou o MPF.</p></p>
-<p><p>O nome da nova fase da operação, Cadeia Velha, foi escolhido devido ao presídio erguido no século XVII no local onde fica a sede da Alerj, que era chamado oficialmente de Cadeia da Relação ou Casa da Relação em 1636. No Brasil Colonial, recebia presos políticos e quem mais infringisse as leis da Coroa Portuguesa. O prédio foi usado ainda como o antigo Tribunal da Relação, alojamento para a criadagem da Casa Real e foi cenário da prisão de Tiradentes e outros inconfidentes.</p></p>
-{% endraw %}

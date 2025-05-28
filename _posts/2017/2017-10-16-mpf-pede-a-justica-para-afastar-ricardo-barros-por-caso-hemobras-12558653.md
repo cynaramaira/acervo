@@ -1,54 +1,0 @@
----
-id: 12558653
-date: "2017-10-16T12:23:32Z"
-last_modified_at: null
-tags:
-  - "casos"
-  - "hemobras"
-  - "justica"
-  - "ricardo-barros"
-categories:
-  - "noticias"
-title: "MPF pede \u00e0 Justi\u00e7a para afastar Ricardo Barros por caso Hemobr\u00e1s"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/08/ricardo-barros.jpg"
----
-{% raw %}
-<p><p>Por causa das investigações sobre a Hemobrás, a procuradora da República Silvia Regina Pontes Lopes, do Ministério Público Federal (MPF) em Pernambuco, pediu em ação civil pública contra a União o afastamento cautelar do ministro da Saúde, Ricardo Barros. Apesar do contrato da pasta com o laboratório Shire, mantido por decisão liminar da Justiça do Distrito Federal, <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/24/ministerio-da-saude-licita-compra-de-derivados-bancada-ve-novo-ataque-hemobras/">foi feito o anúncio da compra do fator VIII recombinante</a>, medicamento para hemofílicos que é o produto com maior valor agregado da estatal.</p></p>
-<p><p>O contrato atual da Hemobrás, através de uma Parceria de Desenvolvimento Produtivo (PDP), prevê a compra do recombinante e a transferência de tecnologia para que passe a ser produzido na planta de Goiana, na Mata Norte de Pernambuco, em 2023.</p></p>
-<p><p>O MPF vê um risco de colapso no abastecimento, já que o processo de fabricação e importação do fator VIII leva pelo menos cinco meses e o estoque atual vai até fevereiro. </p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/04/tcu-manda-ministerio-da-saude-manter-contrato-da-hemobras/">TCU manda Ministério da Saúde manter contrato da Hemobrás</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/01/mpf-ameaca-governo-com-acao-criminal-se-pds-da-hemobras-for-suspensa/">MPF ameaça governo com ação criminal se parceria da Hemobrás for suspensa</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/28/temer-promete-bancada-de-pernambuco-manter-acordo-na-hemobras/">Temer promete à bancada de Pernambuco manter acordo na Hemobrás</a></p></p>
-<p><p>O <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/08/articulando-fabrica-no-reduto-eleitoral-ministro-nomeia-funcionario-do-tecpar-para-a-pasta/">medicamento era alvo de uma articulação de Barros com a Octapharma, outra empresa da indústria farmacêutica</a>. O ministro negociava levar o acordo para o Instituto de Tecnologia do Paraná (Tecpar), seu reduto eleitoral, deixando na Hemobrás apenas o fracionamento do plasma, serviço que a estatal já tem em outra parceria. A negociação foi suspensa por intervenção do presidente Michel Temer (PMDB), a pedido dos ministros pernambucanos. </p></p>
-<p><p>Apesar disso, a pasta chegou a romper o acordo com a Shire unilateralmente, alegando ausência de investimentos. A empresa conseguiu, porém, uma <a href="https://blogs.ne10.uol.com.br/jamildo/2017/07/27/luciana-santos-diz-que-decisao-sobre-hemobras-foi-na-cara-de-pau/">decisão da 4ª Vara Cível do Distrito Federal mantendo o negócio em caráter liminar</a>. O MPF afirma que a liminar não está sendo cumprida e pede que a Justiça volte a assegurar em medida cautelar a manutenção do contrato.</p></p>
-<p><p>O <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/04/tcu-manda-ministerio-da-saude-manter-contrato-da-hemobras/">Tribunal de Contas da União (TCU) também determinou, em medida cautelar</a> expedida no último dia 4, que o Ministério da Saúde não suspenda a parceria de Desenvolvimento Produtivo.</p></p>
-<p><p>Na sua decisão, o Tribunal de Contas chamou atenção para a "ausência de estudos de viabilidade técnica e econômica que amparem a suspensão e celebração de uma nova parceria, bem como pelo iminente risco de desabastecimento da população assistida pelos medicamentos".</p></p>
-<p><img class="size-full wp-image-184170" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/08/hemobras.jpg" alt="" width="750" height="410" /> Vista aérea da fábrica da Hemobrás em 2014 (Foto: Divulgação)</p>
-<p><p>No mês passado, foi fechado um acordo fechado entre o Tecpar e a Octapharma, através do governo Beto Richa (PSDB). No mesmo período, foi publicada pelo Ministério da Saúde consulta pública para aquisição de 300 milhões de UI de Fator VIII recombinante.</p></p>
-<p><p>"A conduta do Ministério da Saúde ao deflagrar novo Termo de Compromisso para a aquisição de 300 milhões de unidades do produto (com valor superior a R$ 150 milhões de reais) – mais de 50% do volume anual necessário para atender o mercado brasileiro) representa grave atentado às perspectivas de sucesso da PDP e, especialmente, ao interesse público", afirma a procuradora na ação.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/25/multinacional-desmente-ministro-ricardo-barros-e-diz-que-pode-investir-ate-mais-do-que-anunciado-na-hemobras/">Multinacional desmente ministro e diz que pode investir até mais do que anunciado na Hemobrás</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/16/ministro-tem-prazo-de-validade-diz-mendonca-sobre-barros-por-hemobras/">Ministro tem prazo de validade, diz Mendonça sobre Barros por causa da Hemobrás</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/15/temer-atende-ministros-pernambucanos-contraria-ricardo-barros-e-mantem-hemobras-em-pernambuco/">Temer ‘atende’ ministros pernambucanos, contraria Ricardo Barros e mantém Hemobrás em Pernambuco</a></p></p>
-<p><p>Em agosto, o MPF já havia recomendado que qualquer transferência da tecnologia de processamento de plasma e produção de hemoderivados deveria seguir o que estabelece a Lei de Licitações e Contratos ou legislação que regula a Parceria Público-Privada.</p></p>
-<p><p>Na nova ação, a procuradora da República argumenta que o ministro da Saúde, Ricardo Barros, assumiu publicamente o interesse político em levar o mercado para o Paraná.</p></p>
-<p><p>De acordo com a ação, o ministro busca "esvaziar" as atribuições institucionais da Hemobrás. "O intento do Ministério da Saúde viola frontalmente os princípios da Administração Pública inscritos na Constituição da República, notadamente o da eficiência e moralidade", afirmou.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/30/apos-polemica-com-hemobras-senado-quer-auditoria-em-contratos-da-saude/">Após polêmica com Hemobrás, Senado quer auditoria em contratos da Saúde</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/07/presidente-da-hemobras-contraria-ministro-e-mostra-interesse-em-contrato-atual/">Presidente da Hemobrás contraria ministro e mostra interesse em manter contrato</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/05/funcionarios-da-hemobras-denunciam-reves-da-uniao-e-rebatem-ministro/">Funcionários da Hemobrás denunciam ‘revés’ da União e rebatem ministro, que quer levar fábrica para reduto eleitoral</a></p></p>
-<p><p>A fábrica em Goiana custou até agora cerca de R$ 1 bilhão e precisa de mais R$ 600 milhões para concluir os 30% restantes. Em resposta às ações do Ministério da Saúde contra a parceria, a <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/25/multinacional-desmente-ministro-ricardo-barros-e-diz-que-pode-investir-ate-mais-do-que-anunciado-na-hemobras/">Shire prometeu investir US$ 250 milhões</a>. Além disso, garantiu abrir mão de US$ 43 milhões de juros de mora da dívida que a Hemobrás acumulou com a empresa e parcelar o débito por até oito anos, desde que a estatal brasileira compre o medicamento por cinco anos.</p></p>
-<p><p>O MPF afirma que "a conduta de contratação em caráter de urgência da Tecpar é fruto da omissão do próprio ministro em dar continuidade a projeto de transferência de tecnologia que implicou investimentos em torno de R$ 1 bilhão para a viabilização da Parceria de Desenvolvimento Produtivo (PDP)".</p></p>
-<p><p>Destaca ainda que o ministério sequer analisou proposta encaminhada pela Shire, empresa contratada pela Hemobrás para viabilizar a continuidade da PDP. "A omissão perdura por quatro meses e implica engavetamento da PDP, ao ferir a legislação que rege o processo administrativo, que prevê prazo máximo de 30 dias de resposta à proposta." Para ela, a pasta vem "escanteando" a Hemobrás.</p></p>
-<p><p>"O Ministério da Saúde não apresentou elementos capazes de demonstrar a imprescindibilidade da suspensão da Parceria de Desenvolvimento Produtivo (PDP), tampouco apresentou alternativa viável financeiramente para o imbróglio, haja vista que milhões de reais já aplicados no ajuste firmado seriam perdidos, bem como seriam arcados vultosos valores com a rescisão unilateral do Termo de Compromisso firmado (multas, despesas legais e contratuais e indenizações)", diz a procuradora na ação.</p></p>
-<p><h2>Defesa</h2></p>
-<p><p>Em nota, o Ministério da Saúde afirmou que estão em curso dois processos de compra do fator VIII recombinante.</p></p>
-<p><p>"O primeiro foi iniciado em maio de 2017 junto à Hemobrás para abastecimento por meio da PDP Hemobrás/Shire, que está em análise. Até a conclusão da avaliação deste contrato, foi iniciado em agosto uma compra por licitação para abastecimento por seis meses. Ou seja, tempo suficiente para a validação do projeto da PDP.</p></p>
-<p><p>É importante esclarecer que, em nenhum momento, o Ministério da Saúde atuou para o esvaziar a Hemobrás. Pelo contrário, a pasta tem buscado soluções para a política de sangue do país, e já encontrou investidores privados para a conclusão da fábrica da empresa, em Goiana (PE).</p></p>
-<p><p>Todas as ações adotadas até o momento estão dentro da legislação vigente no país e voltadas a manutenção do abastecimento de hemoderivados à população.</p></p>
-<p><p>Sobre a ação, até o momento, o Ministério da Saúde não foi notificado."</p></p>
-<p><p><iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/JYyEKlaVyfvayf" width="100%" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p></p>
-<p><div style="margin-bottom: 5px;"><strong> <a title="MPF pede à Justiça para afastar Ricardo Barros por caso Hemobrás" href="//www.slideshare.net/JCOnLine/mpf-pede-justia-para-afastar-ricardo-barros-por-caso-hemobrs" target="_blank" rel="noopener">MPF pede à Justiça para afastar Ricardo Barros por caso Hemobrás</a> </strong> from <strong><a href="https://www.slideshare.net/JCOnLine" target="_blank" rel="noopener">Portal NE10</a></strong></div></p>
-{% endraw %}

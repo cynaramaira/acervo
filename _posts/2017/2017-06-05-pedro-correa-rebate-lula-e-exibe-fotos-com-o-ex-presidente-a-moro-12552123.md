@@ -1,52 +1,0 @@
----
-id: 12552123
-date: "2017-06-05T16:09:32Z"
-last_modified_at: null
-tags:
-  - "fotos"
-  - "lula"
-  - "moro"
-  - "pedro-manta"
-  - "presidente"
-categories:
-  - "noticias"
-title: "Pedro Corr\u00eaa rebate Lula e exibe fotos com o ex-presidente a Moro"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/06/pedro-correa-depoimento.jpg"
----
-{% raw %}
-<p><p><em>Estadão Conteúdo</em> - O ex-deputado Pedro Corrêa (PP-PE) mostrou, em depoimento, nesta segunda-feira (5), por meio de videoconferência, ao juiz federal Sérgio Moro, fotos de diversos encontros com o ex-presidente Luiz Inácio Lula da Silva (PT) à época em que o petista era presidente da República. O ex-parlamentar, cassado no Mensalão e condenado na Lava Jato a 20 anos e 7 meses, afirmou ao magistrado que não é "um desconhecido" de Lula, assim "como ele afirmou", em depoimento no processo sobre o triplex no Condomínio Solaris, no Guarujá.</p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/05/pedro-correa-diz-que-bancada-de-deputados-escolheu-operadores-de-propinas/">Pedro Corrêa diz que bancada de deputados escolheu operadores de propinas</a></p></p>
-<p><p>O ex-parlamentar tem pendente junto ao Supremo Tribunal Federal a homologação de sua delação premiada. Ele depôs na Justiça Federal como testemunha de acusação do petista no âmbito de ação penal sobre propinas pagas pela Odebrecht, no esquema que seria liderado pelo ex-presidente. Os valores teriam chegado a R$ 75 milhões em oito contratos com a Petrobras e incluíram terreno de R$ 12,5 milhões supostamente destinado a abrigar a sede do Instituto Lula e cobertura vizinha à residência de Lula em São Bernardo do Campos de R$ 504 mil.</p></p>
-<p><p>Parte da denúncia do Ministério Público Federal se refere ao suposto comando e conhecimento do petista sobre os esquemas de corrupção na Petrobras, por meio de indicações à diretoria da estatal.</p></p>
-<p><p>» <strong>Veja a primeira parte do depoimento:</strong></p></p>
-<p><p><iframe src="//mais.uol.com.br/static/uolplayer/?mediaId=16235782" width="100%" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p></p>
-<p><p>Em uma outra ação, sobre supostas propinas de R$ 3,7 milhões da OAS para reforma e ampliação do imóvel do Guarujá, Lula foi interrogado por Moro e disse que "não sabia" se a indicação de Paulo Roberto Costa à Diretoria de Abastecimento da Petrobras teria participação de Pedro Corrêa. "Esse cidadão era pernambucano, eu tive o prazer de conhecê-lo uma vez, em uma reunião no Palácio do Planalto, para discutir Medidas Provisórias".</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/04/07/justica-bloqueia-bens-do-pp-e-de-politicos-do-partido-incluindo-pedro-correa/">Justiça bloqueia bens do PP e de políticos do partido, incluindo Pedro Corrêa</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/30/lava-jato-mpf-propoe-acao-de-improbidade-contra-o-pp-pedro-correa-e-mais-nove-politicos/">Lava Jato: MPF propõe ação de improbidade contra o PP, Pedro Corrêa e mais nove políticos</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/02/04/fachin-vai-decidir-se-homologa-delacao-de-pedro-correa/">Fachin vai decidir se homologa delação de Pedro Corrêa</a></p></p>
-<p><p>Em depoimento nesta segunda-feira (5) o ex-parlamentar apresentou fotografias de diversos encontros com Lula e com a cúpula do então governo do petista.</p></p>
-<p><p>"Gostaria inclusive de anexar depois essas fotografias para mostrar no processo que eu não era um desconhecido do presidente Lula, como ele afirmou que não tinha nenhuma relação comigo. Eu vivia no Palácio do governo. Porque eu era presidente do partido e, consequentemente, participava, pelo menos duas vezes por mês, das reuniões do conselho político", afirmou.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/21/preso-na-lava-jato-ex-deputado-pedro-correa-passa-mal-e-e-levado-hospital/">Preso na Lava Jato, ex-deputado Pedro Corrêa passa mal e é levado a hospital</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/16/advogados-de-lula-questionam-depoimentos-de-delcidio-do-amaral-e-pedro-correa-na-lava-jato/">Advogados de Lula questionam depoimentos de Delcídio do Amaral e Pedro Correa na Lava Jato</a></p></p>
-<p><p>Pedro Corrêa inclusive apontou os integrantes das reuniões em fotos, por meio de videoconferência.</p></p>
-<p><p>"Mas eu quero dizer que eu tenho aqui fotografias da reunião do conselho político do presidente, de despacho na sala do conselho com o ex-ministro Zé Dirceu (ex-ministro-chefe da Casa Civil de Lula). Estão aqui Zé Dirceu, Pedro Corrêa e Roberto Jefferson. Estão aqui Aldo Rebelo, Palocci, Lula, Zé Dirceu, Roberto Jefferson, Pedro Corrêa, Roberto Freire. Aqui, junto: uma outra reunião: estão aqui Waldemar Costa Neto, todos que eram presidentes de partido", indicou.</p></p>
-<p><p>"E, aqui, no Palácio do Planalto, também uma reunião com o presidente Lula e a bancada do meu partido, deputados e senadores, onde estão presentes eu, o ministro Zé Dirceu, o presidente Lula e o deputado Pedro Henry", completou.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/09/16/em-depoimento-pedro-correa-diz-que-lula-tinha-conhecimento-pleno-de-propina/">Em depoimento, Pedro Corrêa diz que Lula tinha “conhecimento pleno” de propina</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2016/07/21/depoimentos-de-pedro-correa-sao-perdidos-e-falha-atrasa-homologacao-da-delacao-premiada/">Depoimentos de Pedro Corrêa são perdidos e falha atrasa homologação da delação</a></p></p>
-<p><p>Durante o depoimento, Pedro Corrêa ainda disse "confirmar" que o Partido Progressista negociou junto ao governo Lula a nomeação de Paulo Roberto Costa à Diretoria de Abastecimento da Petrobras</p></p>
-<p><p>Lula é acusado por crimes de corrupção passiva e lavagem de dinheiro em contratos firmados entre a Petrobras e a Odebrecht. São acusados nesta ação o empresário Marcelo Odebrecht, por corrupção ativa e lavagem de dinheiro; o ex-ministro dos governos Lula e Dilma, Antonio Palocci, e Branislav Kontic, seu ex-assessor, ambos denunciados por corrupção passiva e lavagem de dinheiro; e, ainda, Paulo Melo, Demerval Gusmão, Glaucos da Costamarques e Roberto Teixeira, por suposta lavagem de dinheiro</p></p>
-<p><h2>Outro lado</h2></p>
-<p><p>"O ex-deputado Pedro Corrêa, cassado por quebra de decoro parlamentar em 2006, deixou hoje claro ao Juízo da 13ª Vara Criminal Federal de Curitiba ter refeito anexos de seu depoimento à Força Tarefa do Ministério Público Federal, visando fechar sua delação premiada, com o objetivo de apenas completar informações a respeito do ex-Presidente Luiz Inácio Lula da Silva", salientou a defesa de Lula em nota à imprensa. "Corrêa depôs ao MPF em 1/9/2016 e foi nesse momento informado de que estavam faltando elementos para embasar denuncia contra Lula, ocasião em que disse querer colaborar. A denuncia foi ofertada em 14/9/2016. Até hoje a delação de Corrêa não foi homologada, depois de ter sido barrada pelo ministro Teori Zavascki em 2016 por falta de provas das alegações apresentadas."</p></p>
-<p><p>» <strong>Veja a segunda parte do depoimento:</strong></p></p>
-<p><p><iframe src="//mais.uol.com.br/static/uolplayer/?mediaId=16235809" width="100%" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p></p>
-<p><p>Segundo a defesa de Lula, diante da manifesta fragilidade de sua versão sobre encontros com Lula, Corrêa mostrou fotos - com a presença de Lula - de reuniões do Conselho Político, que participou como presidente do PP. "Perguntado pela defesa, ele não teve como deixar de admitir que essas reuniões eram públicas, com agenda certa e acompanhadas pela imprensa. O ex-presidente sequer participava desses encontros, fazendo apenas aparições ao final para o cumprimento aos presentes. Como Corrêa abriu a audiência mostrando essas fotos, ele se colocou não com a isenção de uma testemunha, mas como pessoa com interesse na causa, buscando a qualquer custo destravar sua delação", destacou, em nota, o advogado Cristiano Zanin Martins.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/05/defesa-de-lula-pede-cancelamento-de-depoimento-de-emilio-odebrecht/">Defesa de Lula pede cancelamento de depoimento de Emílio Odebrecht</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/03/lula-teria-comprado-apoio-da-base-diz-forca-tarefa-da-lava-jato/">Lula teria comprado apoio da base, diz força-tarefa da Lava Jato</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/03/ministerio-publico-pede-prisao-de-lula-e-pagamento-de-multas-de-r-87-milhoes/">Ministério Público pede prisão de Lula e pagamento de multas de R$ 87 milhões</a></p></p>
-<p><p>De acordo com Zanin Martins, a defesa de Lula pediu, no início da sessão, em atenção ao contraditório, à ampla defesa e à paridade de armas - como determina a Súmula 14 do STF - que o depoimento de Corrêa fosse remarcado e viu negado seu pedido. "Foi relembrado que MPF havia assumido, na audiência de 08.05, o compromisso de informar previamente o 'status' dos processos de delação envolvendo pessoas chamadas a depor. E no caso de Corrêa não foi apresentada qualquer informação, embora o MPF tenha reconhecido a existência de negociações e de diligências documentadas."</p></p>
-<p><p>E continuou: "Ao final da audiência, o Juízo deu ciência às partes de que o MPF havia juntado ao processo documentos relativos a processos de delação de executivos do grupo Odebrecht. Com a adesão de outras partes, pedimos então a redesignação da audiência prevista para a parte da tarde - a partir das 14 horas -, considerando não haver tempo hábil para conhecer os novos elementos, situação que ofende o contraditório, a ampla defesa e a paridade de armas. O juízo decidiu manter os depoimentos "por economia processual", embora tenha constatado o prejuízo à defesa, tanto é que facultou futuro pedido de nova oitiva."</p></p>
-{% endraw %}

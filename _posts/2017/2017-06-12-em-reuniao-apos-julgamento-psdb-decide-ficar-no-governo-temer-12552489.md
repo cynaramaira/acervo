@@ -1,46 +1,0 @@
----
-id: 12552489
-date: "2017-06-12T21:32:41Z"
-last_modified_at: null
-tags:
-  - "apostas"
-  - "governo"
-  - "julgamento"
-  - "michel-temer"
-  - "psdb"
-  - "reuniao"
-categories:
-  - "noticias"
-title: "Em reuni\u00e3o ap\u00f3s julgamento, PSDB decide ficar no governo Temer"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/06/psdb-reuni\u00e3o.jpg"
----
-{% raw %}
-<p><p><em>Estadão Conteúdo</em> - Principal fiador do presidente Michel Temer no Congresso Nacional, o PSDB decidiu na noite desta segunda-feira (12), em reunião ampliada da executiva nacional e de demais lideranças do partido, que vai permanecer na base aliada. Os tucanos adotarão o discurso de que não podem desembarcar agora do governo, sob o argumento de que um eventual rompimento com Temer poderia prejudicar a aprovação das reformas da Previdência e trabalhista</p></p>
-<p><p>Na reunião, prevaleceu o entendimento de que, enquanto as reformas estiverem tramitando no Congresso Nacional, o PSDB deve continuar ao lado de Temer. Nos bastidores, tucanos também defendem que, após o Tribunal Superior Eleitoral (TSE) absolver Temer da cassação, a legenda deve agora aguardar a possível denúncia contra o presidente que o procurador-geral da República, Rodrigo Janot, pode apresentar até o fim de junho.</p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/12/tucanos-de-pernambuco-defendem-que-psdb-permaneca-no-governo-temer/">Tucanos de Pernambuco defendem que PSDB permaneça no governo Temer</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/12/temer-apela-alckmin-e-doria-para-manter-psdb/">Temer apela a Alckmin e Doria para manter PSDB</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/01/ala-jovem-do-psdb-pede-saida-do-governo/">Ala jovem do PSDB pede saída do governo</a></p></p>
-<p><p>Ex-ministro das Relações Exteriores de Temer, o senador José Serra (SP) foi o primeiro a anunciar a decisão. Em entrevista à imprensa, ele afirmou que a maioria dos tucanos decidiu se manter na base aliada até que novos fatos surjam. "O PSDB não fará nenhum movimento agora no sentido de sair do governo. Se os fatos mudarem, terão outras análises", afirmou o parlamentar. "É um governo que tocou adiante compromissos que assumiu conosco. Isso é visto como algo positivo", acrescentou.</p></p>
-<p><p>A reunião foi comandada pelo presidente interino do PSDB, senador Tasso Jereissati (CE), e contou com as presenças de várias lideranças do partido. Entre elas, a do governador de São Paulo, Geraldo Alckmin, e a do prefeito da capital paulista, João Doria. Os quatro ministros da sigla - Bruno Araújo (Cidades), Antônio Imbassahy (Secretaria de Governo), Aloysio Nunes (Relações Exteriores) e Luislinda Valois (Secretaria de Direitos Humanos) - também participam. Com a decisão de não desembarcar, os quatro permanecerão nos cargos.</p></p>
-<p><p>Na reunião, as lideranças tucanas se revezaram no microfone. De acordo com relatos de tucanos presentes, em seus discursos, o governador de São Paulo e o senador José Serra (SP) defenderam que o partido permanecesse aliado ao governo, por enquanto, para ajudar o Palácio do Planalto a aprovar as reformas da Previdência, que sequer foi votada no plenário da Câmara, e trabalhista, que já foi aprovada pelos deputados e que tramita no Senado.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/25/cabecas-pretas-do-psdb-pressionam-por-rompimento-com-governo/">‘Cabeças pretas’ do PSDB pressionam por rompimento com governo</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/24/dem-e-psdb-querem-nome-de-consenso-para-barrar-diretas/">DEM e PSDB querem nome de consenso para barrar ‘diretas’</a></p></p>
-<p><p>Segundo relatos, Serra defendeu a unidade do PSDB e que o partido levasse em consideração a crise econômica pela qual o Brasil passa, ao decidir sobre o apoio a Temer. O ex-ministro das Relações Exteriores pregou que a legenda deveria tomar uma decisão "sensata" para não ser acusada de aprofundar a crise. Ele ainda pregou que a sigla retome suas principais bandeiras, como a defesa pelo parlamentarismo.</p></p>
-<p><p>Alckmin, por sua vez, afirmou que o PSDB deveria "observar" o cenário político até a conclusão da votação das reformas. Conforme relatos, o governador ainda propôs antecipar a eleição para escolher novos membros da executiva nacional do partido, entre eles, o substituto definitivo do senador afastado Aécio Neves (MG). O parlamentar mineiro está licenciado da presidência nacional da legenda desde 18 de maio, após ser atingido pela delação de executivos do frigorífico JBS.</p></p>
-<p><p>A eleição do substituto definitivo de Aécio está prevista somente para maio de 2016. Como antecipou o Broadcast Político no dia 8 de junho, senadores e deputados querem antecipar o pleito para o segundo semestre deste ano. A estratégia é tirar o mineiro do foco político para que a legenda possa tentar "renovar" sua imagem para as eleições de 2018. Segundo Serra, praticamente todos os presentes na reunião concordaram que o senador Tasso Jereissati (CE), atual presidente interino da sigla, deve ser eleito presidente definitivo.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/23/relator-da-reforma-trabalhista-no-senado-defende-saida-do-psdb-do-governo-temer/">Relator da reforma trabalhista no Senado defende saída do PSDB do governo Temer</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/22/psdb-e-dem-vao-esperar-o-supremo-para-decidir-apoio-temer/">PSDB e DEM vão esperar o Supremo para decidir apoio a Temer</a></p></p>
-<p><p>Mesmo ausente da reunião, Aécio também trabalhou, nos bastidores, para evitar o desembarque do PSDB do governo agora. A avaliação de "aecistas" é a de que, se os tucanos romperem com Temer agora, o PMDB, partido do presidente e dono das maiores bancadas no Congresso Nacional, trabalhará a favor da cassação do mandato do senador mineiro no Conselho de Ética do Senado.</p></p>
-<p><p>João Doria também fez discurso em defesa da permanência do PSDB no governo durante a reunião. Segundo relatos de tucanos presentes no encontro, o prefeito da capital paulista destacou que o partido precisa manter o compromisso com a governabilidade e com as reformas. Afilhado político de Alckmin, o tucano também acenou para o governador em seu discurso. O prefeito disse que ele e Alckmin são "indivisíveis".</p></p>
-<p><p>Como mostrou o Estadão nesta segunda-feira, o Palácio do Planalto apelou para Alckmin e Doria para manter o PSDB no governo. Por meio de aliados, Temer pediu que os tucanos deem mais tempo a ele para reorganizar sua base de apoio e mostrar que o governo ainda tem força para aprovar as reformas. O medo de Temer é de que a saída do PSDB provocasse um desembarque em "cascata" de outros partidos governistas.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/12/ministerio-publico-deve-recorrer-de-absolvicao-de-dilma-e-temer-no-tse/">Ministério Público deve recorrer de absolvição de Dilma e Temer no TSE</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/12/absolvido-no-tse-temer-deve-focar-nas-reformas-que-o-pais-precisa-defende-jarbas/">"Absolvido no TSE, Temer deve focar nas reformas que o País precisa", defende Jarbas</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/12/vereadores-criticam-absolvicao-da-chapa-dilma-temer-pelo-tse/">Vereadores criticam absolvição da chapa Dilma-Temer pelo TSE</a></p></p>
-<p><p>Para auxiliares de Temer, as pretensões eleitorais de Alckmin e de Doria favorecem um entendimento deles com o Planalto neste momento. A ambos interessaria manter Temer no cargo, ainda que com baixa popularidade, até 2018, quando um dos dois poderá ser o candidato a presidente. No PSDB, a compreensão é de que a substituição de Temer, via eleição indireta, poderia abrir caminho para o presidente da Câmara, Rodrigo Maia (DEM-RJ), ser candidato e permanecer no cargo de presidente, o que elevaria o cacife eleitoral do partido dele para 2018 e dificultaria um entendimento com os tucanos.</p></p>
-<p><p>Em meio às defesas de permanência no governo, tucanos também fizeram uma autocrítica durante a reunião desta segunda-feira. As lideranças do PSDB avaliaram que os sucessivos escândalos colocaram toda a classe política em cheque e que há uma "hipertrofia" generalizada dos três poderes - Executivo, Legislativo e Judiciário. Nesse sentido, alguns dos caciques manifestaram preocupação sobre o que acontecerá com o País.</p></p>
-<p><p>Entre os que defendiam o desembarque, coube ao senador Ricardo Ferraço (ES) fazer a fala mais incisiva. Ao chegar na sede do partido, ele defendeu a imediata entrega dos cargos no governo por conta das "denúncias devastadoras" contra a gestão Temer. "Vou defender que o PSDB entregue os cargos, mas continue apoiando as reformas. A crise vivida pelo governo é insustentável, as denúncias são devastadoras", disse antes de acrescentar que é possível tocar as reformas sem apoiar o governo peemedebista.</p></p>
-{% endraw %}

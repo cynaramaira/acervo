@@ -1,26 +1,0 @@
----
-id: 12553310
-date: "2017-06-30T09:53:12Z"
-last_modified_at: null
-tags:
-  - "michel-temer"
-  - "revista"
-categories:
-  - "noticias"
-title: "Temer tem chances de completar seu mandato, mas segue vulner\u00e1vel, diz revista brit\u00e2nica"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/05/Temer_EVARISTO-SA_AFP.jpg"
----
-{% raw %}
-<p><p><em>Estadão Conteúdo -</em> A revista britânica The Economist avaliou que o presidente do <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/29/presidente-da-ccj-so-deve-anunciar-relator-da-denuncia-contra-temer-na-proxima-semana/">Brasil, Michel Temer, conta com boas chances de completar o seu curto mandato.</a> Na edição que chega às bancas e aos assinantes amanhã, o veículo destaca, no entanto, que ele segue vulnerável no cargo por causa de acusações de corrupção.</p></p>
-<p><p>Para a publicação, desde maio, quando uma gravação de Temer, parecendo discutir o pagamento de subornos, havia a expectativa de que os promotores do país atuassem. Então, em 26 de junho, o procurador-geral da República, Rodrigo Janot, fez a primeira acusação desse tipo contra um presidente no cargo.</p></p>
-<p><p>Janot, explica o semanário, baseia suas acusações no áudio e no testemunho <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/29/molon-quer-que-janot-va-camara-explicar-denuncia-contra-temer/">de Joesley Batista, o empresário bilionário que a gravou secretamente. </a>Isso resultou em uma operação em que o ex-assessor do presidente, Rodrigo Loures, foi filmado recebendo R$ 500 mil por, supostamente, ter intercedido na agência antitruste em nome de sua empresa. Janot suspeita que o dinheiro, mais outros R$ 38 milhões prometidos por Batista, foi, de fato, destinado a Temer. O presidente se diz inocente e ressalta que seu relacionamento com Loures é tudo o que o liga ao pagamento.</p></p>
-<p><p>A reportagem lembra que, mesmo antes das acusações, o governo Temer r<a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/29/defesa-de-temer-pede-que-juiz-reveja-queixa-crime-contra-joesley/">egistrou a menor popularidade da história, com apenas 7% de aprovação. </a>Em junho, ele se manteve no cargo quando o Tribunal Superior Eleitoral (TSE) decidiu liberá-lo e também a Dilma Rousseff, de quem era vice-presidente antes do impeachment no ano passado, de acusações de financiamento de campanhas ilícitas em 2014.</p></p>
-<p><p>Mas, segundo a The Economist, ele mantém apoio onde importa mais: no Congresso. Para que o caso de Janot prossiga, é necessária a aprovação por dois terços dos deputados na Câmara. Temer, de acordo com a revista, parece ter apoio suficiente para tornar isso improvável.</p></p>
-<p><p>Os deputados parecem ter decidido, de acordo com o veículo, que duas coisas são<a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/29/stf-protocola-denuncia-contra-temer-na-camara/"> necessárias para dar-lhes uma chance de reeleição em 2018: uma retomada econômica</a> e uma contenção da vasta investigação de corrupção chamada Lava Jato. "Em nenhum dos pontos, a remoção de Temer os serviria bem", avaliou o semanário. Na primeira, o presidente tem conseguido reduzir a inflação e obteve um retorno ao crescimento no primeiro trimestre do ano, bem como sinais de que suas reformas pró-mercado estão dando frutos. A reforma trabalhista mais flexível parece estar em progresso, conforme a publicação.</p></p>
-<p><p>Quanto à Lava Jato, a revista cita que políticos de todos os lados estão sob suspeita, <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/29/armando-articula-que-mudancas-na-reforma-trabalhista-fiquem-para-temer-humberto-nao-confia/">então a maioria concorda com a conveniência de enfraquecê-la. </a>Em 28 de junho, Temer anunciou que Raquel Dodge substituiria Janot quando seu mandato terminar em setembro. Eles esperam que ela tenha uma abordagem menos enfática. Entre os insatisfeitos está Dilma, do Partido dos Trabalhadores (PT), de esquerda, que considera sua substituição um "golpe". A reportagem salienta também que, a qualquer momento, o Superior Tribunal Federal (STF) pode se pronunciar contra o ex-presidente Luiz Inácio Lula da Silva, ainda o político mais popular do Brasil, que tem meia dúzia de casos pendentes contra ele por corrupção e lavagem de dinheiro.</p></p>
-<p><p>"Tudo isso significa que o Sr. Temer tem um bom espaço para completar os últimos 18 meses de seu mandato. Mas ele continua vulnerável", considerou a The Economist. Por exemplo: o Congresso pode procurar suavizar uma revisão impopular das pensões públicas, que reduzem o orçamento. Pode pedir mais em troca de apoio. E Janot, continua a publicação, deverá apresentar uma série de outras acusações contra o presidente - por aceitar outros subornos, bem como a obstrução da justiça. Vários de seus colegas já estão na prisão, como Loures, ou podem estar em breve.</p></p>
-<p><p>"Os brasileiros, que marcharam em milhões para exigir o impeachment de Dilma, estão cansados de protestar. Mas outras revelações surpreendentes poderiam leva-los de volta às ruas."</p></p>
-{% endraw %}

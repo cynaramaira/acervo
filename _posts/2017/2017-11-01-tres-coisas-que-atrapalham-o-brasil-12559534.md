@@ -1,39 +1,0 @@
----
-id: 12559534
-date: "2017-11-01T11:07:56Z"
-last_modified_at: null
-tags:
-  - "brasil"
-categories:
-  - "noticias"
-title: "Tr\u00eas coisas que atrapalham o Brasil"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/10/comunidade-do-bode.jpg"
----
-{% raw %}
-<p><p>A desigualdade no Brasil e a utopia da transformação</p></p>
-<p><p>Por Celso Luiz Tracco</p></p>
-<p><p>A sociedade brasileira vem enfrentando enormes dificuldades nos últimos anos. Corrupção endêmica, violência urbana, altas taxas de desemprego, uma grave crise ética, falta de confiança em sua classe política são sinais claros da falta de esperança em um futuro promissor. Como resultado imediato, aumenta o número de jovens e mesmo de famílias constituídas que decidem construir suas vidas no exterior, refazendo o caminho inverso de seus antepassados, 100 anos atrás.</p></p>
-<p><p>Mas, será que a nossa sociedade tem consciência de que esta crise não é de agora? Será que ela procura refletir as verdadeiras causas de seu infortúnio? Mais ainda, será que ela, tomando consciência das causas reais, tem condições de combatê-las transformando esse cenário caótico?</p></p>
-<p><p>Não tenho a pretensão de dar uma solução definitiva à grave crise vivenciada pela nossa população, mas gostaria de refletir sobre três pontos que considero fundamentais e que estão na raiz de nossos problemas sociais. Claro que nossa crise não é de hoje. Nosso flagrante atraso social vem de muito tempo, mesmo comparado a países cujos recursos são infinitamente menores que os nossos. Minha proposta, aqui, é debater sobre temas como a baixa escolaridade, a enorme desigualdade social e o paquidérmico tamanho do Estado brasileiro.</p></p>
-<p><p>A baixa escolaridade vem desde os tempos de nossa colonização europeia. Colonização essa que foi exploradora, predatória e oportunista. Nossos primeiros colonizadores não vieram para se estabelecer na terra, criando uma nova vida, construindo uma nova sociedade. Vieram explorar as riquezas naturais, utilizar mão de obra escrava, juntar o máximo de dinheiro possível e voltar para a metrópole enriquecidos. Sob esta visão, a educação nunca atingiu um papel relevante, afinal os nobres exploradores preocupados com a educação de seus filhos, envia-os para estudos na Europa. E para quê escravos precisavam ler e escrever?</p></p>
-<p><p>A independência política não modificou substancialmente esse quadro. O Brasil faz censos regulares desde 1872 e, desde 1890, a cada 10 anos. Em 1890, início do período republicano, a taxa de analfabetismo no Brasil beirava os 90%.</p></p>
-<p><p>Nossos primeiros cursos de estudos superiores só foram instalados no início do século XIX e nossas primeiras universidades, apenas, em 1934, por decreto do então presidente Getúlio Vargas. A partir da década de 70, há um enorme declínio na qualidade da escola pública de ensino básico, com gravíssimas consequências para a nossa população. Hoje, estima-se que em torno de 30% dos brasileiros maiores de 15 anos são analfabetos ou analfabetos funcionais (não têm capacidade de interpretar um texto).</p></p>
-<p><p>A escola básica nunca foi uma verdadeira prioridade na política de Estado; ao contrário, é apenas usada como propaganda eleitoral de governos inescrupulosos. Não há saída para uma sociedade evoluída sem uma educação básica e massiva de qualidade.</p></p>
-<p><p>O segundo ponto é a nossa enorme desigualdade social. De novo, um mal histórico. Evidente que a economia brasileira cresceu e se diversificou muito desde o final do século XIX, quando terminou a escravidão. Claro que ela permite uma ascensão social, exemplificada em milhares de imigrantes que aqui chegaram sem nada, e se tornaram industriais, banqueiros, empresários de sucesso. Sem dúvida, existem oportunidades, mas são para a maioria da população?</p></p>
-<p><p>Na sua essência, a escorchante distribuição de renda não muda, não importa a época, não importa se há crise ou se a economia cresce muito ou pouco. A distribuição de renda no Brasil é imutável, infelizmente. Os 10% mais ricos detêm cerca de 55% da renda nacional, não importando o tipo de governo de plantão, enquanto os 50% mais pobres respondem por 10% da renda. As poucas e esparsas políticas sociais, sempre com objetivos eleitoreiros, são políticas assistencialistas, paliativas que não buscam uma real e verdadeira transformação da situação existente.</p></p>
-<p><p>Evidentemente, uma enorme parcela da população está condenada a viver em condições de miséria e extrema pobreza, em estado de contínua degradação. Quanto mais essas condições perdurarem, mais a sociedade brasileira estará condenada a viver no atraso e em descompasso com os países mais avançados.</p></p>
-<p><p>Sem uma distribuição de renda consistente, não teremos uma evolução em relação a emprego, nem melhores condições de moradia, de transporte, de saúde, de uma melhor oferta de bens e de serviços. O urgente avanço na distribuição de renda não é apenas uma questão humanitária, é uma questão econômica, fundamental para o futuro de todos.</p></p>
-<p><p>Finalmente, a terceira parte de nossa reflexão: A gigantesca máquina pública, aqui englobando os governos federal, estadual e municipal e os poderes executivo, legislativo e judiciário.</p></p>
-<p><p>A cultura latina, de onde somos originários, é famosa por seu grau de apadrinhamento, nepotismo e burocracia. Esses elementos, sordidamente combinados, fizeram a máquina pública inchar mais e mais, sem parar, ao longo de décadas. Este inchaço traz como agravante, a necessidade insaciável de arrecadação de impostos. Além disso, o governo em geral, proporciona uma má qualidade de serviços, penalizando quem quer produzir.</p></p>
-<p><p>As empresas estatais, ainda que necessárias quando da sua criação, ao longo do tempo, mostraram-se ineficientes, caras e com focos contínuos de corrupção, um cabide de empregos disputados por políticos e apaniguados. Não por acaso, o Brasil possui o pior retorno sobre impostos arrecadados, entre as trinta principais economias do mundo.</p></p>
-<p><p>A máquina pública brasileira já se revelou obsoleta, ineficaz, lenta, burocrática e corrupta. Os recursos despejados em impostos são gastos com folha de pagamento, por meio de vultosas aposentadorias e pensões, mordomias nababescas, cargos de confiança, entre outros, faltando dinheiro para a segurança, a saúde, a educação, a infraestrutura, o que afeta a vida de milhões de brasileiros.</p></p>
-<p><p>Nunca se ouve falar em redução de gastos, mas sempre na necessidade de arrecadação de mais impostos. O governo brasileiro é uma vergonha.</p></p>
-<p><p>A sociedade brasileira precisa enfrentar esses três pontos de frente. Qual a saída? A sociedade civil deve estar comprometida com as mudanças estruturais. Claro que estamos acostumados a depender do governo como um salvador da pátria, mas já tivemos muitos e nenhum resolveu, e ninguém resolverá.</p></p>
-<p><p>Devemos fazer a parte que nos cabe, sermos protagonistas de nosso destino, procurar incentivar e apoiar toda e qualquer medida que favoreça a educação. Não devemos explorar o próximo e contribuir de todo modo para uma maior e mais equitativa distribuição de renda.</p></p>
-<p><p>Lutar, com todas as forças, para pressionar o governo a não aumentar a carga tributária, na verdade deve diminuí-la. Assim estaremos, efetivamente, trabalhando para uma transformação de nossa sociedade. Utopia? Pode ser, mas lembre-se que utopia é algo muito difícil, mas não impossível, de ser alcançado.</p></p>
-<p><p>Celso Luiz Tracco é master coach, palestrante e escritor. Acaba de lançar o livro "Às margens do Ipiranga", que tem como pano de fundo a desigualdade social brasileira.</p></p>
-<p><p>&nbsp;</p></p>
-{% endraw %}

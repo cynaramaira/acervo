@@ -1,37 +1,0 @@
----
-id: 12557016
-date: "2017-09-11T09:23:37Z"
-last_modified_at: null
-tags:
-  - "joesley-batista"
-  - "skate"
-categories:
-  - "noticias"
-title: "At\u00e9 o fim, Joesley acreditou que escaparia ileso"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/09/joesley-batista.jpg"
----
-{% raw %}
-<p><p><em>Estadão Conteúdo</em> - Joesley Batista já descansava em sua casa, em São Paulo, quando Rodrigo Janot postou-se frente às câmeras, em Brasília, para anunciar que poderia cancelar a delação do empresário. Durante os quase 20 minutos em que o procurador-geral da República falou na noite da última segunda-feira, dia 4, o mundo político parou. Na Rua França, no bairro paulistano do Jardim Europa, a tevê de Joesley permaneceu desligada. O empresário preferiu não ver o pronunciamento. O insistente tilintar do aparelho celular, no entanto, foi mais difícil de ignorar. Aos mais chegados, Joesley respondeu não entender o que se passava. O delator mais famoso do País repetia não saber por que Janot estava tão irritado.</p></p>
-<p><p>A aparente serenidade contrastava com a percepção geral de que Janot impunha profundo revés ao empresário. Joesley, que comprara briga com o presidente da República e com boa parte da classe política, perdia naquele momento seu mais importante aliado. Por meses, o procurador-geral defendera os termos do acordo, que previa imunidade total ao bilionário. Com sua fala, Janot escancarava a possibilidade de que ele fosse parar na cadeia. Joesley, que até então parecia conseguir se antecipar aos fatos e controlar seu destino na investigação criminal, não percebeu.</p></p>
-<p><p>LEIA TAMBÉM<br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/11/delacao-da-jbs-fica-sob-ameaca-apos-joesley-se-entregar/">Delação da JBS fica sob ameaça após Joesley se entregar</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/11/pf-vasculha-casas-de-joesley-e-ricardo-saud-em-sao-paulo/">PF vasculha casas de Joesley e Ricardo Saud em São Paulo</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/11/pf-faz-buscas-na-casa-do-ex-procurador-marcelo-miller-no-rio/">PF faz buscas na casa do ex-procurador Marcelo Miller no Rio</a></p></p>
-<p><p>Cinco dias antes, o empresário entregara ao Ministério Público Federal nova leva de áudios, incluindo a gravação que enfureceu Janot. Havia sido o próprio Joesley, com ajuda de um advogado interno da J&amp;F, o encarregado de analisar e preparar o anexo que incluía o áudio comprometedor - seu principal advogado na delação, o criminalista Pierpaolo Bottini, estava impedido de auxiliá-lo por defender citados na gravação.</p></p>
-<p><p>Com o conteúdo enviado à PGR, Joesley voltou-se a problemas de ordem empresarial. Preocupava a tentativa do BNDES de sacar seu irmão Wesley da presidência da JBS, companhia criada por seu pai e principal fonte de riqueza do grupo. O conglomerado lutava ainda para fechar a venda da Eldorado Celulose, que garantiria à J&amp;F dinheiro para quitar suas dívidas. As boas notícias vieram. Com ajuda da Justiça, a disputa com o banco estatal foi adiada. A Eldorado foi passada à frente, num acordo que previa o pagamento de espantosos R$ 15 bilhões. Tudo parecia caminhar bem no mundo de Joesley. No domingo, o clima era de comemoração na casa do bilionário.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/10/defesa-joesley-e-saud-diz-que-eles-nao-mentiram-nem-omitiram/">Defesa Joesley e Saud diz que eles não mentiram nem omitiram</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/10/joesley-e-saud-se-entregam-a-pf-em-sao-paulo/">Joesley e Saud se entregam à PF em São Paulo</a></p></p>
-<p><h2>Lentidão</h2></p>
-<p><p>Joesley não admitia que o movimento de Janot representasse o fim da boa fase. Insistia com seus auxiliares que a situação era contornável. Na manhã seguinte à fala de Janot, na terça-feira, 5, fez questão de manter a rotina. Aprumou-se e seguiu para Brasília em seu jatinho para um depoimento previamente agendado. Foi quando o áudio começou a vazar. Na conversa com o lobista e também delator, Ricardo Saud, um embriagado Joesley falava de planos para manipular procuradores, enredar o STF na delação, conquistar mulheres. Abundavam palavras chulas e impropérios. Num só lance, Joesley se indispunha com a PGR, com o Supremo, com sua mulher e até com sua defesa -- citada de forma grosseira por Joesley no áudio, uma de suas advogadas deixou o caso.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/10/fachin-diz-que-nao-ha-elementos-para-prender-marcello-miller/">Fachin diz que não há elementos para prender Marcello Miller</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/08/joesley-batista-nega-ter-sido-orientado-gravar-temer/">Joesley Batista nega ter sido orientado a gravar Temer</a></p></p>
-<p><p>Seus assessores ficaram atordoados. Reclamavam de não terem sido avisados do áudio. Diziam não entender como o bilionário, até então tão astuto, cometera erro de avaliação tão crasso. Com estilo centralizador, Joesley escolhera os passos que pavimentaram sua exitosa delação. Era também ele o responsável por levá-lo à crise que ameaçava sua liberdade.</p></p>
-<p><p>Somente na quarta, dois dias após Janot avisar que poderia revogar os benefícios de sua delação, Joesley chamou assessores para analisar o que fazer. Rumou para o escritório de Bottini, na região da Avenida Paulista, de onde só saiu após a noite cair Reunido com Saud e o advogado Francisco de Assis (também delator), e em meio a um vaivém de advogados, ouviu a gravação. Afirmou aos auxiliares não ter mudado de opinião. Para ele, não havia crime e, por isso, não havia o que temer, segundo pessoas próximas. Joesley fiava-se em sua capacidade de se safar de problemas. Avaliava que seu depoimento, marcado para o dia seguinte em Brasília, esclareceria os fatos, preservando sua delação premiada.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/07/supremo-e-pgr-indicam-rever-acordo-da-jbs/">Supremo e PGR indicam rever acordo da JBS</a></p></p>
-<p><h2>Baque</h2></p>
-<p><p>Tal tranquilidade não era partilhada por Saud e Assis, que já demonstravam forte apreensão. Familiares também indicavam nervosismo com a situação. Um executivo que esteve com Wesley Batista na semana passada diz que o empresário não escondia o abatimento com a ameaça de prisão do irmão. Já Joesley seguiu em estado de aparente negação até o pedido de prisão se concretizar Já de volta a São Paulo, na sexta, argumentava que não havia motivo jurídico que o levasse à cadeia. Reclamava de cansaço e disse que emendaria o feriado.</p></p>
-<p><p>No sábado, com o pedido de prisão consumado, restou a Joesley pensar em como seguir para a cadeia. Cogitou pegar seu jatinho e se entregar em Brasília. Foi desaconselhado por advogados, temerosos de que o movimento até o aeroporto fosse visto como tentativa de fuga. No domingo, 10, de manhã, ainda tentou tranquilizar o pai e a mãe. Partiu da casa dos dois rumo à carceragem da PF em SP.</p></p>
-{% endraw %}

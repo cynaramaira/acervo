@@ -1,42 +1,0 @@
----
-id: 12557061
-date: "2017-09-11T16:05:27Z"
-last_modified_at: null
-tags:
-  - "corrupcao"
-  - "lula"
-  - "operacao"
-  - "presidente"
-  - "witzel-denunciado"
-categories:
-  - "noticias"
-title: "Agora na opera\u00e7\u00e3o Zelotes, Lula \u00e9 denunciado sob acusa\u00e7\u00e3o de corrup\u00e7\u00e3o passiva enquanto era presidente"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/08/lula-sarrada-no-ar.jpg"
----
-{% raw %}
-<p><p>MPF/DF denuncia sete pessoas por crimes na elaboração de Medida Provisória que beneficiou montadoras de veículos<br /></p>
-<p> Ex-presidente Lula e Gilberto Carvalho são acusados de pedir R$ 6 milhões de propina para viabilizar edição de norma editada em 2009</p></p>
-<p><p>No site do MPF</p></p>
-<p><p><a class="internal-link" title="Denúncia zelotes - medida provisória executivo" href="https://www.mpf.mp.br/df/sala-de-imprensa/docs/denuncia-zelotes-mmp" target="_blank" rel="noopener">Clique para ter acesso à íntegra da denúncia</a></p></p>
-<p><p>Em mais uma ação penal proposta no âmbito da Operação Zelotes, o Ministério Público Federal denunciou à Justiça sete pessoas pelos crimes de corrupção ativa e passiva. De acordo com as investigações, as irregularidades foram praticadas no período de elaboração e edição (fase do Executivo) da Medida Provisória 471/09, que prorrogou por cinco anos benefícios tributários destinados a empresas do setor automobilístico. Entre os denunciados estão o ex-presidente da República, Luiz Inácio Lula da Silva, seu então chefe de gabinete, Gilberto Carvalho, além dos empresários Carlos Alberto de Oliveira Andrade (Grupo Caoa) e Paulo Ferraz Arantes (MMC - Mitsubishi). Quatro dos denunciados já foram processados e condenados por atos praticados durante a tramitação da norma no Congresso Nacional. Na ação enviada à Justiça Federal na última sexta-feira (8), o MPF pediu que aos envolvidos paguem R$ 12 milhões a título de ressarcimento ao Erário e multa por danos morais coletivos.</p></p>
-<p><p>Como prova da prática dos crimes, os procuradores da República Frederico Paiva e Hebert Mesquita citam documentos segundo os quais a edição e a aprovação da MP envolveu a promessa de pagamentos de vantagens indevidas a intermediários do esquema e a agentes políticos. Metade do valor acertado foi repassado pela montadora MMC à empresa M&amp;M, que atuou em parceria com outros dois intermediários do esquema: o ex-conselheiro do Conselho Administrativo de Recursos Fiscais (Carf), José Ricardo Silva e o lobista Alexandre Paes dos Santos. De propriedade Mauro Marcondes - que também integram a lista de denunciados - a empresa M&amp;M foi o canal utilizado para viabilizar o recebimento e a distribuição da propina. Além de garantir a edição e aprovação da MP no Congresso, os recursos também foram usados para comprar o cancelamento de um débito de R$ 265 milhões que era objeto de um recurso no Carf. Este fato, no entanto, é objeto de outra ação penal em tramitação na 10ª vara da Justiça Federal em Brasília.</p></p>
-<p><p>Em relação à corrupção praticada no momento de elaboração da medida provisória, os investigadores explicam que do total recebido pela M&amp;M, R$ 6 milhões foram prometidos ao ex-presidente Lula e a Gilberto Carvalho. Afirmam também o destino do dinheiro seria o custeio de campanhas eleitorais do Partido dos Trabalhadores (PT), legenda à qual os dois agentes públicos eram filiados. “Diante de tal promessa, os agentes públicos, infringindo dever funcional, favoreceram às montadoras de veículo MMC e Caoa ao editarem, em celeridade e procedimento atípicos, a Medida Provisória n° 471, em 23/11/2009, exatamente nos termos encomendados, franqueando aos corruptores, inclusive, conhecimento do texto dela antes de ser publicada e sequer numerada, depois de feitos os ajustes encomendados”, pontua em um dos trechos da denúncia, em referência ao fato de José Ricardo ter recebido cópia da redação final da MP, antes mesmo de a norma ser numerada e publicada.</p></p>
-<p><p>De acordo com o MPF, a investida do grupo criminoso junto ao governo começou em junho de 2009 quando José Ricardo Silva, recebeu do diretor jurídico da M&amp;M duas cartas endereçadas ao então presidente da República com os pedidos de alteração legislativa. Os documentos foram elaborados pelo diretor jurídico da M&amp;M, Ricardo Rett e chegaram a sugerir que a mudança legislativa fosse efetivada por meio de Medida Provisória, o que acabou ocorrendo. Entre as provas mencionadas pelo MPF estão manuscritos, e-mails e até atas de reuniões apreendidas com os envolvidos. Para o MPF, as expressões “kit de material enviado a Gilberto Carvalho e “café Gilberto Carvalho” que constam de documentos apreendidos evidenciam a relação do grupo criminoso com os agentes públicos.</p></p>
-<p><p>Além disso, os procuradores destacam uma mensagem em que Alexandre Paes dos Santos afirma que “colaboradores” de Mauro Marcondes teriam exigindo R$ 10 milhões e que o valor foi reduzido para R$ 6 milhões após “esforço de sensibilização de Mauro” Para o MPF, trata-se do ex-presidente Lula e de Gilberto Carvalho. A mensagem endereçada aos responsáveis pela empresa SGR Assessoria, de propriedade de José Ricardo, foi elaborada após a empresa Caoa ter desistido de pagar a sua parte no combinado. A negociação inicial previa o pagamento de R$ 33 milhões. No entanto, recebeu só a metade, o que teria dificultado o pagamento das propinas. Também constam da ação, referências a manuscritos e a registros feitos por José Ricardo da Silva e João Batista Gruginski que, na avaliação do MPF, confirmam a cooptação dos agentes públicos com o objetivo de garantir a edição da Medida Provisória.</p></p>
-<p><p>Tramitação atípica</p></p>
-<p><p>Na ação penal a ser analisada pela 10ª Vara, os procuradores enfatizam que documentos e depoimentos que integram o inquérito policial mostram que a Medida Provisória teve um andamento atípico, passando por três pastas em um único dia: 19 de novembro, três dias, após a data indicada para o “café com Gilberto Carvalho” e quatro antes da publicação da norma no Diário Oficial. Ouvido na Polícia Federal sobre como se deu o processo de elaboração da norma, o ministro interino de Ciência, Tecnologia e Inovação, Luiz Antônio Rodrigues Elias, “e confirmou que a MP foi discutida em âmbito do Ministério da Fazenda e Presidência da República, vindo ao MCT somente para ser referendada”.</p></p>
-<p><p>Essa atipicidade foi, inclusive, objeto de questionamento do então subchefe de análise e acompanhamento de políticas governamentais da Casa Civil. Em mensagem eletrônica enviada à então ministra, Dilma Rousseff, ele afirma que era impossível exercer a função do setor, diante da postura do Ministério da Fazenda de despachar, diretamente com o presidente da República e enviar para publicação atos normativos como decretos e medidas provisórias. “Nossa análise se resume a aspectos formais e superficiais da matéria”, afirmou Luiz Alberto dos Santos. Para o Ministério Público, não há dúvidas de que Lula e Gilberto Carvalho praticaram crime de corrupção passiva ao aceitar a proposta apresentada por Mauro Marcondes, em nome da organização criminosa.</p></p>
-<p><p>Na chamada cota, documento que acompanha a ação penal, o MPF explica que, por falta de provas de que participaram das negociações e dos atos ilegais, o ex-ministro da Fazenda, Guido Mantega e Cristina Mautoni, sócia da M&amp;M e mulher de Mauro Marcondes não foram denunciados. O procedimento é semelhante ao que ocorreu em relação a Erenice Guerra, Miguel Jorge, Dyogo Oliveira e Nelson Machado que, embora tenham sido investigados em relação à possível participação nas negociações feitas com o propósito de manipular julgamento de recurso apresentado pela empresa MMC junto ao Carf.</p></p>
-<p><p>Veja a lista de denunciados e respectivos crimes<br /></p>
-<p> 1- José Ricardo da Silva - corrupção ativa<br /></p>
-<p> 2- Alexandre Paes dos Santos – corrupção ativa<br /></p>
-<p> 3- Paulo Arantes Ferraz – corrupção ativa<br /></p>
-<p> 4- Mauro Marcondes Machado - corrupção ativa<br /></p>
-<p> 5- Carlos Alberto de Oliveira Andrade – corrupção ativa<br /></p>
-<p> 6 – Gilberto Carvalho -corrupção passiva<br /></p>
-<p> <strong>7- Luiz Inácio Lula da Silva - corrupção passiva</strong></p></p>
-<p><p>&nbsp;</p></p>
-{% endraw %}
