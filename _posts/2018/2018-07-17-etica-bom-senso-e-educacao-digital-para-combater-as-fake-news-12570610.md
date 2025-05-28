@@ -1,29 +1,0 @@
----
-id: 12570610
-date: "2018-07-17T12:40:26Z"
-last_modified_at: null
-tags:
-  - "educacao"
-  - "enem-digital"
-  - "etica"
-  - "fake-news"
-categories:
-  - "noticias"
-title: "\u00c9tica, bom senso e educa\u00e7\u00e3o digital para combater as Fake News"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/07/unnamed-3.jpg"
----
-{% raw %}
-<p><p>Por Rosa Miranda e Cristiane Sales, em artigo enviado ao blog</p></p>
-<p><p>O termo “pós-verdade” foi escolhido como a palavra do ano 2016 pelos dicionários britânicos Oxford, vocábulo que surgiu no contexto do 'Brexit' (saída britânica da União Europeia) e da eleição de Donald Trump nos Estados Unidos. Segundo a definição dos dicionários Oxford, pós-verdade (“post-truth” em inglês) é um adjetivo que faz referência a "circunstâncias em que os factos objetivos têm menos influência na formação de opinião pública do que os apelos emocionais e as opiniões pessoais".</p></p>
-<p><p>O surgimento da palavra pós-verdade na linguagem foi "alimentada pela ascensão das redes sociais como fonte de informação e a crescente desconfiança face aos factos apresentados pelo poder estabelecido", dizem os editores dos dicionários, que explicaram ainda que o prefixo "pós" não é utilizado exclusivamente para referir uma situação ou um acontecimento específico posterior, como pós-guerra, mas também para salientar a rejeição ou irrelevância de um conceito.</p></p>
-<p><p>Vivemos numa época em que o excesso de informações torna difícil distinguir as notícias verdadeiras das falsas. Cada vez mais o cidadão tem usado a internet como fonte de conhecimento sobre os mais diversos tipos de assuntos, porém, como saber se a fonte é confiável? Atualmente, 40% da população mundial usam as redes sociais. No Brasil, são cerca de 78,3 milhões de pessoas. Elas exponencializaram ainda mais o ritmo da disseminação de notícias falsas, as chamadas fake-news. São notícias difíceis de serem identificadas, que aparentam ser verdadeiras, que em algum grau poderiam ser verdade ou que remontam situações para tentar se mostrarem confiáveis.</p></p>
-<p><p>Não são apenas aquelas irônicas com o intuito de serem engraçadas e chamar a atenção do leitor, muitas vezes buscam disseminar boatos e inverdades, com informações que não são 100% corretas. As redes sociais alavancam as fake news por dois motivos principais: velocidade de circulação e por questões mercadológicas.</p></p>
-<p><p>Infelizmente, estamos vivendo numa era em que os interesses pessoais, comerciais se sobrepõem às questões éticas, sociais. Destacamos não só os sites, blogs e redes de credibilidade duvidosa mas, sobretudo, meios de comunicação de referência no país e no mundo com posturas equivocadas. As mesmas regras éticas que regem os jornalistas profissionais devem guiar qualquer tipo de controle das fake news. O código de ética dos jornalistas e a lei de acesso à informação são padrões de comportamento que devem ser observados e praticados por todos que divulgam ou compartilham notícias. Informações inverídicas são comparáveis aos crimes virtuais, ou seja, devem seguir as mesmas regras e punições.</p></p>
-<p><p>Vale ressaltar que os riscos desse tipo de informação no âmbito da saúde podem ser fatais. Uma pesquisa realizada pela Rock Health revelou que 71% dos entrevistados disseram procurar por informações online sobre saúde. Em abril deste ano, o Ministério da Saúde fez um alerta sobre a divulgação de notícias falsas sobre a circulação do vírus da influenza H2N3 no país. Segundo a instituição, um áudio estava se espalhando nas redes sociais e aplicativos de smartphones com informações inverídicas, o que poderia gerar um pânico desnecessário entre os brasileiros.</p></p>
-<p><p>Recentemente, a revista Veja publicou na matéria de capa da edição 2590, de julho de 2018, o resultado de uma pesquisa feita em seis páginas do Facebook com publicações com altos números de compartilhamento de notícias com fórmulas “milagrosas” relacionadas com a saúde. O cenário é estarrecedor e pode ter consequências gravíssimas à saúde da população. Mas, o dado mais preocupante está relacionado com a velocidade de disseminação das redes, já citada anteriormente. Segundo um estudo do Instituto Reuters, da Universidade de Oxford, realizado em dezembro de 2016, 60% dos entrevistados confirmaram que compartilham notícias pelas redes sociais depois de ler apenas a manchete.</p></p>
-<p><p>Para além das fake news, é preciso lembrar também a responsabilidade da imprensa ao divulgar informações que podem gerar pânico na população desnecessariamente e tirar a credibilidade de pessoas e/ou instituições. Como exemplo, citamos a reportagem de capa publicada na revista Superinteressante, edição 391 de julho deste ano, que aborda a questão do erro médico apresentando dados alarmantes sobre a atuação desses profissionais. A revista foi amplamente criticada por diversas instituições, entre elas o Conselho Federal de Medicina que afirma que a reportagem trata “casos específicos como se fossem a regra, o que gera impacto negativo na relação médico-paciente” e que “os trabalhos citados se baseiam em projeção de dados com limites reconhecidos pelos seus autores e que, portanto, não permitem extrapolar resultados, como foi feito”. Não estamos aqui querendo dizer que os erros médicos não existem, mas alertar para que as matérias sejam apuradas com maior rigor.</p></p>
-<p><p>Sabemos que a objetividade é um mito, sempre tivemos uma verdade relativa ou uma meia verdade, mas existem técnicas para se chegar o mais perto possível dela. Decisões que afetam o destino de milhões de seres humanos merecem uma avaliação mais apurada e responsável. Assim, o BOM SENSO precisa ser compartilhado e uma EDUCAÇÃO DIGITAL pode evitar e prevenir crises desencadeadas pelas fake news.</p></p>
-{% endraw %}

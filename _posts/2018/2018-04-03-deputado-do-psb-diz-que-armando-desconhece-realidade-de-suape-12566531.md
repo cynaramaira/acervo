@@ -1,29 +1,0 @@
----
-id: 12566531
-date: "2018-04-03T15:04:40Z"
-last_modified_at: null
-tags:
-  - "armando-monteiro"
-  - "deputado"
-categories:
-  - "instant-articles"
-title: "Deputado do PSB diz que Armando desconhece realidade de Suape"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/01/waldemar-borges.jpg"
----
-{% raw %}
-<p><p>Quase uma semana depois de o <a href="https://blogs.ne10.uol.com.br/jamildo/2018/03/28/armando-monteiro-usa-suape-e-aeroporto-para-criticar-lideranca-politica-depaulo-camara-na-area-logistica/">senador Armando Monteiro Neto (PTB) usar a gestão do Porto de Suape para criticar o governador Paulo Câmara (PSB)</a>, o deputado estadual socialista Waldemar Borges rebateu, nesta terça-feira (3), o petebista. "O senador Armando Monteiro parece que desconhece a realidade do nosso Estado", afirma o aliado de Paulo Câmara.</p></p>
-<p><h3>Leia a íntegra da resposta de Waldemar Borges a Armando Monteiro</h3></p>
-<p><p>O Complexo Industrial Portuário de Suape é o principal ativo da economia pernambucana e, desde o início da gestão do governador Paulo Câmara, tem apresentado números que ratificam essa posição. Nos últimos três anos, a movimentação de cargas cresceu aproximadamente 55%, fruto da intensa busca da administração por novos negócios e oportunidades para a região. Não foi à toa que Pernambuco conquistou o maior investimento privado do Brasil em 2016, a fábrica de medicamentos do laboratório Aché. O empreendimento segue a todo vapor em uma área de 25 hectares do complexo. Um aporte de R$ 500 milhões, que irá gerar centenas de empregos para os pernambucanos, fruto da articulação do governador Paulo Câmara.</p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/03/28/armando-monteiro-usa-suape-e-aeroporto-para-criticar-lideranca-politica-depaulo-camara-na-area-logistica/">Armando Monteiro usa Suape para criticar liderança política de Paulo Câmara na área logística</a></p></p>
-<p><p>Em 2017, o Porto de Suape alcançou a maior movimentação de toda a sua história. Foram 23,6 milhões de toneladas de cargas movimentadas, um crescimento de 4% em relação a 2016. Todas as cargas principais registraram crescimento, sem exceção. Os graneis líquidos alcançaram a marca de 17,5 milhões de toneladas (+0,8%), os contêineres 460.769 TEUs (+18%) e os veículos registraram a impressionante marca de 80.080 unidades, que chegaram ou deixaram o porto. Um incremento de 46%. Não bastasse isso, o faturamento do porto também alcançou marca recorde, com aumento de 12,9% e um total de R$ 195 milhões.</p></p>
-<p><p>Como os números comprovam, é verdade que os polos logísticos são uma opção para o desenvolvimento e esse processo já está em pleno vapor no Governo Paulo Câmara. O Complexo de Suape é o ator principal neste contexto. Temos que relacionar os números e as ações nessa área, pois o senador Armando Monteiro parece que desconhece a realidade do nosso Estado.</p></p>
-<p><p>Basta observar a série de projetos em andamento. O principal deles, o segundo terminal de contêineres (Tecon 2), mais que dobrará a capacidade atual de armazenagem de contêineres/ano dos atuais 700 mil TEUs para 1,7 milhão de TEUs (unidade equivalente a um contêiner de 20 pés). O investimento, estimado em aproximadamente 1 bilhão, irá trazer maior competitividade, tarifas mais baixas e um melhor serviço. O estudo de viabilidade foi entregue ao Governo Federal, que inclui o projeto entre suas prioridades no PPI.</p></p>
-<p><p>Outro investimento de grande importância para Suape é a ampliação de seu parque de tancagem, com investimentos privados de R$ 540 milhões. Juntos, os projetos das empresas Decal, Pandenor, Tequimar e Temape expandirão a capacidade estática de armazenagem dos atuais 700 mil m³ para mais de 1 milhão de m³. Além deles, estão em andamento os projetos de arrendamento do pátio de veículos, de criação do pátio de triagem de caminhões, de cessão de uma área para envase e distribuição de GLP, entre outros. Essas novas estruturas refletirão em mais carga e mais oportunidades em Suape. Tudo isso fruto de exaustivo planejamento.</p></p>
-<p><p>Em relação às tarifas, é importante destacar que as tarifas públicas cobradas pelo Porto de Suape estão entre as mais competitivas do Brasil, abrangendo cargas como veículos e granéis líquidos. O que foi citado no referido evento citado pelo senador foi, especificamente, uma parte das tarifas cobradas pelo terminal de contêineres, que é um arrendatário privado. Acrescente-se que Suape tem a maior movimentação de contêineres no Nordeste, representando mais de 40% da movimentação da região, e é o primeiro Estado do Nordeste que está se preparando para ter seu segundo terminal, aumentando ainda mais sua participação e sua competitividade.</p></p>
-<p><p>É estranho ver o senador Armando Monteiro afirmar que Suape se ressente de uma visão mais atualizada de planejamento e expansão, quando o próprio senador foi favorável, no ano de 2012, à implantação da MP dos Portos, que trouxe uma série de entraves a projetos importantes de Suape como o Tecon 2.</p></p>
-<p><p>A medida provisória foi sancionada em 2013 pela então presidente Dilma Rousseff e virou lei. Desde então, provocou a diminuição do ritmo no andamento dos projetos, já que o Governo Federal passou a concentrar os processos licitatórios e de arrendamentos. A busca pela retomada da autonomia é justamente a ação para desfazer esse nó que tanto limita a atuação dos portos públicos brasileiros, como é o caso do Complexo Industrial Portuário de Suape.</p></p>
-{% endraw %}

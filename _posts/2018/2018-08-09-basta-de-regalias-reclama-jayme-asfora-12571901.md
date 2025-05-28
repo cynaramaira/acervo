@@ -1,28 +1,0 @@
----
-id: 12571901
-date: "2018-08-09T18:00:15Z"
-last_modified_at: null
-tags:
-  - "sem-tags"
-categories:
-  - "noticias"
-title: "Basta de regalias, reclama Jayme Asfora"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/03/jayme-asfora.jpg"
----
-{% raw %}
-<p><p>Por Jayme Asfora – vereador do Recife, em artigo enviado ao blog</p></p>
-<p><p>Desde o início do meu primeiro mandato como vereador do Recife, sigo uma linha que defendo desde que fui presidente da OAB-PE: ser contra todas as regalias indevidas – ou penduricalhos que existem sob a forma de auxílios. Neste rol, estão incluídos os que são pagos na Câmara do Recife: auxílio-combustível, auxílio-alimentação e o conhecido auxílio-paletó. Renunciei a todas essas regalias por uma questão de coerência com o que sempre afirmei. Em relação ao auxílio-paletó apresentei, inclusive, um projeto de lei propondo sua extinção- o qual tramita na Câmara.</p></p>
-<p><p>Estes privilégios travestidos de indenizações, nada mais são do que uma maneira inconstitucional para aumentar, sem disfarces, os salários. Para serem indenizatórios, teriam que ser pagos extraordinariamente e como reembolsos “a posteriori”. Ou seja, comprovada a despesa eventual e necessária para o exercício da função. Entre as características essenciais das verbas indenizatórios estão a sua não habitualidade e valores, via de regra, variáveis. Como existem hoje são apenas valores remuneratórios. E fora do teto constitucional, repita-se. E ilegais, portanto.</p></p>
-<p><p>No entanto, o Supremo Tribunal Federal e o Congresso continuam postergando decisões definitivas sobre a extinção das regalias indevidas, pagas em todas as esferas da administração pública. Enquanto isso, os auxílios-moradia, combustível, saúde, creche, educação, paletó, entre tantos outros, se perpetuam e continuam sendo usados para burlar o fictício teto constitucional de R$ 33.763.</p></p>
-<p><p>Todos os servidores e membros de poder estão submetidos a ele: vereadores, deputados, senadores, juízes, ministros, secretários, conselheiros de Tribunais de Contas, governadores, prefeitos, promotores, procuradores, advogados da União, defensores públicos, etc. E para os cidadãos que exercem mandatos parlamentares, os tão famosos políticos, como eu, essa dissintonia com a sociedade é ainda pior.</p></p>
-<p><p>A estimativa da Comissão Especial do Congresso para tratar das regalias é de que o fim dos supersalários gere uma economia de R$2,3 bilhões por ano aos cofres públicos. Infeliz e rotineiramente, os jornais trazem, a toda hora, manchetes sobre supersalários - recheados estes com vários privilégios odiosos (as citadas regalias): criativas formas de aumentá-los indireta, transversa e inconstitucionalmente.</p></p>
-<p><p>No ano passado, uma pesquisa do “Estado de São Paulo” verificou que o número de funcionários públicos ganhando acima do teto salarial cresceu quase 3,5 vezes nos últimos dez anos. Já foram registradas situações como no Rio Grande do Norte, onde desembargadores receberam o pagamento retroativo a seis anos de auxílio-moradia.</p></p>
-<p><p>No Rio de Janeiro, R$ 2 mil foram pagos aos magistrados no final do ano passado a título de “auxílio-peru”. E segundo um estudo da Consultoria de Orçamento e Fiscalização Financeira da Câmara dos Deputados, os gastos com auxílio-moradia dos magistrados já representam R$ 1 bilhão. Isso só até agosto deste ano de 2018.</p></p>
-<p><p>A questão do auxílio-moradia deveria ter sido julgada em março deste ano. Mas o ministro relator do processo Luiz Fux – o mesmo que deu uma liminar (em 2014) em favor do pagamento indiscriminado do privilégio – retirou o processo de pauta e o remeteu, incompreensivelmente, para uma câmara de conciliação, buscando um acordo entre a União e os juízes. Sem consenso (o que já era por demais previsível) o processo voltou para o ministro que, mesmo assim, ainda não o liberou para pauta no plenário da Corte. A liminar de Fux fez com que surgissem interpretações absurdas, como no caso do juiz federal Sérgio Bretas (integrante da Operação Lava Jato) que recebe o auxílio-moradia mesmo morando em imóvel próprio na capital onde trabalha. Na esteira disso, Bretas ainda garantiu, na Justiça, o pagamento de igual regalia a sua esposa, também magistrada, que trabalha e coabita com ele na mesma cidade do Rio de Janeiro.</p></p>
-<p><p>No Congresso, uma comissão especial foi criada em setembro de 2017 para discutir um projeto que impõe regras mais rígidas para a aplicação efetiva do teto salarial, incluindo regras para que o auxílio-moradia fosse pago apenas para sua cumprir sua função precípua: indenizar servidores em atividade fora do local onde residem ou que são lotados em locais diferentes daqueles pra onde foram designados inicialmente. Mas o relatório do deputado Rubens Bueno não consegue ser votado. Ora por pedido de vista, ora por falta de quórum como ontem.</p></p>
-<p><p>Se queremos um Brasil mais austero e igualitário e se desejamos verdadeiramente a reforma do Estado, não há como não enfrentar esse problema. E, para isso, se faz necessário um debate franco e transparente de como o Brasil precisa “cortar na própria carne” e cumprir a Constituição Federal. A capacidade de mobilização da opinião pública é infinita.</p></p>
-<p><p>Refundemos, pois, a nossa República. E façamos isso juntos. Com fé e esperança</p></p>
-{% endraw %}

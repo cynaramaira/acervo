@@ -1,28 +1,0 @@
----
-id: 12563553
-date: "2018-01-24T18:30:22Z"
-last_modified_at: null
-tags:
-  - "sem-tags"
-categories:
-  - "noticias"
-title: "A \u2018escolha de Sofia\u2019 e a escolha do PT"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/07/marilia-arraes-lula-2.jpg"
----
-{% raw %}
-<p><p>Por Luciano Morais, em artigo enviado ao blog</p></p>
-<p><p>Desde o golpe de Estado parlamentar de 2016, integrado pelas corporações de mídia (sob liderança da Rede Globo), pelos partidos e parlamentares corruptos, pelo mercado financeiro e corporações industriais (lideradas pela Fiesp), além da faixa de classe média reacionária, o PT observou e sofreu a capitulação de antigos aliados. Alguns deles do campo da esquerda, a exemplo do histórico PSB, bem como a debandada da base parlamentar fisiológica formada por partidos sem identidade político-ideológica.</p></p>
-<p><p>Os golpistas não se conformaram apenas em golpear o PT para iniciar a ofensiva aos direitos sociais e trabalhistas, e contra o patrimônio e à soberania nacional. Eles também buscaram e buscam demonizar o Partido dos Trabalhadores, tentando afastar do imaginário popular a identificação do povo com um projeto de caráter nacional e popular.</p></p>
-<p><p>O ataque da Casa-Grande contra a mobilidade social e o acesso a muitos direitos pelos trabalhadores, desde o ano de 2003, a partir da eleição do presidente LULA, resgatou a simpatia popular para com as bandeiras de luta defendidas pelo PT. Por isso, não completaram nem dois anos do golpe para que a maioria da sociedade reconhecesse a armadilha do golpe. Não é por acaso que o ex-presidente LULA lidera as pesquisas eleitorais, constituindo, desde já, a principal força eleitoral que pode frustrar em 2018 toda ofensiva golpista arquitetada na pauta ultraliberal dos usurpadores do poder legítimo.</p></p>
-<p><p>O PT foi gravemente atingido e caiu, mas o golpe não foi fatal. Daí a importância tática da eleição de 2018, com a presença de Lula candidato e de outras lideranças para a batalha da reação democrática nas ruas e nas urnas. Deve ser nosso objetivo fundamental, ao lado da eleição de Lula, formar uma grande bancada de parlamentares (Deputados e Senadores) para a aprovação de projetos no Congresso Nacional, inclusive para encaminhar as propostas de referendo revogatório sobre as leis ilegítimas, antinacionais e criminosas contra os trabalhadores e a nação.</p></p>
-<p><p>Da mesma forma, é necessária a recomposição de um campo histórico de partidos identificados ideologicamente com as agendas de esquerda. E não menos importante (julgamos até essencial), é a indispensável apresentação de uma agenda social própria nos estados, a fim da sociedade poder, por meio do contraponto político-ideológico e econômico-social, identificar no PT um diferencial em face da agenda conservadora em curso.</p></p>
-<p><p>Essa será a “escolha de Sofia” do PT: abdicar do seu potencial capital político-eleitoral para ceder às pressões pragmáticas de forças políticas partícipes do golpe (as quais sofrem altos índices de rejeição, em razão de mandatos que se dedicaram a atender os interesses de grandes corporações), ou se apresentar com a cara e a coragem dos seus quadros mais dispostos a afirmar uma agenda político-ideológica que não abdique dos lastros históricos originais do PT.</p></p>
-<p><p>O PT terá uma vitória de Pirro se, em 2018, eleger Lula e não eleger uma bancada federal com maioria de forças progressistas no Senado e na Câmara Federal. Será, na prática, emparedado politicamente, pois o golpe pretende se consolidar a partir do novo parlamento.</p></p>
-<p><p>Em Pernambuco, a candidatura própria ao governo do Estado, apresentada pela vereadora Marília Arraes, é uma dessas alternativas. Significa, já a partir de Pernambuco, que não podemos conciliar no essencial, ainda que, pragmática e taticamente, possamos conciliar em questões periféricas. Não conciliar no essencial quer dizer que o PT não deve nem pode transigir com os golpistas, no sentido de permitir aos mesmos manter a mesma agenda reacionária e entreguista do golpe de Estado de 2016, já a partir dos estados.</p></p>
-<p><p>A candidatura de Marília Arraes preenche todos os requisitos necessários como resistência aos tempos difíceis que vivemos, bem como aponta para uma renovação partidária equilibrada, mas não como uma unanimidade interna, como muitos ingenuamente dizem necessário buscar no âmbito partidário, o que seria um ledo engano. A divergência e o debate são importantes para ajustar pontos essenciais, desde que haja predisposição da parte derrotada de se deixar convencer pela tese vencedora, e, sobretudo, fique disposta a seguir o que esteja em harmonia com os anseios da militância e da sociedade.</p></p>
-<p><p>Neste sentido, buscamos, sim, uma definição partidária sobre a candidatura própria e quem caberá representar esta postulação para arregimentar um campo popular de partidos e movimentos sociais. Uma decisão que não seja açodada pelo pragmatismo, o qual não contempla o desejo de resistir e reverter o atual quadro político (objetivando apenas a suposta garantia de mandatos previamente selecionados num possível pacto), que traga ânimo aos lutadores e lutadoras contrários ao golpe e seja uma alternativa para seguir e lutar por uma dignidade coletiva já tão ofendida.</p></p>
-<p><p>Luciano Morais é advogado, músico e presidente do PT em Paulista/PE</p></p>
-{% endraw %}

@@ -1,35 +1,0 @@
----
-id: 12579174
-date: "2018-12-16T11:05:53Z"
-last_modified_at: null
-tags:
-  - "camara"
-  - "diretor"
-  - "geraldo-julio"
-  - "plano"
-  - "previsao"
-  - "projeto"
-categories:
-  - "noticias"
-title: "Geraldo Julio encaminha projeto da revis\u00e3o do Plano Diretor \u00e0 C\u00e2mara"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/12/geraldo-julio-1.jpg"
----
-{% raw %}
-<p><p>O prefeito do Recife, Geraldo Julio (PSB), assinou e encaminhou, na tarde dessa sexta-feira (14), para a Câmara Municipal, o Projeto de Lei com a revisão do Plano Diretor do Recife. O texto é a consolidação do resultado da Conferência Municipal, última etapa da discussão popular no âmbito do Executivo, que aconteceu nos últimos dias 3 e 4 de dezembro. Ao longo de seis meses foram realizadas 27 reuniões em todas as regiões da cidade, além da criação de um canal digital para recebimento de sugestões e propostas.</p></p>
-<p><p>O Projeto de Lei foi entregue pelo secretário de Governo e Participação Social do Recife, Sileno Guedes, ao presidente da Câmara Municipal, o vereador Eduardo Marques.</p></p>
-<p><p>Segundo a prefeitura, milhares de recifenses participaram da intensa agenda colaborativa que foi iniciada em junho e seguiu até a primeira semana de dezembro. Ao final do calendário participativo, a Secretaria de Planejamento Urbano do Recife, que coordenou todo o processo de revisão da lei, recebeu mais de 16 mil contribuições que ajudaram a compor a proposta que agora passa a ser apreciada pelos vereadores da cidade. O processo de construção coletiva contou com a participação de quase sete mil pessoas, de acordo com a gestão.</p></p>
-<p><p>O Plano Diretor do Recife traça o ordenamento para o território da cidade. Ele indica as diretrizes e os instrumentos urbanísticos necessários para o desenvolvimento do município de maneira planejada e equilibrada. Por indicação legal, a cada 10 anos esse documento precisa ser revisado, e a contribuição social é considerada fundamental para o processo. Organismos vivos que se transformam espontaneamente, as cidades buscam no planejamento estratégico participativo a adequação das diretrizes urbanísticas capazes de organizar e direcionar o seu crescimento. A última vez que o documento foi revisado foi em 2008.</p></p>
-<p><img class="size-full wp-image-208112" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2018/12/141218-Entrega-projeto-de-lei-Foto-Inaldo-Lins-PCR-15.jpg" alt="" width="750" height="410" /> Foto: Inaldo Lins/PCR</p>
-<p><p>Foram debatidos, ao longo desses últimos meses, temas como ordenamento territorial, instrumentos urbanísticos, Zonas Especiais; princípios fundamentais da política urbana, seus objetivos e diretrizes; ordenamento territorial, diretrizes setoriais da Política Urbana, sistemas de planejamento urbano participativo e gestão democrática e de informação. O processo de participação contou com uma agenda de 27 encontros presenciais dentre oficinas, audiências públicas e reuniões. Além disso, um ambiente na internet foi construído para receber propostas e concentrar todas as informações geradas a partir do processo de revisão do documento.</p></p>
-<p><p>Na realização da Conferência Municipal, os 348 delegados se distribuíram em seis salas temáticas. Nesses espaços, o trabalho incluiu a apresentação de novas propostas, a retirada e/ou a alteração de outras. Ao final, cada grupo elencou seus destaques, que foram apresentados para votação em plenária no último dia 4. Foram analisados pelo conjunto de delegados 103 itens que fazem parte do Caderno de Propostas - objeto de trabalho usado durante a Conferência e que foi construído coletivamente ao longo dos últimos meses.</p></p>
-<p><p>Dentre as modificações sugeridas na revisão está a proposta de um novo Macro Zoneamento, que amplia as áreas de proteção natural e cultural da cidade. As especificidades do macro zoneamento serão detalhados a partir da revisão, no próximo ano, de outra importante lei urbanística: a Lei de Uso e Ocupação do Solo (LUOS).</p></p>
-<p><p>Outra mudança que acontece é no zoneamento da cidade, que ganha nova configuração considerando as especificidades locais possibilitando, assim, o direcionamento de políticas urbanísticas mais assertivas. Exemplo disso é a Avenida Mascarenhas de Moraes, na Imbiribeira, que passar a ser uma Zona de Reestruturação Urbana (ZRU), uma vez que é um importante corredor viário com características para o transporte de alta capacidade e com áreas de possível adensamento.</p></p>
-<p><p>O número de Zonas Especiais de Interesse Social (ZEIS) deverá sair de 64 para 65 com a inclusão da Comunidade do Pilar, localizada no Bairro do Recife. Além disso, 20 áreas de ZEIS deverão ter suas áreas ampliadas ,incorporando outras Comunidades de Interesse Social (CIS) à proteção e fortalecendo, assim, o direto à moradia.</p></p>
-<p><p>A revisão do Plano Diretor faz parte de um conjunto maior de trabalho que tem a coordenação técnica do Instituto da Cidade Pelópidas Silveira. Esse conjunto é denominado Plano de Ordenamento Territorial. Nele, além da atualização do Plano Diretor, estão as revisões de outras duas leis e a regulamentação dos instrumentos urbanísticos necessários para tornar as diretrizes previstas no Plano possíveis de serem executadas.</p></p>
-<p><p>Plano de Ordenamento Territorial – Fazem parte do Plano de Ordenamento Territorial as revisões do Plano Diretor do Recife (2008), da Lei de Parcelamento (1997) e da Lei de Uso e Ocupação do Solo (1996). Além disso, faz parte do trabalho a regulamentação da Outorga Onerosa do Direito de Construir, da Transferência do Direito de Construir e o Parcelamento, Edificação ou Utilização Compulsórias e Imposto Predial Territorial Progressivo (IPTU Progressivo). Esse processo completo inclui, no mínimo, a realização de dez ciclos participativos a serem executados até agosto do próximo ano.</p></p>
-<p><p>As Leis de Parcelamento e de Uso e Ocupação do Solo são instrumentos que orientam, em conjunto com o Plano Diretor, a forma e a intensidade da ocupação do solo na cidade pelas edificações. Estabelecem também limites, visando a conservação do meio ambiente e do patrimônio histórico e cultural existente na cidade. Por fim, possibilitam prever os impactos gerados por empreendimentos de maneira a apontar as medidas necessárias para minimizá-los.</p></p>
-<p><p>No mesmo sentido, os instrumentos urbanísticos regulamentados no Plano Diretor atuam de maneira específica na solução de problemas que atingem parcelas do território do município. A sua aplicação coordenada possibilita a conservação do patrimônio cultural e ambiental, assim como a captação de recursos para investimentos públicos voltados para a produção de moradias, urbanização de favelas, implantação de infraestrutura e equipamentos urbanos e melhorias no sistema viário e transporte público.</p></p>
-{% endraw %}

@@ -1,36 +1,0 @@
----
-id: 12576344
-date: "2018-10-24T17:34:43Z"
-last_modified_at: null
-tags:
-  - "bolsonaro"
-  - "fernando-haddad"
-  - "lula"
-categories:
-  - "noticias"
-title: "A vez da direita. Entenda como Bolsonaro engoliu Lula e Haddad"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/10/45bcf3e91cb605605fc719ebb6f78a02.jpg"
----
-{% raw %}
-<p><p><a href="https://epoca.globo.com/artigo-vez-da-direita-23181473?versao=amp&amp;utm_source=Twitter&amp;utm_medium=Social&amp;utm_campaign=compartilhar&amp;__twitter_impression=true">Por Flávio Gordon, na Época</a></p></p>
-<p><p>“Porque meia dúzia de gafanhotos sob uma samambaia fazem o campo tinir com seu inoportuno zumbido, ao passo que milhares de cabeças de gado repousando à sombra do carvalho inglês ruminam em silêncio, por favor, não vá imaginar que aqueles que fazem barulho são os únicos habitantes do campo; ou que, logicamente, são maiores em número; ou ainda que signifiquem mais do que um pequeno grupo de insetos efêmeros, secos, magros, saltitantes, espalhafatosos e inoportunos”.<br /></p>
-<p> – Edmund Burke (1729-1797)</p></p>
-<p><p>“A candidatura de Jair Bolsonaro à Presidência da República é uma ameaça à democracia” – vocifera a esquerda brasileira em peso, não apenas a político-partidária, mas também a cultural. Aquartelada nas cátedras e bancos universitários, nas redações e nos estúdios, nas telas e nos palcos, esta última age como caixa de ressonância do PT e seus partidos-satélite, fazendo soar o alarme contra “o fascismo” (conforme a velha tradição comunista), e gerando nos espíritos mais suscetíveis a dúvida atroz: haveria algo de concreto nesse grito de alerta?</p></p>
-<p><p>Pretendo, neste artigo, responder ao questionamento. Antes, porém, segue uma breve anedota, a fim de melhor contextualizar o fenômeno político Bolsonaro e o tsunami conservador que ora arrasta a esquerda como se ela fora um novelo de lã.</p></p>
-<p><p>Era noite de Sexta-feira da Paixão. Ao sair de um prédio na rua Barata Ribeiro, Copacabana, um espetáculo inusitado me fez estancar à beira da calçada. Amansando o burburinho boêmio tal qual um encantador de serpentes, a procissão marchava silenciosa diante dos olhares lânguidos nos botequins, recordando o martírio de Nosso Senhor Jesus Cristo.</p></p>
-<p><p>Cortando o silêncio reverente, apenas o som do bumbo ditava o ritmo dos procissantes – gente velha e gente moça; rica e pobre; preta, branca, amarela e escarlate, reunida num corpo comum que política identitária alguma conseguiria debilitar.</p></p>
-<p><p>Quem ali desfilava era um país sub-representado, cristão e conservador, invisível ao radar da classe falante. Abaixo da crosta superficial em que se agita boa parte dos autoproclamados progressistas – gente para quem “os grupos de família no WhatsApp são uma ameaça à democracia” (sic) –, havia uma espécie de magma cultural buscando brechas por onde irromper.</p></p>
-<p><p>É esse Brasil que, pulsando resiliente qual o bumbo da procissão católica, deverá no próximo domingo, por meio do voto soberano, abafar o falatório impotente dos bem pensantes de esquerda.</p></p>
-<p><p>Durante a Nova República, e particularmente nas duas últimas décadas, o Brasil viveu uma democracia claudicante e disfuncional, cujos mecanismos formais, no papel tão virtuosos, jamais garantiram um exercício pleno da representatividade. Em termos culturais, vimos o surgimento de um abismo intransponível entre um povo conservador e uma intelligentsia ultraprogressista hostil aos seus gostos e valores.</p></p>
-<p><p>Em termos político-partidários, tivemos a divisão do poder entre PSDB e PT, dois partidos ideologicamente de esquerda (um socialdemocrata e um socialista), com a mesma origem intelectual e, exceto por divergências pontuais referentes a política econômica, a mesma visão progressista de mundo. Por muitos anos, o eleitorado de direita se viu obrigado a votar nos tucanos, cuja oposição tímida ao PT se fez sempre acompanhar da recusa veemente ao rótulo de ‘direita’ que o campo lulopetista lhes outorgava.</p></p>
-<p><p>“Para a direita não adianta me empurrar que eu não vou” – foi a declaração-síntese desse espírito, proferida pelo candidato de oposição ao PT no pleito de 2014 (o que não impediu, é claro, que também ele e seus eleitores fossem chamados de ‘fascistas’).</p></p>
-<p><p>Em 2010, essa disputa política manca, inexistente nas grandes democracias do mundo, foi celebrada por Lula: “Não vamos ter um candidato de direita na campanha. Não é fantástico isso?”. E muitos formadores de opinião no Brasil pareceram concordar: “Sim, é fantástico”. Em 2 de outubro de 2002, na iminência de sua primeira eleição presidencial, o mesmo Lula confessara ao jornal francês Le Monde, em matéria não traduzida e jamais repercutida pela imprensa brasileira: “a eleição é uma farsa pela qual é preciso passar para se chegar ao poder”.</p></p>
-<p><p>A confissão condiz com a fala recente de José Dirceu, segundo a qual o importante não é vencer eleições, mas tomar o poder, revelando o sempiterno desprezo lulopetista pela democracia, concebida de maneira apenas instrumental e “estratégica” (assim ela é descrita num dos vídeos-propaganda do 3º Congresso do partido).</p></p>
-<p><p>Esse cálculo maquiavélico se materializou no aparelhamento da cultura e da educação, traduzido em campanhas de tipo stalinista contra críticos e dissidentes, e no assalto ao Estado, consagrado na cleptocracia que a Operação Lava Jato começou a desmontar. Em tal esquema, a corrupção serviu de ferramenta para a construção de um projeto totalitário de perpetuação no poder, cujo alcance transnacional se revelou na parceria com ditaduras socialistas latinoamericanas indecorosamente ligadas ao narcotráfico e ao terrorismo.</p></p>
-<p><p>Para uma grande parcela da sociedade, a candidatura de Jair Bolsonaro representa a rejeição dessa situação aberrante e, ela sim, antidemocrática. Diferente do que se passa com o campo lulopetista, os eleitores do capitão reformado do Exército não demonstram qualquer predisposição a lhe dar um cheque em branco, mas parecem ter perdido a paciência com quem os assalta e ainda os acusa de ‘fascistas’ pela ousadia de reclamar.</p></p>
-<p><p>Preocupações quanto à qualidade de um possível governo Bolsonaro são legítimas, bem como críticas aos eventuais arroubos autoritários de alguns de seus correligionários. Mas tratar a sua candidatura como ameaça à democracia é um desrespeito aos mais de 50 milhões de brasileiros que optaram por ela. É, sobretudo, atitude histriônica e desonesta, que mascara um desejo velado de se aferrar ao poder, da parte do grupo político que, na história recente, mais atentou contra as instituições e o estado de direito, sob o silêncio cúmplice dos democratas de ocasião.</p></p>
-<p><p>Flávio Gordon é doutor em antropologia social pela UFRJ, colunista da Gazeta do Povo e autor do livro A Corrupção da Inteligência (Record, 2017)</p></p>
-{% endraw %}

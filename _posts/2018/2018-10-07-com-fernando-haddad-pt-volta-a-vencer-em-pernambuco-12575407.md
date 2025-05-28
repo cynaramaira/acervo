@@ -1,40 +1,0 @@
----
-id: 12575407
-date: "2018-10-07T22:54:14Z"
-last_modified_at: null
-tags:
-  - "fernando-haddad"
-  - "pernambuco"
-categories:
-  - "eleicoes-2018"
-title: "Com Fernando Haddad, PT volta a vencer em Pernambuco"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/09/haddad-recife-6.jpg"
----
-{% raw %}
-<p><p><em><span style="font-weight: 400;">Por Douglas Fernandes</span></em></p></p>
-<p><p>Há quatro anos, o PT era superado em uma eleição presidencial em Pernambuco pela primeira vez desde as eleições de 2002, quando o ex-presidente Luiz Inácio Lula da Silva (PT) venceu sua primeira eleição. Neste domingo (7), o 'lulopetismo' voltou a se sobressair no seu maior reduto com a vitória do ex-prefeito de São Paulo Fernando Haddad (PT), com 48,87% dos votos dos eleitores pernambucanos. Desde que assumiu a candidatura à Presidência no lugar do ex-presidente Lula, o petista disparou nas pesquisas de intenção de votos realizadas no Estado e liderou os levantamentos até a véspera da eleição. O ex-prefeito consolidou uma vantagem folgada para o segundo colocado no Estado, o deputado federal Jair Bolsonaro (PSL), que obteve 30,60% dos votos em Pernambuco.</p></p>
-<p><p><span style="font-weight: 400;">Antes questionado, o poder de transferência de votos de Lula se provou mais uma vez capaz de levar o PT à vitória em Pernambuco. Nas eleições de 2014, o ex-presidente Lula não conseguiu fazer com que a então presidente e candidata à reeleição Dilma Roussef (PT) repetisse o feito de 2010, quando a petista sagrou-se vitoriosa entre o eleitorado pernambucano. </span></p></p>
-<p><p><span style="font-weight: 400;">Em 2014, a ex-senadora Marina Silva (Rede) venceu a disputa presidencial no Estado no primeiro turno, com Dilma ficando na segunda colocação. A ex-presidente acabou eleita no segundo turno contra o senador Aécio Neves (PSDB), vencendo dessa vez em Pernambuco.</span></p></p>
-<p><p><span style="font-weight: 400;">Para retomar a hegemonia do PT em Pernambuco em eleições presidenciais, Fernando Haddad contou com uma aliança com o governador Paulo Câmara (PSB), que, em 2016, liberou os seus secretários para votarem a favor do impeachment da ex-presidente Dilma Rousseff (PT). Após selado o acordo com os petistas, o governador disse, em uma sabatina na Rádio Jornal, que se arrependia de ter apoiado o impeachment “no contexto histórico”.</span></p></p>
-<p><p><span style="font-weight: 400;">A costura entre petistas e socialistas incluiu a neutralidade do PSB na corrida pelo Palácio do Planalto, evitando que a sigla se aliasse ao ex-governador do Ceará Ciro Gomes (PDT), e a retirada da pré-candidatura da vereadora Marília Arraes (PT) ao governo do Estado, facilitando a reeleição de Paulo Câmara. Como contrapartida, os socialistas rifaram a candidatura do ex-prefeito de Belo Horizonte Márcio Lacerda (PSB) ao governo mineiro, em favor do atual governador Fernando Pimentel (PT). Também no acordo o PSB abriu espaço na chapa majoritária de Paulo Câmara para o senador Humberto Costa (PT) disputar a reeleição.</span></p></p>
-<p><p><span style="font-weight: 400;">“Não se faz nada sozinho. A gente às vezes tem a mania de achar que se elege o presidente e está resolvido. O presidente precisa de parceria do Congresso, precisa parceria dos governadores. Eu queria pedir para vocês que nós temos que estar unidos, unidos todos nós”, justificou Haddad em discurso em ato de campanha no dia 22 de setembro, no Recife.</span></p></p>
-<p><p><span style="font-weight: 400;">Foi a primeira agenda como candidato a presidente no Estado. O petista foi acompanhado do governador, da viúva do ex-governador Eduardo Campos, Renata Campos, e do seu filho João Campos (PSB).</span></p></p>
-<p><p><span style="font-weight: 400;">“Aqui está Renata Campos, minha querida, o filho João Campos, que tem muito correligionário aqui, o governador Paulo Câmara, Humberto Costa”, disse Haddad enquanto a militância petista vaiava. Era um recado da base do PT que defendia a candidatura de Marília Arraes contra o atual governador. Apoiadores da vereadora levaram bandeiras e cartazes da petista.</span></p></p>
-<p><p><span style="font-weight: 400;">Apostando na alta popularidade do ex-presidente Lula - que chegou a chegou a marcar 62% na pesquisa JC/Ibope/TV Globo do dia 21 de agosto antes de ter sua candidatura barrada pelo Tribunal Superior Eleitoral (TSE) pela Lei da Ficha Limpa - a campanha do PT explorou muito a imagem do petista seja no programa eleitoral ou nos famosos “santinhos”. O slogan “Lula é Haddad, Haddad é Lula” virou uma marca da candidatura petista. Para os atos de rua, Haddad fazia questão de vestir uma camisa com a imagem do seu padrinho político estampada.</span></p></p>
-<p><p><span style="font-weight: 400;">Nem mesmo a restrição da Justiça Eleitoral sobre a presença do ex-presidente no horário eleitoral e nos materiais de campanha impediu o PT de usar a imagem do líder petista exaustivamente. O que provocou vários ações no Tribunal Superior Eleitoral (TSE). Em Pernambuco, o Tribunal Regional Eleitoral (TRE) apreendeu material de campanha de Paulo Câmara com Lula como candidato. A decisão da Corte foi com base duas denúncias, uma do PSL, partido de Jair Bolsonaro, e outro da coligação do senador Armando Monteiro Neto (PTB), adversário de Paulo Câmara.</span></p></p>
-<p><p><span style="font-weight: 400;">A estratégia de colar a imagem de Haddad a do ex-presidente Lula deu certo. No processo, o governo da ex-presidente Dilma foi “esquecido”. Outro slogan da campanha do ex-prefeito, “O Brasil feliz de novo” se referia ao oito anos de governo Lula e não aos 13 anos do PT ao poder. Em Pernambuco, petistas e aliados faziam questão de relembrar com saudosismo o tempo em que Eduardo Campos e Lula governaram o Estado e o País, respectivamente. Era uma forma de também reforçar o voto “casado” no atual governador e em Haddad.</span></p></p>
-<p><p><span style="font-weight: 400;">Ainda antes de ter sido oficializado como candidato a presidente, outra tática petista surgiu de forma natural em uma visita do ex-prefeito aos municípios considerados como a terra de natal do ex-presidente Lula, Garanhuns e Caetés (esse último era um distrito do primeiro quando o político nasceu). Para os moradores da cidade do Agreste pernambucano, Haddad virou “Andrade”. A confusão virou motivo de piada para adversários, mas os petistas souberam capitalizar isso a seu favor diante do desconhecimento sobre o político que viria a ser ungido como o candidato de Lula.</span></p></p>
-<p><p><span style="font-weight: 400;">Ainda na agenda na terra natal de Lula, uma declaração de uma moradora de Caetés mostrou a força do “lulismo”. “Se Lula mandar eu votar num jumento eu voto”, disse Josefa dos Santos, 62, que é filiada ao PT no município. Abertas as urnas, Haddad obteve 2.304.995 milhões de votos dos eleitores pernambucanos. Uma diferença de 860.494 mil votos para Jair Bolsonaro que teve 1.444.501 votos no Estado.</span></p></p>
-<p><h2><strong>Confira a apuração completa:</strong></h2></p>
-<p><p><span style="font-weight: 400;"><strong>Jair Bolsonaro (PSL):</strong> 46,13%</span></p></p>
-<p><p><span style="font-weight: 400;"><strong>Fernando Haddad (PT):</strong> 29,13%</span></p></p>
-<p><p><span style="font-weight: 400;"><strong>Ciro Gomes (PDT):</strong> 12,49%</span></p></p>
-<p><p><span style="font-weight: 400;"><strong>Geraldo Alckmin (PSDB):</strong> 4,77%</span></p></p>
-<p><p><span style="font-weight: 400;"><strong>João Amoêdo (Novo):</strong> 2,51%</span></p></p>
-<p><p><span style="font-weight: 400;"><strong>Marina Silva (Rede):</strong> 4%</span></p></p>
-<p><p><iframe src="https://apps.ne10.uol.com.br/voce-ja-decidiu-seu-voto-para-o-2-turno-da-eleicao-presidencial" width="100%" height="320" frameborder="0" scrolling="yes"> </iframe></p></p>
-<p><p>&nbsp;</p></p>
-{% endraw %}

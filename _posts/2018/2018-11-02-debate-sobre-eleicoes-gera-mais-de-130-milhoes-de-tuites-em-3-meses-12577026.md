@@ -1,33 +1,0 @@
----
-id: 12577026
-date: "2018-11-02T12:00:33Z"
-last_modified_at: null
-tags:
-  - "animais"
-  - "debate"
-  - "eleicoes"
-categories:
-  - "noticias"
-title: "Debate sobre elei\u00e7\u00f5es gera mais de 130 milh\u00f5es de tu\u00edtes em 3 meses"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/10/29.09.18-THIAGO.jpg"
----
-{% raw %}
-<p><p>Ao longo de quase cem dias, a equipe da Sala de Democracia Digital – #observa2018 monitorou o debate público sobre as eleições presidenciais nas redes sociais mais utilizadas pelos brasileiros, com o objetivo de compreender as modulações do debate nestes espaços, bem como a interferência de práticas de desinformação durante a disputa. Foram analisados mais de 130 milhões de tuítes e de 163 milhões de interações nas páginas dos 13 candidatos, entre 25 de julho e 30 de outubro, além de dados públicos do Instagram e do YouTube.</p></p>
-<p><p>Apenas durante o período oficial da campanha eleitoral, de 16 de agosto a 28 de outubro, foram coletadas mais de 110 milhões de publicações no Twitter e de 140 milhões de interações no Facebook. Ao longo de todo o período, foi recorrente a presença de contas automatizadas, que contribuíram para a difusão rápida e massiva de notícias falsas. Inflamada pelo cenário de polarização política, a desinformação figurou nestas eleições como instrumento de campanha de todos os lados envolvidos na disputa.</p></p>
-<p><p><img class="alignleft size-full wp-image-205967" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2018/11/unnamed-1.jpg" alt="" width="724" height="559" /></p></p>
-<p><p>&nbsp;</p></p>
-<p><p>O monitoramento resultou em 123 análises, sendo 14 reports semanais, que contribuíram para a discussão do processo eleitoral na imprensa nacional e internacional. Entre os veículos de comunicação brasileiros, foram registradas 1.117 inserções desde o lançamento da Sala de Democracia Digital – #observa2018. Já entre as mídias estrangeiras, 75 veículos consultaram pesquisadores e/ou levantamentos da FGV DAPP, no mesmo período. O site observa2018.com.br, por sua vez, teve 113 mil visualizações de quase 60 mil usuários.</p></p>
-<p><p>No Twitter, a semana do primeiro turno concentrou o maior volume de publicações — apenas no dia da votação (07/10), foram mais de 5,8 milhões de tuítes. O volume é o maior já registrado pela FGV DAPP desde 2014 sobre um evento político com impacto nas redes, em um espaço de apenas 24 horas. A discussão se concentra, especialmente, em torno de Bolsonaro (72,4% das postagens, no dia da votação), que, durante toda a campanha, foi quem mobilizou maior repercussão na rede.</p></p>
-<p><p><img class="alignleft size-full wp-image-205968" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2018/11/unnamed1.jpg" alt="" width="673" height="670" /></p></p>
-<p><p>O presidente eleito, que nas primeiras semanas da disputa dividiu protagonismo com Lula no debate político, a partir do ataque a faca sofrido no começo de setembro, em Juiz de Fora, ascendeu a um patamar muito distante de participação no debate, em relação a seus adversários. Até então, Bolsonaro acumulava entre 200 mil e 400 mil menções diárias no Twitter — porém, após o incidente, passou a capitanear com maior destaque os fluxos de discussão sobre as eleições, duplicando de presença quantitativa na rede social. Quando Haddad assumiu em definitivo a candidatura petista, Bolsonaro já estava sedimentado como ator central, sem expressiva concorrência na web, afora datas e episódios pontuais. Em 06 e 07 de setembro, quando do ataque, Bolsonaro foi citado 4 milhões de vezes, e os volumes de menções sobre o então candidato do PSL não pararam de aumentar até o fim do segundo turno.</p></p>
-<p><p><img class="alignleft size-full wp-image-205969" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2018/11/tres-1.jpg" alt="" width="644" height="568" /></p></p>
-<p><p>O primeiro turno se destacou, ainda, na análise de engajamento nas páginas dos presidenciáveis no Facebook. Entre 04 e 10 de outubro, os 13 postulantes alcançaram, ao todo, 26,6 milhões de comentários, compartilhamentos e reações em suas páginas, considerando-se também interações de datas posteriores em postagens daquele período. No segundo turno (28/10), o volume de interações foi menor em valores absolutos (18,4 milhões, entre 25 e 30/10), mas é preciso considerar que, naquele momento, a análise passou a considerar apenas as páginas dos candidatos em disputa no segundo turno. Neste mesmo período, Bolsonaro alcançou 12,2 milhões de comentários, compartilhamentos e reações, enquanto Haddad teve 6,2 milhões.</p></p>
-<p><p>Temas associados</p></p>
-<p><p>A associação entre os macrotemas monitorados pela FGV DAPP e os candidatos à Presidência mostrou que a Corrupção foi o assunto que mais pautou o debate sobre o pleito no Twitter. Em seguida, outra grande preocupação dos usuários da rede foi Segurança Pública — em geral, associada a Jair Bolsonaro. Tais publicações trouxeram, frequentemente, tanto um debate sobre propostas do presidente eleito, como a flexibilização de regras para o porte de armas, quanto uma discussão sobre casos de agressão envolvendo, supostamente, seus eleitores. O terceiro tema mais relacionado aos candidatos, desde 25 de julho, foi Economia.</p></p>
-<p><p>Dentre os demais tópicos centrais de políticas públicas, foi bem mais baixo o impacto no debate sobre os candidatos à Presidência ao longo de todo o período da Sala de Democracia Digital. A agenda de habitação, por exemplo, só obteve destaques pontuais com a repercussão em falas de debates e em vínculo ao candidato Guilherme Boulos, e a pauta de cultura manteve-se em quase ausência, afora a semana posterior ao incêndio no Museu Nacional.</p></p>
-<p><p>Educação e saúde, que geralmente mobilizavam as preocupações dos eleitores nas redes e sempre estão entre os temas de maior importância para os cidadãos, foram mais abordados no segundo turno, com Bolsonaro e Haddad — e com o presidente eleito em muito maior proeminência que o petista. As discussões, porém, não abordaram de forma geral pautas específicas de cada tema, mas questionamentos diretamente ligados a ambas as campanhas e em vínculo com outras agendas, como as pautas de gênero. Educação foi muito mais citada, nas redes, que saúde — assunto com menor volume de menções, na campanha, que o debate sobre programas sociais e políticas de desenvolvimento social.</p></p>
-<p><p><img class="alignleft size-full wp-image-205964" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2018/11/quatrp.jpg" alt="" width="628" height="664" /></p></p>
-{% endraw %}

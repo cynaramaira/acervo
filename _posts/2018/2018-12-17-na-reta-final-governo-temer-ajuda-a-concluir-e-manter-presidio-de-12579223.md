@@ -1,37 +1,0 @@
----
-id: 12579223
-date: "2018-12-17T16:50:57Z"
-last_modified_at: null
-tags:
-  - "ajuda-humanitaria"
-  - "final"
-  - "governo"
-  - "itaquitinga"
-  - "michel-temer"
-  - "presidio"
-categories:
-  - "noticias"
-title: "Na reta final, Governo Temer ajuda a concluir e manter pres\u00eddio de Itaquitinga"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/12/Governador-Paulo-Camara-Itaquitinga-Compaz019.jpg"
----
-{% raw %}
-<p><p>Nada como um dia atrás do outro. Em passado recente, o suplente vereador do Recife era visto como problema para Geraldo Julio e chegava a bater boca com seguranças na porta do projeto imobiliário Novo Recife, como simpatizante do ocupe estelita.</p></p>
-<p><p>O governador Paulo Câmara passou o mandato quase todo e a campanha criticando o governo Temer, acusando-o de não repassar recursos e discriminar o Estado.</p></p>
-<p><p>Nesta segunda-feira, o governador Paulo Câmara e o ministro de Temer Raul Jungmann assinaram termo entre o Governo de Pernambuco e o Ministério da Segurança Pública para formalizar a federalização da III Unidade de Regime Fechado de Internação (URFI) do Centro de Integrado de Ressocialização (CIR) de Itaquitinga.</p></p>
-<p><p>De acordo com o pacto, a ajuda visa o fortalecimento do sistema de ressocialização do Estado.</p></p>
-<p><p>Com a jogada, Paulo Câmara vai poder economizar recursos que iriam para a manutenção da unidade III.</p></p>
-<p><p>O prefeito do PSB Geraldo Julio também será ajudado com a remessa de recursos federais.</p></p>
-<p><p>Leia mais abaixo</p></p>
-<p><p>O equipamento, que está em fase de obras e tem expectativa de conclusão para 2019, passa a contar com um aporte de R$ 47 milhões, podendo chegar a R$ 50 milhões. Com a assinatura do contrato de doação, o Governo Federal passa a ser responsável pela finalização das obras, além da administração e manutenção da unidade, que se torna a primeira instalação carcerária federal no Estado. Durante a solenidade, também foi autorizado o repasse de cerca de R$ 18 milhões pelo Governo Federal para construção de três novas unidades do Centro Comunitário da Paz (Compaz) no Recife.</p></p>
-<p><p>“A partir dessa parceria com o Ministério da Segurança Pública, nós temos a certeza da conclusão de mais uma etapa do Centro de Ressocialização de Itaquitinga. Nós já temos um bloco pronto, o segundo fica pronto em fevereiro. Esse terceiro, que está sendo federalizado, vai abrigar presos de alta periculosidade, que precisam de um lugar adequado de segurança máxima. Uma parceria com o Ministério e a ONU, que também vai tocar esse projeto. E isso é um passo importante dentro de uma estratégia essencial que é dar cada vez mais condições de ressocialização, diminuindo a superlotação existente nos demais presídios, através de Itaquitinga e Araçoiaba”, destacou o governador.</p></p>
-<p><p>Paulo lembrou ainda os avanços na área, nos últimos anos. “Estamos primeiro desafogando as lotações, construindo mais vagas. Pernambuco tinha 12 mil vagas quando nós assumimos, em 2015. Nos próximos meses devemos chegar a 15 mil, com a expectativa de aumentar para 18 mil vagas, até o final de 2019. Dessa forma, esperamos possibilitar os remanejamentos necessários e desafogar aqueles presídios que hoje têm superlotação, como o do Curado”, cravou.</p></p>
-<p><p>Quando concluída, a Unidade III terá capacidade para acolher 300 detentos do regime fechado. Já a Unidade I, entregue no último mês de janeiro, abrigará, gradativamente, um total de 1 mil detentos do regime fechado. A estrutura de 1 mil metros quadrados contou com um investimento de R$ 9.649.201,63 do Tesouro Estadual. Contempla celas de vários tamanhos, administração e recepção de visitantes, pavilhão destinado aos concessionados (presos que exercem atividades laborais), 12 salas de aula, áreas jurídica e de saúde, refeitório, 03 pavilhões de vivências coletivas, instalações para a Polícia Militar (vestiários, WCs), 08 guaritas e muros com alambrados. Seguindo um novo conceito de arquitetura prisional, as paredes internas da administração são de gesso e toda a área externa e demais áreas são de concreto.</p></p>
-<p><p>A Unidade II, que está em fase de finalização das obras, segue a mesma estrutura da Unidade I, inclusive com o mesmo número de vagas ofertadas (1 mil). Com um investimento total na ordem de R$ 10.627.243,84, a Unidade II será entregue no início de 2019.</p></p>
-<p><p>“Nós vamos concluir a terceira unidade e, para isso, serão investidos aproximadamente entre R$ 47 e R$ 50 milhões. Será a primeira penitenciária de segurança máxima de Pernambuco. Ela será construída nos moldes da chamada super max, que é um modelo americano de altíssima segurança. Assim teremos maiores garantias e condições de poder retirar os criminosos mais perigosos das ruas e colocá-los em um lugar adequado de segurança e ressocialização. Isso é uma conquista do nosso Estado que me deixa muito feliz”, frisou o ministro Raul Jungmann.</p></p>
-<p><p>Para o secretário estadual de Justiça e Direitos Humanos, Pedro Eurico, a ressocialização é o caminho mais efetivo para combater as chances de reincidência. “Esse ato é muito mais do que a doação de um patrimônio público. Muito mais do que isso, ele aponta no sentido de que nós temos que unir forças para buscar enfrentar a questão da criminalidade. Não vai ser só com a força da arma bruta que nós vamos enfrentar essa chaga nacional. Nós precisamos de equipamentos modernos que venham a melhorar as condições de ressocialização dos detentos, oferecendo a todos uma segunda chance e reintegração à sociedade, para que eles não voltem a cometer crimes”, salientou.</p></p>
-<p><p>COMPAZ – Ainda durante o evento, o ministro Raul Jungmann e o prefeito Geraldo Julio oficializaram o repasse do Governo Federal de cerca de R$ 18 milhões para construção de três novas unidades do Centro Comunitário da Paz (Compaz) no Recife. As novas estruturas serão construídas nos bairros do Pina e Ibura, na Zona Sul; e na Várzea, na Zona Oeste. Os espaços comunitários vão se somar aos dois já em funcionamento na cidade: o Compaz Eduardo Campos, no Alto Santa Terezinha, e o Compaz Ariano Suassuna, no Cordeiro, que, juntos, possuem cerca de 30 mil pessoas cadastradas e realizam aproximadamente 80 mil atendimentos por mês.</p></p>
-<p><p>“Compaz é um exemplo de tratar o enfrentamento à violência de uma forma diferente. O papel das prefeituras é cuidar dos seus equipamentos e patrimônios, mas, sobretudo, de fazer a prevenção social à violência. E todos os indicadores sociais melhoraram com o Compaz, como os índices de violência que já reduziram significativamente no entorno dessas áreas que já comportam o equipamento. Isso graças ao trabalho realizado que envolve a educação, o aprendizado de línguas, expressões culturais, o esporte e a disciplina. Ou seja, o Compaz promove a transformação social dessas comunidades mais vulneráveis”, frisou o prefeito do Recife, agradecendo a parceria com o Governo Federal na construção de mais três unidades. Geraldo também fez questão de enaltecer a parceria essencial do Governo do Estado na fundação das duas primeiras unidades do Compaz.</p></p>
-{% endraw %}

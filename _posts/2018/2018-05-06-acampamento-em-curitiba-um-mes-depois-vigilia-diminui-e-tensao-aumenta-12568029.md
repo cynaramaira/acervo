@@ -1,33 +1,0 @@
----
-id: 12568029
-date: "2018-05-06T21:18:40Z"
-last_modified_at: null
-tags:
-  - "acampamento"
-  - "curitiba"
-categories:
-  - "noticias"
-title: "Acampamento em Curitiba. Um m\u00eas depois, vig\u00edlia diminui e tens\u00e3o aumenta"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/05/ACAMPAMENTO-MST-PF-18JC.jpg"
----
-{% raw %}
-<p><p>Estadão Conteúdo - Um drone branco sobrevoa diariamente o prédio da Polícia Federal em Curitiba (PR), onde o ex-presidente Luiz Inácio Lula da Silva está preso há um mês, condenado pela Operação Lava Jato no caso tríplex do Guarujá. Pela câmera da miniaeronave não tripulada, policiais monitoram o movimento dos moradores locais e dos "acampados" na área sitiada do entorno da Superintendência da PF. O ambiente é cada vez mais tenso.</p></p>
-<p><p>Os episódios recorrentes de conflitos levaram na última semana o prefeito de Curitiba, o urbanista Rafael Greca (PMN), a fazer uma "súplica" à Justiça. Ele cobrou a saída de Lula - e dos manifestantes - do local e disse que e o zoneamento urbano do bairro onde está a sede da PF pode até comportar um prédio com o serviço de emissão de passaportes, mas não "alojar, em caráter de confinamento penitenciário, um preso com a expressiva trajetória política do líder sindical, mentor e líder de movimentos sociais, ex-presidente da República".</p></p>
-<p><p>O zumbido diário do drone da PF é mais um dos barulhos da nova rotina do antes sossegado bairro Jardim Santa Cândida, local arborizado num dos extremos de Curitiba. Desde a chegada de Lula e do grupo de apoiadores, a área virou palco de relações conflituosas.</p></p>
-<p><p>Do alto, as imagens do drone registram desde o dia 7 de abril o esvaziamento do acampamento - organizado pelo PT e pelo MST e batizado de "Lula Livre". Nas duas primeiras semanas, após a chegada do ex-presidente, cerca de 500 manifestantes formavam o acampamento, com barracas espalhadas nas ruas do bairro e sobre as calçadas. Com ele vieram o comércio clandestino, a cantorias, os gritos de ordem, o futebol nas ruas, a constante presença policial, os bloqueios de tráfego e a quebra da rotina.</p></p>
-<p><p>Desde o dia 17, são cerca de 70 pessoas, segundo a organização, que passaram a dormir em barracas em um terreno alugado a 800 metros do ponto principal dos protestos, a "esquina Olga Benário", como batizaram os acampados o encontro da rua Guilherme Matter com a Dr. Barreto Coutinho.</p></p>
-<p><p>O cruzamento é o marco zero do acampamento, que está bloqueado pelos manifestantes e pelo cordão da isolamento da Polícia Militar - que cumpre ordem da Justiça estadual de interdito da área do entorno da PF.</p></p>
-<p><p>Ali permanecem quatro barracas da estrutura operacional do movimento: a que recebe os donativos, a da comunicação, a da organização e a das caixas de som. É no local que todos os dias o grito em coro, amplificado, quebra o silêncio das manhãs do bairro: "Bom dia, presidente Lula! Bom dia, presidente Lula! Bom dia, presidente Lula". Uma saudação-protesto que se repete no "boa tarde" e no "boa noite", diariamente.</p></p>
-<p><p>Foi na "esquina Olga Benário" que na sexta-feira passada um delegado da PF, morador do bairro, quebrou o equipamento sonoro e discutiu com manifestantes. Dias antes, moradores entraram em confronto verbal e houve empurra-empurra, novamente por causa do som das "saudações a Lula".</p></p>
-<p><p>Os moradores se organizaram em grupos de WhatsApp para trocar informações e buscar a remoção dos "invasores". Eles também passaram a isolar os jardins de suas calçadas com fitas de segurança para tentar impedir montagem de barracas e a ocupação pelos apoiadores de Lula.</p></p>
-<p><p>"Essa baderna nos impede de ir e vir com tranquilidade e segurança, nos coloca medo em relação a nossas esposas e filhos, nos coloca à mercê de maus odores e ao risco de doenças em razão do lixo que por vezes se acumula", diz um abaixo-assinado enviado à governadora do Paraná, Cida Borghetti (PP), com cópia para a 12ª Vara Federal de Curitiba no dia 28. "Vivemos acuados e amedrontados. Não conseguimos dormir em paz em nossas casas e nossas próprias camas. Ressaltamos que não existe aqui qualquer manifestação de posicionamento ideológico."</p></p>
-<p><p>O documento foi enviado no dia anterior ao acampamento ser alvo de disparos de arma de fogo - ferindo de raspão no pescoço um dos manifestantes. Um ato em protesto contra os tiros, uma principais vias de ônibus do bairro foi bloqueada por pneus incendiados. Os organizadores do acampamento pró-Lula afirmam que as manifestações são pacíficas.</p></p>
-<p><p>A Justiça Federal recebeu até aqui pedidos de remoção de Lula da PF - e consequentemente dos manifestantes - de quatro frentes: dos moradores, da prefeitura de Curitiba, de um deputado estadual e da própria Polícia Federal. Nenhum deles ainda julgado.</p></p>
-<p><p>O pedido da Prefeitura, por meio da Procuradoria-Geral da Município, feito no dia 13 de abril, resultou na abertura de um processo, por ordem da juíza federal da 12ª Vara, Carolina Moura Lebbos.</p></p>
-<p><p>O Ministério Público Federal se posicionou contra a transferência de Lula da sede da PF e diz que no atual momento "a princípio, é difícil afirmar a existência de outro local no Estado do Paraná que possa garantir o controle das autoridades federais sobre as condições de segurança física e moral" Lula.</p></p>
-<p><p>No documento, o procurador regional da República Januário Paludo, da força-tarefa da Lava Jato, diz que há "um aparente conflito constitucional" na questão: o direito à livre manifestação; a liberdade de locomoção dos moradores do entorno da PF; o direito do Estado de aplicar a pena; e o do preso, que até o momento não pediu para ser removido da "cela" especial montada para ele no quarto andar do prédio da PF em Curitiba.</p></p>
-<p><p>Lula completa nesta segunda-feira seu primeiro mês de cárcere. A defesa quer esgotar todos os recursos no processo antes de pedir uma remoção da Superintendência da Polícia Federal. Na semana passada, o ex-presidente recebeu pela primeira vez as visitas de políticos: o amigo, ex-governador da Bahia e possível plano B do PT para a disputa presidencial Jaques Wagner, e a presidente do partido, Gleisi Hoffman. Sem o acesso esperado a aliados, dentro do cárcere, Lula manteve nesses primeiros 30 dias o contato com o partido via advogados.</p></p>
-{% endraw %}

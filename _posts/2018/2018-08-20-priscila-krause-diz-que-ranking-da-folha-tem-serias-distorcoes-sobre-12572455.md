@@ -1,27 +1,0 @@
----
-id: 12572455
-date: "2018-08-20T17:50:58Z"
-last_modified_at: null
-tags:
-  - "datafolha"
-  - "pernambuco"
-  - "priscila-cruz"
-  - "ranking"
-categories:
-  - "noticias"
-title: "Priscila Krause diz que ranking da Folha tem s\u00e9rias distor\u00e7\u00f5es sobre Pernambuco"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/11/priscila-krause.jpg"
----
-{% raw %}
-<p><p>Um dia depois de o governo Paulo Câmara comemorar o ranking da Folha de São Paulo, colocando o Estado como o primeiro do Nordeste eo o quarto no Brasil, como eficiente, a deputada estadual Priscila Krause (DEM) subiu à tribuna da Assembleia Legislativa de Pernambuco (Alepe) para jogar água no chopp.</p></p>
-<p><p>Ela repercutiuos dados apresentados na pesquisa de Eficiência dos Estados (REE-F), publicada em parceria com o instituto Datafolha, na edição de domingo(19). De acordo com a parlamentar, há divergências nas informações de pelo menos três parâmetros utilizados: a receita total de Pernambuco em 2017, as despesas de pessoal do Poder Executivo no mesmo exercício e, por fim, a métrica utilizada em relação à qualidade da malha viária pernambucana. “Chamou nossa atenção por estar descolado da vida dos pernambucanos e daí, com a nossa experiência no assunto, fomos checar os dados”, explicou.</p></p>
-<p><p>Segundo a parlamentar, que é componente da Comissão de Finanças, Orçamento e Tributação da Alepe, o dado utilizado para registrar a receita total no ano passado não se alinha com a realidade, visto que, em vez dos R$ 33,3 bilhões registrados, a receita total de Pernambuco foi de R$ 32,34 bilhões. Os R$ 33,3 bilhões registrados referem-se à despesa total, que se refletiu num déficit de R$ 972 milhões, amplamente divulgado pela imprensa, o maior do Nordeste em 2017. “É uma questão de justiça aos fatos e, principalmente, da importância de trazermos o debate real da situação fiscal de Pernambuco. Gastou-se mais do que se arrecadou e isso precisa ser colocado. Provavelmente trata-se de um lapso que deve ser corrigido, sobretudo pela credibilidade inquestionável do veículo, um dos mais importantes do País”, registrou.</p></p>
-<p><p>Em relação aos números da despesa com pessoal, que afetam diretamente o quesito de avaliação da situação fiscal do estado, Priscila apresentou os dados do Relatório de Gestão Fiscal do último quadrimestre de 2017 como fonte, também utilizando os exemplos dos estados da Bahia e do Ceará. Enquanto as despesas com pessoal ativo em Pernambuco registram R$ 6,9 bilhões nos dados utilizados pelo ranking, a Secretaria da Fazenda aponta que, na realidade, somam R$ 8,2 bilhões, uma diferença de R$ 1,3 bilhão. Sobre a despesa total do Poder Executivo, que inclui ativos e inativos, o ranking aponta R$ 12,2 bilhões enquanto o próprio governo coloca R$ 15,4 bilhões.</p></p>
-<p><p>“A reportagem especial inclusive traz um quadro que aponta a situação das despesas de pessoal de Pernambuco, no que concerne à Lei de Responsabilidade Fiscal (LRF), muito mais preocupantes que as do Ceará e da Bahia, mas quando vamos para os dados do ranking essas posições são trocadas e Pernambuco aparece confortavelmente, o que não é a realidade. Já encontramos divergências como, por exemplo, a exclusão de uma série de gastos com pessoal que não estão computados corretamente pela fonte utilizada, que também tem grande credibilidade, um estudo do IPEA”, explicou. Em relação ao parâmetro de gastos com pessoal do Executivo, conforme a LRF, Pernambuco alcançou comprometimento de 48,97% em 2017, enquanto Ceará e Bahia somaram menos: 42,45% e 43,06%, respectivamente.</p></p>
-<p><p>Enquanto em Pernambuco a diferença entre o número do Relatório de Gestão Fiscal oficializado pelo governo e os dados da Folha, para a despesa de pessoal, apontam diferença de mais de R$ 3,2 bilhões, no Ceará e na Bahia as informações são mais consonantes entre o que as administrações estaduais apontaram e a informação trabalhada para a confecção do ranking, havendo distorções de, no máximo, R$ 300 milhões. Na Bahia, a despesa total do Executivo, segundo o governo, foi de R$ 17,89 bilhões, enquanto o ranking registra R$ 17,8 bilhões e no Ceará o dado da Secretaria da Fazenda aponta R$ 8,82 bilhões enquanto o estudo aponta R$ 9,2 bilhões. “É preciso que o governo de Pernambuco escolha entre os dados oficiais, de sua própria autoria, ou aqueles que, no momento, são convenientes", acrescentou.</p></p>
-<p><p>Por fim, Priscila Krause questionou a metodologia do estudo no que concerne à infraestrutura, especificamente a qualidade das estradas. A fonte utilizada pelo ranking foi pesquisa da Confederação Nacional do Transporte (CNT), que avalia anualmente, por unidade federativa, a qualidade das rodovias. No ranking de eficiência dos governos estaduais, no entanto, foi utilizado o dado referente a todas as estradas do estado, enquanto a própria CNT disponibilizou os dados seccionados entre as estradas de responsabilidade do governo federal e as de responsabilidade do governo estadual.</p></p>
-<p><p>O número utilizado de ótimo e bom na pesquisa (44%) é muito superior à avaliação de ótimo e bom das estradas de jurisdição estadual, que alcança 5,9%. “A pesquisa traz com clareza que na manutenção e conservação das estradas o governo estadual é muito ineficiente, mas isso não foi levado em consideração. Ganharam uma nota por uma atuação que não é deles. É como se o aluno que não estudasse recebesse a nota daquele que fez o dever de casa”, apontou.</p></p>
-{% endraw %}

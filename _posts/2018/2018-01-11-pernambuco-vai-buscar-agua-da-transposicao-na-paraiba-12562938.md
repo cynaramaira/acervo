@@ -1,52 +1,0 @@
----
-id: 12562938
-date: "2018-01-11T19:06:55Z"
-last_modified_at: null
-tags:
-  - "agua"
-  - "paraiba"
-  - "pernambuco"
-  - "transposicao"
-categories:
-  - "noticias"
-title: "Pernambuco vai buscar \u00e1gua da transposi\u00e7\u00e3o na Para\u00edba"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/03/monteiro-transposicao.jpg"
----
-{% raw %}
-<p><p>O Rio São Francisco nasce em Minas Gerais e passa por Sergipe, Alagoas, Bahia até chegar a Pernambuco, estado onde a transposição é iniciada e que tem cerca de 200 quilômetros de canais só do eixo leste, inaugurado há quase um ano. <a href="https://blogs.ne10.uol.com.br/jamildo/2017/03/10/transposicao-chega-a-paraiba-mas-ainda-falta-muito-em-pernambuco/">Apesar de já abastecer municípios paraibanos, a água só chegou a uma cidade pernambucana até agora</a>. Sem obras complementares que garantiriam o atendimento, o governo estadual projetou uma alternativa para socorrer Toritama e Santa Cruz do Capibaribe, no polo têxtil, e mais seis municípios. O Estado vai fazer o caminho inverso e buscar água da transposição na Paraíba, através da Adutora do Alto Capibaribe, que terá licitação autorizada pelo governador Paulo Câmara (PSB) nesta sexta-feira (12).</p></p>
-<p><p>A previsão é de que o equipamento esteja funcionando em um ano e três meses. A adutora vai custar R$ 82 milhões, verba captada pela Companhia Pernambucana de Saneamento (Compesa) no fim do ano passado diretamente com a Caixa Econômica Federal, em recursos do Fundo de Garantia do Tempo de Serviço (FGTS). </p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/12/28/paulo-se-recusa-a-pagar-transposicao-se-nao-chegar-recurso-para-adutora/">Paulo se recusa a pagar transposição se não chegar recurso para adutora</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/12/14/no-agreste-diogo-moraes-manda-pessoas-cobrarem-agua-da-transposicao-temer-e-seus-ministros/">Deputado manda pessoas cobrarem água da transposição a Temer e seus ministros</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/11/20/no-recife-alckmin-usa-transposicao-para-colar-imagem-no-nordeste/">No Recife, Alckmin usa transposição para colar imagem no Nordeste</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/12/12/mpf-recomenda-ao-ibama-que-nao-conceda-licenca-transposicao/">MPF recomenda ao Ibama que não conceda licença à transposição</a></p></p>
-<p><p>&nbsp;</p></p>
-<p><p>Para o presidente da companhia, Roberto Tavares, essa foi uma "carta na manga muito grande" por não fazer o Estado depender da transferência de recursos federais.</p></p>
-<p><p>O governo cobrou, ao longo do ano passado, os repasses para concluir a Adutora do Agreste, outra obra complementar à transposição, alegando que as obras poderiam parar por falta de recursos. O <a href="https://blogs.ne10.uol.com.br/jamildo/2017/12/27/temer-manda-liberar-100-da-emenda-de-bancada-para-adutora-do-agreste-paulo-camara-comemora/">valor restante da emenda de bancada para a obra - R$ 58 milhões - foi liberado no fim de 2017</a>, totalizando R$ 126 milhões que serão usados até o fim da primeira etapa do serviço, que, segundo a companhia, deve ser entregue em março.</p></p>
-<p><h2>Adutora foi desacreditada</h2></p>
-<p><p>Mas por que construir as duas adutoras? A do Agreste foi planejada inicialmente para levar água do eixo leste da transposição - o que hoje atende à Paraíba - até Gravatá, a cerca de 85 quilômetros do Recife, e serviria aos municípios que ficam no sistema da obra que vai ser executada agora. A obra foi iniciada em 2010 e, desde 2013, os repasses foram reduzidos, fazendo com que o alcance fosse reduzido.</p></p>
-<p><p>Agora, o equipamento chega até São Caetano, a 160 quilômetros da capital, e antes do raio da Adutora do Alto Capibaribe.</p></p>
-<p><p>Na nova obra, a água será captada no Rio Paraíba e levada para Santa Cruz do Capibaribe, de onde será distribuída para Toritama, Jataúba, Taquaritinga do Norte, Vertentes, Frei Miguelinho, Santa Maria do Cambucá e Vertente do Lério. Com a adutora, Pernambuco ainda vai vender água à Companhia de Água e Esgotos da Paraíba (Cagepa), para abastecer Barra de São Miguel, no estado vizinho. Ao todo, a estimativa da Compesa é de atender 230 mil pessoas.</p></p>
-<p><p><img class="size-full wp-image-191882 alignnone" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2018/01/adutora.jpg" alt="" width="748" height="410" /><em>Fonte: Compesa</em></p></p>
-<p><p>Segundo a Compesa, o sistema vai servir também para que municípios como Caruaru sejam melhor abastecidos. Nesse caso, por exemplo, quando a adutora estiver pronta Caruaru terá maior volume porque não terá que dividir a água da Barragem do Prata, em Bonito, na mesma região, que hoje socorre também Toritama.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/10/09/bomba-da-transposicao-e-roubada-e-ministerio-suspeita-de-comerciantes/">Bomba da transposição é roubada e ministério suspeita de comerciantes em depredação</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/09/10/ministro-religa-bombas-da-transposicao-inauguradas-por-dilma-em-pernambuco/">Ministro religa bombas da transposição inauguradas por Dilma em Pernambuco</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/08/30/governo-estuda-privatizar-transposicao/">Governo estuda privatizar transposição do São Francisco</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/07/23/populacao-espera-transposicao-mas-cobranca-por-consumo-aflige/">População espera transposição, mas cobrança por consumo aflige</a></p></p>
-<p><p>Por fazer o caminho inverso ao que era previsto desde o início da transposição, a adutora causa surpresa. Hoje apontada pelo governo como solução, segundo Tavares, surgiu de uma conversa com o governador Paulo Câmara em busca de alternativas para receber a água da transposição. Os engenheiros da Compesa foram acionados há um ano e, de acordo com o presidente da companhia, inicialmente chegaram a achar a ideia absurda, mas depois conseguiram elaborar o projeto.</p></p>
-<p><p>Por causa da adutora, quatro anos após ocupar espaço divergente do governador da Paraíba, Ricardo Coutinho - também do PSB, mas da ala que apoiou Dilma Rousseff e se manteve do lado do PT quando os socialistas se aliaram ao tucano Aécio Neves -, o pernambucano deve fazer coro às críticas dele a Michel Temer. A assinatura da autorização para a licitação pode se tornar um palanque contra o emedebista.</p></p>
-<p><h2>Fica faltando o ramal</h2></p>
-<p><p>Paulo Câmara tem cobrado ao presidente soluções para Pernambuco e afirmou recentemente que só vai aceitar dividir os custos de operação da transposição quando os recursos para as obras complementares forem assegurados. No caso da Adutora do Agreste, há verba para concluir a primeira etapa, mas faltam R$ 500 milhões para a segunda.</p></p>
-<p><p>Além disso, a previsão é de que ela opere inicialmente com apenas 20% do volume. Isso porque o que vai captar a água da transposição para levar até ela é uma alternativa encontrada pelo governo estadual, a Adutora do Moxotó, que também deve ficar pronta em março, mas não tem a mesma capacidade do Ramal do Agreste, uma obra que está sob responsabilidade do governo federal e que sequer tem previsão para ser iniciada.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/07/07/um-ano-depois-obras-sao-retomadas-no-eixo-norte-da-transposicao/">Um ano depois, obras são retomadas no eixo norte da transposição</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/25/paulo-camara-aceita-divisao-de-custos-da-transposicao-e-promete-isentar-mais-pobres/">Paulo Câmara aceita divisão de custos da transposição e promete isentar mais pobres</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/06/20/maia-assina-ordem-de-servico-de-trecho-da-transposicao-parado-ha-um-ano/">Maia assina ordem de serviço de trecho da transposição parado há um ano</a><br /></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2017/05/31/mpf-pede-ao-tse-para-multar-lula-por-ato-politico-na-transposicao/">MPF pede ao TSE para multar Lula por ato político na transposição</a></p></p>
-<p><p>Há quase um ano, em evento em Floresta, no Sertão pernambucano, <a href="https://blogs.ne10.uol.com.br/jamildo/2017/01/30/atrasado-ramal-do-agreste-fica-para-2020/">Temer assinou a ordem de serviço para a elaboração do projeto</a>. As obras, até então, tinham previsão de começar no segundo semestre do ano passado, com duração de três anos, mas nada foi feito até agora. O projeto tem tem características semelhantes à da transposição em si, captando a água do eixo leste no reservatório Barro Branco, em Sertânia e, de lá, levando para o açude de Ipojuca, em Arcoverde, também no Sertão, de onde seguirá para a Adutora do Agreste. A Adutora do Moxotó foi a alternativa para fazer esse trajeto, captando água no reservatório homônimo, que fica no município de Custódia, vizinho a Sertânia.</p></p>
-<p><img class="size-full wp-image-174125" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2017/01/temer-transposicao8.jpg" alt="" width="750" height="410" /> Helder Barbalho ao lado de Temer e Paulo Câmara, na assinatura da ordem de serviço para a elaboração do projeto do Ramal do Agreste (Foto: Beto Barata/Presidência da República)</p>
-<p><p>O Ramal do Agreste já foi de responsabilidade do ministério, passou para o Governo de Pernambuco quando Fernando Bezerra Coelho (hoje no PMDB, mas à época no PSB) era ministro da Integração Nacional e Eduardo Campos (PSB) governador e depois voltou para as mãos da União, sem nunca sair do papel.</p></p>
-<p><p>O edital de licitação saiu finalmente em abril de 2014, em passagem de Dilma Rousseff por Serra Talhada, no Sertão. Porém, foi suspensa pelo próprio Ministério da Integração Nacional, após apontamentos feitos pelo Tribunal de Contas da União (TCU). Em 2015, o processo licitatório foi iniciado novamente, mas voltou a ser suspenso. Um novo foi iniciado no segundo semestre de 2016.</p></p>
-{% endraw %}

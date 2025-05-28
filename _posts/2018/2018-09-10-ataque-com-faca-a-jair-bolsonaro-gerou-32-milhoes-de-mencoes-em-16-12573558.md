@@ -1,38 +1,0 @@
----
-id: 12573558
-date: "2018-09-10T10:50:01Z"
-last_modified_at: null
-tags:
-  - "ataque"
-  - "facada"
-  - "jair-bolsonaro"
-categories:
-  - "noticias"
-title: "Ataque com faca a Jair Bolsonaro gerou 3,2 milh\u00f5es de men\u00e7\u00f5es em 16 horas"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/09/FACADA.jpg"
----
-{% raw %}
-<p><p>No evento brasileiro de maior repercussão imediata no Twitter desde as eleições de 2014, o ataque a Jair Bolsonaro em Juiz de Fora (MG) adotou múltiplos contornos de discussão temática e concentrou quase por inteiro o debate político na rede.</p></p>
-<p><p>Das 16h de quinta-feira (06) às 10h desta sexta (07), a FGV DAPP identificou 3,2 milhões de referências sobre o ataque, recobrindo os procedimentos médicos por que Bolsonaro passou, as manifestações de pesar, as referências ao discurso de ódio e à violência no processo democrático e o forte engajamento sobre a veracidade do evento, que até a noite de quinta respondia pela maior parte das interações.</p></p>
-<p><p>O pico de menções da discussão, que já acumulava mais de 1,4 milhão de referências no Twitter até as 20h desta quinta, foi por volta das 16h40, logo após a divulgação do ataque, com média de 11,8 mil postagens por minuto no Twitter.</p></p>
-<p><p>Fora do Brasil, já são 48,4 mil tuítes em inglês sobre o ataque a Bolsonaro, provenientes principalmente dos Estados Unidos (14 mil). Em espanhol, somam-se 91,9 mil tuítes, originados sobretudo da Argentina (21,1 mil) e da Venezuela (16,5 mil).</p></p>
-<p><p><img class="alignleft size-full wp-image-202496" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2018/09/unnamed2.jpg" alt="" width="623" height="523" /></p></p>
-<p><p>Ao longo de toda a noite, houve mais de 300 mil publicações sobre o tema a cada hora, em média. Na manhã desta sexta, a média de novas postagens se mantém alta, com mais de 150 mil menções novas por hora, sob o acompanhamento da transferência de Bolsonaro a São Paulo, do impacto na campanha presidencial, da propagação de notícias e informações (muitas sem lastro de verificação jornalística) e das discussões sobre responsáveis e culpados. A hashtag de maior mobilização é #forçabolsonaro, com 197,3 mil recorrências, seguida de #bolsonaropresidente17 (21,4 mil), #direitaunida (11,3 mil), #bolsonaro (10,1 mil) e #somostodosbolsonaro (6,2 mil).</p></p>
-<p><p>Entre os tuítes de maior compartilhamento, permanecem em evidência publicações que abordam se, de fato, houve um ataque a Bolsonaro ou se o dano provocado pela facada foi grave como parece.</p></p>
-<p><p>São postagens que satirizam o candidato do PSL e atingiram mais de 20 mil retuítes desde quinta, mas não continuam com a mesma velocidade de repercussão.Também há publicações de filhos de Bolsonaro, com informações sobre os desdobramentos do atendimento ao pai, e postagens de atores de diferentes espectros políticos destacando que, apesar das divergências em relação a Bolsonaro, repudiam o ataque e desejam pronta melhora.</p></p>
-<p><p>Os dois presidenciáveis cujas declarações de repúdio mais obtiveram retuítes e expressivo número de curtidas a cada uma das publicações na rede foram Ciro Gomes e João Amoêdo, — Ciro, 12,1 mil retuítes e 67,2 mil curtidas; Amoêdo, 9,9 mil retuítes e 50,7 mil curtidas. O candidato do PDT foi o segundo presidenciável de maior associação ao incidente com Bolsonaro, destacado em 33,4 mil postagens. Ficou atrás de Guilherme Boulos e do PSOL, associados ao debate em 44,6 mil publicações, por conta do histórico de filiação partidária do suspeito de esfaquear o deputado federal, Adélio Bispo de Oliveira.</p></p>
-<p><p><img class="alignleft size-full wp-image-202498" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2018/09/unnamed1.jpg" alt="" width="626" height="507" /></p></p>
-<p><p>O ex-presidente Lula permanece desde ontem como o ator político de maior associação ao ataque a Bolsonaro, com 185,9 mil menções, citado por conta dos tiros à caravana pelo Sul do Brasil, em março, e também como figura central do espectro político do país, ao lado de Bolsonaro. Perfis falam dos ataques a ambos como exemplos da agressividade que marca os debates políticos na atualidade e do colapso da manutenção institucional na condução do processo eleitoral. Atores contrários a Lula enfatizam seu papel como principal figura de rejeição a Bolsonaro e afirmam que o PT detém responsabilidade pelo ocorrido, citando a declaração do candidato a vice-presidente do deputado na chapa eleitoral, o general Hamilton Mourão. À esquerda, relaciona-se fala recente de Bolsonaro, sobre "metralhar a petralhada", com o esfaqueamento que o mesmo sofreu.</p></p>
-<p><p>Marielle Franco é intensamente citada no debate do Twitter (106,1 mil) por conta de correlações entre o esfaqueamento e o assassinato da vereadora, em março, e o posicionamento de Bolsonaro a respeito da morte de Marielle. Essas publicações vêm, majoritariamente, de grupos contrários ao deputado federal e que manifestam rejeição ao discurso de ódio, ressaltando a escalada de violência no país, de forma geral, contra personagens públicos. Destacam ainda a diferença de opiniões, por perfis defensores de Bolsonaro, quando Marielle foi a vítima: na época, houve forte ênfase comparativa entre as cotidianas mortes de policiais e cidadãos comuns no Brasil para debater a repercussão do assassinato da vereadora. Agora, situação parecida ocorre com o presidenciável.</p></p>
-<p><p>A ex-presidente Dilma Rousseff também recebeu volume expressivo de referências no debate sobre o ataque a Bolsonaro, mobilizadas a partir de publicação do pastor Silas Malafaia (afirma que o suspeito de esfaquear o candidato atua na campanha de Dilma ao Senado em Minas Gerais) e da repercussão do comentário que fez sobre o ocorrido. Foi bastante criticada por perfis, não apenas à direita, por relativizar o incidente e "culpar a vítima", sob o argumento da propagação do discurso de ódio.</p></p>
-<p><p><img class="alignleft size-full wp-image-202497" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2018/09/unnamed-4.jpg" alt="" width="675" height="397" /></p></p>
-<p><p>Mapa de Interações</p></p>
-<p><p>A análise de 1.702.949 retuítes feitos entre as 18h30 de quinta (06) e as 9h de sexta (07) sobre o ataque sofrido por Bolsonaro mostra que cinco principais grupos se engajaram no debate. O maior deles é o grupo laranja, que agregou 40,5% dos perfis, e aborda o ataque como uma "fake facada", questionando a veracidade do ocorrido. O grupo também ironiza as críticas da direita à falta de empatia da esquerda.</p></p>
-<p><p>O grupo azul uniu 12,7% dos perfis e demonstra apoio a Bolsonaro, desejando sua recuperação e vitória nas eleições. O grupo também dialoga com a esquerda, criticando seus posicionamentos.</p></p>
-<p><p>O grupo rosa representa 9,8% dos perfis, que compartilham mensagens de solidariedade a Bolsonaro de candidatos à esquerda no espectro político, como Ciro Gomes e Haddad, e citam a suposta falta de empatia de Bolsonaro em situações similares.</p></p>
-<p><p>O grupo verde agregou 8,7% dos perfis e critica quem comemora o ataque a Bolsonaro, uma vez que esta atitude mostra que não seriam diferentes em nada do candidato à Presidência.</p></p>
-<p><p>Por fim, o grupo roxo uniu 7% dos perfis em debate e, em geral, são perfis de direita e que criticam as suspeitas da esquerda quanto à veracidade do ataque e também a felicidade de alguns com a situação. O grupo demonstra solidariedade a Bolsonaro, mas não apoio necessariamente a sua vitória.</p></p>
-{% endraw %}

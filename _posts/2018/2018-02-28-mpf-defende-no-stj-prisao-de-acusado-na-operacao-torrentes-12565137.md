@@ -1,40 +1,0 @@
----
-id: 12565137
-date: "2018-02-28T20:01:02Z"
-last_modified_at: null
-tags:
-  - "operacao"
-  - "prisao"
-categories:
-  - "noticias"
-title: "MPF defende no STJ pris\u00e3o de acusado na Opera\u00e7\u00e3o Torrentes"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/11/torrentesok.jpg"
----
-{% raw %}
-<p><p>Após três habeas corpus autorizarem a liberação do empresário Ítalo Henrique Silva Jaques, denunciado na Operação Torrentes, o Ministério Público Federal (MPF) defendeu em parecer ao Superior Tribunal de Justiça (STJ) a manutenção da prisão dele. O documento assinado pelo subprocurador-geral da República Rogério Paiva Navarro foi apresentado à Corte na semana passada e divulgado nesta quarta-feira (28).</p></p>
-<p><p>O relatório foi em habeas corpus apresentado pela defesa do empresário no fim do ano passado, quando o primeiro pedido de liberdade foi negado pelo Tribunal Regional Federal da 5ª Região (TRF-5). Jaques foi preso preventivamente em novembro do ano passado, acusado de integrar um suposto esquema de desvio de recursos federais na Casa Militar de Pernambuco para ajuda às vítimas das enchentes na Mata Sul do Estado em 2010 e 2017.</p></p>
-<p><p><strong>LEIA TAMBÉM</strong><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2018/02/22/trf5-manda-soltar-italo-jaques-socio-de-ricardo-padilha-defesa-reclama-do-trabalho-da-pf-e-mpf-na-operacao-torrentes/">TRF5 manda soltar Italo Jaques, sócio de Ricardo Padilha. Defesa reclama do trabalho da PF e MPF na Operação Torrentes</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2018/02/08/torrentes-acusado-tem-habeas-corpus-mas-fica-preso-por-nova-operacao/">Torrentes: acusado tem habeas corpus, mas fica preso por nova operação</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2018/02/08/segunda-fase-da-torrentes-aponta-desvio-de-recursos-do-combate-a-seca/">Segunda fase da Torrentes aponta desvio de recursos do combate à seca</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2018/02/08/pf-inicia-segunda-fase-da-operacao-torrentes-em-pernambuco-e-no-maranhao/">PF deflagra segunda fase da Operação Torrentes em Pernambuco e no Maranhão</a></p></p>
-<p><p>Depois disso, Ítalo Jaques obteve uma liminar do STJ e uma decisão favorável do TRF-5 para deixar o Centro de Observação e Triagem Professor Everardo Luna (Cotel), na Região Metropolitana do Recife. Alvo também da Operação Círculo de Fogo, que apura se a organização atuou também no Maranhão, o empresário conseguiu ainda outro habeas corpus na semana passada no TRF-5, <a href="https://blogs.ne10.uol.com.br/jamildo/2018/02/08/torrentes-acusado-tem-habeas-corpus-mas-fica-preso-por-nova-operacao/">sobre o último mandado de prisão preventiva</a>. Apesar disso, não foi solto por causa da fiança, que alega não pagar por estar com os bens bloqueados devido às investigações.</p></p>
-<p><p>Em seu parecer, Navarro afirma que há prova robusta e fortes indícios da participação de Ítalo Jaques no esquema investigado na Torrentes. "Afigura-se manifesto ante os fortes indícios relativos ao envolvimento do paciente nas mencionadas fraudes a licitações, pagamento e recebimento de vantagens indevidas, constituindo, assim base empírica idônea para a decretação da prisão, segundo a reiterada jurisprudência do Superior Tribunal de Justiça", diz o subprocurador-geral.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/02/07/operacao-torrentes-policia-federal-ainda-nao-localizou-dinheiro-supostamente-desviado/">Operação Torrentes: PF ainda não localizou dinheiro supostamente desviado</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2018/02/07/operacao-torrentes-justica-federal-diz-que-investigados-tem-influencia-politica-inconteste/">Justiça Federal diz que investigados na Operação Torrentes têm ‘influência política inconteste’</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2018/02/07/operacao-torrentes-interceptacao-telefonica-sugere-pagamento-de-25-mil-reais-para-cotel-dar-privilegios-presos/">Torrentes: interceptação telefônica sugere pagamento para Cotel dar ‘privilégios’ a presos</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2018/02/07/operacao-torrentes-ministra-do-stj-diz-que-ricardo-padilha-e-lider-de-esquema-de-corrupcao/">Ministra do STJ diz que Ricardo Padilha é ‘líder’ de ‘esquema de corrupção’</a></p></p>
-<p><p>Nas duas primeiras denúncias da operação, ambas aceitas pela Justiça, Ítalo Jaques é apontado como verdadeiro dono, junto a Ricardo Padilha e Rafaela Carrazone, de empresas supostamente favorecidas pela comissão de licitação da Casa Militar. Os empresários foram citados ainda na Operação Mata Norte, deflagrada antes da Torrentes.</p></p>
-<p><p>Navarro ainda rebateu a defesa, que questionou a atribuição pelos investigadores de um diálogo de Padilha e a Jaques. Os advogados apontaram o erro e indagaram sobre a validade das provas apresentadas. "Não figurou como único e tampouco como principal fundamento esposado pelas instâncias ordinárias para supedanear a prisão preventiva imposta do paciente", argumentou o subprocurador-geral.</p></p>
-<p><p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2018/01/31/2a-denuncia-na-torrentes-mira-suposto-sobrepreco-em-contratos-de-2011/">2ª denúncia na Torrentes mira suposto sobrepreço em contratos para cheias de 2011</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2018/01/31/oficiais-da-pm-sao-denunciados-mais-uma-vez-na-operacao-torrentes/">Oficiais da PM são denunciados mais uma vez na Operação Torrentes</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/12/26/casa-militar-turbinou-contrato-com-irregularidades-diz-mpf-na-torrentes/">Casa Militar ‘turbinou’ contrato com irregularidades, diz MPF na Torrentes</a><br /></p>
-<p> » <a href="https://blogs.ne10.uol.com.br/jamildo/2017/12/22/paulo-camara-exonera-coronel-denunciado-na-torrentes-pp-assume/">Paulo Câmara exonera coronel denunciado na Torrentes; PP assume</a></p></p>
-<p><p>"Vale dizer, a prisão preventiva do paciente Ítalo Jaques não se lastreou exclusivamente no aludido diálogo, mas sim em diversas outras provas", afirmou. "Indicativas da ocorrência de fraude ao caráter competitivo e de dispensa indevida de licitação; de inexecução do contrato; de desvio de recursos públicos em proveito de um determinado grupo criminoso; de sonegação de documento público e de falsidade ideológica; de recebimento de vantagem indevida por parte de funcionários públicos, especialmente aqueles vinculados à Casa Militar e que detinham efetivo poder de decisão acerca da aplicação dos recursos públicos recebidos da União", enumerou. </p></p>
-<p><p>Navarro também acusou o empresário de ocultar bens. Segundo ele, apesar de apenas quatro das suas empresas terem faturado R$ 167 milhões, foram declarados ao Fisco R$ 4,2 milhões em receita bruta. Para o subprocurador-geral, não haveria como optar por uma medida cautelar menos grave que a prisão preventiva no caso do empresário.</p></p>
-<p><p><iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/rZ3kfB1XHvG7C8" width="100%" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p></p>
-<p><div style="margin-bottom: 5px;"><strong> <a title="MPF defende no STJ prisão de acusado na Operação Torrentes" href="//www.slideshare.net/JCOnLine/mpf-defende-no-stj-priso-de-acusado-na-operao-torrentes" target="_blank" rel="noopener">MPF defende no STJ prisão de acusado na Operação Torrentes</a> </strong> from <strong><a href="https://www.slideshare.net/JCOnLine" target="_blank" rel="noopener">Portal NE10</a></strong></div></p>
-{% endraw %}
