@@ -1,28 +1,0 @@
----
-id: 12602110
-date: "2020-08-03T17:00:25Z"
-last_modified_at: null
-tags:
-  - "reforma-tributaria"
-categories:
-  - "noticias"
-title: "Liberalismo e reforma tribut\u00e1ria"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/04/paulo-guedes-ministro-economia.jpg"
----
-{% raw %}
-<p><p>Por Vladimir Fernandes Maciel, em artigo enviado ao blog</p></p>
-<p><p>Nos tempos de hoje, em função dos extremismos do debate, pouco podemos refletir sobre as reformas necessárias, o que é possível do ponto de vista do consenso democrático e as atuais propostas em curso. No que se refere à reforma tributária não é diferente.</p></p>
-<p><p>Não se pode cair em nenhuma das pontas das ideologias que perpassam a opinião pública, sob o risco de se jogar o "bebê junto à água da bacia". A reforma não se reduz a aumentar a carga tributária sobre os mais ricos e a taxar grandes fortunas - como a panaceia das questões fiscais - nem ao mote "imposto é roubo" - onde quaisquer discussões reais acerca de impostos e das necessidades de financiamento do setor público são desconsideradas.</p></p>
-<p><p>Quatro são os pilares do diagnóstico de bom-senso: (1) a carga tributária é elevada para o nível de renda per capita e qualidade do gasto e dos serviços públicos no Brasil; (2) União, Estados e Municípios estão "quebrados" (problema estrutural agravado pelo ciclo populista dos gastos públicos pós-crise de 2008 e pela pandemia de 2020), ou seja, não é possível reduzir a carga tributária total no curto prazo; (3) a distribuição do ônus tributário é considerada injusta (penaliza de forma regressiva os mais pobres - por conta da elevada participação dos impostos sobre o consumo - e alguns segmentos da cadeia produtiva); (4) a forma e a estrutura de incidência e de arrecadação geram ineficiências e criam incentivos para informalidade e decisões empresariais de baixa produtividade). Qualquer proposta crível de Reforma Tributária deveria tratar, de alguma forma, desses quatro elementos.</p></p>
-<p><p>Na perspectiva do liberalismo clássico, um sistema tributário deve ser o mais neutro possível sobre a atividade econômica e deve onerar ao mínimo possível os cidadãos. Deve evitar uma profusão de tributos e de alíquotas. Ademais, não pode ser complexo, deve ser simples, claro e objetivo - não deve tomar muito tempo de indivíduos e empresas no ato do recolhimento/pagamento. Adicionalmente, o sistema tem que permitir a descentralização e o federalismo fiscal.</p></p>
-<p><p>Na prática isso significa que uma proposta de Reforma Tributária deve buscar simplificar e racionalizar a estrutura de tributos (evitando a "tributação em cascata"), revogar portarias e procedimentos administrativos que tornam complexo o pagamento de impostos e contribuições (como as chamadas "obrigações acessórias"), desonerar ao máximo a produção de bens e serviços e distribuir o ônus tributário sem privilegiar qualquer setor ou segmento em específico.</p></p>
-<p><p>Já a questão da carga tributária não depende apenas das propostas relacionadas ao tributos, pois é apenas um lado da equação. O outro é o lado da despesa pública - que necessita de uma profunda reforma administrativa (que vai além das questões de carreiras públicas e recursos humanos) e que deveria abarcar questões do processo orçamentário, avaliação de eficiência do gasto público etc. Se não houver contenção e redução do gasto público, nem redução do endividamento público (composto por um amplo e ousado programa de privatizações), não haverá como ser reduzida a carga tributária.</p></p>
-<p><p>Infelizmente, até o momento, o Governo Federal não deu sinais de que abraçou a causa de fato. Muito foi falado pelo Ministro Paulo Guedes às vésperas de assumir seu posto no Ministério da Economia. Alíquotas uniformes de 15% de impostos de renda, privatizações, choque de gestão etc. Todavia, uma vez empossado, apenas a reforma previdenciária - recheada ainda de privilégios - foi entregue. A proposta de reforma tributária foi "fatiada" e está sendo entregue a conta gotas.</p></p>
-<p><p>O que está colocado agora pelo Executivo é a unificação do PIS/COFINS sob a forma de um tributo sobre valor adicionado que, na prática, aumenta a carga sobre os serviços. Além disso, recorrentemente, volta à baila a ideia de tributo sobre as transações, tal qual a velha CPMF. A necessidade de preservar ou de aumentar a arrecadação parece dominar o Ministério da Economia e os princípios liberais parecem ter sido deixados de lado. Não é só uma questão da "montanha que pariu um rato", mas da inversão das hierarquias - como se o Ministério da Economia tivesse se tornado uma sucursal da Receita Federal.</p></p>
-<p><p>As propostas em trâmite no Senado e na Câmara também deixam muito a desejar do ponto de vista da liberdade econômica. São complexas em demasia (especialmente a proposta da Câmara), não sinalizam para racionalização e simplificação dos procedimentos e parecem resultar em aumento da carga tributária.</p></p>
-<p><p>Não há sistema tributário perfeito. Os conflitos de interesses e a capacidade real de formar consensos impedem disso ocorrer. Teríamos que "começar do zero", desenhando um sistema tributário antes de se constituir a sociedade - ou seja, impossível - como ironiza o Nobel de Economia, Paul Samuelson. Porém, ao menos gostaríamos de ter um sistema simples e que não desestimulasse a produção de bens e serviços nem que pesasse sobremaneira sobre os mais pobres.</p></p>
-<p><p>Vladimir Fernandes Maciel é Coordenador do Centro Mackenzie de Liberdade Econômica e professor do Mestrado Profissional em Economia e Mercados da Universidade Presbiteriana Mackenzie.</p></p>
-{% endraw %}

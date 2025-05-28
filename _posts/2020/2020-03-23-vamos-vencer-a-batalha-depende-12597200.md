@@ -1,26 +1,0 @@
----
-id: 12597200
-date: "2020-03-23T13:45:46Z"
-last_modified_at: null
-tags:
-  - "dependencia"
-categories:
-  - "noticias"
-title: "Vamos vencer a batalha? Depende..."
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/03/bolsonaro-coletiva-coronavirus-4.jpg"
----
-{% raw %}
-<p><p>Por Gaudêncio Torquato, em artigo enviado ao blog</p></p>
-<p><p>Deu a louca no presidente Jair Bolsonaro. A entrevista coletiva para a qual convocou 9 ministros nada mais foi do que uma de suas tentativas para transmitir a ideia de que o país tem piloto, que não está a deriva, e é ele quem manda em matéria de ataque ao Covid-19, e não o ministro da Saúde, Luiz Mandetta. Foram hilariantes as cenas da máscara, que sempre escapulia das orelhas quando Sua Excelência tentava recolocá-las depois de tirá-las para falar. Contrariou as indicações médicas para sua manipulação. O que revela apenas a intenção de convencer plateias de que é uma pessoa prevenida.</p></p>
-<p><p>As revelações dos ministros, fora uma ou outra informação do ministro Paulo Guedes, planaram sobre as nuvens das generalidades. O evento, enfim, foi uma peça circense mal ensaiada. Uma pantomima. E não contribuiu para a maré de improvisação que assola pedaços do território, às voltas com carência de equipamentos essenciais para enfrentamento do coronavírus. Merece consideração o esforço do ministro Mandetta para pôr em ordem a estrutura da saúde, mas o porte do país e a agilidade como o vírus se propaga atrapalham a eficácia das ações.</p></p>
-<p><p>A mensagem desesperadora de uma brasileira chegando no aeroporto de Guarulhos, vinda de Verona, resume a situação: “guarda, acabo de chegar da Itália, país que é o centro da epidemia na Europa e vocês nem medem nossa temperatura”? “Não, senhora, não temos equipamento para fazer isso”. Projeções de consultorias apontam que o Brasil, logo, logo, chegará aos 20 mil contaminados. Meados de abril.</p></p>
-<p><p>Temos de considerar, para efeito de combate à pandemia, a precária situação das margens sociais, cercadas de carências: saneamento básico, proximidade de barracos e favelas, transportes abarrotados, estabelecimentos hospitalares sem equipamentos e condições de atendimento às demandas, entre outros fatores. Mas a questão de fundo, a permear a boa ou a má aplicação das orientações, é o ethos nacional, a maneira de ser, pensar e agir do brasileiro.</p></p>
-<p><p>Por nossas plagas grassa a desconfiança, estiola-se a crença nas autoridades, quebram-se a todo o momento os elos da cadeia normativa. “É para fazer isso conforme prescreve a lei?” Mesmo tendo um olho no malfeito, o transgressor não quer saber. Pratica o que acha mais conveniente. E o bom senso não é respeitado? Apenas quando não fere o que a pessoa acha seu direito. Por isso mesmo, o advérbio talvez é mais apreciado do que a certeza impressa na cultura anglo saxã: sim, sim ou não, não. (Experimente perguntar a um brasileiro quantas horas trabalha por semana. Resposta tende a ser: “trabalho mais ou menos 40 horas”).</p></p>
-<p><p>Em suma, há um mais ou menos induzindo a execução das orientações dadas para combate ao coronavírus. A margem de manobra exibe uma curva entre 30% a 50% ao que deve ser feito de acordo com as recomendações. Ora, se o presidente da República, no mais alto pedestal das autoridades do país, é o primeiro a descumprir regras, por que eu, simples cidadão, devo ser reto como uma régua? Esse argumento circula no sistema cognitivo nacional. (Lembrando: Bolsonaro se referiu ao coronavírus como “histeria”, “exagero da mídia”, “fantasia” e enxergou até uma luta clandestina de grupos que querem desestabilizar seu governo).</p></p>
-<p><p>Dessa forma, a flexibilidade, nata no ethos nacional, como podemos ler em grandes autores, como Sérgio Buarque de Holanda, Gilberto Freyre, Darcy Ribeiro, poderá ser um empecilho para o governo Jair Bolsonaro chegar a bom termo. As relações com o Congresso continuam tensas e não há no horizonte sinais de melhora. O entorno presidencial foi acometido da doença da onisciência que baixa nas cortes. Tudo que emana do pensamento do soberano vem adornado com o véu divino. Não pode ser contestado.</p></p>
-<p><p>Pergunta de pé de página: “mas o Brasil poderá ser eficaz no combate ao coronavírus, mesmo sob o estardalhaço da linguagem bolsonariana?” Resposta: a depender do grau de conscientização da população. Para tanto, devemos nos livrar do enquadramento a que fomos jogados na moldura dos quatro tipos de sociedade no mundo: o primeiro é a sociedade inglesa, onde tudo é permitido, salvo o que for proibido; o segundo é a sociedade alemã, onde tudo é proibido, salvo o que for permitido; o terceiro é a totalitária, ditatorial, onde tudo é proibido, mesmo o que for permitido; e o quarto tipo é a brasileira, onde tudo é permitido, mesmo o que for proibido.</p></p>
-<p><p>Gaudêncio Torquato, jornalista, é professor titular da USP, consultor político e de comunicação</p></p>
-{% endraw %}

@@ -1,36 +1,0 @@
----
-id: 12595754
-date: "2020-02-10T15:00:53Z"
-last_modified_at: null
-tags:
-  - "brasil"
-  - "liberdade"
-  - "reino-unido"
-  - "renegociacao"
-  - "uniao-europeia"
-categories:
-  - "noticias"
-title: "Sa\u00edda do Reino Unido da Uni\u00e3o Europeia significa mais liberdade de negocia\u00e7\u00e3o com o Brasil"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/02/36757602_28135130_WEB-1060x594.jpg"
----
-{% raw %}
-<p><p>Por Daniel Toledo, em artigo enviado ao blog</p></p>
-<p><p>Desde o dia 24 de janeiro, a União Europeia não conta mais com o grupo formado pelo Reino Unido, que na verdade, o nome correto seria Reino Unido da Grã Bretanha da Irlanda do Norte, até porque o termo “Reino Unido” não tem constituição na escrita real. Por isso, essa terminologia aparece algumas vezes quando se fala em direito internacional ou contratos internacionais. Mas quando se tenta isolar algum desses países, que na verdade são territórios que se agrupam no sentido jurídico, podem ocorrer alguns desentendimentos ou falhas nessa interpretação, mas isso é apenas à título cultural.</p></p>
-<p><p>Para quem não sabe, o Reino Unido propriamente dito é composto por quatro territórios, sendo eles Escócia, Inglaterra, País de Gales e Irlanda do Norte. Quer dizer que eles sempre se entendem? Não necessariamente. Há algumas divergências entre ingleses, escoceses e também irlandeses, mas na hora de votar eles decidiram que a separação da UE seria algo positivo.</p></p>
-<p><p>Particularmente, eu concordo com esse posicionamento e se estivesse nessa situação, provavelmente teria votado a favor da separação por uma série de razões. A primeira delas é referente a questão financeira. Quando você unifica uma moeda, cada um dos países tem a sua economia, o seu PIB, a sua população, custo, regulamentação financeira, econômica e política, e nem sempre eles vão na mesma linha ou adotam conduta. Ou seja: às vezes, o mais rico acaba pagando a conta de um mais pobre, às vezes uma política socialista pode ser impactada por uma política de extrema direita ou um país que tem uma fronteira mais flexível acaba dando algum tipo de problema para outros lugares que não querem uma miscigenação racial, social ou cultural e isso acaba impactando em uma série de outras situações.</p></p>
-<p><p>Há dois anos, o Reino Unido vem tentando essa separação, que é um conglomerado de dez países que mais investem e possuem parcerias com o Brasil, ocupando o 7º ou 8º lugar. A tendência é que esse relacionamento se estreite ainda mais, porque não haverá mais entraves, como competições financeiras e tributárias que existiam com outros países e alguns acordos tributários com a própria União Europeia. Agora, eles podem negociar com quem quiserem no mundo inteiro, inclusive conosco.</p></p>
-<p><p>Acredito que vamos ter alguns contratos que já foram assinados, outros que vão ter possibilidade de revisão, o que pode ser excelente para ambos países. Há inclusive empresas que têm interesse em renegociar contratos. Isso será ótimo, pois terão uma liberdade maior para negociação.</p></p>
-<p><p>Outro ponto que é importante lembrar, em razões dessa separação, é que o britânico, historicamente, é um povo que se orgulha muito de seus raízes, suas tradições, etnia, língua, cultura e eles não gostam muito de miscigenação. Quem conhece a história sabe como a Rainha da Inglaterra é tratada e respeitada, sendo que ela não exerce nenhum tipo de poder político direto. Apenas indiretamente e no mundo inteiro. Então, os ingleses se orgulham muito dessas tradições, quem conhece a família real sabe que eles possuem suas próprias normas e condutas, algo que é centenário.</p></p>
-<p><p>Incomoda aos ingleses o fato que outros países abrem livremente suas fronteiras por uma única razão, a baixa taxa de natalidade, resultando em um declínio populacional e até da própria organização como um país, e isso é algo histórico. Atualmente, qualquer número que esteja acima de 2.3 é considerado razoável ou bom e qualquer abaixo de 1.7 é considerado em queda. Alguns índices já apontam que qualquer número abaixo de 1.5 é um fator irreversível, ou seja, determinada região vai entrar em queda populacional da qual não se recupera.</p></p>
-<p><p>Hoje a Inglaterra está em 1.3, o que é desesperador. Há diversos artigos publicados sobre o tema. O governo inglês está buscando incentivos a reprodução e até fornece gratuitamente tratamentos para infertilidade ou fertilização in vitro, para que os ingleses se reproduzam, tenham mais filhos e a população volte a crescer sem que tenha necessidade da imigração.</p></p>
-<p><p>A imigração vai gerar miscigenação de raças, culturas, religiões, entre outras coisas que não são o que os ingleses querem. Incentivar e ajudar casais ingleses a terem filhos significa manter essas tradições, que são o orgulho do país.</p></p>
-<p><p>Diversos países da Europa estão abrindo fronteiras, principalmente os que estão localizados fisicamente das regiões que possuem cultura islâmica, que geram um pavor preconceituoso ou cauteloso, pois são países com questões políticas tumultuadas, em conflito, e eles não querem a entrada dessas pessoas, muito menos a mistura de religiões e o radicalismo dentro do território britânico.</p></p>
-<p><p>Um outro ponto, também importante lembrar, que quem está migrando para a Europa não são os milionários árabes, são pessoas foragidas de guerra, que normalmente precisam de auxílio médico, moradia, trabalho, espaço, cuidados com crianças, remédios e tudo mais. Eles não levam dinheiro, apenas a família porque querem sair do lugar de origem por desespero. Não possuem estrutura financeira como um investimento, não fazem o país crescer. Entram apenas para usufruir, não estão trazendo nada. Pois estão exiladas e foragidas, que viviam em uma situação de conflito, guerra, muitas vezes de miséria e por isso ultrapassam fronteiras para poder ter uma possibilidade de vida, mas não levam nada com elas, exceto a roupa do corpo, elas mesmas e os filhos.</p></p>
-<p><p>Isso custa dinheiro e muitos governos estão sofrendo déficits para manter ou auxiliar essas pessoas e obviamente o Reino Unido não tem interesse em bancar essa conta. Muitas pessoas entendem isso como desumano, outras como uma proteção das próprias fronteiras e da população do país.</p></p>
-<p><p>Outra questão importante é a própria relação do Reino Unido com a atual UE. Acredito que, se cada um daqueles países tivessem uma autonomia um pouco maior, a própria Europa, como um bloco unificado, cresceria muito mais. Então essa saída do Reino Unido vai representar muito, não só para a região, mas também para as relações comerciais com o Brasil.</p></p>
-<p><p>Não acho que esse movimento britânico será o único. Nos próximos anos, devem surgir algumas novidades, pois com certeza será um exemplo para que outras potências consigam enxergar que, algumas vezes, ficar atrelado a uma malha inflexível pode acabar travando outros setores e, às vezes, em uma eventual crise econômica mundial pode afundar todo mundo e ao mesmo tempo.</p></p>
-<p><p>Daniel Toledo é advogado da Toledo e Advogados Associados especializado em direito internacional, consultor de negócios internacionais e palestrante.</p></p>
-{% endraw %}

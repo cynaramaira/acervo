@@ -1,33 +1,0 @@
----
-id: 12606774
-date: "2020-12-09T15:30:32Z"
-last_modified_at: null
-tags:
-  - "alerta"
-  - "ricardo-salles"
-  - "setembro-amarelo"
-categories:
-  - "noticias"
-title: "Alerta amarelo piscando. Por Ricardo Leit\u00e3o"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/09/bolsonaro-onu-discurso-2020.jpg"
----
-{% raw %}
-<p><p>Por Ricardo Leitão, em artigo enviado ao blog</p></p>
-<p><p>Com a realização do segundo turno da eleição para prefeito de Macapá, capital do Amapá, no próximo dia 20, terminará o pleito municipal de 2020. Milhões de votos foram depositados nas urnas eletrônicas e apurados em poucas horas, sem contestação dos resultados. De pouco adiantou. Liderados por Jair Bolsonaro, discípulos das fake news logo começaram a disseminar a versão de que a urna eletrônica pode ser fraudada – o que equivale dizer que o voto pode ser fraudado.</p></p>
-<p><p>Bolsonaristas já anunciaram que a Terra é plana, que o homem não chegou à lua e que a cloroquina cura a covid-19. O ataque à credibilidade da urna eletrônica, no entanto, é muito mais perigoso – ameaça a democracia. Para o Capitão, aparentemente, pouco importa. Em 15 de novembro, após votar, ele pontificou: “Temos de ter um sistema de apuração que não deixe dúvidas. Tem de ser confiável e rápido, não deixar margem para suposições”. Depois de novamente votar na urna eletrônica, já no segundo turno, outra vez colocou em dúvida a lisura do pleito. Para evitá-la, pregou que cada eleitor receba uma cópia impressa de seu voto.</p></p>
-<p><p>A ideia é unanimemente contestada pelo Tribunal Superior Eleitoral, que vê nela um retrocesso. As urnas eletrônicas são usadas no Brasil há 24 anos. Receberam votos que elegeram vereadores, prefeitos, deputados estaduais e federais, senadores, governadores e presidentes – entre eles o “incrédulo” Capitão.</p></p>
-<p><p>Trata-se de um dos mais eficientes e seguros sistemas de votação e apuração do mundo. Desenvolvido por engenheiros e técnicos brasileiros, é testado e auditado antes de cada eleição, diante de representantes da justiça, eleitores e dos partidos políticos. O sistema nunca foi invadido por hackers nem contestado, nessas quase três décadas de funcionamento.</p></p>
-<p><p>Então, o que atiça a fantasiosa verborreia presidencial? Quem cheirou bafos do falecido Donald Trump tem bom olfato. E o pesado ar fétido acendeu o alerta amarelo desde já: responsáveis pelo planejamento das eleições de 2022 temem que ataques dos grupos bolsonaristas às urnas eletrônicas lancem dúvidas sobre a credibilidade do sistema de votação. Por extensão, estaria posto em dúvida o resultado da eleição.</p></p>
-<p><p>Foi o caminho que Trump – líder espiritual de Bolsonaro – percorreu, depois de derrotado nas urnas e nos tribunais por Joe Biden. Mesmo assim, conseguiu inocular na cabeça de seus eleitores a mentira de que a vitória de Biden foi uma fraude. Disso não apresentou nenhuma prova.</p></p>
-<p><p>Ao tentar erodir, desde já, a confiança na urna eletrônica, o Capitão emula seu líder espiritual. Faz isso por ter consciência de que ganhar em 2022, no voto limpo, está ficando cada vez mais difícil. O bolsonarismo não elegeu prefeitos em nenhuma capital no pleito de novembro. Candidatos a vereador da extrema direita – por exemplo, militantes que lançaram fogos no Supremo Tribunal Federal – também fracassaram.</p></p>
-<p><p>As dificuldades à frente estimulam os primeiros ataques coordenados à urna eletrônica, por meio de tecnologia sofisticada e pessoal especializado. Em 15 de novembro, foram vazados dados do computador central do Tribunal Superior Eleitoral. Em seguida, sistemas periféricos do tribunal receberam, simultaneamente, milhares de pedidos de acesso e, sem suportar a demanda inesperada, saíram do ar. De imediato, milicianos acionaram as redes sociais, espalhando que as eleições estavam comprometidas e seus resultados não deveriam ser aceitos. As declarações de Bolsonaro, que não tardaram, ecoaram a sujeira das redes sociais.</p></p>
-<p><p>A manobra atrasou o anúncio dos resultados do primeiro turno e está sob investigação da Polícia Federal. Ainda não foram apontados culpados, mas se comprovou que, tecnicamente, a manobra pode ser realizada. Daí não se deduza que Bolsonaro irá investir em expedientes dessa natureza, se pressionado pelo desespero na disputa em 2022. Contudo, também é forçoso lembrar que ao longo de sua vida política – que inclui até processos por planejar atos terroristas – ele nunca se notabilizou pelo respeito às regras constitucionais.</p></p>
-<p><p>O Capitão é um destacado quadro da direita, que acolhe em seu governo integrantes da extrema direita e tem tanta consideração à Constituição e à democracia quanto um contrabandista de madeira tem pela floresta amazônica. Sabe que o fenômeno dos 57 milhões de votos recebidos em 2018 não vai se repetir; que o país está sem rumo; seus ministros se confrontam em praça pública e seu isolamento só cresce. Contudo, há o poder, e pelo poder irá às últimas consequências.</p></p>
-<p><p>Aqui já se disse ser um erro menosprezar a determinação de Jair Bolsonaro e das forças políticas e econômicas que ainda o sustentam. Ele terá dois anos difíceis pela frente, com a pandemia; o fim do auxílio emergencial; o crescimento da inflação e do desemprego; o isolamento internacional e a degradação do meio ambiente. A tudo isso se soma o seu descontrole verbal e emocional, a ponto de ter sido aconselhado pela ala militar do Palácio do Planalto a moderar o tom e parar de ampliar as crises.</p></p>
-<p><p>Ao fim de dois anos de administração, com os filhos investigados pela Polícia Federal, o Capitão cada vez mais se transforma em um estorvo. Investidores internacionais se distanciam do Brasil; não há interlocução bem sucedida com empresários e trabalhadores; faltam ideias na educação, na saúde, na segurança e na cultura. A “nova política” e o “capitalismo liberal” viraram piadas nas rodas de conversa da direita e da esquerda.</p></p>
-<p><p>Há quem peça paciência, os dois anos restantes passarão logo. No entanto, há quem insista que já basta, o país não aguenta mais. Bolsonaro desce do palanque onde se empoleirou e propõe um pacto mínimo pela governabilidade ou vai aumentar a pressão sobre o Congresso para que se inicie o processo de seu impeachment.</p></p>
-<p><p>O alerta amarelo está piscando.</p></p>
-{% endraw %}

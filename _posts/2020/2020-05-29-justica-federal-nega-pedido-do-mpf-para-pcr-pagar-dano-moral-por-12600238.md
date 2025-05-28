@@ -1,37 +1,0 @@
----
-id: 12600238
-date: "2020-05-29T18:20:26Z"
-last_modified_at: null
-tags:
-  - "contratos"
-  - "evo-morales"
-  - "justica-federal"
-  - "recife"
-  - "respiradores-mecanicos"
-categories:
-  - "noticias"
-title: "Justi\u00e7a Federal nega pedido do MPF para PCR pagar dano moral por rescis\u00e3o de contratos de respiradores no Recife"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/02/justica-federal-pernambuco-sede.jpg"
----
-{% raw %}
-<p><p>Nesta quinta-feira (28), a juíza titular da 5ª Vara da Justiça Federal em Pernambuco (JFPE) indeferiu medida cautelar em ação civil pública promovida pelo Ministério Público Federal (MPF/PE), na qual requeria que o Municipio do Recife, juntamente com a micro empresa Juvanete Barreto Freire fossem condenadas ao pagamento de dano moral coletivo no valor de R$ 5 milhões.</p></p>
-<p><p>A multa seria imposta pela quebra contratual para aquisição de 500 respiradores pulmonares que seriam utilizados no tratamento de pacientes com Covid-19 no município. Os valores deveriam ser revertidos à União.</p></p>
-<p><p>Em sua decisão, a magistrada destacou que a petição inicial tratava de solicitação para adoção de medidas cautelares, embasadas em irregularidades das empresas contratadas, encontradas após investigações, e visava a suspensão de contrato referente à aquisição de 500 respiradores pulmonares pelo Município do Recife, para utilização no tratamento de pacientes com Covid-19.</p></p>
-<p><p>Porém, quando corria o prazo para a emenda à inicial, houve mudança nos pedidos, provocada, conforme informação do MPF, por nota enviada pela Prefeitura do Recife à imprensa, no dia 22 de maio, na qual informava que as empresas Juvanete Barreto Freire MEI (BRASMED VETERINÁRIA) e Bioex Equipamentos Médicos e Odontológicos Eireli, desistiram de fornecer, ao Município do Recife, os 500 ventiladores pulmonares já contratados, sendo o motivo da desistência, segundo o Município do Recife, a repercussão negativa que as notícias causaram ao nome empresarial das contratadas.</p></p>
-<p><p>Segundo o MPF, a nota foi emitida apenas dois dias após a publicação das investigações em trâmite no Ministério Público de Contas do Estado de Pernambuco.</p></p>
-<p><p>Na petição de emenda à inicial, o MPF passou a requerer, então, que o Município do Recife, juntamente com as empresas contratadas, fossem condenados ao pagamento de dano moral coletivo no valor de R$ 5 milhões de reais.</p></p>
-<p><p>Também requereu o MPF a condenação das empresas contratadas ao pagamento de multa de 10% do valor total do contrato, por ter a desistência configurado quebra contratual injustificada. Foi pedido pelo MPF que os valores fossem revertidos à União.</p></p>
-<p><p>Em caráter de urgência, passou o MPF a requerer que a Justiça Federal: a) determinasse à União, pelos seus órgãos de controle, inclusive o DENASUS e a CGU, que realizasse auditoria, em 30 dias, objetivando averiguar a regularidade e o adequado funcionamento de todos os respiradores adquiridos pelo Município do Recife no âmbito do Fundo Municipal de Saúde; b) determinasse a indisponibilidade de bens e valores das empresas demandadas no valor de R$ 5 milhões, montante relacionado ao pedido de condenação em dano moral coletivo.</p></p>
-<p><p>Sobre o pedido de auditoria, a Juíza da 5.ª Vara Federal assim fundamentou o indeferimento.</p></p>
-<p><p>"No entender deste juízo, portanto, o deferimento do pedido de urgência para se determinar que a União, pelos seus órgãos de controle, realize auditoria em ‘todos os respiradores adquiridos pelo Município do Recife no âmbito do Fundo Municipal de Saúde’, não merece guarida, seja porque o DENASUS e a CGU e os demais órgãos de controle da União são entidades administrativas com atuação independente do Poder Judiciário, seja porque não houve efetiva aquisição dos respiradores, ressaltando-se que os poucos a chegarem na posse da municipalidade foram devolvidos quando da formalização do distrato".</p></p>
-<p><p>A juíza complementou, sobre o pedido de indisponibilidade dos bens.</p></p>
-<p><p>"Não tendo as empresas recebido nenhum valor dos cofres públicos, o pedido para decretar a indisponibilidade de seus bens na dimensão requerida pelo MPF, em caráter cautelar, sem nenhum embasamento fático e concreto de ser a atuação das Pessoas Jurídicas criminosa, passa a ter uma feição revanchista e política incompatível com a finalidade da ação civil pública definida no início dos fundamentos desta decisão e, nesta oportunidade de desfecho, rememora-se: a ação civil pública é instrumento processual adequado para a proteção do patrimônio público e social, do meio ambiente e de outros interesses difusos e coletivos".</p></p>
-<p><p>A Juíza pontuou, ainda, sobre o pedido de mérito veiculado na emenda à inicial, os seguintes registros: "interessante notar que o MPF faz expresso pedido para a multa ser revertida para a União - a qual não figura no contrato de aquisição dos respiradores, sob nenhuma perspectiva. (...) Interessante notar que a multa contratual, caso fosse imposta, deveria ser revertida ao Município do Recife, pois era o ente municipal que estava contratando a aquisição dos respiradores para o tratamento das pessoas que viessem a se tratar da enfermidade causada pelo covid-19 na capital de Pernambuco".</p></p>
-<p><p>Decisão anterior</p></p>
-<p><p>Na manhã de ontem (28), o juízo da 5ª Vara também havia indeferido a petição inicial da ação popular proposta por Carmelo Manoel de Sousa Junior contra a Prefeitura do Recife e as empresas contratas para aquisição de respiradores pulmonares, por constatar nas alegações apresentadas a ausência de interesse de agir, na modalidade da adequação da via eleita (ação popular). O autor pediu, em síntese, a aplicação da multa contratual prevista em caso de rescisão contratual e a busca e apreensão dos respiradores objeto do contrato.</p></p>
-<p><p>Ao indeferir a inicial da ação popular, a Juíza Federal Nilcéa Maggi, titular da 5ª Vara da Justiça Federal em Pernambuco - JFPE, afirmou que a ação popular exige, dentre seus requisitos constitucionais, a identificação de ato lesivo ao patrimônio público, impossível de se constatar pelos argumentos veiculados na petição inicial.</p></p>
-<p><p>“Vê-se, assim, que o autor enaltece o trabalho dos órgãos de fiscalização, contudo, sua pretensão implica a manutenção do contrato que tais entidades de controle acusam ilegalidades. Dessa forma, entende-se que a presente ação popular padece do irremediável vício de inadequação da via eleita, pois é impossível distinguir, atualmente, se existe lesão ao patrimônio público e à moralidade administrativa na manutenção do contrato para aquisição dos respiradores ou, ao contrário, se existe lesão ao patrimônio público e à moralidade administrativa no seu respectivo distrato. Entende-se, portanto, que o autor pode estar envolto de boas intenções, diante do impacto das notícias veiculadas na mídia acerca de questões tão sensíveis à comunidade. Contudo, o caso concreto exige apuração dos fatos para se saber se houve ilegalidade no contrato de aquisição dos respiradores (o que esvaziaria, frise-se, a pretensão desta ação popular)”.</p></p>
-{% endraw %}

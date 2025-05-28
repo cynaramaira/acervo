@@ -1,27 +1,0 @@
----
-id: 12605364
-date: "2020-11-01T12:23:30Z"
-last_modified_at: null
-tags:
-  - "ricardo-salles"
-categories:
-  - "noticias"
-title: "Uma cueca radioativa. Por Ricardo Leit\u00e3o"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/10/chico-rodrigues-rondonia-senador.jpg"
----
-{% raw %}
-<p><p>Por Ricardo Leitão, em artigo enviado ao blog</p></p>
-<p><p>No escurinho do recesso parlamentar, senadores governistas aceleram a conspiração pelo adiamento, para data incerta e não sabida, do julgamento do Senador Chico Rodrigues, no Conselho de Ética do Senado. Eleito por Rondônia, amigo há décadas de Jair Bolsonaro (“Uma união estável”, orgulha-se o Presidente), Rodrigues protagonizou um escândalo escalafobético: foi flagrado pela Polícia Federal com R$ 36 mil escondidos na cueca, dinheiro que teria sido desviado de verbas federais destinadas ao combate à pandemia.</p></p>
-<p><p>De acordo com o planejamento da operação-abafa, Rodrigues pediu licença de 121 dias do cargo. Ao mesmo tempo, o Presidente do Senado, David Alcolumbre, se recusou a convocar extraordinariamente o Conselho de Ética, alegando cuidados com a covid-19. O sempre louvado corporativismo de Suas Excelências se articulou; as eleições municipais esvaziaram o plenário; Rodrigues de enfurnou em Rondônia e o escândalo desapareceu das manchetes.</p></p>
-<p><p>A não ser vagas lembranças, entre os envolvidos ninguém se mostra interessado em reavivar o assunto. O Senador Cuecão (alcunha que recebeu do serpentário de Brasília), por motivos óbvios; o Senado, para não afundar ainda mais sua “imagem institucional”, e Bolsonaro – que nomeou Rodrigues vice-líder de seu Governo – para se desvincular de um parlamentar, de suas ligações íntimas, envolvido em corrupção.</p></p>
-<p><p>Filmado pelos agentes federais durante a vexatória revista de sua lingerie financeira, Chico Rodrigues sequer foi original. (Um ex-assessor do parlamentar José Guimaraes, do PT, José Adalberto Vieira, foi preso. No entanto, em 2012, inclusive, Guimarães foi inocentado pelo STJ pela ausência de provas contra ele. Até agências de checagem já desmentiram essa fake news). </p></p>
-<p><p>O Capitão condenou publicamente o método heterodoxo do velho amigo de amealhar suas riquezas. No entanto, apesar do pantim, seu problema é outro: a cueca-cofre de Rodrigues corrói um de seus pilares do discurso de campanha e de governo. Os pilares são três: a “nova política”, a “nova economia” e a “luta sem trégua contra a corrupção”.</p></p>
-<p><p>A “nova política” ruiu quando Bolsonaro fez do Centrão – um aglomerado de centro-direita, notório pela voracidade por cargos – sua base no Congresso. A “nova economia” iria se firmar com as reformas do capitalismo liberal. Porém, com exceção da reforma da Previdência, nada mais aconteceu. A cueca radioativa de Rodrigues – porque todos querem dela a máxima distância – abre agora um flanco no discurso anticorrupção.</p></p>
-<p><p>Não é um bom momento para tão inesperada exposição. Dois relatórios da Transparência Internacional, instituição mundialmente respeitada, denunciam que o Brasil, em 2019, “passou por retrocessos no combate à corrupção”. Transparência cita como um dos motivos deste retrocesso investigações sobre o Presidente, por pressionar decisões da Polícia Federal e da Procuradoria Geral da República. No ano passado, o Brasil foi o 106º colocado, entre 180 países, em empenho no combate à corrupção, com 35 pontos. Nesta escala, 100 pontos indicam que o país é “muito íntegro” e dispõe de mecanismos legais eficientes para combater os desvios financeiros.</p></p>
-<p><p>Portanto, a vergonhosa posição do Brasil, entre os 180 países ranqueados pela Transparência Internacional, não é apenas consequência dos fantásticos butins, que quase levaram à bancarrota empresas públicas como a Petrobras. Refletem também a inércia do Governo Bolsonaro diante da sucessão de episódios que, ao final, corrompem a democracia e os mecanismos que lhe asseguram sustentação. Neste sentido, é corrupção ameaçar o Congresso; atacar o Supremo Tribunal Federal; participar de mobilizações em defesa da ditadura; organizar milícias digitais e defender a censura. Bolsonaristas são ativos nessas frentes, às vezes contando com a participação direta do Capitão e de seus filhos.</p></p>
-<p><p>Ainda assim, mesmo com os três pilares rachados e o desemprego empobrecendo 14 milhões de brasileiros, o Presidente tem o apoio de 30% dos eleitores ao seu Governo. É um índice expressivo que, se mantido, o coloca como um candidato competitivo em 2022. O problema imediato são as eleições municipais em 15 de novembro. As pesquisas indicam que nenhum candidato bolsonarista a prefeito vai vencer em cidades importantes. E daí?</p></p>
-<p><p>Recomenda-se não menosprezar Jair Bolsonaro. Ele não chegou onde está por obra e graça de Olavo de Carvalho e Donald Trump, sob as bênçãos póstumas de Carlos Alberto Brilhante Ulstra. O Capitão é um quadro treinado da “nova direita” brasileira. Está pronto para manipular, mais uma vez, o medo que a maioria conservadora desse país tem do retorno da esquerda ao poder. E então dividir, polarizar, ameaçar e vencer. Nem que, para tanto, tenha de apoiar a extensão de imunidade às cuecas parlamentares.</p></p>
-{% endraw %}

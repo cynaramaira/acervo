@@ -1,35 +1,0 @@
----
-id: 12603554
-date: "2020-09-15T15:20:25Z"
-last_modified_at: null
-tags:
-  - "desigualdades"
-  - "emprego"
-  - "pandemia"
-  - "renda"
-  - "trabalhadores"
-categories:
-  - "noticias"
-title: "Pandemia gerou perdas no emprego e na renda dos trabalhadores do NE, aumentando desigualdades"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/08/carteira_de_trabalho_1-marcellocasaljr.jpg"
----
-{% raw %}
-<p><p>O primeiro estudo de âmbito regional sobre os impactos da pandemia do novo coronavírus no Nordeste foi apresentado nesta terça, 15, em coletiva de imprensa online, pela Ceplan Consultoria, com sede no Recife. De acordo com o Cadastro Geral de Empregados e Desempregados (Caged), o país teve um saldo negativo entre contratações e demissões de -1.547 milhão de empregos formais de janeiro a julho deste ano. Do total, 16,9% foi registrado no Nordeste, percentual superior à participação da economia da região na economia brasileira (14,5%). A maior perda de vagas ocorreu entre março e maio.</p></p>
-<p><p>Os índices refletem as conjunturas econômicas do país e do mundo, drasticamente afetadas pela pandemia. A estimativa do Fundo Monetário Internacional (FMI) para a economia global é de uma queda de 4,9% em 2020 – a maior retração registrada desde a crise de 1929. No Brasil, o PIB caiu -5,9% no primeiro semestre deste ano em relação ao mesmo período de 2019. No Nordeste, o índice de atividade econômica (IBC-Br), medido pelo Banco Central, sofreu uma redução de -3,5%. Nas três principais economias da região, a maior perda foi a do Ceará, de -4,9%, seguida por -3,5 da Bahia e -2,6% de Pernambuco.</p></p>
-<p><p>Os resultados são explicados pela necessidade de isolamento social para evitar o aumento dos casos e mortes pela Covid-19 que levou à suspensão da maior parte das atividades econômicas, até com lockdowns em capitais e centros mais avançados, atingindo segmentos como o turismo e os serviços – particularmente importantes para o Nordeste. O estudo da Ceplan revela que no comparativo entre o primeiro semestre de 2020 e o primeiro semestre do ano passado, a maior queda, ao analisar a composição do PIB brasileiro pelo lado da demanda, ocorreu no volume de impostos (-8,1%), e no consumo das famílias (-7,1%). Pelo lado da produção, a indústria (-6,5%) e os serviços (-5.9%) declinaram substancialmente.</p></p>
-<p><p><br /></p>
-<p><strong>Subutilização maior no Nordeste</strong></p></p>
-<p><p>Neste cenário todos perderam, mas os trabalhadores do Norte e do Nordeste perderam ainda mais. A Taxa de Participação da Força de Trabalho (TPFT) que mede a proporção de pessoas ocupadas ou à procura por trabalho em relação à população com 14 anos ou mais, apresentou, em média, uma redução de 8 pontos percentuais na comparação entre o quarto trimestre de 2019 e o segundo trimestre de 2020. Os resultados mostram que no Brasil apenas 55,3% dos trabalhadores com 14 anos ou mais de idade estavam ocupados ou ainda procurando trabalho no segundo trimestre de 2019. No Nordeste, a TPFT ficou em 46,9%; em Pernambuco 45,3%; na Bahia 50,1% e no Ceará em 47,7%.</p></p>
-<p><p>Estes números trazem à tona a alta subutilização dos trabalhadores e revela o fraco desempenho da economia que já vinha operando sem aproveitar bem o potencial da sua população economicamente ativa.</p></p>
-<p><p>Os dados mostram que a desocupação tem sido mais forte na Bahia onde a taxa de desemprego chegou a 19,9% no segundo trimestre deste ano. No mesmo período, a taxa foi de 16,1% no Nordeste, 15% em Pernambuco e 12,1% no Ceará, todas acima da média brasileira (13,3%).</p></p>
-<p><p>Os desocupados, os desalentados – que desistiram de procurar emprego porque não acreditam que estejam disponíveis; os não desalentados, que desejam trabalhar, mas não buscam por várias razões; e os subocupados, aqueles que trabalham menos horas do que gostariam, formam a taxa composta de subutilização da força de trabalho. Essa taxa cresceu no segundo trimestre de 2020 em relação ao último trimestre de 2019, atingindo os seguintes percentuais: Brasil (29,1%), Nordeste (41,8%), Pernambuco (36,2%), Bahia (44,7%) e Ceará (35,9%), evidenciando uma forte ociosidade no uso dos recursos humanos.</p></p>
-<p><p>Para homens e mulheres, a taxa de subutilização aumentou entre os trimestres de referência. Foi maior entre as mulheres do que entre os homens tanto no Brasil quanto na região e nos estados citados. Nestes mesmos territórios, a subutilização cresceu em todas as faixas etárias, mas foi maior entre os jovens de 14 a 24 anos. No Nordeste chegou a 82,5% no intervalo de 14 a 17 anos e a 63,7% entre os de 18 a 24 anos, no segundo trimestre de 2020. Quando a análise foca a escolaridade, as taxas de subutilização também foram ampliadas no último trimestre e se mostraram mais altas nos grupos com menos anos de estudo no Brasil, no Nordeste, em Pernambuco, na Bahia e no Ceará. O crescimento da subutilização também alcançou pessoas de todas as cores e raças, mas predominou entre os pretos e pardos, chegando a 43,9% no Nordeste, entre abril e junho deste ano.</p></p>
-<p><p>Em relação aos rendimentos, os nordestinos também tiveram perdas acima dos brasileiros. No país, na comparação entre o primeiro semestre de 2020 com o mesmo período de 2019, a queda foi de -1,5%, e de -3,9% no Nordeste. Entre os maiores Estados da região, Pernambuco sofreu a maior redução: -9,1%; na sequência o Ceará, com -2,9% e a Bahia, com -0,5%. Isso reduziu o consumo das famílias, contribuindo significativamente para a queda do PIB.</p></p>
-<p><p><strong>Emprego formal</strong></p></p>
-<p><p>No mercado formal de trabalho os resultados do Caged apresentam quedas líquidas (admissões-demissões) nos níveis de emprego formal na maior parte dos setores da atividade econômica, de janeiro a julho de 2020, em todo o país. As exceções foram na agropecuária que criou 86.217 empregos; no segmento de saúde humana e serviços sociais onde foram gerados 57 mil empregos; na administração pública, defesa e segurança social, com 13.623 novos postos de trabalho, estes últimos elevados pela necessidades de se aumentar a prestação de serviços públicos para enfrentar a pandemia do novo coronavírus; e ainda na construção civil que contratou 8.742 trabalhadores.</p></p>
-<p><p>O comércio liderou as demissões deixando um saldo de 453.503 empregados entre admitidos e demitidos. Logo atrás, vieram o segmento de alojamento e alimentação com saldo de 329.713 e a indústria de transformação com 194 mil pessoas. No universo dos demitidos, os mais atingidos foram as mulheres; adultos entre 25 e 59 anos; pretos e pardos e trabalhadores com ensino médio completo e superior incompleto.</p></p>
-<p><p>Dos nove Estados do Nordeste, apenas o Maranhão registrou saldo positivo entre demissões e admissões de janeiro a julho, com saldo de 2.327 empregados formais. Entre os demais, Pernambuco liderou o saldo negativo regional com 63.101 demissões e a Bahia com 58.987. No Ceará, o saldo foi de 37.474 vagas fechadas.</p></p>
-{% endraw %}

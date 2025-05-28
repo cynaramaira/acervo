@@ -1,42 +1,0 @@
----
-id: 12607360
-date: "2020-12-26T10:00:42Z"
-last_modified_at: null
-tags:
-  - "defesa"
-  - "instituto-butanta"
-  - "lula"
-  - "prazo"
-categories:
-  - "noticias"
-title: "TRF4 interrompe prazo para defesa de Lula responder \u00e0 acusa\u00e7\u00e3o sobre instituto"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/12/unnamed-11.jpg"
----
-{% raw %}
-<p><p>O presidente em exercício do Tribunal Regional Federal da 4ª Região (TRF4), desembargador federal Luís Alberto d’Azevedo Aurvalle, concedeu liminar a fim de interromper o prazo para a defesa do ex-presidente Luiz Inácio Lula da Silva responder à acusação até que seus advogados tenham efetivo acesso a todos os documentos mencionados na acusação por crimes de lavagem de dinheiro.</p></p>
-<p><p>A denúncia, no âmbito da Operação Lava Jato, foi recebida pela Justiça Federal em 23 de outubro no processo referente a doações efetuadas pela construtora Odebrecht ao Instituto Lula.</p></p>
-<p><p>“Efetivamente, não parece razoável transferir ao paciente [Lula] o ônus de se defender sem acesso a todo o acervo probatório integrante da denúncia, o qual, se não interessasse às partes, não deveria nem mesmo integrá-la”, afirmou Aurvalle.</p></p>
-<p><p><br /></p>
-<p>Na primeira instância</p></p>
-<p><p>O pedido de suspensão do prazo havia sido negado pela 13ª Vara Federal de Curitiba em 17 de dezembro. Nessa decisão, o juiz federal Luiz Antonio Bonat narrou que os acusados colaboradores Antonio Palocci Filho, Hilberto Mascarenhas Alves da Silva Filho e Alexandrino de Salles Ramos de Alencar (os dois últimos executivos da Odebrecht) apresentaram resposta à acusação, os acusados não colaboradores Lula e Paulo Tarciso Okamotto (presidente do Instituto Lula) foram citados em 11 de dezembro e, “considerando-se que a última resposta à acusação de acusado colaborador aportou aos autos no dia 14/12/2020, o prazo de 10 dias para apresentação de resposta pelos acusados não colaboradores iniciou-se no dia 15/12/2020”.</p></p>
-<p><p>A defesa de Lula encaminhou petição alegando que não localizou no processo o anexo 245, mencionado da denúncia, nem o acordo de colaboração premiada de Alexandrino de Alencar. Bonat observou que essas peças estavam com anotação de sigilo nível 2, inacessível às defesas. O magistrado baixou de 2 para 1 o nível de sigilo de todos os documentos incluídos na ação penal, para permitir o acesso das partes.</p></p>
-<p><p>Os advogados do ex-presidente pediram ainda à 13ª Vara que todas as mídias com termos de colaboração e de depoimentos dos colaboradores, tanto acusados como testemunhas, bem como os vídeos desses depoimentos, sejam disponibilizados eletronicamente ou de forma não presencial, devido à pandemia. O magistrado determinou que o Ministério Público Federal (MPF), no prazo de dez dias, juntasse ao processo os termos requeridos e encaminhasse à vara federal “mídia contendo os vídeos dos acusados e das testemunhas colaboradores referentes a seus depoimentos tomados no âmbito de sua colaboração e que não estejam sob segredo, ou ainda, indicar em que processo estão disponíveis essas mídias”.</p></p>
-<p><p>Bonat considerou inviável que todas as mídias fossem anexadas ao processo eletrônico, por impossibilidade técnica. Observou que o que será levado em consideração no julgamento são os arquivos referentes aos depoimentos realizados na Justiça Federal. “Ademais, estando as mídias disponíveis à defesa é o que basta para o cumprimento da ampla defesa e do contraditório”, afirmou. “A pandemia tampouco é motivo para excepcionar essa regra, seja porque se trata de impossibilidade técnica, seja porque o acesso às dependências físicas da Justiça Federal é franqueado mediante agendamento e observando-se todos os protocolos de segurança e saúde oficialmente estabelecidos.”</p></p>
-<p><p>Sobre o pedido de interrupção e de concessão de prazo adicional de 260 dias para oferecimento de resposta à denúncia, o magistrado observou que essa pretensão não está prevista em lei. Tendo em vista a existência de alguns documentos inacessíveis aos advogados, ele concedeu prazo adicional de três dias para a resposta das defesas de Lula e Okamotto e de outros três dias para eventual complementação das respostas desses acusados após a apresentação dos documentos e das mídias pelo MPF.</p></p>
-<p><img class="size-full wp-image-222186" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2019/11/lula-recife-7.jpg" alt="" width="748" height="410" /> Foto: Brenda Alcântara/JC Imagem</p>
-<p><p>Habeas corpus</p></p>
-<p><p>A defesa de lula impetrou ontem (24/12) habeas corpus no TRF4, alegando que não foi disponibilizado no processo nenhum registro audiovisual dos mais de 65 termos de colaboração premiada anexados como prova. Argumentou ainda que o MPF, intimado a apresentar os vídeos não sigilosos das colaborações premiadas das testemunhas, declarou que isso seria desnecessário, pois esses arquivos não seriam pertinentes à ação.</p></p>
-<p><p>Os advogados apontaram que dois dos anexos mencionados na denúncia não estavam disponíveis a eles, o que configuraria supressão de provas da defesa técnica. Informaram que haviam requerido à 13ª Vara que o MPF fosse intimado a disponibilizar no processo toda a documentação relacionada ao caso e que o prazo para resposta fosse interrompido até que se apresentassem as peças que faltavam.</p></p>
-<p><p><br /></p>
-<p>Desse modo, solicitaram o deferimento da liminar para suspender a tramitação da ação penal até o julgamento do mérito do hábeas ou, alternativamente, para interromper o prazo para resposta à acusação (que venceria em 7 de janeiro) até que todas as mídias e elementos de prova obtidos pelo MPF sejam juntados aos autos, além da concessão à defesa do mesmo prazo utilizado pelo MPF para elaborar a denúncia após receber o inquérito concluído.</p></p>
-<p><p>Liminar no TRF4</p></p>
-<p><p>Em regime de plantão judiciário, Aurvalle, vice-presidente no exercício da Presidência do TRF4, analisou a urgência das medidas requeridas pela defesa. Ele verificou ser incabível a suspensão do andamento de toda a ação penal até o julgamento do habeas corpus quando é possível suspender apenas o ato contestado – no caso, a decisão de primeira instância que negou a interrupção do prazo.</p></p>
-<p><p>Em avaliação preliminar, sem prejuízo de reanálise posterior pelo relator do processo, desembargador federal João Pedro Gebran Neto, ou pela 8ª Turma do TRF4, quando julgar o mérito do hábeas, Aurvalle entendeu ser plausível a alegação de que a negativa de acesso aos documentos implica prejuízo à ampla defesa do ex-presidente:</p></p>
-<p><p>“Na hipótese, entendo existir plausibilidade no direito discutido. É que, ainda que nesta seara processual não se exija o esgotamento das teses defensivas, não se pode negar à defesa o direito a qualquer alegação que lhe possa interessar”, destacou o presidente em exercício, citando uma decisão da 8ª Turma com o mesmo entendimento e o artigo 396-A do Código de Processo Penal:</p></p>
-<p><p>“Art. 396-A. Na resposta, o acusado poderá arguir preliminares e alegar tudo o que interesse à sua defesa, oferecer documentos e justificações, especificar as provas pretendidas e arrolar testemunhas, qualificando-as e requerendo sua intimação, quando necessário.”</p></p>
-<p><p>Sobre o fato de se estar ainda no início do processo, Aurvalle considerou que o prejuízo de qualquer interrupção é menor agora do que no caso de eventual vício ser decretado posteriormente.</p></p>
-<p><p>Ele entendeu que estavam preenchidos os requisitos autorizadores para a concessão de liminar, quais sejam, a verossimilhança do direito alegado e o perigo na demora da decisão, pelo eventual esgotamento do prazo processual. Assim, determinou que “deve ser interrompido o prazo de apresentação da resposta à acusação até que seja possibilitado o efetivo acesso da defesa a todos os elementos ainda não disponibilizados (anexo 245 mencionado na peça acusatória e o acordo de colaboração premiada de Alexandrino de Salles Ramos de Alencar), passando a correr por inteiro a partir de então”.</p></p>
-{% endraw %}

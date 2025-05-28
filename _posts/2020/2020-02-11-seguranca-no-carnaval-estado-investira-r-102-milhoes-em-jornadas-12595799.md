@@ -1,38 +1,0 @@
----
-id: 12595799
-date: "2020-02-11T15:51:36Z"
-last_modified_at: null
-tags:
-  - "carnaval"
-  - "estado"
-  - "seguranca"
-categories:
-  - "noticias"
-title: "Seguran\u00e7a no Carnaval. Estado investir\u00e1 R$ 10,2 milh\u00f5es em jornadas extras dos policiais e servidores"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/02/OPERA\u00c7\u00c3O-CARNAVAL-2020_SDS_FOTO-CARLOS-MEDEIROS-1_.jpg"
----
-{% raw %}
-<p><p>Com a chegada de cerca de 1.000 novos policiais militares e civis para Pernambuco neste início de ano e a otimização do sistema de solicitação de policiamento para agremiações, o Governo de Pernambuco promete reforçar a segurança no Carnaval 2020.</p></p>
-<p><p>Por meio da Secretaria de Defesa Social (SDS), o Estado está investindo R$ 10,2 milhões na festa, 7,3% a mais do que no ano anterior, além de aumentar em 7,84% a quantidade de postos de trabalho da segurança pública, ativados desde 4 de janeiro até 8 de março.</p></p>
-<p><p>Somente a Polícia Militar destacou 44.300 postos de trabalho para a Operação Carnaval 2020, cobrindo todo o Estado.</p></p>
-<p><p>Pela Polícia Civil, haverá 5.966 jornadas extras para agentes, escrivães e delegados, além do efetivo ordinário.</p></p>
-<p><p>Já os 5.268 postos de trabalho preenchidos pelo Corpo de Bombeiros Militar (CBMPE) serão voltados tanto para resgate e salvamento como para fiscalização de palcos, camarotes e outras estruturas montadas para os festejos. Pela Corregedoria Geral e pelo Centro Integrado de Inteligência de Defesa Social, são 776 escalas, além de 184 para a Polícia Científica.</p></p>
-<p><p>A maior parte desse efetivo estará nas ruas e delegacias durante os seis principais dias de festa, da sexta-feira (21/02) até a Quarta de Cinzas (26/02). São 40.093 postos de trabalho ativados, entre todas as operativas da SDS. As prévias, que começaram em 4 de janeiro e seguem até 20/02, vão mobilizar, ao todo, 11.173 postos de trabalho, enquanto o período pós-Carnaval (o qual se estende de 27/02 a 08/03) contará com 5.228 escalas extraordinárias.</p></p>
-<p><p>Apesar de em 2020 o reforço da segurança no pós-Carnaval ter uma semana a menos que em 2019, houve crescimento da procura de blocos e outras agremiações por policiamento, o que se refletiu no maior quantitativo de recursos e pessoal.</p></p>
-<p><p>"Este ano modificamos o procedimento de solicitação de policiamento, com a implantação do formulário eletrônico pelo site da SDS, extinguindo o antigo modelo em papel. O objetivo foi não só facilitar os organizadores de agremiações, mas também otimizar nosso planejamento. Com mais informações em menos tempo, pudemos nos preparar melhor para a Operação Carnaval e garantir uma maior cobertura das forças de segurança pública. Com a colaboração da população, com cada cidadão sendo parceiro das polícias e um agente da paz, teremos mais um Carnaval que é exemplo para o País pela sua alegria, riqueza cultural, diversidade e tolerância”, diz o secretário Antonio de Pádua.</p></p>
-<p><p>GALO DA MADRUGADA CONTA COM POSTOS DE COMANDO INTEGRADOS</p></p>
-<p><p>Além dos 4.445 profissionais de segurança pública destacados para assegurar a tranquilidade dos foliões da maior agremiação carnavalesca do mundo, o Governo de Pernambuco trabalha integrado com o Poder Judiciário Estadual no Galo da Madrugada, por meio do Juizado do Folião. O serviço vai funcionar apenas no dia do desfile (sábado, 22/02), das 13h às 22h, no Fórum Thomaz de Aquino (Avenida Martins de Barros) e na Estação Central do Metrô do Recife.</p></p>
-<p><p>No mesmo espaço, estarão de plantão delegados e agentes da Polícia Civil, efetivo da Polícia Militar e dos Institutos de Medicina Legal (IML), de Criminalística (IC) e de Identificação Tavares Buril (IITB), conferindo mais celeridade ao atendimento às pessoas vítimas de delitos de menor potencial ofensivo. Também prestarão o serviço o Tribunal de Justiça de Pernambuco (TJPE), o Ministério Público Estadual (MPPE) e a Defensoria Pública.</p></p>
-<p><p>Além disso, serão montados postos de saúde do SAMU e do próprio Galo, bem como plataformas de observação para facilitar o trabalho da PMPE e do CBMPE. Outra frente de atuação se dará com as vistorias do Corpo de Bombeiros, de empresas de telecomunicações e órgãos de controle urbano em palcos, camarotes e outras estruturas montadas ao longo do percurso do desfile. Estarão presentes profissionais da Celpe, Compesa, Emlurb, Dircon, Guarda Municipal, CTTU, Consórcio de Transporte da RMR e Fundação de Cultura da Cidade do Recife.</p></p>
-<p><p>MONITORAMENTO EM TODAS AS REGIÕES DO ESTADO</p></p>
-<p><p>De 21 a 27 de fevereiro, a SDS e seus órgãos operativos coordenarão as ações da segurança pública a partir de três Centros Integrados de Comando e Controle, que cobrirão todo o Estado. Eles terão como base o Recife, abrangendo também a Região Metropolitana; Caruaru, que alcançará o Agreste e a Zona da Mata; e Serra Talhada, responsável pelo monitoramento do Sertão. Para agilizar a resposta do policiamento, esses centros contam com um sistema integrado de acompanhamento de ocorrências, assim como ações integradas com operações de inteligência.</p></p>
-<p><p>Os Centros Integrados de Comando e Controle também são abastecidos por videomonitoramento de áreas estratégicas, como o Recife Antigo, o Sítio Histórico de Olinda, as vias do Centro do Recife por onde passa o Galo da Madrugada, os Polos Descentralizados da Capital e nos municípios de Ipojuca, Caruaru e Petrolina. Olinda, por exemplo, contará com duas Plataformas de Observação Elevada (POE): uma na PE-15 e outra na Praça do Carmo. Na capital, os dois Centros Integrados de Comando e Controle Móvel (CICCM) ficarão no Bairro do Recife e na Ilha Joana Bezerra.</p></p>
-<p><p>EFETIVO DISTRIBUÍDO POR TODAS AS REGIÕES -</p></p>
-<p><p>Os dois principais polos carnavalescos de Pernambuco, que são o Sítio Histórico de Olinda e o Recife Antigo, contarão, respectivamente, com 7.262 e 5.223 postos de trabalho ativados na segurança durante o Carnaval propriamente dito (de 21/02 a 26/02). Para as demais áreas dessas cidades e os outros 13 municípios da RMR, estão previstos 10.080. No Agreste e na Zona da Mata, haverá 12.427 escalas de reforço, enquanto no Sertão elas serão, ao todo, 5.101.</p></p>
-<p><p>CORREGEDORIA E OUVIDORIA EM ATUAÇÃO ITINERANTE – A sede da Corregedoria Geral da SDS estará de plantão 24 horas para atender cidadãos que queiram denunciar possíveis abusos cometidos por servidores da segurança pública.</p></p>
-<p><p>O órgão funciona na Avenida Conde da Boa Vista, nº 428, em frente ao Atacado dos Presentes do bairro da Boa Vista, Centro do Recife. Os telefones para contato são (81) 3184-2714 e (81) 3184-2756. Da mesma forma, equipes da Corregedoria estarão percorrendo os principais focos de animação, realizando a fiscalização do trabalho das forças de segurança.</p></p>
-<p><p>A Ouvidoria da SDS estará em modo itinerante apenas no Galo da Madrugada, no sábado 22/02, ao lado da Casa da Cultura, das 8h às 16h. De segunda a sexta-feira, atende por telefone pelo 181 ou pelo 0800-081-5001 (ligação gratuita e sem identificação de chamada), sempre das 7h às 19h. Pelo Whatsapp, o contato é (81) 99488-3455 e o e-mail é ouvidoria@sds.pe.gov.br. A sede da Ouvidoria funciona na Rua São Geraldo, 110, bairro de Santo Amaro, Centro do Recife, e está aberta de segunda a sexta, das 8h às 17h.</p></p>
-{% endraw %}

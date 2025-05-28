@@ -1,30 +1,0 @@
----
-id: 12606604
-date: "2020-12-04T07:00:52Z"
-last_modified_at: null
-tags:
-  - "filho"
-  - "joao-cavalcanti"
-  - "louro-jose"
-  - "maradona"
-  - "paulo"
-  - "pele"
-categories:
-  - "noticias"
-title: "Maradona  e Pel\u00e9. Por Jos\u00e9 Paulo Cavalcanti Filho"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/12/Maradona_pele_elgrafico.jpg"
----
-{% raw %}
-<p><p>Por José Paulo Cavalcanti Filho, em texto expandido de sua coluna semanal no JC</p></p>
-<p><p>Maradona se foi. Lamentamos. Quando um Deus morre, todos nós também morremos um pouco. Pelé ainda não, graças. Continua brilhando para quem o viu jogando e no imaginário de seu povo. Eterno. Mas não escapou da rádio francesa RFI que, faz pouco, deu notícias de sua partida. A Google da França não distribuiu o texto. Mas deve ter sido só elogios. Que foi o L’Equipe, da imprensa de lá, quem pela primeira vez (em 12/7/1960) o chamou de “Rei Pelé”. Saio dos personagens para uma visão de quem fala deles. Numa seção ainda pouco valorizada, em nossos jornais. A dos obituários. Os primeiros começaram com o Times, de Londres. E foram em seguida modernizados, pelo Independent. A Economist logo incluiu a seção, nas suas páginas. Para dar um pouco de humanidade, à revista. E o de maior sucesso, alí, foi um redigido por Ann Whoe. O obituário de Jesus Cristo.</p></p>
-<p><p>Nenhum jornal é mais famoso, nesse campo, que o New York Times. Hoje, único que tem pelo menos um leitor em cada um dos 193 países da ONU. Com 7 milhões de assinantes digitais. Mês passado, a receita com esses assinantes, afinal, superou a do jornal em papel. Uma tendência. Bom lembrar que seu faturamento, por ano, é superior a 10 bilhões de reais. Só para dar inveja aos jornais brasileiros. Apesar deste sopro de modernidade as notícias mais lidas, por lá, continuam a ser Obituarys (obituários) e Weddings (casamentos). Bem visto o jornal, qualquer jornal do mundo, é sobretudo provinciano. Pertence à cidade em que nasceu. E A.M. Rosenthal disse a frase definitiva: “Se você tiver que morrer, é melhor morrer no Times”.</p></p>
-<p><p>Para atingir qualidade superior jornais, usualmente, contratam escritores consagrados para a tarefa. E sugerem aos leitores, como o NY Times, “Se você tiver que morrer, por favor morra antes do meio dia, no mais tardar às 14 horas. Ah, e procure também não morrer aos sábados”. Algumas regras, por lá, ficaram famosas. Jamais usar a palavra Morte. Melhor Foi chamado por Deus. Ou, como está num dos obituários, Partiu dessa vida na sua Harley-Davidson. Outra regra importante é conversar, antes, com personalidades mais velhas. E prometer sigilo. “Porque elas não terão a chance de enviar uma carta à redação para reparar eventuais injustiças”, explicam. Antes que me esqueça, o jornal também não indica hora nem local de velórios e enterros. E suicidas não entram no NY Times.</p></p>
-<p><p>Engraçado é que muitos obituaristas ficam, secretamente, rezando para que as pessoas resenhadas morram. Por uma razão simples. É que quase todos, freelanceres, só recebem por seus trabalhos quando publicados. Richard Pearson, obituarista do Washington Post, escreveu ele mesmo o texto que desejava fosse publicado em sua morte: “Richard Pearson foi morto por um marido ciumento”. Parecido com o que Millor Fernandes profetizou para ele próprio: “Escritor velhinho assassinado por um surfista louro, que o encontrou na cama com sua namorada”. Ernest Hemingway soube de sua morte pela imprensa. Explica-se. Em janeiro de 1954, um pequeno avião em que estavam, ele e sua mulher, Mary Welsh Hemingway, caiu na selva de Uganda. E, segundo Gay Talese, “Hemingway adorou as matérias sobre sua morte”. Colou todas num caderno e começava o dia com taça de champagne gelada e a leitura de algumas dessas notícias.</p></p>
-<p><p>Pelé não foi a única personalidade que passou por esse constrangimento. O mesmo se deu com Ali Khamensei (Guia Supremo do Irã), Brigitte Bardot, Clint Eastwood, Jimmy Carter, Raul Castro, Sophia Loren. Também Mark Twain, num caso muito conhecido. Em 1897, um jornalista foi até sua casa e soube que estava prestes a morrer. Publicou seu obituário. Só que não era ele, mas um primo. O próprio Twain comentou esse fato, em seu artigo no The New York Journal de 2/7 deste ano, que começou pela famosa frase “Como os leitores estão vendo, o relato sobre minha morte foi um pouco exagerado”.</p></p>
-<p><p>Dois obituários ficaram especialmente famosos. Um, de Alfred Nobel, grande fabricante de armas e do balistite, precursor de outros explosivos militares sem fumaça. Como a dinamite. Ao todo, foram 355 inventos. Em 1888, teve seu obituário publicado em um jornal francês. Por engano, que morto era seu irmão Ludug. Título do obituário, “O mercador de morte morreu”. Nobel ficou traumatizado. E, no último testamento que fez, criou Prêmio para redimir seu nome. Morreu, na sua vila de San Remo (Itália), de uma hemorragia cerebral. Em 1896, com apenas 63 anos. Ser milionário não foi suficiente para estender sua vida. Como tantos mais.</p></p>
-<p><p>Outro de Marcus Mosiah Garvex, um jamaicano que criou a Associação Universal para o Progresso Negro e se autoproclamou Presidente Provisório da África, em 1920. Figura controversa, colaborou com a Ku Klux Klan e foi condenado pelo crime de fraude fiscal. Passou dois anos preso. Em 1940, sofreu dois derrames. O que se diz é que a morte foi causada pela leitura de seu obituário, em um jornal Londrino.</p></p>
-<p><p>Joseph Mitchell, que escrevia obituário para o New Yorker, acabou famoso por uma frase. Quando leitores o criticavam, por escrever sobre gente sem maior importância, respondeu: “Eles são tão grandes quanto você, seja você quem for”. Tudo a partir de uma verdade translúcida, “A morte é democrática” – palavras de Carlos Nejar em seu último livro (O Evangelho Segundo o Vento). Maradona ocupou enorme espaço na mídia. Merecido. Mas, nem de longe, vai se comparar ao Rei Pelé. Daqui a muitos anos, esperamos todos.</p></p>
-{% endraw %}

@@ -1,34 +1,0 @@
----
-id: 12595273
-date: "2020-01-27T11:19:26Z"
-last_modified_at: null
-tags:
-  - "aedes-aegypti"
-  - "falta"
-  - "saneamento"
-categories:
-  - "noticias"
-title: "Falta saneamento e sobra Aedes Aegypti"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/01/saneamento.jpg"
----
-{% raw %}
-<p><p>Por Roberta Grabert, em artigo enviado ao blog</p></p>
-<p><p>Este ano completo 30 anos de formada na Faculdade de Medicina da Universidade de São Paulo (USP). Desde 1985, quando era caloura, lembro do burburinho que escutava, mas não entendia, sobre um provável surto de Dengue e do crescimento do mosquito Aedes Aegypti. Lembro do ‘pessoal da preventiva’ falando sobre o descaso das autoridades com a questão já há época. Mais de trinta anos se passaram, vários foram os avanços na medicina, a tecnologia invadiu nosso cotidiano, podemos usar o google, GPS, até o prontuário é eletrônico, mas os surtos de Dengue, Chikungunya e Zika continuam firmes e fortes, carregados pelos ‘Aedes’ e pelo descaso dos nossos governantes. Que preferem gastar 2 bilhões em fundo eleitoral do que em saneamento básico - outro setor que não mudou ou evoluiu nesses trinta anos.</p></p>
-<p><p>A relação entre saneamento básico e saúde é antiga. O homem ao conviver em sociedade, descobriu que o acúmulo de sujeira e dejetos estava associado ao aparecimento de doenças, o que motivou o desenvolvimento dos cuidados com as águas e os resíduos. Sistemas de irrigação, canalização e construções de diques foram desenvolvidos na antiguidade. Hipócrates, na Grécia antiga já instruía médicos quanto à higiene.</p></p>
-<p><p>Aqui no Brasil em 1903, assume como diretor geral de Saúde Pública, cargo equivalente ao de Ministro da Saúde, o Dr. Oswaldo Cruz, que mudaria a realidade do saneamento no nosso país à época. Grande parte dos médicos e da população acreditava que a febre amarela se transmitia por contato. Oswaldo Cruz descobriu que transmissor da febre amarela era um mosquito e iniciou a guerra contra o Aedes Aegypti!</p></p>
-<p><p>Em 1955 conseguimos erradicar o ‘Aedes’ no Brasil, que só voltaria, importado e em pequena quantidade, em 1967, graças ao relaxamento das medidas preventivas. Já o vírus da Dengue tem seus primeiros registros no Brasil em 1981-82. Em 1986 iniciam-se as epidemias da doença no Rio de Janeiro e algumas capitais do nordeste, desde então tornaram-se um problema nacional e pioram a cada ano.</p></p>
-<p><p>Em 2019 os registros da Dengue aumentaram 488% na comparação com 2018. Em 2013 chega ao Brasil o vírus Chikungunya e em 2015 o Zika vírus, nos colocando nos noticiários, devido aos casos de microcefalia registrados no nordeste do Brasil. Não comentamos muito, mas há também um aumento da Síndrome de Guillain-Barré, polineuropatia autoimune, que pode ocorrer após infecção viral e muitas vezes é intratável, levando à incapacidade.</p></p>
-<p><p>Mesmo sabendo da estória acima, nossos parlamentares e governantes foram incapazes de olhar com atenção para a melhoria, tão necessária do saneamento básico no Brasil. Além das doenças citadas acima, a diarreia ainda causa muitas mortes no nosso país. Os cidadãos mais afetados, evidentemente, são as crianças que vivem em situação de pobreza.</p></p>
-<p><p>Ano passado tive o desprazer de assistir a todas as audiências públicas da comissão especial que discutiu o “novo” marco do saneamento. A experiência foi reveladora. Aprendi muito, foram meses ouvindo especialistas repetindo que no Brasil são mais de cinquenta milhões de pessoas sem água tratada, mais de cem milhões sem esgoto e que cada real investido em saneamento gera uma economia de 4 reais em saúde. Houve deputados que se colocaram contra a reforma, repetindo que saneamento é função exclusiva do estado e que o problema era única e exclusivamente de falta de investimentos.</p></p>
-<p><p>Nenhuma das evidências ou soluções parecia sensibilizar os congressistas. Para eles, manter os salários dos altos funcionários das estatais, responsáveis pelo saneamento, parecia muito mais importante do que crianças morrendo de diarreia ou Zika. Esqueciam-se, ao discursar, de olhar para frente e ver os gráficos expostos no slide projetado no plenário, demonstrando que com aumento dos investimentos dos governos nas empresas de saneamento públicas, não havia melhora para o cidadão, mas um gasto desproporcional com pessoal, que não resultava em melhoria para o cidadão na ponta.</p></p>
-<p><p>Bem, ao final das audiências, sob protestos cínicos, o relator conseguiu ler seu voto, que mantinha a reforma e a PEC foi aprovada integralmente na comissão.</p></p>
-<p><p>Até a implementação das reformas e das privatizações, algumas medidas podem ser adotadas. Declaramos guerra ao ‘Aedes’ e estamos perdendo, mas não podemos desistir. Devemos falar e educar a todos, desde os profissionais de saúde até as crianças. Educar a população e mostrar que se formos responsáveis conseguiremos diminuir os surtos.</p></p>
-<p><p>As dicas mais comuns e eficazes são: evitar os nascedouros, distribuir e usar repelentes, principalmente durante o dia, pois o ‘Aedes’ tem hábitos diurnos, investir pesadamente em tecnologia e aprofundar as pesquisas tanto nos estudos da vida e genética do mosquito como no desenvolvimento de vacinas e medicamentos eficazes. Aconselhamento e planejamento familiar são imprescindíveis no caso de Zika e os testes rápidos devem ser realizados sempre que houver suspeita seja de Dengue, Zika ou Chikungunya.</p></p>
-<p><p>Há no mercado uma vacina para Dengue, mas a cobertura ainda não é boa o suficiente para que façamos vacinação em massa, como fizemos com a febre amarela, na época de Oswaldo Cruz. Não há ainda vacina para Zika e Chikungunya, logo para evitar o contágio o melhor é não ser picado.</p></p>
-<p><p>Os esgotos a céu aberto e os lixões têm que ser eliminados. A água deve ser tratada adequadamente, e caso haja algum problema, as ações de correção iniciadas prontamente. À população cabe notificar e não parar enquanto não houver melhoras, além de entender que parte da solução é de responsabilidade de cada cidadão.</p></p>
-<p><p><strong>Roberta Grabert</strong></p></p>
-<p><p>Médica ginecologista e obstetra formada há 29 anos pela Faculdade de Medicina da Universidade de São Paulo (FMUSP). Especialista em saúde do movimento Livres e membro da Sogesp/Febrasgo. Pós graduada em sexualidade humana e com MBA em gestão de saúde. Possui experiência em sexualidade humana, vaginismo, pré-natais de risco e laser fotona para rejuvenescimento intimo, ninfoplastia, tratamento da atrofia vaginal, incontinência urinária e tratamentos do colo uterino como HPV, etc.</p></p>
-{% endraw %}

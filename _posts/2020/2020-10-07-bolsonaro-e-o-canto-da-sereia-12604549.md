@@ -1,36 +1,0 @@
----
-id: 12604549
-date: "2020-10-07T17:20:58Z"
-last_modified_at: null
-tags:
-  - "bolsonaro"
-  - "cantor"
-categories:
-  - "noticias"
-title: "Bolsonaro e o canto da sereia"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/09/bolsonaro-onu-discurso-2020.jpg"
----
-{% raw %}
-<p><p>Por Allan Augusto Gallo Antonio, em artigo enviado ao blog</p></p>
-<p><p>De acordo com a Mitologia Grega , sereias são seres metade mulher e metade peixe capazes de atrair e encantar qualquer um que as ouvisse. Seu número variava muito e, de acordo com a lenda, viviam em uma belíssima ilha no mar Mediterrâneo. Ainda de acordo com o relato mitológico, a sedução provocada pelas sereias ocorria primordialmente por meio de seu canto. Os marinheiros descuidados que eram atraídos pela belíssima canção se aproximavam e acabavam sendo levados para as profundezas do mar.</p></p>
-<p><p>A alegoria das sereias parece ter origem grega, mas a tragédia do naufrágio pode adquirir contornos bem brasileiros, quando medidas de caráter populista parecem soar tal qual o doce canto das sereias aos ouvidos da classe política.</p></p>
-<p><p>No caso mais recente, o encantamento parece ter começado quando o presidente da República, Jair Bolsonaro, anunciou na última segunda, 28 de setembro, a criação do Renda Cidadã, programa que deve substituir o Bolsa Família e diversos outros programas de transferência de renda. O relator do Orçamento de 2021, que também relata a Proposta de Emenda à Constituição (PEC) do Pacto Federativo e a chamada "PEC Emergencial", senador Marcio Bittar (MDB-AC), afirmou que o programa será incluído nos textos em debate no Congresso. Tudo isso representou um péssimo sinal, talvez um dos sinais mais tenebrosos da administração Bolsonaro até aqui.</p></p>
-<p><p>Com a instituição do auxílio emergencial por meio da Lei 14.018/20, o Presidente da República passou a gozar de uma aprovação de cerca de 40% da população, segundo pesquisa do IBOPE divulgada na última quinta-feira, 24 de setembro. É inegável que o chefe do executivo já possuía uma fiel base de apoio, mas o crescimento exponencial da aprovação parece ser o reflexo natural de medidas populistas como a do auxílio emergencial.</p></p>
-<p><p>Ao que tudo indica, não parece haver grande componente ideológico nesse crescimento de popularidade, trata-se de um cálculo bastante simples e pragmático. Qualquer benefício dado - mesmo que o custo futuro seja perverso - dá aos que foram assistidos, a sensação de terem sido beneficiados pela ação governamental. Assim, é fácil concluir que, no contexto de uma das piores crises sanitárias dos últimos cem anos, onde a economia encontra-se combalida e as pressões sociais e psicológicas só intensificam os efeitos danosos da crise geral, a criação de um auxílio governamental ou mesmo um programa de assistência perpétuo como o Renda Cidadã é ingrediente indispensável para a reeleição. Lula sabia disso, Bolsonaro também sabe.</p></p>
-<p><p>A plataforma liberal e de austeridade do governo está cada vez mais desfigurada. A destruição dessa plataforma, e consequente lançamento do país no penhasco da insolvência parece ser culpa não apenas do Poder Executivo, mas também do Poder Legislativo com seu corporativismo latente e da Sociedade Civil, que dormiu em berço esplêndido pensando que a conta "da festa" nunca chegaria.</p></p>
-<p><p>Não é novidade que o Estado brasileiro se encontra em processo falimentar. Apenas para se ter uma ideia, o próprio Ministério da Economia estima que o déficit primário nas contas do governo deve somar R? 787,449 bilhões até o final do ano, e essa conta impagável será empurrada para o pagador de impostos. Soma-se a esse relato apavorante, o desespero público do Ministro da Economia Paulo Guedes tentando de todas as formas encaixar um novo tipo de tributo, descrito por muitos como uma "nova CPMF". Afinal de contas, que tipo de liberal propõe reiteradamente a criação de um novo tributo?</p></p>
-<p><p>O certo é que não apenas o Ministro da Economia está dando ouvidos ao canto da sereia, tentando buscar soluções fáceis e populistas para ressuscitar a massa falida que é o Estado brasileiro. Bolsonaro segue na mesma linha quando propõe a criação de um programa como o Renda Cidadã.</p></p>
-<p><p>Qualquer liberal diante da proposta de criação de um programa de transferência de renda faz apenas duas perguntas: Quanto custa? Quem paga?</p></p>
-<p><p>Pois bem, parece que até o momento o governo não soube dizer o quanto vai custar o programa. Estima-se que, individualmente, o valor do auxílio será em torno de R? 300,00. Tomando esse valor como base e sendo bem conservador, é razoável dizer que o custo total fique acima dos 30 bilhões de reais anuais, pois somente o bolsa família, nos moldes atuais, custa 28 bilhões de reais por ano.</p></p>
-<p><p>Não é difícil concluir que um gasto desse porte não será suportado pelo Estado, que já se encontra quase falido. É aqui que, mais uma vez, o presidente torna a dar ouvidos ao canto da sereia, pois para custear a empreitada patriótica verde-amarela, o governo sinalizou a ideia de colocar um limite no pagamento de precatórios e rolar a dívida excedente.</p></p>
-<p><p>Para aqueles que não estão familiarizados com os termos, um precatório é uma espécie de requisição de pagamento de determinada quantia a que o Governo perdeu em processo judicial. Em termos simples, trata-se do valor a ser pago em qualquer processo que o governo tenha perdido. Atualmente, no Brasil, existem 55 bilhões de reais a serem pagos anualmente em precatórios.</p></p>
-<p><p>Parte da proposta do governo para financiar o programa Renda Cidadã é pagar somente 16 bilhões de reais referentes aos precatórios e rolar os outros 39 bilhões para o próximo ano. Nessa altura do campeonato, acredito que não é necessário dizer, que caso o governo realmente opte por agir de tal forma, haverá incidência de juros sob o valor não pago.</p></p>
-<p><p>Além do componente moral, altamente questionável, presente na decisão de deixar de pagar os direitos de alguém, o governo empurrará para o pagador de impostos (inclusive para o beneficiário do programa renda cidadã) a conta dos juros da dívida.</p></p>
-<p><p>Num contexto globalizado no qual vivemos, onde há profunda relação de dependência entre as nações e os agentes produtores de riqueza, não é preciso dizer que o mercado reagiu muito mal ao anúncio do governo. Mas não poderia ser diferente, pois afinal, quem decidiria investir em um país, onde empurrar dívidas "com a barriga" é prática recorrente?</p></p>
-<p><p>Seria importante para a nação, que o governo parasse de buscar soluções fáceis e populistas para resolver problemas complexos. No entanto, penso que, como a maioria dos liberais, há pouca esperança de que isso aconteça.</p></p>
-<p><p>Para finalizar, cito o saudoso diplomata, economista e liberal de escola Roberto Campos, "o Brasil nunca perde uma oportunidade de perder oportunidades."</p></p>
-<p><p>Allan Augusto Gallo Antonio é advogado formado pela Universidade Presbiteriana Mackenzie (UPM) e mestrando em economia e mercados pela mesma instituição. Pesquisador do Centro Mackenzie de Liberdade Econômica</p></p>
-{% endraw %}

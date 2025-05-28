@@ -1,29 +1,0 @@
----
-id: 12594915
-date: "2020-01-15T14:26:15Z"
-last_modified_at: null
-tags:
-  - "marilia-arraes"
-  - "presidente"
-  - "recife"
-categories:
-  - "noticias"
-title: "Presidente do PT no Recife demonstra m\u00e1 vontade com Mar\u00edlia Arraes"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2018/08/marilia-arraes.jpg"
----
-{% raw %}
-<p><p>O presidente do PT do Recife, Cirilo Mota, convocou uma reunião para esta quarta-feira (15) para apresentar "importante resolução" da executiva na capital pernambucana. Aliado do senador <a href="https://blogs.ne10.uol.com.br/jamildo/2019/12/26/humberto-costa-acena-para-o-psb-e-prega-uniao-contra-bolsonaro/">Humberto Costa</a>, Mota falou sobre um indicativo para que os petistas se mantenham na Frente Popular, com o PSB. Se essa fosse a decisão final para as próximas eleições, o partido não lançaria a candidatura da deputada federal <a href="https://blogs.ne10.uol.com.br/jamildo/2019/11/22/lula-defendeu-abertamente-nome-de-marilia-arraes-para-disputa-no-recife-em-reuniao-do-diretorio-do-pt/">Marília Arraes</a> e apoiaria o primo dela <a href="https://blogs.ne10.uol.com.br/jamildo/2019/11/29/no-psb-presidente-cita-possibilidade-de-candidatura-de-joao-campos/">João Campos</a>, filho do ex-governador Eduardo Campos.</p></p>
-<p><p>"O caminho que a executiva do PT encaminha para o debate é um caminho de aliança", afirmou ao <a href="https://jc.com.br/">Jornal do Commercio</a>.</p></p>
-<p><p>A entrevista foi um dia após o <a href="https://blogs.ne10.uol.com.br/jamildo">Blog de Jamildo</a> publicar a <a href="https://blogs.ne10.uol.com.br/jamildo/2020/01/14/para-se-afastar-de-bolsonaro-psl-de-luciano-bivar-deve-apoiar-joao-campos-no-recife-em-2020/">articulação do PSL de Luciano Bivar, após o rompimento com Jair Bolsonaro, para voltar a se aliar ao PSB</a>.</p></p>
-<p><p>O presidente do partido na capital pernambucana apresentou ao <a href="https://jconline.ne10.uol.com.br/">JC</a> o texto de uma resolução aprovada no último dia 8, em que a executiva municipal defende o apoio aos socialistas e a prioridade à formação de uma chapa de vereadores. De acordo com Mota, o objetivo é de dobrar o número atual, que é de dois parlamentares, com <a href="https://blogs.ne10.uol.com.br/jamildo/2018/03/09/joao-da-costa-pode-ganhar-mandato-de-vereador-no-recife-com-alianca-entre-pt-e-psb/">João da Costa</a> e Jairo Britto. Além deles, que são pré-candidatos à reeleição, a chapa deve incluir o ex-vereador <a href="https://blogs.ne10.uol.com.br/jamildo/2019/01/23/osmar-ricardo-anuncia-retorno-ao-pt/">Osmar Ricardo</a>, e a presidente do Sindicato dos Bancários, Suzaneide Rodrigues, por exemplo.</p></p>
-<p><p>A resolução defende também a participação do PT nos governos <a href="https://blogs.ne10.uol.com.br/jamildo/2019/02/01/pt-indica-oscar-barreto-para-secretaria-de-saneamento-da-pcr/">Geraldo Julio, através da pasta de Saneamento</a>, e Paulo Câmara, com a <a href="https://blogs.ne10.uol.com.br/jamildo/2018/12/28/dilson-peixoto-fica-com-desenvolvimento-agrario/">Secretaria de Desenvolvimento Agrário</a>, a Empresa Pernambucana de Transportes Intermunicipais (EPTI) e a Secretaria Executiva de Desenvolvimento Social.</p></p>
-<p><p>Para Cirilo Mota, a aliança é ainda uma estratégia contra os possíveis candidatos de direita. "Nossa principal tática é derrotar o governo Bolsonaro", explicou. <a href="https://blogs.ne10.uol.com.br/jamildo/2019/12/27/humberto-costa-diz-que-defende-alianca-entre-pt-e-psb-no-recife-por-apoio-nacional/">Humberto Costa usa o mesmo argumento</a>.</p></p>
-<p><p>Mota alegou também que a aliança com o PSB foi vitoriosa em 2018. "Foi nesse campo de aliança que os governos do PT se elegeram, com João Paulo [hoje no PCdoB, após romper com os petistas por causa da divisão do partido entre lançar ou não Marília Arraes para o Governo de Pernambuco] e João da Costa", disse o presidente do partido no Recife.</p></p>
-<p><p>Na última eleição, quando a candidatura de <a href="https://blogs.ne10.uol.com.br/jamildo/2018/10/07/rifada-pelo-pt-marilia-arraes-e-petista-mais-votada-e-leva-partido-de-volta-a-camara-em-pe/">Marília Arraes foi retirada</a> para viabilizar o retorno do PT à aliança, Humberto Costa foi reeleito para o Senado e a parlamentar e Carlos Veras para a Câmara dos Deputados. </p></p>
-<p><p>Na <a href="https://blogs.ne10.uol.com.br/jamildo/2018/10/07/no-mesmo-palanque-humberto-e-jarbas-sao-eleitos-para-o-senado/">mesma chapa que Humberto Costa, foi eleito Jarbas Vasconcelos (MDB)</a>, opositor dos petistas.</p></p>
-<p><p><a href="https://blogs.ne10.uol.com.br/jamildo/2018/10/05/troca-troca-eleitoral-que-politicos-ja-brigaram-ou-foram-aliados/">PT e PSB romperam no Recife em 2012</a>, quando Eduardo Campos aproveitou um racha no partido, que não lançou João da Costa à reeleição, para viabilizar a candidatura de Geraldo Julio. Em 2014, o PT entrou na chapa de Armando Monteiro Neto (PTB), formando a coligação também na chapa proporcional, e não conseguiu eleger nenhum deputado federal. Já em 2018, também dividido após a desistência da postulação de Marília Arraes, os petistas formaram uma chapa "puro sangue".</p></p>
-<p><p>Para 2020, a deputada tenta viabilizar a candidatura à Prefeitura do Recife. Quando visitou o Recife após ter sido solto, em novembro, o <a href="https://blogs.ne10.uol.com.br/jamildo/2019/11/17/o-que-a-visita-de-lula-ao-recife-diz-sobre-o-pt-nas-eleicoes-2020/">ex-presidente Lula (PT), visitou Marília Arraes</a>. Porém, <a href="https://blogs.ne10.uol.com.br/jamildo/2019/11/19/nao-falamos-de-eleicao-diz-joao-campos-sobre-encontro-com-lula/">se encontrou também com João Campos</a>.</p></p>
-{% endraw %}

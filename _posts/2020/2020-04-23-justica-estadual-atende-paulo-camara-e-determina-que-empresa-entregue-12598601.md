@@ -1,103 +1,0 @@
----
-id: 12598601
-date: "2020-04-23T15:29:34Z"
-last_modified_at: null
-tags:
-  - "catende"
-  - "empresa"
-  - "justica"
-  - "paulo-camara"
-  - "pernambuco"
-  - "respiradores-mecanicos"
-  - "transporte-interestadual"
-categories:
-  - "noticias"
-title: "Justi\u00e7a Estadual atende Paulo C\u00e2mara e determina que empresa entregue respiradores comprados por Pernambuco"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/12/paulo-camara-radio-jornal-9.jpg"
----
-{% raw %}
-<p><p>A guerra dos respiradores para o coronavírus entre a Prefeitura do Recife e a União ganha um novo capítulo, agora entre o governo do Estado e os fornecedores de equipamento.</p></p>
-<p><p>“O Estado necessita, com urgência, dos ventiladores pulmonares já adquiridos, ressaltando a grave lesão à saúde pública de todo o estado a concretizar-se em caso de indeferimento da medida, tendo em vista que os inúmeros leitos de UTI já destinados ao tratamento da COVID-19 no hospital não possuirão o principal equipamento necessário para o enfrentamento das formas graves da enfermidade, colocando em risco de morte vários doentes”, explicou o magistrado.</p></p>
-<p><p><a href="https://blogs.ne10.uol.com.br/jamildo/2020/03/23/bolsonaro-tentou-confiscar-ventiladores-pulmonares-comprados-pelo-recife-trf5-barrou-iniciativa/"><strong>Bolsonaro tentou confiscar ventiladores pulmonares comprados pelo Recife. TRF5 barrou iniciativa</strong> </a></p></p>
-<p><p>A Justiça Estadual em Pernambuco atendeu a ação da Procuradoria Geral do Estado (PGE) e determinou que a Intermed entregue os respiradores comprados por Pernambuco.  No caso do Estado, o próprio ministério da Saúde já havia informado que os equipamentos deveriam ser entregues por terem sido comprados e empenhados antes do pedido de retenção pelo Ministério.</p></p>
-<p><p>Na ação, a empresa é compelida a cumprir o objeto do contrato, firmado com o Estado de Pernambuco, para fornecimento dos 100 equipamentos de ventilação pulmonar, nas condições descritas no contrato, abstendo-se de dar destinação diversa aos equipamentos até total satisfação da obrigação contratual com o Estado, inclusive determinando-se que forneça, no prazo máximo de 24 (vinte e quatro) horas, os 35 (trinta e cinco) equipamentos que já deveriam ter sido entregues ao Estado-Autor, desde o último dia 18/04/2020.</p></p>
-<p><p>A Intermed é uma das três fornecedoras de equipamento da PCR, que havia sido acionada pela União no começo da crise da pandemia.</p></p>
-<p><p>A decisão foi do juiz de Direito Teodomiro Noronha Cardoso, da 3ª Vara da Fazenda Pública.</p></p>
-<p><p>“Defiro o pedido de tutela de urgência formulado pelo autor, ESTADO DE PERNAMBUCO, para determinar a Busca e Apreensão, com força mandamental, art. 139, IV, do Código de Processo Civil, na sede da INTERMED EQUIPAMENTOS MÉDICO HOSPITALAR LTDA, devendo o Estado de Pernambuco implementar as condições para o seu imediato cumprimento, para recebimento de 35 (trinta e cinco) ventiladores pulmonares, adquiridos por meio do Contrato nº 00304/2020-FES-PE-530401, referente ao primeiro lote, de acordo com a cláusula 4.1 e Nota de Empenho 2020NE003652, de 20/03/2020”, escreveu.</p></p>
-<p><p>O magistrado determinou que, caso não fosse exitosa a busca e apreensão, a empresa INTERMED EQUIPAMENTOS MÉDICO HOSPITALAR LTDA, por seus representantes legais, deverá, no prazo de (48) horas, entregar os 35 (trinta e cinco) ventiladores ao Estado de Pernambuco, em ambos os casos.</p></p>
-<p><p>De acordo com o Estado, a primeira entrega parcelada dos equipamentos estava prevista, neste primeiro lote, para 18.04.2020.</p></p>
-<p><p>“Ocorre que a entrega não foi efetivada em razão da intervenção do Governo Federal que requisitou a totalidade dos bens já produzidos e disponíveis a pronta entrega, como também a totalidade dos bens cuja produção se encerre nos próximos 180 dias, determinado ainda que fossem obstadas quaisquer medidas tendentes à comercialização dos produtos em estoque e produção”, explica a ação.</p></p>
-<p><p><br /></p>
-<p>O magistrado local cita o caso de Flávio Dino. “O ministro Celso de Melo do STF, mutatis mutandis, na Tutela Provisória/Ação Civil Originária 3.385-MA, concedeu a tutela de urgência, para DETERMINAR que a UNIÃO se abstenha de se APOSSAR dos ventiladores pulmonares adquiridos pelo estado do Maranhão, com a finalidade de cessar a grave ameaça ocasionada à saúde dos pacientes daquele estado, determinando, ainda, que a empresa INTERMED EQUIP. MÉDICO LTDA, forneça 68 (sessenta e oito) ventiladores pulmonares, na forma estabelecida na Nota de Empenho, fixando a multa DIÁRIA de R$ 200.000,00 (duzentos mil reais), em caso de descumprimento”.</p></p>
-<p><p>Veja a sentença abaixo</p></p>
-<p><p>&nbsp;</p></p>
-<p><p><iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/4xM3VbJLH4SnEu" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p></p>
-<p><div style="margin-bottom: 5px;"><strong> <a title="A sentença" href="//www.slideshare.net/JamildoMelo/a-sentena-232532751" target="_blank" rel="noopener noreferrer">A sentença</a> </strong></div></p>
-<p><div><br /></p>
-<p><br /></p>
-<p></div></p>
-<p><div></p>
-<p><p>DECISÃO INTERLOCUTÓRIA</p></p>
-<p><p>DECISÃO COM FORÇA DE MANDADO/OFÍCIO (SENHOR OFICIAL DE JUSTIÇA CUMPRIR COM URGÊNCIA)<br /></p>
-<p>Trata-se de Ação de Obrigação de Fazer, com pedido de tutela de urgência, proposta pelo ESTADO DE PERNAMBUCO, pessoa jurídica de direito público interno, em face de INTERMED EQUIPAMENTOS MÉDICO HOSPITALAR LTDA, pessoa jurídica de direito privado, alegando, em suma, ter firmado com a empresa Ré em 20.03.2020 o Contrato nº 00304/2020-FES-PE-530401 visando a aquisição de ventiladores pulmonares para o enfrentamento ao COVID-19, no quantitativo de 100 unidades, no valor unitário de <strong>R$49.500,00 (quarenta e nove mil e quinhentos reais</strong>), perfazendo o valor global de R$ <strong>4.950.0000,00 (quatro milhões, novecentos e cinquenta mil reais)</strong>, conforme Cláusula Quarta, 4.1 do negócio jurídico contratual, como Foro de eleição na capital deste Estado, Comarca do Recife.</p></p>
-<p><p>Argumenta que já foi emitida nota de empenho - 2020NE003652, datada de 20/03/2020, no valor de R$. 4.950.000,00, para assegurar o pagamento à empresa fornecedora, constando de cláusula contratual a entrega parcelada dos equipamentos, estando prevista a entrega do primeiro lote para 18.04.2020. Ocorre que a entrega não foi efetivada em razão da intervenção do Governo Federal que requisitou a totalidade dos bens já produzidos e disponíveis a pronta entrega, como<br /></p>
-<p>também a totalidade dos bens cuja produção se encerre nos próximos 180 dias, determinado ainda que fossem obstadas quaisquer medidas tendentes à comercialização dos produtos em estoque e produção.</p></p>
-<p><p>O Estado-Autor alerta que a negativa da empresa em fornecer os equipamentos já adquiridos não prospera, visto que o Ministério da Saúde, após encaminhamento de ofício da lavra do Exmo. Governador do Estado de Pernambuco, pronunciou-se “no sentido de orientar que a aludida requisição administrativa não atinja os equipamentos já alienados previamente em favor do Estado de Pernambuco, considerando que o objetivo da requisição administrativa é rigorosamente o mesmo que será atendido com a destinação que o Estado dará aos equipamentos, existindo, nesse particular, total convergência de interesses e propósitos entre as medidas adotadas pelo Ministério da Saúde e pelo Governo do Estado de Pernambuco.” (Ofício nº 121/2020 – Id 60945471).</p></p>
-<p><p>Assim, requer que seja concedida tutela de urgência determinando que a empresa Ré seja compelida a cumprir o objeto do contrato, firmado com o Estado de Pernambuco, para fornecimento dos 100 equipamentos de ventilação pulmonar, nas condições descritas no contrato, abstendo-se de dar destinação diversa aos equipamentos até total satisfação da obrigação contratual com o Estado, inclusive determinando-se que forneça, no prazo máximo de 24 (vinte e quatro) horas, os 35 (trinta e cinco) equipamentos que já deveriam ter sido entregues ao Estado-Autor, desde o último dia 18/04/2020.<br /></p>
-<p>Juntou documentos. Vieram-me conclusos.</p></p>
-<p><p>Brevemente relatados. Passo a decidir</p></p>
-<p><p>1. A Constituição Federal, no art. 5º, XXV, permite a requisição de bens, de propriedade privada, no caso de iminente perigo público, assegurado ao proprietário ulterior indenização.<br /></p>
-<p>2. Todavia, para a requisição de bens das unidades autônomas que formam o pacto federativo (art. 18 da CF) é necessário que a União, a partir dos controles do Poder Legislativo Federal decrete o estado de sítio ou de defesa (arts. 136, § 1º e 137, da CF. Assim, sem o reconhecimento formal destes estados a União não pode requisitar bens dos estados, distrito federal e do municípios, em flagrante desconsideração à autonomia dos estados e municípios, todos, com competência - na visão tripartite - de gestão das políticas sanitárias e gestão dos recursos dos SUS<br /></p>
-<p>- (arts. 194, 195, 196 e 198, da CF) e Lei 8080/90.<br /></p>
-<p>3. Diferentemente da Constituição Brasileira, a Constituição Portuguesa prevê, expressamente, o respeito ao princípio da proporcionalidade, quando a opção for pela declaração do estado de sítio ou de emergência (art. 19º, 4.CP).<br /></p>
-<p>4. Não obstante, pela dicção do legislador-constituinte - art. 5º, § 2º, o regime democrático da Carta Magna brasileira recepcionou o princípio da proporcionalidade.<br /></p>
-<p>5. O Princípio da proporcionalidade, no magistério de Paulo Bonavides, está vinculado aos Direitos Constitucionais e ocorre pela via dos direitos fundamentais. (BONAVIDES, 1997, p. 359).<br /></p>
-<p>6. Logo, o Presidente da República, a partir do controle "a priori", do Poder Legislativo - art. 57, § 6º, I, da CF, depende de autorização - ouvidos os Conselhos - República e Defesa Nacional - para decretar o estado de sítio ou de defesa, o que até agora não decretado.<br /></p>
-<p>7. O decreto, se vier no futuro, a declarar estes estados, se não atender ao princípio da proporcionalidade (Verhältnismässigkeit) não terá a força normativa da constituição e, por isso, será tido por inconstitucional.<br /></p>
-<p>8. Na lição de Canotilho os estados de necessidade da Constituição Portuguesa, em "situações de anormalidades" não são ""estados"" sem Constituição ou fora da Constituição. (CANOTILHO, 2003, p. 1099).<br /></p>
-<p>9. Assim, na visão do Min. Luís Roberto Barroso a interpretação conforme a Constituição funciona como um mecanismo de freio de controle de constitucionalidade (BARROSO, 2001,p. 187), com a declaração de inconstitucionalidade, se não houver compatibilidade da lei infraconstitucional com a força normativa da Constituição; não é somente um critério de hermenêutica, mas de&lt;TB&gt;controle de constitucionalidade (Min. Moreira Alves).</p></p>
-<p><p>10. Bem por isso, o art. 3º, inciso VII, da Lei 13.979/2020, de 06/02/2020, com nova redação da MP 926, de 20/03/2020 - data coincidente com o contrato de aquisições de respiradores pulmonares, firmado pelo Estado de Pernambuco e a Ré INTERMED, não possui força na Constituição para possibilitar que o Min. de Estado da Saúde requisite bens dos estados e municípios, sem a decretação do estado de sítio ou de defesa.</p></p>
-<p><p>10.1 Pela ótica da hermenêutica uma norma de exceção deve ser interpretada restritivamente e não ampliando o sentido, em flagrante desconsideração à autonomia constitucional dos entes federativos, reconhecida pela CF e reafirmada na interpretação da Supremo Corte Brasileira.</p></p>
-<p><p>11. O Min. Marco Aurélio do STF, nos autos da ADI-6.341 reconheceu a legitimidade concorrente de estados e municípios para adotarem medidas de políticas sanitárias, urgentes, de prevenção e combate à pandemia mundial do C o v i d - 1 9 .<br /></p>
-<p>12. O Min. Celso de Melo do STF, mutatis mutandis, na Tutela</p></p>
-<p><p>Provisória/Ação Civil Originária 3.385-MA, concedeu a tutela de urgência, para DETERMINAR que a UNIÃO se abstenha de se APOSSAR dos ventiladores pulmonares adquiridos pelo estado do Maranhão, com a finalidade de cessar a grave ameaça ocasionada à saúde dos pacientes daquele estado, determinando, ainda, que a empresa INTERMED EQUIP. MÉDICO LTDA, forneça 68 (sessenta e oito) ventiladores pulmonares, na forma estabelecida na Nota de Empenho, fixando a multa DIÁRIA de R$ 200.000,00 (duzentos mil reais), em caso de descumprimento.<br /></p>
-<p>13. Logo, é de concluir que o art. 3º, inciso VII, da Lei 13.979, de 06 de março de 2020, com redação da MP 926, de 20/03/2020, coincidentemente, no mesmo dia do negócio jurídico firmando entre o Estado de Pernambuco e a INTERMED não tem força de requisição e, sim, de APOSSAMENTO, como reconheceu, com correção técnico-jurídica o Min. Celso de Mello, proibindo a União de se apossar de bens pertecentes a um estado na vigência de normalidade constitucional.<br /></p>
-<p>14. Desta maneira, o Estado de Pernambuco, ente autônomo do pacto federativo, tem o direito subjetivo em receber os ventiladores pulmonares, conforme Nota de Empenho, objetivando a contenção e combate à pandemia mundial, do Covid-19, direito subjetivo que nasce por força de negócio jurídico, dentre da lei.</p></p>
-<p><p>15 .Estabelece o art.. 300, caput, do CPC, a tutela de urgência será deferida quando forem demonstrados elementos que evidenciem a plausibilidade do direito, bem como o perigo de dano ou o risco ao resultado útil do processo.<br /></p>
-<p>16. Preocupando-me em não adentrar no mérito da demanda, mas tão-somente analisar os requisitos autorizadores do pleito liminar, passo às questões de fato e de direito postas na inicial, juntamente com os documentos que corroboraram os argumentos do autor.</p></p>
-<p><p>17. Conforme se depreende dos documentos acostados, especialmente o documento de Id 60945471, é totalmente injustificada a recusa da empresa Ré em fornecer os equipamentos adquiridos pelo Estado de Pernambuco, dado que o próprio Ministério da Saúde já esclareceu, tanto aos representantes da empresa quanto ao Estado que é plenamente possível atender ao compromisso contratual firmado previamente com o ESTADO, mesmo diante da solicitação formulada pelo Ministério da Saúde, posto que além de se tratar de contrato assinado previamente com o ESTADO, antes da solicitação formulada pela União.<br /></p>
-<p>18. Resta patente, enfim, que não há como a empresa RÉ deixar de atender ao compromisso firmado, notadamente considerando que o fornecimento dos equipamentos visa atender rigorosamente a mesma finalidade do que foi solicitado pelo Governo Federal, qual seja, suprir o atendimento aos pacientes da COVID-19.<br /></p>
-<p>19. Registre-se, por oportuno, o agravante de que, no caso do ESTADO, o não fornecimento do equipamento já adquirido já está causando um dano presente e grave, posto que a União vem requisitando equipamentos de todos os fornecedores e fabricantes do país, devendo ser priorizado o fornecimento aos entes públicos que já adquiriram previamente, sobretudo em relação aos equipamentos de utilização emergencial, como é o caso dos respiradores, que já estão faltando nos leitos de UTI disponibilizados pelo ESTADO para os pacientes vitimados pela COVID-19, havendo risco iminente de mortes, pelo colapso do sistema de saúde pública.<br /></p>
-<p>20. O Ministério da Saúde já informou à empresa Ré e ao ente federativo, ora autor, que à INTERMED caberá fornecer à União os equipamentos que sobejarem aqueles já alienados ao Estado (mesmo que ainda não entregues por questões de cronograma e logística), os quais, por óbvio, não deverão ser considerados como disponíveis para fins de alienação a terceiros ou entrega a quem quer que seja, ainda que se trate de requisição de outro ente federado, até mesmo porque a requisição administrativa, em sua moldura constitucional (art. 5º, XXV), diz respeito à utilização de propriedade particular e não à de outros entes públicos, e, em todo caso, não alcança os bens cujo contrato foi assinado anteriormente à sua expedição.<br /></p>
-<p>21. Sem declaração de estados de sítio ou defesa não pode haver requisição válida para bens de entes federativos: estados e municípios, conforme reconhecimento pelo Supremo Tribunal Federal, a não ser mero APOSSAMENTO, sem fundamento legal.<br /></p>
-<p>22. Ademais, nada impede que a RÉ atenda ao quanto requerido pela União, desde que o faça respeitando o quantitativo já alienado previamente ao Estado, em cumprimento ao contrato firmado, inclusive em face ao princípio do ato jurídico perfeito.<br /></p>
-<p>23. In casu, está amplamente provado que o Estado-autor necessita, com urgência, dos ventiladores pulmonares já adquiridos, ressaltando a grave lesão à saúde pública de todo o estado a<br /></p>
-<p>concretizar-se em caso de indeferimento da medida, tendo em vista que os inúmeros leitos de UTI já destinados ao tratamento da COVID-19 no hospital não possuirão o principal equipamento necessário para o enfrentamento das formas graves da enfermidade, colocando em risco de morte vários doentes.<br /></p>
-<p>24. Daí a inquestionável presença, na espécie, de situação concretamente configuradora do perigo de dano, como acentuado pelo Estado de Pernambuco na petição inicial, além dos fundamentos jurídicos do pedido, lastreado na Constituição Federal, na Lei e no Contrato Jurídico (inter alios acta), ou seja, princípio da vinculação do contrato às partes e o seu cumprimento pelas mesmas partes: PACTA SUNT SERVANDA.<br /></p>
-<p>24.1 A UNIÃO, portanto, é parte estranha, ilegítima, à relação contratual, sem qualquer interesse jurídico e sem base legal para se apossar de bens pertencentes ao Estado de Pernambuco por força de um contrato - lei entre as partes.<br /></p>
-<p>25. Last bu not least, não há qualquer perigo de irreversibilidade do provimento,<br /></p>
-<p>porquanto, por ter caráter precário, a decisão é passível de revogação ou cassação a qualquer tempo.<br /></p>
-<p>26. Pelos princípios da celeridade processual e da eficiência, deixo de designar a audiência prevista no art. 334 do CPC, o que não impede a autocomposição, § 4º do II do CPC para o deslinde da controvérsia.<br /></p>
-<p>Ex positis, consubstanciado no pedido e causa de pedir, em juízo de cognição não<br /></p>
-<p>exauriente,</p></p>
-<p><p>DEFIRO<br /></p>
-<p>o pedido de tutela de urgência formulado pelo autor, ESTADO DE<br /></p>
-<p>PERNAMBUCO, para:<br /></p>
-<p>a) DETERMINAR a Busca e Apreensão, com força mandamental, art. 139, IV, do Código de Processo Civil, na sede da INTERMED EQUIPAMENTOS MÉDICO HOSPITALAR LTDA, devendo o Estado de Pernambuco implementar as condições para o seu imediato cumprimento, para recebimento de 35 (trinta e cinco) ventiladores pulmonares, adquiridos por meio do Contrato nº 00304/2020-FES-PE-530401, referente ao primeiro lote, de acordo com a cláusula 4.1 e Nota de Empenho 2020NE003652, de 20/03/2020.<br /></p>
-<p>b) NÃO exitosa a Busca e Apreensão, a empresa INTERMED EQUIPAMENTOS MÉDICO HOSPITALAR LTDA, por seus representantes legais, deverá, no prazo de (48) horas, entregar os 35 (trinta e cinco) ventiladores ao Estado de Pernambuco, em ambos os casos, sem prejuízo do pagamento da multa do item b), em caso de descumprimento.<br /></p>
-<p>b) Fixo a multa DIÁRIA de R$ 100.000,00 (cem mil reais), em caso de descumprimento, com bloqueio via BACENJUD da conta corrente da empresa, como multa acesssória, com caráter<br /></p>
-<p>pedagógico e com efeito de astreintes, para implementar o cumprimento da obrigação contratual.<br /></p>
-<p>c) ESTA DECISÃO, VALIDADA POR SERVIDOR DESTA 3ª VARA DA FAZENDA PÚBLICA, TEM FORÇA DE MANDADO E DE OFÍCIO, PARA TODOS OS EFEITOS LEGAIS.<br /></p>
-<p>d) Comunique-se, com urgência, o teor desta decisão à sociedade empresária INTERMED EQUIPAMENTOS MÉDICO HOSPITALAR LTDA, pelos meios legalmente admitidos, QUE DEVERÁ INFORMAR A ESTE JUÍZO, COM URGÊNCIA, O CUMPRIMENTO DESTA DECISÃO.<br /></p>
-<p>e) CITE-SE a empresa-Ré, com as cautelas de estilo, nos termos do art. 335 do CPC, para<br /></p>
-<p>contestação.<br /></p>
-<p>f) Conclusos.<br /></p>
-<p>P. Intimem-se. Cumpra-se.<br /></p>
-<p>Recife, 23 de abril de 2020.<br /></p>
-<p>TEODOMIRO NORONHA CARDOZO<br /></p>
-<p>Juiz de Direito</p></p>
-<p></div></p>
-{% endraw %}

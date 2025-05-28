@@ -1,30 +1,0 @@
----
-id: 12599263
-date: "2020-05-07T18:14:27Z"
-last_modified_at: null
-tags:
-  - "riscos"
-categories:
-  - "noticias"
-title: "\u00c9 justo que o risco seja assumido somente pela advocacia?"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/05/Bruno-Baptista-OABPE1.jpg"
----
-{% raw %}
-<p><p>As audiências telepresenciais e a volta dos prazos nos processos eletrônicos</p></p>
-<p><p>Por Bruno Baptista, presidente da OAB-PE, em artigo enviado ao blog</p></p>
-<p><p>Por determinação do Conselho Nacional de Justiça (CNJ) os prazos nos processos eletrônicos voltaram ao seu curso desde o último dia 4 de maio. Por outro lado, a qualquer momento, podem ocorrer audiências por meio de videoconferência. É um risco, com todo o respeito aos que pensam o contrário, ao advogado, ao jurisdicionado e, principalmente, para o devido processo legal.</p></p>
-<p><p>O avanço da pandemia causada pelo Coronavírus/COVID19, especialmente no estado de Pernambuco, é inegável. Até 05.05.2020, o Governo do Estado confirmou 9.325 casos da doença e 749 mortes. 99% dos leitos públicos de UTI já estão ocupados e o Governo estuda a decretação do lockdown, ou seja, uma restrição mais rigorosa à circulação de pessoas que não estejam desempenhando atividade essencial.</p></p>
-<p><p>Por um lado, não é possível assegurar que todos os advogados e partes poderão ter acesso aos procedimentos eletrônicos, por expressa impossibilidade técnica, seja por não possuírem o equipamento necessário (notebook, computador pessoal, scanners, dentre outros), ou por não ser possível arcar com os custos para acesso à internet ou, ainda, por conta da instabilidade na rede, muito frequente especialmente no interior do estado, que limita o acesso da advocacia às plataformas dos tribunais.</p></p>
-<p><p>Tratemos primeiro da realização de audiências por videoconferência. E aqui não se trata de uma rejeição absoluta às audiências por esse meio. Isso não é só o futuro, mas já a realidade sendo experimentada em alguns casos. A grande preocupação, na realidade, é como assegurar a todos o devido processo legal, o contraditório e a ampla defesa, especialmente na maior crise sanitária enfrentada pela humanidade nos últimos cem anos.</p></p>
-<p><p>Como garantir, v.g., o acesso de todos aos instrumentos de tecnologia? Como garantir a um jurisdicionado morador do Sertão do Estado, que não dispõe sequer de energia elétrica, um aparelho celular ou conexão com a internet, a participação em uma audiência para garantir o seu direito? Como garantir as normas legais de publicidade ou de sigilo das audiências? Como saber se uma testemunha não está sofrendo algum tipo de coação? São questões que merecem estudo e certamente, em breve, serão solucionadas.</p></p>
-<p><p>No quesito circulação de pessoas, há ainda um fator de preponderância, no que se relaciona ao tratamento entre advogado e cliente. Muitos serão os clientes que não terão acesso à internet ou computadores durante o período para realização do ato, ainda que o tenham seus patronos. Isto colocará a advocacia numa difícil posição de ser obrigada a receber seus clientes para, às suas expensas e com risco à sua saúde, realizar a audiência.</p></p>
-<p><p>É de se lembrar que, enquanto isso, os demais participantes da audiência, notadamente magistrado, membro do Ministério Público e serventuários, em regime de teletrabalho, estarão cumprindo todas as recomendações de distanciamento social, até porque os fóruns estão fechados. E como ficam os princípios da isonomia que preza pela aplicação igualitária das normas e o do devido processo legal? É justo imputar exclusivamente ao advogado esse ônus?</p></p>
-<p><p>Neste momento de pandemia, o mais seguro – e é o que a OAB-PE defende - é a realização das audiências por meio de videoconferência exclusivamente na hipótese de concordância expressa de todas as partes envolvidas no processo, por meio de seus patronos constituídos, devendo ser o silêncio interpretado como não concordância.</p></p>
-<p><p>Sobre a questão da fluência dos prazos nos processos eletrônicos, uma questão semelhante exsurge. A Resolução nº 314/2020 do CNJ prevê a hipótese de suspensão da fluência do prazo diante da absoluta impossibilidade prática do ato, apontada por meio de petição fundamentada do advogado. Além do risco da submissão à discricionariedade judicial (que pode entender que havia possibilidade de prática do ato, levando a uma possível preclusão), ainda há uma outra questão: e se for impossível para o advogado – por uma questão técnica ou prática – de alegar nos autos a sua própria impossibilidade?</p></p>
-<p><p>Destaque-se que a OAB/PE chegou a encaminhar ofícios aos três tribunais – Tribunal de Justiça do Estado de Pernambuco, Tribunal Regional do Trabalho da Sexta Região e Tribunal Regional Federal da Quinta Região - solicitando a disponibilização de espaços e equipamentos para peticionamento eletrônico, nos precisos termos do § 3º do artigo 10 da Lei 11.419/2006 e do artigo 18 da Resolução CNJ n.º 185/2013, os quais tiveram a sua resposta negativa em razão dos fóruns se encontrarem fechados.</p></p>
-<p><p>Registre-se que por conta da crise econômica, vários colegas fecharam seus escritórios e se utilizam exclusivamente dos espaços da OAB/PE para exercerem a advocacia. A volta dos prazos sem amparo material para o exercício profissional vai causar uma série de transtornos à advocacia e às partes por ela assistidas em todo o Estado de Pernambuco.</p></p>
-<p><p>São por essas razões que entendemos que o correto é que a fluência dos prazos nos processos eletrônicos passe a ocorrer a partir da alegação das partes, por seus advogados constituídos nos autos, que há condições técnicas e práticas para o cumprimento dos prazos durante o isolamento da pandemia decretado no Estado de Pernambuco, ou, pelo menos, que todo e qualquer motivo justo apontado pelo advogado constituído nos autos seja considerada imediatamente causa de interrupção da fluência do prazo processual.</p></p>
-{% endraw %}

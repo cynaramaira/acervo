@@ -1,26 +1,0 @@
----
-id: 12604125
-date: "2020-09-28T17:00:36Z"
-last_modified_at: null
-tags:
-  - "sem-tags"
-categories:
-  - "noticias"
-title: "A seca na seara dos valores. Por Gaud\u00eancio Torquato"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2017/01/Trump.jpg"
----
-{% raw %}
-<p><p>Por Gaudêncio Torquato, em artigo enviado ao blog</p></p>
-<p><p>O processo civilizatório se assemelha a uma régua que mede a evolução de costumes, princípios e valores, avanços e retrocessos. Nem sempre ocorrem mudanças que emoldurem a história do Homem, principalmente ante a paisagem de devastação que flagra crescente litigiosidade entre seres e Nações, desvairada competividade no campo dos negócios e empreendimentos, luta acirrada entre grupos, alas e até credos religiosos, cada qual com a ambição de brilhar na galeria dos maiores e melhores. Em alguns nichos, os avanços fluem sob a égide de pesquisas científicas em áreas como as ciências biomédicas, a inteligência artificial, a agricultura, a engenharia de produção.</p></p>
-<p><p>Mas é inegável que, no sagrado altar dos valores, a Humanidade vê esgarçada sua teia, particularmente no plano da Dignidade. A ambição, a luta do poder pelo poder, a inveja, a mentira, as falsidades que impregnam a interlocução entre as pessoas, enfim, a ideia de que se deve tirar proveito de tudo, constituem, entre outros, os braços que puxam o planeta para o seio de nossa ancestralidade. Olhe-se para esse mundo pandêmico como exemplo de interesses políticos, econômicos, geográficos, a denotar que nem a ciência pura está livre de injunções oportunistas, essas que atuam até na esfera eleitoral, como se constata, hoje, por aqui e por acolá, sendo bom exemplo a quadra eleitoral em que vivem os Estados Unidos.</p></p>
-<p><p>A era do valor do compromisso está indo embora. Nossos pais e avós, ao firmarem negócios, garantiam pela palavra dada ao parceiro, o fechamento do acordo. Os papéis em cartório apenas finalizavam uma cultura sagrada: a força da palavra dada. O débito, o crédito, a crença, a aceitação, a rejeição de alguma coisa tinham por trás o compromisso explícito. A identidade das pessoas e perfis era ancorada na conversa que ditava as regras do cotidiano. Claro, havia desavenças. E até mortes nos conflitos de famílias que lutavam pelo poder. Mas certo respeito se via até entre rivais.</p></p>
-<p><p>A educação era um momento de grandeza. Os pais lutavam, suavam, apuravam seus recursos para formar os filhos. Não eram Bolsas de Valores que pescavam o dinheiro. Os pais guardavam seus mil réis em velhos e pesados cofres ou sob o colchão. Formar um filho, dar a ele a educação para enfrentar desafios do futuro – era o ideal dos chefes de família. Que exibiam orgulho pela prole bem educada, instruída. Riquezas foram investidas na educação dos filhos, a ponto de muitos terem morrido pobres. Porém, felizes.</p></p>
-<p><p>O educador era uma referência. De saber, de grandeza, de boa orientação, de conjunção de bons propósitos. Pinço, aqui, um caso contado por um rabino durante um casamento. A historinha se alastra num vídeo que circula nas redes. Um ex-aluno encontra seu velho professor, aproxima-se e pergunta: “lembra de mim”? Responde o mestre: “Não, quem é você? Ah, deve ter sido meu aluno”. O rapaz relembra a situação ocorrida na escola. Viu um colega com lindo e caro relógio e o surrupiou. O menino, ao constatar o roubo, abriu o bico. Quem foi, quem não foi? Balbúrdia. O professor fechou a porta e pediu que todos formassem uma fila. O raptor ficou desesperado. Iria ser flagrado, pois o professor iria procurar o relógio em todos os bolsos. Surpresa: pediu para todos fecharem os olhos. E assim conseguiu recuperar o roubo. O ex-aluno continua a conversa: “professor, o senhor salvou minha alma, minha dignidade. O senhor sabe que fui eu”. O mestre: “não, eu nunca soube que foi você. Eu também estava de olhos fechados”.</p></p>
-<p><p>Belo exemplo de educador. Que não tinha intenção de punir, mas a de transmitir o legado de consideração pelo outro. Uma aula de Dignidade. Que cai bem nesses tempos de acusações recíprocas, de falsidades, de ódio, de guerras fratricidas. Somos um mundo cheio de carências materiais. A fome ataca e mata milhões, principalmente na África e em pedaços da Ásia. Mas a fome espiritual, essa que esvazia nossos sentimentos, destrói nossas searas de valores, ataca grupos e classes, principalmente os habitantes de cima da pirâmide social, movidos pelo impulso da ambição.</p></p>
-<p><p>Qual a razão? A vontade de poder. Nietzsche escreveu sobre “A vontade de Poder”, mas nunca publicou um livro com este nome. Após sua morte, a irmã Elizabeth publicou uma coletânea de notas inéditas. Ali se lê: “Você quer um nome para este mundo? Uma solução para todos os seus enigmas? Este mundo é a vontade de poder – e nada além disso! E vocês também são essa vontade de poder – e nada além disso”.</p></p>
-<p><p>Essa maldita vontade, no meio da maior crise que o mundo atravessa na atualidade, ameaça expandir a Era do Mal.</p></p>
-<p><p>Gaudêncio Torquato, jornalista, é professor titular da USP, consultor político e de comunicação</p></p>
-{% endraw %}

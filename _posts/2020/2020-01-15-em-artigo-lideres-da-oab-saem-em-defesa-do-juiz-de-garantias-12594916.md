@@ -1,36 +1,0 @@
----
-id: 12594916
-date: "2020-01-15T14:00:27Z"
-last_modified_at: null
-tags:
-  - "artigo"
-  - "defesa"
-  - "prejuizos"
-categories:
-  - "noticias"
-title: "Em artigo, l\u00edderes da OAB saem em defesa do juiz de garantias"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/07/Bruno-Baptista-no-CFOAB.jpg"
----
-{% raw %}
-<p><p>Entre fábulas e a realidade</p></p>
-<p><p>Bruno Baptista (presidente da OAB/PE) e Carlos Barros (advogado criminalista)</p></p>
-<p><p>No país em que a Justiça Criminal virou um grande espetáculo, a cada pseudo “opinião abalizada” apontando uma suposta “nova manobra em prol da impunidade”, vem à mente trecho de um clássico do romancista britânico Lewis Carrol, Alice no País das Maravilhas:</p></p>
-<p><p>“Mas os poços da fantasia acabam sempre por secar e o contador de histórias, cansado tentou escapar como podia: o resto amanhã... Já é amanhã”.</p></p>
-<p><p>De fato, na atualidade, a impunidade é o mote predileto para a criação de fantasiosas narrativas pelos que veem no recrudescimento penal a solução para a criminalidade (a propósito, não há ideia mais simplista e ineficaz que essa para um problema tão complexo e com raízes profundas).</p></p>
-<p><p>Mas, se “os poços da fantasia acabam sempre por secar” e “já é amanhã”, deixemos as fábulas de lado e, com fincas na realidade, tratemos do “alvo” da vez dos ativistas pró-castigo: o instituto processual do “juiz das garantias”.</p></p>
-<p><p>Para começar, é importante que se esclareça o óbvio: a introdução do “juiz das garantias” no sistema processual penal pátrio não significa a criação de “mais uma instância”. A bem da verdade, o “juiz das garantias” sequer configura uma “nova etapa” a ser superada, vez que não impõe à persecução penal nenhum “ponto de parada” distinto do que já existia antes mesmo da entrada em vigor da Lei 13.964/19, popularmente conhecida pelo epíteto “Pacote Anticrime” (curiosíssimo, aliás, já que não existe nenhuma lei “pró-crime”).</p></p>
-<p><p>Ora, a questão é simples: a teor do novel art. 3º-B do Código de Processo Penal, “o juiz das garantias é responsável pelo controle da legalidade da investigação criminal e pela salvaguarda dos direitos individuais cuja franquia tenha sido reservada à autorização prévia do Poder Judiciário”, sendo certo que, nos termos do art. 3º-C do mesmo diploma legal, “a competência do juiz das garantias (...) cessa com o recebimento da denúncia (...)”.</p></p>
-<p><p>Quer dizer: assim como já ocorria antes da referida alteração legislativa, mesmo durante o procedimento investigatório, apenas o Poder Judiciário poderá determinar medidas que, ainda que necessárias à investigação, afastem garantias fundamentais caras aos cidadãos (a exemplo da prisão preventiva, das quebras de sigilo fiscal, bancário e telefônico, bem como da busca e apreensão – que mitigam o direito à liberdade e à intimidade), com a diferença de que o juiz que atuou nessa fase e nesse sentido não mais poderá conduzir o subsequente processo. Trata-se, portanto, de uma mera cisão da competência funcional, visto que apenas não se permitirá que o magistrado que funcionou durante a investigação judique no ulterior processo penal.</p></p>
-<p><p>E esse cuidado do legislador tem uma louvável razão de ser. É que, ao determinar, durante a investigação, medidas invasivas como as mencionadas acima, o magistrado cria, ainda que inconscientemente, um vínculo subjetivo com a tese acusatória e com os elementos probatórios que a subsidiam. Afinal de contas, ao implementar tais medidas, o juiz concorda com a necessidade de acautelamento ou utilização de meio excepcional de obtenção de prova vislumbrados e pleiteados pelo órgão de persecução, isto é, entende ser imperiosa, tal como a autoridade policial ou o Ministério Público, a decretação da prisão provisória do cidadão investigado ou a quebra de algum sigilo que lhe seja constitucionalmente garantido, por exemplo. Além disso, o magistrado formula um juízo de “probabilidade” (e não simples “possibilidade”) acerca da autoria delitiva, vez que a legislação exige, nesses casos, a incidência de indícios “suficientes” de autoria. Isso tudo, saliente-se, sem que exista um processo instaurado. Assim, é inescondível que, tendo esse nível avançado de participação na investigação e, por conseguinte, de assenhoramento dos seus meandros, o juiz não mais possuirá a isenção exigida para o julgamento do mérito da futura ação penal.</p></p>
-<p><p>Objetiva-se, pois, com o instituto do “juiz das garantias”, preservar um regramento basilar e inafastável dos processos judiciais em um Estado Democrático de Direito, qual seja a imparcialidade do juiz. Um grande avanço civilizatório, desenganadamente.</p></p>
-<p><p>Mais: o “juiz das garantias” não se trata de uma “jabuticaba”. Pelo contrário. Essa repartição da competência jurisdicional entre a fase investigativa e a de instrução e julgamento existe na maioria dos países do ocidente. Veja-se, a título de exemplo, os modelos que Itália, França e Espanha adotam. Outra: o referido instituto não é nenhuma novidade no Brasil, eis que, há 36 anos, de forma exitosa, São Paulo adota uma sistemática semelhante, através do Departamento de Inquéritos Policiais (DIPO), que dispõe de magistrados para atuar somente nos procedimentos investigatórios. Detalhe: não é de hoje a pretensão de efetivamente se inserir o “juiz das garantias” no sistema processual penal brasileiro, posto que o Projeto de Lei 156 de 2009, cuja finalidade é a materialização de um novo Código de Processo Penal (já que o em vigor data de 1941), contém em seu bojo, há mais de década, o importante instrumento de salvaguarda ora em foco, pelo que o tema foi objeto de inúmeras discussões, no Congresso e na academia, por especialistas e relevantes instituições.</p></p>
-<p><p>De resto, saliente-se que, para muito além de ser uma “polêmica nova”, trata-se de uma “velha falácia” a alegação de que o instituto do “juiz das garantias” surge, no processo penal pátrio, como um mecanismo a favor da impunidade. Realmente.</p></p>
-<p><p>Em 2011, ante a lei que inseriu no Código de Processo Penal as medidas cautelares pessoais diversas da prisão preventiva, disseram: “bandido nenhum mais vai ser preso”. De lá para cá, porém, só aumentou o número de presos provisórios – atualmente, representam mais de 40% dos ocupantes do sistema prisional brasileiro.</p></p>
-<p><p>Em 2015, com a implementação das audiências de custódia em âmbito nacional, afirmaram o mesmo, e o encarceramento só cresceu – o Brasil possui a 3ª maior população carcerária do mundo, com mais de 800 mil presos.</p></p>
-<p><p>Agora, em 2020, profetizam o “caos”, ao falarem do “juiz das garantias”. O futuro, no entanto, revelará que tal prenúncio consiste, tão somente, em mais um alarmismo dos punitivistas de plantão – e que, do jeito que as coisas vão, a superlotação carcerária só se agravará, infelizmente.</p></p>
-<p><p>De se ver, para os que propalam o “terror” sempre que está prestes a se concretizar um avanço democrático no campo da Justiça Criminal, calha o quanto professado, mais uma vez, por Lewis Carrol:</p></p>
-<p><p>“Nós aqui sabemos o que deveríamos ter feito ontem, e sabemos o que devemos fazer amanhã, mas nunca sabemos o que devemos fazer hoje”.</p></p>
-{% endraw %}

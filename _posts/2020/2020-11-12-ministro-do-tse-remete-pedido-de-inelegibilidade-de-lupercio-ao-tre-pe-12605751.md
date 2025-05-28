@@ -1,27 +1,0 @@
----
-id: 12605751
-date: "2020-11-12T12:40:05Z"
-last_modified_at: null
-tags:
-  - "ministro"
-categories:
-  - "noticias"
-title: "Ministro do TSE remete pedido de inelegibilidade de Lup\u00e9rcio ao TRE-PE"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/01/lupercio-olinda-2.jpg"
----
-{% raw %}
-<p><p><em>Do JC Online</em></p></p>
-<p><p>O ministro do Tribunal Superior Eleitoral (TSE) Sérgio Banhos atendeu parcialmente ao pedido de declaração de inelegibilidade do prefeito de Olinda, Professor Lupércio (SD), candidato à reeleição nas eleições deste ano, feito pelo seu adversário Jorge Federal (PSL). Banhos remeteu o processo ao Tribunal Regional Eleitoral (TRE-PE) "a fim de que se prossiga no exame dos demais requisitos exigidos para a caracterização da inelegibilidade".</p></p>
-<p><p>Tudo começou quando o Tribunal Regional Eleitoral de Pernambuco (TRE-PE) deferiu o registro de candidatura do Professor Lupércio, apesar da rejeição das suas contas pelo Tribunal de Contas de Pernambuco (TCE-PE) na época em que foi deputado estadual.</p></p>
-<p><p>O TCE-PE julgou procedente uma denúncia contra Lupércio de que, entre os anos de 2015 e 2016, fez uso de empresas fantasmas para emissão de notas frias com o objetivo de receber recursos de verbas indenizatórias (verba de gabinete, gastos indevidos com material de expediente e locação de veículos) da Assembleia Legislativa de Pernambuco (Alepe). Outros deputados e ex-deputados estaduais também foram denunciados.</p></p>
-<p><p>Lupércio fez a devolução de R$ 136.162,60, equivalente ao valor integral das verbas indenizatórias recebidas ao longo do seu mandato. O TRE-PE considerou que pelo fato da quantia ter sido restituída, não houve um julgamento de irregularidade das contas de Lupércio. "O interessado não teve suas contas julgadas irregulares por este sodalício, bem como deu-se total e plena quitação ao recorrente", diz um trecho do acórdão do TRE-PE.</p></p>
-<p><p>Com isso, ele entendeu que não ficou configurada a inelegibilidade. "Condenações em procedimento diverso de prestação de contas não configuram a causa de inelegibilidade do art. 1º, I, g, da Lei Complementar 64/1990", diz outro trecho do acórdão.</p></p>
-<p><p>Jorge Federal entrou com um recurso especial no TRE-PE alegando, entre outros pontos, que "as irregularidades reconhecidas pelo TCE/PE, ao julgar procedente a 'denúncia', são insanáveis e caracterizam improbidade administrativa". O TRE-PE negou o recurso especial de Jorge Federal no último dia 29 de outubro. Ele então recorreu ao TSE em 1º de novembro.</p></p>
-<p><p>"Por essas razões, conheço do recurso especial interposto por Jorge Salustiano de Sousa Moura, por ofensa ao art. 1º, inciso I, alínea g, da LC 64/90, e, nos termos do art. 36, § 7º, do Regimento Interno do Tribunal Superior Eleitoral, dou-lhe parcial provimento, a fim de que, afastado o fundamento atinente à ausência de decisão do órgão competente, prossiga o Tribunal Regional Eleitoral na análise dos demais requisitos exigidos para a configuração da referida causa de inelegibilidade", diz trecho da decisão de Sérgio Banhos.</p></p>
-<p><p>A Coligação "Olinda Segue em Frente com o Povo", encabeçada pelo Professor Lupércio, informou, por meio de nota que todos as instâncias da Justiça Eleitoral deram pareceres favoráveis à sua candidatura. "Todos os pareceres do Ministério Público, em todas instâncias, inclusive no Tribunal Superior Eleitoral, são favoráveis, assim como as decisões da Juíza Eleitoral de Olinda e do Tribunal Regional Eleitoral de Pernambuco. Há apenas um recurso no TSE, em Brasília, de um candidato sem votos, desesperado, que ainda será julgado por todos os ministros, apenas isso. Os ministros dirão se o recurso deverá voltar para ser novamente julgado pelo Tribunal Regional Eleitoral de Pernambuco, ou não", diz trecho da nota.</p></p>
-<p><h2>Leia a íntegra da nota</h2></p>
-<p><p><em>"A Coligação Olinda Segue em Frente com o Povo vem esclarecer a todos que os adversários tentarão todos tipos de mentira e fake news, porque sabem que o Professor Lupércio segue firme para a reeleição. Todos os pareceres do Ministério Público, em todas instâncias, inclusive no Tribunal Superior Eleitoral, são favoráveis, assim como as decisões da Juíza Eleitoral de Olinda e do Tribunal Regional Eleitoral de Pernambuco. Há apenas um recurso no TSE, em Brasília, de um candidato sem votos, desesperado, que ainda será julgado por todos os ministros, apenas isso. Os ministros dirão se o recurso deverá voltar para ser novamente julgado pelo Tribunal Regional Eleitoral de Pernambuco, ou não. Mas certamente nem isso acontecerá. Como dito, o parecer do Ministério Público de Brasília é totalmente favorável ao Professor Lupércio, como foram os dois outros pareceres e as duas decisões. Ou seja, é fake, mentira, o que tentam espalhar os adversários. Apenas desespero, de quem sabe que o povo reconhece o trabalho do Professor Lupércio. A Coordenação Jurídica da campanha já foi acionada e vai adotar todas as medidas jurídicas para punir com o rigor da lei os responsáveis por mais essa mentira".</em></p></p>
-{% endraw %}

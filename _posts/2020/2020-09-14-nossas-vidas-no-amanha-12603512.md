@@ -1,25 +1,0 @@
----
-id: 12603512
-date: "2020-09-14T18:00:23Z"
-last_modified_at: null
-tags:
-  - "dividas"
-categories:
-  - "noticias"
-title: "Nossas vidas no amanh\u00e3"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/09/praia-boa-viagem-coronavirus.jpg"
----
-{% raw %}
-<p><p>Por Gaudêncio Torquato, em artigo enviado ao blog</p></p>
-<p><p>Um exercício de paciência. Missão de persistência. Uma vida de mais renúncias. Essas três frases servem para circunscrever nossas vidas no amanhã. O biólogo e pesquisador Átila Iamarino dá a dica: “não tem volta mágica para 2019 sem vírus. É uma adaptação pragmática para 2021 com ele.” Portanto, devemos já começar a gigantesca tarefa de fazer as mudanças que se fizerem necessárias para convivermos com os dias futuros. Urge termos consciência dessa necessidade. Não se espere pela volta pura e simples aos dias de ontem, com a manutenção de velhas regras, padrões de comportamento, atitudes e gostos.</p></p>
-<p><p>A reforma na área dos costumes é uma das mais árduas. Afinal, costume faz parte da tradição, carrega o dna de todo um processo civilizatório. Mas há de se compreender que a vida segue seu curso e avança na esteira das descobertas e inovações resultantes das pesquisas nas áreas da biologia, biomedicina, inteligência artificial etc. Portanto, qualquer arranjo no sentido de salvaguardar a integridade da vida é e será bem-vinda, principalmente se olharmos um pano de fundo cheio de ameaças.</p></p>
-<p><p>Como lembram os cientistas, o nosso foco será sempre o dos impulsos inatos aos seres vivos. Analisando as reações do comportamento, Pavlov se vale do exemplo da ameba para explicar os reflexos do ser humano. A ameba foge do perigo, absorve alimentos, multiplica-se, forma quistos dentro dos quais se multiplica em um enxame de pequenas amebas. Por aí, podemos ter a primeira resposta para a questão da metáfora de guerra, tão do gosto dos indivíduos. As pessoas, como as amebas, procuram evitar o perigo e preservar sua espécie. Se um vírus, um Covid qualquer, aparece de repente ameaçando o fluxo vital, o ser vivo tenta dele se afastar, matando-o ou tomando as precauções para que ele desapareça.</p></p>
-<p><p>A natureza procura conservar a vida, de acordo com dois grandes princípios: o do soma e o do gérmen. O primeiro, o indivíduo, conduz o segundo, a espécie; o primeiro é mortal, descontínuo, e o segundo é imortal, contínuo. Para preservar o indivíduo do aniquilamento, antes que tenha cumprido a tarefa de transmitir o gérmen da espécie, a natureza o dotou de dois mecanismos especiais; e da mesma forma, para a preservação da espécie, proporcionou dois mecanismos. Os primeiros são os impulsos combativo e nutritivo; os segundos, sexual e paternal. Eis a base do argumento que sustenta a tese de que haveremos de adotar o pragmatismo para prolongar nossa preservação. A adaptação à realidade dos ciclos de vida é condição sine qua non.</p></p>
-<p><p>Dito isto, emergem as questões: que mudanças, que novos costumes adotar, quais as esferas que deverão ser mais impactadas, a individual ou a coletiva? Com perdão dos amigos da área biomédica, arrisco a inferir que o rol de adaptações assumirá uma proporção circular, sistêmica, abrangente, na medida em que os elos da cadeia da saúde de um povo abrigam mudanças nos padrões e normas governamentais, atitudes pessoais e comportamentos coletivos. Entidades e pessoas físicas deverão entrar na composição, operando as políticas de saúde, com maior controle de cuidados sanitários, programas intensivos de prevenção, inserção de uma visão interdisciplinar, capaz de contemplar o Todo e não apenas as partes.</p></p>
-<p><p>É claro que uma eficaz revolução de costumes depende da chave da porta do futuro: a educação. Por isso, o sistema educacional, a partir do ensino de base até os níveis superiores, haverá de focar as políticas de prevenção e mudança de hábitos, o que implicará modelagem inovadora nas áreas dos divertimentos, conservação ambiental, educação, mobilidade urbana, segurança pública, manifestações coletivas, como eventos de massa. A grita será barulhenta, prevendo-se, desde já, um discurso crítico aos governantes, que estariam fazendo censura, opressão à liberdade de manifestação etc. Mas não se faz reforma sem ponto e contraponto.</p></p>
-<p><p>Como fortaleza de defesa de uma nova ordem mundial no campo sanitário, será necessária a chegada ao poder de um núcleo com novas visões, olhar de estadista, empreendedorismo e coragem para enfrentar os infortúnios. Só assim a Humanidade será capaz de implantar um regramento que garanta a sobrevivência da espécie, com destaque para a vida saudável do planeta, o que exigirá forte intervenção nas políticas preservacionistas e de melhor distribuição de renda. A continuar a imensa disparidade de classes, os grupos mais poderosos haverão de dar o tom maior e, nesse caso, a orquestra mundial ameaça continuar bastante desafinada.</p></p>
-<p><p>Gaudêncio Torquato, jornalista, é professor titular da USP, consultor político e de comunicação</p></p>
-{% endraw %}
