@@ -1,26 +1,0 @@
----
-id: 12610317
-date: "2021-04-01T15:20:08Z"
-last_modified_at: null
-tags:
-  - "golpe"
-  - "victor-kley"
-categories:
-  - "noticias"
-title: "Vai ter golpe? Por Victor Missiato"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2020/09/brasilia_congresso_nuvens_e_0416202217_2.jpg"
----
-{% raw %}
-<p><p>Por Victor Missiato, em artigo enviado ao blog</p></p>
-<p><p>Ao contrário de todas as cidades brasileiras, Brasília não possui esquinas. Projetada para evitar qualquer tipo de confronto, seu traçado retilíneo dificulta o encontro casual. Em Brasília, as conversas são agendadas. Brasília é avessa ao acaso.</p></p>
-<p><p>Desde a sua projeção, a nova capital federal tinha como principal objetivo evitar qualquer tipo de tumulto, revolta ou revolução em seu espaço. Procurando-se afastar das diferentes revoltas ocorridas na antiga capital Rio de Janeiro que, desde o início da República, manteve-se em constante conflito com sua população, Brasília incorporou a repulsa soviética ao contraditório sob mãos de Oscar Niemeyer. Projetada na década de 1950, quando o Brasil dormia no campo e acordava com a fumaça dos automóveis, Brasília é fruto de uma modernização avassaladora. Entre os anos 1930-1980, o Brasil possuía um crescimento chinês. Seu interior, doravante abandonado, passou a ser visto como um projeto de um novo país. Dos troncos contorcidos do cerrado nascia uma cidade racional e setorizada. Inspirada na tradição da Paris de Haussmann do século XIX e nas cidades do comunismo soviético, velocidade, impessoalidade e vigilância marcam o projeto do Plano Piloto.</p></p>
-<p><p>Quando do concreto se fez palavras, Brasília passou a abrigar uma nova política no país. Distante de greves, chibatas e bombardeios, a nova capital federal subverteu os ensinamentos do pensador iluminista Montesquieu e criou sua própria interpretação acerca das funções de seus Três Poderes. Se Jânio Quadros em São Paulo e João Goulart no Rio de Janeiro, não haviam estabelecido o jogo político em Brasília, coube aos militares, através de um novo golpe, organizarem a política na nova capital republicana.</p></p>
-<p><p>As peculiaridades do Regime Militar brasileiro, ao contrário de outros regimes autoritários na América Latina, fizeram-se sentir logo nos primeiros anos, quando o Congresso e o Superior Tribunal Federal (STF) atuaram como atores legitimadores da queda de Jango. Diferentemente de Santiago do Chile, bombardeada no dia 11 de setembro de 1973, em Brasília, não se escutaram tiros de canhão em abril de 1964. Até o nosso golpe foi negociado.</p></p>
-<p><p>A tendência conciliadora da política em Brasília manteve-se nos anos 1970, quando teve início a famosa transição "lenta, gradual e segura" para a democracia, a partir de uma anistia "geral e irrestrita", que absolveu torturadores e guerrilheiros. Nos anos 1980, quando boa parte do Brasil foi às ruas em nome das Diretas Já, Brasília, em um novo grande acordo palaciano, optou pelas eleições indiretas a fim de concluir sua transição sem grandes turbulências em suas asas. Consolidava-se, naquela conjuntura, a Brasília dependente e harmônica entre os Três Poderes.</p></p>
-<p><p>Quando Fernando Collor procurou romper esse compromisso e "caçar os marajás", seu governo logo se desfez. Tamanha capacidade de regenerar-se, a Praça dos Três Poderes logo apoiou e conduziu Itamar Franco ao fim de seu mandato. Navegantes de outrora, FHC e Lula compreenderam bem o funcionamento do sistema, apesar das inúmeras denúncias referentes a compra de votos para reeleição e apoio em projetos de seus governos. Tal relação entre fortuna e virtú não se fez presente no governo de Dilma Rousseff, quando inflação e desemprego transformaram-se em denúncias de corrupção e pedaladas fiscais, consolidando o primeiro impeachment da Nova República, pois Collor havia renunciado.</p></p>
-<p><p>Em 2021, uma nova tempestade perfeita paira sobre os Poderes palacianos de Brasília. Em tempos pandêmicos e inflacionários, a margem de apoio para qualquer tipo de discurso radical se esvai. Nas últimas semanas, com a suspeição de Moro no julgamento de Lula, o remédio amargo de Lira e a saída forçada dos três comandantes das Forças Armadas, o governo Bolsonaro entrou no radar da imobilidade política, tão cara a Collor e Dilma. Apesar de muitos analistas rememorarem a conjuntura de 1964, demonstrando claro anacronismo, a realidade em Brasília é outra: caso não estabilize a inflação e refaça o jogo político entre Ministérios, Comandos, Congresso e STF, Bolsonaro terá que lutar contra seu impedimento. Em Brasília, para "estancar a sangria", somente através de "um grande acordo nacional", "com o Supremo, com tudo". Golpe é coisa do passado.</p></p>
-<p><p>Victor Missiato é doutor em História, professor de História do Colégio Presbiteriano Mackenzie Brasília. Membro do Grupo de Estudos e Pesquisas Psicossociais sobre o Desenvolvimento Humano (Mackenzie/Brasília) e Intelectuais e Política nas Américas (Unesp/Franca).</p></p>
-{% endraw %}

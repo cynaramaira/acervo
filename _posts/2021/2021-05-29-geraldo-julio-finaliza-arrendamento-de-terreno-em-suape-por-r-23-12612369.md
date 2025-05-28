@@ -1,34 +1,0 @@
----
-id: 12612369
-date: "2021-05-29T10:30:58Z"
-last_modified_at: null
-tags:
-  - "geraldo-julio"
-categories:
-  - "noticias"
-title: "Geraldo J\u00falio finaliza arrendamento de terreno em Suape por R$ 23 milh\u00f5es para instalar termel\u00e9trica"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/12/geraldo-julio-2.jpg"
----
-{% raw %}
-<p><p>Um processo licitatório da Secretaria Estadual de Desenvolvimento Econômico de Pernambuco foi concluído. Foi finalizado o processo de arrendamento de um terreno para instalação de usina termelétrica na zona industrial de Suape.</p></p>
-<p><p>O resultado da licitação foi divulgado em 27 de maio pela comissão de licitação de Suape.</p></p>
-<p><p>A empresa vencedora terá que pagar R$ 23.700.000,00 (vinte e três milhões e setecentos mil reais).</p></p>
-<p><p>A empresa poderá parcelar o pagamento em até 300 prestações mensais.</p></p>
-<p><p>A nova termelétrica irá atender entidades da administração pública estadual na área de Suape.</p></p>
-<p><p>O secretário de Desenvolvimento Econômico de Pernambuco, Geraldo Júlio (PSB), argumentou em janeiro que o barateamento dos preços do gás em Pernambuco reduzirá os custos de produção, tornando as empresas locais mais competitivas.</p></p>
-<p><p>Agora, o governo do Estado vai preparar um memorando de entendimento entre o grupo norte-americano e o Porto de Suape.</p></p>
-<p><p><img class="alignleft size-full wp-image-241307" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads//2021/05/suape-1.jpg" alt="" width="653" height="752" /></p></p>
-<p><p>O anúncio do novo investimento privado foi feito em janeiro, conforme publicado pelo JC.</p></p>
-<p><p>LEIA O PUBLICADO NO JC EM 13 DE JANEIRO DE 2021:</p></p>
-<p><p>O grupo norte-americano New Fortress Energy vai investir R$ 3 bilhões numa Usina Termelétrica de Energia (ETE) à base de gás natural liquefeito (GNL) que vai se instalar na área do Complexo Industrial de Suape, segundo informações divulgadas nesta quarta-feira (13) pelo governo do Estado. O projeto inclui também um terminal de regaseificação de GNL, além da implantação de cerca de 8 quilômetros de dutovias entre o terminal de gás e a térmica. O empreendimento deve gerar cerca de dois mil empregos na sua construção numa estimativa feita pela administração estadual.</p></p>
-<p><p>A termelétrica terá a capacidade total instalada para gerar 1,3 gigawatts (GW) de energia, o que corresponde a 30% a mais que a hidrelétrica de Sobradinho. Em média, 30% do investimento deverão sair do empreendedor e 70% a serem bancados por bancos de fomento. A previsão é que a usina entre em operação em novembro deste ano, ocupando uma área de 16,5 hectares dentro do Complexo de Suape. A licença prévia do empreendimento foi emitida pela Agência de Meio Ambiente de Pernambuco (CPRH).</p></p>
-<p><p>O empreendimento anunciado resulta de dois movimentos. Primeiro, o grupo norte-americano New Fortress Energy comprou a empresa catarinense CH4 Energia que planejava instalar uma térmica em Suape antes de 2018. É esse projeto que já tinha a licença prévia e um protocolo de intenção com o governo do Estado com a área que iria receber o empreendimento definida. A empresa estrangeira também "comprou" dois projetos que eram da Petrobras e que previam a instalação de duas térmicas: uma em Pecém, no Ceará, e outra em Salvador, na Bahia. Esses dois projetos são importantes porque ambos ganharam leilões - realizados pela Agência Nacional de Energia Elétrica (Aneel) - para vender energia. São os compromissos firmados nesses leilões que vão garantir a compra da energia a ser produzida pela futura térmica, remunerando o investimento a ser realizado.</p></p>
-<p><p>Em dezembro do ano passado, os diretores da New Fortress Energy estiveram com o governador Paulo Câmara (PSB) falaram sobre as aquisições realizadas e assinaram um protocolo de intenções para viabilização do empreendimento. No entanto, como a empresa tem que obedecer as regras dos Estados Unidos para anunciar as aquisições realizadas não foi possível divulgar os detalhes.</p></p>
-<p><p>Fundado em 2014, o grupo norte-amerciano tem um valor de mercado estimado em U$ 7,38 bilhões e atua em países como Jamaica, Porto Rico, México e Nicarágua nos ramos de transporte de Gás Natural Liquefeito (GNL), infraestrutura, terminais de regaseificação, usinas de energia e outras soluções em pequena escala. Também desenvolve atualmente um terminal de GNL na Irlanda voltado ao abastecimento de clientes industriais.</p></p>
-<p><p>Os leilões de energia vencidos pelos projetos que eram da Petrobras tinha a previsão de que o fornecimento de energia elétrica ocorreria no primeiro semestre de 2021. A térmica que vai se instalar em Suape será abastecida por navio regaseificador de GNL, com capacidade de injetar 21 milhões de metros cúbicos por dia e deve ficar atracado no Cais de Múltiplos Usos.</p></p>
-<p><p>A previsão do governo do Estado é de que a usina consuma 2,5 milhões de metros cúbicos ao dia, potencial que pode ser duplicado futuramente, de acordo com o governo do Estado. O excedente de GNL poderá atender à rede da Companhia de Gás de Pernambuco (Copergás), empresa detentora dos direitos de distribuição de gás no Estado. “Com a instalação da termelétrica em Suape, o Governo de Pernambuco também viabiliza um grande terminal de regaseificação para o Estado, oferecendo gás com preços muito mais competitivos às indústrias locais”, enfatizou o governador Paulo Câmara (PSB) via assessoria. “E com a nova lei do gás, que já se encontra na Alepe, um contingente muito maior de empresas poderia migrar para o mercado livre e se beneficiar do novo terminal, gerando um impulso de expansões e novos empreendimentos no Estado”, acrescentou. Mercado livre é aquele no qual o grande consumidor pode escolher a empresa que vai fornecer o gás. A disponibilidade limitada de gás no Estado sempre foi uma barreira para o uso maior desse combustível no setor produtivo. Geralmente, o gás sai mais barato do que a energia elétrica.</p></p>
-<p><p>O secretário de Desenvolvimento Econômico de Pernambuco, Geraldo Julio, argumentou que o barateamento dos preços do gás em Pernambuco reduzirá os custos de produção, tornando as empresas locais mais competitivas. Agora, o governo do Estado vai preparar um memorando de entendimento entre o grupo norte-americano e o Porto de Suape. E a Aneel também terá que aprovar a transferência dos projetos das térmicas (que seriam em Pecém e Salvador) para Suape.</p></p>
-{% endraw %}

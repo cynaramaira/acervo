@@ -1,31 +1,0 @@
----
-id: 12608471
-date: "2021-01-30T11:30:00Z"
-last_modified_at: null
-tags:
-  - "carlos-lupi"
-  - "eliana"
-categories:
-  - "noticias"
-title: "Carlos Mariz ignora Isaltino e Liana Cirne e defende usina at\u00f4mica em Itacuruba"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/04/usina-nuclear.jpeg.750x0_q95_crop.jpg"
----
-{% raw %}
-<p><p>Por Carlos Henrique da Costa Mariz</p></p>
-<p><p>A central nuclear de Itacuruba, em Pernambuco, é um importante projeto para segurança energética da região Nordeste, sustentável e com grande impacto no desenvolvimento regional.</p></p>
-<p><p>A geração de energia elétrica no mundo é predominantemente de energia térmica, incluída a nuclear. Verifica-se que da produção total de eletricidade 40% é proveniente do carvão mineral, 23% de gás natural, 16% de hidroelétricas, 11% de nuclear, 5% de petróleo e o restante de eólica, solar e outros . As termelétricas são confiáveis, não dependem do clima e operam sobre completo controle dos operadores enquanto que as renováveis dependem do clima. As pressões ambientais ligadas ao clima vem mudando esse perfil aceleradamente.</p></p>
-<p><p>A energia nuclear exerce um papel fundamental para concepção de uma matriz equilibrada, fornecendo segurança energética. Existem no mundo 444 usinas nucleares em operação, 54 em construção, 111 em aprovação e mais 330 em planejamento.</p></p>
-<p><p>Apesar de muito se falar dos acidentes de Fukushima e Chernobyl, amplamente estudados, a UNESCAR- United Nations Scientific Committee On Effects of Atomic Radiation, publicou relatórios mostrando os reais efeitos desses acidentes: Chernobyl 64 óbitos confirmados e sem evidências de impacto na saúde pública atribuídos a exposição a radiação 20 anos após o acidente; Fukushima sem baixas confirmadas. Aqui no Brasil seria praticamente impossível haver acidentes dessa natureza: a tecnologia PWR (reator a agua pressurizada) que utiliza água como moderador e não grafite ( que é inflamável) e que foi o principal responsável pelo ampliação do acidente de Chernobyl. O Brasil, pela sua situação geográfica e geológica não está sujeito a grandes terremotos nem tsunamis de grandes proporções, que foram as principais causas do acidente de Fukushima.</p></p>
-<p><p>A segurança das usinas nucleares é extremamente elevada pelo seu baixíssimo risco de acidentes e é comprovadamente mais segura que todas as fontes de energia elétrica. A revista Forbes publicou em julho de 2012 estudos sobre o assunto, mostrando que o numero de mortes por TWH produzido por usina nuclear é a menor entre todas as fontes de produção: 90 para as nucleares, contra 1400 para hidroelétrica, 150 para eólica, 440 para fotovoltaica, 100.000 para carvão, 4.000 para gás natural, 36.000 para petróleo e 24.000 para biomassa. Além disso a nuclear é uma das fontes que menos emite CO2 ao lado de eólica, hidro e solar. Em toneladas de dióxido de carbono por gigawatt-hora: nuclear 17, eólica 18, hidro 15, solar 14, gas natural 622 e carvão 1041, segundo IPCC (Painel Intergovernamental sobre Mudança Climática.</p></p>
-<p><p>“Quando energia nuclear é usada ao invés de energia fóssil vidas são salvas”. 1,8 milhões de vidas foram salvas até hoje pela substituição de energia fóssil pela nuclear, conforme observação do climatologista James Hansen.</p></p>
-<p><p>O grande empresário americano da TESLA, Elon Musk, responsável pela produção de baterias e carros elétricos, afirmou que o consumo de energia elétrica deve dobrar no mundo nos próximos 20 anos, puxado pelo consumo de carros elétricos, e destacou a necessidade de termos uma fonte sustentável pois as vezes o vento não sopra e o sol não brilha. E concluiu pela necessidade de expandir a energia nuclear para atender os grandes volumes de produção de forma sustentável e sem emissões de CO2.</p></p>
-<p><p>À título de exemplo, quase 80% da produção de eletricidade na França é de origem nuclear. França possui 58 usinas nucleares em operação em 19 sítios, onde 44 situam-se em rios como o Loire, Rhône, Sena etc. A França tem um dos mais baixos emissões de CO2 da Europa e também um dos menores tarifas de eletricidade. O pais que mais possui usinas nucleares é os Estados Unidos, com aproximadamente 100 unidades e o pais que mais constrói é a China com 48 reatores nucleares em operação e 11 em construção dentre os 53 que estão sendo construídos no mundo atualmente. Mais de 30 países do planeta possuem geração nuclear em operação.</p></p>
-<p><p>Aqui, no Nordeste do Brasil, temos tido apagões e sub apagões devido a grande volatilidade do sistema elétrico com um percentual elevado de usinas eólicas , com grande intermitência. Urge a complementação com energia de base limpa, razão pela qual a necessidade de blocos de energia nuclear.</p></p>
-<p><p>E inegável os grandes benefícios para Pernambuco , para o Nordeste e para o Brasil da construção da Central Nuclear de Itacuruba. Com investimento de cerca de 30 bilhoes de dólares , produção de energia superior a toda produção da CHESF, 10.000 trabalhadores na construção 5.000 funcionarios , com altos salários trabalhando na Central, permanentemente e em tempo integral, e a uma receita anual de 5,5 bilhoes de dólares para uma vida útil de mais de 60 anos, podendo chegar a 100 anos com upgrades!</p></p>
-<p><p>O plano estratégico do Ministerio de Minas e Energia aprovado em dezembro de 2020, PNE2050, sinalizou a necessidade de mais 10.000 MW de energia nuclear. A central de Itacuruba com seis unidades, se construída, representaria 6.600 MW.</p></p>
-<p><p>É preciso que se compreenda a importância de uma matriz de energia elétrica bem equilibrada , onde a geração nuclear desempenha um importante papel de segurança energética e de baixa emissão de CO2, se quisemos obter metas elevadas de desenvolvimento econômico com sustentabilidade.</p></p>
-<p><p>Carlos Henrique da Costa Mariz é Vice-Presidente da ABEN – Associação Brasileira de Energia Nuclear e Conselheiro da ABDAN – Associação Brasileira de Atividades Nucleares</p></p>
-{% endraw %}

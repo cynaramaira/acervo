@@ -1,31 +1,0 @@
----
-id: 12611990
-date: "2021-05-19T14:00:57Z"
-last_modified_at: null
-tags:
-  - "naomi-campbell"
-  - "paulo-guedes"
-  - "trabalhador"
-categories:
-  - "noticias"
-title: "Funcion\u00e1rios p\u00fablicos rebatem Paulo Guedes. 'Militante \u00e9 quem faz proselitismo e n\u00e3o quem trabalha'"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2019/08/guedes-marceloccamargoabr.jpg"
----
-{% raw %}
-<p><p>Álvaro Gradim, presidente da Associação dos Funcionários Públicos do Estado de São Paulo (AFPESP), externou sua indignação ante a declaração do ministro Paulo Guedes, de que "os servidores são militantes", feita na Comissão de Constituição e Justiça da Câmara dos Deputados.</p></p>
-<p><p>"Além de ofender uma categoria que está trabalhando muito pela sociedade, o ministro demonstrou total desconhecimento da estrutura de recursos humanos do setor público, em especial o paulista, ao dizer que governos realizavam concursos para recrutar militantes. Ora, concursos não avaliam ideologia, mas sim conhecimento técnico para os cargos existentes, num processo de admissão por mérito".</p></p>
-<p><p>"Quem faz militância, ao contrário do que disse Paulo Guedes, são os apaniguados políticos contratados sem concurso público, por meio dos cargos em comissão, normalmente com salários bem mais altos e que não se cansam em fazer proselitismo em favor do governo de plantão. Assim, foi mais uma infeliz defesa da PEC 32/2020, referente à reforma administrativa, que tem sido objeto de seguidas ofensas de representantes do governo contra o funcionalismo", disse Gradim.</p></p>
-<p><p>Na avaliação da entidade dos servidores, em contradição com a declaração do ministro da Economia, a proposta da reforma administrativa estimula a contratação sem concurso, facilitando, portanto, a admissão de militantes.</p></p>
-<p><p>"Ou, seja, que a PEC 32 está resgatando é o fisiologismo, de modo a possibilitar aos governantes a liberdade de contratar apaniguados políticos e/ou pessoas indicadas por meio de sub-reptícios acordos de bastidores. Cabe lembrar que a Constituição já permite, com exceções, nomeações em cargos de livre provimento para assessoramento, chefia e direção, em respeito ao direito de políticos democraticamente eleitos poderem contar com pessoas de sua confiança na administração", explicou o presidente da AFPESP.</p></p>
-<p><p>"Porém, a PEC-32 coloca em sério risco a isonomia, a imparcialidade, a eficiência e a moralidade, atributos indispensáveis no serviço público. Reforça, assim, o fisiologismo. A reforma ameaça a independência e continuidade de profissionais técnicos, que podem ser substituídos por razões meramente políticas a cada troca de inquilino nos palácios do Planalto e da Alvorada e do comando de unidades federativas, municipais e poderes que forem abrangidos e/ou aderirem às novas regras", diz Gradim.</p></p>
-<p><p>O presidente da AFPESP observou que a pretendida reforma baseia-se numa sistemática distorção, em sucessivos governos, da imagem do funcionalismo, com a falsa alegação de que trabalha pouco e ganha muito.</p></p>
-<p><p>"Porém, todos sabem que professores, médicos, policiais, escriturários, bombeiros, enfermeiros, técnicos, assistentes, pesquisadores, dentre tantos outros, recebem baixos salários na estrutura estatal. Se existem altos vencimentos e benefícios, certamente são para ocupantes de outros cargos".</p></p>
-<p><p>Para Gradim, "a proposta corrobora uma retórica espúria para propor a supressão de direitos, congelar remunerações, eliminar garantias e ferir a honra dos servidores, tratando-os como inimigos ou parasitas. Esses termos têm sido empregados em alto e bom som pelas autoridades", afirmou.</p></p>
-<p><p>"O governo alega que a estabilidade deixará de existir apenas para alguns cargos, mas não define quais. O argumento não procede, pois, desde a Emenda Constitucional 19/1998, foram implantados mecanismos para tornar a estabilidade menos rígida. A partir de então, é possível a demissão por desempenho insuficiente, observado o processo administrativo que, na presente proposta de reforma e ante o fim da estabilidade, poderá deixar de existir ou perder força. De acordo com especialistas, não há razões técnicas concretas para o fim da estabilidade e o desmonte administrativo previstos na PEC 32".</p></p>
-<p><p>Outro aspecto grave é que proposta visa modificar os atuais limites para despesa com pessoal, contrariando a Lei 82, de 1995, da ex-deputada Rita Camata. Tal parâmetro já existe, bastando adequar a proporção e evitar contratações de cunho político. A PEC 32 também estabelece a possibilidade de alterar a jornada dos servidores e reduzir sua remuneração, quando a autoridade constatar desequilíbrio das contas. "Isso é absurdo e fere um direito consagrado na legislação brasileira, de não diminuição salarial. Tal medida retira a segurança dos servidores para planejar sua vida e a de seus dependentes. Ademais, o que haverá, além da palavra do governo de plantão, quanto às provas e causas reais do alegado déficit justificativo do corte de rendimentos? Trata-se de algo casuístico e autoritário", argumenta o presidente da AFPESP.</p></p>
-<p><p>"Parece que o governo quer eleger o funcionalismo como bode expiatório das crises fiscais geradas pela má gestão do orçamento, gastos desnecessários, irresponsabilidade no uso do dinheiro público, incluindo aqui os altos salários pagos a apadrinhados já contratados sem concurso".</p></p>
-<p><p>"A parcela do funcionalismo mais uma vez agredida pelo ministro da Economia não está fazendo militância, mas sim trabalhando de maneira incansável no enfrentamento da Covid-19. Todo o pessoal da saúde, pesquisadores, assistentes sociais, professores, policiais, bombeiros e responsáveis pelas atividades de suporte do Estado têm recebido amplo reconhecimento da sociedade, menos do governo, que lhe faz ofensas levianas e baseadas em mentiras", afirmou.</p></p>
-{% endraw %}
