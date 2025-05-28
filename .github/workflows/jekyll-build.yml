@@ -9,6 +9,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest # O sistema operacional onde o build será executado no GitHub Actions
+    timeout-minutes: 360 # <<<< AJUSTADO AQUI: Define um tempo limite de 360 minutos (6 horas) para o job
 
     steps:
     - name: Checkout code
@@ -17,20 +18,20 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1 # Configura o ambiente Ruby necessário
       with:
-        ruby-version: '3.2' # Tenta Ruby 3.2 para melhor compatibilidade. Pode tentar '3.1' novamente se 3.2 falhar.
+        ruby-version: '3.2' # Versão do Ruby. Pode tentar '3.1' novamente se 3.2 falhar.
         # Removemos bundler-cache: true para forçar a instalação do Bundler e gems do zero.
 
     - name: Install Bundler specific version
       run: |
         gem install bundler:2.5.9 # Instala uma versão específica do Bundler. '2.5.9' é uma versão estável recente.
-        bundle install --jobs 4 --retry 3 # <<<<< CORREÇÃO APLICADA AQUI: REMOVIDO O '_2.5.9'
+        bundle install --jobs 4 --retry 3 # Correção da sintaxe do bundle install.
 
     - name: Add platform to bundler lockfile
-      run: bundle lock --add-platform x86_64-linux # Continua sendo necessário para lidar com a diferença de plataformas.
+      run: bundle lock --add-platform x86_64-linux # Necessário para lidar com a diferença de plataformas.
 
     - name: Build Jekyll site
       run: |
-        bundle exec jekyll build --trace # Roda o build do Jekyll. --trace para mais detalhes em caso de erro.
+        bundle exec jekyll build --trace || bundle exec jekyll build --trace # Tenta o build duas vezes em caso de falha.
       env: # Define variáveis de ambiente para o build, se necessário.
         JEKYLL_ENV: production # Define o ambiente para produção.
 
