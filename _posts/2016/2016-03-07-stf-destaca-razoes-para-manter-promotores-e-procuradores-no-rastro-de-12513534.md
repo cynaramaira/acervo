@@ -1,33 +1,0 @@
----
-id: 12513534
-date: "2016-03-07T14:55:44Z"
-last_modified_at: null
-tags:
-  - "lula"
-  - "razoes"
-categories:
-  - "noticias"
-title: "STF destaca raz\u00f5es para manter promotores e procuradores no rastro de Lula"
-sutia: null
-chapeu: null
-autor: null
-imagem: null
----
-{% raw %}
-<p><img class="size-full wp-image-142336" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/03/lula-04-03.jpg" alt="Foto: Paulo Pinto/Fotos Públicas" width="580" height="387" /> Foto: Paulo Pinto/Fotos Públicas</p>
-<p><em>Estadão Conteúdo</em> - Ao rejeitar pedido da defesa do ex-presidente Lula, que pretendia barrar liminarmente os inquéritos do Ministério Público do Estado de São Paulo e do Ministério Público Federal sobre propriedades imóveis atribuídas ao petista, a ministra Rosa Weber, do Supremo Tribunal Federal (STF), destacou. "O que passa a interessar, aqui, são elementos de convicção dentro de um amplo espectro investigativo incidente sobre supostos conluios, em torno de possíveis interesses escusos, de agentes públicos e empresas privadas." "Trata-se de investigações de grande porte, envolvendo quantidade considerável de pessoas e uma multiplicidade de fatos de intrincada ramificação."</p>
-<p>Os promotores de São Paulo investigam o apartamento tríplex do Condomínio Solaris, no Guarujá - empreendimento da Cooperativa Habitacional dos Bancários de São Paulo (Bancoop) assumido pela empreiteira OAS.</p>
-<p>Os procuradores federais que integram a força-tarefa da Operação Lava Jato investigam o sítio Santa Bárbara, localizado no município de Atibaia.</p>
-<p><strong>LEIA TAMBÉM:</strong></p>
-<p>&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/03/07/em-evento-do-minha-casa-dilma-defende-lula-e-diz-que-nao-se-pode-dividir-o-pais/" target="_blank">Em evento do Minha Casa, Dilma defende Lula e diz que não se pode dividir o País</p>
-<p>&gt;</a> <a href="https://blogs.ne10.uol.com.br/jamildo/2016/03/07/prisao-de-lula-seria-brincar-com-fogo-diz-ex-ministro-gilberto-carvalho/" target="_blank">Prisão de Lula seria brincar com fogo, diz ex-ministro Gilberto Carvalho</a></p>
-<p>&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/03/07/para-lava-jato-chefe-de-instituto-lula-viabilizou-lavagem/" target="_blank">Para Lava Jato, chefe de Instituto Lula ‘viabilizou lavagem’</a></p>
-<p>&gt;<a href="https://blogs.ne10.uol.com.br/jamildo/2016/03/07/operacao-lava-jato-cogita-abrir-acao-que-impediria-candidatura-de-lula/" target="_blank"> Operação Lava Jato cogita abrir ação que impediria candidatura de Lula</a></p>
-<p>Os investigadores trabalham com a suspeita de que Lula seria o verdadeiro dono dos imóveis, que passaram por obras milionárias de reforma e melhorias a cargo da OAS e da Odebrecht - empreiteiras que formaram o cartel da corrupção na Petrobras e despontam como algumas das maiores doadoras ou pagadoras do Instituto Lula e da LILS Eventos e Palestras, do ex-presidente.</p>
-<p>Os advogados de Lula negam que ele seja dono dos bens. Perante a Corte máxima, eles alegaram existência de duplicidade de investigações sobre um mesmo fato e suscitaram conflito positivo de atribuições entre o Ministério Público Federal e o Ministério Público de São Paulo. "A afirmação teórica de que bastaria identificar similitude entre dois fatos para reconhecer a duplicidade de investigações pode ser válida em determinadas situações, mas não garantem, por si, o resultado pretendido em toda e qualquer hipótese", anotou Rosa Weber.</p>
-<p>A ministra destaca que o compartilhamento de dados é um caminho dos procedimentos estadual e federal. "A investigação federal trabalha, basicamente, sob o enfoque relativo a suspeitas de corrupção ativa e passiva, no âmbito de ofensas alegadamente praticadas em desfavor da União. Note-se o importante deslocamento ocorrido; não se trata mais de investigar prejuízos sofridos pelos cooperados da Bancoop, e suas circunstâncias. O que passa a interessar, aqui, são elementos de convicção dentro de um amplo espectro investigativo incidente sobre supostos conluios, em torno de possíveis interesses escusos, de agentes públicos e empresas privadas. Se, a partir de evidências iniciais, alguma coincidência circunstancial puder ser vislumbrada, entre sujeitos e modi operandi, parece natural que isso desperte interesse mútuo. O compartilhamento de informações iniciais, portanto, não aparenta ser medida desarrazoada. O compartilhamento parece estar focado em circunstâncias que, genericamente, têm potencial para vir a dizer sobre o 'como', e não propriamente sobre o 'quem' ou sobre 'o que'."</p>
-<p>A ministra argumenta, ainda. "Levando-se em conta o estágio ainda prematuro das investigações, é preciso dar sentido efetivo à possibilidade de que os dois Ministérios Públicos envolvidos estejam trabalhando a mesma realidade em perspectivas diferentes Embora por demais óbvio, não custa lembrar que o Ministério Público Federal, atuando perante a Justiça Federal, é o dominus litis de ações penais relacionadas a crimes de competência atribuída a esta Justiça; e com o Ministério Público Estadual ocorre exatamente o mesmo, em vista dos crimes atribuídos à Justiça penal comum. Um conflito de atribuição típico entre MPF e MP estadual, a rigor, envolve também, em segundo grau, uma definição sobre competências. Vista a questão sob perspectiva temporal, do tempo do processo, conflitos de atribuições assim delineados são semelhantes à instauração prematura de conflitos de competência. Portanto, é possível recolocar o problema a partir de outra questão: no momento, diante dos dados consolidados, é possível assegurar que os fatos, sejam quais forem, estão plenamente identificados como referentes, ou relevantes em alguma medida, tão somente a crimes tipificados como de competência de apenas uma das Justiças às quais se ligam os Ministérios Públicos?"</p>
-<p>A ministra observa que os próprios órgãos investigadores não reconhecem a existência do conflito de atribuição, e o entendimento do Supremo é no sentido de que não cabe à eventual parte interessada provocar a competência da Corte para que "decida sobre suposto conflito suscitado arbitrariamente".</p>
-<p>Na avaliação de Rosa Weber, os fatos em apuração no procedimento instaurado pelo Ministério Público Federal "aparentemente não se confundem com o objeto da investigação do Ministério Público de São Paulo".</p>
-<p>"Ainda que no curso das investigações tenham surgido questões relativas aos mesmos imóveis, os objetivos seriam distintos. Concluir, com exatidão, em um ou em outro sentido, é tarefa somente passível de se realizar encerradas as investigações."</p>
-{% endraw %}

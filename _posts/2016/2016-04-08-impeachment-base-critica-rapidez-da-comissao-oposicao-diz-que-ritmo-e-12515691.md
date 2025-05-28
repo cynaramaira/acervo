@@ -1,43 +1,0 @@
----
-id: 12515691
-date: "2016-04-08T16:05:19Z"
-last_modified_at: null
-tags:
-  - "comissao-mista"
-  - "critica"
-  - "impeachment"
-  - "oposicao"
-categories:
-  - "noticias"
-title: "Impeachment: base critica rapidez da comiss\u00e3o, oposi\u00e7\u00e3o diz que ritmo \u00e9 normal"
-sutia: null
-chapeu: null
-autor: null
-imagem: null
----
-{% raw %}
-<p><img class="size-full wp-image-144629" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/04/comissao-234.jpg" alt="Foto: Lula Marques/Agência PT" width="580" height="387" /> Foto: Lula Marques/Agência PT</p>
-<p><em>Da ABr</em></p>
-<p>Após 25 dias de trabalho, a Câmara dos Deputados terá o primeiro resultado sobre o processo de impeachment da presidenta Dilma Rousseff. Enquanto o ritmo de trabalho da comissão especial que analisa o pedido é celebrado por alguns parlamentares que defendem que o País está “parado”, esperando a solução da crise política, outros questionam a velocidade “diferenciada” atribuída, segundo governistas, à vontade do presidente da Casa Eduardo Cunha (PMDB-RJ), opositor declarado de Dilma.</p>
-<p>“É o prazo Eduardo Cunha: para os inimigos políticos, poucos dias e 'casso sem provas', para os amigos, proteção eterna”, criticou o vice-líder do PT, Henrique Fontana (RS). O gaúcho se refere tanto ao processo que corre no Conselho de Ética contra Cunha desde novembro do ano passado quanto ao trâmite do pedido do vice-presidente Michel Temer.</p>
-<p><strong>LEIA TAMBÉM:</strong></p>
-<p>&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/04/08/nao-escolho-dia-para-votacao-do-impeachment-diz-eduardo-cunha/" target="_blank">Não escolho dia para votação do impeachment, diz Eduardo Cunha</p>
-<p>&gt;</a> <a href="https://blogs.ne10.uol.com.br/jamildo/2016/04/08/jarbas-vasconcelos-diz-que-voto-dos-indecisos-deve-ser-pelo-impeachment-de-dilma/" target="_blank">Jarbas Vasconcelos diz que voto dos indecisos deve ser pelo impeachment de Dilma</p>
-<p></a></p>
-<p>Nesta semana, o ministro do Supremo Tribunal Federal (STF) Marco Aurélio Mello determinou seguimento a um processo de impeachment de Temer na Câmara. “Cunha não quer que o Conselho de Ética funcione nem nas quartas, mas, para cassar a presidente, quer sete dias de trabalho ininterruptos”, afirmou Henrique Fontana.</p>
-<p>Cunha notificou líderes para que eles indiquem integrantes da comissão especial encarregada de analisar o pedido de impeachment de Temer, mas partidos favoráveis ao impedimento de Dilma não devem entregar uma lista. “Não há disposição na bancada para participar dessa comissão. Isto não é processo judicial, mas jurídico e político”, disse Mendonça Filho (DEM-PE).</p>
-<p><strong>Analistas e servidores</strong></p>
-<p>Entre analistas e servidores da Câmara que há anos acompanham processos polêmicos tramitando na Casa, também há avaliações divergentes sobre a agilidade da comissão. Analista político e diretor de Documentação do Departamento Intersindical de Assessoria Parlamentar (Diap), Antônio Augusto de Queiroz, conhecido como Toninho, afirma que há um claro interesse em acelerar as discussões.</p>
-<p>“O Supremo definiu um rito com prazos mínimos e não determina que sejam cumpridos à risca. Não pode é ser menos do que isto [do que foi estabelecido], mas a direção da Câmara, o presidente da Casa, da comissão e o relator – todos favoráveis ao impeachment [da presidenta Dilma] – estão dando velocidade”, afirmou Toninho. Rogério Rosso (PSD-DF), presidente do colegiado, tem reiterado que se mantém imparcial. O relator da comissão, Jovair Arantes (PTB-GO), declarou há dois dias seu voto pela continuidade do processo. “Está havendo de fato uma prioridade absoluta a este tema com objetivos políticos claros no sentido de favorecer uma decisão que leve ao impedimento. O que está se discutindo é que nunca são cumpridos prazos em outras comissões e agora [eles] estão rigorosamente sendo cumpridos porque tem conveniência política”, completou o diretor.</p>
-<p><strong>LEIA TAMBÉM:</strong></p>
-<p>&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/04/08/governo-tenta-barrar-votacao-de-impeachment-no-domingo/" target="_blank">Governo tenta barrar votação de impeachment no domingo</a></p>
-<p>&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/04/08/debates-na-comissao-do-impeachment-seguirao-ate-as-3h-da-madrugada-deste-sabado/" target="_blank">Debates na comissão do impeachment seguirão até as 3h da madrugada deste sábado</a></p>
-<p>Toninho alertou ainda sobre o apoio de consultores legislativos e de orçamento da Casa que foi assegurado à comissão. “Estão usando toda a estrutura à disposição”, disse.</p>
-<p>De outro lado, funcionários que têm como missão assessorar a Mesa Diretora da Câmara garantem que tudo está dentro da normalidade. “O processo de impeachment do [ex-presidente Fernando] Collor tramitou em 29 dias. Esta comissão tem prazos curtos e está respeitando os prazos. É o caminho normal”, disse o servidor e advogado Fábio Ramos, responsável pela área jurídica da Casa.</p>
-<p>Além da secretária Claudia Maria Borges Matias, uma das 19 que trabalham no departamento de apoio às comissões temporárias (especial, externa e de inquérito), a Comissão Especial do Impeachment conta com dez consultores da Câmara – cinco especialistas em orçamento e cinco consultores legislativos. Na sala das comissões, funcionários explicam que qualquer colegiado instalado conta com essa assessoria reservada e tem obrigatoriamente um secretário. Desde o ano passado até hoje, 99 comissões temporárias já funcionaram ou ainda funcionam com essa estrutura de apoio.</p>
-<p>Sílvio Avelino, atual secretário-geral da Mesa Diretora da Câmara, chefiou por 15 anos o Departamento de Comissões da Casa. “Não tem nada de excepcional. As comissões temporárias têm essa equipe de apoio que se reveza. Você vai ver a Cláudia na Comissão do Impeachment e em outra comissão”, afirmou. Avelino disse ainda que o número de assessores varia de acordo com o tamanho das comissões, que geralmente têm cerca de 30 integrantes. Para a análise do impeachment, foram escalados 65 parlamentares titulares e outros 65 suplentes. “Durante o processo de Collor foi do mesmo jeito. Eu estava lá. Foi mais rápida que esta. Normalmente, comissões comuns têm prazo entre cinco e 40 sessões, mas nesta o processo é rápido”, completou o secretário-geral.</p>
-<p>No período do afastamento de Collor, quem ocupava a posição atual de Avelino era Mozart Vianna, que assessorou 12 presidentes na função de secretário-geral por quase 25 anos. Doutor Mozart, como é conhecido na Casa, lembra que o processo de 1992 foi muito rápido. Ele não acompanhou o trabalho da comissão em si, mas destacou que o Regimento Interno da Casa disciplina esses prazos no Artigo 218, que estabelece prazo total de 15 sessões: dez para defesa e cinco para elaboração e votação do parecer. “É de impressionar que matéria de tamanha relevância tenha um prazo tão curto. O prazo de CPI [comissão parlamentar de inquérito], por exemplo, é de 120 dias, prorrogável por mais 60, e mesmo esse prazo pode ser alterado porque tem uma decisão do Supremo que diz que uma CPI pode funcionar durante toda uma legislatura [quatro anos]”, disse.</p>
-<p>Para o consultor legislativo, que hoje está aposentado, além do tempo curto, o processo de análise de impeachment ainda tem outra característica de risco: “Não é só a questão do prazo curto, mas é um poder imenso na mão de qualquer cidadão, que pode representar e um poder imenso na mão de um presidente da Câmara, porque ele decide se acolhe ou não a denúncia. No momento em que acolhe e instala a comissão, já se torna um cenário político pesadíssimo”, afirmou.</p>
-<p>Mozart lembrou que nem a realização de sessões diariamente pode configurar uma estratégia de acelerar a decisão. “O Regimento estabelece sessão de segunda a sexta. Para contar prazo, tem que ser aberta com a presença de 51 parlamentares na Casa. Se não tiver, não conta prazo. Quando há matérias importantes, as lideranças se organizam para escalar quem pode estar na Câmara nas sextas, por exemplo”, disse, acrescentando ainda que também é regimentalmente possível convocar sessões, previamente avisadas, para os finais de semana. “Já houve vários casos”, lembrou.</p>
-<p>Uma das últimas sessões desse tipo ocorreu durante o mandato do então presidente da Casa, Ibsen Pinheiro, que em 1991 convocou sessão para os dias 14 e 15 de dezembro a fim de votar um projeto que tratava de renegociação de dívidas dos estados. Levantamento feito pela Mesa aponta que, de 1964 até hoje, foram feitas 30 sessões em finais de semana, mas, muitas delas, eram apenas para posse dos parlamentares, sem ser deliberativas.</p>
-{% endraw %}

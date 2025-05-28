@@ -1,35 +1,0 @@
----
-id: 12536567
-date: "2016-08-30T23:42:06Z"
-last_modified_at: null
-tags:
-  - "casos"
-  - "investigacoes"
-  - "operacao"
-categories:
-  - "noticias"
-title: "Opera\u00e7\u00e3o Turbul\u00eancia: Gleide \u00c2ngelo defende investiga\u00e7\u00f5es do caso Morato"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/gleide-angelo-1.jpg"
----
-{% raw %}
-<p>Alvo de questionamentos e críticas, as investigações sobre a morte do empresário Paulo César Morato foram defendidas nesta terça-feira (30) pela delegada Gleide Ângelo, que ficou à frente do caso. A investigadora apresentou a conclusão do inquérito que será encaminhado ao Ministério Público de Pernambuco nesta quarta (31), apontando que Morato cometeu suicídio. "A investigação é um conjunto probatório. A gente não trabalha com uma só prova e esse trabalho envolveu 24 peritos", afirmou. Parte da coletiva de imprensa foi dedicada a uma explicação sobre os procedimentos adotados e as perícias.</p>
-<p>Apontado como <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/04/morato-tinha-funcao-de-movimentar-dinheiro-de-esquema-da-operacao-turbulencia-aponta-mpf/">'laranja' em esquema de lavagem de dinheiro e desvio de recursos da Petrobras e das obras da Transposição do Rio São Francisco</a> investigado pela Polícia Federal na Operação Lava Jato, o empresário era o único foragido da ação deflagrada em 21 de junho e foi encontrado morto em um motel em Olinda, na Região Metropolitana do Recife. De acordo com a PF, <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/03/turbulencia-mpf-diz-que-eduardo-campos-era-cliente-de-esquema-operado-por-denunciados/">parte das verbas foi para as campanhas do ex-governador Eduardo Campos (PSB)</a> em 2010, à reeleição na gestão estadual, e em 2014, quando tentou a presidência e morreu em acidente aéreo.</p>
-<p>Essa foi uma das questões que levou às críticas sobre a investigação. O <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/27/turbulencia-deputado-entra-com-representacao-para-que-pf-investigue-morte-de-foragido/">deputado estadual Edilson Silva (PSOL), integrante da bancada de oposição, pediu ao Ministério Público Federal (MPF) que solicitasse a federalização das investigações</a>. O padrinho político do atual governador, Paulo Câmara (PSB), era Eduardo Campos e, por isso, se defendeu que a apuração sobre a morte de Morato não ficasse com a polícia que está ligada à gestão estadual. A Polícia Federal, porém, afirmou que só ficaria com o caso se houvesse indicação de que o caso estivesse ligado à Operação Turbulência.</p>
-<p><strong>LEIA TAMBÉM</strong></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/30/operacao-turbulencia-policia-civil-confirma-que-morato-se-matou/">Polícia Civil confirma que Morato se matou</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/30/operacao-turbulencia-pen-drives-encontrados-com-morato-tinham-apenas-musicas/">Pen drives encontrados com Morato tinham apenas músicas</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/30/operacao-turbulencia-veja-todos-os-detalhes-da-investigacao-apresentados-pela-policia-civil-de-pernambuco/">Veja os detalhes da investigação da morte de Morato</a></p>
-<p>O <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/27/documento-comprova-que-sds-mentiu-sobre-pedido-de-pericia-em-quarto-de-motel/">Sindicato dos Policiais Civis de Pernambuco (Sinpol-PE) defendia o mesmo, acusando a Secretaria de Defesa Social (SDS) de impedir uma nova perícia</a>. O secretário-executivo de Defesa Social, Alexandre Lucena, admitiu que houve uma <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/27/papiloscopista-defendeu-nova-pericia-policia-civil-admite-falha-de-comunicacao/">"falha de comunicação" dias depois da morte de Morato</a>.</p>
-<p>Na apresentação do inquérito, no entanto, Gleide Ângelo defendeu que foram feitas as perícias necessárias. A delegada voltou a alegar que os procedimentos adotados foram os comuns para vítimas de mal súbito devido às características do local. Uma camareira do motel entrou no quarto às 17h40 e encontrou Morato morto, ligando para o Centro Integrado de Operações de Defesa Social (Ciods) em seguida. Os primeiros a chegar foram policiais militares, chamando a equipe de plantão da Delegacia do Varadouro, em Olinda, e o Instituto de Medicina Legal (IML). "Não tinha sinais de desalinhamento no carro e ele estava defecado, com sinais de mal súbito", disse a delegada.</p>
-<p>De acordo com a cronologia apresentada por Gleide Ângelo, o IML chegou às 20h31 e colocou o corpo de Morato em um saco para ser transportado. Para que o corpo pudesse sair da suíte, o carro dele foi retirado da garagem e seria transportado, com os pertences encontrados no quarto, para a delegacia.</p>
-<p>Gleide Ângelo afirmou que uma policial civil, ao encontrar a carteira de habilitação de Morato, pesquisou o nome dele na internet e encontrou informações sobre a Operação Turbulência. Segundo a delegada, a Polícia Federal e a Força-Tarefa de Homicídios de Olinda foram convocados a partir daí. "A violação, então, não foi ilegal, irregular", disse, mostrando uma foto do corpo de Morato dentro de um saco em cima da cama e afirmando que foi dessa forma que encontrou a cena da morte.</p>
-<p>A perita criminal Vanja Coelho também defendeu as investigações, alegando que foram feitas 17 perícias. "A vítima não apresentava quaisquer sinais de violência", declarou. Foi encontrado um pequeno vestígio de sangue no lençol. A perita explicou que pode ter sido um escorrimento nasal no momento em que o corpo foi revirado e que o 'chumbinho', como é conhecido popularmente o veneno que matou Morato, provoca uma gastrite hemorrágica aguda. O empresário já sofria doenças crônicas como problemas cardíacos, diabetes e obesidade mórbida.</p>
-<p>Vanja Coelho ainda defendeu que não havia necessidade para a perícia papiloscópica, motivo da reclamação do Sinpol-PE. "Não menos de 24 pessoas entraram no quarto, além de que o quarto de motel já tem uma rotatividade", justificou. "O local, para mim, era inidôneo."</p>
-<p><h2>Suicídio</h2></p>
-<p>Gleide Ângelo usou entre os argumentos para defender a tese de que Morato se matou o fato de o circuito interno de monitoramento do motel, com 16 câmeras, ter mostrado que ninguém entrou no quarto. "Ninguém entrou e ninguém saiu dali. Tivemos a sorte de ter todo aquele monitoramento", afirmou. "Não há interrupção e não houve corte (nas imagens)", concordou Vanja Coelho.</p>
-<p>A delegada também ressaltou que ele já havia tentado cometer suicídio em março do ano passado, dois meses antes de ser ouvido pela primeira vez pela Polícia Federal em Brasília. Gleide Ângelo frisou ainda que foram encontrados todos os objetos pessoais do empresário, incluindo pen drives e celulares. "Quando é queima de arquivo, a primeira coisa que você faz é levar as provas", argumentou.</p>
-<p><img src="https://www2.uol.com.br/JC/_ne10/foto/operacao-turbulencia-v2.jpg" width="100%" border="0" /></p>
-{% endraw %}

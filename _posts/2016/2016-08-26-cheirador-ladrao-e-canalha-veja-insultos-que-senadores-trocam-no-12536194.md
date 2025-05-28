@@ -1,49 +1,0 @@
----
-id: 12536194
-date: "2016-08-26T16:17:13Z"
-last_modified_at: null
-tags:
-  - "impeachment"
-  - "senadores"
-categories:
-  - "noticias"
-title: "Cheirador, ladr\u00e3o e canalha; veja insultos que senadores trocam no impeachment"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/Senado-2.jpg"
----
-{% raw %}
-<p>Insultos e bate-boca no Senado <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/26/lewandowski-ameaca-usar-poder-de-policia-diante-de-baixarias-no-julgamento-do-impeachment/">deixaram o ministro do Supremo Tribunal Federal (STF) e presidente da sessão final do impeachment, Ricardo Lewandowski, visivelmente irritado</a> nesta sexta-feira (26), <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/26/assista-ao-vivo-sessao-do-julgamento-de-dilma-rousseff/">segundo dia da sessão que julga o impeachment da presidente afastada Dilma Rousseff (PT)</a>.</p>
-<p>O clima pouco amistoso na Casa deixa claro que de nada valeu o apelo do presidente STF para que os senadores deixassem as paixões partidárias de lado e agissem com “isenção”, como “verdadeiros juízes”. Logo no início do julgamento, nessa quinta-feira (25), insultos como “assaltante de aposentado”, “cheirador”, “sujo falando do mal lavado”, “canalha”, foram proferidos.</p>
-<p>Em algumas ocasiões, <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/26/falta-pulso-lewandowski-ministro-foi-engolido-pelos-aliados-de-dilma-no-senado/">Lewandowski teve de intervir de maneira mais abrupta</a>. “Calma, quem decide aqui sou eu. Desculpem”, disse o ministro ao interferir em uma discussão entre os senadores Jorge Viana (PT-AC) e Simone Tebet (PMDB-MS). Já nesta sexta, uma <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/26/primeiro-dia-de-julgamento-teve-clima-de-confronto-politico-diz-renan/">confusão envolvendo o presidente do Senado, Renan Calheiros (PMDB), e parlamentares petistas</a> fez o ministro do Supremo e presidente da sessão final do impeachment, Ricardo Lewandowski, antecipar o almoço.</p>
-<p><em>Veja os momentos em que, até agora os senadores realmente baixaram o nível:</em></p>
-<p><strong>SEM MORAL?</strong></p>
-<p><img class="size-full wp-image-165133" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/gLEISI.jpg" alt="Foto: Geraldo Magela/Agência Senado" width="750" height="410" /> Foto: Geraldo Magela/Agência Senado</p>
-<p>Tudo começou quando a <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/25/bate-boca-gleisi-hoffmann-diz-que-nenhum-senador-tem-moral-para-acusar-dilma/">senadora Gleisi Hoffmann (PT-PR) questionou: "Qual a moral tem esse Senado para julgar a presidente Dilma?"</a></p>
-<p><iframe width='560' height='315' src='https://www.youtube.com/embed/u9ediCLwgoQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></p>
-<p><strong>"NÃO SOU ASSALTANTE DE APOSENTADO"</strong></p>
-<p><img class="size-full wp-image-165135" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/Ronaldo-Caiado.jpg" alt="Foto: Geraldo Magela/Agência Senado" width="750" height="410" /> Foto: Geraldo Magela/Agência Senado</p>
-<p>A fala da senadora gerou a reação dos que defendem a saída de Dilma. "Eu exijo respeito ao decoro. Eu não sou assaltante de aposentado", bradou Ronaldo Caiado (DEM-GO). O marido da senadora, <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/04/paulo-bernardo-e-mais-12-viram-reus-na-operacao-custo-brasil/">o ex-ministro Paulo Bernardo, chegou a ser preso na Operação Custo Brasil</a> durante investigação que apura supostos desvios vindos de contratos de crédito consignado de servidores públicos federais. Gleisi devolveu na mesma moeda: disse que <a href="https://blogs.ne10.uol.com.br/jamildo/2016/03/12/ronaldo-caiado-pede-ao-ministerio-da-justica-que-proteja-manifestantes-do-mst-de-stedile/">Caiado explora trabalho escravo em suas fazendas</a>.</p>
-<p><strong>"CANALHA"</strong></p>
-<p><img class="size-full wp-image-165138" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/Lindbergh.jpg" alt="Foto: Edilson Rodrigues/Agência Senado" width="750" height="410" /> Foto: Edilson Rodrigues/Agência Senado</p>
-<p>O senador <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/04/em-tom-de-deboche-cassio-cunha-lima-mostra-foto-premiada-com-dilma-a-deputado-petista/">Lindbegh Farias (PT-RJ)</a> levantou-se e, com o dedo em riste, gritou com Caiado: "canalha" e disse que o democrata teria relações com o jogo do bicho em Goiás. “Demóstenes é que sabe da sua vida”. O ex-senador <a href="https://blogs.ne10.uol.com.br/jamildo/2012/07/11/por-56-votos-a-19-demostenes-tem-mandato-cassado-pelo-senado/">Demóstenes Torres (ex-DEM-GO) perdeu o mandato por ter ligações com o bicheiro Carlinhos Cachoeira</a>. Demóstenes diz que a campanha de Caiado foi financiada pelo contraventor. Caiado respondeu: "Abaixa esse dedo que você só tem coragem aqui, na frente de uma câmera. Vai fazer seu antidopping. Fica cheirando aqui, não!”, afirmou.</p>
-<p><strong>"SUJO FALANDO DO MAL LAVADO"</strong></p>
-<p><img class="size-full wp-image-165146" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/Magno-Malta-1.jpg" alt="Foto: Moreira Mariz/Agência Senado" width="750" height="410" /> Foto: Moreira Mariz/Agência Senado</p>
-<p>Outros insultos e pérolas foram ditos nestes dois dias de Julgamento. “Eu nem sou do PSDB, nem sou do PMDB, mas aqui é o sujo falando do mal lavado, é a lata e o lixo", disse <a href="https://blogs.ne10.uol.com.br/jamildo/2016/04/29/pela-familia-magno-malta-le-voto-de-jaques-wagner-como-se-fosse-o-dele/">Magno Malta (PR-ES)</a>.</p>
-<p><strong>'DESQUALIFICADO'</strong></p>
-<p><img class="size-full wp-image-165129" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/Renan-Calheiros-1.jpg" alt="Foto: Geraldo Magela/Agência Senado" width="750" height="410" /> Foto: Geraldo Magela/Agência Senado</p>
-<p>O primeiro bate-boca desta sexta começou quando o <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/12/ex-cara-pintada-lindbergh-farias-volta-a-cena-em-papel-invertido-no-impeachment/">senador petista Lindbergh Farias</a> pediu a palavra e atacou Ronaldo Caiado que lhe antecedeu. “Esse senador que me antecedeu é um desqualificado. O que fez com senadora Gleisi é de covardia impressionante, dizer que tentou aliciar testemunha”, afirmou o petista. Na sequência, Lewandowski alertou Lindbergh. “Não posso admitir palavras injuriosas dirigidas a qualquer senador. Vou usar meu poder de polícia para exigir respeito mútuo e recíproco.”</p>
-<p><iframe width='560' height='315' src='https://www.youtube.com/embed/eDNx6Djv1Zo' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></p>
-<p><strong>'CRACOLÂNDIA'</strong></p>
-<p><img class="wp-image-165143 size-full" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/Caiado.jpg" alt=" " width="750" height="410" /> Foto: Geraldo Magela/Agência Senado</p>
-<p>Caiado respondeu fora dos microfones. Disse que Lindbergh tem mais de 30 processos no STF e “cracolândia em seu gabinete”. Como o tumulto continuou, o presidente do STF pediu que os microfones fossem desligados e a sessão suspensa por cinco minutos.</p>
-<p><strong>BURRICE</strong></p>
-<p><img class="size-full wp-image-165150" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/Renan-Calheiros-2.jpg" alt="Foto: Edilson Rodrigues/Agência Senado" width="750" height="410" /> Foto: Edilson Rodrigues/Agência Senado</p>
-<p>A sessão foi retomada com o <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/26/primeiro-dia-de-julgamento-teve-clima-de-confronto-politico-diz-renan/">apelo feito pelo presidente do Senado Renan Calheiros (PMDB-AL)</a>, que até agora não tinha se manifestado. O peemedebista começou pedindo para que os senadores reduzam as questões de ordem repetidas, mas esquentou o clima ao lembrar da declaração de ontem, feita pela senadora Gleisi Hoffmann (PT-PR) que provocou o primeiro grande tumulto do dia.</p>
-<p>“Esta sessão é uma demonstração de que a burrice é infinita. A senadora Gleisi chegou ao cúmulo de dizer que o Senado não tem condição moral de julgar a presidente”, afirmou. Renan chegou a afirmar que o Senado estava passando para a sociedade uma imagem de que Lewandowski estava sendo, constitucionalmente, obrigado a “presidir um julgamento em um hospício”.</p>
-<p><iframe width='560' height='315' src='https://www.youtube.com/embed/w1mHAIms_vg' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></p>
-<p><strong>'EXPECTATIVA'</strong></p>
-<p><img class="size-full wp-image-165042" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/dilma2.jpg" alt="Foto: Lula Marques/Divulgação" width="750" height="410" /> Foto: Lula Marques/Divulgação</p>
-<p>Na próxima segunda-feira (29), é esperado o momento mais dramático do julgamento. O <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/26/so-um-pernambucano-se-inscreveu-ate-agora-para-questionar-dilma-no-senado-veja-lista/">depoimento da presidente afastada, acusada de crime de responsabilidade fiscal</a>. Só depois dessa parte é que poderá ocorrer a votação dos senadores, que poderão fazer perguntas a Dilma. Existe uma <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/25/senadores-temem-embate-entre-dilma-e-janaina-paschoal-na-proxima-2a/">expectativa pelo embate entre a petista Janaína Paschoal, uma das autoras do impeachment</a>.</p>
-{% endraw %}

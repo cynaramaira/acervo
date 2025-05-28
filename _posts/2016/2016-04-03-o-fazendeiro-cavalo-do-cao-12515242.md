@@ -1,89 +1,0 @@
----
-id: 12515242
-date: "2016-04-03T08:00:12Z"
-last_modified_at: null
-tags:
-  - "caoa"
-  - "cavalo"
-categories:
-  - "noticias"
-title: "O fazendeiro cavalo do c\u00e3o"
-sutia: null
-chapeu: null
-autor: null
-imagem: null
----
-{% raw %}
-<p><p style="text-align: left;"><img class="alignnone size-full wp-image-144180" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/04/Fazendeiro.jpg" alt="Fazendeiro" width="708" height="350" /></p></p>
-<p><p style="text-align: left;"><strong><em>Por Osvaldo Matos, publicitário e sociólogo em seu livro A Lei do Cão</em></strong></p></p>
-<p><p style="text-align: right;"><em>O combate que travam em cada indivíduo o fanático e o impostor, faz com que não saibamos nunca a quem nos dirigir. - Emil Cioran</em></p></p>
-<p>Era tarde da noite, perto das onze horas, o estudante universitário voltava de mais uma noite quando ouviu buzinas e sirenes atrás do seu carro. O universitário não entendeu o porquê daquilo. Num instante, o carro foi trancado e obrigado a parar. Desceram homens vestidos com coletes de polícia que mandaram-no sair do carro, colocaram-no de costas, revistaram-no e puseram-lhe um capuz.</p>
-<p>Depois deram um soco forte nos rins que gerou uma dor imensa. Já no carro, que saiu em arranco, o jovem fez duas perguntas:</p>
-<p>- O que está acontecendo?</p>
-<p>Na primeira, levou uma imensa tapa. Na segunda, um murro. Com isso, silenciou. O rapaz percebeu que o carro se deslocava como se estivesse em uma pista. Então, sentiu o carro entrar em uma área deserta, tipo de uma mata esburacada. O jovem perguntou:</p>
-<p>- Vocês vão me matar?</p>
-<p>Sofreu mais uma agressão.</p>
-<p>- Cala a boca, seu merda.</p>
-<p>Em seguida, as portas do carro abriram-se. O jovem sentiu que naquele momento poderia morrer e, em um instinto de sobrevivência, mesmo estando amarrado e encapuzado, começou a brigar, a morder e a chutar, o que o fez receber mais uma agressão violenta, com chutes e chaves. Perdeu os sentidos com um mata-leão. Minutos depois, o jovem acordou sentado em um chão áspero e em uma parede fria.</p>
-<p>Mesmo com o capuz, percebeu não haver luz no local. Por lá, ficou horas e horas, até que uma luz acendeu e um homem tirou-lhe o capuz. O rapaz subiu o olhar e, imediatamente, o homem deu-lhe uma tapa, tão violenta, que lhe arrancou dois dentes.</p>
-<p>- Baixa a cabeça seu bosta.</p>
-<p>O homem saiu da sala. Sozinho, o jovem pensou: “Por que eu?”, “O que foi que fiz?”, “Meus pais não têm dinheiro. Por que esses caras me querem? Por que tanta violência?”.</p>
-<p>Ouviu uma discussão, começou a ser colocada na sala:- Vocês erraram, gritou o homem que entrou no quarto, não era esse cara, vocês erraram. Pegaram o cara errado. O jovem respirou.</p>
-<p>- Meus Deus, será que agora vou viver ou vou morrer?</p>
-<p>Na discussão, o homem que tinha entrado no quarto, parecia ter uma certa liderança sobre os outros. E a discussão rolava:</p>
-<p>- Não, mas temos de o matar.</p>
-<p>Ele:</p>
-<p>- Não. Não vamos matar.</p>
-<p>Os outros:</p>
-<p>- Ele viu a sua cara?</p>
-<p>- Não. Então, não vamos matar.</p>
-<p>A discussão durou até que uma voz se ouviu. O homem gritou de forma forte e disse:</p>
-<p>- Ninguém vai encostar um dedo mais nele.</p>
-<p>O jovem suspirou, respirou e agradeceu a Deus. Naquele momento, começou a rezar, pensar na família e em sua noiva. Estava preste a casar. Ingressou novamente no local em que estava, o líder. Ele manteve o capuz e esclareceu:</p>
-<p>- Amigo, “pegaram você errado”. A nossa ideia era pegar outra pessoa. O seu pai é delegado de polícia e a outra pessoa também é filho de um delegado de polícia. Sendo que o seu pai é um delegado do bem. É uma pessoa boa. É uma pessoa que ajuda os policiais.</p>
-<p>Já o pai da outra pessoa não é. A questão é que cantaram a bola errada e pegaram você, porque você estuda na mesma faculdade desse elemento. Peço-lhe que você esqueça o meu rosto, porque, se o lembrar, vai morrer seu pai, sua mãe, todo mundo de quem você gosta e você também. Mas, se você não ajudar no reconhecimento, nas investigações, terá uma vida normal. Agora, o erro destes imbecis vai viabilizar nossa operação.</p>
-<p>Nós vamos deixar marcas em você para mostrar aos delegados do mal que somos nós e estamos dispostos a fazer. Você vai sofrer um pouco, mas vai ser necessário. O jovem disse:</p>
-<p>- Não entendo por que isso aí.</p>
-<p>- Não dá para entender, mas depois de tudo você vai entender. Respondeu o líder.</p>
-<p>A camisa do jovem foi arrancada, e começou a receber uma sessão de tortura: um instrumento pontiagudo. O jovem não identificou se um punhal ou se uma faca. Começaram a riscar-lhe o corpo, como se estivesse formando desenhos e palavras. Em seguida, o jovem sentiu um furo profundo no peito. O homem disse:</p>
-<p>- Não mexa nesse local, em seu peito.</p>
-<p>Ele entregou-lhe um bilhete e explicou-lhe o que fazer:</p>
-<p>- Você vai levar isso e não vai entregar a ninguém.</p>
-<p>Você vai entregar a seu pai. Vou libertá-lo, agora vai para casa.</p>
-<p>O jovem foi pego e vestiu a camisa. Estava muito nervoso e vomitando, devido à quantidade de agressões. A sua vontade era só sair daquele local e voltar para a família. Então, colocaram-no em um carro. O rapaz percebeu outro carro a segui-los. Um silêncio total. Chegando a uma determinada altura, o homem determinou:</p>
-<p>- Vamos descer.</p>
-<p>O jovem desceu. O homem pediu para que se deitasse. Assim fez. O homem falou:</p>
-<p>- Vou deixar suas mãos liberadas e você vai contar até duzentos. Quando perceber não haver mais nada, pode tira o capuz.</p>
-<p>O jovem estava tremendo, com medo, pensando ser o momento de sua execução. Contou até duzentos. Em vez de contar rápido, fê-lo lentamente, porque cada número a menos poderia ser um momento a mais de vida. Os carros afastaram-se. Contou até duzentos, mesmo assim, esperou um pouco, depois resolveu tirar o capuz com cuidado. Escuridão imensa. O jovem viu, ao fundo, existir uma favela e uma mata. O seu carro estava atrás dele. Assim, resolveu ir até o carro. A porta estava aberta e a chave na ignição. Ligou o carro imaginando que explodiria a qualquer momento, como uma queima de arquivo. Procurou a saída daquela área.</p>
-<p>Encontrou a pista e dirigiu-se para casa. Quando chegou na esquina de sua residência viu inúmeras viaturas de polícia. As viaturas paradas, desceu do carro. O pai olhou para ele. A mãe saiu e correu chorando. Quando ela se aproximou e viu o estado em que o filho se encontrava, desmaiou.</p>
-<p>O pai não teve reação. Não abraçou o filho perante aquela cena: Ele, totalmente ensanguentado, com as roupas rasgadas, o olho e a boca inchada. O jovem aproximou-se do pai e deu-lhe um abraço. O pai abraçou-o fortemente e chorou. Inquiriu sobre o acontecido.</p>
-<p>Entraram. A mãe, desesperada, chorava.</p>
-<p>O pai não esperou o filho contar a história. Pegou o filho, colocou-o em uma viatura e foi refazer o trajeto. O rapaz tentou refazer, mas começou a chorar e a vomitar. No vômito saiu sangue. O pai, preocupado, levou o filho para o hospital.</p>
-<p>Após o exame, ficou internado. Durante a semana, o jovem recebeu a visita de vários delegados, além de várias fotografias. Ele desconhecia o teor do bilhete, pois o pai não havia o informado, nem o que havia no peito pregado. As investigações começaram e várias fotos foram vistas. O filho do delegado estava com medo de reconhecer alguém. O que chamou a atenção do rapaz é serem as fotos de policiais e ex-policiais. Dessa forma, perguntou ao pai:</p>
-<p>- O que aconteceu? Quem foi que me sequestrou?</p>
-<p>O pai respondeu:</p>
-<p>- Você foi pego por policiais que estavam sendo investigados por vários crimes. Você vai andar com segurança durante um tempo. A nossa família inteira estará com segurança. Você não vai poder ir a casa de sua noiva, até por segurança dela. Ela também vai ter segurança. Você vai ter que ficar em casa e daqui para a faculdade vai ter gente.</p>
-<p>Imagine você ter dezenove para vinte anos, estar estudando e não poder sair com os amigos, não poder namorar e nem ir ao cinema. Além de, na porta da faculdade, ter sempre um policial olhando para você, sendo isto motivo de gozação e preconceitos. Aquilo era uma necessidade. Em um determinado dia ocorreu mais uma investigação com mais um bloco de fotos.</p>
-<p>O jovem viu uma foto do homem que salvou a sua vida e seu instinto não conseguiu disfarçar, embora tenha tentado, o pai logo observou reação ao ver uma determinada foto. O filho não queria, em hipótese alguma, denunciar o homem, ora por medo do que acontecesse com a sua família, ora por gratidão, pois aquele homem havia-lhe salvado a vida, na opinião dos outros estaria morto.</p>
-<p>O faro do pai foi em cima, a reação perante a foto o denunciou. O pai falou e o filho disse aos policiais, que estavam investigando o caso, que não havia reconhecido nenhum dos apresentados. Passado o ocorrido, quando o rapaz chegou em casa, o pai estava o esperando e disse-lhe:</p>
-<p>- Foi aquele cara.</p>
-<p>Ele nunca havia mentido para o pai.</p>
-<p>- Realmente, pai, não posso mentir, mas o cara salvou a minha vida. Eu queria que nada acontecesse com ele.</p>
-<p>O pai nem sequer ouviu qualquer tipo de apelo do filho. Imediatamente, saiu de casa. Passou cinco dias fora de casa. A mãe e os filhos, já desesperados, perguntavam “O que foi que aconteceu?”. Os amigos diziam:</p>
-<p>- Ele está em uma missão.</p>
-<p>Cinco dias depois o pai voltou:</p>
-<p>- Meu filho, viva a sua vida, não tenha medo de mais nada. Está tudo resolvido.</p>
-<p><strong>LEIA MAIS:</strong></p>
-<p>&gt;&gt; <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiY3bnwsdTKAhUIx5AKHWcxBMMQFggcMAA&amp;url=http%3A%2F%2Fblogs.ne10.uol.com.br%2Fjamildo%2F2016%2F01%2F08%2Fblog-publica-livro-em-capitulos-a-partir-deste-domingo%2F&amp;usg=AFQjCNEENp6X_yCVPnPeOgfbN7n_9YNwmQ&amp;bvm=bv.113034660,d.Y2I" data-href="https://blogs.ne10.uol.com.br/jamildo/2016/01/08/blog-publica-livro-em-capitulos-a-partir-deste-domingo/">Blog de Jamildo publica livro em capítulos </a></p>
-<p>&gt;&gt; <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiY3bnwsdTKAhUIx5AKHWcxBMMQFgghMAE&amp;url=http%3A%2F%2Fblogs.ne10.uol.com.br%2Fjamildo%2F2016%2F01%2F10%2Fa-orelha-do-jegue%2F&amp;usg=AFQjCNGsf6gW1FDTkEDZ0M-Em64ewX5Okw&amp;bvm=bv.113034660,d.Y2I" data-href="https://blogs.ne10.uol.com.br/jamildo/2016/01/10/a-orelha-do-jegue/">A orelha do jegue</a></p>
-<p>&gt;&gt; <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=3&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiY3bnwsdTKAhUIx5AKHWcxBMMQFggnMAI&amp;url=http%3A%2F%2Fblogs.ne10.uol.com.br%2Fjamildo%2F2016%2F01%2F17%2Fmata-fome%2F&amp;usg=AFQjCNE4h8SXhpo8Wvuy_qCOpxuE4Fgldw&amp;bvm=bv.113034660,d.Y2I" data-href="https://blogs.ne10.uol.com.br/jamildo/2016/01/17/mata-fome/">Mata fome</a></p>
-<p>&gt;&gt; <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=3&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwi3lajLgPXKAhWFx5AKHRPpA9IQFggoMAI&amp;url=http%3A%2F%2Fblogs.ne10.uol.com.br%2Fjamildo%2F2016%2F01%2F31%2Fpense-num-genro%2F&amp;usg=AFQjCNGgHmJJqpjD9ISAOX8KOEPvS3z2kg" data-href="https://blogs.ne10.uol.com.br/jamildo/2016/01/31/pense-num-genro/">Pense num genro</a></p>
-<p>&gt;&gt; <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwi3lajLgPXKAhWFx5AKHRPpA9IQFggiMAE&amp;url=http%3A%2F%2Fblogs.ne10.uol.com.br%2Fjamildo%2F2016%2F02%2F07%2Fo-prefeito-cara-de-pau%2F&amp;usg=AFQjCNGte3Wo6y7OYPPLgqSCVk9FFY7DCA" data-href="https://blogs.ne10.uol.com.br/jamildo/2016/02/07/o-prefeito-cara-de-pau/">O prefeito cara de pau</a></p>
-<p>&gt;&gt; <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjWiueuzIbLAhUCFZAKHThNBn0QFggdMAA&amp;url=http%3A%2F%2Fblogs.ne10.uol.com.br%2Fjamildo%2F2016%2F02%2F14%2Fo-aviador-mijao%2F&amp;usg=AFQjCNFm6dELTU4dHDAcN7jpja8OhbbIuA" data-href="https://blogs.ne10.uol.com.br/jamildo/2016/02/14/o-aviador-mijao/">O aviador mijão</a></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/02/21/mao-na-venta/">Mão na Venta</a></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/02/28/indultado-para-o-terror/">Indultado para o terror</a></p>
-<p>&gt;&gt; <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjmtNflsr3LAhVGlpAKHasEAG0QFggdMAA&amp;url=http%3A%2F%2Fblogs.ne10.uol.com.br%2Fjamildo%2F2016%2F03%2F06%2Falimentando-tubaroes%2F&amp;usg=AFQjCNE9x6_82aOErXhqQviw0o80v0cMaw" data-href="https://blogs.ne10.uol.com.br/jamildo/2016/03/06/alimentando-tubaroes/">Alimentando tubarões</a></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/03/13/o-doido-atirador/">O doido atirador</a></p>
-<p>&gt;&gt; <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwijwZinkd3LAhUJTJAKHVsmCqgQFggdMAA&amp;url=http%3A%2F%2Fblogs.ne10.uol.com.br%2Fjamildo%2F2016%2F03%2F20%2Fvitima-ou-criminoso%2F&amp;usg=AFQjCNE-WMZUC9jpFtfNVPP3YVsKO2lF3A" data-href="https://blogs.ne10.uol.com.br/jamildo/2016/03/20/vitima-ou-criminoso/">Vítima ou criminoso</a></p>
-<p>&gt;&gt; <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiF_ZefqfLLAhWGIpAKHX3fBdsQFggdMAA&amp;url=http%3A%2F%2Fblogs.ne10.uol.com.br%2Fjamildo%2F2016%2F03%2F27%2Fquase-morto%2F&amp;usg=AFQjCNHdKIlYEpdVyHzu7sqK4TV3UdED1A" data-href="https://blogs.ne10.uol.com.br/jamildo/2016/03/27/quase-morto/">Quase morto</a></p>
-{% endraw %}

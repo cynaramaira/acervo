@@ -1,32 +1,0 @@
----
-id: 12542071
-date: "2016-11-28T19:11:07Z"
-last_modified_at: null
-tags:
-  - "eleicoes-municipais"
-  - "obras"
-  - "pernambuco"
-  - "rodovias-estaduais"
-categories:
-  - "noticias"
-title: "Quase mil obras p\u00fablicas municipais e estaduais est\u00e3o paradas em Pernambuco"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/11/corredor-leste-oeste.jpg"
----
-{% raw %}
-<p><strong>Da Agência Brasil</strong></p>
-<p>Quase mil obras públicas estaduais e municipais estão paralisadas em <a href="https://blogs.ne10.uol.com.br/jamildo/2016/11/28/contratos-com-obras-paradas-chegam-r-53-bilhoes-em-pernambuco-diz-tce-pe/">Pernambuco, segundo levantamento realizado pelo Tribunal de Contas do estado e divulgado nesta segunda (28)</a> pelo órgão. O orçamento dos contratos é de mais de R$ 5 bilhões, dos quais R$ 1,7 bilhão já pagos. A justificativa mais utilizada pelos governos para as paralisações foi a falta de repasses de verba federal.</p>
-<p>&gt;&gt; <a title="Contratos com obras paradas aumentam sete vezes e chegam a R$ 5,3 bilhões em Pernambuco, diz TCE-PE" href="https://blogs.ne10.uol.com.br/jamildo/2016/11/28/contratos-com-obras-paradas-chegam-r-53-bilhoes-em-pernambuco-diz-tce-pe/">Contratos com obras paradas aumentam sete vezes e chegam a R$ 5,3 bilhões em Pernambuco, diz TCE-PE</a></p>
-<p>O levantamento – <a href="https://http//www.tce.pe.gov.br/internet/index.php/lista-noticias/148-novembro/2695-tce-divulga-diagnostico-sobre-obras-inacabadas" target="_blank">disponível na íntegra na internet</a> - foi realizado a partir de prestações de contas enviadas ao Tribunal de Contas de Pernambuco relativas ao ano de 2015. Foram incluídas na lista tanto obras que o próprio governo declarava como paralisadas, bem como aquelas com indícios de paralisação, quando por exemplo o valor repassado para o empreendimento era irrisório. Mais de 1,4 mil contratos de 184 municípios foram identificados como parados e os entes públicos responsáveis receberam um ofício do TCE para que explicassem o motivo e as medidas adotadas para retomar as obras.</p>
-<p>As últimas respostas chegaram no mês passado, segundo o auditor das contas públicas Pedro Teixeira, responsável pelo levantamento. Dos 1.422 contratos, 393 estavam reiniciados ou concluídos e 131 apresentaram outras providências que possibilitaram a regularização das obras. Outros 10 empreendimentos surgiram depois do envio de ofícios, e em 291 casos não houve resposta ao TCE, o que totalizou 911 obras paralisadas. “Nada impede que tenham retomado alguma obra das apresentadas com algum receio da repercussão do levantamento”, pondera Teixeira.</p>
-<p>Cento e vinte e três municípios constam na lista como realizadores das obras, além de 10 órgãos da prefeitura do Recife e 35 do estado de Pernambuco. O governo estadual é o ente no topo da lista de contratos parados, tanto com relação ao volume de recursos como número de obras. “A grande maioria das respostas foi quanto à dificuldade no repasse de recursos federais. A gente sabe que Pernambuco teve uma pujança entre 2012 e 2014, e isso mudou completamente quando os recursos começaram a rarear por conta da crise econômica. E o estado normalmente é quem mais recebe recursos federais, então é o que tem mais obras paradas”, diz o auditor responsável.</p>
-<p>Só a Companhia Estadual de Habitação e Obras (Cehab) tem 36 obras paradas, orçadas em cerca de R$ 432 milhões, dos quais R$ 102 milhões já pagos. A Secretaria das Cidades de Pernambuco tem 12 contratos que somam R$ 1,13 bilhão, com R$ 93 milhões já repassados pelo governo estadual aos contratados. Já a Companhia Pernambucana de Saneamento (Compesa) tem 27 empreendimentos paralisados, com R$ 560 milhões orçados e R$ 137,5 pagos aproximadamente. A <strong>Agência Brasil</strong> procurou o governo do estado de Pernambuco para uma repsosta sobre o atraso nas obras, mas não obteve retorno até a publicação desta reportagem.</p>
-<p><h2><strong>UPAs e Minha Casa Minha Vida</strong></h2></p>
-<p>Entre as obras consideradas pelo TCE de maior relevância social ou as mais caras estão a construção de Unidades de Pronto Atendimento, de residências do Minha Casa Minha Vida e projetos de saneamento em diversos municípios do interior , além de obras hídricas, de mobilidade e a construção de presídios no estado. Também constam na lista obras da Copa do Mundo com contratos rescindidos por abandono pela contratada e que aguardam nova licitação. Entre elas o corredor de transporte público Leste-Oeste, no Recife, e o Ramal da Cidade da Copa, em São Lourenço da Mata.</p>
-<p>Segundo Pedro Teixeira, o levantamento é um diagnóstico que servirá como diretriz para as inspeções do órgão no próximo ano. “Em 2017 essas obras vão ser inspecionadas pelas equipes de auditoria do tribunal e eles vão confirmar se estão sendo feitas ações para modificar isso. Se comprovar que as obras permanecem paradas os entes deverão ser acionados pelo tribunal e, em caso extremo, até solicitar a devolução do recurso se essa obra não atingiu o objetivo final”, explica.</p>
-<p>Quanto à falta de repasses federais, Pedro Teixeira informou que, como a União não é de jurisdição do TCE, “muito provalvemente” o órgão estadual repassará as informações coletadas ao Tribunal de Contas da União (TCU). “Para que ele tome sua atitude quanto à falta de repasse, um compromisso que foi assumido e não está sendo cumprido”.</p>
-<p><h2><strong>Obras paradas desde 2013</strong></h2></p>
-<p>Um dos dados destacados pelo TCE de Pernambuco neste levantamento são obras paralisadas desde 2013: 54 contratos estão nessa situação. Outros 297 estão parados desde 2014. “Esses dados já foram remetidos às Inspetorias Regionais para que façam o monitoramento das obras inconclusas e, caso necessário, a responsabilização dos agentes públicos pelo dano causado ao erário”, informou a assessoria de comunicação do Tribunal de Contas, em texto divulgado à imprensa. Ainda segundo o texto, em relação ao ano de 2013 houve um aumento de mais de sete vezes no valor dos contratos com obras paralisadas, que passou de R$ 740 milhões para R$ 5,3 bilhões.</p>
-{% endraw %}

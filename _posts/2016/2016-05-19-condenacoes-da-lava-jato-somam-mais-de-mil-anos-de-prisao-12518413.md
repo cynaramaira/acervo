@@ -1,49 +1,0 @@
----
-id: 12518413
-date: "2016-05-19T09:36:29Z"
-last_modified_at: null
-tags:
-  - "lava-jato"
-  - "planos"
-  - "prisao"
-categories:
-  - "noticias"
-title: "Condena\u00e7\u00f5es da Lava Jato somam mais de mil anos de pris\u00e3o"
-sutia: null
-chapeu: null
-autor: null
-imagem: null
----
-{% raw %}
-<p><img class="wp-image-118040 size-full" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/11/935337-dirceu_tribunal-1-3.jpg" alt="Foto: Fábio Rodrigues Pozzebom/ABr" width="800" height="487" /> A maior pena foi aplicada ao ex-ministro José Dirceu. Ele pegou 23 anos e três meses de prisão por corrupção passiva, lavagem de dinheiro e organização criminosa. Foto: Fábio Rodrigues Pozzebom/ABr</p>
-<p><em>Estadão Conteúdo -</em> A soma das condenações de acusados na Operação Lava Jato ultrapassou os mil anos. Até aqui, 74 investigados foram sentenciados a um total de 1133 anos e um mês de reclusão. A maior pena foi aplicada ao <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/18/juiz-sergio-moro-condena-jose-dirceu-a-23-anos-de-prisao-na-lava-jato/" rel="bookmark">ex-ministro José Dirceu (Casa Civil no governo Lula). Ele pegou 23 anos e três meses de prisão por corrupção passiva, lavagem de dinheiro e organização criminosa.</a></p>
-<p><strong>LEIA MAIS:</strong></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/19/michel-temer-diz-a-procuradores-que-nao-barrara-lava-jato/" rel="bookmark">Michel Temer diz a procuradores que não barrará Lava Jato</a></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/17/para-humberto-temer-quer-recriar-engavetador-geral-da-republica/" rel="bookmark">Para Humberto, Temer quer recriar “engavetador-geral da República”</a></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/18/juiz-sergio-moro-condena-jose-dirceu-a-23-anos-de-prisao-na-lava-jato/" rel="bookmark">Juiz Sérgio Moro condena José Dirceu a 23 anos de prisão na Lava Jato</a></p>
-<p>No âmbito das <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/19/janot-acusa-lula-de-ter-papel-central-na-tentativa-de-obstruir-lava-jato/" rel="bookmark">investigações de desvios na Petrobras já foram fechados 57 acordos, dos quais 52 de colaboração premiada (incluindo a delação do empresário Fernando de Moura, </a>quebrada pela Justiça), cinco de leniência (com empresas) e um Termo de Ajustamento de Conduta (TAC).</p>
-<p>"O emprego consistente e cuidadoso da colaboração premiada impulsionou a expansão da Lava Jato, cujas penas, agora, ultrapassam mais de mil anos de prisão. O reconhecimento judicial, acolhendo pedido do Ministério Público, da violação do acordo reforça a importância da boa-fé e do compromisso com a verdade por parte dos colaboradores da Justiça. Violado o acordo, o colaborador se sujeita às penas integrais dos crimes como qualquer outro réu."</p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/12/posse-de-ministros-de-temer-confirma-ausencia-de-mulheres-no-primeiro-escalao/" rel="bookmark">Posse de ministros de Temer confirma ausência de mulheres no primeiro escalão</a></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/12/michel-temer-assina-notificacao-de-posse-como-presidente-interino-do-brasil/">Michel Temer assina notificação de posse como presidente interino</a></p>
-<p>A força-tarefa da Lava Jato já ofereceu, na primeira instância, acusação contra 207 investigados - entre executivos, funcionários ou sócios de empreiteiras, intermediários, operadores ou doleiros, ex-dirigentes da Petrobras e políticos - em 42 denúncias desde o início da operação, em março de 2014.</p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/18/ministro-da-justica-nega-mal-estar-com-michel-temer/" rel="bookmark">Ministro da Justiça nega mal-estar com Michel Temer</a></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/19/janot-acusa-lula-de-ter-papel-central-na-tentativa-de-obstruir-lava-jato/" rel="bookmark">Janot acusa Lula de ter ‘papel central’ na tentativa de obstruir Lava Jato</a></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/18/aliado-de-cunha-novo-lider-do-governo-na-camara-e-investigado-pela-lava-jato/" rel="bookmark">Aliado de Cunha, novo líder do governo na Câmara é investigado pela Lava Jato</a></p>
-<p>Até a terça-feira, 17 de maio, segundo a Procuradoria da República, 111 acusados haviam sido condenados em 18 processos, somando um total de 990 anos e 7 meses de condenações. Deste total de sentenciados, 93 foram condenados (83,78%), quatro absolvidos (3,6%) a pedido do próprio Ministério Público Federal e três réus absolvidos sem interposição de recurso (2,7%). Outros nove foram absolvidos e tiveram recursos interpostos (8,1%) e mais duas absolvições com a interposição de recursos já foram transitadas em julgado (1,8%).</p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/15/empresas-da-lava-jato-doaram-a-12-ministros-de-temer/" rel="bookmark">Empresas da Lava Jato doaram a 12 ministros de Temer</a></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/17/janot-pede-mais-prazo-no-inquerito-da-lava-jato-sobre-fernando-bezerra-coelho/" rel="bookmark">Janot pede mais prazo no inquérito da Lava Jato sobre Fernando Bezerra Coelho</a></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/17/cunha-entra-com-recurso-para-reverter-acao-que-o-transformou-em-reu-na-lava-jato/" rel="bookmark">Cunha entra com recurso para reverter ação que o transformou em réu na Lava Jato</a></p>
-<p>Com a sentença do juiz Moro, nesta quarta-feira, 18, que impôs 23 anos e 3 meses a Dirceu e outras pesadas sanções a réus ligados ao ex-ministro, as condenações passaram do marco de mil anos. Dirceu recebeu a maior pena da Lava Jato. A segunda maior agora é do ex-diretor de Serviços da Petrobras Renato Duque, que recebeu 20 anos e 8 meses, em outra ação cuja sentença é de setembro de 2015.</p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/15/empresas-da-lava-jato-doaram-a-12-ministros-de-temer/" rel="bookmark">Empresas da Lava Jato doaram a 12 ministros de Temer</a></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/17/janot-pede-mais-prazo-no-inquerito-da-lava-jato-sobre-fernando-bezerra-coelho/" rel="bookmark">Janot pede mais prazo no inquérito da Lava Jato sobre Fernando Bezerra Coelho</a></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/17/cunha-entra-com-recurso-para-reverter-acao-que-o-transformou-em-reu-na-lava-jato/" rel="bookmark">Cunha entra com recurso para reverter ação que o transformou em réu na Lava Jato</a></p>
-<p>Na ação em que Dirceu foi condenado também recebeu pena o irmão do ex-ministro Luiz Eduardo de Oliveira e Silva (oito anos e nove meses de reclusão por lavagem e pertinência à organização criminosa). O empreiteiro Gerson Almada, da Engevix, foi condenado a quinze anos e seis meses de reclusão, por corrupção e lavagem de dinheiro.</p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/12/nao-fale-em-crise-trabalhe-diz-michel-temer-em-discurso-de-posse/" rel="bookmark">“Não fale em crise, trabalhe”, diz Michel Temer em discurso de posse</a></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/12/michel-temer-assina-notificacao-de-posse-como-presidente-interino-do-brasil/" rel="bookmark">Michel Temer assina notificação de posse como presidente interino do Brasil</a></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/16/raul-jungmann-toma-posse-na-defesa-e-elogia-comportamento-das-forcas-armadas/" rel="bookmark">Raul Jungmann toma posse na Defesa e elogia comportamento das Forças Armadas no impeachment</a></p>
-<p>O empresário Fernando Moura, ligado ao PT e um dos delatores da Lava Jato, foi condenado a 16 anos e 2 meses de prisão. O ex-tesoureiro do PT João Vaccari Neto recebeu 9 anos de prisão por corrupção. Renato Duque pegou nesta ação 10 anos de reclusão por corrupção. O corretor de imóveis Júlio César dos Santos recebeu 8 anos de prisão por lavagem e pertinência à organização criminosa. Roberto 'Bob' Marques, ex-assessor de Dirceu, foi condenado a três anos de reclusão, pena que foi substituída por duas restritivas de direito: prestação de serviço à comunidade e prestação pecuniária.</p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/07/janot-denuncia-senadora-gleisi-e-ex-ministro-paulo-bernardo-na-lava-jato/" rel="bookmark">Janot denuncia senadora Gleisi e ex-ministro Paulo Bernardo na Lava Jato</a></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/06/lava-jato-denuncia-gim-odebrecht-marcos-valerio-delubio-ronan-e-mais-15/" rel="bookmark">Lava Jato denuncia Gim, Odebrecht, Marcos Valério, Delúbio, Ronan e mais 15</a></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/06/tse-nega-recursos-de-dilma-e-temer-para-excluir-lava-jato-de-acao/" rel="bookmark">TSE nega recursos de Dilma e Temer para excluir Lava Jato de ação</a></p>
-<p>O lobista Milton Pascowitch, delator e pivô da prisão de José Dirceu, pegou 20 anos e 10 meses de reclusão pelos crimes de corrupção, lavagem e pertinência à organização criminosa. Seu irmão, José Adolfo Pascowitch, foi condenado pelos mesmos crimes a 19 anos de prisão. O ex-gerente executivo da Petrobras Pedro Barusco, um dos delatores da Lava Jato, pegou 9 anos de prisão. Como fizeram acordo de colaboração premiada, Barusco e os irmãos Pascowitch cumprirão as penas acordadas com o Ministério Público Federal.</p>
-{% endraw %}

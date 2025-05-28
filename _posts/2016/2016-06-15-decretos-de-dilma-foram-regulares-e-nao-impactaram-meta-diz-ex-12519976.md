@@ -1,35 +1,0 @@
----
-id: 12519976
-date: "2016-06-15T17:37:59Z"
-last_modified_at: null
-tags:
-  - "dilma"
-  - "metas"
-  - "naomi-campbell"
-categories:
-  - "noticias"
-title: "\"Decretos de Dilma foram regulares e n\u00e3o impactaram meta\", diz ex-secret\u00e1rio"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/06/depoimento-comissao-impeachment.jpg"
----
-{% raw %}
-<p><em>Estadão Conteúdo - </em>O ex-secretário adjunto da Secretaria de Orçamento Federal, Cilair de Abreu, afirmou que a edição de decretos em 2015 pelos quais a presidente afastada Dilma Rousseff (PT) é acusada foi regular e seguiu o procedimento padrão da pasta. Primeira testemunha de defesa ouvida pela Comissão do Impeachment nesta quarta-feira (15) Abreu considerou ainda que a mera publicação dos decretos de abertura de crédito orçamentário não teve impacto sobre a meta fiscal, pois se trata apenas de uma previsão de despesa.</p>
-<p>"O mecanismo de ajuste é sempre na despesa discricionária, porque a obrigatória não pode ser contingenciada. O Estado não tem arbítrio de fazer. Então, quando há um crédito para despesa obrigatória, o relatório aponta isso e contingenciamos na despesa discricionária. O instrumento fiscal que controla é o decreto de contingenciamento e não o crédito em si. A autorização orçamentária não influencia. Um dos decretos aqui, o do dia 27, nem sequer teve execução. Era uma despesa obrigatória É muito comum acontecer isso", disse.</p>
-<p><strong>LEIA TAMBÉM</strong></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/14/testemunha-de-dilma-diz-que-emprestimo-ao-plano-safra-foi-para-fazer-o-dinheiro-girar/">Testemunha de Dilma diz que empréstimo ao Plano Safra foi para “fazer o dinheiro girar”</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/15/tcu-diz-que-dilma-repetiu-indicios-de-irregularidades-em-2015/">TCU diz que Dilma repetiu indícios de irregularidades em 2015</a></p>
-<p>Segundo Abreu, o que estava no decreto inicialmente, em 2015, sem a despesa obrigatória, era a previsão de R$ 324 bilhões. Ao longo do ano, houve um ajuste no limite para manter o equilíbrio "Aí o limite foi estabelecido, no primeiro bimestre, em R$ 257 bilhões. Em 30 de novembro, a dotação ainda era de R$ 227 bilhões e o limite dado foi R$ 248 bilhões, ou seja, contingenciamos primeiro 70 e depois mais 8", explicou.</p>
-<p>A publicação de seis decretos de crédito suplementar por Dilma no ano passado sem a autorização do Congresso serviu como base para a denúncia que culminou no processo de impeachment da presidente. No Senado, foram considerados apenas quatro decretos A acusação também alega que a petista assinou os decretos depois de julho, quando o governo já havia admitido que não conseguiria cumprir a meta fiscal do ano, o que desrespeitaria a Lei de Responsabilidade Fiscal (LRF) e configuraria um crime de responsabilidade.</p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/15/teori-devolve-para-janot-pedido-de-investigacao-contra-dilma-na-lava-jato/">Teori devolve para Janot pedido de investigação contra Dilma na Lava Jato</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/15/humberto-costa-diz-que-cassacao-de-cunha-mostra-que-afastamento-de-dilma-deveria-ser-anulado/">Humberto Costa diz que cassação de Eduardo Cunha mostra que afastamento de Dilma deveria ser anulado</a></p>
-<p>Embora tenha confirmado que foram usados para a edição dos decretos de julho e agosto do ano passado a meta que ainda estava pendente no Congresso, Cilair avaliou que, quando há o pedido de crédito por decreto, não há motivo para fazer alteração. De acordo com o ex-secretário, existe um sistema na pasta que já faz o enquadramento de forma automática. Ele revelou que houve dificuldade da área técnica em compreender o questionamento do Tribunal de Contas da União (TCU) quando ele chegou pela primeira vez.</p>
-<p><strong>TUMULTO - </strong>Mais cedo, Ricardo Ferraço (PSDB-ES) chamou a senadora Vanessa Graziottin (PCdoB-AM) de "inconveniente", o que gerou um princípio de tumulto na comissão. Vanessa pediu para que o presidente Raimundo Lira tirasse dos autos o comentário do senador, que afirmou que mantinha a sua opinião sobre ela. "O senhor viu do que ele me chamou? Não podemos permitir esse tipo de ofensa aqui", reclamou. "Eu mantenho o que eu disse, a senhora não vai me censurar", rebateu o senador em tom exaltado. Lira pediu para que não constasse nas notas taquigráficas o termo usado pelo senador e disse que "manifestações emocionais" fazem parte do processo.</p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/14/no-senado-fbc-afirma-que-politica-de-dilma-mergulhou-o-brasil-no-caos-economico/">No Senado, FBC afirma que política de Dilma “mergulhou o Brasil no caos econômico”</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/14/em-defesa-de-dilma-manifestantes-irao-realizar-caravana-por-pernambuco/">Em defesa de Dilma, manifestantes irão realizar caravana por Pernambuco</a></p>
-<p>A defesa de Dilma reclamou diversas vezes do tempo de três minutos estabelecido por Lira para as testemunhas se manifestarem após as perguntas. Segundo os aliados de Dilma, Abreu não conseguia completar suas respostas. O ex-advogado-geral da União, José Eduardo Cardozo, chegou a dizer que iria recorrer ao presidente do Supremo Tribunal Federal (STF), Ricardo Lewandowski, para convocá-lo novamente. Na acusação, a advogada Janaína Paschoal negou que houve cerceamento de defesa. "Todas as testemunhas tiveram o mesmo tempo, mas ele não responde objetivamente. O tempo foi suficiente, porém a testemunha fica falando de questões genéricas."</p>
-<p>Para acelerar o processo, aliados do presidente em exercício Michel Temer combinaram que não farão perguntas aos convidados. Na primeira oitiva, apenas duas governistas pediram a palavra, a senadora Simone Tebet (PMDB-MS) e a senadora Ana Amélia (PP-RS), mas sem interrogar Abreu. Além de Abreu, estão convocados para prestar depoimento outras três testemunhas. Fala agora José Geraldo França Diniz, ex-subsecretário de Orçamento e Administração do Ministério da Previdência Social. Depois, falarão Walter Baere de Araújo Filho, consultor jurídico do Ministério do Planejamento e Hipólito Gadelha Remígio, consultor de Orçamentos do Senado.</p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/14/secretario-do-tcu-afirma-a-comissao-do-impeachment-que-dilma-violou-a-lei/">Secretário do TCU afirma à Comissão do Impeachment que Dilma violou a lei</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/08/pesquisa-cnt-682-acham-que-dilma-sofrera-impeachment/">Pesquisa CNT: 68,2% acham que Dilma sofrerá impeachment</a></p>
-{% endraw %}

@@ -1,38 +1,0 @@
----
-id: 12540918
-date: "2016-11-03T09:16:37Z"
-last_modified_at: null
-tags:
-  - "brasil"
-  - "gastos"
-  - "sao"
-  - "seguranca"
-categories:
-  - "noticias"
-title: "Gastos com seguran\u00e7a p\u00fablica no Brasil s\u00e3o insuficientes, diz especialista"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/PM-Pol\u00edcia-Militar.jpg"
----
-{% raw %}
-<p><strong><em>Da ABr</em> </strong>- Os gastos com segurança pública no Brasil totalizaram R$ 76,2 bilhões em 2015, o que representa um aumento de 11,6% em relação ao ano anterior, segundo dados da 10° edição do Anuário Brasileiro de Segurança Pública, produzido pelo Fórum Brasileiro de Segurança Pública (FBSP). No entanto, esse valor ainda não é suficiente e o país carece de políticas que tragam resultados satisfatórios no combate à violência, de acordo com a diretora executiva do fórum, Samira Bueno.</p>
-<p>“Claro que o que temos hoje de recurso não é suficiente para dar conta de todas as necessidades que a área coloca. Temos um número imenso de crimes violentos, temos salários dos policiais, em média ainda muito baixos, principalmente os que estão na ponta, que são praças, escrivães, investigadores”, disse, em entrevista à Agência Brasil.</p>
-<p>“Mas só aumentar essa receita não seria suficiente para resolver o problema da violência e da criminalidade no Brasil. Isso teria que vir acompanhado de um programa de governo, um plano que focalizasse também algumas metas pragmáticas e a articulação de esforços entre a União, os estados e municípios”, acrescentou Samira.</p>
-<p>Os dados do anuário mostram que o estado de São Paulo foi o que mais gastou com segurança pública em 2015: R$ 11,3 bilhões, valor 8,4% maior do que o que foi gasto no ano anterior. Esse montante foi 24,6% maior do que os gastos do próprio governo federal com segurança pública, que foram de R$ 9 bilhões. Em 2014, o gasto da União foi de R$ 8,9 bilhões.</p>
-<p>Depois do estado de São Paulo e do governo federal, Minas Gerais foi o terceiro ente federativo que mais teve despesas em segurança pública: destinou R$ 8,8 bilhões à pasta. O estado, no entanto, somou as despesas de R$ 4,3 bilhões com a subfunção “Previdência do Regime Estatutário” na função “Segurança Pública”, o que, segundo o FBSP, inflou os números, fazendo parecer que o estado teria gastado R$ 13 bilhões em 2015.</p>
-<p>Já os gastos totais dos municípios com segurança pública totalizaram R$ 4,4 bilhões. Esse valor colocaria os municípios brasileiros, caso fossem considerados como um único ente federativo, em quinto lugar no ranking dos que mais gastaram com a pasta, atrás de São Paulo, do governo federal, de Minas Gerais e do Rio de Janeiro, este último com destinação de R$ 8,7 bilhões.</p>
-<p><h2>Atuação dos municípios</h2></p>
-<p>Os dados do anuário mostram ainda o protagonismo que os municípios brasileiros vêm assumindo na área de segurança pública. Entre 1998 e 2015, houve crescimento de 394% nas despesas com a área por esses atores, considerando valores já corrigidos. O crescimento nos gastos se verifica em municípios de todos os portes populacionais, mas é mais acentuado naqueles em que a população varia entre 100.001 e 500 mil habitantes.</p>
-<p>A diretora executiva do fórum afirmou que não há uma estrutura com papéis claros divididos entre os três entes da Federação – União, estados e municípios – em relação aos recursos da segurança pública. “Percebemos que é uma área completamente descoordenada no Brasil”, disse, citando as dificuldades de se estruturar planos na esfera federal, entre outros obstáculos, e o protagonismo assumido pelos municípios na destinação de recursos para a área.</p>
-<p>“No governo federal, você percebe, quando analisa em termos de série histórica, desde a década de 90 até agora, que a programação é completamente desfuncional, então cada gestão investe em algo diferente, que não se traduz necessariamente em resultados. Não se tem avaliação de como esse dinheiro da União acaba sendo gasto, tem-se uma descontinuidade de políticas, uma redução dos fundos que teriam como objetivo repassar recursos para estados e municípios, como o Fundo Nacional de Segurança Pública e o Fundo Penitenciário Nacional”, observa Samira.</p>
-<p>Na contramão desse cenário, a diretora do FBSP avalia que “os municípios não estão mais dependendo necessariamente de recursos da União para os gastos com políticas de segurança. Mais do que nunca, eles percebem que precisam gastar e investir nessa área porque o crime é um fenômeno territorial e exige necessariamente ações locais”.</p>
-<p>O problema, segundo ela, é que esses gastos ocorrem de forma completamente descoordenada. “No momento em que você não tem o mínimo de coordenação, cada município vai tentar uma estratégia diferente, de acordo com as prioridades políticas de determinados partidos que estão no governo ou mesmo de acordo com o perfil do executivo”, acrescentou.</p>
-<p><h2>Esfera federal</h2></p>
-<p>O Ministério da Justiça gastou R$ 11,3 bilhões em 2015, 9,6% a menos do que no ano anterior. O levantamento do FBSP ressalta que, apesar de o valor ser expressivo, a maior parte do montante diz respeito ao custo da máquina pública. Os gastos com a Polícia Federal representaram R$ 5,6 bilhões em 2015, ou seja, 50% de todo o orçamento do Ministério da Justiça. A Polícia Rodoviária Federal gastou R$ 3,5 bilhões, 31% do orçamento, de acordo com dados do Fórum.</p>
-<p>Por outro lado, os fundos que destinam recursos para a segurança pública com capacidade de impulsionar ações na ponta, como o Fundo Nacional de Segurança Pública (R$ 0,4 bilhão), o Fundo Penitenciário - Funpen (R$ 0,3 bilhão) e o Fundo Nacional Antidrogas (R$ 0,1 bilhão) tiveram um montante bastante baixo na comparação com o orçamento total.</p>
-<p>“O total de despesas do Fundo Nacional de Segurança Pública correspondeu a apenas 3% do orçamento do ministério, o Funpen a 2% e o Fundo Nacional Antidrogas a apenas 1%”, informa o FBSP. Na variação ao longo do tempo, o Funpen encolheu 49,2% entre 2006 e 2015. O Fundo Nacional de Segurança Pública teve queda de 47,9% desde a sua criação em 2002.</p>
-<p>Apesar do alto valor de recursos empregados por estados como São Paulo, Minas Gerais e o Rio de Janeiro, Samira lembra que a capacidade de investimento em políticas fica a cargo do governo federal, já que a receita estadual para a segurança pública é usada majoritariamente para dar conta das folhas de pagamento.</p>
-<p>Segundo ela, com a redução dos recursos desses fundos e a perspectiva de limitação dos gastos com a Proposta de Emenda Constitucional (PEC) 241, o cenário é preocupante. “Em um momento de contenção de recursos, em que você já tem duas áreas com mínimos definidos constitucionalmente - educação e saúde -, você acaba tendo que cortar dos outros setores e certamente a segurança pública é um dos que terão recursos cortados”, disse.</p>
-<p>“Se olharmos o que tem de recurso destinado, por exemplo, para estados e municípios por meio dos fundos, me parece que esse recurso tende a desaparecer, tende a ser nulo nos próximos anos, porque ele já é muito menor do que era há dez anos. Boa parte desses recursos [para investimento em planejamento e políticas] provém da União. No momento em que temos a perspectiva da PEC que vai limitar os gastos do setor público, a tendência é uma restrição ainda maior do orçamento da segurança”, acrescentou a diretora executiva do Fórum.</p>
-{% endraw %}

@@ -1,86 +1,0 @@
----
-id: 12518501
-date: "2016-05-20T12:38:17Z"
-last_modified_at: null
-tags:
-  - "bruno-covas"
-  - "cidades"
-  - "minha-casa"
-  - "minha-vida"
-  - "ministro"
-  - "naomi-campbell"
-  - "serasa"
-  - "voos-suspensos"
-categories:
-  - "noticias"
-title: "Ministro das Cidades, Bruno Ara\u00fajo, afirma que Minha Casa, Minha Vida n\u00e3o ser\u00e1 suspenso"
-sutia: null
-chapeu: null
-autor: null
-imagem: null
----
-{% raw %}
-<p><img class="wp-image-147441 size-full" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/05/2D200516014.jpg" alt="Foto: Diego Nigro/JC Imagem Data: 20-05-2016 Assunto - Ministro Bruno Araujo da entrevista para rádio Jornal ." width="580" height="500" /> Ministro Bruno Araujo da entrevista para rádio Jornal. Foto: Diego Nigro/JC Imagem Data: 20-05-2016</p>
-<p>Durante entrevista concedida à <a href="https://www.radiojornal.com.br/">Rádio Jornal</a>, o ministro das Cidades do governo do presidente interino Michel Temer, Bruno Araújo, afirmou que o programa Minha Casa, Minha Vida será mantido e desmentiu a total suspensão da terceira fase do programa, <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/20/governo-temer-suspende-todas-as-novas-contratacoes-do-minha-casa-minha-vida/" rel="bookmark">como havia afirmado reportagem do Estadão, na manhã desta sexta-feira (20).</a></p>
-<p>"Vamos ampliar e aperfeiçoar. Já dei entrevista coletiva afirmando que o Minha Casa, Minha Vida será mantido de forma muito firme e na medida do possível que se possa encontrar recursos no Orçamento da União, eventualmente será ampliado. E mais do que isso, pode ser ser aperfeiçoado sem qualquer processo de suspensão", ressaltou.</p>
-<p><strong>LEIA MAIS:</strong></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/20/governo-temer-suspende-todas-as-novas-contratacoes-do-minha-casa-minha-vida/" rel="bookmark">Governo Temer suspende todas as novas contratações do Minha Casa Minha Vida</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/20/supremo-autoriza-e-sergio-moro-investigara-eduardo-da-fonte/" rel="bookmark">Supremo autoriza e Sérgio Moro investigará Eduardo da Fonte</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/20/no-recife-cut-realiza-ato-pelo-fora-temer-e-contra-o-fim-do-ministerio-da-cultura-nesta-sexta/" rel="bookmark">No Recife, CUT realiza ato pelo “Fora Temer” e contra o fim do Ministério da Cultura </a></p>
-<p>» <a href="https://radiojornal.ne10.uol.com.br/noticia/2016/05/20/campanha-arrecada-doacoes-para-maes-de-bebes-com-microcefalia-46664" target="_blank">Campanha arrecada doações para mães de bebês com microcefalia</a></p>
-<p><strong>Ouça a íntegra da entrevista:</strong></p>
-<p><object width="100%" height="50" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param value="transparent" name="wmode" /><param name="movie" value="https://storage.mais.uol.com.br/embed_audio2.swf?mediaId=15868204" /><param name="quality" value="high" /><embed src="https://storage.mais.uol.com.br/embed_audio2.swf?mediaId=15868204" quality="high" width="330" height="50" swliveconnect="true" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer" wmode="transparent" /></object></p>
-<p>Mesmo assim, o pernambucano confirmou que fará uma auditoria no programa. "O governo [Dilma] se comprometeu com obras que a sociedade não podia pagar". Segundo Bruno Araújo, é necessário fazer uma revisão na forma de contratação do Minha Casa Minha Vida, mas isso deve acontecer sem a necessidade da suspensão.</p>
-<p>Sobre a <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/17/humberto-costa-acusa-governo-temer-de-revogar-construcao-de-35-mil-moradias-do-minha-casa-minha-vida/" rel="bookmark">meta traçada pela presidente afastada Dilma Rousseff de contratar 2 milhões de moradias do Minha Casa Minha Vida até o fim de 2018</a>, Araújo afirmou que não pode se comprometer com o intento.</p>
-<p><strong>Ouça a segunda parte da entrevista com o ministro:</strong></p>
-<p><object width="100%" height="50" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param value="transparent" name="wmode" /><param name="movie" value="https://storage.mais.uol.com.br/embed_audio2.swf?mediaId=15868210" /><param name="quality" value="high" /><embed src="https://storage.mais.uol.com.br/embed_audio2.swf?mediaId=15868210" quality="high" width="330" height="50" swliveconnect="true" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer" wmode="transparent" /></object></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/20/em-nova-missao-pf-mira-em-pessoas-proximas-de-lula-e-contratos-da-odebrecht/" rel="bookmark">Em nova missão, PF mira em pessoas ‘próximas’ de Lula e contratos da Odebrecht</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/20/camara-do-recife-concede-titulo-de-cidadao-ao-lider-da-assembleia-de-deus-no-brasil/" rel="bookmark">Câmara do Recife concede título de cidadão ao líder da Assembleia de Deus no Brasil</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/12/posse-de-ministros-de-temer-confirma-ausencia-de-mulheres-no-primeiro-escalao/" rel="bookmark">Posse de ministros de Temer confirma ausência de mulheres no primeiro escalão</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/17/humberto-costa-acusa-governo-temer-de-revogar-construcao-de-35-mil-moradias-do-minha-casa-minha-vida/" rel="bookmark">Humberto Costa acusa Governo Temer de revogar construção de 35 mil moradias do Minha Casa Minha Vida</a></p>
-<p><img class="alignnone wp-image-147444" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/05/Sem-título-2.jpg" alt="Sem título" width="547" height="316" /></p>
-<p><strong>LEIA TAMBÉM:</strong></p>
-<p>» <a title="Ministro tucano critica falta de liderança no PSB de Pernambuco após morte de Eduardo Campos" href="https://jc.ne10.uol.com.br/blogs/pingafogo/2016/05/20/ministro-tucano-critica-falta-de-lideranca-no-psb-de-pernambuco-apos-morte-de-eduardo-campos/">Ministro critica falta de liderança no PSB de Pernambuco após morte de Eduardo Campos</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/19/sem-meta-fiscal-quem-vai-pedalar-sou-eu-diz-michel-temer/" rel="bookmark">‘Sem meta fiscal, quem vai pedalar sou eu’, diz Michel Temer</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/19/michel-temer-diz-a-procuradores-que-nao-barrara-lava-jato/" rel="bookmark">Michel Temer diz a procuradores que não barrará Lava Jato</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/17/para-humberto-temer-quer-recriar-engavetador-geral-da-republica/" rel="bookmark">Para Humberto, Temer quer recriar “engavetador-geral da República”</a></p>
-<p><iframe style="width: 315px; float: left; margin: 0 20px 20px 0; border: 0; height: 600px;" src="https://produtos.ne10.uol.com.br/enquete/enquete/voce-aprovou-a-extincao-do-ministerio-da-cultura,index.html" width="300" height="150"></iframe></p>
-<p>No Facebook, o ministro já tinha negado mais cedo a suspensão do programa habitacional, afirmando que essa informação "não corresponde à realidade."</p>
-<p>Na última terça-feira (17), o pernambucano revogou uma portaria editada por Dilma que autorizava a Caixa a contratar a construção de até 11.250 unidades habitacionais do programa.</p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/17/enquete-voce-aprovou-a-extincao-do-ministerio-da-cultura/" rel="bookmark">Enquete: Você aprovou a extinção do Ministério da Cultura?</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/16/artistas-protestam-contra-fim-do-ministerio-da-cultura-no-recife/">Artistas protestam contra fim do Ministério da Cultura no Recife</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/17/senado-convoca-mendonca-filho-para-explicar-fim-do-ministerio-da-cultura/">Senado convoca Mendonça Filho para explicar fim do Ministério da Cultura </a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/04/20/bela-recatada-e-do-lar-campanha-na-web-ironiza-perfil-de-marcela-temer-em-revista-veja-os-memes/" rel="bookmark">‘Bela, recatada e do lar’: campanha na web ironiza perfil de Marcela Temer em revista; Veja os memes</a></p>
-<p>A terceira fase do programa foi lançada no fim de março pela presidente, agora afastada, prevendo recursos totais de R$ 210,6 bilhões para construção de 2 milhões de moradias até 2018.</p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/12/bolsonaro-e-batizado-em-israel-durante-votacao-do-impeachment/" rel="bookmark">Bolsonaro é batizado em Israel durante votação do impeachment</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/04/29/janaina-paschoal-chora-durante-depoimento-na-comissao-do-impeachment/" rel="bookmark">Janaína Paschoal chora durante depoimento na comissão do impeachment</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/04/29/janaina-paschoal-grita-com-senador-e-leva-bronca-do-presidente-de-comissao/" rel="bookmark">Janaína Paschoal grita com senador e leva bronca do presidente de comissão</a></p>
-<p>Na ocasião, o governo informou que do total de recursos, R$ 41,2 bilhões seriam do Orçamento da União, R$ 39,7 bilhões em subsídios do Fundo de Garantia do Tempo de Serviço (FGTS) e o restante em financiamentos pelo FGTS.</p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/04/06/o-problema-foi-ousar-questionar-o-deus-do-petismo-diz-janaina-paschoal/" rel="bookmark">“O problema foi ousar questionar o Deus do petismo”, diz Janaína Paschoal</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/04/06/discurso-pro-impeachment-de-janaina-paschoal-vira-meme-nas-redes-sociais/" rel="bookmark">Discurso pró-impeachment de Janaína Paschoal vira meme nas redes sociais</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/06/em-video-pernambucanos-justificam-apoio-a-jair-bolsonaro/" rel="bookmark">Em vídeo, pernambucanos justificam apoio a Jair Bolsonaro para presidente em 2018</a></p>
-<p><strong>PERNAMBUCANO:</strong></p>
-<p>Alçado <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjzv_qojOnMAhVKlpAKHfonDk4QFggjMAE&amp;url=http%3A%2F%2Fblogs.ne10.uol.com.br%2Fjamildo%2F2016%2F04%2F17%2Fvoto-pernambucano-sacramenta-impeachment-de-dilma-rousseff%2F&amp;usg=AFQjCNHPI-72pkaBLPItkPmMVCnRDUvkjA&amp;bvm=bv.122448493,d.Y2I" data-href="https://blogs.ne10.uol.com.br/jamildo/2016/04/17/voto-pernambucano-sacramenta-impeachment-de-dilma-rousseff/">aos holofotes por ter proferido o 342º voto a favor da admissibilidade do impeachment de Dilma Rousseff na Câmara dos Deputados, </a>o que garantiu a maioria de dois terços necessária para que o pedido fosse encaminhado ao Senado, o deputado Bruno Araújo (PSDB-PE) assumiu na última semana o Ministério das Cidades.</p>
-<p><strong>LEIA MAIS:</strong></p>
-<p>» <a href="https://www.google.com.br/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjzv_qojOnMAhVKlpAKHfonDk4QFggjMAE&amp;url=http%3A%2F%2Fblogs.ne10.uol.com.br%2Fjamildo%2F2016%2F04%2F17%2Fvoto-pernambucano-sacramenta-impeachment-de-dilma-rousseff%2F&amp;usg=AFQjCNHPI-72pkaBLPItkPmMVCnRDUvkjA&amp;bvm=bv.122448493,d.Y2I" data-href="https://blogs.ne10.uol.com.br/jamildo/2016/04/17/voto-pernambucano-sacramenta-impeachment-de-dilma-rousseff/">Voto pernambucano sacramenta impeachment de Dilma Rousseff </a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/04/17/humberto-costa-critica-psb-de-paulo-camara-por-dar-apoio-ao-pmdb/" rel="bookmark">Humberto Costa critica PSB de Paulo Câmara por dar apoio ao PMDB</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/04/17/silvio-costa-dispara-quem-esta-tentando-assumir-o-poder-e-o-pcc-partido-da-corja-do-cunha/" rel="bookmark">Silvio Costa dispara: “Quem está tentando assumir o poder é o PCC: Partido da Corja do Cunha”</a></p>
-<p>Ele é um dos nomes indicados pelo PSDB para compor o governo de Michel Temer, que assumiu a Presidência após Dilma ter sido afastada por até 180 dias, enquanto o Senado realiza o julgamento final sobre seu impedimento.</p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/04/17/a-favor-do-impeachment-priscila-krause-diz-que-se-pode-esperar-milagre/" rel="bookmark">A favor do impeachment, Priscila Krause diz que se pode esperar milagre</a></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/04/17/em-video-jair-bolsonaro-treina-declaracao-do-voto-a-favor-do-impeachment-assista/" rel="bookmark">Em vídeo, Jair Bolsonaro treina declaração do voto a favor do impeachment; assista</a></p>
-<p>&gt;&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/04/17/legislativo-nao-e-mero-puxadinho-do-poder-executivo-diz-relator/" rel="bookmark">Legislativo não é mero puxadinho do Poder Executivo, diz relator</a></p>
-<p>Araújo, que cumpria seu terceiro mandato como deputado federal, passou a ganhar destaque a partir de 2012, quando se tornou líder do PSDB na Câmara. Até fevereiro deste ano, ele desempenhou o papel de líder da oposição e foi um defensor de primeira hora do impeachment<em> </em>de Dilma, mesmo quando as lideranças tucanas ainda se demonstravam relutantes em encampar a proposta.</p>
-<p><strong>Ouça a última parte da entrevista:</strong></p>
-<p><object width="100%" height="50" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param value="transparent" name="wmode" /><param name="movie" value="https://storage.mais.uol.com.br/embed_audio2.swf?mediaId=15868244" /><param name="quality" value="high" /><embed src="https://storage.mais.uol.com.br/embed_audio2.swf?mediaId=15868244" quality="high" width="330" height="50" swliveconnect="true" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer" wmode="transparent" /></object></p>
-<p><strong>BRASIL:</strong></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/19/sem-meta-fiscal-quem-vai-pedalar-sou-eu-diz-michel-temer/" rel="bookmark">‘Sem meta fiscal, quem vai pedalar sou eu’, diz Michel Temer</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/19/michel-temer-diz-a-procuradores-que-nao-barrara-lava-jato/" rel="bookmark">Michel Temer diz a procuradores que não barrará Lava Jato</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/17/para-humberto-temer-quer-recriar-engavetador-geral-da-republica/" rel="bookmark">Para Humberto, Temer quer recriar “engavetador-geral da República”</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/18/juiz-sergio-moro-condena-jose-dirceu-a-23-anos-de-prisao-na-lava-jato/" rel="bookmark">Juiz Sérgio Moro condena José Dirceu a 23 anos de prisão na Lava Jato</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/12/nao-fale-em-crise-trabalhe-diz-michel-temer-em-discurso-de-posse/" rel="bookmark">“Não fale em crise, trabalhe”, diz Michel Temer em discurso de posse</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/12/michel-temer-assina-notificacao-de-posse-como-presidente-interino-do-brasil/" rel="bookmark">Michel Temer assina notificação de posse como presidente interino do Brasil</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/16/raul-jungmann-toma-posse-na-defesa-e-elogia-comportamento-das-forcas-armadas/" rel="bookmark">Raul Jungmann elogia comportamento das Forças Armadas no impeachment</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/18/ministro-da-justica-nega-mal-estar-com-michel-temer/" rel="bookmark">Ministro da Justiça nega mal-estar com Michel Temer</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/19/janot-acusa-lula-de-ter-papel-central-na-tentativa-de-obstruir-lava-jato/" rel="bookmark">Janot acusa Lula de ter ‘papel central’ na tentativa de obstruir Lava Jato</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/18/aliado-de-cunha-novo-lider-do-governo-na-camara-e-investigado-pela-lava-jato/" rel="bookmark">Aliado de Cunha, novo líder do governo na Câmara é investigado pela Lava Jato</a></p>
-{% endraw %}

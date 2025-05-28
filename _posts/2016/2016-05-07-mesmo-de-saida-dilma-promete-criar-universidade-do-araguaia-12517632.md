@@ -1,29 +1,0 @@
----
-id: 12517632
-date: "2016-05-07T19:48:37Z"
-last_modified_at: null
-tags:
-  - "dilma"
-  - "universidade"
-categories:
-  - "noticias"
-title: "Mesmo de sa\u00edda, Dilma promete criar Universidade do Araguaia"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/05/RSF_Dilma-Rousseff-inauguracao-Embrapa-Palmas-Tocantins_10-850x567.jpg"
----
-{% raw %}
-<p>Dilma, em discurso no Pará, neste sábado</p>
-<p>Sabe, gente, o Brasil é um País extraordinário. Nós temos um enorme potencial tanto pelo nosso clima quanto pela quantidade de chuvas, de rios, quanto também pela nossa imensa diversidade. Mas tem uma coisa que é a nossa maior riqueza e patrimônio: são as pessoas, são os brasileiros e as brasileiras, os cidadãos.</p>
-<p>Nós que temos a maior reserva de água doce do mundo, nós temos, infelizmente, também, além da maior reserva de água doce, nós temos também um litoral muito significativo, mais de 8 mil quilômetros. Mas, estranhamente, este País cheio de água importa peixe. E nós sabemos que a maior e a melhor condição para se produzir peixe, uma coisa é a indústria do pescado marítima, outra coisa é a aquicultura, a criação dos peixes em água doce. E aí é simbólico que a gente coloque aqui no meio do Brasil uma unidade da Embrapa responsável pela inovação, pela aplicação do saber humano à produção, criando as condições para que nós sejamos um dos maiores produtores e exportadores de peixe.</p>
-<p>O que a gente quer com isso? A gente quer que se produza peixe na agricultura familiar, nos assentamentos de reforma agrária, aumentando a renda. A gente quer que se produza peixe em unidades médias deste País e que se produza peixe também em larga escala, com grande produção e grandes produtores.</p>
-<p>Daí a importância de estudar, de controlar, de criar as condições para que nós possamos produzir com melhor qualidade. Eu tenho certeza que aqui vai se gerar uma enorme, um grande, uma grande onda de crescimento para a produção de peixe em todo o Brasil.</p>
-<p>E se combina aqui hoje duas questões que são importantes: o financiamento dos convênios com a inovação e essa fantástica instalação, que fica aqui no Tocantins, demonstrando que este é um País com uma grande riqueza fluvial. Essa riqueza e a nossa capacidade também de criar e de fazer com que as unidades familiares, as unidades comerciais de grande escala façam reservatórios e criem neles peixes é algo que mostra nosso compromisso com o emprego e a renda, a melhoria das condições de vida das pessoas e também uma maior oportunidade para brasileiros e brasileiras nessa área.</p>
-<p>Eu queria, além disso, destacar a questão do Matopiba. O Matopiba é a última grande fronteira agrícola do nosso País. Maranhão, Tocantins, Piauí e Bahia, esses quatro estados têm um imenso potencial de crescimento. E nós, ao criar essa agência, deixamos claro para nós mesmos e para o mundo que esta região, de fato, é uma das poucas grandes regiões que restam no mundo como fronteira agrícola a ser explorada.</p>
-<p>Aqui nós temos o que há de melhor, nós temos o que há de melhor como brasileiros e brasileiras, mas também nós temos um solo adequado, nós temos uma infraestrutura que está em conclusão, nunca vamos esquecer o que significa a Norte-Sul para o nosso País. A Norte-Sul é a grande, a principal rota ferroviária, é uma espécie de espinha dorsal do nosso País. E, portanto, ao assinar essa agência, nós também estamos contribuindo para acelerar o desenvolvimento desse interior do Brasil. E como não poderia deixar de ser, quando você estimula uma região, você também tem de trazer as condições para que essa região forme as pessoas.</p>
-<p>Por isso, eu quero dizer que nós, no início desta semana, vamos estar criando lá em Brasília, eu antecipo aqui para vocês, a Universidade Federal do Araguaia, que é para, de fato, dar força, dar instrumentos para que o interior do Brasil cresça. Eu considero que é uma das melhores iniciativas, obras que o meu governo e o governo do presidente Lula fez foi interiorizar as universidades e escolas técnicas por todo o Brasil. Com isso, nós mudamos o vetor do crescimento. Nós tiramos o que sempre crescia desde a época da descoberta e da colônia só no litoral para o interior deste imenso País.</p>
-<p>A educação é tão ou mais importante do que ferrovia e estrada. Mas quando se combinam educação com ferrovia e estrada e uma população que quer crescer, que quer construir e que quer produzir, nós estamos resolvendo o que se chama motor do desenvolvimento econômico e da garantia de oportunidades. Esse é um dos projetos que eu reputo mais importante.</p>
-<p>Além disso, eu lembro também a vocês, e lembro por um motivo, lembro porque nós fizemos, ao longo de todo esse período, desde o início do governo Lula, uma mudança no gasto público. Nós fizemos escolhas porque o dinheiro é finito. Então você tem de escolher onde gastar. Nós escolhemos ampliar o gasto na agricultura, na produção e nos programas sociais.</p>
-<p>Na agricultura, na área da agricultura familiar e dos assentamentos nós saímos de menos 2,5 bilhões para 30 bilhões. Na agricultura comercial, nós saímos de menos de 25 bilhões para 202 bilhões. Nós fizemos de fato uma escolha diferente dos nossos antecessores. Nós optamos pelo crescimento do Brasil, por dar as condições para que o Brasil cresça, que o Brasil gere emprego e reduzir as imensas desigualdades que um País que teve anos e anos de escravidão produziu. Porque o maior patrimônio desse País é seu imenso mercado interno, é esses inúmeros e inúmeras consumidores que agora saíram da pobreza extrema e passam a ter direito a consumir. E isso não pode voltar atrás.</p>
-{% endraw %}

@@ -1,45 +1,0 @@
----
-id: 12521159
-date: "2016-07-08T11:18:25Z"
-last_modified_at: null
-tags:
-  - "eleicoes-2016"
-  - "esquema-criminoso"
-  - "operacao"
-  - "policia-federal"
-  - "samarco"
-categories:
-  - "noticias"
-title: "Esquema da Opera\u00e7\u00e3o Turbul\u00eancia s\u00f3 parou de funcionar em mar\u00e7o de 2016, diz Pol\u00edcia Federal"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/03/CeJWK6WWAAAIX2x.jpg"
----
-{% raw %}
-<p>Se for confirmado que o esquema investigado pela Operação Turbulência abastecia ou abasteceu campanhas eleitorais, as eleições municipais deste ano corriam o risco de sofrerem com essas fraudes, pelo menos até a deflagração da investigação em Pernambuco.</p>
-<p><strong>LEIA TAMBÉM</strong></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/07/07/acusado-de-testa-de-ferro-da-operacao-turbulencia-ganhou-carro-de-luxo-como-presente-de-papai-de-cabeca-do-esquema/">Acusado de testa de ferro da Operação Turbulência ganhou carro de luxo como “presente de papai” de cabeça do esquema</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/21/provas-usadas-na-operacao-turbulencia-sao-de-inquerito-sobre-suposta-propina-na-campanha-de-eduardo-campos-em-2010/">Provas usadas na Operação Turbulência são de inquérito sobre suposta propina na campanha de Eduardo Campos em 2010</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/21/empresa-que-comprou-jatinho-usado-por-eduardo-campos-esta-em-nome-de-um-pescador/">Empresa que comprou jatinho usado por Eduardo Campos está em nome de um pescador</a></p>
-<p>O Ministério Público Federal em Pernambuco informou que o esquema criminoso apurado já era utilizado para “branqueamento” de recursos em Recife desde o ano de 2010. Na investida, o MPF cita como fontes destas informações laudos periciais elaborados pelo COAF e documentos bancários apresentados em delações premiadas, compartilhadas pelo STF.</p>
-<p>“Os RIFs (Relatórios de Inteligência Fiscal) da COAF dão conta da existência de movimentação atípica até pelo menos março de 2016, evidenciando a permanência e estabilidade dessa reunião de pessoas com o intuito de branqueamento (lavagem) de capitais”, descrevem as autoridades de investigação federal.</p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/07/05/tribunal-sem-previsao-para-julgar-habeas-corpus-de-dois-envolvidos-na-operacao-turbulencia/">Tribunal sem previsão para julgar habeas corpus de dois envolvidos na Operação Turbulência</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/21/agora-na-operacao-turbulencia-fbc-volta-a-ser-citado-em-suposto-esquema-para-campanha-de-eduardo-campos/">Agora na Operação Turbulência, FBC volta a ser citado em suposto esquema para campanha de Eduardo Campos</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/27/turbulencia-deputado-entra-com-representacao-para-que-pf-investigue-morte-de-foragido/">Turbulência: deputado entra com representação para que PF investigue morte de foragido</a></p>
-<p>No âmbito da Operação Lava Jato, foi deflagrada também em março, pela Polícia Federal, a <a href="https://blogs.ne10.uol.com.br/jamildo/2016/03/22/pf-deflagra-operacao-xepa-a-26a-fase-da-lava-jato/">Operação Xepa, a 26ª fase da ação</a>. Dos 110 mandados expedidos, <a href="https://blogs.ne10.uol.com.br/jamildo/2016/03/22/alem-da-odebrecht-casa-de-cambio-e-agencia-de-comunicacao-no-recife-sao-alvos-da-lava-jato/">seis foram cumpridos no Recife</a>, sendo três mandados de busca e apreensão em Boa Viagem, nas residências de dois suspeitos, além de um em estabelecimento comercial em uma casa de câmbio Mônaco no bairro de Santo Antônio. Houve ainda o cumprimento de mandados de condução coercitiva contra um sócio da área de comunicação e um executivo da Odebrecht. A ação foi para desarticular um esquema de contabilidade paralela na construtora, destinado ao pagamento de vantagens indevidas a terceiros, vários deles com vínculos diretos ou indiretos com o governo.</p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/07/02/delegada-gleide-angelo-diz-que-em-menos-de-duas-semanas-conclui-caso-da-morte-de-foragido-da-operacao-turbulencia/">Delegada Gleide Ângelo diz que em menos de duas semanas conclui caso da morte de foragido da Operação Turbulência</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/30/sds-confirma-envenenamento-de-paulo-cesar-morato/">SDS confirma envenenamento de Paulo César Morato</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/27/papiloscopista-defendeu-nova-pericia-policia-civil-admite-falha-de-comunicacao/">Papiloscopista defendeu nova perícia; Polícia Civil admite falha de comunicação</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/22/empresario-foragido-da-operacao-turbulencia-e-encontrado-morto-em-motel-de-olinda/">Empresário foragido da Operação Turbulência é encontrado morto em motel de Olinda</a></p>
-<p>Quando a operação foi deflagrada, no dia 21 de junho, a PF informou que a investigação teve início a partir de análises de movimentações financeiras de <a href="https://jconline.ne10.uol.com.br/canal/politica/nacional/noticia/2016/06/21/compra-de-aviao-que-transportava-eduardo-campos-foi-feita-por-empresas-fantasmas-diz-pf-241065.php" target="_blank">empresas envolvidas na aquisição da aeronave</a> que transportava o ex-governador Eduardo Campos em seu <a href="https://jconline.ne10.uol.com.br/canal/politica/nacional/noticia/2014/08/13/eduardo-campos-morre-em-acidente-de-jatinho-em-santos-140194.php" target="_blank">acidente fatal</a>.</p>
-<p><a href="https://jconline.ne10.uol.com.br/canal/politica/nacional/noticia/2016/06/21/psb-afirma-que-campanha-de-eduardo-campos-nao-cometeu-ato-ilicito-241130.php" target="_blank">Em nota</a>, o PSB disse “ter plena confiança na conduta do nosso querido e saudoso Eduardo Campos, ex-presidente e ex-governador de Pernambuco” e que “apoia a apuração das investigações e reafirma a certeza de que, ao final, não restarão quaisquer dúvidas de que a campanha de Eduardo Campos não cometeu nenhum ato ilícito”.</p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/21/pf-investiga-compra-de-jatinho-que-transportava-eduardo-campos-em-campanha-presidencial/">PF investiga compra de jatinho que transportava Eduardo Campos em campanha presidencial e esquema milionário de lavagem de dinheiro</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/21/em-nota-oficial-psb-sai-em-defesa-de-eduardo-campos-e-rebate-irregularidades-em-campanha-socialista/">Em nota oficial, PSB sai em defesa de Eduardo Campos e rebate irregularidades em campanha socialista</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/21/envolvido-na-operacao-turbulencia-e-preso-enquanto-malhava-em-academia-no-recife/">Envolvido na Operação Turbulência é preso enquanto malhava em academia no Recife</a></p>
-<p>&nbsp;</p>
-<p><strong>CARRO DE LUXO - </strong>A Operação Turbulência também trouxe uma situação pitoresca para as investigações no Estado, mostrando que ao menos <a href="https://blogs.ne10.uol.com.br/jamildo/2016/07/07/acusado-de-testa-de-ferro-da-operacao-turbulencia-ganhou-carro-de-luxo-como-presente-de-papai-de-cabeca-do-esquema/">um carro de luxo, o Evoque, aparece como objeto de desejo de vários dos personagens encrencados na PF</a>. No plano nacional, as investigações da Lava Jato, que haviam começado ainda em 2008, deslancharam no sentido da Petrobras logo depois que o nome de Paulo Roberto Costa, ex-diretor de Abastecimento da estatal, ganhou um Range Rover Evoque do doleiro Alberto Youssef. Os dois estavam um certo dia presos no trânsito quando o funcionário da Petrobras manifestou o desejo de, algum dia, ter um carro daqueles, exibido em uma concessionária do Rio de Janeiro. Youssef, solícito, pediu que ele entrasse na concessionária e começou a materializar o sonho ali mesmo.</p>
-<p>Em Pernambuco, um dos cabeças do suposto esquema, Eduardo Freire Bezerra Leite, chamado de Eduardo Ventola, deu um Evoque ao “testa de ferro” Artur Roberto Lapa Rosal, chamado também de Tuta Rosal. No suposto esquema, Tuta Rosal teria o mesmo papel que o empresário Paulo César de Barros Morato, que apareceu morto em um motel de Olinda. Os dois primeiros foram alvos da PF no Estado e foram presos, depois levados ao Cotel. O veículo de placa PGH 3354-PE, de cor vermelha, aparece nas imagens da apreensão da PF. Em consulta ao Facebook e Instagram do personagem a PF evidenciou que ele apresentava como “presente de papai” a Land Rover Evoque.</p>
-<p><img src="https://www2.uol.com.br/JC/_ne10/foto/operacao-turbulencia-v2.jpg" alt="" width="100%" border="0" /></p>
-<p><div class="entry-content"></div></p>
-{% endraw %}

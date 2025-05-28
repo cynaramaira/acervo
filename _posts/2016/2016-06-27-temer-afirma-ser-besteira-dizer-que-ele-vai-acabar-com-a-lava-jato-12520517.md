@@ -1,43 +1,0 @@
----
-id: 12520517
-date: "2016-06-27T11:00:22Z"
-last_modified_at: null
-tags:
-  - "lava-j"
-  - "michel-temer"
-categories:
-  - "noticias"
-title: "Temer afirma ser besteira dizer que ele \u201cvai acabar com a Lava Jato\u201d"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/04/Temer-rezando.jpg"
----
-{% raw %}
-<p>O presidente da República em exercício, Michel Temer, em entrevista exclusiva à Rádio Estadão, falou da Lava Jato e de planos de governo. Os jornalistas informam que essa semana Temer mandou o ministro da Justiça a Curitiba. Ele teve um encontro com o juiz Sérgio Moro, com a equipe da Lava Jato, a equipe do Ministério Público, teve encontro com a Superintendência local da Polícia Federal, e certamente ele não foi por conta própria, ele foi executando uma missão sua.  O presidente em exercício foi perguntado qual é o recado que o chefe do Poder Executivo mandou através do seu ministro da Justiça?</p>
-<p>"Bom, em primeiro lugar, a função do ministro da Justiça é exatamente essa. É manter contato com o Ministério Público, com o Judiciário; e com o ministério Público e com o Judiciário nas várias instâncias.</p>
-<p>E uma instância muito evidente nos dias atuais é precisamente aquela presidida pelo juiz e pelo ministério Público de Curitiba. Antes disso, confesso a você, o Alexandre de Moraes teve contato com o doutor Janot, com o Ministério Público daqui, tem mantido intensos contatos com o Judiciário. Até relembro que no dia de ontem nós sancionamos um projeto que é de autoria do ministro Teori Zavascki, que é a regulamentação do chamado mandado de injunção, que é um instrumento, só para os nossos ouvintes entenderem, é um instrumento que visa com que você possa pleitear no Judiciário um direito que depende de uma regulamentação da Constituição e que o Legislativo tarda em regulamentar.</p>
-<p>Pois muito bem, ontem o ministro Teori esteve em uma solenidade conosco, fez o seu discurso, nós sancionamos o Projeto de Lei, isso tudo é, digamos assim, atuação do Ministério da Justiça. Por isso é que ele foi a Curitiba também para manter contatos, para conversar sobre o tema.</p>
-<p>E para revelar mais uma vez, como muitas e muitas vezes dizem por aí: “o Temer vai acabar com a Lava Jato”, essas besteiras que se fala por aí, acho que foi uma revelação evidente daquilo que eu sempre digo e às vezes, digo pela enésima vez que nós, primeiro, não faríamos isso por conta própria; segundo, atento ao princípio da separação dos Poderes, o Executivo não pode se intrometer nas questões do Judiciário", respondeu.</p>
-<p><strong>Política externa</strong></p>
-<p>Em primeiro lugar, até a resposta que dei anteriormente, de alguma maneira, já responde a isso. Achamos que lá, o Reino Unido, a Inglaterra, decidiu por uma consulta popular e, portanto, decisão política nós não vamos discutir.</p>
-<p>Precisamos verificar qual são as repercussões, digamos, econômicas que possam atingir o Brasil. O ministro Meirelles vai se encontrar, como você disse, com o representante do governo britânico, vamos discutir um pouco essas questões e vamos esperar os acontecimentos, mas só depois que eles efetivamente se consolidem porque nesse primeiro momento, você sabe que houve uma queda das bolsas, mas em um segundo momento é que nós vamos verificar como é que o Brasil, qual o impacto que o Brasil sofrerá em função disso. Sobre o aspecto político, nós não vamos dar palpite.</p>
-<p><strong>Campanha municipal</strong></p>
-<p>Você que eu vou evitar porque hoje eu sou presidente da República, tenho uma base parlamentar que alcança muitos partidos políticos. A minha participação direta poderia prejudicar, talvez, essa base parlamentar. Eu terei muita cautela e muita prudência em qualquer participação.</p>
-<p>A foto do senhor nem assim vai estar na urna em 2018?</p>
-<p>Não, não estará. Eu repito esse fato porque, olha aqui, o destino colocou, ou está perto de colocar, está colocando na minha frente, no meu colo, se eu conseguir nesses 02 anos e meio, se eu ficar, naturalmente, se eu conseguir colocar o Brasil nos trilhos, não digo recuperar por inteiro a fisionomia do Brasil. Mas se eu conseguir colocar o País nos trilhos, eu já tive uma vida pública razoavelmente exitosa, para mim já seria o suficiente. Não terá meu retrato na urna.</p>
-<p><strong>A herança que recebeu</strong></p>
-<p>Olha, eu realmente recebi uma herança um pouco mais complicada, digamos assim, do que aquela que eu imaginava. Você sabe que desses anos todos em que eu participei como vice-presidente, eu tive pouca atuação em termos de políticas públicas no governo e, particularmente, em relação a conhecer, digamos assim, a intimidade operacional e financeira do governo.</p>
-<p>E, realmente, quando chegamos, você se consolidou em um primeiro ato, que foi o ato da verificação do déficit real, daí porque nós precisamos até modificar aquele projeto da meta, R$ 96 bilhões para mais de R$ 170 bilhões.</p>
-<p>Então foi uma realidade nesse sentido muito problemática, realmente foi uma herança, digamos, desconhecida.</p>
-<p>Vocês sabem que nós estamos, para dizer o óbvio, nós estamos chegando a quase 12 milhões de desempregados. E as medidas que estamos tomando, e, aliás, você falou nos 42 dias, 43 dias no governo, nós estamos tomando rapidamente medidas e providências que visam ao crescimento do País. E crescer o País significa retomar o emprego.</p>
-<p>Portanto, quando você prestigia, digamos assim, a iniciativa privada, tenta recuperar a credibilidade e a confiança, é exatamente para que o setor da indústria, do comércio, dos serviços em geral possam desenvolver-se mais rapidamente e gerar empregos.</p>
-<p>E olhe que não é fácil, né. São quase 12 milhões, de dizia eu, se nós, em algum tempo, conseguirmos começar a recuperar o emprego, acho que isto aumentará a credibilidade.</p>
-<p>Se você me permite, aquela velha ideia de cortar os gastos públicos e cortar na carne, ela vem sendo exercitada de alguma maneira.</p>
-<p>Veja bem, o caso do teto para as despesas públicas, nós já mandamos essa proposta de emenda constitucional ao Congresso, e, ademais disso, quando fizemos o acordo federativo, o acordo com os estados, também, em contrapartida, nós acordamos que também nos estados haveria a mesma fixação do teto, que nós vamos inserir na proposta de emenda constitucional. Esse é um tópico, se me permite muito rapidamente dizer. Mas duas coisas, você veja que nós cortamos 4,2 mil cargos de livre provimento, que eram também absolutamente dispensáveis, e, além disso, nós retiramos a chamada gratificação de cerca de 10,3 mil cargos do poder público. Isso significa uma relativa redução de despesas, mas tudo naquela ideia de que preciso primeiro cortar na carne do que onerar o cidadão.</p>
-<p><strong>Reforma da Previdência</strong></p>
-<p>Em primeiro lugar, tenho certeza que será possível fazer uma Reforma da Previdência, até porque ela é indispensável. Não há quem não diga da sua indispensabilidade, primeiro ponto.</p>
-<p>Segundo ponto, é interessante essa questão da cobrança do tributo sobre os produtos agropecuários, não houve nenhuma discussão, ninguém falou nesse assunto. E apenas para dar uma notícia, eu setorizei o governo, eu dividi o governo, os 23 ministérios em 05 grupos: um grupo econômico, um grupo social, um grupo institucional… Já fiz duas reuniões de grupo, muitas vezes em um grupo tem cinco ou seis ministros, mas em duas reuniões que eu já fiz jamais tocamos nesse assunto, segundo ponto.</p>
-<p>Terceiro ponto, é que há uma comissão formada e liderada pela Casa Civil com a presença de setores da sociedade, entre os quais as centrais sindicais. Você sabe que para uma Reforma da Previdência você deve ter pelo menos a participação, senão a concordância definitiva, mas a participação, as sugestões que sejam feitas pelas centrais sindicais.</p>
-<p>Essa comissão está trabalhando há quase 30 dias, talvez prorrogue um pouco mais esse prazo para ao final apresentarmos um projeto, porque a palavra final, você sabe, será dada pelo Congresso Nacional. Mas até interessante, mais uma vez eu volto ao fato de que o Legislativo muitas vezes age impulsionado pelo que acontece na sociedade. Muito recentemente, houve uma pesquisa reveladora de que mais de 65% da população é a favor da Reforma da Previdência e, eventualmente, até da fixação de uma idade mínima. Acho que nós vamos fazer.</p>
-{% endraw %}

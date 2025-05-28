@@ -1,39 +1,0 @@
----
-id: 12536987
-date: "2016-09-05T23:16:57Z"
-last_modified_at: null
-tags:
-  - "casos"
-  - "cinco-anos"
-  - "elcio-franco"
-  - "itamaraty"
-  - "politica"
-  - "renan-calheiros"
-  - "sexo"
-categories:
-  - "noticias"
-title: "De Renan Calheiros a Itamar Franco, cinco casos mostram que sexo e pol\u00edtica caminham juntos"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/09/renan-calheiros.jpg"
----
-{% raw %}
-<p>Sexo e política caminham juntos? Casos internacionais como o do ex-presidente dos Estados Unidos Bill Clinton e do ex-primeiro-ministro da Itália Silvio Belusconi provam que às vezes sim. Mas o Brasil não fica muito atrás quando o assunto é escândalo sexual. Casos assim já provocaram a renúncia do atual presidente do Senado, Renan Calheiros (PMDB-AL), quando ocupava o cargo dez anos atrás. Já atingiu também ex-presidente e ex-ministros. No Legislativo, não são raros os escândalos envolvendo pornografia. O Dia do Sexo é comemorado nesta terça-feira (6) e o <a href="https://blogs.ne10.uol.com.br/jamildo/">Blog de Jamildo</a> lembra cinco episódios da política nacional:</p>
-<p><img class="alignnone wp-image-165926 size-full" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/09/monica-veloso-playboy.jpg" width="750" height="410" /></p>
-<p><h2>1. Renan Calheiros renuncia após caso Mônica Veloso</h2></p>
-<p>Os mais jovens podem não lembrar, mas o atual presidente do Senado, Renan Calheiros (PMDB-AL), que aparece na foto de abertura desta matéria, já ocupou o mesmo cargo até 2007. Acusado de ter despesas pessoais pagas pela empreiteira <a href="https://blogs.ne10.uol.com.br/jamildo/2016/08/05/mendes-junior-e-cobrada-falar-de-renan-calheiros-em-delacao/">Mendes Júnior, hoje envolvida também no escândalo do Petrolão e em recuperação judicial depois da Operação Lava Jato</a>, o peemedebista se viu obrigado a renunciar para não ser cassado. A denúncia foi de que um lobista da construtora, Cláudio Gontijo, pagava o aluguel de R$ 4,4 mil do apartamento onde a jornalista Mônica Veloso, com quem o senador teve uma relação extraconjugal, morava com a filha que teve com Renan. Além disso, a menina recebia uma pensão de R$ 12 mil mensais. Na época, o alagoano também foi acusado de usar "laranjas" para comprar emissoras de rádio e televisão no seu estado.</p>
-<p><img class="size-full wp-image-165927" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/09/joao-rodrigues.jpg" alt="Vídeo foi visto no celular de João Rodrigues, do PSD de Santa Catarina (Foto: Nilson Bastian/ Câmara dos Deputados)" width="750" height="410" /> Vídeo foi visto no celular de João Rodrigues, do PSD de Santa Catarina (Foto: Nilson Bastian/ Câmara dos Deputados)</p>
-<p><h2>2. Deputados são flagrados assistindo pornografia durante votação da reforma política</h2></p>
-<p>A <a href="https://blogs.ne10.uol.com.br/jamildo/2015/09/10/camara-aprova-doacao-de-empresas-a-partidos-e-conclui-reforma-politica/">reforma política</a> é uma das pautas mais cobradas ao Congresso. Porém, em maio do ano passado, quando a matéria era votada na Câmara, deputados foram flagrados assistindo a vídeos pornográficos no celular de um deles, João Rodrigues (PSD-SC). O parlamentar aparece segurando o aparelho embaixo da mesa e os outros aparecem para ver o conteúdo. "Imagina que tenho cerca de 30 prefeitos e uns 150 vereadores em grupos de WhatsApp. Tem alguns que postam coisas e eu abro para ver", declarou à revista Exame no dia do episódio. Veja o vídeo do SBT de Brasília, que flagrou os deputados:</p>
-<p><iframe src='https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2Fsbt.brasilia%2Fvideos%2F971127422927591%2F&show_text=false&width=560&t=0' width='560' height='315' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share' allowFullScreen='true'></iframe></p>
-<p><img class="size-full wp-image-165928" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/09/Renato-Molling.jpg" alt="Site teve acesso à fatura de Renato Molling, do PP do Rio Grande do Sul, que contratou canais de futebol, filme extra e conteúdo adulto (Foto: Ananda Borges/ Câmara dos Deputados)" width="750" height="410" /> Site teve acesso à fatura de Renato Molling, do PP do Rio Grande do Sul, que contratou canais de futebol, filme extra e conteúdo adulto (Foto: Ananda Borges/ Câmara dos Deputados)</p>
-<p><h2>3. Câmara paga até canais de pornografia para deputados</h2></p>
-<p>O "cotão" da Câmara dos deputados, como é popularmente conhecida a verba para pagar despesas diversas dos parlamentares, já foi usada para bancar "canais adultos" para escritórios de alguns. Há dois anos, o site Congresso em Foco teve acesso às faturas da assinatura de empresas de TV a cabo de três deputados, todos eles flagrados assinando pacotes que incluíam esse conteúdo. Renato Molling, por exemplo, tinha acesso a campeonatos de futebol, a esses canais e comprou o filme "Blue Jasmine", de Woody Allen. A média dos gastos da Câmara com essa verba para ressarcir os deputados era de R$ 35 mil mensais para cada um em 2014.</p>
-<p><img class="size-full wp-image-165929" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/09/itamar-franco.jpg" alt="Itamar Franco morreu em 2011, aos 81 ano, quase duas décadas após escândalo que quase o tirou da presidência (Foto: José Cruz/ABr)" width="750" height="410" /> Itamar Franco morreu em 2011, aos 81 ano, quase duas décadas após escândalo que quase o tirou da presidência (Foto: José Cruz/ABr)</p>
-<p><h2>4. Organização defende impeachment de Itamar Franco por dançar com modelo sem calcinha</h2></p>
-<p>Este ano a Federação das Indústrias do Estado de São Paulo (Fiesp) fez a campanha intitulada "Não vou pagar o pato" pelo impeachment da agora ex-presidente Dilma Rousseff (PT). Há 22 anos, a entidade chegou a afirmar que o então presidente Itamar Franco, que chegou ao cargo dois anos antes depois do impedimento de Fernando Collor, atualmente senador pelo PTC de Alagoas. O motivo na época foi o fato de Itamar ter sido visto no Carnaval de 1994 beijando e abraçando a atriz e modelo Lílian Ramos no sambódromo do Rio de Janeiro, durante o desfile das escolas de samba. Pesaram na época fotografias dela sem calcinha ao lado do ex-presidente. Diante do escândalo, Itamar se defendeu afirmando que não havia cometido "ato libidinoso" e não sabia que a modelo não usava calcinha, ironizando que, mesmo que soubesse, não tinha uma para emprestar, então não poderia ter feito nada.</p>
-<p><img class="size-full wp-image-165930" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/09/collor_posse01-1024x666.jpg" alt="Imagem mostra Brasília no dia da posse de Collor, quando não se previam os escândalos que estavam por vir (Foto: Arquivo Senado)" width="750" height="410" /> Imagem mostra Brasília no dia da posse de Collor, quando não se previam os escândalos que estavam por vir (Foto: Arquivo Senado)</p>
-<p><h2>5. Ministros de Collor têm relação além do governo</h2></p>
-<p>"Nitroglicerina pura" foi a expressão usada pelo então presidente Collor para definir o romance dos seus ministros Zélia Cardoso de Mello, na pasta da Economia, e Bernardo Cabral, da Justiça. O caso entre os dois era proibido na época porque Cabral era casado e o adultério ainda era crime. Por isso, foi escondido enquanto se pôde, até os dois dançarem "Besame Mucho" no aniversário dela de 1990 e serem publicados bilhetes trocados entre o casal - um deles falando sobre uma "saia deliciosa" que Zélia usava. O titular da Justiça renunciou ao cargo e a ministra, uma das responsáveis pelo Plano Collor de confisco das poupanças, foi demitida.</p>
-{% endraw %}

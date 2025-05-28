@@ -1,42 +1,0 @@
----
-id: 12510194
-date: "2016-01-10T13:00:33Z"
-last_modified_at: null
-tags:
-  - "audiencia-de-custodia"
-  - "publicas"
-  - "regulamentacao"
-categories:
-  - "noticias"
-title: "CNJ publica resolu\u00e7\u00e3o que regulamenta audi\u00eancias de cust\u00f3dia"
-sutia: null
-chapeu: null
-autor: null
-imagem: null
----
-{% raw %}
-<p><a href="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/01/Preso.jpg"><img class="alignnone size-medium wp-image-139132" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/01/Preso-580x387.jpg" alt="Preso" width="580" height="387" /></a></p>
-<p>Da ABr- Entra em vigor no dia 1º de fevereiro a resolução que regulamenta as audiências de custódia no Poder Judiciário. Aprovada pelo Conselho Nacional de Justiça (CNJ) no dia 15 de dezembro e publicada nessa sexta-feira (8) no <em>Diário de Justiça Eletrônico, </em>a resolução dispõe sobre a apresentação da pessoa presa à autoridade judicial no prazo de 24 horas.</p>
-<p>Segundo o CNJ, na audiência de custódia, o magistrado avalia tanto a necessidade quanto a legalidade de a pessoa presa em flagrante ser mantida na prisão. Cabe a ele decidir se a pessoa continua detida ou se pode aguardar o julgamento em liberdade. O juiz pode também determinar que o preso cumpra uma medida cautelar, como, por exemplo, o uso de tornozeleira eletrônica até o julgamento.</p>
-<p>O projeto das audiências de custódia teve início em fevereiro do ano passado.</p>
-<p>Segundo o coordenador do Departamento de Monitoramento e Fiscalização do Sistema Carcerário e juiz auxiliar da presidência do Conselho Nacional de Justiça, Luís Lanfredi, para viabilizar as audiências, os tribunais assinaram termos de cooperação com o CNJ e as unidades da Federação. Cada um dos estados disciplinou o tema.</p>
-<p>“A atuação do Conselho Nacional de Justiça neste momento não muda o que está sendo feito, mas dá muito mais subsídios e determina, impõe, um protocolo mais rígido, mais uniforme, de uma maneira mais equilibrada, dos deveres e obrigações dos juízes em relação a estas audiências de custódia”, afirma Lanfredi.</p>
-<p>O juiz de direito substituto do Tribunal de Justiça do Distrito Federal e Territórios (TJDFT) Bruno Macacari, que já realizou 15 audiências de custódia, diz que a resolução pode ajudar os magistrados. “[A audiência] é uma novidade para o judiciário, para o Ministério Público, para os defensores e é de extrema importância que o CNJ edite, como editou essa resolução, que tem validade em todo território nacional, justamente para dar aos magistrados um norte para a realização do ato.”</p>
-<p>O documento publicado detalha procedimentos e diz, por exemplo, que a audiência de custódia deve ser realizada na presença do Ministério Público e também da Defensoria Pública, caso a pessoa não tenha advogado. A resolução trata também do Sistema de Audiência de Custódia, ferramenta eletrônica disponibilizada pelo próprio CNJ que ajuda a sistematizar dados, produzir estatísticas e elaborar atas padronizadas das audiências.</p>
-<p>A resolução estipula prazo de 90 dias, contados a partir da entrada em vigor, para que os tribunais de Justiça e os tribunais regionais federais implantem a audiência de custódia. Lanfredi lembra que a resolução é de cumprimento obrigatório e traz também dois protocolos de orientação com diretrizes para os juízes.</p>
-<p>“[Tais diretrizes] permitem que o juiz intervenha adequadamente não só na forma de realizar o ato como também na tomada de medidas e adoção de providências em situações que imponham a necessidade de medidas alternativas à prisão, notadamente a questão do uso das tornozeleiras eletrônicas e também atuação perante situações que denunciem tortura ou maus-tratos durante o ato da prisão."</p>
-<p>O Brasil ainda não tem uma lei sobre o tema. De acordo com o CNJ, a legalidade da metodologia das audiências foi ratificada pelo Supremo Tribunal Federal (STF) em duas decisões. No Senado, tramita um projeto de lei que trata das audiências de custódia.</p>
-<p>Lanfredi considera a lei é indispensável, porque vai criar obrigações para todos, mas ressalta que a resolução não pretende inibir a proposta legislativa. “O Conselho Nacional de Justiça entendeu que poderia avançar nesta matéria e, ainda que sem um regramento específico, com base apenas no que temos de preservação da nossa legislação e que já é uma obrigação para os juízes, disposta em outros documentos legislativos.”</p>
-<p>Para Lanfredi, a resolução cria ainda um estímulo para que esta legislação saia "Em um prazo mais exequível", de modo que se tenha uma lei geral regulando a questão. "Isso sem prejuízo de que a normativa do CNJ já se faça eficaz e com a sua devida repercussão e efeitos dentro do poder judiciário.”</p>
-<p>Entretanto, a resolução não agradou a todos. Nesta semana, a Associação Nacional dos Magistrados Estaduais protocolou no Supremo uma ação direta de inconstitucionalidade contra a resolução do CNJ. “Ao editar a resolução, o Conselho Nacional de Justiça, que integra o Poder judiciário usurpou competência privativa do Congresso Nacional, ante o caráter normativo-abstrato e a inovação no ordenamento jurídico causada pelo referido ato”, diz a ação dos magistrados. Como o judiciário está em recesso, a ação, que tinha sido distribuída para o ministro Dias Toffoli, foi entregue à vice-presidência e aguarda andamento.</p>
-<p><strong>As Audiências</strong></p>
-<p>Segundo textos publicados no <em>site </em>do CNJ, muitas das pessoas que foram apresentadas em audiência de custódia puderam responder ao processo em liberdade provisória, poupando recursos públicos e também deixando de contribuir para a superlotação do sistema prisional. No ano passado, quase 15 mil prisões foram evitadas.</p>
-<p>De acordo com Luís Lanfredi, antes das audiências, o juiz tomava a decisão sobre a prisão em flagrante baseando-se apenas em documentos, mas, com o projeto, a metodologia mudou. “O juiz também vai ter que requisitar essa pessoa para ter um contato pessoal, uma apresentação olho no olho, como forma de colher mais informações, mais subsídios para ter seu ato respaldado por mais elementos, de maneira a se impor uma prisão realmente nos casos em que seja efetivamente necessária.”</p>
-<p>Para Lanfredi, com a implantação das audiências, o Brasil cumpre uma obrigação que assumiu ao ratificar convenções internacionais que foram internalizadas no país em 1992.</p>
-<p>A defensora pública Federal Manoela Maia destaca que as audiências têm dois objetivos importantes. Um é que o juiz poderá avaliar se houve algum tipo de tortura no momento da prisão. O outro é a possibilidade de ele avaliar, naquele momento, se mantém a prisão em flagrante e a converte em preventiva ou se vai soltar aquele acusado. "A audiência de custódia é muito interessante para o sistema carcerário”, afirma Manoela.</p>
-<p>Bruno Macacari lembra outro benefício: proporcionar àquele que foi detido, os direitos de audiência e de presença, que são as duas vertentes mais importantes do princípio, do direito à ampla defesa. "Então, a partir do momento que se reconhece e se proporciona ao indivíduo o efetivo gozo a esse direito, ele sente que sua situação está sendo atendida e isso chega efetivamente ao conhecimento do juiz. Esses direitos de audiência e de presença são importantes para o efetivo exercício da ampla defesa”, enfatiza.</p>
-<p>Para Macacari, o contato pessoal com o preso em flagrante faz diferença. “A partir do momento em que o juiz está frente a frente com o autuado, pode formular os questionamentos que entende pertinentes ao caso e só então decidir se há necessidade da conversão da prisão em flagrante em prisão preventiva, o que é uma medida bastante extrema.”</p>
-<p>Segundo Manoela Maia, as experiências mostram que audiências de custódia são eficazes e podem contribuir para a diminuição da criminalidade. Ela diz, porém, que o sistema ainda pode ser aprimorado.</p>
-<p>“Ainda há muitos passos a seguir. Os tribunais têm de se organizar para isso, para saber quem vai ser o juiz que vai fazer a audiência. O juiz que recebe o flagrante é o juiz que vai julgar a causa? Vai ter um núcleo específico para audiências de custódia, como está acontecendo em São Paulo?", questiona Manoela.</p>
-<p>Ela ressalta que tais questões ainda não estão 100% definidas em todos os tribunais. "Há muitas coisas a serem aprimoradas ainda.”</p>
-{% endraw %}

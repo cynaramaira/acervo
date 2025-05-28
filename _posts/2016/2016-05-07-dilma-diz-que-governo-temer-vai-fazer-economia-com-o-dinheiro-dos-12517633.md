@@ -1,33 +1,0 @@
----
-id: 12517633
-date: "2016-05-07T19:53:32Z"
-last_modified_at: null
-tags:
-  - "dilma"
-  - "dinheiro"
-  - "economia"
-  - "governo"
-  - "michel-temer"
-  - "pobres"
-categories:
-  - "noticias"
-title: "Dilma diz que governo Temer vai fazer economia com o dinheiro dos pobres"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/05/RSF_Dilma-Rousseff-inauguracao-Embrapa-Palmas-Tocantins_01-850x480.jpg"
----
-{% raw %}
-<p>Dilma, em discurso no Pará, neste sábado</p>
-<p>Eu vou continuar lutando contra o pedido de impeachment em análise no Senado Federal. Esse pedido de impeachment não tem base legal os dois motivos invocados: um, são decretos suplementares, precisamente 6. Esses decretos suplementares são decretos que todos os governos fizeram. Para vocês terem uma ideia, no ano de 2001, o ex-presidente Fernando Henrique Cardoso fez 101 desses decretos. Desses 101, 30 são iguais aos que eu fiz. Jamais foi invocado contra ele nenhum problema, e não foi invocado porque não tinha problema, como hoje não tem problema. O mesmo aconteceu durante o governo do presidente Lula. O mesmo acontece hoje nos governos estaduais por esse Brasil a fora.</p>
-<p>Aliás, o que se verifica são que atos de fato graves como muitos praticados por ex-governadores passam em brancas nuvens. Enquanto a mim, sou acusada de 6 decretos. Vocês sabem que decretos são esses? São decretos que dizem respeito, por exemplo, a recursos para o Tribunal Superior Eleitoral fazer concursos, para o Ministério da Educação pagar hospitais, para o Ministério da Justiça complementar recursos para escoltas. Não são recursos que a Presidência pegou para ela. São recursos que nós transferimos para ministérios e para outros órgãos, outros órgãos como o Tribunal Superior Eleitoral. E, além disso, atribuem a mim praticar atos relativos ao último Plano Safra, transferir subvenções. Subvenções que são justamente a diferença entre o juro de mercado e juro menor que nós cobramos da agricultura dos programas sociais e dos investimentos também da indústria.</p>
-<p>Ora, o que está em questão são atos dos quais eu sequer participei, todos atos absolutamente regulares. Mas, além disso, de ser regular, têm uma outra característica, eu não estive em nenhum deles, não porque não queira, porque a lei estipula que não é o presidente da República que opera o Plano Safra, porque isso, e ela estipula desde 1994, é desde 94. Então, os atos não são irregulares, e eu, além disso, não participei deles.</p>
-<p>Então, por que querem o impeachment? Por que esse impeachment? Porque não gostam não. Porque não gostam. Não só é golpe, mas, além de ser golpe, eles não gostam de onde eu faço minhas escolhas para gastar o dinheiro. Daí como eu não tenho contas no exterior, eu não recebi dinheiro de propina, eu não recebo dinheiro de corrupção. Aliás, falam que eu sou uma pessoa dura. Eu não sou uma pessoa dura, não, eu sou honesta. É diferente.</p>
-<p>Então onde é, onde é que que pratiquei crime? Não, eu não pratiquei crime. O que estão tentando fazer é um golpe, por quê? É verdade, está lá na Constituição: é possível o impeachment. Mas também, logo depois, está na Constituição também, artigo 85, escrito: para se ter impeachment, tem de ter crime de responsabilidade. Como eu não cometi crime de responsabilidade, que são essas duas questões, decreto e Plano Safra, este impeachment é um golpe. Mais que um golpe, é uma tentativa clara de fazer uma eleição direta para colocar no governo quem não tem voto suficiente para lá chegar. E sabe por que eles não têm voto suficiente? Porque se eles chegarem para o povo brasileiro e falarem assim: “não vai mais haver subsídio, então acabou o programa Minha Casa Minha Vida”, ou ele não vão falar assim. Eles vão reduzir, revisitar, reolhar, rever o programa Minha Casa Minha Vida. Mas isso vai significar menos dinheiro para fazer o programa Minha Casa minha Vida.</p>
-<p>No caso do Bolsa Família, o que eles falam? “Vamos focar nos mais pobres.” O Bolsa Família tem de focar em 5% da população brasileira, dá 10 milhões de pessoas. Ora, o Bolsa Família hoje abrange 46, quase 47 milhões de pessoas. Significa que o foco é tirar do Bolsa Família 36 milhões de pessoas. Isso porque eles sabem que o gasto do Bolsa Família é menos de 1% do PIB, é um dos menores gastos deste País. E aí querem fazer economia com o dinheiro dos mais pobres, jamais se elegeriam. Jamais.</p>
-<p>Então, o caminho mais fácil é o da eleição indireta. E é isso que está em curso no Brasil</p>
-<p>Mas eu quero dizer que eu tenho certeza de uma coisa: tenho certeza que nós avançamos muito nos últimos anos, que vai ser muito difícil reduzir os recursos para esse programa de safra, que nós lançamos agora na quarta-feira; e na terça-feira, nós lançamos o da agricultura familiar. O Plano Safra da Agricultura Comercial e o Plano Safra da Agricultura Familiar, todo mundo conhece eles, eles não ocorreram este ano, eles vêm ocorrendo ano a ano, melhorando e modificando porque nós dialogamos com os produtores, nós escutamos os pleitos. Então, acredito que vai ser muito difícil eles conseguirem quebrar todos esse programas. Mas que vão tentar, vão.</p>
-<p>Por isso, esclareço a vocês e destaco essa questão com vocês: nós todos, não só eu, nós todos teremos de lutar para que não haja retrocesso. Eu tenho de lutar contra o impeachment, e vocês têm de defender os interesses de vocês.</p>
-<p>O Brasil só será um grande país se nós preservarmos a democracia. Foi a democracia que permitiu que a gente estabilizasse o País, que a gente acabasse e reduzisse a inflação, foi a democracia que permitiu que a gente tirasse o Brasil do mapa da fome, que é um grande orgulho que eu tenho, foi a democracia que permite que a gente conclua a Norte-Sul porque também fez parte de toda uma discussão e uma negociação. Será sempre a democracia que vai permitir que o nosso País cresça.</p>
-<p>E que a gente respeite o voto popular, porque, na verdade, do ponto de vista da política o grande juiz é o povo brasileiro. Se querem fazer um julgamento político do meu governo recorram ao povo brasileiro, e não ao impeachment. Se querem alterar qualquer programa, só quem tem a legitimidade do voto popular pode fazê-lo. Quem não tem não pode. E nós não iremos permitir que isso aconteça. Espero e tenho certeza, irei resistir até o fim. Conto com vocês!</p>
-{% endraw %}

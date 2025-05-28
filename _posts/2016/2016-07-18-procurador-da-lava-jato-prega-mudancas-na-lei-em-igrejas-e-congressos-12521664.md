@@ -1,32 +1,0 @@
----
-id: 12521664
-date: "2016-07-18T14:40:30Z"
-last_modified_at: null
-tags:
-  - "empregados"
-  - "lava-jato"
-  - "mudancas"
-  - "procuradoria-municipal"
-categories:
-  - "noticias"
-title: "Procurador da Lava Jato prega mudan\u00e7as na lei em igrejas e congressos"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2015/10/deltan.jpg"
----
-{% raw %}
-<p><em>Estadão Conteúdo</em></p>
-<p>No auditório da Primeira Igreja Batista de Curitiba, o procurador Deltan Dallagnol propõe a cada espectador da palestra "Liderança Corajosa" que, durante um minuto, discuta com o companheiro ao lado sobre a questão: a Operação Lava Jato transforma o País? "Outro dia, fiz a mesma proposta para um grupo de mulheres e quase não consegui retomar a palestra", brinca Dallagnol. A plateia ri, conversa e pouco depois o procurador retoma o raciocínio. Diz que a investigação do maior esquema de desvio de recursos e pagamento de propina em estatais brasileiras "infelizmente não muda o País", mas pode despertar uma inédita mobilização de combate à corrupção.</p>
-<p>"Vivemos uma janela de oportunidade, o caso Lava Jato deixou a sociedade altamente sensível e esperançosa de mudanças", diz Dallagnol.</p>
-<p>A declaração é quase um mantra do procurador de 36 anos que chefia a força-tarefa da Lava Jato em Curitiba, onde a investigação começou em março de 2014. Além do trabalho na Lava Jato, Dallagnol se dedica a viajar o País para divulgar a campanha Dez Medidas contra a Corrupção, que alcançou 2,2 milhões de assinaturas e já tramita como projeto de lei de iniciativa popular na Câmara dos Deputados.</p>
-<p>Em palestra no Rio para investidores, na semana passada, o procurador disse que já fez, "sem ganhar nada por isso", mais de 150 palestras só sobre as medidas anticorrupção e perdeu as contas das apresentações sobre outros temas ligados ao combate ao crime.</p>
-<p>Quando Dallagnol, com um grupo de colegas, decidiu levar adiante a campanha pelo projeto de iniciativa popular, o ponto de partida foi a Igreja Batista, que frequenta desde criança. Os convites se expandiram. Hoje vão do Congresso Brasileiro de Cirurgiões à Associação Brasileira de Private Equity e Venture Capital, plateia do procurador na noite de 7 de julho em um hotel no Rio.</p>
-<p>"Vou decepcionar os que esperam mais um momento sobre como lucrar nos negócios. Se vocês seguirem minhas dicas, infelizmente vão falir. Tenho ações de Petrobras, do BTG Pactual e da Queiroz Galvão", disse o procurador, citando estatal, banco e empreiteira investigados na Lava Jato, para diversão dos investidores.</p>
-<p><b>Weber, Luther King</b></p>
-<p>O palestrante adapta sua apresentação à plateia, mas segue um roteiro padrão que mistura pequenos filmes, tabelas, charges, mapas, citações de intelectuais como Max Weber, um dos pensadores da sociologia, e o pastor e ativista americano Martin Luther King. Vez ou outra, faz referência a alguma passagem bíblica. Rebate acusações de abusos da Lava Jato, como excesso de prisões preventivas e delações premiadas. Insistentemente defende a tese de que o combate à corrupção "é uma questão de amor ao próximo, de serviço à sociedade".</p>
-<p>Criador do curso "Humanismo em Nove Lições", voltado para juízes, e um dos autores do estudo Corpo e Alma na Magistratura Brasileira, o cientista social Luiz Werneck Vianna tem observado a nova geração de profissionais de Direito no Brasil. "São filhos dessas novas correntes que aproximam o Direito da sociedade. Estávamos necrosados em uma tradição positivista que interditava uma percepção nova dos problemas sociais. É um movimento geracional que coincide com a mudança de bibliografia do Direito, em que cientistas sociais têm sido cada vez mais incorporados. É um Direito mais responsivo, mais aberto a problemas sociais, voltado para temas como o reconhecimento das minorias", disse.</p>
-<p>Em muitos profissionais, Werneck Vianna identificou traços comuns, como o fato de completarem os estudos em universidades americanas, vínculos com a religião e idades em torno de 40 anos "A velha tradição está sendo deslocada. A 'common law' (Direito baseado mais na jurisprudência e nas decisões dos tribunais do que apenas no texto da lei) passou a ser incorporada por essas novas gerações, muitos foram estudar nos Estados Unidos. Há um grupo de pessoas formadas no campo do Direito que escolheu a carreira pública e tenta assumir um protagonismo em mudanças no País. Há um movimento em que está presente a mística da salvação, da missão de salvação. Há alguma coisa de revolução dos santos, como a que ocorreu com o advento do protestantismo, nesses juízes e promotores", disse o pesquisador.</p>
-<p>Dallagnol em muito se encaixa nesse novo perfil. Em 2003, quando ingressou por concurso no Ministério Público Federal, tinha 23 anos e era o segundo mais novo procurador do País. Logo passou a trabalhar na investigação de remessas ilegais de dinheiro para o exterior no caso Banestado. "Hoje está perdido nos escaninhos do Judiciário rumo à prescrição", lamenta ele em mais um trecho recorrente de suas palestras. "Minha história é de alguém que teve fracassos sucessivos no combate à corrupção", resume. Entre 2013 e 2014, Dallagnol fez mestrado na Universidade Harvard (EUA). "Quanto voltei, estava 'grávido' do meu primeiro filho, pensava em ir para a academia. Mas entrei em um caso (inicialmente, uma investigação sobre lavagem de dinheiro) que hoje é a Lava Jato. Deu no que deu", conta o procurador aos ouvintes.</p>
-<p>O coordenador da Lava Jato desperta na plateia muita curiosidade sobre os rumos das investigações e a impunidade, mas também sobre sua vida pessoal. Conta que é casado, tem dois filhos e reconhece que sacrifica a vida familiar pela causa do combate à corrupção. Não são raras as perguntas sobre o que planeja no futuro. A uma espectadora que foi mais direta e questionou se pretende entrar para a política, o procurador não afastou a possibilidade. "Eu descartaria poucas coisas em relação a meu futuro, cogito talvez até virar pastor. Mas nós focamos no presente", respondeu. As informações são do jornal <b>O Estado de S. Paulo.</b></p>
-{% endraw %}

@@ -1,44 +1,0 @@
----
-id: 12539768
-date: "2016-10-18T08:19:14Z"
-last_modified_at: null
-tags:
-  - "juntas-politico"
-  - "lula"
-  - "naomi-campbell"
-  - "presidente"
-  - "projeto"
-categories:
-  - "noticias"
-title: "\"N\u00e3o \u00e9 o Lula que pretendem condenar: \u00e9 o projeto pol\u00edtico que represento\", diz o ex-presidente"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/10/Lula-1.jpg"
----
-{% raw %}
-<p><p class="description">Em artigo publicado na <a href="https://www.folha.uol.com.br/">Folha de S.Paulo</a>, nesta terça-feira (18), o ex-presidente Luiz Inácio Lula da Silva se defende contra acusações na Operação Lava Jato e afirma que "não é o Lula que pretendem condenar: é o projeto político que represento junto com milhões de brasileiros". Lula ainda ressalta que nunca fez nada ilegal. "Jamais encontraram um ato desonesto de minha parte", disse o petista.</p></p>
-<p><div class="ruler"> <strong>Confira a íntegra do artigo "Lula: Por que querem me condenar"</strong></div></p>
-<p>Em mais de 40 anos de atuação pública, minha vida pessoal foi permanentemente vasculhada -pelos órgãos de segurança, pelos adversários políticos, pela imprensa. Por lutar pela liberdade de organização dos trabalhadores, cheguei a ser preso, condenado como subversivo pela infame Lei de Segurança Nacional da ditadura. Mas jamais encontraram um ato desonesto de minha parte.</p>
-<p>Sei o que fiz antes, durante e depois de ter sido presidente. Nunca fiz nada ilegal, nada que pudesse manchar a minha história. Governei o Brasil com seriedade e dedicação, porque sabia que um trabalhador não podia falhar na Presidência. As falsas acusações que me lançaram não visavam exatamente a minha pessoa, mas o projeto político que sempre representei: de um Brasil mais justo, com oportunidades para todos.</p>
-<p>Às vésperas de completar 71 anos, vejo meu nome no centro de uma verdadeira caçada judicial. Devassaram minhas contas pessoais, as de minha esposa e de meus filhos; grampearam meus telefonemas e divulgaram o conteúdo; invadiram minha casa e conduziram-me à força para depor, sem motivo razoável e sem base legal. Estão à procura de um crime, para me acusar, mas não encontraram e nem vão encontrar.</p>
-<p>Desde que essa caçada começou, na campanha presidencial de 2014, percorro os caminhos da Justiça sem abrir mão de minha agenda. Continuo viajando pelo país, ao encontro dos sindicatos, dos movimentos sociais, dos partidos, para debater e defender o projeto de transformação do Brasil. Não parei para me lamentar e nem desisti da luta por igualdade e justiça social.</p>
-<p>Nestes encontros renovo minha fé no povo brasileiro e no futuro do país. Constato que está viva na memória de nossa gente cada conquista alcançada nos governos do PT: o Bolsa Família, o Luz Para Todos, o Minha Casa, Minha Vida, o novo Pronaf (Programa Nacional de Fortalecimento da Agricultura Familiar), o Programa de Aquisição de Alimentos, a valorização dos salários -em conjunto, proporcionaram a maior ascensão social de todos os tempos.</p>
-<p>Nossa gente não esquecerá dos milhões de jovens pobres e negros que tiveram acesso ao ensino superior. Vai resistir aos retrocessos porque o Brasil quer mais, e não menos direitos.</p>
-<p>Não posso me calar, porém, diante dos abusos cometidos por agentes do Estado que usam a lei como instrumento de perseguição política. Basta observar a reta final das eleições municipais para constatar a caçada ao PT: a aceitação de uma denúncia contra mim, cinco dias depois de apresentada, e a prisão de dois ex-ministros de meu governo foram episódios espetaculosos que certamente interferiram no resultado do pleito.</p>
-<p>Jamais pratiquei, autorizei ou me beneficiei de atos ilícitos na Petrobras ou em qualquer outro setor do governo. Desde a campanha eleitoral de 2014, trabalha-se a narrativa de ser o PT não mais partido, mas uma "organização criminosa", e eu o chefe dessa organização. Essa ideia foi martelada sem descanso por manchetes, capas de revista, rádio e televisão. Precisa ser provada à força, já que "não há fatos, mas convicções".</p>
-<p>Não descarto que meus acusadores acreditem nessa tese maliciosa, talvez julgando os demais por seu próprio código moral. Mas salta aos olhos até mesmo a desproporção entre os bilionários desvios investigados e o que apontam como suposto butim do "chefe", evidenciando a falácia do enredo.</p>
-<p>Percebo, também, uma perigosa ignorância de agentes da lei quanto ao funcionamento do governo e das instituições. Cheguei a essa conclusão nos depoimentos que prestei a delegados e promotores que não sabiam como funciona um governo de coalizão, como tramita uma medida provisória, como se procede numa licitação, como se dá a análise e aprovação, colegiada e técnica, de financiamentos em um banco público, como o BNDES.</p>
-<p>De resto, nesses depoimentos, nada se perguntou de objetivo sobre as hipóteses da acusação. Tenho mesmo a impressão de que não passaram de ritos burocráticos vazios, para cumprir etapas e atender às formalidades do processo. Definitivamente, não serviram ao exercício concreto do direito de defesa.</p>
-<p>Passados dois anos de operações, sempre vazadas com estardalhaço, não conseguiram encontrar nada capaz de vincular meu nome aos desvios investigados. Nenhum centavo não declarado em minhas contas, nenhuma empresa de fachada, nenhuma conta secreta.</p>
-<p>Há 20 anos moro no mesmo apartamento em São Bernardo. Entre as dezenas de réus delatores, nenhum disse que tratou de algo ilegal ou desonesto comigo, a despeito da insistência dos agentes públicos para que o façam, até mesmo como condição para obter benefícios.</p>
-<p>A leviandade, a desproporção e a falta de base legal das denúncias surpreendem e causam indignação, bem como a sofreguidão com que são processadas em juízo. Não mais se importam com fatos, provas, normas do processo. Denunciam e processam por mera convicção -é grave que as instâncias superiores e os órgãos de controle funcional não tomem providências contra os abusos.</p>
-<p>Acusam-me, por exemplo, de ter ganho ilicitamente um apartamento que nunca me pertenceu -e não pertenceu pela simples razão de que não quis comprá-lo quando me foi oferecida a oportunidade, nem mesmo depois das reformas que, obviamente, seriam acrescentadas ao preço. Como é impossível demonstrar que a propriedade seria minha, pois nunca foi, acusam-me então de ocultá-la, num enredo surreal.</p>
-<p>Acusam-me de corrupção por ter proferido palestras para empresas investigadas na Operação Lava Jato. Como posso ser acusado de corrupção, se não sou mais agente público desde 2011, quando comecei a dar palestras? E que relação pode haver entre os desvios da Petrobras e as apresentações, todas documentadas, que fiz para 42 empresas e organizações de diversos setores, não apenas as cinco investigadas, cobrando preço fixo e recolhendo impostos?</p>
-<p>Meus acusadores sabem que não roubei, não fui corrompido nem tentei obstruir a Justiça, mas não podem admitir. Não podem recuar depois do massacre que promoveram na mídia. Tornaram-se prisioneiros das mentiras que criaram, na maioria das vezes a partir de reportagens facciosas e mal apuradas. Estão condenados a condenar e devem avaliar que, se não me prenderem, serão eles os desmoralizados perante a opinião pública.</p>
-<p>Tento compreender esta caçada como parte da disputa política, muito embora seja um método repugnante de luta. Não é o Lula que pretendem condenar: é o projeto político que represento junto com milhões de brasileiros. Na tentativa de destruir uma corrente de pensamento, estão destruindo os fundamentos da democracia no Brasil.</p>
-<p>É necessário frisar que nós, do PT, sempre apoiamos a investigação, o julgamento e a punição de quem desvia dinheiro do povo. Não é uma afirmação retórica: nós combatemos a corrupção na prática.</p>
-<p>Ninguém atuou tanto para criar mecanismos de transparência e controle de verbas públicas, para fortalecer a Polícia Federal, a Receita e o Ministério Público, para aprovar no Congresso leis mais eficazes contra a corrupção e o crime organizado. Isso é reconhecido até mesmo pelos procuradores que nos acusam.</p>
-<p>Tenho a consciência tranquila e o reconhecimento do povo. Confio que cedo ou tarde a Justiça e a verdade prevalecerão, nem que seja nos livros de história. O que me preocupa, e a todos os democratas, são as contínuas violações ao Estado de Direito. É a sombra do estado de exceção que vem se erguendo sobre o país.</p>
-<p>LUIZ INÁCIO LULA DA SILVA foi presidente do Brasil (2003-2010). É presidente de honra do PT (Partido dos Trabalhadores)</p>
-{% endraw %}

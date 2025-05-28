@@ -1,41 +1,0 @@
----
-id: 12519378
-date: "2016-06-04T15:47:27Z"
-last_modified_at: null
-tags:
-  - "bruno-covas"
-categories:
-  - "noticias"
-title: "Na RMR, Bruno Ara\u00fajo promete entregar 1,2 milh\u00e3o de unidades do Minha Casa Minha Vida at\u00e9 2018"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/06/GM040616016.jpg"
----
-{% raw %}
-<p>Em visita a aliados políticos na Região Metropolitana do Recife neste sábado (4), o ministro das Cidades, o pernambucano Bruno Araújo (PSDB) disse ter garantido ao presidente interino Michel Temer (PMDB) a entrega de 1,2 milhão de unidades habitacionais nas faixas 2 e 3 do Minha Casa Minha Vida até 2018. O peemedebista assumiu, em maio, o Palácio do Planalto por até 180 dias enquanto acontece o julgamento do mérido do impeachment da presidente afastada Dilma Rousseff (PT).</p>
-<p>Nessas faixas do programa, destinadas à população que ganha até R$ 3,6 mil e R$ 6,5 mil, foram contratadas 204,4 mil unidades até o fim de maio, de acordo com os dados do ministério.</p>
-<p><strong>LEIA TAMBÉM</strong></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/03/como-ministro-bruno-araujo-visita-cidades-governadas-pelo-psdb-na-regiao-metropolitana-do-recife/">Como ministro, Bruno Araújo visita cidades governadas pelo PSDB na Região Metropolitana do Recife</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/04/cbtu-nao-pode-ser-objeto-de-ocupacao-politica-diz-bruno-araujo-em-visita-a-rmr/">“CBTU não pode ser objeto de ocupação política”, diz Bruno Araújo em visita à RMR</a></p>
-<p><img class="size-medium wp-image-148318" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/06/GM040616036-580x387.jpg" alt="Foto: Guga Matos/JC Imagem  Data: 4-6-2016 Assunto: CIDADES - Sabendo da presença do Ministro das Cidades um grupo de moradores da Comunidade Selva Madeira de Dom Hélder realizaram um protesto na entrada da Prefeitura de Jaboatão pedindo moradia.Ministro da Cidades Bruno Araújo realiza reunião com o Prefeito de Jaboatão Elias Gomes para discutir, os projetos conveniados com o Ministério. Palavra chave: Ministro das Cidades - Bruno Araújo - Prefeitura de Jaboatão dos Guararapes - Elias Gomes - Prefeito - Pernambuco - ##" width="580" height="387" /> Foto: Guga Matos/JC Imagem</p>
-<p>Bruno Araújo iniciou a agenda no fim da manhã por Jaboatão dos Guararapes, em reunião com o prefeito Elias Gomes (PSDB), que está no fim do segundo mandato. Lá, enfrentou protesto de um grupo de moradores da ocupação Selma Madeira, no bairro de Dom Helder, em manifestação para cobrar a construção de moradias.</p>
-<p><img class="size-medium wp-image-148317" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/06/GM040616031-580x387.jpg" alt="Foto: Guga Matos/JC Imagem Data: 4-6-2016 Assunto: CIDADES - Sabendo da presença do Ministro das Cidades um grupo de moradores da Comunidade Selva Madeira de Dom Hélder realizaram um protesto na entrada da Prefeitura de Jaboatão pedindo moradia.Ministro da Cidades Bruno Araújo realiza reunião com o Prefeito de Jaboatão Elias Gomes para discutir, os projetos conveniados com o Ministério. Palavra chave: Ministro das Cidades - Bruno Araújo - Prefeitura de Jaboatão dos Guararapes - Elias Gomes - Prefeito - Pernambuco - ##" width="580" height="387" /> Foto: Guga Matos/JC Imagem</p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/02/governo-dilma-aniquilou-recursos-do-mcmv-das-familias-mais-pobres-diz-bruno-araujo/">“Governo Dilma ‘aniquilou’ recursos do MCMV das famílias mais pobres”, diz Bruno Araújo</a></p>
-<p>Lá, ao conceder entrevista coletiva, voltou a dizer que o governo petista fez "a emissão do maior cheque sem fundo da história". Bruno Araújo reafirmou que Dilma foi responsável pela suspensão das contratações da faixa 1 do Minha Casa Minha Vida, que contempla a população mais pobre, de renda até R$ 1,8 mil. "O governo afastado contratou zero unidades. O que Dilma fez foi retirar dos recursos nacionais o dinheiro da faixa 1", criticou. Para esse público, o governo chegava a bancar até 95% do valor do imóvel.</p>
-<p>Até abril, o ministro das Cidades era Gilberto Kassab (PSD), agora aliado de Temer e nomeado pelo peemedebista como ministro de Ciência, Tecnologia, Inovações e Comunicações.</p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/01/minha-casa-minha-vida-apos-revogar-portarias-bruno-araujo-anunciara-entidades-para-programa/">Minha Casa Minha Vida: após revogar portarias, Bruno Araújo anunciará entidades para programa</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/17/ministro-das-cidades-diz-que-pt-tentou-jogar-para-plateia-usando-programa-minha-casa-minha-vida/">Ministro das Cidades diz que PT tentou “jogar para plateia” usando programa Minha Casa Minha Vida</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/17/humberto-costa-acusa-governo-temer-de-revogar-construcao-de-35-mil-moradias-do-minha-casa-minha-vida/">Humberto Costa acusa Governo Temer de revogar construção de 35 mil moradias do Minha Casa Minha Vida</a></p>
-<p>O ministro afirmou que a visita a Jaboatão foi para diagnosticar o cenário do município em relação a ações da pasta, como obras de contenção de encostas. "Para que o próprio prefeito priorize as suas ações", disse.</p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/05/27/movimentos-sociais-protestam-contra-bruno-araujo-no-recife/">Movimentos sociais protestam contra Bruno Araújo no Recife</a></p>
-<p>Bruno Araújo também foi ao Cabo de Santo Agostinho para encontrar o deputado federal Betinho Gomes (PSDB), filho de Elias Gomes e pré-candidato a prefeito do município. Da área sul da Região Metropolitana, foi a Camaragibe, administrada pelo seu aliado Jorge Alexandre (PSDB), que tenta reeleição este ano.</p>
-<p><img class="size-medium wp-image-148310" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/06/GM040616025-580x387.jpg" alt="Foto: Guga Matos/JC Imagem Data: 4-6-2016 Assunto: CIDADES - Ministro da Cidades Bruno Araújo realiza reunião com o Prefeito de Jaboatão Elias Gomes para discutir, os projetos conveniados com o Ministério. Palavra chave: Ministro das Cidades - Bruno Araújo - Prefeitura de Jaboatão dos Guararapes - Elias Gomes - Prefeito - Pernambuco - ##" width="580" height="387" /> Foto: Guga Matos/JC Imagem</p>
-<p>Segundo o ministro, devem ser liberados pela pasta para esses e outros municípios recursos para projetos, além da execução de empreendimentos. "É por falta de projetos, mal elaborados, feitos às pressas", justificou, atacando em seguida o governo de Dilma, alegando que a gestão dava pouco tempo para que as prefeituras fizessem os estudos antes de pleitear verba do ministério. "Vamos separar recursos para algo que não aparece para obra, que não tem fita de inauguração, que não tem banda."</p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/02/bruno-araujo-quer-mudar-estrutura-de-atuacao-da-cbtu/">Ministro das Cidades quer mudar estrutura da CBTU</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/01/sem-recursos-metro-do-recife-pode-parar-em-julho/">Sem recursos, metrô do Recife pode parar em julho</a></p>
-<p>Bruno Araújo tem encontro com o governador Paulo Câmara (PSB) marcado para este domingo (5). Na segunda-feira (6), a agenda é na administração local da Companhia Brasileira de Trens Urbanos (CBTU), onde vai ouvir sugestões de técnicos e da diretoria do Sindicato dos Rodoviários sobre melhorias de gestão e para o metrô do Recife, que, sem recursos, pode deixar de atender à população a partir de julho.</p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/tag/prefeito-de-camaragibe/">Prefeito de Camaragibe espera muito de Bruno Araujo, aliado tucano no Ministério das Cidades</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/03/betinho-gomes-recebe-apoio-do-solidariedade-no-cabo/">Betinho Gomes recebe apoio do Solidariedade no Cabo</a></p>
-<p>» <a href="https://blogs.ne10.uol.com.br/jamildo/2016/06/02/em-ano-de-eleicao-elias-gomes-corre-para-inaugurar-obras-em-jaboatao/">Em ano de eleição, Elias Gomes corre para inaugurar obras em Jaboatão</a></p>
-{% endraw %}

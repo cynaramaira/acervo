@@ -1,31 +1,0 @@
----
-id: 12537368
-date: "2016-09-11T15:28:25Z"
-last_modified_at: null
-tags:
-  - "acordo"
-  - "fundo-eleitoral"
-categories:
-  - "noticias"
-title: "Russomanno fez acordo para evitar puni\u00e7\u00e3o eleitoral"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/08/celso-russomano.jpg"
----
-{% raw %}
-<p><div id="Corpo"></p>
-<p><em>Estadão Conteúdo -</em> O deputado federal Celso Ubirajara Russomanno cumpriu, sem alarde, entre junho de 2013 e junho de 2015, um acordo judicial que acabou por livrá-lo do julgamento de um crime eleitoral - o de falsificar declaração em documento público, com pena de até cinco anos de reclusão, como prevê o artigo 35 do Código Eleitoral.</p>
-<p>No caso concreto, o hoje líder das pesquisas para a eleição à Prefeitura de São Paulo estava denunciado, pelo Ministério Público, por declaração falsa de domicílio eleitoral em Santo André, no ABC paulista, onde concorreu à eleição para a prefeitura no ano 2000 (e perdeu para o petista Celso Daniel).</p>
-<p>O acordo que beneficiou o deputado hoje do Partido Republicano Brasileiro - que não deu retorno ao pedido de entrevista do Estado - foi assinado no fórum de Santo André, em 7 de junho de 2013, na presença da promotora Patrícia Maria Sanvito Moroni, e do juiz Jarbas Luiz dos Santos, então atuantes na 262.ª zona eleitoral.</p>
-<p>Em troca da suspensão condicional do processo - que acabou sendo arquivado, sem julgamento do mérito -, Russomanno obrigou-se a comparecer, uma vez a cada eleidois meses, ao cartório da 262.ª zona, à rua Marquesa de Santos, 52, em Santo André. E assim o fez, batendo o ponto no cartório a cada bimestre do período - 12 vezes, no total. Findo o prazo, o processo número 6706.2012.626 0262 foi arquivado, em setembro do ano passado. Russomanno comemorou. Era, afinal, o enterro silencioso de um esqueleto que o atazanava desde 1999, e no qual driblara, ao longo de quase 16 anos, com muitos advogados, decisões desfavoráveis na primeira e na segunda instâncias da Justiça Eleitoral de São Paulo e, até, por duas vezes, no Supremo Tribunal Federal.</p>
-<p><b>Legislação</b> - O benefício que permite a suspensão condicional de um processo, mediante certas condições, está previsto no artigo 89 da Lei 9.099, de 1995. Ele diz que se a pena mínima cominada for igual ou inferior a um ano, o Ministério Público, ao oferecer a denúncia, poderá propor a suspensão do processo, por dois a quatro anos. É necessário, para tal, que o acusado não esteja sendo processado, ou não tenha sido condenado por outro crime, além de outros requisitos exigidos pelo artigo 77 do Código Penal.</p>
-<p>O juiz Jarbas entendeu que Russomanno atendia essas exigências - e, no mesmo acordo, concordou em conceder-lhe a liberalidade de não ter que informar sua saída de São Paulo a cada vez que precisasse fazê-lo. "Considerando-se a carreira política do denunciado, eventual ausência da Comarca, em razão de viagens a trabalho, não necessitará de prévia autorização judicial", diz o documento firmado em junho de 2013.</p>
-<p><b>Derrotas</b> - O começo do caso está em 29 de setembro de 1999. Russomanno estava, então, no PPB de Paulo Maluf. Pretendia disputar a eleição do ano seguinte para a prefeitura de Santo André. Para habilitar-se, requereu à 262ª zona eleitoral a transferência de seu domicílio eleitoral. Declarou, em 29 de setembro de 1999, que alugara, desde 14 de junho, um apartamento na rua Luiz Pinto Flaquer, 500, em Santo André.</p>
-<p>Também concorrente à eleição, o PSB do município acusou Russomanno por declaração falsa, e pediu que o Ministério Público eleitoral impugnasse o domicílio. Russomanno obteve uma liminar que permitiu sua participação na eleição - teve 80 mil votos, contra 250 mil de Celso Daniel -, mas, no mérito, o juiz José Luiz Silveira de Araujo o condenou. Foi a primeira derrota de Russomanno.</p>
-<p>Ele recorreu ao Tribunal Regional Eleitoral - e perdeu, por unanimidade, uma segunda vez. O acórdão com essa decisão - número 136.172, de 17 de agosto de 2000 - acata os três argumentos da primeira instância: 1) O proprietário do apartamento disse que Russomanno esteve no local uma vez, mas não contratou o aluguel, porque não havia garagem; 2) três moradores do prédio disseram que nunca o viram por lá; 3) inexistiu consumo de energia elétrica no período alegado. "Esse conjunto probatório" - diz o acórdão do TRE-SP, assinado por seis juízes - "é demais sólido para identificar que o recorrente não residiu no local declinado." Russomanno mais uma vez recorreu, com embargos, e amargou a terceira derrota.</p>
-<p>Em junho de 2000, o foro privilegiado de deputado federal levou o processo para o Supremo Tribunal Federal. Ali ele tramitou, por dez anos, como o inquérito 1645, em que o Ministério Público Federal acusava o parlamentar pelo crime do artigo 350. A denúncia contra Russomanno, relatada pelo ministro Eros Grau, foi aceita, por unanimidade, em 5 de junho de 2008. Em junho de 2012, rejeitando todos os recursos dos advogados de Russomanno - inclusive o que alegava prescrição -, o STF autuou o inquérito como ação penal, [AP 685]tendo o ministro Luiz Fux como relator</p>
-<p>Como naquele momento o réu não mais tivesse foro privilegiado - perdera a eleição de 2010, para o governo de São Paulo, vencida por Geraldo Alckmin, e estava sem mandato - Fux, no mesmo junho de 2012, mandou que a ação prosseguisse na primeira instância, justo a 262.ª zona eleitoral de Santo André, onde foi rebatizado como AP 6706.</p>
-<p>Em 17 de agosto daquele mesmo ano, o juiz eleitoral Jarbas Luiz dos Santos deu um despacho em que não acolheu nenhuma preliminar dos advogados de Russomanno - entre elas a que pedia sua "preservação", já que, argumentaram, seria candidato a prefeito de São Paulo na eleição de 2012. "Inacolhível", escreveu o juiz Jarbas. "O que deve ser preservado é a lei."As informações são do jornal<b>O Estado de S. Paulo.</b></p>
-<p></div></p>
-{% endraw %}

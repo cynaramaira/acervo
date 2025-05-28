@@ -1,25 +1,0 @@
----
-id: 12511969
-date: "2016-02-11T15:00:36Z"
-last_modified_at: null
-tags:
-  - "sem-tags"
-categories:
-  - "noticias"
-title: "Os mascarados venceram!"
-sutia: null
-chapeu: null
-autor: null
-imagem: "https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2014/02/blackblocs.jpg"
----
-{% raw %}
-<p>O medo, por Amadeu Garrido de Paula</p>
-<p>Expressiva parcela dos habitantes saiu de seus casulos. Ganhou os espaços públicos. Sem entrechoques. Desprovida de uma séria e única proposta. Política de muitas bandeiras, algumas insólitas, outras discrepantes ou contraditórias. A ficção conduz a vontade dispersa, desprezada uma volição racional e abrangente, oriunda do melhor estado de vigília coletiva. Centavos por passagens de ônibus?</p>
-<p>Povos arcanos protestavam contra os Deuses. Não eram merecedores de tantas tragédias, tampouco por algumas moedas perdidas. Sob a acreditada onipotência dos Deuses, esses povos conheceram o opróbrio, o cárcere. Indivíduos não tinham o indicador da mão direita. Estigma indelével, suportado na duração da vida. Fome e pestes. Impostos imprevistos, que convertiam em pesadelos os sonhos das colheitas. Ousavam reclamar no espaço que medeia entre a sociedade e o inimigo, que ainda não levava o nome de Estado. Sempre com muito temor dos atroos dos céus, das vociferações dos poderosos domiciliados depois das nuvens, de raios, trovões esbravejantes e censórios que repudiavam a ousadia de protestar.</p>
-<p>Assim caminhou a humanidade. Entre avanços a recuos, derrotas e vitórias, de reis, nobres e plebeus. O medo desestimulava indistintamente. Combate-se, é imprescindível, mas teme-se. O instinto de sobrevivência bifronte determina a passeata pública e o recolhimento à segurança dos lares impenetráveis. Bombas de gás lacrimogênio ardem os olhos e despertam as emoções contraditórias do medo e da coragem.</p>
-<p>As cavilações terminam e as instituições persistem. Salvo momentos especiais da história, corretamente descritos como revolucionários, em que a coragem vingou. Documentos jurídicos consagradores de raras vitórias se espalharam pelo mundo. São as Constituições. A maioria falsas ou frágeis como uma nuvem remota sobre um morro, compostas de supostas regras de aço enferrujado sob as fumaceiras das noites políticas que se sucederam. De todo modo, modelos democráticos. Ainda é um mistério o incêndio da biblioteca de Alexandria e de todas as Constituições do mundo comentadas por Aristóteles, todos os papiros carbonizados, salvo o de Atenas. Um bom tema.</p>
-<p>Lá se vão dois anos das grandes passeatas do Brasil. Claro que não em buscas de moedas, exceção daquela única, símbolo de uma nova ordem jurídica e de um novo governo. Indubitavelmente, essa foi à moeda sofregamente buscada em São Paulo, Rio de Janeiro, Belo Horizonte, Brasília e, não só, em todas as demais Capitais do país, mas até mesmo em longínquos rincões. Deuses onipotentes, vocês venceram, o povo brasileiro de um touro tornou-se uma rosa sob a tempestade; nossa nação foi contemplada com as propaladas "reformas"; ou sua onipotência numinosa mostrou as garras de monstros.</p>
-<p>Nas circunstâncias não é possível não analisar os "black blocs", mascarados mensageiros do indefectível. Seriam justiceiros, mais justos que os demais... Por que as máscaras? Para teatralizar a vida, fazer da revolução francesa um episódio de Hamlet? Mascarados sempre houve na passagem do ser racional sobre o planeta. Especialmente na controvertida e esfumaçada idade média. As seitas heréticas cobriam os rostos. A máscara diferencia o povo, famílias, pais, mães, irmãos, filhos de tenra idade, das seitas voltadas a algum tipo de violência. São grotescos os grupos de direitos humanos que se propõem a comparar violências, inevitáveis entre as seitas e a polícia. Violências recíprocas não devem ser objeto de contabilidade. É claro que do lado policial, em todo o mundo, está o mais poderoso ativo. Por isso mesmo é que as seitas provocam as reações menos aprazíveis à democracia. Têm o terror como pressuposto e o arrefecimento dos legítimos movimentos de amplas massas como consequência.</p>
-<p>Divulgou-se nesta semana que nenhum mascarado foi identificado, investigado e processado no Estado de São Paulo. A científica polícia brasileira limitou-se a bater, a fabricar heróis. Repercutiu os mais fundados anseios dos equivocados humanistas. A democracia e a Constituição, em seus legítimos limites, conferem às autoridades ferramentas legais e não abusivas, muito mais eficientes que a jurisprudência dos cassetetes. Tivessem sido utilizadas e o povo brasileiro estaria de volta às ruas, em torno do único fim que justifica sua mobilização: a construção de um país ordenado e próspero, onde nossas vidas sejam dignas de ser vividas.</p>
-<p>Amadeu Garrido de Paula é jurista e autor do livro "Universo Invisível".</p>
-{% endraw %}

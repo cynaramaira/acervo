@@ -1,35 +1,0 @@
----
-id: 12510473
-date: "2016-01-14T18:25:06Z"
-last_modified_at: null
-tags:
-  - "advogados"
-  - "contran"
-  - "lava-jato"
-categories:
-  - "noticias"
-title: "Advogados divulgam manifesto contra a Lava Jato"
-sutia: null
-chapeu: null
-autor: null
-imagem: null
----
-{% raw %}
-<p><img class="size-full wp-image-139411" src="https://imagens.ne10.uol.com.br/legado/blogsne10/jamildo/uploads/2016/01/jose-dirceu_lava-jato_03082015_02-1.jpg" alt="Prisão do ex-ministro José Dirceu na 17ª operação da Lava Jato. Foto: Reprodução da internet" width="580" height="387" /> Prisão do ex-ministro José Dirceu na 17ª operação da Lava Jato. Foto: Reprodução da internet</p>
-<p><em>Estadão Conteúdo</em> - Dezenas de advogados penalistas e constitucionalistas redigiram manifesto contra a Operação Lava Jato. O documento será divulgado nesta sexta-feira, 15, nos principais veículos de comunicação. Os advogados, entre eles defensores de políticos e empreiteiras sob suspeita de formação de cartel no esquema de corrupção instalado na Petrobras entre 2004 e 2014, afirmam que "no plano do desrespeito a direitos e garantias fundamentais dos acusados, a Lava Jato já ocupa um lugar de destaque na história do País".</p>
-<p>"Nunca houve um caso penal em que as violações às regras mínimas para um justo processo estejam ocorrendo em relação a um número tão grande de réus e de forma tão sistemática", afirmam.</p>
-<p>O manifesto, que não cita nenhum protagonista da força-tarefa da Lava Jato, será distribuído apenas alguns dias depois que o ministro Ricardo Lewandowski, presidente do Supremo Tribunal Federal, manteve na prisão o empreiteiro Marcelo Odebrecht - capturado na Operação Erga Omnes no dia 19 de junho de 2015, por suspeita de corrupção e lavagem de dinheiro.</p>
-<p><strong>LEIA TAMBÉM:</strong></p>
-<p>&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/01/12/lava-jato-e-oposicao-obrigam-temer-a-se-unir-a-dilma-em-defesa-no-tse/" target="_blank">Lava Jato e oposição obrigam Temer a se unir a Dilma em defesa no TSE</p>
-<p>&gt;</a> <a href="https://blogs.ne10.uol.com.br/jamildo/2016/01/11/investigados-na-lava-jato-relatam-ameaca-de-doleiro-ligado-a-eduardo-cunha-diz-jornal/" target="_blank">Investigados na Lava Jato relatam ameaça de doleiro ligado a Eduardo Cunha, diz jornal</a></p>
-<p>&gt;<a href="https://blogs.ne10.uol.com.br/jamildo/2016/01/11/139183/" target="_blank"> Lava Jato investiga 13 bancos por crime de lavagem</a></p>
-<p>&gt; <a href="https://blogs.ne10.uol.com.br/jamildo/2016/01/10/marcos-valerio-propoe-delacao-na-lava-jato/" target="_blank">Marcos Valério propõe delação na Lava Jato</a></p>
-<p>Subscrevem o documento nomes de grande prestígio na advocacia, profissionais que ao longo de muitas décadas travaram embates memoráveis nos tribunais, como Antonio Cláudio Mariz de Oliveira, Antonio Carlos de Almeida Castro Kakay, Nabor Bulhões e Antonio Sérgio de Moraes Pitombo. O ex-ministro do Superior Tribunal de Justiça (STJ) Gilson Dipp também assina o manifesto</p>
-<p>Um trecho da carta ainda em revisão é categórico: "O desrespeito à presunção de inocência, ao direito de defesa, à garantia da imparcialidade da jurisdição, o desvirtuamento do uso da prisão provisória, o vazamento de informações seletivas e confidenciais, a execração publica dos réus, dentre outros graves vícios, estão se consolidando como marca da Lava Jato, com consequências incalculáveis para o presente e o futuro da justiça criminal brasileira."</p>
-<p>A carta diz que "o que se tem visto nos últimos tempos é uma espécie de inquisição, ou neoinquisição, em que já se sabe, antes mesmo de começarem os processos, qual será o seu resultado, servindo as etapas processuais que se seguem entre a denúncia e a sentença apenas para cumprir 'indesejáveis' formalidades".</p>
-<p>Segue o esboço do documento: "Nessa última semana, a reportagem de capa de uma das mais vendidas revistas semanais brasileiras não deixa dúvida à gravidade do que aqui se passa. Numa atitude ignominiosa e tipicamente sensacionalista, fotografias de alguns dos réus (extraídas indevidamente de seus prontuários na Unidade Prisional em que aguardam julgamento) foram estampadas de forma vil e espetaculosa, com o claro intento de promover-lhes o enxovalhamento e instigar a execração pública. Trata-se, sem dúvida, de mais uma manifestação da estratégia em prejuízo da presunção da inocência das pessoas e da imparcialidade que haveria de imperar nos julgamentos dos acusados - que tem marcado, desde o começo, o comportamento desvirtuado estabelecido entre os órgãos de persecução e alguns setores da imprensa."</p>
-<p>O texto deverá apontar também: "Esta é uma prática absurda e que não pode ser tolerada numa sociedade que se pretenda democrática, sendo preciso reagir e denunciar tudo isso, dando vazão ao sentimento de indignação que toma conta de quem tem testemunhado esse conjunto de acontecimentos. A operação Lava Jato se transformou numa Justiça à parte. Uma Justiça que se orienta pela tônica de que os fins justificam os meios, o que representa um retrocesso histórico de vários séculos, com a supressão de garantias e direitos duramente conquistados, sem os quais o que sobra é um arremedo de processo, enfim, uma tentativa de justiçamento, como não se via nem mesmo na época da ditadura."</p>
-<p>Os advogados afirmam: "É inaceitável - como já se fez várias vezes, sendo a última e mais inadmissível em face de Ministro integrante de uma das mais altas Cortes do país - que magistrados sejam atacados ou colocados sob suspeita pelo fato de decidirem ou votarem (de acordo com seus convencimentos e consciências) pelo restabelecimento da liberdade dos réus, a ponto de se fazer necessária, em desagravo, a insurgência e a manifestação de apoio e solidariedade de entidades associativas de juízes. Isto é gravíssimo e além de representar uma tentativa de supressão da independência judicial, revela que aos acusados não está sendo assegurado o direito a um justo processo."</p>
-<p>Os causídicos da Lava Jato avaliam que "é de todo inaceitável, numa justiça que se pretenda democrática, que a prisão provisória seja indisfarçavelmente utilizada para estimular a celebração de acordos de delação premiada, como, aliás, já defenderam publicamente alguns Procuradores que atuaram no caso"</p>
-<p>"Num dia os réus estão encarcerados por força de decisões que afirmam a imprescindibilidade de suas prisões, dado que suas liberdades representariam gravíssimo risco à ordem pública; no dia seguinte, fazem acordo de delação premiada e são postos em liberdade, como se num passe de mágica toda essa imprescindibilidade da prisão desaparecesse. No mínimo, a prática evidencia o quanto artificiais e puramente retóricos são os fundamentos utilizados nos decretos de prisão. É grave o atentado à Constituição e ao Estado de Direito e é inadmissível que Poder Judiciário não se oponha a esse artifício."</p>
-{% endraw %}
